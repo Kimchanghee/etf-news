@@ -1,0 +1,13 @@
+{
+  "name": "ETF와이어",
+  "short_name": "ETFWire",
+  "description": "글로벌 ETF 트렌드와 분석",
+  "start_url": "/ko",
+  "display": "standalone",
+  "background_color": "#0e1116",
+  "theme_color": "#0e1116",
+  "icons": [
+    { "src": "/icon-192.svg", "sizes": "192x192", "type": "image/svg+xml" },
+    { "src": "/icon-512.svg", "sizes": "512x512", "type": "image/svg+xml" }
+  ]
+}
