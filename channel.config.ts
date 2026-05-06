@@ -11,11 +11,11 @@ export const channel = {
   keywords: ['ETF', '펀드', '패시브', '인덱스', '자금흐름', '자산배분'],
   geo: { country: 'KR', region: 'Asia', primaryCity: 'Seoul' },
   rssSources: [
-    { url: 'https://news.google.com/rss/search?q=ETF+%ED%95%9C%EA%B5%AD&hl=ko&gl=KR&ceid=KR:ko', category: 'market' },
-    { url: 'https://news.google.com/rss/search?q=%ED%8E%80%EB%93%9C+%EC%9E%90%EA%B8%88&hl=ko&gl=KR&ceid=KR:ko', category: 'analysis' },
-    { url: 'https://news.google.com/rss/search?q=ETF+inflows&hl=en&gl=US&ceid=US:en', category: 'market' },
-    { url: 'https://news.google.com/rss/search?q=index+fund+passive&hl=en&gl=US&ceid=US:en', category: 'analysis' },
-    { url: 'https://news.google.com/rss/search?q=BlackRock+Vanguard&hl=en&gl=US&ceid=US:en', category: 'breaking' }
+    { url: 'https://www.mk.co.kr/rss/50200011/', category: 'market' },
+    { url: 'https://www.hankyung.com/feed/finance', category: 'breaking' },
+    { url: 'https://rss.mt.co.kr/mt_securities.xml', category: 'policy' },
+    { url: 'https://www.yna.co.kr/rss/economy.xml', category: 'analysis' },
+    { url: 'https://www.mk.co.kr/rss/50100032/', category: 'analysis' }
   ] as RSSSource[],
   categories: [
     { slug: 'breaking', name: { ko: '속보', en: 'Breaking', ja: '速報', zh: '快讯', es: 'Última hora', pt: 'Última hora', de: 'Eilmeldung', fr: 'Dernières', ar: 'عاجل', hi: 'ब्रेकिंग', id: 'Terbaru' } },
