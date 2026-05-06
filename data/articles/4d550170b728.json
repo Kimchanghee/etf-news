@@ -1,0 +1,75 @@
+{
+  "id": "4d550170b728",
+  "slug": "싸이토젠-aacr-2026에서-고해상도-ctc-전사체-분석법-기술-공개-942871",
+  "channelId": "ETF",
+  "category": "etf",
+  "publishedAt": "2026-05-06T18:15:40.865Z",
+  "updatedAt": "2026-05-06T18:15:40.865Z",
+  "sourceName": "mk.co.kr",
+  "sourceUrl": "https://www.mk.co.kr/news/stock/12037368",
+  "canonicalUrl": "https://www.mk.co.kr/news/stock/12037368",
+  "titleFingerprint": "1758a11720a5c285859df80446682637920659cb",
+  "dedupKeys": [
+    "4d550170b7287b71221934481b81103f200f5a02",
+    "1758a11720a5c285859df80446682637920659cb",
+    "192dbe40f6824675e3e8dee897e0b990c545d28e"
+  ],
+  "imageUrl": "/images/articles/4d550170b728.png",
+  "i18n": {
+    "ko": {
+      "title": "싸이토젠, AACR 2026서 고해상도 CTC 전사체 분석 기술 공개…정밀의료 주목",
+      "excerpt": "싸이토젠은 AACR 2026에서 혈액 내 극미량 순환종양세포를 분석하는 고해상도 CTC 전사체 분석법을 공개하며 CTC 기반 정밀의료 기술을 소개했다.",
+      "body": "순환종양세포(CTC) 기반 정밀의료 기업 싸이토젠이 미국암연구학회(AACR) 2026에 참가해 고해상도 CTC 전사체 분석법 기술을 공개했다. 이번 기술은 혈액 내 극미량으로 존재하는 암세포를 대상으로 단일세포 전사체 분석을 수행하는 데 초점을 둔다. AACR은 세계 최대 규모의 암학회로 꼽히며, 암 연구와 진단·치료 기술이 공유되는 주요 무대다. 싸이토젠은 CTC를 활용해 암세포의 특성을 정밀하게 분석하는 접근을 제시했다. 이번 공개는 혈액 기반 암 분석 기술의 활용 가능성을 알리는 계기가 될 전망이다. 출처: mk.co.kr"
+    },
+    "en": {
+      "title": "Cytogen Unveils High-Resolution CTC Transcriptome Analysis at AACR 2026",
+      "excerpt": "Cytogen introduced its high-resolution CTC transcriptome analysis method at AACR 2026, presenting technology for studying rare cancer cells in blood.",
+      "body": "Cytogen, a precision medicine company based on circulating tumor cells (CTCs), participated in the American Association for Cancer Research (AACR) 2026 and unveiled a high-resolution CTC transcriptome analysis technology. The method focuses on single-cell transcriptome analysis of cancer cells that exist in extremely small amounts in the blood. AACR is regarded as one of the world’s largest cancer research meetings and a major venue for sharing cancer research, diagnosis, and treatment technologies. Cytogen presented an approach for precisely analyzing cancer cell characteristics using CTCs. The disclosure is expected to highlight the potential use of blood-based cancer analysis technology. Source: mk.co.kr"
+    },
+    "ja": {
+      "title": "サイトジェン、AACR 2026で高解像度CTCトランスクリプトーム解析技術を公開",
+      "excerpt": "サイトジェンはAACR 2026で、血液中に極めて少量存在する循環腫瘍細胞を解析する高解像度CTCトランスクリプトーム解析法を紹介した。",
+      "body": "循環腫瘍細胞（CTC）基盤の精密医療企業サイトジェンは、米国癌研究学会（AACR）2026に参加し、高解像度CTCトランスクリプトーム解析技術を公開した。この技術は、血液中に極めて少量存在するがん細胞を対象に、単一細胞トランスクリプトーム解析を行うことに重点を置いている。AACRは世界最大規模のがん学会とされ、がん研究や診断・治療技術が共有される主要な場だ。サイトジェンはCTCを活用し、がん細胞の特性を精密に解析するアプローチを示した。今回の公開は、血液ベースのがん解析技術の活用可能性を示す契機になる見通しだ。出典: mk.co.kr"
+    },
+    "zh": {
+      "title": "Cytogen在AACR 2026公开高分辨率CTC转录组分析技术",
+      "excerpt": "Cytogen在AACR 2026上介绍高分辨率CTC转录组分析法，用于分析血液中极微量循环肿瘤细胞，展示CTC精准医疗技术。",
+      "body": "基于循环肿瘤细胞（CTC）的精准医疗企业Cytogen参加美国癌症研究协会年会（AACR）2026，并公开了高分辨率CTC转录组分析技术。该技术聚焦于对血液中极微量存在的癌细胞进行单细胞转录组分析。AACR被认为是全球最大规模的癌症学会之一，也是癌症研究、诊断和治疗技术交流的重要平台。Cytogen展示了利用CTC精密分析癌细胞特征的方法。此次公开预计将成为展示血液基础癌症分析技术应用可能性的契机。来源: mk.co.kr"
+    },
+    "es": {
+      "title": "Cytogen presenta análisis transcriptómico CTC de alta resolución en AACR 2026",
+      "excerpt": "Cytogen presentó en AACR 2026 su método de análisis transcriptómico CTC de alta resolución para estudiar células tumorales circulantes raras en sangre.",
+      "body": "Cytogen, empresa de medicina de precisión basada en células tumorales circulantes (CTC), participó en la reunión de la American Association for Cancer Research (AACR) 2026 y presentó una tecnología de análisis transcriptómico CTC de alta resolución. El método se centra en el análisis transcriptómico de célula única de células cancerosas que existen en cantidades extremadamente pequeñas en la sangre. AACR es considerada una de las mayores reuniones mundiales sobre cáncer y un escenario clave para compartir investigación, diagnóstico y tecnologías de tratamiento. Cytogen mostró un enfoque para analizar con precisión las características de las células cancerosas mediante CTC. La presentación apunta a destacar el potencial de las tecnologías de análisis de cáncer basadas en sangre. Fuente: mk.co.kr"
+    },
+    "pt": {
+      "title": "Cytogen revela análise transcriptômica CTC de alta resolução na AACR 2026",
+      "excerpt": "A Cytogen apresentou na AACR 2026 seu método de análise transcriptômica CTC de alta resolução para estudar raras células tumorais circulantes no sangue.",
+      "body": "A Cytogen, empresa de medicina de precisão baseada em células tumorais circulantes (CTCs), participou da American Association for Cancer Research (AACR) 2026 e revelou uma tecnologia de análise transcriptômica CTC de alta resolução. O método se concentra na análise transcriptômica de célula única de células cancerosas presentes em quantidades extremamente pequenas no sangue. A AACR é considerada uma das maiores reuniões de câncer do mundo e um espaço importante para compartilhar pesquisas, diagnósticos e tecnologias de tratamento. A Cytogen apresentou uma abordagem para analisar com precisão as características das células cancerosas usando CTCs. A divulgação deve evidenciar o potencial das tecnologias de análise de câncer baseadas em sangue. Fonte: mk.co.kr"
+    },
+    "de": {
+      "title": "Cytogen zeigt hochauflösende CTC-Transkriptomanalyse auf der AACR 2026",
+      "excerpt": "Cytogen stellte auf der AACR 2026 eine hochauflösende CTC-Transkriptomanalyse vor, die seltene zirkulierende Tumorzellen im Blut untersucht.",
+      "body": "Cytogen, ein auf zirkulierenden Tumorzellen (CTC) basierendes Unternehmen für Präzisionsmedizin, nahm an der American Association for Cancer Research (AACR) 2026 teil und stellte eine hochauflösende CTC-Transkriptomanalyse vor. Die Technologie konzentriert sich auf die Einzelzell-Transkriptomanalyse von Krebszellen, die nur in äußerst geringen Mengen im Blut vorkommen. Die AACR gilt als eine der weltweit größten Krebsforschungstagungen und als wichtige Bühne für Forschung sowie Diagnose- und Behandlungstechnologien. Cytogen zeigte einen Ansatz, mit dem Eigenschaften von Krebszellen mithilfe von CTC präzise analysiert werden können. Die Vorstellung dürfte die Einsatzmöglichkeiten blutbasierter Krebsanalysetechnologien sichtbar machen. Quelle: mk.co.kr"
+    },
+    "fr": {
+      "title": "Cytogen dévoile l’analyse transcriptomique CTC haute résolution à l’AACR 2026",
+      "excerpt": "Cytogen a présenté à l’AACR 2026 une méthode d’analyse transcriptomique CTC haute résolution pour étudier les rares cellules tumorales circulantes du sang.",
+      "body": "Cytogen, entreprise de médecine de précision fondée sur les cellules tumorales circulantes (CTC), a participé à l’American Association for Cancer Research (AACR) 2026 et y a dévoilé une technologie d’analyse transcriptomique CTC haute résolution. La méthode se concentre sur l’analyse transcriptomique unicellulaire de cellules cancéreuses présentes en quantités infimes dans le sang. L’AACR est considérée comme l’un des plus grands congrès mondiaux sur le cancer et un lieu majeur d’échange sur la recherche, le diagnostic et les technologies de traitement. Cytogen a présenté une approche visant à analyser précisément les caractéristiques des cellules cancéreuses à partir des CTC. Cette annonce devrait mettre en avant le potentiel des technologies d’analyse du cancer basées sur le sang. Source: mk.co.kr"
+    },
+    "ar": {
+      "title": "سايتوجين تكشف في AACR 2026 تقنية تحليل ترانسكربتوم CTC عالية الدقة",
+      "excerpt": "قدمت سايتوجين في AACR 2026 طريقة تحليل ترانسكربتوم CTC عالية الدقة لدراسة الخلايا السرطانية الدوارة النادرة الموجودة في الدم.",
+      "body": "شاركت سايتوجين، وهي شركة طب دقيق قائمة على الخلايا السرطانية الدوارة (CTC)، في اجتماع الجمعية الأمريكية لأبحاث السرطان AACR 2026 وكشفت تقنية تحليل ترانسكربتوم CTC عالية الدقة. تركز هذه التقنية على تحليل ترانسكربتوم الخلية المفردة للخلايا السرطانية الموجودة بكميات ضئيلة للغاية في الدم. ويعد AACR من أكبر المؤتمرات العالمية في أبحاث السرطان ومنصة رئيسية لتبادل أبحاث السرطان وتقنيات التشخيص والعلاج. وقدمت سايتوجين نهجا لتحليل خصائص الخلايا السرطانية بدقة باستخدام CTC. ومن المتوقع أن يبرز هذا الكشف إمكانات تقنيات تحليل السرطان المعتمدة على الدم. المصدر: mk.co.kr"
+    },
+    "hi": {
+      "title": "Cytogen ने AACR 2026 में हाई-रिजॉल्यूशन CTC ट्रांसक्रिप्टोम विश्लेषण दिखाया",
+      "excerpt": "Cytogen ने AACR 2026 में रक्त में मौजूद अत्यल्प परिसंचारी ट्यूमर कोशिकाओं के अध्ययन के लिए हाई-रिजॉल्यूशन CTC ट्रांसक्रिप्टोम विश्लेषण विधि पेश की।",
+      "body": "परिसंचारी ट्यूमर कोशिका (CTC) आधारित प्रिसिजन मेडिसिन कंपनी Cytogen ने American Association for Cancer Research (AACR) 2026 में भाग लेकर हाई-रिजॉल्यूशन CTC ट्रांसक्रिप्टोम विश्लेषण तकनीक पेश की। यह विधि रक्त में अत्यंत कम मात्रा में मौजूद कैंसर कोशिकाओं पर सिंगल-सेल ट्रांसक्रिप्टोम विश्लेषण करने पर केंद्रित है। AACR को दुनिया के सबसे बड़े कैंसर शोध सम्मेलनों में गिना जाता है, जहां कैंसर अनुसंधान, निदान और उपचार तकनीकों को साझा किया जाता है। Cytogen ने CTC का उपयोग करके कैंसर कोशिकाओं की विशेषताओं का सटीक विश्लेषण करने का तरीका प्रस्तुत किया। यह घोषणा रक्त-आधारित कैंसर विश्लेषण तकनीक की उपयोगिता को सामने लाने का अवसर बन सकती है। स्रोत: mk.co.kr"
+    },
+    "id": {
+      "title": "Cytogen Ungkap Analisis Transkriptom CTC Resolusi Tinggi di AACR 2026",
+      "excerpt": "Cytogen memperkenalkan metode analisis transkriptom CTC resolusi tinggi di AACR 2026 untuk meneliti sel tumor sirkulasi yang sangat langka dalam darah.",
+      "body": "Cytogen, perusahaan pengobatan presisi berbasis circulating tumor cells (CTC), berpartisipasi dalam American Association for Cancer Research (AACR) 2026 dan mengungkap teknologi analisis transkriptom CTC resolusi tinggi. Metode ini berfokus pada analisis transkriptom sel tunggal terhadap sel kanker yang ada dalam jumlah sangat kecil di dalam darah. AACR dikenal sebagai salah satu pertemuan kanker terbesar di dunia dan menjadi ajang penting untuk berbagi riset kanker serta teknologi diagnosis dan pengobatan. Cytogen memaparkan pendekatan untuk menganalisis karakteristik sel kanker secara presisi menggunakan CTC. Pengungkapan ini diperkirakan menyoroti potensi pemanfaatan teknologi analisis kanker berbasis darah. Sumber: mk.co.kr"
+    }
+  }
+}
