@@ -1,5 +1,230 @@
 [
   {
+    "id": "a2e0a7e90eb4",
+    "slug": "코스피-시총-증가분-80가-삼전닉스축포-속-양극화-커져-458716",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-05-06T11:24:58.813Z",
+    "updatedAt": "2026-05-06T11:24:58.813Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/stock/12037754",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12037754",
+    "titleFingerprint": "800f31a463580337a4d64a2ef42c98489f660d1e",
+    "dedupKeys": [
+      "a2e0a7e90eb4d9f82c0c66a0fa58f27293344faf",
+      "800f31a463580337a4d64a2ef42c98489f660d1e",
+      "ac4ddbbcb1f81e84ff2fcc9febc016cc003b98e9"
+    ],
+    "imageUrl": "/images/articles/a2e0a7e90eb4.jpg",
+    "i18n": {
+      "ko": {
+        "title": "코스피 7000 돌파에도 시총 증가분 80% 삼성전자·SK하이닉스 집중, 반도체 쏠림 심화",
+        "excerpt": "올해 코스피가 5000·6000선을 넘어 5월 6일 7000선까지 돌파한 가운데, 시가총액 증가분의 80%가 삼성전자와 SK하이닉스에 몰리며 양극화가 커졌다.",
+        "body": "코스피가 올해 들어 5000선과 6000선을 잇달아 넘어선 데 이어 5월 6일 7000선까지 돌파했다. 그러나 지수 상승의 축포 속에서도 시가총액 증가분의 80%가 반도체 투톱인 삼성전자와 SK하이닉스에 집중된 것으로 나타났다. 시장 전체가 상승 흐름을 보였지만, 핵심 동력은 두 대형 반도체 종목에 크게 쏠린 셈이다. 이 같은 흐름은 코스피 고점 돌파의 상징성을 키우는 동시에 업종·종목 간 양극화가 확대되고 있음을 보여준다. 향후 시장 평가는 지수 상승 자체뿐 아니라 상승분이 얼마나 넓게 확산되는지에도 달릴 전망이다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "KOSPI Breaks 7,000, but 80% of Market-Cap Gain Is Concentrated in Samsung Electronics and SK Hynix",
+        "excerpt": "As the KOSPI moved past 5,000 and 6,000 this year and broke through 7,000 on May 6, 80% of the market-cap increase was concentrated in Samsung Electronics and SK Hynix.",
+        "body": "The KOSPI broke through 7,000 on May 6 after passing the 5,000 and 6,000 levels earlier this year. But amid the celebration over the index’s rise, 80% of the increase in market capitalization was concentrated in the two leading semiconductor stocks, Samsung Electronics and SK Hynix. While the broader market showed an upward trend, the main driver was heavily centered on these two large chipmakers. The pattern highlights the symbolic weight of the KOSPI’s new milestone while also showing widening polarization across sectors and stocks. Future market assessments are likely to depend not only on the index level itself but also on whether gains spread more broadly. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "KOSPIが7000突破も時価総額増加分の80％はサムスン電子とSKハイニックスに集中",
+        "excerpt": "今年KOSPIは5000、6000台を相次いで超え、5月6日に7000台を突破したが、時価総額増加分の80％がサムスン電子とSKハイニックスに集中した。",
+        "body": "KOSPIは今年に入り5000台と6000台を相次いで超え、5月6日には7000台まで突破した。しかし指数上昇を祝うムードの中でも、時価総額の増加分の80％が半導体大手2社であるサムスン電子とSKハイニックスに集中していることが示された。市場全体は上昇基調を見せたものの、主なけん引役はこの大型半導体2銘柄に大きく偏った形だ。この流れはKOSPIの節目突破の象徴性を高める一方、業種や銘柄間の二極化が広がっていることも示している。今後の市場評価は指数上昇だけでなく、上昇分がどこまで広がるかにも左右される見通しだ。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "KOSPI突破7000点，但市值增量80%集中于三星电子和SK海力士",
+        "excerpt": "今年KOSPI相继突破5000点、6000点，并于5月6日升破7000点；与此同时，市值增量的80%集中在三星电子和SK海力士。",
+        "body": "KOSPI今年以来相继突破5000点和6000点，并在5月6日进一步升破7000点。然而，在指数上涨的庆祝氛围中，市值增量的80%集中在半导体双雄三星电子和SK海力士。虽然整体市场呈现上行走势，但主要推动力明显集中于这两只大型半导体股票。这一走势一方面强化了KOSPI突破关键点位的象征意义，另一方面也显示出行业和个股之间的分化正在扩大。未来市场评价预计不仅取决于指数本身的上涨，还将取决于涨幅能否更广泛扩散。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "El KOSPI supera los 7.000, pero el 80% del aumento de capitalización se concentra en Samsung y SK Hynix",
+        "excerpt": "El KOSPI superó este año los niveles de 5.000 y 6.000 y el 6 de mayo rebasó los 7.000, mientras el 80% del aumento de capitalización se concentró en Samsung Electronics y SK Hynix.",
+        "body": "El KOSPI superó el nivel de 7.000 el 6 de mayo, después de haber rebasado este año las cotas de 5.000 y 6.000. Sin embargo, en medio de la celebración por el avance del índice, el 80% del aumento de la capitalización bursátil se concentró en los dos principales valores de semiconductores: Samsung Electronics y SK Hynix. Aunque el mercado en conjunto mostró una tendencia alcista, el motor principal estuvo fuertemente centrado en estas dos grandes compañías de chips. Esta evolución refuerza el simbolismo del nuevo hito del KOSPI, pero también muestra una mayor polarización entre sectores y valores. La evaluación futura del mercado dependerá no solo del nivel del índice, sino también de si las ganancias se extienden con mayor amplitud. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "KOSPI rompe 7.000, mas 80% do ganho de valor de mercado fica em Samsung Electronics e SK Hynix",
+        "excerpt": "O KOSPI passou por 5.000 e 6.000 pontos neste ano e rompeu 7.000 em 6 de maio, enquanto 80% do aumento de valor de mercado se concentrou em Samsung Electronics e SK Hynix.",
+        "body": "O KOSPI rompeu a marca de 7.000 pontos em 6 de maio, depois de superar os níveis de 5.000 e 6.000 ao longo deste ano. Mas, em meio à comemoração pela alta do índice, 80% do aumento da capitalização de mercado ficou concentrado nas duas principais ações de semicondutores, Samsung Electronics e SK Hynix. Embora o mercado como um todo tenha mostrado tendência de alta, o principal impulso esteve fortemente concentrado nessas duas grandes fabricantes de chips. Esse movimento reforça o significado simbólico do novo marco do KOSPI, ao mesmo tempo em que mostra maior polarização entre setores e ações. A avaliação futura do mercado deve depender não apenas do avanço do índice, mas também de quão amplamente os ganhos se espalham. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "KOSPI steigt über 7.000, doch 80% des Marktkapitalisierungszuwachses entfallen auf Samsung und SK Hynix",
+        "excerpt": "Der KOSPI überschritt in diesem Jahr 5.000 und 6.000 Punkte und stieg am 6. Mai über 7.000, während 80% des Marktkapitalisierungszuwachses auf Samsung Electronics und SK Hynix entfielen.",
+        "body": "Der KOSPI überschritt am 6. Mai die Marke von 7.000 Punkten, nachdem er in diesem Jahr bereits die Schwellen von 5.000 und 6.000 genommen hatte. Doch trotz der Feier über den Indexanstieg entfielen 80% des Zuwachses bei der Marktkapitalisierung auf die beiden führenden Halbleiterwerte Samsung Electronics und SK Hynix. Der Gesamtmarkt zeigte zwar einen Aufwärtstrend, der wichtigste Antrieb konzentrierte sich jedoch stark auf diese zwei großen Chipwerte. Diese Entwicklung unterstreicht die Symbolkraft des neuen KOSPI-Meilensteins, zeigt aber zugleich eine zunehmende Polarisierung zwischen Branchen und Einzeltiteln. Die künftige Marktbewertung dürfte nicht nur vom Indexstand abhängen, sondern auch davon, ob sich die Gewinne breiter verteilen. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Le KOSPI franchit 7 000, mais 80% du gain de capitalisation va à Samsung Electronics et SK Hynix",
+        "excerpt": "Le KOSPI a dépassé 5 000 puis 6 000 cette année avant de franchir 7 000 le 6 mai, tandis que 80% de la hausse de capitalisation s’est concentrée sur Samsung Electronics et SK Hynix.",
+        "body": "Le KOSPI a franchi le seuil de 7 000 le 6 mai, après avoir dépassé les niveaux de 5 000 et 6 000 plus tôt cette année. Mais malgré l’euphorie autour de la progression de l’indice, 80% de l’augmentation de la capitalisation boursière s’est concentrée sur les deux grands titres des semi-conducteurs, Samsung Electronics et SK Hynix. Si l’ensemble du marché a affiché une tendance haussière, le principal moteur est resté fortement centré sur ces deux grandes valeurs. Cette évolution renforce la portée symbolique du nouveau cap atteint par le KOSPI, tout en montrant une polarisation accrue entre secteurs et actions. L’évaluation future du marché dépendra non seulement du niveau de l’indice, mais aussi de la capacité des gains à se diffuser plus largement. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "مؤشر كوسبي يتجاوز 7000 نقطة لكن 80% من زيادة القيمة السوقية تتركز في سامسونغ وSK هاينكس",
+        "excerpt": "تجاوز كوسبي مستويات 5000 و6000 هذا العام ثم اخترق 7000 نقطة في 6 مايو، بينما تركز 80% من زيادة القيمة السوقية في سامسونغ إلكترونيكس وSK هاينكس.",
+        "body": "تجاوز مؤشر كوسبي مستوى 7000 نقطة في 6 مايو، بعدما تخطى هذا العام مستويي 5000 و6000 تباعا. لكن وسط الاحتفاء بصعود المؤشر، تركز 80% من الزيادة في القيمة السوقية في سهمي أشباه الموصلات الرئيسيين، سامسونغ إلكترونيكس وSK هاينكس. ورغم أن السوق ككل أظهر اتجاها صاعدا، فإن المحرك الأساسي كان متركزا بدرجة كبيرة في هاتين الشركتين الكبيرتين. ويبرز هذا المسار الدلالة الرمزية لاختراق كوسبي مستوى جديدا، لكنه يظهر أيضا اتساع التباين بين القطاعات والأسهم. ومن المتوقع أن يعتمد تقييم السوق لاحقا ليس فقط على مستوى المؤشر، بل أيضا على مدى انتشار المكاسب على نطاق أوسع. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "KOSPI 7,000 के पार, पर बाजार पूंजीकरण वृद्धि का 80% Samsung Electronics और SK Hynix में केंद्रित",
+        "excerpt": "KOSPI ने इस साल 5,000 और 6,000 के स्तर पार करने के बाद 6 मई को 7,000 का स्तर भी पार किया, जबकि बाजार पूंजीकरण वृद्धि का 80% Samsung Electronics और SK Hynix में केंद्रित रहा।",
+        "body": "KOSPI ने इस साल 5,000 और 6,000 के स्तर पार करने के बाद 6 मई को 7,000 का स्तर भी पार कर लिया। लेकिन सूचकांक की तेजी के उत्साह के बीच बाजार पूंजीकरण में हुई वृद्धि का 80% सेमीकंडक्टर क्षेत्र की दो प्रमुख कंपनियों, Samsung Electronics और SK Hynix, में केंद्रित रहा। पूरे बाजार में तेजी का रुझान दिखा, लेकिन मुख्य चालक इन दो बड़े चिप शेयरों तक काफी हद तक सीमित रहा। यह रुझान KOSPI के नए मील के पत्थर के महत्व को बढ़ाता है, साथ ही क्षेत्रों और शेयरों के बीच बढ़ती असमानता को भी दिखाता है। आगे बाजार का आकलन केवल सूचकांक की ऊंचाई पर नहीं, बल्कि इस बात पर भी निर्भर करेगा कि तेजी कितनी व्यापक रूप से फैलती है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "KOSPI Tembus 7.000, tetapi 80% Kenaikan Kapitalisasi Pasar Terpusat di Samsung dan SK Hynix",
+        "excerpt": "KOSPI melewati level 5.000 dan 6.000 tahun ini lalu menembus 7.000 pada 6 Mei, sementara 80% kenaikan kapitalisasi pasar terkonsentrasi pada Samsung Electronics dan SK Hynix.",
+        "body": "KOSPI menembus level 7.000 pada 6 Mei setelah sebelumnya melewati 5.000 dan 6.000 sepanjang tahun ini. Namun, di tengah euforia kenaikan indeks, 80% peningkatan kapitalisasi pasar terkonsentrasi pada dua saham utama semikonduktor, Samsung Electronics dan SK Hynix. Meski pasar secara keseluruhan menunjukkan tren naik, pendorong utamanya sangat terpusat pada dua emiten chip besar tersebut. Pola ini memperkuat makna simbolis pencapaian baru KOSPI, sekaligus menunjukkan pelebaran polarisasi antar sektor dan saham. Penilaian pasar ke depan diperkirakan tidak hanya bergantung pada level indeks, tetapi juga pada seberapa luas kenaikan menyebar. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "57d556f6333c",
+    "slug": "개인정보-유출-쿠팡-실적쇼크에-주가-뚝-990000",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-05-06T11:23:55.302Z",
+    "updatedAt": "2026-05-06T11:23:55.302Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/stock/12037762",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12037762",
+    "titleFingerprint": "0ffcb2f22d6823ac41612842d65a65791649cd88",
+    "dedupKeys": [
+      "57d556f6333cfe0aeec01b139e3e4790a4827eeb",
+      "0ffcb2f22d6823ac41612842d65a65791649cd88",
+      "f93e551cf25aac6dc03eac76f0eb1f2b522528d9"
+    ],
+    "imageUrl": "/images/articles/57d556f6333c.jpg",
+    "i18n": {
+      "ko": {
+        "title": "쿠팡 개인정보 유출 여파, 1분기 영업적자에 주가 하락",
+        "excerpt": "쿠팡이 지난해 말 개인정보 유출 사고 보상 등 여파로 올해 1분기 영업적자를 기록하며 7분기 만에 적자로 돌아섰고, 주가도 하락했다.",
+        "body": "쿠팡이 지난해 말 발생한 개인정보 유출 사고의 보상 등 영향으로 올해 1분기 영업적자를 기록했다. 쿠팡이 영업적자를 낸 것은 7분기 만이며, 적자 규모는 17분기래 최대 수준으로 전해졌다. 매출은 발생했지만 유출 사고 관련 비용 부담이 실적에 영향을 준 것으로 원문은 설명했다. 이번 실적 쇼크는 개인정보 보호 이슈가 기업 비용과 투자심리에 직접 영향을 줄 수 있음을 보여준다. 주가도 실적 부진 소식에 하락했다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Coupang Shares Fall as Data Leak Costs Drive Q1 Operating Loss",
+        "excerpt": "Coupang posted an operating loss in the first quarter due to compensation and other fallout from a late-year personal data leak, its first loss in seven quarters.",
+        "body": "Coupang recorded an operating loss in the first quarter of this year as compensation and related costs from a personal data leak late last year weighed on earnings. It was the company’s first operating loss in seven quarters, and the size of the deficit was reported as the largest in 17 quarters. Although revenue was generated, the original report said costs linked to the data leak affected results. The earnings shock shows how privacy incidents can weigh on corporate costs and investor sentiment. Coupang’s share price also fell after the weak results. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "クーパン、個人情報流出の影響で1四半期営業赤字　株価下落",
+        "excerpt": "クーパンは昨年末の個人情報流出事故に伴う補償などの影響で、今年第1四半期に7四半期ぶりの営業赤字を記録し、株価も下落した。",
+        "body": "クーパンは昨年末に発生した個人情報流出事故への補償などが響き、今年第1四半期に営業赤字を計上した。クーパンが営業赤字となったのは7四半期ぶりで、赤字規模は17四半期ぶりの大きさと伝えられた。売上はあったものの、流出事故に関連する費用負担が業績に影響したと原文は説明している。今回の業績ショックは、個人情報保護の問題が企業コストと投資心理に直接影響し得ることを示した。業績不振を受け、株価も下落した。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "Coupang受个人信息泄露影响，一季度营业亏损股价下跌",
+        "excerpt": "Coupang因去年末个人信息泄露事故赔偿等影响，今年一季度录得营业亏损，这是7个季度以来首次转亏，股价也随之下跌。",
+        "body": "Coupang因去年末发生的个人信息泄露事故赔偿等因素影响，今年第一季度录得营业亏损。这是Coupang时隔7个季度再次出现营业亏损，亏损规模据称为17个季度以来最大。原文称，虽然公司仍有销售收入，但与泄露事故相关的费用负担影响了业绩。此次业绩冲击显示，个人信息保护问题可能直接影响企业成本和投资者情绪。受业绩不振消息影响，Coupang股价也出现下跌。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Coupang cae en bolsa tras pérdida operativa por filtración de datos",
+        "excerpt": "Coupang registró una pérdida operativa en el primer trimestre por compensaciones y efectos de una filtración de datos personales ocurrida a fines del año pasado.",
+        "body": "Coupang registró una pérdida operativa en el primer trimestre de este año por el impacto de compensaciones y otros costos derivados de una filtración de datos personales ocurrida a fines del año pasado. Fue la primera pérdida operativa de la compañía en siete trimestres, y el tamaño del déficit fue descrito como el mayor en 17 trimestres. Aunque hubo ingresos, el reporte original señaló que la carga de costos vinculada al incidente afectó los resultados. El golpe a las ganancias muestra cómo un problema de privacidad puede incidir en costos corporativos y ánimo inversor. La acción también cayó. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Coupang cai na bolsa após prejuízo operacional ligado a vazamento",
+        "excerpt": "A Coupang registrou prejuízo operacional no primeiro trimestre após compensações e efeitos de um vazamento de dados pessoais ocorrido no fim do ano passado.",
+        "body": "A Coupang registrou prejuízo operacional no primeiro trimestre deste ano devido ao impacto de compensações e outros custos relacionados a um vazamento de dados pessoais ocorrido no fim do ano passado. Foi o primeiro prejuízo operacional da empresa em sete trimestres, e o valor do déficit foi apontado como o maior em 17 trimestres. Embora tenha havido receita, o texto original explicou que os custos ligados ao incidente afetaram o desempenho. O choque nos resultados mostra como questões de proteção de dados podem pesar sobre custos corporativos e sentimento dos investidores. A ação também caiu. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Coupang-Aktie fällt nach operativem Verlust durch Datenleck-Folgen",
+        "excerpt": "Coupang schrieb im ersten Quartal wegen Entschädigungen und weiterer Folgen eines Datenlecks von Ende letzten Jahres operativ Verlust, erstmals seit sieben Quartalen.",
+        "body": "Coupang hat im ersten Quartal dieses Jahres einen operativen Verlust verbucht, belastet durch Entschädigungen und weitere Kosten infolge eines Lecks personenbezogener Daten Ende vergangenen Jahres. Es war der erste operative Verlust des Unternehmens seit sieben Quartalen; das Defizit wurde als das größte seit 17 Quartalen beschrieben. Zwar erzielte Coupang Umsatz, doch laut Originalbericht drückten die mit dem Vorfall verbundenen Kosten auf das Ergebnis. Der Ergebnisschock zeigt, dass Datenschutzprobleme Unternehmens Kosten und Anlegerstimmung direkt belasten können. Auch die Aktie fiel. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Coupang chute en Bourse après une perte liée à la fuite de données",
+        "excerpt": "Coupang a enregistré une perte opérationnelle au premier trimestre, affecté par les indemnisations et les suites d’une fuite de données personnelles fin 2025.",
+        "body": "Coupang a enregistré une perte opérationnelle au premier trimestre de cette année, sous l’effet des indemnisations et d’autres coûts liés à une fuite de données personnelles survenue à la fin de l’année dernière. C’est la première perte opérationnelle du groupe en sept trimestres, et son ampleur a été présentée comme la plus élevée en 17 trimestres. Malgré un chiffre d’affaires, le rapport original indique que les charges liées à l’incident ont pesé sur les résultats. Ce choc montre qu’un problème de protection des données peut affecter les coûts d’une entreprise et le sentiment des investisseurs. L’action a aussi reculé. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "سهم كوبانغ يهبط بعد خسارة تشغيلية بسبب تبعات تسريب البيانات",
+        "excerpt": "سجلت كوبانغ خسارة تشغيلية في الربع الأول بفعل تعويضات وتبعات حادث تسريب بيانات شخصية وقع أواخر العام الماضي، في أول خسارة منذ سبعة فصول.",
+        "body": "سجلت كوبانغ خسارة تشغيلية في الربع الأول من هذا العام نتيجة تأثير التعويضات وتكاليف أخرى مرتبطة بحادث تسريب بيانات شخصية وقع أواخر العام الماضي. وهذه أول خسارة تشغيلية للشركة خلال سبعة فصول، كما ورد أن حجم الخسارة هو الأكبر خلال 17 فصلا. ورغم تحقيق إيرادات، أوضح النص الأصلي أن الأعباء المرتبطة بحادث التسريب أثرت في النتائج. وتظهر هذه الصدمة في الأداء أن قضايا حماية البيانات الشخصية قد تنعكس مباشرة على تكاليف الشركات ومعنويات المستثمرين. كما انخفض سعر السهم بعد خبر ضعف النتائج. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "डेटा लीक के असर से Coupang को Q1 परिचालन घाटा, शेयर फिसला",
+        "excerpt": "Coupang ने पिछले साल के अंत में हुए निजी डेटा लीक से जुड़े मुआवजे और अन्य प्रभावों के कारण पहली तिमाही में सात तिमाहियों बाद परिचालन घाटा दर्ज किया।",
+        "body": "Coupang ने पिछले साल के अंत में हुए निजी जानकारी लीक मामले से जुड़े मुआवजे और अन्य प्रभावों के कारण इस साल की पहली तिमाही में परिचालन घाटा दर्ज किया। कंपनी को परिचालन घाटा सात तिमाहियों में पहली बार हुआ, और घाटे का आकार 17 तिमाहियों में सबसे बड़ा बताया गया। बिक्री होने के बावजूद मूल रिपोर्ट के अनुसार डेटा लीक से जुड़े खर्चों का बोझ नतीजों पर पड़ा। यह प्रदर्शन झटका दिखाता है कि निजी जानकारी सुरक्षा से जुड़े मुद्दे कंपनी की लागत और निवेशक भावना को सीधे प्रभावित कर सकते हैं। कमजोर नतीजों की खबर के बाद शेयर भी गिरा। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Saham Coupang Turun Setelah Rugi Operasi Akibat Kebocoran Data",
+        "excerpt": "Coupang mencatat rugi operasi kuartal pertama akibat kompensasi dan dampak kebocoran data pribadi akhir tahun lalu, rugi pertama dalam tujuh kuartal.",
+        "body": "Coupang mencatat rugi operasi pada kuartal pertama tahun ini karena dampak kompensasi dan biaya lain terkait kebocoran data pribadi yang terjadi pada akhir tahun lalu. Ini menjadi rugi operasi pertama perusahaan dalam tujuh kuartal, sementara besarnya kerugian dilaporkan sebagai yang terbesar dalam 17 kuartal. Meski perusahaan membukukan pendapatan, laporan asli menjelaskan bahwa beban biaya terkait insiden kebocoran data memengaruhi kinerja. Guncangan hasil ini menunjukkan bahwa isu perlindungan data dapat berdampak langsung pada biaya perusahaan dan sentimen investor. Harga saham Coupang juga turun setelah kabar kinerja lemah. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "2087eb01dc84",
+    "slug": "회생돌입-제이알글로벌리츠-소액주주-유상증자-허용하라-371859",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-05-06T11:23:03.953Z",
+    "updatedAt": "2026-05-06T11:23:03.954Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/stock/12037761",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12037761",
+    "titleFingerprint": "99d980a5595cd5e18d6f1bc8a26189b5ee1cba6a",
+    "dedupKeys": [
+      "2087eb01dc8435a68e952079a22d47d2cb50d7db",
+      "99d980a5595cd5e18d6f1bc8a26189b5ee1cba6a",
+      "5ffc8d6ffc751bc059d2f921fc5127c6005c78f6"
+    ],
+    "imageUrl": "/images/articles/2087eb01dc84.jpg",
+    "i18n": {
+      "ko": {
+        "title": "제이알글로벌리츠 회생절차 돌입, 소액주주 ‘유상증자 허용’ 의견서 추진",
+        "excerpt": "회생 개시를 신청한 국내 상장 리츠 제이알글로벌리츠의 소액주주들이 이르면 다음 주 서울회생법원에 의견서를 내고 유상증자 허용을 요구할 예정이다.",
+        "body": "국내 상장 리츠 제이알글로벌리츠가 회생 개시를 신청한 가운데, 소액주주들이 직접 회사 회생 방안을 제시하며 움직이고 있다. 주주연대는 이르면 다음 주 서울회생법원에 의견서를 제출해 유상증자를 허용해 달라고 요청할 계획이다. 원문에 따르면 이들은 회사가 회생 절차에 들어간 상황에서 주주 참여를 통한 자금 조달 가능성을 열어 달라는 취지로 대응에 나선 것으로 전해졌다. 이번 의견서 제출은 회생 절차를 둘러싼 이해관계자 논의에서 소액주주 측의 입장을 공식화하는 의미가 있다. 향후 법원이 유상증자 허용 여부를 어떻게 판단하느냐에 따라 제이알글로벌리츠의 회생 과정과 주주 대응에도 영향을 줄 수 있다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "JR Global REIT Enters Rehabilitation as Minority Holders Seek Rights Issue Approval",
+        "excerpt": "Minority shareholders of listed Korean REIT JR Global REIT plan to ask the Seoul Bankruptcy Court as early as next week to allow a paid-in capital increase.",
+        "body": "JR Global REIT, a listed Korean REIT, has applied to begin rehabilitation proceedings, and minority shareholders are moving to present their own plan to help keep the company alive. The shareholder alliance plans to submit an opinion letter to the Seoul Bankruptcy Court as early as next week, asking it to allow a paid-in capital increase. According to the original report, the group is responding to the company’s entry into rehabilitation by seeking room for shareholder-backed fundraising. The filing would formally place minority shareholders’ position into the discussion among stakeholders in the rehabilitation process. How the court views the request to allow a capital increase could affect JR Global REIT’s rehabilitation path and shareholder response. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "JRグローバルリートが再生手続き申請、少数株主は有償増資の容認求める",
+        "excerpt": "再生開始を申請した韓国上場リートのJRグローバルリートを巡り、少数株主連合が早ければ来週にもソウル回生法院へ意見書を出す予定だ。",
+        "body": "韓国上場リートのJRグローバルリートが再生開始を申請する中、少数株主が自ら会社の再生策を示そうと動いている。株主連合は早ければ来週、ソウル回生法院に意見書を提出し、有償増資を認めるよう求める計画だ。原文によると、同社が再生手続きに入った状況で、株主参加による資金調達の可能性を開いてほしいという趣旨で対応に乗り出したという。今回の意見書提出は、再生手続きを巡る利害関係者の協議で少数株主側の立場を公式化する意味を持つ。今後、裁判所が有償増資の容認可否をどう判断するかにより、JRグローバルリートの再生過程と株主対応に影響が及ぶ可能性がある。出所: mk.co.kr"
+      },
+      "zh": {
+        "title": "JR Global REIT申请重整，小股东要求法院允许有偿增资",
+        "excerpt": "韩国上市REIT JR Global REIT已申请启动重整程序，小股东联盟最快下周将向首尔回生法院提交意见书，要求允许有偿增资。",
+        "body": "韩国上市REIT JR Global REIT申请启动重整程序后，小股东正主动提出挽救公司的方案。股东联盟计划最快于下周向首尔回生法院提交意见书，请求允许公司进行有偿增资。原文称，在公司进入重整程序的情况下，小股东希望为通过股东参与筹集资金留下可能性。此次提交意见书，意味着小股东一方将在围绕重整程序的利益相关方讨论中正式表达立场。未来法院如何判断是否允许有偿增资，可能影响JR Global REIT的重整进程以及股东后续应对。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "JR Global REIT entra en rehabilitación y minoritarios piden aprobar ampliación de capital",
+        "excerpt": "Accionistas minoritarios de la REIT surcoreana cotizada JR Global REIT prevén pedir al Tribunal de Rehabilitación de Seúl que permita una ampliación pagada.",
+        "body": "JR Global REIT, una REIT cotizada en Corea del Sur, solicitó el inicio de un procedimiento de rehabilitación, y sus accionistas minoritarios se están movilizando para plantear una vía de rescate. La alianza de accionistas prevé presentar, tan pronto como la próxima semana, una carta de opinión ante el Tribunal de Rehabilitación de Seúl para pedir que se permita una ampliación de capital pagada. Según el texto original, el grupo busca abrir la posibilidad de captar fondos con participación de los accionistas mientras la empresa se encuentra en rehabilitación. La presentación formalizaría la posición de los minoritarios dentro del debate entre las partes interesadas. La decisión del tribunal sobre la ampliación podría influir en el proceso de JR Global REIT y en la respuesta de sus accionistas. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "JR Global REIT pede recuperação e minoritários buscam aval para aumento de capital",
+        "excerpt": "Acionistas minoritários do REIT sul-coreano listado JR Global REIT devem pedir ao Tribunal de Recuperação de Seul autorização para um aumento de capital pago.",
+        "body": "O JR Global REIT, um REIT listado na Coreia do Sul, solicitou o início de um processo de recuperação, enquanto acionistas minoritários se mobilizam para apresentar uma alternativa para manter a empresa em funcionamento. A aliança de acionistas planeja enviar, já na próxima semana, uma manifestação ao Tribunal de Recuperação de Seul pedindo autorização para um aumento de capital pago. Segundo o texto original, o objetivo é abrir espaço para captação de recursos com participação dos acionistas durante a recuperação. O envio da manifestação formaliza a posição dos minoritários nas discussões entre as partes envolvidas. A decisão do tribunal sobre permitir ou não o aumento de capital poderá afetar o processo de recuperação do JR Global REIT e a resposta dos acionistas. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "JR Global REIT beantragt Sanierung, Minderheitsaktionäre fordern Kapitalerhöhung",
+        "excerpt": "Minderheitsaktionäre des börsennotierten koreanischen REIT JR Global REIT wollen beim Seoul Bankruptcy Court die Zulassung einer bezahlten Kapitalerhöhung beantragen.",
+        "body": "JR Global REIT, ein börsennotierter koreanischer REIT, hat die Eröffnung eines Sanierungsverfahrens beantragt. Nun wollen Minderheitsaktionäre selbst einen Weg zur Rettung des Unternehmens aufzeigen. Die Aktionärsallianz plant, frühestens nächste Woche beim Seoul Bankruptcy Court eine Stellungnahme einzureichen und die Zulassung einer bezahlten Kapitalerhöhung zu verlangen. Dem Originalbericht zufolge geht es darum, während des laufenden Sanierungsverfahrens die Möglichkeit einer Finanzierung unter Beteiligung der Aktionäre offenzuhalten. Die Eingabe würde die Position der Minderheitsaktionäre in den Gesprächen der Beteiligten offiziell machen. Wie das Gericht über die Kapitalerhöhung entscheidet, kann den Sanierungsprozess von JR Global REIT und die Reaktion der Aktionäre beeinflussen. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "JR Global REIT en procédure de redressement, les minoritaires demandent une augmentation de capital",
+        "excerpt": "Les actionnaires minoritaires de la REIT sud-coréenne cotée JR Global REIT veulent demander au tribunal de Séoul d’autoriser une augmentation de capital payante.",
+        "body": "JR Global REIT, une REIT cotée en Corée du Sud, a demandé l’ouverture d’une procédure de redressement, tandis que ses actionnaires minoritaires se mobilisent pour proposer eux-mêmes une solution de maintien de l’entreprise. Leur alliance prévoit de déposer, dès la semaine prochaine, un avis auprès du Tribunal de redressement de Séoul afin de demander l’autorisation d’une augmentation de capital payante. Selon le texte original, ils souhaitent ouvrir la possibilité d’un financement avec participation des actionnaires alors que la société est entrée en procédure de redressement. Ce dépôt officialiserait la position des minoritaires dans les discussions entre parties prenantes. La décision du tribunal sur cette demande pourrait influer sur le redressement de JR Global REIT et sur la réponse des actionnaires. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "JR Global REIT تطلب إعادة التأهيل ومساهمون صغار يطالبون بالسماح بزيادة رأس المال",
+        "excerpt": "يسعى مساهمون صغار في صندوق JR Global REIT الكوري المدرج إلى تقديم رأي لمحكمة الإفلاس في سول لطلب السماح بزيادة رأس مال مدفوعة.",
+        "body": "قدمت JR Global REIT، وهي ريت كورية مدرجة، طلبا لبدء إجراءات إعادة التأهيل، فيما يتحرك مساهمون صغار لطرح مسار يهدف إلى إنقاذ الشركة بأنفسهم. ويعتزم تحالف المساهمين تقديم مذكرة رأي إلى محكمة الإفلاس في سول في وقت قد يكون الأسبوع المقبل، طالبا السماح بزيادة رأس مال مدفوعة. وبحسب النص الأصلي، يأتي التحرك في ظل دخول الشركة إجراءات إعادة التأهيل، وبهدف فتح إمكانية جمع أموال بمشاركة المساهمين. ويمثل تقديم المذكرة إعلانا رسميا لموقف المساهمين الصغار ضمن نقاش أصحاب المصلحة حول إجراءات إعادة التأهيل. وقد يؤثر قرار المحكمة بشأن السماح بزيادة رأس المال في مسار إعادة تأهيل JR Global REIT ورد فعل المساهمين. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "JR Global REIT ने पुनर्वास प्रक्रिया मांगी, छोटे शेयरधारक पूंजी बढ़ोतरी की मंजूरी चाहते हैं",
+        "excerpt": "दक्षिण कोरिया के सूचीबद्ध REIT JR Global REIT के छोटे शेयरधारक अगले सप्ताह तक सियोल पुनर्वास अदालत में रायपत्र देकर पेड-इन पूंजी वृद्धि की अनुमति मांग सकते हैं।",
+        "body": "दक्षिण कोरिया के सूचीबद्ध REIT JR Global REIT ने पुनर्वास प्रक्रिया शुरू करने के लिए आवेदन किया है, और छोटे शेयरधारक कंपनी को बचाने का अपना रास्ता पेश करने के लिए आगे आए हैं। शेयरधारक गठबंधन जल्द से जल्द अगले सप्ताह सियोल पुनर्वास अदालत में रायपत्र जमा कर पेड-इन पूंजी वृद्धि की अनुमति मांगने की योजना बना रहा है। मूल रिपोर्ट के अनुसार, कंपनी के पुनर्वास प्रक्रिया में जाने की स्थिति में वे शेयरधारकों की भागीदारी से धन जुटाने की संभावना खोलना चाहते हैं। यह रायपत्र पुनर्वास प्रक्रिया से जुड़े पक्षों की चर्चा में छोटे शेयरधारकों की स्थिति को औपचारिक रूप देगा। अदालत पूंजी वृद्धि की अनुमति पर क्या निर्णय लेती है, इससे JR Global REIT की पुनर्वास प्रक्रिया और शेयरधारकों की प्रतिक्रिया प्रभावित हो सकती है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "JR Global REIT Masuk Rehabilitasi, Pemegang Saham Kecil Minta Rights Issue Diizinkan",
+        "excerpt": "Pemegang saham kecil JR Global REIT, REIT tercatat di Korea Selatan, berencana meminta Pengadilan Rehabilitasi Seoul mengizinkan penambahan modal berbayar.",
+        "body": "JR Global REIT, REIT tercatat di Korea Selatan, telah mengajukan pembukaan proses rehabilitasi, sementara pemegang saham kecil bergerak untuk menawarkan cara menyelamatkan perusahaan. Aliansi pemegang saham berencana mengirim surat pendapat ke Pengadilan Rehabilitasi Seoul paling cepat pekan depan, meminta agar penambahan modal berbayar diizinkan. Menurut teks asli, mereka merespons situasi perusahaan yang masuk proses rehabilitasi dengan meminta peluang pendanaan melalui partisipasi pemegang saham tetap dibuka. Pengajuan surat ini akan memformalkan posisi pemegang saham kecil dalam pembahasan para pihak terkait proses rehabilitasi. Keputusan pengadilan atas izin penambahan modal dapat memengaruhi proses rehabilitasi JR Global REIT dan respons pemegang saham. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
     "id": "7bbf91401277",
     "slug": "비트코인-투자로-연-10대-이자를-스트레티지-우선주의-모든-것-엠블록레터-100783",
     "channelId": "ETF",
