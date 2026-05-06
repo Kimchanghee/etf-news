@@ -1,5 +1,155 @@
 [
   {
+    "id": "26fda9341010",
+    "slug": "코스피-7000-돌파삼성전자-10대-상승하며-신고가-찍어-매경-자이앤트-600576",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-05-06T20:17:33.746Z",
+    "updatedAt": "2026-05-06T20:17:33.746Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/stock/12037104",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12037104",
+    "titleFingerprint": "77f936d5ecbda2a5068f2752eda08dcde8cda40f",
+    "dedupKeys": [
+      "26fda9341010c1ab93b4ef1ffca2b7a335888e11",
+      "77f936d5ecbda2a5068f2752eda08dcde8cda40f",
+      "531985bb0d5cda8207b0a818e83b3ff5dc040325"
+    ],
+    "imageUrl": "/images/articles/26fda9341010.jpg",
+    "i18n": {
+      "ko": {
+        "title": "코스피 7000 첫 돌파, 삼성전자 10%대 급등에 신고가 경신",
+        "excerpt": "6일 오전 삼성전자가 반도체 수퍼사이클 기대 속에 10%대 상승하며 신고가를 기록했고, 코스피지수는 사상 처음 7000선을 넘어섰다.",
+        "body": "6일 오전 국내 증시에서 코스피지수가 사상 처음 7000선을 돌파했다. 메모리반도체 대표주인 삼성전자가 반도체 수퍼사이클 흐름을 타고 10%대 상승세를 보인 영향이 컸다. 오전 9시20분 기준 삼성전자는 전 거래일보다 크게 오르며 신고가를 찍었다. 국내 증시의 핵심 대형주인 삼성전자 상승은 지수 흐름을 끌어올리는 주요 요인으로 작용했다. 이번 움직임은 반도체 업황 기대가 한국 증시 전반에 반영된 사례로 해석된다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "KOSPI Tops 7,000 for First Time as Samsung Electronics Jumps Over 10%",
+        "excerpt": "On the morning of the 6th, Samsung Electronics rose more than 10% on the semiconductor supercycle, setting a new high and lifting the KOSPI above 7,000 for the first time.",
+        "body": "The KOSPI index crossed the 7,000 mark for the first time ever on the morning of the 6th. The move was driven largely by Samsung Electronics, Korea’s leading memory semiconductor stock, which rose by more than 10% amid the semiconductor supercycle. As of 9:20 a.m., Samsung Electronics was sharply higher from the previous session and reached a new record high. As a key large-cap stock in the Korean market, Samsung Electronics played a major role in lifting the index. The move reflects expectations for the semiconductor cycle across Korean equities. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "KOSPIが初の7000突破、サムスン電子10％台上昇で最高値更新",
+        "excerpt": "6日午前、半導体スーパーサイクルへの期待を背景にサムスン電子が10％台上昇し最高値を更新、KOSPIは史上初めて7000を突破した。",
+        "body": "6日午前、韓国株式市場でKOSPI指数が史上初めて7000の大台を突破した。メモリー半導体の代表銘柄であるサムスン電子が、半導体スーパーサイクルの流れに乗り10％台の上昇を見せたことが大きく影響した。午前9時20分時点でサムスン電子は前取引日比で大きく上昇し、最高値を更新した。韓国市場の主要大型株である同社の上昇は、指数を押し上げる主な要因となった。今回の動きは半導体市況への期待が韓国株全体に反映された事例といえる。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "KOSPI首次突破7000点，三星电子涨逾10%创历史新高",
+        "excerpt": "6日上午，三星电子受半导体超级周期带动上涨逾10%并创下新高，推动韩国KOSPI指数史上首次突破7000点。",
+        "body": "6日上午，韩国股市KOSPI指数史上首次突破7000点。作为韩国存储半导体代表股的三星电子，受半导体超级周期推动上涨逾10%，成为带动指数上行的重要因素。截至上午9时20分，三星电子较前一交易日大幅上涨，并刷新历史高点。作为韩国股市核心大型股，三星电子的上涨对指数走势产生了显著拉动作用。此次行情显示，市场对半导体景气周期的期待正在反映到韩国股市整体表现中。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "KOSPI supera 7.000 por primera vez tras alza de más del 10% en Samsung",
+        "excerpt": "La mañana del día 6, Samsung Electronics subió más del 10% por el superciclo de semiconductores, marcó un nuevo máximo y llevó al KOSPI por encima de 7.000.",
+        "body": "El índice KOSPI superó por primera vez en su historia el nivel de 7.000 puntos durante la mañana del día 6. El avance estuvo impulsado en gran medida por Samsung Electronics, principal valor surcoreano de semiconductores de memoria, que subió más del 10% al calor del superciclo del sector. A las 9:20 a.m., Samsung Electronics avanzaba con fuerza frente a la sesión anterior y marcaba un nuevo máximo histórico. Como uno de los grandes valores clave del mercado coreano, su subida actuó como un factor principal para elevar el índice. El movimiento refleja expectativas sobre el ciclo de semiconductores en la bolsa surcoreana. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "KOSPI supera 7.000 pela primeira vez com Samsung Electronics em alta de 10%",
+        "excerpt": "Na manhã do dia 6, a Samsung Electronics subiu mais de 10% com o superciclo dos semicondutores, renovou máxima histórica e levou o KOSPI acima de 7.000.",
+        "body": "O índice KOSPI ultrapassou pela primeira vez o patamar de 7.000 pontos na manhã do dia 6. O movimento foi impulsionado principalmente pela Samsung Electronics, principal ação sul-coreana ligada a semicondutores de memória, que avançou mais de 10% em meio ao superciclo do setor. Às 9h20, a Samsung Electronics subia fortemente em relação ao pregão anterior e atingia uma nova máxima histórica. Como uma das maiores empresas do mercado coreano, sua valorização teve papel central na alta do índice. O movimento mostra a expectativa em torno do ciclo de semicondutores refletida nas ações coreanas. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "KOSPI erstmals über 7.000: Samsung Electronics steigt um mehr als 10%",
+        "excerpt": "Am Morgen des 6. stieg Samsung Electronics dank des Halbleiter-Superzyklus um mehr als 10%, erreichte ein Rekordhoch und trieb den KOSPI erstmals über 7.000.",
+        "body": "Der KOSPI-Index hat am Morgen des 6. erstmals in seiner Geschichte die Marke von 7.000 Punkten überschritten. Ausschlaggebend war vor allem Samsung Electronics, Koreas führender Speicherchip-Wert, der im Zuge des Halbleiter-Superzyklus um mehr als 10% zulegte. Um 9:20 Uhr notierte Samsung Electronics deutlich über dem Stand des Vortags und erreichte ein neues Rekordhoch. Als zentrale Schwergewichtsaktie des koreanischen Marktes trug der Anstieg von Samsung Electronics wesentlich zur Indexbewegung bei. Die Entwicklung zeigt, dass Erwartungen an die Halbleiterkonjunktur den koreanischen Aktienmarkt prägen. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Le KOSPI dépasse 7 000 pour la première fois, Samsung gagne plus de 10%",
+        "excerpt": "Le matin du 6, Samsung Electronics a progressé de plus de 10% grâce au supercycle des semi-conducteurs, signé un record et porté le KOSPI au-dessus de 7 000.",
+        "body": "L’indice KOSPI a franchi pour la première fois de son histoire le seuil des 7 000 points dans la matinée du 6. Le mouvement a été largement porté par Samsung Electronics, valeur phare sud-coréenne des semi-conducteurs mémoire, qui a progressé de plus de 10% dans le contexte du supercycle des semi-conducteurs. À 9h20, Samsung Electronics affichait une forte hausse par rapport à la séance précédente et atteignait un nouveau plus haut historique. En tant que grande capitalisation clé du marché coréen, sa progression a joué un rôle majeur dans la hausse de l’indice. Cette évolution reflète les attentes liées au cycle des semi-conducteurs dans les actions coréennes. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "كوسبي يتجاوز 7000 لأول مرة مع صعود سامسونغ إلكترونيكس بأكثر من 10%",
+        "excerpt": "صباح يوم 6، ارتفع سهم سامسونغ إلكترونيكس بأكثر من 10% بدعم دورة أشباه الموصلات الفائقة، مسجلا مستوى قياسيا ودافعا كوسبي فوق 7000 لأول مرة.",
+        "body": "تجاوز مؤشر كوسبي في سوق الأسهم الكورية مستوى 7000 نقطة للمرة الأولى في تاريخه صباح يوم 6. وجاءت الحركة مدفوعة بشكل كبير بسهم سامسونغ إلكترونيكس، ممثل قطاع رقائق الذاكرة في كوريا، الذي ارتفع بأكثر من 10% وسط زخم دورة أشباه الموصلات الفائقة. وبحلول الساعة 9:20 صباحا، كان سهم سامسونغ إلكترونيكس مرتفعا بقوة عن الجلسة السابقة ومسجلا مستوى قياسيا جديدا. وبصفته سهما كبيرا محوريا في السوق الكورية، كان صعوده عاملا رئيسيا في دفع المؤشر للأعلى. وتعكس هذه الحركة توقعات قطاع أشباه الموصلات في سوق الأسهم الكورية. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "KOSPI पहली बार 7,000 के पार, Samsung Electronics 10% से ज्यादा चढ़ा",
+        "excerpt": "6 तारीख की सुबह सेमीकंडक्टर सुपर साइकिल के बीच Samsung Electronics 10% से ज्यादा चढ़कर नए उच्च स्तर पर पहुंचा और KOSPI पहली बार 7,000 के ऊपर गया।",
+        "body": "6 तारीख की सुबह कोरियाई शेयर बाजार में KOSPI सूचकांक इतिहास में पहली बार 7,000 के स्तर को पार कर गया। इस तेजी में Samsung Electronics की बड़ी भूमिका रही, जो कोरिया की प्रमुख मेमोरी सेमीकंडक्टर कंपनी है और सेमीकंडक्टर सुपर साइकिल के बीच 10% से ज्यादा चढ़ी। सुबह 9:20 बजे Samsung Electronics पिछले कारोबारी सत्र की तुलना में तेज बढ़त पर था और नए रिकॉर्ड उच्च स्तर पर पहुंच गया। कोरियाई बाजार के प्रमुख बड़े शेयर के रूप में Samsung Electronics की तेजी ने सूचकांक को ऊपर ले जाने में अहम भूमिका निभाई। यह चाल कोरियाई शेयरों में सेमीकंडक्टर चक्र की उम्मीदों को दर्शाती है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "KOSPI Pertama Kali Tembus 7.000, Samsung Electronics Naik Lebih 10%",
+        "excerpt": "Pada pagi tanggal 6, Samsung Electronics naik lebih dari 10% karena supercycle semikonduktor, mencetak rekor tertinggi dan mendorong KOSPI menembus 7.000.",
+        "body": "Indeks KOSPI menembus level 7.000 untuk pertama kalinya dalam sejarah pada pagi tanggal 6. Kenaikan ini banyak didorong oleh Samsung Electronics, saham utama Korea di sektor semikonduktor memori, yang menguat lebih dari 10% seiring supercycle semikonduktor. Pada pukul 09.20, Samsung Electronics naik tajam dibandingkan sesi sebelumnya dan mencetak rekor tertinggi baru. Sebagai saham berkapitalisasi besar yang menjadi pusat pasar Korea, kenaikan Samsung Electronics menjadi faktor utama yang mengangkat indeks. Pergerakan ini mencerminkan ekspektasi terhadap siklus semikonduktor di pasar saham Korea. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "88caa13d927b",
+    "slug": "에스폴리텍-고부가가치-제품-중심-사업-전환-본격화-936589",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-05-06T20:16:42.654Z",
+    "updatedAt": "2026-05-06T20:16:42.654Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/stock/12037106",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12037106",
+    "titleFingerprint": "cfb0418f17ea895c7e86417326b55363e8b9c5ee",
+    "dedupKeys": [
+      "88caa13d927b7e159b38e8b30fd3d9d127d66313",
+      "cfb0418f17ea895c7e86417326b55363e8b9c5ee",
+      "e0bd8780ee766f52fb5968dcb832a3b09085c8d9"
+    ],
+    "imageUrl": "/images/articles/88caa13d927b.jpg",
+    "i18n": {
+      "ko": {
+        "title": "에스폴리텍, 고부가가치 스페셜티 소재로 제품 믹스 전환 가속",
+        "excerpt": "엔지니어링 플라스틱 전문기업 에스폴리텍은 6일 고부가가치 스페셜티 소재 중심의 제품 믹스 전환을 본격화해 중장기 수익성 개선에 나선다고 밝혔다.",
+        "body": "엔지니어링 플라스틱 전문기업 에스폴리텍은 6일 고부가가치 스페셜티 소재 중심으로 제품 믹스 전환을 가속화하며 중장기 수익성 개선에 나선다고 밝혔다. 회사는 지난 30년간 축적한 사업 경험과 소재 기술을 기반으로 기존 제품 포트폴리오를 고부가가치 제품 중심으로 재편하는 데 속도를 내고 있다. 이번 전환은 수익성이 높은 스페셜티 소재 비중을 높여 사업 구조를 강화하려는 움직임으로 풀이된다. 에스폴리텍은 제품 믹스 개선을 통해 향후 안정적인 수익 기반을 마련하는 데 초점을 맞출 계획이다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "S Polytech Speeds Shift to High-Value Specialty Materials Mix",
+        "excerpt": "S Polytech, an engineering plastics specialist, said on May 6 it will accelerate a product mix shift toward high-value specialty materials to improve mid- to long-term profitability.",
+        "body": "S Polytech, a company specializing in engineering plastics, said on May 6 that it is accelerating a product mix shift centered on high-value specialty materials as part of efforts to improve mid- to long-term profitability. Based on business experience and materials technology accumulated over the past 30 years, the company is moving faster to reorganize its existing product portfolio around higher-value products. The shift is seen as an effort to strengthen its business structure by increasing the share of more profitable specialty materials. S Polytech plans to focus on building a more stable earnings base through improvements in its product mix. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "エスポリテック、高付加価値スペシャルティ素材へ製品構成転換を加速",
+        "excerpt": "エンジニアリングプラスチック専門企業のエスポリテックは6日、高付加価値スペシャルティ素材中心の製品構成転換を本格化し、中長期の収益性改善を進めると発表した。",
+        "body": "エンジニアリングプラスチック専門企業のエスポリテックは6日、高付加価値スペシャルティ素材を中心に製品構成の転換を加速し、中長期の収益性改善に取り組むと発表した。同社は過去30年間に蓄積した事業経験と素材技術を基盤に、既存の製品ポートフォリオを高付加価値製品中心へ再編する動きを速めている。今回の転換は、収益性の高いスペシャルティ素材の比率を高め、事業構造を強化するための取り組みとみられる。エスポリテックは製品構成の改善を通じ、今後の安定した収益基盤づくりに注力する計画だ。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "S Polytech加速转向高附加值特种材料产品组合",
+        "excerpt": "工程塑料专业企业S Polytech于6日表示，将加快以高附加值特种材料为核心的产品组合转换，以改善中长期盈利能力。",
+        "body": "工程塑料专业企业S Polytech于6日表示，公司将加快以高附加值特种材料为核心的产品组合转换，推动中长期盈利能力改善。公司正以过去30年积累的业务经验和材料技术为基础，加速将现有产品组合重组为以高附加值产品为中心的结构。此次转换可被视为通过提高盈利性较高的特种材料占比，强化业务结构的举措。S Polytech计划通过改善产品组合，着力建立未来更稳定的收益基础。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "S Polytech acelera su giro hacia materiales especiales de mayor valor",
+        "excerpt": "S Polytech, especialista en plásticos de ingeniería, dijo el día 6 que acelerará el cambio de su mezcla de productos hacia materiales especiales de alto valor para mejorar la rentabilidad a medio y largo plazo.",
+        "body": "S Polytech, empresa especializada en plásticos de ingeniería, anunció el día 6 que acelera el cambio de su mezcla de productos hacia materiales especiales de alto valor añadido con el objetivo de mejorar la rentabilidad a medio y largo plazo. La compañía está avanzando en la reorganización de su cartera existente alrededor de productos de mayor valor, sobre la base de la experiencia empresarial y la tecnología de materiales acumuladas durante los últimos 30 años. El cambio apunta a reforzar la estructura del negocio elevando la proporción de materiales especiales con mayor rentabilidad. S Polytech prevé centrarse en crear una base de ingresos más estable mediante la mejora de su mezcla de productos. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "S Polytech acelera mudança para materiais especiais de alto valor",
+        "excerpt": "A S Polytech, especializada em plásticos de engenharia, afirmou no dia 6 que acelerará a mudança do mix de produtos para materiais especiais de alto valor, buscando melhorar a rentabilidade de médio e longo prazo.",
+        "body": "A S Polytech, empresa especializada em plásticos de engenharia, informou no dia 6 que está acelerando a mudança do mix de produtos para materiais especiais de alto valor agregado, com foco na melhoria da rentabilidade de médio e longo prazo. Com base na experiência de negócios e na tecnologia de materiais acumuladas ao longo dos últimos 30 anos, a companhia avança na reorganização de seu portfólio existente em torno de produtos de maior valor. A mudança é vista como uma iniciativa para fortalecer a estrutura de negócios ao ampliar a participação de materiais especiais mais rentáveis. A S Polytech pretende se concentrar em construir uma base de ganhos mais estável por meio da melhora do mix de produtos. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "S Polytech beschleunigt Wechsel zu margenstarken Spezialmaterialien",
+        "excerpt": "Der Engineering-Kunststoffspezialist S Polytech teilte am 6. mit, den Produktmix stärker auf hochwertige Spezialmaterialien auszurichten, um die mittel- bis langfristige Profitabilität zu verbessern.",
+        "body": "S Polytech, ein Spezialist für Engineering-Kunststoffe, teilte am 6. mit, dass das Unternehmen den Wandel seines Produktmixes hin zu hochwertigen Spezialmaterialien beschleunigt, um die mittel- bis langfristige Profitabilität zu verbessern. Auf Grundlage von Geschäftserfahrung und Materialtechnologie, die in den vergangenen 30 Jahren aufgebaut wurden, treibt das Unternehmen die Neuordnung seines bestehenden Portfolios rund um höherwertige Produkte voran. Der Schritt gilt als Versuch, die Geschäftsstruktur durch einen höheren Anteil profitabler Spezialmaterialien zu stärken. S Polytech will sich darauf konzentrieren, über einen verbesserten Produktmix eine stabilere Ertragsbasis zu schaffen. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "S Polytech accélère son virage vers les matériaux spéciaux à forte valeur",
+        "excerpt": "S Polytech, spécialiste des plastiques techniques, a annoncé le 6 accélérer le recentrage de son mix produits vers des matériaux spéciaux à forte valeur afin d’améliorer sa rentabilité à moyen et long terme.",
+        "body": "S Polytech, entreprise spécialisée dans les plastiques techniques, a annoncé le 6 qu’elle accélérait le recentrage de son mix produits autour de matériaux spéciaux à forte valeur ajoutée afin d’améliorer sa rentabilité à moyen et long terme. Forte de l’expérience commerciale et des technologies de matériaux accumulées au cours des 30 dernières années, la société avance dans la réorganisation de son portefeuille existant autour de produits à plus forte valeur. Cette transition vise à renforcer la structure de l’activité en augmentant la part de matériaux spéciaux plus rentables. S Polytech prévoit de se concentrer sur la constitution d’une base de revenus plus stable grâce à l’amélioration de son mix produits. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "إس بوليتك تسرّع التحول إلى مواد تخصصية عالية القيمة",
+        "excerpt": "قالت إس بوليتك، المتخصصة في البلاستيك الهندسي، في السادس من الشهر إنها ستسرّع تحويل مزيج منتجاتها نحو مواد تخصصية عالية القيمة لتحسين الربحية على المدى المتوسط والطويل.",
+        "body": "قالت شركة إس بوليتك، المتخصصة في البلاستيك الهندسي، في السادس من الشهر إنها تسرّع تحويل مزيج منتجاتها نحو مواد تخصصية عالية القيمة المضافة، في إطار سعيها لتحسين الربحية على المدى المتوسط والطويل. وتعمل الشركة، استنادا إلى خبرة الأعمال وتقنيات المواد التي راكمتها خلال الثلاثين عاما الماضية، على إعادة تنظيم محفظة منتجاتها القائمة حول منتجات أعلى قيمة. ويُنظر إلى هذا التحول على أنه خطوة لتعزيز هيكل الأعمال عبر زيادة حصة المواد التخصصية الأكثر ربحية. وتخطط إس بوليتك للتركيز على بناء قاعدة أرباح أكثر استقرارا من خلال تحسين مزيج المنتجات. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "S Polytech उच्च मूल्य वाली स्पेशियल्टी सामग्री की ओर उत्पाद मिश्रण बदलेगी",
+        "excerpt": "इंजीनियरिंग प्लास्टिक विशेषज्ञ S Polytech ने 6 तारीख को कहा कि वह मध्यम और दीर्घकालिक लाभप्रदता सुधारने के लिए उच्च मूल्य वाली स्पेशियल्टी सामग्री केंद्रित उत्पाद मिश्रण बदलाव तेज करेगी।",
+        "body": "इंजीनियरिंग प्लास्टिक में विशेषज्ञ S Polytech ने 6 तारीख को कहा कि वह उच्च मूल्य वाली स्पेशियल्टी सामग्री पर केंद्रित उत्पाद मिश्रण बदलाव को तेज कर रही है, ताकि मध्यम और दीर्घकालिक लाभप्रदता में सुधार किया जा सके। कंपनी पिछले 30 वर्षों में संचित कारोबारी अनुभव और सामग्री तकनीक के आधार पर अपने मौजूदा उत्पाद पोर्टफोलियो को उच्च मूल्य वाले उत्पादों के 중심 में पुनर्गठित करने की गति बढ़ा रही है। यह बदलाव अधिक लाभप्रद स्पेशियल्टी सामग्री की हिस्सेदारी बढ़ाकर व्यापार संरचना मजबूत करने का प्रयास माना जाता है। S Polytech उत्पाद मिश्रण सुधार के जरिए आगे अधिक स्थिर आय आधार बनाने पर ध्यान देगी। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "S Polytech Percepat Peralihan ke Material Spesial Bernilai Tinggi",
+        "excerpt": "S Polytech, perusahaan spesialis plastik rekayasa, menyatakan pada tanggal 6 bahwa pihaknya mempercepat peralihan bauran produk ke material spesial bernilai tinggi untuk memperbaiki profitabilitas jangka menengah dan panjang.",
+        "body": "S Polytech, perusahaan spesialis plastik rekayasa, menyatakan pada tanggal 6 bahwa pihaknya mempercepat peralihan bauran produk yang berpusat pada material spesial bernilai tambah tinggi sebagai upaya memperbaiki profitabilitas jangka menengah dan panjang. Berbekal pengalaman bisnis dan teknologi material yang dihimpun selama 30 tahun terakhir, perusahaan mempercepat penataan kembali portofolio produk yang ada ke arah produk bernilai lebih tinggi. Peralihan ini dipandang sebagai langkah untuk memperkuat struktur bisnis dengan meningkatkan porsi material spesial yang lebih menguntungkan. S Polytech berencana berfokus membangun basis pendapatan yang lebih stabil melalui perbaikan bauran produk. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
     "id": "589101cadd0c",
     "slug": "mk-골든크로스-돌파종목-미래에셋증권006800-대한광통신010170-761852",
     "channelId": "ETF",
@@ -4346,156 +4496,6 @@
         "title": "ETF aktif ACE Shareholder Value Korea Investment pimpin 2026 dengan imbal hasil 65,1%",
         "excerpt": "Korea Investment Management pada 4 Mei mengatakan ETF aktif ACE Life Asset Shareholder Value mencatat imbal hasil 65,1% sejak awal tahun per 30 April, tertinggi di antara ETF nilai pemegang saham yang tercatat di Korea.",
         "body": "Korea Investment Management pada 4 Mei mengatakan ETF ACE Life Asset Shareholder Value Active mencatat imbal hasil tertinggi tahun ini di antara produk sejenis. Menurut Korea Exchange, imbal hasil sejak awal tahun mencapai 65,1% per 30 April, hari kerja sebelumnya.\n\nImbal hasil enam bulan dan satu tahun juga menjadi yang tertinggi di antara ETF nilai pemegang saham yang tercatat di Korea, masing-masing sebesar 76,7% dan 139,5%. Sebagai ETF aktif, produk ini mengungguli indeks acuannya, FnGuide Corporate Value Index, sebesar 29,9 poin persentase untuk enam bulan dan 33,9 poin persentase untuk satu tahun.\n\nAset bersih mencapai 102,4 miliar won per 28 April, naik 87,8% sepanjang tahun ini. ETF ini memilih saham nilai berkapitalisasi besar di Korea yang memiliki potensi perbaikan struktural untuk pengembalian kepada pemegang saham, serta bekerja sama secara konsultatif dengan LIFE Asset Management untuk analisis kuantitatif dan kualitatif saham.\nSumber: Yonhap News Agency"
-      }
-    }
-  },
-  {
-    "id": "51de18ebd282",
-    "slug": "2026년-필승-etf-총정리했습니다---한국경제-869135",
-    "channelId": "ETF",
-    "category": "breaking",
-    "publishedAt": "2026-05-06T07:49:17.578Z",
-    "updatedAt": "2026-05-06T07:49:17.578Z",
-    "sourceName": "한국경제",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5Vb2s2cGwyM2FvU2dpeEdWOHhBeUNoMklGNGF1RUc5UHZtQ2dTUF9OVlJ4RDB0WXdHN0prTXRiWHB5bFY5eXBzU0tyZU91c3dnYUlyVNIBVEFVX3lxTE5Vb2s2cGwyM2FvU2dpeEdWOHhBeUNoMklGNGF1RUc5UHZtQ2dTUF9OVlJ4RDB0WXdHN0prTXRiWHB5bFY5eXBzU0tyZU91c3dnYUlyVA?oc=5",
-    "canonicalUrl": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5Vb2s2cGwyM2FvU2dpeEdWOHhBeUNoMklGNGF1RUc5UHZtQ2dTUF9OVlJ4RDB0WXdHN0prTXRiWHB5bFY5eXBzU0tyZU91c3dnYUlyVNIBVEFVX3lxTE5Vb2s2cGwyM2FvU2dpeEdWOHhBeUNoMklGNGF1RUc5UHZtQ2dTUF9OVlJ4RDB0WXdHN0prTXRiWHB5bFY5eXBzU0tyZU91c3dnYUlyVA?oc=5",
-    "titleFingerprint": "280680a2d0f840701a1b5553914d8c7427c07a74",
-    "dedupKeys": [
-      "51de18ebd28200af2a9b8a4caa1250e6ae7f9dc1",
-      "280680a2d0f840701a1b5553914d8c7427c07a74",
-      "1cf925cd18c74d9e0b93c638db78c62b9a08be72"
-    ],
-    "imageUrl": "",
-    "i18n": {
-      "ko": {
-        "title": "2026년 필승 ETF 총정리, 한국경제가 짚은 투자 키워드",
-        "excerpt": "한국경제는 2026년 ETF 투자 전략을 다룬 ‘2026년 필승 ETF 총정리했습니다’ 기사를 통해 투자자가 주목할 ETF 정보를 정리했다.",
-        "body": "한국경제는 ‘2026년 필승 ETF 총정리했습니다’라는 제목의 기사에서 2026년 ETF 투자와 관련한 핵심 내용을 정리해 보도했다. 해당 기사는 2026년을 앞두고 ETF에 관심 있는 투자자들이 참고할 만한 정보를 다룬다.\n\nETF는 주식처럼 거래되는 펀드로, 시장 지수나 특정 자산군에 분산 투자할 수 있다는 점에서 개인 투자자들의 관심이 꾸준하다. 원문은 2026년 ETF 투자 흐름을 살피는 콘텐츠로 소개됐다.\n\n이번 보도는 투자자가 새해 ETF 선택을 검토할 때 참고할 수 있는 자료라는 점에서 의미가 있다. 다만 제공된 원문 요약에는 구체적인 ETF 종목, 수익률, 운용사, 관계자 발언 등 세부 정보는 포함되지 않았다.\n\n출처: 한국경제"
-      },
-      "en": {
-        "title": "2026 Must-Watch ETF Roundup: Korea Economic Daily Highlights Key Ideas",
-        "excerpt": "The Korea Economic Daily summarized ETF information for investors in its article titled “2026 Must-Win ETF Roundup,” focusing on 2026 ETF strategy.",
-        "body": "The Korea Economic Daily reported on key points related to ETF investing for 2026 in an article titled “2026 Must-Win ETF Roundup.” The article was introduced as a guide for investors interested in ETFs ahead of 2026.\n\nETFs are funds traded like stocks and are widely followed because they can offer diversified exposure to market indexes or specific asset classes. The original item was presented as content reviewing ETF investment trends for 2026.\n\nThe report is meaningful as reference material for investors considering ETF choices for the new year. However, the provided source summary did not include specific ETF names, returns, asset managers, or quoted comments.\n\nSource: Korea Economic Daily"
-      },
-      "ja": {
-        "title": "2026年注目ETF総まとめ、韓国経済新聞が投資キーワードを整理",
-        "excerpt": "韓国経済新聞は「2026年必勝ETFを総まとめしました」という記事で、2026年のETF投資戦略に関する情報を整理した。",
-        "body": "韓国経済新聞は「2026年必勝ETFを総まとめしました」という題名の記事で、2026年のETF投資に関する主要内容を整理して報じた。同記事は、2026年を前にETFに関心を持つ投資家が参考にできる情報を扱っている。\n\nETFは株式のように取引されるファンドで、市場指数や特定の資産クラスに分散投資できる点から個人投資家の関心が続いている。原文は2026年のETF投資の流れを確認するコンテンツとして紹介された。\n\n今回の報道は、投資家が新年のETF選びを検討する際の参考資料として意味がある。ただし、提供された原文要約には具体的なETF銘柄、収益率、運用会社、関係者コメントなどの詳細は含まれていない。\n\n出典: 韓国経済新聞"
-      },
-      "zh": {
-        "title": "2026年ETF重点梳理，韩国经济日报聚焦投资关键词",
-        "excerpt": "韩国经济日报在题为《2026年必胜ETF全面整理》的报道中，汇总了面向投资者的2026年ETF投资相关信息。",
-        "body": "韩国经济日报在题为《2026年必胜ETF全面整理》的文章中，报道并整理了与2026年ETF投资相关的核心内容。该报道面向关注ETF的投资者，提供可在2026年到来前参考的信息。\n\nETF是像股票一样交易的基金，因可投资于市场指数或特定资产类别并实现分散配置，持续受到个人投资者关注。原文被介绍为观察2026年ETF投资趋势的内容。\n\n这篇报道的意义在于，可作为投资者评估新一年ETF选择时的参考资料。不过，所提供的原文摘要未包含具体ETF名称、收益率、资产管理公司或相关人士评论等细节。\n\n来源: 韩国经济日报"
-      },
-      "es": {
-        "title": "ETF clave para 2026: Korea Economic Daily resume ideas de inversión",
-        "excerpt": "Korea Economic Daily resumió información sobre ETF para inversores en su artículo “Resumen completo de ETF ganadores para 2026”.",
-        "body": "Korea Economic Daily informó sobre los puntos principales relacionados con la inversión en ETF para 2026 en un artículo titulado “Resumen completo de ETF ganadores para 2026”. La nota se presentó como una referencia para inversores interesados en ETF antes de 2026.\n\nLos ETF son fondos que se negocian como acciones y atraen atención porque permiten exposición diversificada a índices de mercado o clases específicas de activos. El texto original fue presentado como contenido para revisar las tendencias de inversión en ETF de 2026.\n\nEl reporte es relevante como material de consulta para quienes evalúan ETF de cara al nuevo año. Sin embargo, el resumen proporcionado no incluye nombres concretos de ETF, rentabilidades, gestoras ni comentarios de fuentes.\n\nFuente: Korea Economic Daily"
-      },
-      "pt": {
-        "title": "ETFs para 2026: Korea Economic Daily reúne pontos-chave de investimento",
-        "excerpt": "O Korea Economic Daily resumiu informações sobre ETFs para investidores no artigo “Resumo completo dos ETFs vencedores para 2026”.",
-        "body": "O Korea Economic Daily publicou uma reportagem com os principais pontos ligados ao investimento em ETFs em 2026, sob o título “Resumo completo dos ETFs vencedores para 2026”. O artigo foi apresentado como referência para investidores interessados em ETFs antes de 2026.\n\nETFs são fundos negociados como ações e seguem no radar por permitirem exposição diversificada a índices de mercado ou classes específicas de ativos. O texto original foi apresentado como um conteúdo sobre tendências de investimento em ETFs para 2026.\n\nA reportagem tem importância como material de consulta para investidores que avaliam escolhas de ETFs para o novo ano. No entanto, o resumo fornecido não inclui nomes específicos de ETFs, retornos, gestoras ou comentários de fontes.\n\nFonte: Korea Economic Daily"
-      },
-      "de": {
-        "title": "ETF-Ausblick 2026: Korea Economic Daily bündelt zentrale Investmentthemen",
-        "excerpt": "Korea Economic Daily hat in einem Artikel mit dem Titel „2026 Must-Win ETF Roundup“ Informationen zu ETF-Anlagen für 2026 zusammengefasst.",
-        "body": "Korea Economic Daily berichtete in einem Artikel mit dem Titel „2026 Must-Win ETF Roundup“ über zentrale Punkte rund um ETF-Investments im Jahr 2026. Der Beitrag wurde als Orientierung für Anleger vorgestellt, die sich vor 2026 mit ETFs befassen.\n\nETFs sind börsengehandelte Fonds, die wie Aktien gehandelt werden und wegen ihres Zugangs zu Marktindizes oder bestimmten Anlageklassen Beachtung finden. Der Originalbeitrag wurde als Inhalt zur Einordnung von ETF-Investmenttrends für 2026 beschrieben.\n\nDer Bericht kann Anlegern als Referenz dienen, wenn sie ETF-Entscheidungen für das neue Jahr prüfen. Die bereitgestellte Zusammenfassung enthält jedoch keine konkreten ETF-Namen, Renditen, Anbieter oder Aussagen von Beteiligten.\n\nQuelle: Korea Economic Daily"
-      },
-      "fr": {
-        "title": "ETF 2026 à surveiller : Korea Economic Daily résume les idées clés",
-        "excerpt": "Korea Economic Daily a synthétisé des informations sur les ETF pour les investisseurs dans son article intitulé « 2026 Must-Win ETF Roundup ».",
-        "body": "Korea Economic Daily a rapporté les principaux éléments liés à l’investissement en ETF pour 2026 dans un article intitulé « 2026 Must-Win ETF Roundup ». L’article a été présenté comme une référence pour les investisseurs intéressés par les ETF avant 2026.\n\nLes ETF sont des fonds négociés comme des actions et retiennent l’attention car ils permettent une exposition diversifiée à des indices de marché ou à certaines classes d’actifs. Le texte original a été présenté comme un contenu consacré aux tendances d’investissement en ETF pour 2026.\n\nCe reportage peut servir de document de référence aux investisseurs qui examinent leurs choix d’ETF pour la nouvelle année. Toutefois, le résumé fourni ne mentionne pas de noms précis d’ETF, de rendements, de sociétés de gestion ni de commentaires de sources.\n\nSource: Korea Economic Daily"
-      },
-      "ar": {
-        "title": "صناديق ETF لعام 2026: صحيفة كوريا الاقتصادية تلخص أبرز محاور الاستثمار",
-        "excerpt": "لخصت صحيفة كوريا الاقتصادية معلومات عن صناديق ETF للمستثمرين في مقال بعنوان «تلخيص شامل لصناديق ETF الرابحة في 2026».",
-        "body": "نشرت صحيفة كوريا الاقتصادية تقريرا بعنوان «تلخيص شامل لصناديق ETF الرابحة في 2026»، تناولت فيه أبرز النقاط المرتبطة بالاستثمار في صناديق ETF لعام 2026. وقد قُدم المقال كمرجع للمستثمرين المهتمين بهذه الصناديق قبل حلول عام 2026.\n\nصناديق ETF هي صناديق يتم تداولها مثل الأسهم، وتحظى باهتمام لأنها تتيح تعرضا متنوعا لمؤشرات السوق أو لفئات أصول محددة. وعرّف النص الأصلي المحتوى بوصفه مراجعة لاتجاهات الاستثمار في ETF لعام 2026.\n\nيمثل التقرير مادة مرجعية للمستثمرين عند دراسة اختيارات ETF للعام الجديد. لكن الملخص المتاح لا يتضمن أسماء صناديق محددة أو عوائد أو شركات إدارة أصول أو تصريحات من أطراف معنية.\n\nالمصدر: صحيفة كوريا الاقتصادية"
-      },
-      "hi": {
-        "title": "2026 ETF राउंडअप: Korea Economic Daily ने निवेश संकेतों को समेटा",
-        "excerpt": "Korea Economic Daily ने “2026 Must-Win ETF Roundup” लेख में 2026 की ETF निवेश रणनीति से जुड़ी जानकारी निवेशकों के लिए संक्षेप में दी।",
-        "body": "Korea Economic Daily ने “2026 Must-Win ETF Roundup” शीर्षक वाले लेख में 2026 में ETF निवेश से जुड़े मुख्य बिंदुओं पर रिपोर्ट की। यह लेख 2026 से पहले ETF में रुचि रखने वाले निवेशकों के लिए संदर्भ सामग्री के रूप में प्रस्तुत किया गया।\n\nETF ऐसे फंड होते हैं जिनका कारोबार शेयरों की तरह होता है और वे बाजार सूचकांकों या खास परिसंपत्ति वर्गों में विविध निवेश का अवसर दे सकते हैं। मूल सामग्री को 2026 के ETF निवेश रुझानों की समीक्षा के रूप में पेश किया गया।\n\nयह रिपोर्ट नए वर्ष के लिए ETF विकल्पों पर विचार कर रहे निवेशकों के लिए उपयोगी संदर्भ हो सकती है। हालांकि उपलब्ध सारांश में किसी खास ETF का नाम, रिटर्न, एसेट मैनेजर या संबंधित व्यक्ति की टिप्पणी शामिल नहीं है।\n\nस्रोत: Korea Economic Daily"
-      },
-      "id": {
-        "title": "ETF 2026 yang Perlu Dicermati: Korea Economic Daily Rangkum Isu Utama",
-        "excerpt": "Korea Economic Daily merangkum informasi ETF bagi investor dalam artikel “Rangkuman Lengkap ETF Unggulan 2026” yang membahas strategi ETF 2026.",
-        "body": "Korea Economic Daily melaporkan poin-poin utama terkait investasi ETF pada 2026 dalam artikel berjudul “Rangkuman Lengkap ETF Unggulan 2026”. Artikel tersebut diperkenalkan sebagai rujukan bagi investor yang tertarik pada ETF menjelang 2026.\n\nETF adalah reksa dana yang diperdagangkan seperti saham dan terus menarik perhatian karena dapat memberi eksposur terdiversifikasi ke indeks pasar atau kelas aset tertentu. Naskah asli diperkenalkan sebagai konten yang meninjau tren investasi ETF untuk 2026.\n\nLaporan ini bermakna sebagai bahan referensi bagi investor yang mempertimbangkan pilihan ETF untuk tahun baru. Namun, ringkasan sumber yang diberikan tidak memuat nama ETF tertentu, imbal hasil, manajer aset, atau komentar narasumber.\n\nSumber: Korea Economic Daily"
-      }
-    }
-  },
-  {
-    "id": "50b6ed963319",
-    "slug": "어린이날-장난감-대신-펀드etf-선물-어때요---뉴시스-761206",
-    "channelId": "ETF",
-    "category": "breaking",
-    "publishedAt": "2026-05-06T07:48:23.136Z",
-    "updatedAt": "2026-05-06T07:48:23.136Z",
-    "sourceName": "뉴시스",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE43dUVDbmJMSHFCREJGa0QwQVVMYjBFMGNxenRhM2dGaTZpSGVvT1lJcHRuaWcxZkliaWFKWFN6UjJxZm4wWnQ0azI2UkwxUFhFVnRQTXFPRV9jVDFxdGZfTdIBeEFVX3lxTFBxbVZmNzd3ZEdlb0Q3eGpsMl8wR002bVpPbUxscDZvUndDTWs2YmFXUlpRemZSdnpMOGRzT29OQkVnSEVFVUY0RzNyaTRwd09IeEVOZjRKT3lfVUNMYzRRbFhVVlhTV09tTlF4amdaUHh3aGpPNWtkZw?oc=5",
-    "canonicalUrl": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE43dUVDbmJMSHFCREJGa0QwQVVMYjBFMGNxenRhM2dGaTZpSGVvT1lJcHRuaWcxZkliaWFKWFN6UjJxZm4wWnQ0azI2UkwxUFhFVnRQTXFPRV9jVDFxdGZfTdIBeEFVX3lxTFBxbVZmNzd3ZEdlb0Q3eGpsMl8wR002bVpPbUxscDZvUndDTWs2YmFXUlpRemZSdnpMOGRzT29OQkVnSEVFVUY0RzNyaTRwd09IeEVOZjRKT3lfVUNMYzRRbFhVVlhTV09tTlF4amdaUHh3aGpPNWtkZw?oc=5",
-    "titleFingerprint": "82487dc328cbe0cabc50dab8c19c9f066d4af79a",
-    "dedupKeys": [
-      "50b6ed96331901048cff714a024db834263cb162",
-      "82487dc328cbe0cabc50dab8c19c9f066d4af79a",
-      "d4a56deb38e32b5567e6368f6c5528029dbd0063"
-    ],
-    "imageUrl": "",
-    "i18n": {
-      "ko": {
-        "title": "어린이날 선물로 펀드·ETF 주목, 장난감 대신 아이에게 금융상품 제안",
-        "excerpt": "뉴시스는 어린이날을 맞아 장난감 대신 펀드와 ETF를 선물하는 방안을 소개했다. 아이에게 금융상품을 선물하는 선택지가 투자 경험과 연결될 수 있다는 내용이다.",
-        "body": "뉴시스는 어린이날을 맞아 장난감 대신 펀드와 ETF를 선물하는 방안을 소개했다. 어린이날 선물의 선택지로 금융상품을 제안한 것이다.\n\n보도에 따르면 펀드와 ETF는 어린이날 선물로 거론될 수 있는 금융상품이다. 장난감 중심의 선물 관행과 달리, 아이에게 투자와 자산 형성의 개념을 접하게 하는 방식으로 소개됐다.\n\n이번 보도는 어린이날 선물의 범위를 소비재에서 금융상품으로 넓혀 볼 수 있다는 점을 짚었다. 다만 구체적인 상품명이나 수익률, 투자 성과에 대한 내용은 원문에 제시되지 않았다.\n\n출처: 뉴시스"
-      },
-      "en": {
-        "title": "Funds and ETFs Emerge as Children’s Day Gifts Instead of Toys",
-        "excerpt": "Newsis reported that funds and ETFs can be considered as Children’s Day gifts instead of toys, presenting financial products as another option for children.",
-        "body": "Newsis reported that funds and ETFs can be considered as gifts for Children’s Day instead of toys. The report presented financial products as an alternative gift option for the occasion.\n\nAccording to the report, funds and ETFs are among the financial products that may be mentioned as Children’s Day gifts. Unlike toy-centered gifts, they were introduced as a way for children to encounter the idea of investing and asset formation.\n\nThe report noted that the scope of Children’s Day gifts can be expanded from consumer goods to financial products. However, the original article did not provide specific product names, returns, or investment performance details.\n\nSource: Newsis"
-      },
-      "ja": {
-        "title": "こどもの日の贈り物にファンド・ETF、玩具に代わる金融商品案",
-        "excerpt": "ニューシスは、こどもの日に玩具の代わりとしてファンドやETFを贈る案を紹介した。子ども向けの金融商品ギフトという選択肢を伝えている。",
-        "body": "ニューシスは、こどもの日に玩具の代わりとしてファンドやETFを贈る案を紹介した。こどもの日の贈り物の選択肢として金融商品を提示した形だ。\n\n報道によると、ファンドとETFはこどもの日の贈り物として言及され得る金融商品だ。玩具中心の贈り物とは異なり、子どもが投資や資産形成の考え方に触れる方法として紹介された。\n\n今回の報道は、こどもの日の贈り物の範囲を消費財から金融商品へ広げて考えられる点を取り上げた。ただし、具体的な商品名や利回り、投資成果については原文で示されていない。\n\n出典: ニューシス"
-      },
-      "zh": {
-        "title": "儿童节礼物不只玩具，基金和ETF成金融礼物选项",
-        "excerpt": "Newsis报道称，儿童节可考虑用基金和ETF代替玩具作为礼物，将金融产品作为送给孩子的另一种选择。",
-        "body": "Newsis报道称，儿童节可考虑用基金和ETF代替玩具作为礼物。报道将金融产品作为儿童节礼物的一种替代选择提出。\n\n据报道，基金和ETF是可被提及为儿童节礼物的金融产品。不同于以玩具为中心的礼物，它们被介绍为让孩子接触投资和资产形成概念的一种方式。\n\n该报道指出，儿童节礼物的范围可以从消费品扩展到金融产品。不过，原文并未列出具体产品名称、收益率或投资表现等内容。\n\n来源: Newsis"
-      },
-      "es": {
-        "title": "Fondos y ETF ganan atención como regalos del Día del Niño frente a juguetes",
-        "excerpt": "Newsis informó que los fondos y ETF pueden considerarse regalos del Día del Niño en lugar de juguetes, presentando productos financieros como otra opción.",
-        "body": "Newsis informó que los fondos y ETF pueden considerarse regalos para el Día del Niño en lugar de juguetes. El reporte presentó los productos financieros como una opción alternativa para esa fecha.\n\nSegún la información, los fondos y ETF son productos financieros que pueden mencionarse como regalos del Día del Niño. A diferencia de los obsequios centrados en juguetes, fueron presentados como una forma de acercar a los niños a la idea de inversión y formación de activos.\n\nEl reporte señaló que el alcance de los regalos del Día del Niño puede ampliarse de bienes de consumo a productos financieros. Sin embargo, el texto original no incluyó nombres concretos de productos, rentabilidades ni resultados de inversión.\n\nFuente: Newsis"
-      },
-      "pt": {
-        "title": "Fundos e ETFs aparecem como presentes de Dia das Crianças no lugar de brinquedos",
-        "excerpt": "A Newsis informou que fundos e ETFs podem ser considerados presentes de Dia das Crianças em vez de brinquedos, como uma opção de produto financeiro.",
-        "body": "A Newsis informou que fundos e ETFs podem ser considerados presentes para o Dia das Crianças em vez de brinquedos. A reportagem apresentou produtos financeiros como uma alternativa de presente para a data.\n\nSegundo a publicação, fundos e ETFs são produtos financeiros que podem ser citados como presentes de Dia das Crianças. Diferentemente dos presentes centrados em brinquedos, eles foram apresentados como uma forma de aproximar a criança da ideia de investimento e formação de patrimônio.\n\nA reportagem destacou que o alcance dos presentes de Dia das Crianças pode se ampliar de bens de consumo para produtos financeiros. No entanto, o texto original não trouxe nomes específicos de produtos, rentabilidade ou desempenho de investimento.\n\nFonte: Newsis"
-      },
-      "de": {
-        "title": "Fonds und ETFs als Kindertagsgeschenk statt Spielzeug im Blick",
-        "excerpt": "Newsis berichtete, dass Fonds und ETFs zum Kindertag statt Spielzeug als Geschenk erwogen werden können und damit Finanzprodukte als Option ins Spiel kommen.",
-        "body": "Newsis berichtete, dass Fonds und ETFs zum Kindertag statt Spielzeug als Geschenk erwogen werden können. Der Bericht stellte Finanzprodukte als alternative Geschenkoption für diesen Anlass vor.\n\nDem Bericht zufolge gehören Fonds und ETFs zu den Finanzprodukten, die als Kindertagsgeschenk genannt werden können. Anders als spielzeugorientierte Geschenke wurden sie als Möglichkeit beschrieben, Kindern den Gedanken von Investieren und Vermögensbildung näherzubringen.\n\nDer Bericht hob hervor, dass sich der Rahmen von Kindertagsgeschenken von Konsumgütern auf Finanzprodukte erweitern lässt. Konkrete Produktnamen, Renditen oder Anlageergebnisse wurden im Original jedoch nicht genannt.\n\nQuelle: Newsis"
-      },
-      "fr": {
-        "title": "Fonds et ETF envisagés comme cadeaux de Journée des enfants plutôt que jouets",
-        "excerpt": "Newsis a indiqué que des fonds et ETF peuvent être envisagés comme cadeaux de Journée des enfants à la place de jouets, parmi les options financières.",
-        "body": "Newsis a indiqué que des fonds et ETF peuvent être envisagés comme cadeaux pour la Journée des enfants à la place de jouets. L’article a présenté les produits financiers comme une option alternative pour cette occasion.\n\nSelon le reportage, les fonds et ETF font partie des produits financiers pouvant être mentionnés comme cadeaux de Journée des enfants. Contrairement aux cadeaux centrés sur les jouets, ils ont été présentés comme un moyen de faire découvrir aux enfants l’idée d’investissement et de constitution d’actifs.\n\nLe reportage souligne que le champ des cadeaux de Journée des enfants peut être élargi des biens de consommation aux produits financiers. Toutefois, l’article original ne donne pas de noms de produits, de rendements ni de performances d’investissement précis.\n\nSource: Newsis"
-      },
-      "ar": {
-        "title": "الصناديق وETF كهدية ليوم الطفل بدلا من الألعاب ضمن خيارات مالية",
-        "excerpt": "أفادت نيوسيس بأن الصناديق وETF يمكن طرحها كهدايا ليوم الطفل بدلا من الألعاب، مع تقديم المنتجات المالية كخيار آخر للأطفال.",
-        "body": "أفادت نيوسيس بأن الصناديق وETF يمكن النظر إليها كهدايا ليوم الطفل بدلا من الألعاب. وقدمت المادة المنتجات المالية كخيار بديل للهدايا في هذه المناسبة.\n\nوبحسب التقرير، تعد الصناديق وETF من المنتجات المالية التي يمكن ذكرها كهدايا ليوم الطفل. وعلى خلاف الهدايا التي تتركز حول الألعاب، جرى تقديمها كوسيلة لتعريف الأطفال بفكرة الاستثمار وتكوين الأصول.\n\nوأشار التقرير إلى أن نطاق هدايا يوم الطفل يمكن أن يتسع من السلع الاستهلاكية إلى المنتجات المالية. إلا أن النص الأصلي لم يورد أسماء منتجات محددة أو عوائد أو نتائج استثمارية.\n\nالمصدر: نيوسيس"
-      },
-      "hi": {
-        "title": "बाल दिवस पर खिलौनों की जगह फंड और ETF उपहार देने का विकल्प चर्चा में",
-        "excerpt": "न्यूजिस ने बताया कि बाल दिवस पर खिलौनों के बजाय फंड और ETF उपहार के रूप में सोचे जा सकते हैं, जिससे वित्तीय उत्पाद एक वैकल्पिक विकल्प बनते हैं।",
-        "body": "न्यूजिस ने बताया कि बाल दिवस पर खिलौनों के बजाय फंड और ETF उपहार के रूप में सोचे जा सकते हैं। रिपोर्ट ने इस अवसर के लिए वित्तीय उत्पादों को एक वैकल्पिक उपहार विकल्प के रूप में पेश किया।\n\nरिपोर्ट के अनुसार, फंड और ETF ऐसे वित्तीय उत्पाद हैं जिनका बाल दिवस उपहार के रूप में उल्लेख किया जा सकता है। खिलौनों पर केंद्रित उपहारों से अलग, इन्हें बच्चों को निवेश और संपत्ति निर्माण की अवधारणा से परिचित कराने के तरीके के रूप में प्रस्तुत किया गया।\n\nरिपोर्ट ने बताया कि बाल दिवस उपहारों का दायरा उपभोक्ता वस्तुओं से आगे बढ़कर वित्तीय उत्पादों तक जा सकता है। हालांकि मूल लेख में किसी विशिष्ट उत्पाद नाम, रिटर्न या निवेश प्रदर्शन का विवरण नहीं दिया गया।\n\nस्रोत: न्यूजिस"
-      },
-      "id": {
-        "title": "Dana dan ETF Jadi Pilihan Hadiah Hari Anak Selain Mainan",
-        "excerpt": "Newsis melaporkan bahwa dana investasi dan ETF dapat dipertimbangkan sebagai hadiah Hari Anak selain mainan, dengan produk keuangan sebagai opsi lain.",
-        "body": "Newsis melaporkan bahwa dana investasi dan ETF dapat dipertimbangkan sebagai hadiah Hari Anak selain mainan. Laporan itu memperkenalkan produk keuangan sebagai pilihan hadiah alternatif untuk momen tersebut.\n\nMenurut laporan tersebut, dana investasi dan ETF termasuk produk keuangan yang dapat disebut sebagai hadiah Hari Anak. Berbeda dari hadiah yang berpusat pada mainan, keduanya diperkenalkan sebagai cara agar anak mengenal gagasan investasi dan pembentukan aset.\n\nLaporan ini menyoroti bahwa cakupan hadiah Hari Anak dapat diperluas dari barang konsumsi ke produk keuangan. Namun, artikel asli tidak menyebutkan nama produk tertentu, imbal hasil, atau kinerja investasi.\n\nSumber: Newsis"
       }
     }
   }
