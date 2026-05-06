@@ -1,5 +1,230 @@
 [
   {
+    "id": "f5af8fa6eedf",
+    "slug": "짭짤한-멤버십-수익코스트코-고물가에도-고공행진-440141",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-05-06T22:15:11.532Z",
+    "updatedAt": "2026-05-06T22:15:11.532Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/2026050696751",
+    "canonicalUrl": "https://www.hankyung.com/article/2026050696751",
+    "titleFingerprint": "40c1f0869ab875fbd2d33c313c59f2a79a32e093",
+    "dedupKeys": [
+      "f5af8fa6eedf9b34a93061c45a7770752229fc69",
+      "40c1f0869ab875fbd2d33c313c59f2a79a32e093",
+      "2738f036388315edc45f5df78044d5d9c655bd02"
+    ],
+    "imageUrl": "/images/articles/f5af8fa6eedf.jpg",
+    "i18n": {
+      "ko": {
+        "title": "코스트코 주가 19% 상승, 멤버십 수익이 고물가 실적 우려를 넘어선 배경",
+        "excerpt": "한국경제는 2026년 5월 6일 코스트코홀세일이 고물가 환경의 실적 우려에도 멤버십 기반 수익과 글로벌 출점 기대에 힘입어 주가 상승세를 이어가고 있다고 보도했다.",
+        "body": "미국 창고형 할인마트 코스트코홀세일이 고물가에 따른 실적 우려에도 주가 상승세를 이어가고 있다. 한국경제에 따르면 코스트코 주가는 뉴욕증시에서 2026년 5월 5일까지 올해 약 19% 올랐고, 같은 기간 S&P500 상승률 5.84%를 크게 웃돌았다. 배경에는 골드스타 연 65달러, 이그제큐티브 연 130달러로 운영되는 멤버십 모델이 있다. 전체 유료 회원 8219만 명 중 4040만 명이 이그제큐티브 회원이며 갱신율은 90% 수준이다. 2026회계연도 2분기 매출은 696억달러로 9.2%, 순이익은 20억3500만달러로 13.8% 늘었다. 디지털 동일 매장 매출도 22% 증가했다. 한국경제는 안정적 멤버십 수익과 신규 매장 28개 계획이 성장 기대를 뒷받침한다고 전했다. 출처: hankyung.com"
+      },
+      "en": {
+        "title": "Costco Stock Rises 19% as Membership Revenue Offsets Inflation Concerns",
+        "excerpt": "Hankyung reported on May 6, 2026, that Costco Wholesale kept climbing despite inflation-driven earnings concerns, supported by membership revenue and global store expansion expectations.",
+        "body": "Costco Wholesale, the U.S. warehouse discount retailer, is extending its stock rally despite concerns that high inflation could weigh on earnings. According to Hankyung, Costco shares had risen about 19% in 2026 through May 5 on the New York market, far ahead of the S&P 500’s 5.84% gain over the same period. The core driver is its membership model: Gold Star costs $65 a year and Executive costs $130. Of 82.19 million paid members, 40.4 million are Executive members, and the renewal rate is around 90%. In fiscal 2026 second quarter, revenue rose 9.2% to $69.6 billion, while net income increased 13.8% to $2.035 billion. Digital comparable sales climbed 22%. Hankyung said stable membership revenue and a plan to open 28 new stores support growth expectations. Source: hankyung.com"
+      },
+      "ja": {
+        "title": "コストコ株19％上昇、会員収益が高インフレ懸念を上回った理由",
+        "excerpt": "韓国経済新聞は2026年5月6日、コストコホールセールが高インフレ下の業績懸念にもかかわらず、会員収益と世界的な出店期待を背景に株高を続けていると報じた。",
+        "body": "米国の倉庫型ディスカウント店コストコホールセールは、高インフレによる業績懸念がある中でも株価上昇を続けている。韓国経済新聞によると、コストコ株はニューヨーク市場で2026年5月5日までに年初来約19％上昇し、同期間のS&P500上昇率5.84％を大きく上回った。背景には、年65ドルのゴールドスター、年130ドルのエグゼクティブで構成される会員モデルがある。有料会員8219万人のうち4040万人がエグゼクティブ会員で、更新率は約90％。2026会計年度第2四半期の売上高は696億ドルで9.2％増、純利益は20億3500万ドルで13.8％増だった。デジタル既存店売上高も22％増えた。韓国経済新聞は、安定した会員収益と新規28店舗計画が成長期待を支えていると伝えた。出典: hankyung.com"
+      },
+      "zh": {
+        "title": "Costco股价上涨19%，会员收入为何抵消高通胀业绩担忧",
+        "excerpt": "韩国经济新闻2026年5月6日报道，Costco Wholesale在高通胀带来的业绩担忧下，仍凭借会员收入和全球开店预期延续股价涨势。",
+        "body": "美国仓储式折扣零售商Costco Wholesale在高通胀引发业绩担忧的背景下，股价仍持续走高。据韩国经济新闻报道，截至2026年5月5日，Costco股价今年在纽约市场上涨约19%，明显高于同期S&P 500指数5.84%的涨幅。支撑因素是其会员模式：Gold Star年费65美元，Executive年费130美元。在8219万付费会员中，4040万人为Executive会员，续费率约为90%。2026财年第二季度，Costco营收为696亿美元，同比增长9.2%；净利润为20.35亿美元，同比增长13.8%。数字渠道可比门店销售额增长22%。韩国经济新闻称，稳定的会员收入和计划新增28家门店，支撑了市场对其增长的期待。来源: hankyung.com"
+      },
+      "es": {
+        "title": "Costco sube 19% en bolsa: las membresías compensan el temor por inflación",
+        "excerpt": "Hankyung informó el 6 de mayo de 2026 que Costco Wholesale mantiene su avance bursátil pese a las dudas por la inflación, apoyada en ingresos por membresías y expansión global.",
+        "body": "Costco Wholesale, la cadena estadounidense de almacenes de descuento, mantiene su subida en bolsa pese a la preocupación por el impacto de la alta inflación en sus resultados. Según Hankyung, la acción de Costco había avanzado cerca de 19% en 2026 hasta el 5 de mayo en Nueva York, muy por encima del 5,84% del S&P 500 en el mismo periodo. La base es su modelo de membresía: Gold Star cuesta 65 dólares al año y Executive, 130 dólares. De 82,19 millones de miembros pagos, 40,4 millones pertenecen a Executive, con una tasa de renovación cercana al 90%. En el segundo trimestre fiscal de 2026, los ingresos crecieron 9,2% hasta 69.600 millones de dólares y el beneficio neto subió 13,8% a 2.035 millones. Las ventas comparables digitales aumentaron 22%. Hankyung señaló que los ingresos estables por membresía y el plan de abrir 28 tiendas respaldan las expectativas de crecimiento. Fuente: hankyung.com"
+      },
+      "pt": {
+        "title": "Costco sobe 19% na bolsa com receita de assinaturas contra pressão da inflação",
+        "excerpt": "O Hankyung informou em 6 de maio de 2026 que a Costco Wholesale segue em alta apesar das preocupações com inflação, apoiada por receita de membros e expansão global de lojas.",
+        "body": "A Costco Wholesale, varejista americana de clubes de compras, continua em alta na bolsa apesar das preocupações de que a inflação elevada pressione os resultados. Segundo o Hankyung, as ações da Costco subiram cerca de 19% em 2026 até 5 de maio em Nova York, bem acima do avanço de 5,84% do S&P 500 no mesmo período. O pilar é o modelo de associação: Gold Star custa US$ 65 por ano e Executive, US$ 130. Dos 82,19 milhões de membros pagos, 40,4 milhões são Executive, e a taxa de renovação fica perto de 90%. No segundo trimestre fiscal de 2026, a receita cresceu 9,2%, para US$ 69,6 bilhões, e o lucro líquido subiu 13,8%, para US$ 2,035 bilhões. As vendas comparáveis digitais aumentaram 22%. O Hankyung afirmou que a receita estável de membros e o plano de abrir 28 lojas sustentam as expectativas de crescimento. Fonte: hankyung.com"
+      },
+      "de": {
+        "title": "Costco-Aktie steigt 19 Prozent: Mitgliedsbeiträge mildern Inflationssorgen",
+        "excerpt": "Hankyung berichtete am 6. Mai 2026, dass Costco Wholesale trotz Inflationssorgen weiter zulegt, gestützt von Mitgliedschaftserlösen und Erwartungen an globale Filialexpansion.",
+        "body": "Costco Wholesale, der US-amerikanische Warehouse-Discounter, setzt seine Aktienrally trotz Sorgen über hohe Inflation und mögliche Ergebnisbelastungen fort. Laut Hankyung legte die Costco-Aktie 2026 bis zum 5. Mai in New York um rund 19% zu und übertraf damit den S&P 500, der im selben Zeitraum 5,84% gewann, deutlich. Grundlage ist das Mitgliedschaftsmodell: Gold Star kostet 65 Dollar pro Jahr, Executive 130 Dollar. Von 82,19 Millionen zahlenden Mitgliedern entfallen 40,4 Millionen auf Executive; die Verlängerungsquote liegt bei etwa 90%. Im zweiten Quartal des Geschäftsjahres 2026 stieg der Umsatz um 9,2% auf 69,6 Milliarden Dollar, der Nettogewinn um 13,8% auf 2,035 Milliarden Dollar. Die digitalen vergleichbaren Umsätze wuchsen um 22%. Hankyung schrieb, stabile Mitgliedserlöse und der Plan für 28 neue Filialen stützten die Wachstumserwartungen. Quelle: hankyung.com"
+      },
+      "fr": {
+        "title": "Costco gagne 19% en Bourse, les abonnements résistent aux craintes d’inflation",
+        "excerpt": "Hankyung a rapporté le 6 mai 2026 que Costco Wholesale poursuivait sa hausse malgré les inquiétudes liées à l’inflation, soutenu par les revenus d’adhésion et l’expansion mondiale.",
+        "body": "Costco Wholesale, l’enseigne américaine d’entrepôts-discompteurs, poursuit sa progression en Bourse malgré les craintes que la forte inflation pèse sur ses résultats. Selon Hankyung, l’action Costco avait gagné environ 19% en 2026 jusqu’au 5 mai à New York, dépassant largement la hausse de 5,84% du S&P 500 sur la même période. Le moteur est son modèle d’adhésion: Gold Star coûte 65 dollars par an et Executive 130 dollars. Sur 82,19 millions de membres payants, 40,4 millions sont Executive, avec un taux de renouvellement proche de 90%. Au deuxième trimestre de l’exercice 2026, le chiffre d’affaires a progressé de 9,2% à 69,6 milliards de dollars et le bénéfice net de 13,8% à 2,035 milliards. Les ventes comparables numériques ont augmenté de 22%. Hankyung indique que les revenus d’adhésion stables et le projet d’ouvrir 28 magasins soutiennent les attentes de croissance. Source: hankyung.com"
+      },
+      "ar": {
+        "title": "سهم كوستكو يرتفع 19% مع دعم إيرادات العضوية رغم مخاوف التضخم",
+        "excerpt": "ذكرت هانكيونغ في 6 مايو 2026 أن كوستكو وولسيل واصلت صعودها في السوق رغم مخاوف تأثير التضخم على الأرباح، بدعم من إيرادات العضوية وخطط التوسع العالمية.",
+        "body": "تواصل كوستكو وولسيل، سلسلة متاجر المستودعات المخفضة في الولايات المتحدة، صعود سهمها رغم المخاوف من ضغط التضخم المرتفع على النتائج. وبحسب هانكيونغ، ارتفع سهم كوستكو في بورصة نيويورك بنحو 19% منذ بداية 2026 حتى 5 مايو، متجاوزا بوضوح مكاسب مؤشر S&P 500 البالغة 5.84% في الفترة نفسها. ويستند ذلك إلى نموذج العضوية: تبلغ رسوم Gold Star السنوية 65 دولارا وExecutive 130 دولارا. ومن بين 82.19 مليون عضو مدفوع، يوجد 40.4 مليون عضو في فئة Executive، وتبلغ نسبة التجديد نحو 90%. في الربع الثاني من السنة المالية 2026، زادت الإيرادات 9.2% إلى 69.6 مليار دولار، وارتفع صافي الربح 13.8% إلى 2.035 مليار دولار. كما نمت مبيعات المتاجر الرقمية المماثلة 22%. وقالت هانكيونغ إن إيرادات العضوية المستقرة وخطة فتح 28 متجرا جديدا تدعمان توقعات النمو. المصدر: hankyung.com"
+      },
+      "hi": {
+        "title": "Costco शेयर 19% चढ़ा, सदस्यता आय ने महंगाई से जुड़ी चिंता को कैसे संभाला",
+        "excerpt": "Hankyung ने 6 मई 2026 को बताया कि Costco Wholesale महंगाई से कमाई पर दबाव की चिंता के बावजूद सदस्यता आय और वैश्विक स्टोर विस्तार की उम्मीदों से चढ़त बनाए हुए है।",
+        "body": "अमेरिकी वेयरहाउस डिस्काउंट रिटेलर Costco Wholesale महंगाई से कमाई पर असर की चिंता के बावजूद शेयर बाजार में अपनी तेजी जारी रखे हुए है। Hankyung के अनुसार, 5 मई 2026 तक न्यूयॉर्क बाजार में Costco का शेयर इस साल करीब 19% चढ़ा, जबकि इसी अवधि में S&P 500 की बढ़त 5.84% रही। इसकी मुख्य वजह सदस्यता मॉडल है: Gold Star की वार्षिक फीस 65 डॉलर और Executive की 130 डॉलर है। 8.219 करोड़ भुगतान करने वाले सदस्यों में 4.04 करोड़ Executive सदस्य हैं, और नवीनीकरण दर करीब 90% है। वित्त वर्ष 2026 की दूसरी तिमाही में राजस्व 9.2% बढ़कर 69.6 अरब डॉलर हुआ, जबकि शुद्ध लाभ 13.8% बढ़कर 2.035 अरब डॉलर रहा। डिजिटल समान-स्टोर बिक्री 22% बढ़ी। Hankyung ने कहा कि स्थिर सदस्यता आय और 28 नए स्टोर खोलने की योजना वृद्धि की उम्मीदों को सहारा देती है। स्रोत: hankyung.com"
+      },
+      "id": {
+        "title": "Saham Costco Naik 19%, Pendapatan Keanggotaan Menopang di Tengah Inflasi",
+        "excerpt": "Hankyung melaporkan pada 6 Mei 2026 bahwa Costco Wholesale tetap menguat meski ada kekhawatiran inflasi terhadap laba, ditopang pendapatan keanggotaan dan ekspansi toko global.",
+        "body": "Costco Wholesale, peritel gudang diskon asal AS, terus mencatat kenaikan saham meski ada kekhawatiran inflasi tinggi dapat menekan kinerja. Menurut Hankyung, saham Costco naik sekitar 19% sepanjang 2026 hingga 5 Mei di pasar New York, jauh di atas kenaikan S&P 500 sebesar 5,84% pada periode yang sama. Pendorong utamanya adalah model keanggotaan: Gold Star berbiaya 65 dolar AS per tahun dan Executive 130 dolar AS. Dari 82,19 juta anggota berbayar, 40,4 juta adalah anggota Executive, dengan tingkat pembaruan sekitar 90%. Pada kuartal kedua tahun fiskal 2026, pendapatan naik 9,2% menjadi 69,6 miliar dolar AS dan laba bersih naik 13,8% menjadi 2,035 miliar dolar AS. Penjualan toko sebanding digital meningkat 22%. Hankyung menyebut pendapatan keanggotaan yang stabil dan rencana membuka 28 toko baru menopang ekspektasi pertumbuhan. Sumber: hankyung.com"
+      }
+    }
+  },
+  {
+    "id": "9c963abf63fc",
+    "slug": "캐즘-뚫고-시총-2조-위안-돌파catl-기술-초격차로-배터리-패권-굳힌다-724992",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-05-06T22:13:55.306Z",
+    "updatedAt": "2026-05-06T22:13:55.306Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/202605069837i",
+    "canonicalUrl": "https://www.hankyung.com/article/202605069837i",
+    "titleFingerprint": "6dd2ab6dfb3235abe7bea2db63f0f1807a2c3860",
+    "dedupKeys": [
+      "9c963abf63fc2f189345804af85bb57697e58131",
+      "6dd2ab6dfb3235abe7bea2db63f0f1807a2c3860",
+      "c647ab17954a9fbb8a6b053499880421a1747aa5"
+    ],
+    "imageUrl": "/images/articles/9c963abf63fc.jpg",
+    "i18n": {
+      "ko": {
+        "title": "CATL 시총 2조 위안 돌파, 기술 초격차로 배터리 패권 굳히나",
+        "excerpt": "CATL이 배터리 시장의 ‘캐즘’ 우려를 뚫고 시가총액 2조 위안을 넘어섰다고 hankyung.com이 보도했다. 기술 초격차를 앞세워 배터리 패권을 강화하는 흐름이다.",
+        "body": "CATL이 배터리 시장의 ‘캐즘’ 우려를 넘어 시가총액 2조 위안을 돌파했다고 hankyung.com이 보도했다. 보도에 따르면 CATL은 기술 초격차를 바탕으로 배터리 산업 내 주도권을 굳히는 흐름을 보이고 있다. 전기차와 배터리 시장에서 성장 둔화 우려가 제기되는 가운데, 2조 위안 시총 돌파는 CATL의 시장 평가가 여전히 견조하다는 점을 보여준다. 향후 CATL의 기술 경쟁력과 시장 지위가 배터리 패권 경쟁의 핵심 변수로 주목된다. 출처: hankyung.com"
+      },
+      "en": {
+        "title": "CATL Tops 2 Trillion Yuan Market Cap as Tech Lead Strengthens Battery Grip",
+        "excerpt": "CATL has surpassed a market capitalization of 2 trillion yuan despite concerns over a battery market “chasm,” hankyung.com reported, underscoring its push to reinforce battery leadership through a technology gap.",
+        "body": "CATL has crossed a market capitalization of 2 trillion yuan, overcoming concerns about a “chasm” in the battery market, according to hankyung.com. The report said CATL is moving to cement its leadership in the battery industry on the back of a wide technology gap. At a time when concerns persist over slowing growth in electric vehicles and batteries, the 2 trillion yuan valuation signals that market confidence in CATL remains firm. Its technology competitiveness and market position are expected to remain key factors in the battery leadership race. Source: hankyung.com"
+      },
+      "ja": {
+        "title": "CATL時価総額2兆元突破、技術優位で電池覇権を強化へ",
+        "excerpt": "CATLが電池市場の「キャズム」懸念を越え、時価総額2兆元を突破したとhankyung.comが報じた。技術面の大きな優位性を背景に、電池覇権を固める動きだ。",
+        "body": "CATLが電池市場の「キャズム」懸念を乗り越え、時価総額2兆元を突破したとhankyung.comが報じた。報道によると、CATLは技術面での大きな優位性を基盤に、電池産業での主導権を固める流れを見せている。電気自動車と電池市場で成長鈍化への懸念が出るなか、2兆元の時価総額突破はCATLへの市場評価がなお堅調であることを示す。今後、同社の技術競争力と市場地位が電池覇権競争の重要な変数として注目される。出所: hankyung.com"
+      },
+      "zh": {
+        "title": "CATL市值突破2万亿元，凭技术领先巩固电池主导权",
+        "excerpt": "据hankyung.com报道，CATL突破电池市场“鸿沟”担忧，市值超过2万亿元人民币。公司正凭借技术超前优势，进一步巩固电池产业主导地位。",
+        "body": "据hankyung.com报道，CATL克服电池市场“鸿沟”担忧，市值突破2万亿元人民币。报道称，CATL正以技术超前优势为基础，巩固其在电池产业中的主导地位。在电动汽车和电池市场增长放缓担忧持续出现的背景下，市值突破2万亿元显示出市场对CATL的评价依然稳健。未来，CATL的技术竞争力和市场地位将继续成为电池主导权竞争中的关键变量。来源: hankyung.com"
+      },
+      "es": {
+        "title": "CATL supera 2 billones de yuanes en valor y afianza su dominio en baterías",
+        "excerpt": "CATL superó los 2 billones de yuanes de capitalización pese a las preocupaciones por un “abismo” en el mercado de baterías, informó hankyung.com, reforzando su liderazgo tecnológico.",
+        "body": "CATL superó una capitalización bursátil de 2 billones de yuanes tras dejar atrás las preocupaciones por un “abismo” en el mercado de baterías, según informó hankyung.com. De acuerdo con el reporte, la compañía busca consolidar su liderazgo en la industria de baterías apoyándose en una amplia ventaja tecnológica. En un contexto de inquietud por la desaceleración del crecimiento en vehículos eléctricos y baterías, el hito de 2 billones de yuanes muestra que la valoración del mercado sobre CATL sigue siendo sólida. Su competitividad tecnológica y posición de mercado seguirán siendo factores clave en la pugna por el dominio de las baterías. Fuente: hankyung.com"
+      },
+      "pt": {
+        "title": "CATL supera 2 trilhões de yuans e reforça liderança em baterias",
+        "excerpt": "A CATL ultrapassou 2 trilhões de yuans em valor de mercado apesar das preocupações com um “abismo” no setor de baterias, informou hankyung.com, apoiada por sua vantagem tecnológica.",
+        "body": "A CATL ultrapassou uma capitalização de mercado de 2 trilhões de yuans, superando preocupações com um “abismo” no mercado de baterias, segundo o hankyung.com. De acordo com a reportagem, a empresa vem consolidando sua liderança na indústria de baterias com base em uma ampla vantagem tecnológica. Em meio a temores de desaceleração no crescimento dos veículos elétricos e das baterias, o marco de 2 trilhões de yuans mostra que a avaliação do mercado sobre a CATL continua firme. Sua competitividade tecnológica e posição de mercado devem seguir como fatores centrais na disputa pela liderança em baterias. Fonte: hankyung.com"
+      },
+      "de": {
+        "title": "CATL überschreitet 2 Billionen Yuan Börsenwert und stärkt Batterieführung",
+        "excerpt": "CATL hat trotz Sorgen über eine „Chasm“-Phase im Batteriemarkt einen Börsenwert von 2 Billionen Yuan überschritten, berichtete hankyung.com. Technologischer Vorsprung stützt die Führungsposition.",
+        "body": "CATL hat einen Börsenwert von 2 Billionen Yuan überschritten und damit Sorgen über eine „Chasm“-Phase im Batteriemarkt überwunden, berichtete hankyung.com. Dem Bericht zufolge festigt CATL seine Führungsrolle in der Batterieindustrie auf Basis eines deutlichen technologischen Vorsprungs. Während im Markt für Elektrofahrzeuge und Batterien Bedenken über eine Wachstumsverlangsamung bestehen, zeigt der Sprung über 2 Billionen Yuan, dass die Marktbewertung von CATL weiterhin robust ist. Die technologische Wettbewerbsfähigkeit und Marktposition des Unternehmens bleiben zentrale Faktoren im Wettbewerb um die Batterieführung. Quelle: hankyung.com"
+      },
+      "fr": {
+        "title": "CATL dépasse 2 000 milliards de yuans et renforce son emprise sur les batteries",
+        "excerpt": "CATL a dépassé 2 000 milliards de yuans de capitalisation malgré les craintes de “chasm” sur le marché des batteries, a rapporté hankyung.com, porté par son avance technologique.",
+        "body": "CATL a franchi le seuil de 2 000 milliards de yuans de capitalisation boursière en surmontant les inquiétudes liées à un “chasm” sur le marché des batteries, selon hankyung.com. D’après le média, CATL consolide sa position dominante dans l’industrie des batteries grâce à un large avantage technologique. Alors que des craintes de ralentissement pèsent sur les véhicules électriques et les batteries, ce seuil montre que l’évaluation du marché à l’égard de CATL reste solide. Sa compétitivité technologique et sa position de marché devraient rester des variables clés dans la course à la domination des batteries. Source: hankyung.com"
+      },
+      "ar": {
+        "title": "CATL تتجاوز قيمة سوقية قدرها 2 تريليون يوان وتعزز هيمنتها في البطاريات",
+        "excerpt": "أفاد موقع hankyung.com بأن CATL تجاوزت مخاوف “الفجوة” في سوق البطاريات وبلغت قيمتها السوقية أكثر من 2 تريليون يوان، مستندة إلى تفوق تقني يعزز موقعها القيادي.",
+        "body": "تجاوزت CATL قيمة سوقية قدرها 2 تريليون يوان بعد تخطي مخاوف “الفجوة” في سوق البطاريات، بحسب ما أفاد موقع hankyung.com. ووفق التقرير، تمضي الشركة في ترسيخ قيادتها داخل صناعة البطاريات اعتمادا على تفوق تقني واسع. وفي ظل مخاوف من تباطؤ النمو في سوق السيارات الكهربائية والبطاريات، يعكس تجاوز قيمة 2 تريليون يوان أن تقييم السوق لـ CATL لا يزال قويا. ومن المتوقع أن تظل قدرتها التكنولوجية ومكانتها السوقية عاملين رئيسيين في المنافسة على هيمنة البطاريات. المصدر: hankyung.com"
+      },
+      "hi": {
+        "title": "CATL का बाजार मूल्य 2 ट्रिलियन युआन पार, तकनीकी बढ़त से बैटरी प्रभुत्व मजबूत",
+        "excerpt": "hankyung.com के अनुसार CATL ने बैटरी बाजार की “चैज़्म” चिंता को पार करते हुए 2 ट्रिलियन युआन से अधिक बाजार मूल्य हासिल किया, जिससे उसकी तकनीकी बढ़त और नेतृत्व रेखांकित हुआ।",
+        "body": "hankyung.com के अनुसार CATL ने बैटरी बाजार की “चैज़्म” चिंता को पार करते हुए 2 ट्रिलियन युआन का बाजार पूंजीकरण हासिल किया। रिपोर्ट के मुताबिक कंपनी तकनीकी बढ़त के आधार पर बैटरी उद्योग में अपनी नेतृत्व स्थिति मजबूत कर रही है। इलेक्ट्रिक वाहन और बैटरी बाजार में वृद्धि धीमी होने की चिंता के बीच 2 ट्रिलियन युआन का स्तर दिखाता है कि CATL को लेकर बाजार का मूल्यांकन अब भी मजबूत है। आगे कंपनी की तकनीकी प्रतिस्पर्धा और बाजार स्थिति बैटरी प्रभुत्व की दौड़ में अहम कारक रहेंगी। स्रोत: hankyung.com"
+      },
+      "id": {
+        "title": "CATL Tembus Kapitalisasi 2 Triliun Yuan, Perkuat Dominasi Baterai",
+        "excerpt": "CATL menembus kapitalisasi pasar 2 triliun yuan meski ada kekhawatiran “chasm” di pasar baterai, lapor hankyung.com. Keunggulan teknologi menjadi dasar penguatan posisinya.",
+        "body": "CATL menembus kapitalisasi pasar 2 triliun yuan setelah melewati kekhawatiran “chasm” di pasar baterai, menurut laporan hankyung.com. Laporan tersebut menyebut CATL sedang memperkuat kepemimpinannya di industri baterai dengan mengandalkan keunggulan teknologi yang lebar. Di tengah kekhawatiran perlambatan pertumbuhan pada pasar kendaraan listrik dan baterai, pencapaian 2 triliun yuan menunjukkan penilaian pasar terhadap CATL tetap kuat. Daya saing teknologi dan posisi pasarnya akan tetap menjadi faktor utama dalam persaingan dominasi baterai. Sumber: hankyung.com"
+      }
+    }
+  },
+  {
+    "id": "11e5772ff12a",
+    "slug": "삼전만-폭등한-게-아니었네무더기-상한가-이유-알고보니-분석-107198",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-05-06T22:13:01.402Z",
+    "updatedAt": "2026-05-06T22:13:01.402Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/2026050692366",
+    "canonicalUrl": "https://www.hankyung.com/article/2026050692366",
+    "titleFingerprint": "b93603d84f459c495ce84fa56a1e89b61055e061",
+    "dedupKeys": [
+      "11e5772ff12ac5e76b631cfdac184b43022f727e",
+      "b93603d84f459c495ce84fa56a1e89b61055e061",
+      "5895c4a4c5ce0bb906dc01990f21b458f10db3b7"
+    ],
+    "imageUrl": "/images/articles/11e5772ff12a.jpg",
+    "i18n": {
+      "ko": {
+        "title": "유리기판주 무더기 상한가, 애플·삼성전자·인텔 협력 기대가 불붙였다",
+        "excerpt": "6일 한국 증시에서 SKC와 HB테크놀러지 등 유리기판 관련주가 애플·삼성전자·인텔 협력 논의와 차세대 칩 적용 기대감에 동반 급등했다.",
+        "body": "6일 한국 증시에서 유리기판 테마주가 동반 급등했다. 한국거래소에 따르면 SKC는 전일 대비 30.00% 오른 16만1200원, HB테크놀러지는 29.89% 오른 4020원에 마감했다. 애플이 칩 공급 부족 대응을 위해 삼성전자 및 인텔과 협력 방안을 논의했다는 소식이 투자심리를 자극했다. SKC 자회사 앱솔릭스는 미국 조지아주에 유리기판 생산시설을 구축했고, AMD와 아마존웹서비스(AWS) 등이 시제품을 테스트 중인 것으로 전해졌다. 와이씨켐, 필옵틱스, 제이앤티씨, 켐트로닉스, 한빛레이저도 급등했다. 인텔은 간밤 뉴욕증시에서 12.95% 올랐고, 삼성전자는 이날 14.41% 상승했다. 유리기판은 AI 반도체 고도화의 핵심 소재로 주목받지만 가공 난도가 높다는 점도 변수다. 출처: hankyung.com."
+      },
+      "en": {
+        "title": "Glass Substrate Stocks Hit Limits as Apple, Samsung and Intel Hopes Rise",
+        "excerpt": "On May 6, Korean glass substrate stocks including SKC and HB Technology surged as talks involving Apple, Samsung Electronics and Intel lifted hopes for next-generation chips.",
+        "body": "On May 6, glass substrate-themed stocks surged together in the Korean market. According to the Korea Exchange, SKC closed at 161,200 won, up 30.00% from the previous session, while HB Technology ended at 4,020 won, up 29.89%. Investor sentiment was stirred by reports that Apple had discussed cooperation with Samsung Electronics and Intel to address chip supply shortages. SKC subsidiary Absolics has built a glass substrate production facility in Georgia, U.S., and prototypes are reportedly being tested by AMD and Amazon Web Services (AWS). YC Chem, Philoptics, JNTC, Chemtronics and Hanbit Laser also jumped. Intel rose 12.95% overnight in New York, and Samsung Electronics gained 14.41% in Korea. Glass substrates are drawing attention as a key material for advanced AI semiconductors, though high processing difficulty remains a variable. Source: hankyung.com."
+      },
+      "ja": {
+        "title": "ガラス基板株が一斉急騰、アップル・サムスン・インテル協力期待で",
+        "excerpt": "6日の韓国市場でSKCやHBテクノロジーなどガラス基板関連株が、アップル・サムスン電子・インテルの協力協議と次世代チップ期待で急騰した。",
+        "body": "6日の韓国株式市場で、ガラス基板テーマ株がそろって急騰した。韓国取引所によると、SKCは前日比30.00%高の16万1200ウォン、HBテクノロジーは29.89%高の4020ウォンで取引を終えた。アップルがチップ供給不足への対応としてサムスン電子やインテルと協力策を協議したとの報道が投資心理を刺激した。SKC子会社のAbsolicsは米ジョージア州にガラス基板生産施設を構築し、AMDやアマゾン・ウェブ・サービス（AWS）などが試作品をテスト中と伝えられている。YC Chem、Philoptics、JNTC、Chemtronics、Hanbit Laserも急騰した。インテルは前夜のニューヨーク市場で12.95%上昇し、サムスン電子もこの日14.41%高となった。ガラス基板はAI半導体高度化の中核素材として注目される一方、加工難度の高さが変数だ。出典: hankyung.com."
+      },
+      "zh": {
+        "title": "玻璃基板股集体涨停，苹果、三星电子与英特尔合作预期升温",
+        "excerpt": "5月6日，韩国股市中SKC、HB Technology等玻璃基板相关股因苹果、三星电子与英特尔合作讨论及下一代芯片预期而集体大涨。",
+        "body": "5月6日，韩国股市玻璃基板概念股集体大涨。韩国交易所数据显示，SKC较前一交易日上涨30.00%，收于161200韩元；HB Technology上涨29.89%，收于4020韩元。报道称，苹果为应对芯片供应短缺，与三星电子及英特尔讨论合作方案，这一消息提振了投资情绪。SKC子公司Absolics已在美国佐治亚州建设玻璃基板生产设施，其样品据称正由AMD和亚马逊云科技（AWS）等进行性能测试。YC Chem、Philoptics、JNTC、Chemtronics和Hanbit Laser也大幅上涨。英特尔隔夜在纽约股市上涨12.95%，三星电子当日在韩国市场上涨14.41%。玻璃基板被视为AI半导体升级的关键材料，但加工难度较高仍是变量。来源: hankyung.com."
+      },
+      "es": {
+        "title": "Acciones de sustratos de vidrio se disparan por expectativas Apple-Samsung-Intel",
+        "excerpt": "El 6 de mayo, SKC, HB Technology y otras acciones coreanas de sustratos de vidrio subieron con fuerza por conversaciones entre Apple, Samsung Electronics e Intel.",
+        "body": "El 6 de mayo, las acciones coreanas vinculadas a sustratos de vidrio subieron de forma generalizada. Según la Bolsa de Corea, SKC cerró en 161.200 wones, un 30,00% más que la sesión anterior, y HB Technology terminó en 4.020 wones, un 29,89% más. El ánimo inversor fue impulsado por informes de que Apple discutió opciones de cooperación con Samsung Electronics e Intel para responder a la escasez de chips. Absolics, filial de SKC, construyó una planta de producción de sustratos de vidrio en Georgia, EE. UU., y sus prototipos estarían siendo probados por AMD y Amazon Web Services (AWS). YC Chem, Philoptics, JNTC, Chemtronics y Hanbit Laser también se dispararon. Intel subió un 12,95% durante la noche en Nueva York y Samsung Electronics ganó un 14,41% en Corea. Los sustratos de vidrio atraen atención como material clave para semiconductores de IA avanzados, aunque su alta dificultad de procesamiento sigue siendo un factor de riesgo. Fuente: hankyung.com."
+      },
+      "pt": {
+        "title": "Ações de substrato de vidro disparam com expectativa Apple, Samsung e Intel",
+        "excerpt": "Em 6 de maio, SKC, HB Technology e outras ações coreanas ligadas a substratos de vidro subiram forte após notícias sobre conversas entre Apple, Samsung Electronics e Intel.",
+        "body": "Em 6 de maio, ações coreanas ligadas ao tema de substratos de vidro avançaram em conjunto. Segundo a Bolsa da Coreia, a SKC fechou a 161.200 wons, alta de 30,00% ante o pregão anterior, enquanto a HB Technology terminou a 4.020 wons, alta de 29,89%. O sentimento dos investidores foi estimulado por notícias de que a Apple discutiu cooperação com a Samsung Electronics e a Intel para enfrentar a escassez de chips. A Absolics, subsidiária da SKC, construiu uma instalação de produção de substratos de vidro na Geórgia, EUA, e protótipos estariam sendo testados por AMD e Amazon Web Services (AWS). YC Chem, Philoptics, JNTC, Chemtronics e Hanbit Laser também dispararam. A Intel subiu 12,95% durante a noite em Nova York, e a Samsung Electronics avançou 14,41% na Coreia. Substratos de vidro ganham atenção como material-chave para semicondutores de IA, embora a alta dificuldade de processamento siga como variável. Fonte: hankyung.com."
+      },
+      "de": {
+        "title": "Glas-Substrat-Aktien springen wegen Apple-, Samsung- und Intel-Fantasie an",
+        "excerpt": "Am 6. Mai legten koreanische Glas-Substrat-Aktien wie SKC und HB Technology stark zu, nachdem Gespräche zwischen Apple, Samsung Electronics und Intel bekannt wurden.",
+        "body": "Am 6. Mai sind koreanische Aktien aus dem Bereich Glas-Substrate gemeinsam kräftig gestiegen. Nach Angaben der Korea Exchange schloss SKC mit einem Plus von 30,00% bei 161.200 Won, HB Technology gewann 29,89% auf 4.020 Won. Die Anlegerstimmung wurde durch Berichte befeuert, wonach Apple wegen Chip-Lieferengpässen Kooperationsmöglichkeiten mit Samsung Electronics und Intel besprochen hat. Die SKC-Tochter Absolics hat im US-Bundesstaat Georgia eine Produktionsanlage für Glas-Substrate errichtet; Prototypen werden Berichten zufolge von AMD und Amazon Web Services (AWS) getestet. Auch YC Chem, Philoptics, JNTC, Chemtronics und Hanbit Laser legten stark zu. Intel stieg über Nacht in New York um 12,95%, Samsung Electronics gewann in Korea 14,41%. Glas-Substrate gelten als Schlüsselmaterial für fortgeschrittene KI-Halbleiter, doch die schwierige Verarbeitung bleibt ein Faktor. Quelle: hankyung.com."
+      },
+      "fr": {
+        "title": "Les actions de substrats en verre bondissent avec l’espoir Apple-Samsung-Intel",
+        "excerpt": "Le 6 mai, SKC, HB Technology et d’autres valeurs coréennes liées aux substrats en verre ont bondi après des discussions évoquées entre Apple, Samsung Electronics et Intel.",
+        "body": "Le 6 mai, les valeurs coréennes liées aux substrats en verre ont fortement progressé ensemble. Selon la Korea Exchange, SKC a clôturé à 161 200 wons, en hausse de 30,00% sur la séance précédente, tandis que HB Technology a terminé à 4 020 wons, en hausse de 29,89%. Le sentiment des investisseurs a été stimulé par des informations selon lesquelles Apple aurait discuté de coopérations avec Samsung Electronics et Intel afin de répondre aux pénuries de puces. Absolics, filiale de SKC, a construit une usine de production de substrats en verre en Géorgie, aux États-Unis, et ses prototypes seraient testés par AMD et Amazon Web Services (AWS). YC Chem, Philoptics, JNTC, Chemtronics et Hanbit Laser ont aussi bondi. Intel a gagné 12,95% à New York la veille au soir, et Samsung Electronics a progressé de 14,41% en Corée. Les substrats en verre attirent l’attention comme matériau clé pour les semi-conducteurs d’IA avancés, mais leur traitement difficile reste un facteur à surveiller. Source: hankyung.com."
+      },
+      "ar": {
+        "title": "أسهم ركائز الزجاج تقفز مع آمال تعاون آبل وسامسونغ وإنتل",
+        "excerpt": "في 6 مايو، قفزت أسهم كورية مرتبطة بركائز الزجاج مثل SKC وHB Technology بعد أنباء عن مناقشات تعاون بين آبل وسامسونغ إلكترونيكس وإنتل للرقائق المقبلة.",
+        "body": "في 6 مايو، ارتفعت أسهم كورية مرتبطة بموضوع ركائز الزجاج بشكل جماعي. ووفق بورصة كوريا، أغلقت SKC عند 161200 وون بزيادة 30.00% عن الجلسة السابقة، بينما أغلقت HB Technology عند 4020 وون بزيادة 29.89%. وجاء تحسن معنويات المستثمرين بعد تقارير أفادت بأن آبل ناقشت سبل التعاون مع سامسونغ إلكترونيكس وإنتل لمعالجة نقص إمدادات الرقائق. وأنشأت Absolics، التابعة لـSKC، منشأة لإنتاج ركائز الزجاج في ولاية جورجيا الأميركية، ويقال إن AMD وأمازون ويب سيرفيسز (AWS) تختبران نماذجها الأولية. كما قفزت YC Chem وPhiloptics وJNTC وChemtronics وHanbit Laser. وارتفعت إنتل 12.95% في بورصة نيويورك خلال الليل، فيما صعدت سامسونغ إلكترونيكس 14.41% في كوريا. وتحظى ركائز الزجاج باهتمام كمادة رئيسية لتطوير أشباه موصلات الذكاء الاصطناعي، لكن صعوبة معالجتها تبقى عاملا مهما. المصدر: hankyung.com."
+      },
+      "hi": {
+        "title": "ग्लास सब्सट्रेट शेयरों में उछाल, Apple-Samsung-Intel सहयोग उम्मीद से तेजी",
+        "excerpt": "6 मई को SKC और HB Technology सहित कोरियाई ग्लास सब्सट्रेट शेयर Apple, Samsung Electronics और Intel की सहयोग चर्चा और अगली पीढ़ी के चिप्स की उम्मीद से चढ़े।",
+        "body": "6 मई को कोरियाई बाजार में ग्लास सब्सट्रेट थीम वाले शेयरों में सामूहिक तेजी आई। Korea Exchange के अनुसार, SKC पिछले सत्र से 30.00% बढ़कर 161,200 वॉन पर बंद हुआ, जबकि HB Technology 29.89% बढ़कर 4,020 वॉन पर बंद हुआ। निवेश धारणा को उन खबरों से बल मिला कि Apple ने चिप आपूर्ति की कमी से निपटने के लिए Samsung Electronics और Intel के साथ सहयोग विकल्पों पर चर्चा की। SKC की सहायक कंपनी Absolics ने अमेरिका के जॉर्जिया में ग्लास सब्सट्रेट उत्पादन सुविधा बनाई है, और उसके प्रोटोटाइप का परीक्षण AMD तथा Amazon Web Services (AWS) द्वारा किए जाने की बात कही गई। YC Chem, Philoptics, JNTC, Chemtronics और Hanbit Laser में भी तेज उछाल आया। Intel न्यूयॉर्क में रातोंरात 12.95% चढ़ा और Samsung Electronics कोरिया में 14.41% बढ़ा। ग्लास सब्सट्रेट AI सेमीकंडक्टर उन्नयन की प्रमुख सामग्री के रूप में ध्यान खींच रहा है, हालांकि इसकी ऊंची प्रोसेसिंग कठिनाई एक अहम कारक है। स्रोत: hankyung.com."
+      },
+      "id": {
+        "title": "Saham Substrat Kaca Melonjak, Dipicu Harapan Apple-Samsung-Intel",
+        "excerpt": "Pada 6 Mei, saham Korea terkait substrat kaca seperti SKC dan HB Technology melonjak setelah kabar pembicaraan kerja sama Apple, Samsung Electronics, dan Intel.",
+        "body": "Pada 6 Mei, saham bertema substrat kaca di pasar Korea naik bersama-sama. Menurut Korea Exchange, SKC ditutup di 161.200 won, naik 30,00% dari sesi sebelumnya, sementara HB Technology berakhir di 4.020 won, naik 29,89%. Sentimen investor terdorong oleh laporan bahwa Apple membahas opsi kerja sama dengan Samsung Electronics dan Intel untuk merespons kekurangan pasokan chip. Anak usaha SKC, Absolics, telah membangun fasilitas produksi substrat kaca di Georgia, AS, dan prototipenya dilaporkan sedang diuji oleh AMD serta Amazon Web Services (AWS). YC Chem, Philoptics, JNTC, Chemtronics, dan Hanbit Laser juga melonjak. Intel naik 12,95% semalam di New York, sedangkan Samsung Electronics menguat 14,41% di Korea. Substrat kaca menarik perhatian sebagai material kunci untuk pengembangan semikonduktor AI, meski tingkat kesulitan pemrosesan yang tinggi tetap menjadi faktor penting. Sumber: hankyung.com."
+      }
+    }
+  },
+  {
     "id": "43fa19b30a86",
     "slug": "미국-이란-종전-합의-임박더-달리는-반도체-빈난새의-개장전요것만-254812",
     "channelId": "ETF",
@@ -4271,231 +4496,6 @@
         "title": "ETF Korea 3x Leveraged Gerakkan USD/KRW, Otoritas Valas Ikut Mencermati",
         "excerpt": "Yonhap Infomax melaporkan pada 4 Mei 2026 bahwa ayunan tajam saham Korea dan pertumbuhan ETF Korea 3x leveraged yang tercatat di luar negeri makin terkait dengan volatilitas dolar-won.",
         "body": "Pada 4 Mei 2026, kurs dolar-won di pasar valas Seoul sempat turun lebih dari 13 won ke 1.469,90 won. Yonhap Infomax melaporkan bahwa pergerakan saham Korea kini makin jelas memengaruhi nilai tukar, sementara ETF Korea leveraged yang tercatat di luar negeri dinilai memperkuat pola tersebut.\n\nHari itu, KOSPI dan KOSDAQ sama-sama naik sekitar 3%, dan KOSPI sempat menembus 6.800 untuk mencetak rekor tertinggi. Produk utama yang disorot adalah Direxion Daily MSCI South Korea Bull 3X ETF, atau KORU, yang melacak indeks MSCI Korea 25/50 dengan leverage tiga kali. Aset bersihnya melonjak 651% dalam setahun hingga akhir Maret.\n\nOtoritas valas juga mencermati arus dana ETF ini. Dalam risalah Dewan Kebijakan Moneter 10 April, Bank of Korea menyatakan porsi ETF Korea leveraged yang tercatat di luar negeri tampak meningkat dalam arus keluar ke ETF luar negeri, dan rebalancing dapat memicu kenaikan jual asing serta volatilitas saham.\n\nSumber: Yonhap Infomax"
-      }
-    }
-  },
-  {
-    "id": "a9cf555db4f5",
-    "slug": "전세계서-1조원-몰린-코리아etf-토큰-美거래소만-웃는다---매일경제-224343",
-    "channelId": "ETF",
-    "category": "breaking",
-    "publishedAt": "2026-05-06T08:07:32.712Z",
-    "updatedAt": "2026-05-06T08:07:32.712Z",
-    "sourceName": "매일경제",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA1cmlVUFJ0WWpTMEZWWllBZ0VuSFVvcUF3cWVQTzdYQlNoTGFJOXU3WGM0WXNuaFhmSl9VNWJueWE5ckpFOTV3aDFMYkI3VG9jc0E?oc=5",
-    "canonicalUrl": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA1cmlVUFJ0WWpTMEZWWllBZ0VuSFVvcUF3cWVQTzdYQlNoTGFJOXU3WGM0WXNuaFhmSl9VNWJueWE5ckpFOTV3aDFMYkI3VG9jc0E?oc=5",
-    "titleFingerprint": "c135c611ae739ab550d185a30da0403fdc086133",
-    "dedupKeys": [
-      "a9cf555db4f5a899874f84a59e0d0110e9b7b8e7",
-      "c135c611ae739ab550d185a30da0403fdc086133",
-      "2d959f48f9a5a872d24570361e57957b10c21e78"
-    ],
-    "imageUrl": "",
-    "i18n": {
-      "ko": {
-        "title": "코리아ETF 토큰에 전세계 1조원 유입, 수혜는 미국 거래소 집중",
-        "excerpt": "매일경제는 전세계에서 약 1조원이 몰린 ‘코리아ETF 토큰’ 관련 자금 흐름에서 미국 거래소가 주요 수혜자로 부각됐다고 보도했다.",
-        "body": "전세계 투자 자금 약 1조원이 ‘코리아ETF 토큰’으로 몰렸지만, 매일경제 보도에 따르면 이 흐름의 수혜는 미국 거래소에 집중된 것으로 나타났다. 해당 보도는 한국 관련 ETF 토큰에 대한 해외 자금 유입과 거래 인프라의 수익 구조를 핵심 쟁점으로 짚었다.\n\n원문은 ‘전세계서 1조원 몰린 코리아ETF 토큰’이라는 표현을 통해 한국 자산을 기초로 한 ETF형 토큰에 국제 자금이 유입됐다는 점을 강조했다. 동시에 거래가 이뤄지는 무대와 수익이 발생하는 주체가 한국이 아니라 미국 거래소라는 점을 제목에서 부각했다.\n\n이에 따라 코리아ETF 토큰의 관심 확대와 별개로, 실제 거래 수혜가 어디에 귀속되는지가 시장의 주요 관전 포인트로 제시됐다. 보도에서 추가 관계자 코멘트는 제공되지 않았다.\n\n출처: 매일경제"
-      },
-      "en": {
-        "title": "Korea ETF Token Draws 1 Trillion Won Globally as U.S. Exchanges Benefit",
-        "excerpt": "Maeil Business Newspaper reported that about 1 trillion won flowed worldwide into a “Korea ETF token,” while U.S. exchanges emerged as the main beneficiaries.",
-        "body": "About 1 trillion won in global investment funds has flowed into a “Korea ETF token,” but according to Maeil Business Newspaper, the benefit from this activity has been concentrated among U.S. exchanges. The report framed overseas inflows into Korea-linked ETF tokens and the profit structure of trading platforms as the central issue.\n\nThe original headline highlighted the scale of international money entering an ETF-style token tied to Korean assets. At the same time, it stressed that the trading venue and revenue recipient were not in Korea but U.S. exchanges.\n\nAs a result, beyond rising interest in Korea ETF tokens, the key market question is where the actual trading benefits are captured. No additional stakeholder comment was provided in the source summary.\n\nSource: Maeil Business Newspaper"
-      },
-      "ja": {
-        "title": "コリアETFトークンに世界で1兆ウォン流入、恩恵は米取引所に集中",
-        "excerpt": "毎日経済は、世界で約1兆ウォンが集まった「コリアETFトークン」をめぐり、米国取引所が主な受益者として浮上したと報じた。",
-        "body": "世界の投資資金約1兆ウォンが「コリアETFトークン」に流入したが、毎日経済の報道によると、その恩恵は米国の取引所に集中している。報道は、韓国関連ETFトークンへの海外資金流入と、取引インフラの収益構造を主要な論点として取り上げた。\n\n原文は「世界で1兆ウォンが集まったコリアETFトークン」という表現で、韓国資産を基にしたETF型トークンに国際資金が入っている点を強調した。同時に、取引の場と収益の帰属先が韓国ではなく米国取引所である点を見出しで示した。\n\nこのため、コリアETFトークンへの関心拡大とは別に、実際の取引メリットがどこに帰属するのかが市場の注目点として示された。追加の関係者コメントは提供されていない。\n\n出典: 毎日経済"
-      },
-      "zh": {
-        "title": "韩国ETF代币全球吸金1万亿韩元，受益者集中在美国交易所",
-        "excerpt": "《每日经济》报道称，全球约1万亿韩元资金流入“韩国ETF代币”，但美国交易所成为这一资金流中的主要受益方。",
-        "body": "全球约1万亿韩元投资资金流入“韩国ETF代币”，但据《每日经济》报道，这一交易热度的受益方主要集中在美国交易所。报道将韩国相关ETF代币的海外资金流入，以及交易基础设施的收益归属，列为核心议题。\n\n原文以“全球涌入1万亿韩元的韩国ETF代币”强调，基于韩国资产的ETF型代币正在吸引国际资金。同时，标题也突出指出，交易发生的平台和收益获得方并非韩国，而是美国交易所。\n\n因此，在韩国ETF代币关注度上升之外，实际交易收益归属何处成为市场观察重点。来源摘要未提供更多相关人士评论。\n\n来源: 每日经济"
-      },
-      "es": {
-        "title": "Token Korea ETF capta 1 billón de wones globales y favorece a bolsas de EE. UU.",
-        "excerpt": "Maeil Business Newspaper informó que unos 1 billón de wones entraron en el “token Korea ETF”, mientras las bolsas de EE. UU. aparecen como beneficiarias.",
-        "body": "Unos 1 billón de wones en fondos de inversión globales han fluido hacia el “token Korea ETF”, pero según Maeil Business Newspaper, los beneficios de esta actividad se concentran en las bolsas de Estados Unidos. El reporte plantea como eje los flujos extranjeros hacia tokens ETF vinculados a Corea y la estructura de ingresos de las plataformas de negociación.\n\nEl titular original subrayó la escala del dinero internacional que entra en un token tipo ETF basado en activos coreanos. Al mismo tiempo, destacó que el lugar de negociación y el receptor de ingresos no están en Corea, sino en bolsas estadounidenses.\n\nAsí, más allá del mayor interés por los tokens Korea ETF, la cuestión clave del mercado es dónde se capturan los beneficios reales de negociación. El resumen fuente no incluyó comentarios adicionales de partes relacionadas.\n\nFuente: Maeil Business Newspaper"
-      },
-      "pt": {
-        "title": "Token Korea ETF atrai 1 trilhão de wons no mundo e beneficia bolsas dos EUA",
-        "excerpt": "O Maeil Business Newspaper informou que cerca de 1 trilhão de wons entrou no “token Korea ETF”, enquanto bolsas dos EUA surgem como principais beneficiárias.",
-        "body": "Cerca de 1 trilhão de wons em recursos globais de investimento fluiu para o “token Korea ETF”, mas, segundo o Maeil Business Newspaper, os benefícios dessa movimentação ficaram concentrados nas bolsas dos Estados Unidos. A reportagem destacou os fluxos externos para tokens ETF ligados à Coreia e a estrutura de receita das plataformas de negociação.\n\nA manchete original enfatizou o volume de dinheiro internacional entrando em um token do tipo ETF baseado em ativos coreanos. Ao mesmo tempo, apontou que o ambiente de negociação e o destinatário das receitas não estão na Coreia, mas em bolsas norte-americanas.\n\nCom isso, além do aumento do interesse pelo Korea ETF token, a principal questão para o mercado é onde os ganhos efetivos de negociação são capturados. O resumo da fonte não trouxe comentários adicionais de envolvidos.\n\nFonte: Maeil Business Newspaper"
-      },
-      "de": {
-        "title": "Korea-ETF-Token zieht weltweit 1 Billion Won an, US-Börsen profitieren",
-        "excerpt": "Maeil Business Newspaper berichtete, dass rund 1 Billion Won in einen „Korea-ETF-Token“ geflossen ist, während US-Börsen als Hauptprofiteure erscheinen.",
-        "body": "Weltweit sind rund 1 Billion Won an Investmentgeldern in einen „Korea-ETF-Token“ geflossen. Laut Maeil Business Newspaper konzentriert sich der Nutzen dieser Entwicklung jedoch auf US-Börsen. Der Bericht stellte ausländische Zuflüsse in Korea-bezogene ETF-Token und die Ertragsstruktur der Handelsplattformen in den Mittelpunkt.\n\nDie ursprüngliche Überschrift betonte das Ausmaß internationaler Gelder, die in einen ETF-ähnlichen Token auf koreanische Vermögenswerte fließen. Zugleich hob sie hervor, dass Handelsplatz und Einnahmenempfänger nicht in Korea, sondern bei US-Börsen liegen.\n\nDamit rückt neben dem wachsenden Interesse an Korea-ETF-Token die Frage in den Fokus, wo die tatsächlichen Handelsvorteile anfallen. Zusätzliche Kommentare von Beteiligten wurden in der Quellenzusammenfassung nicht genannt.\n\nQuelle: Maeil Business Newspaper"
-      },
-      "fr": {
-        "title": "Le token Korea ETF attire 1 000 milliards de wons, les Bourses américaines gagnent",
-        "excerpt": "Maeil Business Newspaper rapporte qu’environ 1 000 milliards de wons ont afflué vers le « token Korea ETF », avec les Bourses américaines en principales bénéficiaires.",
-        "body": "Environ 1 000 milliards de wons de capitaux d’investissement mondiaux ont afflué vers le « token Korea ETF », mais selon Maeil Business Newspaper, les bénéfices de ce mouvement se concentrent sur les Bourses américaines. L’article met au centre les flux étrangers vers des tokens ETF liés à la Corée et la structure de revenus des plateformes de négociation.\n\nLe titre original souligne l’ampleur des capitaux internationaux entrant dans un token de type ETF fondé sur des actifs coréens. Il insiste aussi sur le fait que le lieu de négociation et le bénéficiaire des revenus ne sont pas coréens, mais américains.\n\nAinsi, au-delà de l’intérêt croissant pour les tokens Korea ETF, la question clé du marché est de savoir où se captent les bénéfices réels des échanges. Aucun commentaire supplémentaire de parties concernées n’a été fourni dans le résumé source.\n\nSource: Maeil Business Newspaper"
-      },
-      "ar": {
-        "title": "رمز Korea ETF يجذب تريليون وون عالميا والمكاسب تتركز في بورصات أميركا",
-        "excerpt": "ذكرت صحيفة Maeil Business Newspaper أن نحو تريليون وون تدفق عالميا إلى “رمز Korea ETF”، بينما برزت البورصات الأميركية كأبرز المستفيدين.",
-        "body": "تدفقت أموال استثمارية عالمية بنحو تريليون وون إلى “رمز Korea ETF”، لكن تقرير Maeil Business Newspaper أشار إلى أن الاستفادة من هذا النشاط تتركز في البورصات الأميركية. وركز التقرير على تدفقات الأموال الأجنبية إلى رموز ETF المرتبطة بكوريا، وعلى هيكل الإيرادات في منصات التداول.\n\nالعنوان الأصلي أبرز حجم الأموال الدولية الداخلة إلى رمز من نوع ETF يستند إلى أصول كورية. وفي الوقت نفسه شدد على أن ساحة التداول والجهة التي تحصل على الإيرادات ليستا في كوريا، بل في البورصات الأميركية.\n\nلذلك، وبعيدا عن تزايد الاهتمام برموز Korea ETF، تبرز مسألة الجهة التي تستحوذ فعليا على فوائد التداول كنقطة مراقبة رئيسية في السوق. ولم يقدم ملخص المصدر تعليقات إضافية من أطراف معنية.\n\nالمصدر: Maeil Business Newspaper"
-      },
-      "hi": {
-        "title": "Korea ETF टोकन में वैश्विक 1 ट्रिलियन वॉन आए, लाभ अमेरिकी एक्सचेंजों को",
-        "excerpt": "Maeil Business Newspaper ने बताया कि “Korea ETF टोकन” में दुनिया भर से करीब 1 ट्रिलियन वॉन आए, जबकि अमेरिकी एक्सचेंज प्रमुख लाभार्थी बने।",
-        "body": "दुनिया भर से करीब 1 ट्रिलियन वॉन की निवेश राशि “Korea ETF टोकन” में आई है, लेकिन Maeil Business Newspaper के अनुसार इस गतिविधि का लाभ मुख्य रूप से अमेरिकी एक्सचेंजों पर केंद्रित रहा। रिपोर्ट ने कोरिया से जुड़े ETF टोकन में विदेशी पूंजी प्रवाह और ट्रेडिंग प्लेटफॉर्म की राजस्व संरचना को मुख्य मुद्दा बताया।\n\nमूल शीर्षक ने कोरियाई परिसंपत्तियों पर आधारित ETF जैसे टोकन में अंतरराष्ट्रीय धन के बड़े प्रवाह को रेखांकित किया। साथ ही यह भी बताया कि ट्रेडिंग का मंच और राजस्व पाने वाली इकाई कोरिया में नहीं, बल्कि अमेरिकी एक्सचेंजों में है।\n\nइसलिए Korea ETF टोकन में बढ़ती रुचि से अलग, बाजार के लिए अहम सवाल यह है कि वास्तविक ट्रेडिंग लाभ किसके पास जाता है। स्रोत सारांश में संबंधित पक्षों की अतिरिक्त टिप्पणी नहीं दी गई।\n\nस्रोत: Maeil Business Newspaper"
-      },
-      "id": {
-        "title": "Token Korea ETF Diminati Rp Setara 1 Triliun Won, Bursa AS Jadi Penerima Manfaat",
-        "excerpt": "Maeil Business Newspaper melaporkan sekitar 1 triliun won dana global masuk ke “token Korea ETF”, sementara bursa AS muncul sebagai penerima manfaat utama.",
-        "body": "Sekitar 1 triliun won dana investasi global mengalir ke “token Korea ETF”, tetapi menurut Maeil Business Newspaper, manfaat dari aktivitas ini terkonsentrasi pada bursa Amerika Serikat. Laporan itu menyoroti arus dana asing ke token ETF terkait Korea dan struktur pendapatan platform perdagangan sebagai isu utama.\n\nJudul asli menekankan besarnya dana internasional yang masuk ke token bergaya ETF berbasis aset Korea. Pada saat yang sama, judul tersebut menegaskan bahwa tempat perdagangan dan penerima pendapatan bukan berada di Korea, melainkan di bursa AS.\n\nKarena itu, selain meningkatnya minat terhadap token Korea ETF, pertanyaan utama pasar adalah ke mana manfaat perdagangan yang sebenarnya mengalir. Ringkasan sumber tidak memuat komentar tambahan dari pihak terkait.\n\nSumber: Maeil Business Newspaper"
-      }
-    }
-  },
-  {
-    "id": "d86d121d9153",
-    "slug": "한투운용-행동주의-운용사와-손잡고-주주환원-etf-수익률-1위---kb-think-545058",
-    "channelId": "ETF",
-    "category": "breaking",
-    "publishedAt": "2026-05-06T08:05:21.043Z",
-    "updatedAt": "2026-05-06T08:05:21.043Z",
-    "sourceName": "KB Think",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMickFVX3lxTE1GdGtid180MUt2Ml9VYzRsLXVRVlQtb1drV2xJaEhucFdpby12MVpSWDVrcmwzcFhPdl94MUNhdWJKT2VoMW44N3c0THVObnNMQ3JmdlJhMmw0SjQwNXVWWm00WTdwWnpCTzFCTmpvSjRZZw?oc=5",
-    "canonicalUrl": "https://news.google.com/rss/articles/CBMickFVX3lxTE1GdGtid180MUt2Ml9VYzRsLXVRVlQtb1drV2xJaEhucFdpby12MVpSWDVrcmwzcFhPdl94MUNhdWJKT2VoMW44N3c0THVObnNMQ3JmdlJhMmw0SjQwNXVWWm00WTdwWnpCTzFCTmpvSjRZZw?oc=5",
-    "titleFingerprint": "a9af1b39cf610134962ac175b9e883ea18c542a4",
-    "dedupKeys": [
-      "d86d121d9153adc171c6c70219d71183d12c22d4",
-      "a9af1b39cf610134962ac175b9e883ea18c542a4",
-      "e062a2d10d208911d01d4cb2ae5ed92a431ae381"
-    ],
-    "imageUrl": "",
-    "i18n": {
-      "ko": {
-        "title": "한투운용 주주환원 ETF, 행동주의 운용사 협업으로 수익률 1위",
-        "excerpt": "KB Think에 따르면 한투운용은 행동주의 운용사와 협업한 주주환원 ETF로 수익률 1위에 올랐다. 주주환원 투자 테마의 성과가 부각됐다.",
-        "body": "KB Think는 한투운용이 행동주의 운용사와 손잡고 선보인 주주환원 ETF가 수익률 1위를 기록했다고 전했다. 해당 소식은 주주환원 전략과 행동주의 운용 역량을 결합한 ETF 성과에 초점을 맞췄다.\n\n보도에서 확인되는 핵심 수치는 해당 ETF의 수익률 순위가 1위라는 점이다. 상품명, 비교 기간, 세부 수익률 수치 등은 제공된 원문 요약에 포함되지 않았다.\n\n이번 보도는 국내 ETF 시장에서 주주환원과 행동주의 투자 테마가 성과 지표로 주목받고 있음을 보여준다. 관계자 발언은 원문 요약에 별도로 제시되지 않았다.\n출처: KB Think"
-      },
-      "en": {
-        "title": "KIM Shareholder Return ETF Ranks First in Returns With Activist Partner",
-        "excerpt": "According to KB Think, Korea Investment Management’s shareholder return ETF, built with an activist asset manager, ranked first in returns, spotlighting the strategy’s performance.",
-        "body": "KB Think reported that Korea Investment Management’s shareholder return ETF, launched in partnership with an activist asset manager, ranked first in returns. The news focuses on the ETF’s performance from combining a shareholder return strategy with activist management expertise.\n\nThe key figure confirmed in the report is the ETF’s No. 1 ranking by returns. The provided source summary did not include the product name, comparison period, or detailed return percentage.\n\nThe report shows that shareholder return and activist investment themes are drawing attention in Korea’s ETF market through performance rankings. No executive or official comment was included in the provided summary.\nSource: KB Think"
-      },
-      "ja": {
-        "title": "韓国投信運用の株主還元ETF、物言う運用会社との協業で収益率1位",
-        "excerpt": "KB Thinkによると、韓国投信運用は物言う運用会社と組んだ株主還元ETFで収益率1位となった。株主還元テーマの成果が注目された。",
-        "body": "KB Thinkは、韓国投信運用が物言う運用会社と連携して展開した株主還元ETFが収益率1位を記録したと伝えた。今回のニュースは、株主還元戦略とアクティビスト運用の専門性を組み合わせたETFの成果に焦点を当てている。\n\n報道で確認できる主な数値は、同ETFの収益率順位が1位だったという点だ。商品名、比較期間、具体的な収益率などは、提供された原文要約には含まれていない。\n\n今回の報道は、韓国ETF市場で株主還元とアクティビスト投資のテーマが成果指標として注目されていることを示す。関係者コメントは原文要約に別途示されていない。\n出典: KB Think"
-      },
-      "zh": {
-        "title": "韩国投信运用股东回报ETF携手激进型资管，收益率排名第一",
-        "excerpt": "据KB Think报道，韩国投信运用与激进型资管公司合作的股东回报ETF收益率排名第一，凸显股东回报投资主题的表现。",
-        "body": "KB Think报道称，韩国投信运用与一家激进型资产管理公司合作推出的股东回报ETF收益率排名第一。该消息聚焦于把股东回报策略与激进型管理能力结合后的ETF表现。\n\n报道中可确认的核心数据是，该ETF的收益率排名为第一。所提供的原文摘要未包含产品名称、比较期间或具体收益率数字。\n\n这则报道显示，在韩国ETF市场中，股东回报和激进型投资主题正因业绩排名而受到关注。原文摘要中未另行列出相关人士评论。\n来源: KB Think"
-      },
-      "es": {
-        "title": "ETF de retorno al accionista de KIM lidera rentabilidad con gestora activista",
-        "excerpt": "Según KB Think, el ETF de retorno al accionista de Korea Investment Management, creado con una gestora activista, ocupó el primer lugar en rentabilidad.",
-        "body": "KB Think informó que el ETF de retorno al accionista de Korea Investment Management, desarrollado junto con una gestora activista, registró el primer puesto en rentabilidad. La noticia se centra en el desempeño del ETF al combinar una estrategia de retorno al accionista con capacidades de gestión activista.\n\nEl dato clave confirmado en el reporte es que el ETF ocupó el puesto número uno por rentabilidad. El resumen original proporcionado no incluye el nombre del producto, el periodo de comparación ni el porcentaje detallado de retorno.\n\nEl reporte muestra que los temas de retorno al accionista e inversión activista están ganando atención en el mercado coreano de ETF mediante indicadores de desempeño. No se incluyeron comentarios de directivos o fuentes en el resumen original.\nFuente: KB Think"
-      },
-      "pt": {
-        "title": "ETF de retorno ao acionista da KIM lidera rentabilidade com gestora ativista",
-        "excerpt": "Segundo o KB Think, o ETF de retorno ao acionista da Korea Investment Management, feito com uma gestora ativista, ficou em primeiro lugar em rentabilidade.",
-        "body": "O KB Think informou que o ETF de retorno ao acionista da Korea Investment Management, criado em parceria com uma gestora ativista, registrou o primeiro lugar em rentabilidade. A notícia destaca o desempenho do ETF ao combinar uma estratégia de retorno ao acionista com capacidades de gestão ativista.\n\nO principal dado confirmado na reportagem é que o ETF ficou em primeiro lugar no ranking de rentabilidade. O resumo original fornecido não inclui o nome do produto, o período de comparação nem o percentual detalhado de retorno.\n\nA reportagem mostra que os temas de retorno ao acionista e investimento ativista estão chamando atenção no mercado coreano de ETFs por meio de indicadores de desempenho. Não houve comentário de representantes no resumo original.\nFonte: KB Think"
-      },
-      "de": {
-        "title": "KIM-Aktionärsrendite-ETF führt Renditeranking mit aktivistischem Partner an",
-        "excerpt": "Laut KB Think belegte der Aktionärsrendite-ETF von Korea Investment Management, entwickelt mit einem aktivistischen Asset Manager, Platz eins bei der Rendite.",
-        "body": "KB Think berichtete, dass der Aktionärsrendite-ETF von Korea Investment Management, der in Zusammenarbeit mit einem aktivistischen Asset Manager aufgelegt wurde, den ersten Platz bei der Rendite erreichte. Die Meldung konzentriert sich auf die ETF-Performance durch die Verbindung einer Aktionärsrendite-Strategie mit aktivistischer Managementkompetenz.\n\nDie zentrale bestätigte Kennzahl ist der erste Platz des ETF im Renditeranking. Der bereitgestellte Originalüberblick enthält keinen Produktnamen, keinen Vergleichszeitraum und keine detaillierte Renditezahl.\n\nDer Bericht zeigt, dass Aktionärsrendite und aktivistische Anlagethemen im koreanischen ETF-Markt über Performancekennzahlen Aufmerksamkeit erhalten. Eine Stellungnahme von Verantwortlichen wurde im Originalüberblick nicht genannt.\nQuelle: KB Think"
-      },
-      "fr": {
-        "title": "L’ETF de rendement actionnarial de KIM premier avec un gérant activiste",
-        "excerpt": "Selon KB Think, l’ETF de rendement actionnarial de Korea Investment Management, conçu avec un gérant activiste, s’est classé premier en performance.",
-        "body": "KB Think a rapporté que l’ETF de rendement actionnarial de Korea Investment Management, lancé en partenariat avec un gérant activiste, s’est classé premier en performance. L’information met l’accent sur les résultats de l’ETF issus de l’association d’une stratégie de rendement actionnarial et d’une expertise de gestion activiste.\n\nLe chiffre clé confirmé par le reportage est la première place de cet ETF au classement des performances. Le résumé original fourni ne précise ni le nom du produit, ni la période de comparaison, ni le pourcentage de performance.\n\nCe reportage montre que les thèmes du rendement actionnarial et de l’investissement activiste attirent l’attention sur le marché coréen des ETF à travers les indicateurs de performance. Aucun commentaire de responsable n’est mentionné dans le résumé original.\nSource: KB Think"
-      },
-      "ar": {
-        "title": "صندوق KIM لعوائد المساهمين يتصدر الأداء مع مدير أصول ناشط",
-        "excerpt": "بحسب KB Think، تصدر صندوق Korea Investment Management المتداول لعوائد المساهمين، المطور مع مدير أصول ناشط، ترتيب العوائد، مسلطا الضوء على أداء الاستراتيجية.",
-        "body": "أفادت KB Think بأن صندوق Korea Investment Management المتداول لعوائد المساهمين، الذي طُرح بالتعاون مع مدير أصول ناشط، سجل المركز الأول من حيث العائد. وتركز الخبر على أداء الصندوق الناتج عن الجمع بين استراتيجية عوائد المساهمين وخبرة الإدارة الناشطة.\n\nالرقم الأساسي المؤكد في التقرير هو احتلال الصندوق المرتبة الأولى في ترتيب العوائد. ولم يتضمن الملخص الأصلي المقدم اسم المنتج أو فترة المقارنة أو نسبة العائد التفصيلية.\n\nيوضح التقرير أن موضوعي عوائد المساهمين والاستثمار الناشط يحظيان باهتمام في سوق صناديق ETF الكورية من خلال مؤشرات الأداء. ولم يرد في الملخص الأصلي تعليق منفصل لمسؤولين.\nالمصدر: KB Think"
-      },
-      "hi": {
-        "title": "KIM शेयरधारक रिटर्न ETF एक्टिविस्ट मैनेजर साझेदारी से रिटर्न में पहले स्थान पर",
-        "excerpt": "KB Think के अनुसार, Korea Investment Management का शेयरधारक रिटर्न ETF, जिसे एक्टिविस्ट एसेट मैनेजर के साथ बनाया गया, रिटर्न में पहले स्थान पर रहा।",
-        "body": "KB Think ने बताया कि Korea Investment Management का शेयरधारक रिटर्न ETF, जिसे एक एक्टिविस्ट एसेट मैनेजर के साथ साझेदारी में पेश किया गया, रिटर्न के मामले में पहले स्थान पर रहा। यह खबर शेयरधारक रिटर्न रणनीति और एक्टिविस्ट प्रबंधन क्षमता के संयोजन से बने ETF के प्रदर्शन पर केंद्रित है।\n\nरिपोर्ट में पुष्टि किया गया मुख्य आंकड़ा यह है कि ETF की रिटर्न रैंकिंग नंबर एक रही। उपलब्ध मूल सारांश में उत्पाद का नाम, तुलना अवधि या विस्तृत रिटर्न प्रतिशत शामिल नहीं है।\n\nयह रिपोर्ट दिखाती है कि कोरियाई ETF बाजार में शेयरधारक रिटर्न और एक्टिविस्ट निवेश थीम प्रदर्शन संकेतकों के जरिए ध्यान खींच रही हैं। मूल सारांश में किसी संबंधित अधिकारी की टिप्पणी अलग से नहीं दी गई।\nस्रोत: KB Think"
-      },
-      "id": {
-        "title": "ETF Imbal Hasil Pemegang Saham KIM Peringkat Pertama Berkat Mitra Aktivis",
-        "excerpt": "Menurut KB Think, ETF imbal hasil pemegang saham Korea Investment Management, yang digarap bersama manajer aset aktivis, menempati peringkat pertama imbal hasil.",
-        "body": "KB Think melaporkan bahwa ETF imbal hasil pemegang saham Korea Investment Management, yang diluncurkan melalui kerja sama dengan manajer aset aktivis, mencatat peringkat pertama dalam imbal hasil. Berita ini berfokus pada kinerja ETF yang menggabungkan strategi imbal hasil pemegang saham dengan keahlian pengelolaan aktivis.\n\nAngka utama yang terkonfirmasi dalam laporan adalah posisi ETF tersebut sebagai peringkat pertama berdasarkan imbal hasil. Ringkasan sumber yang diberikan tidak memuat nama produk, periode perbandingan, atau persentase imbal hasil terperinci.\n\nLaporan ini menunjukkan bahwa tema imbal hasil pemegang saham dan investasi aktivis mendapat perhatian di pasar ETF Korea melalui indikator kinerja. Tidak ada komentar pihak terkait yang dicantumkan dalam ringkasan asli.\nSumber: KB Think"
-      }
-    }
-  },
-  {
-    "id": "6b15e48d56c1",
-    "slug": "아들-10년-후엔-나한테-절-할거야어린이날-선물로-각광받는-etf는---매일경제-마켓-702152",
-    "channelId": "ETF",
-    "category": "breaking",
-    "publishedAt": "2026-05-06T08:04:21.445Z",
-    "updatedAt": "2026-05-06T08:04:21.445Z",
-    "sourceName": "매일경제 마켓",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBmODZtMXczdFhUNlVrWHU5em1NSjFsbHNuU0NrZkgwQ0pRb1RBSDRYb1F6MjlQcnYtSTVGdnBMcjVWdDNyT0JMbzM5LVZLNkpRU0E?oc=5",
-    "canonicalUrl": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBmODZtMXczdFhUNlVrWHU5em1NSjFsbHNuU0NrZkgwQ0pRb1RBSDRYb1F6MjlQcnYtSTVGdnBMcjVWdDNyT0JMbzM5LVZLNkpRU0E?oc=5",
-    "titleFingerprint": "9dc6ea58f8e482e901de96bea82204399ba39ccd",
-    "dedupKeys": [
-      "6b15e48d56c1ac0e3865f5841fb5525c96610a5c",
-      "9dc6ea58f8e482e901de96bea82204399ba39ccd",
-      "adfefd833a7beb4646528d131c2b1df7f7af4773"
-    ],
-    "imageUrl": "",
-    "i18n": {
-      "ko": {
-        "title": "어린이날 선물 ETF 주목…10년 뒤 자녀 자산 형성 기대감 커져",
-        "excerpt": "매일경제 마켓은 어린이날을 맞아 자녀에게 장기 투자 선물로 ETF가 주목받고 있다고 전했다. 10년 뒤 자산 형성을 기대하는 부모들의 관심이 반영됐다.",
-        "body": "어린이날을 맞아 자녀에게 줄 선물로 ETF가 주목받고 있다고 매일경제 마켓이 보도했다. 기사 제목은 “아들, 10년 후엔 나한테 절 할거야”라는 표현으로 장기 투자 선물에 대한 부모들의 관심을 전했다.\n\nETF는 어린이날 선물이라는 소비성 지출 대신, 자녀의 미래 자산 형성을 염두에 둔 선택지로 소개됐다. 원문은 특정 상품명이나 수익률보다 ‘10년 후’를 바라보는 장기 투자 관점이 부각되고 있음을 전했다.\n\n이번 보도는 어린이날 선물 문화가 단기 만족에서 장기 금융교육과 자산 관리로 확장되고 있음을 보여준다. 다만 투자 상품인 만큼 선택 전 구조와 위험을 확인할 필요가 있다.\n\n출처: 매일경제 마켓"
-      },
-      "en": {
-        "title": "Children’s Day ETF Gifts Draw Attention as Parents Eye Long-Term Assets",
-        "excerpt": "Maeil Business Market reported that ETFs are gaining attention as Children’s Day gifts for children, reflecting parents’ interest in long-term investing and future asset building.",
-        "body": "ETFs are drawing attention as Children’s Day gifts for children, Maeil Business Market reported. The article used the line, “Son, in 10 years you’ll bow to me,” to capture parents’ interest in long-term investment gifts.\n\nRather than a short-lived holiday purchase, ETFs were presented as an option focused on helping children build future assets. The original report emphasized a long-term view looking 10 years ahead, rather than naming specific products or returns.\n\nThe report suggests that Children’s Day gift culture is expanding from immediate satisfaction to financial education and asset management. As ETFs are investment products, investors should still review their structure and risks before choosing.\n\nSource: Maeil Business Market"
-      },
-      "ja": {
-        "title": "こどもの日ギフトにETF注目、10年後の資産形成に期待",
-        "excerpt": "毎日経済マーケットは、こどもの日を機に子どもへの長期投資ギフトとしてETFが注目されていると報じた。将来の資産形成を見据える親の関心が反映された。",
-        "body": "こどもの日を迎え、子どもに贈るギフトとしてETFが注目されていると、毎日経済マーケットが報じた。記事は「息子よ、10年後には私にお辞儀するはずだ」という表現で、長期投資ギフトへの親の関心を伝えた。\n\nETFは、こどもの日の消費型プレゼントに代わり、子どもの将来の資産形成を意識した選択肢として紹介された。原文は特定の商品名や利回りよりも、「10年後」を見据える長期投資の視点が強まっている点を示した。\n\n今回の報道は、こどもの日の贈り物文化が短期的な満足から金融教育と資産管理へ広がっていることを示している。ただし投資商品である以上、選択前に仕組みとリスクを確認する必要がある。\n\n出典: 毎日経済マーケット"
-      },
-      "zh": {
-        "title": "儿童节礼物ETF受关注，父母看重10年后资产积累",
-        "excerpt": "每日经济市场报道称，儿童节临近，ETF作为送给孩子的长期投资礼物受到关注，反映出父母对未来资产形成和金融教育的兴趣。",
-        "body": "每日经济市场报道称，儿童节到来之际，ETF正作为送给孩子的礼物受到关注。报道标题以“儿子，10年后你会向我行礼的”这一说法，呈现父母对长期投资礼物的兴趣。\n\nETF被介绍为一种不同于儿童节消费型礼物的选择，重点在于为孩子未来资产形成做准备。原文并未突出具体产品名称或收益率，而是强调面向“10年后”的长期投资视角。\n\n这篇报道显示，儿童节礼物文化正从短期满足扩展到金融教育和资产管理。不过，ETF属于投资产品，选择前仍需确认其结构和风险。\n\n来源: 每日经济市场"
-      },
-      "es": {
-        "title": "ETF como regalo del Día del Niño gana atención por inversión a 10 años",
-        "excerpt": "Maeil Business Market informó que los ETF están atrayendo interés como regalos del Día del Niño, reflejando el foco de los padres en inversión a largo plazo y formación de patrimonio.",
-        "body": "Los ETF están ganando atención como regalos para el Día del Niño, informó Maeil Business Market. El artículo usó la frase “Hijo, dentro de 10 años me harás una reverencia” para reflejar el interés de los padres en regalos de inversión a largo plazo.\n\nEn lugar de un regalo de consumo inmediato, los ETF fueron presentados como una opción orientada a la formación futura de patrimonio para los hijos. El texto original destacó la perspectiva de inversión a 10 años, sin centrarse en nombres de productos concretos ni rentabilidades.\n\nEl reporte muestra que la cultura de regalos del Día del Niño se está ampliando desde la satisfacción de corto plazo hacia la educación financiera y la gestión de activos. Al ser productos de inversión, conviene revisar su estructura y riesgos antes de elegir.\n\nFuente: Maeil Business Market"
-      },
-      "pt": {
-        "title": "ETF como presente do Dia das Crianças chama atenção por visão de 10 anos",
-        "excerpt": "O Maeil Business Market informou que ETFs estão ganhando destaque como presentes do Dia das Crianças, refletindo o interesse dos pais em investimento de longo prazo para os filhos.",
-        "body": "ETFs estão chamando atenção como presentes para o Dia das Crianças, informou o Maeil Business Market. A reportagem usou a frase “Filho, daqui a 10 anos você vai me reverenciar” para mostrar o interesse dos pais por presentes ligados a investimento de longo prazo.\n\nEm vez de um presente de consumo imediato, os ETFs foram apresentados como uma opção voltada à formação de patrimônio futuro dos filhos. O texto original enfatizou a visão de longo prazo, olhando para “10 anos depois”, sem destacar nomes específicos de produtos ou retornos.\n\nA reportagem indica que a cultura de presentes do Dia das Crianças está se ampliando da satisfação imediata para educação financeira e gestão de ativos. Como ETFs são produtos de investimento, é necessário verificar estrutura e riscos antes da escolha.\n\nFonte: Maeil Business Market"
-      },
-      "de": {
-        "title": "ETF als Kindertagsgeschenk rücken wegen 10-Jahres-Vermögensaufbau in den Fokus",
-        "excerpt": "Maeil Business Market berichtete, dass ETFs als Geschenke zum Kindertag Aufmerksamkeit gewinnen, weil Eltern stärker auf langfristige Geldanlage und Vermögensaufbau setzen.",
-        "body": "ETFs rücken als Geschenke zum Kindertag für Kinder in den Fokus, berichtete Maeil Business Market. Der Artikel griff die Formulierung auf: „Sohn, in 10 Jahren wirst du dich vor mir verbeugen“, um das Interesse von Eltern an langfristigen Anlagegeschenken zu beschreiben.\n\nETF-Geschenke wurden als Alternative zu kurzlebigen Konsumgeschenken vorgestellt, mit Blick auf den künftigen Vermögensaufbau der Kinder. Der Originalbericht betonte weniger konkrete Produktnamen oder Renditen, sondern vor allem die langfristige Perspektive auf die nächsten 10 Jahre.\n\nDer Bericht zeigt, dass sich die Geschenkekultur zum Kindertag von unmittelbarer Zufriedenheit hin zu Finanzbildung und Vermögensverwaltung erweitert. Da ETFs Anlageprodukte sind, sollten Struktur und Risiken vor einer Auswahl geprüft werden.\n\nQuelle: Maeil Business Market"
-      },
-      "fr": {
-        "title": "Les ETF s’imposent comme cadeaux de la Journée des enfants pour viser 10 ans",
-        "excerpt": "Maeil Business Market rapporte que les ETF attirent l’attention comme cadeaux de la Journée des enfants, signe de l’intérêt des parents pour l’investissement long terme.",
-        "body": "Les ETF attirent l’attention comme cadeaux à offrir aux enfants pour la Journée des enfants, selon Maeil Business Market. L’article a repris la formule “Mon fils, dans 10 ans tu me remercieras” pour illustrer l’intérêt des parents pour les cadeaux d’investissement à long terme.\n\nLes ETF sont présentés comme une option tournée vers la constitution d’un patrimoine futur, plutôt qu’un cadeau de consommation immédiate. Le texte original met en avant une vision à “10 ans”, sans se concentrer sur des noms de produits précis ni sur des rendements.\n\nCe reportage montre que la culture des cadeaux de la Journée des enfants s’élargit, de la satisfaction de court terme vers l’éducation financière et la gestion d’actifs. Les ETF restant des produits d’investissement, leur structure et leurs risques doivent être vérifiés avant tout choix.\n\nSource: Maeil Business Market"
-      },
-      "ar": {
-        "title": "صناديق ETF كهدايا ليوم الطفل تجذب الاهتمام مع رهان الآباء على 10 سنوات",
-        "excerpt": "ذكرت ماييل بيزنس ماركت أن صناديق ETF تحظى باهتمام كهدايا ليوم الطفل، في انعكاس لرغبة الآباء في دعم الاستثمار طويل الأجل وبناء أصول الأبناء.",
-        "body": "ذكرت ماييل بيزنس ماركت أن صناديق ETF تحظى باهتمام كهدايا تقدم للأطفال في يوم الطفل. واستخدم التقرير عبارة تفيد بأن الابن سيشكر والده بعد 10 سنوات، للتعبير عن اهتمام الآباء بهدايا الاستثمار طويل الأجل.\n\nوقدمت الصناديق المتداولة كخيار مختلف عن الهدايا الاستهلاكية القصيرة الأثر، مع التركيز على تكوين أصول مستقبلية للأطفال. ولم يبرز النص الأصلي أسماء منتجات محددة أو عوائد، بل شدد على منظور الاستثمار طويل الأجل نحو “ما بعد 10 سنوات”.\n\nيوضح التقرير أن ثقافة هدايا يوم الطفل تتسع من الإشباع الفوري إلى التعليم المالي وإدارة الأصول. وبما أن صناديق ETF منتجات استثمارية، ينبغي التحقق من هيكلها ومخاطرها قبل الاختيار.\n\nالمصدر: ماييل بيزنس ماركت"
-      },
-      "hi": {
-        "title": "बाल दिवस उपहार में ETF पर ध्यान, 10 साल बाद संपत्ति बनाने की उम्मीद",
-        "excerpt": "मैल बिजनेस मार्केट ने बताया कि बाल दिवस पर बच्चों को दी जाने वाली दीर्घकालिक निवेश भेंट के रूप में ETF पर ध्यान बढ़ रहा है, जो माता-पिता की भविष्य की संपत्ति निर्माण रुचि दिखाता है।",
-        "body": "मैल बिजनेस मार्केट के अनुसार, बाल दिवस पर बच्चों को दिए जाने वाले उपहार के रूप में ETF ध्यान आकर्षित कर रहे हैं। रिपोर्ट ने “बेटा, 10 साल बाद तुम मुझे धन्यवाद दोगे” जैसे भाव के जरिए दीर्घकालिक निवेश उपहारों में माता-पिता की रुचि को दिखाया।\n\nETF को ऐसे विकल्प के रूप में पेश किया गया जो बाल दिवस के तात्कालिक उपभोग वाले उपहारों के बजाय बच्चों की भविष्य की संपत्ति बनाने पर केंद्रित है। मूल रिपोर्ट ने किसी खास उत्पाद नाम या रिटर्न से अधिक “10 साल बाद” को देखने वाली लंबी अवधि की निवेश सोच पर जोर दिया।\n\nयह रिपोर्ट दिखाती है कि बाल दिवस की उपहार संस्कृति अल्पकालिक संतुष्टि से आगे बढ़कर वित्तीय शिक्षा और संपत्ति प्रबंधन तक फैल रही है। ETF निवेश उत्पाद हैं, इसलिए चुनाव से पहले उनकी संरचना और जोखिमों की जांच जरूरी है।\n\nस्रोत: मैल बिजनेस मार्केट"
-      },
-      "id": {
-        "title": "ETF Jadi Hadiah Hari Anak, Orang Tua Lirik Aset Anak untuk 10 Tahun",
-        "excerpt": "Maeil Business Market melaporkan ETF mulai dilirik sebagai hadiah Hari Anak bagi anak-anak, mencerminkan minat orang tua pada investasi jangka panjang dan pembentukan aset.",
-        "body": "ETF mendapat perhatian sebagai hadiah untuk anak pada Hari Anak, lapor Maeil Business Market. Artikel itu memakai ungkapan “Nak, 10 tahun lagi kamu akan berterima kasih kepadaku” untuk menggambarkan minat orang tua pada hadiah investasi jangka panjang.\n\nETF diperkenalkan sebagai pilihan yang berbeda dari hadiah konsumtif Hari Anak, dengan fokus pada pembentukan aset masa depan anak. Laporan asli tidak menonjolkan nama produk atau imbal hasil tertentu, melainkan sudut pandang investasi jangka panjang menuju “10 tahun kemudian”.\n\nPemberitaan ini menunjukkan budaya hadiah Hari Anak meluas dari kepuasan jangka pendek ke edukasi finansial dan pengelolaan aset. Karena ETF adalah produk investasi, struktur dan risikonya tetap perlu diperiksa sebelum dipilih.\n\nSumber: Maeil Business Market"
       }
     }
   }
