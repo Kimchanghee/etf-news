@@ -1,5 +1,230 @@
 [
   {
+    "id": "25b9f1a86f2d",
+    "slug": "단독-상폐위기-몰리자-막판-주가-관리거래소-시총-규정-회피성-거래-포착-276500",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-05-07T14:47:46.167Z",
+    "updatedAt": "2026-05-07T14:47:46.167Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/stock/12039405",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12039405",
+    "titleFingerprint": "77688e93575dd85a59826301ff1c5780e67b3e44",
+    "dedupKeys": [
+      "25b9f1a86f2dd891af795be0cd5e4ce3cd5ca9fc",
+      "77688e93575dd85a59826301ff1c5780e67b3e44",
+      "9353d9538b8a6bedc5ade2c3308fc47979feeb75"
+    ],
+    "imageUrl": "/images/articles/25b9f1a86f2d.jpg",
+    "i18n": {
+      "ko": {
+        "title": "거래소, 시총 상폐 규정 회피성 거래 포착…막판 주가 관리 의심",
+        "excerpt": "한국거래소 시장감시위원회가 강화된 시가총액 상장폐지 요건을 피하려는 인위적 주가 부양 의심 거래를 포착하고 이상매매 집중 감시에 나섰다.",
+        "body": "한국거래소 시장감시위원회가 강화된 시가총액 상장폐지 요건을 피하기 위해 주가를 인위적으로 끌어올린 것으로 의심되는 거래를 포착했다. 상장폐지 기준 강화에 따라 시가총액 요건을 둘러싼 막판 주가 관리성 매매가 나타났다는 판단에서다. 거래소는 관련 이상매매를 집중 감시하는 한편, 지방선거를 앞두고 정치 테마주에 대해서도 감시를 강화하고 있다. 이번 조치는 상장 유지 요건을 회피하려는 거래가 시장 질서를 훼손할 수 있다는 점에서 투자자 주의가 요구된다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "KRX Spots Suspected Trades to Dodge Market-Cap Delisting Rules",
+        "excerpt": "The Korea Exchange’s market watchdog has detected suspected artificial share-price support aimed at avoiding tougher market-cap delisting requirements.",
+        "body": "The Market Oversight Commission of the Korea Exchange has detected trades suspected of artificially lifting share prices to avoid strengthened market-capitalization delisting requirements. The move comes as the exchange intensifies monitoring of abnormal trading linked to tougher delisting standards and possible last-minute price management. KRX is also stepping up surveillance of political theme stocks ahead of local elections. The case highlights the risk that attempts to evade listing-maintenance rules could undermine market order, calling for investor caution. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "韓国取引所、時価総額上場廃止基準回避の疑い取引を捕捉",
+        "excerpt": "韓国取引所の市場監視委員会は、強化された時価総額の上場廃止要件を避けるため株価を人為的に押し上げた疑いのある取引を捕捉した。",
+        "body": "韓国取引所の市場監視委員会は、強化された時価総額の上場廃止要件を回避するため、株価を人為的に引き上げたとみられる取引を捕捉した。上場廃止基準の強化を受け、時価総額要件をめぐる土壇場の株価管理的な売買が発生したとの判断だ。取引所は関連する異常売買を集中的に監視するとともに、地方選挙を控えた政治テーマ株についても監視を強めている。上場維持要件の回避を狙う取引は市場秩序を損なう恐れがあり、投資家の注意が求められる。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "韩国交易所发现疑似规避市值退市规则交易",
+        "excerpt": "韩国交易所市场监察委员会发现，疑似为规避强化后的市值退市要求而人为拉抬股价的交易，并启动异常交易重点监控。",
+        "body": "韩国交易所市场监察委员会发现了疑似为规避强化后的市值退市要求而人为拉抬股价的交易。随着退市标准收紧，交易所判断围绕市值条件出现了临近节点的股价管理型买卖。韩国交易所正在对相关异常交易进行重点监控，同时也在地方选举前加强对政治主题股的监视。此类试图规避上市维持要求的交易可能损害市场秩序，投资者需保持警惕。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Bolsa de Corea detecta operaciones para eludir regla de exclusión por capitalización",
+        "excerpt": "El comité de vigilancia de la Bolsa de Corea detectó operaciones sospechosas de elevar artificialmente precios para evitar requisitos reforzados de exclusión por capitalización.",
+        "body": "El Comité de Vigilancia del Mercado de la Bolsa de Corea detectó operaciones sospechosas de haber elevado artificialmente los precios de acciones para evitar los requisitos reforzados de exclusión por capitalización bursátil. La bolsa considera que, tras el endurecimiento de los criterios de exclusión, aparecieron compras y ventas de gestión de precio de último momento vinculadas al requisito de capitalización. También intensifica la vigilancia de operaciones anómalas y de acciones temáticas políticas antes de las elecciones locales. La situación exige cautela a los inversores por el posible daño al orden del mercado. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Bolsa da Coreia detecta negócios para driblar regra de deslistagem por valor de mercado",
+        "excerpt": "O comitê de vigilância da Bolsa da Coreia identificou operações suspeitas de elevar artificialmente ações para evitar exigências reforçadas de deslistagem por valor de mercado.",
+        "body": "O Comitê de Supervisão de Mercado da Bolsa da Coreia detectou operações suspeitas de elevar artificialmente os preços das ações para evitar requisitos reforçados de deslistagem por capitalização de mercado. Com o endurecimento dos critérios de deslistagem, a bolsa avalia que surgiram negociações de gestão de preço de última hora ligadas ao requisito de valor de mercado. A KRX intensifica a vigilância sobre negociações anormais e também sobre ações temáticas políticas antes das eleições locais. A tentativa de contornar regras de manutenção de listagem pode afetar a ordem do mercado e exige cautela dos investidores. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Korea Exchange entdeckt verdächtige Trades gegen Delisting-Regeln",
+        "excerpt": "Die Marktaufsicht der Korea Exchange hat verdächtige Transaktionen entdeckt, die Kurse künstlich stützen und strengere Delisting-Vorgaben zur Marktkapitalisierung umgehen sollten.",
+        "body": "Die Marktüberwachungskommission der Korea Exchange hat Transaktionen entdeckt, bei denen der Verdacht besteht, dass Aktienkurse künstlich angehoben wurden, um verschärfte Delisting-Anforderungen zur Marktkapitalisierung zu umgehen. Hintergrund sind strengere Delisting-Kriterien und mögliche kurzfristige Kursstützungen rund um die Marktkapitalisierungsvorgaben. Die Börse überwacht entsprechende auffällige Handelsmuster nun verstärkt und nimmt vor den Kommunalwahlen auch politische Themenaktien genauer in den Blick. Solche Versuche, Listing-Erhaltungsvorgaben zu umgehen, können die Marktordnung beeinträchtigen. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "La Bourse de Corée repère des transactions pour éviter une radiation par capitalisation",
+        "excerpt": "Le comité de surveillance de la Bourse de Corée a détecté des transactions soupçonnées de soutenir artificiellement des cours pour éviter des règles de radiation renforcées.",
+        "body": "Le comité de surveillance du marché de la Bourse de Corée a détecté des transactions soupçonnées d’avoir artificiellement relevé des cours d’actions afin d’éviter les exigences renforcées de radiation liées à la capitalisation boursière. Avec le durcissement des critères de radiation, la Bourse estime que des opérations de gestion de cours de dernière minute sont apparues autour de ces seuils. Elle renforce donc la surveillance des transactions anormales et surveille aussi les valeurs thématiques politiques avant les élections locales. Ces pratiques peuvent perturber l’ordre du marché et appellent à la prudence des investisseurs. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "بورصة كوريا ترصد تداولات مشبوهة لتفادي قواعد الشطب بالقيمة السوقية",
+        "excerpt": "رصدت لجنة مراقبة السوق في بورصة كوريا تداولات يشتبه في أنها رفعت أسعار الأسهم اصطناعيا لتجنب متطلبات شطب مشددة مرتبطة بالقيمة السوقية.",
+        "body": "رصدت لجنة مراقبة السوق في بورصة كوريا تداولات يشتبه في أنها رفعت أسعار الأسهم اصطناعيا بهدف تجنب متطلبات الشطب المشددة المرتبطة بالقيمة السوقية. ويأتي ذلك مع تشديد معايير الشطب، إذ ترى البورصة أن تعاملات لإدارة الأسعار في اللحظات الأخيرة ظهرت حول شرط القيمة السوقية. وتكثف البورصة مراقبة التداولات غير المعتادة، كما تشدد الرقابة على أسهم الموضوعات السياسية قبيل الانتخابات المحلية. وقد تضر محاولات الالتفاف على شروط الحفاظ على الإدراج بنظام السوق، ما يستدعي حذر المستثمرين. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "कोरिया एक्सचेंज ने मार्केट-कैप डीलिस्टिंग नियमों से बचने वाले संदिग्ध सौदे पकड़े",
+        "excerpt": "कोरिया एक्सचेंज की बाजार निगरानी समिति ने कड़े मार्केट-कैप डीलिस्टिंग मानकों से बचने के लिए शेयर भाव कृत्रिम रूप से बढ़ाने वाले संदिग्ध सौदे पकड़े।",
+        "body": "कोरिया एक्सचेंज की बाजार निगरानी समिति ने ऐसे सौदे पकड़े हैं जिनमें कड़े किए गए मार्केट-कैपिटलाइजेशन डीलिस्टिंग मानकों से बचने के लिए शेयर कीमतों को कृत्रिम रूप से ऊपर ले जाने का संदेह है। डीलिस्टिंग मानक मजबूत होने के बाद एक्सचेंज ने माना कि बाजार पूंजीकरण शर्त के आसपास अंतिम समय में भाव प्रबंधन जैसी ट्रेडिंग दिखाई दी। एक्सचेंज संबंधित असामान्य ट्रेडिंग की गहन निगरानी कर रहा है और स्थानीय चुनावों से पहले राजनीतिक थीम शेयरों पर भी नजर बढ़ा रहा है। सूचीबद्ध बने रहने की शर्तों से बचने की कोशिश बाजार व्यवस्था को प्रभावित कर सकती है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Bursa Korea Temukan Transaksi Diduga Hindari Aturan Delisting Kapitalisasi Pasar",
+        "excerpt": "Komite pengawasan Bursa Korea mendeteksi transaksi yang diduga mengerek harga saham secara artifisial untuk menghindari syarat delisting kapitalisasi pasar yang diperketat.",
+        "body": "Komite Pengawasan Pasar Bursa Korea mendeteksi transaksi yang diduga menaikkan harga saham secara artifisial untuk menghindari persyaratan delisting berdasarkan kapitalisasi pasar yang telah diperketat. Seiring penguatan standar delisting, bursa menilai muncul perdagangan bergaya pengelolaan harga pada saat terakhir terkait syarat kapitalisasi pasar. Bursa kini memantau intensif perdagangan abnormal tersebut dan juga memperketat pengawasan saham bertema politik menjelang pemilihan lokal. Upaya menghindari syarat mempertahankan pencatatan dapat mengganggu ketertiban pasar, sehingga investor perlu berhati-hati. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "5526cff1c381",
+    "slug": "베스트-애널리스트가-꼽은-新유망주는-원전증권-507491",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-05-07T14:46:44.172Z",
+    "updatedAt": "2026-05-07T14:46:44.172Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/stock/12039404",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12039404",
+    "titleFingerprint": "f8afb636f3cbff5feba9ffdfb284ba4e03a74831",
+    "dedupKeys": [
+      "5526cff1c381f0e91ea04c11369ba4f815bbb7de",
+      "f8afb636f3cbff5feba9ffdfb284ba4e03a74831",
+      "841a9d9e51c1264d8890b1a074c333ea107bc1d6"
+    ],
+    "imageUrl": "/images/articles/5526cff1c381.jpg",
+    "i18n": {
+      "ko": {
+        "title": "원전·증권株, 베스트 애널리스트가 꼽은 새 유망주로 부상",
+        "excerpt": "올해 삼성전자와 SK하이닉스 주도로 코스피가 7000선을 넘어선 가운데, 증권가 베스트 애널리스트들은 AI 인프라 투자와 원전·증권 업종 기회를 주목했다.",
+        "body": "올해 국내 증시에서 삼성전자와 SK하이닉스를 필두로 코스피가 7000선마저 뛰어넘은 가운데, 증권가 베스트 애널리스트들은 새 유망주로 원전과 증권 업종을 꼽았다. 이들은 인공지능(AI) 인프라스트럭처 투자 흐름 속에서 여전히 기회가 남아 있다고 봤다. 반도체 대형주가 지수 상승을 이끈 이후에도 AI 관련 인프라 투자와 연결되는 업종에 관심이 이어질 수 있다는 맥락이다. 원전과 증권은 이러한 시장 흐름 속에서 추가로 주목받는 분야로 제시됐다. 출처 mk.co.kr에 따르면 베스트 애널리스트들은 AI 인프라 투자 기회가 계속된다는 데 의견을 모았다."
+      },
+      "en": {
+        "title": "Nuclear Power and Brokerage Stocks Emerge as Analysts’ New Picks",
+        "excerpt": "As the KOSPI topped 7,000 this year led by Samsung Electronics and SK Hynix, top brokerage analysts pointed to AI infrastructure opportunities and nuclear and securities stocks.",
+        "body": "This year, as South Korea’s KOSPI climbed past the 7,000 mark led by Samsung Electronics and SK Hynix, top brokerage analysts named nuclear power and securities as new promising sectors. They said opportunities remain in artificial intelligence infrastructure investment. The view comes after major semiconductor stocks drove the broader index higher, with attention still focused on sectors tied to AI-related infrastructure spending. Nuclear power and brokerage shares were presented as areas gaining further market attention in that context. According to mk.co.kr, leading analysts agreed that opportunities in AI infrastructure investment are still present."
+      },
+      "ja": {
+        "title": "原発・証券株、ベストアナリストが選ぶ新たな有望分野に",
+        "excerpt": "今年、サムスン電子とSKハイニックス主導でKOSPIが7000を超える中、証券街のベストアナリストはAIインフラ投資と原発・証券業種に注目した。",
+        "body": "今年、韓国株式市場ではサムスン電子とSKハイニックスを中心にKOSPIが7000台を突破する中、証券街のベストアナリストは新たな有望分野として原発と証券業種を挙げた。彼らは人工知能（AI）インフラ投資の流れの中で、なお機会が残っているとの見方を示した。大型半導体株が指数上昇をけん引した後も、AI関連インフラ投資につながる業種への関心が続くという文脈だ。原発と証券は、こうした市場の流れの中で追加的に注目される分野として提示された。mk.co.krによると、ベストアナリストらはAIインフラ投資の機会が続くとの見解で一致した。"
+      },
+      "zh": {
+        "title": "核电与券商股成最佳分析师眼中新潜力方向",
+        "excerpt": "今年三星电子和SK海力士带动KOSPI突破7000点之际，券商最佳分析师关注AI基础设施投资机会，并点名核电与证券板块。",
+        "body": "今年，在三星电子和SK海力士带动下，韩国KOSPI指数突破7000点，券商最佳分析师将核电和证券行业列为新的潜力方向。他们认为，在人工智能（AI）基础设施投资趋势中，机会仍然存在。此前大型半导体股推动指数上行，而市场关注点仍可能延续至与AI相关基础设施投资相连的行业。在这一背景下，核电和证券被提出为进一步受到关注的领域。据mk.co.kr报道，最佳分析师们一致认为，AI基础设施投资机会仍在延续。"
+      },
+      "es": {
+        "title": "Energía nuclear y valores bursátiles, nuevas apuestas de analistas",
+        "excerpt": "Con el KOSPI por encima de 7.000 este año gracias a Samsung Electronics y SK Hynix, los mejores analistas ven oportunidades en infraestructura de IA, nuclear y valores.",
+        "body": "Este año, mientras el KOSPI surcoreano superó incluso los 7.000 puntos impulsado por Samsung Electronics y SK Hynix, los mejores analistas del mercado señalaron la energía nuclear y el sector de valores como nuevas áreas prometedoras. Consideran que aún hay oportunidades en la inversión en infraestructura de inteligencia artificial (IA). La lectura llega después de que las grandes acciones de semiconductores lideraran la subida del índice, con el interés aún centrado en sectores vinculados al gasto en infraestructura de IA. En ese contexto, nuclear y valores fueron presentados como áreas que atraen más atención. Según mk.co.kr, los analistas coincidieron en que las oportunidades en infraestructura de IA continúan."
+      },
+      "pt": {
+        "title": "Energia nuclear e corretoras viram novas apostas de analistas",
+        "excerpt": "Com o KOSPI acima de 7.000 neste ano, liderado por Samsung Electronics e SK Hynix, os melhores analistas destacam IA, energia nuclear e setor de corretoras.",
+        "body": "Neste ano, enquanto o KOSPI da Coreia do Sul ultrapassou a marca de 7.000 pontos liderado por Samsung Electronics e SK Hynix, os melhores analistas do mercado apontaram energia nuclear e o setor de corretoras como novas áreas promissoras. Eles avaliam que ainda há oportunidades no investimento em infraestrutura de inteligência artificial (IA). A visão surge após grandes ações de semicondutores impulsionarem o índice, com a atenção ainda voltada a setores ligados aos investimentos em infraestrutura de IA. Nesse contexto, energia nuclear e corretoras foram apresentadas como áreas que ganham mais destaque. Segundo mk.co.kr, os analistas concordaram que as oportunidades em infraestrutura de IA permanecem."
+      },
+      "de": {
+        "title": "Atomkraft und Brokerwerte rücken bei Top-Analysten in den Fokus",
+        "excerpt": "Nachdem der KOSPI in diesem Jahr dank Samsung Electronics und SK Hynix über 7.000 stieg, sehen Top-Analysten weiter Chancen bei KI-Infrastruktur sowie Atomkraft und Wertpapieren.",
+        "body": "In diesem Jahr hat der südkoreanische KOSPI, angeführt von Samsung Electronics und SK Hynix, sogar die Marke von 7.000 Punkten überschritten. Vor diesem Hintergrund nannten führende Analysten aus der Wertpapierbranche Atomkraft und den Wertpapiersektor als neue aussichtsreiche Bereiche. Sie sehen weiterhin Chancen im Investitionstrend rund um Infrastruktur für künstliche Intelligenz (KI). Nachdem große Halbleiterwerte den Indexanstieg getragen haben, richtet sich das Interesse weiter auf Branchen, die mit KI-Infrastrukturinvestitionen verbunden sind. Atomkraft und Wertpapierwerte wurden in diesem Marktumfeld als zusätzliche Schwerpunkte genannt. Laut mk.co.kr waren sich die Top-Analysten einig, dass Chancen bei KI-Infrastrukturinvestitionen weiter bestehen."
+      },
+      "fr": {
+        "title": "Nucléaire et courtage, nouveaux choix des meilleurs analystes",
+        "excerpt": "Alors que le KOSPI a dépassé 7 000 cette année grâce à Samsung Electronics et SK Hynix, les meilleurs analystes citent l’IA, le nucléaire et les valeurs de courtage.",
+        "body": "Cette année, alors que le KOSPI sud-coréen a dépassé la barre des 7 000 points sous l’impulsion de Samsung Electronics et SK Hynix, les meilleurs analystes du secteur financier ont désigné le nucléaire et les valeurs de courtage comme de nouveaux domaines prometteurs. Ils estiment que des opportunités subsistent dans l’investissement en infrastructures d’intelligence artificielle (IA). Après la hausse de l’indice portée par les grandes valeurs des semi-conducteurs, l’attention pourrait rester concentrée sur les secteurs liés aux dépenses d’infrastructure IA. Dans ce contexte, le nucléaire et le courtage ont été présentés comme des domaines à surveiller davantage. Selon mk.co.kr, les analystes partagent l’avis que les opportunités dans l’infrastructure IA se poursuivent."
+      },
+      "ar": {
+        "title": "الطاقة النووية وشركات الوساطة تبرز كاختيارات جديدة للمحللين",
+        "excerpt": "مع تجاوز مؤشر كوسبي مستوى 7000 هذا العام بدعم من سامسونغ إلكترونيكس وSK هاينكس، ركز أفضل المحللين على فرص بنية الذكاء الاصطناعي والطاقة النووية والوساطة.",
+        "body": "هذا العام، ومع تجاوز مؤشر كوسبي الكوري مستوى 7000 نقطة بقيادة سامسونغ إلكترونيكس وSK هاينكس، اختار أفضل محللي شركات الأوراق المالية قطاعي الطاقة النووية والوساطة المالية كفرص واعدة جديدة. ويرى هؤلاء أن فرص الاستثمار في بنية الذكاء الاصطناعي لا تزال قائمة. يأتي ذلك بعدما قادت أسهم أشباه الموصلات الكبرى صعود المؤشر، بينما يستمر الاهتمام بالقطاعات المرتبطة بالإنفاق على البنية التحتية للذكاء الاصطناعي. وفي هذا السياق، طُرحت الطاقة النووية وشركات الأوراق المالية كمجالات تحظى بمزيد من الاهتمام. ووفقًا لـ mk.co.kr، اتفق كبار المحللين على أن فرص الاستثمار في بنية الذكاء الاصطناعي مستمرة."
+      },
+      "hi": {
+        "title": "परमाणु ऊर्जा और ब्रोकरेज शेयर बने शीर्ष विश्लेषकों की नई पसंद",
+        "excerpt": "इस साल Samsung Electronics और SK Hynix के नेतृत्व में KOSPI के 7,000 पार जाने के बाद शीर्ष विश्लेषकों ने AI इन्फ्रास्ट्रक्चर, परमाणु ऊर्जा और सिक्योरिटीज क्षेत्र पर ध्यान दिया।",
+        "body": "इस साल दक्षिण कोरिया के शेयर बाजार में Samsung Electronics और SK Hynix के नेतृत्व में KOSPI 7,000 के स्तर से भी ऊपर चला गया। इसी बीच सिक्योरिटीज बाजार के शीर्ष विश्लेषकों ने परमाणु ऊर्जा और सिक्योरिटीज क्षेत्र को नए उभरते अवसरों के रूप में चुना। उनका मानना है कि कृत्रिम बुद्धिमत्ता (AI) इन्फ्रास्ट्रक्चर निवेश की धारा में अभी भी अवसर मौजूद हैं। बड़े सेमीकंडक्टर शेयरों ने सूचकांक की बढ़त का नेतृत्व किया, लेकिन AI से जुड़े इन्फ्रास्ट्रक्चर निवेश से संबंधित क्षेत्रों में रुचि जारी रह सकती है। इसी संदर्भ में परमाणु ऊर्जा और सिक्योरिटीज को अतिरिक्त ध्यान पाने वाले क्षेत्र बताया गया। mk.co.kr के अनुसार, शीर्ष विश्लेषक AI इन्फ्रास्ट्रक्चर निवेश अवसरों के जारी रहने पर सहमत हैं।"
+      },
+      "id": {
+        "title": "Nuklir dan Saham Sekuritas Jadi Pilihan Baru Analis Terbaik",
+        "excerpt": "Saat KOSPI tahun ini menembus 7.000 berkat Samsung Electronics dan SK Hynix, analis terbaik menyoroti peluang infrastruktur AI serta sektor nuklir dan sekuritas.",
+        "body": "Tahun ini, ketika KOSPI Korea Selatan melampaui level 7.000 dengan dipimpin Samsung Electronics dan SK Hynix, para analis terbaik di industri sekuritas memilih sektor nuklir dan sekuritas sebagai prospek baru. Mereka menilai peluang masih ada dalam investasi infrastruktur kecerdasan buatan (AI). Pandangan ini muncul setelah saham semikonduktor besar mendorong kenaikan indeks, sementara perhatian pasar tetap tertuju pada sektor yang terkait dengan belanja infrastruktur AI. Dalam konteks tersebut, nuklir dan sekuritas disebut sebagai bidang yang mendapat perhatian tambahan. Menurut mk.co.kr, para analis terbaik sepakat bahwa peluang investasi infrastruktur AI masih berlanjut."
+      }
+    }
+  },
+  {
+    "id": "ef2f29b019a2",
+    "slug": "매물-갈수록-줄어들-것-실수요자는-강서용인성남-노려라-788578",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-05-07T14:45:42.178Z",
+    "updatedAt": "2026-05-07T14:45:42.178Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/stock/12039418",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12039418",
+    "titleFingerprint": "15f6a23b6f263057ac81016dceecaef8a4537557",
+    "dedupKeys": [
+      "ef2f29b019a2d9d9b7229614872ead8138637b23",
+      "15f6a23b6f263057ac81016dceecaef8a4537557",
+      "afbdd0922c3b8390e6498b0775a95b709763fbfc"
+    ],
+    "imageUrl": "/images/articles/ef2f29b019a2.jpg",
+    "i18n": {
+      "ko": {
+        "title": "서울 아파트 매물 감소세 뚜렷, 실수요자 강서·용인·성남 주목",
+        "excerpt": "올해 초부터 정부의 다주택자·비거주 1주택자 매도 압박이 이어지며 서울 매매 매물이 줄고 있어 실수요자는 강서·용인·성남을 살펴볼 필요가 있다는 분석이다.",
+        "body": "올해 초부터 정부가 다주택자와 비거주 1주택자 등에 대한 매도 압박을 이어가면서 서울 주택 매매 시장의 매물이 하나둘 소화되고 있다. 부동산 플랫폼 아실에 따르면 서울 매매 매물은 올해 1월 1일 5만7001건으로 집계됐다. 원문은 쌓였던 매물이 줄어드는 흐름 속에서 실수요자가 관심을 둘 지역로 강서와 용인, 성남을 제시했다. 매물이 갈수록 줄어들 수 있다는 관측이 나오는 만큼 실거주 목적의 매수자는 지역별 수급 변화를 점검할 필요가 있다. 출처: mk.co.kr."
+      },
+      "en": {
+        "title": "Seoul Home Listings Keep Falling as Buyers Watch Gangseo, Yongin and Seongnam",
+        "excerpt": "Since early this year, government pressure on multi-home owners and nonresident single-home owners to sell has helped absorb Seoul housing listings, drawing attention to Gangseo, Yongin and Seongnam.",
+        "body": "Since the start of this year, the government has continued to pressure multi-home owners and nonresident single-home owners to sell, and accumulated listings in Seoul’s housing market have gradually been absorbed. According to real estate platform Asil, Seoul had 57,001 homes listed for sale on January 1 this year. The original report pointed to Gangseo, Yongin and Seongnam as areas for end-user buyers to watch as listings decline. With expectations that available supply may continue to shrink, buyers seeking homes for actual residence need to check local supply and demand conditions. Source: mk.co.kr."
+      },
+      "ja": {
+        "title": "ソウル住宅売り物件が減少、実需層は江西・龍仁・城南に注目",
+        "excerpt": "今年初めから政府が多住宅保有者や非居住の1住宅保有者に売却圧力をかけ続け、ソウルの売買物件が消化され、江西・龍仁・城南が注目されている。",
+        "body": "今年初めから政府が多住宅保有者や非居住の1住宅保有者などに対する売却圧力を続けるなか、ソウル住宅売買市場で積み上がっていた物件が少しずつ消化されている。不動産プラットフォームのアシルによると、ソウルの売買物件は今年1月1日時点で5万7001件だった。原文は、売り物件が減る流れのなかで、実需層が関心を持つ地域として江西、龍仁、城南を挙げた。物件が今後さらに減る可能性が指摘されるため、実居住目的の買い手は地域別の需給変化を確認する必要がある。出典: mk.co.kr."
+      },
+      "zh": {
+        "title": "首尔住宅挂牌量持续减少，刚需买家关注江西、龙仁和城南",
+        "excerpt": "今年初以来，韩国政府持续向多套房持有者和非居住一套房持有者施加出售压力，首尔买卖挂牌逐步被消化，江西、龙仁和城南受到关注。",
+        "body": "今年初以来，韩国政府持续对多套房持有者以及非居住一套房持有者等施加出售压力，首尔住宅买卖市场此前累积的挂牌房源正逐步被消化。房地产平台Asil数据显示，今年1月1日首尔买卖挂牌量为57001套。原文指出，在挂牌量减少的趋势下，刚需买家可关注江西、龙仁和城南等地区。随着市场出现房源可能继续减少的判断，以自住为目的的购房者需要查看各地区供需变化。来源: mk.co.kr."
+      },
+      "es": {
+        "title": "Bajan los anuncios de vivienda en Seúl y compradores miran Gangseo, Yongin y Seongnam",
+        "excerpt": "Desde comienzos de año, la presión del Gobierno sobre multipropietarios y propietarios no residentes ha reducido los anuncios de compraventa en Seúl, con foco en Gangseo, Yongin y Seongnam.",
+        "body": "Desde comienzos de este año, el Gobierno ha mantenido la presión de venta sobre los propietarios de varias viviendas y los propietarios de una vivienda que no residen en ella, y las propiedades acumuladas en el mercado de compraventa de Seúl se han ido absorbiendo. Según la plataforma inmobiliaria Asil, el 1 de enero de este año había 57.001 viviendas en venta en Seúl. El informe original señaló Gangseo, Yongin y Seongnam como zonas a vigilar por los compradores de uso propio en medio de la caída de la oferta. Ante la posibilidad de que los anuncios sigan disminuyendo, quienes compran para residir deben revisar la oferta y la demanda por zona. Fuente: mk.co.kr."
+      },
+      "pt": {
+        "title": "Oferta de casas em Seul recua e compradores miram Gangseo, Yongin e Seongnam",
+        "excerpt": "Desde o início do ano, a pressão do governo sobre donos de múltiplos imóveis e proprietários não residentes vem reduzindo os anúncios de venda em Seul, com atenção a Gangseo, Yongin e Seongnam.",
+        "body": "Desde o início deste ano, o governo mantém pressão para venda sobre proprietários de múltiplos imóveis e donos de uma única casa que não residem nela, enquanto os imóveis acumulados no mercado de compra e venda de Seul vêm sendo absorvidos gradualmente. Segundo a plataforma imobiliária Asil, Seul tinha 57.001 imóveis à venda em 1º de janeiro deste ano. A reportagem original apontou Gangseo, Yongin e Seongnam como áreas a observar por compradores de uso próprio diante da queda da oferta. Com a avaliação de que os anúncios podem diminuir ainda mais, quem compra para morar deve acompanhar a oferta e a demanda por região. Fonte: mk.co.kr."
+      },
+      "de": {
+        "title": "Wohnungsangebote in Seoul sinken, Käufer blicken auf Gangseo, Yongin und Seongnam",
+        "excerpt": "Seit Jahresbeginn erhöht die Regierung den Verkaufsdruck auf Mehrfachbesitzer und nicht dort wohnende Eigentümer, wodurch Kaufangebote in Seoul abgebaut werden und Gangseo, Yongin sowie Seongnam in den Fokus rücken.",
+        "body": "Seit Anfang dieses Jahres hält die Regierung den Verkaufsdruck auf Eigentümer mehrerer Wohnungen sowie auf Eigentümer einer einzelnen, nicht selbst bewohnten Wohnung aufrecht. Dadurch werden zuvor aufgebaute Angebote am Wohnungsmarkt in Seoul nach und nach absorbiert. Nach Angaben der Immobilienplattform Asil gab es in Seoul am 1. Januar dieses Jahres 57.001 Kaufangebote. Der Originalbericht nannte Gangseo, Yongin und Seongnam als Regionen, die Eigennutzer im Blick behalten sollten, während die verfügbaren Angebote zurückgehen. Da mit weiter sinkenden Beständen gerechnet wird, sollten Käufer mit Wohnzweck die regionale Angebots- und Nachfragesituation prüfen. Quelle: mk.co.kr."
+      },
+      "fr": {
+        "title": "Les biens à vendre diminuent à Séoul, les acheteurs ciblent Gangseo, Yongin et Seongnam",
+        "excerpt": "Depuis le début de l’année, la pression du gouvernement sur les multipropriétaires et les propriétaires non résidents réduit les annonces de vente à Séoul, mettant Gangseo, Yongin et Seongnam en avant.",
+        "body": "Depuis le début de cette année, le gouvernement maintient une pression à la vente sur les multipropriétaires et les propriétaires d’un seul logement qui n’y résident pas, tandis que les biens accumulés sur le marché de la vente à Séoul sont progressivement absorbés. Selon la plateforme immobilière Asil, Séoul comptait 57 001 biens à vendre au 1er janvier de cette année. L’article original cite Gangseo, Yongin et Seongnam comme zones à surveiller pour les acheteurs ayant un besoin réel de logement dans un contexte de baisse de l’offre. Comme les biens disponibles pourraient continuer à diminuer, les acheteurs souhaitant y habiter doivent examiner l’offre et la demande locales. Source: mk.co.kr."
+      },
+      "ar": {
+        "title": "تراجع معروض المساكن في سيول يدفع المشترين لمراقبة غانغسيو ويونغين وسيونغنام",
+        "excerpt": "منذ بداية العام، واصلت الحكومة الضغط على مالكي عدة منازل ومالكي منزل واحد غير مقيمين للبيع، ما أدى إلى امتصاص معروض البيع في سيول ولفت الانتباه إلى غانغسيو ويونغين وسيونغنام.",
+        "body": "منذ بداية هذا العام، واصلت الحكومة الضغط على مالكي عدة منازل ومالكي منزل واحد لا يقيمون فيه من أجل البيع، وبدأت المعروضات المتراكمة في سوق بيع المساكن في سيول تتراجع تدريجيا. ووفقا لمنصة العقارات Asil، بلغ عدد معروضات البيع في سيول 57001 في 1 يناير من هذا العام. وأشار التقرير الأصلي إلى غانغسيو ويونغين وسيونغنام كمناطق ينبغي للمشترين الساعين للسكن الفعلي متابعتها مع انخفاض المعروض. ومع طرح احتمال استمرار تراجع المعروض، يحتاج المشترون لغرض السكن إلى فحص تغيرات العرض والطلب حسب المنطقة. المصدر: mk.co.kr."
+      },
+      "hi": {
+        "title": "सियोल में घरों की बिक्री सूची घट रही, खरीदार गांगसियो, योंगिन और सियोंगनाम पर नजर रखें",
+        "excerpt": "इस साल की शुरुआत से सरकार बहु-घर मालिकों और गैर-निवासी एक-घर मालिकों पर बिक्री दबाव बनाए हुए है, जिससे सियोल की बिक्री सूचियां घट रही हैं और गांगसियो, योंगिन व सियोंगनाम ध्यान में हैं।",
+        "body": "इस साल की शुरुआत से सरकार बहु-घर मालिकों और ऐसे एक-घर मालिकों पर, जो उस घर में नहीं रहते, बिक्री का दबाव बनाए हुए है। इसके साथ सियोल के आवास खरीद-बिक्री बाजार में जमा हुई बिक्री सूचियां धीरे-धीरे खप रही हैं। रियल एस्टेट प्लेटफॉर्म Asil के अनुसार, इस साल 1 जनवरी को सियोल में बिक्री के लिए सूचीबद्ध घरों की संख्या 57,001 थी। मूल रिपोर्ट ने घटती उपलब्धता के बीच वास्तविक आवास जरूरत वाले खरीदारों के लिए गांगसियो, योंगिन और सियोंगनाम को देखने योग्य क्षेत्र बताया। उपलब्ध घर और कम हो सकते हैं, इसलिए रहने के उद्देश्य से खरीदने वालों को क्षेत्रवार मांग और आपूर्ति की जांच करनी चाहिए। स्रोत: mk.co.kr."
+      },
+      "id": {
+        "title": "Listing Rumah Seoul Makin Berkurang, Pembeli Cermati Gangseo, Yongin dan Seongnam",
+        "excerpt": "Sejak awal tahun, tekanan pemerintah terhadap pemilik banyak rumah dan pemilik satu rumah nonpenghuni membuat listing jual beli di Seoul terserap, dengan perhatian ke Gangseo, Yongin dan Seongnam.",
+        "body": "Sejak awal tahun ini, pemerintah terus menekan pemilik banyak rumah serta pemilik satu rumah yang tidak menempatinya untuk menjual, sehingga listing yang menumpuk di pasar jual beli hunian Seoul mulai terserap satu per satu. Menurut platform properti Asil, jumlah listing jual beli di Seoul pada 1 Januari tahun ini tercatat 57.001 unit. Laporan asli menyebut Gangseo, Yongin dan Seongnam sebagai wilayah yang perlu diperhatikan pembeli dengan kebutuhan hunian nyata saat pasokan listing menurun. Karena ada pandangan bahwa listing dapat terus berkurang, pembeli untuk tempat tinggal perlu memeriksa perubahan pasokan dan permintaan per wilayah. Sumber: mk.co.kr."
+      }
+    }
+  },
+  {
     "id": "32781b009c70",
     "slug": "정비사업은-상품성속도가-핵심-용산성수-등-한강변-주목-419615",
     "channelId": "ETF",
@@ -4271,231 +4496,6 @@
         "title": "Kinerja Laba Pimpin Reli Saham Korea, Pasar Masih Dinilai Murah",
         "excerpt": "hankyung.com melaporkan bahwa “kinerja laba” menjadi kata kunci reli saham Korea, sekaligus menyoroti pandangan bahwa pasar masih undervalued.",
         "body": "hankyung.com melaporkan bahwa kata kunci yang mendorong reli terbaru di pasar saham Korea adalah “kinerja laba”. Judul tersebut menunjukkan bahwa hasil korporasi menjadi faktor utama di balik kenaikan pasar, sambil menyampaikan pandangan bahwa bursa Korea masih undervalued. Nama emiten atau angka spesifik perlu diperiksa dalam artikel asli, tetapi pesan utamanya adalah bahwa kinerja laba memengaruhi sentimen investor dan pembahasan mengenai revaluasi pasar. Prospek saham Korea ke depan kemungkinan tetap bergantung pada perbaikan laba dan peluang menyempitnya diskon valuasi. Sumber: hankyung.com"
-      }
-    }
-  },
-  {
-    "id": "f5af8fa6eedf",
-    "slug": "짭짤한-멤버십-수익코스트코-고물가에도-고공행진-440141",
-    "channelId": "ETF",
-    "category": "etf",
-    "publishedAt": "2026-05-06T22:15:11.532Z",
-    "updatedAt": "2026-05-06T22:15:11.532Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/2026050696751",
-    "canonicalUrl": "https://www.hankyung.com/article/2026050696751",
-    "titleFingerprint": "40c1f0869ab875fbd2d33c313c59f2a79a32e093",
-    "dedupKeys": [
-      "f5af8fa6eedf9b34a93061c45a7770752229fc69",
-      "40c1f0869ab875fbd2d33c313c59f2a79a32e093",
-      "2738f036388315edc45f5df78044d5d9c655bd02"
-    ],
-    "imageUrl": "/images/articles/f5af8fa6eedf.jpg",
-    "i18n": {
-      "ko": {
-        "title": "코스트코 주가 19% 상승, 멤버십 수익이 고물가 실적 우려를 넘어선 배경",
-        "excerpt": "한국경제는 2026년 5월 6일 코스트코홀세일이 고물가 환경의 실적 우려에도 멤버십 기반 수익과 글로벌 출점 기대에 힘입어 주가 상승세를 이어가고 있다고 보도했다.",
-        "body": "미국 창고형 할인마트 코스트코홀세일이 고물가에 따른 실적 우려에도 주가 상승세를 이어가고 있다. 한국경제에 따르면 코스트코 주가는 뉴욕증시에서 2026년 5월 5일까지 올해 약 19% 올랐고, 같은 기간 S&P500 상승률 5.84%를 크게 웃돌았다. 배경에는 골드스타 연 65달러, 이그제큐티브 연 130달러로 운영되는 멤버십 모델이 있다. 전체 유료 회원 8219만 명 중 4040만 명이 이그제큐티브 회원이며 갱신율은 90% 수준이다. 2026회계연도 2분기 매출은 696억달러로 9.2%, 순이익은 20억3500만달러로 13.8% 늘었다. 디지털 동일 매장 매출도 22% 증가했다. 한국경제는 안정적 멤버십 수익과 신규 매장 28개 계획이 성장 기대를 뒷받침한다고 전했다. 출처: hankyung.com"
-      },
-      "en": {
-        "title": "Costco Stock Rises 19% as Membership Revenue Offsets Inflation Concerns",
-        "excerpt": "Hankyung reported on May 6, 2026, that Costco Wholesale kept climbing despite inflation-driven earnings concerns, supported by membership revenue and global store expansion expectations.",
-        "body": "Costco Wholesale, the U.S. warehouse discount retailer, is extending its stock rally despite concerns that high inflation could weigh on earnings. According to Hankyung, Costco shares had risen about 19% in 2026 through May 5 on the New York market, far ahead of the S&P 500’s 5.84% gain over the same period. The core driver is its membership model: Gold Star costs $65 a year and Executive costs $130. Of 82.19 million paid members, 40.4 million are Executive members, and the renewal rate is around 90%. In fiscal 2026 second quarter, revenue rose 9.2% to $69.6 billion, while net income increased 13.8% to $2.035 billion. Digital comparable sales climbed 22%. Hankyung said stable membership revenue and a plan to open 28 new stores support growth expectations. Source: hankyung.com"
-      },
-      "ja": {
-        "title": "コストコ株19％上昇、会員収益が高インフレ懸念を上回った理由",
-        "excerpt": "韓国経済新聞は2026年5月6日、コストコホールセールが高インフレ下の業績懸念にもかかわらず、会員収益と世界的な出店期待を背景に株高を続けていると報じた。",
-        "body": "米国の倉庫型ディスカウント店コストコホールセールは、高インフレによる業績懸念がある中でも株価上昇を続けている。韓国経済新聞によると、コストコ株はニューヨーク市場で2026年5月5日までに年初来約19％上昇し、同期間のS&P500上昇率5.84％を大きく上回った。背景には、年65ドルのゴールドスター、年130ドルのエグゼクティブで構成される会員モデルがある。有料会員8219万人のうち4040万人がエグゼクティブ会員で、更新率は約90％。2026会計年度第2四半期の売上高は696億ドルで9.2％増、純利益は20億3500万ドルで13.8％増だった。デジタル既存店売上高も22％増えた。韓国経済新聞は、安定した会員収益と新規28店舗計画が成長期待を支えていると伝えた。出典: hankyung.com"
-      },
-      "zh": {
-        "title": "Costco股价上涨19%，会员收入为何抵消高通胀业绩担忧",
-        "excerpt": "韩国经济新闻2026年5月6日报道，Costco Wholesale在高通胀带来的业绩担忧下，仍凭借会员收入和全球开店预期延续股价涨势。",
-        "body": "美国仓储式折扣零售商Costco Wholesale在高通胀引发业绩担忧的背景下，股价仍持续走高。据韩国经济新闻报道，截至2026年5月5日，Costco股价今年在纽约市场上涨约19%，明显高于同期S&P 500指数5.84%的涨幅。支撑因素是其会员模式：Gold Star年费65美元，Executive年费130美元。在8219万付费会员中，4040万人为Executive会员，续费率约为90%。2026财年第二季度，Costco营收为696亿美元，同比增长9.2%；净利润为20.35亿美元，同比增长13.8%。数字渠道可比门店销售额增长22%。韩国经济新闻称，稳定的会员收入和计划新增28家门店，支撑了市场对其增长的期待。来源: hankyung.com"
-      },
-      "es": {
-        "title": "Costco sube 19% en bolsa: las membresías compensan el temor por inflación",
-        "excerpt": "Hankyung informó el 6 de mayo de 2026 que Costco Wholesale mantiene su avance bursátil pese a las dudas por la inflación, apoyada en ingresos por membresías y expansión global.",
-        "body": "Costco Wholesale, la cadena estadounidense de almacenes de descuento, mantiene su subida en bolsa pese a la preocupación por el impacto de la alta inflación en sus resultados. Según Hankyung, la acción de Costco había avanzado cerca de 19% en 2026 hasta el 5 de mayo en Nueva York, muy por encima del 5,84% del S&P 500 en el mismo periodo. La base es su modelo de membresía: Gold Star cuesta 65 dólares al año y Executive, 130 dólares. De 82,19 millones de miembros pagos, 40,4 millones pertenecen a Executive, con una tasa de renovación cercana al 90%. En el segundo trimestre fiscal de 2026, los ingresos crecieron 9,2% hasta 69.600 millones de dólares y el beneficio neto subió 13,8% a 2.035 millones. Las ventas comparables digitales aumentaron 22%. Hankyung señaló que los ingresos estables por membresía y el plan de abrir 28 tiendas respaldan las expectativas de crecimiento. Fuente: hankyung.com"
-      },
-      "pt": {
-        "title": "Costco sobe 19% na bolsa com receita de assinaturas contra pressão da inflação",
-        "excerpt": "O Hankyung informou em 6 de maio de 2026 que a Costco Wholesale segue em alta apesar das preocupações com inflação, apoiada por receita de membros e expansão global de lojas.",
-        "body": "A Costco Wholesale, varejista americana de clubes de compras, continua em alta na bolsa apesar das preocupações de que a inflação elevada pressione os resultados. Segundo o Hankyung, as ações da Costco subiram cerca de 19% em 2026 até 5 de maio em Nova York, bem acima do avanço de 5,84% do S&P 500 no mesmo período. O pilar é o modelo de associação: Gold Star custa US$ 65 por ano e Executive, US$ 130. Dos 82,19 milhões de membros pagos, 40,4 milhões são Executive, e a taxa de renovação fica perto de 90%. No segundo trimestre fiscal de 2026, a receita cresceu 9,2%, para US$ 69,6 bilhões, e o lucro líquido subiu 13,8%, para US$ 2,035 bilhões. As vendas comparáveis digitais aumentaram 22%. O Hankyung afirmou que a receita estável de membros e o plano de abrir 28 lojas sustentam as expectativas de crescimento. Fonte: hankyung.com"
-      },
-      "de": {
-        "title": "Costco-Aktie steigt 19 Prozent: Mitgliedsbeiträge mildern Inflationssorgen",
-        "excerpt": "Hankyung berichtete am 6. Mai 2026, dass Costco Wholesale trotz Inflationssorgen weiter zulegt, gestützt von Mitgliedschaftserlösen und Erwartungen an globale Filialexpansion.",
-        "body": "Costco Wholesale, der US-amerikanische Warehouse-Discounter, setzt seine Aktienrally trotz Sorgen über hohe Inflation und mögliche Ergebnisbelastungen fort. Laut Hankyung legte die Costco-Aktie 2026 bis zum 5. Mai in New York um rund 19% zu und übertraf damit den S&P 500, der im selben Zeitraum 5,84% gewann, deutlich. Grundlage ist das Mitgliedschaftsmodell: Gold Star kostet 65 Dollar pro Jahr, Executive 130 Dollar. Von 82,19 Millionen zahlenden Mitgliedern entfallen 40,4 Millionen auf Executive; die Verlängerungsquote liegt bei etwa 90%. Im zweiten Quartal des Geschäftsjahres 2026 stieg der Umsatz um 9,2% auf 69,6 Milliarden Dollar, der Nettogewinn um 13,8% auf 2,035 Milliarden Dollar. Die digitalen vergleichbaren Umsätze wuchsen um 22%. Hankyung schrieb, stabile Mitgliedserlöse und der Plan für 28 neue Filialen stützten die Wachstumserwartungen. Quelle: hankyung.com"
-      },
-      "fr": {
-        "title": "Costco gagne 19% en Bourse, les abonnements résistent aux craintes d’inflation",
-        "excerpt": "Hankyung a rapporté le 6 mai 2026 que Costco Wholesale poursuivait sa hausse malgré les inquiétudes liées à l’inflation, soutenu par les revenus d’adhésion et l’expansion mondiale.",
-        "body": "Costco Wholesale, l’enseigne américaine d’entrepôts-discompteurs, poursuit sa progression en Bourse malgré les craintes que la forte inflation pèse sur ses résultats. Selon Hankyung, l’action Costco avait gagné environ 19% en 2026 jusqu’au 5 mai à New York, dépassant largement la hausse de 5,84% du S&P 500 sur la même période. Le moteur est son modèle d’adhésion: Gold Star coûte 65 dollars par an et Executive 130 dollars. Sur 82,19 millions de membres payants, 40,4 millions sont Executive, avec un taux de renouvellement proche de 90%. Au deuxième trimestre de l’exercice 2026, le chiffre d’affaires a progressé de 9,2% à 69,6 milliards de dollars et le bénéfice net de 13,8% à 2,035 milliards. Les ventes comparables numériques ont augmenté de 22%. Hankyung indique que les revenus d’adhésion stables et le projet d’ouvrir 28 magasins soutiennent les attentes de croissance. Source: hankyung.com"
-      },
-      "ar": {
-        "title": "سهم كوستكو يرتفع 19% مع دعم إيرادات العضوية رغم مخاوف التضخم",
-        "excerpt": "ذكرت هانكيونغ في 6 مايو 2026 أن كوستكو وولسيل واصلت صعودها في السوق رغم مخاوف تأثير التضخم على الأرباح، بدعم من إيرادات العضوية وخطط التوسع العالمية.",
-        "body": "تواصل كوستكو وولسيل، سلسلة متاجر المستودعات المخفضة في الولايات المتحدة، صعود سهمها رغم المخاوف من ضغط التضخم المرتفع على النتائج. وبحسب هانكيونغ، ارتفع سهم كوستكو في بورصة نيويورك بنحو 19% منذ بداية 2026 حتى 5 مايو، متجاوزا بوضوح مكاسب مؤشر S&P 500 البالغة 5.84% في الفترة نفسها. ويستند ذلك إلى نموذج العضوية: تبلغ رسوم Gold Star السنوية 65 دولارا وExecutive 130 دولارا. ومن بين 82.19 مليون عضو مدفوع، يوجد 40.4 مليون عضو في فئة Executive، وتبلغ نسبة التجديد نحو 90%. في الربع الثاني من السنة المالية 2026، زادت الإيرادات 9.2% إلى 69.6 مليار دولار، وارتفع صافي الربح 13.8% إلى 2.035 مليار دولار. كما نمت مبيعات المتاجر الرقمية المماثلة 22%. وقالت هانكيونغ إن إيرادات العضوية المستقرة وخطة فتح 28 متجرا جديدا تدعمان توقعات النمو. المصدر: hankyung.com"
-      },
-      "hi": {
-        "title": "Costco शेयर 19% चढ़ा, सदस्यता आय ने महंगाई से जुड़ी चिंता को कैसे संभाला",
-        "excerpt": "Hankyung ने 6 मई 2026 को बताया कि Costco Wholesale महंगाई से कमाई पर दबाव की चिंता के बावजूद सदस्यता आय और वैश्विक स्टोर विस्तार की उम्मीदों से चढ़त बनाए हुए है।",
-        "body": "अमेरिकी वेयरहाउस डिस्काउंट रिटेलर Costco Wholesale महंगाई से कमाई पर असर की चिंता के बावजूद शेयर बाजार में अपनी तेजी जारी रखे हुए है। Hankyung के अनुसार, 5 मई 2026 तक न्यूयॉर्क बाजार में Costco का शेयर इस साल करीब 19% चढ़ा, जबकि इसी अवधि में S&P 500 की बढ़त 5.84% रही। इसकी मुख्य वजह सदस्यता मॉडल है: Gold Star की वार्षिक फीस 65 डॉलर और Executive की 130 डॉलर है। 8.219 करोड़ भुगतान करने वाले सदस्यों में 4.04 करोड़ Executive सदस्य हैं, और नवीनीकरण दर करीब 90% है। वित्त वर्ष 2026 की दूसरी तिमाही में राजस्व 9.2% बढ़कर 69.6 अरब डॉलर हुआ, जबकि शुद्ध लाभ 13.8% बढ़कर 2.035 अरब डॉलर रहा। डिजिटल समान-स्टोर बिक्री 22% बढ़ी। Hankyung ने कहा कि स्थिर सदस्यता आय और 28 नए स्टोर खोलने की योजना वृद्धि की उम्मीदों को सहारा देती है। स्रोत: hankyung.com"
-      },
-      "id": {
-        "title": "Saham Costco Naik 19%, Pendapatan Keanggotaan Menopang di Tengah Inflasi",
-        "excerpt": "Hankyung melaporkan pada 6 Mei 2026 bahwa Costco Wholesale tetap menguat meski ada kekhawatiran inflasi terhadap laba, ditopang pendapatan keanggotaan dan ekspansi toko global.",
-        "body": "Costco Wholesale, peritel gudang diskon asal AS, terus mencatat kenaikan saham meski ada kekhawatiran inflasi tinggi dapat menekan kinerja. Menurut Hankyung, saham Costco naik sekitar 19% sepanjang 2026 hingga 5 Mei di pasar New York, jauh di atas kenaikan S&P 500 sebesar 5,84% pada periode yang sama. Pendorong utamanya adalah model keanggotaan: Gold Star berbiaya 65 dolar AS per tahun dan Executive 130 dolar AS. Dari 82,19 juta anggota berbayar, 40,4 juta adalah anggota Executive, dengan tingkat pembaruan sekitar 90%. Pada kuartal kedua tahun fiskal 2026, pendapatan naik 9,2% menjadi 69,6 miliar dolar AS dan laba bersih naik 13,8% menjadi 2,035 miliar dolar AS. Penjualan toko sebanding digital meningkat 22%. Hankyung menyebut pendapatan keanggotaan yang stabil dan rencana membuka 28 toko baru menopang ekspektasi pertumbuhan. Sumber: hankyung.com"
-      }
-    }
-  },
-  {
-    "id": "9c963abf63fc",
-    "slug": "캐즘-뚫고-시총-2조-위안-돌파catl-기술-초격차로-배터리-패권-굳힌다-724992",
-    "channelId": "ETF",
-    "category": "etf",
-    "publishedAt": "2026-05-06T22:13:55.306Z",
-    "updatedAt": "2026-05-06T22:13:55.306Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/202605069837i",
-    "canonicalUrl": "https://www.hankyung.com/article/202605069837i",
-    "titleFingerprint": "6dd2ab6dfb3235abe7bea2db63f0f1807a2c3860",
-    "dedupKeys": [
-      "9c963abf63fc2f189345804af85bb57697e58131",
-      "6dd2ab6dfb3235abe7bea2db63f0f1807a2c3860",
-      "c647ab17954a9fbb8a6b053499880421a1747aa5"
-    ],
-    "imageUrl": "/images/articles/9c963abf63fc.jpg",
-    "i18n": {
-      "ko": {
-        "title": "CATL 시총 2조 위안 돌파, 기술 초격차로 배터리 패권 굳히나",
-        "excerpt": "CATL이 배터리 시장의 ‘캐즘’ 우려를 뚫고 시가총액 2조 위안을 넘어섰다고 hankyung.com이 보도했다. 기술 초격차를 앞세워 배터리 패권을 강화하는 흐름이다.",
-        "body": "CATL이 배터리 시장의 ‘캐즘’ 우려를 넘어 시가총액 2조 위안을 돌파했다고 hankyung.com이 보도했다. 보도에 따르면 CATL은 기술 초격차를 바탕으로 배터리 산업 내 주도권을 굳히는 흐름을 보이고 있다. 전기차와 배터리 시장에서 성장 둔화 우려가 제기되는 가운데, 2조 위안 시총 돌파는 CATL의 시장 평가가 여전히 견조하다는 점을 보여준다. 향후 CATL의 기술 경쟁력과 시장 지위가 배터리 패권 경쟁의 핵심 변수로 주목된다. 출처: hankyung.com"
-      },
-      "en": {
-        "title": "CATL Tops 2 Trillion Yuan Market Cap as Tech Lead Strengthens Battery Grip",
-        "excerpt": "CATL has surpassed a market capitalization of 2 trillion yuan despite concerns over a battery market “chasm,” hankyung.com reported, underscoring its push to reinforce battery leadership through a technology gap.",
-        "body": "CATL has crossed a market capitalization of 2 trillion yuan, overcoming concerns about a “chasm” in the battery market, according to hankyung.com. The report said CATL is moving to cement its leadership in the battery industry on the back of a wide technology gap. At a time when concerns persist over slowing growth in electric vehicles and batteries, the 2 trillion yuan valuation signals that market confidence in CATL remains firm. Its technology competitiveness and market position are expected to remain key factors in the battery leadership race. Source: hankyung.com"
-      },
-      "ja": {
-        "title": "CATL時価総額2兆元突破、技術優位で電池覇権を強化へ",
-        "excerpt": "CATLが電池市場の「キャズム」懸念を越え、時価総額2兆元を突破したとhankyung.comが報じた。技術面の大きな優位性を背景に、電池覇権を固める動きだ。",
-        "body": "CATLが電池市場の「キャズム」懸念を乗り越え、時価総額2兆元を突破したとhankyung.comが報じた。報道によると、CATLは技術面での大きな優位性を基盤に、電池産業での主導権を固める流れを見せている。電気自動車と電池市場で成長鈍化への懸念が出るなか、2兆元の時価総額突破はCATLへの市場評価がなお堅調であることを示す。今後、同社の技術競争力と市場地位が電池覇権競争の重要な変数として注目される。出所: hankyung.com"
-      },
-      "zh": {
-        "title": "CATL市值突破2万亿元，凭技术领先巩固电池主导权",
-        "excerpt": "据hankyung.com报道，CATL突破电池市场“鸿沟”担忧，市值超过2万亿元人民币。公司正凭借技术超前优势，进一步巩固电池产业主导地位。",
-        "body": "据hankyung.com报道，CATL克服电池市场“鸿沟”担忧，市值突破2万亿元人民币。报道称，CATL正以技术超前优势为基础，巩固其在电池产业中的主导地位。在电动汽车和电池市场增长放缓担忧持续出现的背景下，市值突破2万亿元显示出市场对CATL的评价依然稳健。未来，CATL的技术竞争力和市场地位将继续成为电池主导权竞争中的关键变量。来源: hankyung.com"
-      },
-      "es": {
-        "title": "CATL supera 2 billones de yuanes en valor y afianza su dominio en baterías",
-        "excerpt": "CATL superó los 2 billones de yuanes de capitalización pese a las preocupaciones por un “abismo” en el mercado de baterías, informó hankyung.com, reforzando su liderazgo tecnológico.",
-        "body": "CATL superó una capitalización bursátil de 2 billones de yuanes tras dejar atrás las preocupaciones por un “abismo” en el mercado de baterías, según informó hankyung.com. De acuerdo con el reporte, la compañía busca consolidar su liderazgo en la industria de baterías apoyándose en una amplia ventaja tecnológica. En un contexto de inquietud por la desaceleración del crecimiento en vehículos eléctricos y baterías, el hito de 2 billones de yuanes muestra que la valoración del mercado sobre CATL sigue siendo sólida. Su competitividad tecnológica y posición de mercado seguirán siendo factores clave en la pugna por el dominio de las baterías. Fuente: hankyung.com"
-      },
-      "pt": {
-        "title": "CATL supera 2 trilhões de yuans e reforça liderança em baterias",
-        "excerpt": "A CATL ultrapassou 2 trilhões de yuans em valor de mercado apesar das preocupações com um “abismo” no setor de baterias, informou hankyung.com, apoiada por sua vantagem tecnológica.",
-        "body": "A CATL ultrapassou uma capitalização de mercado de 2 trilhões de yuans, superando preocupações com um “abismo” no mercado de baterias, segundo o hankyung.com. De acordo com a reportagem, a empresa vem consolidando sua liderança na indústria de baterias com base em uma ampla vantagem tecnológica. Em meio a temores de desaceleração no crescimento dos veículos elétricos e das baterias, o marco de 2 trilhões de yuans mostra que a avaliação do mercado sobre a CATL continua firme. Sua competitividade tecnológica e posição de mercado devem seguir como fatores centrais na disputa pela liderança em baterias. Fonte: hankyung.com"
-      },
-      "de": {
-        "title": "CATL überschreitet 2 Billionen Yuan Börsenwert und stärkt Batterieführung",
-        "excerpt": "CATL hat trotz Sorgen über eine „Chasm“-Phase im Batteriemarkt einen Börsenwert von 2 Billionen Yuan überschritten, berichtete hankyung.com. Technologischer Vorsprung stützt die Führungsposition.",
-        "body": "CATL hat einen Börsenwert von 2 Billionen Yuan überschritten und damit Sorgen über eine „Chasm“-Phase im Batteriemarkt überwunden, berichtete hankyung.com. Dem Bericht zufolge festigt CATL seine Führungsrolle in der Batterieindustrie auf Basis eines deutlichen technologischen Vorsprungs. Während im Markt für Elektrofahrzeuge und Batterien Bedenken über eine Wachstumsverlangsamung bestehen, zeigt der Sprung über 2 Billionen Yuan, dass die Marktbewertung von CATL weiterhin robust ist. Die technologische Wettbewerbsfähigkeit und Marktposition des Unternehmens bleiben zentrale Faktoren im Wettbewerb um die Batterieführung. Quelle: hankyung.com"
-      },
-      "fr": {
-        "title": "CATL dépasse 2 000 milliards de yuans et renforce son emprise sur les batteries",
-        "excerpt": "CATL a dépassé 2 000 milliards de yuans de capitalisation malgré les craintes de “chasm” sur le marché des batteries, a rapporté hankyung.com, porté par son avance technologique.",
-        "body": "CATL a franchi le seuil de 2 000 milliards de yuans de capitalisation boursière en surmontant les inquiétudes liées à un “chasm” sur le marché des batteries, selon hankyung.com. D’après le média, CATL consolide sa position dominante dans l’industrie des batteries grâce à un large avantage technologique. Alors que des craintes de ralentissement pèsent sur les véhicules électriques et les batteries, ce seuil montre que l’évaluation du marché à l’égard de CATL reste solide. Sa compétitivité technologique et sa position de marché devraient rester des variables clés dans la course à la domination des batteries. Source: hankyung.com"
-      },
-      "ar": {
-        "title": "CATL تتجاوز قيمة سوقية قدرها 2 تريليون يوان وتعزز هيمنتها في البطاريات",
-        "excerpt": "أفاد موقع hankyung.com بأن CATL تجاوزت مخاوف “الفجوة” في سوق البطاريات وبلغت قيمتها السوقية أكثر من 2 تريليون يوان، مستندة إلى تفوق تقني يعزز موقعها القيادي.",
-        "body": "تجاوزت CATL قيمة سوقية قدرها 2 تريليون يوان بعد تخطي مخاوف “الفجوة” في سوق البطاريات، بحسب ما أفاد موقع hankyung.com. ووفق التقرير، تمضي الشركة في ترسيخ قيادتها داخل صناعة البطاريات اعتمادا على تفوق تقني واسع. وفي ظل مخاوف من تباطؤ النمو في سوق السيارات الكهربائية والبطاريات، يعكس تجاوز قيمة 2 تريليون يوان أن تقييم السوق لـ CATL لا يزال قويا. ومن المتوقع أن تظل قدرتها التكنولوجية ومكانتها السوقية عاملين رئيسيين في المنافسة على هيمنة البطاريات. المصدر: hankyung.com"
-      },
-      "hi": {
-        "title": "CATL का बाजार मूल्य 2 ट्रिलियन युआन पार, तकनीकी बढ़त से बैटरी प्रभुत्व मजबूत",
-        "excerpt": "hankyung.com के अनुसार CATL ने बैटरी बाजार की “चैज़्म” चिंता को पार करते हुए 2 ट्रिलियन युआन से अधिक बाजार मूल्य हासिल किया, जिससे उसकी तकनीकी बढ़त और नेतृत्व रेखांकित हुआ।",
-        "body": "hankyung.com के अनुसार CATL ने बैटरी बाजार की “चैज़्म” चिंता को पार करते हुए 2 ट्रिलियन युआन का बाजार पूंजीकरण हासिल किया। रिपोर्ट के मुताबिक कंपनी तकनीकी बढ़त के आधार पर बैटरी उद्योग में अपनी नेतृत्व स्थिति मजबूत कर रही है। इलेक्ट्रिक वाहन और बैटरी बाजार में वृद्धि धीमी होने की चिंता के बीच 2 ट्रिलियन युआन का स्तर दिखाता है कि CATL को लेकर बाजार का मूल्यांकन अब भी मजबूत है। आगे कंपनी की तकनीकी प्रतिस्पर्धा और बाजार स्थिति बैटरी प्रभुत्व की दौड़ में अहम कारक रहेंगी। स्रोत: hankyung.com"
-      },
-      "id": {
-        "title": "CATL Tembus Kapitalisasi 2 Triliun Yuan, Perkuat Dominasi Baterai",
-        "excerpt": "CATL menembus kapitalisasi pasar 2 triliun yuan meski ada kekhawatiran “chasm” di pasar baterai, lapor hankyung.com. Keunggulan teknologi menjadi dasar penguatan posisinya.",
-        "body": "CATL menembus kapitalisasi pasar 2 triliun yuan setelah melewati kekhawatiran “chasm” di pasar baterai, menurut laporan hankyung.com. Laporan tersebut menyebut CATL sedang memperkuat kepemimpinannya di industri baterai dengan mengandalkan keunggulan teknologi yang lebar. Di tengah kekhawatiran perlambatan pertumbuhan pada pasar kendaraan listrik dan baterai, pencapaian 2 triliun yuan menunjukkan penilaian pasar terhadap CATL tetap kuat. Daya saing teknologi dan posisi pasarnya akan tetap menjadi faktor utama dalam persaingan dominasi baterai. Sumber: hankyung.com"
-      }
-    }
-  },
-  {
-    "id": "11e5772ff12a",
-    "slug": "삼전만-폭등한-게-아니었네무더기-상한가-이유-알고보니-분석-107198",
-    "channelId": "ETF",
-    "category": "etf",
-    "publishedAt": "2026-05-06T22:13:01.402Z",
-    "updatedAt": "2026-05-06T22:13:01.402Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/2026050692366",
-    "canonicalUrl": "https://www.hankyung.com/article/2026050692366",
-    "titleFingerprint": "b93603d84f459c495ce84fa56a1e89b61055e061",
-    "dedupKeys": [
-      "11e5772ff12ac5e76b631cfdac184b43022f727e",
-      "b93603d84f459c495ce84fa56a1e89b61055e061",
-      "5895c4a4c5ce0bb906dc01990f21b458f10db3b7"
-    ],
-    "imageUrl": "/images/articles/11e5772ff12a.jpg",
-    "i18n": {
-      "ko": {
-        "title": "유리기판주 무더기 상한가, 애플·삼성전자·인텔 협력 기대가 불붙였다",
-        "excerpt": "6일 한국 증시에서 SKC와 HB테크놀러지 등 유리기판 관련주가 애플·삼성전자·인텔 협력 논의와 차세대 칩 적용 기대감에 동반 급등했다.",
-        "body": "6일 한국 증시에서 유리기판 테마주가 동반 급등했다. 한국거래소에 따르면 SKC는 전일 대비 30.00% 오른 16만1200원, HB테크놀러지는 29.89% 오른 4020원에 마감했다. 애플이 칩 공급 부족 대응을 위해 삼성전자 및 인텔과 협력 방안을 논의했다는 소식이 투자심리를 자극했다. SKC 자회사 앱솔릭스는 미국 조지아주에 유리기판 생산시설을 구축했고, AMD와 아마존웹서비스(AWS) 등이 시제품을 테스트 중인 것으로 전해졌다. 와이씨켐, 필옵틱스, 제이앤티씨, 켐트로닉스, 한빛레이저도 급등했다. 인텔은 간밤 뉴욕증시에서 12.95% 올랐고, 삼성전자는 이날 14.41% 상승했다. 유리기판은 AI 반도체 고도화의 핵심 소재로 주목받지만 가공 난도가 높다는 점도 변수다. 출처: hankyung.com."
-      },
-      "en": {
-        "title": "Glass Substrate Stocks Hit Limits as Apple, Samsung and Intel Hopes Rise",
-        "excerpt": "On May 6, Korean glass substrate stocks including SKC and HB Technology surged as talks involving Apple, Samsung Electronics and Intel lifted hopes for next-generation chips.",
-        "body": "On May 6, glass substrate-themed stocks surged together in the Korean market. According to the Korea Exchange, SKC closed at 161,200 won, up 30.00% from the previous session, while HB Technology ended at 4,020 won, up 29.89%. Investor sentiment was stirred by reports that Apple had discussed cooperation with Samsung Electronics and Intel to address chip supply shortages. SKC subsidiary Absolics has built a glass substrate production facility in Georgia, U.S., and prototypes are reportedly being tested by AMD and Amazon Web Services (AWS). YC Chem, Philoptics, JNTC, Chemtronics and Hanbit Laser also jumped. Intel rose 12.95% overnight in New York, and Samsung Electronics gained 14.41% in Korea. Glass substrates are drawing attention as a key material for advanced AI semiconductors, though high processing difficulty remains a variable. Source: hankyung.com."
-      },
-      "ja": {
-        "title": "ガラス基板株が一斉急騰、アップル・サムスン・インテル協力期待で",
-        "excerpt": "6日の韓国市場でSKCやHBテクノロジーなどガラス基板関連株が、アップル・サムスン電子・インテルの協力協議と次世代チップ期待で急騰した。",
-        "body": "6日の韓国株式市場で、ガラス基板テーマ株がそろって急騰した。韓国取引所によると、SKCは前日比30.00%高の16万1200ウォン、HBテクノロジーは29.89%高の4020ウォンで取引を終えた。アップルがチップ供給不足への対応としてサムスン電子やインテルと協力策を協議したとの報道が投資心理を刺激した。SKC子会社のAbsolicsは米ジョージア州にガラス基板生産施設を構築し、AMDやアマゾン・ウェブ・サービス（AWS）などが試作品をテスト中と伝えられている。YC Chem、Philoptics、JNTC、Chemtronics、Hanbit Laserも急騰した。インテルは前夜のニューヨーク市場で12.95%上昇し、サムスン電子もこの日14.41%高となった。ガラス基板はAI半導体高度化の中核素材として注目される一方、加工難度の高さが変数だ。出典: hankyung.com."
-      },
-      "zh": {
-        "title": "玻璃基板股集体涨停，苹果、三星电子与英特尔合作预期升温",
-        "excerpt": "5月6日，韩国股市中SKC、HB Technology等玻璃基板相关股因苹果、三星电子与英特尔合作讨论及下一代芯片预期而集体大涨。",
-        "body": "5月6日，韩国股市玻璃基板概念股集体大涨。韩国交易所数据显示，SKC较前一交易日上涨30.00%，收于161200韩元；HB Technology上涨29.89%，收于4020韩元。报道称，苹果为应对芯片供应短缺，与三星电子及英特尔讨论合作方案，这一消息提振了投资情绪。SKC子公司Absolics已在美国佐治亚州建设玻璃基板生产设施，其样品据称正由AMD和亚马逊云科技（AWS）等进行性能测试。YC Chem、Philoptics、JNTC、Chemtronics和Hanbit Laser也大幅上涨。英特尔隔夜在纽约股市上涨12.95%，三星电子当日在韩国市场上涨14.41%。玻璃基板被视为AI半导体升级的关键材料，但加工难度较高仍是变量。来源: hankyung.com."
-      },
-      "es": {
-        "title": "Acciones de sustratos de vidrio se disparan por expectativas Apple-Samsung-Intel",
-        "excerpt": "El 6 de mayo, SKC, HB Technology y otras acciones coreanas de sustratos de vidrio subieron con fuerza por conversaciones entre Apple, Samsung Electronics e Intel.",
-        "body": "El 6 de mayo, las acciones coreanas vinculadas a sustratos de vidrio subieron de forma generalizada. Según la Bolsa de Corea, SKC cerró en 161.200 wones, un 30,00% más que la sesión anterior, y HB Technology terminó en 4.020 wones, un 29,89% más. El ánimo inversor fue impulsado por informes de que Apple discutió opciones de cooperación con Samsung Electronics e Intel para responder a la escasez de chips. Absolics, filial de SKC, construyó una planta de producción de sustratos de vidrio en Georgia, EE. UU., y sus prototipos estarían siendo probados por AMD y Amazon Web Services (AWS). YC Chem, Philoptics, JNTC, Chemtronics y Hanbit Laser también se dispararon. Intel subió un 12,95% durante la noche en Nueva York y Samsung Electronics ganó un 14,41% en Corea. Los sustratos de vidrio atraen atención como material clave para semiconductores de IA avanzados, aunque su alta dificultad de procesamiento sigue siendo un factor de riesgo. Fuente: hankyung.com."
-      },
-      "pt": {
-        "title": "Ações de substrato de vidro disparam com expectativa Apple, Samsung e Intel",
-        "excerpt": "Em 6 de maio, SKC, HB Technology e outras ações coreanas ligadas a substratos de vidro subiram forte após notícias sobre conversas entre Apple, Samsung Electronics e Intel.",
-        "body": "Em 6 de maio, ações coreanas ligadas ao tema de substratos de vidro avançaram em conjunto. Segundo a Bolsa da Coreia, a SKC fechou a 161.200 wons, alta de 30,00% ante o pregão anterior, enquanto a HB Technology terminou a 4.020 wons, alta de 29,89%. O sentimento dos investidores foi estimulado por notícias de que a Apple discutiu cooperação com a Samsung Electronics e a Intel para enfrentar a escassez de chips. A Absolics, subsidiária da SKC, construiu uma instalação de produção de substratos de vidro na Geórgia, EUA, e protótipos estariam sendo testados por AMD e Amazon Web Services (AWS). YC Chem, Philoptics, JNTC, Chemtronics e Hanbit Laser também dispararam. A Intel subiu 12,95% durante a noite em Nova York, e a Samsung Electronics avançou 14,41% na Coreia. Substratos de vidro ganham atenção como material-chave para semicondutores de IA, embora a alta dificuldade de processamento siga como variável. Fonte: hankyung.com."
-      },
-      "de": {
-        "title": "Glas-Substrat-Aktien springen wegen Apple-, Samsung- und Intel-Fantasie an",
-        "excerpt": "Am 6. Mai legten koreanische Glas-Substrat-Aktien wie SKC und HB Technology stark zu, nachdem Gespräche zwischen Apple, Samsung Electronics und Intel bekannt wurden.",
-        "body": "Am 6. Mai sind koreanische Aktien aus dem Bereich Glas-Substrate gemeinsam kräftig gestiegen. Nach Angaben der Korea Exchange schloss SKC mit einem Plus von 30,00% bei 161.200 Won, HB Technology gewann 29,89% auf 4.020 Won. Die Anlegerstimmung wurde durch Berichte befeuert, wonach Apple wegen Chip-Lieferengpässen Kooperationsmöglichkeiten mit Samsung Electronics und Intel besprochen hat. Die SKC-Tochter Absolics hat im US-Bundesstaat Georgia eine Produktionsanlage für Glas-Substrate errichtet; Prototypen werden Berichten zufolge von AMD und Amazon Web Services (AWS) getestet. Auch YC Chem, Philoptics, JNTC, Chemtronics und Hanbit Laser legten stark zu. Intel stieg über Nacht in New York um 12,95%, Samsung Electronics gewann in Korea 14,41%. Glas-Substrate gelten als Schlüsselmaterial für fortgeschrittene KI-Halbleiter, doch die schwierige Verarbeitung bleibt ein Faktor. Quelle: hankyung.com."
-      },
-      "fr": {
-        "title": "Les actions de substrats en verre bondissent avec l’espoir Apple-Samsung-Intel",
-        "excerpt": "Le 6 mai, SKC, HB Technology et d’autres valeurs coréennes liées aux substrats en verre ont bondi après des discussions évoquées entre Apple, Samsung Electronics et Intel.",
-        "body": "Le 6 mai, les valeurs coréennes liées aux substrats en verre ont fortement progressé ensemble. Selon la Korea Exchange, SKC a clôturé à 161 200 wons, en hausse de 30,00% sur la séance précédente, tandis que HB Technology a terminé à 4 020 wons, en hausse de 29,89%. Le sentiment des investisseurs a été stimulé par des informations selon lesquelles Apple aurait discuté de coopérations avec Samsung Electronics et Intel afin de répondre aux pénuries de puces. Absolics, filiale de SKC, a construit une usine de production de substrats en verre en Géorgie, aux États-Unis, et ses prototypes seraient testés par AMD et Amazon Web Services (AWS). YC Chem, Philoptics, JNTC, Chemtronics et Hanbit Laser ont aussi bondi. Intel a gagné 12,95% à New York la veille au soir, et Samsung Electronics a progressé de 14,41% en Corée. Les substrats en verre attirent l’attention comme matériau clé pour les semi-conducteurs d’IA avancés, mais leur traitement difficile reste un facteur à surveiller. Source: hankyung.com."
-      },
-      "ar": {
-        "title": "أسهم ركائز الزجاج تقفز مع آمال تعاون آبل وسامسونغ وإنتل",
-        "excerpt": "في 6 مايو، قفزت أسهم كورية مرتبطة بركائز الزجاج مثل SKC وHB Technology بعد أنباء عن مناقشات تعاون بين آبل وسامسونغ إلكترونيكس وإنتل للرقائق المقبلة.",
-        "body": "في 6 مايو، ارتفعت أسهم كورية مرتبطة بموضوع ركائز الزجاج بشكل جماعي. ووفق بورصة كوريا، أغلقت SKC عند 161200 وون بزيادة 30.00% عن الجلسة السابقة، بينما أغلقت HB Technology عند 4020 وون بزيادة 29.89%. وجاء تحسن معنويات المستثمرين بعد تقارير أفادت بأن آبل ناقشت سبل التعاون مع سامسونغ إلكترونيكس وإنتل لمعالجة نقص إمدادات الرقائق. وأنشأت Absolics، التابعة لـSKC، منشأة لإنتاج ركائز الزجاج في ولاية جورجيا الأميركية، ويقال إن AMD وأمازون ويب سيرفيسز (AWS) تختبران نماذجها الأولية. كما قفزت YC Chem وPhiloptics وJNTC وChemtronics وHanbit Laser. وارتفعت إنتل 12.95% في بورصة نيويورك خلال الليل، فيما صعدت سامسونغ إلكترونيكس 14.41% في كوريا. وتحظى ركائز الزجاج باهتمام كمادة رئيسية لتطوير أشباه موصلات الذكاء الاصطناعي، لكن صعوبة معالجتها تبقى عاملا مهما. المصدر: hankyung.com."
-      },
-      "hi": {
-        "title": "ग्लास सब्सट्रेट शेयरों में उछाल, Apple-Samsung-Intel सहयोग उम्मीद से तेजी",
-        "excerpt": "6 मई को SKC और HB Technology सहित कोरियाई ग्लास सब्सट्रेट शेयर Apple, Samsung Electronics और Intel की सहयोग चर्चा और अगली पीढ़ी के चिप्स की उम्मीद से चढ़े।",
-        "body": "6 मई को कोरियाई बाजार में ग्लास सब्सट्रेट थीम वाले शेयरों में सामूहिक तेजी आई। Korea Exchange के अनुसार, SKC पिछले सत्र से 30.00% बढ़कर 161,200 वॉन पर बंद हुआ, जबकि HB Technology 29.89% बढ़कर 4,020 वॉन पर बंद हुआ। निवेश धारणा को उन खबरों से बल मिला कि Apple ने चिप आपूर्ति की कमी से निपटने के लिए Samsung Electronics और Intel के साथ सहयोग विकल्पों पर चर्चा की। SKC की सहायक कंपनी Absolics ने अमेरिका के जॉर्जिया में ग्लास सब्सट्रेट उत्पादन सुविधा बनाई है, और उसके प्रोटोटाइप का परीक्षण AMD तथा Amazon Web Services (AWS) द्वारा किए जाने की बात कही गई। YC Chem, Philoptics, JNTC, Chemtronics और Hanbit Laser में भी तेज उछाल आया। Intel न्यूयॉर्क में रातोंरात 12.95% चढ़ा और Samsung Electronics कोरिया में 14.41% बढ़ा। ग्लास सब्सट्रेट AI सेमीकंडक्टर उन्नयन की प्रमुख सामग्री के रूप में ध्यान खींच रहा है, हालांकि इसकी ऊंची प्रोसेसिंग कठिनाई एक अहम कारक है। स्रोत: hankyung.com."
-      },
-      "id": {
-        "title": "Saham Substrat Kaca Melonjak, Dipicu Harapan Apple-Samsung-Intel",
-        "excerpt": "Pada 6 Mei, saham Korea terkait substrat kaca seperti SKC dan HB Technology melonjak setelah kabar pembicaraan kerja sama Apple, Samsung Electronics, dan Intel.",
-        "body": "Pada 6 Mei, saham bertema substrat kaca di pasar Korea naik bersama-sama. Menurut Korea Exchange, SKC ditutup di 161.200 won, naik 30,00% dari sesi sebelumnya, sementara HB Technology berakhir di 4.020 won, naik 29,89%. Sentimen investor terdorong oleh laporan bahwa Apple membahas opsi kerja sama dengan Samsung Electronics dan Intel untuk merespons kekurangan pasokan chip. Anak usaha SKC, Absolics, telah membangun fasilitas produksi substrat kaca di Georgia, AS, dan prototipenya dilaporkan sedang diuji oleh AMD serta Amazon Web Services (AWS). YC Chem, Philoptics, JNTC, Chemtronics, dan Hanbit Laser juga melonjak. Intel naik 12,95% semalam di New York, sedangkan Samsung Electronics menguat 14,41% di Korea. Substrat kaca menarik perhatian sebagai material kunci untuk pengembangan semikonduktor AI, meski tingkat kesulitan pemrosesan yang tinggi tetap menjadi faktor penting. Sumber: hankyung.com."
       }
     }
   }
