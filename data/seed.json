@@ -1,5 +1,230 @@
 [
   {
+    "id": "d1f240fca3b6",
+    "slug": "미래에셋증권-알고리즘이-글로벌-자산에-분산투자맞춤-관리-978084",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-05-07T22:04:01.297Z",
+    "updatedAt": "2026-05-07T22:04:01.297Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/2026050707931",
+    "canonicalUrl": "https://www.hankyung.com/article/2026050707931",
+    "titleFingerprint": "d793e012ae5a4adbcc0ec2f5b53571f47aca6804",
+    "dedupKeys": [
+      "d1f240fca3b6326df6039acc26a96a36576884bc",
+      "d793e012ae5a4adbcc0ec2f5b53571f47aca6804",
+      "fe9a0e9d677ab4f4b604107cd07a08468a4fc24f"
+    ],
+    "imageUrl": "/images/articles/d1f240fca3b6.jpg",
+    "i18n": {
+      "ko": {
+        "title": "미래에셋증권 알고리즘 투자, 글로벌 자산 분산·맞춤 관리 주목",
+        "excerpt": "미래에셋증권은 알고리즘을 활용해 글로벌 자산에 분산투자하고 투자자별 맞춤 관리를 제공하는 자산관리 방식을 소개했다.",
+        "body": "미래에셋증권이 알고리즘을 활용해 글로벌 자산에 분산투자하고 투자자별 맞춤 관리를 제공하는 자산관리 방식을 소개했다. 이번 내용은 투자 판단과 운용 관리 과정에 알고리즘을 적용해 국내외 자산을 나누어 담고, 개인별 투자 성향과 관리 필요에 맞춘 서비스를 제공한다는 점에 초점이 맞춰졌다. 글로벌 자산 배분은 특정 시장이나 자산군에 집중되는 부담을 줄이는 방식으로 언급됐다. 알고리즘 기반 관리는 투자자가 직접 모든 시장을 점검하기 어려운 환경에서 맞춤형 관리 수요와 연결된다. 향후 관련 서비스는 분산투자와 개인화 관리에 관심 있는 투자자에게 선택지로 제시될 전망이다. 출처: hankyung.com"
+      },
+      "en": {
+        "title": "Mirae Asset Securities Algorithm Investing Highlights Global Diversification",
+        "excerpt": "Mirae Asset Securities introduced an algorithm-based asset management approach that diversifies across global assets and offers tailored investor management.",
+        "body": "Mirae Asset Securities introduced an asset management approach that uses algorithms to diversify investments across global assets and provide tailored management for each investor. The report focuses on applying algorithms to investment decisions and portfolio management, spreading exposure across domestic and overseas assets while offering services aligned with individual investment tendencies and management needs. Global asset allocation was presented as a way to reduce the burden of concentration in a single market or asset class. Algorithm-based management is linked to demand for personalized oversight in an environment where investors may find it difficult to monitor every market directly. The service is expected to be positioned as an option for investors interested in diversification and personalized management. Source: hankyung.com"
+      },
+      "ja": {
+        "title": "未来アセット証券のアルゴリズム投資、世界資産分散と個別管理に注目",
+        "excerpt": "未来アセット証券は、アルゴリズムを活用して世界の資産に分散投資し、投資家別にカスタム管理を行う資産管理方式を紹介した。",
+        "body": "未来アセット証券は、アルゴリズムを活用して世界の資産に分散投資し、投資家ごとにカスタム管理を提供する資産管理方式を紹介した。今回の内容は、投資判断と運用管理の過程にアルゴリズムを適用し、国内外の資産を分けて組み入れ、個人の投資傾向と管理ニーズに合わせたサービスを提供する点に焦点が置かれている。グローバル資産配分は、特定の市場や資産クラスに集中する負担を減らす方法として言及された。アルゴリズム基盤の管理は、投資家がすべての市場を直接点検することが難しい環境で、個別管理への需要と結びつく。今後、同サービスは分散投資と個人化管理に関心を持つ投資家の選択肢として提示される見通しだ。出典: hankyung.com"
+      },
+      "zh": {
+        "title": "未来资产证券算法投资受关注，分散配置全球资产并定制管理",
+        "excerpt": "未来资产证券介绍了利用算法分散投资全球资产、并按投资者需求提供定制化管理的资产管理方式。",
+        "body": "未来资产证券介绍了一种利用算法分散投资全球资产、并为不同投资者提供定制化管理的资产管理方式。相关内容聚焦于在投资判断和运营管理过程中应用算法，将国内外资产进行分散配置，并根据个人投资倾向和管理需求提供服务。全球资产配置被提及为降低过度集中于特定市场或资产类别负担的一种方式。基于算法的管理，也与投资者难以直接检查所有市场的环境下，对个性化管理的需求相连接。未来，该服务预计将作为关注分散投资和个性化管理的投资者的一项选择。来源: hankyung.com"
+      },
+      "es": {
+        "title": "Mirae Asset Securities impulsa inversión algorítmica en activos globales",
+        "excerpt": "Mirae Asset Securities presentó un modelo de gestión que usa algoritmos para diversificar en activos globales y ofrecer administración personalizada.",
+        "body": "Mirae Asset Securities presentó un enfoque de gestión patrimonial que utiliza algoritmos para diversificar inversiones en activos globales y ofrecer administración personalizada para cada inversor. El contenido se centra en aplicar algoritmos al proceso de decisión de inversión y gestión operativa, distribuyendo activos nacionales e internacionales y ofreciendo servicios ajustados a la tendencia de inversión y las necesidades de gestión de cada persona. La asignación global de activos fue mencionada como una forma de reducir la carga de concentración en un mercado o clase de activo específico. La gestión basada en algoritmos se vincula con la demanda de supervisión personalizada en un entorno donde a los inversores les resulta difícil revisar todos los mercados directamente. El servicio se perfila como una opción para quienes buscan diversificación y gestión individualizada. Fuente: hankyung.com"
+      },
+      "pt": {
+        "title": "Mirae Asset Securities destaca investimento algorítmico em ativos globais",
+        "excerpt": "A Mirae Asset Securities apresentou uma gestão com algoritmos para diversificar em ativos globais e oferecer acompanhamento personalizado.",
+        "body": "A Mirae Asset Securities apresentou uma abordagem de gestão de patrimônio que usa algoritmos para diversificar investimentos em ativos globais e oferecer gestão personalizada para cada investidor. O conteúdo destaca a aplicação de algoritmos ao processo de decisão de investimento e de gestão, distribuindo ativos nacionais e internacionais e oferecendo serviços alinhados ao perfil de investimento e às necessidades de acompanhamento de cada pessoa. A alocação global de ativos foi mencionada como uma forma de reduzir a concentração em um mercado ou classe de ativos específica. A gestão baseada em algoritmos se conecta à demanda por acompanhamento personalizado em um ambiente no qual investidores têm dificuldade para monitorar diretamente todos os mercados. O serviço tende a ser apresentado como opção para quem busca diversificação e gestão individualizada. Fonte: hankyung.com"
+      },
+      "de": {
+        "title": "Mirae Asset Securities setzt auf Algorithmus-Investments in globale Anlagen",
+        "excerpt": "Mirae Asset Securities stellte einen algorithmusbasierten Ansatz vor, der global diversifiziert und Anleger individuell betreut.",
+        "body": "Mirae Asset Securities stellte einen Vermögensverwaltungsansatz vor, der Algorithmen nutzt, um in globale Anlagen zu diversifizieren und Anleger individuell zu betreuen. Der Bericht konzentriert sich darauf, Algorithmen in Anlageentscheidungen und Verwaltungsprozesse einzubinden, inländische und ausländische Anlagen aufzuteilen und Dienstleistungen an persönliche Anlagepräferenzen sowie Verwaltungsbedürfnisse anzupassen. Globale Asset-Allokation wurde als Möglichkeit genannt, die Belastung durch Konzentration auf einen bestimmten Markt oder eine Anlageklasse zu verringern. Algorithmusbasierte Verwaltung steht zudem im Zusammenhang mit der Nachfrage nach personalisierter Betreuung in einem Umfeld, in dem Anleger nicht alle Märkte selbst überwachen können. Der Service dürfte als Option für Anleger positioniert werden, die Diversifikation und individuelle Verwaltung suchen. Quelle: hankyung.com"
+      },
+      "fr": {
+        "title": "Mirae Asset Securities mise sur l’algorithme pour diversifier mondialement",
+        "excerpt": "Mirae Asset Securities a présenté une gestion fondée sur des algorithmes pour diversifier les actifs mondiaux et personnaliser le suivi.",
+        "body": "Mirae Asset Securities a présenté une approche de gestion d’actifs qui utilise des algorithmes pour investir de façon diversifiée dans des actifs mondiaux et proposer une gestion adaptée à chaque investisseur. Le sujet met l’accent sur l’application d’algorithmes aux décisions d’investissement et au suivi de gestion, avec une répartition entre actifs nationaux et internationaux et des services alignés sur les profils d’investissement et les besoins de gestion individuels. L’allocation mondiale d’actifs est évoquée comme un moyen de réduire le poids d’une concentration sur un marché ou une classe d’actifs spécifique. La gestion algorithmique répond aussi à une demande de suivi personnalisé dans un environnement où les investisseurs peuvent difficilement surveiller directement tous les marchés. Ce service devrait être présenté comme une option pour ceux qui s’intéressent à la diversification et à la gestion personnalisée. Source: hankyung.com"
+      },
+      "ar": {
+        "title": "ميراي أسيت سيكيوريتيز تبرز الاستثمار الخوارزمي في الأصول العالمية",
+        "excerpt": "قدمت ميراي أسيت سيكيوريتيز نهجا لإدارة الأصول يستخدم الخوارزميات للتنويع عالميا وتقديم إدارة مخصصة للمستثمرين.",
+        "body": "قدمت ميراي أسيت سيكيوريتيز نهجا لإدارة الأصول يعتمد على الخوارزميات من أجل الاستثمار المتنوع في الأصول العالمية وتقديم إدارة مخصصة لكل مستثمر. ويركز التقرير على إدخال الخوارزميات في قرارات الاستثمار وعمليات الإدارة، مع توزيع الأصول بين الأسواق المحلية والخارجية وتقديم خدمات تتوافق مع توجهات الاستثمار والاحتياجات الإدارية لكل فرد. وجرى ذكر توزيع الأصول عالميا بوصفه وسيلة لتقليل عبء التركيز على سوق محددة أو فئة أصول واحدة. كما ترتبط الإدارة القائمة على الخوارزميات بالطلب على المتابعة الشخصية في بيئة يصعب فيها على المستثمرين مراقبة جميع الأسواق مباشرة. ومن المتوقع طرح هذه الخدمة كخيار للمستثمرين المهتمين بالتنويع والإدارة الشخصية. المصدر: hankyung.com"
+      },
+      "hi": {
+        "title": "मिराए एसेट सिक्योरिटीज का एल्गोरिदमिक निवेश, वैश्विक विविधीकरण पर जोर",
+        "excerpt": "मिराए एसेट सिक्योरिटीज ने एल्गोरिदम आधारित एसेट मैनेजमेंट पेश किया, जो वैश्विक परिसंपत्तियों में विविध निवेश और 맞춤 관리 प्रदान करता है।",
+        "body": "मिराए एसेट सिक्योरिटीज ने ऐसा एसेट मैनेजमेंट तरीका पेश किया है जो एल्गोरिदम का उपयोग कर वैश्विक परिसंपत्तियों में विविध निवेश करता है और प्रत्येक निवेशक के लिए 맞춤 관리 उपलब्ध कराता है। रिपोर्ट का केंद्र निवेश निर्णय और प्रबंधन प्रक्रिया में एल्गोरिदम लागू करना, घरेलू तथा विदेशी परिसंपत्तियों को बांटकर रखना, और व्यक्तिगत निवेश प्रवृत्ति तथा प्रबंधन जरूरतों के अनुरूप सेवा देना है। वैश्विक एसेट आवंटन को किसी एक बाजार या परिसंपत्ति वर्ग पर अधिक निर्भरता घटाने के तरीके के रूप में बताया गया। एल्गोरिदम आधारित प्रबंधन उस माहौल में व्यक्तिगत निगरानी की मांग से जुड़ता है जहां निवेशकों के लिए सभी बाजारों को सीधे देखना कठिन होता है। यह सेवा विविधीकरण और व्यक्तिगत प्रबंधन में रुचि रखने वाले निवेशकों के लिए विकल्प के रूप में सामने आ सकती है। स्रोत: hankyung.com"
+      },
+      "id": {
+        "title": "Mirae Asset Securities Soroti Investasi Algoritmik untuk Aset Global",
+        "excerpt": "Mirae Asset Securities memperkenalkan pengelolaan aset berbasis algoritma untuk diversifikasi aset global dan layanan yang disesuaikan investor.",
+        "body": "Mirae Asset Securities memperkenalkan pendekatan pengelolaan aset yang menggunakan algoritma untuk berinvestasi secara terdiversifikasi pada aset global dan menyediakan pengelolaan yang disesuaikan bagi setiap investor. Informasi ini berfokus pada penerapan algoritma dalam proses keputusan investasi dan manajemen portofolio, dengan membagi aset domestik dan luar negeri serta menawarkan layanan sesuai kecenderungan investasi dan kebutuhan pengelolaan individu. Alokasi aset global disebut sebagai cara untuk mengurangi beban konsentrasi pada pasar atau kelas aset tertentu. Pengelolaan berbasis algoritma juga terkait dengan kebutuhan pengawasan personal di tengah kondisi ketika investor sulit memantau semua pasar secara langsung. Layanan ini diperkirakan menjadi pilihan bagi investor yang tertarik pada diversifikasi dan pengelolaan personal. Sumber: hankyung.com"
+      }
+    }
+  },
+  {
+    "id": "c7cd3327f5e1",
+    "slug": "반도체-투톱-올라탄-월배당-etf투자자-유치-경쟁-불붙었다-175795",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-05-07T22:03:04.102Z",
+    "updatedAt": "2026-05-07T22:03:04.102Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/2026050707921",
+    "canonicalUrl": "https://www.hankyung.com/article/2026050707921",
+    "titleFingerprint": "f47c48a3b1b5067a10a9bbb83cd4fdc6e681e7a2",
+    "dedupKeys": [
+      "c7cd3327f5e1ad32934ed9b2a7976cc46b0de02c",
+      "f47c48a3b1b5067a10a9bbb83cd4fdc6e681e7a2",
+      "7dc0f85455dda12290228b6ff1163ca6b417c1bf"
+    ],
+    "imageUrl": "/images/articles/c7cd3327f5e1.jpg",
+    "i18n": {
+      "ko": {
+        "title": "반도체 월배당 ETF 경쟁 본격화…삼성전자·SK하이닉스 담은 상품 잇단 출시",
+        "excerpt": "2026년 5월 7일 금융투자업계에 따르면 삼성전자·SK하이닉스 등 반도체 대표주를 활용한 월배당 ETF 출시가 이어지며 운용사 간 투자자 유치 경쟁이 치열해지고 있다.",
+        "body": "2026년 5월 7일 금융투자업계에 따르면 삼성전자와 SK하이닉스 등 반도체 대표주에 투자하면서 매월 분배금을 지급하는 상장지수펀드(ETF)가 잇따라 등장하고 있다. AI 열풍으로 반도체 업황 개선 기대가 커진 가운데 시세차익과 현금흐름을 함께 원하는 개인 투자자 수요가 배경이다. 삼성자산운용은 이르면 이달 ‘KODEX 반도체타겟위클리커버드콜’을 출시할 계획이다. 미래에셋자산운용의 ‘TIGER 반도체TOP10커버드콜액티브’는 삼성전자와 SK하이닉스를 약 50% 편입하고, 브이아이자산운용과 키움투자자산운용도 관련 상품을 내놨다. 업계는 옵션 프리미엄과 국내 주식 매도차익 비과세, 변동성 장세 속 인컴 수요가 경쟁을 키울 것으로 본다. 출처: hankyung.com"
+      },
+      "en": {
+        "title": "Monthly Dividend Semiconductor ETF Race Heats Up With Samsung Electronics and SK Hynix Funds",
+        "excerpt": "As of May 7, 2026, asset managers are intensifying competition for investors by launching monthly dividend ETFs tied to semiconductor leaders such as Samsung Electronics and SK Hynix.",
+        "body": "According to the financial investment industry on May 7, 2026, exchange-traded funds that invest in leading semiconductor stocks such as Samsung Electronics and SK Hynix while paying monthly distributions are emerging one after another. The backdrop is rising expectations for a semiconductor upcycle driven by the AI boom and growing demand from individual investors seeking both capital gains and cash flow. Samsung Asset Management plans to launch KODEX Semiconductor Target Weekly Covered Call as early as this month. Mirae Asset Global Investments’ TIGER Semiconductor TOP10 Covered Call Active holds about 50% in Samsung Electronics and SK Hynix, while VI Asset Management and Kiwoom Asset Management have also introduced related products. The industry expects competition to grow due to tax-exempt option premiums and gains on domestic stock sales, along with income demand in volatile markets. Source: hankyung.com"
+      },
+      "ja": {
+        "title": "半導体月配当ETF競争が本格化、サムスン電子・SKハイニックス組み入れ商品相次ぐ",
+        "excerpt": "2026年5月7日、金融投資業界ではサムスン電子やSKハイニックスなど半導体代表株を活用した月配当ETFの投入が続き、投資家獲得競争が激しくなっている。",
+        "body": "2026年5月7日の金融投資業界によると、サムスン電子やSKハイニックスなど半導体代表銘柄に投資しながら毎月分配金を支払う上場投資信託（ETF）が相次いで登場している。AIブームで半導体市況改善への期待が高まる中、値上がり益と現金収入の両方を求める個人投資家の需要が背景にある。サムスン資産運用は早ければ今月、「KODEX半導体ターゲット・ウィークリー・カバードコール」を発売する計画だ。未来アセット資産運用の「TIGER半導体TOP10カバードコールアクティブ」はサムスン電子とSKハイニックスを約50％組み入れており、VI資産運用とキウム投資資産運用も関連商品を投入した。業界では、オプションプレミアムと国内株式売却益の非課税、変動相場でのインカム需要が競争を押し上げると見ている。出典: hankyung.com"
+      },
+      "zh": {
+        "title": "半导体月度分红ETF竞争升温，三星电子与SK海力士相关产品接连推出",
+        "excerpt": "截至2026年5月7日，金融投资行业围绕三星电子、SK海力士等半导体龙头股推出月度分红ETF，资产管理公司争夺投资者的竞争正在加剧。",
+        "body": "据金融投资行业2026年5月7日消息，投资三星电子、SK海力士等半导体代表性股票并每月支付分配金的交易型开放式指数基金（ETF）正陆续出现。背景是AI热潮推高了市场对半导体景气改善的期待，同时个人投资者对资本利得和现金流的需求增加。三星资产管理计划最早于本月推出“KODEX半导体目标每周备兑看涨”。未来资产管理的“TIGER半导体TOP10备兑看涨主动型”约50%配置于三星电子和SK海力士，VI资产管理和Kiwoom投资资产管理也已推出相关产品。业内认为，期权权利金和韩国国内股票卖出收益免税，以及波动市场中的收益型投资需求，将进一步加剧竞争。来源: hankyung.com"
+      },
+      "es": {
+        "title": "Se intensifica la competencia por ETF semiconductores de dividendo mensual con Samsung y SK Hynix",
+        "excerpt": "Al 7 de mayo de 2026, las gestoras compiten por atraer inversores con ETF de dividendo mensual ligados a líderes de semiconductores como Samsung Electronics y SK Hynix.",
+        "body": "Según la industria de inversión financiera el 7 de mayo de 2026, están apareciendo de forma sucesiva ETF que invierten en valores líderes de semiconductores, como Samsung Electronics y SK Hynix, y pagan distribuciones mensuales. El contexto es el aumento de expectativas de mejora del ciclo de semiconductores por el auge de la IA y la mayor demanda de inversores minoristas que buscan tanto ganancias de capital como flujo de efectivo. Samsung Asset Management planea lanzar este mes, como pronto, KODEX Semiconductor Target Weekly Covered Call. El TIGER Semiconductor TOP10 Covered Call Active de Mirae Asset Global Investments mantiene cerca del 50% en Samsung Electronics y SK Hynix, mientras VI Asset Management y Kiwoom Asset Management también han lanzado productos relacionados. El sector prevé que la competencia aumente por las primas de opciones y las ganancias por venta de acciones locales exentas de impuestos, junto con la demanda de ingresos en mercados volátiles. Fuente: hankyung.com"
+      },
+      "pt": {
+        "title": "Competição por ETFs mensais de semicondutores cresce com Samsung Electronics e SK Hynix",
+        "excerpt": "Em 7 de maio de 2026, gestoras intensificam a disputa por investidores ao lançar ETFs de dividendos mensais ligados a líderes de semicondutores como Samsung Electronics e SK Hynix.",
+        "body": "Segundo o setor de investimentos financeiros em 7 de maio de 2026, fundos de índice que investem em ações líderes de semicondutores, como Samsung Electronics e SK Hynix, e pagam distribuições mensais estão surgindo em sequência. O pano de fundo é a expectativa maior de melhora do ciclo de semicondutores com o avanço da IA e a demanda de investidores individuais por ganhos de capital e fluxo de caixa. A Samsung Asset Management planeja lançar ainda este mês, no mínimo, o KODEX Semiconductor Target Weekly Covered Call. O TIGER Semiconductor TOP10 Covered Call Active, da Mirae Asset Global Investments, aloca cerca de 50% em Samsung Electronics e SK Hynix, enquanto VI Asset Management e Kiwoom Asset Management também lançaram produtos relacionados. O setor avalia que a competição deve crescer com prêmios de opções e ganhos na venda de ações domésticas isentos de imposto, além da busca por renda em mercados voláteis. Fonte: hankyung.com"
+      },
+      "de": {
+        "title": "Monatliche Halbleiter-ETFs im Wettbewerb: Produkte mit Samsung Electronics und SK Hynix starten",
+        "excerpt": "Am 7. Mai 2026 melden Branchenkreise, dass Asset Manager mit monatlich ausschüttenden ETFs auf Halbleiterführer wie Samsung Electronics und SK Hynix stärker um Anleger konkurrieren.",
+        "body": "Nach Angaben der Finanzinvestmentbranche vom 7. Mai 2026 kommen zunehmend börsengehandelte Fonds auf den Markt, die in führende Halbleiterwerte wie Samsung Electronics und SK Hynix investieren und monatliche Ausschüttungen zahlen. Hintergrund sind steigende Erwartungen an eine Verbesserung des Halbleiterzyklus durch den KI-Boom sowie die wachsende Nachfrage privater Anleger nach Kursgewinnen und laufendem Cashflow. Samsung Asset Management plant, frühestens in diesem Monat den KODEX Semiconductor Target Weekly Covered Call aufzulegen. Der TIGER Semiconductor TOP10 Covered Call Active von Mirae Asset Global Investments hält rund 50% in Samsung Electronics und SK Hynix; auch VI Asset Management und Kiwoom Asset Management haben verwandte Produkte aufgelegt. Die Branche erwartet mehr Wettbewerb durch steuerfreie Optionsprämien und Gewinne aus Verkäufen koreanischer Aktien sowie durch Income-Nachfrage in volatilen Märkten. Quelle: hankyung.com"
+      },
+      "fr": {
+        "title": "La course aux ETF mensuels sur les semi-conducteurs s’intensifie avec Samsung et SK Hynix",
+        "excerpt": "Au 7 mai 2026, les sociétés de gestion multiplient les ETF à distribution mensuelle liés aux leaders des semi-conducteurs comme Samsung Electronics et SK Hynix, renforçant la concurrence pour attirer les investisseurs.",
+        "body": "Selon le secteur de l’investissement financier le 7 mai 2026, des ETF investissant dans les grandes valeurs des semi-conducteurs, comme Samsung Electronics et SK Hynix, tout en versant des distributions mensuelles apparaissent les uns après les autres. Ce mouvement s’explique par les attentes accrues d’amélioration du cycle des semi-conducteurs avec l’essor de l’IA et par la demande des particuliers recherchant à la fois plus-values et flux de trésorerie. Samsung Asset Management prévoit de lancer dès ce mois-ci le KODEX Semiconductor Target Weekly Covered Call. Le TIGER Semiconductor TOP10 Covered Call Active de Mirae Asset Global Investments détient environ 50% en Samsung Electronics et SK Hynix, tandis que VI Asset Management et Kiwoom Asset Management ont aussi lancé des produits liés. Le secteur estime que les primes d’options et les gains de cession d’actions coréennes exonérés d’impôt, ainsi que la demande de revenu en marché volatil, alimenteront la concurrence. Source: hankyung.com"
+      },
+      "ar": {
+        "title": "احتدام منافسة صناديق ETF الشهرية لأشباه الموصلات مع منتجات سامسونغ وSK هاينكس",
+        "excerpt": "في 7 مايو 2026، تتنافس شركات إدارة الأصول لجذب المستثمرين عبر صناديق ETF بتوزيعات شهرية تعتمد على أسهم أشباه الموصلات الكبرى مثل سامسونغ إلكترونيكس وSK هاينكس.",
+        "body": "وفق قطاع الاستثمار المالي في 7 مايو 2026، تظهر تباعا صناديق مؤشرات متداولة تستثمر في أسهم كبرى في أشباه الموصلات مثل سامسونغ إلكترونيكس وSK هاينكس، مع دفع توزيعات شهرية. يأتي ذلك مع ارتفاع توقعات تحسن دورة أشباه الموصلات بفعل موجة الذكاء الاصطناعي، وزيادة طلب المستثمرين الأفراد على الجمع بين مكاسب الأسعار والتدفق النقدي. تخطط سامسونغ لإدارة الأصول لإطلاق KODEX Semiconductor Target Weekly Covered Call في أقرب وقت خلال هذا الشهر. ويخصص صندوق TIGER Semiconductor TOP10 Covered Call Active التابع لميراى أست نحو 50% لسهمي سامسونغ إلكترونيكس وSK هاينكس، كما طرحت VI لإدارة الأصول وKiwoom لإدارة الأصول الاستثمارية منتجات ذات صلة. ويرى القطاع أن الإعفاء الضريبي على علاوات الخيارات ومكاسب بيع الأسهم المحلية، إلى جانب الطلب على الدخل في الأسواق المتقلبة، سيزيد المنافسة. المصدر: hankyung.com"
+      },
+      "hi": {
+        "title": "सैमसंग और SK हाइनिक्स वाले मासिक डिविडेंड सेमीकंडक्टर ETF में प्रतिस्पर्धा तेज",
+        "excerpt": "7 मई 2026 को वित्तीय निवेश उद्योग के अनुसार, Samsung Electronics और SK Hynix जैसे सेमीकंडक्टर प्रमुख शेयरों पर आधारित मासिक डिविडेंड ETF के जरिए एसेट मैनेजर निवेशकों को आकर्षित करने की दौड़ तेज कर रहे हैं।",
+        "body": "7 मई 2026 को वित्तीय निवेश उद्योग के अनुसार, Samsung Electronics और SK Hynix जैसे प्रमुख सेमीकंडक्टर शेयरों में निवेश करने और हर महीने वितरण देने वाले एक्सचेंज ट्रेडेड फंड यानी ETF लगातार सामने आ रहे हैं। इसकी पृष्ठभूमि AI उछाल से सेमीकंडक्टर चक्र में सुधार की बढ़ती उम्मीद और पूंजीगत लाभ के साथ नकदी प्रवाह चाहने वाले व्यक्तिगत निवेशकों की मांग है। Samsung Asset Management इस महीने जल्द से जल्द KODEX Semiconductor Target Weekly Covered Call लॉन्च करने की योजना में है। Mirae Asset Global Investments का TIGER Semiconductor TOP10 Covered Call Active Samsung Electronics और SK Hynix में लगभग 50% निवेश रखता है, जबकि VI Asset Management और Kiwoom Asset Management ने भी संबंधित उत्पाद पेश किए हैं। उद्योग का मानना है कि विकल्प प्रीमियम और घरेलू शेयर बिक्री लाभ पर कर छूट, तथा अस्थिर बाजार में आय की मांग, प्रतिस्पर्धा को बढ़ाएंगे। स्रोत: hankyung.com"
+      },
+      "id": {
+        "title": "Persaingan ETF Dividen Bulanan Semikonduktor Memanas Lewat Samsung Electronics dan SK Hynix",
+        "excerpt": "Pada 7 Mei 2026, industri investasi keuangan mencatat manajer aset makin bersaing menarik investor lewat ETF dividen bulanan berbasis saham semikonduktor utama seperti Samsung Electronics dan SK Hynix.",
+        "body": "Menurut industri investasi keuangan pada 7 Mei 2026, ETF yang berinvestasi pada saham semikonduktor utama seperti Samsung Electronics dan SK Hynix sekaligus membayar distribusi bulanan terus bermunculan. Latar belakangnya adalah meningkatnya ekspektasi perbaikan siklus semikonduktor akibat tren AI serta naiknya permintaan investor ritel yang menginginkan capital gain dan arus kas. Samsung Asset Management berencana meluncurkan KODEX Semiconductor Target Weekly Covered Call paling cepat bulan ini. TIGER Semiconductor TOP10 Covered Call Active milik Mirae Asset Global Investments menempatkan sekitar 50% portofolio pada Samsung Electronics dan SK Hynix, sementara VI Asset Management dan Kiwoom Asset Management juga telah merilis produk terkait. Industri menilai persaingan akan meningkat karena premi opsi dan keuntungan penjualan saham domestik bebas pajak, serta permintaan income di tengah pasar bergejolak. Sumber: hankyung.com"
+      }
+    }
+  },
+  {
+    "id": "3263ff6cf433",
+    "slug": "스페이스x-특수에도-우주-etf-마이너스-423299",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-05-07T22:01:50.067Z",
+    "updatedAt": "2026-05-07T22:01:50.067Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/2026050707871",
+    "canonicalUrl": "https://www.hankyung.com/article/2026050707871",
+    "titleFingerprint": "f9ed383e99f57750a9a431c36720528e8f781ac5",
+    "dedupKeys": [
+      "3263ff6cf433eb47a200c808a65ded037fc00e79",
+      "f9ed383e99f57750a9a431c36720528e8f781ac5",
+      "28366ee666ce1e68b056c6e50b3c790ed1e8b6a7"
+    ],
+    "imageUrl": "/images/articles/3263ff6cf433.jpg",
+    "i18n": {
+      "ko": {
+        "title": "우주 ETF, 스페이스X 특수에도 수익률 마이너스 기록",
+        "excerpt": "hankyung.com에 따르면 스페이스X 관련 기대감에도 우주 ETF 수익률은 마이너스를 기록해, 우주 산업 테마 투자 성과가 기대와 달리 부진한 흐름을 보였다.",
+        "body": "hankyung.com 보도에 따르면 스페이스X 관련 특수와 우주 산업에 대한 관심에도 우주 ETF는 마이너스 수익률을 기록했다. 이번 내용은 특정 기업 이슈가 테마형 ETF 전체 성과로 곧바로 이어지지 않을 수 있음을 보여준다. 우주 ETF는 스페이스X를 둘러싼 기대감 속에서도 부진한 흐름을 나타냈고, 투자자들은 우주 산업 성장 기대와 ETF 실제 성과 사이의 차이를 확인하게 됐다. 향후 우주 테마 ETF는 관련 기업 이슈뿐 아니라 편입 종목과 시장 흐름에 따라 성과가 달라질 수 있다. 출처: hankyung.com"
+      },
+      "en": {
+        "title": "Space ETF Stays Negative Despite SpaceX-Driven Interest",
+        "excerpt": "According to hankyung.com, space ETFs posted negative returns despite expectations linked to SpaceX, showing that space-themed investment performance remained weak.",
+        "body": "According to hankyung.com, space ETFs recorded negative returns despite SpaceX-related momentum and continued interest in the space industry. The report shows that a single company-related theme does not necessarily translate directly into stronger performance for an entire thematic ETF. Even with expectations surrounding SpaceX, space ETFs remained weak, giving investors a clear example of the gap between growth hopes for the space industry and actual ETF results. Going forward, space-themed ETFs may continue to be influenced not only by company-specific issues but also by holdings and broader market trends. Source: hankyung.com"
+      },
+      "ja": {
+        "title": "宇宙ETF、スペースX特需でもマイナス圏に低迷",
+        "excerpt": "hankyung.comによると、スペースX関連の期待がある中でも宇宙ETFはマイナスリターンとなり、宇宙テーマ投資の成果は伸び悩んだ。",
+        "body": "hankyung.comの報道によると、スペースX関連の特需と宇宙産業への関心にもかかわらず、宇宙ETFはマイナスリターンを記録した。今回の内容は、特定企業をめぐる材料がテーマ型ETF全体の成果にすぐ結び付くとは限らないことを示している。スペースXへの期待がある中でも宇宙ETFは低調な流れを見せ、投資家は宇宙産業の成長期待とETFの実際の成績との差を確認する形となった。今後の宇宙テーマETFは、関連企業の材料だけでなく、組み入れ銘柄や市場全体の流れによって成果が左右される可能性がある。出典: hankyung.com"
+      },
+      "zh": {
+        "title": "太空ETF受SpaceX利好带动仍录得负收益",
+        "excerpt": "据hankyung.com报道，尽管SpaceX相关预期升温，太空ETF收益率仍为负，显示太空产业主题投资表现未能同步改善。",
+        "body": "据hankyung.com报道，尽管存在SpaceX相关利好以及市场对太空产业的关注，太空ETF仍录得负收益。这一情况显示，单一企业相关题材未必会直接转化为整个主题ETF的业绩改善。即便围绕SpaceX的期待持续存在，太空ETF表现仍然低迷，投资者由此看到太空产业成长预期与ETF实际收益之间的差距。展望后续，太空主题ETF的表现可能不仅取决于相关企业消息，也会受到持仓构成和整体市场走势影响。来源: hankyung.com"
+      },
+      "es": {
+        "title": "ETF espaciales caen pese al impulso asociado a SpaceX",
+        "excerpt": "Según hankyung.com, los ETF espaciales registraron rentabilidad negativa pese a las expectativas ligadas a SpaceX, reflejando debilidad en esta inversión temática.",
+        "body": "Según hankyung.com, los ETF espaciales registraron rentabilidad negativa a pesar del interés asociado a SpaceX y de la atención sobre la industria espacial. El caso muestra que una noticia o expectativa vinculada a una empresa concreta no siempre se traduce de forma directa en mejores resultados para todo un ETF temático. Incluso con el impulso alrededor de SpaceX, los ETF espaciales mostraron un desempeño débil, dejando ver la diferencia entre las expectativas de crecimiento del sector espacial y los resultados reales del producto. En adelante, estos ETF pueden depender tanto de las empresas incluidas como del contexto general del mercado. Fuente: hankyung.com"
+      },
+      "pt": {
+        "title": "ETF espaciais seguem negativos apesar do efeito SpaceX",
+        "excerpt": "Segundo hankyung.com, ETFs espaciais tiveram retorno negativo mesmo com expectativas ligadas à SpaceX, mostrando desempenho fraco do tema de investimento.",
+        "body": "Segundo o hankyung.com, os ETFs espaciais registraram retorno negativo apesar do interesse ligado à SpaceX e da atenção ao setor espacial. O caso mostra que um fator relacionado a uma empresa específica não se transforma necessariamente em melhor desempenho para todo um ETF temático. Mesmo com expectativas em torno da SpaceX, os ETFs espaciais continuaram fracos, evidenciando a diferença entre a perspectiva de crescimento da indústria espacial e o resultado efetivo dos fundos. Daqui em diante, o desempenho dos ETFs de tema espacial pode depender não apenas de notícias sobre empresas relacionadas, mas também da composição da carteira e do movimento do mercado. Fonte: hankyung.com"
+      },
+      "de": {
+        "title": "Weltraum-ETFs trotz SpaceX-Sondereffekt im Minus",
+        "excerpt": "Laut hankyung.com verzeichneten Weltraum-ETFs trotz Erwartungen rund um SpaceX negative Renditen und zeigten damit eine schwache Themenperformance.",
+        "body": "Laut hankyung.com haben Weltraum-ETFs trotz eines SpaceX-bezogenen Sondereffekts und des Interesses an der Raumfahrtbranche negative Renditen erzielt. Der Bericht zeigt, dass ein einzelnes unternehmensbezogenes Thema nicht automatisch zu einer besseren Entwicklung eines gesamten Themen-ETFs führt. Auch mit Erwartungen rund um SpaceX blieben Weltraum-ETFs schwach, wodurch Anleger den Abstand zwischen Wachstumsfantasie der Raumfahrtindustrie und tatsächlicher ETF-Performance erkennen konnten. Künftig dürfte die Entwicklung solcher ETFs nicht nur von Nachrichten zu verbundenen Unternehmen, sondern auch von den enthaltenen Titeln und dem Marktumfeld abhängen. Quelle: hankyung.com"
+      },
+      "fr": {
+        "title": "Les ETF spatiaux restent négatifs malgré l’effet SpaceX",
+        "excerpt": "Selon hankyung.com, les ETF spatiaux ont affiché des rendements négatifs malgré les attentes liées à SpaceX, signe d’une performance thématique faible.",
+        "body": "Selon hankyung.com, les ETF spatiaux ont enregistré des rendements négatifs malgré l’effet lié à SpaceX et l’intérêt porté à l’industrie spatiale. Cette situation montre qu’un facteur propre à une entreprise ne se traduit pas forcément par une amélioration immédiate de la performance d’un ETF thématique entier. Même avec les attentes entourant SpaceX, les ETF spatiaux sont restés faibles, mettant en évidence l’écart entre les espoirs de croissance du secteur spatial et les résultats réels des ETF. À l’avenir, ces produits pourraient dépendre non seulement des nouvelles concernant les entreprises liées, mais aussi de leur composition et de la tendance générale du marché. Source: hankyung.com"
+      },
+      "ar": {
+        "title": "صناديق ETF للفضاء تسجل خسائر رغم زخم سبيس إكس",
+        "excerpt": "وفقاً لموقع hankyung.com، سجلت صناديق ETF للفضاء عوائد سلبية رغم التوقعات المرتبطة بسبيس إكس، ما يعكس ضعف أداء الاستثمار الموضوعي.",
+        "body": "وفقاً لما أورده موقع hankyung.com، سجلت صناديق ETF للفضاء عوائد سلبية رغم الزخم المرتبط بسبيس إكس والاهتمام بصناعة الفضاء. وتوضح هذه النتيجة أن حدثاً أو توقعاً مرتبطاً بشركة واحدة لا يتحول بالضرورة مباشرة إلى أداء أفضل لصندوق موضوعي كامل. ورغم التوقعات المحيطة بسبيس إكس، بقي أداء صناديق ETF للفضاء ضعيفاً، ما أبرز الفجوة بين آمال نمو صناعة الفضاء والنتائج الفعلية لهذه الصناديق. وفي الفترة المقبلة، قد يتأثر أداء صناديق الفضاء ليس فقط بأخبار الشركات المرتبطة، بل أيضاً بمكونات الصندوق واتجاهات السوق العامة. المصدر: hankyung.com"
+      },
+      "hi": {
+        "title": "SpaceX उत्साह के बावजूद स्पेस ETF ने दिया नकारात्मक रिटर्न",
+        "excerpt": "hankyung.com के अनुसार, SpaceX से जुड़ी उम्मीदों के बावजूद स्पेस ETF का रिटर्न नकारात्मक रहा, जिससे स्पेस थीम निवेश का कमजोर प्रदर्शन दिखा।",
+        "body": "hankyung.com की रिपोर्ट के अनुसार, SpaceX से जुड़े विशेष उत्साह और अंतरिक्ष उद्योग में रुचि के बावजूद स्पेस ETF ने नकारात्मक रिटर्न दर्ज किया। यह दिखाता है कि किसी एक कंपनी से जुड़ी उम्मीद हमेशा पूरे थीमैटिक ETF के प्रदर्शन में सीधे सुधार नहीं लाती। SpaceX को लेकर अपेक्षाओं के बीच भी स्पेस ETF कमजोर रहा, जिससे निवेशकों को अंतरिक्ष उद्योग की वृद्धि संबंधी उम्मीदों और ETF के वास्तविक प्रदर्शन के बीच अंतर दिखा। आगे चलकर स्पेस थीम वाले ETF का प्रदर्शन केवल संबंधित कंपनियों की खबरों पर नहीं, बल्कि पोर्टफोलियो संरचना और व्यापक बाजार रुझान पर भी निर्भर हो सकता है। स्रोत: hankyung.com"
+      },
+      "id": {
+        "title": "ETF Antariksa Tetap Minus Meski Ada Sentimen SpaceX",
+        "excerpt": "Menurut hankyung.com, ETF antariksa mencatat imbal hasil negatif meski ada ekspektasi terkait SpaceX, menunjukkan lemahnya kinerja investasi bertema ruang angkasa.",
+        "body": "Menurut laporan hankyung.com, ETF antariksa mencatat imbal hasil negatif meski ada sentimen khusus terkait SpaceX dan minat terhadap industri ruang angkasa. Hal ini menunjukkan bahwa isu pada satu perusahaan tidak selalu langsung mendorong kinerja seluruh ETF tematik. Di tengah ekspektasi terhadap SpaceX, ETF antariksa tetap bergerak lemah, sehingga investor melihat adanya jarak antara harapan pertumbuhan industri antariksa dan hasil aktual ETF. Ke depan, kinerja ETF bertema antariksa dapat dipengaruhi bukan hanya oleh berita perusahaan terkait, tetapi juga oleh komposisi portofolio dan arah pasar secara umum. Sumber: hankyung.com"
+      }
+    }
+  },
+  {
     "id": "2ba8f90bf8a5",
     "slug": "10년-뒤-170조-시장유망-로봇주-선점하라-208937",
     "channelId": "ETF",
@@ -4271,231 +4496,6 @@
         "title": "Kinerja KT&G Kuartal I Membaik, Laba Rokok Luar Negeri Naik 56%",
         "excerpt": "KT&G menyatakan laba operasional rokok luar negeri naik 56% pada kuartal I, mendorong kinerja grup seiring penguatan bisnis inti dan manajemen berfokus profitabilitas.",
         "body": "KT&G, yang dipimpin Presiden Bang Kyung-man, mencatat perbaikan kinerja pada kuartal pertama berkat penguatan daya saing bisnis inti dan manajemen yang berpusat pada profitabilitas. Saat perusahaan melanjutkan “pertumbuhan triple” di luar negeri, laba operasional rokok luar negeri naik 56% dan mendorong kinerja grup secara keseluruhan. Perusahaan menjelaskan bahwa fokus aktif pada profitabilitas telah terhubung dengan hasil bisnis utama. Pada paruh kedua, KT&G juga berencana mengumumkan kebijakan baru pengembalian kepada pemegang saham yang berfokus pada penguatan dividen. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "9860fb37720a",
-    "slug": "속보-7천피-코스피-또-사상-최고치-행진7490-마감-468389",
-    "channelId": "ETF",
-    "category": "etf",
-    "publishedAt": "2026-05-07T06:54:28.714Z",
-    "updatedAt": "2026-05-07T06:54:28.714Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/stock/12039212",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12039212",
-    "titleFingerprint": "97950ff9b681577232e8c0eb3748b056e056c377",
-    "dedupKeys": [
-      "9860fb37720a9c0e8befb162476ad15f06b88599",
-      "97950ff9b681577232e8c0eb3748b056e056c377",
-      "a6b73d3f9b5615fe037563c17c6d0918bc905760"
-    ],
-    "imageUrl": "/images/articles/9860fb37720a.jpg",
-    "i18n": {
-      "ko": {
-        "title": "코스피 7490 마감, 또 사상 최고치…삼성전자·SK하이닉스 동반 강세",
-        "excerpt": "7일 코스피가 미국과 이란의 종전 협상 기대감 속에 7490선에서 출발한 뒤 상승폭을 조정하며 7400선에서 마감, 전날에 이어 사상 최고치 행진을 이어갔다.",
-        "body": "코스피가 7일 미국과 이란의 종전 협상 기대감 등에 힘입어 전날에 이어 사상 최고치 흐름을 이어가며 7400선에서 상승 마감했다. 이날 지수는 7490선에서 출발한 뒤 장중 상승폭을 조정했지만 강세 기조를 유지했다. 대형 반도체주인 삼성전자와 SK하이닉스는 2~3%대 상승세를 보이며 지수 흐름을 뒷받침했다. 시장은 대외 불확실성 완화 기대가 투자심리에 영향을 준 것으로 해석했다. 다만 장중 상승폭이 조정된 만큼 추가 흐름은 관련 협상 기대와 주요 대형주의 움직임에 따라 달라질 수 있다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "KOSPI Closes at 7,490, Extends Record Run as Samsung, SK Hynix Rise",
-        "excerpt": "On May 7, the KOSPI opened near 7,490 and adjusted gains before closing in the 7,400 range, extending its record run on hopes for U.S.-Iran end-of-war talks.",
-        "body": "The KOSPI rose on May 7 and closed in the 7,400 range, extending its record-setting momentum from the previous session, supported by expectations for end-of-war negotiations between the United States and Iran. The index started near the 7,490 level, then trimmed part of its advance during trading while maintaining a firm tone. Major semiconductor shares helped support the market, with Samsung Electronics and SK Hynix gaining in the 2% to 3% range. Investors appeared to respond to hopes that external uncertainty could ease. Further market direction may depend on developments around the talks and moves in major large-cap stocks. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "KOSPIが7490で終了、最高値更新続く…サムスン電子とSKハイニックス上昇",
-        "excerpt": "7日、KOSPIは米国とイランの終戦協議への期待を背景に7490台で始まった後、上げ幅を調整しつつ7400台で終了し、最高値更新を続けた。",
-        "body": "KOSPIは7日、米国とイランの終戦協議への期待などを追い風に、前日に続いて過去最高値の流れを維持し、7400台で上昇して取引を終えた。この日の指数は7490台で始まった後、取引中に上げ幅を調整したが、堅調な基調は保った。大型半導体株のサムスン電子とSKハイニックスは2～3％台の上昇となり、指数を支えた。市場では、対外不確実性の緩和期待が投資心理に影響したと受け止められた。ただ、取引中に上げ幅が調整されたため、今後の動きは関連協議への期待と主要大型株の値動きに左右される可能性がある。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "KOSPI收于7490，再创新高走势延续…三星电子与SK海力士走强",
-        "excerpt": "7日，KOSPI在美国与伊朗结束战争谈判预期支撑下，于7490点附近开盘后涨幅有所收窄，最终收在7400点区间，延续历史高位行情。",
-        "body": "KOSPI于7日在美国与伊朗结束战争谈判预期等因素带动下，继前一交易日之后继续保持历史高位走势，并在7400点区间上涨收盘。当天指数从7490点附近开盘，盘中涨幅有所调整，但整体强势基调仍然维持。大型半导体股三星电子和SK海力士上涨2%至3%区间，对指数形成支撑。市场认为，外部不确定性缓和的预期影响了投资者情绪。不过，由于盘中涨幅出现调整，后续走势可能取决于相关谈判预期以及主要大型股的表现。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "KOSPI cierra en 7.490 y marca otro récord con avances de Samsung y SK Hynix",
-        "excerpt": "El 7 de mayo, el KOSPI abrió cerca de 7.490 y moderó sus ganancias antes de cerrar en la zona de 7.400, impulsado por expectativas sobre negociaciones EE. UU.-Irán.",
-        "body": "El KOSPI subió el 7 de mayo y cerró en la zona de 7.400, prolongando la racha de máximos históricos registrada desde la sesión anterior, apoyado por expectativas sobre negociaciones para poner fin al conflicto entre Estados Unidos e Irán. El índice comenzó cerca del nivel de 7.490 y luego ajustó parte de sus avances durante la jornada, aunque mantuvo un tono firme. Las grandes acciones de semiconductores respaldaron el movimiento: Samsung Electronics y SK Hynix subieron entre 2% y 3%. El mercado interpretó que la posible reducción de incertidumbre externa influyó en el ánimo inversor. La evolución posterior puede depender de esas expectativas y del desempeño de las principales empresas de gran capitalización. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "KOSPI fecha em 7.490 e renova recorde com alta de Samsung e SK Hynix",
-        "excerpt": "Em 7 de maio, o KOSPI abriu perto de 7.490 e ajustou os ganhos antes de fechar na faixa dos 7.400, apoiado por expectativas sobre negociações entre EUA e Irã.",
-        "body": "O KOSPI subiu em 7 de maio e fechou na faixa dos 7.400 pontos, mantendo o movimento de máxima histórica visto no dia anterior, com apoio das expectativas sobre negociações para encerrar o conflito entre Estados Unidos e Irã. O índice começou perto de 7.490 pontos e, durante o pregão, reduziu parte dos ganhos, mas preservou uma tendência firme. As grandes ações de semicondutores sustentaram o mercado, com Samsung Electronics e SK Hynix avançando entre 2% e 3%. O mercado avaliou que a expectativa de alívio nas incertezas externas influenciou o sentimento dos investidores. A próxima direção pode depender dessas negociações e do movimento das principais large caps. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "KOSPI schließt bei 7.490 und setzt Rekordlauf mit Samsung und SK Hynix fort",
-        "excerpt": "Am 7. Mai eröffnete der KOSPI nahe 7.490, gab einen Teil der Gewinne ab und schloss im Bereich von 7.400, gestützt von Hoffnungen auf Gespräche zwischen USA und Iran.",
-        "body": "Der KOSPI legte am 7. Mai zu und schloss im Bereich von 7.400 Punkten. Damit setzte er nach dem Vortag seinen Lauf auf historische Höchststände fort, gestützt von Erwartungen an Verhandlungen zwischen den USA und Iran zur Beendigung des Konflikts. Der Index startete nahe der Marke von 7.490 Punkten und reduzierte im Handelsverlauf einen Teil seiner Gewinne, blieb aber insgesamt fest. Große Halbleiterwerte stützten den Markt: Samsung Electronics und SK Hynix stiegen um 2% bis 3%. Marktteilnehmer werteten die Hoffnung auf eine Entspannung externer Unsicherheiten als Faktor für die Anlegerstimmung. Der weitere Verlauf dürfte von den Verhandlungserwartungen und den Bewegungen wichtiger Schwergewichte abhängen. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Le KOSPI clôture à 7 490 et poursuit son record avec Samsung et SK Hynix",
-        "excerpt": "Le 7 mai, le KOSPI a ouvert près de 7 490 puis réduit ses gains avant de finir dans la zone des 7 400, porté par l’espoir de négociations entre les États-Unis et l’Iran.",
-        "body": "Le KOSPI a progressé le 7 mai et a clôturé dans la zone des 7 400 points, prolongeant son mouvement de record historique amorcé la veille, soutenu par les attentes liées à des négociations de fin de conflit entre les États-Unis et l’Iran. L’indice a commencé près du niveau de 7 490 points, puis a ajusté une partie de ses gains en séance tout en conservant une tendance ferme. Les grandes valeurs des semi-conducteurs ont soutenu le marché: Samsung Electronics et SK Hynix ont gagné entre 2% et 3%. Le marché a estimé que l’espoir d’un allègement des incertitudes extérieures avait influencé le sentiment des investisseurs. La suite pourrait dépendre de ces attentes et des mouvements des grandes capitalisations. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "كوسبي يغلق عند 7490 ويواصل القمة القياسية مع صعود سامسونغ وSK هاينكس",
-        "excerpt": "في 7 مايو، افتتح كوسبي قرب مستوى 7490 ثم قلص مكاسبه قبل أن يغلق ضمن نطاق 7400، مدعوما بتوقعات مفاوضات بين الولايات المتحدة وإيران لإنهاء الحرب.",
-        "body": "ارتفع مؤشر كوسبي في 7 مايو وأغلق ضمن نطاق 7400 نقطة، مواصلا مساره القياسي الذي سجله في الجلسة السابقة، بدعم من توقعات بشأن مفاوضات لإنهاء الحرب بين الولايات المتحدة وإيران. بدأ المؤشر قرب مستوى 7490 نقطة، ثم عدل جزءا من مكاسبه خلال التداول، لكنه حافظ على اتجاه قوي. وساعدت أسهم أشباه الموصلات الكبرى في دعم المؤشر، إذ صعدت سامسونغ إلكترونيكس وSK هاينكس بنحو 2% إلى 3%. وفسر السوق التحرك بأن آمال تراجع حالة عدم اليقين الخارجية أثرت في معنويات المستثمرين. وقد يعتمد المسار التالي على تطورات تلك التوقعات وحركة الأسهم القيادية الكبرى. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "KOSPI 7,490 पर बंद, नया रिकॉर्ड जारी; Samsung और SK Hynix में तेजी",
-        "excerpt": "7 मई को KOSPI 7,490 के पास खुला और बढ़त घटाने के बाद 7,400 दायरे में बंद हुआ, जिसे अमेरिका-ईरान युद्ध समाप्ति वार्ता की उम्मीदों से सहारा मिला।",
-        "body": "KOSPI 7 मई को बढ़कर 7,400 के दायरे में बंद हुआ और पिछले सत्र के बाद अपना रिकॉर्ड उच्च स्तर का सिलसिला जारी रखा। बाजार को अमेरिका और ईरान के बीच युद्ध समाप्ति से जुड़ी वार्ता की उम्मीदों से सहारा मिला। सूचकांक 7,490 के आसपास खुला और कारोबार के दौरान अपनी कुछ बढ़त समायोजित की, लेकिन मजबूत रुख बनाए रखा। बड़े सेमीकंडक्टर शेयरों ने सूचकांक को समर्थन दिया, जिनमें Samsung Electronics और SK Hynix 2% से 3% के दायरे में चढ़े। बाजार ने माना कि बाहरी अनिश्चितता कम होने की उम्मीद से निवेशक धारणा प्रभावित हुई। आगे की चाल संबंधित वार्ता की उम्मीदों और प्रमुख बड़े शेयरों की गतिविधि पर निर्भर कर सकती है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "KOSPI Ditutup di 7.490, Rekor Berlanjut saat Samsung dan SK Hynix Menguat",
-        "excerpt": "Pada 7 Mei, KOSPI dibuka dekat 7.490 lalu memangkas kenaikan sebelum ditutup di kisaran 7.400, didukung harapan negosiasi akhir perang AS-Iran.",
-        "body": "KOSPI menguat pada 7 Mei dan ditutup di kisaran 7.400, melanjutkan laju rekor tertinggi dari sesi sebelumnya, didukung harapan atas negosiasi untuk mengakhiri perang antara Amerika Serikat dan Iran. Indeks memulai perdagangan di sekitar level 7.490, lalu menyesuaikan sebagian kenaikannya selama sesi, tetapi tetap mempertahankan nada kuat. Saham semikonduktor besar menopang indeks, dengan Samsung Electronics dan SK Hynix naik di kisaran 2% hingga 3%. Pasar menilai harapan meredanya ketidakpastian eksternal memengaruhi sentimen investor. Arah berikutnya dapat bergantung pada perkembangan harapan negosiasi tersebut dan pergerakan saham-saham berkapitalisasi besar utama. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "c342eaf69c5d",
-    "slug": "삼전닉스-더-담고-lg이노텍중공업주는-매도-주식-초고수는-지금-406215",
-    "channelId": "ETF",
-    "category": "etf",
-    "publishedAt": "2026-05-07T06:53:09.686Z",
-    "updatedAt": "2026-05-07T06:53:09.686Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/stock/12039216",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12039216",
-    "titleFingerprint": "74528a7125d04fe3a14547425896ce1a4483c92f",
-    "dedupKeys": [
-      "c342eaf69c5d3db156654abf758b272c86a685c2",
-      "74528a7125d04fe3a14547425896ce1a4483c92f",
-      "1c4f94656ea015998a874dc326886a9f899ef748"
-    ],
-    "imageUrl": "/images/articles/c342eaf69c5d.png",
-    "i18n": {
-      "ko": {
-        "title": "삼성전자·SK하이닉스 매수 집중, 초고수는 LG이노텍·중공업주 매도",
-        "excerpt": "7일 오후 2시30분 기준 상위 1% 주식 초고수 투자자들은 삼성전자와 SK하이닉스 등 반도체 대형주를 사들이고 LG이노텍·삼성중공업은 매도했다.",
-        "body": "7일 오후 2시30분 기준 주식 초고수 매매 동향에서 상위 1% 투자자들은 삼성전자와 SK하이닉스 등 반도체 대형주를 중심으로 매수에 나섰다. 같은 시간 이들은 LG이노텍과 삼성중공업 등 일부 종목은 매도한 것으로 나타났다. 이번 흐름은 국내 증시에서 반도체 대표주에 대한 관심이 이어지는 가운데, 특정 전기전자·중공업 종목에서는 차익 실현 또는 비중 조절 매매가 함께 나타났다는 점에서 주목된다. 다만 원문은 오후 2시30분 시점의 매매 동향을 전한 것으로, 장 마감 기준 순매수·순매도와는 달라질 수 있다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Top Korean Stock Traders Buy Samsung Electronics and SK Hynix, Sell LG Innotek",
-        "excerpt": "As of 2:30 p.m. on May 7, Korea’s top 1% stock traders bought large semiconductor names including Samsung Electronics and SK Hynix while selling LG Innotek and Samsung Heavy Industries.",
-        "body": "As of 2:30 p.m. on May 7, trading data for Korea’s so-called stock experts showed that the top 1% of investors were buying large semiconductor stocks, mainly Samsung Electronics and SK Hynix. At the same time, they were selling selected names including LG Innotek and Samsung Heavy Industries. The move drew attention as interest in Korea’s leading chip stocks continued, while some electronics and heavy industry shares saw selling that may reflect position adjustments based only on the reported trading flow. The original report covered activity at 2:30 p.m., so final closing buy and sell rankings could differ. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "韓国株上位1%投資家、サムスン電子・SKハイニックス買いに集中",
-        "excerpt": "5月7日午後2時30分時点で、韓国株の上位1%投資家はサムスン電子とSKハイニックスなど半導体大型株を買い、LGイノテックとサムスン重工業を売却した。",
-        "body": "5月7日午後2時30分時点の韓国株「超上級投資家」売買動向によると、上位1%の投資家はサムスン電子とSKハイニックスなど半導体大型株を中心に買いを入れた。一方で、同じ時間帯にLGイノテックとサムスン重工業など一部銘柄は売却対象となった。韓国市場で代表的な半導体株への関心が続くなか、電機電子や重工業の一部銘柄ではポジション調整とみられる売りも同時に確認された点が注目される。ただし、原文は午後2時30分時点の動向であり、大引け時点の売買順位とは異なる可能性がある。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "韩国顶级股票投资者买入三星电子、SK海力士，卖出LG Innotek",
-        "excerpt": "截至5月7日下午2时30分，韩国前1%股票高手投资者买入三星电子、SK海力士等半导体大盘股，同时卖出LG Innotek和三星重工业。",
-        "body": "截至5月7日下午2时30分，韩国股票高手交易动向显示，前1%投资者主要买入三星电子和SK海力士等半导体大盘股。与此同时，他们卖出了LG Innotek和三星重工业等部分股票。这一动向受到关注，因为韩国股市中半导体代表股仍保持较高关注度，而部分电子零部件和重工业股票则出现卖出，反映出当时交易流中的仓位调整迹象。需要注意的是，原文报道的是下午2时30分的盘中交易情况，收盘后的净买入和净卖出排名可能不同。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Inversores expertos compran Samsung Electronics y SK Hynix, venden LG Innotek",
-        "excerpt": "A las 14:30 del 7 de mayo, el 1% superior de inversores surcoreanos compró grandes valores de semiconductores como Samsung Electronics y SK Hynix, y vendió LG Innotek y Samsung Heavy Industries.",
-        "body": "A las 14:30 del 7 de mayo, los datos de negociación de los llamados inversores expertos en acciones de Corea del Sur mostraron que el 1% superior estaba comprando grandes valores de semiconductores, sobre todo Samsung Electronics y SK Hynix. Al mismo tiempo, vendían algunos títulos como LG Innotek y Samsung Heavy Industries. El movimiento llamó la atención porque el interés por los principales valores de chips coreanos continuaba, mientras que ciertas acciones de electrónica y de industria pesada registraban ventas dentro del flujo observado. El informe original se refería al estado de las 14:30, por lo que las clasificaciones al cierre podían variar. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Investidores de elite compram Samsung Electronics e SK Hynix e vendem LG Innotek",
-        "excerpt": "Às 14h30 de 7 de maio, o 1% superior dos investidores em ações da Coreia comprava grandes nomes de semicondutores como Samsung Electronics e SK Hynix, enquanto vendia LG Innotek e Samsung Heavy Industries.",
-        "body": "Às 14h30 de 7 de maio, os dados de negociação dos chamados investidores superespecialistas em ações na Coreia mostraram que o 1% superior comprava ações de grandes empresas de semicondutores, principalmente Samsung Electronics e SK Hynix. No mesmo horário, eles vendiam alguns papéis, incluindo LG Innotek e Samsung Heavy Industries. O movimento chamou atenção porque o interesse pelas principais ações coreanas de chips continuava, enquanto certos nomes de eletrônicos e indústria pesada apareciam no lado vendedor do fluxo observado. A reportagem original tratava da situação às 14h30, portanto os rankings no fechamento poderiam ser diferentes. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Top-Anleger kaufen Samsung Electronics und SK Hynix, verkaufen LG Innotek",
-        "excerpt": "Am 7. Mai um 14:30 Uhr kauften Koreas oberste 1% der Aktienanleger große Halbleiterwerte wie Samsung Electronics und SK Hynix, während sie LG Innotek und Samsung Heavy Industries verkauften.",
-        "body": "Am 7. Mai um 14:30 Uhr zeigten Handelsdaten der sogenannten Aktienprofis in Korea, dass die obersten 1% der Anleger vor allem große Halbleiterwerte kauften, darunter Samsung Electronics und SK Hynix. Gleichzeitig verkauften sie ausgewählte Titel wie LG Innotek und Samsung Heavy Industries. Die Entwicklung ist bemerkenswert, weil das Interesse an Koreas führenden Chipaktien anhielt, während bei einzelnen Elektronik- und Schwerindustrietiteln Verkäufe im gemeldeten Handelsfluss zu sehen waren. Der Originalbericht bezog sich auf den Stand um 14:30 Uhr; die Ranglisten zum Börsenschluss konnten daher abweichen. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Les meilleurs investisseurs achètent Samsung Electronics et SK Hynix, vendent LG Innotek",
-        "excerpt": "Le 7 mai à 14h30, le premier 1% des investisseurs coréens en actions achetait de grands titres de semi-conducteurs comme Samsung Electronics et SK Hynix, tout en vendant LG Innotek et Samsung Heavy Industries.",
-        "body": "Le 7 mai à 14h30, les données de transactions des investisseurs coréens les plus actifs montraient que le premier 1% achetait surtout de grandes valeurs des semi-conducteurs, notamment Samsung Electronics et SK Hynix. Au même moment, ces investisseurs vendaient certains titres, dont LG Innotek et Samsung Heavy Industries. Ce mouvement retient l’attention car l’intérêt pour les principales valeurs coréennes des puces se poursuivait, tandis que quelques actions de l’électronique et de l’industrie lourde apparaissaient du côté vendeur du flux observé. L’article original portait sur la situation à 14h30; les classements de clôture pouvaient donc différer. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "كبار متداولي كوريا يشترون سامسونغ إلكترونيكس وSK Hynix ويبيعون LG Innotek",
-        "excerpt": "حتى الساعة 2:30 بعد ظهر 7 مايو، اشترى أعلى 1% من متداولي الأسهم في كوريا أسهم أشباه الموصلات الكبرى مثل سامسونغ إلكترونيكس وSK Hynix، وباعوا LG Innotek وسامسونغ للصناعات الثقيلة.",
-        "body": "حتى الساعة 2:30 بعد ظهر 7 مايو، أظهرت بيانات تداول ما يعرف بكبار متداولي الأسهم في كوريا أن أعلى 1% من المستثمرين اتجهوا إلى شراء أسهم أشباه الموصلات الكبرى، وفي مقدمتها سامسونغ إلكترونيكس وSK Hynix. وفي الوقت نفسه، باعوا بعض الأسهم مثل LG Innotek وسامسونغ للصناعات الثقيلة. يلفت هذا التحرك الانتباه لأن الاهتمام بأسهم الرقائق الكورية البارزة استمر، بينما ظهرت مبيعات في بعض أسهم الإلكترونيات والصناعات الثقيلة ضمن التدفق المعلن. ويقتصر التقرير الأصلي على وضع الساعة 2:30 بعد الظهر، لذلك قد تختلف قوائم الشراء والبيع عند الإغلاق. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "शीर्ष कोरियाई निवेशकों ने Samsung Electronics, SK Hynix खरीदे; LG Innotek बेचा",
-        "excerpt": "7 मई को दोपहर 2:30 बजे तक कोरिया के शीर्ष 1% शेयर निवेशकों ने Samsung Electronics और SK Hynix जैसे बड़े सेमीकंडक्टर शेयर खरीदे, जबकि LG Innotek और Samsung Heavy Industries बेचे।",
-        "body": "7 मई को दोपहर 2:30 बजे तक कोरिया के तथाकथित शेयर विशेषज्ञों के ट्रेडिंग रुझान में दिखा कि शीर्ष 1% निवेशक मुख्य रूप से Samsung Electronics और SK Hynix जैसे बड़े सेमीकंडक्टर शेयर खरीद रहे थे। उसी समय, वे LG Innotek और Samsung Heavy Industries जैसे कुछ शेयर बेच रहे थे। यह रुझान इसलिए ध्यान खींचता है क्योंकि कोरियाई बाजार में प्रमुख चिप शेयरों में रुचि जारी रही, जबकि कुछ इलेक्ट्रॉनिक्स और हेवी इंडस्ट्री शेयरों में रिपोर्ट किए गए प्रवाह के भीतर बिकवाली दिखी। मूल रिपोर्ट दोपहर 2:30 बजे की स्थिति पर आधारित थी, इसलिए बंद भाव के समय खरीद-बिक्री रैंकिंग अलग हो सकती है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Investor Top Korea Beli Samsung Electronics dan SK Hynix, Jual LG Innotek",
-        "excerpt": "Pada 7 Mei pukul 14.30, 1% investor saham teratas Korea membeli saham semikonduktor besar seperti Samsung Electronics dan SK Hynix, sambil menjual LG Innotek dan Samsung Heavy Industries.",
-        "body": "Pada 7 Mei pukul 14.30, data perdagangan para investor saham papan atas Korea menunjukkan bahwa 1% investor teratas membeli saham semikonduktor besar, terutama Samsung Electronics dan SK Hynix. Pada saat yang sama, mereka menjual beberapa saham seperti LG Innotek dan Samsung Heavy Industries. Pergerakan ini menarik perhatian karena minat terhadap saham chip utama Korea masih berlanjut, sementara sejumlah saham elektronik dan industri berat muncul di sisi jual dalam arus perdagangan yang dilaporkan. Laporan asli hanya mencakup kondisi pukul 14.30, sehingga peringkat beli dan jual saat penutupan dapat berbeda. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "a8ff565adb45",
-    "slug": "코스피-7000-내-수익률만-왜-이모양최후에-웃는-자-되는-법-2026-서울머니쇼-672065",
-    "channelId": "ETF",
-    "category": "etf",
-    "publishedAt": "2026-05-07T06:52:01.468Z",
-    "updatedAt": "2026-05-07T06:52:01.468Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/stock/12039218",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12039218",
-    "titleFingerprint": "397ea98f7e4d1f01c34c63e8ccc6b23d5b43968b",
-    "dedupKeys": [
-      "a8ff565adb459c46cc40b65eb1c3524a7500c65b",
-      "397ea98f7e4d1f01c34c63e8ccc6b23d5b43968b",
-      "fb4adaf67440287f79441094c4eb7f3b9f13c70e"
-    ],
-    "imageUrl": "/images/articles/a8ff565adb45.png",
-    "i18n": {
-      "ko": {
-        "title": "코스피 7000 기대 속 투자 수익률 부진, 장기투자·자산배분이 해법",
-        "excerpt": "2026 서울머니쇼에서 박순현 SC제일은행 자산관리상품 본부장은 투자자가 과도한 자신감과 군중심리, 손실회피를 경계하고 장기투자와 자산 배분에 집중해야 한다고 조언했다.",
-        "body": "2026 서울머니쇼에서 박순현 SC제일은행 자산관리상품 본부장은 코스피 7000 기대가 나오는 시장에서도 개인 투자자의 수익률이 부진할 수 있는 이유와 대응법을 설명했다. 그는 주식으로 돈을 버는 사람보다 잃는 사람이 많은 이유가 시장 자체보다 투자자의 행동 편향에 있다고 짚었다. 특히 과도한 자신감, 군중심리, 손실회피 성향을 경계해야 한다고 강조했다. 시장 전망이 긍정적이더라도 단기 흐름에 휩쓸리면 손실 가능성이 커질 수 있다는 의미다. 박 본부장은 해법으로 장기투자와 자산 배분을 제시했다. 투자 성과를 안정적으로 관리하려면 특정 자산이나 분위기에 치우치기보다 분산된 포트폴리오를 유지하는 접근이 중요하다는 설명이다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "KOSPI 7000 Hopes, Weak Returns: Long-Term Investing and Allocation Matter",
-        "excerpt": "At the 2026 Seoul Money Show, Park Soon-hyun of Standard Chartered Korea advised investors to avoid overconfidence, herd behavior and loss aversion while focusing on long-term investing and asset allocation.",
-        "body": "At the 2026 Seoul Money Show, Park Soon-hyun, head of wealth management products at Standard Chartered Korea, explained why individual investors can still post weak returns even as expectations for KOSPI 7000 emerge. He said more people lose money in stocks than make money not because of the market itself, but because of behavioral biases. Park warned against excessive confidence, herd mentality and loss aversion. Even when the market outlook is positive, investors may face greater losses if they are swept up in short-term moves. As a solution, he pointed to long-term investing and asset allocation. He said stable investment results require maintaining a diversified portfolio rather than leaning too heavily toward a single asset or market mood. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "KOSPI7000期待でも低迷する投資収益率、長期投資と資産配分が鍵",
-        "excerpt": "2026ソウルマネーショーでSC第一銀行の朴順鉉・資産管理商品本部長は、過信、群集心理、損失回避を警戒し、長期投資と資産配分を重視すべきだと助言した。",
-        "body": "2026ソウルマネーショーで、SC第一銀行の朴順鉉・資産管理商品本部長は、KOSPI7000への期待が出る市場でも個人投資家の収益率が低迷し得る理由と対応策を説明した。朴氏は、株式で利益を得る人より損をする人が多い理由は市場そのものではなく、投資家の行動バイアスにあると指摘した。特に過度な自信、群集心理、損失回避の傾向に注意すべきだと強調した。市場見通しが前向きでも、短期的な流れに振り回されれば損失リスクが高まるという意味だ。朴氏は解決策として長期投資と資産配分を提示した。安定した投資成果を管理するには、特定資産や市場ムードに偏らず、分散されたポートフォリオを維持することが重要だと説明した。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "KOSPI 7000预期下收益率仍低迷，长期投资与资产配置成关键",
-        "excerpt": "在2026首尔Money Show上，SC第一银行财富管理商品本部长朴顺铉建议投资者警惕过度自信、从众心理和损失厌恶，重视长期投资与资产配置。",
-        "body": "在2026首尔Money Show上，SC第一银行财富管理商品本部长朴顺铉说明了即使市场出现KOSPI 7000预期，个人投资者收益率仍可能低迷的原因和应对方法。他指出，股票投资中亏钱的人多于赚钱的人，原因并不在市场本身，而在投资者的行为偏差。朴顺铉特别提醒投资者警惕过度自信、从众心理和损失厌恶。也就是说，即便市场前景积极，若被短期走势裹挟，亏损可能性也会增加。作为解决方案，他提出长期投资和资产配置。要稳定管理投资成果，重要的是保持分散化投资组合，而不是偏向某一资产或市场情绪。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "KOSPI 7000 y rentabilidades débiles: inversión a largo plazo y asignación",
-        "excerpt": "En el Seoul Money Show 2026, Park Soon-hyun de Standard Chartered Korea aconsejó evitar el exceso de confianza, el comportamiento de masas y la aversión a pérdidas, y centrarse en inversión a largo plazo y asignación de activos.",
-        "body": "En el Seoul Money Show 2026, Park Soon-hyun, responsable de productos de gestión patrimonial de Standard Chartered Korea, explicó por qué los inversores particulares pueden registrar rentabilidades débiles incluso cuando surgen expectativas de un KOSPI en 7000. Señaló que hay más personas que pierden dinero en acciones que las que ganan no por el mercado en sí, sino por sesgos de comportamiento de los inversores. Advirtió especialmente contra el exceso de confianza, la mentalidad de grupo y la aversión a las pérdidas. Aunque la perspectiva del mercado sea positiva, dejarse arrastrar por movimientos de corto plazo puede aumentar el riesgo de pérdidas. Como solución, planteó la inversión a largo plazo y la asignación de activos. Para gestionar resultados estables, dijo, es clave mantener una cartera diversificada y no inclinarse por un solo activo o por el ánimo del mercado. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "KOSPI 7000 e retorno fraco: investimento de longo prazo e alocação importam",
-        "excerpt": "No Seoul Money Show 2026, Park Soon-hyun, do Standard Chartered Korea, aconselhou investidores a evitar excesso de confiança, efeito manada e aversão a perdas, priorizando longo prazo e alocação de ativos.",
-        "body": "No Seoul Money Show 2026, Park Soon-hyun, chefe de produtos de gestão patrimonial do Standard Chartered Korea, explicou por que investidores individuais podem ter retornos fracos mesmo com expectativas de KOSPI 7000. Segundo ele, há mais pessoas que perdem dinheiro com ações do que pessoas que ganham não por causa do mercado em si, mas por vieses comportamentais dos investidores. Park alertou especialmente contra excesso de confiança, mentalidade de manada e aversão a perdas. Mesmo quando a perspectiva do mercado é positiva, seguir movimentos de curto prazo pode elevar a possibilidade de prejuízo. Como solução, ele apontou investimento de longo prazo e alocação de ativos. Para administrar resultados de forma estável, é importante manter uma carteira diversificada, sem concentração em um único ativo ou no humor do mercado. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "KOSPI-7000-Hoffnung, schwache Rendite: Langfristigkeit und Allokation zählen",
-        "excerpt": "Auf der Seoul Money Show 2026 riet Park Soon-hyun von Standard Chartered Korea Anlegern, Übermut, Herdenverhalten und Verlustaversion zu meiden und auf langfristiges Investieren sowie Vermögensaufteilung zu setzen.",
-        "body": "Auf der Seoul Money Show 2026 erklärte Park Soon-hyun, Leiter der Wealth-Management-Produkte bei Standard Chartered Korea, warum Privatanleger auch bei Erwartungen an einen KOSPI von 7000 schwache Renditen erzielen können. Er sagte, dass mehr Menschen mit Aktien Geld verlieren als gewinnen, liege nicht am Markt selbst, sondern an Verhaltensverzerrungen der Anleger. Besonders warnte er vor übermäßigem Selbstvertrauen, Herdenmentalität und Verlustaversion. Selbst bei positivem Marktausblick könne das Mitlaufen bei kurzfristigen Bewegungen die Verlustgefahr erhöhen. Als Lösung nannte Park langfristiges Investieren und Vermögensallokation. Für stabile Anlageergebnisse sei es wichtig, ein diversifiziertes Portfolio zu halten, statt sich auf eine einzelne Anlageklasse oder die Marktstimmung zu stützen. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "KOSPI 7000 et rendements faibles : miser sur le long terme et l’allocation",
-        "excerpt": "Lors du Seoul Money Show 2026, Park Soon-hyun de Standard Chartered Korea a conseillé aux investisseurs d’éviter excès de confiance, suivisme et aversion aux pertes, et de privilégier investissement de long terme et allocation d’actifs.",
-        "body": "Lors du Seoul Money Show 2026, Park Soon-hyun, responsable des produits de gestion de patrimoine chez Standard Chartered Korea, a expliqué pourquoi les investisseurs particuliers peuvent afficher de faibles rendements même lorsque l’hypothèse d’un KOSPI à 7000 apparaît. Selon lui, si davantage de personnes perdent de l’argent en actions qu’elles n’en gagnent, la cause n’est pas le marché lui-même, mais les biais comportementaux des investisseurs. Il a notamment mis en garde contre l’excès de confiance, le comportement de foule et l’aversion aux pertes. Même avec des perspectives de marché positives, se laisser entraîner par les mouvements de court terme peut accroître le risque de pertes. Comme solution, il a cité l’investissement de long terme et l’allocation d’actifs. Pour stabiliser les résultats, il faut maintenir un portefeuille diversifié plutôt que se concentrer sur un actif ou sur l’humeur du marché. Source : mk.co.kr"
-      },
-      "ar": {
-        "title": "توقعات كوسبي 7000 وضعف العوائد: الاستثمار الطويل وتوزيع الأصول هما الحل",
-        "excerpt": "في معرض سيول للمال 2026، نصح بارك سون هيون من ستاندرد تشارترد كوريا المستثمرين بتجنب الثقة المفرطة وسلوك القطيع وتفادي الخسائر، والتركيز على الاستثمار طويل الأجل وتوزيع الأصول.",
-        "body": "في معرض سيول للمال 2026، أوضح بارك سون هيون، رئيس منتجات إدارة الثروات في ستاندرد تشارترد كوريا، لماذا قد تظل عوائد المستثمرين الأفراد ضعيفة حتى مع ظهور توقعات بوصول مؤشر كوسبي إلى 7000. وقال إن سبب كون عدد من يخسرون في الأسهم أكبر من عدد من يربحون لا يعود إلى السوق نفسه، بل إلى الانحيازات السلوكية لدى المستثمرين. وحذر خصوصا من الثقة المفرطة، وعقلية القطيع، وتجنب الخسائر. فحتى عندما تكون آفاق السوق إيجابية، قد يزيد الانجراف وراء التحركات القصيرة الأجل احتمال الخسارة. وطرح بارك الاستثمار طويل الأجل وتوزيع الأصول كحل. ولإدارة نتائج الاستثمار باستقرار، أكد أهمية الحفاظ على محفظة متنوعة بدلا من الميل إلى أصل واحد أو مزاج السوق. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "KOSPI 7000 की उम्मीदों में कमजोर रिटर्न, लंबी अवधि निवेश और एसेट एलोकेशन अहम",
-        "excerpt": "2026 Seoul Money Show में Standard Chartered Korea के Park Soon-hyun ने निवेशकों को अति आत्मविश्वास, भीड़ मानसिकता और नुकसान से बचने की प्रवृत्ति से सावधान रहने तथा लंबी अवधि निवेश और एसेट एलोकेशन पर ध्यान देने की सलाह दी।",
-        "body": "2026 Seoul Money Show में Standard Chartered Korea के वेल्थ मैनेजमेंट प्रोडक्ट्स प्रमुख Park Soon-hyun ने बताया कि KOSPI 7000 की उम्मीदों के बावजूद व्यक्तिगत निवेशकों का रिटर्न कमजोर क्यों रह सकता है और इससे कैसे निपटा जाए। उन्होंने कहा कि शेयरों से पैसा कमाने वालों की तुलना में पैसा गंवाने वाले अधिक होने की वजह बाजार खुद नहीं, बल्कि निवेशकों के व्यवहारगत झुकाव हैं। उन्होंने खास तौर पर अति आत्मविश्वास, भीड़ मानसिकता और नुकसान से बचने की प्रवृत्ति से सावधान रहने पर जोर दिया। बाजार का नजरिया सकारात्मक हो तब भी अल्पकालिक चालों में बहने से नुकसान की संभावना बढ़ सकती है। समाधान के रूप में Park ने लंबी अवधि के निवेश और एसेट एलोकेशन को रखा। स्थिर निवेश परिणामों के लिए किसी एक एसेट या बाजार माहौल पर निर्भर होने के बजाय विविध पोर्टफोलियो बनाए रखना जरूरी है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Harapan KOSPI 7000, Imbal Hasil Lemah: Investasi Panjang dan Alokasi Aset",
-        "excerpt": "Di Seoul Money Show 2026, Park Soon-hyun dari Standard Chartered Korea menyarankan investor mewaspadai rasa percaya diri berlebihan, perilaku ikut-ikutan, dan penghindaran kerugian, serta fokus pada investasi jangka panjang dan alokasi aset.",
-        "body": "Di Seoul Money Show 2026, Park Soon-hyun, kepala produk manajemen kekayaan Standard Chartered Korea, menjelaskan mengapa imbal hasil investor individu bisa tetap lemah meski muncul ekspektasi KOSPI 7000. Ia mengatakan lebih banyak orang kehilangan uang di saham daripada yang menghasilkan uang bukan karena pasar itu sendiri, melainkan karena bias perilaku investor. Park secara khusus memperingatkan soal rasa percaya diri berlebihan, mentalitas kerumunan, dan kecenderungan menghindari kerugian. Meski prospek pasar positif, terseret pergerakan jangka pendek dapat meningkatkan kemungkinan rugi. Sebagai solusi, ia menunjuk investasi jangka panjang dan alokasi aset. Untuk mengelola hasil investasi secara stabil, penting mempertahankan portofolio terdiversifikasi daripada condong pada satu aset atau suasana pasar. Sumber: mk.co.kr"
       }
     }
   }
