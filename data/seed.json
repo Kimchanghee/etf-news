@@ -1,5 +1,230 @@
 [
   {
+    "id": "3b2445039a4d",
+    "slug": "액티브-etf도-k주식이-대세순유입-비중-한국형-80-육박-814609",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-05-07T21:09:05.225Z",
+    "updatedAt": "2026-05-07T21:09:05.225Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/2026050707811",
+    "canonicalUrl": "https://www.hankyung.com/article/2026050707811",
+    "titleFingerprint": "2637448cc38f48045e13009aebcc55d05ed0abd0",
+    "dedupKeys": [
+      "3b2445039a4dd71873c1fe98f4dac86d622014ff",
+      "2637448cc38f48045e13009aebcc55d05ed0abd0",
+      "55adff878dbf457008239e5c358320c7066807d2"
+    ],
+    "imageUrl": "/images/articles/3b2445039a4d.jpg",
+    "i18n": {
+      "ko": {
+        "title": "K주식 액티브 ETF 순유입 비중 80% 육박, 한국형 상품이 대세",
+        "excerpt": "한국경제 보도에 따르면 액티브 ETF 시장에서도 K주식 중심의 한국형 상품이 순유입 비중 80%에 육박하며 투자자 자금 흐름의 주류로 부상했다.",
+        "body": "액티브 ETF 시장에서도 K주식 중심의 한국형 상품이 자금 유입을 주도하고 있다. 한국경제 보도에 따르면 액티브 ETF 순유입 비중에서 한국형 상품이 80%에 육박한 것으로 나타났다. 이는 액티브 ETF 투자 수요가 국내 주식형 상품으로 집중되고 있음을 보여주는 수치다. 액티브 ETF는 운용 전략에 따라 편입 종목과 비중을 조정할 수 있는 상품으로, K주식에 대한 투자자 관심이 순유입 흐름에 반영된 것으로 해석된다. 앞으로 액티브 ETF 시장에서는 한국형 상품의 존재감이 계속 주요 변수로 작용할 전망이다. 출처: hankyung.com"
+      },
+      "en": {
+        "title": "K-Stock Active ETFs Near 80% of Net Inflows as Korean Funds Lead",
+        "excerpt": "According to Hankyung, Korean-style active ETFs focused on K-stocks are approaching 80% of net inflows, becoming the main driver of investor money flows.",
+        "body": "K-stock-focused Korean-style products are leading fund inflows in the active ETF market. According to Hankyung, Korean-style products accounted for nearly 80% of net inflows into active ETFs. The figure shows that demand for active ETF investment is concentrating in domestic equity products. Active ETFs can adjust holdings and weightings according to management strategies, and investor interest in K-stocks is being reflected in net inflow trends. Korean-style products are expected to remain a key factor in the active ETF market. Source: hankyung.com"
+      },
+      "ja": {
+        "title": "K株アクティブETFの純流入比率80%迫る、韓国型商品が主流に",
+        "excerpt": "韓国経済新聞によると、アクティブETF市場でもK株中心の韓国型商品が純流入比率80%に迫り、資金流入の主流となっている。",
+        "body": "アクティブETF市場でも、K株中心の韓国型商品が資金流入を主導している。韓国経済新聞によると、アクティブETFの純流入比率で韓国型商品が80%に迫った。これは、アクティブETFへの投資需要が国内株式型商品に集中していることを示す数値だ。アクティブETFは運用戦略に応じて組入銘柄や比率を調整できる商品であり、K株への投資家の関心が純流入の動きに反映された形だ。今後も韓国型商品の存在感は市場の重要な要因となる見通しだ。出典: hankyung.com"
+      },
+      "zh": {
+        "title": "韩股主动ETF净流入占比逼近80%，韩国型产品成主流",
+        "excerpt": "据韩国经济报道，在主动ETF市场中，以韩股为核心的韩国型产品净流入占比逼近80%，成为投资资金流向的主导力量。",
+        "body": "在主动ETF市场中，以韩股为核心的韩国型产品正在主导资金流入。据韩国经济报道，韩国型产品在主动ETF净流入中的占比已逼近80%。这一数据表明，主动ETF的投资需求正集中于韩国国内股票型产品。主动ETF可根据管理策略调整持仓标的和比例，投资者对韩股的关注也反映在净流入趋势中。展望后市，韩国型产品在主动ETF市场中的存在感仍将是重要变量。来源: hankyung.com"
+      },
+      "es": {
+        "title": "ETF activos de acciones coreanas rozan el 80% de entradas netas",
+        "excerpt": "Según Hankyung, los ETF activos de tipo coreano centrados en acciones K se acercan al 80% de las entradas netas y lideran el flujo de capital inversor.",
+        "body": "Los productos de tipo coreano centrados en acciones K están liderando las entradas de capital en el mercado de ETF activos. Según Hankyung, estos productos rozan el 80% de las entradas netas en ETF activos. La cifra muestra que la demanda de inversión en ETF activos se concentra en productos de renta variable doméstica. Los ETF activos pueden ajustar sus valores y ponderaciones según la estrategia de gestión, y el interés de los inversores por las acciones K se refleja en las entradas netas. Los productos coreanos seguirán siendo un factor clave en este mercado. Fuente: hankyung.com"
+      },
+      "pt": {
+        "title": "ETFs ativos de ações coreanas se aproximam de 80% das entradas",
+        "excerpt": "Segundo o Hankyung, ETFs ativos de perfil coreano focados em ações K chegam perto de 80% das entradas líquidas e lideram o fluxo de recursos.",
+        "body": "Produtos de perfil coreano focados em ações K estão liderando a entrada de recursos no mercado de ETFs ativos. Segundo o Hankyung, esses produtos se aproximaram de 80% das entradas líquidas em ETFs ativos. O dado mostra que a demanda por investimento em ETFs ativos está concentrada em produtos de ações domésticas. ETFs ativos podem ajustar ativos e pesos conforme a estratégia de gestão, e o interesse dos investidores por ações K aparece no fluxo líquido. A presença dos produtos coreanos deve seguir como fator importante no mercado. Fonte: hankyung.com"
+      },
+      "de": {
+        "title": "K-Aktien-Active-ETFs nähern sich 80% der Nettozuflüsse",
+        "excerpt": "Laut Hankyung erreichen koreanische Active ETFs mit Fokus auf K-Aktien fast 80% der Nettozuflüsse und prägen damit die Kapitalströme der Anleger.",
+        "body": "Koreanische Active ETFs mit Fokus auf K-Aktien führen die Mittelzuflüsse im Markt für aktive ETFs an. Laut Hankyung nähert sich der Anteil koreanischer Produkte an den Nettozuflüssen aktiver ETFs der Marke von 80%. Die Zahl zeigt, dass sich die Nachfrage nach aktiven ETFs auf inländische Aktienprodukte konzentriert. Active ETFs können Positionen und Gewichtungen je nach Anlagestrategie anpassen, und das Interesse der Anleger an K-Aktien spiegelt sich in den Nettozuflüssen wider. Koreanische Produkte dürften ein wichtiger Faktor bleiben. Quelle: hankyung.com"
+      },
+      "fr": {
+        "title": "Les ETF actifs d’actions coréennes frôlent 80% des entrées nettes",
+        "excerpt": "Selon Hankyung, les ETF actifs de type coréen centrés sur les actions K approchent 80% des entrées nettes et dominent les flux des investisseurs.",
+        "body": "Les produits de type coréen centrés sur les actions K dominent les entrées de capitaux sur le marché des ETF actifs. Selon Hankyung, leur part dans les entrées nettes des ETF actifs approche 80%. Ce chiffre montre que la demande d’investissement en ETF actifs se concentre sur les produits d’actions domestiques. Les ETF actifs peuvent ajuster leurs titres et pondérations selon leur stratégie de gestion, et l’intérêt des investisseurs pour les actions K se reflète dans les flux nets. Ces produits devraient rester un facteur important du marché. Source: hankyung.com"
+      },
+      "ar": {
+        "title": "صناديق ETF النشطة للأسهم الكورية تقترب من 80% من صافي التدفقات",
+        "excerpt": "بحسب هانكيونغ، تقترب صناديق ETF النشطة ذات الطابع الكوري والمرتكزة على الأسهم الكورية من 80% من صافي التدفقات، لتقود حركة أموال المستثمرين.",
+        "body": "تقود المنتجات ذات الطابع الكوري والمرتكزة على الأسهم الكورية تدفقات الأموال في سوق صناديق ETF النشطة. وبحسب هانكيونغ، اقتربت حصة هذه المنتجات من 80% من صافي التدفقات إلى صناديق ETF النشطة. ويشير هذا الرقم إلى أن الطلب على الاستثمار في الصناديق النشطة يتركز في منتجات الأسهم المحلية. وتستطيع صناديق ETF النشطة تعديل المكونات والأوزان وفقا لاستراتيجية الإدارة، فيما ينعكس اهتمام المستثمرين بالأسهم الكورية في اتجاهات صافي التدفقات. ومن المتوقع أن تبقى هذه المنتجات عاملا مهما في السوق. المصدر: hankyung.com"
+      },
+      "hi": {
+        "title": "के-स्टॉक सक्रिय ETF में शुद्ध प्रवाह हिस्सेदारी 80% के करीब",
+        "excerpt": "Hankyung के अनुसार, के-स्टॉक केंद्रित कोरियाई सक्रिय ETF शुद्ध प्रवाह में लगभग 80% हिस्सेदारी तक पहुंच रहे हैं और निवेशक धन प्रवाह का मुख्य केंद्र बने हैं।",
+        "body": "सक्रिय ETF बाजार में के-स्टॉक केंद्रित कोरियाई उत्पाद धन प्रवाह का नेतृत्व कर रहे हैं। Hankyung के अनुसार, सक्रिय ETF के शुद्ध प्रवाह में कोरियाई उत्पादों की हिस्सेदारी 80% के करीब पहुंच गई है। यह आंकड़ा दिखाता है कि सक्रिय ETF में निवेश मांग घरेलू इक्विटी उत्पादों पर केंद्रित है। सक्रिय ETF प्रबंधन रणनीति के अनुसार होल्डिंग और वजन बदल सकते हैं, और के-स्टॉक में निवेशकों की रुचि शुद्ध प्रवाह में दिख रही है। आगे भी कोरियाई उत्पाद सक्रिय ETF बाजार में अहम कारक बने रह सकते हैं। स्रोत: hankyung.com"
+      },
+      "id": {
+        "title": "ETF Aktif Saham Korea Dekati 80% Arus Masuk Bersih",
+        "excerpt": "Menurut Hankyung, ETF aktif bergaya Korea yang berfokus pada saham K mendekati 80% arus masuk bersih dan menjadi penggerak utama dana investor.",
+        "body": "Produk bergaya Korea yang berfokus pada saham K memimpin arus dana di pasar ETF aktif. Menurut Hankyung, pangsa produk Korea dalam arus masuk bersih ETF aktif mendekati 80%. Angka ini menunjukkan bahwa permintaan investasi ETF aktif terkonsentrasi pada produk saham domestik. ETF aktif dapat menyesuaikan konstituen dan bobot sesuai strategi pengelolaan, dan minat investor terhadap saham K tercermin dalam tren arus masuk bersih. Ke depan, produk Korea diperkirakan tetap menjadi faktor penting di pasar ETF aktif. Sumber: hankyung.com"
+      }
+    }
+  },
+  {
+    "id": "c50b71d0a654",
+    "slug": "토지거래허가구역에서-매매-효력-계약보다-허가가-좌우한다-682018",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-05-07T21:08:16.941Z",
+    "updatedAt": "2026-05-07T21:08:16.941Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/2026050707781",
+    "canonicalUrl": "https://www.hankyung.com/article/2026050707781",
+    "titleFingerprint": "aa5ca27bfe0a248749b422bca02d50cf52d492bf",
+    "dedupKeys": [
+      "c50b71d0a6544f089f8fa03667ceafcfdd58f0b4",
+      "aa5ca27bfe0a248749b422bca02d50cf52d492bf",
+      "7eec6184204e9f189ca9a74e359b1fbf1db3882f"
+    ],
+    "imageUrl": "/images/articles/c50b71d0a654.jpg",
+    "i18n": {
+      "ko": {
+        "title": "토지거래허가구역 매매계약, 법적 효력은 ‘허가’가 결정한다",
+        "excerpt": "한국경제는 5월 7일 토지거래허가구역 내 부동산 매매에서 계약 체결만으로 권리·의무가 생기지 않고, 행정청 허가 여부가 효력을 좌우한다고 전했다.",
+        "body": "한국경제는 5월 7일 토지거래허가구역 내 매매계약의 효력은 계약서 작성보다 행정청 허가 여부가 핵심이라고 보도했다. 토지거래허가구역은 투기적 거래와 지가 급등 우려가 있는 지역의 거래를 일정 기간 허가제로 통제하는 제도이며, 현재 서울 전역과 수도권 일부가 지정돼 있다. 허가를 전제로 한 계약은 허가 전까지 ‘유동적 무효’ 상태로, 매수인의 소유권이전등기 청구나 매도인의 대금 청구가 허용되지 않는다. 다만 당사자는 공동 신청과 자료 제출 등 허가 절차에 협력할 의무가 있다. 불허가가 내려지면 계약은 그 시점에서 확정적으로 무효가 된다. 출처: hankyung.com"
+      },
+      "en": {
+        "title": "Land Transaction Permit Zones: Approval, Not Contract, Decides Sale Validity",
+        "excerpt": "Hankyung reported on May 7 that in land transaction permit zones, signing a property sale contract alone does not create rights or duties; official approval determines legal effect.",
+        "body": "Hankyung reported on May 7 that the legal effect of a sale contract inside a land transaction permit zone depends more on administrative approval than on signing the contract itself. The system controls transactions for a set period in areas exposed to speculative trading or sharp land-price increases, and all of Seoul plus parts of the metropolitan area are currently designated. A contract made on the premise of approval remains in a state of “fluid invalidity” before approval, so a buyer cannot demand ownership transfer registration and a seller cannot demand payment. The parties must still cooperate in the permit process, including joint filing and document submission. If approval is denied, the contract becomes definitively invalid at that point. Source: hankyung.com"
+      },
+      "ja": {
+        "title": "土地取引許可区域の売買、契約より「許可」が効力を左右",
+        "excerpt": "韓国経済新聞は5月7日、土地取引許可区域での不動産売買は契約締結だけでは権利義務が生じず、行政庁の許可が法的効力を決めると伝えた。",
+        "body": "韓国経済新聞は5月7日、土地取引許可区域内の売買契約の効力は、契約書の作成よりも行政庁の許可の有無が核心になると報じた。土地取引許可区域は、投機的取引や地価急騰の恐れがある地域の取引を一定期間、許可制で統制する制度で、現在はソウル全域と首都圏の一部が指定されている。許可を前提にした契約は、許可前までは「流動的無効」の状態に置かれ、買主の所有権移転登記請求や売主の代金請求は認められない。ただし当事者には、共同申請や資料提出など許可手続きに協力する義務がある。不許可となれば、契約はその時点で確定的に無効となる。出典: hankyung.com"
+      },
+      "zh": {
+        "title": "土地交易许可区买卖效力：决定因素不是合同，而是“许可”",
+        "excerpt": "韩国经济新闻5月7日报道，在土地交易许可区内，不动产买卖仅签订合同并不产生权利义务，行政机关是否许可才决定法律效力。",
+        "body": "韩国经济新闻5月7日报道，在土地交易许可区内，买卖合同的法律效力关键不在于是否签署合同，而在于行政机关是否批准。土地交易许可区是针对存在投机交易和地价急涨风险的地区，在一定期限内以许可制管控交易的制度；目前首尔全域及首都圈部分地区被指定。以取得许可为前提签订的合同，在许可前处于“流动性无效”状态，买方不能请求所有权转移登记，卖方也不能请求支付价款。但双方仍负有协助许可程序的义务，包括共同申请和提交资料。若申请被拒，合同自该时点起确定无效。来源: hankyung.com"
+      },
+      "es": {
+        "title": "Zonas con permiso de tierras: la aprobación define la validez de la venta",
+        "excerpt": "Hankyung informó el 7 de mayo que, en zonas sujetas a permiso de transacción de tierras, firmar un contrato no basta: la autorización administrativa determina su efecto legal.",
+        "body": "Hankyung informó el 7 de mayo que, en una zona sujeta a permiso de transacción de tierras, la eficacia jurídica de una compraventa depende más de la autorización administrativa que de la firma del contrato. El sistema controla durante un periodo determinado las operaciones en áreas con riesgo de transacciones especulativas o subidas bruscas del precio del suelo; actualmente están incluidas todo Seúl y algunas zonas del área metropolitana. Un contrato celebrado bajo la premisa de obtener permiso queda en estado de “nulidad fluctuante” antes de la aprobación, por lo que el comprador no puede exigir el registro de transferencia de propiedad ni el vendedor reclamar el pago. Aun así, las partes deben cooperar en la solicitud conjunta y la entrega de documentos. Si se deniega el permiso, el contrato queda definitivamente nulo desde ese momento. Fuente: hankyung.com"
+      },
+      "pt": {
+        "title": "Zonas de permissão fundiária: aprovação decide validade da compra e venda",
+        "excerpt": "O Hankyung informou em 7 de maio que, em zonas sujeitas a permissão de transação de terras, assinar o contrato não basta; a autorização administrativa define o efeito legal.",
+        "body": "O Hankyung informou em 7 de maio que, em zonas sujeitas a permissão de transação de terras, a eficácia jurídica de um contrato de compra e venda depende mais da autorização administrativa do que da assinatura do contrato. O sistema controla por um período determinado as transações em áreas com risco de negociação especulativa ou forte alta do preço da terra; atualmente, toda Seul e partes da região metropolitana estão designadas. Um contrato firmado sob a premissa de aprovação fica em estado de “nulidade fluida” antes da permissão, de modo que o comprador não pode exigir o registro de transferência de propriedade e o vendedor não pode cobrar o preço. Ainda assim, as partes devem cooperar com o pedido conjunto e a apresentação de documentos. Se a autorização for negada, o contrato torna-se definitivamente nulo nesse momento. Fonte: hankyung.com"
+      },
+      "de": {
+        "title": "Grundstücks-Genehmigungszonen: Erlaubnis entscheidet über Kaufvertrag",
+        "excerpt": "Hankyung berichtete am 7. Mai, dass in südkoreanischen Grundstücksverkehrs-Genehmigungszonen nicht der Vertragsabschluss allein, sondern die behördliche Genehmigung die Rechtswirkung bestimmt.",
+        "body": "Hankyung berichtete am 7. Mai, dass in einer Grundstücksverkehrs-Genehmigungszone die Wirksamkeit eines Kaufvertrags stärker von der behördlichen Genehmigung abhängt als von der Vertragsunterzeichnung. Das System kontrolliert Transaktionen für eine bestimmte Zeit in Gebieten mit Risiko spekulativer Geschäfte oder starker Bodenpreissteigerungen; derzeit sind ganz Seoul und Teile des Hauptstadtgebiets erfasst. Ein unter dem Vorbehalt der Genehmigung geschlossener Vertrag befindet sich vor der Genehmigung im Zustand einer „schwebenden Unwirksamkeit“. Deshalb kann der Käufer keine Eigentumsumschreibung verlangen und der Verkäufer keinen Kaufpreis fordern. Die Parteien müssen aber beim Genehmigungsverfahren kooperieren, etwa durch gemeinsamen Antrag und Vorlage von Unterlagen. Wird die Genehmigung verweigert, ist der Vertrag ab diesem Zeitpunkt endgültig unwirksam. Quelle: hankyung.com"
+      },
+      "fr": {
+        "title": "Zones d’autorisation foncière : l’accord administratif prime le contrat",
+        "excerpt": "Hankyung a rapporté le 7 mai que, dans les zones soumises à autorisation de transaction foncière, la signature seule ne crée pas de droits; l’autorisation fixe l’effet juridique.",
+        "body": "Hankyung a rapporté le 7 mai que, dans une zone soumise à autorisation de transaction foncière, l’effet juridique d’un contrat de vente dépend davantage de l’autorisation administrative que de la signature du contrat. Ce dispositif encadre pendant une période donnée les transactions dans les secteurs exposés aux opérations spéculatives ou à une forte hausse des prix des terrains; tout Séoul et certaines parties de la région métropolitaine sont actuellement désignés. Un contrat conclu sous réserve d’autorisation reste en état de “nullité flottante” avant l’accord: l’acheteur ne peut pas exiger l’inscription du transfert de propriété et le vendeur ne peut pas réclamer le prix. Les parties doivent toutefois coopérer à la demande commune et au dépôt des pièces. En cas de refus, le contrat devient définitivement nul à ce moment-là. Source: hankyung.com"
+      },
+      "ar": {
+        "title": "مناطق ترخيص تداول الأراضي: الموافقة لا العقد تحدد صحة البيع",
+        "excerpt": "ذكرت هانكيونغ في 7 مايو أن إبرام عقد بيع عقار داخل مناطق ترخيص تداول الأراضي لا ينشئ وحده حقوقا أو التزامات، إذ تحدد موافقة الإدارة الأثر القانوني.",
+        "body": "ذكرت هانكيونغ في 7 مايو أن الأثر القانوني لعقد البيع داخل منطقة ترخيص تداول الأراضي يتوقف أساسا على موافقة الجهة الإدارية، لا على توقيع العقد وحده. ويهدف هذا النظام إلى ضبط التداول لفترة محددة في المناطق المعرضة للمضاربة أو الارتفاع الحاد في أسعار الأراضي، وتشمل التسمية الحالية كامل سيول وبعض مناطق العاصمة. والعقد المبرم على أساس الحصول على الترخيص يبقى قبل الموافقة في حالة “بطلان متحرك”، فلا يستطيع المشتري طلب تسجيل نقل الملكية ولا يستطيع البائع المطالبة بالثمن. لكن يظل على الطرفين واجب التعاون في إجراءات الترخيص، بما في ذلك الطلب المشترك وتقديم المستندات. وإذا صدر رفض للترخيص، يصبح العقد باطلا بصورة نهائية من تلك اللحظة. المصدر: hankyung.com"
+      },
+      "hi": {
+        "title": "भूमि लेनदेन अनुमति क्षेत्र: बिक्री की वैधता अनुबंध नहीं, मंजूरी तय करती है",
+        "excerpt": "हैंक्यूंग ने 7 मई को बताया कि भूमि लेनदेन अनुमति क्षेत्रों में संपत्ति बिक्री का अनुबंध भर करने से अधिकार या दायित्व नहीं बनते; प्रशासनिक मंजूरी ही कानूनी प्रभाव तय करती है।",
+        "body": "हैंक्यूंग ने 7 मई को बताया कि भूमि लेनदेन अनुमति क्षेत्र में बिक्री अनुबंध का कानूनी प्रभाव अनुबंध पर हस्ताक्षर से अधिक प्रशासनिक मंजूरी पर निर्भर करता है। यह व्यवस्था उन क्षेत्रों में, जहां सट्टात्मक लेनदेन या जमीन की कीमत में तेज वृद्धि की आशंका है, एक निश्चित अवधि के लिए लेनदेन को अनुमति प्रणाली से नियंत्रित करती है; फिलहाल पूरा सियोल और राजधानी क्षेत्र के कुछ हिस्से इसमें शामिल हैं। मंजूरी की शर्त पर किया गया अनुबंध मंजूरी से पहले “चलायमान अमान्यता” की स्थिति में रहता है, इसलिए खरीदार स्वामित्व हस्तांतरण पंजीकरण की मांग नहीं कर सकता और विक्रेता भुगतान की मांग नहीं कर सकता। फिर भी पक्षों पर संयुक्त आवेदन और दस्तावेज जमा करने जैसी अनुमति प्रक्रिया में सहयोग का दायित्व रहता है। मंजूरी न मिलने पर अनुबंध उसी समय अंतिम रूप से अमान्य हो जाता है। स्रोत: hankyung.com"
+      },
+      "id": {
+        "title": "Zona Izin Transaksi Tanah: Persetujuan Menentukan Sahnya Jual Beli",
+        "excerpt": "Hankyung melaporkan pada 7 Mei bahwa di zona izin transaksi tanah, penandatanganan kontrak jual beli properti saja tidak menimbulkan hak dan kewajiban; izin administrasi menentukan akibat hukumnya.",
+        "body": "Hankyung melaporkan pada 7 Mei bahwa akibat hukum kontrak jual beli di dalam zona izin transaksi tanah lebih ditentukan oleh persetujuan administrasi daripada penandatanganan kontrak itu sendiri. Sistem ini mengendalikan transaksi untuk periode tertentu di wilayah yang berisiko mengalami transaksi spekulatif atau kenaikan tajam harga tanah; saat ini seluruh Seoul dan sebagian wilayah metropolitan termasuk di dalamnya. Kontrak yang dibuat dengan premis akan memperoleh izin berada dalam keadaan “batal mengambang” sebelum izin keluar, sehingga pembeli tidak dapat menuntut pendaftaran pengalihan kepemilikan dan penjual tidak dapat menagih pembayaran. Namun para pihak tetap wajib bekerja sama dalam proses izin, termasuk pengajuan bersama dan penyampaian dokumen. Jika izin ditolak, kontrak menjadi batal secara definitif pada saat itu. Sumber: hankyung.com"
+      }
+    }
+  },
+  {
+    "id": "8942bd815f95",
+    "slug": "코스피-전에-대만-주식-알았어야10년-수익률-봤더니-415-769405",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-05-07T21:07:02.238Z",
+    "updatedAt": "2026-05-07T21:07:02.238Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/stock/12040507",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12040507",
+    "titleFingerprint": "329ab7879b64fc5bc136d2601b9c1d903faac8ef",
+    "dedupKeys": [
+      "8942bd815f95c1d3b3b93028bf2dda6341e1f8e1",
+      "329ab7879b64fc5bc136d2601b9c1d903faac8ef",
+      "0c8493c377f95f8431549d42d5275ff2270b7e14"
+    ],
+    "imageUrl": "/images/articles/8942bd815f95.jpg",
+    "i18n": {
+      "ko": {
+        "title": "대만 주식 10년 수익률 415%, 코스피보다 먼저 달린 이유",
+        "excerpt": "대만 증시는 AI 하드웨어 공급망과 TSMC를 앞세워 먼저 랠리를 시작했고, 최근 코스피 급등 속에서도 10년 수익률 415%로 주목받고 있다.",
+        "body": "코스피가 7일 장중 7500선을 돌파하는 등 최근 가파른 상승세를 보이는 가운데, 지난 10년 수익률에서는 대만 주식시장이 더 앞선 것으로 나타났다. 원문에 따르면 대만 증시는 AI 하드웨어 공급망의 강점을 바탕으로 TSMC를 필두로 한 랠리를 먼저 시작했고, 10년 수익률은 415%에 달했다. 일본도 선제적인 밸류업 효과로 주가가 오르며 10년 수익률 290%를 기록해 한국보다 앞섰다. 이는 AI 공급망 경쟁력과 밸류업 정책이 장기 주가 흐름에 영향을 준 사례로 해석된다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Taiwan Stocks Returned 415% in 10 Years, Outpacing Korea’s Kospi",
+        "excerpt": "Taiwan’s market began its rally earlier on the strength of the AI hardware supply chain and TSMC, drawing attention with a 415% 10-year return as the Kospi surges.",
+        "body": "As the Kospi recently climbed sharply, including an intraday break above 7,500 on the 7th, Taiwan’s stock market has still led on a 10-year return basis. According to the original report, Taiwan began its rally earlier, led by TSMC and supported by the strength of its AI hardware supply chain. Its 10-year return reached 415%. Japan also outpaced Korea, posting a 290% 10-year return as share prices rose on preemptive value-up efforts. The figures show how AI supply-chain competitiveness and value-up initiatives have shaped long-term stock performance. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "台湾株10年リターン415%、韓国コスピより先に上昇した理由",
+        "excerpt": "台湾市場はAIハードウエア供給網とTSMCを軸に先に上昇を始め、コスピ急伸の中でも10年リターン415%で注目されている。",
+        "body": "コスピが7日の取引時間中に7500を突破するなど最近急上昇するなか、過去10年のリターンでは台湾株式市場がさらに先行していたことが示された。原文によると、台湾市場はAIハードウエア供給網の強みを背景に、TSMCを中心とするラリーを先に始め、10年リターンは415%に達した。日本も先制的なバリューアップ効果で株価が上昇し、10年リターンは290%と韓国を上回った。AI供給網の競争力とバリューアップ政策が長期の株価推移に影響した事例といえる。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "台湾股市10年回报率415%，为何早于韩国Kospi上涨",
+        "excerpt": "台湾股市凭借AI硬件供应链优势和TSMC率先启动涨势，在Kospi近期急涨之际，10年回报率415%受到关注。",
+        "body": "在Kospi近期快速上涨、7日盘中突破7500点之际，从过去10年回报率看，台湾股市仍更为领先。原文称，台湾股市依托AI硬件供应链优势，以TSMC为核心更早启动上涨行情，10年回报率达到415%。日本也因提前推进价值提升带动股价上涨，10年回报率为290%，同样领先韩国。这些数据表明，AI供应链竞争力和价值提升政策对长期股价走势产生了影响。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Bolsa de Taiwán ganó 415% en 10 años y superó al Kospi coreano",
+        "excerpt": "Taiwán inició antes su rally gracias a la cadena de suministro de hardware de IA y TSMC, y destaca con un retorno a 10 años del 415% pese al alza del Kospi.",
+        "body": "Mientras el Kospi ha subido con fuerza recientemente, incluso superando los 7.500 puntos intradía el día 7, el mercado bursátil de Taiwán aparece por delante en rentabilidad a 10 años. Según el texto original, Taiwán comenzó antes su rally apoyado en la fortaleza de la cadena de suministro de hardware de IA y liderado por TSMC. Su retorno a 10 años alcanzó el 415%. Japón también superó a Corea, con un 290% en 10 años, impulsado por subidas asociadas a medidas tempranas de value-up. Los datos muestran el impacto de la competitividad en IA y de esas políticas en las acciones a largo plazo. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Ações de Taiwan renderam 415% em 10 anos e superaram o Kospi",
+        "excerpt": "Taiwan iniciou a alta antes, apoiada na cadeia de hardware de IA e na TSMC, e chama atenção com retorno de 415% em 10 anos apesar da disparada do Kospi.",
+        "body": "Enquanto o Kospi avança rapidamente, incluindo a superação intradiária dos 7.500 pontos no dia 7, o mercado acionário de Taiwan aparece à frente no retorno de 10 anos. Segundo o texto original, Taiwan começou seu rali antes, liderada pela TSMC e sustentada pela força da cadeia de suprimentos de hardware de IA. O retorno em 10 anos chegou a 415%. O Japão também ficou à frente da Coreia, com retorno de 290%, impulsionado por altas associadas a medidas antecipadas de valorização. Os números indicam o peso da competitividade em IA e das políticas de value-up no desempenho de longo prazo. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Taiwans Aktien mit 415% in 10 Jahren: Warum sie dem Kospi voraus waren",
+        "excerpt": "Taiwans Markt startete dank KI-Hardware-Lieferkette und TSMC früher in die Rally und fällt trotz des Kospi-Anstiegs mit 415% Zehnjahresrendite auf.",
+        "body": "Während der Kospi zuletzt stark gestiegen ist und am 7. im Tagesverlauf die Marke von 7.500 überschritten hat, lag Taiwans Aktienmarkt bei der Zehnjahresrendite weiter vorn. Dem Ausgangstext zufolge begann Taiwan seine Rally früher, angeführt von TSMC und getragen von der Stärke der KI-Hardware-Lieferkette. Die Rendite über zehn Jahre erreichte 415%. Auch Japan lag mit 290% vor Korea, nachdem Aktien durch frühzeitige Value-up-Maßnahmen gestiegen waren. Die Zahlen zeigen, wie Wettbewerbsfähigkeit in der KI-Lieferkette und Value-up-Politik langfristige Aktienkurse beeinflusst haben. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Taïwan affiche 415% en 10 ans, devant le Kospi coréen en forte hausse",
+        "excerpt": "Le marché taïwanais a lancé son rally plus tôt grâce à la chaîne IA et à TSMC, attirant l’attention avec 415% de rendement sur 10 ans malgré le bond du Kospi.",
+        "body": "Alors que le Kospi progresse rapidement, avec un passage intrajournalier au-dessus de 7.500 le 7, le marché actions de Taïwan reste en tête sur la performance à 10 ans. Selon le texte original, Taïwan a commencé son rally plus tôt, porté par la solidité de la chaîne d’approvisionnement en matériel d’IA et mené par TSMC. Son rendement sur 10 ans atteint 415%. Le Japon devance aussi la Corée avec 290%, grâce à la hausse des cours liée à des mesures de valorisation prises en amont. Ces chiffres illustrent l’effet de la compétitivité dans l’IA et des politiques de value-up sur les actions à long terme. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "أسهم تايوان تحقق 415% في 10 سنوات وتتقدم على مؤشر كوسبي",
+        "excerpt": "بدأت سوق تايوان موجة الصعود مبكرا بفضل سلسلة توريد عتاد الذكاء الاصطناعي وTSMC، مسجلة عائدا لعشر سنوات بلغ 415% رغم صعود كوسبي.",
+        "body": "بينما سجل مؤشر كوسبي ارتفاعا حادا مؤخرا، بما في ذلك تجاوزه مستوى 7500 خلال تداولات اليوم السابع، أظهرت عوائد عشر سنوات أن سوق الأسهم التايوانية كانت أكثر تقدما. وبحسب النص الأصلي، بدأت تايوان موجة الصعود أولا اعتمادا على قوة سلسلة توريد عتاد الذكاء الاصطناعي وبقيادة TSMC. وبلغ عائدها خلال عشر سنوات 415%. كما تقدمت اليابان على كوريا بعائد 290% خلال عشر سنوات، بعد ارتفاع الأسهم بفعل إجراءات مبكرة لرفع القيمة. وتوضح الأرقام أثر تنافسية سلاسل توريد الذكاء الاصطناعي وسياسات رفع القيمة في مسار الأسهم طويل الأجل. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "ताइवान शेयरों ने 10 साल में 415% रिटर्न दिया, Kospi से आगे क्यों रहे",
+        "excerpt": "ताइवान बाजार ने AI हार्डवेयर सप्लाई चेन और TSMC के बल पर पहले रैली शुरू की, और Kospi की तेज बढ़त के बीच 10 साल में 415% रिटर्न से ध्यान खींचा।",
+        "body": "Kospi हाल में तेज चढ़ा है और 7 तारीख को इंट्राडे में 7500 के स्तर को पार कर गया, लेकिन 10 साल के रिटर्न में ताइवान शेयर बाजार आगे रहा। मूल रिपोर्ट के अनुसार, ताइवान ने AI हार्डवेयर सप्लाई चेन की ताकत के आधार पर, TSMC के नेतृत्व में, पहले रैली शुरू की। उसका 10 साल का रिटर्न 415% रहा। जापान भी पहले से किए गए value-up प्रयासों से शेयरों में तेजी के कारण 10 साल में 290% रिटर्न के साथ कोरिया से आगे रहा। ये आंकड़े दिखाते हैं कि AI सप्लाई चेन की प्रतिस्पर्धा और value-up नीतियों ने लंबी अवधि के शेयर प्रदर्शन को प्रभावित किया। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Saham Taiwan Naik 415% dalam 10 Tahun, Lebih Dulu dari Kospi",
+        "excerpt": "Pasar Taiwan memulai reli lebih awal berkat rantai pasok perangkat keras AI dan TSMC, mencatat imbal hasil 10 tahun 415% saat Kospi melonjak.",
+        "body": "Saat Kospi belakangan naik tajam, termasuk menembus level 7.500 secara intraday pada tanggal 7, pasar saham Taiwan tetap lebih unggul jika dilihat dari imbal hasil 10 tahun. Menurut teks asli, Taiwan memulai reli lebih dulu dengan kekuatan rantai pasok perangkat keras AI dan dipimpin oleh TSMC. Imbal hasil 10 tahunnya mencapai 415%. Jepang juga berada di depan Korea dengan imbal hasil 290%, setelah harga saham naik berkat langkah value-up yang lebih awal. Angka ini menunjukkan pengaruh daya saing rantai pasok AI dan kebijakan value-up terhadap kinerja saham jangka panjang. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
     "id": "5c109d22c059",
     "slug": "자녀에게-시간의-마법-가르치는-5월투자-경험을-선물하자-465325",
     "channelId": "ETF",
@@ -4271,231 +4496,6 @@
         "title": "Rencana Tol Kripto Iran Picu Risiko Sanksi bagi Eksportir Korea",
         "excerpt": "Peneliti senior Chainalysis Caitlin Martin memperingatkan bahwa rencana tol kripto Iran dan penggunaan aset digital oleh negara terkena sanksi dapat mengekspos pelayaran dan perbankan Korea pada risiko sanksi sekunder AS.",
         "body": "Langkah Iran untuk menerima pembayaran tol dalam mata uang kripto meningkatkan kebutuhan eksportir, perusahaan pelayaran, dan bank Korea untuk meninjau risiko sanksi. Caitlin Martin, peneliti senior Chainalysis, mengatakan aset virtual berkembang menjadi jalur penghindaran bagi negara yang dikenai sanksi. Menurut laporan asli, Garda Revolusi Iran menerima aset virtual senilai 3 miliar dolar AS tahun lalu. Angka ini menunjukkan potensi risiko sanksi sekunder Amerika Serikat bagi perusahaan dan lembaga keuangan yang bertransaksi dengan negara terkena sanksi atau terekspos jaringan pembayaran terkait. Sektor pelayaran dan perbankan Korea perlu memeriksa secara cermat struktur transaksi dan arus pembayaran yang terkait Iran. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "406c2114f02d",
-    "slug": "속보-7000피-코스피-장중-최고치-또-경신7500-돌파-108653",
-    "channelId": "ETF",
-    "category": "etf",
-    "publishedAt": "2026-05-07T04:44:40.220Z",
-    "updatedAt": "2026-05-07T04:44:40.220Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/stock/12038771",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12038771",
-    "titleFingerprint": "2ca975d4d21416bab1ff3d1eff095a113cc97990",
-    "dedupKeys": [
-      "406c2114f02d13f12cca74bc0cdb03913134fb5f",
-      "2ca975d4d21416bab1ff3d1eff095a113cc97990",
-      "3bd4f1782cb84e0a89a52cf40c8fd0fda7bbb33b"
-    ],
-    "imageUrl": "/images/articles/406c2114f02d.jpg",
-    "i18n": {
-      "ko": {
-        "title": "코스피 7500 돌파, 장중 최고치 또 경신…미·이란 종전 기대 반영",
-        "excerpt": "코스피가 7일 장 초반 7000선을 넘어 출발한 뒤 한때 7500선도 돌파하며 장중 최고치를 다시 경신했다. 미국과 이란의 종전 협상 기대감이 투자심리에 영향을 줬다.",
-        "body": "코스피가 7일 오전 장 초반 7000선을 돌파하며 출발한 뒤 한때 7500선까지 넘어서 장중 최고치를 다시 경신했다. 전날에 이어 미국과 이란의 종전 협상 기대감 등이 시장에 반영된 영향으로 풀이된다. 원문에 따르면 이날 오전 9시 6분 현재 코스피는 전일 대비 상승세를 보였다. 지수가 단기간에 7000선과 7500선을 잇달아 넘어서면서 투자자들은 장중 흐름과 외부 변수의 영향을 주시하고 있다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "KOSPI Tops 7,500 Intraday, Hits Fresh High on U.S.-Iran Truce Hopes",
-        "excerpt": "The KOSPI opened above 7,000 on May 7 and briefly crossed 7,500, setting another intraday high as hopes for U.S.-Iran ceasefire talks supported market sentiment.",
-        "body": "The KOSPI opened above the 7,000 mark in early trading on May 7 and at one point moved past 7,500, renewing its intraday high. The move followed the previous session’s strength and reflected expectations surrounding ceasefire negotiations between the United States and Iran. According to the original report, as of 9:06 a.m. that day, the KOSPI was trading higher from the previous close. With the index quickly moving through both 7,000 and 7,500, investors are watching intraday momentum and external factors. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "KOSPIが一時7500突破、取引時間中の最高値を再更新",
-        "excerpt": "KOSPIは7日朝、7000台に乗せて始まり、一時7500台も突破して取引時間中の最高値を再び更新した。米国とイランの停戦協議への期待が投資心理を支えた。",
-        "body": "KOSPIは7日午前の取引序盤に7000を突破して始まり、その後一時7500も上回り、取引時間中の最高値を再び更新した。前日に続き、米国とイランの停戦協議への期待などが市場に反映されたとみられる。原文によると、同日午前9時6分現在、KOSPIは前日比で上昇していた。指数が短期間で7000と7500を相次いで超えたことで、投資家は取引時間中の流れと外部要因の影響を注視している。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "韩国KOSPI盘中突破7500点，再创盘中历史新高",
-        "excerpt": "韩国KOSPI指数7日早盘站上7000点后，一度突破7500点，再次刷新盘中最高纪录。美国与伊朗停战谈判预期提振了市场情绪。",
-        "body": "韩国KOSPI指数7日早盘突破7000点开盘，随后一度升破7500点，再次刷新盘中最高纪录。继前一交易日上涨后，美国与伊朗停战谈判的期待等因素被认为反映在市场走势中。原文称，截至当天上午9时6分，KOSPI较前一交易日呈上涨态势。指数在短时间内接连越过7000点和7500点，投资者正关注盘中走势以及外部变量的影响。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "KOSPI supera 7.500 puntos intradía y renueva máximo por expectativas EE. UU.-Irán",
-        "excerpt": "El KOSPI abrió por encima de 7.000 el 7 de mayo y llegó a superar los 7.500 puntos intradía, marcando otro máximo por expectativas de negociación entre EE. UU. e Irán.",
-        "body": "El KOSPI abrió por encima de los 7.000 puntos en las primeras operaciones del 7 de mayo y en un momento superó los 7.500, renovando su máximo intradía. El avance siguió al impulso del día anterior y reflejó, según el reporte, expectativas sobre negociaciones de fin del conflicto entre Estados Unidos e Irán. De acuerdo con la información original, a las 9:06 a. m. de ese día el KOSPI cotizaba al alza frente al cierre previo. Tras cruzar rápidamente 7.000 y 7.500, los inversores observan el rumbo intradía y los factores externos. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "KOSPI passa de 7.500 pontos no intradia e renova máxima com expectativa EUA-Irã",
-        "excerpt": "O KOSPI abriu acima de 7.000 em 7 de maio e chegou a superar 7.500 pontos no intradia, renovando a máxima com expectativas de negociações entre EUA e Irã.",
-        "body": "O KOSPI abriu acima dos 7.000 pontos no início do pregão de 7 de maio e, em determinado momento, ultrapassou 7.500, renovando sua máxima intradiária. O movimento deu sequência à alta do dia anterior e refletiu expectativas em torno de negociações para o fim do conflito entre Estados Unidos e Irã. Segundo a reportagem original, às 9h06 daquele dia o KOSPI operava em alta ante o fechamento anterior. Com o índice superando rapidamente 7.000 e 7.500, investidores acompanham o ritmo intradiário e fatores externos. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "KOSPI steigt intraday über 7.500 Punkte und markiert neues Hoch",
-        "excerpt": "Der KOSPI eröffnete am 7. Mai über 7.000 Punkten und überschritt zeitweise auch 7.500 Punkte. Hoffnungen auf Gespräche zwischen den USA und Iran stützten die Marktstimmung.",
-        "body": "Der KOSPI eröffnete am Morgen des 7. Mai über der Marke von 7.000 Punkten und stieg zeitweise über 7.500 Punkte, womit er ein neues Intraday-Hoch erreichte. Die Bewegung knüpfte an den Vortag an und spiegelte Erwartungen rund um Verhandlungen über ein Ende des Konflikts zwischen den USA und Iran wider. Dem Originalbericht zufolge lag der KOSPI um 9:06 Uhr an diesem Tag gegenüber dem Vortag im Plus. Da der Index in kurzer Zeit 7.000 und 7.500 überschritt, beobachten Anleger den Tagesverlauf und externe Einflussfaktoren. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Le KOSPI franchit 7 500 points en séance et inscrit un nouveau sommet",
-        "excerpt": "Le KOSPI a ouvert au-dessus de 7 000 points le 7 mai puis a brièvement dépassé 7 500 points, soutenu par les attentes liées aux discussions entre les États-Unis et l’Iran.",
-        "body": "Le KOSPI a ouvert au-dessus du seuil des 7 000 points dans les premiers échanges du 7 mai, avant de dépasser brièvement 7 500 points et d’inscrire un nouveau plus haut en séance. Le mouvement prolongeait la dynamique de la veille et reflétait les attentes autour de négociations sur la fin du conflit entre les États-Unis et l’Iran. Selon l’article original, à 9 h 06 ce jour-là, le KOSPI évoluait en hausse par rapport à la clôture précédente. Après le franchissement rapide de 7 000 puis 7 500 points, les investisseurs surveillent le rythme intrajournalier et les facteurs externes. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "كوسبي يتجاوز 7500 نقطة خلال الجلسة ويسجل قمة جديدة بدعم آمال أميركا وإيران",
-        "excerpt": "افتتح مؤشر كوسبي فوق 7000 نقطة في 7 مايو ثم تجاوز 7500 نقطة لفترة وجيزة، مسجلا أعلى مستوى خلال الجلسة مع دعم توقعات مفاوضات بين الولايات المتحدة وإيران للمعنويات.",
-        "body": "افتتح مؤشر كوسبي تداولات صباح 7 مايو فوق مستوى 7000 نقطة، ثم تجاوز في وقت من الجلسة مستوى 7500 نقطة، ليجدد أعلى مستوى له خلال التداول. وجاء التحرك امتدادا لقوة اليوم السابق، مع انعكاس توقعات بشأن مفاوضات لإنهاء النزاع بين الولايات المتحدة وإيران على السوق. وبحسب التقرير الأصلي، كان كوسبي عند الساعة 9:06 صباحا من ذلك اليوم مرتفعا مقارنة بالإغلاق السابق. ومع عبور المؤشر مستويي 7000 و7500 خلال فترة قصيرة، يراقب المستثمرون حركة الجلسة وتأثير العوامل الخارجية. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "KOSPI ने इंट्राडे में 7,500 पार किया, अमेरिका-ईरान उम्मीदों से नया उच्च स्तर",
-        "excerpt": "KOSPI ने 7 मई को शुरुआती कारोबार में 7,000 के ऊपर शुरुआत की और एक समय 7,500 भी पार किया। अमेरिका और ईरान के बीच संघर्ष समाप्ति वार्ता की उम्मीदों ने बाजार धारणा को सहारा दिया।",
-        "body": "KOSPI ने 7 मई की सुबह शुरुआती कारोबार में 7,000 के स्तर को पार करते हुए शुरुआत की और एक समय 7,500 से ऊपर चला गया, जिससे उसने इंट्राडे उच्च स्तर फिर से बनाया। पिछले दिन की मजबूती के बाद यह चाल अमेरिका और ईरान के बीच संघर्ष समाप्ति वार्ता की उम्मीदों सहित कारकों को दर्शाती है। मूल रिपोर्ट के अनुसार, उस दिन सुबह 9:06 बजे KOSPI पिछले बंद स्तर की तुलना में बढ़त पर था। सूचकांक के कम समय में 7,000 और 7,500 पार करने के बाद निवेशक इंट्राडे रुख और बाहरी कारकों के असर पर नजर रख रहे हैं। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "KOSPI Tembus 7.500 Intraday, Cetak Rekor Baru di Tengah Harapan AS-Iran",
-        "excerpt": "KOSPI dibuka di atas 7.000 pada 7 Mei dan sempat menembus 7.500 intraday, kembali mencetak level tertinggi seiring harapan negosiasi akhir konflik AS-Iran.",
-        "body": "KOSPI dibuka menembus level 7.000 pada awal perdagangan 7 Mei dan sempat bergerak melewati 7.500, kembali memperbarui rekor tertinggi intraday. Penguatan ini melanjutkan pergerakan hari sebelumnya dan mencerminkan ekspektasi terkait negosiasi akhir konflik antara Amerika Serikat dan Iran. Menurut laporan asli, pada pukul 09.06 hari itu KOSPI berada dalam posisi menguat dibanding penutupan sebelumnya. Setelah indeks dengan cepat melewati 7.000 dan 7.500, investor mencermati arah perdagangan intraday serta pengaruh faktor eksternal. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "7f7d15f45690",
-    "slug": "미래에셋증권-isa-고객-자산-석달만에-5조-증가15조-돌파-261173",
-    "channelId": "ETF",
-    "category": "etf",
-    "publishedAt": "2026-05-07T04:43:36.673Z",
-    "updatedAt": "2026-05-07T04:43:36.674Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/stock/12038977",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12038977",
-    "titleFingerprint": "edb42d1ddb033aa672a4f1d827fcaa649e311e5d",
-    "dedupKeys": [
-      "7f7d15f45690dd91d3df2ccd4f7068af61a970ad",
-      "edb42d1ddb033aa672a4f1d827fcaa649e311e5d",
-      "69bc7ec258fe13ab8efc4db5fce6639b07f40b74"
-    ],
-    "imageUrl": "/images/articles/7f7d15f45690.jpg",
-    "i18n": {
-      "ko": {
-        "title": "미래에셋증권 ISA 고객 자산 15조원 돌파, 석 달 새 5조 증가",
-        "excerpt": "미래에셋증권은 7일 개인종합자산관리계좌(ISA) 고객 자산이 15조원을 넘어섰다고 밝혔다. 1월 말 10조원을 돌파한 뒤 3개월 만에 5조원이 늘었다.",
-        "body": "미래에셋증권은 7일 개인종합자산관리계좌(ISA) 고객 자산이 15조원을 넘어섰다고 밝혔다. 올해 1월 말 ISA 고객 자산이 10조원을 넘은 이후 약 3개월 만에 5조원이 증가한 것이다. 회사는 ISA 자산 확대의 배경으로 로보어드바이저 서비스 강점을 제시했다. ISA는 개인이 다양한 금융상품을 한 계좌에서 관리하는 절세계좌로, 고객 자산 규모 증가는 해당 계좌를 통한 자산관리 수요가 커지고 있음을 보여준다. 이번 15조원 돌파는 미래에셋증권의 ISA 기반 고객 자산관리 경쟁력을 부각하는 수치로 해석된다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Mirae Asset Securities ISA Assets Top 15 Trillion Won After 5 Trillion Gain",
-        "excerpt": "Mirae Asset Securities said on the 7th that customer assets in its ISA accounts exceeded 15 trillion won, rising 5 trillion won in three months after topping 10 trillion won at end-January.",
-        "body": "Mirae Asset Securities said on the 7th that customer assets in its Individual Savings Account (ISA) business have surpassed 15 trillion won. The total had exceeded 10 trillion won at the end of January this year, meaning assets increased by 5 trillion won in about three months. The company pointed to the strength of its robo-advisor service as a factor behind the growth. ISA accounts allow individuals to manage various financial products in one tax-advantaged account, and the increase in customer assets shows growing demand for asset management through the product. The 15 trillion won milestone highlights Mirae Asset Securities’ ISA-based wealth management position. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "未来アセット証券のISA顧客資産が15兆ウォン突破、3カ月で5兆増",
-        "excerpt": "未来アセット証券は7日、個人総合資産管理口座（ISA）の顧客資産が15兆ウォンを超えたと発表した。1月末の10兆ウォン突破から3カ月で5兆ウォン増えた。",
-        "body": "未来アセット証券は7日、個人総合資産管理口座（ISA）の顧客資産が15兆ウォンを超えたと明らかにした。今年1月末にISA顧客資産が10兆ウォンを突破してから、約3カ月で5兆ウォン増加したことになる。同社は資産拡大の背景として、ロボアドバイザーサービスの強みを挙げた。ISAは個人が多様な金融商品を一つの口座で管理する税制優遇口座であり、顧客資産の増加は同口座を通じた資産管理需要の高まりを示している。今回の15兆ウォン突破は、未来アセット証券のISA基盤の資産管理競争力を示す数値と受け止められる。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "未来资产证券ISA客户资产突破15万亿韩元，三个月增5万亿",
-        "excerpt": "未来资产证券7日表示，个人综合资产管理账户（ISA）客户资产已超过15万亿韩元，继1月底突破10万亿韩元后，三个月增加5万亿韩元。",
-        "body": "未来资产证券7日表示，其个人综合资产管理账户（ISA）客户资产已突破15万亿韩元。今年1月底，该公司ISA客户资产超过10万亿韩元，此后约三个月内增加了5万亿韩元。公司将资产扩大的背景之一归因于机器人投顾服务的优势。ISA是个人可在一个账户中管理多种金融产品的税收优惠账户，客户资产规模增长显示出通过该账户进行资产管理的需求正在扩大。此次突破15万亿韩元，也凸显了未来资产证券基于ISA的客户资产管理竞争力。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Activos ISA de Mirae Asset Securities superan 15 billones de wones",
-        "excerpt": "Mirae Asset Securities informó el día 7 que los activos de clientes en cuentas ISA superaron los 15 billones de wones, tras crecer 5 billones en tres meses desde finales de enero.",
-        "body": "Mirae Asset Securities informó el día 7 que los activos de clientes en sus cuentas individuales de gestión integral de activos (ISA) superaron los 15 billones de wones. A finales de enero de este año habían rebasado los 10 billones, por lo que aumentaron 5 billones de wones en unos tres meses. La compañía señaló la fortaleza de su servicio de roboadvisor como un factor detrás del crecimiento. Las ISA permiten a los particulares gestionar diversos productos financieros en una sola cuenta con ventajas fiscales, y el aumento de activos muestra una mayor demanda de gestión patrimonial mediante este instrumento. El hito de 15 billones de wones destaca la posición de Mirae Asset Securities en gestión de activos basada en ISA. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Ativos ISA da Mirae Asset Securities passam de 15 trilhões de wons",
-        "excerpt": "A Mirae Asset Securities disse no dia 7 que os ativos de clientes em contas ISA superaram 15 trilhões de wons, alta de 5 trilhões em três meses após passar de 10 trilhões no fim de janeiro.",
-        "body": "A Mirae Asset Securities informou no dia 7 que os ativos de clientes em suas Contas Individuais de Gestão Integral de Ativos (ISA) ultrapassaram 15 trilhões de wons. No fim de janeiro deste ano, o volume havia superado 10 trilhões de wons, o que representa um aumento de 5 trilhões em cerca de três meses. A empresa apontou a força de seu serviço de roboadvisor como um fator por trás da expansão. A ISA permite que pessoas físicas administrem diversos produtos financeiros em uma única conta com benefícios fiscais, e o crescimento dos ativos indica maior demanda por gestão patrimonial por meio desse produto. A marca de 15 trilhões de wons ressalta a posição da Mirae Asset Securities em gestão baseada em ISA. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Mirae Asset Securities: ISA-Kundenvermögen über 15 Billionen Won",
-        "excerpt": "Mirae Asset Securities teilte am 7. mit, dass das Kundenvermögen in ISA-Konten 15 Billionen Won überschritten hat. Seit Ende Januar stieg es in drei Monaten um 5 Billionen Won.",
-        "body": "Mirae Asset Securities teilte am 7. mit, dass das Kundenvermögen in seinen Individual Savings Accounts (ISA) die Marke von 15 Billionen Won überschritten hat. Ende Januar dieses Jahres hatte das ISA-Kundenvermögen bereits 10 Billionen Won übertroffen; damit kamen in rund drei Monaten 5 Billionen Won hinzu. Als Hintergrund des Wachstums nannte das Unternehmen die Stärke seines Robo-Advisor-Dienstes. ISA-Konten ermöglichen Privatkunden, verschiedene Finanzprodukte in einem steuerbegünstigten Konto zu verwalten. Der Anstieg des Kundenvermögens zeigt eine wachsende Nachfrage nach Vermögensverwaltung über dieses Konto. Die Marke von 15 Billionen Won unterstreicht die ISA-basierte Vermögensverwaltungsposition von Mirae Asset Securities. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Les actifs ISA de Mirae Asset Securities dépassent 15 000 milliards de wons",
-        "excerpt": "Mirae Asset Securities a annoncé le 7 que les actifs clients de ses comptes ISA avaient dépassé 15 000 milliards de wons, soit 5 000 milliards de plus en trois mois depuis fin janvier.",
-        "body": "Mirae Asset Securities a annoncé le 7 que les actifs clients de ses comptes individuels de gestion globale d’actifs (ISA) avaient dépassé 15 000 milliards de wons. À la fin janvier, ces actifs avaient franchi 10 000 milliards de wons; ils ont donc augmenté de 5 000 milliards en environ trois mois. La société a mis en avant la force de son service de robo-conseiller comme facteur de cette progression. L’ISA permet aux particuliers de gérer divers produits financiers dans un seul compte bénéficiant d’avantages fiscaux, et la hausse des actifs indique une demande accrue pour ce type de gestion patrimoniale. Le seuil de 15 000 milliards de wons souligne la position de Mirae Asset Securities dans la gestion d’actifs via ISA. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "أصول عملاء ISA لدى ميراى أسيت تتجاوز 15 تريليون وون",
-        "excerpt": "قالت ميراى أسيت سيكيوريتيز في 7 مايو إن أصول عملاء حسابات ISA تجاوزت 15 تريليون وون، بعدما زادت 5 تريليونات وون خلال ثلاثة أشهر منذ نهاية يناير.",
-        "body": "أعلنت ميراى أسيت سيكيوريتيز في 7 مايو أن أصول العملاء في حسابات الإدارة الشاملة للأصول الفردية (ISA) تجاوزت 15 تريليون وون. وكانت هذه الأصول قد تخطت 10 تريليونات وون في نهاية يناير من هذا العام، ما يعني أنها زادت 5 تريليونات وون خلال نحو ثلاثة أشهر. وأشارت الشركة إلى قوة خدمة المستشار الآلي لديها كأحد عوامل هذا النمو. وتتيح حسابات ISA للأفراد إدارة منتجات مالية متنوعة ضمن حساب واحد يتمتع بمزايا ضريبية، ويظهر ارتفاع الأصول زيادة الطلب على إدارة الأصول عبر هذا النوع من الحسابات. ويبرز تجاوز مستوى 15 تريليون وون مكانة ميراى أسيت سيكيوريتيز في إدارة الثروات المعتمدة على ISA. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "Mirae Asset Securities के ISA ग्राहक एसेट 15 ट्रिलियन वॉन के पार",
-        "excerpt": "Mirae Asset Securities ने 7 तारीख को बताया कि ISA ग्राहक एसेट 15 ट्रिलियन वॉन से अधिक हो गए हैं। जनवरी अंत में 10 ट्रिलियन वॉन पार करने के बाद तीन महीनों में 5 ट्रिलियन वॉन बढ़े।",
-        "body": "Mirae Asset Securities ने 7 तारीख को कहा कि उसके Individual Savings Account (ISA) में ग्राहक एसेट 15 ट्रिलियन वॉन से अधिक हो गए हैं। इस वर्ष जनवरी के अंत में ISA ग्राहक एसेट 10 ट्रिलियन वॉन से ऊपर थे, यानी करीब तीन महीनों में 5 ट्रिलियन वॉन की बढ़ोतरी हुई। कंपनी ने इस वृद्धि की पृष्ठभूमि में अपनी रोबो-एडवाइजर सेवा की मजबूती को बताया। ISA ऐसा टैक्स-लाभ वाला खाता है जिसमें व्यक्ति विभिन्न वित्तीय उत्पादों को एक ही खाते में प्रबंधित कर सकते हैं। ग्राहक एसेट में वृद्धि दिखाती है कि इस खाते के जरिए एसेट मैनेजमेंट की मांग बढ़ रही है। 15 ट्रिलियन वॉन का स्तर Mirae Asset Securities की ISA आधारित वेल्थ मैनेजमेंट स्थिति को रेखांकित करता है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Aset ISA Mirae Asset Securities Tembus 15 Triliun Won, Naik Cepat",
-        "excerpt": "Mirae Asset Securities pada 7 Mei menyatakan aset nasabah ISA melampaui 15 triliun won, bertambah 5 triliun won dalam tiga bulan setelah menembus 10 triliun won pada akhir Januari.",
-        "body": "Mirae Asset Securities menyatakan pada 7 Mei bahwa aset nasabah dalam rekening Individual Savings Account (ISA) telah melampaui 15 triliun won. Pada akhir Januari tahun ini, aset nasabah ISA sudah melewati 10 triliun won, sehingga bertambah 5 triliun won dalam sekitar tiga bulan. Perusahaan menyebut kekuatan layanan robo-advisor sebagai salah satu latar pertumbuhan tersebut. ISA memungkinkan individu mengelola berbagai produk keuangan dalam satu rekening dengan manfaat pajak, dan kenaikan aset nasabah menunjukkan meningkatnya kebutuhan pengelolaan aset melalui produk ini. Pencapaian 15 triliun won menegaskan posisi Mirae Asset Securities dalam pengelolaan kekayaan berbasis ISA. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "66a085dbeb37",
-    "slug": "유진투자증권-롯데관광개발-수익성-개선-기대성수기에-진입-145896",
-    "channelId": "ETF",
-    "category": "etf",
-    "publishedAt": "2026-05-07T04:42:29.775Z",
-    "updatedAt": "2026-05-07T04:42:29.775Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/stock/12039046",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12039046",
-    "titleFingerprint": "7f2aaa617515208dfa89944c17f1892d7ab83604",
-    "dedupKeys": [
-      "66a085dbeb37c06897ae372287913da345146d5c",
-      "7f2aaa617515208dfa89944c17f1892d7ab83604",
-      "d04c4069775e98862cd83ecf2474b5d09095ec36"
-    ],
-    "imageUrl": "/images/articles/66a085dbeb37.jpg",
-    "i18n": {
-      "ko": {
-        "title": "롯데관광개발, 유진투자증권 ‘매수’ 유지…성수기 수익성 개선 기대",
-        "excerpt": "유진투자증권은 7일 롯데관광개발에 대해 성수기 진입에 따른 수익성 개선 기대를 반영해 투자의견 ‘매수’와 목표주가 3만2000원을 유지했다.",
-        "body": "유진투자증권은 7일 롯데관광개발에 대해 성수기 진입으로 수익성 개선이 기대된다며 투자의견 ‘매수’와 목표주가 3만2000원을 유지했다. 이번 판단은 롯데관광개발의 영업이익 개선 가능성과 성수기 효과를 핵심 배경으로 한다. 증권사는 올해 영업이익 전망이 전년 동기 대비 개선 흐름을 보일 것으로 봤으며, 투자 의견과 목표주가를 조정하지 않았다. 이는 여행·관광 수요가 집중되는 시기에 실적 회복 기대가 이어질 수 있다는 평가로 읽힌다. 다만 원문에 제시된 범위 안에서 구체적인 추가 수치나 세부 실적 전망은 확인되지 않았다. 출처는 mk.co.kr이다."
-      },
-      "en": {
-        "title": "Lotte Tour Development Kept at Buy by Eugene, Profitability Seen Improving in Peak Season",
-        "excerpt": "Eugene Investment & Securities said on May 7 it maintained a Buy rating and a 32,000 won target price on Lotte Tour Development, citing expected profitability improvement as peak season begins.",
-        "body": "Eugene Investment & Securities said on May 7 that it maintained its Buy rating and 32,000 won target price for Lotte Tour Development, citing expectations for improved profitability as the company enters peak season. The view is based on the possibility of better operating profit and the effect of stronger seasonal demand. The brokerage said this year’s operating profit outlook points to improvement from the same period a year earlier, while leaving both its investment opinion and target price unchanged. The assessment suggests earnings recovery expectations may continue during the period when travel and tourism demand is concentrated. No additional detailed figures or earnings assumptions were confirmed beyond the information provided in the original report. Source: mk.co.kr."
-      },
-      "ja": {
-        "title": "ロッテ観光開発、ユージン投資証券が買い維持　繁忙期入りで収益性改善期待",
-        "excerpt": "ユージン投資証券は7日、ロッテ観光開発について繁忙期入りによる収益性改善を見込み、投資判断「買い」と目標株価3万2000ウォンを維持した。",
-        "body": "ユージン投資証券は7日、ロッテ観光開発について、繁忙期入りに伴う収益性改善が期待されるとして、投資判断「買い」と目標株価3万2000ウォンを維持した。今回の判断は、ロッテ観光開発の営業利益改善の可能性と繁忙期効果を主な背景としている。同証券は、今年の営業利益見通しが前年同期比で改善傾向を示すとみており、投資判断と目標株価は変更しなかった。旅行・観光需要が集中する時期に、業績回復への期待が続く可能性を示す評価といえる。ただし、原文で示された範囲内では、追加の具体的な数値や詳細な業績見通しは確認されていない。出典はmk.co.kr。"
-      },
-      "zh": {
-        "title": "乐天观光开发获Eugene维持买入评级，旺季来临带动盈利改善预期",
-        "excerpt": "Eugene投资证券7日表示，鉴于乐天观光开发进入旺季后盈利能力有望改善，维持其“买入”评级和3.2万韩元目标价。",
-        "body": "Eugene投资证券7日表示，乐天观光开发随着进入旺季，盈利能力有望改善，因此维持其“买入”投资评级和3.2万韩元目标价。此次判断的核心背景是乐天观光开发营业利润改善的可能性以及旺季效应。该券商认为，公司今年营业利润展望较上年同期呈改善趋势，同时未调整投资意见和目标价。这一评价意味着，在旅游和观光需求集中的时期，市场对业绩恢复的期待可能延续。不过，在原文所提供的信息范围内，未确认更多具体数值或详细业绩预测。来源为mk.co.kr。"
-      },
-      "es": {
-        "title": "Lotte Tour Development mantiene recomendación de compra de Eugene por mejora esperada",
-        "excerpt": "Eugene Investment & Securities mantuvo el 7 de mayo su recomendación de compra y precio objetivo de 32.000 wones para Lotte Tour Development, ante la mejora de rentabilidad esperada en temporada alta.",
-        "body": "Eugene Investment & Securities informó el 7 de mayo que mantuvo su recomendación de “compra” y su precio objetivo de 32.000 wones para Lotte Tour Development, al prever una mejora de la rentabilidad con la entrada en temporada alta. La evaluación se basa en la posibilidad de una mejora del beneficio operativo de la compañía y en el efecto estacional. La firma indicó que la previsión de beneficio operativo para este año apunta a una mejora frente al mismo periodo del año anterior, sin modificar ni la opinión de inversión ni el precio objetivo. La lectura sugiere que las expectativas de recuperación de resultados pueden continuar durante el periodo de mayor demanda de viajes y turismo. No se confirmaron cifras adicionales ni detalles de previsiones más allá del texto original. Fuente: mk.co.kr."
-      },
-      "pt": {
-        "title": "Lotte Tour Development mantém compra na Eugene com expectativa de melhora na alta temporada",
-        "excerpt": "A Eugene Investment & Securities manteve em 7 de maio recomendação de compra e preço-alvo de 32.000 won para Lotte Tour Development, citando melhora esperada da rentabilidade na alta temporada.",
-        "body": "A Eugene Investment & Securities informou em 7 de maio que manteve a recomendação de “compra” e o preço-alvo de 32.000 won para a Lotte Tour Development, citando expectativa de melhora da rentabilidade com a entrada na alta temporada. A avaliação tem como base a possibilidade de avanço no lucro operacional da empresa e o efeito sazonal. A corretora afirmou que a perspectiva para o lucro operacional deste ano indica melhora em relação ao mesmo período do ano anterior, sem alterar a recomendação nem o preço-alvo. A análise sugere que a expectativa de recuperação dos resultados pode continuar no período de maior concentração da demanda por viagens e turismo. Não foram confirmados números adicionais ou projeções detalhadas além do conteúdo original. Fonte: mk.co.kr."
-      },
-      "de": {
-        "title": "Lotte Tour Development: Eugene hält an Kaufempfehlung fest, bessere Profitabilität erwartet",
-        "excerpt": "Eugene Investment & Securities hielt am 7. Mai für Lotte Tour Development an Kaufen und einem Kursziel von 32.000 Won fest, da mit Beginn der Hochsaison eine bessere Profitabilität erwartet wird.",
-        "body": "Eugene Investment & Securities erklärte am 7. Mai, die Kaufempfehlung und das Kursziel von 32.000 Won für Lotte Tour Development beizubehalten, da mit dem Eintritt in die Hochsaison eine Verbesserung der Profitabilität erwartet werde. Grundlage der Einschätzung sind die mögliche Verbesserung des operativen Gewinns und der saisonale Effekt. Das Brokerhaus geht davon aus, dass der Ausblick für den diesjährigen operativen Gewinn gegenüber dem Vorjahreszeitraum eine Verbesserung zeigt, änderte jedoch weder Anlageurteil noch Kursziel. Die Einschätzung deutet darauf hin, dass Erwartungen an eine Erholung der Ergebnisse in der Phase konzentrierter Reise- und Tourismusnachfrage anhalten könnten. Weitere konkrete Zahlen oder detaillierte Prognosen wurden im vorliegenden Originaltext nicht bestätigt. Quelle: mk.co.kr."
-      },
-      "fr": {
-        "title": "Lotte Tour Development reste à l’achat chez Eugene, rentabilité attendue en hausse",
-        "excerpt": "Eugene Investment & Securities a maintenu le 7 mai sa recommandation d’achat et son objectif de 32 000 wons sur Lotte Tour Development, citant l’amélioration attendue de la rentabilité en haute saison.",
-        "body": "Eugene Investment & Securities a indiqué le 7 mai maintenir sa recommandation d’« achat » et son objectif de cours de 32 000 wons sur Lotte Tour Development, en raison d’une amélioration attendue de la rentabilité avec l’entrée en haute saison. Cette analyse repose sur la possibilité d’une amélioration du bénéfice opérationnel de la société et sur l’effet saisonnier. La maison de courtage estime que les perspectives de bénéfice opérationnel pour cette année montrent une amélioration par rapport à la même période de l’an dernier, tout en laissant inchangés son avis d’investissement et son objectif de cours. Cette lecture suggère que les attentes de reprise des résultats pourraient se poursuivre pendant la période de forte demande de voyages et de tourisme. Aucun chiffre supplémentaire ni détail de prévision n’a été confirmé au-delà du texte original. Source : mk.co.kr."
-      },
-      "ar": {
-        "title": "لوتيه تور ديفلوبمنت تبقى عند توصية الشراء من يوجين مع توقع تحسن الربحية",
-        "excerpt": "قالت يوجين للاستثمار والأوراق المالية في 7 مايو إنها أبقت توصية الشراء والسعر المستهدف البالغ 32 ألف وون لسهم لوتيه تور ديفلوبمنت، متوقعة تحسن الربحية مع دخول موسم الذروة.",
-        "body": "قالت يوجين للاستثمار والأوراق المالية في 7 مايو إنها أبقت توصية «شراء» والسعر المستهدف البالغ 32 ألف وون لسهم لوتيه تور ديفلوبمنت، مشيرة إلى توقعات بتحسن الربحية مع دخول الشركة موسم الذروة. ويستند هذا التقييم إلى احتمال تحسن الربح التشغيلي للشركة وتأثير الطلب الموسمي. وذكرت شركة الوساطة أن توقعات الربح التشغيلي لهذا العام تشير إلى تحسن مقارنة بالفترة نفسها من العام السابق، مع عدم تغيير توصية الاستثمار أو السعر المستهدف. ويعكس ذلك إمكانية استمرار توقعات تعافي الأداء خلال الفترة التي يتركز فيها الطلب على السفر والسياحة. ولم يتم تأكيد أرقام إضافية أو تفاصيل توقعات أخرى ضمن نطاق النص الأصلي. المصدر: mk.co.kr."
-      },
-      "hi": {
-        "title": "लोट्टे टूर डेवलपमेंट पर यूजीन ने खरीद राय रखी, पीक सीजन से मुनाफे की उम्मीद",
-        "excerpt": "यूजीन इन्वेस्टमेंट एंड सिक्योरिटीज ने 7 मई को लोट्टे टूर डेवलपमेंट पर खरीद रेटिंग और 32,000 वोन लक्ष्य मूल्य बरकरार रखा, क्योंकि पीक सीजन में लाभप्रदता सुधरने की उम्मीद है।",
-        "body": "यूजीन इन्वेस्टमेंट एंड सिक्योरिटीज ने 7 मई को कहा कि उसने लोट्टे टूर डेवलपमेंट पर “खरीद” निवेश राय और 32,000 वोन का लक्ष्य मूल्य बरकरार रखा है, क्योंकि कंपनी के पीक सीजन में प्रवेश से लाभप्रदता सुधरने की उम्मीद है। इस आकलन का मुख्य आधार कंपनी के परिचालन लाभ में सुधार की संभावना और मौसमी मांग का प्रभाव है। ब्रोकरेज ने माना कि इस वर्ष परिचालन लाभ का दृष्टिकोण पिछले वर्ष की समान अवधि की तुलना में सुधार की दिशा दिखाता है, जबकि निवेश राय और लक्ष्य मूल्य में बदलाव नहीं किया गया। इसका अर्थ है कि यात्रा और पर्यटन मांग के केंद्रित रहने वाले समय में नतीजों की रिकवरी की उम्मीद जारी रह सकती है। मूल जानकारी से आगे कोई अतिरिक्त ठोस आंकड़ा या विस्तृत अनुमान पुष्टि नहीं हुआ। स्रोत: mk.co.kr."
-      },
-      "id": {
-        "title": "Lotte Tour Development Dipertahankan Beli oleh Eugene, Profitabilitas Musim Puncak Dinanti",
-        "excerpt": "Eugene Investment & Securities pada 7 Mei mempertahankan rekomendasi beli dan target harga 32.000 won untuk Lotte Tour Development, seiring ekspektasi perbaikan profitabilitas saat memasuki musim puncak.",
-        "body": "Eugene Investment & Securities pada 7 Mei menyatakan mempertahankan rekomendasi “beli” dan target harga 32.000 won untuk Lotte Tour Development, dengan alasan profitabilitas diperkirakan membaik saat perusahaan memasuki musim puncak. Penilaian ini didasarkan pada kemungkinan perbaikan laba operasional Lotte Tour Development dan efek musiman. Perusahaan sekuritas tersebut menilai prospek laba operasional tahun ini menunjukkan arah perbaikan dibanding periode yang sama tahun sebelumnya, sementara rekomendasi investasi dan target harga tidak diubah. Evaluasi itu mengindikasikan ekspektasi pemulihan kinerja dapat berlanjut pada periode ketika permintaan perjalanan dan pariwisata terkonsentrasi. Tidak ada angka tambahan atau rincian proyeksi lain yang terkonfirmasi di luar informasi asli. Sumber: mk.co.kr."
       }
     }
   }
