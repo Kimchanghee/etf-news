@@ -1,5 +1,230 @@
 [
   {
+    "id": "64ec495f7ce3",
+    "slug": "앱토스-ai-금융-인프라-확충에-690억-투자-597754",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-05-07T18:44:14.345Z",
+    "updatedAt": "2026-05-07T18:44:14.345Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/2026050718866",
+    "canonicalUrl": "https://www.hankyung.com/article/2026050718866",
+    "titleFingerprint": "99c42896a13e206ee2364f29563b2596ce52b70d",
+    "dedupKeys": [
+      "64ec495f7ce37c42e058b56cb38abb1a149fe887",
+      "99c42896a13e206ee2364f29563b2596ce52b70d",
+      "1da8648aeff2b9eff7512170de60d03bc7d6c7c9"
+    ],
+    "imageUrl": "/images/articles/64ec495f7ce3.png",
+    "i18n": {
+      "ko": {
+        "title": "앱토스, AI 금융 인프라 확충에 690억 투자…핵심 내용 정리",
+        "excerpt": "앱토스가 AI 금융 인프라 확충을 위해 690억 원을 투자한다고 hankyung.com이 전했다. 투자 목적은 금융 분야 AI 기반 인프라 강화에 맞춰졌다.",
+        "body": "앱토스가 AI 금융 인프라 확충을 위해 690억 원을 투자한다고 hankyung.com이 보도했다. 이번 투자에서 확인된 핵심 내용은 투자 주체가 앱토스이며, 투자 규모가 690억 원이라는 점이다. 투자 목적은 AI를 활용한 금융 인프라 확대와 관련돼 있다. 원문에서 추가적인 집행 일정, 세부 투자처, 사업 범위, 기대 효과는 별도로 제시되지 않았다. 따라서 이번 소식은 앱토스가 AI 금융 인프라 분야에 대규모 자금을 투입한다는 사실 자체에 초점이 맞춰진다. 출처: hankyung.com"
+      },
+      "en": {
+        "title": "Aptos to Invest 69 Billion Won in AI Financial Infrastructure",
+        "excerpt": "Aptos will invest 69 billion won to expand AI financial infrastructure, according to hankyung.com. The investment is aimed at strengthening AI-based finance infrastructure.",
+        "body": "Aptos will invest 69 billion won to expand AI financial infrastructure, hankyung.com reported. The key confirmed details are that Aptos is the investor and that the investment size is 69 billion won. The stated purpose is linked to expanding financial infrastructure using AI. The original source did not separately provide an execution schedule, detailed investment targets, business scope, or expected effects. Therefore, the news centers on the fact that Aptos is committing a large amount of capital to the AI financial infrastructure field. Source: hankyung.com"
+      },
+      "ja": {
+        "title": "アプトス、AI金融インフラ拡充に690億ウォン投資",
+        "excerpt": "アプトスがAI金融インフラ拡充のため690億ウォンを投資するとhankyung.comが伝えた。投資目的は金融分野のAI基盤強化にある。",
+        "body": "アプトスがAI金融インフラ拡充のため690億ウォンを投資すると、hankyung.comが報じた。今回確認された核心は、投資主体がアプトスであり、投資規模が690億ウォンである点だ。投資目的は、AIを活用した金融インフラの拡大に関連している。原文では、具体的な実行時期、詳細な投資先、事業範囲、期待効果は別途示されていない。そのため今回のニュースは、アプトスがAI金融インフラ分野に大規模資金を投じる事実に焦点が当てられる。出典: hankyung.com"
+      },
+      "zh": {
+        "title": "Aptos将投资690亿韩元扩充AI金融基础设施",
+        "excerpt": "据hankyung.com报道，Aptos将投资690亿韩元扩充AI金融基础设施。该投资目的在于强化金融领域的AI基础设施。",
+        "body": "据hankyung.com报道，Aptos将投资690亿韩元，用于扩充AI金融基础设施。此次已确认的核心内容是，投资主体为Aptos，投资规模为690亿韩元。投资目的与扩大利用AI的金融基础设施有关。原文未另行说明具体执行时间、详细投资对象、业务范围或预期效果。因此，这则消息的重点在于Aptos将向AI金融基础设施领域投入大规模资金这一事实。来源: hankyung.com"
+      },
+      "es": {
+        "title": "Aptos invertirá 69.000 millones de wones en infraestructura financiera de IA",
+        "excerpt": "Aptos invertirá 69.000 millones de wones para ampliar infraestructura financiera de IA, informó hankyung.com. El objetivo es reforzar bases de IA en finanzas.",
+        "body": "Aptos invertirá 69.000 millones de wones para ampliar la infraestructura financiera de IA, informó hankyung.com. Los datos clave confirmados son que Aptos es la entidad inversora y que el monto asciende a 69.000 millones de wones. El objetivo está relacionado con la expansión de infraestructura financiera basada en IA. La fuente original no detalló calendario de ejecución, destinos específicos de inversión, alcance del negocio ni efectos esperados. Por ello, la noticia se centra en el hecho de que Aptos destinará una suma importante al campo de la infraestructura financiera de IA. Fuente: hankyung.com"
+      },
+      "pt": {
+        "title": "Aptos investirá 69 bilhões de won em infraestrutura financeira de IA",
+        "excerpt": "Aptos investirá 69 bilhões de won para ampliar infraestrutura financeira de IA, segundo hankyung.com. O objetivo é fortalecer bases de IA no setor financeiro.",
+        "body": "Aptos investirá 69 bilhões de won para ampliar a infraestrutura financeira de IA, informou o hankyung.com. Os principais pontos confirmados são que a Aptos é a responsável pelo investimento e que o valor chega a 69 bilhões de won. O objetivo está ligado à expansão de infraestrutura financeira com uso de IA. A fonte original não apresentou cronograma de execução, destinos específicos do investimento, escopo do negócio ou efeitos esperados. Assim, a notícia se concentra no fato de que a Aptos aplicará um volume expressivo de recursos no campo da infraestrutura financeira de IA. Fonte: hankyung.com"
+      },
+      "de": {
+        "title": "Aptos investiert 69 Milliarden Won in KI-Finanzinfrastruktur",
+        "excerpt": "Aptos investiert laut hankyung.com 69 Milliarden Won in den Ausbau von KI-Finanzinfrastruktur. Ziel ist die Stärkung KI-basierter Infrastruktur im Finanzbereich.",
+        "body": "Aptos investiert 69 Milliarden Won in den Ausbau von KI-Finanzinfrastruktur, berichtete hankyung.com. Die zentral bestätigten Angaben sind, dass Aptos der Investor ist und das Investitionsvolumen 69 Milliarden Won beträgt. Der Zweck steht im Zusammenhang mit dem Ausbau von Finanzinfrastruktur auf Basis von KI. Die Originalquelle nannte keinen gesonderten Zeitplan, keine konkreten Investitionsziele, keinen Geschäftsumfang und keine erwarteten Effekte. Damit liegt der Schwerpunkt der Meldung auf der Tatsache, dass Aptos erhebliche Mittel in den Bereich KI-Finanzinfrastruktur steckt. Quelle: hankyung.com"
+      },
+      "fr": {
+        "title": "Aptos investira 69 milliards de wons dans l’infrastructure financière IA",
+        "excerpt": "Aptos investira 69 milliards de wons pour développer l’infrastructure financière liée à l’IA, selon hankyung.com. L’objectif est de renforcer l’IA dans la finance.",
+        "body": "Aptos investira 69 milliards de wons pour développer l’infrastructure financière liée à l’IA, a rapporté hankyung.com. Les éléments confirmés sont que l’investisseur est Aptos et que le montant atteint 69 milliards de wons. L’objectif concerne l’expansion d’une infrastructure financière utilisant l’IA. La source originale n’a pas fourni séparément de calendrier d’exécution, de destinations précises d’investissement, de périmètre d’activité ni d’effets attendus. Cette information se concentre donc sur le fait qu’Aptos engage un montant important dans l’infrastructure financière IA. Source: hankyung.com"
+      },
+      "ar": {
+        "title": "أبتوس تستثمر 69 مليار وون في البنية التحتية المالية للذكاء الاصطناعي",
+        "excerpt": "ستستثمر أبتوس 69 مليار وون لتوسيع البنية التحتية المالية للذكاء الاصطناعي، وفق hankyung.com. ويتركز الهدف على تعزيز البنية المالية المعتمدة على الذكاء الاصطناعي.",
+        "body": "أفاد موقع hankyung.com بأن أبتوس ستستثمر 69 مليار وون لتوسيع البنية التحتية المالية للذكاء الاصطناعي. التفاصيل المؤكدة هي أن جهة الاستثمار هي أبتوس وأن حجم الاستثمار يبلغ 69 مليار وون. ويرتبط الهدف بتوسيع البنية التحتية المالية باستخدام الذكاء الاصطناعي. ولم يذكر المصدر الأصلي جدولا زمنيا للتنفيذ أو وجهات استثمار محددة أو نطاق الأعمال أو الآثار المتوقعة. لذلك تتركز هذه الأخبار على حقيقة أن أبتوس ستضخ مبلغا كبيرا في مجال البنية التحتية المالية للذكاء الاصطناعي. المصدر: hankyung.com"
+      },
+      "hi": {
+        "title": "Aptos AI वित्तीय अवसंरचना विस्तार में 69 अरब वॉन निवेश करेगा",
+        "excerpt": "hankyung.com के अनुसार Aptos AI वित्तीय अवसंरचना विस्तार के लिए 69 अरब वॉन निवेश करेगा। निवेश का उद्देश्य वित्त क्षेत्र में AI आधारित ढांचा मजबूत करना है।",
+        "body": "hankyung.com ने बताया कि Aptos AI वित्तीय अवसंरचना के विस्तार के लिए 69 अरब वॉन निवेश करेगा। पुष्टि की गई मुख्य जानकारी यह है कि निवेश करने वाली इकाई Aptos है और निवेश का आकार 69 अरब वॉन है। निवेश का उद्देश्य AI का उपयोग करने वाली वित्तीय अवसंरचना के विस्तार से जुड़ा है। मूल स्रोत में क्रियान्वयन की समयसीमा, विशिष्ट निवेश गंतव्य, व्यवसाय का दायरा या अपेक्षित प्रभाव अलग से नहीं दिए गए। इसलिए यह खबर इस तथ्य पर केंद्रित है कि Aptos AI वित्तीय अवसंरचना क्षेत्र में बड़ी राशि लगाएगा। स्रोत: hankyung.com"
+      },
+      "id": {
+        "title": "Aptos Investasikan 69 Miliar Won untuk Infrastruktur Keuangan AI",
+        "excerpt": "Aptos akan menginvestasikan 69 miliar won untuk memperluas infrastruktur keuangan AI, menurut hankyung.com. Tujuannya memperkuat infrastruktur AI di sektor keuangan.",
+        "body": "Aptos akan menginvestasikan 69 miliar won untuk memperluas infrastruktur keuangan AI, lapor hankyung.com. Rincian utama yang terkonfirmasi adalah bahwa Aptos menjadi pihak yang berinvestasi dan nilai investasinya mencapai 69 miliar won. Tujuan investasi ini terkait dengan perluasan infrastruktur keuangan yang menggunakan AI. Sumber asli tidak menyebutkan jadwal pelaksanaan, tujuan investasi secara rinci, cakupan bisnis, atau dampak yang diharapkan. Karena itu, berita ini berfokus pada fakta bahwa Aptos menanamkan dana besar di bidang infrastruktur keuangan AI. Sumber: hankyung.com"
+      }
+    }
+  },
+  {
+    "id": "63322f63d69e",
+    "slug": "민생회복쿠폰-소비-진작효과-예상보다-컸다-122480",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-05-07T18:43:10.490Z",
+    "updatedAt": "2026-05-07T18:43:10.490Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/2026050723691",
+    "canonicalUrl": "https://www.hankyung.com/article/2026050723691",
+    "titleFingerprint": "0698038ef1357c6500f783bde3eebac16f7419b2",
+    "dedupKeys": [
+      "63322f63d69efb9788b5b8ed04ceeeb8181ae063",
+      "0698038ef1357c6500f783bde3eebac16f7419b2",
+      "8327c74da811240d4805c06672db95e0bdf1f908"
+    ],
+    "imageUrl": "/images/articles/63322f63d69e.jpg",
+    "i18n": {
+      "ko": {
+        "title": "민생회복쿠폰 소비 진작 효과, 예상 웃돌며 소상공인 매출 5.86조원 증가",
+        "excerpt": "한국조세재정연구원은 5월 7일 세미나에서 지난해 민생회복 소비쿠폰이 지급액 1000원당 소상공인 매출을 약 433원 늘렸다고 분석했다.",
+        "body": "한국조세재정연구원은 5월 7일 서울 상암동 중소기업DMC타워에서 열린 ‘민생회복 소비쿠폰, 데이터로 검증하다’ 세미나에서 지난해 지급한 민생회복 소비쿠폰의 소비 진작 효과가 예상보다 컸다고 발표했다. 정부는 지난해 7월 두 차례에 걸쳐 국민 1인당 15만~55만원, 총 13조5200억원 규모의 쿠폰을 지급했다. 연구는 지난해 11월부터 올해 4월까지 신한·삼성·현대·KB국민·BC·하나카드 등 6개 카드사 결제 데이터를 활용했다. 분석 결과 소비쿠폰 1단위당 소상공인 매출은 0.433 늘어, 총 5조8600억원의 매출 증가 효과가 나타났다. 한국경제(hankyung.com)에 따르면 이는 일반 현금성 재정사업의 소비 진작 효과 0~0.33을 웃도는 수준이다."
+      },
+      "en": {
+        "title": "Livelihood Recovery Coupons Lift Small-Business Sales More Than Expected",
+        "excerpt": "KIPF said on May 7 that last year’s livelihood recovery consumption coupons raised small-business sales by about 433 won for every 1,000 won issued.",
+        "body": "The Korea Institute of Public Finance said at a May 7 seminar in Seoul titled “Verifying Livelihood Recovery Consumption Coupons with Data” that last year’s coupons had a larger-than-expected effect on consumption. The government distributed coupons twice in July last year, worth 150,000 to 550,000 won per person and totaling 13.52 trillion won. The study used payment data from six card companies, including Shinhan, Samsung, Hyundai, KB Kookmin, BC and Hana Card, from November last year to April this year. The institute estimated the consumption-boosting effect at 0.433, meaning each unit of coupon spending increased small-business sales by 0.433. That translates into a 5.86 trillion won rise in sales. According to hankyung.com, the result exceeded the 0 to 0.33 effect generally estimated for cash-type fiscal programs."
+      },
+      "ja": {
+        "title": "民生回復クーポン、消費押し上げ効果が予想超え 小商工人売上5.86兆ウォン増",
+        "excerpt": "韓国租税財政研究院は5月7日、昨年の民生回復消費クーポンが支給額1000ウォン当たり小商工人売上を約433ウォン増やしたと分析した。",
+        "body": "韓国租税財政研究院は5月7日、ソウル上岩洞の中小企業DMCタワーで開いた「民生回復消費クーポン、データで検証する」セミナーで、昨年支給された民生回復消費クーポンの消費押し上げ効果が予想より大きかったと発表した。政府は昨年7月、2回にわたり国民1人当たり15万〜55万ウォン、総額13兆5200億ウォン規模のクーポンを支給した。研究は昨年11月から今年4月まで、信韓、サムスン、現代、KB国民、BC、ハナカードの6社の決済データを活用した。分析では、クーポン1単位当たり小商工人売上が0.433増え、合計5兆8600億ウォンの売上増加効果が出た。hankyung.comによると、これは一般的な現金性財政事業の消費誘発効果0〜0.33を上回る水準だ。"
+      },
+      "zh": {
+        "title": "民生恢复消费券拉动效果超预期 小商户销售额增5.86万亿韩元",
+        "excerpt": "韩国租税财政研究院5月7日表示，去年发放的民生恢复消费券每1000韩元使小商户销售额增加约433韩元。",
+        "body": "韩国租税财政研究院5月7日在首尔上岩洞中小企业DMC大厦举行的“用数据验证民生恢复消费券”研讨会上表示，去年发放的民生恢复消费券对消费的提振效果高于预期。韩国政府去年7月分两次向每人发放15万至55万韩元消费券，总规模为13.52万亿韩元。研究使用了去年11月至今年4月新韩、三星、现代、KB国民、BC、韩亚卡等6家国内信用卡公司的支付数据。分析显示，消费券每1个单位使小商户销售额增加0.433，相当于带来5.86万亿韩元销售增长。据hankyung.com报道，这一水平高于一般现金类财政项目0至0.33的消费提振效果。"
+      },
+      "es": {
+        "title": "Cupones de recuperación elevan ventas de pequeños comercios más de lo previsto",
+        "excerpt": "El KIPF dijo el 7 de mayo que los cupones de consumo de recuperación entregados el año pasado aumentaron las ventas de pequeños comercios en 433 won por cada 1.000 won.",
+        "body": "El Instituto Coreano de Finanzas Públicas informó el 7 de mayo, en un seminario en Seúl titulado “Verificar con datos los cupones de consumo para la recuperación del sustento”, que el efecto de los cupones entregados el año pasado fue mayor de lo previsto. El Gobierno distribuyó en julio pasado, en dos rondas, cupones de entre 150.000 y 550.000 won por persona, por un total de 13,52 billones de won. El estudio usó datos de pagos de seis emisoras de tarjetas, incluidas Shinhan, Samsung, Hyundai, KB Kookmin, BC y Hana, de noviembre del año pasado a abril de este año. El efecto estimado fue de 0,433: cada unidad de cupón elevó las ventas de pequeños comercios en 0,433. Esto equivale a un aumento de 5,86 billones de won. Según hankyung.com, supera el rango de 0 a 0,33 estimado para programas fiscales en efectivo."
+      },
+      "pt": {
+        "title": "Cupons de recuperação impulsionam vendas de pequenos negócios acima do esperado",
+        "excerpt": "O KIPF afirmou em 7 de maio que os cupons de consumo de recuperação do ano passado elevaram as vendas de pequenos negócios em cerca de 433 won a cada 1.000 won emitidos.",
+        "body": "O Instituto Coreano de Finanças Públicas afirmou em 7 de maio, em seminário em Seul intitulado “Verificando com dados os cupons de consumo para recuperação do sustento”, que os cupons pagos no ano passado tiveram efeito de estímulo ao consumo maior que o esperado. O governo distribuiu em julho passado, em duas rodadas, cupons de 150.000 a 550.000 won por pessoa, totalizando 13,52 trilhões de won. O estudo usou dados de pagamentos de seis empresas de cartão, incluindo Shinhan, Samsung, Hyundai, KB Kookmin, BC e Hana, de novembro do ano passado a abril deste ano. A análise estimou efeito de 0,433: cada unidade de cupom elevou as vendas de pequenos negócios em 0,433. Isso representa aumento de 5,86 trilhões de won. Segundo hankyung.com, o resultado supera o efeito de 0 a 0,33 normalmente estimado para programas fiscais em dinheiro."
+      },
+      "de": {
+        "title": "Recovery-Coupons steigern Konsum stärker als erwartet, Kleinbetriebe profitieren",
+        "excerpt": "Das KIPF erklärte am 7. Mai, die im Vorjahr ausgegebenen Konsumcoupons hätten den Umsatz kleiner Betriebe je 1.000 Won Ausgabe um rund 433 Won erhöht.",
+        "body": "Das Korea Institute of Public Finance teilte am 7. Mai bei einem Seminar in Seoul mit dem Titel „Livelihood Recovery Consumption Coupons mit Daten überprüfen“ mit, dass die im Vorjahr ausgegebenen Coupons den Konsum stärker als erwartet angekurbelt hätten. Die Regierung verteilte im vergangenen Juli in zwei Runden Coupons im Wert von 150.000 bis 550.000 Won pro Person, insgesamt 13,52 Billionen Won. Die Studie nutzte Zahlungsdaten von sechs Kartenunternehmen, darunter Shinhan, Samsung, Hyundai, KB Kookmin, BC und Hana Card, aus dem Zeitraum November des Vorjahres bis April dieses Jahres. Der Effekt wurde mit 0,433 beziffert: Eine Coupon-Einheit erhöhte den Umsatz kleiner Betriebe um 0,433. Daraus ergibt sich ein Umsatzplus von 5,86 Billionen Won. Laut hankyung.com liegt dies über dem üblichen Effekt von 0 bis 0,33 bei fiskalischen Barprogrammen."
+      },
+      "fr": {
+        "title": "Les coupons de relance ont stimulé les petits commerces plus que prévu",
+        "excerpt": "Le KIPF a indiqué le 7 mai que les coupons de consommation versés l’an dernier avaient accru les ventes des petits commerces d’environ 433 wons pour 1.000 wons distribués.",
+        "body": "L’Institut coréen des finances publiques a déclaré le 7 mai, lors d’un séminaire à Séoul intitulé « Vérifier les coupons de consommation de relance par les données », que les coupons versés l’an dernier avaient eu un effet plus fort que prévu sur la consommation. Le gouvernement a distribué en juillet dernier, en deux vagues, des coupons de 150.000 à 550.000 wons par personne, pour un total de 13.520 milliards de wons. L’étude s’appuie sur les données de paiement de six émetteurs de cartes, dont Shinhan, Samsung, Hyundai, KB Kookmin, BC et Hana, de novembre dernier à avril cette année. L’effet estimé est de 0,433: chaque unité de coupon a accru les ventes des petits commerces de 0,433. Cela représente 5.860 milliards de wons de ventes supplémentaires. Selon hankyung.com, ce niveau dépasse l’effet de 0 à 0,33 généralement estimé pour les programmes budgétaires en espèces."
+      },
+      "ar": {
+        "title": "قسائم تعافي المعيشة تعزز مبيعات صغار التجار بأكثر من المتوقع",
+        "excerpt": "قال المعهد الكوري للمالية العامة في 7 مايو إن قسائم الاستهلاك الموزعة العام الماضي زادت مبيعات صغار التجار بنحو 433 وون لكل 1000 وون مصروف.",
+        "body": "أعلن المعهد الكوري للمالية العامة في 7 مايو، خلال ندوة في سيول بعنوان «التحقق من قسائم استهلاك تعافي المعيشة بالبيانات»، أن أثر القسائم التي وُزعت العام الماضي في تحفيز الاستهلاك كان أكبر من المتوقع. ووزعت الحكومة في يوليو الماضي، على مرحلتين، قسائم بقيمة 150 ألفا إلى 550 ألف وون للفرد، بإجمالي 13.52 تريليون وون. واعتمدت الدراسة على بيانات المدفوعات من ست شركات بطاقات، منها شينهان وسامسونغ وهيونداي وKB كوكمين وBC وهانا، من نوفمبر الماضي إلى أبريل هذا العام. وقدر المعهد الأثر عند 0.433، أي إن كل وحدة من القسائم رفعت مبيعات صغار التجار بمقدار 0.433، بما يعادل زيادة إجمالية قدرها 5.86 تريليون وون. ووفقا لـhankyung.com، يتجاوز ذلك أثر برامج الدعم النقدي المعتاد البالغ 0 إلى 0.33."
+      },
+      "hi": {
+        "title": "लिवलीहुड रिकवरी कूपन से छोटे कारोबारों की बिक्री उम्मीद से ज्यादा बढ़ी",
+        "excerpt": "KIPF ने 7 मई को कहा कि पिछले साल दिए गए लिवलीहुड रिकवरी कंजम्प्शन कूपन ने हर 1,000 वॉन पर छोटे कारोबारों की बिक्री करीब 433 वॉन बढ़ाई।",
+        "body": "कोरिया इंस्टीट्यूट ऑफ पब्लिक फाइनेंस ने 7 मई को सियोल में आयोजित “लिवलीहुड रिकवरी कंजम्प्शन कूपन को डेटा से परखना” सेमिनार में कहा कि पिछले साल दिए गए कूपन का उपभोग बढ़ाने वाला असर उम्मीद से अधिक रहा। सरकार ने पिछले जुलाई में दो चरणों में प्रति व्यक्ति 150,000 से 550,000 वॉन के कूपन बांटे, जिनका कुल आकार 13.52 ट्रिलियन वॉन था। अध्ययन में पिछले साल नवंबर से इस साल अप्रैल तक शिनहान, सैमसंग, ह्यूंदै, KB कूकमिन, BC और हाना कार्ड सहित छह कार्ड कंपनियों के भुगतान डेटा का उपयोग किया गया। विश्लेषण के अनुसार कूपन की हर 1 इकाई से छोटे कारोबारों की बिक्री 0.433 बढ़ी, जिससे कुल 5.86 ट्रिलियन वॉन की अतिरिक्त बिक्री हुई। hankyung.com के अनुसार यह नकद-प्रकार की सामान्य राजकोषीय योजनाओं के 0 से 0.33 उपभोग प्रभाव से अधिक है।"
+      },
+      "id": {
+        "title": "Kupon Pemulihan Penghidupan Dorong Penjualan UMKM Lebih Besar dari Perkiraan",
+        "excerpt": "KIPF menyatakan pada 7 Mei bahwa kupon konsumsi pemulihan penghidupan tahun lalu menaikkan penjualan usaha kecil sekitar 433 won untuk setiap 1.000 won yang dibagikan.",
+        "body": "Korea Institute of Public Finance menyatakan dalam seminar 7 Mei di Seoul bertajuk “Memverifikasi Kupon Konsumsi Pemulihan Penghidupan dengan Data” bahwa kupon yang dibagikan tahun lalu memiliki dampak dorongan konsumsi lebih besar dari perkiraan. Pemerintah membagikan kupon pada Juli tahun lalu dalam dua tahap, senilai 150.000 hingga 550.000 won per orang, dengan total 13,52 triliun won. Studi ini memakai data pembayaran dari enam perusahaan kartu, termasuk Shinhan, Samsung, Hyundai, KB Kookmin, BC, dan Hana Card, dari November tahun lalu hingga April tahun ini. Hasil analisis menunjukkan setiap 1 unit kupon menaikkan penjualan usaha kecil sebesar 0,433, setara tambahan penjualan 5,86 triliun won. Menurut hankyung.com, angka ini melampaui efek 0 hingga 0,33 yang biasanya diperkirakan untuk program fiskal berbentuk tunai."
+      }
+    }
+  },
+  {
+    "id": "25b570bd8ac9",
+    "slug": "ai-전략새-ceo-기대감애플-주가-사상-최고치-166349",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-05-07T18:41:52.688Z",
+    "updatedAt": "2026-05-07T18:41:52.688Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/2026050724111",
+    "canonicalUrl": "https://www.hankyung.com/article/2026050724111",
+    "titleFingerprint": "05aba400177fb90e179162950816e1cb467c3c72",
+    "dedupKeys": [
+      "25b570bd8ac9e8afb04bf3b45b4503c4c3412e7c",
+      "05aba400177fb90e179162950816e1cb467c3c72",
+      "98d1b07eb5f73bca65b47817caaa3842a8a07ecb"
+    ],
+    "imageUrl": "/images/articles/25b570bd8ac9.png",
+    "i18n": {
+      "ko": {
+        "title": "애플 주가 사상 최고치, AI 전략과 새 CEO 기대감이 투자심리 자극",
+        "excerpt": "애플 주가가 AI 전략과 새 CEO 기대감에 힘입어 사상 최고치를 기록했다. 투자자들은 향후 경영 변화와 인공지능 경쟁력 강화 가능성에 주목하고 있다.",
+        "body": "애플 주가가 AI 전략과 새 CEO에 대한 기대감 속에 사상 최고치를 기록했다. 시장에서는 애플이 인공지능 분야에서 어떤 전략을 제시할지와 차기 경영 리더십이 회사의 성장 방향에 어떤 영향을 줄지가 주요 관심사로 떠올랐다. 이번 주가 상승은 AI 경쟁력 강화에 대한 기대와 경영 변화 가능성이 투자심리를 자극한 결과로 풀이된다. 다만 원문에서 구체적인 주가 수준이나 일정, 세부 전략은 제시되지 않았다. 향후 애플의 AI 발표와 CEO 관련 흐름이 주가 흐름을 좌우할 변수로 거론된다. 출처: hankyung.com."
+      },
+      "en": {
+        "title": "Apple Stock Hits Record High as AI Strategy and New CEO Hopes Lift Sentiment",
+        "excerpt": "Apple shares reached an all-time high as expectations for its AI strategy and a potential new CEO boosted investor sentiment around future leadership and growth.",
+        "body": "Apple’s stock reached an all-time high amid expectations surrounding its AI strategy and a potential new CEO. In the market, investors are focusing on what kind of artificial intelligence strategy Apple may present and how future leadership could affect the company’s growth direction. The rise in the share price is seen as reflecting stronger investor sentiment driven by hopes for improved AI competitiveness and possible management changes. The original report did not provide a specific share price, timeline, or detailed strategy. Future AI announcements and CEO-related developments are expected to remain key variables for Apple’s stock performance. Source: hankyung.com."
+      },
+      "ja": {
+        "title": "アップル株が史上最高値、AI戦略と新CEO期待で投資心理改善",
+        "excerpt": "アップル株はAI戦略と新CEOへの期待を背景に史上最高値を記録した。投資家は今後の経営変化とAI競争力強化の可能性に注目している。",
+        "body": "アップル株がAI戦略と新CEOへの期待感を背景に史上最高値を記録した。市場では、アップルが人工知能分野でどのような戦略を示すのか、また次期経営リーダーシップが同社の成長方向にどのような影響を与えるのかが主な関心事となっている。今回の株価上昇は、AI競争力強化への期待と経営変化の可能性が投資心理を刺激した結果とみられる。ただし原文では具体的な株価水準や日程、詳細な戦略は示されていない。今後のAI発表とCEO関連の動きが株価の変数になるとみられる。出所: hankyung.com."
+      },
+      "zh": {
+        "title": "苹果股价创历史新高，AI战略与新CEO预期提振投资情绪",
+        "excerpt": "苹果股价在AI战略和新CEO预期推动下创下历史新高。投资者正关注未来管理层变化以及人工智能竞争力提升的可能性。",
+        "body": "苹果股价在AI战略和新CEO预期升温的背景下创下历史新高。市场关注的重点是，苹果将在人工智能领域提出怎样的战略，以及未来新的经营领导层将如何影响公司的增长方向。此次股价上涨被认为反映了投资者对AI竞争力增强和管理层可能变化的期待。原文并未提供具体股价水平、时间安排或详细战略内容。未来苹果的AI相关发布以及CEO相关进展，预计将继续成为影响股价走势的重要变量。来源: hankyung.com."
+      },
+      "es": {
+        "title": "Apple alcanza máximo histórico por su estrategia de IA y expectativas de nuevo CEO",
+        "excerpt": "Las acciones de Apple marcaron un máximo histórico impulsadas por su estrategia de IA y las expectativas sobre un nuevo CEO, factores que reforzaron el ánimo inversor.",
+        "body": "Las acciones de Apple alcanzaron un máximo histórico en medio de expectativas sobre su estrategia de inteligencia artificial y un posible nuevo CEO. En el mercado, los inversores observan qué estrategia presentará Apple en IA y cómo un futuro liderazgo podría influir en la dirección de crecimiento de la compañía. La subida de la acción se interpreta como resultado de un mejor ánimo inversor ante la posibilidad de una mayor competitividad en IA y cambios en la gestión. El reporte original no incluyó un precio concreto, calendario ni detalles estratégicos. Los próximos anuncios de IA y las novedades sobre el CEO seguirán siendo variables clave. Fuente: hankyung.com."
+      },
+      "pt": {
+        "title": "Ações da Apple batem recorde com estratégia de IA e expectativa por novo CEO",
+        "excerpt": "As ações da Apple atingiram máxima histórica com o impulso da estratégia de IA e da expectativa por um novo CEO, reforçando o interesse dos investidores.",
+        "body": "As ações da Apple atingiram uma máxima histórica em meio às expectativas sobre sua estratégia de inteligência artificial e um possível novo CEO. No mercado, investidores observam que tipo de estratégia a Apple poderá apresentar em IA e como uma futura liderança executiva pode influenciar o rumo de crescimento da companhia. A alta das ações é vista como reflexo do otimismo gerado pela possibilidade de maior competitividade em IA e de mudanças na gestão. O texto original não informou preço específico, calendário ou detalhes da estratégia. Novos anúncios de IA e desdobramentos sobre o CEO devem continuar relevantes para o papel. Fonte: hankyung.com."
+      },
+      "de": {
+        "title": "Apple-Aktie auf Rekordhoch: KI-Strategie und Hoffnung auf neuen CEO treiben Kurs",
+        "excerpt": "Die Apple-Aktie erreichte ein Allzeithoch, gestützt durch Erwartungen an die KI-Strategie und einen möglichen neuen CEO, die die Anlegerstimmung verbesserten.",
+        "body": "Die Apple-Aktie hat angesichts der Erwartungen an eine KI-Strategie und einen möglichen neuen CEO ein Allzeithoch erreicht. Am Markt richtet sich der Blick darauf, welche Strategie Apple im Bereich künstliche Intelligenz vorlegen könnte und wie eine künftige Führung die Wachstumsrichtung des Unternehmens beeinflussen würde. Der Kursanstieg wird als Folge einer stärkeren Anlegerstimmung gewertet, ausgelöst durch Hoffnungen auf mehr KI-Wettbewerbsfähigkeit und mögliche Veränderungen im Management. Der Originalbericht nannte keinen konkreten Aktienkurs, Zeitplan oder detaillierte Strategie. Künftige KI-Ankündigungen und CEO-Entwicklungen bleiben wichtige Faktoren. Quelle: hankyung.com."
+      },
+      "fr": {
+        "title": "Apple au plus haut historique grâce à sa stratégie IA et aux attentes d’un nouveau CEO",
+        "excerpt": "L’action Apple a atteint un record historique, portée par les attentes autour de sa stratégie IA et d’un possible nouveau CEO, deux facteurs suivis par les investisseurs.",
+        "body": "L’action Apple a atteint un plus haut historique sur fond d’attentes liées à sa stratégie d’intelligence artificielle et à un possible nouveau CEO. Sur le marché, les investisseurs surveillent la stratégie qu’Apple pourrait présenter dans l’IA et l’effet qu’un futur leadership pourrait avoir sur la trajectoire de croissance de l’entreprise. La hausse du titre est interprétée comme le reflet d’un regain d’optimisme autour du renforcement de la compétitivité en IA et d’éventuels changements de direction. L’article original ne précise pas de niveau de cours, de calendrier ni de stratégie détaillée. Les annonces IA et les développements liés au CEO resteront déterminants. Source: hankyung.com."
+      },
+      "ar": {
+        "title": "سهم أبل يبلغ أعلى مستوى تاريخي مع دعم توقعات استراتيجية الذكاء الاصطناعي والرئيس الجديد",
+        "excerpt": "بلغ سهم أبل أعلى مستوى تاريخي بدعم من توقعات استراتيجية الذكاء الاصطناعي ورئيس تنفيذي جديد، ما عزز اهتمام المستثمرين بمسار الإدارة والنمو.",
+        "body": "بلغ سهم أبل أعلى مستوى تاريخي وسط توقعات مرتبطة باستراتيجية الشركة في الذكاء الاصطناعي واحتمال تعيين رئيس تنفيذي جديد. ويركز المستثمرون في السوق على طبيعة الاستراتيجية التي قد تعرضها أبل في مجال الذكاء الاصطناعي، وعلى تأثير القيادة المقبلة في اتجاه نمو الشركة. ويُنظر إلى صعود السهم على أنه نتيجة لتحسن معنويات المستثمرين بفعل توقعات تعزيز القدرة التنافسية في الذكاء الاصطناعي وإمكان حدوث تغييرات إدارية. ولم يورد النص الأصلي مستوى محددا للسعر أو جدولا زمنيا أو تفاصيل للاستراتيجية. وستبقى إعلانات الذكاء الاصطناعي وتطورات منصب الرئيس التنفيذي عوامل مؤثرة في السهم. المصدر: hankyung.com."
+      },
+      "hi": {
+        "title": "Apple शेयर रिकॉर्ड ऊंचाई पर, AI रणनीति और नए CEO की उम्मीदों से उत्साह",
+        "excerpt": "Apple का शेयर AI रणनीति और नए CEO से जुड़ी उम्मीदों के बीच सर्वकालिक उच्च स्तर पर पहुंचा। निवेशक प्रबंधन बदलाव और AI प्रतिस्पर्धा पर नजर रख रहे हैं।",
+        "body": "Apple का शेयर AI रणनीति और नए CEO को लेकर उम्मीदों के बीच सर्वकालिक उच्च स्तर पर पहुंच गया। बाजार में निवेशकों का ध्यान इस बात पर है कि Apple कृत्रिम बुद्धिमत्ता क्षेत्र में कैसी रणनीति पेश कर सकता है और भविष्य का नेतृत्व कंपनी की वृद्धि दिशा को कैसे प्रभावित करेगा। शेयर में आई तेजी को AI प्रतिस्पर्धात्मकता मजबूत होने की उम्मीद और प्रबंधन बदलाव की संभावना से बेहतर हुई निवेशक धारणा का परिणाम माना जा रहा है। मूल रिपोर्ट में कोई विशिष्ट शेयर मूल्य, समय-सारिणी या विस्तृत रणनीति नहीं दी गई। आगे Apple की AI घोषणाएं और CEO से जुड़े घटनाक्रम शेयर के लिए अहम रहेंगे। स्रोत: hankyung.com."
+      },
+      "id": {
+        "title": "Saham Apple Cetak Rekor Tertinggi karena Strategi AI dan Harapan CEO Baru",
+        "excerpt": "Saham Apple mencapai rekor tertinggi sepanjang masa karena ekspektasi terhadap strategi AI dan CEO baru, yang memperkuat sentimen investor terhadap prospek perusahaan.",
+        "body": "Saham Apple mencapai rekor tertinggi sepanjang masa di tengah ekspektasi terhadap strategi kecerdasan buatan dan kemungkinan CEO baru. Di pasar, investor mencermati strategi seperti apa yang akan disampaikan Apple di bidang AI serta bagaimana kepemimpinan berikutnya dapat memengaruhi arah pertumbuhan perusahaan. Kenaikan saham ini dipandang sebagai cerminan membaiknya sentimen investor karena harapan atas penguatan daya saing AI dan potensi perubahan manajemen. Laporan asli tidak memuat level harga saham tertentu, jadwal, atau rincian strategi. Ke depan, pengumuman AI Apple dan perkembangan terkait CEO akan tetap menjadi faktor penting bagi pergerakan saham. Sumber: hankyung.com."
+      }
+    }
+  },
+  {
     "id": "406ec783301c",
     "slug": "왕년-황제株-lg생건-뜨거운-바닥논쟁-226730",
     "channelId": "ETF",
@@ -4271,231 +4496,6 @@
         "title": "Kia dan Samsung Fire & Marine Masuk Saham Golden Cross Pilihan MK Signal",
         "excerpt": "MK Signal menyoroti Kia (000270) dan Samsung Fire & Marine Insurance (000810) sebagai saham breakout golden cross dalam analisis saham isu hangat Korea.",
         "body": "Reporter AI “MK Signal”, yang menganalisis saham isu hangat di Korea Selatan, membahas Kia (000270) dan Samsung Fire & Marine Insurance (000810) sebagai saham breakout golden cross dalam artikel yang diterbitkan di mk.co.kr. Dengan judul “saham breakout golden cross MK”, sumber tersebut menampilkan kedua perusahaan sebagai objek analisis. Golden cross sering disebut saat meninjau arah teknikal pasar, dan artikel itu memperkenalkan Kia serta Samsung Fire & Marine dalam tema tersebut. Namun, ringkasan yang diberikan tidak memuat harga saham, volume perdagangan, angka moving average, atau penilaian investasi yang spesifik. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "07a4688b954c",
-    "slug": "수수료-0원가상자산-거래소-okx-美-토큰-주식-260종-거래-시작-674960",
-    "channelId": "ETF",
-    "category": "etf",
-    "publishedAt": "2026-05-07T00:16:55.369Z",
-    "updatedAt": "2026-05-07T00:16:55.369Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/stock/12038775",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12038775",
-    "titleFingerprint": "3c25783ba2c06e2f30cfeeb31f9ab254980213ff",
-    "dedupKeys": [
-      "07a4688b954c343ca175381617e4c28d21e7bc51",
-      "3c25783ba2c06e2f30cfeeb31f9ab254980213ff",
-      "0a01bb06317d9b102b5668d32a87ec58c5b8138a"
-    ],
-    "imageUrl": "/images/articles/07a4688b954c.png",
-    "i18n": {
-      "ko": {
-        "title": "OKX, 수수료 0원으로 美 토큰 주식 260종 거래 시작",
-        "excerpt": "가상자산 거래소 OKX가 온도파이낸스와 협업해 미국 토큰 주식 260여 종 거래를 시작하고, 테슬라·엔비디아 등을 USDT로 최소 20달러부터 매매할 수 있게 했다.",
-        "body": "가상자산 거래소 OKX가 온도파이낸스와 협업해 미국 토큰 주식 260여 종 거래 지원을 시작했다. 이용자는 USDT로 테슬라와 엔비디아 등 미국 주요 주식의 토큰화 상품을 직접 매매할 수 있으며, 최소 거래 금액은 20달러부터다. 이번 서비스는 전 세계 가상자산 시장에서 실물자산 토큰화, 즉 RWA 흐름이 확산되는 가운데 나왔다. OKX는 출시를 기념해 거래 수수료를 무료로 제공한다. 토큰 주식 거래 지원은 가상자산 이용자가 전통 주식 자산에 접근하는 경로를 넓히는 사례로 주목된다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "OKX Starts Zero-Fee Trading for 260 Tokenized U.S. Stocks",
-        "excerpt": "Crypto exchange OKX, in collaboration with Ondo Finance, has launched trading for about 260 tokenized U.S. stocks, allowing users to buy Tesla and Nvidia with USDT from a minimum of $20.",
-        "body": "Crypto exchange OKX has begun supporting trading in about 260 tokenized U.S. stocks through a collaboration with Ondo Finance. Users can directly trade tokenized products linked to major U.S. stocks such as Tesla and Nvidia using USDT, with a minimum transaction amount of $20. The service arrives as the real-world asset tokenization, or RWA, trend expands across the global crypto market. To mark the launch, OKX is offering zero trading fees. The move is drawing attention as an example of widening access for crypto users to traditional equity assets. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "OKX、手数料ゼロで米国トークン株260銘柄の取引開始",
-        "excerpt": "暗号資産取引所OKXはOndo Financeと協業し、米国トークン株約260銘柄の取引を開始。USDTでテスラやエヌビディアを20ドルから売買できる。",
-        "body": "暗号資産取引所OKXは、Ondo Financeとの協業により、米国トークン株約260銘柄の取引対応を開始した。利用者はUSDTを使い、テスラやエヌビディアなど米国主要株式のトークン化商品を直接売買でき、最低取引額は20ドルからとなる。今回のサービスは、世界の暗号資産市場で実物資産のトークン化、すなわちRWAの流れが広がる中で登場した。OKXはローンチを記念し、取引手数料を無料で提供する。トークン株取引の対応は、暗号資産利用者が伝統的な株式資産へアクセスする経路を広げる事例として注目される。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "OKX零手续费上线260种美国代币化股票交易",
-        "excerpt": "加密资产交易所OKX与Ondo Finance合作，推出约260种美国代币化股票交易，用户可用USDT以最低20美元买卖特斯拉、英伟达等标的。",
-        "body": "加密资产交易所OKX已通过与Ondo Finance合作，开始支持约260种美国代币化股票交易。用户可使用USDT直接买卖特斯拉、英伟达等美国主要股票的代币化产品，最低交易金额为20美元。该服务推出之际，全球加密资产市场中实物资产代币化，即RWA趋势正在扩散。OKX为纪念上线，将提供免交易手续费优惠。此次支持代币化股票交易，被视为加密资产用户接触传统股票资产渠道进一步扩大的案例。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "OKX lanza trading sin comisiones de 260 acciones tokenizadas de EE. UU.",
-        "excerpt": "El exchange de criptoactivos OKX, junto con Ondo Finance, inició la negociación de unas 260 acciones tokenizadas de EE. UU., incluidas Tesla y Nvidia, con USDT desde 20 dólares.",
-        "body": "El exchange de criptoactivos OKX comenzó a ofrecer negociación de unas 260 acciones tokenizadas de Estados Unidos mediante una colaboración con Ondo Finance. Los usuarios pueden comprar y vender directamente productos tokenizados vinculados a acciones importantes como Tesla y Nvidia usando USDT, con un monto mínimo de 20 dólares. El servicio llega en medio de la expansión global de la tokenización de activos del mundo real, conocida como RWA, en el mercado cripto. Para conmemorar el lanzamiento, OKX ofrece comisiones de trading gratuitas. La medida destaca como un caso de ampliación del acceso de usuarios cripto a activos bursátiles tradicionales. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "OKX inicia negociação sem taxa de 260 ações tokenizadas dos EUA",
-        "excerpt": "A exchange de criptoativos OKX, em parceria com a Ondo Finance, lançou a negociação de cerca de 260 ações tokenizadas dos EUA, permitindo comprar Tesla e Nvidia com USDT a partir de US$ 20.",
-        "body": "A exchange de criptoativos OKX começou a oferecer negociação de cerca de 260 ações tokenizadas dos Estados Unidos por meio de uma colaboração com a Ondo Finance. Os usuários podem negociar diretamente produtos tokenizados ligados a grandes ações americanas, como Tesla e Nvidia, usando USDT, com valor mínimo de US$ 20. O serviço chega enquanto a tokenização de ativos do mundo real, conhecida como RWA, se expande no mercado global de criptoativos. Para marcar o lançamento, a OKX oferece isenção de taxas de negociação. A iniciativa chama atenção como um exemplo de ampliação do acesso de usuários cripto a ativos tradicionais de ações. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "OKX startet gebührenfreien Handel mit 260 tokenisierten US-Aktien",
-        "excerpt": "Die Kryptobörse OKX startet gemeinsam mit Ondo Finance den Handel mit rund 260 tokenisierten US-Aktien. Tesla und Nvidia können per USDT ab mindestens 20 Dollar gehandelt werden.",
-        "body": "Die Kryptobörse OKX hat in Zusammenarbeit mit Ondo Finance den Handel mit rund 260 tokenisierten US-Aktien gestartet. Nutzer können tokenisierte Produkte auf große US-Aktien wie Tesla und Nvidia direkt mit USDT kaufen und verkaufen; der Mindestbetrag liegt bei 20 Dollar. Der Dienst kommt zu einer Zeit, in der sich die Tokenisierung realer Vermögenswerte, kurz RWA, im globalen Kryptomarkt weiter ausbreitet. Zum Start bietet OKX den Handel ohne Gebühren an. Die Unterstützung tokenisierter Aktien gilt als Beispiel dafür, wie Krypto-Nutzer breiteren Zugang zu traditionellen Aktienanlagen erhalten. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "OKX lance sans frais le trading de 260 actions américaines tokenisées",
-        "excerpt": "La plateforme crypto OKX, avec Ondo Finance, lance le trading d’environ 260 actions américaines tokenisées, permettant d’acheter Tesla et Nvidia en USDT dès 20 dollars.",
-        "body": "La plateforme d’échange de cryptoactifs OKX a commencé à prendre en charge le trading d’environ 260 actions américaines tokenisées grâce à une collaboration avec Ondo Finance. Les utilisateurs peuvent acheter et vendre directement, en USDT, des produits tokenisés liés à de grandes actions américaines comme Tesla et Nvidia, avec un montant minimum de 20 dollars. Ce service intervient alors que la tokenisation des actifs du monde réel, ou RWA, gagne du terrain sur le marché mondial des cryptoactifs. Pour célébrer le lancement, OKX propose des frais de trading gratuits. Cette initiative illustre l’élargissement de l’accès des utilisateurs crypto aux actifs boursiers traditionnels. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "OKX تبدأ تداول 260 سهما أمريكيا مرمزا بلا رسوم",
-        "excerpt": "أطلقت منصة OKX للعملات الرقمية، بالتعاون مع Ondo Finance، تداول نحو 260 سهما أمريكيا مرمزا، مع إمكانية شراء تسلا وإنفيديا عبر USDT ابتداء من 20 دولارا.",
-        "body": "بدأت منصة تداول الأصول الرقمية OKX دعم تداول نحو 260 سهما أمريكيا مرمزا من خلال تعاون مع Ondo Finance. ويمكن للمستخدمين تداول منتجات مرمزة مرتبطة بأسهم أمريكية كبرى مثل تسلا وإنفيديا مباشرة باستخدام USDT، مع حد أدنى للتداول يبلغ 20 دولارا. تأتي الخدمة مع اتساع اتجاه ترميز الأصول الحقيقية، المعروف باسم RWA، في سوق الأصول الرقمية العالمية. واحتفالا بالإطلاق، تقدم OKX التداول من دون رسوم. وتلفت الخطوة الانتباه بوصفها مثالا على توسيع وصول مستخدمي العملات الرقمية إلى أصول الأسهم التقليدية. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "OKX ने 260 अमेरिकी टोकन शेयरों में शून्य शुल्क ट्रेडिंग शुरू की",
-        "excerpt": "क्रिप्टो एक्सचेंज OKX ने Ondo Finance के साथ मिलकर करीब 260 अमेरिकी टोकन शेयरों की ट्रेडिंग शुरू की, जहां USDT से Tesla और Nvidia को न्यूनतम 20 डॉलर से खरीदा-बेचा जा सकता है।",
-        "body": "क्रिप्टो एसेट एक्सचेंज OKX ने Ondo Finance के साथ सहयोग में करीब 260 अमेरिकी टोकन शेयरों की ट्रेडिंग का समर्थन शुरू किया है। उपयोगकर्ता USDT के जरिए Tesla और Nvidia जैसी प्रमुख अमेरिकी कंपनियों के टोकनाइज्ड उत्पादों को सीधे खरीद और बेच सकते हैं, और न्यूनतम ट्रेडिंग राशि 20 डॉलर है। यह सेवा ऐसे समय आई है जब वैश्विक क्रिप्टो बाजार में वास्तविक संपत्तियों के टोकनीकरण, यानी RWA, का रुझान फैल रहा है। लॉन्च के अवसर पर OKX ट्रेडिंग शुल्क मुफ्त रख रहा है। टोकन शेयर ट्रेडिंग का यह समर्थन क्रिप्टो उपयोगकर्ताओं के लिए पारंपरिक इक्विटी संपत्तियों तक पहुंच बढ़ाने के उदाहरण के रूप में देखा जा रहा है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "OKX Mulai Trading 260 Saham Token AS dengan Biaya Nol",
-        "excerpt": "Bursa aset kripto OKX bekerja sama dengan Ondo Finance meluncurkan perdagangan sekitar 260 saham token AS, memungkinkan Tesla dan Nvidia dibeli dengan USDT mulai dari 20 dolar AS.",
-        "body": "Bursa aset kripto OKX mulai mendukung perdagangan sekitar 260 saham token Amerika Serikat melalui kerja sama dengan Ondo Finance. Pengguna dapat langsung memperdagangkan produk tokenisasi yang terkait dengan saham utama AS seperti Tesla dan Nvidia menggunakan USDT, dengan nilai transaksi minimum 20 dolar AS. Layanan ini hadir saat tren tokenisasi aset dunia nyata, atau RWA, terus meluas di pasar kripto global. Untuk menandai peluncuran, OKX menawarkan biaya perdagangan gratis. Dukungan perdagangan saham token ini menjadi perhatian sebagai contoh perluasan akses pengguna kripto ke aset saham tradisional. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "b86aef289c59",
-    "slug": "내가-산-코인-고평가-저평가업비트-온체인-기반-전략지수-2종-첫선-960908",
-    "channelId": "ETF",
-    "category": "etf",
-    "publishedAt": "2026-05-07T00:16:05.684Z",
-    "updatedAt": "2026-05-07T00:16:05.684Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/stock/12038777",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12038777",
-    "titleFingerprint": "b96ca58d7eefdc31a3e6cbc9e982de890736f9cb",
-    "dedupKeys": [
-      "b86aef289c590abac543851624544550f476158b",
-      "b96ca58d7eefdc31a3e6cbc9e982de890736f9cb",
-      "b3a9fb01bf1f907860b55b6a7af6e8877075ca70"
-    ],
-    "imageUrl": "/images/articles/b86aef289c59.png",
-    "i18n": {
-      "ko": {
-        "title": "업비트 온체인 전략지수 첫 출시, 코인 고평가·저평가 판단 쉬워진다",
-        "excerpt": "업비트 데이터랩이 이더리움 스몰캡 기반 온체인 전략지수 2종을 선보이며 MVRV 지표로 가상자산의 고평가·저평가를 직관적으로 확인할 수 있게 했다.",
-        "body": "업비트 데이터랩이 이더리움 스몰캡을 대상으로 한 온체인 기반 전략지수 2종을 처음 선보였다. 이번 지수는 디지털자산 투자자가 보유 코인의 고평가·저평가 여부를 보다 쉽게 파악하도록 돕는 데 초점을 맞췄다.\n\n핵심 지표는 MVRV다. MVRV는 온체인 데이터를 활용해 자산 가격 수준을 평가하는 지표로, 복잡한 블록체인 데이터를 직접 해석하기 어려운 투자자의 진입장벽을 낮추는 역할을 한다. 업비트는 저평가 코인의 장기 투자 성과가 더 우수하다는 분석도 제시했다.\n\n이번 출시는 온체인 데이터 기반 투자 판단을 대중화하려는 시도로 풀이된다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Upbit Launches On-Chain Strategy Indexes to Gauge Crypto Valuation",
-        "excerpt": "Upbit Data Lab has introduced two Ethereum small-cap on-chain strategy indexes, using MVRV to help investors identify whether digital assets look overvalued or undervalued.",
-        "body": "Upbit Data Lab has unveiled two on-chain strategy indexes focused on Ethereum small-cap digital assets. The new indexes are designed to help investors more easily judge whether the coins they hold are overvalued or undervalued.\n\nThe key metric is MVRV. MVRV uses on-chain data to assess an asset’s price level, helping lower the barrier for investors who find raw blockchain data difficult to interpret. Upbit also presented an analysis indicating that undervalued coins have shown stronger long-term investment performance.\n\nThe launch is positioned as an effort to make on-chain data-based investment judgment more accessible. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "アップビット、オンチェーン戦略指数を初公開　暗号資産の割高・割安判断を容易に",
-        "excerpt": "アップビット・データラボはイーサリアム小型銘柄を対象にしたオンチェーン戦略指数2種を公開し、MVRVで暗号資産の割高・割安を直感的に確認できるようにした。",
-        "body": "アップビット・データラボは、イーサリアムの小型暗号資産を対象にしたオンチェーン基盤の戦略指数2種を初めて公開した。今回の指数は、投資家が保有するコインの割高・割安をより簡単に把握できるようにすることを目的としている。\n\n中核となる指標はMVRVだ。MVRVはオンチェーンデータを活用して資産価格の水準を評価する指標で、複雑なブロックチェーンデータを直接読み解くのが難しい投資家の参入障壁を下げる役割を果たす。アップビットは、割安なコインの長期投資成績がより優れているとの分析も示した。\n\n今回の公開は、オンチェーンデータに基づく投資判断を広げる取り組みといえる。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "Upbit首次推出链上策略指数，帮助判断加密资产高估或低估",
-        "excerpt": "Upbit Data Lab推出两只基于以太坊小市值资产的链上策略指数，通过MVRV指标帮助投资者直观判断数字资产是否高估或低估。",
-        "body": "Upbit Data Lab首次推出两只面向以太坊小市值数字资产的链上策略指数。该指数旨在帮助投资者更容易判断自己持有的代币是否处于高估或低估状态。\n\n核心指标是MVRV。MVRV利用链上数据评估资产价格水平，可降低投资者直接解读复杂区块链数据的门槛。Upbit还提出分析称，低估代币的长期投资表现更为优异。\n\n此次发布可被视为推动基于链上数据进行投资判断的大众化尝试。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Upbit estrena índices on-chain para evaluar si una cripto está cara o barata",
-        "excerpt": "Upbit Data Lab presentó dos índices estratégicos on-chain basados en small caps de Ethereum, usando MVRV para identificar de forma intuitiva sobrevaloración o infravaloración.",
-        "body": "Upbit Data Lab presentó por primera vez dos índices estratégicos basados en datos on-chain y centrados en activos digitales de pequeña capitalización dentro del ecosistema Ethereum. Los índices buscan ayudar a los inversores a evaluar con mayor facilidad si las monedas que poseen están sobrevaloradas o infravaloradas.\n\nEl indicador clave es MVRV. Este utiliza datos on-chain para valorar el nivel de precio de un activo y reduce la barrera de entrada para quienes tienen dificultades para interpretar datos complejos de blockchain. Upbit también expuso un análisis según el cual las monedas infravaloradas muestran mejores resultados de inversión a largo plazo.\n\nEl lanzamiento apunta a ampliar el uso de datos on-chain en las decisiones de inversión. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Upbit lança índices on-chain para indicar se cripto está cara ou barata",
-        "excerpt": "A Upbit Data Lab apresentou dois índices estratégicos on-chain baseados em small caps de Ethereum, usando o MVRV para apontar sobrevalorização ou subvalorização de ativos digitais.",
-        "body": "A Upbit Data Lab lançou pela primeira vez dois índices estratégicos baseados em dados on-chain e voltados a ativos digitais de pequena capitalização ligados ao Ethereum. Os índices têm como objetivo ajudar investidores a avaliar com mais facilidade se as moedas que possuem estão sobrevalorizadas ou subvalorizadas.\n\nO principal indicador é o MVRV. Ele usa dados on-chain para avaliar o nível de preço de um ativo, reduzindo a barreira para investidores que têm dificuldade em interpretar dados complexos de blockchain. A Upbit também apresentou uma análise indicando que moedas subvalorizadas tiveram melhor desempenho de longo prazo.\n\nO lançamento busca tornar mais acessível a tomada de decisão baseada em dados on-chain. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Upbit startet On-Chain-Strategieindizes für Krypto-Bewertungen",
-        "excerpt": "Upbit Data Lab hat zwei On-Chain-Strategieindizes für Ethereum-Small-Caps vorgestellt, die per MVRV zeigen sollen, ob digitale Assets über- oder unterbewertet wirken.",
-        "body": "Upbit Data Lab hat erstmals zwei On-Chain-Strategieindizes für Ethereum-Small-Cap-Digitalassets vorgestellt. Die Indizes sollen Anlegern helfen, leichter einzuschätzen, ob die von ihnen gehaltenen Coins überbewertet oder unterbewertet sind.\n\nIm Mittelpunkt steht die Kennzahl MVRV. Sie nutzt On-Chain-Daten, um das Preisniveau eines Assets zu bewerten, und senkt damit die Einstiegshürde für Anleger, die komplexe Blockchain-Daten nur schwer direkt interpretieren können. Upbit verwies zudem auf eine Analyse, wonach unterbewertete Coins langfristig bessere Anlageergebnisse erzielt haben.\n\nDer Start ist ein Schritt, um Anlageentscheidungen auf Basis von On-Chain-Daten breiter zugänglich zu machen. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Upbit lance des indices on-chain pour repérer cryptos surévaluées ou sous-évaluées",
-        "excerpt": "Upbit Data Lab a présenté deux indices stratégiques on-chain fondés sur les small caps Ethereum, avec l’indicateur MVRV pour lire plus facilement la valorisation des actifs numériques.",
-        "body": "Upbit Data Lab a dévoilé pour la première fois deux indices stratégiques fondés sur des données on-chain et centrés sur les actifs numériques de petite capitalisation liés à Ethereum. Ces indices visent à aider les investisseurs à déterminer plus facilement si les cryptomonnaies qu’ils détiennent sont surévaluées ou sous-évaluées.\n\nL’indicateur clé est le MVRV. Il utilise les données on-chain pour évaluer le niveau de prix d’un actif et réduit la barrière d’accès pour les investisseurs qui peinent à interpréter directement des données blockchain complexes. Upbit a aussi présenté une analyse selon laquelle les monnaies sous-évaluées affichent de meilleures performances à long terme.\n\nCe lancement cherche à rendre plus accessible l’investissement guidé par les données on-chain. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "Upbit تطلق مؤشرات استراتيجية على السلسلة لتقييم العملات الرقمية",
-        "excerpt": "قدمت Upbit Data Lab مؤشرين استراتيجيين قائمين على بيانات السلسلة لعملات إيثريوم صغيرة القيمة، مع استخدام MVRV لتوضيح ما إذا كانت الأصول الرقمية مقومة بأعلى أو أقل من قيمتها.",
-        "body": "كشفت Upbit Data Lab للمرة الأولى عن مؤشرين استراتيجيين قائمين على بيانات السلسلة ويركزان على الأصول الرقمية صغيرة القيمة ضمن إيثريوم. وتهدف هذه المؤشرات إلى مساعدة المستثمرين على معرفة ما إذا كانت العملات التي يحتفظون بها مقومة بأعلى أو أقل من قيمتها بصورة أسهل.\n\nالمؤشر الأساسي هو MVRV. ويستخدم هذا المؤشر بيانات السلسلة لتقييم مستوى سعر الأصل، ما يخفض حاجز الدخول أمام المستثمرين الذين يصعب عليهم تفسير بيانات البلوك تشين المعقدة مباشرة. كما عرضت Upbit تحليلا يشير إلى أن العملات المقومة بأقل من قيمتها حققت أداء استثماريا أفضل على المدى الطويل.\n\nيمثل الإطلاق محاولة لتوسيع استخدام بيانات السلسلة في قرارات الاستثمار. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "Upbit ने क्रिप्टो वैल्यूएशन समझाने वाले ऑन-चेन रणनीति सूचकांक लॉन्च किए",
-        "excerpt": "Upbit Data Lab ने Ethereum स्मॉल-कैप पर आधारित दो ऑन-चेन रणनीति सूचकांक पेश किए, जिनमें MVRV से डिजिटल एसेट के ओवरवैल्यूड या अंडरवैल्यूड होने का संकेत मिलता है।",
-        "body": "Upbit Data Lab ने पहली बार Ethereum स्मॉल-कैप डिजिटल एसेट्स पर केंद्रित दो ऑन-चेन रणनीति सूचकांक पेश किए हैं। इनका उद्देश्य निवेशकों को यह समझने में मदद देना है कि उनके पास मौजूद कॉइन ओवरवैल्यूड हैं या अंडरवैल्यूड।\n\nमुख्य संकेतक MVRV है। यह ऑन-चेन डेटा का उपयोग कर किसी एसेट के मूल्य स्तर का आकलन करता है और उन निवेशकों के लिए बाधा कम करता है जिन्हें जटिल ब्लॉकचेन डेटा को सीधे समझना कठिन लगता है। Upbit ने यह विश्लेषण भी प्रस्तुत किया कि अंडरवैल्यूड कॉइन का दीर्घकालिक निवेश प्रदर्शन बेहतर रहा है।\n\nयह लॉन्च ऑन-चेन डेटा आधारित निवेश निर्णयों को अधिक सुलभ बनाने की कोशिश के रूप में देखा जा सकता है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Upbit Rilis Indeks On-Chain untuk Menilai Kripto Mahal atau Murah",
-        "excerpt": "Upbit Data Lab memperkenalkan dua indeks strategi on-chain berbasis small cap Ethereum, memakai MVRV untuk membantu investor melihat valuasi aset digital secara lebih intuitif.",
-        "body": "Upbit Data Lab untuk pertama kalinya memperkenalkan dua indeks strategi berbasis data on-chain yang berfokus pada aset digital small cap Ethereum. Indeks ini dibuat untuk membantu investor lebih mudah menilai apakah koin yang mereka pegang sedang overvalued atau undervalued.\n\nIndikator utamanya adalah MVRV. MVRV memakai data on-chain untuk menilai tingkat harga sebuah aset, sehingga menurunkan hambatan bagi investor yang sulit menafsirkan data blockchain yang kompleks secara langsung. Upbit juga menyampaikan analisis bahwa koin yang undervalued memiliki kinerja investasi jangka panjang yang lebih baik.\n\nPeluncuran ini menjadi upaya memperluas penggunaan data on-chain dalam pengambilan keputusan investasi. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "445581b41747",
-    "slug": "어느덧-칠순신영증권-창립-70주년-맞이-홈커밍데이-성료-624680",
-    "channelId": "ETF",
-    "category": "etf",
-    "publishedAt": "2026-05-07T00:15:07.732Z",
-    "updatedAt": "2026-05-07T00:15:07.732Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/stock/12038779",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12038779",
-    "titleFingerprint": "474309bfd091809d3b14d906a3e6105be691ae10",
-    "dedupKeys": [
-      "445581b417471bcb6d34f9a4cb206c76cadfb8a1",
-      "474309bfd091809d3b14d906a3e6105be691ae10",
-      "cab39bc7247ee93cc522aa16fbbbcae3b439539a"
-    ],
-    "imageUrl": "/images/articles/445581b41747.jpg",
-    "i18n": {
-      "ko": {
-        "title": "신영증권 창립 70주년 홈커밍데이 성료…전·현직 임직원 한자리",
-        "excerpt": "신영증권은 7일 창립 70주년을 맞아 전·현직 임직원이 함께한 홈커밍데이를 마쳤다고 밝혔다. 1971년 원국희 명예회장 인수 이후 이어온 흑자와 배당의 의미를 되짚었다.",
-        "body": "신영증권이 창립 70주년을 맞아 전·현직 임직원이 한자리에 모인 ‘홈커밍데이’ 행사를 성료했다고 7일 밝혔다. 이번 행사는 회사의 성장 과정을 함께 돌아보고 장기적인 경영 성과를 기념하는 자리로 마련됐다. 신영증권은 원국희 명예회장이 1971년 회사를 인수한 이후 연속 흑자와 배당을 이어온 점을 주요 성과로 내세웠다. 창립 70주년 행사는 과거와 현재 구성원이 회사의 지속성을 공유했다는 데 의미가 있다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Shinyoung Securities Marks 70th Anniversary With Homecoming Day Event",
-        "excerpt": "Shinyoung Securities said on the 7th it completed a Homecoming Day for its 70th anniversary, bringing together current and former staff to reflect on growth since Won Kuk-hee’s 1971 acquisition.",
-        "body": "Shinyoung Securities said on the 7th that it successfully held a “Homecoming Day” event to mark its 70th anniversary, gathering current and former employees in one place. The event was organized to look back on the company’s growth and commemorate its long-term management record. The firm highlighted that it has continued to post profits and pay dividends since Honorary Chairman Won Kuk-hee acquired the company in 1971. The 70th anniversary gathering carried significance as past and present members shared the company’s continuity. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "新栄証券、創立70周年ホームカミングデー終了…現旧社員が集結",
-        "excerpt": "新栄証券は7日、創立70周年を迎え、現旧役職員が参加したホームカミングデーを終えたと発表した。1971年の元国熙名誉会長による買収後の黒字と配当継続を振り返った。",
-        "body": "新栄証券は7日、創立70周年を記念し、現旧役職員が一堂に会した「ホームカミングデー」行事を成功裏に終えたと明らかにした。今回の行事は、会社の成長過程を共に振り返り、長期的な経営成果を記念する場として設けられた。新栄証券は、元国熙名誉会長が1971年に会社を買収して以降、連続黒字と配当を続けてきた点を主な成果として示した。創立70周年行事は、過去と現在の構成員が会社の継続性を共有した点に意味がある。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "新荣证券创立70周年Homecoming Day落幕，前后任员工齐聚",
-        "excerpt": "新荣证券7日表示，为迎接创立70周年，已完成前后任员工共同参加的Homecoming Day活动，并回顾了1971年元国熙名誉会长收购以来持续盈利和分红的历程。",
-        "body": "新荣证券7日表示，为纪念创立70周年，已成功举办前后任员工齐聚一堂的“Homecoming Day”活动。此次活动旨在共同回顾公司的成长过程，并纪念长期经营成果。新荣证券将元国熙名誉会长1971年收购公司以来持续实现盈利和分红列为主要成果。创立70周年活动的意义在于，过去与现在的成员共同分享了公司的延续性。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Shinyoung Securities celebra 70 años con Homecoming Day para empleados",
-        "excerpt": "Shinyoung Securities informó el día 7 que completó su Homecoming Day por el 70 aniversario, reuniendo a empleados actuales y antiguos para repasar su crecimiento desde la adquisición de Won Kuk-hee en 1971.",
-        "body": "Shinyoung Securities informó el día 7 que celebró con éxito un evento de “Homecoming Day” por su 70 aniversario, reuniendo en un mismo lugar a empleados actuales y antiguos. El acto se preparó para revisar el proceso de crecimiento de la compañía y conmemorar sus resultados de gestión a largo plazo. La firma destacó como logro principal que ha mantenido beneficios y dividendos consecutivos desde que el presidente honorario Won Kuk-hee adquirió la empresa en 1971. El aniversario tuvo significado al compartir la continuidad de la compañía entre miembros pasados y presentes. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Shinyoung Securities marca 70 anos com Homecoming Day de funcionários",
-        "excerpt": "A Shinyoung Securities informou no dia 7 que concluiu o Homecoming Day de seu 70º aniversário, reunindo funcionários atuais e antigos para revisitar o crescimento desde a aquisição por Won Kuk-hee em 1971.",
-        "body": "A Shinyoung Securities informou no dia 7 que realizou com sucesso o evento “Homecoming Day” em comemoração ao seu 70º aniversário, reunindo funcionários atuais e antigos em um só lugar. A iniciativa foi preparada para revisitar a trajetória de crescimento da empresa e celebrar seus resultados de gestão de longo prazo. A companhia destacou como principal conquista a continuidade de lucros e dividendos desde que o presidente honorário Won Kuk-hee adquiriu a empresa em 1971. O evento ganhou significado ao aproximar membros do passado e do presente em torno da continuidade da empresa. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Shinyoung Securities feiert 70 Jahre mit Homecoming Day für Mitarbeitende",
-        "excerpt": "Shinyoung Securities teilte am 7. mit, dass das Homecoming Day zum 70. Jubiläum abgeschlossen wurde. Aktuelle und frühere Mitarbeitende blickten auf das Wachstum seit Won Kuk-hees Übernahme 1971 zurück.",
-        "body": "Shinyoung Securities teilte am 7. mit, dass das Unternehmen anlässlich seines 70-jährigen Bestehens erfolgreich ein „Homecoming Day“-Event mit aktuellen und früheren Mitarbeitenden veranstaltet hat. Die Veranstaltung diente dazu, den Wachstumspfad des Unternehmens gemeinsam nachzuzeichnen und langfristige Managementergebnisse zu würdigen. Als zentrale Leistung hob Shinyoung Securities hervor, seit der Übernahme durch den Ehrenvorsitzenden Won Kuk-hee im Jahr 1971 fortlaufend Gewinne erzielt und Dividenden gezahlt zu haben. Das Jubiläum war bedeutsam, weil frühere und heutige Mitglieder die Kontinuität des Unternehmens teilten. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Shinyoung Securities fête ses 70 ans avec un Homecoming Day réussi",
-        "excerpt": "Shinyoung Securities a annoncé le 7 avoir achevé son Homecoming Day pour son 70e anniversaire, réunissant anciens et actuels employés afin de revenir sur sa croissance depuis l’acquisition par Won Kuk-hee en 1971.",
-        "body": "Shinyoung Securities a annoncé le 7 avoir organisé avec succès un événement « Homecoming Day » à l’occasion de son 70e anniversaire, réunissant anciens et actuels employés. Cette rencontre a été conçue pour revenir sur le parcours de croissance de l’entreprise et célébrer ses résultats de gestion à long terme. La société a mis en avant la continuité de ses bénéfices et de ses dividendes depuis l’acquisition par le président honoraire Won Kuk-hee en 1971. L’événement du 70e anniversaire a pris tout son sens en permettant aux membres d’hier et d’aujourd’hui de partager la continuité de l’entreprise. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "شينيونغ للأوراق المالية تحتفل بمرور 70 عاما عبر يوم العودة",
-        "excerpt": "أعلنت شينيونغ للأوراق المالية في اليوم السابع أنها اختتمت فعالية يوم العودة بمناسبة الذكرى السبعين لتأسيسها، بمشاركة موظفين حاليين وسابقين لاستعراض مسيرة النمو منذ استحواذ وون كوك-هي عام 1971.",
-        "body": "أعلنت شينيونغ للأوراق المالية في اليوم السابع أنها أنجزت بنجاح فعالية «يوم العودة» بمناسبة الذكرى السبعين لتأسيسها، حيث اجتمع موظفون حاليون وسابقون في مكان واحد. ونظمت الفعالية لاستعراض مسار نمو الشركة والاحتفاء بنتائج إدارتها طويلة الأجل. وبرز من بين إنجازات الشركة استمرار تحقيق الأرباح وتوزيع الأرباح منذ أن استحوذ الرئيس الفخري وون كوك-هي على الشركة في عام 1971. وتحمل فعالية الذكرى السبعين معنى خاصا لأنها جمعت أعضاء الماضي والحاضر حول استمرارية الشركة. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "Shinyoung Securities ने 70वीं वर्षगांठ पर Homecoming Day पूरा किया",
-        "excerpt": "Shinyoung Securities ने 7 तारीख को बताया कि उसने 70वीं वर्षगांठ पर मौजूदा और पूर्व कर्मचारियों के Homecoming Day को सफलतापूर्वक पूरा किया और 1971 में Won Kuk-hee के अधिग्रहण के बाद की लाभ और लाभांश यात्रा को याद किया।",
-        "body": "Shinyoung Securities ने 7 तारीख को कहा कि उसने अपनी स्थापना की 70वीं वर्षगांठ पर मौजूदा और पूर्व कर्मचारियों को एक स्थान पर लाने वाला “Homecoming Day” कार्यक्रम सफलतापूर्वक पूरा किया। यह कार्यक्रम कंपनी की विकास यात्रा को साथ मिलकर देखने और दीर्घकालिक प्रबंधन उपलब्धियों को याद करने के लिए आयोजित किया गया था। कंपनी ने मुख्य उपलब्धि के रूप में बताया कि मानद चेयरमैन Won Kuk-hee द्वारा 1971 में कंपनी के अधिग्रहण के बाद से उसने लगातार लाभ और लाभांश जारी रखे हैं। 70वीं वर्षगांठ का यह आयोजन इसलिए महत्वपूर्ण रहा कि अतीत और वर्तमान के सदस्यों ने कंपनी की निरंतरता को साझा किया। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Shinyoung Securities Rayakan 70 Tahun Lewat Homecoming Day Karyawan",
-        "excerpt": "Shinyoung Securities pada tanggal 7 menyatakan telah menuntaskan Homecoming Day untuk hari jadi ke-70, mempertemukan karyawan aktif dan mantan karyawan untuk meninjau pertumbuhan sejak akuisisi Won Kuk-hee pada 1971.",
-        "body": "Shinyoung Securities menyatakan pada tanggal 7 bahwa pihaknya berhasil menyelenggarakan acara “Homecoming Day” untuk memperingati hari jadi ke-70, dengan mempertemukan karyawan aktif dan mantan karyawan di satu tempat. Acara ini disiapkan untuk meninjau kembali proses pertumbuhan perusahaan dan memperingati capaian manajemen jangka panjang. Shinyoung Securities menyoroti keberlanjutan laba dan dividen sejak Ketua Kehormatan Won Kuk-hee mengakuisisi perusahaan pada 1971 sebagai capaian utama. Acara ulang tahun ke-70 ini bermakna karena anggota masa lalu dan masa kini berbagi kesinambungan perusahaan. Sumber: mk.co.kr"
       }
     }
   }
