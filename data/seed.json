@@ -1,5 +1,230 @@
 [
   {
+    "id": "7e911436b437",
+    "slug": "로봇이-스스로-배우고-알아서-협업까지-989201",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-05-07T15:42:46.243Z",
+    "updatedAt": "2026-05-07T15:42:46.243Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/stock/12039367",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12039367",
+    "titleFingerprint": "55681693240896698cfae02c8f4ec16314bfdb89",
+    "dedupKeys": [
+      "7e911436b43761674abd09042a836baa1da6b435",
+      "55681693240896698cfae02c8f4ec16314bfdb89",
+      "4aa53f4d8fccb549b10eb8dcfbc4209b7228a1b1"
+    ],
+    "imageUrl": "/images/articles/7e911436b437.jpg",
+    "i18n": {
+      "ko": {
+        "title": "LG CNS 로봇 전환 플랫폼 ‘피지컬웍스’ 공개, 학습부터 관제까지 통합 지원",
+        "excerpt": "LG CNS가 로봇 전환(RX) 플랫폼 브랜드 ‘피지컬웍스’를 공개했다. 로봇 구매와 현장 배치를 넘어 학습·검증·운영·관제를 한 번에 지원한다.",
+        "body": "LG CNS가 로봇 전환(RX) 플랫폼 브랜드 ‘피지컬웍스’를 공개했다. 피지컬웍스는 기업이 로봇을 구매해 현장에 배치하는 단계에 머무르지 않고, 로봇의 학습과 검증부터 운영과 관제까지 한 번에 지원하는 플랫폼이다. 이번 공개는 로봇 활용이 단순 자동화 장비 도입을 넘어 현장 운영 전반을 관리하는 방향으로 확장되고 있음을 보여준다. LG CNS는 피지컬웍스를 통해 로봇 전환 과정에서 필요한 여러 단계를 통합 지원하는 데 초점을 맞췄다. 출처는 mk.co.kr이다."
+      },
+      "en": {
+        "title": "LG CNS Unveils Physical Works Robot Transformation Platform for Learning and Control",
+        "excerpt": "LG CNS has introduced Physical Works, a robot transformation platform brand that supports robot learning, validation, operation and monitoring beyond simple purchase and deployment.",
+        "body": "LG CNS has unveiled ‘Physical Works,’ a robot transformation (RX) platform brand. The platform is designed to support more than the purchase and placement of robots at work sites. It brings together robot learning and validation as well as operation and monitoring in one platform. The launch shows how robot adoption is expanding from simply introducing automation equipment to managing broader field operations. LG CNS is focusing Physical Works on integrated support for the multiple stages required in robot transformation. Source: mk.co.kr."
+      },
+      "ja": {
+        "title": "LG CNS、ロボット転換プラットフォーム『Physical Works』公開、学習から管制まで支援",
+        "excerpt": "LG CNSがロボット転換（RX）プラットフォームブランド『Physical Works』を公開。購入・配置にとどまらず、学習、検証、運用、管制まで一括支援する。",
+        "body": "LG CNSはロボット転換（RX）プラットフォームブランド『Physical Works』を公開した。Physical Worksは、企業がロボットを購入して現場に配置する段階にとどまらず、ロボットの学習と検証から運用、管制までを一つの流れで支援するプラットフォームだ。今回の公開は、ロボット活用が単なる自動化機器の導入を超え、現場運営全体を管理する方向へ広がっていることを示す。LG CNSは、ロボット転換に必要な複数の段階を統合的に支援する点に重点を置いた。出典はmk.co.kr。"
+      },
+      "zh": {
+        "title": "LG CNS发布机器人转型平台Physical Works，覆盖学习验证到运营监控",
+        "excerpt": "LG CNS发布机器人转型（RX）平台品牌Physical Works，不只支持购买和现场部署，还将学习、验证、运营和监控整合在同一平台。",
+        "body": "LG CNS发布了机器人转型（RX）平台品牌“Physical Works”。该平台并不止于企业购买机器人并将其部署到现场，而是把机器人的学习、验证、运营和监控一次性纳入支持范围。此次发布显示，机器人应用正在从单纯引入自动化设备，扩展到对现场运营整体进行管理。LG CNS将Physical Works的重点放在整合支持机器人转型过程中所需的多个阶段。来源：mk.co.kr。"
+      },
+      "es": {
+        "title": "LG CNS presenta Physical Works, plataforma RX para aprendizaje, operación y control robótico",
+        "excerpt": "LG CNS presentó Physical Works, una marca de plataforma de transformación robótica que integra aprendizaje, validación, operación y monitoreo más allá de comprar e instalar robots.",
+        "body": "LG CNS presentó ‘Physical Works’, una marca de plataforma de transformación robótica (RX). La plataforma va más allá de comprar robots y colocarlos en un sitio de trabajo: integra el aprendizaje y la validación de los robots con su operación y monitoreo. El anuncio muestra que el uso de robots se está ampliando desde la simple adopción de equipos de automatización hacia la gestión de operaciones en campo. LG CNS centra Physical Works en apoyar de forma integrada las distintas etapas necesarias para la transformación robótica. Fuente: mk.co.kr."
+      },
+      "pt": {
+        "title": "LG CNS lança Physical Works, plataforma RX para aprendizado, operação e monitoramento",
+        "excerpt": "A LG CNS apresentou a Physical Works, marca de plataforma de transformação robótica que apoia aprendizado, validação, operação e monitoramento além da compra e instalação de robôs.",
+        "body": "A LG CNS apresentou a ‘Physical Works’, marca de plataforma de transformação robótica (RX). A plataforma vai além da compra de robôs e de sua colocação em campo, reunindo suporte ao aprendizado e à validação dos robôs, bem como à operação e ao monitoramento. O anúncio mostra que o uso de robôs está se expandindo da simples introdução de equipamentos de automação para a gestão mais ampla das operações em campo. A LG CNS concentra a Physical Works no apoio integrado às várias etapas necessárias à transformação robótica. Fonte: mk.co.kr."
+      },
+      "de": {
+        "title": "LG CNS stellt Physical Works vor: RX-Plattform für Lernen, Betrieb und Überwachung",
+        "excerpt": "LG CNS hat Physical Works vorgestellt, eine Plattformmarke für Robot Transformation, die Lernen, Validierung, Betrieb und Überwachung über Kauf und Einsatz hinaus bündelt.",
+        "body": "LG CNS hat ‘Physical Works’ vorgestellt, eine Plattformmarke für Robot Transformation (RX). Die Plattform beschränkt sich nicht darauf, Roboter zu kaufen und am Einsatzort zu platzieren. Sie unterstützt das Lernen und die Validierung der Roboter ebenso wie Betrieb und Überwachung in einer integrierten Umgebung. Die Vorstellung zeigt, dass der Robotereinsatz über die einfache Einführung von Automatisierungstechnik hinausgeht und sich zur Steuerung breiterer Vor-Ort-Abläufe entwickelt. LG CNS richtet Physical Works darauf aus, mehrere für die Robot Transformation erforderliche Schritte gebündelt zu unterstützen. Quelle: mk.co.kr."
+      },
+      "fr": {
+        "title": "LG CNS dévoile Physical Works, plateforme RX du robot apprenant au pilotage intégré",
+        "excerpt": "LG CNS a présenté Physical Works, une plateforme de transformation robotique qui va au-delà de l’achat et du déploiement en intégrant apprentissage, validation, exploitation et supervision.",
+        "body": "LG CNS a dévoilé ‘Physical Works’, une marque de plateforme de transformation robotique (RX). La plateforme ne se limite pas à l’achat de robots et à leur installation sur site. Elle prend en charge l’apprentissage et la validation des robots, ainsi que leur exploitation et leur supervision, dans un même ensemble. Cette annonce montre que l’usage des robots s’étend de la simple introduction d’équipements d’automatisation vers la gestion globale des opérations sur le terrain. LG CNS met l’accent sur le soutien intégré aux différentes étapes nécessaires à la transformation robotique. Source : mk.co.kr."
+      },
+      "ar": {
+        "title": "إل جي CNS تكشف منصة Physical Works لتحول الروبوتات من التعلم إلى المراقبة",
+        "excerpt": "كشفت إل جي CNS عن علامة منصة تحول الروبوتات Physical Works، التي تدعم التعلم والتحقق والتشغيل والمراقبة بما يتجاوز شراء الروبوتات ونشرها في المواقع.",
+        "body": "كشفت إل جي CNS عن ‘Physical Works’، وهي علامة لمنصة تحول الروبوتات (RX). ولا تقتصر المنصة على شراء الروبوتات ووضعها في مواقع العمل، بل تجمع دعم تعلم الروبوتات والتحقق منها مع التشغيل والمراقبة في منصة واحدة. ويظهر هذا الإعلان أن استخدام الروبوتات يتوسع من مجرد إدخال معدات الأتمتة إلى إدارة أوسع للعمليات الميدانية. وتركز إل جي CNS من خلال Physical Works على الدعم المتكامل للمراحل المتعددة المطلوبة في تحول الروبوتات. المصدر: mk.co.kr."
+      },
+      "hi": {
+        "title": "LG CNS ने Physical Works RX प्लेटफॉर्म पेश किया, सीखने से निगरानी तक एकीकृत समर्थन",
+        "excerpt": "LG CNS ने रोबोट ट्रांसफॉर्मेशन प्लेटफॉर्म ब्रांड Physical Works पेश किया है, जो रोबोट खरीद और तैनाती से आगे सीखने, सत्यापन, संचालन और निगरानी को साथ लाता है।",
+        "body": "LG CNS ने ‘Physical Works’ नाम से रोबोट ट्रांसफॉर्मेशन (RX) प्लेटफॉर्म ब्रांड पेश किया है। यह प्लेटफॉर्म कंपनियों द्वारा रोबोट खरीदकर उन्हें कार्यस्थल पर लगाने तक सीमित नहीं है। यह रोबोट के सीखने और सत्यापन से लेकर संचालन और निगरानी तक को एक साथ समर्थन देता है। यह घोषणा दिखाती है कि रोबोट का उपयोग केवल ऑटोमेशन उपकरण अपनाने से आगे बढ़कर स्थल संचालन के व्यापक प्रबंधन की दिशा में जा रहा है। LG CNS ने Physical Works में रोबोट ट्रांसफॉर्मेशन के लिए आवश्यक कई चरणों को एकीकृत रूप से समर्थन देने पर ध्यान दिया है। स्रोत: mk.co.kr."
+      },
+      "id": {
+        "title": "LG CNS Rilis Physical Works, Platform RX untuk Belajar, Operasi, dan Pemantauan Robot",
+        "excerpt": "LG CNS memperkenalkan Physical Works, merek platform transformasi robot yang mendukung pembelajaran, validasi, operasi, dan pemantauan, melampaui pembelian serta penempatan robot.",
+        "body": "LG CNS memperkenalkan ‘Physical Works’, merek platform transformasi robot (RX). Platform ini tidak hanya berhenti pada pembelian robot dan penempatannya di lokasi kerja. Physical Works mendukung pembelajaran dan validasi robot, sekaligus operasi dan pemantauan, dalam satu platform. Peluncuran ini menunjukkan bahwa pemanfaatan robot berkembang dari sekadar penerapan perangkat otomasi menuju pengelolaan operasi lapangan yang lebih luas. LG CNS menitikberatkan Physical Works pada dukungan terpadu untuk berbagai tahap yang dibutuhkan dalam transformasi robot. Sumber: mk.co.kr."
+      }
+    }
+  },
+  {
+    "id": "db596440422d",
+    "slug": "다음-인공지능-포털로-변신-862535",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-05-07T15:41:57.477Z",
+    "updatedAt": "2026-05-07T15:41:57.477Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/stock/12039366",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12039366",
+    "titleFingerprint": "ac8ca5c2dc58c95ff5045f88e447b9a66c231220",
+    "dedupKeys": [
+      "db596440422da30e5ae01304b0d2b73a4493dba5",
+      "ac8ca5c2dc58c95ff5045f88e447b9a66c231220",
+      "0139ba1ca3337a900a457930239e86aaeb3acb02"
+    ],
+    "imageUrl": "/images/articles/db596440422d.jpg",
+    "i18n": {
+      "ko": {
+        "title": "다음, 인공지능 포털 전환 가속…업스테이지 AXZ 인수 결정",
+        "excerpt": "생성형 AI 유니콘 업스테이지가 7일 포털 다음 운영사 AXZ 인수를 최종 결정하며 다음의 인공지능 포털 전환 가능성이 주목받고 있다.",
+        "body": "생성형 인공지능(AI) 기업 업스테이지가 7일 포털 ‘다음’ 운영사인 AXZ를 인수하기로 최종 결정했다. 업스테이지는 기업가치 1조원 이상 비상장 스타트업을 뜻하는 AI ‘유니콘’으로 소개됐다. 이번 결정은 포털 다음 운영 주체인 AXZ의 경영권 변화와 맞물려, 다음이 인공지능 기반 포털로 전환하는 흐름에서 중요한 분기점으로 거론된다. 다만 원문에서 공개된 핵심 내용은 인수 최종 결정과 관련 당사자에 한정된다. mk.co.kr 보도에 따르면 업스테이지는 AXZ 모회사와 관련한 인수 절차를 최종 결정했다."
+      },
+      "en": {
+        "title": "Daum AI Portal Shift Gains Pace as Upstage Decides to Acquire AXZ",
+        "excerpt": "Generative AI unicorn Upstage decided on May 7 to acquire AXZ, the operator of portal Daum, drawing attention to Daum’s possible shift into an AI portal.",
+        "body": "Upstage, a generative artificial intelligence company, made a final decision on May 7 to acquire AXZ, the operator of the portal Daum. Upstage was described as an AI “unicorn,” a privately held startup valued at more than 1 trillion won. The decision is being noted as an important development linked to a change in the operator behind Daum and to the portal’s move toward an AI-based service model. The original report, however, provides only the core fact of the final acquisition decision and the parties involved. According to mk.co.kr, Upstage finalized the decision related to acquiring AXZ from its parent company."
+      },
+      "ja": {
+        "title": "Daum、AIポータル転換へ前進…UpstageがAXZ買収を決定",
+        "excerpt": "生成AIユニコーンのUpstageが7日、ポータルDaumの運営会社AXZを買収することを最終決定し、AIポータル化の行方が注目されている。",
+        "body": "生成型人工知能（AI）企業のUpstageは7日、ポータル「Daum」の運営会社であるAXZを買収することを最終決定した。Upstageは企業価値1兆ウォン以上の非上場スタートアップを指すAI「ユニコーン」と紹介されている。今回の決定は、Daumの運営主体であるAXZの経営権変更と関連し、DaumがAI基盤のポータルへ転換する流れの中で重要な動きとして受け止められている。ただし原文で確認できる核心情報は、買収の最終決定と関係当事者に限られる。mk.co.krによると、UpstageはAXZの親会社に関連する買収手続きを最終決定した。"
+      },
+      "zh": {
+        "title": "Daum加速转向人工智能门户，Upstage决定收购AXZ",
+        "excerpt": "生成式AI独角兽Upstage于7日最终决定收购门户Daum运营方AXZ，外界关注Daum向人工智能门户转型的进展。",
+        "body": "生成式人工智能（AI）企业Upstage于7日最终决定收购门户“Daum”的运营公司AXZ。Upstage被介绍为AI“独角兽”，即企业价值超过1万亿韩元的非上市初创企业。此次决定与Daum运营主体AXZ的经营权变化相关，也被视为Daum向基于人工智能的门户服务转型过程中的重要节点。不过，原文披露的核心事实仅限于收购最终决定以及相关当事方。mk.co.kr报道称，Upstage已就与AXZ母公司相关的收购程序作出最终决定。"
+      },
+      "es": {
+        "title": "Daum avanza hacia portal de IA tras decisión de Upstage de adquirir AXZ",
+        "excerpt": "La unicornio de IA generativa Upstage decidió el 7 de mayo adquirir AXZ, operadora del portal Daum, y centra la atención en su giro hacia un portal de IA.",
+        "body": "Upstage, empresa de inteligencia artificial generativa, decidió finalmente el 7 de mayo adquirir AXZ, la operadora del portal Daum. Upstage fue presentada como una “unicornio” de IA, es decir, una startup privada con una valoración superior a 1 billón de wones. La decisión se considera un hecho relevante por su relación con el cambio en la entidad que opera Daum y con la transición del portal hacia un modelo basado en inteligencia artificial. No obstante, la información central del texto original se limita a la decisión final de adquisición y a las partes involucradas. Según mk.co.kr, Upstage finalizó la decisión vinculada al proceso de adquisición de AXZ desde su matriz."
+      },
+      "pt": {
+        "title": "Daum avança como portal de IA após Upstage decidir adquirir a AXZ",
+        "excerpt": "A unicórnio de IA generativa Upstage decidiu em 7 de maio adquirir a AXZ, operadora do portal Daum, chamando atenção para sua transição a portal de IA.",
+        "body": "A Upstage, empresa de inteligência artificial generativa, decidiu em 7 de maio adquirir a AXZ, operadora do portal Daum. A Upstage foi apresentada como uma “unicórnio” de IA, termo usado para startups privadas avaliadas em mais de 1 trilhão de wones. A decisão é vista como um movimento relevante por estar ligada à mudança no operador do Daum e ao avanço do portal rumo a um modelo baseado em inteligência artificial. Ainda assim, o texto original informa apenas o fato central da decisão final de aquisição e as partes envolvidas. Segundo o mk.co.kr, a Upstage finalizou a decisão relacionada ao processo de aquisição da AXZ junto à sua controladora."
+      },
+      "de": {
+        "title": "Daum auf dem Weg zum KI-Portal: Upstage entscheidet AXZ-Übernahme",
+        "excerpt": "Das generative KI-Unicorn Upstage entschied am 7. Mai, AXZ, Betreiber des Portals Daum, zu übernehmen und rückt Daums KI-Portal-Wandel in den Fokus.",
+        "body": "Das Unternehmen Upstage für generative künstliche Intelligenz entschied am 7. Mai endgültig, AXZ, den Betreiber des Portals Daum, zu übernehmen. Upstage wurde als KI-„Unicorn“ beschrieben, also als nicht börsennotiertes Startup mit einer Bewertung von mehr als 1 Billion Won. Die Entscheidung gilt als wichtiger Schritt im Zusammenhang mit dem Wechsel beim Betreiber von Daum und mit der Entwicklung des Portals hin zu einem KI-basierten Dienst. Der Originaltext nennt jedoch nur die zentrale Tatsache der endgültigen Übernahmeentscheidung und die beteiligten Parteien. Laut mk.co.kr hat Upstage die Entscheidung über das mit der AXZ-Muttergesellschaft verbundene Übernahmeverfahren final getroffen."
+      },
+      "fr": {
+        "title": "Daum accélère vers un portail IA avec la décision d’Upstage d’acquérir AXZ",
+        "excerpt": "La licorne d’IA générative Upstage a décidé le 7 mai d’acquérir AXZ, opérateur du portail Daum, attirant l’attention sur sa transition vers un portail IA.",
+        "body": "Upstage, entreprise d’intelligence artificielle générative, a pris le 7 mai la décision finale d’acquérir AXZ, l’opérateur du portail Daum. Upstage est présentée comme une « licorne » de l’IA, c’est-à-dire une startup non cotée valorisée à plus de 1 000 milliards de wons. Cette décision est considérée comme un développement important lié au changement de l’entité qui exploite Daum et à l’évolution du portail vers un modèle fondé sur l’intelligence artificielle. Le texte original se limite toutefois au fait central de la décision finale d’acquisition et aux parties concernées. Selon mk.co.kr, Upstage a finalisé la décision relative à la procédure d’acquisition d’AXZ auprès de sa société mère."
+      },
+      "ar": {
+        "title": "داوم تتجه إلى بوابة ذكاء اصطناعي بعد قرار Upstage شراء AXZ",
+        "excerpt": "قررت شركة Upstage، يونيكورن الذكاء الاصطناعي التوليدي، في 7 مايو الاستحواذ على AXZ مشغلة بوابة Daum، ما يسلط الضوء على تحولها إلى بوابة ذكاء اصطناعي.",
+        "body": "اتخذت شركة Upstage المتخصصة في الذكاء الاصطناعي التوليدي في 7 مايو قرارا نهائيا بالاستحواذ على AXZ، الشركة المشغلة لبوابة Daum. ووصفت Upstage بأنها «يونيكورن» في مجال الذكاء الاصطناعي، أي شركة ناشئة غير مدرجة تتجاوز قيمتها تريليون وون. ويرتبط هذا القرار بتغير الجهة المشغلة لداوم، كما يبرز ضمن مسار تحول البوابة إلى خدمة قائمة على الذكاء الاصطناعي. ومع ذلك، فإن المعلومات الأساسية الواردة في النص الأصلي تقتصر على قرار الاستحواذ النهائي والأطراف المعنية. وبحسب mk.co.kr، أنهت Upstage قرارها المتعلق بإجراءات الاستحواذ على AXZ من شركتها الأم."
+      },
+      "hi": {
+        "title": "Daum का AI पोर्टल बदलाव तेज, Upstage ने AXZ अधिग्रहण तय किया",
+        "excerpt": "जनरेटिव AI यूनिकॉर्न Upstage ने 7 मई को पोर्टल Daum की ऑपरेटर AXZ को खरीदने का अंतिम निर्णय लिया, जिससे Daum के AI पोर्टल रूपांतरण पर ध्यान गया।",
+        "body": "जनरेटिव आर्टिफिशियल इंटेलिजेंस कंपनी Upstage ने 7 मई को पोर्टल ‘Daum’ की ऑपरेटर AXZ का अधिग्रहण करने का अंतिम निर्णय लिया। Upstage को AI ‘यूनिकॉर्न’ बताया गया है, यानी ऐसी गैर-सूचीबद्ध स्टार्टअप कंपनी जिसका मूल्य 1 ट्रिलियन वोन से अधिक है। यह फैसला Daum के ऑपरेटर AXZ के नियंत्रण में बदलाव से जुड़ा माना जा रहा है और Daum के AI आधारित पोर्टल की ओर बढ़ने के संदर्भ में अहम घटना के रूप में देखा जा रहा है। हालांकि मूल रिपोर्ट में उपलब्ध मुख्य जानकारी अधिग्रहण के अंतिम निर्णय और संबंधित पक्षों तक सीमित है। mk.co.kr के अनुसार, Upstage ने AXZ की मूल कंपनी से जुड़े अधिग्रहण प्रक्रिया पर अंतिम निर्णय लिया।"
+      },
+      "id": {
+        "title": "Daum Menuju Portal AI, Upstage Putuskan Akuisisi AXZ",
+        "excerpt": "Unicorn AI generatif Upstage pada 7 Mei memutuskan mengakuisisi AXZ, operator portal Daum, sehingga arah perubahan Daum menjadi portal AI menjadi sorotan.",
+        "body": "Perusahaan kecerdasan buatan generatif Upstage pada 7 Mei mengambil keputusan final untuk mengakuisisi AXZ, operator portal Daum. Upstage disebut sebagai “unicorn” AI, yaitu startup privat dengan valuasi lebih dari 1 triliun won. Keputusan ini terkait dengan perubahan pada pihak pengelola Daum dan menjadi perkembangan penting dalam arah Daum menuju portal berbasis kecerdasan buatan. Namun, informasi inti dalam teks asli terbatas pada keputusan final akuisisi dan pihak-pihak yang terlibat. Menurut mk.co.kr, Upstage telah memfinalkan keputusan terkait proses akuisisi AXZ dari perusahaan induknya."
+      }
+    }
+  },
+  {
+    "id": "0a58874fba9c",
+    "slug": "ai-기술株의-시대-주식채권金-비율-721로-담아라-654762",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-05-07T15:40:51.025Z",
+    "updatedAt": "2026-05-07T15:40:51.025Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/stock/12039406",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12039406",
+    "titleFingerprint": "c0b1140b5f38dee10fee02e071bc32977d35768c",
+    "dedupKeys": [
+      "0a58874fba9ca09dbf6cd998ca09c9401f50ca7b",
+      "c0b1140b5f38dee10fee02e071bc32977d35768c",
+      "859aab1af3a147a3655115fe48cb203c97b7945f"
+    ],
+    "imageUrl": "/images/articles/0a58874fba9c.jpg",
+    "i18n": {
+      "ko": {
+        "title": "AI 기술주 시대의 자산배분 전략, 주식·채권·금 7:2:1 비율 주목",
+        "excerpt": "7일 서울 강남구 코엑스에서 개막한 2026 서울 행사에서 AI 기술주 시대를 맞아 공격적 투자자에게 주식 70%, 채권·금 30% 배분 전략이 제시됐다.",
+        "body": "7일 서울 강남구 코엑스에서 개막한 ‘2026 서울’ 행사에서 AI 기술주 시대의 자산배분 전략이 소개됐다. 원문은 공격적 투자자라면 주식 비중을 70%로 두고 나머지를 채권과 금으로 채우는 방식에 주목했다. 제시된 비율은 주식 7, 채권 2, 금 1이다. 이는 성장 자산인 주식을 중심에 두되 채권과 금을 함께 담아 변동성에 대응하려는 구성이다. AI 기술주가 투자 관심의 중심에 선 가운데, 분산 배분의 필요성이 다시 강조됐다. 출처: mk.co.kr."
+      },
+      "en": {
+        "title": "AI Tech Stock Era Puts 70:20:10 Stock, Bond and Gold Allocation in Focus",
+        "excerpt": "At a 2026 Seoul event that opened May 7 at COEX in Gangnam, Seoul, aggressive investors were pointed to a 70% stock allocation with the rest in bonds and gold.",
+        "body": "At the ‘2026 Seoul’ event that opened on May 7 at COEX in Gangnam-gu, Seoul, an asset allocation strategy for the era of AI technology stocks was introduced. The original report said aggressive investors could set stocks at 70% and fill the rest with bonds and gold. The suggested ratio is 7 for stocks, 2 for bonds and 1 for gold. The structure keeps growth assets at the center while using bonds and gold to respond to volatility. As AI tech stocks remain a focus for investors, the need for diversified allocation was emphasized again. Source: mk.co.kr."
+      },
+      "ja": {
+        "title": "AI技術株時代の資産配分、株式・債券・金の7:2:1比率に注目",
+        "excerpt": "5月7日にソウル江南区COEXで開幕した2026ソウル行事で、積極投資家向けに株式70%、残りを債券と金で組む配分戦略が示された。",
+        "body": "5月7日、ソウル江南区のCOEXで開幕した「2026ソウル」行事で、AI技術株時代の資産配分戦略が紹介された。原文は、積極的な投資家なら株式比率を70%に設定し、残りを債券と金で埋める方法に注目した。示された比率は株式7、債券2、金1である。成長資産である株式を中心に据えつつ、債券と金を組み合わせて変動性に備える構成だ。AI技術株が投資の関心の中心となるなか、分散配分の必要性が改めて強調された。出典: mk.co.kr."
+      },
+      "zh": {
+        "title": "AI科技股时代资产配置受关注，股票债券黄金7:2:1比例浮现",
+        "excerpt": "5月7日在首尔江南区COEX开幕的2026首尔活动上，面向进取型投资者提出了股票70%、其余配置债券和黄金的策略。",
+        "body": "5月7日，在首尔江南区COEX开幕的“2026首尔”活动上，介绍了AI科技股时代的资产配置策略。原文指出，进取型投资者可将股票比重设为70%，其余部分由债券和黄金填补。提出的比例为股票7、债券2、黄金1。该组合以作为增长资产的股票为核心，同时纳入债券和黄金，以应对波动。随着AI科技股成为投资关注重点，分散配置的必要性再次受到强调。来源: mk.co.kr."
+      },
+      "es": {
+        "title": "Era de acciones tecnológicas de IA impulsa cartera 70:20:10 en bolsa, bonos y oro",
+        "excerpt": "En un evento de 2026 Seoul inaugurado el 7 de mayo en COEX, Gangnam, se planteó para inversores agresivos una cartera con 70% en acciones y el resto en bonos y oro.",
+        "body": "En el evento ‘2026 Seoul’, inaugurado el 7 de mayo en COEX, en Gangnam-gu, Seúl, se presentó una estrategia de asignación de activos para la era de las acciones tecnológicas de IA. El texto original señaló que un inversor agresivo puede fijar la proporción de acciones en 70% y completar el resto con bonos y oro. La proporción sugerida es 7 en acciones, 2 en bonos y 1 en oro. La estructura mantiene las acciones, activo de crecimiento, en el centro, y suma bonos y oro para responder a la volatilidad. Fuente: mk.co.kr."
+      },
+      "pt": {
+        "title": "Era das ações de IA destaca alocação 70:20:10 em bolsa, títulos e ouro",
+        "excerpt": "Em evento de 2026 Seoul aberto em 7 de maio no COEX, em Gangnam, investidores agressivos receberam a indicação de 70% em ações e o restante em títulos e ouro.",
+        "body": "No evento ‘2026 Seoul’, aberto em 7 de maio no COEX, em Gangnam-gu, Seul, foi apresentada uma estratégia de alocação de ativos para a era das ações de tecnologia de IA. O texto original afirmou que investidores agressivos podem manter 70% em ações e preencher o restante com títulos e ouro. A proporção indicada é 7 em ações, 2 em títulos e 1 em ouro. A composição coloca as ações, ativo de crescimento, no centro, enquanto títulos e ouro ajudam a lidar com a volatilidade. Fonte: mk.co.kr."
+      },
+      "de": {
+        "title": "KI-Technologieaktien rücken 70:20:10-Mix aus Aktien, Anleihen und Gold in den Fokus",
+        "excerpt": "Bei einer am 7. Mai im COEX in Gangnam, Seoul, eröffneten 2026-Seoul-Veranstaltung wurde offensiven Anlegern ein Mix aus 70% Aktien sowie Anleihen und Gold vorgestellt.",
+        "body": "Bei der am 7. Mai im COEX in Gangnam-gu, Seoul, eröffneten Veranstaltung ‘2026 Seoul’ wurde eine Strategie zur Vermögensaufteilung für die Ära der KI-Technologieaktien vorgestellt. Der Originalbericht hob hervor, dass offensive Anleger den Aktienanteil auf 70% setzen und den Rest mit Anleihen und Gold füllen können. Das genannte Verhältnis lautet 7 Aktien, 2 Anleihen und 1 Gold. Die Struktur stellt Wachstumswerte in den Mittelpunkt und ergänzt sie um Anleihen und Gold, um Schwankungen zu begegnen. Quelle: mk.co.kr."
+      },
+      "fr": {
+        "title": "Actions technologiques d’IA: l’allocation 70:20:10 actions, obligations et or mise en avant",
+        "excerpt": "Lors d’un événement 2026 Seoul ouvert le 7 mai au COEX, à Gangnam, les investisseurs offensifs se sont vu présenter une allocation de 70% en actions, le reste en obligations et or.",
+        "body": "Lors de l’événement ‘2026 Seoul’, ouvert le 7 mai au COEX, dans l’arrondissement de Gangnam à Séoul, une stratégie d’allocation d’actifs pour l’ère des actions technologiques liées à l’IA a été présentée. Le texte original indique qu’un investisseur offensif peut fixer la part des actions à 70% et compléter le reste avec des obligations et de l’or. Le ratio proposé est de 7 pour les actions, 2 pour les obligations et 1 pour l’or. Cette composition place les actifs de croissance au centre tout en ajoutant obligations et or face à la volatilité. Source: mk.co.kr."
+      },
+      "ar": {
+        "title": "عصر أسهم الذكاء الاصطناعي يبرز توزيع 70:20:10 بين الأسهم والسندات والذهب",
+        "excerpt": "في فعالية 2026 Seoul التي افتتحت في 7 مايو في مركز COEX بمنطقة غانغنام في سيول، طُرح للمستثمرين ذوي النزعة الهجومية توزيع 70% للأسهم والباقي للسندات والذهب.",
+        "body": "في فعالية ‘2026 Seoul’ التي افتتحت في 7 مايو في مركز COEX بمنطقة غانغنام-غو في سيول، عُرضت استراتيجية لتوزيع الأصول في عصر أسهم تكنولوجيا الذكاء الاصطناعي. وذكر النص الأصلي أن المستثمر الهجومي يمكنه تحديد وزن الأسهم عند 70% وملء الباقي بالسندات والذهب. النسبة المقترحة هي 7 للأسهم و2 للسندات و1 للذهب. تضع هذه التركيبة أسهم النمو في المركز، مع إضافة السندات والذهب للتعامل مع التقلبات. المصدر: mk.co.kr."
+      },
+      "hi": {
+        "title": "AI टेक शेयरों के दौर में शेयर, बॉन्ड और सोने का 70:20:10 आवंटन चर्चा में",
+        "excerpt": "7 मई को सियोल के गंगनम स्थित COEX में शुरू हुए 2026 Seoul कार्यक्रम में आक्रामक निवेशकों के लिए 70% शेयर और शेष बॉन्ड व सोने में रखने की रणनीति बताई गई।",
+        "body": "7 मई को सियोल के गंगनम-गु स्थित COEX में शुरू हुए ‘2026 Seoul’ कार्यक्रम में AI टेक्नोलॉजी शेयरों के दौर के लिए परिसंपत्ति आवंटन रणनीति पेश की गई। मूल लेख के अनुसार, आक्रामक निवेशक शेयरों का अनुपात 70% रख सकते हैं और शेष हिस्सा बॉन्ड तथा सोने से भर सकते हैं। सुझाया गया अनुपात शेयर 7, बॉन्ड 2 और सोना 1 है। यह संरचना वृद्धि संपत्ति यानी शेयरों को केंद्र में रखती है, जबकि उतार-चढ़ाव से निपटने के लिए बॉन्ड और सोना जोड़ती है। स्रोत: mk.co.kr."
+      },
+      "id": {
+        "title": "Era Saham Teknologi AI Soroti Alokasi 70:20:10 pada Saham, Obligasi, dan Emas",
+        "excerpt": "Dalam acara 2026 Seoul yang dibuka 7 Mei di COEX, Gangnam, investor agresif diarahkan pada alokasi 70% saham dan sisanya pada obligasi serta emas.",
+        "body": "Dalam acara ‘2026 Seoul’ yang dibuka pada 7 Mei di COEX, Gangnam-gu, Seoul, diperkenalkan strategi alokasi aset untuk era saham teknologi AI. Teks asli menyebutkan bahwa investor agresif dapat menetapkan porsi saham sebesar 70% dan mengisi sisanya dengan obligasi serta emas. Rasio yang disarankan adalah 7 untuk saham, 2 untuk obligasi, dan 1 untuk emas. Komposisi ini menempatkan saham sebagai aset pertumbuhan di pusat, sambil menambahkan obligasi dan emas untuk menghadapi volatilitas. Sumber: mk.co.kr."
+      }
+    }
+  },
+  {
     "id": "25b9f1a86f2d",
     "slug": "단독-상폐위기-몰리자-막판-주가-관리거래소-시총-규정-회피성-거래-포착-276500",
     "channelId": "ETF",
@@ -4271,231 +4496,6 @@
         "title": "Daol Naikkan Target Celltrion, Penjualan Pabrik AS Dinilai Topang Pertumbuhan",
         "excerpt": "Daol menaikkan target harga Celltrion karena penjualan dari pabrik di AS dinilai dapat mendukung kelanjutan pertumbuhan, menurut laporan hankyung.com.",
         "body": "Daol menaikkan target harga Celltrion dengan menyatakan bahwa pertumbuhan perusahaan diperkirakan berlanjut seiring tercerminnya penjualan dari pabriknya di Amerika Serikat. Penilaian ini berfokus pada kemungkinan bahwa pendapatan terkait pabrik AS dapat masuk ke kinerja Celltrion ke depan. Laporan asli tidak menyebutkan angka target harga tertentu atau proyeksi laba terperinci. Analisis sekuritas tersebut menyoroti potensi penjualan pabrik AS dalam menopang keberlanjutan pertumbuhan Celltrion. Sumber: hankyung.com"
-      }
-    }
-  },
-  {
-    "id": "137dac6a5f7e",
-    "slug": "월가-전설-하워드-막스-한경-프리미엄9에서-만나세요-876373",
-    "channelId": "ETF",
-    "category": "etf",
-    "publishedAt": "2026-05-06T22:37:35.365Z",
-    "updatedAt": "2026-05-06T22:37:35.365Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/2026050696231",
-    "canonicalUrl": "https://www.hankyung.com/article/2026050696231",
-    "titleFingerprint": "730ed7dc414851dc8743528dc6280bcda1d8bdc1",
-    "dedupKeys": [
-      "137dac6a5f7e908a6f95b10e0dbf9a75c256fdf3",
-      "730ed7dc414851dc8743528dc6280bcda1d8bdc1",
-      "f0660457a652515b9cd89d910493a1692f9eec27"
-    ],
-    "imageUrl": "/images/articles/137dac6a5f7e.jpg",
-    "i18n": {
-      "ko": {
-        "title": "하워드 막스 KIW 2026 대담, 한경 프리미엄9에서 전 강연 영상으로 만난다",
-        "excerpt": "한국경제신문은 5월 12~15일 서울 신라호텔에서 KIW 2026을 열고, 하워드 막스 등 투자 전문가 70여 명의 강연을 한경 프리미엄9 영상으로 제공한다고 밝혔다.",
-        "body": "한국경제신문은 삼성증권과 함께 5월 12일부터 15일까지 서울 장충동 신라호텔에서 국내 최대 투자 콘퍼런스 ‘코리아 인베스트먼트 위크 2026’(KIW 2026)을 개최한다. 행사에는 하워드 막스 오크트리캐피털 회장 등 정부·산업계·금융투자업계 핵심 인사 70여 명이 연사로 참여한다. 막스 회장은 14일 윤석모 삼성증권 리서치센터장과 ‘AI 시대 투자 사이클과 리스크’를 주제로 대담한다. 반도체, AI, 원자력, 전력 인프라, K컬처 등도 다뤄지며, 한경 프리미엄9 구독자는 모든 강연을 영상으로 볼 수 있다. 출처: hankyung.com"
-      },
-      "en": {
-        "title": "Howard Marks at KIW 2026: Premium9 to Stream Every Investment Session",
-        "excerpt": "The Korea Economic Daily said KIW 2026 will run May 12-15 at Seoul’s Shilla Hotel, featuring Howard Marks and about 70 speakers, with all sessions available on Hankyung Premium9.",
-        "body": "The Korea Economic Daily, together with Samsung Securities, will hold Korea Investment Week 2026, or KIW 2026, from May 12 to 15 at The Shilla Seoul in Jangchung-dong. The conference will feature about 70 key figures from government, industry and financial investment, including Oaktree Capital Chairman Howard Marks. Marks will speak on May 14 with Samsung Securities Research Center head Yoon Seok-mo on “investment cycles and risks in the AI era.” Topics will also include semiconductors, AI, nuclear power, power infrastructure and K-culture. Hankyung Premium9 subscribers can watch all lectures by video. Source: hankyung.com"
-      },
-      "ja": {
-        "title": "ハワード・マークス氏がKIW 2026に登壇、Premium9で全講演を配信",
-        "excerpt": "韓国経済新聞は5月12〜15日にソウル新羅ホテルでKIW 2026を開き、ハワード・マークス氏ら約70人の講演をPremium9で配信すると伝えた。",
-        "body": "韓国経済新聞はサムスン証券と共同で、5月12日から15日までソウル・奨忠洞の新羅ホテルで国内最大級の投資カンファレンス「コリア・インベストメント・ウィーク2026」（KIW 2026）を開催する。会場にはオークツリー・キャピタルのハワード・マークス会長を含む政府、産業界、金融投資業界の主要人物約70人が登壇する。マークス氏は14日、サムスン証券リサーチセンター長の尹錫模氏と「AI時代の投資サイクルとリスク」をテーマに対談する。半導体、AI、原子力、電力インフラ、Kカルチャーも扱われる。Hankyung Premium9の購読者は全講演を動画で視聴できる。出典: hankyung.com"
-      },
-      "zh": {
-        "title": "霍华德·马克斯将亮相KIW 2026，Premium9提供全部演讲视频",
-        "excerpt": "韩国经济新闻称，KIW 2026将于5月12日至15日在首尔新罗酒店举行，霍华德·马克斯等约70名嘉宾演讲可通过Premium9观看。",
-        "body": "韩国经济新闻将与三星证券共同于5月12日至15日在首尔奖忠洞新罗酒店举办韩国最大投资会议“韩国投资周2026”（KIW 2026）。会议邀请橡树资本董事长霍华德·马克斯等来自政府、产业界和金融投资业界的约70名核心人士担任演讲嘉宾。马克斯将于14日与三星证券研究中心负责人尹锡模围绕“AI时代的投资周期与风险”进行对谈。会议还将覆盖半导体、AI、核能、电力基础设施和K文化等主题。Hankyung Premium9订阅者可观看全部演讲视频。来源: hankyung.com"
-      },
-      "es": {
-        "title": "Howard Marks participará en KIW 2026 y Premium9 ofrecerá todas las charlas",
-        "excerpt": "The Korea Economic Daily informó que KIW 2026 se celebrará del 12 al 15 de mayo en The Shilla Seoul, con Howard Marks y unos 70 ponentes disponibles en video vía Premium9.",
-        "body": "The Korea Economic Daily, junto con Samsung Securities, celebrará Korea Investment Week 2026, o KIW 2026, del 12 al 15 de mayo en The Shilla Seoul, en Jangchung-dong. La conferencia reunirá a unas 70 figuras clave del gobierno, la industria y la inversión financiera, incluido Howard Marks, presidente de Oaktree Capital. Marks conversará el día 14 con Yoon Seok-mo, jefe del centro de análisis de Samsung Securities, sobre “ciclos de inversión y riesgos en la era de la IA”. También se abordarán semiconductores, IA, energía nuclear, infraestructura eléctrica y K-culture. Los suscriptores de Hankyung Premium9 podrán ver todas las ponencias en video. Fuente: hankyung.com"
-      },
-      "pt": {
-        "title": "Howard Marks estará no KIW 2026, com palestras em vídeo no Premium9",
-        "excerpt": "O Korea Economic Daily informou que o KIW 2026 ocorrerá de 12 a 15 de maio no The Shilla Seoul, com Howard Marks e cerca de 70 palestrantes disponíveis no Premium9.",
-        "body": "O Korea Economic Daily, em parceria com a Samsung Securities, realizará o Korea Investment Week 2026, ou KIW 2026, de 12 a 15 de maio no The Shilla Seoul, em Jangchung-dong. A conferência terá cerca de 70 nomes centrais do governo, da indústria e do setor de investimento financeiro, incluindo Howard Marks, presidente da Oaktree Capital. Marks participará no dia 14 de uma conversa com Yoon Seok-mo, chefe do centro de pesquisa da Samsung Securities, sobre “ciclos de investimento e riscos na era da IA”. Semicondutores, IA, energia nuclear, infraestrutura elétrica e K-culture também estarão na pauta. Assinantes do Hankyung Premium9 poderão assistir a todas as palestras em vídeo. Fonte: hankyung.com"
-      },
-      "de": {
-        "title": "Howard Marks bei KIW 2026: Premium9 zeigt alle Vorträge als Video",
-        "excerpt": "The Korea Economic Daily teilte mit, dass KIW 2026 vom 12. bis 15. Mai im The Shilla Seoul stattfindet, mit Howard Marks und rund 70 Rednern auf Hankyung Premium9.",
-        "body": "The Korea Economic Daily veranstaltet gemeinsam mit Samsung Securities vom 12. bis 15. Mai im The Shilla Seoul in Jangchung-dong die Korea Investment Week 2026, kurz KIW 2026. Auf der Konferenz treten rund 70 führende Vertreter aus Regierung, Industrie und Finanzinvestment auf, darunter Oaktree-Capital-Chairman Howard Marks. Marks spricht am 14. Mai mit Yoon Seok-mo, Leiter des Research Centers von Samsung Securities, über “Investitionszyklen und Risiken im KI-Zeitalter”. Weitere Themen sind Halbleiter, KI, Kernenergie, Strominfrastruktur und K-Culture. Abonnenten von Hankyung Premium9 können alle Vorträge als Video ansehen. Quelle: hankyung.com"
-      },
-      "fr": {
-        "title": "Howard Marks attendu à KIW 2026, toutes les conférences sur Premium9",
-        "excerpt": "The Korea Economic Daily a annoncé que KIW 2026 se tiendra du 12 au 15 mai au Shilla Seoul, avec Howard Marks et environ 70 intervenants accessibles en vidéo sur Premium9.",
-        "body": "The Korea Economic Daily organisera avec Samsung Securities la Korea Investment Week 2026, ou KIW 2026, du 12 au 15 mai au Shilla Seoul, à Jangchung-dong. La conférence réunira environ 70 personnalités du gouvernement, de l’industrie et de l’investissement financier, dont Howard Marks, président d’Oaktree Capital. Marks échangera le 14 mai avec Yoon Seok-mo, directeur du centre de recherche de Samsung Securities, sur les “cycles d’investissement et les risques à l’ère de l’IA”. Les semi-conducteurs, l’IA, le nucléaire, les infrastructures électriques et la K-culture seront aussi au programme. Les abonnés à Hankyung Premium9 pourront regarder toutes les conférences en vidéo. Source: hankyung.com"
-      },
-      "ar": {
-        "title": "هاورد ماركس في KIW 2026 وبريميوم9 يتيح كل المحاضرات بالفيديو",
-        "excerpt": "قالت صحيفة كوريا الاقتصادية إن KIW 2026 سيقام من 12 إلى 15 مايو في فندق شيلا سيول، بمشاركة هاورد ماركس ونحو 70 متحدثا، مع إتاحة المحاضرات عبر Premium9.",
-        "body": "تنظم صحيفة كوريا الاقتصادية، بالتعاون مع سامسونغ للأوراق المالية، مؤتمر Korea Investment Week 2026 أو KIW 2026 من 12 إلى 15 مايو في فندق شيلا سيول بمنطقة جانغتشونغ. يشارك في المؤتمر نحو 70 شخصية رئيسية من الحكومة والقطاع الصناعي وقطاع الاستثمار المالي، بينهم هاورد ماركس، رئيس أوكتري كابيتال. وفي 14 مايو، يجري ماركس حوارا مع يون سوك مو، رئيس مركز الأبحاث في سامسونغ للأوراق المالية، حول “دورات الاستثمار والمخاطر في عصر الذكاء الاصطناعي”. وتشمل الموضوعات أيضا أشباه الموصلات والذكاء الاصطناعي والطاقة النووية والبنية التحتية للكهرباء والثقافة الكورية. يمكن لمشتركي Hankyung Premium9 مشاهدة جميع المحاضرات بالفيديو. المصدر: hankyung.com"
-      },
-      "hi": {
-        "title": "KIW 2026 में हावर्ड मार्क्स, Premium9 पर सभी व्याख्यान वीडियो में मिलेंगे",
-        "excerpt": "द कोरिया इकोनॉमिक डेली ने कहा कि KIW 2026 12 से 15 मई तक सियोल के शिला होटल में होगा, जहां हावर्ड मार्क्स सहित करीब 70 वक्ताओं के सत्र Premium9 पर उपलब्ध होंगे।",
-        "body": "द कोरिया इकोनॉमिक डेली, सैमसंग सिक्योरिटीज के साथ, 12 से 15 मई तक सियोल के जांगचुंग-डोंग स्थित द शिला सियोल में Korea Investment Week 2026 यानी KIW 2026 आयोजित करेगा। सम्मेलन में सरकार, उद्योग और वित्तीय निवेश क्षेत्र के करीब 70 प्रमुख वक्ता शामिल होंगे, जिनमें ओकट्री कैपिटल के चेयरमैन हावर्ड मार्क्स भी हैं। मार्क्स 14 मई को सैमसंग सिक्योरिटीज रिसर्च सेंटर के प्रमुख यून सोक-मो के साथ “AI युग में निवेश चक्र और जोखिम” पर बातचीत करेंगे। सेमीकंडक्टर, AI, परमाणु ऊर्जा, बिजली अवसंरचना और K-culture भी एजेंडे में हैं। Hankyung Premium9 के सदस्य सभी व्याख्यान वीडियो में देख सकेंगे। स्रोत: hankyung.com"
-      },
-      "id": {
-        "title": "Howard Marks Hadir di KIW 2026, Semua Sesi Tayang di Premium9",
-        "excerpt": "The Korea Economic Daily menyatakan KIW 2026 digelar 12-15 Mei di The Shilla Seoul, menghadirkan Howard Marks dan sekitar 70 pembicara yang sesinya tersedia di Premium9.",
-        "body": "The Korea Economic Daily bersama Samsung Securities akan menggelar Korea Investment Week 2026, atau KIW 2026, pada 12-15 Mei di The Shilla Seoul, Jangchung-dong. Konferensi ini menghadirkan sekitar 70 tokoh utama dari pemerintah, industri, dan sektor investasi keuangan, termasuk Chairman Oaktree Capital Howard Marks. Pada 14 Mei, Marks akan berdialog dengan Yoon Seok-mo, kepala pusat riset Samsung Securities, tentang “siklus investasi dan risiko di era AI”. Topik lain mencakup semikonduktor, AI, tenaga nuklir, infrastruktur listrik, dan K-culture. Pelanggan Hankyung Premium9 dapat menonton semua sesi dalam format video. Sumber: hankyung.com"
-      }
-    }
-  },
-  {
-    "id": "b4cfbb26603a",
-    "slug": "고려아연-1분기-또-사상-최대-실적영업익-175-급증-897689",
-    "channelId": "ETF",
-    "category": "etf",
-    "publishedAt": "2026-05-06T22:36:28.011Z",
-    "updatedAt": "2026-05-06T22:36:28.011Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/2026050698036",
-    "canonicalUrl": "https://www.hankyung.com/article/2026050698036",
-    "titleFingerprint": "695280f2ec9a11c249ce58894e59ace104fd0893",
-    "dedupKeys": [
-      "b4cfbb26603a6e1c21d73f2e43817f816987f0e3",
-      "695280f2ec9a11c249ce58894e59ace104fd0893",
-      "ed531dd2db691e5d68686de6a6b1668687574ed3"
-    ],
-    "imageUrl": "/images/articles/b4cfbb26603a.jpg",
-    "i18n": {
-      "ko": {
-        "title": "고려아연 1분기 사상 최대 실적, 영업이익 175% 급증",
-        "excerpt": "고려아연이 1분기에 또 사상 최대 실적을 기록하고 영업이익이 175% 급증했다고 hankyung.com이 보도했다. 핵심은 실적 개선 흐름과 수익성 확대다.",
-        "body": "고려아연이 1분기에 다시 사상 최대 실적을 냈다고 hankyung.com이 보도했다. 보도에 따르면 고려아연의 1분기 영업이익은 175% 급증하며 실적 개선세를 뚜렷하게 나타냈다. 이번 실적은 회사가 분기 기준으로 또 한 번 최대 성과를 기록했다는 점에서 주목된다. 구체적인 매출액, 순이익, 사업 부문별 기여도는 제공된 원문 정보에 포함되지 않았다. 시장에서는 영업이익 증가 폭과 사상 최대 실적이라는 점을 중심으로 고려아연의 수익성 흐름을 확인할 수 있다. 출처: hankyung.com."
-      },
-      "en": {
-        "title": "Korea Zinc posts another record Q1 result as operating profit jumps 175%",
-        "excerpt": "Korea Zinc recorded another all-time high first-quarter performance, with operating profit surging 175%, hankyung.com reported, highlighting improved earnings momentum and profitability.",
-        "body": "Korea Zinc posted another record first-quarter performance, according to hankyung.com. The report said the company’s operating profit surged 175% in the first quarter, clearly showing an improvement in earnings. The result is notable because Korea Zinc again reached a quarterly record. The provided source information did not include specific revenue, net profit, or business-segment contribution figures. For investors and market watchers, the key facts are the scale of the operating profit increase and the company’s record quarterly performance. Source: hankyung.com."
-      },
-      "ja": {
-        "title": "高麗亜鉛、1四半期に再び過去最高益　営業利益175％急増",
-        "excerpt": "高麗亜鉛が第1四半期に再び過去最高の業績を記録し、営業利益が175％急増したとhankyung.comが報じた。収益性の改善が焦点だ。",
-        "body": "高麗亜鉛が第1四半期に再び過去最高の業績を上げたと、hankyung.comが報じた。報道によると、同社の第1四半期営業利益は175％急増し、業績改善の流れを明確に示した。今回の実績は、四半期ベースで同社がまた最大成果を記録した点で注目される。提供された原文情報には、売上高、純利益、事業部門別の寄与度などの具体的な数値は含まれていない。市場では営業利益の増加幅と過去最高業績という事実を中心に、高麗亜鉛の収益性の流れを確認できる。出典: hankyung.com."
-      },
-      "zh": {
-        "title": "高丽亚铅一季度再创历史最佳业绩，营业利润大增175%",
-        "excerpt": "据hankyung.com报道，高丽亚铅一季度再次创下历史最佳业绩，营业利润大增175%，显示盈利改善和收益能力提升。",
-        "body": "据hankyung.com报道，高丽亚铅一季度再次取得历史最佳业绩。报道显示，公司一季度营业利润大增175%，清楚呈现业绩改善趋势。此次业绩之所以受到关注，是因为公司按季度口径又一次刷新最高成果。所提供的原文信息未包含具体销售额、净利润或各业务部门贡献度等数据。对市场和投资者而言，核心事实是营业利润增幅达到175%，以及公司再次取得季度历史最佳业绩。来源: hankyung.com."
-      },
-      "es": {
-        "title": "Korea Zinc logra otro récord en el primer trimestre; beneficio operativo sube 175%",
-        "excerpt": "Korea Zinc volvió a registrar un máximo histórico trimestral en el primer trimestre y su beneficio operativo se disparó 175%, informó hankyung.com.",
-        "body": "Korea Zinc volvió a registrar un desempeño récord en el primer trimestre, según informó hankyung.com. De acuerdo con el reporte, el beneficio operativo de la compañía aumentó 175% en el periodo, mostrando una clara mejora en los resultados. El dato destaca porque la empresa alcanzó nuevamente su mayor desempeño trimestral. La información original proporcionada no incluye cifras concretas de ingresos, beneficio neto ni aportes por segmento de negocio. Para el mercado, los puntos centrales son la magnitud del aumento del beneficio operativo y el nuevo récord trimestral de Korea Zinc. Fuente: hankyung.com."
-      },
-      "pt": {
-        "title": "Korea Zinc tem novo recorde no 1º trimestre; lucro operacional salta 175%",
-        "excerpt": "A Korea Zinc registrou outro desempenho recorde no primeiro trimestre, com lucro operacional em alta de 175%, segundo informou o hankyung.com.",
-        "body": "A Korea Zinc registrou novamente um desempenho recorde no primeiro trimestre, segundo o hankyung.com. De acordo com a reportagem, o lucro operacional da companhia saltou 175% no período, evidenciando melhora nos resultados. O desempenho chama atenção porque a empresa voltou a atingir seu maior resultado em base trimestral. As informações originais fornecidas não incluem números específicos de receita, lucro líquido ou contribuição por segmento de negócio. Para o mercado, os pontos principais são a alta de 175% no lucro operacional e o novo recorde trimestral da Korea Zinc. Fonte: hankyung.com."
-      },
-      "de": {
-        "title": "Korea Zinc meldet erneut Rekordquartal; operativer Gewinn steigt um 175%",
-        "excerpt": "Korea Zinc erzielte im ersten Quartal erneut ein Rekordergebnis, während der operative Gewinn um 175% sprang, berichtete hankyung.com.",
-        "body": "Korea Zinc hat im ersten Quartal erneut ein Rekordergebnis erzielt, berichtete hankyung.com. Dem Bericht zufolge stieg der operative Gewinn des Unternehmens im Quartal um 175% und zeigte damit eine deutliche Verbesserung der Ertragslage. Beachtlich ist das Ergebnis, weil Korea Zinc auf Quartalsbasis abermals die bisher höchste Leistung erreichte. Die bereitgestellten Ausgangsinformationen enthalten keine konkreten Angaben zu Umsatz, Nettogewinn oder Beiträgen einzelner Geschäftsbereiche. Für den Markt stehen daher der starke Anstieg des operativen Gewinns und das erneute Rekordquartal im Mittelpunkt. Quelle: hankyung.com."
-      },
-      "fr": {
-        "title": "Korea Zinc signe un nouveau record au T1; bénéfice opérationnel en hausse de 175%",
-        "excerpt": "Korea Zinc a de nouveau atteint un record au premier trimestre, avec un bénéfice opérationnel en hausse de 175%, selon hankyung.com.",
-        "body": "Korea Zinc a de nouveau enregistré une performance record au premier trimestre, selon hankyung.com. D’après le reportage, le bénéfice opérationnel de la société a bondi de 175% sur la période, ce qui met en évidence une amélioration des résultats. Ce chiffre retient l’attention car l’entreprise a une nouvelle fois atteint sa meilleure performance trimestrielle. Les informations sources fournies ne mentionnent pas de données précises sur le chiffre d’affaires, le bénéfice net ou la contribution par segment d’activité. Pour le marché, les éléments clés sont l’ampleur de la hausse du bénéfice opérationnel et ce nouveau record trimestriel. Source: hankyung.com."
-      },
-      "ar": {
-        "title": "كوريا زنك تحقق رقما قياسيا جديدا في الربع الأول وأرباح التشغيل تقفز 175%",
-        "excerpt": "حققت كوريا زنك أداء قياسيا جديدا في الربع الأول، وقفزت أرباحها التشغيلية 175%، وفق ما نقل موقع hankyung.com، في إشارة إلى تحسن الربحية.",
-        "body": "حققت كوريا زنك مجددا أداء قياسيا في الربع الأول، بحسب ما أفاد موقع hankyung.com. وذكر التقرير أن أرباح التشغيل للشركة قفزت 175% خلال الربع، ما يبرز تحسنا واضحا في الأداء المالي. وتكتسب النتيجة أهمية لأنها تمثل مرة أخرى أعلى أداء فصلي للشركة. ولم تتضمن المعلومات الأصلية المقدمة أرقاما محددة عن الإيرادات أو صافي الربح أو مساهمة قطاعات الأعمال المختلفة. لذلك يتركز اهتمام السوق على حجم الزيادة في أرباح التشغيل وعلى تسجيل كوريا زنك رقما قياسيا فصليا جديدا. المصدر: hankyung.com."
-      },
-      "hi": {
-        "title": "कोरिया जिंक का पहली तिमाही में फिर रिकॉर्ड प्रदर्शन, परिचालन लाभ 175% उछला",
-        "excerpt": "hankyung.com के अनुसार, कोरिया जिंक ने पहली तिमाही में फिर रिकॉर्ड प्रदर्शन दर्ज किया और परिचालन लाभ 175% बढ़ा, जिससे मुनाफे में सुधार दिखा।",
-        "body": "hankyung.com के अनुसार, कोरिया जिंक ने पहली तिमाही में फिर अपना रिकॉर्ड प्रदर्शन दर्ज किया। रिपोर्ट में कहा गया कि कंपनी का परिचालन लाभ पहली तिमाही में 175% उछला, जिससे आय में सुधार की प्रवृत्ति स्पष्ट हुई। यह नतीजा इसलिए उल्लेखनीय है क्योंकि कंपनी ने तिमाही आधार पर एक बार फिर अपना सर्वश्रेष्ठ प्रदर्शन हासिल किया। उपलब्ध मूल जानकारी में राजस्व, शुद्ध लाभ या अलग-अलग कारोबारी खंडों के योगदान के विशिष्ट आंकड़े शामिल नहीं हैं। बाजार के लिए मुख्य तथ्य परिचालन लाभ में 175% की वृद्धि और कोरिया जिंक का नया तिमाही रिकॉर्ड प्रदर्शन है। स्रोत: hankyung.com."
-      },
-      "id": {
-        "title": "Korea Zinc kembali cetak rekor kuartal I, laba operasi melonjak 175%",
-        "excerpt": "Korea Zinc kembali membukukan kinerja tertinggi sepanjang sejarah pada kuartal I, dengan laba operasi melonjak 175%, menurut laporan hankyung.com.",
-        "body": "Korea Zinc kembali mencatat kinerja tertinggi sepanjang sejarah pada kuartal pertama, menurut hankyung.com. Laporan tersebut menyebut laba operasi perusahaan melonjak 175% pada periode itu, menunjukkan perbaikan kinerja yang jelas. Hasil ini menjadi perhatian karena perusahaan kembali mencetak capaian tertinggi secara kuartalan. Informasi sumber yang diberikan tidak memuat angka rinci mengenai pendapatan, laba bersih, atau kontribusi tiap segmen bisnis. Bagi pasar, fakta utama adalah besarnya kenaikan laba operasi dan rekor kinerja kuartalan Korea Zinc. Sumber: hankyung.com."
-      }
-    }
-  },
-  {
-    "id": "ef6abf1a8a11",
-    "slug": "실적-랠리-이끄는-단-하나의-단어k증시-여전히-저평가-978161",
-    "channelId": "ETF",
-    "category": "etf",
-    "publishedAt": "2026-05-06T22:35:36.490Z",
-    "updatedAt": "2026-05-06T22:35:36.490Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/2026050696901",
-    "canonicalUrl": "https://www.hankyung.com/article/2026050696901",
-    "titleFingerprint": "13d85404bd5d2f223f339b538be3637fc3620f9d",
-    "dedupKeys": [
-      "ef6abf1a8a11cb358e3367e3d4f49612acfff951",
-      "13d85404bd5d2f223f339b538be3637fc3620f9d",
-      "d94fc465f6b9df7410c29f2ba9dd32e349d3a97a"
-    ],
-    "imageUrl": "/images/articles/ef6abf1a8a11.jpg",
-    "i18n": {
-      "ko": {
-        "title": "실적이 이끄는 K증시 랠리, 여전히 저평가됐다는 분석",
-        "excerpt": "hankyung.com은 K증시 랠리를 이끄는 핵심 단어로 ‘실적’을 짚고, 한국 증시가 여전히 저평가돼 있다는 분석을 전했다.",
-        "body": "hankyung.com은 최근 K증시 흐름에서 랠리를 이끄는 핵심 단어가 ‘실적’이라고 보도했다. 기사 제목은 실적이 증시 상승의 중심 변수로 부각되고 있으며, 한국 증시가 여전히 저평가돼 있다는 시각을 담고 있다. 구체적인 종목이나 수치는 원문에 제시된 범위 내에서 확인이 필요하지만, 핵심 메시지는 기업 실적이 투자 심리와 시장 재평가 논의의 근거로 작용하고 있다는 점이다. 향후 K증시 전망 역시 실적 개선 여부와 저평가 해소 가능성에 맞춰질 것으로 보인다. 출처: hankyung.com"
-      },
-      "en": {
-        "title": "Earnings Drive K-Stock Rally as Market Still Seen Undervalued",
-        "excerpt": "hankyung.com reported that “earnings” is the key word behind the K-stock rally, while also highlighting the view that Korea’s market remains undervalued.",
-        "body": "hankyung.com reported that the key word driving the recent rally in Korean equities is “earnings.” The headline indicates that corporate results have become a central factor behind the market’s upward momentum, while also presenting the view that Korea’s stock market remains undervalued. Specific companies or figures would need to be checked within the original article, but the core message is that earnings are shaping investor sentiment and the discussion around market revaluation. The outlook for K-stocks is therefore likely to remain tied to whether earnings improve and whether the valuation gap narrows. Source: hankyung.com"
-      },
-      "ja": {
-        "title": "業績が主導するK株ラリー、韓国市場はなお割安との見方",
-        "excerpt": "hankyung.comは、K株ラリーを導く核心語として「業績」を挙げ、韓国株式市場が依然として割安だとの分析を伝えた。",
-        "body": "hankyung.comは、最近の韓国株式市場の流れでラリーを導く核心語は「業績」だと報じた。見出しは、企業業績が株価上昇の中心的な変数として浮上しており、韓国市場は依然として割安だという見方を示している。具体的な銘柄や数値は原文で確認する必要があるが、中心となるメッセージは、業績が投資心理と市場再評価の議論を支える材料になっているという点だ。今後のK株の見通しも、業績改善の有無と割安感の解消可能性に左右されるとみられる。出典: hankyung.com"
-      },
-      "zh": {
-        "title": "业绩推动韩股反弹，韩国股市仍被视为低估",
-        "excerpt": "hankyung.com报道称，推动韩股反弹的关键词是“业绩”，并指出韩国股市仍处于被低估状态的分析观点。",
-        "body": "hankyung.com报道称，近期韩国股市走势中，推动反弹的核心词是“业绩”。报道标题显示，企业业绩正成为股市上涨的中心变量，同时也传达了韩国股市仍被低估的观点。具体个股或数据仍需在原文范围内确认，但核心信息是，企业业绩正在影响投资者情绪，并成为市场重新估值讨论的依据。未来韩股走势预计也将围绕业绩能否改善以及低估状态能否缓解展开。来源: hankyung.com"
-      },
-      "es": {
-        "title": "Resultados impulsan el rally coreano mientras el mercado sigue infravalorado",
-        "excerpt": "hankyung.com señaló que “resultados” es la palabra clave detrás del rally de la bolsa coreana y destacó que el mercado aún se considera infravalorado.",
-        "body": "hankyung.com informó que la palabra clave que impulsa el reciente rally de la bolsa coreana es “resultados”. El titular indica que los beneficios corporativos se han convertido en un factor central del avance del mercado, mientras recoge la visión de que la bolsa de Corea sigue infravalorada. Los nombres de empresas o cifras concretas deben verificarse en el artículo original, pero el mensaje principal es que los resultados están influyendo en el ánimo inversor y en el debate sobre una revaloración del mercado. La perspectiva para las acciones coreanas dependerá de la mejora de resultados y de si se reduce esa infravaloración. Fuente: hankyung.com"
-      },
-      "pt": {
-        "title": "Resultados lideram rali das ações coreanas, ainda vistas como subavaliadas",
-        "excerpt": "O hankyung.com apontou “resultados” como a palavra-chave que impulsiona o rali da bolsa coreana e destacou a visão de que o mercado segue subavaliado.",
-        "body": "O hankyung.com informou que a palavra-chave por trás do recente rali das ações coreanas é “resultados”. O título indica que os resultados corporativos se tornaram um fator central para a alta do mercado, ao mesmo tempo em que apresenta a visão de que a bolsa da Coreia continua subavaliada. Empresas ou números específicos precisam ser confirmados no texto original, mas a mensagem principal é que os resultados influenciam o sentimento dos investidores e o debate sobre reavaliação do mercado. A perspectiva para as ações coreanas deve continuar ligada à melhora dos resultados e à possível redução do desconto de valuation. Fonte: hankyung.com"
-      },
-      "de": {
-        "title": "Gewinne treiben K-Aktien-Rally, Koreas Markt gilt weiter als unterbewertet",
-        "excerpt": "hankyung.com berichtete, dass „Gewinne“ das Schlüsselwort hinter der Rally koreanischer Aktien sind und der Markt weiterhin als unterbewertet gilt.",
-        "body": "hankyung.com berichtete, dass das zentrale Wort hinter der jüngsten Rally am koreanischen Aktienmarkt „Gewinne“ ist. Die Überschrift macht deutlich, dass Unternehmenszahlen zu einem entscheidenden Faktor für die Aufwärtsbewegung geworden sind, während zugleich die Einschätzung genannt wird, dass Koreas Aktienmarkt weiterhin unterbewertet ist. Konkrete Unternehmen oder Kennzahlen müssten im Originalartikel geprüft werden, doch die Kernbotschaft lautet, dass Gewinne die Anlegerstimmung und die Debatte über eine Neubewertung des Marktes prägen. Der weitere Ausblick für K-Aktien dürfte daher von Gewinnverbesserungen und dem Abbau der Bewertungsabschläge abhängen. Quelle: hankyung.com"
-      },
-      "fr": {
-        "title": "Les bénéfices portent le rally coréen, un marché encore jugé sous-évalué",
-        "excerpt": "hankyung.com a indiqué que les “bénéfices” sont le mot clé du rally des actions coréennes, tout en soulignant que le marché reste sous-évalué.",
-        "body": "hankyung.com a rapporté que le mot clé du récent rally des actions coréennes est “bénéfices”. Le titre indique que les résultats des entreprises sont devenus un facteur central de la hausse du marché, tout en relayant l’idée que la Bourse coréenne reste sous-évaluée. Les sociétés ou chiffres précis doivent être vérifiés dans l’article original, mais le message principal est que les bénéfices influencent le sentiment des investisseurs et le débat sur une revalorisation du marché. Les perspectives des actions coréennes devraient donc rester liées à l’amélioration des résultats et à la possibilité d’un recul de cette sous-évaluation. Source: hankyung.com"
-      },
-      "ar": {
-        "title": "الأرباح تقود صعود الأسهم الكورية والسوق لا يزال دون قيمته",
-        "excerpt": "ذكر موقع hankyung.com أن “الأرباح” هي الكلمة الأساسية وراء صعود الأسهم الكورية، مع إبراز رؤية تفيد بأن السوق لا يزال دون قيمته العادلة.",
-        "body": "أفاد موقع hankyung.com بأن الكلمة الأساسية التي تقود الصعود الأخير في سوق الأسهم الكورية هي “الأرباح”. ويشير العنوان إلى أن نتائج الشركات أصبحت عاملا محوريا في ارتفاع السوق، مع عرض وجهة نظر مفادها أن سوق كوريا لا يزال مقوما بأقل من قيمته. أما الشركات أو الأرقام المحددة فتحتاج إلى مراجعة النص الأصلي، لكن الرسالة الأساسية هي أن الأرباح تؤثر في معنويات المستثمرين وفي نقاش إعادة تقييم السوق. ومن المرجح أن تظل آفاق الأسهم الكورية مرتبطة بتحسن الأرباح وبإمكان تضييق فجوة التقييم. المصدر: hankyung.com"
-      },
-      "hi": {
-        "title": "कमाई से चल रही K-शेयरों की रैली, कोरियाई बाजार अब भी कम मूल्यांकित",
-        "excerpt": "hankyung.com ने बताया कि K-शेयरों की रैली को आगे बढ़ाने वाला मुख्य शब्द “कमाई” है और कोरियाई बाजार अब भी कम मूल्यांकित माना जा रहा है।",
-        "body": "hankyung.com ने रिपोर्ट किया कि हाल की कोरियाई शेयर बाजार रैली को आगे बढ़ाने वाला मुख्य शब्द “कमाई” है। शीर्षक बताता है कि कंपनियों के नतीजे बाजार की तेजी का केंद्रीय कारक बन रहे हैं, साथ ही यह दृष्टिकोण भी सामने रखता है कि कोरिया का शेयर बाजार अब भी कम मूल्यांकित है। किसी खास कंपनी या आंकड़े की पुष्टि मूल लेख में करनी होगी, लेकिन मुख्य संदेश यह है कि कमाई निवेशक भावना और बाजार के पुनर्मूल्यांकन की चर्चा को आकार दे रही है। आगे K-शेयरों का परिदृश्य कमाई में सुधार और मूल्यांकन अंतर घटने की संभावना से जुड़ा रहेगा। स्रोत: hankyung.com"
-      },
-      "id": {
-        "title": "Kinerja Laba Pimpin Reli Saham Korea, Pasar Masih Dinilai Murah",
-        "excerpt": "hankyung.com melaporkan bahwa “kinerja laba” menjadi kata kunci reli saham Korea, sekaligus menyoroti pandangan bahwa pasar masih undervalued.",
-        "body": "hankyung.com melaporkan bahwa kata kunci yang mendorong reli terbaru di pasar saham Korea adalah “kinerja laba”. Judul tersebut menunjukkan bahwa hasil korporasi menjadi faktor utama di balik kenaikan pasar, sambil menyampaikan pandangan bahwa bursa Korea masih undervalued. Nama emiten atau angka spesifik perlu diperiksa dalam artikel asli, tetapi pesan utamanya adalah bahwa kinerja laba memengaruhi sentimen investor dan pembahasan mengenai revaluasi pasar. Prospek saham Korea ke depan kemungkinan tetap bergantung pada perbaikan laba dan peluang menyempitnya diskon valuasi. Sumber: hankyung.com"
       }
     }
   }

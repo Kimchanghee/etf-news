@@ -1,0 +1,75 @@
+{
+  "id": "7e911436b437",
+  "slug": "로봇이-스스로-배우고-알아서-협업까지-989201",
+  "channelId": "ETF",
+  "category": "etf",
+  "publishedAt": "2026-05-07T15:42:46.243Z",
+  "updatedAt": "2026-05-07T15:42:46.243Z",
+  "sourceName": "mk.co.kr",
+  "sourceUrl": "https://www.mk.co.kr/news/stock/12039367",
+  "canonicalUrl": "https://www.mk.co.kr/news/stock/12039367",
+  "titleFingerprint": "55681693240896698cfae02c8f4ec16314bfdb89",
+  "dedupKeys": [
+    "7e911436b43761674abd09042a836baa1da6b435",
+    "55681693240896698cfae02c8f4ec16314bfdb89",
+    "4aa53f4d8fccb549b10eb8dcfbc4209b7228a1b1"
+  ],
+  "imageUrl": "/images/articles/7e911436b437.jpg",
+  "i18n": {
+    "ko": {
+      "title": "LG CNS 로봇 전환 플랫폼 ‘피지컬웍스’ 공개, 학습부터 관제까지 통합 지원",
+      "excerpt": "LG CNS가 로봇 전환(RX) 플랫폼 브랜드 ‘피지컬웍스’를 공개했다. 로봇 구매와 현장 배치를 넘어 학습·검증·운영·관제를 한 번에 지원한다.",
+      "body": "LG CNS가 로봇 전환(RX) 플랫폼 브랜드 ‘피지컬웍스’를 공개했다. 피지컬웍스는 기업이 로봇을 구매해 현장에 배치하는 단계에 머무르지 않고, 로봇의 학습과 검증부터 운영과 관제까지 한 번에 지원하는 플랫폼이다. 이번 공개는 로봇 활용이 단순 자동화 장비 도입을 넘어 현장 운영 전반을 관리하는 방향으로 확장되고 있음을 보여준다. LG CNS는 피지컬웍스를 통해 로봇 전환 과정에서 필요한 여러 단계를 통합 지원하는 데 초점을 맞췄다. 출처는 mk.co.kr이다."
+    },
+    "en": {
+      "title": "LG CNS Unveils Physical Works Robot Transformation Platform for Learning and Control",
+      "excerpt": "LG CNS has introduced Physical Works, a robot transformation platform brand that supports robot learning, validation, operation and monitoring beyond simple purchase and deployment.",
+      "body": "LG CNS has unveiled ‘Physical Works,’ a robot transformation (RX) platform brand. The platform is designed to support more than the purchase and placement of robots at work sites. It brings together robot learning and validation as well as operation and monitoring in one platform. The launch shows how robot adoption is expanding from simply introducing automation equipment to managing broader field operations. LG CNS is focusing Physical Works on integrated support for the multiple stages required in robot transformation. Source: mk.co.kr."
+    },
+    "ja": {
+      "title": "LG CNS、ロボット転換プラットフォーム『Physical Works』公開、学習から管制まで支援",
+      "excerpt": "LG CNSがロボット転換（RX）プラットフォームブランド『Physical Works』を公開。購入・配置にとどまらず、学習、検証、運用、管制まで一括支援する。",
+      "body": "LG CNSはロボット転換（RX）プラットフォームブランド『Physical Works』を公開した。Physical Worksは、企業がロボットを購入して現場に配置する段階にとどまらず、ロボットの学習と検証から運用、管制までを一つの流れで支援するプラットフォームだ。今回の公開は、ロボット活用が単なる自動化機器の導入を超え、現場運営全体を管理する方向へ広がっていることを示す。LG CNSは、ロボット転換に必要な複数の段階を統合的に支援する点に重点を置いた。出典はmk.co.kr。"
+    },
+    "zh": {
+      "title": "LG CNS发布机器人转型平台Physical Works，覆盖学习验证到运营监控",
+      "excerpt": "LG CNS发布机器人转型（RX）平台品牌Physical Works，不只支持购买和现场部署，还将学习、验证、运营和监控整合在同一平台。",
+      "body": "LG CNS发布了机器人转型（RX）平台品牌“Physical Works”。该平台并不止于企业购买机器人并将其部署到现场，而是把机器人的学习、验证、运营和监控一次性纳入支持范围。此次发布显示，机器人应用正在从单纯引入自动化设备，扩展到对现场运营整体进行管理。LG CNS将Physical Works的重点放在整合支持机器人转型过程中所需的多个阶段。来源：mk.co.kr。"
+    },
+    "es": {
+      "title": "LG CNS presenta Physical Works, plataforma RX para aprendizaje, operación y control robótico",
+      "excerpt": "LG CNS presentó Physical Works, una marca de plataforma de transformación robótica que integra aprendizaje, validación, operación y monitoreo más allá de comprar e instalar robots.",
+      "body": "LG CNS presentó ‘Physical Works’, una marca de plataforma de transformación robótica (RX). La plataforma va más allá de comprar robots y colocarlos en un sitio de trabajo: integra el aprendizaje y la validación de los robots con su operación y monitoreo. El anuncio muestra que el uso de robots se está ampliando desde la simple adopción de equipos de automatización hacia la gestión de operaciones en campo. LG CNS centra Physical Works en apoyar de forma integrada las distintas etapas necesarias para la transformación robótica. Fuente: mk.co.kr."
+    },
+    "pt": {
+      "title": "LG CNS lança Physical Works, plataforma RX para aprendizado, operação e monitoramento",
+      "excerpt": "A LG CNS apresentou a Physical Works, marca de plataforma de transformação robótica que apoia aprendizado, validação, operação e monitoramento além da compra e instalação de robôs.",
+      "body": "A LG CNS apresentou a ‘Physical Works’, marca de plataforma de transformação robótica (RX). A plataforma vai além da compra de robôs e de sua colocação em campo, reunindo suporte ao aprendizado e à validação dos robôs, bem como à operação e ao monitoramento. O anúncio mostra que o uso de robôs está se expandindo da simples introdução de equipamentos de automação para a gestão mais ampla das operações em campo. A LG CNS concentra a Physical Works no apoio integrado às várias etapas necessárias à transformação robótica. Fonte: mk.co.kr."
+    },
+    "de": {
+      "title": "LG CNS stellt Physical Works vor: RX-Plattform für Lernen, Betrieb und Überwachung",
+      "excerpt": "LG CNS hat Physical Works vorgestellt, eine Plattformmarke für Robot Transformation, die Lernen, Validierung, Betrieb und Überwachung über Kauf und Einsatz hinaus bündelt.",
+      "body": "LG CNS hat ‘Physical Works’ vorgestellt, eine Plattformmarke für Robot Transformation (RX). Die Plattform beschränkt sich nicht darauf, Roboter zu kaufen und am Einsatzort zu platzieren. Sie unterstützt das Lernen und die Validierung der Roboter ebenso wie Betrieb und Überwachung in einer integrierten Umgebung. Die Vorstellung zeigt, dass der Robotereinsatz über die einfache Einführung von Automatisierungstechnik hinausgeht und sich zur Steuerung breiterer Vor-Ort-Abläufe entwickelt. LG CNS richtet Physical Works darauf aus, mehrere für die Robot Transformation erforderliche Schritte gebündelt zu unterstützen. Quelle: mk.co.kr."
+    },
+    "fr": {
+      "title": "LG CNS dévoile Physical Works, plateforme RX du robot apprenant au pilotage intégré",
+      "excerpt": "LG CNS a présenté Physical Works, une plateforme de transformation robotique qui va au-delà de l’achat et du déploiement en intégrant apprentissage, validation, exploitation et supervision.",
+      "body": "LG CNS a dévoilé ‘Physical Works’, une marque de plateforme de transformation robotique (RX). La plateforme ne se limite pas à l’achat de robots et à leur installation sur site. Elle prend en charge l’apprentissage et la validation des robots, ainsi que leur exploitation et leur supervision, dans un même ensemble. Cette annonce montre que l’usage des robots s’étend de la simple introduction d’équipements d’automatisation vers la gestion globale des opérations sur le terrain. LG CNS met l’accent sur le soutien intégré aux différentes étapes nécessaires à la transformation robotique. Source : mk.co.kr."
+    },
+    "ar": {
+      "title": "إل جي CNS تكشف منصة Physical Works لتحول الروبوتات من التعلم إلى المراقبة",
+      "excerpt": "كشفت إل جي CNS عن علامة منصة تحول الروبوتات Physical Works، التي تدعم التعلم والتحقق والتشغيل والمراقبة بما يتجاوز شراء الروبوتات ونشرها في المواقع.",
+      "body": "كشفت إل جي CNS عن ‘Physical Works’، وهي علامة لمنصة تحول الروبوتات (RX). ولا تقتصر المنصة على شراء الروبوتات ووضعها في مواقع العمل، بل تجمع دعم تعلم الروبوتات والتحقق منها مع التشغيل والمراقبة في منصة واحدة. ويظهر هذا الإعلان أن استخدام الروبوتات يتوسع من مجرد إدخال معدات الأتمتة إلى إدارة أوسع للعمليات الميدانية. وتركز إل جي CNS من خلال Physical Works على الدعم المتكامل للمراحل المتعددة المطلوبة في تحول الروبوتات. المصدر: mk.co.kr."
+    },
+    "hi": {
+      "title": "LG CNS ने Physical Works RX प्लेटफॉर्म पेश किया, सीखने से निगरानी तक एकीकृत समर्थन",
+      "excerpt": "LG CNS ने रोबोट ट्रांसफॉर्मेशन प्लेटफॉर्म ब्रांड Physical Works पेश किया है, जो रोबोट खरीद और तैनाती से आगे सीखने, सत्यापन, संचालन और निगरानी को साथ लाता है।",
+      "body": "LG CNS ने ‘Physical Works’ नाम से रोबोट ट्रांसफॉर्मेशन (RX) प्लेटफॉर्म ब्रांड पेश किया है। यह प्लेटफॉर्म कंपनियों द्वारा रोबोट खरीदकर उन्हें कार्यस्थल पर लगाने तक सीमित नहीं है। यह रोबोट के सीखने और सत्यापन से लेकर संचालन और निगरानी तक को एक साथ समर्थन देता है। यह घोषणा दिखाती है कि रोबोट का उपयोग केवल ऑटोमेशन उपकरण अपनाने से आगे बढ़कर स्थल संचालन के व्यापक प्रबंधन की दिशा में जा रहा है। LG CNS ने Physical Works में रोबोट ट्रांसफॉर्मेशन के लिए आवश्यक कई चरणों को एकीकृत रूप से समर्थन देने पर ध्यान दिया है। स्रोत: mk.co.kr."
+    },
+    "id": {
+      "title": "LG CNS Rilis Physical Works, Platform RX untuk Belajar, Operasi, dan Pemantauan Robot",
+      "excerpt": "LG CNS memperkenalkan Physical Works, merek platform transformasi robot yang mendukung pembelajaran, validasi, operasi, dan pemantauan, melampaui pembelian serta penempatan robot.",
+      "body": "LG CNS memperkenalkan ‘Physical Works’, merek platform transformasi robot (RX). Platform ini tidak hanya berhenti pada pembelian robot dan penempatannya di lokasi kerja. Physical Works mendukung pembelajaran dan validasi robot, sekaligus operasi dan pemantauan, dalam satu platform. Peluncuran ini menunjukkan bahwa pemanfaatan robot berkembang dari sekadar penerapan perangkat otomasi menuju pengelolaan operasi lapangan yang lebih luas. LG CNS menitikberatkan Physical Works pada dukungan terpadu untuk berbagai tahap yang dibutuhkan dalam transformasi robot. Sumber: mk.co.kr."
+    }
+  }
+}
