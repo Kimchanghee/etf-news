@@ -1,5 +1,230 @@
 [
   {
+    "id": "406c2114f02d",
+    "slug": "속보-7000피-코스피-장중-최고치-또-경신7500-돌파-108653",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-05-07T04:44:40.220Z",
+    "updatedAt": "2026-05-07T04:44:40.220Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/stock/12038771",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12038771",
+    "titleFingerprint": "2ca975d4d21416bab1ff3d1eff095a113cc97990",
+    "dedupKeys": [
+      "406c2114f02d13f12cca74bc0cdb03913134fb5f",
+      "2ca975d4d21416bab1ff3d1eff095a113cc97990",
+      "3bd4f1782cb84e0a89a52cf40c8fd0fda7bbb33b"
+    ],
+    "imageUrl": "/images/articles/406c2114f02d.jpg",
+    "i18n": {
+      "ko": {
+        "title": "코스피 7500 돌파, 장중 최고치 또 경신…미·이란 종전 기대 반영",
+        "excerpt": "코스피가 7일 장 초반 7000선을 넘어 출발한 뒤 한때 7500선도 돌파하며 장중 최고치를 다시 경신했다. 미국과 이란의 종전 협상 기대감이 투자심리에 영향을 줬다.",
+        "body": "코스피가 7일 오전 장 초반 7000선을 돌파하며 출발한 뒤 한때 7500선까지 넘어서 장중 최고치를 다시 경신했다. 전날에 이어 미국과 이란의 종전 협상 기대감 등이 시장에 반영된 영향으로 풀이된다. 원문에 따르면 이날 오전 9시 6분 현재 코스피는 전일 대비 상승세를 보였다. 지수가 단기간에 7000선과 7500선을 잇달아 넘어서면서 투자자들은 장중 흐름과 외부 변수의 영향을 주시하고 있다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "KOSPI Tops 7,500 Intraday, Hits Fresh High on U.S.-Iran Truce Hopes",
+        "excerpt": "The KOSPI opened above 7,000 on May 7 and briefly crossed 7,500, setting another intraday high as hopes for U.S.-Iran ceasefire talks supported market sentiment.",
+        "body": "The KOSPI opened above the 7,000 mark in early trading on May 7 and at one point moved past 7,500, renewing its intraday high. The move followed the previous session’s strength and reflected expectations surrounding ceasefire negotiations between the United States and Iran. According to the original report, as of 9:06 a.m. that day, the KOSPI was trading higher from the previous close. With the index quickly moving through both 7,000 and 7,500, investors are watching intraday momentum and external factors. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "KOSPIが一時7500突破、取引時間中の最高値を再更新",
+        "excerpt": "KOSPIは7日朝、7000台に乗せて始まり、一時7500台も突破して取引時間中の最高値を再び更新した。米国とイランの停戦協議への期待が投資心理を支えた。",
+        "body": "KOSPIは7日午前の取引序盤に7000を突破して始まり、その後一時7500も上回り、取引時間中の最高値を再び更新した。前日に続き、米国とイランの停戦協議への期待などが市場に反映されたとみられる。原文によると、同日午前9時6分現在、KOSPIは前日比で上昇していた。指数が短期間で7000と7500を相次いで超えたことで、投資家は取引時間中の流れと外部要因の影響を注視している。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "韩国KOSPI盘中突破7500点，再创盘中历史新高",
+        "excerpt": "韩国KOSPI指数7日早盘站上7000点后，一度突破7500点，再次刷新盘中最高纪录。美国与伊朗停战谈判预期提振了市场情绪。",
+        "body": "韩国KOSPI指数7日早盘突破7000点开盘，随后一度升破7500点，再次刷新盘中最高纪录。继前一交易日上涨后，美国与伊朗停战谈判的期待等因素被认为反映在市场走势中。原文称，截至当天上午9时6分，KOSPI较前一交易日呈上涨态势。指数在短时间内接连越过7000点和7500点，投资者正关注盘中走势以及外部变量的影响。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "KOSPI supera 7.500 puntos intradía y renueva máximo por expectativas EE. UU.-Irán",
+        "excerpt": "El KOSPI abrió por encima de 7.000 el 7 de mayo y llegó a superar los 7.500 puntos intradía, marcando otro máximo por expectativas de negociación entre EE. UU. e Irán.",
+        "body": "El KOSPI abrió por encima de los 7.000 puntos en las primeras operaciones del 7 de mayo y en un momento superó los 7.500, renovando su máximo intradía. El avance siguió al impulso del día anterior y reflejó, según el reporte, expectativas sobre negociaciones de fin del conflicto entre Estados Unidos e Irán. De acuerdo con la información original, a las 9:06 a. m. de ese día el KOSPI cotizaba al alza frente al cierre previo. Tras cruzar rápidamente 7.000 y 7.500, los inversores observan el rumbo intradía y los factores externos. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "KOSPI passa de 7.500 pontos no intradia e renova máxima com expectativa EUA-Irã",
+        "excerpt": "O KOSPI abriu acima de 7.000 em 7 de maio e chegou a superar 7.500 pontos no intradia, renovando a máxima com expectativas de negociações entre EUA e Irã.",
+        "body": "O KOSPI abriu acima dos 7.000 pontos no início do pregão de 7 de maio e, em determinado momento, ultrapassou 7.500, renovando sua máxima intradiária. O movimento deu sequência à alta do dia anterior e refletiu expectativas em torno de negociações para o fim do conflito entre Estados Unidos e Irã. Segundo a reportagem original, às 9h06 daquele dia o KOSPI operava em alta ante o fechamento anterior. Com o índice superando rapidamente 7.000 e 7.500, investidores acompanham o ritmo intradiário e fatores externos. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "KOSPI steigt intraday über 7.500 Punkte und markiert neues Hoch",
+        "excerpt": "Der KOSPI eröffnete am 7. Mai über 7.000 Punkten und überschritt zeitweise auch 7.500 Punkte. Hoffnungen auf Gespräche zwischen den USA und Iran stützten die Marktstimmung.",
+        "body": "Der KOSPI eröffnete am Morgen des 7. Mai über der Marke von 7.000 Punkten und stieg zeitweise über 7.500 Punkte, womit er ein neues Intraday-Hoch erreichte. Die Bewegung knüpfte an den Vortag an und spiegelte Erwartungen rund um Verhandlungen über ein Ende des Konflikts zwischen den USA und Iran wider. Dem Originalbericht zufolge lag der KOSPI um 9:06 Uhr an diesem Tag gegenüber dem Vortag im Plus. Da der Index in kurzer Zeit 7.000 und 7.500 überschritt, beobachten Anleger den Tagesverlauf und externe Einflussfaktoren. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Le KOSPI franchit 7 500 points en séance et inscrit un nouveau sommet",
+        "excerpt": "Le KOSPI a ouvert au-dessus de 7 000 points le 7 mai puis a brièvement dépassé 7 500 points, soutenu par les attentes liées aux discussions entre les États-Unis et l’Iran.",
+        "body": "Le KOSPI a ouvert au-dessus du seuil des 7 000 points dans les premiers échanges du 7 mai, avant de dépasser brièvement 7 500 points et d’inscrire un nouveau plus haut en séance. Le mouvement prolongeait la dynamique de la veille et reflétait les attentes autour de négociations sur la fin du conflit entre les États-Unis et l’Iran. Selon l’article original, à 9 h 06 ce jour-là, le KOSPI évoluait en hausse par rapport à la clôture précédente. Après le franchissement rapide de 7 000 puis 7 500 points, les investisseurs surveillent le rythme intrajournalier et les facteurs externes. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "كوسبي يتجاوز 7500 نقطة خلال الجلسة ويسجل قمة جديدة بدعم آمال أميركا وإيران",
+        "excerpt": "افتتح مؤشر كوسبي فوق 7000 نقطة في 7 مايو ثم تجاوز 7500 نقطة لفترة وجيزة، مسجلا أعلى مستوى خلال الجلسة مع دعم توقعات مفاوضات بين الولايات المتحدة وإيران للمعنويات.",
+        "body": "افتتح مؤشر كوسبي تداولات صباح 7 مايو فوق مستوى 7000 نقطة، ثم تجاوز في وقت من الجلسة مستوى 7500 نقطة، ليجدد أعلى مستوى له خلال التداول. وجاء التحرك امتدادا لقوة اليوم السابق، مع انعكاس توقعات بشأن مفاوضات لإنهاء النزاع بين الولايات المتحدة وإيران على السوق. وبحسب التقرير الأصلي، كان كوسبي عند الساعة 9:06 صباحا من ذلك اليوم مرتفعا مقارنة بالإغلاق السابق. ومع عبور المؤشر مستويي 7000 و7500 خلال فترة قصيرة، يراقب المستثمرون حركة الجلسة وتأثير العوامل الخارجية. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "KOSPI ने इंट्राडे में 7,500 पार किया, अमेरिका-ईरान उम्मीदों से नया उच्च स्तर",
+        "excerpt": "KOSPI ने 7 मई को शुरुआती कारोबार में 7,000 के ऊपर शुरुआत की और एक समय 7,500 भी पार किया। अमेरिका और ईरान के बीच संघर्ष समाप्ति वार्ता की उम्मीदों ने बाजार धारणा को सहारा दिया।",
+        "body": "KOSPI ने 7 मई की सुबह शुरुआती कारोबार में 7,000 के स्तर को पार करते हुए शुरुआत की और एक समय 7,500 से ऊपर चला गया, जिससे उसने इंट्राडे उच्च स्तर फिर से बनाया। पिछले दिन की मजबूती के बाद यह चाल अमेरिका और ईरान के बीच संघर्ष समाप्ति वार्ता की उम्मीदों सहित कारकों को दर्शाती है। मूल रिपोर्ट के अनुसार, उस दिन सुबह 9:06 बजे KOSPI पिछले बंद स्तर की तुलना में बढ़त पर था। सूचकांक के कम समय में 7,000 और 7,500 पार करने के बाद निवेशक इंट्राडे रुख और बाहरी कारकों के असर पर नजर रख रहे हैं। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "KOSPI Tembus 7.500 Intraday, Cetak Rekor Baru di Tengah Harapan AS-Iran",
+        "excerpt": "KOSPI dibuka di atas 7.000 pada 7 Mei dan sempat menembus 7.500 intraday, kembali mencetak level tertinggi seiring harapan negosiasi akhir konflik AS-Iran.",
+        "body": "KOSPI dibuka menembus level 7.000 pada awal perdagangan 7 Mei dan sempat bergerak melewati 7.500, kembali memperbarui rekor tertinggi intraday. Penguatan ini melanjutkan pergerakan hari sebelumnya dan mencerminkan ekspektasi terkait negosiasi akhir konflik antara Amerika Serikat dan Iran. Menurut laporan asli, pada pukul 09.06 hari itu KOSPI berada dalam posisi menguat dibanding penutupan sebelumnya. Setelah indeks dengan cepat melewati 7.000 dan 7.500, investor mencermati arah perdagangan intraday serta pengaruh faktor eksternal. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "7f7d15f45690",
+    "slug": "미래에셋증권-isa-고객-자산-석달만에-5조-증가15조-돌파-261173",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-05-07T04:43:36.673Z",
+    "updatedAt": "2026-05-07T04:43:36.674Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/stock/12038977",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12038977",
+    "titleFingerprint": "edb42d1ddb033aa672a4f1d827fcaa649e311e5d",
+    "dedupKeys": [
+      "7f7d15f45690dd91d3df2ccd4f7068af61a970ad",
+      "edb42d1ddb033aa672a4f1d827fcaa649e311e5d",
+      "69bc7ec258fe13ab8efc4db5fce6639b07f40b74"
+    ],
+    "imageUrl": "/images/articles/7f7d15f45690.jpg",
+    "i18n": {
+      "ko": {
+        "title": "미래에셋증권 ISA 고객 자산 15조원 돌파, 석 달 새 5조 증가",
+        "excerpt": "미래에셋증권은 7일 개인종합자산관리계좌(ISA) 고객 자산이 15조원을 넘어섰다고 밝혔다. 1월 말 10조원을 돌파한 뒤 3개월 만에 5조원이 늘었다.",
+        "body": "미래에셋증권은 7일 개인종합자산관리계좌(ISA) 고객 자산이 15조원을 넘어섰다고 밝혔다. 올해 1월 말 ISA 고객 자산이 10조원을 넘은 이후 약 3개월 만에 5조원이 증가한 것이다. 회사는 ISA 자산 확대의 배경으로 로보어드바이저 서비스 강점을 제시했다. ISA는 개인이 다양한 금융상품을 한 계좌에서 관리하는 절세계좌로, 고객 자산 규모 증가는 해당 계좌를 통한 자산관리 수요가 커지고 있음을 보여준다. 이번 15조원 돌파는 미래에셋증권의 ISA 기반 고객 자산관리 경쟁력을 부각하는 수치로 해석된다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Mirae Asset Securities ISA Assets Top 15 Trillion Won After 5 Trillion Gain",
+        "excerpt": "Mirae Asset Securities said on the 7th that customer assets in its ISA accounts exceeded 15 trillion won, rising 5 trillion won in three months after topping 10 trillion won at end-January.",
+        "body": "Mirae Asset Securities said on the 7th that customer assets in its Individual Savings Account (ISA) business have surpassed 15 trillion won. The total had exceeded 10 trillion won at the end of January this year, meaning assets increased by 5 trillion won in about three months. The company pointed to the strength of its robo-advisor service as a factor behind the growth. ISA accounts allow individuals to manage various financial products in one tax-advantaged account, and the increase in customer assets shows growing demand for asset management through the product. The 15 trillion won milestone highlights Mirae Asset Securities’ ISA-based wealth management position. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "未来アセット証券のISA顧客資産が15兆ウォン突破、3カ月で5兆増",
+        "excerpt": "未来アセット証券は7日、個人総合資産管理口座（ISA）の顧客資産が15兆ウォンを超えたと発表した。1月末の10兆ウォン突破から3カ月で5兆ウォン増えた。",
+        "body": "未来アセット証券は7日、個人総合資産管理口座（ISA）の顧客資産が15兆ウォンを超えたと明らかにした。今年1月末にISA顧客資産が10兆ウォンを突破してから、約3カ月で5兆ウォン増加したことになる。同社は資産拡大の背景として、ロボアドバイザーサービスの強みを挙げた。ISAは個人が多様な金融商品を一つの口座で管理する税制優遇口座であり、顧客資産の増加は同口座を通じた資産管理需要の高まりを示している。今回の15兆ウォン突破は、未来アセット証券のISA基盤の資産管理競争力を示す数値と受け止められる。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "未来资产证券ISA客户资产突破15万亿韩元，三个月增5万亿",
+        "excerpt": "未来资产证券7日表示，个人综合资产管理账户（ISA）客户资产已超过15万亿韩元，继1月底突破10万亿韩元后，三个月增加5万亿韩元。",
+        "body": "未来资产证券7日表示，其个人综合资产管理账户（ISA）客户资产已突破15万亿韩元。今年1月底，该公司ISA客户资产超过10万亿韩元，此后约三个月内增加了5万亿韩元。公司将资产扩大的背景之一归因于机器人投顾服务的优势。ISA是个人可在一个账户中管理多种金融产品的税收优惠账户，客户资产规模增长显示出通过该账户进行资产管理的需求正在扩大。此次突破15万亿韩元，也凸显了未来资产证券基于ISA的客户资产管理竞争力。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Activos ISA de Mirae Asset Securities superan 15 billones de wones",
+        "excerpt": "Mirae Asset Securities informó el día 7 que los activos de clientes en cuentas ISA superaron los 15 billones de wones, tras crecer 5 billones en tres meses desde finales de enero.",
+        "body": "Mirae Asset Securities informó el día 7 que los activos de clientes en sus cuentas individuales de gestión integral de activos (ISA) superaron los 15 billones de wones. A finales de enero de este año habían rebasado los 10 billones, por lo que aumentaron 5 billones de wones en unos tres meses. La compañía señaló la fortaleza de su servicio de roboadvisor como un factor detrás del crecimiento. Las ISA permiten a los particulares gestionar diversos productos financieros en una sola cuenta con ventajas fiscales, y el aumento de activos muestra una mayor demanda de gestión patrimonial mediante este instrumento. El hito de 15 billones de wones destaca la posición de Mirae Asset Securities en gestión de activos basada en ISA. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Ativos ISA da Mirae Asset Securities passam de 15 trilhões de wons",
+        "excerpt": "A Mirae Asset Securities disse no dia 7 que os ativos de clientes em contas ISA superaram 15 trilhões de wons, alta de 5 trilhões em três meses após passar de 10 trilhões no fim de janeiro.",
+        "body": "A Mirae Asset Securities informou no dia 7 que os ativos de clientes em suas Contas Individuais de Gestão Integral de Ativos (ISA) ultrapassaram 15 trilhões de wons. No fim de janeiro deste ano, o volume havia superado 10 trilhões de wons, o que representa um aumento de 5 trilhões em cerca de três meses. A empresa apontou a força de seu serviço de roboadvisor como um fator por trás da expansão. A ISA permite que pessoas físicas administrem diversos produtos financeiros em uma única conta com benefícios fiscais, e o crescimento dos ativos indica maior demanda por gestão patrimonial por meio desse produto. A marca de 15 trilhões de wons ressalta a posição da Mirae Asset Securities em gestão baseada em ISA. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Mirae Asset Securities: ISA-Kundenvermögen über 15 Billionen Won",
+        "excerpt": "Mirae Asset Securities teilte am 7. mit, dass das Kundenvermögen in ISA-Konten 15 Billionen Won überschritten hat. Seit Ende Januar stieg es in drei Monaten um 5 Billionen Won.",
+        "body": "Mirae Asset Securities teilte am 7. mit, dass das Kundenvermögen in seinen Individual Savings Accounts (ISA) die Marke von 15 Billionen Won überschritten hat. Ende Januar dieses Jahres hatte das ISA-Kundenvermögen bereits 10 Billionen Won übertroffen; damit kamen in rund drei Monaten 5 Billionen Won hinzu. Als Hintergrund des Wachstums nannte das Unternehmen die Stärke seines Robo-Advisor-Dienstes. ISA-Konten ermöglichen Privatkunden, verschiedene Finanzprodukte in einem steuerbegünstigten Konto zu verwalten. Der Anstieg des Kundenvermögens zeigt eine wachsende Nachfrage nach Vermögensverwaltung über dieses Konto. Die Marke von 15 Billionen Won unterstreicht die ISA-basierte Vermögensverwaltungsposition von Mirae Asset Securities. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Les actifs ISA de Mirae Asset Securities dépassent 15 000 milliards de wons",
+        "excerpt": "Mirae Asset Securities a annoncé le 7 que les actifs clients de ses comptes ISA avaient dépassé 15 000 milliards de wons, soit 5 000 milliards de plus en trois mois depuis fin janvier.",
+        "body": "Mirae Asset Securities a annoncé le 7 que les actifs clients de ses comptes individuels de gestion globale d’actifs (ISA) avaient dépassé 15 000 milliards de wons. À la fin janvier, ces actifs avaient franchi 10 000 milliards de wons; ils ont donc augmenté de 5 000 milliards en environ trois mois. La société a mis en avant la force de son service de robo-conseiller comme facteur de cette progression. L’ISA permet aux particuliers de gérer divers produits financiers dans un seul compte bénéficiant d’avantages fiscaux, et la hausse des actifs indique une demande accrue pour ce type de gestion patrimoniale. Le seuil de 15 000 milliards de wons souligne la position de Mirae Asset Securities dans la gestion d’actifs via ISA. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "أصول عملاء ISA لدى ميراى أسيت تتجاوز 15 تريليون وون",
+        "excerpt": "قالت ميراى أسيت سيكيوريتيز في 7 مايو إن أصول عملاء حسابات ISA تجاوزت 15 تريليون وون، بعدما زادت 5 تريليونات وون خلال ثلاثة أشهر منذ نهاية يناير.",
+        "body": "أعلنت ميراى أسيت سيكيوريتيز في 7 مايو أن أصول العملاء في حسابات الإدارة الشاملة للأصول الفردية (ISA) تجاوزت 15 تريليون وون. وكانت هذه الأصول قد تخطت 10 تريليونات وون في نهاية يناير من هذا العام، ما يعني أنها زادت 5 تريليونات وون خلال نحو ثلاثة أشهر. وأشارت الشركة إلى قوة خدمة المستشار الآلي لديها كأحد عوامل هذا النمو. وتتيح حسابات ISA للأفراد إدارة منتجات مالية متنوعة ضمن حساب واحد يتمتع بمزايا ضريبية، ويظهر ارتفاع الأصول زيادة الطلب على إدارة الأصول عبر هذا النوع من الحسابات. ويبرز تجاوز مستوى 15 تريليون وون مكانة ميراى أسيت سيكيوريتيز في إدارة الثروات المعتمدة على ISA. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "Mirae Asset Securities के ISA ग्राहक एसेट 15 ट्रिलियन वॉन के पार",
+        "excerpt": "Mirae Asset Securities ने 7 तारीख को बताया कि ISA ग्राहक एसेट 15 ट्रिलियन वॉन से अधिक हो गए हैं। जनवरी अंत में 10 ट्रिलियन वॉन पार करने के बाद तीन महीनों में 5 ट्रिलियन वॉन बढ़े।",
+        "body": "Mirae Asset Securities ने 7 तारीख को कहा कि उसके Individual Savings Account (ISA) में ग्राहक एसेट 15 ट्रिलियन वॉन से अधिक हो गए हैं। इस वर्ष जनवरी के अंत में ISA ग्राहक एसेट 10 ट्रिलियन वॉन से ऊपर थे, यानी करीब तीन महीनों में 5 ट्रिलियन वॉन की बढ़ोतरी हुई। कंपनी ने इस वृद्धि की पृष्ठभूमि में अपनी रोबो-एडवाइजर सेवा की मजबूती को बताया। ISA ऐसा टैक्स-लाभ वाला खाता है जिसमें व्यक्ति विभिन्न वित्तीय उत्पादों को एक ही खाते में प्रबंधित कर सकते हैं। ग्राहक एसेट में वृद्धि दिखाती है कि इस खाते के जरिए एसेट मैनेजमेंट की मांग बढ़ रही है। 15 ट्रिलियन वॉन का स्तर Mirae Asset Securities की ISA आधारित वेल्थ मैनेजमेंट स्थिति को रेखांकित करता है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Aset ISA Mirae Asset Securities Tembus 15 Triliun Won, Naik Cepat",
+        "excerpt": "Mirae Asset Securities pada 7 Mei menyatakan aset nasabah ISA melampaui 15 triliun won, bertambah 5 triliun won dalam tiga bulan setelah menembus 10 triliun won pada akhir Januari.",
+        "body": "Mirae Asset Securities menyatakan pada 7 Mei bahwa aset nasabah dalam rekening Individual Savings Account (ISA) telah melampaui 15 triliun won. Pada akhir Januari tahun ini, aset nasabah ISA sudah melewati 10 triliun won, sehingga bertambah 5 triliun won dalam sekitar tiga bulan. Perusahaan menyebut kekuatan layanan robo-advisor sebagai salah satu latar pertumbuhan tersebut. ISA memungkinkan individu mengelola berbagai produk keuangan dalam satu rekening dengan manfaat pajak, dan kenaikan aset nasabah menunjukkan meningkatnya kebutuhan pengelolaan aset melalui produk ini. Pencapaian 15 triliun won menegaskan posisi Mirae Asset Securities dalam pengelolaan kekayaan berbasis ISA. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "66a085dbeb37",
+    "slug": "유진투자증권-롯데관광개발-수익성-개선-기대성수기에-진입-145896",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-05-07T04:42:29.775Z",
+    "updatedAt": "2026-05-07T04:42:29.775Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/stock/12039046",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12039046",
+    "titleFingerprint": "7f2aaa617515208dfa89944c17f1892d7ab83604",
+    "dedupKeys": [
+      "66a085dbeb37c06897ae372287913da345146d5c",
+      "7f2aaa617515208dfa89944c17f1892d7ab83604",
+      "d04c4069775e98862cd83ecf2474b5d09095ec36"
+    ],
+    "imageUrl": "/images/articles/66a085dbeb37.jpg",
+    "i18n": {
+      "ko": {
+        "title": "롯데관광개발, 유진투자증권 ‘매수’ 유지…성수기 수익성 개선 기대",
+        "excerpt": "유진투자증권은 7일 롯데관광개발에 대해 성수기 진입에 따른 수익성 개선 기대를 반영해 투자의견 ‘매수’와 목표주가 3만2000원을 유지했다.",
+        "body": "유진투자증권은 7일 롯데관광개발에 대해 성수기 진입으로 수익성 개선이 기대된다며 투자의견 ‘매수’와 목표주가 3만2000원을 유지했다. 이번 판단은 롯데관광개발의 영업이익 개선 가능성과 성수기 효과를 핵심 배경으로 한다. 증권사는 올해 영업이익 전망이 전년 동기 대비 개선 흐름을 보일 것으로 봤으며, 투자 의견과 목표주가를 조정하지 않았다. 이는 여행·관광 수요가 집중되는 시기에 실적 회복 기대가 이어질 수 있다는 평가로 읽힌다. 다만 원문에 제시된 범위 안에서 구체적인 추가 수치나 세부 실적 전망은 확인되지 않았다. 출처는 mk.co.kr이다."
+      },
+      "en": {
+        "title": "Lotte Tour Development Kept at Buy by Eugene, Profitability Seen Improving in Peak Season",
+        "excerpt": "Eugene Investment & Securities said on May 7 it maintained a Buy rating and a 32,000 won target price on Lotte Tour Development, citing expected profitability improvement as peak season begins.",
+        "body": "Eugene Investment & Securities said on May 7 that it maintained its Buy rating and 32,000 won target price for Lotte Tour Development, citing expectations for improved profitability as the company enters peak season. The view is based on the possibility of better operating profit and the effect of stronger seasonal demand. The brokerage said this year’s operating profit outlook points to improvement from the same period a year earlier, while leaving both its investment opinion and target price unchanged. The assessment suggests earnings recovery expectations may continue during the period when travel and tourism demand is concentrated. No additional detailed figures or earnings assumptions were confirmed beyond the information provided in the original report. Source: mk.co.kr."
+      },
+      "ja": {
+        "title": "ロッテ観光開発、ユージン投資証券が買い維持　繁忙期入りで収益性改善期待",
+        "excerpt": "ユージン投資証券は7日、ロッテ観光開発について繁忙期入りによる収益性改善を見込み、投資判断「買い」と目標株価3万2000ウォンを維持した。",
+        "body": "ユージン投資証券は7日、ロッテ観光開発について、繁忙期入りに伴う収益性改善が期待されるとして、投資判断「買い」と目標株価3万2000ウォンを維持した。今回の判断は、ロッテ観光開発の営業利益改善の可能性と繁忙期効果を主な背景としている。同証券は、今年の営業利益見通しが前年同期比で改善傾向を示すとみており、投資判断と目標株価は変更しなかった。旅行・観光需要が集中する時期に、業績回復への期待が続く可能性を示す評価といえる。ただし、原文で示された範囲内では、追加の具体的な数値や詳細な業績見通しは確認されていない。出典はmk.co.kr。"
+      },
+      "zh": {
+        "title": "乐天观光开发获Eugene维持买入评级，旺季来临带动盈利改善预期",
+        "excerpt": "Eugene投资证券7日表示，鉴于乐天观光开发进入旺季后盈利能力有望改善，维持其“买入”评级和3.2万韩元目标价。",
+        "body": "Eugene投资证券7日表示，乐天观光开发随着进入旺季，盈利能力有望改善，因此维持其“买入”投资评级和3.2万韩元目标价。此次判断的核心背景是乐天观光开发营业利润改善的可能性以及旺季效应。该券商认为，公司今年营业利润展望较上年同期呈改善趋势，同时未调整投资意见和目标价。这一评价意味着，在旅游和观光需求集中的时期，市场对业绩恢复的期待可能延续。不过，在原文所提供的信息范围内，未确认更多具体数值或详细业绩预测。来源为mk.co.kr。"
+      },
+      "es": {
+        "title": "Lotte Tour Development mantiene recomendación de compra de Eugene por mejora esperada",
+        "excerpt": "Eugene Investment & Securities mantuvo el 7 de mayo su recomendación de compra y precio objetivo de 32.000 wones para Lotte Tour Development, ante la mejora de rentabilidad esperada en temporada alta.",
+        "body": "Eugene Investment & Securities informó el 7 de mayo que mantuvo su recomendación de “compra” y su precio objetivo de 32.000 wones para Lotte Tour Development, al prever una mejora de la rentabilidad con la entrada en temporada alta. La evaluación se basa en la posibilidad de una mejora del beneficio operativo de la compañía y en el efecto estacional. La firma indicó que la previsión de beneficio operativo para este año apunta a una mejora frente al mismo periodo del año anterior, sin modificar ni la opinión de inversión ni el precio objetivo. La lectura sugiere que las expectativas de recuperación de resultados pueden continuar durante el periodo de mayor demanda de viajes y turismo. No se confirmaron cifras adicionales ni detalles de previsiones más allá del texto original. Fuente: mk.co.kr."
+      },
+      "pt": {
+        "title": "Lotte Tour Development mantém compra na Eugene com expectativa de melhora na alta temporada",
+        "excerpt": "A Eugene Investment & Securities manteve em 7 de maio recomendação de compra e preço-alvo de 32.000 won para Lotte Tour Development, citando melhora esperada da rentabilidade na alta temporada.",
+        "body": "A Eugene Investment & Securities informou em 7 de maio que manteve a recomendação de “compra” e o preço-alvo de 32.000 won para a Lotte Tour Development, citando expectativa de melhora da rentabilidade com a entrada na alta temporada. A avaliação tem como base a possibilidade de avanço no lucro operacional da empresa e o efeito sazonal. A corretora afirmou que a perspectiva para o lucro operacional deste ano indica melhora em relação ao mesmo período do ano anterior, sem alterar a recomendação nem o preço-alvo. A análise sugere que a expectativa de recuperação dos resultados pode continuar no período de maior concentração da demanda por viagens e turismo. Não foram confirmados números adicionais ou projeções detalhadas além do conteúdo original. Fonte: mk.co.kr."
+      },
+      "de": {
+        "title": "Lotte Tour Development: Eugene hält an Kaufempfehlung fest, bessere Profitabilität erwartet",
+        "excerpt": "Eugene Investment & Securities hielt am 7. Mai für Lotte Tour Development an Kaufen und einem Kursziel von 32.000 Won fest, da mit Beginn der Hochsaison eine bessere Profitabilität erwartet wird.",
+        "body": "Eugene Investment & Securities erklärte am 7. Mai, die Kaufempfehlung und das Kursziel von 32.000 Won für Lotte Tour Development beizubehalten, da mit dem Eintritt in die Hochsaison eine Verbesserung der Profitabilität erwartet werde. Grundlage der Einschätzung sind die mögliche Verbesserung des operativen Gewinns und der saisonale Effekt. Das Brokerhaus geht davon aus, dass der Ausblick für den diesjährigen operativen Gewinn gegenüber dem Vorjahreszeitraum eine Verbesserung zeigt, änderte jedoch weder Anlageurteil noch Kursziel. Die Einschätzung deutet darauf hin, dass Erwartungen an eine Erholung der Ergebnisse in der Phase konzentrierter Reise- und Tourismusnachfrage anhalten könnten. Weitere konkrete Zahlen oder detaillierte Prognosen wurden im vorliegenden Originaltext nicht bestätigt. Quelle: mk.co.kr."
+      },
+      "fr": {
+        "title": "Lotte Tour Development reste à l’achat chez Eugene, rentabilité attendue en hausse",
+        "excerpt": "Eugene Investment & Securities a maintenu le 7 mai sa recommandation d’achat et son objectif de 32 000 wons sur Lotte Tour Development, citant l’amélioration attendue de la rentabilité en haute saison.",
+        "body": "Eugene Investment & Securities a indiqué le 7 mai maintenir sa recommandation d’« achat » et son objectif de cours de 32 000 wons sur Lotte Tour Development, en raison d’une amélioration attendue de la rentabilité avec l’entrée en haute saison. Cette analyse repose sur la possibilité d’une amélioration du bénéfice opérationnel de la société et sur l’effet saisonnier. La maison de courtage estime que les perspectives de bénéfice opérationnel pour cette année montrent une amélioration par rapport à la même période de l’an dernier, tout en laissant inchangés son avis d’investissement et son objectif de cours. Cette lecture suggère que les attentes de reprise des résultats pourraient se poursuivre pendant la période de forte demande de voyages et de tourisme. Aucun chiffre supplémentaire ni détail de prévision n’a été confirmé au-delà du texte original. Source : mk.co.kr."
+      },
+      "ar": {
+        "title": "لوتيه تور ديفلوبمنت تبقى عند توصية الشراء من يوجين مع توقع تحسن الربحية",
+        "excerpt": "قالت يوجين للاستثمار والأوراق المالية في 7 مايو إنها أبقت توصية الشراء والسعر المستهدف البالغ 32 ألف وون لسهم لوتيه تور ديفلوبمنت، متوقعة تحسن الربحية مع دخول موسم الذروة.",
+        "body": "قالت يوجين للاستثمار والأوراق المالية في 7 مايو إنها أبقت توصية «شراء» والسعر المستهدف البالغ 32 ألف وون لسهم لوتيه تور ديفلوبمنت، مشيرة إلى توقعات بتحسن الربحية مع دخول الشركة موسم الذروة. ويستند هذا التقييم إلى احتمال تحسن الربح التشغيلي للشركة وتأثير الطلب الموسمي. وذكرت شركة الوساطة أن توقعات الربح التشغيلي لهذا العام تشير إلى تحسن مقارنة بالفترة نفسها من العام السابق، مع عدم تغيير توصية الاستثمار أو السعر المستهدف. ويعكس ذلك إمكانية استمرار توقعات تعافي الأداء خلال الفترة التي يتركز فيها الطلب على السفر والسياحة. ولم يتم تأكيد أرقام إضافية أو تفاصيل توقعات أخرى ضمن نطاق النص الأصلي. المصدر: mk.co.kr."
+      },
+      "hi": {
+        "title": "लोट्टे टूर डेवलपमेंट पर यूजीन ने खरीद राय रखी, पीक सीजन से मुनाफे की उम्मीद",
+        "excerpt": "यूजीन इन्वेस्टमेंट एंड सिक्योरिटीज ने 7 मई को लोट्टे टूर डेवलपमेंट पर खरीद रेटिंग और 32,000 वोन लक्ष्य मूल्य बरकरार रखा, क्योंकि पीक सीजन में लाभप्रदता सुधरने की उम्मीद है।",
+        "body": "यूजीन इन्वेस्टमेंट एंड सिक्योरिटीज ने 7 मई को कहा कि उसने लोट्टे टूर डेवलपमेंट पर “खरीद” निवेश राय और 32,000 वोन का लक्ष्य मूल्य बरकरार रखा है, क्योंकि कंपनी के पीक सीजन में प्रवेश से लाभप्रदता सुधरने की उम्मीद है। इस आकलन का मुख्य आधार कंपनी के परिचालन लाभ में सुधार की संभावना और मौसमी मांग का प्रभाव है। ब्रोकरेज ने माना कि इस वर्ष परिचालन लाभ का दृष्टिकोण पिछले वर्ष की समान अवधि की तुलना में सुधार की दिशा दिखाता है, जबकि निवेश राय और लक्ष्य मूल्य में बदलाव नहीं किया गया। इसका अर्थ है कि यात्रा और पर्यटन मांग के केंद्रित रहने वाले समय में नतीजों की रिकवरी की उम्मीद जारी रह सकती है। मूल जानकारी से आगे कोई अतिरिक्त ठोस आंकड़ा या विस्तृत अनुमान पुष्टि नहीं हुआ। स्रोत: mk.co.kr."
+      },
+      "id": {
+        "title": "Lotte Tour Development Dipertahankan Beli oleh Eugene, Profitabilitas Musim Puncak Dinanti",
+        "excerpt": "Eugene Investment & Securities pada 7 Mei mempertahankan rekomendasi beli dan target harga 32.000 won untuk Lotte Tour Development, seiring ekspektasi perbaikan profitabilitas saat memasuki musim puncak.",
+        "body": "Eugene Investment & Securities pada 7 Mei menyatakan mempertahankan rekomendasi “beli” dan target harga 32.000 won untuk Lotte Tour Development, dengan alasan profitabilitas diperkirakan membaik saat perusahaan memasuki musim puncak. Penilaian ini didasarkan pada kemungkinan perbaikan laba operasional Lotte Tour Development dan efek musiman. Perusahaan sekuritas tersebut menilai prospek laba operasional tahun ini menunjukkan arah perbaikan dibanding periode yang sama tahun sebelumnya, sementara rekomendasi investasi dan target harga tidak diubah. Evaluasi itu mengindikasikan ekspektasi pemulihan kinerja dapat berlanjut pada periode ketika permintaan perjalanan dan pariwisata terkonsentrasi. Tidak ada angka tambahan atau rincian proyeksi lain yang terkonfirmasi di luar informasi asli. Sumber: mk.co.kr."
+      }
+    }
+  },
+  {
     "id": "04448a24ef67",
     "slug": "삼전현중은-담고-하닉전력주는-팔고-주식-초고수는-지금-424303",
     "channelId": "ETF",
@@ -4271,231 +4496,6 @@
         "title": "Dana Pertumbuhan Partisipasi Publik Dijual Mulai 22 Mei, Pemerintah Tanggung Dahulu 20% Kerugian",
         "excerpt": "Dana Pertumbuhan Partisipasi Publik akan dijual selama tiga minggu, dari 22 Mei hingga 11 bulan depan, melalui bank dan perusahaan sekuritas.",
         "body": "Dana Pertumbuhan Partisipasi Publik dijadwalkan dijual selama tiga minggu, mulai tanggal 22 hingga tanggal 11 bulan berikutnya, melalui bank dan perusahaan sekuritas. Pada 6 Mei, di koridor sekretariat Dana Pertumbuhan Nasional di Seoul, seorang pihak terkait terlihat melintas. Struktur utama yang disampaikan dalam judul asli adalah bahwa pemerintah akan lebih dahulu menanggung 20% kerugian. Kanal penjualan adalah bank dan perusahaan sekuritas, dengan periode penjualan sekitar tiga minggu. Investor diperkirakan dapat mengakses produk tersebut melalui perusahaan keuangan selama periode itu. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "f91520c05ad2",
-    "slug": "국민참여성장펀드-22일-출시손실-20-정부-우선-부담-646692",
-    "channelId": "ETF",
-    "category": "etf",
-    "publishedAt": "2026-05-06T15:38:58.387Z",
-    "updatedAt": "2026-05-06T15:38:58.387Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/stock/12037589",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12037589",
-    "titleFingerprint": "928b72dc2e24ba69ac605eb8bbd897d486d95d99",
-    "dedupKeys": [
-      "f91520c05ad2556d5093de1cd8abb10b6514b0d6",
-      "928b72dc2e24ba69ac605eb8bbd897d486d95d99",
-      "197813f929f82b33d6113f7090c00903f87916ff"
-    ],
-    "imageUrl": "/images/articles/f91520c05ad2.jpg",
-    "i18n": {
-      "ko": {
-        "title": "국민참여성장펀드 22일 출시, 손실 20% 정부 우선 부담 조건 주목",
-        "excerpt": "국민성장펀드가 2026년 5월 22일부터 6월 11일까지 3주간 은행과 증권사를 통해 판매될 예정이며, 손실 20%를 정부가 우선 부담하는 구조가 제시됐다.",
-        "body": "국민참여성장펀드가 2026년 5월 22일부터 6월 11일까지 3주간 은행과 증권사를 통해 판매될 예정이다. 6일 서울 국민성장펀드 사무국 복도에는 관계자가 지나가는 모습이 포착됐다. 이번 펀드는 ‘손실 20% 정부 우선 부담’이라는 조건이 제목에서 강조됐다. 판매 채널은 은행과 증권사로 안내됐으며, 구체적인 판매 기간은 22일부터 다음 달 11일까지다. 투자자 입장에서는 판매 일정과 손실 부담 구조가 핵심 확인 사항이다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "People’s Growth Fund Set for May 22 Launch With Government First-Loss Cover",
-        "excerpt": "The People’s Growth Fund is scheduled to be sold through banks and securities firms from May 22 to June 11, 2026, with the government set to absorb the first 20% of losses.",
-        "body": "The People’s Participation Growth Fund is scheduled to launch sales on May 22, 2026, and remain available through June 11 for a three-week period via banks and securities firms. On May 6, a person connected to the fund was seen passing through the corridor of the People’s Growth Fund office in Seoul. The key condition highlighted in the original report is that the government will first bear 20% of losses. For investors, the main confirmed points are the sales window, the distribution channels, and the loss-sharing structure. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "国民参加成長ファンド、5月22日発売へ 政府が損失20％を優先負担",
-        "excerpt": "国民成長ファンドは2026年5月22日から6月11日まで3週間、銀行と証券会社を通じて販売される予定で、損失20％を政府が優先負担する仕組みが示された。",
-        "body": "国民参加成長ファンドは2026年5月22日から6月11日までの3週間、銀行と証券会社を通じて販売される予定だ。5月6日、ソウルの国民成長ファンド事務局の廊下では関係者が通行する様子が見られた。今回のファンドでは「損失20％を政府が優先負担」という条件が強調されている。販売期間は22日から翌月11日までで、販売チャネルは銀行と証券会社と案内された。投資家にとっては日程と損失負担の仕組みが主要な確認事項となる。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "国民参与成长基金5月22日开售，政府优先承担20%损失受关注",
-        "excerpt": "国民成长基金计划于2026年5月22日至6月11日通过银行和证券公司销售三周，并提出由政府优先承担20%损失的安排。",
-        "body": "国民参与成长基金计划自2026年5月22日起至6月11日止，通过银行和证券公司销售，为期三周。5月6日，在首尔国民成长基金事务局走廊，有相关人员经过。此次基金在原报道标题中强调“政府优先承担20%损失”这一条件。已公布的信息包括销售时间为22日至下月11日，销售渠道为银行和证券公司。对投资者而言，销售日程、渠道以及损失承担结构是需要确认的核心内容。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Fondo de Crecimiento Participativo saldrá el 22 de mayo con cobertura estatal",
-        "excerpt": "El Fondo de Crecimiento Popular se venderá del 22 de mayo al 11 de junio de 2026 durante tres semanas a través de bancos y casas de valores, con el Gobierno asumiendo primero el 20% de pérdidas.",
-        "body": "El Fondo de Crecimiento de Participación Popular tiene previsto iniciar su venta el 22 de mayo de 2026 y continuar hasta el 11 de junio durante tres semanas, a través de bancos y firmas de valores. El 6 de mayo, en el pasillo de la oficina del Fondo de Crecimiento Popular en Seúl, se observó pasar a una persona relacionada con la entidad. La condición destacada es que el Gobierno asumirá primero el 20% de las pérdidas. Para los inversores, los datos confirmados son el periodo de venta, los canales de distribución y la estructura de cobertura de pérdidas. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Fundo de Crescimento Participativo estreia em 22 de maio com cobertura estatal",
-        "excerpt": "O Fundo de Crescimento Popular será vendido de 22 de maio a 11 de junho de 2026 por três semanas via bancos e corretoras, com o governo assumindo primeiro 20% das perdas.",
-        "body": "O Fundo de Crescimento de Participação Popular tem venda prevista de 22 de maio de 2026 a 11 de junho, durante três semanas, por meio de bancos e corretoras. Em 6 de maio, no corredor do escritório do Fundo de Crescimento Popular em Seul, uma pessoa ligada à estrutura foi vista passando. A condição destacada no título original é que o governo assumirá primeiro 20% das perdas. As informações confirmadas indicam o período de venda, os canais bancários e de valores mobiliários e a estrutura de absorção de perdas. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Bürgerbeteiligungs-Wachstumsfonds startet am 22. Mai mit staatlicher Verlustdeckung",
-        "excerpt": "Der Volkswachstumsfonds soll vom 22. Mai bis 11. Juni 2026 drei Wochen lang über Banken und Wertpapierhäuser verkauft werden; der Staat trägt zuerst 20% der Verluste.",
-        "body": "Der Bürgerbeteiligungs-Wachstumsfonds soll am 22. Mai 2026 in den Verkauf gehen und bis zum 11. Juni drei Wochen lang über Banken und Wertpapierhäuser angeboten werden. Am 6. Mai wurde im Flur des Büros des Volkswachstumsfonds in Seoul eine zuständige Person beim Vorbeigehen gesehen. Hervorgehoben wird die Bedingung, dass der Staat zunächst 20% der Verluste übernimmt. Bestätigt sind damit der Verkaufszeitraum, die Vertriebskanäle über Banken und Wertpapierfirmen sowie die Verlusttragungsstruktur. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Fonds de croissance participatif lancé le 22 mai avec pertes couvertes par l’État",
-        "excerpt": "Le Fonds de croissance populaire doit être vendu du 22 mai au 11 juin 2026 pendant trois semaines via banques et sociétés de titres, avec une prise en charge prioritaire de 20% des pertes par l’État.",
-        "body": "Le Fonds de croissance à participation populaire doit être commercialisé du 22 mai 2026 au 11 juin, pendant trois semaines, par l’intermédiaire de banques et de sociétés de titres. Le 6 mai, dans le couloir du bureau du Fonds de croissance populaire à Séoul, une personne liée au dispositif a été aperçue. La condition mise en avant est que l’État supportera en priorité 20% des pertes. Les éléments confirmés portent sur le calendrier de vente, les canaux de distribution et la structure de prise en charge des pertes. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "صندوق النمو بالمشاركة الشعبية ينطلق في 22 مايو مع تحمل حكومي للخسائر",
-        "excerpt": "من المقرر بيع صندوق النمو الشعبي من 22 مايو إلى 11 يونيو 2026 لمدة ثلاثة أسابيع عبر البنوك وشركات الأوراق المالية، مع تحمل الحكومة أول 20% من الخسائر.",
-        "body": "من المقرر أن يبدأ بيع صندوق النمو بالمشاركة الشعبية في 22 مايو 2026 ويستمر حتى 11 يونيو لمدة ثلاثة أسابيع عبر البنوك وشركات الأوراق المالية. وفي 6 مايو، شوهد أحد المعنيين يمر في ممر مكتب صندوق النمو الشعبي في سيول. الشرط الأبرز في الخبر هو أن الحكومة ستتحمل أولا 20% من الخسائر. وتشمل المعلومات المؤكدة فترة البيع، وقنوات التوزيع عبر البنوك وشركات الأوراق المالية، وهيكل تحمل الخسائر. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "जनभागीदारी ग्रोथ फंड 22 मई से, 20% नुकसान पहले सरकार उठाएगी",
-        "excerpt": "पीपुल्स ग्रोथ फंड 22 मई से 11 जून 2026 तक तीन सप्ताह के लिए बैंकों और सिक्योरिटीज कंपनियों के जरिए बेचा जाएगा, जिसमें पहले 20% नुकसान सरकार वहन करेगी।",
-        "body": "जनभागीदारी ग्रोथ फंड की बिक्री 22 मई 2026 से 11 जून तक तीन सप्ताह के लिए बैंकों और सिक्योरिटीज कंपनियों के माध्यम से होने वाली है। 6 मई को सियोल स्थित पीपुल्स ग्रोथ फंड कार्यालय के गलियारे में एक संबंधित व्यक्ति गुजरता दिखा। इस फंड में प्रमुख शर्त के रूप में यह बात सामने रखी गई है कि नुकसान का पहला 20% हिस्सा सरकार वहन करेगी। उपलब्ध जानकारी के अनुसार बिक्री अवधि 22 मई से अगले महीने 11 जून तक है और वितरण चैनल बैंक तथा सिक्योरिटीज कंपनियां होंगी। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Dana Pertumbuhan Partisipasi Publik Meluncur 22 Mei, Rugi 20% Ditanggung Pemerintah",
-        "excerpt": "Dana Pertumbuhan Publik dijadwalkan dijual pada 22 Mei hingga 11 Juni 2026 selama tiga pekan melalui bank dan perusahaan sekuritas, dengan pemerintah menanggung lebih dulu 20% kerugian.",
-        "body": "Dana Pertumbuhan Partisipasi Publik dijadwalkan mulai dijual pada 22 Mei 2026 hingga 11 Juni selama tiga pekan melalui bank dan perusahaan sekuritas. Pada 6 Mei, di koridor kantor Dana Pertumbuhan Publik di Seoul, seorang pihak terkait terlihat melintas. Syarat utama yang disorot dalam laporan asal adalah pemerintah akan lebih dulu menanggung 20% kerugian. Informasi yang dikonfirmasi mencakup periode penjualan, kanal distribusi melalui bank dan sekuritas, serta struktur penanggungan kerugian. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "f801ea2c823c",
-    "slug": "국민참여성장펀드-22일-출시손실-20-정부-우선-부담-659958",
-    "channelId": "ETF",
-    "category": "etf",
-    "publishedAt": "2026-05-06T15:38:01.569Z",
-    "updatedAt": "2026-05-06T15:38:01.569Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/stock/12037593",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12037593",
-    "titleFingerprint": "928b72dc2e24ba69ac605eb8bbd897d486d95d99",
-    "dedupKeys": [
-      "f801ea2c823c018b4efae11a0f24003f9dac590a",
-      "928b72dc2e24ba69ac605eb8bbd897d486d95d99",
-      "197813f929f82b33d6113f7090c00903f87916ff"
-    ],
-    "imageUrl": "/images/articles/f801ea2c823c.jpg",
-    "i18n": {
-      "ko": {
-        "title": "국민참여성장펀드 22일 출시…정부, 손실 20% 우선 부담",
-        "excerpt": "국민성장펀드는 2026년 5월 22일부터 6월 11일까지 3주간 은행과 증권사를 통해 판매되며, 정부가 손실 20%를 우선 부담하는 구조로 출시된다.",
-        "body": "국민참여성장펀드가 2026년 5월 22일부터 다음 달 11일까지 3주간 은행과 증권사를 통해 판매될 예정이다. 6일 서울 국민성장펀드 사무국 복도에는 관계자가 지나가는 모습이 포착됐다. 이번 펀드는 ‘손실 20% 정부 우선 부담’이라는 조건이 제목에 제시된 상품으로, 국민성장펀드 판매 일정과 판매 채널이 공개된 데 의미가 있다. 투자자는 판매 기간 동안 은행·증권사를 통해 상품을 접할 수 있다. 정부의 손실 우선 부담 구조가 포함된 만큼 출시 이후 판매 추이와 투자자 관심이 주목된다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Public Participation Growth Fund Launches May 22, Government to Absorb First 20% Loss",
-        "excerpt": "The National Growth Fund will be sold through banks and securities firms for three weeks from May 22 to June 11, 2026, with the government absorbing the first 20% of losses.",
-        "body": "The Public Participation Growth Fund is scheduled to go on sale for three weeks from May 22, 2026, to June 11 through banks and securities firms. On May 6, a staff member was seen passing through the hallway of the National Growth Fund office in Seoul. The fund is presented with the condition that the government will first absorb 20% of losses, and the key details disclosed so far are its sales period and distribution channels. Investors will be able to access the product through participating banks and brokerages during the offering period. Given the government’s first-loss structure, market attention is expected to focus on sales progress and investor response after launch. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "国民参加成長ファンド、5月22日発売…政府が損失20％を優先負担",
-        "excerpt": "国民成長ファンドは2026年5月22日から6月11日まで3週間、銀行と証券会社を通じて販売され、政府が損失20％を優先負担する仕組みで発売される。",
-        "body": "国民参加成長ファンドは、2026年5月22日から翌月11日までの3週間、銀行と証券会社を通じて販売される予定だ。5月6日、ソウルの国民成長ファンド事務局の廊下では関係者が通り過ぎる様子が確認された。今回のファンドは「損失20％を政府が優先負担」という条件が示された商品で、販売日程と販売チャネルが明らかになった点に意味がある。投資家は販売期間中、銀行や証券会社を通じて商品に接することができる。政府の損失優先負担構造が含まれるだけに、発売後の販売動向と投資家の関心が注目される。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "国民参与成长基金5月22日发行，政府优先承担20%损失",
-        "excerpt": "国民成长基金将于2026年5月22日至6月11日通过银行和证券公司销售三周，并采用政府优先承担20%损失的结构。",
-        "body": "国民参与成长基金计划于2026年5月22日至下月11日通过银行和证券公司销售三周。5月6日，在首尔国民成长基金事务局走廊，有相关人员经过的画面被拍摄到。该基金以“政府优先承担20%损失”为条件推出，目前已公开的核心信息包括销售时间和销售渠道。投资者可在销售期内通过银行和证券公司接触该产品。由于包含政府优先承担损失的结构，发行后的销售情况和投资者关注度将受到关注。来源：mk.co.kr"
-      },
-      "es": {
-        "title": "Fondo de Crecimiento con Participación Pública sale el 22 de mayo con cobertura estatal del 20%",
-        "excerpt": "El Fondo Nacional de Crecimiento se venderá del 22 de mayo al 11 de junio de 2026 durante tres semanas a través de bancos y firmas de valores, con el Gobierno absorbiendo primero el 20% de las pérdidas.",
-        "body": "El Fondo de Crecimiento con Participación Pública está previsto que salga a la venta durante tres semanas, del 22 de mayo al 11 de junio de 2026, a través de bancos y sociedades de valores. El 6 de mayo, se observó a una persona vinculada al fondo pasando por el pasillo de la oficina del Fondo Nacional de Crecimiento en Seúl. El producto se presenta con la condición de que el Gobierno asumirá primero el 20% de las pérdidas, mientras que los datos divulgados se centran en el calendario de venta y los canales de distribución. Durante el periodo de oferta, los inversionistas podrán acceder al producto por bancos y firmas de valores. Por esta estructura de absorción prioritaria de pérdidas, se seguirá la evolución de las ventas y el interés de los inversionistas. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Fundo de Crescimento com Participação Pública estreia em 22 de maio com cobertura estatal de 20%",
-        "excerpt": "O Fundo Nacional de Crescimento será vendido por bancos e corretoras de 22 de maio a 11 de junho de 2026, por três semanas, com o governo assumindo primeiro 20% das perdas.",
-        "body": "O Fundo de Crescimento com Participação Pública deve ser vendido por três semanas, de 22 de maio a 11 de junho de 2026, por meio de bancos e corretoras. Em 6 de maio, uma pessoa ligada ao fundo foi vista passando pelo corredor do escritório do Fundo Nacional de Crescimento em Seul. O produto é apresentado com a condição de que o governo assumirá primeiro 20% das perdas, e as informações divulgadas até agora destacam o período de venda e os canais de distribuição. Durante a oferta, investidores poderão acessar o produto por bancos e corretoras. Como a estrutura inclui absorção prioritária de perdas pelo governo, a evolução das vendas e o interesse dos investidores devem receber atenção. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Bürgerbeteiligungs-Wachstumsfonds startet am 22. Mai mit 20% Erstverlustübernahme durch Staat",
-        "excerpt": "Der National Growth Fund soll vom 22. Mai bis 11. Juni 2026 drei Wochen lang über Banken und Wertpapierhäuser verkauft werden; der Staat übernimmt vorrangig 20% der Verluste.",
-        "body": "Der Bürgerbeteiligungs-Wachstumsfonds soll vom 22. Mai 2026 bis zum 11. Juni drei Wochen lang über Banken und Wertpapierhäuser verkauft werden. Am 6. Mai wurde in Seoul eine zuständige Person im Flur des Büros des National Growth Fund gesehen. Der Fonds wird mit der Bedingung vorgestellt, dass der Staat vorrangig 20% der Verluste übernimmt; die bislang genannten Kerndaten betreffen Verkaufszeitraum und Vertriebskanäle. Anleger können das Produkt während der Angebotsfrist über Banken und Wertpapierfirmen erwerben. Wegen der staatlichen Erstverluststruktur dürften der Absatzverlauf und das Interesse der Anleger nach dem Start im Fokus stehen. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Le fonds de croissance participatif lancé le 22 mai avec 20% de pertes assumées d’abord par l’État",
-        "excerpt": "Le National Growth Fund sera vendu du 22 mai au 11 juin 2026 pendant trois semaines via les banques et sociétés de titres, avec une prise en charge prioritaire de 20% des pertes par l’État.",
-        "body": "Le fonds de croissance participatif doit être commercialisé pendant trois semaines, du 22 mai 2026 au 11 juin, par l’intermédiaire des banques et des sociétés de titres. Le 6 mai, une personne liée au fonds a été aperçue dans le couloir du bureau du National Growth Fund à Séoul. Le produit est présenté avec la condition selon laquelle l’État assumera en priorité 20% des pertes, tandis que les informations communiquées portent sur le calendrier et les canaux de vente. Les investisseurs pourront y accéder pendant la période de souscription via les banques et maisons de courtage. Cette structure de prise en charge prioritaire des pertes devrait attirer l’attention sur l’évolution des ventes et l’intérêt des investisseurs après le lancement. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "إطلاق صندوق النمو بمشاركة المواطنين في 22 مايو والحكومة تتحمل أول 20% من الخسائر",
-        "excerpt": "سيباع صندوق النمو الوطني من 22 مايو إلى 11 يونيو 2026 لمدة ثلاثة أسابيع عبر البنوك وشركات الأوراق المالية، مع تحمل الحكومة أول 20% من الخسائر.",
-        "body": "من المقرر طرح صندوق النمو بمشاركة المواطنين للبيع لمدة ثلاثة أسابيع من 22 مايو 2026 إلى 11 يونيو عبر البنوك وشركات الأوراق المالية. وفي 6 مايو، شوهد أحد المعنيين يمر في ممر مكتب صندوق النمو الوطني في سيول. ويُعرض الصندوق بشرط أن تتحمل الحكومة أولا 20% من الخسائر، بينما تتركز المعلومات المعلنة حتى الآن على فترة البيع وقنوات التوزيع. ويمكن للمستثمرين الوصول إلى المنتج خلال فترة الطرح عبر البنوك وشركات الوساطة. وبالنظر إلى هيكل تحمل الحكومة للخسائر بشكل أولي، سيتجه الاهتمام إلى مسار المبيعات واهتمام المستثمرين بعد الإطلاق. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "जनभागीदारी ग्रोथ फंड 22 मई को लॉन्च, सरकार पहले 20% नुकसान उठाएगी",
-        "excerpt": "नेशनल ग्रोथ फंड 22 मई से 11 जून 2026 तक तीन सप्ताह के लिए बैंकों और प्रतिभूति कंपनियों के माध्यम से बेचा जाएगा, जिसमें सरकार पहले 20% नुकसान वहन करेगी।",
-        "body": "जनभागीदारी ग्रोथ फंड 22 मई 2026 से 11 जून तक तीन सप्ताह के लिए बैंकों और प्रतिभूति कंपनियों के माध्यम से बिक्री के लिए उपलब्ध होने वाला है। 6 मई को सियोल स्थित नेशनल ग्रोथ फंड कार्यालय के गलियारे में एक संबंधित व्यक्ति गुजरता दिखा। यह फंड इस शर्त के साथ पेश किया गया है कि सरकार पहले 20% नुकसान वहन करेगी, और अब तक सामने आई मुख्य जानकारी बिक्री अवधि और वितरण चैनलों से जुड़ी है। निवेशक बिक्री अवधि के दौरान बैंकों और ब्रोकरेज कंपनियों के जरिए इस उत्पाद तक पहुंच सकेंगे। सरकार की प्राथमिक नुकसान-वहन संरचना के कारण लॉन्च के बाद बिक्री रुझान और निवेशकों की रुचि पर ध्यान रहेगा। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Dana Pertumbuhan Partisipasi Publik Diluncurkan 22 Mei, Pemerintah Tanggung Awal 20% Kerugian",
-        "excerpt": "Dana Pertumbuhan Nasional akan dijual selama tiga minggu mulai 22 Mei hingga 11 Juni 2026 melalui bank dan perusahaan sekuritas, dengan pemerintah menanggung lebih dulu 20% kerugian.",
-        "body": "Dana Pertumbuhan Partisipasi Publik dijadwalkan dijual selama tiga minggu, mulai 22 Mei 2026 hingga 11 Juni, melalui bank dan perusahaan sekuritas. Pada 6 Mei, seorang pihak terkait terlihat melintas di koridor kantor Dana Pertumbuhan Nasional di Seoul. Produk ini diperkenalkan dengan ketentuan bahwa pemerintah akan menanggung lebih dulu 20% kerugian, sementara informasi utama yang diungkap mencakup jadwal penjualan dan kanal distribusi. Investor dapat mengakses produk tersebut melalui bank dan perusahaan sekuritas selama periode penawaran. Dengan adanya struktur penanggungan kerugian awal oleh pemerintah, perkembangan penjualan dan minat investor setelah peluncuran akan menjadi perhatian. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "2bbea07cb233",
-    "slug": "전쟁이-만드는-시장에-올라타려면-349781",
-    "channelId": "ETF",
-    "category": "etf",
-    "publishedAt": "2026-05-06T14:46:35.016Z",
-    "updatedAt": "2026-05-06T14:46:35.016Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/economy/12037598",
-    "canonicalUrl": "https://www.mk.co.kr/news/economy/12037598",
-    "titleFingerprint": "818b862b9e7a345075c978252e64a5fffd6aa0d7",
-    "dedupKeys": [
-      "2bbea07cb233095aa8a60ca27212ac07efcb055c",
-      "818b862b9e7a345075c978252e64a5fffd6aa0d7",
-      "559fd0d94ad0b72ae58a36a7cf05b3ee3855ba4f"
-    ],
-    "imageUrl": "/images/articles/2bbea07cb233.jpg",
-    "i18n": {
-      "ko": {
-        "title": "전쟁과 투자 키워드로 본 매경플러스 출범 머리글, 시장을 읽는 법을 묻다",
-        "excerpt": "매경플러스 출범을 맞아 필자는 ‘전쟁과 투자’ 머리글 요청을 받고 톨스토이의 ‘전쟁과 평화’를 떠올리며 전쟁이 만드는 시장과 투자 관점을 제시했다.",
-        "body": "매경플러스 출범을 맞아 필자는 ‘전쟁과 투자’라는 제목의 머리글을 써 달라는 요청을 받았고, 그 순간 가장 먼저 레프 톨스토이의 ‘전쟁과 평화’를 떠올렸다고 밝혔다. 원문은 전쟁이 만드는 시장에 올라타려면 무엇을 봐야 하는지라는 질문을 앞세운다. 배경에는 매경플러스의 출범과 전쟁, 투자라는 두 키워드가 놓여 있다. 구체적인 시장 수치나 종목 정보는 제시되지 않았지만, 글은 전쟁을 단순한 사건이 아니라 투자자가 시장을 해석할 때 마주하는 중요한 맥락으로 다룬다. 이에 따라 독자는 전쟁과 평화라는 문학적 연상을 통해 시장과 투자의 관계를 다시 생각하게 된다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "War and Investing Frame Maeil Business Plus Launch Editorial on Reading Markets",
-        "excerpt": "For the launch of Maeil Business Plus, the writer says a request for a “War and Investing” editorial immediately brought Tolstoy’s “War and Peace” to mind.",
-        "body": "At the launch of Maeil Business Plus, the writer was asked to write an opening editorial titled “War and Investing” and said the first thought that came to mind was Leo Tolstoy’s “War and Peace.” The original article leads with the question of what investors should watch if they want to ride markets shaped by war. The context is the launch of Maeil Business Plus and the two keywords, war and investing. No specific market figures or stock information are presented, but the piece treats war not simply as an event, but as an important context investors face when interpreting markets. Through the literary association with war and peace, readers are led to reconsider the relationship between markets and investing. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "戦争と投資で読む毎経プラス創刊の巻頭文、市場を見る視点を問う",
-        "excerpt": "毎経プラス創刊にあたり、筆者は「戦争と投資」という巻頭文の依頼を受け、トルストイの『戦争と平和』を最初に思い浮かべたと述べた。",
-        "body": "毎経プラスの創刊にあたり、筆者は「戦争と投資」という題名で巻頭文を書いてほしいとの依頼を受け、その瞬間にまずレフ・トルストイの『戦争と平和』を思い浮かべたと明かした。原文は、戦争がつくる市場に乗るには何を見るべきかという問いを前面に出している。背景には毎経プラスの創刊と、戦争、投資という二つのキーワードがある。具体的な市場数値や銘柄情報は示されていないが、文章は戦争を単なる出来事ではなく、投資家が市場を解釈する際に向き合う重要な文脈として扱う。読者は戦争と平和という文学的連想を通じ、市場と投資の関係を改めて考えることになる。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "以战争与投资解读每日经济Plus创刊卷首语，追问市场观察法",
-        "excerpt": "每日经济Plus创刊之际，作者受邀撰写题为“战争与投资”的卷首语，并表示首先想到的是托尔斯泰的《战争与和平》。",
-        "body": "每日经济Plus创刊之际，作者受邀撰写题为“战争与投资”的卷首语，并表示那一刻最先想到的是列夫·托尔斯泰的《战争与和平》。原文以“若要搭上战争所塑造的市场，应当关注什么”这一问题开篇。其背景是每日经济Plus的创刊，以及战争、投资这两个关键词。文章没有提出具体市场数据或个股信息，但把战争视为投资者解读市场时需要面对的重要语境，而不只是单一事件。通过战争与和平这一文学联想，读者被引向重新思考市场与投资之间的关系。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Guerra e inversión marcan el editorial de lanzamiento de Maeil Business Plus",
-        "excerpt": "En el lanzamiento de Maeil Business Plus, el autor recibió el encargo de un editorial sobre “guerra e inversión” y recordó primero “Guerra y paz” de Tolstói.",
-        "body": "Con motivo del lanzamiento de Maeil Business Plus, el autor recibió la petición de escribir un editorial titulado “Guerra e inversión” y afirmó que lo primero que le vino a la mente fue “Guerra y paz”, de León Tolstói. El texto original plantea la pregunta de qué debe observarse para subirse a los mercados creados por la guerra. El contexto está en el lanzamiento de Maeil Business Plus y en dos palabras clave: guerra e inversión. No se presentan cifras concretas de mercado ni información sobre valores, pero el artículo trata la guerra no solo como un acontecimiento, sino como un contexto importante para los inversores al interpretar los mercados. A través de la asociación literaria entre guerra y paz, el lector vuelve a pensar la relación entre mercado e inversión. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Guerra e investimento orientam editorial de lançamento do Maeil Business Plus",
-        "excerpt": "No lançamento do Maeil Business Plus, o autor recebeu o pedido de escrever sobre “guerra e investimento” e lembrou primeiro de “Guerra e Paz”, de Tolstói.",
-        "body": "No lançamento do Maeil Business Plus, o autor recebeu o pedido de escrever um editorial intitulado “Guerra e investimento” e afirmou que a primeira ideia que lhe veio à mente foi “Guerra e Paz”, de Liev Tolstói. O texto original parte da pergunta sobre o que observar para acompanhar mercados criados pela guerra. O contexto é o lançamento do Maeil Business Plus e as duas palavras-chave, guerra e investimento. Não são apresentados números específicos de mercado nem informações sobre ações, mas o artigo trata a guerra não apenas como um evento, e sim como um contexto importante que investidores enfrentam ao interpretar mercados. Por meio da associação literária entre guerra e paz, o leitor é levado a repensar a relação entre mercado e investimento. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Krieg und Investieren prägen Leitartikel zum Start von Maeil Business Plus",
-        "excerpt": "Zum Start von Maeil Business Plus sollte der Autor einen Leitartikel zu „Krieg und Investieren“ schreiben und dachte zuerst an Tolstois „Krieg und Frieden“.",
-        "body": "Zum Start von Maeil Business Plus wurde der Autor gebeten, einen Leitartikel mit dem Titel „Krieg und Investieren“ zu schreiben. Er erklärte, dass ihm in diesem Moment zuerst Leo Tolstois „Krieg und Frieden“ eingefallen sei. Der Originaltext stellt die Frage voran, worauf man achten muss, wenn man an Märkten teilhaben will, die durch Krieg entstehen. Den Hintergrund bilden der Start von Maeil Business Plus sowie die beiden Schlüsselwörter Krieg und Investieren. Konkrete Marktzahlen oder Informationen zu einzelnen Titeln werden nicht genannt. Der Beitrag behandelt Krieg jedoch nicht nur als Ereignis, sondern als wichtigen Kontext, mit dem Anleger bei der Interpretation von Märkten konfrontiert sind. Über die literarische Verbindung von Krieg und Frieden wird der Leser dazu geführt, das Verhältnis von Markt und Investition neu zu bedenken. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Guerre et investissement cadrent l’éditorial de lancement de Maeil Business Plus",
-        "excerpt": "Pour le lancement de Maeil Business Plus, l’auteur dit avoir reçu une demande d’éditorial sur « guerre et investissement » et pensé à Tolstoï.",
-        "body": "À l’occasion du lancement de Maeil Business Plus, l’auteur a été invité à rédiger un éditorial intitulé « Guerre et investissement » et a indiqué que sa première pensée était allée à « Guerre et Paix » de Léon Tolstoï. Le texte original met en avant la question de ce qu’il faut observer pour prendre part aux marchés façonnés par la guerre. Le contexte repose sur le lancement de Maeil Business Plus et sur deux mots-clés, guerre et investissement. Aucun chiffre de marché précis ni information sur des titres n’est fourni, mais l’article traite la guerre non comme un simple événement, plutôt comme un contexte important auquel les investisseurs sont confrontés lorsqu’ils interprètent les marchés. Par l’association littéraire entre guerre et paix, le lecteur est amené à repenser le lien entre marché et investissement. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "الحرب والاستثمار يحددان افتتاحية إطلاق ماييل بيزنس بلس وقراءة الأسواق",
-        "excerpt": "مع إطلاق ماييل بيزنس بلس، قال الكاتب إنه طُلب منه إعداد افتتاحية بعنوان «الحرب والاستثمار»، فكان أول ما تبادر إلى ذهنه «الحرب والسلام» لتولستوي.",
-        "body": "بمناسبة إطلاق ماييل بيزنس بلس، طُلب من الكاتب إعداد افتتاحية بعنوان «الحرب والاستثمار»، وقال إن أول ما خطر بباله في تلك اللحظة كان رواية ليف تولستوي «الحرب والسلام». يطرح النص الأصلي سؤالا أساسيا: ما الذي ينبغي النظر إليه إذا أراد المستثمر مواكبة الأسواق التي تصنعها الحرب؟ وتتمثل الخلفية في إطلاق ماييل بيزنس بلس وفي كلمتين محوريتين هما الحرب والاستثمار. لا يقدم المقال أرقاما محددة عن السوق أو معلومات عن أسهم بعينها، لكنه يتعامل مع الحرب لا كحدث منفرد فقط، بل كسياق مهم يواجهه المستثمر عند تفسير الأسواق. ومن خلال الإحالة الأدبية إلى الحرب والسلام، يدعو النص القارئ إلى إعادة التفكير في العلاقة بين السوق والاستثمار. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "युद्ध और निवेश से मेइल बिजनेस प्लस के आरंभिक संपादकीय में बाजार पढ़ने का सवाल",
-        "excerpt": "मेइल बिजनेस प्लस के लॉन्च पर लेखक से “युद्ध और निवेश” शीर्षक से संपादकीय लिखने को कहा गया और उन्हें सबसे पहले टॉल्स्टॉय की “War and Peace” याद आई।",
-        "body": "मेइल बिजनेस प्लस के लॉन्च के अवसर पर लेखक से “युद्ध और निवेश” शीर्षक से आरंभिक संपादकीय लिखने का अनुरोध किया गया। लेखक ने कहा कि उस क्षण उनके मन में सबसे पहले लियो टॉल्स्टॉय की “War and Peace” आई। मूल लेख यह सवाल सामने रखता है कि युद्ध से बनने वाले बाजारों में शामिल होने के लिए क्या देखा जाना चाहिए। पृष्ठभूमि में मेइल बिजनेस प्लस का लॉन्च और युद्ध तथा निवेश ये दो प्रमुख शब्द हैं। लेख में बाजार के ठोस आंकड़े या किसी शेयर की जानकारी नहीं दी गई है, लेकिन युद्ध को केवल एक घटना नहीं, बल्कि बाजार को समझते समय निवेशक के सामने आने वाला महत्वपूर्ण संदर्भ माना गया है। युद्ध और शांति के साहित्यिक संकेत के जरिए पाठक बाजार और निवेश के संबंध पर फिर से विचार करता है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Perang dan Investasi Jadi Bingkai Editorial Peluncuran Maeil Business Plus",
-        "excerpt": "Saat Maeil Business Plus diluncurkan, penulis diminta membuat editorial “Perang dan Investasi” dan langsung teringat “War and Peace” karya Tolstoy.",
-        "body": "Pada peluncuran Maeil Business Plus, penulis diminta menulis editorial pembuka berjudul “Perang dan Investasi” dan mengatakan bahwa hal pertama yang terlintas adalah “War and Peace” karya Leo Tolstoy. Teks asli mengajukan pertanyaan tentang apa yang perlu dilihat jika ingin mengikuti pasar yang dibentuk oleh perang. Latar belakangnya adalah peluncuran Maeil Business Plus serta dua kata kunci, perang dan investasi. Tidak ada angka pasar tertentu atau informasi saham yang disajikan, tetapi artikel ini memperlakukan perang bukan sekadar peristiwa, melainkan konteks penting yang dihadapi investor saat menafsirkan pasar. Melalui asosiasi sastra antara perang dan perdamaian, pembaca diajak memikirkan kembali hubungan antara pasar dan investasi. Sumber: mk.co.kr"
       }
     }
   }
