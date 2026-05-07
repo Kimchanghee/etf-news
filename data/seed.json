@@ -1,5 +1,230 @@
 [
   {
+    "id": "4afb15b77583",
+    "slug": "상폐위기에-막판-주가-관리-시총-규정-회피성-거래-포착-206999",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-05-07T10:42:27.401Z",
+    "updatedAt": "2026-05-07T10:42:27.401Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/stock/12039485",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12039485",
+    "titleFingerprint": "17c5d349e33e7b5da5dc08287d87a3049efdc751",
+    "dedupKeys": [
+      "4afb15b775835e0bd242e26f9b03aee62c6e5c7f",
+      "17c5d349e33e7b5da5dc08287d87a3049efdc751",
+      "fd599a2d90d3b81027812e092aac6437e7ed5bf5"
+    ],
+    "imageUrl": "/images/articles/4afb15b77583.jpg",
+    "i18n": {
+      "ko": {
+        "title": "상장폐지 시총 요건 피하려 ‘막판 주가 관리’ 정황 포착",
+        "excerpt": "한국거래소 시장감시위원회가 강화된 상장폐지 시가총액 요건을 피하려 주가를 인위적으로 끌어올린 복수 정황을 포착했다.",
+        "body": "한국거래소 시장감시위원회는 강화된 상장폐지 시가총액 요건을 피하기 위해 일부 종목에서 주가를 인위적으로 끌어올린 것으로 보이는 복수의 정황을 포착했다. 이번 감시는 상장폐지 위기에 놓인 종목의 ‘막판 주가 관리’ 가능성을 겨냥한 것이다. 시장감시위원회는 6·3 지방선거를 앞두고 정치 테마주에 대해서도 집중 감시에 나섰다. 강화된 시가총액 규정을 회피하려는 거래가 확인될 경우 투자자 피해와 시장 신뢰 훼손 우려가 커질 수 있다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "KRX Flags Last-Minute Share Price Moves to Avoid Delisting Market Cap Rule",
+        "excerpt": "The Korea Exchange’s Market Oversight Committee detected multiple signs of artificial share price boosts to avoid tougher delisting market cap requirements.",
+        "body": "The Korea Exchange’s Market Oversight Committee has detected multiple signs that share prices may have been artificially lifted in some stocks to avoid strengthened delisting requirements based on market capitalization. The monitoring targets possible last-minute price management by companies at risk of delisting. The committee is also stepping up surveillance of political theme stocks ahead of the June 3 local elections. If trades aimed at evading the tougher market cap rule are confirmed, concerns may grow over investor harm and damage to market trust. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "上場廃止の時価総額基準回避へ終盤の株価管理疑いを捕捉",
+        "excerpt": "韓国取引所の市場監視委員会は、強化された上場廃止時価総額要件を避けるため株価を人為的に押し上げた複数の兆候を確認した。",
+        "body": "韓国取引所の市場監視委員会は、強化された上場廃止の時価総額要件を回避するため、一部銘柄で株価を人為的に引き上げたとみられる複数の兆候を捕捉した。今回の監視は、上場廃止の危機にある銘柄による「終盤の株価管理」の可能性を対象としている。委員会は6月3日の地方選挙を前に、政治テーマ株についても集中的な監視を進めている。時価総額規定を回避する取引が確認されれば、投資家被害と市場信頼の低下への懸念が高まる可能性がある。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "为规避退市市值要求，临近关口拉抬股价迹象被发现",
+        "excerpt": "韩国交易所市场监察委员会发现多项迹象，显示部分股票可能为规避更严格的退市市值要求而被人为拉高。",
+        "body": "韩国交易所市场监察委员会发现多项迹象，显示部分股票可能为规避强化后的退市市值要求而被人为拉高。此次监控针对的是面临退市风险的股票是否存在临近关口进行“股价管理”的可能。该委员会还在6月3日地方选举前，对政治主题股展开集中监察。若规避市值规定的交易被确认，投资者受损以及市场信任受损的担忧可能进一步上升。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "KRX detecta alzas de última hora para evitar regla de capitalización de exclusión",
+        "excerpt": "El comité de vigilancia de Korea Exchange detectó varios indicios de subidas artificiales de acciones para eludir requisitos más estrictos de exclusión por capitalización.",
+        "body": "El Comité de Vigilancia del Mercado de Korea Exchange detectó varios indicios de que algunas acciones habrían sido elevadas artificialmente para evitar los requisitos reforzados de exclusión por capitalización bursátil. La supervisión apunta a una posible gestión de precios de última hora en valores bajo riesgo de exclusión. El comité también intensifica el monitoreo de acciones temáticas políticas antes de las elecciones locales del 3 de junio. Si se confirman operaciones para eludir la norma de capitalización, podrían aumentar las preocupaciones por daños a inversores y a la confianza del mercado. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "KRX aponta altas de última hora para evitar regra de valor de mercado em deslistagem",
+        "excerpt": "O Comitê de Supervisão de Mercado da Korea Exchange detectou sinais de altas artificiais em ações para evitar exigências mais rígidas de valor de mercado para deslistagem.",
+        "body": "O Comitê de Supervisão de Mercado da Korea Exchange detectou vários indícios de que preços de algumas ações podem ter sido elevados artificialmente para evitar exigências reforçadas de deslistagem baseadas em valor de mercado. A vigilância mira possível gestão de preços de última hora em papéis sob risco de deslistagem. O comitê também intensifica a supervisão de ações temáticas políticas antes das eleições locais de 3 de junho. Se operações para contornar a regra de valor de mercado forem confirmadas, podem crescer preocupações com prejuízos a investidores e danos à confiança no mercado. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "KRX entdeckt späte Kursstützung zur Umgehung strengerer Delisting-Marktkapitalisierung",
+        "excerpt": "Der Marktüberwachungsausschuss der Korea Exchange stellte mehrere Hinweise fest, dass Aktienkurse künstlich erhöht wurden, um strengere Delisting-Regeln zur Marktkapitalisierung zu umgehen.",
+        "body": "Der Marktüberwachungsausschuss der Korea Exchange hat mehrere Hinweise entdeckt, dass Kurse einzelner Aktien künstlich angehoben worden sein könnten, um verschärfte Delisting-Anforderungen zur Marktkapitalisierung zu vermeiden. Die Überwachung richtet sich auf mögliche kurzfristige Kurssteuerung bei Titeln, denen ein Delisting droht. Zugleich verstärkt der Ausschuss vor den Kommunalwahlen am 3. Juni die Kontrolle politischer Themenaktien. Sollten Geschäfte zur Umgehung der Marktkapitalisierungsregel bestätigt werden, könnten Sorgen über Anlegerschäden und Vertrauensverluste am Markt zunehmen. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "La KRX repère des soutiens de cours tardifs pour éviter la règle de capitalisation",
+        "excerpt": "Le comité de surveillance de Korea Exchange a détecté plusieurs indices de hausses artificielles de cours visant à éviter des exigences de radiation plus strictes liées à la capitalisation.",
+        "body": "Le comité de surveillance du marché de Korea Exchange a détecté plusieurs indices laissant penser que les cours de certaines actions auraient été artificiellement relevés afin d’éviter les exigences renforcées de radiation fondées sur la capitalisation boursière. Cette surveillance vise une possible gestion de cours de dernière minute pour des valeurs menacées de radiation. Le comité renforce aussi son suivi des actions à thème politique avant les élections locales du 3 juin. Si des transactions destinées à contourner la règle de capitalisation sont confirmées, les craintes de préjudice pour les investisseurs et d’atteinte à la confiance du marché pourraient augmenter. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "بورصة كوريا ترصد دعما متأخرا للأسعار لتفادي شرط القيمة السوقية للشطب",
+        "excerpt": "رصدت لجنة مراقبة السوق في بورصة كوريا عدة مؤشرات على رفع مصطنع لأسعار أسهم بهدف تجنب متطلبات شطب أكثر صرامة مرتبطة بالقيمة السوقية.",
+        "body": "رصدت لجنة مراقبة السوق في بورصة كوريا عدة مؤشرات على أن أسعار بعض الأسهم ربما رُفعت بصورة مصطنعة لتجنب متطلبات الشطب المعززة القائمة على القيمة السوقية. وتستهدف المراقبة احتمال تنفيذ إدارة متأخرة للأسعار في أسهم مهددة بالشطب. كما تكثف اللجنة مراقبة الأسهم المرتبطة بالموضوعات السياسية قبل الانتخابات المحلية المقررة في 3 يونيو. وإذا تأكدت صفقات تهدف إلى الالتفاف على قاعدة القيمة السوقية، فقد تتزايد المخاوف من إضرار بالمستثمرين وتقويض الثقة في السوق. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "डीलिस्टिंग बाजार मूल्य नियम से बचने को आखिरी दौर की शेयर कीमत बढ़ोतरी पकड़ी गई",
+        "excerpt": "कोरिया एक्सचेंज की बाजार निगरानी समिति ने सख्त डीलिस्टिंग बाजार पूंजीकरण शर्तों से बचने के लिए शेयर कीमतों को कृत्रिम रूप से बढ़ाने के कई संकेत पकड़े।",
+        "body": "कोरिया एक्सचेंज की बाजार निगरानी समिति ने कई संकेत पकड़े हैं कि कुछ शेयरों की कीमतें मजबूत किए गए डीलिस्टिंग बाजार पूंजीकरण मानदंडों से बचने के लिए कृत्रिम रूप से बढ़ाई गई हो सकती हैं। यह निगरानी डीलिस्टिंग जोखिम वाले शेयरों में आखिरी दौर की कीमत प्रबंधन संभावना पर केंद्रित है। समिति 3 जून के स्थानीय चुनावों से पहले राजनीतिक थीम शेयरों पर भी निगरानी बढ़ा रही है। यदि बाजार पूंजीकरण नियम से बचने के उद्देश्य वाले सौदों की पुष्टि होती है, तो निवेशक नुकसान और बाजार भरोसे को चोट पहुंचने की चिंता बढ़ सकती है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "KRX Temukan Dugaan Penguatan Harga Saham Akhir untuk Hindari Aturan Delisting",
+        "excerpt": "Komite Pengawasan Pasar Korea Exchange menemukan beberapa indikasi kenaikan harga saham buatan untuk menghindari syarat delisting berbasis kapitalisasi pasar yang diperketat.",
+        "body": "Komite Pengawasan Pasar Korea Exchange menemukan beberapa indikasi bahwa harga sejumlah saham mungkin dinaikkan secara artifisial untuk menghindari persyaratan delisting berbasis kapitalisasi pasar yang diperketat. Pengawasan ini menargetkan kemungkinan pengelolaan harga saham pada tahap akhir di emiten yang terancam delisting. Komite juga meningkatkan pemantauan saham bertema politik menjelang pemilihan lokal 3 Juni. Jika transaksi untuk menghindari aturan kapitalisasi pasar terbukti, kekhawatiran atas kerugian investor dan rusaknya kepercayaan pasar dapat meningkat. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "82ccfdeb716a",
+    "slug": "반도체株-키옥시아에-꽂힌-일학개미-981261",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-05-07T10:41:30.743Z",
+    "updatedAt": "2026-05-07T10:41:30.743Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/stock/12039483",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12039483",
+    "titleFingerprint": "1088c602f78fd2ccd251b87a6cbd266079070088",
+    "dedupKeys": [
+      "82ccfdeb716a5ad4eac80de459ad2b6a25e3fc5c",
+      "1088c602f78fd2ccd251b87a6cbd266079070088",
+      "d543d4bb4c27e476758d0e4748e9a27d0fe19acb"
+    ],
+    "imageUrl": "/images/articles/82ccfdeb716a.jpg",
+    "i18n": {
+      "ko": {
+        "title": "키옥시아홀딩스에 몰린 일학개미, 일본 주식 13개월 만에 순매수 전환",
+        "excerpt": "국내 일본 증시 투자자, 이른바 일학개미가 지난달 13개월 만에 일본 주식을 순매수했다. AI 반도체 기대 속 키옥시아홀딩스 매수세가 두드러졌다.",
+        "body": "국내에서 일본 증시에 투자하는 개인 투자자, 이른바 일학개미들이 지난달 13개월 만에 순매수로 돌아섰다. 매수세의 중심에는 일본 낸드플래시 메모리 업체 키옥시아홀딩스가 있었다. 인공지능(AI) 반도체 훈풍이 이어지면서 반도체 관련주에 대한 관심이 커졌고, 키옥시아홀딩스에는 폭발적인 매수세가 몰린 것으로 전해졌다. 일본 증시를 바라보는 국내 투자자들의 흐름이 매도 우위에서 매수 우위로 바뀐 점도 주목된다. 향후 AI 반도체 업황과 일본 반도체주의 움직임이 일학개미 투자 흐름에 영향을 줄 전망이다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Kioxia Draws Korean Retail Buyers as Japan Stocks See Net Inflows",
+        "excerpt": "Korean retail investors in Japanese stocks turned net buyers last month for the first time in 13 months, led by strong demand for AI chip-linked Kioxia Holdings.",
+        "body": "Korean retail investors who buy Japanese equities, often called “Ilhak ants,” turned net buyers last month for the first time in 13 months. At the center of the buying was Kioxia Holdings, the Japanese NAND flash memory company. As momentum around artificial intelligence semiconductors continued, interest in chip-related shares grew, and Kioxia Holdings reportedly drew a surge of purchases. The shift is notable because Korean investors’ stance toward Japanese stocks moved from net selling to net buying. Future trends in AI semiconductor demand and Japanese chip shares are expected to influence these investors’ flows. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "キオクシアに韓国個人投資家が集中、日本株は13カ月ぶり買い越し",
+        "excerpt": "日本株に投資する韓国の個人投資家が先月、13カ月ぶりに買い越しへ転じた。AI半導体への期待を背景にキオクシアHDへの買いが目立った。",
+        "body": "日本株に投資する韓国の個人投資家、いわゆる「イルハクアリ」が先月、13カ月ぶりに買い越しへ転じた。買いの中心となったのは、日本のNAND型フラッシュメモリー企業であるキオクシアホールディングスだった。人工知能（AI）半導体を巡る追い風が続くなか、半導体関連株への関心が高まり、キオクシアHDには大きな買いが集まったとされる。韓国投資家の日本株に対する姿勢が売り優勢から買い優勢へ変わった点も注目される。今後はAI半導体市況と日本の半導体株の動きが投資資金の流れに影響しそうだ。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "铠侠吸引韩国散户，日本股票13个月来首次转为净买入",
+        "excerpt": "投资日本股市的韩国个人投资者上月13个月来首次转为净买入。在AI半导体热潮下，铠侠控股成为资金集中买入对象。",
+        "body": "投资日本股市的韩国个人投资者，即所谓“日学蚂蚁”，上月13个月来首次转为净买入。买入资金的核心是日本NAND闪存企业铠侠控股。随着人工智能（AI）半导体热潮延续，市场对半导体相关股票的关注升温，铠侠控股据称吸引了大量买盘。韩国投资者对日本股市的资金流向从净卖出转为净买入，这一点也受到关注。未来AI半导体景气度以及日本半导体股走势，预计将继续影响这些投资者的资金流。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Kioxia atrae a minoristas coreanos y Japón vuelve a compras netas",
+        "excerpt": "Los inversores minoristas coreanos en la bolsa japonesa pasaron el mes pasado a compras netas por primera vez en 13 meses, impulsados por Kioxia y el auge de chips de IA.",
+        "body": "Los inversores minoristas surcoreanos que invierten en acciones japonesas pasaron el mes pasado a compras netas por primera vez en 13 meses. El foco de esas compras fue Kioxia Holdings, fabricante japonés de memorias NAND flash. Con el impulso de los semiconductores vinculados a la inteligencia artificial (IA), creció el interés por los valores del sector, y Kioxia Holdings recibió una fuerte demanda compradora. También destaca el cambio de postura de estos inversores hacia el mercado japonés, de ventas netas a compras netas. La evolución del ciclo de semiconductores de IA y de las acciones japonesas del sector influirá en los próximos flujos. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Kioxia atrai varejo coreano e ações japonesas voltam a compras líquidas",
+        "excerpt": "Investidores coreanos em ações japonesas viraram compradores líquidos no mês passado pela primeira vez em 13 meses, com forte procura por Kioxia em meio ao tema de chips de IA.",
+        "body": "Investidores individuais sul-coreanos que aplicam na bolsa japonesa voltaram no mês passado a ser compradores líquidos pela primeira vez em 13 meses. O centro das compras foi a Kioxia Holdings, fabricante japonesa de memória NAND flash. Com o vento favorável dos semicondutores ligados à inteligência artificial (IA), aumentou o interesse por ações do setor, e a Kioxia Holdings teria recebido uma demanda intensa. A mudança de fluxo, de venda líquida para compra líquida, também chama atenção no mercado japonês. Daqui em diante, o ambiente para chips de IA e o desempenho das ações japonesas de semicondutores devem influenciar esses investidores. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Kioxia lockt koreanische Privatanleger: Japan-Aktien wieder netto gekauft",
+        "excerpt": "Koreanische Privatanleger in japanischen Aktien wurden im vergangenen Monat erstmals seit 13 Monaten wieder Nettokäufer, angeführt von starkem Interesse an Kioxia Holdings.",
+        "body": "Südkoreanische Privatanleger, die in japanische Aktien investieren, sind im vergangenen Monat erstmals seit 13 Monaten wieder zu Nettokäufern geworden. Im Mittelpunkt der Käufe stand Kioxia Holdings, ein japanischer Hersteller von NAND-Flash-Speichern. Der Rückenwind durch Halbleiter für künstliche Intelligenz (KI) verstärkte das Interesse an Chipwerten, und Kioxia Holdings zog Berichten zufolge besonders starke Käufe auf sich. Bemerkenswert ist auch der Stimmungswechsel gegenüber japanischen Aktien von Nettoverkäufen zu Nettokäufen. Künftig dürften die Lage bei KI-Halbleitern und die Kursbewegungen japanischer Chipaktien die Kapitalflüsse dieser Anleger beeinflussen. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Kioxia attire les particuliers coréens, les actions japonaises repassent achetées",
+        "excerpt": "Les investisseurs particuliers coréens sur les actions japonaises sont redevenus acheteurs nets le mois dernier, une première en 13 mois, portés par Kioxia et les puces IA.",
+        "body": "Les investisseurs particuliers sud-coréens qui placent leur argent sur le marché japonais sont redevenus acheteurs nets le mois dernier pour la première fois en 13 mois. Le mouvement s’est concentré sur Kioxia Holdings, fabricant japonais de mémoires flash NAND. Dans le sillage favorable des semi-conducteurs liés à l’intelligence artificielle (IA), l’intérêt pour les valeurs du secteur a augmenté, et Kioxia Holdings aurait attiré de forts achats. Le passage d’une position vendeuse nette à une position acheteuse nette sur les actions japonaises retient aussi l’attention. L’évolution du marché des puces IA et des valeurs japonaises de semi-conducteurs devrait peser sur les flux à venir. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "كيوكسيا تجذب المستثمرين الكوريين وأسهم اليابان تتحول لصافي شراء",
+        "excerpt": "تحول المستثمرون الأفراد الكوريون في الأسهم اليابانية الشهر الماضي إلى صافي شراء لأول مرة منذ 13 شهرا، بدعم من الإقبال على كيوكسيا وسط زخم رقائق الذكاء الاصطناعي.",
+        "body": "تحول المستثمرون الأفراد في كوريا الجنوبية الذين يستثمرون في سوق الأسهم اليابانية الشهر الماضي إلى صافي شراء للمرة الأولى منذ 13 شهرا. وكان محور الشراء شركة كيوكسيا هولدينغز اليابانية المتخصصة في ذاكرة NAND الفلاشية. ومع استمرار الزخم المرتبط بأشباه موصلات الذكاء الاصطناعي، زاد الاهتمام بأسهم قطاع الرقائق، وسجلت كيوكسيا هولدينغز إقبالا قويا على الشراء. ويبرز أيضا تغير اتجاه المستثمرين الكوريين تجاه الأسهم اليابانية من صافي بيع إلى صافي شراء. ومن المتوقع أن تؤثر أوضاع رقائق الذكاء الاصطناعي وحركة أسهم أشباه الموصلات اليابانية في تدفقات هؤلاء المستثمرين لاحقا. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "कियोक्सिया पर कोरियाई खुदरा निवेशकों का जोर, जापानी शेयरों में शुद्ध खरीद",
+        "excerpt": "जापानी शेयरों में निवेश करने वाले दक्षिण कोरियाई खुदरा निवेशक पिछले महीने 13 महीनों बाद शुद्ध खरीदार बने। AI चिप उत्साह के बीच कियोक्सिया होल्डिंग्स में खरीदारी प्रमुख रही।",
+        "body": "जापानी शेयर बाजार में निवेश करने वाले दक्षिण कोरियाई खुदरा निवेशक पिछले महीने 13 महीनों में पहली बार शुद्ध खरीदार बने। खरीदारी के केंद्र में जापान की NAND फ्लैश मेमोरी कंपनी कियोक्सिया होल्डिंग्स रही। कृत्रिम बुद्धिमत्ता (AI) से जुड़े सेमीकंडक्टर क्षेत्र में सकारात्मक माहौल जारी रहने से चिप-संबंधित शेयरों में रुचि बढ़ी, और कियोक्सिया होल्डिंग्स में भारी खरीदारी देखी गई। यह बदलाव इसलिए भी महत्वपूर्ण है कि जापानी शेयरों को लेकर कोरियाई निवेशकों का रुख शुद्ध बिकवाली से शुद्ध खरीदारी में बदला। आगे AI सेमीकंडक्टर बाजार और जापानी चिप शेयरों की चाल इन निवेश प्रवाहों को प्रभावित कर सकती है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Kioxia Diburu Investor Ritel Korea, Saham Jepang Kembali Net Buy",
+        "excerpt": "Investor ritel Korea Selatan di bursa Jepang bulan lalu beralih menjadi pembeli bersih untuk pertama kalinya dalam 13 bulan, dipimpin minat kuat pada Kioxia Holdings terkait tren chip AI.",
+        "body": "Investor individu Korea Selatan yang berinvestasi di pasar saham Jepang bulan lalu beralih menjadi pembeli bersih untuk pertama kalinya dalam 13 bulan. Pusat aksi beli tersebut adalah Kioxia Holdings, perusahaan Jepang pembuat memori NAND flash. Seiring berlanjutnya sentimen positif pada semikonduktor kecerdasan buatan (AI), minat terhadap saham terkait chip meningkat, dan Kioxia Holdings disebut menarik pembelian besar. Perubahan arus dari jual bersih menjadi beli bersih di saham Jepang juga menjadi perhatian. Ke depan, kondisi pasar semikonduktor AI dan pergerakan saham chip Jepang diperkirakan memengaruhi arus investasi para investor ini. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "193e8d683ddc",
+    "slug": "100-폭등-日반도체주에-꽂힌-일학개미13개월-만에-순매수-전환-150798",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-05-07T10:40:26.066Z",
+    "updatedAt": "2026-05-07T10:40:26.066Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/stock/12039626",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12039626",
+    "titleFingerprint": "12e74c614070c5030b101bcb72740ef71aa24956",
+    "dedupKeys": [
+      "193e8d683ddcaa9aedb9ffc29e0ab013c62f4f02",
+      "12e74c614070c5030b101bcb72740ef71aa24956",
+      "655113783ddbed6e205f45c9fee3d06603ec3384"
+    ],
+    "imageUrl": "/images/articles/193e8d683ddc.png",
+    "i18n": {
+      "ko": {
+        "title": "일학개미, 일본 반도체주 순매수 전환…키옥시아 97% 급등 주목",
+        "excerpt": "국내 투자자들이 지난달 일본 증시에서 13개월 만에 순매수로 돌아섰고, 키옥시아를 700만달러 순매수하며 AI용 eSSD 수요와 SK하이닉스 호실적에 반응했다.",
+        "body": "일본 증시에 투자하는 국내 투자자, 이른바 일학개미가 지난달 13개월 만에 순매수로 전환했다. 원문에 따르면 이들은 일본 반도체주 키옥시아를 한 달 동안 700만달러 순매수했다. 같은 기간 키옥시아 주가는 97% 상승해 투자자 관심을 끌었다. 배경에는 AI용 eSSD 수요 확대와 SK하이닉스의 호실적이 함께 거론됐다. 키옥시아가 반도체 업황 회복 기대와 맞물리면서 동조 매수세가 나타난 것으로 풀이된다. 일본 반도체주에 대한 국내 투자자의 매수 흐름이 이어질지는 관련 수요와 주요 반도체 기업 실적 흐름에 달려 있다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Korean Retail Investors Return to Net Buying in Japan Chip Stocks as Kioxia Jumps 97%",
+        "excerpt": "Korean investors turned net buyers in Japanese stocks last month for the first time in 13 months, buying $7 million of Kioxia amid AI eSSD demand and SK Hynix’s strong results.",
+        "body": "Korean retail investors in the Japanese stock market, often called “Ilhak ants,” turned net buyers last month for the first time in 13 months. According to the original report, they net purchased $7 million worth of Japanese semiconductor stock Kioxia over the month. During the same period, Kioxia’s share price rose 97%, drawing investor attention. The move was linked to demand for AI-use eSSDs and strong earnings from SK Hynix. Kioxia appears to have attracted related buying as expectations for a semiconductor recovery grew. Whether Korean buying of Japanese chip stocks continues will depend on related demand and earnings trends at major semiconductor companies. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "韓国個人、日本半導体株を13カ月ぶり買い越し…キオクシア97%高に注目",
+        "excerpt": "韓国の投資家は先月、日本株を13カ月ぶりに買い越し、キオクシアを700万ドル純買い。AI向けeSSD需要とSKハイニックス好決算に反応した。",
+        "body": "日本株に投資する韓国の個人投資家、いわゆる「イルハク個人」が先月、13カ月ぶりに買い越しに転じた。原文によると、投資家は日本の半導体株キオクシアを1カ月で700万ドル純買いした。同期間にキオクシア株は97%上昇し、投資家の関心を集めた。背景にはAI向けeSSD需要の拡大とSKハイニックスの好決算が挙げられた。キオクシアは半導体市況回復への期待と重なり、連動した買いを呼んだとみられる。日本半導体株への韓国投資家の買いが続くかは、関連需要と主要半導体企業の業績動向に左右される。出所: mk.co.kr"
+      },
+      "zh": {
+        "title": "韩国散户转向净买入日本半导体股，铠侠单月大涨97%受关注",
+        "excerpt": "韩国投资者上月时隔13个月转为净买入日本股市，并净买入铠侠700万美元，反映AI用eSSD需求和SK海力士业绩向好影响。",
+        "body": "投资日本股市的韩国个人投资者上月时隔13个月转为净买入。原文称，他们在一个月内净买入日本半导体股铠侠700万美元。同期铠侠股价上涨97%，引发投资者关注。其背景被提及为AI用eSSD需求扩大，以及SK海力士业绩表现良好。随着半导体行业复苏预期升温，铠侠出现了相关联的买盘。韩国投资者对日本半导体股的买入趋势能否延续，将取决于相关需求和主要半导体企业的业绩走势。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Inversores coreanos vuelven a comprar chips japoneses: Kioxia sube 97% en un mes",
+        "excerpt": "Los inversores coreanos pasaron el mes pasado a compras netas en Japón por primera vez en 13 meses y adquirieron $7 millones de Kioxia, impulsados por la demanda de eSSD para IA.",
+        "body": "Los inversores minoristas coreanos que invierten en la bolsa japonesa pasaron el mes pasado a compras netas por primera vez en 13 meses. Según el texto original, compraron en términos netos $7 millones de Kioxia, una acción japonesa de semiconductores, durante un mes. En el mismo periodo, la acción de Kioxia subió 97%, atrayendo la atención del mercado. El contexto citado fue la demanda de eSSD para IA y los buenos resultados de SK Hynix. Kioxia habría recibido compras relacionadas con las expectativas de recuperación del sector de semiconductores. La continuidad de las compras coreanas en chips japoneses dependerá de la demanda vinculada y de los resultados de las principales empresas del sector. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Investidores coreanos voltam a comprar chips japoneses; Kioxia sobe 97% no mês",
+        "excerpt": "Investidores coreanos viraram compradores líquidos na bolsa japonesa no mês passado, após 13 meses, e compraram US$ 7 milhões em Kioxia com demanda por eSSD para IA.",
+        "body": "Investidores individuais coreanos que aplicam na bolsa japonesa voltaram a ser compradores líquidos no mês passado, pela primeira vez em 13 meses. Segundo o texto original, eles compraram em termos líquidos US$ 7 milhões em Kioxia, ação japonesa de semicondutores, ao longo de um mês. No mesmo período, as ações da Kioxia subiram 97%, chamando atenção. O movimento foi relacionado à demanda por eSSD para IA e aos bons resultados da SK Hynix. A Kioxia teria atraído compras em sintonia com expectativas de recuperação do setor de semicondutores. A continuidade desse fluxo para ações japonesas de chips dependerá da demanda relacionada e dos resultados das principais empresas do setor. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Koreanische Anleger kaufen wieder Japans Chipaktien: Kioxia steigt 97% im Monat",
+        "excerpt": "Koreanische Anleger wurden im vergangenen Monat erstmals seit 13 Monaten Nettokäufer japanischer Aktien und kauften Kioxia für 7 Mio. Dollar wegen KI-eSSD-Nachfrage.",
+        "body": "Koreanische Privatanleger am japanischen Aktienmarkt sind im vergangenen Monat erstmals seit 13 Monaten wieder zu Nettokäufern geworden. Dem Originalbericht zufolge kauften sie innerhalb eines Monats Kioxia-Aktien im Wert von netto 7 Mio. Dollar. Im selben Zeitraum stieg der Kurs von Kioxia um 97% und zog damit Aufmerksamkeit auf sich. Als Hintergrund wurden die Nachfrage nach eSSDs für KI-Anwendungen und starke Ergebnisse von SK Hynix genannt. Kioxia profitierte offenbar von Käufen im Umfeld steigender Erwartungen an eine Erholung der Halbleiterbranche. Ob koreanische Anleger weiter japanische Chipaktien kaufen, hängt von der entsprechenden Nachfrage und den Ergebnissen großer Halbleiterunternehmen ab. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Les investisseurs coréens rachètent les puces japonaises, Kioxia bondit de 97%",
+        "excerpt": "Les investisseurs coréens sont redevenus acheteurs nets au Japon le mois dernier après 13 mois, avec 7 millions de dollars achetés sur Kioxia grâce à la demande d’eSSD pour l’IA.",
+        "body": "Les particuliers coréens investissant sur le marché japonais sont redevenus acheteurs nets le mois dernier pour la première fois en 13 mois. Selon le texte original, ils ont acheté pour 7 millions de dollars nets d’actions Kioxia, valeur japonaise des semi-conducteurs, sur un mois. Sur la même période, le titre Kioxia a progressé de 97%, attirant l’attention des investisseurs. Le contexte cité est la demande d’eSSD destinés à l’IA et les bons résultats de SK Hynix. Kioxia semble avoir bénéficié d’achats liés aux attentes de reprise du secteur des semi-conducteurs. La poursuite des achats coréens sur les valeurs japonaises des puces dépendra de la demande concernée et des résultats des grands groupes du secteur. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "المستثمرون الكوريون يعودون لشراء أسهم الرقائق اليابانية مع صعود كيوكسيا 97%",
+        "excerpt": "تحول المستثمرون الكوريون الشهر الماضي إلى صافي شراء في سوق اليابان لأول مرة منذ 13 شهرا، واشتروا كيوكسيا بـ7 ملايين دولار بدعم طلب eSSD للذكاء الاصطناعي.",
+        "body": "عاد المستثمرون الأفراد الكوريون في سوق الأسهم اليابانية الشهر الماضي إلى صافي الشراء لأول مرة منذ 13 شهرا. وبحسب النص الأصلي، اشتروا صافي 7 ملايين دولار من سهم كيوكسيا الياباني للرقائق خلال شهر واحد. وفي الفترة نفسها ارتفع سهم كيوكسيا 97%، ما جذب اهتمام المستثمرين. وذُكر أن الخلفية تشمل توسع الطلب على eSSD المخصصة للذكاء الاصطناعي والنتائج الجيدة لشركة SK Hynix. ويبدو أن كيوكسيا جذبت مشتريات مرتبطة بتوقعات تعافي قطاع أشباه الموصلات. استمرار شراء المستثمرين الكوريين لأسهم الرقائق اليابانية سيتوقف على الطلب المرتبط واتجاه أرباح كبرى شركات أشباه الموصلات. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "कोरियाई निवेशक जापानी चिप शेयरों में लौटे, Kioxia एक महीने में 97% उछला",
+        "excerpt": "कोरियाई निवेशक पिछले महीने 13 महीनों बाद जापानी शेयरों में नेट खरीदार बने और AI eSSD मांग व SK Hynix के अच्छे नतीजों के बीच Kioxia में 70 लाख डॉलर खरीदे।",
+        "body": "जापानी शेयर बाजार में निवेश करने वाले कोरियाई खुदरा निवेशक पिछले महीने 13 महीनों में पहली बार नेट खरीदार बने। मूल रिपोर्ट के अनुसार, उन्होंने एक महीने में जापानी सेमीकंडक्टर शेयर Kioxia में 70 लाख डॉलर की शुद्ध खरीदारी की। इसी अवधि में Kioxia का शेयर 97% चढ़ा और निवेशकों का ध्यान खींचा। इसके पीछे AI के लिए eSSD मांग और SK Hynix के अच्छे नतीजों का उल्लेख किया गया। सेमीकंडक्टर उद्योग में सुधार की उम्मीदों के साथ Kioxia में संबंधित खरीदारी दिखाई दी। जापानी चिप शेयरों में कोरियाई निवेशकों की खरीद जारी रहेगी या नहीं, यह संबंधित मांग और प्रमुख सेमीकंडक्टर कंपनियों के नतीजों पर निर्भर करेगा। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Investor Korea Kembali Beli Saham Chip Jepang, Kioxia Melonjak 97% Sebulan",
+        "excerpt": "Investor Korea bulan lalu menjadi pembeli bersih di bursa Jepang untuk pertama kalinya dalam 13 bulan dan membeli Kioxia US$7 juta seiring permintaan eSSD untuk AI.",
+        "body": "Investor ritel Korea yang berinvestasi di pasar saham Jepang bulan lalu beralih menjadi pembeli bersih untuk pertama kalinya dalam 13 bulan. Menurut teks asli, mereka membeli bersih saham semikonduktor Jepang Kioxia senilai US$7 juta dalam satu bulan. Pada periode yang sama, harga saham Kioxia naik 97% dan menarik perhatian investor. Latar belakangnya disebut terkait permintaan eSSD untuk AI dan kinerja kuat SK Hynix. Kioxia tampaknya mendapat arus beli yang sejalan dengan harapan pemulihan industri semikonduktor. Apakah pembelian investor Korea pada saham chip Jepang berlanjut akan bergantung pada permintaan terkait dan tren kinerja perusahaan semikonduktor utama. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
     "id": "9206b534e956",
     "slug": "반도체는-지금-담아도-늦지않다-128911",
     "channelId": "ETF",
@@ -4271,231 +4496,6 @@
         "title": "Mirae Asset Securities dan Taihan Fiberoptics Masuk Saham Golden Cross MK Signal",
         "excerpt": "MK Signal melaporkan melalui mk.co.kr bahwa Mirae Asset Securities (006800) dan Taihan Fiberoptics (010170) dianalisis sebagai saham Korea panas yang menembus golden cross.",
         "body": "Reporter AI “MK Signal” menyampaikan dalam laporan mk.co.kr bahwa Mirae Asset Securities (006800) dan Taihan Fiberoptics (010170) dianalisis sebagai saham Korea panas yang menembus golden cross. Konten ini berbentuk pengenalan saham yang menjadi isu hangat di pasar domestik dan menempatkan dua perusahaan tersebut sebagai objek utama analisis. Artikel asli menyebut Mirae Asset Securities dan Taihan Fiberoptics secara bersamaan sebagai saham yang menarik perhatian terkait golden cross. Investor perlu memahami bahwa laporan ini merupakan konten analisis saham serta memeriksa informasi asli bersama kondisi pasar. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "48d10bba9222",
-    "slug": "mk시그널-디케이티-it-oled-실적-견인-및-로봇-신사업-성장-등에-주가-상승세-k시그널-추천-후-상승률-141487",
-    "channelId": "ETF",
-    "category": "etf",
-    "publishedAt": "2026-05-06T19:41:34.796Z",
-    "updatedAt": "2026-05-06T19:41:34.796Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/stock/12037109",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12037109",
-    "titleFingerprint": "76c06c7ffa588bc11ba71ada705401a4159bebb6",
-    "dedupKeys": [
-      "48d10bba9222037270dd01f64ce2b22844d3b2eb",
-      "76c06c7ffa588bc11ba71ada705401a4159bebb6",
-      "9bfd5aa6e558efeb5f1fa0769a094416179141e1"
-    ],
-    "imageUrl": "/images/articles/48d10bba9222.png",
-    "i18n": {
-      "ko": {
-        "title": "디케이티 주가 상승세, IT OLED 실적·로봇 신사업 기대 부각",
-        "excerpt": "5월 6일 디케이티가 장 초반 27,200원에 거래되며 상승세를 보였다. IT OLED 실적 견인과 로봇 신사업 성장 요인이 주가 흐름의 배경으로 제시됐다.",
-        "body": "5월 6일 디케이티(290550) 주가가 장 초반 상승세를 보였다. 전 거래일 디케이티 주가는 종가 기준 26,550원 상승으로 마감했으며, 이날 오전 9시 12분 기준 현재가는 27,200원으로 전일 종가 대비 높은 수준을 나타냈다. 원문은 IT OLED 실적 견인과 로봇 신사업 성장 등이 주가 상승 배경으로 거론됐다고 전했다. 또한 K시그널 추천 이후 상승률은 18.25%를 기록한 것으로 제시됐다. 이번 흐름은 디케이티의 기존 IT OLED 사업 성과와 로봇 관련 신사업에 대한 시장 관심이 함께 반영된 사례로 읽힌다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "DKT Shares Rise as IT OLED Results and Robotics Business Draw Focus",
-        "excerpt": "On May 6, DKT traded at 27,200 won in early trading, extending its rise as IT OLED performance and growth in its new robotics business were cited as key factors.",
-        "body": "On May 6, DKT (290550) moved higher in early trading. The stock had closed the previous session at 26,550 won, and was trading at 27,200 won as of 9:12 a.m., above the prior close. The original report cited IT OLED earnings momentum and growth in the company’s new robotics business as factors behind the share-price move. It also stated that the stock had gained 18.25% after being recommended by K Signal. The move highlights market attention on both DKT’s existing IT OLED business performance and its robotics-related new business. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "ディケイティ株が上昇、IT OLED実績とロボット新事業に注目",
-        "excerpt": "5月6日、ディケイティは序盤に27,200ウォンで取引され上昇した。IT OLEDの業績けん引とロボット新事業の成長が背景として示された。",
-        "body": "5月6日、ディケイティ（290550）の株価が取引序盤に上昇した。前取引日のディケイティ株は終値基準で26,550ウォン上昇して引け、この日は午前9時12分時点で27,200ウォンと、前日終値を上回る水準で推移した。原文では、IT OLEDの業績けん引とロボット新事業の成長などが株価上昇の背景として挙げられた。また、Kシグナルの推奨後の上昇率は18.25％を記録したとされた。今回の動きは、既存のIT OLED事業の成果とロボット関連新事業への市場の関心がともに反映された事例といえる。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "DKT股价上涨，IT OLED业绩与机器人新业务受关注",
-        "excerpt": "5月6日，DKT早盘报27,200韩元并呈上涨走势。报道指出，IT OLED业绩带动及机器人新业务增长是股价走强背景。",
-        "body": "5月6日，DKT（290550）股价早盘上涨。前一交易日，DKT股价以收盘价26,550韩元上涨收盘；截至当天上午9时12分，现价为27,200韩元，高于前一日收盘水平。原文称，IT OLED业绩带动以及机器人新业务增长等因素被提及为股价上涨背景。同时，K Signal推荐后的涨幅被列为18.25%。这一走势显示，市场同时关注DKT既有IT OLED业务表现以及机器人相关新业务。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "DKT sube en bolsa por resultados de IT OLED y negocio de robótica",
-        "excerpt": "El 6 de mayo, DKT cotizaba a 27.200 wones en la apertura y mostraba una tendencia alcista, apoyada por el desempeño de IT OLED y el crecimiento del nuevo negocio robótico.",
-        "body": "El 6 de mayo, las acciones de DKT (290550) avanzaban en las primeras operaciones. En la sesión anterior, el valor cerró con una subida hasta 26.550 wones, y a las 9:12 a.m. cotizaba a 27.200 wones, por encima del cierre previo. El reporte original citó el impulso de los resultados de IT OLED y el crecimiento del nuevo negocio de robótica como factores detrás del movimiento de la acción. También señaló que, tras la recomendación de K Signal, el alza acumulada fue de 18,25%. El movimiento refleja la atención del mercado tanto al negocio existente de IT OLED de DKT como a su nueva actividad vinculada a la robótica. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Ações da DKT sobem com IT OLED e novo negócio de robótica em foco",
-        "excerpt": "Em 6 de maio, a DKT era negociada a 27.200 won no início do pregão, em alta, com desempenho de IT OLED e crescimento em robótica citados como fatores centrais.",
-        "body": "Em 6 de maio, as ações da DKT (290550) avançavam no início do pregão. No pregão anterior, o papel encerrou em alta, a 26.550 won, e às 9h12 era negociado a 27.200 won, acima do fechamento anterior. A reportagem original citou o impulso dos resultados de IT OLED e o crescimento do novo negócio de robótica como fatores ligados à valorização. Também informou que, após a recomendação da K Signal, a alta registrada foi de 18,25%. O movimento mostra a atenção do mercado ao desempenho do negócio existente de IT OLED da DKT e à sua nova frente relacionada à robótica. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "DKT-Aktie steigt: IT-OLED-Ergebnisse und Robotikgeschäft im Fokus",
-        "excerpt": "Am 6. Mai notierte DKT im frühen Handel bei 27.200 Won und zeigte Aufwärtstendenz. Als Gründe wurden IT-OLED-Ergebnisse und Wachstum im neuen Robotikgeschäft genannt.",
-        "body": "Am 6. Mai legte die Aktie von DKT (290550) im frühen Handel zu. In der vorangegangenen Sitzung hatte die Aktie mit einem Schlusskurs von 26.550 Won höher geschlossen; um 9:12 Uhr lag der aktuelle Kurs bei 27.200 Won und damit über dem vorherigen Schlussstand. Der Originalbericht nannte die Ergebnisdynamik im IT-OLED-Geschäft sowie das Wachstum des neuen Robotikgeschäfts als Faktoren für den Kursanstieg. Zudem wurde angegeben, dass die Aktie nach der Empfehlung von K Signal um 18,25% gestiegen sei. Die Bewegung zeigt das Marktinteresse an DKTs bestehendem IT-OLED-Geschäft und an der neuen Robotiksparte. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "DKT progresse en Bourse, porté par l’IT OLED et la robotique",
-        "excerpt": "Le 6 mai, DKT s’échangeait à 27 200 wons en début de séance, en hausse, avec les résultats IT OLED et la croissance du nouveau métier robotique cités en soutien.",
-        "body": "Le 6 mai, l’action DKT (290550) progressait en début de séance. Lors de la séance précédente, le titre avait clôturé en hausse à 26 550 wons, puis s’échangeait à 27 200 wons à 9 h 12, au-dessus du cours de clôture précédent. Le rapport original a cité la contribution des résultats de l’activité IT OLED et la croissance du nouveau métier de robotique comme facteurs du mouvement haussier. Il a également indiqué que la hausse depuis la recommandation de K Signal atteignait 18,25 %. Cette évolution reflète l’attention du marché portée à la fois aux performances de l’activité IT OLED de DKT et à son nouveau relais lié à la robotique. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "سهم DKT يرتفع مع إبراز أداء IT OLED ونشاط الروبوتات الجديد",
-        "excerpt": "في 6 مايو، تداول سهم DKT عند 27,200 وون في بداية الجلسة مرتفعا، مع الإشارة إلى أداء IT OLED ونمو نشاط الروبوتات الجديد كعاملين وراء الحركة.",
-        "body": "في 6 مايو، سجل سهم DKT (290550) ارتفاعا في التعاملات المبكرة. وكان السهم قد أغلق في الجلسة السابقة مرتفعا عند 26,550 وون، ثم بلغ سعره الحالي 27,200 وون عند الساعة 9:12 صباحا، أي فوق مستوى الإغلاق السابق. وذكر التقرير الأصلي أن زخم نتائج IT OLED ونمو نشاط الروبوتات الجديد كانا من العوامل المطروحة خلف صعود السهم. كما أشار إلى أن نسبة الارتفاع بعد توصية K Signal بلغت 18.25%. وتعكس هذه الحركة اهتمام السوق بأداء نشاط IT OLED القائم لدى DKT وبالنشاط الجديد المرتبط بالروبوتات. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "DKT शेयर चढ़ा, IT OLED प्रदर्शन और रोबोटिक्स नए कारोबार पर फोकस",
-        "excerpt": "6 मई को DKT शुरुआती कारोबार में 27,200 वॉन पर दिखा और बढ़त में रहा। IT OLED प्रदर्शन और रोबोटिक्स नए कारोबार की वृद्धि को प्रमुख कारण बताया गया।",
-        "body": "6 मई को DKT (290550) का शेयर शुरुआती कारोबार में बढ़त पर रहा। पिछले कारोबारी दिन DKT का शेयर 26,550 वॉन के बंद भाव पर बढ़त के साथ बंद हुआ था। सुबह 9:12 बजे इसका मौजूदा भाव 27,200 वॉन रहा, जो पिछले बंद स्तर से ऊपर था। मूल रिपोर्ट में IT OLED प्रदर्शन की मजबूती और रोबोटिक्स नए कारोबार की वृद्धि को शेयर की तेजी के कारणों में बताया गया। रिपोर्ट के अनुसार, K Signal की सिफारिश के बाद शेयर में 18.25% की बढ़त दर्ज की गई। यह रुझान DKT के मौजूदा IT OLED कारोबार और रोबोटिक्स से जुड़े नए कारोबार में बाजार की रुचि को दर्शाता है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Saham DKT Menguat, Kinerja IT OLED dan Bisnis Robotik Jadi Sorotan",
-        "excerpt": "Pada 6 Mei, DKT diperdagangkan di 27.200 won pada awal sesi dan bergerak naik, dengan kinerja IT OLED serta pertumbuhan bisnis robotik baru disebut sebagai pemicu.",
-        "body": "Pada 6 Mei, saham DKT (290550) menguat pada awal perdagangan. Pada sesi sebelumnya, saham DKT ditutup naik di level 26.550 won, sementara pada pukul 09.12 harga terkini berada di 27.200 won, di atas penutupan sebelumnya. Laporan asli menyebut dorongan kinerja IT OLED dan pertumbuhan bisnis baru di bidang robotik sebagai faktor di balik kenaikan harga saham. Disebutkan pula bahwa setelah rekomendasi K Signal, kenaikan yang tercatat mencapai 18,25%. Pergerakan ini menunjukkan perhatian pasar terhadap kinerja bisnis IT OLED DKT yang sudah berjalan serta bisnis baru terkait robotik. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "cf1b94cea2b8",
-    "slug": "1억으로-156억-만들었다증권가-전설이-된-섬소년-534749",
-    "channelId": "ETF",
-    "category": "etf",
-    "publishedAt": "2026-05-06T19:40:35.751Z",
-    "updatedAt": "2026-05-06T19:40:35.752Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/stock/12037620",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12037620",
-    "titleFingerprint": "ad7ef7e0dbf5d5be176da261d46f4aaf17f8317c",
-    "dedupKeys": [
-      "cf1b94cea2b87dcfa19e57e0b46f67a8c89e7175",
-      "ad7ef7e0dbf5d5be176da261d46f4aaf17f8317c",
-      "7b0efca38d56f43cf8758f7528ad8fb54c19bae8"
-    ],
-    "imageUrl": "/images/articles/cf1b94cea2b8.jpg",
-    "i18n": {
-      "ko": {
-        "title": "강방천 1억으로 156억 신화, 증권가 전설이 된 섬소년의 시작",
-        "excerpt": "매경플러스 ‘한국의 위대한 투자자’ 첫 주인공 강방천 에셋플러스자산운용 설립자가 1억을 156억으로 키운 투자 여정과 한국 투자업계 전설로 불리는 배경을 조명했다.",
-        "body": "강방천 에셋플러스자산운용 설립자가 매경플러스 ‘한국의 위대한 투자자’ 시리즈 첫 주인공으로 소개됐다. 원문은 ‘강방천 1편-전설의 시작’이라는 제목 아래, 섬소년에서 한국 투자업계의 살아 있는 전설로 불리게 된 그의 출발점을 다뤘다. 핵심 수치는 1억 원을 156억 원으로 키웠다는 기록이다. 이는 강방천이라는 이름이 증권가에서 상징처럼 회자되는 배경으로 제시됐다. 이번 기사는 개인 투자자의 성공담을 넘어 한국 자산운용업계에서 장기 투자자와 운용 철학이 어떻게 주목받아 왔는지를 보여준다. 향후 시리즈는 강방천의 투자 여정과 시장에서의 평가를 이어갈 것으로 보인다. 출처: mk.co.kr."
-      },
-      "en": {
-        "title": "Kang Bang-chun’s 100 Million Won to 15.6 Billion Won Legend Begins",
-        "excerpt": "MaeKyung Plus named AssetPlus founder Kang Bang-chun as the first subject of its “Great Korean Investors” series, spotlighting how he became a living legend in Korea’s investment industry.",
-        "body": "Kang Bang-chun, founder of AssetPlus Asset Management, was introduced as the first subject of MaeKyung Plus’s “Great Korean Investors” series. The original article, titled “Kang Bang-chun Part 1: The Beginning of a Legend,” looks at how a boy from an island came to be called a living legend in Korea’s investment industry. The central figure is his record of turning 100 million won into 15.6 billion won. That number is presented as a key reason his name became symbolic in the securities market. Beyond an individual success story, the article highlights how long-term investors and investment philosophy have drawn attention in Korea’s asset management sector. The series is expected to continue covering Kang’s investment journey and market reputation. Source: mk.co.kr."
-      },
-      "ja": {
-        "title": "姜方天氏、1億ウォンを156億ウォンにした証券街の伝説の始まり",
-        "excerpt": "毎経プラスは「韓国の偉大な投資家」シリーズ初回の主人公にアセットプラス資産運用創業者の姜方天氏を取り上げ、韓国投資業界で伝説と呼ばれる背景を紹介した。",
-        "body": "アセットプラス資産運用の創業者、姜方天氏が毎経プラス「韓国の偉大な投資家」シリーズの最初の主人公として紹介された。原文は「姜方天1編-伝説の始まり」という題名で、島の少年だった彼が韓国投資業界の生きた伝説と呼ばれるようになった出発点を扱った。中心となる数字は、1億ウォンを156億ウォンに増やしたという記録だ。これは姜方天という名前が証券街で象徴的に語られる背景として示された。記事は個人投資家の成功談にとどまらず、韓国の資産運用業界で長期投資家と運用哲学がどのように注目されてきたかを示している。今後のシリーズでは、姜氏の投資の歩みと市場での評価が続けて扱われる見通しだ。出典: mk.co.kr."
-      },
-      "zh": {
-        "title": "姜方天1亿韩元变156亿韩元，证券界传奇的起点",
-        "excerpt": "MaeKyung Plus“韩国伟大投资者”系列首位人物聚焦AssetPlus资产管理创始人姜方天，介绍其从1亿韩元做到156亿韩元并被称为韩国投资业传奇的背景。",
-        "body": "AssetPlus资产管理创始人姜方天被选为MaeKyung Plus“韩国伟大投资者”系列的首位主人公。原文以“姜方天第1篇-传奇的开始”为题，讲述这位出身岛屿的少年如何成为韩国投资业界口中的活着的传奇。核心数字是他将1亿韩元增至156亿韩元的记录。文章将这一数字作为姜方天之名在证券界被象征性提及的重要背景。报道并不只是个人投资成功故事，也显示韩国资产管理行业中长期投资者和投资哲学为何受到关注。后续系列预计将继续介绍姜方天的投资历程以及市场评价。来源: mk.co.kr."
-      },
-      "es": {
-        "title": "Kang Bang-chun: de 100 millones a 15.600 millones de wones",
-        "excerpt": "MaeKyung Plus eligió al fundador de AssetPlus, Kang Bang-chun, como primer protagonista de “Grandes inversores de Corea”, destacando el origen de su leyenda en la industria de inversión coreana.",
-        "body": "Kang Bang-chun, fundador de AssetPlus Asset Management, fue presentado como el primer protagonista de la serie “Grandes inversores de Corea” de MaeKyung Plus. El artículo original, titulado “Kang Bang-chun Parte 1: el comienzo de la leyenda”, aborda cómo un niño de una isla llegó a ser llamado una leyenda viva de la industria de inversión coreana. La cifra central es su historial de convertir 100 millones de wones en 15.600 millones de wones. Ese dato se presenta como una razón clave por la que su nombre se volvió simbólico en el mercado de valores. Más allá de una historia individual de éxito, el texto muestra cómo los inversores de largo plazo y la filosofía de gestión han recibido atención en la industria coreana de gestión de activos. La serie seguirá tratando su trayectoria inversora y su evaluación en el mercado. Fuente: mk.co.kr."
-      },
-      "pt": {
-        "title": "Kang Bang-chun: de 100 milhões a 15,6 bilhões de wones",
-        "excerpt": "A MaeKyung Plus escolheu Kang Bang-chun, fundador da AssetPlus, como primeiro personagem de “Grandes Investidores da Coreia”, destacando a origem de sua lenda no setor de investimentos coreano.",
-        "body": "Kang Bang-chun, fundador da AssetPlus Asset Management, foi apresentado como o primeiro personagem da série “Grandes Investidores da Coreia” da MaeKyung Plus. O artigo original, intitulado “Kang Bang-chun Parte 1: o início da lenda”, mostra como um menino de uma ilha passou a ser chamado de lenda viva da indústria de investimentos da Coreia. O número central é o registro de transformar 100 milhões de wones em 15,6 bilhões de wones. Esse dado é apresentado como uma razão importante para seu nome ser citado de forma simbólica no mercado de valores. Além de uma história individual de sucesso, a reportagem mostra como investidores de longo prazo e filosofias de gestão ganharam atenção no setor coreano de gestão de ativos. A série deve continuar acompanhando sua trajetória de investimento e sua avaliação pelo mercado. Fonte: mk.co.kr."
-      },
-      "de": {
-        "title": "Kang Bang-chun: Aus 100 Millionen Won wurden 15,6 Milliarden Won",
-        "excerpt": "MaeKyung Plus stellt AssetPlus-Gründer Kang Bang-chun als erste Person der Reihe “Große Investoren Koreas” vor und beleuchtet den Ursprung seines Rufs als Legende der koreanischen Investmentbranche.",
-        "body": "Kang Bang-chun, Gründer von AssetPlus Asset Management, wurde als erste Person der MaeKyung-Plus-Reihe “Große Investoren Koreas” vorgestellt. Der Originalartikel mit dem Titel “Kang Bang-chun Teil 1: Der Beginn einer Legende” beschreibt, wie ein Junge von einer Insel zu einer lebenden Legende der koreanischen Investmentbranche wurde. Im Zentrum steht die Zahl, dass er 100 Millionen Won auf 15,6 Milliarden Won vermehrte. Diese Angabe wird als wichtiger Grund genannt, warum sein Name am Wertpapiermarkt symbolisch verwendet wird. Über eine persönliche Erfolgsgeschichte hinaus zeigt der Beitrag, wie langfristige Investoren und Anlagephilosophien in Koreas Vermögensverwaltungsbranche Aufmerksamkeit erhielten. Die Reihe dürfte Kangs Investmentweg und seine Bewertung am Markt weiter behandeln. Quelle: mk.co.kr."
-      },
-      "fr": {
-        "title": "Kang Bang-chun, de 100 millions à 15,6 milliards de wons",
-        "excerpt": "MaeKyung Plus a choisi Kang Bang-chun, fondateur d’AssetPlus, comme premier portrait de sa série “Grands investisseurs coréens”, revenant sur l’origine de sa légende dans l’investissement coréen.",
-        "body": "Kang Bang-chun, fondateur d’AssetPlus Asset Management, a été présenté comme le premier protagoniste de la série “Grands investisseurs coréens” de MaeKyung Plus. L’article original, intitulé “Kang Bang-chun, partie 1: le début de la légende”, raconte comment un garçon originaire d’une île est devenu une légende vivante du secteur coréen de l’investissement. Le chiffre central est son parcours, qui aurait transformé 100 millions de wons en 15,6 milliards de wons. Cette donnée est présentée comme l’une des raisons pour lesquelles son nom est devenu symbolique dans le monde des valeurs mobilières. Au-delà d’une réussite individuelle, l’article montre comment les investisseurs de long terme et la philosophie de gestion ont attiré l’attention dans la gestion d’actifs coréenne. La série devrait poursuivre son parcours d’investisseur et son évaluation par le marché. Source: mk.co.kr."
-      },
-      "ar": {
-        "title": "كانغ بانغ تشون: من 100 مليون وون إلى 15.6 مليار وون",
-        "excerpt": "اختارت MaeKyung Plus مؤسس AssetPlus كانغ بانغ تشون أول شخصية في سلسلة “كبار المستثمرين في كوريا”، مسلطة الضوء على خلفية تحوله إلى أسطورة حية في قطاع الاستثمار الكوري.",
-        "body": "قدمت MaeKyung Plus كانغ بانغ تشون، مؤسس AssetPlus Asset Management، بوصفه أول شخصية في سلسلة “كبار المستثمرين في كوريا”. وتناول المقال الأصلي، بعنوان “كانغ بانغ تشون الجزء الأول: بداية الأسطورة”، كيف أصبح فتى من جزيرة يعرف بأنه أسطورة حية في قطاع الاستثمار الكوري. الرقم المحوري هو سجل تحويله 100 مليون وون إلى 15.6 مليار وون. ويعرض هذا الرقم كسبب رئيسي وراء تحول اسمه إلى رمز في سوق الأوراق المالية. ولا يقف المقال عند قصة نجاح فردية، بل يوضح كيف حظي المستثمرون طويلا الأجل وفلسفة إدارة الأصول بالاهتمام في كوريا. ومن المتوقع أن تواصل السلسلة تناول رحلة كانغ الاستثمارية وتقييم السوق له. المصدر: mk.co.kr."
-      },
-      "hi": {
-        "title": "कांग बैंग-चुन: 10 करोड़ वॉन से 1560 करोड़ वॉन तक की कहानी",
-        "excerpt": "MaeKyung Plus ने AssetPlus के संस्थापक कांग बैंग-चुन को “कोरिया के महान निवेशक” श्रृंखला का पहला चेहरा बनाया, जिसमें कोरियाई निवेश उद्योग में उनकी दिग्गज छवि की पृष्ठभूमि बताई गई।",
-        "body": "AssetPlus Asset Management के संस्थापक कांग बैंग-चुन को MaeKyung Plus की “कोरिया के महान निवेशक” श्रृंखला के पहले मुख्य पात्र के रूप में प्रस्तुत किया गया। मूल लेख, “कांग बैंग-चुन भाग 1: दिग्गज की शुरुआत”, बताता है कि एक द्वीप के लड़के को कोरिया के निवेश उद्योग की जीवित किंवदंती क्यों कहा जाने लगा। मुख्य संख्या 10 करोड़ वॉन को 1560 करोड़ वॉन में बदलने का उनका रिकॉर्ड है। लेख इसी आंकड़े को证券 बाजार में उनके नाम के प्रतीकात्मक रूप से चर्चित होने की पृष्ठभूमि के रूप में रखता है। यह केवल एक व्यक्तिगत सफलता कथा नहीं है, बल्कि दिखाता है कि कोरिया के परिसंपत्ति प्रबंधन क्षेत्र में दीर्घकालिक निवेशकों और निवेश दर्शन ने कैसे ध्यान खींचा। आगे की श्रृंखला में कांग की निवेश यात्रा और बाजार में उनके मूल्यांकन को जारी रखने की उम्मीद है। स्रोत: mk.co.kr."
-      },
-      "id": {
-        "title": "Kang Bang-chun: dari 100 juta won menjadi 15,6 miliar won",
-        "excerpt": "MaeKyung Plus memilih pendiri AssetPlus Kang Bang-chun sebagai tokoh pertama seri “Investor Hebat Korea”, menyoroti awal reputasinya sebagai legenda hidup industri investasi Korea.",
-        "body": "Kang Bang-chun, pendiri AssetPlus Asset Management, diperkenalkan sebagai tokoh pertama dalam seri “Investor Hebat Korea” dari MaeKyung Plus. Artikel asli berjudul “Kang Bang-chun Bagian 1: Awal Legenda” membahas bagaimana seorang anak dari pulau kemudian disebut sebagai legenda hidup di industri investasi Korea. Angka utama yang disorot adalah catatan mengubah 100 juta won menjadi 15,6 miliar won. Angka itu dipaparkan sebagai alasan penting mengapa nama Kang menjadi simbolis di kalangan pasar sekuritas. Lebih dari sekadar kisah sukses pribadi, artikel ini menunjukkan bagaimana investor jangka panjang dan filosofi pengelolaan aset mendapat perhatian di industri manajemen aset Korea. Seri berikutnya diperkirakan akan melanjutkan perjalanan investasi Kang dan penilaian pasar terhadapnya. Sumber: mk.co.kr."
-      }
-    }
-  },
-  {
-    "id": "cb20f018abdd",
-    "slug": "칠천피-경사에도여전히-싼-삼전닉스-나는-배고프다-주식-초고수는-지금-227677",
-    "channelId": "ETF",
-    "category": "etf",
-    "publishedAt": "2026-05-06T18:58:33.466Z",
-    "updatedAt": "2026-05-06T18:58:33.466Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/stock/12037152",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12037152",
-    "titleFingerprint": "8340c157253fd4ca3417d855368553cbf97d2f09",
-    "dedupKeys": [
-      "cb20f018abddf604fe783ad19832e777e0f02bce",
-      "8340c157253fd4ca3417d855368553cbf97d2f09",
-      "f4477e03f07db2d7a4ac5737dd362eaafd86953b"
-    ],
-    "imageUrl": "/images/articles/cb20f018abdd.png",
-    "i18n": {
-      "ko": {
-        "title": "삼성전자·SK하이닉스, ‘칠천피’에도 초고수 순매수 상위권",
-        "excerpt": "6일 오전 미래에셋증권 고수익 투자자들은 삼성전자, HD한국조선해양, SK하이닉스를 가장 많이 순매수하며 대형 반도체주와 조선주에 매수세를 보였다.",
-        "body": "6일 오전 미래에셋증권에서 거래하는 고수익 투자자들이 가장 많이 순매수한 종목은 삼성전자, HD한국조선해양, SK하이닉스 순으로 집계됐다. 원문은 ‘칠천피’로 표현된 증시 상승 분위기 속에서도 삼성전자와 SK하이닉스 등 이른바 ‘삼전닉스’에 대한 매수 관심이 이어졌다고 전했다. 미래에셋증권 자료에 따르면 순매수 상위권에는 대형 반도체주와 조선 대표주가 함께 이름을 올렸다. 이는 초고수 투자자들이 해당 종목들을 여전히 주목하고 있음을 보여준다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Samsung Electronics and SK Hynix Lead Top Investor Net Buying List",
-        "excerpt": "On the morning of May 6, high-return investors trading through Mirae Asset Securities most actively net bought Samsung Electronics, HD Korea Shipbuilding & Offshore Engineering and SK Hynix.",
-        "body": "On the morning of May 6, the stocks most heavily net bought by high-return investors trading through Mirae Asset Securities were Samsung Electronics, HD Korea Shipbuilding & Offshore Engineering and SK Hynix, in that order. The original report said buying interest in Samsung Electronics and SK Hynix continued even amid a strong market mood described as the “7,000-point KOSPI” rally. According to Mirae Asset Securities data, major semiconductor names and a leading shipbuilding stock appeared together near the top of the net-buying list. The ranking shows that top-performing investors were still paying close attention to these shares. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "サムスン電子・SKハイニックス、上昇相場でも熟練投資家が買い越し",
-        "excerpt": "6日午前、未来アセット証券で取引する高収益投資家は、サムスン電子、HD韓国造船海洋、SKハイニックスを最も多く買い越した。",
-        "body": "6日午前、未来アセット証券で取引する高収益投資家が最も多く買い越した銘柄は、サムスン電子、HD韓国造船海洋、SKハイニックスの順だった。原文は、「七千ピ」と表現される株式市場の上昇ムードの中でも、サムスン電子とSKハイニックスへの買い関心が続いたと伝えた。未来アセット証券の資料によると、買い越し上位には大型半導体株と代表的な造船株がともに入った。この順位は、超上級投資家がこれらの銘柄に引き続き注目していることを示している。出所: mk.co.kr"
-      },
-      "zh": {
-        "title": "三星电子与SK海力士在上涨行情中仍获高手投资者净买入",
-        "excerpt": "6日上午，未来资产证券高收益投资者净买入最多的股票依次为三星电子、HD韩国造船海洋和SK海力士，显示对半导体与造船龙头的关注。",
-        "body": "6日上午，通过未来资产证券交易的高收益投资者净买入最多的股票依次为三星电子、HD韩国造船海洋和SK海力士。原文称，即便在被称为“七千点KOSPI”的股市上涨氛围中，投资者对三星电子和SK海力士的买入兴趣仍在延续。根据未来资产证券资料，净买入排名前列同时出现了大型半导体股和代表性造船股。这一排名显示，顶尖投资者仍在关注这些股票。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Samsung Electronics y SK Hynix destacan en compras netas de inversores expertos",
-        "excerpt": "La mañana del 6 de mayo, inversores de alta rentabilidad en Mirae Asset Securities compraron netamente sobre todo Samsung Electronics, HD Korea Shipbuilding y SK Hynix.",
-        "body": "La mañana del 6 de mayo, los valores más comprados en términos netos por inversores de alta rentabilidad que operan en Mirae Asset Securities fueron Samsung Electronics, HD Korea Shipbuilding & Offshore Engineering y SK Hynix, en ese orden. El informe original señaló que el interés comprador por Samsung Electronics y SK Hynix continuó incluso en un ambiente bursátil alcista descrito como el “KOSPI de 7.000 puntos”. Según datos de Mirae Asset Securities, entre los primeros puestos aparecieron grandes acciones de semiconductores y una representante del sector naval. La lista muestra que los inversores más expertos siguen atentos a esos valores. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Samsung Electronics e SK Hynix lideram compras líquidas de investidores experientes",
-        "excerpt": "Na manhã de 6 de maio, investidores de alta rentabilidade da Mirae Asset Securities mais compraram Samsung Electronics, HD Korea Shipbuilding e SK Hynix em termos líquidos.",
-        "body": "Na manhã de 6 de maio, as ações mais compradas em termos líquidos por investidores de alta rentabilidade que operam pela Mirae Asset Securities foram Samsung Electronics, HD Korea Shipbuilding & Offshore Engineering e SK Hynix, nessa ordem. A reportagem original afirmou que o interesse de compra por Samsung Electronics e SK Hynix continuou mesmo em meio ao clima de alta do mercado descrito como o “KOSPI de 7.000 pontos”. Segundo dados da Mirae Asset Securities, grandes nomes de semicondutores e uma representante do setor de construção naval apareceram juntos no topo da lista. O ranking indica que investidores altamente qualificados seguem atentos a essas ações. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Samsung Electronics und SK Hynix bei Top-Investoren weiter stark gefragt",
-        "excerpt": "Am Morgen des 6. Mai kauften renditestarke Anleger bei Mirae Asset Securities netto vor allem Samsung Electronics, HD Korea Shipbuilding & Offshore Engineering und SK Hynix.",
-        "body": "Am Morgen des 6. Mai waren Samsung Electronics, HD Korea Shipbuilding & Offshore Engineering und SK Hynix die Aktien, die renditestarke Anleger bei Mirae Asset Securities netto am stärksten kauften. Der Originalbericht schrieb, dass das Kaufinteresse an Samsung Electronics und SK Hynix auch in einer Marktstimmung anhielt, die als „7.000-Punkte-KOSPI“ beschrieben wurde. Nach Angaben von Mirae Asset Securities standen damit große Halbleiterwerte und ein führender Schiffbauwert gemeinsam weit oben auf der Nettokaufliste. Die Rangfolge zeigt, dass besonders erfolgreiche Anleger diese Aktien weiterhin im Blick haben. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Samsung Electronics et SK Hynix restent prisés par les investisseurs experts",
-        "excerpt": "Le matin du 6 mai, les investisseurs à haut rendement de Mirae Asset Securities ont surtout acheté net Samsung Electronics, HD Korea Shipbuilding et SK Hynix.",
-        "body": "Le matin du 6 mai, les titres les plus achetés net par les investisseurs à haut rendement opérant via Mirae Asset Securities étaient Samsung Electronics, HD Korea Shipbuilding & Offshore Engineering et SK Hynix, dans cet ordre. L’article original indique que l’intérêt acheteur pour Samsung Electronics et SK Hynix s’est poursuivi malgré un climat boursier haussier décrit comme un “KOSPI à 7 000 points”. Selon les données de Mirae Asset Securities, de grandes valeurs des semi-conducteurs et un acteur majeur de la construction navale figuraient ensemble en tête des achats nets. Ce classement montre que les investisseurs les plus performants continuent de surveiller ces actions. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "سامسونغ إلكترونيكس وSK هاينكس ضمن أكبر مشتريات المستثمرين المحترفين",
-        "excerpt": "صباح 6 مايو، سجّل مستثمرو العوائد المرتفعة عبر ميراى أسيت سيكيوريتيز أكبر صافي شراء في سامسونغ إلكترونيكس وHD كوريا لبناء السفن وSK هاينكس.",
-        "body": "صباح 6 مايو، جاءت الأسهم الأكثر شراء صافيا من جانب مستثمري العوائد المرتفعة المتداولين عبر ميراى أسيت سيكيوريتيز بالترتيب: سامسونغ إلكترونيكس، وHD كوريا لبناء السفن والهندسة البحرية، وSK هاينكس. وذكر التقرير الأصلي أن الاهتمام الشرائي بسامسونغ إلكترونيكس وSK هاينكس استمر رغم أجواء صعود السوق التي وُصفت بعبارة “كوسبي عند 7000 نقطة”. ووفقا لبيانات ميراى أسيت سيكيوريتيز، ضمت المراتب الأولى أسهما كبرى في أشباه الموصلات وسهما بارزا في بناء السفن. ويظهر التصنيف أن المستثمرين الأعلى أداء ما زالوا يراقبون هذه الأسهم. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "Samsung Electronics और SK Hynix शीर्ष निवेशकों की नेट खरीद सूची में आगे",
-        "excerpt": "6 मई की सुबह Mirae Asset Securities के उच्च-रिटर्न निवेशकों ने Samsung Electronics, HD Korea Shipbuilding और SK Hynix में सबसे अधिक नेट खरीदारी की।",
-        "body": "6 मई की सुबह Mirae Asset Securities के जरिए कारोबार करने वाले उच्च-रिटर्न निवेशकों ने जिन शेयरों में सबसे अधिक नेट खरीदारी की, वे क्रमशः Samsung Electronics, HD Korea Shipbuilding & Offshore Engineering और SK Hynix रहे। मूल रिपोर्ट के अनुसार, “7,000-पॉइंट KOSPI” जैसे मजबूत बाजार माहौल के बावजूद Samsung Electronics और SK Hynix में खरीदारी की रुचि जारी रही। Mirae Asset Securities के आंकड़ों के मुताबिक, नेट खरीदारी की ऊपरी सूची में बड़े सेमीकंडक्टर शेयरों के साथ एक प्रमुख शिपबिल्डिंग शेयर भी शामिल रहा। यह रैंकिंग दिखाती है कि शीर्ष निवेशक इन शेयरों पर अब भी ध्यान दे रहे हैं। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Samsung Electronics dan SK Hynix Masuk Teratas Pembelian Bersih Investor Ahli",
-        "excerpt": "Pada pagi 6 Mei, investor berimbal hasil tinggi di Mirae Asset Securities paling banyak membeli bersih Samsung Electronics, HD Korea Shipbuilding, dan SK Hynix.",
-        "body": "Pada pagi 6 Mei, saham yang paling banyak dibeli bersih oleh investor berimbal hasil tinggi yang bertransaksi melalui Mirae Asset Securities adalah Samsung Electronics, HD Korea Shipbuilding & Offshore Engineering, dan SK Hynix, secara berurutan. Laporan asli menyebut minat beli pada Samsung Electronics dan SK Hynix tetap berlanjut meski pasar berada dalam suasana kenaikan yang disebut sebagai “KOSPI 7.000 poin”. Menurut data Mirae Asset Securities, saham semikonduktor besar dan saham utama sektor galangan kapal sama-sama masuk jajaran teratas pembelian bersih. Peringkat ini menunjukkan investor berperforma tinggi masih mencermati saham-saham tersebut. Sumber: mk.co.kr"
       }
     }
   }
