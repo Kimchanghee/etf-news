@@ -1,5 +1,230 @@
 [
   {
+    "id": "3faf81e3ae3b",
+    "slug": "주유소-기름값-6주-연속-상승종전-기대감-속-하락-전환할까-698914",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-05-08T22:37:19.003Z",
+    "updatedAt": "2026-05-08T22:37:19.003Z",
+    "sourceName": "yna.co.kr",
+    "sourceUrl": "https://www.yna.co.kr/view/AKR20260508159400003",
+    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260508159400003",
+    "titleFingerprint": "c6a8e7679fd7cd91ab59cb47748d03d756f9af6e",
+    "dedupKeys": [
+      "3faf81e3ae3b0a576b7099bfb3ff8704d67b0434",
+      "c6a8e7679fd7cd91ab59cb47748d03d756f9af6e",
+      "d399a5e7976334f539d517428c3c991a3d60fba8"
+    ],
+    "imageUrl": "/images/articles/3faf81e3ae3b.jpg",
+    "i18n": {
+      "ko": {
+        "title": "주유소 기름값 6주 연속 상승, 종전 기대감 속 하락 전환 주목",
+        "excerpt": "연합뉴스에 따르면 이번 주 국내 주유소 휘발유와 경유의 주간 평균 가격이 6주 연속 함께 상승했으며, 종전 기대감 속 향후 하락 전환 여부가 주목된다.",
+        "body": "이번 주 국내 주유소에서 판매되는 휘발유와 경유의 주간 평균 가격이 6주 연속 동반 상승했다. 연합뉴스가 전한 보도에 따르면 서울발 기사에서 김민지 기자는 국내 주유소 기름값 흐름이 다시 오름세를 이어갔다고 밝혔다. 이번 상승은 휘발유와 경유가 같은 기간 함께 오른 점에서 소비자 부담과 운송비 흐름에 영향을 줄 수 있는 가격 지표로 주목된다. 다만 원문 제목은 종전 기대감 속에서 향후 하락 전환 가능성에도 관심이 모인다고 전했다. 구체적인 가격 수치나 변동 폭은 제공된 원문 요약에 포함되지 않았다. 출처: yna.co.kr"
+      },
+      "en": {
+        "title": "Korean Gas Station Fuel Prices Rise for Sixth Week as Reversal Is Watched",
+        "excerpt": "According to Yonhap, weekly average gasoline and diesel prices at South Korean gas stations rose together for a sixth straight week, drawing attention to whether they may turn lower amid hopes for an end to the war.",
+        "body": "Weekly average prices of gasoline and diesel sold at South Korean gas stations rose together for the sixth consecutive week. In a Seoul-datelined report, Yonhap News Agency said reporter Kim Min-ji noted that domestic gas station fuel prices continued their upward trend. The simultaneous increase in both gasoline and diesel is being watched as a price indicator that may affect consumer costs and transportation expenses. The original headline also pointed to interest in whether prices could shift downward amid expectations for an end to the war. Specific price levels or the scale of the changes were not included in the provided source summary. Source: yna.co.kr"
+      },
+      "ja": {
+        "title": "韓国ガソリンスタンド燃料価格が6週連続上昇、下落転換に注目",
+        "excerpt": "聯合ニュースによると、今週の韓国国内ガソリンスタンドのガソリンと軽油の週間平均価格は6週連続でそろって上昇し、終戦期待の中で下落転換するかが注目されている。",
+        "body": "今週、韓国国内のガソリンスタンドで販売されるガソリンと軽油の週間平均価格が6週連続でそろって上昇した。聯合ニュースのソウル発記事によると、キム・ミンジ記者は国内ガソリンスタンドの燃料価格が再び上昇基調を続けたと伝えた。ガソリンと軽油が同じ期間にともに上がった点は、消費者負担や輸送費の流れに影響し得る価格指標として注目される。一方、原文の見出しは終戦期待の中で今後下落に転じる可能性にも関心が集まるとした。具体的な価格水準や変動幅は提供された要約には含まれていない。出典: yna.co.kr"
+      },
+      "zh": {
+        "title": "韩国加油站油价连续6周上涨，停战预期下能否转跌受关注",
+        "excerpt": "据韩联社报道，本周韩国国内加油站汽油和柴油周均价格连续第6周同步上涨，在停战预期之下，后续是否转为下跌受到关注。",
+        "body": "本周，韩国国内加油站销售的汽油和柴油周均价格连续第6周同步上涨。韩联社首尔报道称，记者金敏智指出，韩国加油站油价走势再次延续升势。汽油和柴油在同一时期共同上涨，使其成为可能影响消费者负担和运输成本走势的价格指标，因而受到关注。不过，原文标题也提到，在停战预期之下，市场关注未来油价是否可能转为下跌。提供的原文摘要中未包含具体价格水平或涨幅数据。来源: yna.co.kr"
+      },
+      "es": {
+        "title": "Precios de combustible en Corea suben por sexta semana y se vigila giro a la baja",
+        "excerpt": "Según Yonhap, los precios semanales promedio de la gasolina y el diésel en las estaciones de servicio de Corea del Sur subieron juntos por sexta semana consecutiva, mientras se observa si podrían bajar ante expectativas de fin de la guerra.",
+        "body": "Esta semana, los precios semanales promedio de la gasolina y el diésel vendidos en estaciones de servicio de Corea del Sur subieron juntos por sexta semana consecutiva. En una nota fechada en Seúl, la agencia Yonhap informó que la periodista Kim Min-ji señaló que los precios internos del combustible en gasolineras mantuvieron nuevamente una tendencia alcista. El avance simultáneo de gasolina y diésel se considera un indicador de precios que puede influir en la carga de los consumidores y en los costos de transporte. El titular original también destacó la atención sobre una posible reversión a la baja ante expectativas de fin de la guerra. El resumen proporcionado no incluyó niveles de precios ni variaciones concretas. Fuente: yna.co.kr"
+      },
+      "pt": {
+        "title": "Combustíveis na Coreia sobem pela 6ª semana e possível queda é observada",
+        "excerpt": "Segundo a Yonhap, os preços médios semanais da gasolina e do diesel nos postos da Coreia do Sul subiram juntos pela sexta semana seguida, enquanto se observa uma possível virada para queda em meio a expectativas de fim da guerra.",
+        "body": "Nesta semana, os preços médios semanais da gasolina e do diesel vendidos em postos da Coreia do Sul subiram juntos pela sexta semana consecutiva. Em reportagem de Seul, a agência Yonhap informou que a repórter Kim Min-ji apontou que os preços domésticos dos combustíveis nos postos mantiveram novamente a trajetória de alta. A elevação simultânea de gasolina e diesel é acompanhada como um indicador de preços que pode afetar o peso sobre consumidores e os custos de transporte. O título original também indicou atenção à possibilidade de queda futura em meio a expectativas de fim da guerra. O resumo fornecido não trouxe valores específicos nem a dimensão das variações. Fonte: yna.co.kr"
+      },
+      "de": {
+        "title": "Südkoreas Tankstellenpreise steigen sechs Wochen in Folge, Wende im Blick",
+        "excerpt": "Laut Yonhap stiegen die wöchentlichen Durchschnittspreise für Benzin und Diesel an südkoreanischen Tankstellen zum sechsten Mal in Folge gemeinsam; nun wird beobachtet, ob sie angesichts von Erwartungen auf ein Kriegsende fallen könnten.",
+        "body": "In dieser Woche sind die wöchentlichen Durchschnittspreise für Benzin und Diesel an südkoreanischen Tankstellen zum sechsten Mal in Folge gemeinsam gestiegen. In einem Bericht aus Seoul teilte die Nachrichtenagentur Yonhap mit, Reporter Kim Min-ji habe darauf hingewiesen, dass die inländischen Kraftstoffpreise an Tankstellen ihren Aufwärtstrend fortsetzten. Der gleichzeitige Anstieg von Benzin und Diesel gilt als Preisindikator, der Verbraucherbelastung und Transportkosten beeinflussen kann. Die ursprüngliche Überschrift verwies zudem auf die Frage, ob die Preise angesichts von Erwartungen auf ein Kriegsende künftig nach unten drehen könnten. Konkrete Preise oder Veränderungsraten enthielt die bereitgestellte Zusammenfassung nicht. Quelle: yna.co.kr"
+      },
+      "fr": {
+        "title": "Carburants en Corée du Sud: sixième semaine de hausse, baisse à surveiller",
+        "excerpt": "Selon Yonhap, les prix moyens hebdomadaires de l’essence et du diesel dans les stations-service sud-coréennes ont augmenté ensemble pour la sixième semaine consécutive, tandis qu’une éventuelle baisse est observée sur fond d’espoirs de fin de guerre.",
+        "body": "Cette semaine, les prix moyens hebdomadaires de l’essence et du diesel vendus dans les stations-service sud-coréennes ont augmenté ensemble pour la sixième semaine consécutive. Dans une dépêche datée de Séoul, l’agence Yonhap a rapporté que la journaliste Kim Min-ji indiquait que les prix domestiques des carburants en station poursuivaient leur tendance haussière. La progression simultanée de l’essence et du diesel est suivie comme un indicateur pouvant peser sur les consommateurs et les coûts de transport. Le titre original soulignait aussi l’attention portée à une possible baisse future dans un contexte d’espoirs de fin de guerre. Le résumé fourni ne contenait pas de niveaux de prix ni d’ampleur de variation précis. Source: yna.co.kr"
+      },
+      "ar": {
+        "title": "أسعار الوقود في كوريا ترتفع للأسبوع السادس وترقب لاحتمال الهبوط",
+        "excerpt": "بحسب يونهاب، ارتفع متوسط أسعار البنزين والديزل الأسبوعي في محطات الوقود بكوريا الجنوبية معا للأسبوع السادس على التوالي، وسط ترقب ما إذا كانت ستتحول إلى الانخفاض مع آمال نهاية الحرب.",
+        "body": "ارتفع متوسط الأسعار الأسبوعي للبنزين والديزل المباعين في محطات الوقود بكوريا الجنوبية معا للأسبوع السادس على التوالي هذا الأسبوع. وذكرت وكالة يونهاب في تقرير من سيول أن الصحفية كيم مين-جي أشارت إلى أن أسعار الوقود المحلية في المحطات واصلت اتجاهها الصعودي. ويجذب الارتفاع المتزامن في البنزين والديزل الانتباه بوصفه مؤشرا سعريا قد يؤثر في أعباء المستهلكين وتكاليف النقل. كما أشار العنوان الأصلي إلى الاهتمام بإمكان تحول الأسعار إلى الانخفاض لاحقا وسط آمال بانتهاء الحرب. ولم يتضمن الملخص المقدم مستويات سعرية محددة أو حجم التغيرات. المصدر: yna.co.kr"
+      },
+      "hi": {
+        "title": "कोरिया में पेट्रोल पंप ईंधन कीमतें छठे सप्ताह बढ़ीं, गिरावट पर नजर",
+        "excerpt": "योनहाप के अनुसार, इस सप्ताह दक्षिण कोरिया के पेट्रोल पंपों पर पेट्रोल और डीजल की साप्ताहिक औसत कीमतें लगातार छठे सप्ताह साथ बढ़ीं, जबकि युद्ध समाप्ति की उम्मीदों के बीच संभावित गिरावट पर ध्यान है।",
+        "body": "इस सप्ताह दक्षिण कोरिया के पेट्रोल पंपों पर बिकने वाले पेट्रोल और डीजल की साप्ताहिक औसत कीमतें लगातार छठे सप्ताह साथ-साथ बढ़ीं। सियोल से प्रकाशित योनहाप की रिपोर्ट में पत्रकार किम मिन-जी ने बताया कि घरेलू पेट्रोल पंप ईंधन कीमतों में तेजी का रुझान फिर जारी रहा। पेट्रोल और डीजल दोनों का एक ही अवधि में बढ़ना ऐसा मूल्य संकेतक है, जो उपभोक्ताओं के बोझ और परिवहन लागत की दिशा को प्रभावित कर सकता है। मूल शीर्षक में यह भी कहा गया कि युद्ध समाप्ति की उम्मीदों के बीच आगे कीमतों के गिरावट की ओर मुड़ने पर भी ध्यान है। उपलब्ध कराए गए सारांश में具体 कीमतें या बदलाव की मात्रा शामिल नहीं थी। स्रोत: yna.co.kr"
+      },
+      "id": {
+        "title": "Harga BBM SPBU Korea Naik 6 Pekan, Arah Turun Kini Jadi Sorotan",
+        "excerpt": "Menurut Yonhap, harga rata-rata mingguan bensin dan diesel di SPBU Korea Selatan naik bersamaan selama enam pekan berturut-turut, sementara kemungkinan berbalik turun di tengah harapan berakhirnya perang menjadi perhatian.",
+        "body": "Pekan ini, harga rata-rata mingguan bensin dan diesel yang dijual di SPBU Korea Selatan naik bersamaan untuk pekan keenam berturut-turut. Dalam laporan dari Seoul, Yonhap menyebut reporter Kim Min-ji menyampaikan bahwa harga BBM domestik di SPBU kembali melanjutkan tren kenaikan. Kenaikan serentak bensin dan diesel menjadi indikator harga yang dapat memengaruhi beban konsumen serta arah biaya transportasi. Namun, judul asli juga menyoroti perhatian pada kemungkinan harga berbalik turun ke depan di tengah harapan berakhirnya perang. Ringkasan sumber yang diberikan tidak memuat angka harga spesifik atau besaran perubahan. Sumber: yna.co.kr"
+      }
+    }
+  },
+  {
+    "id": "345b80968d9e",
+    "slug": "신상잇슈-매일유업-엠즈씨드-폴바셋-한정판-머그컵하림-치킨왕라면-360081",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-05-08T22:36:16.134Z",
+    "updatedAt": "2026-05-08T22:36:16.134Z",
+    "sourceName": "yna.co.kr",
+    "sourceUrl": "https://www.yna.co.kr/view/AKR20260508068000030",
+    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260508068000030",
+    "titleFingerprint": "1be39da20e70036c8d581976162e31275cdaa238",
+    "dedupKeys": [
+      "345b80968d9e5c0f4e8a071328ee19428e73843a",
+      "1be39da20e70036c8d581976162e31275cdaa238",
+      "258a31da726e514333ba51600ae854aa3ebd195c"
+    ],
+    "imageUrl": "/images/articles/345b80968d9e.jpg",
+    "i18n": {
+      "ko": {
+        "title": "폴 바셋 한정판 머그컵 2종 출시, 하림 치킨왕라면도 신상잇슈에 등장",
+        "excerpt": "매일유업 관계사 엠즈씨드가 운영하는 폴 바셋은 소일베이커와 협업한 한정판 머그컵 2종을 선보였고, 하림 치킨왕라면도 신제품 소식에 포함됐다.",
+        "body": "매일유업 관계사 엠즈씨드가 운영하는 커피 브랜드 폴 바셋은 테이블 웨어 브랜드 소일베이커와 협업해 한정판 머그컵 2종을 출시했다. 이번 제품은 폴 바셋과 소일베이커의 협업 상품으로 소개됐으며, 신제품을 다루는 ‘신상잇슈’ 소식에는 하림의 치킨왕라면도 함께 언급됐다. 한정판 머그컵은 브랜드 협업을 통해 소비자 접점을 넓히는 상품으로, 치킨왕라면은 라면 제품군의 새 소식으로 제시됐다. 관련 내용은 yna.co.kr이 전한 신제품 기사에 따른 것이다."
+      },
+      "en": {
+        "title": "Paul Bassett Launches Two Limited Mugs as Harim Chicken King Ramen Joins New Product Roundup",
+        "excerpt": "Paul Bassett, operated by Maeil Dairies affiliate M’s Seed, introduced two limited-edition mugs with Soil Baker, while Harim’s Chicken King Ramen was also listed in new product news.",
+        "body": "Paul Bassett, the coffee brand operated by M’s Seed, an affiliate of Maeil Dairies, has released two limited-edition mugs in collaboration with tableware brand Soil Baker. The products were presented as a Paul Bassett and Soil Baker collaboration, while Harim’s Chicken King Ramen was also mentioned in the same new product roundup. The mugs highlight a brand collaboration aimed at expanding consumer touchpoints, and Chicken King Ramen was introduced as new ramen-related product news. The information is based on a new product report from yna.co.kr."
+      },
+      "ja": {
+        "title": "ポール・バセット限定マグ2種発売、ハリムのチキン王ラーメンも新商品欄に登場",
+        "excerpt": "毎日乳業の関係会社エムズシードが運営するポール・バセットは、ソイルベーカーと協業した限定マグカップ2種を発売し、ハリムのチキン王ラーメンも新商品情報に含まれた。",
+        "body": "毎日乳業の関係会社エムズシードが運営するコーヒーブランド、ポール・バセットは、テーブルウェアブランドのソイルベーカーと協業し、限定版マグカップ2種を発売した。今回の商品はポール・バセットとソイルベーカーのコラボ商品として紹介され、新商品を扱う「新상잇슈」のニュースにはハリムのチキン王ラーメンもあわせて言及された。限定マグはブランド協業を通じて消費者との接点を広げる商品で、チキン王ラーメンはラーメン関連の新情報として示された。内容はyna.co.krの新商品記事に基づく。"
+      },
+      "zh": {
+        "title": "Paul Bassett推出两款限量马克杯，Harim鸡王拉面也入选新品消息",
+        "excerpt": "每日乳业关联公司M’s Seed运营的Paul Bassett与餐具品牌Soil Baker合作推出两款限量马克杯，Harim鸡王拉面也出现在新品报道中。",
+        "body": "每日乳业关联公司M’s Seed运营的咖啡品牌Paul Bassett与餐具品牌Soil Baker合作，推出两款限量版马克杯。该产品被介绍为Paul Bassett与Soil Baker的合作商品，而在同一则聚焦新品的“新上热点”消息中，Harim鸡王拉面也被一并提及。限量马克杯体现了品牌通过合作扩大消费者接触点的做法，鸡王拉面则作为拉面品类的新产品消息出现。相关内容依据yna.co.kr发布的新品报道。"
+      },
+      "es": {
+        "title": "Paul Bassett lanza dos tazas limitadas y Harim Chicken King Ramen aparece entre novedades",
+        "excerpt": "Paul Bassett, operada por M’s Seed, filial de Maeil Dairies, presentó dos tazas de edición limitada con Soil Baker; Harim Chicken King Ramen también figuró en las noticias de nuevos productos.",
+        "body": "Paul Bassett, la marca de café operada por M’s Seed, afiliada de Maeil Dairies, lanzó dos tazas de edición limitada en colaboración con la marca de vajilla Soil Baker. Los productos fueron presentados como una colaboración entre Paul Bassett y Soil Baker, mientras que Harim Chicken King Ramen también fue mencionado en la misma sección de novedades. Las tazas limitadas muestran una colaboración de marca para ampliar puntos de contacto con consumidores, y Chicken King Ramen fue citado como noticia dentro de la categoría de ramen. La información se basa en un reporte de nuevos productos de yna.co.kr."
+      },
+      "pt": {
+        "title": "Paul Bassett lança duas canecas limitadas e Harim Chicken King Ramen entra nas novidades",
+        "excerpt": "A Paul Bassett, operada pela M’s Seed, afiliada da Maeil Dairies, lançou duas canecas limitadas com a Soil Baker; o Harim Chicken King Ramen também apareceu nas notícias de novos produtos.",
+        "body": "A Paul Bassett, marca de café operada pela M’s Seed, afiliada da Maeil Dairies, lançou duas canecas de edição limitada em colaboração com a marca de utensílios de mesa Soil Baker. Os itens foram apresentados como uma colaboração entre Paul Bassett e Soil Baker, enquanto o Harim Chicken King Ramen também foi citado na mesma rodada de novos produtos. As canecas limitadas destacam uma parceria de marca para ampliar pontos de contato com consumidores, e o Chicken King Ramen foi apresentado como novidade na categoria de ramen. As informações se baseiam em reportagem de novos produtos da yna.co.kr."
+      },
+      "de": {
+        "title": "Paul Bassett bringt zwei limitierte Becher heraus, Harim Chicken King Ramen ebenfalls genannt",
+        "excerpt": "Paul Bassett, betrieben von Maeil-Dairies-Tochter M’s Seed, stellte mit Soil Baker zwei limitierte Becher vor; auch Harim Chicken King Ramen wurde in den Produktneuheiten erwähnt.",
+        "body": "Paul Bassett, die von M’s Seed, einer verbundenen Gesellschaft von Maeil Dairies, betriebene Kaffeemarke, hat in Zusammenarbeit mit der Tischwarenmarke Soil Baker zwei limitierte Becher herausgebracht. Die Produkte wurden als Kooperation von Paul Bassett und Soil Baker vorgestellt; in derselben Übersicht neuer Produkte wurde auch Harim Chicken King Ramen erwähnt. Die limitierten Becher stehen für eine Markenkooperation zur Erweiterung von Verbraucherkontakten, während Chicken King Ramen als Neuigkeit im Ramen-Segment genannt wurde. Die Angaben beruhen auf einem Bericht zu neuen Produkten von yna.co.kr."
+      },
+      "fr": {
+        "title": "Paul Bassett lance deux mugs limités, Harim Chicken King Ramen cité parmi les nouveautés",
+        "excerpt": "Paul Bassett, exploité par M’s Seed, société liée à Maeil Dairies, a présenté deux mugs limités avec Soil Baker; Harim Chicken King Ramen figure aussi dans l’actualité des nouveaux produits.",
+        "body": "Paul Bassett, marque de café exploitée par M’s Seed, société affiliée à Maeil Dairies, a lancé deux mugs en édition limitée en collaboration avec la marque d’arts de la table Soil Baker. Ces produits ont été présentés comme une collaboration entre Paul Bassett et Soil Baker, tandis que Harim Chicken King Ramen a également été mentionné dans la même rubrique consacrée aux nouveautés. Les mugs limités illustrent une coopération de marque visant à élargir les points de contact avec les consommateurs, et Chicken King Ramen a été cité comme nouvelle information dans la catégorie ramen. Ces éléments proviennent d’un article de yna.co.kr."
+      },
+      "ar": {
+        "title": "بول باسيت تطلق كوبين محدودين وهاريم تشيكن كينغ رامن يظهر ضمن أخبار المنتجات الجديدة",
+        "excerpt": "أطلقت بول باسيت، التي تديرها M’s Seed التابعة لماييل ديريز، كوبين محدودي الإصدار بالتعاون مع Soil Baker، كما ورد ذكر هاريم تشيكن كينغ رامن ضمن أخبار المنتجات الجديدة.",
+        "body": "أطلقت علامة القهوة بول باسيت، التي تديرها M’s Seed التابعة لشركة ماييل ديريز، كوبين محدودي الإصدار بالتعاون مع علامة أدوات المائدة Soil Baker. وقد قُدمت المنتجات بوصفها ثمرة تعاون بين بول باسيت وSoil Baker، بينما ورد ذكر هاريم تشيكن كينغ رامن أيضا في التقرير نفسه الخاص بالمنتجات الجديدة. تبرز الأكواب المحدودة تعاون العلامات التجارية لتوسيع نقاط التواصل مع المستهلكين، في حين طُرح تشيكن كينغ رامن كخبر جديد ضمن فئة الرامن. وتستند المعلومات إلى تقرير منتجات جديدة نشره yna.co.kr."
+      },
+      "hi": {
+        "title": "Paul Bassett ने दो लिमिटेड मग लॉन्च किए, Harim Chicken King Ramen भी नए उत्पादों में शामिल",
+        "excerpt": "Maeil Dairies की संबद्ध M’s Seed द्वारा संचालित Paul Bassett ने Soil Baker के साथ दो लिमिटेड एडिशन मग पेश किए, जबकि Harim Chicken King Ramen भी नए उत्पाद समाचार में शामिल रहा।",
+        "body": "Maeil Dairies की संबद्ध कंपनी M’s Seed द्वारा संचालित कॉफी ब्रांड Paul Bassett ने टेबलवेयर ब्रांड Soil Baker के साथ सहयोग में दो लिमिटेड एडिशन मग लॉन्च किए। इन उत्पादों को Paul Bassett और Soil Baker की साझेदारी के रूप में पेश किया गया, जबकि इसी नए उत्पाद राउंडअप में Harim Chicken King Ramen का भी उल्लेख हुआ। लिमिटेड मग ब्रांड सहयोग के जरिए उपभोक्ताओं तक पहुंच बढ़ाने वाले उत्पाद के रूप में सामने आए, और Chicken King Ramen को रेमन श्रेणी की नई खबर के रूप में रखा गया। यह जानकारी yna.co.kr की नए उत्पादों पर प्रकाशित रिपोर्ट पर आधारित है।"
+      },
+      "id": {
+        "title": "Paul Bassett Rilis Dua Mug Terbatas, Harim Chicken King Ramen Masuk Kabar Produk Baru",
+        "excerpt": "Paul Bassett, yang dioperasikan M’s Seed afiliasi Maeil Dairies, meluncurkan dua mug edisi terbatas bersama Soil Baker; Harim Chicken King Ramen juga masuk dalam kabar produk baru.",
+        "body": "Paul Bassett, merek kopi yang dioperasikan oleh M’s Seed, afiliasi Maeil Dairies, merilis dua mug edisi terbatas hasil kolaborasi dengan merek perlengkapan meja Soil Baker. Produk ini diperkenalkan sebagai kolaborasi Paul Bassett dan Soil Baker, sementara Harim Chicken King Ramen juga disebut dalam rangkuman produk baru yang sama. Mug terbatas tersebut menunjukkan kolaborasi merek untuk memperluas titik kontak dengan konsumen, sedangkan Chicken King Ramen disajikan sebagai kabar baru di kategori ramen. Informasi ini berdasarkan laporan produk baru dari yna.co.kr."
+      }
+    }
+  },
+  {
+    "id": "b726ef7fbcbe",
+    "slug": "고용-호조에-반도체-랠리까지sp500나스닥-또-최고치-뉴욕증시-브리핑-841551",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-05-08T22:35:22.107Z",
+    "updatedAt": "2026-05-08T22:35:22.107Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/2026050953407",
+    "canonicalUrl": "https://www.hankyung.com/article/2026050953407",
+    "titleFingerprint": "9f021214b493678deecf11b942a36e6c87e7740d",
+    "dedupKeys": [
+      "b726ef7fbcbed248a0814bc8f52610db265d7448",
+      "9f021214b493678deecf11b942a36e6c87e7740d",
+      "0f0b67e5319147f44cf408fab7a7840095d86a37"
+    ],
+    "imageUrl": "/images/articles/b726ef7fbcbe.jpg",
+    "i18n": {
+      "ko": {
+        "title": "고용 호조·반도체 랠리에 S&P500·나스닥 또 최고치",
+        "excerpt": "미국 뉴욕증시에서 고용 호조와 반도체주 랠리가 맞물리며 S&P500과 나스닥이 다시 사상 최고치를 기록했다고 한국경제가 전했다.",
+        "body": "미국 뉴욕증시에서 고용 호조와 반도체주 랠리가 동시에 부각되며 S&P500지수와 나스닥지수가 또다시 최고치를 기록했다. 한국경제 보도에 따르면 투자자들은 견조한 고용 흐름을 경기 둔화 우려를 낮추는 요인으로 받아들였고, 반도체 관련 종목의 강세가 기술주 중심 지수 상승을 이끌었다. 이번 흐름은 고용 지표와 반도체 업종 투자심리가 뉴욕증시의 핵심 동력으로 작용했음을 보여준다. 다만 원문에 구체적인 지수 상승률이나 종목별 수치는 제시되지 않았다. 출처: hankyung.com"
+      },
+      "en": {
+        "title": "S&P 500 and Nasdaq Hit Fresh Highs on Jobs Strength, Chip Rally",
+        "excerpt": "The S&P 500 and Nasdaq reached new highs in New York trading as solid employment momentum and a semiconductor rally lifted investor sentiment, Hankyung reported.",
+        "body": "In the New York stock market, strong employment conditions and a rally in semiconductor shares combined to push the S&P 500 and Nasdaq to fresh record highs. According to Hankyung, investors viewed the resilient jobs backdrop as a factor easing concerns over an economic slowdown, while strength in chip-related stocks helped drive gains in technology-heavy indexes. The move shows that labor-market momentum and sentiment toward the semiconductor sector were key forces behind the latest advance. The original report did not provide specific index gains or stock-by-stock figures. Source: hankyung.com"
+      },
+      "ja": {
+        "title": "雇用堅調と半導体ラリーでS&P500・ナスダックが再び最高値",
+        "excerpt": "米ニューヨーク市場で雇用の堅調さと半導体株のラリーが重なり、S&P500とナスダックが再び最高値を付けたと韓国経済が報じた。",
+        "body": "米ニューヨーク株式市場では、雇用の堅調さと半導体株のラリーが同時に注目され、S&P500指数とナスダック指数が再び最高値を記録した。韓国経済の報道によると、投資家は底堅い雇用動向を景気減速への懸念を和らげる要因として受け止め、半導体関連銘柄の強さがハイテク株中心の指数上昇を主導した。今回の動きは、雇用指標と半導体セクターへの投資心理がニューヨーク市場の主要な推進力となったことを示している。ただし原文では、具体的な指数上昇率や個別銘柄の数値は示されていない。出典: hankyung.com"
+      },
+      "zh": {
+        "title": "就业强劲叠加半导体上涨，S&P500与纳指再创新高",
+        "excerpt": "韩国经济报道称，纽约股市在就业表现强劲和半导体股上涨带动下，S&P500指数与纳斯达克指数再次创下历史新高。",
+        "body": "在纽约股市，强劲的就业表现与半导体股上涨同时受到关注，推动S&P500指数和纳斯达克指数再次创下新高。据韩国经济报道，投资者将稳健的就业走势视为缓解经济放缓担忧的因素，而半导体相关股票走强则带动了以科技股为主的指数上涨。这一走势显示，就业指标和半导体行业投资情绪成为纽约股市最新上涨的核心动力。不过，原文未提供具体指数涨幅或个股数据。来源: hankyung.com"
+      },
+      "es": {
+        "title": "S&P 500 y Nasdaq marcan nuevos máximos por empleo firme y chips",
+        "excerpt": "El S&P 500 y el Nasdaq volvieron a máximos en Nueva York, impulsados por la fortaleza del empleo y el rally de semiconductores, informó Hankyung.",
+        "body": "En la Bolsa de Nueva York, la solidez del empleo y el rally de las acciones de semiconductores se combinaron para llevar al S&P 500 y al Nasdaq a nuevos máximos. Según Hankyung, los inversores interpretaron la firmeza del mercado laboral como un factor que reduce las preocupaciones por una desaceleración económica, mientras que el avance de los valores vinculados a chips impulsó los índices con mayor peso tecnológico. El movimiento muestra que los datos de empleo y el sentimiento hacia el sector de semiconductores actuaron como motores clave del mercado. El reporte original no incluyó alzas específicas de índices ni cifras por acción. Fuente: hankyung.com"
+      },
+      "pt": {
+        "title": "S&P 500 e Nasdaq renovam máximas com emprego forte e alta dos chips",
+        "excerpt": "O S&P 500 e o Nasdaq voltaram a máximas em Nova York, apoiados por emprego sólido e pelo rali de semicondutores, informou o Hankyung.",
+        "body": "Na Bolsa de Nova York, a força do emprego e o rali das ações de semicondutores se combinaram para levar o S&P 500 e o Nasdaq a novas máximas. Segundo o Hankyung, os investidores viram a resiliência do mercado de trabalho como um fator que reduz temores de desaceleração econômica, enquanto a alta dos papéis ligados a chips impulsionou os índices com maior peso em tecnologia. O movimento mostra que os dados de emprego e o sentimento em relação ao setor de semicondutores foram motores centrais da alta recente. A reportagem original não apresentou percentuais específicos de avanço dos índices nem números por ação. Fonte: hankyung.com"
+      },
+      "de": {
+        "title": "S&P 500 und Nasdaq erreichen neue Hochs dank Jobstärke und Chip-Rally",
+        "excerpt": "Der S&P 500 und der Nasdaq stiegen in New York erneut auf Rekordstände, gestützt durch robuste Beschäftigung und eine Halbleiter-Rally, berichtete Hankyung.",
+        "body": "An der New Yorker Börse haben robuste Beschäftigungssignale und eine Rally bei Halbleiterwerten den S&P 500 und den Nasdaq erneut auf Höchststände getrieben. Laut Hankyung werteten Anleger die stabile Lage am Arbeitsmarkt als Faktor, der Sorgen vor einer wirtschaftlichen Abschwächung mindert, während die Stärke chipnaher Aktien vor allem technologielastige Indizes stützte. Die Entwicklung zeigt, dass Arbeitsmarktdaten und die Stimmung gegenüber dem Halbleitersektor zentrale Treiber der jüngsten Marktbewegung waren. Der Originalbericht nannte keine konkreten Indexgewinne oder Einzelaktienzahlen. Quelle: hankyung.com"
+      },
+      "fr": {
+        "title": "S&P 500 et Nasdaq à de nouveaux sommets grâce à l’emploi et aux puces",
+        "excerpt": "Le S&P 500 et le Nasdaq ont de nouveau atteint des records à New York, soutenus par un emploi solide et le rally des semi-conducteurs, selon Hankyung.",
+        "body": "À la Bourse de New York, la solidité de l’emploi et le rally des valeurs de semi-conducteurs ont porté le S&P 500 et le Nasdaq à de nouveaux sommets. Selon Hankyung, les investisseurs ont interprété la résistance du marché du travail comme un élément réduisant les craintes de ralentissement économique, tandis que la vigueur des titres liés aux puces a soutenu les indices à forte composante technologique. Ce mouvement montre que les indicateurs d’emploi et le sentiment envers le secteur des semi-conducteurs ont été des moteurs clés de la hausse. Le rapport original ne précise pas les gains des indices ni les chiffres par valeur. Source: hankyung.com"
+      },
+      "ar": {
+        "title": "S&P 500 وناسداك يسجلان قمما جديدة بدعم الوظائف ورالي الرقائق",
+        "excerpt": "سجل مؤشرا S&P 500 وناسداك قمما جديدة في نيويورك مع قوة التوظيف وصعود أسهم أشباه الموصلات، بحسب ما أوردته هانكيونغ.",
+        "body": "في سوق الأسهم الأميركية في نيويورك، تزامنت قوة التوظيف مع صعود أسهم أشباه الموصلات، ما دفع مؤشري S&P 500 وناسداك إلى تسجيل قمم جديدة. ووفقا لتقرير هانكيونغ، تعامل المستثمرون مع متانة سوق العمل باعتبارها عاملا يخفف المخاوف من تباطؤ اقتصادي، بينما ساعدت قوة الأسهم المرتبطة بالرقائق في قيادة ارتفاع المؤشرات ذات الوزن التكنولوجي. وتوضح هذه الحركة أن مؤشرات التوظيف ومعنويات الاستثمار تجاه قطاع أشباه الموصلات كانتا من المحركات الرئيسية لصعود السوق. ولم يورد النص الأصلي نسب ارتفاع محددة للمؤشرات أو أرقاما لكل سهم. المصدر: hankyung.com"
+      },
+      "hi": {
+        "title": "रोजगार मजबूती और चिप रैली से S&P 500, Nasdaq फिर रिकॉर्ड ऊंचाई पर",
+        "excerpt": "न्यूयॉर्क बाजार में मजबूत रोजगार संकेतों और सेमीकंडक्टर शेयरों की रैली से S&P 500 और Nasdaq फिर रिकॉर्ड ऊंचाई पर पहुंचे, Hankyung ने बताया।",
+        "body": "न्यूयॉर्क शेयर बाजार में मजबूत रोजगार स्थिति और सेमीकंडक्टर शेयरों की रैली साथ आई, जिससे S&P 500 और Nasdaq फिर नई ऊंचाई पर पहुंच गए। Hankyung के अनुसार, निवेशकों ने टिकाऊ रोजगार रुझान को आर्थिक सुस्ती की चिंता कम करने वाले कारक के रूप में देखा, जबकि चिप से जुड़े शेयरों की मजबूती ने तकनीक-प्रधान सूचकांकों को ऊपर ले जाने में मदद की। यह रुझान दिखाता है कि रोजगार संकेतक और सेमीकंडक्टर क्षेत्र के प्रति निवेश भावना बाजार की ताजा बढ़त के प्रमुख चालक रहे। मूल रिपोर्ट में सूचकांकों की विशिष्ट बढ़त या अलग-अलग शेयरों के आंकड़े नहीं दिए गए। स्रोत: hankyung.com"
+      },
+      "id": {
+        "title": "S&P 500 dan Nasdaq Cetak Rekor Lagi Berkat Data Kerja dan Reli Chip",
+        "excerpt": "S&P 500 dan Nasdaq kembali mencetak rekor di New York karena kekuatan pasar kerja dan reli saham semikonduktor, menurut laporan Hankyung.",
+        "body": "Di bursa saham New York, kekuatan pasar kerja dan reli saham semikonduktor sama-sama menjadi perhatian, mendorong S&P 500 dan Nasdaq kembali mencetak rekor tertinggi. Menurut Hankyung, investor melihat tren ketenagakerjaan yang solid sebagai faktor yang meredakan kekhawatiran atas perlambatan ekonomi, sementara penguatan saham terkait chip memimpin kenaikan indeks yang berfokus pada teknologi. Pergerakan ini menunjukkan bahwa indikator tenaga kerja dan sentimen terhadap sektor semikonduktor menjadi pendorong utama pasar. Laporan asli tidak menyajikan angka kenaikan indeks secara spesifik maupun data per saham. Sumber: hankyung.com"
+      }
+    }
+  },
+  {
     "id": "844e6bb28d0b",
     "slug": "금주핫템-코오롱fnc-슈즈라인업블랙야크-에어로프레쉬-535972",
     "channelId": "ETF",
@@ -4271,231 +4496,6 @@
         "title": "Kesalahan Tampilan Laba Toss Securities untuk Kolmar Korea Picu Panik Pemegang Saham",
         "excerpt": "Toss Securities keliru menampilkan kinerja kuartal I Kolmar Korea dengan basis individual, bukan konsolidasi, sehingga angka tampak jauh lebih rendah dan memicu kemarahan pemegang saham.",
         "body": "Toss Securities menghadapi protes pemegang saham setelah salah menampilkan kinerja kuartal pertama Kolmar Korea. Menurut laporan asli, Kolmar Korea mencatat hasil kuartal pertama yang sangat kuat, tetapi layar Toss Securities menampilkan kinerja individual, bukan angka konsolidasi, sehingga nilainya terlihat jauh lebih rendah dari kondisi sebenarnya. Akibatnya, kinerja yang seharusnya dibaca sebagai kejutan positif laba tampak bagi sebagian investor seperti guncangan laba, memunculkan kekhawatiran panic selling di kalangan pemegang saham. Angka tersebut kemudian diperbaiki, tetapi kemarahan meningkat karena perubahan dilakukan tanpa pemberitahuan koreksi. Investor juga menyebut insiden terkait yen sebelumnya dan menuntut kompensasi atas kesalahan yang berulang. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "dace6cec98cd",
-    "slug": "코스메카코리아-1분기-매출-1851억원-기록-412305",
-    "channelId": "ETF",
-    "category": "etf",
-    "publishedAt": "2026-05-08T10:50:49.793Z",
-    "updatedAt": "2026-05-08T10:50:49.793Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/economy/12041283",
-    "canonicalUrl": "https://www.mk.co.kr/news/economy/12041283",
-    "titleFingerprint": "a712e6ff7ada9f3c11aaa8f1f0fa954595c6e600",
-    "dedupKeys": [
-      "dace6cec98cd60521b9cd5a31431314250856163",
-      "a712e6ff7ada9f3c11aaa8f1f0fa954595c6e600",
-      "cf163a894fa582e77beb87f63a47d339b5192b09"
-    ],
-    "imageUrl": "/images/articles/dace6cec98cd.jpg",
-    "i18n": {
-      "ko": {
-        "title": "코스메카코리아 1분기 매출 1851억원 기록, 영업이익 219억원으로 급증",
-        "excerpt": "글로벌 화장품 생산기업 코스메카코리아가 8일 올해 1분기 연결 매출 1851억원, 영업이익 219억원을 기록했다고 밝혔다. 매출은 전년 동기 대비 56.4%, 영업이익은 78% 늘었다.",
-        "body": "글로벌 화장품 생산기업 코스메카코리아는 8일 올해 1분기 연결 기준 매출 1851억원, 영업이익 219억원을 기록했다고 밝혔다. 전년 동기 대비 매출은 56.4%, 영업이익은 78% 급증했다. 이번 실적은 연결 기준으로 집계됐으며, 매출과 영업이익이 모두 큰 폭으로 늘어난 점이 핵심이다. 화장품 생산기업인 코스메카코리아의 1분기 실적 발표는 글로벌 화장품 생산 수요와 기업 수익성 흐름을 살피는 지표로 활용될 수 있다. 회사가 공개한 수치상으로는 외형 성장과 이익 증가가 동시에 나타났다. 출처: mk.co.kr에 따르면 코스메카코리아는 이 같은 1분기 실적을 8일 밝혔다."
-      },
-      "en": {
-        "title": "Cosmecca Korea Posts Q1 Revenue of 185.1 Billion Won as Operating Profit Jumps",
-        "excerpt": "Cosmecca Korea, a global cosmetics manufacturer, said on the 8th that its consolidated first-quarter revenue reached 185.1 billion won and operating profit hit 21.9 billion won, up 56.4% and 78% year on year.",
-        "body": "Cosmecca Korea, a global cosmetics manufacturer, said on the 8th that it recorded consolidated first-quarter revenue of 185.1 billion won and operating profit of 21.9 billion won. Revenue rose 56.4% from a year earlier, while operating profit increased 78%. The figures were reported on a consolidated basis, with both sales and profit showing sharp growth. As a cosmetics production company, Cosmecca Korea’s quarterly results can serve as a data point for tracking global cosmetics production demand and profitability trends. Based on the company’s disclosed numbers, revenue expansion and earnings growth occurred together. Source: According to mk.co.kr, Cosmecca Korea announced these first-quarter results on the 8th."
-      },
-      "ja": {
-        "title": "コスメカコリア、第1四半期売上高1851億ウォンを記録し営業利益も急増",
-        "excerpt": "グローバル化粧品生産企業のコスメカコリアは8日、今年第1四半期の連結売上高が1851億ウォン、営業利益が219億ウォンだったと発表した。売上高は前年同期比56.4%、営業利益は78%増加した。",
-        "body": "グローバル化粧品生産企業のコスメカコリアは8日、今年第1四半期の連結基準売上高が1851億ウォン、営業利益が219億ウォンだったと発表した。前年同期比で売上高は56.4%、営業利益は78%急増した。今回の実績は連結基準で集計され、売上高と営業利益の双方が大幅に伸びた点が中心となる。化粧品生産企業であるコスメカコリアの第1四半期実績は、グローバル化粧品生産需要と企業収益性の流れを見る指標として活用できる。会社が公表した数値では、外形成長と利益増加が同時に表れた。出所: mk.co.krによると、コスメカコリアはこうした第1四半期実績を8日に発表した。"
-      },
-      "zh": {
-        "title": "Cosmecca Korea一季度营收1851亿韩元，营业利润219亿韩元大增",
-        "excerpt": "全球化妆品生产企业Cosmecca Korea于8日表示，今年一季度合并口径营收为1851亿韩元，营业利润为219亿韩元。营收同比增长56.4%，营业利润同比增长78%。",
-        "body": "全球化妆品生产企业Cosmecca Korea于8日表示，今年第一季度按合并口径实现营收1851亿韩元、营业利润219亿韩元。与去年同期相比，营收增长56.4%，营业利润增长78%。此次业绩按合并口径统计，销售额和营业利润均大幅增加是重点。作为化妆品生产企业，Cosmecca Korea的一季度业绩可作为观察全球化妆品生产需求和企业盈利能力变化的参考数据。根据公司公布的数字，规模增长与利润提升同时出现。来源：据mk.co.kr报道，Cosmecca Korea于8日公布了上述一季度业绩。"
-      },
-      "es": {
-        "title": "Cosmecca Korea registra ingresos trimestrales de 185.100 millones de wones",
-        "excerpt": "Cosmecca Korea, fabricante global de cosméticos, informó el día 8 que sus ingresos consolidados del primer trimestre fueron de 185.100 millones de wones y su beneficio operativo de 21.900 millones, con alzas interanuales de 56,4% y 78%.",
-        "body": "Cosmecca Korea, fabricante global de cosméticos, informó el día 8 que registró ingresos consolidados de 185.100 millones de wones en el primer trimestre y un beneficio operativo de 21.900 millones de wones. Frente al mismo periodo del año anterior, los ingresos aumentaron 56,4% y el beneficio operativo creció 78%. Las cifras fueron presentadas en base consolidada, y el punto central es que tanto las ventas como el beneficio operativo crecieron con fuerza. Como empresa dedicada a la producción de cosméticos, los resultados trimestrales de Cosmecca Korea pueden servir como referencia para observar la demanda global de producción cosmética y la rentabilidad empresarial. Según los datos divulgados por la compañía, el crecimiento de escala y la mejora de beneficios se dieron al mismo tiempo. Fuente: según mk.co.kr, Cosmecca Korea anunció estos resultados del primer trimestre el día 8."
-      },
-      "pt": {
-        "title": "Cosmecca Korea registra receita de 185,1 bilhões de wons no 1º trimestre",
-        "excerpt": "A Cosmecca Korea, produtora global de cosméticos, informou no dia 8 que teve receita consolidada de 185,1 bilhões de wons no primeiro trimestre e lucro operacional de 21,9 bilhões, altas anuais de 56,4% e 78%.",
-        "body": "A Cosmecca Korea, produtora global de cosméticos, informou no dia 8 que registrou receita consolidada de 185,1 bilhões de wons no primeiro trimestre deste ano e lucro operacional de 21,9 bilhões de wons. Em relação ao mesmo período do ano anterior, a receita aumentou 56,4% e o lucro operacional cresceu 78%. Os números foram apurados em base consolidada, com forte avanço tanto nas vendas quanto no lucro operacional. Como empresa de produção de cosméticos, o resultado trimestral da Cosmecca Korea pode servir como referência para acompanhar a demanda global por produção cosmética e a rentabilidade corporativa. Pelos dados divulgados pela companhia, houve crescimento de escala e aumento de lucro ao mesmo tempo. Fonte: segundo mk.co.kr, a Cosmecca Korea anunciou esses resultados do primeiro trimestre no dia 8."
-      },
-      "de": {
-        "title": "Cosmecca Korea erzielt im ersten Quartal 185,1 Mrd. Won Umsatz",
-        "excerpt": "Cosmecca Korea, ein globaler Kosmetikhersteller, teilte am 8. mit, dass der konsolidierte Umsatz im ersten Quartal 185,1 Mrd. Won und der Betriebsgewinn 21,9 Mrd. Won erreichten. Das entspricht Zuwächsen von 56,4% und 78%.",
-        "body": "Cosmecca Korea, ein globaler Kosmetikhersteller, teilte am 8. mit, dass das Unternehmen im ersten Quartal auf konsolidierter Basis einen Umsatz von 185,1 Mrd. Won und einen Betriebsgewinn von 21,9 Mrd. Won erzielt hat. Gegenüber dem Vorjahreszeitraum stieg der Umsatz um 56,4%, der Betriebsgewinn um 78%. Die Zahlen wurden konsolidiert ausgewiesen, wobei sowohl Erlöse als auch operativer Gewinn deutlich zulegten. Als Kosmetikproduzent können die Quartalszahlen von Cosmecca Korea als Anhaltspunkt für die globale Nachfrage nach Kosmetikproduktion und die Entwicklung der Profitabilität dienen. Nach den veröffentlichten Daten traten Umsatzwachstum und Gewinnanstieg gleichzeitig auf. Quelle: Laut mk.co.kr gab Cosmecca Korea diese Ergebnisse für das erste Quartal am 8. bekannt."
-      },
-      "fr": {
-        "title": "Cosmecca Korea affiche 185,1 milliards de wons de chiffre d’affaires au T1",
-        "excerpt": "Cosmecca Korea, fabricant mondial de cosmétiques, a annoncé le 8 que son chiffre d’affaires consolidé du premier trimestre avait atteint 185,1 milliards de wons et son bénéfice d’exploitation 21,9 milliards, en hausse de 56,4% et 78%.",
-        "body": "Cosmecca Korea, fabricant mondial de cosmétiques, a annoncé le 8 avoir enregistré au premier trimestre un chiffre d’affaires consolidé de 185,1 milliards de wons et un bénéfice d’exploitation de 21,9 milliards de wons. Par rapport à la même période de l’an dernier, le chiffre d’affaires a augmenté de 56,4% et le bénéfice d’exploitation de 78%. Ces résultats ont été établis sur une base consolidée, avec une forte progression à la fois des ventes et du bénéfice opérationnel. En tant qu’entreprise de production cosmétique, les résultats trimestriels de Cosmecca Korea peuvent servir de référence pour suivre la demande mondiale de production de cosmétiques et l’évolution de la rentabilité. D’après les chiffres publiés par la société, la croissance de l’activité et l’augmentation des bénéfices se sont produites simultanément. Source: selon mk.co.kr, Cosmecca Korea a annoncé ces résultats du premier trimestre le 8."
-      },
-      "ar": {
-        "title": "كوسميكا كوريا تسجل إيرادات فصلية قدرها 185.1 مليار وون وارتفاعا في الربح",
-        "excerpt": "أعلنت كوسميكا كوريا، وهي شركة عالمية لإنتاج مستحضرات التجميل، في الثامن أن إيراداتها الموحدة للربع الأول بلغت 185.1 مليار وون، وأن الربح التشغيلي وصل إلى 21.9 مليار وون، بزيادة سنوية 56.4% و78%.",
-        "body": "أعلنت كوسميكا كوريا، وهي شركة عالمية لإنتاج مستحضرات التجميل، في الثامن أنها سجلت في الربع الأول من هذا العام إيرادات موحدة قدرها 185.1 مليار وون وربحا تشغيليا قدره 21.9 مليار وون. ومقارنة بالفترة نفسها من العام السابق، ارتفعت الإيرادات 56.4% وزاد الربح التشغيلي 78%. وقد جرى احتساب هذه النتائج على أساس موحد، وكان العنصر الأبرز هو النمو الكبير في كل من المبيعات والربح التشغيلي. وبصفتها شركة لإنتاج مستحضرات التجميل، يمكن استخدام نتائج كوسميكا كوريا للربع الأول كمؤشر لمتابعة الطلب العالمي على إنتاج مستحضرات التجميل واتجاه ربحية الشركات. ووفقا للأرقام التي أعلنتها الشركة، ظهر نمو الحجم وزيادة الأرباح في الوقت نفسه. المصدر: بحسب mk.co.kr، أعلنت كوسميكا كوريا هذه النتائج للربع الأول في الثامن."
-      },
-      "hi": {
-        "title": "Cosmecca Korea की पहली तिमाही आय 185.1 अरब वॉन, परिचालन लाभ भी तेज बढ़ा",
-        "excerpt": "वैश्विक कॉस्मेटिक्स निर्माता Cosmecca Korea ने 8 तारीख को कहा कि इस वर्ष पहली तिमाही में उसकी समेकित आय 185.1 अरब वॉन और परिचालन लाभ 21.9 अरब वॉन रहा। आय सालाना 56.4% और परिचालन लाभ 78% बढ़ा।",
-        "body": "वैश्विक कॉस्मेटिक्स निर्माता Cosmecca Korea ने 8 तारीख को बताया कि इस वर्ष पहली तिमाही में उसने समेकित आधार पर 185.1 अरब वॉन की आय और 21.9 अरब वॉन का परिचालन लाभ दर्ज किया। पिछले वर्ष की समान अवधि की तुलना में आय 56.4% और परिचालन लाभ 78% बढ़ा। ये आंकड़े समेकित आधार पर संकलित किए गए हैं, और मुख्य बात यह है कि बिक्री तथा परिचालन लाभ दोनों में तेज वृद्धि हुई। कॉस्मेटिक्स उत्पादन कंपनी के रूप में Cosmecca Korea के पहली तिमाही के नतीजे वैश्विक कॉस्मेटिक्स उत्पादन मांग और कंपनी की लाभप्रदता के रुझान को देखने के लिए संदर्भ बन सकते हैं। कंपनी द्वारा जारी आंकड़ों के अनुसार, कारोबार का विस्तार और लाभ में वृद्धि एक साथ दिखाई दी। स्रोत: mk.co.kr के अनुसार, Cosmecca Korea ने ये पहली तिमाही के नतीजे 8 तारीख को घोषित किए।"
-      },
-      "id": {
-        "title": "Cosmecca Korea Catat Pendapatan Kuartal I 185,1 Miliar Won, Laba Melonjak",
-        "excerpt": "Cosmecca Korea, perusahaan produksi kosmetik global, menyatakan pada tanggal 8 bahwa pendapatan konsolidasi kuartal I mencapai 185,1 miliar won dan laba operasional 21,9 miliar won, naik 56,4% dan 78% secara tahunan.",
-        "body": "Cosmecca Korea, perusahaan produksi kosmetik global, menyatakan pada tanggal 8 bahwa pada kuartal pertama tahun ini perusahaan mencatat pendapatan konsolidasi sebesar 185,1 miliar won dan laba operasional sebesar 21,9 miliar won. Dibandingkan periode yang sama tahun sebelumnya, pendapatan naik 56,4% dan laba operasional meningkat 78%. Kinerja ini dihitung secara konsolidasi, dengan pertumbuhan besar pada penjualan dan laba operasional sebagai poin utama. Sebagai perusahaan produksi kosmetik, hasil kuartal pertama Cosmecca Korea dapat menjadi acuan untuk melihat permintaan produksi kosmetik global dan tren profitabilitas perusahaan. Berdasarkan angka yang diungkap perusahaan, pertumbuhan skala usaha dan peningkatan laba terjadi bersamaan. Sumber: menurut mk.co.kr, Cosmecca Korea mengumumkan kinerja kuartal pertama tersebut pada tanggal 8."
-      }
-    }
-  },
-  {
-    "id": "2bd0d18f06f3",
-    "slug": "김승호-회장-강연을-생중계로매경플러스-멤버십만의-특전-820975",
-    "channelId": "ETF",
-    "category": "etf",
-    "publishedAt": "2026-05-08T10:49:40.420Z",
-    "updatedAt": "2026-05-08T10:49:40.420Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/stock/12041314",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12041314",
-    "titleFingerprint": "031e656ed199c27285f2abc7637eab374a566c43",
-    "dedupKeys": [
-      "2bd0d18f06f33ddb249c6ec475017932312d37a9",
-      "031e656ed199c27285f2abc7637eab374a566c43",
-      "81d040a2e2194b53ba3c1e8e1adecbd4ce841943"
-    ],
-    "imageUrl": "/images/articles/2bd0d18f06f3.jpg",
-    "i18n": {
-      "ko": {
-        "title": "2026 서울머니쇼 열기 고조, 매경플러스 멤버십 생중계 특전 주목",
-        "excerpt": "8일 서울 강남구 코엑스에서 열린 2026 서울머니쇼가 첫날보다 많은 인파로 북적였고, 매경플러스 멤버십의 김승호 회장 강연 생중계 특전이 소개됐다.",
-        "body": "8일 서울 강남구 코엑스에서 열린 ‘2026 서울머니쇼’ 현장은 첫날보다 더 많은 방문객이 몰리며 활기를 보였다. 비교적 이른 시간에도 주요 세미나실 전석이 가득 차는 등 행사에 대한 관심이 두드러졌다. 이번 현장에서는 김승호 회장 강연을 생중계로 볼 수 있는 매경플러스 멤버십만의 특전도 함께 소개됐다. 투자와 재테크 정보를 찾는 관람객이 몰리면서 서울머니쇼의 세미나 콘텐츠와 멤버십 서비스에 대한 주목도도 커질 전망이다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "2026 Seoul Money Show Draws Bigger Crowds as MK Plus Live Benefit Stands Out",
-        "excerpt": "On May 8, the 2026 Seoul Money Show at COEX in Gangnam, Seoul drew larger crowds than its first day, with MK Plus highlighting a live-stream benefit for Chairman Kim Seung-ho’s lecture.",
-        "body": "The 2026 Seoul Money Show, held on May 8 at COEX in Gangnam, Seoul, was busier than on its opening day as more visitors filled the venue. Even relatively early in the day, all seats in major seminar rooms were taken, showing strong interest in the event. The site also introduced an exclusive MK Plus membership benefit: live streaming of Chairman Kim Seung-ho’s lecture. As visitors seeking investment and personal finance information gathered, attention is expected to remain focused on the show’s seminar content and membership services. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "2026ソウルマネーショー盛況、MKプラス会員の生中継特典に注目",
-        "excerpt": "5月8日、ソウル江南区COEXで開かれた2026ソウルマネーショーは初日を上回る人出となり、金勝浩会長講演の生中継特典も紹介された。",
-        "body": "5月8日、ソウル江南区COEXで開かれた「2026ソウルマネーショー」の会場は、初日より多くの来場者でにぎわった。比較的早い時間にもかかわらず、主要セミナー室の全席が埋まるなど、イベントへの高い関心が示された。会場では、金勝浩会長の講演を生中継で視聴できるMKプラス会員限定の特典も紹介された。投資や資産管理情報を求める来場者が集まったことで、ソウルマネーショーのセミナー内容と会員サービスへの注目も続く見通しだ。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "2026首尔Money Show人气升温，MK Plus会员直播权益受关注",
-        "excerpt": "5月8日，2026首尔Money Show在首尔江南区COEX举行，现场人流超过首日，MK Plus会员可观看金胜浩会长演讲直播的权益受到介绍。",
-        "body": "5月8日，在首尔江南区COEX举行的“2026首尔Money Show”现场比首日吸引了更多观众，气氛热烈。尽管时间相对较早，主要研讨会会场的座位仍全部坐满，显示出外界对活动的高度关注。现场还介绍了MK Plus会员专属权益，即可通过直播观看金胜浩会长的演讲。随着寻找投资和理财信息的观众聚集，首尔Money Show的研讨会内容和会员服务预计将继续受到关注。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "2026 Seoul Money Show gana público y destaca el beneficio en vivo de MK Plus",
-        "excerpt": "El 8 de mayo, el 2026 Seoul Money Show en COEX, Gangnam, Seúl, reunió más visitantes que el primer día y presentó la transmisión en vivo de la charla de Kim Seung-ho para miembros MK Plus.",
-        "body": "El 8 de mayo, el 2026 Seoul Money Show, celebrado en COEX en Gangnam, Seúl, mostró un ambiente más concurrido que en su primer día. Incluso a una hora relativamente temprana, las principales salas de seminarios estaban llenas, reflejando el fuerte interés por el evento. En el lugar también se presentó un beneficio exclusivo de la membresía MK Plus: la transmisión en vivo de la conferencia del presidente Kim Seung-ho. Con la llegada de visitantes interesados en inversión y finanzas personales, la atención sobre los seminarios del evento y los servicios de membresía podría mantenerse. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "2026 Seoul Money Show atrai mais público e destaca transmissão da MK Plus",
-        "excerpt": "Em 8 de maio, o 2026 Seoul Money Show no COEX, em Gangnam, Seul, recebeu mais visitantes que no primeiro dia e apresentou a transmissão ao vivo da palestra de Kim Seung-ho para membros MK Plus.",
-        "body": "Em 8 de maio, o 2026 Seoul Money Show, realizado no COEX, em Gangnam, Seul, ficou mais movimentado do que no primeiro dia, com grande presença de visitantes. Mesmo em um horário relativamente cedo, todas as cadeiras das principais salas de seminários estavam ocupadas, mostrando forte interesse pelo evento. No local, também foi apresentado um benefício exclusivo da assinatura MK Plus: a transmissão ao vivo da palestra do presidente Kim Seung-ho. Com visitantes em busca de informações sobre investimentos e finanças pessoais, os seminários e os serviços de membresia do evento devem seguir em evidência. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "2026 Seoul Money Show mit mehr Andrang, MK-Plus-Livestream im Fokus",
-        "excerpt": "Am 8. Mai zog die 2026 Seoul Money Show im COEX in Gangnam, Seoul, mehr Besucher als am ersten Tag an; vorgestellt wurde auch der MK-Plus-Livestream des Vortrags von Chairman Kim Seung-ho.",
-        "body": "Die 2026 Seoul Money Show, die am 8. Mai im COEX in Gangnam, Seoul, stattfand, war stärker besucht als am Eröffnungstag. Schon zu vergleichsweise früher Stunde waren die wichtigsten Seminarräume vollständig besetzt, was das große Interesse an der Veranstaltung zeigte. Vor Ort wurde zudem ein exklusiver Vorteil der MK-Plus-Mitgliedschaft vorgestellt: die Liveübertragung des Vortrags von Chairman Kim Seung-ho. Da viele Besucher Informationen zu Geldanlage und persönlichen Finanzen suchten, dürften die Seminarinhalte der Seoul Money Show und die Mitgliedschaftsdienste weiter Beachtung finden. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Le 2026 Seoul Money Show attire plus de monde, avantage live MK Plus en vue",
-        "excerpt": "Le 8 mai, le 2026 Seoul Money Show au COEX de Gangnam, à Séoul, a accueilli plus de visiteurs que le premier jour et mis en avant la diffusion en direct de la conférence de Kim Seung-ho pour MK Plus.",
-        "body": "Le 8 mai, le « 2026 Seoul Money Show », organisé au COEX de Gangnam, à Séoul, a été plus fréquenté que lors de sa première journée. Malgré une heure relativement matinale, toutes les places des principales salles de séminaire étaient occupées, signe d’un fort intérêt pour l’événement. Sur place, un avantage exclusif de l’abonnement MK Plus a aussi été présenté: la diffusion en direct de la conférence du président Kim Seung-ho. Avec l’afflux de visiteurs recherchant des informations sur l’investissement et les finances personnelles, les contenus de séminaire du salon et les services d’abonnement devraient rester suivis. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "معرض سيول للمال 2026 يجذب حشودا أكبر وميزة بث MK Plus تتصدر الاهتمام",
-        "excerpt": "في 8 مايو، شهد معرض سيول للمال 2026 في كويكس بمنطقة غانغنام في سيول حضورا أكبر من اليوم الأول، مع إبراز ميزة بث محاضرة كيم سونغ هو مباشرة لأعضاء MK Plus.",
-        "body": "في 8 مايو، شهد موقع «معرض سيول للمال 2026» في مركز كويكس بمنطقة غانغنام في سيول ازدحاما أكبر من اليوم الأول، مع توافد مزيد من الزوار. ورغم أن الوقت كان مبكرا نسبيا، امتلأت جميع المقاعد في قاعات الندوات الرئيسية، ما أظهر اهتماما واضحا بالحدث. كما جرى في الموقع تقديم ميزة حصرية لعضوية MK Plus، وهي مشاهدة محاضرة الرئيس كيم سونغ هو عبر بث مباشر. ومع تجمع الزوار الباحثين عن معلومات الاستثمار وإدارة الأموال الشخصية، يتوقع أن تستمر الأنظار على محتوى ندوات معرض سيول للمال وخدمات العضوية. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "2026 Seoul Money Show में भीड़ बढ़ी, MK Plus की लाइव सुविधा पर नजर",
-        "excerpt": "8 मई को सियोल के गंगनम स्थित COEX में 2026 Seoul Money Show में पहले दिन से अधिक भीड़ रही और MK Plus सदस्यों के लिए किम स्युंग-हो के व्याख्यान की लाइव स्ट्रीम सुविधा पेश की गई।",
-        "body": "8 मई को सियोल के गंगनम स्थित COEX में आयोजित “2026 Seoul Money Show” का स्थल पहले दिन की तुलना में अधिक आगंतुकों से भरा रहा। अपेक्षाकृत शुरुआती समय के बावजूद प्रमुख सेमिनार कक्षों की सभी सीटें भर गईं, जिससे आयोजन में मजबूत रुचि दिखाई दी। स्थल पर MK Plus सदस्यता की विशेष सुविधा भी पेश की गई, जिसके तहत चेयरमैन किम स्युंग-हो का व्याख्यान लाइव स्ट्रीम में देखा जा सकता है। निवेश और व्यक्तिगत वित्त से जुड़ी जानकारी खोजने वाले दर्शकों की मौजूदगी के साथ, Seoul Money Show के सेमिनार कंटेंट और सदस्यता सेवाओं पर ध्यान बना रहने की संभावना है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "2026 Seoul Money Show Makin Ramai, Benefit Siaran Langsung MK Plus Disorot",
-        "excerpt": "Pada 8 Mei, 2026 Seoul Money Show di COEX, Gangnam, Seoul, dipadati lebih banyak pengunjung daripada hari pertama, sementara benefit siaran langsung kuliah Kim Seung-ho untuk anggota MK Plus diperkenalkan.",
-        "body": "Pada 8 Mei, lokasi “2026 Seoul Money Show” di COEX, Gangnam, Seoul, tampak lebih ramai dibanding hari pertama karena lebih banyak pengunjung datang. Meski waktunya relatif masih pagi, seluruh kursi di ruang seminar utama sudah terisi, menunjukkan tingginya minat terhadap acara tersebut. Di lokasi, turut diperkenalkan benefit eksklusif keanggotaan MK Plus, yaitu siaran langsung kuliah Chairman Kim Seung-ho. Dengan berkumpulnya pengunjung yang mencari informasi investasi dan keuangan pribadi, konten seminar Seoul Money Show serta layanan keanggotaannya diperkirakan tetap menjadi perhatian. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "00370fec37c3",
-    "slug": "금리절세노후까지혜택-많은-3대-통장-가입해야-866023",
-    "channelId": "ETF",
-    "category": "etf",
-    "publishedAt": "2026-05-08T10:48:47.086Z",
-    "updatedAt": "2026-05-08T10:48:47.086Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/stock/12041316",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12041316",
-    "titleFingerprint": "56ad7490728bc9c28017980fb6d8fa4a093e50cd",
-    "dedupKeys": [
-      "00370fec37c360391386d263e1c6089b9dac06e5",
-      "56ad7490728bc9c28017980fb6d8fa4a093e50cd",
-      "2fa33eb608483a7f55d4bb857479726a0e0df0d3"
-    ],
-    "imageUrl": "/images/articles/00370fec37c3.jpg",
-    "i18n": {
-      "ko": {
-        "title": "금리·절세·노후 대비, 지금 챙겨야 할 3대 통장 전략",
-        "excerpt": "금리와 절세, 노후 준비를 함께 고려하는 금융 소비자에게 파킹통장·ISA·연금저축 등 3대 통장 가입 필요성이 제기됐다.",
-        "body": "금리와 절세, 노후 준비를 동시에 고민하는 금융 소비자에게 파킹통장, ISA(개인종합자산관리계좌), 연금저축 등 3대 통장 가입 필요성이 제기됐다. 은행 파킹통장에만 돈을 넣어두는 방식으로는 자산 관리 수요를 충분히 충족하기 어렵다는 지적이다. 원문은 금융 피로도를 줄이면서 금리 혜택과 절세 효과를 함께 챙기려면 목적별 계좌 활용이 중요하다고 전했다. 파킹통장은 단기 자금 운용, ISA는 절세형 자산 관리, 연금저축은 노후 대비 수단으로 거론됐다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Rates, Tax Savings and Retirement: Why Three Accounts Matter Now",
-        "excerpt": "Financial consumers seeking interest income, tax efficiency and retirement preparation are being urged to consider parking accounts, ISAs and pension savings accounts.",
-        "body": "Financial consumers looking to manage interest rates, tax savings and retirement preparation are being urged to consider three types of accounts: parking accounts, ISAs, and pension savings accounts. The source says the era of keeping money only in bank parking accounts has passed, as that approach may not fully meet today’s asset-management needs. It highlights the importance of using accounts by purpose to reduce financial fatigue while capturing both rate benefits and tax advantages. Parking accounts are cited for short-term funds, ISAs for tax-efficient asset management, and pension savings for retirement preparation. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "金利・節税・老後対策、今注目すべき3大口座の活用法",
-        "excerpt": "金利メリット、節税、老後準備を同時に考える金融消費者に、パーキング口座、ISA、年金貯蓄口座の活用が求められている。",
-        "body": "金利、節税、老後準備を同時に考える金融消費者に対し、パーキング口座、ISA（個人総合資産管理口座）、年金貯蓄口座という3大口座への加入の必要性が指摘された。銀行のパーキング口座だけに資金を置いておく時代は過ぎたという見方だ。原文は、金融面の疲労感を減らしながら金利メリットと節税効果を同時に得るには、目的別に口座を活用することが重要だと伝えた。パーキング口座は短期資金運用、ISAは節税型資産管理、年金貯蓄は老後対策の手段として挙げられた。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "利率、节税与养老准备：现在应关注的三大账户",
-        "excerpt": "面对利率收益、节税和养老准备需求，金融消费者被建议关注停车账户、ISA个人综合资产管理账户和养老金储蓄账户。",
-        "body": "对于同时关注利率、节税和养老准备的金融消费者，停车账户、ISA（个人综合资产管理账户）和养老金储蓄账户这三类账户的重要性被提出。原文指出，只把钱放在银行停车账户里的时代已经过去，这种方式难以充分满足资产管理需求。报道称，为了减少金融疲劳，同时兼顾利率优惠和节税效果，按用途使用不同账户十分重要。停车账户被用于短期资金管理，ISA被用于节税型资产管理，养老金储蓄则被视为养老准备工具。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Tasas, ahorro fiscal y jubilación: tres cuentas clave para revisar",
-        "excerpt": "Los consumidores financieros que buscan rentabilidad, ventajas fiscales y preparación para la jubilación deben considerar cuentas parking, ISA y ahorro previsional.",
-        "body": "Los consumidores financieros que buscan combinar tasas de interés, ahorro fiscal y preparación para la jubilación están siendo llamados a considerar tres cuentas: cuentas parking, ISA y cuentas de ahorro previsional. La fuente señala que ya pasó la época de dejar el dinero únicamente en cuentas parking bancarias, ya que ese enfoque no cubre por completo las necesidades actuales de gestión de activos. El texto destaca que usar cuentas según su propósito ayuda a reducir la fatiga financiera y a captar beneficios de tasa y de impuestos. Las cuentas parking sirven para fondos de corto plazo, las ISA para gestión con ventajas fiscales y el ahorro previsional para la jubilación. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Juros, economia fiscal e aposentadoria: três contas para considerar",
-        "excerpt": "Consumidores que buscam rendimento, eficiência tributária e preparação para a aposentadoria são orientados a considerar conta parking, ISA e previdência.",
-        "body": "Consumidores financeiros que querem conciliar juros, economia fiscal e preparação para a aposentadoria são orientados a considerar três tipos de conta: conta parking, ISA e conta de poupança previdenciária. A fonte afirma que passou a época de deixar dinheiro apenas em contas parking bancárias, pois essa estratégia pode não atender plenamente às necessidades atuais de gestão patrimonial. O texto destaca que usar contas por finalidade ajuda a reduzir a fadiga financeira e a obter benefícios de juros e impostos. A conta parking é citada para recursos de curto prazo, a ISA para gestão com eficiência fiscal e a previdência para a aposentadoria. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Zinsen, Steuern und Ruhestand: Drei Konten rücken in den Fokus",
-        "excerpt": "Finanzkunden, die Zinserträge, Steuervorteile und Altersvorsorge verbinden wollen, sollen Parking-Konten, ISA-Konten und Rentensparkonten prüfen.",
-        "body": "Finanzkunden, die Zinsen, Steuervorteile und Altersvorsorge zugleich im Blick haben, werden auf drei Kontoarten hingewiesen: Parking-Konten, ISA-Konten und Rentensparkonten. Der Bericht betont, dass die Zeit vorbei sei, in der Geld nur auf Bank-Parking-Konten lag, weil dieser Ansatz heutige Anforderungen an die Vermögensverwaltung nicht vollständig erfüllt. Wichtig sei die Nutzung von Konten nach Zweck, um finanzielle Ermüdung zu verringern und zugleich Zins- sowie Steuervorteile zu nutzen. Parking-Konten werden für kurzfristige Mittel genannt, ISA für steuerbegünstigte Vermögensverwaltung und Rentensparen für die Altersvorsorge. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Taux, fiscalité et retraite : trois comptes à envisager dès maintenant",
-        "excerpt": "Les épargnants qui veulent conjuguer rendement, optimisation fiscale et préparation de la retraite sont invités à considérer compte parking, ISA et épargne retraite.",
-        "body": "Les consommateurs financiers qui souhaitent gérer à la fois les taux, les économies d’impôt et la préparation de la retraite sont invités à envisager trois types de comptes : compte parking, ISA et compte d’épargne retraite. La source indique que l’époque où l’on plaçait son argent uniquement sur un compte parking bancaire est révolue, car cette approche ne répond plus pleinement aux besoins de gestion patrimoniale. Le texte souligne l’importance d’utiliser chaque compte selon son objectif afin de réduire la fatigue financière tout en profitant des taux et des avantages fiscaux. Le compte parking sert aux fonds de court terme, l’ISA à la gestion fiscalement avantageuse et l’épargne retraite à la préparation de l’avenir. Source : mk.co.kr"
-      },
-      "ar": {
-        "title": "الفائدة والتوفير الضريبي والتقاعد: ثلاثة حسابات تستحق الاهتمام",
-        "excerpt": "يُنصح المستهلكون الماليون الساعون إلى عوائد فائدة ومزايا ضريبية واستعداد للتقاعد بالنظر في حسابات الإيداع المرن وISA ومدخرات التقاعد.",
-        "body": "يُطرح أمام المستهلكين الماليين الذين يجمعون بين الاهتمام بأسعار الفائدة والتوفير الضريبي والاستعداد للتقاعد خيار الاعتماد على ثلاثة حسابات: حساب الإيداع المرن، وحساب ISA، وحساب مدخرات التقاعد. ويشير المصدر إلى أن مرحلة وضع الأموال فقط في حسابات الإيداع المرن لدى البنوك قد انتهت، لأن هذا الأسلوب لا يلبي وحده احتياجات إدارة الأصول الحالية. ويوضح النص أن استخدام الحسابات حسب الغرض يساعد على تقليل الإرهاق المالي مع الاستفادة من عوائد الفائدة والمزايا الضريبية. ويُذكر حساب الإيداع المرن للأموال قصيرة الأجل، وISA لإدارة الأصول بكفاءة ضريبية، ومدخرات التقاعد للاستعداد لما بعد العمل. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "ब्याज, टैक्स बचत और रिटायरमेंट: तीन खातों पर अब ध्यान जरूरी",
-        "excerpt": "ब्याज लाभ, टैक्स बचत और रिटायरमेंट तैयारी चाहने वाले वित्तीय उपभोक्ताओं के लिए पार्किंग अकाउंट, ISA और पेंशन सेविंग्स खाते अहम बताए गए हैं।",
-        "body": "ब्याज दर, टैक्स बचत और रिटायरमेंट तैयारी को साथ लेकर चलने वाले वित्तीय उपभोक्ताओं के लिए तीन तरह के खातों पर ध्यान देने की जरूरत बताई गई है: पार्किंग अकाउंट, ISA और पेंशन सेविंग्स अकाउंट। स्रोत के अनुसार, केवल बैंक पार्किंग अकाउंट में पैसा रखकर चलने का दौर अब बीत गया है, क्योंकि यह तरीका आज की संपत्ति प्रबंधन जरूरतों को पूरी तरह पूरा नहीं कर सकता। लेख में कहा गया कि वित्तीय थकान घटाते हुए ब्याज लाभ और टैक्स बचत पाने के लिए उद्देश्य के अनुसार खातों का उपयोग महत्वपूर्ण है। पार्किंग अकाउंट अल्पकालिक धन के लिए, ISA टैक्स-कुशल संपत्ति प्रबंधन के लिए और पेंशन सेविंग्स रिटायरमेंट तैयारी के लिए बताए गए हैं। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Bunga, Hemat Pajak, dan Pensiun: Tiga Rekening yang Perlu Dilirik",
-        "excerpt": "Konsumen finansial yang mengejar imbal hasil, efisiensi pajak, dan persiapan pensiun disarankan mempertimbangkan rekening parking, ISA, dan tabungan pensiun.",
-        "body": "Konsumen finansial yang ingin mengelola bunga, penghematan pajak, dan persiapan pensiun sekaligus disarankan mempertimbangkan tiga jenis rekening: rekening parking, ISA, dan tabungan pensiun. Sumber menyebut era menyimpan uang hanya di rekening parking bank sudah berlalu, karena cara itu belum tentu memenuhi kebutuhan pengelolaan aset saat ini. Teks tersebut menekankan pentingnya memakai rekening sesuai tujuan agar kelelahan finansial berkurang sambil tetap memperoleh manfaat bunga dan pajak. Rekening parking disebut untuk dana jangka pendek, ISA untuk pengelolaan aset yang efisien pajak, dan tabungan pensiun untuk persiapan hari tua. Sumber: mk.co.kr"
       }
     }
   }
