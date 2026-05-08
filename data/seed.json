@@ -1,5 +1,230 @@
 [
   {
+    "id": "0877fc153951",
+    "slug": "삼전닉스-폭등-뒤에-이것-있었다240조-뭉칫돈-몰린-곳-분석-583843",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-05-08T21:43:20.911Z",
+    "updatedAt": "2026-05-08T21:43:20.911Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/2026050830656",
+    "canonicalUrl": "https://www.hankyung.com/article/2026050830656",
+    "titleFingerprint": "8c2c0db9fe22267b5ea119af8c421942dccd6f4a",
+    "dedupKeys": [
+      "0877fc1539517e5ecc69e0b6d21ecb05f7ba2c35",
+      "8c2c0db9fe22267b5ea119af8c421942dccd6f4a",
+      "590967153425f6ccdd2adf7a3d70ff61563dd544"
+    ],
+    "imageUrl": "/images/articles/0877fc153951.jpg",
+    "i18n": {
+      "ko": {
+        "title": "삼성전자 영업이익 239조 전망, 골드만삭스가 본 HBM·메모리 랠리 배경",
+        "excerpt": "골드만삭스는 3월 11일 삼성전자와 SK하이닉스 목표주가를 상향하고 AI용 HBM과 범용 D램·낸드 가격 상승에 따른 실적 급증 전망을 제시했다.",
+        "body": "글로벌 투자은행 골드만삭스가 3월 11일 삼성전자와 SK하이닉스 목표주가를 상향했다. AI용 고대역폭메모리(HBM)와 범용 D램·낸드 가격 상승으로 실적이 급증할 것이란 판단에서다. 삼성전자 목표가는 20만5000원에서 26만원으로 올라갔고, 올해 영업이익 전망치는 181조원에서 239조원으로 조정됐다. 내년 전망도 170조원에서 231조원으로 높아졌다. SK하이닉스 목표가는 120만원에서 135만원으로 상향됐으며 올해 영업이익 전망은 169조원에서 202조원으로 제시됐다. 골드만삭스는 AI 서버 수요가 메모리 공급의 상당 부분을 흡수하고 있다고 봤다. 출처: hankyung.com."
+      },
+      "en": {
+        "title": "Samsung Profit Forecast Raised to 239 Trillion Won as Goldman Cites HBM Demand",
+        "excerpt": "Goldman Sachs raised price targets for Samsung Electronics and SK Hynix on March 11, citing AI HBM demand and higher DRAM and NAND prices as drivers of earnings growth.",
+        "body": "Goldman Sachs raised its price targets for Samsung Electronics and SK Hynix on March 11, pointing to stronger earnings from AI high-bandwidth memory, general DRAM and NAND price increases. Samsung Electronics’ target price was lifted from 205,000 won to 260,000 won, while its 2026 operating profit forecast rose from 181 trillion won to 239 trillion won. The 2027 estimate was also raised from 170 trillion won to 231 trillion won. SK Hynix’s target price moved from 1.2 million won to 1.35 million won, with this year’s operating profit estimate raised from 169 trillion won to 202 trillion won. Goldman said AI server demand is absorbing a large share of memory supply. Source: hankyung.com."
+      },
+      "ja": {
+        "title": "サムスン営業益239兆ウォン予想、ゴールドマンが見たHBM需要の力",
+        "excerpt": "ゴールドマン・サックスは3月11日、AI向けHBMと汎用DRAM・NAND価格上昇を理由に、サムスン電子とSKハイニックスの目標株価を引き上げた。",
+        "body": "ゴールドマン・サックスは3月11日、サムスン電子とSKハイニックスの目標株価を引き上げた。AI向け高帯域幅メモリー（HBM）と汎用DRAM、NAND価格の上昇で業績が急増すると判断したためだ。サムスン電子の目標株価は20万5000ウォンから26万ウォンに上がり、今年の営業利益予想は181兆ウォンから239兆ウォンへ修正された。来年予想も170兆ウォンから231兆ウォンに引き上げられた。SKハイニックスの目標株価は120万ウォンから135万ウォンへ上がり、今年の営業利益予想は169兆ウォンから202兆ウォンとなった。AIサーバー需要がメモリー供給の相当部分を吸収しているとの見方だ。出所: hankyung.com."
+      },
+      "zh": {
+        "title": "三星电子营业利润上调至239万亿韩元，高盛看好HBM与存储涨价",
+        "excerpt": "高盛3月11日上调三星电子和SK海力士目标价，理由是AI用HBM需求增长以及通用DRAM、NAND价格上涨将推动业绩大幅改善。",
+        "body": "高盛3月11日上调了三星电子和SK海力士的目标股价，认为AI用高带宽存储器（HBM）以及通用DRAM、NAND价格上涨将推动业绩快速增长。三星电子目标价从20.5万韩元上调至26万韩元，今年营业利润预测从181万亿韩元上调至239万亿韩元，明年预测也从170万亿韩元升至231万亿韩元。SK海力士目标价从120万韩元上调至135万韩元，今年营业利润预测从169万亿韩元提高至202万亿韩元。高盛认为，AI服务器需求正在吸收相当大一部分存储器供应。来源: hankyung.com."
+      },
+      "es": {
+        "title": "Samsung apunta a 239 billones de wones de beneficio, según Goldman por HBM",
+        "excerpt": "Goldman Sachs elevó el 11 de marzo los precios objetivo de Samsung Electronics y SK Hynix por la demanda de HBM para IA y el alza de DRAM y NAND.",
+        "body": "Goldman Sachs elevó el 11 de marzo sus precios objetivo para Samsung Electronics y SK Hynix, al prever un fuerte aumento de beneficios por la memoria HBM para IA y la subida de precios de DRAM y NAND convencionales. El precio objetivo de Samsung pasó de 205.000 a 260.000 wones, y la previsión de beneficio operativo de este año subió de 181 a 239 billones de wones. La estimación del próximo año avanzó de 170 a 231 billones. Para SK Hynix, el objetivo subió de 1,2 millones a 1,35 millones de wones, y el beneficio operativo esperado para este año pasó de 169 a 202 billones. Goldman señaló que la demanda de servidores de IA absorbe una parte importante de la oferta de memoria. Fuente: hankyung.com."
+      },
+      "pt": {
+        "title": "Samsung tem lucro previsto de 239 tri de wones com HBM em foco para Goldman",
+        "excerpt": "O Goldman Sachs elevou em 11 de março os preços-alvo de Samsung Electronics e SK Hynix, citando demanda por HBM de IA e alta de DRAM e NAND.",
+        "body": "O Goldman Sachs elevou em 11 de março os preços-alvo de Samsung Electronics e SK Hynix, ao prever forte avanço dos lucros com HBM para inteligência artificial e alta nos preços de DRAM e NAND convencionais. O preço-alvo da Samsung subiu de 205 mil para 260 mil wones, enquanto a projeção de lucro operacional deste ano passou de 181 trilhões para 239 trilhões de wones. A estimativa para o próximo ano também subiu de 170 trilhões para 231 trilhões. Para a SK Hynix, o preço-alvo avançou de 1,2 milhão para 1,35 milhão de wones, e a previsão de lucro operacional deste ano foi elevada de 169 trilhões para 202 trilhões. O banco afirmou que a demanda de servidores de IA absorve grande parte da oferta de memória. Fonte: hankyung.com."
+      },
+      "de": {
+        "title": "Samsung-Gewinn auf 239 Billionen Won geschätzt, Goldman setzt auf HBM-Boom",
+        "excerpt": "Goldman Sachs hob am 11. März die Kursziele für Samsung Electronics und SK Hynix an, gestützt auf KI-HBM-Nachfrage sowie höhere DRAM- und NAND-Preise.",
+        "body": "Goldman Sachs hat am 11. März die Kursziele für Samsung Electronics und SK Hynix angehoben. Begründet wurde dies mit stark steigenden Gewinnen durch High-Bandwidth-Memory für KI sowie höhere Preise für allgemeines DRAM und NAND. Das Kursziel für Samsung stieg von 205.000 auf 260.000 Won, während die Prognose für den operativen Gewinn in diesem Jahr von 181 Billionen auf 239 Billionen Won angehoben wurde. Die Schätzung für das nächste Jahr stieg von 170 Billionen auf 231 Billionen Won. Für SK Hynix wurde das Kursziel von 1,2 Millionen auf 1,35 Millionen Won erhöht; die diesjährige Gewinnprognose stieg von 169 Billionen auf 202 Billionen Won. Goldman sieht KI-Server als großen Abnehmer des Speicherangebots. Quelle: hankyung.com."
+      },
+      "fr": {
+        "title": "Samsung visé à 239 billions de wons de bénéfice, Goldman mise sur la HBM IA",
+        "excerpt": "Goldman Sachs a relevé le 11 mars ses objectifs sur Samsung Electronics et SK Hynix, citant la demande de HBM pour l’IA et la hausse du DRAM et du NAND.",
+        "body": "Goldman Sachs a relevé le 11 mars ses objectifs de cours pour Samsung Electronics et SK Hynix, anticipant une forte progression des résultats grâce à la mémoire HBM destinée à l’IA et à la hausse des prix du DRAM et du NAND classiques. L’objectif de Samsung est passé de 205.000 à 260.000 wons, tandis que la prévision de bénéfice opérationnel de cette année a été relevée de 181 à 239 billions de wons. L’estimation pour l’an prochain est passée de 170 à 231 billions. Pour SK Hynix, l’objectif a été porté de 1,2 million à 1,35 million de wons, et la prévision de bénéfice opérationnel de cette année de 169 à 202 billions. Goldman estime que la demande des serveurs d’IA absorbe une grande partie de l’offre de mémoire. Source: hankyung.com."
+      },
+      "ar": {
+        "title": "توقعات ربح سامسونغ ترتفع إلى 239 تريليون وون مع رهان غولدمان على HBM",
+        "excerpt": "رفع غولدمان ساكس في 11 مارس الأسعار المستهدفة لسامسونغ إلكترونيكس وSK هاينكس بفضل طلب HBM للذكاء الاصطناعي وارتفاع أسعار DRAM وNAND.",
+        "body": "رفع غولدمان ساكس في 11 مارس السعر المستهدف لسامسونغ إلكترونيكس وSK هاينكس، متوقعا قفزة في الأرباح بفضل ذاكرة النطاق الترددي العالي HBM للذكاء الاصطناعي وارتفاع أسعار DRAM وNAND العامة. زاد السعر المستهدف لسامسونغ من 205 آلاف وون إلى 260 ألف وون، وارتفعت توقعات الربح التشغيلي لهذا العام من 181 تريليون وون إلى 239 تريليون وون. كما رُفعت تقديرات العام المقبل من 170 تريليون وون إلى 231 تريليون وون. أما SK هاينكس فارتفع هدفها من 1.2 مليون وون إلى 1.35 مليون وون، وزادت توقعات ربحها التشغيلي لهذا العام من 169 تريليون وون إلى 202 تريليون وون. ويرى البنك أن طلب خوادم الذكاء الاصطناعي يمتص جزءا كبيرا من معروض الذاكرة. المصدر: hankyung.com."
+      },
+      "hi": {
+        "title": "सैमसंग परिचालन लाभ 239 ट्रिलियन वॉन अनुमानित, HBM मांग पर गोल्डमैन बुलिश",
+        "excerpt": "गोल्डमैन सैक्स ने 11 मार्च को Samsung Electronics और SK Hynix के लक्ष्य मूल्य बढ़ाए, वजह AI HBM मांग और DRAM व NAND कीमतों में तेजी बताई।",
+        "body": "गोल्डमैन सैक्स ने 11 मार्च को Samsung Electronics और SK Hynix के लक्ष्य मूल्य बढ़ाए। बैंक ने AI के लिए हाई-बैंडविड्थ मेमोरी यानी HBM और सामान्य DRAM व NAND कीमतों में बढ़ोतरी से आय में तेज वृद्धि का अनुमान लगाया। Samsung का लक्ष्य मूल्य 205,000 वॉन से बढ़ाकर 260,000 वॉन किया गया, जबकि इस साल के परिचालन लाभ का अनुमान 181 ट्रिलियन वॉन से बढ़ाकर 239 ट्रिलियन वॉन किया गया। अगले साल का अनुमान भी 170 ट्रिलियन वॉन से बढ़ाकर 231 ट्रिलियन वॉन हुआ। SK Hynix का लक्ष्य 1.2 मिलियन वॉन से 1.35 मिलियन वॉन किया गया और इस साल का परिचालन लाभ अनुमान 169 ट्रिलियन वॉन से 202 ट्रिलियन वॉन कर दिया गया। बैंक के अनुसार AI सर्वर मांग मेमोरी आपूर्ति का बड़ा हिस्सा सोख रही है। स्रोत: hankyung.com."
+      },
+      "id": {
+        "title": "Laba Samsung Diproyeksi 239 Triliun Won, Goldman Soroti Lonjakan HBM AI",
+        "excerpt": "Goldman Sachs pada 11 Maret menaikkan target harga Samsung Electronics dan SK Hynix karena permintaan HBM AI serta kenaikan harga DRAM dan NAND.",
+        "body": "Goldman Sachs pada 11 Maret menaikkan target harga Samsung Electronics dan SK Hynix, dengan alasan lonjakan laba dari memori bandwidth tinggi atau HBM untuk AI serta kenaikan harga DRAM dan NAND umum. Target harga Samsung naik dari 205.000 won menjadi 260.000 won, sementara proyeksi laba operasional tahun ini dinaikkan dari 181 triliun won menjadi 239 triliun won. Estimasi tahun depan juga naik dari 170 triliun won menjadi 231 triliun won. Target SK Hynix dinaikkan dari 1,2 juta won menjadi 1,35 juta won, dan proyeksi laba operasional tahun ini naik dari 169 triliun won menjadi 202 triliun won. Goldman menilai permintaan server AI menyerap sebagian besar pasokan memori. Sumber: hankyung.com."
+      }
+    }
+  },
+  {
+    "id": "df57ca4ac369",
+    "slug": "미이란-교전-소식에건설株-동반-약세-408601",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-05-08T21:42:04.257Z",
+    "updatedAt": "2026-05-08T21:42:04.257Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/2026050833806",
+    "canonicalUrl": "https://www.hankyung.com/article/2026050833806",
+    "titleFingerprint": "000287cb83caabc84c883049344d556729980fab",
+    "dedupKeys": [
+      "df57ca4ac369320a2a91002f91eca6e19dc48aa3",
+      "000287cb83caabc84c883049344d556729980fab",
+      "ae76f9a1a01881f84ecd6255301cb19f175dfbc8"
+    ],
+    "imageUrl": "/images/articles/df57ca4ac369.jpg",
+    "i18n": {
+      "ko": {
+        "title": "미·이란 교전 소식에 건설주 동반 약세…중동 리스크 속 ETF 시장도 주목",
+        "excerpt": "미국과 이란의 교전 소식이 전해지며 국내 증시에서 건설주가 동반 약세를 보였다. 중동 정세 불안이 투자심리에 부담으로 작용한 흐름이다.",
+        "body": "미국과 이란의 교전 소식이 전해지면서 국내 증시에서 건설주가 동반 약세를 보였다. 누가 매도에 나섰는지, 어떤 종목이 얼마나 하락했는지에 대한 구체적 수치는 원문에 제시되지 않았지만, 제목상 핵심은 미·이란 충돌 관련 뉴스가 건설주 전반의 투자심리를 위축시켰다는 점이다. 건설주는 해외 수주, 중동 사업, 원자재와 물류 여건 등 대외 변수에 민감하게 반응할 수 있는 업종으로 분류된다. 이번 약세는 지정학적 긴장이 시장 심리에 반영된 사례로 볼 수 있다. 관련 ETF 투자자도 건설·인프라 업종 비중과 중동 리스크 노출 여부를 함께 점검할 필요가 있다. 출처는 hankyung.com이다."
+      },
+      "en": {
+        "title": "Construction Stocks Weaken on U.S.-Iran Clash News as ETF Investors Watch Risk",
+        "excerpt": "Construction stocks in South Korea moved lower after news of a U.S.-Iran clash, showing how Middle East tensions weighed on market sentiment.",
+        "body": "Construction stocks in the South Korean market weakened together after news of a clash between the United States and Iran. The original item did not provide specific figures on which investors sold, which companies fell, or by how much. Its key point is that reports tied to the U.S.-Iran conflict pressured sentiment across the construction sector. Construction shares can be sensitive to external variables such as overseas orders, Middle East projects, raw materials, and logistics conditions. The decline therefore reflects how geopolitical tension can be transmitted into market psychology. ETF investors may need to review exposure to construction and infrastructure sectors as well as any Middle East-related risk. Source: hankyung.com."
+      },
+      "ja": {
+        "title": "米・イラン交戦報道で建設株がそろって軟調、ETF投資家も中東リスクを注視",
+        "excerpt": "米国とイランの交戦報道を受け、韓国市場で建設株がそろって弱含んだ。中東情勢の不安が投資心理の重荷となった流れだ。",
+        "body": "米国とイランの交戦に関する報道が伝わり、韓国株式市場では建設株がそろって軟調となった。原文では、誰が売りに回ったのか、どの銘柄がどの程度下落したのかといった具体的な数値は示されていない。中心となる事実は、米・イランの衝突に関連するニュースが建設株全般の投資心理を冷やしたという点だ。建設株は海外受注、中東事業、原材料、物流環境など外部要因に反応しやすい業種とされる。今回の弱含みは、地政学的緊張が市場心理に反映された例といえる。ETF投資家も建設・インフラ関連比率と中東リスクへの露出を確認する必要がある。出典はhankyung.com。"
+      },
+      "zh": {
+        "title": "美伊交战消息拖累建筑股集体走弱，ETF投资者关注中东风险",
+        "excerpt": "美国与伊朗交战消息传出后，韩国股市建筑股同步走弱。中东局势不安对投资情绪形成压力。",
+        "body": "美国与伊朗交战的消息传出后，韩国股市中的建筑股集体走弱。原文未提供具体是谁在卖出、哪些个股下跌以及跌幅多少等数据，核心信息是与美伊冲突相关的消息削弱了建筑板块整体投资情绪。建筑股通常会受到海外订单、中东项目、原材料和物流条件等外部变量影响。此次走弱可被视为地缘政治紧张反映到市场心理中的一个案例。对于ETF投资者而言，也需要关注产品中建筑和基础设施行业的权重，以及是否暴露于中东相关风险。来源：hankyung.com。"
+      },
+      "es": {
+        "title": "Constructoras caen por noticias de choque entre EE. UU. e Irán; ETF vigilan riesgo",
+        "excerpt": "Las acciones de construcción en Corea del Sur bajaron tras noticias de enfrentamiento entre EE. UU. e Irán, presionadas por la incertidumbre en Oriente Medio.",
+        "body": "Las acciones de construcción del mercado surcoreano mostraron debilidad conjunta después de conocerse noticias sobre un enfrentamiento entre Estados Unidos e Irán. El texto original no ofrece cifras concretas sobre qué inversores vendieron, qué valores cayeron o cuánto retrocedieron. El punto central es que la noticia vinculada al conflicto EE. UU.-Irán deterioró el sentimiento hacia el sector constructor. Estas compañías suelen ser sensibles a variables externas como pedidos en el extranjero, proyectos en Oriente Medio, materias primas y logística. La caída refleja cómo la tensión geopolítica puede trasladarse a la psicología del mercado. Los inversores en ETF deberían revisar su exposición a construcción, infraestructura y riesgos relacionados con Oriente Medio. Fuente: hankyung.com."
+      },
+      "pt": {
+        "title": "Ações de construção recuam com notícia de confronto EUA-Irã; ETFs monitoram risco",
+        "excerpt": "As ações de construção na Coreia do Sul caíram em conjunto após notícias de confronto entre EUA e Irã, com a tensão no Oriente Médio pesando no sentimento.",
+        "body": "As ações de construção no mercado sul-coreano recuaram em conjunto depois da notícia de um confronto entre Estados Unidos e Irã. O texto original não apresentou números específicos sobre quem vendeu, quais empresas caíram ou qual foi a dimensão das perdas. O ponto principal é que a notícia ligada ao conflito EUA-Irã pressionou o sentimento em todo o setor de construção. Essas ações podem reagir a variáveis externas como contratos no exterior, projetos no Oriente Médio, matérias-primas e condições logísticas. A fraqueza mostra como a tensão geopolítica pode afetar a psicologia do mercado. Investidores em ETF devem observar a exposição a construção, infraestrutura e riscos relacionados ao Oriente Médio. Fonte: hankyung.com."
+      },
+      "de": {
+        "title": "Bauaktien schwächer nach Meldung zu US-Iran-Gefecht; ETF-Anleger achten auf Risiko",
+        "excerpt": "Südkoreanische Bauaktien gaben nach Meldungen über ein Gefecht zwischen den USA und Iran gemeinsam nach. Nahost-Risiken belasteten die Marktstimmung.",
+        "body": "Südkoreanische Bauaktien zeigten gemeinsam Schwäche, nachdem Meldungen über ein Gefecht zwischen den USA und Iran bekannt wurden. Der ursprüngliche Text nennt keine konkreten Zahlen dazu, wer verkaufte, welche Einzeltitel fielen oder wie stark die Rückgänge waren. Die zentrale Aussage ist, dass Nachrichten zum US-Iran-Konflikt die Stimmung im Bausektor belasteten. Bauwerte können empfindlich auf externe Faktoren wie Auslandsaufträge, Projekte im Nahen Osten, Rohstoffe und Logistikbedingungen reagieren. Der Rückgang zeigt, wie geopolitische Spannungen in die Marktpsychologie einfließen können. ETF-Anleger sollten daher ihre Gewichtung in Bau- und Infrastrukturwerten sowie mögliche Nahost-Risiken prüfen. Quelle: hankyung.com."
+      },
+      "fr": {
+        "title": "Les valeurs de construction reculent avec le choc États-Unis-Iran; les ETF surveillent",
+        "excerpt": "Les valeurs sud-coréennes de la construction ont baissé après des nouvelles de confrontation entre les États-Unis et l’Iran, sous pression du risque moyen-oriental.",
+        "body": "Les valeurs de la construction sur le marché sud-coréen ont reculé ensemble après la diffusion d’informations sur une confrontation entre les États-Unis et l’Iran. Le texte original ne donne pas de chiffres précis sur les vendeurs, les titres concernés ou l’ampleur des baisses. Le fait central est que les nouvelles liées au conflit américano-iranien ont pesé sur le sentiment envers le secteur de la construction. Ces actions peuvent être sensibles aux commandes à l’étranger, aux projets au Moyen-Orient, aux matières premières et aux conditions logistiques. Ce repli illustre la transmission des tensions géopolitiques à la psychologie de marché. Les investisseurs en ETF devraient vérifier leur exposition à la construction, aux infrastructures et aux risques liés au Moyen-Orient. Source : hankyung.com."
+      },
+      "ar": {
+        "title": "أسهم البناء تضعف مع أنباء اشتباك أميركي إيراني ومستثمرو ETF يراقبون المخاطر",
+        "excerpt": "تراجعت أسهم البناء في كوريا الجنوبية جماعيا بعد أنباء عن اشتباك بين الولايات المتحدة وإيران، مع ضغط توترات الشرق الأوسط على شهية المستثمرين.",
+        "body": "تراجعت أسهم البناء في السوق الكورية الجنوبية بصورة جماعية بعد ورود أنباء عن اشتباك بين الولايات المتحدة وإيران. لم يقدّم النص الأصلي أرقاما محددة حول من قام بالبيع، أو أي الشركات هبطت، أو حجم التراجع. النقطة الأساسية هي أن الأخبار المرتبطة بالصراع الأميركي الإيراني أثرت سلبا في معنويات المستثمرين تجاه قطاع البناء. ويمكن لأسهم البناء أن تتأثر بعوامل خارجية مثل الطلبيات الخارجية، ومشروعات الشرق الأوسط، والمواد الخام، وظروف النقل والإمداد. ويعكس هذا الضعف انتقال التوتر الجيوسياسي إلى نفسية السوق. وعلى مستثمري صناديق ETF مراجعة الانكشاف على قطاعات البناء والبنية التحتية والمخاطر المرتبطة بالشرق الأوسط. المصدر: hankyung.com."
+      },
+      "hi": {
+        "title": "अमेरिका-ईरान झड़प की खबर से निर्माण शेयर कमजोर, ETF निवेशक जोखिम पर नजर रखें",
+        "excerpt": "अमेरिका और ईरान के बीच झड़प की खबर के बाद दक्षिण कोरिया में निर्माण शेयर सामूहिक रूप से कमजोर हुए, क्योंकि मध्य पूर्व तनाव ने निवेश भावना पर दबाव डाला।",
+        "body": "अमेरिका और ईरान के बीच झड़प की खबर सामने आने के बाद दक्षिण कोरियाई बाजार में निर्माण क्षेत्र के शेयर सामूहिक रूप से कमजोर हुए। मूल समाचार में यह नहीं बताया गया कि किसने बिकवाली की, कौन से शेयर कितने गिरे, या गिरावट का सटीक आकार क्या था। मुख्य तथ्य यह है कि अमेरिका-ईरान संघर्ष से जुड़ी खबर ने निर्माण क्षेत्र के प्रति निवेश भावना को दबाव में डाला। निर्माण शेयर विदेशी ऑर्डर, मध्य पूर्व परियोजनाओं, कच्चे माल और लॉजिस्टिक्स जैसी बाहरी स्थितियों से प्रभावित हो सकते हैं। यह कमजोरी दिखाती है कि भू-राजनीतिक तनाव बाजार मनोविज्ञान में कैसे उतरता है। ETF निवेशकों को निर्माण और अवसंरचना क्षेत्र की हिस्सेदारी तथा मध्य पूर्व जोखिम की जांच करनी चाहिए। स्रोत: hankyung.com."
+      },
+      "id": {
+        "title": "Saham konstruksi melemah karena kabar bentrokan AS-Iran; investor ETF cermati risiko",
+        "excerpt": "Saham konstruksi Korea Selatan melemah bersamaan setelah kabar bentrokan AS-Iran, menunjukkan tekanan risiko Timur Tengah terhadap sentimen pasar.",
+        "body": "Saham konstruksi di pasar Korea Selatan melemah bersamaan setelah muncul kabar bentrokan antara Amerika Serikat dan Iran. Teks asli tidak memuat angka spesifik mengenai siapa yang menjual, saham mana yang turun, atau seberapa besar penurunannya. Inti beritanya adalah kabar terkait konflik AS-Iran menekan sentimen terhadap sektor konstruksi secara luas. Saham konstruksi dapat sensitif terhadap faktor eksternal seperti pesanan luar negeri, proyek Timur Tengah, bahan baku, dan kondisi logistik. Pelemahan ini menunjukkan bagaimana ketegangan geopolitik dapat tercermin dalam psikologi pasar. Investor ETF perlu meninjau eksposur pada sektor konstruksi dan infrastruktur serta risiko yang berkaitan dengan Timur Tengah. Sumber: hankyung.com."
+      }
+    }
+  },
+  {
+    "id": "c2ddfd2783ee",
+    "slug": "한울반도체mds테크-액면병합-후-첫날-상한가-106381",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-05-08T21:40:55.731Z",
+    "updatedAt": "2026-05-08T21:40:55.731Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/2026050834296",
+    "canonicalUrl": "https://www.hankyung.com/article/2026050834296",
+    "titleFingerprint": "117b990699d1026dbadb0f682adfb11386a73793",
+    "dedupKeys": [
+      "c2ddfd2783ee0725238354ecafcc530d9a5017ec",
+      "117b990699d1026dbadb0f682adfb11386a73793",
+      "d5820d43a26be5db943adf7e664ffed9430a492e"
+    ],
+    "imageUrl": "/images/articles/c2ddfd2783ee.jpg",
+    "i18n": {
+      "ko": {
+        "title": "한울반도체·MDS테크, 액면병합 후 첫 거래일 나란히 상한가 기록",
+        "excerpt": "한울반도체와 MDS테크가 액면병합을 마친 뒤 첫 거래일에 상한가를 기록했다. 거래 재개 직후 두 종목의 가격 흐름이 시장의 관심을 끌었다.",
+        "body": "한울반도체와 MDS테크가 액면병합 이후 첫 거래일에 나란히 상한가를 기록했다고 hankyung.com이 전했다. 두 종목은 액면병합 절차를 마친 뒤 거래가 재개된 첫날 가격제한폭까지 오르며 투자자들의 주목을 받았다. 액면병합은 여러 주식을 합쳐 주당 액면가를 높이는 방식으로, 거래 재개 첫날의 주가 흐름은 해당 종목에 대한 시장 반응을 보여주는 지표가 된다. 다만 원문 입력에는 병합 비율, 기준가, 거래량, 구체적인 시각 등 추가 수치는 포함되지 않았다. 출처: hankyung.com"
+      },
+      "en": {
+        "title": "Hanul Semiconductor and MDS Tech Hit Upper Limit on First Day After Reverse Split",
+        "excerpt": "Hanul Semiconductor and MDS Tech reached the daily upper price limit on their first trading day after a reverse stock split, drawing market attention after trading resumed.",
+        "body": "Hanul Semiconductor and MDS Tech both hit the daily upper price limit on their first trading day after completing reverse stock splits, according to hankyung.com. The two stocks drew attention as trading resumed and prices rose to the market’s upper limit. A reverse stock split combines multiple shares into fewer shares with a higher par value, and the first session after resumption can show how investors respond to the change. The provided source text did not include the split ratio, reference price, trading volume, or exact trading time. Source: hankyung.com"
+      },
+      "ja": {
+        "title": "ハンウル半導体とMDSテック、株式併合後の初取引日にそろってストップ高",
+        "excerpt": "ハンウル半導体とMDSテックは株式併合後の初取引日にストップ高を記録した。取引再開直後の値動きが市場の関心を集めた。",
+        "body": "ハンウル半導体とMDSテックが、株式併合後の初取引日にそろってストップ高を記録したとhankyung.comが伝えた。両銘柄は株式併合の手続きを終え、取引が再開された初日に値幅制限の上限まで上昇し、投資家の注目を集めた。株式併合は複数の株式をまとめて1株当たりの額面を高める方法で、取引再開初日の株価推移は市場の反応を示す材料となる。ただし、提供された原文には併合比率、基準価格、出来高、具体的な時刻などの追加数値は含まれていない。出典: hankyung.com"
+      },
+      "zh": {
+        "title": "Hanul Semiconductor与MDS Tech并涨停，合股后首个交易日受关注",
+        "excerpt": "Hanul Semiconductor和MDS Tech在完成股票合并后的首个交易日双双涨停。交易恢复后的股价表现引发市场关注。",
+        "body": "据hankyung.com报道，Hanul Semiconductor和MDS Tech在股票合并后的首个交易日双双触及涨停。两只股票在完成合股程序并恢复交易后，首日价格升至涨跌幅限制上限，受到投资者关注。股票合并是将多股合并为较少股份、提高每股面值的方式，恢复交易首日的走势可反映市场对相关变化的反应。不过，所提供原文未包含合并比例、基准价、成交量或具体交易时间等进一步数据。来源: hankyung.com"
+      },
+      "es": {
+        "title": "Hanul Semiconductor y MDS Tech tocan el límite alcista tras su primer día poscontrasplit",
+        "excerpt": "Hanul Semiconductor y MDS Tech alcanzaron el límite diario de subida en su primer día de negociación tras un contrasplit, atrayendo la atención del mercado.",
+        "body": "Hanul Semiconductor y MDS Tech alcanzaron el límite diario de subida en su primer día de negociación tras completar un contrasplit, según hankyung.com. Las dos acciones atrajeron la atención de los inversores al reanudarse la negociación y subir hasta el máximo permitido por la jornada. Un contrasplit combina varias acciones en menos títulos con mayor valor nominal por acción, y la primera sesión tras la reanudación puede mostrar la reacción del mercado. El texto fuente proporcionado no incluyó la proporción del contrasplit, precio de referencia, volumen negociado ni hora exacta. Fuente: hankyung.com"
+      },
+      "pt": {
+        "title": "Hanul Semiconductor e MDS Tech sobem ao limite no 1º dia após grupamento",
+        "excerpt": "Hanul Semiconductor e MDS Tech atingiram o limite diário de alta no primeiro pregão após o grupamento de ações, chamando atenção após a retomada das negociações.",
+        "body": "Hanul Semiconductor e MDS Tech atingiram o limite diário de alta no primeiro pregão após concluírem o grupamento de ações, segundo o hankyung.com. Os dois papéis chamaram a atenção dos investidores quando as negociações foram retomadas e os preços subiram até o teto permitido no dia. O grupamento reúne várias ações em uma quantidade menor de papéis com valor nominal maior por ação, e a primeira sessão após a retomada pode indicar a reação do mercado. O texto original fornecido não informou proporção do grupamento, preço de referência, volume negociado ou horário exato. Fonte: hankyung.com"
+      },
+      "de": {
+        "title": "Hanul Semiconductor und MDS Tech erreichen Tageslimit nach Reverse Split",
+        "excerpt": "Hanul Semiconductor und MDS Tech erreichten am ersten Handelstag nach einem Reverse Split das tägliche Kurslimit. Die Wiederaufnahme des Handels rückte beide Aktien in den Fokus.",
+        "body": "Hanul Semiconductor und MDS Tech haben am ersten Handelstag nach abgeschlossenen Reverse Splits jeweils das tägliche obere Kurslimit erreicht, berichtete hankyung.com. Nach Wiederaufnahme des Handels stiegen beide Aktien bis zur zulässigen Obergrenze und zogen damit die Aufmerksamkeit der Anleger auf sich. Bei einem Reverse Split werden mehrere Aktien zu weniger Aktien mit höherem Nennwert zusammengelegt; die erste Sitzung nach der Wiederaufnahme kann die Marktreaktion zeigen. Im bereitgestellten Ausgangstext waren Split-Verhältnis, Referenzkurs, Handelsvolumen und genaue Uhrzeit nicht enthalten. Quelle: hankyung.com"
+      },
+      "fr": {
+        "title": "Hanul Semiconductor et MDS Tech au plafond de hausse après leur regroupement d’actions",
+        "excerpt": "Hanul Semiconductor et MDS Tech ont atteint la limite quotidienne de hausse lors de leur premier jour de cotation après un regroupement d’actions, attirant l’attention du marché.",
+        "body": "Hanul Semiconductor et MDS Tech ont tous deux atteint la limite quotidienne de hausse lors de leur premier jour de cotation après un regroupement d’actions, selon hankyung.com. Les deux titres ont attiré l’attention des investisseurs après la reprise des échanges, leurs cours montant jusqu’au plafond autorisé. Un regroupement d’actions consiste à réunir plusieurs actions en un nombre plus faible de titres avec une valeur nominale plus élevée par action; la première séance après reprise peut refléter la réaction du marché. Le texte source fourni ne précisait pas le ratio, le prix de référence, le volume ou l’heure exacte. Source: hankyung.com"
+      },
+      "ar": {
+        "title": "هانول سيميكوندكتور وMDS Tech يبلغان الحد الأعلى في أول تداول بعد تجميع الأسهم",
+        "excerpt": "سجلت هانول سيميكوندكتور وMDS Tech الحد اليومي الأعلى للسعر في أول يوم تداول بعد تجميع الأسهم، ما جذب اهتمام السوق عقب استئناف التداول.",
+        "body": "سجلت هانول سيميكوندكتور وMDS Tech الحد اليومي الأعلى للسعر في أول يوم تداول بعد إتمام تجميع الأسهم، بحسب hankyung.com. وجذبت السهمان انتباه المستثمرين مع استئناف التداول وارتفاع السعرين إلى الحد الأقصى المسموح به في الجلسة. ويعني تجميع الأسهم دمج عدة أسهم في عدد أقل من الأسهم مع رفع القيمة الاسمية للسهم الواحد، ويمكن أن يوضح أول يوم تداول بعد الاستئناف رد فعل السوق. ولم يتضمن النص الأصلي المقدم نسبة التجميع أو السعر المرجعي أو حجم التداول أو التوقيت الدقيق. المصدر: hankyung.com"
+      },
+      "hi": {
+        "title": "Hanul Semiconductor और MDS Tech रिवर्स स्प्लिट के बाद पहले दिन ऊपरी सीमा पर",
+        "excerpt": "Hanul Semiconductor और MDS Tech ने रिवर्स स्टॉक स्प्लिट के बाद पहले कारोबारी दिन दैनिक ऊपरी मूल्य सीमा छू ली, जिससे बाजार का ध्यान इन शेयरों पर गया।",
+        "body": "hankyung.com के अनुसार, Hanul Semiconductor और MDS Tech ने रिवर्स स्टॉक स्प्लिट पूरा करने के बाद पहले कारोबारी दिन दैनिक ऊपरी मूल्य सीमा दर्ज की। कारोबार फिर शुरू होने पर दोनों शेयर अधिकतम अनुमत स्तर तक चढ़े और निवेशकों का ध्यान आकर्षित किया। रिवर्स स्टॉक स्प्लिट में कई शेयरों को मिलाकर कम संख्या के शेयर बनाए जाते हैं और प्रति शेयर अंकित मूल्य बढ़ता है; पुनः कारोबार के पहले दिन की चाल बाजार की प्रतिक्रिया दिखा सकती है। उपलब्ध मूल पाठ में स्प्लिट अनुपात, संदर्भ मूल्य, कारोबार मात्रा या सटीक समय शामिल नहीं था। स्रोत: hankyung.com"
+      },
+      "id": {
+        "title": "Hanul Semiconductor dan MDS Tech Sentuh Batas Atas Usai Reverse Stock Split",
+        "excerpt": "Hanul Semiconductor dan MDS Tech mencapai batas atas harian pada hari pertama perdagangan setelah reverse stock split, menarik perhatian pasar saat perdagangan kembali dibuka.",
+        "body": "Hanul Semiconductor dan MDS Tech sama-sama menyentuh batas atas harian pada hari pertama perdagangan setelah menyelesaikan reverse stock split, menurut hankyung.com. Kedua saham menarik perhatian investor setelah perdagangan kembali dibuka dan harga naik hingga batas maksimum yang diizinkan. Reverse stock split menggabungkan beberapa saham menjadi jumlah saham yang lebih sedikit dengan nilai nominal per saham lebih tinggi, dan sesi pertama setelah pembukaan kembali dapat menunjukkan respons pasar. Teks sumber yang diberikan tidak memuat rasio penggabungan, harga acuan, volume perdagangan, atau waktu persis. Sumber: hankyung.com"
+      }
+    }
+  },
+  {
     "id": "c34c37b44d54",
     "slug": "hd한국조선해양-분석-구조적인-수익성-개선환율수주환경-변화가-변수-152531",
     "channelId": "ETF",
@@ -4271,231 +4496,6 @@
         "title": "Baillie Gifford, pemegang saham No. 2 Coupang, jual saham sekitar 800 miliar won",
         "excerpt": "Manajer aset Inggris Baillie Gifford baru-baru ini menjual besar-besaran saham Coupang, menurut data SEC pada 8 Mei dengan acuan akhir Maret.",
         "body": "Baillie Gifford, manajer aset asal Inggris yang menjadi pemegang saham terbesar kedua Coupang, diketahui baru-baru ini menjual saham Coupang dalam jumlah besar. Menurut dokumen Komisi Sekuritas dan Bursa AS (SEC) pada 8 Mei, perubahan kepemilikan Baillie Gifford di Coupang terkonfirmasi berdasarkan posisi akhir Maret. Nilai penjualan tersebut dilaporkan sekitar 800 miliar won. Karena Baillie Gifford selama ini dikategorikan sebagai pemegang saham utama Coupang, aksi penjualan ini menarik perhatian pasar. Perubahan struktur pemegang saham Coupang dan strategi kepemilikan investor institusional besar itu diperkirakan tetap menjadi perhatian terkait dampaknya pada sentimen investasi. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "60b6a0bc4b50",
-    "slug": "로봇-완성도-높아졌네-관련株-일제히-급등세-148119",
-    "channelId": "ETF",
-    "category": "etf",
-    "publishedAt": "2026-05-08T09:31:52.593Z",
-    "updatedAt": "2026-05-08T09:31:52.593Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/stock/12041387",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12041387",
-    "titleFingerprint": "4e889d3341a9cf63d22e6a25b75922e998a4cea3",
-    "dedupKeys": [
-      "60b6a0bc4b50b141210eb318cf7929376d627820",
-      "4e889d3341a9cf63d22e6a25b75922e998a4cea3",
-      "60dce6012b95f9c6a853f27e8a2f819d534a305f"
-    ],
-    "imageUrl": "/images/articles/60b6a0bc4b50.jpg",
-    "i18n": {
-      "ko": {
-        "title": "로봇 관련주 급등, 보스턴다이내믹스·LG CNS 영상 공개가 촉발",
-        "excerpt": "현대차그룹 자회사 보스턴다이내믹스와 LG CNS가 최근 진일보한 로봇 구동 영상을 잇달아 공개하면서 로봇 관련주가 가파른 반등세를 보였다.",
-        "body": "로봇 관련주가 최근 국내 증시에서 일제히 급등세를 나타냈다. 현대자동차그룹의 로보틱스 자회사 보스턴다이내믹스와 LG CNS 등이 진일보한 로봇 구동 영상을 잇달아 공개한 것이 투자심리를 자극한 배경으로 꼽힌다. 공개된 영상은 로봇 기술의 완성도가 높아지고 있다는 인식을 키웠고, 관련 기업들의 상용화 로드맵에 대한 시장 관심도 함께 높였다. 이에 따라 로봇 테마주는 가파른 반등 흐름을 보였으며, 향후 실제 상용화 진척 여부가 주가 흐름의 핵심 변수로 거론된다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Robot Stocks Jump as Boston Dynamics and LG CNS Reveal New Videos",
-        "excerpt": "Robot-related stocks rebounded sharply after Boston Dynamics, Hyundai Motor Group’s robotics unit, and LG CNS released advanced robot operation videos in succession.",
-        "body": "Robot-related stocks recently rose sharply across the market. The rebound followed the release of advanced robot operation videos by Boston Dynamics, Hyundai Motor Group’s robotics subsidiary, and LG CNS. The videos strengthened market perception that robot technology is becoming more complete and drew attention to commercialization roadmaps among related companies. As a result, robot theme stocks showed a steep recovery. Going forward, the pace of actual commercialization is expected to remain a key factor for share price movements. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "ロボット関連株が急騰、ボストン・ダイナミクスとLG CNS動画が材料に",
-        "excerpt": "現代自動車グループ傘下のボストン・ダイナミクスとLG CNSが進化したロボット駆動映像を相次ぎ公開し、関連株が急反発した。",
-        "body": "ロボット関連株が最近、株式市場で一斉に急騰した。現代自動車グループのロボティクス子会社ボストン・ダイナミクスとLG CNSなどが、進化したロボット駆動映像を相次いで公開したことが投資心理を刺激した。公開された映像は、ロボット技術の完成度が高まっているとの認識を広げ、関連企業の商用化ロードマップへの関心も高めた。これによりロボットテーマ株は急反発の流れを示した。今後は実際の商用化の進展が株価動向の主要な変数になるとみられる。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "机器人概念股集体上涨，波士顿动力与LG CNS视频带动关注",
-        "excerpt": "现代汽车集团旗下波士顿动力与LG CNS近期接连发布更先进的机器人运行视频，推动机器人相关股票出现快速反弹。",
-        "body": "机器人相关股票近期在市场上集体大幅上涨。现代汽车集团旗下机器人子公司波士顿动力以及LG CNS等公司接连发布更先进的机器人运行视频，被认为提振了投资情绪。这些视频强化了市场对机器人技术成熟度提升的认知，也带动了对相关企业商业化路线图的关注。因此，机器人主题股出现了快速反弹走势。后续实际商业化进展将成为影响相关股价表现的重要因素。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Acciones de robótica suben tras videos de Boston Dynamics y LG CNS",
-        "excerpt": "Las acciones vinculadas a robótica repuntaron con fuerza después de que Boston Dynamics, filial de Hyundai Motor Group, y LG CNS difundieran nuevos videos operativos.",
-        "body": "Las acciones relacionadas con la robótica registraron recientemente fuertes subidas en el mercado. El movimiento se produjo después de que Boston Dynamics, filial de robótica de Hyundai Motor Group, y LG CNS publicaran de forma sucesiva videos de operación robótica más avanzados. Las imágenes reforzaron la percepción de que la tecnología robótica está alcanzando un mayor grado de madurez y elevaron el interés por las hojas de ruta de comercialización de las empresas del sector. Como resultado, los valores temáticos de robótica mostraron un marcado repunte. En adelante, el avance real de la comercialización será una variable clave para sus cotizaciones. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Ações de robótica disparam após vídeos da Boston Dynamics e LG CNS",
-        "excerpt": "Papéis ligados à robótica reagiram fortemente após Boston Dynamics, subsidiária do Hyundai Motor Group, e LG CNS divulgarem vídeos avançados de operação de robôs.",
-        "body": "As ações relacionadas à robótica subiram fortemente nos últimos pregões. O movimento ocorreu depois que a Boston Dynamics, subsidiária de robótica do Hyundai Motor Group, e a LG CNS divulgaram em sequência vídeos mais avançados de operação de robôs. As imagens reforçaram a percepção de que a tecnologia robótica está ganhando maior nível de maturidade e aumentaram o interesse do mercado pelos roteiros de comercialização das empresas do setor. Com isso, os papéis temáticos de robótica mostraram forte recuperação. Daqui em diante, o avanço efetivo da comercialização deve seguir como fator central para as ações. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Robotik-Aktien steigen nach Videos von Boston Dynamics und LG CNS",
-        "excerpt": "Robotiknahe Aktien legten deutlich zu, nachdem Boston Dynamics, Robotiktochter der Hyundai Motor Group, und LG CNS fortschrittliche Robotervideos veröffentlichten.",
-        "body": "Robotikbezogene Aktien verzeichneten zuletzt deutliche Kursgewinne. Auslöser war die Veröffentlichung fortschrittlicher Videos zum Roboterbetrieb durch Boston Dynamics, die Robotiktochter der Hyundai Motor Group, sowie LG CNS. Die Aufnahmen stärkten die Wahrnehmung, dass die technische Reife von Robotern zunimmt, und lenkten zugleich mehr Aufmerksamkeit auf die Kommerzialisierungsfahrpläne der beteiligten Unternehmen. In der Folge zeigten Robotik-Themenwerte eine kräftige Erholung. Künftig dürfte der tatsächliche Fortschritt bei der Kommerzialisierung ein zentraler Faktor für die Kursentwicklung bleiben. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Les valeurs robotiques bondissent après des vidéos de Boston Dynamics et LG CNS",
-        "excerpt": "Les actions liées à la robotique ont vivement rebondi après la diffusion de vidéos avancées par Boston Dynamics, filiale de Hyundai Motor Group, et LG CNS.",
-        "body": "Les actions liées à la robotique ont récemment fortement progressé sur le marché. Ce rebond fait suite à la publication successive de vidéos avancées de fonctionnement de robots par Boston Dynamics, filiale robotique de Hyundai Motor Group, et LG CNS. Ces images ont renforcé l’idée que la technologie robotique gagne en maturité et ont accru l’attention portée aux feuilles de route de commercialisation des entreprises concernées. Les valeurs thématiques de la robotique ont ainsi affiché une nette reprise. À l’avenir, les progrès réels de la commercialisation devraient rester un facteur déterminant pour les cours. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "أسهم الروبوتات تقفز بعد مقاطع جديدة من بوسطن دايناميكس وLG CNS",
-        "excerpt": "ارتفعت الأسهم المرتبطة بالروبوتات بقوة بعد أن نشرت بوسطن دايناميكس، التابعة لمجموعة هيونداي موتور، وLG CNS مقاطع تشغيل روبوتات أكثر تقدما.",
-        "body": "سجلت الأسهم المرتبطة بالروبوتات ارتفاعات حادة في السوق مؤخرا. وجاءت الحركة بعدما نشرت بوسطن دايناميكس، شركة الروبوتات التابعة لمجموعة هيونداي موتور، وLG CNS مقاطع فيديو متقدمة لتشغيل الروبوتات بشكل متتابع. عززت هذه المقاطع الانطباع بأن مستوى نضج تقنية الروبوتات يتحسن، كما زادت اهتمام السوق بخطط الشركات ذات الصلة للوصول إلى الاستخدام التجاري. ونتيجة لذلك، أظهرت أسهم قطاع الروبوتات تعافيا قويا. ومن المتوقع أن يظل تقدم التطبيق التجاري الفعلي عاملا رئيسيا في حركة الأسعار. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "Boston Dynamics और LG CNS के वीडियो के बाद रोबोटिक्स शेयरों में तेजी",
-        "excerpt": "Hyundai Motor Group की रोबोटिक्स इकाई Boston Dynamics और LG CNS द्वारा उन्नत रोबोट संचालन वीडियो जारी करने के बाद रोबोट संबंधित शेयरों में तेज उछाल आया।",
-        "body": "रोबोटिक्स से जुड़े शेयरों में हाल में बाजार में एक साथ तेज बढ़त देखी गई। यह तेजी Hyundai Motor Group की रोबोटिक्स सहायक कंपनी Boston Dynamics और LG CNS द्वारा उन्नत रोबोट संचालन वीडियो लगातार जारी किए जाने के बाद आई। इन वीडियो ने यह धारणा मजबूत की कि रोबोट तकनीक की परिपक्वता बढ़ रही है और संबंधित कंपनियों की व्यावसायीकरण योजनाओं पर बाजार का ध्यान भी बढ़ा। इसके परिणामस्वरूप रोबोट थीम वाले शेयरों में तीखा पलटाव दिखा। आगे वास्तविक व्यावसायीकरण की प्रगति शेयर मूल्य की दिशा के लिए प्रमुख कारक मानी जाएगी। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Saham Robotik Melonjak Usai Video Boston Dynamics dan LG CNS Dirilis",
-        "excerpt": "Saham terkait robotik menguat tajam setelah Boston Dynamics, anak usaha robotik Hyundai Motor Group, dan LG CNS merilis video operasi robot yang lebih maju.",
-        "body": "Saham yang terkait dengan robotik baru-baru ini mencatat kenaikan tajam di pasar. Penguatan tersebut terjadi setelah Boston Dynamics, anak usaha robotik Hyundai Motor Group, serta LG CNS merilis secara beruntun video operasi robot yang lebih maju. Video itu memperkuat persepsi bahwa tingkat kematangan teknologi robot semakin meningkat dan ikut menarik perhatian pasar pada peta jalan komersialisasi perusahaan terkait. Akibatnya, saham bertema robotik menunjukkan rebound yang kuat. Ke depan, kemajuan komersialisasi nyata akan menjadi faktor utama bagi pergerakan harga saham. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "2a99bd36c8e7",
-    "slug": "코오롱인더-영업이익-130-급증-928403",
-    "channelId": "ETF",
-    "category": "etf",
-    "publishedAt": "2026-05-08T09:30:59.005Z",
-    "updatedAt": "2026-05-08T09:30:59.005Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/stock/12041386",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12041386",
-    "titleFingerprint": "5c737ce01098a5d8351ef9f44d353787d4695bfa",
-    "dedupKeys": [
-      "2a99bd36c8e7d343cb1d0809c3ea5d8de92d9985",
-      "5c737ce01098a5d8351ef9f44d353787d4695bfa",
-      "663bf68efc325d63e07186025d8c851e0246e1ab"
-    ],
-    "imageUrl": "/images/articles/2a99bd36c8e7.jpg",
-    "i18n": {
-      "ko": {
-        "title": "한국타이어 1분기 영업이익 5069억원, 전년 대비 42.9% 증가",
-        "excerpt": "한국타이어앤테크놀로지는 8일 공시에서 올해 1분기 연결 매출 5조3139억원, 영업이익 5069억원을 기록했다고 밝혔다. 매출과 이익이 모두 전년 동기 대비 늘었다.",
-        "body": "한국타이어앤테크놀로지는 8일 공시를 통해 올해 1분기 연결기준 매출액 5조3139억원과 영업이익 5069억원을 기록했다고 밝혔다. 전년 동기와 비교하면 매출은 7%, 영업이익은 42.9% 증가했다. 이번 실적은 1분기 기준 연결 매출과 영업이익이 모두 성장했다는 점에서 주목된다. 회사가 공시한 수치에 따르면 매출 증가와 함께 수익성 지표인 영업이익도 큰 폭으로 늘었다. 관련 내용은 mk.co.kr 보도를 인용했다."
-      },
-      "en": {
-        "title": "Hankook Tire Q1 operating profit rises 42.9% to 506.9 billion won",
-        "excerpt": "Hankook Tire & Technology said in a May 8 filing that first-quarter consolidated sales reached 5.3139 trillion won and operating profit totaled 506.9 billion won, both higher year on year.",
-        "body": "Hankook Tire & Technology disclosed on May 8 that its first-quarter consolidated revenue came to 5.3139 trillion won, while operating profit reached 506.9 billion won. Compared with the same period a year earlier, revenue increased 7% and operating profit rose 42.9%. The figures show growth in both consolidated sales and operating profit for the first quarter. According to the company’s filing, profitability also improved alongside higher revenue. This article cites reporting from mk.co.kr."
-      },
-      "ja": {
-        "title": "韓国タイヤ、1～3月期営業利益5069億ウォンで42.9%増",
-        "excerpt": "韓国タイヤアンドテクノロジーは8日の公示で、今年1～3月期の連結売上高が5兆3139億ウォン、営業利益が5069億ウォンだったと明らかにした。",
-        "body": "韓国タイヤアンドテクノロジーは8日の公示で、今年1～3月期の連結ベース売上高が5兆3139億ウォン、営業利益が5069億ウォンだったと発表した。前年同期比では売上高が7%、営業利益が42.9%増加した。今回の実績は、1～3月期の連結売上高と営業利益がともに伸びた点で注目される。同社が公示した数値によると、売上増加とともに収益性を示す営業利益も大きく増えた。関連内容はmk.co.krの報道を引用した。"
-      },
-      "zh": {
-        "title": "韩泰轮胎一季度营业利润5069亿韩元，同比增42.9%",
-        "excerpt": "韩泰轮胎科技8日公告称，今年一季度合并口径销售额为5.3139万亿韩元，营业利润为5069亿韩元，营收和利润均同比增长。",
-        "body": "韩泰轮胎科技8日通过公告表示，今年一季度合并口径销售额为5.3139万亿韩元，营业利润为5069亿韩元。与去年同期相比，销售额增长7%，营业利润增长42.9%。这一业绩显示，公司一季度合并销售额和营业利润均实现增长。根据公司公告的数字，在营收增加的同时，作为盈利能力指标的营业利润也大幅上升。相关内容引用自mk.co.kr报道。"
-      },
-      "es": {
-        "title": "Hankook Tire eleva 42,9% su beneficio operativo trimestral",
-        "excerpt": "Hankook Tire & Technology informó el día 8 que sus ventas consolidadas del primer trimestre fueron de 5,3139 billones de wones y el beneficio operativo alcanzó 506.900 millones.",
-        "body": "Hankook Tire & Technology informó el día 8, mediante una comunicación regulatoria, que en el primer trimestre registró ventas consolidadas de 5,3139 billones de wones y un beneficio operativo de 506.900 millones de wones. Frente al mismo periodo del año anterior, las ventas aumentaron un 7% y el beneficio operativo subió un 42,9%. Las cifras muestran crecimiento tanto en ingresos consolidados como en beneficio operativo. Según los datos divulgados por la compañía, la rentabilidad también mejoró junto con el aumento de las ventas. La información cita a mk.co.kr."
-      },
-      "pt": {
-        "title": "Hankook Tire tem lucro operacional de 506,9 bi de won no 1º trimestre",
-        "excerpt": "A Hankook Tire & Technology informou no dia 8 que a receita consolidada do primeiro trimestre foi de 5,3139 trilhões de won e o lucro operacional chegou a 506,9 bilhões.",
-        "body": "A Hankook Tire & Technology informou no dia 8, em comunicado regulatório, que registrou receita consolidada de 5,3139 trilhões de won no primeiro trimestre deste ano e lucro operacional de 506,9 bilhões de won. Em relação ao mesmo período do ano anterior, a receita cresceu 7% e o lucro operacional aumentou 42,9%. O resultado mostra avanço tanto nas vendas consolidadas quanto no lucro operacional do trimestre. Segundo os números divulgados pela empresa, a rentabilidade também subiu junto com a receita. O conteúdo cita reportagem do mk.co.kr."
-      },
-      "de": {
-        "title": "Hankook Tire steigert Q1-Betriebsgewinn um 42,9% auf 506,9 Mrd. Won",
-        "excerpt": "Hankook Tire & Technology meldete am 8. Mai für das erste Quartal einen Konzernumsatz von 5,3139 Billionen Won und einen Betriebsgewinn von 506,9 Milliarden Won.",
-        "body": "Hankook Tire & Technology teilte am 8. Mai in einer Mitteilung mit, dass der Konzernumsatz im ersten Quartal dieses Jahres 5,3139 Billionen Won erreichte und der Betriebsgewinn bei 506,9 Milliarden Won lag. Gegenüber dem Vorjahreszeitraum stieg der Umsatz um 7%, der Betriebsgewinn um 42,9%. Die Zahlen zeigen, dass sowohl der Konzernumsatz als auch der operative Gewinn im ersten Quartal gewachsen sind. Laut den veröffentlichten Unternehmensdaten verbesserte sich mit dem höheren Umsatz auch die Profitabilität. Grundlage ist ein Bericht von mk.co.kr."
-      },
-      "fr": {
-        "title": "Hankook Tire porte son bénéfice opérationnel trimestriel à 506,9 Mds de wons",
-        "excerpt": "Hankook Tire & Technology a annoncé le 8 mai un chiffre d’affaires consolidé de 5,3139 billions de wons au premier trimestre et un bénéfice opérationnel de 506,9 milliards.",
-        "body": "Hankook Tire & Technology a indiqué le 8 mai, dans une publication réglementaire, avoir enregistré au premier trimestre un chiffre d’affaires consolidé de 5,3139 billions de wons et un bénéfice opérationnel de 506,9 milliards de wons. Par rapport à la même période de l’an dernier, le chiffre d’affaires a progressé de 7% et le bénéfice opérationnel de 42,9%. Ces résultats montrent une hausse simultanée des ventes consolidées et du bénéfice opérationnel. D’après les chiffres publiés par l’entreprise, la rentabilité s’est également améliorée avec la croissance des revenus. L’information cite mk.co.kr."
-      },
-      "ar": {
-        "title": "هانكوك تاير ترفع أرباح التشغيل الفصلية 42.9% إلى 506.9 مليار وون",
-        "excerpt": "أعلنت هانكوك تاير آند تكنولوجي في إفصاح يوم 8 أن مبيعات الربع الأول المجمعة بلغت 5.3139 تريليون وون، وأن أرباح التشغيل وصلت إلى 506.9 مليار وون.",
-        "body": "أفصحت هانكوك تاير آند تكنولوجي يوم 8 أن إيراداتها المجمعة في الربع الأول من هذا العام بلغت 5.3139 تريليون وون، فيما سجلت أرباح التشغيل 506.9 مليار وون. وبالمقارنة مع الفترة نفسها من العام السابق، ارتفعت المبيعات 7% وزادت أرباح التشغيل 42.9%. وتظهر هذه الأرقام نموا في كل من المبيعات المجمعة وأرباح التشغيل خلال الربع الأول. ووفقا للأرقام التي أعلنتها الشركة، تحسن مؤشر الربحية مع زيادة الإيرادات. يستند هذا الخبر إلى تقرير mk.co.kr."
-      },
-      "hi": {
-        "title": "हैंकूक टायर का पहली तिमाही परिचालन लाभ 42.9% बढ़कर 506.9 अरब वोन",
-        "excerpt": "हैंकूक टायर एंड टेक्नोलॉजी ने 8 मई को बताया कि पहली तिमाही में समेकित बिक्री 5.3139 ट्रिलियन वोन और परिचालन लाभ 506.9 अरब वोन रहा।",
-        "body": "हैंकूक टायर एंड टेक्नोलॉजी ने 8 मई की नियामकीय सूचना में बताया कि इस वर्ष पहली तिमाही में उसका समेकित राजस्व 5.3139 ट्रिलियन वोन और परिचालन लाभ 506.9 अरब वोन रहा। पिछले वर्ष की समान अवधि की तुलना में बिक्री 7% और परिचालन लाभ 42.9% बढ़ा। यह परिणाम दिखाता है कि पहली तिमाही में समेकित बिक्री और परिचालन लाभ दोनों में वृद्धि हुई। कंपनी द्वारा घोषित आंकड़ों के अनुसार, राजस्व बढ़ने के साथ लाभप्रदता का संकेतक परिचालन लाभ भी उल्लेखनीय रूप से बढ़ा। यह समाचार mk.co.kr की रिपोर्ट का हवाला देता है।"
-      },
-      "id": {
-        "title": "Hankook Tire catat laba operasi kuartal I 506,9 miliar won",
-        "excerpt": "Hankook Tire & Technology pada 8 Mei mengumumkan penjualan konsolidasi kuartal I sebesar 5,3139 triliun won dan laba operasi 506,9 miliar won, naik dibanding tahun lalu.",
-        "body": "Hankook Tire & Technology mengumumkan pada 8 Mei melalui keterbukaan informasi bahwa pendapatan konsolidasi kuartal pertama tahun ini mencapai 5,3139 triliun won, sementara laba operasi tercatat 506,9 miliar won. Dibandingkan periode yang sama tahun sebelumnya, penjualan naik 7% dan laba operasi meningkat 42,9%. Kinerja ini menunjukkan pertumbuhan pada penjualan konsolidasi dan laba operasi kuartal pertama. Berdasarkan angka yang diumumkan perusahaan, indikator profitabilitas juga meningkat seiring kenaikan pendapatan. Artikel ini mengutip laporan mk.co.kr."
-      }
-    }
-  },
-  {
-    "id": "6a57a5815394",
-    "slug": "빚투공매도-양극단-베팅-대결장된-증시-920935",
-    "channelId": "ETF",
-    "category": "etf",
-    "publishedAt": "2026-05-08T09:30:02.379Z",
-    "updatedAt": "2026-05-08T09:30:02.380Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/stock/12041388",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12041388",
-    "titleFingerprint": "2a8ff5aeac5c3e7598ae880bb3a0a985f1532a99",
-    "dedupKeys": [
-      "6a57a58153949d859f95595eacd6fb43205b8f9d",
-      "2a8ff5aeac5c3e7598ae880bb3a0a985f1532a99",
-      "80e403c7f8921c6c2e1f1deb09869e4f942d7862"
-    ],
-    "imageUrl": "/images/articles/6a57a5815394.jpg",
-    "i18n": {
-      "ko": {
-        "title": "코스피 7500 턱밑, 빚투·공매도 자금 사상 최대 대결",
-        "excerpt": "코스피가 7500선에 근접하며 사상 최고치 행진을 이어가자 증시 주변 자금이 빚투와 공매도 양방향에서 사상 최대 규모로 불어나고 있다.",
-        "body": "코스피가 7500선 턱밑까지 치솟으며 사상 최고치 행진을 이어가는 가운데, 증시 주변 자금도 매수와 매도 양방향에서 사상 최대 규모로 불어나고 있다. 강세장에 올라타려는 ‘빚투’ 자금과 하락에 베팅하는 공매도 자금이 동시에 커지며 증시는 양극단 베팅의 대결장으로 변했다. 지수 급등세가 투자 심리를 자극하는 동시에 반대 포지션도 확대되면서 시장 주변의 자금 흐름은 한층 민감해진 모습이다. 향후 증시 흐름은 레버리지 매수와 공매도 포지션이 맞물린 수급 변화에 영향을 받을 수 있다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "KOSPI Near 7,500 as Margin Buying and Short Selling Hit Records",
-        "excerpt": "As the KOSPI approaches the 7,500 mark and extends its record-high run, funds around the market are swelling to record levels on both buying and selling sides.",
-        "body": "As the KOSPI has surged to just below the 7,500 level and continued its record-high run, funds around the stock market are also expanding to record levels on both the buying and selling sides. Margin-financed buying by investors trying to ride the bull market and short-selling funds betting on declines are growing at the same time, turning the market into a contest of opposite bets. The sharp rise in the index is stimulating investor sentiment while opposing positions also expand, making surrounding fund flows more sensitive. Future market moves may be affected by shifts in supply and demand linked to leveraged buying and short-selling positions. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "KOSPI7500目前、信用買いと空売り資金が過去最大規模に",
-        "excerpt": "KOSPIが7500目前まで上昇し過去最高値更新を続ける中、株式市場周辺の資金は信用買いと空売りの両方向で過去最大規模に膨らんでいる。",
-        "body": "KOSPIが7500の目前まで急伸し、過去最高値の更新を続ける中、株式市場周辺の資金も買いと売りの両方向で過去最大規模に拡大している。強気相場に乗ろうとする信用取引資金と、下落に賭ける空売り資金が同時に増え、市場は両極端なベットがぶつかる場となった。指数の急騰が投資心理を刺激する一方、反対ポジションも拡大し、市場周辺の資金フローは一段と敏感になっている。今後の相場は、レバレッジを伴う買いと空売りポジションが絡む需給変化の影響を受ける可能性がある。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "KOSPI逼近7500点，融资买入与卖空资金创纪录对垒",
-        "excerpt": "随着KOSPI逼近7500点并延续历史高位走势，股市周边资金在买入与卖出两个方向均膨胀至历史最大规模。",
-        "body": "KOSPI已飙升至7500点关口附近，并继续刷新历史高位，与此同时，股市周边资金也在买入和卖出两个方向扩大至历史最大规模。试图搭上牛市的融资买入资金，以及押注下跌的卖空资金同步增加，使市场成为两种极端押注交锋的场所。指数快速上涨刺激投资情绪的同时，反向头寸也在扩大，市场周边资金流向变得更加敏感。未来股市走势可能受到杠杆买入与卖空头寸交织下的供需变化影响。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "KOSPI roza 7.500 puntos y récord de compras apalancadas y cortos",
-        "excerpt": "Mientras el KOSPI se acerca a los 7.500 puntos y mantiene máximos históricos, el dinero alrededor del mercado crece a récords tanto en compras como en ventas.",
-        "body": "El KOSPI ha subido hasta quedar justo por debajo de los 7.500 puntos y continúa marcando máximos históricos, mientras los fondos alrededor del mercado bursátil también aumentan a niveles récord en ambos lados, compra y venta. El dinero de compras financiadas con deuda que busca sumarse al mercado alcista y los fondos de ventas en corto que apuestan por caídas crecen al mismo tiempo, convirtiendo la bolsa en un escenario de apuestas opuestas. El fuerte avance del índice estimula el ánimo inversor, pero también se amplían las posiciones contrarias, haciendo más sensibles los flujos de fondos. La evolución futura puede verse afectada por cambios de oferta y demanda ligados al apalancamiento y a los cortos. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "KOSPI perto de 7.500, com alavancagem e vendas a descoberto em recorde",
-        "excerpt": "Com o KOSPI perto dos 7.500 pontos e renovando máximas históricas, recursos ao redor da bolsa crescem a recordes nos lados de compra e venda.",
-        "body": "O KOSPI disparou para perto dos 7.500 pontos e segue renovando máximas históricas, enquanto os recursos ao redor do mercado acionário também aumentam para níveis recordes tanto na compra quanto na venda. O dinheiro de compras financiadas por dívida, que tenta acompanhar o mercado em alta, e os recursos de vendas a descoberto, que apostam em queda, crescem ao mesmo tempo, transformando a bolsa em um confronto de apostas opostas. A forte alta do índice estimula o sentimento dos investidores, enquanto posições contrárias também se ampliam, tornando os fluxos de capital mais sensíveis. O rumo do mercado pode ser influenciado por mudanças de oferta e demanda ligadas à compra alavancada e às posições vendidas. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "KOSPI nahe 7.500: Kreditkäufe und Leerverkäufe auf Rekordniveau",
-        "excerpt": "Während der KOSPI nahe an 7.500 Punkte steigt und seine Rekordserie fortsetzt, schwellen Gelder am Aktienmarkt auf Kauf- und Verkaufsseite auf Rekordniveau an.",
-        "body": "Der KOSPI ist bis knapp unter die Marke von 7.500 Punkten gestiegen und setzt seine Serie historischer Höchststände fort. Zugleich wachsen die Gelder rund um den Aktienmarkt sowohl auf der Kauf- als auch auf der Verkaufsseite auf Rekordniveau. Kreditfinanzierte Käufe von Anlegern, die auf den Bullenmarkt aufspringen wollen, und Leerverkaufspositionen, die auf fallende Kurse setzen, nehmen gleichzeitig zu. Damit wird der Markt zu einem Schauplatz gegensätzlicher Extremwetten. Der starke Indexanstieg belebt die Anlegerstimmung, während auch Gegenpositionen wachsen und die Kapitalflüsse sensibler werden. Künftige Marktbewegungen könnten von Angebots- und Nachfrageänderungen durch gehebelte Käufe und Leerverkäufe beeinflusst werden. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "KOSPI près de 7 500, achats à crédit et ventes à découvert au record",
-        "excerpt": "Alors que le KOSPI approche 7 500 points et enchaîne les records, les capitaux autour du marché gonflent à des niveaux inédits côté achat comme côté vente.",
-        "body": "Le KOSPI a bondi jusqu’à frôler le seuil des 7 500 points et poursuit sa série de plus hauts historiques, tandis que les capitaux autour du marché actions augmentent aussi à des niveaux records des deux côtés, achat et vente. Les achats financés par l’endettement, destinés à profiter du marché haussier, et les fonds de ventes à découvert misant sur une baisse progressent simultanément, transformant la Bourse en terrain d’affrontement entre paris opposés. La forte hausse de l’indice stimule le sentiment des investisseurs, mais les positions contraires s’élargissent également, rendant les flux plus sensibles. L’évolution future pourrait dépendre des variations d’offre et de demande liées aux achats à effet de levier et aux ventes à découvert. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "كوسبي يقترب من 7500 والشراء بالهامش والبيع على المكشوف عند مستويات قياسية",
-        "excerpt": "مع اقتراب كوسبي من مستوى 7500 ومواصلته تسجيل قمم تاريخية، تتضخم الأموال المحيطة بالسوق إلى مستويات قياسية في جانبي الشراء والبيع.",
-        "body": "ارتفع مؤشر كوسبي إلى ما دون مستوى 7500 بقليل وواصل مسيرته عند قمم تاريخية، فيما تتوسع الأموال المحيطة بسوق الأسهم إلى مستويات قياسية في جانبي الشراء والبيع. أموال الشراء الممول بالدين التي تسعى إلى اللحاق بالسوق الصاعدة، وأموال البيع على المكشوف التي تراهن على الهبوط، تنمو في الوقت نفسه، ما حوّل السوق إلى ساحة مواجهة بين رهانات متطرفة متعاكسة. صعود المؤشر الحاد يحفز معنويات المستثمرين، بينما تتوسع أيضا المراكز المعاكسة، لتصبح تدفقات الأموال حول السوق أكثر حساسية. وقد تتأثر حركة السوق المقبلة بتغيرات العرض والطلب المرتبطة بالشراء بالرافعة المالية ومراكز البيع على المكشوف. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "KOSPI 7,500 के करीब, मार्जिन खरीद और शॉर्ट सेलिंग रिकॉर्ड स्तर पर",
-        "excerpt": "KOSPI के 7,500 अंक के पास पहुंचकर रिकॉर्ड ऊंचाइयों की रैली जारी रखने के बीच बाजार के आसपास की रकम खरीद और बिक्री दोनों ओर रिकॉर्ड स्तर तक बढ़ रही है।",
-        "body": "KOSPI 7,500 अंक के ठीक नीचे तक चढ़ गया है और ऐतिहासिक ऊंचाइयों की रैली जारी रखे हुए है। इसी बीच शेयर बाजार के आसपास की धनराशि खरीद और बिक्री दोनों दिशाओं में रिकॉर्ड स्तर तक बढ़ रही है। तेजी वाले बाजार में शामिल होने की कोशिश कर रही कर्ज-आधारित खरीदारी की रकम और गिरावट पर दांव लगाने वाली शॉर्ट सेलिंग रकम एक साथ बढ़ रही है, जिससे बाजार विपरीत चरम दांवों का मैदान बन गया है। सूचकांक की तेज बढ़त निवेशक भावना को उकसा रही है, वहीं विपरीत पोजिशन भी बढ़ रही हैं, जिससे फंड फ्लो अधिक संवेदनशील दिख रहा है। आगे बाजार की दिशा लीवरेज खरीद और शॉर्ट सेलिंग पोजिशन से जुड़ी मांग-आपूर्ति में बदलाव से प्रभावित हो सकती है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "KOSPI Dekati 7.500, Dana Margin dan Short Selling Capai Rekor",
-        "excerpt": "Saat KOSPI mendekati level 7.500 dan terus mencetak rekor tertinggi, dana di sekitar pasar saham membengkak ke rekor baru di sisi beli dan jual.",
-        "body": "KOSPI melonjak hingga tepat di bawah level 7.500 dan terus melanjutkan rekor tertingginya. Pada saat yang sama, dana di sekitar pasar saham juga membesar ke skala rekor di dua arah, beli dan jual. Dana pembelian berbasis utang yang ingin mengikuti pasar bullish dan dana short selling yang bertaruh pada penurunan meningkat bersamaan, menjadikan bursa sebagai arena pertarungan taruhan berlawanan. Kenaikan tajam indeks mendorong sentimen investor, sementara posisi yang berlawanan juga melebar, sehingga aliran dana di sekitar pasar menjadi lebih sensitif. Pergerakan pasar ke depan dapat dipengaruhi oleh perubahan suplai dan permintaan yang terkait dengan pembelian berleverage dan posisi short selling. Sumber: mk.co.kr"
       }
     }
   }
