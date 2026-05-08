@@ -1,5 +1,230 @@
 [
   {
+    "id": "cddba0482f82",
+    "slug": "마이도지-도지코인-앱-생태계-베타-서비스-공개-803156",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-05-08T15:44:20.050Z",
+    "updatedAt": "2026-05-08T15:44:20.050Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/2026050841966",
+    "canonicalUrl": "https://www.hankyung.com/article/2026050841966",
+    "titleFingerprint": "7c8af6c6d85f54c794d7ed59d4b5cb071523e862",
+    "dedupKeys": [
+      "cddba0482f822079fae82e36b8f13131cb0893a2",
+      "7c8af6c6d85f54c794d7ed59d4b5cb071523e862",
+      "61d6301306258cd1d684f66b1f2e370987c6c96a"
+    ],
+    "imageUrl": "/images/articles/cddba0482f82.jpg",
+    "i18n": {
+      "ko": {
+        "title": "마이도지, 도지코인 앱 생태계 베타 서비스 공개 주목",
+        "excerpt": "마이도지가 도지코인 앱 생태계와 관련한 베타 서비스를 공개했다고 hankyung.com이 전했다. 공개 사실을 중심으로 베타 단계의 의미와 확인된 범위를 정리했다.",
+        "body": "마이도지(MyDoge)는 도지코인 앱 생태계와 관련한 베타 서비스를 공개했다고 한국경제(hankyung.com)가 전했다. 이번 공개는 도지코인을 활용하는 애플리케이션 환경을 외부에 선보인 사례로, 서비스명과 베타 단계라는 점이 핵심이다. 제공된 원문에는 출시 일시, 참여 대상, 지원 기능, 이용 방법, 정식 출시 일정, 이용자 수나 투자 규모 등 추가 수치는 포함되지 않았다. 따라서 이번 소식은 도지코인 기반 앱 생태계가 베타 단계에서 공개됐다는 사실을 확인하는 수준으로 해석된다. 향후 평가는 공식 기능, 참여 범위, 정식 서비스 전환 여부가 추가로 공개될 때 가능하다. 출처: hankyung.com"
+      },
+      "en": {
+        "title": "MyDoge Unveils Beta Service for Dogecoin App Ecosystem",
+        "excerpt": "MyDoge has unveiled a beta service tied to the Dogecoin app ecosystem, according to hankyung.com, with the confirmed details centered on the beta launch itself.",
+        "body": "MyDoge has unveiled a beta service related to the Dogecoin app ecosystem, according to hankyung.com. The announcement presents an application environment built around Dogecoin, with the key confirmed point being that the service has been opened in beta form. The provided source text did not include additional figures or details such as launch timing, eligible participants, supported features, usage method, full release schedule, user numbers, or investment size. For that reason, the news should be read as confirmation that a Dogecoin-based app ecosystem service has entered public beta. Further assessment will depend on later disclosures about official features, participation scope, and a possible full rollout. Source: hankyung.com"
+      },
+      "ja": {
+        "title": "マイドージ、ドージコインアプリ生態系のベータ公開",
+        "excerpt": "マイドージがドージコインのアプリ生態系に関連するベータサービスを公開したとhankyung.comが伝えた。確認された事実を中心に整理する。",
+        "body": "マイドージ（MyDoge）は、ドージコインのアプリ生態系に関連するベータサービスを公開したと、hankyung.comが伝えた。今回の公開は、ドージコインを活用するアプリケーション環境を外部に示した事例であり、確認できる中心情報はサービスがベータ段階で公開されたという点だ。提供された原文には、公開日時、参加対象、対応機能、利用方法、正式版の開始時期、利用者数、投資規模などの追加情報は含まれていない。そのため、このニュースはドージコイン基盤のアプリ生態系サービスがベータ段階で公開された事実を確認する内容として受け止められる。今後の評価は、公式機能、参加範囲、正式サービスへの移行 여부が追加で示されるかに左右される。出所: hankyung.com"
+      },
+      "zh": {
+        "title": "MyDoge公开狗狗币应用生态Beta服务引关注",
+        "excerpt": "据hankyung.com报道，MyDoge公开了与狗狗币应用生态相关的Beta服务；目前可确认的信息主要集中在Beta公开这一事实。",
+        "body": "据hankyung.com报道，MyDoge公开了与狗狗币应用生态相关的Beta服务。此次公开展示了围绕狗狗币使用场景的应用环境，已确认的核心信息是该服务处于Beta阶段并已对外公布。所提供的原文未包含发布时间、参与对象、支持功能、使用方式、正式上线时间、用户数量或投资规模等进一步数据。因此，这一消息应被理解为狗狗币基础应用生态服务进入Beta公开阶段的事实确认。后续影响仍需等待官方功能、参与范围以及是否转为正式服务等信息进一步披露。来源: hankyung.com"
+      },
+      "es": {
+        "title": "MyDoge presenta beta del ecosistema de apps de Dogecoin",
+        "excerpt": "MyDoge presentó un servicio beta vinculado al ecosistema de aplicaciones de Dogecoin, según hankyung.com; los datos confirmados se limitan al anuncio de la beta.",
+        "body": "MyDoge presentó un servicio beta relacionado con el ecosistema de aplicaciones de Dogecoin, según informó hankyung.com. El anuncio muestra un entorno de aplicaciones basado en el uso de Dogecoin, y el dato central confirmado es que el servicio fue abierto en fase beta. El texto fuente proporcionado no incluyó información adicional sobre fecha de lanzamiento, participantes elegibles, funciones admitidas, método de uso, calendario de lanzamiento oficial, número de usuarios o monto de inversión. Por ello, la noticia debe leerse como una confirmación de que un servicio del ecosistema de apps basado en Dogecoin fue presentado en beta. La evaluación posterior dependerá de nuevas comunicaciones sobre funciones oficiales, alcance de participación y posible transición al servicio completo. Fuente: hankyung.com"
+      },
+      "pt": {
+        "title": "MyDoge revela beta do ecossistema de apps da Dogecoin",
+        "excerpt": "A MyDoge revelou um serviço beta ligado ao ecossistema de aplicativos da Dogecoin, segundo hankyung.com; os detalhes confirmados se concentram na abertura beta.",
+        "body": "A MyDoge revelou um serviço beta relacionado ao ecossistema de aplicativos da Dogecoin, segundo informou o hankyung.com. O anúncio apresenta um ambiente de aplicações voltado ao uso da Dogecoin, e o ponto confirmado é que o serviço foi divulgado em fase beta. O texto original fornecido não trouxe informações adicionais sobre data de lançamento, público participante, funções suportadas, forma de uso, cronograma de lançamento oficial, número de usuários ou valor de investimento. Assim, a notícia deve ser interpretada como a confirmação de que um serviço de ecossistema de apps baseado em Dogecoin foi aberto em beta. A avaliação futura dependerá de novas divulgações sobre recursos oficiais, escopo de participação e possível migração para serviço completo. Fonte: hankyung.com"
+      },
+      "de": {
+        "title": "MyDoge öffnet Beta für Dogecoin-App-Ökosystem",
+        "excerpt": "MyDoge hat laut hankyung.com einen Beta-Dienst für das Dogecoin-App-Ökosystem vorgestellt; bestätigt ist vor allem die Veröffentlichung im Beta-Stadium.",
+        "body": "MyDoge hat einen Beta-Dienst im Zusammenhang mit dem Dogecoin-App-Ökosystem vorgestellt, wie hankyung.com berichtete. Die Ankündigung zeigt eine Anwendungsumgebung rund um die Nutzung von Dogecoin; der zentrale bestätigte Punkt ist die Veröffentlichung als Beta. Der bereitgestellte Ursprungstext enthielt keine weiteren Angaben zu Startzeitpunkt, Teilnahmeberechtigung, unterstützten Funktionen, Nutzungsmethode, Termin für einen offiziellen Start, Nutzerzahlen oder Investitionsvolumen. Daher ist die Meldung als Bestätigung zu verstehen, dass ein auf Dogecoin basierender App-Ökosystemdienst in der Beta-Phase öffentlich gemacht wurde. Eine weitere Bewertung hängt von späteren Angaben zu offiziellen Funktionen, Teilnehmerkreis und möglichem Vollstart ab. Quelle: hankyung.com"
+      },
+      "fr": {
+        "title": "MyDoge dévoile la bêta de l’écosystème d’apps Dogecoin",
+        "excerpt": "MyDoge a dévoilé un service bêta lié à l’écosystème d’applications Dogecoin, selon hankyung.com; les faits confirmés portent surtout sur cette ouverture bêta.",
+        "body": "MyDoge a dévoilé un service bêta lié à l’écosystème d’applications Dogecoin, selon hankyung.com. Cette annonce présente un environnement applicatif centré sur l’usage de Dogecoin, le principal élément confirmé étant l’ouverture du service en phase bêta. Le texte source fourni ne mentionne pas d’autres informations, comme la date de lancement, les participants concernés, les fonctions prises en charge, le mode d’utilisation, le calendrier de lancement officiel, le nombre d’utilisateurs ou le montant d’un investissement. La nouvelle doit donc être lue comme la confirmation qu’un service d’écosystème d’apps fondé sur Dogecoin a été rendu public en bêta. L’évaluation future dépendra de nouvelles précisions sur les fonctions officielles, le périmètre de participation et un éventuel passage au service complet. Source: hankyung.com"
+      },
+      "ar": {
+        "title": "ماي دوج تكشف خدمة بيتا لمنظومة تطبيقات دوجكوين",
+        "excerpt": "كشفت MyDoge عن خدمة بيتا مرتبطة بمنظومة تطبيقات دوجكوين، وفق hankyung.com، فيما تتركز المعلومات المؤكدة على طرح الخدمة في مرحلة بيتا.",
+        "body": "كشفت MyDoge عن خدمة بيتا مرتبطة بمنظومة تطبيقات دوجكوين، بحسب ما أورده موقع hankyung.com. ويعرض هذا الإعلان بيئة تطبيقات تعتمد على استخدام دوجكوين، بينما تتمثل المعلومة المؤكدة الأساسية في أن الخدمة طُرحت في مرحلة بيتا. ولم يتضمن النص الأصلي المقدم تفاصيل إضافية مثل موعد الإطلاق، أو الفئات المشاركة، أو الوظائف المدعومة، أو طريقة الاستخدام، أو جدول الإطلاق الرسمي، أو عدد المستخدمين، أو حجم الاستثمار. لذلك ينبغي قراءة الخبر بوصفه تأكيدا على أن خدمة لمنظومة تطبيقات قائمة على دوجكوين أصبحت متاحة في مرحلة بيتا. وسيعتمد التقييم اللاحق على ما قد يصدر من معلومات حول الوظائف الرسمية ونطاق المشاركة وإمكانية الانتقال إلى خدمة كاملة. المصدر: hankyung.com"
+      },
+      "hi": {
+        "title": "MyDoge ने Dogecoin ऐप इकोसिस्टम की बीटा सेवा खोली",
+        "excerpt": "hankyung.com के अनुसार MyDoge ने Dogecoin ऐप इकोसिस्टम से जुड़ी बीटा सेवा सार्वजनिक की; पुष्टि की गई जानकारी मुख्य रूप से इसी बीटा घोषणा तक सीमित है।",
+        "body": "hankyung.com के अनुसार, MyDoge ने Dogecoin ऐप इकोसिस्टम से जुड़ी एक बीटा सेवा सार्वजनिक की है। यह घोषणा Dogecoin के उपयोग पर आधारित एप्लिकेशन वातावरण को सामने लाती है, और पुष्टि की गई मुख्य बात यह है कि सेवा बीटा चरण में खोली गई है। उपलब्ध मूल पाठ में लॉन्च की तारीख, पात्र प्रतिभागियों, समर्थित फीचर, उपयोग की विधि, आधिकारिक रिलीज कार्यक्रम, उपयोगकर्ता संख्या या निवेश राशि जैसी अतिरिक्त जानकारी शामिल नहीं थी। इसलिए इस खबर को इस रूप में पढ़ा जाना चाहिए कि Dogecoin-आधारित ऐप इकोसिस्टम सेवा बीटा चरण में सार्वजनिक हुई है। आगे का आकलन आधिकारिक फीचर, भागीदारी के दायरे और पूर्ण सेवा में संभावित बदलाव पर नई जानकारी आने के बाद ही संभव होगा। स्रोत: hankyung.com"
+      },
+      "id": {
+        "title": "MyDoge Buka Beta Ekosistem Aplikasi Dogecoin",
+        "excerpt": "MyDoge membuka layanan beta terkait ekosistem aplikasi Dogecoin, menurut hankyung.com; informasi yang terkonfirmasi terutama berpusat pada pembukaan beta tersebut.",
+        "body": "MyDoge membuka layanan beta yang terkait dengan ekosistem aplikasi Dogecoin, menurut laporan hankyung.com. Pengumuman ini memperlihatkan lingkungan aplikasi yang menggunakan Dogecoin, dengan poin utama yang terkonfirmasi adalah bahwa layanan tersebut telah dibuka dalam tahap beta. Teks sumber yang diberikan tidak memuat rincian tambahan seperti waktu peluncuran, peserta yang dapat ikut, fitur yang didukung, cara penggunaan, jadwal rilis resmi, jumlah pengguna, atau nilai investasi. Karena itu, berita ini sebaiknya dibaca sebagai konfirmasi bahwa layanan ekosistem aplikasi berbasis Dogecoin telah masuk tahap beta. Penilaian lebih lanjut bergantung pada pengungkapan berikutnya mengenai fitur resmi, cakupan partisipasi, dan kemungkinan peralihan ke layanan penuh. Sumber: hankyung.com"
+      }
+    }
+  },
+  {
+    "id": "fa8a6bb4c341",
+    "slug": "연금-투자-어떻게-할까올들어-넉달-새-한투로-1조원-유입-291277",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-05-08T15:43:10.239Z",
+    "updatedAt": "2026-05-08T15:43:10.239Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/202605084681i",
+    "canonicalUrl": "https://www.hankyung.com/article/202605084681i",
+    "titleFingerprint": "38c17dd389e2a71729292d5f192a2be9a579996d",
+    "dedupKeys": [
+      "fa8a6bb4c34181d1c2d8c7f9b7f42334d830f038",
+      "38c17dd389e2a71729292d5f192a2be9a579996d",
+      "7a6fef546042eea6ea18ed983d9fdacb91db124b"
+    ],
+    "imageUrl": "/images/articles/fa8a6bb4c341.jpg",
+    "i18n": {
+      "ko": {
+        "title": "연금 투자 자금, 올들어 넉달 새 한투로 1조원 유입",
+        "excerpt": "올해 들어 넉 달 동안 연금 투자 자금 1조원이 한국투자증권으로 유입되며 연금 운용 방식에 대한 투자자 관심이 커지고 있다.",
+        "body": "올해 들어 넉 달 사이 연금 투자 자금 1조원이 한국투자증권으로 유입됐다. 연금 투자 방법을 고민하는 투자자들이 늘어나는 가운데, 관련 자금이 특정 금융회사로 대규모 이동한 점이 주목된다. 원문에 따르면 유입 기간은 올해 초부터 넉 달이며, 규모는 1조원이다. 이는 연금 자산을 어디에서, 어떻게 운용할지에 대한 관심이 이어지고 있음을 보여주는 수치다. 향후 연금 투자 시장에서는 자금 유입 규모와 투자자 선택 흐름이 주요 관전 포인트가 될 전망이다. 출처: hankyung.com 인용"
+      },
+      "en": {
+        "title": "Pension Investment Funds Flow to Korea Investment, Reaching 1 Trillion Won",
+        "excerpt": "In the first four months of this year, 1 trillion won in pension investment funds flowed into Korea Investment, highlighting investor interest in retirement asset management.",
+        "body": "In the first four months of this year, pension investment funds worth 1 trillion won flowed into Korea Investment. As more investors consider how to manage pension assets, the large movement of related funds into one financial company is drawing attention. According to the original report, the inflow period was the first four months of the year, and the amount reached 1 trillion won. The figure shows continued interest in where and how pension assets are managed. In the pension investment market, future fund inflows and investor choices are expected to remain key points to watch. Source: cited from hankyung.com"
+      },
+      "ja": {
+        "title": "年金投資資金、今年4カ月で韓国投資に1兆ウォン流入",
+        "excerpt": "今年に入り4カ月間で年金投資資金1兆ウォンが韓国投資証券に流入し、年金運用方法への投資家の関心が高まっている。",
+        "body": "今年に入って4カ月の間に、年金投資資金1兆ウォンが韓国投資証券に流入した。年金投資をどのように行うか悩む投資家が増えるなか、関連資金が特定の金融会社へ大規模に移動した点が注目されている。原文によると、流入期間は今年初めから4カ月で、規模は1兆ウォンだ。これは年金資産をどこで、どのように運用するかへの関心が続いていることを示す数字だ。今後の年金投資市場では、資金流入規模と投資家の選択の流れが主な注目点になる見通しだ。出典: hankyung.com引用"
+      },
+      "zh": {
+        "title": "养老金投资资金今年四个月流入韩投达1万亿韩元",
+        "excerpt": "今年以来四个月内，1万亿韩元养老金投资资金流入韩国投资证券，显示投资者对养老金配置方式的关注升温。",
+        "body": "今年以来四个月内，养老金投资资金1万亿韩元流入韩国投资证券。随着越来越多投资者思考如何进行养老金投资，相关资金大规模流向特定金融公司的情况受到关注。原文显示，资金流入期间为今年年初以来四个月，规模为1万亿韩元。这一数字表明，投资者对于养老金资产在哪里、如何管理的关注仍在持续。展望后续养老金投资市场，资金流入规模以及投资者选择动向将成为主要观察点。来源：引自 hankyung.com"
+      },
+      "es": {
+        "title": "Fondos de pensiones: 1 billón de wones entra en Korea Investment",
+        "excerpt": "En los primeros cuatro meses del año, 1 billón de wones en fondos de inversión para pensiones ingresó en Korea Investment, elevando el interés por la gestión jubilatoria.",
+        "body": "En los primeros cuatro meses de este año, fondos de inversión para pensiones por 1 billón de wones ingresaron en Korea Investment. Mientras más inversionistas analizan cómo gestionar sus activos de pensión, llama la atención el movimiento de gran escala hacia una sola entidad financiera. Según el reporte original, el periodo de entrada fue desde comienzos de año durante cuatro meses, y el monto alcanzó 1 billón de wones. La cifra muestra que continúa el interés por dónde y cómo administrar los activos de pensión. En adelante, el tamaño de los flujos y las decisiones de los inversionistas serán puntos clave en el mercado de pensiones. Fuente: citado de hankyung.com"
+      },
+      "pt": {
+        "title": "Fundos de pensão: 1 trilhão de wons entra na Korea Investment",
+        "excerpt": "Nos primeiros quatro meses do ano, 1 trilhão de wons em recursos de investimento previdenciário entrou na Korea Investment, destacando o interesse pela gestão de aposentadoria.",
+        "body": "Nos primeiros quatro meses deste ano, recursos de investimento previdenciário de 1 trilhão de wons entraram na Korea Investment. Com mais investidores avaliando como aplicar seus ativos de aposentadoria, chama atenção a movimentação de grande escala para uma única instituição financeira. Segundo a reportagem original, o período de entrada foi de quatro meses desde o início do ano, e o valor chegou a 1 trilhão de wons. O número mostra que segue o interesse sobre onde e como gerir ativos previdenciários. No mercado de investimento em pensões, o volume de entradas e as escolhas dos investidores devem continuar no foco. Fonte: citado de hankyung.com"
+      },
+      "de": {
+        "title": "Pensionsgelder fließen zu Korea Investment: 1 Billion Won in vier Monaten",
+        "excerpt": "In den ersten vier Monaten dieses Jahres flossen 1 Billion Won an Pensionsanlagegeldern zu Korea Investment, was das Interesse an Altersvorsorgeanlagen unterstreicht.",
+        "body": "In den ersten vier Monaten dieses Jahres flossen Pensionsanlagegelder im Umfang von 1 Billion Won zu Korea Investment. Da immer mehr Anleger überlegen, wie sie ihre Pensionsvermögen verwalten sollen, fällt die großvolumige Bewegung zu einem bestimmten Finanzunternehmen auf. Dem Originalbericht zufolge umfasst der Zufluss den Zeitraum seit Jahresbeginn über vier Monate; das Volumen beträgt 1 Billion Won. Diese Zahl zeigt das anhaltende Interesse daran, wo und wie Pensionsvermögen angelegt werden. Im Markt für Pensionsanlagen dürften künftig Zuflussvolumen und Anlegerentscheidungen zentrale Beobachtungspunkte bleiben. Quelle: zitiert nach hankyung.com"
+      },
+      "fr": {
+        "title": "Épargne retraite: 1 000 milliards de wons vers Korea Investment",
+        "excerpt": "Sur les quatre premiers mois de l’année, 1 000 milliards de wons de fonds liés aux retraites ont afflué vers Korea Investment, signe d’un intérêt accru pour leur gestion.",
+        "body": "Sur les quatre premiers mois de cette année, 1 000 milliards de wons de fonds d’investissement liés aux retraites ont afflué vers Korea Investment. Alors que davantage d’investisseurs réfléchissent à la manière de gérer leur épargne retraite, ce mouvement important vers une seule société financière attire l’attention. Selon l’article original, la période d’afflux couvre les quatre mois depuis le début de l’année, pour un montant de 1 000 milliards de wons. Ce chiffre montre que l’intérêt pour le lieu et la façon de gérer les actifs de retraite se poursuit. Sur ce marché, les flux de capitaux et les choix des investisseurs resteront des points clés à suivre. Source: cité de hankyung.com"
+      },
+      "ar": {
+        "title": "أموال التقاعد تتجه إلى كوريا إنفستمنت بقيمة تريليون وون",
+        "excerpt": "خلال أول أربعة أشهر من هذا العام، تدفقت أموال استثمار تقاعدية بقيمة تريليون وون إلى كوريا إنفستمنت، ما يبرز الاهتمام بإدارة أصول التقاعد.",
+        "body": "خلال أول أربعة أشهر من هذا العام، تدفقت أموال استثمار تقاعدية بقيمة تريليون وون إلى كوريا إنفستمنت. ومع ازدياد عدد المستثمرين الذين يفكرون في كيفية إدارة أصول التقاعد، يلفت الانتباه انتقال مبالغ كبيرة إلى شركة مالية محددة. وبحسب التقرير الأصلي، امتدت فترة التدفق منذ بداية العام على مدى أربعة أشهر، وبلغ الحجم تريليون وون. ويظهر هذا الرقم استمرار الاهتمام بمكان وكيفية إدارة أصول التقاعد. وفي سوق استثمارات التقاعد، من المتوقع أن يظل حجم التدفقات وخيارات المستثمرين من أبرز نقاط المتابعة. المصدر: نقلا عن hankyung.com"
+      },
+      "hi": {
+        "title": "पेंशन निवेश धन चार महीनों में Korea Investment में 1 ट्रिलियन वॉन पहुंचा",
+        "excerpt": "इस साल के पहले चार महीनों में 1 ट्रिलियन वॉन का पेंशन निवेश धन Korea Investment में आया, जिससे पेंशन परिसंपत्ति प्रबंधन पर निवेशकों की रुचि दिखती है।",
+        "body": "इस साल के पहले चार महीनों में 1 ट्रिलियन वॉन का पेंशन निवेश धन Korea Investment में प्रवाहित हुआ। पेंशन निवेश कैसे किया जाए, इस पर विचार करने वाले निवेशकों की संख्या बढ़ने के बीच किसी एक वित्तीय कंपनी में संबंधित धन का बड़े पैमाने पर आना ध्यान खींच रहा है। मूल रिपोर्ट के अनुसार, धन प्रवाह की अवधि वर्ष की शुरुआत से चार महीने रही और राशि 1 ट्रिलियन वॉन थी। यह आंकड़ा दिखाता है कि पेंशन परिसंपत्तियों को कहां और कैसे प्रबंधित किया जाए, इस पर रुचि जारी है। आगे पेंशन निवेश बाजार में धन प्रवाह का आकार और निवेशकों की पसंद मुख्य देखने योग्य बिंदु रहेंगे। स्रोत: hankyung.com से उद्धृत"
+      },
+      "id": {
+        "title": "Dana Pensiun Masuk Korea Investment, Tembus 1 Triliun Won dalam Empat Bulan",
+        "excerpt": "Dalam empat bulan pertama tahun ini, dana investasi pensiun senilai 1 triliun won masuk ke Korea Investment, menyoroti minat investor pada pengelolaan aset pensiun.",
+        "body": "Dalam empat bulan pertama tahun ini, dana investasi pensiun senilai 1 triliun won mengalir ke Korea Investment. Ketika semakin banyak investor mempertimbangkan cara mengelola aset pensiun, perpindahan dana terkait dalam jumlah besar ke satu perusahaan keuangan menjadi perhatian. Menurut laporan asli, periode arus masuk berlangsung sejak awal tahun selama empat bulan, dengan nilai 1 triliun won. Angka ini menunjukkan berlanjutnya minat terhadap di mana dan bagaimana aset pensiun dikelola. Ke depan, besaran arus dana dan pilihan investor diperkirakan tetap menjadi poin utama di pasar investasi pensiun. Sumber: dikutip dari hankyung.com"
+      }
+    }
+  },
+  {
+    "id": "db15ca4f51b9",
+    "slug": "코스피-9000-간다골드만삭스-20일-만에-또-깜짝-전망-597049",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-05-08T15:42:14.548Z",
+    "updatedAt": "2026-05-08T15:42:14.549Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/202605084686i",
+    "canonicalUrl": "https://www.hankyung.com/article/202605084686i",
+    "titleFingerprint": "8b74252495c3e37b44ef20ce7433b4ea85c2d8a5",
+    "dedupKeys": [
+      "db15ca4f51b99f6a24c529e092d501f24129f5fb",
+      "8b74252495c3e37b44ef20ce7433b4ea85c2d8a5",
+      "46491a99a2ee77320a2b8697afe98b6bfa693b48"
+    ],
+    "imageUrl": "/images/articles/db15ca4f51b9.jpg",
+    "i18n": {
+      "ko": {
+        "title": "골드만삭스 코스피 9000 전망, 20일 만에 다시 나온 두 번째 강세 시나리오에 증시 관심",
+        "excerpt": "골드만삭스가 한국경제 보도를 통해 코스피 9000 가능성을 다시 제시했다. 앞선 깜짝 전망 이후 20일 만에 나온 추가 전망으로 국내 증시 기대와 경계가 함께 커지고 있다.",
+        "body": "글로벌 투자은행 골드만삭스가 코스피 9000 가능성을 다시 제시했다고 한국경제가 보도했다. 보도 제목에 따르면 이번 전망은 앞선 ‘깜짝 전망’ 이후 20일 만에 다시 나온 것으로, 한국 증시의 추가 상승 가능성을 둘러싼 시장 관심을 키우고 있다. 핵심 수치는 코스피 9000이다. 이는 지수 방향성에 대한 외국계 투자은행의 강한 시각으로 해석될 수 있으나, 제공된 원문 정보에는 세부 근거와 추가 수치는 포함되지 않았다. 투자자들은 전망 자체와 함께 발표 시점, 기존 전망과의 간격, 향후 지수 흐름을 함께 확인할 필요가 있다. 출처: hankyung.com 인용."
+      },
+      "en": {
+        "title": "Goldman Sachs KOSPI 9000 Forecast Returns After 20 Days, Drawing Fresh Market Attention",
+        "excerpt": "Goldman Sachs has again raised the possibility of the KOSPI reaching 9000, according to Hankyung. The call came 20 days after its previous surprise outlook, adding focus to Korea’s equity market.",
+        "body": "Goldman Sachs has again suggested that the KOSPI could reach 9000, Hankyung reported. According to the report title, the latest view came 20 days after a previous “surprise forecast,” renewing market attention on the possibility of further gains in Korean equities. The key figure is KOSPI 9000. The forecast may be read as a strong view from a foreign investment bank on the index’s direction, but the provided source information does not include detailed reasoning or additional figures. Investors should watch the forecast itself, its timing, the short gap from the earlier call, and the index’s next moves. Source: cited from hankyung.com."
+      },
+      "ja": {
+        "title": "ゴールドマン・サックスのKOSPI9000予想、20日ぶり再提示で市場の関心集まる",
+        "excerpt": "ゴールドマン・サックスが韓国経済の報道でKOSPI9000の可能性を再び示した。前回のサプライズ予想から20日後の追加見通しとして注目されている。",
+        "body": "ゴールドマン・サックスがKOSPI9000の可能性を再び示したと、韓国経済が報じた。報道タイトルによると、今回の見通しは前回の「サプライズ予想」から20日後に再び出されたもので、韓国株の追加上昇余地をめぐる市場の関心を高めている。中心となる数字はKOSPI9000だ。外国系投資銀行による指数方向への強い見方と受け止められる可能性がある一方、提供された原文情報には詳細な根拠や追加数値は含まれていない。投資家は予想そのものに加え、発表時点、前回予想との間隔、今後の指数動向を確認する必要がある。出所: hankyung.comを引用。"
+      },
+      "zh": {
+        "title": "高盛再提KOSPI 9000点预测，时隔20天的新展望引发市场关注",
+        "excerpt": "据韩国经济报道，高盛再次提出KOSPI有望达到9000点。该预测距离此前的意外展望仅20天，令韩国股市后续走势受到关注。",
+        "body": "据韩国经济报道，高盛再次提出KOSPI可能达到9000点。报道标题显示，此次展望是在此前“意外预测”之后时隔20天再次发布，围绕韩国股市进一步上涨可能性的市场关注因此升温。核心数字是KOSPI 9000点。这一预测可被视为外资投行对指数方向的强势看法，但所提供的原文信息未包含具体依据或更多数据。投资者需要同时关注预测本身、发布时点、与前次预测的间隔，以及后续指数走势。来源：引自hankyung.com。"
+      },
+      "es": {
+        "title": "Goldman Sachs vuelve a proyectar un KOSPI en 9000 tras 20 días y atrae la atención del mercado",
+        "excerpt": "Goldman Sachs volvió a plantear la posibilidad de que el KOSPI llegue a 9000, según Hankyung. La nueva previsión llega 20 días después de su anterior sorpresa.",
+        "body": "Goldman Sachs volvió a sugerir que el KOSPI podría alcanzar los 9000 puntos, informó Hankyung. Según el título del reporte, esta previsión llega 20 días después de una anterior “sorpresa”, reactivando la atención del mercado sobre el potencial de nuevas alzas en las acciones coreanas. La cifra clave es KOSPI 9000. La previsión puede interpretarse como una visión firme de un banco de inversión extranjero sobre la dirección del índice, aunque la información original proporcionada no incluye fundamentos detallados ni cifras adicionales. Los inversores deben observar la previsión, el momento de publicación, el corto intervalo frente al pronóstico anterior y la evolución futura del índice. Fuente: citado de hankyung.com."
+      },
+      "pt": {
+        "title": "Goldman Sachs volta a prever KOSPI em 9000 após 20 dias e reacende atenção do mercado",
+        "excerpt": "O Goldman Sachs voltou a apontar a possibilidade de o KOSPI chegar a 9000, segundo o Hankyung. A nova projeção veio 20 dias após a previsão surpresa anterior.",
+        "body": "O Goldman Sachs voltou a sugerir que o KOSPI pode chegar a 9000 pontos, informou o Hankyung. Segundo o título da reportagem, a nova projeção surgiu 20 dias depois de uma “previsão surpresa” anterior, ampliando a atenção do mercado sobre a possibilidade de novas altas nas ações coreanas. O número central é KOSPI 9000. A previsão pode ser interpretada como uma visão forte de um banco de investimento estrangeiro sobre a direção do índice, mas as informações originais fornecidas não incluem fundamentos detalhados nem números adicionais. Investidores devem acompanhar a previsão, o momento da divulgação, o intervalo em relação à projeção anterior e os próximos movimentos do índice. Fonte: citado de hankyung.com."
+      },
+      "de": {
+        "title": "Goldman Sachs nennt erneut KOSPI 9000: Neue Prognose nach 20 Tagen rückt Markt in den Fokus",
+        "excerpt": "Goldman Sachs hat laut Hankyung erneut die Möglichkeit eines KOSPI bei 9000 genannt. Die Einschätzung folgt 20 Tage nach der vorherigen Überraschungsprognose.",
+        "body": "Goldman Sachs hat erneut die Möglichkeit genannt, dass der KOSPI 9000 erreichen könnte, berichtete Hankyung. Dem Berichtstitel zufolge kam die neue Einschätzung 20 Tage nach einer früheren „Überraschungsprognose“ und lenkt die Aufmerksamkeit des Marktes erneut auf weiteres Aufwärtspotenzial koreanischer Aktien. Die zentrale Zahl ist KOSPI 9000. Die Prognose kann als starke Sicht einer ausländischen Investmentbank auf die Richtung des Index verstanden werden, doch die bereitgestellten Originalinformationen enthalten keine detaillierten Gründe oder zusätzlichen Kennzahlen. Anleger sollten die Prognose selbst, den Veröffentlichungszeitpunkt, den kurzen Abstand zur früheren Einschätzung und die weitere Indexentwicklung beobachten. Quelle: zitiert nach hankyung.com."
+      },
+      "fr": {
+        "title": "Goldman Sachs reparle d’un KOSPI à 9000 après 20 jours, le marché coréen sous surveillance",
+        "excerpt": "Goldman Sachs a de nouveau évoqué la possibilité d’un KOSPI à 9000, selon Hankyung. Cette prévision intervient 20 jours après une première projection surprise.",
+        "body": "Goldman Sachs a de nouveau suggéré que le KOSPI pourrait atteindre 9000, a rapporté Hankyung. Selon le titre de l’article, cette nouvelle prévision intervient 20 jours après une précédente « prévision surprise », ravivant l’attention du marché sur le potentiel de hausse des actions coréennes. Le chiffre clé est KOSPI 9000. Cette projection peut être lue comme une opinion ferme d’une banque d’investissement étrangère sur la direction de l’indice, mais les informations sources fournies ne contiennent pas de justification détaillée ni de chiffres supplémentaires. Les investisseurs doivent suivre la prévision elle-même, son calendrier, l’écart avec l’appel précédent et l’évolution future de l’indice. Source : cité de hankyung.com."
+      },
+      "ar": {
+        "title": "غولدمان ساكس يعود لتوقع كوسبي 9000 بعد 20 يوما وسط اهتمام جديد بالسوق الكورية",
+        "excerpt": "أعاد غولدمان ساكس طرح احتمال وصول مؤشر كوسبي إلى 9000 نقطة، بحسب هانكيونغ. وجاءت الرؤية الجديدة بعد 20 يوما من توقعه المفاجئ السابق.",
+        "body": "أعاد غولدمان ساكس طرح احتمال وصول مؤشر كوسبي إلى 9000 نقطة، وفق ما نقلته هانكيونغ. وبحسب عنوان التقرير، جاءت هذه الرؤية بعد 20 يوما من «توقع مفاجئ» سابق، ما زاد اهتمام السوق بإمكان استمرار صعود الأسهم الكورية. الرقم الأساسي هو كوسبي 9000. ويمكن قراءة التوقع باعتباره رؤية قوية من بنك استثمار أجنبي لاتجاه المؤشر، لكن المعلومات الأصلية المقدمة لا تتضمن أسبابا تفصيلية أو أرقاما إضافية. وينبغي للمستثمرين متابعة التوقع نفسه، وتوقيت صدوره، والفاصل القصير عن التوقع السابق، وحركة المؤشر المقبلة. المصدر: نقلا عن hankyung.com."
+      },
+      "hi": {
+        "title": "गोल्डमैन सैक्स ने 20 दिन बाद फिर दिया KOSPI 9000 का अनुमान, बाजार की नजरें तेज",
+        "excerpt": "हैनक्युंग के अनुसार गोल्डमैन सैक्स ने फिर कहा कि KOSPI 9000 तक जा सकता है। पिछली चौंकाने वाली राय के 20 दिन बाद आए इस अनुमान ने कोरियाई बाजार पर ध्यान बढ़ाया।",
+        "body": "हैनक्युंग की रिपोर्ट के अनुसार, गोल्डमैन सैक्स ने फिर संकेत दिया कि KOSPI 9000 तक पहुंच सकता है। रिपोर्ट के शीर्षक के मुताबिक यह नया अनुमान पिछली “चौंकाने वाली” राय के 20 दिन बाद आया, जिससे कोरियाई शेयर बाजार में आगे की तेजी की संभावना पर बाजार का ध्यान बढ़ा है। मुख्य आंकड़ा KOSPI 9000 है। इसे सूचकांक की दिशा पर किसी विदेशी निवेश बैंक की मजबूत राय के रूप में देखा जा सकता है, लेकिन उपलब्ध मूल जानकारी में विस्तृत कारण या अतिरिक्त आंकड़े शामिल नहीं हैं। निवेशकों को अनुमान, उसके समय, पिछली राय से कम अंतर और सूचकांक की आगे की चाल पर नजर रखनी चाहिए। स्रोत: hankyung.com से उद्धृत."
+      },
+      "id": {
+        "title": "Goldman Sachs kembali proyeksikan KOSPI 9000 setelah 20 hari, pasar Korea jadi sorotan",
+        "excerpt": "Goldman Sachs kembali membuka peluang KOSPI menuju 9000, menurut Hankyung. Proyeksi ini muncul 20 hari setelah pandangan mengejutkan sebelumnya dan menarik perhatian pasar.",
+        "body": "Goldman Sachs kembali menyebut kemungkinan KOSPI mencapai 9000, lapor Hankyung. Menurut judul laporan tersebut, proyeksi terbaru ini muncul 20 hari setelah “perkiraan mengejutkan” sebelumnya, sehingga perhatian pasar terhadap potensi kenaikan lanjutan saham Korea kembali meningkat. Angka kuncinya adalah KOSPI 9000. Proyeksi ini dapat dibaca sebagai pandangan kuat bank investasi asing terhadap arah indeks, tetapi informasi sumber yang diberikan tidak memuat alasan rinci atau angka tambahan. Investor perlu mencermati proyeksi itu sendiri, waktu publikasinya, jarak singkat dari perkiraan sebelumnya, serta pergerakan indeks berikutnya. Sumber: dikutip dari hankyung.com."
+      }
+    }
+  },
+  {
     "id": "b80f2b0bb865",
     "slug": "한국콜마-매출이-반토막토스증권-실적-표기-오류-논란-409111",
     "channelId": "ETF",
@@ -4271,231 +4496,6 @@
         "title": "Sinyal Jual The Andersons Terdeteksi, MK Signal Catat Imbal Hasil 72,78%",
         "excerpt": "Pada tanggal 7, MK Signal menyatakan sinyal jual terdeteksi pada saham AS The Andersons (ANDE), dengan imbal hasil berdasarkan sinyal itu mencapai 72,78%.",
         "body": "Reporter AI “MK Signal” pada tanggal 7 melaporkan bahwa sinyal jual terdeteksi pada The Andersons (ANDE) dalam analisis saham AS yang menjadi isu hangat. Sinyal ini disajikan sebagai hasil analisis saham yang dipantau MK Signal, dengan imbal hasil berdasarkan kriteria tersebut sebesar 72,78%. The Andersons adalah saham yang tercatat di bursa AS, sementara MK Signal menyediakan sinyal dengan menganalisis isu saham Amerika yang dapat menarik perhatian investor. Sinyal jual ini diperkenalkan setelah imbal hasil tersebut tercapai, sehingga investor perlu memperhatikan makna sinyal sekaligus volatilitas saham. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "9409bf3e22f1",
-    "slug": "kb증권sk플래닛-ok캐쉬백-포인트로-투자앱에서-바로-이용-342920",
-    "channelId": "ETF",
-    "category": "etf",
-    "publishedAt": "2026-05-08T00:21:09.894Z",
-    "updatedAt": "2026-05-08T00:21:09.894Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/2026050708001",
-    "canonicalUrl": "https://www.hankyung.com/article/2026050708001",
-    "titleFingerprint": "2419671f1a57706c6dfe20885460db9221948890",
-    "dedupKeys": [
-      "9409bf3e22f117887e94575f84fb9fbfb1ada106",
-      "2419671f1a57706c6dfe20885460db9221948890",
-      "0b3584cbcb10ddd23946a99c9a830cc082b9f039"
-    ],
-    "imageUrl": "/images/articles/9409bf3e22f1.jpg",
-    "i18n": {
-      "ko": {
-        "title": "KB증권·SK플래닛, OK캐쉬백 포인트 투자 서비스 앱 연계 추진",
-        "excerpt": "KB증권과 SK플래닛은 2026년 4월 17일 임베디드 금융 업무제휴를 맺고 OK캐쉬백 포인트를 증권 계좌 예수금으로 전환해 투자에 활용하는 서비스를 추진한다.",
-        "body": "KB증권과 SK플래닛은 2026년 4월 17일 성남시 판교 SK플래닛 사옥에서 ‘임베디드 금융 비즈니스 운영을 위한 업무 제휴 계약’을 체결했다. 양사는 SK플래닛의 생활 밀착형 플랫폼에 KB증권의 금융 API를 연계해 OK캐쉬백과 KB증권 서비스를 결합한 투자 서비스를 마련할 계획이다. OK캐쉬백 앱 내 ‘오늘의투자’에서는 포인트를 증권 계좌 예수금으로 전환해 투자에 활용할 수 있도록 한다. 제휴 계좌 기반 잔고와 거래 내역 등 자산 정보 확인도 하나의 서비스 흐름 안에 구현할 예정이다. 출처: hankyung.com"
-      },
-      "en": {
-        "title": "KB Securities and SK Planet Link OK Cashbag Points to App Investing",
-        "excerpt": "KB Securities and SK Planet signed an embedded-finance partnership on April 17, 2026, to let OK Cashbag points be converted into brokerage account cash for investing.",
-        "body": "KB Securities and SK Planet signed an “embedded finance business operation partnership agreement” on April 17, 2026, at SK Planet’s office in Pangyo, Seongnam. The companies plan to connect KB Securities’ financial APIs with SK Planet’s lifestyle platform and build an investment service linking OK Cashbag with KB Securities. In the OK Cashbag app’s “Today’s Investment” service, users will be able to convert points into deposits in a securities account and use them for investing. The partners also plan to let users view asset information, including balances and transaction history, within one service flow. Source: hankyung.com"
-      },
-      "ja": {
-        "title": "KB証券とSKプラネット、OKキャッシュバック投資をアプリ連携",
-        "excerpt": "KB証券とSKプラネットは2026年4月17日、OKキャッシュバックポイントを証券口座の預り金に転換して投資に使う組み込み金融提携を結んだ。",
-        "body": "KB証券とSKプラネットは2026年4月17日、城南市板橋のSKプラネット社屋で「組み込み金融ビジネス運営のための業務提携契約」を締結した。両社はSKプラネットの生活密着型プラットフォームにKB証券の金融APIを連携し、OKキャッシュバックとKB証券サービスを結び付けた投資サービスを用意する計画だ。OKキャッシュバックアプリ内の「今日の投資」では、ポイントを証券口座の預り金に転換して投資に活用できるようにする。提携口座を基に残高や取引履歴などの資産情報も一つのサービスの流れで確認できるよう実装する予定だ。出典: hankyung.com"
-      },
-      "zh": {
-        "title": "KB证券与SK Planet推进OK Cashbag积分App投资服务",
-        "excerpt": "KB证券与SK Planet于2026年4月17日签署嵌入式金融合作协议，推动OK Cashbag积分转换为证券账户资金并用于投资。",
-        "body": "KB证券与SK Planet于2026年4月17日在京畿道城南市板桥的SK Planet办公楼签署了“嵌入式金融业务运营合作协议”。双方计划将SK Planet的生活服务平台与KB证券的金融API连接，推出联动OK Cashbag和KB证券服务的投资服务。在OK Cashbag应用内的“今日投资”服务中，用户可将积分转换为证券账户存款并用于投资。双方还计划基于联名账户，在同一服务流程中提供余额、交易明细等资产信息查询。来源: hankyung.com"
-      },
-      "es": {
-        "title": "KB Securities y SK Planet llevarán OK Cashbag a la inversión en la app",
-        "excerpt": "KB Securities y SK Planet firmaron el 17 de abril de 2026 una alianza de finanzas embebidas para convertir puntos OK Cashbag en saldo de cuenta bursátil para invertir.",
-        "body": "KB Securities y SK Planet firmaron el 17 de abril de 2026 un “acuerdo de colaboración para operar negocios de finanzas embebidas” en la sede de SK Planet en Pangyo, Seongnam. Las compañías planean conectar las API financieras de KB Securities con la plataforma de uso cotidiano de SK Planet y preparar un servicio de inversión que vincule OK Cashbag con KB Securities. En “Today’s Investment”, dentro de la app OK Cashbag, los puntos podrán convertirse en efectivo depositado en una cuenta de valores y utilizarse para invertir. También prevén integrar la consulta de saldos e historial de transacciones en un único flujo de servicio. Fuente: hankyung.com"
-      },
-      "pt": {
-        "title": "KB Securities e SK Planet conectam OK Cashbag a investimentos no app",
-        "excerpt": "KB Securities e SK Planet firmaram em 17 de abril de 2026 uma parceria de finanças embutidas para converter pontos OK Cashbag em saldo de conta de corretora para investimento.",
-        "body": "A KB Securities e a SK Planet assinaram em 17 de abril de 2026 um “acordo de parceria para operação de negócios de finanças embutidas” na sede da SK Planet em Pangyo, Seongnam. As empresas planejam conectar as APIs financeiras da KB Securities à plataforma de serviços cotidianos da SK Planet e criar um serviço de investimento que una OK Cashbag e KB Securities. No serviço “Today’s Investment” do app OK Cashbag, os usuários poderão converter pontos em saldo de conta de valores mobiliários para investir. A parceria também prevê consulta de saldo e histórico de transações em um único fluxo de serviço. Fonte: hankyung.com"
-      },
-      "de": {
-        "title": "KB Securities und SK Planet verknüpfen OK-Cashbag-Punkte mit App-Investing",
-        "excerpt": "KB Securities und SK Planet schlossen am 17. April 2026 eine Embedded-Finance-Partnerschaft, um OK-Cashbag-Punkte in Guthaben auf Wertpapierkonten für Investitionen umzuwandeln.",
-        "body": "KB Securities und SK Planet haben am 17. April 2026 im SK-Planet-Gebäude in Pangyo, Seongnam, eine „Kooperationsvereinbarung für den Betrieb von Embedded-Finance-Geschäften“ unterzeichnet. Die Unternehmen wollen Finanz-APIs von KB Securities mit der alltagsnahen Plattform von SK Planet verbinden und einen Investmentdienst schaffen, der OK Cashbag und KB Securities verknüpft. Im OK-Cashbag-App-Dienst „Today’s Investment“ sollen Punkte in Einlagen auf einem Wertpapierkonto umgewandelt und für Anlagen genutzt werden können. Zudem sollen Salden und Transaktionsdaten verbundener Konten in einem einzigen Serviceablauf einsehbar sein. Quelle: hankyung.com"
-      },
-      "fr": {
-        "title": "KB Securities et SK Planet relient les points OK Cashbag à l’investissement mobile",
-        "excerpt": "KB Securities et SK Planet ont signé le 17 avril 2026 un partenariat de finance intégrée afin de convertir les points OK Cashbag en espèces de compte-titres pour investir.",
-        "body": "KB Securities et SK Planet ont signé le 17 avril 2026, au siège de SK Planet à Pangyo, Seongnam, un « accord de partenariat pour l’exploitation d’activités de finance intégrée ». Les deux sociétés prévoient de connecter les API financières de KB Securities à la plateforme de services du quotidien de SK Planet et de préparer un service d’investissement liant OK Cashbag à KB Securities. Dans le service « Today’s Investment » de l’application OK Cashbag, les points pourront être convertis en dépôt sur un compte-titres et utilisés pour investir. Les partenaires comptent aussi intégrer la consultation des soldes et de l’historique des transactions dans un même parcours de service. Source: hankyung.com"
-      },
-      "ar": {
-        "title": "كي بي للأوراق المالية وSK Planet تربطان نقاط OK Cashbag بالاستثمار عبر التطبيق",
-        "excerpt": "وقعت كي بي للأوراق المالية وSK Planet في 17 أبريل 2026 شراكة للتمويل المدمج تتيح تحويل نقاط OK Cashbag إلى رصيد في حساب أوراق مالية لاستخدامه في الاستثمار.",
-        "body": "وقعت كي بي للأوراق المالية وSK Planet في 17 أبريل 2026 اتفاقية شراكة لتشغيل أعمال التمويل المدمج في مقر SK Planet في بانغيو بمدينة سونغنام. وتخطط الشركتان لربط واجهات برمجة التطبيقات المالية الخاصة بكي بي للأوراق المالية بمنصة SK Planet القريبة من الحياة اليومية، وإعداد خدمة استثمار تربط OK Cashbag بخدمات كي بي للأوراق المالية. ومن خلال خدمة “Today’s Investment” داخل تطبيق OK Cashbag، سيتمكن المستخدمون من تحويل النقاط إلى رصيد في حساب أوراق مالية واستخدامه في الاستثمار. كما تعتزم الشركتان إتاحة عرض الأرصدة وسجل المعاملات ضمن مسار خدمة واحد. المصدر: hankyung.com"
-      },
-      "hi": {
-        "title": "KB Securities और SK Planet OK Cashbag पॉइंट्स को ऐप निवेश से जोड़ेंगे",
-        "excerpt": "KB Securities और SK Planet ने 17 अप्रैल 2026 को एम्बेडेड फाइनेंस साझेदारी की, जिसके तहत OK Cashbag पॉइंट्स को सिक्योरिटीज खाते की नकदी में बदलकर निवेश में इस्तेमाल किया जा सकेगा।",
-        "body": "KB Securities और SK Planet ने 17 अप्रैल 2026 को सोंगनाम के पांग्यो स्थित SK Planet कार्यालय में “एम्बेडेड फाइनेंस बिजनेस ऑपरेशन पार्टनरशिप एग्रीमेंट” पर हस्ताक्षर किए। दोनों कंपनियां SK Planet के दैनिक जीवन से जुड़े प्लेटफॉर्म को KB Securities के वित्तीय API से जोड़कर OK Cashbag और KB Securities सेवाओं से जुड़ी निवेश सेवा तैयार करेंगी। OK Cashbag ऐप की “Today’s Investment” सेवा में पॉइंट्स को सिक्योरिटीज खाते की जमा राशि में बदलकर निवेश के लिए उपयोग किया जा सकेगा। साझेदार खाते के आधार पर बैलेंस और लेनदेन विवरण जैसी परिसंपत्ति जानकारी भी एक ही सेवा प्रवाह में देखने की योजना है। स्रोत: hankyung.com"
-      },
-      "id": {
-        "title": "KB Securities dan SK Planet Hubungkan Poin OK Cashbag ke Investasi Aplikasi",
-        "excerpt": "KB Securities dan SK Planet menandatangani kemitraan embedded finance pada 17 April 2026 untuk mengubah poin OK Cashbag menjadi dana rekening sekuritas bagi investasi.",
-        "body": "KB Securities dan SK Planet menandatangani “perjanjian kemitraan operasional bisnis embedded finance” pada 17 April 2026 di kantor SK Planet di Pangyo, Seongnam. Kedua perusahaan berencana menghubungkan API keuangan KB Securities dengan platform SK Planet yang dekat dengan aktivitas harian, lalu menyiapkan layanan investasi yang mengaitkan OK Cashbag dan KB Securities. Dalam layanan “Today’s Investment” di aplikasi OK Cashbag, poin dapat dikonversi menjadi dana pada rekening sekuritas dan digunakan untuk investasi. Keduanya juga berencana menghadirkan pengecekan saldo dan riwayat transaksi berbasis rekening mitra dalam satu alur layanan. Sumber: hankyung.com"
-      }
-    }
-  },
-  {
-    "id": "334fc8c7caed",
-    "slug": "은행의-안정성에-가산-금리까지-국민은행-후순위채-투자-가이드-596588",
-    "channelId": "ETF",
-    "category": "etf",
-    "publishedAt": "2026-05-08T00:20:10.500Z",
-    "updatedAt": "2026-05-08T00:20:10.500Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/202605071802i",
-    "canonicalUrl": "https://www.hankyung.com/article/202605071802i",
-    "titleFingerprint": "5fb4cb84379e2c2ba50d47e02deb0ce2baf0ce77",
-    "dedupKeys": [
-      "334fc8c7caedf25d610f6111690b7119cfd2c711",
-      "5fb4cb84379e2c2ba50d47e02deb0ce2baf0ce77",
-      "0eba6b9ef6badd1ac1c4d53b9dbed36b782bd4b5"
-    ],
-    "imageUrl": "/images/articles/334fc8c7caed.jpg",
-    "i18n": {
-      "ko": {
-        "title": "국민은행 후순위채 투자 가이드, AA 등급에 연 4.412% 수익률 주목",
-        "excerpt": "한국경제는 2026년 5월 7일 국민은행 후순위채가 AA 신용등급과 연 4.412% 세전 환산 수익률을 제시하지만 변제 순위와 유동성 리스크를 살펴야 한다고 전했다.",
-        "body": "한국경제는 2026년 5월 7일 국민은행 후순위채 투자 조건과 유의점을 정리했다. 기사 기준 이 채권의 신용등급은 AA, 세전 환산 수익률은 연 4.412%이며 남은 기간은 3년 317일이다. 이자는 3개월마다 지급되고, 1000만원을 투자하면 만기 때 세전 1155만4824원을 돌려받을 수 있다고 설명했다. 후순위채는 기업 파산이나 청산 때 일반 선순위 채권보다 변제 순위가 낮아 보통 일반 회사채보다 1.5~3%포인트 높은 금리를 제공한다. 우량 금융기관 발행 채권은 파산 위험이 낮게 평가되지만, 만기 보유 성향 탓에 유통시장이 활발하지 않을 수 있어 급히 현금화할 때 가격 리스크가 있다. 출처: hankyung.com."
-      },
-      "en": {
-        "title": "KB Kookmin Bank Subordinated Bond Guide: AA Rating, 4.412% Yield",
-        "excerpt": "Hankyung reported on May 7, 2026, that KB Kookmin Bank’s subordinated bond offers an AA rating and a 4.412% pre-tax annualized yield, while investors must weigh repayment priority and liquidity risks.",
-        "body": "Hankyung reported on May 7, 2026, on the terms and cautions for investing in KB Kookmin Bank’s subordinated bond. As of the article, the bond had an AA credit rating, a 4.412% pre-tax annualized yield and 3 years and 317 days remaining. Interest is paid every three months, and a 10 million won investment would return 11,554,824 won before tax at maturity, the report said. Subordinated bonds rank below ordinary senior bonds in bankruptcy or liquidation, so they typically offer rates 1.5 to 3 percentage points higher than general corporate bonds. Bonds issued by strong financial institutions are viewed as having low default risk, but secondary-market trading may be thin because many holders keep them to maturity, creating price risk if cash is needed quickly. Source: hankyung.com."
-      },
-      "ja": {
-        "title": "KB国民銀行の劣後債投資ガイド、AA格付けと年4.412%利回りに注目",
-        "excerpt": "韓国経済新聞は2026年5月7日、KB国民銀行の劣後債がAA格付けと税引き前年4.412%の換算利回りを示す一方、弁済順位と流動性リスクの確認が必要だと伝えた。",
-        "body": "韓国経済新聞は2026年5月7日、KB国民銀行の劣後債について投資条件と注意点を整理した。記事時点で同債券の信用格付けはAA、税引き前換算利回りは年4.412%、残存期間は3年317日。利息は3カ月ごとに支払われ、1000万ウォンを投資した場合、満期時に税引き前で1155万4824ウォンを受け取れると説明した。劣後債は企業の破産や清算時に一般の優先債より弁済順位が低いため、通常の社債より1.5～3ポイント高い金利を提供する。優良金融機関の発行債は破産リスクが低いとみられるが、満期保有の傾向が強く流通市場が活発でない場合があり、急いで現金化する際の価格リスクに注意が必要だ。出典: hankyung.com."
-      },
-      "zh": {
-        "title": "KB国民银行次级债投资指南：AA评级与4.412%年化收益率",
-        "excerpt": "韩国经济新闻2026年5月7日报道，KB国民银行次级债具有AA信用评级和税前年化4.412%收益率，但投资者需关注偿付顺序和流动性风险。",
-        "body": "韩国经济新闻2026年5月7日报道了KB国民银行次级债的投资条件和注意事项。按报道时点，该债券信用评级为AA，税前年化收益率为4.412%，剩余期限为3年317天。利息每3个月支付一次，投资1000万韩元到期可获得税前1155万4824韩元。次级债在企业破产或清算时的偿付顺序低于普通优先债，因此通常比一般公司债提供高出1.5至3个百分点的利率。优质金融机构发行的债券被认为实际破产风险较低，但由于投资者多倾向持有至到期，二级市场交易可能不活跃，急需变现时存在价格风险。来源: hankyung.com."
-      },
-      "es": {
-        "title": "Guía del bono subordinado de KB Kookmin: rating AA y rendimiento del 4,412%",
-        "excerpt": "Hankyung informó el 7 de mayo de 2026 que el bono subordinado de KB Kookmin ofrece calificación AA y rendimiento anualizado antes de impuestos del 4,412%, aunque exige revisar prioridad de cobro y liquidez.",
-        "body": "Hankyung informó el 7 de mayo de 2026 sobre las condiciones y cautelas del bono subordinado de KB Kookmin Bank. Según el artículo, el bono tiene calificación crediticia AA, rendimiento anualizado antes de impuestos del 4,412% y un plazo restante de 3 años y 317 días. Paga intereses cada tres meses, y una inversión de 10 millones de wones devolvería 11.554.824 wones antes de impuestos al vencimiento. Los bonos subordinados cobran después de los bonos sénior ordinarios en una quiebra o liquidación, por lo que suelen ofrecer tasas 1,5 a 3 puntos porcentuales superiores a las de bonos corporativos generales. En emisores financieros sólidos el riesgo de quiebra se considera bajo, pero el mercado secundario puede ser poco activo por la tendencia a mantenerlos hasta vencimiento, lo que implica riesgo de precio si se necesita liquidez rápida. Fuente: hankyung.com."
-      },
-      "pt": {
-        "title": "Guia do subordinado do KB Kookmin: rating AA e retorno anual de 4,412%",
-        "excerpt": "O Hankyung informou em 7 de maio de 2026 que o subordinado do KB Kookmin tem rating AA e rendimento anualizado antes de impostos de 4,412%, mas exige atenção à ordem de pagamento e à liquidez.",
-        "body": "O Hankyung informou em 7 de maio de 2026 as condições e os cuidados do investimento no título subordinado do KB Kookmin Bank. Segundo a reportagem, o papel tem rating AA, rendimento anualizado antes de impostos de 4,412% e prazo restante de 3 anos e 317 dias. Os juros são pagos a cada três meses, e um investimento de 10 milhões de wons renderia 11.554.824 wons antes de impostos no vencimento. Títulos subordinados ficam atrás de bonds seniores comuns na ordem de pagamento em caso de falência ou liquidação, por isso normalmente oferecem taxas 1,5 a 3 pontos percentuais acima das de debêntures corporativas gerais. Em instituições financeiras sólidas, o risco de falência é visto como baixo, mas o mercado secundário pode ser pouco ativo porque muitos investidores mantêm o papel até o vencimento, criando risco de preço se houver necessidade de venda rápida. Fonte: hankyung.com."
-      },
-      "de": {
-        "title": "KB-Kookmin-Nachrangbond im Fokus: AA-Rating und 4,412% Rendite",
-        "excerpt": "Hankyung berichtete am 7. Mai 2026, dass der Nachrangbond der KB Kookmin Bank ein AA-Rating und 4,412% Vorsteuer-Rendite bietet, Anleger aber Rangfolge und Liquiditätsrisiken prüfen müssen.",
-        "body": "Hankyung berichtete am 7. Mai 2026 über Konditionen und Risiken des Nachrangbonds der KB Kookmin Bank. Laut Artikel hat die Anleihe ein AA-Kreditrating, eine annualisierte Vorsteuer-Rendite von 4,412% und eine Restlaufzeit von 3 Jahren und 317 Tagen. Zinsen werden alle drei Monate gezahlt; eine Anlage von 10 Mio. Won würde bei Fälligkeit vor Steuern 11.554.824 Won zurückbringen. Nachrangige Anleihen stehen bei Insolvenz oder Liquidation hinter gewöhnlichen vorrangigen Anleihen und bieten daher meist 1,5 bis 3 Prozentpunkte höhere Zinsen als allgemeine Unternehmensanleihen. Bei starken Finanzinstituten gilt das Ausfallrisiko als niedrig, doch der Sekundärmarkt kann wegen der Neigung zum Halten bis zur Fälligkeit wenig aktiv sein. Wer schnell Bargeld braucht, trägt deshalb Preisrisiken. Quelle: hankyung.com."
-      },
-      "fr": {
-        "title": "Obligation subordonnée KB Kookmin: note AA et rendement annuel de 4,412%",
-        "excerpt": "Hankyung a rapporté le 7 mai 2026 que l’obligation subordonnée de KB Kookmin affiche une note AA et un rendement annualisé avant impôt de 4,412%, avec des risques de rang de remboursement et de liquidité.",
-        "body": "Hankyung a présenté le 7 mai 2026 les conditions et points de vigilance de l’obligation subordonnée de KB Kookmin Bank. Selon l’article, le titre est noté AA, offre un rendement annualisé avant impôt de 4,412% et conserve une durée restante de 3 ans et 317 jours. Les intérêts sont versés tous les trois mois; un investissement de 10 millions de wons rapporterait 11.554.824 wons avant impôt à l’échéance. Les obligations subordonnées sont remboursées après les obligations seniors ordinaires en cas de faillite ou de liquidation, ce qui explique des taux généralement supérieurs de 1,5 à 3 points à ceux des obligations d’entreprise classiques. Pour les institutions financières solides, le risque de faillite est jugé faible, mais le marché secondaire peut être peu actif car les investisseurs tendent à conserver ces titres jusqu’à l’échéance, créant un risque de prix en cas de vente urgente. Source: hankyung.com."
-      },
-      "ar": {
-        "title": "دليل سندات KB كوكمين الثانوية: تصنيف AA وعائد سنوي 4.412%",
-        "excerpt": "أفادت هانكيونغ في 7 مايو 2026 بأن سند KB كوكمين الثانوي يحمل تصنيف AA وعائدا سنويا قبل الضريبة 4.412%، لكن المستثمرين عليهم مراعاة أولوية السداد ومخاطر السيولة.",
-        "body": "نشرت هانكيونغ في 7 مايو 2026 عرضا لشروط سند KB كوكمين بنك الثانوي ونقاط الحذر عند الاستثمار فيه. وبحسب التقرير، يحمل السند تصنيفا ائتمانيا AA، وعائدا سنويا معادلا قبل الضريبة قدره 4.412%، وتبقى عليه 3 سنوات و317 يوما. تدفع الفائدة كل ثلاثة أشهر، واستثمار 10 ملايين وون يعيد عند الاستحقاق 11,554,824 وون قبل الضريبة. السندات الثانوية تأتي بعد السندات الممتازة العادية في ترتيب السداد عند الإفلاس أو التصفية، لذلك تقدم عادة فائدة أعلى بنحو 1.5 إلى 3 نقاط مئوية من سندات الشركات العامة. أما سندات المؤسسات المالية القوية فينظر إلى خطر إفلاسها الفعلي على أنه منخفض، لكن سوق التداول قد لا يكون نشطا بسبب ميل المستثمرين للاحتفاظ بها حتى الاستحقاق، ما يخلق خطر سعر عند الحاجة إلى تسييل سريع. المصدر: hankyung.com."
-      },
-      "hi": {
-        "title": "KB कूकमिन बैंक सबऑर्डिनेटेड बॉन्ड गाइड: AA रेटिंग, 4.412% यील्ड",
-        "excerpt": "Hankyung ने 7 मई 2026 को बताया कि KB कूकमिन बैंक का सबऑर्डिनेटेड बॉन्ड AA क्रेडिट रेटिंग और कर-पूर्व 4.412% वार्षिकीकृत यील्ड देता है, पर भुगतान क्रम और तरलता जोखिम पर ध्यान जरूरी है।",
-        "body": "Hankyung ने 7 मई 2026 को KB कूकमिन बैंक के सबऑर्डिनेटेड बॉन्ड की निवेश शर्तें और सावधानियां बताईं। लेख के अनुसार, इस बॉन्ड की क्रेडिट रेटिंग AA है, कर-पूर्व वार्षिकीकृत यील्ड 4.412% है और शेष अवधि 3 साल 317 दिन है। ब्याज हर तीन महीने में मिलता है, और 1 करोड़ वॉन निवेश करने पर परिपक्वता पर कर से पहले 11,554,824 वॉन मिल सकते हैं। सबऑर्डिनेटेड बॉन्ड में दिवालिया या परिसमापन की स्थिति में भुगतान क्रम सामान्य वरिष्ठ बॉन्ड से नीचे होता है, इसलिए ये आम कॉरपोरेट बॉन्ड से सामान्यतः 1.5 से 3 प्रतिशत अंक अधिक दर देते हैं। मजबूत वित्तीय संस्थानों के ऐसे बॉन्ड में वास्तविक दिवालिया जोखिम कम माना जाता है, लेकिन निवेशक इन्हें परिपक्वता तक रखने की प्रवृत्ति रखते हैं, जिससे द्वितीयक बाजार कम सक्रिय हो सकता है और जल्दी नकदी चाहिए तो मूल्य जोखिम बनता है। स्रोत: hankyung.com."
-      },
-      "id": {
-        "title": "Panduan Obligasi Subordinasi KB Kookmin: Rating AA, Imbal Hasil 4,412%",
-        "excerpt": "Hankyung melaporkan pada 7 Mei 2026 bahwa obligasi subordinasi KB Kookmin memiliki rating AA dan imbal hasil tahunan sebelum pajak 4,412%, tetapi investor perlu mencermati prioritas pembayaran dan risiko likuiditas.",
-        "body": "Hankyung pada 7 Mei 2026 mengulas syarat investasi dan hal yang perlu diperhatikan pada obligasi subordinasi KB Kookmin Bank. Menurut artikel tersebut, obligasi ini memiliki peringkat kredit AA, imbal hasil tahunan sebelum pajak 4,412%, dan sisa tenor 3 tahun 317 hari. Bunga dibayar setiap tiga bulan, dan investasi 10 juta won akan menghasilkan 11.554.824 won sebelum pajak saat jatuh tempo. Obligasi subordinasi memiliki urutan pembayaran di bawah obligasi senior biasa saat perusahaan bangkrut atau dilikuidasi, sehingga umumnya menawarkan bunga 1,5 hingga 3 poin persentase lebih tinggi daripada obligasi korporasi umum. Untuk lembaga keuangan yang kuat, risiko kebangkrutan dinilai rendah, tetapi pasar sekunder bisa kurang aktif karena banyak investor menahan hingga jatuh tempo, sehingga ada risiko harga bila perlu dicairkan cepat. Sumber: hankyung.com."
-      }
-    }
-  },
-  {
-    "id": "eee4135e3f76",
-    "slug": "중동-협상-불확실성에-하락-마감다우-06-뉴욕증시-브리핑-729730",
-    "channelId": "ETF",
-    "category": "etf",
-    "publishedAt": "2026-05-08T00:18:44.661Z",
-    "updatedAt": "2026-05-08T00:18:44.661Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/2026050829106",
-    "canonicalUrl": "https://www.hankyung.com/article/2026050829106",
-    "titleFingerprint": "c26717bd563f12d7422dbf8299a1d3d5c5c22525",
-    "dedupKeys": [
-      "eee4135e3f7602b3b3964a99eeec3ded472f3030",
-      "c26717bd563f12d7422dbf8299a1d3d5c5c22525",
-      "fb9dcc60020a31d6b67f35f006d68e46bdf3f91c"
-    ],
-    "imageUrl": "/images/articles/eee4135e3f76.jpg",
-    "i18n": {
-      "ko": {
-        "title": "중동 협상 불확실성에 뉴욕증시 하락 마감, 다우 0.6% 내려",
-        "excerpt": "뉴욕증시는 중동 협상 불확실성이 투자심리를 누르며 하락 마감했고, 다우지수는 0.6% 떨어진 것으로 전해졌다.",
-        "body": "뉴욕증시가 중동 협상 불확실성의 영향으로 하락 마감했다. 한국경제 보도에 따르면 시장은 중동 관련 협상 흐름을 주시하는 가운데 불확실성이 커지자 위험자산 선호가 약해졌고, 다우지수는 0.6% 내렸다. 이번 하락은 지정학적 변수와 협상 전망이 투자심리에 직접 반영된 결과로 해석된다. 향후 증시는 중동 협상의 진행 상황과 이에 따른 투자자들의 위험 회피 심리 변화에 영향을 받을 수 있다. 출처: hankyung.com"
-      },
-      "en": {
-        "title": "New York Stocks Fall on Middle East Talks Uncertainty; Dow Drops 0.6%",
-        "excerpt": "New York stocks closed lower as uncertainty over Middle East negotiations weighed on sentiment, with the Dow reported down 0.6%.",
-        "body": "New York stocks closed lower as uncertainty surrounding Middle East negotiations weighed on the market. According to a Korea Economic Daily report, investors watched developments in the talks, while rising uncertainty weakened appetite for risk assets. The Dow Jones Industrial Average fell 0.6%. The decline reflected how geopolitical issues and the outlook for negotiations fed directly into investor sentiment. Going forward, the market may remain sensitive to progress in Middle East talks and changes in risk-avoidance behavior. Source: hankyung.com"
-      },
-      "ja": {
-        "title": "中東協議の不透明感でNY株下落、ダウ平均は0.6％安で終了",
-        "excerpt": "ニューヨーク株式市場は中東協議を巡る不透明感が投資心理を圧迫し、ダウ平均は0.6％下落して取引を終えた。",
-        "body": "ニューヨーク株式市場は、中東協議を巡る不透明感の影響で下落して取引を終えた。韓国経済新聞の報道によると、市場は中東関連の協議動向を注視するなか、不確実性の高まりでリスク資産への選好が弱まり、ダウ平均は0.6％下落した。今回の下落は、地政学的要因と協議の見通しが投資心理に直接反映された結果と受け止められる。今後の相場は、中東協議の進展と投資家のリスク回避姿勢の変化に左右される可能性がある。出典: hankyung.com"
-      },
-      "zh": {
-        "title": "中东谈判不确定性拖累纽约股市收低，道指下跌0.6%",
-        "excerpt": "纽约股市因中东谈判不确定性压制投资情绪而收低，据报道道琼斯指数下跌0.6%。",
-        "body": "纽约股市在中东谈判不确定性的影响下收低。据韩国经济新闻报道，市场持续关注中东相关谈判进展，但不确定性上升削弱了风险资产偏好，道琼斯指数下跌0.6%。此次下跌反映出地缘政治因素和谈判前景直接影响投资者情绪。展望后市，纽约股市可能继续受到中东谈判进展以及投资者风险规避情绪变化的影响。来源: hankyung.com"
-      },
-      "es": {
-        "title": "Wall Street cierra a la baja por incertidumbre en Oriente Medio; Dow cae 0,6%",
-        "excerpt": "Wall Street cerró a la baja porque la incertidumbre sobre las negociaciones en Oriente Medio presionó el ánimo inversor; el Dow cayó 0,6%.",
-        "body": "La Bolsa de Nueva York cerró a la baja por el impacto de la incertidumbre en torno a las negociaciones de Oriente Medio. Según informó The Korea Economic Daily, el mercado siguió de cerca la evolución de esas conversaciones, mientras el aumento de la incertidumbre redujo el apetito por activos de riesgo. El índice Dow Jones bajó un 0,6%. La caída refleja cómo los factores geopolíticos y las perspectivas de negociación se trasladaron directamente al sentimiento inversor. En adelante, el mercado podría verse influido por el avance de las conversaciones y los cambios en la aversión al riesgo. Fuente: hankyung.com"
-      },
-      "pt": {
-        "title": "Wall Street fecha em queda com incerteza no Oriente Médio; Dow recua 0,6%",
-        "excerpt": "As bolsas de Nova York fecharam em queda, pressionadas pela incerteza sobre negociações no Oriente Médio; o Dow recuou 0,6%.",
-        "body": "As bolsas de Nova York fecharam em queda sob o impacto da incerteza em torno das negociações no Oriente Médio. Segundo o Korea Economic Daily, o mercado acompanhou os desdobramentos das conversas relacionadas à região, enquanto o aumento da incerteza reduziu o apetite por ativos de risco. O índice Dow Jones caiu 0,6%. O recuo mostra como fatores geopolíticos e a perspectiva das negociações se refletiram diretamente no sentimento dos investidores. Daqui em diante, o mercado pode ser influenciado pelo andamento das conversas no Oriente Médio e por mudanças na aversão ao risco. Fonte: hankyung.com"
-      },
-      "de": {
-        "title": "New Yorker Börse fällt wegen Unsicherheit um Nahost-Gespräche; Dow minus 0,6%",
-        "excerpt": "Die New Yorker Börse schloss schwächer, da Unsicherheit über Nahost-Verhandlungen die Stimmung belastete; der Dow fiel um 0,6%.",
-        "body": "Die New Yorker Börse hat wegen der Unsicherheit rund um Verhandlungen im Nahen Osten schwächer geschlossen. Laut einem Bericht der Korea Economic Daily beobachtete der Markt die Entwicklung der Gespräche, während die zunehmende Unsicherheit die Nachfrage nach Risikoanlagen dämpfte. Der Dow Jones fiel um 0,6%. Der Rückgang zeigt, wie geopolitische Faktoren und der Ausblick auf Verhandlungen unmittelbar auf die Anlegerstimmung wirkten. Künftig könnte der Markt weiter von Fortschritten bei den Nahost-Gesprächen und Veränderungen der Risikovermeidung beeinflusst werden. Quelle: hankyung.com"
-      },
-      "fr": {
-        "title": "Wall Street recule avec l’incertitude au Moyen-Orient; le Dow Jones perd 0,6%",
-        "excerpt": "Wall Street a clôturé en baisse, l’incertitude autour des négociations au Moyen-Orient pesant sur le moral des investisseurs; le Dow a perdu 0,6%.",
-        "body": "La Bourse de New York a terminé en baisse sous l’effet de l’incertitude entourant les négociations au Moyen-Orient. Selon The Korea Economic Daily, le marché a suivi l’évolution des discussions liées à la région, tandis que la montée de l’incertitude a affaibli l’appétit pour les actifs risqués. Le Dow Jones a reculé de 0,6%. Cette baisse montre que les facteurs géopolitiques et les perspectives de négociation se sont directement reflétés dans le sentiment des investisseurs. À l’avenir, le marché pourrait rester sensible aux progrès des discussions et aux variations de l’aversion au risque. Source: hankyung.com"
-      },
-      "ar": {
-        "title": "أسهم نيويورك تغلق منخفضة بفعل ضبابية مفاوضات الشرق الأوسط وداو يهبط 0.6%",
-        "excerpt": "أغلقت أسهم نيويورك على انخفاض مع ضغط عدم اليقين بشأن مفاوضات الشرق الأوسط على شهية المستثمرين، فيما تراجع داو جونز 0.6%.",
-        "body": "أغلقت أسهم نيويورك على انخفاض متأثرة بعدم اليقين المحيط بمفاوضات الشرق الأوسط. ووفق تقرير لصحيفة كوريا الاقتصادية، تابع السوق تطورات المحادثات المرتبطة بالمنطقة، بينما أدى تصاعد الضبابية إلى إضعاف الإقبال على الأصول عالية المخاطر. وتراجع مؤشر داو جونز الصناعي 0.6%. ويعكس هذا الهبوط تأثير العوامل الجيوسياسية وآفاق التفاوض مباشرة في معنويات المستثمرين. وقد تظل السوق لاحقا متأثرة بتقدم مفاوضات الشرق الأوسط وبأي تغير في نزعة تجنب المخاطر. المصدر: hankyung.com"
-      },
-      "hi": {
-        "title": "मध्य पूर्व वार्ता की अनिश्चितता से न्यूयॉर्क शेयर गिरे, डाउ 0.6% नीचे",
-        "excerpt": "मध्य पूर्व वार्ता को लेकर अनिश्चितता से निवेशक भावना कमजोर हुई और न्यूयॉर्क शेयर बाजार गिरकर बंद हुआ; डाउ 0.6% टूटा।",
-        "body": "न्यूयॉर्क शेयर बाजार मध्य पूर्व वार्ता से जुड़ी अनिश्चितता के असर में गिरावट के साथ बंद हुआ। कोरिया इकोनॉमिक डेली की रिपोर्ट के अनुसार, बाजार ने क्षेत्र से संबंधित बातचीत की दिशा पर नजर रखी, जबकि बढ़ती अनिश्चितता ने जोखिम वाली संपत्तियों के प्रति रुझान कमजोर किया। डाउ जोन्स सूचकांक 0.6% गिरा। यह गिरावट दिखाती है कि भू-राजनीतिक कारक और वार्ता की संभावनाएं सीधे निवेशक भावना में झलकीं। आगे बाजार मध्य पूर्व वार्ता की प्रगति और जोखिम से बचने की प्रवृत्ति में बदलाव से प्रभावित हो सकता है। स्रोत: hankyung.com"
-      },
-      "id": {
-        "title": "Bursa New York Melemah karena Ketidakpastian Timur Tengah; Dow Turun 0,6%",
-        "excerpt": "Bursa New York ditutup melemah karena ketidakpastian negosiasi Timur Tengah menekan sentimen investor; Dow turun 0,6%.",
-        "body": "Bursa New York ditutup melemah akibat ketidakpastian seputar negosiasi Timur Tengah. Menurut laporan Korea Economic Daily, pasar mencermati perkembangan pembicaraan terkait kawasan tersebut, sementara meningkatnya ketidakpastian melemahkan minat terhadap aset berisiko. Indeks Dow Jones turun 0,6%. Penurunan ini menunjukkan bagaimana faktor geopolitik dan prospek negosiasi langsung tercermin pada sentimen investor. Ke depan, pasar dapat dipengaruhi oleh perkembangan negosiasi Timur Tengah serta perubahan sikap investor terhadap penghindaran risiko. Sumber: hankyung.com"
       }
     }
   }
