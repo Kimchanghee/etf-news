@@ -1,5 +1,230 @@
 [
   {
+    "id": "5ba3fd551846",
+    "slug": "코스피-7500-과열-아니다일본-비하면-아직-덜-올랐다-483013",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-05-08T11:25:51.190Z",
+    "updatedAt": "2026-05-08T11:25:51.190Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/stock/12041160",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12041160",
+    "titleFingerprint": "c86874e88a3014c2ca0b173c15e2e69f2e0bff0b",
+    "dedupKeys": [
+      "5ba3fd55184616c18443895172cfb92886036821",
+      "c86874e88a3014c2ca0b173c15e2e69f2e0bff0b",
+      "42758bfb51cee51ade189e35066472a5f7383205"
+    ],
+    "imageUrl": "/images/articles/5ba3fd551846.jpg",
+    "i18n": {
+      "ko": {
+        "title": "코스피 7500 과열 논란에 오건영 “일본과 비교하면 아직 덜 올랐다”",
+        "excerpt": "오건영 신한은행 프리미어 패스파인더 단장은 전쟁 중에도 증시가 사상 최고치를 경신하는 흐름을 두고 코스피 7500도 일본과 비교하면 과열로 보기 어렵다고 설명했다.",
+        "body": "오건영 신한은행 프리미어 패스파인더 단장은 전쟁이 한창인 상황에서도 주식시장이 연일 사상 최고치를 경신하는 역설적 흐름을 설명하며 코스피 7500 수준을 과열로 단정하기 어렵다고 밝혔다. 그는 일본 증시와 비교하면 한국 증시는 아직 덜 오른 상태라는 점을 근거로 들었다. 시장이 고점 논란에 놓였지만, 단순 지수 수준만으로 과열 여부를 판단하기보다 국가별 상승 폭과 상대적 위치를 함께 봐야 한다는 취지다. 이번 발언은 국내 증시의 추가 상승 가능성과 밸류에이션 논쟁에 영향을 줄 수 있다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "KOSPI 7500 Overheating Debate: Oh Gun-young Says Korea Has Risen Less Than Japan",
+        "excerpt": "Oh Gun-young of Shinhan Bank Premier Pathfinder said that even as stocks hit record highs during wartime, KOSPI 7500 is hard to call overheated when compared with Japan.",
+        "body": "Oh Gun-young, head of Shinhan Bank Premier Pathfinder, addressed the paradox of stock markets repeatedly setting record highs even while war is ongoing, saying it is difficult to define a KOSPI level of 7500 as overheating. He cited the comparison with Japan’s stock market, noting that Korean equities have still risen less. Although the market is facing debate over record levels, his point was that overheating should not be judged by the index level alone, but by comparing each country’s gains and relative position. The remarks may influence discussions over further upside and valuation in the Korean market. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "KOSPI 7500過熱論に呉建永氏「日本に比べればまだ上昇は小さい」",
+        "excerpt": "新韓銀行プレミア・パスファインダーの呉建永団長は、戦争下でも株式市場が最高値を更新する中、KOSPI 7500も日本との比較では過熱と見にくいと説明した。",
+        "body": "新韓銀行プレミア・パスファインダーの呉建永団長は、戦争が続く状況でも株式市場が連日で史上最高値を更新する逆説的な流れについて説明し、KOSPI 7500水準を過熱と断定するのは難しいと述べた。根拠として、日本株と比べると韓国株はまだ上昇幅が小さい点を挙げた。市場は高値圏を巡る議論に直面しているが、単純な指数水準だけで過熱を判断するのではなく、国別の上昇率と相対的な位置を合わせて見るべきだという趣旨だ。今回の発言は韓国株の追加上昇余地とバリュエーション論争に影響し得る。出所: mk.co.kr"
+      },
+      "zh": {
+        "title": "KOSPI 7500过热争议：吴建永称“与日本相比仍涨得不多”",
+        "excerpt": "新韩银行Premier Pathfinder团长吴建永表示，即使战争期间股市连创新高，若与日本相比，KOSPI 7500也难以被视为过热。",
+        "body": "新韩银行Premier Pathfinder团长吴建永在解释战争仍在进行、股市却接连刷新历史高点这一看似矛盾的现象时表示，很难将KOSPI 7500点水平直接判定为过热。他以日本股市作为比较依据，指出韩国股市目前的涨幅仍相对较小。虽然市场正围绕高点展开争论，但其观点是，不能仅凭指数点位判断是否过热，还应同时观察各国涨幅和相对位置。相关发言可能影响韩国股市进一步上涨空间及估值争议。出处: mk.co.kr"
+      },
+      "es": {
+        "title": "KOSPI 7500 y el debate de sobrecalentamiento: Oh dice que subió menos que Japón",
+        "excerpt": "Oh Gun-young, de Shinhan Bank Premier Pathfinder, dijo que aunque las bolsas marcan máximos en plena guerra, el KOSPI 7500 no parece sobrecalentado frente a Japón.",
+        "body": "Oh Gun-young, director de Shinhan Bank Premier Pathfinder, explicó la paradoja de que el mercado bursátil marque máximos históricos de forma reiterada incluso mientras la guerra continúa, y afirmó que es difícil calificar un KOSPI en 7500 como sobrecalentado. Citó como base la comparación con la bolsa japonesa, señalando que las acciones coreanas aún han subido menos. Aunque el mercado está inmerso en un debate sobre sus máximos, el mensaje fue que no debe evaluarse el sobrecalentamiento solo por el nivel del índice, sino también por las ganancias de cada país y su posición relativa. Sus declaraciones pueden influir en el debate sobre más subidas y valoración en Corea. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "KOSPI 7500 em debate: Oh Gun-young diz que Coreia subiu menos que o Japão",
+        "excerpt": "Oh Gun-young, do Shinhan Bank Premier Pathfinder, afirmou que, mesmo com bolsas em máximas durante a guerra, o KOSPI 7500 é difícil de classificar como superaquecido ante o Japão.",
+        "body": "Oh Gun-young, chefe do Shinhan Bank Premier Pathfinder, comentou a aparente contradição de o mercado acionário renovar máximas históricas enquanto a guerra continua, dizendo que é difícil definir o KOSPI em 7500 pontos como superaquecido. Ele citou a comparação com o mercado japonês, observando que as ações coreanas ainda subiram menos. Embora o mercado esteja em meio ao debate sobre níveis recordes, a ideia é que o superaquecimento não deve ser julgado apenas pelo patamar do índice, mas também pelos ganhos de cada país e por sua posição relativa. A fala pode afetar discussões sobre potencial de alta e valuation na Coreia. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "KOSPI 7500 und Überhitzung: Oh Gun-young verweist auf geringeren Anstieg als Japan",
+        "excerpt": "Oh Gun-young von Shinhan Bank Premier Pathfinder sagte, selbst bei Rekordständen der Börsen im Krieg sei ein KOSPI von 7500 im Vergleich zu Japan schwer als überhitzt zu sehen.",
+        "body": "Oh Gun-young, Leiter von Shinhan Bank Premier Pathfinder, erklärte den Widerspruch, dass Aktienmärkte trotz eines andauernden Krieges immer neue Rekordstände erreichen, und sagte, ein KOSPI-Niveau von 7500 lasse sich schwer eindeutig als Überhitzung bezeichnen. Als Begründung nannte er den Vergleich mit Japans Aktienmarkt: Koreanische Aktien seien bislang weniger stark gestiegen. Zwar steht der Markt wegen seiner Höchststände in der Diskussion, doch nach seiner Aussage sollte Überhitzung nicht allein am Indexstand gemessen werden, sondern auch an den Anstiegen und der relativen Position einzelner Länder. Die Äußerung könnte die Debatte über weiteres Aufwärtspotenzial und Bewertungen in Korea beeinflussen. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "KOSPI 7500 et surchauffe: Oh Gun-young estime que la Corée a moins monté que le Japon",
+        "excerpt": "Oh Gun-young, de Shinhan Bank Premier Pathfinder, a déclaré que malgré des records boursiers en temps de guerre, un KOSPI à 7500 paraît difficile à juger surchauffé face au Japon.",
+        "body": "Oh Gun-young, responsable de Shinhan Bank Premier Pathfinder, a expliqué le paradoxe d’un marché boursier qui enchaîne les records historiques alors que la guerre se poursuit, en affirmant qu’il est difficile de qualifier un KOSPI à 7500 de marché en surchauffe. Il a fondé son analyse sur la comparaison avec la Bourse japonaise, soulignant que les actions coréennes ont encore moins progressé. Même si les niveaux élevés alimentent le débat, son propos est que la surchauffe ne doit pas être évaluée uniquement par le niveau de l’indice, mais aussi par les hausses propres à chaque pays et leur position relative. Ces déclarations peuvent peser sur le débat concernant le potentiel de hausse et la valorisation en Corée. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "مؤشر كوسبي 7500 ليس بالضرورة فقاعة.. أوه غون يونغ يقارنه باليابان",
+        "excerpt": "قال أوه غون يونغ من شينهان بنك بريمير باثفايندر إن تسجيل الأسهم قمما قياسية أثناء الحرب لا يجعل كوسبي 7500 مفرطا في السخونة عند مقارنته باليابان.",
+        "body": "أوضح أوه غون يونغ، رئيس شينهان بنك بريمير باثفايندر، المفارقة المتمثلة في مواصلة أسواق الأسهم تسجيل قمم تاريخية رغم استمرار الحرب، قائلا إن من الصعب الجزم بأن مستوى كوسبي 7500 يمثل سخونة مفرطة. واستند في ذلك إلى المقارنة مع سوق الأسهم اليابانية، مشيرا إلى أن الأسهم الكورية ما زالت أقل ارتفاعا. ورغم أن السوق يواجه جدلا حول مستوياته القياسية، فإن الفكرة الأساسية هي أن الحكم على السخونة لا ينبغي أن يعتمد على مستوى المؤشر وحده، بل أيضا على حجم الصعود في كل بلد وموقعه النسبي. وقد تؤثر هذه التصريحات في نقاشات الصعود الإضافي والتقييمات في كوريا. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "KOSPI 7500 पर ओह गुन-यंग: जापान से तुलना करें तो कोरिया अभी कम चढ़ा",
+        "excerpt": "शिनहान बैंक प्रीमियर पाथफाइंडर के ओह गुन-यंग ने कहा कि युद्ध के बीच शेयर बाजारों के रिकॉर्ड ऊंचाई छूने पर भी KOSPI 7500 को जापान की तुलना में अति-गरम कहना कठिन है।",
+        "body": "शिनहान बैंक प्रीमियर पाथफाइंडर के प्रमुख ओह गुन-यंग ने युद्ध जारी रहने के बावजूद शेयर बाजारों के लगातार ऐतिहासिक ऊंचाई बनाने की विरोधाभासी स्थिति पर कहा कि KOSPI के 7500 स्तर को सीधे तौर पर अति-गरम कहना कठिन है। उन्होंने जापान के शेयर बाजार से तुलना को आधार बनाया और कहा कि कोरियाई शेयर अभी भी कम चढ़े हैं। बाजार ऊंचे स्तरों को लेकर बहस में है, लेकिन उनका आशय यह था कि केवल सूचकांक के स्तर से अति-गरमी तय नहीं करनी चाहिए; देशों की बढ़त और उनकी सापेक्ष स्थिति भी साथ देखनी चाहिए। यह बयान कोरियाई बाजार में आगे की बढ़त और वैल्यूएशन बहस को प्रभावित कर सकता है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "KOSPI 7500 Diperdebatkan: Oh Gun-young Sebut Korea Masih Naik Kurang dari Jepang",
+        "excerpt": "Oh Gun-young dari Shinhan Bank Premier Pathfinder mengatakan meski bursa mencetak rekor saat perang berlangsung, KOSPI 7500 sulit disebut terlalu panas jika dibandingkan dengan Jepang.",
+        "body": "Oh Gun-young, kepala Shinhan Bank Premier Pathfinder, menjelaskan paradoks ketika pasar saham terus mencetak rekor tertinggi meski perang masih berlangsung, dan mengatakan level KOSPI 7500 sulit langsung disebut terlalu panas. Ia mendasarkan pandangannya pada perbandingan dengan pasar saham Jepang, dengan menyebut saham Korea masih naik lebih sedikit. Walau pasar sedang diperdebatkan karena berada di level tinggi, pesannya adalah kondisi terlalu panas tidak semestinya dinilai hanya dari angka indeks, tetapi juga dari kenaikan tiap negara dan posisi relatifnya. Pernyataan ini dapat memengaruhi diskusi tentang potensi kenaikan lanjutan dan valuasi pasar Korea. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "e90fe02e6cec",
+    "slug": "코스피-9000-갑니다골드만삭스-여전히-매력적-목표치-859352",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-05-08T11:24:43.610Z",
+    "updatedAt": "2026-05-08T11:24:43.610Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/stock/12041237",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12041237",
+    "titleFingerprint": "984576eaa0ea5c1bd138c62ef3e8ed2a3941bbdb",
+    "dedupKeys": [
+      "e90fe02e6cec4f7c6468485e5aabac17e6a5ad4c",
+      "984576eaa0ea5c1bd138c62ef3e8ed2a3941bbdb",
+      "de8f2d431a8e9d41a72506d83df6281d2c84ad56"
+    ],
+    "imageUrl": "/images/articles/e90fe02e6cec.jpg",
+    "i18n": {
+      "ko": {
+        "title": "코스피 9000 전망에 힘 실은 골드만삭스, 사상 최고 행진 속 목표치 상향",
+        "excerpt": "코스피가 종가 기준 사상 최고치를 연일 경신하는 가운데 골드만삭스가 8일 외신 보도에서 코스피 목표치를 9000으로 올리며 여전히 매력적이라고 평가했다.",
+        "body": "코스피가 종가 기준으로 연일 사상 최고치를 새로 쓰는 가운데 글로벌 투자은행 골드만삭스가 코스피 목표치를 9000으로 상향 조정했다. 8일 비즈니스 인사이더 등 외신 보도에 따르면 골드만삭스는 한국 증시에 대해 여전히 매력적이라는 평가를 유지하며 목표치를 높였다. 이번 조정은 코스피의 최고가 흐름이 이어지는 시점에 나온 것으로, 시장 참여자들은 글로벌 투자은행의 시각 변화와 지수 목표 상향을 함께 주목하고 있다. 다만 보도에서 제시된 핵심 내용은 목표치 상향과 매력도 평가에 한정된다. 출처: mk.co.kr."
+      },
+      "en": {
+        "title": "Goldman Sachs Raises KOSPI Target to 9,000 as Record Highs Continue",
+        "excerpt": "As the KOSPI keeps setting record closing highs, Goldman Sachs raised its target for the index to 9,000 on May 8, saying Korean equities remain attractive, according to foreign media.",
+        "body": "The KOSPI is repeatedly setting all-time highs on a closing basis, and global investment bank Goldman Sachs has raised its target for the index to 9,000. According to foreign media reports including Business Insider on May 8, Goldman Sachs maintained its view that Korean equities remain attractive while lifting its KOSPI target. The revision comes as the benchmark index continues its record-setting run, drawing attention from market participants to both the higher target and the global bank’s assessment. The reported core points are limited to the target increase and the view that the market remains attractive. Source: mk.co.kr."
+      },
+      "ja": {
+        "title": "ゴールドマン、KOSPI目標を9000に引き上げ 最高値更新続く中で評価",
+        "excerpt": "KOSPIが終値ベースで連日過去最高値を更新する中、ゴールドマン・サックスは8日の外信報道で目標値を9000に引き上げ、依然魅力的と評価した。",
+        "body": "KOSPIが終値ベースで連日過去最高値を更新している中、世界的投資銀行のゴールドマン・サックスがKOSPIの目標値を9000に引き上げた。8日のビジネス・インサイダーなど外信報道によると、ゴールドマン・サックスは韓国株式市場について依然として魅力的だとの見方を維持し、目標値を上方修正した。今回の調整はKOSPIの最高値更新が続く局面で示されたもので、市場参加者は同社の評価と目標引き上げをあわせて注視している。ただし報道で示された主な内容は、目標値の上方修正と魅力度評価に限られる。出典: mk.co.kr."
+      },
+      "zh": {
+        "title": "高盛上调KOSPI目标至9000点，韩股连创新高仍被看好",
+        "excerpt": "在KOSPI按收盘价连续刷新历史高位之际，高盛据8日外媒报道将该指数目标上调至9000点，并认为韩国股市仍具吸引力。",
+        "body": "在KOSPI按收盘价连续刷新历史最高纪录之际，全球投资银行高盛将KOSPI目标上调至9000点。据5月8日《商业内幕》等外媒报道，高盛维持韩国股市仍具吸引力的判断，并提高了该指数目标。此次调整出现在KOSPI持续创下收盘新高的背景下，市场参与者正同时关注全球投行的看法变化和目标点位上调。不过，报道所呈现的核心信息仅限于目标上调以及仍具吸引力的评价。来源: mk.co.kr."
+      },
+      "es": {
+        "title": "Goldman Sachs eleva a 9.000 su objetivo para el KOSPI tras nuevos récords",
+        "excerpt": "Mientras el KOSPI encadena máximos históricos de cierre, Goldman Sachs elevó el 8 de mayo su objetivo para el índice a 9.000 y mantuvo que la bolsa coreana sigue siendo atractiva.",
+        "body": "El KOSPI sigue renovando máximos históricos en términos de cierre, y el banco de inversión global Goldman Sachs elevó su objetivo para el índice a 9.000 puntos. Según informaron el 8 de mayo medios extranjeros, incluido Business Insider, Goldman Sachs mantuvo su evaluación de que el mercado bursátil de Corea sigue siendo atractivo y revisó al alza su meta. El ajuste llega en un momento en que el índice continúa su avance récord, por lo que los participantes del mercado observan tanto la nueva meta como la valoración del banco. Los puntos centrales del reporte se limitan al alza del objetivo y a la visión de atractivo. Fuente: mk.co.kr."
+      },
+      "pt": {
+        "title": "Goldman Sachs eleva meta do KOSPI para 9.000 em meio a recordes de fechamento",
+        "excerpt": "Com o KOSPI renovando máximas históricas de fechamento, o Goldman Sachs elevou em 8 de maio sua meta para o índice a 9.000 e afirmou que a bolsa coreana segue atraente.",
+        "body": "O KOSPI vem renovando máximas históricas com base no fechamento, e o banco de investimento global Goldman Sachs elevou sua meta para o índice a 9.000 pontos. Segundo reportagens de veículos estrangeiros, incluindo o Business Insider, em 8 de maio, o Goldman Sachs manteve a avaliação de que o mercado acionário coreano continua atraente e revisou a meta para cima. A mudança ocorre enquanto o índice mantém uma sequência de recordes, levando participantes do mercado a observar tanto a nova projeção quanto a leitura do banco. O conteúdo central relatado se limita à elevação da meta e à avaliação de atratividade. Fonte: mk.co.kr."
+      },
+      "de": {
+        "title": "Goldman Sachs hebt KOSPI-Ziel auf 9.000 an, während Rekordhochs weiterlaufen",
+        "excerpt": "Während der KOSPI auf Schlusskursbasis weiter historische Höchststände markiert, hob Goldman Sachs am 8. Mai laut Auslandsmedien das Ziel auf 9.000 an und sieht den Markt weiter attraktiv.",
+        "body": "Der KOSPI markiert auf Schlusskursbasis fortlaufend neue historische Höchststände, und die globale Investmentbank Goldman Sachs hat ihr Ziel für den Index auf 9.000 angehoben. Laut Berichten ausländischer Medien, darunter Business Insider, vom 8. Mai hielt Goldman Sachs an der Einschätzung fest, dass der koreanische Aktienmarkt weiterhin attraktiv sei, und setzte das Kursziel höher. Die Anpassung erfolgt in einer Phase anhaltender Rekorde des Leitindex. Marktteilnehmer achten daher sowohl auf die höhere Zielmarke als auch auf die Bewertung der Bank. Die gemeldeten Kernaussagen beschränken sich auf die Zielanhebung und die Attraktivitätseinschätzung. Quelle: mk.co.kr."
+      },
+      "fr": {
+        "title": "Goldman Sachs relève son objectif KOSPI à 9 000 sur fond de records de clôture",
+        "excerpt": "Alors que le KOSPI enchaîne les records historiques en clôture, Goldman Sachs a relevé le 8 mai son objectif à 9 000, jugeant les actions coréennes toujours attractives.",
+        "body": "Le KOSPI renouvelle jour après jour ses records historiques sur la base des cours de clôture, et la banque d’investissement mondiale Goldman Sachs a relevé son objectif pour l’indice à 9 000. Selon des médias étrangers, dont Business Insider, le 8 mai, Goldman Sachs a maintenu son appréciation selon laquelle le marché actions coréen reste attractif tout en augmentant sa cible. Cette révision intervient alors que l’indice poursuit sa série de sommets, attirant l’attention des investisseurs sur la nouvelle cible et sur le jugement de la banque. Les éléments essentiels rapportés se limitent au relèvement de l’objectif et à l’évaluation de l’attractivité. Source: mk.co.kr."
+      },
+      "ar": {
+        "title": "غولدمان ساكس يرفع هدف كوسبي إلى 9000 مع استمرار قمم الإغلاق القياسية",
+        "excerpt": "مع استمرار مؤشر كوسبي في تسجيل قمم تاريخية متتالية عند الإغلاق، رفع غولدمان ساكس في 8 مايو هدفه للمؤشر إلى 9000 مؤكدا أن الأسهم الكورية ما زالت جذابة.",
+        "body": "يواصل مؤشر كوسبي تسجيل مستويات قياسية تاريخية على أساس سعر الإغلاق، وفي هذا السياق رفع بنك الاستثمار العالمي غولدمان ساكس هدفه للمؤشر إلى 9000 نقطة. وبحسب تقارير وسائل إعلام أجنبية، منها بزنس إنسايدر في 8 مايو، أبقى غولدمان ساكس على تقييمه بأن سوق الأسهم الكورية لا تزال جذابة، مع رفع المستوى المستهدف للمؤشر. وتأتي هذه المراجعة في وقت يستمر فيه المؤشر القياسي في مسار القمم الجديدة، ما يجعل المشاركين في السوق يراقبون هدف البنك الأعلى وتقييمه للسوق معا. وتقتصر النقاط الأساسية الواردة في التقرير على رفع الهدف وتقييم الجاذبية. المصدر: mk.co.kr."
+      },
+      "hi": {
+        "title": "रिकॉर्ड ऊंचाई के बीच Goldman Sachs ने KOSPI लक्ष्य 9,000 किया",
+        "excerpt": "KOSPI के बंद भाव पर लगातार ऐतिहासिक ऊंचाई बनाने के बीच Goldman Sachs ने 8 मई की विदेशी मीडिया रिपोर्टों के अनुसार सूचकांक लक्ष्य 9,000 किया और कोरियाई शेयरों को आकर्षक बताया।",
+        "body": "KOSPI बंद भाव के आधार पर लगातार सर्वकालिक उच्च स्तर बना रहा है, और वैश्विक निवेश बैंक Goldman Sachs ने सूचकांक का लक्ष्य बढ़ाकर 9,000 कर दिया है। 8 मई को Business Insider सहित विदेशी मीडिया रिपोर्टों के अनुसार, Goldman Sachs ने कोरियाई शेयर बाजार को अब भी आकर्षक मानने का आकलन बनाए रखा और लक्ष्य को ऊपर संशोधित किया। यह बदलाव उस समय आया है जब KOSPI की रिकॉर्ड तेजी जारी है, इसलिए बाजार प्रतिभागी वैश्विक बैंक के बदले हुए लक्ष्य और उसके मूल्यांकन दोनों पर ध्यान दे रहे हैं। रिपोर्ट में मुख्य जानकारी लक्ष्य वृद्धि और आकर्षक बने रहने के आकलन तक सीमित है। स्रोत: mk.co.kr."
+      },
+      "id": {
+        "title": "Goldman Sachs Naikkan Target KOSPI ke 9.000 Saat Rekor Penutupan Berlanjut",
+        "excerpt": "Saat KOSPI terus mencetak rekor tertinggi berdasarkan penutupan, Goldman Sachs pada 8 Mei menaikkan target indeks menjadi 9.000 dan menilai saham Korea masih menarik.",
+        "body": "KOSPI terus mencetak rekor tertinggi sepanjang masa berdasarkan harga penutupan, dan bank investasi global Goldman Sachs menaikkan target indeks tersebut menjadi 9.000. Menurut laporan media asing termasuk Business Insider pada 8 Mei, Goldman Sachs mempertahankan penilaian bahwa pasar saham Korea masih menarik sambil menaikkan target KOSPI. Revisi ini muncul ketika indeks acuan tersebut masih berada dalam rangkaian rekor, sehingga pelaku pasar mencermati baik target baru maupun penilaian bank global itu. Namun, inti informasi dalam laporan terbatas pada kenaikan target dan penilaian bahwa pasar masih menarik. Sumber: mk.co.kr."
+      }
+    }
+  },
+  {
+    "id": "72d65965f426",
+    "slug": "어닝-서프라이즈가-쇼크로토스증권-한국콜마-실적-표기-오류에-주주들-분통-126187",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-05-08T11:23:36.235Z",
+    "updatedAt": "2026-05-08T11:23:36.235Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/stock/12041258",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12041258",
+    "titleFingerprint": "28241e1e4a410a85cc18ae4f9d37b32b1a9cdd99",
+    "dedupKeys": [
+      "72d65965f42636ef6de610e6493c3713d1f5f13f",
+      "28241e1e4a410a85cc18ae4f9d37b32b1a9cdd99",
+      "7f41bd8fa65e824e39c926073013b812389fa7ed"
+    ],
+    "imageUrl": "/images/articles/72d65965f426.png",
+    "i18n": {
+      "ko": {
+        "title": "토스증권 한국콜마 실적 표기 오류, ‘어닝 서프라이즈’가 주주 패닉으로 번졌다",
+        "excerpt": "토스증권이 한국콜마의 1분기 실적을 연결이 아닌 개별 기준으로 잘못 표기하면서 반토막 난 수치가 노출돼 주주들이 혼란과 분노를 표출했다.",
+        "body": "토스증권이 한국콜마의 1분기 실적을 잘못 표기하면서 주주들의 반발이 커졌다. 원문에 따르면 한국콜마는 역대급 1분기 호실적을 거뒀지만, 토스증권 화면에는 연결 실적이 아닌 개별 실적이 표시돼 실제보다 크게 낮아 보이는 수치가 노출됐다. 이로 인해 ‘어닝 서프라이즈’로 받아들여져야 할 실적이 일부 투자자에게는 ‘어닝 쇼크’처럼 보였고, 주주들 사이에서는 패닉셀 우려가 제기됐다. 이후 수치가 수정됐지만 정정 알림 없이 바뀌었다는 점이 공분을 키웠다. 투자자들은 앞선 엔화 관련 사태를 언급하며 반복되는 오류에 대한 보상 요구를 내놓고 있다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Toss Securities’ Kolmar Korea earnings display error turns surprise into shareholder panic",
+        "excerpt": "Toss Securities displayed Kolmar Korea’s Q1 results on a separate rather than consolidated basis, exposing sharply lower figures and sparking confusion and anger among shareholders.",
+        "body": "Toss Securities is facing backlash from shareholders after incorrectly displaying Kolmar Korea’s first-quarter earnings. According to the original report, Kolmar Korea delivered record-level Q1 results, but Toss Securities showed separate financial results instead of consolidated figures, making the numbers appear far lower than they were. As a result, earnings that should have been read as a surprise appeared to some investors like an earnings shock, raising concerns over panic selling among shareholders. The figures were later corrected, but anger grew because the change was made without a correction notice. Investors are also citing a previous yen-related incident and demanding compensation for repeated errors. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "トス証券の韓国コルマー実績表示ミス、好決算が株主パニックに拡大",
+        "excerpt": "トス証券が韓国コルマーの1四半期実績を連結ではなく個別基準で誤表示し、大幅に低く見える数値が露出して株主の混乱と怒りを招いた。",
+        "body": "トス証券が韓国コルマーの1四半期実績を誤って表示し、株主の反発が強まっている。原文によると、韓国コルマーは過去最高水準の1四半期好業績を記録したが、トス証券の画面には連結実績ではなく個別実績が表示され、実際より大きく低く見える数値が露出した。このため、本来は「アーニングサプライズ」と受け止められるべき実績が、一部投資家には「アーニングショック」のように映り、株主の間でパニック売りへの懸念が出た。その後、数値は修正されたが、訂正通知なしに変更された点が怒りをさらに広げた。投資家は以前の円関連の事態にも触れ、繰り返されるミスへの補償を求めている。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "Toss证券误标韩国科玛业绩，“盈利惊喜”引发股东恐慌",
+        "excerpt": "Toss证券将韩国科玛一季度业绩误按个别口径而非合并口径显示，导致大幅偏低的数据曝光，引发股东混乱与愤怒。",
+        "body": "Toss证券因错误显示韩国科玛一季度业绩，正面临股东反弹。根据原文，韩国科玛取得了创纪录的一季度好业绩，但Toss证券页面显示的不是合并业绩，而是个别业绩，使数据看起来比实际水平低得多。因此，本应被视为“盈利惊喜”的业绩，在部分投资者眼中却像“盈利冲击”，股东之间出现了对恐慌性抛售的担忧。之后相关数字被修改，但未发布更正通知就悄然调整，这进一步激起公愤。投资者还提到此前与日元相关的事件，要求对反复出现的错误进行赔偿。出处: mk.co.kr"
+      },
+      "es": {
+        "title": "Error de Toss Securities en resultados de Kolmar Korea convierte sorpresa en pánico",
+        "excerpt": "Toss Securities mostró los resultados del primer trimestre de Kolmar Korea con cifras individuales y no consolidadas, dejando datos muy inferiores y causando enojo entre accionistas.",
+        "body": "Toss Securities enfrenta críticas de accionistas tras mostrar de forma errónea los resultados del primer trimestre de Kolmar Korea. Según el reporte original, Kolmar Korea logró resultados trimestrales récord, pero la pantalla de Toss Securities mostró cifras individuales en lugar de consolidadas, lo que hizo que los datos parecieran mucho más bajos de lo real. Así, unos resultados que debían interpretarse como una sorpresa positiva parecieron para algunos inversores un golpe de ganancias, generando preocupación por ventas de pánico entre accionistas. Las cifras fueron corregidas después, pero la indignación aumentó porque el cambio se realizó sin aviso de rectificación. Inversores mencionan además un incidente previo relacionado con el yen y exigen compensación por errores repetidos. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Erro da Toss Securities em resultados da Kolmar Korea transforma surpresa em pânico",
+        "excerpt": "A Toss Securities exibiu os resultados do 1º trimestre da Kolmar Korea em base individual, não consolidada, mostrando números bem menores e irritando acionistas.",
+        "body": "A Toss Securities enfrenta reação de acionistas após exibir incorretamente os resultados do primeiro trimestre da Kolmar Korea. Segundo o texto original, a Kolmar Korea registrou um desempenho recorde no trimestre, mas a tela da Toss Securities mostrou resultados individuais em vez de consolidados, fazendo os números parecerem muito inferiores aos reais. Com isso, resultados que deveriam ser vistos como uma surpresa positiva foram interpretados por alguns investidores como um choque nos lucros, gerando preocupação com vendas em pânico entre acionistas. Os dados foram corrigidos depois, mas a indignação cresceu porque a alteração ocorreu sem aviso de correção. Investidores também citam um episódio anterior ligado ao iene e pedem compensação por erros repetidos. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Toss-Securities-Fehler bei Kolmar-Korea-Zahlen macht Gewinnüberraschung zum Schock",
+        "excerpt": "Toss Securities zeigte Kolmar Koreas Q1-Ergebnisse fälschlich auf Einzel- statt Konzernbasis, wodurch deutlich niedrigere Zahlen erschienen und Aktionäre verärgert reagierten.",
+        "body": "Toss Securities steht nach einer falschen Anzeige der Erstquartalszahlen von Kolmar Korea in der Kritik von Aktionären. Dem Originalbericht zufolge erzielte Kolmar Korea ein Rekordergebnis im ersten Quartal, doch auf dem Bildschirm von Toss Securities wurden Einzelabschlüsse statt konsolidierter Zahlen angezeigt. Dadurch wirkten die Werte deutlich niedriger als tatsächlich. Ergebnisse, die eigentlich als positive Gewinnüberraschung hätten gelten sollen, erschienen einigen Anlegern wie ein Gewinnschock, was Sorgen vor Panikverkäufen unter Aktionären auslöste. Die Zahlen wurden später korrigiert, doch die Empörung wuchs, weil die Änderung ohne Berichtigungshinweis erfolgte. Anleger verweisen zudem auf einen früheren Yen-bezogenen Vorfall und fordern Entschädigung für wiederholte Fehler. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Erreur de Toss Securities sur Kolmar Korea: la surprise des résultats vire au choc",
+        "excerpt": "Toss Securities a affiché les résultats du T1 de Kolmar Korea sur une base individuelle et non consolidée, montrant des chiffres bien plus faibles et suscitant la colère des actionnaires.",
+        "body": "Toss Securities fait face à la colère d’actionnaires après avoir mal affiché les résultats du premier trimestre de Kolmar Korea. Selon le texte original, Kolmar Korea a réalisé un résultat trimestriel record, mais l’écran de Toss Securities a présenté des chiffres individuels au lieu de données consolidées, faisant apparaître des montants nettement inférieurs à la réalité. Ainsi, des résultats qui auraient dû être perçus comme une bonne surprise ont semblé à certains investisseurs être un choc de bénéfices, alimentant les craintes de ventes de panique parmi les actionnaires. Les chiffres ont ensuite été corrigés, mais l’indignation a grandi car le changement a été effectué sans avis de rectification. Des investisseurs évoquent aussi un précédent incident lié au yen et réclament une compensation pour ces erreurs répétées. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "خطأ توس للأوراق المالية في نتائج كولمار كوريا يحول المفاجأة إلى ذعر بين المساهمين",
+        "excerpt": "عرضت توس للأوراق المالية نتائج الربع الأول لكولمار كوريا على أساس منفرد لا موحد، فظهرت أرقام أقل بكثير وأثارت ارتباكا وغضبا بين المساهمين.",
+        "body": "تواجه توس للأوراق المالية رد فعل غاضبا من المساهمين بعد عرض نتائج الربع الأول لكولمار كوريا بشكل خاطئ. ووفقا للنص الأصلي، سجلت كولمار كوريا أداء قياسيا في الربع الأول، لكن شاشة توس للأوراق المالية عرضت النتائج الفردية بدلا من النتائج الموحدة، ما جعل الأرقام تبدو أقل بكثير من حقيقتها. ونتيجة لذلك، بدت نتائج كان يفترض أن تُفهم كمفاجأة إيجابية في الأرباح لبعض المستثمرين كأنها صدمة أرباح، ما أثار مخاوف من بيع بدافع الذعر بين المساهمين. وتم تصحيح الأرقام لاحقا، لكن الغضب ازداد لأن التعديل جرى من دون إشعار تصحيح. ويشير مستثمرون أيضا إلى واقعة سابقة مرتبطة بالين ويطالبون بتعويض عن الأخطاء المتكررة. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "टॉस सिक्योरिटीज की कोलमार कोरिया नतीजा गलती, कमाई सरप्राइज से शेयरधारक घबराए",
+        "excerpt": "टॉस सिक्योरिटीज ने कोलमार कोरिया के पहली तिमाही नतीजे समेकित की जगह अलग आधार पर दिखाए, जिससे बहुत कम आंकड़े दिखे और शेयरधारकों में नाराजगी फैली।",
+        "body": "टॉस सिक्योरिटीज को कोलमार कोरिया के पहली तिमाही नतीजों की गलत प्रस्तुति के बाद शेयरधारकों की नाराजगी का सामना करना पड़ रहा है। मूल रिपोर्ट के अनुसार, कोलमार कोरिया ने पहली तिमाही में रिकॉर्ड स्तर का मजबूत प्रदर्शन किया, लेकिन टॉस सिक्योरिटीज की स्क्रीन पर समेकित नतीजों के बजाय अलग वित्तीय नतीजे दिखे, जिससे आंकड़े वास्तविकता से काफी कम नजर आए। इस कारण जिन नतीजों को कमाई की सकारात्मक सरप्राइज माना जाना चाहिए था, वे कुछ निवेशकों को कमाई के झटके जैसे दिखे और शेयरधारकों में घबराकर बेचने की आशंका उठी। बाद में आंकड़े ठीक किए गए, लेकिन बिना सुधार सूचना के बदलाव होने से गुस्सा और बढ़ा। निवेशक पहले की येन-संबंधी घटना का भी हवाला देकर बार-बार की गलतियों पर मुआवजे की मांग कर रहे हैं। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Kesalahan Tampilan Laba Toss Securities untuk Kolmar Korea Picu Panik Pemegang Saham",
+        "excerpt": "Toss Securities keliru menampilkan kinerja kuartal I Kolmar Korea dengan basis individual, bukan konsolidasi, sehingga angka tampak jauh lebih rendah dan memicu kemarahan pemegang saham.",
+        "body": "Toss Securities menghadapi protes pemegang saham setelah salah menampilkan kinerja kuartal pertama Kolmar Korea. Menurut laporan asli, Kolmar Korea mencatat hasil kuartal pertama yang sangat kuat, tetapi layar Toss Securities menampilkan kinerja individual, bukan angka konsolidasi, sehingga nilainya terlihat jauh lebih rendah dari kondisi sebenarnya. Akibatnya, kinerja yang seharusnya dibaca sebagai kejutan positif laba tampak bagi sebagian investor seperti guncangan laba, memunculkan kekhawatiran panic selling di kalangan pemegang saham. Angka tersebut kemudian diperbaiki, tetapi kemarahan meningkat karena perubahan dilakukan tanpa pemberitahuan koreksi. Investor juga menyebut insiden terkait yen sebelumnya dan menuntut kompensasi atas kesalahan yang berulang. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
     "id": "dace6cec98cd",
     "slug": "코스메카코리아-1분기-매출-1851억원-기록-412305",
     "channelId": "ETF",
@@ -4271,231 +4496,6 @@
         "title": "ETF Antariksa Tetap Minus Meski Ada Sentimen SpaceX",
         "excerpt": "Menurut hankyung.com, ETF antariksa mencatat imbal hasil negatif meski ada ekspektasi terkait SpaceX, menunjukkan lemahnya kinerja investasi bertema ruang angkasa.",
         "body": "Menurut laporan hankyung.com, ETF antariksa mencatat imbal hasil negatif meski ada sentimen khusus terkait SpaceX dan minat terhadap industri ruang angkasa. Hal ini menunjukkan bahwa isu pada satu perusahaan tidak selalu langsung mendorong kinerja seluruh ETF tematik. Di tengah ekspektasi terhadap SpaceX, ETF antariksa tetap bergerak lemah, sehingga investor melihat adanya jarak antara harapan pertumbuhan industri antariksa dan hasil aktual ETF. Ke depan, kinerja ETF bertema antariksa dapat dipengaruhi bukan hanya oleh berita perusahaan terkait, tetapi juga oleh komposisi portofolio dan arah pasar secara umum. Sumber: hankyung.com"
-      }
-    }
-  },
-  {
-    "id": "2ba8f90bf8a5",
-    "slug": "10년-뒤-170조-시장유망-로봇주-선점하라-208937",
-    "channelId": "ETF",
-    "category": "etf",
-    "publishedAt": "2026-05-07T21:37:05.866Z",
-    "updatedAt": "2026-05-07T21:37:05.866Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/2026050707891",
-    "canonicalUrl": "https://www.hankyung.com/article/2026050707891",
-    "titleFingerprint": "b96df59997da5c7a3b06ddd66839a3de80e14509",
-    "dedupKeys": [
-      "2ba8f90bf8a5057d267de4e21a2cf53252d7f823",
-      "b96df59997da5c7a3b06ddd66839a3de80e14509",
-      "3f9497aafeb767c15beecc548a4df1ce92faaa0d"
-    ],
-    "imageUrl": "/images/articles/2ba8f90bf8a5.jpg",
-    "i18n": {
-      "ko": {
-        "title": "휴머노이드 로봇주 주목, 2035년 166조원 시장 성장 전망",
-        "excerpt": "한국투자증권은 2026년 5월 7일 글로벌 휴머노이드 시장이 2035년 1128억달러로 커질 수 있다며 로봇 관련주 선별 필요성을 제시했다.",
-        "body": "2026년 5월 7일 한국투자증권은 로보틱스 산업 보고서에서 글로벌 휴머노이드 로봇 시장이 올해 10억달러에서 2035년 1128억달러, 약 166조원 규모로 성장할 수 있다고 소개했다. 보스턴다이내믹스, 테슬라, 피규어AI, 유비테크, 유니트리, 애지봇 등이 올해부터 본격 양산에 나서며 시장 기대가 커졌다. 배경에는 미국의 향후 10년간 연평균 112만 명 노동력 부족, 중국의 2025년 600만 명에서 2030년 2000만 명으로 확대되는 인력난이 있다. 한국은 비중국 공급망으로 주목받고 있으며 한라캐스트, 로보티즈, 액트로 등이 언급됐다. 출처: hankyung.com https://www.hankyung.com/article/2026050707891"
-      },
-      "en": {
-        "title": "Humanoid Robot Stocks in Focus as Market May Reach $112.8 Billion by 2035",
-        "excerpt": "On May 7, 2026, Korea Investment & Securities highlighted the need to select robot-related stocks as the global humanoid market is projected to reach $112.8 billion by 2035.",
-        "body": "On May 7, 2026, Korea Investment & Securities cited a robotics industry report projecting the global humanoid robot market could grow from $1 billion this year to $112.8 billion, about 166 trillion won, by 2035. Expectations are rising as Boston Dynamics, Tesla, Figure AI, UBTech, Unitree and Agibot begin full-scale mass production this year. The backdrop is labor shortages: the U.S. is expected to lack an average 1.12 million workers annually over the next decade, while China’s shortage is forecast to expand from about 6 million in 2025 to 20 million in 2030. Korea is drawing attention as a non-China supply chain, with Hanla Cast, Robotis and ActRo mentioned. Source: hankyung.com https://www.hankyung.com/article/2026050707891"
-      },
-      "ja": {
-        "title": "ヒューマノイドロボット株に注目、2035年に1128億ドル市場へ",
-        "excerpt": "韓国投資証券は2026年5月7日、世界のヒューマノイド市場が2035年に1128億ドルへ拡大し得るとして、ロボット関連株の選別を示した。",
-        "body": "2026年5月7日、韓国投資証券はロボティクス産業レポートで、世界のヒューマノイドロボット市場が今年の10億ドルから2035年に1128億ドル、約166兆ウォン規模へ成長し得るとの見通しを紹介した。ボストン・ダイナミクス、テスラ、Figure AI、UBTech、Unitree、Agibotなどが今年から本格量産を始め、市場の期待が高まっている。背景には、米国で今後10年間に年平均112万人の労働力不足、中国で不足規模が2025年の約600万人から2030年に2000万人へ拡大する見通しがある。韓国は非中国サプライチェーンとして注目され、Hanla Cast、Robotis、ActRoが言及された。出典: hankyung.com https://www.hankyung.com/article/2026050707891"
-      },
-      "zh": {
-        "title": "人形机器人股受关注，2035年市场或达1128亿美元",
-        "excerpt": "韩国投资证券于2026年5月7日指出，全球人形机器人市场到2035年或增至1128亿美元，投资者需筛选相关机器人股。",
-        "body": "2026年5月7日，韩国投资证券在机器人产业报告中提到，全球人形机器人市场可能从今年的10亿美元增长至2035年的1128亿美元，约合166万亿韩元。波士顿动力、特斯拉、Figure AI、优必选、宇树科技和Agibot等企业从今年起推进大规模量产，带动市场预期升温。背景是全球劳动力短缺：美国未来10年预计年均短缺112万人，中国短缺规模预计从2025年的约600万人扩大至2030年的2000万人。韩国也因非中国供应链定位受到关注，报道提及Hanla Cast、Robotis和ActRo。来源: hankyung.com https://www.hankyung.com/article/2026050707891"
-      },
-      "es": {
-        "title": "Acciones de robots humanoides ganan foco: mercado de $112.800 millones en 2035",
-        "excerpt": "Korea Investment & Securities señaló el 7 de mayo de 2026 que el mercado global de humanoides podría llegar a $112.800 millones en 2035 y pidió seleccionar valores robóticos.",
-        "body": "El 7 de mayo de 2026, Korea Investment & Securities citó en un informe de robótica que el mercado global de robots humanoides podría crecer desde $1.000 millones este año hasta $112.800 millones, unos 166 billones de wones, en 2035. Las expectativas aumentan porque Boston Dynamics, Tesla, Figure AI, UBTech, Unitree y Agibot iniciarán producción masiva a gran escala este año. El contexto es la falta de mano de obra: EE. UU. tendría un déficit medio anual de 1,12 millones de trabajadores en la próxima década, y China pasaría de unos 6 millones en 2025 a 20 millones en 2030. Corea atrae atención como cadena de suministro no china, con Hanla Cast, Robotis y ActRo mencionadas. Fuente: hankyung.com https://www.hankyung.com/article/2026050707891"
-      },
-      "pt": {
-        "title": "Ações de robôs humanoides em foco com mercado de US$112,8 bi até 2035",
-        "excerpt": "A Korea Investment & Securities disse em 7 de maio de 2026 que o mercado global de humanoides pode chegar a US$112,8 bilhões em 2035, exigindo seleção de ações robóticas.",
-        "body": "Em 7 de maio de 2026, a Korea Investment & Securities citou em relatório de robótica que o mercado global de robôs humanoides pode crescer de US$1 bilhão neste ano para US$112,8 bilhões, cerca de 166 trilhões de won, em 2035. As expectativas aumentam com Boston Dynamics, Tesla, Figure AI, UBTech, Unitree e Agibot iniciando produção em massa em escala este ano. O pano de fundo é a escassez de mão de obra: os EUA devem ter déficit médio anual de 1,12 milhão de trabalhadores na próxima década, enquanto a China pode passar de cerca de 6 milhões em 2025 para 20 milhões em 2030. A Coreia ganha atenção como cadeia não chinesa, com Hanla Cast, Robotis e ActRo citadas. Fonte: hankyung.com https://www.hankyung.com/article/2026050707891"
-      },
-      "de": {
-        "title": "Humanoide Roboteraktien im Fokus: Markt bis 2035 bei 112,8 Mrd. Dollar",
-        "excerpt": "Korea Investment & Securities erklärte am 7. Mai 2026, der globale Humanoidenmarkt könne bis 2035 auf 112,8 Mrd. Dollar wachsen; gefragt sei gezielte Aktienauswahl.",
-        "body": "Am 7. Mai 2026 verwies Korea Investment & Securities in einem Robotikbericht darauf, dass der globale Markt für humanoide Roboter von 1 Mrd. Dollar in diesem Jahr auf 112,8 Mrd. Dollar, rund 166 Billionen Won, bis 2035 wachsen könnte. Die Erwartungen steigen, weil Boston Dynamics, Tesla, Figure AI, UBTech, Unitree und Agibot in diesem Jahr mit der groß angelegten Massenproduktion beginnen. Hintergrund ist der Arbeitskräftemangel: In den USA wird für die nächsten zehn Jahre ein durchschnittliches jährliches Defizit von 1,12 Mio. Arbeitskräften erwartet, in China ein Anstieg von etwa 6 Mio. 2025 auf 20 Mio. 2030. Korea rückt als Nicht-China-Lieferkette in den Blick; genannt wurden Hanla Cast, Robotis und ActRo. Quelle: hankyung.com https://www.hankyung.com/article/2026050707891"
-      },
-      "fr": {
-        "title": "Actions de robots humanoïdes en vue: marché à 112,8 milliards $ d’ici 2035",
-        "excerpt": "Korea Investment & Securities a indiqué le 7 mai 2026 que le marché mondial des humanoïdes pourrait atteindre 112,8 milliards de dollars en 2035, appelant à sélectionner les valeurs robotiques.",
-        "body": "Le 7 mai 2026, Korea Investment & Securities a cité dans un rapport sur la robotique une prévision selon laquelle le marché mondial des robots humanoïdes pourrait passer de 1 milliard de dollars cette année à 112,8 milliards de dollars, soit environ 166 billions de wons, en 2035. Les attentes montent avec la production de masse engagée cette année par Boston Dynamics, Tesla, Figure AI, UBTech, Unitree et Agibot. Le contexte est la pénurie de main-d’œuvre: les États-Unis devraient manquer en moyenne de 1,12 million de travailleurs par an sur dix ans, tandis que la Chine passerait d’environ 6 millions en 2025 à 20 millions en 2030. La Corée attire l’attention comme chaîne non chinoise, avec Hanla Cast, Robotis et ActRo citées. Source: hankyung.com https://www.hankyung.com/article/2026050707891"
-      },
-      "ar": {
-        "title": "أسهم الروبوتات الشبيهة بالبشر تحت المجهر مع سوق بـ112.8 مليار دولار في 2035",
-        "excerpt": "قالت كوريا إنفستمنت آند سيكيوريتيز في 7 مايو 2026 إن سوق الروبوتات الشبيهة بالبشر قد يبلغ 112.8 مليار دولار في 2035، ما يبرز ضرورة انتقاء الأسهم.",
-        "body": "في 7 مايو 2026، عرضت كوريا إنفستمنت آند سيكيوريتيز في تقرير عن صناعة الروبوتات توقعا بأن ينمو سوق الروبوتات الشبيهة بالبشر عالميا من مليار دولار هذا العام إلى 112.8 مليار دولار، نحو 166 تريليون وون، بحلول 2035. وتزداد التوقعات مع بدء بوسطن دايناميكس وتيسلا وفيغر AI ويوبيتك ويونيتري وأجيبوت الإنتاج الكمي هذا العام. وتأتي الخلفية من نقص العمالة: الولايات المتحدة مرشحة لعجز سنوي متوسطه 1.12 مليون عامل خلال العقد المقبل، بينما قد يرتفع النقص في الصين من نحو 6 ملايين في 2025 إلى 20 مليونا في 2030. وتحظى كوريا بالاهتمام كسلسلة توريد غير صينية، مع ذكر Hanla Cast وRobotis وActRo. المصدر: hankyung.com https://www.hankyung.com/article/2026050707891"
-      },
-      "hi": {
-        "title": "ह्यूमनॉइड रोबोट शेयरों पर नजर, 2035 तक बाजार 112.8 अरब डॉलर संभव",
-        "excerpt": "कोरिया इन्वेस्टमेंट एंड सिक्योरिटीज ने 7 मई 2026 को कहा कि वैश्विक ह्यूमनॉइड बाजार 2035 तक 112.8 अरब डॉलर तक बढ़ सकता है, इसलिए रोबोट शेयरों का चयन अहम है।",
-        "body": "7 मई 2026 को Korea Investment & Securities ने रोबोटिक्स उद्योग रिपोर्ट में कहा कि वैश्विक ह्यूमनॉइड रोबोट बाजार इस साल 1 अरब डॉलर से बढ़कर 2035 तक 112.8 अरब डॉलर, लगभग 166 ट्रिलियन वोन, तक पहुंच सकता है। Boston Dynamics, Tesla, Figure AI, UBTech, Unitree और Agibot के इस साल बड़े पैमाने पर उत्पादन शुरू करने से उम्मीदें बढ़ी हैं। पृष्ठभूमि श्रम कमी है: अमेरिका में अगले 10 वर्षों में औसतन 11.2 लाख श्रमिकों की वार्षिक कमी का अनुमान है, जबकि चीन में कमी 2025 के करीब 60 लाख से 2030 में 2 करोड़ तक बढ़ सकती है। कोरिया गैर-चीन आपूर्ति श्रृंखला के रूप में ध्यान खींच रहा है; Hanla Cast, Robotis और ActRo का उल्लेख हुआ। स्रोत: hankyung.com https://www.hankyung.com/article/2026050707891"
-      },
-      "id": {
-        "title": "Saham Robot Humanoid Disorot, Pasar 2035 Bisa Capai US$112,8 Miliar",
-        "excerpt": "Korea Investment & Securities pada 7 Mei 2026 menyebut pasar humanoid global dapat mencapai US$112,8 miliar pada 2035, sehingga pemilihan saham robot menjadi penting.",
-        "body": "Pada 7 Mei 2026, Korea Investment & Securities mengutip laporan industri robotika yang memproyeksikan pasar robot humanoid global dapat tumbuh dari US$1 miliar tahun ini menjadi US$112,8 miliar, sekitar 166 triliun won, pada 2035. Ekspektasi naik karena Boston Dynamics, Tesla, Figure AI, UBTech, Unitree, dan Agibot mulai menjalankan produksi massal berskala penuh tahun ini. Latar belakangnya adalah kekurangan tenaga kerja: AS diperkirakan kekurangan rata-rata 1,12 juta pekerja per tahun selama 10 tahun ke depan, sementara China dapat naik dari sekitar 6 juta pada 2025 menjadi 20 juta pada 2030. Korea juga dilihat sebagai rantai pasok non-China, dengan Hanla Cast, Robotis, dan ActRo disebut. Sumber: hankyung.com https://www.hankyung.com/article/2026050707891"
-      }
-    }
-  },
-  {
-    "id": "e62287d5212e",
-    "slug": "부진했던-2차전지주-반등전기차ess-쌍끌이-수요-기대-410988",
-    "channelId": "ETF",
-    "category": "etf",
-    "publishedAt": "2026-05-07T21:35:55.373Z",
-    "updatedAt": "2026-05-07T21:35:55.373Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/2026050707881",
-    "canonicalUrl": "https://www.hankyung.com/article/2026050707881",
-    "titleFingerprint": "07ab128f363075eb233fc8a196a773dd7066e40d",
-    "dedupKeys": [
-      "e62287d5212ee8682e239578c3c9f4d245c94d5d",
-      "07ab128f363075eb233fc8a196a773dd7066e40d",
-      "ce393720c010b2ba272b961b24f58f13b4e4a8bd"
-    ],
-    "imageUrl": "/images/articles/e62287d5212e.jpg",
-    "i18n": {
-      "ko": {
-        "title": "2차전지주 반등 신호, 전기차·ESS 수요 기대에 투자심리 회복",
-        "excerpt": "부진했던 국내 2차전지주가 ESS 성장과 전기차 수요 회복 기대, 리튬 가격 반등을 배경으로 반등하며 펀드매니저들의 비중 확대 움직임이 나타났다.",
-        "body": "국내 증시에서 부진했던 2차전지주가 최근 반등하며 투자심리가 일부 회복되고 있다. hankyung.com에 따르면 자산운용사 액티브 펀드매니저들은 가격 부담이 낮아진 2차전지주 비중을 늘리는 움직임을 보였다. KODEX K-신재생에너지액티브는 최근 한 달 사이 LG에너지솔루션 비중을 0.1%에서 5.53%로, 삼성SDI를 1.01%에서 5.62%로 확대했다. 반등 배경으로는 신재생에너지 확대와 AI 데이터센터 전력 수요에 따른 ESS 성장 기대, 전기차 수요 회복 가능성, 리튬 가격 반등이 거론됐다. 다만 과거 급등락과 업황 부진 기억으로 신중론도 남아 있어 선별 투자가 필요하다는 분석이다. 출처: hankyung.com"
-      },
-      "en": {
-        "title": "Battery Stocks Rebound as EV and ESS Demand Hopes Lift Sentiment",
-        "excerpt": "Weak South Korean battery stocks are rebounding as hopes for ESS growth, a recovery in EV demand and a lithium price rebound prompt some fund managers to raise exposure.",
-        "body": "South Korean battery stocks, long under pressure, have recently rebounded as investor sentiment shows signs of recovery. According to hankyung.com, active fund managers at asset managers have been increasing exposure to battery names after valuation pressure eased. KODEX K-Renewable Energy Active raised its LG Energy Solution weighting from 0.1% to 5.53% over the past month and Samsung SDI from 1.01% to 5.62%. The rebound is linked to expectations for ESS growth driven by renewable energy expansion and AI data center power demand, possible recovery in EV demand and a rebound in lithium prices. Still, caution remains due to memories of past surges, sharp declines and weak industry conditions, supporting a selective approach. Source: hankyung.com"
-      },
-      "ja": {
-        "title": "二次電池株が反発、EV・ESS需要期待で投資心理が改善",
-        "excerpt": "低迷していた韓国の二次電池株が、ESS成長期待やEV需要回復、リチウム価格反発を背景に持ち直し、ファンド勢の組み入れ拡大も見られる。",
-        "body": "韓国株式市場で低迷していた二次電池関連株が最近反発し、投資心理が一部改善している。hankyung.comによると、資産運用会社のアクティブファンドマネジャーは、価格負担が和らいだ二次電池株の比率を引き上げる動きを見せた。KODEX K-再生可能エネルギーアクティブは直近1カ月でLGエナジーソリューションの比率を0.1%から5.53%へ、サムスンSDIを1.01%から5.62%へ拡大した。背景には再生可能エネルギー拡大とAIデータセンターの電力需要によるESS成長期待、EV需要回復の可能性、リチウム価格の反発がある。ただ、過去の急騰急落や業況不振の記憶から慎重論も残り、選別投資が必要との見方だ。出所: hankyung.com"
-      },
-      "zh": {
-        "title": "二次电池股反弹，电动车与ESS需求预期提振情绪",
-        "excerpt": "低迷已久的韩国二次电池股因ESS增长、电动车需求恢复预期和锂价反弹而回升，部分基金经理开始提高配置比例。",
-        "body": "韩国股市中此前低迷的二次电池股近期反弹，投资情绪出现一定恢复。据hankyung.com报道，资产管理公司的主动型基金经理在估值压力下降后，开始提高二次电池股配置。KODEX K-可再生能源主动基金近一个月将LG新能源权重从0.1%提高至5.53%，将三星SDI从1.01%提高至5.62%。反弹背景包括可再生能源扩张和AI数据中心电力需求带来的ESS增长预期、电动车需求恢复可能性，以及锂价反弹。不过，由于过去大涨大跌和行业低迷的记忆仍在，市场仍有谨慎观点，分析认为需要选择性投资。来源: hankyung.com"
-      },
-      "es": {
-        "title": "Acciones de baterías repuntan por expectativas de demanda EV y ESS",
-        "excerpt": "Las acciones surcoreanas de baterías, antes rezagadas, repuntan por el crecimiento esperado de ESS, la posible recuperación de vehículos eléctricos y el alza del litio.",
-        "body": "Las acciones surcoreanas de baterías secundarias, que venían débiles, han repuntado recientemente y el ánimo inversor muestra cierta recuperación. Según hankyung.com, gestores activos de firmas de gestión de activos han aumentado su exposición a estos valores tras aliviarse la presión de precios. KODEX K-Renewable Energy Active elevó en el último mes su peso en LG Energy Solution del 0,1% al 5,53% y en Samsung SDI del 1,01% al 5,62%. El repunte se atribuye a expectativas de crecimiento de ESS por la expansión de renovables y la demanda eléctrica de centros de datos de IA, a la posible recuperación de la demanda de vehículos eléctricos y al rebote del litio. Aun así, persiste la cautela por los recuerdos de fuertes subidas y caídas y por la debilidad sectorial, por lo que se recomienda selección. Fuente: hankyung.com"
-      },
-      "pt": {
-        "title": "Ações de baterias reagem com expectativa de demanda por EVs e ESS",
-        "excerpt": "Papéis sul-coreanos de baterias, antes pressionados, sobem com expectativas de avanço em ESS, recuperação dos veículos elétricos e alta do lítio, atraindo gestores.",
-        "body": "As ações sul-coreanas de baterias secundárias, que vinham fracas, reagiram recentemente e o sentimento dos investidores mostra alguma melhora. Segundo o hankyung.com, gestores ativos de asset managers passaram a elevar a exposição ao setor após a redução da pressão de preço. O KODEX K-Renewable Energy Active aumentou em um mês o peso de LG Energy Solution de 0,1% para 5,53% e o de Samsung SDI de 1,01% para 5,62%. A recuperação é atribuída à expectativa de crescimento de ESS com a expansão de renováveis e a demanda de energia de data centers de IA, à possível retomada dos veículos elétricos e ao rebote do lítio. Ainda assim, lembranças de altas e quedas bruscas e a fraqueza do setor mantêm a cautela, favorecendo investimento seletivo. Fonte: hankyung.com"
-      },
-      "de": {
-        "title": "Batterieaktien erholen sich dank Hoffnungen auf EV- und ESS-Nachfrage",
-        "excerpt": "Schwache südkoreanische Batterieaktien steigen wieder, da Erwartungen an ESS-Wachstum, eine mögliche Erholung bei E-Autos und höhere Lithiumpreise Fondsmanager anziehen.",
-        "body": "Südkoreanische Aktien aus dem Bereich Sekundärbatterien, die lange schwach waren, haben sich zuletzt erholt; die Anlegerstimmung verbessert sich teilweise. Laut hankyung.com erhöhen aktive Fondsmanager von Vermögensverwaltern nach nachlassendem Bewertungsdruck ihre Gewichtung. KODEX K-Renewable Energy Active steigerte den Anteil von LG Energy Solution binnen eines Monats von 0,1% auf 5,53% und Samsung SDI von 1,01% auf 5,62%. Als Gründe gelten Erwartungen an ESS-Wachstum durch erneuerbare Energien und Strombedarf von KI-Rechenzentren, eine mögliche Erholung der E-Auto-Nachfrage sowie steigende Lithiumpreise. Dennoch bleibt wegen früherer Kurssprünge, starker Rückgänge und schwacher Branchenlage Vorsicht bestehen; selektives Investieren gilt als nötig. Quelle: hankyung.com"
-      },
-      "fr": {
-        "title": "Les valeurs batteries rebondissent avec les espoirs liés aux VE et ESS",
-        "excerpt": "Les actions sud-coréennes de batteries, longtemps faibles, remontent grâce aux attentes sur les ESS, la reprise possible des véhicules électriques et le rebond du lithium.",
-        "body": "Les actions sud-coréennes de batteries secondaires, longtemps sous pression, ont récemment rebondi et le sentiment des investisseurs se redresse en partie. Selon hankyung.com, des gérants actifs de sociétés de gestion ont accru leur exposition après l’allègement de la pression sur les valorisations. KODEX K-Renewable Energy Active a porté en un mois la pondération de LG Energy Solution de 0,1% à 5,53% et celle de Samsung SDI de 1,01% à 5,62%. Le mouvement s’explique par les attentes de croissance des ESS liées aux énergies renouvelables et à la demande électrique des centres de données d’IA, par une possible reprise des véhicules électriques et par le rebond du lithium. Toutefois, le souvenir des fortes hausses puis chutes et la faiblesse sectorielle maintiennent la prudence, d’où une approche sélective. Source: hankyung.com"
-      },
-      "ar": {
-        "title": "أسهم البطاريات ترتد بدعم توقعات طلب السيارات الكهربائية وأنظمة التخزين",
-        "excerpt": "أسهم البطاريات الكورية الجنوبية المتعثرة تعافت مع توقعات نمو أنظمة تخزين الطاقة وتعافي طلب السيارات الكهربائية وارتداد أسعار الليثيوم، ما دفع بعض المديرين لزيادة الانكشاف.",
-        "body": "شهدت أسهم البطاريات الثانوية في كوريا الجنوبية، التي عانت من الضعف، ارتدادا أخيرا مع تحسن جزئي في معنويات المستثمرين. ووفقا لـhankyung.com، بدأ مديرو الصناديق النشطة في شركات إدارة الأصول زيادة أوزان هذه الأسهم بعدما تراجع عبء الأسعار. فقد رفع صندوق KODEX K-Renewable Energy Active وزن LG Energy Solution خلال شهر من 0.1% إلى 5.53%، وSamsung SDI من 1.01% إلى 5.62%. وترتبط الحركة بتوقعات نمو أنظمة تخزين الطاقة بفضل توسع الطاقة المتجددة وطلب مراكز بيانات الذكاء الاصطناعي على الكهرباء، وباحتمال تعافي طلب السيارات الكهربائية، وارتداد أسعار الليثيوم. لكن الحذر لا يزال قائما بسبب ذكريات الصعود والهبوط الحاد وضعف القطاع، ما يدعم الاستثمار الانتقائي. المصدر: hankyung.com"
-      },
-      "hi": {
-        "title": "EV और ESS मांग की उम्मीदों से बैटरी शेयरों में वापसी के संकेत",
-        "excerpt": "कमजोर रहे दक्षिण कोरियाई बैटरी शेयर ESS वृद्धि, EV मांग में सुधार की उम्मीद और लिथियम कीमतों की वापसी से उछले, जबकि कुछ फंड मैनेजर एक्सपोजर बढ़ा रहे हैं।",
-        "body": "दक्षिण कोरिया के सेकेंडरी बैटरी शेयर, जो लंबे समय से कमजोर थे, हाल में उछले हैं और निवेश भावना में आंशिक सुधार दिखा है। hankyung.com के अनुसार, एसेट मैनेजमेंट कंपनियों के एक्टिव फंड मैनेजरों ने मूल्य दबाव कम होने के बाद इन शेयरों में वजन बढ़ाना शुरू किया। KODEX K-Renewable Energy Active ने पिछले एक महीने में LG Energy Solution का वजन 0.1% से 5.53% और Samsung SDI का वजन 1.01% से 5.62% किया। इस तेजी के पीछे नवीकरणीय ऊर्जा विस्तार और AI डेटा सेंटरों की बिजली मांग से ESS वृद्धि की उम्मीद, EV मांग में संभावित सुधार और लिथियम कीमतों की वापसी बताई गई। फिर भी पुराने तेज उतार-चढ़ाव और कमजोर उद्योग की यादों से सावधानी बनी हुई है, इसलिए चयनात्मक निवेश पर जोर है। स्रोत: hankyung.com"
-      },
-      "id": {
-        "title": "Saham Baterai Rebound, Harapan Permintaan EV dan ESS Pulihkan Sentimen",
-        "excerpt": "Saham baterai Korea Selatan yang sempat lemah menguat karena harapan pertumbuhan ESS, pemulihan permintaan EV, dan rebound harga litium, mendorong sebagian manajer dana menambah porsi.",
-        "body": "Saham baterai sekunder di Korea Selatan yang sempat tertekan baru-baru ini rebound, dengan sentimen investor mulai pulih sebagian. Menurut hankyung.com, manajer dana aktif di perusahaan manajemen aset mulai menaikkan eksposur setelah tekanan valuasi mereda. KODEX K-Renewable Energy Active dalam sebulan terakhir menaikkan bobot LG Energy Solution dari 0,1% menjadi 5,53% dan Samsung SDI dari 1,01% menjadi 5,62%. Rebound ini dikaitkan dengan harapan pertumbuhan ESS dari ekspansi energi terbarukan dan kebutuhan listrik pusat data AI, kemungkinan pemulihan permintaan kendaraan listrik, serta kenaikan harga litium. Namun, kehati-hatian masih ada karena ingatan atas lonjakan dan penurunan tajam serta kondisi industri yang lemah, sehingga investasi selektif dinilai perlu. Sumber: hankyung.com"
-      }
-    }
-  },
-  {
-    "id": "1b1f88c8ce3b",
-    "slug": "쿠팡-분석-성장-공식-흔들렸지만1분기-실적-개요-및-배경-249060",
-    "channelId": "ETF",
-    "category": "etf",
-    "publishedAt": "2026-05-07T21:34:46.484Z",
-    "updatedAt": "2026-05-07T21:34:46.484Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/202605071945i",
-    "canonicalUrl": "https://www.hankyung.com/article/202605071945i",
-    "titleFingerprint": "f336de5a35049d92178b6b1ac2b371cee65c17a4",
-    "dedupKeys": [
-      "1b1f88c8ce3be0f41ccde18c0f949cc69ae4006a",
-      "f336de5a35049d92178b6b1ac2b371cee65c17a4",
-      "d8ea515d3ad2241c61319b65579a3f5c8326d618"
-    ],
-    "imageUrl": "/images/articles/1b1f88c8ce3b.jpg",
-    "i18n": {
-      "ko": {
-        "title": "쿠팡 1분기 실적 충격, 상장 후 첫 한 자릿수 성장과 적자 전환",
-        "excerpt": "쿠팡Inc는 5월 5일 SEC에 제출한 1분기 보고서에서 매출 85억400만달러와 영업손실 2억4200만달러를 기록했다고 밝혔으며, 정보 유출 비용과 대만 투자가 부담으로 작용했다.",
-        "body": "쿠팡Inc(CPNG.US)는 5월 5일(현지시간) 미국 SEC에 1분기 연결 실적 보고서를 제출하고 매출 85억400만달러(약 12조4597억원)를 기록했다고 밝혔다. 전년 동기 79억800만달러보다 8% 늘었지만, 2021년 뉴욕증시 상장 이후 처음으로 매출 증가율이 한 자릿수에 그쳤다. 분기 매출도 2025년 4분기 약 12조8103억원에 이어 2개 분기 연속 전분기 대비 감소했다. 수익성은 더 악화돼 영업손실 2억4200만달러(약 3545억원), 순손실 2억6600만달러를 냈고 EPS는 -0.15달러였다. 개인정보 유출 보상 비용과 대만 신사업 투자 확대가 부담으로 거론됐으며, 일부에서는 2분기 회복 가능성을 보고 있다. 출처: hankyung.com."
-      },
-      "en": {
-        "title": "Coupang Q1 Earnings Shock: First Single-Digit Growth Since Listing",
-        "excerpt": "Coupang Inc. said in its May 5 SEC filing that Q1 revenue reached $8.504 billion while operating loss was $242 million, pressured by data-breach compensation costs and Taiwan investment.",
-        "body": "Coupang Inc. (CPNG.US) filed its consolidated first-quarter results with the U.S. SEC on May 5 local time, reporting revenue of $8.504 billion, about 12.4597 trillion won. Revenue rose 8% from $7.908 billion a year earlier, but this was the company’s first single-digit growth rate since its 2021 New York listing. Quarterly revenue also declined from the previous quarter for a second straight period after about 12.8103 trillion won in Q4 2025. Profitability deteriorated further, with an operating loss of $242 million, a net loss of $266 million and EPS of -$0.15. Data-breach compensation costs and expanded investment in Taiwan were cited as burdens, while some expect a Q2 recovery. Source: hankyung.com."
-      },
-      "ja": {
-        "title": "クーパン1四半期決算、上場後初の一桁成長と赤字転落",
-        "excerpt": "クーパンIncは5月5日にSECへ提出した1四半期報告書で、売上高85億400万ドル、営業損失2億4200万ドルを計上し、情報流出補償費用と台湾投資が重荷となった。",
-        "body": "クーパンInc（CPNG.US）は現地時間5月5日、米SECに第1四半期の連結決算報告書を提出し、売上高が85億400万ドル（約12兆4597億ウォン）だったと明らかにした。前年同期の79億800万ドルから8%増えたものの、2021年のニューヨーク上場後初めて売上成長率が一桁にとどまった。四半期売上高も2025年第4四半期の約12兆8103億ウォンに続き、2四半期連続で前期比減少した。収益性はさらに悪化し、営業損失2億4200万ドル、純損失2億6600万ドル、EPSはマイナス0.15ドルだった。個人情報流出に伴う補償費用と台湾新規事業への投資拡大が負担とされ、一部では第2四半期の回復期待も出ている。出所: hankyung.com."
-      },
-      "zh": {
-        "title": "Coupang一季度业绩承压，上市后首次个位数增长并转亏",
-        "excerpt": "Coupang Inc.在5月5日提交给SEC的一季度报告中披露，营收为85.04亿美元，营业亏损2.42亿美元，个人信息泄露补偿费用和台湾业务投资形成压力。",
-        "body": "Coupang Inc.（CPNG.US）于当地时间5月5日向美国SEC提交一季度合并业绩报告，披露营收为85.04亿美元，约合12.4597万亿韩元。该数字较上年同期的79.08亿美元增长8%，但这是公司2021年在纽约证券交易所上市以来首次出现个位数营收增速。季度营收也继2025年第四季度约12.8103万亿韩元之后，连续两个季度环比下降。盈利能力进一步恶化，营业亏损2.42亿美元，净亏损2.66亿美元，每股收益为-0.15美元。个人信息泄露补偿费用和台湾新业务投资扩大被认为是主要负担，部分观点则期待二季度恢复。来源: hankyung.com."
-      },
-      "es": {
-        "title": "Coupang sorprende en el 1T: primer crecimiento de un dígito y pérdidas",
-        "excerpt": "Coupang Inc. informó en su reporte del 5 de mayo ante la SEC ingresos trimestrales de 8.504 millones de dólares y una pérdida operativa de 242 millones, presionada por compensaciones por filtración de datos e inversión en Taiwán.",
-        "body": "Coupang Inc. (CPNG.US) presentó el 5 de mayo, hora local, su informe consolidado del primer trimestre ante la SEC de Estados Unidos y reportó ingresos de 8.504 millones de dólares, unos 12,4597 billones de wones. La cifra aumentó 8% frente a los 7.908 millones de dólares del año anterior, pero fue el primer crecimiento de un solo dígito desde su salida a bolsa en Nueva York en 2021. Los ingresos trimestrales también cayeron frente al trimestre previo por segundo periodo consecutivo tras los cerca de 12,8103 billones de wones del 4T de 2025. La rentabilidad empeoró, con pérdida operativa de 242 millones de dólares, pérdida neta de 266 millones y BPA de -0,15 dólares. Los costos de compensación por la filtración de datos y la expansión de inversiones en Taiwán fueron señalados como cargas, aunque algunos esperan recuperación en el 2T. Fuente: hankyung.com."
-      },
-      "pt": {
-        "title": "Coupang no 1º tri: crescimento de um dígito e virada para prejuízo",
-        "excerpt": "A Coupang Inc. informou em seu relatório de 5 de maio à SEC receita de US$ 8,504 bilhões no 1º trimestre e prejuízo operacional de US$ 242 milhões, pressionada por custos de compensação por vazamento de dados e investimento em Taiwan.",
-        "body": "A Coupang Inc. (CPNG.US) apresentou em 5 de maio, no horário local, seu relatório consolidado do primeiro trimestre à SEC dos EUA e informou receita de US$ 8,504 bilhões, cerca de 12,4597 trilhões de won. O valor subiu 8% ante US$ 7,908 bilhões um ano antes, mas marcou a primeira taxa de crescimento de um dígito desde a listagem em Nova York em 2021. A receita trimestral também caiu frente ao trimestre anterior pelo segundo período seguido, após cerca de 12,8103 trilhões de won no 4T de 2025. A rentabilidade piorou, com prejuízo operacional de US$ 242 milhões, prejuízo líquido de US$ 266 milhões e EPS de -US$ 0,15. Custos de compensação pelo vazamento de dados pessoais e maior investimento em Taiwan foram citados como pressões, enquanto alguns veem possibilidade de recuperação no 2T. Fonte: hankyung.com."
-      },
-      "de": {
-        "title": "Coupang im ersten Quartal: Einstelliges Wachstum und Rückkehr in die Verlustzone",
-        "excerpt": "Coupang Inc. meldete in der am 5. Mai bei der SEC eingereichten Quartalsbilanz Erlöse von 8,504 Milliarden Dollar und einen operativen Verlust von 242 Millionen Dollar, belastet durch Entschädigungskosten nach einem Datenleck und Investitionen in Taiwan.",
-        "body": "Coupang Inc. (CPNG.US) reichte am 5. Mai Ortszeit seinen konsolidierten Bericht für das erste Quartal bei der US-Börsenaufsicht SEC ein und meldete einen Umsatz von 8,504 Milliarden Dollar, rund 12,4597 Billionen Won. Gegenüber 7,908 Milliarden Dollar im Vorjahr entsprach das einem Plus von 8%, war aber das erste einstellige Umsatzwachstum seit dem New Yorker Börsengang 2021. Auch der Quartalsumsatz sank nach rund 12,8103 Billionen Won im vierten Quartal 2025 zum zweiten Mal in Folge gegenüber dem Vorquartal. Die Profitabilität verschlechterte sich mit einem operativen Verlust von 242 Millionen Dollar, einem Nettoverlust von 266 Millionen Dollar und einem EPS von -0,15 Dollar. Als Belastungen wurden Entschädigungskosten wegen des Datenlecks und höhere Investitionen in Taiwan genannt; einige erwarten eine Erholung im zweiten Quartal. Quelle: hankyung.com."
-      },
-      "fr": {
-        "title": "Coupang au 1er trimestre: croissance à un chiffre et retour aux pertes",
-        "excerpt": "Coupang Inc. a indiqué dans son rapport déposé le 5 mai auprès de la SEC un chiffre d’affaires de 8,504 milliards de dollars et une perte opérationnelle de 242 millions, sous l’effet des compensations liées à une fuite de données et des investissements à Taïwan.",
-        "body": "Coupang Inc. (CPNG.US) a déposé le 5 mai, heure locale, son rapport consolidé du premier trimestre auprès de la SEC américaine et a fait état d’un chiffre d’affaires de 8,504 milliards de dollars, soit environ 12 459,7 milliards de wons. Les revenus ont progressé de 8% par rapport aux 7,908 milliards de dollars de l’an dernier, mais c’est la première croissance à un chiffre depuis son introduction à New York en 2021. Le chiffre d’affaires trimestriel a aussi reculé par rapport au trimestre précédent pour la deuxième période consécutive, après environ 12 810,3 milliards de wons au 4T 2025. La rentabilité s’est détériorée avec une perte opérationnelle de 242 millions de dollars, une perte nette de 266 millions et un BPA de -0,15 dollar. Les coûts de compensation liés à la fuite de données personnelles et l’expansion des investissements à Taïwan ont pesé, tandis que certains anticipent un redressement au 2T. Source: hankyung.com."
-      },
-      "ar": {
-        "title": "نتائج كوبانغ للربع الأول: نمو أحادي الرقم وتحول إلى الخسارة",
-        "excerpt": "قالت Coupang Inc. في تقريرها المقدم إلى SEC في 5 مايو إن إيرادات الربع الأول بلغت 8.504 مليار دولار، مع خسارة تشغيلية قدرها 242 مليون دولار، بفعل تكاليف تعويض تسرب البيانات والاستثمار في تايوان.",
-        "body": "قدمت Coupang Inc. (CPNG.US) في 5 مايو بالتوقيت المحلي تقرير نتائجها الموحدة للربع الأول إلى هيئة الأوراق المالية والبورصات الأمريكية، معلنة إيرادات قدرها 8.504 مليار دولار، أي نحو 12.4597 تريليون وون. ارتفعت الإيرادات 8% مقارنة بـ7.908 مليار دولار قبل عام، لكنها أول وتيرة نمو أحادية الرقم منذ إدراج الشركة في بورصة نيويورك عام 2021. كما انخفضت الإيرادات الفصلية على أساس ربعي لفصلين متتاليين بعد نحو 12.8103 تريليون وون في الربع الرابع من 2025. وتدهورت الربحية مع خسارة تشغيلية قدرها 242 مليون دولار وخسارة صافية قدرها 266 مليون دولار، وبلغت ربحية السهم -0.15 دولار. وذُكرت تكاليف تعويض تسرب المعلومات الشخصية وتوسيع الاستثمار في تايوان كأعباء رئيسية، بينما يرى البعض إمكانية تعاف في الربع الثاني. المصدر: hankyung.com."
-      },
-      "hi": {
-        "title": "कूपांग की पहली तिमाही: लिस्टिंग के बाद पहली बार एकल अंक वृद्धि और घाटा",
-        "excerpt": "Coupang Inc. ने 5 मई को SEC में दाखिल पहली तिमाही रिपोर्ट में 8.504 अरब डॉलर राजस्व और 24.2 करोड़ डॉलर परिचालन घाटा बताया, जिस पर डेटा लीक मुआवजा लागत और ताइवान निवेश का दबाव रहा।",
-        "body": "Coupang Inc. (CPNG.US) ने स्थानीय समयानुसार 5 मई को अमेरिकी SEC में पहली तिमाही की समेकित रिपोर्ट दाखिल की और 8.504 अरब डॉलर, यानी लगभग 12.4597 ट्रिलियन वॉन, का राजस्व बताया। यह एक साल पहले के 7.908 अरब डॉलर से 8% अधिक था, लेकिन 2021 में न्यूयॉर्क सूचीबद्धता के बाद पहली बार राजस्व वृद्धि एकल अंक में रही। तिमाही राजस्व भी 2025 की चौथी तिमाही के लगभग 12.8103 ट्रिलियन वॉन के बाद लगातार दूसरी तिमाही में पिछली तिमाही से घटा। लाभप्रदता और कमजोर हुई: परिचालन घाटा 24.2 करोड़ डॉलर, शुद्ध घाटा 26.6 करोड़ डॉलर और EPS -0.15 डॉलर रहा। व्यक्तिगत सूचना लीक से जुड़े मुआवजा खर्च और ताइवान के नए कारोबार में निवेश विस्तार को दबाव के रूप में देखा गया, जबकि कुछ पक्ष दूसरी तिमाही में सुधार की उम्मीद कर रहे हैं। स्रोत: hankyung.com."
-      },
-      "id": {
-        "title": "Kinerja Coupang Kuartal I: Pertumbuhan Satu Digit dan Berbalik Rugi",
-        "excerpt": "Coupang Inc. dalam laporan 5 Mei kepada SEC mencatat pendapatan kuartal I sebesar US$8,504 miliar dan rugi operasi US$242 juta, tertekan biaya kompensasi kebocoran data serta investasi di Taiwan.",
-        "body": "Coupang Inc. (CPNG.US) pada 5 Mei waktu setempat menyerahkan laporan konsolidasi kuartal pertama kepada SEC AS dan melaporkan pendapatan US$8,504 miliar, sekitar 12,4597 triliun won. Angka itu naik 8% dari US$7,908 miliar pada periode yang sama tahun lalu, tetapi menjadi pertumbuhan satu digit pertama sejak pencatatan saham di New York pada 2021. Pendapatan kuartalan juga turun secara kuartalan untuk periode kedua berturut-turut setelah sekitar 12,8103 triliun won pada kuartal IV 2025. Profitabilitas memburuk dengan rugi operasi US$242 juta, rugi bersih US$266 juta, dan EPS -US$0,15. Biaya kompensasi akibat kebocoran data pribadi serta perluasan investasi bisnis baru di Taiwan disebut sebagai beban, sementara sebagian pihak melihat peluang pemulihan pada kuartal II. Sumber: hankyung.com."
       }
     }
   }
