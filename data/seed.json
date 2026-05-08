@@ -1,5 +1,230 @@
 [
   {
+    "id": "d4a5437ea799",
+    "slug": "ai가-알아서-결제하는-시대ai에이전트-신분증-선점-나선-비자이더리움-148547",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-05-08T06:13:22.276Z",
+    "updatedAt": "2026-05-08T06:13:22.276Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/stock/12040746",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12040746",
+    "titleFingerprint": "5af2f43d390a72dc21e20eadd8c3319bc47aa669",
+    "dedupKeys": [
+      "d4a5437ea7996394d265920cfb5d5615fe3f30c2",
+      "5af2f43d390a72dc21e20eadd8c3319bc47aa669",
+      "99c26d2e70da534980e25a35bd5efa6dd5d79606"
+    ],
+    "imageUrl": "/images/articles/d4a5437ea799.png",
+    "i18n": {
+      "ko": {
+        "title": "AI 에이전트 신분증 경쟁 본격화, 비자·이더리움 KYA 선점 나서",
+        "excerpt": "AI 에이전트가 사람 개입 없이 결제와 거래를 수행하는 시대가 다가오며 비자와 이더리움이 기계 간 자율거래의 신원증명 체계인 KYA 선점 경쟁에 나섰다.",
+        "body": "인공지능(AI) 에이전트가 인간의 개입 없이 자율적으로 결제와 거래를 수행하는 시대가 다가오면서, 기계 간 자율거래에서 AI의 신원을 확인하는 체계가 핵심 이슈로 떠올랐다. 비자와 이더리움 등은 AI 에이전트의 신분증 역할을 하는 KYA(Know Your Agent) 영역을 선점하기 위한 경쟁에 나서고 있다. 배경에는 AI가 계좌, 결제, 계약 등 거래 행위를 직접 수행할 가능성이 커진 흐름이 있다. 기존 금융의 고객확인 절차가 사람을 대상으로 했다면, KYA는 자율적으로 움직이는 AI 에이전트를 식별하고 검증하는 방향으로 논의되고 있다. 유럽연합(EU)과 싱가포르에서도 KYA 관련 규제 논의가 본격화되는 움직임이 나타나고 있다. 이 체계가 정착되면 AI 기반 결제와 기계 간 거래의 신뢰 인프라가 될 수 있다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "AI Agent Identity Race Grows as Visa and Ethereum Target KYA",
+        "excerpt": "As AI agents begin to make payments and transactions without human intervention, Visa and Ethereum are moving to secure a lead in KYA, an identity layer for autonomous machine-to-machine commerce.",
+        "body": "As artificial intelligence agents move closer to making payments and transactions autonomously without human intervention, identity verification for AI in machine-to-machine commerce is emerging as a key issue. Visa and Ethereum are among the players competing to secure an early position in KYA, or Know Your Agent, a system that would serve as an identity credential for AI agents. The backdrop is the growing possibility that AI could directly carry out activities involving accounts, payments and contracts. While traditional financial customer verification focuses on people, KYA is being discussed as a way to identify and verify autonomous AI agents. The European Union and Singapore are also showing signs of moving toward more active regulatory discussions around KYA. If established, the framework could become trust infrastructure for AI-based payments and machine-to-machine transactions. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "AIエージェント身分証競争が本格化、ビザとイーサリアムがKYA先取りへ",
+        "excerpt": "AIエージェントが人の介入なしに決済や取引を行う時代が近づき、ビザとイーサリアムは機械間自律取引の本人確認基盤であるKYAの先取りに動いている。",
+        "body": "人工知能（AI）エージェントが人間の介入なしに自律的に決済や取引を行う時代が近づくなか、機械間の自律取引でAIの身元を確認する仕組みが重要な論点として浮上している。ビザやイーサリアムなどは、AIエージェントの身分証にあたるKYA（Know Your Agent）領域を先取りするための競争に乗り出している。背景には、AIが口座、決済、契約などの取引行為を直接担う可能性が高まっている流れがある。従来の金融における顧客確認手続きが人を対象としていたのに対し、KYAは自律的に動くAIエージェントを識別し検証する方向で議論されている。欧州連合（EU）とシンガポールでも、KYA関連規制の議論が本格化する動きが見られる。この仕組みが定着すれば、AI決済と機械間取引の信頼インフラになり得る。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "AI代理身份认证竞争升温，Visa与以太坊抢占KYA先机",
+        "excerpt": "随着AI代理无需人工介入即可完成支付和交易的时代临近，Visa与以太坊正争夺面向机器间自主交易的AI身份认证体系KYA。",
+        "body": "随着人工智能（AI）代理无需人类介入即可自主完成支付和交易的时代临近，在机器间自主交易中确认AI身份的体系正成为关键议题。Visa、以太坊等正在围绕KYA（Know Your Agent）展开先发竞争，这一体系被视为AI代理的“身份证”。其背景是AI直接执行账户、支付、合约等交易行为的可能性正在上升。传统金融的客户确认程序主要面向人，而KYA则被讨论为识别并验证自主运行AI代理的机制。欧盟（EU）和新加坡也出现了推动KYA相关监管讨论正式化的动向。如果该体系落地，它可能成为AI支付和机器间交易的信任基础设施。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Identidad para agentes de IA: Visa y Ethereum compiten por liderar KYA",
+        "excerpt": "A medida que los agentes de IA se acercan a pagar y operar sin intervención humana, Visa y Ethereum buscan adelantarse en KYA, la identidad para transacciones autónomas entre máquinas.",
+        "body": "A medida que los agentes de inteligencia artificial se acercan a realizar pagos y transacciones de forma autónoma, sin intervención humana, la verificación de identidad de la IA en el comercio entre máquinas surge como un tema clave. Visa y Ethereum figuran entre quienes compiten por adelantarse en KYA, o Know Your Agent, un sistema que funcionaría como documento de identidad para agentes de IA. El contexto es la creciente posibilidad de que la IA ejecute directamente operaciones relacionadas con cuentas, pagos y contratos. Mientras los procesos tradicionales de conocimiento del cliente en finanzas se centran en personas, KYA se debate como una forma de identificar y verificar agentes de IA autónomos. La Unión Europea y Singapur también muestran movimientos hacia una regulación más activa sobre KYA. Si se consolida, este marco podría convertirse en infraestructura de confianza para pagos con IA y transacciones entre máquinas. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Identidade de agentes de IA avança, e Visa e Ethereum disputam KYA",
+        "excerpt": "Com agentes de IA se aproximando de pagamentos e transações sem intervenção humana, Visa e Ethereum buscam liderar o KYA, sistema de identidade para comércio autônomo entre máquinas.",
+        "body": "À medida que agentes de inteligência artificial se aproximam de realizar pagamentos e transações de forma autônoma, sem intervenção humana, a verificação de identidade da IA no comércio entre máquinas surge como questão central. Visa e Ethereum estão entre os participantes que disputam uma posição inicial em KYA, ou Know Your Agent, sistema que funcionaria como identidade para agentes de IA. O pano de fundo é a possibilidade crescente de a IA executar diretamente ações ligadas a contas, pagamentos e contratos. Enquanto os procedimentos financeiros tradicionais de verificação de clientes miram pessoas, o KYA é discutido como forma de identificar e validar agentes de IA autônomos. A União Europeia e Singapura também mostram sinais de avanço nas discussões regulatórias sobre KYA. Se consolidado, o modelo pode se tornar infraestrutura de confiança para pagamentos com IA e transações entre máquinas. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "KI-Agenten brauchen Identität: Visa und Ethereum drängen bei KYA nach vorn",
+        "excerpt": "Da KI-Agenten Zahlungen und Transaktionen zunehmend ohne menschliches Eingreifen ausführen könnten, konkurrieren Visa und Ethereum um KYA als Identitätssystem für autonomen Handel zwischen Maschinen.",
+        "body": "Da Agenten künstlicher Intelligenz näher daran rücken, Zahlungen und Transaktionen ohne menschliches Eingreifen autonom auszuführen, wird die Identitätsprüfung von KI im Handel zwischen Maschinen zu einem zentralen Thema. Visa und Ethereum gehören zu den Akteuren, die sich früh im Bereich KYA, Know Your Agent, positionieren wollen. Das System soll wie ein Ausweis für KI-Agenten funktionieren. Hintergrund ist die wachsende Möglichkeit, dass KI Vorgänge rund um Konten, Zahlungen und Verträge direkt übernimmt. Während klassische Finanzprozesse zur Kundenprüfung auf Menschen ausgerichtet sind, wird KYA als Ansatz diskutiert, autonome KI-Agenten zu identifizieren und zu verifizieren. Auch in der Europäischen Union und in Singapur zeichnen sich aktivere Regulierungsdebatten zu KYA ab. Setzt sich der Rahmen durch, könnte er zur Vertrauensinfrastruktur für KI-basierte Zahlungen und Transaktionen zwischen Maschinen werden. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Identité des agents IA: Visa et Ethereum se placent dans la course au KYA",
+        "excerpt": "Alors que les agents IA pourraient effectuer paiements et transactions sans intervention humaine, Visa et Ethereum cherchent à prendre l’avantage dans le KYA, identité des échanges autonomes entre machines.",
+        "body": "Alors que les agents d’intelligence artificielle se rapprochent d’une capacité à effectuer paiements et transactions de manière autonome, sans intervention humaine, la vérification de leur identité dans les échanges entre machines devient un enjeu central. Visa et Ethereum figurent parmi les acteurs qui cherchent à se positionner tôt sur le KYA, ou Know Your Agent, un système appelé à servir de pièce d’identité pour les agents IA. Cette dynamique s’inscrit dans un contexte où l’IA pourrait prendre directement en charge des opérations liées aux comptes, aux paiements et aux contrats. Alors que les procédures financières traditionnelles de connaissance du client visent les personnes, le KYA est discuté comme moyen d’identifier et de vérifier des agents IA autonomes. L’Union européenne et Singapour montrent aussi des signes d’intensification des discussions réglementaires sur le KYA. S’il s’installe, ce cadre pourrait devenir une infrastructure de confiance pour les paiements par IA et les transactions entre machines. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "هوية وكلاء الذكاء الاصطناعي تشتعل مع سباق فيزا وإيثريوم على KYA",
+        "excerpt": "مع اقتراب وكلاء الذكاء الاصطناعي من تنفيذ المدفوعات والمعاملات دون تدخل بشري، تتحرك فيزا وإيثريوم لاقتناص موقع مبكر في نظام KYA لهوية التجارة الذاتية بين الآلات.",
+        "body": "مع اقتراب وكلاء الذكاء الاصطناعي من تنفيذ المدفوعات والمعاملات ذاتيا من دون تدخل بشري، تبرز مسألة التحقق من هوية الذكاء الاصطناعي في التجارة بين الآلات كقضية رئيسية. وتعد فيزا وإيثريوم من بين الأطراف التي تتنافس للحصول على موقع متقدم في مجال KYA، أو Know Your Agent، وهو نظام يمكن أن يؤدي دور بطاقة هوية لوكلاء الذكاء الاصطناعي. يأتي ذلك في ظل تزايد احتمال أن ينفذ الذكاء الاصطناعي مباشرة أعمالا تتعلق بالحسابات والمدفوعات والعقود. وبينما تركز إجراءات التحقق من العملاء في التمويل التقليدي على البشر، يجري بحث KYA كوسيلة لتحديد وكلاء الذكاء الاصطناعي المستقلين والتحقق منهم. وتظهر في الاتحاد الأوروبي وسنغافورة أيضا مؤشرات على بدء نقاشات تنظيمية أكثر جدية حول KYA. وإذا ترسخ هذا الإطار، فقد يصبح بنية ثقة أساسية للمدفوعات القائمة على الذكاء الاصطناعي والمعاملات بين الآلات. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "AI एजेंट पहचान की दौड़ तेज, Visa और Ethereum KYA पर बढ़त चाहते हैं",
+        "excerpt": "AI एजेंटों के मानव हस्तक्षेप के बिना भुगतान और लेनदेन करने की संभावना बढ़ने के साथ Visa और Ethereum मशीन-टू-मशीन स्वायत्त कारोबार की पहचान व्यवस्था KYA में बढ़त लेने में जुटे हैं।",
+        "body": "कृत्रिम बुद्धिमत्ता यानी AI एजेंटों के मानव हस्तक्षेप के बिना स्वायत्त रूप से भुगतान और लेनदेन करने के युग के करीब आने के साथ, मशीनों के बीच स्वायत्त कारोबार में AI की पहचान सत्यापित करने की व्यवस्था प्रमुख मुद्दा बन रही है। Visa और Ethereum सहित कई पक्ष KYA, यानी Know Your Agent, में शुरुआती बढ़त हासिल करने की होड़ में हैं, जो AI एजेंटों के लिए पहचान पत्र की तरह काम कर सकता है। इसकी पृष्ठभूमि में यह संभावना है कि AI खाते, भुगतान और अनुबंध से जुड़े कार्य सीधे कर सकता है। पारंपरिक वित्तीय ग्राहक-पहचान प्रक्रिया जहां मनुष्यों पर केंद्रित रही है, वहीं KYA को स्वायत्त रूप से काम करने वाले AI एजेंटों की पहचान और सत्यापन के तरीके के रूप में देखा जा रहा है। यूरोपीय संघ और सिंगापुर में भी KYA से जुड़े नियमन पर चर्चा तेज होने के संकेत हैं। यह ढांचा स्थापित होने पर AI आधारित भुगतान और मशीन-टू-मशीन लेनदेन के लिए भरोसे का आधार बन सकता है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Identitas Agen AI Makin Penting, Visa dan Ethereum Berebut KYA",
+        "excerpt": "Saat agen AI mulai dapat melakukan pembayaran dan transaksi tanpa campur tangan manusia, Visa dan Ethereum bergerak merebut posisi awal dalam KYA, identitas untuk perdagangan otonom antarmesin.",
+        "body": "Ketika agen kecerdasan buatan atau AI semakin dekat untuk melakukan pembayaran dan transaksi secara otonom tanpa campur tangan manusia, verifikasi identitas AI dalam perdagangan antarmesin muncul sebagai isu utama. Visa dan Ethereum termasuk pihak yang bersaing untuk mengamankan posisi awal dalam KYA, atau Know Your Agent, sistem yang dapat berfungsi sebagai kartu identitas bagi agen AI. Latar belakangnya adalah meningkatnya kemungkinan AI menjalankan langsung aktivitas terkait rekening, pembayaran, dan kontrak. Jika prosedur verifikasi pelanggan dalam keuangan tradisional berfokus pada manusia, KYA dibahas sebagai cara untuk mengidentifikasi dan memverifikasi agen AI yang bergerak secara mandiri. Uni Eropa dan Singapura juga menunjukkan tanda-tanda pembahasan regulasi KYA yang makin aktif. Jika kerangka ini terbentuk, KYA dapat menjadi infrastruktur kepercayaan bagi pembayaran berbasis AI dan transaksi antarmesin. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "5c34d25035e1",
+    "slug": "mk시그널-미래에셋증권-미국-ma-추진-및-글로벌-리테일-확장-가시화에-주가-상승세-mk시그널-추천-후-상승-769672",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-05-08T06:11:55.984Z",
+    "updatedAt": "2026-05-08T06:11:55.984Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/stock/12040747",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12040747",
+    "titleFingerprint": "78d9a6593eee2c462e6f76a5c3f9e29b52a42094",
+    "dedupKeys": [
+      "5c34d25035e15c8d21ac36cbe37de9bf8b07c50b",
+      "78d9a6593eee2c462e6f76a5c3f9e29b52a42094",
+      "c22f2f9c098074ce1b63c0d2ed2ea4c4824fd32f"
+    ],
+    "imageUrl": "/images/articles/5c34d25035e1.png",
+    "i18n": {
+      "ko": {
+        "title": "미래에셋증권 주가 상승, 미국 M&A·글로벌 리테일 확장 주목",
+        "excerpt": "5월 8일 미래에셋증권(006800)이 미국 M&A 추진과 글로벌 리테일 확장 가시화 기대 속에 9시 9분 기준 79,200원으로 상승세를 보였다.",
+        "body": "5월 8일 오전 미래에셋증권(006800) 주가가 상승세를 보였다. MK시그널에 따르면 미래에셋증권은 오전 9시 9분 기준 79,200원에 거래됐다. 전 거래일 종가는 78,100원으로 마감했으며, 이날 장 초반 주가가 전일 종가 대비 오른 흐름을 나타냈다. 이번 움직임은 미국 M&A 추진과 글로벌 리테일 확장 가시화가 시장의 관심을 받은 가운데 나타났다. MK시그널 추천 이후 미래에셋증권의 상승률은 32.03%로 집계됐다. 향후 주가 흐름은 관련 사업 추진 상황과 시장 반응에 따라 주목될 전망이다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Mirae Asset Securities Rises as U.S. M&A and Global Retail Expansion Draw Focus",
+        "excerpt": "On May 8, Mirae Asset Securities (006800) rose to 79,200 won as of 9:09 a.m., with attention on its U.S. M&A push and clearer global retail expansion.",
+        "body": "Mirae Asset Securities (006800) moved higher on the morning of May 8. According to MK Signal, the stock was trading at 79,200 won as of 9:09 a.m. The previous trading day’s closing price was 78,100 won, and the stock showed an early-session gain from that level. The move came as the company’s pursuit of U.S. M&A and visible progress in global retail expansion drew market attention. Since MK Signal’s recommendation, Mirae Asset Securities has recorded a gain of 32.03%. Future share-price movement is expected to remain in focus depending on related business progress and market response. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "未来アセット証券が上昇、米国M&Aとグローバルリテール拡大に注目",
+        "excerpt": "5月8日、未来アセット証券（006800）は米国M&A推進とグローバルリテール拡大の可視化が注目され、午前9時9分時点で79,200ウォンに上昇した。",
+        "body": "5月8日午前、未来アセット証券（006800）の株価が上昇した。MKシグナルによると、同銘柄は午前9時9分時点で79,200ウォンで取引された。前営業日の終値は78,100ウォンで、同日の寄り付き後には前日終値を上回る動きを示した。今回の上昇は、米国M&Aの推進とグローバルリテール拡大の可視化が市場の関心を集める中で起きた。MKシグナルの推奨後、未来アセット証券の上昇率は32.03%と集計された。今後の株価動向は、関連事業の進展状況と市場の反応に応じて注目される見通しだ。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "未来资产证券股价上涨，美国并购与全球零售扩张受关注",
+        "excerpt": "5月8日，未来资产证券（006800）在美国并购推进及全球零售扩张更趋明朗的关注下，于上午9点9分报79,200韩元并呈上涨走势。",
+        "body": "5月8日上午，未来资产证券（006800）股价呈现上涨走势。据MK Signal报道，截至上午9点9分，该股报79,200韩元。前一交易日收盘价为78,100韩元，当天早盘股价较前收盘价走高。此次走势出现在市场关注其推进美国并购以及全球零售业务扩张逐渐明朗之际。自MK Signal推荐以来，未来资产证券累计涨幅为32.03%。后续股价走势预计将取决于相关业务推进情况及市场反应，并继续受到关注。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Mirae Asset Securities sube por M&A en EE. UU. y expansión minorista global",
+        "excerpt": "El 8 de mayo, Mirae Asset Securities (006800) subía a 79.200 wones a las 9:09, impulsada por el foco en sus planes de M&A en EE. UU. y expansión minorista global.",
+        "body": "La acción de Mirae Asset Securities (006800) avanzó en la mañana del 8 de mayo. Según MK Signal, el valor cotizaba a 79.200 wones a las 9:09. En la sesión anterior, el precio de cierre fue de 78.100 wones, por lo que en el inicio de la jornada mostró una subida frente a ese nivel. El movimiento se produjo mientras el mercado prestaba atención al impulso de M&A en Estados Unidos y a la mayor visibilidad de su expansión minorista global. Desde la recomendación de MK Signal, Mirae Asset Securities acumula una subida del 32,03%. La evolución futura dependerá del avance de esos negocios y de la respuesta del mercado. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Mirae Asset Securities sobe com M&A nos EUA e expansão global no varejo",
+        "excerpt": "Em 8 de maio, a Mirae Asset Securities (006800) subia para 79.200 won às 9h09, com foco na busca por M&A nos EUA e na expansão global de varejo.",
+        "body": "As ações da Mirae Asset Securities (006800) subiram na manhã de 8 de maio. Segundo o MK Signal, o papel era negociado a 79.200 won às 9h09. No pregão anterior, o fechamento foi de 78.100 won, e a ação mostrava alta no início da sessão em relação a esse nível. O movimento ocorreu em meio à atenção do mercado à busca por M&A nos Estados Unidos e à maior visibilidade da expansão global de varejo. Desde a recomendação do MK Signal, a Mirae Asset Securities acumula alta de 32,03%. O desempenho futuro deve continuar em foco conforme o avanço dos negócios relacionados e a reação do mercado. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Mirae Asset Securities steigt: US-M&A und globaler Retail-Ausbau im Fokus",
+        "excerpt": "Am 8. Mai stieg Mirae Asset Securities (006800) um 9:09 Uhr auf 79.200 Won, während US-M&A-Pläne und sichtbarer globaler Retail-Ausbau Aufmerksamkeit erhielten.",
+        "body": "Die Aktie von Mirae Asset Securities (006800) legte am Morgen des 8. Mai zu. Laut MK Signal wurde sie um 9:09 Uhr bei 79.200 Won gehandelt. Am vorherigen Handelstag hatte der Schlusskurs bei 78.100 Won gelegen, womit die Aktie zu Handelsbeginn über diesem Niveau notierte. Die Bewegung erfolgte, während der Markt die geplanten M&A-Aktivitäten in den USA und die sichtbarere globale Retail-Expansion beachtete. Seit der Empfehlung durch MK Signal verzeichnet Mirae Asset Securities einen Anstieg von 32,03%. Der weitere Kursverlauf dürfte von den Fortschritten der betreffenden Geschäftsaktivitäten und der Marktreaktion abhängen. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Mirae Asset Securities monte, portée par les M&A aux États-Unis et le retail mondial",
+        "excerpt": "Le 8 mai, Mirae Asset Securities (006800) progressait à 79 200 wons à 9 h 09, avec l’attention portée aux M&A aux États-Unis et à l’expansion retail mondiale.",
+        "body": "L’action Mirae Asset Securities (006800) a progressé dans la matinée du 8 mai. Selon MK Signal, le titre se négociait à 79 200 wons à 9 h 09. La veille, le cours de clôture était de 78 100 wons, et l’action affichait en début de séance un niveau supérieur à cette clôture. Ce mouvement intervient alors que le marché s’intéresse à la poursuite d’opérations de M&A aux États-Unis et à la visibilité accrue de l’expansion mondiale dans le retail. Depuis la recommandation de MK Signal, Mirae Asset Securities affiche une hausse de 32,03 %. L’évolution future dépendra de l’avancement de ces activités et de la réaction du marché. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "ارتفاع سهم ميراى أسيت سيكيوريتيز مع التركيز على صفقات أمريكا والتوسع العالمي",
+        "excerpt": "في 8 مايو، ارتفع سهم ميراى أسيت سيكيوريتيز (006800) إلى 79,200 وون عند 9:09 صباحا وسط اهتمام بخطط الاستحواذ في أمريكا والتوسع العالمي بالتجزئة.",
+        "body": "ارتفع سهم ميراى أسيت سيكيوريتيز (006800) صباح 8 مايو. ووفقا لـ MK Signal، جرى تداول السهم عند 79,200 وون في الساعة 9:09 صباحا. وكان السهم قد أغلق في جلسة التداول السابقة عند 78,100 وون، ليظهر في بداية الجلسة ارتفاعا عن مستوى الإغلاق السابق. وجاء هذا التحرك بينما لفتت خطط الشركة لدفع عمليات الاندماج والاستحواذ في الولايات المتحدة، إلى جانب اتضاح توسعها العالمي في قطاع التجزئة، اهتمام السوق. ومنذ توصية MK Signal، سجل سهم ميراى أسيت سيكيوريتيز ارتفاعا بنسبة 32.03%. ومن المتوقع أن يبقى مسار السهم محل متابعة بحسب تقدم الأعمال ذات الصلة واستجابة السوق. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "मिरे एसेट सिक्योरिटीज में तेजी, अमेरिकी M&A और वैश्विक रिटेल विस्तार पर नजर",
+        "excerpt": "8 मई को मिरे एसेट सिक्योरिटीज (006800) सुबह 9:09 बजे 79,200 वॉन पर चढ़ा, क्योंकि अमेरिकी M&A और वैश्विक रिटेल विस्तार पर बाजार का ध्यान रहा।",
+        "body": "8 मई की सुबह मिरे एसेट सिक्योरिटीज (006800) के शेयर में तेजी दिखी। MK Signal के अनुसार, सुबह 9:09 बजे शेयर 79,200 वॉन पर कारोबार कर रहा था। पिछले कारोबारी दिन इसका बंद भाव 78,100 वॉन था, और आज शुरुआती कारोबार में शेयर उस स्तर से ऊपर रहा। यह तेजी ऐसे समय आई जब कंपनी के अमेरिकी M&A प्रयास और वैश्विक रिटेल विस्तार की स्पष्टता बाजार के ध्यान में रही। MK Signal की सिफारिश के बाद से मिरे एसेट सिक्योरिटीज ने 32.03% की बढ़त दर्ज की है। आगे शेयर की चाल संबंधित कारोबार की प्रगति और बाजार की प्रतिक्रिया पर निर्भर रहते हुए निगरानी में रहेगी। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Saham Mirae Asset Securities Naik, M&A AS dan Ekspansi Ritel Global Disorot",
+        "excerpt": "Pada 8 Mei, Mirae Asset Securities (006800) naik ke 79.200 won pukul 09.09, seiring sorotan pada rencana M&A AS dan ekspansi ritel global.",
+        "body": "Saham Mirae Asset Securities (006800) bergerak naik pada pagi 8 Mei. Menurut MK Signal, saham tersebut diperdagangkan di 79.200 won pada pukul 09.09. Pada hari perdagangan sebelumnya, harga penutupan berada di 78.100 won, sehingga pada awal sesi saham menunjukkan kenaikan dari level tersebut. Pergerakan ini terjadi saat pasar memperhatikan dorongan M&A di Amerika Serikat dan makin terlihatnya ekspansi ritel global perusahaan. Sejak rekomendasi MK Signal, Mirae Asset Securities mencatat kenaikan 32,03%. Pergerakan harga berikutnya diperkirakan tetap menjadi perhatian, bergantung pada perkembangan bisnis terkait dan respons pasar. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "4b927bb15206",
+    "slug": "영업익이-하닉-직원-성과급보다-적다증권사도-놀란-cj-enm-실적-345381",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-05-08T06:10:49.971Z",
+    "updatedAt": "2026-05-08T06:10:49.971Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/stock/12041074",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12041074",
+    "titleFingerprint": "3bd4e89239bada084d76bc5e0a3ce9eeab4464a4",
+    "dedupKeys": [
+      "4b927bb152069789979327a535b89126bc4f0f4e",
+      "3bd4e89239bada084d76bc5e0a3ce9eeab4464a4",
+      "eebb23580d2a5eb848438bacaa0fb32869477be7"
+    ],
+    "imageUrl": "/images/articles/4b927bb15206.png",
+    "i18n": {
+      "ko": {
+        "title": "CJ ENM 부진 실적에 DB증권도 놀랐다…하닉 성과급 비교 리포트 화제",
+        "excerpt": "DB증권이 8일 CJ ENM의 부진한 실적을 지적한 분석 리포트 초안 제목에서 하이닉스 직원 성과급과 비교한 표현을 쓰며 투자자들 사이에서 화제를 모았다.",
+        "body": "DB증권이 8일 CJ ENM의 부진한 실적을 꼬집은 분석 리포트 초안 제목으로 투자자들의 관심을 끌었다. 원문에 따르면 DB증권은 CJ ENM 분석 리포트 초안에 ‘닉스 1명 성과급이 ..’라는 표현을 넣어, CJ ENM 영업이익이 하이닉스 직원 성과급보다 적다는 취지의 비교를 제시했다. 이 제목은 증권사도 놀랄 만큼 실적 부진이 두드러졌다는 점을 강조하며 온라인 투자자들 사이에서 회자됐다. 다만 원문 요약에 구체적인 실적 수치나 향후 전망은 제시되지 않았다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "CJ ENM’s weak earnings draw DB Securities’ striking Hynix bonus comparison",
+        "excerpt": "On May 8, DB Securities drew investor attention after a draft CJ ENM report criticized weak earnings with a headline comparing them to a Hynix employee bonus.",
+        "body": "DB Securities drew attention on May 8 with a draft analyst report title that sharply criticized CJ ENM’s weak earnings. According to the source, the draft CJ ENM report included wording beginning with “one Nix employee’s bonus...,” suggesting a comparison between CJ ENM’s operating profit and the performance bonus of a Hynix employee. The phrasing spread among investors because it underscored how notable the earnings weakness appeared, even to a brokerage house. The provided source summary did not disclose specific earnings figures or a detailed outlook. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "CJ ENMの低調な業績にDB証券も驚き、ハイニックス賞与比較が話題",
+        "excerpt": "DB証券は8日、CJ ENMの低調な業績を指摘した分析リポート草案の見出しで、ハイニックス社員の成果給と比較する表現を使い投資家の注目を集めた。",
+        "body": "DB証券が8日、CJ ENMの低調な業績を指摘した分析リポート草案の見出しで投資家の関心を集めた。原文によると、DB証券はCJ ENM分析リポート草案に「ニックス1人の成果給が..」という表現を入れ、CJ ENMの営業利益がハイニックス社員の成果給より少ないという趣旨の比較を示した。この見出しは、証券会社も驚くほど業績不振が目立った点を強調し、オンライン投資家の間で話題になった。ただし原文要約には具体的な業績数値や今後の見通しは示されていない。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "CJ ENM业绩低迷引DB证券关注，海力士奖金对比标题成话题",
+        "excerpt": "DB证券8日在CJ ENM分析报告草稿标题中指出其业绩低迷，并使用与海力士员工绩效奖金对比的表述，引发投资者关注。",
+        "body": "DB证券8日因一份指出CJ ENM业绩低迷的分析报告草稿标题而受到投资者关注。据原文，DB证券在CJ ENM分析报告草稿中写入了“一个Nix员工的绩效奖金……”这样的表述，意在把CJ ENM营业利润与海力士员工绩效奖金作比较。该标题强调，CJ ENM业绩疲弱程度连证券公司也感到意外，因此在网上投资者之间引发讨论。不过，原文摘要未提供具体业绩数字或后续展望。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "CJ ENM decepciona y DB Securities sorprende con comparación de bono Hynix",
+        "excerpt": "DB Securities llamó la atención de los inversionistas el 8 de mayo al criticar los débiles resultados de CJ ENM en un borrador que los comparaba con el bono de un empleado de Hynix.",
+        "body": "DB Securities atrajo la atención el 8 de mayo con el título preliminar de un informe que señalaba los débiles resultados de CJ ENM. Según la fuente, el borrador del análisis sobre CJ ENM incluía una frase que comenzaba con “el bono de un empleado de Nix...”, sugiriendo una comparación entre el beneficio operativo de CJ ENM y el bono por desempeño de un empleado de Hynix. El titular circuló entre inversionistas porque subrayaba una debilidad de resultados lo bastante llamativa como para sorprender a una casa de bolsa. El resumen original no ofreció cifras concretas ni previsiones. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "CJ ENM frustra e DB Securities destaca comparação com bônus da Hynix",
+        "excerpt": "A DB Securities chamou atenção dos investidores em 8 de maio ao criticar o desempenho fraco da CJ ENM em rascunho de relatório que comparava o lucro ao bônus de um funcionário da Hynix.",
+        "body": "A DB Securities ganhou atenção em 8 de maio com o título preliminar de um relatório que apontava o desempenho fraco da CJ ENM. Segundo a fonte, o rascunho do relatório sobre a CJ ENM incluía uma expressão iniciada por “o bônus de um funcionário da Nix...”, sugerindo uma comparação entre o lucro operacional da CJ ENM e o bônus por desempenho de um funcionário da Hynix. O título repercutiu entre investidores por enfatizar uma fraqueza nos resultados que surpreendeu até uma corretora. O resumo original não trouxe números específicos nem projeções futuras. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "CJ ENM enttäuscht mit schwachen Zahlen, DB Securities setzt Hynix-Bonus-Vergleich",
+        "excerpt": "DB Securities sorgte am 8. Mai unter Anlegern für Aufmerksamkeit, weil ein Entwurf zu CJ ENM schwache Ergebnisse kritisierte und sie mit dem Bonus eines Hynix-Mitarbeiters verglich.",
+        "body": "DB Securities erregte am 8. Mai mit dem Entwurf eines Analystenberichts zu CJ ENM Aufmerksamkeit, der die schwachen Ergebnisse des Unternehmens pointiert kritisierte. Laut Quelle enthielt der Entwurf eine Formulierung, die mit „der Bonus eines Nix-Mitarbeiters...“ begann, und stellte damit sinngemäß einen Vergleich zwischen dem operativen Gewinn von CJ ENM und dem Leistungsbonus eines Hynix-Mitarbeiters her. Der Titel verbreitete sich unter Anlegern, weil er die auffällige Ergebnisflaute betonte. Konkrete Zahlen oder ein Ausblick wurden in der vorliegenden Zusammenfassung nicht genannt. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "CJ ENM déçoit, DB Securities frappe avec une comparaison au bonus Hynix",
+        "excerpt": "DB Securities a attiré l’attention des investisseurs le 8 mai après avoir critiqué les résultats faibles de CJ ENM dans un projet de rapport les comparant au bonus d’un employé de Hynix.",
+        "body": "DB Securities a retenu l’attention le 8 mai avec le titre provisoire d’un rapport d’analyse critiquant les résultats faibles de CJ ENM. Selon la source, le projet de rapport sur CJ ENM contenait une formule commençant par « le bonus d’un employé de Nix... », suggérant une comparaison entre le bénéfice d’exploitation de CJ ENM et la prime de performance d’un employé de Hynix. Ce titre a circulé parmi les investisseurs car il soulignait une contre-performance jugée suffisamment marquante pour surprendre une société de courtage. Le résumé original ne fournit pas de chiffres précis ni de perspectives détaillées. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "نتائج CJ ENM الضعيفة تثير دهشة DB Securities ومقارنة بمكافأة Hynix",
+        "excerpt": "لفتت DB Securities انتباه المستثمرين في 8 مايو بعدما انتقدت نتائج CJ ENM الضعيفة في مسودة تقرير استخدمت مقارنة مع مكافأة أداء موظف في Hynix.",
+        "body": "لفتت DB Securities الانتباه في 8 مايو بعنوان مسودة تقرير تحليلي انتقد نتائج CJ ENM الضعيفة. وبحسب المصدر، تضمنت مسودة تقرير CJ ENM عبارة تبدأ بمعنى «مكافأة موظف واحد في Nix...»، في إشارة إلى مقارنة بين الربح التشغيلي لـ CJ ENM ومكافأة الأداء لموظف في Hynix. وقد تداول المستثمرون العنوان لأنه أبرز ضعف النتائج بصورة لافتة حتى بالنسبة إلى شركة أوراق مالية. ولم يتضمن ملخص المصدر أرقاما محددة للنتائج أو توقعات مفصلة للفترة المقبلة. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "CJ ENM के कमजोर नतीजों पर DB Securities भी चौंकी, Hynix बोनस तुलना चर्चा में",
+        "excerpt": "DB Securities ने 8 मई को CJ ENM के कमजोर प्रदर्शन पर रिपोर्ट मसौदे में Hynix कर्मचारी के परफॉर्मेंस बोनस से तुलना की, जिससे निवेशकों के बीच चर्चा तेज हुई।",
+        "body": "DB Securities ने 8 मई को CJ ENM के कमजोर नतीजों पर केंद्रित एक विश्लेषण रिपोर्ट के मसौदा शीर्षक से निवेशकों का ध्यान खींचा। स्रोत के अनुसार, CJ ENM रिपोर्ट मसौदे में “Nix के एक कर्मचारी का बोनस...” जैसी अभिव्यक्ति शामिल थी, जिसका आशय CJ ENM के परिचालन लाभ की तुलना Hynix कर्मचारी के प्रदर्शन बोनस से करना था। यह शीर्षक इसलिए चर्चा में आया क्योंकि इससे संकेत मिला कि नतीजों की कमजोरी ब्रोकरेज को भी चौंकाने वाली थी। उपलब्ध मूल सारांश में ठोस वित्तीय आंकड़े या आगे का विस्तृत अनुमान नहीं दिया गया। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Kinerja lemah CJ ENM disorot, DB Securities bandingkan dengan bonus Hynix",
+        "excerpt": "DB Securities pada 8 Mei menarik perhatian investor setelah rancangan laporan CJ ENM mengkritik kinerja lemah dan membandingkannya dengan bonus kinerja karyawan Hynix.",
+        "body": "DB Securities menarik perhatian pada 8 Mei lewat judul rancangan laporan analis yang menyoroti kinerja lemah CJ ENM. Menurut sumber, rancangan laporan CJ ENM memuat ungkapan yang diawali dengan “bonus satu karyawan Nix...”, yang mengarah pada perbandingan antara laba operasional CJ ENM dan bonus kinerja karyawan Hynix. Judul itu ramai dibicarakan investor karena menegaskan lemahnya hasil yang tampak mencolok bahkan bagi perusahaan sekuritas. Ringkasan sumber tidak mencantumkan angka kinerja spesifik atau prospek lanjutan. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
     "id": "f5b25d6b4655",
     "slug": "코인베이스-1분기-어닝쇼크적자-전환에-시간외-주가-4-뚝-445117",
     "channelId": "ETF",
@@ -4271,231 +4496,6 @@
         "title": "Porsi Saham Korea Dana Pensiun Nasional Tembus 25% Usai Untung 250 Triliun Won",
         "excerpt": "National Pension Service Korea pada akhir April 2026 mencatat porsi saham domestik di atas 25%, melampaui target 14,9% lebih dari 10 poin dan memicu isu rebalancing.",
         "body": "National Pension Service Korea Selatan meraih keuntungan investasi sekitar 250 triliun won sepanjang tahun ini berkat reli indeks Kospi, tetapi kini menghadapi dilema rebalancing karena porsi saham domestik jauh melampaui target. Menurut sumber pemerintah pada 7 Mei, porsi saham Korea dalam portofolio dana tersebut melebihi 25% pada akhir April, lebih dari 10 poin persentase di atas target tahun ini sebesar 14,9%. Kenaikan itu dipandang sebagai hasil reli Kospi yang dipimpin saham semikonduktor serta keputusan komite pengelola dana pada Januari untuk menunda rebalancing. Nilai dana telah melampaui 1.700 triliun won. Dalam MSCI ACWI, bobot saham Korea sekitar 1,5% hingga 1,8%. Pelaku pasar menilai keputusan alokasi aset jangka menengah bulan ini dapat memengaruhi pasokan dan permintaan di pasar saham. Sumber: hankyung.com"
-      }
-    }
-  },
-  {
-    "id": "194bbf2caf48",
-    "slug": "삼성전자-최고의-순간-아직-오지-않았다여전히-저평가-종목-938123",
-    "channelId": "ETF",
-    "category": "etf",
-    "publishedAt": "2026-05-07T16:28:01.497Z",
-    "updatedAt": "2026-05-07T16:28:01.497Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/2026050717986",
-    "canonicalUrl": "https://www.hankyung.com/article/2026050717986",
-    "titleFingerprint": "9097f6fdeef17c3a8b9984e67f2800272c363c27",
-    "dedupKeys": [
-      "194bbf2caf481090282327f9bb7769246f4aaddd",
-      "9097f6fdeef17c3a8b9984e67f2800272c363c27",
-      "4d25306dd17506c496bcde9868472b30c14bdd12"
-    ],
-    "imageUrl": "/images/articles/194bbf2caf48.jpg",
-    "i18n": {
-      "ko": {
-        "title": "삼성전자 주가 저평가론 부각, ‘최고의 순간’ 아직 남았다는 분석",
-        "excerpt": "한국경제는 삼성전자의 ‘최고의 순간’이 아직 오지 않았으며 주가가 여전히 저평가됐다는 종목 분석을 보도했다. 투자 판단의 핵심은 향후 실적 기대와 밸류에이션이다.",
-        "body": "한국경제는 삼성전자에 대해 ‘최고의 순간’이 아직 오지 않았고 주가가 여전히 저평가됐다는 분석을 전했다. 보도는 삼성전자를 둘러싼 투자 시각이 향후 실적 회복과 밸류에이션 평가에 맞춰져 있음을 보여준다. 구체적인 수치나 추가 전망은 원문 요약에 제시되지 않았지만, 핵심 메시지는 현재 주가가 기업 가치에 비해 낮게 평가되고 있다는 데 있다. 이는 삼성전자 주식과 관련 ETF를 보는 투자자에게 반도체 업황, 실적 개선 가능성, 대형주 수급을 함께 점검하게 하는 이슈다. 출처: hankyung.com"
-      },
-      "en": {
-        "title": "Samsung Electronics Seen as Undervalued as ‘Best Moment’ Still Ahead",
-        "excerpt": "Hankyung reported that Samsung Electronics’ “best moment” has not yet arrived and that the stock remains undervalued, with valuation and future earnings expectations at the center of the analysis.",
-        "body": "Hankyung reported an analysis saying Samsung Electronics’ “best moment” has not yet arrived and that the stock remains undervalued. The report indicates that investor attention around Samsung Electronics is focused on future earnings recovery and valuation. No specific figures or additional forecasts were provided in the supplied source summary, but the core message is that the current share price is viewed as low relative to corporate value. For investors in Samsung Electronics shares and related ETFs, the issue highlights the need to watch the semiconductor cycle, earnings improvement potential, and large-cap fund flows. Source: hankyung.com"
-      },
-      "ja": {
-        "title": "サムスン電子に割安感、『最高の瞬間』はまだ先との分析",
-        "excerpt": "韓国経済新聞は、サムスン電子の「最高の瞬間」はまだ来ておらず、株価は依然として割安だとの銘柄分析を報じた。焦点は今後の業績期待とバリュエーションだ。",
-        "body": "韓国経済新聞は、サムスン電子について「最高の瞬間」はまだ来ておらず、株価は依然として割安だとの分析を伝えた。報道は、サムスン電子をめぐる投資家の見方が今後の業績回復とバリュエーション評価に向かっていることを示している。提供された原文要約には具体的な数値や追加見通しは示されていないが、核心は現在の株価が企業価値に比べて低く評価されているという点にある。サムスン電子株や関連ETFを見る投資家にとって、半導体市況、業績改善の可能性、大型株への資金動向を確認する材料となる。出典: hankyung.com"
-      },
-      "zh": {
-        "title": "三星电子仍被视为低估，分析称“最佳时刻”尚未到来",
-        "excerpt": "韩国经济新闻报道称，三星电子的“最佳时刻”尚未到来，股价仍处于低估状态。投资判断的核心在于未来业绩预期与估值水平。",
-        "body": "韩国经济新闻报道了一项关于三星电子的分析，称其“最佳时刻”尚未到来，股价仍被认为处于低估状态。报道显示，围绕三星电子的投资视角正集中在未来业绩恢复和估值评价上。所提供的原文摘要未列出具体数据或进一步预测，但核心信息是当前股价相对于企业价值仍被低估。对于关注三星电子股票及相关ETF的投资者而言，这一议题提示需同时观察半导体景气、业绩改善可能性以及大型股资金流向。来源: hankyung.com"
-      },
-      "es": {
-        "title": "Samsung Electronics sigue infravalorada y su ‘mejor momento’ aún no llega",
-        "excerpt": "Hankyung informó que el “mejor momento” de Samsung Electronics aún no ha llegado y que la acción sigue infravalorada, con la valoración y las expectativas de beneficios como claves.",
-        "body": "Hankyung informó sobre un análisis que sostiene que el “mejor momento” de Samsung Electronics aún no ha llegado y que la acción sigue infravalorada. La nota muestra que la visión inversora sobre Samsung Electronics se centra en la recuperación futura de resultados y en la valoración. El resumen original facilitado no incluye cifras concretas ni previsiones adicionales, pero el mensaje principal es que el precio actual de la acción se considera bajo frente al valor de la empresa. Para quienes siguen las acciones de Samsung Electronics y ETF relacionados, el tema invita a revisar el ciclo de semiconductores, la posible mejora de beneficios y los flujos hacia grandes valores. Fuente: hankyung.com"
-      },
-      "pt": {
-        "title": "Samsung Electronics segue subavaliada e ‘melhor momento’ ainda virá",
-        "excerpt": "O Hankyung informou que o “melhor momento” da Samsung Electronics ainda não chegou e que a ação continua subavaliada, com valuation e expectativas de lucro no centro da análise.",
-        "body": "O Hankyung publicou uma análise segundo a qual o “melhor momento” da Samsung Electronics ainda não chegou e a ação permanece subavaliada. A reportagem indica que a visão dos investidores sobre a Samsung Electronics está concentrada na recuperação futura dos resultados e na avaliação de valuation. O resumo original fornecido não apresenta números específicos nem projeções adicionais, mas a mensagem central é que o preço atual da ação é visto como baixo em relação ao valor da empresa. Para investidores em ações da Samsung Electronics e ETFs relacionados, o tema reforça a necessidade de acompanhar o ciclo de semicondutores, a possibilidade de melhora dos lucros e os fluxos para grandes empresas. Fonte: hankyung.com"
-      },
-      "de": {
-        "title": "Samsung Electronics gilt weiter als unterbewertet, bester Moment steht noch aus",
-        "excerpt": "Hankyung berichtete, dass der „beste Moment“ von Samsung Electronics noch nicht gekommen sei und die Aktie weiter unterbewertet bleibe. Im Fokus stehen Bewertung und künftige Gewinnerwartungen.",
-        "body": "Hankyung berichtete über eine Analyse, wonach der „beste Moment“ von Samsung Electronics noch nicht gekommen sei und die Aktie weiterhin als unterbewertet gelte. Der Bericht zeigt, dass sich die Investorenperspektive auf Samsung Electronics auf eine künftige Erholung der Ergebnisse und die Bewertung konzentriert. Konkrete Zahlen oder zusätzliche Prognosen wurden in der bereitgestellten Zusammenfassung nicht genannt. Die Kernaussage lautet jedoch, dass der aktuelle Aktienkurs im Verhältnis zum Unternehmenswert als niedrig eingeschätzt wird. Für Anleger in Samsung-Electronics-Aktien und verbundene ETFs ist dies ein Anlass, den Halbleiterzyklus, mögliche Ergebnisverbesserungen und Kapitalflüsse in große Werte zu beobachten. Quelle: hankyung.com"
-      },
-      "fr": {
-        "title": "Samsung Electronics resterait sous-évaluée, son ‘meilleur moment’ à venir",
-        "excerpt": "Hankyung a rapporté que le « meilleur moment » de Samsung Electronics n’est pas encore arrivé et que l’action reste sous-évaluée, l’attention portant sur la valorisation et les résultats futurs.",
-        "body": "Hankyung a rapporté une analyse selon laquelle le « meilleur moment » de Samsung Electronics n’est pas encore arrivé et l’action reste sous-évaluée. L’article montre que le regard des investisseurs sur Samsung Electronics se concentre sur la reprise future des résultats et l’évaluation de la valorisation. Le résumé original fourni ne présente pas de chiffres précis ni de prévisions supplémentaires, mais le message central est que le cours actuel est jugé faible par rapport à la valeur de l’entreprise. Pour les investisseurs qui suivent l’action Samsung Electronics et les ETF liés, le sujet invite à surveiller le cycle des semi-conducteurs, la possibilité d’une amélioration des bénéfices et les flux vers les grandes capitalisations. Source: hankyung.com"
-      },
-      "ar": {
-        "title": "سهم سامسونغ إلكترونيكس لا يزال دون قيمته و‘أفضل لحظة’ لم تأت بعد",
-        "excerpt": "ذكرت هانكيونغ أن “أفضل لحظة” لسامسونغ إلكترونيكس لم تأت بعد، وأن السهم لا يزال دون قيمته العادلة، مع تركيز التحليل على التقييم وتوقعات الأرباح المقبلة.",
-        "body": "نقلت هانكيونغ تحليلا يفيد بأن “أفضل لحظة” لسامسونغ إلكترونيكس لم تأت بعد، وأن السهم لا يزال مقيما بأقل من قيمته. ويظهر التقرير أن نظرة المستثمرين إلى سامسونغ إلكترونيكس تتركز على تعافي الأرباح مستقبلا وعلى تقييم السهم. ولم يتضمن ملخص المصدر المقدم أرقاما محددة أو توقعات إضافية، لكن الرسالة الأساسية هي أن السعر الحالي للسهم يعد منخفضا مقارنة بقيمة الشركة. وبالنسبة إلى المستثمرين في سهم سامسونغ إلكترونيكس وصناديق ETF المرتبطة به، تبرز الحاجة إلى متابعة دورة أشباه الموصلات، واحتمال تحسن الأرباح، وتدفقات الأموال إلى الأسهم الكبرى. المصدر: hankyung.com"
-      },
-      "hi": {
-        "title": "Samsung Electronics अब भी कम मूल्यांकित, ‘सर्वश्रेष्ठ क्षण’ अभी बाकी",
-        "excerpt": "Hankyung ने बताया कि Samsung Electronics का “सर्वश्रेष्ठ क्षण” अभी नहीं आया है और शेयर अब भी कम मूल्यांकित है। विश्लेषण का केंद्र भविष्य की आय उम्मीदें और वैल्यूएशन हैं।",
-        "body": "Hankyung ने Samsung Electronics पर एक विश्लेषण की जानकारी दी, जिसके अनुसार कंपनी का “सर्वश्रेष्ठ क्षण” अभी नहीं आया है और शेयर अब भी कम मूल्यांकित है। रिपोर्ट दिखाती है कि Samsung Electronics को लेकर निवेशकों का ध्यान भविष्य में आय सुधार और वैल्यूएशन आकलन पर है। दिए गए मूल सारांश में कोई विशेष आंकड़ा या अतिरिक्त पूर्वानुमान शामिल नहीं है, लेकिन मुख्य संदेश यह है कि मौजूदा शेयर मूल्य कंपनी के मूल्य की तुलना में कम माना जा रहा है। Samsung Electronics के शेयर और संबंधित ETF देखने वाले निवेशकों के लिए यह मुद्दा सेमीकंडक्टर चक्र, आय सुधार की संभावना और बड़े शेयरों में फंड फ्लो पर नजर रखने का संकेत देता है। स्रोत: hankyung.com"
-      },
-      "id": {
-        "title": "Samsung Electronics Masih Dinilai Murah, ‘Momen Terbaik’ Belum Datang",
-        "excerpt": "Hankyung melaporkan bahwa “momen terbaik” Samsung Electronics belum tiba dan sahamnya masih dinilai murah, dengan valuasi serta ekspektasi kinerja masa depan menjadi fokus utama.",
-        "body": "Hankyung melaporkan analisis bahwa “momen terbaik” Samsung Electronics belum tiba dan sahamnya masih dinilai murah. Laporan itu menunjukkan bahwa pandangan investasi terhadap Samsung Electronics berpusat pada pemulihan kinerja ke depan dan penilaian valuasi. Ringkasan sumber asli yang diberikan tidak memuat angka spesifik atau proyeksi tambahan, tetapi pesan utamanya adalah harga saham saat ini dipandang rendah dibandingkan nilai perusahaan. Bagi investor yang mencermati saham Samsung Electronics dan ETF terkait, isu ini menekankan perlunya memantau siklus semikonduktor, peluang perbaikan laba, dan arus dana ke saham berkapitalisasi besar. Sumber: hankyung.com"
-      }
-    }
-  },
-  {
-    "id": "b7a8075422f3",
-    "slug": "ai-과열에-동참하라머스크-앤스로픽-동맹의-뜻-빈난새의-개장전요것만-729260",
-    "channelId": "ETF",
-    "category": "etf",
-    "publishedAt": "2026-05-07T16:26:58.856Z",
-    "updatedAt": "2026-05-07T16:26:58.856Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/202605072726i",
-    "canonicalUrl": "https://www.hankyung.com/article/202605072726i",
-    "titleFingerprint": "6115641420d678523641b68a1e74bef47d2cd0f5",
-    "dedupKeys": [
-      "b7a8075422f38ac3a5f0d71a3c006adc7bc903b2",
-      "6115641420d678523641b68a1e74bef47d2cd0f5",
-      "3a2148fbfc05ba306d9a1b698a72693fa5948ba1"
-    ],
-    "imageUrl": "/images/articles/b7a8075422f3.jpg",
-    "i18n": {
-      "ko": {
-        "title": "AI 인프라 경쟁 가속, 머스크 xAI-앤스로픽 GPU 동맹이 던진 시장 신호",
-        "excerpt": "2026년 5월 7일 미국 증시 개장 전, 앤스로픽이 연산 능력 확보를 위해 머스크의 xAI 대규모 GPU 클러스터를 임차하기로 하며 AI 인프라 경쟁이 부각됐다.",
-        "body": "2026년 5월 7일 미국 증시 개장 전 시장 포인트에서 일론 머스크의 AI 스타트업 xAI와 앤스로픽의 협력이 주목됐다. 앤스로픽은 부족한 연산 능력을 확보하기 위해 xAI의 대규모 GPU 클러스터 ‘콜로서스1’을 임차하기로 했다. xAI는 자체 챗봇 그록의 시장 점유율이 크게 뒤처진 상황에서 유휴 자원을 외부에 판매해 수익성을 높일 수 있는 길을 확보했다. 디인포메이션은 xAI가 사실상 클라우드 회사가 되고 있다고 평가했다. 기사에는 AI 고도화로 메모리와 연산 수요가 늘고, ARM의 상업용 AI CPU 고객 수요가 6주 만에 2배로 증가했다는 내용도 담겼다. 출처: hankyung.com"
-      },
-      "en": {
-        "title": "AI Infrastructure Race: What the Musk xAI-Anthropic GPU Deal Signals",
-        "excerpt": "Before the U.S. market open on May 7, 2026, Anthropic agreed to rent Musk’s xAI GPU cluster to secure computing capacity, highlighting the AI infrastructure race.",
-        "body": "Before the U.S. market open on May 7, 2026, cooperation between Elon Musk’s AI startup xAI and Anthropic drew attention. Anthropic agreed to rent xAI’s large GPU cluster, Colossus 1, to secure computing capacity it lacks. For xAI, whose Grok chatbot trails significantly in market share, selling idle resources to outside customers offers a way to improve profitability. The Information assessed that xAI is effectively becoming a cloud company. The article also noted that as AI advances, demand for memory and computing power is rising, and ARM said customer demand for commercial AI CPUs doubled in just six weeks. Source: hankyung.com"
-      },
-      "ja": {
-        "title": "AIインフラ競争加速、マスク氏のxAIとAnthropicのGPU提携が示す意味",
-        "excerpt": "2026年5月7日の米国市場寄り付き前、Anthropicは演算能力確保のためマスク氏のxAIの大規模GPUクラスターを借りることになり、AIインフラ競争が注目された。",
-        "body": "2026年5月7日の米国株式市場寄り付き前の注目点として、イーロン・マスク氏のAIスタートアップxAIとAnthropicの協力が取り上げられた。Anthropicは不足する演算能力を確保するため、xAIの大規模GPUクラスター「Colossus 1」を借りることにした。xAIにとっては、自社チャットボットGrokの市場シェアが大きく遅れるなか、遊休リソースを外部に販売して収益性を高める手段となる。The Informationは、xAIが事実上クラウド企業になりつつあると評価した。記事はまた、AIの高度化でメモリーと演算能力の需要が増え、ARMの商用AI CPU向け顧客需要が6週間で2倍になったことも伝えた。出所: hankyung.com"
-      },
-      "zh": {
-        "title": "AI基础设施竞争升温：马斯克xAI与Anthropic GPU合作释放信号",
-        "excerpt": "2026年5月7日美股开盘前，Anthropic为 확보计算能力决定租用马斯克xAI的大型GPU集群，AI基础设施竞争因此受到关注。",
-        "body": "2026年5月7日美股开盘前的市场要点中，埃隆·马斯克旗下AI初创公司xAI与Anthropic的合作受到关注。Anthropic为弥补算力不足，决定租用xAI的大型GPU集群“Colossus 1”。对xAI而言，在其聊天机器人Grok市场份额明显落后的情况下，向外部出售闲置资源可成为提升盈利能力的途径。The Information评价称，xAI实际上正在成为一家云计算公司。报道还提到，随着AI持续升级，内存和算力需求增加，ARM表示商业AI CPU客户需求在短短6周内翻了一番。来源: hankyung.com"
-      },
-      "es": {
-        "title": "Carrera de infraestructura de IA: la alianza GPU entre xAI y Anthropic",
-        "excerpt": "Antes de la apertura de Wall Street del 7 de mayo de 2026, Anthropic acordó alquilar el gran clúster GPU de xAI, de Musk, para asegurar capacidad de cómputo.",
-        "body": "Antes de la apertura del mercado estadounidense del 7 de mayo de 2026, destacó la cooperación entre la startup de IA xAI, de Elon Musk, y Anthropic. Anthropic decidió alquilar el gran clúster de GPU de xAI, Colossus 1, para obtener la capacidad de cómputo que le falta. Para xAI, cuyo chatbot Grok va muy por detrás en cuota de mercado, vender recursos ociosos a clientes externos abre una vía para mejorar la rentabilidad. The Information señaló que xAI se está convirtiendo de hecho en una empresa de nube. El artículo también indicó que, a medida que avanza la IA, aumenta la demanda de memoria y capacidad de cálculo, y que ARM dijo que la demanda de clientes por CPU comerciales de IA se duplicó en solo seis semanas. Fuente: hankyung.com"
-      },
-      "pt": {
-        "title": "Infraestrutura de IA em disputa: o sinal da aliança GPU entre xAI e Anthropic",
-        "excerpt": "Antes da abertura dos mercados dos EUA em 7 de maio de 2026, a Anthropic decidiu alugar o grande cluster de GPUs da xAI, de Musk, para garantir capacidade computacional.",
-        "body": "Antes da abertura do mercado americano em 7 de maio de 2026, a cooperação entre a startup de IA xAI, de Elon Musk, e a Anthropic chamou atenção. A Anthropic decidiu alugar o grande cluster de GPUs da xAI, o Colossus 1, para obter a capacidade computacional de que precisa. Para a xAI, cujo chatbot Grok está bem atrás em participação de mercado, vender recursos ociosos a terceiros pode elevar a rentabilidade. The Information avaliou que a xAI está, na prática, tornando-se uma empresa de nuvem. A reportagem também citou que, com o avanço da IA, cresce a demanda por memória e processamento, e que a ARM afirmou que a demanda de clientes por CPUs comerciais de IA dobrou em apenas seis semanas. Fonte: hankyung.com"
-      },
-      "de": {
-        "title": "KI-Infrastruktur im Fokus: Was der GPU-Deal von xAI und Anthropic signalisiert",
-        "excerpt": "Vor US-Börsenstart am 7. Mai 2026 vereinbarte Anthropic, Musks großen xAI-GPU-Cluster zu mieten, um Rechenkapazität zu sichern und die KI-Infrastruktur rückt in den Fokus.",
-        "body": "Vor der Eröffnung der US-Börsen am 7. Mai 2026 rückte die Zusammenarbeit zwischen Elon Musks KI-Startup xAI und Anthropic in den Blick. Anthropic will den großen GPU-Cluster Colossus 1 von xAI mieten, um fehlende Rechenkapazität zu sichern. Für xAI, dessen Chatbot Grok beim Marktanteil deutlich zurückliegt, bietet der Verkauf ungenutzter Ressourcen an externe Kunden eine Möglichkeit, die Profitabilität zu verbessern. The Information bewertete, dass xAI faktisch zu einem Cloud-Unternehmen werde. Der Artikel verwies außerdem darauf, dass mit der Weiterentwicklung von KI die Nachfrage nach Speicher und Rechenleistung steigt und ARM meldete, die Kundennachfrage nach kommerziellen KI-CPUs habe sich in nur sechs Wochen verdoppelt. Quelle: hankyung.com"
-      },
-      "fr": {
-        "title": "Infrastructure IA: ce que signale l’accord GPU entre xAI de Musk et Anthropic",
-        "excerpt": "Avant l’ouverture de Wall Street le 7 mai 2026, Anthropic a décidé de louer le grand cluster GPU de xAI, fondée par Musk, afin de sécuriser sa capacité de calcul.",
-        "body": "Avant l’ouverture du marché américain le 7 mai 2026, la coopération entre la start-up d’IA xAI d’Elon Musk et Anthropic a retenu l’attention. Anthropic a décidé de louer le grand cluster de GPU de xAI, Colossus 1, pour obtenir la capacité de calcul qui lui manque. Pour xAI, dont le chatbot Grok accuse un net retard en part de marché, vendre des ressources inutilisées à des clients externes offre une voie pour améliorer la rentabilité. The Information a estimé que xAI devenait de fait une société de cloud. L’article a aussi indiqué qu’avec les progrès de l’IA, la demande de mémoire et de puissance de calcul augmente, et qu’ARM a déclaré que la demande des clients pour ses CPU IA commerciaux avait doublé en seulement six semaines. Source: hankyung.com"
-      },
-      "ar": {
-        "title": "سباق بنية الذكاء الاصطناعي: دلالة اتفاق GPU بين xAI وأنثروبيك",
-        "excerpt": "قبل افتتاح السوق الأميركية في 7 مايو 2026، قررت أنثروبيك استئجار مجموعة GPU ضخمة من xAI التابعة لماسك لتأمين قدرة حوسبة، ما أبرز سباق بنية الذكاء الاصطناعي.",
-        "body": "قبل افتتاح السوق الأميركية في 7 مايو 2026، لفت التعاون بين شركة الذكاء الاصطناعي الناشئة xAI التابعة لإيلون ماسك وشركة أنثروبيك الانتباه. قررت أنثروبيك استئجار مجموعة GPU الضخمة Colossus 1 من xAI للحصول على قدرة الحوسبة التي تحتاجها. وبالنسبة إلى xAI، التي يتأخر روبوتها Grok كثيرا في الحصة السوقية، فإن بيع الموارد غير المستخدمة لجهات خارجية قد يوفر طريقا لتحسين الربحية. وقيّمت The Information أن xAI تتحول فعليا إلى شركة سحابية. وذكر المقال أيضا أن تطور الذكاء الاصطناعي يزيد الطلب على الذاكرة والقدرة الحاسوبية، وأن ARM قالت إن طلب العملاء على وحدات CPU التجارية للذكاء الاصطناعي تضاعف خلال ستة أسابيع فقط. المصدر: hankyung.com"
-      },
-      "hi": {
-        "title": "AI इन्फ्रास्ट्रक्चर रेस: xAI-Anthropic GPU समझौते का बाजार संकेत",
-        "excerpt": "7 मई 2026 को अमेरिकी बाजार खुलने से पहले, Anthropic ने कंप्यूटिंग क्षमता 확보 करने के लिए Musk की xAI का बड़ा GPU क्लस्टर किराए पर लेने का फैसला किया।",
-        "body": "7 मई 2026 को अमेरिकी शेयर बाजार खुलने से पहले, Elon Musk की AI स्टार्टअप xAI और Anthropic के सहयोग पर ध्यान गया। Anthropic ने अपनी कमी वाली कंप्यूटिंग क्षमता 확보 करने के लिए xAI के बड़े GPU क्लस्टर Colossus 1 को किराए पर लेने का निर्णय किया। xAI के लिए, जिसके चैटबॉट Grok की बाजार हिस्सेदारी काफी पीछे है, निष्क्रिय संसाधनों को बाहरी ग्राहकों को बेचना लाभप्रदता बढ़ाने का रास्ता हो सकता है। The Information ने आकलन किया कि xAI वस्तुतः एक क्लाउड कंपनी बन रही है। लेख में यह भी कहा गया कि AI के उन्नत होने से मेमोरी और कंप्यूटिंग मांग बढ़ रही है, और ARM ने बताया कि वाणिज्यिक AI CPU के लिए ग्राहक मांग केवल छह सप्ताह में दोगुनी हो गई। स्रोत: hankyung.com"
-      },
-      "id": {
-        "title": "Persaingan Infrastruktur AI: Sinyal dari Aliansi GPU xAI dan Anthropic",
-        "excerpt": "Menjelang pembukaan pasar AS pada 7 Mei 2026, Anthropic sepakat menyewa klaster GPU besar milik xAI dari Musk untuk mengamankan kapasitas komputasi.",
-        "body": "Menjelang pembukaan pasar saham AS pada 7 Mei 2026, kerja sama antara startup AI milik Elon Musk, xAI, dan Anthropic menjadi sorotan. Anthropic memutuskan menyewa klaster GPU besar xAI, Colossus 1, untuk mengamankan kapasitas komputasi yang masih kurang. Bagi xAI, yang chatbot Grok-nya jauh tertinggal dalam pangsa pasar, penjualan sumber daya menganggur kepada pihak luar dapat menjadi cara meningkatkan profitabilitas. The Information menilai xAI pada dasarnya sedang menjadi perusahaan cloud. Artikel itu juga menyebut bahwa seiring kemajuan AI, permintaan memori dan daya komputasi meningkat, dan ARM mengatakan permintaan pelanggan untuk CPU AI komersial naik dua kali lipat hanya dalam enam minggu. Sumber: hankyung.com"
-      }
-    }
-  },
-  {
-    "id": "d699a34ad6eb",
-    "slug": "포토-빗썸-베트남-증권사와-mou-618034",
-    "channelId": "ETF",
-    "category": "etf",
-    "publishedAt": "2026-05-07T16:25:53.546Z",
-    "updatedAt": "2026-05-07T16:25:53.546Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/2026050724221",
-    "canonicalUrl": "https://www.hankyung.com/article/2026050724221",
-    "titleFingerprint": "408091395ebde72ad6c29d2d1df45833a613cac4",
-    "dedupKeys": [
-      "d699a34ad6ebc3afa646109ec138a2587d89b1aa",
-      "408091395ebde72ad6c29d2d1df45833a613cac4",
-      "e2d87655269247d82d9ad66eb8328c04bf30d2d9"
-    ],
-    "imageUrl": "/images/articles/d699a34ad6eb.jpg",
-    "i18n": {
-      "ko": {
-        "title": "빗썸, 베트남 SSI증권 자회사 SSID와 가상자산거래소 MOU 체결",
-        "excerpt": "빗썸은 5월 7일 베트남 최대 규모 증권사 SSI증권의 자회사 SSID와 현지 가상자산거래소 사업을 위한 포괄적 업무협약을 맺었다고 밝혔다.",
-        "body": "빗썸은 5월 7일 베트남 최대 규모 증권사인 SSI증권의 자회사 SSID와 현지 가상자산거래소 사업을 위한 포괄적 업무협약(MOU)을 체결했다고 밝혔다. 이번 협약은 베트남 현지 가상자산거래소 사업을 목적으로 한 포괄적 협력이다. 공개된 사진에는 이재원 빗썸 대표와 응우옌 칵 하이 SSID 최고경영자(CEO)가 협약 이후 악수하는 모습이 담겼다. 기사에는 협약 규모나 구체적 사업 일정은 별도로 제시되지 않았다. 출처: hankyung.com"
-      },
-      "en": {
-        "title": "Bithumb Signs MOU With SSID, SSI Securities Unit, for Vietnam Crypto Exchange",
-        "excerpt": "Bithumb said on May 7 it signed a comprehensive MOU with SSID, a subsidiary of Vietnam’s largest brokerage SSI Securities, for a local virtual asset exchange business.",
-        "body": "Bithumb said on May 7 that it signed a comprehensive memorandum of understanding with SSID, a subsidiary of SSI Securities, described as Vietnam’s largest securities company, for a local virtual asset exchange business. The agreement is aimed at broad cooperation related to a virtual asset exchange in Vietnam. A published photo shows Bithumb CEO Lee Jae-won and SSID CEO Nguyen Khac Hai shaking hands after the MOU. The report did not provide the size of the agreement or a detailed business timetable. Source: hankyung.com"
-      },
-      "ja": {
-        "title": "ビッサム、ベトナムSSI証券子会社SSIDと暗号資産取引所MOU締結",
-        "excerpt": "ビッサムは5月7日、ベトナム最大規模の証券会社SSI証券の子会社SSIDと、現地の暗号資産取引所事業に向けた包括的MOUを結んだと発表した。",
-        "body": "ビッサムは5月7日、ベトナム最大規模の証券会社であるSSI証券の子会社SSIDと、現地の暗号資産取引所事業に向けた包括的な業務協約（MOU）を締結したと明らかにした。今回の協約は、ベトナムでの暗号資産取引所事業を目的とする包括的協力だ。公開された写真には、ビッサムのイ・ジェウォン代表とSSIDのグエン・カック・ハイ最高経営責任者（CEO）が協約後に握手する姿が写っている。協約規模や具体的な事業日程は示されていない。出典: hankyung.com"
-      },
-      "zh": {
-        "title": "Bithumb与越南SSI证券子公司SSID签署虚拟资产交易所MOU",
-        "excerpt": "Bithumb表示，5月7日已与越南最大规模证券公司SSI证券的子公司SSID签署全面业务谅解备忘录，合作推进当地虚拟资产交易所业务。",
-        "body": "Bithumb表示，5月7日已与越南最大规模证券公司SSI证券旗下子公司SSID签署全面业务谅解备忘录（MOU），合作方向为当地虚拟资产交易所业务。此次协议旨在围绕越南虚拟资产交易所业务展开全面合作。公开照片显示，Bithumb代表李宰源与SSID首席执行官Nguyen Khac Hai在签署协议后握手。报道未另行披露协议规模或具体业务时间表。来源: hankyung.com"
-      },
-      "es": {
-        "title": "Bithumb firma un MOU con SSID, filial de SSI Securities, para bolsa cripto en Vietnam",
-        "excerpt": "Bithumb informó el 7 de mayo que firmó un MOU integral con SSID, filial de SSI Securities, la mayor firma de valores de Vietnam, para un negocio local de intercambio de activos virtuales.",
-        "body": "Bithumb informó el 7 de mayo que firmó un memorando de entendimiento integral con SSID, filial de SSI Securities, descrita como la mayor firma de valores de Vietnam, para un negocio local de intercambio de activos virtuales. El acuerdo busca una cooperación amplia en torno a una bolsa de activos virtuales en Vietnam. La foto publicada muestra al director ejecutivo de Bithumb, Lee Jae-won, y al CEO de SSID, Nguyen Khac Hai, estrechándose la mano tras el MOU. El reporte no detalló el tamaño del acuerdo ni un calendario específico. Fuente: hankyung.com"
-      },
-      "pt": {
-        "title": "Bithumb assina MOU com SSID, filial da SSI Securities, para exchange cripto no Vietnã",
-        "excerpt": "A Bithumb disse em 7 de maio que assinou um MOU abrangente com a SSID, subsidiária da SSI Securities, maior corretora do Vietnã, para um negócio local de exchange de ativos virtuais.",
-        "body": "A Bithumb informou em 7 de maio que assinou um memorando de entendimento abrangente com a SSID, subsidiária da SSI Securities, descrita como a maior corretora de valores do Vietnã, para um negócio local de exchange de ativos virtuais. O acordo tem como objetivo uma cooperação ampla ligada a uma exchange de ativos virtuais no Vietnã. A foto divulgada mostra o CEO da Bithumb, Lee Jae-won, e o CEO da SSID, Nguyen Khac Hai, apertando as mãos após o MOU. A reportagem não trouxe valor do acordo nem cronograma específico. Fonte: hankyung.com"
-      },
-      "de": {
-        "title": "Bithumb schließt MOU mit SSID, Tochter von SSI Securities, für Kryptobörse in Vietnam",
-        "excerpt": "Bithumb teilte am 7. Mai mit, ein umfassendes MOU mit SSID, einer Tochter der größten vietnamesischen Wertpapierfirma SSI Securities, für ein lokales Geschäft mit virtuellen Vermögenswerten unterzeichnet zu haben.",
-        "body": "Bithumb teilte am 7. Mai mit, ein umfassendes Memorandum of Understanding mit SSID, einer Tochter von SSI Securities, der größten Wertpapierfirma Vietnams, für ein lokales Geschäft mit einer Börse für virtuelle Vermögenswerte unterzeichnet zu haben. Die Vereinbarung zielt auf eine breite Zusammenarbeit rund um eine solche Börse in Vietnam. Das veröffentlichte Foto zeigt Bithumb-CEO Lee Jae-won und SSID-CEO Nguyen Khac Hai beim Händedruck nach dem MOU. Angaben zum Volumen oder zu einem konkreten Zeitplan wurden nicht genannt. Quelle: hankyung.com"
-      },
-      "fr": {
-        "title": "Bithumb signe un MOU avec SSID, filiale de SSI Securities, pour une bourse crypto au Vietnam",
-        "excerpt": "Bithumb a annoncé le 7 mai avoir signé un MOU global avec SSID, filiale de SSI Securities, plus grande société de courtage du Vietnam, pour une activité locale d’échange d’actifs virtuels.",
-        "body": "Bithumb a annoncé le 7 mai avoir signé un protocole d’accord global avec SSID, filiale de SSI Securities, présentée comme la plus grande société de courtage du Vietnam, pour une activité locale d’échange d’actifs virtuels. L’accord vise une coopération large autour d’une bourse d’actifs virtuels au Vietnam. La photo publiée montre Lee Jae-won, dirigeant de Bithumb, et Nguyen Khac Hai, directeur général de SSID, se serrant la main après le MOU. Le reportage ne précise ni le montant de l’accord ni le calendrier détaillé du projet. Source: hankyung.com"
-      },
-      "ar": {
-        "title": "بيثامب توقع مذكرة تفاهم مع SSID التابعة لـSSI Securities لبورصة أصول افتراضية في فيتنام",
-        "excerpt": "قالت بيثامب في 7 مايو إنها وقعت مذكرة تفاهم شاملة مع SSID، التابعة لشركة SSI Securities أكبر شركة أوراق مالية في فيتنام، من أجل نشاط محلي لتبادل الأصول الافتراضية.",
-        "body": "قالت بيثامب في 7 مايو إنها وقعت مذكرة تفاهم شاملة مع SSID، وهي شركة تابعة لـSSI Securities التي وصفت بأنها أكبر شركة أوراق مالية في فيتنام، من أجل نشاط محلي لتبادل الأصول الافتراضية. وتهدف المذكرة إلى تعاون واسع يتعلق ببورصة أصول افتراضية في فيتنام. وتظهر الصورة المنشورة لي جاي وون، الرئيس التنفيذي لبيثامب، ونغوين خاك هاي، الرئيس التنفيذي لـSSID، وهما يتصافحان بعد توقيع المذكرة. ولم يذكر التقرير حجم الاتفاق أو جدولا زمنيا محددا للأعمال. المصدر: hankyung.com"
-      },
-      "hi": {
-        "title": "Bithumb ने Vietnam crypto exchange के लिए SSI Securities की SSID से MOU किया",
-        "excerpt": "Bithumb ने 7 मई को कहा कि उसने Vietnam की सबसे बड़ी securities company SSI Securities की subsidiary SSID के साथ local virtual asset exchange business के लिए comprehensive MOU किया है।",
-        "body": "Bithumb ने 7 मई को बताया कि उसने Vietnam की सबसे बड़ी securities company कही जाने वाली SSI Securities की subsidiary SSID के साथ local virtual asset exchange business के लिए एक comprehensive memorandum of understanding पर हस्ताक्षर किए हैं। यह समझौता Vietnam में virtual asset exchange business से जुड़ी व्यापक साझेदारी के लिए है। प्रकाशित तस्वीर में Bithumb CEO Lee Jae-won और SSID CEO Nguyen Khac Hai MOU के बाद हाथ मिलाते दिखते हैं। रिपोर्ट में समझौते की राशि या खास business timetable नहीं दिया गया। स्रोत: hankyung.com"
-      },
-      "id": {
-        "title": "Bithumb Teken MOU dengan SSID, Anak SSI Securities, untuk Bursa Aset Virtual Vietnam",
-        "excerpt": "Bithumb mengatakan pada 7 Mei bahwa pihaknya menandatangani MOU komprehensif dengan SSID, anak SSI Securities, perusahaan sekuritas terbesar Vietnam, untuk bisnis bursa aset virtual lokal.",
-        "body": "Bithumb mengatakan pada 7 Mei bahwa pihaknya menandatangani nota kesepahaman komprehensif dengan SSID, anak perusahaan SSI Securities yang disebut sebagai perusahaan sekuritas terbesar di Vietnam, untuk bisnis bursa aset virtual lokal. Kesepakatan ini ditujukan untuk kerja sama luas terkait bursa aset virtual di Vietnam. Foto yang dirilis menunjukkan CEO Bithumb Lee Jae-won dan CEO SSID Nguyen Khac Hai berjabat tangan setelah MOU. Laporan tidak memuat nilai kesepakatan atau jadwal bisnis yang terperinci. Sumber: hankyung.com"
       }
     }
   }
