@@ -1,5 +1,230 @@
 [
   {
+    "id": "e65604803ff4",
+    "slug": "홍콩-상장-하이닉스-2배-etf-테슬라-넘었다-388525",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-05-08T08:16:52.531Z",
+    "updatedAt": "2026-05-08T08:16:52.531Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/stock/12041238",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12041238",
+    "titleFingerprint": "d956bcabe155f8aa262084e8ead3ce6b8a3270cf",
+    "dedupKeys": [
+      "e65604803ff44138a96b76b3d1b353e443086c9b",
+      "d956bcabe155f8aa262084e8ead3ce6b8a3270cf",
+      "2d073a259d99395fdcc9e07ab5f5aea4f07d78be"
+    ],
+    "imageUrl": "/images/articles/e65604803ff4.png",
+    "i18n": {
+      "ko": {
+        "title": "SK하이닉스 2배 ETF, 테슬라 2배 TSLL 제치고 세계 최대 등극",
+        "excerpt": "홍콩 상장 SK하이닉스 2배 레버리지 ETF가 테슬라 2배 레버리지 ETF TSLL을 넘어 세계 최대 단일종목 레버리지 ETF에 올랐다고 mk.co.kr이 전했다.",
+        "body": "홍콩에 상장된 SK하이닉스 2배 레버리지 상장지수펀드(ETF)가 테슬라 2배 레버리지 ETF인 TSLL을 제치고 전 세계 최대 단일종목 레버리지 ETF로 올라섰다. mk.co.kr에 따르면 이 상품은 특정 종목인 SK하이닉스의 주가 흐름을 2배로 추종하는 구조의 레버리지 ETF다. 기존에 글로벌 단일종목 레버리지 ETF 시장에서 주목받던 테슬라 2배 상품 TSLL을 넘어섰다는 점에서 투자자 관심의 무게가 달라졌음을 보여준다. 다만 레버리지 ETF는 기초 종목 움직임을 확대해 반영하는 만큼 변동성도 함께 커질 수 있다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "SK Hynix 2x ETF Overtakes Tesla TSLL as World’s Largest",
+        "excerpt": "A Hong Kong-listed 2x leveraged SK Hynix ETF has surpassed Tesla’s 2x leveraged ETF TSLL to become the world’s largest single-stock leveraged ETF, mk.co.kr reported.",
+        "body": "A Hong Kong-listed 2x leveraged exchange-traded fund tracking SK Hynix has overtaken Tesla’s 2x leveraged ETF, TSLL, to become the world’s largest single-stock leveraged ETF. According to mk.co.kr, the product is structured to follow the share-price movement of SK Hynix at twice the rate. Its rise above TSLL, long a closely watched Tesla-linked leveraged product, highlights a shift in investor attention within the single-stock leveraged ETF market. Because leveraged ETFs amplify the movement of their underlying stock, their volatility can also increase. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "SKハイニックス2倍ETF、テスラTSLL抜き世界最大に",
+        "excerpt": "香港上場のSKハイニックス2倍レバレッジETFが、テスラ2倍レバレッジETFのTSLLを上回り、世界最大の単一銘柄レバレッジETFになったとmk.co.krが伝えた。",
+        "body": "香港に上場するSKハイニックス2倍レバレッジ上場投資信託（ETF）が、テスラ2倍レバレッジETFであるTSLLを抜き、世界最大の単一銘柄レバレッジETFとなった。mk.co.krによると、この商品は特定銘柄であるSKハイニックスの株価変動を2倍で追随する仕組みのレバレッジETFだ。これまで世界の単一銘柄レバレッジETF市場で注目されてきたテスラ2倍商品TSLLを上回った点は、投資家の関心の重心が変化していることを示す。ただし、レバレッジETFは基礎銘柄の動きを拡大して反映するため、変動性も大きくなり得る。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "SK海力士2倍ETF超越特斯拉TSLL，成全球最大",
+        "excerpt": "据mk.co.kr报道，香港上市的SK海力士2倍杠杆ETF已超过特斯拉2倍杠杆ETF TSLL，成为全球最大的单一股票杠杆ETF。",
+        "body": "在香港上市的SK海力士2倍杠杆交易所交易基金（ETF）已超过特斯拉2倍杠杆ETF TSLL，成为全球最大的单一股票杠杆ETF。据mk.co.kr报道，该产品以2倍方式跟踪单一股票SK海力士的股价走势。它超越此前在全球单一股票杠杆ETF市场备受关注的特斯拉2倍产品TSLL，显示投资者关注重点出现变化。不过，杠杆ETF会放大标的股票的价格波动，因此波动性也可能同步上升。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "ETF 2x de SK Hynix supera al TSLL de Tesla y lidera el mundo",
+        "excerpt": "Un ETF apalancado 2x de SK Hynix listado en Hong Kong superó al ETF 2x de Tesla TSLL y pasó a ser el mayor ETF apalancado de una sola acción del mundo, informó mk.co.kr.",
+        "body": "Un fondo cotizado apalancado 2x sobre SK Hynix, listado en Hong Kong, superó al ETF apalancado 2x de Tesla, TSLL, y se convirtió en el mayor ETF apalancado de una sola acción del mundo. Según mk.co.kr, el producto está diseñado para seguir al doble el movimiento de la acción de SK Hynix. Que haya rebasado a TSLL, un producto 2x de Tesla ampliamente observado en el mercado global de ETF apalancados de acciones individuales, muestra un cambio en el foco de los inversionistas. Sin embargo, los ETF apalancados amplifican el movimiento del activo subyacente, por lo que también puede aumentar su volatilidad. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "ETF 2x da SK Hynix supera TSLL da Tesla e vira maior do mundo",
+        "excerpt": "Um ETF alavancado 2x da SK Hynix listado em Hong Kong ultrapassou o ETF 2x da Tesla TSLL e se tornou o maior ETF alavancado de ação única do mundo, informou o mk.co.kr.",
+        "body": "Um fundo negociado em bolsa alavancado 2x da SK Hynix, listado em Hong Kong, ultrapassou o ETF alavancado 2x da Tesla, TSLL, e se tornou o maior ETF alavancado de ação única do mundo. Segundo o mk.co.kr, o produto acompanha em duas vezes o movimento das ações da SK Hynix. A superação do TSLL, produto 2x da Tesla que vinha recebendo atenção no mercado global de ETFs alavancados de ações individuais, mostra uma mudança no foco dos investidores. Ainda assim, ETFs alavancados ampliam os movimentos do ativo de referência, o que também pode elevar a volatilidade. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "SK-Hynix-2x-ETF überholt Tesla-TSLL und wird weltweit größter",
+        "excerpt": "Ein in Hongkong gelisteter 2x-Leverage-ETF auf SK Hynix hat Teslas 2x-ETF TSLL überholt und ist nun der weltweit größte gehebelte Einzelaktien-ETF, berichtete mk.co.kr.",
+        "body": "Ein in Hongkong gelisteter 2x-gehebelter börsengehandelter Fonds auf SK Hynix hat Teslas 2x-Leverage-ETF TSLL überholt und ist zum weltweit größten gehebelten Einzelaktien-ETF aufgestiegen. Laut mk.co.kr ist das Produkt so strukturiert, dass es die Kursbewegung der SK-Hynix-Aktie mit dem Faktor zwei abbildet. Dass es TSLL, ein bislang stark beachtetes Tesla-2x-Produkt im globalen Markt für gehebelte Einzelaktien-ETFs, übertrifft, zeigt eine Verschiebung der Anlegeraufmerksamkeit. Da gehebelte ETFs die Bewegung des Basiswerts verstärken, kann auch die Volatilität zunehmen. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "L’ETF 2x SK Hynix dépasse le TSLL de Tesla et devient numéro un",
+        "excerpt": "Un ETF à effet de levier 2x sur SK Hynix coté à Hong Kong a dépassé l’ETF 2x de Tesla TSLL pour devenir le plus grand ETF à effet de levier sur action unique au monde, selon mk.co.kr.",
+        "body": "Un fonds coté à effet de levier 2x sur SK Hynix, coté à Hong Kong, a dépassé l’ETF à effet de levier 2x de Tesla, TSLL, pour devenir le plus grand ETF à effet de levier sur action unique au monde. Selon mk.co.kr, ce produit suit à deux fois l’évolution du cours de l’action SK Hynix. Son passage devant TSLL, un produit 2x lié à Tesla très suivi sur le marché mondial des ETF à effet de levier sur actions individuelles, montre un déplacement de l’attention des investisseurs. Toutefois, les ETF à effet de levier amplifient les mouvements du titre sous-jacent, ce qui peut aussi accroître la volatilité. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "صندوق SK Hynix برافعة 2x يتجاوز TSLL لتسلا ويصبح الأكبر عالميا",
+        "excerpt": "أفاد mk.co.kr بأن صندوق SK Hynix برافعة مالية 2x المدرج في هونغ كونغ تجاوز صندوق تسلا TSLL برافعة 2x ليصبح أكبر صندوق رافعة لسهم منفرد في العالم.",
+        "body": "تجاوز صندوق المؤشرات المتداولة برافعة مالية 2x على سهم SK Hynix، والمدرج في هونغ كونغ، صندوق تسلا برافعة 2x المعروف باسم TSLL، ليصبح أكبر صندوق مؤشرات متداولة برافعة مالية لسهم منفرد في العالم. وبحسب mk.co.kr، صمم المنتج ليتتبع حركة سهم SK Hynix بمقدار الضعف. وتقدمه على TSLL، الذي كان من أبرز منتجات الرافعة المرتبطة بتسلا في سوق الصناديق العالمية لسهم واحد، يشير إلى تغير في موضع اهتمام المستثمرين. لكن صناديق الرافعة تضخم حركة السهم الأساسي، ما قد يزيد التقلبات أيضا. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "SK Hynix 2x ETF ने Tesla TSLL को पीछे छोड़कर वैश्विक बढ़त ली",
+        "excerpt": "Hong Kong में सूचीबद्ध SK Hynix 2x leveraged ETF ने Tesla के 2x leveraged ETF TSLL को पीछे छोड़कर दुनिया का सबसे बड़ा single-stock leveraged ETF स्थान हासिल किया, mk.co.kr ने बताया।",
+        "body": "Hong Kong में सूचीबद्ध SK Hynix 2x leveraged exchange-traded fund ने Tesla के 2x leveraged ETF TSLL को पीछे छोड़ दिया और दुनिया का सबसे बड़ा single-stock leveraged ETF बन गया। mk.co.kr के अनुसार, यह उत्पाद SK Hynix के शेयर मूल्य की चाल को दो गुना दर से ट्रैक करने के लिए संरचित है। TSLL, जो वैश्विक single-stock leveraged ETF बाजार में Tesla से जुड़ा प्रमुख 2x उत्पाद रहा है, उससे आगे निकलना निवेशकों के ध्यान में बदलाव को दिखाता है। हालांकि leveraged ETF अपने underlying stock की चाल को बढ़ाकर दर्शाते हैं, इसलिए उनमें volatility भी बढ़ सकती है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "ETF 2x SK Hynix Kalahkan TSLL Tesla, Jadi Terbesar di Dunia",
+        "excerpt": "ETF leveraged 2x SK Hynix yang tercatat di Hong Kong melampaui ETF leveraged 2x Tesla TSLL dan menjadi ETF leveraged saham tunggal terbesar di dunia, lapor mk.co.kr.",
+        "body": "ETF leveraged 2x SK Hynix yang tercatat di Hong Kong telah melampaui ETF leveraged 2x Tesla, TSLL, dan menjadi ETF leveraged saham tunggal terbesar di dunia. Menurut mk.co.kr, produk ini dirancang untuk mengikuti pergerakan harga saham SK Hynix dengan pengali dua kali. Pencapaiannya melewati TSLL, produk 2x Tesla yang selama ini mendapat perhatian di pasar global ETF leveraged saham tunggal, menunjukkan pergeseran fokus investor. Namun, ETF leveraged memperbesar pergerakan saham acuan, sehingga volatilitasnya juga dapat meningkat. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "f03f9e53faf5",
+    "slug": "퇴직연금-머니무브-한투는-연금자산-누적-1조원-넘어서-218422",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-05-08T08:15:58.535Z",
+    "updatedAt": "2026-05-08T08:15:58.535Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/stock/12041243",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12041243",
+    "titleFingerprint": "bd7b89c92660361488294654d0491788b6725f40",
+    "dedupKeys": [
+      "f03f9e53faf5ef8f2a7f1e5db167ab13bd7c2cf5",
+      "bd7b89c92660361488294654d0491788b6725f40",
+      "983688d15043a0f7ef46d96dc23069026abb2598"
+    ],
+    "imageUrl": "/images/articles/f03f9e53faf5.jpg",
+    "i18n": {
+      "ko": {
+        "title": "퇴직연금 머니무브 본격화, 한국투자 연금자산 1조원 돌파",
+        "excerpt": "증시 활황 속 퇴직연금 가입자의 실적배당형 상품 비중이 높아지며, 한국투자증권은 연금자산 누적 1조원을 넘어섰다.",
+        "body": "증시 활황이 이어지면서 퇴직연금 시장에서도 실적배당형 상품 비중이 높아지고 있다. 2024년 10월부터는 퇴직연금 가입자가 기존 운용 상품을 해지하지 않고도 다른 금융사로 옮길 수 있는 제도가 시행되며 머니무브가 본격화됐다. 이 흐름 속에서 한국투자증권은 연금자산 누적 규모가 1조원을 넘어섰다. 퇴직연금 가입자의 선택권이 넓어지고 금융사 간 경쟁이 커지면서 실적배당형 상품 중심의 자산 이동이 이어질 가능성이 주목된다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Retirement Pension Money Move Accelerates as Korea Investment Tops KRW 1 Trillion",
+        "excerpt": "Amid a buoyant stock market, performance-based retirement pension products are gaining share, while Korea Investment Securities’ pension assets surpassed KRW 1 trillion.",
+        "body": "As the stock market remains active, the share of performance-based products in retirement pensions is rising. Since October 2024, a system has allowed retirement pension subscribers to transfer their existing products to another financial company without terminating them, accelerating the money move. In this environment, Korea Investment Securities’ accumulated pension assets exceeded KRW 1 trillion. With subscribers gaining wider choice and competition among financial firms intensifying, continued asset movement centered on performance-based products is drawing attention. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "退職年金のマネームーブ加速、韓国投資の年金資産1兆ウォン突破",
+        "excerpt": "株式市場の活況を背景に退職年金で実績配当型商品の比率が高まり、韓国投資証券の年金資産は累計1兆ウォンを超えた。",
+        "body": "株式市場の活況が続くなか、退職年金市場でも実績配当型商品の比率が高まっている。2024年10月からは、退職年金加入者が既存の運用商品を解約せずに他の金融会社へ移せる制度が始まり、マネームーブが本格化した。この流れのなかで、韓国投資証券の年金資産累計額は1兆ウォンを突破した。加入者の選択肢が広がり、金融会社間の競争が強まることで、実績配当型商品を中心とした資産移動が続くか注目される。出所: mk.co.kr"
+      },
+      "zh": {
+        "title": "退休金资金迁移加速，韩国投资证券养老金资产突破1万亿韩元",
+        "excerpt": "在股市活跃背景下，退休养老金中实绩分红型产品占比上升，韩国投资证券养老金资产累计超过1万亿韩元。",
+        "body": "随着股市持续活跃，退休养老金市场中实绩分红型产品的比重正在提高。自2024年10月起，退休养老金用户可在不解约原有运用产品的情况下，将其转至其他金融机构，资金迁移由此加速。在这一趋势下，韩国投资证券的养老金资产累计规模已超过1万亿韩元。随着用户选择权扩大、金融机构之间竞争加剧，以实绩分红型产品为中心的资产流动是否延续受到关注。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "El movimiento de pensiones se acelera y Korea Investment supera KRW 1 billón",
+        "excerpt": "Con el auge bursátil, crece el peso de productos de rendimiento en pensiones de retiro y Korea Investment Securities superó KRW 1 billón en activos acumulados.",
+        "body": "Con la fortaleza del mercado bursátil, aumenta la proporción de productos de rendimiento variable dentro de las pensiones de retiro. Desde octubre de 2024, los afiliados pueden trasladar los productos que ya gestionaban a otra entidad financiera sin cancelarlos, lo que impulsó el movimiento de dinero. En este contexto, Korea Investment Securities superó KRW 1 billón en activos de pensiones acumulados. La ampliación de opciones para los afiliados y la mayor competencia entre firmas financieras ponen el foco en si continuará el traslado de activos hacia productos de rendimiento. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Migração em previdência acelera e Korea Investment supera KRW 1 trilhão",
+        "excerpt": "Com o mercado acionário aquecido, cresce a fatia de produtos de rendimento em previdência, enquanto a Korea Investment Securities passou de KRW 1 trilhão em ativos.",
+        "body": "Com o mercado acionário em alta, a participação de produtos com rendimento vinculado ao desempenho vem crescendo na previdência de aposentadoria. Desde outubro de 2024, os participantes podem transferir produtos já administrados para outra instituição financeira sem encerrá-los, acelerando a movimentação de recursos. Nesse cenário, os ativos previdenciários acumulados da Korea Investment Securities superaram KRW 1 trilhão. Com mais opções para participantes e maior competição entre instituições financeiras, chama atenção a continuidade da migração para produtos de desempenho. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Renten-Money-Move nimmt Fahrt auf, Korea Investment über KRW 1 Bio.",
+        "excerpt": "Im lebhaften Aktienmarkt steigt der Anteil renditeabhängiger Produkte in Betriebsrenten, während Korea Investment Securities über KRW 1 Bio. an Rentenvermögen erreichte.",
+        "body": "Mit dem anhaltend lebhaften Aktienmarkt steigt auch im Markt für Betriebsrenten der Anteil renditeabhängiger Produkte. Seit Oktober 2024 können Rentensparer bestehende Anlageprodukte zu einem anderen Finanzunternehmen übertragen, ohne sie aufzulösen, wodurch der Money Move an Dynamik gewonnen hat. In diesem Umfeld überschritt das kumulierte Rentenvermögen von Korea Investment Securities KRW 1 Billion. Da die Wahlmöglichkeiten der Sparer zunehmen und der Wettbewerb zwischen Finanzunternehmen wächst, rückt die weitere Verlagerung von Vermögen in renditeabhängige Produkte in den Fokus. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Le transfert des retraites s’accélère, Korea Investment dépasse KRW 1 000 Md",
+        "excerpt": "Avec la vigueur des marchés actions, les produits à rendement variable gagnent du poids dans l’épargne retraite, tandis que Korea Investment Securities dépasse KRW 1 000 Md.",
+        "body": "Alors que les marchés actions restent dynamiques, la part des produits à rendement lié à la performance augmente dans l’épargne retraite. Depuis octobre 2024, les souscripteurs peuvent transférer les produits qu’ils détenaient vers une autre société financière sans les résilier, ce qui accélère le mouvement des capitaux. Dans ce contexte, les actifs retraite cumulés de Korea Investment Securities ont dépassé KRW 1 000 milliards. L’élargissement du choix des souscripteurs et la concurrence accrue entre institutions financières placent les transferts vers les produits de performance au centre de l’attention. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "انتقال أموال التقاعد يتسارع وكوريا إنفستمنت تتجاوز تريليون وون",
+        "excerpt": "مع نشاط سوق الأسهم، ترتفع حصة منتجات التقاعد المرتبطة بالأداء، فيما تجاوزت أصول Korea Investment Securities التقاعدية تريليون وون كوري.",
+        "body": "مع استمرار نشاط سوق الأسهم، ترتفع في سوق خطط التقاعد حصة المنتجات المرتبطة بالأداء. ومنذ أكتوبر 2024، أصبح بإمكان المشتركين نقل المنتجات التي كانوا يديرونها إلى شركة مالية أخرى من دون إنهائها، ما سرّع انتقال الأموال. وفي هذا السياق، تجاوزت الأصول التقاعدية المتراكمة لدى Korea Investment Securities تريليون وون كوري. ومع اتساع خيارات المشتركين واحتدام المنافسة بين الشركات المالية، يتركز الاهتمام على استمرار انتقال الأصول نحو المنتجات المرتبطة بالأداء. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "रिटायरमेंट पेंशन मनी मूव तेज, Korea Investment की संपत्ति KRW 1 ट्रिलियन पार",
+        "excerpt": "शेयर बाजार की तेजी के बीच रिटायरमेंट पेंशन में प्रदर्शन-आधारित उत्पादों की हिस्सेदारी बढ़ रही है और Korea Investment Securities की पेंशन संपत्ति KRW 1 ट्रिलियन से ऊपर गई।",
+        "body": "शेयर बाजार में सक्रियता जारी रहने से रिटायरमेंट पेंशन बाजार में भी प्रदर्शन-आधारित उत्पादों की हिस्सेदारी बढ़ रही है। अक्टूबर 2024 से ऐसी व्यवस्था लागू हुई जिसमें पेंशन सदस्य अपने मौजूदा निवेश उत्पाद को समाप्त किए बिना उसे दूसरी वित्तीय कंपनी में स्थानांतरित कर सकते हैं, जिससे धन का प्रवाह तेज हुआ। इसी रुझान में Korea Investment Securities की संचित पेंशन संपत्ति KRW 1 ट्रिलियन से अधिक हो गई। सदस्यों के विकल्प बढ़ने और वित्तीय कंपनियों के बीच प्रतिस्पर्धा तेज होने से प्रदर्शन-आधारित उत्पादों की ओर परिसंपत्ति स्थानांतरण पर ध्यान बना हुआ है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Money Move Dana Pensiun Menguat, Korea Investment Tembus KRW 1 Triliun",
+        "excerpt": "Di tengah pasar saham yang bergairah, porsi produk berbasis kinerja dalam dana pensiun meningkat, sementara aset pensiun Korea Investment Securities melampaui KRW 1 triliun.",
+        "body": "Seiring pasar saham yang tetap bergairah, porsi produk berbasis kinerja dalam dana pensiun juga meningkat. Sejak Oktober 2024, peserta dana pensiun dapat memindahkan produk yang sudah dikelola ke perusahaan keuangan lain tanpa menghentikannya, sehingga money move makin nyata. Dalam arus ini, akumulasi aset pensiun Korea Investment Securities telah melampaui KRW 1 triliun. Dengan pilihan peserta yang lebih luas dan persaingan antarlembaga keuangan yang meningkat, pergerakan aset menuju produk berbasis kinerja menjadi perhatian. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "a1c55e8ec657",
+    "slug": "한국콜마-1분기-매출-7280억영업익-789억역대-최대-실적-785994",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-05-08T08:15:04.521Z",
+    "updatedAt": "2026-05-08T08:15:04.521Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/economy/12041254",
+    "canonicalUrl": "https://www.mk.co.kr/news/economy/12041254",
+    "titleFingerprint": "575eaf341e2bc73e2530f09ac4ec497d904870f7",
+    "dedupKeys": [
+      "a1c55e8ec657dac78afd1e023d78be4890290d90",
+      "575eaf341e2bc73e2530f09ac4ec497d904870f7",
+      "b09c25019808fe507cf93088027956b3bfe19244"
+    ],
+    "imageUrl": "/images/articles/a1c55e8ec657.png",
+    "i18n": {
+      "ko": {
+        "title": "한국콜마 1분기 매출 7280억, 화장품 수출 호조에 역대 최대 실적",
+        "excerpt": "한국콜마가 화장품 수출 강세에 힘입어 올해 1분기 매출 7280억원, 영업이익 789억원을 기록하며 역대 최대 실적을 냈고 주가는 7.71% 상승했다.",
+        "body": "화장품 연구·개발·생산(ODM) 기업 한국콜마가 올해 1분기 역대 최대 실적을 기록했다. 매출은 전년 대비 11.5% 증가한 7280억원, 영업이익은 789억원으로 집계됐다. 호실적의 배경으로는 화장품 수출 강세가 제시됐다. 실적 발표 이후 시장은 긍정적으로 반응해 한국콜마 주가는 7.71% 상승했다. 이번 성과는 ODM 사업에서 수출 수요가 실적 개선을 이끈 사례로 해석된다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Kolmar Korea Q1 Revenue Hits 728 Billion Won on Cosmetics Export Strength",
+        "excerpt": "Kolmar Korea posted record first-quarter results, with revenue of 728 billion won and operating profit of 78.9 billion won, driven by strong cosmetics exports; shares rose 7.71%.",
+        "body": "Kolmar Korea, a cosmetics research, development and manufacturing ODM company, recorded its highest-ever first-quarter performance. Revenue rose 11.5% year on year to 728 billion won, while operating profit came in at 78.9 billion won. The strong result was attributed to solid cosmetics exports. After the earnings news, the market responded positively, sending Kolmar Korea shares up 7.71%. The figures show how export demand supported earnings improvement in the ODM business. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "韓国コルマー、第1四半期売上7280億ウォン 輸出好調で過去最高",
+        "excerpt": "韓国コルマーは化粧品輸出の強さを背景に、第1四半期の売上高7280億ウォン、営業利益789億ウォンを記録し、株価は7.71%上昇した。",
+        "body": "化粧品の研究・開発・生産を手がけるODM企業、韓国コルマーは今年第1四半期に過去最高の業績を記録した。売上高は前年同期比11.5%増の7280億ウォン、営業利益は789億ウォンとなった。好業績の背景には化粧品輸出の堅調さがある。発表後、市場は前向きに反応し、韓国コルマーの株価は7.71%上昇した。今回の結果は、ODM事業で輸出需要が業績改善を支えた事例といえる。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "韩国科玛一季度营收7280亿韩元，化妆品出口强劲创历史新高",
+        "excerpt": "韩国科玛受化妆品出口强劲推动，今年一季度实现营收7280亿韩元、营业利润789亿韩元，创下历史最高业绩，股价上涨7.71%。",
+        "body": "化妆品研发与生产ODM企业韩国科玛今年第一季度创下历史最高业绩。公司营收同比增长11.5%，达到7280亿韩元，营业利润为789亿韩元。业绩向好的背景是化妆品出口保持强劲。业绩消息发布后，市场反应积极，韩国科玛股价上涨7.71%。这一结果显示，在ODM业务中，出口需求推动了业绩改善。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Kolmar Korea logra ingresos trimestrales de 728.000 millones de wones",
+        "excerpt": "Kolmar Korea registró en el primer trimestre ingresos de 728.000 millones de wones y beneficio operativo de 78.900 millones, impulsada por exportaciones de cosméticos; la acción subió 7,71%.",
+        "body": "Kolmar Korea, empresa ODM dedicada a la investigación, desarrollo y producción de cosméticos, registró en el primer trimestre su mejor resultado histórico. Los ingresos aumentaron un 11,5% interanual hasta 728.000 millones de wones, mientras que el beneficio operativo fue de 78.900 millones de wones. El buen desempeño se atribuyó a la fortaleza de las exportaciones de cosméticos. Tras conocerse los resultados, el mercado reaccionó positivamente y la acción subió un 7,71%. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Kolmar Korea tem receita de 728 bi de won no 1º tri com exportações fortes",
+        "excerpt": "A Kolmar Korea registrou no 1º trimestre receita de 728 bilhões de won e lucro operacional de 78,9 bilhões, impulsionada por exportações de cosméticos; ações subiram 7,71%.",
+        "body": "A Kolmar Korea, empresa ODM de pesquisa, desenvolvimento e produção de cosméticos, registrou no primeiro trimestre seu maior desempenho histórico. A receita cresceu 11,5% em relação ao ano anterior, para 728 bilhões de won, enquanto o lucro operacional foi de 78,9 bilhões de won. O resultado positivo foi atribuído à força das exportações de cosméticos. Após a divulgação, o mercado reagiu bem e as ações da Kolmar Korea subiram 7,71%. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Kolmar Korea erzielt im ersten Quartal 728 Mrd. Won Umsatz dank Exporten",
+        "excerpt": "Kolmar Korea meldete im ersten Quartal Rekordzahlen mit 728 Mrd. Won Umsatz und 78,9 Mrd. Won operativem Gewinn, gestützt durch starke Kosmetikexporte; die Aktie stieg 7,71%.",
+        "body": "Kolmar Korea, ein ODM-Unternehmen für Forschung, Entwicklung und Produktion von Kosmetik, erzielte im ersten Quartal das beste Ergebnis seiner Geschichte. Der Umsatz stieg im Jahresvergleich um 11,5% auf 728 Mrd. Won, der operative Gewinn lag bei 78,9 Mrd. Won. Als Grund für die starken Zahlen wurde die robuste Nachfrage im Kosmetikexport genannt. Nach der Veröffentlichung reagierte der Markt positiv, die Aktie von Kolmar Korea legte um 7,71% zu. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Kolmar Korea atteint 728 milliards de wons de revenus au 1er trimestre",
+        "excerpt": "Kolmar Korea a signé un record au premier trimestre avec 728 milliards de wons de revenus et 78,9 milliards de bénéfice opérationnel, porté par les exportations de cosmétiques; l’action a gagné 7,71%.",
+        "body": "Kolmar Korea, entreprise ODM de recherche, développement et production de cosmétiques, a enregistré au premier trimestre la meilleure performance de son histoire. Le chiffre d’affaires a progressé de 11,5% sur un an à 728 milliards de wons, tandis que le bénéfice opérationnel a atteint 78,9 milliards de wons. Cette performance est liée à la vigueur des exportations de cosmétiques. Après l’annonce, le marché a réagi favorablement et l’action Kolmar Korea a gagné 7,71%. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "كولمار كوريا تسجل 728 مليار وون إيرادات فصلية بدعم صادرات التجميل",
+        "excerpt": "حققت كولمار كوريا في الربع الأول إيرادات قدرها 728 مليار وون وربحا تشغيليا 78.9 مليار وون بفضل قوة صادرات مستحضرات التجميل، وارتفع السهم 7.71%.",
+        "body": "سجلت كولمار كوريا، وهي شركة ODM تعمل في بحث وتطوير وإنتاج مستحضرات التجميل، أفضل أداء في تاريخها خلال الربع الأول. وارتفعت الإيرادات بنسبة 11.5% على أساس سنوي إلى 728 مليار وون، فيما بلغ الربح التشغيلي 78.9 مليار وون. وجاءت النتائج القوية بدعم من متانة صادرات مستحضرات التجميل. وبعد إعلان النتائج، تفاعل السوق إيجابيا وارتفع سهم كولمار كوريا 7.71%. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "Kolmar Korea की Q1 आय 728 अरब वॉन, कॉस्मेटिक्स निर्यात से रिकॉर्ड प्रदर्शन",
+        "excerpt": "Kolmar Korea ने कॉस्मेटिक्स निर्यात की मजबूती से पहली तिमाही में 728 अरब वॉन की आय और 78.9 अरब वॉन का परिचालन लाभ दर्ज किया; शेयर 7.71% चढ़ा।",
+        "body": "कॉस्मेटिक्स के शोध, विकास और उत्पादन वाली ODM कंपनी Kolmar Korea ने इस साल पहली तिमाही में अपना अब तक का सर्वश्रेष्ठ प्रदर्शन दर्ज किया। राजस्व सालाना आधार पर 11.5% बढ़कर 728 अरब वॉन रहा, जबकि परिचालन लाभ 78.9 अरब वॉन रहा। मजबूत नतीजों की वजह कॉस्मेटिक्स निर्यात की मजबूती बताई गई। नतीजों के बाद बाजार ने सकारात्मक प्रतिक्रिया दी और Kolmar Korea का शेयर 7.71% बढ़ा। यह ODM कारोबार में निर्यात मांग से आय सुधार का संकेत देता है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Kolmar Korea Raih Pendapatan Q1 728 Miliar Won Berkat Ekspor Kosmetik",
+        "excerpt": "Kolmar Korea mencatat kinerja kuartal pertama terbaik dengan pendapatan 728 miliar won dan laba operasi 78,9 miliar won, didorong kuatnya ekspor kosmetik; saham naik 7,71%.",
+        "body": "Kolmar Korea, perusahaan ODM untuk riset, pengembangan, dan produksi kosmetik, mencatat kinerja tertinggi sepanjang sejarah pada kuartal pertama tahun ini. Pendapatan naik 11,5% secara tahunan menjadi 728 miliar won, sementara laba operasi mencapai 78,9 miliar won. Kinerja kuat tersebut didorong oleh ekspor kosmetik yang solid. Setelah laporan hasil dirilis, pasar merespons positif dan saham Kolmar Korea naik 7,71%. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
     "id": "7109f3ec5da7",
     "slug": "세계-4위-베트남-코인-시장빗썸-글로벌-가상자산-거래소와-진출-경쟁-319313",
     "channelId": "ETF",
@@ -4271,231 +4496,6 @@
         "title": "Chip AI dalam bingkai ‘baik, buruk, aneh’: Nvidia, Intel dan Google disorot",
         "excerpt": "mk.co.kr membingkai pasar semikonduktor AI seperti film The Good, the Bad, the Weird, dengan menyoroti Nvidia, Intel dan Google dari sudut investor.",
         "body": "Persaingan di pasar semikonduktor kecerdasan buatan menarik perhatian investor. mk.co.kr menggambarkannya melalui film The Good, the Bad, the Weird, dengan menempatkan Nvidia, Intel dan Google dalam urutan tersebut. Artikel asli menonjolkan Nvidia lewat ungkapan tentang saham yang memberi Shaquille O’Neal 1 triliun won, sekaligus menjelaskan bahwa tiap perusahaan memiliki citra berbeda di arena chip AI. Bagi investor AI, Nvidia disajikan sebagai kata kunci utama, sementara Intel dan Google disebut sebagai pembanding dalam kerangka yang sama. Pembacaan pasar dapat berbeda menurut kekuatan teknologi yang dipersepsikan dan sentimen investor. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "64ec495f7ce3",
-    "slug": "앱토스-ai-금융-인프라-확충에-690억-투자-597754",
-    "channelId": "ETF",
-    "category": "etf",
-    "publishedAt": "2026-05-07T18:44:14.345Z",
-    "updatedAt": "2026-05-07T18:44:14.345Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/2026050718866",
-    "canonicalUrl": "https://www.hankyung.com/article/2026050718866",
-    "titleFingerprint": "99c42896a13e206ee2364f29563b2596ce52b70d",
-    "dedupKeys": [
-      "64ec495f7ce37c42e058b56cb38abb1a149fe887",
-      "99c42896a13e206ee2364f29563b2596ce52b70d",
-      "1da8648aeff2b9eff7512170de60d03bc7d6c7c9"
-    ],
-    "imageUrl": "/images/articles/64ec495f7ce3.png",
-    "i18n": {
-      "ko": {
-        "title": "앱토스, AI 금융 인프라 확충에 690억 투자…핵심 내용 정리",
-        "excerpt": "앱토스가 AI 금융 인프라 확충을 위해 690억 원을 투자한다고 hankyung.com이 전했다. 투자 목적은 금융 분야 AI 기반 인프라 강화에 맞춰졌다.",
-        "body": "앱토스가 AI 금융 인프라 확충을 위해 690억 원을 투자한다고 hankyung.com이 보도했다. 이번 투자에서 확인된 핵심 내용은 투자 주체가 앱토스이며, 투자 규모가 690억 원이라는 점이다. 투자 목적은 AI를 활용한 금융 인프라 확대와 관련돼 있다. 원문에서 추가적인 집행 일정, 세부 투자처, 사업 범위, 기대 효과는 별도로 제시되지 않았다. 따라서 이번 소식은 앱토스가 AI 금융 인프라 분야에 대규모 자금을 투입한다는 사실 자체에 초점이 맞춰진다. 출처: hankyung.com"
-      },
-      "en": {
-        "title": "Aptos to Invest 69 Billion Won in AI Financial Infrastructure",
-        "excerpt": "Aptos will invest 69 billion won to expand AI financial infrastructure, according to hankyung.com. The investment is aimed at strengthening AI-based finance infrastructure.",
-        "body": "Aptos will invest 69 billion won to expand AI financial infrastructure, hankyung.com reported. The key confirmed details are that Aptos is the investor and that the investment size is 69 billion won. The stated purpose is linked to expanding financial infrastructure using AI. The original source did not separately provide an execution schedule, detailed investment targets, business scope, or expected effects. Therefore, the news centers on the fact that Aptos is committing a large amount of capital to the AI financial infrastructure field. Source: hankyung.com"
-      },
-      "ja": {
-        "title": "アプトス、AI金融インフラ拡充に690億ウォン投資",
-        "excerpt": "アプトスがAI金融インフラ拡充のため690億ウォンを投資するとhankyung.comが伝えた。投資目的は金融分野のAI基盤強化にある。",
-        "body": "アプトスがAI金融インフラ拡充のため690億ウォンを投資すると、hankyung.comが報じた。今回確認された核心は、投資主体がアプトスであり、投資規模が690億ウォンである点だ。投資目的は、AIを活用した金融インフラの拡大に関連している。原文では、具体的な実行時期、詳細な投資先、事業範囲、期待効果は別途示されていない。そのため今回のニュースは、アプトスがAI金融インフラ分野に大規模資金を投じる事実に焦点が当てられる。出典: hankyung.com"
-      },
-      "zh": {
-        "title": "Aptos将投资690亿韩元扩充AI金融基础设施",
-        "excerpt": "据hankyung.com报道，Aptos将投资690亿韩元扩充AI金融基础设施。该投资目的在于强化金融领域的AI基础设施。",
-        "body": "据hankyung.com报道，Aptos将投资690亿韩元，用于扩充AI金融基础设施。此次已确认的核心内容是，投资主体为Aptos，投资规模为690亿韩元。投资目的与扩大利用AI的金融基础设施有关。原文未另行说明具体执行时间、详细投资对象、业务范围或预期效果。因此，这则消息的重点在于Aptos将向AI金融基础设施领域投入大规模资金这一事实。来源: hankyung.com"
-      },
-      "es": {
-        "title": "Aptos invertirá 69.000 millones de wones en infraestructura financiera de IA",
-        "excerpt": "Aptos invertirá 69.000 millones de wones para ampliar infraestructura financiera de IA, informó hankyung.com. El objetivo es reforzar bases de IA en finanzas.",
-        "body": "Aptos invertirá 69.000 millones de wones para ampliar la infraestructura financiera de IA, informó hankyung.com. Los datos clave confirmados son que Aptos es la entidad inversora y que el monto asciende a 69.000 millones de wones. El objetivo está relacionado con la expansión de infraestructura financiera basada en IA. La fuente original no detalló calendario de ejecución, destinos específicos de inversión, alcance del negocio ni efectos esperados. Por ello, la noticia se centra en el hecho de que Aptos destinará una suma importante al campo de la infraestructura financiera de IA. Fuente: hankyung.com"
-      },
-      "pt": {
-        "title": "Aptos investirá 69 bilhões de won em infraestrutura financeira de IA",
-        "excerpt": "Aptos investirá 69 bilhões de won para ampliar infraestrutura financeira de IA, segundo hankyung.com. O objetivo é fortalecer bases de IA no setor financeiro.",
-        "body": "Aptos investirá 69 bilhões de won para ampliar a infraestrutura financeira de IA, informou o hankyung.com. Os principais pontos confirmados são que a Aptos é a responsável pelo investimento e que o valor chega a 69 bilhões de won. O objetivo está ligado à expansão de infraestrutura financeira com uso de IA. A fonte original não apresentou cronograma de execução, destinos específicos do investimento, escopo do negócio ou efeitos esperados. Assim, a notícia se concentra no fato de que a Aptos aplicará um volume expressivo de recursos no campo da infraestrutura financeira de IA. Fonte: hankyung.com"
-      },
-      "de": {
-        "title": "Aptos investiert 69 Milliarden Won in KI-Finanzinfrastruktur",
-        "excerpt": "Aptos investiert laut hankyung.com 69 Milliarden Won in den Ausbau von KI-Finanzinfrastruktur. Ziel ist die Stärkung KI-basierter Infrastruktur im Finanzbereich.",
-        "body": "Aptos investiert 69 Milliarden Won in den Ausbau von KI-Finanzinfrastruktur, berichtete hankyung.com. Die zentral bestätigten Angaben sind, dass Aptos der Investor ist und das Investitionsvolumen 69 Milliarden Won beträgt. Der Zweck steht im Zusammenhang mit dem Ausbau von Finanzinfrastruktur auf Basis von KI. Die Originalquelle nannte keinen gesonderten Zeitplan, keine konkreten Investitionsziele, keinen Geschäftsumfang und keine erwarteten Effekte. Damit liegt der Schwerpunkt der Meldung auf der Tatsache, dass Aptos erhebliche Mittel in den Bereich KI-Finanzinfrastruktur steckt. Quelle: hankyung.com"
-      },
-      "fr": {
-        "title": "Aptos investira 69 milliards de wons dans l’infrastructure financière IA",
-        "excerpt": "Aptos investira 69 milliards de wons pour développer l’infrastructure financière liée à l’IA, selon hankyung.com. L’objectif est de renforcer l’IA dans la finance.",
-        "body": "Aptos investira 69 milliards de wons pour développer l’infrastructure financière liée à l’IA, a rapporté hankyung.com. Les éléments confirmés sont que l’investisseur est Aptos et que le montant atteint 69 milliards de wons. L’objectif concerne l’expansion d’une infrastructure financière utilisant l’IA. La source originale n’a pas fourni séparément de calendrier d’exécution, de destinations précises d’investissement, de périmètre d’activité ni d’effets attendus. Cette information se concentre donc sur le fait qu’Aptos engage un montant important dans l’infrastructure financière IA. Source: hankyung.com"
-      },
-      "ar": {
-        "title": "أبتوس تستثمر 69 مليار وون في البنية التحتية المالية للذكاء الاصطناعي",
-        "excerpt": "ستستثمر أبتوس 69 مليار وون لتوسيع البنية التحتية المالية للذكاء الاصطناعي، وفق hankyung.com. ويتركز الهدف على تعزيز البنية المالية المعتمدة على الذكاء الاصطناعي.",
-        "body": "أفاد موقع hankyung.com بأن أبتوس ستستثمر 69 مليار وون لتوسيع البنية التحتية المالية للذكاء الاصطناعي. التفاصيل المؤكدة هي أن جهة الاستثمار هي أبتوس وأن حجم الاستثمار يبلغ 69 مليار وون. ويرتبط الهدف بتوسيع البنية التحتية المالية باستخدام الذكاء الاصطناعي. ولم يذكر المصدر الأصلي جدولا زمنيا للتنفيذ أو وجهات استثمار محددة أو نطاق الأعمال أو الآثار المتوقعة. لذلك تتركز هذه الأخبار على حقيقة أن أبتوس ستضخ مبلغا كبيرا في مجال البنية التحتية المالية للذكاء الاصطناعي. المصدر: hankyung.com"
-      },
-      "hi": {
-        "title": "Aptos AI वित्तीय अवसंरचना विस्तार में 69 अरब वॉन निवेश करेगा",
-        "excerpt": "hankyung.com के अनुसार Aptos AI वित्तीय अवसंरचना विस्तार के लिए 69 अरब वॉन निवेश करेगा। निवेश का उद्देश्य वित्त क्षेत्र में AI आधारित ढांचा मजबूत करना है।",
-        "body": "hankyung.com ने बताया कि Aptos AI वित्तीय अवसंरचना के विस्तार के लिए 69 अरब वॉन निवेश करेगा। पुष्टि की गई मुख्य जानकारी यह है कि निवेश करने वाली इकाई Aptos है और निवेश का आकार 69 अरब वॉन है। निवेश का उद्देश्य AI का उपयोग करने वाली वित्तीय अवसंरचना के विस्तार से जुड़ा है। मूल स्रोत में क्रियान्वयन की समयसीमा, विशिष्ट निवेश गंतव्य, व्यवसाय का दायरा या अपेक्षित प्रभाव अलग से नहीं दिए गए। इसलिए यह खबर इस तथ्य पर केंद्रित है कि Aptos AI वित्तीय अवसंरचना क्षेत्र में बड़ी राशि लगाएगा। स्रोत: hankyung.com"
-      },
-      "id": {
-        "title": "Aptos Investasikan 69 Miliar Won untuk Infrastruktur Keuangan AI",
-        "excerpt": "Aptos akan menginvestasikan 69 miliar won untuk memperluas infrastruktur keuangan AI, menurut hankyung.com. Tujuannya memperkuat infrastruktur AI di sektor keuangan.",
-        "body": "Aptos akan menginvestasikan 69 miliar won untuk memperluas infrastruktur keuangan AI, lapor hankyung.com. Rincian utama yang terkonfirmasi adalah bahwa Aptos menjadi pihak yang berinvestasi dan nilai investasinya mencapai 69 miliar won. Tujuan investasi ini terkait dengan perluasan infrastruktur keuangan yang menggunakan AI. Sumber asli tidak menyebutkan jadwal pelaksanaan, tujuan investasi secara rinci, cakupan bisnis, atau dampak yang diharapkan. Karena itu, berita ini berfokus pada fakta bahwa Aptos menanamkan dana besar di bidang infrastruktur keuangan AI. Sumber: hankyung.com"
-      }
-    }
-  },
-  {
-    "id": "63322f63d69e",
-    "slug": "민생회복쿠폰-소비-진작효과-예상보다-컸다-122480",
-    "channelId": "ETF",
-    "category": "etf",
-    "publishedAt": "2026-05-07T18:43:10.490Z",
-    "updatedAt": "2026-05-07T18:43:10.490Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/2026050723691",
-    "canonicalUrl": "https://www.hankyung.com/article/2026050723691",
-    "titleFingerprint": "0698038ef1357c6500f783bde3eebac16f7419b2",
-    "dedupKeys": [
-      "63322f63d69efb9788b5b8ed04ceeeb8181ae063",
-      "0698038ef1357c6500f783bde3eebac16f7419b2",
-      "8327c74da811240d4805c06672db95e0bdf1f908"
-    ],
-    "imageUrl": "/images/articles/63322f63d69e.jpg",
-    "i18n": {
-      "ko": {
-        "title": "민생회복쿠폰 소비 진작 효과, 예상 웃돌며 소상공인 매출 5.86조원 증가",
-        "excerpt": "한국조세재정연구원은 5월 7일 세미나에서 지난해 민생회복 소비쿠폰이 지급액 1000원당 소상공인 매출을 약 433원 늘렸다고 분석했다.",
-        "body": "한국조세재정연구원은 5월 7일 서울 상암동 중소기업DMC타워에서 열린 ‘민생회복 소비쿠폰, 데이터로 검증하다’ 세미나에서 지난해 지급한 민생회복 소비쿠폰의 소비 진작 효과가 예상보다 컸다고 발표했다. 정부는 지난해 7월 두 차례에 걸쳐 국민 1인당 15만~55만원, 총 13조5200억원 규모의 쿠폰을 지급했다. 연구는 지난해 11월부터 올해 4월까지 신한·삼성·현대·KB국민·BC·하나카드 등 6개 카드사 결제 데이터를 활용했다. 분석 결과 소비쿠폰 1단위당 소상공인 매출은 0.433 늘어, 총 5조8600억원의 매출 증가 효과가 나타났다. 한국경제(hankyung.com)에 따르면 이는 일반 현금성 재정사업의 소비 진작 효과 0~0.33을 웃도는 수준이다."
-      },
-      "en": {
-        "title": "Livelihood Recovery Coupons Lift Small-Business Sales More Than Expected",
-        "excerpt": "KIPF said on May 7 that last year’s livelihood recovery consumption coupons raised small-business sales by about 433 won for every 1,000 won issued.",
-        "body": "The Korea Institute of Public Finance said at a May 7 seminar in Seoul titled “Verifying Livelihood Recovery Consumption Coupons with Data” that last year’s coupons had a larger-than-expected effect on consumption. The government distributed coupons twice in July last year, worth 150,000 to 550,000 won per person and totaling 13.52 trillion won. The study used payment data from six card companies, including Shinhan, Samsung, Hyundai, KB Kookmin, BC and Hana Card, from November last year to April this year. The institute estimated the consumption-boosting effect at 0.433, meaning each unit of coupon spending increased small-business sales by 0.433. That translates into a 5.86 trillion won rise in sales. According to hankyung.com, the result exceeded the 0 to 0.33 effect generally estimated for cash-type fiscal programs."
-      },
-      "ja": {
-        "title": "民生回復クーポン、消費押し上げ効果が予想超え 小商工人売上5.86兆ウォン増",
-        "excerpt": "韓国租税財政研究院は5月7日、昨年の民生回復消費クーポンが支給額1000ウォン当たり小商工人売上を約433ウォン増やしたと分析した。",
-        "body": "韓国租税財政研究院は5月7日、ソウル上岩洞の中小企業DMCタワーで開いた「民生回復消費クーポン、データで検証する」セミナーで、昨年支給された民生回復消費クーポンの消費押し上げ効果が予想より大きかったと発表した。政府は昨年7月、2回にわたり国民1人当たり15万〜55万ウォン、総額13兆5200億ウォン規模のクーポンを支給した。研究は昨年11月から今年4月まで、信韓、サムスン、現代、KB国民、BC、ハナカードの6社の決済データを活用した。分析では、クーポン1単位当たり小商工人売上が0.433増え、合計5兆8600億ウォンの売上増加効果が出た。hankyung.comによると、これは一般的な現金性財政事業の消費誘発効果0〜0.33を上回る水準だ。"
-      },
-      "zh": {
-        "title": "民生恢复消费券拉动效果超预期 小商户销售额增5.86万亿韩元",
-        "excerpt": "韩国租税财政研究院5月7日表示，去年发放的民生恢复消费券每1000韩元使小商户销售额增加约433韩元。",
-        "body": "韩国租税财政研究院5月7日在首尔上岩洞中小企业DMC大厦举行的“用数据验证民生恢复消费券”研讨会上表示，去年发放的民生恢复消费券对消费的提振效果高于预期。韩国政府去年7月分两次向每人发放15万至55万韩元消费券，总规模为13.52万亿韩元。研究使用了去年11月至今年4月新韩、三星、现代、KB国民、BC、韩亚卡等6家国内信用卡公司的支付数据。分析显示，消费券每1个单位使小商户销售额增加0.433，相当于带来5.86万亿韩元销售增长。据hankyung.com报道，这一水平高于一般现金类财政项目0至0.33的消费提振效果。"
-      },
-      "es": {
-        "title": "Cupones de recuperación elevan ventas de pequeños comercios más de lo previsto",
-        "excerpt": "El KIPF dijo el 7 de mayo que los cupones de consumo de recuperación entregados el año pasado aumentaron las ventas de pequeños comercios en 433 won por cada 1.000 won.",
-        "body": "El Instituto Coreano de Finanzas Públicas informó el 7 de mayo, en un seminario en Seúl titulado “Verificar con datos los cupones de consumo para la recuperación del sustento”, que el efecto de los cupones entregados el año pasado fue mayor de lo previsto. El Gobierno distribuyó en julio pasado, en dos rondas, cupones de entre 150.000 y 550.000 won por persona, por un total de 13,52 billones de won. El estudio usó datos de pagos de seis emisoras de tarjetas, incluidas Shinhan, Samsung, Hyundai, KB Kookmin, BC y Hana, de noviembre del año pasado a abril de este año. El efecto estimado fue de 0,433: cada unidad de cupón elevó las ventas de pequeños comercios en 0,433. Esto equivale a un aumento de 5,86 billones de won. Según hankyung.com, supera el rango de 0 a 0,33 estimado para programas fiscales en efectivo."
-      },
-      "pt": {
-        "title": "Cupons de recuperação impulsionam vendas de pequenos negócios acima do esperado",
-        "excerpt": "O KIPF afirmou em 7 de maio que os cupons de consumo de recuperação do ano passado elevaram as vendas de pequenos negócios em cerca de 433 won a cada 1.000 won emitidos.",
-        "body": "O Instituto Coreano de Finanças Públicas afirmou em 7 de maio, em seminário em Seul intitulado “Verificando com dados os cupons de consumo para recuperação do sustento”, que os cupons pagos no ano passado tiveram efeito de estímulo ao consumo maior que o esperado. O governo distribuiu em julho passado, em duas rodadas, cupons de 150.000 a 550.000 won por pessoa, totalizando 13,52 trilhões de won. O estudo usou dados de pagamentos de seis empresas de cartão, incluindo Shinhan, Samsung, Hyundai, KB Kookmin, BC e Hana, de novembro do ano passado a abril deste ano. A análise estimou efeito de 0,433: cada unidade de cupom elevou as vendas de pequenos negócios em 0,433. Isso representa aumento de 5,86 trilhões de won. Segundo hankyung.com, o resultado supera o efeito de 0 a 0,33 normalmente estimado para programas fiscais em dinheiro."
-      },
-      "de": {
-        "title": "Recovery-Coupons steigern Konsum stärker als erwartet, Kleinbetriebe profitieren",
-        "excerpt": "Das KIPF erklärte am 7. Mai, die im Vorjahr ausgegebenen Konsumcoupons hätten den Umsatz kleiner Betriebe je 1.000 Won Ausgabe um rund 433 Won erhöht.",
-        "body": "Das Korea Institute of Public Finance teilte am 7. Mai bei einem Seminar in Seoul mit dem Titel „Livelihood Recovery Consumption Coupons mit Daten überprüfen“ mit, dass die im Vorjahr ausgegebenen Coupons den Konsum stärker als erwartet angekurbelt hätten. Die Regierung verteilte im vergangenen Juli in zwei Runden Coupons im Wert von 150.000 bis 550.000 Won pro Person, insgesamt 13,52 Billionen Won. Die Studie nutzte Zahlungsdaten von sechs Kartenunternehmen, darunter Shinhan, Samsung, Hyundai, KB Kookmin, BC und Hana Card, aus dem Zeitraum November des Vorjahres bis April dieses Jahres. Der Effekt wurde mit 0,433 beziffert: Eine Coupon-Einheit erhöhte den Umsatz kleiner Betriebe um 0,433. Daraus ergibt sich ein Umsatzplus von 5,86 Billionen Won. Laut hankyung.com liegt dies über dem üblichen Effekt von 0 bis 0,33 bei fiskalischen Barprogrammen."
-      },
-      "fr": {
-        "title": "Les coupons de relance ont stimulé les petits commerces plus que prévu",
-        "excerpt": "Le KIPF a indiqué le 7 mai que les coupons de consommation versés l’an dernier avaient accru les ventes des petits commerces d’environ 433 wons pour 1.000 wons distribués.",
-        "body": "L’Institut coréen des finances publiques a déclaré le 7 mai, lors d’un séminaire à Séoul intitulé « Vérifier les coupons de consommation de relance par les données », que les coupons versés l’an dernier avaient eu un effet plus fort que prévu sur la consommation. Le gouvernement a distribué en juillet dernier, en deux vagues, des coupons de 150.000 à 550.000 wons par personne, pour un total de 13.520 milliards de wons. L’étude s’appuie sur les données de paiement de six émetteurs de cartes, dont Shinhan, Samsung, Hyundai, KB Kookmin, BC et Hana, de novembre dernier à avril cette année. L’effet estimé est de 0,433: chaque unité de coupon a accru les ventes des petits commerces de 0,433. Cela représente 5.860 milliards de wons de ventes supplémentaires. Selon hankyung.com, ce niveau dépasse l’effet de 0 à 0,33 généralement estimé pour les programmes budgétaires en espèces."
-      },
-      "ar": {
-        "title": "قسائم تعافي المعيشة تعزز مبيعات صغار التجار بأكثر من المتوقع",
-        "excerpt": "قال المعهد الكوري للمالية العامة في 7 مايو إن قسائم الاستهلاك الموزعة العام الماضي زادت مبيعات صغار التجار بنحو 433 وون لكل 1000 وون مصروف.",
-        "body": "أعلن المعهد الكوري للمالية العامة في 7 مايو، خلال ندوة في سيول بعنوان «التحقق من قسائم استهلاك تعافي المعيشة بالبيانات»، أن أثر القسائم التي وُزعت العام الماضي في تحفيز الاستهلاك كان أكبر من المتوقع. ووزعت الحكومة في يوليو الماضي، على مرحلتين، قسائم بقيمة 150 ألفا إلى 550 ألف وون للفرد، بإجمالي 13.52 تريليون وون. واعتمدت الدراسة على بيانات المدفوعات من ست شركات بطاقات، منها شينهان وسامسونغ وهيونداي وKB كوكمين وBC وهانا، من نوفمبر الماضي إلى أبريل هذا العام. وقدر المعهد الأثر عند 0.433، أي إن كل وحدة من القسائم رفعت مبيعات صغار التجار بمقدار 0.433، بما يعادل زيادة إجمالية قدرها 5.86 تريليون وون. ووفقا لـhankyung.com، يتجاوز ذلك أثر برامج الدعم النقدي المعتاد البالغ 0 إلى 0.33."
-      },
-      "hi": {
-        "title": "लिवलीहुड रिकवरी कूपन से छोटे कारोबारों की बिक्री उम्मीद से ज्यादा बढ़ी",
-        "excerpt": "KIPF ने 7 मई को कहा कि पिछले साल दिए गए लिवलीहुड रिकवरी कंजम्प्शन कूपन ने हर 1,000 वॉन पर छोटे कारोबारों की बिक्री करीब 433 वॉन बढ़ाई।",
-        "body": "कोरिया इंस्टीट्यूट ऑफ पब्लिक फाइनेंस ने 7 मई को सियोल में आयोजित “लिवलीहुड रिकवरी कंजम्प्शन कूपन को डेटा से परखना” सेमिनार में कहा कि पिछले साल दिए गए कूपन का उपभोग बढ़ाने वाला असर उम्मीद से अधिक रहा। सरकार ने पिछले जुलाई में दो चरणों में प्रति व्यक्ति 150,000 से 550,000 वॉन के कूपन बांटे, जिनका कुल आकार 13.52 ट्रिलियन वॉन था। अध्ययन में पिछले साल नवंबर से इस साल अप्रैल तक शिनहान, सैमसंग, ह्यूंदै, KB कूकमिन, BC और हाना कार्ड सहित छह कार्ड कंपनियों के भुगतान डेटा का उपयोग किया गया। विश्लेषण के अनुसार कूपन की हर 1 इकाई से छोटे कारोबारों की बिक्री 0.433 बढ़ी, जिससे कुल 5.86 ट्रिलियन वॉन की अतिरिक्त बिक्री हुई। hankyung.com के अनुसार यह नकद-प्रकार की सामान्य राजकोषीय योजनाओं के 0 से 0.33 उपभोग प्रभाव से अधिक है।"
-      },
-      "id": {
-        "title": "Kupon Pemulihan Penghidupan Dorong Penjualan UMKM Lebih Besar dari Perkiraan",
-        "excerpt": "KIPF menyatakan pada 7 Mei bahwa kupon konsumsi pemulihan penghidupan tahun lalu menaikkan penjualan usaha kecil sekitar 433 won untuk setiap 1.000 won yang dibagikan.",
-        "body": "Korea Institute of Public Finance menyatakan dalam seminar 7 Mei di Seoul bertajuk “Memverifikasi Kupon Konsumsi Pemulihan Penghidupan dengan Data” bahwa kupon yang dibagikan tahun lalu memiliki dampak dorongan konsumsi lebih besar dari perkiraan. Pemerintah membagikan kupon pada Juli tahun lalu dalam dua tahap, senilai 150.000 hingga 550.000 won per orang, dengan total 13,52 triliun won. Studi ini memakai data pembayaran dari enam perusahaan kartu, termasuk Shinhan, Samsung, Hyundai, KB Kookmin, BC, dan Hana Card, dari November tahun lalu hingga April tahun ini. Hasil analisis menunjukkan setiap 1 unit kupon menaikkan penjualan usaha kecil sebesar 0,433, setara tambahan penjualan 5,86 triliun won. Menurut hankyung.com, angka ini melampaui efek 0 hingga 0,33 yang biasanya diperkirakan untuk program fiskal berbentuk tunai."
-      }
-    }
-  },
-  {
-    "id": "25b570bd8ac9",
-    "slug": "ai-전략새-ceo-기대감애플-주가-사상-최고치-166349",
-    "channelId": "ETF",
-    "category": "etf",
-    "publishedAt": "2026-05-07T18:41:52.688Z",
-    "updatedAt": "2026-05-07T18:41:52.688Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/2026050724111",
-    "canonicalUrl": "https://www.hankyung.com/article/2026050724111",
-    "titleFingerprint": "05aba400177fb90e179162950816e1cb467c3c72",
-    "dedupKeys": [
-      "25b570bd8ac9e8afb04bf3b45b4503c4c3412e7c",
-      "05aba400177fb90e179162950816e1cb467c3c72",
-      "98d1b07eb5f73bca65b47817caaa3842a8a07ecb"
-    ],
-    "imageUrl": "/images/articles/25b570bd8ac9.png",
-    "i18n": {
-      "ko": {
-        "title": "애플 주가 사상 최고치, AI 전략과 새 CEO 기대감이 투자심리 자극",
-        "excerpt": "애플 주가가 AI 전략과 새 CEO 기대감에 힘입어 사상 최고치를 기록했다. 투자자들은 향후 경영 변화와 인공지능 경쟁력 강화 가능성에 주목하고 있다.",
-        "body": "애플 주가가 AI 전략과 새 CEO에 대한 기대감 속에 사상 최고치를 기록했다. 시장에서는 애플이 인공지능 분야에서 어떤 전략을 제시할지와 차기 경영 리더십이 회사의 성장 방향에 어떤 영향을 줄지가 주요 관심사로 떠올랐다. 이번 주가 상승은 AI 경쟁력 강화에 대한 기대와 경영 변화 가능성이 투자심리를 자극한 결과로 풀이된다. 다만 원문에서 구체적인 주가 수준이나 일정, 세부 전략은 제시되지 않았다. 향후 애플의 AI 발표와 CEO 관련 흐름이 주가 흐름을 좌우할 변수로 거론된다. 출처: hankyung.com."
-      },
-      "en": {
-        "title": "Apple Stock Hits Record High as AI Strategy and New CEO Hopes Lift Sentiment",
-        "excerpt": "Apple shares reached an all-time high as expectations for its AI strategy and a potential new CEO boosted investor sentiment around future leadership and growth.",
-        "body": "Apple’s stock reached an all-time high amid expectations surrounding its AI strategy and a potential new CEO. In the market, investors are focusing on what kind of artificial intelligence strategy Apple may present and how future leadership could affect the company’s growth direction. The rise in the share price is seen as reflecting stronger investor sentiment driven by hopes for improved AI competitiveness and possible management changes. The original report did not provide a specific share price, timeline, or detailed strategy. Future AI announcements and CEO-related developments are expected to remain key variables for Apple’s stock performance. Source: hankyung.com."
-      },
-      "ja": {
-        "title": "アップル株が史上最高値、AI戦略と新CEO期待で投資心理改善",
-        "excerpt": "アップル株はAI戦略と新CEOへの期待を背景に史上最高値を記録した。投資家は今後の経営変化とAI競争力強化の可能性に注目している。",
-        "body": "アップル株がAI戦略と新CEOへの期待感を背景に史上最高値を記録した。市場では、アップルが人工知能分野でどのような戦略を示すのか、また次期経営リーダーシップが同社の成長方向にどのような影響を与えるのかが主な関心事となっている。今回の株価上昇は、AI競争力強化への期待と経営変化の可能性が投資心理を刺激した結果とみられる。ただし原文では具体的な株価水準や日程、詳細な戦略は示されていない。今後のAI発表とCEO関連の動きが株価の変数になるとみられる。出所: hankyung.com."
-      },
-      "zh": {
-        "title": "苹果股价创历史新高，AI战略与新CEO预期提振投资情绪",
-        "excerpt": "苹果股价在AI战略和新CEO预期推动下创下历史新高。投资者正关注未来管理层变化以及人工智能竞争力提升的可能性。",
-        "body": "苹果股价在AI战略和新CEO预期升温的背景下创下历史新高。市场关注的重点是，苹果将在人工智能领域提出怎样的战略，以及未来新的经营领导层将如何影响公司的增长方向。此次股价上涨被认为反映了投资者对AI竞争力增强和管理层可能变化的期待。原文并未提供具体股价水平、时间安排或详细战略内容。未来苹果的AI相关发布以及CEO相关进展，预计将继续成为影响股价走势的重要变量。来源: hankyung.com."
-      },
-      "es": {
-        "title": "Apple alcanza máximo histórico por su estrategia de IA y expectativas de nuevo CEO",
-        "excerpt": "Las acciones de Apple marcaron un máximo histórico impulsadas por su estrategia de IA y las expectativas sobre un nuevo CEO, factores que reforzaron el ánimo inversor.",
-        "body": "Las acciones de Apple alcanzaron un máximo histórico en medio de expectativas sobre su estrategia de inteligencia artificial y un posible nuevo CEO. En el mercado, los inversores observan qué estrategia presentará Apple en IA y cómo un futuro liderazgo podría influir en la dirección de crecimiento de la compañía. La subida de la acción se interpreta como resultado de un mejor ánimo inversor ante la posibilidad de una mayor competitividad en IA y cambios en la gestión. El reporte original no incluyó un precio concreto, calendario ni detalles estratégicos. Los próximos anuncios de IA y las novedades sobre el CEO seguirán siendo variables clave. Fuente: hankyung.com."
-      },
-      "pt": {
-        "title": "Ações da Apple batem recorde com estratégia de IA e expectativa por novo CEO",
-        "excerpt": "As ações da Apple atingiram máxima histórica com o impulso da estratégia de IA e da expectativa por um novo CEO, reforçando o interesse dos investidores.",
-        "body": "As ações da Apple atingiram uma máxima histórica em meio às expectativas sobre sua estratégia de inteligência artificial e um possível novo CEO. No mercado, investidores observam que tipo de estratégia a Apple poderá apresentar em IA e como uma futura liderança executiva pode influenciar o rumo de crescimento da companhia. A alta das ações é vista como reflexo do otimismo gerado pela possibilidade de maior competitividade em IA e de mudanças na gestão. O texto original não informou preço específico, calendário ou detalhes da estratégia. Novos anúncios de IA e desdobramentos sobre o CEO devem continuar relevantes para o papel. Fonte: hankyung.com."
-      },
-      "de": {
-        "title": "Apple-Aktie auf Rekordhoch: KI-Strategie und Hoffnung auf neuen CEO treiben Kurs",
-        "excerpt": "Die Apple-Aktie erreichte ein Allzeithoch, gestützt durch Erwartungen an die KI-Strategie und einen möglichen neuen CEO, die die Anlegerstimmung verbesserten.",
-        "body": "Die Apple-Aktie hat angesichts der Erwartungen an eine KI-Strategie und einen möglichen neuen CEO ein Allzeithoch erreicht. Am Markt richtet sich der Blick darauf, welche Strategie Apple im Bereich künstliche Intelligenz vorlegen könnte und wie eine künftige Führung die Wachstumsrichtung des Unternehmens beeinflussen würde. Der Kursanstieg wird als Folge einer stärkeren Anlegerstimmung gewertet, ausgelöst durch Hoffnungen auf mehr KI-Wettbewerbsfähigkeit und mögliche Veränderungen im Management. Der Originalbericht nannte keinen konkreten Aktienkurs, Zeitplan oder detaillierte Strategie. Künftige KI-Ankündigungen und CEO-Entwicklungen bleiben wichtige Faktoren. Quelle: hankyung.com."
-      },
-      "fr": {
-        "title": "Apple au plus haut historique grâce à sa stratégie IA et aux attentes d’un nouveau CEO",
-        "excerpt": "L’action Apple a atteint un record historique, portée par les attentes autour de sa stratégie IA et d’un possible nouveau CEO, deux facteurs suivis par les investisseurs.",
-        "body": "L’action Apple a atteint un plus haut historique sur fond d’attentes liées à sa stratégie d’intelligence artificielle et à un possible nouveau CEO. Sur le marché, les investisseurs surveillent la stratégie qu’Apple pourrait présenter dans l’IA et l’effet qu’un futur leadership pourrait avoir sur la trajectoire de croissance de l’entreprise. La hausse du titre est interprétée comme le reflet d’un regain d’optimisme autour du renforcement de la compétitivité en IA et d’éventuels changements de direction. L’article original ne précise pas de niveau de cours, de calendrier ni de stratégie détaillée. Les annonces IA et les développements liés au CEO resteront déterminants. Source: hankyung.com."
-      },
-      "ar": {
-        "title": "سهم أبل يبلغ أعلى مستوى تاريخي مع دعم توقعات استراتيجية الذكاء الاصطناعي والرئيس الجديد",
-        "excerpt": "بلغ سهم أبل أعلى مستوى تاريخي بدعم من توقعات استراتيجية الذكاء الاصطناعي ورئيس تنفيذي جديد، ما عزز اهتمام المستثمرين بمسار الإدارة والنمو.",
-        "body": "بلغ سهم أبل أعلى مستوى تاريخي وسط توقعات مرتبطة باستراتيجية الشركة في الذكاء الاصطناعي واحتمال تعيين رئيس تنفيذي جديد. ويركز المستثمرون في السوق على طبيعة الاستراتيجية التي قد تعرضها أبل في مجال الذكاء الاصطناعي، وعلى تأثير القيادة المقبلة في اتجاه نمو الشركة. ويُنظر إلى صعود السهم على أنه نتيجة لتحسن معنويات المستثمرين بفعل توقعات تعزيز القدرة التنافسية في الذكاء الاصطناعي وإمكان حدوث تغييرات إدارية. ولم يورد النص الأصلي مستوى محددا للسعر أو جدولا زمنيا أو تفاصيل للاستراتيجية. وستبقى إعلانات الذكاء الاصطناعي وتطورات منصب الرئيس التنفيذي عوامل مؤثرة في السهم. المصدر: hankyung.com."
-      },
-      "hi": {
-        "title": "Apple शेयर रिकॉर्ड ऊंचाई पर, AI रणनीति और नए CEO की उम्मीदों से उत्साह",
-        "excerpt": "Apple का शेयर AI रणनीति और नए CEO से जुड़ी उम्मीदों के बीच सर्वकालिक उच्च स्तर पर पहुंचा। निवेशक प्रबंधन बदलाव और AI प्रतिस्पर्धा पर नजर रख रहे हैं।",
-        "body": "Apple का शेयर AI रणनीति और नए CEO को लेकर उम्मीदों के बीच सर्वकालिक उच्च स्तर पर पहुंच गया। बाजार में निवेशकों का ध्यान इस बात पर है कि Apple कृत्रिम बुद्धिमत्ता क्षेत्र में कैसी रणनीति पेश कर सकता है और भविष्य का नेतृत्व कंपनी की वृद्धि दिशा को कैसे प्रभावित करेगा। शेयर में आई तेजी को AI प्रतिस्पर्धात्मकता मजबूत होने की उम्मीद और प्रबंधन बदलाव की संभावना से बेहतर हुई निवेशक धारणा का परिणाम माना जा रहा है। मूल रिपोर्ट में कोई विशिष्ट शेयर मूल्य, समय-सारिणी या विस्तृत रणनीति नहीं दी गई। आगे Apple की AI घोषणाएं और CEO से जुड़े घटनाक्रम शेयर के लिए अहम रहेंगे। स्रोत: hankyung.com."
-      },
-      "id": {
-        "title": "Saham Apple Cetak Rekor Tertinggi karena Strategi AI dan Harapan CEO Baru",
-        "excerpt": "Saham Apple mencapai rekor tertinggi sepanjang masa karena ekspektasi terhadap strategi AI dan CEO baru, yang memperkuat sentimen investor terhadap prospek perusahaan.",
-        "body": "Saham Apple mencapai rekor tertinggi sepanjang masa di tengah ekspektasi terhadap strategi kecerdasan buatan dan kemungkinan CEO baru. Di pasar, investor mencermati strategi seperti apa yang akan disampaikan Apple di bidang AI serta bagaimana kepemimpinan berikutnya dapat memengaruhi arah pertumbuhan perusahaan. Kenaikan saham ini dipandang sebagai cerminan membaiknya sentimen investor karena harapan atas penguatan daya saing AI dan potensi perubahan manajemen. Laporan asli tidak memuat level harga saham tertentu, jadwal, atau rincian strategi. Ke depan, pengumuman AI Apple dan perkembangan terkait CEO akan tetap menjadi faktor penting bagi pergerakan saham. Sumber: hankyung.com."
       }
     }
   }
