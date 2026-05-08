@@ -1,5 +1,230 @@
 [
   {
+    "id": "eca35b786789",
+    "slug": "사하라ai-인도-마더슨-그룹에-ai-에이전트-시스템-공급-571633",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-05-08T19:18:56.941Z",
+    "updatedAt": "2026-05-08T19:18:56.941Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/2026050837656",
+    "canonicalUrl": "https://www.hankyung.com/article/2026050837656",
+    "titleFingerprint": "46e7dd8dff0222059767c73e79b39e6fa37cbc6f",
+    "dedupKeys": [
+      "eca35b786789e650e710b681e47a22149fe035cd",
+      "46e7dd8dff0222059767c73e79b39e6fa37cbc6f",
+      "a38403ebc44ab01237ea639aca3b91d6819341de"
+    ],
+    "imageUrl": "/images/articles/eca35b786789.png",
+    "i18n": {
+      "ko": {
+        "title": "사하라AI, 인도 마더슨 그룹에 AI 에이전트 시스템 공급",
+        "excerpt": "사하라AI가 인도 마더슨 그룹에 AI 에이전트 시스템을 공급한다고 한경닷컴이 보도했다. 기업용 AI 적용 확대 흐름 속 공급 소식이 전해졌다.",
+        "body": "사하라AI가 인도 마더슨 그룹에 AI 에이전트 시스템을 공급한다고 한경닷컴이 보도했다. 이번 보도는 사하라AI가 기업 고객을 대상으로 AI 에이전트 시스템을 제공한다는 내용에 초점을 맞췄다. 공개된 원문 정보에 따르면 공급 대상은 인도 마더슨 그룹이며, 공급 품목은 AI 에이전트 시스템이다. 구체적인 계약 규모, 공급 일정, 적용 부문 등 추가 수치는 제시되지 않았다. 이번 소식은 기업 현장에서 AI 에이전트 시스템 도입이 주목받는 가운데 전해진 사례다. 출처: hankyung.com"
+      },
+      "en": {
+        "title": "Sahara AI to Supply AI Agent System to India’s Motherson Group",
+        "excerpt": "Sahara AI will supply an AI agent system to India’s Motherson Group, Hankyung.com reported, highlighting enterprise adoption of AI agent systems.",
+        "body": "Sahara AI will supply an AI agent system to India’s Motherson Group, according to a report by Hankyung.com. The report focuses on Sahara AI providing an AI agent system to a corporate customer. Based on the original information, the recipient is India’s Motherson Group and the supplied product is an AI agent system. No additional figures were provided on contract value, delivery timing, or specific areas of application. The news comes as AI agent systems draw attention in enterprise settings. Source: hankyung.com"
+      },
+      "ja": {
+        "title": "サハラAI、インドのマザーソングループにAIエージェントシステム供給",
+        "excerpt": "サハラAIがインドのマザーソングループにAIエージェントシステムを供給すると、韓経ドットコムが報じた。企業向けAI導入の動きとして伝えられた。",
+        "body": "サハラAIがインドのマザーソングループにAIエージェントシステムを供給すると、韓経ドットコムが報じた。今回の報道は、サハラAIが企業顧客にAIエージェントシステムを提供する内容に焦点を当てている。原文情報によると、供給先はインドのマザーソングループで、供給品目はAIエージェントシステムだ。契約規模、供給時期、適用部門などの追加数値は示されていない。企業現場でAIエージェントシステムの導入が注目される中で伝えられた事例だ。出典: hankyung.com"
+      },
+      "zh": {
+        "title": "Sahara AI向印度Motherson集团供应AI智能体系统",
+        "excerpt": "据hankyung.com报道，Sahara AI将向印度Motherson集团供应AI智能体系统。该消息反映企业级AI应用受到关注。",
+        "body": "据hankyung.com报道，Sahara AI将向印度Motherson集团供应AI智能体系统。报道重点是Sahara AI向企业客户提供AI智能体系统。根据原文信息，供应对象为印度Motherson集团，供应内容为AI智能体系统。报道未披露合同规模、供应时间、具体应用部门等更多数据。该消息是在企业场景中AI智能体系统受到关注的背景下传出的案例。来源: hankyung.com"
+      },
+      "es": {
+        "title": "Sahara AI suministrará un sistema de agentes de IA a Motherson Group",
+        "excerpt": "Sahara AI suministrará un sistema de agentes de IA al grupo indio Motherson, informó Hankyung.com, en un contexto de mayor atención a la IA empresarial.",
+        "body": "Sahara AI suministrará un sistema de agentes de IA al grupo indio Motherson, según informó Hankyung.com. El reporte se centra en la provisión de un sistema de agentes de IA por parte de Sahara AI a un cliente corporativo. De acuerdo con la información original, el destinatario es Motherson Group de India y el producto suministrado es un sistema de agentes de IA. No se ofrecieron cifras adicionales sobre el valor del contrato, el calendario de suministro ni las áreas de aplicación. La noticia llega mientras estos sistemas atraen atención en empresas. Fuente: hankyung.com"
+      },
+      "pt": {
+        "title": "Sahara AI fornecerá sistema de agentes de IA ao Motherson Group",
+        "excerpt": "A Sahara AI fornecerá um sistema de agentes de IA ao grupo indiano Motherson, informou o Hankyung.com, em meio ao interesse por IA em empresas.",
+        "body": "A Sahara AI fornecerá um sistema de agentes de IA ao grupo indiano Motherson, segundo informou o Hankyung.com. A reportagem destaca a oferta de um sistema de agentes de IA da Sahara AI a um cliente corporativo. Conforme as informações originais, o destinatário é o Motherson Group, da Índia, e o item fornecido é um sistema de agentes de IA. Não foram apresentados dados adicionais sobre valor do contrato, cronograma de fornecimento ou áreas de aplicação. A notícia surge enquanto sistemas de agentes de IA ganham atenção em ambientes empresariais. Fonte: hankyung.com"
+      },
+      "de": {
+        "title": "Sahara AI liefert KI-Agentensystem an Indiens Motherson Group",
+        "excerpt": "Sahara AI wird ein KI-Agentensystem an die indische Motherson Group liefern, berichtete Hankyung.com. Der Fall zeigt das Interesse an KI-Systemen in Unternehmen.",
+        "body": "Sahara AI wird ein KI-Agentensystem an die indische Motherson Group liefern, wie Hankyung.com berichtete. Der Bericht konzentriert sich darauf, dass Sahara AI einem Unternehmenskunden ein KI-Agentensystem bereitstellt. Nach den ursprünglichen Informationen ist der Empfänger die Motherson Group in Indien, geliefert wird ein KI-Agentensystem. Weitere Angaben zum Vertragsvolumen, zum Lieferzeitplan oder zu konkreten Einsatzbereichen wurden nicht genannt. Die Nachricht kommt zu einer Zeit, in der KI-Agentensysteme in Unternehmen Aufmerksamkeit erhalten. Quelle: hankyung.com"
+      },
+      "fr": {
+        "title": "Sahara AI fournira un système d’agents IA à Motherson Group",
+        "excerpt": "Sahara AI fournira un système d’agents IA au groupe indien Motherson, selon Hankyung.com, dans un contexte d’intérêt accru pour l’IA en entreprise.",
+        "body": "Sahara AI fournira un système d’agents IA au groupe indien Motherson, a rapporté Hankyung.com. L’article met l’accent sur la fourniture par Sahara AI d’un système d’agents IA à un client d’entreprise. Selon les informations originales, le destinataire est Motherson Group en Inde et le produit fourni est un système d’agents IA. Aucun chiffre supplémentaire n’a été donné sur le montant du contrat, le calendrier de livraison ou les domaines d’application. Cette annonce intervient alors que les systèmes d’agents IA attirent l’attention dans les entreprises. Source: hankyung.com"
+      },
+      "ar": {
+        "title": "ساهارا AI تزود مجموعة موثرسون الهندية بنظام وكلاء ذكاء اصطناعي",
+        "excerpt": "أفاد موقع Hankyung.com بأن ساهارا AI ستزود مجموعة موثرسون الهندية بنظام وكلاء ذكاء اصطناعي، في خبر يبرز الاهتمام بتطبيقات الذكاء الاصطناعي المؤسسية.",
+        "body": "أفاد موقع Hankyung.com بأن ساهارا AI ستزود مجموعة موثرسون الهندية بنظام وكلاء ذكاء اصطناعي. يركز التقرير على تقديم ساهارا AI نظام وكلاء ذكاء اصطناعي لعميل من قطاع الشركات. ووفق المعلومات الأصلية، فإن الجهة المتلقية هي مجموعة موثرسون في الهند، أما المنتج المقدم فهو نظام وكلاء ذكاء اصطناعي. لم تُذكر أرقام إضافية بشأن قيمة العقد أو جدول التوريد أو مجالات التطبيق المحددة. يأتي الخبر في وقت تحظى فيه أنظمة وكلاء الذكاء الاصطناعي باهتمام داخل بيئات الشركات. المصدر: hankyung.com"
+      },
+      "hi": {
+        "title": "सहारा AI भारत के मदरसन समूह को AI एजेंट सिस्टम देगी",
+        "excerpt": "Hankyung.com के अनुसार, सहारा AI भारत के मदरसन समूह को AI एजेंट सिस्टम की आपूर्ति करेगी। यह खबर उद्यमों में AI एजेंट सिस्टम पर बढ़ते ध्यान के बीच आई है।",
+        "body": "Hankyung.com की रिपोर्ट के अनुसार, सहारा AI भारत के मदरसन समूह को AI एजेंट सिस्टम की आपूर्ति करेगी। रिपोर्ट का मुख्य फोकस यह है कि सहारा AI एक कॉरपोरेट ग्राहक को AI एजेंट सिस्टम उपलब्ध करा रही है। मूल जानकारी के मुताबिक, आपूर्ति पाने वाली इकाई भारत का मदरसन समूह है और आपूर्ति की जाने वाली वस्तु AI एजेंट सिस्टम है। अनुबंध मूल्य, आपूर्ति समय-सारिणी या लागू किए जाने वाले विभागों से जुड़े अतिरिक्त आंकड़े नहीं दिए गए। यह खबर ऐसे समय आई है जब उद्यमों में AI एजेंट सिस्टम अपनाने पर ध्यान बढ़ रहा है। स्रोत: hankyung.com"
+      },
+      "id": {
+        "title": "Sahara AI Pasok Sistem Agen AI ke Motherson Group India",
+        "excerpt": "Sahara AI akan memasok sistem agen AI ke Motherson Group India, menurut Hankyung.com, di tengah perhatian terhadap penerapan AI di lingkungan perusahaan.",
+        "body": "Sahara AI akan memasok sistem agen AI ke Motherson Group India, menurut laporan Hankyung.com. Laporan tersebut berfokus pada penyediaan sistem agen AI oleh Sahara AI kepada pelanggan korporat. Berdasarkan informasi asli, penerima pasokan adalah Motherson Group di India, sementara produk yang dipasok adalah sistem agen AI. Tidak ada angka tambahan mengenai nilai kontrak, jadwal pasokan, atau bidang penerapan tertentu. Kabar ini muncul ketika sistem agen AI mendapat perhatian dalam lingkungan perusahaan. Sumber: hankyung.com"
+      }
+    }
+  },
+  {
+    "id": "648d30f9c432",
+    "slug": "휴젤-분석-최대-실적에-주가-급등했지만-2분기엔-조심해야-하는-이유-716282",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-05-08T19:18:06.086Z",
+    "updatedAt": "2026-05-08T19:18:06.086Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/202605084127i",
+    "canonicalUrl": "https://www.hankyung.com/article/202605084127i",
+    "titleFingerprint": "a1b62aa75840847cf84cf1ec527e758d1e3e422a",
+    "dedupKeys": [
+      "648d30f9c4327df0936443e60570dc676816bb11",
+      "a1b62aa75840847cf84cf1ec527e758d1e3e422a",
+      "41c244046734c53c7a4d6899b629924ae94b27f4"
+    ],
+    "imageUrl": "/images/articles/648d30f9c432.jpg",
+    "i18n": {
+      "ko": {
+        "title": "휴젤 최대 실적에 주가 급등, 2분기엔 신중해야 할 이유와 투자자가 볼 핵심 포인트",
+        "excerpt": "hankyung.com은 휴젤이 최대 실적 발표 뒤 주가가 급등했지만, 2분기에는 실적 흐름과 주가 반응을 더 신중히 살펴야 한다고 분석했다.",
+        "body": "hankyung.com은 휴젤 분석 기사에서 회사가 최대 실적을 낸 뒤 주가가 급등했지만 2분기에는 조심해야 할 이유가 있다고 전했다. 기사 제목에 따르면 핵심 변수는 최대 실적이라는 긍정적 재료와 단기 주가 급등 이후의 부담이다. 휴젤은 실적 개선으로 시장의 관심을 받았고, 주가는 이에 반응해 빠르게 올랐다. 다만 분석은 2분기 국면에서 투자자가 같은 흐름이 이어질지 신중히 확인해야 한다는 점을 강조한다. 실적 호조와 주가 상승이 이미 반영된 상황에서는 다음 분기 전망과 변동성 점검이 중요하다는 취지다. 출처는 hankyung.com이다."
+      },
+      "en": {
+        "title": "Hugel Shares Jump on Record Results, but Q2 Calls for a More Careful Read",
+        "excerpt": "hankyung.com analyzed Hugel after its shares surged on record results, noting that investors should take a more cautious view of performance and stock reaction in Q2.",
+        "body": "hankyung.com reported in an analysis of Hugel that the company’s shares jumped after it posted record results, but that there are reasons to be cautious in the second quarter. According to the article title, the key issue is the contrast between the positive factor of record performance and the burden created by a sharp short-term rise in the stock price. Hugel drew market attention through improved earnings, and the share price responded quickly. The analysis stresses that investors should carefully check whether the same trend can continue in Q2. With strong results and a higher stock price already reflected, the next-quarter outlook and volatility deserve attention. Source: hankyung.com."
+      },
+      "ja": {
+        "title": "ヒューゲル株、過去最高業績で急騰も第2四半期は慎重に見るべき理由",
+        "excerpt": "hankyung.comは、ヒューゲルが過去最高業績を受けて株価を急騰させた一方、第2四半期は業績の流れと株価反応を慎重に見る必要があると分析した。",
+        "body": "hankyung.comはヒューゲルの分析記事で、同社が過去最高業績を記録した後に株価が急騰したものの、第2四半期には注意すべき理由があると伝えた。記事タイトルによれば、焦点は過去最高業績という好材料と、短期的な株価急騰後の負担の対比にある。ヒューゲルは業績改善で市場の関心を集め、株価もそれに反応して上昇した。ただし分析は、第2四半期に同じ流れが続くかを投資家が慎重に確認すべきだと強調している。好業績と株価上昇がすでに反映された状況では、次の四半期見通しと変動性の点検が重要になる。出典はhankyung.com。"
+      },
+      "zh": {
+        "title": "Hugel创纪录业绩推动股价大涨，但第二季度仍需谨慎观察",
+        "excerpt": "hankyung.com分析称，Hugel在公布创纪录业绩后股价大幅上涨，但进入第二季度，投资者仍需谨慎评估业绩走势与股价反应。",
+        "body": "hankyung.com在一篇关于Hugel的分析中表示，公司取得创纪录业绩后股价大幅上涨，但第二季度仍有需要谨慎的理由。根据文章标题，核心变量在于创纪录业绩这一积极因素，以及短期股价急涨后可能形成的压力。Hugel因业绩改善受到市场关注，股价也迅速作出反应。不过，分析强调，投资者在第二季度应仔细确认这种趋势能否延续。在良好业绩和股价上涨已被市场反映的情况下，下一季度展望和波动性检查变得更为重要。来源为hankyung.com。"
+      },
+      "es": {
+        "title": "Hugel sube por resultados récord, pero el segundo trimestre exige cautela",
+        "excerpt": "hankyung.com analizó a Hugel tras el fuerte avance de sus acciones por resultados récord y señaló que en el segundo trimestre conviene revisar con cautela el desempeño y la reacción bursátil.",
+        "body": "hankyung.com informó en un análisis sobre Hugel que las acciones de la compañía subieron con fuerza después de registrar resultados récord, pero que existen razones para actuar con cautela en el segundo trimestre. Según el título del artículo, el punto central es el contraste entre el factor positivo de los resultados máximos y la carga que deja una rápida subida de la acción en el corto plazo. Hugel atrajo la atención del mercado por la mejora de sus resultados, y el precio reaccionó con rapidez. El análisis subraya que los inversores deben comprobar cuidadosamente si esa tendencia puede continuar en el segundo trimestre. Con la mejora y la subida ya reflejadas, importan la perspectiva del próximo trimestre y la volatilidad. Fuente: hankyung.com."
+      },
+      "pt": {
+        "title": "Hugel dispara com resultado recorde, mas o 2º trimestre pede mais cautela",
+        "excerpt": "O hankyung.com analisou a Hugel após a alta forte das ações com resultado recorde e apontou que, no 2º trimestre, investidores devem observar com cautela desempenho e reação do papel.",
+        "body": "O hankyung.com informou, em uma análise sobre a Hugel, que as ações da companhia dispararam depois de um resultado recorde, mas que há motivos para cautela no segundo trimestre. Segundo o título do artigo, o ponto central é a combinação entre o fator positivo do desempenho máximo e o peso deixado pela alta rápida da ação no curto prazo. A Hugel atraiu atenção do mercado com a melhora dos resultados, e o preço respondeu rapidamente. A análise destaca que investidores devem verificar com cuidado se esse movimento pode continuar no 2º trimestre. Com o bom desempenho e a valorização já refletidos, a perspectiva do próximo trimestre e a volatilidade ganham importância. Fonte: hankyung.com."
+      },
+      "de": {
+        "title": "Hugel-Aktie springt nach Rekordergebnis, doch im zweiten Quartal ist Vorsicht gefragt",
+        "excerpt": "hankyung.com analysierte Hugel nach dem Kurssprung infolge eines Rekordergebnisses und betonte, dass Anleger im zweiten Quartal Ergebnisentwicklung und Aktienreaktion vorsichtiger prüfen sollten.",
+        "body": "hankyung.com berichtete in einer Analyse zu Hugel, dass die Aktie des Unternehmens nach einem Rekordergebnis stark gestiegen ist, es im zweiten Quartal jedoch Gründe zur Vorsicht gibt. Dem Artikeltitel zufolge liegt der Kernpunkt im Gegensatz zwischen dem positiven Faktor der Höchstleistung und der Belastung nach einem schnellen kurzfristigen Kursanstieg. Hugel zog mit der Ergebnisverbesserung die Aufmerksamkeit des Marktes auf sich, und der Aktienkurs reagierte rasch. Die Analyse betont jedoch, dass Anleger im zweiten Quartal sorgfältig prüfen sollten, ob sich dieser Trend fortsetzen kann. Wenn starke Ergebnisse und Kursanstieg bereits eingepreist sind, werden Ausblick und Volatilität des nächsten Quartals wichtig. Quelle: hankyung.com."
+      },
+      "fr": {
+        "title": "Hugel bondit après des résultats record, mais le deuxième trimestre appelle à la prudence",
+        "excerpt": "hankyung.com a analysé Hugel après la forte hausse de son action liée à des résultats record, en soulignant qu’au deuxième trimestre les investisseurs doivent examiner plus prudemment les performances et la réaction du titre.",
+        "body": "hankyung.com a indiqué dans une analyse consacrée à Hugel que l’action de la société avait fortement progressé après des résultats record, mais qu’il existait des raisons de rester prudent au deuxième trimestre. D’après le titre de l’article, l’enjeu central oppose le facteur positif des performances record au poids laissé par une hausse rapide du cours à court terme. Hugel a attiré l’attention du marché grâce à l’amélioration de ses résultats, et le titre a réagi rapidement. L’analyse souligne toutefois que les investisseurs doivent vérifier avec prudence si cette dynamique peut se poursuivre au deuxième trimestre. Lorsque les bons résultats et la hausse du cours sont déjà intégrés, les perspectives du prochain trimestre et la volatilité deviennent importantes. Source : hankyung.com."
+      },
+      "ar": {
+        "title": "سهم هوغل يقفز بعد نتائج قياسية، لكن الربع الثاني يتطلب قراءة أكثر حذرا",
+        "excerpt": "حلل hankyung.com أداء هوغل بعد قفزة سهمها عقب نتائج قياسية، مشيرا إلى أن الربع الثاني يتطلب من المستثمرين فحص مسار الأداء ورد فعل السهم بحذر أكبر.",
+        "body": "ذكر hankyung.com في تحليل عن هوغل أن سهم الشركة ارتفع بقوة بعد تحقيق نتائج قياسية، لكن هناك أسبابا تدعو إلى الحذر في الربع الثاني. ووفقا لعنوان المقال، تتمثل النقطة الرئيسية في الجمع بين العامل الإيجابي المتمثل في الأداء القياسي والعبء الناتج عن الارتفاع السريع للسهم على المدى القصير. جذبت هوغل اهتمام السوق بفضل تحسن نتائجها، واستجاب سعر السهم بسرعة. لكن التحليل يؤكد أن على المستثمرين التحقق بحذر مما إذا كان هذا الاتجاه يمكن أن يستمر في الربع الثاني. ومع انعكاس النتائج القوية وارتفاع السهم بالفعل، تصبح توقعات الربع التالي ومراقبة التقلبات أكثر أهمية. المصدر: hankyung.com."
+      },
+      "hi": {
+        "title": "रिकॉर्ड नतीजों से Hugel शेयर उछला, लेकिन दूसरी तिमाही में सतर्कता जरूरी",
+        "excerpt": "hankyung.com ने रिकॉर्ड नतीजों के बाद Hugel के शेयर में तेज उछाल का विश्लेषण किया और कहा कि दूसरी तिमाही में प्रदर्शन की दिशा और शेयर प्रतिक्रिया को अधिक सावधानी से देखना होगा।",
+        "body": "hankyung.com ने Hugel पर अपने विश्लेषण में बताया कि कंपनी के रिकॉर्ड नतीजों के बाद उसके शेयर में तेज तेजी आई, लेकिन दूसरी तिमाही में सतर्क रहने के कारण मौजूद हैं। लेख के शीर्षक के अनुसार मुख्य मुद्दा रिकॉर्ड प्रदर्शन जैसे सकारात्मक कारक और अल्पकालिक तेज शेयर उछाल के बाद बनने वाले दबाव के बीच का संतुलन है। बेहतर नतीजों से Hugel ने बाजार का ध्यान खींचा और शेयर भाव ने तेजी से प्रतिक्रिया दी। हालांकि विश्लेषण इस बात पर जोर देता है कि निवेशकों को दूसरी तिमाही में सावधानी से देखना चाहिए कि क्या यही रुझान जारी रह सकता है। मजबूत नतीजे और शेयर तेजी पहले ही भाव में दिखने के बाद अगली तिमाही का दृष्टिकोण और उतार-चढ़ाव अहम हो जाते हैं। स्रोत: hankyung.com."
+      },
+      "id": {
+        "title": "Saham Hugel Melonjak karena Kinerja Rekor, tetapi Kuartal II Perlu Dicermati",
+        "excerpt": "hankyung.com menganalisis Hugel setelah sahamnya melonjak karena kinerja rekor, sambil menekankan bahwa pada kuartal II investor perlu lebih hati-hati menilai arah kinerja dan respons harga saham.",
+        "body": "hankyung.com melaporkan dalam analisis tentang Hugel bahwa saham perusahaan melonjak setelah mencatat kinerja tertinggi, tetapi ada alasan untuk berhati-hati pada kuartal kedua. Berdasarkan judul artikel, isu utamanya adalah perbandingan antara faktor positif berupa kinerja rekor dan beban setelah kenaikan harga saham yang cepat dalam jangka pendek. Hugel menarik perhatian pasar melalui perbaikan kinerja, dan harga saham merespons dengan cepat. Namun analisis tersebut menekankan bahwa investor perlu memeriksa dengan hati-hati apakah tren yang sama dapat berlanjut pada kuartal II. Ketika kinerja kuat dan kenaikan saham sudah tercermin, prospek kuartal berikutnya serta volatilitas menjadi penting. Sumber: hankyung.com."
+      }
+    }
+  },
+  {
+    "id": "0db6ca49e70b",
+    "slug": "방산정유주만-사면-끝포성-뒤에-숨어있는-부의-질서-전쟁과투자3-910941",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-05-08T19:16:47.462Z",
+    "updatedAt": "2026-05-08T19:16:47.462Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/stock/12040993",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12040993",
+    "titleFingerprint": "f1480b6eabf4862be4be241d007748740d7d352e",
+    "dedupKeys": [
+      "0db6ca49e70be4d1f40b972af2cb7c46fb0e4ce3",
+      "f1480b6eabf4862be4be241d007748740d7d352e",
+      "554d5269bd3e5d6dbc4cb778319c7b8b51c4bf59"
+    ],
+    "imageUrl": "/images/articles/0db6ca49e70b.png",
+    "i18n": {
+      "ko": {
+        "title": "전쟁과 투자, 방산·정유주보다 먼저 봐야 할 유가·금리 질서",
+        "excerpt": "mk.co.kr은 전쟁 국면에서 투자자가 전선보다 유가와 금리, 할인율 변화를 먼저 봐야 하며 실적보다 밸류에이션이 먼저 흔들릴 수 있다고 짚었다.",
+        "body": "전쟁이 발생하거나 긴장이 커질 때 투자자는 방산주와 정유주에 먼저 주목하기 쉽다. 그러나 mk.co.kr은 ‘전쟁과투자3’에서 전쟁은 포성보다 할인율로 먼저 자본시장에 반영된다고 설명했다. 전쟁이 나면 사람들은 전선을 보지만, 자본시장은 유가와 금리를 본다는 것이다. 유가와 금리 변화는 기업 실적이 확인되기 전부터 밸류에이션을 흔들 수 있다. 따라서 전쟁 국면의 투자는 특정 업종 매수만으로 끝나지 않으며, 포성 뒤에 있는 자본 비용과 부의 질서를 함께 살펴야 한다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "War Investing: Why Oil, Rates and Valuations Matter Before Defense Stocks",
+        "excerpt": "mk.co.kr said investors in a war environment should watch oil prices, interest rates and discount rates before front lines, as valuations can move before earnings.",
+        "body": "When war breaks out or tensions rise, investors often look first at defense and oil-refining stocks. But mk.co.kr explained in “War and Investing 3” that war reaches capital markets through discount rates before it arrives through gunfire. People watch the front line, while capital markets watch oil prices and interest rates. Shifts in oil and rates can affect valuations before company earnings are confirmed. For that reason, investing during wartime is not simply a matter of buying certain sectors. Investors also need to examine the cost of capital and the order of wealth hidden behind the sound of war. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "戦争と投資、防衛・石油株の前に見るべき原油・金利・評価",
+        "excerpt": "mk.co.krは、戦争局面では前線より原油価格、金利、割引率の変化を先に見るべきで、業績よりバリュエーションが先に揺らぐ可能性があると指摘した。",
+        "body": "戦争が起きたり緊張が高まったりすると、投資家は防衛株や石油精製株にまず注目しがちだ。しかしmk.co.krは「戦争と投資3」で、戦争は砲声よりも割引率を通じて先に資本市場へ反映されると説明した。人々は前線を見るが、資本市場は原油価格と金利を見るということだ。原油価格と金利の変化は、企業業績が確認される前からバリュエーションを揺さぶり得る。したがって戦争局面の投資は特定業種を買うだけでは終わらず、砲声の背後にある資本コストと富の秩序も見る必要がある。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "战争投资不只买军工炼油股，更要先看油价、利率与估值",
+        "excerpt": "mk.co.kr指出，在战争局势下，投资者应先关注油价、利率和贴现率变化，因为估值往往可能早于业绩受到冲击。",
+        "body": "当战争发生或紧张局势升高时，投资者容易先关注军工股和炼油股。但mk.co.kr在《战争与投资3》中说明，战争进入资本市场，往往先通过贴现率，而不是炮声。战争中人们看前线，资本市场则看油价和利率。油价与利率变化可能在企业业绩得到确认之前，就先影响估值。因此，战争局势下的投资并不是买入特定行业股票就结束。投资者还需要观察炮声背后的资本成本，以及隐藏其中的财富秩序。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Invertir en guerra: antes que defensa y refino, mirar petróleo, tasas y valoración",
+        "excerpt": "mk.co.kr señaló que, en un escenario de guerra, los inversores deben observar petróleo, tasas y descuentos antes que el frente, porque la valoración puede sufrir antes que las ganancias.",
+        "body": "Cuando estalla una guerra o aumenta la tensión, los inversores suelen mirar primero las acciones de defensa y refino. Pero mk.co.kr explicó en “Guerra e inversión 3” que la guerra llega a los mercados de capitales por la tasa de descuento antes que por los cañones. La gente mira el frente; el mercado mira el petróleo y las tasas de interés. Los cambios en petróleo y tasas pueden sacudir la valoración antes de que se confirme el desempeño de las empresas. Por eso, invertir en guerra no termina con comprar sectores concretos: también exige observar el costo del capital y el orden de riqueza detrás del ruido bélico. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Investir na guerra: antes de defesa e refino, olhar petróleo, juros e valuation",
+        "excerpt": "O mk.co.kr afirmou que, em cenários de guerra, investidores devem observar petróleo, juros e taxas de desconto antes das linhas de frente, pois valuations podem cair antes dos lucros.",
+        "body": "Quando uma guerra começa ou a tensão aumenta, investidores tendem a olhar primeiro para ações de defesa e refino. Mas o mk.co.kr explicou em “Guerra e Investimento 3” que a guerra chega aos mercados de capitais pelo desconto antes de chegar pelo som dos canhões. As pessoas olham para a frente de batalha; o mercado observa petróleo e juros. Mudanças nesses fatores podem afetar valuations antes que os resultados das empresas sejam confirmados. Assim, investir em tempos de guerra não se resume a comprar setores específicos. Também é preciso avaliar o custo de capital e a ordem de riqueza escondida atrás dos conflitos. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Krieg und Geldanlage: Vor Rüstung und Raffinerien auf Öl, Zinsen, Bewertung achten",
+        "excerpt": "mk.co.kr betonte, dass Anleger in Kriegsphasen zuerst Ölpreise, Zinsen und Diskontsätze beobachten sollten, weil Bewertungen oft vor den Gewinnen unter Druck geraten.",
+        "body": "Wenn Krieg ausbricht oder Spannungen zunehmen, richten Anleger den Blick oft zuerst auf Rüstungs- und Raffineriewerte. Doch mk.co.kr erklärte in „Krieg und Investieren 3“, dass Krieg die Kapitalmärkte über den Diskontsatz erreicht, bevor er sich im Donner der Waffen zeigt. Menschen schauen auf die Front, Kapitalmärkte auf Ölpreise und Zinsen. Veränderungen bei Öl und Zinsen können Bewertungen bewegen, bevor Unternehmensgewinne bestätigt sind. Deshalb endet Investieren in Kriegszeiten nicht mit dem Kauf bestimmter Branchen. Entscheidend ist auch der Blick auf Kapitalkosten und die Vermögensordnung hinter dem Kriegslärm. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Investir en temps de guerre: avant défense et raffinage, suivre pétrole, taux et valorisation",
+        "excerpt": "mk.co.kr estime qu’en période de guerre, les investisseurs doivent surveiller pétrole, taux et taux d’actualisation avant le front, car les valorisations peuvent bouger avant les bénéfices.",
+        "body": "Quand une guerre éclate ou que les tensions montent, les investisseurs regardent souvent d’abord les valeurs de défense et de raffinage. Mais mk.co.kr explique dans « Guerre et investissement 3 » que la guerre atteint les marchés de capitaux par le taux d’actualisation avant le bruit des canons. Les gens observent le front; les marchés regardent le pétrole et les taux d’intérêt. Ces variations peuvent ébranler les valorisations avant même que les résultats des entreprises soient confirmés. Ainsi, investir en période de guerre ne se limite pas à acheter certains secteurs. Il faut aussi examiner le coût du capital et l’ordre de richesse caché derrière les combats. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "الاستثمار وقت الحرب: قبل أسهم الدفاع والتكرير راقب النفط والفائدة والتقييم",
+        "excerpt": "قال mk.co.kr إن المستثمرين في أجواء الحرب يجب أن يراقبوا النفط والفائدة ومعدلات الخصم قبل خطوط القتال، لأن التقييمات قد تتأثر قبل الأرباح.",
+        "body": "عندما تندلع الحرب أو تتصاعد التوترات، يتجه المستثمرون غالبا إلى أسهم الدفاع وتكرير النفط أولا. لكن mk.co.kr أوضح في «الحرب والاستثمار 3» أن الحرب تصل إلى أسواق رأس المال عبر معدل الخصم قبل أن تصل عبر صوت المدافع. الناس ينظرون إلى الجبهة، أما الأسواق فتنظر إلى أسعار النفط وأسعار الفائدة. تغير النفط والفائدة قد يهز التقييمات قبل تأكيد أرباح الشركات. لذلك لا يقتصر الاستثمار في زمن الحرب على شراء قطاعات معينة. بل يجب أيضا النظر إلى تكلفة رأس المال ونظام الثروة المختبئ خلف أصوات القتال. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "युद्ध में निवेश: रक्षा और रिफाइनरी शेयरों से पहले तेल, ब्याज दर और वैल्यूएशन देखें",
+        "excerpt": "mk.co.kr ने कहा कि युद्ध जैसे माहौल में निवेशकों को मोर्चे से पहले तेल, ब्याज दर और डिस्काउंट रेट देखने चाहिए, क्योंकि वैल्यूएशन मुनाफे से पहले हिल सकता है।",
+        "body": "युद्ध शुरू होने या तनाव बढ़ने पर निवेशक अक्सर पहले रक्षा और तेल रिफाइनरी शेयरों पर ध्यान देते हैं। लेकिन mk.co.kr ने “War and Investing 3” में कहा कि युद्ध पूंजी बाजार में गोलाबारी से पहले डिस्काउंट रेट के जरिए आता है। लोग मोर्चा देखते हैं, जबकि पूंजी बाजार तेल की कीमत और ब्याज दर देखता है। तेल और दरों में बदलाव कंपनियों के नतीजे स्पष्ट होने से पहले ही वैल्यूएशन को प्रभावित कर सकता है। इसलिए युद्ध के समय निवेश सिर्फ कुछ सेक्टर खरीदने तक सीमित नहीं है। निवेशकों को लड़ाई की आवाज के पीछे छिपी पूंजी लागत और संपत्ति की व्यवस्था भी देखनी चाहिए। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Investasi Saat Perang: Sebelum Saham Pertahanan dan Kilang, Lihat Minyak, Bunga, Valuasi",
+        "excerpt": "mk.co.kr menyebut investor di tengah perang perlu melihat harga minyak, suku bunga, dan tingkat diskonto sebelum garis depan, karena valuasi bisa terguncang lebih dulu dari laba.",
+        "body": "Saat perang pecah atau ketegangan meningkat, investor sering lebih dulu menyoroti saham pertahanan dan kilang minyak. Namun mk.co.kr dalam “War and Investing 3” menjelaskan bahwa perang masuk ke pasar modal lewat tingkat diskonto sebelum terdengar lewat dentuman senjata. Orang melihat garis depan, sementara pasar modal melihat harga minyak dan suku bunga. Perubahan minyak dan bunga dapat mengguncang valuasi sebelum kinerja perusahaan terbukti. Karena itu, investasi saat perang tidak cukup dengan membeli sektor tertentu. Investor juga perlu membaca biaya modal dan tatanan kekayaan yang tersembunyi di balik suara perang. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
     "id": "f2d8265b90ff",
     "slug": "gs리테일-분석-편의점수퍼홈쇼핑의-고른-개선내수경기-회복이-관건-504643",
     "channelId": "ETF",
@@ -4271,231 +4496,6 @@
         "title": "KOSPI Berbalik Naik, Ditutup Rekor di 7.498,0 Poin",
         "excerpt": "Pada 8 Mei, KOSPI dibuka turun akibat meningkatnya ketegangan AS-Iran, lalu berbalik menguat dan ditutup naik 7,95 poin ke 7.498,0, kembali mencetak rekor.",
         "body": "Pada 8 Mei, KOSPI dibuka melemah karena meningkatnya ketegangan antara Amerika Serikat dan Iran, tetapi berbalik naik selama perdagangan dan ditutup di 7.498,0 poin, naik 7,95 poin atau 0,11% dari hari sebelumnya. Indeks memulai perdagangan di kisaran 7.300, memangkas penurunan, lalu masuk ke zona positif dan kembali memperbarui rekor tertinggi sepanjang masa. Penutupan positif di tengah ketegangan geopolitik membuat investor mencermati volatilitas intrahari serta pengaruh faktor eksternal utama. Level penutupan ini menunjukkan KOSPI tetap mempertahankan tren rekor meski menghadapi tekanan penyesuaian jangka pendek. Sumber: mk.co.kr."
-      }
-    }
-  },
-  {
-    "id": "d4a5437ea799",
-    "slug": "ai가-알아서-결제하는-시대ai에이전트-신분증-선점-나선-비자이더리움-148547",
-    "channelId": "ETF",
-    "category": "etf",
-    "publishedAt": "2026-05-08T06:13:22.276Z",
-    "updatedAt": "2026-05-08T06:13:22.276Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/stock/12040746",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12040746",
-    "titleFingerprint": "5af2f43d390a72dc21e20eadd8c3319bc47aa669",
-    "dedupKeys": [
-      "d4a5437ea7996394d265920cfb5d5615fe3f30c2",
-      "5af2f43d390a72dc21e20eadd8c3319bc47aa669",
-      "99c26d2e70da534980e25a35bd5efa6dd5d79606"
-    ],
-    "imageUrl": "/images/articles/d4a5437ea799.png",
-    "i18n": {
-      "ko": {
-        "title": "AI 에이전트 신분증 경쟁 본격화, 비자·이더리움 KYA 선점 나서",
-        "excerpt": "AI 에이전트가 사람 개입 없이 결제와 거래를 수행하는 시대가 다가오며 비자와 이더리움이 기계 간 자율거래의 신원증명 체계인 KYA 선점 경쟁에 나섰다.",
-        "body": "인공지능(AI) 에이전트가 인간의 개입 없이 자율적으로 결제와 거래를 수행하는 시대가 다가오면서, 기계 간 자율거래에서 AI의 신원을 확인하는 체계가 핵심 이슈로 떠올랐다. 비자와 이더리움 등은 AI 에이전트의 신분증 역할을 하는 KYA(Know Your Agent) 영역을 선점하기 위한 경쟁에 나서고 있다. 배경에는 AI가 계좌, 결제, 계약 등 거래 행위를 직접 수행할 가능성이 커진 흐름이 있다. 기존 금융의 고객확인 절차가 사람을 대상으로 했다면, KYA는 자율적으로 움직이는 AI 에이전트를 식별하고 검증하는 방향으로 논의되고 있다. 유럽연합(EU)과 싱가포르에서도 KYA 관련 규제 논의가 본격화되는 움직임이 나타나고 있다. 이 체계가 정착되면 AI 기반 결제와 기계 간 거래의 신뢰 인프라가 될 수 있다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "AI Agent Identity Race Grows as Visa and Ethereum Target KYA",
-        "excerpt": "As AI agents begin to make payments and transactions without human intervention, Visa and Ethereum are moving to secure a lead in KYA, an identity layer for autonomous machine-to-machine commerce.",
-        "body": "As artificial intelligence agents move closer to making payments and transactions autonomously without human intervention, identity verification for AI in machine-to-machine commerce is emerging as a key issue. Visa and Ethereum are among the players competing to secure an early position in KYA, or Know Your Agent, a system that would serve as an identity credential for AI agents. The backdrop is the growing possibility that AI could directly carry out activities involving accounts, payments and contracts. While traditional financial customer verification focuses on people, KYA is being discussed as a way to identify and verify autonomous AI agents. The European Union and Singapore are also showing signs of moving toward more active regulatory discussions around KYA. If established, the framework could become trust infrastructure for AI-based payments and machine-to-machine transactions. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "AIエージェント身分証競争が本格化、ビザとイーサリアムがKYA先取りへ",
-        "excerpt": "AIエージェントが人の介入なしに決済や取引を行う時代が近づき、ビザとイーサリアムは機械間自律取引の本人確認基盤であるKYAの先取りに動いている。",
-        "body": "人工知能（AI）エージェントが人間の介入なしに自律的に決済や取引を行う時代が近づくなか、機械間の自律取引でAIの身元を確認する仕組みが重要な論点として浮上している。ビザやイーサリアムなどは、AIエージェントの身分証にあたるKYA（Know Your Agent）領域を先取りするための競争に乗り出している。背景には、AIが口座、決済、契約などの取引行為を直接担う可能性が高まっている流れがある。従来の金融における顧客確認手続きが人を対象としていたのに対し、KYAは自律的に動くAIエージェントを識別し検証する方向で議論されている。欧州連合（EU）とシンガポールでも、KYA関連規制の議論が本格化する動きが見られる。この仕組みが定着すれば、AI決済と機械間取引の信頼インフラになり得る。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "AI代理身份认证竞争升温，Visa与以太坊抢占KYA先机",
-        "excerpt": "随着AI代理无需人工介入即可完成支付和交易的时代临近，Visa与以太坊正争夺面向机器间自主交易的AI身份认证体系KYA。",
-        "body": "随着人工智能（AI）代理无需人类介入即可自主完成支付和交易的时代临近，在机器间自主交易中确认AI身份的体系正成为关键议题。Visa、以太坊等正在围绕KYA（Know Your Agent）展开先发竞争，这一体系被视为AI代理的“身份证”。其背景是AI直接执行账户、支付、合约等交易行为的可能性正在上升。传统金融的客户确认程序主要面向人，而KYA则被讨论为识别并验证自主运行AI代理的机制。欧盟（EU）和新加坡也出现了推动KYA相关监管讨论正式化的动向。如果该体系落地，它可能成为AI支付和机器间交易的信任基础设施。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Identidad para agentes de IA: Visa y Ethereum compiten por liderar KYA",
-        "excerpt": "A medida que los agentes de IA se acercan a pagar y operar sin intervención humana, Visa y Ethereum buscan adelantarse en KYA, la identidad para transacciones autónomas entre máquinas.",
-        "body": "A medida que los agentes de inteligencia artificial se acercan a realizar pagos y transacciones de forma autónoma, sin intervención humana, la verificación de identidad de la IA en el comercio entre máquinas surge como un tema clave. Visa y Ethereum figuran entre quienes compiten por adelantarse en KYA, o Know Your Agent, un sistema que funcionaría como documento de identidad para agentes de IA. El contexto es la creciente posibilidad de que la IA ejecute directamente operaciones relacionadas con cuentas, pagos y contratos. Mientras los procesos tradicionales de conocimiento del cliente en finanzas se centran en personas, KYA se debate como una forma de identificar y verificar agentes de IA autónomos. La Unión Europea y Singapur también muestran movimientos hacia una regulación más activa sobre KYA. Si se consolida, este marco podría convertirse en infraestructura de confianza para pagos con IA y transacciones entre máquinas. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Identidade de agentes de IA avança, e Visa e Ethereum disputam KYA",
-        "excerpt": "Com agentes de IA se aproximando de pagamentos e transações sem intervenção humana, Visa e Ethereum buscam liderar o KYA, sistema de identidade para comércio autônomo entre máquinas.",
-        "body": "À medida que agentes de inteligência artificial se aproximam de realizar pagamentos e transações de forma autônoma, sem intervenção humana, a verificação de identidade da IA no comércio entre máquinas surge como questão central. Visa e Ethereum estão entre os participantes que disputam uma posição inicial em KYA, ou Know Your Agent, sistema que funcionaria como identidade para agentes de IA. O pano de fundo é a possibilidade crescente de a IA executar diretamente ações ligadas a contas, pagamentos e contratos. Enquanto os procedimentos financeiros tradicionais de verificação de clientes miram pessoas, o KYA é discutido como forma de identificar e validar agentes de IA autônomos. A União Europeia e Singapura também mostram sinais de avanço nas discussões regulatórias sobre KYA. Se consolidado, o modelo pode se tornar infraestrutura de confiança para pagamentos com IA e transações entre máquinas. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "KI-Agenten brauchen Identität: Visa und Ethereum drängen bei KYA nach vorn",
-        "excerpt": "Da KI-Agenten Zahlungen und Transaktionen zunehmend ohne menschliches Eingreifen ausführen könnten, konkurrieren Visa und Ethereum um KYA als Identitätssystem für autonomen Handel zwischen Maschinen.",
-        "body": "Da Agenten künstlicher Intelligenz näher daran rücken, Zahlungen und Transaktionen ohne menschliches Eingreifen autonom auszuführen, wird die Identitätsprüfung von KI im Handel zwischen Maschinen zu einem zentralen Thema. Visa und Ethereum gehören zu den Akteuren, die sich früh im Bereich KYA, Know Your Agent, positionieren wollen. Das System soll wie ein Ausweis für KI-Agenten funktionieren. Hintergrund ist die wachsende Möglichkeit, dass KI Vorgänge rund um Konten, Zahlungen und Verträge direkt übernimmt. Während klassische Finanzprozesse zur Kundenprüfung auf Menschen ausgerichtet sind, wird KYA als Ansatz diskutiert, autonome KI-Agenten zu identifizieren und zu verifizieren. Auch in der Europäischen Union und in Singapur zeichnen sich aktivere Regulierungsdebatten zu KYA ab. Setzt sich der Rahmen durch, könnte er zur Vertrauensinfrastruktur für KI-basierte Zahlungen und Transaktionen zwischen Maschinen werden. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Identité des agents IA: Visa et Ethereum se placent dans la course au KYA",
-        "excerpt": "Alors que les agents IA pourraient effectuer paiements et transactions sans intervention humaine, Visa et Ethereum cherchent à prendre l’avantage dans le KYA, identité des échanges autonomes entre machines.",
-        "body": "Alors que les agents d’intelligence artificielle se rapprochent d’une capacité à effectuer paiements et transactions de manière autonome, sans intervention humaine, la vérification de leur identité dans les échanges entre machines devient un enjeu central. Visa et Ethereum figurent parmi les acteurs qui cherchent à se positionner tôt sur le KYA, ou Know Your Agent, un système appelé à servir de pièce d’identité pour les agents IA. Cette dynamique s’inscrit dans un contexte où l’IA pourrait prendre directement en charge des opérations liées aux comptes, aux paiements et aux contrats. Alors que les procédures financières traditionnelles de connaissance du client visent les personnes, le KYA est discuté comme moyen d’identifier et de vérifier des agents IA autonomes. L’Union européenne et Singapour montrent aussi des signes d’intensification des discussions réglementaires sur le KYA. S’il s’installe, ce cadre pourrait devenir une infrastructure de confiance pour les paiements par IA et les transactions entre machines. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "هوية وكلاء الذكاء الاصطناعي تشتعل مع سباق فيزا وإيثريوم على KYA",
-        "excerpt": "مع اقتراب وكلاء الذكاء الاصطناعي من تنفيذ المدفوعات والمعاملات دون تدخل بشري، تتحرك فيزا وإيثريوم لاقتناص موقع مبكر في نظام KYA لهوية التجارة الذاتية بين الآلات.",
-        "body": "مع اقتراب وكلاء الذكاء الاصطناعي من تنفيذ المدفوعات والمعاملات ذاتيا من دون تدخل بشري، تبرز مسألة التحقق من هوية الذكاء الاصطناعي في التجارة بين الآلات كقضية رئيسية. وتعد فيزا وإيثريوم من بين الأطراف التي تتنافس للحصول على موقع متقدم في مجال KYA، أو Know Your Agent، وهو نظام يمكن أن يؤدي دور بطاقة هوية لوكلاء الذكاء الاصطناعي. يأتي ذلك في ظل تزايد احتمال أن ينفذ الذكاء الاصطناعي مباشرة أعمالا تتعلق بالحسابات والمدفوعات والعقود. وبينما تركز إجراءات التحقق من العملاء في التمويل التقليدي على البشر، يجري بحث KYA كوسيلة لتحديد وكلاء الذكاء الاصطناعي المستقلين والتحقق منهم. وتظهر في الاتحاد الأوروبي وسنغافورة أيضا مؤشرات على بدء نقاشات تنظيمية أكثر جدية حول KYA. وإذا ترسخ هذا الإطار، فقد يصبح بنية ثقة أساسية للمدفوعات القائمة على الذكاء الاصطناعي والمعاملات بين الآلات. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "AI एजेंट पहचान की दौड़ तेज, Visa और Ethereum KYA पर बढ़त चाहते हैं",
-        "excerpt": "AI एजेंटों के मानव हस्तक्षेप के बिना भुगतान और लेनदेन करने की संभावना बढ़ने के साथ Visa और Ethereum मशीन-टू-मशीन स्वायत्त कारोबार की पहचान व्यवस्था KYA में बढ़त लेने में जुटे हैं।",
-        "body": "कृत्रिम बुद्धिमत्ता यानी AI एजेंटों के मानव हस्तक्षेप के बिना स्वायत्त रूप से भुगतान और लेनदेन करने के युग के करीब आने के साथ, मशीनों के बीच स्वायत्त कारोबार में AI की पहचान सत्यापित करने की व्यवस्था प्रमुख मुद्दा बन रही है। Visa और Ethereum सहित कई पक्ष KYA, यानी Know Your Agent, में शुरुआती बढ़त हासिल करने की होड़ में हैं, जो AI एजेंटों के लिए पहचान पत्र की तरह काम कर सकता है। इसकी पृष्ठभूमि में यह संभावना है कि AI खाते, भुगतान और अनुबंध से जुड़े कार्य सीधे कर सकता है। पारंपरिक वित्तीय ग्राहक-पहचान प्रक्रिया जहां मनुष्यों पर केंद्रित रही है, वहीं KYA को स्वायत्त रूप से काम करने वाले AI एजेंटों की पहचान और सत्यापन के तरीके के रूप में देखा जा रहा है। यूरोपीय संघ और सिंगापुर में भी KYA से जुड़े नियमन पर चर्चा तेज होने के संकेत हैं। यह ढांचा स्थापित होने पर AI आधारित भुगतान और मशीन-टू-मशीन लेनदेन के लिए भरोसे का आधार बन सकता है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Identitas Agen AI Makin Penting, Visa dan Ethereum Berebut KYA",
-        "excerpt": "Saat agen AI mulai dapat melakukan pembayaran dan transaksi tanpa campur tangan manusia, Visa dan Ethereum bergerak merebut posisi awal dalam KYA, identitas untuk perdagangan otonom antarmesin.",
-        "body": "Ketika agen kecerdasan buatan atau AI semakin dekat untuk melakukan pembayaran dan transaksi secara otonom tanpa campur tangan manusia, verifikasi identitas AI dalam perdagangan antarmesin muncul sebagai isu utama. Visa dan Ethereum termasuk pihak yang bersaing untuk mengamankan posisi awal dalam KYA, atau Know Your Agent, sistem yang dapat berfungsi sebagai kartu identitas bagi agen AI. Latar belakangnya adalah meningkatnya kemungkinan AI menjalankan langsung aktivitas terkait rekening, pembayaran, dan kontrak. Jika prosedur verifikasi pelanggan dalam keuangan tradisional berfokus pada manusia, KYA dibahas sebagai cara untuk mengidentifikasi dan memverifikasi agen AI yang bergerak secara mandiri. Uni Eropa dan Singapura juga menunjukkan tanda-tanda pembahasan regulasi KYA yang makin aktif. Jika kerangka ini terbentuk, KYA dapat menjadi infrastruktur kepercayaan bagi pembayaran berbasis AI dan transaksi antarmesin. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "5c34d25035e1",
-    "slug": "mk시그널-미래에셋증권-미국-ma-추진-및-글로벌-리테일-확장-가시화에-주가-상승세-mk시그널-추천-후-상승-769672",
-    "channelId": "ETF",
-    "category": "etf",
-    "publishedAt": "2026-05-08T06:11:55.984Z",
-    "updatedAt": "2026-05-08T06:11:55.984Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/stock/12040747",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12040747",
-    "titleFingerprint": "78d9a6593eee2c462e6f76a5c3f9e29b52a42094",
-    "dedupKeys": [
-      "5c34d25035e15c8d21ac36cbe37de9bf8b07c50b",
-      "78d9a6593eee2c462e6f76a5c3f9e29b52a42094",
-      "c22f2f9c098074ce1b63c0d2ed2ea4c4824fd32f"
-    ],
-    "imageUrl": "/images/articles/5c34d25035e1.png",
-    "i18n": {
-      "ko": {
-        "title": "미래에셋증권 주가 상승, 미국 M&A·글로벌 리테일 확장 주목",
-        "excerpt": "5월 8일 미래에셋증권(006800)이 미국 M&A 추진과 글로벌 리테일 확장 가시화 기대 속에 9시 9분 기준 79,200원으로 상승세를 보였다.",
-        "body": "5월 8일 오전 미래에셋증권(006800) 주가가 상승세를 보였다. MK시그널에 따르면 미래에셋증권은 오전 9시 9분 기준 79,200원에 거래됐다. 전 거래일 종가는 78,100원으로 마감했으며, 이날 장 초반 주가가 전일 종가 대비 오른 흐름을 나타냈다. 이번 움직임은 미국 M&A 추진과 글로벌 리테일 확장 가시화가 시장의 관심을 받은 가운데 나타났다. MK시그널 추천 이후 미래에셋증권의 상승률은 32.03%로 집계됐다. 향후 주가 흐름은 관련 사업 추진 상황과 시장 반응에 따라 주목될 전망이다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Mirae Asset Securities Rises as U.S. M&A and Global Retail Expansion Draw Focus",
-        "excerpt": "On May 8, Mirae Asset Securities (006800) rose to 79,200 won as of 9:09 a.m., with attention on its U.S. M&A push and clearer global retail expansion.",
-        "body": "Mirae Asset Securities (006800) moved higher on the morning of May 8. According to MK Signal, the stock was trading at 79,200 won as of 9:09 a.m. The previous trading day’s closing price was 78,100 won, and the stock showed an early-session gain from that level. The move came as the company’s pursuit of U.S. M&A and visible progress in global retail expansion drew market attention. Since MK Signal’s recommendation, Mirae Asset Securities has recorded a gain of 32.03%. Future share-price movement is expected to remain in focus depending on related business progress and market response. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "未来アセット証券が上昇、米国M&Aとグローバルリテール拡大に注目",
-        "excerpt": "5月8日、未来アセット証券（006800）は米国M&A推進とグローバルリテール拡大の可視化が注目され、午前9時9分時点で79,200ウォンに上昇した。",
-        "body": "5月8日午前、未来アセット証券（006800）の株価が上昇した。MKシグナルによると、同銘柄は午前9時9分時点で79,200ウォンで取引された。前営業日の終値は78,100ウォンで、同日の寄り付き後には前日終値を上回る動きを示した。今回の上昇は、米国M&Aの推進とグローバルリテール拡大の可視化が市場の関心を集める中で起きた。MKシグナルの推奨後、未来アセット証券の上昇率は32.03%と集計された。今後の株価動向は、関連事業の進展状況と市場の反応に応じて注目される見通しだ。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "未来资产证券股价上涨，美国并购与全球零售扩张受关注",
-        "excerpt": "5月8日，未来资产证券（006800）在美国并购推进及全球零售扩张更趋明朗的关注下，于上午9点9分报79,200韩元并呈上涨走势。",
-        "body": "5月8日上午，未来资产证券（006800）股价呈现上涨走势。据MK Signal报道，截至上午9点9分，该股报79,200韩元。前一交易日收盘价为78,100韩元，当天早盘股价较前收盘价走高。此次走势出现在市场关注其推进美国并购以及全球零售业务扩张逐渐明朗之际。自MK Signal推荐以来，未来资产证券累计涨幅为32.03%。后续股价走势预计将取决于相关业务推进情况及市场反应，并继续受到关注。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Mirae Asset Securities sube por M&A en EE. UU. y expansión minorista global",
-        "excerpt": "El 8 de mayo, Mirae Asset Securities (006800) subía a 79.200 wones a las 9:09, impulsada por el foco en sus planes de M&A en EE. UU. y expansión minorista global.",
-        "body": "La acción de Mirae Asset Securities (006800) avanzó en la mañana del 8 de mayo. Según MK Signal, el valor cotizaba a 79.200 wones a las 9:09. En la sesión anterior, el precio de cierre fue de 78.100 wones, por lo que en el inicio de la jornada mostró una subida frente a ese nivel. El movimiento se produjo mientras el mercado prestaba atención al impulso de M&A en Estados Unidos y a la mayor visibilidad de su expansión minorista global. Desde la recomendación de MK Signal, Mirae Asset Securities acumula una subida del 32,03%. La evolución futura dependerá del avance de esos negocios y de la respuesta del mercado. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Mirae Asset Securities sobe com M&A nos EUA e expansão global no varejo",
-        "excerpt": "Em 8 de maio, a Mirae Asset Securities (006800) subia para 79.200 won às 9h09, com foco na busca por M&A nos EUA e na expansão global de varejo.",
-        "body": "As ações da Mirae Asset Securities (006800) subiram na manhã de 8 de maio. Segundo o MK Signal, o papel era negociado a 79.200 won às 9h09. No pregão anterior, o fechamento foi de 78.100 won, e a ação mostrava alta no início da sessão em relação a esse nível. O movimento ocorreu em meio à atenção do mercado à busca por M&A nos Estados Unidos e à maior visibilidade da expansão global de varejo. Desde a recomendação do MK Signal, a Mirae Asset Securities acumula alta de 32,03%. O desempenho futuro deve continuar em foco conforme o avanço dos negócios relacionados e a reação do mercado. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Mirae Asset Securities steigt: US-M&A und globaler Retail-Ausbau im Fokus",
-        "excerpt": "Am 8. Mai stieg Mirae Asset Securities (006800) um 9:09 Uhr auf 79.200 Won, während US-M&A-Pläne und sichtbarer globaler Retail-Ausbau Aufmerksamkeit erhielten.",
-        "body": "Die Aktie von Mirae Asset Securities (006800) legte am Morgen des 8. Mai zu. Laut MK Signal wurde sie um 9:09 Uhr bei 79.200 Won gehandelt. Am vorherigen Handelstag hatte der Schlusskurs bei 78.100 Won gelegen, womit die Aktie zu Handelsbeginn über diesem Niveau notierte. Die Bewegung erfolgte, während der Markt die geplanten M&A-Aktivitäten in den USA und die sichtbarere globale Retail-Expansion beachtete. Seit der Empfehlung durch MK Signal verzeichnet Mirae Asset Securities einen Anstieg von 32,03%. Der weitere Kursverlauf dürfte von den Fortschritten der betreffenden Geschäftsaktivitäten und der Marktreaktion abhängen. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Mirae Asset Securities monte, portée par les M&A aux États-Unis et le retail mondial",
-        "excerpt": "Le 8 mai, Mirae Asset Securities (006800) progressait à 79 200 wons à 9 h 09, avec l’attention portée aux M&A aux États-Unis et à l’expansion retail mondiale.",
-        "body": "L’action Mirae Asset Securities (006800) a progressé dans la matinée du 8 mai. Selon MK Signal, le titre se négociait à 79 200 wons à 9 h 09. La veille, le cours de clôture était de 78 100 wons, et l’action affichait en début de séance un niveau supérieur à cette clôture. Ce mouvement intervient alors que le marché s’intéresse à la poursuite d’opérations de M&A aux États-Unis et à la visibilité accrue de l’expansion mondiale dans le retail. Depuis la recommandation de MK Signal, Mirae Asset Securities affiche une hausse de 32,03 %. L’évolution future dépendra de l’avancement de ces activités et de la réaction du marché. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "ارتفاع سهم ميراى أسيت سيكيوريتيز مع التركيز على صفقات أمريكا والتوسع العالمي",
-        "excerpt": "في 8 مايو، ارتفع سهم ميراى أسيت سيكيوريتيز (006800) إلى 79,200 وون عند 9:09 صباحا وسط اهتمام بخطط الاستحواذ في أمريكا والتوسع العالمي بالتجزئة.",
-        "body": "ارتفع سهم ميراى أسيت سيكيوريتيز (006800) صباح 8 مايو. ووفقا لـ MK Signal، جرى تداول السهم عند 79,200 وون في الساعة 9:09 صباحا. وكان السهم قد أغلق في جلسة التداول السابقة عند 78,100 وون، ليظهر في بداية الجلسة ارتفاعا عن مستوى الإغلاق السابق. وجاء هذا التحرك بينما لفتت خطط الشركة لدفع عمليات الاندماج والاستحواذ في الولايات المتحدة، إلى جانب اتضاح توسعها العالمي في قطاع التجزئة، اهتمام السوق. ومنذ توصية MK Signal، سجل سهم ميراى أسيت سيكيوريتيز ارتفاعا بنسبة 32.03%. ومن المتوقع أن يبقى مسار السهم محل متابعة بحسب تقدم الأعمال ذات الصلة واستجابة السوق. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "मिरे एसेट सिक्योरिटीज में तेजी, अमेरिकी M&A और वैश्विक रिटेल विस्तार पर नजर",
-        "excerpt": "8 मई को मिरे एसेट सिक्योरिटीज (006800) सुबह 9:09 बजे 79,200 वॉन पर चढ़ा, क्योंकि अमेरिकी M&A और वैश्विक रिटेल विस्तार पर बाजार का ध्यान रहा।",
-        "body": "8 मई की सुबह मिरे एसेट सिक्योरिटीज (006800) के शेयर में तेजी दिखी। MK Signal के अनुसार, सुबह 9:09 बजे शेयर 79,200 वॉन पर कारोबार कर रहा था। पिछले कारोबारी दिन इसका बंद भाव 78,100 वॉन था, और आज शुरुआती कारोबार में शेयर उस स्तर से ऊपर रहा। यह तेजी ऐसे समय आई जब कंपनी के अमेरिकी M&A प्रयास और वैश्विक रिटेल विस्तार की स्पष्टता बाजार के ध्यान में रही। MK Signal की सिफारिश के बाद से मिरे एसेट सिक्योरिटीज ने 32.03% की बढ़त दर्ज की है। आगे शेयर की चाल संबंधित कारोबार की प्रगति और बाजार की प्रतिक्रिया पर निर्भर रहते हुए निगरानी में रहेगी। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Saham Mirae Asset Securities Naik, M&A AS dan Ekspansi Ritel Global Disorot",
-        "excerpt": "Pada 8 Mei, Mirae Asset Securities (006800) naik ke 79.200 won pukul 09.09, seiring sorotan pada rencana M&A AS dan ekspansi ritel global.",
-        "body": "Saham Mirae Asset Securities (006800) bergerak naik pada pagi 8 Mei. Menurut MK Signal, saham tersebut diperdagangkan di 79.200 won pada pukul 09.09. Pada hari perdagangan sebelumnya, harga penutupan berada di 78.100 won, sehingga pada awal sesi saham menunjukkan kenaikan dari level tersebut. Pergerakan ini terjadi saat pasar memperhatikan dorongan M&A di Amerika Serikat dan makin terlihatnya ekspansi ritel global perusahaan. Sejak rekomendasi MK Signal, Mirae Asset Securities mencatat kenaikan 32,03%. Pergerakan harga berikutnya diperkirakan tetap menjadi perhatian, bergantung pada perkembangan bisnis terkait dan respons pasar. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "4b927bb15206",
-    "slug": "영업익이-하닉-직원-성과급보다-적다증권사도-놀란-cj-enm-실적-345381",
-    "channelId": "ETF",
-    "category": "etf",
-    "publishedAt": "2026-05-08T06:10:49.971Z",
-    "updatedAt": "2026-05-08T06:10:49.971Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/stock/12041074",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12041074",
-    "titleFingerprint": "3bd4e89239bada084d76bc5e0a3ce9eeab4464a4",
-    "dedupKeys": [
-      "4b927bb152069789979327a535b89126bc4f0f4e",
-      "3bd4e89239bada084d76bc5e0a3ce9eeab4464a4",
-      "eebb23580d2a5eb848438bacaa0fb32869477be7"
-    ],
-    "imageUrl": "/images/articles/4b927bb15206.png",
-    "i18n": {
-      "ko": {
-        "title": "CJ ENM 부진 실적에 DB증권도 놀랐다…하닉 성과급 비교 리포트 화제",
-        "excerpt": "DB증권이 8일 CJ ENM의 부진한 실적을 지적한 분석 리포트 초안 제목에서 하이닉스 직원 성과급과 비교한 표현을 쓰며 투자자들 사이에서 화제를 모았다.",
-        "body": "DB증권이 8일 CJ ENM의 부진한 실적을 꼬집은 분석 리포트 초안 제목으로 투자자들의 관심을 끌었다. 원문에 따르면 DB증권은 CJ ENM 분석 리포트 초안에 ‘닉스 1명 성과급이 ..’라는 표현을 넣어, CJ ENM 영업이익이 하이닉스 직원 성과급보다 적다는 취지의 비교를 제시했다. 이 제목은 증권사도 놀랄 만큼 실적 부진이 두드러졌다는 점을 강조하며 온라인 투자자들 사이에서 회자됐다. 다만 원문 요약에 구체적인 실적 수치나 향후 전망은 제시되지 않았다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "CJ ENM’s weak earnings draw DB Securities’ striking Hynix bonus comparison",
-        "excerpt": "On May 8, DB Securities drew investor attention after a draft CJ ENM report criticized weak earnings with a headline comparing them to a Hynix employee bonus.",
-        "body": "DB Securities drew attention on May 8 with a draft analyst report title that sharply criticized CJ ENM’s weak earnings. According to the source, the draft CJ ENM report included wording beginning with “one Nix employee’s bonus...,” suggesting a comparison between CJ ENM’s operating profit and the performance bonus of a Hynix employee. The phrasing spread among investors because it underscored how notable the earnings weakness appeared, even to a brokerage house. The provided source summary did not disclose specific earnings figures or a detailed outlook. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "CJ ENMの低調な業績にDB証券も驚き、ハイニックス賞与比較が話題",
-        "excerpt": "DB証券は8日、CJ ENMの低調な業績を指摘した分析リポート草案の見出しで、ハイニックス社員の成果給と比較する表現を使い投資家の注目を集めた。",
-        "body": "DB証券が8日、CJ ENMの低調な業績を指摘した分析リポート草案の見出しで投資家の関心を集めた。原文によると、DB証券はCJ ENM分析リポート草案に「ニックス1人の成果給が..」という表現を入れ、CJ ENMの営業利益がハイニックス社員の成果給より少ないという趣旨の比較を示した。この見出しは、証券会社も驚くほど業績不振が目立った点を強調し、オンライン投資家の間で話題になった。ただし原文要約には具体的な業績数値や今後の見通しは示されていない。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "CJ ENM业绩低迷引DB证券关注，海力士奖金对比标题成话题",
-        "excerpt": "DB证券8日在CJ ENM分析报告草稿标题中指出其业绩低迷，并使用与海力士员工绩效奖金对比的表述，引发投资者关注。",
-        "body": "DB证券8日因一份指出CJ ENM业绩低迷的分析报告草稿标题而受到投资者关注。据原文，DB证券在CJ ENM分析报告草稿中写入了“一个Nix员工的绩效奖金……”这样的表述，意在把CJ ENM营业利润与海力士员工绩效奖金作比较。该标题强调，CJ ENM业绩疲弱程度连证券公司也感到意外，因此在网上投资者之间引发讨论。不过，原文摘要未提供具体业绩数字或后续展望。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "CJ ENM decepciona y DB Securities sorprende con comparación de bono Hynix",
-        "excerpt": "DB Securities llamó la atención de los inversionistas el 8 de mayo al criticar los débiles resultados de CJ ENM en un borrador que los comparaba con el bono de un empleado de Hynix.",
-        "body": "DB Securities atrajo la atención el 8 de mayo con el título preliminar de un informe que señalaba los débiles resultados de CJ ENM. Según la fuente, el borrador del análisis sobre CJ ENM incluía una frase que comenzaba con “el bono de un empleado de Nix...”, sugiriendo una comparación entre el beneficio operativo de CJ ENM y el bono por desempeño de un empleado de Hynix. El titular circuló entre inversionistas porque subrayaba una debilidad de resultados lo bastante llamativa como para sorprender a una casa de bolsa. El resumen original no ofreció cifras concretas ni previsiones. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "CJ ENM frustra e DB Securities destaca comparação com bônus da Hynix",
-        "excerpt": "A DB Securities chamou atenção dos investidores em 8 de maio ao criticar o desempenho fraco da CJ ENM em rascunho de relatório que comparava o lucro ao bônus de um funcionário da Hynix.",
-        "body": "A DB Securities ganhou atenção em 8 de maio com o título preliminar de um relatório que apontava o desempenho fraco da CJ ENM. Segundo a fonte, o rascunho do relatório sobre a CJ ENM incluía uma expressão iniciada por “o bônus de um funcionário da Nix...”, sugerindo uma comparação entre o lucro operacional da CJ ENM e o bônus por desempenho de um funcionário da Hynix. O título repercutiu entre investidores por enfatizar uma fraqueza nos resultados que surpreendeu até uma corretora. O resumo original não trouxe números específicos nem projeções futuras. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "CJ ENM enttäuscht mit schwachen Zahlen, DB Securities setzt Hynix-Bonus-Vergleich",
-        "excerpt": "DB Securities sorgte am 8. Mai unter Anlegern für Aufmerksamkeit, weil ein Entwurf zu CJ ENM schwache Ergebnisse kritisierte und sie mit dem Bonus eines Hynix-Mitarbeiters verglich.",
-        "body": "DB Securities erregte am 8. Mai mit dem Entwurf eines Analystenberichts zu CJ ENM Aufmerksamkeit, der die schwachen Ergebnisse des Unternehmens pointiert kritisierte. Laut Quelle enthielt der Entwurf eine Formulierung, die mit „der Bonus eines Nix-Mitarbeiters...“ begann, und stellte damit sinngemäß einen Vergleich zwischen dem operativen Gewinn von CJ ENM und dem Leistungsbonus eines Hynix-Mitarbeiters her. Der Titel verbreitete sich unter Anlegern, weil er die auffällige Ergebnisflaute betonte. Konkrete Zahlen oder ein Ausblick wurden in der vorliegenden Zusammenfassung nicht genannt. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "CJ ENM déçoit, DB Securities frappe avec une comparaison au bonus Hynix",
-        "excerpt": "DB Securities a attiré l’attention des investisseurs le 8 mai après avoir critiqué les résultats faibles de CJ ENM dans un projet de rapport les comparant au bonus d’un employé de Hynix.",
-        "body": "DB Securities a retenu l’attention le 8 mai avec le titre provisoire d’un rapport d’analyse critiquant les résultats faibles de CJ ENM. Selon la source, le projet de rapport sur CJ ENM contenait une formule commençant par « le bonus d’un employé de Nix... », suggérant une comparaison entre le bénéfice d’exploitation de CJ ENM et la prime de performance d’un employé de Hynix. Ce titre a circulé parmi les investisseurs car il soulignait une contre-performance jugée suffisamment marquante pour surprendre une société de courtage. Le résumé original ne fournit pas de chiffres précis ni de perspectives détaillées. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "نتائج CJ ENM الضعيفة تثير دهشة DB Securities ومقارنة بمكافأة Hynix",
-        "excerpt": "لفتت DB Securities انتباه المستثمرين في 8 مايو بعدما انتقدت نتائج CJ ENM الضعيفة في مسودة تقرير استخدمت مقارنة مع مكافأة أداء موظف في Hynix.",
-        "body": "لفتت DB Securities الانتباه في 8 مايو بعنوان مسودة تقرير تحليلي انتقد نتائج CJ ENM الضعيفة. وبحسب المصدر، تضمنت مسودة تقرير CJ ENM عبارة تبدأ بمعنى «مكافأة موظف واحد في Nix...»، في إشارة إلى مقارنة بين الربح التشغيلي لـ CJ ENM ومكافأة الأداء لموظف في Hynix. وقد تداول المستثمرون العنوان لأنه أبرز ضعف النتائج بصورة لافتة حتى بالنسبة إلى شركة أوراق مالية. ولم يتضمن ملخص المصدر أرقاما محددة للنتائج أو توقعات مفصلة للفترة المقبلة. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "CJ ENM के कमजोर नतीजों पर DB Securities भी चौंकी, Hynix बोनस तुलना चर्चा में",
-        "excerpt": "DB Securities ने 8 मई को CJ ENM के कमजोर प्रदर्शन पर रिपोर्ट मसौदे में Hynix कर्मचारी के परफॉर्मेंस बोनस से तुलना की, जिससे निवेशकों के बीच चर्चा तेज हुई।",
-        "body": "DB Securities ने 8 मई को CJ ENM के कमजोर नतीजों पर केंद्रित एक विश्लेषण रिपोर्ट के मसौदा शीर्षक से निवेशकों का ध्यान खींचा। स्रोत के अनुसार, CJ ENM रिपोर्ट मसौदे में “Nix के एक कर्मचारी का बोनस...” जैसी अभिव्यक्ति शामिल थी, जिसका आशय CJ ENM के परिचालन लाभ की तुलना Hynix कर्मचारी के प्रदर्शन बोनस से करना था। यह शीर्षक इसलिए चर्चा में आया क्योंकि इससे संकेत मिला कि नतीजों की कमजोरी ब्रोकरेज को भी चौंकाने वाली थी। उपलब्ध मूल सारांश में ठोस वित्तीय आंकड़े या आगे का विस्तृत अनुमान नहीं दिया गया। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Kinerja lemah CJ ENM disorot, DB Securities bandingkan dengan bonus Hynix",
-        "excerpt": "DB Securities pada 8 Mei menarik perhatian investor setelah rancangan laporan CJ ENM mengkritik kinerja lemah dan membandingkannya dengan bonus kinerja karyawan Hynix.",
-        "body": "DB Securities menarik perhatian pada 8 Mei lewat judul rancangan laporan analis yang menyoroti kinerja lemah CJ ENM. Menurut sumber, rancangan laporan CJ ENM memuat ungkapan yang diawali dengan “bonus satu karyawan Nix...”, yang mengarah pada perbandingan antara laba operasional CJ ENM dan bonus kinerja karyawan Hynix. Judul itu ramai dibicarakan investor karena menegaskan lemahnya hasil yang tampak mencolok bahkan bagi perusahaan sekuritas. Ringkasan sumber tidak mencantumkan angka kinerja spesifik atau prospek lanjutan. Sumber: mk.co.kr"
       }
     }
   }
