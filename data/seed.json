@@ -1,5 +1,230 @@
 [
   {
+    "id": "ec0fbf48542c",
+    "slug": "美증시도-빅테크-쏠림5개社가-상승-주도-528395",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-05-08T12:00:36.583Z",
+    "updatedAt": "2026-05-08T12:00:36.583Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/2026050848731",
+    "canonicalUrl": "https://www.hankyung.com/article/2026050848731",
+    "titleFingerprint": "a9a10aeb5300d7cd5e26c8ca794a3f0f5b3bcb54",
+    "dedupKeys": [
+      "ec0fbf48542c1c465f55e1fd53b31ef311752fbd",
+      "a9a10aeb5300d7cd5e26c8ca794a3f0f5b3bcb54",
+      "ae50229e7a26fe3a1077f049c1a47e5d528aa17d"
+    ],
+    "imageUrl": "/images/articles/ec0fbf48542c.png",
+    "i18n": {
+      "ko": {
+        "title": "미국 증시 빅테크 쏠림 심화, 5개 기업이 상승세 주도",
+        "excerpt": "hankyung.com은 미국 증시 상승이 소수 빅테크 기업에 집중됐다고 보도했다. 5개 기업이 오름세를 이끌며 시장 전반보다 대형 기술주 영향력이 부각됐다.",
+        "body": "미국 증시에서 상승 흐름이 일부 대형 기술주에 집중되는 ‘빅테크 쏠림’ 현상이 나타났다고 hankyung.com이 보도했다. 보도에 따르면 미국 주식시장의 오름세는 전체 종목의 고른 반등보다 5개 기업의 상승 주도에 의해 설명되는 측면이 크다. 이는 투자자들이 지수 상승을 해석할 때 시장 전반의 개선인지, 소수 대형 기술주의 영향인지 구분해 볼 필요가 있음을 보여준다. 특히 미국 주식형 ETF나 지수 추종 상품을 보는 투자자에게는 편입 상위 기업의 움직임이 성과를 좌우할 수 있다는 점이 핵심 변수다. 출처: hankyung.com"
+      },
+      "en": {
+        "title": "U.S. Stock Gains Concentrate in Big Tech as Five Companies Lead Rally",
+        "excerpt": "hankyung.com reported that gains in the U.S. stock market have been concentrated in a small group of Big Tech names, with five companies driving the advance rather than a broad market rise.",
+        "body": "Gains in the U.S. stock market are showing a concentration in major technology shares, a trend described as a Big Tech tilt, according to hankyung.com. The report says the market’s advance is being led by five companies, rather than by an even rebound across the broader equity market. That makes it important to distinguish whether index gains reflect widespread improvement or the influence of a small number of large technology stocks. For investors watching U.S. equity ETFs or index-tracking products, movements in top holdings may therefore be a key factor in performance. Source: hankyung.com"
+      },
+      "ja": {
+        "title": "米国株もビッグテック偏重、5社が相場上昇を主導",
+        "excerpt": "hankyung.comは、米国株式市場の上昇が少数のビッグテック企業に集中していると報じた。5社が上昇を主導し、市場全体より大型技術株の影響が目立つ。",
+        "body": "米国株式市場で、上昇の流れが一部の大型テクノロジー株に集中する「ビッグテック偏重」が見られるとhankyung.comが報じた。報道によると、米国株の上昇は市場全体の均等な反発というより、5社の上昇主導によって説明される面が大きい。これは投資家が指数上昇を読む際、市場全般の改善なのか、少数の大型技術株の影響なのかを分けて確認する必要があることを示す。米国株ETFや指数連動商品を見る投資家にとって、上位組み入れ銘柄の動きが成果を左右し得る点が重要な変数となる。出所: hankyung.com"
+      },
+      "zh": {
+        "title": "美股上涨再现大型科技股集中，五家公司主导升势",
+        "excerpt": "hankyung.com报道称，美股上涨集中在少数大型科技企业。五家公司主导升势，使大型科技股的影响力相较整体市场表现更加突出。",
+        "body": "据hankyung.com报道，美国股市出现上涨集中于部分大型科技股的现象，即所谓大型科技股集中。报道称，美股涨势并非更多来自整体个股的均衡反弹，而是在相当程度上由五家公司的上涨所主导。这意味着投资者在解读指数上涨时，需要区分其反映的是市场整体改善，还是少数大型科技股的影响。对于关注美国股票ETF或指数跟踪产品的投资者而言，权重靠前企业的走势可能成为左右表现的关键变量。来源: hankyung.com"
+      },
+      "es": {
+        "title": "Wall Street concentra subidas en Big Tech: cinco empresas lideran el avance",
+        "excerpt": "hankyung.com informó que las subidas de la bolsa estadounidense se concentran en un pequeño grupo de Big Tech, con cinco compañías impulsando el avance más que el mercado en conjunto.",
+        "body": "La bolsa estadounidense muestra una concentración de las subidas en grandes valores tecnológicos, una tendencia de sesgo hacia Big Tech, según informó hankyung.com. De acuerdo con el reporte, el avance del mercado se explica en gran medida por cinco compañías, más que por una recuperación uniforme del conjunto de acciones. Esto indica que los inversores deben distinguir si el alza de los índices refleja una mejora amplia del mercado o el efecto de unas pocas tecnológicas de gran capitalización. Para quienes siguen ETF de renta variable estadounidense o productos indexados, el movimiento de las principales posiciones puede ser un factor clave de rentabilidad. Fuente: hankyung.com"
+      },
+      "pt": {
+        "title": "Bolsa dos EUA concentra ganhos em Big Tech, com cinco empresas na liderança",
+        "excerpt": "O hankyung.com informou que a alta das ações dos EUA está concentrada em poucas Big Techs. Cinco empresas lideram o avanço, destacando o peso das grandes tecnológicas.",
+        "body": "O mercado acionário dos Estados Unidos mostra uma concentração dos ganhos em grandes empresas de tecnologia, tendência descrita como foco em Big Tech, segundo o hankyung.com. De acordo com a reportagem, a alta das ações americanas é explicada em grande parte pela liderança de cinco empresas, e não por uma recuperação ampla e equilibrada do mercado. Isso mostra que investidores devem diferenciar se a alta dos índices reflete melhora geral ou influência de poucas companhias tecnológicas de grande porte. Para quem acompanha ETFs de ações dos EUA ou produtos que replicam índices, o movimento das maiores posições pode ser uma variável central de desempenho. Fonte: hankyung.com"
+      },
+      "de": {
+        "title": "US-Aktien mit Big-Tech-Konzentration: Fünf Firmen treiben Gewinne",
+        "excerpt": "hankyung.com berichtete, dass sich die Kursgewinne am US-Aktienmarkt auf wenige Big-Tech-Werte konzentrieren. Fünf Unternehmen führen den Anstieg an und prägen die Marktentwicklung.",
+        "body": "Am US-Aktienmarkt konzentrieren sich die Kursgewinne auf einige große Technologiewerte, ein Muster, das als Big-Tech-Fokus beschrieben wird, berichtete hankyung.com. Dem Bericht zufolge wird der Anstieg des Marktes stärker durch fünf Unternehmen getragen als durch eine gleichmäßige Erholung vieler Aktien. Für Anleger ist es daher wichtig zu unterscheiden, ob steigende Indizes eine breite Verbesserung des Marktes zeigen oder vor allem den Einfluss weniger großer Technologiekonzerne widerspiegeln. Wer US-Aktien-ETFs oder indexnahe Produkte beobachtet, sollte besonders die Bewegungen der größten Positionen beachten, da sie die Wertentwicklung prägen können. Quelle: hankyung.com"
+      },
+      "fr": {
+        "title": "Wall Street se concentre sur la Big Tech, cinq sociétés mènent la hausse",
+        "excerpt": "hankyung.com rapporte que la progression des actions américaines se concentre sur quelques grandes valeurs technologiques, cinq sociétés menant l’essentiel de la hausse du marché.",
+        "body": "Le marché actions américain montre une concentration de la hausse sur quelques grandes valeurs technologiques, une tendance assimilée à un biais Big Tech, selon hankyung.com. Le reportage indique que la progression des actions américaines s’explique davantage par cinq sociétés que par un rebond homogène de l’ensemble du marché. Les investisseurs doivent donc distinguer si la hausse des indices traduit une amélioration générale ou l’effet de quelques grandes entreprises technologiques. Pour ceux qui suivent les ETF actions américains ou les produits répliquant des indices, l’évolution des principales pondérations peut devenir un facteur déterminant de performance. Source: hankyung.com"
+      },
+      "ar": {
+        "title": "أسهم وول ستريت تتركز في شركات التكنولوجيا الكبرى وخمس تقود الصعود",
+        "excerpt": "أفاد hankyung.com بأن مكاسب سوق الأسهم الأميركية تتركز في عدد محدود من شركات التكنولوجيا الكبرى، إذ تقود خمس شركات الارتفاع بدلا من صعود واسع في السوق.",
+        "body": "تشهد سوق الأسهم الأميركية تركزا في المكاسب داخل بعض شركات التكنولوجيا الكبرى، وهي ظاهرة توصف بميل واضح نحو أسهم Big Tech، بحسب ما أفاد hankyung.com. ووفقا للتقرير، فإن ارتفاع السوق الأميركية يفسر بدرجة كبيرة بقيادة خمس شركات، أكثر من كونه تعافيا متوازنا في مختلف الأسهم. وهذا يعني أن على المستثمرين التمييز بين ما إذا كان صعود المؤشرات يعكس تحسنا عاما في السوق أم تأثير عدد محدود من الشركات التكنولوجية الضخمة. وبالنسبة إلى متابعي صناديق ETF للأسهم الأميركية أو المنتجات التي تتبع المؤشرات، قد تصبح حركة أكبر المكونات عاملا رئيسيا في الأداء. المصدر: hankyung.com"
+      },
+      "hi": {
+        "title": "अमेरिकी बाजार में बिग टेक का दबदबा, पांच कंपनियां तेजी चला रहीं",
+        "excerpt": "hankyung.com ने बताया कि अमेरिकी शेयर बाजार की बढ़त कुछ बड़ी टेक कंपनियों में केंद्रित है। पांच कंपनियां तेजी को आगे बढ़ा रही हैं, जिससे बिग टेक का असर उभर रहा है।",
+        "body": "अमेरिकी शेयर बाजार में तेजी कुछ बड़ी टेक्नोलॉजी कंपनियों पर केंद्रित दिख रही है, जिसे बिग टेक की ओर झुकाव कहा जा रहा है, hankyung.com ने रिपोर्ट किया। रिपोर्ट के अनुसार, अमेरिकी शेयरों की बढ़त पूरे बाजार में समान सुधार के बजाय पांच कंपनियों की अगुवाई से अधिक समझी जा सकती है। इससे निवेशकों के लिए यह देखना जरूरी हो जाता है कि सूचकांकों की तेजी व्यापक बाजार सुधार को दिखाती है या कुछ बड़ी टेक कंपनियों के प्रभाव को। अमेरिकी इक्विटी ETF या इंडेक्स ट्रैकिंग उत्पादों को देखने वाले निवेशकों के लिए शीर्ष होल्डिंग्स की चाल प्रदर्शन तय करने वाला अहम कारक हो सकती है। स्रोत: hankyung.com"
+      },
+      "id": {
+        "title": "Bursa AS Kian Bertumpu pada Big Tech, Lima Perusahaan Pimpin Kenaikan",
+        "excerpt": "hankyung.com melaporkan kenaikan bursa saham AS terkonsentrasi pada segelintir saham Big Tech. Lima perusahaan memimpin penguatan, bukan reli yang merata di seluruh pasar.",
+        "body": "Bursa saham Amerika Serikat menunjukkan kenaikan yang terkonsentrasi pada beberapa saham teknologi besar, sebuah tren yang disebut sebagai penumpuan pada Big Tech, menurut hankyung.com. Laporan itu menyebut penguatan pasar AS lebih banyak dijelaskan oleh kenaikan lima perusahaan, bukan oleh pemulihan yang merata di seluruh saham. Karena itu, investor perlu membedakan apakah kenaikan indeks mencerminkan perbaikan pasar secara luas atau pengaruh segelintir perusahaan teknologi besar. Bagi investor yang memantau ETF saham AS atau produk pelacak indeks, pergerakan saham dengan bobot terbesar dapat menjadi faktor penting bagi kinerja. Sumber: hankyung.com"
+      }
+    }
+  },
+  {
+    "id": "73a788192488",
+    "slug": "코스피-종목-절반-전쟁-전-주가-회복-못해-254813",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-05-08T11:59:30.348Z",
+    "updatedAt": "2026-05-08T11:59:30.348Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/2026050848721",
+    "canonicalUrl": "https://www.hankyung.com/article/2026050848721",
+    "titleFingerprint": "97d5d7f55f14133eb86ac2807fc71053dbe19744",
+    "dedupKeys": [
+      "73a78819248858e57c2eb03b689344314040c0a5",
+      "97d5d7f55f14133eb86ac2807fc71053dbe19744",
+      "e64665289da6c159e711ebe7acf86d6583a23362"
+    ],
+    "imageUrl": "/images/articles/73a788192488.png",
+    "i18n": {
+      "ko": {
+        "title": "코스피 종목 절반, 전쟁 전 주가 회복 못해…지수 회복 뒤 종목별 격차 부각",
+        "excerpt": "한국경제에 따르면 코스피 상장 종목의 절반은 전쟁 이전 주가 수준을 아직 회복하지 못했다. 지수 흐름과 달리 개별 종목 간 회복 격차가 남아 있다는 점이 부각됐다.",
+        "body": "한국경제는 코스피 상장 종목의 절반이 전쟁 전 주가를 회복하지 못했다고 전했다. 보도에 따르면 시장 전체가 일정 부분 회복세를 보였더라도, 모든 종목이 같은 속도로 반등한 것은 아니다. 핵심 수치는 코스피 종목의 약 절반이 전쟁 이전 수준에 미치지 못한다는 점이다. 이는 지수 흐름만으로 개별 종목의 회복 정도를 판단하기 어렵다는 의미로 읽힌다. 투자자 입장에서는 시장 대표 지수와 종목별 주가 사이의 차이를 함께 살펴볼 필요가 있다. 향후 시장 평가는 지수 회복 여부뿐 아니라 아직 전쟁 전 가격을 되찾지 못한 종목들의 반등 여부에 따라 달라질 수 있다. 출처: hankyung.com"
+      },
+      "en": {
+        "title": "Half of KOSPI Stocks Still Below Pre-War Prices, Revealing Uneven Market Recovery",
+        "excerpt": "According to Hankyung, half of KOSPI-listed stocks have yet to regain their pre-war price levels, highlighting a gap between index movement and individual stock recovery.",
+        "body": "Hankyung reported that half of the stocks listed on the KOSPI have not recovered their pre-war share prices. According to the report, even if the broader market has shown some recovery, not all stocks have rebounded at the same pace. The key figure is that about half of KOSPI names remain below their levels before the war. This suggests that the recovery of individual stocks cannot be judged by the index alone. For investors, the difference between the benchmark index and stock-by-stock performance remains important. Future market assessment may depend not only on whether the index recovers, but also on whether stocks still below their pre-war prices can rebound. Source: hankyung.com"
+      },
+      "ja": {
+        "title": "KOSPI銘柄の半数、戦争前の株価を回復できず…指数回復後も格差鮮明",
+        "excerpt": "韓国経済新聞によると、KOSPI上場銘柄の半数は戦争前の株価水準をまだ回復しておらず、指数の動きと個別銘柄の回復に差が残っていることが示された。",
+        "body": "韓国経済新聞は、KOSPI上場銘柄の半数が戦争前の株価を回復していないと報じた。報道によれば、市場全体が一定程度回復していても、すべての銘柄が同じ速度で反発したわけではない。重要な数値は、KOSPI銘柄のおよそ半数が戦争前の水準に届いていないという点だ。これは、指数の動きだけで個別銘柄の回復度を判断するのは難しいことを意味する。投資家にとっては、代表指数と銘柄別株価の差を併せて確認する必要がある。今後の市場評価は、指数の回復だけでなく、戦争前の価格を取り戻していない銘柄の反発にも左右される可能性がある。出典: hankyung.com"
+      },
+      "zh": {
+        "title": "半数KOSPI个股仍未收复战前股价，指数回升背后分化凸显",
+        "excerpt": "据韩国经济新闻报道，KOSPI上市股票中约半数仍未恢复至战前股价水平，显示指数走势与个股修复之间仍存在明显差异。",
+        "body": "韩国经济新闻报道称，KOSPI上市股票中有一半尚未恢复到战前股价。报道显示，即使整体市场出现一定程度的恢复，并非所有股票都以相同速度反弹。核心数据是，约半数KOSPI个股仍低于战前水平。这意味着，仅凭指数走势难以判断个别股票的恢复程度。对投资者而言，有必要同时观察代表性指数与个股价格之间的差异。未来市场评价不仅取决于指数是否恢复，也可能取决于那些尚未收复战前价格的股票能否反弹。来源: hankyung.com"
+      },
+      "es": {
+        "title": "La mitad de las acciones del KOSPI sigue bajo niveles previos a la guerra",
+        "excerpt": "Según Hankyung, la mitad de las acciones cotizadas en el KOSPI aún no ha recuperado sus precios previos a la guerra, lo que muestra una recuperación desigual entre el índice y los valores individuales.",
+        "body": "Hankyung informó que la mitad de las acciones cotizadas en el KOSPI no ha recuperado sus precios previos a la guerra. Según el reporte, aunque el mercado en conjunto haya mostrado cierta recuperación, no todos los valores han rebotado al mismo ritmo. La cifra clave es que cerca de la mitad de los componentes del KOSPI sigue por debajo de los niveles anteriores a la guerra. Esto indica que no basta observar el índice para evaluar la recuperación de cada acción. Para los inversores, sigue siendo importante comparar el movimiento del índice de referencia con el desempeño de cada valor. La evaluación futura del mercado podría depender no solo de la recuperación del índice, sino también de si esas acciones logran volver a sus precios previos a la guerra. Fuente: hankyung.com"
+      },
+      "pt": {
+        "title": "Metade das ações do KOSPI segue abaixo do preço anterior à guerra",
+        "excerpt": "Segundo o Hankyung, metade das ações listadas no KOSPI ainda não recuperou os preços anteriores à guerra, evidenciando diferença entre o índice e a recuperação de papéis individuais.",
+        "body": "O Hankyung informou que metade das ações listadas no KOSPI não recuperou os preços anteriores à guerra. Segundo a reportagem, mesmo que o mercado mais amplo tenha mostrado alguma recuperação, nem todos os papéis reagiram no mesmo ritmo. O dado central é que cerca de metade dos nomes do KOSPI permanece abaixo dos níveis anteriores à guerra. Isso mostra que o movimento do índice, sozinho, não permite avaliar a recuperação de cada ação. Para investidores, a diferença entre o índice de referência e os preços por papel segue relevante. A avaliação futura do mercado pode depender não apenas da recuperação do índice, mas também da retomada das ações que ainda não voltaram aos preços anteriores à guerra. Fonte: hankyung.com"
+      },
+      "de": {
+        "title": "Hälfte der KOSPI-Aktien bleibt unter Vorkriegsniveau trotz Indexerholung",
+        "excerpt": "Laut Hankyung hat die Hälfte der im KOSPI gelisteten Aktien ihre Kurse von vor dem Krieg noch nicht wieder erreicht, was eine Lücke zwischen Indexentwicklung und Einzeltiteln zeigt.",
+        "body": "Hankyung berichtete, dass die Hälfte der im KOSPI gelisteten Aktien ihre Kurse von vor dem Krieg nicht wieder erreicht hat. Dem Bericht zufolge bedeutet eine gewisse Erholung des Gesamtmarkts nicht, dass alle Aktien im gleichen Tempo gestiegen sind. Die zentrale Zahl lautet: Rund die Hälfte der KOSPI-Werte liegt weiterhin unter dem Niveau vor dem Krieg. Daraus folgt, dass sich die Erholung einzelner Aktien nicht allein am Index ablesen lässt. Für Anleger bleibt der Unterschied zwischen dem Leitindex und den Kursen einzelner Titel wichtig. Die weitere Markteinschätzung könnte nicht nur davon abhängen, ob der Index sich erholt, sondern auch davon, ob die Aktien unter Vorkriegsniveau wieder zulegen. Quelle: hankyung.com"
+      },
+      "fr": {
+        "title": "La moitié des valeurs du KOSPI reste sous ses cours d’avant-guerre",
+        "excerpt": "Selon Hankyung, la moitié des actions cotées au KOSPI n’a pas encore retrouvé ses niveaux d’avant-guerre, soulignant un écart entre l’indice et la reprise des titres individuels.",
+        "body": "Hankyung a rapporté que la moitié des actions cotées au KOSPI n’a pas retrouvé ses cours d’avant-guerre. Selon l’article, même si l’ensemble du marché a montré une certaine reprise, toutes les valeurs n’ont pas rebondi au même rythme. Le chiffre clé est qu’environ la moitié des titres du KOSPI restent sous leurs niveaux d’avant-guerre. Cela signifie que l’évolution de l’indice ne suffit pas à mesurer la reprise de chaque action. Pour les investisseurs, l’écart entre l’indice de référence et les cours individuels doit être suivi de près. L’évaluation future du marché pourrait dépendre non seulement de la reprise de l’indice, mais aussi du rebond des titres qui n’ont pas encore retrouvé leurs prix d’avant-guerre. Source: hankyung.com"
+      },
+      "ar": {
+        "title": "نصف أسهم كوسبي لم يستعد أسعار ما قبل الحرب رغم تحسن المؤشر",
+        "excerpt": "بحسب هانكيونغ، فإن نصف الأسهم المدرجة في مؤشر كوسبي لم يستعد بعد مستويات الأسعار التي سجلها قبل الحرب، ما يبرز تفاوتا بين حركة المؤشر وتعافي الأسهم الفردية.",
+        "body": "ذكرت هانكيونغ أن نصف الأسهم المدرجة في مؤشر كوسبي لم يستعد أسعار ما قبل الحرب. ووفقا للتقرير، فإن إظهار السوق ككل قدرا من التعافي لا يعني أن جميع الأسهم ارتدت بالوتيرة نفسها. الرقم الأساسي هو أن نحو نصف أسهم كوسبي لا يزال دون مستوياته السابقة للحرب. وهذا يعني أن حركة المؤشر وحدها لا تكفي للحكم على مدى تعافي كل سهم. بالنسبة إلى المستثمرين، تظل الفجوة بين المؤشر الرئيسي وأسعار الأسهم الفردية عاملا مهما يجب متابعته. وقد يعتمد تقييم السوق لاحقا ليس فقط على تعافي المؤشر، بل أيضا على قدرة الأسهم التي لم تستعد أسعار ما قبل الحرب على الارتداد. المصدر: hankyung.com"
+      },
+      "hi": {
+        "title": "KOSPI के आधे शेयर अब भी युद्ध-पूर्व भाव से नीचे, रिकवरी में अंतर साफ",
+        "excerpt": "Hankyung के अनुसार, KOSPI में सूचीबद्ध आधे शेयर अब तक युद्ध से पहले के मूल्य स्तर पर नहीं लौटे हैं, जिससे सूचकांक की चाल और अलग-अलग शेयरों की रिकवरी में अंतर दिखता है।",
+        "body": "Hankyung ने बताया कि KOSPI में सूचीबद्ध आधे शेयर युद्ध से पहले के भाव को अब तक हासिल नहीं कर पाए हैं। रिपोर्ट के अनुसार, भले ही व्यापक बाजार में कुछ सुधार दिखा हो, सभी शेयरों ने समान गति से वापसी नहीं की। मुख्य आंकड़ा यह है कि KOSPI के लगभग आधे शेयर अब भी युद्ध-पूर्व स्तर से नीचे हैं। इसका मतलब है कि केवल सूचकांक की चाल देखकर अलग-अलग शेयरों की रिकवरी का आकलन करना कठिन है। निवेशकों के लिए प्रमुख सूचकांक और शेयर-दर-शेयर कीमतों के बीच का अंतर देखना जरूरी है। आगे बाजार का मूल्यांकन केवल सूचकांक की रिकवरी पर नहीं, बल्कि उन शेयरों की वापसी पर भी निर्भर कर सकता है जो अभी युद्ध-पूर्व कीमत पर नहीं पहुंचे हैं। स्रोत: hankyung.com"
+      },
+      "id": {
+        "title": "Separuh Saham KOSPI Belum Pulih ke Harga Pra-Perang, Kesenjangan Terlihat",
+        "excerpt": "Menurut Hankyung, separuh saham yang tercatat di KOSPI belum kembali ke level harga sebelum perang, menyoroti perbedaan antara pergerakan indeks dan pemulihan masing-masing saham.",
+        "body": "Hankyung melaporkan bahwa separuh saham yang tercatat di KOSPI belum memulihkan harga sebelum perang. Menurut laporan itu, meskipun pasar secara keseluruhan menunjukkan sebagian pemulihan, tidak semua saham naik kembali dengan kecepatan yang sama. Angka utamanya adalah sekitar separuh saham KOSPI masih berada di bawah level sebelum perang. Ini menunjukkan bahwa pergerakan indeks saja sulit digunakan untuk menilai pemulihan tiap saham. Bagi investor, selisih antara indeks acuan dan harga masing-masing saham tetap perlu diperhatikan. Penilaian pasar ke depan dapat bergantung bukan hanya pada pemulihan indeks, tetapi juga pada apakah saham yang belum kembali ke harga sebelum perang mampu rebound. Sumber: hankyung.com"
+      }
+    }
+  },
+  {
+    "id": "a032fffd8615",
+    "slug": "이참에-좀-쉬었다-갈게요미국이란-긴장-재고조에-코스피-2대-하락-783576",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-05-08T11:58:23.585Z",
+    "updatedAt": "2026-05-08T11:58:23.585Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/stock/12040743",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12040743",
+    "titleFingerprint": "d527480f7456311d8779af9a9383a1137bcd9a0e",
+    "dedupKeys": [
+      "a032fffd86150831672ead4ca1277d0c64d29eaa",
+      "d527480f7456311d8779af9a9383a1137bcd9a0e",
+      "e4ad63d3a52761634c4724c3bea78af4b725a7a1"
+    ],
+    "imageUrl": "/images/articles/a032fffd8615.jpg",
+    "i18n": {
+      "ko": {
+        "title": "미국·이란 긴장 재고조에 코스피 2%대 급락 출발, 최근 급등 후 숨 고르기",
+        "excerpt": "8일 오전 코스피가 간밤 미국·이란 긴장 고조 여파로 전일 대비 150.73포인트, 2.01% 하락하며 출발했다. 최근 급등 이후 위험 회피 심리가 부각됐다.",
+        "body": "8일 오전 국내 증시는 간밤 미국과 이란의 긴장이 다시 고조된 영향으로 하락 출발했다. mk.co.kr에 따르면 이날 오전 9시 6분 현재 코스피는 전일 대비 150.73포인트, 2.01% 내린 흐름을 보였다. 최근 급등세를 이어온 코스피가 대외 지정학적 변수에 민감하게 반응하며 투자심리가 위축된 모습이다. 원문은 시장이 ‘이참에 좀 쉬었다 갈게요’라는 분위기 속에서 조정을 받는 상황으로 전했다. 관련 수치로는 장 초반 코스피 낙폭이 2%대를 기록했다는 점이 제시됐다. 단기적으로는 미국·이란 긴장 재고조가 위험자산 선호를 약화시키며 국내 주식시장 변동성을 키운 요인으로 해석된다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "KOSPI Opens Over 2% Lower as U.S.-Iran Tensions Flare Again",
+        "excerpt": "On May 8, the KOSPI opened lower after overnight U.S.-Iran tensions intensified, falling 150.73 points, or 2.01%, from the previous session by 9:06 a.m.",
+        "body": "South Korean stocks opened lower on the morning of May 8 as tensions between the United States and Iran rose again overnight. According to mk.co.kr, the KOSPI was down 150.73 points, or 2.01%, from the previous session as of 9:06 a.m. The index, which had recently advanced sharply, appeared sensitive to external geopolitical risks as investor sentiment weakened. The original report described the market as entering a pause after its recent rally. The key figure cited was the KOSPI’s early-session decline of more than 2%. In the near term, the renewed U.S.-Iran tension was presented as a factor weighing on appetite for risk assets and increasing volatility in the domestic stock market. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "米イラン緊張再燃でKOSPIが2％超安で開始、急騰後に一服感",
+        "excerpt": "8日午前、KOSPIは米国とイランの緊張が一晩で高まった影響で、午前9時6分時点に前日比150.73ポイント、2.01％下落して始まった。",
+        "body": "8日午前、韓国株式市場は、米国とイランの緊張が一晩で再び高まったことを受けて下落して始まった。mk.co.krによると、同日午前9時6分現在、KOSPIは前日比150.73ポイント、2.01％下落した流れを示した。最近急騰していたKOSPIは、対外的な地政学リスクに敏感に反応し、投資心理が萎縮した格好だ。原文は、市場が最近の上昇後に「この機会に少し休む」ような雰囲気で調整を受けている状況と伝えた。関連数値として、取引序盤のKOSPIの下げ幅が2％台を記録した点が示された。当面は米イラン緊張の再燃がリスク資産選好を弱め、韓国株式市場の変動性を高める要因として受け止められる。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "美伊紧张再度升温拖累KOSPI开盘跌逾2%，急涨后进入调整",
+        "excerpt": "5月8日上午，受隔夜美国与伊朗紧张局势升温影响，KOSPI在9时6分较前一交易日下跌150.73点，跌幅为2.01%。",
+        "body": "5月8日上午，韩国股市因隔夜美国与伊朗紧张局势再度升温而低开。据mk.co.kr报道，当天上午9时6分，KOSPI较前一交易日下跌150.73点，跌幅为2.01%。近期快速上涨的KOSPI对外部地缘政治变量表现敏感，投资者情绪出现收缩。原文将市场描述为在近期上涨后出现“趁此机会稍作休整”的调整氛围。相关数据方面，报道指出KOSPI在早盘跌幅达到2%以上。短期来看，美伊紧张再度升温被视为削弱风险资产偏好、加大韩国股市波动性的因素。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "El KOSPI abre con caída superior al 2% por nuevas tensiones entre EE. UU. e Irán",
+        "excerpt": "El 8 de mayo por la mañana, el KOSPI abrió a la baja tras el aumento nocturno de las tensiones entre EE. UU. e Irán, con una caída de 150,73 puntos, o 2,01%, a las 9:06.",
+        "body": "La bolsa surcoreana abrió a la baja en la mañana del 8 de mayo después de que las tensiones entre Estados Unidos e Irán volvieran a intensificarse durante la noche. Según mk.co.kr, a las 9:06 el KOSPI caía 150,73 puntos, un 2,01%, frente a la sesión anterior. El índice, que había subido con fuerza recientemente, reaccionó con sensibilidad a un factor geopolítico externo, mientras se debilitaba el ánimo inversor. El texto original describió el movimiento como una pausa del mercado tras el reciente repunte. La cifra clave mencionada fue una pérdida inicial superior al 2% en el KOSPI. A corto plazo, el repunte de la tensión entre EE. UU. e Irán se presenta como un factor que reduce el apetito por activos de riesgo y aumenta la volatilidad del mercado accionario local. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "KOSPI abre em queda de mais de 2% com nova tensão entre EUA e Irã",
+        "excerpt": "Na manhã de 8 de maio, o KOSPI abriu em baixa após a alta nas tensões entre EUA e Irã durante a noite, caindo 150,73 pontos, ou 2,01%, às 9h06.",
+        "body": "O mercado acionário sul-coreano abriu em queda na manhã de 8 de maio, após as tensões entre Estados Unidos e Irã voltarem a se intensificar durante a noite. Segundo o mk.co.kr, às 9h06 o KOSPI recuava 150,73 pontos, ou 2,01%, em relação ao pregão anterior. O índice, que vinha de forte alta recente, reagiu de forma sensível a um fator geopolítico externo, com enfraquecimento do sentimento dos investidores. O texto original descreveu o movimento como uma pausa do mercado após a recente valorização. O principal dado citado foi a queda inicial do KOSPI na faixa de 2%. No curto prazo, a retomada da tensão entre EUA e Irã foi apresentada como fator que reduz o apetite por ativos de risco e amplia a volatilidade da bolsa local. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "KOSPI startet über 2% tiefer, neue Spannungen zwischen USA und Iran belasten",
+        "excerpt": "Am Morgen des 8. Mai eröffnete der KOSPI nach gestiegenen Spannungen zwischen den USA und Iran schwächer und lag um 9:06 Uhr 150,73 Punkte oder 2,01% im Minus.",
+        "body": "Der südkoreanische Aktienmarkt eröffnete am Morgen des 8. Mai schwächer, nachdem die Spannungen zwischen den USA und Iran über Nacht erneut zugenommen hatten. Laut mk.co.kr lag der KOSPI um 9:06 Uhr 150,73 Punkte oder 2,01% unter dem Schlussstand des Vortags. Der Index, der zuletzt deutlich gestiegen war, reagierte empfindlich auf den externen geopolitischen Faktor, während die Anlegerstimmung nachgab. Der Originalbericht beschrieb die Lage als eine Pause des Marktes nach der jüngsten Rally. Als zentrale Kennzahl wurde der frühe Rückgang des KOSPI um mehr als 2% genannt. Kurzfristig gilt die erneute Zuspitzung zwischen den USA und Iran als Faktor, der die Nachfrage nach Risikoanlagen schwächt und die Volatilität am heimischen Aktienmarkt erhöht. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Le KOSPI ouvre en baisse de plus de 2% avec le regain de tension entre États-Unis et Iran",
+        "excerpt": "Le 8 mai au matin, le KOSPI a ouvert en baisse après la montée nocturne des tensions entre les États-Unis et l’Iran, reculant de 150,73 points, soit 2,01%, à 9h06.",
+        "body": "Le marché actions sud-coréen a ouvert en baisse le matin du 8 mai, après une nouvelle montée des tensions entre les États-Unis et l’Iran durant la nuit. Selon mk.co.kr, à 9h06, le KOSPI reculait de 150,73 points, soit 2,01%, par rapport à la séance précédente. L’indice, qui avait récemment fortement progressé, a réagi avec sensibilité à ce facteur géopolitique externe, tandis que le sentiment des investisseurs se dégradait. Le texte original a présenté le mouvement comme une pause du marché après la récente hausse. Le chiffre clé cité est une baisse de plus de 2% du KOSPI en début de séance. À court terme, le regain de tension entre Washington et Téhéran est décrit comme un facteur réduisant l’appétit pour les actifs risqués et renforçant la volatilité du marché local. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "كوسبي يفتتح على هبوط يتجاوز 2% مع تجدد التوتر بين الولايات المتحدة وإيران",
+        "excerpt": "في صباح 8 مايو، افتتح مؤشر كوسبي منخفضا بعد تصاعد التوتر بين الولايات المتحدة وإيران خلال الليل، متراجعا 150.73 نقطة أو 2.01% عند الساعة 9:06.",
+        "body": "افتتحت سوق الأسهم الكورية الجنوبية على انخفاض صباح 8 مايو، بعدما عاد التوتر بين الولايات المتحدة وإيران إلى التصاعد خلال الليل. ووفقا لـ mk.co.kr، كان مؤشر كوسبي عند الساعة 9:06 صباحا منخفضا 150.73 نقطة، أي 2.01%، مقارنة بالجلسة السابقة. المؤشر الذي سجل صعودا حادا في الفترة الأخيرة بدا حساسا للعامل الجيوسياسي الخارجي، مع تراجع معنويات المستثمرين. ووصف التقرير الأصلي حركة السوق بأنها توقف مؤقت بعد الارتفاع الأخير. والرقم الرئيسي الوارد هو أن خسائر كوسبي في بداية الجلسة تجاوزت 2%. وعلى المدى القصير، قدم تجدد التوتر بين الولايات المتحدة وإيران كعامل يضعف الإقبال على الأصول عالية المخاطر ويزيد تقلبات سوق الأسهم المحلية. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "अमेरिका-ईरान तनाव फिर बढ़ने से KOSPI 2% से ज्यादा गिरकर खुला",
+        "excerpt": "8 मई की सुबह, रातभर अमेरिका और ईरान के बीच तनाव बढ़ने के बाद KOSPI 9:06 बजे पिछले सत्र से 150.73 अंक यानी 2.01% नीचे खुला।",
+        "body": "8 मई की सुबह दक्षिण कोरिया का शेयर बाजार गिरावट के साथ खुला, क्योंकि रातभर अमेरिका और ईरान के बीच तनाव फिर बढ़ा। mk.co.kr के अनुसार, सुबह 9:06 बजे KOSPI पिछले सत्र की तुलना में 150.73 अंक, यानी 2.01%, नीचे चल रहा था। हाल में तेज बढ़त दर्ज करने वाला सूचकांक बाहरी भू-राजनीतिक कारक के प्रति संवेदनशील दिखा और निवेशकों की धारणा कमजोर पड़ी। मूल रिपोर्ट ने इस चाल को हालिया तेजी के बाद बाजार के थोड़े विराम के रूप में बताया। प्रमुख आंकड़ा शुरुआती कारोबार में KOSPI की 2% से अधिक गिरावट था। अल्पावधि में अमेरिका-ईरान तनाव का फिर बढ़ना जोखिम वाली संपत्तियों की मांग घटाने और घरेलू शेयर बाजार की अस्थिरता बढ़ाने वाला कारक बताया गया। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "KOSPI Dibuka Turun Lebih dari 2% Saat Ketegangan AS-Iran Kembali Memanas",
+        "excerpt": "Pada pagi 8 Mei, KOSPI dibuka melemah setelah ketegangan AS-Iran meningkat semalam, turun 150,73 poin atau 2,01% dari sesi sebelumnya pada pukul 09.06.",
+        "body": "Pasar saham Korea Selatan dibuka melemah pada pagi 8 Mei setelah ketegangan antara Amerika Serikat dan Iran kembali meningkat semalam. Menurut mk.co.kr, pada pukul 09.06 KOSPI turun 150,73 poin, atau 2,01%, dibandingkan sesi sebelumnya. Indeks yang belakangan naik tajam tampak sensitif terhadap faktor geopolitik eksternal, sementara sentimen investor melemah. Laporan asli menggambarkan kondisi pasar sebagai jeda setelah reli terbaru. Angka utama yang disebutkan adalah penurunan KOSPI lebih dari 2% pada awal perdagangan. Dalam jangka pendek, kembali memanasnya ketegangan AS-Iran disampaikan sebagai faktor yang menekan minat terhadap aset berisiko dan meningkatkan volatilitas pasar saham domestik. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
     "id": "5ba3fd551846",
     "slug": "코스피-7500-과열-아니다일본-비하면-아직-덜-올랐다-483013",
     "channelId": "ETF",
@@ -4271,231 +4496,6 @@
         "title": "Target HD Hyundai Heavy Naik ke 900.000 Won Berkat Mesin Pusat Data",
         "excerpt": "Hana Securities pada tanggal 8 menaikkan target harga HD Hyundai Heavy Industries dari 740.000 won menjadi 900.000 won, mengutip prospek pertumbuhan menengah-panjang dari pesanan mesin untuk pusat data.",
         "body": "Hana Securities menyatakan pada tanggal 8 bahwa pihaknya menaikkan target harga HD Hyundai Heavy Industries dari 740.000 won menjadi 900.000 won, dengan mempertimbangkan ekspektasi pertumbuhan menengah hingga panjang dari pesanan pasokan mesin untuk pusat data. Sebelumnya, HD Hyundai Heavy Industries mengumumkan kontrak senilai 627,1 miliar won untuk memasok generator bermesin kepada pengembang infrastruktur energi Aperion Energy Group. Kontrak tersebut terkait peralatan pembangkit listrik untuk pusat data, mencakup fasilitas berbasis mesin HiMSEN kelas 20MW dan mesin gas empat langkah H54GV. Skala kontraknya sekitar 684MW, dengan pengiriman bertahap dari 2028 hingga 2030. Hana Securities menilai perluasan permintaan pusat data dapat meningkatkan prospek pertumbuhan jangka panjang bisnis mesin dan permesinan. Sumber: mk.co.kr."
-      }
-    }
-  },
-  {
-    "id": "d1f240fca3b6",
-    "slug": "미래에셋증권-알고리즘이-글로벌-자산에-분산투자맞춤-관리-978084",
-    "channelId": "ETF",
-    "category": "etf",
-    "publishedAt": "2026-05-07T22:04:01.297Z",
-    "updatedAt": "2026-05-07T22:04:01.297Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/2026050707931",
-    "canonicalUrl": "https://www.hankyung.com/article/2026050707931",
-    "titleFingerprint": "d793e012ae5a4adbcc0ec2f5b53571f47aca6804",
-    "dedupKeys": [
-      "d1f240fca3b6326df6039acc26a96a36576884bc",
-      "d793e012ae5a4adbcc0ec2f5b53571f47aca6804",
-      "fe9a0e9d677ab4f4b604107cd07a08468a4fc24f"
-    ],
-    "imageUrl": "/images/articles/d1f240fca3b6.jpg",
-    "i18n": {
-      "ko": {
-        "title": "미래에셋증권 알고리즘 투자, 글로벌 자산 분산·맞춤 관리 주목",
-        "excerpt": "미래에셋증권은 알고리즘을 활용해 글로벌 자산에 분산투자하고 투자자별 맞춤 관리를 제공하는 자산관리 방식을 소개했다.",
-        "body": "미래에셋증권이 알고리즘을 활용해 글로벌 자산에 분산투자하고 투자자별 맞춤 관리를 제공하는 자산관리 방식을 소개했다. 이번 내용은 투자 판단과 운용 관리 과정에 알고리즘을 적용해 국내외 자산을 나누어 담고, 개인별 투자 성향과 관리 필요에 맞춘 서비스를 제공한다는 점에 초점이 맞춰졌다. 글로벌 자산 배분은 특정 시장이나 자산군에 집중되는 부담을 줄이는 방식으로 언급됐다. 알고리즘 기반 관리는 투자자가 직접 모든 시장을 점검하기 어려운 환경에서 맞춤형 관리 수요와 연결된다. 향후 관련 서비스는 분산투자와 개인화 관리에 관심 있는 투자자에게 선택지로 제시될 전망이다. 출처: hankyung.com"
-      },
-      "en": {
-        "title": "Mirae Asset Securities Algorithm Investing Highlights Global Diversification",
-        "excerpt": "Mirae Asset Securities introduced an algorithm-based asset management approach that diversifies across global assets and offers tailored investor management.",
-        "body": "Mirae Asset Securities introduced an asset management approach that uses algorithms to diversify investments across global assets and provide tailored management for each investor. The report focuses on applying algorithms to investment decisions and portfolio management, spreading exposure across domestic and overseas assets while offering services aligned with individual investment tendencies and management needs. Global asset allocation was presented as a way to reduce the burden of concentration in a single market or asset class. Algorithm-based management is linked to demand for personalized oversight in an environment where investors may find it difficult to monitor every market directly. The service is expected to be positioned as an option for investors interested in diversification and personalized management. Source: hankyung.com"
-      },
-      "ja": {
-        "title": "未来アセット証券のアルゴリズム投資、世界資産分散と個別管理に注目",
-        "excerpt": "未来アセット証券は、アルゴリズムを活用して世界の資産に分散投資し、投資家別にカスタム管理を行う資産管理方式を紹介した。",
-        "body": "未来アセット証券は、アルゴリズムを活用して世界の資産に分散投資し、投資家ごとにカスタム管理を提供する資産管理方式を紹介した。今回の内容は、投資判断と運用管理の過程にアルゴリズムを適用し、国内外の資産を分けて組み入れ、個人の投資傾向と管理ニーズに合わせたサービスを提供する点に焦点が置かれている。グローバル資産配分は、特定の市場や資産クラスに集中する負担を減らす方法として言及された。アルゴリズム基盤の管理は、投資家がすべての市場を直接点検することが難しい環境で、個別管理への需要と結びつく。今後、同サービスは分散投資と個人化管理に関心を持つ投資家の選択肢として提示される見通しだ。出典: hankyung.com"
-      },
-      "zh": {
-        "title": "未来资产证券算法投资受关注，分散配置全球资产并定制管理",
-        "excerpt": "未来资产证券介绍了利用算法分散投资全球资产、并按投资者需求提供定制化管理的资产管理方式。",
-        "body": "未来资产证券介绍了一种利用算法分散投资全球资产、并为不同投资者提供定制化管理的资产管理方式。相关内容聚焦于在投资判断和运营管理过程中应用算法，将国内外资产进行分散配置，并根据个人投资倾向和管理需求提供服务。全球资产配置被提及为降低过度集中于特定市场或资产类别负担的一种方式。基于算法的管理，也与投资者难以直接检查所有市场的环境下，对个性化管理的需求相连接。未来，该服务预计将作为关注分散投资和个性化管理的投资者的一项选择。来源: hankyung.com"
-      },
-      "es": {
-        "title": "Mirae Asset Securities impulsa inversión algorítmica en activos globales",
-        "excerpt": "Mirae Asset Securities presentó un modelo de gestión que usa algoritmos para diversificar en activos globales y ofrecer administración personalizada.",
-        "body": "Mirae Asset Securities presentó un enfoque de gestión patrimonial que utiliza algoritmos para diversificar inversiones en activos globales y ofrecer administración personalizada para cada inversor. El contenido se centra en aplicar algoritmos al proceso de decisión de inversión y gestión operativa, distribuyendo activos nacionales e internacionales y ofreciendo servicios ajustados a la tendencia de inversión y las necesidades de gestión de cada persona. La asignación global de activos fue mencionada como una forma de reducir la carga de concentración en un mercado o clase de activo específico. La gestión basada en algoritmos se vincula con la demanda de supervisión personalizada en un entorno donde a los inversores les resulta difícil revisar todos los mercados directamente. El servicio se perfila como una opción para quienes buscan diversificación y gestión individualizada. Fuente: hankyung.com"
-      },
-      "pt": {
-        "title": "Mirae Asset Securities destaca investimento algorítmico em ativos globais",
-        "excerpt": "A Mirae Asset Securities apresentou uma gestão com algoritmos para diversificar em ativos globais e oferecer acompanhamento personalizado.",
-        "body": "A Mirae Asset Securities apresentou uma abordagem de gestão de patrimônio que usa algoritmos para diversificar investimentos em ativos globais e oferecer gestão personalizada para cada investidor. O conteúdo destaca a aplicação de algoritmos ao processo de decisão de investimento e de gestão, distribuindo ativos nacionais e internacionais e oferecendo serviços alinhados ao perfil de investimento e às necessidades de acompanhamento de cada pessoa. A alocação global de ativos foi mencionada como uma forma de reduzir a concentração em um mercado ou classe de ativos específica. A gestão baseada em algoritmos se conecta à demanda por acompanhamento personalizado em um ambiente no qual investidores têm dificuldade para monitorar diretamente todos os mercados. O serviço tende a ser apresentado como opção para quem busca diversificação e gestão individualizada. Fonte: hankyung.com"
-      },
-      "de": {
-        "title": "Mirae Asset Securities setzt auf Algorithmus-Investments in globale Anlagen",
-        "excerpt": "Mirae Asset Securities stellte einen algorithmusbasierten Ansatz vor, der global diversifiziert und Anleger individuell betreut.",
-        "body": "Mirae Asset Securities stellte einen Vermögensverwaltungsansatz vor, der Algorithmen nutzt, um in globale Anlagen zu diversifizieren und Anleger individuell zu betreuen. Der Bericht konzentriert sich darauf, Algorithmen in Anlageentscheidungen und Verwaltungsprozesse einzubinden, inländische und ausländische Anlagen aufzuteilen und Dienstleistungen an persönliche Anlagepräferenzen sowie Verwaltungsbedürfnisse anzupassen. Globale Asset-Allokation wurde als Möglichkeit genannt, die Belastung durch Konzentration auf einen bestimmten Markt oder eine Anlageklasse zu verringern. Algorithmusbasierte Verwaltung steht zudem im Zusammenhang mit der Nachfrage nach personalisierter Betreuung in einem Umfeld, in dem Anleger nicht alle Märkte selbst überwachen können. Der Service dürfte als Option für Anleger positioniert werden, die Diversifikation und individuelle Verwaltung suchen. Quelle: hankyung.com"
-      },
-      "fr": {
-        "title": "Mirae Asset Securities mise sur l’algorithme pour diversifier mondialement",
-        "excerpt": "Mirae Asset Securities a présenté une gestion fondée sur des algorithmes pour diversifier les actifs mondiaux et personnaliser le suivi.",
-        "body": "Mirae Asset Securities a présenté une approche de gestion d’actifs qui utilise des algorithmes pour investir de façon diversifiée dans des actifs mondiaux et proposer une gestion adaptée à chaque investisseur. Le sujet met l’accent sur l’application d’algorithmes aux décisions d’investissement et au suivi de gestion, avec une répartition entre actifs nationaux et internationaux et des services alignés sur les profils d’investissement et les besoins de gestion individuels. L’allocation mondiale d’actifs est évoquée comme un moyen de réduire le poids d’une concentration sur un marché ou une classe d’actifs spécifique. La gestion algorithmique répond aussi à une demande de suivi personnalisé dans un environnement où les investisseurs peuvent difficilement surveiller directement tous les marchés. Ce service devrait être présenté comme une option pour ceux qui s’intéressent à la diversification et à la gestion personnalisée. Source: hankyung.com"
-      },
-      "ar": {
-        "title": "ميراي أسيت سيكيوريتيز تبرز الاستثمار الخوارزمي في الأصول العالمية",
-        "excerpt": "قدمت ميراي أسيت سيكيوريتيز نهجا لإدارة الأصول يستخدم الخوارزميات للتنويع عالميا وتقديم إدارة مخصصة للمستثمرين.",
-        "body": "قدمت ميراي أسيت سيكيوريتيز نهجا لإدارة الأصول يعتمد على الخوارزميات من أجل الاستثمار المتنوع في الأصول العالمية وتقديم إدارة مخصصة لكل مستثمر. ويركز التقرير على إدخال الخوارزميات في قرارات الاستثمار وعمليات الإدارة، مع توزيع الأصول بين الأسواق المحلية والخارجية وتقديم خدمات تتوافق مع توجهات الاستثمار والاحتياجات الإدارية لكل فرد. وجرى ذكر توزيع الأصول عالميا بوصفه وسيلة لتقليل عبء التركيز على سوق محددة أو فئة أصول واحدة. كما ترتبط الإدارة القائمة على الخوارزميات بالطلب على المتابعة الشخصية في بيئة يصعب فيها على المستثمرين مراقبة جميع الأسواق مباشرة. ومن المتوقع طرح هذه الخدمة كخيار للمستثمرين المهتمين بالتنويع والإدارة الشخصية. المصدر: hankyung.com"
-      },
-      "hi": {
-        "title": "मिराए एसेट सिक्योरिटीज का एल्गोरिदमिक निवेश, वैश्विक विविधीकरण पर जोर",
-        "excerpt": "मिराए एसेट सिक्योरिटीज ने एल्गोरिदम आधारित एसेट मैनेजमेंट पेश किया, जो वैश्विक परिसंपत्तियों में विविध निवेश और 맞춤 관리 प्रदान करता है।",
-        "body": "मिराए एसेट सिक्योरिटीज ने ऐसा एसेट मैनेजमेंट तरीका पेश किया है जो एल्गोरिदम का उपयोग कर वैश्विक परिसंपत्तियों में विविध निवेश करता है और प्रत्येक निवेशक के लिए 맞춤 관리 उपलब्ध कराता है। रिपोर्ट का केंद्र निवेश निर्णय और प्रबंधन प्रक्रिया में एल्गोरिदम लागू करना, घरेलू तथा विदेशी परिसंपत्तियों को बांटकर रखना, और व्यक्तिगत निवेश प्रवृत्ति तथा प्रबंधन जरूरतों के अनुरूप सेवा देना है। वैश्विक एसेट आवंटन को किसी एक बाजार या परिसंपत्ति वर्ग पर अधिक निर्भरता घटाने के तरीके के रूप में बताया गया। एल्गोरिदम आधारित प्रबंधन उस माहौल में व्यक्तिगत निगरानी की मांग से जुड़ता है जहां निवेशकों के लिए सभी बाजारों को सीधे देखना कठिन होता है। यह सेवा विविधीकरण और व्यक्तिगत प्रबंधन में रुचि रखने वाले निवेशकों के लिए विकल्प के रूप में सामने आ सकती है। स्रोत: hankyung.com"
-      },
-      "id": {
-        "title": "Mirae Asset Securities Soroti Investasi Algoritmik untuk Aset Global",
-        "excerpt": "Mirae Asset Securities memperkenalkan pengelolaan aset berbasis algoritma untuk diversifikasi aset global dan layanan yang disesuaikan investor.",
-        "body": "Mirae Asset Securities memperkenalkan pendekatan pengelolaan aset yang menggunakan algoritma untuk berinvestasi secara terdiversifikasi pada aset global dan menyediakan pengelolaan yang disesuaikan bagi setiap investor. Informasi ini berfokus pada penerapan algoritma dalam proses keputusan investasi dan manajemen portofolio, dengan membagi aset domestik dan luar negeri serta menawarkan layanan sesuai kecenderungan investasi dan kebutuhan pengelolaan individu. Alokasi aset global disebut sebagai cara untuk mengurangi beban konsentrasi pada pasar atau kelas aset tertentu. Pengelolaan berbasis algoritma juga terkait dengan kebutuhan pengawasan personal di tengah kondisi ketika investor sulit memantau semua pasar secara langsung. Layanan ini diperkirakan menjadi pilihan bagi investor yang tertarik pada diversifikasi dan pengelolaan personal. Sumber: hankyung.com"
-      }
-    }
-  },
-  {
-    "id": "c7cd3327f5e1",
-    "slug": "반도체-투톱-올라탄-월배당-etf투자자-유치-경쟁-불붙었다-175795",
-    "channelId": "ETF",
-    "category": "etf",
-    "publishedAt": "2026-05-07T22:03:04.102Z",
-    "updatedAt": "2026-05-07T22:03:04.102Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/2026050707921",
-    "canonicalUrl": "https://www.hankyung.com/article/2026050707921",
-    "titleFingerprint": "f47c48a3b1b5067a10a9bbb83cd4fdc6e681e7a2",
-    "dedupKeys": [
-      "c7cd3327f5e1ad32934ed9b2a7976cc46b0de02c",
-      "f47c48a3b1b5067a10a9bbb83cd4fdc6e681e7a2",
-      "7dc0f85455dda12290228b6ff1163ca6b417c1bf"
-    ],
-    "imageUrl": "/images/articles/c7cd3327f5e1.jpg",
-    "i18n": {
-      "ko": {
-        "title": "반도체 월배당 ETF 경쟁 본격화…삼성전자·SK하이닉스 담은 상품 잇단 출시",
-        "excerpt": "2026년 5월 7일 금융투자업계에 따르면 삼성전자·SK하이닉스 등 반도체 대표주를 활용한 월배당 ETF 출시가 이어지며 운용사 간 투자자 유치 경쟁이 치열해지고 있다.",
-        "body": "2026년 5월 7일 금융투자업계에 따르면 삼성전자와 SK하이닉스 등 반도체 대표주에 투자하면서 매월 분배금을 지급하는 상장지수펀드(ETF)가 잇따라 등장하고 있다. AI 열풍으로 반도체 업황 개선 기대가 커진 가운데 시세차익과 현금흐름을 함께 원하는 개인 투자자 수요가 배경이다. 삼성자산운용은 이르면 이달 ‘KODEX 반도체타겟위클리커버드콜’을 출시할 계획이다. 미래에셋자산운용의 ‘TIGER 반도체TOP10커버드콜액티브’는 삼성전자와 SK하이닉스를 약 50% 편입하고, 브이아이자산운용과 키움투자자산운용도 관련 상품을 내놨다. 업계는 옵션 프리미엄과 국내 주식 매도차익 비과세, 변동성 장세 속 인컴 수요가 경쟁을 키울 것으로 본다. 출처: hankyung.com"
-      },
-      "en": {
-        "title": "Monthly Dividend Semiconductor ETF Race Heats Up With Samsung Electronics and SK Hynix Funds",
-        "excerpt": "As of May 7, 2026, asset managers are intensifying competition for investors by launching monthly dividend ETFs tied to semiconductor leaders such as Samsung Electronics and SK Hynix.",
-        "body": "According to the financial investment industry on May 7, 2026, exchange-traded funds that invest in leading semiconductor stocks such as Samsung Electronics and SK Hynix while paying monthly distributions are emerging one after another. The backdrop is rising expectations for a semiconductor upcycle driven by the AI boom and growing demand from individual investors seeking both capital gains and cash flow. Samsung Asset Management plans to launch KODEX Semiconductor Target Weekly Covered Call as early as this month. Mirae Asset Global Investments’ TIGER Semiconductor TOP10 Covered Call Active holds about 50% in Samsung Electronics and SK Hynix, while VI Asset Management and Kiwoom Asset Management have also introduced related products. The industry expects competition to grow due to tax-exempt option premiums and gains on domestic stock sales, along with income demand in volatile markets. Source: hankyung.com"
-      },
-      "ja": {
-        "title": "半導体月配当ETF競争が本格化、サムスン電子・SKハイニックス組み入れ商品相次ぐ",
-        "excerpt": "2026年5月7日、金融投資業界ではサムスン電子やSKハイニックスなど半導体代表株を活用した月配当ETFの投入が続き、投資家獲得競争が激しくなっている。",
-        "body": "2026年5月7日の金融投資業界によると、サムスン電子やSKハイニックスなど半導体代表銘柄に投資しながら毎月分配金を支払う上場投資信託（ETF）が相次いで登場している。AIブームで半導体市況改善への期待が高まる中、値上がり益と現金収入の両方を求める個人投資家の需要が背景にある。サムスン資産運用は早ければ今月、「KODEX半導体ターゲット・ウィークリー・カバードコール」を発売する計画だ。未来アセット資産運用の「TIGER半導体TOP10カバードコールアクティブ」はサムスン電子とSKハイニックスを約50％組み入れており、VI資産運用とキウム投資資産運用も関連商品を投入した。業界では、オプションプレミアムと国内株式売却益の非課税、変動相場でのインカム需要が競争を押し上げると見ている。出典: hankyung.com"
-      },
-      "zh": {
-        "title": "半导体月度分红ETF竞争升温，三星电子与SK海力士相关产品接连推出",
-        "excerpt": "截至2026年5月7日，金融投资行业围绕三星电子、SK海力士等半导体龙头股推出月度分红ETF，资产管理公司争夺投资者的竞争正在加剧。",
-        "body": "据金融投资行业2026年5月7日消息，投资三星电子、SK海力士等半导体代表性股票并每月支付分配金的交易型开放式指数基金（ETF）正陆续出现。背景是AI热潮推高了市场对半导体景气改善的期待，同时个人投资者对资本利得和现金流的需求增加。三星资产管理计划最早于本月推出“KODEX半导体目标每周备兑看涨”。未来资产管理的“TIGER半导体TOP10备兑看涨主动型”约50%配置于三星电子和SK海力士，VI资产管理和Kiwoom投资资产管理也已推出相关产品。业内认为，期权权利金和韩国国内股票卖出收益免税，以及波动市场中的收益型投资需求，将进一步加剧竞争。来源: hankyung.com"
-      },
-      "es": {
-        "title": "Se intensifica la competencia por ETF semiconductores de dividendo mensual con Samsung y SK Hynix",
-        "excerpt": "Al 7 de mayo de 2026, las gestoras compiten por atraer inversores con ETF de dividendo mensual ligados a líderes de semiconductores como Samsung Electronics y SK Hynix.",
-        "body": "Según la industria de inversión financiera el 7 de mayo de 2026, están apareciendo de forma sucesiva ETF que invierten en valores líderes de semiconductores, como Samsung Electronics y SK Hynix, y pagan distribuciones mensuales. El contexto es el aumento de expectativas de mejora del ciclo de semiconductores por el auge de la IA y la mayor demanda de inversores minoristas que buscan tanto ganancias de capital como flujo de efectivo. Samsung Asset Management planea lanzar este mes, como pronto, KODEX Semiconductor Target Weekly Covered Call. El TIGER Semiconductor TOP10 Covered Call Active de Mirae Asset Global Investments mantiene cerca del 50% en Samsung Electronics y SK Hynix, mientras VI Asset Management y Kiwoom Asset Management también han lanzado productos relacionados. El sector prevé que la competencia aumente por las primas de opciones y las ganancias por venta de acciones locales exentas de impuestos, junto con la demanda de ingresos en mercados volátiles. Fuente: hankyung.com"
-      },
-      "pt": {
-        "title": "Competição por ETFs mensais de semicondutores cresce com Samsung Electronics e SK Hynix",
-        "excerpt": "Em 7 de maio de 2026, gestoras intensificam a disputa por investidores ao lançar ETFs de dividendos mensais ligados a líderes de semicondutores como Samsung Electronics e SK Hynix.",
-        "body": "Segundo o setor de investimentos financeiros em 7 de maio de 2026, fundos de índice que investem em ações líderes de semicondutores, como Samsung Electronics e SK Hynix, e pagam distribuições mensais estão surgindo em sequência. O pano de fundo é a expectativa maior de melhora do ciclo de semicondutores com o avanço da IA e a demanda de investidores individuais por ganhos de capital e fluxo de caixa. A Samsung Asset Management planeja lançar ainda este mês, no mínimo, o KODEX Semiconductor Target Weekly Covered Call. O TIGER Semiconductor TOP10 Covered Call Active, da Mirae Asset Global Investments, aloca cerca de 50% em Samsung Electronics e SK Hynix, enquanto VI Asset Management e Kiwoom Asset Management também lançaram produtos relacionados. O setor avalia que a competição deve crescer com prêmios de opções e ganhos na venda de ações domésticas isentos de imposto, além da busca por renda em mercados voláteis. Fonte: hankyung.com"
-      },
-      "de": {
-        "title": "Monatliche Halbleiter-ETFs im Wettbewerb: Produkte mit Samsung Electronics und SK Hynix starten",
-        "excerpt": "Am 7. Mai 2026 melden Branchenkreise, dass Asset Manager mit monatlich ausschüttenden ETFs auf Halbleiterführer wie Samsung Electronics und SK Hynix stärker um Anleger konkurrieren.",
-        "body": "Nach Angaben der Finanzinvestmentbranche vom 7. Mai 2026 kommen zunehmend börsengehandelte Fonds auf den Markt, die in führende Halbleiterwerte wie Samsung Electronics und SK Hynix investieren und monatliche Ausschüttungen zahlen. Hintergrund sind steigende Erwartungen an eine Verbesserung des Halbleiterzyklus durch den KI-Boom sowie die wachsende Nachfrage privater Anleger nach Kursgewinnen und laufendem Cashflow. Samsung Asset Management plant, frühestens in diesem Monat den KODEX Semiconductor Target Weekly Covered Call aufzulegen. Der TIGER Semiconductor TOP10 Covered Call Active von Mirae Asset Global Investments hält rund 50% in Samsung Electronics und SK Hynix; auch VI Asset Management und Kiwoom Asset Management haben verwandte Produkte aufgelegt. Die Branche erwartet mehr Wettbewerb durch steuerfreie Optionsprämien und Gewinne aus Verkäufen koreanischer Aktien sowie durch Income-Nachfrage in volatilen Märkten. Quelle: hankyung.com"
-      },
-      "fr": {
-        "title": "La course aux ETF mensuels sur les semi-conducteurs s’intensifie avec Samsung et SK Hynix",
-        "excerpt": "Au 7 mai 2026, les sociétés de gestion multiplient les ETF à distribution mensuelle liés aux leaders des semi-conducteurs comme Samsung Electronics et SK Hynix, renforçant la concurrence pour attirer les investisseurs.",
-        "body": "Selon le secteur de l’investissement financier le 7 mai 2026, des ETF investissant dans les grandes valeurs des semi-conducteurs, comme Samsung Electronics et SK Hynix, tout en versant des distributions mensuelles apparaissent les uns après les autres. Ce mouvement s’explique par les attentes accrues d’amélioration du cycle des semi-conducteurs avec l’essor de l’IA et par la demande des particuliers recherchant à la fois plus-values et flux de trésorerie. Samsung Asset Management prévoit de lancer dès ce mois-ci le KODEX Semiconductor Target Weekly Covered Call. Le TIGER Semiconductor TOP10 Covered Call Active de Mirae Asset Global Investments détient environ 50% en Samsung Electronics et SK Hynix, tandis que VI Asset Management et Kiwoom Asset Management ont aussi lancé des produits liés. Le secteur estime que les primes d’options et les gains de cession d’actions coréennes exonérés d’impôt, ainsi que la demande de revenu en marché volatil, alimenteront la concurrence. Source: hankyung.com"
-      },
-      "ar": {
-        "title": "احتدام منافسة صناديق ETF الشهرية لأشباه الموصلات مع منتجات سامسونغ وSK هاينكس",
-        "excerpt": "في 7 مايو 2026، تتنافس شركات إدارة الأصول لجذب المستثمرين عبر صناديق ETF بتوزيعات شهرية تعتمد على أسهم أشباه الموصلات الكبرى مثل سامسونغ إلكترونيكس وSK هاينكس.",
-        "body": "وفق قطاع الاستثمار المالي في 7 مايو 2026، تظهر تباعا صناديق مؤشرات متداولة تستثمر في أسهم كبرى في أشباه الموصلات مثل سامسونغ إلكترونيكس وSK هاينكس، مع دفع توزيعات شهرية. يأتي ذلك مع ارتفاع توقعات تحسن دورة أشباه الموصلات بفعل موجة الذكاء الاصطناعي، وزيادة طلب المستثمرين الأفراد على الجمع بين مكاسب الأسعار والتدفق النقدي. تخطط سامسونغ لإدارة الأصول لإطلاق KODEX Semiconductor Target Weekly Covered Call في أقرب وقت خلال هذا الشهر. ويخصص صندوق TIGER Semiconductor TOP10 Covered Call Active التابع لميراى أست نحو 50% لسهمي سامسونغ إلكترونيكس وSK هاينكس، كما طرحت VI لإدارة الأصول وKiwoom لإدارة الأصول الاستثمارية منتجات ذات صلة. ويرى القطاع أن الإعفاء الضريبي على علاوات الخيارات ومكاسب بيع الأسهم المحلية، إلى جانب الطلب على الدخل في الأسواق المتقلبة، سيزيد المنافسة. المصدر: hankyung.com"
-      },
-      "hi": {
-        "title": "सैमसंग और SK हाइनिक्स वाले मासिक डिविडेंड सेमीकंडक्टर ETF में प्रतिस्पर्धा तेज",
-        "excerpt": "7 मई 2026 को वित्तीय निवेश उद्योग के अनुसार, Samsung Electronics और SK Hynix जैसे सेमीकंडक्टर प्रमुख शेयरों पर आधारित मासिक डिविडेंड ETF के जरिए एसेट मैनेजर निवेशकों को आकर्षित करने की दौड़ तेज कर रहे हैं।",
-        "body": "7 मई 2026 को वित्तीय निवेश उद्योग के अनुसार, Samsung Electronics और SK Hynix जैसे प्रमुख सेमीकंडक्टर शेयरों में निवेश करने और हर महीने वितरण देने वाले एक्सचेंज ट्रेडेड फंड यानी ETF लगातार सामने आ रहे हैं। इसकी पृष्ठभूमि AI उछाल से सेमीकंडक्टर चक्र में सुधार की बढ़ती उम्मीद और पूंजीगत लाभ के साथ नकदी प्रवाह चाहने वाले व्यक्तिगत निवेशकों की मांग है। Samsung Asset Management इस महीने जल्द से जल्द KODEX Semiconductor Target Weekly Covered Call लॉन्च करने की योजना में है। Mirae Asset Global Investments का TIGER Semiconductor TOP10 Covered Call Active Samsung Electronics और SK Hynix में लगभग 50% निवेश रखता है, जबकि VI Asset Management और Kiwoom Asset Management ने भी संबंधित उत्पाद पेश किए हैं। उद्योग का मानना है कि विकल्प प्रीमियम और घरेलू शेयर बिक्री लाभ पर कर छूट, तथा अस्थिर बाजार में आय की मांग, प्रतिस्पर्धा को बढ़ाएंगे। स्रोत: hankyung.com"
-      },
-      "id": {
-        "title": "Persaingan ETF Dividen Bulanan Semikonduktor Memanas Lewat Samsung Electronics dan SK Hynix",
-        "excerpt": "Pada 7 Mei 2026, industri investasi keuangan mencatat manajer aset makin bersaing menarik investor lewat ETF dividen bulanan berbasis saham semikonduktor utama seperti Samsung Electronics dan SK Hynix.",
-        "body": "Menurut industri investasi keuangan pada 7 Mei 2026, ETF yang berinvestasi pada saham semikonduktor utama seperti Samsung Electronics dan SK Hynix sekaligus membayar distribusi bulanan terus bermunculan. Latar belakangnya adalah meningkatnya ekspektasi perbaikan siklus semikonduktor akibat tren AI serta naiknya permintaan investor ritel yang menginginkan capital gain dan arus kas. Samsung Asset Management berencana meluncurkan KODEX Semiconductor Target Weekly Covered Call paling cepat bulan ini. TIGER Semiconductor TOP10 Covered Call Active milik Mirae Asset Global Investments menempatkan sekitar 50% portofolio pada Samsung Electronics dan SK Hynix, sementara VI Asset Management dan Kiwoom Asset Management juga telah merilis produk terkait. Industri menilai persaingan akan meningkat karena premi opsi dan keuntungan penjualan saham domestik bebas pajak, serta permintaan income di tengah pasar bergejolak. Sumber: hankyung.com"
-      }
-    }
-  },
-  {
-    "id": "3263ff6cf433",
-    "slug": "스페이스x-특수에도-우주-etf-마이너스-423299",
-    "channelId": "ETF",
-    "category": "etf",
-    "publishedAt": "2026-05-07T22:01:50.067Z",
-    "updatedAt": "2026-05-07T22:01:50.067Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/2026050707871",
-    "canonicalUrl": "https://www.hankyung.com/article/2026050707871",
-    "titleFingerprint": "f9ed383e99f57750a9a431c36720528e8f781ac5",
-    "dedupKeys": [
-      "3263ff6cf433eb47a200c808a65ded037fc00e79",
-      "f9ed383e99f57750a9a431c36720528e8f781ac5",
-      "28366ee666ce1e68b056c6e50b3c790ed1e8b6a7"
-    ],
-    "imageUrl": "/images/articles/3263ff6cf433.jpg",
-    "i18n": {
-      "ko": {
-        "title": "우주 ETF, 스페이스X 특수에도 수익률 마이너스 기록",
-        "excerpt": "hankyung.com에 따르면 스페이스X 관련 기대감에도 우주 ETF 수익률은 마이너스를 기록해, 우주 산업 테마 투자 성과가 기대와 달리 부진한 흐름을 보였다.",
-        "body": "hankyung.com 보도에 따르면 스페이스X 관련 특수와 우주 산업에 대한 관심에도 우주 ETF는 마이너스 수익률을 기록했다. 이번 내용은 특정 기업 이슈가 테마형 ETF 전체 성과로 곧바로 이어지지 않을 수 있음을 보여준다. 우주 ETF는 스페이스X를 둘러싼 기대감 속에서도 부진한 흐름을 나타냈고, 투자자들은 우주 산업 성장 기대와 ETF 실제 성과 사이의 차이를 확인하게 됐다. 향후 우주 테마 ETF는 관련 기업 이슈뿐 아니라 편입 종목과 시장 흐름에 따라 성과가 달라질 수 있다. 출처: hankyung.com"
-      },
-      "en": {
-        "title": "Space ETF Stays Negative Despite SpaceX-Driven Interest",
-        "excerpt": "According to hankyung.com, space ETFs posted negative returns despite expectations linked to SpaceX, showing that space-themed investment performance remained weak.",
-        "body": "According to hankyung.com, space ETFs recorded negative returns despite SpaceX-related momentum and continued interest in the space industry. The report shows that a single company-related theme does not necessarily translate directly into stronger performance for an entire thematic ETF. Even with expectations surrounding SpaceX, space ETFs remained weak, giving investors a clear example of the gap between growth hopes for the space industry and actual ETF results. Going forward, space-themed ETFs may continue to be influenced not only by company-specific issues but also by holdings and broader market trends. Source: hankyung.com"
-      },
-      "ja": {
-        "title": "宇宙ETF、スペースX特需でもマイナス圏に低迷",
-        "excerpt": "hankyung.comによると、スペースX関連の期待がある中でも宇宙ETFはマイナスリターンとなり、宇宙テーマ投資の成果は伸び悩んだ。",
-        "body": "hankyung.comの報道によると、スペースX関連の特需と宇宙産業への関心にもかかわらず、宇宙ETFはマイナスリターンを記録した。今回の内容は、特定企業をめぐる材料がテーマ型ETF全体の成果にすぐ結び付くとは限らないことを示している。スペースXへの期待がある中でも宇宙ETFは低調な流れを見せ、投資家は宇宙産業の成長期待とETFの実際の成績との差を確認する形となった。今後の宇宙テーマETFは、関連企業の材料だけでなく、組み入れ銘柄や市場全体の流れによって成果が左右される可能性がある。出典: hankyung.com"
-      },
-      "zh": {
-        "title": "太空ETF受SpaceX利好带动仍录得负收益",
-        "excerpt": "据hankyung.com报道，尽管SpaceX相关预期升温，太空ETF收益率仍为负，显示太空产业主题投资表现未能同步改善。",
-        "body": "据hankyung.com报道，尽管存在SpaceX相关利好以及市场对太空产业的关注，太空ETF仍录得负收益。这一情况显示，单一企业相关题材未必会直接转化为整个主题ETF的业绩改善。即便围绕SpaceX的期待持续存在，太空ETF表现仍然低迷，投资者由此看到太空产业成长预期与ETF实际收益之间的差距。展望后续，太空主题ETF的表现可能不仅取决于相关企业消息，也会受到持仓构成和整体市场走势影响。来源: hankyung.com"
-      },
-      "es": {
-        "title": "ETF espaciales caen pese al impulso asociado a SpaceX",
-        "excerpt": "Según hankyung.com, los ETF espaciales registraron rentabilidad negativa pese a las expectativas ligadas a SpaceX, reflejando debilidad en esta inversión temática.",
-        "body": "Según hankyung.com, los ETF espaciales registraron rentabilidad negativa a pesar del interés asociado a SpaceX y de la atención sobre la industria espacial. El caso muestra que una noticia o expectativa vinculada a una empresa concreta no siempre se traduce de forma directa en mejores resultados para todo un ETF temático. Incluso con el impulso alrededor de SpaceX, los ETF espaciales mostraron un desempeño débil, dejando ver la diferencia entre las expectativas de crecimiento del sector espacial y los resultados reales del producto. En adelante, estos ETF pueden depender tanto de las empresas incluidas como del contexto general del mercado. Fuente: hankyung.com"
-      },
-      "pt": {
-        "title": "ETF espaciais seguem negativos apesar do efeito SpaceX",
-        "excerpt": "Segundo hankyung.com, ETFs espaciais tiveram retorno negativo mesmo com expectativas ligadas à SpaceX, mostrando desempenho fraco do tema de investimento.",
-        "body": "Segundo o hankyung.com, os ETFs espaciais registraram retorno negativo apesar do interesse ligado à SpaceX e da atenção ao setor espacial. O caso mostra que um fator relacionado a uma empresa específica não se transforma necessariamente em melhor desempenho para todo um ETF temático. Mesmo com expectativas em torno da SpaceX, os ETFs espaciais continuaram fracos, evidenciando a diferença entre a perspectiva de crescimento da indústria espacial e o resultado efetivo dos fundos. Daqui em diante, o desempenho dos ETFs de tema espacial pode depender não apenas de notícias sobre empresas relacionadas, mas também da composição da carteira e do movimento do mercado. Fonte: hankyung.com"
-      },
-      "de": {
-        "title": "Weltraum-ETFs trotz SpaceX-Sondereffekt im Minus",
-        "excerpt": "Laut hankyung.com verzeichneten Weltraum-ETFs trotz Erwartungen rund um SpaceX negative Renditen und zeigten damit eine schwache Themenperformance.",
-        "body": "Laut hankyung.com haben Weltraum-ETFs trotz eines SpaceX-bezogenen Sondereffekts und des Interesses an der Raumfahrtbranche negative Renditen erzielt. Der Bericht zeigt, dass ein einzelnes unternehmensbezogenes Thema nicht automatisch zu einer besseren Entwicklung eines gesamten Themen-ETFs führt. Auch mit Erwartungen rund um SpaceX blieben Weltraum-ETFs schwach, wodurch Anleger den Abstand zwischen Wachstumsfantasie der Raumfahrtindustrie und tatsächlicher ETF-Performance erkennen konnten. Künftig dürfte die Entwicklung solcher ETFs nicht nur von Nachrichten zu verbundenen Unternehmen, sondern auch von den enthaltenen Titeln und dem Marktumfeld abhängen. Quelle: hankyung.com"
-      },
-      "fr": {
-        "title": "Les ETF spatiaux restent négatifs malgré l’effet SpaceX",
-        "excerpt": "Selon hankyung.com, les ETF spatiaux ont affiché des rendements négatifs malgré les attentes liées à SpaceX, signe d’une performance thématique faible.",
-        "body": "Selon hankyung.com, les ETF spatiaux ont enregistré des rendements négatifs malgré l’effet lié à SpaceX et l’intérêt porté à l’industrie spatiale. Cette situation montre qu’un facteur propre à une entreprise ne se traduit pas forcément par une amélioration immédiate de la performance d’un ETF thématique entier. Même avec les attentes entourant SpaceX, les ETF spatiaux sont restés faibles, mettant en évidence l’écart entre les espoirs de croissance du secteur spatial et les résultats réels des ETF. À l’avenir, ces produits pourraient dépendre non seulement des nouvelles concernant les entreprises liées, mais aussi de leur composition et de la tendance générale du marché. Source: hankyung.com"
-      },
-      "ar": {
-        "title": "صناديق ETF للفضاء تسجل خسائر رغم زخم سبيس إكس",
-        "excerpt": "وفقاً لموقع hankyung.com، سجلت صناديق ETF للفضاء عوائد سلبية رغم التوقعات المرتبطة بسبيس إكس، ما يعكس ضعف أداء الاستثمار الموضوعي.",
-        "body": "وفقاً لما أورده موقع hankyung.com، سجلت صناديق ETF للفضاء عوائد سلبية رغم الزخم المرتبط بسبيس إكس والاهتمام بصناعة الفضاء. وتوضح هذه النتيجة أن حدثاً أو توقعاً مرتبطاً بشركة واحدة لا يتحول بالضرورة مباشرة إلى أداء أفضل لصندوق موضوعي كامل. ورغم التوقعات المحيطة بسبيس إكس، بقي أداء صناديق ETF للفضاء ضعيفاً، ما أبرز الفجوة بين آمال نمو صناعة الفضاء والنتائج الفعلية لهذه الصناديق. وفي الفترة المقبلة، قد يتأثر أداء صناديق الفضاء ليس فقط بأخبار الشركات المرتبطة، بل أيضاً بمكونات الصندوق واتجاهات السوق العامة. المصدر: hankyung.com"
-      },
-      "hi": {
-        "title": "SpaceX उत्साह के बावजूद स्पेस ETF ने दिया नकारात्मक रिटर्न",
-        "excerpt": "hankyung.com के अनुसार, SpaceX से जुड़ी उम्मीदों के बावजूद स्पेस ETF का रिटर्न नकारात्मक रहा, जिससे स्पेस थीम निवेश का कमजोर प्रदर्शन दिखा।",
-        "body": "hankyung.com की रिपोर्ट के अनुसार, SpaceX से जुड़े विशेष उत्साह और अंतरिक्ष उद्योग में रुचि के बावजूद स्पेस ETF ने नकारात्मक रिटर्न दर्ज किया। यह दिखाता है कि किसी एक कंपनी से जुड़ी उम्मीद हमेशा पूरे थीमैटिक ETF के प्रदर्शन में सीधे सुधार नहीं लाती। SpaceX को लेकर अपेक्षाओं के बीच भी स्पेस ETF कमजोर रहा, जिससे निवेशकों को अंतरिक्ष उद्योग की वृद्धि संबंधी उम्मीदों और ETF के वास्तविक प्रदर्शन के बीच अंतर दिखा। आगे चलकर स्पेस थीम वाले ETF का प्रदर्शन केवल संबंधित कंपनियों की खबरों पर नहीं, बल्कि पोर्टफोलियो संरचना और व्यापक बाजार रुझान पर भी निर्भर हो सकता है। स्रोत: hankyung.com"
-      },
-      "id": {
-        "title": "ETF Antariksa Tetap Minus Meski Ada Sentimen SpaceX",
-        "excerpt": "Menurut hankyung.com, ETF antariksa mencatat imbal hasil negatif meski ada ekspektasi terkait SpaceX, menunjukkan lemahnya kinerja investasi bertema ruang angkasa.",
-        "body": "Menurut laporan hankyung.com, ETF antariksa mencatat imbal hasil negatif meski ada sentimen khusus terkait SpaceX dan minat terhadap industri ruang angkasa. Hal ini menunjukkan bahwa isu pada satu perusahaan tidak selalu langsung mendorong kinerja seluruh ETF tematik. Di tengah ekspektasi terhadap SpaceX, ETF antariksa tetap bergerak lemah, sehingga investor melihat adanya jarak antara harapan pertumbuhan industri antariksa dan hasil aktual ETF. Ke depan, kinerja ETF bertema antariksa dapat dipengaruhi bukan hanya oleh berita perusahaan terkait, tetapi juga oleh komposisi portofolio dan arah pasar secara umum. Sumber: hankyung.com"
       }
     }
   }
