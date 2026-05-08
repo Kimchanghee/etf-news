@@ -1,5 +1,230 @@
 [
   {
+    "id": "80e6a6900836",
+    "slug": "국세청-탈세-혐의-하나금융은행-세무조사-착수-511574",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-05-08T23:32:23.215Z",
+    "updatedAt": "2026-05-08T23:32:23.215Z",
+    "sourceName": "yna.co.kr",
+    "sourceUrl": "https://www.yna.co.kr/view/AKR20260509001300002",
+    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260509001300002",
+    "titleFingerprint": "41b9c5b84dd8c7364c0511e14367dbeaeb587fd0",
+    "dedupKeys": [
+      "80e6a690083677f0ff90d95fc62246c1125bbebf",
+      "41b9c5b84dd8c7364c0511e14367dbeaeb587fd0",
+      "36e96fa175e0310c2166069dbc8887c5bcd0d5e6"
+    ],
+    "imageUrl": "/images/articles/80e6a6900836.jpg",
+    "i18n": {
+      "ko": {
+        "title": "국세청, 탈세 혐의로 하나금융지주·하나은행 세무조사 착수",
+        "excerpt": "국세청이 탈세 혐의와 관련해 하나금융지주와 하나은행에 대한 세무조사에 착수한 것으로 알려졌다고 연합뉴스가 보도했다.",
+        "body": "국세청이 하나금융지주[086790]와 하나은행에 대한 세무조사에 착수한 것으로 알려졌다. 연합뉴스는 서울발 기사에서 국세청이 탈세 혐의와 관련해 하나금융지주와 하나은행을 대상으로 조사에 들어간 것으로 전해졌다고 보도했다. 이번 사안은 국내 주요 금융지주와 은행을 대상으로 한 세무조사라는 점에서 금융권의 관심을 끌고 있다. 다만 원문 보도에서 구체적인 조사 범위, 기간, 혐의 내용, 관련 세액 등 세부 수치는 공개되지 않았다. 향후 조사 진행 상황과 당국 및 회사 측의 공식 설명 여부가 주목된다. 출처: yna.co.kr"
+      },
+      "en": {
+        "title": "Tax agency begins probe into Hana Financial and Hana Bank over alleged tax evasion",
+        "excerpt": "South Korea’s tax agency has reportedly begun a tax probe into Hana Financial Group and Hana Bank in connection with alleged tax evasion, Yonhap reported.",
+        "body": "South Korea’s National Tax Service has reportedly launched a tax investigation into Hana Financial Group [086790] and Hana Bank. Yonhap News Agency reported from Seoul that the tax authority is understood to have begun the probe in connection with alleged tax evasion involving the financial holding company and the bank. The case is drawing attention in the financial sector because it involves a major domestic financial group and its banking unit. However, the original report did not disclose detailed figures or specifics such as the scope of the investigation, its period, the exact allegations, or any tax amount involved. The next focus will be how the inquiry proceeds and whether the authorities or the companies provide official explanations. Source: yna.co.kr"
+      },
+      "ja": {
+        "title": "国税庁、脱税疑惑でハナ金融持株・ハナ銀行の税務調査に着手",
+        "excerpt": "韓国国税庁が脱税疑惑に関連し、ハナ金融持株とハナ銀行に対する税務調査に着手したと聯合ニュースが報じた。",
+        "body": "韓国国税庁がハナ金融持株[086790]とハナ銀行に対する税務調査に着手したことが分かった。聯合ニュースはソウル発の記事で、国税庁が脱税疑惑に関連してハナ金融持株とハナ銀行を対象に調査に入ったと伝えられていると報じた。今回の事案は、韓国の主要金融持株会社と銀行を対象とする税務調査である点から、金融業界の関心を集めている。ただし、原文報道では調査の具体的な範囲、期間、疑惑の詳細、関連税額などの数値は明らかにされていない。今後は調査の進展と、当局および会社側の公式説明の有無が注目される。出典: yna.co.kr"
+      },
+      "zh": {
+        "title": "韩国国税厅因涉嫌逃税启动对韩亚金融集团和韩亚银行税务调查",
+        "excerpt": "韩联社报道，韩国国税厅据悉已就涉嫌逃税问题，对韩亚金融集团和韩亚银行启动税务调查。",
+        "body": "韩国国税厅据悉已对韩亚金融集团[086790]和韩亚银行启动税务调查。韩联社在首尔发出的报道中称，国税厅被认为已就涉嫌逃税问题，对韩亚金融集团和韩亚银行展开调查。由于此次事项涉及韩国主要金融控股公司及其银行部门，因而受到金融业关注。不过，原报道未披露调查的具体范围、时间、涉嫌事项细节以及相关税额等具体数字。接下来，调查进展以及监管部门和公司方面是否作出正式说明，将成为外界关注焦点。来源: yna.co.kr"
+      },
+      "es": {
+        "title": "Fisco surcoreano inicia investigación a Hana Financial y Hana Bank por presunta evasión",
+        "excerpt": "El Servicio Nacional de Impuestos de Corea del Sur habría iniciado una investigación fiscal a Hana Financial Group y Hana Bank por presunta evasión, informó Yonhap.",
+        "body": "El Servicio Nacional de Impuestos de Corea del Sur habría iniciado una investigación fiscal sobre Hana Financial Group [086790] y Hana Bank. Yonhap informó desde Seúl que la autoridad tributaria habría comenzado la revisión en relación con sospechas de evasión fiscal que involucran al holding financiero y al banco. El caso atrae la atención del sector financiero porque afecta a un importante grupo financiero nacional y a su unidad bancaria. Sin embargo, el reporte original no reveló cifras ni detalles concretos, como el alcance de la investigación, su periodo, el contenido específico de las sospechas o el monto tributario relacionado. La atención se centrará ahora en el avance de la pesquisa y en si las autoridades o las compañías ofrecen explicaciones oficiales. Fuente: yna.co.kr"
+      },
+      "pt": {
+        "title": "Fisco da Coreia do Sul abre investigação sobre Hana Financial e Hana Bank por suspeita fiscal",
+        "excerpt": "O serviço fiscal sul-coreano teria iniciado uma investigação sobre Hana Financial Group e Hana Bank ligada a suspeitas de evasão fiscal, segundo a Yonhap.",
+        "body": "O Serviço Nacional de Impostos da Coreia do Sul teria iniciado uma investigação fiscal sobre o Hana Financial Group [086790] e o Hana Bank. A Yonhap informou, em reportagem de Seul, que a autoridade tributária teria começado a apuração em conexão com suspeitas de evasão fiscal envolvendo a holding financeira e o banco. O caso chama atenção no setor financeiro por envolver um grande grupo financeiro doméstico e sua unidade bancária. No entanto, a reportagem original não divulgou números ou detalhes específicos, como o escopo da investigação, o período, o teor exato das suspeitas ou qualquer valor de imposto relacionado. O foco agora será o andamento da apuração e se as autoridades ou as empresas apresentarão explicações oficiais. Fonte: yna.co.kr"
+      },
+      "de": {
+        "title": "Steuerbehörde prüft Hana Financial und Hana Bank wegen mutmaßlicher Steuerhinterziehung",
+        "excerpt": "Südkoreas Steuerbehörde hat laut Yonhap wegen mutmaßlicher Steuerhinterziehung eine Prüfung bei Hana Financial Group und Hana Bank eingeleitet.",
+        "body": "Südkoreas National Tax Service hat Berichten zufolge eine Steuerprüfung bei der Hana Financial Group [086790] und der Hana Bank eingeleitet. Yonhap meldete aus Seoul, die Steuerbehörde habe offenbar im Zusammenhang mit mutmaßlicher Steuerhinterziehung Ermittlungen gegen die Finanzholding und die Bank aufgenommen. Der Fall zieht in der Finanzbranche Aufmerksamkeit auf sich, weil er eine große inländische Finanzgruppe und deren Bankeinheit betrifft. Der ursprüngliche Bericht nannte jedoch keine konkreten Angaben oder Zahlen zum Umfang der Prüfung, zum Zeitraum, zu den genauen Vorwürfen oder zu einem möglichen Steuerbetrag. Im Mittelpunkt steht nun, wie die Untersuchung weiterläuft und ob Behörden oder Unternehmen offizielle Erklärungen abgeben. Quelle: yna.co.kr"
+      },
+      "fr": {
+        "title": "Le fisc sud-coréen enquête sur Hana Financial et Hana Bank pour soupçons d’évasion fiscale",
+        "excerpt": "Le fisc sud-coréen aurait lancé une enquête fiscale visant Hana Financial Group et Hana Bank liée à des soupçons d’évasion fiscale, selon Yonhap.",
+        "body": "Le Service national des impôts de Corée du Sud aurait lancé une enquête fiscale sur Hana Financial Group [086790] et Hana Bank. Yonhap a rapporté depuis Séoul que l’autorité fiscale aurait engagé cette enquête en lien avec des soupçons d’évasion fiscale visant la holding financière et la banque. L’affaire retient l’attention du secteur financier car elle concerne un grand groupe financier national et son unité bancaire. Toutefois, le reportage original ne précise pas le périmètre de l’enquête, sa durée, le détail exact des soupçons ni le montant fiscal éventuellement concerné. L’évolution de l’enquête et la publication éventuelle d’explications officielles par les autorités ou les entreprises seront désormais suivies de près. Source: yna.co.kr"
+      },
+      "ar": {
+        "title": "مصلحة الضرائب الكورية تحقق مع هانا المالية وبنك هانا بشبهة تهرب ضريبي",
+        "excerpt": "أفادت يونهاب بأن مصلحة الضرائب الكورية الجنوبية بدأت على ما يبدو تحقيقا ضريبيا مع هانا فايننشال غروب وبنك هانا بشأن شبهات تهرب ضريبي.",
+        "body": "بدأت مصلحة الضرائب الوطنية في كوريا الجنوبية على ما يبدو تحقيقا ضريبيا مع هانا فايننشال غروب [086790] وبنك هانا. وذكرت وكالة يونهاب من سول أن السلطة الضريبية يعتقد أنها باشرت التحقيق في صلة بشبهات تهرب ضريبي تتعلق بالشركة المالية القابضة والبنك. وتحظى القضية باهتمام القطاع المالي لأنها تشمل مجموعة مالية محلية كبرى ووحدتها المصرفية. لكن التقرير الأصلي لم يكشف تفاصيل أو أرقاما محددة، مثل نطاق التحقيق أو مدته أو طبيعة الشبهات أو أي مبلغ ضريبي مرتبط بها. وستتركز المتابعة الآن على مسار التحقيق وما إذا كانت السلطات أو الشركتان ستقدمان توضيحات رسمية. المصدر: yna.co.kr"
+      },
+      "hi": {
+        "title": "कर चोरी के आरोपों पर हाना फाइनेंशियल और हाना बैंक की कर जांच शुरू",
+        "excerpt": "योनहाप के अनुसार, दक्षिण कोरिया की कर एजेंसी ने कथित कर चोरी से जुड़े मामले में हाना फाइनेंशियल ग्रुप और हाना बैंक की कर जांच शुरू की है।",
+        "body": "दक्षिण कोरिया की नेशनल टैक्स सर्विस ने कथित तौर पर हाना फाइनेंशियल ग्रुप [086790] और हाना बैंक के खिलाफ कर जांच शुरू की है। सियोल से योनहाप की रिपोर्ट के अनुसार, कर प्राधिकरण ने कर चोरी के आरोपों से जुड़े मामले में वित्तीय होल्डिंग कंपनी और बैंक की जांच शुरू की मानी जा रही है। यह मामला वित्तीय क्षेत्र का ध्यान खींच रहा है क्योंकि इसमें देश का एक प्रमुख वित्तीय समूह और उसकी बैंक इकाई शामिल है। हालांकि मूल रिपोर्ट में जांच के दायरे, अवधि, आरोपों के विशिष्ट विवरण या संबंधित कर राशि जैसे ठोस आंकड़े सार्वजनिक नहीं किए गए। अब निगाहें जांच की प्रगति और इस पर रहेंगी कि अधिकारी या कंपनियां कोई आधिकारिक स्पष्टीकरण देती हैं या नहीं। स्रोत: yna.co.kr"
+      },
+      "id": {
+        "title": "Otoritas pajak Korea selidiki Hana Financial dan Hana Bank atas dugaan penghindaran pajak",
+        "excerpt": "Yonhap melaporkan otoritas pajak Korea Selatan disebut telah memulai pemeriksaan pajak terhadap Hana Financial Group dan Hana Bank terkait dugaan penghindaran pajak.",
+        "body": "National Tax Service Korea Selatan disebut telah memulai pemeriksaan pajak terhadap Hana Financial Group [086790] dan Hana Bank. Yonhap melaporkan dari Seoul bahwa otoritas pajak diduga telah masuk ke tahap penyelidikan terkait dugaan penghindaran pajak yang melibatkan perusahaan induk keuangan tersebut dan banknya. Kasus ini menarik perhatian sektor keuangan karena menyangkut salah satu grup keuangan domestik utama beserta unit perbankannya. Namun, laporan asli tidak mengungkap angka atau rincian konkret seperti cakupan pemeriksaan, periode, isi dugaan secara spesifik, atau jumlah pajak terkait. Perhatian selanjutnya tertuju pada perkembangan pemeriksaan dan apakah otoritas maupun perusahaan akan memberikan penjelasan resmi. Sumber: yna.co.kr"
+      }
+    }
+  },
+  {
+    "id": "c132035f4907",
+    "slug": "머니플로우-더-가나-투자자예탁금-역대-최대하락-베팅도-증가-904609",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-05-08T23:31:29.583Z",
+    "updatedAt": "2026-05-08T23:31:29.583Z",
+    "sourceName": "yna.co.kr",
+    "sourceUrl": "https://www.yna.co.kr/view/AKR20260508144700008",
+    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260508144700008",
+    "titleFingerprint": "96ad1a6afbb0ab562f5125495c59b8835b9f2777",
+    "dedupKeys": [
+      "c132035f4907b0f7125bec5c836af8f475a71bf1",
+      "96ad1a6afbb0ab562f5125495c59b8835b9f2777",
+      "a85540ab1e1ada4bd268fe1c2f4c859ac1af058b"
+    ],
+    "imageUrl": "/images/articles/c132035f4907.jpg",
+    "i18n": {
+      "ko": {
+        "title": "투자자예탁금 역대 최대, 코스피 7,000 돌파 뒤 ‘더 가나’ 기대와 하락 베팅 동반 증가",
+        "excerpt": "코스피가 7,000포인트를 돌파한 가운데 증시 대기자금인 투자자예탁금이 역대 최대치를 경신했고, 동시에 주가 하락에 베팅하는 움직임도 늘었다.",
+        "body": "서울에서 연합뉴스 고은지 기자가 전한 머니플로우 기사에 따르면, 코스피가 이른바 ‘7천피’로 불리는 7,000포인트 선마저 뚫자 증시 대기자금인 투자자예탁금이 역대 최대치를 경신했다. 투자자예탁금은 투자자가 주식 매수를 위해 증권사 계좌에 맡겨 둔 자금으로, 시장 진입을 기다리는 유동성의 규모를 보여주는 지표로 여겨진다. 지수가 큰 폭으로 오른 뒤 추가 상승 기대가 커진 가운데, 한편으로는 ‘하락’에 베팅하는 투자자 움직임도 증가했다. 이는 상승장에 대한 기대와 조정 가능성을 염두에 둔 대응이 동시에 나타나고 있음을 보여준다. 출처: yna.co.kr"
+      },
+      "en": {
+        "title": "Investor Deposits Hit Record as KOSPI Tops 7,000, While Downside Bets Also Rise",
+        "excerpt": "As the KOSPI moved beyond 7,000 points, investor deposits, a pool of standby stock-market cash, reached a record high, while bets on a market decline also increased.",
+        "body": "According to a Money Flow report from Seoul by Yonhap News reporter Go Eun-ji, investor deposits, a key pool of standby funds for the stock market, reached an all-time high after the KOSPI broke through the 7,000-point level, often referred to as “7,000 KOSPI.” Investor deposits are funds placed in brokerage accounts by investors preparing to buy stocks, and they are widely viewed as a gauge of liquidity waiting to enter the market. As expectations for further gains grew after the index’s sharp advance, moves to bet on a “decline” also increased. The trend shows that optimism over continued gains and caution about a possible pullback are appearing at the same time. Source: yna.co.kr"
+      },
+      "ja": {
+        "title": "投資家預託金が過去最大、KOSPI 7,000突破で上昇期待と下落ベットが同時増加",
+        "excerpt": "KOSPIが7,000ポイントを突破するなか、株式市場の待機資金である投資家預託金が過去最高を更新し、同時に下落に賭ける動きも増えた。",
+        "body": "聯合ニュースの高恩智記者がソウルから伝えたマネーフロー記事によると、KOSPIがいわゆる「7千ピ」と呼ばれる7,000ポイントの大台を突破したことで、株式市場の待機資金である投資家預託金が過去最大を更新した。投資家預託金は、投資家が株式購入に備えて証券会社の口座に預けている資金で、市場への流入を待つ流動性の規模を示す指標とされる。指数が大きく上昇した後、追加上昇への期待が高まる一方で、「下落」に賭ける投資家の動きも増加した。上昇相場への期待と調整可能性を意識した対応が同時に表れている。出典: yna.co.kr"
+      },
+      "zh": {
+        "title": "投资者保证金创历史新高，KOSPI突破7,000点后看涨情绪与下跌押注同步升温",
+        "excerpt": "KOSPI突破7,000点之际，作为股市候场资金的投资者保证金刷新历史最高纪录，同时押注股价下跌的动向也有所增加。",
+        "body": "据韩联社记者高恩智发自首尔的资金流向报道，KOSPI突破被称为“7千点KOSPI”的7,000点关口后，作为股市候场资金的投资者保证金创下历史新高。投资者保证金是投资者为买入股票而存放在证券公司账户中的资金，通常被视为观察等待进入市场的流动性规模的指标。指数大幅上涨后，市场对进一步上涨的期待升温；与此同时，押注“下跌”的投资者动向也在增加。这显示出对上涨行情的期待与对可能回调的应对正在同时出现。来源: yna.co.kr"
+      },
+      "es": {
+        "title": "Depósitos de inversores marcan récord tras superar el KOSPI los 7.000 puntos; también crecen apuestas bajistas",
+        "excerpt": "Con el KOSPI por encima de los 7.000 puntos, los depósitos de inversores, efectivo a la espera de entrar en bolsa, alcanzaron un récord y también aumentaron las apuestas a la baja.",
+        "body": "Según un reporte de flujo de dinero desde Seúl de la periodista Go Eun-ji de Yonhap News, los depósitos de inversores, fondos de reserva para el mercado bursátil, alcanzaron un máximo histórico después de que el KOSPI superara incluso el nivel de 7.000 puntos, conocido como “KOSPI 7.000”. Estos depósitos son recursos que los inversores mantienen en cuentas de corretaje para comprar acciones y se consideran un indicador de la liquidez que espera entrar al mercado. Tras el fuerte avance del índice, crecieron las expectativas de nuevas subidas, pero también aumentaron los movimientos para apostar por una “caída”. La tendencia muestra que conviven el optimismo por el alza y la cautela ante una posible corrección. Fuente: yna.co.kr"
+      },
+      "pt": {
+        "title": "Depósitos de investidores batem recorde com KOSPI acima de 7.000; apostas em queda também avançam",
+        "excerpt": "Com o KOSPI acima dos 7.000 pontos, os depósitos de investidores, dinheiro à espera de entrar na bolsa, atingiram recorde, enquanto apostas em queda também aumentaram.",
+        "body": "Segundo reportagem de fluxo de dinheiro enviada de Seul pela jornalista Go Eun-ji, da Yonhap News, os depósitos de investidores, uma reserva de recursos para o mercado acionário, atingiram o maior nível da história depois que o KOSPI rompeu a marca de 7.000 pontos, chamada de “KOSPI 7.000”. Esses depósitos são valores mantidos por investidores em contas de corretoras para a compra de ações e são vistos como indicador da liquidez à espera de entrada no mercado. Após a forte alta do índice, cresceram as expectativas de novas valorizações, mas também aumentaram os movimentos de aposta em “queda”. O quadro mostra otimismo com a alta e cautela diante de uma possível correção ao mesmo tempo. Fonte: yna.co.kr"
+      },
+      "de": {
+        "title": "Anlegergelder auf Rekordhoch nach KOSPI-Sprung über 7.000, während Wetten auf Kursrückgänge zunehmen",
+        "excerpt": "Nachdem der KOSPI die Marke von 7.000 Punkten überschritten hat, erreichten Anlegerguthaben als wartendes Börsenkapital ein Rekordhoch; zugleich nahmen Wetten auf fallende Kurse zu.",
+        "body": "Laut einem Money-Flow-Bericht aus Seoul von Yonhap-News-Reporterin Go Eun-ji haben die Anlegerguthaben, eine wichtige Reserve an wartendem Kapital für den Aktienmarkt, ein Allzeithoch erreicht, nachdem der KOSPI die Marke von 7.000 Punkten überschritten hatte. Diese Guthaben sind Mittel, die Anleger für Aktienkäufe auf Wertpapierkonten halten, und gelten als Maß für Liquidität, die auf den Markteintritt wartet. Nach dem starken Anstieg des Index wuchsen die Erwartungen auf weitere Gewinne. Gleichzeitig nahmen aber auch Bewegungen zu, die auf einen “Rückgang” setzen. Damit zeigen sich Optimismus über die Rally und Vorsicht wegen einer möglichen Korrektur zugleich. Quelle: yna.co.kr"
+      },
+      "fr": {
+        "title": "Dépôts d’investisseurs au record avec le KOSPI au-dessus de 7 000, tandis que les paris baissiers augmentent",
+        "excerpt": "Alors que le KOSPI a dépassé 7 000 points, les dépôts d’investisseurs, liquidités en attente pour la Bourse, ont atteint un record, et les paris sur une baisse ont aussi progressé.",
+        "body": "Selon un article Money Flow publié depuis Séoul par la journaliste Go Eun-ji de Yonhap News, les dépôts d’investisseurs, réserve de liquidités en attente pour le marché actions, ont atteint un plus haut historique après que le KOSPI a franchi le seuil des 7 000 points. Ces dépôts correspondent aux fonds conservés par les investisseurs sur des comptes de courtage en vue d’acheter des actions, et sont considérés comme un indicateur de la liquidité susceptible d’entrer sur le marché. Après la forte progression de l’indice, les attentes de nouvelles hausses se sont renforcées. Dans le même temps, les mouvements misant sur une “baisse” ont aussi augmenté. Cela montre que l’optimisme sur la hausse et la prudence face à une possible correction coexistent. Source: yna.co.kr"
+      },
+      "ar": {
+        "title": "ودائع المستثمرين تسجل مستوى قياسيا بعد تجاوز كوسبي 7,000 نقطة مع زيادة رهانات الهبوط",
+        "excerpt": "مع تجاوز مؤشر كوسبي مستوى 7,000 نقطة، سجلت ودائع المستثمرين، وهي أموال تنتظر دخول سوق الأسهم، أعلى مستوى تاريخي، فيما زادت أيضا الرهانات على الهبوط.",
+        "body": "بحسب تقرير لتدفقات الأموال من سيول أعدته الصحفية غو أون-جي في وكالة يونهاب، سجلت ودائع المستثمرين، وهي أموال احتياطية مخصصة لسوق الأسهم، أعلى مستوى على الإطلاق بعدما اخترق مؤشر كوسبي حاجز 7,000 نقطة. وتمثل هذه الودائع الأموال التي يضعها المستثمرون في حسابات شركات الوساطة استعدادا لشراء الأسهم، وتعد مؤشرا على حجم السيولة التي تنتظر دخول السوق. وبعد الصعود الكبير للمؤشر، زادت التوقعات بإمكانية استمرار الارتفاع. وفي الوقت نفسه، ارتفعت أيضا تحركات المستثمرين الذين يراهنون على “هبوط” الأسعار. ويظهر ذلك تزامن التفاؤل بمواصلة الصعود مع الحذر من احتمال حدوث تصحيح. المصدر: yna.co.kr"
+      },
+      "hi": {
+        "title": "KOSPI के 7,000 पार करते ही निवेशक जमा रिकॉर्ड ऊंचाई पर, गिरावट पर दांव भी बढ़े",
+        "excerpt": "KOSPI के 7,000 अंक से ऊपर जाने के बीच शेयर बाजार में प्रवेश की प्रतीक्षा कर रही निवेशक जमा राशि रिकॉर्ड स्तर पर पहुंची, जबकि गिरावट पर दांव भी बढ़े।",
+        "body": "योनहाप न्यूज की पत्रकार गो यून-जी की सियोल से मनी फ्लो रिपोर्ट के अनुसार, KOSPI के 7,000 अंक के स्तर को पार करने के बाद शेयर बाजार की प्रतीक्षा पूंजी मानी जाने वाली निवेशक जमा राशि अब तक के उच्चतम स्तर पर पहुंच गई। निवेशक जमा वह पैसा है जिसे निवेशक शेयर खरीदने के लिए ब्रोकरेज खातों में रखते हैं, और इसे बाजार में प्रवेश की प्रतीक्षा कर रही तरलता का संकेतक माना जाता है। सूचकांक में तेज बढ़त के बाद आगे और तेजी की उम्मीद बढ़ी। इसी समय “गिरावट” पर दांव लगाने वाले निवेशकों की गतिविधि भी बढ़ी। यह रुझान दिखाता है कि तेजी की उम्मीद और संभावित सुधार को लेकर सतर्कता साथ-साथ दिख रही है। स्रोत: yna.co.kr"
+      },
+      "id": {
+        "title": "Dana Simpanan Investor Cetak Rekor saat KOSPI Tembus 7.000, Taruhan Penurunan Juga Naik",
+        "excerpt": "Saat KOSPI menembus 7.000 poin, dana simpanan investor sebagai uang siaga pasar saham mencapai rekor tertinggi, sementara taruhan pada penurunan harga juga meningkat.",
+        "body": "Menurut laporan Money Flow dari Seoul oleh reporter Yonhap News Go Eun-ji, dana simpanan investor, yaitu dana siaga untuk pasar saham, mencetak rekor tertinggi setelah KOSPI menembus level 7.000 poin yang disebut “KOSPI 7.000”. Dana simpanan investor adalah uang yang ditempatkan investor di rekening sekuritas untuk membeli saham, dan dianggap sebagai indikator likuiditas yang menunggu masuk ke pasar. Setelah indeks naik tajam, ekspektasi kenaikan lanjutan meningkat. Namun pada saat yang sama, pergerakan investor yang bertaruh pada “penurunan” juga bertambah. Kondisi ini menunjukkan harapan terhadap reli dan kewaspadaan terhadap kemungkinan koreksi muncul bersamaan. Sumber: yna.co.kr"
+      }
+    }
+  },
+  {
+    "id": "e3f013ae21b6",
+    "slug": "바이오사이언스-국산-신약-43호-시대개발-속도-빨라졌다-945997",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-05-08T23:30:31.678Z",
+    "updatedAt": "2026-05-08T23:30:31.678Z",
+    "sourceName": "yna.co.kr",
+    "sourceUrl": "https://www.yna.co.kr/view/AKR20260508099600017",
+    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260508099600017",
+    "titleFingerprint": "516e0e2886f0ca857a8d9fef24fcb129dfa910a9",
+    "dedupKeys": [
+      "e3f013ae21b606d32f38e8dc1b631caf47893901",
+      "516e0e2886f0ca857a8d9fef24fcb129dfa910a9",
+      "670a2666d518537605115c28efaee0ea0112e76f"
+    ],
+    "imageUrl": "/images/articles/e3f013ae21b6.jpg",
+    "i18n": {
+      "ko": {
+        "title": "국산 신약 43호 시대, 1999년 1호 이후 개발 속도 빨라진 배경",
+        "excerpt": "연합뉴스에 따르면 1999년 국내 개발 신약 1호가 나온 뒤 27년 동안 국산 신약은 총 43호까지 늘었으며, 바이오사이언스 분야의 신약 개발 흐름이 빨라지고 있다.",
+        "body": "서울에서 연합뉴스 신선미 기자가 보도한 바이오사이언스 소식에 따르면, 1999년 ‘국내 개발 신약 1호’가 나온 이후 27년간 국산 신약은 모두 43호까지 늘었다. 국내에서 자체 개발한 신약이 1호를 기록한 뒤 시간이 지나며 누적 건수가 꾸준히 증가한 것이다. 이번 보도는 국산 신약 개발의 역사가 27년에 이르렀고, 현재 43호 시대에 들어섰다는 점을 보여준다. 관련 수치로는 1999년 첫 사례 이후 총 43개 국산 신약이 집계됐다. 이는 국내 바이오사이언스와 제약 분야에서 신약 개발 성과가 축적되고 있음을 의미한다. 향후 국산 신약 개발 흐름과 속도는 업계의 주요 관심사로 이어질 전망이다. 출처: yna.co.kr"
+      },
+      "en": {
+        "title": "Korean New Drugs Reach No. 43 as Development Pace Accelerates Since 1999",
+        "excerpt": "According to Yonhap News Agency, South Korea has developed 43 homegrown new drugs over 27 years since its first domestically developed drug appeared in 1999.",
+        "body": "In a bioscience report from Seoul, Yonhap News Agency reporter Shin Sun-mi said South Korea’s domestically developed new drugs have increased to a total of 43 over the 27 years since the country’s first homegrown new drug appeared in 1999. The report shows that after the first locally developed drug was recorded, the cumulative number continued to rise over time. It also highlights that Korea’s domestic new-drug development history now spans 27 years and has entered the era of No. 43. The key figure is 43 homegrown new drugs since the first case in 1999. This indicates that achievements in Korea’s bioscience and pharmaceutical sectors have been accumulating. The pace and direction of domestic new-drug development are expected to remain a major industry focus. Source: yna.co.kr"
+      },
+      "ja": {
+        "title": "韓国産新薬43号時代へ、1999年の第1号以降に開発ペース加速",
+        "excerpt": "聯合ニュースによると、1999年に韓国国内開発の新薬第1号が登場してから27年間で、韓国産新薬は計43号まで増えた。",
+        "body": "ソウル発のバイオサイエンス記事で、聯合ニュースのシン・ソンミ記者は、1999年に「韓国国内開発新薬第1号」が登場して以来、27年間で韓国産新薬が計43号まで増えたと報じた。国内で独自に開発された新薬が第1号を記録した後、累積件数が時間とともに増加してきたことを示している。今回の報道は、韓国産新薬開発の歴史が27年に及び、現在は43号時代に入った点を伝えるものだ。関連する数字は、1999年の初事例以降に計43件の韓国産新薬が集計されたという点である。これは韓国のバイオサイエンスと製薬分野で新薬開発の成果が蓄積されていることを意味する。今後の開発の流れと速度は、業界の主な関心事となる見通しだ。出典: yna.co.kr"
+      },
+      "zh": {
+        "title": "韩国国产新药进入第43号时代，1999年首个新药后开发提速",
+        "excerpt": "据韩联社报道，自1999年韩国首个国内开发新药问世以来，27年间韩国国产新药累计已增至43个。",
+        "body": "据韩联社记者申善美从首尔发出的生物科学报道，自1999年“韩国国内开发新药1号”问世以来，27年间韩国国产新药已累计增加到43个。这表明韩国在记录首个自主开发新药之后，相关累计数量随着时间持续上升。此次报道显示，韩国国产新药开发历史已达到27年，目前进入第43号时代。相关数据是，自1999年首个案例以来，韩国国产新药共计43个。这意味着韩国生物科学和制药领域的新药开发成果正在积累。今后韩国国产新药开发的 흐름과 속도预计将继续成为业界关注的重点。来源: yna.co.kr"
+      },
+      "es": {
+        "title": "Fármacos nuevos surcoreanos llegan al número 43 desde 1999 con mayor ritmo",
+        "excerpt": "Según Yonhap, desde que en 1999 apareció el primer nuevo fármaco desarrollado en Corea del Sur, el total de medicamentos nacionales llegó a 43 en 27 años.",
+        "body": "En una información de biociencia fechada en Seúl, la periodista Shin Sun-mi de Yonhap informó que los nuevos fármacos desarrollados en Corea del Sur llegaron a un total de 43 durante los 27 años transcurridos desde la aparición, en 1999, del primer medicamento nuevo desarrollado en el país. El dato muestra que, tras registrarse el primer desarrollo local, el número acumulado siguió aumentando con el tiempo. La nota subraya que la historia del desarrollo nacional de nuevos medicamentos ya abarca 27 años y ha entrado en la etapa del número 43. La cifra clave es que desde 1999 se contabilizan 43 nuevos fármacos surcoreanos. Esto significa que los resultados en biociencia y farmacéutica del país se han ido acumulando. La evolución y la velocidad del desarrollo seguirán siendo un foco de atención del sector. Fuente: yna.co.kr"
+      },
+      "pt": {
+        "title": "Novos medicamentos coreanos chegam ao nº 43 desde 1999 com ritmo mais rápido",
+        "excerpt": "Segundo a Yonhap, desde o primeiro novo medicamento desenvolvido na Coreia do Sul em 1999, o total de fármacos nacionais chegou a 43 em 27 anos.",
+        "body": "Em uma reportagem de biociência de Seul, a jornalista Shin Sun-mi, da Yonhap, informou que os novos medicamentos desenvolvidos domesticamente na Coreia do Sul chegaram a 43 ao longo dos 27 anos desde que o primeiro fármaco nacional apareceu em 1999. O dado mostra que, depois do registro do primeiro medicamento desenvolvido no país, o número acumulado continuou aumentando com o tempo. A notícia destaca que a história do desenvolvimento coreano de novos fármacos já soma 27 anos e entrou na fase do número 43. O principal número é o total de 43 medicamentos nacionais desde o primeiro caso em 1999. Isso indica que os resultados nos setores de biociência e farmacêutico da Coreia vêm se acumulando. O ritmo e a direção desse desenvolvimento devem seguir como foco importante da indústria. Fonte: yna.co.kr"
+      },
+      "de": {
+        "title": "Südkoreas neue heimische Arzneien erreichen Nummer 43 seit erstem Fall 1999",
+        "excerpt": "Laut Yonhap News Agency ist die Zahl der in Südkorea entwickelten neuen Arzneimittel seit dem ersten heimischen Präparat 1999 in 27 Jahren auf 43 gestiegen.",
+        "body": "In einem Bioscience-Bericht aus Seoul meldete Yonhap-Reporterin Shin Sun-mi, dass die Zahl der in Südkorea entwickelten neuen Arzneimittel in den 27 Jahren seit dem ersten heimisch entwickelten neuen Medikament im Jahr 1999 auf insgesamt 43 gestiegen ist. Der Bericht zeigt, dass nach dem ersten lokal entwickelten Arzneimittel die kumulierte Zahl im Laufe der Zeit weiter zunahm. Zugleich wird deutlich, dass die Geschichte der südkoreanischen Entwicklung neuer Medikamente nun 27 Jahre umfasst und die Phase der Nummer 43 erreicht hat. Die zentrale Kennzahl lautet: Seit dem ersten Fall 1999 wurden 43 heimische neue Arzneimittel gezählt. Dies bedeutet, dass sich Ergebnisse in Südkoreas Bioscience- und Pharmabereich angesammelt haben. Entwicklungstempo und weitere Richtung dürften ein wichtiges Branchenthema bleiben. Quelle: yna.co.kr"
+      },
+      "fr": {
+        "title": "Les nouveaux médicaments coréens atteignent le numéro 43 depuis 1999",
+        "excerpt": "Selon Yonhap, depuis le premier nouveau médicament développé en Corée du Sud en 1999, le total des traitements nationaux a atteint 43 en 27 ans.",
+        "body": "Dans une dépêche biosciences depuis Séoul, la journaliste Shin Sun-mi de Yonhap a indiqué que les nouveaux médicaments développés en Corée du Sud ont atteint un total de 43 au cours des 27 années écoulées depuis l’apparition, en 1999, du premier nouveau médicament mis au point dans le pays. Ce chiffre montre qu’après ce premier développement local, le nombre cumulé a continué d’augmenter avec le temps. L’article souligne que l’histoire du développement national de nouveaux médicaments s’étend désormais sur 27 ans et entre dans l’ère du numéro 43. Le principal repère est donc le total de 43 nouveaux médicaments coréens depuis 1999. Cela signifie que les résultats s’accumulent dans les secteurs coréens des biosciences et de la pharmacie. Le rythme et l’orientation de ce développement devraient rester un sujet majeur pour l’industrie. Source: yna.co.kr"
+      },
+      "ar": {
+        "title": "الأدوية الكورية المطورة محليا تصل إلى الرقم 43 منذ أول إنجاز في 1999",
+        "excerpt": "وفقا لوكالة يونهاب، ارتفع عدد الأدوية الجديدة المطورة محليا في كوريا الجنوبية إلى 43 خلال 27 عاما منذ ظهور أول دواء محلي في 1999.",
+        "body": "في تقرير عن علوم الحياة من سيول، ذكرت الصحفية شين سون مي من وكالة يونهاب أن عدد الأدوية الجديدة المطورة محليا في كوريا الجنوبية ارتفع إلى 43 دواء خلال 27 عاما منذ ظهور أول دواء جديد مطور داخل البلاد في عام 1999. ويظهر التقرير أنه بعد تسجيل أول دواء محلي التطوير، واصل العدد التراكمي الارتفاع مع مرور الوقت. كما يوضح أن تاريخ تطوير الأدوية الجديدة المحلية في كوريا الجنوبية امتد الآن إلى 27 عاما ودخل مرحلة الرقم 43. والرقم الأساسي هو تسجيل 43 دواء جديدا محليا منذ الحالة الأولى في 1999. ويعني ذلك تراكم الإنجازات في مجالي علوم الحياة والصناعات الدوائية في كوريا الجنوبية. ومن المتوقع أن يبقى اتجاه وسرعة تطوير الأدوية المحلية موضع اهتمام رئيسي في القطاع. المصدر: yna.co.kr"
+      },
+      "hi": {
+        "title": "दक्षिण कोरिया की घरेलू नई दवाएं 1999 के बाद 43वें नंबर तक पहुंचीं",
+        "excerpt": "योनहाप के अनुसार, 1999 में दक्षिण कोरिया की पहली घरेलू विकसित नई दवा आने के बाद 27 वर्षों में ऐसी दवाओं की कुल संख्या 43 हो गई है।",
+        "body": "सियोल से बायोसाइंस पर योनहाप की रिपोर्ट में पत्रकार शिन सुन-मी ने बताया कि 1999 में दक्षिण कोरिया की ‘घरेलू विकसित नई दवा नंबर 1’ आने के बाद 27 वर्षों में देश में विकसित नई दवाओं की संख्या कुल 43 तक पहुंच गई है। यह बताता है कि देश में स्वयं विकसित पहली दवा दर्ज होने के बाद समय के साथ कुल संख्या लगातार बढ़ी। रिपोर्ट यह भी दिखाती है कि दक्षिण कोरिया में घरेलू नई दवा विकास का इतिहास अब 27 साल का हो गया है और वह 43वें नंबर के दौर में पहुंच चुका है। मुख्य आंकड़ा यह है कि 1999 की पहली मिसाल के बाद कुल 43 घरेलू नई दवाएं गिनी गई हैं। इसका अर्थ है कि दक्षिण कोरिया के बायोसाइंस और फार्मा क्षेत्रों में नई दवा विकास की उपलब्धियां जमा हो रही हैं। आगे इस विकास की दिशा और गति उद्योग के लिए प्रमुख 관심 का विषय बनी रह सकती है। स्रोत: yna.co.kr"
+      },
+      "id": {
+        "title": "Obat baru Korea capai nomor 43 sejak 1999, laju pengembangan makin cepat",
+        "excerpt": "Menurut Yonhap, sejak obat baru pertama yang dikembangkan di Korea Selatan muncul pada 1999, jumlah obat baru domestik bertambah menjadi 43 dalam 27 tahun.",
+        "body": "Dalam laporan biosains dari Seoul, reporter Yonhap Shin Sun-mi menyebut jumlah obat baru yang dikembangkan secara domestik di Korea Selatan telah mencapai total 43 selama 27 tahun sejak obat baru pertama buatan dalam negeri muncul pada 1999. Laporan ini menunjukkan bahwa setelah obat pertama hasil pengembangan lokal tercatat, jumlah kumulatifnya terus meningkat seiring waktu. Berita tersebut juga menegaskan bahwa sejarah pengembangan obat baru domestik Korea Selatan kini telah berlangsung 27 tahun dan memasuki era nomor 43. Angka utamanya adalah 43 obat baru domestik sejak kasus pertama pada 1999. Hal ini berarti pencapaian di sektor biosains dan farmasi Korea Selatan terus terakumulasi. Arah dan kecepatan pengembangan obat baru domestik diperkirakan tetap menjadi perhatian utama industri. Sumber: yna.co.kr"
+      }
+    }
+  },
+  {
     "id": "9e8fc581a9e5",
     "slug": "달러-원-위험-선호-재확산에-오름폭-축소146230원-마감-524397",
     "channelId": "ETF",
@@ -4271,231 +4496,6 @@
         "title": "PER Samsung Electronics di Level Terendah Historis, PB Unggulan Sarankan Lihat Pertumbuhan Laba",
         "excerpt": "Seorang private banker unggulan menyebut PER Samsung Electronics berada di level terendah historis dan menekankan pertumbuhan laba, lonjakan semikonduktor AI, serta diversifikasi lewat ETF.",
         "body": "Sebuah strategi pengelolaan aset menilai menjual Samsung Electronics saat ini bisa menjadi kesalahan. Seorang private banker unggulan mengatakan PER perusahaan berada di level terendah secara historis dan investor perlu melihat tren pertumbuhan laba, bukan hanya pergerakan harga saham jangka pendek. Latar belakangnya adalah semikonduktor yang didorong AI memasuki fase pertumbuhan tinggi. Pasar saham Korea juga dinilai masih memiliki daya tarik revaluasi. Dari sisi strategi investasi, diversifikasi melalui ETF ditekankan sebagai hal yang wajib, alih-alih hanya berfokus pada saham tertentu. Indeks saham AS menjelang pemilihan sela juga disebut sebagai pilihan yang menjanjikan. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "ec0fbf48542c",
-    "slug": "美증시도-빅테크-쏠림5개社가-상승-주도-528395",
-    "channelId": "ETF",
-    "category": "etf",
-    "publishedAt": "2026-05-08T12:00:36.583Z",
-    "updatedAt": "2026-05-08T12:00:36.583Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/2026050848731",
-    "canonicalUrl": "https://www.hankyung.com/article/2026050848731",
-    "titleFingerprint": "a9a10aeb5300d7cd5e26c8ca794a3f0f5b3bcb54",
-    "dedupKeys": [
-      "ec0fbf48542c1c465f55e1fd53b31ef311752fbd",
-      "a9a10aeb5300d7cd5e26c8ca794a3f0f5b3bcb54",
-      "ae50229e7a26fe3a1077f049c1a47e5d528aa17d"
-    ],
-    "imageUrl": "/images/articles/ec0fbf48542c.png",
-    "i18n": {
-      "ko": {
-        "title": "미국 증시 빅테크 쏠림 심화, 5개 기업이 상승세 주도",
-        "excerpt": "hankyung.com은 미국 증시 상승이 소수 빅테크 기업에 집중됐다고 보도했다. 5개 기업이 오름세를 이끌며 시장 전반보다 대형 기술주 영향력이 부각됐다.",
-        "body": "미국 증시에서 상승 흐름이 일부 대형 기술주에 집중되는 ‘빅테크 쏠림’ 현상이 나타났다고 hankyung.com이 보도했다. 보도에 따르면 미국 주식시장의 오름세는 전체 종목의 고른 반등보다 5개 기업의 상승 주도에 의해 설명되는 측면이 크다. 이는 투자자들이 지수 상승을 해석할 때 시장 전반의 개선인지, 소수 대형 기술주의 영향인지 구분해 볼 필요가 있음을 보여준다. 특히 미국 주식형 ETF나 지수 추종 상품을 보는 투자자에게는 편입 상위 기업의 움직임이 성과를 좌우할 수 있다는 점이 핵심 변수다. 출처: hankyung.com"
-      },
-      "en": {
-        "title": "U.S. Stock Gains Concentrate in Big Tech as Five Companies Lead Rally",
-        "excerpt": "hankyung.com reported that gains in the U.S. stock market have been concentrated in a small group of Big Tech names, with five companies driving the advance rather than a broad market rise.",
-        "body": "Gains in the U.S. stock market are showing a concentration in major technology shares, a trend described as a Big Tech tilt, according to hankyung.com. The report says the market’s advance is being led by five companies, rather than by an even rebound across the broader equity market. That makes it important to distinguish whether index gains reflect widespread improvement or the influence of a small number of large technology stocks. For investors watching U.S. equity ETFs or index-tracking products, movements in top holdings may therefore be a key factor in performance. Source: hankyung.com"
-      },
-      "ja": {
-        "title": "米国株もビッグテック偏重、5社が相場上昇を主導",
-        "excerpt": "hankyung.comは、米国株式市場の上昇が少数のビッグテック企業に集中していると報じた。5社が上昇を主導し、市場全体より大型技術株の影響が目立つ。",
-        "body": "米国株式市場で、上昇の流れが一部の大型テクノロジー株に集中する「ビッグテック偏重」が見られるとhankyung.comが報じた。報道によると、米国株の上昇は市場全体の均等な反発というより、5社の上昇主導によって説明される面が大きい。これは投資家が指数上昇を読む際、市場全般の改善なのか、少数の大型技術株の影響なのかを分けて確認する必要があることを示す。米国株ETFや指数連動商品を見る投資家にとって、上位組み入れ銘柄の動きが成果を左右し得る点が重要な変数となる。出所: hankyung.com"
-      },
-      "zh": {
-        "title": "美股上涨再现大型科技股集中，五家公司主导升势",
-        "excerpt": "hankyung.com报道称，美股上涨集中在少数大型科技企业。五家公司主导升势，使大型科技股的影响力相较整体市场表现更加突出。",
-        "body": "据hankyung.com报道，美国股市出现上涨集中于部分大型科技股的现象，即所谓大型科技股集中。报道称，美股涨势并非更多来自整体个股的均衡反弹，而是在相当程度上由五家公司的上涨所主导。这意味着投资者在解读指数上涨时，需要区分其反映的是市场整体改善，还是少数大型科技股的影响。对于关注美国股票ETF或指数跟踪产品的投资者而言，权重靠前企业的走势可能成为左右表现的关键变量。来源: hankyung.com"
-      },
-      "es": {
-        "title": "Wall Street concentra subidas en Big Tech: cinco empresas lideran el avance",
-        "excerpt": "hankyung.com informó que las subidas de la bolsa estadounidense se concentran en un pequeño grupo de Big Tech, con cinco compañías impulsando el avance más que el mercado en conjunto.",
-        "body": "La bolsa estadounidense muestra una concentración de las subidas en grandes valores tecnológicos, una tendencia de sesgo hacia Big Tech, según informó hankyung.com. De acuerdo con el reporte, el avance del mercado se explica en gran medida por cinco compañías, más que por una recuperación uniforme del conjunto de acciones. Esto indica que los inversores deben distinguir si el alza de los índices refleja una mejora amplia del mercado o el efecto de unas pocas tecnológicas de gran capitalización. Para quienes siguen ETF de renta variable estadounidense o productos indexados, el movimiento de las principales posiciones puede ser un factor clave de rentabilidad. Fuente: hankyung.com"
-      },
-      "pt": {
-        "title": "Bolsa dos EUA concentra ganhos em Big Tech, com cinco empresas na liderança",
-        "excerpt": "O hankyung.com informou que a alta das ações dos EUA está concentrada em poucas Big Techs. Cinco empresas lideram o avanço, destacando o peso das grandes tecnológicas.",
-        "body": "O mercado acionário dos Estados Unidos mostra uma concentração dos ganhos em grandes empresas de tecnologia, tendência descrita como foco em Big Tech, segundo o hankyung.com. De acordo com a reportagem, a alta das ações americanas é explicada em grande parte pela liderança de cinco empresas, e não por uma recuperação ampla e equilibrada do mercado. Isso mostra que investidores devem diferenciar se a alta dos índices reflete melhora geral ou influência de poucas companhias tecnológicas de grande porte. Para quem acompanha ETFs de ações dos EUA ou produtos que replicam índices, o movimento das maiores posições pode ser uma variável central de desempenho. Fonte: hankyung.com"
-      },
-      "de": {
-        "title": "US-Aktien mit Big-Tech-Konzentration: Fünf Firmen treiben Gewinne",
-        "excerpt": "hankyung.com berichtete, dass sich die Kursgewinne am US-Aktienmarkt auf wenige Big-Tech-Werte konzentrieren. Fünf Unternehmen führen den Anstieg an und prägen die Marktentwicklung.",
-        "body": "Am US-Aktienmarkt konzentrieren sich die Kursgewinne auf einige große Technologiewerte, ein Muster, das als Big-Tech-Fokus beschrieben wird, berichtete hankyung.com. Dem Bericht zufolge wird der Anstieg des Marktes stärker durch fünf Unternehmen getragen als durch eine gleichmäßige Erholung vieler Aktien. Für Anleger ist es daher wichtig zu unterscheiden, ob steigende Indizes eine breite Verbesserung des Marktes zeigen oder vor allem den Einfluss weniger großer Technologiekonzerne widerspiegeln. Wer US-Aktien-ETFs oder indexnahe Produkte beobachtet, sollte besonders die Bewegungen der größten Positionen beachten, da sie die Wertentwicklung prägen können. Quelle: hankyung.com"
-      },
-      "fr": {
-        "title": "Wall Street se concentre sur la Big Tech, cinq sociétés mènent la hausse",
-        "excerpt": "hankyung.com rapporte que la progression des actions américaines se concentre sur quelques grandes valeurs technologiques, cinq sociétés menant l’essentiel de la hausse du marché.",
-        "body": "Le marché actions américain montre une concentration de la hausse sur quelques grandes valeurs technologiques, une tendance assimilée à un biais Big Tech, selon hankyung.com. Le reportage indique que la progression des actions américaines s’explique davantage par cinq sociétés que par un rebond homogène de l’ensemble du marché. Les investisseurs doivent donc distinguer si la hausse des indices traduit une amélioration générale ou l’effet de quelques grandes entreprises technologiques. Pour ceux qui suivent les ETF actions américains ou les produits répliquant des indices, l’évolution des principales pondérations peut devenir un facteur déterminant de performance. Source: hankyung.com"
-      },
-      "ar": {
-        "title": "أسهم وول ستريت تتركز في شركات التكنولوجيا الكبرى وخمس تقود الصعود",
-        "excerpt": "أفاد hankyung.com بأن مكاسب سوق الأسهم الأميركية تتركز في عدد محدود من شركات التكنولوجيا الكبرى، إذ تقود خمس شركات الارتفاع بدلا من صعود واسع في السوق.",
-        "body": "تشهد سوق الأسهم الأميركية تركزا في المكاسب داخل بعض شركات التكنولوجيا الكبرى، وهي ظاهرة توصف بميل واضح نحو أسهم Big Tech، بحسب ما أفاد hankyung.com. ووفقا للتقرير، فإن ارتفاع السوق الأميركية يفسر بدرجة كبيرة بقيادة خمس شركات، أكثر من كونه تعافيا متوازنا في مختلف الأسهم. وهذا يعني أن على المستثمرين التمييز بين ما إذا كان صعود المؤشرات يعكس تحسنا عاما في السوق أم تأثير عدد محدود من الشركات التكنولوجية الضخمة. وبالنسبة إلى متابعي صناديق ETF للأسهم الأميركية أو المنتجات التي تتبع المؤشرات، قد تصبح حركة أكبر المكونات عاملا رئيسيا في الأداء. المصدر: hankyung.com"
-      },
-      "hi": {
-        "title": "अमेरिकी बाजार में बिग टेक का दबदबा, पांच कंपनियां तेजी चला रहीं",
-        "excerpt": "hankyung.com ने बताया कि अमेरिकी शेयर बाजार की बढ़त कुछ बड़ी टेक कंपनियों में केंद्रित है। पांच कंपनियां तेजी को आगे बढ़ा रही हैं, जिससे बिग टेक का असर उभर रहा है।",
-        "body": "अमेरिकी शेयर बाजार में तेजी कुछ बड़ी टेक्नोलॉजी कंपनियों पर केंद्रित दिख रही है, जिसे बिग टेक की ओर झुकाव कहा जा रहा है, hankyung.com ने रिपोर्ट किया। रिपोर्ट के अनुसार, अमेरिकी शेयरों की बढ़त पूरे बाजार में समान सुधार के बजाय पांच कंपनियों की अगुवाई से अधिक समझी जा सकती है। इससे निवेशकों के लिए यह देखना जरूरी हो जाता है कि सूचकांकों की तेजी व्यापक बाजार सुधार को दिखाती है या कुछ बड़ी टेक कंपनियों के प्रभाव को। अमेरिकी इक्विटी ETF या इंडेक्स ट्रैकिंग उत्पादों को देखने वाले निवेशकों के लिए शीर्ष होल्डिंग्स की चाल प्रदर्शन तय करने वाला अहम कारक हो सकती है। स्रोत: hankyung.com"
-      },
-      "id": {
-        "title": "Bursa AS Kian Bertumpu pada Big Tech, Lima Perusahaan Pimpin Kenaikan",
-        "excerpt": "hankyung.com melaporkan kenaikan bursa saham AS terkonsentrasi pada segelintir saham Big Tech. Lima perusahaan memimpin penguatan, bukan reli yang merata di seluruh pasar.",
-        "body": "Bursa saham Amerika Serikat menunjukkan kenaikan yang terkonsentrasi pada beberapa saham teknologi besar, sebuah tren yang disebut sebagai penumpuan pada Big Tech, menurut hankyung.com. Laporan itu menyebut penguatan pasar AS lebih banyak dijelaskan oleh kenaikan lima perusahaan, bukan oleh pemulihan yang merata di seluruh saham. Karena itu, investor perlu membedakan apakah kenaikan indeks mencerminkan perbaikan pasar secara luas atau pengaruh segelintir perusahaan teknologi besar. Bagi investor yang memantau ETF saham AS atau produk pelacak indeks, pergerakan saham dengan bobot terbesar dapat menjadi faktor penting bagi kinerja. Sumber: hankyung.com"
-      }
-    }
-  },
-  {
-    "id": "73a788192488",
-    "slug": "코스피-종목-절반-전쟁-전-주가-회복-못해-254813",
-    "channelId": "ETF",
-    "category": "etf",
-    "publishedAt": "2026-05-08T11:59:30.348Z",
-    "updatedAt": "2026-05-08T11:59:30.348Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/2026050848721",
-    "canonicalUrl": "https://www.hankyung.com/article/2026050848721",
-    "titleFingerprint": "97d5d7f55f14133eb86ac2807fc71053dbe19744",
-    "dedupKeys": [
-      "73a78819248858e57c2eb03b689344314040c0a5",
-      "97d5d7f55f14133eb86ac2807fc71053dbe19744",
-      "e64665289da6c159e711ebe7acf86d6583a23362"
-    ],
-    "imageUrl": "/images/articles/73a788192488.png",
-    "i18n": {
-      "ko": {
-        "title": "코스피 종목 절반, 전쟁 전 주가 회복 못해…지수 회복 뒤 종목별 격차 부각",
-        "excerpt": "한국경제에 따르면 코스피 상장 종목의 절반은 전쟁 이전 주가 수준을 아직 회복하지 못했다. 지수 흐름과 달리 개별 종목 간 회복 격차가 남아 있다는 점이 부각됐다.",
-        "body": "한국경제는 코스피 상장 종목의 절반이 전쟁 전 주가를 회복하지 못했다고 전했다. 보도에 따르면 시장 전체가 일정 부분 회복세를 보였더라도, 모든 종목이 같은 속도로 반등한 것은 아니다. 핵심 수치는 코스피 종목의 약 절반이 전쟁 이전 수준에 미치지 못한다는 점이다. 이는 지수 흐름만으로 개별 종목의 회복 정도를 판단하기 어렵다는 의미로 읽힌다. 투자자 입장에서는 시장 대표 지수와 종목별 주가 사이의 차이를 함께 살펴볼 필요가 있다. 향후 시장 평가는 지수 회복 여부뿐 아니라 아직 전쟁 전 가격을 되찾지 못한 종목들의 반등 여부에 따라 달라질 수 있다. 출처: hankyung.com"
-      },
-      "en": {
-        "title": "Half of KOSPI Stocks Still Below Pre-War Prices, Revealing Uneven Market Recovery",
-        "excerpt": "According to Hankyung, half of KOSPI-listed stocks have yet to regain their pre-war price levels, highlighting a gap between index movement and individual stock recovery.",
-        "body": "Hankyung reported that half of the stocks listed on the KOSPI have not recovered their pre-war share prices. According to the report, even if the broader market has shown some recovery, not all stocks have rebounded at the same pace. The key figure is that about half of KOSPI names remain below their levels before the war. This suggests that the recovery of individual stocks cannot be judged by the index alone. For investors, the difference between the benchmark index and stock-by-stock performance remains important. Future market assessment may depend not only on whether the index recovers, but also on whether stocks still below their pre-war prices can rebound. Source: hankyung.com"
-      },
-      "ja": {
-        "title": "KOSPI銘柄の半数、戦争前の株価を回復できず…指数回復後も格差鮮明",
-        "excerpt": "韓国経済新聞によると、KOSPI上場銘柄の半数は戦争前の株価水準をまだ回復しておらず、指数の動きと個別銘柄の回復に差が残っていることが示された。",
-        "body": "韓国経済新聞は、KOSPI上場銘柄の半数が戦争前の株価を回復していないと報じた。報道によれば、市場全体が一定程度回復していても、すべての銘柄が同じ速度で反発したわけではない。重要な数値は、KOSPI銘柄のおよそ半数が戦争前の水準に届いていないという点だ。これは、指数の動きだけで個別銘柄の回復度を判断するのは難しいことを意味する。投資家にとっては、代表指数と銘柄別株価の差を併せて確認する必要がある。今後の市場評価は、指数の回復だけでなく、戦争前の価格を取り戻していない銘柄の反発にも左右される可能性がある。出典: hankyung.com"
-      },
-      "zh": {
-        "title": "半数KOSPI个股仍未收复战前股价，指数回升背后分化凸显",
-        "excerpt": "据韩国经济新闻报道，KOSPI上市股票中约半数仍未恢复至战前股价水平，显示指数走势与个股修复之间仍存在明显差异。",
-        "body": "韩国经济新闻报道称，KOSPI上市股票中有一半尚未恢复到战前股价。报道显示，即使整体市场出现一定程度的恢复，并非所有股票都以相同速度反弹。核心数据是，约半数KOSPI个股仍低于战前水平。这意味着，仅凭指数走势难以判断个别股票的恢复程度。对投资者而言，有必要同时观察代表性指数与个股价格之间的差异。未来市场评价不仅取决于指数是否恢复，也可能取决于那些尚未收复战前价格的股票能否反弹。来源: hankyung.com"
-      },
-      "es": {
-        "title": "La mitad de las acciones del KOSPI sigue bajo niveles previos a la guerra",
-        "excerpt": "Según Hankyung, la mitad de las acciones cotizadas en el KOSPI aún no ha recuperado sus precios previos a la guerra, lo que muestra una recuperación desigual entre el índice y los valores individuales.",
-        "body": "Hankyung informó que la mitad de las acciones cotizadas en el KOSPI no ha recuperado sus precios previos a la guerra. Según el reporte, aunque el mercado en conjunto haya mostrado cierta recuperación, no todos los valores han rebotado al mismo ritmo. La cifra clave es que cerca de la mitad de los componentes del KOSPI sigue por debajo de los niveles anteriores a la guerra. Esto indica que no basta observar el índice para evaluar la recuperación de cada acción. Para los inversores, sigue siendo importante comparar el movimiento del índice de referencia con el desempeño de cada valor. La evaluación futura del mercado podría depender no solo de la recuperación del índice, sino también de si esas acciones logran volver a sus precios previos a la guerra. Fuente: hankyung.com"
-      },
-      "pt": {
-        "title": "Metade das ações do KOSPI segue abaixo do preço anterior à guerra",
-        "excerpt": "Segundo o Hankyung, metade das ações listadas no KOSPI ainda não recuperou os preços anteriores à guerra, evidenciando diferença entre o índice e a recuperação de papéis individuais.",
-        "body": "O Hankyung informou que metade das ações listadas no KOSPI não recuperou os preços anteriores à guerra. Segundo a reportagem, mesmo que o mercado mais amplo tenha mostrado alguma recuperação, nem todos os papéis reagiram no mesmo ritmo. O dado central é que cerca de metade dos nomes do KOSPI permanece abaixo dos níveis anteriores à guerra. Isso mostra que o movimento do índice, sozinho, não permite avaliar a recuperação de cada ação. Para investidores, a diferença entre o índice de referência e os preços por papel segue relevante. A avaliação futura do mercado pode depender não apenas da recuperação do índice, mas também da retomada das ações que ainda não voltaram aos preços anteriores à guerra. Fonte: hankyung.com"
-      },
-      "de": {
-        "title": "Hälfte der KOSPI-Aktien bleibt unter Vorkriegsniveau trotz Indexerholung",
-        "excerpt": "Laut Hankyung hat die Hälfte der im KOSPI gelisteten Aktien ihre Kurse von vor dem Krieg noch nicht wieder erreicht, was eine Lücke zwischen Indexentwicklung und Einzeltiteln zeigt.",
-        "body": "Hankyung berichtete, dass die Hälfte der im KOSPI gelisteten Aktien ihre Kurse von vor dem Krieg nicht wieder erreicht hat. Dem Bericht zufolge bedeutet eine gewisse Erholung des Gesamtmarkts nicht, dass alle Aktien im gleichen Tempo gestiegen sind. Die zentrale Zahl lautet: Rund die Hälfte der KOSPI-Werte liegt weiterhin unter dem Niveau vor dem Krieg. Daraus folgt, dass sich die Erholung einzelner Aktien nicht allein am Index ablesen lässt. Für Anleger bleibt der Unterschied zwischen dem Leitindex und den Kursen einzelner Titel wichtig. Die weitere Markteinschätzung könnte nicht nur davon abhängen, ob der Index sich erholt, sondern auch davon, ob die Aktien unter Vorkriegsniveau wieder zulegen. Quelle: hankyung.com"
-      },
-      "fr": {
-        "title": "La moitié des valeurs du KOSPI reste sous ses cours d’avant-guerre",
-        "excerpt": "Selon Hankyung, la moitié des actions cotées au KOSPI n’a pas encore retrouvé ses niveaux d’avant-guerre, soulignant un écart entre l’indice et la reprise des titres individuels.",
-        "body": "Hankyung a rapporté que la moitié des actions cotées au KOSPI n’a pas retrouvé ses cours d’avant-guerre. Selon l’article, même si l’ensemble du marché a montré une certaine reprise, toutes les valeurs n’ont pas rebondi au même rythme. Le chiffre clé est qu’environ la moitié des titres du KOSPI restent sous leurs niveaux d’avant-guerre. Cela signifie que l’évolution de l’indice ne suffit pas à mesurer la reprise de chaque action. Pour les investisseurs, l’écart entre l’indice de référence et les cours individuels doit être suivi de près. L’évaluation future du marché pourrait dépendre non seulement de la reprise de l’indice, mais aussi du rebond des titres qui n’ont pas encore retrouvé leurs prix d’avant-guerre. Source: hankyung.com"
-      },
-      "ar": {
-        "title": "نصف أسهم كوسبي لم يستعد أسعار ما قبل الحرب رغم تحسن المؤشر",
-        "excerpt": "بحسب هانكيونغ، فإن نصف الأسهم المدرجة في مؤشر كوسبي لم يستعد بعد مستويات الأسعار التي سجلها قبل الحرب، ما يبرز تفاوتا بين حركة المؤشر وتعافي الأسهم الفردية.",
-        "body": "ذكرت هانكيونغ أن نصف الأسهم المدرجة في مؤشر كوسبي لم يستعد أسعار ما قبل الحرب. ووفقا للتقرير، فإن إظهار السوق ككل قدرا من التعافي لا يعني أن جميع الأسهم ارتدت بالوتيرة نفسها. الرقم الأساسي هو أن نحو نصف أسهم كوسبي لا يزال دون مستوياته السابقة للحرب. وهذا يعني أن حركة المؤشر وحدها لا تكفي للحكم على مدى تعافي كل سهم. بالنسبة إلى المستثمرين، تظل الفجوة بين المؤشر الرئيسي وأسعار الأسهم الفردية عاملا مهما يجب متابعته. وقد يعتمد تقييم السوق لاحقا ليس فقط على تعافي المؤشر، بل أيضا على قدرة الأسهم التي لم تستعد أسعار ما قبل الحرب على الارتداد. المصدر: hankyung.com"
-      },
-      "hi": {
-        "title": "KOSPI के आधे शेयर अब भी युद्ध-पूर्व भाव से नीचे, रिकवरी में अंतर साफ",
-        "excerpt": "Hankyung के अनुसार, KOSPI में सूचीबद्ध आधे शेयर अब तक युद्ध से पहले के मूल्य स्तर पर नहीं लौटे हैं, जिससे सूचकांक की चाल और अलग-अलग शेयरों की रिकवरी में अंतर दिखता है।",
-        "body": "Hankyung ने बताया कि KOSPI में सूचीबद्ध आधे शेयर युद्ध से पहले के भाव को अब तक हासिल नहीं कर पाए हैं। रिपोर्ट के अनुसार, भले ही व्यापक बाजार में कुछ सुधार दिखा हो, सभी शेयरों ने समान गति से वापसी नहीं की। मुख्य आंकड़ा यह है कि KOSPI के लगभग आधे शेयर अब भी युद्ध-पूर्व स्तर से नीचे हैं। इसका मतलब है कि केवल सूचकांक की चाल देखकर अलग-अलग शेयरों की रिकवरी का आकलन करना कठिन है। निवेशकों के लिए प्रमुख सूचकांक और शेयर-दर-शेयर कीमतों के बीच का अंतर देखना जरूरी है। आगे बाजार का मूल्यांकन केवल सूचकांक की रिकवरी पर नहीं, बल्कि उन शेयरों की वापसी पर भी निर्भर कर सकता है जो अभी युद्ध-पूर्व कीमत पर नहीं पहुंचे हैं। स्रोत: hankyung.com"
-      },
-      "id": {
-        "title": "Separuh Saham KOSPI Belum Pulih ke Harga Pra-Perang, Kesenjangan Terlihat",
-        "excerpt": "Menurut Hankyung, separuh saham yang tercatat di KOSPI belum kembali ke level harga sebelum perang, menyoroti perbedaan antara pergerakan indeks dan pemulihan masing-masing saham.",
-        "body": "Hankyung melaporkan bahwa separuh saham yang tercatat di KOSPI belum memulihkan harga sebelum perang. Menurut laporan itu, meskipun pasar secara keseluruhan menunjukkan sebagian pemulihan, tidak semua saham naik kembali dengan kecepatan yang sama. Angka utamanya adalah sekitar separuh saham KOSPI masih berada di bawah level sebelum perang. Ini menunjukkan bahwa pergerakan indeks saja sulit digunakan untuk menilai pemulihan tiap saham. Bagi investor, selisih antara indeks acuan dan harga masing-masing saham tetap perlu diperhatikan. Penilaian pasar ke depan dapat bergantung bukan hanya pada pemulihan indeks, tetapi juga pada apakah saham yang belum kembali ke harga sebelum perang mampu rebound. Sumber: hankyung.com"
-      }
-    }
-  },
-  {
-    "id": "a032fffd8615",
-    "slug": "이참에-좀-쉬었다-갈게요미국이란-긴장-재고조에-코스피-2대-하락-783576",
-    "channelId": "ETF",
-    "category": "etf",
-    "publishedAt": "2026-05-08T11:58:23.585Z",
-    "updatedAt": "2026-05-08T11:58:23.585Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/stock/12040743",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12040743",
-    "titleFingerprint": "d527480f7456311d8779af9a9383a1137bcd9a0e",
-    "dedupKeys": [
-      "a032fffd86150831672ead4ca1277d0c64d29eaa",
-      "d527480f7456311d8779af9a9383a1137bcd9a0e",
-      "e4ad63d3a52761634c4724c3bea78af4b725a7a1"
-    ],
-    "imageUrl": "/images/articles/a032fffd8615.jpg",
-    "i18n": {
-      "ko": {
-        "title": "미국·이란 긴장 재고조에 코스피 2%대 급락 출발, 최근 급등 후 숨 고르기",
-        "excerpt": "8일 오전 코스피가 간밤 미국·이란 긴장 고조 여파로 전일 대비 150.73포인트, 2.01% 하락하며 출발했다. 최근 급등 이후 위험 회피 심리가 부각됐다.",
-        "body": "8일 오전 국내 증시는 간밤 미국과 이란의 긴장이 다시 고조된 영향으로 하락 출발했다. mk.co.kr에 따르면 이날 오전 9시 6분 현재 코스피는 전일 대비 150.73포인트, 2.01% 내린 흐름을 보였다. 최근 급등세를 이어온 코스피가 대외 지정학적 변수에 민감하게 반응하며 투자심리가 위축된 모습이다. 원문은 시장이 ‘이참에 좀 쉬었다 갈게요’라는 분위기 속에서 조정을 받는 상황으로 전했다. 관련 수치로는 장 초반 코스피 낙폭이 2%대를 기록했다는 점이 제시됐다. 단기적으로는 미국·이란 긴장 재고조가 위험자산 선호를 약화시키며 국내 주식시장 변동성을 키운 요인으로 해석된다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "KOSPI Opens Over 2% Lower as U.S.-Iran Tensions Flare Again",
-        "excerpt": "On May 8, the KOSPI opened lower after overnight U.S.-Iran tensions intensified, falling 150.73 points, or 2.01%, from the previous session by 9:06 a.m.",
-        "body": "South Korean stocks opened lower on the morning of May 8 as tensions between the United States and Iran rose again overnight. According to mk.co.kr, the KOSPI was down 150.73 points, or 2.01%, from the previous session as of 9:06 a.m. The index, which had recently advanced sharply, appeared sensitive to external geopolitical risks as investor sentiment weakened. The original report described the market as entering a pause after its recent rally. The key figure cited was the KOSPI’s early-session decline of more than 2%. In the near term, the renewed U.S.-Iran tension was presented as a factor weighing on appetite for risk assets and increasing volatility in the domestic stock market. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "米イラン緊張再燃でKOSPIが2％超安で開始、急騰後に一服感",
-        "excerpt": "8日午前、KOSPIは米国とイランの緊張が一晩で高まった影響で、午前9時6分時点に前日比150.73ポイント、2.01％下落して始まった。",
-        "body": "8日午前、韓国株式市場は、米国とイランの緊張が一晩で再び高まったことを受けて下落して始まった。mk.co.krによると、同日午前9時6分現在、KOSPIは前日比150.73ポイント、2.01％下落した流れを示した。最近急騰していたKOSPIは、対外的な地政学リスクに敏感に反応し、投資心理が萎縮した格好だ。原文は、市場が最近の上昇後に「この機会に少し休む」ような雰囲気で調整を受けている状況と伝えた。関連数値として、取引序盤のKOSPIの下げ幅が2％台を記録した点が示された。当面は米イラン緊張の再燃がリスク資産選好を弱め、韓国株式市場の変動性を高める要因として受け止められる。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "美伊紧张再度升温拖累KOSPI开盘跌逾2%，急涨后进入调整",
-        "excerpt": "5月8日上午，受隔夜美国与伊朗紧张局势升温影响，KOSPI在9时6分较前一交易日下跌150.73点，跌幅为2.01%。",
-        "body": "5月8日上午，韩国股市因隔夜美国与伊朗紧张局势再度升温而低开。据mk.co.kr报道，当天上午9时6分，KOSPI较前一交易日下跌150.73点，跌幅为2.01%。近期快速上涨的KOSPI对外部地缘政治变量表现敏感，投资者情绪出现收缩。原文将市场描述为在近期上涨后出现“趁此机会稍作休整”的调整氛围。相关数据方面，报道指出KOSPI在早盘跌幅达到2%以上。短期来看，美伊紧张再度升温被视为削弱风险资产偏好、加大韩国股市波动性的因素。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "El KOSPI abre con caída superior al 2% por nuevas tensiones entre EE. UU. e Irán",
-        "excerpt": "El 8 de mayo por la mañana, el KOSPI abrió a la baja tras el aumento nocturno de las tensiones entre EE. UU. e Irán, con una caída de 150,73 puntos, o 2,01%, a las 9:06.",
-        "body": "La bolsa surcoreana abrió a la baja en la mañana del 8 de mayo después de que las tensiones entre Estados Unidos e Irán volvieran a intensificarse durante la noche. Según mk.co.kr, a las 9:06 el KOSPI caía 150,73 puntos, un 2,01%, frente a la sesión anterior. El índice, que había subido con fuerza recientemente, reaccionó con sensibilidad a un factor geopolítico externo, mientras se debilitaba el ánimo inversor. El texto original describió el movimiento como una pausa del mercado tras el reciente repunte. La cifra clave mencionada fue una pérdida inicial superior al 2% en el KOSPI. A corto plazo, el repunte de la tensión entre EE. UU. e Irán se presenta como un factor que reduce el apetito por activos de riesgo y aumenta la volatilidad del mercado accionario local. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "KOSPI abre em queda de mais de 2% com nova tensão entre EUA e Irã",
-        "excerpt": "Na manhã de 8 de maio, o KOSPI abriu em baixa após a alta nas tensões entre EUA e Irã durante a noite, caindo 150,73 pontos, ou 2,01%, às 9h06.",
-        "body": "O mercado acionário sul-coreano abriu em queda na manhã de 8 de maio, após as tensões entre Estados Unidos e Irã voltarem a se intensificar durante a noite. Segundo o mk.co.kr, às 9h06 o KOSPI recuava 150,73 pontos, ou 2,01%, em relação ao pregão anterior. O índice, que vinha de forte alta recente, reagiu de forma sensível a um fator geopolítico externo, com enfraquecimento do sentimento dos investidores. O texto original descreveu o movimento como uma pausa do mercado após a recente valorização. O principal dado citado foi a queda inicial do KOSPI na faixa de 2%. No curto prazo, a retomada da tensão entre EUA e Irã foi apresentada como fator que reduz o apetite por ativos de risco e amplia a volatilidade da bolsa local. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "KOSPI startet über 2% tiefer, neue Spannungen zwischen USA und Iran belasten",
-        "excerpt": "Am Morgen des 8. Mai eröffnete der KOSPI nach gestiegenen Spannungen zwischen den USA und Iran schwächer und lag um 9:06 Uhr 150,73 Punkte oder 2,01% im Minus.",
-        "body": "Der südkoreanische Aktienmarkt eröffnete am Morgen des 8. Mai schwächer, nachdem die Spannungen zwischen den USA und Iran über Nacht erneut zugenommen hatten. Laut mk.co.kr lag der KOSPI um 9:06 Uhr 150,73 Punkte oder 2,01% unter dem Schlussstand des Vortags. Der Index, der zuletzt deutlich gestiegen war, reagierte empfindlich auf den externen geopolitischen Faktor, während die Anlegerstimmung nachgab. Der Originalbericht beschrieb die Lage als eine Pause des Marktes nach der jüngsten Rally. Als zentrale Kennzahl wurde der frühe Rückgang des KOSPI um mehr als 2% genannt. Kurzfristig gilt die erneute Zuspitzung zwischen den USA und Iran als Faktor, der die Nachfrage nach Risikoanlagen schwächt und die Volatilität am heimischen Aktienmarkt erhöht. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Le KOSPI ouvre en baisse de plus de 2% avec le regain de tension entre États-Unis et Iran",
-        "excerpt": "Le 8 mai au matin, le KOSPI a ouvert en baisse après la montée nocturne des tensions entre les États-Unis et l’Iran, reculant de 150,73 points, soit 2,01%, à 9h06.",
-        "body": "Le marché actions sud-coréen a ouvert en baisse le matin du 8 mai, après une nouvelle montée des tensions entre les États-Unis et l’Iran durant la nuit. Selon mk.co.kr, à 9h06, le KOSPI reculait de 150,73 points, soit 2,01%, par rapport à la séance précédente. L’indice, qui avait récemment fortement progressé, a réagi avec sensibilité à ce facteur géopolitique externe, tandis que le sentiment des investisseurs se dégradait. Le texte original a présenté le mouvement comme une pause du marché après la récente hausse. Le chiffre clé cité est une baisse de plus de 2% du KOSPI en début de séance. À court terme, le regain de tension entre Washington et Téhéran est décrit comme un facteur réduisant l’appétit pour les actifs risqués et renforçant la volatilité du marché local. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "كوسبي يفتتح على هبوط يتجاوز 2% مع تجدد التوتر بين الولايات المتحدة وإيران",
-        "excerpt": "في صباح 8 مايو، افتتح مؤشر كوسبي منخفضا بعد تصاعد التوتر بين الولايات المتحدة وإيران خلال الليل، متراجعا 150.73 نقطة أو 2.01% عند الساعة 9:06.",
-        "body": "افتتحت سوق الأسهم الكورية الجنوبية على انخفاض صباح 8 مايو، بعدما عاد التوتر بين الولايات المتحدة وإيران إلى التصاعد خلال الليل. ووفقا لـ mk.co.kr، كان مؤشر كوسبي عند الساعة 9:06 صباحا منخفضا 150.73 نقطة، أي 2.01%، مقارنة بالجلسة السابقة. المؤشر الذي سجل صعودا حادا في الفترة الأخيرة بدا حساسا للعامل الجيوسياسي الخارجي، مع تراجع معنويات المستثمرين. ووصف التقرير الأصلي حركة السوق بأنها توقف مؤقت بعد الارتفاع الأخير. والرقم الرئيسي الوارد هو أن خسائر كوسبي في بداية الجلسة تجاوزت 2%. وعلى المدى القصير، قدم تجدد التوتر بين الولايات المتحدة وإيران كعامل يضعف الإقبال على الأصول عالية المخاطر ويزيد تقلبات سوق الأسهم المحلية. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "अमेरिका-ईरान तनाव फिर बढ़ने से KOSPI 2% से ज्यादा गिरकर खुला",
-        "excerpt": "8 मई की सुबह, रातभर अमेरिका और ईरान के बीच तनाव बढ़ने के बाद KOSPI 9:06 बजे पिछले सत्र से 150.73 अंक यानी 2.01% नीचे खुला।",
-        "body": "8 मई की सुबह दक्षिण कोरिया का शेयर बाजार गिरावट के साथ खुला, क्योंकि रातभर अमेरिका और ईरान के बीच तनाव फिर बढ़ा। mk.co.kr के अनुसार, सुबह 9:06 बजे KOSPI पिछले सत्र की तुलना में 150.73 अंक, यानी 2.01%, नीचे चल रहा था। हाल में तेज बढ़त दर्ज करने वाला सूचकांक बाहरी भू-राजनीतिक कारक के प्रति संवेदनशील दिखा और निवेशकों की धारणा कमजोर पड़ी। मूल रिपोर्ट ने इस चाल को हालिया तेजी के बाद बाजार के थोड़े विराम के रूप में बताया। प्रमुख आंकड़ा शुरुआती कारोबार में KOSPI की 2% से अधिक गिरावट था। अल्पावधि में अमेरिका-ईरान तनाव का फिर बढ़ना जोखिम वाली संपत्तियों की मांग घटाने और घरेलू शेयर बाजार की अस्थिरता बढ़ाने वाला कारक बताया गया। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "KOSPI Dibuka Turun Lebih dari 2% Saat Ketegangan AS-Iran Kembali Memanas",
-        "excerpt": "Pada pagi 8 Mei, KOSPI dibuka melemah setelah ketegangan AS-Iran meningkat semalam, turun 150,73 poin atau 2,01% dari sesi sebelumnya pada pukul 09.06.",
-        "body": "Pasar saham Korea Selatan dibuka melemah pada pagi 8 Mei setelah ketegangan antara Amerika Serikat dan Iran kembali meningkat semalam. Menurut mk.co.kr, pada pukul 09.06 KOSPI turun 150,73 poin, atau 2,01%, dibandingkan sesi sebelumnya. Indeks yang belakangan naik tajam tampak sensitif terhadap faktor geopolitik eksternal, sementara sentimen investor melemah. Laporan asli menggambarkan kondisi pasar sebagai jeda setelah reli terbaru. Angka utama yang disebutkan adalah penurunan KOSPI lebih dari 2% pada awal perdagangan. Dalam jangka pendek, kembali memanasnya ketegangan AS-Iran disampaikan sebagai faktor yang menekan minat terhadap aset berisiko dan meningkatkan volatilitas pasar saham domestik. Sumber: mk.co.kr"
       }
     }
   }
