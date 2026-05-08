@@ -1,5 +1,230 @@
 [
   {
+    "id": "f5b25d6b4655",
+    "slug": "코인베이스-1분기-어닝쇼크적자-전환에-시간외-주가-4-뚝-445117",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-05-08T05:26:26.057Z",
+    "updatedAt": "2026-05-08T05:26:26.057Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/stock/12040775",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12040775",
+    "titleFingerprint": "4a0b4aa8d2a2904e31080654223050df345f68b9",
+    "dedupKeys": [
+      "f5b25d6b4655bdc577d6e38b260608d7c24d04a2",
+      "4a0b4aa8d2a2904e31080654223050df345f68b9",
+      "aca4abebe47da711e9d9635b214ce17db5856236"
+    ],
+    "imageUrl": "/images/articles/f5b25d6b4655.jpg",
+    "i18n": {
+      "ko": {
+        "title": "코인베이스 1분기 어닝쇼크, 5300억원 순손실에 시간외 주가 4% 하락",
+        "excerpt": "미국 최대 가상자산 거래소 코인베이스가 1분기 5300억원 순손실로 적자 전환하며 거래 매출 급감과 구조조정 여파 속 시간외 주가가 4% 하락했다.",
+        "body": "미국 최대 가상자산 거래소 코인베이스가 1분기 실적에서 약 5300억원의 순손실을 기록하며 적자로 전환했다. 거래 매출이 급감하면서 총 매출은 14억달러에 그쳤고, 실적 발표 뒤 시간외 거래에서 주가는 4% 하락했다. 회사는 전체 인력의 14%를 해고하는 등 구조조정을 단행했다. 다만 USDC 등 스테이블코인 관련 수익은 증가세를 보였다. 가상자산 거래 부진이 핵심 수익원에 부담을 준 가운데, 비용 절감과 스테이블코인 수익 확대가 향후 실적 변수로 거론된다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Coinbase Q1 Earnings Shock: $1.4B Revenue, Net Loss Sends Shares Down 4%",
+        "excerpt": "Coinbase, the largest U.S. crypto exchange, swung to a Q1 net loss of about 530 billion won as trading revenue plunged, sending after-hours shares down 4%.",
+        "body": "Coinbase, the largest cryptocurrency exchange in the United States, reported a net loss of about 530 billion won in the first quarter, shifting into the red. As transaction revenue dropped sharply, total revenue came in at $1.4 billion, and the stock fell 4% in after-hours trading following the earnings release. The company also carried out restructuring, including layoffs equal to 14% of its total workforce. However, revenue from stablecoins such as USDC continued to increase. With weak crypto trading weighing on its core revenue source, cost cuts and stablecoin income are key factors for future results. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "コインベース第1四半期決算ショック、純損失5300億ウォンで時間外4％安",
+        "excerpt": "米最大の暗号資産取引所コインベースは第1四半期に約5300億ウォンの純損失を計上し、取引収入急減で時間外株価が4％下落した。",
+        "body": "米国最大の暗号資産取引所コインベースは、第1四半期決算で約5300億ウォンの純損失を記録し、赤字に転落した。取引収入が急減したことで総収入は14億ドルにとどまり、決算発表後の時間外取引で株価は4％下落した。同社は全従業員の14％を解雇するなど構造調整も実施した。一方、USDCなどステーブルコイン関連収入は増加傾向を示した。暗号資産取引の低迷が中核収益源の負担となるなか、費用削減とステーブルコイン収入の拡大が今後の業績を左右する要因となる。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "Coinbase一季度业绩爆雷，净亏5300亿韩元后盘后股价跌4%",
+        "excerpt": "美国最大加密资产交易所Coinbase一季度转为约5300亿韩元净亏损，交易收入锐减、结构调整推进，盘后股价下跌4%。",
+        "body": "美国最大加密资产交易所Coinbase在一季度业绩中录得约5300亿韩元净亏损，转为亏损。由于交易收入大幅下降，公司总收入为14亿美元，业绩公布后盘后股价下跌4%。该公司还进行了结构调整，包括裁撤相当于全体员工14%的岗位。不过，USDC等稳定币相关收入呈增长趋势。在加密资产交易低迷给核心收入来源带来压力的情况下，削减成本和扩大稳定币收入将成为影响后续业绩的重要变量。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Coinbase sufre un golpe en el 1T: pérdida neta de 530.000 millones de wones y acción cae 4%",
+        "excerpt": "Coinbase, la mayor bolsa cripto de EE. UU., pasó a pérdida neta de unos 530.000 millones de wones en el 1T por la caída de ingresos por transacciones.",
+        "body": "Coinbase, la mayor plataforma de intercambio de criptoactivos de Estados Unidos, registró en el primer trimestre una pérdida neta de unos 530.000 millones de wones y pasó a números rojos. La fuerte caída de los ingresos por transacciones dejó los ingresos totales en 1.400 millones de dólares, y la acción bajó 4% en operaciones posteriores al cierre tras el anuncio. La empresa también ejecutó una reestructuración, con despidos equivalentes al 14% de su plantilla total. En cambio, los ingresos vinculados a stablecoins como USDC aumentaron. La debilidad del comercio cripto presiona su fuente principal de ingresos, mientras los recortes de costos y las stablecoins serán claves. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Coinbase tem choque no 1º tri: prejuízo de 530 bilhões de wones derruba ação 4%",
+        "excerpt": "A Coinbase, maior bolsa de criptoativos dos EUA, registrou prejuízo líquido de cerca de 530 bilhões de wones no 1º trimestre após queda na receita de negociação.",
+        "body": "A Coinbase, maior corretora de criptoativos dos Estados Unidos, registrou no primeiro trimestre um prejuízo líquido de cerca de 530 bilhões de wones e passou para o vermelho. Com a forte queda da receita de transações, a receita total ficou em US$ 1,4 bilhão, e as ações caíram 4% no after-market após a divulgação dos resultados. A empresa também realizou reestruturação, incluindo demissões equivalentes a 14% de toda a força de trabalho. Por outro lado, receitas ligadas a stablecoins como USDC continuaram crescendo. A fraqueza nas negociações de cripto pressiona a principal fonte de receita, enquanto cortes de custos e stablecoins influenciam os próximos resultados. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Coinbase mit Q1-Ergebnisschock: 530 Mrd. Won Nettoverlust, Aktie nachbörslich 4% tiefer",
+        "excerpt": "Coinbase, die größte US-Kryptobörse, rutschte im ersten Quartal wegen stark gesunkener Handelsumsätze in einen Nettoverlust von rund 530 Mrd. Won.",
+        "body": "Coinbase, die größte Handelsplattform für Kryptoanlagen in den USA, hat im ersten Quartal einen Nettoverlust von rund 530 Milliarden Won ausgewiesen und ist damit in die Verlustzone gerutscht. Wegen stark rückläufiger Transaktionserlöse lag der Gesamtumsatz bei 1,4 Milliarden US-Dollar; nach Veröffentlichung der Zahlen fiel die Aktie im nachbörslichen Handel um 4%. Das Unternehmen setzte zudem eine Restrukturierung um, darunter Entlassungen von 14% der gesamten Belegschaft. Einnahmen aus Stablecoins wie USDC legten jedoch zu. Schwacher Kryptohandel belastet die wichtigste Erlösquelle, während Kostensenkungen und Stablecoin-Erträge für die weitere Entwicklung entscheidend bleiben. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Coinbase déçoit au 1er trimestre: perte nette de 530 milliards de wons, action en baisse de 4%",
+        "excerpt": "Coinbase, première plateforme crypto américaine, a basculé dans une perte nette d’environ 530 milliards de wons au 1er trimestre après la chute des revenus de transaction.",
+        "body": "Coinbase, la plus grande plateforme d’échange de cryptoactifs aux États-Unis, a enregistré au premier trimestre une perte nette d’environ 530 milliards de wons et est passée dans le rouge. La forte baisse des revenus de transaction a limité le chiffre d’affaires total à 1,4 milliard de dollars, tandis que l’action a reculé de 4% dans les échanges après clôture après la publication des résultats. L’entreprise a aussi mené une restructuration, avec des suppressions de postes représentant 14% de ses effectifs. En revanche, les revenus liés aux stablecoins comme l’USDC ont progressé. La faiblesse du trading crypto pèse sur le cœur des revenus, tandis que les réductions de coûts et les stablecoins restent des variables clés. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "كوينبbase تصدم في الربع الأول: خسارة صافية 530 مليار وون والسهم يهبط 4% بعد الإغلاق",
+        "excerpt": "سجلت كوينبbase، أكبر منصة تداول أصول مشفرة في الولايات المتحدة، خسارة صافية تقارب 530 مليار وون في الربع الأول مع تراجع إيرادات التداول.",
+        "body": "سجلت كوينبbase، أكبر منصة لتداول الأصول المشفرة في الولايات المتحدة، خسارة صافية بنحو 530 مليار وون في نتائج الربع الأول، لتتحول إلى الخسارة. ومع الانخفاض الحاد في إيرادات التداول، بلغ إجمالي الإيرادات 1.4 مليار دولار، وهبط السهم 4% في تعاملات ما بعد الإغلاق عقب إعلان النتائج. كما نفذت الشركة إعادة هيكلة شملت تسريح 14% من إجمالي العاملين. في المقابل، واصلت إيرادات العملات المستقرة مثل USDC الارتفاع. ويضغط ضعف تداول الأصول المشفرة على مصدر الدخل الأساسي، بينما تبقى خفض التكاليف وزيادة إيرادات العملات المستقرة عوامل مؤثرة في النتائج المقبلة. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "Coinbase को पहली तिमाही में झटका: 530 अरब वॉन शुद्ध घाटा, आफ्टर-आवर्स में शेयर 4% गिरा",
+        "excerpt": "अमेरिका के सबसे बड़े क्रिप्टो एक्सचेंज Coinbase ने पहली तिमाही में करीब 530 अरब वॉन का शुद्ध घाटा दर्ज किया, क्योंकि ट्रेडिंग राजस्व तेजी से घटा।",
+        "body": "अमेरिका के सबसे बड़े क्रिप्टो एसेट एक्सचेंज Coinbase ने पहली तिमाही में करीब 530 अरब वॉन का शुद्ध घाटा दर्ज किया और घाटे में चला गया। ट्रेडिंग राजस्व में तेज गिरावट के कारण कुल राजस्व 1.4 अरब डॉलर रहा, और नतीजों की घोषणा के बाद आफ्टर-आवर्स ट्रेडिंग में शेयर 4% गिरा। कंपनी ने पुनर्गठन भी किया, जिसमें कुल कर्मचारियों के 14% की छंटनी शामिल थी। हालांकि, USDC जैसी स्टेबलकॉइन से जुड़ी आय बढ़ती रही। क्रिप्टो ट्रेडिंग की कमजोरी मुख्य आय स्रोत पर दबाव डाल रही है, जबकि लागत कटौती और स्टेबलकॉइन आय आगे के नतीजों के प्रमुख कारक रहेंगे। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Coinbase Terpukul di Kuartal I: Rugi Bersih 530 Miliar Won, Saham After-Hours Turun 4%",
+        "excerpt": "Coinbase, bursa aset kripto terbesar di AS, mencatat rugi bersih sekitar 530 miliar won pada kuartal I setelah pendapatan transaksi merosot tajam.",
+        "body": "Coinbase, bursa aset kripto terbesar di Amerika Serikat, mencatat rugi bersih sekitar 530 miliar won pada kinerja kuartal pertama dan berbalik merugi. Karena pendapatan transaksi turun tajam, total pendapatan hanya mencapai US$1,4 miliar, sementara sahamnya turun 4% dalam perdagangan after-hours setelah laporan dirilis. Perusahaan juga melakukan restrukturisasi, termasuk pemutusan hubungan kerja terhadap 14% dari total karyawan. Namun, pendapatan dari stablecoin seperti USDC menunjukkan tren kenaikan. Lemahnya perdagangan aset kripto menekan sumber pendapatan utama, sementara efisiensi biaya dan pendapatan stablecoin menjadi faktor penting bagi kinerja berikutnya. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "f2b36f3235df",
+    "slug": "mk-골든크로스-돌파종목-젠큐릭스229000-jtc950170-766493",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-05-08T05:25:26.255Z",
+    "updatedAt": "2026-05-08T05:25:26.255Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/stock/12040788",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12040788",
+    "titleFingerprint": "b4471d2fc7ceab554bd048e31afa4511a70a209e",
+    "dedupKeys": [
+      "f2b36f3235df47814d93c6c8986bd8f708000c77",
+      "b4471d2fc7ceab554bd048e31afa4511a70a209e",
+      "717d9b78ec4c2fce1451c8a82562659a0dda930d"
+    ],
+    "imageUrl": "/images/articles/f2b36f3235df.jpg",
+    "i18n": {
+      "ko": {
+        "title": "젠큐릭스·JTC 골든크로스 포착, MK시그널이 짚은 오늘의 핫 이슈 종목",
+        "excerpt": "MK시그널은 오늘 국내 핫 이슈 종목 분석에서 골든크로스 돌파 종목으로 젠큐릭스(229000)와 JTC(950170)를 제시했다.",
+        "body": "MK시그널은 오늘 국내 증시에서 주목할 핫 이슈 골든크로스 종목으로 젠큐릭스(229000)와 JTC(950170)를 분석했다. AI 기자 ‘MK시그널’은 국내 핫 이슈 종목을 중심으로 시장 관심이 모이는 종목을 소개하는 형식으로 해당 내용을 전했다. 원문은 두 종목을 ‘골든크로스 돌파종목’으로 묶어 제시했으며, 젠큐릭스와 JTC의 종목명 및 종목코드를 함께 명시했다. 이번 분석은 투자자들이 당일 시장에서 기술적 신호가 언급된 종목을 확인하는 데 참고할 수 있는 정보다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "GenCurix and JTC Golden Cross Picks Highlighted by MK Signal Today",
+        "excerpt": "MK Signal today identified GenCurix (229000) and JTC (950170) as domestic hot-issue stocks that broke through a golden cross.",
+        "body": "MK Signal today analyzed GenCurix (229000) and JTC (950170) as hot-issue golden cross stocks in the domestic market. The AI reporter “MK Signal” presented the items as part of its coverage of Korean stocks drawing market attention. The original article grouped the two names under “golden cross breakout stocks” and listed both the company names and ticker codes. The update may help investors check which stocks were mentioned for a technical signal in the day’s market. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "ジェンキュリックスとJTC、MKシグナルが本日のゴールデンクロス銘柄に提示",
+        "excerpt": "MKシグナルは本日、国内注目銘柄分析でゴールデンクロス突破銘柄としてジェンキュリックス(229000)とJTC(950170)を挙げた。",
+        "body": "MKシグナルは本日、国内株式市場で注目されるゴールデンクロス銘柄として、ジェンキュリックス(229000)とJTC(950170)を分析した。AI記者「MKシグナル」は、韓国のホットイシュー銘柄を中心に市場の関心が集まる銘柄を紹介する形式で内容を伝えた。原文では2銘柄を「ゴールデンクロス突破銘柄」としてまとめ、銘柄名とコードを併記している。今回の分析は、投資家が当日の市場で技術的シグナルが言及された銘柄を確認する参考情報となる。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "GenCurix与JTC出现金叉信号，MK Signal点名今日热门个股",
+        "excerpt": "MK Signal今日在韩国热门个股分析中，将GenCurix(229000)和JTC(950170)列为突破金叉的关注标的。",
+        "body": "MK Signal今日分析了韩国股市中值得关注的金叉热门个股，分别为GenCurix(229000)和JTC(950170)。AI记者“MK Signal”以介绍韩国市场热点个股的形式，传达了相关内容。原文将这两只股票归为“金叉突破个股”，并同时列出公司名称和股票代码。此次分析可供投资者在当天市场中确认哪些个股被提及出现技术信号时参考。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "GenCurix y JTC, acciones con cruce dorado destacadas hoy por MK Signal",
+        "excerpt": "MK Signal identificó hoy a GenCurix (229000) y JTC (950170) como valores surcoreanos de interés que superaron un cruce dorado.",
+        "body": "MK Signal analizó hoy a GenCurix (229000) y JTC (950170) como acciones nacionales de interés con señal de cruce dorado. El reportero de IA “MK Signal” presentó la información dentro de su cobertura de valores surcoreanos que atraen atención del mercado. El texto original agrupó ambos nombres como “acciones que rompen el cruce dorado” e indicó tanto los nombres como los códigos bursátiles. El análisis sirve como referencia para que los inversores identifiquen qué valores fueron mencionados por una señal técnica en la sesión. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "GenCurix e JTC são destaques de golden cross apontados hoje pelo MK Signal",
+        "excerpt": "O MK Signal indicou hoje GenCurix (229000) e JTC (950170) como ações sul-coreanas em foco que romperam um sinal de golden cross.",
+        "body": "O MK Signal analisou hoje GenCurix (229000) e JTC (950170) como ações domésticas em destaque com sinal de golden cross. O repórter de IA “MK Signal” apresentou o conteúdo em seu formato de acompanhamento de papéis sul-coreanos que concentram atenção do mercado. O texto original reuniu os dois nomes como “ações que romperam o golden cross” e informou os nomes das empresas junto com seus códigos. A análise pode servir de referência para investidores verificarem quais papéis foram citados por um sinal técnico no mercado do dia. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "GenCurix und JTC: MK Signal nennt heute Aktien mit Golden-Cross-Ausbruch",
+        "excerpt": "MK Signal hat heute GenCurix (229000) und JTC (950170) als südkoreanische Hot-Issue-Aktien mit Golden-Cross-Ausbruch vorgestellt.",
+        "body": "MK Signal analysierte heute GenCurix (229000) und JTC (950170) als beachtete Golden-Cross-Aktien am heimischen Markt. Der KI-Reporter „MK Signal“ veröffentlichte die Einschätzung im Rahmen seiner Berichterstattung über südkoreanische Aktien, die Marktinteresse auf sich ziehen. Der Originaltext fasste beide Titel als „Golden-Cross-Ausbruchswerte“ zusammen und nannte sowohl die Unternehmensnamen als auch die Aktiencodes. Die Analyse kann Anlegern als Hinweis dienen, welche Werte am Handelstag mit einem technischen Signal erwähnt wurden. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "GenCurix et JTC signalés en golden cross aujourd’hui par MK Signal",
+        "excerpt": "MK Signal a présenté aujourd’hui GenCurix (229000) et JTC (950170) comme deux valeurs sud-coréennes suivies pour un franchissement de golden cross.",
+        "body": "MK Signal a analysé aujourd’hui GenCurix (229000) et JTC (950170) comme des valeurs nationales à surveiller pour un signal de golden cross. Le reporter IA « MK Signal » a diffusé cette information dans son format consacré aux actions sud-coréennes attirant l’attention du marché. L’article original regroupe les deux titres sous l’expression « valeurs ayant franchi un golden cross » et mentionne leurs noms ainsi que leurs codes boursiers. Cette analyse peut aider les investisseurs à repérer les valeurs citées pour un signal technique durant la séance. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "GenCurix وJTC ضمن أسهم التقاطع الذهبي التي أبرزها MK Signal اليوم",
+        "excerpt": "أشار MK Signal اليوم إلى GenCurix (229000) وJTC (950170) كأسهم كورية محلية ساخنة حققت إشارة التقاطع الذهبي.",
+        "body": "حلل MK Signal اليوم سهمي GenCurix (229000) وJTC (950170) باعتبارهما من الأسهم المحلية المثيرة للاهتمام مع إشارة التقاطع الذهبي. وقد عرض مراسل الذكاء الاصطناعي “MK Signal” هذه المعلومات ضمن تغطيته للأسهم الكورية التي تجذب اهتمام السوق. وضم النص الأصلي السهمين تحت وصف “أسهم اخترقت التقاطع الذهبي”، مع ذكر اسمي الشركتين ورمزيهما. ويمكن أن تساعد هذه المعلومة المستثمرين على معرفة الأسهم التي ورد ذكرها بسبب إشارة فنية في تداولات اليوم. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "GenCurix और JTC पर गोल्डन क्रॉस संकेत, MK Signal ने आज किया उल्लेख",
+        "excerpt": "MK Signal ने आज घरेलू कोरियाई बाजार के चर्चित गोल्डन क्रॉस शेयरों में GenCurix (229000) और JTC (950170) को शामिल किया।",
+        "body": "MK Signal ने आज घरेलू शेयर बाजार में ध्यान खींचने वाले गोल्डन क्रॉस शेयरों के रूप में GenCurix (229000) और JTC (950170) का विश्लेषण किया। AI रिपोर्टर “MK Signal” ने यह जानकारी कोरियाई बाजार के चर्चित शेयरों को प्रस्तुत करने वाले अपने प्रारूप में दी। मूल लेख में दोनों कंपनियों को “गोल्डन क्रॉस ब्रेकआउट शेयर” के रूप में रखा गया और उनके नामों के साथ स्टॉक कोड भी दिए गए। यह विश्लेषण निवेशकों को यह देखने में मदद कर सकता है कि आज के बाजार में किन शेयरों का तकनीकी संकेत के संदर्भ में उल्लेख हुआ। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "GenCurix dan JTC Masuk Sinyal Golden Cross Pilihan MK Signal Hari Ini",
+        "excerpt": "MK Signal hari ini menyoroti GenCurix (229000) dan JTC (950170) sebagai saham Korea berisu panas yang menembus sinyal golden cross.",
+        "body": "MK Signal hari ini menganalisis GenCurix (229000) dan JTC (950170) sebagai saham domestik yang menjadi perhatian dengan sinyal golden cross. Reporter AI “MK Signal” menyampaikan informasi ini dalam format liputan saham Korea yang sedang menarik minat pasar. Artikel asli mengelompokkan kedua saham tersebut sebagai “saham breakout golden cross” dan mencantumkan nama perusahaan beserta kode sahamnya. Analisis ini dapat menjadi referensi bagi investor untuk melihat saham mana yang disebut terkait sinyal teknikal pada perdagangan hari ini. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "85444b45ac01",
+    "slug": "목돈-가진-사람은-수익률에-투자하고-연금-가진-사람은-수명에-투자한다-549020",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-05-08T05:24:40.401Z",
+    "updatedAt": "2026-05-08T05:24:40.401Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/economy/12037430",
+    "canonicalUrl": "https://www.mk.co.kr/news/economy/12037430",
+    "titleFingerprint": "e331ef44928d00831ff474890a573d9447736d66",
+    "dedupKeys": [
+      "85444b45ac016d7a4dcc0d93c338889d371c1526",
+      "e331ef44928d00831ff474890a573d9447736d66",
+      "6a289549131f3c1ad60299370ccf9109eef2716e"
+    ],
+    "imageUrl": "/images/articles/85444b45ac01.jpg",
+    "i18n": {
+      "ko": {
+        "title": "연금 500만원 시대, 목돈은 수익률·연금은 수명에 투자한다",
+        "excerpt": "매일경제는 평균수명이 한 세대 만에 20년 가까이 길어진 100세 시대를 배경으로, 매달 연금 500만원을 받는 노후 설계의 관점을 제시했다.",
+        "body": "매일경제는 ‘매달 연금 500만원 받는 법’ 기획의 첫 편에서 100세 시대를 앞둔 노후 자산관리의 핵심을 짚었다. 불과 한 세대 만에 평균수명이 20년 가까이 늘어나면서 은퇴 이후 생활비와 장수 리스크가 더 중요한 변수로 떠올랐다는 설명이다. 기사 제목은 목돈을 가진 사람은 수익률에 투자하고, 연금을 가진 사람은 수명에 투자한다고 정리했다. 장수를 원했던 진시황이 49세에 세상을 떠났다는 역사적 사례도 언급됐다. 수명이 길어진 만큼 노후 현금흐름을 안정적으로 만드는 전략이 필요하다는 메시지다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Monthly Pension of 5 Million Won: Cash Targets Returns, Pensions Target Longevity",
+        "excerpt": "Maeil Business Newspaper outlined retirement planning for the 100-year-life era, noting that life expectancy has risen by nearly 20 years in just one generation.",
+        "body": "Maeil Business Newspaper opened its series on how to receive 5 million won a month in pension income by focusing on retirement asset management in the 100-year-life era. The article said average life expectancy has increased by nearly 20 years in only one generation, making post-retirement living costs and longevity risk more important issues. Its main framing was that people with lump-sum capital invest in returns, while people with pensions invest in lifespan. The article also cited the historical example of Qin Shi Huang, who longed for longevity but died at 49. The message is that longer lives require more stable retirement cash flow. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "月500万ウォン年金時代、まとまった資金は利回り・年金は寿命に投資",
+        "excerpt": "毎日経済は、平均寿命が一世代で約20年延びた100歳時代を背景に、月500万ウォンの年金を受け取る老後設計の視点を示した。",
+        "body": "毎日経済は「毎月年金500万ウォンを受け取る方法」企画の第1回で、100歳時代を目前にした老後の資産管理を取り上げた。記事は、わずか一世代で平均寿命が約20年延び、退職後の生活費と長寿リスクがより重要な課題になったと説明した。見出しでは、まとまった資金を持つ人は利回りに投資し、年金を持つ人は寿命に投資すると整理している。長寿を望んだ秦の始皇帝が49歳で亡くなった歴史的事例にも触れた。寿命が延びた分、安定した老後の現金収入を作る戦略が必要だという内容だ。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "每月500万韩元养老金时代：有本金投收益，有养老金投寿命",
+        "excerpt": "《每日经济》以一代人内平均寿命延长近20年、百岁时代临近为背景，提出每月领取500万韩元养老金的养老规划视角。",
+        "body": "《每日经济》在“每月领取500万韩元养老金的方法”系列第一篇中，聚焦百岁时代临近下的养老资产管理。文章称，短短一代人时间里，平均寿命延长了近20年，退休后的生活费用和长寿风险因此成为更重要的变量。报道将核心观点概括为：拥有大笔资金的人投资收益率，拥有养老金的人投资寿命。文章还提到，渴望长寿的秦始皇最终在49岁去世这一历史例子。随着寿命延长，建立稳定的退休现金流变得更加必要。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Pensión mensual de 5 millones de wones: el capital busca rentabilidad, la pensión longevidad",
+        "excerpt": "Maeil Business Newspaper abordó la planificación para la era de los 100 años, tras un aumento de casi 20 años en la esperanza de vida en una sola generación.",
+        "body": "Maeil Business Newspaper inició su serie sobre cómo recibir 5 millones de wones al mes en pensión con un enfoque en la gestión patrimonial para la jubilación en la era de los 100 años. El artículo señaló que la esperanza media de vida ha aumentado casi 20 años en apenas una generación, lo que vuelve más relevantes los gastos posteriores al retiro y el riesgo de longevidad. Su idea central fue que quien tiene una suma grande invierte en rentabilidad, mientras quien tiene pensión invierte en vida. También mencionó el caso histórico de Qin Shi Huang, que deseó la longevidad pero murió a los 49 años. El mensaje es que vidas más largas requieren flujos de efectivo jubilatorios más estables. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Pensão mensal de 5 milhões de won: capital mira retorno, pensão mira longevidade",
+        "excerpt": "O Maeil Business Newspaper tratou do planejamento para a era dos 100 anos, após a expectativa de vida subir quase 20 anos em apenas uma geração.",
+        "body": "O Maeil Business Newspaper abriu sua série sobre como receber 5 milhões de won por mês em pensão com foco na gestão de ativos para a aposentadoria na era dos 100 anos. A reportagem afirmou que a expectativa média de vida aumentou quase 20 anos em apenas uma geração, tornando os custos após a aposentadoria e o risco de longevidade variáveis mais importantes. A ideia central foi que quem tem uma grande soma investe em rentabilidade, enquanto quem tem pensão investe em tempo de vida. O texto também citou o exemplo histórico de Qin Shi Huang, que desejava longevidade, mas morreu aos 49 anos. A mensagem é que vidas mais longas exigem fluxo de caixa previdenciário mais estável. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "5 Millionen Won Monatsrente: Kapital setzt auf Rendite, Renten setzen auf Lebensdauer",
+        "excerpt": "Maeil Business Newspaper ordnete die Altersplanung für das 100-Jahre-Zeitalter ein, nachdem die Lebenserwartung binnen einer Generation fast 20 Jahre gestiegen ist.",
+        "body": "Maeil Business Newspaper eröffnete seine Serie darüber, wie man monatlich 5 Millionen Won Rente erhält, mit dem Thema Vermögensplanung im Ruhestand für das nahende 100-Jahre-Zeitalter. Der Artikel erklärte, dass die durchschnittliche Lebenserwartung in nur einer Generation um fast 20 Jahre gestiegen ist. Dadurch werden Lebenshaltungskosten nach dem Ruhestand und Langlebigkeitsrisiken zu wichtigeren Faktoren. Die Kernaussage lautete: Wer über einen Kapitalbetrag verfügt, investiert in Rendite, wer eine Rente hat, investiert in Lebensdauer. Erwähnt wurde auch Qin Shi Huang, der sich ein langes Leben wünschte, aber mit 49 Jahren starb. Längere Leben verlangen demnach stabilere Cashflows im Alter. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Pension mensuelle de 5 millions de wons : le capital vise le rendement, la rente la longévité",
+        "excerpt": "Maeil Business Newspaper a présenté la planification retraite à l’ère des 100 ans, alors que l’espérance de vie a gagné près de 20 ans en une génération.",
+        "body": "Maeil Business Newspaper a ouvert sa série sur la manière de recevoir 5 millions de wons par mois en pension par un sujet consacré à la gestion du patrimoine à la retraite dans l’ère des 100 ans. L’article indique que l’espérance de vie moyenne a augmenté de près de 20 ans en une seule génération, rendant les dépenses après la retraite et le risque de longévité plus importants. Son idée centrale est que les détenteurs d’un capital investissent dans le rendement, tandis que les détenteurs d’une pension investissent dans la durée de vie. Le texte cite aussi l’exemple historique de Qin Shi Huang, qui souhaitait la longévité mais mourut à 49 ans. Le message est qu’une vie plus longue exige des flux de trésorerie de retraite plus stables. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "معاش شهري 5 ملايين وون: أصحاب المبالغ يستثمرون في العائد وأصحاب المعاش في العمر",
+        "excerpt": "عرضت صحيفة ماييل الاقتصادية منظور التخطيط للتقاعد في عصر المئة عام، بعدما زاد متوسط العمر المتوقع بنحو 20 عاما خلال جيل واحد فقط.",
+        "body": "افتتحت صحيفة ماييل الاقتصادية سلسلة «طريقة الحصول على معاش شهري قدره 5 ملايين وون» بالتركيز على إدارة أصول التقاعد مع اقتراب عصر المئة عام. وقال المقال إن متوسط العمر المتوقع ارتفع بنحو 20 عاما خلال جيل واحد فقط، ما جعل تكاليف المعيشة بعد التقاعد ومخاطر طول العمر عوامل أكثر أهمية. ولخصت الفكرة بأن من يملك مبلغا كبيرا يستثمر في معدل العائد، أما من يملك معاشا فيستثمر في العمر. كما أشار المقال إلى المثال التاريخي للإمبراطور تشين شي هوانغ، الذي سعى إلى طول العمر لكنه توفي في سن 49 عاما. والرسالة أن العمر الأطول يتطلب تدفقات نقدية تقاعدية أكثر استقرارا. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "हर महीने 50 लाख वॉन पेंशन: पूंजी रिटर्न में, पेंशन लंबी उम्र में निवेश",
+        "excerpt": "माएइल बिजनेस न्यूजपेपर ने 100 वर्ष जीवनकाल के दौर में रिटायरमेंट योजना पर लिखा, क्योंकि एक पीढ़ी में औसत आयु करीब 20 वर्ष बढ़ी है।",
+        "body": "माएइल बिजनेस न्यूजपेपर ने ‘हर महीने 50 लाख वॉन पेंशन पाने का तरीका’ श्रृंखला की पहली कड़ी में 100 वर्ष जीवनकाल के दौर की सेवानिवृत्ति संपत्ति प्रबंधन पर ध्यान दिया। लेख में कहा गया कि केवल एक पीढ़ी में औसत जीवन प्रत्याशा करीब 20 वर्ष बढ़ गई है, जिससे रिटायरमेंट के बाद जीवन खर्च और लंबी उम्र का जोखिम अधिक महत्वपूर्ण हो गया है। इसका मुख्य निष्कर्ष था कि जिनके पास एकमुश्त धन है वे रिटर्न में निवेश करते हैं, जबकि जिनके पास पेंशन है वे जीवनकाल में निवेश करते हैं। लेख ने चिन शी हुआंग का उदाहरण भी दिया, जो लंबी उम्र चाहते थे लेकिन 49 वर्ष में मृत्यु हुई। संदेश है कि लंबी उम्र के लिए स्थिर रिटायरमेंट नकदी प्रवाह जरूरी है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Pensiun 5 Juta Won per Bulan: Dana Besar Mengejar Imbal Hasil, Pensiun Mengejar Umur",
+        "excerpt": "Maeil Business Newspaper membahas perencanaan pensiun era usia 100 tahun, setelah harapan hidup rata-rata naik hampir 20 tahun hanya dalam satu generasi.",
+        "body": "Maeil Business Newspaper membuka seri tentang cara menerima pensiun 5 juta won per bulan dengan menyoroti pengelolaan aset pensiun menjelang era usia 100 tahun. Artikel itu menyebut harapan hidup rata-rata meningkat hampir 20 tahun hanya dalam satu generasi, sehingga biaya hidup setelah pensiun dan risiko umur panjang menjadi faktor yang lebih penting. Inti pesannya adalah orang yang memiliki dana besar berinvestasi pada imbal hasil, sedangkan orang yang memiliki pensiun berinvestasi pada umur. Artikel juga menyinggung contoh sejarah Qin Shi Huang, yang menginginkan umur panjang tetapi wafat pada usia 49 tahun. Semakin panjang usia, semakin dibutuhkan arus kas pensiun yang stabil. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
     "id": "91d95c0a465f",
     "slug": "에이프로젠-ema에-이어-fda도-임상-3상-생략-확인-글로벌-품목허가-전략-본격화-451918",
     "channelId": "ETF",
@@ -4271,231 +4496,6 @@
         "title": "Bithumb Teken MOU dengan SSID, Anak SSI Securities, untuk Bursa Aset Virtual Vietnam",
         "excerpt": "Bithumb mengatakan pada 7 Mei bahwa pihaknya menandatangani MOU komprehensif dengan SSID, anak SSI Securities, perusahaan sekuritas terbesar Vietnam, untuk bisnis bursa aset virtual lokal.",
         "body": "Bithumb mengatakan pada 7 Mei bahwa pihaknya menandatangani nota kesepahaman komprehensif dengan SSID, anak perusahaan SSI Securities yang disebut sebagai perusahaan sekuritas terbesar di Vietnam, untuk bisnis bursa aset virtual lokal. Kesepakatan ini ditujukan untuk kerja sama luas terkait bursa aset virtual di Vietnam. Foto yang dirilis menunjukkan CEO Bithumb Lee Jae-won dan CEO SSID Nguyen Khac Hai berjabat tangan setelah MOU. Laporan tidak memuat nilai kesepakatan atau jadwal bisnis yang terperinci. Sumber: hankyung.com"
-      }
-    }
-  },
-  {
-    "id": "7e911436b437",
-    "slug": "로봇이-스스로-배우고-알아서-협업까지-989201",
-    "channelId": "ETF",
-    "category": "etf",
-    "publishedAt": "2026-05-07T15:42:46.243Z",
-    "updatedAt": "2026-05-07T15:42:46.243Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/stock/12039367",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12039367",
-    "titleFingerprint": "55681693240896698cfae02c8f4ec16314bfdb89",
-    "dedupKeys": [
-      "7e911436b43761674abd09042a836baa1da6b435",
-      "55681693240896698cfae02c8f4ec16314bfdb89",
-      "4aa53f4d8fccb549b10eb8dcfbc4209b7228a1b1"
-    ],
-    "imageUrl": "/images/articles/7e911436b437.jpg",
-    "i18n": {
-      "ko": {
-        "title": "LG CNS 로봇 전환 플랫폼 ‘피지컬웍스’ 공개, 학습부터 관제까지 통합 지원",
-        "excerpt": "LG CNS가 로봇 전환(RX) 플랫폼 브랜드 ‘피지컬웍스’를 공개했다. 로봇 구매와 현장 배치를 넘어 학습·검증·운영·관제를 한 번에 지원한다.",
-        "body": "LG CNS가 로봇 전환(RX) 플랫폼 브랜드 ‘피지컬웍스’를 공개했다. 피지컬웍스는 기업이 로봇을 구매해 현장에 배치하는 단계에 머무르지 않고, 로봇의 학습과 검증부터 운영과 관제까지 한 번에 지원하는 플랫폼이다. 이번 공개는 로봇 활용이 단순 자동화 장비 도입을 넘어 현장 운영 전반을 관리하는 방향으로 확장되고 있음을 보여준다. LG CNS는 피지컬웍스를 통해 로봇 전환 과정에서 필요한 여러 단계를 통합 지원하는 데 초점을 맞췄다. 출처는 mk.co.kr이다."
-      },
-      "en": {
-        "title": "LG CNS Unveils Physical Works Robot Transformation Platform for Learning and Control",
-        "excerpt": "LG CNS has introduced Physical Works, a robot transformation platform brand that supports robot learning, validation, operation and monitoring beyond simple purchase and deployment.",
-        "body": "LG CNS has unveiled ‘Physical Works,’ a robot transformation (RX) platform brand. The platform is designed to support more than the purchase and placement of robots at work sites. It brings together robot learning and validation as well as operation and monitoring in one platform. The launch shows how robot adoption is expanding from simply introducing automation equipment to managing broader field operations. LG CNS is focusing Physical Works on integrated support for the multiple stages required in robot transformation. Source: mk.co.kr."
-      },
-      "ja": {
-        "title": "LG CNS、ロボット転換プラットフォーム『Physical Works』公開、学習から管制まで支援",
-        "excerpt": "LG CNSがロボット転換（RX）プラットフォームブランド『Physical Works』を公開。購入・配置にとどまらず、学習、検証、運用、管制まで一括支援する。",
-        "body": "LG CNSはロボット転換（RX）プラットフォームブランド『Physical Works』を公開した。Physical Worksは、企業がロボットを購入して現場に配置する段階にとどまらず、ロボットの学習と検証から運用、管制までを一つの流れで支援するプラットフォームだ。今回の公開は、ロボット活用が単なる自動化機器の導入を超え、現場運営全体を管理する方向へ広がっていることを示す。LG CNSは、ロボット転換に必要な複数の段階を統合的に支援する点に重点を置いた。出典はmk.co.kr。"
-      },
-      "zh": {
-        "title": "LG CNS发布机器人转型平台Physical Works，覆盖学习验证到运营监控",
-        "excerpt": "LG CNS发布机器人转型（RX）平台品牌Physical Works，不只支持购买和现场部署，还将学习、验证、运营和监控整合在同一平台。",
-        "body": "LG CNS发布了机器人转型（RX）平台品牌“Physical Works”。该平台并不止于企业购买机器人并将其部署到现场，而是把机器人的学习、验证、运营和监控一次性纳入支持范围。此次发布显示，机器人应用正在从单纯引入自动化设备，扩展到对现场运营整体进行管理。LG CNS将Physical Works的重点放在整合支持机器人转型过程中所需的多个阶段。来源：mk.co.kr。"
-      },
-      "es": {
-        "title": "LG CNS presenta Physical Works, plataforma RX para aprendizaje, operación y control robótico",
-        "excerpt": "LG CNS presentó Physical Works, una marca de plataforma de transformación robótica que integra aprendizaje, validación, operación y monitoreo más allá de comprar e instalar robots.",
-        "body": "LG CNS presentó ‘Physical Works’, una marca de plataforma de transformación robótica (RX). La plataforma va más allá de comprar robots y colocarlos en un sitio de trabajo: integra el aprendizaje y la validación de los robots con su operación y monitoreo. El anuncio muestra que el uso de robots se está ampliando desde la simple adopción de equipos de automatización hacia la gestión de operaciones en campo. LG CNS centra Physical Works en apoyar de forma integrada las distintas etapas necesarias para la transformación robótica. Fuente: mk.co.kr."
-      },
-      "pt": {
-        "title": "LG CNS lança Physical Works, plataforma RX para aprendizado, operação e monitoramento",
-        "excerpt": "A LG CNS apresentou a Physical Works, marca de plataforma de transformação robótica que apoia aprendizado, validação, operação e monitoramento além da compra e instalação de robôs.",
-        "body": "A LG CNS apresentou a ‘Physical Works’, marca de plataforma de transformação robótica (RX). A plataforma vai além da compra de robôs e de sua colocação em campo, reunindo suporte ao aprendizado e à validação dos robôs, bem como à operação e ao monitoramento. O anúncio mostra que o uso de robôs está se expandindo da simples introdução de equipamentos de automação para a gestão mais ampla das operações em campo. A LG CNS concentra a Physical Works no apoio integrado às várias etapas necessárias à transformação robótica. Fonte: mk.co.kr."
-      },
-      "de": {
-        "title": "LG CNS stellt Physical Works vor: RX-Plattform für Lernen, Betrieb und Überwachung",
-        "excerpt": "LG CNS hat Physical Works vorgestellt, eine Plattformmarke für Robot Transformation, die Lernen, Validierung, Betrieb und Überwachung über Kauf und Einsatz hinaus bündelt.",
-        "body": "LG CNS hat ‘Physical Works’ vorgestellt, eine Plattformmarke für Robot Transformation (RX). Die Plattform beschränkt sich nicht darauf, Roboter zu kaufen und am Einsatzort zu platzieren. Sie unterstützt das Lernen und die Validierung der Roboter ebenso wie Betrieb und Überwachung in einer integrierten Umgebung. Die Vorstellung zeigt, dass der Robotereinsatz über die einfache Einführung von Automatisierungstechnik hinausgeht und sich zur Steuerung breiterer Vor-Ort-Abläufe entwickelt. LG CNS richtet Physical Works darauf aus, mehrere für die Robot Transformation erforderliche Schritte gebündelt zu unterstützen. Quelle: mk.co.kr."
-      },
-      "fr": {
-        "title": "LG CNS dévoile Physical Works, plateforme RX du robot apprenant au pilotage intégré",
-        "excerpt": "LG CNS a présenté Physical Works, une plateforme de transformation robotique qui va au-delà de l’achat et du déploiement en intégrant apprentissage, validation, exploitation et supervision.",
-        "body": "LG CNS a dévoilé ‘Physical Works’, une marque de plateforme de transformation robotique (RX). La plateforme ne se limite pas à l’achat de robots et à leur installation sur site. Elle prend en charge l’apprentissage et la validation des robots, ainsi que leur exploitation et leur supervision, dans un même ensemble. Cette annonce montre que l’usage des robots s’étend de la simple introduction d’équipements d’automatisation vers la gestion globale des opérations sur le terrain. LG CNS met l’accent sur le soutien intégré aux différentes étapes nécessaires à la transformation robotique. Source : mk.co.kr."
-      },
-      "ar": {
-        "title": "إل جي CNS تكشف منصة Physical Works لتحول الروبوتات من التعلم إلى المراقبة",
-        "excerpt": "كشفت إل جي CNS عن علامة منصة تحول الروبوتات Physical Works، التي تدعم التعلم والتحقق والتشغيل والمراقبة بما يتجاوز شراء الروبوتات ونشرها في المواقع.",
-        "body": "كشفت إل جي CNS عن ‘Physical Works’، وهي علامة لمنصة تحول الروبوتات (RX). ولا تقتصر المنصة على شراء الروبوتات ووضعها في مواقع العمل، بل تجمع دعم تعلم الروبوتات والتحقق منها مع التشغيل والمراقبة في منصة واحدة. ويظهر هذا الإعلان أن استخدام الروبوتات يتوسع من مجرد إدخال معدات الأتمتة إلى إدارة أوسع للعمليات الميدانية. وتركز إل جي CNS من خلال Physical Works على الدعم المتكامل للمراحل المتعددة المطلوبة في تحول الروبوتات. المصدر: mk.co.kr."
-      },
-      "hi": {
-        "title": "LG CNS ने Physical Works RX प्लेटफॉर्म पेश किया, सीखने से निगरानी तक एकीकृत समर्थन",
-        "excerpt": "LG CNS ने रोबोट ट्रांसफॉर्मेशन प्लेटफॉर्म ब्रांड Physical Works पेश किया है, जो रोबोट खरीद और तैनाती से आगे सीखने, सत्यापन, संचालन और निगरानी को साथ लाता है।",
-        "body": "LG CNS ने ‘Physical Works’ नाम से रोबोट ट्रांसफॉर्मेशन (RX) प्लेटफॉर्म ब्रांड पेश किया है। यह प्लेटफॉर्म कंपनियों द्वारा रोबोट खरीदकर उन्हें कार्यस्थल पर लगाने तक सीमित नहीं है। यह रोबोट के सीखने और सत्यापन से लेकर संचालन और निगरानी तक को एक साथ समर्थन देता है। यह घोषणा दिखाती है कि रोबोट का उपयोग केवल ऑटोमेशन उपकरण अपनाने से आगे बढ़कर स्थल संचालन के व्यापक प्रबंधन की दिशा में जा रहा है। LG CNS ने Physical Works में रोबोट ट्रांसफॉर्मेशन के लिए आवश्यक कई चरणों को एकीकृत रूप से समर्थन देने पर ध्यान दिया है। स्रोत: mk.co.kr."
-      },
-      "id": {
-        "title": "LG CNS Rilis Physical Works, Platform RX untuk Belajar, Operasi, dan Pemantauan Robot",
-        "excerpt": "LG CNS memperkenalkan Physical Works, merek platform transformasi robot yang mendukung pembelajaran, validasi, operasi, dan pemantauan, melampaui pembelian serta penempatan robot.",
-        "body": "LG CNS memperkenalkan ‘Physical Works’, merek platform transformasi robot (RX). Platform ini tidak hanya berhenti pada pembelian robot dan penempatannya di lokasi kerja. Physical Works mendukung pembelajaran dan validasi robot, sekaligus operasi dan pemantauan, dalam satu platform. Peluncuran ini menunjukkan bahwa pemanfaatan robot berkembang dari sekadar penerapan perangkat otomasi menuju pengelolaan operasi lapangan yang lebih luas. LG CNS menitikberatkan Physical Works pada dukungan terpadu untuk berbagai tahap yang dibutuhkan dalam transformasi robot. Sumber: mk.co.kr."
-      }
-    }
-  },
-  {
-    "id": "db596440422d",
-    "slug": "다음-인공지능-포털로-변신-862535",
-    "channelId": "ETF",
-    "category": "etf",
-    "publishedAt": "2026-05-07T15:41:57.477Z",
-    "updatedAt": "2026-05-07T15:41:57.477Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/stock/12039366",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12039366",
-    "titleFingerprint": "ac8ca5c2dc58c95ff5045f88e447b9a66c231220",
-    "dedupKeys": [
-      "db596440422da30e5ae01304b0d2b73a4493dba5",
-      "ac8ca5c2dc58c95ff5045f88e447b9a66c231220",
-      "0139ba1ca3337a900a457930239e86aaeb3acb02"
-    ],
-    "imageUrl": "/images/articles/db596440422d.jpg",
-    "i18n": {
-      "ko": {
-        "title": "다음, 인공지능 포털 전환 가속…업스테이지 AXZ 인수 결정",
-        "excerpt": "생성형 AI 유니콘 업스테이지가 7일 포털 다음 운영사 AXZ 인수를 최종 결정하며 다음의 인공지능 포털 전환 가능성이 주목받고 있다.",
-        "body": "생성형 인공지능(AI) 기업 업스테이지가 7일 포털 ‘다음’ 운영사인 AXZ를 인수하기로 최종 결정했다. 업스테이지는 기업가치 1조원 이상 비상장 스타트업을 뜻하는 AI ‘유니콘’으로 소개됐다. 이번 결정은 포털 다음 운영 주체인 AXZ의 경영권 변화와 맞물려, 다음이 인공지능 기반 포털로 전환하는 흐름에서 중요한 분기점으로 거론된다. 다만 원문에서 공개된 핵심 내용은 인수 최종 결정과 관련 당사자에 한정된다. mk.co.kr 보도에 따르면 업스테이지는 AXZ 모회사와 관련한 인수 절차를 최종 결정했다."
-      },
-      "en": {
-        "title": "Daum AI Portal Shift Gains Pace as Upstage Decides to Acquire AXZ",
-        "excerpt": "Generative AI unicorn Upstage decided on May 7 to acquire AXZ, the operator of portal Daum, drawing attention to Daum’s possible shift into an AI portal.",
-        "body": "Upstage, a generative artificial intelligence company, made a final decision on May 7 to acquire AXZ, the operator of the portal Daum. Upstage was described as an AI “unicorn,” a privately held startup valued at more than 1 trillion won. The decision is being noted as an important development linked to a change in the operator behind Daum and to the portal’s move toward an AI-based service model. The original report, however, provides only the core fact of the final acquisition decision and the parties involved. According to mk.co.kr, Upstage finalized the decision related to acquiring AXZ from its parent company."
-      },
-      "ja": {
-        "title": "Daum、AIポータル転換へ前進…UpstageがAXZ買収を決定",
-        "excerpt": "生成AIユニコーンのUpstageが7日、ポータルDaumの運営会社AXZを買収することを最終決定し、AIポータル化の行方が注目されている。",
-        "body": "生成型人工知能（AI）企業のUpstageは7日、ポータル「Daum」の運営会社であるAXZを買収することを最終決定した。Upstageは企業価値1兆ウォン以上の非上場スタートアップを指すAI「ユニコーン」と紹介されている。今回の決定は、Daumの運営主体であるAXZの経営権変更と関連し、DaumがAI基盤のポータルへ転換する流れの中で重要な動きとして受け止められている。ただし原文で確認できる核心情報は、買収の最終決定と関係当事者に限られる。mk.co.krによると、UpstageはAXZの親会社に関連する買収手続きを最終決定した。"
-      },
-      "zh": {
-        "title": "Daum加速转向人工智能门户，Upstage决定收购AXZ",
-        "excerpt": "生成式AI独角兽Upstage于7日最终决定收购门户Daum运营方AXZ，外界关注Daum向人工智能门户转型的进展。",
-        "body": "生成式人工智能（AI）企业Upstage于7日最终决定收购门户“Daum”的运营公司AXZ。Upstage被介绍为AI“独角兽”，即企业价值超过1万亿韩元的非上市初创企业。此次决定与Daum运营主体AXZ的经营权变化相关，也被视为Daum向基于人工智能的门户服务转型过程中的重要节点。不过，原文披露的核心事实仅限于收购最终决定以及相关当事方。mk.co.kr报道称，Upstage已就与AXZ母公司相关的收购程序作出最终决定。"
-      },
-      "es": {
-        "title": "Daum avanza hacia portal de IA tras decisión de Upstage de adquirir AXZ",
-        "excerpt": "La unicornio de IA generativa Upstage decidió el 7 de mayo adquirir AXZ, operadora del portal Daum, y centra la atención en su giro hacia un portal de IA.",
-        "body": "Upstage, empresa de inteligencia artificial generativa, decidió finalmente el 7 de mayo adquirir AXZ, la operadora del portal Daum. Upstage fue presentada como una “unicornio” de IA, es decir, una startup privada con una valoración superior a 1 billón de wones. La decisión se considera un hecho relevante por su relación con el cambio en la entidad que opera Daum y con la transición del portal hacia un modelo basado en inteligencia artificial. No obstante, la información central del texto original se limita a la decisión final de adquisición y a las partes involucradas. Según mk.co.kr, Upstage finalizó la decisión vinculada al proceso de adquisición de AXZ desde su matriz."
-      },
-      "pt": {
-        "title": "Daum avança como portal de IA após Upstage decidir adquirir a AXZ",
-        "excerpt": "A unicórnio de IA generativa Upstage decidiu em 7 de maio adquirir a AXZ, operadora do portal Daum, chamando atenção para sua transição a portal de IA.",
-        "body": "A Upstage, empresa de inteligência artificial generativa, decidiu em 7 de maio adquirir a AXZ, operadora do portal Daum. A Upstage foi apresentada como uma “unicórnio” de IA, termo usado para startups privadas avaliadas em mais de 1 trilhão de wones. A decisão é vista como um movimento relevante por estar ligada à mudança no operador do Daum e ao avanço do portal rumo a um modelo baseado em inteligência artificial. Ainda assim, o texto original informa apenas o fato central da decisão final de aquisição e as partes envolvidas. Segundo o mk.co.kr, a Upstage finalizou a decisão relacionada ao processo de aquisição da AXZ junto à sua controladora."
-      },
-      "de": {
-        "title": "Daum auf dem Weg zum KI-Portal: Upstage entscheidet AXZ-Übernahme",
-        "excerpt": "Das generative KI-Unicorn Upstage entschied am 7. Mai, AXZ, Betreiber des Portals Daum, zu übernehmen und rückt Daums KI-Portal-Wandel in den Fokus.",
-        "body": "Das Unternehmen Upstage für generative künstliche Intelligenz entschied am 7. Mai endgültig, AXZ, den Betreiber des Portals Daum, zu übernehmen. Upstage wurde als KI-„Unicorn“ beschrieben, also als nicht börsennotiertes Startup mit einer Bewertung von mehr als 1 Billion Won. Die Entscheidung gilt als wichtiger Schritt im Zusammenhang mit dem Wechsel beim Betreiber von Daum und mit der Entwicklung des Portals hin zu einem KI-basierten Dienst. Der Originaltext nennt jedoch nur die zentrale Tatsache der endgültigen Übernahmeentscheidung und die beteiligten Parteien. Laut mk.co.kr hat Upstage die Entscheidung über das mit der AXZ-Muttergesellschaft verbundene Übernahmeverfahren final getroffen."
-      },
-      "fr": {
-        "title": "Daum accélère vers un portail IA avec la décision d’Upstage d’acquérir AXZ",
-        "excerpt": "La licorne d’IA générative Upstage a décidé le 7 mai d’acquérir AXZ, opérateur du portail Daum, attirant l’attention sur sa transition vers un portail IA.",
-        "body": "Upstage, entreprise d’intelligence artificielle générative, a pris le 7 mai la décision finale d’acquérir AXZ, l’opérateur du portail Daum. Upstage est présentée comme une « licorne » de l’IA, c’est-à-dire une startup non cotée valorisée à plus de 1 000 milliards de wons. Cette décision est considérée comme un développement important lié au changement de l’entité qui exploite Daum et à l’évolution du portail vers un modèle fondé sur l’intelligence artificielle. Le texte original se limite toutefois au fait central de la décision finale d’acquisition et aux parties concernées. Selon mk.co.kr, Upstage a finalisé la décision relative à la procédure d’acquisition d’AXZ auprès de sa société mère."
-      },
-      "ar": {
-        "title": "داوم تتجه إلى بوابة ذكاء اصطناعي بعد قرار Upstage شراء AXZ",
-        "excerpt": "قررت شركة Upstage، يونيكورن الذكاء الاصطناعي التوليدي، في 7 مايو الاستحواذ على AXZ مشغلة بوابة Daum، ما يسلط الضوء على تحولها إلى بوابة ذكاء اصطناعي.",
-        "body": "اتخذت شركة Upstage المتخصصة في الذكاء الاصطناعي التوليدي في 7 مايو قرارا نهائيا بالاستحواذ على AXZ، الشركة المشغلة لبوابة Daum. ووصفت Upstage بأنها «يونيكورن» في مجال الذكاء الاصطناعي، أي شركة ناشئة غير مدرجة تتجاوز قيمتها تريليون وون. ويرتبط هذا القرار بتغير الجهة المشغلة لداوم، كما يبرز ضمن مسار تحول البوابة إلى خدمة قائمة على الذكاء الاصطناعي. ومع ذلك، فإن المعلومات الأساسية الواردة في النص الأصلي تقتصر على قرار الاستحواذ النهائي والأطراف المعنية. وبحسب mk.co.kr، أنهت Upstage قرارها المتعلق بإجراءات الاستحواذ على AXZ من شركتها الأم."
-      },
-      "hi": {
-        "title": "Daum का AI पोर्टल बदलाव तेज, Upstage ने AXZ अधिग्रहण तय किया",
-        "excerpt": "जनरेटिव AI यूनिकॉर्न Upstage ने 7 मई को पोर्टल Daum की ऑपरेटर AXZ को खरीदने का अंतिम निर्णय लिया, जिससे Daum के AI पोर्टल रूपांतरण पर ध्यान गया।",
-        "body": "जनरेटिव आर्टिफिशियल इंटेलिजेंस कंपनी Upstage ने 7 मई को पोर्टल ‘Daum’ की ऑपरेटर AXZ का अधिग्रहण करने का अंतिम निर्णय लिया। Upstage को AI ‘यूनिकॉर्न’ बताया गया है, यानी ऐसी गैर-सूचीबद्ध स्टार्टअप कंपनी जिसका मूल्य 1 ट्रिलियन वोन से अधिक है। यह फैसला Daum के ऑपरेटर AXZ के नियंत्रण में बदलाव से जुड़ा माना जा रहा है और Daum के AI आधारित पोर्टल की ओर बढ़ने के संदर्भ में अहम घटना के रूप में देखा जा रहा है। हालांकि मूल रिपोर्ट में उपलब्ध मुख्य जानकारी अधिग्रहण के अंतिम निर्णय और संबंधित पक्षों तक सीमित है। mk.co.kr के अनुसार, Upstage ने AXZ की मूल कंपनी से जुड़े अधिग्रहण प्रक्रिया पर अंतिम निर्णय लिया।"
-      },
-      "id": {
-        "title": "Daum Menuju Portal AI, Upstage Putuskan Akuisisi AXZ",
-        "excerpt": "Unicorn AI generatif Upstage pada 7 Mei memutuskan mengakuisisi AXZ, operator portal Daum, sehingga arah perubahan Daum menjadi portal AI menjadi sorotan.",
-        "body": "Perusahaan kecerdasan buatan generatif Upstage pada 7 Mei mengambil keputusan final untuk mengakuisisi AXZ, operator portal Daum. Upstage disebut sebagai “unicorn” AI, yaitu startup privat dengan valuasi lebih dari 1 triliun won. Keputusan ini terkait dengan perubahan pada pihak pengelola Daum dan menjadi perkembangan penting dalam arah Daum menuju portal berbasis kecerdasan buatan. Namun, informasi inti dalam teks asli terbatas pada keputusan final akuisisi dan pihak-pihak yang terlibat. Menurut mk.co.kr, Upstage telah memfinalkan keputusan terkait proses akuisisi AXZ dari perusahaan induknya."
-      }
-    }
-  },
-  {
-    "id": "0a58874fba9c",
-    "slug": "ai-기술株의-시대-주식채권金-비율-721로-담아라-654762",
-    "channelId": "ETF",
-    "category": "etf",
-    "publishedAt": "2026-05-07T15:40:51.025Z",
-    "updatedAt": "2026-05-07T15:40:51.025Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/stock/12039406",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12039406",
-    "titleFingerprint": "c0b1140b5f38dee10fee02e071bc32977d35768c",
-    "dedupKeys": [
-      "0a58874fba9ca09dbf6cd998ca09c9401f50ca7b",
-      "c0b1140b5f38dee10fee02e071bc32977d35768c",
-      "859aab1af3a147a3655115fe48cb203c97b7945f"
-    ],
-    "imageUrl": "/images/articles/0a58874fba9c.jpg",
-    "i18n": {
-      "ko": {
-        "title": "AI 기술주 시대의 자산배분 전략, 주식·채권·금 7:2:1 비율 주목",
-        "excerpt": "7일 서울 강남구 코엑스에서 개막한 2026 서울 행사에서 AI 기술주 시대를 맞아 공격적 투자자에게 주식 70%, 채권·금 30% 배분 전략이 제시됐다.",
-        "body": "7일 서울 강남구 코엑스에서 개막한 ‘2026 서울’ 행사에서 AI 기술주 시대의 자산배분 전략이 소개됐다. 원문은 공격적 투자자라면 주식 비중을 70%로 두고 나머지를 채권과 금으로 채우는 방식에 주목했다. 제시된 비율은 주식 7, 채권 2, 금 1이다. 이는 성장 자산인 주식을 중심에 두되 채권과 금을 함께 담아 변동성에 대응하려는 구성이다. AI 기술주가 투자 관심의 중심에 선 가운데, 분산 배분의 필요성이 다시 강조됐다. 출처: mk.co.kr."
-      },
-      "en": {
-        "title": "AI Tech Stock Era Puts 70:20:10 Stock, Bond and Gold Allocation in Focus",
-        "excerpt": "At a 2026 Seoul event that opened May 7 at COEX in Gangnam, Seoul, aggressive investors were pointed to a 70% stock allocation with the rest in bonds and gold.",
-        "body": "At the ‘2026 Seoul’ event that opened on May 7 at COEX in Gangnam-gu, Seoul, an asset allocation strategy for the era of AI technology stocks was introduced. The original report said aggressive investors could set stocks at 70% and fill the rest with bonds and gold. The suggested ratio is 7 for stocks, 2 for bonds and 1 for gold. The structure keeps growth assets at the center while using bonds and gold to respond to volatility. As AI tech stocks remain a focus for investors, the need for diversified allocation was emphasized again. Source: mk.co.kr."
-      },
-      "ja": {
-        "title": "AI技術株時代の資産配分、株式・債券・金の7:2:1比率に注目",
-        "excerpt": "5月7日にソウル江南区COEXで開幕した2026ソウル行事で、積極投資家向けに株式70%、残りを債券と金で組む配分戦略が示された。",
-        "body": "5月7日、ソウル江南区のCOEXで開幕した「2026ソウル」行事で、AI技術株時代の資産配分戦略が紹介された。原文は、積極的な投資家なら株式比率を70%に設定し、残りを債券と金で埋める方法に注目した。示された比率は株式7、債券2、金1である。成長資産である株式を中心に据えつつ、債券と金を組み合わせて変動性に備える構成だ。AI技術株が投資の関心の中心となるなか、分散配分の必要性が改めて強調された。出典: mk.co.kr."
-      },
-      "zh": {
-        "title": "AI科技股时代资产配置受关注，股票债券黄金7:2:1比例浮现",
-        "excerpt": "5月7日在首尔江南区COEX开幕的2026首尔活动上，面向进取型投资者提出了股票70%、其余配置债券和黄金的策略。",
-        "body": "5月7日，在首尔江南区COEX开幕的“2026首尔”活动上，介绍了AI科技股时代的资产配置策略。原文指出，进取型投资者可将股票比重设为70%，其余部分由债券和黄金填补。提出的比例为股票7、债券2、黄金1。该组合以作为增长资产的股票为核心，同时纳入债券和黄金，以应对波动。随着AI科技股成为投资关注重点，分散配置的必要性再次受到强调。来源: mk.co.kr."
-      },
-      "es": {
-        "title": "Era de acciones tecnológicas de IA impulsa cartera 70:20:10 en bolsa, bonos y oro",
-        "excerpt": "En un evento de 2026 Seoul inaugurado el 7 de mayo en COEX, Gangnam, se planteó para inversores agresivos una cartera con 70% en acciones y el resto en bonos y oro.",
-        "body": "En el evento ‘2026 Seoul’, inaugurado el 7 de mayo en COEX, en Gangnam-gu, Seúl, se presentó una estrategia de asignación de activos para la era de las acciones tecnológicas de IA. El texto original señaló que un inversor agresivo puede fijar la proporción de acciones en 70% y completar el resto con bonos y oro. La proporción sugerida es 7 en acciones, 2 en bonos y 1 en oro. La estructura mantiene las acciones, activo de crecimiento, en el centro, y suma bonos y oro para responder a la volatilidad. Fuente: mk.co.kr."
-      },
-      "pt": {
-        "title": "Era das ações de IA destaca alocação 70:20:10 em bolsa, títulos e ouro",
-        "excerpt": "Em evento de 2026 Seoul aberto em 7 de maio no COEX, em Gangnam, investidores agressivos receberam a indicação de 70% em ações e o restante em títulos e ouro.",
-        "body": "No evento ‘2026 Seoul’, aberto em 7 de maio no COEX, em Gangnam-gu, Seul, foi apresentada uma estratégia de alocação de ativos para a era das ações de tecnologia de IA. O texto original afirmou que investidores agressivos podem manter 70% em ações e preencher o restante com títulos e ouro. A proporção indicada é 7 em ações, 2 em títulos e 1 em ouro. A composição coloca as ações, ativo de crescimento, no centro, enquanto títulos e ouro ajudam a lidar com a volatilidade. Fonte: mk.co.kr."
-      },
-      "de": {
-        "title": "KI-Technologieaktien rücken 70:20:10-Mix aus Aktien, Anleihen und Gold in den Fokus",
-        "excerpt": "Bei einer am 7. Mai im COEX in Gangnam, Seoul, eröffneten 2026-Seoul-Veranstaltung wurde offensiven Anlegern ein Mix aus 70% Aktien sowie Anleihen und Gold vorgestellt.",
-        "body": "Bei der am 7. Mai im COEX in Gangnam-gu, Seoul, eröffneten Veranstaltung ‘2026 Seoul’ wurde eine Strategie zur Vermögensaufteilung für die Ära der KI-Technologieaktien vorgestellt. Der Originalbericht hob hervor, dass offensive Anleger den Aktienanteil auf 70% setzen und den Rest mit Anleihen und Gold füllen können. Das genannte Verhältnis lautet 7 Aktien, 2 Anleihen und 1 Gold. Die Struktur stellt Wachstumswerte in den Mittelpunkt und ergänzt sie um Anleihen und Gold, um Schwankungen zu begegnen. Quelle: mk.co.kr."
-      },
-      "fr": {
-        "title": "Actions technologiques d’IA: l’allocation 70:20:10 actions, obligations et or mise en avant",
-        "excerpt": "Lors d’un événement 2026 Seoul ouvert le 7 mai au COEX, à Gangnam, les investisseurs offensifs se sont vu présenter une allocation de 70% en actions, le reste en obligations et or.",
-        "body": "Lors de l’événement ‘2026 Seoul’, ouvert le 7 mai au COEX, dans l’arrondissement de Gangnam à Séoul, une stratégie d’allocation d’actifs pour l’ère des actions technologiques liées à l’IA a été présentée. Le texte original indique qu’un investisseur offensif peut fixer la part des actions à 70% et compléter le reste avec des obligations et de l’or. Le ratio proposé est de 7 pour les actions, 2 pour les obligations et 1 pour l’or. Cette composition place les actifs de croissance au centre tout en ajoutant obligations et or face à la volatilité. Source: mk.co.kr."
-      },
-      "ar": {
-        "title": "عصر أسهم الذكاء الاصطناعي يبرز توزيع 70:20:10 بين الأسهم والسندات والذهب",
-        "excerpt": "في فعالية 2026 Seoul التي افتتحت في 7 مايو في مركز COEX بمنطقة غانغنام في سيول، طُرح للمستثمرين ذوي النزعة الهجومية توزيع 70% للأسهم والباقي للسندات والذهب.",
-        "body": "في فعالية ‘2026 Seoul’ التي افتتحت في 7 مايو في مركز COEX بمنطقة غانغنام-غو في سيول، عُرضت استراتيجية لتوزيع الأصول في عصر أسهم تكنولوجيا الذكاء الاصطناعي. وذكر النص الأصلي أن المستثمر الهجومي يمكنه تحديد وزن الأسهم عند 70% وملء الباقي بالسندات والذهب. النسبة المقترحة هي 7 للأسهم و2 للسندات و1 للذهب. تضع هذه التركيبة أسهم النمو في المركز، مع إضافة السندات والذهب للتعامل مع التقلبات. المصدر: mk.co.kr."
-      },
-      "hi": {
-        "title": "AI टेक शेयरों के दौर में शेयर, बॉन्ड और सोने का 70:20:10 आवंटन चर्चा में",
-        "excerpt": "7 मई को सियोल के गंगनम स्थित COEX में शुरू हुए 2026 Seoul कार्यक्रम में आक्रामक निवेशकों के लिए 70% शेयर और शेष बॉन्ड व सोने में रखने की रणनीति बताई गई।",
-        "body": "7 मई को सियोल के गंगनम-गु स्थित COEX में शुरू हुए ‘2026 Seoul’ कार्यक्रम में AI टेक्नोलॉजी शेयरों के दौर के लिए परिसंपत्ति आवंटन रणनीति पेश की गई। मूल लेख के अनुसार, आक्रामक निवेशक शेयरों का अनुपात 70% रख सकते हैं और शेष हिस्सा बॉन्ड तथा सोने से भर सकते हैं। सुझाया गया अनुपात शेयर 7, बॉन्ड 2 और सोना 1 है। यह संरचना वृद्धि संपत्ति यानी शेयरों को केंद्र में रखती है, जबकि उतार-चढ़ाव से निपटने के लिए बॉन्ड और सोना जोड़ती है। स्रोत: mk.co.kr."
-      },
-      "id": {
-        "title": "Era Saham Teknologi AI Soroti Alokasi 70:20:10 pada Saham, Obligasi, dan Emas",
-        "excerpt": "Dalam acara 2026 Seoul yang dibuka 7 Mei di COEX, Gangnam, investor agresif diarahkan pada alokasi 70% saham dan sisanya pada obligasi serta emas.",
-        "body": "Dalam acara ‘2026 Seoul’ yang dibuka pada 7 Mei di COEX, Gangnam-gu, Seoul, diperkenalkan strategi alokasi aset untuk era saham teknologi AI. Teks asli menyebutkan bahwa investor agresif dapat menetapkan porsi saham sebesar 70% dan mengisi sisanya dengan obligasi serta emas. Rasio yang disarankan adalah 7 untuk saham, 2 untuk obligasi, dan 1 untuk emas. Komposisi ini menempatkan saham sebagai aset pertumbuhan di pusat, sambil menambahkan obligasi dan emas untuk menghadapi volatilitas. Sumber: mk.co.kr."
       }
     }
   }
