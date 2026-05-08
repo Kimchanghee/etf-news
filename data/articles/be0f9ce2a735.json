@@ -1,0 +1,75 @@
+{
+  "id": "be0f9ce2a735",
+  "slug": "엑스페릭스-퓨리오사ai와-ai통합-솔루션-총판계약-체결-109856",
+  "channelId": "ETF",
+  "category": "etf",
+  "publishedAt": "2026-05-08T04:29:01.262Z",
+  "updatedAt": "2026-05-08T04:29:01.262Z",
+  "sourceName": "mk.co.kr",
+  "sourceUrl": "https://www.mk.co.kr/news/stock/12040803",
+  "canonicalUrl": "https://www.mk.co.kr/news/stock/12040803",
+  "titleFingerprint": "0d13303d555550bf2a25c68d4399aaf19542af94",
+  "dedupKeys": [
+    "be0f9ce2a73548da67523d935a4a1ebfe4e1a532",
+    "0d13303d555550bf2a25c68d4399aaf19542af94",
+    "4efb523e77506fb2c905e598ab0a50f7764f8665"
+  ],
+  "imageUrl": "/images/articles/be0f9ce2a735.png",
+  "i18n": {
+    "ko": {
+      "title": "엑스페릭스, 퓨리오사AI와 NPU 기반 AI통합 솔루션 총판계약 체결",
+      "excerpt": "AI기반 신원인식 기업 엑스페릭스가 8일 퓨리오사AI와 NPU 기반 AI 솔루션 공급 및 전략적 사업 협력을 위한 총판계약을 체결했다.",
+      "body": "AI기반 신원인식 전문기업 엑스페릭스는 8일 AI 반도체 기업 퓨리오사AI와 NPU(신경망처리장치) 기반 ‘AI 솔루션 공급 및 전략적 사업 협력’을 위한 총판계약을 체결했다고 밝혔다. 엑스페릭스는 윤상철 대표이사가 이끄는 신원인식 분야 기업이며, 퓨리오사AI는 AI 반도체 기업이다. 이번 계약의 핵심은 NPU 기반 AI통합 솔루션 공급과 양사 간 전략적 사업 협력이다. 구체적 공급 규모나 기간은 원문에 공개되지 않았다. 이번 총판계약은 엑스페릭스의 AI 기반 신원인식 사업과 퓨리오사AI의 NPU 기술을 연결하는 협력으로 소개됐다. 출처: mk.co.kr"
+    },
+    "en": {
+      "title": "Xperix Signs Distributor Deal With FuriosaAI for NPU-Based AI Solutions",
+      "excerpt": "Xperix, an AI-based identity recognition company, signed a distributor agreement on the 8th with FuriosaAI for NPU-based AI solution supply and strategic business cooperation.",
+      "body": "Xperix, an AI-based identity recognition specialist led by CEO Yoon Sang-cheol, said on the 8th that it signed a general distributor agreement with AI semiconductor company FuriosaAI. The contract covers the supply of NPU, or neural processing unit, based AI solutions and strategic business cooperation. Xperix operates in AI-based identity recognition, while FuriosaAI is an AI semiconductor company. The main point of the agreement is the distribution of integrated AI solutions built around NPU technology and cooperation between the two companies. The original report did not disclose supply volume or contract duration. Source: mk.co.kr"
+    },
+    "ja": {
+      "title": "エクスペリックス、フリオサAIとNPU基盤AI統合ソリューション総代理店契約",
+      "excerpt": "AI基盤の身元認識企業エクスペリックスは8日、フリオサAIとNPU基盤AIソリューション供給および戦略的事業協力の総代理店契約を締結した。",
+      "body": "AI基盤の身元認識専門企業エクスペリックスは8日、AI半導体企業フリオサAIと、NPU（ニューラル・プロセッシング・ユニット）基盤の「AIソリューション供給および戦略的事業協力」に向けた総代理店契約を締結したと明らかにした。エクスペリックスは尹相哲代表取締役が率いる身元認識分野の企業で、フリオサAIはAI半導体企業だ。今回の契約の焦点は、NPU基盤のAI統合ソリューション供給と両社間の戦略的協力にある。供給規模や契約期間は原文で公開されていない。出典: mk.co.kr"
+    },
+    "zh": {
+      "title": "Xperix与FuriosaAI签署基于NPU的AI集成解决方案总代理协议",
+      "excerpt": "AI身份识别企业Xperix于8日与AI半导体企业FuriosaAI签署总代理协议，内容涉及基于NPU的AI解决方案供应和战略业务合作。",
+      "body": "AI身份识别专业企业Xperix表示，公司于8日与AI半导体企业FuriosaAI签署了总代理协议，合作内容为基于NPU（神经网络处理器）的“AI解决方案供应及战略业务合作”。Xperix由代表理事尹相哲领导，专注于AI身份识别领域；FuriosaAI则是一家AI半导体企业。本次协议的核心是供应基于NPU的AI集成解决方案，并推进双方战略业务合作。原文未披露具体供应规模或合同期限。来源: mk.co.kr"
+    },
+    "es": {
+      "title": "Xperix firma con FuriosaAI un acuerdo de distribución de soluciones AI con NPU",
+      "excerpt": "Xperix, empresa de reconocimiento de identidad basado en IA, firmó el día 8 con FuriosaAI un acuerdo de distribución para suministrar soluciones de IA basadas en NPU y cooperar estratégicamente.",
+      "body": "Xperix, empresa especializada en reconocimiento de identidad basado en IA y dirigida por el CEO Yoon Sang-cheol, informó que el día 8 firmó con FuriosaAI, compañía de semiconductores de IA, un acuerdo de distribución general. El contrato se centra en el suministro de soluciones de IA basadas en NPU, unidad de procesamiento neuronal, y en la cooperación estratégica de negocios. Xperix opera en identidad basada en IA, mientras que FuriosaAI pertenece al sector de semiconductores de IA. El reporte original no reveló el volumen de suministro ni la duración del contrato. Fuente: mk.co.kr"
+    },
+    "pt": {
+      "title": "Xperix fecha com FuriosaAI distribuição de soluções de IA baseadas em NPU",
+      "excerpt": "A Xperix, empresa de reconhecimento de identidade com IA, assinou no dia 8 com a FuriosaAI um contrato de distribuição para fornecer soluções de IA baseadas em NPU e cooperar estrategicamente.",
+      "body": "A Xperix, empresa especializada em reconhecimento de identidade baseado em IA e liderada pelo CEO Yoon Sang-cheol, informou que assinou no dia 8 um contrato de distribuição geral com a FuriosaAI, companhia de semicondutores de IA. O acordo trata do fornecimento de soluções de IA baseadas em NPU, unidade de processamento neural, e de cooperação estratégica de negócios. A Xperix atua em reconhecimento de identidade com IA, enquanto a FuriosaAI é uma empresa de semicondutores de IA. O texto original não divulgou volume de fornecimento nem prazo contratual. Fonte: mk.co.kr"
+    },
+    "de": {
+      "title": "Xperix schließt mit FuriosaAI Vertriebspakt für NPU-basierte KI-Lösungen",
+      "excerpt": "Xperix, ein Spezialist für KI-basierte Identitätserkennung, hat am 8. mit FuriosaAI einen Generalvertriebsvertrag für NPU-basierte KI-Lösungen und strategische Zusammenarbeit geschlossen.",
+      "body": "Xperix, ein auf KI-basierte Identitätserkennung spezialisiertes Unternehmen unter CEO Yoon Sang-cheol, teilte mit, am 8. einen Generalvertriebsvertrag mit dem KI-Halbleiterunternehmen FuriosaAI geschlossen zu haben. Die Vereinbarung betrifft die Lieferung von KI-Lösungen auf Basis von NPU, also Neural Processing Units, sowie strategische geschäftliche Zusammenarbeit. Xperix ist im Bereich KI-Identitätserkennung tätig, FuriosaAI im Bereich KI-Halbleiter. Angaben zu Lieferumfang oder Vertragsdauer wurden im Originalbericht nicht veröffentlicht. Quelle: mk.co.kr"
+    },
+    "fr": {
+      "title": "Xperix signe avec FuriosaAI un accord de distribution de solutions IA sur NPU",
+      "excerpt": "Xperix, spécialiste de l’identification fondée sur l’IA, a signé le 8 avec FuriosaAI un contrat de distribution pour fournir des solutions IA basées sur NPU et coopérer stratégiquement.",
+      "body": "Xperix, entreprise spécialisée dans l’identification basée sur l’IA et dirigée par le CEO Yoon Sang-cheol, a annoncé avoir signé le 8 un contrat de distribution générale avec FuriosaAI, société de semi-conducteurs d’IA. L’accord porte sur la fourniture de solutions d’IA basées sur NPU, unité de traitement neuronal, ainsi que sur une coopération stratégique. Xperix opère dans l’identification par IA, tandis que FuriosaAI est une entreprise de semi-conducteurs d’IA. Le rapport original ne précise ni le volume de fourniture ni la durée du contrat. Source: mk.co.kr"
+    },
+    "ar": {
+      "title": "إكسفيريكس تبرم اتفاق توزيع مع FuriosaAI لحلول ذكاء اصطناعي قائمة على NPU",
+      "excerpt": "أبرمت إكسفيريكس، المتخصصة في التعرف على الهوية بالذكاء الاصطناعي، يوم 8 اتفاق توزيع عام مع FuriosaAI لتوريد حلول ذكاء اصطناعي قائمة على NPU والتعاون الاستراتيجي.",
+      "body": "أعلنت إكسفيريكس، وهي شركة متخصصة في التعرف على الهوية بالذكاء الاصطناعي ويقودها الرئيس التنفيذي يون سانغ تشول، أنها وقعت يوم 8 عقد توزيع عام مع FuriosaAI، وهي شركة أشباه موصلات للذكاء الاصطناعي. ويغطي العقد توريد حلول ذكاء اصطناعي قائمة على NPU، أي وحدة معالجة الشبكات العصبية، إضافة إلى تعاون تجاري استراتيجي. تعمل إكسفيريكس في مجال التعرف على الهوية بالذكاء الاصطناعي، بينما تركز FuriosaAI على أشباه موصلات الذكاء الاصطناعي. ولم يكشف النص الأصلي عن حجم التوريد أو مدة العقد. المصدر: mk.co.kr"
+    },
+    "hi": {
+      "title": "Xperix ने FuriosaAI के साथ NPU आधारित AI समाधान वितरण समझौता किया",
+      "excerpt": "AI आधारित पहचान विशेषज्ञ Xperix ने 8 तारीख को FuriosaAI के साथ NPU आधारित AI समाधान आपूर्ति और रणनीतिक कारोबारी सहयोग के लिए सामान्य वितरण समझौता किया।",
+      "body": "AI आधारित पहचान पहचानने वाली विशेषज्ञ कंपनी Xperix ने कहा कि उसने 8 तारीख को AI सेमीकंडक्टर कंपनी FuriosaAI के साथ सामान्य वितरण समझौता किया। यह समझौता NPU, यानी न्यूरल प्रोसेसिंग यूनिट, आधारित AI समाधान की आपूर्ति और रणनीतिक कारोबारी सहयोग से जुड़ा है। Xperix का नेतृत्व CEO Yoon Sang-cheol करते हैं और कंपनी AI आधारित पहचान क्षेत्र में काम करती है, जबकि FuriosaAI AI सेमीकंडक्टर कंपनी है। समझौते का मुख्य बिंदु NPU आधारित एकीकृत AI समाधान की आपूर्ति और दोनों कंपनियों का सहयोग है। मूल रिपोर्ट में आपूर्ति मात्रा या अवधि नहीं बताई गई। स्रोत: mk.co.kr"
+    },
+    "id": {
+      "title": "Xperix Gandeng FuriosaAI untuk Distribusi Solusi AI Berbasis NPU",
+      "excerpt": "Xperix, perusahaan pengenalan identitas berbasis AI, pada tanggal 8 menandatangani kontrak distributor umum dengan FuriosaAI untuk pasokan solusi AI berbasis NPU dan kerja sama bisnis strategis.",
+      "body": "Xperix, perusahaan spesialis pengenalan identitas berbasis AI yang dipimpin CEO Yoon Sang-cheol, menyatakan pada tanggal 8 telah menandatangani kontrak distributor umum dengan FuriosaAI, perusahaan semikonduktor AI. Kontrak ini mencakup pasokan solusi AI berbasis NPU, atau neural processing unit, serta kerja sama bisnis strategis. Xperix bergerak di bidang pengenalan identitas berbasis AI, sementara FuriosaAI adalah perusahaan semikonduktor AI. Fokus perjanjian ini adalah distribusi solusi AI terintegrasi berbasis NPU dan kerja sama kedua perusahaan. Laporan asli tidak mengungkap volume pasokan atau durasi kontrak. Sumber: mk.co.kr"
+    }
+  }
+}
