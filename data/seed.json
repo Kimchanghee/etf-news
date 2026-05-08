@@ -1,5 +1,230 @@
 [
   {
+    "id": "9409bf3e22f1",
+    "slug": "kb증권sk플래닛-ok캐쉬백-포인트로-투자앱에서-바로-이용-342920",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-05-08T00:21:09.894Z",
+    "updatedAt": "2026-05-08T00:21:09.894Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/2026050708001",
+    "canonicalUrl": "https://www.hankyung.com/article/2026050708001",
+    "titleFingerprint": "2419671f1a57706c6dfe20885460db9221948890",
+    "dedupKeys": [
+      "9409bf3e22f117887e94575f84fb9fbfb1ada106",
+      "2419671f1a57706c6dfe20885460db9221948890",
+      "0b3584cbcb10ddd23946a99c9a830cc082b9f039"
+    ],
+    "imageUrl": "/images/articles/9409bf3e22f1.jpg",
+    "i18n": {
+      "ko": {
+        "title": "KB증권·SK플래닛, OK캐쉬백 포인트 투자 서비스 앱 연계 추진",
+        "excerpt": "KB증권과 SK플래닛은 2026년 4월 17일 임베디드 금융 업무제휴를 맺고 OK캐쉬백 포인트를 증권 계좌 예수금으로 전환해 투자에 활용하는 서비스를 추진한다.",
+        "body": "KB증권과 SK플래닛은 2026년 4월 17일 성남시 판교 SK플래닛 사옥에서 ‘임베디드 금융 비즈니스 운영을 위한 업무 제휴 계약’을 체결했다. 양사는 SK플래닛의 생활 밀착형 플랫폼에 KB증권의 금융 API를 연계해 OK캐쉬백과 KB증권 서비스를 결합한 투자 서비스를 마련할 계획이다. OK캐쉬백 앱 내 ‘오늘의투자’에서는 포인트를 증권 계좌 예수금으로 전환해 투자에 활용할 수 있도록 한다. 제휴 계좌 기반 잔고와 거래 내역 등 자산 정보 확인도 하나의 서비스 흐름 안에 구현할 예정이다. 출처: hankyung.com"
+      },
+      "en": {
+        "title": "KB Securities and SK Planet Link OK Cashbag Points to App Investing",
+        "excerpt": "KB Securities and SK Planet signed an embedded-finance partnership on April 17, 2026, to let OK Cashbag points be converted into brokerage account cash for investing.",
+        "body": "KB Securities and SK Planet signed an “embedded finance business operation partnership agreement” on April 17, 2026, at SK Planet’s office in Pangyo, Seongnam. The companies plan to connect KB Securities’ financial APIs with SK Planet’s lifestyle platform and build an investment service linking OK Cashbag with KB Securities. In the OK Cashbag app’s “Today’s Investment” service, users will be able to convert points into deposits in a securities account and use them for investing. The partners also plan to let users view asset information, including balances and transaction history, within one service flow. Source: hankyung.com"
+      },
+      "ja": {
+        "title": "KB証券とSKプラネット、OKキャッシュバック投資をアプリ連携",
+        "excerpt": "KB証券とSKプラネットは2026年4月17日、OKキャッシュバックポイントを証券口座の預り金に転換して投資に使う組み込み金融提携を結んだ。",
+        "body": "KB証券とSKプラネットは2026年4月17日、城南市板橋のSKプラネット社屋で「組み込み金融ビジネス運営のための業務提携契約」を締結した。両社はSKプラネットの生活密着型プラットフォームにKB証券の金融APIを連携し、OKキャッシュバックとKB証券サービスを結び付けた投資サービスを用意する計画だ。OKキャッシュバックアプリ内の「今日の投資」では、ポイントを証券口座の預り金に転換して投資に活用できるようにする。提携口座を基に残高や取引履歴などの資産情報も一つのサービスの流れで確認できるよう実装する予定だ。出典: hankyung.com"
+      },
+      "zh": {
+        "title": "KB证券与SK Planet推进OK Cashbag积分App投资服务",
+        "excerpt": "KB证券与SK Planet于2026年4月17日签署嵌入式金融合作协议，推动OK Cashbag积分转换为证券账户资金并用于投资。",
+        "body": "KB证券与SK Planet于2026年4月17日在京畿道城南市板桥的SK Planet办公楼签署了“嵌入式金融业务运营合作协议”。双方计划将SK Planet的生活服务平台与KB证券的金融API连接，推出联动OK Cashbag和KB证券服务的投资服务。在OK Cashbag应用内的“今日投资”服务中，用户可将积分转换为证券账户存款并用于投资。双方还计划基于联名账户，在同一服务流程中提供余额、交易明细等资产信息查询。来源: hankyung.com"
+      },
+      "es": {
+        "title": "KB Securities y SK Planet llevarán OK Cashbag a la inversión en la app",
+        "excerpt": "KB Securities y SK Planet firmaron el 17 de abril de 2026 una alianza de finanzas embebidas para convertir puntos OK Cashbag en saldo de cuenta bursátil para invertir.",
+        "body": "KB Securities y SK Planet firmaron el 17 de abril de 2026 un “acuerdo de colaboración para operar negocios de finanzas embebidas” en la sede de SK Planet en Pangyo, Seongnam. Las compañías planean conectar las API financieras de KB Securities con la plataforma de uso cotidiano de SK Planet y preparar un servicio de inversión que vincule OK Cashbag con KB Securities. En “Today’s Investment”, dentro de la app OK Cashbag, los puntos podrán convertirse en efectivo depositado en una cuenta de valores y utilizarse para invertir. También prevén integrar la consulta de saldos e historial de transacciones en un único flujo de servicio. Fuente: hankyung.com"
+      },
+      "pt": {
+        "title": "KB Securities e SK Planet conectam OK Cashbag a investimentos no app",
+        "excerpt": "KB Securities e SK Planet firmaram em 17 de abril de 2026 uma parceria de finanças embutidas para converter pontos OK Cashbag em saldo de conta de corretora para investimento.",
+        "body": "A KB Securities e a SK Planet assinaram em 17 de abril de 2026 um “acordo de parceria para operação de negócios de finanças embutidas” na sede da SK Planet em Pangyo, Seongnam. As empresas planejam conectar as APIs financeiras da KB Securities à plataforma de serviços cotidianos da SK Planet e criar um serviço de investimento que una OK Cashbag e KB Securities. No serviço “Today’s Investment” do app OK Cashbag, os usuários poderão converter pontos em saldo de conta de valores mobiliários para investir. A parceria também prevê consulta de saldo e histórico de transações em um único fluxo de serviço. Fonte: hankyung.com"
+      },
+      "de": {
+        "title": "KB Securities und SK Planet verknüpfen OK-Cashbag-Punkte mit App-Investing",
+        "excerpt": "KB Securities und SK Planet schlossen am 17. April 2026 eine Embedded-Finance-Partnerschaft, um OK-Cashbag-Punkte in Guthaben auf Wertpapierkonten für Investitionen umzuwandeln.",
+        "body": "KB Securities und SK Planet haben am 17. April 2026 im SK-Planet-Gebäude in Pangyo, Seongnam, eine „Kooperationsvereinbarung für den Betrieb von Embedded-Finance-Geschäften“ unterzeichnet. Die Unternehmen wollen Finanz-APIs von KB Securities mit der alltagsnahen Plattform von SK Planet verbinden und einen Investmentdienst schaffen, der OK Cashbag und KB Securities verknüpft. Im OK-Cashbag-App-Dienst „Today’s Investment“ sollen Punkte in Einlagen auf einem Wertpapierkonto umgewandelt und für Anlagen genutzt werden können. Zudem sollen Salden und Transaktionsdaten verbundener Konten in einem einzigen Serviceablauf einsehbar sein. Quelle: hankyung.com"
+      },
+      "fr": {
+        "title": "KB Securities et SK Planet relient les points OK Cashbag à l’investissement mobile",
+        "excerpt": "KB Securities et SK Planet ont signé le 17 avril 2026 un partenariat de finance intégrée afin de convertir les points OK Cashbag en espèces de compte-titres pour investir.",
+        "body": "KB Securities et SK Planet ont signé le 17 avril 2026, au siège de SK Planet à Pangyo, Seongnam, un « accord de partenariat pour l’exploitation d’activités de finance intégrée ». Les deux sociétés prévoient de connecter les API financières de KB Securities à la plateforme de services du quotidien de SK Planet et de préparer un service d’investissement liant OK Cashbag à KB Securities. Dans le service « Today’s Investment » de l’application OK Cashbag, les points pourront être convertis en dépôt sur un compte-titres et utilisés pour investir. Les partenaires comptent aussi intégrer la consultation des soldes et de l’historique des transactions dans un même parcours de service. Source: hankyung.com"
+      },
+      "ar": {
+        "title": "كي بي للأوراق المالية وSK Planet تربطان نقاط OK Cashbag بالاستثمار عبر التطبيق",
+        "excerpt": "وقعت كي بي للأوراق المالية وSK Planet في 17 أبريل 2026 شراكة للتمويل المدمج تتيح تحويل نقاط OK Cashbag إلى رصيد في حساب أوراق مالية لاستخدامه في الاستثمار.",
+        "body": "وقعت كي بي للأوراق المالية وSK Planet في 17 أبريل 2026 اتفاقية شراكة لتشغيل أعمال التمويل المدمج في مقر SK Planet في بانغيو بمدينة سونغنام. وتخطط الشركتان لربط واجهات برمجة التطبيقات المالية الخاصة بكي بي للأوراق المالية بمنصة SK Planet القريبة من الحياة اليومية، وإعداد خدمة استثمار تربط OK Cashbag بخدمات كي بي للأوراق المالية. ومن خلال خدمة “Today’s Investment” داخل تطبيق OK Cashbag، سيتمكن المستخدمون من تحويل النقاط إلى رصيد في حساب أوراق مالية واستخدامه في الاستثمار. كما تعتزم الشركتان إتاحة عرض الأرصدة وسجل المعاملات ضمن مسار خدمة واحد. المصدر: hankyung.com"
+      },
+      "hi": {
+        "title": "KB Securities और SK Planet OK Cashbag पॉइंट्स को ऐप निवेश से जोड़ेंगे",
+        "excerpt": "KB Securities और SK Planet ने 17 अप्रैल 2026 को एम्बेडेड फाइनेंस साझेदारी की, जिसके तहत OK Cashbag पॉइंट्स को सिक्योरिटीज खाते की नकदी में बदलकर निवेश में इस्तेमाल किया जा सकेगा।",
+        "body": "KB Securities और SK Planet ने 17 अप्रैल 2026 को सोंगनाम के पांग्यो स्थित SK Planet कार्यालय में “एम्बेडेड फाइनेंस बिजनेस ऑपरेशन पार्टनरशिप एग्रीमेंट” पर हस्ताक्षर किए। दोनों कंपनियां SK Planet के दैनिक जीवन से जुड़े प्लेटफॉर्म को KB Securities के वित्तीय API से जोड़कर OK Cashbag और KB Securities सेवाओं से जुड़ी निवेश सेवा तैयार करेंगी। OK Cashbag ऐप की “Today’s Investment” सेवा में पॉइंट्स को सिक्योरिटीज खाते की जमा राशि में बदलकर निवेश के लिए उपयोग किया जा सकेगा। साझेदार खाते के आधार पर बैलेंस और लेनदेन विवरण जैसी परिसंपत्ति जानकारी भी एक ही सेवा प्रवाह में देखने की योजना है। स्रोत: hankyung.com"
+      },
+      "id": {
+        "title": "KB Securities dan SK Planet Hubungkan Poin OK Cashbag ke Investasi Aplikasi",
+        "excerpt": "KB Securities dan SK Planet menandatangani kemitraan embedded finance pada 17 April 2026 untuk mengubah poin OK Cashbag menjadi dana rekening sekuritas bagi investasi.",
+        "body": "KB Securities dan SK Planet menandatangani “perjanjian kemitraan operasional bisnis embedded finance” pada 17 April 2026 di kantor SK Planet di Pangyo, Seongnam. Kedua perusahaan berencana menghubungkan API keuangan KB Securities dengan platform SK Planet yang dekat dengan aktivitas harian, lalu menyiapkan layanan investasi yang mengaitkan OK Cashbag dan KB Securities. Dalam layanan “Today’s Investment” di aplikasi OK Cashbag, poin dapat dikonversi menjadi dana pada rekening sekuritas dan digunakan untuk investasi. Keduanya juga berencana menghadirkan pengecekan saldo dan riwayat transaksi berbasis rekening mitra dalam satu alur layanan. Sumber: hankyung.com"
+      }
+    }
+  },
+  {
+    "id": "334fc8c7caed",
+    "slug": "은행의-안정성에-가산-금리까지-국민은행-후순위채-투자-가이드-596588",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-05-08T00:20:10.500Z",
+    "updatedAt": "2026-05-08T00:20:10.500Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/202605071802i",
+    "canonicalUrl": "https://www.hankyung.com/article/202605071802i",
+    "titleFingerprint": "5fb4cb84379e2c2ba50d47e02deb0ce2baf0ce77",
+    "dedupKeys": [
+      "334fc8c7caedf25d610f6111690b7119cfd2c711",
+      "5fb4cb84379e2c2ba50d47e02deb0ce2baf0ce77",
+      "0eba6b9ef6badd1ac1c4d53b9dbed36b782bd4b5"
+    ],
+    "imageUrl": "/images/articles/334fc8c7caed.jpg",
+    "i18n": {
+      "ko": {
+        "title": "국민은행 후순위채 투자 가이드, AA 등급에 연 4.412% 수익률 주목",
+        "excerpt": "한국경제는 2026년 5월 7일 국민은행 후순위채가 AA 신용등급과 연 4.412% 세전 환산 수익률을 제시하지만 변제 순위와 유동성 리스크를 살펴야 한다고 전했다.",
+        "body": "한국경제는 2026년 5월 7일 국민은행 후순위채 투자 조건과 유의점을 정리했다. 기사 기준 이 채권의 신용등급은 AA, 세전 환산 수익률은 연 4.412%이며 남은 기간은 3년 317일이다. 이자는 3개월마다 지급되고, 1000만원을 투자하면 만기 때 세전 1155만4824원을 돌려받을 수 있다고 설명했다. 후순위채는 기업 파산이나 청산 때 일반 선순위 채권보다 변제 순위가 낮아 보통 일반 회사채보다 1.5~3%포인트 높은 금리를 제공한다. 우량 금융기관 발행 채권은 파산 위험이 낮게 평가되지만, 만기 보유 성향 탓에 유통시장이 활발하지 않을 수 있어 급히 현금화할 때 가격 리스크가 있다. 출처: hankyung.com."
+      },
+      "en": {
+        "title": "KB Kookmin Bank Subordinated Bond Guide: AA Rating, 4.412% Yield",
+        "excerpt": "Hankyung reported on May 7, 2026, that KB Kookmin Bank’s subordinated bond offers an AA rating and a 4.412% pre-tax annualized yield, while investors must weigh repayment priority and liquidity risks.",
+        "body": "Hankyung reported on May 7, 2026, on the terms and cautions for investing in KB Kookmin Bank’s subordinated bond. As of the article, the bond had an AA credit rating, a 4.412% pre-tax annualized yield and 3 years and 317 days remaining. Interest is paid every three months, and a 10 million won investment would return 11,554,824 won before tax at maturity, the report said. Subordinated bonds rank below ordinary senior bonds in bankruptcy or liquidation, so they typically offer rates 1.5 to 3 percentage points higher than general corporate bonds. Bonds issued by strong financial institutions are viewed as having low default risk, but secondary-market trading may be thin because many holders keep them to maturity, creating price risk if cash is needed quickly. Source: hankyung.com."
+      },
+      "ja": {
+        "title": "KB国民銀行の劣後債投資ガイド、AA格付けと年4.412%利回りに注目",
+        "excerpt": "韓国経済新聞は2026年5月7日、KB国民銀行の劣後債がAA格付けと税引き前年4.412%の換算利回りを示す一方、弁済順位と流動性リスクの確認が必要だと伝えた。",
+        "body": "韓国経済新聞は2026年5月7日、KB国民銀行の劣後債について投資条件と注意点を整理した。記事時点で同債券の信用格付けはAA、税引き前換算利回りは年4.412%、残存期間は3年317日。利息は3カ月ごとに支払われ、1000万ウォンを投資した場合、満期時に税引き前で1155万4824ウォンを受け取れると説明した。劣後債は企業の破産や清算時に一般の優先債より弁済順位が低いため、通常の社債より1.5～3ポイント高い金利を提供する。優良金融機関の発行債は破産リスクが低いとみられるが、満期保有の傾向が強く流通市場が活発でない場合があり、急いで現金化する際の価格リスクに注意が必要だ。出典: hankyung.com."
+      },
+      "zh": {
+        "title": "KB国民银行次级债投资指南：AA评级与4.412%年化收益率",
+        "excerpt": "韩国经济新闻2026年5月7日报道，KB国民银行次级债具有AA信用评级和税前年化4.412%收益率，但投资者需关注偿付顺序和流动性风险。",
+        "body": "韩国经济新闻2026年5月7日报道了KB国民银行次级债的投资条件和注意事项。按报道时点，该债券信用评级为AA，税前年化收益率为4.412%，剩余期限为3年317天。利息每3个月支付一次，投资1000万韩元到期可获得税前1155万4824韩元。次级债在企业破产或清算时的偿付顺序低于普通优先债，因此通常比一般公司债提供高出1.5至3个百分点的利率。优质金融机构发行的债券被认为实际破产风险较低，但由于投资者多倾向持有至到期，二级市场交易可能不活跃，急需变现时存在价格风险。来源: hankyung.com."
+      },
+      "es": {
+        "title": "Guía del bono subordinado de KB Kookmin: rating AA y rendimiento del 4,412%",
+        "excerpt": "Hankyung informó el 7 de mayo de 2026 que el bono subordinado de KB Kookmin ofrece calificación AA y rendimiento anualizado antes de impuestos del 4,412%, aunque exige revisar prioridad de cobro y liquidez.",
+        "body": "Hankyung informó el 7 de mayo de 2026 sobre las condiciones y cautelas del bono subordinado de KB Kookmin Bank. Según el artículo, el bono tiene calificación crediticia AA, rendimiento anualizado antes de impuestos del 4,412% y un plazo restante de 3 años y 317 días. Paga intereses cada tres meses, y una inversión de 10 millones de wones devolvería 11.554.824 wones antes de impuestos al vencimiento. Los bonos subordinados cobran después de los bonos sénior ordinarios en una quiebra o liquidación, por lo que suelen ofrecer tasas 1,5 a 3 puntos porcentuales superiores a las de bonos corporativos generales. En emisores financieros sólidos el riesgo de quiebra se considera bajo, pero el mercado secundario puede ser poco activo por la tendencia a mantenerlos hasta vencimiento, lo que implica riesgo de precio si se necesita liquidez rápida. Fuente: hankyung.com."
+      },
+      "pt": {
+        "title": "Guia do subordinado do KB Kookmin: rating AA e retorno anual de 4,412%",
+        "excerpt": "O Hankyung informou em 7 de maio de 2026 que o subordinado do KB Kookmin tem rating AA e rendimento anualizado antes de impostos de 4,412%, mas exige atenção à ordem de pagamento e à liquidez.",
+        "body": "O Hankyung informou em 7 de maio de 2026 as condições e os cuidados do investimento no título subordinado do KB Kookmin Bank. Segundo a reportagem, o papel tem rating AA, rendimento anualizado antes de impostos de 4,412% e prazo restante de 3 anos e 317 dias. Os juros são pagos a cada três meses, e um investimento de 10 milhões de wons renderia 11.554.824 wons antes de impostos no vencimento. Títulos subordinados ficam atrás de bonds seniores comuns na ordem de pagamento em caso de falência ou liquidação, por isso normalmente oferecem taxas 1,5 a 3 pontos percentuais acima das de debêntures corporativas gerais. Em instituições financeiras sólidas, o risco de falência é visto como baixo, mas o mercado secundário pode ser pouco ativo porque muitos investidores mantêm o papel até o vencimento, criando risco de preço se houver necessidade de venda rápida. Fonte: hankyung.com."
+      },
+      "de": {
+        "title": "KB-Kookmin-Nachrangbond im Fokus: AA-Rating und 4,412% Rendite",
+        "excerpt": "Hankyung berichtete am 7. Mai 2026, dass der Nachrangbond der KB Kookmin Bank ein AA-Rating und 4,412% Vorsteuer-Rendite bietet, Anleger aber Rangfolge und Liquiditätsrisiken prüfen müssen.",
+        "body": "Hankyung berichtete am 7. Mai 2026 über Konditionen und Risiken des Nachrangbonds der KB Kookmin Bank. Laut Artikel hat die Anleihe ein AA-Kreditrating, eine annualisierte Vorsteuer-Rendite von 4,412% und eine Restlaufzeit von 3 Jahren und 317 Tagen. Zinsen werden alle drei Monate gezahlt; eine Anlage von 10 Mio. Won würde bei Fälligkeit vor Steuern 11.554.824 Won zurückbringen. Nachrangige Anleihen stehen bei Insolvenz oder Liquidation hinter gewöhnlichen vorrangigen Anleihen und bieten daher meist 1,5 bis 3 Prozentpunkte höhere Zinsen als allgemeine Unternehmensanleihen. Bei starken Finanzinstituten gilt das Ausfallrisiko als niedrig, doch der Sekundärmarkt kann wegen der Neigung zum Halten bis zur Fälligkeit wenig aktiv sein. Wer schnell Bargeld braucht, trägt deshalb Preisrisiken. Quelle: hankyung.com."
+      },
+      "fr": {
+        "title": "Obligation subordonnée KB Kookmin: note AA et rendement annuel de 4,412%",
+        "excerpt": "Hankyung a rapporté le 7 mai 2026 que l’obligation subordonnée de KB Kookmin affiche une note AA et un rendement annualisé avant impôt de 4,412%, avec des risques de rang de remboursement et de liquidité.",
+        "body": "Hankyung a présenté le 7 mai 2026 les conditions et points de vigilance de l’obligation subordonnée de KB Kookmin Bank. Selon l’article, le titre est noté AA, offre un rendement annualisé avant impôt de 4,412% et conserve une durée restante de 3 ans et 317 jours. Les intérêts sont versés tous les trois mois; un investissement de 10 millions de wons rapporterait 11.554.824 wons avant impôt à l’échéance. Les obligations subordonnées sont remboursées après les obligations seniors ordinaires en cas de faillite ou de liquidation, ce qui explique des taux généralement supérieurs de 1,5 à 3 points à ceux des obligations d’entreprise classiques. Pour les institutions financières solides, le risque de faillite est jugé faible, mais le marché secondaire peut être peu actif car les investisseurs tendent à conserver ces titres jusqu’à l’échéance, créant un risque de prix en cas de vente urgente. Source: hankyung.com."
+      },
+      "ar": {
+        "title": "دليل سندات KB كوكمين الثانوية: تصنيف AA وعائد سنوي 4.412%",
+        "excerpt": "أفادت هانكيونغ في 7 مايو 2026 بأن سند KB كوكمين الثانوي يحمل تصنيف AA وعائدا سنويا قبل الضريبة 4.412%، لكن المستثمرين عليهم مراعاة أولوية السداد ومخاطر السيولة.",
+        "body": "نشرت هانكيونغ في 7 مايو 2026 عرضا لشروط سند KB كوكمين بنك الثانوي ونقاط الحذر عند الاستثمار فيه. وبحسب التقرير، يحمل السند تصنيفا ائتمانيا AA، وعائدا سنويا معادلا قبل الضريبة قدره 4.412%، وتبقى عليه 3 سنوات و317 يوما. تدفع الفائدة كل ثلاثة أشهر، واستثمار 10 ملايين وون يعيد عند الاستحقاق 11,554,824 وون قبل الضريبة. السندات الثانوية تأتي بعد السندات الممتازة العادية في ترتيب السداد عند الإفلاس أو التصفية، لذلك تقدم عادة فائدة أعلى بنحو 1.5 إلى 3 نقاط مئوية من سندات الشركات العامة. أما سندات المؤسسات المالية القوية فينظر إلى خطر إفلاسها الفعلي على أنه منخفض، لكن سوق التداول قد لا يكون نشطا بسبب ميل المستثمرين للاحتفاظ بها حتى الاستحقاق، ما يخلق خطر سعر عند الحاجة إلى تسييل سريع. المصدر: hankyung.com."
+      },
+      "hi": {
+        "title": "KB कूकमिन बैंक सबऑर्डिनेटेड बॉन्ड गाइड: AA रेटिंग, 4.412% यील्ड",
+        "excerpt": "Hankyung ने 7 मई 2026 को बताया कि KB कूकमिन बैंक का सबऑर्डिनेटेड बॉन्ड AA क्रेडिट रेटिंग और कर-पूर्व 4.412% वार्षिकीकृत यील्ड देता है, पर भुगतान क्रम और तरलता जोखिम पर ध्यान जरूरी है।",
+        "body": "Hankyung ने 7 मई 2026 को KB कूकमिन बैंक के सबऑर्डिनेटेड बॉन्ड की निवेश शर्तें और सावधानियां बताईं। लेख के अनुसार, इस बॉन्ड की क्रेडिट रेटिंग AA है, कर-पूर्व वार्षिकीकृत यील्ड 4.412% है और शेष अवधि 3 साल 317 दिन है। ब्याज हर तीन महीने में मिलता है, और 1 करोड़ वॉन निवेश करने पर परिपक्वता पर कर से पहले 11,554,824 वॉन मिल सकते हैं। सबऑर्डिनेटेड बॉन्ड में दिवालिया या परिसमापन की स्थिति में भुगतान क्रम सामान्य वरिष्ठ बॉन्ड से नीचे होता है, इसलिए ये आम कॉरपोरेट बॉन्ड से सामान्यतः 1.5 से 3 प्रतिशत अंक अधिक दर देते हैं। मजबूत वित्तीय संस्थानों के ऐसे बॉन्ड में वास्तविक दिवालिया जोखिम कम माना जाता है, लेकिन निवेशक इन्हें परिपक्वता तक रखने की प्रवृत्ति रखते हैं, जिससे द्वितीयक बाजार कम सक्रिय हो सकता है और जल्दी नकदी चाहिए तो मूल्य जोखिम बनता है। स्रोत: hankyung.com."
+      },
+      "id": {
+        "title": "Panduan Obligasi Subordinasi KB Kookmin: Rating AA, Imbal Hasil 4,412%",
+        "excerpt": "Hankyung melaporkan pada 7 Mei 2026 bahwa obligasi subordinasi KB Kookmin memiliki rating AA dan imbal hasil tahunan sebelum pajak 4,412%, tetapi investor perlu mencermati prioritas pembayaran dan risiko likuiditas.",
+        "body": "Hankyung pada 7 Mei 2026 mengulas syarat investasi dan hal yang perlu diperhatikan pada obligasi subordinasi KB Kookmin Bank. Menurut artikel tersebut, obligasi ini memiliki peringkat kredit AA, imbal hasil tahunan sebelum pajak 4,412%, dan sisa tenor 3 tahun 317 hari. Bunga dibayar setiap tiga bulan, dan investasi 10 juta won akan menghasilkan 11.554.824 won sebelum pajak saat jatuh tempo. Obligasi subordinasi memiliki urutan pembayaran di bawah obligasi senior biasa saat perusahaan bangkrut atau dilikuidasi, sehingga umumnya menawarkan bunga 1,5 hingga 3 poin persentase lebih tinggi daripada obligasi korporasi umum. Untuk lembaga keuangan yang kuat, risiko kebangkrutan dinilai rendah, tetapi pasar sekunder bisa kurang aktif karena banyak investor menahan hingga jatuh tempo, sehingga ada risiko harga bila perlu dicairkan cepat. Sumber: hankyung.com."
+      }
+    }
+  },
+  {
+    "id": "eee4135e3f76",
+    "slug": "중동-협상-불확실성에-하락-마감다우-06-뉴욕증시-브리핑-729730",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-05-08T00:18:44.661Z",
+    "updatedAt": "2026-05-08T00:18:44.661Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/2026050829106",
+    "canonicalUrl": "https://www.hankyung.com/article/2026050829106",
+    "titleFingerprint": "c26717bd563f12d7422dbf8299a1d3d5c5c22525",
+    "dedupKeys": [
+      "eee4135e3f7602b3b3964a99eeec3ded472f3030",
+      "c26717bd563f12d7422dbf8299a1d3d5c5c22525",
+      "fb9dcc60020a31d6b67f35f006d68e46bdf3f91c"
+    ],
+    "imageUrl": "/images/articles/eee4135e3f76.jpg",
+    "i18n": {
+      "ko": {
+        "title": "중동 협상 불확실성에 뉴욕증시 하락 마감, 다우 0.6% 내려",
+        "excerpt": "뉴욕증시는 중동 협상 불확실성이 투자심리를 누르며 하락 마감했고, 다우지수는 0.6% 떨어진 것으로 전해졌다.",
+        "body": "뉴욕증시가 중동 협상 불확실성의 영향으로 하락 마감했다. 한국경제 보도에 따르면 시장은 중동 관련 협상 흐름을 주시하는 가운데 불확실성이 커지자 위험자산 선호가 약해졌고, 다우지수는 0.6% 내렸다. 이번 하락은 지정학적 변수와 협상 전망이 투자심리에 직접 반영된 결과로 해석된다. 향후 증시는 중동 협상의 진행 상황과 이에 따른 투자자들의 위험 회피 심리 변화에 영향을 받을 수 있다. 출처: hankyung.com"
+      },
+      "en": {
+        "title": "New York Stocks Fall on Middle East Talks Uncertainty; Dow Drops 0.6%",
+        "excerpt": "New York stocks closed lower as uncertainty over Middle East negotiations weighed on sentiment, with the Dow reported down 0.6%.",
+        "body": "New York stocks closed lower as uncertainty surrounding Middle East negotiations weighed on the market. According to a Korea Economic Daily report, investors watched developments in the talks, while rising uncertainty weakened appetite for risk assets. The Dow Jones Industrial Average fell 0.6%. The decline reflected how geopolitical issues and the outlook for negotiations fed directly into investor sentiment. Going forward, the market may remain sensitive to progress in Middle East talks and changes in risk-avoidance behavior. Source: hankyung.com"
+      },
+      "ja": {
+        "title": "中東協議の不透明感でNY株下落、ダウ平均は0.6％安で終了",
+        "excerpt": "ニューヨーク株式市場は中東協議を巡る不透明感が投資心理を圧迫し、ダウ平均は0.6％下落して取引を終えた。",
+        "body": "ニューヨーク株式市場は、中東協議を巡る不透明感の影響で下落して取引を終えた。韓国経済新聞の報道によると、市場は中東関連の協議動向を注視するなか、不確実性の高まりでリスク資産への選好が弱まり、ダウ平均は0.6％下落した。今回の下落は、地政学的要因と協議の見通しが投資心理に直接反映された結果と受け止められる。今後の相場は、中東協議の進展と投資家のリスク回避姿勢の変化に左右される可能性がある。出典: hankyung.com"
+      },
+      "zh": {
+        "title": "中东谈判不确定性拖累纽约股市收低，道指下跌0.6%",
+        "excerpt": "纽约股市因中东谈判不确定性压制投资情绪而收低，据报道道琼斯指数下跌0.6%。",
+        "body": "纽约股市在中东谈判不确定性的影响下收低。据韩国经济新闻报道，市场持续关注中东相关谈判进展，但不确定性上升削弱了风险资产偏好，道琼斯指数下跌0.6%。此次下跌反映出地缘政治因素和谈判前景直接影响投资者情绪。展望后市，纽约股市可能继续受到中东谈判进展以及投资者风险规避情绪变化的影响。来源: hankyung.com"
+      },
+      "es": {
+        "title": "Wall Street cierra a la baja por incertidumbre en Oriente Medio; Dow cae 0,6%",
+        "excerpt": "Wall Street cerró a la baja porque la incertidumbre sobre las negociaciones en Oriente Medio presionó el ánimo inversor; el Dow cayó 0,6%.",
+        "body": "La Bolsa de Nueva York cerró a la baja por el impacto de la incertidumbre en torno a las negociaciones de Oriente Medio. Según informó The Korea Economic Daily, el mercado siguió de cerca la evolución de esas conversaciones, mientras el aumento de la incertidumbre redujo el apetito por activos de riesgo. El índice Dow Jones bajó un 0,6%. La caída refleja cómo los factores geopolíticos y las perspectivas de negociación se trasladaron directamente al sentimiento inversor. En adelante, el mercado podría verse influido por el avance de las conversaciones y los cambios en la aversión al riesgo. Fuente: hankyung.com"
+      },
+      "pt": {
+        "title": "Wall Street fecha em queda com incerteza no Oriente Médio; Dow recua 0,6%",
+        "excerpt": "As bolsas de Nova York fecharam em queda, pressionadas pela incerteza sobre negociações no Oriente Médio; o Dow recuou 0,6%.",
+        "body": "As bolsas de Nova York fecharam em queda sob o impacto da incerteza em torno das negociações no Oriente Médio. Segundo o Korea Economic Daily, o mercado acompanhou os desdobramentos das conversas relacionadas à região, enquanto o aumento da incerteza reduziu o apetite por ativos de risco. O índice Dow Jones caiu 0,6%. O recuo mostra como fatores geopolíticos e a perspectiva das negociações se refletiram diretamente no sentimento dos investidores. Daqui em diante, o mercado pode ser influenciado pelo andamento das conversas no Oriente Médio e por mudanças na aversão ao risco. Fonte: hankyung.com"
+      },
+      "de": {
+        "title": "New Yorker Börse fällt wegen Unsicherheit um Nahost-Gespräche; Dow minus 0,6%",
+        "excerpt": "Die New Yorker Börse schloss schwächer, da Unsicherheit über Nahost-Verhandlungen die Stimmung belastete; der Dow fiel um 0,6%.",
+        "body": "Die New Yorker Börse hat wegen der Unsicherheit rund um Verhandlungen im Nahen Osten schwächer geschlossen. Laut einem Bericht der Korea Economic Daily beobachtete der Markt die Entwicklung der Gespräche, während die zunehmende Unsicherheit die Nachfrage nach Risikoanlagen dämpfte. Der Dow Jones fiel um 0,6%. Der Rückgang zeigt, wie geopolitische Faktoren und der Ausblick auf Verhandlungen unmittelbar auf die Anlegerstimmung wirkten. Künftig könnte der Markt weiter von Fortschritten bei den Nahost-Gesprächen und Veränderungen der Risikovermeidung beeinflusst werden. Quelle: hankyung.com"
+      },
+      "fr": {
+        "title": "Wall Street recule avec l’incertitude au Moyen-Orient; le Dow Jones perd 0,6%",
+        "excerpt": "Wall Street a clôturé en baisse, l’incertitude autour des négociations au Moyen-Orient pesant sur le moral des investisseurs; le Dow a perdu 0,6%.",
+        "body": "La Bourse de New York a terminé en baisse sous l’effet de l’incertitude entourant les négociations au Moyen-Orient. Selon The Korea Economic Daily, le marché a suivi l’évolution des discussions liées à la région, tandis que la montée de l’incertitude a affaibli l’appétit pour les actifs risqués. Le Dow Jones a reculé de 0,6%. Cette baisse montre que les facteurs géopolitiques et les perspectives de négociation se sont directement reflétés dans le sentiment des investisseurs. À l’avenir, le marché pourrait rester sensible aux progrès des discussions et aux variations de l’aversion au risque. Source: hankyung.com"
+      },
+      "ar": {
+        "title": "أسهم نيويورك تغلق منخفضة بفعل ضبابية مفاوضات الشرق الأوسط وداو يهبط 0.6%",
+        "excerpt": "أغلقت أسهم نيويورك على انخفاض مع ضغط عدم اليقين بشأن مفاوضات الشرق الأوسط على شهية المستثمرين، فيما تراجع داو جونز 0.6%.",
+        "body": "أغلقت أسهم نيويورك على انخفاض متأثرة بعدم اليقين المحيط بمفاوضات الشرق الأوسط. ووفق تقرير لصحيفة كوريا الاقتصادية، تابع السوق تطورات المحادثات المرتبطة بالمنطقة، بينما أدى تصاعد الضبابية إلى إضعاف الإقبال على الأصول عالية المخاطر. وتراجع مؤشر داو جونز الصناعي 0.6%. ويعكس هذا الهبوط تأثير العوامل الجيوسياسية وآفاق التفاوض مباشرة في معنويات المستثمرين. وقد تظل السوق لاحقا متأثرة بتقدم مفاوضات الشرق الأوسط وبأي تغير في نزعة تجنب المخاطر. المصدر: hankyung.com"
+      },
+      "hi": {
+        "title": "मध्य पूर्व वार्ता की अनिश्चितता से न्यूयॉर्क शेयर गिरे, डाउ 0.6% नीचे",
+        "excerpt": "मध्य पूर्व वार्ता को लेकर अनिश्चितता से निवेशक भावना कमजोर हुई और न्यूयॉर्क शेयर बाजार गिरकर बंद हुआ; डाउ 0.6% टूटा।",
+        "body": "न्यूयॉर्क शेयर बाजार मध्य पूर्व वार्ता से जुड़ी अनिश्चितता के असर में गिरावट के साथ बंद हुआ। कोरिया इकोनॉमिक डेली की रिपोर्ट के अनुसार, बाजार ने क्षेत्र से संबंधित बातचीत की दिशा पर नजर रखी, जबकि बढ़ती अनिश्चितता ने जोखिम वाली संपत्तियों के प्रति रुझान कमजोर किया। डाउ जोन्स सूचकांक 0.6% गिरा। यह गिरावट दिखाती है कि भू-राजनीतिक कारक और वार्ता की संभावनाएं सीधे निवेशक भावना में झलकीं। आगे बाजार मध्य पूर्व वार्ता की प्रगति और जोखिम से बचने की प्रवृत्ति में बदलाव से प्रभावित हो सकता है। स्रोत: hankyung.com"
+      },
+      "id": {
+        "title": "Bursa New York Melemah karena Ketidakpastian Timur Tengah; Dow Turun 0,6%",
+        "excerpt": "Bursa New York ditutup melemah karena ketidakpastian negosiasi Timur Tengah menekan sentimen investor; Dow turun 0,6%.",
+        "body": "Bursa New York ditutup melemah akibat ketidakpastian seputar negosiasi Timur Tengah. Menurut laporan Korea Economic Daily, pasar mencermati perkembangan pembicaraan terkait kawasan tersebut, sementara meningkatnya ketidakpastian melemahkan minat terhadap aset berisiko. Indeks Dow Jones turun 0,6%. Penurunan ini menunjukkan bagaimana faktor geopolitik dan prospek negosiasi langsung tercermin pada sentimen investor. Ke depan, pasar dapat dipengaruhi oleh perkembangan negosiasi Timur Tengah serta perubahan sikap investor terhadap penghindaran risiko. Sumber: hankyung.com"
+      }
+    }
+  },
+  {
     "id": "6dc5198ee3b9",
     "slug": "gs리테일-편의점-점포-효율화-성과-확인목표가-db-359185",
     "channelId": "ETF",
@@ -4271,231 +4496,6 @@
         "title": "Saham Konstruksi dan Mesin Menguat Saat Perang AS-Iran Dikabarkan Dekat Berakhir",
         "excerpt": "Menurut Korea Exchange pada tanggal 7, kabar bahwa perang AS-Iran mendekati akhir mendorong ekspektasi permintaan rekonstruksi infrastruktur Timur Tengah dan menggerakkan saham konstruksi serta mesin.",
         "body": "Menurut Korea Exchange pada tanggal 7, saham sektor konstruksi dan mesin di pasar Korea Selatan menguat setelah muncul kabar bahwa perang antara Amerika Serikat dan Iran mungkin mendekati akhir. Kemungkinan berakhirnya konflik membuat ekspektasi atas permintaan rekonstruksi infrastruktur di Timur Tengah meningkat dan tercermin dalam sentimen investor. Laporan asli menyebut pergerakan saham sektor terkait, termasuk Samsung E&A, dibandingkan hari perdagangan sebelumnya. Pasar mencermati apakah perang benar-benar berakhir dan apakah permintaan rekonstruksi menjadi lebih konkret, karena faktor ini dapat memengaruhi pergerakan saham terkait. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "236ba92caf82",
-    "slug": "100번-싸워도-위태롭지-않게김경록의-불태-포트폴리오2026-서울머니쇼-109483",
-    "channelId": "ETF",
-    "category": "etf",
-    "publishedAt": "2026-05-07T11:29:38.395Z",
-    "updatedAt": "2026-05-07T11:29:38.395Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/stock/12039442",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12039442",
-    "titleFingerprint": "6d58028d46d35d10191d6564be8f903badf2883a",
-    "dedupKeys": [
-      "236ba92caf8244f6a86d83803c1da159eb40d3da",
-      "6d58028d46d35d10191d6564be8f903badf2883a",
-      "63f659c1f93fe8d3550f8e582805dd5a32e9bcf1"
-    ],
-    "imageUrl": "/images/articles/236ba92caf82.jpg",
-    "i18n": {
-      "ko": {
-        "title": "김경록 불태 포트폴리오, 서울머니쇼서 강조한 리스크 관리와 코어 자산 전략",
-        "excerpt": "김경록 옵투스자산운용 고문은 2026 서울머니쇼에서 투자 손실을 피하려면 리스크 관리가 중요하며 자산의 70%는 코어 자산에 둬야 한다고 강조했다.",
-        "body": "김경록 옵투스자산운용 고문은 2026 서울머니쇼에서 투자자가 장기적으로 위태롭지 않으려면 리스크 관리가 핵심이라고 밝혔다. ‘미래에셋맨’으로 알려진 김 고문은 “투자는 덧셈이 아니라 곱셈”이라며 한 번 크게 손실을 내면 그동안의 성과가 훼손될 수 있다고 설명했다. 그는 포트폴리오의 70%는 코어 자산으로 두고, 우량자산과 현금흐름, 분산투자를 중심에 둬야 한다고 말했다. 시장 변동성이 커질수록 수익률보다 손실 방어와 자산 배분의 중요성이 부각될 전망이다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Kim Kyung-rok’s ‘Bultae’ Portfolio: Risk Control and Core Assets at Seoul Money Show",
-        "excerpt": "At the 2026 Seoul Money Show, Optus Asset Management adviser Kim Kyung-rok stressed risk control and said 70% of assets should remain in core holdings.",
-        "body": "Kim Kyung-rok, adviser at Optus Asset Management, said at the 2026 Seoul Money Show that risk management is essential for investors who want to avoid long-term instability. Known as a former “Mirae Asset man,” Kim said investing is not addition but multiplication, explaining that one large loss can damage years of accumulated performance. He said 70% of a portfolio should be held in core assets, with quality assets, cash flow and diversification at the center. As market volatility rises, loss control and asset allocation are expected to matter more than chasing returns. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "金慶録氏の不泰ポートフォリオ、ソウルマネーショーで語ったリスク管理",
-        "excerpt": "オプタス資産運用の金慶録顧問は2026ソウルマネーショーで、損失回避にはリスク管理が重要で資産の70%はコア資産に置くべきだと強調した。",
-        "body": "オプタス資産運用の金慶録顧問は、2026ソウルマネーショーで、投資家が長期的に危うくならないためにはリスク管理が核心だと述べた。「未来アセットマン」として知られる金顧問は、投資は足し算ではなく掛け算だとし、一度大きな損失を出せばそれまでの成果が損なわれる可能性があると説明した。ポートフォリオの70%はコア資産に置き、優良資産、キャッシュフロー、分散投資を中心にすべきだと語った。市場変動性が高まるほど、収益率より損失防御と資産配分の重要性が目立つ見通しだ。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "金京录“不殆”投资组合：首尔Money Show强调风险管理与核心资产",
-        "excerpt": "Optus资产管理顾问金京录在2026首尔Money Show上强调，避免投资损失关键在风险管理，资产70%应配置于核心资产。",
-        "body": "Optus资产管理顾问金京录在2026首尔Money Show上表示，投资者若要长期保持稳健，风险管理是核心。被称为“未来资产人”的金顾问说，投资不是加法而是乘法，并解释称，一次重大亏损可能会损害此前积累的成果。他表示，投资组合的70%应放在核心资产上，并以优质资产、现金流和分散投资为中心。随着市场波动性加大，相比追逐收益率，防范损失和资产配置的重要性预计将更加突出。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Cartera ‘Bultae’ de Kim Kyung-rok: riesgo y activos core en Seoul Money Show",
-        "excerpt": "En Seoul Money Show 2026, Kim Kyung-rok, asesor de Optus Asset Management, dijo que controlar el riesgo es clave y que el 70% debe estar en activos core.",
-        "body": "Kim Kyung-rok, asesor de Optus Asset Management, afirmó en Seoul Money Show 2026 que la gestión del riesgo es esencial para que los inversores no queden expuestos a largo plazo. Conocido como un antiguo “hombre de Mirae Asset”, Kim dijo que invertir no es sumar, sino multiplicar, y explicó que una gran pérdida puede deteriorar los resultados acumulados durante años. Señaló que el 70% de una cartera debe mantenerse en activos core, con activos de calidad, flujo de caja y diversificación como ejes. A medida que aumente la volatilidad del mercado, la defensa ante pérdidas y la asignación de activos ganarán peso frente a la búsqueda de rentabilidad. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Portfólio ‘Bultae’ de Kim Kyung-rok: risco e ativos core no Seoul Money Show",
-        "excerpt": "No Seoul Money Show 2026, Kim Kyung-rok, assessor da Optus Asset Management, destacou a gestão de risco e disse que 70% deve ficar em ativos core.",
-        "body": "Kim Kyung-rok, assessor da Optus Asset Management, afirmou no Seoul Money Show 2026 que a gestão de risco é essencial para que investidores não fiquem vulneráveis no longo prazo. Conhecido como ex-“homem da Mirae Asset”, Kim disse que investir não é adição, mas multiplicação, explicando que uma grande perda pode comprometer anos de desempenho acumulado. Ele afirmou que 70% do portfólio deve ficar em ativos core, com ativos de qualidade, fluxo de caixa e diversificação no centro. Com maior volatilidade de mercado, a proteção contra perdas e a alocação de ativos devem ganhar importância sobre a busca por retorno. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Kim Kyung-roks ‘Bultae’-Portfolio: Risikomanagement und Kernanlagen im Fokus",
-        "excerpt": "Beim Seoul Money Show 2026 betonte Optus-Berater Kim Kyung-rok die Bedeutung von Risikomanagement und sagte, 70% sollten in Kernanlagen liegen.",
-        "body": "Kim Kyung-rok, Berater bei Optus Asset Management, sagte auf der Seoul Money Show 2026, Risikomanagement sei entscheidend, damit Anleger langfristig nicht in Gefahr geraten. Der als früherer „Mirae-Asset-Mann“ bekannte Kim erklärte, Investieren sei keine Addition, sondern Multiplikation: Ein großer Verlust könne die bis dahin erzielten Ergebnisse beschädigen. Nach seinen Worten sollten 70% eines Portfolios in Kernanlagen gehalten werden, mit Qualitätsanlagen, Cashflow und Diversifikation als Schwerpunkt. Je stärker die Marktvolatilität zunimmt, desto wichtiger dürften Verlustbegrenzung und Asset Allocation gegenüber der reinen Renditesuche werden. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Portefeuille ‘Bultae’ de Kim Kyung-rok : risque et actifs cœur au Seoul Money Show",
-        "excerpt": "Au Seoul Money Show 2026, Kim Kyung-rok, conseiller chez Optus Asset Management, a souligné le contrôle du risque et recommandé 70% d’actifs cœur.",
-        "body": "Kim Kyung-rok, conseiller chez Optus Asset Management, a déclaré au Seoul Money Show 2026 que la gestion du risque est essentielle pour éviter une fragilité durable des investisseurs. Connu comme ancien “homme de Mirae Asset”, Kim a expliqué que l’investissement n’est pas une addition mais une multiplication: une forte perte peut effacer des performances accumulées. Il a indiqué que 70% d’un portefeuille devraient rester dans des actifs cœur, avec des actifs de qualité, des flux de trésorerie et la diversification comme piliers. Avec la hausse de la volatilité, la protection contre les pertes et l’allocation d’actifs devraient primer sur la seule recherche de rendement. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "محفظة كيم كيونغ روك: إدارة المخاطر والأصول الأساسية في معرض سيول للمال",
-        "excerpt": "في معرض سيول للمال 2026، شدد مستشار أوبتوس لإدارة الأصول كيم كيونغ روك على إدارة المخاطر، قائلا إن 70% من الأصول يجب أن تبقى في مراكز أساسية.",
-        "body": "قال كيم كيونغ روك، مستشار أوبتوس لإدارة الأصول، في معرض سيول للمال 2026 إن إدارة المخاطر هي الأساس كي لا يصبح المستثمرون في وضع هش على المدى الطويل. وشرح كيم، المعروف بأنه من رجال ميراى أسيت سابقا، أن الاستثمار ليس جمعا بل ضربا، لأن خسارة كبيرة واحدة قد تضر بالنتائج المتراكمة لسنوات. وأضاف أن 70% من المحفظة يجب أن تكون في أصول أساسية، مع التركيز على الأصول الجيدة والتدفقات النقدية والتنويع. ومع ارتفاع تقلبات السوق، يتوقع أن تبرز أهمية حماية رأس المال وتوزيع الأصول أكثر من ملاحقة العائد. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "किम क्यंग-रोक का ‘बुल्ते’ पोर्टफोलियो: सियोल मनी शो में जोखिम प्रबंधन पर जोर",
-        "excerpt": "2026 सियोल मनी शो में ऑप्टस एसेट मैनेजमेंट के सलाहकार किम क्यंग-रोक ने जोखिम प्रबंधन को अहम बताया और कहा कि 70% संपत्ति कोर एसेट में होनी चाहिए।",
-        "body": "ऑप्टस एसेट मैनेजमेंट के सलाहकार किम क्यंग-रोक ने 2026 सियोल मनी शो में कहा कि निवेशकों को लंबे समय तक अस्थिरता से बचाने के लिए जोखिम प्रबंधन सबसे अहम है। ‘मिराए एसेट मैन’ के रूप में पहचाने जाने वाले किम ने कहा कि निवेश जोड़ नहीं, बल्कि गुणा है, क्योंकि एक बड़ी गलती वर्षों की उपलब्धि को नुकसान पहुंचा सकती है। उन्होंने कहा कि पोर्टफोलियो का 70% कोर एसेट में होना चाहिए और उच्च गुणवत्ता वाली संपत्ति, नकदी प्रवाह तथा विविधीकरण को केंद्र में रखना चाहिए। बाजार में उतार-चढ़ाव बढ़ने पर रिटर्न से ज्यादा नुकसान से बचाव और एसेट एलोकेशन की अहमियत बढ़ सकती है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Portofolio ‘Bultae’ Kim Kyung-rok: Risiko dan Aset Inti di Seoul Money Show",
-        "excerpt": "Di Seoul Money Show 2026, penasihat Optus Asset Management Kim Kyung-rok menekankan manajemen risiko dan menyebut 70% aset perlu ditempatkan pada aset inti.",
-        "body": "Kim Kyung-rok, penasihat Optus Asset Management, mengatakan di Seoul Money Show 2026 bahwa manajemen risiko adalah kunci agar investor tidak rentan dalam jangka panjang. Dikenal sebagai mantan “orang Mirae Asset”, Kim menjelaskan bahwa investasi bukan penjumlahan, melainkan perkalian, karena satu kerugian besar dapat merusak hasil yang telah dikumpulkan selama ini. Ia mengatakan 70% portofolio sebaiknya berada pada aset inti, dengan aset berkualitas, arus kas, dan diversifikasi sebagai pusat strategi. Saat volatilitas pasar meningkat, perlindungan dari kerugian dan alokasi aset diperkirakan lebih penting daripada mengejar imbal hasil. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "95305bbd3637",
-    "slug": "전쟁-끝나도-끝이-아니다방산주-조정은-매수-기회-2026-서울머니쇼-706661",
-    "channelId": "ETF",
-    "category": "etf",
-    "publishedAt": "2026-05-07T11:28:43.425Z",
-    "updatedAt": "2026-05-07T11:28:43.425Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/business/12039474",
-    "canonicalUrl": "https://www.mk.co.kr/news/business/12039474",
-    "titleFingerprint": "f3f6357211177d767c87ef5dd629b311c48219b0",
-    "dedupKeys": [
-      "95305bbd36379dc42e6e0ca806fb658b2cc59aaa",
-      "f3f6357211177d767c87ef5dd629b311c48219b0",
-      "c32ce7047a01a49b806a8f7f603c9193e95c4049"
-    ],
-    "imageUrl": "/images/articles/95305bbd3637.jpg",
-    "i18n": {
-      "ko": {
-        "title": "방산주 조정은 매수 기회…변용진 “전쟁 끝나도 공급 부족과 성장 사이클 지속”",
-        "excerpt": "변용진 iM증권 연구위원은 2026년 5월 7일 서울 코엑스 서울머니쇼에서 방산 시장의 핵심은 수요가 아닌 공급 문제라며 방산주 조정을 매수 기회로 봤다.",
-        "body": "변용진 iM증권 연구위원은 2026년 5월 7일 서울 삼성동 강남 코엑스에서 열린 ‘서울머니쇼’ 강연에서 방위산업과 방산주를 주제로 시장 상황을 진단했다. 그는 “지금 시장은 수요가 아니라 공급의 문제다”라고 말하며, 전쟁이 끝나더라도 방산 산업의 성장 사이클이 쉽게 꺾이지 않을 것이라고 설명했다. 배경으로는 우크라이나 전쟁 이후 글로벌 방산 시장의 구조적 변화가 제시됐다. 유럽 국가들은 냉전 이후 20~30년에 걸쳐 무기 재고를 줄여왔고, 전쟁으로 남은 재고도 빠르게 소진됐다. 유럽·미국 무기 공급망 붕괴로 생산이 수요를 따라가지 못하는 상황이라는 분석이다. 이에 방산주 조정은 매수 기회가 될 수 있다는 시각을 제시했다. 출처: mk.co.kr."
-      },
-      "en": {
-        "title": "Defense Stocks: Pullbacks Seen as Buying Chance as Supply Shortage Persists After War",
-        "excerpt": "Byun Yong-jin of iM Securities said at the Seoul Money Show on May 7, 2026, that defense stocks face a supply, not demand, issue, making pullbacks a potential buying opportunity.",
-        "body": "Byun Yong-jin, a research fellow at iM Securities, discussed the defense industry and defense stocks at the Seoul Money Show held at COEX in Samseong-dong, Gangnam, Seoul, on May 7, 2026. He said, “The current market is not a demand problem but a supply problem,” and argued that the defense industry’s growth cycle is unlikely to break easily even if a war ends. The background is the structural change left by the war in Ukraine. European countries had reduced weapons inventories for 20 to 30 years after the Cold War, and the war quickly depleted the remaining stockpiles. With European and U.S. weapons supply chains disrupted, production is not keeping up with demand. In that context, he viewed corrections in defense stocks as potential buying opportunities. Source: mk.co.kr."
-      },
-      "ja": {
-        "title": "防衛株の調整は買い機会、戦争後も供給不足と成長サイクル続くとの見方",
-        "excerpt": "iM証券のピョン・ヨンジン研究委員は2026年5月7日のソウルマネーショーで、防衛市場の焦点は需要ではなく供給問題だと述べた。",
-        "body": "iM証券のピョン・ヨンジン研究委員は、2026年5月7日にソウル・三成洞の江南COEXで開かれた「ソウルマネーショー」の講演で、防衛産業と防衛株について市場環境を診断した。同氏は「現在の市場は需要ではなく供給の問題だ」と述べ、戦争が終わっても防衛産業の成長サイクルは簡単には崩れないとの見方を示した。背景として、ウクライナ戦争が世界の防衛市場に残した構造的変化を挙げた。欧州諸国は冷戦後の20～30年にわたり兵器在庫を減らしてきたうえ、戦争で残存在庫も急速に消耗した。欧米の兵器供給網の崩れにより、生産が需要に追いつかない状況だという。このため、防衛株の調整は買い機会になり得るとした。出所: mk.co.kr."
-      },
-      "zh": {
-        "title": "防务股回调被视为买入机会，战争结束后供应短缺与成长周期仍延续",
-        "excerpt": "iM证券研究委员卞勇珍在2026年5月7日首尔Money Show上表示，防务市场的核心不是需求，而是供应问题。",
-        "body": "iM证券研究委员卞勇珍于2026年5月7日在首尔三成洞江南COEX举行的“首尔Money Show”演讲中，围绕防务产业和防务股判断市场形势。他表示，“当前市场不是需求问题，而是供应问题”，并说明即使战争结束，防务产业的成长周期也不容易被打断。其背景是乌克兰战争给全球防务市场留下的结构性变化。欧洲国家在冷战后的20至30年间持续削减武器库存，而战争又使剩余库存迅速消耗。由于欧洲和美国武器供应链受损，生产难以跟上需求。基于这一判断，他提出防务股回调可能成为买入机会。来源: mk.co.kr."
-      },
-      "es": {
-        "title": "Acciones de defensa: la corrección sería oportunidad ante escasez de oferta tras la guerra",
-        "excerpt": "Byun Yong-jin, de iM Securities, dijo el 7 de mayo de 2026 en Seoul Money Show que el mercado de defensa enfrenta un problema de oferta, no de demanda.",
-        "body": "Byun Yong-jin, investigador de iM Securities, analizó la industria de defensa y las acciones del sector en una conferencia del Seoul Money Show, celebrada el 7 de mayo de 2026 en COEX, Samseong-dong, Gangnam, Seúl. Señaló que “el mercado actual no es un problema de demanda, sino de oferta” y explicó que el ciclo de crecimiento de la defensa no se rompería fácilmente incluso si termina una guerra. Como contexto, citó el cambio estructural que dejó la guerra en Ucrania en el mercado global de defensa. Los países europeos redujeron inventarios de armas durante 20 a 30 años tras la Guerra Fría, y la guerra agotó con rapidez las existencias restantes. Con las cadenas de suministro de armas de Europa y Estados Unidos afectadas, la producción no alcanza a la demanda. Por ello, consideró que una corrección en acciones de defensa puede ser una oportunidad de compra. Fuente: mk.co.kr."
-      },
-      "pt": {
-        "title": "Ações de defesa: correção pode ser compra com falta de oferta mesmo após guerra",
-        "excerpt": "Byun Yong-jin, da iM Securities, afirmou em 7 de maio de 2026 no Seoul Money Show que o mercado de defesa enfrenta um problema de oferta, não de demanda.",
-        "body": "Byun Yong-jin, pesquisador da iM Securities, avaliou a indústria de defesa e as ações do setor em palestra no Seoul Money Show, realizado em 7 de maio de 2026 no COEX, em Samseong-dong, Gangnam, Seul. Ele disse que “o mercado atual não é um problema de demanda, mas de oferta” e explicou que o ciclo de crescimento da indústria de defesa dificilmente seria interrompido mesmo com o fim de uma guerra. O pano de fundo é a mudança estrutural deixada pela guerra na Ucrânia no mercado global de defesa. Países europeus reduziram estoques de armas por 20 a 30 anos após a Guerra Fria, e a guerra consumiu rapidamente os estoques restantes. Com cadeias de fornecimento de armas da Europa e dos EUA abaladas, a produção não acompanha a demanda. Nesse contexto, ele viu correções em ações de defesa como possíveis oportunidades de compra. Fonte: mk.co.kr."
-      },
-      "de": {
-        "title": "Rüstungsaktien: Rücksetzer als Kaufchance, da Angebotsmangel auch nach Krieg anhält",
-        "excerpt": "Byun Yong-jin von iM Securities sagte am 7. Mai 2026 auf der Seoul Money Show, im Verteidigungsmarkt gehe es um Angebot, nicht um Nachfrage.",
-        "body": "Byun Yong-jin, Research Fellow bei iM Securities, bewertete am 7. Mai 2026 auf der Seoul Money Show im COEX in Samseong-dong, Gangnam, Seoul, die Lage der Verteidigungsindustrie und der Rüstungsaktien. Er sagte: „Der aktuelle Markt ist kein Nachfrageproblem, sondern ein Angebotsproblem“, und erklärte, der Wachstumszyklus der Verteidigungsindustrie werde selbst nach dem Ende eines Krieges nicht leicht abbrechen. Hintergrund sei der strukturelle Wandel, den der Krieg in der Ukraine im globalen Rüstungsmarkt hinterlassen habe. Europäische Länder hatten nach dem Kalten Krieg über 20 bis 30 Jahre Waffenbestände abgebaut, und der Krieg verbrauchte die verbliebenen Vorräte schnell. Wegen gestörter Waffenlieferketten in Europa und den USA kann die Produktion die Nachfrage nicht decken. Daher könnten Rücksetzer bei Rüstungsaktien eine Kaufchance sein. Quelle: mk.co.kr."
-      },
-      "fr": {
-        "title": "Actions de défense: repli vu comme occasion d’achat, l’offre restant sous tension après la guerre",
-        "excerpt": "Byun Yong-jin d’iM Securities a déclaré le 7 mai 2026 au Seoul Money Show que le marché de la défense fait face à un problème d’offre, non de demande.",
-        "body": "Byun Yong-jin, chercheur chez iM Securities, a analysé l’industrie de la défense et les actions du secteur lors du Seoul Money Show, organisé le 7 mai 2026 au COEX de Samseong-dong, Gangnam, à Séoul. Il a déclaré que « le marché actuel n’est pas un problème de demande, mais d’offre » et a expliqué que le cycle de croissance de la défense ne se briserait pas facilement même si une guerre prenait fin. Le contexte tient au changement structurel laissé par la guerre en Ukraine sur le marché mondial de la défense. Les pays européens avaient réduit leurs stocks d’armes pendant 20 à 30 ans après la guerre froide, puis la guerre a rapidement épuisé les stocks restants. Avec des chaînes d’approvisionnement d’armes en Europe et aux États-Unis perturbées, la production ne suit pas la demande. Dans ce cadre, il a estimé qu’un repli des actions de défense pouvait offrir une occasion d’achat. Source: mk.co.kr."
-      },
-      "ar": {
-        "title": "أسهم الدفاع: التراجع فرصة شراء مع استمرار نقص الإمدادات حتى بعد انتهاء الحرب",
-        "excerpt": "قال بيون يونغ-جين من iM Securities في معرض سيول للمال في 7 مايو 2026 إن سوق الدفاع يواجه مشكلة عرض لا طلب، ما يجعل تراجع الأسهم فرصة محتملة.",
-        "body": "قيّم بيون يونغ-جين، الباحث في iM Securities، أوضاع صناعة الدفاع وأسهمها خلال محاضرة في “معرض سيول للمال” الذي عُقد في 7 مايو 2026 في مركز COEX بمنطقة سامسونغ-دونغ في غانغنام، سيول. وقال إن “السوق الحالية ليست مشكلة طلب بل مشكلة عرض”، موضحا أن دورة نمو صناعة الدفاع لن تنكسر بسهولة حتى إذا انتهت الحرب. ويرتبط ذلك بالتغير الهيكلي الذي خلّفته حرب أوكرانيا في سوق الدفاع العالمية. فقد خفضت الدول الأوروبية مخزونات الأسلحة على مدى 20 إلى 30 عاما بعد الحرب الباردة، ثم استنزفت الحرب المخزونات المتبقية بسرعة. ومع اضطراب سلاسل توريد الأسلحة في أوروبا والولايات المتحدة، لا يواكب الإنتاج الطلب. لذلك رأى أن تراجع أسهم الدفاع قد يكون فرصة شراء. المصدر: mk.co.kr."
-      },
-      "hi": {
-        "title": "डिफेंस शेयरों में गिरावट खरीदारी का मौका, युद्ध के बाद भी आपूर्ति कमी जारी",
-        "excerpt": "iM Securities के ब्योन योंग-जिन ने 7 मई 2026 को Seoul Money Show में कहा कि डिफेंस बाजार की मुख्य समस्या मांग नहीं, बल्कि आपूर्ति है।",
-        "body": "iM Securities के रिसर्च फेलो ब्योन योंग-जिन ने 7 मई 2026 को सियोल के सैमसंग-डोंग, गंगनम COEX में आयोजित “Seoul Money Show” में डिफेंस उद्योग और डिफेंस शेयरों पर बाजार स्थिति का आकलन किया। उन्होंने कहा, “मौजूदा बाजार मांग की नहीं, आपूर्ति की समस्या है,” और बताया कि युद्ध समाप्त होने पर भी डिफेंस उद्योग का विकास चक्र आसानी से नहीं टूटेगा। पृष्ठभूमि में यूक्रेन युद्ध से वैश्विक डिफेंस बाजार में आया संरचनात्मक बदलाव है। यूरोपीय देशों ने शीत युद्ध के बाद 20 से 30 वर्षों तक हथियार भंडार घटाए, और युद्ध ने बचे हुए भंडार को भी तेजी से खत्म कर दिया। यूरोप और अमेरिका की हथियार आपूर्ति श्रृंखला कमजोर होने से उत्पादन मांग के साथ नहीं चल पा रहा है। इसी वजह से उन्होंने डिफेंस शेयरों में गिरावट को संभावित खरीदारी अवसर माना। स्रोत: mk.co.kr."
-      },
-      "id": {
-        "title": "Saham Pertahanan: Koreksi Jadi Peluang Beli Saat Kekurangan Pasokan Berlanjut",
-        "excerpt": "Byun Yong-jin dari iM Securities mengatakan di Seoul Money Show pada 7 Mei 2026 bahwa pasar pertahanan menghadapi masalah pasokan, bukan permintaan.",
-        "body": "Byun Yong-jin, peneliti iM Securities, membahas industri pertahanan dan saham pertahanan dalam kuliah di Seoul Money Show yang digelar pada 7 Mei 2026 di COEX, Samseong-dong, Gangnam, Seoul. Ia mengatakan, “Pasar saat ini bukan masalah permintaan, melainkan masalah pasokan,” dan menjelaskan bahwa siklus pertumbuhan industri pertahanan tidak akan mudah patah meski perang berakhir. Latar belakangnya adalah perubahan struktural yang ditinggalkan perang Ukraina pada pasar pertahanan global. Negara-negara Eropa telah mengurangi stok senjata selama 20 hingga 30 tahun setelah Perang Dingin, lalu perang dengan cepat menguras stok yang tersisa. Dengan terganggunya rantai pasok senjata Eropa dan AS, produksi belum mampu mengejar permintaan. Karena itu, koreksi pada saham pertahanan dapat dilihat sebagai peluang beli. Sumber: mk.co.kr."
-      }
-    }
-  },
-  {
-    "id": "cabecdf26930",
-    "slug": "한달새-43-두산-그룹etf수익률-1위-289519",
-    "channelId": "ETF",
-    "category": "etf",
-    "publishedAt": "2026-05-07T11:27:26.247Z",
-    "updatedAt": "2026-05-07T11:27:26.248Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/stock/12039481",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12039481",
-    "titleFingerprint": "7206960a8e5bd66a0d443e92d0d17fd2890d5732",
-    "dedupKeys": [
-      "cabecdf2693027c8349ce3cc56ad114438b49ef0",
-      "7206960a8e5bd66a0d443e92d0d17fd2890d5732",
-      "d665cf1988f03061fc26e9c5da153682bdd84bfd"
-    ],
-    "imageUrl": "/images/articles/cabecdf26930.jpg",
-    "i18n": {
-      "ko": {
-        "title": "두산 그룹ETF 한 달 43% 상승, AI 데이터센터 투자 열풍 속 수익률 1위",
-        "excerpt": "두산 그룹주 ETF가 최근 한 달 43% 상승하며 그룹 ETF 수익률 1위에 올랐다. AI 데이터센터 투자 확대가 전력망·반도체 소재·로보틱스 밸류체인 보유 기업에 주목도를 높였다.",
-        "body": "글로벌 인공지능(AI) 데이터센터 투자 열풍이 최근 한 달 그룹주 상장지수펀드(ETF) 수익률 판도를 바꾸고 있다. 두산 그룹주 ETF는 한 달 새 43% 상승하며 그룹 ETF 수익률 1위에 올랐다. 배경에는 AI 데이터센터 확대와 맞물린 전력망, 반도체 소재, 로보틱스 관련 밸류체인에 대한 시장 관심이 있다. 원문은 두산그룹이 이 세 분야를 AI 밸류체인의 핵심 퍼즐로 갖췄다고 전했다. 이에 따라 그룹주 ETF 시장에서도 AI 인프라와 연결된 사업 포트폴리오가 수익률 차이를 만드는 요인으로 부각되고 있다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Doosan Group ETF Jumps 43% in One Month, Leads Returns Amid AI Data Center Boom",
-        "excerpt": "A Doosan group-stock ETF rose 43% over the past month, ranking first among group ETFs, as AI data center investment lifted attention on power grids, chip materials and robotics value chains.",
-        "body": "A global investment boom in artificial intelligence data centers is reshaping returns among group-stock exchange-traded funds. A Doosan group ETF rose 43% in one month, taking the top spot for returns among group ETFs. The move reflects market attention on value chains linked to expanding AI data centers, including power grids, semiconductor materials and robotics. The original report said Doosan Group has assembled these three areas as core pieces of the AI value chain. As a result, business portfolios tied to AI infrastructure are emerging as a factor that separates performance in the group ETF market. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "斗山グループETFが1カ月で43%上昇、AIデータセンター投資熱で収益率首位",
-        "excerpt": "斗山グループ株ETFは直近1カ月で43%上昇し、グループETFの収益率で首位に立った。AIデータセンター投資拡大が電力網、半導体素材、ロボティクスへの関心を高めた。",
-        "body": "世界的な人工知能（AI）データセンター投資ブームが、グループ株上場投資信託（ETF）の収益率の勢力図を変えている。斗山グループ株ETFは1カ月で43%上昇し、グループETFの収益率で1位となった。背景には、AIデータセンター拡大と結びつく電力網、半導体素材、ロボティクス関連バリューチェーンへの市場の関心がある。原文は、斗山グループがこの3分野をAIバリューチェーンの中核要素として備えていると伝えた。これにより、AIインフラとつながる事業ポートフォリオがグループETF市場で収益率を分ける要因として浮上している。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "斗山集团ETF一个月上涨43%，AI数据中心投资热潮下收益率居首",
-        "excerpt": "斗山集团股ETF近一个月上涨43%，在集团ETF收益率中排名第一。AI数据中心投资扩大，提高了市场对电网、半导体材料和机器人价值链的关注。",
-        "body": "全球人工智能（AI）数据中心投资热潮，正在改变集团股交易型开放式指数基金（ETF）的收益格局。斗山集团股ETF一个月内上涨43%，位居集团ETF收益率第一。其背景是，随着AI数据中心扩张，市场对电网、半导体材料和机器人相关价值链的关注升温。原文称，斗山集团已具备这三个领域，构成AI价值链的关键拼图。因此，在集团股ETF市场中，与AI基础设施相关的业务组合正成为拉开收益率差距的因素。来源：mk.co.kr"
-      },
-      "es": {
-        "title": "ETF del grupo Doosan sube 43% en un mes y lidera rentabilidad por auge de centros de datos de IA",
-        "excerpt": "El ETF de acciones del grupo Doosan subió 43% en el último mes y lideró la rentabilidad entre los ETF de grupos, impulsado por el interés en redes eléctricas, materiales de chips y robótica vinculados a la IA.",
-        "body": "La fiebre mundial de inversión en centros de datos de inteligencia artificial está cambiando el mapa de rentabilidad de los fondos cotizados de acciones de grupos empresariales. El ETF del grupo Doosan subió 43% en un mes y ocupó el primer lugar en rentabilidad entre los ETF de grupos. El contexto es el mayor interés del mercado por cadenas de valor relacionadas con la expansión de centros de datos de IA, como redes eléctricas, materiales para semiconductores y robótica. El texto original señaló que Doosan Group reúne estas tres piezas clave de la cadena de valor de la IA. Así, las carteras de negocios vinculadas a infraestructura de IA destacan como un factor que diferencia los retornos en el mercado de ETF de grupos. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "ETF do grupo Doosan sobe 43% em um mês e lidera retorno com alta dos data centers de IA",
-        "excerpt": "O ETF de ações do grupo Doosan avançou 43% no último mês e liderou os retornos entre ETFs de grupos, com o investimento em data centers de IA elevando o foco em redes elétricas, materiais de chips e robótica.",
-        "body": "A onda global de investimentos em data centers de inteligência artificial está mudando o mapa de retornos dos fundos de índice de ações de grupos empresariais. O ETF do grupo Doosan subiu 43% em um mês e ficou em primeiro lugar em retorno entre os ETFs de grupos. O pano de fundo é o interesse do mercado em cadeias de valor ligadas à expansão dos data centers de IA, incluindo redes elétricas, materiais para semicondutores e robótica. O texto original informou que o Doosan Group reúne essas três áreas como peças centrais da cadeia de valor da IA. Com isso, portfólios de negócios conectados à infraestrutura de IA ganham destaque como fator de diferença nos retornos do mercado de ETFs de grupos. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Doosan-Gruppen-ETF steigt in einem Monat um 43% und führt Renditen im KI-Rechenzentrumsboom an",
-        "excerpt": "Ein Doosan-Gruppen-ETF legte im vergangenen Monat um 43% zu und führte die Renditen unter Gruppen-ETFs an, da KI-Rechenzentrumsinvestitionen den Fokus auf Stromnetze, Chipmaterialien und Robotik lenkten.",
-        "body": "Der weltweite Investitionsboom bei Rechenzentren für künstliche Intelligenz verändert die Renditelandschaft von börsengehandelten Fonds auf Konzernaktien. Ein ETF auf die Doosan-Gruppe stieg innerhalb eines Monats um 43% und belegte den ersten Platz bei den Renditen unter Gruppen-ETFs. Hintergrund ist das Marktinteresse an Wertschöpfungsketten, die mit dem Ausbau von KI-Rechenzentren verbunden sind, darunter Stromnetze, Halbleitermaterialien und Robotik. Der Originalbericht schrieb, dass die Doosan-Gruppe diese drei Bereiche als zentrale Bausteine der KI-Wertschöpfungskette vereint. Damit rücken Geschäftsportfolios mit Bezug zur KI-Infrastruktur als Faktor für Renditeunterschiede im Gruppen-ETF-Markt in den Vordergrund. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "L’ETF du groupe Doosan gagne 43% en un mois et domine les rendements avec l’essor des data centers IA",
-        "excerpt": "L’ETF d’actions du groupe Doosan a progressé de 43% en un mois et s’est classé premier des ETF de groupes, porté par l’intérêt pour les réseaux électriques, les matériaux de puces et la robotique liés à l’IA.",
-        "body": "La vague mondiale d’investissements dans les centres de données d’intelligence artificielle modifie la hiérarchie des rendements des ETF d’actions de groupes. L’ETF du groupe Doosan a gagné 43% en un mois et pris la première place des rendements parmi les ETF de groupes. Ce mouvement s’explique par l’attention du marché portée aux chaînes de valeur liées à l’expansion des centres de données IA, notamment les réseaux électriques, les matériaux pour semi-conducteurs et la robotique. L’article original indique que Doosan Group réunit ces trois domaines comme des pièces centrales de la chaîne de valeur de l’IA. Les portefeuilles d’activités connectés à l’infrastructure IA apparaissent ainsi comme un facteur de différenciation des performances sur le marché des ETF de groupes. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "صندوق ETF لمجموعة دوسان يرتفع 43% في شهر ويتصدر العوائد مع طفرة مراكز بيانات الذكاء الاصطناعي",
-        "excerpt": "ارتفع صندوق ETF لأسهم مجموعة دوسان 43% خلال شهر، متصدرا عوائد صناديق المجموعات، مع زيادة استثمارات مراكز بيانات الذكاء الاصطناعي التي رفعت الاهتمام بشبكات الكهرباء ومواد الرقائق والروبوتات.",
-        "body": "تغير موجة الاستثمار العالمية في مراكز بيانات الذكاء الاصطناعي خريطة عوائد صناديق المؤشرات المتداولة لأسهم المجموعات. فقد ارتفع صندوق ETF لأسهم مجموعة دوسان 43% خلال شهر واحد، ليحتل المركز الأول في العائد بين صناديق ETF للمجموعات. ويأتي ذلك على خلفية اهتمام السوق بسلاسل القيمة المرتبطة بتوسع مراكز بيانات الذكاء الاصطناعي، بما يشمل شبكات الكهرباء ومواد أشباه الموصلات والروبوتات. وذكر التقرير الأصلي أن مجموعة دوسان تمتلك هذه المجالات الثلاثة باعتبارها قطعا أساسية في سلسلة قيمة الذكاء الاصطناعي. لذلك يبرز ارتباط محافظ الأعمال ببنية الذكاء الاصطناعي التحتية كعامل يميز العوائد في سوق صناديق ETF للمجموعات. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "दूसान ग्रुप ETF एक महीने में 43% चढ़ा, AI डेटा सेंटर निवेश उछाल में रिटर्न में शीर्ष पर",
-        "excerpt": "दूसान समूह शेयर ETF पिछले एक महीने में 43% बढ़कर समूह ETF रिटर्न में पहले स्थान पर रहा। AI डेटा सेंटर निवेश विस्तार ने बिजली ग्रिड, सेमीकंडक्टर सामग्री और रोबोटिक्स वैल्यू चेन पर ध्यान बढ़ाया।",
-        "body": "कृत्रिम बुद्धिमत्ता डेटा सेंटरों में वैश्विक निवेश की लहर समूह शेयरों पर आधारित एक्सचेंज ट्रेडेड फंडों के रिटर्न की तस्वीर बदल रही है। दूसान समूह शेयर ETF एक महीने में 43% चढ़ा और समूह ETF रिटर्न में पहले स्थान पर पहुंच गया। इसके पीछे AI डेटा सेंटरों के विस्तार से जुड़ी बिजली ग्रिड, सेमीकंडक्टर सामग्री और रोबोटिक्स वैल्यू चेन में बाजार की बढ़ती रुचि है। मूल रिपोर्ट के अनुसार, Doosan Group ने इन तीन क्षेत्रों को AI वैल्यू चेन की अहम कड़ियों के रूप में जोड़ा है। इस कारण AI इंफ्रास्ट्रक्चर से जुड़े बिजनेस पोर्टफोलियो समूह ETF बाजार में रिटर्न के अंतर को प्रभावित करने वाले कारक के रूप में उभर रहे हैं। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "ETF Grup Doosan Naik 43% dalam Sebulan, Pimpin Imbal Hasil di Tengah Ledakan Data Center AI",
-        "excerpt": "ETF saham Grup Doosan naik 43% dalam sebulan terakhir dan memimpin imbal hasil ETF grup, karena investasi data center AI meningkatkan minat pada jaringan listrik, material semikonduktor, dan robotika.",
-        "body": "Gelombang investasi global pada data center kecerdasan buatan mengubah peta imbal hasil exchange-traded fund berbasis saham grup usaha. ETF saham Grup Doosan naik 43% dalam satu bulan dan menempati posisi pertama dalam imbal hasil ETF grup. Latar belakangnya adalah perhatian pasar pada rantai nilai yang terkait dengan perluasan data center AI, termasuk jaringan listrik, material semikonduktor, dan robotika. Laporan asli menyebut Doosan Group memiliki ketiga bidang tersebut sebagai bagian penting dari rantai nilai AI. Karena itu, portofolio bisnis yang terhubung dengan infrastruktur AI menjadi faktor yang menonjol dalam membedakan imbal hasil di pasar ETF grup. Sumber: mk.co.kr"
       }
     }
   }
