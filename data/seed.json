@@ -1,5 +1,230 @@
 [
   {
+    "id": "b98bc6b8071a",
+    "slug": "신보-네스트-ai랩-개소서울-동북권-첫-스타트업-보육시설-988432",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-05-09T15:57:11.839Z",
+    "updatedAt": "2026-05-09T15:57:11.839Z",
+    "sourceName": "yna.co.kr",
+    "sourceUrl": "https://www.yna.co.kr/view/AKR20260508077900002",
+    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260508077900002",
+    "titleFingerprint": "a1f8dee40dc5ce494649ae993e28d3ab7c06cfe3",
+    "dedupKeys": [
+      "b98bc6b8071a5367f40c14d14eb198096d37e5c6",
+      "a1f8dee40dc5ce494649ae993e28d3ab7c06cfe3",
+      "33df8734f5e4cdb2458db35b15299ecce51bc124"
+    ],
+    "imageUrl": "/images/articles/b98bc6b8071a.jpg",
+    "i18n": {
+      "ko": {
+        "title": "신보 네스트 AI랩 광진 개소, 서울 동북권 첫 스타트업 보육시설 주목",
+        "excerpt": "신용보증기금이 스타트업 보육 공간 ‘네스트 AI랩 광진’을 열었다. 서울 동북권 첫 스타트업 보육시설로, AI 창업기업 지원 거점으로 소개됐다.",
+        "body": "신용보증기금(신보)의 스타트업 보육 공간인 ‘네스트(NEST) AI-랩(Lab) 광진’이 개소했다고 연합뉴스가 보도했다. 이 시설은 서울 동북권에 처음 마련된 스타트업 보육시설로 소개됐다. 네스트 AI랩 광진은 신보가 운영하는 창업기업 보육 공간이라는 점에서 지역 기반 스타트업 지원 인프라로 주목된다. 특히 명칭에서 드러나듯 AI, 즉 인공지능 분야와 연결된 창업 보육 거점으로 자리매김할 가능성이 있다. 서울 동북권에 첫 보육시설이 들어서면서 해당 권역의 초기 창업기업이 활용할 수 있는 공간 선택지도 넓어질 전망이다. 출처: yna.co.kr"
+      },
+      "en": {
+        "title": "KODIT Opens NEST AI Lab Gwangjin, First Startup Incubator in Northeast Seoul",
+        "excerpt": "Korea Credit Guarantee Fund has opened NEST AI Lab Gwangjin, described as the first startup incubation facility in northeast Seoul and a new base for AI startups.",
+        "body": "Korea Credit Guarantee Fund, known as KODIT, has opened “NEST AI Lab Gwangjin,” a startup incubation space, Yonhap News Agency reported. The facility was introduced as the first startup incubator established in northeast Seoul. NEST AI Lab Gwangjin is drawing attention as a regional support space for startup companies because it is operated by KODIT as part of its NEST incubation program. As its name indicates, the site is also linked to AI, or artificial intelligence, and is expected to function as an incubation base for companies in that field. With the first such facility now in northeast Seoul, early-stage startups in the area are expected to have another space option for growth support. Source: yna.co.kr"
+      },
+      "ja": {
+        "title": "信用保証基金、NEST AIラボ広津を開所 ソウル東北圏初の育成施設",
+        "excerpt": "韓国信用保証基金がスタートアップ育成空間「NEST AIラボ広津」を開所した。ソウル東北圏初の育成施設として、AI創業企業の拠点に位置づけられる。",
+        "body": "韓国信用保証基金（KODIT）のスタートアップ育成空間「NEST AIラボ広津」が開所したと、聯合ニュースが報じた。同施設はソウル東北圏に初めて設けられたスタートアップ育成施設として紹介された。NEST AIラボ広津は、信用保証基金が運営する創業企業向けの育成空間である点から、地域のスタートアップ支援インフラとして注目される。名称が示す通り、AI、すなわち人工知能分野と結びついた創業育成拠点としての役割も見込まれる。ソウル東北圏に初の施設ができたことで、同地域の初期スタートアップが活用できる空間の選択肢は広がる見通しだ。出典: yna.co.kr"
+      },
+      "zh": {
+        "title": "韩国信用保证基金开设NEST AI实验室广津，首尔东北圈首个孵化设施",
+        "excerpt": "韩国信用保证基金开设创业孵化空间“NEST AI实验室广津”。该设施被介绍为首尔东北圈首个创业孵化设施，也是AI创业企业支持据点。",
+        "body": "据韩联社报道，韩国信用保证基金的创业孵化空间“NEST AI实验室广津”已经开设。该设施被介绍为首尔东北圈首次设立的创业孵化设施。NEST AI实验室广津由信用保证基金运营，面向创业企业提供孵化空间，因此作为区域性创业支持基础设施受到关注。从名称可以看出，该空间也与AI，即人工智能领域相关，有望成为相关创业企业的孵化据点。随着首尔东北圈出现首个此类设施，该地区早期创业企业可利用的空间选择预计将进一步扩大。来源: yna.co.kr"
+      },
+      "es": {
+        "title": "KODIT abre NEST AI Lab Gwangjin, primera incubadora de startups del noreste de Seúl",
+        "excerpt": "El Fondo de Garantía de Crédito de Corea abrió NEST AI Lab Gwangjin, presentado como la primera incubadora de startups del noreste de Seúl y base para empresas de IA.",
+        "body": "El Fondo de Garantía de Crédito de Corea, conocido como KODIT, abrió “NEST AI Lab Gwangjin”, un espacio de incubación para startups, informó la agencia Yonhap. La instalación fue presentada como la primera incubadora de startups establecida en el noreste de Seúl. NEST AI Lab Gwangjin llama la atención como infraestructura regional de apoyo a empresas emergentes, ya que forma parte de los espacios de incubación operados por KODIT. Como indica su nombre, también está vinculada con la IA, es decir, la inteligencia artificial, y puede funcionar como base de incubación para compañías de ese campo. Con esta primera instalación en la zona, las startups en etapa inicial del noreste de Seúl tendrán una nueva opción de espacio de apoyo. Fuente: yna.co.kr"
+      },
+      "pt": {
+        "title": "KODIT abre NEST AI Lab Gwangjin, primeira incubadora de startups no nordeste de Seul",
+        "excerpt": "O Fundo de Garantia de Crédito da Coreia abriu o NEST AI Lab Gwangjin, apresentado como a primeira incubadora de startups do nordeste de Seul e base para empresas de IA.",
+        "body": "O Fundo de Garantia de Crédito da Coreia, conhecido como KODIT, abriu o “NEST AI Lab Gwangjin”, um espaço de incubação para startups, informou a agência Yonhap. A instalação foi apresentada como a primeira incubadora de startups criada no nordeste de Seul. O NEST AI Lab Gwangjin chama atenção como infraestrutura regional de apoio a empresas emergentes, pois é um espaço de incubação operado pelo KODIT. Como o nome indica, o local também está ligado à IA, ou inteligência artificial, e pode atuar como uma base de incubação para companhias dessa área. Com a chegada da primeira instalação desse tipo ao nordeste de Seul, startups em estágio inicial da região passam a ter mais uma opção de espaço de apoio. Fonte: yna.co.kr"
+      },
+      "de": {
+        "title": "KODIT eröffnet NEST AI Lab Gwangjin, erstes Startup-Zentrum im Nordosten Seouls",
+        "excerpt": "Der Korea Credit Guarantee Fund hat das NEST AI Lab Gwangjin eröffnet. Es gilt als erste Startup-Inkubationseinrichtung im Nordosten Seouls und als Basis für KI-Gründer.",
+        "body": "Der Korea Credit Guarantee Fund, kurz KODIT, hat mit dem “NEST AI Lab Gwangjin” einen Inkubationsraum für Startups eröffnet, berichtete die Nachrichtenagentur Yonhap. Die Einrichtung wurde als erstes Startup-Inkubationszentrum im Nordosten Seouls vorgestellt. Das NEST AI Lab Gwangjin steht im Fokus, weil es von KODIT als Raum zur Betreuung junger Unternehmen betrieben wird und damit zur regionalen Startup-Infrastruktur gehört. Wie der Name zeigt, ist der Standort zudem mit KI, also künstlicher Intelligenz, verbunden und kann als Inkubationsbasis für Unternehmen in diesem Bereich dienen. Mit der ersten solchen Einrichtung im Nordosten Seouls erhalten frühe Startups der Region eine weitere räumliche Unterstützungsoption. Quelle: yna.co.kr"
+      },
+      "fr": {
+        "title": "KODIT ouvre NEST AI Lab Gwangjin, premier incubateur de startups du nord-est de Séoul",
+        "excerpt": "Le Korea Credit Guarantee Fund a ouvert NEST AI Lab Gwangjin, présenté comme le premier incubateur de startups du nord-est de Séoul et un point d’appui pour l’IA.",
+        "body": "Le Korea Credit Guarantee Fund, ou KODIT, a ouvert “NEST AI Lab Gwangjin”, un espace d’incubation pour startups, a rapporté l’agence Yonhap. Le site a été présenté comme la première installation d’incubation de startups créée dans le nord-est de Séoul. NEST AI Lab Gwangjin attire l’attention comme infrastructure régionale de soutien aux jeunes entreprises, car il s’agit d’un espace d’incubation exploité par KODIT. Comme son nom l’indique, il est également lié à l’IA, c’est-à-dire à l’intelligence artificielle, et peut servir de base d’incubation pour les entreprises de ce domaine. Avec cette première installation dans le nord-est de Séoul, les startups en phase initiale de la zone disposeront d’une option supplémentaire de soutien. Source: yna.co.kr"
+      },
+      "ar": {
+        "title": "كوديت يفتتح NEST AI Lab Gwangjin كأول حاضنة للشركات الناشئة شمال شرق سول",
+        "excerpt": "افتتح صندوق ضمان الائتمان الكوري مساحة NEST AI Lab Gwangjin، المقدمة كأول منشأة لاحتضان الشركات الناشئة في شمال شرق سول وقاعدة لدعم شركات الذكاء الاصطناعي.",
+        "body": "افتتح صندوق ضمان الائتمان الكوري، المعروف باسم كوديت، مساحة احتضان للشركات الناشئة تحمل اسم “NEST AI Lab Gwangjin”، بحسب ما نقلته وكالة يونهاب. وقد قُدمت المنشأة على أنها أول مركز لاحتضان الشركات الناشئة في منطقة شمال شرق سول. وتلفت NEST AI Lab Gwangjin الانتباه كبنية دعم إقليمية للشركات الناشئة لأنها مساحة احتضان يديرها الصندوق. وكما يوضح الاسم، ترتبط المنشأة أيضا بمجال الذكاء الاصطناعي، ويمكن أن تعمل كقاعدة احتضان للشركات العاملة في هذا المجال. ومع افتتاح أول منشأة من هذا النوع في شمال شرق سول، ستتسع خيارات المساحات المتاحة للشركات الناشئة في مراحلها الأولى داخل المنطقة. المصدر: yna.co.kr"
+      },
+      "hi": {
+        "title": "KODIT ने खोली NEST AI Lab Gwangjin, उत्तर-पूर्व सियोल की पहली स्टार्टअप इनक्यूबेटर सुविधा",
+        "excerpt": "कोरिया क्रेडिट गारंटी फंड ने NEST AI Lab Gwangjin खोली है। इसे उत्तर-पूर्व सियोल की पहली स्टार्टअप इनक्यूबेशन सुविधा और AI कंपनियों के समर्थन केंद्र के रूप में पेश किया गया।",
+        "body": "कोरिया क्रेडिट गारंटी फंड, जिसे KODIT कहा जाता है, ने “NEST AI Lab Gwangjin” नामक स्टार्टअप इनक्यूबेशन स्पेस खोला है, योनहाप समाचार एजेंसी ने रिपोर्ट किया। इस सुविधा को उत्तर-पूर्व सियोल में स्थापित पहली स्टार्टअप इनक्यूबेशन सुविधा के रूप में पेश किया गया। NEST AI Lab Gwangjin इसलिए ध्यान आकर्षित कर रही है क्योंकि यह KODIT द्वारा संचालित उद्यमी कंपनियों के लिए एक इनक्यूबेशन स्पेस है और क्षेत्रीय स्टार्टअप समर्थन ढांचे का हिस्सा बनती है। नाम से स्पष्ट है कि यह AI, यानी कृत्रिम बुद्धिमत्ता क्षेत्र से भी जुड़ी है और उस क्षेत्र की कंपनियों के लिए आधार बन सकती है। उत्तर-पूर्व सियोल में ऐसी पहली सुविधा आने से शुरुआती चरण की स्टार्टअप कंपनियों के पास समर्थन के लिए एक और स्थान विकल्प होगा। स्रोत: yna.co.kr"
+      },
+      "id": {
+        "title": "KODIT Buka NEST AI Lab Gwangjin, Inkubator Startup Pertama di Timur Laut Seoul",
+        "excerpt": "Korea Credit Guarantee Fund membuka NEST AI Lab Gwangjin, yang diperkenalkan sebagai fasilitas inkubasi startup pertama di timur laut Seoul dan basis bagi perusahaan AI.",
+        "body": "Korea Credit Guarantee Fund, atau KODIT, telah membuka “NEST AI Lab Gwangjin”, sebuah ruang inkubasi untuk startup, menurut laporan Yonhap News Agency. Fasilitas ini diperkenalkan sebagai inkubator startup pertama yang didirikan di wilayah timur laut Seoul. NEST AI Lab Gwangjin menarik perhatian sebagai infrastruktur dukungan regional bagi perusahaan rintisan karena dioperasikan oleh KODIT sebagai ruang pembinaan startup. Seperti terlihat dari namanya, fasilitas ini juga terkait dengan AI, atau kecerdasan buatan, dan dapat berfungsi sebagai basis inkubasi bagi perusahaan di bidang tersebut. Dengan hadirnya fasilitas pertama semacam ini di timur laut Seoul, startup tahap awal di kawasan itu memiliki pilihan ruang dukungan tambahan. Sumber: yna.co.kr"
+      }
+    }
+  },
+  {
+    "id": "43f13a214065",
+    "slug": "한투증권-올해-계약-이전-연금-1조원-돌파전년대비-107-466983",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-05-09T15:56:08.121Z",
+    "updatedAt": "2026-05-09T15:56:08.121Z",
+    "sourceName": "yna.co.kr",
+    "sourceUrl": "https://www.yna.co.kr/view/AKR20260508087800008",
+    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260508087800008",
+    "titleFingerprint": "5023563270cdff850437afcf7cd88bfe018abd4f",
+    "dedupKeys": [
+      "43f13a214065b16cc7145ef570165c294e461395",
+      "5023563270cdff850437afcf7cd88bfe018abd4f",
+      "ac8bee2215a960e43e0fbadf67b6f3ac12ca631b"
+    ],
+    "imageUrl": "/images/articles/43f13a214065.jpg",
+    "i18n": {
+      "ko": {
+        "title": "한국투자증권 연금 계약 이전 1조원 돌파…올해 유입액 전년 대비 107% 증가",
+        "excerpt": "한국투자증권은 8일 올해 타사에서 계약 이전으로 들어온 연금 자산이 누적 1조원을 넘어섰다고 밝혔다. 전년 대비 증가율은 107%로 집계됐다.",
+        "body": "한국투자증권은 8일 올해 타사로부터 계약 이전을 통해 유입된 연금 자산이 누적 1조원을 넘어섰다고 밝혔다. 이번 발표는 서울에서 연합뉴스 임은진 기자가 전한 내용으로, 한국투자증권의 연금 자산 이동 규모가 올해 들어 빠르게 늘어난 점을 보여준다. 회사가 밝힌 수치에 따르면 계약 이전으로 들어온 연금 자산은 전년 대비 107% 증가했다. 계약 이전은 기존 금융사에 있던 연금 계약을 다른 금융사로 옮기는 방식이다. 이번 누적 1조원 돌파와 두 자릿수를 크게 웃도는 증가율은 한국투자증권으로 유입된 연금 자산 규모가 전년보다 확대됐음을 확인해준다. 출처: yna.co.kr"
+      },
+      "en": {
+        "title": "Korea Investment Securities Pension Transfers Top 1 Trillion Won, Up 107% This Year",
+        "excerpt": "Korea Investment Securities said on the 8th that pension assets transferred from other firms this year exceeded a cumulative 1 trillion won, up 107% from a year earlier.",
+        "body": "Korea Investment Securities said on the 8th that pension assets flowing in from other companies through contract transfers this year have surpassed a cumulative 1 trillion won. The announcement, reported from Seoul by Yonhap News Agency reporter Lim Eun-jin, shows that the scale of pension asset transfers into Korea Investment Securities has grown rapidly this year. According to the company, pension assets received through contract transfers increased 107% from a year earlier. A contract transfer refers to moving an existing pension contract from one financial company to another. The cumulative 1 trillion won milestone and the 107% year-on-year rise confirm that pension assets transferred into Korea Investment Securities expanded from last year. Source: yna.co.kr"
+      },
+      "ja": {
+        "title": "韓国投資証券、年金の契約移転が1兆ウォン突破…今年107％増",
+        "excerpt": "韓国投資証券は8日、今年他社から契約移転で流入した年金資産が累計1兆ウォンを超えたと明らかにした。前年比の増加率は107％だった。",
+        "body": "韓国投資証券は8日、今年他社から契約移転を通じて流入した年金資産が累計1兆ウォンを超えたと発表した。これはソウル発で聯合ニュースのイム・ウンジン記者が伝えた内容で、韓国投資証券への年金資産移動の規模が今年拡大していることを示している。同社が明らかにした数値によると、契約移転で入ってきた年金資産は前年同期比107％増加した。契約移転は、既存の金融会社にある年金契約を別の金融会社へ移す方式を指す。累計1兆ウォン突破と107％増という数値は、韓国投資証券に流入した年金資産が前年より増えたことを確認させる。出典: yna.co.kr"
+      },
+      "zh": {
+        "title": "韩国投资证券养老金合约转移突破1万亿韩元，今年同比增长107%",
+        "excerpt": "韩国投资证券8日表示，今年从其他公司通过合约转移流入的养老金资产累计已超过1万亿韩元，同比增幅达到107%。",
+        "body": "韩国投资证券8日表示，今年从其他公司通过合约转移流入的养老金资产累计已超过1万亿韩元。该消息由韩联社记者林恩珍从首尔报道，显示今年流入韩国投资证券的养老金资产转移规模有所扩大。根据公司公布的数据，通过合约转移流入的养老金资产同比增长107%。合约转移是指将原本在一家金融机构持有的养老金合约转至另一家金融机构。累计突破1万亿韩元以及107%的同比增幅，确认了韩国投资证券今年承接的养老金资产规模较去年扩大。来源: yna.co.kr"
+      },
+      "es": {
+        "title": "Korea Investment Securities supera 1 billón de wones en traspasos de pensiones, +107% anual",
+        "excerpt": "Korea Investment Securities informó el día 8 que los activos de pensiones recibidos este año desde otras firmas por traspaso de contrato superaron 1 billón de wones, un 107% más.",
+        "body": "Korea Investment Securities informó el día 8 que los activos de pensiones ingresados este año desde otras compañías mediante traspasos de contrato superaron un acumulado de 1 billón de wones. La información, difundida desde Seúl por la periodista Lim Eun-jin de Yonhap, muestra que el volumen de activos de pensiones transferidos hacia la firma aumentó este año. Según las cifras de la compañía, los activos de pensiones recibidos por traspaso de contrato crecieron un 107% frente al año anterior. El traspaso de contrato consiste en mover un contrato de pensión existente de una entidad financiera a otra. El hito de 1 billón de wones y el aumento anual del 107% confirman una expansión respecto del año previo. Fuente: yna.co.kr"
+      },
+      "pt": {
+        "title": "Korea Investment Securities supera 1 trilhão de wons em transferências de previdência, alta de 107%",
+        "excerpt": "A Korea Investment Securities informou no dia 8 que os ativos de previdência transferidos de outras empresas neste ano superaram 1 trilhão de wons, alta anual de 107%.",
+        "body": "A Korea Investment Securities informou no dia 8 que os ativos de previdência que entraram neste ano vindos de outras empresas por meio de transferência de contrato ultrapassaram 1 trilhão de wons acumulados. A notícia, reportada de Seul pela jornalista Lim Eun-jin, da Yonhap, mostra que o volume de ativos de previdência transferidos para a companhia aumentou neste ano. Segundo os dados divulgados pela empresa, os ativos recebidos por transferência de contrato cresceram 107% em relação ao ano anterior. A transferência de contrato significa mover um contrato de previdência existente de uma instituição financeira para outra. O marco de 1 trilhão de wons confirma a ampliação frente ao ano passado. Fonte: yna.co.kr"
+      },
+      "de": {
+        "title": "Korea Investment Securities: Rentenvertragswechsel über 1 Billion Won, 107% Plus",
+        "excerpt": "Korea Investment Securities teilte am 8. mit, dass in diesem Jahr per Vertragsübertrag von anderen Firmen zugeflossene Rentenvermögen kumuliert 1 Billion Won überstiegen, 107% mehr als zuvor.",
+        "body": "Korea Investment Securities teilte am 8. mit, dass die in diesem Jahr von anderen Unternehmen per Vertragsübertrag zugeflossenen Rentenvermögen kumuliert mehr als 1 Billion Won erreicht haben. Die Meldung wurde aus Seoul von Yonhap-Reporterin Lim Eun-jin berichtet und zeigt, dass der Umfang der zu Korea Investment Securities übertragenen Rentenvermögen in diesem Jahr gestiegen ist. Nach Angaben des Unternehmens nahmen die per Vertragsübertrag eingegangenen Rentenvermögen gegenüber dem Vorjahr um 107% zu. Ein Vertragsübertrag bedeutet, dass ein bestehender Rentenvertrag von einem Finanzunternehmen zu einem anderen verlagert wird. Die Marke von 1 Billion Won und der Anstieg um 107% bestätigen die Ausweitung gegenüber dem Vorjahr. Quelle: yna.co.kr"
+      },
+      "fr": {
+        "title": "Korea Investment Securities dépasse 1 000 milliards de wons en transferts de retraite, +107%",
+        "excerpt": "Korea Investment Securities a annoncé le 8 que les actifs de retraite reçus cette année d’autres sociétés par transfert de contrat dépassaient 1 000 milliards de wons, en hausse de 107%.",
+        "body": "Korea Investment Securities a annoncé le 8 que les actifs de retraite entrés cette année depuis d’autres sociétés au moyen de transferts de contrat avaient dépassé un cumul de 1 000 milliards de wons. L’information, rapportée depuis Séoul par Lim Eun-jin de l’agence Yonhap, montre que le volume d’actifs de retraite transférés vers Korea Investment Securities a augmenté cette année. Selon les chiffres communiqués par l’entreprise, les actifs reçus par transfert de contrat ont progressé de 107% par rapport à l’année précédente. Un transfert de contrat consiste à déplacer un contrat de retraite existant d’un établissement financier vers un autre. Le seuil de 1 000 milliards de wons et la hausse de 107% confirment cette progression annuelle. Source: yna.co.kr"
+      },
+      "ar": {
+        "title": "كوريا إنفستمنت سيكيوريتيز تتجاوز تريليون وون في تحويل عقود التقاعد بزيادة 107%",
+        "excerpt": "قالت كوريا إنفستمنت سيكيوريتيز في 8 من الشهر إن أصول التقاعد الوافدة هذا العام من شركات أخرى عبر تحويل العقود تجاوزت تريليون وون، بزيادة 107% سنويا.",
+        "body": "قالت كوريا إنفستمنت سيكيوريتيز في 8 من الشهر إن أصول التقاعد التي تدفقت إليها هذا العام من شركات أخرى عبر تحويل العقود تجاوزت تراكما تريليون وون. ونقلت وكالة يونهاب من سيول، عبر الصحفية ليم أون-جين، أن حجم انتقال أصول التقاعد إلى الشركة اتسع خلال هذا العام. ووفقا للأرقام التي أعلنتها الشركة، زادت أصول التقاعد الداخلة عبر تحويل العقود بنسبة 107% مقارنة بالعام السابق. ويعني تحويل العقد نقل عقد تقاعد قائم من شركة مالية إلى شركة مالية أخرى. ويؤكد تجاوز مستوى تريليون وون، إلى جانب الزيادة السنوية البالغة 107%، أن الأصول المتدفقة إلى كوريا إنفستمنت سيكيوريتيز ارتفعت عن العام الماضي. المصدر: yna.co.kr"
+      },
+      "hi": {
+        "title": "Korea Investment Securities में पेंशन कॉन्ट्रैक्ट ट्रांसफर 1 ट्रिलियन वॉन पार, 107% वृद्धि",
+        "excerpt": "Korea Investment Securities ने 8 तारीख को कहा कि इस वर्ष अन्य कंपनियों से कॉन्ट्रैक्ट ट्रांसफर के जरिए आए पेंशन एसेट्स 1 ट्रिलियन वॉन से अधिक हो गए, सालाना वृद्धि 107% रही।",
+        "body": "Korea Investment Securities ने 8 तारीख को बताया कि इस वर्ष अन्य कंपनियों से कॉन्ट्रैक्ट ट्रांसफर के माध्यम से आए पेंशन एसेट्स का संचयी आकार 1 ट्रिलियन वॉन से अधिक हो गया है। यह जानकारी सियोल से योनहाप की पत्रकार लिम Eun-jin ने दी, जिससे कंपनी में स्थानांतरित पेंशन एसेट्स के इस वर्ष बढ़े हुए आकार का संकेत मिलता है। कंपनी के अनुसार, कॉन्ट्रैक्ट ट्रांसफर से आए पेंशन एसेट्स पिछले वर्ष की तुलना में 107% बढ़े। कॉन्ट्रैक्ट ट्रांसफर का अर्थ है किसी वित्तीय कंपनी में मौजूद पेंशन अनुबंध को दूसरी वित्तीय कंपनी में स्थानांतरित करना। 1 ट्रिलियन वॉन का स्तर और 107% वृद्धि पिछले वर्ष से विस्तार की पुष्टि करते हैं। स्रोत: yna.co.kr"
+      },
+      "id": {
+        "title": "Korea Investment Securities Tembus 1 Triliun Won Transfer Kontrak Pensiun, Naik 107%",
+        "excerpt": "Korea Investment Securities menyatakan pada tanggal 8 bahwa aset pensiun yang masuk tahun ini dari perusahaan lain melalui transfer kontrak telah melampaui 1 triliun won, naik 107% tahunan.",
+        "body": "Korea Investment Securities menyatakan pada tanggal 8 bahwa aset pensiun yang masuk tahun ini dari perusahaan lain melalui transfer kontrak telah melampaui akumulasi 1 triliun won. Kabar yang dilaporkan dari Seoul oleh reporter Yonhap Lim Eun-jin ini menunjukkan bahwa skala perpindahan aset pensiun ke Korea Investment Securities meningkat tahun ini. Menurut angka yang disampaikan perusahaan, aset pensiun yang masuk melalui transfer kontrak naik 107% dibandingkan tahun sebelumnya. Transfer kontrak berarti memindahkan kontrak pensiun yang sudah ada dari satu perusahaan keuangan ke perusahaan keuangan lain. Capaian 1 triliun won dan kenaikan 107% mengonfirmasi perluasan dibandingkan tahun lalu. Sumber: yna.co.kr"
+      }
+    }
+  },
+  {
+    "id": "e3f60eb75bc3",
+    "slug": "제주삼다수-중국-온라인-시장-첫-진출7월까지-입점-209250",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-05-09T15:54:59.321Z",
+    "updatedAt": "2026-05-09T15:54:59.322Z",
+    "sourceName": "yna.co.kr",
+    "sourceUrl": "https://www.yna.co.kr/view/AKR20260508099700056",
+    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260508099700056",
+    "titleFingerprint": "f92dba8d6c82b4bc182d4f07d85b4712a35dce37",
+    "dedupKeys": [
+      "e3f60eb75bc3639c0c316a76c9d763685ba5f4e7",
+      "f92dba8d6c82b4bc182d4f07d85b4712a35dce37",
+      "45fff77c2bd5ce09f263a5bb37b3ad8b9e12aabc"
+    ],
+    "imageUrl": "/images/articles/e3f60eb75bc3.jpg",
+    "i18n": {
+      "ko": {
+        "title": "제주삼다수 중국 온라인 시장 첫 진출, 7월까지 입점 추진",
+        "excerpt": "제주삼다수가 7월까지 중국 온라인 채널에 처음 입점해 현지 소비 시장 공략에 나선다. 제주 대표 생수 브랜드의 중국 온라인 진출이 본격화된다.",
+        "body": "제주삼다수가 중국 온라인 시장에 처음 진출한다. 제주삼다수는 7월까지 중국 온라인 채널 입점을 추진하며, 이를 통해 중국 현지 소비 시장 공략에 나설 계획이다. 이번 진출은 제주삼다수가 중국 소비자와 온라인 유통 접점을 확보하는 첫 사례라는 점에서 의미가 있다. 그동안 국내 대표 먹는샘물 브랜드로 알려진 제주삼다수는 이번 입점을 계기로 중국 온라인 채널을 통한 판매 기반을 마련하게 된다. 향후 성과는 입점 이후 현지 소비자 반응과 온라인 채널 운영에 따라 가늠될 전망이다. 출처: yna.co.kr"
+      },
+      "en": {
+        "title": "Jeju Samdasoo Enters China Online Market for First Time by July",
+        "excerpt": "Jeju Samdasoo plans to join Chinese online channels by July, marking its first move into China’s digital consumer market to reach local shoppers.",
+        "body": "Jeju Samdasoo is entering China’s online market for the first time. The brand plans to be listed on Chinese online channels by July as it seeks to target the local consumer market. The move is significant because it gives Jeju Samdasoo its first online distribution point with Chinese consumers. Known as a representative bottled water brand from Jeju, Samdasoo will use the listing to establish a sales base through online channels in China. Future performance will depend on consumer response and channel operations after the listing. Source: yna.co.kr"
+      },
+      "ja": {
+        "title": "済州三多水、中国オンライン市場に初進出へ 7月までに入店",
+        "excerpt": "済州三多水は7月までに中国のオンラインチャネルへ初めて入店し、現地消費市場の開拓に乗り出す。中国向けオンライン展開が本格化する。",
+        "body": "済州三多水が中国のオンライン市場に初めて進出する。済州三多水は7月までに中国のオンラインチャネルへの入店を進め、現地の消費市場を攻略する計画だ。今回の進出は、済州三多水が中国消費者とのオンライン流通接点を確保する初の事例という点で意味がある。韓国国内で代表的なミネラルウォーターブランドとして知られる済州三多水は、今回の入店を機に中国オンラインチャネルを通じた販売基盤を整えることになる。今後の成果は、入店後の現地消費者の反応とオンラインチャネル運営によって見極められる見通しだ。出典: yna.co.kr"
+      },
+      "zh": {
+        "title": "济州三多水首次进军中国线上市场，计划7月前入驻",
+        "excerpt": "济州三多水计划在7月前首次入驻中国线上渠道，正式面向中国本地消费市场展开布局，扩大与当地消费者的接触点。",
+        "body": "济州三多水将首次进入中国线上市场。济州三多水计划在7月前入驻中国线上渠道，并借此开拓中国本地消费市场。此次进军的意义在于，这是济州三多水首次通过线上流通渠道与中国消费者建立接触点。作为韩国国内具有代表性的饮用水品牌，济州三多水将以此次入驻为契机，建立通过中国线上渠道销售的基础。未来成效将取决于入驻后的当地消费者反应以及线上渠道运营情况。来源: yna.co.kr"
+      },
+      "es": {
+        "title": "Jeju Samdasoo entra por primera vez al mercado online de China",
+        "excerpt": "Jeju Samdasoo prevé incorporarse a canales online chinos antes de julio, en su primera entrada digital al mercado de consumo local de China.",
+        "body": "Jeju Samdasoo entrará por primera vez en el mercado online de China. La marca prevé incorporarse a canales digitales chinos antes de julio, con el objetivo de dirigirse al mercado de consumo local. La entrada es relevante porque supone el primer punto de contacto de distribución online de Jeju Samdasoo con consumidores chinos. Conocida como una marca representativa de agua embotellada de Jeju, Samdasoo establecerá una base de ventas a través de canales online en China. Sus resultados futuros dependerán de la respuesta de los consumidores locales y de la operación de esos canales tras la incorporación. Fuente: yna.co.kr"
+      },
+      "pt": {
+        "title": "Jeju Samdasoo estreia no mercado online da China até julho",
+        "excerpt": "A Jeju Samdasoo planeja entrar em canais online chineses até julho, em sua primeira investida digital para alcançar consumidores locais na China.",
+        "body": "A Jeju Samdasoo entrará pela primeira vez no mercado online da China. A marca planeja ingressar em canais digitais chineses até julho, buscando atingir o mercado consumidor local. A iniciativa é relevante por representar o primeiro ponto de distribuição online da Jeju Samdasoo junto aos consumidores chineses. Conhecida como uma marca representativa de água engarrafada de Jeju, a Samdasoo passará a formar uma base de vendas por meio de canais online na China. O desempenho futuro dependerá da reação dos consumidores locais e da operação dos canais após a entrada. Fonte: yna.co.kr"
+      },
+      "de": {
+        "title": "Jeju Samdasoo startet erstmals im chinesischen Online-Markt",
+        "excerpt": "Jeju Samdasoo will bis Juli erstmals auf chinesischen Online-Kanälen gelistet werden und damit den lokalen Verbrauchermarkt in China ansprechen.",
+        "body": "Jeju Samdasoo tritt erstmals in den chinesischen Online-Markt ein. Die Marke plant, bis Juli auf chinesischen Online-Kanälen gelistet zu werden, um den lokalen Verbrauchermarkt zu erschließen. Der Schritt ist bedeutsam, weil Jeju Samdasoo damit erstmals einen Online-Vertriebskontakt zu chinesischen Verbrauchern erhält. Als bekannte repräsentative Mineralwassermarke aus Jeju schafft Samdasoo durch die Listung eine Grundlage für Verkäufe über Online-Kanäle in China. Die weitere Entwicklung wird davon abhängen, wie lokale Verbraucher nach der Listung reagieren und wie die Online-Kanäle betrieben werden. Quelle: yna.co.kr"
+      },
+      "fr": {
+        "title": "Jeju Samdasoo arrive pour la première fois en ligne en Chine",
+        "excerpt": "Jeju Samdasoo prévoit d’intégrer des canaux en ligne chinois d’ici juillet, une première entrée numérique pour viser le marché local chinois.",
+        "body": "Jeju Samdasoo entre pour la première fois sur le marché en ligne chinois. La marque prévoit d’être référencée sur des canaux numériques en Chine d’ici juillet afin de viser le marché de consommation local. Cette avancée est notable car elle constitue le premier point de distribution en ligne de Jeju Samdasoo auprès des consommateurs chinois. Connue comme une marque représentative d’eau embouteillée de Jeju, Samdasoo établira ainsi une base de vente via les canaux en ligne chinois. Les résultats futurs dépendront de la réaction des consommateurs locaux et de l’exploitation des canaux après le référencement. Source: yna.co.kr"
+      },
+      "ar": {
+        "title": "جيجو سامداسو تدخل سوق الصين الإلكتروني لأول مرة بحلول يوليو",
+        "excerpt": "تعتزم جيجو سامداسو دخول القنوات الإلكترونية الصينية بحلول يوليو، في أول توسع رقمي لها لاستهداف سوق المستهلكين المحلي في الصين.",
+        "body": "تدخل جيجو سامداسو سوق الصين الإلكتروني لأول مرة. وتخطط العلامة للإدراج في قنوات إلكترونية صينية بحلول يوليو، بهدف استهداف سوق المستهلكين المحلي. وتكتسب الخطوة أهمية لأنها تمثل أول نقطة توزيع إلكترونية تربط جيجو سامداسو بالمستهلكين الصينيين. وباعتبارها علامة معروفة لمياه الشرب المعبأة من جيجو، ستؤسس سامداسو من خلال هذا الإدراج قاعدة بيع عبر القنوات الإلكترونية في الصين. وستتحدد النتائج المقبلة وفق استجابة المستهلكين المحليين وطريقة تشغيل القنوات بعد الإدراج. المصدر: yna.co.kr"
+      },
+      "hi": {
+        "title": "जेजू सामदासू पहली बार चीन के ऑनलाइन बाजार में उतरेगी",
+        "excerpt": "जेजू सामदासू जुलाई तक चीनी ऑनलाइन चैनलों में प्रवेश करने की योजना बना रही है, जिससे वह चीन के स्थानीय उपभोक्ता बाजार को पहली बार डिजिटल रूप से साधेगी।",
+        "body": "जेजू सामदासू पहली बार चीन के ऑनलाइन बाजार में प्रवेश करेगी। कंपनी जुलाई तक चीनी ऑनलाइन चैनलों में सूचीबद्ध होने की योजना बना रही है, ताकि वह चीन के स्थानीय उपभोक्ता बाजार तक पहुंच सके। यह कदम इसलिए अहम है क्योंकि इससे जेजू सामदासू को चीनी उपभोक्ताओं के साथ पहला ऑनलाइन वितरण संपर्क मिलेगा। जेजू की प्रतिनिधि बोतलबंद पानी ब्रांड के रूप में पहचानी जाने वाली सामदासू इस सूचीबद्धता के जरिए चीन में ऑनलाइन चैनलों पर बिक्री का आधार तैयार करेगी। आगे का प्रदर्शन सूचीबद्धता के बाद स्थानीय उपभोक्ता प्रतिक्रिया और ऑनलाइन चैनल संचालन पर निर्भर करेगा। स्रोत: yna.co.kr"
+      },
+      "id": {
+        "title": "Jeju Samdasoo Masuk Pasar Online China Pertama Kali hingga Juli",
+        "excerpt": "Jeju Samdasoo berencana masuk kanal online China hingga Juli, menandai langkah digital pertamanya untuk membidik pasar konsumen lokal di China.",
+        "body": "Jeju Samdasoo akan memasuki pasar online China untuk pertama kalinya. Merek tersebut berencana masuk ke kanal online China hingga Juli untuk membidik pasar konsumen lokal. Langkah ini penting karena menjadi titik distribusi online pertama Jeju Samdasoo dengan konsumen China. Dikenal sebagai merek air minum dalam kemasan representatif dari Jeju, Samdasoo akan membangun basis penjualan melalui kanal online di China lewat masuknya ke platform tersebut. Kinerja ke depan akan bergantung pada respons konsumen lokal dan pengelolaan kanal online setelah masuk. Sumber: yna.co.kr"
+      }
+    }
+  },
+  {
     "id": "41e593e64d14",
     "slug": "밸류업-지수-지난달-사상-최고치-경신코스피-상승률-상회-838950",
     "channelId": "ETF",
@@ -4271,231 +4496,6 @@
         "title": "Boom Semikonduktor Isyaratkan Lonjakan Pajak, Kim Minta Fiskal Fleksibel",
         "excerpt": "Kim Yong-beom, Kepala Kebijakan Kantor Presiden Korea Selatan, pada 8 Mei mengatakan siklus semikonduktor dapat memicu kelebihan penerimaan pajak rekor dalam dua tahun ke depan.",
         "body": "Kim Yong-beom, Kepala Kebijakan Kantor Presiden Korea Selatan, pada 8 Mei mengatakan siklus bisnis semikonduktor dapat mengubah arus penerimaan pajak secara besar, dengan kelebihan penerimaan pajak pada tingkat rekor diperkirakan terjadi dalam dua tahun ke depan. Ia menjelaskan bahwa karena boom semikonduktor dapat berdampak langsung pada estimasi penerimaan, kebijakan fiskal perlu dikelola secara fleksibel mengikuti perubahan kondisi, bukan dijalankan secara kaku. Pernyataan itu muncul ketika pemulihan industri semikonduktor dan prospek penerimaan pajak menjadi variabel penting dalam pengelolaan fiskal pemerintah. Akurasi proyeksi penerimaan dan cara respons fiskal diperkirakan menjadi isu utama dalam pembahasan kebijakan. Sumber: yna.co.kr"
-      }
-    }
-  },
-  {
-    "id": "ed68422f9561",
-    "slug": "eu-항공권-이미-구입한-승객에-유류할증료-추가-안돼-579296",
-    "channelId": "ETF",
-    "category": "etf",
-    "publishedAt": "2026-05-09T04:06:46.117Z",
-    "updatedAt": "2026-05-09T04:06:46.117Z",
-    "sourceName": "yna.co.kr",
-    "sourceUrl": "https://www.yna.co.kr/view/AKR20260508176200098",
-    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260508176200098",
-    "titleFingerprint": "97fd8a9868ffebcd358c70df2fd0b4e278241672",
-    "dedupKeys": [
-      "ed68422f9561fee5570bd0cbec76dc4c60689ddd",
-      "97fd8a9868ffebcd358c70df2fd0b4e278241672",
-      "002c01aa4f89dcd62424f5da6decbd6f2bbf9c77"
-    ],
-    "imageUrl": "/images/articles/ed68422f9561.jpg",
-    "i18n": {
-      "ko": {
-        "title": "EU, 이미 산 항공권 유류할증료 추가 부과 금지 입장 분명히",
-        "excerpt": "EU는 중동 전쟁 여파로 에너지 가격과 항공유 부족 부담이 커진 상황에서도 이미 항공권을 산 승객에게 유류할증료를 추가로 물릴 수 없다고 밝혔다.",
-        "body": "EU는 중동 전쟁으로 에너지 가격이 급등하고 항공유 부족 사태가 이어지면서 유럽 항공사들이 비용 압박을 받고 있지만, 이미 항공권을 구입한 승객에게 이를 이유로 유류할증료를 추가 부과해서는 안 된다는 입장을 밝혔다. 이번 사안은 전쟁 여파가 항공업계 비용 구조에 직접 영향을 주는 가운데 소비자 부담 전가 가능성이 제기되며 주목받고 있다. 항공사들은 에너지 가격 상승과 연료 수급 차질로 타격을 입고 있으나, EU는 이미 판매된 항공권의 조건을 사후에 바꾸는 방식의 추가 부담은 허용될 수 없다는 점을 강조한 것으로 풀이된다. 이에 따라 유럽 항공사들의 비용 대응과 승객 보호 원칙 사이의 긴장이 이어질 전망이다. 출처: yna.co.kr"
-      },
-      "en": {
-        "title": "EU Says Airlines Cannot Add Fuel Surcharges to Tickets Already Bought",
-        "excerpt": "The EU said passengers who have already purchased air tickets cannot be charged extra fuel surcharges, despite pressure on European airlines from higher energy prices and jet fuel shortages.",
-        "body": "The EU said European airlines must not add fuel surcharges to passengers who have already bought their tickets, even as carriers face cost pressure from soaring energy prices and shortages of aviation fuel linked to the war in the Middle East. The issue has drawn attention as the conflict’s impact on fuel markets weighs directly on airline costs and raises concerns that expenses could be passed on to consumers after purchase. While airlines are being hit by higher energy prices and disrupted fuel supply, the EU’s position is that the terms of tickets already sold should not be changed later to impose extra charges. The tension between airline cost management and passenger protection is expected to remain in focus. Source: yna.co.kr"
-      },
-      "ja": {
-        "title": "EU、購入済み航空券への燃油サーチャージ追加を認めず",
-        "excerpt": "EUは、中東戦争によるエネルギー価格高騰と航空燃料不足で欧州航空会社が打撃を受ける中でも、購入済み航空券への燃油追加料金は認められないとした。",
-        "body": "EUは、中東戦争の影響でエネルギー価格が急騰し、航空燃料不足も続くなか、欧州の航空会社が費用負担に直面していても、すでに航空券を購入した乗客に燃油サーチャージを追加で課してはならないとの立場を示した。今回の問題は、戦争の余波が航空業界のコスト構造に直接影響し、消費者へ負担が転嫁される可能性が注目される中で浮上した。航空会社はエネルギー価格の上昇と燃料需給の支障で打撃を受けているが、EUは販売済み航空券の条件を後から変更し、追加負担を求めることは許されないと強調した形だ。今後も航空会社の費用対応と乗客保護の原則の間で緊張が続く見通しだ。出典: yna.co.kr"
-      },
-      "zh": {
-        "title": "欧盟明确：已购机票不得再追加燃油附加费",
-        "excerpt": "欧盟表示，尽管中东战争导致能源价格上涨和航空燃油短缺，欧洲航空公司承压，但不得向已购买机票的乘客追加燃油附加费。",
-        "body": "欧盟表示，受中东战争影响，能源价格急剧上涨，航空燃油短缺持续，欧洲航空公司虽面临成本压力，但不得以此为由向已经购买机票的乘客追加燃油附加费。此事受到关注，是因为战争余波正直接影响航空业成本结构，并引发外界对企业可能将负担转嫁给消费者的担忧。欧洲航空公司正受到能源价格上涨和燃油供应受阻的冲击，但欧盟的立场是，已售机票的条件不应在事后被改变，也不能通过追加收费让乘客承担额外负担。航空公司成本应对与乘客保护原则之间的张力预计仍将持续。来源: yna.co.kr"
-      },
-      "es": {
-        "title": "La UE impide añadir recargos por combustible a billetes ya comprados",
-        "excerpt": "La UE afirmó que las aerolíneas europeas no pueden cobrar recargos extra por combustible a pasajeros que ya compraron sus billetes, pese al alza energética y la escasez de combustible aéreo.",
-        "body": "La UE afirmó que las aerolíneas europeas no deben añadir recargos por combustible a los pasajeros que ya compraron sus billetes, aunque las compañías afronten presión de costes por el fuerte aumento de los precios de la energía y la escasez de combustible de aviación vinculados a la guerra en Oriente Medio. El asunto cobra atención porque el impacto del conflicto afecta directamente la estructura de costes del sector aéreo y plantea dudas sobre una posible transferencia de cargas al consumidor después de la compra. Aunque las aerolíneas sufren por los precios energéticos y los problemas de suministro, la UE sostiene que las condiciones de billetes ya vendidos no deben modificarse posteriormente para imponer pagos adicionales. La tensión entre costes y protección del pasajero seguirá en foco. Fuente: yna.co.kr"
-      },
-      "pt": {
-        "title": "UE veta cobrança extra de combustível em passagens já compradas",
-        "excerpt": "A UE afirmou que passageiros que já compraram passagens aéreas não podem receber cobrança adicional de combustível, apesar da pressão sobre aéreas europeias por energia cara e falta de querosene.",
-        "body": "A UE afirmou que as companhias aéreas europeias não devem cobrar sobretaxas de combustível de passageiros que já compraram suas passagens, mesmo diante da pressão de custos causada pela alta dos preços da energia e pela escassez de combustível de aviação associadas à guerra no Oriente Médio. O tema ganhou atenção porque os efeitos do conflito atingem diretamente a estrutura de custos do setor aéreo e levantam preocupações sobre a transferência de despesas ao consumidor após a compra. Embora as empresas estejam sendo afetadas pelo aumento da energia e por dificuldades de abastecimento, a posição da UE é que as condições de passagens já vendidas não devem ser alteradas posteriormente para impor encargos adicionais. A tensão entre resposta de custos e proteção do passageiro deve continuar. Fonte: yna.co.kr"
-      },
-      "de": {
-        "title": "EU verbietet nachträgliche Kerosinzuschläge auf bereits gekaufte Tickets",
-        "excerpt": "Die EU erklärte, dass Fluggesellschaften bereits gekauften Tickets keine zusätzlichen Kerosinzuschläge auferlegen dürfen, trotz Belastungen durch höhere Energiepreise und Treibstoffmangel.",
-        "body": "Die EU erklärte, dass europäische Fluggesellschaften Passagieren, die ihre Tickets bereits gekauft haben, keine zusätzlichen Kerosinzuschläge berechnen dürfen, auch wenn die Airlines durch stark gestiegene Energiepreise und Engpässe bei Flugtreibstoff infolge des Kriegs im Nahen Osten unter Kostendruck stehen. Der Fall rückt in den Fokus, weil die Folgen des Kriegs die Kostenstruktur der Luftfahrt direkt treffen und die Sorge wecken, dass Belastungen nach dem Kauf auf Verbraucher abgewälzt werden könnten. Zwar leiden die Fluggesellschaften unter höheren Energiepreisen und gestörter Treibstoffversorgung, doch nach Auffassung der EU dürfen Bedingungen bereits verkaufter Tickets nicht nachträglich geändert werden, um Zusatzkosten zu erheben. Die Spannung zwischen Kostensteuerung und Passagierschutz dürfte anhalten. Quelle: yna.co.kr"
-      },
-      "fr": {
-        "title": "L’UE refuse les surtaxes carburant sur les billets déjà achetés",
-        "excerpt": "L’UE a indiqué que les passagers ayant déjà acheté leur billet ne peuvent pas se voir imposer une surtaxe carburant, malgré la hausse de l’énergie et la pénurie de carburant aérien.",
-        "body": "L’UE a indiqué que les compagnies aériennes européennes ne doivent pas ajouter de surtaxe carburant aux passagers ayant déjà acheté leur billet, même si elles subissent une pression sur leurs coûts en raison de la flambée des prix de l’énergie et de la pénurie de carburant aérien liées à la guerre au Moyen-Orient. Le sujet attire l’attention car les effets du conflit touchent directement la structure de coûts du transport aérien et soulèvent la question d’un transfert des charges vers les consommateurs après l’achat. Bien que les compagnies soient affectées par la hausse de l’énergie et les difficultés d’approvisionnement, la position de l’UE est que les conditions des billets déjà vendus ne doivent pas être modifiées a posteriori pour imposer des frais supplémentaires. La tension entre coûts et protection des passagers devrait rester présente. Source: yna.co.kr"
-      },
-      "ar": {
-        "title": "الاتحاد الأوروبي: لا رسوم وقود إضافية على التذاكر المشتراة مسبقا",
-        "excerpt": "قال الاتحاد الأوروبي إن الركاب الذين اشتروا تذاكر الطيران بالفعل لا يجوز تحميلهم رسوما إضافية للوقود، رغم ضغط ارتفاع الطاقة ونقص وقود الطائرات على شركات أوروبا.",
-        "body": "قال الاتحاد الأوروبي إن شركات الطيران الأوروبية لا ينبغي أن تفرض رسوما إضافية للوقود على الركاب الذين اشتروا تذاكرهم بالفعل، حتى مع تعرض الشركات لضغط في التكاليف بسبب الارتفاع الحاد في أسعار الطاقة ونقص وقود الطائرات المرتبطين بالحرب في الشرق الأوسط. ويحظى الملف باهتمام لأن تداعيات الحرب تؤثر مباشرة في هيكل تكاليف قطاع الطيران وتثير مخاوف من نقل الأعباء إلى المستهلكين بعد الشراء. ورغم أن شركات الطيران تتضرر من ارتفاع أسعار الطاقة واضطراب إمدادات الوقود، فإن موقف الاتحاد الأوروبي يؤكد أن شروط التذاكر التي بيعت بالفعل لا يجب تعديلها لاحقا لفرض أعباء إضافية. ومن المتوقع أن يستمر التوتر بين إدارة تكاليف الشركات ومبدأ حماية الركاب. المصدر: yna.co.kr"
-      },
-      "hi": {
-        "title": "EU ने कहा, खरीदे जा चुके हवाई टिकटों पर ईंधन शुल्क नहीं लगेगा",
-        "excerpt": "EU ने कहा कि मध्य पूर्व युद्ध से ऊर्जा कीमतों और विमान ईंधन की कमी का दबाव बढ़ने के बावजूद, पहले से टिकट खरीद चुके यात्रियों पर अतिरिक्त ईंधन अधिभार नहीं लगाया जा सकता।",
-        "body": "EU ने कहा कि यूरोपीय एयरलाइंस उन यात्रियों पर अतिरिक्त ईंधन अधिभार नहीं लगा सकतीं जिन्होंने पहले ही हवाई टिकट खरीद लिए हैं, भले ही मध्य पूर्व युद्ध से ऊर्जा कीमतों में तेज बढ़ोतरी और विमान ईंधन की कमी के कारण कंपनियां लागत दबाव झेल रही हों। यह मुद्दा इसलिए ध्यान में है क्योंकि युद्ध का असर विमानन क्षेत्र की लागत संरचना पर सीधे पड़ रहा है और खरीद के बाद उपभोक्ताओं पर बोझ डालने की आशंका उठ रही है। एयरलाइंस ऊर्जा कीमतों में वृद्धि और ईंधन आपूर्ति की दिक्कतों से प्रभावित हैं, लेकिन EU का रुख है कि बिक चुके टिकटों की शर्तें बाद में बदलकर अतिरिक्त शुल्क नहीं लगाया जाना चाहिए। लागत प्रबंधन और यात्री संरक्षण के बीच तनाव आगे भी बना रह सकता है। स्रोत: yna.co.kr"
-      },
-      "id": {
-        "title": "UE Larang Biaya Bahan Bakar Tambahan untuk Tiket yang Sudah Dibeli",
-        "excerpt": "UE menyatakan maskapai Eropa tidak boleh menambahkan biaya bahan bakar kepada penumpang yang sudah membeli tiket, meski harga energi naik dan bahan bakar aviasi langka akibat perang Timur Tengah.",
-        "body": "UE menyatakan maskapai penerbangan Eropa tidak boleh mengenakan biaya bahan bakar tambahan kepada penumpang yang sudah membeli tiket, meskipun perusahaan menghadapi tekanan biaya akibat lonjakan harga energi dan kelangkaan bahan bakar aviasi yang terkait dengan perang di Timur Tengah. Isu ini menjadi perhatian karena dampak perang secara langsung memengaruhi struktur biaya industri penerbangan dan memunculkan kekhawatiran bahwa beban dapat dialihkan kepada konsumen setelah pembelian. Maskapai memang terpukul oleh kenaikan harga energi dan gangguan pasokan bahan bakar, tetapi posisi UE menegaskan bahwa ketentuan tiket yang sudah terjual tidak boleh diubah kemudian untuk membebankan biaya ekstra. Ketegangan antara respons biaya maskapai dan perlindungan penumpang diperkirakan tetap berlanjut. Sumber: yna.co.kr"
-      }
-    }
-  },
-  {
-    "id": "9e0f8fca0cce",
-    "slug": "울진-택시요금-인상기본료-4천4천500원-조정-852996",
-    "channelId": "ETF",
-    "category": "etf",
-    "publishedAt": "2026-05-09T04:05:40.847Z",
-    "updatedAt": "2026-05-09T04:05:40.847Z",
-    "sourceName": "yna.co.kr",
-    "sourceUrl": "https://www.yna.co.kr/view/AKR20260509023800053",
-    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260509023800053",
-    "titleFingerprint": "8e514c7105a7780dda5397ca29a7c43db606fb1a",
-    "dedupKeys": [
-      "9e0f8fca0cce7ff3112ef4b55c00648bac41991b",
-      "8e514c7105a7780dda5397ca29a7c43db606fb1a",
-      "6e58a0a65e24ba440819721883f66a1876b2ac2e"
-    ],
-    "imageUrl": "/images/articles/9e0f8fca0cce.jpg",
-    "i18n": {
-      "ko": {
-        "title": "울진 택시요금 19일부터 인상, 기본료 4천원에서 4천500원으로 조정",
-        "excerpt": "경북 울진군은 9일 택시 요금을 19일부터 인상한다고 밝혔다. 기본요금은 기존 4천원에서 4천500원으로 조정돼 지역 택시 이용 요금 체계가 바뀐다.",
-        "body": "경북 울진군은 9일 지역 택시 요금을 19일부터 인상한다고 밝혔다. 이번 조정에 따라 택시 기본요금은 기존 4천원에서 4천500원으로 오른다. 울진군의 발표는 지역 택시 이용자와 운송업계가 직접 영향을 받는 요금 체계 변경이다. 원문에서 확인된 핵심 수치는 기본료 4천원에서 4천500원으로의 조정이며, 시행 시점은 19일이다. 인상 이후 울진에서 택시를 이용하는 승객은 변경된 기본요금을 적용받게 된다. 출처: yna.co.kr"
-      },
-      "en": {
-        "title": "Uljin Taxi Fares to Rise on the 19th, Base Fare Adjusted to 4,500 Won",
-        "excerpt": "Uljin County in North Gyeongsang said on the 9th that taxi fares will rise from the 19th, with the base fare adjusted from 4,000 won to 4,500 won.",
-        "body": "Uljin County in North Gyeongsang Province said on the 9th that local taxi fares will increase from the 19th. Under the adjustment, the taxi base fare will rise from 4,000 won to 4,500 won. The announcement by Uljin County changes the fare system directly affecting local taxi users and the transport sector. The confirmed key figure in the source is the adjustment of the base fare from 4,000 won to 4,500 won, and the implementation date is the 19th. After the increase, passengers using taxis in Uljin will be charged the revised base fare. Source: yna.co.kr"
-      },
-      "ja": {
-        "title": "蔚珍のタクシー料金、19日から引き上げ 基本料金4,500ウォンに調整",
-        "excerpt": "慶尚北道蔚珍郡は9日、タクシー料金を19日から引き上げると明らかにした。基本料金は4,000ウォンから4,500ウォンへ調整される。",
-        "body": "慶尚北道蔚珍郡は9日、地域のタクシー料金を19日から引き上げると明らかにした。今回の調整により、タクシーの基本料金は従来の4,000ウォンから4,500ウォンに上がる。蔚珍郡の発表は、地域のタクシー利用者と運送業界に直接影響する料金体系の変更だ。原文で確認された主な数値は、基本料金を4,000ウォンから4,500ウォンへ調整することで、実施時点は19日である。引き上げ後、蔚珍でタクシーを利用する乗客には変更後の基本料金が適用される。出典: yna.co.kr"
-      },
-      "zh": {
-        "title": "蔚珍出租车费19日起上调，起步价由4000韩元调至4500韩元",
-        "excerpt": "庆尚北道蔚珍郡9日表示，将从19日起上调出租车费，起步价由现行4000韩元调整为4500韩元。",
-        "body": "庆尚北道蔚珍郡9日表示，当地出租车费用将从19日起上调。根据此次调整，出租车起步价将由现行4000韩元提高至4500韩元。蔚珍郡发布的这一消息意味着当地出租车收费体系发生变化，将直接影响出租车乘客和运输行业。原文确认的核心数字是起步价从4000韩元调整为4500韩元，实施时间为19日。上调后，在蔚珍乘坐出租车的乘客将适用调整后的起步价。来源: yna.co.kr"
-      },
-      "es": {
-        "title": "Uljin subirá las tarifas de taxi el día 19: la bajada de bandera será de 4.500 wones",
-        "excerpt": "El condado de Uljin, en Gyeongsang del Norte, informó el día 9 que elevará las tarifas de taxi desde el día 19, con la tarifa básica de 4.000 a 4.500 wones.",
-        "body": "El condado de Uljin, en la provincia de Gyeongsang del Norte, informó el día 9 que las tarifas locales de taxi aumentarán a partir del día 19. Con este ajuste, la tarifa básica de taxi subirá de 4.000 wones a 4.500 wones. El anuncio de Uljin supone un cambio en el sistema tarifario que afecta directamente a los usuarios locales de taxi y al sector del transporte. La cifra clave confirmada en el texto original es el ajuste de la tarifa básica de 4.000 a 4.500 wones, con entrada en vigor el día 19. Tras el aumento, los pasajeros que usen taxis en Uljin pagarán la nueva tarifa básica. Fuente: yna.co.kr"
-      },
-      "pt": {
-        "title": "Uljin aumentará tarifas de táxi no dia 19, com bandeirada ajustada para 4.500 won",
-        "excerpt": "O condado de Uljin, em Gyeongsang do Norte, informou no dia 9 que elevará as tarifas de táxi a partir do dia 19, ajustando a tarifa básica de 4.000 para 4.500 won.",
-        "body": "O condado de Uljin, na província de Gyeongsang do Norte, informou no dia 9 que as tarifas locais de táxi serão aumentadas a partir do dia 19. Com o ajuste, a tarifa básica de táxi passará de 4.000 won para 4.500 won. O anúncio de Uljin representa uma mudança no sistema tarifário que afeta diretamente os usuários locais de táxi e o setor de transporte. O principal número confirmado no texto original é o ajuste da tarifa básica de 4.000 para 4.500 won, com início no dia 19. Após o aumento, passageiros que usarem táxis em Uljin pagarão a tarifa básica revisada. Fonte: yna.co.kr"
-      },
-      "de": {
-        "title": "Uljin erhöht Taxitarife ab dem 19.: Grundgebühr steigt auf 4.500 Won",
-        "excerpt": "Der Landkreis Uljin in Nord-Gyeongsang teilte am 9. mit, dass die Taxitarife ab dem 19. steigen. Die Grundgebühr wird von 4.000 auf 4.500 Won angepasst.",
-        "body": "Der Landkreis Uljin in der Provinz Nord-Gyeongsang teilte am 9. mit, dass die örtlichen Taxitarife ab dem 19. erhöht werden. Im Zuge der Anpassung steigt die Grundgebühr für Taxis von bisher 4.000 Won auf 4.500 Won. Die Mitteilung von Uljin bedeutet eine Änderung des Tarifsystems, die lokale Taxinutzer und die Transportbranche direkt betrifft. Die im Original bestätigte zentrale Zahl ist die Anpassung der Grundgebühr von 4.000 auf 4.500 Won; der Beginn ist der 19. Nach der Erhöhung gilt für Fahrgäste in Uljin die geänderte Grundgebühr. Quelle: yna.co.kr"
-      },
-      "fr": {
-        "title": "Uljin relèvera les tarifs des taxis le 19, forfait de base porté à 4 500 wons",
-        "excerpt": "Le comté d’Uljin, dans le Gyeongsang du Nord, a annoncé le 9 que les tarifs des taxis augmenteraient à partir du 19, avec un forfait de base de 4 000 à 4 500 wons.",
-        "body": "Le comté d’Uljin, dans la province du Gyeongsang du Nord, a annoncé le 9 que les tarifs locaux des taxis augmenteraient à partir du 19. Avec cet ajustement, le forfait de base des taxis passera de 4 000 wons à 4 500 wons. L’annonce d’Uljin modifie le système tarifaire et concerne directement les usagers locaux des taxis ainsi que le secteur du transport. Le chiffre clé confirmé dans le texte d’origine est l’ajustement du forfait de base de 4 000 à 4 500 wons, avec une application à partir du 19. Après la hausse, les passagers utilisant un taxi à Uljin se verront appliquer le nouveau forfait de base. Source: yna.co.kr"
-      },
-      "ar": {
-        "title": "أولجين ترفع أجرة سيارات الأجرة في 19 من الشهر والحد الأساسي إلى 4500 وون",
-        "excerpt": "أعلنت مقاطعة أولجين في شمال غيونغسانغ يوم 9 أن أجور سيارات الأجرة سترتفع اعتبارا من يوم 19، مع تعديل الأجرة الأساسية من 4000 إلى 4500 وون.",
-        "body": "أعلنت مقاطعة أولجين في إقليم شمال غيونغسانغ يوم 9 أن أجور سيارات الأجرة المحلية سترتفع اعتبارا من يوم 19. وبموجب هذا التعديل، سترتفع الأجرة الأساسية لسيارات الأجرة من 4000 وون إلى 4500 وون. ويمثل إعلان أولجين تغييرا في نظام الأجور يؤثر مباشرة في مستخدمي سيارات الأجرة المحليين وقطاع النقل. الرقم الأساسي المؤكد في النص الأصلي هو تعديل الأجرة الأساسية من 4000 إلى 4500 وون، وموعد التطبيق هو يوم 19. بعد الزيادة، سيدفع الركاب الذين يستخدمون سيارات الأجرة في أولجين الأجرة الأساسية المعدلة. المصدر: yna.co.kr"
-      },
-      "hi": {
-        "title": "उलजिन में 19 तारीख से टैक्सी किराया बढ़ेगा, बेस फेयर 4,500 वॉन होगा",
-        "excerpt": "उत्तर ग्योंगसांग के उलजिन काउंटी ने 9 तारीख को कहा कि 19 तारीख से टैक्सी किराया बढ़ेगा। मूल किराया 4,000 वॉन से 4,500 वॉन किया जाएगा।",
-        "body": "उत्तर ग्योंगसांग प्रांत के उलजिन काउंटी ने 9 तारीख को बताया कि स्थानीय टैक्सी किराये 19 तारीख से बढ़ाए जाएंगे। इस समायोजन के तहत टैक्सी का मूल किराया मौजूदा 4,000 वॉन से बढ़कर 4,500 वॉन होगा। उलजिन काउंटी की यह घोषणा स्थानीय टैक्सी उपयोगकर्ताओं और परिवहन क्षेत्र को सीधे प्रभावित करने वाली किराया प्रणाली में बदलाव है। मूल समाचार में पुष्टि किया गया मुख्य आंकड़ा मूल किराये को 4,000 वॉन से 4,500 वॉन करना है, और लागू होने की तारीख 19 है। वृद्धि के बाद उलजिन में टैक्सी लेने वाले यात्रियों पर संशोधित मूल किराया लागू होगा। स्रोत: yna.co.kr"
-      },
-      "id": {
-        "title": "Tarif Taksi Uljin Naik Mulai Tanggal 19, Tarif Dasar Jadi 4.500 Won",
-        "excerpt": "Pemerintah Kabupaten Uljin di Gyeongsang Utara menyatakan pada tanggal 9 bahwa tarif taksi akan naik mulai tanggal 19, dengan tarif dasar disesuaikan dari 4.000 menjadi 4.500 won.",
-        "body": "Pemerintah Kabupaten Uljin di Provinsi Gyeongsang Utara menyatakan pada tanggal 9 bahwa tarif taksi lokal akan dinaikkan mulai tanggal 19. Melalui penyesuaian ini, tarif dasar taksi naik dari sebelumnya 4.000 won menjadi 4.500 won. Pengumuman Uljin ini merupakan perubahan sistem tarif yang berdampak langsung pada pengguna taksi lokal dan sektor transportasi. Angka utama yang dikonfirmasi dalam naskah asli adalah penyesuaian tarif dasar dari 4.000 won menjadi 4.500 won, dengan waktu berlaku pada tanggal 19. Setelah kenaikan, penumpang yang menggunakan taksi di Uljin akan dikenai tarif dasar baru. Sumber: yna.co.kr"
-      }
-    }
-  },
-  {
-    "id": "9d7da430158f",
-    "slug": "전남도-지역혁신-선도기업-육성사업-국비-71억-확보-536334",
-    "channelId": "ETF",
-    "category": "etf",
-    "publishedAt": "2026-05-09T02:49:53.602Z",
-    "updatedAt": "2026-05-09T02:49:53.602Z",
-    "sourceName": "yna.co.kr",
-    "sourceUrl": "https://www.yna.co.kr/view/AKR20260508134900054",
-    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260508134900054",
-    "titleFingerprint": "608ba3f4f580f3f7a72cdb62e45575a9b080dc1a",
-    "dedupKeys": [
-      "9d7da430158f252b49df2b4f0ba8fb0655ed0c72",
-      "608ba3f4f580f3f7a72cdb62e45575a9b080dc1a",
-      "79eb7626dcc77a8defcd5e21e6ca67ca3d26273f"
-    ],
-    "imageUrl": "/images/articles/9d7da430158f.jpg",
-    "i18n": {
-      "ko": {
-        "title": "전남도, 지역혁신 선도기업 R&D 국비 71억 확보로 육성사업 탄력",
-        "excerpt": "전남도는 중소벤처기업부의 2026년 지역혁신선도기업육성(R&D) 사업에 선정돼 국비 71억원을 확보하며 지역 기업 육성 기반을 마련했다.",
-        "body": "전남도는 중소벤처기업부의 ‘2026년 지역혁신선도기업육성(R&D)’ 사업에 선정돼 국비 71억원을 확보했다고 연합뉴스가 보도했다. 이번 사업 선정은 전남 지역의 혁신 선도기업을 육성하기 위한 연구개발 지원과 관련된 것으로, 확보된 국비 규모는 71억원이다. 지역혁신선도기업육성 사업은 지역 기업의 기술 경쟁력 강화를 뒷받침하는 R&D 사업으로 소개됐다. 전남도는 이번 국비 확보를 통해 지역 기업 육성 사업 추진에 필요한 재원을 마련하게 됐다. 향후 사업은 중소벤처기업부 선정 결과에 따라 추진될 전망이다. 출처: yna.co.kr"
-      },
-      "en": {
-        "title": "Jeonnam Secures 7.1 Billion Won in State Funds for Regional Innovation R&D",
-        "excerpt": "Jeonnam Province was selected for the Ministry of SMEs and Startups’ 2026 Regional Innovation Leading Company R&D program, securing 7.1 billion won in state funding.",
-        "body": "Jeonnam Province has been selected for the Ministry of SMEs and Startups’ “2026 Regional Innovation Leading Company Development (R&D)” program and secured 7.1 billion won in national funding, Yonhap News Agency reported. The selection is tied to research and development support aimed at fostering innovative leading companies in the Jeonnam region, with the secured state funding totaling 7.1 billion won. The program was introduced as an R&D initiative supporting stronger technological competitiveness among regional companies. With the funding, Jeonnam Province has secured resources needed to move forward with its local company development efforts. The project is expected to proceed according to the ministry’s selection results. Source: yna.co.kr"
-      },
-      "ja": {
-        "title": "全羅南道、地域革新先導企業R&Dで国費71億ウォン確保",
-        "excerpt": "全羅南道は中小ベンチャー企業部の2026年地域革新先導企業育成（R&D）事業に選定され、国費71億ウォンを確保した。",
-        "body": "全羅南道は、中小ベンチャー企業部の「2026年地域革新先導企業育成（R&D）」事業に選定され、国費71億ウォンを確保したと聯合ニュースが報じた。今回の選定は、全羅南道地域の革新先導企業を育成するための研究開発支援に関するもので、確保された国費の規模は71億ウォンとなる。同事業は、地域企業の技術競争力強化を支えるR&D事業として紹介された。全羅南道は今回の国費確保により、地域企業育成事業を進めるために必要な財源を得た。今後の事業は中小ベンチャー企業部の選定結果に基づいて進められる見通しだ。出典: yna.co.kr"
-      },
-      "zh": {
-        "title": "全罗南道获71亿韩元国费支持区域创新领军企业研发",
-        "excerpt": "全罗南道入选中小风险企业部2026年区域创新领军企业培育（R&D）项目，获得71亿韩元国费支持。",
-        "body": "据韩联社报道，全罗南道入选中小风险企业部“2026年区域创新领军企业培育（R&D）”项目，并获得71亿韩元国费。此次入选与支持全罗南道地区创新领军企业培育的研发项目有关，已 확보的国费规模为71亿韩元。该项目被介绍为支持区域企业提升技术竞争力的R&D项目。通过此次 확보国费，全罗南道为推进区域企业培育项目 마련了所需财源。相关项目预计将根据中小风险企业部的遴选结果推进。来源: yna.co.kr"
-      },
-      "es": {
-        "title": "Jeonnam obtiene 7.100 millones de wones para I+D de empresas innovadoras regionales",
-        "excerpt": "La provincia de Jeonnam fue seleccionada para el programa 2026 de empresas líderes regionales de innovación del Ministerio de Pymes y Startups y aseguró 7.100 millones de wones.",
-        "body": "La provincia de Jeonnam fue seleccionada para el programa “Desarrollo de Empresas Líderes Regionales de Innovación (I+D) 2026” del Ministerio de Pymes y Startups y obtuvo 7.100 millones de wones en fondos estatales, informó Yonhap. La selección está vinculada al apoyo a investigación y desarrollo para fomentar empresas líderes innovadoras en la región de Jeonnam, con una financiación nacional asegurada de 7.100 millones de wones. El programa fue presentado como una iniciativa de I+D que respalda el fortalecimiento de la competitividad tecnológica de las empresas regionales. Con estos fondos, Jeonnam aseguró recursos para impulsar su proyecto de desarrollo empresarial local. Fuente: yna.co.kr"
-      },
-      "pt": {
-        "title": "Jeonnam garante 7,1 bilhões de won em verba estatal para P&D regional inovador",
-        "excerpt": "A província de Jeonnam foi selecionada para o programa 2026 de empresas líderes regionais de inovação do Ministério das PMEs e Startups, garantindo 7,1 bilhões de won.",
-        "body": "A província de Jeonnam foi selecionada para o programa “Desenvolvimento de Empresas Líderes Regionais de Inovação (P&D) 2026” do Ministério das PMEs e Startups e garantiu 7,1 bilhões de won em recursos nacionais, informou a Yonhap. A seleção está ligada ao apoio de pesquisa e desenvolvimento para fomentar empresas líderes inovadoras na região de Jeonnam, com financiamento estatal de 7,1 bilhões de won. O programa foi apresentado como uma iniciativa de P&D voltada a fortalecer a competitividade tecnológica de empresas regionais. Com a verba, Jeonnam assegurou recursos para avançar em seu projeto de desenvolvimento empresarial local. Fonte: yna.co.kr"
-      },
-      "de": {
-        "title": "Jeonnam sichert 7,1 Milliarden Won Staatsmittel für regionale Innovations-R&D",
-        "excerpt": "Die Provinz Jeonnam wurde für das R&D-Programm 2026 zur Förderung regionaler Innovationsführer des Ministeriums für KMU und Startups ausgewählt und erhält 7,1 Milliarden Won.",
-        "body": "Die Provinz Jeonnam ist für das Programm „Entwicklung regionaler Innovations-Leitunternehmen (R&D) 2026“ des Ministeriums für KMU und Startups ausgewählt worden und hat 7,1 Milliarden Won an staatlichen Mitteln gesichert, berichtete Yonhap. Die Auswahl steht im Zusammenhang mit Forschungs- und Entwicklungsunterstützung zur Förderung innovativer Leitunternehmen in der Region Jeonnam. Die gesicherte nationale Finanzierung beläuft sich auf 7,1 Milliarden Won. Das Programm wurde als R&D-Initiative vorgestellt, die die technologische Wettbewerbsfähigkeit regionaler Unternehmen stärken soll. Jeonnam verfügt damit über Mittel für die weitere Förderung lokaler Unternehmen. Quelle: yna.co.kr"
-      },
-      "fr": {
-        "title": "Jeonnam obtient 7,1 milliards de wons pour la R&D des entreprises innovantes régionales",
-        "excerpt": "La province de Jeonnam a été retenue pour le programme 2026 de développement des entreprises régionales innovantes du ministère des PME et des Startups, obtenant 7,1 milliards de wons.",
-        "body": "La province de Jeonnam a été sélectionnée pour le programme « Développement des entreprises régionales leaders de l’innovation (R&D) 2026 » du ministère des PME et des Startups et a obtenu 7,1 milliards de wons de financement national, selon Yonhap. Cette sélection concerne un soutien à la recherche et au développement destiné à favoriser les entreprises innovantes leaders dans la région de Jeonnam, pour un montant de 7,1 milliards de wons. Le programme a été présenté comme une initiative de R&D visant à renforcer la compétitivité technologique des entreprises régionales. Grâce à ce financement, Jeonnam dispose des ressources nécessaires pour poursuivre son projet de développement des entreprises locales. Source: yna.co.kr"
-      },
-      "ar": {
-        "title": "جولا الجنوبية تؤمن 7.1 مليار وون لدعم بحث وتطوير شركات الابتكار الإقليمية",
-        "excerpt": "اختيرت مقاطعة جولا الجنوبية لبرنامج 2026 لتنمية الشركات الإقليمية الرائدة في الابتكار التابع لوزارة الشركات الصغيرة والمتوسطة والناشئة، وحصلت على 7.1 مليار وون.",
-        "body": "ذكرت وكالة يونهاب أن مقاطعة جولا الجنوبية اختيرت لبرنامج “تنمية الشركات الإقليمية الرائدة في الابتكار (بحث وتطوير) لعام 2026” التابع لوزارة الشركات الصغيرة والمتوسطة والناشئة، وحصلت على تمويل حكومي قدره 7.1 مليار وون. يرتبط الاختيار بدعم البحث والتطوير الهادف إلى تنمية الشركات الرائدة المبتكرة في منطقة جولا الجنوبية، ويبلغ حجم التمويل الوطني المؤمّن 7.1 مليار وون. وقدم البرنامج كمبادرة بحث وتطوير تدعم تعزيز القدرة التنافسية التقنية للشركات الإقليمية. وبذلك تؤمن جولا الجنوبية الموارد اللازمة لدفع مشروع تنمية الشركات المحلية. المصدر: yna.co.kr"
-      },
-      "hi": {
-        "title": "जिओननाम को क्षेत्रीय नवाचार कंपनियों के R&D के लिए 7.1 अरब वॉन मिले",
-        "excerpt": "जिओननाम प्रांत को SMEs और स्टार्टअप मंत्रालय के 2026 क्षेत्रीय नवाचार अग्रणी कंपनी R&D कार्यक्रम के लिए चुना गया और 7.1 अरब वॉन की सरकारी राशि मिली।",
-        "body": "योनहाप के अनुसार, जिओननाम प्रांत को SMEs और स्टार्टअप मंत्रालय के “2026 क्षेत्रीय नवाचार अग्रणी कंपनी विकास (R&D)” कार्यक्रम के लिए चुना गया है और उसने 7.1 अरब वॉन की राष्ट्रीय निधि हासिल की है। यह चयन जिओननाम क्षेत्र में नवाचार अग्रणी कंपनियों को बढ़ावा देने के लिए अनुसंधान और विकास समर्थन से जुड़ा है, और सुरक्षित सरकारी राशि 7.1 अरब वॉन है। इस कार्यक्रम को क्षेत्रीय कंपनियों की तकनीकी प्रतिस्पर्धा मजबूत करने वाले R&D प्रोजेक्ट के रूप में पेश किया गया। इस निधि से जिओननाम को स्थानीय कंपनी विकास परियोजना आगे बढ़ाने के लिए आवश्यक संसाधन मिलेंगे। स्रोत: yna.co.kr"
-      },
-      "id": {
-        "title": "Jeonnam Amankan 7,1 Miliar Won untuk R&D Perusahaan Inovasi Regional",
-        "excerpt": "Provinsi Jeonnam terpilih dalam program 2026 pengembangan perusahaan pemimpin inovasi regional Kementerian UKM dan Startup, mengamankan dana negara 7,1 miliar won.",
-        "body": "Provinsi Jeonnam terpilih dalam program “Pengembangan Perusahaan Pemimpin Inovasi Regional (R&D) 2026” dari Kementerian UKM dan Startup serta mengamankan dana nasional sebesar 7,1 miliar won, lapor Yonhap. Pemilihan ini terkait dukungan penelitian dan pengembangan untuk membina perusahaan pemimpin inovasi di wilayah Jeonnam, dengan nilai dana negara yang diamankan sebesar 7,1 miliar won. Program tersebut diperkenalkan sebagai proyek R&D yang mendukung penguatan daya saing teknologi perusahaan regional. Dengan pendanaan ini, Jeonnam memperoleh sumber daya yang dibutuhkan untuk menjalankan pengembangan perusahaan lokal. Sumber: yna.co.kr"
       }
     }
   }
