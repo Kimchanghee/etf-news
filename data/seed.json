@@ -1,5 +1,230 @@
 [
   {
+    "id": "08dc29efcd55",
+    "slug": "환율-외국인-순매도에-177원-오른-14717원-936303",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-05-09T11:32:46.408Z",
+    "updatedAt": "2026-05-09T11:32:46.408Z",
+    "sourceName": "yna.co.kr",
+    "sourceUrl": "https://www.yna.co.kr/view/AKR20260508127900002",
+    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260508127900002",
+    "titleFingerprint": "e259f0b003e642b597a4dd67eb257ea7dd6f907e",
+    "dedupKeys": [
+      "08dc29efcd556c8d1528cc3f692137edf43b7b59",
+      "e259f0b003e642b597a4dd67eb257ea7dd6f907e",
+      "a2485543d112e38ba772d8c33b327f8e747938af"
+    ],
+    "imageUrl": "/images/articles/08dc29efcd55.jpg",
+    "i18n": {
+      "ko": {
+        "title": "원/달러 환율 1,471.7원 마감, 외국인 주식 순매도에 17.7원 급등",
+        "excerpt": "8일 서울 외환시장에서 원/달러 환율은 외국인 투자자들의 국내 주식 대규모 순매도 영향으로 17.7원 오른 1,471.7원에 마감했다.",
+        "body": "8일 서울 외환시장에서 원/달러 환율은 외국인 투자자들의 국내 주식 대규모 매도 영향으로 전 거래일보다 17.7원 오른 1,471.7원에 거래를 마쳤다. 환율은 다시 1,470원대로 올라서며 원화 약세 흐름을 보였다. 원문은 외국인 투자자들의 국내 주식 순매도가 환율 상승의 주요 배경으로 작용했다고 전했다. 관련 시장에서는 외국인 자금 흐름과 국내 주식 매도세가 원/달러 환율 움직임에 계속 영향을 주는 변수로 주목된다. 출처: yna.co.kr"
+      },
+      "en": {
+        "title": "Won-Dollar Rate Ends at 1,471.7 as Foreign Stock Selling Lifts FX by 17.7 Won",
+        "excerpt": "On the 8th, the won-dollar exchange rate rose 17.7 won to 1,471.7 in Seoul, driven by heavy net selling of Korean stocks by foreign investors.",
+        "body": "In the Seoul foreign exchange market on the 8th, the won-dollar exchange rate closed at 1,471.7, up 17.7 won from the previous session, as foreign investors sold large amounts of Korean shares. The rate moved back into the 1,470-won range, showing renewed weakness in the Korean won. The original report said foreign investors’ net selling in the domestic stock market was a key factor behind the exchange-rate rise. Market attention remains on foreign fund flows and domestic equity selling as variables affecting the won-dollar rate. Source: yna.co.kr"
+      },
+      "ja": {
+        "title": "ウォン・ドル相場1,471.7ウォン、外国人の株売りで17.7ウォン上昇",
+        "excerpt": "8日のソウル外国為替市場で、ウォン・ドル相場は外国人投資家による韓国株の大規模売り越しを受け、17.7ウォン上昇し1,471.7ウォンで終えた。",
+        "body": "8日のソウル外国為替市場で、ウォン・ドル相場は外国人投資家による韓国株の大規模な売りの影響で、前営業日比17.7ウォン高の1,471.7ウォンで取引を終えた。相場は再び1,470ウォン台に上昇し、ウォン安の流れを示した。原文は、外国人投資家の国内株式売り越しが相場上昇の主な背景になったと伝えた。市場では、外国人資金の流れと韓国株の売りがウォン・ドル相場の動きに影響する変数として注目される。出典: yna.co.kr"
+      },
+      "zh": {
+        "title": "韩元兑美元汇率收于1,471.7，外资抛售韩股推升17.7韩元",
+        "excerpt": "8日首尔外汇市场上，韩元兑美元汇率受外国投资者大规模净卖出韩国股票影响，上涨17.7韩元，收于1,471.7韩元。",
+        "body": "8日首尔外汇市场上，韩元兑美元汇率受外国投资者大规模卖出韩国股票影响，较上一交易日上涨17.7韩元，收于1,471.7韩元。汇率重新升至1,470韩元区间，显示韩元走弱。原文称，外国投资者在韩国股市的净卖出是推动汇率上升的主要背景。相关市场继续关注外资流向和韩国股票抛售压力，因为这些因素仍会影响韩元兑美元汇率走势。来源: yna.co.kr"
+      },
+      "es": {
+        "title": "Won-dólar cierra en 1.471,7: ventas extranjeras de acciones elevan la tasa 17,7 wones",
+        "excerpt": "El día 8, el tipo won-dólar subió 17,7 wones hasta 1.471,7 en Seúl por fuertes ventas netas de acciones surcoreanas de inversores extranjeros.",
+        "body": "En el mercado cambiario de Seúl el día 8, el tipo de cambio won-dólar cerró en 1.471,7, 17,7 wones más que en la sesión anterior, por las ventas a gran escala de acciones surcoreanas por parte de inversores extranjeros. La cotización volvió al rango de 1.470 wones, mostrando debilidad del won. El texto original señaló que la venta neta de acciones locales por inversores extranjeros fue el principal trasfondo del alza. El mercado sigue atento a los flujos de capital extranjero y a la presión vendedora en la bolsa local como variables para el tipo won-dólar. Fuente: yna.co.kr"
+      },
+      "pt": {
+        "title": "Won-dólar fecha a 1.471,7; venda estrangeira de ações eleva câmbio em 17,7 won",
+        "excerpt": "No dia 8, em Seul, o câmbio won-dólar subiu 17,7 won para 1.471,7, influenciado pela forte venda líquida de ações coreanas por investidores estrangeiros.",
+        "body": "No mercado de câmbio de Seul no dia 8, a taxa won-dólar encerrou a 1.471,7, alta de 17,7 won ante a sessão anterior, sob impacto da venda em grande escala de ações coreanas por investidores estrangeiros. A taxa voltou à faixa de 1.470 won, indicando fraqueza do won. O texto original informou que a venda líquida de ações domésticas por estrangeiros foi o principal pano de fundo da alta cambial. O mercado acompanha os fluxos de capital estrangeiro e a venda de ações locais como variáveis que seguem influenciando o won-dólar. Fonte: yna.co.kr"
+      },
+      "de": {
+        "title": "Won-Dollar-Kurs bei 1.471,7: Ausländische Aktienverkäufe treiben ihn um 17,7 Won",
+        "excerpt": "Am 8. stieg der Won-Dollar-Kurs in Seoul um 17,7 Won auf 1.471,7, belastet durch umfangreiche Nettoverkäufe koreanischer Aktien durch ausländische Anleger.",
+        "body": "Am Devisenmarkt in Seoul schloss der Won-Dollar-Kurs am 8. bei 1.471,7 und damit 17,7 Won höher als in der vorherigen Sitzung. Auslöser waren umfangreiche Verkäufe koreanischer Aktien durch ausländische Anleger. Der Kurs kehrte damit in den Bereich von 1.470 Won zurück und zeigte eine Schwäche des Won. Der Originalbericht nannte die Nettoverkäufe ausländischer Anleger am heimischen Aktienmarkt als wichtigen Hintergrund des Anstiegs. Marktteilnehmer achten weiter auf ausländische Kapitalflüsse und Aktienverkäufe als Einflussfaktoren für den Won-Dollar-Kurs. Quelle: yna.co.kr"
+      },
+      "fr": {
+        "title": "Le won-dollar finit à 1 471,7, porté par les ventes étrangères d’actions coréennes",
+        "excerpt": "Le 8, à Séoul, le taux won-dollar a gagné 17,7 wons à 1 471,7 sous l’effet d’importantes ventes nettes d’actions coréennes par les investisseurs étrangers.",
+        "body": "Sur le marché des changes de Séoul le 8, le taux won-dollar a terminé à 1 471,7, en hausse de 17,7 wons par rapport à la séance précédente, sous l’effet de ventes massives d’actions coréennes par les investisseurs étrangers. Le taux est revenu dans la zone des 1 470 wons, signalant une faiblesse du won. Le texte original indique que les ventes nettes d’actions locales par les investisseurs étrangers ont constitué le principal contexte de cette hausse. Le marché reste attentif aux flux de capitaux étrangers et aux ventes d’actions nationales comme variables du won-dollar. Source: yna.co.kr"
+      },
+      "ar": {
+        "title": "سعر الوون/الدولار يغلق عند 1,471.7 مع مبيعات أجنبية ترفعه 17.7 وون",
+        "excerpt": "في 8 الشهر بسوق الصرف في سول، ارتفع سعر الوون مقابل الدولار 17.7 وون إلى 1,471.7 بفعل صافي بيع كبير للأسهم الكورية من المستثمرين الأجانب.",
+        "body": "في سوق الصرف الأجنبي في سول يوم 8، أغلق سعر الوون مقابل الدولار عند 1,471.7 وون، مرتفعا 17.7 وون عن الجلسة السابقة، تحت تأثير مبيعات واسعة للأسهم الكورية من جانب المستثمرين الأجانب. وعاد السعر إلى نطاق 1,470 وون، ما أظهر ضعفا في العملة الكورية. وذكر النص الأصلي أن صافي بيع المستثمرين الأجانب للأسهم المحلية كان خلفية رئيسية لارتفاع سعر الصرف. وتبقى تدفقات الأموال الأجنبية ومبيعات الأسهم المحلية عوامل يراقبها السوق في تحركات الوون مقابل الدولار. المصدر: yna.co.kr"
+      },
+      "hi": {
+        "title": "वॉन-डॉलर दर 1,471.7 पर बंद, विदेशी शेयर बिकवाली से 17.7 वॉन की बढ़त",
+        "excerpt": "8 तारीख को सियोल विदेशी मुद्रा बाजार में वॉन-डॉलर दर विदेशी निवेशकों की कोरियाई शेयरों में बड़ी शुद्ध बिकवाली से 17.7 वॉन बढ़कर 1,471.7 पर बंद हुई।",
+        "body": "8 तारीख को सियोल विदेशी मुद्रा बाजार में वॉन-डॉलर विनिमय दर पिछले सत्र से 17.7 वॉन बढ़कर 1,471.7 पर बंद हुई। इसका कारण विदेशी निवेशकों द्वारा घरेलू कोरियाई शेयरों की बड़े पैमाने पर बिक्री बताया गया। दर फिर 1,470 वॉन के दायरे में लौट आई, जिससे वॉन में कमजोरी दिखी। मूल रिपोर्ट के अनुसार, विदेशी निवेशकों की घरेलू शेयरों में शुद्ध बिकवाली विनिमय दर में वृद्धि की मुख्य पृष्ठभूमि रही। बाजार विदेशी पूंजी प्रवाह और घरेलू शेयर बिकवाली को वॉन-डॉलर दर को प्रभावित करने वाले कारक के रूप में देख रहा है। स्रोत: yna.co.kr"
+      },
+      "id": {
+        "title": "Kurs Won-Dolar Ditutup 1.471,7, Jual Bersih Asing Angkat 17,7 Won",
+        "excerpt": "Pada 8, kurs won-dolar di pasar valuta Seoul naik 17,7 won ke 1.471,7 karena investor asing melakukan jual bersih besar pada saham domestik Korea.",
+        "body": "Di pasar valuta asing Seoul pada 8, kurs won-dolar ditutup pada 1.471,7, naik 17,7 won dari sesi sebelumnya, dipengaruhi penjualan besar saham Korea oleh investor asing. Kurs kembali ke kisaran 1.470 won, menunjukkan pelemahan won. Teks asli menyebut jual bersih investor asing di pasar saham domestik sebagai latar utama kenaikan kurs. Pasar memperhatikan aliran dana asing dan tekanan jual saham domestik sebagai variabel yang terus memengaruhi pergerakan won-dolar. Sumber: yna.co.kr"
+      }
+    }
+  },
+  {
+    "id": "27492d6101aa",
+    "slug": "최저임금위원장-민주노총-방문조합원은-사퇴하라-요구-502527",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-05-09T11:31:52.858Z",
+    "updatedAt": "2026-05-09T11:31:52.858Z",
+    "sourceName": "yna.co.kr",
+    "sourceUrl": "https://www.yna.co.kr/view/AKR20260508129200530",
+    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260508129200530",
+    "titleFingerprint": "502a00a27c389d254abcd662e836535ae5dca75d",
+    "dedupKeys": [
+      "27492d6101aa858c64fb3d400a68d2e09585d3cd",
+      "502a00a27c389d254abcd662e836535ae5dca75d",
+      "286d2f61df5821e502f1f39f9591796cdc9aeed5"
+    ],
+    "imageUrl": "/images/articles/27492d6101aa.jpg",
+    "i18n": {
+      "ko": {
+        "title": "최저임금위원장 민주노총 방문, 조합원 ‘사퇴하라’ 요구 확산",
+        "excerpt": "권순원 최저임금위원회 위원장이 위원장직 사퇴를 요구해 온 민주노총을 방문하자 조합원들이 현장에서 사퇴 요구를 제기했다.",
+        "body": "권순원 최저임금위원회 위원장이 자신의 위원장직 사퇴를 요구하고 있는 전국민주노동조합총연맹, 민주노총을 방문했다. 방문 현장에서는 민주노총 조합원들이 권 위원장을 향해 “사퇴하라”고 요구한 것으로 전해졌다. 이번 방문은 최저임금위원장직을 둘러싼 노동계의 반발이 이어지는 가운데 이뤄졌다. 민주노총은 권 위원장의 사퇴를 요구해 왔고, 조합원들의 현장 발언으로 갈등이 다시 부각됐다. 향후 최저임금위원회와 노동계 간 논의 과정에도 긴장감이 이어질 가능성이 있다. 출처: yna.co.kr"
+      },
+      "en": {
+        "title": "Minimum Wage Chair Visits KCTU as Union Members Demand Resignation",
+        "excerpt": "Minimum Wage Commission Chair Kwon Soon-won visited the KCTU, which has called for his resignation, and union members demanded he step down at the scene.",
+        "body": "Kwon Soon-won, chair of South Korea’s Minimum Wage Commission, visited the Korean Confederation of Trade Unions, or KCTU, which has been demanding that he resign from the chairmanship. During the visit, union members reportedly called on Kwon to “step down.” The visit came amid continuing labor opposition surrounding his position as commission chair. The KCTU has maintained its demand for Kwon’s resignation, and the remarks from members at the site brought the dispute back into focus. Tension may continue in future discussions between the Minimum Wage Commission and labor groups. Source: yna.co.kr"
+      },
+      "ja": {
+        "title": "最低賃金委員長が民主労総訪問、組合員は「辞任せよ」と要求",
+        "excerpt": "最低賃金委員会の権順元委員長が辞任を求めてきた民主労総を訪問し、現場の組合員から辞任要求を受けた。",
+        "body": "韓国最低賃金委員会の権順元委員長が、委員長職からの辞任を求めている全国民主労働組合総連盟、民主労総を訪問した。訪問の現場では、民主労総の組合員が権委員長に対し「辞任せよ」と要求したと伝えられた。今回の訪問は、最低賃金委員長職をめぐる労働界の反発が続く中で行われた。民主労総は権委員長の辞任要求を維持しており、現場での発言により対立が改めて浮き彫りになった。今後の最低賃金委員会と労働界の協議にも緊張が続く可能性がある。出典: yna.co.kr"
+      },
+      "zh": {
+        "title": "最低工资委员会委员长访问民主劳总，会员要求其辞职",
+        "excerpt": "韩国最低工资委员会委员长权顺元访问一直要求其辞去委员长职务的民主劳总，现场会员提出辞职要求。",
+        "body": "韩国最低工资委员会委员长权顺元访问了要求其辞去委员长职务的全国民主劳动组合总联盟，即民主劳总。据悉，在访问现场，民主劳总会员向权顺元提出“辞职”要求。此次访问发生在围绕最低工资委员会委员长职务的劳动界反对声持续之际。民主劳总此前一直要求权顺元辞职，而会员在现场的表态使双方矛盾再次受到关注。今后最低工资委员会与劳动界之间的讨论过程可能仍将保持紧张。来源: yna.co.kr"
+      },
+      "es": {
+        "title": "Presidente de salario mínimo visita la KCTU y afiliados exigen renuncia",
+        "excerpt": "Kwon Soon-won, presidente de la Comisión de Salario Mínimo, visitó la KCTU, que exige su dimisión, y afiliados pidieron que renunciara.",
+        "body": "Kwon Soon-won, presidente de la Comisión de Salario Mínimo de Corea del Sur, visitó la Confederación Coreana de Sindicatos, KCTU, que ha venido exigiendo su renuncia al cargo. Durante la visita, afiliados sindicales le pidieron que “dimita”, según se informó. El encuentro se produjo en medio de la continua oposición del sector laboral a su permanencia como presidente de la comisión. La KCTU mantiene su demanda de renuncia, y las declaraciones de los afiliados en el lugar volvieron a poner el conflicto en primer plano. La tensión podría continuar en futuras conversaciones entre la comisión y los sindicatos. Fuente: yna.co.kr"
+      },
+      "pt": {
+        "title": "Presidente do salário mínimo visita KCTU; sindicalistas exigem renúncia",
+        "excerpt": "Kwon Soon-won, presidente da Comissão do Salário Mínimo, visitou a KCTU, que pede sua renúncia, e sindicalistas exigiram sua saída.",
+        "body": "Kwon Soon-won, presidente da Comissão do Salário Mínimo da Coreia do Sul, visitou a Confederação Coreana de Sindicatos, KCTU, que vem exigindo sua renúncia ao cargo. Durante a visita, membros do sindicato teriam pedido que Kwon “renunciasse”. A visita ocorreu em meio à contínua oposição do setor trabalhista à sua permanência na presidência da comissão. A KCTU mantém a exigência de renúncia, e as falas dos sindicalistas no local recolocaram o conflito em evidência. A tensão pode continuar nas próximas discussões entre a Comissão do Salário Mínimo e os grupos trabalhistas. Fonte: yna.co.kr"
+      },
+      "de": {
+        "title": "Mindestlohnchef besucht KCTU, Gewerkschafter fordern Rücktritt",
+        "excerpt": "Kwon Soon-won, Vorsitzender der Mindestlohnkommission, besuchte die KCTU, die seinen Rücktritt fordert; Mitglieder verlangten vor Ort seinen Rücktritt.",
+        "body": "Kwon Soon-won, Vorsitzender der südkoreanischen Mindestlohnkommission, besuchte den Koreanischen Gewerkschaftsbund KCTU, der seinen Rücktritt vom Vorsitz fordert. Bei dem Besuch riefen Gewerkschaftsmitglieder Kwon Berichten zufolge zum Rücktritt auf. Der Besuch fand statt, während der Widerstand aus der Arbeitswelt gegen seine Position als Kommissionsvorsitzender anhält. Die KCTU hält an ihrer Rücktrittsforderung fest, und die Äußerungen der Mitglieder vor Ort rückten den Konflikt erneut in den Mittelpunkt. Auch künftige Gespräche zwischen der Mindestlohnkommission und Arbeitnehmervertretern könnten angespannt bleiben. Quelle: yna.co.kr"
+      },
+      "fr": {
+        "title": "Le président du salaire minimum visite la KCTU, des membres exigent sa démission",
+        "excerpt": "Kwon Soon-won, président de la Commission du salaire minimum, a visité la KCTU, qui réclame sa démission, et des syndiqués l’ont interpellé.",
+        "body": "Kwon Soon-won, président de la Commission sud-coréenne du salaire minimum, s’est rendu à la Confédération coréenne des syndicats, KCTU, qui demande sa démission de la présidence. Lors de cette visite, des membres du syndicat lui auraient lancé des appels à « démissionner ». Le déplacement intervient alors que l’opposition du monde du travail à son maintien à la tête de la commission se poursuit. La KCTU maintient sa demande de démission, et les propos tenus sur place par les syndiqués ont remis le conflit en lumière. Les échanges futurs entre la commission et les organisations syndicales pourraient rester tendus. Source: yna.co.kr"
+      },
+      "ar": {
+        "title": "رئيس لجنة الحد الأدنى للأجور يزور اتحاد KCTU وأعضاء يطالبون باستقالته",
+        "excerpt": "زار كوون سون وون، رئيس لجنة الحد الأدنى للأجور، اتحاد النقابات الكوري KCTU الذي يطالب باستقالته، فيما طالبه أعضاء بالتنحي.",
+        "body": "زار كوون سون وون، رئيس لجنة الحد الأدنى للأجور في كوريا الجنوبية، الاتحاد الكوري لنقابات العمال KCTU الذي يطالب باستقالته من منصبه. وخلال الزيارة، أفادت التقارير بأن أعضاء في الاتحاد طالبوا كوون بأن “يتنحى”. جاءت الزيارة وسط استمرار اعتراضات من أوساط العمل على بقائه رئيسا للجنة. ويواصل اتحاد KCTU المطالبة باستقالة كوون، بينما أعادت تصريحات الأعضاء في الموقع تسليط الضوء على الخلاف. وقد تستمر حالة التوتر في المناقشات المقبلة بين لجنة الحد الأدنى للأجور والجهات العمالية. المصدر: yna.co.kr"
+      },
+      "hi": {
+        "title": "न्यूनतम वेतन समिति प्रमुख KCTU पहुंचे, सदस्यों ने इस्तीफे की मांग की",
+        "excerpt": "न्यूनतम वेतन समिति के अध्यक्ष क्वोन सून-वोन ने KCTU का दौरा किया, जो उनके इस्तीफे की मांग कर रहा है; सदस्यों ने मौके पर पद छोड़ने को कहा।",
+        "body": "दक्षिण कोरिया की न्यूनतम वेतन समिति के अध्यक्ष क्वोन सून-वोन ने कोरियन कन्फेडरेशन ऑफ ट्रेड यूनियंस, KCTU, का दौरा किया, जो उनसे अध्यक्ष पद से इस्तीफे की मांग कर रहा है। दौरे के दौरान संघ के सदस्यों ने कथित तौर पर क्वोन से “इस्तीफा देने” को कहा। यह दौरा ऐसे समय हुआ जब समिति अध्यक्ष पद को लेकर श्रमिक जगत की आपत्ति जारी है। KCTU क्वोन के इस्तीफे की मांग बनाए हुए है, और स्थल पर सदस्यों की टिप्पणी से विवाद फिर सामने आया। न्यूनतम वेतन समिति और श्रमिक संगठनों के बीच आगे की चर्चा में तनाव जारी रह सकता है। स्रोत: yna.co.kr"
+      },
+      "id": {
+        "title": "Ketua Komisi Upah Minimum Kunjungi KCTU, Anggota Tuntut Mundur",
+        "excerpt": "Kwon Soon-won, ketua Komisi Upah Minimum, mengunjungi KCTU yang menuntut pengunduran dirinya, sementara anggota serikat meminta ia mundur.",
+        "body": "Kwon Soon-won, ketua Komisi Upah Minimum Korea Selatan, mengunjungi Konfederasi Serikat Buruh Korea, KCTU, yang selama ini menuntut pengunduran dirinya dari jabatan ketua. Dalam kunjungan tersebut, anggota serikat dilaporkan meminta Kwon untuk “mundur”. Kunjungan ini terjadi di tengah berlanjutnya penolakan kalangan buruh terhadap posisinya sebagai ketua komisi. KCTU tetap mempertahankan tuntutan pengunduran diri Kwon, dan pernyataan anggota di lokasi kembali menyoroti konflik tersebut. Ketegangan dapat berlanjut dalam pembahasan mendatang antara Komisi Upah Minimum dan kelompok buruh. Sumber: yna.co.kr"
+      }
+    }
+  },
+  {
+    "id": "e1702b38e47e",
+    "slug": "외인-던지고-개미-받고코스피-7500선-턱밑-마감-또-사상최고종합-578100",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-05-09T11:30:55.280Z",
+    "updatedAt": "2026-05-09T11:30:55.280Z",
+    "sourceName": "yna.co.kr",
+    "sourceUrl": "https://www.yna.co.kr/view/AKR20260508131500008",
+    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260508131500008",
+    "titleFingerprint": "bd6f7579d6a05a39cbbe2298e2f80c0a0b02e742",
+    "dedupKeys": [
+      "e1702b38e47ec5a06e5dedcf7d6043cfbcb30877",
+      "bd6f7579d6a05a39cbbe2298e2f80c0a0b02e742",
+      "347f9fce9658eceb653019a475b51c5c95986ac6"
+    ],
+    "imageUrl": "/images/articles/e1702b38e47e.jpg",
+    "i18n": {
+      "ko": {
+        "title": "코스피 7,500선 턱밑 마감, 외국인 매도 속 개인 매수로 또 사상최고",
+        "excerpt": "코스피가 8일 장 후반 상승 전환하며 7,500선 턱밑에서 마감했다. 외국인 매도와 개인 매수 흐름 속 지수는 다시 사상 최고치를 경신했다.",
+        "body": "코스피가 8일 서울 증시에서 장 후반 상승 전환에 성공해 7,500선 턱밑에서 거래를 마치며 또다시 사상 최고치를 경신했다. 이날 흐름은 외국인이 매도에 나선 가운데 개인 투자자가 이를 받아내는 구도로 전개됐다. 장중 약세와 매도 부담에도 막판 지수가 오름세로 돌아서면서 종가 기준 최고 기록을 새로 썼다. 7,500선에 바짝 다가선 마감은 국내 주식시장 투자심리에 중요한 기준점으로 받아들여질 수 있다. 다만 원문은 구체적인 등락률이나 매매 금액을 제시하지 않았다. 출처: yna.co.kr"
+      },
+      "en": {
+        "title": "KOSPI Closes Near 7,500 as Retail Buying Lifts Index to New Record",
+        "excerpt": "The KOSPI turned higher late on the 8th and closed just below 7,500, setting another all-time high as foreign selling was met by retail investor buying.",
+        "body": "The KOSPI turned upward late in the session on the 8th in Seoul and finished just below the 7,500 mark, renewing its all-time closing high. The market move came as foreign investors sold while individual investors absorbed the supply through buying. Despite earlier weakness and selling pressure, the index reversed course near the close and posted another record finish. A close near 7,500 may serve as an important reference point for sentiment in South Korea’s stock market. The original report did not provide specific percentage changes or trading amounts. Source: yna.co.kr"
+      },
+      "ja": {
+        "title": "KOSPIが7,500目前で終了、外国人売りを個人が受け止め再び最高値",
+        "excerpt": "KOSPIは8日、取引終盤に上昇へ転じ、7,500目前で終了した。外国人の売りを個人投資家が買いで受け止め、再び史上最高値を更新した。",
+        "body": "KOSPIは8日、ソウル株式市場で取引終盤に上昇へ転じ、7,500の目前で取引を終え、再び史上最高値を更新した。この日の相場は、外国人投資家が売りに出る一方、個人投資家が買いで受け止める構図となった。取引中の弱含みや売り圧力にもかかわらず、終盤に指数が上昇へ切り返し、終値ベースで最高記録を塗り替えた。7,500に迫る終値は、韓国株式市場の投資心理を測る重要な目安になり得る。ただし原文は具体的な騰落率や売買代金を示していない。出典: yna.co.kr"
+      },
+      "zh": {
+        "title": "KOSPI逼近7,500点收盘，外资卖出散户承接再创新高",
+        "excerpt": "KOSPI于8日尾盘转涨，并在7,500点下方附近收盘。外资卖出、个人投资者买入承接，指数再次刷新历史最高纪录。",
+        "body": "KOSPI于8日在首尔股市尾盘成功转为上涨，最终在7,500点下方附近收盘，并再次刷新历史最高纪录。当天市场呈现外资卖出、个人投资者买入承接的格局。尽管盘中一度承压并面临卖盘影响，但指数在收盘前转强，以收盘价 기준改写最高纪录。逼近7,500点的收盘水平，可能成为观察韩国股市投资情绪的重要参考。不过，原文未提供具体涨跌幅或交易金额。来源: yna.co.kr"
+      },
+      "es": {
+        "title": "KOSPI cierra cerca de 7.500 puntos y marca nuevo máximo pese a ventas extranjeras",
+        "excerpt": "El KOSPI giró al alza al final de la sesión del día 8 y cerró cerca de los 7.500 puntos, con compras minoristas absorbiendo ventas extranjeras y un nuevo récord.",
+        "body": "El KOSPI logró cambiar a terreno positivo al final de la sesión del día 8 en la bolsa de Seúl y cerró justo por debajo de los 7.500 puntos, renovando de nuevo su máximo histórico. La jornada se desarrolló con ventas de inversores extranjeros y compras de inversores particulares que absorbieron esa oferta. Pese a la debilidad intradía y a la presión vendedora, el índice repuntó en el tramo final y fijó un nuevo récord de cierre. Un cierre tan cercano a 7.500 puede convertirse en una referencia relevante para el ánimo inversor en el mercado surcoreano. El texto original no detalló porcentajes de variación ni montos negociados. Fuente: yna.co.kr"
+      },
+      "pt": {
+        "title": "KOSPI fecha perto de 7.500 pontos e renova recorde com compra de pessoas físicas",
+        "excerpt": "O KOSPI virou para alta no fim do pregão do dia 8 e fechou perto de 7.500 pontos, renovando máxima histórica enquanto investidores individuais absorveram vendas externas.",
+        "body": "O KOSPI conseguiu virar para alta no fim do pregão do dia 8, em Seul, e encerrou próximo da marca de 7.500 pontos, renovando novamente seu recorde histórico de fechamento. O movimento ocorreu em um quadro no qual investidores estrangeiros venderam, enquanto investidores individuais compraram e absorveram essa oferta. Mesmo com fraqueza durante a sessão e pressão vendedora, o índice se recuperou perto do encerramento e marcou novo recorde. Um fechamento tão próximo de 7.500 pontos pode servir como referência importante para o sentimento no mercado acionário sul-coreano. O texto original não informou variação percentual nem valores negociados. Fonte: yna.co.kr"
+      },
+      "de": {
+        "title": "KOSPI schließt knapp unter 7.500 Punkten und erreicht trotz Auslandsverkäufen Rekord",
+        "excerpt": "Der KOSPI drehte am 8. spät ins Plus und schloss knapp unter 7.500 Punkten. Verkäufe ausländischer Anleger wurden von Privatanlegern aufgenommen, der Index markierte erneut ein Rekordhoch.",
+        "body": "Der KOSPI drehte am 8. an der Börse in Seoul im späten Handel ins Plus und beendete die Sitzung knapp unter der Marke von 7.500 Punkten, womit er erneut ein Allzeithoch erreichte. Der Handel war davon geprägt, dass ausländische Investoren verkauften, während private Anleger die Verkäufe durch Käufe aufnahmen. Trotz zwischenzeitlicher Schwäche und Verkaufsdrucks legte der Index kurz vor Handelsschluss wieder zu und setzte auf Schlusskursbasis einen neuen Rekord. Ein Schlussstand nahe 7.500 Punkten kann zu einer wichtigen Orientierung für die Stimmung am südkoreanischen Aktienmarkt werden. Der Originalbericht nannte keine konkrete prozentuale Veränderung oder Handelsvolumina. Quelle: yna.co.kr"
+      },
+      "fr": {
+        "title": "Le KOSPI clôture près de 7 500 points et signe un nouveau record malgré les ventes étrangères",
+        "excerpt": "Le KOSPI s’est retourné à la hausse en fin de séance le 8 et a clôturé tout près de 7 500 points, les achats des particuliers absorbant les ventes étrangères.",
+        "body": "Le KOSPI s’est retourné à la hausse en fin de séance le 8 à la Bourse de Séoul et a terminé tout près du seuil des 7 500 points, établissant une nouvelle fois un record historique. La séance a été marquée par des ventes d’investisseurs étrangers, tandis que les investisseurs individuels ont pris le relais à l’achat. Malgré une faiblesse en cours de séance et une pression vendeuse, l’indice a repris de la vigueur avant la clôture et a inscrit un nouveau record en cours de clôture. Une fin de séance proche de 7 500 points peut devenir un repère important pour le sentiment des investisseurs sur le marché sud-coréen. Le texte original ne fournit ni variation en pourcentage ni montants échangés. Source: yna.co.kr"
+      },
+      "ar": {
+        "title": "كوسبي يغلق قرب 7,500 نقطة ويسجل قمة جديدة مع شراء الأفراد",
+        "excerpt": "تحول مؤشر كوسبي إلى الارتفاع في أواخر جلسة الثامن وأغلق قرب مستوى 7,500 نقطة، مسجلا مستوى قياسيا جديدا وسط بيع الأجانب وشراء المستثمرين الأفراد.",
+        "body": "تحول مؤشر كوسبي إلى الصعود في أواخر جلسة الثامن في سوق سول، وأنهى التداول قرب مستوى 7,500 نقطة، ليجدد مرة أخرى أعلى مستوى تاريخي له. وجاءت حركة السوق في إطار باع فيه المستثمرون الأجانب، بينما استوعب المستثمرون الأفراد تلك المعروضات عبر الشراء. ورغم الضعف خلال الجلسة وضغوط البيع، عاد المؤشر إلى الارتفاع قبل الإغلاق وسجل رقما قياسيا جديدا على أساس سعر الإغلاق. وقد يشكل الإغلاق القريب من 7,500 نقطة مرجعا مهما لمعنويات الاستثمار في سوق الأسهم الكورية الجنوبية. ولم يذكر النص الأصلي نسب التغير أو قيم التداول المحددة. المصدر: yna.co.kr"
+      },
+      "hi": {
+        "title": "KOSPI 7,500 के करीब बंद, विदेशी बिकवाली के बीच खुदरा खरीद से नया रिकॉर्ड",
+        "excerpt": "KOSPI 8 तारीख को सत्र के अंतिम हिस्से में बढ़त में लौटा और 7,500 के ठीक नीचे बंद हुआ। विदेशी बिकवाली को व्यक्तिगत निवेशकों की खरीद ने संभाला और सूचकांक ने नया रिकॉर्ड बनाया।",
+        "body": "KOSPI 8 तारीख को सियोल बाजार में सत्र के अंतिम हिस्से में बढ़त में लौट आया और 7,500 अंक के ठीक नीचे बंद होकर फिर से सर्वकालिक उच्च स्तर पर पहुंच गया। उस दिन बाजार में विदेशी निवेशकों की बिकवाली दिखी, जबकि व्यक्तिगत निवेशकों ने खरीद के जरिए उस आपूर्ति को संभाला। सत्र के दौरान कमजोरी और बिकवाली दबाव के बावजूद सूचकांक बंद होने से पहले ऊपर मुड़ा और समापन स्तर पर नया रिकॉर्ड बनाया। 7,500 के करीब बंद होना दक्षिण कोरिया के शेयर बाजार में निवेशक भावना के लिए एक अहम संकेतक माना जा सकता है। मूल रिपोर्ट में प्रतिशत बदलाव या कारोबार राशि का विवरण नहीं दिया गया। स्रोत: yna.co.kr"
+      },
+      "id": {
+        "title": "KOSPI Ditutup Dekat 7.500, Cetak Rekor Baru Saat Investor Ritel Menyerap Jual Asing",
+        "excerpt": "KOSPI berbalik naik pada akhir perdagangan tanggal 8 dan ditutup tepat di bawah 7.500, kembali mencetak rekor tertinggi saat jual asing diserap pembelian investor individu.",
+        "body": "KOSPI berbalik menguat pada akhir perdagangan tanggal 8 di bursa Seoul dan menutup sesi tepat di bawah level 7.500, kembali memperbarui rekor tertinggi sepanjang masa. Pergerakan hari itu terjadi ketika investor asing melakukan penjualan, sementara investor individu menyerap pasokan tersebut melalui aksi beli. Meski sempat lemah dan menghadapi tekanan jual selama sesi, indeks berbalik naik menjelang penutupan dan mencatat rekor baru berdasarkan harga penutupan. Penutupan yang mendekati 7.500 dapat menjadi acuan penting bagi sentimen pasar saham Korea Selatan. Laporan asli tidak menyebutkan persentase perubahan maupun nilai transaksi. Sumber: yna.co.kr"
+      }
+    }
+  },
+  {
     "id": "70bbae102023",
     "slug": "아센디오-10억원-제3자배정-유상증자-900669",
     "channelId": "ETF",
@@ -4271,231 +4496,6 @@
         "title": "Laba Samsung Diproyeksi 239 Triliun Won, Goldman Soroti Lonjakan HBM AI",
         "excerpt": "Goldman Sachs pada 11 Maret menaikkan target harga Samsung Electronics dan SK Hynix karena permintaan HBM AI serta kenaikan harga DRAM dan NAND.",
         "body": "Goldman Sachs pada 11 Maret menaikkan target harga Samsung Electronics dan SK Hynix, dengan alasan lonjakan laba dari memori bandwidth tinggi atau HBM untuk AI serta kenaikan harga DRAM dan NAND umum. Target harga Samsung naik dari 205.000 won menjadi 260.000 won, sementara proyeksi laba operasional tahun ini dinaikkan dari 181 triliun won menjadi 239 triliun won. Estimasi tahun depan juga naik dari 170 triliun won menjadi 231 triliun won. Target SK Hynix dinaikkan dari 1,2 juta won menjadi 1,35 juta won, dan proyeksi laba operasional tahun ini naik dari 169 triliun won menjadi 202 triliun won. Goldman menilai permintaan server AI menyerap sebagian besar pasokan memori. Sumber: hankyung.com."
-      }
-    }
-  },
-  {
-    "id": "df57ca4ac369",
-    "slug": "미이란-교전-소식에건설株-동반-약세-408601",
-    "channelId": "ETF",
-    "category": "etf",
-    "publishedAt": "2026-05-08T21:42:04.257Z",
-    "updatedAt": "2026-05-08T21:42:04.257Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/2026050833806",
-    "canonicalUrl": "https://www.hankyung.com/article/2026050833806",
-    "titleFingerprint": "000287cb83caabc84c883049344d556729980fab",
-    "dedupKeys": [
-      "df57ca4ac369320a2a91002f91eca6e19dc48aa3",
-      "000287cb83caabc84c883049344d556729980fab",
-      "ae76f9a1a01881f84ecd6255301cb19f175dfbc8"
-    ],
-    "imageUrl": "/images/articles/df57ca4ac369.jpg",
-    "i18n": {
-      "ko": {
-        "title": "미·이란 교전 소식에 건설주 동반 약세…중동 리스크 속 ETF 시장도 주목",
-        "excerpt": "미국과 이란의 교전 소식이 전해지며 국내 증시에서 건설주가 동반 약세를 보였다. 중동 정세 불안이 투자심리에 부담으로 작용한 흐름이다.",
-        "body": "미국과 이란의 교전 소식이 전해지면서 국내 증시에서 건설주가 동반 약세를 보였다. 누가 매도에 나섰는지, 어떤 종목이 얼마나 하락했는지에 대한 구체적 수치는 원문에 제시되지 않았지만, 제목상 핵심은 미·이란 충돌 관련 뉴스가 건설주 전반의 투자심리를 위축시켰다는 점이다. 건설주는 해외 수주, 중동 사업, 원자재와 물류 여건 등 대외 변수에 민감하게 반응할 수 있는 업종으로 분류된다. 이번 약세는 지정학적 긴장이 시장 심리에 반영된 사례로 볼 수 있다. 관련 ETF 투자자도 건설·인프라 업종 비중과 중동 리스크 노출 여부를 함께 점검할 필요가 있다. 출처는 hankyung.com이다."
-      },
-      "en": {
-        "title": "Construction Stocks Weaken on U.S.-Iran Clash News as ETF Investors Watch Risk",
-        "excerpt": "Construction stocks in South Korea moved lower after news of a U.S.-Iran clash, showing how Middle East tensions weighed on market sentiment.",
-        "body": "Construction stocks in the South Korean market weakened together after news of a clash between the United States and Iran. The original item did not provide specific figures on which investors sold, which companies fell, or by how much. Its key point is that reports tied to the U.S.-Iran conflict pressured sentiment across the construction sector. Construction shares can be sensitive to external variables such as overseas orders, Middle East projects, raw materials, and logistics conditions. The decline therefore reflects how geopolitical tension can be transmitted into market psychology. ETF investors may need to review exposure to construction and infrastructure sectors as well as any Middle East-related risk. Source: hankyung.com."
-      },
-      "ja": {
-        "title": "米・イラン交戦報道で建設株がそろって軟調、ETF投資家も中東リスクを注視",
-        "excerpt": "米国とイランの交戦報道を受け、韓国市場で建設株がそろって弱含んだ。中東情勢の不安が投資心理の重荷となった流れだ。",
-        "body": "米国とイランの交戦に関する報道が伝わり、韓国株式市場では建設株がそろって軟調となった。原文では、誰が売りに回ったのか、どの銘柄がどの程度下落したのかといった具体的な数値は示されていない。中心となる事実は、米・イランの衝突に関連するニュースが建設株全般の投資心理を冷やしたという点だ。建設株は海外受注、中東事業、原材料、物流環境など外部要因に反応しやすい業種とされる。今回の弱含みは、地政学的緊張が市場心理に反映された例といえる。ETF投資家も建設・インフラ関連比率と中東リスクへの露出を確認する必要がある。出典はhankyung.com。"
-      },
-      "zh": {
-        "title": "美伊交战消息拖累建筑股集体走弱，ETF投资者关注中东风险",
-        "excerpt": "美国与伊朗交战消息传出后，韩国股市建筑股同步走弱。中东局势不安对投资情绪形成压力。",
-        "body": "美国与伊朗交战的消息传出后，韩国股市中的建筑股集体走弱。原文未提供具体是谁在卖出、哪些个股下跌以及跌幅多少等数据，核心信息是与美伊冲突相关的消息削弱了建筑板块整体投资情绪。建筑股通常会受到海外订单、中东项目、原材料和物流条件等外部变量影响。此次走弱可被视为地缘政治紧张反映到市场心理中的一个案例。对于ETF投资者而言，也需要关注产品中建筑和基础设施行业的权重，以及是否暴露于中东相关风险。来源：hankyung.com。"
-      },
-      "es": {
-        "title": "Constructoras caen por noticias de choque entre EE. UU. e Irán; ETF vigilan riesgo",
-        "excerpt": "Las acciones de construcción en Corea del Sur bajaron tras noticias de enfrentamiento entre EE. UU. e Irán, presionadas por la incertidumbre en Oriente Medio.",
-        "body": "Las acciones de construcción del mercado surcoreano mostraron debilidad conjunta después de conocerse noticias sobre un enfrentamiento entre Estados Unidos e Irán. El texto original no ofrece cifras concretas sobre qué inversores vendieron, qué valores cayeron o cuánto retrocedieron. El punto central es que la noticia vinculada al conflicto EE. UU.-Irán deterioró el sentimiento hacia el sector constructor. Estas compañías suelen ser sensibles a variables externas como pedidos en el extranjero, proyectos en Oriente Medio, materias primas y logística. La caída refleja cómo la tensión geopolítica puede trasladarse a la psicología del mercado. Los inversores en ETF deberían revisar su exposición a construcción, infraestructura y riesgos relacionados con Oriente Medio. Fuente: hankyung.com."
-      },
-      "pt": {
-        "title": "Ações de construção recuam com notícia de confronto EUA-Irã; ETFs monitoram risco",
-        "excerpt": "As ações de construção na Coreia do Sul caíram em conjunto após notícias de confronto entre EUA e Irã, com a tensão no Oriente Médio pesando no sentimento.",
-        "body": "As ações de construção no mercado sul-coreano recuaram em conjunto depois da notícia de um confronto entre Estados Unidos e Irã. O texto original não apresentou números específicos sobre quem vendeu, quais empresas caíram ou qual foi a dimensão das perdas. O ponto principal é que a notícia ligada ao conflito EUA-Irã pressionou o sentimento em todo o setor de construção. Essas ações podem reagir a variáveis externas como contratos no exterior, projetos no Oriente Médio, matérias-primas e condições logísticas. A fraqueza mostra como a tensão geopolítica pode afetar a psicologia do mercado. Investidores em ETF devem observar a exposição a construção, infraestrutura e riscos relacionados ao Oriente Médio. Fonte: hankyung.com."
-      },
-      "de": {
-        "title": "Bauaktien schwächer nach Meldung zu US-Iran-Gefecht; ETF-Anleger achten auf Risiko",
-        "excerpt": "Südkoreanische Bauaktien gaben nach Meldungen über ein Gefecht zwischen den USA und Iran gemeinsam nach. Nahost-Risiken belasteten die Marktstimmung.",
-        "body": "Südkoreanische Bauaktien zeigten gemeinsam Schwäche, nachdem Meldungen über ein Gefecht zwischen den USA und Iran bekannt wurden. Der ursprüngliche Text nennt keine konkreten Zahlen dazu, wer verkaufte, welche Einzeltitel fielen oder wie stark die Rückgänge waren. Die zentrale Aussage ist, dass Nachrichten zum US-Iran-Konflikt die Stimmung im Bausektor belasteten. Bauwerte können empfindlich auf externe Faktoren wie Auslandsaufträge, Projekte im Nahen Osten, Rohstoffe und Logistikbedingungen reagieren. Der Rückgang zeigt, wie geopolitische Spannungen in die Marktpsychologie einfließen können. ETF-Anleger sollten daher ihre Gewichtung in Bau- und Infrastrukturwerten sowie mögliche Nahost-Risiken prüfen. Quelle: hankyung.com."
-      },
-      "fr": {
-        "title": "Les valeurs de construction reculent avec le choc États-Unis-Iran; les ETF surveillent",
-        "excerpt": "Les valeurs sud-coréennes de la construction ont baissé après des nouvelles de confrontation entre les États-Unis et l’Iran, sous pression du risque moyen-oriental.",
-        "body": "Les valeurs de la construction sur le marché sud-coréen ont reculé ensemble après la diffusion d’informations sur une confrontation entre les États-Unis et l’Iran. Le texte original ne donne pas de chiffres précis sur les vendeurs, les titres concernés ou l’ampleur des baisses. Le fait central est que les nouvelles liées au conflit américano-iranien ont pesé sur le sentiment envers le secteur de la construction. Ces actions peuvent être sensibles aux commandes à l’étranger, aux projets au Moyen-Orient, aux matières premières et aux conditions logistiques. Ce repli illustre la transmission des tensions géopolitiques à la psychologie de marché. Les investisseurs en ETF devraient vérifier leur exposition à la construction, aux infrastructures et aux risques liés au Moyen-Orient. Source : hankyung.com."
-      },
-      "ar": {
-        "title": "أسهم البناء تضعف مع أنباء اشتباك أميركي إيراني ومستثمرو ETF يراقبون المخاطر",
-        "excerpt": "تراجعت أسهم البناء في كوريا الجنوبية جماعيا بعد أنباء عن اشتباك بين الولايات المتحدة وإيران، مع ضغط توترات الشرق الأوسط على شهية المستثمرين.",
-        "body": "تراجعت أسهم البناء في السوق الكورية الجنوبية بصورة جماعية بعد ورود أنباء عن اشتباك بين الولايات المتحدة وإيران. لم يقدّم النص الأصلي أرقاما محددة حول من قام بالبيع، أو أي الشركات هبطت، أو حجم التراجع. النقطة الأساسية هي أن الأخبار المرتبطة بالصراع الأميركي الإيراني أثرت سلبا في معنويات المستثمرين تجاه قطاع البناء. ويمكن لأسهم البناء أن تتأثر بعوامل خارجية مثل الطلبيات الخارجية، ومشروعات الشرق الأوسط، والمواد الخام، وظروف النقل والإمداد. ويعكس هذا الضعف انتقال التوتر الجيوسياسي إلى نفسية السوق. وعلى مستثمري صناديق ETF مراجعة الانكشاف على قطاعات البناء والبنية التحتية والمخاطر المرتبطة بالشرق الأوسط. المصدر: hankyung.com."
-      },
-      "hi": {
-        "title": "अमेरिका-ईरान झड़प की खबर से निर्माण शेयर कमजोर, ETF निवेशक जोखिम पर नजर रखें",
-        "excerpt": "अमेरिका और ईरान के बीच झड़प की खबर के बाद दक्षिण कोरिया में निर्माण शेयर सामूहिक रूप से कमजोर हुए, क्योंकि मध्य पूर्व तनाव ने निवेश भावना पर दबाव डाला।",
-        "body": "अमेरिका और ईरान के बीच झड़प की खबर सामने आने के बाद दक्षिण कोरियाई बाजार में निर्माण क्षेत्र के शेयर सामूहिक रूप से कमजोर हुए। मूल समाचार में यह नहीं बताया गया कि किसने बिकवाली की, कौन से शेयर कितने गिरे, या गिरावट का सटीक आकार क्या था। मुख्य तथ्य यह है कि अमेरिका-ईरान संघर्ष से जुड़ी खबर ने निर्माण क्षेत्र के प्रति निवेश भावना को दबाव में डाला। निर्माण शेयर विदेशी ऑर्डर, मध्य पूर्व परियोजनाओं, कच्चे माल और लॉजिस्टिक्स जैसी बाहरी स्थितियों से प्रभावित हो सकते हैं। यह कमजोरी दिखाती है कि भू-राजनीतिक तनाव बाजार मनोविज्ञान में कैसे उतरता है। ETF निवेशकों को निर्माण और अवसंरचना क्षेत्र की हिस्सेदारी तथा मध्य पूर्व जोखिम की जांच करनी चाहिए। स्रोत: hankyung.com."
-      },
-      "id": {
-        "title": "Saham konstruksi melemah karena kabar bentrokan AS-Iran; investor ETF cermati risiko",
-        "excerpt": "Saham konstruksi Korea Selatan melemah bersamaan setelah kabar bentrokan AS-Iran, menunjukkan tekanan risiko Timur Tengah terhadap sentimen pasar.",
-        "body": "Saham konstruksi di pasar Korea Selatan melemah bersamaan setelah muncul kabar bentrokan antara Amerika Serikat dan Iran. Teks asli tidak memuat angka spesifik mengenai siapa yang menjual, saham mana yang turun, atau seberapa besar penurunannya. Inti beritanya adalah kabar terkait konflik AS-Iran menekan sentimen terhadap sektor konstruksi secara luas. Saham konstruksi dapat sensitif terhadap faktor eksternal seperti pesanan luar negeri, proyek Timur Tengah, bahan baku, dan kondisi logistik. Pelemahan ini menunjukkan bagaimana ketegangan geopolitik dapat tercermin dalam psikologi pasar. Investor ETF perlu meninjau eksposur pada sektor konstruksi dan infrastruktur serta risiko yang berkaitan dengan Timur Tengah. Sumber: hankyung.com."
-      }
-    }
-  },
-  {
-    "id": "c2ddfd2783ee",
-    "slug": "한울반도체mds테크-액면병합-후-첫날-상한가-106381",
-    "channelId": "ETF",
-    "category": "etf",
-    "publishedAt": "2026-05-08T21:40:55.731Z",
-    "updatedAt": "2026-05-08T21:40:55.731Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/2026050834296",
-    "canonicalUrl": "https://www.hankyung.com/article/2026050834296",
-    "titleFingerprint": "117b990699d1026dbadb0f682adfb11386a73793",
-    "dedupKeys": [
-      "c2ddfd2783ee0725238354ecafcc530d9a5017ec",
-      "117b990699d1026dbadb0f682adfb11386a73793",
-      "d5820d43a26be5db943adf7e664ffed9430a492e"
-    ],
-    "imageUrl": "/images/articles/c2ddfd2783ee.jpg",
-    "i18n": {
-      "ko": {
-        "title": "한울반도체·MDS테크, 액면병합 후 첫 거래일 나란히 상한가 기록",
-        "excerpt": "한울반도체와 MDS테크가 액면병합을 마친 뒤 첫 거래일에 상한가를 기록했다. 거래 재개 직후 두 종목의 가격 흐름이 시장의 관심을 끌었다.",
-        "body": "한울반도체와 MDS테크가 액면병합 이후 첫 거래일에 나란히 상한가를 기록했다고 hankyung.com이 전했다. 두 종목은 액면병합 절차를 마친 뒤 거래가 재개된 첫날 가격제한폭까지 오르며 투자자들의 주목을 받았다. 액면병합은 여러 주식을 합쳐 주당 액면가를 높이는 방식으로, 거래 재개 첫날의 주가 흐름은 해당 종목에 대한 시장 반응을 보여주는 지표가 된다. 다만 원문 입력에는 병합 비율, 기준가, 거래량, 구체적인 시각 등 추가 수치는 포함되지 않았다. 출처: hankyung.com"
-      },
-      "en": {
-        "title": "Hanul Semiconductor and MDS Tech Hit Upper Limit on First Day After Reverse Split",
-        "excerpt": "Hanul Semiconductor and MDS Tech reached the daily upper price limit on their first trading day after a reverse stock split, drawing market attention after trading resumed.",
-        "body": "Hanul Semiconductor and MDS Tech both hit the daily upper price limit on their first trading day after completing reverse stock splits, according to hankyung.com. The two stocks drew attention as trading resumed and prices rose to the market’s upper limit. A reverse stock split combines multiple shares into fewer shares with a higher par value, and the first session after resumption can show how investors respond to the change. The provided source text did not include the split ratio, reference price, trading volume, or exact trading time. Source: hankyung.com"
-      },
-      "ja": {
-        "title": "ハンウル半導体とMDSテック、株式併合後の初取引日にそろってストップ高",
-        "excerpt": "ハンウル半導体とMDSテックは株式併合後の初取引日にストップ高を記録した。取引再開直後の値動きが市場の関心を集めた。",
-        "body": "ハンウル半導体とMDSテックが、株式併合後の初取引日にそろってストップ高を記録したとhankyung.comが伝えた。両銘柄は株式併合の手続きを終え、取引が再開された初日に値幅制限の上限まで上昇し、投資家の注目を集めた。株式併合は複数の株式をまとめて1株当たりの額面を高める方法で、取引再開初日の株価推移は市場の反応を示す材料となる。ただし、提供された原文には併合比率、基準価格、出来高、具体的な時刻などの追加数値は含まれていない。出典: hankyung.com"
-      },
-      "zh": {
-        "title": "Hanul Semiconductor与MDS Tech并涨停，合股后首个交易日受关注",
-        "excerpt": "Hanul Semiconductor和MDS Tech在完成股票合并后的首个交易日双双涨停。交易恢复后的股价表现引发市场关注。",
-        "body": "据hankyung.com报道，Hanul Semiconductor和MDS Tech在股票合并后的首个交易日双双触及涨停。两只股票在完成合股程序并恢复交易后，首日价格升至涨跌幅限制上限，受到投资者关注。股票合并是将多股合并为较少股份、提高每股面值的方式，恢复交易首日的走势可反映市场对相关变化的反应。不过，所提供原文未包含合并比例、基准价、成交量或具体交易时间等进一步数据。来源: hankyung.com"
-      },
-      "es": {
-        "title": "Hanul Semiconductor y MDS Tech tocan el límite alcista tras su primer día poscontrasplit",
-        "excerpt": "Hanul Semiconductor y MDS Tech alcanzaron el límite diario de subida en su primer día de negociación tras un contrasplit, atrayendo la atención del mercado.",
-        "body": "Hanul Semiconductor y MDS Tech alcanzaron el límite diario de subida en su primer día de negociación tras completar un contrasplit, según hankyung.com. Las dos acciones atrajeron la atención de los inversores al reanudarse la negociación y subir hasta el máximo permitido por la jornada. Un contrasplit combina varias acciones en menos títulos con mayor valor nominal por acción, y la primera sesión tras la reanudación puede mostrar la reacción del mercado. El texto fuente proporcionado no incluyó la proporción del contrasplit, precio de referencia, volumen negociado ni hora exacta. Fuente: hankyung.com"
-      },
-      "pt": {
-        "title": "Hanul Semiconductor e MDS Tech sobem ao limite no 1º dia após grupamento",
-        "excerpt": "Hanul Semiconductor e MDS Tech atingiram o limite diário de alta no primeiro pregão após o grupamento de ações, chamando atenção após a retomada das negociações.",
-        "body": "Hanul Semiconductor e MDS Tech atingiram o limite diário de alta no primeiro pregão após concluírem o grupamento de ações, segundo o hankyung.com. Os dois papéis chamaram a atenção dos investidores quando as negociações foram retomadas e os preços subiram até o teto permitido no dia. O grupamento reúne várias ações em uma quantidade menor de papéis com valor nominal maior por ação, e a primeira sessão após a retomada pode indicar a reação do mercado. O texto original fornecido não informou proporção do grupamento, preço de referência, volume negociado ou horário exato. Fonte: hankyung.com"
-      },
-      "de": {
-        "title": "Hanul Semiconductor und MDS Tech erreichen Tageslimit nach Reverse Split",
-        "excerpt": "Hanul Semiconductor und MDS Tech erreichten am ersten Handelstag nach einem Reverse Split das tägliche Kurslimit. Die Wiederaufnahme des Handels rückte beide Aktien in den Fokus.",
-        "body": "Hanul Semiconductor und MDS Tech haben am ersten Handelstag nach abgeschlossenen Reverse Splits jeweils das tägliche obere Kurslimit erreicht, berichtete hankyung.com. Nach Wiederaufnahme des Handels stiegen beide Aktien bis zur zulässigen Obergrenze und zogen damit die Aufmerksamkeit der Anleger auf sich. Bei einem Reverse Split werden mehrere Aktien zu weniger Aktien mit höherem Nennwert zusammengelegt; die erste Sitzung nach der Wiederaufnahme kann die Marktreaktion zeigen. Im bereitgestellten Ausgangstext waren Split-Verhältnis, Referenzkurs, Handelsvolumen und genaue Uhrzeit nicht enthalten. Quelle: hankyung.com"
-      },
-      "fr": {
-        "title": "Hanul Semiconductor et MDS Tech au plafond de hausse après leur regroupement d’actions",
-        "excerpt": "Hanul Semiconductor et MDS Tech ont atteint la limite quotidienne de hausse lors de leur premier jour de cotation après un regroupement d’actions, attirant l’attention du marché.",
-        "body": "Hanul Semiconductor et MDS Tech ont tous deux atteint la limite quotidienne de hausse lors de leur premier jour de cotation après un regroupement d’actions, selon hankyung.com. Les deux titres ont attiré l’attention des investisseurs après la reprise des échanges, leurs cours montant jusqu’au plafond autorisé. Un regroupement d’actions consiste à réunir plusieurs actions en un nombre plus faible de titres avec une valeur nominale plus élevée par action; la première séance après reprise peut refléter la réaction du marché. Le texte source fourni ne précisait pas le ratio, le prix de référence, le volume ou l’heure exacte. Source: hankyung.com"
-      },
-      "ar": {
-        "title": "هانول سيميكوندكتور وMDS Tech يبلغان الحد الأعلى في أول تداول بعد تجميع الأسهم",
-        "excerpt": "سجلت هانول سيميكوندكتور وMDS Tech الحد اليومي الأعلى للسعر في أول يوم تداول بعد تجميع الأسهم، ما جذب اهتمام السوق عقب استئناف التداول.",
-        "body": "سجلت هانول سيميكوندكتور وMDS Tech الحد اليومي الأعلى للسعر في أول يوم تداول بعد إتمام تجميع الأسهم، بحسب hankyung.com. وجذبت السهمان انتباه المستثمرين مع استئناف التداول وارتفاع السعرين إلى الحد الأقصى المسموح به في الجلسة. ويعني تجميع الأسهم دمج عدة أسهم في عدد أقل من الأسهم مع رفع القيمة الاسمية للسهم الواحد، ويمكن أن يوضح أول يوم تداول بعد الاستئناف رد فعل السوق. ولم يتضمن النص الأصلي المقدم نسبة التجميع أو السعر المرجعي أو حجم التداول أو التوقيت الدقيق. المصدر: hankyung.com"
-      },
-      "hi": {
-        "title": "Hanul Semiconductor और MDS Tech रिवर्स स्प्लिट के बाद पहले दिन ऊपरी सीमा पर",
-        "excerpt": "Hanul Semiconductor और MDS Tech ने रिवर्स स्टॉक स्प्लिट के बाद पहले कारोबारी दिन दैनिक ऊपरी मूल्य सीमा छू ली, जिससे बाजार का ध्यान इन शेयरों पर गया।",
-        "body": "hankyung.com के अनुसार, Hanul Semiconductor और MDS Tech ने रिवर्स स्टॉक स्प्लिट पूरा करने के बाद पहले कारोबारी दिन दैनिक ऊपरी मूल्य सीमा दर्ज की। कारोबार फिर शुरू होने पर दोनों शेयर अधिकतम अनुमत स्तर तक चढ़े और निवेशकों का ध्यान आकर्षित किया। रिवर्स स्टॉक स्प्लिट में कई शेयरों को मिलाकर कम संख्या के शेयर बनाए जाते हैं और प्रति शेयर अंकित मूल्य बढ़ता है; पुनः कारोबार के पहले दिन की चाल बाजार की प्रतिक्रिया दिखा सकती है। उपलब्ध मूल पाठ में स्प्लिट अनुपात, संदर्भ मूल्य, कारोबार मात्रा या सटीक समय शामिल नहीं था। स्रोत: hankyung.com"
-      },
-      "id": {
-        "title": "Hanul Semiconductor dan MDS Tech Sentuh Batas Atas Usai Reverse Stock Split",
-        "excerpt": "Hanul Semiconductor dan MDS Tech mencapai batas atas harian pada hari pertama perdagangan setelah reverse stock split, menarik perhatian pasar saat perdagangan kembali dibuka.",
-        "body": "Hanul Semiconductor dan MDS Tech sama-sama menyentuh batas atas harian pada hari pertama perdagangan setelah menyelesaikan reverse stock split, menurut hankyung.com. Kedua saham menarik perhatian investor setelah perdagangan kembali dibuka dan harga naik hingga batas maksimum yang diizinkan. Reverse stock split menggabungkan beberapa saham menjadi jumlah saham yang lebih sedikit dengan nilai nominal per saham lebih tinggi, dan sesi pertama setelah pembukaan kembali dapat menunjukkan respons pasar. Teks sumber yang diberikan tidak memuat rasio penggabungan, harga acuan, volume perdagangan, atau waktu persis. Sumber: hankyung.com"
-      }
-    }
-  },
-  {
-    "id": "c34c37b44d54",
-    "slug": "hd한국조선해양-분석-구조적인-수익성-개선환율수주환경-변화가-변수-152531",
-    "channelId": "ETF",
-    "category": "etf",
-    "publishedAt": "2026-05-08T21:17:18.828Z",
-    "updatedAt": "2026-05-08T21:17:18.828Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/202605083464i",
-    "canonicalUrl": "https://www.hankyung.com/article/202605083464i",
-    "titleFingerprint": "bb310edc5456ba03e96ec01b1498b85e494e6c5f",
-    "dedupKeys": [
-      "c34c37b44d54ac51d9abe53f8a2fcedd13c930d9",
-      "bb310edc5456ba03e96ec01b1498b85e494e6c5f",
-      "23bcbd89d8ed077ac70a5c627d60fbccf63b7b14"
-    ],
-    "imageUrl": "/images/articles/c34c37b44d54.jpg",
-    "i18n": {
-      "ko": {
-        "title": "HD한국조선해양 분석, 구조적 수익성 개선에도 환율·수주 변수가 핵심",
-        "excerpt": "hankyung.com은 HD한국조선해양을 분석하며 구조적인 수익성 개선 흐름이 이어지는 가운데 환율과 수주환경 변화가 향후 변수라고 전했다.",
-        "body": "HD한국조선해양은 최근 분석에서 구조적인 수익성 개선 흐름이 주목받고 있다. hankyung.com에 따르면 이 회사의 실적 판단에서 핵심은 수익성 개선이 일회성이 아니라 구조적으로 진행되고 있다는 점이다. 다만 향후 흐름은 환율과 수주환경 변화에 따라 달라질 수 있다. 조선업 특성상 환율은 매출과 이익 해석에 영향을 주고, 수주환경은 중장기 실적 가시성과 연결된다. 따라서 투자자와 시장은 개선된 수익성이 유지될지와 함께 외부 변수의 변화를 확인할 필요가 있다. 출처: hankyung.com"
-      },
-      "en": {
-        "title": "HD Korea Shipbuilding Analysis: Profitability Improves, FX and Orders Matter",
-        "excerpt": "hankyung.com analyzed HD Korea Shipbuilding & Offshore Engineering, noting structural profitability improvement while exchange rates and order conditions remain key variables.",
-        "body": "HD Korea Shipbuilding & Offshore Engineering is drawing attention in a recent analysis for its structural improvement in profitability. According to hankyung.com, the key point in assessing the company is that the profitability gains are not viewed as one-off but as structural. However, future momentum may vary depending on exchange rates and changes in the order environment. In shipbuilding, currency movements can affect how revenue and profit are interpreted, while order conditions are tied to medium- and long-term earnings visibility. Investors and the market therefore need to monitor whether improved profitability can be sustained and how external variables change. Source: hankyung.com"
-      },
-      "ja": {
-        "title": "HD韓国造船海洋分析、構造的な収益性改善も為替・受注環境が焦点",
-        "excerpt": "hankyung.comはHD韓国造船海洋について、構造的な収益性改善が続く一方、為替と受注環境の変化が今後の変数になると伝えた。",
-        "body": "HD韓国造船海洋は最近の分析で、構造的な収益性改善の流れが注目されている。hankyung.comによると、同社の業績を判断するうえで重要なのは、収益性の改善が一時的ではなく構造的に進んでいる点だ。ただし今後の流れは、為替と受注環境の変化によって左右される可能性がある。造船業の特性上、為替は売上高と利益の見方に影響し、受注環境は中長期の業績の見通しと結び付く。そのため投資家と市場は、改善した収益性が維持されるかに加え、外部変数の変化を確認する必要がある。出典: hankyung.com"
-      },
-      "zh": {
-        "title": "HD韩国造船海洋分析：结构性盈利改善，汇率与订单环境成变量",
-        "excerpt": "hankyung.com分析HD韩国造船海洋称，公司结构性盈利改善趋势延续，但汇率和订单环境变化将成为后续关键变量。",
-        "body": "HD韩国造船海洋在近期分析中因结构性盈利改善趋势受到关注。据hankyung.com报道，判断该公司业绩的核心在于，盈利改善并非一次性因素，而是呈现结构性推进。不过，未来走势可能会受到汇率和订单环境变化的影响。由于造船业的特点，汇率会影响市场对销售额和利润的解读，订单环境则关系到中长期业绩的可见度。因此，投资者和市场需要关注改善后的盈利能力能否持续，同时确认外部变量的变化。来源: hankyung.com"
-      },
-      "es": {
-        "title": "HD Korea Shipbuilding: mejora estructural de rentabilidad, con divisas y pedidos en foco",
-        "excerpt": "hankyung.com analizó HD Korea Shipbuilding & Offshore Engineering y señaló una mejora estructural de la rentabilidad, con el tipo de cambio y los pedidos como variables.",
-        "body": "HD Korea Shipbuilding & Offshore Engineering destaca en un análisis reciente por una mejora estructural de la rentabilidad. Según hankyung.com, el punto central para evaluar a la compañía es que la mejora de la rentabilidad no se considera puntual, sino estructural. Sin embargo, la evolución futura puede cambiar según el tipo de cambio y las condiciones del entorno de pedidos. En la industria naval, las divisas influyen en la lectura de ingresos y beneficios, mientras que el entorno de pedidos está ligado a la visibilidad de resultados a medio y largo plazo. Por ello, los inversores y el mercado deben observar si la rentabilidad mejorada se mantiene y cómo cambian las variables externas. Fuente: hankyung.com"
-      },
-      "pt": {
-        "title": "HD Korea Shipbuilding: rentabilidade estrutural melhora, mas câmbio e pedidos pesam",
-        "excerpt": "O hankyung.com analisou a HD Korea Shipbuilding & Offshore Engineering e apontou melhora estrutural da rentabilidade, com câmbio e ambiente de pedidos como variáveis.",
-        "body": "A HD Korea Shipbuilding & Offshore Engineering chama atenção em análise recente pela melhora estrutural da rentabilidade. Segundo o hankyung.com, o ponto central na avaliação da empresa é que a melhora da rentabilidade não é vista como pontual, mas como estrutural. Ainda assim, a trajetória futura pode variar conforme o câmbio e as mudanças no ambiente de pedidos. No setor naval, o câmbio afeta a leitura de receita e lucro, enquanto o ambiente de pedidos se relaciona à visibilidade de resultados de médio e longo prazo. Assim, investidores e mercado precisam acompanhar se a rentabilidade melhorada será mantida e como as variáveis externas evoluem. Fonte: hankyung.com"
-      },
-      "de": {
-        "title": "HD Korea Shipbuilding: strukturelle Margenverbesserung, FX und Aufträge entscheidend",
-        "excerpt": "hankyung.com analysierte HD Korea Shipbuilding & Offshore Engineering und verwies auf strukturelle Profitabilitätsverbesserung, während Wechselkurse und Auftragslage Variablen bleiben.",
-        "body": "HD Korea Shipbuilding & Offshore Engineering steht in einer aktuellen Analyse wegen einer strukturellen Verbesserung der Profitabilität im Fokus. Laut hankyung.com ist für die Beurteilung des Unternehmens entscheidend, dass die höhere Profitabilität nicht als einmaliger Effekt, sondern als strukturelle Entwicklung gesehen wird. Der weitere Verlauf kann jedoch von Wechselkursen und Veränderungen im Auftragsumfeld abhängen. In der Schiffbauindustrie beeinflussen Währungen die Interpretation von Umsatz und Gewinn, während die Auftragslage mit der mittel- und langfristigen Ergebnissichtbarkeit verbunden ist. Anleger und Marktteilnehmer sollten daher prüfen, ob die verbesserte Profitabilität anhält und wie sich externe Variablen verändern. Quelle: hankyung.com"
-      },
-      "fr": {
-        "title": "HD Korea Shipbuilding : rentabilité structurelle en hausse, change et commandes à surveiller",
-        "excerpt": "hankyung.com a analysé HD Korea Shipbuilding & Offshore Engineering, soulignant une amélioration structurelle de la rentabilité, avec le change et les commandes comme variables.",
-        "body": "HD Korea Shipbuilding & Offshore Engineering retient l’attention dans une analyse récente grâce à une amélioration structurelle de sa rentabilité. Selon hankyung.com, le point clé pour évaluer l’entreprise est que cette amélioration n’est pas considérée comme ponctuelle, mais comme structurelle. Toutefois, la trajectoire future pourrait varier selon les taux de change et l’évolution de l’environnement des commandes. Dans la construction navale, les devises influencent la lecture du chiffre d’affaires et des bénéfices, tandis que les commandes sont liées à la visibilité des résultats à moyen et long terme. Les investisseurs et le marché doivent donc suivre la durabilité de cette rentabilité améliorée et l’évolution des variables externes. Source : hankyung.com"
-      },
-      "ar": {
-        "title": "تحليل HD Korea Shipbuilding: تحسن هيكلي في الربحية مع ترقب الصرف والطلبات",
-        "excerpt": "حلل hankyung.com شركة HD Korea Shipbuilding & Offshore Engineering، مشيرا إلى تحسن هيكلي في الربحية مع بقاء أسعار الصرف وبيئة الطلبات متغيرين رئيسيين.",
-        "body": "تلفت HD Korea Shipbuilding & Offshore Engineering الانتباه في تحليل حديث بسبب مسار تحسن هيكلي في الربحية. ووفقا لـ hankyung.com، فإن النقطة الأساسية في تقييم الشركة هي أن تحسن الربحية لا ينظر إليه كعامل مؤقت، بل كتطور هيكلي. لكن المسار المقبل قد يتغير بحسب أسعار الصرف وتبدلات بيئة الطلبات. وبحكم طبيعة صناعة بناء السفن، يمكن أن تؤثر أسعار الصرف في قراءة الإيرادات والأرباح، بينما ترتبط بيئة الطلبات بوضوح الأداء على المدى المتوسط والطويل. لذلك يحتاج المستثمرون والسوق إلى متابعة ما إذا كانت الربحية المحسنة ستستمر، إلى جانب رصد تغير المتغيرات الخارجية. المصدر: hankyung.com"
-      },
-      "hi": {
-        "title": "HD Korea Shipbuilding विश्लेषण: संरचनात्मक लाभप्रदता सुधार, विनिमय दर और ऑर्डर अहम",
-        "excerpt": "hankyung.com ने HD Korea Shipbuilding & Offshore Engineering का विश्लेषण करते हुए संरचनात्मक लाभप्रदता सुधार बताया, जबकि विनिमय दर और ऑर्डर माहौल प्रमुख चर रहेंगे।",
-        "body": "HD Korea Shipbuilding & Offshore Engineering हालिया विश्लेषण में संरचनात्मक लाभप्रदता सुधार के कारण ध्यान में है। hankyung.com के अनुसार, कंपनी के प्रदर्शन का आकलन करते समय मुख्य बात यह है कि लाभप्रदता में सुधार को एकबारगी नहीं, बल्कि संरचनात्मक माना जा रहा है। हालांकि आगे की दिशा विनिमय दरों और ऑर्डर माहौल में बदलाव पर निर्भर हो सकती है। जहाज निर्माण उद्योग की प्रकृति के कारण विनिमय दरें राजस्व और लाभ की व्याख्या को प्रभावित करती हैं, जबकि ऑर्डर माहौल मध्यम और दीर्घकालिक आय दृश्यता से जुड़ा होता है। इसलिए निवेशकों और बाजार को देखना होगा कि सुधरी हुई लाभप्रदता बनी रहती है या नहीं और बाहरी चर कैसे बदलते हैं। स्रोत: hankyung.com"
-      },
-      "id": {
-        "title": "Analisis HD Korea Shipbuilding: profitabilitas struktural membaik, kurs dan order jadi kunci",
-        "excerpt": "hankyung.com menganalisis HD Korea Shipbuilding & Offshore Engineering dan menyebut perbaikan profitabilitas struktural, sementara kurs dan lingkungan order menjadi variabel utama.",
-        "body": "HD Korea Shipbuilding & Offshore Engineering menjadi perhatian dalam analisis terbaru karena tren perbaikan profitabilitas yang bersifat struktural. Menurut hankyung.com, poin utama dalam menilai kinerja perusahaan adalah bahwa peningkatan profitabilitas tidak dilihat sebagai faktor sekali waktu, melainkan berlangsung secara struktural. Namun, arah ke depan dapat berubah bergantung pada kurs dan perubahan lingkungan order. Dalam industri galangan kapal, kurs memengaruhi pembacaan pendapatan dan laba, sementara lingkungan order terkait dengan visibilitas kinerja jangka menengah dan panjang. Karena itu, investor dan pasar perlu memantau apakah profitabilitas yang membaik dapat dipertahankan serta bagaimana variabel eksternal berubah. Sumber: hankyung.com"
       }
     }
   }
