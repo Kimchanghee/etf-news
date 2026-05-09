@@ -1,5 +1,230 @@
 [
   {
+    "id": "e7b906a7bc77",
+    "slug": "노동부-가족돌봄휴가-적용대상-가족-외로-확대-검토-534589",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-05-09T21:32:07.890Z",
+    "updatedAt": "2026-05-09T21:32:07.890Z",
+    "sourceName": "yna.co.kr",
+    "sourceUrl": "https://www.yna.co.kr/view/AKR20260508156000530",
+    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260508156000530",
+    "titleFingerprint": "b3da1ed15015436d6bff68c46b799a0ed88407a1",
+    "dedupKeys": [
+      "e7b906a7bc77dcf25c07ff47d82624e4d678094f",
+      "b3da1ed15015436d6bff68c46b799a0ed88407a1",
+      "9be3525449730ca86d31d2b9fd92a97cb77209fb"
+    ],
+    "imageUrl": "/images/articles/e7b906a7bc77.jpg",
+    "i18n": {
+      "ko": {
+        "title": "가족돌봄휴가 적용대상 확대 검토…법률상 가족 밖 관계도 포함되나",
+        "excerpt": "노동부가 가족돌봄 휴직·휴가 적용 대상을 법률상 가족이 아닌 관계까지 넓히는 방안을 검토하면서 제도 변화 가능성이 주목된다.",
+        "body": "노동부가 가족돌봄 휴직·휴가의 적용 대상을 법률상 가족이 아닌 관계까지 확대하는 방안을 검토한다. 연합뉴스에 따르면 이번 검토는 가족돌봄 제도의 대상 범위를 현행 법률상 가족 중심에서 더 넓힐 수 있는지 살펴보는 내용이다. 가족돌봄 휴직·휴가는 돌봄이 필요한 가족을 위해 근로자가 사용할 수 있는 제도인 만큼, 적용 대상 조정 여부는 근로자의 돌봄 공백 대응과 사업장의 인사 운영에 영향을 줄 수 있다. 다만 구체적인 확대 범위와 시행 시기 등은 원문에서 제시되지 않았다. 출처: yna.co.kr"
+      },
+      "en": {
+        "title": "Labor Ministry Reviews Expanding Family Care Leave Beyond Legal Family",
+        "excerpt": "South Korea’s Labor Ministry is reviewing whether family care leave and related leave can apply to relationships beyond legally defined family members.",
+        "body": "South Korea’s Labor Ministry is reviewing a plan to expand the scope of family care leave and family care-related leave to relationships that are not legally defined as family. According to Yonhap News Agency, the review focuses on whether the current family-centered legal framework for the system can be broadened. Because family care leave is designed for workers who need time to care for family members, any change in eligibility could affect how employees respond to care gaps and how workplaces manage staffing. The original report did not provide details on the exact scope of expansion or timing. Source: yna.co.kr"
+      },
+      "ja": {
+        "title": "家族介護休暇の対象拡大を検討、法的家族以外の関係も対象に",
+        "excerpt": "韓国の雇用労働部が、家族介護休職・休暇の対象を法的な家族以外の関係に広げる案を検討していることが分かった。",
+        "body": "韓国の雇用労働部は、家族介護休職・休暇の適用対象を、法律上の家族ではない関係にまで拡大する案を検討する。聯合ニュースによると、今回の検討は、現行制度が法律上の家族を中心にしている対象範囲を、より広げられるかを確認する内容だ。家族介護休職・休暇は、介護や世話が必要な家族のために労働者が利用できる制度であるため、対象の見直しは労働者のケア空白への対応や職場の人事運営に影響を与える可能性がある。ただし、具体的な拡大範囲や実施時期は原文では示されていない。出典: yna.co.kr"
+      },
+      "zh": {
+        "title": "劳动部研究扩大家庭照护假适用对象，或纳入法定家属外关系",
+        "excerpt": "韩国劳动部正研究将家庭照护休职和休假适用对象扩大至非法定家属关系，相关制度调整可能受到关注。",
+        "body": "韩国劳动部正研究将家庭照护休职、休假的适用对象扩大到法律意义上的家属以外关系。韩联社报道称，此次研究的重点是现行以法定家属为中心的家庭照护制度适用范围是否可以进一步扩大。家庭照护休职和休假是劳动者为照护需要照料的家属而使用的制度，因此适用对象是否调整，可能影响劳动者应对照护空缺以及企业的人事安排。不过，原报道未说明具体扩大范围和实施时间。来源: yna.co.kr"
+      },
+      "es": {
+        "title": "Trabajo estudia ampliar la licencia de cuidado familiar más allá de la familia legal",
+        "excerpt": "El Ministerio de Trabajo de Corea del Sur revisa si las licencias por cuidado familiar pueden cubrir relaciones no reconocidas legalmente como familia.",
+        "body": "El Ministerio de Trabajo de Corea del Sur estudia ampliar el alcance de la licencia y la excedencia por cuidado familiar a relaciones que no estén definidas legalmente como familia. Según la agencia Yonhap, la revisión analiza si el sistema actual, centrado en la familia reconocida por la ley, puede abarcar un grupo más amplio. Como estas licencias permiten a los trabajadores atender a familiares que necesitan cuidado, un cambio en los criterios podría influir en la respuesta ante vacíos de cuidado y en la gestión de personal de las empresas. El reporte original no precisó el alcance concreto ni el calendario de aplicación. Fuente: yna.co.kr"
+      },
+      "pt": {
+        "title": "Ministério avalia ampliar licença de cuidado familiar além da família legal",
+        "excerpt": "O Ministério do Trabalho da Coreia do Sul analisa ampliar a licença e o afastamento para cuidado familiar a relações fora da definição legal de família.",
+        "body": "O Ministério do Trabalho da Coreia do Sul avalia uma proposta para ampliar o alcance do afastamento e da licença para cuidado familiar a relações que não sejam legalmente definidas como família. Segundo a Yonhap, a análise verifica se o atual sistema, centrado em familiares previstos em lei, pode ter seu escopo ampliado. Como a licença de cuidado familiar é usada por trabalhadores que precisam cuidar de familiares, uma mudança de elegibilidade pode afetar a resposta a lacunas de cuidado e a gestão de pessoal nas empresas. O texto original não informou o alcance específico da expansão nem o prazo de implementação. Fonte: yna.co.kr"
+      },
+      "de": {
+        "title": "Arbeitsministerium prüft Ausweitung von Pflegeurlaub über gesetzliche Familie hinaus",
+        "excerpt": "Südkoreas Arbeitsministerium prüft, ob Familienpflegezeit und Pflegeurlaub auch für Beziehungen außerhalb der gesetzlichen Familie gelten können.",
+        "body": "Südkoreas Arbeitsministerium prüft einen Plan, den Anwendungsbereich von Familienpflegezeit und Familienpflegeurlaub auf Beziehungen auszuweiten, die rechtlich nicht als Familie definiert sind. Nach Angaben der Nachrichtenagentur Yonhap geht es darum, ob das derzeit auf gesetzliche Familienangehörige ausgerichtete System breiter gefasst werden kann. Da der Pflegeurlaub Beschäftigten Zeit für die Betreuung pflegebedürftiger Familienmitglieder ermöglichen soll, könnte eine Änderung der Anspruchsberechtigung Auswirkungen auf Betreuungslücken und die Personalplanung in Betrieben haben. Der ursprüngliche Bericht nannte keinen konkreten Umfang und keinen Zeitpunkt der Umsetzung. Quelle: yna.co.kr"
+      },
+      "fr": {
+        "title": "Le ministère du Travail étudie un congé d’aide familiale au-delà du cadre légal",
+        "excerpt": "Le ministère sud-coréen du Travail examine l’extension du congé et de l’absence pour aide familiale à des relations non reconnues légalement comme famille.",
+        "body": "Le ministère sud-coréen du Travail examine une mesure visant à étendre le champ du congé et de l’absence pour aide familiale à des relations qui ne sont pas juridiquement définies comme familiales. Selon l’agence Yonhap, cette étude porte sur la possibilité d’élargir un dispositif actuellement centré sur la famille au sens légal. Comme ces congés permettent aux salariés de s’occuper de proches ayant besoin de soins, une modification des critères pourrait peser sur la gestion des besoins de prise en charge et sur l’organisation du personnel dans les entreprises. Le rapport initial ne précise ni le périmètre exact ni le calendrier. Source: yna.co.kr"
+      },
+      "ar": {
+        "title": "وزارة العمل تدرس توسيع إجازة رعاية الأسرة لتشمل علاقات خارج الأسرة القانونية",
+        "excerpt": "تراجع وزارة العمل في كوريا الجنوبية إمكانية توسيع إجازات رعاية الأسرة لتشمل علاقات لا تُعد أسرة بموجب القانون الحالي.",
+        "body": "تدرس وزارة العمل في كوريا الجنوبية خطة لتوسيع نطاق إجازة ووقف العمل لرعاية الأسرة ليشمل علاقات لا تُعرّف قانونيا على أنها أسرة. ووفقا لوكالة يونهاب، تركز المراجعة على ما إذا كان يمكن توسيع النظام الحالي القائم على الأسرة القانونية إلى نطاق أوسع. وبما أن هذه الإجازات تتيح للعاملين رعاية أفراد الأسرة المحتاجين إلى عناية، فإن تعديل نطاق الاستحقاق قد يؤثر في معالجة فجوات الرعاية وفي إدارة شؤون الموظفين داخل أماكن العمل. ولم يذكر التقرير الأصلي تفاصيل عن النطاق المحدد للتوسيع أو موعد التنفيذ. المصدر: yna.co.kr"
+      },
+      "hi": {
+        "title": "परिवार देखभाल अवकाश का दायरा कानूनी परिवार से आगे बढ़ाने पर विचार",
+        "excerpt": "दक्षिण कोरिया का श्रम मंत्रालय परिवार देखभाल अवकाश और अवकाश-संबंधी व्यवस्था को कानूनी परिवार से बाहर के संबंधों तक बढ़ाने पर विचार कर रहा है।",
+        "body": "दक्षिण कोरिया का श्रम मंत्रालय परिवार देखभाल अवकाश और परिवार देखभाल से जुड़े अवकाश का दायरा उन संबंधों तक बढ़ाने की योजना पर विचार कर रहा है जिन्हें कानूनन परिवार नहीं माना जाता। योनहाप समाचार एजेंसी के अनुसार, यह समीक्षा इस बात पर केंद्रित है कि मौजूदा कानूनी परिवार आधारित व्यवस्था को और व्यापक बनाया जा सकता है या नहीं। यह व्यवस्था उन कामगारों के लिए है जिन्हें देखभाल की जरूरत वाले परिवारजन की देखभाल करनी होती है, इसलिए पात्रता में बदलाव से देखभाल की कमी से निपटने और कार्यस्थलों के मानव संसाधन संचालन पर असर पड़ सकता है। मूल रिपोर्ट में विस्तार की सटीक सीमा या लागू होने का समय नहीं बताया गया। स्रोत: yna.co.kr"
+      },
+      "id": {
+        "title": "Kementerian Tenaga Kerja Kaji Perluasan Cuti Perawatan Keluarga",
+        "excerpt": "Kementerian Tenaga Kerja Korea Selatan mengkaji perluasan cuti dan izin perawatan keluarga hingga mencakup relasi di luar keluarga menurut hukum.",
+        "body": "Kementerian Tenaga Kerja Korea Selatan mengkaji rencana memperluas cakupan cuti dan izin perawatan keluarga ke hubungan yang tidak didefinisikan secara hukum sebagai keluarga. Menurut Yonhap, kajian ini menyoroti apakah sistem yang saat ini berpusat pada keluarga menurut hukum dapat diperluas. Karena cuti perawatan keluarga digunakan pekerja untuk merawat anggota keluarga yang membutuhkan perhatian, perubahan cakupan kelayakan dapat memengaruhi cara pekerja menghadapi kekosongan perawatan dan cara perusahaan mengelola sumber daya manusia. Laporan asli tidak menyebutkan rincian cakupan perluasan maupun waktu penerapan. Sumber: yna.co.kr"
+      }
+    }
+  },
+  {
+    "id": "74c5b723bdfb",
+    "slug": "도급대금-안줘-임금체불고공농성노동부-부영주택-시정지시-306666",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-05-09T21:31:16.076Z",
+    "updatedAt": "2026-05-09T21:31:16.076Z",
+    "sourceName": "yna.co.kr",
+    "sourceUrl": "https://www.yna.co.kr/view/AKR20260508142700530",
+    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260508142700530",
+    "titleFingerprint": "4e32161ff112b3bd79926f2c41e4bd277a86f863",
+    "dedupKeys": [
+      "74c5b723bdfb20ff5ad82c853a93c507cf954b7d",
+      "4e32161ff112b3bd79926f2c41e4bd277a86f863",
+      "1e6a3d755483d53ed344770b6cc79e7956576453"
+    ],
+    "imageUrl": "/images/articles/74c5b723bdfb.jpg",
+    "i18n": {
+      "ko": {
+        "title": "부영주택 도급대금 미지급 논란에 노동부 시정지시, 임금체불·고공농성까지",
+        "excerpt": "고용노동부는 자체 감사 등을 이유로 하도급 업체 기성금 지급을 미루고 직원 수당을 적게 준 부영주택에 대해 시정지시를 내렸다고 연합뉴스가 보도했다.",
+        "body": "고용노동부가 하도급 업체에 도급대금 성격의 기성금 지급을 미루고 직원들에게 수당을 적게 지급한 부영주택에 대해 시정지시를 내렸다. 연합뉴스에 따르면 이번 사안은 부영주택이 자체 감사 등을 이유로 하도급 업체에 지급해야 할 금액을 지연하면서 불거졌다. 이 과정에서 임금체불 문제가 제기됐고, 관련 노동자가 고공농성에 나서는 상황까지 이어졌다. 노동부의 시정지시는 미지급 대금과 수당 문제를 바로잡기 위한 조치로, 향후 부영주택의 이행 여부가 쟁점이 될 전망이다. 출처: yna.co.kr"
+      },
+      "en": {
+        "title": "Labor Ministry Orders Booyoung Housing to Fix Unpaid Contract Payments and Wages",
+        "excerpt": "South Korea’s Labor Ministry issued a corrective order to Booyoung Housing after it delayed progress payments to a subcontractor and underpaid employee allowances, Yonhap reported.",
+        "body": "South Korea’s Ministry of Employment and Labor has issued a corrective order to Booyoung Housing over delayed progress payments to a subcontractor and reduced allowance payments to employees. According to Yonhap News Agency, the issue arose after Booyoung Housing postponed payments owed to a subcontracting company, citing reasons such as an internal audit. The dispute led to allegations of unpaid wages and escalated to a high-altitude sit-in by a related worker. The ministry’s order is aimed at correcting the unpaid contract payment and allowance issues, and attention is expected to turn to whether Booyoung Housing complies. Source: yna.co.kr"
+      },
+      "ja": {
+        "title": "富栄住宅に労働部が是正指示、下請代金未払いと賃金未払い・高所座り込みで波紋",
+        "excerpt": "韓国雇用労働部は、自社監査などを理由に下請企業への出来高払いを遅らせ、従業員手当も少なく支給した富栄住宅に是正指示を出したと聯合ニュースが報じた。",
+        "body": "韓国雇用労働部は、下請企業に支払うべき請負代金に当たる出来高払いを遅らせ、従業員への手当を少なく支給した富栄住宅に対し、是正指示を出した。聯合ニュースによると、今回の事案は富栄住宅が自社監査などを理由に、下請企業へ支払うべき金額の支払いを先送りしたことで表面化した。その過程で賃金未払い問題が提起され、関係労働者による高所座り込みにまで発展した。労働部の是正指示は未払い代金と手当問題を正すための措置で、今後は富栄住宅がこれを履行するかが焦点となる見通しだ。出典: yna.co.kr"
+      },
+      "zh": {
+        "title": "富荣住宅拖欠承包款引发工资欠付争议，韩国劳动部下达整改指示",
+        "excerpt": "韩联社报道称，韩国雇佣劳动部对富荣住宅下达整改指示，原因是其以内部审计等为由推迟向分包商支付进度款，并少发员工津贴。",
+        "body": "韩国雇佣劳动部已对富荣住宅下达整改指示，原因是该公司推迟向分包企业支付具有承包款性质的进度款，并少向员工支付津贴。据韩联社报道，此事源于富荣住宅以内部审计等为由，延迟支付应付给分包企业的款项。过程中，工资欠付问题被提出，相关劳动者还展开了高空静坐抗议。劳动部此次整改指示旨在纠正未支付款项和津贴问题，今后富荣住宅是否履行相关要求将成为关注焦点。来源: yna.co.kr"
+      },
+      "es": {
+        "title": "Trabajo ordena a Booyoung Housing corregir pagos de contrato y salarios impagos",
+        "excerpt": "El Ministerio de Trabajo de Corea del Sur emitió una orden correctiva contra Booyoung Housing por retrasar pagos a un subcontratista y pagar menos complementos a empleados, informó Yonhap.",
+        "body": "El Ministerio de Empleo y Trabajo de Corea del Sur emitió una orden correctiva contra Booyoung Housing por retrasar pagos de avance, equivalentes a pagos contractuales, a una empresa subcontratista y por abonar menos complementos a sus empleados. Según la agencia Yonhap, el caso surgió cuando Booyoung Housing pospuso montos adeudados al subcontratista alegando motivos como una auditoría interna. En el proceso se plantearon denuncias de salarios impagos y la situación derivó incluso en una protesta en altura de un trabajador relacionado. La orden busca corregir los pagos y complementos pendientes, y la atención se centrará en si la empresa cumple. Fuente: yna.co.kr"
+      },
+      "pt": {
+        "title": "Trabalho ordena à Booyoung Housing corrigir pagamentos contratuais e salários atrasados",
+        "excerpt": "O Ministério do Trabalho da Coreia do Sul emitiu ordem corretiva à Booyoung Housing por adiar pagamentos a subcontratada e pagar menos adicionais a funcionários, informou a Yonhap.",
+        "body": "O Ministério do Emprego e Trabalho da Coreia do Sul emitiu uma ordem corretiva à Booyoung Housing por atrasar pagamentos por etapas, de natureza contratual, a uma empresa subcontratada e por pagar adicionais menores a seus funcionários. Segundo a agência Yonhap, o caso veio à tona depois que a Booyoung Housing adiou valores devidos à subcontratada alegando motivos como uma auditoria interna. No processo, foram levantadas questões de salários em atraso, e a situação chegou a uma ocupação em altura por um trabalhador relacionado. A ordem do ministério busca corrigir os pagamentos e adicionais não pagos, com foco agora no cumprimento pela empresa. Fonte: yna.co.kr"
+      },
+      "de": {
+        "title": "Arbeitsministerium weist Booyoung Housing wegen ausstehender Werkzahlungen und Löhne zurecht",
+        "excerpt": "Südkoreas Arbeitsministerium hat Booyoung Housing angewiesen, verzögerte Zahlungen an einen Subunternehmer und zu niedrig gezahlte Zulagen für Beschäftigte zu korrigieren, berichtete Yonhap.",
+        "body": "Das südkoreanische Ministerium für Beschäftigung und Arbeit hat Booyoung Housing eine Korrekturanweisung erteilt, weil das Unternehmen Abschlagszahlungen mit Werkvertragscharakter an ein Subunternehmen verzögerte und Beschäftigten zu geringe Zulagen zahlte. Nach Angaben der Nachrichtenagentur Yonhap entstand der Fall, als Booyoung Housing fällige Beträge an den Subunternehmer unter Verweis auf Gründe wie eine interne Prüfung aufschob. Dabei wurden Vorwürfe ausstehender Löhne erhoben, und ein betroffener Arbeiter trat in einen Sitzprotest in großer Höhe. Die Anweisung soll die offenen Zahlungen und Zulagen korrigieren; nun rückt die Umsetzung durch Booyoung Housing in den Fokus. Quelle: yna.co.kr"
+      },
+      "fr": {
+        "title": "Le ministère du Travail ordonne à Booyoung Housing de corriger paiements et salaires impayés",
+        "excerpt": "Le ministère sud-coréen du Travail a émis une injonction corrective contre Booyoung Housing pour des paiements retardés à un sous-traitant et des indemnités réduites à des salariés, selon Yonhap.",
+        "body": "Le ministère sud-coréen de l’Emploi et du Travail a émis une injonction corrective contre Booyoung Housing pour avoir retardé des paiements d’avancement assimilables à des paiements contractuels dus à une entreprise sous-traitante et versé des indemnités réduites à ses employés. Selon l’agence Yonhap, l’affaire est apparue lorsque Booyoung Housing a différé les montants dus au sous-traitant en invoquant notamment un audit interne. Des problèmes de salaires impayés ont alors été soulevés, et la situation a conduit un travailleur concerné à mener un sit-in en hauteur. L’injonction vise à corriger les paiements et indemnités impayés; l’exécution par Booyoung Housing sera désormais surveillée. Source: yna.co.kr"
+      },
+      "ar": {
+        "title": "وزارة العمل تأمر بويوونغ هاوسينغ بتصحيح مدفوعات المقاولة والأجور المتأخرة",
+        "excerpt": "أصدرت وزارة العمل في كوريا الجنوبية أمرا تصحيحيا ضد بويوونغ هاوسينغ بعد تأخير مدفوعات لمقاول فرعي ودفع بدلات أقل للموظفين، بحسب وكالة يونهاب.",
+        "body": "أصدرت وزارة التوظيف والعمل في كوريا الجنوبية أمرا تصحيحيا ضد شركة بويوونغ هاوسينغ بسبب تأخير مدفوعات مرحلية ذات طبيعة تعاقدية إلى شركة مقاولة فرعية، ودفع بدلات أقل للموظفين. ووفقا لوكالة يونهاب، برزت القضية بعدما أرجأت بويوونغ هاوسينغ مبالغ مستحقة للمقاول الفرعي، مستندة إلى أسباب مثل تدقيق داخلي. وخلال ذلك أثيرت مشكلة أجور غير مدفوعة، وتطور الوضع إلى اعتصام على ارتفاع نفذه عامل مرتبط بالقضية. ويهدف أمر الوزارة إلى تصحيح مشكلة المدفوعات والبدلات غير المسددة، ومن المتوقع أن ينصب الاهتمام على مدى التزام بويوونغ هاوسينغ بالتنفيذ. المصدر: yna.co.kr"
+      },
+      "hi": {
+        "title": "बूयंग हाउसिंग को श्रम मंत्रालय का सुधार आदेश, ठेका भुगतान और वेतन बकाया विवाद",
+        "excerpt": "योनहाप के अनुसार, दक्षिण कोरिया के श्रम मंत्रालय ने उपठेकेदार को भुगतान टालने और कर्मचारियों को कम भत्ते देने पर बूयंग हाउसिंग को सुधार आदेश दिया।",
+        "body": "दक्षिण कोरिया के रोजगार और श्रम मंत्रालय ने बूयंग हाउसिंग को सुधार आदेश दिया है। कंपनी पर उपठेकेदार को ठेका भुगतान जैसे प्रगति भुगतान में देरी करने और कर्मचारियों को भत्ते कम देने का मामला है। योनहाप समाचार एजेंसी के अनुसार, यह विवाद तब सामने आया जब बूयंग हाउसिंग ने आंतरिक ऑडिट आदि कारणों का हवाला देकर उपठेकेदार को देय राशि का भुगतान टाल दिया। इसी दौरान वेतन बकाया का मुद्दा उठा और संबंधित श्रमिक ने ऊंचाई पर धरना भी दिया। मंत्रालय का आदेश अवैतनिक राशि और भत्तों की समस्या सुधारने के लिए है, और अब ध्यान इस पर रहेगा कि कंपनी इसका पालन करती है या नहीं। स्रोत: yna.co.kr"
+      },
+      "id": {
+        "title": "Kementerian Tenaga Kerja Perintahkan Booyoung Housing Benahi Pembayaran dan Upah Tertunggak",
+        "excerpt": "Kementerian Tenaga Kerja Korea Selatan mengeluarkan perintah korektif kepada Booyoung Housing karena menunda pembayaran kepada subkontraktor dan membayar tunjangan karyawan lebih rendah, lapor Yonhap.",
+        "body": "Kementerian Ketenagakerjaan dan Perburuhan Korea Selatan mengeluarkan perintah korektif kepada Booyoung Housing karena menunda pembayaran termin yang bersifat pembayaran kontrak kepada perusahaan subkontraktor dan membayar tunjangan karyawan lebih rendah. Menurut kantor berita Yonhap, kasus ini muncul setelah Booyoung Housing menunda pembayaran yang harus diberikan kepada subkontraktor dengan alasan seperti audit internal. Dalam prosesnya, masalah upah tertunggak mengemuka dan situasi berlanjut hingga aksi duduk di ketinggian oleh pekerja terkait. Perintah kementerian bertujuan membenahi pembayaran dan tunjangan yang belum dibayar, sementara perhatian kini tertuju pada kepatuhan Booyoung Housing. Sumber: yna.co.kr"
+      }
+    }
+  },
+  {
+    "id": "cfb5be7d479e",
+    "slug": "20대의-테슬라-기아-제치고-지난달-국내-전기차-첫-1위-655907",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-05-09T21:30:13.133Z",
+    "updatedAt": "2026-05-09T21:30:13.133Z",
+    "sourceName": "yna.co.kr",
+    "sourceUrl": "https://www.yna.co.kr/view/AKR20260509042700003",
+    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260509042700003",
+    "titleFingerprint": "7896331f2884b3abc9c1971d827cba1f84d2321d",
+    "dedupKeys": [
+      "cfb5be7d479e3e2ef1fb0ed7f0f76abb3924bf52",
+      "7896331f2884b3abc9c1971d827cba1f84d2321d",
+      "d74d14b5e2011c527047156bb61999944588467f"
+    ],
+    "imageUrl": "/images/articles/cfb5be7d479e.jpg",
+    "i18n": {
+      "ko": {
+        "title": "테슬라 국내 전기차 판매 첫 1위, 지난달 기아 제친 배경",
+        "excerpt": "미국 테슬라가 지난달 국내 승용 전기차 시장에서 한국 기아를 처음으로 앞서며 판매 1위 브랜드에 올랐다고 연합뉴스가 보도했다.",
+        "body": "미국 테슬라가 지난달 국내 승용 전기차 분야에서 한국 기아를 처음으로 제치고 판매 1위 브랜드가 됐다. 연합뉴스에 따르면 테슬라는 국내 전기차 승용차 판매 경쟁에서 기존 주요 브랜드였던 기아를 앞서며 처음으로 월간 1위에 올랐다. 이번 보도는 국내 전기차 시장에서 수입 브랜드와 국내 완성차 브랜드 간 경쟁 구도가 달라질 수 있음을 보여준다. 다만 원문에는 구체적인 판매 대수나 차종별 수치는 제시되지 않았다. 향후 국내 전기차 판매 흐름과 브랜드별 순위 변화가 주목된다. 출처: yna.co.kr"
+      },
+      "en": {
+        "title": "Tesla Takes First Place in Korea EV Sales, Overtaking Kia Last Month",
+        "excerpt": "Tesla became the top-selling brand in South Korea’s passenger EV market last month, surpassing Kia for the first time, Yonhap News Agency reported.",
+        "body": "Tesla became the No. 1 selling brand in South Korea’s passenger electric vehicle segment last month, overtaking Kia for the first time. According to Yonhap News Agency, the U.S. automaker moved ahead of Kia, one of the major domestic brands in Korea’s EV passenger car market, to claim the monthly top spot for the first time. The report points to a possible shift in the competitive balance between imported EV brands and Korean automakers. The original report did not provide specific sales volumes or model-level figures. Future changes in domestic EV sales trends and brand rankings will be closely watched. Source: yna.co.kr"
+      },
+      "ja": {
+        "title": "テスラ、韓国EV販売で初の首位に 先月キアを上回る",
+        "excerpt": "米テスラが先月、韓国の乗用電気自動車市場でキアを初めて上回り、販売首位ブランドになったと聯合ニュースが報じた。",
+        "body": "米テスラは先月、韓国の乗用電気自動車分野で韓国のキアを初めて上回り、販売首位ブランドとなった。聯合ニュースによると、テスラは韓国のEV乗用車販売競争で、主要な国内ブランドの一つであるキアを抜き、月間首位に初めて立った。今回の報道は、韓国EV市場で輸入ブランドと国内完成車メーカーの競争構図に変化が生じる可能性を示している。ただし、原文では具体的な販売台数や車種別の数値は示されていない。今後の韓国EV販売動向とブランド別順位の変化が注目される。出典: yna.co.kr"
+      },
+      "zh": {
+        "title": "特斯拉上月首次登顶韩国电动车销量，超过起亚",
+        "excerpt": "据韩联社报道，美国特斯拉上月在韩国乘用电动车市场首次超过韩国起亚，成为销量第一的品牌。",
+        "body": "美国特斯拉上月在韩国乘用电动车领域首次超过韩国起亚，成为销量第一的品牌。据韩联社报道，特斯拉在韩国电动乘用车销售竞争中领先起亚，首次登上月度销量榜首。起亚此前是韩国本土主要汽车品牌之一。该报道显示，韩国电动车市场中进口品牌与本土整车品牌之间的竞争格局可能出现变化。不过，原文未提供具体销量或按车型划分的数据。未来韩国电动车销售走势以及各品牌排名变化仍将受到关注。来源: yna.co.kr"
+      },
+      "es": {
+        "title": "Tesla lidera por primera vez las ventas de eléctricos en Corea tras superar a Kia",
+        "excerpt": "Tesla fue la marca más vendida en el mercado surcoreano de turismos eléctricos el mes pasado al superar por primera vez a Kia, informó Yonhap.",
+        "body": "Tesla se convirtió el mes pasado en la marca número uno en ventas dentro del segmento de turismos eléctricos de Corea del Sur, al superar por primera vez a Kia. Según Yonhap News Agency, el fabricante estadounidense adelantó a Kia, una de las principales marcas nacionales en el mercado coreano de vehículos eléctricos de pasajeros, y alcanzó por primera vez el primer puesto mensual. La información apunta a un posible cambio en la competencia entre marcas importadas de eléctricos y fabricantes surcoreanos. El texto original no incluyó cifras concretas de ventas ni datos por modelo. Se seguirá observando la evolución de las ventas de eléctricos y los cambios en el ranking por marcas. Fuente: yna.co.kr"
+      },
+      "pt": {
+        "title": "Tesla lidera vendas de elétricos na Coreia pela primeira vez após superar Kia",
+        "excerpt": "A Tesla foi a marca mais vendida no mercado sul-coreano de carros elétricos de passeio no mês passado, superando a Kia pela primeira vez, informou a Yonhap.",
+        "body": "A Tesla tornou-se no mês passado a marca líder em vendas no segmento de veículos elétricos de passeio da Coreia do Sul, superando a Kia pela primeira vez. Segundo a Yonhap News Agency, a montadora norte-americana ultrapassou a Kia, uma das principais marcas locais no mercado coreano de elétricos de passeio, e chegou pela primeira vez ao primeiro lugar mensal. A notícia indica uma possível mudança na disputa entre marcas importadas de veículos elétricos e fabricantes sul-coreanas. O texto original não apresentou volumes específicos de vendas nem dados por modelo. A evolução das vendas domésticas de elétricos e as mudanças no ranking por marca devem seguir em foco. Fonte: yna.co.kr"
+      },
+      "de": {
+        "title": "Tesla führt Koreas Elektroauto-Verkäufe erstmals an und überholt Kia",
+        "excerpt": "Tesla wurde im vergangenen Monat erstmals meistverkaufte Marke im südkoreanischen Markt für elektrische Pkw und überholte Kia, berichtete Yonhap.",
+        "body": "Tesla ist im vergangenen Monat im südkoreanischen Segment für elektrische Pkw erstmals zur meistverkauften Marke aufgestiegen und hat Kia überholt. Nach Angaben der Nachrichtenagentur Yonhap setzte sich der US-Hersteller im Wettbewerb um EV-Pkw-Verkäufe in Korea erstmals monatlich vor Kia, eine der wichtigen einheimischen Automarken. Der Bericht deutet darauf hin, dass sich das Kräfteverhältnis zwischen importierten Elektroautomarken und südkoreanischen Herstellern verändern könnte. Konkrete Verkaufszahlen oder Daten nach Modell wurden im Originalbericht nicht genannt. Die weitere Entwicklung der EV-Verkäufe in Korea und mögliche Veränderungen der Markenrangliste bleiben damit im Blick. Quelle: yna.co.kr"
+      },
+      "fr": {
+        "title": "Tesla devient numéro un des ventes de voitures électriques en Corée devant Kia",
+        "excerpt": "Tesla a pris le mois dernier la première place du marché sud-coréen des voitures électriques particulières, dépassant Kia pour la première fois, selon Yonhap.",
+        "body": "Tesla est devenue le mois dernier la marque la plus vendue sur le segment sud-coréen des voitures électriques particulières, dépassant Kia pour la première fois. Selon l’agence Yonhap, le constructeur américain a devancé Kia, l’une des principales marques nationales sur le marché coréen des véhicules électriques de tourisme, et a pris pour la première fois la tête du classement mensuel. Cette information montre qu’un changement pourrait s’opérer dans la concurrence entre marques importées de véhicules électriques et constructeurs sud-coréens. Le texte original ne donne pas de volumes précis de ventes ni de chiffres par modèle. L’évolution des ventes d’électriques en Corée et des classements par marque restera suivie. Source: yna.co.kr"
+      },
+      "ar": {
+        "title": "تسلا تتصدر مبيعات السيارات الكهربائية في كوريا لأول مرة متجاوزة كيا",
+        "excerpt": "أصبحت تسلا الشهر الماضي العلامة الأكثر مبيعا في سوق سيارات الركاب الكهربائية في كوريا الجنوبية بعد أن تجاوزت كيا لأول مرة، وفق يونهاب.",
+        "body": "أصبحت شركة تسلا الأمريكية الشهر الماضي العلامة الأولى في مبيعات سيارات الركاب الكهربائية في كوريا الجنوبية، متجاوزة شركة كيا الكورية للمرة الأولى. وبحسب وكالة يونهاب للأنباء، تقدمت تسلا على كيا، وهي من العلامات المحلية الرئيسية في سوق سيارات الركاب الكهربائية الكورية، واحتلت المركز الأول شهريا لأول مرة. ويشير التقرير إلى احتمال حدوث تغير في شكل المنافسة بين العلامات المستوردة للسيارات الكهربائية وشركات صناعة السيارات الكورية. ولم يورد النص الأصلي أرقاما محددة للمبيعات أو بيانات حسب الطراز. ومن المتوقع أن تحظى اتجاهات مبيعات السيارات الكهربائية في كوريا وتغيرات ترتيب العلامات بمتابعة مستمرة. المصدر: yna.co.kr"
+      },
+      "hi": {
+        "title": "टेस्ला ने कोरिया में पहली बार ईवी बिक्री में किआ को पीछे छोड़ा",
+        "excerpt": "योनहाप के अनुसार, अमेरिकी टेस्ला पिछले महीने दक्षिण कोरिया के यात्री इलेक्ट्रिक वाहन बाजार में पहली बार किआ को पीछे छोड़कर शीर्ष बिक्री ब्रांड बनी।",
+        "body": "अमेरिकी कंपनी टेस्ला पिछले महीने दक्षिण कोरिया के यात्री इलेक्ट्रिक वाहन क्षेत्र में पहली बार किआ को पीछे छोड़कर बिक्री में नंबर एक ब्रांड बन गई। योनहाप न्यूज एजेंसी के अनुसार, टेस्ला ने कोरिया के ईवी यात्री कार बिक्री मुकाबले में किआ से बढ़त बनाई, जो देश के प्रमुख घरेलू ब्रांडों में से एक है, और पहली बार मासिक शीर्ष स्थान हासिल किया। यह रिपोर्ट संकेत देती है कि आयातित ईवी ब्रांडों और कोरियाई वाहन निर्माताओं के बीच प्रतिस्पर्धा का स्वरूप बदल सकता है। मूल रिपोर्ट में बिक्री की ठोस संख्या या मॉडलवार आंकड़े नहीं दिए गए। आगे घरेलू ईवी बिक्री की दिशा और ब्रांड रैंकिंग में बदलाव पर ध्यान रहेगा। स्रोत: yna.co.kr"
+      },
+      "id": {
+        "title": "Tesla Pertama Kali Puncaki Penjualan EV Korea, Salip Kia Bulan Lalu",
+        "excerpt": "Tesla menjadi merek terlaris di pasar mobil listrik penumpang Korea Selatan bulan lalu setelah untuk pertama kalinya melampaui Kia, menurut Yonhap.",
+        "body": "Tesla asal Amerika Serikat bulan lalu menjadi merek nomor satu dalam penjualan kendaraan listrik penumpang di Korea Selatan setelah untuk pertama kalinya melampaui Kia. Menurut Yonhap News Agency, Tesla mengungguli Kia, salah satu merek domestik utama di pasar mobil listrik penumpang Korea, dan meraih posisi teratas bulanan untuk pertama kali. Laporan ini menunjukkan kemungkinan perubahan dalam persaingan antara merek kendaraan listrik impor dan produsen mobil Korea. Namun, laporan asli tidak menyajikan jumlah penjualan tertentu maupun angka berdasarkan model. Perkembangan penjualan EV domestik dan perubahan peringkat merek ke depan akan menjadi perhatian. Sumber: yna.co.kr"
+      }
+    }
+  },
+  {
     "id": "023621520acc",
     "slug": "서울-부동산-해법이-곧-표심정원오-vs-오세훈-후보-격돌-634665",
     "channelId": "ETF",
@@ -4271,231 +4496,6 @@
         "title": "PLUS KOSPI50 ETF Cetak Imbal Hasil 261% Setahun, Pimpin ETF Pelacak KOSPI",
         "excerpt": "Hanwha Asset Management menyatakan ETF PLUS KOSPI50, yang mengikuti indeks KOSPI50, mencatat imbal hasil 261% dalam satu tahun terakhir dan menempati posisi pertama di antara ETF pelacak KOSPI.",
         "body": "Hanwha Asset Management menyatakan bahwa reksa dana bursa ‘PLUS KOSPI50’, yang mengikuti indeks KOSPI50, mencatat imbal hasil tahunan 261% dalam satu tahun terakhir. Menurut perusahaan, ETF tersebut menempati posisi pertama berdasarkan imbal hasil di antara ETF yang melacak KOSPI pada periode yang sama. PLUS KOSPI50 adalah produk yang mengikuti indeks KOSPI50 dan dikelola oleh Hanwha Asset Management. Kinerja yang diumumkan berfokus pada imbal hasil satu tahun dan perbandingan dengan ETF pelacak KOSPI. Investor perlu meninjau peringkat imbal hasil produk ini bersama karakteristik indeks acuannya. Sumber: yna.co.kr"
-      }
-    }
-  },
-  {
-    "id": "779e479031b9",
-    "slug": "외국환시세5월8일마감가-713430",
-    "channelId": "ETF",
-    "category": "etf",
-    "publishedAt": "2026-05-09T12:29:53.699Z",
-    "updatedAt": "2026-05-09T12:29:53.699Z",
-    "sourceName": "yna.co.kr",
-    "sourceUrl": "https://www.yna.co.kr/view/AKR20260508123400002",
-    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260508123400002",
-    "titleFingerprint": "c4b2ab1458e5d7b0e3cd11bebf4a28b6c50d3946",
-    "dedupKeys": [
-      "779e479031b96aefbccc0fe5f0bce3de1b105a60",
-      "c4b2ab1458e5d7b0e3cd11bebf4a28b6c50d3946",
-      "c21442449c4b98871e96d26252e54f2fcb1c779e"
-    ],
-    "imageUrl": "/images/articles/779e479031b9.jpg",
-    "i18n": {
-      "ko": {
-        "title": "외국환시세 5월 8일 마감가, 15시30분 기준 환율 고시",
-        "excerpt": "연합뉴스는 5월 8일 오후 3시30분 기준 외국환시세 마감가를 전했다. 이날 고시된 환율 정보는 국내 금융시장과 외환 거래 참고 자료로 활용된다.",
-        "body": "연합뉴스는 5월 8일 오후 3시30분 기준 외국환시세 마감가를 보도했다. 이번 자료는 해당 시점에 확인된 외환시장 마감 환율 정보를 전달하는 공시성 기사다. 원문에는 제목과 기준 시각, 출처가 제시됐으며 개별 통화별 환율 수치는 포함되지 않았다. 외국환시세 마감가는 은행, 기업, 투자자 등이 당일 외환 흐름을 확인할 때 참고하는 기본 자료로 쓰인다. 다만 구체적 통화별 등락이나 배경 요인은 원문에서 확인되지 않았다. 출처: yna.co.kr"
-      },
-      "en": {
-        "title": "Foreign Exchange Rates Close on May 8, Quoted as of 3:30 p.m.",
-        "excerpt": "Yonhap reported the closing foreign exchange rates as of 3:30 p.m. on May 8. The quoted data serves as a reference for Korea’s financial market and currency transactions.",
-        "body": "Yonhap reported the closing foreign exchange rates as of 3:30 p.m. on May 8. The item is a notice-style report delivering foreign exchange closing information confirmed at that time. The source text provides the headline, reference time and source, but does not include individual currency rate figures. Closing foreign exchange rates are basic reference data used by banks, companies and investors to check the day’s currency market conditions. Specific currency-by-currency movements or background factors were not stated in the original. Source: yna.co.kr"
-      },
-      "ja": {
-        "title": "外国為替相場5月8日終値、15時30分基準で公表",
-        "excerpt": "聯合ニュースは5月8日午後3時30分基準の外国為替相場終値を伝えた。この公表値は韓国の金融市場や為替取引の参考資料となる。",
-        "body": "聯合ニュースは5月8日午後3時30分基準の外国為替相場終値を報じた。今回の資料は、その時点で確認された為替市場の終値情報を伝える告示性の記事である。原文には見出し、基準時刻、出所が示されているが、個別通貨別の為替レート数値は含まれていない。外国為替相場の終値は、銀行、企業、投資家などが当日の為替の流れを確認する際の基本資料として使われる。ただし、具体的な通貨別の変動や背景要因は原文で確認されていない。出所: yna.co.kr"
-      },
-      "zh": {
-        "title": "5月8日外汇牌价收盘价，按15时30分基准公布",
-        "excerpt": "韩联社报道了5月8日下午3时30分基准的外汇牌价收盘价。该汇率信息可作为韩国金融市场和外汇交易的参考资料。",
-        "body": "韩联社报道了5月8日下午3时30分基准的外汇牌价收盘价。该信息属于公告性质，传达截至该时点确认的外汇市场收盘汇率资料。原文提供了标题、基准时间和来源，但未包含各具体货币的汇率数值。外汇牌价收盘价通常被银行、企业和投资者用作了解当日外汇走势的基础参考资料。不过，原文未说明具体货币的涨跌情况或相关背景因素。来源: yna.co.kr"
-      },
-      "es": {
-        "title": "Tipos de cambio al cierre del 8 de mayo, referencia de las 15:30",
-        "excerpt": "Yonhap informó los tipos de cambio al cierre con referencia a las 15:30 del 8 de mayo. Los datos sirven como referencia para el mercado financiero coreano y operaciones cambiarias.",
-        "body": "Yonhap informó los tipos de cambio al cierre con referencia a las 15:30 del 8 de mayo. El contenido es una nota de carácter informativo que comunica los datos de cierre del mercado cambiario confirmados en ese momento. El texto original incluye el título, la hora de referencia y la fuente, pero no contiene cifras por moneda individual. Los tipos de cambio de cierre se usan como datos básicos por bancos, empresas e inversores para revisar la evolución diaria del mercado de divisas. El original no detalla movimientos por moneda ni factores de contexto. Fuente: yna.co.kr"
-      },
-      "pt": {
-        "title": "Câmbio de 8 de maio no fechamento, cotação das 15h30",
-        "excerpt": "A Yonhap informou as taxas de câmbio de fechamento com base nas 15h30 de 8 de maio. Os dados servem de referência para o mercado financeiro coreano e transações cambiais.",
-        "body": "A Yonhap informou as taxas de câmbio de fechamento com base nas 15h30 de 8 de maio. O material é uma nota de caráter informativo que transmite os dados de fechamento do mercado de câmbio confirmados naquele horário. O texto original apresenta o título, o horário de referência e a fonte, mas não inclui números por moeda específica. As taxas de câmbio de fechamento são usadas por bancos, empresas e investidores como referência básica para acompanhar o movimento cambial do dia. O original não informa variações por moeda nem fatores de contexto. Fonte: yna.co.kr"
-      },
-      "de": {
-        "title": "Devisenkurse zum Schluss am 8. Mai, Stand 15:30 Uhr",
-        "excerpt": "Yonhap meldete die Devisenschlusskurse mit Stand 15:30 Uhr am 8. Mai. Die Angaben dienen als Referenz für den koreanischen Finanzmarkt und Devisentransaktionen.",
-        "body": "Yonhap meldete die Devisenschlusskurse mit Stand 15:30 Uhr am 8. Mai. Der Beitrag ist eine hinweisartige Meldung zu den zu diesem Zeitpunkt bestätigten Schlussinformationen am Devisenmarkt. Der Originaltext nennt Überschrift, Referenzzeit und Quelle, enthält jedoch keine einzelnen Wechselkurswerte nach Währung. Devisenschlusskurse werden von Banken, Unternehmen und Anlegern als Basisdaten genutzt, um die tägliche Entwicklung am Währungsmarkt nachzuvollziehen. Konkrete Bewegungen einzelner Währungen oder Hintergründe wurden im Original nicht genannt. Quelle: yna.co.kr"
-      },
-      "fr": {
-        "title": "Taux de change de clôture du 8 mai, référence à 15h30",
-        "excerpt": "Yonhap a publié les taux de change de clôture au 8 mai à 15h30. Ces données servent de référence au marché financier coréen et aux opérations de change.",
-        "body": "Yonhap a publié les taux de change de clôture au 8 mai à 15h30. Il s’agit d’une dépêche à caractère informatif présentant les données de clôture du marché des changes confirmées à cet horaire. Le texte original fournit le titre, l’heure de référence et la source, mais ne contient pas de chiffres par devise. Les taux de change de clôture servent de données de base aux banques, entreprises et investisseurs pour suivre l’évolution quotidienne du marché des devises. Les variations par devise ou les facteurs de contexte ne sont pas précisés dans l’original. Source: yna.co.kr"
-      },
-      "ar": {
-        "title": "أسعار الصرف عند إغلاق 8 مايو وفق مرجع الساعة 15:30",
-        "excerpt": "أفادت يونهاب بأسعار صرف العملات الأجنبية عند الإغلاق وفق مرجع الساعة 15:30 في 8 مايو. وتستخدم هذه البيانات مرجعا للسوق المالية الكورية ومعاملات الصرف.",
-        "body": "أفادت يونهاب بأسعار صرف العملات الأجنبية عند الإغلاق وفق مرجع الساعة 15:30 في 8 مايو. ويعد الخبر مادة ذات طابع إعلاني تنقل معلومات الإغلاق في سوق الصرف المؤكدة عند ذلك الوقت. يورد النص الأصلي العنوان ووقت المرجع والمصدر، لكنه لا يتضمن أرقاما منفصلة لأسعار كل عملة. وتستخدم أسعار الإغلاق في سوق الصرف كبيانات أساسية لدى البنوك والشركات والمستثمرين لمراجعة حركة العملات خلال اليوم. ولم يذكر الأصل تحركات محددة حسب العملة أو عوامل خلفية. المصدر: yna.co.kr"
-      },
-      "hi": {
-        "title": "8 मई के विदेशी मुद्रा बंद भाव, 15:30 बजे के आधार पर जारी",
-        "excerpt": "योनहाप ने 8 मई को दोपहर 3:30 बजे के आधार पर विदेशी मुद्रा बंद भाव की जानकारी दी। ये दरें कोरियाई वित्तीय बाजार और विदेशी मुद्रा लेनदेन के लिए संदर्भ डेटा हैं।",
-        "body": "योनहाप ने 8 मई को दोपहर 3:30 बजे के आधार पर विदेशी मुद्रा बंद भाव की रिपोर्ट दी। यह सामग्री उस समय पुष्टि की गई विदेशी मुद्रा बाजार की बंद दरों की सूचना देने वाली नोटिस-शैली की खबर है। मूल पाठ में शीर्षक, संदर्भ समय और स्रोत दिया गया है, लेकिन अलग-अलग मुद्राओं की दरें शामिल नहीं हैं। विदेशी मुद्रा बंद भाव बैंक, कंपनियों और निवेशकों के लिए दिन के मुद्रा बाजार रुझान को समझने का बुनियादी संदर्भ होते हैं। मूल में मुद्रा-वार उतार-चढ़ाव या पृष्ठभूमि कारण नहीं बताए गए। स्रोत: yna.co.kr"
-      },
-      "id": {
-        "title": "Kurs Valuta Asing Penutupan 8 Mei, Acuan Pukul 15.30",
-        "excerpt": "Yonhap melaporkan kurs valuta asing penutupan berdasarkan pukul 15.30 pada 8 Mei. Data ini menjadi rujukan bagi pasar keuangan Korea dan transaksi valuta asing.",
-        "body": "Yonhap melaporkan kurs valuta asing penutupan berdasarkan pukul 15.30 pada 8 Mei. Artikel ini bersifat pemberitahuan yang menyampaikan informasi kurs penutupan pasar valuta asing yang terkonfirmasi pada waktu tersebut. Teks asli memuat judul, waktu acuan, dan sumber, tetapi tidak menyertakan angka kurs untuk masing-masing mata uang. Kurs penutupan valuta asing digunakan oleh bank, perusahaan, dan investor sebagai data dasar untuk melihat pergerakan pasar pada hari itu. Perubahan per mata uang atau faktor latar belakang tidak dijelaskan dalam naskah asli. Sumber: yna.co.kr"
-      }
-    }
-  },
-  {
-    "id": "f84b7530167a",
-    "slug": "특징주-현대차-7-급등현대차그룹주-일제히-상승-마감종합-417064",
-    "channelId": "ETF",
-    "category": "etf",
-    "publishedAt": "2026-05-09T12:28:20.131Z",
-    "updatedAt": "2026-05-09T12:28:20.131Z",
-    "sourceName": "yna.co.kr",
-    "sourceUrl": "https://www.yna.co.kr/view/AKR20260508096851008",
-    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260508096851008",
-    "titleFingerprint": "2018ea9bde3e9189eacca306f03d3a3c58a6ac61",
-    "dedupKeys": [
-      "f84b7530167a9d6be6229479df655e1edabd8f6a",
-      "2018ea9bde3e9189eacca306f03d3a3c58a6ac61",
-      "c1a866c802d0a9c8b4e67a252b6f1d121bb42cc5"
-    ],
-    "imageUrl": "/images/articles/f84b7530167a.jpg",
-    "i18n": {
-      "ko": {
-        "title": "현대차 7%대 급등, 현대차그룹주 8일 일제히 상승 마감",
-        "excerpt": "현대차가 8일 7% 넘게 급등하며 현대차그룹 관련주가 일제히 강세로 마감했다. 연합뉴스는 이날 그룹주 전반의 상승 흐름을 보도했다.",
-        "body": "현대차가 8일 7% 넘게 급등하며 현대차그룹 관련주가 일제히 상승세를 이어간 채 장을 마쳤다. 서울발 연합뉴스 보도에 따르면 이날 현대차를 중심으로 현대차그룹 관련 종목들이 강세를 보이며 시장의 관심을 모았다. 핵심 수치는 현대차 주가가 7% 넘게 뛰었다는 점이며, 관련 그룹주도 함께 상승 마감했다는 데 있다. 이번 흐름은 현대차그룹주 전반에 대한 투자자 관심이 같은 날 집중됐음을 보여준다. 다만 원문은 구체적인 상승 배경이나 개별 종목별 등락률을 추가로 제시하지 않았다. 출처: yna.co.kr."
-      },
-      "en": {
-        "title": "Hyundai Motor Jumps Over 7%, Group Shares Close Higher on May 8",
-        "excerpt": "Hyundai Motor surged more than 7% on May 8, while Hyundai Motor Group-related shares closed broadly higher, Yonhap News Agency reported from Seoul.",
-        "body": "Hyundai Motor surged more than 7% on May 8, and Hyundai Motor Group-related shares continued their strong run to close higher across the board. According to a Seoul-datelined report by Yonhap News Agency, Hyundai Motor led the move as related Hyundai Motor Group stocks drew market attention on the day. The key figure in the original report is Hyundai Motor’s gain of more than 7%, alongside a broad advance among affiliated group shares. The move shows investor focus on Hyundai Motor Group stocks that day. The source article did not provide further details on the specific reason for the rise or individual stock moves. Source: yna.co.kr."
-      },
-      "ja": {
-        "title": "現代自動車が7％超急騰、現代車グループ株が8日に一斉高",
-        "excerpt": "現代自動車が8日に7％超急騰し、現代自動車グループ関連株がそろって強含みで取引を終えたと聯合ニュースが報じた。",
-        "body": "現代自動車は8日、7％を超えて急騰し、現代自動車グループ関連株もそろって上昇基調を維持したまま取引を終えた。ソウル発の聯合ニュースによると、この日は現代自動車を中心に現代自動車グループ関連銘柄が強含みとなり、市場の関心を集めた。原文で示された主な数値は、現代自動車の株価が7％超上昇した点であり、関連グループ株もあわせて上昇して引けたという内容だ。今回の動きは、同日に現代自動車グループ株全般へ投資家の注目が集まったことを示している。ただし原文は、具体的な上昇要因や個別銘柄ごとの騰落率を追加で示していない。出典: yna.co.kr."
-      },
-      "zh": {
-        "title": "现代汽车大涨逾7%，现代汽车集团股8日集体收高",
-        "excerpt": "现代汽车8日大涨逾7%，现代汽车集团相关股票集体走强并收高，韩联社首尔报道称相关集团股延续强势。",
-        "body": "现代汽车8日大涨逾7%，现代汽车集团相关股票也延续强势并集体收高。韩联社首尔报道称，当天以现代汽车为中心，现代汽车集团相关个股表现强劲，受到市场关注。原文中的核心数据是现代汽车股价上涨超过7%，同时相关集团股也一同收涨。此次走势显示，投资者在当天对现代汽车集团股票整体关注度上升。不过，原文未进一步说明具体上涨背景，也未列出各个相关股票的涨跌幅。来源: yna.co.kr."
-      },
-      "es": {
-        "title": "Hyundai Motor sube más del 7% y acciones del grupo cierran al alza",
-        "excerpt": "Hyundai Motor se disparó más del 7% el 8 de mayo y las acciones vinculadas a Hyundai Motor Group cerraron ampliamente al alza, informó Yonhap.",
-        "body": "Hyundai Motor se disparó más del 7% el 8 de mayo, mientras las acciones relacionadas con Hyundai Motor Group mantuvieron la fortaleza y cerraron al alza en conjunto. Según un reporte de Yonhap News Agency fechado en Seúl, Hyundai Motor lideró el movimiento y los valores vinculados al grupo atrajeron la atención del mercado durante la jornada. El dato central del texto original es que la acción de Hyundai Motor avanzó más del 7%, junto con un cierre positivo de las acciones relacionadas del grupo. Este movimiento muestra el interés de los inversores por Hyundai Motor Group ese día. La fuente no detalló la causa concreta de la subida ni las variaciones de cada valor. Fuente: yna.co.kr."
-      },
-      "pt": {
-        "title": "Hyundai Motor salta mais de 7% e ações do grupo fecham em alta",
-        "excerpt": "A Hyundai Motor subiu mais de 7% em 8 de maio, enquanto ações ligadas ao Hyundai Motor Group fecharam em alta generalizada, informou a Yonhap.",
-        "body": "A Hyundai Motor subiu mais de 7% em 8 de maio, e as ações relacionadas ao Hyundai Motor Group mantiveram força até o fechamento, encerrando em alta de forma ampla. Segundo reportagem da Yonhap News Agency, de Seul, a Hyundai Motor liderou o movimento, enquanto papéis vinculados ao grupo chamaram a atenção do mercado no dia. O principal dado citado no texto original é o avanço superior a 7% da ação da Hyundai Motor, acompanhado pela alta de ações relacionadas ao grupo. O movimento indica concentração de interesse dos investidores em Hyundai Motor Group naquele pregão. A fonte não informou a razão específica da alta nem os desempenhos individuais de cada papel. Fonte: yna.co.kr."
-      },
-      "de": {
-        "title": "Hyundai Motor steigt über 7%, Konzernaktien schließen am 8. Mai fester",
-        "excerpt": "Hyundai Motor legte am 8. Mai um mehr als 7% zu, während Aktien mit Bezug zur Hyundai Motor Group breit im Plus schlossen, berichtete Yonhap.",
-        "body": "Hyundai Motor sprang am 8. Mai um mehr als 7% nach oben, und Aktien mit Bezug zur Hyundai Motor Group setzten ihre Stärke fort und schlossen insgesamt höher. Laut einem Bericht der Yonhap News Agency aus Seoul stand Hyundai Motor im Mittelpunkt, während verbundene Konzernwerte die Aufmerksamkeit des Marktes auf sich zogen. Die zentrale Zahl im Originalbericht ist der Anstieg der Hyundai-Motor-Aktie um mehr als 7%, begleitet von einem höheren Schlusskurs der zugehörigen Gruppenaktien. Die Entwicklung zeigt, dass sich das Anlegerinteresse an diesem Tag auf Hyundai Motor Group konzentrierte. Der Originaltext nannte jedoch keinen konkreten Grund für den Anstieg und keine einzelnen Kursveränderungen. Quelle: yna.co.kr."
-      },
-      "fr": {
-        "title": "Hyundai Motor bondit de plus de 7%, les actions du groupe finissent en hausse",
-        "excerpt": "Hyundai Motor a bondi de plus de 7% le 8 mai et les actions liées à Hyundai Motor Group ont clôturé en hausse généralisée, selon Yonhap.",
-        "body": "Hyundai Motor a bondi de plus de 7% le 8 mai, tandis que les actions liées à Hyundai Motor Group ont poursuivi leur vigueur et terminé en hausse dans l’ensemble. Selon une dépêche de Yonhap News Agency datée de Séoul, Hyundai Motor a mené le mouvement et les valeurs associées au groupe ont attiré l’attention du marché ce jour-là. Le chiffre clé du texte original est la progression de plus de 7% de l’action Hyundai Motor, accompagnée d’une clôture positive des titres liés au groupe. Ce mouvement montre l’intérêt des investisseurs pour Hyundai Motor Group durant cette séance. La source n’a pas précisé la raison exacte de la hausse ni les variations individuelles des titres. Source: yna.co.kr."
-      },
-      "ar": {
-        "title": "هيونداي موتور تقفز بأكثر من 7% وأسهم المجموعة تغلق مرتفعة في 8 مايو",
-        "excerpt": "قفز سهم هيونداي موتور بأكثر من 7% في 8 مايو، وأغلقت الأسهم المرتبطة بمجموعة هيونداي موتور على ارتفاع جماعي، وفق يونهاب.",
-        "body": "قفز سهم هيونداي موتور بأكثر من 7% في 8 مايو، وواصلت الأسهم المرتبطة بمجموعة هيونداي موتور قوتها لتغلق مرتفعة على نطاق واسع. وبحسب تقرير لوكالة يونهاب للأنباء من سيول، قادت هيونداي موتور الحركة، بينما جذبت أسهم المجموعة ذات الصلة اهتمام السوق في ذلك اليوم. الرقم الأساسي في النص الأصلي هو ارتفاع سهم هيونداي موتور بأكثر من 7%، إلى جانب صعود أسهم المجموعة المرتبطة بها عند الإغلاق. ويظهر هذا التحرك تركّز اهتمام المستثمرين بأسهم مجموعة هيونداي موتور في ذلك اليوم. ولم يذكر النص الأصلي سبباً محدداً للصعود أو نسب تغير كل سهم على حدة. المصدر: yna.co.kr."
-      },
-      "hi": {
-        "title": "Hyundai Motor 7% से अधिक उछला, समूह के शेयर 8 मई को चढ़कर बंद",
-        "excerpt": "Hyundai Motor का शेयर 8 मई को 7% से अधिक उछला, जबकि Hyundai Motor Group से जुड़े शेयर सामूहिक रूप से मजबूत बंद हुए, Yonhap ने बताया।",
-        "body": "Hyundai Motor का शेयर 8 मई को 7% से अधिक उछला और Hyundai Motor Group से जुड़े शेयर भी मजबूती जारी रखते हुए व्यापक रूप से ऊंचे बंद हुए। सियोल से Yonhap News Agency की रिपोर्ट के अनुसार, उस दिन Hyundai Motor इस तेजी के केंद्र में रहा और समूह से संबंधित शेयरों ने बाजार का ध्यान खींचा। मूल रिपोर्ट में मुख्य आंकड़ा Hyundai Motor के शेयर में 7% से अधिक की बढ़त है, साथ ही संबंधित समूह शेयरों का भी चढ़कर बंद होना बताया गया है। यह रुझान दिखाता है कि उस दिन निवेशकों का ध्यान Hyundai Motor Group शेयरों पर केंद्रित था। मूल लेख ने तेजी का कोई विशिष्ट कारण या अलग-अलग शेयरों की चाल नहीं बताई। स्रोत: yna.co.kr."
-      },
-      "id": {
-        "title": "Hyundai Motor Melonjak Lebih 7%, Saham Grup Kompak Ditutup Naik",
-        "excerpt": "Hyundai Motor melonjak lebih dari 7% pada 8 Mei, sementara saham terkait Hyundai Motor Group ditutup menguat secara luas, menurut Yonhap.",
-        "body": "Hyundai Motor melonjak lebih dari 7% pada 8 Mei, dan saham-saham terkait Hyundai Motor Group melanjutkan penguatan hingga ditutup naik secara luas. Menurut laporan Yonhap News Agency dari Seoul, Hyundai Motor menjadi pusat pergerakan, sementara saham terkait grup menarik perhatian pasar pada hari itu. Angka utama dalam laporan asli adalah kenaikan saham Hyundai Motor lebih dari 7%, disertai penguatan saham grup yang terkait saat penutupan. Pergerakan ini menunjukkan perhatian investor terhadap saham Hyundai Motor Group pada hari tersebut. Namun, sumber asli tidak memberikan alasan spesifik atas kenaikan itu atau rincian perubahan masing-masing saham. Sumber: yna.co.kr."
-      }
-    }
-  },
-  {
-    "id": "a49aeb7da677",
-    "slug": "무주-안성면에-귀농귀촌-마을-조성내년까지-40가구-규모-201763",
-    "channelId": "ETF",
-    "category": "etf",
-    "publishedAt": "2026-05-09T12:27:24.860Z",
-    "updatedAt": "2026-05-09T12:27:24.860Z",
-    "sourceName": "yna.co.kr",
-    "sourceUrl": "https://www.yna.co.kr/view/AKR20260508127100055",
-    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260508127100055",
-    "titleFingerprint": "2038fb93bfaee73560269063d29f0506e4e92994",
-    "dedupKeys": [
-      "a49aeb7da677b02c83f09fce7012c071f8095af4",
-      "2038fb93bfaee73560269063d29f0506e4e92994",
-      "b5d212e886560232f0eda7ba4c716c7e4b48f455"
-    ],
-    "imageUrl": "/images/articles/a49aeb7da677.jpg",
-    "i18n": {
-      "ko": {
-        "title": "무주 안성면 귀농귀촌 친환경마을, 2027년까지 40가구 조성",
-        "excerpt": "전북 무주군이 안성면 공정리에 2027년까지 귀농귀촌인과 은퇴자를 위한 40가구 규모 친환경마을을 조성한다고 연합뉴스가 보도했다.",
-        "body": "전북 무주군은 안성면 공정리에 귀농귀촌인과 은퇴자를 위한 친환경마을, 이른바 에코빌리지를 2027년까지 조성한다. 조성 규모는 40가구로, 대상은 농촌 정착을 희망하는 귀농귀촌인과 은퇴자다. 이번 사업은 무주군 안성면 공정리를 중심으로 추진되며, 친환경 주거 마을 조성을 통해 농촌 이주 수요에 대응하는 데 초점이 맞춰졌다. 구체적인 추가 시설이나 분양 방식 등은 원문 요약에 제시되지 않았다. 사업이 계획대로 진행되면 안성면 일대에는 2027년까지 40가구 규모의 새 정주 공간이 마련될 전망이다. 출처: yna.co.kr"
-      },
-      "en": {
-        "title": "Muju to Build 40-Home Eco Village in Anseong-myeon by 2027",
-        "excerpt": "Muju County in North Jeolla plans to create a 40-household eco village in Gongjeong-ri, Anseong-myeon, by 2027 for rural migrants and retirees, Yonhap reported.",
-        "body": "Muju County in North Jeolla Province will develop an eco-friendly village, or eco village, in Gongjeong-ri, Anseong-myeon, by 2027 for people moving to rural areas and retirees. The planned community will have 40 households. The project centers on Gongjeong-ri in Anseong-myeon and is aimed at providing a residential base for those seeking rural settlement after returning to farming, moving to the countryside, or retiring. The source summary did not provide details on additional facilities or sales methods. If the plan proceeds as announced, a new 40-household residential community will be created in the Anseong-myeon area by 2027. Source: yna.co.kr"
-      },
-      "ja": {
-        "title": "茂朱・安城面に帰農帰村エコビレッジ、2027年まで40世帯規模で造成",
-        "excerpt": "全北の茂朱郡は安城面公正里に、帰農帰村希望者と退職者向けの40世帯規模のエコビレッジを2027年までに造成すると聯合ニュースが報じた。",
-        "body": "全羅北道の茂朱郡は、安城面公正里に帰農帰村希望者と退職者のための環境配慮型村、いわゆるエコビレッジを2027年までに造成する。規模は40世帯で、対象は農村定住を望む帰農帰村者と退職者だ。今回の事業は茂朱郡安城面公正里を中心に進められ、環境に配慮した住宅村の造成を通じて農村移住需要に対応することに重点を置く。追加施設や分譲方式などの詳細は、原文要約では示されていない。計画通り進めば、安城面一帯に2027年までに40世帯規模の新たな定住空間が整備される見通しだ。出典: yna.co.kr"
-      },
-      "zh": {
-        "title": "茂朱安城面将建返乡定居生态村，2027年前形成40户规模",
-        "excerpt": "韩联社报道，全北茂朱郡将在安城面公正里于2027年前建设面向返乡务农、返乡定居人员和退休者的40户规模生态村。",
-        "body": "全北茂朱郡将在安城面公正里建设面向返乡务农、返乡定居人员和退休者的环保村，即生态村，计划于2027年前完成。该村规模为40户，主要面向希望在农村定居的返乡务农人员、返乡定居者和退休者。项目以茂朱郡安城面公正里为中心推进，重点是通过建设环保居住村落来回应农村迁居需求。原文摘要未提及追加设施或销售方式等具体内容。若计划按期推进，安城面一带到2027年将形成40户规模的新定居空间。来源: yna.co.kr"
-      },
-      "es": {
-        "title": "Muju creará una ecoaldea de 40 hogares en Anseong-myeon para 2027",
-        "excerpt": "El condado de Muju, en Jeonbuk, construirá hasta 2027 una ecoaldea de 40 hogares en Gongjeong-ri, Anseong-myeon, para nuevos residentes rurales y jubilados, informó Yonhap.",
-        "body": "El condado de Muju, en la provincia de Jeonbuk, desarrollará en Gongjeong-ri, Anseong-myeon, una aldea ecológica, o ecoaldea, para personas que se trasladan al campo y jubilados antes de 2027. El proyecto tendrá una escala de 40 hogares. La iniciativa se centrará en Gongjeong-ri y busca ofrecer un espacio residencial para quienes desean establecerse en zonas rurales, incluidos retornados al campo y personas retiradas. El resumen original no incluye detalles sobre instalaciones adicionales ni métodos de venta. Si el plan avanza según lo anunciado, Anseong-myeon contará para 2027 con un nuevo espacio de asentamiento de 40 hogares. Fuente: yna.co.kr"
-      },
-      "pt": {
-        "title": "Muju fará ecovila de 40 lares em Anseong-myeon até 2027",
-        "excerpt": "O condado de Muju, em Jeonbuk, planeja criar até 2027 uma ecovila de 40 lares em Gongjeong-ri, Anseong-myeon, para migrantes rurais e aposentados, informou a Yonhap.",
-        "body": "O condado de Muju, na província de Jeonbuk, vai desenvolver em Gongjeong-ri, Anseong-myeon, uma vila ecológica, ou ecovila, voltada a pessoas que migram para áreas rurais e aposentados até 2027. A comunidade terá escala de 40 lares. O projeto será conduzido em Gongjeong-ri e busca oferecer uma base residencial para quem pretende se estabelecer no campo, incluindo retornados à agricultura, novos moradores rurais e aposentados. O resumo original não trouxe detalhes sobre instalações adicionais ou formas de venda. Se o plano avançar conforme anunciado, a região de Anseong-myeon terá até 2027 um novo espaço de moradia para 40 lares. Fonte: yna.co.kr"
-      },
-      "de": {
-        "title": "Muju plant 40-Haushalte-Ökodorf in Anseong-myeon bis 2027",
-        "excerpt": "Der Landkreis Muju in Jeonbuk will bis 2027 in Gongjeong-ri, Anseong-myeon, ein Ökodorf mit 40 Haushalten für Landzuzügler und Ruheständler schaffen, berichtete Yonhap.",
-        "body": "Der Landkreis Muju in der Provinz Jeonbuk will in Gongjeong-ri, Anseong-myeon, bis 2027 ein umweltfreundliches Dorf, ein sogenanntes Ökodorf, für Menschen mit ländlichen Umsiedlungsplänen und Ruheständler entwickeln. Geplant ist eine Größe von 40 Haushalten. Das Projekt konzentriert sich auf Gongjeong-ri und soll Wohnraum für Personen schaffen, die sich auf dem Land niederlassen möchten, darunter Rückkehrer in die Landwirtschaft, Zuzügler in ländliche Gebiete und Rentner. Angaben zu weiteren Einrichtungen oder Verkaufsverfahren enthält die Zusammenfassung nicht. Bei planmäßiger Umsetzung entsteht in Anseong-myeon bis 2027 ein neuer Wohnstandort mit 40 Haushalten. Quelle: yna.co.kr"
-      },
-      "fr": {
-        "title": "Muju aménagera un écovillage de 40 foyers à Anseong-myeon d’ici 2027",
-        "excerpt": "Le comté de Muju, dans le Jeonbuk, prévoit de créer d’ici 2027 un écovillage de 40 foyers à Gongjeong-ri, Anseong-myeon, pour néoruraux et retraités, selon Yonhap.",
-        "body": "Le comté de Muju, dans la province du Jeonbuk, aménagera à Gongjeong-ri, Anseong-myeon, un village écologique, ou écovillage, destiné aux personnes s’installant en milieu rural et aux retraités d’ici 2027. Le projet porte sur 40 foyers. Il sera mené autour de Gongjeong-ri et vise à offrir un cadre résidentiel aux personnes souhaitant s’établir à la campagne, notamment les nouveaux arrivants ruraux, les personnes revenant vers l’agriculture et les retraités. Le résumé original ne précise pas les équipements supplémentaires ni les modalités de vente. Si le calendrier est respecté, Anseong-myeon disposera d’ici 2027 d’un nouvel espace d’installation de 40 foyers. Source: yna.co.kr"
-      },
-      "ar": {
-        "title": "موجو تنشئ قرية بيئية من 40 أسرة في أنسونغ-ميون بحلول 2027",
-        "excerpt": "أفادت يونهاب بأن مقاطعة موجو في شمال جولا ستنشئ بحلول 2027 قرية بيئية من 40 أسرة في غونغجونغ-ري بأنسونغ-ميون للمهاجرين إلى الريف والمتقاعدين.",
-        "body": "تعتزم مقاطعة موجو في إقليم شمال جولا إنشاء قرية صديقة للبيئة، أو ما يعرف بقرية بيئية، في غونغجونغ-ري بمنطقة أنسونغ-ميون بحلول عام 2027، وذلك للوافدين الراغبين في الاستقرار بالمناطق الريفية والمتقاعدين. وسيبلغ حجم المشروع 40 أسرة. يتركز المشروع في غونغجونغ-ري ويهدف إلى توفير مساحة سكنية لمن يرغبون في الانتقال إلى الريف أو العودة إلى الزراعة أو الاستقرار بعد التقاعد. ولم يرد في ملخص النص الأصلي تفاصيل عن مرافق إضافية أو طريقة التوزيع. وإذا مضت الخطة كما أُعلن، فستتوفر في أنسونغ-ميون مساحة استقرار جديدة تضم 40 أسرة بحلول 2027. المصدر: yna.co.kr"
-      },
-      "hi": {
-        "title": "मुजू के अनसोंग-म्योन में 2027 तक 40 घरों वाला इको विलेज बनेगा",
-        "excerpt": "योनहाप के अनुसार, जियोनबुक के मुजू काउंटी में अनसोंग-म्योन के गोंगजोंग-री में 2027 तक ग्रामीण बसावट चाहने वालों और सेवानिवृत्त लोगों के लिए 40 घरों वाला इको विलेज बनेगा।",
-        "body": "जियोनबुक प्रांत का मुजू काउंटी अनसोंग-म्योन के गोंगजोंग-री में 2027 तक ग्रामीण क्षेत्रों में बसना चाहने वालों और सेवानिवृत्त लोगों के लिए पर्यावरण-अनुकूल गांव, यानी इको विलेज, विकसित करेगा। इसकी योजना 40 घरों के पैमाने पर है। यह परियोजना गोंगजोंग-री को केंद्र में रखकर आगे बढ़ेगी और उन लोगों के लिए आवासीय आधार उपलब्ध कराने पर केंद्रित है जो खेती की ओर लौटना, ग्रामीण क्षेत्र में बसना या सेवानिवृत्ति के बाद ग्रामीण जीवन चुनना चाहते हैं। मूल सारांश में अतिरिक्त सुविधाओं या बिक्री पद्धति की जानकारी नहीं दी गई है। योजना के अनुसार काम हुआ तो 2027 तक अनसोंग-म्योन क्षेत्र में 40 घरों का नया बसावट स्थल तैयार होगा। स्रोत: yna.co.kr"
-      },
-      "id": {
-        "title": "Muju Bangun Desa Eco 40 Rumah di Anseong-myeon hingga 2027",
-        "excerpt": "Kabupaten Muju di Jeonbuk akan membangun desa eco 40 rumah di Gongjeong-ri, Anseong-myeon, hingga 2027 untuk pendatang pedesaan dan pensiunan, menurut Yonhap.",
-        "body": "Kabupaten Muju di Provinsi Jeonbuk akan mengembangkan desa ramah lingkungan, atau eco village, di Gongjeong-ri, Anseong-myeon, hingga 2027 untuk warga yang ingin pindah ke pedesaan dan para pensiunan. Skala pembangunan direncanakan sebanyak 40 rumah tangga. Proyek ini berpusat di Gongjeong-ri dan ditujukan untuk menyediakan ruang hunian bagi orang yang ingin menetap di desa, termasuk mereka yang kembali bertani, pindah ke pedesaan, atau menjalani masa pensiun. Ringkasan sumber tidak memuat rincian tentang fasilitas tambahan atau metode penjualan. Jika berjalan sesuai rencana, kawasan Anseong-myeon akan memiliki ruang permukiman baru untuk 40 rumah tangga pada 2027. Sumber: yna.co.kr"
       }
     }
   }
