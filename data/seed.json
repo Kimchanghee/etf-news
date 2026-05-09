@@ -1,5 +1,230 @@
 [
   {
+    "id": "cf3ad5a5d995",
+    "slug": "ai반도체기술주-코스닥-바이오-등-etf-8종-12일-상장-146376",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-05-09T08:26:54.714Z",
+    "updatedAt": "2026-05-09T08:26:54.714Z",
+    "sourceName": "yna.co.kr",
+    "sourceUrl": "https://www.yna.co.kr/view/AKR20260508149700008",
+    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260508149700008",
+    "titleFingerprint": "fc8b1b5fcf0582b2c541085235b1867273e4fdc6",
+    "dedupKeys": [
+      "cf3ad5a5d9958c8e871dd307ab280dc93a0250bd",
+      "fc8b1b5fcf0582b2c541085235b1867273e4fdc6",
+      "878c784be7cd407f5b279ba7be444999aeb7d9e7"
+    ],
+    "imageUrl": "/images/articles/cf3ad5a5d995.jpg",
+    "i18n": {
+      "ko": {
+        "title": "AI·반도체·코스닥 바이오 ETF 8종, 12일 신규 상장",
+        "excerpt": "한국거래소는 KB·현대·삼성·한화·미래에셋·키움·NH아문디 자산운용이 운용하는 AI·반도체 기술주, 코스닥 바이오 관련 ETF 8종을 오는 12일 상장한다고 밝혔다.",
+        "body": "한국거래소는 오는 12일 KB자산운용, 현대자산운용, 삼성자산운용, 한화자산운용, 미래에셋자산운용, 키움자산운용, NH아문디자산운용의 상장지수펀드(ETF) 8개 종목이 신규 상장된다고 밝혔다. 이번 상장 ETF에는 AI와 반도체 기술주, 코스닥 바이오 등 투자자 관심이 높은 테마형 상품이 포함됐다. 거래소 발표에 따르면 여러 운용사가 동시에 다양한 테마 ETF를 선보이며 국내 ETF 시장의 선택지가 확대될 전망이다. 투자자는 각 상품의 기초지수와 운용 전략, 위험 요인을 확인할 필요가 있다. 출처: yna.co.kr"
+      },
+      "en": {
+        "title": "Eight AI, Semiconductor and KOSDAQ Bio ETFs to List on May 12",
+        "excerpt": "The Korea Exchange said eight ETFs from KB, Hyundai, Samsung, Hanwha, Mirae Asset, Kiwoom and NH-Amundi Asset Management will be listed on May 12, including AI, semiconductor tech and KOSDAQ bio themes.",
+        "body": "The Korea Exchange said eight exchange-traded funds from KB Asset Management, Hyundai Asset Management, Samsung Asset Management, Hanwha Asset Management, Mirae Asset Global Investments, Kiwoom Asset Management and NH-Amundi Asset Management will be newly listed on May 12. The lineup includes thematic products linked to AI, semiconductor technology stocks and KOSDAQ bio, areas drawing investor attention. According to the exchange, multiple managers are introducing a range of ETF themes at the same time, expanding choices in Korea’s ETF market. Investors should review each product’s underlying index, strategy and risk factors. Source: yna.co.kr"
+      },
+      "ja": {
+        "title": "AI・半導体・KOSDAQバイオETF8本、12日に新規上場",
+        "excerpt": "韓国取引所は、KB・現代・サムスン・ハンファ・未来アセット・キウム・NHアムンディ資産運用のAI、半導体技術株、KOSDAQバイオ関連ETF8本を12日に上場すると発表した。",
+        "body": "韓国取引所は、KB資産運用、現代資産運用、サムスン資産運用、ハンファ資産運用、未来アセット資産運用、キウム資産運用、NHアムンディ資産運用の上場投資信託（ETF）8銘柄が12日に新規上場されると明らかにした。今回のETFには、AI、半導体技術株、KOSDAQバイオなど、投資家の関心が高いテーマ型商品が含まれる。取引所の発表によると、複数の運用会社が同時に多様なテーマETFを投入し、韓国ETF市場の選択肢が広がる見通しだ。投資家は各商品の基礎指数、運用戦略、リスク要因を確認する必要がある。出典: yna.co.kr"
+      },
+      "zh": {
+        "title": "AI、半导体与KOSDAQ生物ETF八只将于12日上市",
+        "excerpt": "韩国交易所表示，KB、现代、三星、韩华、未来资产、Kiwoom、NH-Amundi资管旗下八只ETF将于12日上市，涵盖AI、半导体科技股和KOSDAQ生物等主题。",
+        "body": "韩国交易所表示，KB资产管理、现代资产管理、三星资产管理、韩华资产管理、未来资产管理、Kiwoom资产管理和NH-Amundi资产管理旗下八只交易所交易基金（ETF）将于12日新上市。本次上市的ETF包括与AI、半导体科技股、KOSDAQ生物等相关的主题型产品，这些领域受到投资者关注。根据交易所发布的信息，多家资管公司将同时推出不同主题ETF，韩国ETF市场的产品选择有望扩大。投资者需查看各产品的基础指数、投资策略和风险因素。来源: yna.co.kr"
+      },
+      "es": {
+        "title": "Ocho ETF de IA, semiconductores y bio KOSDAQ cotizarán el día 12",
+        "excerpt": "La Bolsa de Corea dijo que ocho ETF de KB, Hyundai, Samsung, Hanwha, Mirae Asset, Kiwoom y NH-Amundi Asset Management se listarán el día 12, con temas de IA, semiconductores tecnológicos y bio KOSDAQ.",
+        "body": "La Bolsa de Corea anunció que el día 12 se listarán ocho fondos cotizados (ETF) de KB Asset Management, Hyundai Asset Management, Samsung Asset Management, Hanwha Asset Management, Mirae Asset Global Investments, Kiwoom Asset Management y NH-Amundi Asset Management. La nueva oferta incluye productos temáticos vinculados con IA, acciones tecnológicas de semiconductores y bio KOSDAQ, áreas que atraen la atención de los inversores. Según la bolsa, varias gestoras presentarán al mismo tiempo ETF de diversos temas, lo que ampliará las opciones del mercado coreano de ETF. Los inversores deben revisar el índice subyacente, la estrategia y los riesgos de cada producto. Fuente: yna.co.kr"
+      },
+      "pt": {
+        "title": "Oito ETFs de IA, semicondutores e bio KOSDAQ estreiam no dia 12",
+        "excerpt": "A Bolsa da Coreia informou que oito ETFs de KB, Hyundai, Samsung, Hanwha, Mirae Asset, Kiwoom e NH-Amundi Asset Management serão listados no dia 12, incluindo temas de IA, semicondutores e bio KOSDAQ.",
+        "body": "A Bolsa da Coreia informou que oito fundos negociados em bolsa (ETFs) da KB Asset Management, Hyundai Asset Management, Samsung Asset Management, Hanwha Asset Management, Mirae Asset Global Investments, Kiwoom Asset Management e NH-Amundi Asset Management serão listados no dia 12. A leva inclui produtos temáticos ligados a IA, ações de tecnologia de semicondutores e bio KOSDAQ, áreas que concentram interesse dos investidores. Segundo a bolsa, várias gestoras lançarão simultaneamente ETFs com diferentes temas, ampliando as opções no mercado coreano de ETFs. Os investidores devem verificar o índice de referência, a estratégia e os riscos de cada produto. Fonte: yna.co.kr"
+      },
+      "de": {
+        "title": "Acht KI-, Halbleiter- und KOSDAQ-Bio-ETFs starten am 12.",
+        "excerpt": "Die Korea Exchange teilte mit, dass acht ETFs von KB, Hyundai, Samsung, Hanwha, Mirae Asset, Kiwoom und NH-Amundi Asset Management am 12. gelistet werden, darunter KI-, Halbleitertech- und KOSDAQ-Bio-Themen.",
+        "body": "Die Korea Exchange gab bekannt, dass am 12. acht börsengehandelte Fonds von KB Asset Management, Hyundai Asset Management, Samsung Asset Management, Hanwha Asset Management, Mirae Asset Global Investments, Kiwoom Asset Management und NH-Amundi Asset Management neu gelistet werden. Die Produkte umfassen Themen wie KI, Halbleitertechnologieaktien und KOSDAQ-Bio, die bei Anlegern auf Interesse stoßen. Laut Börse bringen mehrere Vermögensverwalter gleichzeitig unterschiedliche Themen-ETFs auf den Markt, wodurch sich die Auswahl im koreanischen ETF-Markt erweitert. Anleger sollten den jeweiligen Basisindex, die Strategie und die Risiken prüfen. Quelle: yna.co.kr"
+      },
+      "fr": {
+        "title": "Huit ETF IA, semi-conducteurs et bio KOSDAQ cotés le 12",
+        "excerpt": "La Bourse de Corée a annoncé que huit ETF de KB, Hyundai, Samsung, Hanwha, Mirae Asset, Kiwoom et NH-Amundi Asset Management seront cotés le 12, avec des thèmes IA, semi-conducteurs et bio KOSDAQ.",
+        "body": "La Bourse de Corée a annoncé que huit fonds indiciels cotés (ETF) de KB Asset Management, Hyundai Asset Management, Samsung Asset Management, Hanwha Asset Management, Mirae Asset Global Investments, Kiwoom Asset Management et NH-Amundi Asset Management seront nouvellement cotés le 12. Cette série comprend des produits thématiques liés à l’IA, aux valeurs technologiques des semi-conducteurs et à la bio KOSDAQ, des domaines suivis par les investisseurs. Selon la Bourse, plusieurs sociétés de gestion lancent simultanément des ETF sur divers thèmes, ce qui devrait élargir le choix sur le marché coréen des ETF. Les investisseurs doivent vérifier l’indice sous-jacent, la stratégie et les risques de chaque produit. Source: yna.co.kr"
+      },
+      "ar": {
+        "title": "إدراج 8 صناديق ETF للذكاء الاصطناعي والرقائق وكوسداك الحيوي يوم 12",
+        "excerpt": "قالت بورصة كوريا إن ثمانية صناديق ETF من KB وهيونداي وسامسونغ وهانهوا وميراي أسيت وكيوم وNH-Amundi ستدرج يوم 12، وتشمل موضوعات الذكاء الاصطناعي والرقائق والتقنية الحيوية في كوسداك.",
+        "body": "أعلنت بورصة كوريا أن ثمانية صناديق متداولة في البورصة من KB Asset Management وHyundai Asset Management وSamsung Asset Management وHanwha Asset Management وMirae Asset Global Investments وKiwoom Asset Management وNH-Amundi Asset Management ستدرج حديثا يوم 12. وتشمل الصناديق منتجات موضوعية مرتبطة بالذكاء الاصطناعي وأسهم تكنولوجيا أشباه الموصلات وقطاع التقنية الحيوية في كوسداك، وهي مجالات تحظى باهتمام المستثمرين. ووفقا للبورصة، تطرح عدة شركات إدارة أصول صناديق ETF بموضوعات متنوعة في الوقت نفسه، ما يوسع خيارات سوق ETF الكورية. وينبغي للمستثمرين مراجعة المؤشر الأساسي واستراتيجية الإدارة وعوامل المخاطر لكل منتج. المصدر: yna.co.kr"
+      },
+      "hi": {
+        "title": "AI, सेमीकंडक्टर और KOSDAQ बायो के 8 ETF 12 तारीख को सूचीबद्ध होंगे",
+        "excerpt": "कोरिया एक्सचेंज ने कहा कि KB, Hyundai, Samsung, Hanwha, Mirae Asset, Kiwoom और NH-Amundi Asset Management के आठ ETF 12 तारीख को सूचीबद्ध होंगे, जिनमें AI, सेमीकंडक्टर टेक और KOSDAQ बायो थीम शामिल हैं।",
+        "body": "कोरिया एक्सचेंज ने बताया कि KB Asset Management, Hyundai Asset Management, Samsung Asset Management, Hanwha Asset Management, Mirae Asset Global Investments, Kiwoom Asset Management और NH-Amundi Asset Management के आठ एक्सचेंज-ट्रेडेड फंड 12 तारीख को नए सिरे से सूचीबद्ध होंगे। इनमें AI, सेमीकंडक्टर तकनीकी शेयरों और KOSDAQ बायो से जुड़े थीमैटिक उत्पाद शामिल हैं, जिन पर निवेशकों की नजर है। एक्सचेंज के अनुसार, कई एसेट मैनेजर एक साथ अलग-अलग थीम वाले ETF पेश कर रहे हैं, जिससे कोरियाई ETF बाजार में विकल्प बढ़ेंगे। निवेशकों को हर उत्पाद के आधार सूचकांक, निवेश रणनीति और जोखिम कारकों की जांच करनी चाहिए। स्रोत: yna.co.kr"
+      },
+      "id": {
+        "title": "Delapan ETF AI, Semikonduktor dan Bio KOSDAQ Melantai pada 12",
+        "excerpt": "Bursa Korea menyatakan delapan ETF dari KB, Hyundai, Samsung, Hanwha, Mirae Asset, Kiwoom dan NH-Amundi Asset Management akan tercatat pada 12, mencakup tema AI, saham teknologi semikonduktor dan bio KOSDAQ.",
+        "body": "Bursa Korea menyatakan delapan reksa dana yang diperdagangkan di bursa (ETF) dari KB Asset Management, Hyundai Asset Management, Samsung Asset Management, Hanwha Asset Management, Mirae Asset Global Investments, Kiwoom Asset Management dan NH-Amundi Asset Management akan tercatat baru pada 12. ETF tersebut mencakup produk tematik terkait AI, saham teknologi semikonduktor dan bio KOSDAQ, area yang menarik perhatian investor. Menurut bursa, beberapa manajer aset akan sekaligus memperkenalkan ETF dengan beragam tema, sehingga pilihan di pasar ETF Korea bertambah. Investor perlu memeriksa indeks acuan, strategi pengelolaan dan faktor risiko tiap produk. Sumber: yna.co.kr"
+      }
+    }
+  },
+  {
+    "id": "24c88cebe585",
+    "slug": "식약처-유리조각-검출-타이거모닝-이뮨샷-일부-회수-604882",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-05-09T08:25:55.465Z",
+    "updatedAt": "2026-05-09T08:25:55.465Z",
+    "sourceName": "yna.co.kr",
+    "sourceUrl": "https://www.yna.co.kr/view/AKR20260508153900017",
+    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260508153900017",
+    "titleFingerprint": "6bf654590fe853d2c3132698ca65cc1c54af90ba",
+    "dedupKeys": [
+      "24c88cebe5855f2023b02c06f85e00a2791096ab",
+      "6bf654590fe853d2c3132698ca65cc1c54af90ba",
+      "14984d0f916278b2a9a2330d6ecfe5117f25bc64"
+    ],
+    "imageUrl": "/images/articles/24c88cebe585.jpg",
+    "i18n": {
+      "ko": {
+        "title": "타이거모닝 이뮨샷 일부 회수, 식약처 유리조각 검출 확인하고 제품 조치",
+        "excerpt": "식품의약품안전처는 경기 화성시 레하임생활건강이 제조하고 충남 논산시 더건강한 주식회사가 판매한 주스 ‘타이거모닝 이뮨샷’ 일부에서 유리조각이 검출돼 회수한다고 밝혔다.",
+        "body": "식품의약품안전처는 경기 화성시 레하임생활건강이 제조하고 충남 논산시 더건강한 주식회사가 판매한 주스 ‘타이거모닝 이뮨샷’ 일부 제품을 회수한다고 밝혔다. 회수 사유는 해당 제품에서 유리조각이 검출된 데 따른 것이다. 이번 조치는 식품 이물 혼입과 관련한 소비자 안전 관리 차원에서 이뤄진 것으로, 제조업체와 판매업체가 각각 다른 지역에 있는 유통 제품이라는 점도 확인됐다. 공개된 원문 요약에는 회수 대상의 소비기한, 생산량, 유리조각 크기 등 세부 수치는 제시되지 않았다. 해당 제품을 보유한 소비자는 식약처 회수 안내를 확인할 필요가 있다. 출처: yna.co.kr"
+      },
+      "en": {
+        "title": "Tiger Morning Immune Shot Recall: MFDS Acts After Glass Fragment Found",
+        "excerpt": "South Korea’s MFDS said it is recalling some Tiger Morning Immune Shot juice made by Rehaim Life Health in Hwaseong and sold by The Healthy Co. in Nonsan after glass fragments were detected.",
+        "body": "South Korea’s Ministry of Food and Drug Safety said it is recalling some units of the juice product ‘Tiger Morning Immune Shot.’ The product was manufactured by Rehaim Life Health in Hwaseong, Gyeonggi Province, and sold by The Healthy Co., Ltd. in Nonsan, South Chungcheong Province. The recall follows the detection of glass fragments in the product. The measure is related to consumer safety management over foreign-material contamination in food and beverages. The available source summary did not provide detailed figures such as expiration date, production volume or fragment size. Consumers who have the product should check MFDS recall guidance. Source: yna.co.kr"
+      },
+      "ja": {
+        "title": "タイガーモーニング・イミューンショット一部回収、ガラス片検出で食品医薬品安全処が措置",
+        "excerpt": "韓国食品医薬品安全処は、京畿道華城市のレハイム生活健康が製造し、忠清南道論山市のザ・健康な株式会社が販売したジュースの一部からガラス片が検出され回収すると明らかにした。",
+        "body": "韓国食品医薬品安全処は、ジュース製品「タイガーモーニング・イミューンショット」の一部を回収すると発表した。同製品は京畿道華城市のレハイム生活健康が製造し、忠清南道論山市のザ・健康な株式会社が販売したもの。回収の理由は、当該製品からガラス片が検出されたためだ。今回の措置は、食品への異物混入に関する消費者安全管理の一環として行われた。公開された原文要約には、回収対象の消費期限、生産量、ガラス片の大きさなどの詳細数値は示されていない。製品を保有する消費者は、食品医薬品安全処の回収案内を確認する必要がある。出典: yna.co.kr"
+      },
+      "zh": {
+        "title": "Tiger Morning Immune Shot部分召回，韩国食药处因检出玻璃碎片采取措施",
+        "excerpt": "韩国食品医药品安全处表示，由京畿道华城市Rehaim Life Health生产、忠南论山市The Healthy Co.销售的果汁“Tiger Morning Immune Shot”部分产品检出玻璃碎片并将召回。",
+        "body": "韩国食品医药品安全处表示，将召回部分果汁产品“Tiger Morning Immune Shot”。该产品由京畿道华城市的Rehaim Life Health生产，并由忠清南道论山市的The Healthy Co., Ltd.销售。召回原因是产品中检出玻璃碎片。此次措施属于针对食品饮料异物混入问题的消费者安全管理。现有原文摘要未提供召回对象的保质期限、产量、玻璃碎片大小等具体数据。持有该产品的消费者应确认韩国食品医药品安全处发布的召回 안내。来源: yna.co.kr"
+      },
+      "es": {
+        "title": "Retiran parte de Tiger Morning Immune Shot tras hallar fragmentos de vidrio",
+        "excerpt": "El Ministerio de Seguridad de Alimentos y Medicamentos de Corea del Sur anunció el retiro parcial del jugo Tiger Morning Immune Shot, fabricado por Rehaim Life Health y vendido por The Healthy Co., tras detectarse vidrio.",
+        "body": "El Ministerio de Seguridad de Alimentos y Medicamentos de Corea del Sur anunció el retiro de parte del jugo ‘Tiger Morning Immune Shot’. El producto fue fabricado por Rehaim Life Health, ubicada en Hwaseong, provincia de Gyeonggi, y vendido por The Healthy Co., Ltd., con sede en Nonsan, provincia de Chungcheong del Sur. La medida se debe a la detección de fragmentos de vidrio en el producto. El retiro forma parte de la gestión de seguridad del consumidor ante la presencia de materiales extraños en alimentos y bebidas. El resumen original disponible no incluye datos como fecha de vencimiento, volumen producido o tamaño del vidrio. Fuente: yna.co.kr"
+      },
+      "pt": {
+        "title": "Tiger Morning Immune Shot tem recall parcial após detecção de vidro",
+        "excerpt": "O Ministério de Segurança de Alimentos e Medicamentos da Coreia do Sul informou o recall parcial do suco Tiger Morning Immune Shot, fabricado pela Rehaim Life Health e vendido pela The Healthy Co., após detecção de vidro.",
+        "body": "O Ministério de Segurança de Alimentos e Medicamentos da Coreia do Sul informou que fará o recall de parte do suco ‘Tiger Morning Immune Shot’. O produto foi fabricado pela Rehaim Life Health, em Hwaseong, província de Gyeonggi, e vendido pela The Healthy Co., Ltd., em Nonsan, província de Chungcheong do Sul. A razão do recall é a detecção de fragmentos de vidro no produto. A medida integra a gestão de segurança do consumidor diante de contaminação por material estranho em alimentos e bebidas. O resumo original disponível não informa prazo de validade, volume produzido ou tamanho dos fragmentos. Fonte: yna.co.kr"
+      },
+      "de": {
+        "title": "Tiger Morning Immune Shot teilweise zurückgerufen: Glasstücke entdeckt",
+        "excerpt": "Das südkoreanische Ministerium für Lebensmittel- und Arzneimittelsicherheit ruft Teile des Safts Tiger Morning Immune Shot zurück, hergestellt von Rehaim Life Health und verkauft von The Healthy Co., nachdem Glasstücke entdeckt wurden.",
+        "body": "Das südkoreanische Ministerium für Lebensmittel- und Arzneimittelsicherheit hat einen teilweisen Rückruf des Saftprodukts ‘Tiger Morning Immune Shot’ angekündigt. Hergestellt wurde es von Rehaim Life Health in Hwaseong, Provinz Gyeonggi, verkauft von The Healthy Co., Ltd. in Nonsan, Provinz Süd-Chungcheong. Grund für den Rückruf ist der Nachweis von Glasstücken im Produkt. Die Maßnahme steht im Zusammenhang mit dem Verbraucherschutz bei Fremdkörpern in Lebensmitteln und Getränken. Die verfügbare Originalzusammenfassung nennt keine Details zu Mindesthaltbarkeit, Produktionsmenge oder Größe der Glasstücke. Quelle: yna.co.kr"
+      },
+      "fr": {
+        "title": "Tiger Morning Immune Shot rappelé en partie après la détection de verre",
+        "excerpt": "Le ministère sud-coréen de la Sécurité des aliments et des médicaments a annoncé le rappel partiel du jus Tiger Morning Immune Shot, fabriqué par Rehaim Life Health et vendu par The Healthy Co., après la détection de fragments de verre.",
+        "body": "Le ministère sud-coréen de la Sécurité des aliments et des médicaments a annoncé le rappel d’une partie du jus ‘Tiger Morning Immune Shot’. Le produit a été fabriqué par Rehaim Life Health, à Hwaseong dans la province de Gyeonggi, et vendu par The Healthy Co., Ltd., à Nonsan dans la province du Chungcheong du Sud. Le rappel fait suite à la détection de fragments de verre dans le produit. Cette mesure relève de la gestion de la sécurité des consommateurs face à la présence de corps étrangers dans les aliments et boissons. Le résumé original disponible ne précise pas la date limite, le volume produit ni la taille des fragments. Source: yna.co.kr"
+      },
+      "ar": {
+        "title": "سحب جزئي لعصير Tiger Morning Immune Shot بعد رصد شظايا زجاج",
+        "excerpt": "أعلنت وزارة سلامة الغذاء والدواء في كوريا الجنوبية سحب بعض منتجات عصير Tiger Morning Immune Shot، الذي صنعته Rehaim Life Health وباعته The Healthy Co.، بعد اكتشاف شظايا زجاج فيه.",
+        "body": "أعلنت وزارة سلامة الغذاء والدواء في كوريا الجنوبية سحب جزء من منتج العصير ‘Tiger Morning Immune Shot’. المنتج صنعته شركة Rehaim Life Health في مدينة هواسونغ بمقاطعة غيونغغي، وباعته شركة The Healthy Co., Ltd. في مدينة نونسان بمقاطعة تشونغتشونغ الجنوبية. وجاء السحب بعد اكتشاف شظايا زجاج في المنتج. وتندرج الخطوة ضمن إدارة سلامة المستهلك المرتبطة بوجود مواد غريبة في الأغذية والمشروبات. ولا يتضمن ملخص المصدر المتاح تفاصيل مثل تاريخ الصلاحية أو كمية الإنتاج أو حجم شظايا الزجاج. المصدر: yna.co.kr"
+      },
+      "hi": {
+        "title": "Tiger Morning Immune Shot का आंशिक रिकॉल, कांच के टुकड़े मिलने पर कार्रवाई",
+        "excerpt": "दक्षिण कोरिया के खाद्य एवं औषधि सुरक्षा मंत्रालय ने Rehaim Life Health द्वारा बनाए और The Healthy Co. द्वारा बेचे गए Tiger Morning Immune Shot जूस के कुछ उत्पादों में कांच के टुकड़े मिलने पर रिकॉल की घोषणा की।",
+        "body": "दक्षिण कोरिया के खाद्य एवं औषधि सुरक्षा मंत्रालय ने जूस उत्पाद ‘Tiger Morning Immune Shot’ के कुछ हिस्से को वापस मंगाने की घोषणा की। यह उत्पाद ग्योंगगी प्रांत के ह्वासोंग स्थित Rehaim Life Health ने बनाया और दक्षिण चुंगचोंग प्रांत के नोनसान स्थित The Healthy Co., Ltd. ने बेचा। रिकॉल का कारण उत्पाद में कांच के टुकड़ों का पाया जाना है। यह कदम खाद्य और पेय उत्पादों में बाहरी सामग्री मिलने से जुड़ी उपभोक्ता सुरक्षा प्रबंधन प्रक्रिया का हिस्सा है। उपलब्ध मूल सारांश में समाप्ति तिथि, उत्पादन मात्रा या कांच के टुकड़ों के आकार जैसे विवरण नहीं दिए गए। स्रोत: yna.co.kr"
+      },
+      "id": {
+        "title": "Tiger Morning Immune Shot Ditarik Sebagian Setelah Fragmen Kaca Terdeteksi",
+        "excerpt": "Kementerian Keamanan Pangan dan Obat Korea Selatan mengumumkan penarikan sebagian jus Tiger Morning Immune Shot, yang diproduksi Rehaim Life Health dan dijual The Healthy Co., setelah fragmen kaca terdeteksi.",
+        "body": "Kementerian Keamanan Pangan dan Obat Korea Selatan menyatakan akan menarik sebagian produk jus ‘Tiger Morning Immune Shot’. Produk itu diproduksi oleh Rehaim Life Health di Hwaseong, Provinsi Gyeonggi, dan dijual oleh The Healthy Co., Ltd. di Nonsan, Provinsi Chungcheong Selatan. Penarikan dilakukan karena fragmen kaca terdeteksi dalam produk tersebut. Langkah ini terkait pengelolaan keselamatan konsumen atas kontaminasi benda asing pada makanan dan minuman. Ringkasan sumber yang tersedia tidak mencantumkan rincian seperti tanggal kedaluwarsa, volume produksi, atau ukuran fragmen kaca. Sumber: yna.co.kr"
+      }
+    }
+  },
+  {
+    "id": "997334d2d5f6",
+    "slug": "연합뉴스-이-시각-헤드라인---1800-155581",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-05-09T08:24:45.374Z",
+    "updatedAt": "2026-05-09T08:24:45.375Z",
+    "sourceName": "yna.co.kr",
+    "sourceUrl": "https://www.yna.co.kr/view/AKR20260508149900011",
+    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260508149900011",
+    "titleFingerprint": "c95cf04a5712eb0a9cec226fb37a9ffbfd5c28a0",
+    "dedupKeys": [
+      "997334d2d5f6845262a52b440a8e3af7b04af78e",
+      "c95cf04a5712eb0a9cec226fb37a9ffbfd5c28a0",
+      "077d90c9c68dfa11af00cb7cd65633e52e32315f"
+    ],
+    "imageUrl": "/images/articles/997334d2d5f6.jpg",
+    "i18n": {
+      "ko": {
+        "title": "39년만의 개헌 시도 무산, 6·3 지방선거 개헌안 투표 불발",
+        "excerpt": "연합뉴스 18:00 헤드라인에 따르면 39년 만에 추진된 개헌 시도가 무위로 돌아가며 6·3 지방선거 때 개헌안 투표도 무산됐다.",
+        "body": "연합뉴스가 18:00 헤드라인으로 전한 내용에 따르면, 한국에서 39년 만에 추진된 개헌 시도가 무위로 돌아갔다. 이에 따라 6·3 지방선거와 함께 개헌안을 국민투표에 부치는 방안도 성사되지 못했다. 이번 사안의 핵심은 장기간 이어진 헌정 질서 속에서 개헌 논의가 실제 투표 절차로 이어지지 못했다는 점이다. 39년 만의 개헌 시도라는 상징성에도 불구하고, 지방선거 일정과 맞물린 개헌안 투표는 무산된 것으로 정리됐다. 향후 개헌 논의의 재개 여부와 방식은 정치권의 후속 논의에 달려 있다. 출처: yna.co.kr"
+      },
+      "en": {
+        "title": "South Korea’s 39-Year Constitutional Revision Push Fails Before June 3 Vote",
+        "excerpt": "Yonhap’s 18:00 headline says South Korea’s first constitutional revision attempt in 39 years fell through, canceling a planned June 3 local election referendum.",
+        "body": "According to Yonhap News Agency’s 18:00 headline, South Korea’s attempt to revise the Constitution for the first time in 39 years has ended without result. As a consequence, a plan to put the proposed amendment to a public vote alongside the June 3 local elections also failed to materialize. The key point is that a constitutional revision debate, carrying symbolic weight after nearly four decades, did not advance to the actual referendum stage. Despite the significance of a 39-year interval, the amendment vote tied to the local election schedule has been canceled. Whether and how the debate resumes will depend on later political discussions. Source: yna.co.kr"
+      },
+      "ja": {
+        "title": "韓国の39年ぶり改憲試みが不発、6月3日地方選での投票も見送り",
+        "excerpt": "聯合ニュースの18時ヘッドラインによると、韓国で39年ぶりに進められた改憲の試みは実を結ばず、6月3日地方選での改憲案投票も不発となった。",
+        "body": "聯合ニュースが18時ヘッドラインで伝えた内容によると、韓国で39年ぶりに進められた憲法改正の試みは成果なく終わった。これにより、6月3日の地方選挙に合わせて改憲案を国民投票に付す案も実現しなかった。今回の焦点は、長く続いてきた憲政秩序の中で、改憲論議が実際の投票手続きに進まなかった点にある。39年ぶりの改憲試みという象徴性があったものの、地方選の日程と連動した改憲案投票は見送られた。今後、改憲論議が再開されるかどうか、その方式は政界の後続協議に左右される。出典: yna.co.kr"
+      },
+      "zh": {
+        "title": "韩国时隔39年修宪尝试落空，6月3日地方选举公投未成行",
+        "excerpt": "据韩联社18:00标题消息，韩国时隔39年推进的修宪尝试未能实现，原拟在6月3日地方选举期间举行的修宪案投票也告落空。",
+        "body": "据韩联社18:00标题报道，韩国时隔39年推进的修宪尝试最终未能取得结果。因此，原计划与6月3日地方选举同步进行的修宪案公投也未能成行。此事的核心在于，在长期延续的宪政秩序下，修宪讨论未能进入实际投票程序。尽管“时隔39年修宪尝试”具有象征意义，但与地方选举日程相衔接的修宪案投票已告落空。今后修宪讨论是否重启以及以何种方式推进，将取决于政界后续讨论。来源: yna.co.kr"
+      },
+      "es": {
+        "title": "Fracasa el intento de reforma constitucional en Corea del Sur tras 39 años",
+        "excerpt": "Según el titular de Yonhap de las 18:00, el intento de reforma constitucional en Corea del Sur tras 39 años quedó sin efecto y no habrá voto junto a las elecciones locales del 3 de junio.",
+        "body": "Según informó Yonhap en su titular de las 18:00, el intento de Corea del Sur de impulsar una reforma constitucional por primera vez en 39 años quedó sin resultado. En consecuencia, tampoco se concretó el plan de someter la enmienda a votación junto con las elecciones locales del 3 de junio. El punto central es que un debate constitucional con peso simbólico, tras casi cuatro décadas, no avanzó hasta la fase real de referéndum. Pese al significado de una iniciativa de reforma después de 39 años, la votación vinculada al calendario electoral local quedó cancelada. La posible reanudación del debate dependerá de las conversaciones políticas posteriores. Fuente: yna.co.kr"
+      },
+      "pt": {
+        "title": "Tentativa de reforma constitucional na Coreia do Sul fracassa após 39 anos",
+        "excerpt": "Segundo a manchete da Yonhap às 18h, a tentativa de reforma constitucional na Coreia do Sul após 39 anos não avançou, e a votação prevista para 3 de junho foi cancelada.",
+        "body": "De acordo com a manchete da Yonhap News Agency às 18h, a tentativa da Coreia do Sul de revisar a Constituição pela primeira vez em 39 anos terminou sem resultado. Com isso, também não se concretizou o plano de submeter a proposta de emenda a votação junto com as eleições locais de 3 de junho. O ponto central é que uma discussão constitucional de forte simbolismo, após quase quatro décadas, não chegou à etapa efetiva de referendo. Apesar do significado de uma tentativa após 39 anos, a votação vinculada ao calendário eleitoral local foi cancelada. A retomada do debate dependerá das discussões políticas posteriores. Fonte: yna.co.kr"
+      },
+      "de": {
+        "title": "Südkoreas Verfassungsreform nach 39 Jahren scheitert vor Juni-Abstimmung",
+        "excerpt": "Laut Yonhap-Schlagzeile von 18:00 Uhr ist Südkoreas erster Versuch einer Verfassungsänderung seit 39 Jahren gescheitert; die Abstimmung bei den Kommunalwahlen am 3. Juni fällt aus.",
+        "body": "Nach der 18:00-Uhr-Schlagzeile der Nachrichtenagentur Yonhap ist Südkoreas Versuch, die Verfassung erstmals seit 39 Jahren zu ändern, ohne Ergebnis geblieben. Damit kam auch der Plan nicht zustande, den Änderungsentwurf gemeinsam mit den Kommunalwahlen am 3. Juni zur Abstimmung zu stellen. Im Mittelpunkt steht, dass eine verfassungsrechtliche Debatte mit symbolischem Gewicht nach fast vier Jahrzehnten nicht bis zum tatsächlichen Referendum gelangte. Trotz der Bedeutung eines Reformversuchs nach 39 Jahren wurde die mit dem Wahltermin verbundene Abstimmung abgesagt. Ob und wie die Debatte wieder aufgenommen wird, hängt von weiteren politischen Gesprächen ab. Quelle: yna.co.kr"
+      },
+      "fr": {
+        "title": "La tentative de révision constitutionnelle en Corée du Sud échoue après 39 ans",
+        "excerpt": "Selon le titre de Yonhap à 18h00, la tentative de révision constitutionnelle sud-coréenne après 39 ans a échoué, annulant le vote prévu avec les élections locales du 3 juin.",
+        "body": "Selon le titre diffusé par l’agence Yonhap à 18h00, la tentative de la Corée du Sud de réviser sa Constitution pour la première fois en 39 ans s’est soldée par un échec. En conséquence, le projet de soumettre l’amendement à un vote populaire en même temps que les élections locales du 3 juin n’a pas abouti. L’enjeu principal est qu’un débat constitutionnel chargé de symbolisme, après près de quatre décennies, n’a pas atteint l’étape effective du référendum. Malgré l’importance d’une tentative après 39 ans, le vote lié au calendrier électoral local a été annulé. La reprise éventuelle du débat dépendra des discussions politiques à venir. Source: yna.co.kr"
+      },
+      "ar": {
+        "title": "فشل محاولة تعديل الدستور في كوريا الجنوبية بعد 39 عاما قبل تصويت يونيو",
+        "excerpt": "بحسب عنوان وكالة يونهاب عند الساعة 18:00، تعثرت محاولة تعديل الدستور في كوريا الجنوبية بعد 39 عاما، كما أُلغي التصويت المقترح مع الانتخابات المحلية في 3 يونيو.",
+        "body": "وفقا لما نقلته وكالة يونهاب في عنوانها عند الساعة 18:00، انتهت محاولة كوريا الجنوبية تعديل الدستور للمرة الأولى منذ 39 عاما من دون نتيجة. وبناء على ذلك، لم يتحقق أيضا طرح مشروع التعديل للتصويت الشعبي بالتزامن مع الانتخابات المحلية في 3 يونيو. وتتمثل النقطة الأساسية في أن نقاشا دستوريا يحمل دلالة رمزية بعد ما يقرب من أربعة عقود لم يصل إلى مرحلة الاستفتاء الفعلي. ورغم رمزية محاولة التعديل بعد 39 عاما، فقد تعثر التصويت المرتبط بجدول الانتخابات المحلية. أما استئناف النقاش مستقبلا وطريقته فسيتوقفان على المداولات السياسية اللاحقة. المصدر: yna.co.kr"
+      },
+      "hi": {
+        "title": "दक्षिण कोरिया में 39 साल बाद संविधान संशोधन की कोशिश नाकाम",
+        "excerpt": "योनहाप की 18:00 बजे की हेडलाइन के अनुसार, दक्षिण कोरिया में 39 साल बाद संविधान संशोधन की कोशिश विफल रही और 3 जून के स्थानीय चुनावों के साथ प्रस्तावित मतदान भी रद्द हो गया।",
+        "body": "योनहाप समाचार एजेंसी की 18:00 बजे की हेडलाइन के अनुसार, दक्षिण कोरिया में 39 साल बाद संविधान संशोधन का प्रयास बिना परिणाम समाप्त हो गया। इसके साथ ही 3 जून के स्थानीय चुनावों के दौरान संशोधन प्रस्ताव को जनमत मतदान में रखने की योजना भी साकार नहीं हो सकी। इस मामले का मुख्य बिंदु यह है कि करीब चार दशकों बाद प्रतीकात्मक महत्व रखने वाली संवैधानिक बहस वास्तविक मतदान प्रक्रिया तक नहीं पहुंची। 39 साल बाद की कोशिश के महत्व के बावजूद, स्थानीय चुनाव कार्यक्रम से जुड़ा संशोधन मतदान रद्द हो गया। आगे यह बहस फिर शुरू होगी या नहीं और किस रूप में होगी, यह बाद की राजनीतिक चर्चाओं पर निर्भर करेगा। स्रोत: yna.co.kr"
+      },
+      "id": {
+        "title": "Upaya Amandemen Konstitusi Korea Selatan Setelah 39 Tahun Gagal",
+        "excerpt": "Menurut tajuk Yonhap pukul 18.00, upaya amandemen konstitusi Korea Selatan setelah 39 tahun gagal, sehingga pemungutan suara saat pemilu lokal 3 Juni juga batal.",
+        "body": "Menurut tajuk Yonhap News Agency pukul 18.00, upaya Korea Selatan untuk mengubah konstitusi untuk pertama kalinya dalam 39 tahun berakhir tanpa hasil. Akibatnya, rencana untuk membawa rancangan amandemen ke pemungutan suara publik bersamaan dengan pemilihan lokal pada 3 Juni juga tidak terlaksana. Pokok persoalannya adalah bahwa pembahasan konstitusi yang memiliki makna simbolis setelah hampir empat dekade tidak mencapai tahap referendum nyata. Meski penting sebagai upaya pertama dalam 39 tahun, pemungutan suara yang dikaitkan dengan jadwal pemilu lokal telah batal. Kelanjutan pembahasan amandemen akan bergantung pada diskusi politik berikutnya. Sumber: yna.co.kr"
+      }
+    }
+  },
+  {
     "id": "7d6d9445465d",
     "slug": "푸드나무-10억원-제3자배정-유상증자-940509",
     "channelId": "ETF",
@@ -4271,231 +4496,6 @@
         "title": "Investasi Saat Perang: Sebelum Saham Pertahanan dan Kilang, Lihat Minyak, Bunga, Valuasi",
         "excerpt": "mk.co.kr menyebut investor di tengah perang perlu melihat harga minyak, suku bunga, dan tingkat diskonto sebelum garis depan, karena valuasi bisa terguncang lebih dulu dari laba.",
         "body": "Saat perang pecah atau ketegangan meningkat, investor sering lebih dulu menyoroti saham pertahanan dan kilang minyak. Namun mk.co.kr dalam “War and Investing 3” menjelaskan bahwa perang masuk ke pasar modal lewat tingkat diskonto sebelum terdengar lewat dentuman senjata. Orang melihat garis depan, sementara pasar modal melihat harga minyak dan suku bunga. Perubahan minyak dan bunga dapat mengguncang valuasi sebelum kinerja perusahaan terbukti. Karena itu, investasi saat perang tidak cukup dengan membeli sektor tertentu. Investor juga perlu membaca biaya modal dan tatanan kekayaan yang tersembunyi di balik suara perang. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "f2d8265b90ff",
-    "slug": "gs리테일-분석-편의점수퍼홈쇼핑의-고른-개선내수경기-회복이-관건-504643",
-    "channelId": "ETF",
-    "category": "etf",
-    "publishedAt": "2026-05-08T18:45:15.169Z",
-    "updatedAt": "2026-05-08T18:45:15.169Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/202605084211i",
-    "canonicalUrl": "https://www.hankyung.com/article/202605084211i",
-    "titleFingerprint": "8c8cbae0223445b31f9bb7ba4ee19bef08daa987",
-    "dedupKeys": [
-      "f2d8265b90ffdbe9ac39976851c01404145fee5a",
-      "8c8cbae0223445b31f9bb7ba4ee19bef08daa987",
-      "b4a255076317ddb4019ea16c583b1942281a36b9"
-    ],
-    "imageUrl": "/images/articles/f2d8265b90ff.jpg",
-    "i18n": {
-      "ko": {
-        "title": "GS리테일 분석, 편의점·수퍼·홈쇼핑 개선에도 내수 회복이 변수",
-        "excerpt": "GS리테일은 편의점, 수퍼, 홈쇼핑 부문에서 고른 개선 흐름을 보이고 있으나 향후 실적의 핵심 변수는 내수경기 회복 여부로 지목됐다.",
-        "body": "GS리테일은 최근 편의점, 수퍼, 홈쇼핑 사업 전반에서 고른 개선 흐름을 보이고 있는 것으로 분석됐다. 원문은 사업별 회복이 한쪽에 치우치지 않고 나타난다는 점을 핵심으로 제시했다. 다만 향후 실적 개선이 이어지려면 내수경기 회복이 관건이라는 평가가 함께 제기됐다. 편의점과 수퍼는 소비 회복에 민감하고, 홈쇼핑 역시 국내 소비 여건의 영향을 받는 만큼 경기 흐름이 중요한 변수로 남아 있다. 관련 분석은 hankyung.com을 출처로 한다."
-      },
-      "en": {
-        "title": "GS Retail Analysis: Convenience Stores, Supermarkets and Home Shopping Improve, Domestic Demand Key",
-        "excerpt": "GS Retail is showing balanced improvement across convenience stores, supermarkets and home shopping, but the recovery of domestic demand is seen as the key variable ahead.",
-        "body": "GS Retail has been analyzed as showing broad-based improvement across its convenience store, supermarket and home shopping businesses. The source article highlights that the recovery is not concentrated in one segment but is appearing evenly across major operations. However, the main condition for continued earnings improvement is a recovery in domestic demand. Convenience stores and supermarkets are sensitive to consumer spending, while home shopping is also affected by local consumption conditions, leaving the economic cycle as an important variable. The analysis is cited from hankyung.com."
-      },
-      "ja": {
-        "title": "GSリテール分析、コンビニ・スーパー・通販改善も内需回復が焦点",
-        "excerpt": "GSリテールはコンビニ、スーパー、ホームショッピング部門で均等な改善を示しているが、今後の業績には内需景気の回復が鍵とされた。",
-        "body": "GSリテールは最近、コンビニ、スーパー、ホームショッピング事業全般で均等な改善傾向を示していると分析された。原文は、事業別の回復が一部に偏らず主要部門で表れている点を核心として示している。ただし、今後も業績改善が続くためには内需景気の回復が重要な条件になるとの評価も示された。コンビニとスーパーは消費回復に敏感で、ホームショッピングも国内消費環境の影響を受けるため、景気動向が重要な変数として残る。関連分析の出所はhankyung.comである。"
-      },
-      "zh": {
-        "title": "GS Retail分析：便利店、超市与居家购物改善，内需复苏成关键",
-        "excerpt": "GS Retail在便利店、超市和居家购物业务中呈现均衡改善，但未来业绩能否延续改善取决于国内消费景气复苏。",
-        "body": "GS Retail近期被分析认为，其便利店、超市和居家购物业务整体呈现均衡改善。原文指出，业务复苏并未集中在单一板块，而是在主要业务中较为均匀地出现。不过，未来业绩改善能否持续，内需景气复苏仍是关键条件。便利店和超市对消费恢复较为敏感，居家购物同样受到国内消费环境影响，因此经济走势仍是重要变量。相关分析引用自hankyung.com。"
-      },
-      "es": {
-        "title": "Análisis de GS Retail: mejoran tiendas, supermercados y televenta; la demanda interna será clave",
-        "excerpt": "GS Retail muestra una mejora equilibrada en tiendas de conveniencia, supermercados y televenta, aunque la recuperación del consumo interno sigue siendo el factor decisivo.",
-        "body": "GS Retail ha sido analizada como una compañía que muestra una mejora amplia en sus negocios de tiendas de conveniencia, supermercados y televenta. El artículo original subraya que la recuperación no se concentra en un solo segmento, sino que aparece de forma equilibrada en sus principales operaciones. Sin embargo, para que la mejora de resultados continúe, la recuperación de la demanda interna será el factor clave. Las tiendas y supermercados son sensibles al consumo, y la televenta también depende del entorno de gasto local. El análisis procede de hankyung.com."
-      },
-      "pt": {
-        "title": "Análise da GS Retail: conveniência, supermercados e home shopping melhoram, demanda interna pesa",
-        "excerpt": "A GS Retail registra melhora equilibrada em lojas de conveniência, supermercados e home shopping, mas a recuperação do consumo doméstico segue como variável central.",
-        "body": "A GS Retail foi analisada como apresentando melhora ampla em seus negócios de lojas de conveniência, supermercados e home shopping. O texto original destaca que a recuperação não está concentrada em apenas um segmento, mas aparece de forma equilibrada nas principais operações. Ainda assim, para que a melhora dos resultados continue, a recuperação da demanda doméstica será essencial. Lojas de conveniência e supermercados são sensíveis ao consumo, enquanto o home shopping também depende das condições locais de gasto. A análise tem como fonte hankyung.com."
-      },
-      "de": {
-        "title": "GS-Retail-Analyse: Convenience Stores, Supermärkte und Homeshopping verbessern sich, Binnenkonsum entscheidet",
-        "excerpt": "GS Retail zeigt Verbesserungen in Convenience Stores, Supermärkten und Homeshopping, doch die Erholung der Binnennachfrage gilt als entscheidender Faktor.",
-        "body": "GS Retail wird derzeit als Unternehmen analysiert, das in den Bereichen Convenience Stores, Supermärkte und Homeshopping eine breit angelegte Verbesserung zeigt. Der Originalbericht betont, dass die Erholung nicht auf ein einzelnes Segment beschränkt ist, sondern in den wichtigsten Geschäftsbereichen gleichmäßiger sichtbar wird. Für eine Fortsetzung der Ergebnisverbesserung bleibt jedoch die Erholung der Binnennachfrage entscheidend. Convenience Stores und Supermärkte reagieren sensibel auf Konsumtrends, während auch Homeshopping vom heimischen Konsumumfeld abhängt. Die Analyse stammt von hankyung.com."
-      },
-      "fr": {
-        "title": "Analyse GS Retail : supérettes, supermarchés et téléachat progressent, la demande intérieure reste clé",
-        "excerpt": "GS Retail affiche une amélioration équilibrée dans les supérettes, supermarchés et le téléachat, mais la reprise de la demande intérieure reste déterminante.",
-        "body": "GS Retail est analysé comme affichant une amélioration généralisée dans ses activités de supérettes, de supermarchés et de téléachat. L’article d’origine souligne que la reprise ne se limite pas à un seul segment, mais apparaît de façon équilibrée dans les principales activités. Toutefois, la poursuite de l’amélioration des résultats dépendra de la reprise de la demande intérieure. Les supérettes et supermarchés sont sensibles à la consommation, tandis que le téléachat dépend également des conditions de dépense locales. L’analyse est citée depuis hankyung.com."
-      },
-      "ar": {
-        "title": "تحليل GS Retail: تحسن المتاجر والسوبرماركت والتسوق المنزلي مع ترقب الطلب المحلي",
-        "excerpt": "تظهر GS Retail تحسنا متوازنا في متاجر الراحة والسوبرماركت والتسوق المنزلي، لكن تعافي الطلب المحلي يبقى العامل الحاسم للأداء المقبل.",
-        "body": "أظهر تحليل GS Retail أنها تسجل تحسنا واسعا في أعمال متاجر الراحة والسوبرماركت والتسوق المنزلي. ويشير النص الأصلي إلى أن التعافي لا يتركز في قطاع واحد، بل يظهر بصورة متوازنة عبر الأنشطة الرئيسية. ومع ذلك، فإن استمرار تحسن النتائج يتوقف على تعافي الطلب المحلي. فمتاجر الراحة والسوبرماركت تتأثران مباشرة بحركة الاستهلاك، كما يتأثر التسوق المنزلي بظروف الإنفاق المحلي، ما يجعل مسار الاقتصاد عاملا مهما. يستند هذا التحليل إلى hankyung.com."
-      },
-      "hi": {
-        "title": "GS Retail विश्लेषण: सुविधा स्टोर, सुपरमार्केट और होम शॉपिंग में सुधार, घरेलू मांग अहम",
-        "excerpt": "GS Retail के सुविधा स्टोर, सुपरमार्केट और होम शॉपिंग कारोबार में संतुलित सुधार दिख रहा है, लेकिन आगे घरेलू मांग की रिकवरी मुख्य कारक रहेगी।",
-        "body": "GS Retail के बारे में विश्लेषण है कि उसके सुविधा स्टोर, सुपरमार्केट और होम शॉपिंग कारोबार में व्यापक और संतुलित सुधार दिख रहा है। मूल लेख के अनुसार सुधार किसी एक खंड तक सीमित नहीं है, बल्कि प्रमुख व्यवसायों में समान रूप से दिखाई दे रहा है। हालांकि आगे आय में सुधार जारी रहने के लिए घरेलू मांग की रिकवरी अहम शर्त मानी गई है। सुविधा स्टोर और सुपरमार्केट उपभोग में बदलाव के प्रति संवेदनशील हैं, जबकि होम शॉपिंग भी घरेलू खर्च के माहौल से प्रभावित होती है। यह विश्लेषण hankyung.com से उद्धृत है।"
-      },
-      "id": {
-        "title": "Analisis GS Retail: minimarket, supermarket dan home shopping membaik, pemulihan konsumsi domestik jadi kunci",
-        "excerpt": "GS Retail menunjukkan perbaikan merata di bisnis minimarket, supermarket dan home shopping, namun pemulihan konsumsi domestik tetap menjadi variabel utama.",
-        "body": "GS Retail dianalisis menunjukkan perbaikan luas di bisnis minimarket, supermarket dan home shopping. Artikel sumber menekankan bahwa pemulihan tidak hanya terjadi pada satu segmen, tetapi terlihat cukup merata di lini usaha utama. Namun, agar perbaikan kinerja berlanjut, pemulihan permintaan domestik menjadi faktor kunci. Minimarket dan supermarket sensitif terhadap konsumsi masyarakat, sementara home shopping juga dipengaruhi kondisi belanja domestik. Karena itu, arah ekonomi dalam negeri tetap menjadi variabel penting. Analisis ini mengutip hankyung.com."
-      }
-    }
-  },
-  {
-    "id": "aa0bae9ff7a5",
-    "slug": "지난달-밸류업-공시-기업-130곳95가-고배당社-507801",
-    "channelId": "ETF",
-    "category": "etf",
-    "publishedAt": "2026-05-08T18:44:31.315Z",
-    "updatedAt": "2026-05-08T18:44:31.315Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/2026050841716",
-    "canonicalUrl": "https://www.hankyung.com/article/2026050841716",
-    "titleFingerprint": "dda3a813169e39d00904e17743a2c1f2ced1e534",
-    "dedupKeys": [
-      "aa0bae9ff7a579cbfd8b881030ddae43352f8a36",
-      "dda3a813169e39d00904e17743a2c1f2ced1e534",
-      "0cf66bc35f2f99f9b543333d91fab70e56995963"
-    ],
-    "imageUrl": "/images/articles/aa0bae9ff7a5.jpg",
-    "i18n": {
-      "ko": {
-        "title": "밸류업 공시 130곳, 지난달 95%가 고배당 기업으로 집중",
-        "excerpt": "지난달 밸류업 공시에 나선 기업은 130곳으로 집계됐으며, 이 가운데 95%가 고배당 기업으로 나타나 주주환원 관련 흐름이 부각됐다.",
-        "body": "지난달 밸류업 공시에 참여한 기업은 130곳으로 집계됐다. 이들 기업 가운데 95%가 고배당 기업으로 나타나, 밸류업 공시가 배당 성향이 높은 기업을 중심으로 이뤄진 것으로 파악됐다. 이번 수치는 밸류업 공시 참여 기업의 성격을 보여주는 지표로, 시장에서는 주주환원과 배당 정책을 함께 살펴볼 필요가 커졌다. 다만 원문에서 제시된 핵심 정보는 기업 수와 고배당 기업 비중에 한정된다. 출처: hankyung.com."
-      },
-      "en": {
-        "title": "Value-Up Filings Reached 130 Last Month, With 95% High-Dividend Firms",
-        "excerpt": "Last month, 130 companies made value-up disclosures, and 95% of them were identified as high-dividend companies, highlighting shareholder-return trends.",
-        "body": "Last month, 130 companies made value-up disclosures. Among them, 95% were high-dividend companies, indicating that the disclosures were concentrated among firms with relatively strong dividend profiles. The figure offers a snapshot of the types of companies participating in value-up filings and draws attention to the link between shareholder returns and dividend policy. The original information is limited to the number of companies and the share classified as high-dividend firms. Source: hankyung.com."
-      },
-      "ja": {
-        "title": "バリューアップ開示130社、先月は95％が高配当企業に集中",
-        "excerpt": "先月、バリューアップ開示を行った企業は130社で、そのうち95％が高配当企業とされ、株主還元の流れが注目された。",
-        "body": "先月、バリューアップ開示に参加した企業は130社と集計された。このうち95％が高配当企業であり、バリューアップ開示が配当性向の高い企業を中心に行われたことが分かった。今回の数字は、開示参加企業の特徴を示す指標であり、市場では株主還元と配当政策をあわせて確認する必要性が高まっている。ただし、原文で示された核心情報は企業数と高配当企業の比率に限られる。出典: hankyung.com."
-      },
-      "zh": {
-        "title": "价值提升披露企业上月达130家，95%为高股息公司",
-        "excerpt": "上月共有130家公司进行价值提升披露，其中95%被归为高股息企业，显示股东回报相关动向受到关注。",
-        "body": "上月参与价值提升披露的企业共计130家。其中95%为高股息企业，显示相关披露主要集中在股息水平较高的公司。该数据反映了参与价值提升披露企业的特征，也使市场更加关注股东回报与股息政策之间的联系。不过，原文提供的核心信息仅限于企业数量以及高股息企业所占比例。来源: hankyung.com."
-      },
-      "es": {
-        "title": "Divulgaciones Value-Up sumaron 130 firmas y 95% fueron de alto dividendo",
-        "excerpt": "El mes pasado, 130 empresas realizaron divulgaciones Value-Up y el 95% fueron compañías de alto dividendo, destacando el foco en retornos al accionista.",
-        "body": "El mes pasado, 130 empresas participaron en divulgaciones Value-Up. De ellas, el 95% fueron compañías de alto dividendo, lo que muestra que estas divulgaciones se concentraron en empresas con una política de dividendos destacada. La cifra sirve como indicador del perfil de las firmas participantes y pone el foco en la relación entre retorno al accionista y dividendos. La información original se limita al número de empresas y a la proporción clasificada como de alto dividendo. Fuente: hankyung.com."
-      },
-      "pt": {
-        "title": "Divulgações Value-Up chegaram a 130 empresas; 95% pagam altos dividendos",
-        "excerpt": "No mês passado, 130 empresas fizeram divulgações Value-Up, e 95% delas foram classificadas como companhias de alto dividendo, reforçando o foco em retorno ao acionista.",
-        "body": "No mês passado, 130 empresas participaram de divulgações Value-Up. Entre elas, 95% eram companhias de alto dividendo, indicando que as divulgações se concentraram em empresas com perfil de dividendos mais elevado. O dado mostra as características das empresas participantes e chama atenção para a relação entre retorno ao acionista e política de dividendos. As informações originais se limitam ao número de empresas e à proporção de companhias de alto dividendo. Fonte: hankyung.com."
-      },
-      "de": {
-        "title": "Value-Up-Offenlegungen bei 130 Firmen, 95% davon dividendenstark",
-        "excerpt": "Im vergangenen Monat legten 130 Unternehmen Value-Up-Informationen offen; 95% davon waren dividendenstarke Firmen, was den Fokus auf Aktionärsrenditen zeigt.",
-        "body": "Im vergangenen Monat beteiligten sich 130 Unternehmen an Value-Up-Offenlegungen. Davon waren 95% dividendenstarke Unternehmen, was zeigt, dass sich die Offenlegungen auf Firmen mit ausgeprägtem Dividendenprofil konzentrierten. Die Zahl beschreibt den Charakter der teilnehmenden Unternehmen und lenkt den Blick auf den Zusammenhang zwischen Aktionärsrendite und Dividendenpolitik. Die ursprünglichen Angaben beschränken sich auf die Unternehmenszahl und den Anteil dividendenstarker Firmen. Quelle: hankyung.com."
-      },
-      "fr": {
-        "title": "Divulgations Value-Up: 130 entreprises, dont 95% à fort dividende",
-        "excerpt": "Le mois dernier, 130 entreprises ont publié des informations Value-Up, dont 95% étaient à fort dividende, mettant en avant les rendements aux actionnaires.",
-        "body": "Le mois dernier, 130 entreprises ont participé aux divulgations Value-Up. Parmi elles, 95% étaient des sociétés à fort dividende, ce qui indique que ces publications se sont concentrées sur des entreprises ayant un profil de dividende élevé. Ce chiffre éclaire la nature des sociétés participantes et attire l’attention sur le lien entre rendement pour les actionnaires et politique de dividende. Les informations originales se limitent au nombre d’entreprises et à la part des sociétés à fort dividende. Source: hankyung.com."
-      },
-      "ar": {
-        "title": "إفصاحات Value-Up بلغت 130 شركة الشهر الماضي و95% منها عالية التوزيعات",
-        "excerpt": "في الشهر الماضي، قدمت 130 شركة إفصاحات Value-Up، وكان 95% منها شركات ذات توزيعات أرباح مرتفعة، ما أبرز اتجاهات عوائد المساهمين.",
-        "body": "في الشهر الماضي، شاركت 130 شركة في إفصاحات Value-Up. ومن بين هذه الشركات، كانت 95% مصنفة كشركات ذات توزيعات أرباح مرتفعة، ما يشير إلى أن الإفصاحات تركزت بين الشركات ذات الطابع القوي في سياسة التوزيعات. يعرض هذا الرقم ملامح الشركات المشاركة ويبرز أهمية متابعة عوائد المساهمين وسياسات الأرباح الموزعة معا. تقتصر المعلومات الأصلية على عدد الشركات ونسبة الشركات عالية التوزيعات. المصدر: hankyung.com."
-      },
-      "hi": {
-        "title": "Value-Up खुलासे 130 कंपनियों तक पहुंचे, 95% उच्च लाभांश वाली",
-        "excerpt": "पिछले महीने 130 कंपनियों ने Value-Up खुलासा किया, जिनमें 95% उच्च लाभांश वाली कंपनियां थीं, जिससे शेयरधारक रिटर्न पर ध्यान बढ़ा।",
-        "body": "पिछले महीने 130 कंपनियों ने Value-Up खुलासों में भाग लिया। इनमें से 95% कंपनियां उच्च लाभांश वाली थीं, जिससे पता चलता है कि ये खुलासे मुख्य रूप से मजबूत लाभांश प्रोफाइल वाली कंपनियों में केंद्रित रहे। यह आंकड़ा भाग लेने वाली कंपनियों की प्रकृति दिखाता है और शेयरधारक रिटर्न तथा लाभांश नीति को साथ देखने की जरूरत को रेखांकित करता है। मूल जानकारी केवल कंपनियों की संख्या और उच्च लाभांश वाली कंपनियों के अनुपात तक सीमित है। स्रोत: hankyung.com."
-      },
-      "id": {
-        "title": "Pengungkapan Value-Up Capai 130 Emiten, 95% Perusahaan Dividen Tinggi",
-        "excerpt": "Bulan lalu, 130 perusahaan membuat pengungkapan Value-Up, dan 95% di antaranya merupakan perusahaan dividen tinggi, menyoroti tren imbal hasil pemegang saham.",
-        "body": "Bulan lalu, 130 perusahaan berpartisipasi dalam pengungkapan Value-Up. Dari jumlah tersebut, 95% merupakan perusahaan dengan dividen tinggi, menunjukkan bahwa pengungkapan ini terkonsentrasi pada perusahaan dengan profil dividen yang kuat. Angka ini menggambarkan karakter perusahaan peserta dan menyoroti kaitan antara imbal hasil pemegang saham serta kebijakan dividen. Informasi asli terbatas pada jumlah perusahaan dan porsi perusahaan dividen tinggi. Sumber: hankyung.com."
-      }
-    }
-  },
-  {
-    "id": "26642925ca2e",
-    "slug": "쉐이크쉑-1분기-실적-부진-여파로-주가-28-폭락-516479",
-    "channelId": "ETF",
-    "category": "etf",
-    "publishedAt": "2026-05-08T18:43:45.837Z",
-    "updatedAt": "2026-05-08T18:43:45.837Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/202605084122i",
-    "canonicalUrl": "https://www.hankyung.com/article/202605084122i",
-    "titleFingerprint": "2d458f96363aab0bba2a31b429f76be8936f43fd",
-    "dedupKeys": [
-      "26642925ca2ebcd5564f7e023fedd6a80144eca1",
-      "2d458f96363aab0bba2a31b429f76be8936f43fd",
-      "8dadd215d50e80c6b3e1ad4d0e89aa1fe892310a"
-    ],
-    "imageUrl": "/images/articles/26642925ca2e.jpg",
-    "i18n": {
-      "ko": {
-        "title": "쉐이크쉑 주가 28% 폭락, 1분기 실적 부진 충격 확산",
-        "excerpt": "쉐이크쉑 주가가 1분기 실적 부진 여파로 28% 급락했다. 시장은 실적 악화가 주가에 미친 영향을 주목하고 있으며 출처는 hankyung.com이다.",
-        "body": "쉐이크쉑 주가가 1분기 실적 부진 여파로 28% 폭락했다. 이번 하락은 회사의 분기 실적이 시장 기대에 미치지 못했다는 평가가 주가에 즉각 반영된 결과로 전해졌다. 원문에서 제시된 핵심 수치는 주가 하락률 28%이며, 실적 부진의 구체적 항목이나 추가 재무 수치는 공개되지 않았다. 투자자들은 1분기 성과가 향후 주가 흐름과 시장 신뢰에 어떤 영향을 줄지 주시할 것으로 보인다. 출처: hankyung.com."
-      },
-      "en": {
-        "title": "Shake Shack Shares Plunge 28% After Weak First-Quarter Results",
-        "excerpt": "Shake Shack shares fell 28% after weak first-quarter results, with investors focusing on how the earnings disappointment affected the stock, according to hankyung.com.",
-        "body": "Shake Shack shares plunged 28% after weak first-quarter results. The decline was reported as an immediate market reaction to the company’s quarterly performance falling short of expectations. The key figure provided in the original report is the 28% share-price drop, while no specific earnings items or additional financial figures were disclosed. Investors are likely to watch how the first-quarter performance affects the stock’s direction and market confidence going forward. Source: hankyung.com."
-      },
-      "ja": {
-        "title": "シェイクシャック株が28％急落、第1四半期業績不振が重荷",
-        "excerpt": "シェイクシャック株は第1四半期の業績不振を受けて28％急落した。市場は業績悪化が株価に与えた影響に注目している。出典はhankyung.com。",
-        "body": "シェイクシャック株が第1四半期の業績不振を受けて28％急落した。今回の下落は、同社の四半期業績が市場の期待に届かなかったとの評価が株価に即時反映された結果と伝えられている。原文で示された主要数値は株価下落率28％で、業績不振の具体的な項目や追加の財務数値は公開されていない。投資家は第1四半期の成果が今後の株価動向と市場の信頼にどう影響するかを注視するとみられる。出典: hankyung.com."
-      },
-      "zh": {
-        "title": "Shake Shack股价暴跌28%，一季度业绩疲软冲击市场",
-        "excerpt": "Shake Shack股价因一季度业绩疲软暴跌28%。市场关注业绩不佳对股价造成的影响，消息来源为hankyung.com。",
-        "body": "Shake Shack股价因一季度业绩疲软而暴跌28%。据报道，此次下跌反映出市场对该公司季度业绩未达预期的即时反应。原文提供的核心数据是股价下跌28%，但未披露业绩疲软的具体项目或其他财务数字。投资者预计将继续关注一季度表现会如何影响后续股价走势及市场信心。来源: hankyung.com."
-      },
-      "es": {
-        "title": "Shake Shack cae 28% en bolsa tras débiles resultados del primer trimestre",
-        "excerpt": "Las acciones de Shake Shack se desplomaron 28% por la debilidad de sus resultados del primer trimestre; el mercado evalúa el impacto en la cotización, según hankyung.com.",
-        "body": "Las acciones de Shake Shack se desplomaron 28% tras unos débiles resultados del primer trimestre. La caída fue presentada como una reacción inmediata del mercado a una evaluación de que el desempeño trimestral de la compañía no cumplió las expectativas. El dato central indicado en el texto original es el descenso de 28% en la acción; no se divulgaron partidas concretas de resultados ni cifras financieras adicionales. Los inversores observarán cómo el desempeño del primer trimestre influye en la trayectoria de la acción y en la confianza del mercado. Fuente: hankyung.com."
-      },
-      "pt": {
-        "title": "Shake Shack despenca 28% após resultados fracos do primeiro trimestre",
-        "excerpt": "As ações da Shake Shack caíram 28% após resultados fracos no primeiro trimestre, com o mercado avaliando o impacto do desempenho sobre o papel, segundo hankyung.com.",
-        "body": "As ações da Shake Shack despencaram 28% após resultados fracos no primeiro trimestre. A queda foi relatada como uma reação imediata do mercado à avaliação de que o desempenho trimestral da companhia ficou abaixo das expectativas. O principal número informado no texto original é a baixa de 28% nas ações, sem divulgação de itens específicos do resultado ou de dados financeiros adicionais. Investidores devem acompanhar como o desempenho do primeiro trimestre afetará o rumo da ação e a confiança do mercado. Fonte: hankyung.com."
-      },
-      "de": {
-        "title": "Shake-Shack-Aktie stürzt 28% ab nach schwachem ersten Quartal",
-        "excerpt": "Die Shake-Shack-Aktie brach nach schwachen Ergebnissen im ersten Quartal um 28% ein. Der Markt bewertet die Folgen der enttäuschenden Zahlen, Quelle: hankyung.com.",
-        "body": "Die Aktie von Shake Shack ist nach schwachen Ergebnissen im ersten Quartal um 28% eingebrochen. Der Kursrückgang wurde als unmittelbare Marktreaktion darauf beschrieben, dass die Quartalsleistung des Unternehmens die Erwartungen nicht erfüllte. Die zentrale Kennzahl im Ausgangstext ist der Kursverlust von 28%; konkrete Ergebnispunkte oder weitere Finanzzahlen wurden nicht veröffentlicht. Anleger dürften beobachten, wie sich die Leistung des ersten Quartals auf den weiteren Aktienkurs und das Marktvertrauen auswirkt. Quelle: hankyung.com."
-      },
-      "fr": {
-        "title": "Shake Shack chute de 28% en Bourse après un premier trimestre faible",
-        "excerpt": "L’action Shake Shack a reculé de 28% après des résultats faibles au premier trimestre, le marché évaluant l’impact de cette contre-performance, selon hankyung.com.",
-        "body": "L’action Shake Shack a chuté de 28% après des résultats faibles au premier trimestre. Ce repli a été présenté comme une réaction immédiate du marché à une performance trimestrielle jugée inférieure aux attentes. Le principal chiffre fourni dans le texte original est la baisse de 28% du cours; aucun poste précis de résultats ni autre donnée financière n’a été communiqué. Les investisseurs devraient suivre l’effet de cette performance du premier trimestre sur l’évolution du titre et la confiance du marché. Source: hankyung.com."
-      },
-      "ar": {
-        "title": "سهم شيك شاك يهبط 28% بعد ضعف نتائج الربع الأول",
-        "excerpt": "هبط سهم شيك شاك 28% بفعل ضعف نتائج الربع الأول، فيما يركز السوق على أثر خيبة الأداء في سعر السهم، وفق ما نقلته hankyung.com.",
-        "body": "هبط سهم شيك شاك 28% بعد ضعف نتائج الربع الأول. وجرى عرض هذا التراجع على أنه رد فعل فوري من السوق تجاه تقييم بأن أداء الشركة الفصلي جاء دون التوقعات. الرقم الأساسي الوارد في النص الأصلي هو هبوط السهم بنسبة 28%، ولم تُذكر بنود محددة من النتائج أو أرقام مالية إضافية. ومن المتوقع أن يراقب المستثمرون أثر أداء الربع الأول في اتجاه السهم وثقة السوق خلال الفترة المقبلة. المصدر: hankyung.com."
-      },
-      "hi": {
-        "title": "पहली तिमाही के कमजोर नतीजों से Shake Shack शेयर 28% लुढ़का",
-        "excerpt": "पहली तिमाही के कमजोर नतीजों के बाद Shake Shack का शेयर 28% गिरा। बाजार इस बात पर नजर रख रहा है कि कमजोर प्रदर्शन ने शेयर भाव को कैसे प्रभावित किया, स्रोत hankyung.com है।",
-        "body": "पहली तिमाही के कमजोर नतीजों के बाद Shake Shack का शेयर 28% लुढ़क गया। यह गिरावट कंपनी के तिमाही प्रदर्शन के उम्मीदों से कम रहने के आकलन पर बाजार की तात्कालिक प्रतिक्रिया के रूप में सामने आई। मूल रिपोर्ट में दिया गया मुख्य आंकड़ा शेयर में 28% की गिरावट है; नतीजों की विशिष्ट मदों या अतिरिक्त वित्तीय आंकड़ों का खुलासा नहीं किया गया। निवेशक आगे देखेंगे कि पहली तिमाही का प्रदर्शन शेयर की दिशा और बाजार भरोसे को कैसे प्रभावित करता है। स्रोत: hankyung.com."
-      },
-      "id": {
-        "title": "Saham Shake Shack Anjlok 28% Usai Kinerja Kuartal I Lemah",
-        "excerpt": "Saham Shake Shack turun 28% setelah kinerja kuartal I melemah. Pasar menyoroti dampak hasil tersebut terhadap harga saham, menurut hankyung.com.",
-        "body": "Saham Shake Shack anjlok 28% setelah kinerja kuartal I melemah. Penurunan ini dilaporkan sebagai reaksi langsung pasar terhadap penilaian bahwa kinerja kuartalan perusahaan tidak memenuhi ekspektasi. Angka utama yang disebut dalam teks asli adalah penurunan harga saham sebesar 28%, sementara rincian pos kinerja atau angka keuangan tambahan tidak diungkapkan. Investor diperkirakan akan mencermati bagaimana kinerja kuartal I memengaruhi arah saham dan kepercayaan pasar ke depan. Sumber: hankyung.com."
       }
     }
   }
