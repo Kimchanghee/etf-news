@@ -1,5 +1,230 @@
 [
   {
+    "id": "63a6f0e120fb",
+    "slug": "식약처-동물용-의약품-기준-초과-베트남산-냉동새우살-회수-386522",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-05-09T14:07:32.443Z",
+    "updatedAt": "2026-05-09T14:07:32.443Z",
+    "sourceName": "yna.co.kr",
+    "sourceUrl": "https://www.yna.co.kr/view/AKR20260508115900017",
+    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260508115900017",
+    "titleFingerprint": "63862a845ab38d635d2c651e6fcce237fb47d307",
+    "dedupKeys": [
+      "63a6f0e120fb72dbd3113d54c73d308bc6c89f36",
+      "63862a845ab38d635d2c651e6fcce237fb47d307",
+      "c2815f868bca3fb9e28c291070c7e8fa8ab71335"
+    ],
+    "imageUrl": "/images/articles/63a6f0e120fb.jpg",
+    "i18n": {
+      "ko": {
+        "title": "베트남산 냉동흰다리새우살 회수, 식약처 ‘동물용 의약품 기준 초과’ 확인",
+        "excerpt": "식품의약품안전처는 부산 사하구 해우씨푸드가 수입·판매한 베트남산 냉동흰다리새우살 일부에서 동물용 의약품 기준 초과가 확인돼 판매 중단과 회수에 들어갔다.",
+        "body": "식품의약품안전처는 부산 사하구 소재 해우씨푸드가 수입·판매한 ‘냉동흰다리새우살’ 일부 제품에 대해 판매를 중단하고 회수 조치한다고 밝혔다. 해당 제품은 베트남산 냉동 새우살로, 동물용 의약품 기준을 초과한 것으로 확인됐다. 식약처는 기준을 넘는 성분이 확인된 수입 수산물에 대해 유통 차단과 회수를 진행해 소비자 노출을 줄이는 절차에 들어갔다. 이번 조치는 수입·판매 단계에서 확인된 부적합 제품을 대상으로 하며, 관련 제품의 판매 중단과 회수가 핵심이다. 소비자는 해당 제품 여부를 확인하고 회수 대상일 경우 섭취하지 않는 것이 필요하다. 출처: yna.co.kr"
+      },
+      "en": {
+        "title": "Vietnamese Frozen Whiteleg Shrimp Recalled After Veterinary Drug Limit Exceeded",
+        "excerpt": "South Korea’s Ministry of Food and Drug Safety halted sales and began recalling some Vietnamese frozen whiteleg shrimp meat imported and sold by Haeu Seafood in Busan after veterinary drug limits were exceeded.",
+        "body": "South Korea’s Ministry of Food and Drug Safety said it has suspended sales and ordered a recall of some “frozen whiteleg shrimp meat” imported and sold by Haeu Seafood, located in Saha District, Busan. The product is frozen shrimp meat from Vietnam and was found to exceed standards for veterinary drugs. The ministry is moving to block distribution and recover the imported seafood item after the noncompliance was confirmed. The action targets the affected product identified at the import and sales stage, with the key measures being a sales halt and recall. Consumers should check whether they have the recalled product and avoid eating it if it is subject to the recall. Source: yna.co.kr"
+      },
+      "ja": {
+        "title": "ベトナム産冷凍バナメイエビむき身を回収、動物用医薬品基準超過で",
+        "excerpt": "韓国食品医薬品安全処は、釜山沙下区のヘウシーフードが輸入・販売したベトナム産冷凍バナメイエビむき身の一部で動物用医薬品基準の超過が確認され、販売中止と回収に入った。",
+        "body": "韓国食品医薬品安全処は、釜山・沙下区にあるヘウシーフードが輸入・販売した「冷凍バナメイエビむき身」の一部製品について、販売を中止し回収措置を取ると明らかにした。対象製品はベトナム産の冷凍エビむき身で、動物用医薬品の基準を超過していたことが確認された。食品医薬品安全処は、基準を超えた成分が確認された輸入水産物について流通遮断と回収を進め、消費者への露出を減らす手続きに入った。今回の措置は輸入・販売段階で確認された不適合製品が対象で、販売中止と回収が中心となる。消費者は該当製品かどうかを確認し、回収対象であれば摂取を控える必要がある。出典: yna.co.kr"
+      },
+      "zh": {
+        "title": "越南产冷冻白虾仁被召回，韩国食药处确认兽药标准超标",
+        "excerpt": "韩国食品医药品安全处表示，釜山沙下区Haeu Seafood进口并销售的部分越南产冷冻白虾仁因确认超过动物用医药品标准，已停止销售并启动召回。",
+        "body": "韩国食品医药品安全处表示，将对位于釜山沙下区的Haeu Seafood进口并销售的部分“冷冻白虾仁”产品停止销售并采取召回措施。该产品为越南产冷冻虾仁，经确认超过动物用医药品相关标准。食药处正对确认含有超标成分的进口水产品进行流通阻断和召回，以减少消费者接触。此次措施针对在进口和销售阶段确认的不合格产品，核心内容是停止销售和召回。消费者应确认所持产品是否属于召回对象，如属于相关产品，应避免食用。来源: yna.co.kr"
+      },
+      "es": {
+        "title": "Retiran camarón blanco congelado de Vietnam por superar límites de fármacos veterinarios",
+        "excerpt": "El Ministerio de Seguridad de Alimentos y Medicamentos de Corea del Sur suspendió la venta y retiró parte del camarón blanco congelado de Vietnam importado y vendido por Haeu Seafood, en Busan, por superar límites de fármacos veterinarios.",
+        "body": "El Ministerio de Seguridad de Alimentos y Medicamentos de Corea del Sur informó que suspendió la venta y ordenó el retiro de algunos productos de “carne de camarón blanco congelado” importados y vendidos por Haeu Seafood, ubicada en el distrito de Saha, Busan. El producto es camarón congelado procedente de Vietnam y se confirmó que superaba los estándares para medicamentos veterinarios. La autoridad inició medidas para bloquear su distribución y recuperar el producto pesquero importado no conforme. La acción se dirige al producto afectado identificado en las etapas de importación y venta, con la suspensión de ventas y el retiro como medidas principales. Los consumidores deben verificar si tienen el producto retirado y no consumirlo si está incluido. Fuente: yna.co.kr"
+      },
+      "pt": {
+        "title": "Camarão branco congelado do Vietnã é recolhido por exceder limite de medicamento veterinário",
+        "excerpt": "O Ministério de Segurança de Alimentos e Medicamentos da Coreia do Sul suspendeu a venda e iniciou o recolhimento de parte do camarão branco congelado do Vietnã importado e vendido pela Haeu Seafood, em Busan, por exceder padrões de medicamentos veterinários.",
+        "body": "O Ministério de Segurança de Alimentos e Medicamentos da Coreia do Sul informou que suspendeu a venda e determinou o recolhimento de alguns produtos de “carne de camarão branco congelado” importados e vendidos pela Haeu Seafood, localizada no distrito de Saha, em Busan. O produto é camarão congelado do Vietnã e foi confirmado que excedeu os padrões para medicamentos veterinários. A autoridade iniciou procedimentos para bloquear a distribuição e recolher o pescado importado considerado inadequado. A medida mira o produto afetado identificado nas etapas de importação e venda, tendo como pontos centrais a suspensão das vendas e o recolhimento. Consumidores devem verificar se possuem o item recolhido e evitar consumi-lo caso esteja incluído. Fonte: yna.co.kr"
+      },
+      "de": {
+        "title": "Tiefgekühlte Whiteleg-Garnelen aus Vietnam zurückgerufen: Veterinärarznei-Grenzwert überschritten",
+        "excerpt": "Südkoreas Ministerium für Lebensmittel- und Arzneimittelsicherheit stoppte den Verkauf und rief Teile tiefgekühlter Whiteleg-Garnelen aus Vietnam zurück, die Haeu Seafood in Busan importiert und verkauft hatte, nachdem Grenzwerte für Veterinärarzneien überschritten wurden.",
+        "body": "Südkoreas Ministerium für Lebensmittel- und Arzneimittelsicherheit teilte mit, dass der Verkauf einiger Produkte mit „tiefgekühltem Whiteleg-Garnelenfleisch“ gestoppt und ein Rückruf angeordnet wurde. Importeur und Verkäufer ist Haeu Seafood im Bezirk Saha der Stadt Busan. Bei dem Produkt handelt es sich um tiefgekühltes Garnelenfleisch aus Vietnam, bei dem eine Überschreitung der Standards für Veterinärarzneimittel festgestellt wurde. Die Behörde leitet Maßnahmen ein, um die Verbreitung des betroffenen importierten Fischereiprodukts zu stoppen und es zurückzuholen. Die Maßnahme betrifft das bei Import und Verkauf identifizierte nicht konforme Produkt; im Mittelpunkt stehen Verkaufsstopp und Rückruf. Verbraucher sollten prüfen, ob sie das betroffene Produkt besitzen, und es im Rückruffall nicht verzehren. Quelle: yna.co.kr"
+      },
+      "fr": {
+        "title": "Crevettes blanches congelées du Vietnam rappelées pour dépassement de normes vétérinaires",
+        "excerpt": "Le ministère sud-coréen de la Sécurité des aliments et des médicaments a suspendu la vente et lancé le rappel d’une partie des crevettes blanches congelées du Vietnam importées et vendues par Haeu Seafood, à Busan, après un dépassement des normes de médicaments vétérinaires.",
+        "body": "Le ministère sud-coréen de la Sécurité des aliments et des médicaments a annoncé la suspension de la vente et le rappel de certains produits de “chair de crevette blanche congelée” importés et vendus par Haeu Seafood, située dans l’arrondissement de Saha à Busan. Le produit est de la crevette congelée en provenance du Vietnam, pour laquelle un dépassement des normes relatives aux médicaments vétérinaires a été confirmé. L’autorité engage des mesures pour bloquer la distribution et récupérer le produit de la mer importé jugé non conforme. Cette action vise le produit concerné identifié aux étapes d’importation et de vente, avec comme mesures principales l’arrêt des ventes et le rappel. Les consommateurs doivent vérifier s’ils détiennent le produit rappelé et éviter de le consommer s’il est concerné. Source: yna.co.kr"
+      },
+      "ar": {
+        "title": "استدعاء روبيان أبيض مجمد من فيتنام بعد تجاوز معايير الأدوية البيطرية",
+        "excerpt": "أوقفت وزارة سلامة الغذاء والدواء في كوريا الجنوبية بيع جزء من لحم الروبيان الأبيض المجمد المستورد من فيتنام والمباع عبر Haeu Seafood في بوسان، وبدأت استدعاءه بعد تأكيد تجاوز معايير الأدوية البيطرية.",
+        "body": "أعلنت وزارة سلامة الغذاء والدواء في كوريا الجنوبية أنها أوقفت بيع بعض منتجات “لحم الروبيان الأبيض المجمد” وبدأت إجراءات استدعائها. وكانت شركة Haeu Seafood، الواقعة في حي ساها بمدينة بوسان، قد استوردت هذه المنتجات وباعتها. المنتج عبارة عن لحم روبيان مجمد من فيتنام، وقد تأكد أنه تجاوز المعايير الخاصة بالأدوية البيطرية. وتعمل الوزارة على منع توزيع المنتج البحري المستورد غير المطابق واسترداده للحد من وصوله إلى المستهلكين. وتستهدف الإجراءات المنتج الذي تم تحديد عدم مطابقته في مرحلتي الاستيراد والبيع، وتتمثل الخطوات الرئيسية في وقف البيع والاستدعاء. على المستهلكين التحقق مما إذا كان المنتج لديهم مشمولا بالاستدعاء وتجنب تناوله في هذه الحالة. المصدر: yna.co.kr"
+      },
+      "hi": {
+        "title": "वियतनाम के फ्रोजन व्हाइटलेग झींगे की वापसी, पशु दवा मानक से अधिक मात्रा मिली",
+        "excerpt": "दक्षिण कोरिया के खाद्य एवं औषधि सुरक्षा मंत्रालय ने बुसान के साहा-गु स्थित Haeu Seafood द्वारा आयातित और बेचे गए वियतनाम के कुछ फ्रोजन व्हाइटलेग झींगा मांस की बिक्री रोककर वापसी शुरू की, क्योंकि पशु दवा मानक से अधिक मात्रा पाई गई।",
+        "body": "दक्षिण कोरिया के खाद्य एवं औषधि सुरक्षा मंत्रालय ने कहा कि बुसान के साहा-गु में स्थित Haeu Seafood द्वारा आयातित और बेचे गए “फ्रोजन व्हाइटलेग झींगा मांस” के कुछ उत्पादों की बिक्री रोकी जा रही है और उन्हें वापस मंगाया जा रहा है। यह उत्पाद वियतनाम से आया फ्रोजन झींगा मांस है, जिसमें पशु चिकित्सा दवाओं से जुड़े मानकों से अधिक मात्रा की पुष्टि हुई। मंत्रालय ऐसे आयातित समुद्री उत्पाद के वितरण को रोकने और उसे वापस लेने की प्रक्रिया चला रहा है, ताकि उपभोक्ताओं तक उसकी पहुंच कम की जा सके। यह कार्रवाई आयात और बिक्री चरण में पहचाने गए अनुपयुक्त उत्पाद पर केंद्रित है, जिसमें बिक्री रोकना और रिकॉल मुख्य कदम हैं। उपभोक्ताओं को जांचना चाहिए कि उनके पास संबंधित उत्पाद है या नहीं, और रिकॉल में शामिल होने पर उसे नहीं खाना चाहिए। स्रोत: yna.co.kr"
+      },
+      "id": {
+        "title": "Udang Putih Beku Vietnam Ditarik, Standar Obat Hewan Dinyatakan Terlampaui",
+        "excerpt": "Kementerian Keamanan Pangan dan Obat Korea Selatan menghentikan penjualan serta menarik sebagian daging udang putih beku asal Vietnam yang diimpor dan dijual Haeu Seafood di Busan setelah ditemukan melampaui standar obat hewan.",
+        "body": "Kementerian Keamanan Pangan dan Obat Korea Selatan menyatakan telah menghentikan penjualan dan memerintahkan penarikan sebagian produk “daging udang putih beku” yang diimpor dan dijual oleh Haeu Seafood, yang berlokasi di Distrik Saha, Busan. Produk tersebut merupakan daging udang beku asal Vietnam dan dikonfirmasi melampaui standar untuk obat hewan. Otoritas mulai memblokir distribusi dan menarik produk perikanan impor yang tidak memenuhi ketentuan tersebut untuk mengurangi paparan kepada konsumen. Langkah ini menyasar produk bermasalah yang teridentifikasi pada tahap impor dan penjualan, dengan inti tindakan berupa penghentian penjualan dan penarikan. Konsumen perlu memeriksa apakah produk yang dimiliki termasuk sasaran penarikan dan tidak mengonsumsinya bila termasuk. Sumber: yna.co.kr"
+      }
+    }
+  },
+  {
+    "id": "8314ff133ea0",
+    "slug": "새마을금고-1분기-정책자금-934억-공급서민금융-지원-확대-660451",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-05-09T14:06:21.754Z",
+    "updatedAt": "2026-05-09T14:06:21.754Z",
+    "sourceName": "yna.co.kr",
+    "sourceUrl": "https://www.yna.co.kr/view/AKR20260508115800002",
+    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260508115800002",
+    "titleFingerprint": "a0e8d1559de3802017cfd36001477fbb7cc30e65",
+    "dedupKeys": [
+      "8314ff133ea0b00c0adc8d9af0d6e9df3941e4bb",
+      "a0e8d1559de3802017cfd36001477fbb7cc30e65",
+      "d159d2e02718b7bd1f8042b60548628e88534a0d"
+    ],
+    "imageUrl": "/images/articles/8314ff133ea0.jpg",
+    "i18n": {
+      "ko": {
+        "title": "새마을금고, 1분기 정책자금 934억 공급…서민금융 지원 확대",
+        "excerpt": "새마을금고중앙회는 올해 1분기 금융취약계층 지원을 위해 934억원 규모의 정책자금대출을 공급했다고 8일 밝혔다.",
+        "body": "새마을금고중앙회가 올해 1분기 금융취약계층을 지원하기 위해 934억원 규모의 정책자금대출을 공급했다고 8일 밝혔다. 이번 공급은 서민금융 지원을 확대하기 위한 취지로 이뤄졌다. 정책자금대출은 금융 접근성이 낮은 취약계층을 대상으로 한 지원 수단으로, 새마을금고는 1분기 중 해당 자금을 집행했다. 이번 수치는 1분기 기준 공급 규모를 보여주는 지표다. 새마을금고의 정책자금 공급은 금융취약계층의 자금 부담 완화와 서민금융 역할 강화에 초점이 맞춰져 있다. 출처: yna.co.kr"
+      },
+      "en": {
+        "title": "Saemaul Geumgo Supplies 93.4 Billion Won in Policy Loans in Q1",
+        "excerpt": "Saemaul Geumgo Federation said on May 8 that it supplied 93.4 billion won in policy loans in the first quarter to support financially vulnerable groups.",
+        "body": "Saemaul Geumgo Federation said on May 8 that it supplied 93.4 billion won in policy loan funding in the first quarter of this year to support financially vulnerable groups. The move was aimed at expanding support for inclusive finance. Policy loans serve as a support tool for people with limited access to financial services, and Saemaul Geumgo executed the funds during the first quarter. The figure indicates the amount supplied during the quarter. The policy funding is focused on easing financing burdens for vulnerable groups and strengthening Saemaul Geumgo’s role in financial support for ordinary citizens. Source: yna.co.kr"
+      },
+      "ja": {
+        "title": "セマウル金庫、1四半期に政策資金934億ウォン供給",
+        "excerpt": "セマウル金庫中央会は8日、金融脆弱層を支援するため、今年1四半期に934億ウォン規模の政策資金貸付を供給したと明らかにした。",
+        "body": "セマウル金庫中央会は8日、今年1四半期に金融脆弱層を支援するため、934億ウォン規模の政策資金貸付を供給したと明らかにした。今回の供給は庶民金融支援を拡大する趣旨で行われた。政策資金貸付は金融へのアクセスが限られる脆弱層を対象にした支援手段で、セマウル金庫は1四半期中に同資金を執行した。今回の数値は1四半期基準の供給規模を示すものだ。政策資金の供給は、金融脆弱層の資金負担の緩和と庶民金融の役割強化に焦点を合わせている。出典: yna.co.kr"
+      },
+      "zh": {
+        "title": "新村金库一季度投放934亿韩元政策资金 扩大普惠金融支持",
+        "excerpt": "新村金库中央会8日表示，今年一季度为支持金融弱势群体，已投放934亿韩元规模的政策资金贷款。",
+        "body": "新村金库中央会8日表示，今年第一季度为支持金融弱势群体，投放了934亿韩元规模的政策资金贷款。此次投放旨在扩大面向普通民众的金融支持。政策资金贷款是面向金融可及性较低的弱势群体提供的支持工具，新村金库在一季度执行了相关资金。该数字显示了一季度的资金投放规模。新村金库的政策资金供给重点在于缓解金融弱势群体的资金负担，并强化其在普惠金融支持中的作用。来源: yna.co.kr"
+      },
+      "es": {
+        "title": "Saemaul Geumgo aporta 93.400 millones de wones en préstamos de política en el primer trimestre",
+        "excerpt": "La Federación Saemaul Geumgo informó el día 8 que suministró 93.400 millones de wones en préstamos de política en el primer trimestre para apoyar a grupos financieramente vulnerables.",
+        "body": "La Federación Saemaul Geumgo informó el día 8 que en el primer trimestre de este año suministró 93.400 millones de wones en préstamos de política para apoyar a grupos financieramente vulnerables. La medida se realizó con el objetivo de ampliar el apoyo financiero a la población de menores recursos. Estos préstamos funcionan como una herramienta de apoyo para personas con menor acceso a servicios financieros, y Saemaul Geumgo ejecutó esos fondos durante el trimestre. La cifra muestra el volumen suministrado en el periodo. El apoyo se centra en aliviar la carga financiera de los grupos vulnerables y reforzar el papel de las finanzas inclusivas. Fuente: yna.co.kr"
+      },
+      "pt": {
+        "title": "Saemaul Geumgo fornece 93,4 bilhões de won em crédito de política no 1º trimestre",
+        "excerpt": "A Federação Saemaul Geumgo informou no dia 8 que forneceu 93,4 bilhões de won em empréstimos de política no primeiro trimestre para apoiar grupos financeiramente vulneráveis.",
+        "body": "A Federação Saemaul Geumgo informou no dia 8 que forneceu, no primeiro trimestre deste ano, 93,4 bilhões de won em empréstimos de política para apoiar grupos financeiramente vulneráveis. A oferta teve como objetivo ampliar o apoio financeiro à população de menor renda. Esses empréstimos são um instrumento de apoio voltado a pessoas com menor acesso a serviços financeiros, e a Saemaul Geumgo executou os recursos durante o trimestre. O número mostra o volume fornecido no período. A iniciativa se concentra em aliviar a pressão financeira sobre grupos vulneráveis e fortalecer o papel das finanças populares. Fonte: yna.co.kr"
+      },
+      "de": {
+        "title": "Saemaul Geumgo vergibt im ersten Quartal Politikdarlehen über 93,4 Mrd. Won",
+        "excerpt": "Die Saemaul-Geumgo-Föderation teilte am 8. mit, dass sie im ersten Quartal Politikdarlehen über 93,4 Milliarden Won zur Unterstützung finanziell gefährdeter Gruppen bereitgestellt hat.",
+        "body": "Die Saemaul-Geumgo-Föderation teilte am 8. mit, dass sie im ersten Quartal dieses Jahres Politikdarlehen im Umfang von 93,4 Milliarden Won bereitgestellt hat, um finanziell gefährdete Gruppen zu unterstützen. Die Bereitstellung erfolgte mit dem Ziel, die Unterstützung im Bereich der Bürgerfinanzierung auszuweiten. Politikdarlehen dienen als Hilfsinstrument für Menschen mit eingeschränktem Zugang zu Finanzdienstleistungen; Saemaul Geumgo setzte die Mittel im ersten Quartal ein. Die Zahl zeigt das Bereitstellungsvolumen des Quartals. Im Mittelpunkt stehen die Entlastung finanziell schwacher Gruppen und die Stärkung der Rolle bei der Finanzunterstützung für Bürger. Quelle: yna.co.kr"
+      },
+      "fr": {
+        "title": "Saemaul Geumgo fournit 93,4 milliards de wons de prêts publics au 1er trimestre",
+        "excerpt": "La Fédération Saemaul Geumgo a déclaré le 8 avoir fourni 93,4 milliards de wons de prêts publics au premier trimestre afin de soutenir les groupes financièrement vulnérables.",
+        "body": "La Fédération Saemaul Geumgo a déclaré le 8 qu’elle avait fourni, au premier trimestre de cette année, 93,4 milliards de wons de prêts publics afin de soutenir les groupes financièrement vulnérables. Cette opération visait à élargir le soutien financier aux ménages modestes. Les prêts publics constituent un outil de soutien destiné aux personnes ayant un accès limité aux services financiers, et Saemaul Geumgo a exécuté ces fonds au cours du trimestre. Ce chiffre montre le volume fourni au premier trimestre. L’approvisionnement en fonds vise à alléger la charge financière des groupes vulnérables et à renforcer le rôle de la finance inclusive. Source: yna.co.kr"
+      },
+      "ar": {
+        "title": "سيماول غومغو تقدم 93.4 مليار وون من قروض السياسات في الربع الأول",
+        "excerpt": "أعلن اتحاد سيماول غومغو في 8 مايو أنه قدم 93.4 مليار وون من قروض السياسات في الربع الأول لدعم الفئات الضعيفة ماليا.",
+        "body": "أعلن اتحاد سيماول غومغو في 8 مايو أنه قدم في الربع الأول من هذا العام قروض سياسات بقيمة 93.4 مليار وون لدعم الفئات الضعيفة ماليا. وجاء هذا التمويل بهدف توسيع دعم التمويل الشعبي. وتعد قروض السياسات أداة دعم موجهة إلى الفئات التي تعاني من ضعف الوصول إلى الخدمات المالية، وقد نفذ سيماول غومغو هذه الأموال خلال الربع الأول. ويظهر الرقم حجم التمويل المقدم خلال الفترة. ويركز توفير هذه الأموال على تخفيف أعباء التمويل عن الفئات الضعيفة وتعزيز دور التمويل الموجه للمواطنين. المصدر: yna.co.kr"
+      },
+      "hi": {
+        "title": "सेमाउल ग्यूमगो ने पहली तिमाही में 93.4 अरब वॉन के नीति ऋण दिए",
+        "excerpt": "सेमाउल ग्यूमगो फेडरेशन ने 8 मई को कहा कि उसने वित्तीय रूप से कमजोर वर्गों की सहायता के लिए पहली तिमाही में 93.4 अरब वॉन के नीति ऋण उपलब्ध कराए।",
+        "body": "सेमाउल ग्यूमगो फेडरेशन ने 8 मई को बताया कि उसने इस वर्ष की पहली तिमाही में वित्तीय रूप से कमजोर वर्गों की सहायता के लिए 93.4 अरब वॉन के नीति ऋण उपलब्ध कराए। यह आपूर्ति आम लोगों के लिए वित्तीय सहायता का दायरा बढ़ाने के उद्देश्य से की गई। नीति ऋण उन कमजोर वर्गों के लिए सहायता का साधन हैं जिनकी वित्तीय सेवाओं तक पहुंच सीमित है, और सेमाउल ग्यूमगो ने पहली तिमाही में यह राशि जारी की। यह आंकड़ा तिमाही के दौरान उपलब्ध कराए गए धन का आकार दिखाता है। इस कदम का केंद्र कमजोर वर्गों का वित्तीय बोझ कम करना और जन-वित्त समर्थन की भूमिका मजबूत करना है। स्रोत: yna.co.kr"
+      },
+      "id": {
+        "title": "Saemaul Geumgo Salurkan Dana Kebijakan 93,4 Miliar Won pada Kuartal I",
+        "excerpt": "Federasi Saemaul Geumgo pada 8 Mei menyatakan telah menyalurkan pinjaman dana kebijakan senilai 93,4 miliar won pada kuartal pertama untuk mendukung kelompok rentan finansial.",
+        "body": "Federasi Saemaul Geumgo pada 8 Mei menyatakan bahwa pada kuartal pertama tahun ini pihaknya menyalurkan pinjaman dana kebijakan senilai 93,4 miliar won untuk mendukung kelompok rentan finansial. Penyaluran ini dilakukan untuk memperluas dukungan keuangan bagi masyarakat kecil. Pinjaman dana kebijakan merupakan sarana bantuan bagi kelompok dengan akses ke layanan keuangan yang terbatas, dan Saemaul Geumgo mengeksekusi dana tersebut selama kuartal pertama. Angka ini menunjukkan besaran penyaluran pada periode itu. Fokusnya adalah meringankan beban pendanaan kelompok rentan dan memperkuat peran pembiayaan bagi masyarakat. Sumber: yna.co.kr"
+      }
+    }
+  },
+  {
+    "id": "5546b28fd698",
+    "slug": "광주전남-사업체-49만개전국의-66-차지-205392",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-05-09T14:05:23.363Z",
+    "updatedAt": "2026-05-09T14:05:23.363Z",
+    "sourceName": "yna.co.kr",
+    "sourceUrl": "https://www.yna.co.kr/view/AKR20260508112000054",
+    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260508112000054",
+    "titleFingerprint": "f09d564799b02820ff247f337de9ad2c6f5d49f2",
+    "dedupKeys": [
+      "5546b28fd6980e9327808d96833b41dec5ce3592",
+      "f09d564799b02820ff247f337de9ad2c6f5d49f2",
+      "662f222bc7f07bf284f61a9dd180f46ae3922033"
+    ],
+    "imageUrl": "/images/articles/5546b28fd698.jpg",
+    "i18n": {
+      "ko": {
+        "title": "광주전남 사업체 49만여개, 전국 6.6% 차지한 지역 경제 규모",
+        "excerpt": "연합뉴스에 따르면 광주전남 지역 사업체 수는 49만여개로 집계됐으며, 이는 전국 사업체의 6.6%를 차지하는 수준으로 나타났다.",
+        "body": "광주전남 지역 사업체가 전국 사업체의 6.6%인 49만여개인 것으로 나타났다. 연합뉴스가 전한 내용에 따르면 광주전남의 사업체 수는 지역 경제의 기초 규모를 보여주는 지표로 확인됐다. 이번 수치는 광주와 전남을 합친 사업체 규모가 전국에서 차지하는 비중을 제시한다는 점에서 의미가 있다. 사업체 수 49만여개와 전국 대비 6.6%라는 비율은 지역 내 경제 활동 기반을 설명하는 핵심 수치다. 관련 내용은 광주발 연합뉴스 보도로 전승현 기자가 전했다. 출처: yna.co.kr"
+      },
+      "en": {
+        "title": "Gwangju-Jeonnam Businesses Reach 490,000, 6.6% of National Total",
+        "excerpt": "According to Yonhap News Agency, the number of businesses in Gwangju and Jeonnam stood at about 490,000, accounting for 6.6% of all businesses nationwide.",
+        "body": "The number of businesses in Gwangju and Jeonnam has been found to be about 490,000, representing 6.6% of all businesses nationwide. According to a report by Yonhap News Agency, the figure shows the basic scale of business activity in the combined Gwangju and Jeonnam region. The data is notable because it presents both the number of establishments and their share of the national total. The key figures are about 490,000 businesses and a nationwide share of 6.6%, which describe the region’s economic activity base. The report was filed from Gwangju by Yonhap reporter Jeon Seung-hyun. Source: yna.co.kr"
+      },
+      "ja": {
+        "title": "光州・全南の事業所49万余り、全国の6.6%占める規模に",
+        "excerpt": "聯合ニュースによると、光州・全南地域の事業所数は49万余りで、全国の事業所の6.6%を占める水準であることが分かった。",
+        "body": "光州・全南地域の事業所は、全国の事業所の6.6%に当たる49万余りであることが分かった。聯合ニュースの報道によれば、光州と全南を合わせた事業所数は、地域経済の基礎的な規模を示す指標として確認された。今回の数値は、同地域の事業所規模が全国でどの程度の割合を占めるかを示す点で意味がある。49万余りの事業所数と全国比6.6%という割合は、地域内の経済活動基盤を説明する主要な数字だ。関連内容は光州発の聯合ニュース報道で、全承賢記者が伝えた。出典: yna.co.kr"
+      },
+      "zh": {
+        "title": "光州全南企业约49万家，占韩国全国总数6.6%",
+        "excerpt": "据韩联社报道，光州全南地区企业数量约为49万家，占韩国全国企业总数的6.6%，显示出该地区企业基础规模。",
+        "body": "光州全南地区企业数量约为49万家，占韩国全国企业总数的6.6%。据韩联社报道，这一数据反映了光州和全南合计的企业基础规模。此次公布的数字具有意义，因为它同时显示了该地区企业数量以及其在全国范围内所占比重。约49万家企业和6.6%的全国占比，是说明该地区经济活动基础的核心数据。相关消息由韩联社从光州发出，记者全承贤报道。来源: yna.co.kr"
+      },
+      "es": {
+        "title": "Gwangju-Jeonnam suma 490.000 empresas, el 6,6% del total nacional",
+        "excerpt": "Según Yonhap, el número de empresas en Gwangju y Jeonnam se situó en unas 490.000, equivalente al 6,6% de todos los negocios del país.",
+        "body": "El número de empresas en Gwangju y Jeonnam se situó en unas 490.000, lo que representa el 6,6% del total nacional. Según informó la agencia Yonhap, la cifra muestra la escala básica de la actividad empresarial en la región formada por Gwangju y Jeonnam. El dato es relevante porque presenta tanto el número de establecimientos como su peso dentro del conjunto del país. Las cifras clave son unas 490.000 empresas y una participación nacional del 6,6%, indicadores que describen la base de actividad económica regional. La información fue transmitida desde Gwangju por el periodista Jeon Seung-hyun de Yonhap. Fuente: yna.co.kr"
+      },
+      "pt": {
+        "title": "Gwangju-Jeonnam tem 490 mil empresas, 6,6% do total nacional",
+        "excerpt": "Segundo a Yonhap, o número de empresas em Gwangju e Jeonnam ficou em cerca de 490 mil, equivalente a 6,6% de todos os negócios do país.",
+        "body": "O número de empresas em Gwangju e Jeonnam foi estimado em cerca de 490 mil, representando 6,6% do total nacional. Segundo a agência Yonhap, o dado mostra a escala básica da atividade empresarial na região formada por Gwangju e Jeonnam. O número é relevante por apresentar tanto a quantidade de estabelecimentos quanto sua participação no total do país. Os principais indicadores são cerca de 490 mil empresas e uma fatia nacional de 6,6%, números que descrevem a base de atividade econômica regional. A informação foi divulgada de Gwangju pelo repórter Jeon Seung-hyun, da Yonhap. Fonte: yna.co.kr"
+      },
+      "de": {
+        "title": "Gwangju-Jeonnam zählt 490.000 Betriebe, 6,6% des Landesgesamtwerts",
+        "excerpt": "Laut Yonhap News Agency gibt es in Gwangju und Jeonnam rund 490.000 Betriebe; das entspricht 6,6% aller Unternehmen im Land.",
+        "body": "In Gwangju und Jeonnam gibt es rund 490.000 Betriebe, was 6,6% aller Unternehmen im Land entspricht. Nach Angaben der Nachrichtenagentur Yonhap zeigt diese Zahl die grundlegende Größenordnung der wirtschaftlichen Aktivitäten in der gemeinsamen Region Gwangju und Jeonnam. Bemerkenswert ist der Wert, weil er sowohl die Zahl der Betriebe als auch ihren Anteil am nationalen Gesamtbestand nennt. Die zentralen Angaben sind rund 490.000 Unternehmen und ein landesweiter Anteil von 6,6%; sie beschreiben die wirtschaftliche Basis der Region. Der Bericht wurde aus Gwangju von Yonhap-Reporter Jeon Seung-hyun übermittelt. Quelle: yna.co.kr"
+      },
+      "fr": {
+        "title": "Gwangju-Jeonnam compte 490 000 entreprises, 6,6% du total national",
+        "excerpt": "Selon Yonhap, le nombre d’entreprises à Gwangju et dans le Jeonnam atteint environ 490 000, soit 6,6% de l’ensemble des entreprises du pays.",
+        "body": "Le nombre d’entreprises à Gwangju et dans le Jeonnam s’élève à environ 490 000, soit 6,6% du total national. Selon l’agence Yonhap, ce chiffre indique l’ampleur de base de l’activité économique dans la région formée par Gwangju et le Jeonnam. La donnée est significative car elle présente à la fois le nombre d’établissements et leur part dans l’ensemble du pays. Les chiffres clés sont environ 490 000 entreprises et une proportion nationale de 6,6%, qui décrivent la base de l’activité économique régionale. L’information a été transmise depuis Gwangju par le journaliste Jeon Seung-hyun de Yonhap. Source: yna.co.kr"
+      },
+      "ar": {
+        "title": "غوانغجو وجنوب جولا تضمان نحو 490 ألف منشأة، 6.6% من إجمالي كوريا",
+        "excerpt": "بحسب وكالة يونهاب، بلغ عدد المنشآت في غوانغجو وجنوب جولا نحو 490 ألف منشأة، بما يعادل 6.6% من إجمالي المنشآت على مستوى البلاد.",
+        "body": "تبيّن أن عدد المنشآت في غوانغجو وجنوب جولا يبلغ نحو 490 ألف منشأة، وهو ما يمثل 6.6% من إجمالي المنشآت على مستوى كوريا. ووفق ما نقلته وكالة يونهاب للأنباء، يعرض هذا الرقم الحجم الأساسي للنشاط التجاري في المنطقة التي تضم غوانغجو وجنوب جولا معا. وتكمن أهمية البيانات في أنها تقدم عدد المنشآت وحصتها من الإجمالي الوطني في الوقت نفسه. وتعد أرقام نحو 490 ألف منشأة ونسبة 6.6% من البلاد مؤشرات رئيسية تشرح قاعدة النشاط الاقتصادي في المنطقة. وردت المعلومات في تقرير ليونهاب من غوانغجو بقلم الصحفي جون سونغ-هيون. المصدر: yna.co.kr"
+      },
+      "hi": {
+        "title": "ग्वांगजू-जेओन्नम में 4.9 लाख व्यवसाय, राष्ट्रीय कुल का 6.6% हिस्सा",
+        "excerpt": "योनहाप के अनुसार, ग्वांगजू और जेओन्नम क्षेत्र में व्यवसायों की संख्या करीब 4.9 लाख रही, जो देशभर के कुल व्यवसायों का 6.6% है।",
+        "body": "ग्वांगजू और जेओन्नम क्षेत्र में व्यवसायों की संख्या करीब 4.9 लाख पाई गई, जो देशभर के कुल व्यवसायों का 6.6% है। योनहाप समाचार एजेंसी की रिपोर्ट के अनुसार, यह आंकड़ा ग्वांगजू और जेओन्नम को मिलाकर क्षेत्रीय कारोबारी गतिविधि के बुनियादी आकार को दिखाता है। यह जानकारी इसलिए महत्वपूर्ण है क्योंकि इसमें प्रतिष्ठानों की संख्या और राष्ट्रीय कुल में उनकी हिस्सेदारी दोनों सामने आती हैं। करीब 4.9 लाख व्यवसाय और 6.6% की राष्ट्रीय हिस्सेदारी क्षेत्र की आर्थिक गतिविधि के आधार को समझाने वाले प्रमुख आंकड़े हैं। यह रिपोर्ट ग्वांगजू से योनहाप के पत्रकार जॉन स्युंग-ह्युन ने दी। स्रोत: yna.co.kr"
+      },
+      "id": {
+        "title": "Gwangju-Jeonnam Punya 490 Ribu Usaha, 6,6% dari Total Nasional",
+        "excerpt": "Menurut Yonhap, jumlah usaha di Gwangju dan Jeonnam tercatat sekitar 490 ribu, setara 6,6% dari seluruh usaha di Korea Selatan.",
+        "body": "Jumlah usaha di Gwangju dan Jeonnam tercatat sekitar 490 ribu, atau 6,6% dari seluruh usaha secara nasional. Menurut laporan Kantor Berita Yonhap, angka ini menunjukkan skala dasar kegiatan usaha di wilayah gabungan Gwangju dan Jeonnam. Data tersebut penting karena menampilkan jumlah usaha sekaligus porsi wilayah itu dalam total nasional. Angka utama berupa sekitar 490 ribu usaha dan pangsa nasional 6,6% menjelaskan basis aktivitas ekonomi regional. Informasi ini disampaikan dari Gwangju oleh reporter Yonhap Jeon Seung-hyun. Sumber: yna.co.kr"
+      }
+    }
+  },
+  {
     "id": "7aa649295d32",
     "slug": "신한투자-어버이날-기념-비대면-시니어-전용-특판rp-판매-637312",
     "channelId": "ETF",
@@ -4271,231 +4496,6 @@
         "title": "Nelayan mideodeok Changwon terpukul penurunan produksi, minyak mahal dan penjualan lemah",
         "excerpt": "Nelayan di sekitar Pelabuhan Jindong, Changwon, yang menyumbang sekitar 70% produksi mideodeok Korea Selatan, menghadapi dampak suhu air tinggi, biaya naik dan penjualan lesu.",
         "body": "Nelayan mideodeok di sekitar Pelabuhan Jindong, Masanhappo-gu, Changwon, Provinsi Gyeongsang Selatan, menghadapi tiga tekanan sekaligus: produksi menurun, harga minyak tinggi dan penjualan lesu. Wilayah ini menyumbang sekitar 70% dari total produksi mideodeok Korea Selatan. Namun produksi berkurang akibat kerusakan yang dipicu suhu air tinggi, sementara beban biaya produksi juga meningkat. Dengan penjualan yang tetap lemah, kondisi usaha nelayan setempat menjadi semakin sulit. Sumber: yna.co.kr"
-      }
-    }
-  },
-  {
-    "id": "2c38a2aedc2f",
-    "slug": "마이크론-jp모건-넘어선-날반도체50보다-sw57-산다-김현석의-월스트리트나우-693766",
-    "channelId": "ETF",
-    "category": "etf",
-    "publishedAt": "2026-05-08T23:57:24.390Z",
-    "updatedAt": "2026-05-08T23:57:24.390Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/202605095289i",
-    "canonicalUrl": "https://www.hankyung.com/article/202605095289i",
-    "titleFingerprint": "6fc8070ae08166828f9a6d601e0b1544bd048aa8",
-    "dedupKeys": [
-      "2c38a2aedc2f7bd0704fdb027ef43238fa5a1de9",
-      "6fc8070ae08166828f9a6d601e0b1544bd048aa8",
-      "626db504f6042b29dbbabe33bf2bb9ecdd440c2d"
-    ],
-    "imageUrl": "/images/articles/2c38a2aedc2f.jpg",
-    "i18n": {
-      "ko": {
-        "title": "마이크론 시총 JP모건 추월, 투자자는 반도체보다 소프트웨어 더 산다",
-        "excerpt": "마이크론이 JP모건을 넘어선 날, 월가 투자 흐름은 반도체 50%보다 소프트웨어 57% 매수 비중이 높다는 점에 주목했다.",
-        "body": "마이크론이 JP모건을 넘어선 날, 월가에서는 반도체와 소프트웨어 투자 선호를 비교하는 흐름이 부각됐다. 원문은 반도체 매수 비중 50%보다 소프트웨어 매수 비중 57%가 더 높다는 수치를 제시하며, 기술주 안에서도 자금이 어디로 향하는지에 초점을 맞췄다. 마이크론의 위상 변화는 반도체 업종의 주목도를 키웠지만, 투자자 선호 지표에서는 소프트웨어가 더 강하게 나타난 셈이다. 이는 반도체 랠리와 소프트웨어 선호가 동시에 시장의 핵심 변수로 작용하고 있음을 보여준다. 출처: hankyung.com"
-      },
-      "en": {
-        "title": "Micron Passes JPMorgan as Investors Buy More Software Than Chips",
-        "excerpt": "On the day Micron surpassed JPMorgan, Wall Street focused on buy ratios showing software at 57%, above semiconductors at 50%.",
-        "body": "On the day Micron surpassed JPMorgan, Wall Street attention turned to the contrast between semiconductor and software investment preferences. The original report cited a 50% buy ratio for semiconductors and a higher 57% buy ratio for software, focusing on where money is moving within technology stocks. Micron’s rise increased attention on the semiconductor sector, but investor preference indicators showed stronger demand for software. The figures suggest that both the semiconductor rally and software preference remain key variables for the market. Source: hankyung.com"
-      },
-      "ja": {
-        "title": "マイクロンがJPモルガン超え、投資家は半導体よりソフトウエアを選好",
-        "excerpt": "マイクロンがJPモルガンを上回った日、半導体50%に対しソフトウエア57%という買い比率がウォール街で注目された。",
-        "body": "マイクロンがJPモルガンを上回った日、ウォール街では半導体とソフトウエアへの投資選好を比べる動きが浮上した。原文は半導体の買い比率50%より、ソフトウエアの買い比率57%が高いという数値を示し、テクノロジー株の中で資金がどこへ向かうのかに焦点を当てた。マイクロンの存在感拡大は半導体セクターへの注目を高めたが、投資家の選好指標ではソフトウエアがより強く表れた。半導体ラリーとソフトウエア選好が同時に市場の重要変数となっている。出典: hankyung.com"
-      },
-      "zh": {
-        "title": "美光市值超越摩根大通，投资者更偏好软件而非半导体",
-        "excerpt": "在美光超越摩根大通之日，华尔街关注到软件买入比例为57%，高于半导体的50%。",
-        "body": "在美光超越摩根大通之日，华尔街开始关注半导体与软件投资偏好的差异。原文提出，半导体买入比例为50%，而软件买入比例更高，达到57%，重点观察科技股内部资金流向。美光地位的变化提升了半导体板块的关注度，但从投资者偏好指标看，软件表现出更强吸引力。这说明半导体上涨行情与软件偏好正在同时成为市场的重要变量。来源: hankyung.com"
-      },
-      "es": {
-        "title": "Micron supera a JPMorgan y los inversores compran más software que chips",
-        "excerpt": "El día en que Micron superó a JPMorgan, Wall Street observó que el software tenía un 57% de compras, frente al 50% de semiconductores.",
-        "body": "El día en que Micron superó a JPMorgan, en Wall Street destacó la comparación entre las preferencias de inversión en semiconductores y software. El informe original citó una proporción de compra del 50% para semiconductores y una más alta, del 57%, para software, centrando la atención en hacia dónde se dirige el dinero dentro de las acciones tecnológicas. El avance de Micron elevó el foco sobre el sector de chips, pero los indicadores de preferencia mostraron más fuerza en software. Esto sugiere que el repunte de semiconductores y la preferencia por software actúan como variables clave del mercado. Fuente: hankyung.com"
-      },
-      "pt": {
-        "title": "Micron supera JPMorgan, mas investidores compram mais software que chips",
-        "excerpt": "No dia em que a Micron superou o JPMorgan, Wall Street destacou compras de 57% em software, acima dos 50% em semicondutores.",
-        "body": "No dia em que a Micron superou o JPMorgan, Wall Street passou a comparar a preferência de investimento entre semicondutores e software. O texto original citou uma taxa de compra de 50% para semicondutores e uma taxa maior, de 57%, para software, destacando para onde o capital se desloca dentro das ações de tecnologia. A mudança de posição da Micron aumentou a atenção sobre o setor de chips, mas os indicadores de preferência dos investidores mostraram mais força em software. Isso indica que a alta dos semicondutores e a preferência por software seguem como variáveis centrais do mercado. Fonte: hankyung.com"
-      },
-      "de": {
-        "title": "Micron überholt JPMorgan, doch Anleger kaufen mehr Software als Chips",
-        "excerpt": "Am Tag, an dem Micron JPMorgan überholte, rückte Wall Street Kaufquoten von 57% bei Software und 50% bei Halbleitern in den Fokus.",
-        "body": "Am Tag, an dem Micron JPMorgan überholte, richtete sich an der Wall Street der Blick auf die unterschiedliche Anlegerpräferenz für Halbleiter und Software. Der Originalbericht nannte eine Kaufquote von 50% bei Halbleitern und eine höhere Quote von 57% bei Software und stellte damit die Kapitalströme innerhalb der Technologiewerte in den Mittelpunkt. Microns Bedeutungsgewinn erhöhte die Aufmerksamkeit für den Chipsektor, doch die Präferenzindikatoren der Anleger zeigten stärkere Nachfrage nach Software. Damit bleiben sowohl die Halbleiterrally als auch die Softwarepräferenz wichtige Marktvariablen. Quelle: hankyung.com"
-      },
-      "fr": {
-        "title": "Micron dépasse JPMorgan, les investisseurs privilégient le logiciel aux puces",
-        "excerpt": "Le jour où Micron a dépassé JPMorgan, Wall Street a relevé un taux d’achat de 57% pour le logiciel, contre 50% pour les semi-conducteurs.",
-        "body": "Le jour où Micron a dépassé JPMorgan, Wall Street s’est concentrée sur la comparaison entre les préférences d’investissement dans les semi-conducteurs et les logiciels. L’article original cite un taux d’achat de 50% pour les semi-conducteurs et un niveau plus élevé de 57% pour les logiciels, afin de montrer où se dirigent les capitaux au sein des valeurs technologiques. La progression de Micron a accru l’attention portée au secteur des puces, mais les indicateurs de préférence des investisseurs ont davantage favorisé le logiciel. Cela montre que la hausse des semi-conducteurs et l’attrait du logiciel restent deux variables clés du marché. Source: hankyung.com"
-      },
-      "ar": {
-        "title": "ميكرون تتجاوز جيه بي مورغان والمستثمرون يفضلون البرمجيات على الرقائق",
-        "excerpt": "في اليوم الذي تجاوزت فيه ميكرون جيه بي مورغان، ركزت وول ستريت على نسبة شراء للبرمجيات بلغت 57% مقابل 50% لأشباه الموصلات.",
-        "body": "في اليوم الذي تجاوزت فيه ميكرون جيه بي مورغان، برز في وول ستريت اهتمام بمقارنة تفضيلات الاستثمار بين أشباه الموصلات والبرمجيات. أشار النص الأصلي إلى أن نسبة الشراء في أشباه الموصلات بلغت 50%، بينما كانت النسبة في البرمجيات أعلى عند 57%، مع التركيز على اتجاه الأموال داخل أسهم التكنولوجيا. عزز تغير مكانة ميكرون الانتباه إلى قطاع الرقائق، لكن مؤشرات تفضيل المستثمرين أظهرت قوة أكبر للبرمجيات. ويعني ذلك أن صعود أشباه الموصلات وتفضيل البرمجيات عاملان رئيسيان في السوق. المصدر: hankyung.com"
-      },
-      "hi": {
-        "title": "माइक्रोन ने JPMorgan को पीछे छोड़ा, निवेशक चिप्स से ज्यादा सॉफ्टवेयर खरीद रहे",
-        "excerpt": "माइक्रोन के JPMorgan से आगे निकलने के दिन वॉल स्ट्रीट ने सॉफ्टवेयर में 57% और सेमीकंडक्टर में 50% खरीद अनुपात पर ध्यान दिया।",
-        "body": "माइक्रोन के JPMorgan से आगे निकलने के दिन वॉल स्ट्रीट में सेमीकंडक्टर और सॉफ्टवेयर निवेश पसंद की तुलना प्रमुख रही। मूल रिपोर्ट ने सेमीकंडक्टर के लिए 50% खरीद अनुपात और सॉफ्टवेयर के लिए उससे अधिक 57% खरीद अनुपात का उल्लेख किया, जिससे टेक शेयरों के भीतर पूंजी किस ओर जा रही है, इस पर ध्यान गया। माइक्रोन की स्थिति में बदलाव ने सेमीकंडक्टर क्षेत्र की चर्चा बढ़ाई, लेकिन निवेशक पसंद के संकेतकों में सॉफ्टवेयर अधिक मजबूत दिखा। इससे संकेत मिलता है कि सेमीकंडक्टर रैली और सॉफ्टवेयर पसंद दोनों बाजार के अहम कारक बने हुए हैं। स्रोत: hankyung.com"
-      },
-      "id": {
-        "title": "Micron Lewati JPMorgan, Investor Lebih Banyak Membeli Software daripada Chip",
-        "excerpt": "Saat Micron melampaui JPMorgan, Wall Street menyoroti rasio beli software 57%, lebih tinggi dari semikonduktor 50%.",
-        "body": "Saat Micron melampaui JPMorgan, perhatian Wall Street tertuju pada perbandingan preferensi investasi antara semikonduktor dan software. Laporan asli menyebut rasio beli semikonduktor sebesar 50%, sedangkan software lebih tinggi di 57%, dengan fokus pada arah aliran dana di dalam saham teknologi. Perubahan posisi Micron meningkatkan sorotan terhadap sektor chip, tetapi indikator preferensi investor menunjukkan software lebih kuat. Angka ini menunjukkan reli semikonduktor dan preferensi terhadap software sama-sama menjadi variabel penting bagi pasar. Sumber: hankyung.com"
-      }
-    }
-  },
-  {
-    "id": "8d3a629c1fef",
-    "slug": "7000피-뚫자-대기자금-몰려예탁금-137조-역대-최대-416166",
-    "channelId": "ETF",
-    "category": "etf",
-    "publishedAt": "2026-05-08T23:56:35.849Z",
-    "updatedAt": "2026-05-08T23:56:35.849Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/2026050954017",
-    "canonicalUrl": "https://www.hankyung.com/article/2026050954017",
-    "titleFingerprint": "0532149e88af6281037ec1cde980427c836c112b",
-    "dedupKeys": [
-      "8d3a629c1fefcc66d0efac323d2f7fa6e7e4021f",
-      "0532149e88af6281037ec1cde980427c836c112b",
-      "bfd4bc69e1946bea6e30cd124a533b02ff3075d6"
-    ],
-    "imageUrl": "/images/articles/8d3a629c1fef.jpg",
-    "i18n": {
-      "ko": {
-        "title": "7000피 돌파에 대기자금 몰렸다…투자자예탁금 137조 역대 최대 기록 주목",
-        "excerpt": "7000피 돌파 이후 증시 대기자금이 몰리며 투자자예탁금이 137조원으로 역대 최대치를 기록했다고 한국경제가 보도했다.",
-        "body": "한국경제(hankyung.com)에 따르면 7000피를 뚫은 뒤 시장 대기자금이 몰리며 투자자예탁금이 137조원으로 역대 최대 수준을 기록했다. 예탁금은 투자자가 매수 등을 위해 증권 계좌에 맡겨 둔 자금으로, 시장 참여자들의 대기성 자금 흐름을 보여주는 지표로 활용된다. 이번 수치는 7000피 돌파 이후 자금 유입이 커졌다는 점에서 시장의 관심을 받고 있다. 향후 증시 흐름과 투자자예탁금 변화가 함께 주목될 전망이다. 출처: hankyung.com"
-      },
-      "en": {
-        "title": "Investor Deposits Hit Record 137 Trillion Won After 7,000 Breakout",
-        "excerpt": "After the market broke through the 7,000 level, standby funds flowed in and investor deposits reached a record 137 trillion won, Hankyung reported.",
-        "body": "According to Hankyung.com, after the market broke through the 7,000 level, standby funds flowed in and investor deposits reached a record 137 trillion won. Investor deposits refer to money placed in securities accounts for purchases and are used as an indicator of cash waiting on the sidelines. The figure is drawing attention because it shows that fund inflows grew after the 7,000 breakout. Market watchers are expected to follow both future market moves and changes in investor deposits. Source: hankyung.com"
-      },
-      "ja": {
-        "title": "7000突破で待機資金が流入、投資家預託金137兆ウォンで過去最大",
-        "excerpt": "7000突破後に市場の待機資金が流入し、投資家預託金が137兆ウォンと過去最大を記録したと韓国経済が報じた。",
-        "body": "韓国経済（hankyung.com）によると、7000を突破した後、市場の待機資金が流入し、投資家預託金は137兆ウォンと過去最大水準を記録した。預託金は投資家が買い付けなどのために証券口座に預けている資金で、市場参加者の待機性資金の動きを示す指標として使われる。今回の数値は、7000突破後に資金流入が拡大した点で注目されている。今後の市場動向と投資家預託金の変化がともに焦点となりそうだ。出所: hankyung.com"
-      },
-      "zh": {
-        "title": "突破7000点后观望资金涌入，投资者保证金达137万亿韩元创新高",
-        "excerpt": "韩国经济报道称，突破7000点后市场观望资金流入，投资者保证金达到137万亿韩元，创历史最高纪录。",
-        "body": "据韩国经济（hankyung.com）报道，突破7000点后，市场观望资金涌入，投资者保证金达到137万亿韩元，创下历史最高水平。投资者保证金是投资者为买入等交易存放在证券账户中的资金，常被用作观察市场待命资金流向的指标。此次数据受到关注，是因为它显示7000点突破后资金流入扩大。未来市场走势以及投资者保证金变化预计将继续受到关注。来源: hankyung.com"
-      },
-      "es": {
-        "title": "Depósitos de inversores alcanzan récord de 137 billones de wones tras superar 7.000",
-        "excerpt": "Tras superar el nivel de 7.000, los fondos en espera entraron al mercado y los depósitos de inversores marcaron un récord de 137 billones de wones, informó Hankyung.",
-        "body": "Según Hankyung.com, después de que el mercado superara el nivel de 7.000, los fondos en espera se concentraron y los depósitos de inversores alcanzaron un máximo histórico de 137 billones de wones. Estos depósitos son fondos que los inversores mantienen en cuentas de valores para compras y se usan como indicador del dinero disponible en espera. La cifra llama la atención porque muestra mayores entradas tras la ruptura de 7.000. Se seguirá observando la evolución del mercado y de esos depósitos. Fuente: hankyung.com"
-      },
-      "pt": {
-        "title": "Depósitos de investidores batem recorde de 137 trilhões de wons após superar 7.000",
-        "excerpt": "Após a superação do nível de 7.000, recursos em espera entraram no mercado e os depósitos de investidores chegaram ao recorde de 137 trilhões de wons, informou a Hankyung.",
-        "body": "Segundo o Hankyung.com, depois que o mercado rompeu o nível de 7.000, recursos em espera se concentraram e os depósitos de investidores atingiram o recorde de 137 trilhões de wons. Esses depósitos são valores mantidos em contas de corretoras para compras e funcionam como indicador do dinheiro em espera no mercado. O dado chama atenção por mostrar aumento das entradas após a superação de 7.000. A evolução do mercado e dos depósitos de investidores deve seguir em foco. Fonte: hankyung.com"
-      },
-      "de": {
-        "title": "Anlegerguthaben steigen nach Sprung über 7.000 auf Rekord von 137 Bio. Won",
-        "excerpt": "Nach dem Überschreiten der Marke von 7.000 flossen wartende Mittel in den Markt, die Anlegerguthaben erreichten laut Hankyung rekordhohe 137 Billionen Won.",
-        "body": "Laut Hankyung.com flossen nach dem Überschreiten der Marke von 7.000 wartende Mittel in den Markt, während die Anlegerguthaben mit 137 Billionen Won ein Rekordhoch erreichten. Diese Guthaben sind Gelder, die Anleger für Käufe auf Wertpapierkonten halten, und gelten als Indikator für verfügbare Mittel am Markt. Die Zahl zieht Aufmerksamkeit auf sich, weil sie höhere Zuflüsse nach dem Sprung über 7.000 zeigt. Künftige Marktbewegungen und Veränderungen der Anlegerguthaben dürften gemeinsam beobachtet werden. Quelle: hankyung.com"
-      },
-      "fr": {
-        "title": "Les dépôts d’investisseurs atteignent un record de 137 000 milliards de wons après 7 000",
-        "excerpt": "Après le franchissement du seuil de 7 000, les liquidités en attente ont afflué et les dépôts d’investisseurs ont atteint un record de 137 000 milliards de wons, selon Hankyung.",
-        "body": "Selon Hankyung.com, après le franchissement du seuil de 7 000, les liquidités en attente ont afflué vers le marché et les dépôts d’investisseurs ont atteint un niveau record de 137 000 milliards de wons. Ces dépôts correspondent aux fonds placés sur des comptes-titres pour des achats et servent d’indicateur des liquidités disponibles. Ce chiffre attire l’attention car il montre une hausse des entrées après le passage de 7 000. L’évolution du marché et des dépôts d’investisseurs devrait rester surveillée. Source: hankyung.com"
-      },
-      "ar": {
-        "title": "ودائع المستثمرين تبلغ رقما قياسيا عند 137 تريليون وون بعد اختراق 7000",
-        "excerpt": "بعد اختراق مستوى 7000، تدفقت الأموال المنتظرة إلى السوق وبلغت ودائع المستثمرين 137 تريليون وون، وهو مستوى قياسي، بحسب هانكيونغ.",
-        "body": "بحسب Hankyung.com، بعد اختراق مستوى 7000 تدفقت الأموال المنتظرة إلى السوق، وبلغت ودائع المستثمرين 137 تريليون وون، وهو أعلى مستوى تاريخي. وتشير ودائع المستثمرين إلى الأموال الموضوعة في حسابات الأوراق المالية من أجل الشراء، وتستخدم كمؤشر على السيولة المنتظرة لدى المشاركين في السوق. ويحظى هذا الرقم بالاهتمام لأنه يظهر زيادة التدفقات بعد اختراق 7000. ومن المتوقع متابعة حركة السوق المقبلة وتغير ودائع المستثمرين معا. المصدر: hankyung.com"
-      },
-      "hi": {
-        "title": "7,000 पार होने के बाद प्रतीक्षारत धन आया, निवेशक जमा 137 ट्रिलियन वॉन के रिकॉर्ड पर",
-        "excerpt": "7,000 स्तर पार होने के बाद बाजार में प्रतीक्षारत धन आया और निवेशक जमा 137 ट्रिलियन वॉन के रिकॉर्ड स्तर पर पहुंच गया, हैंक्युंग ने बताया।",
-        "body": "Hankyung.com के अनुसार, 7,000 स्तर टूटने के बाद बाजार में प्रतीक्षारत धन आया और निवेशक जमा 137 ट्रिलियन वॉन के रिकॉर्ड स्तर पर पहुंच गया। निवेशक जमा वह धन है जिसे निवेशक खरीदारी आदि के लिए प्रतिभूति खातों में रखते हैं, और इसे बाजार में उपलब्ध प्रतीक्षारत नकदी के संकेतक के रूप में देखा जाता है। यह आंकड़ा ध्यान खींच रहा है क्योंकि यह 7,000 पार होने के बाद धन प्रवाह बढ़ने को दिखाता है। आगे बाजार की चाल और निवेशक जमा में बदलाव दोनों पर नजर रहेगी। स्रोत: hankyung.com"
-      },
-      "id": {
-        "title": "Dana Investor Capai Rekor 137 Triliun Won Setelah Level 7.000 Tertembus",
-        "excerpt": "Setelah level 7.000 tertembus, dana siaga mengalir ke pasar dan dana nasabah investor mencapai rekor 137 triliun won, lapor Hankyung.",
-        "body": "Menurut Hankyung.com, setelah level 7.000 tertembus, dana siaga mengalir ke pasar dan dana nasabah investor mencapai rekor 137 triliun won. Dana ini adalah uang yang ditempatkan investor di rekening sekuritas untuk pembelian dan digunakan sebagai indikator dana yang menunggu masuk pasar. Angka tersebut menarik perhatian karena menunjukkan peningkatan arus dana setelah penembusan 7.000. Pergerakan pasar berikutnya dan perubahan dana investor diperkirakan akan terus diperhatikan. Sumber: hankyung.com"
-      }
-    }
-  },
-  {
-    "id": "80e6a6900836",
-    "slug": "국세청-탈세-혐의-하나금융은행-세무조사-착수-511574",
-    "channelId": "ETF",
-    "category": "etf",
-    "publishedAt": "2026-05-08T23:32:23.215Z",
-    "updatedAt": "2026-05-08T23:32:23.215Z",
-    "sourceName": "yna.co.kr",
-    "sourceUrl": "https://www.yna.co.kr/view/AKR20260509001300002",
-    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260509001300002",
-    "titleFingerprint": "41b9c5b84dd8c7364c0511e14367dbeaeb587fd0",
-    "dedupKeys": [
-      "80e6a690083677f0ff90d95fc62246c1125bbebf",
-      "41b9c5b84dd8c7364c0511e14367dbeaeb587fd0",
-      "36e96fa175e0310c2166069dbc8887c5bcd0d5e6"
-    ],
-    "imageUrl": "/images/articles/80e6a6900836.jpg",
-    "i18n": {
-      "ko": {
-        "title": "국세청, 탈세 혐의로 하나금융지주·하나은행 세무조사 착수",
-        "excerpt": "국세청이 탈세 혐의와 관련해 하나금융지주와 하나은행에 대한 세무조사에 착수한 것으로 알려졌다고 연합뉴스가 보도했다.",
-        "body": "국세청이 하나금융지주[086790]와 하나은행에 대한 세무조사에 착수한 것으로 알려졌다. 연합뉴스는 서울발 기사에서 국세청이 탈세 혐의와 관련해 하나금융지주와 하나은행을 대상으로 조사에 들어간 것으로 전해졌다고 보도했다. 이번 사안은 국내 주요 금융지주와 은행을 대상으로 한 세무조사라는 점에서 금융권의 관심을 끌고 있다. 다만 원문 보도에서 구체적인 조사 범위, 기간, 혐의 내용, 관련 세액 등 세부 수치는 공개되지 않았다. 향후 조사 진행 상황과 당국 및 회사 측의 공식 설명 여부가 주목된다. 출처: yna.co.kr"
-      },
-      "en": {
-        "title": "Tax agency begins probe into Hana Financial and Hana Bank over alleged tax evasion",
-        "excerpt": "South Korea’s tax agency has reportedly begun a tax probe into Hana Financial Group and Hana Bank in connection with alleged tax evasion, Yonhap reported.",
-        "body": "South Korea’s National Tax Service has reportedly launched a tax investigation into Hana Financial Group [086790] and Hana Bank. Yonhap News Agency reported from Seoul that the tax authority is understood to have begun the probe in connection with alleged tax evasion involving the financial holding company and the bank. The case is drawing attention in the financial sector because it involves a major domestic financial group and its banking unit. However, the original report did not disclose detailed figures or specifics such as the scope of the investigation, its period, the exact allegations, or any tax amount involved. The next focus will be how the inquiry proceeds and whether the authorities or the companies provide official explanations. Source: yna.co.kr"
-      },
-      "ja": {
-        "title": "国税庁、脱税疑惑でハナ金融持株・ハナ銀行の税務調査に着手",
-        "excerpt": "韓国国税庁が脱税疑惑に関連し、ハナ金融持株とハナ銀行に対する税務調査に着手したと聯合ニュースが報じた。",
-        "body": "韓国国税庁がハナ金融持株[086790]とハナ銀行に対する税務調査に着手したことが分かった。聯合ニュースはソウル発の記事で、国税庁が脱税疑惑に関連してハナ金融持株とハナ銀行を対象に調査に入ったと伝えられていると報じた。今回の事案は、韓国の主要金融持株会社と銀行を対象とする税務調査である点から、金融業界の関心を集めている。ただし、原文報道では調査の具体的な範囲、期間、疑惑の詳細、関連税額などの数値は明らかにされていない。今後は調査の進展と、当局および会社側の公式説明の有無が注目される。出典: yna.co.kr"
-      },
-      "zh": {
-        "title": "韩国国税厅因涉嫌逃税启动对韩亚金融集团和韩亚银行税务调查",
-        "excerpt": "韩联社报道，韩国国税厅据悉已就涉嫌逃税问题，对韩亚金融集团和韩亚银行启动税务调查。",
-        "body": "韩国国税厅据悉已对韩亚金融集团[086790]和韩亚银行启动税务调查。韩联社在首尔发出的报道中称，国税厅被认为已就涉嫌逃税问题，对韩亚金融集团和韩亚银行展开调查。由于此次事项涉及韩国主要金融控股公司及其银行部门，因而受到金融业关注。不过，原报道未披露调查的具体范围、时间、涉嫌事项细节以及相关税额等具体数字。接下来，调查进展以及监管部门和公司方面是否作出正式说明，将成为外界关注焦点。来源: yna.co.kr"
-      },
-      "es": {
-        "title": "Fisco surcoreano inicia investigación a Hana Financial y Hana Bank por presunta evasión",
-        "excerpt": "El Servicio Nacional de Impuestos de Corea del Sur habría iniciado una investigación fiscal a Hana Financial Group y Hana Bank por presunta evasión, informó Yonhap.",
-        "body": "El Servicio Nacional de Impuestos de Corea del Sur habría iniciado una investigación fiscal sobre Hana Financial Group [086790] y Hana Bank. Yonhap informó desde Seúl que la autoridad tributaria habría comenzado la revisión en relación con sospechas de evasión fiscal que involucran al holding financiero y al banco. El caso atrae la atención del sector financiero porque afecta a un importante grupo financiero nacional y a su unidad bancaria. Sin embargo, el reporte original no reveló cifras ni detalles concretos, como el alcance de la investigación, su periodo, el contenido específico de las sospechas o el monto tributario relacionado. La atención se centrará ahora en el avance de la pesquisa y en si las autoridades o las compañías ofrecen explicaciones oficiales. Fuente: yna.co.kr"
-      },
-      "pt": {
-        "title": "Fisco da Coreia do Sul abre investigação sobre Hana Financial e Hana Bank por suspeita fiscal",
-        "excerpt": "O serviço fiscal sul-coreano teria iniciado uma investigação sobre Hana Financial Group e Hana Bank ligada a suspeitas de evasão fiscal, segundo a Yonhap.",
-        "body": "O Serviço Nacional de Impostos da Coreia do Sul teria iniciado uma investigação fiscal sobre o Hana Financial Group [086790] e o Hana Bank. A Yonhap informou, em reportagem de Seul, que a autoridade tributária teria começado a apuração em conexão com suspeitas de evasão fiscal envolvendo a holding financeira e o banco. O caso chama atenção no setor financeiro por envolver um grande grupo financeiro doméstico e sua unidade bancária. No entanto, a reportagem original não divulgou números ou detalhes específicos, como o escopo da investigação, o período, o teor exato das suspeitas ou qualquer valor de imposto relacionado. O foco agora será o andamento da apuração e se as autoridades ou as empresas apresentarão explicações oficiais. Fonte: yna.co.kr"
-      },
-      "de": {
-        "title": "Steuerbehörde prüft Hana Financial und Hana Bank wegen mutmaßlicher Steuerhinterziehung",
-        "excerpt": "Südkoreas Steuerbehörde hat laut Yonhap wegen mutmaßlicher Steuerhinterziehung eine Prüfung bei Hana Financial Group und Hana Bank eingeleitet.",
-        "body": "Südkoreas National Tax Service hat Berichten zufolge eine Steuerprüfung bei der Hana Financial Group [086790] und der Hana Bank eingeleitet. Yonhap meldete aus Seoul, die Steuerbehörde habe offenbar im Zusammenhang mit mutmaßlicher Steuerhinterziehung Ermittlungen gegen die Finanzholding und die Bank aufgenommen. Der Fall zieht in der Finanzbranche Aufmerksamkeit auf sich, weil er eine große inländische Finanzgruppe und deren Bankeinheit betrifft. Der ursprüngliche Bericht nannte jedoch keine konkreten Angaben oder Zahlen zum Umfang der Prüfung, zum Zeitraum, zu den genauen Vorwürfen oder zu einem möglichen Steuerbetrag. Im Mittelpunkt steht nun, wie die Untersuchung weiterläuft und ob Behörden oder Unternehmen offizielle Erklärungen abgeben. Quelle: yna.co.kr"
-      },
-      "fr": {
-        "title": "Le fisc sud-coréen enquête sur Hana Financial et Hana Bank pour soupçons d’évasion fiscale",
-        "excerpt": "Le fisc sud-coréen aurait lancé une enquête fiscale visant Hana Financial Group et Hana Bank liée à des soupçons d’évasion fiscale, selon Yonhap.",
-        "body": "Le Service national des impôts de Corée du Sud aurait lancé une enquête fiscale sur Hana Financial Group [086790] et Hana Bank. Yonhap a rapporté depuis Séoul que l’autorité fiscale aurait engagé cette enquête en lien avec des soupçons d’évasion fiscale visant la holding financière et la banque. L’affaire retient l’attention du secteur financier car elle concerne un grand groupe financier national et son unité bancaire. Toutefois, le reportage original ne précise pas le périmètre de l’enquête, sa durée, le détail exact des soupçons ni le montant fiscal éventuellement concerné. L’évolution de l’enquête et la publication éventuelle d’explications officielles par les autorités ou les entreprises seront désormais suivies de près. Source: yna.co.kr"
-      },
-      "ar": {
-        "title": "مصلحة الضرائب الكورية تحقق مع هانا المالية وبنك هانا بشبهة تهرب ضريبي",
-        "excerpt": "أفادت يونهاب بأن مصلحة الضرائب الكورية الجنوبية بدأت على ما يبدو تحقيقا ضريبيا مع هانا فايننشال غروب وبنك هانا بشأن شبهات تهرب ضريبي.",
-        "body": "بدأت مصلحة الضرائب الوطنية في كوريا الجنوبية على ما يبدو تحقيقا ضريبيا مع هانا فايننشال غروب [086790] وبنك هانا. وذكرت وكالة يونهاب من سول أن السلطة الضريبية يعتقد أنها باشرت التحقيق في صلة بشبهات تهرب ضريبي تتعلق بالشركة المالية القابضة والبنك. وتحظى القضية باهتمام القطاع المالي لأنها تشمل مجموعة مالية محلية كبرى ووحدتها المصرفية. لكن التقرير الأصلي لم يكشف تفاصيل أو أرقاما محددة، مثل نطاق التحقيق أو مدته أو طبيعة الشبهات أو أي مبلغ ضريبي مرتبط بها. وستتركز المتابعة الآن على مسار التحقيق وما إذا كانت السلطات أو الشركتان ستقدمان توضيحات رسمية. المصدر: yna.co.kr"
-      },
-      "hi": {
-        "title": "कर चोरी के आरोपों पर हाना फाइनेंशियल और हाना बैंक की कर जांच शुरू",
-        "excerpt": "योनहाप के अनुसार, दक्षिण कोरिया की कर एजेंसी ने कथित कर चोरी से जुड़े मामले में हाना फाइनेंशियल ग्रुप और हाना बैंक की कर जांच शुरू की है।",
-        "body": "दक्षिण कोरिया की नेशनल टैक्स सर्विस ने कथित तौर पर हाना फाइनेंशियल ग्रुप [086790] और हाना बैंक के खिलाफ कर जांच शुरू की है। सियोल से योनहाप की रिपोर्ट के अनुसार, कर प्राधिकरण ने कर चोरी के आरोपों से जुड़े मामले में वित्तीय होल्डिंग कंपनी और बैंक की जांच शुरू की मानी जा रही है। यह मामला वित्तीय क्षेत्र का ध्यान खींच रहा है क्योंकि इसमें देश का एक प्रमुख वित्तीय समूह और उसकी बैंक इकाई शामिल है। हालांकि मूल रिपोर्ट में जांच के दायरे, अवधि, आरोपों के विशिष्ट विवरण या संबंधित कर राशि जैसे ठोस आंकड़े सार्वजनिक नहीं किए गए। अब निगाहें जांच की प्रगति और इस पर रहेंगी कि अधिकारी या कंपनियां कोई आधिकारिक स्पष्टीकरण देती हैं या नहीं। स्रोत: yna.co.kr"
-      },
-      "id": {
-        "title": "Otoritas pajak Korea selidiki Hana Financial dan Hana Bank atas dugaan penghindaran pajak",
-        "excerpt": "Yonhap melaporkan otoritas pajak Korea Selatan disebut telah memulai pemeriksaan pajak terhadap Hana Financial Group dan Hana Bank terkait dugaan penghindaran pajak.",
-        "body": "National Tax Service Korea Selatan disebut telah memulai pemeriksaan pajak terhadap Hana Financial Group [086790] dan Hana Bank. Yonhap melaporkan dari Seoul bahwa otoritas pajak diduga telah masuk ke tahap penyelidikan terkait dugaan penghindaran pajak yang melibatkan perusahaan induk keuangan tersebut dan banknya. Kasus ini menarik perhatian sektor keuangan karena menyangkut salah satu grup keuangan domestik utama beserta unit perbankannya. Namun, laporan asli tidak mengungkap angka atau rincian konkret seperti cakupan pemeriksaan, periode, isi dugaan secara spesifik, atau jumlah pajak terkait. Perhatian selanjutnya tertuju pada perkembangan pemeriksaan dan apakah otoritas maupun perusahaan akan memberikan penjelasan resmi. Sumber: yna.co.kr"
       }
     }
   }
