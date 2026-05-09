@@ -1,5 +1,230 @@
 [
   {
+    "id": "478bb956b710",
+    "slug": "농식품부-에너지-대전환-tf-가동에너지-자립소득-증대-추진-744092",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-05-09T09:44:19.018Z",
+    "updatedAt": "2026-05-09T09:44:19.018Z",
+    "sourceName": "yna.co.kr",
+    "sourceUrl": "https://www.yna.co.kr/view/AKR20260508142300030",
+    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260508142300030",
+    "titleFingerprint": "1dc4a848a3429b5983ff01125bfa326872449f41",
+    "dedupKeys": [
+      "478bb956b71056a62559c1d5f831b26be712298a",
+      "1dc4a848a3429b5983ff01125bfa326872449f41",
+      "28fb52a6baa2a2d64dd462e0683bed3b45a32ef4"
+    ],
+    "imageUrl": "/images/articles/478bb956b710.jpg",
+    "i18n": {
+      "ko": {
+        "title": "농식품부 에너지 대전환 TF 가동, 농촌 에너지 자립 로드맵 추진",
+        "excerpt": "농식품부가 농업·농촌의 에너지 구조를 바꾸기 위한 에너지 대전환 TF를 가동하고 에너지 자립과 소득 증대를 목표로 로드맵 수립에 나섰다.",
+        "body": "농림축산식품부가 농업과 농촌의 에너지 구조를 전환하기 위한 ‘에너지 대전환’ 태스크포스(TF)를 가동하고 로드맵 수립에 본격 착수했다. 이번 움직임은 농촌 현장의 에너지 자립 기반을 강화하고 농가 소득 증대와 연결될 수 있는 방향을 모색하기 위한 것이다. 정부는 농업·농촌 부문의 에너지 구조 변화가 필요하다는 판단 아래 관련 논의를 체계화하는 단계에 들어갔다. 향후 TF 논의를 통해 에너지 자립과 소득 확대를 함께 추진하는 정책 방향이 구체화될 전망이다. 출처: yna.co.kr"
+      },
+      "en": {
+        "title": "Agriculture Ministry Launches Energy Transition TF to Boost Rural Self-Reliance",
+        "excerpt": "South Korea’s agriculture ministry has launched an energy transition task force to draft a roadmap for reshaping rural energy systems and raising farm income.",
+        "body": "South Korea’s Ministry of Agriculture, Food and Rural Affairs has launched an “energy transition” task force and begun work on a roadmap to change the energy structure of agriculture and rural communities. The move is aimed at strengthening energy self-reliance in rural areas while exploring ways to support higher farm income. The government has entered a structured discussion phase, judging that the agricultural and rural energy system needs to change. Future task force talks are expected to define policy directions that pursue both energy independence and income growth. Source: yna.co.kr"
+      },
+      "ja": {
+        "title": "農食品部がエネルギー大転換TF始動、農村の自立と所得増へ",
+        "excerpt": "韓国の農食品部は農業・農村のエネルギー構造を変えるため、エネルギー大転換TFを稼働し、ロードマップ策定に本格着手した。",
+        "body": "韓国の農林畜産食品部は、農業と農村のエネルギー構造を転換するための「エネルギー大転換」タスクフォース（TF）を稼働し、ロードマップ策定に本格的に着手した。今回の動きは、農村現場のエネルギー自立基盤を強化し、農家所得の増加につながる方向を模索するためのものだ。政府は農業・農村部門のエネルギー構造を変える必要があるとの判断の下、関連議論を体系化する段階に入った。今後のTF協議を通じ、エネルギー自立と所得拡大を同時に進める政策方向が具体化する見通しだ。出典: yna.co.kr"
+      },
+      "zh": {
+        "title": "韩国农食品部启动能源大转型TF，推进农村能源自立路线图",
+        "excerpt": "韩国农食品部启动能源大转型工作组，着手制定改变农业和农村能源结构的路线图，目标是提升能源自立和农户收入。",
+        "body": "韩国农林畜产食品部已启动旨在改变农业和农村能源结构的“能源大转型”工作组，并正式着手制定路线图。此举旨在强化农村现场的能源自立基础，并探索与增加农户收入相连接的方向。韩国政府认为农业和农村领域的能源结构有必要发生变化，因此进入了系统化讨论相关议题的阶段。今后通过工作组讨论，预计将进一步明确同时推进能源自立和收入扩大的政策方向。来源: yna.co.kr"
+      },
+      "es": {
+        "title": "Corea activa un TF de transición energética rural para impulsar autosuficiencia",
+        "excerpt": "El Ministerio de Agricultura de Corea del Sur puso en marcha un grupo de trabajo para diseñar una hoja de ruta que transforme la energía rural y eleve ingresos.",
+        "body": "El Ministerio de Agricultura, Alimentación y Asuntos Rurales de Corea del Sur puso en marcha un grupo de trabajo de “gran transición energética” y comenzó a elaborar una hoja de ruta para cambiar la estructura energética de la agricultura y las zonas rurales. La medida busca reforzar la autosuficiencia energética en el campo y explorar vías que puedan vincularse con mayores ingresos agrícolas. El Gobierno entró en una fase de debate estructurado al considerar necesaria una transformación energética en el sector agrícola y rural. Las próximas conversaciones del grupo definirán la orientación política hacia autosuficiencia e ingresos. Fuente: yna.co.kr"
+      },
+      "pt": {
+        "title": "Coreia lança TF de transição energética para autonomia e renda rural",
+        "excerpt": "O Ministério da Agricultura da Coreia do Sul iniciou um grupo de trabalho para criar um roteiro de mudança da energia rural, mirando autonomia e renda agrícola.",
+        "body": "O Ministério da Agricultura, Alimentos e Assuntos Rurais da Coreia do Sul lançou uma força-tarefa de “grande transição energética” e iniciou a formulação de um roteiro para mudar a estrutura energética da agricultura e das comunidades rurais. A iniciativa busca fortalecer a base de autonomia energética no campo e avaliar caminhos ligados ao aumento da renda dos agricultores. O governo entrou em uma etapa de discussão estruturada ao entender que a energia no setor agrícola e rural precisa mudar. As próximas reuniões da força-tarefa devem detalhar direções políticas para autonomia energética e ampliação de renda. Fonte: yna.co.kr"
+      },
+      "de": {
+        "title": "Südkoreas Agrarministerium startet Energiewende-Taskforce für ländliche Räume",
+        "excerpt": "Südkoreas Agrarministerium hat eine Energiewende-Taskforce gestartet, um eine Roadmap für neue Energie­strukturen in Landwirtschaft und Dörfern zu erstellen.",
+        "body": "Südkoreas Ministerium für Landwirtschaft, Ernährung und ländliche Angelegenheiten hat eine Taskforce zur „großen Energiewende“ gestartet und mit der Ausarbeitung einer Roadmap begonnen, die die Energiestruktur von Landwirtschaft und ländlichen Räumen verändern soll. Ziel ist es, die Grundlage für Energieautonomie in ländlichen Gebieten zu stärken und Wege zu prüfen, die mit höheren Einkommen der Landwirte verbunden werden können. Die Regierung sieht Änderungsbedarf im Energiegefüge des Agrar- und Landsektors und ordnet die Beratungen nun systematisch. Die Taskforce soll politische Leitlinien für Energieautonomie und Einkommenssteigerung konkretisieren. Quelle: yna.co.kr"
+      },
+      "fr": {
+        "title": "La Corée lance une task force sur la transition énergétique rurale",
+        "excerpt": "Le ministère sud-coréen de l’Agriculture a lancé une task force pour bâtir une feuille de route transformant l’énergie agricole et rurale.",
+        "body": "Le ministère sud-coréen de l’Agriculture, de l’Alimentation et des Affaires rurales a lancé une task force de « grande transition énergétique » et commencé l’élaboration d’une feuille de route visant à modifier la structure énergétique de l’agriculture et des zones rurales. Cette initiative cherche à renforcer l’autonomie énergétique sur le terrain rural et à explorer des pistes pouvant soutenir la hausse des revenus agricoles. Le gouvernement estime nécessaire de faire évoluer l’énergie dans les secteurs agricole et rural et organise désormais les discussions. Les travaux de la task force devraient préciser les orientations conciliant autonomie énergétique et revenus. Source: yna.co.kr"
+      },
+      "ar": {
+        "title": "كوريا تطلق فريق تحول الطاقة الزراعية لتعزيز الاكتفاء والدخل الريفي",
+        "excerpt": "أطلقت وزارة الزراعة الكورية الجنوبية فريق عمل للتحول في الطاقة بهدف إعداد خريطة طريق تغير بنية الطاقة في الزراعة والريف وتدعم الدخل.",
+        "body": "أطلقت وزارة الزراعة والأغذية والشؤون الريفية في كوريا الجنوبية فريق عمل لـ«التحول الكبير في الطاقة» وبدأت فعليا إعداد خريطة طريق لتغيير بنية الطاقة في الزراعة والمناطق الريفية. وتهدف الخطوة إلى تعزيز قاعدة الاكتفاء الذاتي من الطاقة في الريف والبحث عن اتجاهات يمكن أن ترتبط بزيادة دخل المزارعين. ودخلت الحكومة مرحلة تنظيم النقاشات ذات الصلة بعدما رأت ضرورة تغيير هيكل الطاقة في القطاعين الزراعي والريفي. ومن المتوقع أن تحدد مناقشات فريق العمل المقبلة اتجاهات السياسة التي تدفع الاكتفاء في الطاقة وتوسيع الدخل معا. المصدر: yna.co.kr"
+      },
+      "hi": {
+        "title": "दक्षिण कोरिया ने ग्रामीण ऊर्जा आत्मनिर्भरता के लिए ट्रांजिशन TF शुरू किया",
+        "excerpt": "दक्षिण कोरिया के कृषि मंत्रालय ने कृषि और ग्रामीण ऊर्जा ढांचे को बदलने तथा आय बढ़ाने के लिए ऊर्जा ट्रांजिशन टास्क फोर्स शुरू की।",
+        "body": "दक्षिण कोरिया के कृषि, खाद्य और ग्रामीण मामलों के मंत्रालय ने कृषि और ग्रामीण क्षेत्रों की ऊर्जा संरचना बदलने के लिए “ऊर्जा महापरिवर्तन” टास्क फोर्स शुरू की है और रोडमैप बनाने का काम औपचारिक रूप से आरंभ किया है। इस कदम का उद्देश्य ग्रामीण क्षेत्रों में ऊर्जा आत्मनिर्भरता की नींव मजबूत करना और किसानों की आय बढ़ाने से जुड़ी दिशा तलाशना है। सरकार ने माना है कि कृषि और ग्रामीण क्षेत्र की ऊर्जा संरचना में बदलाव जरूरी है, इसलिए संबंधित चर्चाओं को व्यवस्थित करने का चरण शुरू हुआ है। आगे TF की चर्चा से ऊर्जा आत्मनिर्भरता और आय विस्तार की नीति दिशा स्पष्ट होने की उम्मीद है। स्रोत: yna.co.kr"
+      },
+      "id": {
+        "title": "Korea Bentuk TF Transisi Energi Pertanian untuk Dorong Desa Mandiri",
+        "excerpt": "Kementerian Pertanian Korea Selatan membentuk gugus tugas transisi energi untuk menyusun peta jalan perubahan energi pertanian dan pedesaan.",
+        "body": "Kementerian Pertanian, Pangan, dan Urusan Pedesaan Korea Selatan membentuk gugus tugas “transisi besar energi” dan mulai menyusun peta jalan untuk mengubah struktur energi di sektor pertanian dan wilayah pedesaan. Langkah ini ditujukan untuk memperkuat dasar kemandirian energi di desa sekaligus mencari arah yang dapat terhubung dengan peningkatan pendapatan petani. Pemerintah memasuki tahap pembahasan yang lebih terstruktur karena menilai perubahan struktur energi pertanian dan pedesaan diperlukan. Melalui diskusi gugus tugas, arah kebijakan untuk mendorong kemandirian energi dan perluasan pendapatan diperkirakan akan diperjelas. Sumber: yna.co.kr"
+      }
+    }
+  },
+  {
+    "id": "7556c9ae07d6",
+    "slug": "올해-상반기-농업-외국인력-10만4천명-배정역대-최대-규모-511815",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-05-09T09:43:17.847Z",
+    "updatedAt": "2026-05-09T09:43:17.847Z",
+    "sourceName": "yna.co.kr",
+    "sourceUrl": "https://www.yna.co.kr/view/AKR20260508145600030",
+    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260508145600030",
+    "titleFingerprint": "6ad39e73f2986d6fb02865bdc611a9ec8f8f2b5c",
+    "dedupKeys": [
+      "7556c9ae07d614fe0db826de249135a1592624a9",
+      "6ad39e73f2986d6fb02865bdc611a9ec8f8f2b5c",
+      "086028a2ddd5c24f69337123f242268708871976"
+    ],
+    "imageUrl": "/images/articles/7556c9ae07d6.jpg",
+    "i18n": {
+      "ko": {
+        "title": "농업 외국인력 상반기 10만4천명 배정, 역대 최대 규모 기록",
+        "excerpt": "올해 상반기 농업 분야에 외국 인력 10만4천명이 배정되며 역대 최대 규모를 기록했다. 농업 현장의 인력 수요 대응이 핵심 배경이다.",
+        "body": "올해 상반기 농업 분야에 배정된 외국 인력이 10만4천명으로 집계됐다. 이는 농업 분야 외국 인력 배정 규모로는 역대 최대 수준이다. 이번 배정은 농업 현장에서 필요한 인력 수요에 대응하기 위한 조치로 풀이된다. 관련 수치상 올해 상반기 배정 인원은 10만명을 넘어섰고, 이전보다 큰 규모라는 점에서 주목된다. 농번기 등 현장 노동력 확보와 농업 인력 운영에 영향을 줄 것으로 보인다. 출처는 yna.co.kr이다."
+      },
+      "en": {
+        "title": "Foreign Farm Workers Assigned in First Half Hit Record 104,000",
+        "excerpt": "In the first half of this year, 104,000 foreign workers were assigned to South Korea’s agricultural sector, marking the largest allocation on record.",
+        "body": "In the first half of this year, 104,000 foreign workers were assigned to the agricultural sector. The figure marks the largest allocation ever recorded for foreign labor in agriculture. The assignment is understood as a response to labor demand at farming sites. The number exceeded 100,000 in the first half alone, drawing attention for its record scale. It is expected to affect workforce availability and labor operations in agricultural fields, including busy farming periods. Source: yna.co.kr."
+      },
+      "ja": {
+        "title": "農業外国人材、上半期に10万4千人配分 過去最大規模に",
+        "excerpt": "今年上半期、農業分野に外国人材10万4千人が配分され、過去最大規模となった。農業現場の人手需要への対応が背景だ。",
+        "body": "今年上半期、農業分野に配分された外国人材は10万4千人と集計された。農業分野の外国人材配分規模としては過去最大となる。今回の配分は、農業現場で必要とされる人手需要に対応するための措置とみられる。関連数値では、上半期だけで10万人を超え、これまでより大きな規模である点が注目される。農繁期など現場の労働力確保や農業人材の運用に影響を及ぼすとみられる。出典はyna.co.kr。"
+      },
+      "zh": {
+        "title": "农业外籍劳动力上半年分配10.4万人 创历史最大规模",
+        "excerpt": "今年上半年，农业领域分配外籍劳动力10.4万人，创下历史最大规模，背景是应对农业一线的人力需求。",
+        "body": "今年上半年，农业领域分配的外籍劳动力达到10.4万人。据统计，这是农业领域外籍劳动力分配规模的历史最高水平。此次分配被视为应对农业现场所需人力需求的措施。从相关数字看，仅上半年分配人数就超过10万人，规模较以往更大，因此受到关注。预计这将影响农忙期等现场劳动力保障以及农业人力运营。消息来源为yna.co.kr。"
+      },
+      "es": {
+        "title": "Agricultura asigna 104.000 trabajadores extranjeros en récord semestral",
+        "excerpt": "En el primer semestre de este año, el sector agrícola recibió 104.000 trabajadores extranjeros, la mayor asignación registrada hasta ahora.",
+        "body": "En el primer semestre de este año, se asignaron 104.000 trabajadores extranjeros al sector agrícola. La cifra representa el mayor volumen registrado para la asignación de mano de obra extranjera en agricultura. La medida se interpreta como una respuesta a la demanda de personal en los campos agrícolas. Según los datos citados, el número superó los 100.000 solo en la primera mitad del año, lo que destaca por su escala histórica. Se prevé que influya en la disponibilidad de mano de obra y en la gestión del personal agrícola. Fuente: yna.co.kr."
+      },
+      "pt": {
+        "title": "Agricultura recebe 104 mil trabalhadores estrangeiros no semestre, recorde",
+        "excerpt": "No primeiro semestre deste ano, 104 mil trabalhadores estrangeiros foram alocados ao setor agrícola, o maior volume já registrado.",
+        "body": "No primeiro semestre deste ano, 104 mil trabalhadores estrangeiros foram alocados ao setor agrícola. O total representa o maior volume já registrado para a distribuição de mão de obra estrangeira na agricultura. A medida é vista como uma resposta à demanda por trabalhadores nos locais de produção agrícola. Os dados mostram que o número passou de 100 mil apenas na primeira metade do ano, chamando atenção pelo tamanho recorde. A alocação deve influenciar a garantia de mão de obra e a operação de pessoal no campo. Fonte: yna.co.kr."
+      },
+      "de": {
+        "title": "Landwirtschaft erhält im Halbjahr 104.000 ausländische Arbeitskräfte",
+        "excerpt": "Im ersten Halbjahr dieses Jahres wurden der Landwirtschaft 104.000 ausländische Arbeitskräfte zugeteilt, so viele wie nie zuvor.",
+        "body": "Im ersten Halbjahr dieses Jahres wurden dem Agrarsektor 104.000 ausländische Arbeitskräfte zugeteilt. Das ist die bislang größte Zuteilung ausländischer Arbeitskräfte in der Landwirtschaft. Die Maßnahme gilt als Reaktion auf den Personalbedarf in landwirtschaftlichen Betrieben. Den genannten Zahlen zufolge überschritt die Zuteilung allein in der ersten Jahreshälfte die Marke von 100.000 und fällt damit besonders groß aus. Sie dürfte sich auf die Sicherung von Arbeitskräften und den Personaleinsatz in der Landwirtschaft auswirken. Quelle: yna.co.kr."
+      },
+      "fr": {
+        "title": "Agriculture : 104 000 travailleurs étrangers attribués au premier semestre",
+        "excerpt": "Au premier semestre de cette année, 104 000 travailleurs étrangers ont été attribués au secteur agricole, un niveau record.",
+        "body": "Au premier semestre de cette année, 104 000 travailleurs étrangers ont été attribués au secteur agricole. Ce chiffre constitue le plus grand volume jamais enregistré pour l’affectation de main-d’œuvre étrangère dans l’agriculture. Cette décision est comprise comme une réponse à la demande de personnel sur les sites agricoles. Les données montrent que le nombre a dépassé 100 000 sur la seule première moitié de l’année, ce qui attire l’attention par son ampleur record. Elle devrait influer sur la disponibilité de la main-d’œuvre et la gestion du personnel agricole. Source : yna.co.kr."
+      },
+      "ar": {
+        "title": "تخصيص 104 آلاف عامل أجنبي للزراعة في النصف الأول بحجم قياسي",
+        "excerpt": "في النصف الأول من هذا العام، خُصص 104 آلاف عامل أجنبي للقطاع الزراعي، في أكبر حجم مسجل لتلبية احتياجات العمالة الميدانية.",
+        "body": "في النصف الأول من هذا العام، بلغ عدد العمال الأجانب المخصصين للقطاع الزراعي 104 آلاف عامل. ويعد هذا أكبر حجم مسجل لتخصيص العمالة الأجنبية في مجال الزراعة. وتأتي هذه الخطوة استجابة لاحتياجات العمالة في مواقع العمل الزراعي. وتظهر الأرقام أن العدد تجاوز 100 ألف في النصف الأول وحده، ما يجعله لافتا من حيث الحجم القياسي. ومن المتوقع أن يؤثر ذلك في تأمين العمالة وإدارة القوى العاملة في الحقول، بما في ذلك فترات الذروة الزراعية. المصدر: yna.co.kr."
+      },
+      "hi": {
+        "title": "कृषि में विदेशी श्रमिकों का आवंटन 1.04 लाख, पहली छमाही में रिकॉर्ड",
+        "excerpt": "इस वर्ष की पहली छमाही में कृषि क्षेत्र को 1.04 लाख विदेशी श्रमिक आवंटित किए गए, जो अब तक का सबसे बड़ा स्तर है।",
+        "body": "इस वर्ष की पहली छमाही में कृषि क्षेत्र के लिए 1.04 लाख विदेशी श्रमिकों का आवंटन किया गया। यह कृषि क्षेत्र में विदेशी श्रम आवंटन का अब तक का सबसे बड़ा स्तर है। इस कदम को कृषि कार्यस्थलों पर श्रमिकों की मांग का जवाब माना जा रहा है। उपलब्ध आंकड़ों के अनुसार, पहली छमाही में ही संख्या 1 लाख से ऊपर पहुंच गई, इसलिए इसका रिकॉर्ड आकार ध्यान खींचता है। इससे व्यस्त खेती के मौसम सहित खेतों में श्रमिक उपलब्धता और कृषि श्रम संचालन पर असर पड़ने की उम्मीद है। स्रोत: yna.co.kr."
+      },
+      "id": {
+        "title": "Tenaga kerja asing pertanian semester I capai 104 ribu, rekor terbesar",
+        "excerpt": "Pada semester pertama tahun ini, sektor pertanian mendapat alokasi 104 ribu tenaga kerja asing, jumlah terbesar yang pernah tercatat.",
+        "body": "Pada semester pertama tahun ini, tenaga kerja asing yang dialokasikan ke sektor pertanian mencapai 104 ribu orang. Angka ini merupakan skala terbesar yang pernah tercatat untuk alokasi tenaga kerja asing di bidang pertanian. Alokasi tersebut dipahami sebagai langkah untuk merespons kebutuhan tenaga kerja di lapangan pertanian. Berdasarkan angka terkait, jumlahnya melampaui 100 ribu hanya dalam paruh pertama tahun ini, sehingga menarik perhatian karena skalanya yang rekor. Hal ini diperkirakan berdampak pada ketersediaan tenaga kerja dan pengelolaan sumber daya manusia pertanian. Sumber: yna.co.kr."
+      }
+    }
+  },
+  {
+    "id": "c1ef16297c81",
+    "slug": "테슬라-거품-비판하던-버리-이번엔-반도체-버블-523256",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-05-09T09:42:24.199Z",
+    "updatedAt": "2026-05-09T09:42:24.199Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/2026050957087",
+    "canonicalUrl": "https://www.hankyung.com/article/2026050957087",
+    "titleFingerprint": "dae55bc1dcc10dfb41db8ef6ec4508512bfa0bc1",
+    "dedupKeys": [
+      "c1ef16297c8139c1d7618cb6b06e2c977b5aceca",
+      "dae55bc1dcc10dfb41db8ef6ec4508512bfa0bc1",
+      "6f75c37a58077fedb1b01f90c7ff4bdb013f717b"
+    ],
+    "imageUrl": "/images/articles/c1ef16297c81.jpg",
+    "i18n": {
+      "ko": {
+        "title": "마이클 버리, 테슬라 고평가 비판 이어 SOXX 풋옵션으로 반도체 버블 경고",
+        "excerpt": "빅쇼트 투자자 마이클 버리가 4월 24일 장 마감 뒤 서브스택에서 반도체 ETF SOXX 풋옵션 매수를 공개하며 최근 상승이 펀더멘털보다 기술적 요인이라고 주장했다.",
+        "body": "영화 빅쇼트의 실제 모델로 알려진 투자자 마이클 버리가 테슬라 고평가 비판에 이어 반도체주 약세에 베팅했다. hankyung.com에 따르면 버리는 4월 24일 장 마감 후 서브스택에서 아이셰어즈 반도체 ETF, SOXX의 2027년 1월 만기 330달러 풋옵션을 상당량 매수했다고 밝혔다. 당시 SOXX 가격은 약 455달러로, 30%가량 하락을 예상한 포지션이다. 그는 최근 18거래일 연속 상승이 펀더멘털보다 기술적 요인에 따른 현상이라고 봤다. 반면 마이크로소프트와 어도비 등 소프트웨어주는 매수한 것으로 전해졌다. 출처: hankyung.com."
+      },
+      "en": {
+        "title": "Michael Burry Warns on Semiconductor Bubble With SOXX Put Options After Tesla Critique",
+        "excerpt": "Big Short investor Michael Burry said after the April 24 close that he bought put options on semiconductor ETF SOXX, arguing the rally was driven more by technical factors than fundamentals.",
+        "body": "Michael Burry, the investor associated with The Big Short, has followed his criticism of Tesla’s valuation with a bearish bet on semiconductor stocks. According to hankyung.com, Burry wrote on Substack after the April 24 market close that he had bought a sizable position in January 2027 $330 puts on the iShares Semiconductor ETF, SOXX. With SOXX trading around $455 at the time, the position implies a view that the ETF could fall by about 30%. He argued that the recent 18-session winning streak reflected technical factors rather than fundamentals. The report also said he bought software names including Microsoft and Adobe. Source: hankyung.com."
+      },
+      "ja": {
+        "title": "マイケル・バーリ氏、テスラ高評価批判に続きSOXXプットで半導体バブル警告",
+        "excerpt": "ビッグ・ショートの投資家マイケル・バーリ氏は4月24日の取引終了後、半導体ETFのSOXXプット購入を明かし、上昇はファンダメンタルズより需給要因だと主張した。",
+        "body": "映画ビッグ・ショートの実在モデルとして知られる投資家マイケル・バーリ氏が、テスラの高すぎる評価を批判した後、半導体株の下落に賭けた。hankyung.comによると、バーリ氏は4月24日の取引終了後、サブスタックでiシェアーズ半導体ETF、SOXXの2027年1月満期330ドルプットを相当量購入したと明らかにした。当時SOXXは約455ドルで、約30%の下落を見込むポジションとなる。氏は直近18営業日連続の上昇について、ファンダメンタルズより技術的要因によるものだと見た。一方でマイクロソフトやアドビなどソフトウェア株は買ったと報じられた。出典: hankyung.com."
+      },
+      "zh": {
+        "title": "迈克尔·伯里继批评特斯拉高估后 以SOXX看跌期权警告半导体泡沫",
+        "excerpt": "大空头投资者迈克尔·伯里在4月24日收盘后称已买入半导体ETF SOXX看跌期权，并认为近期上涨更多来自技术性因素而非基本面。",
+        "body": "电影大空头原型投资者迈克尔·伯里在批评特斯拉估值过高后，又押注半导体股走弱。据hankyung.com报道，伯里在4月24日收盘后通过Substack表示，已大量买入iShares半导体ETF SOXX于2027年1月到期、行权价330美元的看跌期权。当时SOXX约为455美元，这一仓位意味着他预期该ETF可能下跌约30%。他认为，近期连续18个交易日上涨主要是技术性因素推动，而非基本面改善。报道称，他同时买入了微软、Adobe等软件股。来源: hankyung.com."
+      },
+      "es": {
+        "title": "Michael Burry advierte burbuja en semiconductores con puts de SOXX tras criticar a Tesla",
+        "excerpt": "Michael Burry, inversor de The Big Short, dijo tras el cierre del 24 de abril que compró puts del ETF SOXX y sostuvo que el rally respondió más a factores técnicos que a fundamentos.",
+        "body": "Michael Burry, inversor asociado con The Big Short, pasó de criticar la valoración de Tesla a apostar por una caída de las acciones de semiconductores. Según hankyung.com, Burry publicó en Substack después del cierre del 24 de abril que había comprado una posición considerable en opciones put del ETF iShares Semiconductor, SOXX, con vencimiento en enero de 2027 y precio de ejercicio de 330 dólares. Con SOXX cerca de 455 dólares en ese momento, la posición implica una posible caída de alrededor del 30%. Burry sostuvo que la racha de 18 sesiones al alza se debió más a factores técnicos que a fundamentos. El informe añadió que compró acciones de software como Microsoft y Adobe. Fuente: hankyung.com."
+      },
+      "pt": {
+        "title": "Michael Burry alerta para bolha de semicondutores com puts de SOXX após crítica à Tesla",
+        "excerpt": "Michael Burry, investidor de The Big Short, disse após o fechamento de 24 de abril que comprou puts do ETF SOXX, afirmando que a alta recente foi mais técnica do que fundamentalista.",
+        "body": "Michael Burry, investidor ligado a The Big Short, voltou sua atenção da crítica à avaliação da Tesla para uma aposta de queda em ações de semicondutores. Segundo o hankyung.com, Burry escreveu no Substack após o fechamento de 24 de abril que comprou uma posição relevante em opções de venda do iShares Semiconductor ETF, SOXX, com vencimento em janeiro de 2027 e preço de exercício de 330 dólares. Como o SOXX estava perto de 455 dólares, a posição sugere expectativa de queda de cerca de 30%. Ele avaliou que a sequência de 18 pregões de alta refletiu mais fatores técnicos do que fundamentos. O texto também informou compras em software, incluindo Microsoft e Adobe. Fonte: hankyung.com."
+      },
+      "de": {
+        "title": "Michael Burry warnt nach Tesla-Kritik mit SOXX-Puts vor Halbleiterblase",
+        "excerpt": "Big-Short-Investor Michael Burry erklärte nach Handelsschluss am 24. April, er habe Put-Optionen auf den Halbleiter-ETF SOXX gekauft und sehe den Anstieg eher technisch als fundamental getrieben.",
+        "body": "Michael Burry, bekannt als Investor hinter The Big Short, hat nach seiner Kritik an der Bewertung von Tesla auf fallende Halbleiterwerte gesetzt. Laut hankyung.com schrieb Burry nach Handelsschluss am 24. April auf Substack, er habe in größerem Umfang Put-Optionen auf den iShares Semiconductor ETF, SOXX, mit Laufzeit Januar 2027 und Ausübungspreis 330 Dollar gekauft. Bei einem damaligen SOXX-Preis von rund 455 Dollar entspricht dies einer Erwartung eines Rückgangs um etwa 30%. Burry wertete die jüngste Serie von 18 Gewinntagen eher als technisches Phänomen denn als fundamental begründet. Zugleich kaufte er dem Bericht zufolge Softwarewerte wie Microsoft und Adobe. Quelle: hankyung.com."
+      },
+      "fr": {
+        "title": "Michael Burry alerte sur une bulle des semi-conducteurs avec des puts SOXX après Tesla",
+        "excerpt": "Michael Burry, investisseur de The Big Short, a indiqué après la clôture du 24 avril avoir acheté des puts sur l’ETF SOXX, jugeant la hausse récente plus technique que fondamentale.",
+        "body": "Michael Burry, investisseur associé à The Big Short, a enchaîné après ses critiques sur la valorisation de Tesla avec un pari baissier sur les semi-conducteurs. Selon hankyung.com, Burry a écrit sur Substack après la clôture du 24 avril qu’il avait acheté une position importante en options de vente sur l’iShares Semiconductor ETF, SOXX, échéance janvier 2027 et prix d’exercice de 330 dollars. SOXX valait alors environ 455 dollars, ce qui implique une anticipation de baisse d’environ 30%. Il a estimé que la série récente de 18 séances de hausse relevait davantage de facteurs techniques que des fondamentaux. Le média indique aussi qu’il a acheté des valeurs logicielles comme Microsoft et Adobe. Source: hankyung.com."
+      },
+      "ar": {
+        "title": "مايكل بَري يحذر من فقاعة أشباه الموصلات عبر خيارات SOXX بعد انتقاد تسلا",
+        "excerpt": "قال مايكل بَري، مستثمر ذا بيغ شورت، بعد إغلاق 24 أبريل إنه اشترى خيارات بيع على صندوق SOXX لأشباه الموصلات، معتبرا أن الصعود الأخير تقني أكثر منه أساسيا.",
+        "body": "انتقل مايكل بَري، المستثمر المعروف بارتباطه بقصة ذا بيغ شورت، من انتقاد تقييم تسلا إلى الرهان على ضعف أسهم أشباه الموصلات. وبحسب hankyung.com، كتب بَري على منصة Substack بعد إغلاق السوق في 24 أبريل أنه اشترى كمية كبيرة من خيارات البيع على صندوق iShares Semiconductor ETF، ورمزه SOXX، بسعر تنفيذ 330 دولارا واستحقاق يناير 2027. وكان سعر SOXX حينها نحو 455 دولارا، ما يعني أن المركز يراهن على هبوط يقارب 30%. ورأى أن سلسلة الارتفاع التي امتدت 18 جلسة جاءت بفعل عوامل فنية أكثر من أساسيات الشركات. كما ذكر التقرير أنه اشترى أسهم برمجيات مثل مايكروسوفت وأدوبي. المصدر: hankyung.com."
+      },
+      "hi": {
+        "title": "टेस्ला आलोचना के बाद माइकल बरी ने SOXX पुट से सेमीकंडक्टर बबल की चेतावनी दी",
+        "excerpt": "द बिग शॉर्ट से जुड़े निवेशक माइकल बरी ने 24 अप्रैल को बाजार बंद होने के बाद कहा कि उन्होंने SOXX सेमीकंडक्टर ETF पर पुट खरीदे और तेजी को तकनीकी बताया।",
+        "body": "फिल्म द बिग शॉर्ट से जुड़े निवेशक माइकल बरी ने टेस्ला के उच्च मूल्यांकन की आलोचना के बाद सेमीकंडक्टर शेयरों में गिरावट पर दांव लगाया है। hankyung.com के अनुसार, बरी ने 24 अप्रैल को बाजार बंद होने के बाद Substack पर लिखा कि उन्होंने iShares Semiconductor ETF, SOXX, के जनवरी 2027 में समाप्त होने वाले 330 डॉलर स्ट्राइक पुट विकल्प काफी मात्रा में खरीदे हैं। उस समय SOXX करीब 455 डॉलर पर था, इसलिए यह स्थिति लगभग 30% गिरावट की उम्मीद दिखाती है। बरी ने कहा कि हाल की 18 कारोबारी सत्रों की लगातार तेजी फंडामेंटल से अधिक तकनीकी कारणों से आई। रिपोर्ट के अनुसार उन्होंने Microsoft और Adobe जैसे सॉफ्टवेयर शेयर भी खरीदे। स्रोत: hankyung.com."
+      },
+      "id": {
+        "title": "Michael Burry Peringatkan Bubble Semikonduktor Lewat Put SOXX Setelah Kritik Tesla",
+        "excerpt": "Investor The Big Short Michael Burry mengatakan setelah penutupan 24 April bahwa ia membeli put ETF semikonduktor SOXX dan menilai reli terbaru lebih dipicu faktor teknikal daripada fundamental.",
+        "body": "Michael Burry, investor yang dikenal lewat The Big Short, melanjutkan kritiknya atas valuasi Tesla dengan taruhan bearish pada saham semikonduktor. Menurut hankyung.com, Burry menulis di Substack setelah penutupan pasar 24 April bahwa ia membeli cukup banyak opsi put iShares Semiconductor ETF, SOXX, jatuh tempo Januari 2027 dengan harga eksekusi 330 dolar. Saat itu SOXX berada di sekitar 455 dolar, sehingga posisi tersebut mencerminkan pandangan bahwa ETF dapat turun sekitar 30%. Ia menilai kenaikan 18 sesi berturut-turut lebih disebabkan faktor teknikal daripada fundamental. Laporan itu juga menyebut ia membeli saham perangkat lunak seperti Microsoft dan Adobe. Sumber: hankyung.com."
+      }
+    }
+  },
+  {
     "id": "bb22ee689ab8",
     "slug": "전세사기-피해-청년에-학자금-대출-상환-지원한다-815727",
     "channelId": "ETF",
@@ -4271,231 +4496,6 @@
         "title": "Target Harga Netmarble Dipangkas saat Sentimen Investor Mendingin",
         "excerpt": "Hankyung melaporkan bahwa sentimen investor terhadap Netmarble mendingin, mendorong sekuritas memangkas target harga secara luas.",
         "body": "Hankyung menerbitkan analisis tentang melemahnya sentimen investor terhadap Netmarble dan pemangkasan target harga secara luas oleh perusahaan sekuritas. Berdasarkan informasi yang tersedia, inti penyesuaian ini adalah melemahnya ekspektasi pasar terhadap Netmarble. Informasi sumber yang diberikan tidak memuat angka target harga spesifik atau besaran penyesuaian dari masing-masing sekuritas. Namun, judul menekankan bahwa beberapa sekuritas menurunkan pandangan ke arah yang sama. Hal ini menunjukkan pasar sedang menilai ulang prospek saham dan dasar investasi Netmarble. Sumber: hankyung.com"
-      }
-    }
-  },
-  {
-    "id": "77fbba971971",
-    "slug": "hd현대마린엔진-분석-엔진부문-고수익-구조-강화2분기-이후-가동률-상승-699799",
-    "channelId": "ETF",
-    "category": "etf",
-    "publishedAt": "2026-05-08T19:54:31.541Z",
-    "updatedAt": "2026-05-08T19:54:31.541Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/202605084043i",
-    "canonicalUrl": "https://www.hankyung.com/article/202605084043i",
-    "titleFingerprint": "187c9dde59b923f00e346228466ef641caa278b4",
-    "dedupKeys": [
-      "77fbba9719711a5086495d951cedb9f3a8e9a18a",
-      "187c9dde59b923f00e346228466ef641caa278b4",
-      "06c7438236dc8811332376d661b9a97a5fbab0d0"
-    ],
-    "imageUrl": "/images/articles/77fbba971971.jpg",
-    "i18n": {
-      "ko": {
-        "title": "HD현대마린엔진 엔진부문 고수익 구조 강화, 2분기 이후 가동률 상승 전망",
-        "excerpt": "HD현대마린엔진은 엔진부문에서 고수익 구조를 강화하고 있으며, 2분기 이후 가동률 상승이 예상된다는 분석이 hankyung.com을 통해 전해졌다.",
-        "body": "HD현대마린엔진은 엔진부문을 중심으로 고수익 구조를 강화하고 있으며, 2분기 이후 가동률이 상승할 것으로 분석됐다. 이번 분석은 엔진부문의 수익성 개선 흐름과 생산 가동률 전망에 초점을 맞췄다. 원문은 회사의 엔진부문이 고수익 구조를 강화하는 방향으로 전개되고 있으며, 2분기 이후에는 가동률 상승이 이어질 가능성을 제시했다. 이는 향후 실적 흐름을 살펴볼 때 엔진부문의 역할이 중요하다는 점을 보여준다. 출처는 hankyung.com이다."
-      },
-      "en": {
-        "title": "HD Hyundai Marine Engine Strengthens High-Margin Engine Business as Utilization Seen Rising After Q2",
-        "excerpt": "HD Hyundai Marine Engine is strengthening a high-margin structure in its engine division, with utilization expected to rise after the second quarter, according to hankyung.com.",
-        "body": "HD Hyundai Marine Engine is strengthening a high-margin structure centered on its engine division, and utilization is expected to rise after the second quarter. The analysis focuses on the profitability trend of the engine business and the outlook for production utilization. The original report said the company’s engine division is moving toward a stronger high-margin structure, while utilization may increase after Q2. This indicates that the engine division will remain an important factor when watching the company’s future performance trend. Source: hankyung.com."
-      },
-      "ja": {
-        "title": "HD現代マリンエンジン、エンジン部門の高収益構造を強化 2四半期以降に稼働率上昇見通し",
-        "excerpt": "HD現代マリンエンジンはエンジン部門で高収益構造を強化しており、第2四半期以降に稼働率上昇が見込まれるとの分析がhankyung.comで伝えられた。",
-        "body": "HD現代マリンエンジンは、エンジン部門を中心に高収益構造を強化しており、第2四半期以降に稼働率が上昇すると分析された。今回の分析は、エンジン部門の収益性改善の流れと生産稼働率の見通しに焦点を当てている。原文は、同社のエンジン部門が高収益構造を強める方向で進んでおり、第2四半期以降には稼働率上昇が続く可能性を示した。今後の業績動向を見るうえで、エンジン部門の役割が重要であることを示している。出典はhankyung.com。"
-      },
-      "zh": {
-        "title": "HD现代Marine Engine强化发动机高收益结构，二季度后开工率有望上升",
-        "excerpt": "据hankyung.com分析，HD现代Marine Engine正强化发动机部门高收益结构，二季度后产能开工率预计将上升。",
-        "body": "HD现代Marine Engine正以发动机部门为中心强化高收益结构，分析认为二季度以后开工率有望上升。此次分析聚焦发动机业务盈利能力改善趋势以及生产开工率前景。原文指出，公司发动机部门正朝着强化高收益结构的方向发展，二季度以后开工率可能继续上升。这表明，在观察公司未来业绩走势时，发动机部门的作用较为重要。来源：hankyung.com。"
-      },
-      "es": {
-        "title": "HD Hyundai Marine Engine refuerza motores de alto margen y prevé mayor utilización tras el segundo trimestre",
-        "excerpt": "HD Hyundai Marine Engine refuerza la estructura de alta rentabilidad en su división de motores y prevé mayor utilización después del segundo trimestre, según hankyung.com.",
-        "body": "HD Hyundai Marine Engine está reforzando una estructura de alta rentabilidad centrada en su división de motores, y se espera que la utilización aumente después del segundo trimestre. El análisis se enfoca en la mejora de la rentabilidad del negocio de motores y en la perspectiva de utilización de producción. El informe original indicó que la división de motores de la compañía avanza hacia una estructura de mayores márgenes, mientras que la utilización podría subir tras el segundo trimestre. Esto muestra que la división de motores será un factor importante para seguir la evolución futura de resultados. Fuente: hankyung.com."
-      },
-      "pt": {
-        "title": "HD Hyundai Marine Engine reforça motores de alta margem e vê uso maior após o 2º trimestre",
-        "excerpt": "A HD Hyundai Marine Engine reforça a estrutura de alta rentabilidade na divisão de motores, com utilização prevista para subir após o segundo trimestre, segundo hankyung.com.",
-        "body": "A HD Hyundai Marine Engine está reforçando uma estrutura de alta rentabilidade centrada em sua divisão de motores, e a utilização deve subir após o segundo trimestre. A análise destaca a tendência de melhora da rentabilidade do negócio de motores e a perspectiva para a utilização da produção. O relatório original afirmou que a divisão de motores da empresa avança para uma estrutura de margens mais altas, enquanto a utilização pode aumentar depois do segundo trimestre. Isso mostra que a divisão de motores será relevante ao acompanhar o desempenho futuro da companhia. Fonte: hankyung.com."
-      },
-      "de": {
-        "title": "HD Hyundai Marine Engine stärkt margenstarkes Motorgeschäft, Auslastung soll nach Q2 steigen",
-        "excerpt": "HD Hyundai Marine Engine stärkt im Motorensegment eine ertragsstarke Struktur; nach dem zweiten Quartal wird laut hankyung.com eine höhere Auslastung erwartet.",
-        "body": "HD Hyundai Marine Engine stärkt eine ertragsstarke Struktur mit Schwerpunkt auf dem Motorensegment, und die Auslastung dürfte nach dem zweiten Quartal steigen. Die Analyse richtet den Blick auf die Profitabilitätsentwicklung des Motorengeschäfts und den Ausblick für die Produktionsauslastung. Der Originalbericht erklärte, dass sich das Motorensegment des Unternehmens in Richtung einer stärkeren margenstarken Struktur entwickelt und die Auslastung nach Q2 steigen könnte. Das zeigt, dass das Motorensegment bei der Beobachtung der künftigen Ergebnisentwicklung eine wichtige Rolle spielt. Quelle: hankyung.com."
-      },
-      "fr": {
-        "title": "HD Hyundai Marine Engine renforce ses moteurs à forte marge, utilisation attendue en hausse après le T2",
-        "excerpt": "HD Hyundai Marine Engine renforce la structure à forte rentabilité de sa division moteurs, avec une utilisation attendue en hausse après le deuxième trimestre, selon hankyung.com.",
-        "body": "HD Hyundai Marine Engine renforce une structure à forte rentabilité centrée sur sa division moteurs, et le taux d’utilisation devrait augmenter après le deuxième trimestre. L’analyse met l’accent sur l’amélioration de la rentabilité de l’activité moteurs et sur les perspectives d’utilisation de la production. Le rapport original indique que la division moteurs de l’entreprise évolue vers une structure de marges plus élevées, tandis que l’utilisation pourrait progresser après le T2. Cela montre que la division moteurs restera un facteur important pour suivre l’évolution future des résultats. Source : hankyung.com."
-      },
-      "ar": {
-        "title": "إتش دي هيونداي مارين إنجن تعزز ربحية قطاع المحركات مع توقع ارتفاع التشغيل بعد الربع الثاني",
-        "excerpt": "تعزز إتش دي هيونداي مارين إنجن هيكل الربحية المرتفعة في قطاع المحركات، مع توقع ارتفاع معدل التشغيل بعد الربع الثاني، وفق hankyung.com.",
-        "body": "تعزز إتش دي هيونداي مارين إنجن هيكلا عالي الربحية يتمحور حول قطاع المحركات، ومن المتوقع أن يرتفع معدل التشغيل بعد الربع الثاني. يركز التحليل على مسار تحسن ربحية قطاع المحركات وتوقعات تشغيل الإنتاج. وذكر التقرير الأصلي أن قطاع المحركات في الشركة يتجه نحو تعزيز هيكل ذي ربحية أعلى، بينما قد يرتفع معدل التشغيل بعد الربع الثاني. ويشير ذلك إلى أن دور قطاع المحركات سيكون مهما عند متابعة مسار الأداء المستقبلي للشركة. المصدر: hankyung.com."
-      },
-      "hi": {
-        "title": "HD Hyundai Marine Engine में इंजन कारोबार की उच्च लाभ संरचना मजबूत, दूसरी तिमाही के बाद उपयोग बढ़ने की उम्मीद",
-        "excerpt": "hankyung.com के अनुसार HD Hyundai Marine Engine अपने इंजन विभाग में उच्च लाभ संरचना मजबूत कर रही है और दूसरी तिमाही के बाद उपयोग दर बढ़ने की उम्मीद है।",
-        "body": "HD Hyundai Marine Engine अपने इंजन विभाग को केंद्र में रखकर उच्च लाभ वाली संरचना मजबूत कर रही है, और दूसरी तिमाही के बाद उपयोग दर बढ़ने का विश्लेषण सामने आया है। यह विश्लेषण इंजन कारोबार की लाभप्रदता में सुधार की दिशा और उत्पादन उपयोग दर के 전망 पर केंद्रित है। मूल रिपोर्ट के अनुसार कंपनी का इंजन विभाग उच्च लाभ संरचना को और मजबूत करने की दिशा में बढ़ रहा है, जबकि दूसरी तिमाही के बाद उपयोग दर बढ़ सकती है। इससे संकेत मिलता है कि भविष्य के प्रदर्शन को देखते समय इंजन विभाग की भूमिका महत्वपूर्ण रहेगी। स्रोत: hankyung.com।"
-      },
-      "id": {
-        "title": "HD Hyundai Marine Engine Perkuat Struktur Laba Tinggi, Utilisasi Diproyeksi Naik Setelah Kuartal II",
-        "excerpt": "HD Hyundai Marine Engine memperkuat struktur laba tinggi di divisi mesin, dengan utilisasi diperkirakan naik setelah kuartal kedua, menurut hankyung.com.",
-        "body": "HD Hyundai Marine Engine memperkuat struktur laba tinggi yang berpusat pada divisi mesin, dan utilisasi diperkirakan meningkat setelah kuartal kedua. Analisis ini berfokus pada tren perbaikan profitabilitas bisnis mesin serta prospek utilisasi produksi. Laporan asli menyebutkan bahwa divisi mesin perusahaan bergerak ke arah penguatan struktur berprofit tinggi, sementara utilisasi dapat meningkat setelah kuartal II. Hal ini menunjukkan bahwa divisi mesin menjadi faktor penting saat mencermati arah kinerja perusahaan ke depan. Sumber: hankyung.com."
-      }
-    }
-  },
-  {
-    "id": "5cc1fe948b26",
-    "slug": "bgf리테일-분석-2개-분기-연속-깜짝-실적편의점-점유율도-상승-239983",
-    "channelId": "ETF",
-    "category": "etf",
-    "publishedAt": "2026-05-08T19:53:41.079Z",
-    "updatedAt": "2026-05-08T19:53:41.079Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/202605084065i",
-    "canonicalUrl": "https://www.hankyung.com/article/202605084065i",
-    "titleFingerprint": "bd01d0fcf3b8cc24448866f24b7a2593ff5a741c",
-    "dedupKeys": [
-      "5cc1fe948b2627050892c50d56d54cea8dfff3da",
-      "bd01d0fcf3b8cc24448866f24b7a2593ff5a741c",
-      "f7a026d62d244790c0d8392b6777909360f0cbbf"
-    ],
-    "imageUrl": "/images/articles/5cc1fe948b26.jpg",
-    "i18n": {
-      "ko": {
-        "title": "BGF리테일, 2개 분기 연속 깜짝 실적…편의점 점유율 상승 주목",
-        "excerpt": "BGF리테일이 2개 분기 연속 시장 기대를 웃도는 깜짝 실적을 기록하고 편의점 점유율도 상승하면서 업계의 관심이 커지고 있다.",
-        "body": "BGF리테일은 최근 2개 분기 연속으로 ‘깜짝 실적’을 기록한 것으로 전해졌다. 편의점 사업을 중심으로 한 실적 흐름이 시장 기대를 웃돈 가운데, 편의점 점유율도 함께 상승했다는 점이 주목된다. 이번 흐름은 편의점 업황 속에서 BGF리테일의 영업 경쟁력과 점유율 확대가 동시에 부각된 사례로 해석된다. 다만 원문에서 제시된 핵심 내용은 2개 분기 연속 호실적과 편의점 점유율 상승에 한정된다. 향후 시장은 이 같은 실적 흐름이 이어질지와 점유율 상승세가 지속될지를 지켜볼 전망이다. 출처: hankyung.com"
-      },
-      "en": {
-        "title": "BGF Retail posts second straight earnings surprise as convenience-store share rises",
-        "excerpt": "BGF Retail has drawn attention after reporting earnings surprises for two consecutive quarters while also increasing its share in the convenience-store market.",
-        "body": "BGF Retail reportedly posted an earnings surprise for the second consecutive quarter. The company’s performance, centered on its convenience-store business, exceeded market expectations, while its convenience-store market share also rose. This combination has put renewed focus on BGF Retail’s operating competitiveness and share gains within the convenience-store sector. However, the source information is limited to the two straight quarters of strong results and the increase in convenience-store share. Market attention is expected to remain on whether this earnings trend continues and whether the share gains can be sustained. Source: hankyung.com"
-      },
-      "ja": {
-        "title": "BGFリテール、2四半期連続のサプライズ決算…コンビニシェア上昇に注目",
-        "excerpt": "BGFリテールは2四半期連続で市場予想を上回るサプライズ決算を記録し、コンビニ市場でのシェア上昇も注目されている。",
-        "body": "BGFリテールは最近、2四半期連続で「サプライズ決算」を記録したと伝えられた。コンビニ事業を中心とする業績が市場の期待を上回ったうえ、コンビニ市場でのシェアも上昇した点が注目される。今回の流れは、コンビニ業界におけるBGFリテールの営業競争力とシェア拡大が同時に浮き彫りになった事例といえる。ただし、原文で示された核心情報は2四半期連続の好業績とコンビニシェア上昇に限られる。今後はこの業績の流れとシェア上昇が続くかが焦点となる。出典: hankyung.com"
-      },
-      "zh": {
-        "title": "BGF Retail连续两个季度业绩超预期，便利店份额上升受关注",
-        "excerpt": "BGF Retail连续两个季度取得超出市场预期的业绩，同时便利店市场份额上升，引发行业关注。",
-        "body": "据报道，BGF Retail近期连续两个季度取得“惊喜业绩”。以便利店业务为中心的业绩表现超过市场预期，同时其便利店市场份额也出现上升，这一点受到关注。该走势显示，在便利店行业环境中，BGF Retail的经营竞争力和份额扩大同时被凸显。不过，原文提供的核心信息仅限于连续两个季度的良好业绩以及便利店份额上升。未来市场将关注这一业绩趋势能否延续，以及份额上升势头是否能够保持。来源: hankyung.com"
-      },
-      "es": {
-        "title": "BGF Retail sorprende por segundo trimestre seguido y eleva cuota en tiendas de conveniencia",
-        "excerpt": "BGF Retail atrajo atención tras registrar resultados mejores de lo esperado durante dos trimestres consecutivos y aumentar su cuota en tiendas de conveniencia.",
-        "body": "BGF Retail habría registrado una “sorpresa” en resultados por segundo trimestre consecutivo. El desempeño, centrado en su negocio de tiendas de conveniencia, superó las expectativas del mercado, mientras que su cuota en ese segmento también aumentó. Esta evolución destaca al mismo tiempo la competitividad operativa de BGF Retail y su avance en participación dentro del sector. No obstante, la información de origen se limita a los buenos resultados durante dos trimestres seguidos y al alza de la cuota en tiendas de conveniencia. El mercado observará si esta tendencia de resultados y participación continúa. Fuente: hankyung.com"
-      },
-      "pt": {
-        "title": "BGF Retail surpreende pelo 2º trimestre seguido e amplia fatia em lojas de conveniência",
-        "excerpt": "A BGF Retail chamou atenção ao registrar resultados acima do esperado por dois trimestres consecutivos e elevar sua participação em lojas de conveniência.",
-        "body": "A BGF Retail teria registrado uma “surpresa” nos resultados pelo segundo trimestre consecutivo. O desempenho, concentrado no negócio de lojas de conveniência, superou as expectativas do mercado, enquanto a participação da empresa nesse segmento também aumentou. Esse movimento destaca simultaneamente a competitividade operacional da BGF Retail e seu ganho de participação no setor. Ainda assim, as informações da fonte se limitam aos bons resultados por dois trimestres seguidos e ao aumento da fatia em lojas de conveniência. O mercado deve acompanhar se essa tendência de resultados e participação será mantida. Fonte: hankyung.com"
-      },
-      "de": {
-        "title": "BGF Retail überrascht zweites Quartal in Folge, Marktanteil bei Convenience-Stores steigt",
-        "excerpt": "BGF Retail rückt in den Fokus, nachdem das Unternehmen zwei Quartale in Folge besser als erwartet abschnitt und seinen Anteil im Convenience-Store-Markt steigerte.",
-        "body": "BGF Retail soll im zweiten Quartal in Folge eine positive Ergebnisüberraschung erzielt haben. Die Entwicklung, getragen vom Convenience-Store-Geschäft, übertraf die Markterwartungen, während zugleich der Marktanteil in diesem Segment stieg. Damit treten die operative Wettbewerbsfähigkeit von BGF Retail und die Ausweitung des Anteils im Convenience-Store-Sektor gemeinsam hervor. Die vorliegenden Angaben beschränken sich jedoch auf die zwei aufeinanderfolgenden starken Quartale und den höheren Convenience-Store-Anteil. Der Markt dürfte nun verfolgen, ob sich dieser Ergebnistrend und der Anteilszuwachs fortsetzen. Quelle: hankyung.com"
-      },
-      "fr": {
-        "title": "BGF Retail surprend pour le 2e trimestre consécutif et gagne des parts en supérettes",
-        "excerpt": "BGF Retail retient l’attention après deux trimestres consécutifs de résultats supérieurs aux attentes et une hausse de sa part dans les supérettes.",
-        "body": "BGF Retail aurait enregistré une « surprise » de résultats pour le deuxième trimestre consécutif. La performance, centrée sur son activité de supérettes, a dépassé les attentes du marché, tandis que sa part dans ce segment a également progressé. Cette évolution met en avant à la fois la compétitivité opérationnelle de BGF Retail et son gain de part dans le secteur des supérettes. Toutefois, les informations de la source se limitent aux bons résultats sur deux trimestres consécutifs et à la hausse de la part de marché. Le marché suivra désormais la poursuite éventuelle de cette tendance. Source: hankyung.com"
-      },
-      "ar": {
-        "title": "BGF Retail تحقق مفاجأة أرباح للربع الثاني وترفع حصتها في متاجر الراحة",
-        "excerpt": "لفتت BGF Retail الانتباه بعد تحقيق نتائج فاقت التوقعات لربعين متتاليين، بالتزامن مع ارتفاع حصتها في سوق متاجر الراحة.",
-        "body": "أفادت التقارير بأن BGF Retail سجلت «مفاجأة في النتائج» للربع الثاني على التوالي. وجاء الأداء، المرتكز على نشاط متاجر الراحة، أعلى من توقعات السوق، كما ارتفعت حصة الشركة في هذا القطاع. ويبرز هذا المسار في الوقت نفسه القدرة التشغيلية التنافسية للشركة وتوسع حصتها داخل سوق متاجر الراحة. ومع ذلك، تقتصر المعلومات الواردة في المصدر على تحقيق نتائج قوية لربعين متتاليين وارتفاع حصة متاجر الراحة. ومن المتوقع أن يراقب السوق ما إذا كان هذا الاتجاه في النتائج والحصة سيستمر. المصدر: hankyung.com"
-      },
-      "hi": {
-        "title": "BGF Retail ने लगातार दूसरी तिमाही चौंकाया, सुविधा स्टोर हिस्सेदारी भी बढ़ी",
-        "excerpt": "BGF Retail ने लगातार दो तिमाहियों में उम्मीद से बेहतर प्रदर्शन किया और सुविधा स्टोर बाजार में अपनी हिस्सेदारी बढ़ाई, जिससे बाजार का ध्यान इस पर गया।",
-        "body": "BGF Retail ने हाल में लगातार दूसरी तिमाही में ‘चौंकाने वाले’ नतीजे दर्ज किए बताए गए हैं। सुविधा स्टोर कारोबार पर केंद्रित प्रदर्शन बाजार की उम्मीदों से बेहतर रहा, जबकि सुविधा स्टोर बाजार में कंपनी की हिस्सेदारी भी बढ़ी। यह रुझान सुविधा स्टोर उद्योग में BGF Retail की परिचालन प्रतिस्पर्धा और हिस्सेदारी विस्तार को साथ-साथ दिखाता है। हालांकि स्रोत में दी गई मुख्य जानकारी लगातार दो तिमाहियों के मजबूत नतीजों और सुविधा स्टोर हिस्सेदारी में वृद्धि तक सीमित है। आगे बाजार यह देखेगा कि क्या यह प्रदर्शन और हिस्सेदारी बढ़ने का रुझान जारी रहता है। स्रोत: hankyung.com"
-      },
-      "id": {
-        "title": "BGF Retail cetak kejutan kinerja dua kuartal beruntun, pangsa minimarket naik",
-        "excerpt": "BGF Retail menjadi sorotan setelah mencatat kinerja di atas ekspektasi selama dua kuartal berturut-turut dan menaikkan pangsa di pasar minimarket.",
-        "body": "BGF Retail dilaporkan mencatat “kejutan kinerja” untuk kuartal kedua berturut-turut. Kinerja yang berpusat pada bisnis minimarket melampaui ekspektasi pasar, sementara pangsa perusahaan di pasar minimarket juga meningkat. Perkembangan ini menyoroti daya saing operasional BGF Retail sekaligus perluasan pangsanya di sektor minimarket. Namun, informasi dari sumber hanya mencakup kinerja kuat selama dua kuartal beruntun dan kenaikan pangsa minimarket. Ke depan, pasar akan mencermati apakah tren kinerja dan peningkatan pangsa tersebut dapat berlanjut. Sumber: hankyung.com"
-      }
-    }
-  },
-  {
-    "id": "de3064fe9ee5",
-    "slug": "씨에스윈드-분석-다시-확인된-수익성향후-주가-흐름은-미국에-달렸다-541065",
-    "channelId": "ETF",
-    "category": "etf",
-    "publishedAt": "2026-05-08T19:52:49.668Z",
-    "updatedAt": "2026-05-08T19:52:49.669Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/202605084091i",
-    "canonicalUrl": "https://www.hankyung.com/article/202605084091i",
-    "titleFingerprint": "9961df57266d5c2fe97bc0a41ada9aab2118fe47",
-    "dedupKeys": [
-      "de3064fe9ee5e3c49f28805c16e46f8098a5370f",
-      "9961df57266d5c2fe97bc0a41ada9aab2118fe47",
-      "949ae5770e18d187525908afe1eaf1c35a21f4d0"
-    ],
-    "imageUrl": "/images/articles/de3064fe9ee5.jpg",
-    "i18n": {
-      "ko": {
-        "title": "씨에스윈드 수익성 재확인, 향후 주가 흐름은 미국 변수에 달렸다",
-        "excerpt": "씨에스윈드는 한국경제 분석에서 수익성이 다시 확인됐지만, 향후 주가 방향은 미국 관련 변수에 좌우될 수 있다는 점이 핵심 관전 포인트로 제시됐다.",
-        "body": "씨에스윈드에 대한 한국경제 분석은 수익성이 다시 확인됐다는 점을 핵심으로 짚었다. 풍력 관련 기업인 씨에스윈드는 최근 시장에서 실적과 주가 흐름을 함께 점검받고 있으며, 이번 분석의 초점은 확인된 수익성이 앞으로 주가에 얼마나 반영될지에 맞춰졌다. 다만 원문은 향후 주가 흐름이 미국에 달려 있다고 봤다. 이는 씨에스윈드의 사업과 투자심리에 미국 관련 환경이 중요한 변수로 작용할 수 있다는 의미다. 투자자 입장에서는 수익성 확인 자체보다 미국 변수가 주가 방향을 좌우할 가능성을 함께 봐야 한다. 출처: hankyung.com"
-      },
-      "en": {
-        "title": "CS Wind Profitability Reconfirmed as Future Share Moves Hinge on U.S. Factors",
-        "excerpt": "CS Wind’s profitability was reaffirmed in a Hankyung analysis, but the key issue is whether future share-price direction will depend on U.S.-related factors.",
-        "body": "A Hankyung analysis of CS Wind focused on the fact that its profitability has been reaffirmed. The wind-power-related company is being assessed by the market through both earnings quality and share-price momentum, with attention on how much the confirmed profitability may be reflected in the stock. The original report said, however, that the future share-price path depends on the United States. This means U.S.-related conditions may remain an important variable for CS Wind’s business and investor sentiment. For investors, the issue is not only the confirmed profitability but also how U.S. factors may shape the stock’s direction. Source: hankyung.com"
-      },
-      "ja": {
-        "title": "CSウインドの収益性を再確認、今後の株価は米国要因が焦点に",
-        "excerpt": "韓国経済の分析でCSウインドの収益性は再確認されたが、今後の株価の方向性は米国関連要因に左右され得る点が焦点とされた。",
-        "body": "韓国経済によるCSウインド分析は、収益性が改めて確認された点を中心に取り上げた。風力関連企業であるCSウインドは、最近の市場で業績面と株価動向を同時に点検されており、今回の分析では確認された収益性が今後どの程度株価に反映されるかが注目された。ただし原文は、今後の株価の流れは米国にかかっているとした。これは、CSウインドの事業と投資心理に米国関連の環境が重要な変数として作用し得ることを意味する。投資家は収益性の確認だけでなく、米国要因が株価方向を左右する可能性も見る必要がある。出典: hankyung.com"
-      },
-      "zh": {
-        "title": "CS Wind盈利能力再获确认，未来股价走势取决于美国变量",
-        "excerpt": "韩国经济的分析指出，CS Wind盈利能力再次得到确认，但未来股价方向可能受美国相关因素影响，这是核心观察点。",
-        "body": "韩国经济对CS Wind的分析重点指出，该公司的盈利能力再次得到确认。作为风电相关企业，CS Wind近期在市场上同时受到业绩与股价走势的检视，本次分析的焦点在于已确认的盈利能力未来能在多大程度上反映到股价中。不过，原文认为其未来股价走势取决于美国。这意味着美国相关环境可能成为影响CS Wind业务和投资情绪的重要变量。对投资者而言，需要关注的不只是盈利能力已获确认，还包括美国因素左右股价方向的可能性。来源: hankyung.com"
-      },
-      "es": {
-        "title": "CS Wind reafirma rentabilidad y su acción queda pendiente de factores de EE. UU.",
-        "excerpt": "Un análisis de Hankyung señaló que CS Wind volvió a confirmar su rentabilidad, aunque la dirección futura de la acción dependería de factores vinculados a EE. UU.",
-        "body": "El análisis de Hankyung sobre CS Wind destacó como punto central que su rentabilidad fue confirmada nuevamente. La compañía, vinculada al sector eólico, está siendo evaluada por el mercado tanto por su desempeño como por la evolución de su acción, y el foco está en cuánto podrá reflejarse esa rentabilidad en el precio bursátil. Sin embargo, el texto original indicó que el rumbo futuro de la acción depende de Estados Unidos. Esto implica que el entorno relacionado con EE. UU. puede actuar como una variable importante para el negocio de CS Wind y para el sentimiento inversor. Para los inversores, no solo importa la rentabilidad confirmada, sino también el peso de los factores estadounidenses en la dirección de la acción. Fuente: hankyung.com"
-      },
-      "pt": {
-        "title": "CS Wind reafirma rentabilidade e ação passa a depender de fatores dos EUA",
-        "excerpt": "Análise da Hankyung apontou que a rentabilidade da CS Wind foi novamente confirmada, mas o rumo futuro das ações pode depender de fatores ligados aos EUA.",
-        "body": "A análise da Hankyung sobre a CS Wind destacou como ponto principal a rentabilidade novamente confirmada. A empresa ligada ao setor de energia eólica vem sendo observada pelo mercado tanto pelo desempenho quanto pela trajetória das ações, e o foco está em quanto essa rentabilidade confirmada poderá ser refletida no preço. No entanto, o texto original afirmou que o movimento futuro das ações depende dos Estados Unidos. Isso significa que o ambiente relacionado aos EUA pode funcionar como uma variável importante para os negócios da CS Wind e para o sentimento dos investidores. Para o investidor, não basta observar a confirmação da rentabilidade; também é necessário acompanhar como os fatores dos EUA podem influenciar a direção da ação. Fonte: hankyung.com"
-      },
-      "de": {
-        "title": "CS Wind bestätigt Profitabilität, doch Aktienkurs hängt an US-Faktoren",
-        "excerpt": "Eine Analyse von Hankyung sieht die Profitabilität von CS Wind erneut bestätigt, nennt aber US-bezogene Faktoren als entscheidend für den weiteren Aktienkurs.",
-        "body": "Die Hankyung-Analyse zu CS Wind stellt die erneut bestätigte Profitabilität in den Mittelpunkt. Das Windkraftunternehmen wird am Markt sowohl mit Blick auf die Geschäftsentwicklung als auch auf den Aktienkurs geprüft. Entscheidend ist dabei, in welchem Umfang sich die bestätigte Profitabilität künftig im Kurs niederschlagen kann. Der Originalbericht betonte jedoch, dass der weitere Verlauf der Aktie von den USA abhängt. Damit können US-bezogene Rahmenbedingungen eine wichtige Variable für das Geschäft von CS Wind und die Anlegerstimmung bleiben. Für Investoren zählt daher nicht nur die bestätigte Profitabilität, sondern auch die Frage, wie stark US-Faktoren die Kursrichtung beeinflussen. Quelle: hankyung.com"
-      },
-      "fr": {
-        "title": "CS Wind confirme sa rentabilité, mais son action dépendra des facteurs américains",
-        "excerpt": "Selon une analyse de Hankyung, la rentabilité de CS Wind a de nouveau été confirmée, tandis que l’évolution future du titre dépendrait de facteurs liés aux États-Unis.",
-        "body": "L’analyse de Hankyung consacrée à CS Wind met l’accent sur une rentabilité de nouveau confirmée. L’entreprise liée à l’éolien est observée par le marché à la fois sous l’angle de ses performances et de l’évolution de son action, avec une question centrale: dans quelle mesure cette rentabilité confirmée pourra-t-elle se refléter dans le cours? Le texte original indique toutefois que la trajectoire future du titre dépend des États-Unis. Cela signifie que l’environnement lié aux États-Unis peut rester une variable importante pour l’activité de CS Wind et le sentiment des investisseurs. Pour ces derniers, il faut donc regarder non seulement la rentabilité confirmée, mais aussi l’influence possible des facteurs américains sur l’action. Source: hankyung.com"
-      },
-      "ar": {
-        "title": "ربحية CS Wind تتأكد مجددا ومسار السهم مرهون بعوامل أمريكية",
-        "excerpt": "أشار تحليل هانكيونغ إلى أن ربحية CS Wind تأكدت مجددا، لكن الاتجاه المستقبلي لسعر السهم قد يتوقف على عوامل مرتبطة بالولايات المتحدة.",
-        "body": "ركز تحليل هانكيونغ بشأن CS Wind على أن ربحية الشركة تأكدت من جديد. وتخضع الشركة المرتبطة بقطاع طاقة الرياح لتقييم السوق من زاويتين: الأداء وحركة السهم، بينما ينصب الاهتمام على مدى انعكاس هذه الربحية المؤكدة في السعر مستقبلا. غير أن النص الأصلي أشار إلى أن مسار السهم في المرحلة المقبلة يعتمد على الولايات المتحدة. وهذا يعني أن البيئة المرتبطة بالولايات المتحدة قد تبقى متغيرا مهما لأعمال CS Wind ولمعنويات المستثمرين. لذلك لا تكفي متابعة تأكيد الربحية وحده، بل ينبغي أيضا مراقبة احتمال تأثير العوامل الأمريكية في اتجاه السهم. المصدر: hankyung.com"
-      },
-      "hi": {
-        "title": "CS Wind की लाभप्रदता फिर पुष्ट, आगे शेयर चाल अमेरिकी कारकों पर निर्भर",
-        "excerpt": "Hankyung के विश्लेषण में CS Wind की लाभप्रदता फिर पुष्ट बताई गई, लेकिन आगे शेयर की दिशा अमेरिकी संबंधित कारकों पर निर्भर रह सकती है।",
-        "body": "Hankyung के CS Wind विश्लेषण ने इस बात को मुख्य रूप से रेखांकित किया कि कंपनी की लाभप्रदता फिर से पुष्ट हुई है। पवन ऊर्जा से जुड़ी CS Wind को बाजार हाल में प्रदर्शन और शेयर चाल, दोनों आधारों पर परख रहा है। इस विश्लेषण का ध्यान इस पर है कि पुष्ट लाभप्रदता आगे शेयर मूल्य में कितनी झलक सकती है। हालांकि मूल लेख ने कहा कि आगे शेयर की दिशा अमेरिका पर निर्भर है। इसका अर्थ है कि अमेरिकी संबंधित माहौल CS Wind के कारोबार और निवेशक धारणा के लिए अहम कारक बन सकता है। निवेशकों के लिए केवल लाभप्रदता की पुष्टि नहीं, बल्कि यह भी देखना जरूरी है कि अमेरिकी कारक शेयर की दिशा को कैसे प्रभावित कर सकते हैं। स्रोत: hankyung.com"
-      },
-      "id": {
-        "title": "Profitabilitas CS Wind Dikonfirmasi Lagi, Arah Saham Bergantung pada AS",
-        "excerpt": "Analisis Hankyung menyebut profitabilitas CS Wind kembali terkonfirmasi, tetapi arah harga saham ke depan dapat bergantung pada faktor terkait Amerika Serikat.",
-        "body": "Analisis Hankyung mengenai CS Wind menyoroti bahwa profitabilitas perusahaan kembali terkonfirmasi. Perusahaan yang terkait dengan sektor tenaga angin ini sedang dinilai pasar dari sisi kinerja dan pergerakan saham, dengan fokus pada seberapa jauh profitabilitas yang sudah terbukti dapat tercermin dalam harga saham. Namun, naskah asli menyebut bahwa arah saham ke depan bergantung pada Amerika Serikat. Artinya, lingkungan terkait AS dapat menjadi variabel penting bagi bisnis CS Wind dan sentimen investor. Bagi investor, yang perlu diperhatikan bukan hanya konfirmasi profitabilitas, tetapi juga kemungkinan faktor AS memengaruhi arah saham. Sumber: hankyung.com"
       }
     }
   }
