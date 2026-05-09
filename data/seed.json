@@ -1,5 +1,230 @@
 [
   {
+    "id": "3876bdc91fa5",
+    "slug": "부산은행-부산-수출입기업에-1천억원-규모-대출-857926",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-05-09T12:55:15.814Z",
+    "updatedAt": "2026-05-09T12:55:15.814Z",
+    "sourceName": "yna.co.kr",
+    "sourceUrl": "https://www.yna.co.kr/view/AKR20260508124200051",
+    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260508124200051",
+    "titleFingerprint": "b507c2b5a35665d8ab70f0046480b015eadc7ebe",
+    "dedupKeys": [
+      "3876bdc91fa5e112bc06bc55ebc81932a82c9585",
+      "b507c2b5a35665d8ab70f0046480b015eadc7ebe",
+      "a10463ca72a83da5aa6c25249c27822d01841d8b"
+    ],
+    "imageUrl": "/images/articles/3876bdc91fa5.jpg",
+    "i18n": {
+      "ko": {
+        "title": "BNK부산은행, 부산 수출입기업에 1천억원 대출…중동분쟁·공급망 불안 대응",
+        "excerpt": "BNK부산은행은 8일 중동분쟁 장기화와 글로벌 공급망 불안으로 어려움을 겪는 부산 지역 수출입기업을 지원하기 위해 1천억원 규모 대출을 제공한다고 밝혔다.",
+        "body": "BNK부산은행은 8일 부산 지역 수출입기업을 대상으로 1천억원 규모의 대출 지원에 나선다고 밝혔다. 이번 지원은 중동분쟁 장기화와 글로벌 공급망 불안으로 경영 부담을 겪는 지역 기업을 돕기 위한 조치다. 지원 대상은 부산의 수출입기업이며, 대출 규모는 총 1천억원이다. 은행은 지역 기업의 자금 애로 완화와 무역 활동 지속에 초점을 맞췄다. 대외 불확실성이 이어지는 가운데 이번 금융 지원은 부산 수출입기업의 단기 유동성 확보에 보탬이 될 전망이다. 출처: yna.co.kr 인용."
+      },
+      "en": {
+        "title": "BNK Busan Bank to Lend 100 Billion Won to Busan Import-Export Firms",
+        "excerpt": "BNK Busan Bank said on the 8th it will provide 100 billion won in loans to Busan import-export companies facing pressure from prolonged Middle East conflict and global supply chain instability.",
+        "body": "BNK Busan Bank said on the 8th that it will provide 100 billion won in loan support to import-export companies in the Busan region. The measure is aimed at helping local firms facing management burdens caused by the prolonged Middle East conflict and instability in global supply chains. The eligible recipients are Busan-based import-export companies, and the total loan size is 100 billion won. The bank said the support focuses on easing funding difficulties and helping trade activity continue. Amid ongoing external uncertainty, the financing is expected to support short-term liquidity for Busan import-export firms. Source: cited from yna.co.kr."
+      },
+      "ja": {
+        "title": "BNK釜山銀行、釜山の輸出入企業に1千億ウォン融資へ",
+        "excerpt": "BNK釜山銀行は8日、中東紛争の長期化と世界的な供給網不安で苦境にある釜山地域の輸出入企業を支援するため、1千億ウォン規模の融資を行うと明らかにした。",
+        "body": "BNK釜山銀行は8日、釜山地域の輸出入企業を対象に、1千億ウォン規模の融資支援を行うと明らかにした。今回の支援は、中東紛争の長期化と世界的なサプライチェーン不安により経営負担を抱える地域企業を支えるための措置だ。支援対象は釜山の輸出入企業で、融資規模は総額1千億ウォン。同行は、地域企業の資金繰り難の緩和と貿易活動の継続に重点を置く。対外的な不確実性が続く中、今回の金融支援は釜山の輸出入企業の短期流動性確保に役立つ見通しだ。出典: yna.co.kr引用。"
+      },
+      "zh": {
+        "title": "BNK釜山银行将向釜山进出口企业提供1000亿韩元贷款",
+        "excerpt": "BNK釜山银行8日表示，将为因中东冲突长期化和全球供应链不稳定而面临困难的釜山地区进出口企业提供1000亿韩元规模贷款支持。",
+        "body": "BNK釜山银行8日表示，将面向釜山地区进出口企业提供1000亿韩元规模的贷款支持。此次支持旨在帮助因中东冲突长期化和全球供应链不稳定而承受经营压力的当地企业。支持对象为釜山的进出口企业，贷款总规模为1000亿韩元。该银行将重点放在缓解当地企业资金困难和维持贸易活动上。在外部不确定性持续的背景下，此次金融支持预计将有助于釜山进出口企业 확보短期流动性。来源：引自yna.co.kr。"
+      },
+      "es": {
+        "title": "BNK Busan Bank prestará 100.000 millones de wones a exportadoras de Busan",
+        "excerpt": "BNK Busan Bank informó el día 8 que otorgará préstamos por 100.000 millones de wones a empresas importadoras y exportadoras de Busan afectadas por el conflicto en Oriente Medio y la inestabilidad de la cadena global.",
+        "body": "BNK Busan Bank informó el día 8 que ofrecerá apoyo crediticio por 100.000 millones de wones a empresas importadoras y exportadoras de la región de Busan. La medida busca ayudar a compañías locales que enfrentan cargas de gestión por la prolongación del conflicto en Oriente Medio y la inestabilidad de las cadenas globales de suministro. Los destinatarios son empresas de importación y exportación de Busan, y el monto total del préstamo asciende a 100.000 millones de wones. El banco centrará el apoyo en aliviar dificultades de financiación y mantener la actividad comercial. Fuente: citado de yna.co.kr."
+      },
+      "pt": {
+        "title": "BNK Busan Bank emprestará 100 bilhões de won a exportadoras de Busan",
+        "excerpt": "O BNK Busan Bank informou no dia 8 que concederá 100 bilhões de won em empréstimos a empresas de importação e exportação de Busan afetadas pelo conflito no Oriente Médio e pela instabilidade da cadeia global.",
+        "body": "O BNK Busan Bank informou no dia 8 que oferecerá apoio em empréstimos de 100 bilhões de won a empresas de importação e exportação da região de Busan. A medida busca ajudar companhias locais que enfrentam pressão operacional devido ao prolongamento do conflito no Oriente Médio e à instabilidade das cadeias globais de suprimento. Os beneficiários são empresas de importação e exportação de Busan, e o volume total dos empréstimos será de 100 bilhões de won. O banco concentrará o apoio em aliviar dificuldades de financiamento e manter as atividades comerciais. Fonte: citado de yna.co.kr."
+      },
+      "de": {
+        "title": "BNK Busan Bank vergibt 100 Mrd. Won Kredite an Busaner Außenhandelsfirmen",
+        "excerpt": "Die BNK Busan Bank teilte am 8. mit, sie werde Import- und Exportunternehmen in Busan mit Krediten über 100 Milliarden Won unterstützen, da sie unter dem Nahostkonflikt und instabilen Lieferketten leiden.",
+        "body": "Die BNK Busan Bank teilte am 8. mit, sie werde Import- und Exportunternehmen in der Region Busan Kredithilfen im Umfang von 100 Milliarden Won bereitstellen. Die Maßnahme soll lokale Firmen unterstützen, die durch den anhaltenden Nahostkonflikt und Unsicherheiten in globalen Lieferketten unter geschäftlichem Druck stehen. Zielgruppe sind Busaner Import- und Exportunternehmen; das gesamte Kreditvolumen beträgt 100 Milliarden Won. Die Bank richtet den Fokus darauf, Finanzierungsengpässe zu lindern und Handelsaktivitäten fortzuführen. Quelle: zitiert nach yna.co.kr."
+      },
+      "fr": {
+        "title": "BNK Busan Bank prêtera 100 milliards de wons aux entreprises exportatrices de Busan",
+        "excerpt": "BNK Busan Bank a annoncé le 8 qu’elle accordera 100 milliards de wons de prêts aux entreprises d’import-export de Busan touchées par le conflit au Moyen-Orient et l’instabilité des chaînes mondiales.",
+        "body": "BNK Busan Bank a annoncé le 8 qu’elle mettra en place un soutien sous forme de prêts de 100 milliards de wons pour les entreprises d’import-export de la région de Busan. Cette mesure vise à aider les entreprises locales confrontées à des charges de gestion liées à la prolongation du conflit au Moyen-Orient et à l’instabilité des chaînes d’approvisionnement mondiales. Les bénéficiaires sont les entreprises d’import-export de Busan, pour un montant total de 100 milliards de wons. La banque entend atténuer les difficultés de financement et soutenir la continuité des activités commerciales. Source: cité de yna.co.kr."
+      },
+      "ar": {
+        "title": "بنك BNK بوسان يقدم قروضا بقيمة 100 مليار وون لشركات التصدير والاستيراد في بوسان",
+        "excerpt": "قال بنك BNK بوسان في الثامن إنه سيقدم قروضا بقيمة 100 مليار وون لشركات التصدير والاستيراد في بوسان المتضررة من طول أمد نزاع الشرق الأوسط واضطراب سلاسل الإمداد العالمية.",
+        "body": "قال بنك BNK بوسان في الثامن إنه سيقدم دعما ائتمانيا بقيمة 100 مليار وون لشركات التصدير والاستيراد في منطقة بوسان. وتهدف الخطوة إلى مساعدة الشركات المحلية التي تواجه أعباء إدارية بسبب طول أمد نزاع الشرق الأوسط وعدم استقرار سلاسل الإمداد العالمية. وتشمل الجهات المستفيدة شركات التصدير والاستيراد في بوسان، ويبلغ إجمالي حجم القروض 100 مليار وون. ويركز البنك على تخفيف صعوبات التمويل ومساعدة أنشطة التجارة على الاستمرار. ومع استمرار حالة عدم اليقين الخارجية، من المتوقع أن يدعم التمويل السيولة قصيرة الأجل لهذه الشركات. المصدر: نقلا عن yna.co.kr."
+      },
+      "hi": {
+        "title": "BNK बुसान बैंक बुसान की आयात-निर्यात कंपनियों को 100 अरब वोन ऋण देगा",
+        "excerpt": "BNK बुसान बैंक ने 8 तारीख को कहा कि वह मध्य पूर्व संघर्ष के लंबे खिंचने और वैश्विक आपूर्ति श्रृंखला अस्थिरता से जूझ रहीं बुसान की आयात-निर्यात कंपनियों को 100 अरब वोन का ऋण देगा।",
+        "body": "BNK बुसान बैंक ने 8 तारीख को कहा कि वह बुसान क्षेत्र की आयात-निर्यात कंपनियों को 100 अरब वोन के ऋण समर्थन की शुरुआत करेगा। यह कदम मध्य पूर्व संघर्ष के लंबे खिंचने और वैश्विक आपूर्ति श्रृंखला की अस्थिरता से प्रबंधन दबाव झेल रही स्थानीय कंपनियों की सहायता के लिए है। समर्थन का लक्ष्य बुसान की आयात-निर्यात कंपनियां हैं, और कुल ऋण आकार 100 अरब वोन है। बैंक का ध्यान स्थानीय कंपनियों की धन संबंधी कठिनाइयों को कम करने और व्यापार गतिविधियों को जारी रखने में मदद पर है। बाहरी अनिश्चितता जारी रहने के बीच यह वित्तीय समर्थन अल्पकालिक तरलता 확보 में सहायक होने की उम्मीद है। स्रोत: yna.co.kr से उद्धृत।"
+      },
+      "id": {
+        "title": "BNK Busan Bank Siapkan Pinjaman 100 Miliar Won untuk Eksportir Busan",
+        "excerpt": "BNK Busan Bank pada tanggal 8 mengatakan akan menyediakan pinjaman 100 miliar won bagi perusahaan impor-ekspor di Busan yang terdampak konflik Timur Tengah berkepanjangan dan ketidakstabilan rantai pasok global.",
+        "body": "BNK Busan Bank pada tanggal 8 menyatakan akan memberikan dukungan pinjaman senilai 100 miliar won kepada perusahaan impor-ekspor di wilayah Busan. Langkah ini ditujukan untuk membantu perusahaan lokal yang menghadapi beban usaha akibat berkepanjangannya konflik Timur Tengah dan ketidakstabilan rantai pasok global. Penerima dukungan adalah perusahaan impor-ekspor di Busan, dengan total nilai pinjaman 100 miliar won. Bank akan berfokus pada pengurangan kesulitan pendanaan dan kelanjutan aktivitas perdagangan. Di tengah ketidakpastian eksternal, dukungan ini diperkirakan membantu likuiditas jangka pendek perusahaan. Sumber: dikutip dari yna.co.kr."
+      }
+    }
+  },
+  {
+    "id": "f8d73f8b318b",
+    "slug": "코스피-상승-전환해-7500선-턱밑서-마감또-사상-최고치-702576",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-05-09T12:54:13.031Z",
+    "updatedAt": "2026-05-09T12:54:13.031Z",
+    "sourceName": "yna.co.kr",
+    "sourceUrl": "https://www.yna.co.kr/view/AKR20260508124100008",
+    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260508124100008",
+    "titleFingerprint": "bec4d455d25609938f41b0bdec09b5e2187ef5e9",
+    "dedupKeys": [
+      "f8d73f8b318bc4b36b53f90d2a574fcfeba52b9a",
+      "bec4d455d25609938f41b0bdec09b5e2187ef5e9",
+      "97460a21414d50d9f5d32021ab083b30d5a15a38"
+    ],
+    "imageUrl": "/images/articles/f8d73f8b318b.jpg",
+    "i18n": {
+      "ko": {
+        "title": "코스피, 7,500선 턱밑 마감하며 또 사상 최고치 경신",
+        "excerpt": "코스피가 8일 장 후반 상승 전환해 7,500선에 바짝 다가선 채 마감하며 사상 최고치를 다시 썼다고 연합뉴스가 보도했다.",
+        "body": "코스피가 8일 서울 증시에서 장 후반 상승 전환한 뒤 7,500선 턱밑에서 거래를 마치며 또 사상 최고치를 경신했다. 연합뉴스에 따르면 이날 코스피는 장중 흐름을 바꿔 상승세로 돌아섰고, 마감 수준은 7,500선에 근접했다. 이번 마감은 지수가 사상 최고치를 다시 넘어섰다는 점에서 국내 증시 흐름의 주요 지표로 주목된다. 다만 원문은 구체적인 상승 폭이나 종목별 배경은 제시하지 않았다. 출처: yna.co.kr"
+      },
+      "en": {
+        "title": "KOSPI Closes Near 7,500 After Late Turnaround, Sets Fresh Record",
+        "excerpt": "The KOSPI turned higher late on the 8th and closed just below the 7,500 mark, renewing its all-time high, Yonhap News Agency reported.",
+        "body": "The KOSPI turned upward late in the session on the 8th in Seoul and closed just below the 7,500 level, setting another all-time high. According to Yonhap News Agency, the index shifted course during trading and ended near the 7,500 mark. The close drew attention as a key signal for South Korea’s stock market because the benchmark again surpassed its previous record. The original report did not provide a specific gain or stock-by-stock background. Source: yna.co.kr"
+      },
+      "ja": {
+        "title": "KOSPI、終盤に上昇転換し7,500目前で終了 最高値更新",
+        "excerpt": "KOSPIは8日、取引終盤に上昇へ転じ、7,500の目前で取引を終え、過去最高値を再び更新したと聯合ニュースが報じた。",
+        "body": "KOSPIは8日、ソウル市場で取引終盤に上昇へ転じ、7,500の目前で取引を終え、再び過去最高値を更新した。聯合ニュースによると、この日のKOSPIは取引中に流れを変えて上昇に転じ、終値は7,500に近づいた。今回の終値は、指数が過去最高値を再び上回った点で、韓国株式市場の動きを示す主要な指標として注目される。原文では具体的な上昇幅や銘柄別の背景は示されていない。出典: yna.co.kr"
+      },
+      "zh": {
+        "title": "KOSPI尾盘转涨收近7,500点 再创历史新高",
+        "excerpt": "据韩联社报道，KOSPI在8日尾盘转为上涨，收于7,500点附近，再次刷新历史最高纪录。",
+        "body": "KOSPI于8日在首尔股市尾盘转为上涨，并在7,500点关口附近收盘，再次刷新历史最高纪录。据韩联社报道，当天KOSPI在交易过程中改变走势转入升势，收盘位置接近7,500点。此次收盘因指数再次突破历史高点，成为观察韩国股市走势的重要指标。原文未提供具体涨幅或个股层面的背景说明。来源: yna.co.kr"
+      },
+      "es": {
+        "title": "KOSPI cierra cerca de 7.500 tras giro al alza y marca récord",
+        "excerpt": "El KOSPI cambió a terreno positivo al final de la sesión del día 8 y cerró muy cerca de los 7.500 puntos, renovando su máximo histórico, informó Yonhap.",
+        "body": "El KOSPI giró al alza al final de la sesión del día 8 en la bolsa de Seúl y cerró justo por debajo de los 7.500 puntos, marcando otro máximo histórico. Según Yonhap News Agency, el índice cambió de rumbo durante la negociación y terminó cerca de la línea de 7.500. El cierre destaca como una señal clave para el mercado bursátil surcoreano porque el índice volvió a superar su récord anterior. El reporte original no indicó la magnitud exacta del avance ni el contexto por valores individuales. Fuente: yna.co.kr"
+      },
+      "pt": {
+        "title": "KOSPI fecha perto de 7.500 após virada e renova máxima histórica",
+        "excerpt": "O KOSPI virou para alta no fim do pregão do dia 8 e fechou pouco abaixo dos 7.500 pontos, renovando sua máxima histórica, informou a Yonhap.",
+        "body": "O KOSPI passou para o campo positivo no fim da sessão do dia 8 em Seul e fechou logo abaixo dos 7.500 pontos, renovando novamente sua máxima histórica. Segundo a Yonhap News Agency, o índice mudou de direção durante o pregão e encerrou perto da marca de 7.500. O fechamento chama atenção como um indicador importante do mercado acionário sul-coreano, pois o índice voltou a superar seu recorde anterior. A reportagem original não informou a alta específica nem o contexto por ações individuais. Fonte: yna.co.kr"
+      },
+      "de": {
+        "title": "KOSPI schließt nach später Wende knapp unter 7.500 auf Rekordhoch",
+        "excerpt": "Der KOSPI drehte am 8. spät ins Plus und schloss knapp unter der Marke von 7.500 Punkten, womit er erneut ein Allzeithoch erreichte, berichtete Yonhap.",
+        "body": "Der KOSPI drehte am 8. im späten Handel in Seoul ins Plus und beendete die Sitzung knapp unter der Marke von 7.500 Punkten, womit er erneut ein Allzeithoch erreichte. Laut Yonhap News Agency änderte der Index im Handelsverlauf seine Richtung und schloss nahe bei 7.500. Dieser Schlussstand rückt als wichtiges Signal für den südkoreanischen Aktienmarkt in den Fokus, da der Index seinen bisherigen Rekord erneut übertraf. Der Originalbericht nannte weder den genauen Anstieg noch Hintergründe zu einzelnen Aktien. Quelle: yna.co.kr"
+      },
+      "fr": {
+        "title": "Le KOSPI finit près de 7 500 après un rebond tardif et bat un record",
+        "excerpt": "Le KOSPI est repassé en hausse en fin de séance le 8 et a clôturé tout près des 7 500 points, établissant un nouveau record historique, selon Yonhap.",
+        "body": "Le KOSPI est repassé en hausse en fin de séance le 8 à la Bourse de Séoul et a terminé juste sous le seuil des 7 500 points, établissant de nouveau un record historique. Selon Yonhap News Agency, l’indice a changé de direction pendant les échanges et a clôturé près de 7 500. Cette clôture attire l’attention comme indicateur majeur du marché sud-coréen, car l’indice a une nouvelle fois dépassé son précédent record. Le texte original ne précise pas l’ampleur de la hausse ni le contexte par valeur. Source: yna.co.kr"
+      },
+      "ar": {
+        "title": "كوسبي يغلق قرب 7,500 نقطة بعد تحول متأخر ويسجل قمة جديدة",
+        "excerpt": "تحول مؤشر كوسبي إلى الصعود في أواخر جلسة يوم 8 وأغلق قرب مستوى 7,500 نقطة، مجددا أعلى مستوى تاريخي له، بحسب وكالة يونهاب.",
+        "body": "تحول مؤشر كوسبي إلى الصعود في أواخر جلسة يوم 8 في سوق سول، وأغلق دون مستوى 7,500 نقطة بقليل، مسجلا مرة أخرى أعلى مستوى تاريخي. ووفقا لوكالة يونهاب للأنباء، غيّر المؤشر اتجاهه أثناء التداول وعاد إلى الارتفاع، لينهي الجلسة قريبا من مستوى 7,500. ويعد هذا الإغلاق مؤشرا مهما على حركة سوق الأسهم الكورية الجنوبية، لأنه تجاوز مجددا رقمه القياسي السابق. ولم يورد النص الأصلي مقدار الارتفاع المحدد أو خلفيات مرتبطة بأسهم بعينها. المصدر: yna.co.kr"
+      },
+      "hi": {
+        "title": "KOSPI देर से पलटकर 7,500 के करीब बंद, फिर नया रिकॉर्ड उच्च",
+        "excerpt": "KOSPI ने 8 तारीख को सत्र के अंतिम हिस्से में बढ़त पकड़ी और 7,500 के करीब बंद होकर फिर सर्वकालिक उच्च स्तर बनाया, योनहाप ने बताया।",
+        "body": "KOSPI ने 8 तारीख को सियोल बाजार में कारोबार के अंतिम हिस्से में बढ़त की ओर रुख किया और 7,500 के ठीक नीचे बंद होकर एक और सर्वकालिक उच्च स्तर दर्ज किया। योनहाप न्यूज एजेंसी के अनुसार, सूचकांक ने कारोबार के दौरान दिशा बदली और बढ़त में आकर 7,500 के करीब बंद हुआ। यह बंद स्तर दक्षिण कोरिया के शेयर बाजार की दिशा के लिए अहम संकेतक माना जा रहा है, क्योंकि सूचकांक ने फिर अपना पिछला रिकॉर्ड पार किया। मूल रिपोर्ट में बढ़त की सटीक मात्रा या अलग-अलग शेयरों की पृष्ठभूमि नहीं दी गई। स्रोत: yna.co.kr"
+      },
+      "id": {
+        "title": "KOSPI Berbalik Naik dan Ditutup Dekat 7.500, Cetak Rekor Baru",
+        "excerpt": "KOSPI berbalik menguat pada akhir perdagangan tanggal 8 dan ditutup tepat di bawah level 7.500, kembali memperbarui rekor tertinggi, lapor Yonhap.",
+        "body": "KOSPI berbalik menguat pada akhir sesi perdagangan tanggal 8 di bursa Seoul dan ditutup tepat di bawah level 7.500, kembali mencetak rekor tertinggi sepanjang masa. Menurut Yonhap News Agency, indeks mengubah arah selama perdagangan dan berakhir mendekati level 7.500. Penutupan ini menjadi perhatian sebagai indikator utama pergerakan pasar saham Korea Selatan karena indeks kembali melampaui rekor sebelumnya. Laporan asli tidak menyebutkan besaran kenaikan secara spesifik maupun latar belakang per saham. Sumber: yna.co.kr"
+      }
+    }
+  },
+  {
+    "id": "bd50332fb7c4",
+    "slug": "한화운용-코스피50-etf-연수익률-261코스피-추종-etf-1위-615717",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-05-09T12:53:22.775Z",
+    "updatedAt": "2026-05-09T12:53:22.775Z",
+    "sourceName": "yna.co.kr",
+    "sourceUrl": "https://www.yna.co.kr/view/AKR20260508123000008",
+    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260508123000008",
+    "titleFingerprint": "9b7bb616fc0e140d2d455d4e589d2ef7b4fb0bd7",
+    "dedupKeys": [
+      "bd50332fb7c4ddffd5737adc55e5cfa5809da13a",
+      "9b7bb616fc0e140d2d455d4e589d2ef7b4fb0bd7",
+      "d25ec5e1aeb0af276aad38c4ddde4d43bfc60e6d"
+    ],
+    "imageUrl": "/images/articles/bd50332fb7c4.jpg",
+    "i18n": {
+      "ko": {
+        "title": "PLUS 코스피50 ETF 1년 수익률 261%, 코스피 추종 ETF 1위",
+        "excerpt": "한화자산운용은 코스피50 지수를 따르는 PLUS 코스피50 ETF가 최근 1년간 261% 수익률을 기록하며 코스피 추종 ETF 중 1위에 올랐다고 밝혔다.",
+        "body": "한화자산운용은 코스피50 지수를 추종하는 ‘PLUS 코스피50’ 상장지수펀드(ETF)가 최근 1년간 261%의 연수익률을 기록했다고 밝혔다. 회사에 따르면 이 ETF는 같은 기간 코스피를 추종하는 ETF 가운데 수익률 1위를 차지했다. PLUS 코스피50은 코스피50 지수를 따르는 상품으로, 한화자산운용이 운용한다. 이번 성과는 최근 1년 기준 수익률과 코스피 추종 ETF 간 비교를 중심으로 제시됐다. 투자자들은 해당 상품의 수익률 순위와 기초지수 특성을 함께 확인할 필요가 있다. 출처: yna.co.kr"
+      },
+      "en": {
+        "title": "PLUS KOSPI50 ETF Posts 261% One-Year Return, Leads KOSPI-Tracking ETFs",
+        "excerpt": "Hanwha Asset Management said its PLUS KOSPI50 ETF, which tracks the KOSPI50 index, recorded a 261% return over the past year, ranking first among KOSPI-tracking ETFs.",
+        "body": "Hanwha Asset Management said the ‘PLUS KOSPI50’ exchange-traded fund, which tracks the KOSPI50 index, posted an annual return of 261% over the past year. According to the company, the ETF ranked first in returns among ETFs tracking the KOSPI over the same period. PLUS KOSPI50 is a product designed to follow the KOSPI50 index and is managed by Hanwha Asset Management. The reported performance is based on one-year return figures and comparison with other KOSPI-tracking ETFs. Investors may need to review both the product’s return ranking and the characteristics of its underlying index. Source: yna.co.kr"
+      },
+      "ja": {
+        "title": "PLUSコスピ50 ETF、1年リターン261％でコスピ連動ETF首位",
+        "excerpt": "ハンファ資産運用は、コスピ50指数に連動するPLUSコスピ50 ETFが直近1年間で261％の収益率を記録し、コスピ連動ETFで首位になったと明らかにした。",
+        "body": "ハンファ資産運用は、コスピ50指数に連動する「PLUSコスピ50」上場投資信託（ETF）が、直近1年間で261％の年間収益率を記録したと発表した。同社によると、このETFは同期間にコスピに連動するETFの中で収益率1位となった。PLUSコスピ50はコスピ50指数を追随する商品で、ハンファ資産運用が運用している。今回の実績は、直近1年基準の収益率とコスピ連動ETF間の比較を中心に示されたものだ。投資家は同商品の収益率順位と基礎指数の特徴をあわせて確認する必要がある。出典: yna.co.kr"
+      },
+      "zh": {
+        "title": "PLUS KOSPI50 ETF一年收益率261%，居KOSPI跟踪ETF首位",
+        "excerpt": "韩华资产运用表示，跟踪KOSPI50指数的PLUS KOSPI50 ETF最近一年收益率达到261%，在跟踪KOSPI的ETF中排名第一。",
+        "body": "韩华资产运用表示，跟踪KOSPI50指数的“PLUS KOSPI50”交易所交易基金（ETF）最近一年实现261%的年收益率。该公司称，该ETF在同期跟踪KOSPI的ETF中收益率排名第一。PLUS KOSPI50是跟随KOSPI50指数的产品，由韩华资产运用管理。此次业绩主要基于最近一年收益率以及与KOSPI跟踪ETF之间的比较提出。投资者有必要同时查看该产品的收益率排名和其基础指数特征。来源: yna.co.kr"
+      },
+      "es": {
+        "title": "PLUS KOSPI50 ETF logra 261% en un año y lidera los ETF que siguen el KOSPI",
+        "excerpt": "Hanwha Asset Management informó que el ETF PLUS KOSPI50, que replica el índice KOSPI50, obtuvo una rentabilidad del 261% en el último año y ocupó el primer lugar entre los ETF que siguen el KOSPI.",
+        "body": "Hanwha Asset Management informó que el fondo cotizado ‘PLUS KOSPI50’, que sigue el índice KOSPI50, registró una rentabilidad anual del 261% en el último año. Según la compañía, el ETF ocupó el primer lugar en rentabilidad entre los ETF que replican el KOSPI durante el mismo periodo. PLUS KOSPI50 es un producto que sigue el índice KOSPI50 y es gestionado por Hanwha Asset Management. El desempeño anunciado se basa en la rentabilidad de un año y en la comparación con otros ETF vinculados al KOSPI. Los inversores deben revisar tanto la posición del producto en rentabilidad como las características de su índice subyacente. Fuente: yna.co.kr"
+      },
+      "pt": {
+        "title": "PLUS KOSPI50 ETF rende 261% em um ano e lidera ETFs que seguem o KOSPI",
+        "excerpt": "A Hanwha Asset Management informou que o ETF PLUS KOSPI50, que acompanha o índice KOSPI50, registrou retorno de 261% no último ano e ficou em primeiro entre os ETFs que seguem o KOSPI.",
+        "body": "A Hanwha Asset Management informou que o fundo negociado em bolsa ‘PLUS KOSPI50’, que acompanha o índice KOSPI50, registrou retorno anual de 261% no último ano. Segundo a empresa, o ETF ficou em primeiro lugar em rentabilidade entre os ETFs que seguem o KOSPI no mesmo período. O PLUS KOSPI50 é um produto que acompanha o índice KOSPI50 e é administrado pela Hanwha Asset Management. O desempenho divulgado tem como base o retorno de um ano e a comparação com ETFs vinculados ao KOSPI. Investidores devem observar tanto a posição do produto em rentabilidade quanto as características de seu índice de referência. Fonte: yna.co.kr"
+      },
+      "de": {
+        "title": "PLUS KOSPI50 ETF erzielt 261% Jahresrendite und führt KOSPI-ETFs an",
+        "excerpt": "Hanwha Asset Management teilte mit, dass der PLUS KOSPI50 ETF, der den KOSPI50-Index abbildet, in den vergangenen zwölf Monaten 261% Rendite erzielte und unter KOSPI-ETFs Rang eins belegte.",
+        "body": "Hanwha Asset Management gab bekannt, dass der börsengehandelte Fonds ‘PLUS KOSPI50’, der den KOSPI50-Index nachbildet, in den vergangenen zwölf Monaten eine Jahresrendite von 261% erzielt hat. Nach Angaben des Unternehmens belegte der ETF im selben Zeitraum den ersten Platz unter den ETFs, die den KOSPI abbilden. PLUS KOSPI50 ist ein Produkt auf den KOSPI50-Index und wird von Hanwha Asset Management verwaltet. Die gemeldete Leistung stützt sich auf die Einjahresrendite und den Vergleich mit anderen KOSPI-nachbildenden ETFs. Anleger sollten sowohl die Renditeplatzierung als auch die Merkmale des zugrunde liegenden Index prüfen. Quelle: yna.co.kr"
+      },
+      "fr": {
+        "title": "PLUS KOSPI50 ETF affiche 261% sur un an et domine les ETF suivant le KOSPI",
+        "excerpt": "Hanwha Asset Management a indiqué que son ETF PLUS KOSPI50, répliquant l’indice KOSPI50, a enregistré 261% de rendement sur un an et s’est classé premier parmi les ETF suivant le KOSPI.",
+        "body": "Hanwha Asset Management a annoncé que le fonds coté ‘PLUS KOSPI50’, qui suit l’indice KOSPI50, avait enregistré un rendement annuel de 261% sur les douze derniers mois. Selon la société, cet ETF a pris la première place en matière de rendement parmi les ETF répliquant le KOSPI sur la même période. PLUS KOSPI50 est un produit adossé à l’indice KOSPI50 et géré par Hanwha Asset Management. La performance présentée repose sur le rendement à un an et sur la comparaison avec les ETF suivant le KOSPI. Les investisseurs doivent examiner à la fois le classement du produit et les caractéristiques de son indice sous-jacent. Source: yna.co.kr"
+      },
+      "ar": {
+        "title": "صندوق PLUS KOSPI50 يحقق عائدا سنويا 261% ويتصدر صناديق KOSPI",
+        "excerpt": "قالت هانهوا لإدارة الأصول إن صندوق PLUS KOSPI50 المتداول، الذي يتبع مؤشر KOSPI50، سجل عائدا بلغ 261% خلال عام واحد، محتلا المركز الأول بين صناديق ETF المتتبعة لمؤشر KOSPI.",
+        "body": "أعلنت هانهوا لإدارة الأصول أن صندوق المؤشرات المتداولة ‘PLUS KOSPI50’، الذي يتبع مؤشر KOSPI50، سجل عائدا سنويا بلغ 261% خلال العام الأخير. ووفقا للشركة، احتل الصندوق المركز الأول من حيث العائد بين صناديق ETF التي تتبع مؤشر KOSPI خلال الفترة نفسها. ويعد PLUS KOSPI50 منتجا يتتبع مؤشر KOSPI50 وتديره هانهوا لإدارة الأصول. ويستند الأداء المعلن إلى عائد عام واحد وإلى مقارنة مع صناديق ETF الأخرى المتتبعة لمؤشر KOSPI. وينبغي للمستثمرين مراجعة ترتيب العائد وخصائص المؤشر الأساسي معا. المصدر: yna.co.kr"
+      },
+      "hi": {
+        "title": "PLUS KOSPI50 ETF ने एक साल में 261% रिटर्न देकर KOSPI ETF में पहला स्थान पाया",
+        "excerpt": "हनव्हा एसेट मैनेजमेंट ने कहा कि KOSPI50 सूचकांक को ट्रैक करने वाले PLUS KOSPI50 ETF ने पिछले एक वर्ष में 261% रिटर्न दर्ज किया और KOSPI ट्रैकिंग ETF में पहले स्थान पर रहा।",
+        "body": "हनव्हा एसेट मैनेजमेंट ने बताया कि KOSPI50 सूचकांक को ट्रैक करने वाले ‘PLUS KOSPI50’ एक्सचेंज ट्रेडेड फंड ने पिछले एक वर्ष में 261% वार्षिक रिटर्न दर्ज किया। कंपनी के अनुसार, इसी अवधि में यह ETF KOSPI को ट्रैक करने वाले ETF में रिटर्न के आधार पर पहले स्थान पर रहा। PLUS KOSPI50 ऐसा उत्पाद है जो KOSPI50 सूचकांक का अनुसरण करता है और इसका प्रबंधन हनव्हा एसेट मैनेजमेंट करती है। घोषित प्रदर्शन एक साल के रिटर्न और KOSPI ट्रैकिंग ETF के साथ तुलना पर आधारित है। निवेशकों को उत्पाद की रिटर्न रैंकिंग और उसके आधारभूत सूचकांक की विशेषताओं को साथ में देखना चाहिए। स्रोत: yna.co.kr"
+      },
+      "id": {
+        "title": "PLUS KOSPI50 ETF Cetak Imbal Hasil 261% Setahun, Pimpin ETF Pelacak KOSPI",
+        "excerpt": "Hanwha Asset Management menyatakan ETF PLUS KOSPI50, yang mengikuti indeks KOSPI50, mencatat imbal hasil 261% dalam satu tahun terakhir dan menempati posisi pertama di antara ETF pelacak KOSPI.",
+        "body": "Hanwha Asset Management menyatakan bahwa reksa dana bursa ‘PLUS KOSPI50’, yang mengikuti indeks KOSPI50, mencatat imbal hasil tahunan 261% dalam satu tahun terakhir. Menurut perusahaan, ETF tersebut menempati posisi pertama berdasarkan imbal hasil di antara ETF yang melacak KOSPI pada periode yang sama. PLUS KOSPI50 adalah produk yang mengikuti indeks KOSPI50 dan dikelola oleh Hanwha Asset Management. Kinerja yang diumumkan berfokus pada imbal hasil satu tahun dan perbandingan dengan ETF pelacak KOSPI. Investor perlu meninjau peringkat imbal hasil produk ini bersama karakteristik indeks acuannya. Sumber: yna.co.kr"
+      }
+    }
+  },
+  {
     "id": "779e479031b9",
     "slug": "외국환시세5월8일마감가-713430",
     "channelId": "ETF",
@@ -4271,231 +4496,6 @@
         "title": "Dolar-won pangkas kenaikan saat minat risiko kembali, ditutup 1.462,30 won",
         "excerpt": "Dalam perdagangan malam di New York, kurs dolar-won memangkas kenaikan karena minat terhadap risiko kembali menyebar dan ditutup di 1.462,30 won.",
         "body": "Kurs dolar-won menutup perdagangan malam di New York pada 1.462,30 won setelah memangkas kenaikannya. Menurut koresponden Yonhap Infomax Jin Jung-ho, dolar-won mengurangi laju penguatan karena minat terhadap risiko kembali menyebar, lalu berakhir di kisaran awal 1.460 won. Angka utama sesi ini adalah penutupan di 1.462,30 won. Laporan asli menyebut kurs tetap berada di zona naik pada perdagangan malam, tetapi kenaikannya menyempit sebelum penutupan. Pelaku pasar diperkirakan mencermati apakah minat risiko berlanjut dan apakah dolar-won tetap bergerak di sekitar kisaran awal 1.460 won. Sumber: yna.co.kr"
-      }
-    }
-  },
-  {
-    "id": "8b83a5c2879e",
-    "slug": "국제유가-호르무즈-긴장에-상승-브렌트유-12-540863",
-    "channelId": "ETF",
-    "category": "etf",
-    "publishedAt": "2026-05-08T23:03:39.222Z",
-    "updatedAt": "2026-05-08T23:03:39.222Z",
-    "sourceName": "yna.co.kr",
-    "sourceUrl": "https://www.yna.co.kr/view/AKR20260509005600072",
-    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260509005600072",
-    "titleFingerprint": "cca117f55ced2e5ab46d7d65834da554225ebf76",
-    "dedupKeys": [
-      "8b83a5c2879e7a8d5df558d075ab57a63d044e11",
-      "cca117f55ced2e5ab46d7d65834da554225ebf76",
-      "f13864b5b5426c4465f1949b1ed07e404df30f86"
-    ],
-    "imageUrl": "/images/articles/8b83a5c2879e.jpg",
-    "i18n": {
-      "ko": {
-        "title": "국제유가, 호르무즈 해협 긴장 재점화에 상승…브렌트유 1.2% 올라",
-        "excerpt": "8일 현지시간 호르무즈 해협 인근에서 무력 충돌이 재개되면서 국제유가가 다시 상승했고, 브렌트유는 1.2% 오르며 긴장 확대 영향을 반영했다.",
-        "body": "8일 현지시간 호르무즈 해협 인근에서 무력 충돌이 재개되면서 국제유가가 다시 상승했다. 뉴욕발 보도에 따르면 중동의 핵심 해상 통로로 꼽히는 호르무즈 해협 주변 긴장이 커진 점이 유가 흐름에 영향을 줬다. 관련 지표로 브렌트유는 1.2% 올랐다. 이번 상승은 해협 인근 충돌 재개라는 지정학적 요인이 원유 시장 가격에 반영된 결과로 해석된다. 향후 유가 흐름은 해당 지역 긴장 지속 여부에 따라 주목될 전망이다. 출처: yna.co.kr"
-      },
-      "en": {
-        "title": "Oil Prices Rise as Hormuz Tensions Resume; Brent Crude Gains 1.2%",
-        "excerpt": "On the 8th local time, international oil prices rose again after armed clashes resumed near the Strait of Hormuz, with Brent crude up 1.2% as tensions affected markets.",
-        "body": "International oil prices rose again on the 8th local time after armed clashes resumed near the Strait of Hormuz. According to a New York-datelined report, heightened tensions around the Strait of Hormuz, a key maritime route in the Middle East, affected oil price movements. Brent crude rose 1.2% as a related indicator. The increase reflects the impact of renewed geopolitical tension near the strait on crude oil market prices. Future oil price trends are expected to draw attention depending on whether tensions in the area continue. Source: yna.co.kr"
-      },
-      "ja": {
-        "title": "国際原油価格、ホルムズ海峡の緊張再燃で上昇…ブレント1.2％高",
-        "excerpt": "現地時間8日、ホルムズ海峡付近で武力衝突が再開したことを受け、国際原油価格は再び上昇し、ブレント原油は1.2％高となった。",
-        "body": "現地時間8日、ホルムズ海峡付近で武力衝突が再開し、国際原油価格は再び上昇した。ニューヨーク発の報道によると、中東の重要な海上交通路とされるホルムズ海峡周辺で緊張が高まったことが、原油価格の動きに影響した。関連指標としてブレント原油は1.2％上昇した。今回の上昇は、海峡付近での衝突再開という地政学的要因が原油市場価格に反映されたものとみられる。今後の価格動向は、同地域の緊張が続くかどうかによって注目される見通しだ。出典: yna.co.kr"
-      },
-      "zh": {
-        "title": "国际油价因霍尔木兹紧张再起上涨，布伦特原油升1.2%",
-        "excerpt": "当地时间8日，霍尔木兹海峡附近武装冲突重新发生，推动国际油价再次上涨，布伦特原油上涨1.2%，市场反映紧张局势影响。",
-        "body": "当地时间8日，霍尔木兹海峡附近武装冲突重新发生，国际油价再次上涨。据纽约报道，被视为中东重要海上通道的霍尔木兹海峡周边紧张局势升温，对油价走势产生影响。相关指标显示，布伦特原油上涨1.2%。此次上涨可理解为海峡附近冲突重启这一地缘政治因素反映到原油市场价格之中。未来油价走势预计将取决于该地区紧张局势是否持续，并继续受到市场关注。来源: yna.co.kr"
-      },
-      "es": {
-        "title": "El petróleo sube por nueva tensión en Ormuz; el Brent avanza un 1,2%",
-        "excerpt": "El día 8, hora local, los precios internacionales del petróleo volvieron a subir tras reanudarse choques armados cerca del estrecho de Ormuz; el Brent avanzó un 1,2%.",
-        "body": "Los precios internacionales del petróleo volvieron a subir el día 8, hora local, después de que se reanudaran los choques armados cerca del estrecho de Ormuz. Según un despacho desde Nueva York, el aumento de la tensión alrededor del estrecho de Ormuz, considerado una ruta marítima clave en Oriente Medio, influyó en el movimiento de los precios del crudo. Como dato relacionado, el Brent subió un 1,2%. El alza refleja en el mercado petrolero el factor geopolítico derivado de la reanudación de los enfrentamientos cerca del estrecho. La evolución futura de los precios dependerá de si continúa la tensión en la zona. Fuente: yna.co.kr"
-      },
-      "pt": {
-        "title": "Petróleo sobe com nova tensão em Ormuz; Brent avança 1,2%",
-        "excerpt": "No dia 8, horário local, os preços internacionais do petróleo voltaram a subir após a retomada de confrontos armados perto do Estreito de Ormuz; o Brent avançou 1,2%.",
-        "body": "Os preços internacionais do petróleo voltaram a subir no dia 8, horário local, depois que confrontos armados foram retomados perto do Estreito de Ormuz. Segundo uma reportagem de Nova York, o aumento da tensão ao redor do Estreito de Ormuz, considerado uma rota marítima essencial no Oriente Médio, influenciou o movimento dos preços do petróleo. Como indicador relacionado, o Brent subiu 1,2%. A alta reflete nos preços do mercado de petróleo o fator geopolítico ligado à retomada dos confrontos perto do estreito. A trajetória futura dos preços deve seguir em foco conforme a tensão na região continue ou não. Fonte: yna.co.kr"
-      },
-      "de": {
-        "title": "Ölpreise steigen wegen neuer Hormus-Spannungen; Brent legt 1,2% zu",
-        "excerpt": "Am 8. Ortszeit stiegen die internationalen Ölpreise erneut, nachdem bewaffnete Zusammenstöße nahe der Straße von Hormus wieder aufgenommen wurden; Brent gewann 1,2%.",
-        "body": "Die internationalen Ölpreise sind am 8. Ortszeit erneut gestiegen, nachdem bewaffnete Zusammenstöße nahe der Straße von Hormus wieder aufgenommen wurden. Einem Bericht aus New York zufolge beeinflusste die zunehmende Spannung rund um die Straße von Hormus, eine wichtige Seeroute im Nahen Osten, die Preisbewegung am Ölmarkt. Als relevante Kennzahl legte Brent um 1,2% zu. Der Anstieg spiegelt wider, dass der geopolitische Faktor der wieder aufgenommenen Zusammenstöße nahe der Meerenge in die Rohölpreise eingeflossen ist. Die weitere Entwicklung der Ölpreise dürfte davon abhängen, ob die Spannungen in der Region anhalten. Quelle: yna.co.kr"
-      },
-      "fr": {
-        "title": "Le pétrole monte avec le regain de tension à Ormuz; le Brent gagne 1,2%",
-        "excerpt": "Le 8, heure locale, les prix internationaux du pétrole ont de nouveau augmenté après la reprise d’affrontements armés près du détroit d’Ormuz; le Brent a gagné 1,2%.",
-        "body": "Les prix internationaux du pétrole ont de nouveau augmenté le 8, heure locale, après la reprise d’affrontements armés près du détroit d’Ormuz. Selon un reportage daté de New York, la montée des tensions autour du détroit d’Ormuz, considéré comme une voie maritime essentielle au Moyen-Orient, a influencé l’évolution des prix du pétrole. À titre d’indicateur, le Brent a progressé de 1,2%. Cette hausse traduit l’intégration, dans les prix du marché pétrolier, du facteur géopolitique lié à la reprise des affrontements près du détroit. L’évolution future des prix dépendra de la persistance ou non des tensions dans la région. Source: yna.co.kr"
-      },
-      "ar": {
-        "title": "أسعار النفط ترتفع مع تجدد توتر هرمز وبرنت يصعد 1.2%",
-        "excerpt": "في الثامن بالتوقيت المحلي، عادت أسعار النفط العالمية إلى الارتفاع بعد استئناف اشتباكات مسلحة قرب مضيق هرمز، وصعد خام برنت 1.2% مع انعكاس التوتر على السوق.",
-        "body": "عادت أسعار النفط العالمية إلى الارتفاع في الثامن بالتوقيت المحلي بعد استئناف اشتباكات مسلحة قرب مضيق هرمز. ووفقا لتقرير من نيويورك، فإن تصاعد التوتر حول مضيق هرمز، الذي يعد ممرا بحريا رئيسيا في الشرق الأوسط، أثر في حركة أسعار النفط. وكمؤشر مرتبط، ارتفع خام برنت بنسبة 1.2%. ويعكس هذا الصعود إدراج العامل الجيوسياسي الناجم عن تجدد الاشتباكات قرب المضيق في أسعار سوق الخام. ومن المتوقع أن تظل اتجاهات أسعار النفط المقبلة محل متابعة تبعا لاستمرار التوتر في تلك المنطقة من عدمه. المصدر: yna.co.kr"
-      },
-      "hi": {
-        "title": "हॉर्मुज तनाव फिर बढ़ने से तेल कीमतें चढ़ीं, ब्रेंट 1.2% ऊपर",
-        "excerpt": "स्थानीय समयानुसार 8 तारीख को हॉर्मुज जलडमरूमध्य के पास सशस्त्र झड़पें फिर शुरू होने से अंतरराष्ट्रीय तेल कीमतें दोबारा बढ़ीं और ब्रेंट कच्चा तेल 1.2% चढ़ा।",
-        "body": "स्थानीय समयानुसार 8 तारीख को हॉर्मुज जलडमरूमध्य के पास सशस्त्र झड़पें फिर शुरू होने के बाद अंतरराष्ट्रीय तेल कीमतें दोबारा बढ़ीं। न्यूयॉर्क से आई रिपोर्ट के अनुसार, मध्य पूर्व के प्रमुख समुद्री मार्ग माने जाने वाले हॉर्मुज जलडमरूमध्य के आसपास बढ़े तनाव ने तेल कीमतों की चाल को प्रभावित किया। संबंधित संकेतक के रूप में ब्रेंट कच्चा तेल 1.2% ऊपर गया। यह वृद्धि जलडमरूमध्य के पास झड़पों की पुनरावृत्ति जैसे भू-राजनीतिक कारक के कच्चे तेल बाजार कीमतों में प्रतिबिंबित होने को दिखाती है। आगे तेल कीमतों की दिशा इस पर निर्भर करेगी कि क्षेत्र में तनाव जारी रहता है या नहीं। स्रोत: yna.co.kr"
-      },
-      "id": {
-        "title": "Harga Minyak Naik karena Ketegangan Hormuz; Brent Menguat 1,2%",
-        "excerpt": "Pada tanggal 8 waktu setempat, harga minyak internasional kembali naik setelah bentrokan bersenjata berlanjut di dekat Selat Hormuz; minyak Brent menguat 1,2%.",
-        "body": "Harga minyak internasional kembali naik pada tanggal 8 waktu setempat setelah bentrokan bersenjata berlanjut di dekat Selat Hormuz. Menurut laporan dari New York, meningkatnya ketegangan di sekitar Selat Hormuz, yang dikenal sebagai jalur laut penting di Timur Tengah, memengaruhi pergerakan harga minyak. Sebagai angka terkait, minyak Brent naik 1,2%. Kenaikan ini mencerminkan masuknya faktor geopolitik berupa berlanjutnya bentrokan di dekat selat tersebut ke dalam harga pasar minyak mentah. Pergerakan harga minyak berikutnya diperkirakan akan menjadi perhatian bergantung pada apakah ketegangan di kawasan itu berlanjut. Sumber: yna.co.kr"
-      }
-    }
-  },
-  {
-    "id": "c0ea69d4a903",
-    "slug": "부동산캘린더-내주-고덕국제신도시수자인풍경채-등-5천404가구-분양-227711",
-    "channelId": "ETF",
-    "category": "etf",
-    "publishedAt": "2026-05-08T23:02:39.045Z",
-    "updatedAt": "2026-05-08T23:02:39.045Z",
-    "sourceName": "yna.co.kr",
-    "sourceUrl": "https://www.yna.co.kr/view/AKR20260508139000003",
-    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260508139000003",
-    "titleFingerprint": "d01100934305c22d57d235b83d518265ed68ad84",
-    "dedupKeys": [
-      "c0ea69d4a9031fd66771e27c7158e4249bdd9c54",
-      "d01100934305c22d57d235b83d518265ed68ad84",
-      "b9237451b098c0aa95ac5735b0f4587177e84849"
-    ],
-    "imageUrl": "/images/articles/c0ea69d4a903.jpg",
-    "i18n": {
-      "ko": {
-        "title": "부동산 캘린더, 고덕국제신도시수자인풍경채 등 내주 5천404가구 분양",
-        "excerpt": "연합뉴스에 따르면 내주 전국에서 고덕국제신도시수자인풍경채 등을 포함해 총 5천404가구가 공급되며, 분양 일정에 관심이 모인다.",
-        "body": "내주 전국 분양시장에는 총 5천404가구가 공급된다. 연합뉴스 오진송 기자 보도에 따르면 공급 물량에는 고덕국제신도시수자인풍경채 등이 포함된다. 이번 소식은 주간 부동산 캘린더를 통해 예고된 분양 일정으로, 전국 단위의 신규 공급 규모를 보여준다. 구체적으로 내주 예정된 공급 물량은 5천400여가구 수준이며, 기사에는 고덕국제신도시수자인풍경채가 주요 단지로 언급됐다. 분양을 검토하는 수요자들은 내주 공개되는 일정과 단지 정보를 확인할 필요가 있다. 출처: yna.co.kr"
-      },
-      "en": {
-        "title": "Real Estate Calendar: 5,404 Homes to Be Offered Next Week, Including Godeok Sujain Punggyeongchae",
-        "excerpt": "Yonhap reports that 5,404 homes will be supplied nationwide next week, including Godeok International New Town Sujain Punggyeongchae.",
-        "body": "A total of 5,404 homes will be supplied across South Korea next week. According to a Yonhap News report by Oh Jin-song, the upcoming supply includes Godeok International New Town Sujain Punggyeongchae. The report was presented as part of a weekly real estate calendar and highlights the scale of new housing supply scheduled nationwide. The planned volume amounts to about 5,400 units, with Godeok International New Town Sujain Punggyeongchae cited as one of the key complexes. Prospective buyers may need to check the detailed schedule and project information as it is released next week. Source: yna.co.kr"
-      },
-      "ja": {
-        "title": "不動産カレンダー、来週は高徳国際新都市スザイン風景チェなど5,404戸分譲",
-        "excerpt": "聯合ニュースによると、来週は全国で高徳国際新都市スザイン風景チェなどを含む計5,404戸が供給される予定だ。",
-        "body": "来週、韓国全国の分譲市場では計5,404戸が供給される。聯合ニュースのオ・ジンソン記者の報道によると、供給物件には高徳国際新都市スザイン風景チェなどが含まれる。今回の内容は週間不動産カレンダーを通じて示された分譲予定で、全国規模の新規供給量を示している。予定された供給戸数は約5,400戸で、高徳国際新都市スザイン風景チェが主要団地として言及された。分譲を検討する需要者は、来週公開される日程と団地情報を確認する必要がある。出典: yna.co.kr"
-      },
-      "zh": {
-        "title": "房地产日历：高德国际新城Sujain Punggyeongchae等下周5,404户入市",
-        "excerpt": "据韩联社报道，下周韩国全国将供应包括高德国际新城Sujain Punggyeongchae在内的共5,404户住宅。",
-        "body": "下周，韩国全国住宅分售市场将供应共5,404户。韩联社吴珍松记者报道称，供应项目包括高德国际新城Sujain Punggyeongchae等。该消息来自每周房地产日历，显示了全国范围内即将推出的新房供应规模。具体来看，下周计划供应量约为5,400户，报道中提到高德国际新城Sujain Punggyeongchae是主要项目之一。正在关注分售市场的购房需求者，有必要确认下周公开的日程和项目相关信息。来源: yna.co.kr"
-      },
-      "es": {
-        "title": "Calendario inmobiliario: 5.404 viviendas saldrán a venta la próxima semana, incluida Godeok Sujain Punggyeongchae",
-        "excerpt": "Yonhap informó que la próxima semana se ofrecerán 5.404 viviendas en Corea del Sur, incluidas unidades de Godeok International New Town Sujain Punggyeongchae.",
-        "body": "La próxima semana se suministrará un total de 5.404 viviendas en el mercado de preventa de Corea del Sur. Según un reporte de Oh Jin-song para Yonhap News, la oferta incluirá Godeok International New Town Sujain Punggyeongchae, entre otros proyectos. La información forma parte del calendario inmobiliario semanal y muestra el volumen de nueva oferta previsto a escala nacional. La cifra programada ronda las 5.400 unidades, con Godeok International New Town Sujain Punggyeongchae mencionado como uno de los complejos principales. Quienes evalúan participar en la venta deberán revisar el calendario y los datos del complejo cuando se publiquen. Fuente: yna.co.kr"
-      },
-      "pt": {
-        "title": "Calendário imobiliário: 5.404 moradias serão ofertadas na próxima semana, incluindo Godeok Sujain Punggyeongchae",
-        "excerpt": "A Yonhap informou que 5.404 moradias serão ofertadas em toda a Coreia do Sul na próxima semana, incluindo Godeok International New Town Sujain Punggyeongchae.",
-        "body": "Na próxima semana, o mercado de lançamentos residenciais da Coreia do Sul terá oferta total de 5.404 moradias. Segundo reportagem de Oh Jin-song, da Yonhap News, a lista inclui Godeok International New Town Sujain Punggyeongchae, entre outros empreendimentos. A notícia integra o calendário imobiliário semanal e mostra o volume de nova oferta previsto em escala nacional. O total programado fica em torno de 5.400 unidades, com Godeok International New Town Sujain Punggyeongchae citado como um dos principais complexos. Interessados em novas vendas devem acompanhar o cronograma e as informações dos projetos divulgadas na próxima semana. Fonte: yna.co.kr"
-      },
-      "de": {
-        "title": "Immobilienkalender: 5.404 Wohnungen nächste Woche im Angebot, darunter Godeok Sujain Punggyeongchae",
-        "excerpt": "Laut Yonhap werden nächste Woche landesweit 5.404 Wohnungen angeboten, darunter Godeok International New Town Sujain Punggyeongchae.",
-        "body": "In der kommenden Woche werden auf dem südkoreanischen Wohnungsmarkt insgesamt 5.404 Einheiten angeboten. Nach einem Bericht von Oh Jin-song für Yonhap News umfasst das Angebot unter anderem Godeok International New Town Sujain Punggyeongchae. Die Meldung gehört zum wöchentlichen Immobilienkalender und zeigt den Umfang der landesweit geplanten neuen Versorgung. Das vorgesehene Volumen liegt bei rund 5.400 Einheiten, wobei Godeok International New Town Sujain Punggyeongchae als einer der genannten Hauptkomplexe hervorgehoben wird. Interessenten sollten die nächste Woche veröffentlichten Termine und Projektdaten prüfen. Quelle: yna.co.kr"
-      },
-      "fr": {
-        "title": "Calendrier immobilier : 5 404 logements proposés la semaine prochaine, dont Godeok Sujain Punggyeongchae",
-        "excerpt": "Selon Yonhap, 5 404 logements seront proposés dans toute la Corée du Sud la semaine prochaine, dont Godeok International New Town Sujain Punggyeongchae.",
-        "body": "La semaine prochaine, le marché sud-coréen de la vente immobilière comptera un total de 5 404 logements proposés. Selon un article d’Oh Jin-song pour Yonhap News, l’offre comprend notamment Godeok International New Town Sujain Punggyeongchae. Cette information figure dans le calendrier immobilier hebdomadaire et indique l’ampleur de la nouvelle offre prévue à l’échelle nationale. Le volume annoncé atteint environ 5 400 logements, Godeok International New Town Sujain Punggyeongchae étant cité parmi les principaux complexes. Les personnes intéressées par ces ventes devront vérifier les calendriers et les informations de projet publiés la semaine prochaine. Source : yna.co.kr"
-      },
-      "ar": {
-        "title": "تقويم العقارات: طرح 5,404 وحدات الأسبوع المقبل بينها Godeok Sujain Punggyeongchae",
-        "excerpt": "أفادت يونهاب بأن كوريا الجنوبية ستشهد الأسبوع المقبل توريد 5,404 وحدات سكنية على مستوى البلاد، منها Godeok International New Town Sujain Punggyeongchae.",
-        "body": "سيشهد سوق التوزيع العقاري في كوريا الجنوبية الأسبوع المقبل طرح ما مجموعه 5,404 وحدات سكنية. وبحسب تقرير أعده أوه جين-سونغ لوكالة يونهاب، تشمل المعروضات Godeok International New Town Sujain Punggyeongchae وغيرها. وتأتي هذه المعلومات ضمن التقويم العقاري الأسبوعي، وتوضح حجم المعروض السكني الجديد المقرر على مستوى البلاد. ويبلغ الحجم المخطط نحو 5,400 وحدة، مع ذكر Godeok International New Town Sujain Punggyeongchae بوصفه أحد المجمعات الرئيسية. وعلى المهتمين بالطرح متابعة الجداول ومعلومات المجمعات التي ستصدر الأسبوع المقبل. المصدر: yna.co.kr"
-      },
-      "hi": {
-        "title": "रियल एस्टेट कैलेंडर: अगले सप्ताह 5,404 घरों की आपूर्ति, Godeok Sujain Punggyeongchae शामिल",
-        "excerpt": "योनहाप के अनुसार अगले सप्ताह दक्षिण कोरिया में Godeok International New Town Sujain Punggyeongchae सहित कुल 5,404 घरों की आपूर्ति होगी।",
-        "body": "अगले सप्ताह दक्षिण कोरिया के आवासीय बिक्री बाजार में कुल 5,404 घरों की आपूर्ति की जाएगी। योनहाप न्यूज़ के ओह जिन-सोंग की रिपोर्ट के अनुसार, इस आपूर्ति में Godeok International New Town Sujain Punggyeongchae सहित अन्य परियोजनाएं शामिल हैं। यह जानकारी साप्ताहिक रियल एस्टेट कैलेंडर के तहत दी गई है और देशभर में निर्धारित नई आवासीय आपूर्ति का आकार दिखाती है। नियोजित मात्रा लगभग 5,400 इकाइयों की है, जिसमें Godeok International New Town Sujain Punggyeongchae को प्रमुख परिसर के रूप में उल्लेखित किया गया है। बिक्री पर विचार कर रहे मांगकर्ताओं को अगले सप्ताह जारी होने वाले कार्यक्रम और परियोजना विवरण देखने होंगे। स्रोत: yna.co.kr"
-      },
-      "id": {
-        "title": "Kalender Properti: 5.404 Unit Dipasarkan Pekan Depan, Termasuk Godeok Sujain Punggyeongchae",
-        "excerpt": "Yonhap melaporkan bahwa 5.404 unit hunian akan dipasok di seluruh Korea Selatan pekan depan, termasuk Godeok International New Town Sujain Punggyeongchae.",
-        "body": "Pekan depan, pasar penjualan hunian di Korea Selatan akan mendapat pasokan total 5.404 unit. Menurut laporan Oh Jin-song dari Yonhap News, pasokan tersebut mencakup Godeok International New Town Sujain Punggyeongchae dan proyek lainnya. Informasi ini disampaikan dalam kalender properti mingguan dan menunjukkan skala pasokan baru yang dijadwalkan secara nasional. Volume yang direncanakan berada di kisaran 5.400 unit, dengan Godeok International New Town Sujain Punggyeongchae disebut sebagai salah satu kompleks utama. Calon pembeli perlu memeriksa jadwal dan informasi proyek yang dirilis pekan depan. Sumber: yna.co.kr"
-      }
-    }
-  },
-  {
-    "id": "3faf81e3ae3b",
-    "slug": "주유소-기름값-6주-연속-상승종전-기대감-속-하락-전환할까-698914",
-    "channelId": "ETF",
-    "category": "etf",
-    "publishedAt": "2026-05-08T22:37:19.003Z",
-    "updatedAt": "2026-05-08T22:37:19.003Z",
-    "sourceName": "yna.co.kr",
-    "sourceUrl": "https://www.yna.co.kr/view/AKR20260508159400003",
-    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260508159400003",
-    "titleFingerprint": "c6a8e7679fd7cd91ab59cb47748d03d756f9af6e",
-    "dedupKeys": [
-      "3faf81e3ae3b0a576b7099bfb3ff8704d67b0434",
-      "c6a8e7679fd7cd91ab59cb47748d03d756f9af6e",
-      "d399a5e7976334f539d517428c3c991a3d60fba8"
-    ],
-    "imageUrl": "/images/articles/3faf81e3ae3b.jpg",
-    "i18n": {
-      "ko": {
-        "title": "주유소 기름값 6주 연속 상승, 종전 기대감 속 하락 전환 주목",
-        "excerpt": "연합뉴스에 따르면 이번 주 국내 주유소 휘발유와 경유의 주간 평균 가격이 6주 연속 함께 상승했으며, 종전 기대감 속 향후 하락 전환 여부가 주목된다.",
-        "body": "이번 주 국내 주유소에서 판매되는 휘발유와 경유의 주간 평균 가격이 6주 연속 동반 상승했다. 연합뉴스가 전한 보도에 따르면 서울발 기사에서 김민지 기자는 국내 주유소 기름값 흐름이 다시 오름세를 이어갔다고 밝혔다. 이번 상승은 휘발유와 경유가 같은 기간 함께 오른 점에서 소비자 부담과 운송비 흐름에 영향을 줄 수 있는 가격 지표로 주목된다. 다만 원문 제목은 종전 기대감 속에서 향후 하락 전환 가능성에도 관심이 모인다고 전했다. 구체적인 가격 수치나 변동 폭은 제공된 원문 요약에 포함되지 않았다. 출처: yna.co.kr"
-      },
-      "en": {
-        "title": "Korean Gas Station Fuel Prices Rise for Sixth Week as Reversal Is Watched",
-        "excerpt": "According to Yonhap, weekly average gasoline and diesel prices at South Korean gas stations rose together for a sixth straight week, drawing attention to whether they may turn lower amid hopes for an end to the war.",
-        "body": "Weekly average prices of gasoline and diesel sold at South Korean gas stations rose together for the sixth consecutive week. In a Seoul-datelined report, Yonhap News Agency said reporter Kim Min-ji noted that domestic gas station fuel prices continued their upward trend. The simultaneous increase in both gasoline and diesel is being watched as a price indicator that may affect consumer costs and transportation expenses. The original headline also pointed to interest in whether prices could shift downward amid expectations for an end to the war. Specific price levels or the scale of the changes were not included in the provided source summary. Source: yna.co.kr"
-      },
-      "ja": {
-        "title": "韓国ガソリンスタンド燃料価格が6週連続上昇、下落転換に注目",
-        "excerpt": "聯合ニュースによると、今週の韓国国内ガソリンスタンドのガソリンと軽油の週間平均価格は6週連続でそろって上昇し、終戦期待の中で下落転換するかが注目されている。",
-        "body": "今週、韓国国内のガソリンスタンドで販売されるガソリンと軽油の週間平均価格が6週連続でそろって上昇した。聯合ニュースのソウル発記事によると、キム・ミンジ記者は国内ガソリンスタンドの燃料価格が再び上昇基調を続けたと伝えた。ガソリンと軽油が同じ期間にともに上がった点は、消費者負担や輸送費の流れに影響し得る価格指標として注目される。一方、原文の見出しは終戦期待の中で今後下落に転じる可能性にも関心が集まるとした。具体的な価格水準や変動幅は提供された要約には含まれていない。出典: yna.co.kr"
-      },
-      "zh": {
-        "title": "韩国加油站油价连续6周上涨，停战预期下能否转跌受关注",
-        "excerpt": "据韩联社报道，本周韩国国内加油站汽油和柴油周均价格连续第6周同步上涨，在停战预期之下，后续是否转为下跌受到关注。",
-        "body": "本周，韩国国内加油站销售的汽油和柴油周均价格连续第6周同步上涨。韩联社首尔报道称，记者金敏智指出，韩国加油站油价走势再次延续升势。汽油和柴油在同一时期共同上涨，使其成为可能影响消费者负担和运输成本走势的价格指标，因而受到关注。不过，原文标题也提到，在停战预期之下，市场关注未来油价是否可能转为下跌。提供的原文摘要中未包含具体价格水平或涨幅数据。来源: yna.co.kr"
-      },
-      "es": {
-        "title": "Precios de combustible en Corea suben por sexta semana y se vigila giro a la baja",
-        "excerpt": "Según Yonhap, los precios semanales promedio de la gasolina y el diésel en las estaciones de servicio de Corea del Sur subieron juntos por sexta semana consecutiva, mientras se observa si podrían bajar ante expectativas de fin de la guerra.",
-        "body": "Esta semana, los precios semanales promedio de la gasolina y el diésel vendidos en estaciones de servicio de Corea del Sur subieron juntos por sexta semana consecutiva. En una nota fechada en Seúl, la agencia Yonhap informó que la periodista Kim Min-ji señaló que los precios internos del combustible en gasolineras mantuvieron nuevamente una tendencia alcista. El avance simultáneo de gasolina y diésel se considera un indicador de precios que puede influir en la carga de los consumidores y en los costos de transporte. El titular original también destacó la atención sobre una posible reversión a la baja ante expectativas de fin de la guerra. El resumen proporcionado no incluyó niveles de precios ni variaciones concretas. Fuente: yna.co.kr"
-      },
-      "pt": {
-        "title": "Combustíveis na Coreia sobem pela 6ª semana e possível queda é observada",
-        "excerpt": "Segundo a Yonhap, os preços médios semanais da gasolina e do diesel nos postos da Coreia do Sul subiram juntos pela sexta semana seguida, enquanto se observa uma possível virada para queda em meio a expectativas de fim da guerra.",
-        "body": "Nesta semana, os preços médios semanais da gasolina e do diesel vendidos em postos da Coreia do Sul subiram juntos pela sexta semana consecutiva. Em reportagem de Seul, a agência Yonhap informou que a repórter Kim Min-ji apontou que os preços domésticos dos combustíveis nos postos mantiveram novamente a trajetória de alta. A elevação simultânea de gasolina e diesel é acompanhada como um indicador de preços que pode afetar o peso sobre consumidores e os custos de transporte. O título original também indicou atenção à possibilidade de queda futura em meio a expectativas de fim da guerra. O resumo fornecido não trouxe valores específicos nem a dimensão das variações. Fonte: yna.co.kr"
-      },
-      "de": {
-        "title": "Südkoreas Tankstellenpreise steigen sechs Wochen in Folge, Wende im Blick",
-        "excerpt": "Laut Yonhap stiegen die wöchentlichen Durchschnittspreise für Benzin und Diesel an südkoreanischen Tankstellen zum sechsten Mal in Folge gemeinsam; nun wird beobachtet, ob sie angesichts von Erwartungen auf ein Kriegsende fallen könnten.",
-        "body": "In dieser Woche sind die wöchentlichen Durchschnittspreise für Benzin und Diesel an südkoreanischen Tankstellen zum sechsten Mal in Folge gemeinsam gestiegen. In einem Bericht aus Seoul teilte die Nachrichtenagentur Yonhap mit, Reporter Kim Min-ji habe darauf hingewiesen, dass die inländischen Kraftstoffpreise an Tankstellen ihren Aufwärtstrend fortsetzten. Der gleichzeitige Anstieg von Benzin und Diesel gilt als Preisindikator, der Verbraucherbelastung und Transportkosten beeinflussen kann. Die ursprüngliche Überschrift verwies zudem auf die Frage, ob die Preise angesichts von Erwartungen auf ein Kriegsende künftig nach unten drehen könnten. Konkrete Preise oder Veränderungsraten enthielt die bereitgestellte Zusammenfassung nicht. Quelle: yna.co.kr"
-      },
-      "fr": {
-        "title": "Carburants en Corée du Sud: sixième semaine de hausse, baisse à surveiller",
-        "excerpt": "Selon Yonhap, les prix moyens hebdomadaires de l’essence et du diesel dans les stations-service sud-coréennes ont augmenté ensemble pour la sixième semaine consécutive, tandis qu’une éventuelle baisse est observée sur fond d’espoirs de fin de guerre.",
-        "body": "Cette semaine, les prix moyens hebdomadaires de l’essence et du diesel vendus dans les stations-service sud-coréennes ont augmenté ensemble pour la sixième semaine consécutive. Dans une dépêche datée de Séoul, l’agence Yonhap a rapporté que la journaliste Kim Min-ji indiquait que les prix domestiques des carburants en station poursuivaient leur tendance haussière. La progression simultanée de l’essence et du diesel est suivie comme un indicateur pouvant peser sur les consommateurs et les coûts de transport. Le titre original soulignait aussi l’attention portée à une possible baisse future dans un contexte d’espoirs de fin de guerre. Le résumé fourni ne contenait pas de niveaux de prix ni d’ampleur de variation précis. Source: yna.co.kr"
-      },
-      "ar": {
-        "title": "أسعار الوقود في كوريا ترتفع للأسبوع السادس وترقب لاحتمال الهبوط",
-        "excerpt": "بحسب يونهاب، ارتفع متوسط أسعار البنزين والديزل الأسبوعي في محطات الوقود بكوريا الجنوبية معا للأسبوع السادس على التوالي، وسط ترقب ما إذا كانت ستتحول إلى الانخفاض مع آمال نهاية الحرب.",
-        "body": "ارتفع متوسط الأسعار الأسبوعي للبنزين والديزل المباعين في محطات الوقود بكوريا الجنوبية معا للأسبوع السادس على التوالي هذا الأسبوع. وذكرت وكالة يونهاب في تقرير من سيول أن الصحفية كيم مين-جي أشارت إلى أن أسعار الوقود المحلية في المحطات واصلت اتجاهها الصعودي. ويجذب الارتفاع المتزامن في البنزين والديزل الانتباه بوصفه مؤشرا سعريا قد يؤثر في أعباء المستهلكين وتكاليف النقل. كما أشار العنوان الأصلي إلى الاهتمام بإمكان تحول الأسعار إلى الانخفاض لاحقا وسط آمال بانتهاء الحرب. ولم يتضمن الملخص المقدم مستويات سعرية محددة أو حجم التغيرات. المصدر: yna.co.kr"
-      },
-      "hi": {
-        "title": "कोरिया में पेट्रोल पंप ईंधन कीमतें छठे सप्ताह बढ़ीं, गिरावट पर नजर",
-        "excerpt": "योनहाप के अनुसार, इस सप्ताह दक्षिण कोरिया के पेट्रोल पंपों पर पेट्रोल और डीजल की साप्ताहिक औसत कीमतें लगातार छठे सप्ताह साथ बढ़ीं, जबकि युद्ध समाप्ति की उम्मीदों के बीच संभावित गिरावट पर ध्यान है।",
-        "body": "इस सप्ताह दक्षिण कोरिया के पेट्रोल पंपों पर बिकने वाले पेट्रोल और डीजल की साप्ताहिक औसत कीमतें लगातार छठे सप्ताह साथ-साथ बढ़ीं। सियोल से प्रकाशित योनहाप की रिपोर्ट में पत्रकार किम मिन-जी ने बताया कि घरेलू पेट्रोल पंप ईंधन कीमतों में तेजी का रुझान फिर जारी रहा। पेट्रोल और डीजल दोनों का एक ही अवधि में बढ़ना ऐसा मूल्य संकेतक है, जो उपभोक्ताओं के बोझ और परिवहन लागत की दिशा को प्रभावित कर सकता है। मूल शीर्षक में यह भी कहा गया कि युद्ध समाप्ति की उम्मीदों के बीच आगे कीमतों के गिरावट की ओर मुड़ने पर भी ध्यान है। उपलब्ध कराए गए सारांश में具体 कीमतें या बदलाव की मात्रा शामिल नहीं थी। स्रोत: yna.co.kr"
-      },
-      "id": {
-        "title": "Harga BBM SPBU Korea Naik 6 Pekan, Arah Turun Kini Jadi Sorotan",
-        "excerpt": "Menurut Yonhap, harga rata-rata mingguan bensin dan diesel di SPBU Korea Selatan naik bersamaan selama enam pekan berturut-turut, sementara kemungkinan berbalik turun di tengah harapan berakhirnya perang menjadi perhatian.",
-        "body": "Pekan ini, harga rata-rata mingguan bensin dan diesel yang dijual di SPBU Korea Selatan naik bersamaan untuk pekan keenam berturut-turut. Dalam laporan dari Seoul, Yonhap menyebut reporter Kim Min-ji menyampaikan bahwa harga BBM domestik di SPBU kembali melanjutkan tren kenaikan. Kenaikan serentak bensin dan diesel menjadi indikator harga yang dapat memengaruhi beban konsumen serta arah biaya transportasi. Namun, judul asli juga menyoroti perhatian pada kemungkinan harga berbalik turun ke depan di tengah harapan berakhirnya perang. Ringkasan sumber yang diberikan tidak memuat angka harga spesifik atau besaran perubahan. Sumber: yna.co.kr"
       }
     }
   }
