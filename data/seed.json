@@ -1,5 +1,230 @@
 [
   {
+    "id": "779e479031b9",
+    "slug": "외국환시세5월8일마감가-713430",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-05-09T12:29:53.699Z",
+    "updatedAt": "2026-05-09T12:29:53.699Z",
+    "sourceName": "yna.co.kr",
+    "sourceUrl": "https://www.yna.co.kr/view/AKR20260508123400002",
+    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260508123400002",
+    "titleFingerprint": "c4b2ab1458e5d7b0e3cd11bebf4a28b6c50d3946",
+    "dedupKeys": [
+      "779e479031b96aefbccc0fe5f0bce3de1b105a60",
+      "c4b2ab1458e5d7b0e3cd11bebf4a28b6c50d3946",
+      "c21442449c4b98871e96d26252e54f2fcb1c779e"
+    ],
+    "imageUrl": "/images/articles/779e479031b9.jpg",
+    "i18n": {
+      "ko": {
+        "title": "외국환시세 5월 8일 마감가, 15시30분 기준 환율 고시",
+        "excerpt": "연합뉴스는 5월 8일 오후 3시30분 기준 외국환시세 마감가를 전했다. 이날 고시된 환율 정보는 국내 금융시장과 외환 거래 참고 자료로 활용된다.",
+        "body": "연합뉴스는 5월 8일 오후 3시30분 기준 외국환시세 마감가를 보도했다. 이번 자료는 해당 시점에 확인된 외환시장 마감 환율 정보를 전달하는 공시성 기사다. 원문에는 제목과 기준 시각, 출처가 제시됐으며 개별 통화별 환율 수치는 포함되지 않았다. 외국환시세 마감가는 은행, 기업, 투자자 등이 당일 외환 흐름을 확인할 때 참고하는 기본 자료로 쓰인다. 다만 구체적 통화별 등락이나 배경 요인은 원문에서 확인되지 않았다. 출처: yna.co.kr"
+      },
+      "en": {
+        "title": "Foreign Exchange Rates Close on May 8, Quoted as of 3:30 p.m.",
+        "excerpt": "Yonhap reported the closing foreign exchange rates as of 3:30 p.m. on May 8. The quoted data serves as a reference for Korea’s financial market and currency transactions.",
+        "body": "Yonhap reported the closing foreign exchange rates as of 3:30 p.m. on May 8. The item is a notice-style report delivering foreign exchange closing information confirmed at that time. The source text provides the headline, reference time and source, but does not include individual currency rate figures. Closing foreign exchange rates are basic reference data used by banks, companies and investors to check the day’s currency market conditions. Specific currency-by-currency movements or background factors were not stated in the original. Source: yna.co.kr"
+      },
+      "ja": {
+        "title": "外国為替相場5月8日終値、15時30分基準で公表",
+        "excerpt": "聯合ニュースは5月8日午後3時30分基準の外国為替相場終値を伝えた。この公表値は韓国の金融市場や為替取引の参考資料となる。",
+        "body": "聯合ニュースは5月8日午後3時30分基準の外国為替相場終値を報じた。今回の資料は、その時点で確認された為替市場の終値情報を伝える告示性の記事である。原文には見出し、基準時刻、出所が示されているが、個別通貨別の為替レート数値は含まれていない。外国為替相場の終値は、銀行、企業、投資家などが当日の為替の流れを確認する際の基本資料として使われる。ただし、具体的な通貨別の変動や背景要因は原文で確認されていない。出所: yna.co.kr"
+      },
+      "zh": {
+        "title": "5月8日外汇牌价收盘价，按15时30分基准公布",
+        "excerpt": "韩联社报道了5月8日下午3时30分基准的外汇牌价收盘价。该汇率信息可作为韩国金融市场和外汇交易的参考资料。",
+        "body": "韩联社报道了5月8日下午3时30分基准的外汇牌价收盘价。该信息属于公告性质，传达截至该时点确认的外汇市场收盘汇率资料。原文提供了标题、基准时间和来源，但未包含各具体货币的汇率数值。外汇牌价收盘价通常被银行、企业和投资者用作了解当日外汇走势的基础参考资料。不过，原文未说明具体货币的涨跌情况或相关背景因素。来源: yna.co.kr"
+      },
+      "es": {
+        "title": "Tipos de cambio al cierre del 8 de mayo, referencia de las 15:30",
+        "excerpt": "Yonhap informó los tipos de cambio al cierre con referencia a las 15:30 del 8 de mayo. Los datos sirven como referencia para el mercado financiero coreano y operaciones cambiarias.",
+        "body": "Yonhap informó los tipos de cambio al cierre con referencia a las 15:30 del 8 de mayo. El contenido es una nota de carácter informativo que comunica los datos de cierre del mercado cambiario confirmados en ese momento. El texto original incluye el título, la hora de referencia y la fuente, pero no contiene cifras por moneda individual. Los tipos de cambio de cierre se usan como datos básicos por bancos, empresas e inversores para revisar la evolución diaria del mercado de divisas. El original no detalla movimientos por moneda ni factores de contexto. Fuente: yna.co.kr"
+      },
+      "pt": {
+        "title": "Câmbio de 8 de maio no fechamento, cotação das 15h30",
+        "excerpt": "A Yonhap informou as taxas de câmbio de fechamento com base nas 15h30 de 8 de maio. Os dados servem de referência para o mercado financeiro coreano e transações cambiais.",
+        "body": "A Yonhap informou as taxas de câmbio de fechamento com base nas 15h30 de 8 de maio. O material é uma nota de caráter informativo que transmite os dados de fechamento do mercado de câmbio confirmados naquele horário. O texto original apresenta o título, o horário de referência e a fonte, mas não inclui números por moeda específica. As taxas de câmbio de fechamento são usadas por bancos, empresas e investidores como referência básica para acompanhar o movimento cambial do dia. O original não informa variações por moeda nem fatores de contexto. Fonte: yna.co.kr"
+      },
+      "de": {
+        "title": "Devisenkurse zum Schluss am 8. Mai, Stand 15:30 Uhr",
+        "excerpt": "Yonhap meldete die Devisenschlusskurse mit Stand 15:30 Uhr am 8. Mai. Die Angaben dienen als Referenz für den koreanischen Finanzmarkt und Devisentransaktionen.",
+        "body": "Yonhap meldete die Devisenschlusskurse mit Stand 15:30 Uhr am 8. Mai. Der Beitrag ist eine hinweisartige Meldung zu den zu diesem Zeitpunkt bestätigten Schlussinformationen am Devisenmarkt. Der Originaltext nennt Überschrift, Referenzzeit und Quelle, enthält jedoch keine einzelnen Wechselkurswerte nach Währung. Devisenschlusskurse werden von Banken, Unternehmen und Anlegern als Basisdaten genutzt, um die tägliche Entwicklung am Währungsmarkt nachzuvollziehen. Konkrete Bewegungen einzelner Währungen oder Hintergründe wurden im Original nicht genannt. Quelle: yna.co.kr"
+      },
+      "fr": {
+        "title": "Taux de change de clôture du 8 mai, référence à 15h30",
+        "excerpt": "Yonhap a publié les taux de change de clôture au 8 mai à 15h30. Ces données servent de référence au marché financier coréen et aux opérations de change.",
+        "body": "Yonhap a publié les taux de change de clôture au 8 mai à 15h30. Il s’agit d’une dépêche à caractère informatif présentant les données de clôture du marché des changes confirmées à cet horaire. Le texte original fournit le titre, l’heure de référence et la source, mais ne contient pas de chiffres par devise. Les taux de change de clôture servent de données de base aux banques, entreprises et investisseurs pour suivre l’évolution quotidienne du marché des devises. Les variations par devise ou les facteurs de contexte ne sont pas précisés dans l’original. Source: yna.co.kr"
+      },
+      "ar": {
+        "title": "أسعار الصرف عند إغلاق 8 مايو وفق مرجع الساعة 15:30",
+        "excerpt": "أفادت يونهاب بأسعار صرف العملات الأجنبية عند الإغلاق وفق مرجع الساعة 15:30 في 8 مايو. وتستخدم هذه البيانات مرجعا للسوق المالية الكورية ومعاملات الصرف.",
+        "body": "أفادت يونهاب بأسعار صرف العملات الأجنبية عند الإغلاق وفق مرجع الساعة 15:30 في 8 مايو. ويعد الخبر مادة ذات طابع إعلاني تنقل معلومات الإغلاق في سوق الصرف المؤكدة عند ذلك الوقت. يورد النص الأصلي العنوان ووقت المرجع والمصدر، لكنه لا يتضمن أرقاما منفصلة لأسعار كل عملة. وتستخدم أسعار الإغلاق في سوق الصرف كبيانات أساسية لدى البنوك والشركات والمستثمرين لمراجعة حركة العملات خلال اليوم. ولم يذكر الأصل تحركات محددة حسب العملة أو عوامل خلفية. المصدر: yna.co.kr"
+      },
+      "hi": {
+        "title": "8 मई के विदेशी मुद्रा बंद भाव, 15:30 बजे के आधार पर जारी",
+        "excerpt": "योनहाप ने 8 मई को दोपहर 3:30 बजे के आधार पर विदेशी मुद्रा बंद भाव की जानकारी दी। ये दरें कोरियाई वित्तीय बाजार और विदेशी मुद्रा लेनदेन के लिए संदर्भ डेटा हैं।",
+        "body": "योनहाप ने 8 मई को दोपहर 3:30 बजे के आधार पर विदेशी मुद्रा बंद भाव की रिपोर्ट दी। यह सामग्री उस समय पुष्टि की गई विदेशी मुद्रा बाजार की बंद दरों की सूचना देने वाली नोटिस-शैली की खबर है। मूल पाठ में शीर्षक, संदर्भ समय और स्रोत दिया गया है, लेकिन अलग-अलग मुद्राओं की दरें शामिल नहीं हैं। विदेशी मुद्रा बंद भाव बैंक, कंपनियों और निवेशकों के लिए दिन के मुद्रा बाजार रुझान को समझने का बुनियादी संदर्भ होते हैं। मूल में मुद्रा-वार उतार-चढ़ाव या पृष्ठभूमि कारण नहीं बताए गए। स्रोत: yna.co.kr"
+      },
+      "id": {
+        "title": "Kurs Valuta Asing Penutupan 8 Mei, Acuan Pukul 15.30",
+        "excerpt": "Yonhap melaporkan kurs valuta asing penutupan berdasarkan pukul 15.30 pada 8 Mei. Data ini menjadi rujukan bagi pasar keuangan Korea dan transaksi valuta asing.",
+        "body": "Yonhap melaporkan kurs valuta asing penutupan berdasarkan pukul 15.30 pada 8 Mei. Artikel ini bersifat pemberitahuan yang menyampaikan informasi kurs penutupan pasar valuta asing yang terkonfirmasi pada waktu tersebut. Teks asli memuat judul, waktu acuan, dan sumber, tetapi tidak menyertakan angka kurs untuk masing-masing mata uang. Kurs penutupan valuta asing digunakan oleh bank, perusahaan, dan investor sebagai data dasar untuk melihat pergerakan pasar pada hari itu. Perubahan per mata uang atau faktor latar belakang tidak dijelaskan dalam naskah asli. Sumber: yna.co.kr"
+      }
+    }
+  },
+  {
+    "id": "f84b7530167a",
+    "slug": "특징주-현대차-7-급등현대차그룹주-일제히-상승-마감종합-417064",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-05-09T12:28:20.131Z",
+    "updatedAt": "2026-05-09T12:28:20.131Z",
+    "sourceName": "yna.co.kr",
+    "sourceUrl": "https://www.yna.co.kr/view/AKR20260508096851008",
+    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260508096851008",
+    "titleFingerprint": "2018ea9bde3e9189eacca306f03d3a3c58a6ac61",
+    "dedupKeys": [
+      "f84b7530167a9d6be6229479df655e1edabd8f6a",
+      "2018ea9bde3e9189eacca306f03d3a3c58a6ac61",
+      "c1a866c802d0a9c8b4e67a252b6f1d121bb42cc5"
+    ],
+    "imageUrl": "/images/articles/f84b7530167a.jpg",
+    "i18n": {
+      "ko": {
+        "title": "현대차 7%대 급등, 현대차그룹주 8일 일제히 상승 마감",
+        "excerpt": "현대차가 8일 7% 넘게 급등하며 현대차그룹 관련주가 일제히 강세로 마감했다. 연합뉴스는 이날 그룹주 전반의 상승 흐름을 보도했다.",
+        "body": "현대차가 8일 7% 넘게 급등하며 현대차그룹 관련주가 일제히 상승세를 이어간 채 장을 마쳤다. 서울발 연합뉴스 보도에 따르면 이날 현대차를 중심으로 현대차그룹 관련 종목들이 강세를 보이며 시장의 관심을 모았다. 핵심 수치는 현대차 주가가 7% 넘게 뛰었다는 점이며, 관련 그룹주도 함께 상승 마감했다는 데 있다. 이번 흐름은 현대차그룹주 전반에 대한 투자자 관심이 같은 날 집중됐음을 보여준다. 다만 원문은 구체적인 상승 배경이나 개별 종목별 등락률을 추가로 제시하지 않았다. 출처: yna.co.kr."
+      },
+      "en": {
+        "title": "Hyundai Motor Jumps Over 7%, Group Shares Close Higher on May 8",
+        "excerpt": "Hyundai Motor surged more than 7% on May 8, while Hyundai Motor Group-related shares closed broadly higher, Yonhap News Agency reported from Seoul.",
+        "body": "Hyundai Motor surged more than 7% on May 8, and Hyundai Motor Group-related shares continued their strong run to close higher across the board. According to a Seoul-datelined report by Yonhap News Agency, Hyundai Motor led the move as related Hyundai Motor Group stocks drew market attention on the day. The key figure in the original report is Hyundai Motor’s gain of more than 7%, alongside a broad advance among affiliated group shares. The move shows investor focus on Hyundai Motor Group stocks that day. The source article did not provide further details on the specific reason for the rise or individual stock moves. Source: yna.co.kr."
+      },
+      "ja": {
+        "title": "現代自動車が7％超急騰、現代車グループ株が8日に一斉高",
+        "excerpt": "現代自動車が8日に7％超急騰し、現代自動車グループ関連株がそろって強含みで取引を終えたと聯合ニュースが報じた。",
+        "body": "現代自動車は8日、7％を超えて急騰し、現代自動車グループ関連株もそろって上昇基調を維持したまま取引を終えた。ソウル発の聯合ニュースによると、この日は現代自動車を中心に現代自動車グループ関連銘柄が強含みとなり、市場の関心を集めた。原文で示された主な数値は、現代自動車の株価が7％超上昇した点であり、関連グループ株もあわせて上昇して引けたという内容だ。今回の動きは、同日に現代自動車グループ株全般へ投資家の注目が集まったことを示している。ただし原文は、具体的な上昇要因や個別銘柄ごとの騰落率を追加で示していない。出典: yna.co.kr."
+      },
+      "zh": {
+        "title": "现代汽车大涨逾7%，现代汽车集团股8日集体收高",
+        "excerpt": "现代汽车8日大涨逾7%，现代汽车集团相关股票集体走强并收高，韩联社首尔报道称相关集团股延续强势。",
+        "body": "现代汽车8日大涨逾7%，现代汽车集团相关股票也延续强势并集体收高。韩联社首尔报道称，当天以现代汽车为中心，现代汽车集团相关个股表现强劲，受到市场关注。原文中的核心数据是现代汽车股价上涨超过7%，同时相关集团股也一同收涨。此次走势显示，投资者在当天对现代汽车集团股票整体关注度上升。不过，原文未进一步说明具体上涨背景，也未列出各个相关股票的涨跌幅。来源: yna.co.kr."
+      },
+      "es": {
+        "title": "Hyundai Motor sube más del 7% y acciones del grupo cierran al alza",
+        "excerpt": "Hyundai Motor se disparó más del 7% el 8 de mayo y las acciones vinculadas a Hyundai Motor Group cerraron ampliamente al alza, informó Yonhap.",
+        "body": "Hyundai Motor se disparó más del 7% el 8 de mayo, mientras las acciones relacionadas con Hyundai Motor Group mantuvieron la fortaleza y cerraron al alza en conjunto. Según un reporte de Yonhap News Agency fechado en Seúl, Hyundai Motor lideró el movimiento y los valores vinculados al grupo atrajeron la atención del mercado durante la jornada. El dato central del texto original es que la acción de Hyundai Motor avanzó más del 7%, junto con un cierre positivo de las acciones relacionadas del grupo. Este movimiento muestra el interés de los inversores por Hyundai Motor Group ese día. La fuente no detalló la causa concreta de la subida ni las variaciones de cada valor. Fuente: yna.co.kr."
+      },
+      "pt": {
+        "title": "Hyundai Motor salta mais de 7% e ações do grupo fecham em alta",
+        "excerpt": "A Hyundai Motor subiu mais de 7% em 8 de maio, enquanto ações ligadas ao Hyundai Motor Group fecharam em alta generalizada, informou a Yonhap.",
+        "body": "A Hyundai Motor subiu mais de 7% em 8 de maio, e as ações relacionadas ao Hyundai Motor Group mantiveram força até o fechamento, encerrando em alta de forma ampla. Segundo reportagem da Yonhap News Agency, de Seul, a Hyundai Motor liderou o movimento, enquanto papéis vinculados ao grupo chamaram a atenção do mercado no dia. O principal dado citado no texto original é o avanço superior a 7% da ação da Hyundai Motor, acompanhado pela alta de ações relacionadas ao grupo. O movimento indica concentração de interesse dos investidores em Hyundai Motor Group naquele pregão. A fonte não informou a razão específica da alta nem os desempenhos individuais de cada papel. Fonte: yna.co.kr."
+      },
+      "de": {
+        "title": "Hyundai Motor steigt über 7%, Konzernaktien schließen am 8. Mai fester",
+        "excerpt": "Hyundai Motor legte am 8. Mai um mehr als 7% zu, während Aktien mit Bezug zur Hyundai Motor Group breit im Plus schlossen, berichtete Yonhap.",
+        "body": "Hyundai Motor sprang am 8. Mai um mehr als 7% nach oben, und Aktien mit Bezug zur Hyundai Motor Group setzten ihre Stärke fort und schlossen insgesamt höher. Laut einem Bericht der Yonhap News Agency aus Seoul stand Hyundai Motor im Mittelpunkt, während verbundene Konzernwerte die Aufmerksamkeit des Marktes auf sich zogen. Die zentrale Zahl im Originalbericht ist der Anstieg der Hyundai-Motor-Aktie um mehr als 7%, begleitet von einem höheren Schlusskurs der zugehörigen Gruppenaktien. Die Entwicklung zeigt, dass sich das Anlegerinteresse an diesem Tag auf Hyundai Motor Group konzentrierte. Der Originaltext nannte jedoch keinen konkreten Grund für den Anstieg und keine einzelnen Kursveränderungen. Quelle: yna.co.kr."
+      },
+      "fr": {
+        "title": "Hyundai Motor bondit de plus de 7%, les actions du groupe finissent en hausse",
+        "excerpt": "Hyundai Motor a bondi de plus de 7% le 8 mai et les actions liées à Hyundai Motor Group ont clôturé en hausse généralisée, selon Yonhap.",
+        "body": "Hyundai Motor a bondi de plus de 7% le 8 mai, tandis que les actions liées à Hyundai Motor Group ont poursuivi leur vigueur et terminé en hausse dans l’ensemble. Selon une dépêche de Yonhap News Agency datée de Séoul, Hyundai Motor a mené le mouvement et les valeurs associées au groupe ont attiré l’attention du marché ce jour-là. Le chiffre clé du texte original est la progression de plus de 7% de l’action Hyundai Motor, accompagnée d’une clôture positive des titres liés au groupe. Ce mouvement montre l’intérêt des investisseurs pour Hyundai Motor Group durant cette séance. La source n’a pas précisé la raison exacte de la hausse ni les variations individuelles des titres. Source: yna.co.kr."
+      },
+      "ar": {
+        "title": "هيونداي موتور تقفز بأكثر من 7% وأسهم المجموعة تغلق مرتفعة في 8 مايو",
+        "excerpt": "قفز سهم هيونداي موتور بأكثر من 7% في 8 مايو، وأغلقت الأسهم المرتبطة بمجموعة هيونداي موتور على ارتفاع جماعي، وفق يونهاب.",
+        "body": "قفز سهم هيونداي موتور بأكثر من 7% في 8 مايو، وواصلت الأسهم المرتبطة بمجموعة هيونداي موتور قوتها لتغلق مرتفعة على نطاق واسع. وبحسب تقرير لوكالة يونهاب للأنباء من سيول، قادت هيونداي موتور الحركة، بينما جذبت أسهم المجموعة ذات الصلة اهتمام السوق في ذلك اليوم. الرقم الأساسي في النص الأصلي هو ارتفاع سهم هيونداي موتور بأكثر من 7%، إلى جانب صعود أسهم المجموعة المرتبطة بها عند الإغلاق. ويظهر هذا التحرك تركّز اهتمام المستثمرين بأسهم مجموعة هيونداي موتور في ذلك اليوم. ولم يذكر النص الأصلي سبباً محدداً للصعود أو نسب تغير كل سهم على حدة. المصدر: yna.co.kr."
+      },
+      "hi": {
+        "title": "Hyundai Motor 7% से अधिक उछला, समूह के शेयर 8 मई को चढ़कर बंद",
+        "excerpt": "Hyundai Motor का शेयर 8 मई को 7% से अधिक उछला, जबकि Hyundai Motor Group से जुड़े शेयर सामूहिक रूप से मजबूत बंद हुए, Yonhap ने बताया।",
+        "body": "Hyundai Motor का शेयर 8 मई को 7% से अधिक उछला और Hyundai Motor Group से जुड़े शेयर भी मजबूती जारी रखते हुए व्यापक रूप से ऊंचे बंद हुए। सियोल से Yonhap News Agency की रिपोर्ट के अनुसार, उस दिन Hyundai Motor इस तेजी के केंद्र में रहा और समूह से संबंधित शेयरों ने बाजार का ध्यान खींचा। मूल रिपोर्ट में मुख्य आंकड़ा Hyundai Motor के शेयर में 7% से अधिक की बढ़त है, साथ ही संबंधित समूह शेयरों का भी चढ़कर बंद होना बताया गया है। यह रुझान दिखाता है कि उस दिन निवेशकों का ध्यान Hyundai Motor Group शेयरों पर केंद्रित था। मूल लेख ने तेजी का कोई विशिष्ट कारण या अलग-अलग शेयरों की चाल नहीं बताई। स्रोत: yna.co.kr."
+      },
+      "id": {
+        "title": "Hyundai Motor Melonjak Lebih 7%, Saham Grup Kompak Ditutup Naik",
+        "excerpt": "Hyundai Motor melonjak lebih dari 7% pada 8 Mei, sementara saham terkait Hyundai Motor Group ditutup menguat secara luas, menurut Yonhap.",
+        "body": "Hyundai Motor melonjak lebih dari 7% pada 8 Mei, dan saham-saham terkait Hyundai Motor Group melanjutkan penguatan hingga ditutup naik secara luas. Menurut laporan Yonhap News Agency dari Seoul, Hyundai Motor menjadi pusat pergerakan, sementara saham terkait grup menarik perhatian pasar pada hari itu. Angka utama dalam laporan asli adalah kenaikan saham Hyundai Motor lebih dari 7%, disertai penguatan saham grup yang terkait saat penutupan. Pergerakan ini menunjukkan perhatian investor terhadap saham Hyundai Motor Group pada hari tersebut. Namun, sumber asli tidak memberikan alasan spesifik atas kenaikan itu atau rincian perubahan masing-masing saham. Sumber: yna.co.kr."
+      }
+    }
+  },
+  {
+    "id": "a49aeb7da677",
+    "slug": "무주-안성면에-귀농귀촌-마을-조성내년까지-40가구-규모-201763",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-05-09T12:27:24.860Z",
+    "updatedAt": "2026-05-09T12:27:24.860Z",
+    "sourceName": "yna.co.kr",
+    "sourceUrl": "https://www.yna.co.kr/view/AKR20260508127100055",
+    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260508127100055",
+    "titleFingerprint": "2038fb93bfaee73560269063d29f0506e4e92994",
+    "dedupKeys": [
+      "a49aeb7da677b02c83f09fce7012c071f8095af4",
+      "2038fb93bfaee73560269063d29f0506e4e92994",
+      "b5d212e886560232f0eda7ba4c716c7e4b48f455"
+    ],
+    "imageUrl": "/images/articles/a49aeb7da677.jpg",
+    "i18n": {
+      "ko": {
+        "title": "무주 안성면 귀농귀촌 친환경마을, 2027년까지 40가구 조성",
+        "excerpt": "전북 무주군이 안성면 공정리에 2027년까지 귀농귀촌인과 은퇴자를 위한 40가구 규모 친환경마을을 조성한다고 연합뉴스가 보도했다.",
+        "body": "전북 무주군은 안성면 공정리에 귀농귀촌인과 은퇴자를 위한 친환경마을, 이른바 에코빌리지를 2027년까지 조성한다. 조성 규모는 40가구로, 대상은 농촌 정착을 희망하는 귀농귀촌인과 은퇴자다. 이번 사업은 무주군 안성면 공정리를 중심으로 추진되며, 친환경 주거 마을 조성을 통해 농촌 이주 수요에 대응하는 데 초점이 맞춰졌다. 구체적인 추가 시설이나 분양 방식 등은 원문 요약에 제시되지 않았다. 사업이 계획대로 진행되면 안성면 일대에는 2027년까지 40가구 규모의 새 정주 공간이 마련될 전망이다. 출처: yna.co.kr"
+      },
+      "en": {
+        "title": "Muju to Build 40-Home Eco Village in Anseong-myeon by 2027",
+        "excerpt": "Muju County in North Jeolla plans to create a 40-household eco village in Gongjeong-ri, Anseong-myeon, by 2027 for rural migrants and retirees, Yonhap reported.",
+        "body": "Muju County in North Jeolla Province will develop an eco-friendly village, or eco village, in Gongjeong-ri, Anseong-myeon, by 2027 for people moving to rural areas and retirees. The planned community will have 40 households. The project centers on Gongjeong-ri in Anseong-myeon and is aimed at providing a residential base for those seeking rural settlement after returning to farming, moving to the countryside, or retiring. The source summary did not provide details on additional facilities or sales methods. If the plan proceeds as announced, a new 40-household residential community will be created in the Anseong-myeon area by 2027. Source: yna.co.kr"
+      },
+      "ja": {
+        "title": "茂朱・安城面に帰農帰村エコビレッジ、2027年まで40世帯規模で造成",
+        "excerpt": "全北の茂朱郡は安城面公正里に、帰農帰村希望者と退職者向けの40世帯規模のエコビレッジを2027年までに造成すると聯合ニュースが報じた。",
+        "body": "全羅北道の茂朱郡は、安城面公正里に帰農帰村希望者と退職者のための環境配慮型村、いわゆるエコビレッジを2027年までに造成する。規模は40世帯で、対象は農村定住を望む帰農帰村者と退職者だ。今回の事業は茂朱郡安城面公正里を中心に進められ、環境に配慮した住宅村の造成を通じて農村移住需要に対応することに重点を置く。追加施設や分譲方式などの詳細は、原文要約では示されていない。計画通り進めば、安城面一帯に2027年までに40世帯規模の新たな定住空間が整備される見通しだ。出典: yna.co.kr"
+      },
+      "zh": {
+        "title": "茂朱安城面将建返乡定居生态村，2027年前形成40户规模",
+        "excerpt": "韩联社报道，全北茂朱郡将在安城面公正里于2027年前建设面向返乡务农、返乡定居人员和退休者的40户规模生态村。",
+        "body": "全北茂朱郡将在安城面公正里建设面向返乡务农、返乡定居人员和退休者的环保村，即生态村，计划于2027年前完成。该村规模为40户，主要面向希望在农村定居的返乡务农人员、返乡定居者和退休者。项目以茂朱郡安城面公正里为中心推进，重点是通过建设环保居住村落来回应农村迁居需求。原文摘要未提及追加设施或销售方式等具体内容。若计划按期推进，安城面一带到2027年将形成40户规模的新定居空间。来源: yna.co.kr"
+      },
+      "es": {
+        "title": "Muju creará una ecoaldea de 40 hogares en Anseong-myeon para 2027",
+        "excerpt": "El condado de Muju, en Jeonbuk, construirá hasta 2027 una ecoaldea de 40 hogares en Gongjeong-ri, Anseong-myeon, para nuevos residentes rurales y jubilados, informó Yonhap.",
+        "body": "El condado de Muju, en la provincia de Jeonbuk, desarrollará en Gongjeong-ri, Anseong-myeon, una aldea ecológica, o ecoaldea, para personas que se trasladan al campo y jubilados antes de 2027. El proyecto tendrá una escala de 40 hogares. La iniciativa se centrará en Gongjeong-ri y busca ofrecer un espacio residencial para quienes desean establecerse en zonas rurales, incluidos retornados al campo y personas retiradas. El resumen original no incluye detalles sobre instalaciones adicionales ni métodos de venta. Si el plan avanza según lo anunciado, Anseong-myeon contará para 2027 con un nuevo espacio de asentamiento de 40 hogares. Fuente: yna.co.kr"
+      },
+      "pt": {
+        "title": "Muju fará ecovila de 40 lares em Anseong-myeon até 2027",
+        "excerpt": "O condado de Muju, em Jeonbuk, planeja criar até 2027 uma ecovila de 40 lares em Gongjeong-ri, Anseong-myeon, para migrantes rurais e aposentados, informou a Yonhap.",
+        "body": "O condado de Muju, na província de Jeonbuk, vai desenvolver em Gongjeong-ri, Anseong-myeon, uma vila ecológica, ou ecovila, voltada a pessoas que migram para áreas rurais e aposentados até 2027. A comunidade terá escala de 40 lares. O projeto será conduzido em Gongjeong-ri e busca oferecer uma base residencial para quem pretende se estabelecer no campo, incluindo retornados à agricultura, novos moradores rurais e aposentados. O resumo original não trouxe detalhes sobre instalações adicionais ou formas de venda. Se o plano avançar conforme anunciado, a região de Anseong-myeon terá até 2027 um novo espaço de moradia para 40 lares. Fonte: yna.co.kr"
+      },
+      "de": {
+        "title": "Muju plant 40-Haushalte-Ökodorf in Anseong-myeon bis 2027",
+        "excerpt": "Der Landkreis Muju in Jeonbuk will bis 2027 in Gongjeong-ri, Anseong-myeon, ein Ökodorf mit 40 Haushalten für Landzuzügler und Ruheständler schaffen, berichtete Yonhap.",
+        "body": "Der Landkreis Muju in der Provinz Jeonbuk will in Gongjeong-ri, Anseong-myeon, bis 2027 ein umweltfreundliches Dorf, ein sogenanntes Ökodorf, für Menschen mit ländlichen Umsiedlungsplänen und Ruheständler entwickeln. Geplant ist eine Größe von 40 Haushalten. Das Projekt konzentriert sich auf Gongjeong-ri und soll Wohnraum für Personen schaffen, die sich auf dem Land niederlassen möchten, darunter Rückkehrer in die Landwirtschaft, Zuzügler in ländliche Gebiete und Rentner. Angaben zu weiteren Einrichtungen oder Verkaufsverfahren enthält die Zusammenfassung nicht. Bei planmäßiger Umsetzung entsteht in Anseong-myeon bis 2027 ein neuer Wohnstandort mit 40 Haushalten. Quelle: yna.co.kr"
+      },
+      "fr": {
+        "title": "Muju aménagera un écovillage de 40 foyers à Anseong-myeon d’ici 2027",
+        "excerpt": "Le comté de Muju, dans le Jeonbuk, prévoit de créer d’ici 2027 un écovillage de 40 foyers à Gongjeong-ri, Anseong-myeon, pour néoruraux et retraités, selon Yonhap.",
+        "body": "Le comté de Muju, dans la province du Jeonbuk, aménagera à Gongjeong-ri, Anseong-myeon, un village écologique, ou écovillage, destiné aux personnes s’installant en milieu rural et aux retraités d’ici 2027. Le projet porte sur 40 foyers. Il sera mené autour de Gongjeong-ri et vise à offrir un cadre résidentiel aux personnes souhaitant s’établir à la campagne, notamment les nouveaux arrivants ruraux, les personnes revenant vers l’agriculture et les retraités. Le résumé original ne précise pas les équipements supplémentaires ni les modalités de vente. Si le calendrier est respecté, Anseong-myeon disposera d’ici 2027 d’un nouvel espace d’installation de 40 foyers. Source: yna.co.kr"
+      },
+      "ar": {
+        "title": "موجو تنشئ قرية بيئية من 40 أسرة في أنسونغ-ميون بحلول 2027",
+        "excerpt": "أفادت يونهاب بأن مقاطعة موجو في شمال جولا ستنشئ بحلول 2027 قرية بيئية من 40 أسرة في غونغجونغ-ري بأنسونغ-ميون للمهاجرين إلى الريف والمتقاعدين.",
+        "body": "تعتزم مقاطعة موجو في إقليم شمال جولا إنشاء قرية صديقة للبيئة، أو ما يعرف بقرية بيئية، في غونغجونغ-ري بمنطقة أنسونغ-ميون بحلول عام 2027، وذلك للوافدين الراغبين في الاستقرار بالمناطق الريفية والمتقاعدين. وسيبلغ حجم المشروع 40 أسرة. يتركز المشروع في غونغجونغ-ري ويهدف إلى توفير مساحة سكنية لمن يرغبون في الانتقال إلى الريف أو العودة إلى الزراعة أو الاستقرار بعد التقاعد. ولم يرد في ملخص النص الأصلي تفاصيل عن مرافق إضافية أو طريقة التوزيع. وإذا مضت الخطة كما أُعلن، فستتوفر في أنسونغ-ميون مساحة استقرار جديدة تضم 40 أسرة بحلول 2027. المصدر: yna.co.kr"
+      },
+      "hi": {
+        "title": "मुजू के अनसोंग-म्योन में 2027 तक 40 घरों वाला इको विलेज बनेगा",
+        "excerpt": "योनहाप के अनुसार, जियोनबुक के मुजू काउंटी में अनसोंग-म्योन के गोंगजोंग-री में 2027 तक ग्रामीण बसावट चाहने वालों और सेवानिवृत्त लोगों के लिए 40 घरों वाला इको विलेज बनेगा।",
+        "body": "जियोनबुक प्रांत का मुजू काउंटी अनसोंग-म्योन के गोंगजोंग-री में 2027 तक ग्रामीण क्षेत्रों में बसना चाहने वालों और सेवानिवृत्त लोगों के लिए पर्यावरण-अनुकूल गांव, यानी इको विलेज, विकसित करेगा। इसकी योजना 40 घरों के पैमाने पर है। यह परियोजना गोंगजोंग-री को केंद्र में रखकर आगे बढ़ेगी और उन लोगों के लिए आवासीय आधार उपलब्ध कराने पर केंद्रित है जो खेती की ओर लौटना, ग्रामीण क्षेत्र में बसना या सेवानिवृत्ति के बाद ग्रामीण जीवन चुनना चाहते हैं। मूल सारांश में अतिरिक्त सुविधाओं या बिक्री पद्धति की जानकारी नहीं दी गई है। योजना के अनुसार काम हुआ तो 2027 तक अनसोंग-म्योन क्षेत्र में 40 घरों का नया बसावट स्थल तैयार होगा। स्रोत: yna.co.kr"
+      },
+      "id": {
+        "title": "Muju Bangun Desa Eco 40 Rumah di Anseong-myeon hingga 2027",
+        "excerpt": "Kabupaten Muju di Jeonbuk akan membangun desa eco 40 rumah di Gongjeong-ri, Anseong-myeon, hingga 2027 untuk pendatang pedesaan dan pensiunan, menurut Yonhap.",
+        "body": "Kabupaten Muju di Provinsi Jeonbuk akan mengembangkan desa ramah lingkungan, atau eco village, di Gongjeong-ri, Anseong-myeon, hingga 2027 untuk warga yang ingin pindah ke pedesaan dan para pensiunan. Skala pembangunan direncanakan sebanyak 40 rumah tangga. Proyek ini berpusat di Gongjeong-ri dan ditujukan untuk menyediakan ruang hunian bagi orang yang ingin menetap di desa, termasuk mereka yang kembali bertani, pindah ke pedesaan, atau menjalani masa pensiun. Ringkasan sumber tidak memuat rincian tentang fasilitas tambahan atau metode penjualan. Jika berjalan sesuai rencana, kawasan Anseong-myeon akan memiliki ruang permukiman baru untuk 40 rumah tangga pada 2027. Sumber: yna.co.kr"
+      }
+    }
+  },
+  {
     "id": "21b70ab65ace",
     "slug": "특징주-하이닉스는-또-오르고삼전은-숨고르기종합-160290",
     "channelId": "ETF",
@@ -4271,231 +4496,6 @@
         "title": "Harga BBM SPBU Korea Naik 6 Pekan, Arah Turun Kini Jadi Sorotan",
         "excerpt": "Menurut Yonhap, harga rata-rata mingguan bensin dan diesel di SPBU Korea Selatan naik bersamaan selama enam pekan berturut-turut, sementara kemungkinan berbalik turun di tengah harapan berakhirnya perang menjadi perhatian.",
         "body": "Pekan ini, harga rata-rata mingguan bensin dan diesel yang dijual di SPBU Korea Selatan naik bersamaan untuk pekan keenam berturut-turut. Dalam laporan dari Seoul, Yonhap menyebut reporter Kim Min-ji menyampaikan bahwa harga BBM domestik di SPBU kembali melanjutkan tren kenaikan. Kenaikan serentak bensin dan diesel menjadi indikator harga yang dapat memengaruhi beban konsumen serta arah biaya transportasi. Namun, judul asli juga menyoroti perhatian pada kemungkinan harga berbalik turun ke depan di tengah harapan berakhirnya perang. Ringkasan sumber yang diberikan tidak memuat angka harga spesifik atau besaran perubahan. Sumber: yna.co.kr"
-      }
-    }
-  },
-  {
-    "id": "345b80968d9e",
-    "slug": "신상잇슈-매일유업-엠즈씨드-폴바셋-한정판-머그컵하림-치킨왕라면-360081",
-    "channelId": "ETF",
-    "category": "etf",
-    "publishedAt": "2026-05-08T22:36:16.134Z",
-    "updatedAt": "2026-05-08T22:36:16.134Z",
-    "sourceName": "yna.co.kr",
-    "sourceUrl": "https://www.yna.co.kr/view/AKR20260508068000030",
-    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260508068000030",
-    "titleFingerprint": "1be39da20e70036c8d581976162e31275cdaa238",
-    "dedupKeys": [
-      "345b80968d9e5c0f4e8a071328ee19428e73843a",
-      "1be39da20e70036c8d581976162e31275cdaa238",
-      "258a31da726e514333ba51600ae854aa3ebd195c"
-    ],
-    "imageUrl": "/images/articles/345b80968d9e.jpg",
-    "i18n": {
-      "ko": {
-        "title": "폴 바셋 한정판 머그컵 2종 출시, 하림 치킨왕라면도 신상잇슈에 등장",
-        "excerpt": "매일유업 관계사 엠즈씨드가 운영하는 폴 바셋은 소일베이커와 협업한 한정판 머그컵 2종을 선보였고, 하림 치킨왕라면도 신제품 소식에 포함됐다.",
-        "body": "매일유업 관계사 엠즈씨드가 운영하는 커피 브랜드 폴 바셋은 테이블 웨어 브랜드 소일베이커와 협업해 한정판 머그컵 2종을 출시했다. 이번 제품은 폴 바셋과 소일베이커의 협업 상품으로 소개됐으며, 신제품을 다루는 ‘신상잇슈’ 소식에는 하림의 치킨왕라면도 함께 언급됐다. 한정판 머그컵은 브랜드 협업을 통해 소비자 접점을 넓히는 상품으로, 치킨왕라면은 라면 제품군의 새 소식으로 제시됐다. 관련 내용은 yna.co.kr이 전한 신제품 기사에 따른 것이다."
-      },
-      "en": {
-        "title": "Paul Bassett Launches Two Limited Mugs as Harim Chicken King Ramen Joins New Product Roundup",
-        "excerpt": "Paul Bassett, operated by Maeil Dairies affiliate M’s Seed, introduced two limited-edition mugs with Soil Baker, while Harim’s Chicken King Ramen was also listed in new product news.",
-        "body": "Paul Bassett, the coffee brand operated by M’s Seed, an affiliate of Maeil Dairies, has released two limited-edition mugs in collaboration with tableware brand Soil Baker. The products were presented as a Paul Bassett and Soil Baker collaboration, while Harim’s Chicken King Ramen was also mentioned in the same new product roundup. The mugs highlight a brand collaboration aimed at expanding consumer touchpoints, and Chicken King Ramen was introduced as new ramen-related product news. The information is based on a new product report from yna.co.kr."
-      },
-      "ja": {
-        "title": "ポール・バセット限定マグ2種発売、ハリムのチキン王ラーメンも新商品欄に登場",
-        "excerpt": "毎日乳業の関係会社エムズシードが運営するポール・バセットは、ソイルベーカーと協業した限定マグカップ2種を発売し、ハリムのチキン王ラーメンも新商品情報に含まれた。",
-        "body": "毎日乳業の関係会社エムズシードが運営するコーヒーブランド、ポール・バセットは、テーブルウェアブランドのソイルベーカーと協業し、限定版マグカップ2種を発売した。今回の商品はポール・バセットとソイルベーカーのコラボ商品として紹介され、新商品を扱う「新상잇슈」のニュースにはハリムのチキン王ラーメンもあわせて言及された。限定マグはブランド協業を通じて消費者との接点を広げる商品で、チキン王ラーメンはラーメン関連の新情報として示された。内容はyna.co.krの新商品記事に基づく。"
-      },
-      "zh": {
-        "title": "Paul Bassett推出两款限量马克杯，Harim鸡王拉面也入选新品消息",
-        "excerpt": "每日乳业关联公司M’s Seed运营的Paul Bassett与餐具品牌Soil Baker合作推出两款限量马克杯，Harim鸡王拉面也出现在新品报道中。",
-        "body": "每日乳业关联公司M’s Seed运营的咖啡品牌Paul Bassett与餐具品牌Soil Baker合作，推出两款限量版马克杯。该产品被介绍为Paul Bassett与Soil Baker的合作商品，而在同一则聚焦新品的“新上热点”消息中，Harim鸡王拉面也被一并提及。限量马克杯体现了品牌通过合作扩大消费者接触点的做法，鸡王拉面则作为拉面品类的新产品消息出现。相关内容依据yna.co.kr发布的新品报道。"
-      },
-      "es": {
-        "title": "Paul Bassett lanza dos tazas limitadas y Harim Chicken King Ramen aparece entre novedades",
-        "excerpt": "Paul Bassett, operada por M’s Seed, filial de Maeil Dairies, presentó dos tazas de edición limitada con Soil Baker; Harim Chicken King Ramen también figuró en las noticias de nuevos productos.",
-        "body": "Paul Bassett, la marca de café operada por M’s Seed, afiliada de Maeil Dairies, lanzó dos tazas de edición limitada en colaboración con la marca de vajilla Soil Baker. Los productos fueron presentados como una colaboración entre Paul Bassett y Soil Baker, mientras que Harim Chicken King Ramen también fue mencionado en la misma sección de novedades. Las tazas limitadas muestran una colaboración de marca para ampliar puntos de contacto con consumidores, y Chicken King Ramen fue citado como noticia dentro de la categoría de ramen. La información se basa en un reporte de nuevos productos de yna.co.kr."
-      },
-      "pt": {
-        "title": "Paul Bassett lança duas canecas limitadas e Harim Chicken King Ramen entra nas novidades",
-        "excerpt": "A Paul Bassett, operada pela M’s Seed, afiliada da Maeil Dairies, lançou duas canecas limitadas com a Soil Baker; o Harim Chicken King Ramen também apareceu nas notícias de novos produtos.",
-        "body": "A Paul Bassett, marca de café operada pela M’s Seed, afiliada da Maeil Dairies, lançou duas canecas de edição limitada em colaboração com a marca de utensílios de mesa Soil Baker. Os itens foram apresentados como uma colaboração entre Paul Bassett e Soil Baker, enquanto o Harim Chicken King Ramen também foi citado na mesma rodada de novos produtos. As canecas limitadas destacam uma parceria de marca para ampliar pontos de contato com consumidores, e o Chicken King Ramen foi apresentado como novidade na categoria de ramen. As informações se baseiam em reportagem de novos produtos da yna.co.kr."
-      },
-      "de": {
-        "title": "Paul Bassett bringt zwei limitierte Becher heraus, Harim Chicken King Ramen ebenfalls genannt",
-        "excerpt": "Paul Bassett, betrieben von Maeil-Dairies-Tochter M’s Seed, stellte mit Soil Baker zwei limitierte Becher vor; auch Harim Chicken King Ramen wurde in den Produktneuheiten erwähnt.",
-        "body": "Paul Bassett, die von M’s Seed, einer verbundenen Gesellschaft von Maeil Dairies, betriebene Kaffeemarke, hat in Zusammenarbeit mit der Tischwarenmarke Soil Baker zwei limitierte Becher herausgebracht. Die Produkte wurden als Kooperation von Paul Bassett und Soil Baker vorgestellt; in derselben Übersicht neuer Produkte wurde auch Harim Chicken King Ramen erwähnt. Die limitierten Becher stehen für eine Markenkooperation zur Erweiterung von Verbraucherkontakten, während Chicken King Ramen als Neuigkeit im Ramen-Segment genannt wurde. Die Angaben beruhen auf einem Bericht zu neuen Produkten von yna.co.kr."
-      },
-      "fr": {
-        "title": "Paul Bassett lance deux mugs limités, Harim Chicken King Ramen cité parmi les nouveautés",
-        "excerpt": "Paul Bassett, exploité par M’s Seed, société liée à Maeil Dairies, a présenté deux mugs limités avec Soil Baker; Harim Chicken King Ramen figure aussi dans l’actualité des nouveaux produits.",
-        "body": "Paul Bassett, marque de café exploitée par M’s Seed, société affiliée à Maeil Dairies, a lancé deux mugs en édition limitée en collaboration avec la marque d’arts de la table Soil Baker. Ces produits ont été présentés comme une collaboration entre Paul Bassett et Soil Baker, tandis que Harim Chicken King Ramen a également été mentionné dans la même rubrique consacrée aux nouveautés. Les mugs limités illustrent une coopération de marque visant à élargir les points de contact avec les consommateurs, et Chicken King Ramen a été cité comme nouvelle information dans la catégorie ramen. Ces éléments proviennent d’un article de yna.co.kr."
-      },
-      "ar": {
-        "title": "بول باسيت تطلق كوبين محدودين وهاريم تشيكن كينغ رامن يظهر ضمن أخبار المنتجات الجديدة",
-        "excerpt": "أطلقت بول باسيت، التي تديرها M’s Seed التابعة لماييل ديريز، كوبين محدودي الإصدار بالتعاون مع Soil Baker، كما ورد ذكر هاريم تشيكن كينغ رامن ضمن أخبار المنتجات الجديدة.",
-        "body": "أطلقت علامة القهوة بول باسيت، التي تديرها M’s Seed التابعة لشركة ماييل ديريز، كوبين محدودي الإصدار بالتعاون مع علامة أدوات المائدة Soil Baker. وقد قُدمت المنتجات بوصفها ثمرة تعاون بين بول باسيت وSoil Baker، بينما ورد ذكر هاريم تشيكن كينغ رامن أيضا في التقرير نفسه الخاص بالمنتجات الجديدة. تبرز الأكواب المحدودة تعاون العلامات التجارية لتوسيع نقاط التواصل مع المستهلكين، في حين طُرح تشيكن كينغ رامن كخبر جديد ضمن فئة الرامن. وتستند المعلومات إلى تقرير منتجات جديدة نشره yna.co.kr."
-      },
-      "hi": {
-        "title": "Paul Bassett ने दो लिमिटेड मग लॉन्च किए, Harim Chicken King Ramen भी नए उत्पादों में शामिल",
-        "excerpt": "Maeil Dairies की संबद्ध M’s Seed द्वारा संचालित Paul Bassett ने Soil Baker के साथ दो लिमिटेड एडिशन मग पेश किए, जबकि Harim Chicken King Ramen भी नए उत्पाद समाचार में शामिल रहा।",
-        "body": "Maeil Dairies की संबद्ध कंपनी M’s Seed द्वारा संचालित कॉफी ब्रांड Paul Bassett ने टेबलवेयर ब्रांड Soil Baker के साथ सहयोग में दो लिमिटेड एडिशन मग लॉन्च किए। इन उत्पादों को Paul Bassett और Soil Baker की साझेदारी के रूप में पेश किया गया, जबकि इसी नए उत्पाद राउंडअप में Harim Chicken King Ramen का भी उल्लेख हुआ। लिमिटेड मग ब्रांड सहयोग के जरिए उपभोक्ताओं तक पहुंच बढ़ाने वाले उत्पाद के रूप में सामने आए, और Chicken King Ramen को रेमन श्रेणी की नई खबर के रूप में रखा गया। यह जानकारी yna.co.kr की नए उत्पादों पर प्रकाशित रिपोर्ट पर आधारित है।"
-      },
-      "id": {
-        "title": "Paul Bassett Rilis Dua Mug Terbatas, Harim Chicken King Ramen Masuk Kabar Produk Baru",
-        "excerpt": "Paul Bassett, yang dioperasikan M’s Seed afiliasi Maeil Dairies, meluncurkan dua mug edisi terbatas bersama Soil Baker; Harim Chicken King Ramen juga masuk dalam kabar produk baru.",
-        "body": "Paul Bassett, merek kopi yang dioperasikan oleh M’s Seed, afiliasi Maeil Dairies, merilis dua mug edisi terbatas hasil kolaborasi dengan merek perlengkapan meja Soil Baker. Produk ini diperkenalkan sebagai kolaborasi Paul Bassett dan Soil Baker, sementara Harim Chicken King Ramen juga disebut dalam rangkuman produk baru yang sama. Mug terbatas tersebut menunjukkan kolaborasi merek untuk memperluas titik kontak dengan konsumen, sedangkan Chicken King Ramen disajikan sebagai kabar baru di kategori ramen. Informasi ini berdasarkan laporan produk baru dari yna.co.kr."
-      }
-    }
-  },
-  {
-    "id": "b726ef7fbcbe",
-    "slug": "고용-호조에-반도체-랠리까지sp500나스닥-또-최고치-뉴욕증시-브리핑-841551",
-    "channelId": "ETF",
-    "category": "etf",
-    "publishedAt": "2026-05-08T22:35:22.107Z",
-    "updatedAt": "2026-05-08T22:35:22.107Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/2026050953407",
-    "canonicalUrl": "https://www.hankyung.com/article/2026050953407",
-    "titleFingerprint": "9f021214b493678deecf11b942a36e6c87e7740d",
-    "dedupKeys": [
-      "b726ef7fbcbed248a0814bc8f52610db265d7448",
-      "9f021214b493678deecf11b942a36e6c87e7740d",
-      "0f0b67e5319147f44cf408fab7a7840095d86a37"
-    ],
-    "imageUrl": "/images/articles/b726ef7fbcbe.jpg",
-    "i18n": {
-      "ko": {
-        "title": "고용 호조·반도체 랠리에 S&P500·나스닥 또 최고치",
-        "excerpt": "미국 뉴욕증시에서 고용 호조와 반도체주 랠리가 맞물리며 S&P500과 나스닥이 다시 사상 최고치를 기록했다고 한국경제가 전했다.",
-        "body": "미국 뉴욕증시에서 고용 호조와 반도체주 랠리가 동시에 부각되며 S&P500지수와 나스닥지수가 또다시 최고치를 기록했다. 한국경제 보도에 따르면 투자자들은 견조한 고용 흐름을 경기 둔화 우려를 낮추는 요인으로 받아들였고, 반도체 관련 종목의 강세가 기술주 중심 지수 상승을 이끌었다. 이번 흐름은 고용 지표와 반도체 업종 투자심리가 뉴욕증시의 핵심 동력으로 작용했음을 보여준다. 다만 원문에 구체적인 지수 상승률이나 종목별 수치는 제시되지 않았다. 출처: hankyung.com"
-      },
-      "en": {
-        "title": "S&P 500 and Nasdaq Hit Fresh Highs on Jobs Strength, Chip Rally",
-        "excerpt": "The S&P 500 and Nasdaq reached new highs in New York trading as solid employment momentum and a semiconductor rally lifted investor sentiment, Hankyung reported.",
-        "body": "In the New York stock market, strong employment conditions and a rally in semiconductor shares combined to push the S&P 500 and Nasdaq to fresh record highs. According to Hankyung, investors viewed the resilient jobs backdrop as a factor easing concerns over an economic slowdown, while strength in chip-related stocks helped drive gains in technology-heavy indexes. The move shows that labor-market momentum and sentiment toward the semiconductor sector were key forces behind the latest advance. The original report did not provide specific index gains or stock-by-stock figures. Source: hankyung.com"
-      },
-      "ja": {
-        "title": "雇用堅調と半導体ラリーでS&P500・ナスダックが再び最高値",
-        "excerpt": "米ニューヨーク市場で雇用の堅調さと半導体株のラリーが重なり、S&P500とナスダックが再び最高値を付けたと韓国経済が報じた。",
-        "body": "米ニューヨーク株式市場では、雇用の堅調さと半導体株のラリーが同時に注目され、S&P500指数とナスダック指数が再び最高値を記録した。韓国経済の報道によると、投資家は底堅い雇用動向を景気減速への懸念を和らげる要因として受け止め、半導体関連銘柄の強さがハイテク株中心の指数上昇を主導した。今回の動きは、雇用指標と半導体セクターへの投資心理がニューヨーク市場の主要な推進力となったことを示している。ただし原文では、具体的な指数上昇率や個別銘柄の数値は示されていない。出典: hankyung.com"
-      },
-      "zh": {
-        "title": "就业强劲叠加半导体上涨，S&P500与纳指再创新高",
-        "excerpt": "韩国经济报道称，纽约股市在就业表现强劲和半导体股上涨带动下，S&P500指数与纳斯达克指数再次创下历史新高。",
-        "body": "在纽约股市，强劲的就业表现与半导体股上涨同时受到关注，推动S&P500指数和纳斯达克指数再次创下新高。据韩国经济报道，投资者将稳健的就业走势视为缓解经济放缓担忧的因素，而半导体相关股票走强则带动了以科技股为主的指数上涨。这一走势显示，就业指标和半导体行业投资情绪成为纽约股市最新上涨的核心动力。不过，原文未提供具体指数涨幅或个股数据。来源: hankyung.com"
-      },
-      "es": {
-        "title": "S&P 500 y Nasdaq marcan nuevos máximos por empleo firme y chips",
-        "excerpt": "El S&P 500 y el Nasdaq volvieron a máximos en Nueva York, impulsados por la fortaleza del empleo y el rally de semiconductores, informó Hankyung.",
-        "body": "En la Bolsa de Nueva York, la solidez del empleo y el rally de las acciones de semiconductores se combinaron para llevar al S&P 500 y al Nasdaq a nuevos máximos. Según Hankyung, los inversores interpretaron la firmeza del mercado laboral como un factor que reduce las preocupaciones por una desaceleración económica, mientras que el avance de los valores vinculados a chips impulsó los índices con mayor peso tecnológico. El movimiento muestra que los datos de empleo y el sentimiento hacia el sector de semiconductores actuaron como motores clave del mercado. El reporte original no incluyó alzas específicas de índices ni cifras por acción. Fuente: hankyung.com"
-      },
-      "pt": {
-        "title": "S&P 500 e Nasdaq renovam máximas com emprego forte e alta dos chips",
-        "excerpt": "O S&P 500 e o Nasdaq voltaram a máximas em Nova York, apoiados por emprego sólido e pelo rali de semicondutores, informou o Hankyung.",
-        "body": "Na Bolsa de Nova York, a força do emprego e o rali das ações de semicondutores se combinaram para levar o S&P 500 e o Nasdaq a novas máximas. Segundo o Hankyung, os investidores viram a resiliência do mercado de trabalho como um fator que reduz temores de desaceleração econômica, enquanto a alta dos papéis ligados a chips impulsionou os índices com maior peso em tecnologia. O movimento mostra que os dados de emprego e o sentimento em relação ao setor de semicondutores foram motores centrais da alta recente. A reportagem original não apresentou percentuais específicos de avanço dos índices nem números por ação. Fonte: hankyung.com"
-      },
-      "de": {
-        "title": "S&P 500 und Nasdaq erreichen neue Hochs dank Jobstärke und Chip-Rally",
-        "excerpt": "Der S&P 500 und der Nasdaq stiegen in New York erneut auf Rekordstände, gestützt durch robuste Beschäftigung und eine Halbleiter-Rally, berichtete Hankyung.",
-        "body": "An der New Yorker Börse haben robuste Beschäftigungssignale und eine Rally bei Halbleiterwerten den S&P 500 und den Nasdaq erneut auf Höchststände getrieben. Laut Hankyung werteten Anleger die stabile Lage am Arbeitsmarkt als Faktor, der Sorgen vor einer wirtschaftlichen Abschwächung mindert, während die Stärke chipnaher Aktien vor allem technologielastige Indizes stützte. Die Entwicklung zeigt, dass Arbeitsmarktdaten und die Stimmung gegenüber dem Halbleitersektor zentrale Treiber der jüngsten Marktbewegung waren. Der Originalbericht nannte keine konkreten Indexgewinne oder Einzelaktienzahlen. Quelle: hankyung.com"
-      },
-      "fr": {
-        "title": "S&P 500 et Nasdaq à de nouveaux sommets grâce à l’emploi et aux puces",
-        "excerpt": "Le S&P 500 et le Nasdaq ont de nouveau atteint des records à New York, soutenus par un emploi solide et le rally des semi-conducteurs, selon Hankyung.",
-        "body": "À la Bourse de New York, la solidité de l’emploi et le rally des valeurs de semi-conducteurs ont porté le S&P 500 et le Nasdaq à de nouveaux sommets. Selon Hankyung, les investisseurs ont interprété la résistance du marché du travail comme un élément réduisant les craintes de ralentissement économique, tandis que la vigueur des titres liés aux puces a soutenu les indices à forte composante technologique. Ce mouvement montre que les indicateurs d’emploi et le sentiment envers le secteur des semi-conducteurs ont été des moteurs clés de la hausse. Le rapport original ne précise pas les gains des indices ni les chiffres par valeur. Source: hankyung.com"
-      },
-      "ar": {
-        "title": "S&P 500 وناسداك يسجلان قمما جديدة بدعم الوظائف ورالي الرقائق",
-        "excerpt": "سجل مؤشرا S&P 500 وناسداك قمما جديدة في نيويورك مع قوة التوظيف وصعود أسهم أشباه الموصلات، بحسب ما أوردته هانكيونغ.",
-        "body": "في سوق الأسهم الأميركية في نيويورك، تزامنت قوة التوظيف مع صعود أسهم أشباه الموصلات، ما دفع مؤشري S&P 500 وناسداك إلى تسجيل قمم جديدة. ووفقا لتقرير هانكيونغ، تعامل المستثمرون مع متانة سوق العمل باعتبارها عاملا يخفف المخاوف من تباطؤ اقتصادي، بينما ساعدت قوة الأسهم المرتبطة بالرقائق في قيادة ارتفاع المؤشرات ذات الوزن التكنولوجي. وتوضح هذه الحركة أن مؤشرات التوظيف ومعنويات الاستثمار تجاه قطاع أشباه الموصلات كانتا من المحركات الرئيسية لصعود السوق. ولم يورد النص الأصلي نسب ارتفاع محددة للمؤشرات أو أرقاما لكل سهم. المصدر: hankyung.com"
-      },
-      "hi": {
-        "title": "रोजगार मजबूती और चिप रैली से S&P 500, Nasdaq फिर रिकॉर्ड ऊंचाई पर",
-        "excerpt": "न्यूयॉर्क बाजार में मजबूत रोजगार संकेतों और सेमीकंडक्टर शेयरों की रैली से S&P 500 और Nasdaq फिर रिकॉर्ड ऊंचाई पर पहुंचे, Hankyung ने बताया।",
-        "body": "न्यूयॉर्क शेयर बाजार में मजबूत रोजगार स्थिति और सेमीकंडक्टर शेयरों की रैली साथ आई, जिससे S&P 500 और Nasdaq फिर नई ऊंचाई पर पहुंच गए। Hankyung के अनुसार, निवेशकों ने टिकाऊ रोजगार रुझान को आर्थिक सुस्ती की चिंता कम करने वाले कारक के रूप में देखा, जबकि चिप से जुड़े शेयरों की मजबूती ने तकनीक-प्रधान सूचकांकों को ऊपर ले जाने में मदद की। यह रुझान दिखाता है कि रोजगार संकेतक और सेमीकंडक्टर क्षेत्र के प्रति निवेश भावना बाजार की ताजा बढ़त के प्रमुख चालक रहे। मूल रिपोर्ट में सूचकांकों की विशिष्ट बढ़त या अलग-अलग शेयरों के आंकड़े नहीं दिए गए। स्रोत: hankyung.com"
-      },
-      "id": {
-        "title": "S&P 500 dan Nasdaq Cetak Rekor Lagi Berkat Data Kerja dan Reli Chip",
-        "excerpt": "S&P 500 dan Nasdaq kembali mencetak rekor di New York karena kekuatan pasar kerja dan reli saham semikonduktor, menurut laporan Hankyung.",
-        "body": "Di bursa saham New York, kekuatan pasar kerja dan reli saham semikonduktor sama-sama menjadi perhatian, mendorong S&P 500 dan Nasdaq kembali mencetak rekor tertinggi. Menurut Hankyung, investor melihat tren ketenagakerjaan yang solid sebagai faktor yang meredakan kekhawatiran atas perlambatan ekonomi, sementara penguatan saham terkait chip memimpin kenaikan indeks yang berfokus pada teknologi. Pergerakan ini menunjukkan bahwa indikator tenaga kerja dan sentimen terhadap sektor semikonduktor menjadi pendorong utama pasar. Laporan asli tidak menyajikan angka kenaikan indeks secara spesifik maupun data per saham. Sumber: hankyung.com"
-      }
-    }
-  },
-  {
-    "id": "844e6bb28d0b",
-    "slug": "금주핫템-코오롱fnc-슈즈라인업블랙야크-에어로프레쉬-535972",
-    "channelId": "ETF",
-    "category": "etf",
-    "publishedAt": "2026-05-08T22:11:27.987Z",
-    "updatedAt": "2026-05-08T22:11:27.987Z",
-    "sourceName": "yna.co.kr",
-    "sourceUrl": "https://www.yna.co.kr/view/AKR20260507155800030",
-    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260507155800030",
-    "titleFingerprint": "74cd4ca220fe9ffa2923f101e64d691306151c93",
-    "dedupKeys": [
-      "844e6bb28d0b64c0276094b6270c124773101f33",
-      "74cd4ca220fe9ffa2923f101e64d691306151c93",
-      "e4d4c2aeaac480a2b86fdbe314fed55361789e12"
-    ],
-    "imageUrl": "/images/articles/844e6bb28d0b.jpg",
-    "i18n": {
-      "ko": {
-        "title": "슈콤마보니 여름 슈즈 라인업 출시, 코오롱FnC·블랙야크 신상품 주목",
-        "excerpt": "코오롱인더스트리FnC부문 슈콤마보니가 여름철을 맞아 스트랩 플랫 등이 포함된 슈즈 라인업을 선보이며 시즌 신상품 경쟁에 나섰다.",
-        "body": "코오롱인더스트리FnC부문이 전개하는 컨템포러리 슈즈 브랜드 슈콤마보니가 여름철을 맞아 새 ‘슈즈 라인업’을 출시했다. 이번 라인업은 스트랩 플랫을 포함한 여름 시즌용 제품으로 소개됐다. 원문 제목에는 블랙야크의 ‘에어로프레쉬’도 함께 언급돼 금주 패션·아웃도어 신상품 흐름을 보여준다. 다만 제공된 원문 요약에서는 슈콤마보니 라인업의 세부 품목 일부만 확인된다. 여름철 신발 수요가 높아지는 시점에 맞춘 출시로, 브랜드별 시즌 제품 경쟁이 이어질 전망이다. 출처: yna.co.kr"
-      },
-      "en": {
-        "title": "Suecomma Bonnie Summer Shoe Lineup Launch Draws Attention With Kolon FnC",
-        "excerpt": "Kolon Industries FnC’s contemporary shoe brand Suecomma Bonnie has introduced a summer shoe lineup including strap flats for the seasonal market.",
-        "body": "Suecomma Bonnie, the contemporary shoe brand operated by Kolon Industries FnC, has launched a new “shoe lineup” for the summer season. The lineup was introduced as a set of summer products that includes strap flats. The original headline also mentions Blackyak’s “AeroFresh,” pointing to this week’s flow of new fashion and outdoor products. However, the provided source summary confirms only part of the Suecomma Bonnie lineup details. The launch comes as seasonal demand for summer footwear rises, suggesting continued competition among brands with new summer products. Source: yna.co.kr"
-      },
-      "ja": {
-        "title": "シュコムマボニー夏向けシューズラインアップ発売、コーロンFnCに注目",
-        "excerpt": "コーロンインダストリーFnC部門のシュコムマボニーが、ストラップフラットなどを含む夏向けシューズラインアップを発売した。",
-        "body": "コーロンインダストリーFnC部門が展開するコンテンポラリーシューズブランド、シュコムマボニーが夏を迎え、新たな「シューズラインアップ」を発売した。今回のラインアップは、ストラップフラットを含む夏シーズン向け商品として紹介された。原文の見出しでは、ブラックヤクの「エアロフレッシュ」も併せて言及され、今週のファッション・アウトドア新商品の流れを示している。ただし、提供された要約で確認できるのはシュコムマボニーの一部品目に限られる。夏の靴需要が高まる時期に合わせた発売で、ブランド間の季節商品競争が続く見通しだ。出典: yna.co.kr"
-      },
-      "zh": {
-        "title": "Suecomma Bonnie夏季鞋履系列上市，Kolon FnC新品受关注",
-        "excerpt": "Kolon Industries FnC旗下当代鞋履品牌Suecomma Bonnie推出夏季鞋履系列，其中包括绑带平底鞋等季节性新品。",
-        "body": "Kolon Industries FnC部门运营的当代鞋履品牌Suecomma Bonnie迎接夏季，推出新的“鞋履系列”。该系列被介绍为面向夏季的产品，其中包括绑带平底鞋。原文标题还同时提到Blackyak的“AeroFresh”，显示本周时尚与户外品牌新品动态。不过，所提供的原文摘要仅能确认Suecomma Bonnie系列的部分具体品类。此次上市配合夏季鞋履需求上升的时间点，预计各品牌围绕季节新品的竞争将持续。来源: yna.co.kr"
-      },
-      "es": {
-        "title": "Suecomma Bonnie lanza línea de calzado de verano con Kolon FnC en foco",
-        "excerpt": "Suecomma Bonnie, marca de calzado contemporáneo de Kolon Industries FnC, presentó una línea de verano que incluye modelos planos con tiras.",
-        "body": "Suecomma Bonnie, la marca de calzado contemporáneo operada por la división FnC de Kolon Industries, lanzó una nueva “línea de calzado” para la temporada de verano. La colección fue presentada como una oferta estacional que incluye zapatos planos con tiras. El titular original también menciona “AeroFresh” de Blackyak, lo que refleja el movimiento de nuevos productos de moda y outdoor de esta semana. Sin embargo, el resumen proporcionado solo confirma parte de los detalles de la línea de Suecomma Bonnie. El lanzamiento llega en un momento de mayor demanda de calzado de verano, por lo que se espera que continúe la competencia entre marcas. Fuente: yna.co.kr"
-      },
-      "pt": {
-        "title": "Suecomma Bonnie lança linha de calçados de verão e destaca Kolon FnC",
-        "excerpt": "A Suecomma Bonnie, marca contemporânea de calçados da Kolon Industries FnC, apresentou uma linha de verão que inclui sapatilhas com tiras.",
-        "body": "A Suecomma Bonnie, marca contemporânea de calçados operada pela divisão FnC da Kolon Industries, lançou uma nova “linha de calçados” para o verão. A linha foi apresentada como um conjunto de produtos sazonais que inclui sapatilhas com tiras. O título original também menciona o “AeroFresh” da Blackyak, indicando o fluxo de lançamentos de moda e outdoor desta semana. No entanto, o resumo fornecido confirma apenas parte dos detalhes da linha da Suecomma Bonnie. O lançamento ocorre em um período de maior demanda por calçados de verão, mantendo a disputa entre marcas por produtos sazonais. Fonte: yna.co.kr"
-      },
-      "de": {
-        "title": "Suecomma Bonnie startet Sommer-Schuhlinie, Kolon FnC im Blickpunkt",
-        "excerpt": "Die Kolon-Industries-FnC-Marke Suecomma Bonnie hat eine Sommer-Schuhlinie vorgestellt, darunter Modelle wie Strap-Flats für die Saison.",
-        "body": "Suecomma Bonnie, die Contemporary-Schuhmarke der FnC-Sparte von Kolon Industries, hat zur Sommersaison eine neue „Schuhlinie“ auf den Markt gebracht. Die Linie wurde als Sommerangebot vorgestellt und umfasst unter anderem Strap-Flats. In der ursprünglichen Überschrift wird außerdem Blackyaks „AeroFresh“ genannt, was auf die aktuellen Neuheiten im Mode- und Outdoorbereich dieser Woche verweist. Die bereitgestellte Zusammenfassung bestätigt jedoch nur einen Teil der Details zur Suecomma-Bonnie-Linie. Die Einführung fällt in eine Zeit steigender Nachfrage nach Sommerschuhen, sodass der Wettbewerb der Marken mit Saisonprodukten weitergehen dürfte. Quelle: yna.co.kr"
-      },
-      "fr": {
-        "title": "Suecomma Bonnie lance sa ligne de chaussures d’été, Kolon FnC en vue",
-        "excerpt": "Suecomma Bonnie, marque de chaussures contemporaine de Kolon Industries FnC, a présenté une ligne estivale comprenant notamment des modèles plats à brides.",
-        "body": "Suecomma Bonnie, la marque de chaussures contemporaine exploitée par la division FnC de Kolon Industries, a lancé une nouvelle « ligne de chaussures » pour l’été. Cette ligne est présentée comme une offre saisonnière comprenant notamment des chaussures plates à brides. Le titre original mentionne aussi « AeroFresh » de Blackyak, signe du rythme des nouveautés mode et outdoor de la semaine. Toutefois, le résumé fourni ne confirme qu’une partie des détails de la ligne Suecomma Bonnie. Ce lancement intervient alors que la demande de chaussures d’été augmente, ce qui laisse entrevoir la poursuite de la concurrence entre marques autour des produits saisonniers. Source: yna.co.kr"
-      },
-      "ar": {
-        "title": "إطلاق تشكيلة أحذية صيفية من Suecomma Bonnie يسلط الضوء على Kolon FnC",
-        "excerpt": "قدمت Suecomma Bonnie، علامة الأحذية المعاصرة التابعة لقسم Kolon Industries FnC، تشكيلة صيفية تشمل أحذية مسطحة بأشرطة.",
-        "body": "أطلقت Suecomma Bonnie، علامة الأحذية المعاصرة التي يديرها قسم FnC في Kolon Industries، تشكيلة جديدة من الأحذية لموسم الصيف. وقد قُدمت التشكيلة بوصفها منتجات صيفية تشمل أحذية مسطحة بأشرطة. ويذكر العنوان الأصلي أيضا منتج “AeroFresh” من Blackyak، ما يعكس حركة المنتجات الجديدة في قطاعي الموضة والأنشطة الخارجية هذا الأسبوع. ومع ذلك، فإن الملخص المتاح يؤكد فقط بعض تفاصيل تشكيلة Suecomma Bonnie. يأتي الإطلاق في توقيت ترتفع فيه الحاجة إلى أحذية الصيف، ما يشير إلى استمرار المنافسة بين العلامات على المنتجات الموسمية. المصدر: yna.co.kr"
-      },
-      "hi": {
-        "title": "Suecomma Bonnie की समर शू लाइनअप लॉन्च, Kolon FnC के नए उत्पाद पर ध्यान",
-        "excerpt": "Kolon Industries FnC की कंटेम्पररी फुटवियर ब्रांड Suecomma Bonnie ने गर्मियों के लिए स्ट्रैप फ्लैट सहित नई शू लाइनअप पेश की है।",
-        "body": "Kolon Industries FnC डिवीजन द्वारा संचालित कंटेम्पररी फुटवियर ब्रांड Suecomma Bonnie ने गर्मियों के मौसम को देखते हुए नई “शू लाइनअप” लॉन्च की है। इस लाइनअप को समर सीजन के उत्पादों के रूप में पेश किया गया है, जिसमें स्ट्रैप फ्लैट शामिल हैं। मूल शीर्षक में Blackyak के “AeroFresh” का भी उल्लेख है, जो इस सप्ताह फैशन और आउटडोर नए उत्पादों की गतिविधि को दिखाता है। हालांकि, दिए गए सारांश में Suecomma Bonnie लाइनअप के केवल कुछ विवरणों की पुष्टि होती है। गर्मियों में फुटवियर मांग बढ़ने के समय यह लॉन्च हुआ है, जिससे मौसमी उत्पादों में ब्रांड प्रतिस्पर्धा जारी रहने की संभावना है। स्रोत: yna.co.kr"
-      },
-      "id": {
-        "title": "Suecomma Bonnie Rilis Lini Sepatu Musim Panas, Kolon FnC Jadi Sorotan",
-        "excerpt": "Suecomma Bonnie, merek sepatu kontemporer Kolon Industries FnC, meluncurkan lini sepatu musim panas yang mencakup strap flat.",
-        "body": "Suecomma Bonnie, merek sepatu kontemporer yang dijalankan oleh divisi FnC Kolon Industries, meluncurkan “lini sepatu” baru untuk musim panas. Lini ini diperkenalkan sebagai produk musim panas yang mencakup strap flat. Judul asli juga menyebut “AeroFresh” dari Blackyak, menunjukkan arus produk baru mode dan outdoor pekan ini. Namun, ringkasan sumber yang tersedia hanya mengonfirmasi sebagian detail lini Suecomma Bonnie. Peluncuran ini hadir saat permintaan sepatu musim panas meningkat, sehingga persaingan antar merek melalui produk musiman diperkirakan berlanjut. Sumber: yna.co.kr"
       }
     }
   }
