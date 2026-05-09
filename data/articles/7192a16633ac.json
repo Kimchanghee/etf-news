@@ -1,0 +1,75 @@
+{
+  "id": "7192a16633ac",
+  "slug": "소비자-87가-ai-알지만업무에-사용하는-비율은-32에-불과-855770",
+  "channelId": "ETF",
+  "category": "etf",
+  "publishedAt": "2026-05-09T16:45:37.405Z",
+  "updatedAt": "2026-05-09T16:45:37.405Z",
+  "sourceName": "yna.co.kr",
+  "sourceUrl": "https://www.yna.co.kr/view/AKR20260507131800030",
+  "canonicalUrl": "https://www.yna.co.kr/view/AKR20260507131800030",
+  "titleFingerprint": "ce900a0a62c1e4d5ade1186096a69d353f6edb9c",
+  "dedupKeys": [
+    "7192a16633ac95b39403bbd3d41cf5bdcaf15fe6",
+    "ce900a0a62c1e4d5ade1186096a69d353f6edb9c",
+    "b1838ae451ad71feb093b0e772210fc089f09dfe"
+  ],
+  "imageUrl": "/images/articles/7192a16633ac.jpg",
+  "i18n": {
+    "ko": {
+      "title": "AI 인지도 87%인데 업무 활용은 32%…소비자 체감 격차 뚜렷",
+      "excerpt": "연합뉴스에 따르면 소비자 87%가 인공지능(AI)을 알고 있지만 일상생활이나 업무에 활용하는 비율은 32%에 그쳐 인지도와 실제 사용 사이의 격차가 나타났다.",
+      "body": "소비자 대다수가 인공지능(AI)을 알고 있지만 실제 일상생활이나 업무에서 활용하는 비율은 10명 중 3명 수준에 머무는 것으로 나타났다. 연합뉴스가 전한 내용에 따르면 소비자의 AI 인지도는 87%로 높았지만, 업무에 사용하는 비율은 32%에 불과했다. 이는 AI가 대중적으로 알려진 기술로 자리 잡았음에도 실제 활용 단계에서는 아직 확산 폭이 제한적임을 보여준다. 관련 수치는 기업과 서비스 제공자가 AI 접근성, 사용 경험, 업무 적용 방식을 개선해야 할 필요성을 시사한다. 출처: yna.co.kr"
+    },
+    "en": {
+      "title": "AI Awareness Reaches 87%, but Workplace Use Stays at Just 32%",
+      "excerpt": "According to Yonhap News, 87% of consumers know about artificial intelligence, but only 32% use it in daily life or at work, showing a clear gap between awareness and adoption.",
+      "body": "Most consumers are aware of artificial intelligence, but only about three in ten use it in daily life or at work. According to Yonhap News, consumer awareness of AI stood at a high 87%, while the share using it for work was only 32%. The figures show that AI has become a widely recognized technology, yet its practical use remains limited. The gap suggests that companies and service providers may need to improve accessibility, user experience, and ways to apply AI in everyday tasks and workplace settings. Source: yna.co.kr"
+    },
+    "ja": {
+      "title": "AI認知度は87%でも業務利用は32%にとどまる消費者の実態",
+      "excerpt": "聯合ニュースによると、消費者の87%がAIを知っている一方、日常生活や業務で活用する割合は32%にとどまり、認知と利用の差が浮き彫りになった。",
+      "body": "消費者の大多数は人工知能（AI）を知っているものの、実際に日常生活や業務で活用している割合は10人中3人程度にとどまることが分かった。聯合ニュースによると、消費者のAI認知度は87%と高かったが、業務で使用する割合は32%に過ぎなかった。これはAIが広く知られた技術として定着しつつある一方で、実際の利用段階では普及がまだ限定的であることを示している。関連数値は、企業やサービス提供者がAIの使いやすさ、利用体験、業務への適用方法を改善する必要性を示唆している。出典: yna.co.kr"
+    },
+    "zh": {
+      "title": "AI认知率达87%，但工作使用率仅32%，应用落差明显",
+      "excerpt": "据韩联社报道，87%的消费者了解人工智能，但在日常生活或工作中使用AI的比例仅为32%，显示认知度与实际应用之间存在明显差距。",
+      "body": "大多数消费者了解人工智能（AI），但实际在日常生活或工作中使用的比例仅约为三成。据韩联社报道，消费者对AI的认知率高达87%，但在工作中使用AI的比例只有32%。这一数字显示，AI虽已成为大众熟知的技术，但在实际应用阶段的扩散仍较为有限。相关数据表明，企业和服务提供方有必要改善AI的可及性、使用体验以及在工作场景中的应用方式。来源: yna.co.kr"
+    },
+    "es": {
+      "title": "El 87% conoce la IA, pero solo el 32% la usa en el trabajo",
+      "excerpt": "Según Yonhap News, el 87% de los consumidores conoce la inteligencia artificial, pero solo el 32% la usa en la vida diaria o el trabajo, reflejando una brecha clara de adopción.",
+      "body": "La mayoría de los consumidores conoce la inteligencia artificial, pero solo alrededor de tres de cada diez la utilizan en la vida diaria o en el trabajo. Según Yonhap News, el nivel de conocimiento de la IA entre los consumidores llegó al 87%, mientras que la proporción que la usa en el ámbito laboral fue de apenas el 32%. Las cifras muestran que la IA ya es una tecnología ampliamente reconocida, aunque su uso práctico sigue siendo limitado. Esta brecha apunta a la necesidad de mejorar el acceso, la experiencia de uso y las formas de aplicar la IA en tareas cotidianas y laborales. Fuente: yna.co.kr"
+    },
+    "pt": {
+      "title": "Conhecimento sobre IA chega a 87%, mas uso no trabalho fica em 32%",
+      "excerpt": "Segundo a Yonhap News, 87% dos consumidores conhecem a inteligência artificial, mas apenas 32% a usam na vida diária ou no trabalho, revelando distância entre conhecimento e adoção.",
+      "body": "A maioria dos consumidores conhece a inteligência artificial, mas apenas cerca de três em cada dez a utilizam na vida diária ou no trabalho. Segundo a Yonhap News, o nível de conhecimento sobre IA entre consumidores chegou a 87%, enquanto a parcela que a usa no trabalho foi de apenas 32%. Os números mostram que a IA já se tornou uma tecnologia amplamente reconhecida, embora sua aplicação prática ainda seja limitada. A diferença indica a necessidade de melhorar o acesso, a experiência de uso e as formas de aplicar IA em tarefas cotidianas e profissionais. Fonte: yna.co.kr"
+    },
+    "de": {
+      "title": "87% kennen KI, doch nur 32% nutzen sie im Beruf",
+      "excerpt": "Laut Yonhap News kennen 87% der Verbraucher künstliche Intelligenz, doch nur 32% nutzen sie im Alltag oder bei der Arbeit, was eine deutliche Lücke zwischen Bekanntheit und Nutzung zeigt.",
+      "body": "Die meisten Verbraucher kennen künstliche Intelligenz, doch nur etwa drei von zehn nutzen sie im Alltag oder bei der Arbeit. Laut Yonhap News lag die Bekanntheit von KI unter Verbrauchern bei hohen 87%, während der Anteil der beruflichen Nutzer nur 32% betrug. Die Zahlen zeigen, dass KI zwar zu einer breit bekannten Technologie geworden ist, ihre praktische Nutzung aber noch begrenzt bleibt. Die Lücke deutet darauf hin, dass Unternehmen und Dienstleister Zugang, Nutzererfahrung und konkrete Einsatzmöglichkeiten von KI im Alltag und am Arbeitsplatz verbessern müssen. Quelle: yna.co.kr"
+    },
+    "fr": {
+      "title": "87% des consommateurs connaissent l’IA, mais 32% seulement l’utilisent au travail",
+      "excerpt": "Selon Yonhap News, 87% des consommateurs connaissent l’intelligence artificielle, mais seuls 32% l’utilisent dans la vie quotidienne ou au travail, révélant un net écart d’adoption.",
+      "body": "La plupart des consommateurs connaissent l’intelligence artificielle, mais seuls environ trois sur dix l’utilisent dans la vie quotidienne ou au travail. Selon Yonhap News, le taux de connaissance de l’IA chez les consommateurs atteint 87%, tandis que la part de ceux qui l’utilisent au travail n’est que de 32%. Ces chiffres montrent que l’IA est devenue une technologie largement reconnue, mais que son usage pratique reste encore limité. Cet écart souligne la nécessité pour les entreprises et les fournisseurs de services d’améliorer l’accès, l’expérience utilisateur et les modes d’application de l’IA aux tâches quotidiennes et professionnelles. Source: yna.co.kr"
+    },
+    "ar": {
+      "title": "معرفة الذكاء الاصطناعي تبلغ 87% لكن استخدامه في العمل 32% فقط",
+      "excerpt": "بحسب يونهاب، يعرف 87% من المستهلكين الذكاء الاصطناعي، لكن 32% فقط يستخدمونه في الحياة اليومية أو العمل، ما يكشف فجوة واضحة بين المعرفة والاستخدام.",
+      "body": "يعرف معظم المستهلكين الذكاء الاصطناعي، لكن نسبة من يستخدمونه فعليا في الحياة اليومية أو العمل لا تتجاوز نحو ثلاثة من كل عشرة. وبحسب ما نقلته وكالة يونهاب، بلغت معرفة المستهلكين بالذكاء الاصطناعي 87%، بينما لم تتجاوز نسبة استخدامه في العمل 32%. وتظهر هذه الأرقام أن الذكاء الاصطناعي أصبح تقنية معروفة على نطاق واسع، إلا أن انتشاره في الاستخدام العملي لا يزال محدودا. وتشير البيانات إلى حاجة الشركات ومقدمي الخدمات إلى تحسين سهولة الوصول وتجربة الاستخدام وطرق تطبيق الذكاء الاصطناعي في المهام اليومية والمهنية. المصدر: yna.co.kr"
+    },
+    "hi": {
+      "title": "AI की जानकारी 87%, लेकिन काम में उपयोग सिर्फ 32% तक सीमित",
+      "excerpt": "योनहाप न्यूज के अनुसार 87% उपभोक्ता कृत्रिम बुद्धिमत्ता को जानते हैं, लेकिन दैनिक जीवन या काम में इसका उपयोग केवल 32% करते हैं, जिससे जानकारी और इस्तेमाल के बीच अंतर दिखता है।",
+      "body": "अधिकांश उपभोक्ता कृत्रिम बुद्धिमत्ता यानी AI के बारे में जानते हैं, लेकिन दैनिक जीवन या काम में इसका वास्तविक उपयोग करने वालों की हिस्सेदारी लगभग दस में तीन तक सीमित है। योनहाप न्यूज के अनुसार उपभोक्ताओं में AI की जानकारी 87% रही, जबकि काम में इसका उपयोग करने वालों की दर केवल 32% थी। यह दिखाता है कि AI एक व्यापक रूप से पहचानी जाने वाली तकनीक बन चुका है, लेकिन व्यावहारिक उपयोग के स्तर पर इसका प्रसार अभी सीमित है। ये आंकड़े कंपनियों और सेवा प्रदाताओं के लिए AI की पहुंच, उपयोग अनुभव और कार्यस्थल में लागू करने के तरीकों को बेहतर बनाने की जरूरत बताते हैं। स्रोत: yna.co.kr"
+    },
+    "id": {
+      "title": "Kesadaran AI Capai 87%, tetapi Penggunaan Kerja Baru 32%",
+      "excerpt": "Menurut Yonhap News, 87% konsumen mengetahui kecerdasan buatan, tetapi hanya 32% menggunakannya dalam kehidupan sehari-hari atau pekerjaan, menunjukkan celah adopsi yang jelas.",
+      "body": "Sebagian besar konsumen mengetahui kecerdasan buatan, tetapi hanya sekitar tiga dari sepuluh yang menggunakannya dalam kehidupan sehari-hari atau pekerjaan. Menurut Yonhap News, tingkat kesadaran konsumen terhadap AI mencapai 87%, sementara proporsi yang menggunakannya untuk bekerja hanya 32%. Angka ini menunjukkan bahwa AI telah menjadi teknologi yang dikenal luas, namun pemanfaatan praktisnya masih terbatas. Kesenjangan tersebut mengisyaratkan perlunya perusahaan dan penyedia layanan meningkatkan aksesibilitas, pengalaman penggunaan, serta cara penerapan AI dalam tugas harian dan lingkungan kerja. Sumber: yna.co.kr"
+    }
+  }
+}
