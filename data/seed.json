@@ -1,5 +1,230 @@
 [
   {
+    "id": "fa6d1cb7fb1c",
+    "slug": "부산-아파트값-강보합세-유지전셋값은-22개월째-상승-457375",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-05-09T01:46:06.504Z",
+    "updatedAt": "2026-05-09T01:46:06.504Z",
+    "sourceName": "yna.co.kr",
+    "sourceUrl": "https://www.yna.co.kr/view/AKR20260508075500051",
+    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260508075500051",
+    "titleFingerprint": "13797710c56151b1aa96b137534ae83a37554931",
+    "dedupKeys": [
+      "fa6d1cb7fb1c364a2a9512e2bf098f9799226816",
+      "13797710c56151b1aa96b137534ae83a37554931",
+      "48c09ae8a4c4b6294d04498d2ec979ab82f1bd2f"
+    ],
+    "imageUrl": "/images/articles/fa6d1cb7fb1c.jpg",
+    "i18n": {
+      "ko": {
+        "title": "부산 아파트값 강보합세 지속, 전셋값 22개월 연속 상승세 주목",
+        "excerpt": "연합뉴스에 따르면 부산의 아파트 매매가격은 최근 강보합세를 유지하고 있으며, 전셋값은 22개월째 오름세를 이어가 주거비 부담 흐름이 주목된다.",
+        "body": "부산의 아파트 매매가격이 최근 강보합세를 유지하고 있는 것으로 전해졌다. 연합뉴스 민영규 기자가 보도한 내용에 따르면 부산 지역 아파트 시장은 매매가격이 크게 꺾이지 않고 비교적 단단한 흐름을 이어가고 있다. 특히 전셋값은 22개월째 상승세를 지속해 매매시장과 임대시장이 동시에 주목받는 상황이다. 이번 흐름은 부산 주택시장에서 실수요자와 임차인이 체감하는 가격 부담과 연결될 수 있어 향후 시장 동향에 대한 관심도 이어질 전망이다. 다만 보도에서 확인된 내용은 매매가격의 강보합세 유지와 전셋값의 22개월 연속 상승이다. 출처: yna.co.kr"
+      },
+      "en": {
+        "title": "Busan Apartment Prices Stay Firm as Jeonse Rents Rise for 22 Months",
+        "excerpt": "According to Yonhap News Agency, apartment sale prices in Busan remain firm, while jeonse rental prices have continued rising for 22 straight months.",
+        "body": "Apartment sale prices in Busan are maintaining a firm-to-slightly-higher trend, according to a report by Yonhap News Agency reporter Min Young-gyu. The report says Busan’s apartment market has not shown a sharp decline in sale prices and continues to move on a relatively steady footing. Jeonse rental prices, meanwhile, have risen for 22 consecutive months, drawing attention to both the sales and rental sides of the local housing market. The trend may keep focus on the price burden felt by homebuyers and tenants in Busan. The confirmed facts in the report are the continued firm tone in apartment sale prices and the 22-month rise in jeonse prices. Source: yna.co.kr"
+      },
+      "ja": {
+        "title": "釜山マンション価格は底堅く推移、チョンセは22カ月連続上昇",
+        "excerpt": "聯合ニュースによると、釜山のマンション売買価格は底堅い推移を維持し、チョンセ価格は22カ月連続で上昇している。",
+        "body": "釜山のマンション売買価格は、足元で底堅い推移を維持していると伝えられた。聯合ニュースのミン・ヨンギュ記者の報道によると、釜山地域のマンション市場では売買価格が大きく崩れず、比較的しっかりした流れが続いている。特にチョンセ価格は22カ月連続で上昇しており、売買市場と賃貸市場の双方が注目される状況だ。この流れは、釜山の住宅市場で実需者や借り手が感じる価格負担と関連し得るため、今後の市場動向にも関心が続く見通しだ。ただし、報道で確認された内容は、売買価格の底堅い推移とチョンセ価格の22カ月連続上昇である。出典: yna.co.kr"
+      },
+      "zh": {
+        "title": "釜山公寓价格维持偏强震荡，全租金连续22个月上涨",
+        "excerpt": "据韩联社报道，釜山公寓买卖价格近期维持偏强震荡走势，全租房价格已连续22个月上涨，住房成本压力受到关注。",
+        "body": "据报道，釜山公寓买卖价格近期维持偏强震荡走势。韩联社记者闵泳圭报道称，釜山地区公寓市场的买卖价格并未明显回落，而是延续相对稳固的走势。与此同时，全租房价格已连续22个月上涨，使当地买卖市场和租赁市场同时受到关注。这一趋势可能与购房者和租房者实际感受到的价格负担相关，因此后续市场动向预计仍将受到关注。不过，报道中确认的信息仅限于公寓买卖价格维持偏强走势，以及全租金连续22个月上涨。来源: yna.co.kr"
+      },
+      "es": {
+        "title": "Precios de apartamentos en Busan siguen firmes y el jeonse sube 22 meses",
+        "excerpt": "Según Yonhap, los precios de venta de apartamentos en Busan mantienen una tendencia firme, mientras los alquileres jeonse acumulan 22 meses consecutivos de alzas.",
+        "body": "Los precios de venta de apartamentos en Busan mantienen una tendencia firme, según informó Yonhap News Agency en una nota del periodista Min Young-gyu. El reporte indica que el mercado de apartamentos de Busan no ha registrado una caída marcada en los precios de compraventa y continúa mostrando un movimiento relativamente estable. Al mismo tiempo, los precios del jeonse han subido durante 22 meses consecutivos, lo que concentra la atención tanto en el mercado de venta como en el de alquiler. Esta evolución puede mantener el foco en la carga de precios que perciben compradores e inquilinos en Busan. Los datos confirmados por la información son la firmeza de los precios de venta y el alza del jeonse durante 22 meses. Fuente: yna.co.kr"
+      },
+      "pt": {
+        "title": "Apartamentos em Busan seguem firmes e jeonse sobe pelo 22º mês seguido",
+        "excerpt": "Segundo a Yonhap, os preços de venda de apartamentos em Busan seguem firmes, enquanto os valores de jeonse avançam há 22 meses consecutivos.",
+        "body": "Os preços de venda de apartamentos em Busan continuam em uma tendência firme, segundo reportagem da Yonhap News Agency assinada por Min Young-gyu. De acordo com a notícia, o mercado de apartamentos da cidade não mostrou queda acentuada nos preços de compra e venda e mantém um movimento relativamente sólido. Ao mesmo tempo, os valores de jeonse subiram por 22 meses consecutivos, chamando atenção para os mercados de venda e aluguel. Esse quadro pode manter em foco o peso dos preços sentido por compradores e inquilinos em Busan. As informações confirmadas na reportagem são a manutenção da firmeza nos preços de venda e a alta do jeonse por 22 meses seguidos. Fonte: yna.co.kr"
+      },
+      "de": {
+        "title": "Wohnungspreise in Busan bleiben fest, Jeonse-Mieten steigen 22 Monate",
+        "excerpt": "Laut Yonhap bleiben die Verkaufspreise für Apartments in Busan fest, während die Jeonse-Mieten seit 22 Monaten in Folge steigen.",
+        "body": "Die Verkaufspreise für Apartments in Busan halten sich weiter fest, wie die Nachrichtenagentur Yonhap unter Berufung auf Reporter Min Young-gyu berichtete. Demnach zeigt der Apartmentmarkt in Busan keinen deutlichen Rückgang der Kaufpreise und bewegt sich weiterhin auf vergleichsweise stabilem Niveau. Zugleich steigen die Jeonse-Mieten seit 22 Monaten in Folge, wodurch sowohl der Kauf- als auch der Mietmarkt der Stadt in den Blick rücken. Diese Entwicklung dürfte die Aufmerksamkeit auf die Preisbelastung lenken, die Käufer und Mieter in Busan spüren. Bestätigt sind in dem Bericht die anhaltend feste Tendenz der Verkaufspreise und der 22-monatige Anstieg der Jeonse-Preise. Quelle: yna.co.kr"
+      },
+      "fr": {
+        "title": "Les prix des appartements à Busan restent fermes, le jeonse monte 22 mois",
+        "excerpt": "Selon Yonhap, les prix de vente des appartements à Busan restent fermes, tandis que les loyers jeonse progressent depuis 22 mois consécutifs.",
+        "body": "Les prix de vente des appartements à Busan conservent une tendance ferme, selon une dépêche de Yonhap News Agency signée par le journaliste Min Young-gyu. Le reportage indique que le marché des appartements de Busan ne montre pas de net repli des prix de vente et poursuit une évolution relativement solide. Dans le même temps, les prix du jeonse ont augmenté pendant 22 mois consécutifs, attirant l’attention sur les marchés de la vente et de la location. Cette évolution peut maintenir l’intérêt autour de la charge financière ressentie par les acheteurs et les locataires à Busan. Les faits confirmés sont le maintien d’une tendance ferme des prix de vente et la hausse du jeonse sur 22 mois. Source: yna.co.kr"
+      },
+      "ar": {
+        "title": "أسعار شقق بوسان تبقى متماسكة وإيجارات الجونسي ترتفع 22 شهرا",
+        "excerpt": "وفقا لوكالة يونهاب، حافظت أسعار بيع الشقق في بوسان على اتجاه متماسك، بينما واصلت أسعار الجونسي ارتفاعها للشهر الثاني والعشرين على التوالي.",
+        "body": "حافظت أسعار بيع الشقق في بوسان على اتجاه متماسك يميل إلى القوة، بحسب ما نقلته وكالة يونهاب للأنباء في تقرير للصحفي مين يونغ-غيو. وذكر التقرير أن سوق الشقق في بوسان لم يشهد تراجعا حادا في أسعار البيع، بل واصل حركة مستقرة نسبيا. وفي المقابل، ارتفعت أسعار الجونسي للشهر الثاني والعشرين على التوالي، ما جعل سوقي البيع والإيجار في المدينة محط اهتمام في الوقت نفسه. وقد يبقي هذا الاتجاه التركيز على عبء الأسعار الذي يشعر به المشترون والمستأجرون في بوسان. وتقتصر المعلومات المؤكدة في التقرير على استمرار تماسك أسعار البيع وارتفاع أسعار الجونسي لمدة 22 شهرا متتالية. المصدر: yna.co.kr"
+      },
+      "hi": {
+        "title": "बुसान अपार्टमेंट कीमतें मजबूत, जोंसे किराया 22 महीने से लगातार ऊपर",
+        "excerpt": "योनहाप के अनुसार, बुसान में अपार्टमेंट बिक्री कीमतें मजबूत रुख बनाए हुए हैं, जबकि जोंसे किराया लगातार 22 महीनों से बढ़ रहा है।",
+        "body": "बुसान में अपार्टमेंट बिक्री कीमतें हाल में मजबूत रुख बनाए हुए हैं, यह जानकारी योनहाप न्यूज एजेंसी के पत्रकार मिन यंग-ग्यू की रिपोर्ट में दी गई। रिपोर्ट के अनुसार, बुसान के अपार्टमेंट बाजार में बिक्री कीमतों में तेज गिरावट नहीं दिखी है और वे अपेक्षाकृत स्थिर दिशा में चल रही हैं। दूसरी ओर, जोंसे किराया लगातार 22 महीनों से बढ़ रहा है, जिससे स्थानीय बिक्री और किराया दोनों बाजारों पर ध्यान गया है। यह रुझान बुसान में खरीदारों और किरायेदारों द्वारा महसूस किए जाने वाले कीमत बोझ से जुड़ा रह सकता है। रिपोर्ट में पुष्टि की गई बातें अपार्टमेंट बिक्री कीमतों का मजबूत बने रहना और जोंसे कीमतों का 22 महीने लगातार बढ़ना हैं। स्रोत: yna.co.kr"
+      },
+      "id": {
+        "title": "Harga Apartemen Busan Tetap Kuat, Jeonse Naik 22 Bulan Berturut",
+        "excerpt": "Menurut Yonhap, harga jual apartemen di Busan tetap berada dalam tren kuat, sementara harga sewa jeonse naik selama 22 bulan berturut-turut.",
+        "body": "Harga jual apartemen di Busan dilaporkan tetap berada dalam tren kuat cenderung stabil. Menurut laporan Yonhap News Agency oleh wartawan Min Young-gyu, pasar apartemen Busan tidak menunjukkan penurunan tajam pada harga jual dan masih bergerak relatif solid. Sementara itu, harga sewa jeonse telah naik selama 22 bulan berturut-turut, sehingga pasar jual beli dan sewa di kota tersebut sama-sama menjadi perhatian. Perkembangan ini dapat menjaga fokus pada beban harga yang dirasakan pembeli rumah dan penyewa di Busan. Fakta yang dikonfirmasi dalam laporan tersebut adalah harga jual apartemen yang tetap kuat dan kenaikan harga jeonse selama 22 bulan berturut-turut. Sumber: yna.co.kr"
+      }
+    }
+  },
+  {
+    "id": "5145141d5a59",
+    "slug": "연합뉴스-이-시각-헤드라인---1030-650983",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-05-09T01:45:08.171Z",
+    "updatedAt": "2026-05-09T01:45:08.171Z",
+    "sourceName": "yna.co.kr",
+    "sourceUrl": "https://www.yna.co.kr/view/AKR20260509022700011",
+    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260509022700011",
+    "titleFingerprint": "64a3a78e24c6543c26fa5d64aa0072cce47a4c29",
+    "dedupKeys": [
+      "5145141d5a599ae27bee2877ba653f288dcf2c11",
+      "64a3a78e24c6543c26fa5d64aa0072cce47a4c29",
+      "2006ec74eacea2cec595227b10ba824a74ce429c"
+    ],
+    "imageUrl": "/images/articles/5145141d5a59.jpg",
+    "i18n": {
+      "ko": {
+        "title": "연합뉴스 10:30 헤드라인 공개, 이 시각 주요 뉴스 요약",
+        "excerpt": "연합뉴스는 10시 30분 기준 ‘이 시각 헤드라인’을 통해 현재 주요 뉴스 흐름을 요약해 공개했다. 출처는 yna.co.kr이다.",
+        "body": "연합뉴스는 10시 30분 기준으로 ‘이 시각 헤드라인’을 공개했다. 해당 항목은 현재 시점의 주요 뉴스를 한눈에 확인할 수 있도록 제목과 요약 형식으로 제공된 것으로, 원문에 제시된 제목과 요약은 모두 ‘[연합뉴스 이 시각 헤드라인] - 10:30’이다. 공개된 정보에는 개별 기사별 세부 내용이나 관련 수치, 별도 배경 설명은 포함되지 않았다. 따라서 이번 내용은 연합뉴스가 특정 시각에 주요 뉴스 목록을 정리해 전달했다는 사실에 한정해 확인된다. 자세한 원문 확인은 출처인 yna.co.kr을 통해 가능하다. 출처: yna.co.kr"
+      },
+      "en": {
+        "title": "Yonhap 10:30 Headlines Released, Key News Summary at This Hour",
+        "excerpt": "Yonhap News released its “Headlines at This Hour” as of 10:30, summarizing the current flow of major news. The source is yna.co.kr.",
+        "body": "Yonhap News released its “Headlines at This Hour” as of 10:30. The item was presented in title and summary format so readers could check the major news at the current time at a glance. The title and summary provided in the source are both “[Yonhap News Headlines at This Hour] - 10:30.” The available information does not include detailed content for individual articles, related figures, or separate background explanation. Therefore, the confirmed fact is limited to Yonhap compiling and delivering a list of major news items at a specific time. The original can be checked through the source, yna.co.kr. Source: yna.co.kr"
+      },
+      "ja": {
+        "title": "聯合ニュース10時30分ヘッドライン公開、現時点の主要ニュース要約",
+        "excerpt": "聯合ニュースは10時30分基準の「この時刻のヘッドライン」を通じ、現在の主要ニュースの流れを要約して公開した。出典はyna.co.kr。",
+        "body": "聯合ニュースは10時30分基準で「この時刻のヘッドライン」を公開した。この項目は、現時点の主要ニュースを一目で確認できるよう、タイトルと要約の形式で提供されたものだ。原文に示されたタイトルと要約はいずれも「[聯合ニュース この時刻のヘッドライン] - 10:30」である。公開された情報には、個別記事の詳細内容や関連数値、別途の背景説明は含まれていない。したがって今回確認できる内容は、聯合ニュースが特定時刻に主要ニュース一覧を整理して伝えたという事実に限られる。原文の確認は出典のyna.co.krで可能だ。出典: yna.co.kr"
+      },
+      "zh": {
+        "title": "韩联社10:30头条发布，汇总此刻主要新闻动态",
+        "excerpt": "韩联社以10:30为基准发布“此刻头条”，对当前主要新闻动向进行摘要式呈现。信息来源为yna.co.kr。",
+        "body": "韩联社以10:30为基准发布了“此刻头条”。该内容以标题和摘要形式提供，旨在让读者快速了解当前时点的主要新闻。原文中给出的标题和摘要均为“[韩联社 此刻头条] - 10:30”。已公开的信息未包含各单篇新闻的详细内容、相关数据或额外背景说明。因此，目前可确认的事实仅限于韩联社在特定时间整理并发布主要新闻列表。读者可通过来源网站yna.co.kr查看原文。来源：yna.co.kr"
+      },
+      "es": {
+        "title": "Yonhap publica titulares de las 10:30 con resumen de noticias clave",
+        "excerpt": "Yonhap News publicó sus “titulares de este momento” a las 10:30, con un resumen del flujo actual de noticias principales. La fuente es yna.co.kr.",
+        "body": "Yonhap News publicó a las 10:30 sus “titulares de este momento”. El contenido se presentó en formato de título y resumen para que los lectores pudieran revisar de un vistazo las principales noticias del momento. En la fuente, tanto el título como el resumen aparecen como “[Titulares de Yonhap News de este momento] - 10:30”. La información disponible no incluye detalles de artículos individuales, cifras relacionadas ni explicaciones de contexto adicionales. Por tanto, el hecho confirmado se limita a que Yonhap organizó y difundió una lista de noticias principales a una hora concreta. El original puede consultarse en yna.co.kr. Fuente: yna.co.kr"
+      },
+      "pt": {
+        "title": "Yonhap divulga manchetes das 10h30 com resumo das principais notícias",
+        "excerpt": "A Yonhap News divulgou, às 10h30, suas “manchetes deste momento”, resumindo o fluxo atual das principais notícias. A fonte é yna.co.kr.",
+        "body": "A Yonhap News divulgou, às 10h30, suas “manchetes deste momento”. O item foi apresentado em formato de título e resumo para permitir que os leitores verificassem rapidamente as principais notícias naquele horário. Na fonte, o título e o resumo aparecem como “[Manchetes da Yonhap News deste momento] - 10:30”. As informações disponíveis não incluem detalhes de reportagens individuais, números relacionados ou explicações adicionais de contexto. Assim, o fato confirmado limita-se à organização e divulgação, pela Yonhap, de uma lista de notícias principais em um horário específico. O original pode ser consultado em yna.co.kr. Fonte: yna.co.kr"
+      },
+      "de": {
+        "title": "Yonhap veröffentlicht 10:30-Uhr-Schlagzeilen mit aktuellem Nachrichtenüberblick",
+        "excerpt": "Yonhap News veröffentlichte um 10:30 Uhr die „Schlagzeilen dieser Stunde“ und fasste damit den aktuellen Stand wichtiger Nachrichten zusammen. Quelle ist yna.co.kr.",
+        "body": "Yonhap News veröffentlichte um 10:30 Uhr die „Schlagzeilen dieser Stunde“. Der Beitrag wurde im Format von Titel und Zusammenfassung bereitgestellt, damit Leser die wichtigsten Nachrichten zum aktuellen Zeitpunkt auf einen Blick erfassen können. In der Quelle lauten sowohl Titel als auch Zusammenfassung „[Yonhap News Schlagzeilen dieser Stunde] - 10:30“. Die verfügbaren Informationen enthalten keine Details zu einzelnen Artikeln, keine zugehörigen Zahlen und keine zusätzliche Hintergrundbeschreibung. Bestätigt ist daher nur, dass Yonhap zu einer bestimmten Uhrzeit eine Liste wichtiger Nachrichten zusammengestellt und veröffentlicht hat. Das Original ist über yna.co.kr abrufbar. Quelle: yna.co.kr"
+      },
+      "fr": {
+        "title": "Yonhap publie les titres de 10h30 avec un résumé des principales actualités",
+        "excerpt": "Yonhap News a publié à 10h30 ses « titres de l’heure », résumant le fil actuel des principales informations. La source est yna.co.kr.",
+        "body": "Yonhap News a publié à 10h30 ses « titres de l’heure ». L’élément a été présenté sous forme de titre et de résumé afin de permettre aux lecteurs de consulter rapidement les principales actualités du moment. Dans la source, le titre et le résumé indiqués sont tous deux « [Titres de Yonhap News de l’heure] - 10:30 ». Les informations disponibles ne comprennent pas de détails sur des articles individuels, de chiffres associés ni d’explication contextuelle distincte. Le fait confirmé se limite donc à la publication par Yonhap d’une liste de nouvelles principales à une heure précise. L’original peut être consulté sur yna.co.kr. Source : yna.co.kr"
+      },
+      "ar": {
+        "title": "يونهاب تنشر عناوين 10:30 مع موجز لأبرز الأخبار الحالية",
+        "excerpt": "نشرت وكالة يونهاب عند الساعة 10:30 فقرة «عناوين هذه الساعة» لتلخيص مسار الأخبار الرئيسية الحالية. المصدر هو yna.co.kr.",
+        "body": "نشرت وكالة يونهاب عند الساعة 10:30 فقرة «عناوين هذه الساعة». وقد قُدم هذا المحتوى بصيغة عنوان وملخص كي يتمكن القراء من الاطلاع بسرعة على الأخبار الرئيسية في ذلك التوقيت. ويظهر في المصدر أن العنوان والملخص كلاهما بصيغة «[عناوين يونهاب لهذه الساعة] - 10:30». ولا تتضمن المعلومات المتاحة تفاصيل عن كل خبر على حدة، أو أرقاما ذات صلة، أو شرحا خلفيا إضافيا. لذلك فإن الحقيقة المؤكدة تقتصر على أن يونهاب جمعت ونشرت قائمة بالأخبار الرئيسية في وقت محدد. يمكن مراجعة الأصل عبر yna.co.kr. المصدر: yna.co.kr"
+      },
+      "hi": {
+        "title": "योनहाप ने 10:30 हेडलाइन जारी कीं, प्रमुख खबरों का ताजा सार",
+        "excerpt": "योनहाप न्यूज ने 10:30 बजे ‘इस समय की हेडलाइन’ जारी कर मौजूदा प्रमुख खबरों के प्रवाह का संक्षिप्त सार प्रस्तुत किया। स्रोत yna.co.kr है।",
+        "body": "योनहाप न्यूज ने 10:30 बजे ‘इस समय की हेडलाइन’ जारी की। यह सामग्री शीर्षक और सारांश के रूप में दी गई, ताकि पाठक उस समय की प्रमुख खबरों को एक नजर में देख सकें। स्रोत में दिया गया शीर्षक और सारांश दोनों “[योनहाप न्यूज इस समय की हेडलाइन] - 10:30” हैं। उपलब्ध जानकारी में अलग-अलग खबरों का विस्तृत विवरण, संबंधित आंकड़े या अलग पृष्ठभूमि व्याख्या शामिल नहीं है। इसलिए पुष्टि योग्य तथ्य केवल इतना है कि योनहाप ने एक निश्चित समय पर प्रमुख खबरों की सूची संकलित कर प्रकाशित की। मूल सामग्री yna.co.kr पर देखी जा सकती है। स्रोत: yna.co.kr"
+      },
+      "id": {
+        "title": "Yonhap Rilis Headline 10:30, Ringkasan Berita Utama Saat Ini",
+        "excerpt": "Yonhap News merilis “headline saat ini” pada pukul 10:30 untuk merangkum arus berita utama yang sedang berlangsung. Sumbernya adalah yna.co.kr.",
+        "body": "Yonhap News merilis “headline saat ini” pada pukul 10:30. Materi tersebut disajikan dalam format judul dan ringkasan agar pembaca dapat melihat berita utama pada waktu tersebut secara cepat. Dalam sumber, judul dan ringkasan yang tercantum sama-sama berbunyi “[Yonhap News Headline Saat Ini] - 10:30”. Informasi yang tersedia tidak memuat rincian tiap artikel, angka terkait, atau penjelasan latar tambahan. Karena itu, fakta yang dapat dikonfirmasi terbatas pada bahwa Yonhap menyusun dan menyampaikan daftar berita utama pada waktu tertentu. Naskah asli dapat diperiksa melalui yna.co.kr. Sumber: yna.co.kr"
+      }
+    }
+  },
+  {
+    "id": "fb3c60eb47bc",
+    "slug": "코스피-7000에-서점으로-몰리는-개미들주식책-판매-305-폭증-563372",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-05-09T01:44:18.098Z",
+    "updatedAt": "2026-05-09T01:44:18.099Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/stock/12042256",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12042256",
+    "titleFingerprint": "a47c9201e62b60a773d960062d8211e1ebc3382b",
+    "dedupKeys": [
+      "fb3c60eb47bc4e7dd62f8006eca309940feb7817",
+      "a47c9201e62b60a773d960062d8211e1ebc3382b",
+      "bbf650dd96536758ceb5e611956686239ce979d4"
+    ],
+    "imageUrl": "/images/articles/fb3c60eb47bc.jpg",
+    "i18n": {
+      "ko": {
+        "title": "코스피 7000 돌파에 개인투자자 서점행, 주식책 판매 305% 급증",
+        "excerpt": "코스피가 사상 최고치를 경신하며 7000선을 넘어서자 개인투자자들의 관심이 서점가로 확산되고 국내주식 도서 판매가 305% 급증했다.",
+        "body": "코스피가 사상 최고치를 다시 쓰며 7000선을 돌파하자 개인투자자들의 투자 열기가 서점가로 번지고 있다. 주식시장 상승세에 힘입어 국내주식 관련 도서 판매량은 305% 폭증한 것으로 전해졌다. 재테크, 연금, 자산관리 분야 도서에 대한 관심도 함께 커지며 증시 활황이 투자 정보 수요로 이어지는 모습이다. 시장 참여자들이 주식 투자와 자산 운용 지식을 찾기 위해 서점으로 향하면서 관련 출판 시장도 영향을 받고 있다. 이번 흐름은 코스피 신고가와 맞물린 개인투자자 학습 수요 확대를 보여준다. 출처: mk.co.kr."
+      },
+      "en": {
+        "title": "KOSPI Tops 7,000 as Retail Investors Drive 305% Surge in Stock Book Sales",
+        "excerpt": "As the KOSPI hit a record high and crossed 7,000, retail investor interest spread to bookstores, sending sales of domestic stock books up 305%.",
+        "body": "As the KOSPI rewrote its record high and broke through the 7,000 mark, retail investors’ enthusiasm for investing is spreading to bookstores. Backed by the stock market rally, sales of books related to domestic stocks reportedly jumped 305%. Interest is also rising in books on personal finance, pensions and asset management, showing how the buoyant market is translating into demand for investment information. As market participants head to bookstores to learn about stock investing and asset management, the related publishing market is also feeling the impact. The trend highlights growing learning demand among retail investors alongside the KOSPI’s record-setting advance. Source: mk.co.kr."
+      },
+      "ja": {
+        "title": "KOSPI 7000突破で個人投資家が書店へ、株式本販売305％急増",
+        "excerpt": "KOSPIが過去最高値を更新して7000台を突破すると、個人投資家の関心が書店にも広がり、国内株式関連書籍の販売が305％急増した。",
+        "body": "KOSPIが過去最高値を更新し、7000台を突破したことで、個人投資家の投資熱が書店街にも広がっている。株式市場の上昇基調を背景に、国内株式関連書籍の販売量は305％急増したと伝えられた。資産形成、年金、資産管理分野の書籍への関心も同時に高まり、株式市場の活況が投資情報への需要につながっている形だ。市場参加者が株式投資や資産運用の知識を求めて書店に向かうなか、関連出版市場にも影響が及んでいる。今回の流れは、KOSPIの最高値更新と重なる個人投資家の学習需要拡大を示している。出典: mk.co.kr."
+      },
+      "zh": {
+        "title": "KOSPI突破7000点，散户涌向书店推动股票书销量激增305%",
+        "excerpt": "KOSPI创下历史新高并突破7000点后，散户投资者的热情蔓延至书店，韩国国内股票相关图书销量激增305%。",
+        "body": "KOSPI刷新历史高点并突破7000点后，散户投资者的投资热情正蔓延到书店。受股市上涨势头推动，韩国国内股票相关图书销量据称暴增305%。与此同时，理财、养老金和资产管理类图书的关注度也在上升，显示股市活跃正转化为对投资信息的需求。随着市场参与者前往书店寻找股票投资和资产运用知识，相关出版市场也受到影响。这一趋势反映出，在KOSPI创出新高之际，散户投资者的学习需求正在扩大。来源: mk.co.kr."
+      },
+      "es": {
+        "title": "KOSPI supera los 7.000 y los minoristas impulsan 305% las ventas de libros bursátiles",
+        "excerpt": "Tras marcar un máximo histórico y superar los 7.000 puntos, el interés de los inversores minoristas llegó a las librerías y las ventas de libros sobre acciones locales subieron 305%.",
+        "body": "El KOSPI renovó su máximo histórico y superó la barrera de los 7.000 puntos, llevando el entusiasmo inversor de los minoristas hasta las librerías. Impulsadas por la tendencia alcista del mercado bursátil, las ventas de libros relacionados con acciones nacionales se dispararon un 305%, según se informó. También crece el interés por títulos sobre finanzas personales, pensiones y gestión de activos, señal de que el auge del mercado se está traduciendo en demanda de información de inversión. A medida que los participantes buscan conocimientos sobre inversión en acciones y administración patrimonial, el mercado editorial relacionado también recibe impacto. Fuente: mk.co.kr."
+      },
+      "pt": {
+        "title": "KOSPI passa de 7.000 e investidores elevam em 305% vendas de livros sobre ações",
+        "excerpt": "Com o KOSPI em máxima histórica acima de 7.000 pontos, o interesse dos investidores chegou às livrarias e as vendas de livros sobre ações locais subiram 305%.",
+        "body": "O KOSPI renovou sua máxima histórica e rompeu a marca de 7.000 pontos, levando o entusiasmo dos investidores individuais também às livrarias. Com o avanço do mercado acionário, as vendas de livros relacionados a ações domésticas teriam disparado 305%. O interesse por obras sobre finanças pessoais, previdência e gestão de ativos também aumentou, mostrando que a forte bolsa está se convertendo em demanda por informação de investimento. À medida que participantes do mercado buscam conhecimento sobre ações e gestão patrimonial nas livrarias, o setor editorial relacionado também sente os efeitos. Fonte: mk.co.kr."
+      },
+      "de": {
+        "title": "KOSPI über 7.000: Privatanleger lassen Verkäufe von Aktienbüchern um 305% steigen",
+        "excerpt": "Nachdem der KOSPI ein Rekordhoch erreichte und die Marke von 7.000 überschritt, verlagerte sich das Interesse von Privatanlegern in Buchhandlungen; Aktienbücher legten 305% zu.",
+        "body": "Der KOSPI hat ein neues Rekordhoch markiert und die Marke von 7.000 Punkten durchbrochen. Damit greift die Investitionsbegeisterung privater Anleger auch auf Buchhandlungen über. Gestützt durch den Aufwärtstrend am Aktienmarkt stiegen die Verkäufe von Büchern zu heimischen Aktien Berichten zufolge um 305%. Auch das Interesse an Büchern zu Vermögensaufbau, Renten und Asset Management nimmt zu, was zeigt, dass die Börsenrally die Nachfrage nach Anlageinformationen antreibt. Da Marktteilnehmer Wissen über Aktieninvestments und Vermögensverwaltung suchen, spürt auch der entsprechende Verlagsmarkt die Folgen. Quelle: mk.co.kr."
+      },
+      "fr": {
+        "title": "KOSPI au-dessus de 7 000: les particuliers font bondir les ventes de livres boursiers de 305%",
+        "excerpt": "Alors que le KOSPI a inscrit un record et franchi 7 000 points, l’intérêt des particuliers a gagné les librairies, où les ventes de livres sur les actions locales ont bondi de 305%.",
+        "body": "Le KOSPI a inscrit un nouveau record historique et franchi le seuil des 7 000 points, propageant l’enthousiasme des investisseurs particuliers jusque dans les librairies. Portées par la hausse du marché boursier, les ventes de livres consacrés aux actions nationales auraient bondi de 305%. L’intérêt progresse aussi pour les ouvrages sur les finances personnelles, les retraites et la gestion d’actifs, signe que la vigueur du marché nourrit la demande d’information d’investissement. À mesure que les participants cherchent des connaissances sur les actions et la gestion de patrimoine, l’édition spécialisée en ressent également l’effet. Source: mk.co.kr."
+      },
+      "ar": {
+        "title": "كوسبي يتجاوز 7000 نقطة والمستثمرون الأفراد يرفعون مبيعات كتب الأسهم 305%",
+        "excerpt": "بعد أن سجل كوسبي مستوى قياسيا وتجاوز 7000 نقطة، امتد اهتمام المستثمرين الأفراد إلى المكتبات، وقفزت مبيعات كتب الأسهم المحلية 305%.",
+        "body": "سجل مؤشر كوسبي مستوى قياسيا جديدا وتجاوز حاجز 7000 نقطة، ما جعل حماس المستثمرين الأفراد يمتد إلى المكتبات. وبدعم من صعود سوق الأسهم، قفزت مبيعات الكتب المتعلقة بالأسهم المحلية بنسبة 305% بحسب ما ورد. كما ازداد الاهتمام بكتب إدارة المال الشخصي والتقاعد وإدارة الأصول، في إشارة إلى أن نشاط السوق يتحول إلى طلب على معلومات الاستثمار. ومع توجه المشاركين في السوق إلى المكتبات بحثا عن معرفة في الاستثمار بالأسهم وإدارة الأصول، يتأثر سوق النشر المرتبط بذلك أيضا. ويظهر هذا الاتجاه اتساع طلب التعلم لدى المستثمرين الأفراد بالتزامن مع قمة كوسبي القياسية. المصدر: mk.co.kr."
+      },
+      "hi": {
+        "title": "KOSPI 7,000 के पार, खुदरा निवेशकों से शेयर किताबों की बिक्री 305% उछली",
+        "excerpt": "KOSPI के रिकॉर्ड ऊंचाई पर पहुंचकर 7,000 के पार जाने के बाद खुदरा निवेशकों की दिलचस्पी किताबों की दुकानों तक फैल गई और घरेलू शेयर पुस्तकों की बिक्री 305% बढ़ी।",
+        "body": "KOSPI ने नया रिकॉर्ड उच्च स्तर बनाया और 7,000 अंक के पार निकल गया, जिसके बाद खुदरा निवेशकों का निवेश उत्साह किताबों की दुकानों तक फैल रहा है। शेयर बाजार की तेजी के सहारे घरेलू शेयरों से जुड़ी पुस्तकों की बिक्री 305% उछलने की सूचना है। पर्सनल फाइनेंस, पेंशन और एसेट मैनेजमेंट से जुड़ी किताबों में भी रुचि बढ़ रही है, जिससे दिखता है कि बाजार की मजबूती निवेश जानकारी की मांग में बदल रही है। बाजार सहभागी शेयर निवेश और संपत्ति प्रबंधन का ज्ञान पाने के लिए दुकानों की ओर जा रहे हैं, जिससे संबंधित प्रकाशन बाजार पर भी असर पड़ रहा है। स्रोत: mk.co.kr."
+      },
+      "id": {
+        "title": "KOSPI Tembus 7.000, Investor Ritel Dorong Penjualan Buku Saham Melonjak 305%",
+        "excerpt": "Saat KOSPI mencetak rekor tertinggi dan menembus 7.000, minat investor ritel merambah toko buku dan penjualan buku saham domestik melonjak 305%.",
+        "body": "KOSPI mencetak rekor tertinggi baru dan menembus level 7.000, membuat antusiasme investasi investor ritel merambah hingga toko buku. Didukung tren kenaikan pasar saham, penjualan buku terkait saham domestik dilaporkan melonjak 305%. Minat terhadap buku keuangan pribadi, pensiun, dan manajemen aset juga ikut meningkat, menunjukkan bahwa pasar yang bergairah mendorong permintaan informasi investasi. Ketika pelaku pasar mendatangi toko buku untuk mencari pengetahuan tentang investasi saham dan pengelolaan aset, pasar penerbitan terkait turut terdampak. Tren ini memperlihatkan meningkatnya kebutuhan belajar investor ritel seiring rekor KOSPI. Sumber: mk.co.kr."
+      }
+    }
+  },
+  {
     "id": "2385fbdd6c2d",
     "slug": "다음주-경제-4월-취업자-얼마나-늘었나kdi-경제전망도-관심-608577",
     "channelId": "ETF",
@@ -4271,231 +4496,6 @@
         "title": "Revisi UU Valuta Asing Lolos, Operator Transfer Kripto ke Luar Negeri Wajib Daftar",
         "excerpt": "Majelis Nasional Korea Selatan pada tanggal 7 mengesahkan revisi UU transaksi valuta asing yang memasukkan pergerakan stablecoin lintas negara ke pengawasan dan mewajibkan pendaftaran operator transfer aset virtual.",
         "body": "Majelis Nasional Korea Selatan pada tanggal 7 dalam sidang pleno mengesahkan revisi Undang-Undang Transaksi Valuta Asing. Revisi ini mewajibkan operator transfer koin ke luar negeri mendaftar ke Kementerian Ekonomi dan Keuangan, serta memasukkan pergerakan lintas negara aset virtual seperti stablecoin ke dalam jaringan pengawasan valuta asing. Latar belakangnya adalah kebutuhan mengelola transfer ke luar negeri dan pengiriman dana ilegal yang menggunakan aset virtual. Revisi ini memperkenalkan hukuman penjara untuk pengiriman ilegal dengan tujuan memperoleh keuntungan tidak sah dan membentuk sistem pendaftaran bagi bisnis transfer aset virtual. Pungutan kesehatan valuta asing akan tetap berlaku selama 10 tahun lagi. Beban kepatuhan operator transfer aset virtual ke luar negeri diperkirakan meningkat, sementara pemeriksaan otoritas atas arus stablecoin lintas negara akan diperkuat. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "f26dc413415f",
-    "slug": "나만-못-벌었어삼전닉스-없는-찐개미-담은-종목-봤더니-663051",
-    "channelId": "ETF",
-    "category": "etf",
-    "publishedAt": "2026-05-08T14:13:55.785Z",
-    "updatedAt": "2026-05-08T14:13:55.785Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/2026050848741",
-    "canonicalUrl": "https://www.hankyung.com/article/2026050848741",
-    "titleFingerprint": "7c52422d2d97eb571d1527583a3ca650004f8910",
-    "dedupKeys": [
-      "f26dc413415f364ca8ed560ddb3fe41bc71fa0e3",
-      "7c52422d2d97eb571d1527583a3ca650004f8910",
-      "4446b59361570d1806d42a82dfc0ec3f0768d2ed"
-    ],
-    "imageUrl": "/images/articles/f26dc413415f.jpg",
-    "i18n": {
-      "ko": {
-        "title": "삼전닉스 없는 찐개미 포트폴리오 주목, ‘나만 못 벌었어’ 심리 확산",
-        "excerpt": "한국경제는 삼성전자·SK하이닉스, 이른바 ‘삼전닉스’를 담지 못한 개인투자자들이 어떤 종목에 관심을 두는지 조명했다.",
-        "body": "한국경제는 개인투자자들 사이에서 “나만 못 벌었어”라는 반응이 나오는 가운데, 삼성전자와 SK하이닉스를 뜻하는 ‘삼전닉스’를 보유하지 않은 이른바 찐개미들이 어떤 종목을 담았는지 살폈다고 전했다. 원문 제목은 반도체 대표주 랠리에서 소외된 투자자의 포트폴리오에 초점을 맞췄다. 다만 제공된 원문 정보에는 구체적인 종목명, 매수 규모, 수익률 등 세부 수치가 포함되지 않았다. 이에 따라 본 기사는 확인된 제목과 출처 범위 안에서만 정리했다. 출처: hankyung.com"
-      },
-      "en": {
-        "title": "Retail Portfolios Without Samsung-SK Hynix Draw Attention Amid FOMO",
-        "excerpt": "Hankyung examined what stocks retail investors are watching after missing Samsung Electronics and SK Hynix, known together as “Samjeonnix.”",
-        "body": "Hankyung reported that some retail investors are reacting with a sense of “I was the only one who did not make money” as attention turns to portfolios that do not include Samsung Electronics and SK Hynix, commonly grouped in Korea as “Samjeonnix.” The original headline focuses on what stocks committed individual investors held while missing the major semiconductor names. The provided source information does not include specific stock names, purchase amounts, or returns. This article therefore stays within the confirmed headline and source details only. Source: hankyung.com"
-      },
-      "ja": {
-        "title": "サムスン電子・SKハイニックスを持たない個人投資家の保有銘柄に注目",
-        "excerpt": "韓国経済新聞は、サムスン電子とSKハイニックスを持たない個人投資家がどの銘柄に関心を向けたのかを取り上げた。",
-        "body": "韓国経済新聞は、個人投資家の間で「自分だけ儲けられなかった」との反応が出るなか、サムスン電子とSKハイニックスを指す「サムジョンニックス」を保有していない個人投資家がどの銘柄を組み入れたのかに注目した。元の見出しは、半導体代表株の上昇相場から取り残された投資家のポートフォリオに焦点を当てている。ただし、提供された原文情報には具体的な銘柄名、買付規模、収益率などの詳細数値は含まれていない。出典: hankyung.com"
-      },
-      "zh": {
-        "title": "未持有三星电子和SK海力士的散户组合受关注，错失行情情绪升温",
-        "excerpt": "韩国经济新闻关注未持有三星电子和SK海力士的散户投资者，观察他们在错过半导体龙头行情后持有哪些股票。",
-        "body": "韩国经济新闻报道称，在部分个人投资者发出“只有我没赚到钱”的反应之际，市场开始关注未持有三星电子和SK海力士、也就是韩国市场所称“Samjeonnix”的散户投资者究竟买入了哪些股票。原文标题聚焦于在半导体代表股上涨行情中被边缘化的个人投资者组合。不过，用户提供的原文信息未包含具体股票名称、买入规模或收益率等详细数据。因此，本文仅在已确认的标题和来源范围内整理。来源: hankyung.com"
-      },
-      "es": {
-        "title": "Carteras minoristas sin Samsung ni SK Hynix ganan foco por miedo a quedarse fuera",
-        "excerpt": "Hankyung analizó qué acciones miran los inversores minoristas que no tenían Samsung Electronics ni SK Hynix, conocidas como “Samjeonnix.”",
-        "body": "Hankyung informó que, mientras algunos inversores minoristas reaccionan con la sensación de “solo yo no gané dinero”, crece el interés por las carteras que no incluyen Samsung Electronics ni SK Hynix, conocidas en Corea como “Samjeonnix.” El titular original se centra en qué acciones compraron los inversores particulares que quedaron fuera del repunte de las grandes compañías de semiconductores. La información proporcionada no incluye nombres concretos de acciones, montos de compra ni rentabilidades. Por ello, este texto se limita a los datos confirmados del título y la fuente. Fuente: hankyung.com"
-      },
-      "pt": {
-        "title": "Carteiras de varejo sem Samsung e SK Hynix atraem atenção em meio ao FOMO",
-        "excerpt": "O Hankyung analisou quais ações atraem investidores individuais que não tinham Samsung Electronics nem SK Hynix, chamadas de “Samjeonnix.”",
-        "body": "O Hankyung informou que, em meio à reação de investidores individuais dizendo “só eu não ganhei dinheiro”, aumentou a atenção sobre carteiras que não incluem Samsung Electronics e SK Hynix, conhecidas no mercado coreano como “Samjeonnix.” A manchete original observa quais ações foram compradas por investidores de varejo que ficaram fora da alta das principais empresas de semicondutores. As informações fornecidas não incluem nomes específicos de ações, valores comprados ou retornos. Assim, este texto se restringe ao título e à fonte confirmados. Fonte: hankyung.com"
-      },
-      "de": {
-        "title": "Privatanleger ohne Samsung und SK Hynix rücken mit ihren Portfolios in den Fokus",
-        "excerpt": "Hankyung beleuchtete, welche Aktien Privatanleger beobachten, die Samsung Electronics und SK Hynix, in Korea “Samjeonnix” genannt, verpasst haben.",
-        "body": "Hankyung berichtete, dass unter Privatanlegern die Reaktion “nur ich habe nichts verdient” aufkommt, während Portfolios ohne Samsung Electronics und SK Hynix, in Korea zusammen “Samjeonnix” genannt, stärker beachtet werden. Die ursprüngliche Überschrift konzentriert sich darauf, welche Aktien engagierte Kleinanleger hielten, nachdem sie die großen Halbleiterwerte nicht im Depot hatten. Die bereitgestellten Ausgangsinformationen enthalten keine konkreten Aktiennamen, Kaufvolumina oder Renditen. Dieser Artikel beschränkt sich daher auf die bestätigten Angaben aus Titel und Quelle. Quelle: hankyung.com"
-      },
-      "fr": {
-        "title": "Les portefeuilles sans Samsung ni SK Hynix attirent l’attention des particuliers",
-        "excerpt": "Hankyung a examiné les actions suivies par les particuliers qui n’avaient pas Samsung Electronics ni SK Hynix, surnommées “Samjeonnix.”",
-        "body": "Hankyung a rapporté que, alors que certains investisseurs particuliers réagissent en disant “je suis le seul à ne pas avoir gagné d’argent”, l’attention se porte sur les portefeuilles ne contenant pas Samsung Electronics ni SK Hynix, appelées en Corée “Samjeonnix.” Le titre original s’intéresse aux actions détenues par les particuliers restés à l’écart de la hausse des grands titres des semi-conducteurs. Les informations fournies ne mentionnent pas de noms d’actions précis, de montants d’achat ni de rendements. Ce texte s’en tient donc aux éléments confirmés du titre et de la source. Source: hankyung.com"
-      },
-      "ar": {
-        "title": "محافظ الأفراد من دون سامسونغ وSK هاينكس تحت المجهر مع تزايد شعور فوات الفرصة",
-        "excerpt": "سلطت هانكيونغ الضوء على الأسهم التي يتابعها مستثمرون أفراد لم يمتلكوا سامسونغ إلكترونيكس وSK هاينكس، المعروفتين باسم “Samjeonnix.”",
-        "body": "ذكرت هانكيونغ أنه مع صدور تعليقات من مستثمرين أفراد تقول “أنا وحدي لم أربح”، اتجه الاهتمام إلى المحافظ التي لا تضم سامسونغ إلكترونيكس وSK هاينكس، وهما الاسمان اللذان يشار إليهما في كوريا باسم “Samjeonnix.” ويركز العنوان الأصلي على الأسهم التي احتفظ بها المستثمرون الأفراد الذين لم يشاركوا في صعود أسهم أشباه الموصلات الكبرى. ولا تتضمن معلومات المصدر المقدمة أسماء أسهم محددة أو أحجام شراء أو نسب عائد. لذلك يقتصر هذا النص على العنوان والمصدر المؤكدين. المصدر: hankyung.com"
-      },
-      "hi": {
-        "title": "Samsung और SK Hynix के बिना रिटेल पोर्टफोलियो पर फोकस, FOMO बढ़ा",
-        "excerpt": "Hankyung ने देखा कि Samsung Electronics और SK Hynix, जिन्हें “Samjeonnix” कहा जाता है, न रखने वाले खुदरा निवेशक किन शेयरों पर ध्यान दे रहे हैं।",
-        "body": "Hankyung ने बताया कि खुदरा निवेशकों के बीच “सिर्फ मैं ही पैसा नहीं कमा पाया” जैसी प्रतिक्रिया के बीच उन पोर्टफोलियो पर ध्यान गया है जिनमें Samsung Electronics और SK Hynix नहीं हैं। कोरिया में इन दोनों को मिलाकर “Samjeonnix” कहा जाता है। मूल शीर्षक इस बात पर केंद्रित है कि प्रमुख सेमीकंडक्टर शेयरों की तेजी से बाहर रह गए व्यक्तिगत निवेशकों ने कौन से शेयर रखे। उपलब्ध मूल जानकारी में विशिष्ट शेयरों के नाम, खरीद राशि या रिटर्न जैसे विवरण शामिल नहीं हैं। इसलिए यह लेख केवल पुष्टि किए गए शीर्षक और स्रोत तक सीमित है। स्रोत: hankyung.com"
-      },
-      "id": {
-        "title": "Portofolio Ritel Tanpa Samsung dan SK Hynix Disorot Saat FOMO Meningkat",
-        "excerpt": "Hankyung menyoroti saham yang dilirik investor ritel yang tidak memiliki Samsung Electronics dan SK Hynix, yang dikenal sebagai “Samjeonnix.”",
-        "body": "Hankyung melaporkan bahwa di tengah komentar investor ritel seperti “hanya saya yang tidak menghasilkan uang”, perhatian tertuju pada portofolio yang tidak memuat Samsung Electronics dan SK Hynix, yang di Korea disebut “Samjeonnix.” Judul asli berfokus pada saham apa yang dimiliki investor individu yang tertinggal dari reli saham semikonduktor utama. Informasi sumber yang diberikan tidak mencantumkan nama saham tertentu, nilai pembelian, atau tingkat imbal hasil. Karena itu, artikel ini hanya merangkum fakta yang terkonfirmasi dari judul dan sumber. Sumber: hankyung.com"
-      }
-    }
-  },
-  {
-    "id": "7a40476f3adc",
-    "slug": "에이피알-목표가-뛰자-상승곡선-탄-화장품株-936710",
-    "channelId": "ETF",
-    "category": "etf",
-    "publishedAt": "2026-05-08T14:12:33.334Z",
-    "updatedAt": "2026-05-08T14:12:33.334Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/2026050848511",
-    "canonicalUrl": "https://www.hankyung.com/article/2026050848511",
-    "titleFingerprint": "3861707fd16e0946158a695131ef8f6f35e5d0f8",
-    "dedupKeys": [
-      "7a40476f3adca322825c4b7c9c3c163f55f90255",
-      "3861707fd16e0946158a695131ef8f6f35e5d0f8",
-      "4b9f70ad2e004cbafda0def646c31d6caedbac21"
-    ],
-    "imageUrl": "/images/articles/7a40476f3adc.png",
-    "i18n": {
-      "ko": {
-        "title": "에이피알 목표가 상향에 화장품주 상승세, 관련 종목 주목",
-        "excerpt": "한국경제 보도에 따르면 에이피알 목표가가 뛰면서 화장품주가 상승곡선을 탔다. 목표가 변화가 업종 투자심리를 자극한 흐름으로 전해졌다.",
-        "body": "에이피알 목표가가 뛰었다는 증권가 평가가 전해지면서 화장품주가 상승곡선을 탔다고 한국경제가 보도했다. 보도 제목상 핵심은 에이피알 목표가 상향과 화장품 관련 종목의 주가 흐름이다. 구체적인 목표가 수준, 상승률, 개별 종목별 등락폭은 제공된 원문 정보에 포함되지 않았다. 이번 흐름은 에이피알에 대한 평가 변화가 화장품 업종 전반의 투자심리에 영향을 준 사례로 정리된다. 투자자는 실제 매매 전 원문 기사와 공시, 증권사 보고서의 세부 수치를 함께 확인할 필요가 있다. 출처: hankyung.com"
-      },
-      "en": {
-        "title": "APR Target Price Lift Puts Cosmetics Stocks on an Upswing",
-        "excerpt": "According to Hankyung, cosmetics stocks moved higher after APR’s target price rose, with the valuation change influencing investor attention toward the sector.",
-        "body": "Cosmetics stocks moved onto an upward track after reports that APR’s target price had risen, Hankyung reported. Based on the original headline, the key points are the target-price increase for APR and the positive movement in cosmetics-related shares. The provided source information does not include the exact target price, percentage gains, or stock-by-stock performance figures. The move can be read as a case in which a change in market assessment of APR affected sentiment across the cosmetics sector. Investors should check the original article, disclosures, and analyst reports for detailed numbers before making decisions. Source: hankyung.com"
-      },
-      "ja": {
-        "title": "エイピアル目標株価引き上げで化粧品株が上昇基調",
-        "excerpt": "韓国経済の報道によると、エイピアルの目標株価が上がったことで化粧品株が上昇曲線を描き、業種への投資心理が注目された。",
-        "body": "エイピアルの目標株価が上がったとの評価が伝わり、化粧品株が上昇曲線に乗ったと韓国経済が報じた。提供された原文情報で確認できる核心は、エイピアルの目標株価引き上げと化粧品関連銘柄の株価の流れだ。具体的な目標株価の水準、上昇率、銘柄別の騰落幅は原文情報に含まれていない。今回の動きは、エイピアルへの評価変化が化粧品業種全般の投資心理に影響した事例として整理できる。投資家は売買前に原文記事や開示、証券会社レポートの詳細数値を確認する必要がある。出典: hankyung.com"
-      },
-      "zh": {
-        "title": "APR目标价上调带动化妆品股走强，相关个股受关注",
-        "excerpt": "据韩国经济报道，APR目标价上调后，化妆品股进入上升走势，目标价变化影响了市场对该行业的投资情绪。",
-        "body": "韩国经济报道称，随着APR目标价上调的消息传出，化妆品股进入上升曲线。根据所提供的原文标题，核心信息是APR目标价上调以及化妆品相关股票的股价走势。原文信息未包含具体目标价水平、涨幅或各个股票的涨跌幅数据。此次走势可视为APR评价变化影响化妆品行业整体投资情绪的案例。投资者在实际交易前，应进一步确认原文报道、公告以及证券公司报告中的具体数据。来源: hankyung.com"
-      },
-      "es": {
-        "title": "La subida del precio objetivo de APR impulsa a las acciones cosméticas",
-        "excerpt": "Según Hankyung, las acciones de cosmética avanzaron después de que subiera el precio objetivo de APR, un cambio que concentró la atención del mercado.",
-        "body": "Las acciones de cosmética entraron en una trayectoria alcista después de que se informara de una subida en el precio objetivo de APR, según Hankyung. Con base en la información original, los puntos centrales son el aumento del precio objetivo de APR y el movimiento positivo de las acciones relacionadas con cosméticos. La fuente proporcionada no incluye el nivel exacto del precio objetivo, los porcentajes de subida ni las variaciones por cada acción. El movimiento puede entenderse como un caso en el que el cambio de valoración de APR influyó en el ánimo inversor hacia el sector cosmético. Antes de operar, conviene revisar el artículo original, los comunicados y los informes de analistas. Fuente: hankyung.com"
-      },
-      "pt": {
-        "title": "Alta no preço-alvo da APR coloca ações de cosméticos em avanço",
-        "excerpt": "Segundo o Hankyung, as ações de cosméticos subiram após o aumento do preço-alvo da APR, com a mudança de avaliação atraindo atenção ao setor.",
-        "body": "As ações de cosméticos entraram em trajetória de alta depois que foi divulgada uma elevação no preço-alvo da APR, informou o Hankyung. Pelas informações originais fornecidas, os pontos centrais são o aumento do preço-alvo da APR e o movimento positivo dos papéis ligados a cosméticos. A fonte não informa o nível exato do preço-alvo, os percentuais de alta nem a variação por ação. O movimento pode ser entendido como um caso em que a mudança de avaliação da APR influenciou o sentimento dos investidores em relação ao setor de cosméticos. Antes de investir, é necessário conferir o artigo original, comunicados e relatórios de corretoras. Fonte: hankyung.com"
-      },
-      "de": {
-        "title": "APR-Kursziel steigt und Kosmetikaktien ziehen deutlich an",
-        "excerpt": "Laut Hankyung legten Kosmetikaktien zu, nachdem das Kursziel für APR gestiegen war. Die Neubewertung lenkte den Blick der Anleger auf den Sektor.",
-        "body": "Kosmetikaktien gerieten auf einen Aufwärtspfad, nachdem Berichte über ein gestiegenes Kursziel für APR bekannt wurden, meldete Hankyung. Aus den bereitgestellten Originalinformationen ergeben sich als Kernpunkte die Anhebung des APR-Kursziels und die positive Entwicklung kosmetikbezogener Aktien. Konkrete Angaben zum Kursziel, zu prozentualen Gewinnen oder zu einzelnen Aktienbewegungen sind darin nicht enthalten. Die Entwicklung lässt sich als Beispiel dafür einordnen, wie eine veränderte Einschätzung von APR die Stimmung gegenüber dem Kosmetiksektor beeinflusste. Anleger sollten vor Handelsentscheidungen den Originalartikel, Mitteilungen und Analystenberichte prüfen. Quelle: hankyung.com"
-      },
-      "fr": {
-        "title": "Le relèvement de l’objectif d’APR soutient les valeurs cosmétiques",
-        "excerpt": "Selon Hankyung, les actions du secteur cosmétique ont progressé après la hausse de l’objectif de cours d’APR, attirant l’attention des investisseurs.",
-        "body": "Les actions du secteur cosmétique ont pris une trajectoire haussière après l’annonce d’une hausse de l’objectif de cours d’APR, a rapporté Hankyung. D’après les informations originales fournies, les éléments centraux sont le relèvement de l’objectif d’APR et le mouvement positif des titres liés aux cosmétiques. La source ne fournit pas le niveau exact de l’objectif, les pourcentages de hausse ni les variations par valeur. Ce mouvement peut être résumé comme un cas où la réévaluation d’APR a influencé le sentiment des investisseurs envers l’ensemble du secteur cosmétique. Avant toute décision, il faut consulter l’article original, les publications officielles et les rapports d’analystes. Source: hankyung.com"
-      },
-      "ar": {
-        "title": "رفع السعر المستهدف لسهم APR يدعم صعود أسهم مستحضرات التجميل",
-        "excerpt": "بحسب هانكيونغ، صعدت أسهم مستحضرات التجميل بعد ارتفاع السعر المستهدف لسهم APR، ما جعل تغير التقييم محورا لاهتمام المستثمرين بالقطاع.",
-        "body": "ذكرت هانكيونغ أن أسهم مستحضرات التجميل اتجهت صعودا بعد ورود تقييم يشير إلى ارتفاع السعر المستهدف لسهم APR. وبحسب المعلومات الأصلية المتاحة، تتمثل النقاط الرئيسية في رفع السعر المستهدف لـ APR وتحسن حركة الأسهم المرتبطة بمستحضرات التجميل. ولا تتضمن المعلومات المقدمة مستوى السعر المستهدف بدقة أو نسب الارتفاع أو أداء كل سهم على حدة. ويمكن تلخيص هذا التحرك بوصفه حالة أثرت فيها إعادة تقييم APR في معنويات المستثمرين تجاه قطاع مستحضرات التجميل. وينبغي للمستثمرين مراجعة المقال الأصلي والإفصاحات وتقارير شركات الأوراق المالية قبل اتخاذ قرارات تداول. المصدر: hankyung.com"
-      },
-      "hi": {
-        "title": "APR लक्ष्य मूल्य बढ़ने से कॉस्मेटिक्स शेयरों में तेजी का रुख",
-        "excerpt": "Hankyung के अनुसार APR का लक्ष्य मूल्य बढ़ने के बाद कॉस्मेटिक्स शेयरों में तेजी आई, जिससे सेक्टर को लेकर निवेशकों की धारणा पर असर पड़ा।",
-        "body": "APR का लक्ष्य मूल्य बढ़ने की खबर के बाद कॉस्मेटिक्स शेयरों ने तेजी का रुख पकड़ा, Hankyung ने रिपोर्ट किया। उपलब्ध मूल जानकारी के आधार पर मुख्य तथ्य APR के लक्ष्य मूल्य में बढ़ोतरी और कॉस्मेटिक्स से जुड़े शेयरों की सकारात्मक चाल हैं। दिए गए स्रोत में लक्ष्य मूल्य का सटीक स्तर, बढ़त का प्रतिशत या अलग-अलग शेयरों के उतार-चढ़ाव के आंकड़े शामिल नहीं हैं। इस घटनाक्रम को ऐसे मामले के रूप में देखा जा सकता है जिसमें APR पर मूल्यांकन में बदलाव ने पूरे कॉस्मेटिक्स सेक्टर की निवेश धारणा को प्रभावित किया। निवेशकों को निर्णय से पहले मूल लेख, खुलासे और ब्रोकरेज रिपोर्ट के विस्तृत आंकड़े देखने चाहिए। स्रोत: hankyung.com"
-      },
-      "id": {
-        "title": "Target Harga APR Naik, Saham Kosmetik Masuk Tren Menguat",
-        "excerpt": "Menurut Hankyung, saham kosmetik bergerak naik setelah target harga APR meningkat, menunjukkan perubahan penilaian memengaruhi sentimen sektor tersebut.",
-        "body": "Saham kosmetik masuk jalur penguatan setelah muncul kabar bahwa target harga APR meningkat, lapor Hankyung. Berdasarkan informasi asli yang diberikan, poin utamanya adalah kenaikan target harga APR dan pergerakan positif saham-saham terkait kosmetik. Sumber yang tersedia tidak memuat level target harga secara rinci, persentase kenaikan, atau perubahan harga per saham. Pergerakan ini dapat diringkas sebagai contoh ketika perubahan penilaian terhadap APR memengaruhi sentimen investasi pada sektor kosmetik secara lebih luas. Investor perlu memeriksa artikel asli, keterbukaan informasi, dan laporan sekuritas sebelum mengambil keputusan transaksi. Sumber: hankyung.com"
-      }
-    }
-  },
-  {
-    "id": "74eb9743354d",
-    "slug": "칠천피-달성까지-숨고른-현대차로봇-업고-재시동-종목-847530",
-    "channelId": "ETF",
-    "category": "etf",
-    "publishedAt": "2026-05-08T14:11:35.518Z",
-    "updatedAt": "2026-05-08T14:11:35.518Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/2026050843986",
-    "canonicalUrl": "https://www.hankyung.com/article/2026050843986",
-    "titleFingerprint": "7576beea47840d8523677dc78310114c3b95bc45",
-    "dedupKeys": [
-      "74eb9743354dd37b0d43ae943402364cbcf34713",
-      "7576beea47840d8523677dc78310114c3b95bc45",
-      "ba320762425d1c55a48023976cb211176f94a332"
-    ],
-    "imageUrl": "/images/articles/74eb9743354d.jpg",
-    "i18n": {
-      "ko": {
-        "title": "현대차, ‘칠천피’ 앞두고 숨고르기…로봇 기대감으로 재시동 주목",
-        "excerpt": "현대차가 ‘칠천피’ 달성 전 숨고르기에 들어간 가운데, 로봇 관련 기대가 주가 재시동의 변수로 부각됐다고 hankyung.com이 전했다.",
-        "body": "현대차가 ‘칠천피’ 달성을 앞두고 숨고르기에 들어갔다. hankyung.com은 현대차가 최근 주가 흐름에서 속도 조절을 보이는 가운데 로봇 관련 기대감이 다시 주목받고 있다고 보도했다. 기사 제목은 현대차의 현재 국면을 ‘숨고르기’와 ‘재시동’으로 압축했다. 배경에는 자동차주 흐름과 로봇 사업에 대한 시장 관심이 함께 놓여 있다. 다만 원문에서 확인된 핵심 정보는 현대차, 칠천피, 로봇, 재시동이라는 범위에 한정된다. 향후 주가 영향은 로봇 관련 기대가 실제 투자 심리로 이어지는지에 달릴 수 있다. 출처: hankyung.com."
-      },
-      "en": {
-        "title": "Hyundai Motor Pauses Before ‘7,000 Pi’ as Robot Hopes Draw Fresh Attention",
-        "excerpt": "Hyundai Motor is taking a breather before reaching ‘7,000 Pi,’ while robot-related expectations are emerging as a possible restart factor, hankyung.com reported.",
-        "body": "Hyundai Motor has entered a pause before the so-called ‘7,000 Pi’ milestone. According to hankyung.com, the stock is showing a period of adjustment, while expectations tied to robotics are again attracting market attention. The article frames Hyundai Motor’s current phase with the keywords ‘breather’ and ‘restart.’ The context centers on the movement of auto shares and investor interest in the company’s robot-related narrative. The confirmed information from the source is limited to Hyundai Motor, ‘7,000 Pi,’ robotics and a potential restart. The next impact on sentiment may depend on whether robot-related expectations translate into renewed investor demand. Source: hankyung.com."
-      },
-      "ja": {
-        "title": "現代自動車、「七千ピ」目前で一服…ロボット期待で再始動に注目",
-        "excerpt": "現代自動車が「七千ピ」達成を前に一服するなか、ロボット関連の期待が株価再始動の材料として浮上したとhankyung.comが報じた。",
-        "body": "現代自動車は「七千ピ」達成を前に一服局面に入っている。hankyung.comは、同社株が足元で速度調整を見せる一方、ロボット関連の期待が再び注目されていると報じた。記事は現在の局面を「一服」と「再始動」という言葉で整理している。背景には自動車株の流れと、ロボット事業に対する市場の関心がある。ただし、原文で確認できる核心情報は現代自動車、「七千ピ」、ロボット、再始動という範囲に限られる。今後の影響は、ロボット期待が投資心理の回復につながるかに左右される可能性がある。出典: hankyung.com."
-      },
-      "zh": {
-        "title": "现代汽车冲击“七千点”前暂歇，机器人预期带动重启关注",
-        "excerpt": "据hankyung.com报道，现代汽车在实现“七千点”前进入休整，机器人相关预期成为股价重新启动的关注变量。",
-        "body": "现代汽车在实现所谓“七千点”之前进入休整阶段。hankyung.com报道称，现代汽车近期股价走势出现节奏调整，同时机器人相关预期重新受到市场关注。报道标题将公司当前局面概括为“休整”和“重启”。其背景包括汽车股走势以及市场对机器人业务的兴趣。不过，原文确认的核心信息仅限于现代汽车、“七千点”、机器人和重新启动。未来影响可能取决于机器人相关预期是否能够转化为投资者情绪的恢复。来源: hankyung.com."
-      },
-      "es": {
-        "title": "Hyundai Motor toma pausa antes del ‘7.000 Pi’ y mira al impulso robótico",
-        "excerpt": "Hyundai Motor se toma un respiro antes de alcanzar el ‘7.000 Pi’, mientras las expectativas sobre robótica aparecen como factor de reinicio, informó hankyung.com.",
-        "body": "Hyundai Motor ha entrado en una fase de pausa antes del llamado ‘7.000 Pi’. Según hankyung.com, la acción muestra una moderación en su ritmo reciente, mientras las expectativas relacionadas con la robótica vuelven a captar la atención del mercado. El artículo resume la situación actual con las ideas de ‘respiro’ y ‘reinicio’. El contexto se sitúa en el comportamiento de las acciones automotrices y el interés del mercado por la narrativa robótica. La información confirmada por la fuente se limita a Hyundai Motor, ‘7.000 Pi’, robótica y reinicio. El impacto posterior dependerá de si esas expectativas se trasladan al ánimo inversor. Fuente: hankyung.com."
-      },
-      "pt": {
-        "title": "Hyundai Motor pausa antes do ‘7.000 Pi’ e robótica ganha foco no reinício",
-        "excerpt": "A Hyundai Motor faz uma pausa antes de atingir o ‘7.000 Pi’, enquanto expectativas ligadas à robótica surgem como possível fator de retomada, informou hankyung.com.",
-        "body": "A Hyundai Motor entrou em uma fase de pausa antes do chamado ‘7.000 Pi’. Segundo o hankyung.com, a ação mostra ajuste de ritmo no movimento recente, enquanto expectativas relacionadas à robótica voltam a receber atenção do mercado. A reportagem resume o momento atual com as ideias de ‘pausa’ e ‘reinício’. O contexto envolve o desempenho das ações automotivas e o interesse do mercado na narrativa de robótica. As informações confirmadas pela fonte se limitam a Hyundai Motor, ‘7.000 Pi’, robótica e reinício. O impacto futuro pode depender de essas expectativas se transformarem em melhora do sentimento dos investidores. Fonte: hankyung.com."
-      },
-      "de": {
-        "title": "Hyundai Motor pausiert vor ‘7.000 Pi’, Robotik-Hoffnung rückt in den Fokus",
-        "excerpt": "Hyundai Motor legt vor dem Erreichen von ‘7.000 Pi’ eine Atempause ein, während Robotik-Erwartungen als möglicher Neustartfaktor gelten, berichtete hankyung.com.",
-        "body": "Hyundai Motor befindet sich vor dem sogenannten ‘7.000 Pi’ in einer Phase des Durchatmens. Laut hankyung.com zeigt die Aktie zuletzt eine Tempodrosselung, während Erwartungen rund um Robotik erneut Marktaufmerksamkeit erhalten. Der Artikel beschreibt die aktuelle Lage mit den Begriffen ‘Atempause’ und ‘Neustart’. Der Hintergrund umfasst die Entwicklung von Autowerten und das Interesse des Marktes an der Robotik-Story. Die von der Quelle bestätigten Kerninformationen beschränken sich auf Hyundai Motor, ‘7.000 Pi’, Robotik und Neustart. Der weitere Einfluss dürfte davon abhängen, ob Robotik-Erwartungen in eine Erholung der Anlegerstimmung münden. Quelle: hankyung.com."
-      },
-      "fr": {
-        "title": "Hyundai Motor marque une pause avant le ‘7.000 Pi’, la robotique relance l’attention",
-        "excerpt": "Hyundai Motor marque une pause avant d’atteindre le ‘7.000 Pi’, tandis que les attentes liées à la robotique émergent comme facteur de redémarrage, selon hankyung.com.",
-        "body": "Hyundai Motor est entrée dans une phase de pause avant le jalon dit du ‘7.000 Pi’. Selon hankyung.com, le titre montre un ajustement de rythme récent, tandis que les attentes liées à la robotique attirent de nouveau l’attention du marché. L’article résume la situation actuelle avec les notions de ‘pause’ et de ‘redémarrage’. Le contexte repose sur l’évolution des valeurs automobiles et l’intérêt du marché pour le thème de la robotique. Les informations confirmées par la source se limitent à Hyundai Motor, ‘7.000 Pi’, robotique et redémarrage. L’impact futur dépendra de la capacité de ces attentes à se traduire dans le sentiment des investisseurs. Source: hankyung.com."
-      },
-      "ar": {
-        "title": "هيونداي موتور تلتقط أنفاسها قبل ‘7000 بي’ والروبوتات تعيد جذب الانتباه",
-        "excerpt": "ذكرت hankyung.com أن هيونداي موتور تتريث قبل بلوغ ‘7000 بي’، بينما تبرز توقعات الروبوتات كعامل محتمل لإعادة تشغيل الزخم.",
-        "body": "دخلت هيونداي موتور مرحلة التقاط أنفاس قبل ما يسمى ‘7000 بي’. وبحسب hankyung.com، يظهر السهم تباطؤا في وتيرته الأخيرة، في حين تعود التوقعات المرتبطة بالروبوتات إلى دائرة اهتمام السوق. يلخص عنوان التقرير المرحلة الحالية بكلمتي التريث وإعادة التشغيل. ويأتي السياق من حركة أسهم السيارات واهتمام المستثمرين بسردية الروبوتات. إلا أن المعلومات المؤكدة في المصدر تقتصر على هيونداي موتور و‘7000 بي’ والروبوتات وإعادة التشغيل. وقد يتوقف الأثر المقبل على ما إذا كانت توقعات الروبوتات ستتحول إلى تحسن في معنويات المستثمرين. المصدر: hankyung.com."
-      },
-      "hi": {
-        "title": "Hyundai Motor ‘7,000 Pi’ से पहले ठहरी, रोबोट उम्मीदों से रीस्टार्ट पर नजर",
-        "excerpt": "hankyung.com के अनुसार Hyundai Motor ‘7,000 Pi’ हासिल करने से पहले ठहराव में है, जबकि रोबोट से जुड़ी उम्मीदें शेयर में रीस्टार्ट का कारक बन रही हैं।",
-        "body": "Hyundai Motor तथाकथित ‘7,000 Pi’ लक्ष्य से पहले ठहराव के चरण में है। hankyung.com के अनुसार, शेयर की हालिया चाल में गति नियंत्रित दिख रही है, जबकि रोबोट से जुड़ी उम्मीदें फिर बाजार का ध्यान खींच रही हैं। रिपोर्ट ने मौजूदा स्थिति को ‘ठहराव’ और ‘रीस्टार्ट’ के रूप में पेश किया है। इसकी पृष्ठभूमि में ऑटो शेयरों की चाल और रोबोट कारोबार को लेकर बाजार की दिलचस्पी है। स्रोत से पुष्टि की गई मुख्य जानकारी Hyundai Motor, ‘7,000 Pi’, रोबोट और रीस्टार्ट तक सीमित है। आगे असर इस बात पर निर्भर कर सकता है कि रोबोट से जुड़ी उम्मीदें निवेशक भावना में सुधार लाती हैं या नहीं। स्रोत: hankyung.com."
-      },
-      "id": {
-        "title": "Hyundai Motor Jeda Sebelum ‘7.000 Pi’, Harapan Robotik Jadi Fokus Restart",
-        "excerpt": "Hyundai Motor mengambil jeda sebelum mencapai ‘7.000 Pi’, sementara ekspektasi terkait robotik muncul sebagai faktor restart saham, menurut hankyung.com.",
-        "body": "Hyundai Motor memasuki fase jeda sebelum tonggak yang disebut ‘7.000 Pi’. Menurut hankyung.com, saham perusahaan menunjukkan penyesuaian laju dalam pergerakan terbaru, sementara ekspektasi terkait robotik kembali menarik perhatian pasar. Artikel itu merangkum kondisi saat ini dengan kata ‘jeda’ dan ‘restart’. Latar belakangnya mencakup pergerakan saham otomotif dan minat pasar terhadap narasi robotik. Informasi inti yang terkonfirmasi dari sumber terbatas pada Hyundai Motor, ‘7.000 Pi’, robotik, dan restart. Dampak berikutnya dapat bergantung pada apakah ekspektasi robotik berubah menjadi pemulihan sentimen investor. Sumber: hankyung.com."
       }
     }
   }
