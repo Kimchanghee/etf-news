@@ -1,5 +1,230 @@
 [
   {
+    "id": "445ac08ca766",
+    "slug": "지난달-서울-아파트-경매-낙찰률-4875개월만-최고-732636",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-05-09T18:34:16.307Z",
+    "updatedAt": "2026-05-09T18:34:16.307Z",
+    "sourceName": "yna.co.kr",
+    "sourceUrl": "https://www.yna.co.kr/view/AKR20260508060900003",
+    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260508060900003",
+    "titleFingerprint": "f51dd13a732d61f1093abf3ab2b62b9b5c78125f",
+    "dedupKeys": [
+      "445ac08ca766d15d92179ba6b2cc51e6ba91427b",
+      "f51dd13a732d61f1093abf3ab2b62b9b5c78125f",
+      "8f8218c2360e43b656dd3232393599fd36d073fe"
+    ],
+    "imageUrl": "/images/articles/445ac08ca766.jpg",
+    "i18n": {
+      "ko": {
+        "title": "서울 아파트 경매 낙찰률 48.7%, 5개월 만에 최고치…부동산 경매 시장 관심",
+        "excerpt": "연합뉴스에 따르면 지난달 경매로 나온 서울 아파트 낙찰률은 48.7%로 집계돼 작년 11월 이후 5개월 만에 가장 높은 수준을 기록했다.",
+        "body": "지난달 서울에서 경매에 나온 아파트의 낙찰률이 48.7%를 기록했다. 연합뉴스가 전한 내용에 따르면 이는 작년 11월 이후 5개월 만에 가장 높은 수준이다. 서울 아파트 경매 낙찰률은 경매 물건 가운데 실제로 낙찰된 비율을 보여주는 지표로, 이번 수치는 최근 몇 달과 비교해 낙찰 비중이 높아졌음을 의미한다. 다만 원문은 구체적인 경매 건수나 낙찰가율 등 추가 지표는 제시하지 않았다. 서울 아파트 경매 시장의 흐름을 살피는 투자자와 실수요자는 낙찰률 변화에 주목할 것으로 보인다. 출처: yna.co.kr"
+      },
+      "en": {
+        "title": "Seoul Apartment Auction Success Rate Hits 48.7%, Highest in Five Months",
+        "excerpt": "According to Yonhap News Agency, the auction success rate for Seoul apartments reached 48.7% last month, the highest level since November last year.",
+        "body": "The auction success rate for apartments put up for auction in Seoul reached 48.7% last month. According to Yonhap News Agency, this marked the highest level in five months, since November last year. The apartment auction success rate shows the share of auctioned properties that were successfully sold, and the latest figure indicates a higher proportion of successful bids compared with recent months. The source article did not provide additional figures such as the number of auction cases or bid-to-appraisal ratios. Investors and end users watching Seoul’s apartment auction market are likely to focus on changes in this rate. Source: yna.co.kr"
+      },
+      "ja": {
+        "title": "ソウルマンション競売落札率48.7%、5カ月ぶり高水準に市場が注目",
+        "excerpt": "聯合ニュースによると、先月競売に出されたソウルのマンション落札率は48.7%となり、昨年11月以来5カ月ぶりの高水準を記録した。",
+        "body": "先月、ソウルで競売に出されたマンションの落札率は48.7%を記録した。聯合ニュースによると、これは昨年11月以来、5カ月ぶりの高水準となる。マンション競売の落札率は、競売物件のうち実際に落札された割合を示す指標で、今回の数値は最近数カ月と比べて落札の比率が高まったことを意味する。ただし、原文では競売件数や落札価率などの追加指標は示されていない。ソウルのマンション競売市場の流れを見る投資家や実需層は、この落札率の変化に注目するとみられる。出典: yna.co.kr"
+      },
+      "zh": {
+        "title": "首尔公寓拍卖成交率达48.7%，创五个月来最高水平",
+        "excerpt": "据韩联社报道，上月首尔拍卖公寓成交率为48.7%，达到自去年11月以来的最高水平，显示成交占比有所上升。",
+        "body": "上月，首尔被拍卖的公寓成交率达到48.7%。据韩联社报道，这是自去年11月以来五个月中的最高水平。公寓拍卖成交率是指拍卖房源中实际成交的比例，本次数据意味着与近几个月相比，成功成交的占比有所提高。不过，原文未提供拍卖件数、成交价率等其他具体指标。关注首尔公寓拍卖市场走势的投资者和实际购房需求者，预计将继续留意这一成交率变化。来源: yna.co.kr"
+      },
+      "es": {
+        "title": "Subastas de apartamentos en Seúl alcanzan 48,7% de adjudicación, máximo en cinco meses",
+        "excerpt": "Según Yonhap, la tasa de adjudicación de apartamentos subastados en Seúl fue del 48,7% el mes pasado, su nivel más alto desde noviembre del año pasado.",
+        "body": "La tasa de adjudicación de los apartamentos puestos en subasta en Seúl llegó al 48,7% el mes pasado. Según Yonhap News Agency, se trata del nivel más alto en cinco meses, desde noviembre del año pasado. Este indicador muestra qué proporción de los inmuebles subastados terminó con una adjudicación efectiva, por lo que la cifra apunta a una mayor participación de operaciones cerradas frente a los meses recientes. El texto original no incluyó datos adicionales, como el número de casos subastados o la relación entre precio de adjudicación y tasación. Inversores y compradores finales que siguen el mercado de subastas de apartamentos en Seúl observarán este cambio. Fuente: yna.co.kr"
+      },
+      "pt": {
+        "title": "Leilões de apartamentos em Seul têm taxa de arremate de 48,7%, maior em cinco meses",
+        "excerpt": "Segundo a Yonhap, a taxa de arremate de apartamentos levados a leilão em Seul foi de 48,7% no mês passado, o maior nível desde novembro do ano passado.",
+        "body": "A taxa de arremate dos apartamentos colocados em leilão em Seul chegou a 48,7% no mês passado. Segundo a Yonhap News Agency, esse foi o maior nível em cinco meses, desde novembro do ano passado. A taxa mostra a parcela dos imóveis em leilão que foi efetivamente arrematada, e o dado mais recente indica uma proporção maior de vendas concluídas em comparação com os meses recentes. O texto original não apresentou números adicionais, como a quantidade de casos em leilão ou a relação entre preço de arremate e avaliação. Investidores e compradores finais que acompanham o mercado de leilões de apartamentos em Seul devem observar essa mudança. Fonte: yna.co.kr"
+      },
+      "de": {
+        "title": "Seouls Wohnungsauktionen erreichen Zuschlagsquote von 48,7%, höchster Wert seit fünf Monaten",
+        "excerpt": "Laut Yonhap lag die Zuschlagsquote für in Seoul versteigerte Wohnungen im vergangenen Monat bei 48,7% und damit so hoch wie seit November nicht mehr.",
+        "body": "Die Zuschlagsquote für Wohnungen, die in Seoul zur Auktion standen, erreichte im vergangenen Monat 48,7%. Nach Angaben der Nachrichtenagentur Yonhap war dies der höchste Stand seit fünf Monaten, also seit November des Vorjahres. Die Quote zeigt, welcher Anteil der Auktionsobjekte tatsächlich zugeschlagen wurde. Der aktuelle Wert bedeutet daher, dass der Anteil erfolgreicher Gebote im Vergleich zu den jüngsten Monaten gestiegen ist. Der ursprüngliche Bericht nannte keine weiteren Kennzahlen wie die Zahl der Auktionsfälle oder das Verhältnis von Zuschlagspreis zu Bewertung. Anleger und Eigennutzer, die den Auktionsmarkt für Wohnungen in Seoul verfolgen, dürften diese Entwicklung beachten. Quelle: yna.co.kr"
+      },
+      "fr": {
+        "title": "Enchères d’appartements à Séoul: taux d’adjudication de 48,7%, plus haut en cinq mois",
+        "excerpt": "Selon Yonhap, le taux d’adjudication des appartements mis aux enchères à Séoul a atteint 48,7% le mois dernier, son plus haut niveau depuis novembre dernier.",
+        "body": "Le taux d’adjudication des appartements mis aux enchères à Séoul a atteint 48,7% le mois dernier. Selon l’agence Yonhap, il s’agit du niveau le plus élevé en cinq mois, depuis novembre de l’an dernier. Ce taux indique la part des biens proposés aux enchères qui ont effectivement trouvé preneur; le chiffre récent montre donc une proportion plus élevée d’adjudications par rapport aux derniers mois. L’article d’origine ne fournit pas d’autres données, comme le nombre de dossiers d’enchères ou le ratio entre le prix d’adjudication et l’évaluation. Les investisseurs et acheteurs finaux suivant le marché des enchères d’appartements à Séoul devraient surveiller cette évolution. Source: yna.co.kr"
+      },
+      "ar": {
+        "title": "مزادات شقق سيول تسجل معدل ترسية 48.7%، الأعلى خلال خمسة أشهر",
+        "excerpt": "بحسب وكالة يونهاب، بلغ معدل ترسية الشقق المعروضة في المزادات في سيول 48.7% الشهر الماضي، وهو أعلى مستوى منذ نوفمبر من العام الماضي.",
+        "body": "سجلت الشقق المعروضة في المزادات في سيول معدل ترسية بلغ 48.7% الشهر الماضي. ووفق ما نقلته وكالة يونهاب، فإن هذا هو أعلى مستوى منذ خمسة أشهر، أي منذ نوفمبر من العام الماضي. ويعكس معدل الترسية نسبة العقارات المعروضة في المزاد التي تم بيعها فعليا، ولذلك تشير القراءة الأخيرة إلى ارتفاع حصة المزادات التي انتهت بترسية مقارنة بالأشهر القليلة السابقة. ولم يذكر النص الأصلي مؤشرات إضافية مثل عدد حالات المزاد أو نسبة سعر الترسية إلى التقييم. ومن المتوقع أن يراقب المستثمرون والمشترون الفعليون المهتمون بسوق مزادات الشقق في سيول هذا التغير. المصدر: yna.co.kr"
+      },
+      "hi": {
+        "title": "सियोल अपार्टमेंट नीलामी सफलता दर 48.7%, पांच महीनों में सबसे ऊंचा स्तर",
+        "excerpt": "योनहाप के अनुसार, पिछले महीने सियोल में नीलामी पर रखे गए अपार्टमेंट की सफलता दर 48.7% रही, जो पिछले साल नवंबर के बाद सबसे ऊंचा स्तर है।",
+        "body": "पिछले महीने सियोल में नीलामी के लिए रखे गए अपार्टमेंट की सफलता दर 48.7% दर्ज की गई। योनहाप न्यूज एजेंसी के अनुसार, यह पिछले साल नवंबर के बाद पांच महीनों में सबसे ऊंचा स्तर है। अपार्टमेंट नीलामी सफलता दर यह दिखाती है कि नीलामी में रखी गई संपत्तियों में से कितनी वास्तव में बिक गईं। इसलिए ताजा आंकड़ा हाल के महीनों की तुलना में सफल बोलियों की अधिक हिस्सेदारी को दर्शाता है। मूल खबर में नीलामी मामलों की संख्या या मूल्यांकन के मुकाबले अंतिम बोली मूल्य जैसे अतिरिक्त आंकड़े नहीं दिए गए। सियोल के अपार्टमेंट नीलामी बाजार पर नजर रखने वाले निवेशक और वास्तविक खरीदार इस बदलाव पर ध्यान देंगे। स्रोत: yna.co.kr"
+      },
+      "id": {
+        "title": "Lelang Apartemen Seoul Capai Tingkat Terjual 48,7%, Tertinggi dalam Lima Bulan",
+        "excerpt": "Menurut Yonhap, tingkat keberhasilan lelang apartemen di Seoul mencapai 48,7% bulan lalu, level tertinggi sejak November tahun lalu.",
+        "body": "Tingkat keberhasilan lelang apartemen yang diajukan di Seoul mencapai 48,7% bulan lalu. Menurut Yonhap News Agency, angka ini merupakan level tertinggi dalam lima bulan, sejak November tahun lalu. Tingkat keberhasilan lelang menunjukkan porsi properti lelang yang benar-benar terjual, sehingga data terbaru ini berarti proporsi lelang yang berhasil meningkat dibandingkan beberapa bulan terakhir. Artikel asli tidak menyajikan angka tambahan seperti jumlah kasus lelang atau rasio harga lelang terhadap nilai taksiran. Investor dan pembeli pengguna akhir yang memantau pasar lelang apartemen Seoul kemungkinan akan memperhatikan perubahan tingkat ini. Sumber: yna.co.kr"
+      }
+    }
+  },
+  {
+    "id": "4ccea825ed34",
+    "slug": "농식품부-중동-사태-대응팀-가동봄철-농자재-수급-안정-487989",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-05-09T18:33:10.616Z",
+    "updatedAt": "2026-05-09T18:33:10.616Z",
+    "sourceName": "yna.co.kr",
+    "sourceUrl": "https://www.yna.co.kr/view/AKR20260508069700030",
+    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260508069700030",
+    "titleFingerprint": "5659a5e5bf0b46af4185a634a39c793b471def8c",
+    "dedupKeys": [
+      "4ccea825ed3496bc15df47a5f5776d3805d5e484",
+      "5659a5e5bf0b46af4185a634a39c793b471def8c",
+      "3ade34dacb06487acda2efeeda614083003538ac"
+    ],
+    "imageUrl": "/images/articles/4ccea825ed34.jpg",
+    "i18n": {
+      "ko": {
+        "title": "농식품부 중동 사태 대응팀 가동, 중동 전쟁 장기화 속 봄철 농자재 수급 안정 확인",
+        "excerpt": "농림축산식품부는 중동 전쟁 장기화에도 주요 농자재 수급이 안정적으로 이뤄지고 있다며 ‘중동 사태 대응팀’을 가동해 봄철 영농 차질을 막고 있다고 밝혔다.",
+        "body": "농림축산식품부는 중동 전쟁 장기화 상황에 대응하기 위해 ‘중동 사태 대응팀’을 가동하고, 봄철 영농에 필요한 주요 농자재 수급 상황을 점검하고 있다고 밝혔다. 농식품부에 따르면 중동 사태가 길어지는 가운데서도 주요 농자재 공급은 안정적으로 이뤄지고 있으며, 이에 따라 봄철 영농 활동은 차질 없이 진행되고 있다. 정부는 관련 상황을 계속 살피며 농자재 수급 불안 가능성에 대응한다는 방침이다. 이번 조치는 국제 정세 변화가 국내 농업 현장에 미칠 영향을 줄이고, 영농기 농가의 생산 활동을 안정적으로 지원하기 위한 것이다. 출처: yna.co.kr"
+      },
+      "en": {
+        "title": "Agriculture Ministry launches Middle East response team as spring farm supply stays stable",
+        "excerpt": "South Korea’s Agriculture Ministry said key farm material supplies remain stable despite the prolonged Middle East war, with a response team operating to prevent disruption to spring farming.",
+        "body": "South Korea’s Ministry of Agriculture, Food and Rural Affairs said it has launched a “Middle East situation response team” to address the prolonged war in the region and monitor supplies of key farming materials needed for spring agricultural work. According to the ministry, major farm materials are being supplied steadily despite the extended Middle East crisis, allowing spring farming activities to proceed without disruption. The government plans to keep monitoring related conditions and respond to any potential instability in farm material supplies. The move is aimed at reducing the impact of shifting international conditions on domestic farms and supporting stable production during the spring farming season. Source: yna.co.kr"
+      },
+      "ja": {
+        "title": "農食品部、中東情勢対応チーム稼働　戦争長期化でも春の農資材需給は安定",
+        "excerpt": "韓国農林畜産食品部は、中東での戦争長期化にもかかわらず主要農資材の需給は安定しており、対応チームを稼働して春の営農への支障を防いでいると明らかにした。",
+        "body": "韓国農林畜産食品部は、中東での戦争長期化に対応するため「中東情勢対応チーム」を稼働し、春の営農に必要な主要農資材の需給状況を点検していると明らかにした。同部によると、中東情勢が長引く中でも主要農資材の供給は安定的に行われており、春の営農活動は支障なく進んでいる。政府は関連状況を引き続き確認し、農資材需給の不安定化の可能性に対応する方針だ。今回の措置は、国際情勢の変化が国内農業現場に及ぼす影響を抑え、営農期の農家の生産活動を安定的に支援するためのものだ。出典: yna.co.kr"
+      },
+      "zh": {
+        "title": "韩国农食品部启动中东局势应对组，春季农资供应保持稳定",
+        "excerpt": "韩国农林畜产食品部表示，尽管中东战争长期化，主要农资供需仍保持稳定，并已启动应对组以避免春季农业生产受阻。",
+        "body": "韩国农林畜产食品部表示，为应对中东战争长期化，已启动“中东局势应对组”，并检查春季农业生产所需主要农资的供需情况。据该部门介绍，尽管中东局势持续，主要农资供应仍稳定进行，因此春季农业生产活动没有出现障碍。政府计划继续关注相关情况，并应对农资供需可能出现的不稳定。此次措施旨在降低国际局势变化对韩国国内农业现场的影响，并在春耕季节稳定支持农户生产活动。来源: yna.co.kr"
+      },
+      "es": {
+        "title": "Agricultura de Corea activa equipo por Medio Oriente mientras insumos de primavera siguen estables",
+        "excerpt": "El Ministerio de Agricultura de Corea del Sur dijo que los principales insumos agrícolas siguen abasteciéndose con estabilidad pese a la prolongación de la guerra en Medio Oriente.",
+        "body": "El Ministerio de Agricultura, Alimentación y Asuntos Rurales de Corea del Sur informó que puso en marcha un “equipo de respuesta a la situación de Medio Oriente” para afrontar la prolongación de la guerra en la región y revisar el suministro de los principales insumos necesarios para las labores agrícolas de primavera. Según el ministerio, pese a que la situación en Medio Oriente se prolonga, el abastecimiento de los principales materiales agrícolas se mantiene estable, por lo que las actividades de cultivo de primavera avanzan sin contratiempos. El Gobierno continuará observando las condiciones relacionadas y responderá ante posibles riesgos de inestabilidad en el suministro. Fuente: yna.co.kr"
+      },
+      "pt": {
+        "title": "Coreia aciona equipe para crise no Oriente Médio e mantém insumos agrícolas estáveis",
+        "excerpt": "O Ministério da Agricultura da Coreia do Sul afirmou que os principais insumos agrícolas seguem com fornecimento estável apesar da guerra prolongada no Oriente Médio.",
+        "body": "O Ministério da Agricultura, Alimentação e Assuntos Rurais da Coreia do Sul informou que acionou uma “equipe de resposta à situação no Oriente Médio” para lidar com a prolongação da guerra na região e acompanhar o abastecimento dos principais insumos necessários ao trabalho agrícola da primavera. Segundo o ministério, mesmo com a situação no Oriente Médio se estendendo, o fornecimento dos principais materiais agrícolas ocorre de forma estável, permitindo que as atividades de cultivo da primavera avancem sem interrupções. O governo continuará monitorando as condições relacionadas e responderá a possíveis riscos de instabilidade no abastecimento. Fonte: yna.co.kr"
+      },
+      "de": {
+        "title": "Südkoreas Agrarministerium startet Nahost-Team, Frühjahrsversorgung bleibt stabil",
+        "excerpt": "Südkoreas Agrarministerium teilte mit, dass wichtige Betriebsmittel trotz des anhaltenden Kriegs im Nahen Osten stabil geliefert werden und ein Reaktionsteam den Frühjahrsanbau absichert.",
+        "body": "Das südkoreanische Ministerium für Landwirtschaft, Ernährung und ländliche Angelegenheiten teilte mit, es habe ein „Reaktionsteam für die Lage im Nahen Osten“ eingerichtet, um auf den anhaltenden Krieg in der Region zu reagieren und die Versorgung mit wichtigen Betriebsmitteln für die Frühjahrsarbeiten zu prüfen. Nach Angaben des Ministeriums werden zentrale Agrarmaterialien trotz der verlängerten Nahostlage stabil geliefert, sodass die landwirtschaftlichen Tätigkeiten im Frühjahr ohne Störungen vorankommen. Die Regierung will die Entwicklung weiter beobachten und auf mögliche Risiken für die Versorgung reagieren. Die Maßnahme soll Auswirkungen internationaler Veränderungen auf die heimische Landwirtschaft verringern. Quelle: yna.co.kr"
+      },
+      "fr": {
+        "title": "Séoul active une équipe Moyen-Orient, les intrants agricoles de printemps restent stables",
+        "excerpt": "Le ministère sud-coréen de l’Agriculture a indiqué que l’approvisionnement en principaux intrants agricoles reste stable malgré la guerre prolongée au Moyen-Orient.",
+        "body": "Le ministère sud-coréen de l’Agriculture, de l’Alimentation et des Affaires rurales a annoncé avoir activé une « équipe de réponse à la situation au Moyen-Orient » afin de faire face à la prolongation de la guerre dans la région et de vérifier l’approvisionnement en principaux intrants nécessaires aux travaux agricoles de printemps. Selon le ministère, malgré la durée de la crise au Moyen-Orient, les principaux matériaux agricoles sont fournis de manière stable, ce qui permet aux activités de printemps de se poursuivre sans perturbation. Le gouvernement continuera de surveiller la situation et de répondre à tout risque d’instabilité de l’approvisionnement. Source: yna.co.kr"
+      },
+      "ar": {
+        "title": "وزارة الزراعة الكورية تفعل فريقا لأزمة الشرق الأوسط وإمدادات الربيع مستقرة",
+        "excerpt": "قالت وزارة الزراعة الكورية الجنوبية إن إمدادات المواد الزراعية الرئيسية مستقرة رغم طول أمد الحرب في الشرق الأوسط، مع تشغيل فريق استجابة لمنع تعطل أعمال الربيع.",
+        "body": "أعلنت وزارة الزراعة والأغذية والشؤون الريفية في كوريا الجنوبية أنها فعّلت “فريق الاستجابة لوضع الشرق الأوسط” للتعامل مع طول أمد الحرب في المنطقة ومراجعة إمدادات المواد الزراعية الرئيسية اللازمة للأعمال الزراعية في الربيع. وبحسب الوزارة، فإن إمدادات المواد الزراعية الأساسية تتم بصورة مستقرة رغم استمرار أزمة الشرق الأوسط، ولذلك تمضي أنشطة الزراعة الربيعية من دون تعطل. وتعتزم الحكومة مواصلة متابعة الظروف ذات الصلة والاستجابة لاحتمالات عدم الاستقرار في إمدادات المواد الزراعية. وتهدف الخطوة إلى الحد من أثر تغيرات الوضع الدولي على المزارع المحلية ودعم الإنتاج خلال موسم الزراعة. المصدر: yna.co.kr"
+      },
+      "hi": {
+        "title": "दक्षिण कोरिया ने मध्य पूर्व प्रतिक्रिया टीम चलाई, वसंत कृषि सामग्री आपूर्ति स्थिर",
+        "excerpt": "दक्षिण कोरिया के कृषि मंत्रालय ने कहा कि मध्य पूर्व युद्ध लंबा खिंचने के बावजूद प्रमुख कृषि सामग्रियों की आपूर्ति स्थिर है और वसंत खेती में बाधा रोकने के लिए टीम काम कर रही है।",
+        "body": "दक्षिण कोरिया के कृषि, खाद्य और ग्रामीण मामलों के मंत्रालय ने बताया कि मध्य पूर्व में युद्ध लंबा खिंचने की स्थिति से निपटने के लिए “मध्य पूर्व स्थिति प्रतिक्रिया टीम” चलाई गई है और वसंत खेती के लिए जरूरी प्रमुख कृषि सामग्रियों की आपूर्ति की जांच की जा रही है। मंत्रालय के अनुसार, मध्य पूर्व की स्थिति जारी रहने के बावजूद मुख्य कृषि सामग्रियों की आपूर्ति स्थिर रूप से हो रही है, इसलिए वसंत ऋतु की कृषि गतिविधियां बिना बाधा आगे बढ़ रही हैं। सरकार संबंधित हालात पर नजर रखेगी और कृषि सामग्री आपूर्ति में संभावित अस्थिरता का जवाब देगी। यह कदम अंतरराष्ट्रीय स्थिति में बदलाव का घरेलू खेतों पर असर घटाने के लिए है। स्रोत: yna.co.kr"
+      },
+      "id": {
+        "title": "Kementan Korea aktifkan tim Timur Tengah, pasokan sarana tani musim semi stabil",
+        "excerpt": "Kementerian Pertanian Korea Selatan menyatakan pasokan sarana pertanian utama tetap stabil meski perang Timur Tengah berkepanjangan, dengan tim respons beroperasi untuk mencegah gangguan musim semi.",
+        "body": "Kementerian Pertanian, Pangan, dan Urusan Pedesaan Korea Selatan menyatakan telah mengaktifkan “tim respons situasi Timur Tengah” untuk menghadapi perang yang berkepanjangan di kawasan itu serta memeriksa pasokan sarana pertanian utama yang dibutuhkan untuk kegiatan musim semi. Menurut kementerian, meski situasi Timur Tengah berlarut, pasokan bahan pertanian utama tetap berjalan stabil, sehingga aktivitas pertanian musim semi berlangsung tanpa hambatan. Pemerintah akan terus memantau kondisi terkait dan menanggapi kemungkinan ketidakstabilan pasokan sarana pertanian. Langkah ini ditujukan untuk mengurangi dampak perubahan situasi internasional terhadap sektor pertanian domestik. Sumber: yna.co.kr"
+      }
+    }
+  },
+  {
+    "id": "ce3433b98bb4",
+    "slug": "오산시-미취업-청년-어학자격시험-응시료-지원-신청-접수-552951",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-05-09T18:32:09.928Z",
+    "updatedAt": "2026-05-09T18:32:09.929Z",
+    "sourceName": "yna.co.kr",
+    "sourceUrl": "https://www.yna.co.kr/view/AKR20260508074100061",
+    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260508074100061",
+    "titleFingerprint": "7be1f6c5ef907185d5c173ff8aba27dbecce38ce",
+    "dedupKeys": [
+      "ce3433b98bb47fdb687b4824c54f70d414e93799",
+      "7be1f6c5ef907185d5c173ff8aba27dbecce38ce",
+      "3b19898f3e9700bfc2f274d2a8c1aec0c2a3d3b0"
+    ],
+    "imageUrl": "/images/articles/ce3433b98bb4.jpg",
+    "i18n": {
+      "ko": {
+        "title": "오산시 미취업 청년 어학·자격시험 응시료 지원 11일부터 접수",
+        "excerpt": "경기 오산시는 오는 11일부터 미취업 청년의 취업 준비 부담을 덜기 위해 어학·자격시험 응시료 지원 신청을 받는다.",
+        "body": "경기 오산시는 오는 11일부터 미취업 청년을 대상으로 어학시험과 자격시험 응시료 지원 신청을 접수한다. 이번 접수는 청년들의 취업 준비 과정에서 발생하는 시험 비용 부담을 낮추기 위한 ‘경기청년 역량강화 기회지원 사업’의 일환이다. 오산시는 미취업 청년이 구직 역량을 높이는 데 필요한 어학·자격시험 응시료를 지원해 취업 준비의 경제적 부담을 완화하는 데 초점을 맞췄다. 관련 신청은 11일부터 진행되며, 자세한 내용은 오산시가 안내하는 절차에 따라 확인할 수 있다. 출처: yna.co.kr"
+      },
+      "en": {
+        "title": "Osan to Open Exam Fee Support Applications for Unemployed Youth on 11th",
+        "excerpt": "Osan City in Gyeonggi Province will begin accepting applications from the 11th to support language and certification exam fees for unemployed young job seekers.",
+        "body": "Osan City in Gyeonggi Province will begin accepting applications from the 11th for support covering language and certification exam fees for unemployed youth. The measure is part of the “Gyeonggi Youth Competency Enhancement Opportunity Support Project,” designed to ease the burden of job preparation costs. By helping with exam fees needed for language tests and professional qualifications, Osan City aims to reduce financial pressure on young people preparing for employment. Applications will open from the 11th, with details to be checked through the city’s guidance. Source: yna.co.kr"
+      },
+      "ja": {
+        "title": "烏山市、未就業青年の語学・資格試験受験料支援を11日から受付",
+        "excerpt": "京畿道烏山市は11日から、未就業青年の就職準備負担を軽減するため、語学・資格試験受験料支援の申請を受け付ける。",
+        "body": "京畿道烏山市は11日から、未就業青年を対象に語学試験と資格試験の受験料支援申請を受け付ける。今回の受付は、青年の就職準備過程で発生する試験費用の負担を減らすための「京畿青年力量強化機会支援事業」の一環だ。烏山市は、未就業青年が求職能力を高めるために必要な語学・資格試験の受験料を支援し、就職準備に伴う経済的負担の緩和に重点を置く。申請は11日から始まり、詳細は市の案内手続きに従って確認できる。出典: yna.co.kr"
+      },
+      "zh": {
+        "title": "乌山市11日起受理未就业青年语言及资格考试费补助申请",
+        "excerpt": "京畿道乌山市将从11日起受理未就业青年语言和资格考试应试费补助申请，以减轻其就业准备负担。",
+        "body": "京畿道乌山市将从11日起，面向未就业青年受理语言考试和资格考试应试费补助申请。此次受理是“京畿青年能力强化机会支援项目”的一部分，旨在降低青年在就业准备过程中产生的考试费用负担。乌山市将通过补助未就业青年提升求职能力所需的语言及资格考试费用，重点缓解其就业准备中的经济压力。相关申请将于11日起进行，具体内容可按照乌山市发布的办理 안내 확인。来源: yna.co.kr"
+      },
+      "es": {
+        "title": "Osan abre el día 11 ayudas para tasas de exámenes a jóvenes desempleados",
+        "excerpt": "La ciudad de Osan, en Gyeonggi, recibirá desde el día 11 solicitudes de jóvenes desempleados para cubrir tasas de exámenes de idiomas y certificaciones.",
+        "body": "La ciudad de Osan, en la provincia de Gyeonggi, comenzará el día 11 a recibir solicitudes de jóvenes desempleados para apoyar el pago de tasas de exámenes de idiomas y de certificación. La medida forma parte del “Proyecto de apoyo a oportunidades para fortalecer capacidades de la juventud de Gyeonggi”, orientado a aliviar los costos de preparación laboral. Con esta ayuda, Osan busca reducir la carga económica de quienes necesitan pruebas de idiomas o cualificaciones para mejorar su capacidad de búsqueda de empleo. Las solicitudes se abrirán el día 11 y los detalles deberán consultarse según la guía municipal. Fuente: yna.co.kr"
+      },
+      "pt": {
+        "title": "Osan recebe no dia 11 pedidos de apoio a taxas de exames para jovens sem emprego",
+        "excerpt": "A cidade de Osan, em Gyeonggi, começará no dia 11 a receber pedidos de apoio para taxas de exames de idiomas e certificações de jovens desempregados.",
+        "body": "A cidade de Osan, na província de Gyeonggi, começará no dia 11 a receber pedidos de apoio para taxas de exames de idiomas e de certificação destinados a jovens desempregados. A iniciativa integra o “Projeto de Apoio a Oportunidades para Fortalecimento de Competências dos Jovens de Gyeonggi”, criado para aliviar custos ligados à preparação para o emprego. Ao apoiar taxas de exames necessários para idiomas e qualificações, Osan busca reduzir a pressão financeira sobre jovens que se preparam para ingressar no mercado de trabalho. As inscrições começam no dia 11, conforme orientação da cidade. Fonte: yna.co.kr"
+      },
+      "de": {
+        "title": "Osan nimmt ab dem 11. Anträge auf Prüfungsgebührenhilfe für arbeitslose Jugendliche an",
+        "excerpt": "Die Stadt Osan in Gyeonggi nimmt ab dem 11. Anträge arbeitsloser junger Menschen auf Unterstützung für Sprach- und Qualifikationsprüfungen entgegen.",
+        "body": "Die Stadt Osan in der Provinz Gyeonggi nimmt ab dem 11. Anträge von arbeitslosen jungen Menschen auf Unterstützung bei Gebühren für Sprach- und Qualifikationsprüfungen entgegen. Die Maßnahme ist Teil des „Gyeonggi Youth Competency Enhancement Opportunity Support Project“ und soll die Kostenbelastung während der Vorbereitung auf eine Beschäftigung senken. Osan konzentriert sich darauf, jungen Arbeitssuchenden die finanziellen Lasten von Prüfungen zu erleichtern, die für Sprachkenntnisse und berufliche Qualifikationen benötigt werden. Die Antragstellung beginnt am 11.; Einzelheiten sind über die städtischen Hinweise zu prüfen. Quelle: yna.co.kr"
+      },
+      "fr": {
+        "title": "Osan ouvrira le 11 les demandes d’aide aux frais d’examen pour jeunes sans emploi",
+        "excerpt": "La ville d’Osan, dans le Gyeonggi, acceptera dès le 11 les demandes d’aide aux frais d’examens de langues et de certifications pour jeunes sans emploi.",
+        "body": "La ville d’Osan, dans la province du Gyeonggi, commencera le 11 à recevoir les demandes de jeunes sans emploi pour une aide aux frais d’examens de langues et de certifications. Cette mesure s’inscrit dans le « Projet de soutien aux opportunités de renforcement des compétences des jeunes du Gyeonggi », destiné à alléger les coûts liés à la préparation à l’emploi. En soutenant les frais d’examens nécessaires aux compétences linguistiques et aux qualifications, Osan vise à réduire la pression financière pesant sur les jeunes en recherche d’emploi. Les demandes débuteront le 11, selon les informations fournies par la ville. Source: yna.co.kr"
+      },
+      "ar": {
+        "title": "أوسان تبدأ في 11 استقبال طلبات دعم رسوم اختبارات الشباب غير العاملين",
+        "excerpt": "تبدأ مدينة أوسان في مقاطعة غيونغي اعتبارا من 11 استقبال طلبات دعم رسوم اختبارات اللغة والشهادات للشباب غير العاملين لتخفيف عبء الاستعداد للتوظيف.",
+        "body": "تبدأ مدينة أوسان في مقاطعة غيونغي اعتبارا من 11 استقبال طلبات الشباب غير العاملين للحصول على دعم رسوم اختبارات اللغة واختبارات الشهادات. وتأتي هذه الخطوة ضمن “مشروع دعم فرص تعزيز قدرات شباب غيونغي”، الهادف إلى تخفيف تكاليف الاستعداد للتوظيف. وتركز أوسان على تقليل العبء المالي عن الشباب غير العاملين عبر دعم رسوم الاختبارات اللازمة لتحسين قدراتهم في البحث عن عمل، سواء في اللغات أو المؤهلات المهنية. تبدأ الطلبات في 11، ويمكن 확인 التفاصيل عبر إرشادات المدينة. المصدر: yna.co.kr"
+      },
+      "hi": {
+        "title": "ओसान में बेरोजगार युवाओं की भाषा व प्रमाणन परीक्षा फीस सहायता के आवेदन 11 से",
+        "excerpt": "ग्योंगगी प्रांत का ओसान शहर 11 तारीख से बेरोजगार युवाओं के लिए भाषा और प्रमाणन परीक्षा शुल्क सहायता के आवेदन स्वीकार करेगा।",
+        "body": "ग्योंगगी प्रांत का ओसान शहर 11 तारीख से बेरोजगार युवाओं के लिए भाषा परीक्षा और प्रमाणन परीक्षा शुल्क सहायता के आवेदन स्वीकार करेगा। यह कदम “ग्योंगगी युवा क्षमता सुदृढ़ीकरण अवसर सहायता परियोजना” का हिस्सा है, जिसका उद्देश्य रोजगार तैयारी के दौरान होने वाले परीक्षा खर्च का बोझ कम करना है। ओसान शहर उन बेरोजगार युवाओं पर ध्यान दे रहा है जिन्हें नौकरी खोजने की क्षमता बढ़ाने के लिए भाषा या योग्यता परीक्षाओं की जरूरत होती है। इस सहायता से रोजगार तैयारी की आर्थिक 부담 कम करने का लक्ष्य है। आवेदन 11 तारीख से शुरू होंगे और विवरण शहर के निर्देशों से 확인 किए जा सकते हैं। स्रोत: yna.co.kr"
+      },
+      "id": {
+        "title": "Osan Buka Pendaftaran Bantuan Biaya Ujian Bahasa dan Sertifikasi untuk Pemuda Menganggur Mulai 11",
+        "excerpt": "Kota Osan di Gyeonggi akan menerima pendaftaran mulai tanggal 11 untuk bantuan biaya ujian bahasa dan sertifikasi bagi pemuda yang belum bekerja.",
+        "body": "Kota Osan di Provinsi Gyeonggi akan mulai menerima pendaftaran pada tanggal 11 untuk bantuan biaya ujian bahasa dan ujian sertifikasi bagi pemuda yang belum bekerja. Program ini merupakan bagian dari “Proyek Dukungan Peluang Penguatan Kompetensi Pemuda Gyeonggi” yang bertujuan mengurangi beban biaya dalam persiapan kerja. Dengan membantu biaya ujian yang dibutuhkan untuk kemampuan bahasa dan kualifikasi, Osan berfokus meringankan tekanan finansial pemuda pencari kerja. Pendaftaran dibuka mulai tanggal 11, dengan rincian mengikuti panduan dari pemerintah kota. Sumber: yna.co.kr"
+      }
+    }
+  },
+  {
     "id": "8a22cd68c9df",
     "slug": "3월-韓-여행수입-역대-최대bts-효과에-환율계절-요인-겹쳐-231892",
     "channelId": "ETF",
@@ -4271,231 +4496,6 @@
         "title": "Korea Bantu Pelunasan Pinjaman Pendidikan Pemuda Korban Penipuan Jeonse",
         "excerpt": "Korea Student Aid Foundation pada tanggal 8 menandatangani kesepakatan dengan Life Insurance Social Contribution Committee untuk membantu korban penipuan jeonse melunasi pinjaman pendidikan.",
         "body": "Korea Student Aid Foundation pada tanggal 8 menandatangani perjanjian kerja sama dengan Life Insurance Social Contribution Committee untuk mendukung pembayaran pokok dan bunga pinjaman pendidikan bagi pemuda korban penipuan jeonse. Langkah ini ditujukan kepada pekerja pemula yang menanggung kerugian tempat tinggal sekaligus beban pinjaman pendidikan. Dukungan difokuskan pada pengurangan tekanan pembayaran pinjaman bagi korban penipuan jeonse dari kalangan pemula sosial. Melalui perjanjian tersebut, yayasan dan komite akan bekerja sama untuk meringankan beban ekonomi pemuda terdampak dan membantu stabilitas kehidupan mereka. Sumber: yna.co.kr"
-      }
-    }
-  },
-  {
-    "id": "772d87b37e7d",
-    "slug": "동원산업-1분기-영업익-1천462억원작년-동기-대비-171-증가-356790",
-    "channelId": "ETF",
-    "category": "etf",
-    "publishedAt": "2026-05-09T09:02:37.855Z",
-    "updatedAt": "2026-05-09T09:02:37.855Z",
-    "sourceName": "yna.co.kr",
-    "sourceUrl": "https://www.yna.co.kr/view/AKR20260508147000030",
-    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260508147000030",
-    "titleFingerprint": "afb05019bab25f21b2f3a159ee101b58f96ff04c",
-    "dedupKeys": [
-      "772d87b37e7de54f72f1baba57c0abef93382901",
-      "afb05019bab25f21b2f3a159ee101b58f96ff04c",
-      "0c8560b2b7803149d1c4f89f330f900fb5e57419"
-    ],
-    "imageUrl": "/images/articles/772d87b37e7d.jpg",
-    "i18n": {
-      "ko": {
-        "title": "동원산업 1분기 영업이익 1천462억원, 전년 대비 17.1% 증가",
-        "excerpt": "동원그룹 지주사 동원산업은 올해 1분기 연결 기준 영업이익이 1천462억원으로 작년 동기보다 17.1% 증가했다고 밝혔다.",
-        "body": "동원그룹의 지주사인 동원산업[006040]은 올해 1분기 연결 기준 영업이익이 1천462억원으로 집계됐다고 밝혔다. 이는 지난해 같은 기간보다 17.1% 증가한 수치다. 이번 실적은 동원산업의 분기 수익성이 전년 동기 대비 개선됐음을 보여준다. 연결 기준 실적이라는 점에서 지주사인 동원산업의 사업 전반을 반영한 수치로 해석된다. 시장에서는 전년 대비 두 자릿수 영업이익 증가가 향후 실적 흐름을 판단하는 주요 기준이 될 것으로 본다. 출처: yna.co.kr"
-      },
-      "en": {
-        "title": "Dongwon Industries Q1 operating profit rises 17.1% to 146.2 billion won",
-        "excerpt": "Dongwon Industries, the holding company of Dongwon Group, reported first-quarter consolidated operating profit of 146.2 billion won, up 17.1% from a year earlier.",
-        "body": "Dongwon Industries [006040], the holding company of Dongwon Group, said its consolidated operating profit for the first quarter of this year came to 146.2 billion won. The figure was up 17.1% from the same period last year. The result shows that the company’s quarterly profitability improved year on year. Because the figure is reported on a consolidated basis, it reflects the broader performance of Dongwon Industries as a holding company. The double-digit increase in operating profit from a year earlier is expected to serve as a key reference point for assessing the company’s earnings trend. Source: yna.co.kr"
-      },
-      "ja": {
-        "title": "東遠産業、第1四半期営業利益1462億ウォン 前年同期比17.1%増",
-        "excerpt": "東遠グループの持ち株会社である東遠産業は、今年第1四半期の連結営業利益が1462億ウォンとなり、前年同期比17.1%増加したと発表した。",
-        "body": "東遠グループの持ち株会社である東遠産業[006040]は、今年第1四半期の連結ベースの営業利益が1462億ウォンと集計されたと明らかにした。これは前年同期に比べて17.1%増加した数値だ。今回の実績は、同社の四半期収益性が前年同期比で改善したことを示している。連結ベースの実績であるため、持ち株会社である東遠産業の事業全般を反映した数値と解釈される。市場では、前年同期比で二桁の営業利益増加が今後の業績動向を判断する主要な基準になるとみられる。出典: yna.co.kr"
-      },
-      "zh": {
-        "title": "东远产业一季度营业利润1462亿韩元 同比增长17.1%",
-        "excerpt": "东远集团控股公司东远产业表示，今年一季度合并口径营业利润为1462亿韩元，较去年同期增长17.1%。",
-        "body": "东远集团控股公司东远产业[006040]表示，今年第一季度按合并口径计算的营业利润为1462亿韩元。该数值较去年同期增长17.1%。这一业绩显示，东远产业季度盈利能力较上年同期有所改善。由于数据以合并口径公布，因此可被视为反映控股公司东远产业整体业务表现的指标。市场预计，营业利润同比实现两位数增长，将成为判断该公司今后业绩走势的重要参考。来源: yna.co.kr"
-      },
-      "es": {
-        "title": "Dongwon Industries eleva un 17,1% su beneficio operativo trimestral",
-        "excerpt": "Dongwon Industries, holding de Dongwon Group, informó que su beneficio operativo consolidado del primer trimestre fue de 146.200 millones de wones, un 17,1% más interanual.",
-        "body": "Dongwon Industries [006040], la sociedad holding de Dongwon Group, informó que su beneficio operativo consolidado del primer trimestre de este año fue de 146.200 millones de wones. La cifra representa un aumento del 17,1% frente al mismo periodo del año anterior. El resultado muestra una mejora interanual de la rentabilidad trimestral de la compañía. Al tratarse de datos consolidados, reflejan el desempeño general de Dongwon Industries como holding. El crecimiento de dos dígitos del beneficio operativo frente al año previo se perfila como una referencia clave para evaluar la trayectoria de sus resultados. Fuente: yna.co.kr"
-      },
-      "pt": {
-        "title": "Dongwon Industries tem lucro operacional de 146,2 bi de wones no 1º tri",
-        "excerpt": "A Dongwon Industries, holding do Dongwon Group, informou lucro operacional consolidado de 146,2 bilhões de wones no primeiro trimestre, alta anual de 17,1%.",
-        "body": "A Dongwon Industries [006040], holding do Dongwon Group, informou que seu lucro operacional consolidado no primeiro trimestre deste ano somou 146,2 bilhões de wones. O valor representa aumento de 17,1% em relação ao mesmo período do ano passado. O resultado mostra melhora da rentabilidade trimestral da empresa na comparação anual. Por ser um dado consolidado, ele reflete o desempenho mais amplo da Dongwon Industries como holding. A alta de dois dígitos no lucro operacional em relação ao ano anterior deve servir como referência importante para avaliar a tendência dos resultados da companhia. Fonte: yna.co.kr"
-      },
-      "de": {
-        "title": "Dongwon Industries steigert operativen Quartalsgewinn um 17,1%",
-        "excerpt": "Dongwon Industries, Holdinggesellschaft der Dongwon Group, meldete für das erste Quartal einen konsolidierten operativen Gewinn von 146,2 Milliarden Won, 17,1% mehr als im Vorjahr.",
-        "body": "Dongwon Industries [006040], die Holdinggesellschaft der Dongwon Group, teilte mit, dass der konsolidierte operative Gewinn im ersten Quartal dieses Jahres 146,2 Milliarden Won betrug. Das entspricht einem Anstieg von 17,1% gegenüber dem gleichen Zeitraum des Vorjahres. Das Ergebnis zeigt, dass sich die Quartalsrentabilität des Unternehmens im Jahresvergleich verbessert hat. Da die Zahl auf konsolidierter Basis gemeldet wurde, spiegelt sie die breitere Geschäftsentwicklung von Dongwon Industries als Holding wider. Der zweistellige Zuwachs beim operativen Gewinn gilt als wichtiger Bezugspunkt für die weitere Beurteilung der Ergebnisentwicklung. Quelle: yna.co.kr"
-      },
-      "fr": {
-        "title": "Dongwon Industries voit son résultat opérationnel trimestriel grimper de 17,1%",
-        "excerpt": "Dongwon Industries, holding du groupe Dongwon, a annoncé un résultat opérationnel consolidé de 146,2 milliards de wons au premier trimestre, en hausse de 17,1% sur un an.",
-        "body": "Dongwon Industries [006040], la société holding du groupe Dongwon, a indiqué que son résultat opérationnel consolidé du premier trimestre de cette année s’élevait à 146,2 milliards de wons. Ce montant représente une hausse de 17,1% par rapport à la même période de l’an dernier. Cette performance montre une amélioration de la rentabilité trimestrielle de l’entreprise sur un an. Comme il s’agit de chiffres consolidés, ils reflètent l’activité globale de Dongwon Industries en tant que holding. La progression à deux chiffres du résultat opérationnel devrait servir de repère important pour évaluer l’évolution future des résultats. Source: yna.co.kr"
-      },
-      "ar": {
-        "title": "دونغ وون إندستريز تسجل 146.2 مليار وون أرباحا تشغيلية بالربع الأول",
-        "excerpt": "أعلنت دونغ وون إندستريز، الشركة القابضة لمجموعة دونغ وون، أن أرباحها التشغيلية المجمعة في الربع الأول بلغت 146.2 مليار وون، بزيادة 17.1% سنويا.",
-        "body": "قالت دونغ وون إندستريز [006040]، الشركة القابضة لمجموعة دونغ وون، إن أرباحها التشغيلية المجمعة في الربع الأول من هذا العام بلغت 146.2 مليار وون. ويمثل ذلك زيادة قدرها 17.1% مقارنة بالفترة نفسها من العام الماضي. وتظهر هذه النتيجة تحسنا في ربحية الشركة الفصلية على أساس سنوي. وبما أن الرقم معلن على أساس مجمع، فإنه يعكس الأداء الأوسع لدونغ وون إندستريز بصفتها شركة قابضة. ومن المتوقع أن تكون الزيادة ذات الرقمين في الأرباح التشغيلية مرجعا رئيسيا لتقييم مسار نتائج الشركة المقبلة. المصدر: yna.co.kr"
-      },
-      "hi": {
-        "title": "डोंगवोन इंडस्ट्रीज का पहली तिमाही परिचालन लाभ 17.1% बढ़ा",
-        "excerpt": "डोंगवोन ग्रुप की होल्डिंग कंपनी डोंगवोन इंडस्ट्रीज ने बताया कि पहली तिमाही में समेकित परिचालन लाभ 146.2 अरब वॉन रहा, जो सालाना आधार पर 17.1% अधिक है।",
-        "body": "डोंगवोन ग्रुप की होल्डिंग कंपनी डोंगवोन इंडस्ट्रीज [006040] ने कहा कि इस वर्ष की पहली तिमाही में उसका समेकित परिचालन लाभ 146.2 अरब वॉन रहा। यह पिछले वर्ष की समान अवधि की तुलना में 17.1% अधिक है। यह नतीजा दिखाता है कि कंपनी की तिमाही लाभप्रदता सालाना आधार पर बेहतर हुई है। चूंकि यह आंकड़ा समेकित आधार पर है, इसलिए इसे होल्डिंग कंपनी डोंगवोन इंडस्ट्रीज के व्यापक कारोबारी प्रदर्शन को दर्शाने वाला माना जा सकता है। परिचालन लाभ में दो अंकों की सालाना वृद्धि आगे की आय प्रवृत्ति को परखने का प्रमुख आधार बन सकती है। स्रोत: yna.co.kr"
-      },
-      "id": {
-        "title": "Laba operasi Dongwon Industries kuartal I naik 17,1% jadi 146,2 miliar won",
-        "excerpt": "Dongwon Industries, perusahaan induk Dongwon Group, melaporkan laba operasi konsolidasi kuartal I sebesar 146,2 miliar won, naik 17,1% dari tahun sebelumnya.",
-        "body": "Dongwon Industries [006040], perusahaan induk Dongwon Group, menyatakan laba operasi konsolidasi pada kuartal pertama tahun ini mencapai 146,2 miliar won. Angka tersebut naik 17,1% dibandingkan periode yang sama tahun lalu. Hasil ini menunjukkan profitabilitas kuartalan perusahaan membaik secara tahunan. Karena dilaporkan secara konsolidasi, angka tersebut mencerminkan kinerja lebih luas Dongwon Industries sebagai perusahaan induk. Kenaikan dua digit pada laba operasi dibandingkan tahun sebelumnya diperkirakan menjadi acuan penting untuk menilai arah kinerja perusahaan ke depan. Sumber: yna.co.kr"
-      }
-    }
-  },
-  {
-    "id": "f2336dd64a28",
-    "slug": "계양전기-410억원-주주배정-유상증자-722707",
-    "channelId": "ETF",
-    "category": "etf",
-    "publishedAt": "2026-05-09T09:01:42.985Z",
-    "updatedAt": "2026-05-09T09:01:42.985Z",
-    "sourceName": "yna.co.kr",
-    "sourceUrl": "https://www.yna.co.kr/view/AKR20260508148600008",
-    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260508148600008",
-    "titleFingerprint": "4b04b2ffd042e1ce5c9fb41130f9802177dc23bd",
-    "dedupKeys": [
-      "f2336dd64a28513026aae0d161b8f18fd2d4a894",
-      "4b04b2ffd042e1ce5c9fb41130f9802177dc23bd",
-      "5b0e49e7593657faba357ff9dcd2a3ef4951719d"
-    ],
-    "imageUrl": "/images/articles/f2336dd64a28.jpg",
-    "i18n": {
-      "ko": {
-        "title": "계양전기, 410억원 규모 주주배정 유상증자 결정…채무상환 자금 조달",
-        "excerpt": "코스피 상장사 계양전기는 채무상환자금 등을 마련하기 위해 약 410억원 규모의 주주배정 후 실권주 일반공모 유상증자를 결정했다고 밝혔다.",
-        "body": "코스피 상장사 계양전기[012200]는 채무상환자금 등을 조달하기 위해 약 410억원 규모의 유상증자를 결정했다. 이번 증자는 기존 주주를 대상으로 먼저 배정한 뒤, 실권주가 발생하면 일반공모 방식으로 진행하는 구조다. 조달 자금의 용도는 채무상환자금 등으로 제시됐다. 유상증자는 회사가 신주를 발행해 자금을 확보하는 방식으로, 주주와 투자자는 발행 규모와 자금 사용 목적을 함께 확인할 필요가 있다. 이번 결정은 자금 조달과 재무 부담 관리 측면에서 시장의 관심을 받을 수 있다. 출처: yna.co.kr"
-      },
-      "en": {
-        "title": "Keyang Electric Plans KRW 41 Billion Rights Issue to Raise Debt Repayment Funds",
-        "excerpt": "KOSPI-listed Keyang Electric said it decided on a rights issue followed by a public offering of forfeited shares to raise about KRW 41 billion for debt repayment and related purposes.",
-        "body": "KOSPI-listed Keyang Electric Co. [012200] has decided to carry out a capital increase worth about KRW 41 billion to secure funds including money for debt repayment. The offering will first allocate new shares to existing shareholders, and any forfeited shares will then be offered to the public. The company cited debt repayment funds and related needs as the purpose of the financing. A paid-in capital increase allows a company to raise cash by issuing new shares, so shareholders and investors are likely to review both the issuance size and the intended use of proceeds. The decision may draw market attention in terms of funding and financial liability management. Source: yna.co.kr"
-      },
-      "ja": {
-        "title": "啓陽電機、約410億ウォンの株主割当増資を決定 債務返済資金を調達",
-        "excerpt": "KOSPI上場の啓陽電機は、債務返済資金などを確保するため、約410億ウォン規模の株主割当後の失権株一般公募増資を決定した。",
-        "body": "KOSPI上場企業の啓陽電機[012200]は、債務返済資金などを調達するため、約410億ウォン規模の有償増資を決定した。今回の増資は既存株主に優先的に割り当てた後、失権株が発生した場合に一般公募で進める方式だ。調達資金の用途は債務返済資金などと示された。有償増資は企業が新株を発行して資金を確保する手段であり、株主や投資家は発行規模と資金使途をあわせて確認する必要がある。今回の決定は資金調達と財務負担管理の面で市場の注目を集める可能性がある。出典: yna.co.kr"
-      },
-      "zh": {
-        "title": "桂阳电机拟实施410亿韩元配股增资 用于偿还债务等资金需求",
-        "excerpt": "韩国KOSPI上市公司桂阳电机表示，为筹集偿还债务等资金，决定实施约410亿韩元规模的股东配售后失权股公开发行增资。",
-        "body": "KOSPI上市公司桂阳电机[012200]决定实施约410亿韩元规模的有偿增资，以筹集偿还债务等所需资金。本次增资将先向现有股东配售新股，如出现失权股，则通过一般公开募集方式发行。公司提出的资金用途包括债务偿还资金等。有偿增资是企业通过发行新股筹措资金的方式，因此股东和投资者需要同时关注发行规模和募集资金用途。此次决定可能因资金筹措和财务负担管理而受到市场关注。来源: yna.co.kr"
-      },
-      "es": {
-        "title": "Keyang Electric hará ampliación de capital por 41.000 millones de wones para deuda",
-        "excerpt": "La cotizada surcoreana Keyang Electric decidió una ampliación con derechos para accionistas y oferta pública de acciones no suscritas para recaudar unos 41.000 millones de wones.",
-        "body": "Keyang Electric Co. [012200], empresa listada en el KOSPI, decidió realizar una ampliación de capital por unos 41.000 millones de wones para obtener fondos destinados, entre otros fines, al pago de deuda. La operación asignará primero nuevas acciones a los accionistas existentes y, si quedan acciones no suscritas, estas se ofrecerán al público. La compañía indicó que los recursos se usarán para fondos de amortización de deuda y otros propósitos relacionados. Una ampliación pagada permite a una empresa captar efectivo mediante la emisión de nuevas acciones, por lo que accionistas e inversores deberán revisar el tamaño de la emisión y el uso previsto de los fondos. Fuente: yna.co.kr"
-      },
-      "pt": {
-        "title": "Keyang Electric anuncia aumento de capital de 41 bilhões de wons para pagar dívidas",
-        "excerpt": "A Keyang Electric, listada no KOSPI, decidiu realizar aumento de capital com subscrição por acionistas e oferta pública de sobras para captar cerca de 41 bilhões de wons.",
-        "body": "A Keyang Electric Co. [012200], companhia listada no KOSPI, decidiu realizar um aumento de capital de cerca de 41 bilhões de wons para levantar recursos destinados, entre outros fins, ao pagamento de dívidas. A operação será inicialmente oferecida aos acionistas existentes e, caso haja ações não subscritas, elas serão colocadas em oferta pública. A empresa apontou como finalidade os recursos para amortização de dívida e necessidades relacionadas. Um aumento de capital pago permite captar dinheiro por meio da emissão de novas ações, de modo que acionistas e investidores devem observar o valor da emissão e o uso dos recursos. Fonte: yna.co.kr"
-      },
-      "de": {
-        "title": "Keyang Electric plant Kapitalerhöhung über 41 Mrd. Won zur Schuldentilgung",
-        "excerpt": "Das KOSPI-Unternehmen Keyang Electric beschloss eine Bezugsrechtsemission mit anschließender öffentlicher Platzierung nicht gezeichneter Aktien, um rund 41 Mrd. Won aufzunehmen.",
-        "body": "Das im KOSPI gelistete Unternehmen Keyang Electric Co. [012200] hat eine Kapitalerhöhung im Umfang von rund 41 Mrd. Won beschlossen, um Mittel unter anderem zur Schuldentilgung zu beschaffen. Die neuen Aktien sollen zunächst bestehenden Aktionären zugeteilt werden; nicht gezeichnete Aktien werden anschließend öffentlich angeboten. Als Verwendungszweck nannte das Unternehmen Mittel zur Rückzahlung von Schulden und weitere damit verbundene Zwecke. Eine bezahlte Kapitalerhöhung ermöglicht es einem Unternehmen, durch Ausgabe neuer Aktien Liquidität aufzunehmen. Aktionäre und Investoren dürften daher Emissionsvolumen und Mittelverwendung genau prüfen. Quelle: yna.co.kr"
-      },
-      "fr": {
-        "title": "Keyang Electric lance une augmentation de capital de 41 Mds de wons pour sa dette",
-        "excerpt": "Keyang Electric, société cotée au KOSPI, a décidé une augmentation de capital avec droits préférentiels puis offre publique des actions non souscrites afin de lever environ 41 Mds de wons.",
-        "body": "Keyang Electric Co. [012200], société cotée au KOSPI, a décidé de procéder à une augmentation de capital d’environ 41 milliards de wons afin de lever des fonds, notamment pour le remboursement de dettes. L’opération attribuera d’abord les nouvelles actions aux actionnaires existants, puis les actions non souscrites seront proposées au public. L’entreprise a indiqué que les fonds serviraient notamment au remboursement de dettes. Une augmentation de capital rémunérée permet à une société d’obtenir des liquidités en émettant de nouvelles actions; actionnaires et investisseurs devraient donc examiner le montant de l’émission et l’usage prévu des fonds. Source: yna.co.kr"
-      },
-      "ar": {
-        "title": "كيانغ إلكتريك تقر زيادة رأسمال بـ41 مليار وون لسداد الديون عبر حقوق أولوية",
-        "excerpt": "قالت كيانغ إلكتريك المدرجة في كوسبي إنها قررت زيادة رأسمال بحقوق أولوية للمساهمين ثم طرح عام للأسهم غير المكتتب بها لجمع نحو 41 مليار وون.",
-        "body": "قررت شركة كيانغ إلكتريك [012200] المدرجة في مؤشر كوسبي تنفيذ زيادة رأسمال مدفوعة بنحو 41 مليار وون لتأمين أموال تشمل سداد الديون. وستخصص الأسهم الجديدة أولا للمساهمين الحاليين، وفي حال وجود أسهم غير مكتتب بها فسيتم طرحها للاكتتاب العام. وذكرت الشركة أن استخدام الأموال يشمل أموال سداد الديون واحتياجات ذات صلة. وتعد زيادة رأس المال المدفوعة وسيلة تصدر من خلالها الشركة أسهما جديدة لجمع السيولة، لذلك من المتوقع أن يراجع المساهمون والمستثمرون حجم الإصدار والغرض من استخدام العائدات. المصدر: yna.co.kr"
-      },
-      "hi": {
-        "title": "Keyang Electric 41 अरब वॉन का राइट्स इश्यू लाएगी, कर्ज चुकाने को धन जुटेगा",
-        "excerpt": "KOSPI-सूचीबद्ध Keyang Electric ने कर्ज भुगतान आदि के लिए करीब 41 अरब वॉन जुटाने को शेयरधारक आवंटन और बचे शेयरों की सार्वजनिक पेशकश वाली पूंजी वृद्धि का फैसला किया।",
-        "body": "KOSPI-सूचीबद्ध Keyang Electric Co. [012200] ने कर्ज भुगतान सहित जरूरतों के लिए करीब 41 अरब वॉन की पूंजी वृद्धि करने का फैसला किया है। इस पेशकश में नए शेयर पहले मौजूदा शेयरधारकों को आवंटित किए जाएंगे और यदि कोई शेयर बिना सदस्यता के बचता है, तो उसे आम सार्वजनिक पेशकश के जरिए बेचा जाएगा। कंपनी ने जुटाई जाने वाली राशि का उपयोग कर्ज चुकाने के धन आदि के रूप में बताया है। पेड-इन कैपिटल इन्क्रीज कंपनी को नए शेयर जारी कर नकदी जुटाने का तरीका देता है, इसलिए शेयरधारक और निवेशक निर्गम आकार तथा धन के उपयोग पर ध्यान देंगे। स्रोत: yna.co.kr"
-      },
-      "id": {
-        "title": "Keyang Electric Siapkan Rights Issue KRW 41 Miliar untuk Dana Pelunasan Utang",
-        "excerpt": "Emiten KOSPI Keyang Electric memutuskan rights issue yang diikuti penawaran umum saham sisa untuk menghimpun sekitar KRW 41 miliar bagi pelunasan utang dan kebutuhan lain.",
-        "body": "Keyang Electric Co. [012200], perusahaan yang tercatat di KOSPI, memutuskan melakukan penambahan modal berbayar sekitar KRW 41 miliar untuk memperoleh dana, termasuk bagi pelunasan utang. Saham baru akan lebih dulu dialokasikan kepada pemegang saham yang ada, lalu jika terdapat saham yang tidak terserap, saham tersebut akan ditawarkan melalui penawaran umum. Perusahaan menyebut penggunaan dana mencakup dana pelunasan utang dan kebutuhan terkait. Penambahan modal berbayar memungkinkan perusahaan menghimpun kas melalui penerbitan saham baru, sehingga pemegang saham dan investor perlu mencermati ukuran penerbitan serta tujuan penggunaan dana. Sumber: yna.co.kr"
-      }
-    }
-  },
-  {
-    "id": "cf3ad5a5d995",
-    "slug": "ai반도체기술주-코스닥-바이오-등-etf-8종-12일-상장-146376",
-    "channelId": "ETF",
-    "category": "etf",
-    "publishedAt": "2026-05-09T08:26:54.714Z",
-    "updatedAt": "2026-05-09T08:26:54.714Z",
-    "sourceName": "yna.co.kr",
-    "sourceUrl": "https://www.yna.co.kr/view/AKR20260508149700008",
-    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260508149700008",
-    "titleFingerprint": "fc8b1b5fcf0582b2c541085235b1867273e4fdc6",
-    "dedupKeys": [
-      "cf3ad5a5d9958c8e871dd307ab280dc93a0250bd",
-      "fc8b1b5fcf0582b2c541085235b1867273e4fdc6",
-      "878c784be7cd407f5b279ba7be444999aeb7d9e7"
-    ],
-    "imageUrl": "/images/articles/cf3ad5a5d995.jpg",
-    "i18n": {
-      "ko": {
-        "title": "AI·반도체·코스닥 바이오 ETF 8종, 12일 신규 상장",
-        "excerpt": "한국거래소는 KB·현대·삼성·한화·미래에셋·키움·NH아문디 자산운용이 운용하는 AI·반도체 기술주, 코스닥 바이오 관련 ETF 8종을 오는 12일 상장한다고 밝혔다.",
-        "body": "한국거래소는 오는 12일 KB자산운용, 현대자산운용, 삼성자산운용, 한화자산운용, 미래에셋자산운용, 키움자산운용, NH아문디자산운용의 상장지수펀드(ETF) 8개 종목이 신규 상장된다고 밝혔다. 이번 상장 ETF에는 AI와 반도체 기술주, 코스닥 바이오 등 투자자 관심이 높은 테마형 상품이 포함됐다. 거래소 발표에 따르면 여러 운용사가 동시에 다양한 테마 ETF를 선보이며 국내 ETF 시장의 선택지가 확대될 전망이다. 투자자는 각 상품의 기초지수와 운용 전략, 위험 요인을 확인할 필요가 있다. 출처: yna.co.kr"
-      },
-      "en": {
-        "title": "Eight AI, Semiconductor and KOSDAQ Bio ETFs to List on May 12",
-        "excerpt": "The Korea Exchange said eight ETFs from KB, Hyundai, Samsung, Hanwha, Mirae Asset, Kiwoom and NH-Amundi Asset Management will be listed on May 12, including AI, semiconductor tech and KOSDAQ bio themes.",
-        "body": "The Korea Exchange said eight exchange-traded funds from KB Asset Management, Hyundai Asset Management, Samsung Asset Management, Hanwha Asset Management, Mirae Asset Global Investments, Kiwoom Asset Management and NH-Amundi Asset Management will be newly listed on May 12. The lineup includes thematic products linked to AI, semiconductor technology stocks and KOSDAQ bio, areas drawing investor attention. According to the exchange, multiple managers are introducing a range of ETF themes at the same time, expanding choices in Korea’s ETF market. Investors should review each product’s underlying index, strategy and risk factors. Source: yna.co.kr"
-      },
-      "ja": {
-        "title": "AI・半導体・KOSDAQバイオETF8本、12日に新規上場",
-        "excerpt": "韓国取引所は、KB・現代・サムスン・ハンファ・未来アセット・キウム・NHアムンディ資産運用のAI、半導体技術株、KOSDAQバイオ関連ETF8本を12日に上場すると発表した。",
-        "body": "韓国取引所は、KB資産運用、現代資産運用、サムスン資産運用、ハンファ資産運用、未来アセット資産運用、キウム資産運用、NHアムンディ資産運用の上場投資信託（ETF）8銘柄が12日に新規上場されると明らかにした。今回のETFには、AI、半導体技術株、KOSDAQバイオなど、投資家の関心が高いテーマ型商品が含まれる。取引所の発表によると、複数の運用会社が同時に多様なテーマETFを投入し、韓国ETF市場の選択肢が広がる見通しだ。投資家は各商品の基礎指数、運用戦略、リスク要因を確認する必要がある。出典: yna.co.kr"
-      },
-      "zh": {
-        "title": "AI、半导体与KOSDAQ生物ETF八只将于12日上市",
-        "excerpt": "韩国交易所表示，KB、现代、三星、韩华、未来资产、Kiwoom、NH-Amundi资管旗下八只ETF将于12日上市，涵盖AI、半导体科技股和KOSDAQ生物等主题。",
-        "body": "韩国交易所表示，KB资产管理、现代资产管理、三星资产管理、韩华资产管理、未来资产管理、Kiwoom资产管理和NH-Amundi资产管理旗下八只交易所交易基金（ETF）将于12日新上市。本次上市的ETF包括与AI、半导体科技股、KOSDAQ生物等相关的主题型产品，这些领域受到投资者关注。根据交易所发布的信息，多家资管公司将同时推出不同主题ETF，韩国ETF市场的产品选择有望扩大。投资者需查看各产品的基础指数、投资策略和风险因素。来源: yna.co.kr"
-      },
-      "es": {
-        "title": "Ocho ETF de IA, semiconductores y bio KOSDAQ cotizarán el día 12",
-        "excerpt": "La Bolsa de Corea dijo que ocho ETF de KB, Hyundai, Samsung, Hanwha, Mirae Asset, Kiwoom y NH-Amundi Asset Management se listarán el día 12, con temas de IA, semiconductores tecnológicos y bio KOSDAQ.",
-        "body": "La Bolsa de Corea anunció que el día 12 se listarán ocho fondos cotizados (ETF) de KB Asset Management, Hyundai Asset Management, Samsung Asset Management, Hanwha Asset Management, Mirae Asset Global Investments, Kiwoom Asset Management y NH-Amundi Asset Management. La nueva oferta incluye productos temáticos vinculados con IA, acciones tecnológicas de semiconductores y bio KOSDAQ, áreas que atraen la atención de los inversores. Según la bolsa, varias gestoras presentarán al mismo tiempo ETF de diversos temas, lo que ampliará las opciones del mercado coreano de ETF. Los inversores deben revisar el índice subyacente, la estrategia y los riesgos de cada producto. Fuente: yna.co.kr"
-      },
-      "pt": {
-        "title": "Oito ETFs de IA, semicondutores e bio KOSDAQ estreiam no dia 12",
-        "excerpt": "A Bolsa da Coreia informou que oito ETFs de KB, Hyundai, Samsung, Hanwha, Mirae Asset, Kiwoom e NH-Amundi Asset Management serão listados no dia 12, incluindo temas de IA, semicondutores e bio KOSDAQ.",
-        "body": "A Bolsa da Coreia informou que oito fundos negociados em bolsa (ETFs) da KB Asset Management, Hyundai Asset Management, Samsung Asset Management, Hanwha Asset Management, Mirae Asset Global Investments, Kiwoom Asset Management e NH-Amundi Asset Management serão listados no dia 12. A leva inclui produtos temáticos ligados a IA, ações de tecnologia de semicondutores e bio KOSDAQ, áreas que concentram interesse dos investidores. Segundo a bolsa, várias gestoras lançarão simultaneamente ETFs com diferentes temas, ampliando as opções no mercado coreano de ETFs. Os investidores devem verificar o índice de referência, a estratégia e os riscos de cada produto. Fonte: yna.co.kr"
-      },
-      "de": {
-        "title": "Acht KI-, Halbleiter- und KOSDAQ-Bio-ETFs starten am 12.",
-        "excerpt": "Die Korea Exchange teilte mit, dass acht ETFs von KB, Hyundai, Samsung, Hanwha, Mirae Asset, Kiwoom und NH-Amundi Asset Management am 12. gelistet werden, darunter KI-, Halbleitertech- und KOSDAQ-Bio-Themen.",
-        "body": "Die Korea Exchange gab bekannt, dass am 12. acht börsengehandelte Fonds von KB Asset Management, Hyundai Asset Management, Samsung Asset Management, Hanwha Asset Management, Mirae Asset Global Investments, Kiwoom Asset Management und NH-Amundi Asset Management neu gelistet werden. Die Produkte umfassen Themen wie KI, Halbleitertechnologieaktien und KOSDAQ-Bio, die bei Anlegern auf Interesse stoßen. Laut Börse bringen mehrere Vermögensverwalter gleichzeitig unterschiedliche Themen-ETFs auf den Markt, wodurch sich die Auswahl im koreanischen ETF-Markt erweitert. Anleger sollten den jeweiligen Basisindex, die Strategie und die Risiken prüfen. Quelle: yna.co.kr"
-      },
-      "fr": {
-        "title": "Huit ETF IA, semi-conducteurs et bio KOSDAQ cotés le 12",
-        "excerpt": "La Bourse de Corée a annoncé que huit ETF de KB, Hyundai, Samsung, Hanwha, Mirae Asset, Kiwoom et NH-Amundi Asset Management seront cotés le 12, avec des thèmes IA, semi-conducteurs et bio KOSDAQ.",
-        "body": "La Bourse de Corée a annoncé que huit fonds indiciels cotés (ETF) de KB Asset Management, Hyundai Asset Management, Samsung Asset Management, Hanwha Asset Management, Mirae Asset Global Investments, Kiwoom Asset Management et NH-Amundi Asset Management seront nouvellement cotés le 12. Cette série comprend des produits thématiques liés à l’IA, aux valeurs technologiques des semi-conducteurs et à la bio KOSDAQ, des domaines suivis par les investisseurs. Selon la Bourse, plusieurs sociétés de gestion lancent simultanément des ETF sur divers thèmes, ce qui devrait élargir le choix sur le marché coréen des ETF. Les investisseurs doivent vérifier l’indice sous-jacent, la stratégie et les risques de chaque produit. Source: yna.co.kr"
-      },
-      "ar": {
-        "title": "إدراج 8 صناديق ETF للذكاء الاصطناعي والرقائق وكوسداك الحيوي يوم 12",
-        "excerpt": "قالت بورصة كوريا إن ثمانية صناديق ETF من KB وهيونداي وسامسونغ وهانهوا وميراي أسيت وكيوم وNH-Amundi ستدرج يوم 12، وتشمل موضوعات الذكاء الاصطناعي والرقائق والتقنية الحيوية في كوسداك.",
-        "body": "أعلنت بورصة كوريا أن ثمانية صناديق متداولة في البورصة من KB Asset Management وHyundai Asset Management وSamsung Asset Management وHanwha Asset Management وMirae Asset Global Investments وKiwoom Asset Management وNH-Amundi Asset Management ستدرج حديثا يوم 12. وتشمل الصناديق منتجات موضوعية مرتبطة بالذكاء الاصطناعي وأسهم تكنولوجيا أشباه الموصلات وقطاع التقنية الحيوية في كوسداك، وهي مجالات تحظى باهتمام المستثمرين. ووفقا للبورصة، تطرح عدة شركات إدارة أصول صناديق ETF بموضوعات متنوعة في الوقت نفسه، ما يوسع خيارات سوق ETF الكورية. وينبغي للمستثمرين مراجعة المؤشر الأساسي واستراتيجية الإدارة وعوامل المخاطر لكل منتج. المصدر: yna.co.kr"
-      },
-      "hi": {
-        "title": "AI, सेमीकंडक्टर और KOSDAQ बायो के 8 ETF 12 तारीख को सूचीबद्ध होंगे",
-        "excerpt": "कोरिया एक्सचेंज ने कहा कि KB, Hyundai, Samsung, Hanwha, Mirae Asset, Kiwoom और NH-Amundi Asset Management के आठ ETF 12 तारीख को सूचीबद्ध होंगे, जिनमें AI, सेमीकंडक्टर टेक और KOSDAQ बायो थीम शामिल हैं।",
-        "body": "कोरिया एक्सचेंज ने बताया कि KB Asset Management, Hyundai Asset Management, Samsung Asset Management, Hanwha Asset Management, Mirae Asset Global Investments, Kiwoom Asset Management और NH-Amundi Asset Management के आठ एक्सचेंज-ट्रेडेड फंड 12 तारीख को नए सिरे से सूचीबद्ध होंगे। इनमें AI, सेमीकंडक्टर तकनीकी शेयरों और KOSDAQ बायो से जुड़े थीमैटिक उत्पाद शामिल हैं, जिन पर निवेशकों की नजर है। एक्सचेंज के अनुसार, कई एसेट मैनेजर एक साथ अलग-अलग थीम वाले ETF पेश कर रहे हैं, जिससे कोरियाई ETF बाजार में विकल्प बढ़ेंगे। निवेशकों को हर उत्पाद के आधार सूचकांक, निवेश रणनीति और जोखिम कारकों की जांच करनी चाहिए। स्रोत: yna.co.kr"
-      },
-      "id": {
-        "title": "Delapan ETF AI, Semikonduktor dan Bio KOSDAQ Melantai pada 12",
-        "excerpt": "Bursa Korea menyatakan delapan ETF dari KB, Hyundai, Samsung, Hanwha, Mirae Asset, Kiwoom dan NH-Amundi Asset Management akan tercatat pada 12, mencakup tema AI, saham teknologi semikonduktor dan bio KOSDAQ.",
-        "body": "Bursa Korea menyatakan delapan reksa dana yang diperdagangkan di bursa (ETF) dari KB Asset Management, Hyundai Asset Management, Samsung Asset Management, Hanwha Asset Management, Mirae Asset Global Investments, Kiwoom Asset Management dan NH-Amundi Asset Management akan tercatat baru pada 12. ETF tersebut mencakup produk tematik terkait AI, saham teknologi semikonduktor dan bio KOSDAQ, area yang menarik perhatian investor. Menurut bursa, beberapa manajer aset akan sekaligus memperkenalkan ETF dengan beragam tema, sehingga pilihan di pasar ETF Korea bertambah. Investor perlu memeriksa indeks acuan, strategi pengelolaan dan faktor risiko tiap produk. Sumber: yna.co.kr"
       }
     }
   }
