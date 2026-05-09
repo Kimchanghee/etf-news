@@ -1,5 +1,230 @@
 [
   {
+    "id": "6afcfb75dbd8",
+    "slug": "불장에-손-커진-개미지난달-1억-이상-주문-역대-최대-384481",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-05-09T22:19:06.389Z",
+    "updatedAt": "2026-05-09T22:19:06.389Z",
+    "sourceName": "yna.co.kr",
+    "sourceUrl": "https://www.yna.co.kr/view/AKR20260509000400008",
+    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260509000400008",
+    "titleFingerprint": "ee6972b83a2820827870c47341ae3a1439e9c9c4",
+    "dedupKeys": [
+      "6afcfb75dbd873a4dea1d329e08b0616847365b4",
+      "ee6972b83a2820827870c47341ae3a1439e9c9c4",
+      "c3de926d4e2b6372fd4291ebd78bf43eb7ecf650"
+    ],
+    "imageUrl": "/images/articles/6afcfb75dbd8.jpg",
+    "i18n": {
+      "ko": {
+        "title": "코스피 7천선 랠리에 ‘큰손 개미’ 급증, 1억 이상 주문 역대 최대",
+        "excerpt": "최근 코스피가 7천선 고지를 밟고 사상 최고치 랠리를 이어가면서 지난달 1억원 이상 거액 주문을 낸 개인투자자 참여가 역대 최대를 기록했다.",
+        "body": "최근 7천선 고지를 밟은 코스피가 사상 최고치 랠리를 이어가면서 지난달 주식시장에서 1억원 이상 거액 주문을 낸 개인투자자, 이른바 ‘큰손 개미’의 참여가 역대 최대를 기록했다. 강한 상승장이 이어지자 큰 금액을 굴리는 개인 투자자들의 매매도 확대된 것으로 전해졌다. 이번 흐름은 지수 랠리가 개인의 대형 주문 증가로 이어졌다는 점에서 시장 참여 구도 변화를 보여준다. 향후 코스피 흐름과 개인 매수세가 함께 주목된다. 출처: yna.co.kr"
+      },
+      "en": {
+        "title": "KOSPI 7,000 Rally Drives Record High in Retail Orders Over 100 Million Won",
+        "excerpt": "As the KOSPI recently climbed to the 7,000 level and extended its record-high rally, retail investors placing orders of 100 million won or more hit an all-time high last month.",
+        "body": "As the KOSPI recently reached the 7,000 mark and continued its record-high rally, participation by retail investors placing large stock orders of 100 million won or more reached an all-time high last month. These high-value individual investors, often called “big-hand” retail traders, expanded their activity as the bullish market gained momentum. The trend shows how the index rally has translated into larger orders from private investors. Market attention is now on how the KOSPI’s path and retail buying strength develop from here. Source: yna.co.kr"
+      },
+      "ja": {
+        "title": "KOSPI 7000台ラリーで個人の大型注文急増、1億ウォン以上が過去最高",
+        "excerpt": "KOSPIが最近7000台に乗せ史上最高値ラリーを続けるなか、先月は1億ウォン以上の大型注文を出した個人投資家の参加が過去最高となった。",
+        "body": "最近7000台に乗せたKOSPIが史上最高値ラリーを続けるなか、先月の株式市場では1億ウォン以上の大型注文を出した個人投資家、いわゆる「大口個人」の参加が過去最高を記録した。強い上昇相場が続き、大きな資金を動かす個人投資家の売買も拡大したと伝えられている。今回の流れは、指数ラリーが個人の大型注文増加につながった点で市場参加構造の変化を示す。今後はKOSPIの動きと個人の買い勢いが注目される。出典: yna.co.kr"
+      },
+      "zh": {
+        "title": "KOSPI站上7000点引爆散户大单，1亿韩元以上订单创新高",
+        "excerpt": "随着KOSPI近期站上7000点并延续历史高位涨势，上月下达1亿韩元以上大额订单的个人投资者参与度创下历史最高纪录。",
+        "body": "近期站上7000点的KOSPI继续刷新历史高位并维持上涨行情，上月韩国股市中下达1亿韩元以上大额订单的个人投资者，也就是所谓“资金实力雄厚的散户”，参与规模创下历史最高纪录。报道称，随着强劲牛市延续，操作大额资金的个人投资者交易也随之扩大。这一趋势显示，指数上涨正在带动个人投资者大单增加，也反映出市场参与结构的变化。接下来，KOSPI走势与个人买盘动向仍将受到关注。来源: yna.co.kr"
+      },
+      "es": {
+        "title": "El rally del KOSPI hasta 7.000 dispara pedidos minoristas récord sobre 100 millones de wones",
+        "excerpt": "Con el KOSPI recientemente en la zona de 7.000 y en máximos históricos, los inversores particulares con órdenes de 100 millones de wones o más marcaron un récord el mes pasado.",
+        "body": "El KOSPI, que recientemente alcanzó la zona de los 7.000 puntos, continúa su rally en máximos históricos, y el mes pasado la participación de inversores particulares con grandes órdenes bursátiles de 100 millones de wones o más llegó a un máximo histórico. Estos minoristas de alto poder de compra, conocidos como “grandes manos” entre los particulares, aumentaron su actividad a medida que avanzó el mercado alcista. La tendencia muestra que el rally del índice se está traduciendo en más órdenes de gran tamaño por parte de individuos. La atención se centra ahora en la trayectoria del KOSPI y la fuerza compradora minorista. Fuente: yna.co.kr"
+      },
+      "pt": {
+        "title": "Rali do KOSPI a 7.000 leva ordens de varejo acima de 100 milhões de won ao recorde",
+        "excerpt": "Com o KOSPI chegando recentemente aos 7.000 pontos e renovando máximas históricas, investidores individuais com ordens de 100 milhões de won ou mais bateram recorde no mês passado.",
+        "body": "O KOSPI, que recentemente alcançou a marca dos 7.000 pontos, segue em rali de máximas históricas, enquanto a participação de investidores individuais com grandes ordens de ações de 100 milhões de won ou mais atingiu recorde no mês passado. Esses investidores de varejo de maior porte ampliaram sua atuação conforme o mercado altista ganhou força. O movimento mostra que a alta do índice se refletiu no aumento de ordens grandes feitas por pessoas físicas. Agora, o foco recai sobre a trajetória do KOSPI e a continuidade da força compradora dos investidores individuais. Fonte: yna.co.kr"
+      },
+      "de": {
+        "title": "KOSPI-Rally über 7.000 treibt Privatanleger-Aufträge ab 100 Mio. Won auf Rekord",
+        "excerpt": "Da der KOSPI zuletzt die Marke von 7.000 erreichte und seine Rekordrally fortsetzte, stieg die Zahl privater Aufträge über 100 Mio. Won im vergangenen Monat auf ein Allzeithoch.",
+        "body": "Der KOSPI hat zuletzt die Marke von 7.000 erreicht und seine Rally auf historischen Höchstständen fortgesetzt. Im vergangenen Monat erreichte die Beteiligung privater Anleger mit großen Aktienaufträgen von 100 Millionen Won oder mehr ein Allzeithoch. Diese kapitalstarken Privatanleger, oft als große Hände unter den Kleinanlegern bezeichnet, weiteten ihre Handelsaktivität im Zuge des starken Bullenmarkts aus. Der Trend zeigt, dass die Indexrally mit einem Anstieg großer Orders von Einzelinvestoren einhergeht. Im Fokus stehen nun die weitere KOSPI-Entwicklung und die Kaufkraft der Privatanleger. Quelle: yna.co.kr"
+      },
+      "fr": {
+        "title": "Le rally du KOSPI à 7 000 fait grimper les ordres particuliers de plus de 100 M won à un record",
+        "excerpt": "Alors que le KOSPI a récemment atteint 7 000 points et poursuivi son rally historique, les particuliers passant des ordres d’au moins 100 millions de won ont atteint un record le mois dernier.",
+        "body": "Le KOSPI, récemment monté au seuil des 7 000 points, poursuit son rally sur des plus hauts historiques. Le mois dernier, la participation des investisseurs particuliers passant de gros ordres de Bourse de 100 millions de won ou plus a atteint un record absolu. Ces particuliers à forte capacité financière ont accru leurs transactions dans un marché haussier soutenu. Cette évolution montre que la progression de l’indice s’accompagne d’une hausse des ordres importants venus des investisseurs individuels. L’attention se porte désormais sur la trajectoire du KOSPI et la vigueur des achats des particuliers. Source: yna.co.kr"
+      },
+      "ar": {
+        "title": "صعود كوسبي إلى 7000 يدفع أوامر الأفراد فوق 100 مليون وون إلى مستوى قياسي",
+        "excerpt": "مع بلوغ كوسبي مؤخرا مستوى 7000 ومواصلته موجة قمم تاريخية، سجلت مشاركة المستثمرين الأفراد بأوامر لا تقل عن 100 مليون وون مستوى قياسيا الشهر الماضي.",
+        "body": "بلغ مؤشر كوسبي مؤخرا مستوى 7000 وواصل موجة صعود عند قمم تاريخية، وفي الشهر الماضي وصلت مشاركة المستثمرين الأفراد الذين قدموا أوامر أسهم كبيرة بقيمة 100 مليون وون أو أكثر إلى أعلى مستوى على الإطلاق. ويشار إلى هؤلاء المستثمرين الأفراد ذوي الأموال الكبيرة باعتبارهم من أصحاب الأوامر الضخمة في السوق. ومع استمرار السوق الصاعدة، توسعت تداولاتهم أيضا. ويظهر هذا الاتجاه أن صعود المؤشر ترافق مع زيادة الأوامر الكبيرة من الأفراد. وتتجه الأنظار الآن إلى مسار كوسبي وقوة الشراء لدى المستثمرين الأفراد. المصدر: yna.co.kr"
+      },
+      "hi": {
+        "title": "KOSPI के 7,000 रैली से खुदरा बड़े ऑर्डर रिकॉर्ड पर, 10 करोड़ वॉन से ऊपर मांग तेज",
+        "excerpt": "KOSPI के हाल में 7,000 स्तर छूने और रिकॉर्ड ऊंचाई की रैली जारी रखने के बीच, पिछले महीने 10 करोड़ वॉन या अधिक के ऑर्डर देने वाले व्यक्तिगत निवेशक रिकॉर्ड स्तर पर पहुंचे।",
+        "body": "KOSPI ने हाल में 7,000 का स्तर छुआ और रिकॉर्ड ऊंचाई की रैली जारी रखी। इसी दौरान पिछले महीने शेयर बाजार में 10 करोड़ वॉन या उससे अधिक के बड़े ऑर्डर देने वाले व्यक्तिगत निवेशकों की भागीदारी अब तक के उच्चतम स्तर पर पहुंच गई। ऐसे निवेशकों को बड़ी रकम लगाने वाले खुदरा निवेशक माना जाता है। मजबूत तेजी के बाजार के बीच बड़ी पूंजी चलाने वाले व्यक्तिगत निवेशकों की ट्रेडिंग भी बढ़ी। यह रुझान दिखाता है कि सूचकांक की रैली व्यक्तिगत निवेशकों के बड़े ऑर्डर में वृद्धि से जुड़ रही है। आगे KOSPI की चाल और व्यक्तिगत खरीदारी पर नजर रहेगी। स्रोत: yna.co.kr"
+      },
+      "id": {
+        "title": "Reli KOSPI ke 7.000 Dorong Order Ritel di Atas 100 Juta Won ke Rekor",
+        "excerpt": "Saat KOSPI baru-baru ini menembus level 7.000 dan melanjutkan reli rekor tertinggi, partisipasi investor individu dengan order 100 juta won atau lebih mencapai rekor bulan lalu.",
+        "body": "KOSPI baru-baru ini menembus level 7.000 dan terus melanjutkan reli di rekor tertinggi. Pada bulan lalu, partisipasi investor individu yang memasukkan order saham besar senilai 100 juta won atau lebih mencapai level tertinggi sepanjang sejarah. Investor ritel bermodal besar ini meningkatkan aktivitasnya ketika pasar bullish berlanjut. Tren tersebut menunjukkan bahwa reli indeks ikut mendorong kenaikan order besar dari investor perorangan. Ke depan, pergerakan KOSPI dan kekuatan beli investor individu akan menjadi perhatian pasar. Sumber: yna.co.kr"
+      }
+    }
+  },
+  {
+    "id": "fa215f28b4c6",
+    "slug": "103억원어치-코인-팔아-집-산-30대연령대-중-최대-881964",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-05-09T22:17:43.386Z",
+    "updatedAt": "2026-05-09T22:17:43.386Z",
+    "sourceName": "yna.co.kr",
+    "sourceUrl": "https://www.yna.co.kr/view/AKR20260509047600003",
+    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260509047600003",
+    "titleFingerprint": "25dc6f1fe5bf68eee46a8413f485724798b5c510",
+    "dedupKeys": [
+      "fa215f28b4c627078e7a726aedd8a09dd3ca8541",
+      "25dc6f1fe5bf68eee46a8413f485724798b5c510",
+      "b0a71663e14d7efa84586d97cc5add9f9c45bdc2"
+    ],
+    "imageUrl": "/images/articles/fa215f28b4c6.jpg",
+    "i18n": {
+      "ko": {
+        "title": "30대 주택 매입 코인 매각대금 103억원, 연령대 중 최대 규모",
+        "excerpt": "연합뉴스에 따르면 주택 구입에 활용된 가상화폐 매각대금 규모는 30대가 103억원으로 집계돼 전체 연령대 가운데 가장 컸다.",
+        "body": "주택 구입 과정에서 가상화폐, 즉 코인을 팔아 마련한 자금 규모가 30대에서 가장 큰 것으로 나타났다. 연합뉴스 보도에 따르면 30대가 주택 매입에 활용한 코인 매각대금은 103억원으로 집계돼 연령대별 규모 중 최대였다. 이번 내용은 주택 구입 자금에 가상화폐 매각대금이 실제로 활용된 사례를 연령대별로 보여준다는 점에서 주목된다. 특히 30대가 다른 연령대보다 큰 규모를 기록하면서, 가상화폐 보유와 주택 매입 자금 조달이 맞물린 흐름을 확인할 수 있다. 출처: yna.co.kr"
+      },
+      "en": {
+        "title": "People in Their 30s Led Home-Buying Crypto Sales at 10.3 Billion Won",
+        "excerpt": "According to Yonhap News Agency, people in their 30s recorded 10.3 billion won in cryptocurrency sales used for home purchases, the largest among all age groups.",
+        "body": "Cryptocurrency proceeds used to buy homes were largest among people in their 30s. According to Yonhap News Agency, crypto sales used by this age group for home purchases totaled 10.3 billion won, the highest amount among all age groups. The report draws attention because it shows, by age group, actual cases in which cryptocurrency sale proceeds were used as funds for buying housing. With people in their 30s posting the largest amount, the figures highlight a link between crypto holdings and home-purchase financing. Source: yna.co.kr"
+      },
+      "ja": {
+        "title": "30代の住宅購入向け暗号資産売却額が103億ウォンで年代別最大",
+        "excerpt": "聯合ニュースによると、住宅購入に使われた暗号資産の売却代金は30代が103億ウォンとなり、全世代で最大規模だった。",
+        "body": "住宅購入の過程で暗号資産、いわゆるコインを売却して用意した資金の規模は30代が最も大きいことが分かった。聯合ニュースによると、30代が住宅購入に活用した暗号資産の売却代金は103億ウォンと集計され、年代別で最大だった。今回の内容は、住宅購入資金として暗号資産の売却代金が実際に使われた事例を年代別に示す点で注目される。特に30代が他の年代より大きな規模を記録し、暗号資産保有と住宅購入資金の調達が結び付く流れを確認できる。出典: yna.co.kr"
+      },
+      "zh": {
+        "title": "30多岁群体卖币买房金额达103亿韩元，居各年龄段之首",
+        "excerpt": "据韩联社报道，用于购房的虚拟货币出售所得中，30多岁群体为103亿韩元，在所有年龄段中规模最大。",
+        "body": "在购房过程中，通过出售虚拟货币也就是“币”来筹集资金的规模，30多岁群体最大。据韩联社报道，30多岁群体用于购买住房的虚拟货币出售所得合计为103亿韩元，在各年龄段中居首。该内容受到关注，是因为它按年龄段显示了虚拟货币出售所得实际被用于购房资金的情况。尤其是30多岁群体的规模高于其他年龄段，显示出虚拟货币持有与住房购买资金筹措之间的联系。来源: yna.co.kr"
+      },
+      "es": {
+        "title": "Treintañeros lideran ventas de cripto para comprar vivienda: 10.300 millones de wones",
+        "excerpt": "Según Yonhap, las ventas de criptomonedas usadas para comprar viviendas sumaron 10.300 millones de wones entre personas de 30 años, el mayor monto por edad.",
+        "body": "El dinero obtenido por la venta de criptomonedas y usado para comprar viviendas fue mayor entre las personas de 30 años. Según la agencia Yonhap, este grupo utilizó 10.300 millones de wones procedentes de ventas de cripto para adquirir casas, el monto más alto entre todos los grupos de edad. El dato llama la atención porque muestra, por edades, casos en los que los ingresos por venta de criptomonedas se emplearon efectivamente como fondos para comprar vivienda. Al registrar la cifra más alta, los treintañeros evidencian el vínculo entre tenencia de cripto y financiación de vivienda. Fuente: yna.co.kr"
+      },
+      "pt": {
+        "title": "Pessoas na casa dos 30 lideram venda de cripto para comprar imóvel: 10,3 bi de wones",
+        "excerpt": "Segundo a Yonhap, vendas de criptomoedas usadas na compra de imóveis somaram 10,3 bilhões de wones entre pessoas na casa dos 30, maior valor por idade.",
+        "body": "Os recursos obtidos com a venda de criptomoedas e usados para comprar imóveis foram maiores entre pessoas na casa dos 30 anos. Segundo a agência Yonhap, esse grupo utilizou 10,3 bilhões de wones em valores de venda de cripto para aquisição de moradia, o maior montante entre todas as faixas etárias. A informação chama atenção por mostrar, por idade, casos em que valores de venda de criptomoedas foram efetivamente usados como fundos para compra de imóveis. O resultado dos trintões destaca a relação entre posse de cripto e financiamento habitacional. Fonte: yna.co.kr"
+      },
+      "de": {
+        "title": "30-Jährige führten Krypto-Verkäufe für Hauskäufe an: 10,3 Mrd. Won",
+        "excerpt": "Laut Yonhap beliefen sich Krypto-Verkaufserlöse für Wohnungs- und Hauskäufe bei Menschen in den Dreißigern auf 10,3 Milliarden Won, der höchste Wert aller Altersgruppen.",
+        "body": "Die Erlöse aus dem Verkauf von Kryptowährungen, die für den Kauf von Wohnraum genutzt wurden, waren bei Menschen in den Dreißigern am größten. Laut der Nachrichtenagentur Yonhap belief sich der Betrag dieser Altersgruppe auf 10,3 Milliarden Won und lag damit über allen anderen Altersgruppen. Der Bericht ist relevant, weil er nach Altersgruppen zeigt, dass Verkaufserlöse aus Kryptowährungen tatsächlich als Mittel für den Erwerb von Wohnraum eingesetzt wurden. Dass die Dreißiger den größten Betrag verzeichneten, macht die Verbindung zwischen Kryptobesitz und Finanzierung von Hauskäufen sichtbar. Quelle: yna.co.kr"
+      },
+      "fr": {
+        "title": "Les trentenaires en tête des ventes de crypto pour acheter un logement: 10,3 mds de wons",
+        "excerpt": "Selon Yonhap, les ventes de cryptomonnaies utilisées pour acheter un logement ont atteint 10,3 milliards de wons chez les trentenaires, le plus haut niveau par âge.",
+        "body": "Les fonds issus de ventes de cryptomonnaies et utilisés pour acheter un logement ont été les plus élevés chez les personnes dans la trentaine. Selon l’agence Yonhap, ce groupe a mobilisé 10,3 milliards de wons provenant de ventes de crypto pour l’achat d’un logement, soit le montant le plus important parmi toutes les tranches d’âge. Cette donnée retient l’attention car elle montre, par âge, des cas où des produits de vente de cryptomonnaies ont réellement servi au financement immobilier. Le niveau atteint par les trentenaires met en évidence le lien entre détention de crypto et achat de logement. Source: yna.co.kr"
+      },
+      "ar": {
+        "title": "الأشخاص في الثلاثينيات يتصدرون بيع العملات المشفرة لشراء المنازل بـ10.3 مليار وون",
+        "excerpt": "بحسب يونهاب، بلغت عائدات بيع العملات المشفرة المستخدمة في شراء المساكن لدى من هم في الثلاثينيات 10.3 مليار وون، وهي الأعلى بين الفئات العمرية.",
+        "body": "أظهرت البيانات أن حجم الأموال الناتجة عن بيع العملات المشفرة واستخدامها في شراء المساكن كان الأكبر لدى الأشخاص في الثلاثينيات. ووفقاً لوكالة يونهاب للأنباء، بلغ إجمالي عائدات بيع العملات المشفرة التي استخدمتها هذه الفئة العمرية لشراء مساكن 10.3 مليار وون، وهو أعلى مستوى بين جميع الفئات العمرية. وتكتسب هذه المعلومة أهمية لأنها تعرض حسب العمر حالات استُخدمت فيها عائدات بيع العملات المشفرة فعلياً كتمويل لشراء المنازل. ويبرز تسجيل الثلاثينيين أكبر حجم صلة بين حيازة العملات المشفرة وتمويل شراء السكن. المصدر: yna.co.kr"
+      },
+      "hi": {
+        "title": "घर खरीदने के लिए क्रिप्टो बिक्री में 30 वर्ष आयु वर्ग आगे, 10.3 अरब वॉन",
+        "excerpt": "योनहाप के अनुसार, घर खरीदने में इस्तेमाल क्रिप्टोकरेंसी बिक्री राशि 30 वर्ष आयु वर्ग में 10.3 अरब वॉन रही, जो सभी आयु वर्गों में सबसे अधिक है।",
+        "body": "घर खरीदने की प्रक्रिया में क्रिप्टोकरेंसी, यानी कॉइन बेचकर जुटाई गई धनराशि 30 वर्ष आयु वर्ग में सबसे अधिक पाई गई। योनहाप समाचार एजेंसी के अनुसार, इस आयु वर्ग ने आवास खरीद के लिए 10.3 अरब वॉन की क्रिप्टो बिक्री राशि का उपयोग किया, जो सभी आयु वर्गों में सबसे बड़ा आंकड़ा था। यह जानकारी इसलिए ध्यान खींचती है क्योंकि यह उम्र के आधार पर दिखाती है कि क्रिप्टोकरेंसी बिक्री से मिली राशि वास्तव में घर खरीदने के धन स्रोत के रूप में इस्तेमाल हुई। 30 वर्ष आयु वर्ग का सबसे आगे रहना क्रिप्टो होल्डिंग और आवास खरीद वित्तपोषण के संबंध को दर्शाता है। स्रोत: yna.co.kr"
+      },
+      "id": {
+        "title": "Usia 30-an Terbesar Jual Kripto untuk Beli Rumah, Capai 10,3 Miliar Won",
+        "excerpt": "Menurut Yonhap, dana hasil penjualan kripto yang dipakai untuk membeli rumah mencapai 10,3 miliar won pada kelompok usia 30-an, terbesar di antara semua usia.",
+        "body": "Dana dari penjualan cryptocurrency atau koin yang digunakan untuk membeli rumah tercatat paling besar pada kelompok usia 30-an. Menurut kantor berita Yonhap, kelompok ini memakai hasil penjualan kripto senilai 10,3 miliar won untuk pembelian hunian, jumlah tertinggi di antara seluruh kelompok usia. Informasi ini menjadi perhatian karena menunjukkan, berdasarkan usia, kasus nyata ketika hasil penjualan cryptocurrency digunakan sebagai dana pembelian rumah. Besarnya angka pada usia 30-an memperlihatkan keterkaitan antara kepemilikan kripto dan pendanaan pembelian hunian. Sumber: yna.co.kr"
+      }
+    }
+  },
+  {
+    "id": "c3fc16570bfa",
+    "slug": "ict-中企-985-2024년-채용-안해7년-내-기업-6만-손익분기-591253",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-05-09T22:16:50.587Z",
+    "updatedAt": "2026-05-09T22:16:50.587Z",
+    "sourceName": "yna.co.kr",
+    "sourceUrl": "https://www.yna.co.kr/view/AKR20260508136100030",
+    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260508136100030",
+    "titleFingerprint": "e002586e43557ca00f27d415dad2fce23916e200",
+    "dedupKeys": [
+      "c3fc16570bfa78ca66813a4709d650eb6d6ade5f",
+      "e002586e43557ca00f27d415dad2fce23916e200",
+      "f0fdbcda69b3bbb9d24fa7ab8b5e6c67f51f49bd"
+    ],
+    "imageUrl": "/images/articles/c3fc16570bfa.jpg",
+    "i18n": {
+      "ko": {
+        "title": "ICT 중소기업 98.5%가 2024년 신규 채용 안 해…7년 내 손익분기 6% 그쳐",
+        "excerpt": "국내 ICT 분야 중소기업 거의 전부가 2024년에 신규 채용을 하지 않았다는 조사 결과가 나왔다. 7년 안에 손익분기점에 도달한 기업도 6%에 그쳐 성장 부담이 드러났다.",
+        "body": "국내 정보통신기술(ICT) 분야 중소기업의 98.5%가 2024년에 신규 채용을 하지 않았다는 조사 결과가 나왔다. 서울발 연합뉴스 보도에 따르면, 해당 조사는 ICT 중소기업의 인력 충원과 경영 성과가 모두 제한적인 상황임을 보여준다. 특히 설립 이후 7년 안에 손익분기점에 도달한 기업은 6%에 그친 것으로 나타났다. 신규 채용 부진과 낮은 손익분기 도달률은 ICT 중소기업의 성장 여건과 고용 창출 여력이 약화돼 있음을 시사한다. 관련 내용은 yna.co.kr 보도를 인용했다."
+      },
+      "en": {
+        "title": "98.5% of ICT SMEs Made No New Hires in 2024, Only 6% Break Even Within 7 Years",
+        "excerpt": "A survey found that nearly all small and midsize ICT firms in South Korea made no new hires in 2024, while only 6% reached break-even within seven years, underscoring pressure on growth.",
+        "body": "Nearly all small and midsize companies in South Korea’s information and communications technology (ICT) sector did not make new hires in 2024, according to a survey cited by Yonhap News Agency from Seoul. The survey found that 98.5% of ICT SMEs made no new recruitment during the year, pointing to limited hiring activity across the sector. It also showed that only 6% of companies reached the break-even point within seven years of establishment. The weak hiring figures and low break-even rate suggest constrained growth conditions and reduced job-creation capacity among ICT SMEs. This article cites reporting from yna.co.kr."
+      },
+      "ja": {
+        "title": "ICT中小企業の98.5％が2024年に新規採用せず、7年内の損益分岐到達は6％",
+        "excerpt": "韓国のICT分野の中小企業のほぼすべてが2024年に新規採用を行わなかったとの調査結果が出た。設立後7年以内に損益分岐点へ達した企業も6％にとどまった。",
+        "body": "韓国の情報通信技術（ICT）分野の中小企業の98.5％が、2024年に新規採用を行わなかったとの調査結果が明らかになった。ソウル発の聯合ニュース報道によると、この調査はICT中小企業の人材確保と経営成果がいずれも限定的な状況にあることを示している。特に、設立後7年以内に損益分岐点へ到達した企業は6％にとどまった。新規採用の不振と低い損益分岐到達率は、ICT中小企業の成長環境と雇用創出余力が弱まっていることを示唆する。内容はyna.co.krの報道を引用した。"
+      },
+      "zh": {
+        "title": "韩国ICT中小企业98.5%在2024年未招聘，7年内盈亏平衡仅6%",
+        "excerpt": "调查显示，韩国信息通信技术领域几乎所有中小企业在2024年没有新增招聘，成立7年内达到盈亏平衡的企业也仅占6%，反映增长压力。",
+        "body": "据首尔发出的韩联社报道，一项调查显示，韩国信息通信技术（ICT）领域中小企业中，98.5%在2024年没有进行新增招聘。该调查显示，ICT中小企业在人力补充和经营成果方面都处于受限状态。尤其是，成立后7年内达到盈亏平衡点的企业仅为6%。新增招聘低迷以及较低的盈亏平衡达成率，表明ICT中小企业的增长条件和创造就业的能力受到削弱。本文引用yna.co.kr报道。"
+      },
+      "es": {
+        "title": "El 98,5% de las pymes TIC no contrató en 2024 y solo el 6% alcanzó equilibrio en 7 años",
+        "excerpt": "Una encuesta mostró que casi todas las pymes surcoreanas del sector TIC no realizaron nuevas contrataciones en 2024, mientras solo el 6% alcanzó el punto de equilibrio en siete años.",
+        "body": "El 98,5% de las pequeñas y medianas empresas surcoreanas del sector de tecnologías de la información y la comunicación (TIC) no realizó nuevas contrataciones en 2024, según una encuesta citada por la agencia Yonhap desde Seúl. El resultado muestra que la contratación de personal y el desempeño empresarial de estas pymes TIC siguen siendo limitados. Además, solo el 6% de las empresas alcanzó el punto de equilibrio dentro de los siete años posteriores a su creación. La debilidad en nuevas contrataciones y la baja proporción de equilibrio sugieren condiciones de crecimiento restringidas y menor capacidad de generación de empleo. Este texto cita a yna.co.kr."
+      },
+      "pt": {
+        "title": "98,5% das PMEs de TIC não contrataram em 2024; só 6% atingiram equilíbrio em 7 anos",
+        "excerpt": "Uma pesquisa indicou que quase todas as PMEs sul-coreanas de TIC não fizeram novas contratações em 2024, enquanto apenas 6% chegaram ao ponto de equilíbrio em até sete anos.",
+        "body": "Uma pesquisa citada pela agência Yonhap, a partir de Seul, mostrou que 98,5% das pequenas e médias empresas sul-coreanas do setor de tecnologia da informação e comunicação (TIC) não realizaram novas contratações em 2024. O levantamento aponta que tanto a reposição de pessoal quanto os resultados de gestão dessas PMEs de TIC permanecem limitados. Também foi constatado que apenas 6% das empresas alcançaram o ponto de equilíbrio dentro de sete anos após a fundação. A fraqueza nas contratações e a baixa taxa de equilíbrio sugerem condições de crescimento restritas e menor capacidade de criação de empregos. O conteúdo cita yna.co.kr."
+      },
+      "de": {
+        "title": "98,5 % der ICT-KMU stellten 2024 nicht ein, nur 6 % erreichen Break-even binnen 7 Jahren",
+        "excerpt": "Eine Umfrage zeigt, dass fast alle südkoreanischen ICT-KMU 2024 keine Neueinstellungen vornahmen. Nur 6 % erreichten innerhalb von sieben Jahren die Gewinnschwelle.",
+        "body": "Laut einer von der Nachrichtenagentur Yonhap aus Seoul zitierten Umfrage nahmen 98,5 % der kleinen und mittleren Unternehmen im südkoreanischen Bereich Informations- und Kommunikationstechnologie (ICT) im Jahr 2024 keine Neueinstellungen vor. Die Erhebung zeigt, dass sowohl Personalaufbau als auch Geschäftsergebnisse dieser ICT-KMU begrenzt bleiben. Zudem erreichten nur 6 % der Unternehmen innerhalb von sieben Jahren nach Gründung die Gewinnschwelle. Die schwache Einstellungsaktivität und die niedrige Break-even-Quote deuten auf eingeschränkte Wachstumsbedingungen und geringere Fähigkeit zur Schaffung von Arbeitsplätzen hin. Dieser Beitrag zitiert yna.co.kr."
+      },
+      "fr": {
+        "title": "98,5 % des PME TIC n’ont pas recruté en 2024, seules 6 % à l’équilibre en 7 ans",
+        "excerpt": "Une enquête montre que presque toutes les PME sud-coréennes des TIC n’ont pas embauché en 2024, tandis que seules 6 % ont atteint le seuil de rentabilité en moins de sept ans.",
+        "body": "Selon une enquête citée par l’agence Yonhap depuis Séoul, 98,5 % des petites et moyennes entreprises sud-coréennes du secteur des technologies de l’information et de la communication (TIC) n’ont procédé à aucun nouveau recrutement en 2024. L’étude montre que le renforcement des effectifs et les résultats de gestion de ces PME TIC restent limités. Elle indique aussi que seules 6 % des entreprises ont atteint le seuil de rentabilité dans les sept ans suivant leur création. La faiblesse des embauches et le faible taux d’accès à l’équilibre suggèrent des conditions de croissance contraintes et une capacité réduite de création d’emplois. Ce texte cite yna.co.kr."
+      },
+      "ar": {
+        "title": "98.5% من شركات تكنولوجيا المعلومات الصغيرة لم توظف في 2024 و6% فقط بلغت التعادل خلال 7 سنوات",
+        "excerpt": "أظهر مسح أن معظم شركات تكنولوجيا المعلومات والاتصالات الصغيرة والمتوسطة في كوريا الجنوبية لم تجر توظيفا جديدا في 2024، وأن 6% فقط وصلت إلى نقطة التعادل خلال سبع سنوات.",
+        "body": "أظهر مسح نقلته وكالة يونهاب من سيئول أن 98.5% من الشركات الصغيرة والمتوسطة في قطاع تكنولوجيا المعلومات والاتصالات في كوريا الجنوبية لم تقم بأي توظيف جديد في عام 2024. وتشير النتائج إلى أن توسيع القوى العاملة والأداء الإداري لهذه الشركات ظلا محدودين. كما أوضح المسح أن 6% فقط من الشركات وصلت إلى نقطة التعادل خلال سبع سنوات من تأسيسها. ويشير ضعف التوظيف الجديد وانخفاض معدل الوصول إلى التعادل إلى أن ظروف النمو وقدرة خلق الوظائف لدى شركات تكنولوجيا المعلومات والاتصالات الصغيرة والمتوسطة لا تزال مقيدة. يستند هذا النص إلى تقرير yna.co.kr."
+      },
+      "hi": {
+        "title": "2024 में 98.5% ICT SMEs ने भर्ती नहीं की, 7 साल में ब्रेक-ईवन तक सिर्फ 6% पहुंचीं",
+        "excerpt": "सर्वेक्षण के अनुसार दक्षिण कोरिया की लगभग सभी ICT छोटी और मध्यम कंपनियों ने 2024 में नई भर्ती नहीं की, जबकि स्थापना के सात साल के भीतर केवल 6% कंपनियां ब्रेक-ईवन तक पहुंचीं।",
+        "body": "सियोल से योनहाप समाचार एजेंसी की रिपोर्ट के अनुसार, एक सर्वेक्षण में पाया गया कि दक्षिण कोरिया के सूचना और संचार प्रौद्योगिकी (ICT) क्षेत्र की 98.5% छोटी और मध्यम कंपनियों ने 2024 में कोई नई भर्ती नहीं की। यह सर्वेक्षण दिखाता है कि ICT SMEs में मानव संसाधन विस्तार और कारोबारी प्रदर्शन दोनों सीमित रहे। खास तौर पर, स्थापना के सात साल के भीतर ब्रेक-ईवन बिंदु तक पहुंचने वाली कंपनियां केवल 6% रहीं। नई भर्ती में कमजोरी और कम ब्रेक-ईवन दर ICT SMEs की वृद्धि परिस्थितियों और रोजगार सृजन क्षमता पर दबाव का संकेत देती है। यह सामग्री yna.co.kr की रिपोर्ट पर आधारित है।"
+      },
+      "id": {
+        "title": "98,5% UKM ICT Tak Merekrut pada 2024, Hanya 6% Capai Impas dalam 7 Tahun",
+        "excerpt": "Survei menunjukkan hampir semua UKM sektor ICT di Korea Selatan tidak melakukan perekrutan baru pada 2024, sementara hanya 6% perusahaan mencapai titik impas dalam tujuh tahun.",
+        "body": "Sebuah survei yang dikutip kantor berita Yonhap dari Seoul menunjukkan bahwa 98,5% usaha kecil dan menengah di sektor teknologi informasi dan komunikasi (ICT) Korea Selatan tidak melakukan perekrutan baru pada 2024. Hasil itu menunjukkan bahwa penambahan tenaga kerja dan kinerja usaha UKM ICT masih terbatas. Survei tersebut juga menemukan bahwa hanya 6% perusahaan yang mencapai titik impas dalam tujuh tahun sejak didirikan. Lemahnya perekrutan baru dan rendahnya tingkat pencapaian impas mengindikasikan kondisi pertumbuhan yang terbatas serta berkurangnya kapasitas penciptaan lapangan kerja. Artikel ini mengutip laporan yna.co.kr."
+      }
+    }
+  },
+  {
     "id": "46bd6382695c",
     "slug": "미국으로-쏠리고-유럽으로-확장k뷰티-해외-시장-재편-356209",
     "channelId": "ETF",
@@ -4271,231 +4496,6 @@
         "title": "Gwangju-Jeonnam Punya 490 Ribu Usaha, 6,6% dari Total Nasional",
         "excerpt": "Menurut Yonhap, jumlah usaha di Gwangju dan Jeonnam tercatat sekitar 490 ribu, setara 6,6% dari seluruh usaha di Korea Selatan.",
         "body": "Jumlah usaha di Gwangju dan Jeonnam tercatat sekitar 490 ribu, atau 6,6% dari seluruh usaha secara nasional. Menurut laporan Kantor Berita Yonhap, angka ini menunjukkan skala dasar kegiatan usaha di wilayah gabungan Gwangju dan Jeonnam. Data tersebut penting karena menampilkan jumlah usaha sekaligus porsi wilayah itu dalam total nasional. Angka utama berupa sekitar 490 ribu usaha dan pangsa nasional 6,6% menjelaskan basis aktivitas ekonomi regional. Informasi ini disampaikan dari Gwangju oleh reporter Yonhap Jeon Seung-hyun. Sumber: yna.co.kr"
-      }
-    }
-  },
-  {
-    "id": "7aa649295d32",
-    "slug": "신한투자-어버이날-기념-비대면-시니어-전용-특판rp-판매-637312",
-    "channelId": "ETF",
-    "category": "etf",
-    "publishedAt": "2026-05-09T13:32:22.551Z",
-    "updatedAt": "2026-05-09T13:32:22.551Z",
-    "sourceName": "yna.co.kr",
-    "sourceUrl": "https://www.yna.co.kr/view/AKR20260508118800008",
-    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260508118800008",
-    "titleFingerprint": "99934c36b997daac3e1d272236b2233fccd16720",
-    "dedupKeys": [
-      "7aa649295d325d9887674e8668dea39b0e630a2d",
-      "99934c36b997daac3e1d272236b2233fccd16720",
-      "a21d21b18db3a87f1654810eab2609a06c2f08fb"
-    ],
-    "imageUrl": "/images/articles/7aa649295d32.jpg",
-    "i18n": {
-      "ko": {
-        "title": "신한투자증권, 어버이날 맞아 65세 이상 비대면 시니어 특판RP 판매",
-        "excerpt": "신한투자증권은 8일 어버이날을 기념해 65세 이상 고객을 대상으로 비대면 시니어 전용 특판 환매조건부채권(RP)을 판매한다고 밝혔다.",
-        "body": "신한투자증권은 8일 어버이날을 기념해 65세 이상 고객을 대상으로 하는 비대면 시니어 전용 특판 환매조건부채권(RP)을 판매한다고 밝혔다. 이번 상품은 시니어 고객을 위한 특판 RP로, 비대면 방식으로 제공되는 점이 특징이다. RP는 금융회사가 일정 기간 뒤 되사는 조건으로 판매하는 채권형 상품이다. 신한투자증권은 어버이날을 맞아 고령층 고객을 대상으로 별도 상품을 마련했다. 이번 판매는 증권사의 시니어 고객 대상 비대면 금융상품 확대 사례로 볼 수 있다. 출처: yna.co.kr"
-      },
-      "en": {
-        "title": "Shinhan Securities Offers Online Senior-Only Special RP for Parents’ Day",
-        "excerpt": "Shinhan Securities said on May 8 that it is selling a special online repurchase agreement product for customers aged 65 and older to mark Parents’ Day.",
-        "body": "Shinhan Securities said on May 8 that it is selling a special online repurchase agreement, or RP, product exclusively for customers aged 65 and older to mark Parents’ Day. The product is designed for senior clients and is offered through a non-face-to-face channel. An RP is a bond-type product sold on the condition that the financial company repurchases it after a set period. Shinhan Securities prepared the dedicated product for older customers in connection with the holiday. The sale highlights a brokerage offering a non-face-to-face financial product aimed at senior clients. Source: yna.co.kr"
-      },
-      "ja": {
-        "title": "新韓投資証券、父母の日に65歳以上向け非対面シニア特販RPを販売",
-        "excerpt": "新韓投資証券は8日、父母の日を記念し、65歳以上の顧客を対象に非対面シニア専用の特販買戻し条件付き債券（RP）を販売すると発表した。",
-        "body": "新韓投資証券は8日、父母の日を記念し、65歳以上の顧客を対象にした非対面シニア専用の特販買戻し条件付き債券（RP）を販売すると明らかにした。今回の商品はシニア顧客向けの特販RPで、非対面方式で提供される点が特徴だ。RPは金融会社が一定期間後に買い戻す条件で販売する債券型商品を指す。新韓投資証券は父母の日に合わせ、高齢層の顧客向けに専用商品を用意した。今回の販売は、証券会社によるシニア顧客向け非対面金融商品の提供事例といえる。出典: yna.co.kr"
-      },
-      "zh": {
-        "title": "新韩投资证券母亲父亲节推出65岁以上线上老年专属特售RP",
-        "excerpt": "新韩投资证券8日表示，为纪念韩国父母节，将面向65岁及以上客户销售线上老年专属特售回购条件债券（RP）。",
-        "body": "新韩投资证券8日表示，为纪念韩国父母节，将面向65岁及以上客户销售线上老年专属特售回购条件债券（RP）。该产品是面向老年客户的特售RP，特点是通过非面对面方式提供。RP是金融公司以在一定期限后回购为条件销售的债券型产品。新韩投资证券配合父母节，为高龄客户准备了专门商品。此次销售可被视为证券公司面向老年客户扩大非面对面金融商品供给的一个案例。来源: yna.co.kr"
-      },
-      "es": {
-        "title": "Shinhan Securities lanza RP especial online para mayores de 65 por el Día de los Padres",
-        "excerpt": "Shinhan Securities informó el 8 de mayo que venderá un RP especial no presencial para clientes de 65 años o más con motivo del Día de los Padres en Corea.",
-        "body": "Shinhan Securities informó el 8 de mayo que venderá un acuerdo de recompra especial, o RP, exclusivo para clientes de 65 años o más con motivo del Día de los Padres en Corea. El producto está dirigido a clientes sénior y se ofrece mediante un canal no presencial. Un RP es un producto de tipo bono que una entidad financiera vende con la condición de recomprarlo después de un periodo determinado. Shinhan Securities preparó este producto separado para clientes de mayor edad en relación con la fecha conmemorativa. La venta muestra un caso de oferta de productos financieros no presenciales para clientes sénior por parte de una corredora. Fuente: yna.co.kr"
-      },
-      "pt": {
-        "title": "Shinhan Securities vende RP especial online para maiores de 65 anos no Dia dos Pais",
-        "excerpt": "A Shinhan Securities informou em 8 de maio que venderá um RP especial não presencial para clientes com 65 anos ou mais em celebração ao Dia dos Pais na Coreia.",
-        "body": "A Shinhan Securities informou em 8 de maio que venderá um acordo de recompra especial, ou RP, exclusivo para clientes com 65 anos ou mais em celebração ao Dia dos Pais na Coreia. O produto é voltado a clientes seniores e será oferecido por meio não presencial. Um RP é um produto do tipo título vendido por uma instituição financeira com a condição de recompra após um período determinado. A Shinhan Securities preparou o produto específico para clientes idosos em conexão com a data comemorativa. A venda mostra uma oferta de produto financeiro não presencial direcionada a clientes seniores por uma corretora. Fonte: yna.co.kr"
-      },
-      "de": {
-        "title": "Shinhan Securities verkauft Online-Sonder-RP für Kunden ab 65 zum Parents’ Day",
-        "excerpt": "Shinhan Securities teilte am 8. Mai mit, zum Parents’ Day ein nicht persönliches Sonder-Repurchase-Agreement für Kunden ab 65 Jahren zu verkaufen.",
-        "body": "Shinhan Securities teilte am 8. Mai mit, zum Parents’ Day ein nicht persönlich angebotenes Sonder-Repurchase-Agreement, kurz RP, ausschließlich für Kunden ab 65 Jahren zu verkaufen. Das Produkt richtet sich an Seniorenkunden und wird über einen kontaktlosen Kanal angeboten. Ein RP ist ein anleiheähnliches Produkt, das ein Finanzunternehmen unter der Bedingung verkauft, es nach einem festgelegten Zeitraum zurückzukaufen. Shinhan Securities stellte das separate Produkt anlässlich des Feiertags für ältere Kunden bereit. Der Verkauf zeigt ein Beispiel für ein nicht persönliches Finanzprodukt einer Wertpapierfirma für Seniorenkunden. Quelle: yna.co.kr"
-      },
-      "fr": {
-        "title": "Shinhan Securities lance un RP spécial en ligne pour les 65 ans et plus",
-        "excerpt": "Shinhan Securities a annoncé le 8 mai vendre un accord de rachat spécial non présentiel pour les clients de 65 ans et plus à l’occasion de la fête des Parents.",
-        "body": "Shinhan Securities a annoncé le 8 mai vendre un accord de rachat spécial, ou RP, réservé aux clients de 65 ans et plus à l’occasion de la fête des Parents en Corée. Le produit s’adresse aux clients seniors et il est proposé par un canal non présentiel. Un RP est un produit de type obligataire vendu par une société financière avec la condition de le racheter après une période déterminée. Shinhan Securities a préparé ce produit distinct pour les clients âgés en lien avec cette date. Cette vente illustre une offre de produit financier non présentiel destinée aux clients seniors par une société de courtage. Source: yna.co.kr"
-      },
-      "ar": {
-        "title": "شينهان للاستثمار تطرح RP خاصا لكبار السن فوق 65 عاما عبر القنوات الرقمية",
-        "excerpt": "قالت شينهان للاستثمار في 8 مايو إنها تبيع منتج اتفاقية إعادة شراء خاصا عن بعد للعملاء البالغين 65 عاما فأكثر بمناسبة يوم الوالدين في كوريا.",
-        "body": "قالت شينهان للاستثمار في 8 مايو إنها تبيع منتج اتفاقية إعادة شراء خاصا، أو RP، مخصصا للعملاء البالغين 65 عاما فأكثر بمناسبة يوم الوالدين في كوريا. ويستهدف المنتج العملاء من كبار السن، ويقدم عبر قناة غير حضورية. وRP هو منتج شبيه بالسندات تبيعه مؤسسة مالية بشرط إعادة شرائه بعد فترة محددة. وأعدت شينهان للاستثمار هذا المنتج المنفصل للعملاء الأكبر سنا ارتباطا بهذه المناسبة. وتمثل عملية البيع مثالا على تقديم شركة أوراق مالية منتجا ماليا غير حضوري مخصصا للعملاء من كبار السن. المصدر: yna.co.kr"
-      },
-      "hi": {
-        "title": "शिनहान सिक्योरिटीज ने 65 वर्ष से अधिक ग्राहकों के लिए ऑनलाइन विशेष RP पेश किया",
-        "excerpt": "शिनहान सिक्योरिटीज ने 8 मई को कहा कि वह कोरिया के पेरेंट्स डे के अवसर पर 65 वर्ष और उससे अधिक उम्र के ग्राहकों के लिए विशेष ऑनलाइन RP बेच रही है।",
-        "body": "शिनहान सिक्योरिटीज ने 8 मई को कहा कि वह कोरिया के पेरेंट्स डे के अवसर पर 65 वर्ष और उससे अधिक उम्र के ग्राहकों के लिए विशेष ऑनलाइन पुनर्खरीद समझौता, यानी RP, बेच रही है। यह उत्पाद वरिष्ठ ग्राहकों के लिए है और गैर-आमने-सामने माध्यम से उपलब्ध कराया जा रहा है। RP एक बॉन्ड-प्रकार का उत्पाद है, जिसे कोई वित्तीय कंपनी तय अवधि के बाद वापस खरीदने की शर्त पर बेचती है। शिनहान सिक्योरिटीज ने इस अवसर पर बुजुर्ग ग्राहकों के लिए अलग उत्पाद तैयार किया है। यह बिक्री वरिष्ठ ग्राहकों के लिए गैर-प्रत्यक्ष वित्तीय उत्पाद पेश करने का एक उदाहरण है। स्रोत: yna.co.kr"
-      },
-      "id": {
-        "title": "Shinhan Securities Jual RP Khusus Online untuk Nasabah 65 Tahun ke Atas",
-        "excerpt": "Shinhan Securities pada 8 Mei menyatakan menjual RP khusus non-tatap muka bagi nasabah berusia 65 tahun ke atas untuk memperingati Hari Orang Tua di Korea.",
-        "body": "Shinhan Securities pada 8 Mei menyatakan menjual repurchase agreement khusus, atau RP, secara non-tatap muka bagi nasabah berusia 65 tahun ke atas untuk memperingati Hari Orang Tua di Korea. Produk ini ditujukan untuk nasabah senior dan ditawarkan melalui kanal non-tatap muka. RP adalah produk berbentuk obligasi yang dijual perusahaan keuangan dengan syarat akan dibeli kembali setelah periode tertentu. Shinhan Securities menyiapkan produk terpisah ini bagi nasabah lanjut usia terkait hari peringatan tersebut. Penjualan ini menjadi contoh penawaran produk keuangan non-tatap muka untuk nasabah senior oleh perusahaan sekuritas. Sumber: yna.co.kr"
-      }
-    }
-  },
-  {
-    "id": "db14056a9d34",
-    "slug": "외환-원달러-환율-177원-오른-14717원1530-종가-263788",
-    "channelId": "ETF",
-    "category": "etf",
-    "publishedAt": "2026-05-09T13:31:26.055Z",
-    "updatedAt": "2026-05-09T13:31:26.055Z",
-    "sourceName": "yna.co.kr",
-    "sourceUrl": "https://www.yna.co.kr/view/AKR20260508122400002",
-    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260508122400002",
-    "titleFingerprint": "a95115337986a5f84f99a2213de0c3df18bc1ed1",
-    "dedupKeys": [
-      "db14056a9d3482df3a14a8dd5c9afbe945985a35",
-      "a95115337986a5f84f99a2213de0c3df18bc1ed1",
-      "69c982ef20c17ee2c995fc8b2cbd87d20d37d3c5"
-    ],
-    "imageUrl": "/images/articles/db14056a9d34.jpg",
-    "i18n": {
-      "ko": {
-        "title": "원/달러 환율 1,471.7원 마감, 17.7원 급등한 외환시장 종가",
-        "excerpt": "원/달러 환율이 15시 30분 종가 기준 전 거래 대비 17.7원 오른 1,471.7원에 마감했다. 외환시장은 이날 환율 상승 폭과 종가 수준에 주목했다.",
-        "body": "원/달러 환율이 15시 30분 종가 기준 1,471.7원에 마감했다. 이는 전 거래 기준보다 17.7원 오른 수준이다. 이날 외환시장에서 원/달러 환율은 종가 기준으로 상승세를 보이며 1,470원대를 넘어섰다. 공개된 원문 정보에 따르면 구체적인 장중 흐름, 상승 배경, 거래량 등 추가 수치는 제시되지 않았다. 환율이 17.7원 오른 종가를 기록하면서 시장 참가자들은 원화 가치와 달러화 흐름을 함께 확인할 필요가 있다. 이번 수치는 15시 30분 종가 기준이며, 관련 내용은 yna.co.kr을 출처로 인용한다."
-      },
-      "en": {
-        "title": "Won-Dollar Rate Closes at 1,471.7, Up 17.7 Won in FX Market",
-        "excerpt": "The won-dollar exchange rate closed at 1,471.7 won at 15:30, up 17.7 won from the previous reference point, drawing attention to the day’s FX closing level.",
-        "body": "The won-dollar exchange rate closed at 1,471.7 won at 15:30. The figure was up 17.7 won from the previous reference point. In the foreign exchange market, the rate finished higher on a closing basis and moved above the 1,470-won range. According to the source text, no additional details were provided on intraday movement, the reason for the rise, or trading volume. With the rate ending 17.7 won higher, market participants may need to monitor both the value of the won and the direction of the dollar. This figure is based on the 15:30 closing price, cited from yna.co.kr."
-      },
-      "ja": {
-        "title": "ウォン・ドル相場、17.7ウォン上昇し1,471.7ウォンで取引終了",
-        "excerpt": "ウォン・ドル相場は15時30分の終値基準で1,471.7ウォンとなり、前基準比17.7ウォン上昇した。外為市場では終値水準が注目された。",
-        "body": "ウォン・ドル相場は15時30分の終値基準で1,471.7ウォンとなった。これは前基準より17.7ウォン高い水準だ。この日の外国為替市場でウォン・ドル相場は終値ベースで上昇し、1,470ウォン台を上回った。原文情報によると、具体的な取引時間中の推移、上昇の背景、取引量などの追加数値は示されていない。相場が17.7ウォン上昇して終えたことで、市場参加者はウォンの価値とドルの流れを合わせて確認する必要がある。今回の数値は15時30分終値基準で、yna.co.krを出典として引用する。"
-      },
-      "zh": {
-        "title": "韩元兑美元汇率收于1,471.7韩元，上涨17.7韩元",
-        "excerpt": "韩元兑美元汇率按15:30收盘价计算报1,471.7韩元，较前一基准上涨17.7韩元，外汇市场关注当日收盘水平。",
-        "body": "韩元兑美元汇率按15:30收盘价计算为1,471.7韩元。该水平较前一基准上涨17.7韩元。当天外汇市场上，韩元兑美元汇率以收盘价计呈现上升，并升至1,470韩元区间以上。根据原文信息，盘中具体走势、上涨背景、交易量等追加数据未被提供。随着汇率以上涨17.7韩元的水平收盘，市场参与者需要同时关注韩元价值和美元走势。本次数值基于15:30收盘价，相关内容引用自yna.co.kr。"
-      },
-      "es": {
-        "title": "Tipo won-dólar cierra en 1.471,7 wones, con alza de 17,7",
-        "excerpt": "El tipo de cambio won-dólar cerró a las 15:30 en 1.471,7 wones, 17,7 wones más que la referencia previa, en una jornada centrada en el cierre cambiario.",
-        "body": "El tipo de cambio won-dólar cerró a las 15:30 en 1.471,7 wones. La cifra supone un aumento de 17,7 wones frente a la referencia previa. En el mercado de divisas, el tipo terminó al alza en términos de cierre y superó la zona de 1.470 wones. Según la información original, no se ofrecieron datos adicionales sobre la evolución intradía, las razones del aumento o el volumen negociado. Con un cierre 17,7 wones más alto, los participantes del mercado deberán observar tanto el valor del won como la dirección del dólar. El dato corresponde al cierre de las 15:30 y se cita con fuente en yna.co.kr."
-      },
-      "pt": {
-        "title": "Won-dólar fecha a 1.471,7 won, alta de 17,7 no câmbio",
-        "excerpt": "A taxa won-dólar fechou às 15h30 em 1.471,7 won, alta de 17,7 won ante a referência anterior, destacando o nível de fechamento no mercado cambial.",
-        "body": "A taxa de câmbio won-dólar fechou às 15h30 em 1.471,7 won. O valor representa alta de 17,7 won em relação à referência anterior. No mercado de câmbio, a taxa encerrou em alta pelo critério de fechamento e superou a faixa de 1.470 won. Segundo o texto original, não foram informados detalhes adicionais sobre a trajetória intradiária, o motivo da alta ou o volume negociado. Com o fechamento 17,7 won acima, participantes do mercado precisam acompanhar tanto o valor do won quanto o movimento do dólar. O número se baseia no fechamento das 15h30 e cita yna.co.kr como fonte."
-      },
-      "de": {
-        "title": "Won-Dollar-Kurs schließt bei 1.471,7 Won, plus 17,7 Won",
-        "excerpt": "Der Won-Dollar-Wechselkurs schloss um 15:30 Uhr bei 1.471,7 Won und lag damit 17,7 Won über dem vorherigen Referenzwert. Der Devisenmarkt blickte auf den Schlusskurs.",
-        "body": "Der Won-Dollar-Wechselkurs schloss um 15:30 Uhr bei 1.471,7 Won. Das entspricht einem Anstieg um 17,7 Won gegenüber dem vorherigen Referenzwert. Am Devisenmarkt zeigte der Kurs auf Schlusskursbasis eine Aufwärtsbewegung und überschritt die Marke von 1.470 Won. Laut Ausgangsinformation wurden keine weiteren Angaben zum Intraday-Verlauf, zu den Gründen des Anstiegs oder zum Handelsvolumen gemacht. Da der Kurs 17,7 Won höher schloss, sollten Marktteilnehmer sowohl den Wert des Won als auch die Entwicklung des Dollars beobachten. Die Angabe bezieht sich auf den Schlusskurs um 15:30 Uhr und wird mit yna.co.kr als Quelle zitiert."
-      },
-      "fr": {
-        "title": "Le won-dollar clôture à 1 471,7 wons, en hausse de 17,7",
-        "excerpt": "Le taux won-dollar a clôturé à 15h30 à 1 471,7 wons, en hausse de 17,7 wons par rapport à la référence précédente, attirant l’attention du marché des changes.",
-        "body": "Le taux de change won-dollar a clôturé à 15h30 à 1 471,7 wons. Ce niveau représente une hausse de 17,7 wons par rapport à la référence précédente. Sur le marché des changes, le taux a terminé en progression sur la base du cours de clôture et a dépassé la zone des 1 470 wons. Selon les informations d’origine, aucun détail supplémentaire n’a été fourni sur l’évolution en séance, les raisons de la hausse ou le volume des échanges. Avec une clôture supérieure de 17,7 wons, les participants au marché doivent suivre à la fois la valeur du won et l’orientation du dollar. Ce chiffre est fondé sur la clôture de 15h30 et cite yna.co.kr comme source."
-      },
-      "ar": {
-        "title": "سعر الوون مقابل الدولار يغلق عند 1,471.7 وون مرتفعا 17.7",
-        "excerpt": "أغلق سعر صرف الوون مقابل الدولار عند 1,471.7 وون في الساعة 15:30، مرتفعا 17.7 وون عن المرجع السابق، مع تركيز سوق الصرف على مستوى الإغلاق.",
-        "body": "أغلق سعر صرف الوون مقابل الدولار عند 1,471.7 وون في الساعة 15:30. ويمثل ذلك ارتفاعا قدره 17.7 وون مقارنة بالمرجع السابق. في سوق الصرف الأجنبي، أنهى السعر التعاملات على أساس الإغلاق باتجاه صاعد وتجاوز نطاق 1,470 وون. ووفقا للنص الأصلي، لم ترد تفاصيل إضافية عن حركة السعر خلال الجلسة أو خلفية الارتفاع أو حجم التداول. ومع تسجيل إغلاق أعلى بمقدار 17.7 وون، يحتاج المشاركون في السوق إلى متابعة قيمة الوون واتجاه الدولار معا. يستند هذا الرقم إلى إغلاق الساعة 15:30، والمصدر هو yna.co.kr."
-      },
-      "hi": {
-        "title": "वॉन-डॉलर दर 1,471.7 वॉन पर बंद, 17.7 वॉन की बढ़त",
-        "excerpt": "वॉन-डॉलर विनिमय दर 15:30 बजे के बंद भाव पर 1,471.7 वॉन रही, जो पिछले संदर्भ से 17.7 वॉन अधिक है; बाजार ने बंद स्तर पर ध्यान दिया।",
-        "body": "वॉन-डॉलर विनिमय दर 15:30 बजे के बंद भाव के आधार पर 1,471.7 वॉन पर बंद हुई। यह पिछले संदर्भ स्तर से 17.7 वॉन अधिक है। विदेशी मुद्रा बाजार में यह दर बंद भाव के आधार पर ऊपर रही और 1,470 वॉन के स्तर से आगे निकल गई। मूल जानकारी के अनुसार, दिन के दौरान की चाल, बढ़त की पृष्ठभूमि या कारोबार की मात्रा जैसे अतिरिक्त आंकड़े नहीं दिए गए। दर के 17.7 वॉन ऊपर बंद होने से बाजार प्रतिभागियों को वॉन के मूल्य और डॉलर की दिशा दोनों पर नजर रखनी होगी। यह आंकड़ा 15:30 बजे के बंद भाव पर आधारित है और स्रोत के रूप में yna.co.kr उद्धृत है।"
-      },
-      "id": {
-        "title": "Kurs won-dolar ditutup 1.471,7 won, naik 17,7 di pasar valas",
-        "excerpt": "Kurs won-dolar ditutup pada pukul 15.30 di 1.471,7 won, naik 17,7 won dari acuan sebelumnya, sehingga level penutupan pasar valas menjadi perhatian.",
-        "body": "Kurs won-dolar ditutup pada pukul 15.30 di level 1.471,7 won. Angka tersebut naik 17,7 won dari acuan sebelumnya. Di pasar valuta asing, kurs won-dolar menunjukkan kenaikan berdasarkan harga penutupan dan melewati kisaran 1.470 won. Menurut informasi asli, tidak ada rincian tambahan mengenai pergerakan intrahari, latar belakang kenaikan, atau volume transaksi. Dengan penutupan yang naik 17,7 won, pelaku pasar perlu mencermati nilai won dan arah pergerakan dolar secara bersamaan. Angka ini berdasarkan harga penutupan pukul 15.30, dengan yna.co.kr sebagai sumber."
-      }
-    }
-  },
-  {
-    "id": "48d422c47457",
-    "slug": "속보-코스피-상승전환해-또-사상최고7498-마감-981818",
-    "channelId": "ETF",
-    "category": "etf",
-    "publishedAt": "2026-05-09T13:30:28.585Z",
-    "updatedAt": "2026-05-09T13:30:28.585Z",
-    "sourceName": "yna.co.kr",
-    "sourceUrl": "https://www.yna.co.kr/view/AKR20260508122800008",
-    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260508122800008",
-    "titleFingerprint": "48f3f6528d60a2bc3345626140eafa3cb8ff6f28",
-    "dedupKeys": [
-      "48d422c47457bbb03970f5053f29a24bf912c10a",
-      "48f3f6528d60a2bc3345626140eafa3cb8ff6f28",
-      "a75d25362a675acf83f9a12fbd760021875f8b6b"
-    ],
-    "imageUrl": "/images/articles/48d422c47457.jpg",
-    "i18n": {
-      "ko": {
-        "title": "코스피 사상최고 7,498 마감, 상승전환 속 또 최고치 경신",
-        "excerpt": "코스피가 상승 전환하며 7,498에 마감, 또다시 사상 최고치를 기록했다고 연합뉴스가 보도했다. 국내 증시와 관련 ETF 흐름의 핵심 지표로 주목된다.",
-        "body": "코스피가 상승 전환에 성공하며 7,498로 장을 마감, 또 한 번 사상 최고치를 경신했다고 연합뉴스가 보도했다. 보도에 따르면 코스피는 장중 흐름을 바꿔 상승세로 돌아섰고, 종가 기준 7,498을 기록했다. 이번 마감 수치는 국내 주식시장 전반의 방향을 보여주는 핵심 지표로, 코스피를 추종하거나 국내 대형주 비중이 높은 ETF 투자자들에게도 확인해야 할 기준점이 된다. 다만 원문에는 상승 전환의 구체적 배경이나 업종별 등락, 거래대금 등 추가 수치는 제시되지 않았다. 출처: yna.co.kr"
-      },
-      "en": {
-        "title": "KOSPI Closes at Record 7,498 After Turning Higher Again",
-        "excerpt": "The KOSPI turned higher and closed at 7,498, setting another all-time high, Yonhap News Agency reported, making it a key reference point for Korea-focused ETF investors.",
-        "body": "The KOSPI reversed into positive territory and closed at 7,498, marking another record high, according to Yonhap News Agency. The report said the benchmark South Korean stock index changed direction during trading, moved higher, and finished at 7,498 on a closing basis. The figure is a core market reference for the broader Korean equity market and is also relevant for investors watching ETFs that track the KOSPI or hold large Korean equities. The original report did not provide additional details on the specific reason for the turnaround, sector performance, or trading value. Source: yna.co.kr"
-      },
-      "ja": {
-        "title": "KOSPI、上昇転換で7,498引け　再び史上最高値を更新",
-        "excerpt": "KOSPIは上昇に転じ、7,498で取引を終えて再び史上最高値を更新したと聯合ニュースが報じた。韓国株ETFの動向を見るうえでも注目される。",
-        "body": "KOSPIは上昇に転じ、7,498で取引を終え、再び史上最高値を更新したと聯合ニュースが報じた。報道によると、韓国株式市場の代表指数であるKOSPIは取引中に流れを変えて上昇し、終値ベースで7,498を記録した。この数値は韓国株市場全体の方向感を示す主要な指標であり、KOSPI連動型ETFや韓国大型株を多く組み入れるETFを確認する投資家にとっても基準となる。なお、原文では上昇転換の具体的な背景、業種別騰落、売買代金などの追加数値は示されていない。出典: yna.co.kr"
-      },
-      "zh": {
-        "title": "KOSPI转涨收于7,498点，再次刷新历史最高纪录",
-        "excerpt": "韩联社报道称，KOSPI转为上涨并收于7,498点，再次创下历史最高收盘纪录，成为观察韩国股市及相关ETF走势的重要指标。",
-        "body": "据韩联社报道，KOSPI成功转为上涨，并以7,498点收盘，再次刷新历史最高纪录。报道显示，作为韩国股市代表性指数，KOSPI在交易过程中改变走势转入升势，按收盘价计算达到7,498点。这一数值是观察韩国股票市场整体方向的重要指标，也为跟踪KOSPI或重仓韩国大型股的ETF投资者提供参考。不过，原文未披露此次转涨的具体原因、行业涨跌情况或成交金额等更多数据。来源: yna.co.kr"
-      },
-      "es": {
-        "title": "KOSPI cierra en récord de 7.498 tras volver a terreno positivo",
-        "excerpt": "El KOSPI giró al alza y cerró en 7.498 puntos, marcando otro máximo histórico, informó Yonhap; el dato es clave para seguir la bolsa coreana y sus ETF vinculados.",
-        "body": "El KOSPI logró pasar a terreno positivo y cerró en 7.498 puntos, con lo que volvió a marcar un máximo histórico, según informó Yonhap News Agency. De acuerdo con el reporte, el principal índice bursátil de Corea del Sur cambió de dirección durante la sesión, avanzó y terminó en 7.498 puntos al cierre. La cifra funciona como una referencia central para medir la dirección general del mercado accionario coreano y también es relevante para quienes siguen ETF ligados al KOSPI o con alta exposición a grandes empresas coreanas. El texto original no ofreció detalles adicionales sobre la causa concreta del giro, el desempeño sectorial ni el valor negociado. Fuente: yna.co.kr"
-      },
-      "pt": {
-        "title": "KOSPI fecha em recorde de 7.498 após virar para alta",
-        "excerpt": "O KOSPI virou para alta e fechou em 7.498 pontos, renovando a máxima histórica, informou a Yonhap; o dado é referência para ações coreanas e ETFs relacionados.",
-        "body": "O KOSPI conseguiu virar para alta e fechou em 7.498 pontos, renovando mais uma vez seu recorde histórico, segundo informou a Yonhap News Agency. De acordo com a notícia, o principal índice acionário da Coreia do Sul mudou de direção durante o pregão, passou a subir e terminou em 7.498 pontos no fechamento. Esse número é uma referência central para acompanhar o rumo geral do mercado de ações coreano e também importa para investidores que observam ETFs ligados ao KOSPI ou com peso elevado em grandes empresas da Coreia. O texto original não trouxe detalhes adicionais sobre o motivo específico da virada, o desempenho por setor ou o volume financeiro negociado. Fonte: yna.co.kr"
-      },
-      "de": {
-        "title": "KOSPI schließt nach Dreh ins Plus bei Rekordstand von 7.498",
-        "excerpt": "Der KOSPI drehte ins Plus und schloss bei 7.498 Punkten auf einem weiteren Allzeithoch, berichtete Yonhap; der Wert ist wichtig für Korea-Aktien und ETFs.",
-        "body": "Der KOSPI drehte in den positiven Bereich und schloss bei 7.498 Punkten, womit er erneut ein Allzeithoch erreichte, wie Yonhap News Agency berichtete. Dem Bericht zufolge änderte der südkoreanische Leitindex im Handelsverlauf seine Richtung, stieg und beendete die Sitzung auf Schlusskursbasis bei 7.498 Punkten. Dieser Stand ist ein zentraler Bezugspunkt für die Richtung des breiten koreanischen Aktienmarkts und auch für Anleger relevant, die KOSPI-nahe ETFs oder Fonds mit hohem Anteil großer koreanischer Unternehmen beobachten. Der Originalbericht nannte keine weiteren Details zu den konkreten Gründen der Wende, zur Sektorentwicklung oder zum Handelsvolumen. Quelle: yna.co.kr"
-      },
-      "fr": {
-        "title": "Le KOSPI clôture à un record de 7 498 après un retour en hausse",
-        "excerpt": "Le KOSPI est repassé en hausse et a clôturé à 7 498 points, inscrivant un nouveau record historique, selon Yonhap; un repère clé pour les actions coréennes et ETF liés.",
-        "body": "Le KOSPI est repassé en territoire positif et a clôturé à 7 498 points, établissant une nouvelle fois un record historique, selon l’agence Yonhap. D’après le reportage, l’indice de référence du marché actions sud-coréen a changé de direction pendant la séance, est monté, puis a terminé à 7 498 points en clôture. Ce niveau constitue un repère central pour suivre l’orientation générale de la Bourse coréenne et concerne aussi les investisseurs qui surveillent des ETF liés au KOSPI ou fortement exposés aux grandes valeurs coréennes. Le texte original ne fournit pas d’autres précisions sur la raison exacte du retournement, la performance par secteur ou le montant des échanges. Source: yna.co.kr"
-      },
-      "ar": {
-        "title": "كوسبي يغلق عند مستوى قياسي 7,498 بعد تحوله للصعود",
-        "excerpt": "تحول مؤشر كوسبي إلى الارتفاع وأغلق عند 7,498 نقطة، مسجلا قمة تاريخية جديدة، وفق وكالة يونهاب، في إشارة مهمة لسوق الأسهم الكورية وصناديق ETF المرتبطة بها.",
-        "body": "تحول مؤشر كوسبي إلى المنطقة الإيجابية وأغلق عند 7,498 نقطة، مسجلا مرة أخرى أعلى مستوى تاريخي، بحسب ما أفادت وكالة يونهاب للأنباء. ووفقا للتقرير، غيّر المؤشر الرئيسي لسوق الأسهم في كوريا الجنوبية اتجاهه أثناء التداول، وصعد لينهي الجلسة عند 7,498 نقطة على أساس الإغلاق. ويعد هذا الرقم مرجعا أساسيا لاتجاه سوق الأسهم الكورية عموما، كما يهم المستثمرين الذين يتابعون صناديق ETF المرتبطة بكوسبي أو ذات الانكشاف الكبير على الأسهم الكورية الكبرى. ولم يذكر النص الأصلي تفاصيل إضافية عن السبب المحدد للتحول، أو أداء القطاعات، أو قيمة التداول. المصدر: yna.co.kr"
-      },
-      "hi": {
-        "title": "KOSPI चढ़कर 7,498 पर बंद, फिर बना सर्वकालिक उच्च स्तर",
-        "excerpt": "Yonhap के अनुसार KOSPI ने तेजी की ओर रुख किया और 7,498 पर बंद होकर नया सर्वकालिक उच्च बनाया। यह कोरियाई शेयर बाजार और संबंधित ETF के लिए अहम संकेतक है।",
-        "body": "Yonhap News Agency के अनुसार, KOSPI तेजी की ओर लौटकर 7,498 पर बंद हुआ और एक बार फिर सर्वकालिक उच्च स्तर दर्ज किया। रिपोर्ट के मुताबिक, दक्षिण कोरिया के प्रमुख शेयर सूचकांक ने कारोबार के दौरान दिशा बदली, बढ़त में आया और क्लोजिंग आधार पर 7,498 पर समाप्त हुआ। यह आंकड़ा व्यापक कोरियाई शेयर बाजार की दिशा समझने के लिए मुख्य संकेतक है और KOSPI को ट्रैक करने वाले या बड़ी कोरियाई कंपनियों में अधिक निवेश रखने वाले ETF पर नजर रखने वाले निवेशकों के लिए भी उपयोगी संदर्भ है। मूल रिपोर्ट में तेजी की ओर बदलाव के विशिष्ट कारण, सेक्टरवार प्रदर्शन या कारोबार मूल्य जैसे अतिरिक्त आंकड़े नहीं दिए गए। स्रोत: yna.co.kr"
-      },
-      "id": {
-        "title": "KOSPI Ditutup Rekor 7.498 Setelah Berbalik Menguat Lagi",
-        "excerpt": "KOSPI berbalik menguat dan ditutup di 7.498, kembali mencetak rekor tertinggi sepanjang masa, menurut Yonhap; angka ini penting bagi pasar saham Korea dan ETF terkait.",
-        "body": "KOSPI berhasil berbalik menguat dan ditutup di 7.498, kembali mencetak rekor tertinggi sepanjang masa, menurut laporan Yonhap News Agency. Berdasarkan laporan tersebut, indeks utama saham Korea Selatan mengubah arah selama perdagangan, masuk ke zona positif, lalu berakhir di level 7.498 pada basis penutupan. Angka ini menjadi acuan utama untuk membaca arah pasar saham Korea secara luas dan juga relevan bagi investor yang memantau ETF pelacak KOSPI atau ETF dengan porsi besar pada saham perusahaan besar Korea. Laporan asli tidak memberikan rincian tambahan mengenai penyebab khusus pembalikan, kinerja sektoral, atau nilai transaksi. Sumber: yna.co.kr"
       }
     }
   }
