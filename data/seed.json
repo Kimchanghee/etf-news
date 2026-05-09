@@ -1,5 +1,230 @@
 [
   {
+    "id": "2385fbdd6c2d",
+    "slug": "다음주-경제-4월-취업자-얼마나-늘었나kdi-경제전망도-관심-608577",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-05-09T01:00:05.515Z",
+    "updatedAt": "2026-05-09T01:00:05.515Z",
+    "sourceName": "yna.co.kr",
+    "sourceUrl": "https://www.yna.co.kr/view/AKR20260509014400002",
+    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260509014400002",
+    "titleFingerprint": "e8dc6af9af3f61ae883236deb704235c2ba0c475",
+    "dedupKeys": [
+      "2385fbdd6c2dd1be270715469993f113e01863c1",
+      "e8dc6af9af3f61ae883236deb704235c2ba0c475",
+      "4a7e5403ae83abf6a4fcdd11f7527757c9bacd2d"
+    ],
+    "imageUrl": "/images/articles/2385fbdd6c2d.jpg",
+    "i18n": {
+      "ko": {
+        "title": "4월 취업자 증가폭 주목…다음 주 KDI 경제전망도 공개",
+        "excerpt": "다음 주 11∼15일에는 4월 취업자 증가폭과 수출입 물가, 가계대출 추이, KDI 경제전망이 공개돼 최근 한국 경제 흐름을 가늠할 주요 지표가 나온다.",
+        "body": "다음 주 11∼15일에는 한국의 최근 고용 상황과 물가 흐름, 금융 여건을 확인할 수 있는 경제 지표들이 잇따라 공개된다. 특히 4월 취업자가 얼마나 늘었는지가 핵심 관심사로 꼽힌다. 수출입 물가 지표는 대외 가격 흐름을 살피는 자료가 되고, 가계대출 추이는 금융권 대출 수요와 가계 부담을 판단하는 데 활용된다. 한국개발연구원 KDI의 경제전망도 함께 주목된다. 이번 지표들은 향후 경기 판단과 정책 논의에 참고될 전망이다. 출처: yna.co.kr"
+      },
+      "en": {
+        "title": "April Job Gains in Focus as KDI Economic Outlook Arrives Next Week",
+        "excerpt": "From May 11 to 15, South Korea will release key data on April employment, export and import prices, household loans, and KDI’s economic outlook.",
+        "body": "From May 11 to 15, South Korea is set to release economic indicators that will help assess recent labor conditions, price trends, and financial circumstances. The main focus is how much the number of employed people increased in April. Export and import price data will provide a view of external price movements, while household loan trends will help gauge loan demand and household burdens. The Korea Development Institute’s economic outlook will also draw attention. The data are expected to inform assessments of the economy and related policy discussions. Source: yna.co.kr"
+      },
+      "ja": {
+        "title": "4月就業者の増加幅に注目、来週はKDI経済見通しも公表",
+        "excerpt": "5月11～15日には韓国で4月の就業者数、輸出入物価、家計貸出の推移、KDI経済見通しが公表され、景気判断の材料となる。",
+        "body": "5月11～15日には、韓国の最近の雇用状況や物価の流れ、金融環境を確認できる経済指標が相次いで公表される。特に4月の就業者がどれだけ増えたかが主要な関心事となる。輸出入物価の指標は対外価格の動きを見る材料となり、家計貸出の推移は金融圏の貸出需要と家計負担を判断する際に活用される。韓国開発研究院KDIの経済見通しも注目される。これらの指標は今後の景気判断と政策議論の参考になる見通しだ。出典: yna.co.kr"
+      },
+      "zh": {
+        "title": "4月就业人数增幅受关注，下周KDI经济展望也将发布",
+        "excerpt": "5月11日至15日，韩国将公布4月就业、进出口物价、家庭贷款走势及KDI经济展望，用于观察近期经济动向。",
+        "body": "5月11日至15日，韩国将陆续公布可观察近期就业状况、物价走势和金融环境的经济指标。其中，4月就业人数增加多少被视为核心关注点。进出口物价指标将用于了解对外价格变化，家庭贷款走势则可帮助判断金融机构贷款需求和家庭负担。韩国开发研究院KDI的经济展望也将受到关注。这些指标预计将为今后的景气判断和政策讨论提供参考。来源: yna.co.kr"
+      },
+      "es": {
+        "title": "Empleo de abril y previsión del KDI centran la agenda económica coreana",
+        "excerpt": "Entre el 11 y el 15 de mayo, Corea del Sur publicará datos de empleo de abril, precios de comercio exterior, préstamos familiares y previsión del KDI.",
+        "body": "Entre el 11 y el 15 de mayo, Corea del Sur divulgará indicadores económicos que permitirán evaluar la situación reciente del empleo, la evolución de los precios y las condiciones financieras. El principal foco será cuánto aumentó el número de ocupados en abril. Los precios de exportación e importación servirán para observar la tendencia de los precios externos, mientras que los préstamos a los hogares ayudarán a medir la demanda crediticia y la carga financiera familiar. También atraerá atención la previsión económica del Instituto de Desarrollo de Corea, KDI. Estos datos servirán de referencia para el diagnóstico económico y el debate de políticas. Fuente: yna.co.kr"
+      },
+      "pt": {
+        "title": "Emprego de abril e projeção do KDI pautam semana econômica na Coreia",
+        "excerpt": "De 11 a 15 de maio, a Coreia do Sul divulgará emprego de abril, preços de exportação e importação, crédito às famílias e a projeção do KDI.",
+        "body": "De 11 a 15 de maio, a Coreia do Sul divulgará indicadores econômicos que ajudam a avaliar a situação recente do emprego, a trajetória dos preços e as condições financeiras. O principal ponto de atenção será quanto aumentou o número de pessoas empregadas em abril. Os preços de exportação e importação servirão para observar movimentos de preços externos, enquanto a tendência dos empréstimos às famílias ajudará a medir a demanda por crédito e o peso financeiro sobre os lares. A projeção econômica do Instituto de Desenvolvimento da Coreia, KDI, também será acompanhada. Os dados devem orientar avaliações sobre a economia e discussões de política. Fonte: yna.co.kr"
+      },
+      "de": {
+        "title": "April-Beschäftigung und KDI-Ausblick prägen Koreas Wirtschaftswoche",
+        "excerpt": "Vom 11. bis 15. Mai veröffentlicht Südkorea Daten zu Beschäftigung, Export- und Importpreisen, Haushaltskrediten sowie den KDI-Wirtschaftsausblick.",
+        "body": "Vom 11. bis 15. Mai veröffentlicht Südkorea mehrere Wirtschaftsindikatoren, die Aufschluss über die jüngste Lage am Arbeitsmarkt, die Preisentwicklung und die Finanzbedingungen geben. Im Mittelpunkt steht, wie stark die Zahl der Beschäftigten im April gestiegen ist. Die Export- und Importpreisdaten zeigen externe Preisbewegungen, während die Entwicklung der Haushaltskredite Hinweise auf Kreditnachfrage und finanzielle Belastungen der privaten Haushalte liefert. Auch der Wirtschaftsausblick des Korea Development Institute, KDI, wird beachtet. Die Daten dürften als Grundlage für Konjunktureinschätzungen und politische Debatten dienen. Quelle: yna.co.kr"
+      },
+      "fr": {
+        "title": "Emploi d’avril et prévisions du KDI au centre de la semaine économique",
+        "excerpt": "Du 11 au 15 mai, la Corée du Sud publiera l’emploi d’avril, les prix à l’export-import, les prêts aux ménages et les prévisions du KDI.",
+        "body": "Du 11 au 15 mai, la Corée du Sud publiera plusieurs indicateurs permettant d’évaluer la situation récente de l’emploi, l’évolution des prix et les conditions financières. Le principal point d’attention sera l’ampleur de la hausse du nombre de personnes employées en avril. Les prix à l’exportation et à l’importation aideront à suivre les mouvements de prix extérieurs, tandis que les prêts aux ménages permettront d’apprécier la demande de crédit et la charge financière des foyers. Les prévisions économiques du Korea Development Institute, KDI, seront également suivies. Ces données devraient servir de référence pour l’analyse conjoncturelle et les discussions de politique économique. Source: yna.co.kr"
+      },
+      "ar": {
+        "title": "وظائف أبريل وتوقعات KDI الاقتصادية تتصدران أسبوع كوريا المقبل",
+        "excerpt": "بين 11 و15 مايو، تنشر كوريا الجنوبية بيانات التوظيف في أبريل وأسعار الصادرات والواردات وقروض الأسر وتوقعات KDI الاقتصادية.",
+        "body": "بين 11 و15 مايو، تعتزم كوريا الجنوبية نشر مؤشرات اقتصادية تساعد في تقييم أوضاع التوظيف الأخيرة واتجاهات الأسعار والظروف المالية. وسيكون محور الاهتمام مقدار الزيادة في عدد العاملين خلال أبريل. وتوفر بيانات أسعار الصادرات والواردات أساسا لمتابعة تحركات الأسعار الخارجية، بينما تساعد اتجاهات قروض الأسر في تقدير الطلب على الائتمان والعبء المالي على الأسر. كما ستحظى التوقعات الاقتصادية الصادرة عن معهد التنمية الكوري KDI بالاهتمام. ومن المتوقع أن تشكل هذه البيانات مرجعا لتقييم الاقتصاد ومناقشات السياسات. المصدر: yna.co.kr"
+      },
+      "hi": {
+        "title": "अप्रैल रोजगार वृद्धि पर नजर, अगले सप्ताह KDI आर्थिक अनुमान भी आएगा",
+        "excerpt": "11 से 15 मई के बीच दक्षिण कोरिया अप्रैल रोजगार, निर्यात-आयात कीमतों, घरेलू कर्ज और KDI आर्थिक अनुमान से जुड़े अहम आंकड़े जारी करेगा।",
+        "body": "11 से 15 मई के बीच दक्षिण कोरिया ऐसे आर्थिक संकेतक जारी करेगा जिनसे हालिया रोजगार स्थिति, कीमतों की दिशा और वित्तीय परिस्थितियों का आकलन किया जा सकेगा। मुख्य ध्यान इस बात पर रहेगा कि अप्रैल में रोजगार पाने वालों की संख्या कितनी बढ़ी। निर्यात और आयात मूल्य आंकड़े बाहरी कीमतों की चाल समझने में मदद करेंगे, जबकि घरेलू कर्ज का रुझान ऋण मांग और परिवारों पर वित्तीय बोझ को परखने के लिए उपयोगी होगा। कोरिया डेवलपमेंट इंस्टीट्यूट KDI का आर्थिक अनुमान भी ध्यान में रहेगा। ये आंकड़े आगे की आर्थिक समीक्षा और नीति चर्चा के लिए संदर्भ बन सकते हैं। स्रोत: yna.co.kr"
+      },
+      "id": {
+        "title": "Kenaikan Pekerja April dan Prospek KDI Jadi Fokus Ekonomi Korea",
+        "excerpt": "Pada 11–15 Mei, Korea Selatan akan merilis data pekerja April, harga ekspor-impor, pinjaman rumah tangga, serta prospek ekonomi KDI.",
+        "body": "Pada 11–15 Mei, Korea Selatan akan merilis sejumlah indikator ekonomi yang dapat digunakan untuk menilai kondisi ketenagakerjaan terbaru, pergerakan harga, dan situasi keuangan. Perhatian utama tertuju pada seberapa besar jumlah pekerja bertambah pada April. Data harga ekspor dan impor akan menjadi bahan untuk melihat pergerakan harga eksternal, sementara tren pinjaman rumah tangga membantu menilai permintaan kredit dan beban keuangan keluarga. Prospek ekonomi dari Korea Development Institute, KDI, juga akan diperhatikan. Data ini diperkirakan menjadi rujukan bagi penilaian ekonomi dan pembahasan kebijakan. Sumber: yna.co.kr"
+      }
+    }
+  },
+  {
+    "id": "1cc149575e68",
+    "slug": "부고-오준일대원제약-이사씨-장인상-108103",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-05-09T00:59:14.556Z",
+    "updatedAt": "2026-05-09T00:59:14.556Z",
+    "sourceName": "yna.co.kr",
+    "sourceUrl": "https://www.yna.co.kr/view/AKR20260509020800017",
+    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260509020800017",
+    "titleFingerprint": "bb800a3c9cb8c8adc3b1f4d8e5d668468e162a20",
+    "dedupKeys": [
+      "1cc149575e685582801abd71c5db41552c777659",
+      "bb800a3c9cb8c8adc3b1f4d8e5d668468e162a20",
+      "686e9008b5e672ba5e912c5ec81416a0276485f9"
+    ],
+    "imageUrl": "/images/articles/1cc149575e68.jpg",
+    "i18n": {
+      "ko": {
+        "title": "대원제약 오준일 이사 장인상, 중앙대병원 장례식장 빈소 마련",
+        "excerpt": "신동석 씨가 8일 별세했으며 오준일 대원제약 ICT지원부 이사의 장인상 소식이 전해졌다. 빈소는 서울 동작구 중앙대병원 장례식장 2호실, 발인은 11일 오전 5시다.",
+        "body": "신동석 씨가 8일 별세했다. 고인은 오준일 대원제약 ICT지원부 이사의 장인으로, 빈소는 서울 동작구 중앙대병원 장례식장 2호실에 마련됐다. 발인은 11일 오전 5시로 예정돼 있다. 이번 부고는 유족과 지인, 회사 관계자들이 조문 일정과 장례 절차를 확인할 수 있도록 공개된 내용이다. 원문에 따르면 장례 장소와 발인 시각이 함께 안내됐으며, 추가 정보는 공개된 부고 범위 내에서 확인된다. 출처: yna.co.kr"
+      },
+      "en": {
+        "title": "Daewon Pharmaceutical Director Oh Jun-il’s Father-in-Law Dies; Funeral Set in Seoul",
+        "excerpt": "Shin Dong-seok died on the 8th, marking the bereavement of Oh Jun-il, director of ICT support at Daewon Pharmaceutical. The funeral hall is Room 2 at Chung-Ang University Hospital in Dongjak-gu, Seoul, with the funeral procession set for 5 a.m. on the 11th.",
+        "body": "Shin Dong-seok died on the 8th. He was the father-in-law of Oh Jun-il, director of the ICT Support Department at Daewon Pharmaceutical. The funeral altar has been arranged in Room 2 of the funeral hall at Chung-Ang University Hospital in Dongjak-gu, Seoul. The funeral procession is scheduled for 5 a.m. on the 11th. The obituary provides the confirmed schedule and location for relatives, acquaintances and company officials wishing to pay respects. According to the original notice, the funeral venue and departure time were announced within the disclosed obituary information. Source: yna.co.kr"
+      },
+      "ja": {
+        "title": "大元製薬オ・ジュンイル理事の義父が死去、中央大病院に葬儀場",
+        "excerpt": "シン・ドンソク氏が8日に死去し、大元製薬ICT支援部のオ・ジュンイル理事の義父の訃報が伝えられた。葬儀場はソウル銅雀区の中央大病院葬儀場2号室、出棺は11日午前5時。",
+        "body": "シン・ドンソク氏が8日に死去した。故人は大元製薬ICT支援部のオ・ジュンイル理事の義父にあたる。葬儀場はソウル市銅雀区にある中央大病院葬儀場2号室に設けられた。出棺は11日午前5時に予定されている。今回の訃報は、遺族や知人、会社関係者が弔問の日程と葬儀手続きを確認できるよう公開された内容だ。原文によると、葬儀場所と出棺時刻があわせて案内されており、追加情報は公開された訃報の範囲内で確認される。出典: yna.co.kr"
+      },
+      "zh": {
+        "title": "大元制药理事吴俊一岳父去世，灵堂设于中央大学医院",
+        "excerpt": "申东锡于8日去世，消息涉及大元制药ICT支援部理事吴俊一的岳父丧事。灵堂设在首尔铜雀区中央大学医院殡仪馆2号室，出殡时间为11日上午5时。",
+        "body": "申东锡于8日去世。逝者为大元制药ICT支援部理事吴俊一的岳父，灵堂设在首尔市铜雀区中央大学医院殡仪馆2号室。出殡定于11日上午5时举行。此次讣告公开了亲属、熟人及公司相关人士确认吊唁安排和葬礼程序所需的基本信息。根据原文，公告同时列明了殡仪地点和出殡时间，其他信息以已公开的讣告内容为准。来源: yna.co.kr"
+      },
+      "es": {
+        "title": "Fallece el suegro de Oh Jun-il, director de Daewon Pharmaceutical, en Seúl",
+        "excerpt": "Shin Dong-seok falleció el día 8; era suegro de Oh Jun-il, director del departamento de apoyo TIC de Daewon Pharmaceutical. El velatorio está en la sala 2 del funeral de Chung-Ang University Hospital, con salida prevista a las 5:00 del día 11.",
+        "body": "Shin Dong-seok falleció el día 8. Era el suegro de Oh Jun-il, director del Departamento de Apoyo TIC de Daewon Pharmaceutical. El velatorio fue instalado en la sala 2 de la funeraria del Chung-Ang University Hospital, en Dongjak-gu, Seúl. La salida del cortejo fúnebre está programada para las 5:00 del día 11. El aviso ofrece la información confirmada sobre lugar y horario para familiares, conocidos y responsables de la empresa que deseen presentar condolencias. Según el texto original, se comunicaron el lugar del funeral y la hora de salida dentro del alcance del obituario publicado. Fuente: yna.co.kr"
+      },
+      "pt": {
+        "title": "Morre sogro de Oh Jun-il, diretor da Daewon Pharmaceutical; funeral em Seul",
+        "excerpt": "Shin Dong-seok morreu no dia 8; ele era sogro de Oh Jun-il, diretor de suporte de TIC da Daewon Pharmaceutical. O velório fica na sala 2 do Hospital Chung-Ang, em Dongjak-gu, Seul, e a saída está marcada para 5h do dia 11.",
+        "body": "Shin Dong-seok morreu no dia 8. Ele era sogro de Oh Jun-il, diretor do Departamento de Suporte de TIC da Daewon Pharmaceutical. O velório foi preparado na sala 2 da funerária do Hospital Chung-Ang, em Dongjak-gu, Seul. A saída do cortejo está prevista para as 5h do dia 11. O obituário reúne as informações confirmadas para que familiares, conhecidos e representantes da empresa possam verificar o local e o horário das cerimônias. De acordo com o texto original, foram informados o endereço do velório e o horário de saída dentro do escopo divulgado. Fonte: yna.co.kr"
+      },
+      "de": {
+        "title": "Schwiegervater von Daewon-Pharmaceutical-Direktor Oh Jun-il gestorben",
+        "excerpt": "Shin Dong-seok ist am 8. gestorben; er war der Schwiegervater von Oh Jun-il, Direktor der ICT-Unterstützung bei Daewon Pharmaceutical. Die Aufbahrung ist in Raum 2 der Trauerhalle des Chung-Ang University Hospital in Seoul, die Aussegnung am 11. um 5 Uhr.",
+        "body": "Shin Dong-seok ist am 8. gestorben. Er war der Schwiegervater von Oh Jun-il, Direktor der ICT-Unterstützungsabteilung bei Daewon Pharmaceutical. Die Trauerhalle befindet sich in Raum 2 des Bestattungshauses des Chung-Ang University Hospital im Bezirk Dongjak-gu in Seoul. Die Aussegnung ist für den 11. um 5 Uhr morgens angesetzt. Die Mitteilung nennt die bestätigten Angaben, damit Angehörige, Bekannte und Unternehmensvertreter Ort und Ablauf prüfen können. Laut Originalmeldung wurden Trauerort und Zeitpunkt der Aussegnung im veröffentlichten Rahmen bekannt gegeben. Quelle: yna.co.kr"
+      },
+      "fr": {
+        "title": "Décès du beau-père d’Oh Jun-il, directeur chez Daewon Pharmaceutical",
+        "excerpt": "Shin Dong-seok est décédé le 8; il était le beau-père d’Oh Jun-il, directeur du soutien TIC chez Daewon Pharmaceutical. La chambre funéraire se trouve en salle 2 de l’hôpital Chung-Ang à Dongjak-gu, Séoul, avec départ prévu le 11 à 5 h.",
+        "body": "Shin Dong-seok est décédé le 8. Il était le beau-père d’Oh Jun-il, directeur du département de soutien TIC de Daewon Pharmaceutical. La chambre funéraire a été installée en salle 2 du funérarium de l’hôpital Chung-Ang, dans l’arrondissement de Dongjak-gu à Séoul. Le départ du cortège est prévu le 11 à 5 h. Cet avis de décès fournit les informations confirmées permettant à la famille, aux connaissances et aux responsables de l’entreprise de vérifier le lieu et l’horaire des obsèques. Selon le texte original, le lieu de la cérémonie et l’heure du départ ont été annoncés dans les informations publiées. Source: yna.co.kr"
+      },
+      "ar": {
+        "title": "وفاة والد زوجة أو جون-إيل مدير دايوون فارماسيوتيكال والجنازة في سول",
+        "excerpt": "توفي شين دونغ-سوك في اليوم الثامن، وهو والد زوجة أو جون-إيل مدير دعم تقنية المعلومات والاتصالات في دايوون فارماسيوتيكال. تقام المراسم في القاعة رقم 2 بمستشفى تشونغ-آنغ الجامعي في سول، والمغادرة في الخامسة صباح اليوم الحادي عشر.",
+        "body": "توفي شين دونغ-سوك في اليوم الثامن. والراحل هو والد زوجة أو جون-إيل، مدير قسم دعم تقنية المعلومات والاتصالات في شركة دايوون فارماسيوتيكال. أُعدت قاعة العزاء في الغرفة رقم 2 بقاعة الجنائز في مستشفى تشونغ-آنغ الجامعي بمنطقة دونغجاك في سول. ومن المقرر أن تكون مغادرة الجنازة في الساعة الخامسة صباحا من اليوم الحادي عشر. يوضح النعي المعلومات المؤكدة عن المكان والموعد كي يتمكن أفراد العائلة والمعارف ومسؤولو الشركة من ترتيب واجب العزاء. وبحسب النص الأصلي، تم الإعلان عن موقع الجنازة ووقت المغادرة ضمن المعلومات المنشورة. المصدر: yna.co.kr"
+      },
+      "hi": {
+        "title": "डेवॉन फार्मास्युटिकल के निदेशक ओह जून-इल के ससुर का निधन, सियोल में अंतिम संस्कार",
+        "excerpt": "शिन डोंग-सोक का 8 तारीख को निधन हुआ। वह डेवॉन फार्मास्युटिकल के ICT सपोर्ट विभाग के निदेशक ओह जून-इल के ससुर थे। शोक कक्ष सियोल के डोंगजाक-गु स्थित चुंग-आंग यूनिवर्सिटी हॉस्पिटल के अंतिम संस्कार भवन के कक्ष 2 में है, विदाई 11 तारीख सुबह 5 बजे होगी।",
+        "body": "शिन डोंग-सोक का 8 तारीख को निधन हो गया। वह डेवॉन फार्मास्युटिकल के ICT सपोर्ट विभाग के निदेशक ओह जून-इल के ससुर थे। शोक कक्ष सियोल के डोंगजाक-गु स्थित चुंग-आंग यूनिवर्सिटी हॉस्पिटल के अंतिम संस्कार भवन के कक्ष 2 में 마련 किया गया है। अंतिम विदाई 11 तारीख सुबह 5 बजे निर्धारित है। यह शोक सूचना परिजनों, परिचितों और कंपनी से जुड़े लोगों को स्थान और समय की पुष्टि करने के लिए सार्वजनिक की गई जानकारी देती है। मूल सूचना के अनुसार, अंतिम संस्कार स्थल और विदाई समय प्रकाशित विवरण के दायरे में बताए गए हैं। स्रोत: yna.co.kr"
+      },
+      "id": {
+        "title": "Mertua Direktur Daewon Pharmaceutical Oh Jun-il Meninggal, Rumah Duka di Seoul",
+        "excerpt": "Shin Dong-seok meninggal pada tanggal 8; ia adalah mertua Oh Jun-il, direktur dukungan ICT Daewon Pharmaceutical. Rumah duka berada di ruang 2 aula pemakaman Chung-Ang University Hospital, Dongjak-gu, Seoul, dengan pemberangkatan pada tanggal 11 pukul 05.00.",
+        "body": "Shin Dong-seok meninggal pada tanggal 8. Ia adalah mertua Oh Jun-il, direktur Departemen Dukungan ICT di Daewon Pharmaceutical. Ruang duka disiapkan di ruang 2 aula pemakaman Chung-Ang University Hospital di Dongjak-gu, Seoul. Pemberangkatan jenazah dijadwalkan pada tanggal 11 pukul 05.00. Berita duka ini memuat informasi yang telah dikonfirmasi agar keluarga, kenalan, dan pihak perusahaan dapat memastikan jadwal serta lokasi penghormatan terakhir. Menurut naskah asli, lokasi rumah duka dan waktu pemberangkatan diumumkan dalam cakupan informasi yang dipublikasikan. Sumber: yna.co.kr"
+      }
+    }
+  },
+  {
+    "id": "9ac64264d355",
+    "slug": "코스피-상승률-두-배-벌었다수익률-318-터진-비결-투자톡-696850",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-05-09T00:58:11.228Z",
+    "updatedAt": "2026-05-09T00:58:11.228Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/2026042674346",
+    "canonicalUrl": "https://www.hankyung.com/article/2026042674346",
+    "titleFingerprint": "e326a42ccf165fd47457d56dec805bf86d455959",
+    "dedupKeys": [
+      "9ac64264d355026184355448bdbb911f2b4e89c4",
+      "e326a42ccf165fd47457d56dec805bf86d455959",
+      "16ab082f43929081169a2f729719e0a531bd9952"
+    ],
+    "imageUrl": "/images/articles/9ac64264d355.jpg",
+    "i18n": {
+      "ko": {
+        "title": "코스피 두 배 수익률 318% 기록한 투자톡 사례, 핵심은 원문 확인",
+        "excerpt": "한경닷컴은 ‘투자톡’ 기사에서 코스피 상승률의 두 배를 벌었다는 318% 수익률 사례를 다뤘다. 제공된 원문 정보 기준 핵심 수치는 318%와 코스피 대비 두 배다.",
+        "body": "한경닷컴은 ‘코스피 상승률 두 배 벌었다’는 제목의 투자톡 기사에서 318% 수익률을 기록한 사례를 소개했다. 제공된 원문 정보에 따르면 이 사례는 코스피 상승률의 두 배 수준을 벌었다는 점이 핵심이다. 기사 제목은 높은 수익률이 나온 배경과 비결을 다루고 있음을 시사하지만, 종목명·투자 기간·구체적 운용 방식은 제공된 요약에 포함되지 않았다. 투자자는 318%라는 수치만으로 성과를 일반화하기보다 코스피와의 비교 기준, 기간, 위험 요인을 함께 확인할 필요가 있다. 출처: hankyung.com."
+      },
+      "en": {
+        "title": "KOSPI-Beating 318% Return Highlighted in Hankyung Investment Talk",
+        "excerpt": "Hankyung.com covered an Investment Talk case claiming a 318% return, about twice the KOSPI’s gain. Based on the provided source, the key facts are the 318% figure and the KOSPI comparison.",
+        "body": "Hankyung.com introduced a case in its Investment Talk article titled that it earned twice the KOSPI’s rise, with a reported return of 318%. Based on the information provided, the central point is that the return was described as roughly double the KOSPI’s gain. The headline indicates that the article discusses the reason behind the high return, but the summary provided does not include the security name, investment period, or detailed strategy. Investors should avoid generalizing from the 318% figure alone and should check the benchmark period, KOSPI comparison method, and risk factors. Source: hankyung.com."
+      },
+      "ja": {
+        "title": "KOSPIの2倍、318％利回りの投資トーク事例を韓経が紹介",
+        "excerpt": "韓経ドットコムは投資トーク記事で、KOSPI上昇率の2倍を稼いだとされる318％利回りの事例を取り上げた。提供情報上の核心は318％とKOSPI比較だ。",
+        "body": "韓経ドットコムは「KOSPI上昇率の2倍を稼いだ」とする投資トーク記事で、318％の利回りを記録した事例を紹介した。提供された原文情報によると、この事例の核心はKOSPI上昇率の2倍水準を得たと説明された点にある。見出しは高い利回りの背景や秘訣を扱っていることを示すが、銘柄名、投資期間、具体的な運用方法は提供された要約に含まれていない。投資家は318％という数値だけで成果を一般化せず、比較基準、期間、リスク要因を確認する必要がある。出典: hankyung.com."
+      },
+      "zh": {
+        "title": "KOSPI两倍涨幅、318%收益案例获韩经投资Talk关注",
+        "excerpt": "韩经网在“投资Talk”文章中报道了一起收益率达318%、约为KOSPI涨幅两倍的案例。按已提供原文信息，核心事实是318%和与KOSPI的比较。",
+        "body": "韩经网在题为“赚到KOSPI涨幅两倍”的投资Talk文章中，介绍了一起收益率达到318%的案例。根据已提供的原文信息，该案例的核心在于其收益被描述为约为KOSPI涨幅的两倍。标题显示文章讨论了高收益背后的原因，但所给摘要未包含标的名称、投资期间或具体操作方式。投资者不宜仅凭318%这一数字概括投资成果，还应核对与KOSPI比较的基准、时间范围以及相关风险因素。来源: hankyung.com."
+      },
+      "es": {
+        "title": "Rentabilidad del 318%, el doble que el KOSPI, destaca Hankyung",
+        "excerpt": "Hankyung.com abordó en Investment Talk un caso de rentabilidad del 318%, descrita como el doble del avance del KOSPI. Con la información dada, los hechos clave son el 318% y la comparación.",
+        "body": "Hankyung.com presentó en un artículo de Investment Talk un caso con una rentabilidad del 318%, descrita en el título como el doble de la subida del KOSPI. Según la información original proporcionada, el punto central es precisamente esa comparación con el índice coreano. El titular sugiere que el texto explica el motivo de la elevada rentabilidad, pero el resumen disponible no incluye el nombre del activo, el periodo de inversión ni la estrategia concreta. Los inversores no deberían generalizar el resultado solo por la cifra del 318%; también deben revisar el periodo, la base de comparación con el KOSPI y los riesgos. Fuente: hankyung.com."
+      },
+      "pt": {
+        "title": "Retorno de 318%, o dobro do KOSPI, é destaque no Hankyung",
+        "excerpt": "O Hankyung.com tratou em Investment Talk de um caso de retorno de 318%, descrito como o dobro da alta do KOSPI. Pelas informações fornecidas, os fatos centrais são 318% e a comparação.",
+        "body": "O Hankyung.com apresentou em um artigo de Investment Talk um caso de retorno de 318%, descrito no título como equivalente ao dobro da valorização do KOSPI. Segundo as informações originais fornecidas, o ponto principal é essa comparação com o índice acionário coreano. O título indica que o texto aborda o motivo do desempenho elevado, mas o resumo disponível não traz o nome do ativo, o período de investimento nem a estratégia específica. Investidores não devem generalizar o resultado apenas pelo número de 318%; é necessário verificar o período, o critério de comparação com o KOSPI e os riscos envolvidos. Fonte: hankyung.com."
+      },
+      "de": {
+        "title": "318% Rendite, doppelt so stark wie KOSPI: Hankyung berichtet",
+        "excerpt": "Hankyung.com berichtete in Investment Talk über einen Fall mit 318% Rendite, beschrieben als etwa doppelt so hoch wie der KOSPI-Anstieg. Kernfakten sind 318% und der Indexvergleich.",
+        "body": "Hankyung.com stellte in einem Investment-Talk-Artikel einen Fall mit 318% Rendite vor, der im Titel als doppelt so hoch wie der Anstieg des KOSPI beschrieben wurde. Nach den bereitgestellten Originalinformationen ist dieser Vergleich mit dem koreanischen Leitindex der zentrale Punkt. Die Überschrift deutet an, dass der Artikel den Grund für die hohe Rendite behandelt; der verfügbare Auszug nennt jedoch weder den Anlagewert noch den Zeitraum oder die konkrete Strategie. Anleger sollten die 318% daher nicht isoliert verallgemeinern, sondern Vergleichszeitraum, KOSPI-Basis und Risikofaktoren prüfen. Quelle: hankyung.com."
+      },
+      "fr": {
+        "title": "Rendement de 318%, deux fois le KOSPI, cité par Hankyung",
+        "excerpt": "Hankyung.com a présenté dans Investment Talk un cas de rendement de 318%, décrit comme deux fois la hausse du KOSPI. D’après les données fournies, les faits clés sont 318% et la comparaison.",
+        "body": "Hankyung.com a présenté dans un article Investment Talk un cas de rendement de 318%, décrit dans le titre comme deux fois la progression du KOSPI. Selon les informations originales fournies, l’élément central est cette comparaison avec l’indice coréen. Le titre indique que l’article traite de la raison de cette performance élevée, mais le résumé disponible ne précise ni le titre financier, ni la période d’investissement, ni la stratégie utilisée. Les investisseurs ne devraient donc pas généraliser ce résultat à partir du seul chiffre de 318%; ils doivent vérifier la période, la base de comparaison avec le KOSPI et les risques. Source: hankyung.com."
+      },
+      "ar": {
+        "title": "عائد 318% يتجاوز صعود كوسبي بمرتين في تقرير لهانكيونغ",
+        "excerpt": "تناول Hankyung.com في مقال Investment Talk حالة عائد بلغت 318%، ووصفت بأنها تعادل نحو ضعف صعود مؤشر كوسبي. وفق المعلومات المتاحة، الحقائق الأساسية هي 318% والمقارنة بالمؤشر.",
+        "body": "عرض Hankyung.com في مقال ضمن Investment Talk حالة حققت عائدا نسبته 318%، ووصفها العنوان بأنها كسبت ضعف معدل صعود مؤشر كوسبي. وبحسب معلومات النص الأصلي المتاحة، فإن النقطة الأساسية هي مقارنة هذا العائد بأداء المؤشر الكوري. يشير العنوان إلى أن المقال يتناول سبب هذا العائد المرتفع، لكن الملخص المقدم لا يتضمن اسم الأصل أو فترة الاستثمار أو طريقة الإدارة التفصيلية. لذلك لا ينبغي للمستثمرين تعميم النتيجة من رقم 318% وحده، بل يجب التحقق من فترة المقارنة، وطريقة قياسها مقابل كوسبي، وعوامل المخاطر. المصدر: hankyung.com."
+      },
+      "hi": {
+        "title": "KOSPI से दोगुना 318% रिटर्न, Hankyung ने निवेश केस बताया",
+        "excerpt": "Hankyung.com ने Investment Talk लेख में 318% रिटर्न वाले एक मामले को कवर किया, जिसे KOSPI की बढ़त से करीब दोगुना बताया गया। उपलब्ध जानकारी में मुख्य तथ्य 318% और KOSPI तुलना हैं।",
+        "body": "Hankyung.com ने Investment Talk लेख में 318% रिटर्न दर्ज करने वाले एक मामले को पेश किया, जिसे शीर्षक में KOSPI की बढ़त से दोगुना बताया गया। उपलब्ध मूल जानकारी के अनुसार, इस मामले का मुख्य बिंदु यही है कि रिटर्न को कोरियाई सूचकांक KOSPI की तुलना में लगभग दोगुना बताया गया। शीर्षक संकेत देता है कि लेख ऊंचे रिटर्न के कारण पर चर्चा करता है, लेकिन दिए गए सार में संपत्ति का नाम, निवेश अवधि या विस्तृत रणनीति शामिल नहीं है। निवेशकों को केवल 318% के आंकड़े से निष्कर्ष नहीं निकालना चाहिए; तुलना की अवधि, KOSPI आधार और जोखिम कारकों की जांच जरूरी है। स्रोत: hankyung.com."
+      },
+      "id": {
+        "title": "Imbal Hasil 318%, Dua Kali Kenaikan KOSPI, Disorot Hankyung",
+        "excerpt": "Hankyung.com dalam Investment Talk membahas kasus imbal hasil 318% yang disebut sekitar dua kali kenaikan KOSPI. Berdasarkan informasi yang tersedia, fakta utamanya adalah 318% dan perbandingan KOSPI.",
+        "body": "Hankyung.com memperkenalkan dalam artikel Investment Talk sebuah kasus imbal hasil 318% yang pada judulnya disebut meraih dua kali kenaikan KOSPI. Berdasarkan informasi asli yang diberikan, inti kasus ini adalah perbandingan imbal hasil tersebut dengan indeks saham Korea. Judul menunjukkan artikel membahas alasan di balik imbal hasil tinggi itu, tetapi ringkasan yang tersedia tidak memuat nama aset, periode investasi, atau strategi rinci. Investor sebaiknya tidak menggeneralisasi kinerja hanya dari angka 318%; periode pembanding, dasar perbandingan dengan KOSPI, dan faktor risiko tetap perlu diperiksa. Sumber: hankyung.com."
+      }
+    }
+  },
+  {
     "id": "e822b3e1884f",
     "slug": "생산-감소에-고유가판매-부진까지창원-미더덕-어민-삼중고-774322",
     "channelId": "ETF",
@@ -4271,231 +4496,6 @@
         "title": "Hyundai Motor Jeda Sebelum ‘7.000 Pi’, Harapan Robotik Jadi Fokus Restart",
         "excerpt": "Hyundai Motor mengambil jeda sebelum mencapai ‘7.000 Pi’, sementara ekspektasi terkait robotik muncul sebagai faktor restart saham, menurut hankyung.com.",
         "body": "Hyundai Motor memasuki fase jeda sebelum tonggak yang disebut ‘7.000 Pi’. Menurut hankyung.com, saham perusahaan menunjukkan penyesuaian laju dalam pergerakan terbaru, sementara ekspektasi terkait robotik kembali menarik perhatian pasar. Artikel itu merangkum kondisi saat ini dengan kata ‘jeda’ dan ‘restart’. Latar belakangnya mencakup pergerakan saham otomotif dan minat pasar terhadap narasi robotik. Informasi inti yang terkonfirmasi dari sumber terbatas pada Hyundai Motor, ‘7.000 Pi’, robotik, dan restart. Dampak berikutnya dapat bergantung pada apakah ekspektasi robotik berubah menjadi pemulihan sentimen investor. Sumber: hankyung.com."
-      }
-    }
-  },
-  {
-    "id": "79ed2ca1a831",
-    "slug": "1분기-배곯은-쉐이크쉑-하루새-주가-28-증발-409291",
-    "channelId": "ETF",
-    "category": "etf",
-    "publishedAt": "2026-05-08T13:23:58.001Z",
-    "updatedAt": "2026-05-08T13:23:58.001Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/2026050848551",
-    "canonicalUrl": "https://www.hankyung.com/article/2026050848551",
-    "titleFingerprint": "0a22314e301d35b6f7f809eb00e13191b5fdd4f7",
-    "dedupKeys": [
-      "79ed2ca1a831855ebdcba603ac1f70195afc1b4d",
-      "0a22314e301d35b6f7f809eb00e13191b5fdd4f7",
-      "ba602810cfe08def7c8fcddf3107c38175fa4ef9"
-    ],
-    "imageUrl": "/images/articles/79ed2ca1a831.png",
-    "i18n": {
-      "ko": {
-        "title": "쉐이크쉑 1분기 부진에 주가 하루 새 28% 급락, 투자심리 흔들렸다",
-        "excerpt": "쉐이크쉑은 1분기 부진 여파로 하루 만에 주가가 28% 증발했다. hankyung.com은 실적 우려가 투자심리에 부담으로 작용했다고 전했다.",
-        "body": "미국 버거 체인 쉐이크쉑 주가가 1분기 부진 여파로 하루 새 28% 급락했다. 한국경제(hankyung.com)에 따르면 ‘1분기 배곯은 쉐이크쉑’이라는 평가 속에 시장은 실적 흐름을 부정적으로 받아들였다. 기사에서 확인되는 핵심 수치는 하루 만의 주가 28% 증발이다. 이는 단기적으로 투자자들이 1분기 성과와 향후 성장성에 대해 경계감을 키웠다는 신호로 읽힌다. 다만 제공된 원문 정보에는 매출, 순이익, 가이던스 등 추가 세부 수치는 포함되지 않았다. 출처: hankyung.com"
-      },
-      "en": {
-        "title": "Shake Shack stock plunges 28% in one day after weak first quarter",
-        "excerpt": "Shake Shack lost 28% of its market value in a single day after a weak first quarter, with hankyung.com reporting that earnings concerns weighed on investor sentiment.",
-        "body": "Shake Shack shares fell 28% in one day after a weak first quarter. According to hankyung.com, the market reacted negatively to the company’s first-quarter performance, described in the source headline as a quarter in which Shake Shack was left “hungry.” The key figure available from the original information is the 28% single-day drop in the stock price. The move suggests investors became more cautious about the company’s recent performance and outlook. The provided source text does not include additional figures such as revenue, net income or guidance. Source: hankyung.com"
-      },
-      "ja": {
-        "title": "シェイクシャック株が1日で28％急落、1四半期不振を市場が嫌気",
-        "excerpt": "シェイクシャックは第1四半期の不振を受け、株価が1日で28％下落した。hankyung.comは業績懸念が投資心理の重荷になったと伝えた。",
-        "body": "米バーガーチェーンのシェイクシャック株が、第1四半期の不振を受けて1日で28％急落した。hankyung.comによると、同社の第1四半期について市場は否定的に受け止めた。原文情報で確認できる中心的な数字は、株価が1日で28％消失したという点だ。この動きは、投資家が直近の業績と今後の成長性に警戒感を強めたことを示す。なお、提供された原文には売上高、純利益、業績見通しなどの追加数値は含まれていない。出典: hankyung.com"
-      },
-      "zh": {
-        "title": "Shake Shack一季度疲弱拖累股价，单日暴跌28%",
-        "excerpt": "Shake Shack因一季度表现疲弱，股价在一天内蒸发28%。hankyung.com称，业绩忧虑对投资者情绪形成压力。",
-        "body": "美国汉堡连锁品牌Shake Shack股价因一季度表现疲弱，在一天内下跌28%。据hankyung.com报道，市场对该公司一季度表现作出负面反应。原文信息中可确认的核心数字是股价单日蒸发28%。这一走势显示，投资者对公司近期业绩和后续增长前景的谨慎情绪升温。不过，所提供的原文并未包含营收、净利润、业绩指引等更多具体数据。来源: hankyung.com"
-      },
-      "es": {
-        "title": "Shake Shack cae 28% en bolsa en un día tras un primer trimestre débil",
-        "excerpt": "Shake Shack perdió 28% de su valor bursátil en un solo día tras un primer trimestre débil, informó hankyung.com, por la presión de las dudas sobre resultados.",
-        "body": "Las acciones de Shake Shack, cadena estadounidense de hamburguesas, cayeron 28% en un solo día tras un primer trimestre débil. Según hankyung.com, el mercado recibió de forma negativa el desempeño trimestral de la compañía. El dato central disponible en la información original es la evaporación de 28% del precio de la acción en una jornada. El movimiento indica que los inversionistas aumentaron la cautela sobre los resultados recientes y las perspectivas de crecimiento. El texto proporcionado no incluye cifras adicionales de ingresos, utilidad neta o guía. Fuente: hankyung.com"
-      },
-      "pt": {
-        "title": "Shake Shack despenca 28% em um dia após fraqueza no primeiro trimestre",
-        "excerpt": "A Shake Shack viu suas ações caírem 28% em um único dia após um primeiro trimestre fraco, informou o hankyung.com, com preocupações sobre resultados pesando no mercado.",
-        "body": "As ações da Shake Shack, rede norte-americana de hambúrgueres, caíram 28% em apenas um dia após um primeiro trimestre fraco. Segundo o hankyung.com, o mercado reagiu de forma negativa ao desempenho trimestral da companhia. O principal número disponível na informação original é a queda de 28% do preço da ação em uma única sessão. O movimento sugere maior cautela dos investidores em relação aos resultados recentes e às perspectivas de crescimento. O texto fornecido não traz dados adicionais de receita, lucro líquido ou projeções. Fonte: hankyung.com"
-      },
-      "de": {
-        "title": "Shake-Shack-Aktie bricht nach schwachem ersten Quartal an einem Tag um 28% ein",
-        "excerpt": "Shake Shack verlor nach einem schwachen ersten Quartal an nur einem Tag 28% an Börsenwert. Laut hankyung.com belasteten Ergebnissorgen die Stimmung der Anleger.",
-        "body": "Die Aktie der US-Burgerkette Shake Shack ist nach einem schwachen ersten Quartal an einem Tag um 28% eingebrochen. Laut hankyung.com reagierte der Markt negativ auf die Quartalsentwicklung des Unternehmens. Die zentrale verfügbare Kennzahl aus der Originalinformation ist der Kursverlust von 28% innerhalb eines Handelstags. Die Bewegung deutet darauf hin, dass Anleger bei den jüngsten Ergebnissen und den weiteren Wachstumsaussichten vorsichtiger wurden. Zusätzliche Angaben zu Umsatz, Nettogewinn oder Prognosen enthält der bereitgestellte Ausgangstext nicht. Quelle: hankyung.com"
-      },
-      "fr": {
-        "title": "Shake Shack chute de 28% en Bourse en une journée après un premier trimestre faible",
-        "excerpt": "Shake Shack a perdu 28% en Bourse en une seule journée après un premier trimestre faible, selon hankyung.com, les inquiétudes sur les résultats pesant sur le sentiment.",
-        "body": "L’action de Shake Shack, chaîne américaine de burgers, a chuté de 28% en une journée après un premier trimestre faible. Selon hankyung.com, le marché a réagi négativement à la performance trimestrielle de l’entreprise. Le chiffre clé disponible dans l’information d’origine est la perte de 28% du cours en une seule séance. Ce mouvement montre que les investisseurs ont renforcé leur prudence face aux résultats récents et aux perspectives de croissance. Le texte fourni ne contient pas d’autres données comme le chiffre d’affaires, le bénéfice net ou les prévisions. Source: hankyung.com"
-      },
-      "ar": {
-        "title": "سهم Shake Shack يهبط 28% في يوم واحد بعد ضعف الربع الأول",
-        "excerpt": "تراجع سهم Shake Shack بنسبة 28% في يوم واحد بعد أداء ضعيف في الربع الأول، وذكر hankyung.com أن مخاوف النتائج ضغطت على معنويات المستثمرين.",
-        "body": "هبط سهم سلسلة البرغر الأميركية Shake Shack بنسبة 28% في يوم واحد بعد أداء ضعيف في الربع الأول. وبحسب hankyung.com، تلقى السوق أداء الشركة الفصلي بصورة سلبية. الرقم الأساسي المتاح في المعلومات الأصلية هو تبخر 28% من سعر السهم خلال يوم واحد. يشير هذا التحرك إلى أن المستثمرين أصبحوا أكثر حذرا تجاه النتائج الأخيرة وآفاق النمو المقبلة. ولا تتضمن المعلومات المقدمة أرقاما إضافية عن الإيرادات أو صافي الربح أو التوجيهات المستقبلية. المصدر: hankyung.com"
-      },
-      "hi": {
-        "title": "कमजोर पहली तिमाही के बाद Shake Shack शेयर एक दिन में 28% टूटा",
-        "excerpt": "Shake Shack का शेयर कमजोर पहली तिमाही के बाद एक ही दिन में 28% गिर गया। hankyung.com के अनुसार नतीजों को लेकर चिंता ने निवेशक धारणा पर दबाव डाला।",
-        "body": "अमेरिकी बर्गर चेन Shake Shack का शेयर कमजोर पहली तिमाही के बाद एक दिन में 28% गिर गया। hankyung.com के अनुसार बाजार ने कंपनी के पहली तिमाही के प्रदर्शन को नकारात्मक रूप से लिया। मूल जानकारी में उपलब्ध मुख्य आंकड़ा यही है कि शेयर मूल्य एक दिन में 28% घट गया। यह गिरावट संकेत देती है कि निवेशक हालिया प्रदर्शन और आगे की वृद्धि की संभावना को लेकर अधिक सतर्क हुए। उपलब्ध मूल पाठ में राजस्व, शुद्ध लाभ या गाइडेंस जैसे अतिरिक्त आंकड़े शामिल नहीं हैं। स्रोत: hankyung.com"
-      },
-      "id": {
-        "title": "Saham Shake Shack anjlok 28% sehari setelah kuartal pertama lemah",
-        "excerpt": "Saham Shake Shack turun 28% dalam satu hari setelah kinerja kuartal pertama lemah, menurut hankyung.com, karena kekhawatiran laba menekan sentimen investor.",
-        "body": "Saham jaringan burger AS Shake Shack turun 28% dalam satu hari setelah kinerja kuartal pertama yang lemah. Menurut hankyung.com, pasar merespons negatif performa kuartalan perusahaan tersebut. Angka utama yang tersedia dari informasi asli adalah hilangnya 28% nilai saham dalam satu hari. Pergerakan ini menunjukkan investor menjadi lebih berhati-hati terhadap hasil terbaru dan prospek pertumbuhan perusahaan. Teks sumber yang diberikan tidak memuat rincian tambahan seperti pendapatan, laba bersih, atau panduan kinerja. Sumber: hankyung.com"
-      }
-    }
-  },
-  {
-    "id": "255e555e1757",
-    "slug": "보스턴다이내믹스-ipo-기대감현대차그룹주-점프-140674",
-    "channelId": "ETF",
-    "category": "etf",
-    "publishedAt": "2026-05-08T13:23:01.899Z",
-    "updatedAt": "2026-05-08T13:23:01.899Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/2026050848491",
-    "canonicalUrl": "https://www.hankyung.com/article/2026050848491",
-    "titleFingerprint": "7ec0bf1237ded66da191f2d26283c2f9445d8900",
-    "dedupKeys": [
-      "255e555e175742c03a11557b84844cc2b181d122",
-      "7ec0bf1237ded66da191f2d26283c2f9445d8900",
-      "a5bea0e68132be3480d7bd16d54877f7b3e81a02"
-    ],
-    "imageUrl": "/images/articles/255e555e1757.jpg",
-    "i18n": {
-      "ko": {
-        "title": "보스턴다이내믹스 IPO 기대감 확산, 현대차그룹주 동반 점프 배경",
-        "excerpt": "한국경제에 따르면 보스턴다이내믹스의 IPO 기대감이 부각되며 현대차그룹주가 상승했다. 시장은 로봇 계열사의 상장 가능성과 그룹주 투자심리 변화를 주목했다.",
-        "body": "한국경제에 따르면 보스턴다이내믹스의 기업공개(IPO) 기대감이 부각되며 현대차그룹주가 상승했다. 보도 제목은 시장이 현대차그룹의 로봇 사업 가치와 보스턴다이내믹스 상장 가능성에 주목했다는 점을 전한다. 다만 제공된 원문 정보에는 구체적인 상장 일정, 공모 구조, 기업가치 평가, 개별 종목별 등락률은 포함되지 않았다. 이번 움직임은 IPO 기대가 그룹주 투자심리에 영향을 준 사례로 볼 수 있다. 향후 시장 반응은 공식 일정과 추가 공시 여부에 따라 달라질 수 있다. 출처: hankyung.com"
-      },
-      "en": {
-        "title": "Boston Dynamics IPO Hopes Lift Hyundai Motor Group Stocks in Market Jump",
-        "excerpt": "According to Hankyung, expectations for a Boston Dynamics IPO pushed Hyundai Motor Group stocks higher, with investors focusing on the robotics affiliate’s possible listing and sentiment across the group.",
-        "body": "According to Hankyung, expectations for a potential initial public offering of Boston Dynamics helped lift Hyundai Motor Group stocks. The report’s headline points to market attention on the value of Hyundai Motor Group’s robotics business and the possibility of a Boston Dynamics listing. The source information provided does not include a specific listing timetable, offering structure, valuation estimate, or stock-by-stock percentage moves. The move can be read as a case where IPO expectations affected investor sentiment toward group shares. Future market reaction may depend on official schedules and additional disclosures. Source: hankyung.com"
-      },
-      "ja": {
-        "title": "ボストン・ダイナミクスIPO期待で現代自動車グループ株が上昇",
-        "excerpt": "韓国経済新聞によると、ボストン・ダイナミクスのIPO期待が浮上し、現代自動車グループ株が上昇した。市場はロボット子会社の上場可能性と投資心理に注目している。",
-        "body": "韓国経済新聞によると、ボストン・ダイナミクスの新規株式公開（IPO）への期待が高まり、現代自動車グループ株が上昇した。報道の見出しは、市場が現代自動車グループのロボット事業の価値と、ボストン・ダイナミクスの上場可能性に注目していることを伝えている。ただし、提供された原文情報には、具体的な上場時期、公募の仕組み、企業価値評価、個別銘柄ごとの騰落率は含まれていない。今回の動きは、IPO期待がグループ株の投資心理に影響した事例とみられる。今後の市場反応は公式日程や追加開示に左右される可能性がある。出典: hankyung.com"
-      },
-      "zh": {
-        "title": "波士顿动力IPO预期升温，现代汽车集团股价集体跳涨",
-        "excerpt": "据韩国经济新闻报道，波士顿动力IPO预期受到关注，推动现代汽车集团相关股票上涨。市场聚焦这家机器人子公司的上市可能性及集团股投资情绪变化。",
-        "body": "据韩国经济新闻报道，波士顿动力首次公开募股（IPO）的预期升温，带动现代汽车集团相关股票上涨。报道标题显示，市场正在关注现代汽车集团机器人业务的价值，以及波士顿动力未来上市的可能性。不过，所提供的原文信息并未包含具体上市时间、发行结构、企业估值或各个股票的涨跌幅数据。此次走势可视为IPO预期影响集团股投资情绪的案例。后续市场反应可能取决于官方日程和进一步披露。来源: hankyung.com"
-      },
-      "es": {
-        "title": "Expectativa de IPO de Boston Dynamics impulsa acciones de Hyundai Motor Group",
-        "excerpt": "Según Hankyung, la expectativa de una IPO de Boston Dynamics elevó las acciones de Hyundai Motor Group, mientras el mercado observó la posible salida a bolsa de su filial robótica y el cambio en el ánimo inversor.",
-        "body": "Según Hankyung, la expectativa de una oferta pública inicial de Boston Dynamics impulsó al alza las acciones de Hyundai Motor Group. El titular del reporte indica que el mercado puso atención en el valor del negocio robótico del grupo y en la posibilidad de una futura cotización de Boston Dynamics. La información original facilitada no incluye un calendario concreto de salida a bolsa, estructura de la oferta, valoración de la empresa ni variaciones porcentuales por acción. El movimiento muestra cómo las expectativas de una IPO pueden influir en el ánimo inversor hacia las acciones del grupo. La reacción futura del mercado podría depender de fechas oficiales y nuevas comunicaciones. Fuente: hankyung.com"
-      },
-      "pt": {
-        "title": "Expectativa de IPO da Boston Dynamics faz ações do Hyundai Motor Group subir",
-        "excerpt": "Segundo o Hankyung, a expectativa de uma IPO da Boston Dynamics ganhou força e elevou ações do Hyundai Motor Group, com o mercado atento à possível listagem da afiliada de robótica e ao sentimento sobre o grupo.",
-        "body": "Segundo o Hankyung, a expectativa de uma oferta pública inicial da Boston Dynamics impulsionou as ações do Hyundai Motor Group. O título da reportagem mostra que o mercado passou a observar o valor do negócio de robótica do grupo e a possibilidade de listagem da Boston Dynamics. As informações originais fornecidas não incluem data específica de abertura de capital, estrutura da oferta, avaliação da empresa nem variações percentuais por ação. O movimento pode ser visto como um caso em que expectativas de IPO afetaram o sentimento dos investidores em relação às ações do grupo. A reação futura do mercado poderá depender de cronogramas oficiais e novas divulgações. Fonte: hankyung.com"
-      },
-      "de": {
-        "title": "Boston-Dynamics-IPO-Fantasie treibt Aktien der Hyundai Motor Group an",
-        "excerpt": "Laut Hankyung haben Erwartungen an einen IPO von Boston Dynamics Aktien der Hyundai Motor Group steigen lassen. Der Markt achtet auf eine mögliche Börsennotierung der Robotiktochter und die Stimmung bei Konzernwerten.",
-        "body": "Laut Hankyung haben Erwartungen an einen möglichen Börsengang von Boston Dynamics Aktien der Hyundai Motor Group nach oben bewegt. Die Überschrift des Berichts zeigt, dass der Markt auf den Wert des Robotikgeschäfts von Hyundai Motor Group und auf eine mögliche Notierung von Boston Dynamics blickt. Die bereitgestellten Originalinformationen enthalten keinen konkreten Zeitplan für den Börsengang, keine Angebotsstruktur, keine Unternehmensbewertung und keine prozentualen Bewegungen einzelner Aktien. Die Entwicklung kann als Beispiel dafür gelten, wie IPO-Erwartungen die Anlegerstimmung gegenüber Konzernaktien beeinflussen. Die weitere Marktreaktion dürfte von offiziellen Terminen und zusätzlichen Mitteilungen abhängen. Quelle: hankyung.com"
-      },
-      "fr": {
-        "title": "L’espoir d’une IPO de Boston Dynamics fait bondir les actions Hyundai",
-        "excerpt": "Selon Hankyung, l’attente d’une IPO de Boston Dynamics a soutenu les actions de Hyundai Motor Group, le marché surveillant la possible cotation de la filiale robotique et l’évolution du sentiment investisseur.",
-        "body": "Selon Hankyung, les attentes autour d’une éventuelle introduction en Bourse de Boston Dynamics ont fait monter les actions de Hyundai Motor Group. Le titre du reportage indique que le marché s’intéresse à la valeur de l’activité robotique du groupe et à la possibilité d’une cotation de Boston Dynamics. Les informations originales fournies ne précisent pas de calendrier de cotation, de structure d’offre, d’évaluation d’entreprise ni de variations détaillées par action. Ce mouvement illustre la façon dont les attentes d’IPO peuvent influencer le sentiment des investisseurs envers les titres du groupe. La réaction future du marché pourrait dépendre d’un calendrier officiel et de nouvelles annonces. Source: hankyung.com"
-      },
-      "ar": {
-        "title": "توقعات طرح بوسطن دايناميكس ترفع أسهم مجموعة هيونداي موتور",
-        "excerpt": "بحسب هانكيونغ، أدت توقعات الطرح العام الأولي لشركة بوسطن دايناميكس إلى صعود أسهم مجموعة هيونداي موتور، مع تركيز السوق على احتمال إدراج شركة الروبوتات التابعة وتأثير ذلك في شهية المستثمرين.",
-        "body": "بحسب هانكيونغ، برزت توقعات الطرح العام الأولي لشركة بوسطن دايناميكس، ما دفع أسهم مجموعة هيونداي موتور إلى الارتفاع. ويشير عنوان التقرير إلى أن السوق يركز على قيمة أعمال الروبوتات لدى المجموعة وعلى احتمال إدراج بوسطن دايناميكس في البورصة. ولا تتضمن المعلومات الأصلية المقدمة موعدا محددا للطرح، أو هيكل الإصدار، أو تقييما للشركة، أو نسب تحرك كل سهم على حدة. ويمكن النظر إلى هذا التحرك بوصفه مثالا على تأثير توقعات الطرح العام الأولي في معنويات المستثمرين تجاه أسهم المجموعة. وقد يتوقف رد فعل السوق لاحقا على الجداول الرسمية والإفصاحات الإضافية. المصدر: hankyung.com"
-      },
-      "hi": {
-        "title": "Boston Dynamics IPO उम्मीदों से Hyundai Motor Group शेयरों में तेज उछाल",
-        "excerpt": "Hankyung के अनुसार, Boston Dynamics के IPO की उम्मीदों ने Hyundai Motor Group के शेयरों को ऊपर धकेला। बाजार रोबोटिक्स सहयोगी की संभावित लिस्टिंग और समूह शेयरों पर निवेशक भावनाओं पर ध्यान दे रहा है।",
-        "body": "Hankyung के अनुसार, Boston Dynamics के संभावित प्रारंभिक सार्वजनिक निर्गम यानी IPO की उम्मीदें उभरने से Hyundai Motor Group के शेयरों में तेजी आई। रिपोर्ट का शीर्षक बताता है कि बाजार Hyundai Motor Group के रोबोटिक्स कारोबार के मूल्य और Boston Dynamics की संभावित लिस्टिंग पर ध्यान दे रहा है। उपलब्ध मूल जानकारी में लिस्टिंग की कोई ठोस तारीख, निर्गम संरचना, कंपनी मूल्यांकन या अलग-अलग शेयरों की प्रतिशत चाल शामिल नहीं है। यह हलचल दिखाती है कि IPO की उम्मीदें समूह शेयरों को लेकर निवेशक भावना को प्रभावित कर सकती हैं। आगे की बाजार प्रतिक्रिया आधिकारिक समयसारिणी और अतिरिक्त खुलासों पर निर्भर हो सकती है। स्रोत: hankyung.com"
-      },
-      "id": {
-        "title": "Harapan IPO Boston Dynamics Dorong Saham Hyundai Motor Group Melonjak",
-        "excerpt": "Menurut Hankyung, ekspektasi IPO Boston Dynamics mengangkat saham Hyundai Motor Group. Pasar menyoroti kemungkinan pencatatan anak usaha robotika itu dan perubahan sentimen investor terhadap saham grup.",
-        "body": "Menurut Hankyung, ekspektasi penawaran umum perdana atau IPO Boston Dynamics membuat saham Hyundai Motor Group naik. Judul laporan tersebut menunjukkan bahwa pasar memperhatikan nilai bisnis robotika Hyundai Motor Group dan kemungkinan pencatatan Boston Dynamics di bursa. Informasi asli yang diberikan tidak memuat jadwal pencatatan yang spesifik, struktur penawaran, valuasi perusahaan, atau persentase pergerakan masing-masing saham. Pergerakan ini dapat dilihat sebagai contoh ketika ekspektasi IPO memengaruhi sentimen investor terhadap saham grup. Reaksi pasar berikutnya dapat bergantung pada jadwal resmi dan pengungkapan tambahan. Sumber: hankyung.com"
-      }
-    }
-  },
-  {
-    "id": "60c29b96e7cd",
-    "slug": "국민성장펀드-35조-간접투자-운용사-대혈투-856145",
-    "channelId": "ETF",
-    "category": "etf",
-    "publishedAt": "2026-05-08T13:21:42.764Z",
-    "updatedAt": "2026-05-08T13:21:42.764Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/2026050848571",
-    "canonicalUrl": "https://www.hankyung.com/article/2026050848571",
-    "titleFingerprint": "8096831a0abc8c537bdbdd0259a885e31278d966",
-    "dedupKeys": [
-      "60c29b96e7cd93ed0a5fe9536fe34ed47216a973",
-      "8096831a0abc8c537bdbdd0259a885e31278d966",
-      "77e0df3472a6664810230bc9ff3c58d568f1eadd"
-    ],
-    "imageUrl": "/images/articles/60c29b96e7cd.png",
-    "i18n": {
-      "ko": {
-        "title": "국민성장펀드 35조 간접투자, 운용사 경쟁 본격화",
-        "excerpt": "국민성장펀드의 35조원 간접투자 구도 속에서 모펀드 운용사 선정과 자금 집행 방식이 주목받으며 자산운용업계 경쟁이 본격화되고 있다.",
-        "body": "국민성장펀드의 35조원 간접투자 부문을 둘러싸고 자산운용사들의 경쟁이 본격화되고 있다. 금융위원회와 산업은행은 2026년 국민성장펀드 간접투자 분야에서 재정자금을 관리하고 자펀드 운용 업무를 맡을 모펀드 운용사로 한국성장금융투자운용, 신한자산운용, 우리자산운용 등을 선정했다. 간접투자는 정부가 직접 투자처를 정하기보다 민간 운용사의 전문성을 활용하는 방식이다. 운용사들은 민간자본 유입을 이끄는 마중물 역할을 맡게 되며, 향후 자금 집행과 자펀드 선정이 업계의 주요 관심사가 될 전망이다. 출처: hankyung.com"
-      },
-      "en": {
-        "title": "National Growth Fund’s 35 Trillion Won Indirect Investment Race Heats Up",
-        "excerpt": "Asset managers are entering sharper competition as South Korea’s National Growth Fund advances its 35 trillion won indirect investment structure and fund-of-funds mandates.",
-        "body": "Competition among asset managers is intensifying around the 35 trillion won indirect investment arm of South Korea’s National Growth Fund. The Financial Services Commission and Korea Development Bank selected Korea Growth Investment, Shinhan Asset Management and Woori Asset Management as fund-of-funds managers to oversee fiscal capital and manage sub-fund operations for the 2026 indirect investment program. The indirect model uses the expertise of private managers instead of having the government choose investment targets directly. The selected firms are expected to serve as a catalyst for private capital inflows, while future capital deployment and sub-fund selection remain key issues for the industry. Source: hankyung.com"
-      },
-      "ja": {
-        "title": "国民成長ファンド35兆ウォン間接投資、運用会社の競争が本格化",
-        "excerpt": "国民成長ファンドの35兆ウォン規模の間接投資をめぐり、母ファンド運用会社の選定と資金執行方式に資産運用業界の関心が集まっている。",
-        "body": "国民成長ファンドの35兆ウォン規模の間接投資部門をめぐり、資産運用会社の競争が本格化している。金融委員会と韓国産業銀行は、2026年の国民成長ファンド間接投資分野で財政資金を管理し、子ファンド運用業務を担う母ファンド運用会社として、韓国成長金融投資運用、シンハン資産運用、ウリ資産運用などを選定した。間接投資は、政府が投資先を直接決めるのではなく、民間運用会社の専門性を活用する方式だ。選定された運用会社は民間資本流入の呼び水となり、今後の資金執行と子ファンド選定が業界の焦点になる見通しだ。出所: hankyung.com"
-      },
-      "zh": {
-        "title": "国民成长基金35万亿韩元间接投资，资管公司竞争升温",
-        "excerpt": "围绕国民成长基金35万亿韩元间接投资安排，母基金管理人遴选和资金投放方式受到关注，韩国资管行业竞争加剧。",
-        "body": "围绕国民成长基金35万亿韩元间接投资板块，韩国资产管理公司的竞争正在升温。金融委员会和韩国产业银行已在2026年国民成长基金间接投资领域，选定韩国成长金融投资运营、新韩资产管理、友利资产管理等机构担任母基金管理人，负责财政资金管理及子基金运营相关工作。间接投资并非由政府直接决定投资对象，而是利用民间管理机构的专业能力。入选机构将承担引导民间资本流入的作用，后续资金执行和子基金遴选预计将成为行业关注重点。来源: hankyung.com"
-      },
-      "es": {
-        "title": "Fondo Nacional de Crecimiento: se intensifica la carrera por 35 billones de wones",
-        "excerpt": "La competencia entre gestoras aumenta mientras el Fondo Nacional de Crecimiento de Corea estructura 35 billones de wones en inversión indirecta y mandatos de fondos madre.",
-        "body": "La competencia entre gestoras de activos se intensifica en torno al tramo de inversión indirecta de 35 billones de wones del Fondo Nacional de Crecimiento de Corea. La Comisión de Servicios Financieros y el Banco de Desarrollo de Corea seleccionaron a Korea Growth Investment, Shinhan Asset Management y Woori Asset Management como gestoras de fondos madre para administrar recursos fiscales y operar subfondos dentro del programa de inversión indirecta de 2026. Este modelo no deja al gobierno elegir directamente los destinos de inversión, sino que aprovecha la experiencia de gestoras privadas. Las firmas seleccionadas actuarán como catalizadoras de capital privado, mientras la ejecución de fondos y la selección de subfondos seguirán en el foco del sector. Fuente: hankyung.com"
-      },
-      "pt": {
-        "title": "Fundo Nacional de Crescimento: disputa por 35 trilhões de won se intensifica",
-        "excerpt": "Gestoras de ativos ampliam a disputa conforme o Fundo Nacional de Crescimento da Coreia avança em sua estrutura de investimento indireto de 35 trilhões de won.",
-        "body": "A concorrência entre gestoras de ativos está se intensificando no braço de investimento indireto de 35 trilhões de won do Fundo Nacional de Crescimento da Coreia. A Comissão de Serviços Financeiros e o Banco de Desenvolvimento da Coreia selecionaram Korea Growth Investment, Shinhan Asset Management e Woori Asset Management como gestoras de fundos-mãe para administrar recursos fiscais e conduzir operações de subfundos no programa de investimento indireto de 2026. O modelo indireto usa a experiência de gestores privados, em vez de o governo escolher diretamente os alvos de investimento. As empresas selecionadas devem estimular a entrada de capital privado, enquanto a execução dos recursos e a escolha dos subfundos seguem como temas centrais do setor. Fonte: hankyung.com"
-      },
-      "de": {
-        "title": "National Growth Fund: Wettbewerb um 35 Billionen Won indirekte Anlagen nimmt Fahrt auf",
-        "excerpt": "Beim koreanischen National Growth Fund rückt die indirekte Anlage über 35 Billionen Won in den Fokus, während Asset-Manager um Fondsmandate konkurrieren.",
-        "body": "Der Wettbewerb unter Vermögensverwaltern um den indirekten Anlagebereich des koreanischen National Growth Fund im Umfang von 35 Billionen Won nimmt zu. Die Financial Services Commission und die Korea Development Bank wählten Korea Growth Investment, Shinhan Asset Management und Woori Asset Management als Dachfondsmanager aus, die im Programm 2026 Haushaltsmittel verwalten und Aufgaben für Unterfonds übernehmen. Beim indirekten Modell bestimmt nicht die Regierung unmittelbar die Anlageziele, sondern nutzt die Expertise privater Manager. Die ausgewählten Firmen sollen private Kapitalzuflüsse anstoßen. Künftige Mittelverwendung und die Auswahl von Unterfonds dürften für die Branche zentrale Themen bleiben. Quelle: hankyung.com"
-      },
-      "fr": {
-        "title": "Fonds national de croissance : la course aux 35 000 milliards de wons s’accélère",
-        "excerpt": "La concurrence entre sociétés de gestion s’intensifie autour du volet d’investissement indirect de 35 000 milliards de wons du Fonds national de croissance coréen.",
-        "body": "La concurrence entre sociétés de gestion s’intensifie autour du volet d’investissement indirect de 35 000 milliards de wons du Fonds national de croissance de la Corée. La Commission des services financiers et la Korea Development Bank ont choisi Korea Growth Investment, Shinhan Asset Management et Woori Asset Management comme gestionnaires de fonds de fonds chargés d’administrer les ressources budgétaires et les opérations de sous-fonds pour le programme 2026. Ce modèle indirect ne confie pas au gouvernement le choix direct des cibles d’investissement, mais s’appuie sur l’expertise de gestionnaires privés. Les sociétés retenues devront favoriser l’arrivée de capitaux privés, tandis que l’exécution des fonds et la sélection des sous-fonds resteront au centre de l’attention. Source: hankyung.com"
-      },
-      "ar": {
-        "title": "صندوق النمو الوطني: احتدام المنافسة على استثمار غير مباشر بـ35 تريليون وون",
-        "excerpt": "تتصاعد منافسة شركات إدارة الأصول مع تقدم صندوق النمو الوطني الكوري في هيكل استثمار غير مباشر بقيمة 35 تريليون وون واختيار مديري الصناديق الأم.",
-        "body": "تشتد المنافسة بين شركات إدارة الأصول حول ذراع الاستثمار غير المباشر البالغ 35 تريليون وون في صندوق النمو الوطني الكوري. اختارت لجنة الخدمات المالية وبنك التنمية الكوري Korea Growth Investment وShinhan Asset Management وWoori Asset Management كمديري صناديق أم لإدارة الأموال المالية وتشغيل الصناديق الفرعية ضمن برنامج الاستثمار غير المباشر لعام 2026. يعتمد هذا النموذج على خبرة المديرين من القطاع الخاص بدلا من أن تحدد الحكومة وجهات الاستثمار مباشرة. وستؤدي الشركات المختارة دورا محفزا لتدفق رأس المال الخاص، بينما تبقى آلية تنفيذ التمويل واختيار الصناديق الفرعية محور اهتمام القطاع. المصدر: hankyung.com"
-      },
-      "hi": {
-        "title": "नेशनल ग्रोथ फंड के 35 ट्रिलियन वॉन अप्रत्यक्ष निवेश पर प्रतिस्पर्धा तेज",
-        "excerpt": "कोरिया के नेशनल ग्रोथ फंड में 35 ट्रिलियन वॉन के अप्रत्यक्ष निवेश ढांचे और फंड-ऑफ-फंड्स प्रबंधन को लेकर एसेट मैनेजरों की प्रतिस्पर्धा बढ़ रही है।",
-        "body": "कोरिया के नेशनल ग्रोथ फंड के 35 ट्रिलियन वॉन वाले अप्रत्यक्ष निवेश हिस्से को लेकर एसेट मैनेजमेंट कंपनियों की प्रतिस्पर्धा तेज हो रही है। वित्तीय सेवा आयोग और कोरिया डेवलपमेंट बैंक ने 2026 के अप्रत्यक्ष निवेश कार्यक्रम में राजकोषीय पूंजी प्रबंधन और सब-फंड संचालन के लिए Korea Growth Investment, Shinhan Asset Management और Woori Asset Management को फंड-ऑफ-फंड्स मैनेजर के रूप में चुना। इस मॉडल में सरकार सीधे निवेश लक्ष्य तय नहीं करती, बल्कि निजी प्रबंधकों की विशेषज्ञता का उपयोग करती है। चयनित कंपनियां निजी पूंजी लाने में उत्प्रेरक भूमिका निभाएंगी, जबकि धन का निष्पादन और सब-फंड चयन उद्योग की मुख्य निगरानी में रहेंगे। स्रोत: hankyung.com"
-      },
-      "id": {
-        "title": "Dana Pertumbuhan Nasional: persaingan investasi tidak langsung 35 triliun won memanas",
-        "excerpt": "Persaingan manajer aset meningkat saat Dana Pertumbuhan Nasional Korea menjalankan skema investasi tidak langsung 35 triliun won dan mandat fund-of-funds.",
-        "body": "Persaingan antar manajer aset memanas di sekitar porsi investasi tidak langsung senilai 35 triliun won dari Dana Pertumbuhan Nasional Korea. Komisi Jasa Keuangan dan Korea Development Bank memilih Korea Growth Investment, Shinhan Asset Management, dan Woori Asset Management sebagai pengelola fund-of-funds untuk mengelola dana fiskal dan menjalankan operasi subdana dalam program investasi tidak langsung 2026. Model ini tidak membuat pemerintah menentukan target investasi secara langsung, tetapi memanfaatkan keahlian pengelola swasta. Perusahaan terpilih diharapkan menjadi pemicu masuknya modal swasta, sementara eksekusi dana dan pemilihan subdana akan tetap menjadi perhatian utama industri. Sumber: hankyung.com"
       }
     }
   }
