@@ -1,5 +1,230 @@
 [
   {
+    "id": "b8ba66c20e3f",
+    "slug": "단독-주주들-속-타들어가는데카카오-노조-우리도-영업익-10-달라-987233",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-05-10T20:54:51.014Z",
+    "updatedAt": "2026-05-10T20:54:51.014Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/business/12042692",
+    "canonicalUrl": "https://www.mk.co.kr/news/business/12042692",
+    "titleFingerprint": "4943ab2d19caaa6861e7d80c6194cdb372e93736",
+    "dedupKeys": [
+      "b8ba66c20e3f5cf3b0f02a09785ac2826e17339a",
+      "4943ab2d19caaa6861e7d80c6194cdb372e93736",
+      "076622109a98cf45d45cef34f03ce637bfe835f4"
+    ],
+    "imageUrl": "/images/articles/b8ba66c20e3f.png",
+    "i18n": {
+      "ko": {
+        "title": "카카오 노조, 영업이익 10% 성과급 요구…주주 우려 속 창사 첫 본사 파업 위기",
+        "excerpt": "카카오 본사가 창사 이래 첫 파업 위기에 놓였다. 카카오 노조가 SK하이닉스 사례처럼 영업이익 10% 이상을 성과급으로 요구하면서 주주 우려도 커지고 있다.",
+        "body": "국내 대표 IT 기업 카카오가 창사 이후 처음으로 본사 파업 가능성에 직면했다. mk.co.kr 보도에 따르면 전국화학섬유식품산업노동조합 카카오지회는 SK하이닉스처럼 영업이익의 10% 이상을 성과급으로 배분해 달라고 요구한 것으로 전해졌다. 이번 요구는 주주들의 우려가 커지는 상황에서 제기돼 노사 갈등의 부담을 키우고 있다. 카카오가 본사 차원의 파업 위기를 맞은 것은 창사 이래 처음이라는 점에서 향후 협상 결과가 내부 구성원 보상 체계와 주주 신뢰에 영향을 줄 수 있다. 출처는 mk.co.kr이다."
+      },
+      "en": {
+        "title": "Kakao Union Seeks 10% of Operating Profit as Headquarters Faces First Strike Risk",
+        "excerpt": "Kakao’s headquarters faces its first strike risk since the company was founded, after its union reportedly sought bonuses worth at least 10% of operating profit, echoing SK Hynix.",
+        "body": "Kakao, one of South Korea’s leading IT companies, is facing the possibility of its first headquarters strike since its founding. According to mk.co.kr, the Kakao branch of the Korean Chemical, Textile and Food Workers’ Union has demanded that at least 10% of operating profit be allocated as bonuses, similar to the case of SK Hynix. The demand comes as shareholder concerns are already growing, adding pressure to labor-management relations. Because this is the first strike risk at Kakao’s headquarters since the company was established, the outcome of negotiations could affect both employee compensation practices and shareholder confidence. Source: mk.co.kr."
+      },
+      "ja": {
+        "title": "カカオ労組、営業利益10％の成果給要求…本社初のスト懸念が浮上",
+        "excerpt": "韓国IT大手カカオの本社が創業以来初のスト危機に直面している。労組はSKハイニックスのように営業利益10％以上の成果給を求めている。",
+        "body": "韓国を代表するIT企業カカオが、創業以来初めて本社でのストライキの可能性に直面している。mk.co.krの報道によると、全国化学繊維食品産業労働組合カカオ支会は、SKハイニックスの事例のように営業利益の10％以上を成果給として配分するよう求めたという。この要求は株主の懸念が高まる中で提起され、労使対立の負担を強めている。カカオ本社が創業以来初のスト危機を迎えた点で、今後の交渉結果は社員報酬制度と株主の信頼に影響を及ぼす可能性がある。出所はmk.co.kr。"
+      },
+      "zh": {
+        "title": "Kakao工会要求拿出营业利润10%作奖金，总部面临创立以来首次罢工风险",
+        "excerpt": "韩国代表性IT企业Kakao总部面临创立以来首次罢工风险。工会要求像SK海力士一样，将营业利润10%以上作为奖金分配，引发股东担忧。",
+        "body": "韩国代表性IT企业Kakao正面临创立以来首次总部罢工的可能性。据mk.co.kr报道，全国化学纤维食品产业劳动组合Kakao支会要求公司像SK海力士一样，将营业利润的10%以上作为奖金分配。这一要求是在股东担忧加剧的背景下提出的，增加了劳资关系压力。由于这是Kakao总部创立以来首次面临罢工风险，后续谈判结果可能影响公司内部薪酬体系以及股东信任。来源：mk.co.kr。"
+      },
+      "es": {
+        "title": "Sindicato de Kakao pide 10% del beneficio operativo y crece el riesgo de primera huelga",
+        "excerpt": "La sede de Kakao afronta su primera amenaza de huelga desde la fundación de la empresa, después de que el sindicato pidiera bonos equivalentes a más del 10% del beneficio operativo.",
+        "body": "Kakao, una de las principales empresas de tecnología de Corea del Sur, afronta la posibilidad de la primera huelga en su sede desde su fundación. Según mk.co.kr, la filial de Kakao del Sindicato Nacional de Trabajadores de la Industria Química, Textil y Alimentaria pidió que se reparta al menos el 10% del beneficio operativo como bono, en línea con el caso de SK Hynix. La demanda llega en un momento de creciente preocupación entre los accionistas y añade presión a las relaciones laborales. Al tratarse del primer riesgo de huelga en la sede de Kakao, el resultado de las negociaciones podría afectar el sistema de compensación interna y la confianza de los accionistas. Fuente: mk.co.kr."
+      },
+      "pt": {
+        "title": "Sindicato da Kakao pede 10% do lucro operacional e sede enfrenta risco inédito de greve",
+        "excerpt": "A sede da Kakao enfrenta o primeiro risco de greve desde a fundação da empresa, após o sindicato pedir bônus de ao menos 10% do lucro operacional, como no caso da SK Hynix.",
+        "body": "A Kakao, uma das principais empresas de tecnologia da Coreia do Sul, enfrenta a possibilidade da primeira greve em sua sede desde a fundação. Segundo o mk.co.kr, a seção da Kakao do Sindicato Nacional dos Trabalhadores das Indústrias Química, Têxtil e Alimentícia pediu que pelo menos 10% do lucro operacional seja distribuído como bônus, em linha com o caso da SK Hynix. A demanda surge em meio à crescente preocupação dos acionistas, elevando a pressão nas relações trabalhistas. Por ser o primeiro risco de greve na sede da Kakao, o resultado das negociações pode afetar a política de remuneração interna e a confiança dos acionistas. Fonte: mk.co.kr."
+      },
+      "de": {
+        "title": "Kakao-Gewerkschaft fordert 10% des Betriebsgewinns als Bonus, erste Streikgefahr in Zentrale",
+        "excerpt": "Kakaos Zentrale steht erstmals seit der Gründung vor einem Streikrisiko. Die Gewerkschaft fordert nach dem Vorbild von SK Hynix Boni von mindestens 10% des Betriebsgewinns.",
+        "body": "Kakao, eines der führenden IT-Unternehmen Südkoreas, sieht sich erstmals seit seiner Gründung mit der Möglichkeit eines Streiks in der Konzernzentrale konfrontiert. Laut mk.co.kr fordert die Kakao-Sparte der Korean Chemical, Textile and Food Workers’ Union, mindestens 10% des Betriebsgewinns als Bonus auszuschütten, ähnlich wie bei SK Hynix. Die Forderung kommt in einer Phase wachsender Sorgen unter Aktionären und erhöht den Druck in den Arbeitsbeziehungen. Da es sich um die erste Streikgefahr in der Kakao-Zentrale handelt, könnte das Ergebnis der Verhandlungen sowohl das Vergütungssystem als auch das Vertrauen der Aktionäre beeinflussen. Quelle: mk.co.kr."
+      },
+      "fr": {
+        "title": "Le syndicat de Kakao réclame 10% du bénéfice opérationnel, risque inédit de grève au siège",
+        "excerpt": "Le siège de Kakao fait face au premier risque de grève depuis la création du groupe, après une demande syndicale de primes d’au moins 10% du bénéfice opérationnel, comme chez SK Hynix.",
+        "body": "Kakao, l’une des principales entreprises technologiques sud-coréennes, fait face à la possibilité d’une première grève au siège depuis sa création. Selon mk.co.kr, la section Kakao du syndicat national des travailleurs de la chimie, du textile et de l’alimentation demande qu’au moins 10% du bénéfice opérationnel soit distribué sous forme de primes, à l’image de SK Hynix. Cette demande intervient alors que les inquiétudes des actionnaires grandissent, ce qui accroît la pression sur les relations sociales. Comme il s’agit du premier risque de grève au siège de Kakao, l’issue des négociations pourrait peser sur la rémunération interne et la confiance des actionnaires. Source: mk.co.kr."
+      },
+      "ar": {
+        "title": "نقابة كاكاو تطالب بـ10% من الربح التشغيلي كمكافآت وسط خطر أول إضراب في المقر",
+        "excerpt": "تواجه كاكاو خطر أول إضراب في مقرها منذ تأسيسها، بعدما طالبت النقابة بتوزيع ما لا يقل عن 10% من الربح التشغيلي كمكافآت على غرار إس كيه هاينكس.",
+        "body": "تواجه كاكاو، إحدى أبرز شركات تكنولوجيا المعلومات في كوريا الجنوبية، احتمال أول إضراب في مقرها منذ تأسيسها. ووفقاً لتقرير mk.co.kr، طالبت شعبة كاكاو في نقابة عمال الصناعات الكيميائية والنسيجية والغذائية بتخصيص ما لا يقل عن 10% من الربح التشغيلي كمكافآت، على غرار حالة إس كيه هاينكس. وتأتي هذه المطالبة في وقت تتزايد فيه مخاوف المساهمين، ما يضيف ضغطاً على علاقات العمل والإدارة. وبما أن هذا أول خطر إضراب يواجه مقر كاكاو منذ التأسيس، فقد تؤثر نتيجة المفاوضات في نظام التعويضات الداخلي وثقة المساهمين. المصدر: mk.co.kr."
+      },
+      "hi": {
+        "title": "Kakao यूनियन ने ऑपरेटिंग प्रॉफिट का 10% बोनस मांगा, मुख्यालय में पहली हड़ताल का खतरा",
+        "excerpt": "Kakao के मुख्यालय पर स्थापना के बाद पहली बार हड़ताल का खतरा मंडरा रहा है। यूनियन ने SK Hynix की तरह ऑपरेटिंग प्रॉफिट के कम से कम 10% को बोनस के रूप में मांग लिया है।",
+        "body": "दक्षिण कोरिया की प्रमुख आईटी कंपनी Kakao अपने गठन के बाद पहली बार मुख्यालय स्तर पर हड़ताल की संभावना का सामना कर रही है। mk.co.kr के अनुसार, कोरियन केमिकल, टेक्सटाइल एंड फूड वर्कर्स यूनियन की Kakao शाखा ने मांग की है कि SK Hynix की तरह ऑपरेटिंग प्रॉफिट का कम से कम 10% बोनस के रूप में बांटा जाए। यह मांग ऐसे समय आई है जब शेयरधारकों की चिंता पहले से बढ़ रही है, जिससे श्रम-प्रबंधन संबंधों पर दबाव बढ़ा है। चूंकि Kakao मुख्यालय के लिए यह पहली हड़ताल-जोखिम स्थिति है, इसलिए वार्ता का परिणाम आंतरिक वेतन व्यवस्था और शेयरधारक भरोसे को प्रभावित कर सकता है। स्रोत: mk.co.kr."
+      },
+      "id": {
+        "title": "Serikat Kakao Minta Bonus 10% Laba Operasi, Kantor Pusat Hadapi Risiko Mogok Pertama",
+        "excerpt": "Kantor pusat Kakao menghadapi risiko mogok pertama sejak perusahaan berdiri setelah serikat meminta bonus sedikitnya 10% dari laba operasi, mengikuti contoh SK Hynix.",
+        "body": "Kakao, salah satu perusahaan teknologi informasi utama Korea Selatan, menghadapi kemungkinan mogok pertama di kantor pusat sejak perusahaan didirikan. Menurut mk.co.kr, cabang Kakao dari Serikat Pekerja Industri Kimia, Tekstil, dan Makanan Korea meminta agar sedikitnya 10% dari laba operasi dibagikan sebagai bonus, seperti kasus SK Hynix. Tuntutan ini muncul saat kekhawatiran pemegang saham meningkat, sehingga menambah tekanan pada hubungan pekerja dan manajemen. Karena ini merupakan risiko mogok pertama di kantor pusat Kakao, hasil negosiasi dapat memengaruhi sistem kompensasi internal dan kepercayaan pemegang saham. Sumber: mk.co.kr."
+      }
+    }
+  },
+  {
+    "id": "c52e0ea93886",
+    "slug": "개발도상국-성장-모델인-韓-핵심-요소는-교육기술혁신-350184",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-05-10T20:53:50.685Z",
+    "updatedAt": "2026-05-10T20:53:50.685Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/business/12042727",
+    "canonicalUrl": "https://www.mk.co.kr/news/business/12042727",
+    "titleFingerprint": "b81ddfe7f8a73a90e28d58182c72aeae09ac8b77",
+    "dedupKeys": [
+      "c52e0ea938865fa95b80e0ecd71b2e35ac611de8",
+      "b81ddfe7f8a73a90e28d58182c72aeae09ac8b77",
+      "896b7e844b14ba461ec29eeafae555b715e8d591"
+    ],
+    "imageUrl": "/images/articles/c52e0ea93886.jpg",
+    "i18n": {
+      "ko": {
+        "title": "한국 성장 모델 핵심은 교육·기술혁신, 세계은행 부총재 진단",
+        "excerpt": "광저 천 세계은행 플래닛 부문 부총재는 지난 8일 세종컨에서 한국의 개발도상국 성장 모델 핵심으로 교육과 기술혁신을 꼽고, 고유가가 에너지 전환을 앞당길 수 있다고 밝혔다.",
+        "body": "광저 천 세계은행 플래닛 부문 부총재는 지난 8일 세종컨에서 한국이 개발도상국 성장 모델로 주목받는 핵심 요소로 교육과 기술혁신을 제시했다. 그는 중동 전쟁으로 촉발된 고유가가 석유 수입국에는 부담이지만, 오히려 탈탄소화를 위한 에너지 전환을 더 빠르게 추진하는 계기가 될 수 있다고 말했다. 이번 발언은 한국의 성장 경험과 글로벌 에너지 전환 과제가 함께 논의되는 맥락에서 나왔다. 고유가 환경이 지속될 경우 석유 수입국들은 에너지 비용 부담을 줄이기 위해 전환 정책에 속도를 낼 가능성이 있다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Korea’s Growth Model Centers on Education and Tech Innovation: World Bank VP",
+        "excerpt": "World Bank Planet Vice President Guangzhe Chen said on the 8th at Sejong Convention that education and technological innovation are core to Korea’s developing-country growth model, while high oil prices may accelerate energy transition.",
+        "body": "World Bank Planet Vice President Guangzhe Chen said on the 8th at Sejong Convention that education and technological innovation are key elements behind Korea’s role as a growth model for developing countries. He said high oil prices triggered by the Middle East war are a burden for oil-importing countries, but could also become a catalyst for faster energy transition toward decarbonization. His remarks came in a discussion linking Korea’s growth experience with global energy-transition challenges. If high oil prices persist, oil-importing countries may move faster on transition policies to reduce energy-cost pressure. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "韓国成長モデルの核心は教育と技術革新、世界銀行副総裁が指摘",
+        "excerpt": "世界銀行プラネット部門の広哲陳副総裁は8日、世宗コンで、韓国の開発途上国向け成長モデルの核心に教育と技術革新を挙げ、高油価がエネルギー転換を早め得ると述べた。",
+        "body": "世界銀行プラネット部門の広哲陳副総裁は8日、世宗コンで、韓国が開発途上国の成長モデルとして注目される核心要素に教育と技術革新を提示した。陳氏は、中東戦争に端を発する高油価は石油輸入国にとって負担だが、脱炭素化に向けたエネルギー転換をより速く進める契機にもなり得ると述べた。今回の発言は、韓国の成長経験と世界的なエネルギー転換課題が同時に論じられる文脈で出たものだ。高油価が続けば、石油輸入国はエネルギー費用の負担を減らすため、転換政策を加速させる可能性がある。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "韩国增长模式关键在教育与技术创新，世界银行副行长解读",
+        "excerpt": "世界银行“地球”部门副行长广哲陈8日在世宗会议上表示，教育和技术创新是韩国作为发展中国家增长模式的核心，高油价或推动能源转型加速。",
+        "body": "世界银行“地球”部门副行长广哲陈8日在世宗会议上表示，韩国被视为发展中国家增长模式，其核心要素是教育和技术创新。他说，中东战争引发的高油价虽然给石油进口国带来负担，但也可能成为推动这些国家为实现脱碳而加快能源转型的契机。此番发言是在讨论韩国增长经验与全球能源转型课题的背景下作出的。如果高油价持续，石油进口国可能为降低能源成本压力而加快转型政策。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "El modelo de crecimiento de Corea se apoya en educación e innovación tecnológica",
+        "excerpt": "Guangzhe Chen, vicepresidente del área Planeta del Banco Mundial, dijo el día 8 en Sejong Convention que educación e innovación tecnológica son claves del modelo coreano y que el petróleo caro puede acelerar la transición energética.",
+        "body": "Guangzhe Chen, vicepresidente del área Planeta del Banco Mundial, dijo el día 8 en Sejong Convention que la educación y la innovación tecnológica son elementos centrales por los que Corea es observada como modelo de crecimiento para países en desarrollo. Señaló que los altos precios del petróleo causados por la guerra en Oriente Medio son una carga para los países importadores, pero también podrían convertirse en un impulso para acelerar la transición energética orientada a la descarbonización. Sus comentarios se dieron en un contexto que vinculó la experiencia de crecimiento de Corea con los retos globales de transición energética. Si el petróleo caro continúa, los importadores podrían acelerar sus políticas de transición para aliviar costes energéticos. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Modelo de crescimento da Coreia tem educação e inovação tecnológica no centro",
+        "excerpt": "Guangzhe Chen, vice-presidente de Planeta do Banco Mundial, disse no dia 8 em Sejong Convention que educação e inovação tecnológica sustentam o modelo coreano e que petróleo caro pode acelerar a transição energética.",
+        "body": "Guangzhe Chen, vice-presidente de Planeta do Banco Mundial, afirmou no dia 8 em Sejong Convention que educação e inovação tecnológica são elementos centrais que tornam a Coreia um modelo de crescimento para países em desenvolvimento. Ele disse que a alta do petróleo provocada pela guerra no Oriente Médio pesa sobre países importadores, mas também pode servir de impulso para acelerar a transição energética voltada à descarbonização. A fala ocorreu em um contexto que relacionou a experiência de crescimento coreana aos desafios globais da transição energética. Se os preços elevados persistirem, importadores de petróleo podem acelerar políticas de transição para reduzir custos de energia. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Koreas Wachstumsmodell: Bildung und technische Innovation als Kernfaktoren",
+        "excerpt": "Guangzhe Chen, Weltbank-Vizepräsident für Planet, sagte am 8. bei Sejong Convention, Bildung und technologische Innovation prägten Koreas Modell für Entwicklungsländer; hohe Ölpreise könnten die Energiewende beschleunigen.",
+        "body": "Guangzhe Chen, Vizepräsident des Weltbank-Bereichs Planet, sagte am 8. bei Sejong Convention, Bildung und technologische Innovation seien zentrale Elemente, durch die Korea als Wachstumsmodell für Entwicklungsländer wahrgenommen werde. Die durch den Krieg im Nahen Osten ausgelösten hohen Ölpreise belasteten zwar Öl importierende Länder, könnten aber zugleich ein Anlass sein, die Energiewende zur Dekarbonisierung schneller voranzutreiben. Die Aussage fiel in einem Kontext, in dem Koreas Wachstumserfahrung und globale Aufgaben der Energiewende gemeinsam diskutiert wurden. Sollten hohe Ölpreise anhalten, könnten Importländer ihre Transformationspolitik beschleunigen, um Energiekosten zu senken. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Le modèle de croissance coréen mise sur l’éducation et l’innovation technologique",
+        "excerpt": "Guangzhe Chen, vice-président Planète de la Banque mondiale, a déclaré le 8 à Sejong Convention que l’éducation et l’innovation technologique sont au cœur du modèle coréen et que le pétrole cher peut accélérer la transition énergétique.",
+        "body": "Guangzhe Chen, vice-président du pôle Planète de la Banque mondiale, a déclaré le 8 à Sejong Convention que l’éducation et l’innovation technologique sont les éléments clés qui font de la Corée un modèle de croissance pour les pays en développement. Il a indiqué que la hausse des prix du pétrole provoquée par la guerre au Moyen-Orient pèse sur les pays importateurs, mais peut aussi devenir un facteur accélérant la transition énergétique vers la décarbonation. Ces propos s’inscrivent dans une discussion reliant l’expérience de croissance coréenne aux défis mondiaux de transition énergétique. Si les prix élevés persistent, les importateurs de pétrole pourraient accélérer leurs politiques de transition pour réduire la pression des coûts énergétiques. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "نموذج النمو الكوري يقوم على التعليم والابتكار التقني وفق مسؤول بالبنك الدولي",
+        "excerpt": "قال غوانغجه تشن، نائب رئيس قطاع الكوكب في البنك الدولي، يوم 8 في سيجونغ كونفنشن، إن التعليم والابتكار التقني عنصران أساسيان في نموذج كوريا للدول النامية، وإن ارتفاع النفط قد يسرع تحول الطاقة.",
+        "body": "قال غوانغجه تشن، نائب رئيس قطاع الكوكب في البنك الدولي، يوم 8 في سيجونغ كونفنشن، إن التعليم والابتكار التقني هما من العناصر الأساسية التي تجعل كوريا محط اهتمام كنموذج نمو للدول النامية. وأضاف أن ارتفاع أسعار النفط الناجم عن حرب الشرق الأوسط يشكل عبئا على الدول المستوردة للنفط، لكنه قد يصبح أيضا دافعا لتسريع تحول الطاقة من أجل إزالة الكربون. جاءت هذه التصريحات في سياق ربط تجربة النمو الكورية بتحديات تحول الطاقة عالميا. وإذا استمرت بيئة الأسعار المرتفعة، فقد تسرع الدول المستوردة للنفط سياسات التحول لتخفيف أعباء تكلفة الطاقة. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "कोरिया के विकास मॉडल में शिक्षा और तकनीकी नवाचार प्रमुख: विश्व बैंक उपाध्यक्ष",
+        "excerpt": "विश्व बैंक के प्लैनेट विभाग के उपाध्यक्ष ग्वांगझे चेन ने 8 तारीख को सेजोंग कन्वेंशन में कहा कि कोरिया के विकासशील देशों के मॉडल में शिक्षा और तकनीकी नवाचार अहम हैं, जबकि महंगा तेल ऊर्जा बदलाव तेज कर सकता है।",
+        "body": "विश्व बैंक के प्लैनेट विभाग के उपाध्यक्ष ग्वांगझे चेन ने 8 तारीख को सेजोंग कन्वेंशन में कहा कि कोरिया को विकासशील देशों के विकास मॉडल के रूप में देखने के पीछे शिक्षा और तकनीकी नवाचार मुख्य तत्व हैं। उन्होंने कहा कि मध्य पूर्व युद्ध से पैदा हुई ऊंची तेल कीमतें तेल आयातक देशों के लिए बोझ हैं, लेकिन वे डीकार्बोनाइजेशन के लिए ऊर्जा संक्रमण को तेज करने का अवसर भी बन सकती हैं। यह टिप्पणी कोरिया के विकास अनुभव और वैश्विक ऊर्जा संक्रमण की चुनौतियों को साथ रखकर हुई चर्चा के संदर्भ में आई। यदि महंगे तेल का माहौल बना रहता है, तो तेल आयातक देश ऊर्जा लागत का दबाव घटाने के लिए संक्रमण नीतियों को तेज कर सकते हैं। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Model Pertumbuhan Korea Bertumpu pada Pendidikan dan Inovasi Teknologi",
+        "excerpt": "Guangzhe Chen, Wakil Presiden Planet Bank Dunia, pada tanggal 8 di Sejong Convention mengatakan pendidikan dan inovasi teknologi menjadi inti model pertumbuhan Korea bagi negara berkembang, sementara harga minyak tinggi dapat mempercepat transisi energi.",
+        "body": "Guangzhe Chen, Wakil Presiden Planet Bank Dunia, pada tanggal 8 di Sejong Convention mengatakan bahwa pendidikan dan inovasi teknologi adalah unsur utama yang membuat Korea diperhatikan sebagai model pertumbuhan bagi negara berkembang. Ia menyebut harga minyak tinggi akibat perang Timur Tengah memang menjadi beban bagi negara pengimpor minyak, tetapi juga dapat menjadi pemicu untuk mempercepat transisi energi menuju dekarbonisasi. Pernyataan ini muncul dalam konteks pembahasan pengalaman pertumbuhan Korea dan tantangan transisi energi global. Jika harga minyak tinggi berlanjut, negara pengimpor minyak dapat mempercepat kebijakan transisi untuk mengurangi tekanan biaya energi. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "702a43104696",
+    "slug": "고유가-지원금-2차-지급기준-오늘-공개소득-하위-70-선별-304146",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-05-10T20:52:48.487Z",
+    "updatedAt": "2026-05-10T20:52:48.488Z",
+    "sourceName": "yna.co.kr",
+    "sourceUrl": "https://www.yna.co.kr/view/AKR20260510024800530",
+    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260510024800530",
+    "titleFingerprint": "06ae93f11d81ca73f91f714be47bd9fd9fe39fb4",
+    "dedupKeys": [
+      "702a431046961ddb748fdb7ab8aa11243f07fc75",
+      "06ae93f11d81ca73f91f714be47bd9fd9fe39fb4",
+      "6f9531a4fdf10ffde9dddd4b384dea2060c36eb7"
+    ],
+    "imageUrl": "/images/articles/702a43104696.jpg",
+    "i18n": {
+      "ko": {
+        "title": "고유가 피해지원금 2차 기준 11일 공개, 소득 하위 70% 선별",
+        "excerpt": "정부의 고유가 피해지원금 2차 지급 기준이 11일 공개된다. 이번 기준은 소득 하위 70%를 선별 대상으로 삼아 지원 여부를 가르는 핵심 내용이다.",
+        "body": "고유가 피해지원금 2차 지급 기준이 11일 공개된다. 서울발 연합뉴스 보도에 따르면 이번 발표는 고유가로 피해를 본 계층에 대한 추가 지원의 대상과 기준을 알리는 절차다. 핵심은 소득 하위 70%를 선별한다는 점이다. 2차 지급 기준이 공개되면 지원 대상에 포함되는지 여부를 판단할 근거가 마련된다. 다만 원문에는 구체적인 지급액, 신청 방식, 실제 지급 일정 등 세부 내용은 제시되지 않았다. 이번 기준 공개는 고유가 부담을 겪는 가구의 지원 가능성을 가늠하는 기준점이 될 전망이다. 출처: yna.co.kr."
+      },
+      "en": {
+        "title": "Second High-Oil-Price Relief Criteria Due May 11, Bottom 70% by Income Targeted",
+        "excerpt": "The second-round criteria for high-oil-price damage relief will be disclosed on May 11, with eligibility centered on selecting the bottom 70% by income.",
+        "body": "The criteria for the second round of high-oil-price damage relief will be disclosed on May 11. According to a Seoul-datelined Yonhap News Agency report, the announcement will set out the standards for additional support for people affected by high oil prices. The key point is that recipients will be selected from the bottom 70% by income. Once the second-round criteria are released, they will provide the basis for determining who is included. The original report did not provide details such as the payment amount, application method, or actual payment schedule. The disclosure is expected to serve as a reference point for households facing high oil-price burdens. Source: yna.co.kr."
+      },
+      "ja": {
+        "title": "高油価被害支援金の第2次基準、11日公開へ 所得下位70%を選別",
+        "excerpt": "高油価被害支援金の第2次支給基準が11日に公開される。今回の基準は所得下位70%を選別対象とし、支援対象の判断材料となる。",
+        "body": "高油価被害支援金の第2次支給基準が11日に公開される。ソウル発の聯合ニュース報道によると、今回の発表は高油価で被害を受けた層に対する追加支援の対象と基準を示す手続きだ。焦点は所得下位70%を選別する点にある。第2次支給基準が公開されれば、支援対象に含まれるかどうかを判断する根拠が整う。ただし原文では、具体的な支給額、申請方法、実際の支給日程などの詳細は示されていない。今回の基準公開は、高油価負担を抱える世帯が支援可能性を見極める基準点になる見通しだ。出典: yna.co.kr。"
+      },
+      "zh": {
+        "title": "高油价受损补助第二轮标准11日公布，锁定收入后70%人群",
+        "excerpt": "高油价受损补助第二轮发放标准将于11日公布。本轮标准以收入后70%为筛选对象，成为判断是否纳入支持范围的核心依据。",
+        "body": "高油价受损补助第二轮发放标准将于11日公布。据首尔发出的韩联社报道，此次发布将说明面向受高油价影响群体的追加支持对象和标准。核心内容是筛选收入后70%人群。第二轮发放标准公布后，将为判断是否属于支持对象提供依据。不过，原文未提及具体发放金额、申请方式或实际发放日程等细节。此次标准公开预计将成为承受高油价负担家庭判断获得支持可能性的参考点。来源: yna.co.kr。"
+      },
+      "es": {
+        "title": "Ayuda por altos precios del petróleo: segunda ronda se anuncia el día 11",
+        "excerpt": "Los criterios de la segunda ronda de ayuda por daños derivados de altos precios del petróleo se publicarán el día 11, con selección del 70% inferior por ingresos.",
+        "body": "Los criterios para la segunda ronda de la ayuda por daños causados por altos precios del petróleo se publicarán el día 11. Según un reporte de Yonhap fechado en Seúl, el anuncio dará a conocer los criterios y el grupo objetivo de apoyo adicional para quienes han sufrido por los altos precios del petróleo. El punto central es la selección del 70% inferior por nivel de ingresos. Una vez publicados los criterios, habrá una base para determinar quién queda incluido. El texto original no detalla el monto, el método de solicitud ni el calendario efectivo de pago. La publicación servirá como referencia para hogares afectados por esa carga. Fuente: yna.co.kr."
+      },
+      "pt": {
+        "title": "Ajuda por alta do petróleo terá critérios da 2ª rodada divulgados no dia 11",
+        "excerpt": "Os critérios da segunda rodada de auxílio por danos causados pelos altos preços do petróleo serão divulgados no dia 11, mirando os 70% de menor renda.",
+        "body": "Os critérios para a segunda rodada do auxílio por danos ligados aos altos preços do petróleo serão divulgados no dia 11. Segundo reportagem da Yonhap a partir de Seul, o anúncio apresentará os padrões e o público-alvo do apoio adicional a grupos afetados pela alta do petróleo. O ponto central é a seleção dos 70% de menor renda. Com a divulgação dos critérios, haverá uma base para avaliar quem será incluído no apoio. O texto original não informa valor do pagamento, forma de solicitação nem calendário efetivo de repasse. A publicação tende a servir como referência para famílias sob esse peso. Fonte: yna.co.kr."
+      },
+      "de": {
+        "title": "Zweite Runde der Ölpreis-Hilfe: Kriterien am 11. für untere 70% der Einkommen",
+        "excerpt": "Die Kriterien für die zweite Zahlung der Hilfe wegen hoher Ölpreise werden am 11. bekannt gegeben. Im Mittelpunkt steht die Auswahl der unteren 70% nach Einkommen.",
+        "body": "Die Kriterien für die zweite Runde der Hilfe wegen Schäden durch hohe Ölpreise werden am 11. veröffentlicht. Laut einem Yonhap-Bericht aus Seoul soll die Bekanntgabe die Zielgruppe und die Standards für zusätzliche Unterstützung der von hohen Ölpreisen betroffenen Gruppen nennen. Kernpunkt ist die Auswahl der unteren 70% nach Einkommen. Nach der Veröffentlichung entsteht eine Grundlage, um zu beurteilen, wer einbezogen wird. Der Originalbericht enthält keine Angaben zu konkreter Zahlungshöhe, Antragsverfahren oder tatsächlichem Auszahlungstermin. Die Kriterien dürften für belastete Haushalte ein wichtiger Bezugspunkt sein. Quelle: yna.co.kr."
+      },
+      "fr": {
+        "title": "Aide liée au prix élevé du pétrole: critères de 2e versement publiés le 11",
+        "excerpt": "Les critères du deuxième versement de l’aide pour les dommages liés aux prix élevés du pétrole seront publiés le 11, visant les 70% les plus bas en revenu.",
+        "body": "Les critères du deuxième versement de l’aide pour les dommages causés par les prix élevés du pétrole seront publiés le 11. Selon une dépêche de Yonhap depuis Séoul, cette annonce précisera les standards et le public visé par un soutien supplémentaire aux groupes touchés. L’élément central est la sélection des 70% les plus bas en revenu. Une fois les critères publiés, ils serviront de base pour déterminer l’inclusion dans le dispositif. Le texte original ne donne pas de détails sur le montant, la procédure de demande ni le calendrier effectif du paiement. Cette publication devrait devenir un repère pour les ménages concernés. Source: yna.co.kr."
+      },
+      "ar": {
+        "title": "معايير الدفعة الثانية لدعم أضرار ارتفاع النفط تعلن في 11 وتستهدف أدنى 70% دخلا",
+        "excerpt": "تعلن معايير الدفعة الثانية من دعم أضرار ارتفاع أسعار النفط في 11، مع تركيز الاختيار على أدنى 70% من حيث الدخل لتحديد المشمولين بالدعم.",
+        "body": "ستعلن معايير الدفعة الثانية من دعم أضرار ارتفاع أسعار النفط في 11. وبحسب تقرير لوكالة يونهاب من سيول، يوضح الإعلان معايير الدعم الإضافي والفئات المستهدفة ممن تضرروا من ارتفاع أسعار النفط. النقطة الأساسية هي اختيار أدنى 70% من حيث الدخل. وبعد نشر معايير الدفعة الثانية، ستتوافر قاعدة لتحديد ما إذا كان الشخص أو الأسرة ضمن نطاق الدعم. ولم يتضمن النص الأصلي تفاصيل عن مبلغ الصرف أو طريقة التقديم أو موعد الدفع الفعلي. ومن المتوقع أن تكون هذه المعايير مرجعا للأسر التي تتحمل عبء أسعار النفط المرتفعة. المصدر: yna.co.kr."
+      },
+      "hi": {
+        "title": "ऊंचे तेल दाम राहत की दूसरी किस्त के मानदंड 11 को, आय के निचले 70% पर ध्यान",
+        "excerpt": "ऊंचे तेल दामों से हुए नुकसान के लिए राहत की दूसरी किस्त के मानदंड 11 को जारी होंगे। इसमें आय के निचले 70% को चयन का आधार बनाया जाएगा।",
+        "body": "ऊंचे तेल दामों से हुए नुकसान के लिए राहत की दूसरी किस्त के मानदंड 11 को जारी किए जाएंगे। सियोल से योनहाप की रिपोर्ट के अनुसार, यह घोषणा ऊंचे तेल दामों से प्रभावित समूहों के लिए अतिरिक्त सहायता के対象 और मानदंड बताएगी। मुख्य बात आय के निचले 70% को चुनना है। दूसरी किस्त के मानदंड सामने आने के बाद यह तय करने का आधार मिलेगा कि कौन सहायता दायरे में आता है। मूल रिपोर्ट में भुगतान राशि, आवेदन विधि या वास्तविक भुगतान कार्यक्रम जैसे विवरण नहीं दिए गए हैं। यह खुलासा ऊंचे तेल दामों का बोझ झेल रहे परिवारों के लिए महत्वपूर्ण संदर्भ बनेगा। स्रोत: yna.co.kr."
+      },
+      "id": {
+        "title": "Kriteria Bantuan Harga Minyak Tinggi Tahap 2 Dibuka 11, Sasar 70% Pendapatan Bawah",
+        "excerpt": "Kriteria pembayaran tahap kedua bantuan kerugian akibat harga minyak tinggi akan diumumkan pada 11, dengan seleksi pada 70% kelompok pendapatan terbawah.",
+        "body": "Kriteria pembayaran tahap kedua bantuan kerugian akibat harga minyak tinggi akan diumumkan pada 11. Menurut laporan Yonhap dari Seoul, pengumuman ini akan menjelaskan sasaran dan standar dukungan tambahan bagi kelompok yang terdampak harga minyak tinggi. Intinya adalah seleksi terhadap 70% kelompok pendapatan terbawah. Setelah kriteria tahap kedua dirilis, masyarakat akan memiliki dasar untuk menilai apakah termasuk penerima dukungan. Laporan asli tidak memuat rincian seperti jumlah pembayaran, cara pengajuan, atau jadwal pembayaran aktual. Pengumuman ini diperkirakan menjadi acuan bagi rumah tangga yang menanggung beban harga minyak tinggi. Sumber: yna.co.kr."
+      }
+    }
+  },
+  {
     "id": "1bc61f072f5b",
     "slug": "전삼노-나서서-끝내달라파업-대신-타결-원한다는-삼성맨들-무슨-일-649783",
     "channelId": "ETF",
@@ -4271,231 +4496,6 @@
         "title": "Doosan Fuel Cell Paling Banyak Dibeli, Saham Preferen Samsung Ikut Masuk",
         "excerpt": "hankyung.com melaporkan Doosan Fuel Cell menjadi saham yang paling banyak dibeli, sementara saham preferen Samsung Electronics juga ikut masuk.",
         "body": "Menurut hankyung.com, Doosan Fuel Cell muncul sebagai saham yang paling banyak dibeli, dan saham preferen Samsung Electronics juga disebut sebagai bagian dari pembelian. Laporan ini menunjukkan saham mana yang menonjol dalam arus pembelian tertentu: Doosan Fuel Cell mencatat pembelian terbanyak, sementara saham preferen Samsung Electronics juga masuk dalam daftar. Informasi asli tidak memuat rincian tambahan seperti pihak pembeli, periode, atau nilai transaksi. Investor yang mengikuti saham terkait perlu membaca konsentrasi pembelian ini hanya dalam batas fakta yang dilaporkan. Sumber: hankyung.com"
-      }
-    }
-  },
-  {
-    "id": "0b47a0516c76",
-    "slug": "억대-큰손-개미-증시-대거-복귀-352044",
-    "channelId": "ETF",
-    "category": "etf",
-    "publishedAt": "2026-05-10T11:42:05.916Z",
-    "updatedAt": "2026-05-10T11:42:05.916Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/2026051065991",
-    "canonicalUrl": "https://www.hankyung.com/article/2026051065991",
-    "titleFingerprint": "d27f1710faf224d0fdc6f2281a03802dcbc097e2",
-    "dedupKeys": [
-      "0b47a0516c769327992a004c0df33069ac613462",
-      "d27f1710faf224d0fdc6f2281a03802dcbc097e2",
-      "17e18fe7e583decc2c743ebf1ec4ff517edd5b74"
-    ],
-    "imageUrl": "/images/articles/0b47a0516c76.png",
-    "i18n": {
-      "ko": {
-        "title": "'억대' 큰손 개미 증시 대거 복귀, 개인투자자 수급 변화 주목",
-        "excerpt": "hankyung.com 보도에 따르면 억대 자금을 굴리는 큰손 개인투자자들이 증시에 대거 복귀하며 개인 수급 변화가 시장의 관심사로 떠올랐다.",
-        "body": "억대 자금을 운용하는 이른바 ‘큰손 개미’가 국내 증시에 대거 복귀하고 있다고 hankyung.com이 보도했다. 보도 제목에 따르면 최근 증시에서 자금 규모가 큰 개인투자자의 움직임이 다시 두드러지고 있다. 이는 개인투자자 수급이 시장에서 다시 주목받는 흐름으로 해석된다. 다만 원문 요약에는 구체적인 종목, 시점, 매수 규모 등 세부 수치가 제시되지 않았다. 시장 참여자들은 큰손 개인투자자의 복귀가 향후 증시 거래 흐름과 투자심리에 어떤 영향을 줄지 주시하고 있다. 출처: hankyung.com."
-      },
-      "en": {
-        "title": "High-Net-Worth Retail Investors Return to Stocks, Drawing Market Attention",
-        "excerpt": "According to hankyung.com, retail investors managing hundreds of millions of won are returning to the stock market, putting individual investor flows back in focus.",
-        "body": "Retail investors managing hundreds of millions of won, often described in Korea as “big-money ants,” are returning to the domestic stock market in large numbers, hankyung.com reported. According to the headline, the renewed activity of individual investors with sizable capital is becoming more visible in the market. The move puts retail investor flows back under market scrutiny. However, the provided source summary does not include specific stocks, timing, or purchase amounts. Market participants are watching how the return of these large retail investors may affect trading patterns and investor sentiment. Source: hankyung.com."
-      },
-      "ja": {
-        "title": "億単位の大口個人投資家が株式市場に大挙復帰、需給変化に注目",
-        "excerpt": "hankyung.comによると、億単位の資金を運用する大口個人投資家が株式市場に大挙復帰し、個人投資家の需給変化が注目されている。",
-        "body": "億単位の資金を運用するいわゆる大口個人投資家が、国内株式市場に大挙復帰しているとhankyung.comが報じた。見出しによれば、資金規模の大きい個人投資家の動きが市場で再び目立ち始めている。これにより、個人投資家の需給が改めて市場の関心を集めている。ただし、提供された原文要約には具体的な銘柄、時期、買い付け規模などの詳細な数値は示されていない。市場関係者は、大口個人投資家の復帰が今後の売買動向や投資心理にどのような影響を与えるかを注視している。出典: hankyung.com。"
-      },
-      "zh": {
-        "title": "亿级资金散户大举重返股市，个人投资者资金流向受关注",
-        "excerpt": "据hankyung.com报道，管理亿级资金的大户散户正大举重返股市，个人投资者资金流向再次成为市场关注焦点。",
-        "body": "据hankyung.com报道，管理亿级资金的所谓“大户散户”正在大举重返韩国股市。根据报道标题，资金规模较大的个人投资者动向近期在市场中再次变得突出。这意味着个人投资者资金流向重新受到市场关注。不过，所提供的原文摘要并未列出具体股票、时间点或买入规模等详细数据。市场参与者正在关注这些大户个人投资者的回归将如何影响今后的交易走势和投资情绪。来源：hankyung.com。"
-      },
-      "es": {
-        "title": "Grandes inversores minoristas vuelven a la bolsa y atraen la atención",
-        "excerpt": "Según hankyung.com, inversores minoristas con cientos de millones de won están regresando en masa al mercado bursátil, reactivando el foco sobre sus flujos.",
-        "body": "Los inversores minoristas que gestionan cientos de millones de won, conocidos en Corea como grandes “hormigas” del mercado, están regresando en masa a la bolsa local, informó hankyung.com. Según el titular, los movimientos de los inversores individuales con mayor volumen de capital vuelven a destacar en el mercado. Esta tendencia coloca de nuevo los flujos minoristas en el centro de la atención. Sin embargo, el resumen proporcionado no incluye acciones concretas, fechas ni montos de compra. Los participantes del mercado observan qué impacto puede tener este regreso en la negociación y en el ánimo inversor. Fuente: hankyung.com."
-      },
-      "pt": {
-        "title": "Grandes investidores de varejo voltam à bolsa e reacendem atenção do mercado",
-        "excerpt": "Segundo o hankyung.com, investidores individuais com centenas de milhões de won estão voltando em massa ao mercado acionário, recolocando seus fluxos em foco.",
-        "body": "Investidores individuais que administram centenas de milhões de won, conhecidos na Coreia como grandes “formigas” do mercado, estão voltando em massa à bolsa local, informou o hankyung.com. De acordo com o título, os movimentos de investidores pessoa física com maior volume de capital voltaram a ganhar destaque no mercado. A tendência recoloca os fluxos de varejo no centro da atenção. No entanto, o resumo fornecido não apresenta ações específicas, datas ou valores de compra. Participantes do mercado acompanham como esse retorno pode afetar o ritmo das negociações e o sentimento dos investidores. Fonte: hankyung.com."
-      },
-      "de": {
-        "title": "Kapitalstarke Privatanleger kehren an die Börse zurück, Markt schaut hin",
-        "excerpt": "Laut hankyung.com kehren Privatanleger mit Hunderten Millionen Won in großem Umfang an den Aktienmarkt zurück, wodurch ihre Kapitalflüsse wieder im Fokus stehen.",
-        "body": "Privatanleger, die Hunderte Millionen Won verwalten und in Korea oft als kapitalstarke Kleinanleger bezeichnet werden, kehren in großer Zahl an den heimischen Aktienmarkt zurück, berichtete hankyung.com. Dem Titel zufolge fallen die Bewegungen einzelner Anleger mit größerem Kapitalvolumen am Markt wieder stärker auf. Damit rücken die Kapitalflüsse von Privatanlegern erneut in den Fokus. Die bereitgestellte Zusammenfassung nennt jedoch keine konkreten Aktien, Zeitpunkte oder Kaufvolumina. Marktteilnehmer beobachten, wie diese Rückkehr den Handel und die Anlegerstimmung beeinflussen könnte. Quelle: hankyung.com."
-      },
-      "fr": {
-        "title": "Les gros investisseurs particuliers reviennent en Bourse, le marché attentif",
-        "excerpt": "Selon hankyung.com, des particuliers gérant des centaines de millions de wons reviennent massivement en Bourse, remettant leurs flux au centre de l’attention.",
-        "body": "Les investisseurs particuliers gérant des centaines de millions de wons, souvent qualifiés en Corée de grands investisseurs individuels, reviennent massivement sur le marché boursier local, a rapporté hankyung.com. D’après le titre, les mouvements des particuliers disposant de capitaux importants redeviennent visibles sur le marché. Cette évolution replace les flux des investisseurs individuels au centre de l’attention. Toutefois, le résumé fourni ne mentionne pas d’actions précises, de calendrier ni de montants d’achat. Les acteurs du marché surveillent l’effet possible de ce retour sur les échanges et le sentiment des investisseurs. Source : hankyung.com."
-      },
-      "ar": {
-        "title": "عودة كبار المستثمرين الأفراد إلى الأسهم تلفت أنظار السوق من جديد",
-        "excerpt": "بحسب hankyung.com، يعود مستثمرون أفراد يديرون مئات الملايين من الوون بكثافة إلى سوق الأسهم، ما يعيد تدفقات الأفراد إلى دائرة الاهتمام.",
-        "body": "أفاد موقع hankyung.com بأن مستثمرين أفراد يديرون مئات الملايين من الوون، ويشار إليهم في كوريا باسم كبار مستثمري التجزئة، يعودون بأعداد كبيرة إلى سوق الأسهم المحلية. ووفق العنوان، أصبحت تحركات المستثمرين الأفراد ذوي رؤوس الأموال الكبيرة أكثر وضوحا في السوق مجددا. ويعيد ذلك تدفقات المستثمرين الأفراد إلى دائرة المتابعة. لكن الملخص المتاح لا يورد أسهما محددة أو توقيتا أو أحجام شراء مفصلة. ويراقب المشاركون في السوق تأثير هذه العودة على حركة التداول ومعنويات المستثمرين لاحقا. المصدر: hankyung.com."
-      },
-      "hi": {
-        "title": "बड़े खुदरा निवेशक शेयर बाजार में लौटे, व्यक्तिगत पूंजी प्रवाह पर नजर",
-        "excerpt": "hankyung.com के अनुसार, करोड़ों वॉन संभालने वाले बड़े खुदरा निवेशक शेयर बाजार में बड़े पैमाने पर लौट रहे हैं, जिससे व्यक्तिगत निवेश प्रवाह फिर चर्चा में है।",
-        "body": "hankyung.com ने बताया कि करोड़ों वॉन की पूंजी संभालने वाले तथाकथित बड़े खुदरा निवेशक घरेलू शेयर बाजार में बड़े पैमाने पर लौट रहे हैं। शीर्षक के अनुसार, बड़े पूंजी आकार वाले व्यक्तिगत निवेशकों की गतिविधि बाजार में फिर स्पष्ट रूप से दिखने लगी है। इससे व्यक्तिगत निवेशक प्रवाह दोबारा बाजार की निगरानी में आ गया है। हालांकि उपलब्ध मूल सारांश में विशेष शेयरों, समय या खरीद राशि जैसे विस्तृत आंकड़े नहीं दिए गए हैं। बाजार प्रतिभागी देख रहे हैं कि इन बड़े व्यक्तिगत निवेशकों की वापसी आगे कारोबार के रुझान और निवेशक भावना को कैसे प्रभावित करेगी। स्रोत: hankyung.com."
-      },
-      "id": {
-        "title": "Investor ritel bermodal besar kembali ke bursa, arus individu jadi sorotan",
-        "excerpt": "Menurut hankyung.com, investor individu yang mengelola ratusan juta won kembali besar-besaran ke pasar saham, membuat arus dana ritel kembali diperhatikan.",
-        "body": "Investor individu yang mengelola ratusan juta won, sering disebut sebagai investor ritel bermodal besar di Korea, kembali besar-besaran ke pasar saham domestik, lapor hankyung.com. Berdasarkan judul laporan, pergerakan investor individu dengan skala dana besar kembali menonjol di pasar. Hal ini membuat arus dana investor ritel kembali menjadi perhatian. Namun, ringkasan sumber yang tersedia tidak mencantumkan saham tertentu, waktu, atau besaran pembelian secara rinci. Pelaku pasar mencermati bagaimana kembalinya investor individu besar ini dapat memengaruhi pola perdagangan dan sentimen investasi. Sumber: hankyung.com."
-      }
-    }
-  },
-  {
-    "id": "2f8e94b1c83d",
-    "slug": "정유증권조선덜-오른-실적주는-409264",
-    "channelId": "ETF",
-    "category": "etf",
-    "publishedAt": "2026-05-10T11:41:09.352Z",
-    "updatedAt": "2026-05-10T11:41:09.352Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/2026051066001",
-    "canonicalUrl": "https://www.hankyung.com/article/2026051066001",
-    "titleFingerprint": "43c6220da0621d25a9f407051e07c2276ace2ac0",
-    "dedupKeys": [
-      "2f8e94b1c83d6622bd9cf5590804f7a7ea553083",
-      "43c6220da0621d25a9f407051e07c2276ace2ac0",
-      "f741b70a35f962f537880e1110cc695bad98d5a9"
-    ],
-    "imageUrl": "/images/articles/2f8e94b1c83d.jpg",
-    "i18n": {
-      "ko": {
-        "title": "정유·증권·조선 실적주 주목…상승폭 덜한 종목은",
-        "excerpt": "hankyung.com은 정유·증권·조선 업종에서 실적주로 분류되지만 상대적으로 덜 오른 종목에 시장의 관심이 모이고 있다고 보도했다.",
-        "body": "hankyung.com은 정유·증권·조선 업종의 실적주 가운데 주가 상승폭이 상대적으로 덜한 종목들이 투자자들의 관심 대상이 되고 있다고 전했다. 보도는 실적을 기반으로 한 종목 선별 흐름 속에서 이미 크게 오른 종목보다 덜 오른 실적주를 찾으려는 움직임에 초점을 맞췄다. 정유, 증권, 조선은 기사 제목에서 핵심 업종으로 제시됐으며, 해당 업종 내 실적주가 시장에서 비교 대상으로 거론됐다. 향후 주가 흐름은 실적 평가와 업종별 투자 심리에 따라 달라질 수 있다. 출처: hankyung.com"
-      },
-      "en": {
-        "title": "Refining, Securities and Shipbuilding Earnings Stocks Draw Attention",
-        "excerpt": "hankyung.com reported that investors are watching relatively less-risen earnings stocks in refining, securities and shipbuilding sectors.",
-        "body": "hankyung.com reported that earnings stocks in the refining, securities and shipbuilding sectors that have risen relatively less are drawing investor attention. The report focused on a market tendency to look for earnings-backed stocks that have not climbed as much as already strongly rising names. Refining, securities and shipbuilding were presented in the headline as the key sectors, with earnings stocks within those groups being compared by the market. Future share-price moves may depend on earnings assessments and sector-specific investor sentiment. Source: hankyung.com"
-      },
-      "ja": {
-        "title": "石油精製・証券・造船の業績株、上昇余地に注目",
-        "excerpt": "hankyung.comは、石油精製・証券・造船業種で業績株とされながら相対的に上昇が小さい銘柄に関心が集まっていると報じた。",
-        "body": "hankyung.comは、石油精製・証券・造船業種の業績株のうち、株価上昇幅が相対的に小さい銘柄が投資家の関心対象になっていると伝えた。報道は、業績を基準に銘柄を選別する流れの中で、すでに大きく上昇した銘柄よりも上昇幅の小さい業績株を探す動きに焦点を当てた。石油精製、証券、造船は記事の見出しで主要業種として示され、各業種内の業績株が市場で比較対象として取り上げられた。今後の株価動向は業績評価と業種別の投資心理に左右される可能性がある。出典: hankyung.com"
-      },
-      "zh": {
-        "title": "炼油、证券、造船业绩股受关注，涨幅较小标的成焦点",
-        "excerpt": "hankyung.com报道称，炼油、证券、造船行业中被归为业绩股但涨幅相对较小的个股正受到市场关注。",
-        "body": "hankyung.com报道称，在炼油、证券、造船行业的业绩股中，股价涨幅相对较小的个股正在成为投资者关注的对象。报道聚焦于市场在按业绩筛选个股的过程中，寻找尚未像部分强势股那样大幅上涨的业绩股这一动向。炼油、证券和造船在标题中被列为核心行业，相关行业内的业绩股也被市场作为比较对象提及。未来股价走势可能取决于业绩评价以及各行业投资情绪。来源: hankyung.com"
-      },
-      "es": {
-        "title": "Refino, valores y astilleros: acciones con resultados y menor subida",
-        "excerpt": "hankyung.com informó que el mercado observa acciones con buenos resultados pero subidas relativamente menores en refino, valores y astilleros.",
-        "body": "hankyung.com informó que, dentro de los sectores de refino, valores y construcción naval, las acciones vinculadas a resultados que han subido relativamente menos están atrayendo la atención de los inversores. La nota se centró en la búsqueda de valores respaldados por beneficios que no hayan avanzado tanto como otros ya muy apreciados. Refino, valores y construcción naval fueron presentados en el titular como los sectores clave, y las acciones con resultados dentro de esos grupos se mencionaron como objeto de comparación en el mercado. La evolución futura puede depender de la evaluación de resultados y del ánimo inversor por sector. Fuente: hankyung.com"
-      },
-      "pt": {
-        "title": "Refino, corretoras e construção naval: ações de resultado em foco",
-        "excerpt": "O hankyung.com informou que ações de resultado com alta relativamente menor em refino, corretoras e construção naval atraem atenção do mercado.",
-        "body": "O hankyung.com informou que, nos setores de refino, corretoras e construção naval, ações classificadas como de resultado e que subiram relativamente menos estão atraindo a atenção dos investidores. A reportagem destacou a busca por papéis apoiados em desempenho que ainda não avançaram tanto quanto nomes já fortemente valorizados. Refino, corretoras e construção naval foram apresentados no título como setores centrais, e as ações de resultado desses grupos foram citadas como alvos de comparação no mercado. O desempenho futuro pode depender da avaliação dos resultados e do sentimento dos investidores por setor. Fonte: hankyung.com"
-      },
-      "de": {
-        "title": "Raffinerien, Broker, Schiffbau: Gewinnaktien mit weniger Kursplus",
-        "excerpt": "hankyung.com berichtete, dass Anleger auf Gewinnaktien aus Raffinerien, Wertpapierhäusern und Schiffbau mit relativ geringeren Kursanstiegen achten.",
-        "body": "hankyung.com berichtete, dass Gewinnaktien aus den Bereichen Raffinerien, Wertpapierhäuser und Schiffbau, deren Kurse vergleichsweise weniger gestiegen sind, die Aufmerksamkeit von Anlegern auf sich ziehen. Der Bericht stellte die Suche nach ergebnisgestützten Aktien in den Mittelpunkt, die noch nicht so stark zugelegt haben wie bereits deutlich gestiegene Titel. Raffinerien, Wertpapierhäuser und Schiffbau wurden in der Überschrift als zentrale Branchen genannt; die entsprechenden Gewinnaktien werden am Markt miteinander verglichen. Die weitere Kursentwicklung kann von der Ergebnisbewertung und der branchenspezifischen Anlegerstimmung abhängen. Quelle: hankyung.com"
-      },
-      "fr": {
-        "title": "Raffinage, courtage et construction navale: valeurs de résultats suivies",
-        "excerpt": "hankyung.com rapporte que les investisseurs surveillent les valeurs de résultats moins montées dans le raffinage, le courtage et la construction navale.",
-        "body": "hankyung.com rapporte que, dans les secteurs du raffinage, du courtage et de la construction navale, les valeurs liées aux résultats dont la hausse boursière reste relativement limitée attirent l’attention des investisseurs. L’article met l’accent sur la recherche de titres soutenus par les résultats mais n’ayant pas autant progressé que certaines valeurs déjà fortement montées. Le raffinage, le courtage et la construction navale sont présentés dans le titre comme les secteurs clés, et les valeurs de résultats de ces groupes sont comparées par le marché. L’évolution future dépendra de l’évaluation des résultats et du sentiment sectoriel. Source: hankyung.com"
-      },
-      "ar": {
-        "title": "أسهم نتائج في التكرير والوساطة وبناء السفن تجذب الانتباه",
-        "excerpt": "أفاد hankyung.com بأن السوق يراقب أسهم النتائج الأقل ارتفاعا نسبيا في قطاعات التكرير والوساطة وبناء السفن.",
-        "body": "أفاد hankyung.com بأن أسهم النتائج في قطاعات التكرير والوساطة وبناء السفن، التي ارتفعت أسعارها بدرجة أقل نسبيا، أصبحت محط اهتمام المستثمرين. وركز التقرير على توجه السوق للبحث عن أسهم مدعومة بالأداء لم ترتفع بقدر الأسهم التي سجلت مكاسب كبيرة بالفعل. ووردت قطاعات التكرير والوساطة وبناء السفن في العنوان كقطاعات رئيسية، مع الإشارة إلى أسهم النتائج داخلها باعتبارها موضع مقارنة في السوق. وقد يتحدد مسار الأسعار لاحقا وفق تقييم النتائج ومعنويات المستثمرين تجاه كل قطاع. المصدر: hankyung.com"
-      },
-      "hi": {
-        "title": "रिफाइनिंग, सिक्योरिटीज और शिपबिल्डिंग के कम चढ़े नतीजा शेयर",
-        "excerpt": "hankyung.com ने बताया कि रिफाइनिंग, सिक्योरिटीज और शिपबिल्डिंग क्षेत्रों में अपेक्षाकृत कम चढ़े नतीजा-आधारित शेयरों पर बाजार की नजर है।",
-        "body": "hankyung.com ने बताया कि रिफाइनिंग, सिक्योरिटीज और शिपबिल्डिंग क्षेत्रों के ऐसे नतीजा-आधारित शेयर निवेशकों का ध्यान खींच रहे हैं जिनकी कीमतें अपेक्षाकृत कम बढ़ी हैं। रिपोर्ट का जोर इस प्रवृत्ति पर था कि बाजार पहले से तेज चढ़े शेयरों के बजाय ऐसे शेयर खोज रहा है जिनका आधार प्रदर्शन है लेकिन जिनमें बढ़त कम रही है। रिफाइनिंग, सिक्योरिटीज और शिपबिल्डिंग को शीर्षक में प्रमुख क्षेत्रों के रूप में रखा गया, और इन क्षेत्रों के नतीजा शेयर बाजार में तुलना के विषय बने। आगे की चाल नतीजों के आकलन और क्षेत्रवार निवेश भावना पर निर्भर हो सकती है। स्रोत: hankyung.com"
-      },
-      "id": {
-        "title": "Saham Kinerja Kilang, Sekuritas dan Galangan yang Belum Banyak Naik",
-        "excerpt": "hankyung.com melaporkan bahwa pasar memperhatikan saham berbasis kinerja yang relatif belum banyak naik di sektor kilang, sekuritas dan galangan kapal.",
-        "body": "hankyung.com melaporkan bahwa saham berbasis kinerja di sektor kilang, sekuritas dan galangan kapal yang kenaikannya relatif lebih kecil mulai menarik perhatian investor. Laporan tersebut menyoroti kecenderungan pasar mencari saham yang didukung kinerja tetapi belum naik sebesar saham-saham yang sudah menguat tajam. Kilang, sekuritas dan galangan kapal disebut dalam judul sebagai sektor utama, sementara saham kinerja di dalam kelompok tersebut menjadi bahan perbandingan pasar. Pergerakan harga berikutnya dapat bergantung pada penilaian kinerja dan sentimen investor per sektor. Sumber: hankyung.com"
-      }
-    }
-  },
-  {
-    "id": "4742663dda04",
-    "slug": "고공비행-반도체-etf-지금-올라타도-될까요-637607",
-    "channelId": "ETF",
-    "category": "etf",
-    "publishedAt": "2026-05-10T11:40:06.921Z",
-    "updatedAt": "2026-05-10T11:40:06.921Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/2026051065451",
-    "canonicalUrl": "https://www.hankyung.com/article/2026051065451",
-    "titleFingerprint": "8585d2084f6440f3fae0c7444372dc19c235dad2",
-    "dedupKeys": [
-      "4742663dda04c15e9e071050c314890503c1fcbf",
-      "8585d2084f6440f3fae0c7444372dc19c235dad2",
-      "f81de7d0c1cd64e8be2aacc9373854819e8830b3"
-    ],
-    "imageUrl": "/images/articles/4742663dda04.jpg",
-    "i18n": {
-      "ko": {
-        "title": "반도체 ETF 고공비행, 지금 투자해도 될지 따져봐야 할 핵심 포인트",
-        "excerpt": "한국경제가 반도체 ETF의 가파른 상승세를 다루며 투자자가 지금 진입해도 되는지 점검해야 할 필요성을 제기했다.",
-        "body": "한국경제는 ‘고공비행’ 중인 반도체 ETF를 두고 투자자가 지금 올라타도 되는지를 묻는 내용을 보도했다. 보도는 최근 반도체 ETF가 시장의 주목을 받는 상황에서, 이미 상승세가 이어진 뒤의 진입 판단이 투자자에게 중요한 쟁점이 됐다는 점을 전한다. 제공된 원문에는 구체적인 수익률, 종목 구성, 기준일 등 세부 수치는 제시되지 않았다. 따라서 핵심은 반도체 ETF의 상승 흐름 자체와 현 시점 투자 판단의 필요성이다. 출처: hankyung.com 인용"
-      },
-      "en": {
-        "title": "Semiconductor ETFs Are Flying High: Key Points Before Buying Now",
-        "excerpt": "Hankyung reported on the sharp rise in semiconductor ETFs and raised the question of whether investors should enter the market now.",
-        "body": "Hankyung reported on semiconductor ETFs that have been “flying high” and asked whether investors should buy in at this stage. The report frames the issue around a market segment already drawing attention, where deciding whether to enter after a strong rise has become an important question for investors. The source text provided does not include specific returns, fund holdings, dates, or other figures. The core fact is therefore the strong upward trend in semiconductor ETFs and the need to assess whether current entry is appropriate. Source: quoted from hankyung.com"
-      },
-      "ja": {
-        "title": "半導体ETFが高値圏、今から投資してよいか見極める要点",
-        "excerpt": "韓国経済は半導体ETFの急上昇を取り上げ、投資家が今から参入してよいのかを点検する必要性を伝えた。",
-        "body": "韓国経済は、「高空飛行」する半導体ETFについて、投資家が今から乗ってもよいのかを問う内容を報じた。記事は、半導体ETFが市場の注目を集めるなか、すでに上昇が続いた後の参入判断が投資家にとって重要な論点になっていると伝えている。提供された原文には、具体的な収益率、構成銘柄、基準日などの詳細な数値は示されていない。したがって核心は、半導体ETFの上昇傾向そのものと、現時点での投資判断の必要性にある。出典：hankyung.com引用"
-      },
-      "zh": {
-        "title": "半导体ETF高位上行，现在还能否买入需看这些要点",
-        "excerpt": "韩国经济报道半导体ETF的快速上涨，并提出投资者是否应在当前时点进场的问题。",
-        "body": "韩国经济报道称，围绕正在“高空飞行”的半导体ETF，市场关注投资者现在是否还可以上车。报道指出，在半导体ETF受到市场关注的背景下，经历一轮上涨之后是否进场，已成为投资者需要判断的重要问题。所提供的原文未列出具体收益率、持仓构成、统计日期等详细数据。因此，核心事实是半导体ETF本身的上涨走势，以及当前是否适合投资所带来的判断需求。来源：引用hankyung.com"
-      },
-      "es": {
-        "title": "ETF de semiconductores en alza: claves antes de entrar ahora",
-        "excerpt": "Hankyung informó sobre el fuerte avance de los ETF de semiconductores y planteó si los inversores deberían entrar en este momento.",
-        "body": "Hankyung informó sobre los ETF de semiconductores que están “volando alto” y planteó la pregunta de si los inversores deberían subirse ahora. La nota sitúa el tema en un segmento que ya atrae atención del mercado, donde decidir una entrada tras una fase de alzas se ha vuelto un punto relevante para los inversores. El texto original proporcionado no incluye rentabilidades concretas, composición de fondos, fechas de referencia ni otras cifras. Por tanto, el hecho central es la tendencia alcista de los ETF de semiconductores y la necesidad de evaluar la conveniencia de entrar en este momento. Fuente: citado de hankyung.com"
-      },
-      "pt": {
-        "title": "ETFs de semicondutores em alta: pontos-chave antes de investir agora",
-        "excerpt": "O Hankyung abordou a forte alta dos ETFs de semicondutores e levantou a dúvida sobre a entrada de investidores neste momento.",
-        "body": "O Hankyung informou sobre ETFs de semicondutores que estão em “voo alto” e questionou se investidores devem entrar agora. A reportagem enquadra o tema em um segmento que já chama a atenção do mercado, no qual decidir uma entrada depois de uma sequência de altas se tornou uma questão importante para investidores. O texto original fornecido não apresenta retornos específicos, composição dos fundos, datas de referência ou outros números. Assim, o fato central é a trajetória de alta dos ETFs de semicondutores e a necessidade de avaliar se a entrada no momento atual é adequada. Fonte: citado de hankyung.com"
-      },
-      "de": {
-        "title": "Halbleiter-ETFs im Höhenflug: Worauf Anleger vor dem Einstieg achten sollten",
-        "excerpt": "Hankyung berichtete über den starken Anstieg von Halbleiter-ETFs und stellte die Frage, ob Anleger jetzt noch einsteigen sollten.",
-        "body": "Hankyung berichtete über Halbleiter-ETFs im „Höhenflug“ und stellte die Frage, ob Anleger jetzt noch einsteigen sollten. Der Bericht ordnet das Thema in ein Marktsegment ein, das bereits Aufmerksamkeit erhält; die Entscheidung über einen Einstieg nach einer deutlichen Aufwärtsbewegung ist damit zu einem wichtigen Punkt für Anleger geworden. Der bereitgestellte Originaltext nennt keine konkreten Renditen, Fondsbestandteile, Stichtage oder sonstigen Kennzahlen. Der Kern ist daher der Aufwärtstrend bei Halbleiter-ETFs und die Notwendigkeit, einen Einstieg zum aktuellen Zeitpunkt zu prüfen. Quelle: zitiert nach hankyung.com"
-      },
-      "fr": {
-        "title": "ETF semi-conducteurs en forte hausse : les points à vérifier avant d’entrer",
-        "excerpt": "Hankyung a traité la forte progression des ETF de semi-conducteurs et posé la question d’une entrée des investisseurs maintenant.",
-        "body": "Hankyung a rapporté le cas des ETF de semi-conducteurs en « plein envol » et posé la question de savoir si les investisseurs doivent entrer maintenant. L’article situe le sujet dans un segment déjà suivi par le marché, où décider d’acheter après une phase de hausse devient un enjeu important pour les investisseurs. Le texte source fourni ne mentionne pas de rendements précis, de composition de fonds, de date de référence ni d’autres chiffres. Le fait central reste donc la dynamique haussière des ETF de semi-conducteurs et la nécessité d’évaluer l’opportunité d’une entrée au moment actuel. Source : cité de hankyung.com"
-      },
-      "ar": {
-        "title": "صناديق أشباه الموصلات المتداولة تحلق عالياً: ما يجب فحصه قبل الشراء الآن",
-        "excerpt": "تناول موقع هانكيونغ صعود صناديق ETF المرتبطة بأشباه الموصلات وطرح سؤال ما إذا كان الدخول الآن مناسباً للمستثمرين.",
-        "body": "أفاد موقع هانكيونغ عن صناديق ETF المرتبطة بأشباه الموصلات التي «تحلق عالياً»، وطرح سؤال ما إذا كان بإمكان المستثمرين الدخول في هذه المرحلة. يضع التقرير القضية ضمن قطاع يحظى بالفعل باهتمام السوق، حيث أصبح قرار الدخول بعد موجة صعود مسألة مهمة للمستثمرين. النص الأصلي المقدم لا يتضمن عوائد محددة أو مكونات للصناديق أو تواريخ مرجعية أو أرقاماً تفصيلية أخرى. لذلك تتمثل الحقيقة الأساسية في الاتجاه الصاعد لصناديق ETF الخاصة بأشباه الموصلات والحاجة إلى تقييم ملاءمة الدخول في الوقت الحالي. المصدر: نقلاً عن hankyung.com"
-      },
-      "hi": {
-        "title": "सेमीकंडक्टर ETF ऊंचाई पर: अभी निवेश से पहले समझने योग्य बातें",
-        "excerpt": "हैंक्युंग ने सेमीकंडक्टर ETF की तेज बढ़त पर रिपोर्ट की और पूछा कि क्या निवेशकों को अभी प्रवेश करना चाहिए।",
-        "body": "हैंक्युंग ने “ऊंची उड़ान” भर रहे सेमीकंडक्टर ETF पर रिपोर्ट करते हुए यह सवाल उठाया कि क्या निवेशकों को अब इसमें प्रवेश करना चाहिए। रिपोर्ट का केंद्र वह बाजार खंड है जो पहले से ध्यान आकर्षित कर रहा है, जहां तेज बढ़त के बाद प्रवेश का निर्णय निवेशकों के लिए महत्वपूर्ण मुद्दा बन गया है। उपलब्ध मूल पाठ में ठोस रिटर्न, फंड संरचना, संदर्भ तिथि या अन्य विस्तृत आंकड़े नहीं दिए गए हैं। इसलिए मुख्य तथ्य सेमीकंडक्टर ETF की बढ़ती दिशा और मौजूदा समय में निवेश निर्णय की जांच की जरूरत है। स्रोत: hankyung.com से उद्धृत"
-      },
-      "id": {
-        "title": "ETF Semikonduktor Melonjak Tinggi: Hal Penting Sebelum Masuk Sekarang",
-        "excerpt": "Hankyung melaporkan kenaikan tajam ETF semikonduktor dan mengangkat pertanyaan apakah investor masih perlu masuk saat ini.",
-        "body": "Hankyung melaporkan ETF semikonduktor yang sedang “terbang tinggi” dan mempertanyakan apakah investor sebaiknya masuk pada tahap ini. Laporan tersebut menempatkan isu ini pada segmen pasar yang sudah menarik perhatian, ketika keputusan masuk setelah tren kenaikan menjadi pertimbangan penting bagi investor. Teks sumber yang diberikan tidak memuat imbal hasil spesifik, komposisi dana, tanggal acuan, atau angka rinci lainnya. Karena itu, fakta utamanya adalah tren kenaikan ETF semikonduktor dan kebutuhan untuk menilai kelayakan masuk pada saat ini. Sumber: dikutip dari hankyung.com"
       }
     }
   }
