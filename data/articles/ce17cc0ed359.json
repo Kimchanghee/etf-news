@@ -1,0 +1,75 @@
+{
+  "id": "ce17cc0ed359",
+  "slug": "엔비디아랑-구글-어느-쪽이-유망하죠장단기-투자전략-들어보니-412131",
+  "channelId": "ETF",
+  "category": "etf",
+  "publishedAt": "2026-05-10T22:01:45.047Z",
+  "updatedAt": "2026-05-10T22:01:45.047Z",
+  "sourceName": "mk.co.kr",
+  "sourceUrl": "https://www.mk.co.kr/news/stock/12042849",
+  "canonicalUrl": "https://www.mk.co.kr/news/stock/12042849",
+  "titleFingerprint": "9d7463a3c4691f66814b4467742f25e4ac19e184",
+  "dedupKeys": [
+    "ce17cc0ed3596fec2935c72cdde6f48d26b8fe67",
+    "9d7463a3c4691f66814b4467742f25e4ac19e184",
+    "f35883dfce028b668a925b9b8002bf5be4647c75"
+  ],
+  "imageUrl": "/images/articles/ce17cc0ed359.jpg",
+  "i18n": {
+    "ko": {
+      "title": "엔비디아·구글 AI 투자전략 점검…GPU와 데이터센터 수요가 가른 관전 포인트",
+      "excerpt": "mk.co.kr은 AI 패권 경쟁 속 엔비디아와 구글의 투자 매력을 비교하며 GPU, 메모리, 하이퍼스케일러 데이터센터 수요를 핵심 변수로 짚었다.",
+      "body": "AI 패권 경쟁이 이어지는 가운데 투자자 관심은 엔비디아와 구글 중 어느 쪽이 더 유망한지에 쏠리고 있다. mk.co.kr에 따르면 시가총액 1, 2위권 기업들이 맞붙는 AI 경쟁에서 반도체 투자의 최대 수혜 분야로 GPU가 부각됐고, 엔비디아는 이 흐름을 바탕으로 시총 왕좌에 올랐다. 메모리 업체 마이크론도 AI 수요 확대와 함께 빠르게 성장한 사례로 언급됐다. 배경에는 AI 시대의 금광으로 불리는 하이퍼스케일러 컴퓨팅과 데이터센터 수요 급증이 있다. 알파벳도 이 수요와 맞물려 투자 판단의 주요 축으로 다뤄졌다. 출처: mk.co.kr"
+    },
+    "en": {
+      "title": "Nvidia vs Google AI Strategy: GPU and Data Center Demand Shape the Debate",
+      "excerpt": "mk.co.kr compared Nvidia and Google’s appeal in the AI race, pointing to GPUs, memory growth and hyperscaler data center demand as key factors.",
+      "body": "As the race for AI leadership continues, investors are asking whether Nvidia or Google looks more promising. According to mk.co.kr, AI competition among the top market-cap companies has made GPUs stand out as the biggest beneficiary within semiconductor investing, helping Nvidia rise to the market-cap crown. Memory maker Micron was also cited as a company growing rapidly alongside expanding AI demand. The backdrop is surging demand for hyperscaler computing and data centers, often described as a gold mine in the AI era. Alphabet was also discussed as a major axis for investment judgment tied to that demand. Source: mk.co.kr"
+    },
+    "ja": {
+      "title": "エヌビディアとグーグルのAI投資戦略、GPUとデータセンター需要が焦点",
+      "excerpt": "mk.co.krはAI覇権競争の中でエヌビディアとグーグルの投資魅力を比較し、GPU、メモリー、ハイパースケーラーのデータセンター需要を主要要因に挙げた。",
+      "body": "AI覇権競争が続く中、投資家の関心はエヌビディアとグーグルのどちらがより有望かに集まっている。mk.co.krによると、時価総額上位企業が競うAI競争では、半導体投資の最大受益分野としてGPUが浮上し、エヌビディアはこの流れを背景に時価総額の首位に立った。メモリー企業のマイクロンも、AI需要拡大とともに急成長した事例として言及された。背景には、AI時代の金鉱とされるハイパースケーラーのコンピューティングとデータセンター需要の急増がある。アルファベットもこの需要と結び付く投資判断の重要な軸として扱われた。出典: mk.co.kr"
+    },
+    "zh": {
+      "title": "英伟达与谷歌AI投资策略对比：GPU和数据中心需求成关键",
+      "excerpt": "mk.co.kr比较了英伟达与谷歌在AI竞争中的投资吸引力，并将GPU、存储器增长及超大规模数据中心需求列为核心变量。",
+      "body": "随着AI主导权竞争持续，投资者关注英伟达和谷歌哪一方更具前景。mk.co.kr报道称，在市值排名前列企业展开的AI竞争中，GPU被视为半导体投资的最大受益领域，英伟达也借此登上市值王座。存储器企业美光同样被提及为随着AI需求扩大而快速成长的案例。其背景是被称为AI时代金矿的超大规模计算和数据中心需求急增。Alphabet也因与这一需求相关，被纳入投资判断的重要主线。来源: mk.co.kr"
+    },
+    "es": {
+      "title": "Nvidia y Google ante la estrategia de IA: GPU y centros de datos marcan el foco",
+      "excerpt": "mk.co.kr comparó el atractivo de inversión de Nvidia y Google en la carrera por la IA, destacando GPU, memoria y demanda de centros de datos de hiperescaladores.",
+      "body": "Mientras continúa la competencia por el liderazgo en IA, los inversores se preguntan si Nvidia o Google ofrece mejores perspectivas. Según mk.co.kr, en la pugna de IA entre compañías de mayor capitalización, las GPU se han destacado como el principal beneficiario dentro de la inversión en semiconductores, llevando a Nvidia a la cima por valor de mercado. Micron, fabricante de memoria, también fue citado como un caso de rápido crecimiento junto con la expansión de la demanda de IA. El contexto es el fuerte aumento de la demanda de computación de hiperescaladores y centros de datos, descritos como una mina de oro de la era de la IA. Alphabet también fue tratado como un eje clave de evaluación de inversión vinculado a esa demanda. Fuente: mk.co.kr"
+    },
+    "pt": {
+      "title": "Nvidia e Google na estratégia de IA: GPUs e data centers definem o foco",
+      "excerpt": "O mk.co.kr comparou o apelo de investimento de Nvidia e Google na corrida da IA, destacando GPUs, memória e demanda por data centers de hiperescaladores.",
+      "body": "Com a disputa pela liderança em IA em curso, investidores avaliam se Nvidia ou Google parece mais promissora. Segundo o mk.co.kr, na competição de IA entre empresas no topo em valor de mercado, as GPUs surgiram como o maior beneficiário dentro dos investimentos em semicondutores, levando a Nvidia ao posto de maior valor de mercado. A Micron, de memória, também foi citada como exemplo de crescimento rápido com a expansão da demanda por IA. O pano de fundo é o salto na procura por computação de hiperescaladores e data centers, chamados de mina de ouro da era da IA. A Alphabet também foi tratada como eixo importante de decisão de investimento ligado a essa demanda. Fonte: mk.co.kr"
+    },
+    "de": {
+      "title": "Nvidia und Google im KI-Investmentcheck: GPUs und Rechenzentren im Fokus",
+      "excerpt": "mk.co.kr verglich die Anlagechancen von Nvidia und Google im KI-Wettlauf und nannte GPUs, Speicher sowie Hyperscaler-Rechenzentren als zentrale Faktoren.",
+      "body": "Während der Wettlauf um die KI-Vorherrschaft anhält, fragen sich Anleger, ob Nvidia oder Google aussichtsreicher ist. Laut mk.co.kr haben sich GPUs im KI-Wettbewerb der Unternehmen mit den höchsten Börsenwerten als größter Profiteur von Halbleiterinvestitionen herausgestellt und Nvidia an die Spitze der Marktkapitalisierung geführt. Auch der Speicherhersteller Micron wurde als Beispiel für schnelles Wachstum im Zuge steigender KI-Nachfrage genannt. Hintergrund ist die stark wachsende Nachfrage nach Hyperscaler-Computing und Rechenzentren, die als Goldmine des KI-Zeitalters beschrieben werden. Alphabet wurde ebenfalls als wichtiger Bezugspunkt für Anlageentscheidungen im Zusammenhang mit dieser Nachfrage behandelt. Quelle: mk.co.kr"
+    },
+    "fr": {
+      "title": "Nvidia et Google face à l’IA : GPU et centres de données au cœur de la stratégie",
+      "excerpt": "mk.co.kr a comparé l’attrait d’investissement de Nvidia et Google dans la course à l’IA, en soulignant les GPU, la mémoire et la demande des centres de données hyperscale.",
+      "body": "Alors que la course à la domination de l’IA se poursuit, les investisseurs se demandent si Nvidia ou Google présente le meilleur potentiel. Selon mk.co.kr, dans la concurrence entre les plus grandes capitalisations autour de l’IA, les GPU se sont imposés comme les principaux bénéficiaires des investissements dans les semi-conducteurs, permettant à Nvidia d’atteindre la première place en capitalisation. Micron, acteur de la mémoire, a également été cité comme un exemple de croissance rapide avec l’expansion de la demande liée à l’IA. Le contexte est la forte hausse de la demande en calcul hyperscale et en centres de données, décrits comme une mine d’or de l’ère de l’IA. Alphabet a aussi été présenté comme un axe important d’analyse d’investissement lié à cette demande. Source: mk.co.kr"
+    },
+    "ar": {
+      "title": "إنفيديا وغوغل في استراتيجية الذكاء الاصطناعي: المعالجات ومراكز البيانات في الواجهة",
+      "excerpt": "قارن mk.co.kr جاذبية الاستثمار في إنفيديا وغوغل وسط سباق الذكاء الاصطناعي، مشيرا إلى معالجات GPU والذاكرة وطلب مراكز بيانات الشركات فائقة الحجم.",
+      "body": "مع استمرار سباق الهيمنة في الذكاء الاصطناعي، يتركز اهتمام المستثمرين على أيهما أكثر وعدا: إنفيديا أم غوغل. وبحسب mk.co.kr، فإن منافسة الذكاء الاصطناعي بين الشركات الكبرى من حيث القيمة السوقية أبرزت معالجات GPU كأكبر مستفيد في استثمارات أشباه الموصلات، ما ساعد إنفيديا على اعتلاء صدارة القيمة السوقية. كما ذُكرت شركة مايكрон للذاكرة كمثال على نمو سريع بالتوازي مع اتساع طلب الذكاء الاصطناعي. وتكمن الخلفية في القفزة الكبيرة في طلب الحوسبة لدى الشركات فائقة الحجم ومراكز البيانات، التي توصف بأنها منجم ذهب عصر الذكاء الاصطناعي. كما عولجت ألفابت كمحور رئيسي في تقييم الاستثمار المرتبط بهذا الطلب. المصدر: mk.co.kr"
+    },
+    "hi": {
+      "title": "एनविडिया और गूगल की AI निवेश रणनीति: GPU और डेटा सेंटर मांग पर नजर",
+      "excerpt": "mk.co.kr ने AI प्रभुत्व की दौड़ में एनविडिया और गूगल के निवेश आकर्षण की तुलना की और GPU, मेमोरी तथा हाइपरस्केलर डेटा सेंटर मांग को अहम बताया।",
+      "body": "AI प्रभुत्व की प्रतिस्पर्धा जारी रहने के बीच निवेशकों का ध्यान इस पर है कि एनविडिया और गूगल में कौन अधिक संभावनाशील है। mk.co.kr के अनुसार, बाजार पूंजीकरण में शीर्ष कंपनियों की AI प्रतिस्पर्धा में सेमीकंडक्टर निवेश का सबसे बड़ा लाभार्थी क्षेत्र GPU के रूप में उभरा, और इसी रुझान ने एनविडिया को बाजार पूंजीकरण के शीर्ष स्थान तक पहुंचाया। मेमोरी कंपनी माइक्रॉन को भी AI मांग बढ़ने के साथ तेज वृद्धि के उदाहरण के रूप में उल्लेखित किया गया। इसकी पृष्ठभूमि में AI युग की सोने की खान कहे जाने वाले हाइपरस्केलर कंप्यूटिंग और डेटा सेंटर मांग में तेज उछाल है। अल्फाबेट को भी इसी मांग से जुड़े निवेश निर्णय के प्रमुख आधार के रूप में देखा गया। स्रोत: mk.co.kr"
+    },
+    "id": {
+      "title": "Strategi Investasi AI Nvidia dan Google: GPU serta Data Center Jadi Sorotan",
+      "excerpt": "mk.co.kr membandingkan daya tarik investasi Nvidia dan Google dalam persaingan AI, dengan menyoroti GPU, memori, dan permintaan data center hyperscaler.",
+      "body": "Saat persaingan dominasi AI berlanjut, perhatian investor tertuju pada mana yang lebih menjanjikan antara Nvidia dan Google. Menurut mk.co.kr, dalam kompetisi AI di antara perusahaan dengan kapitalisasi pasar teratas, GPU muncul sebagai penerima manfaat terbesar dari investasi semikonduktor dan membantu Nvidia meraih posisi puncak kapitalisasi pasar. Produsen memori Micron juga disebut sebagai contoh pertumbuhan cepat seiring meluasnya permintaan AI. Latar belakangnya adalah lonjakan permintaan komputasi hyperscaler dan data center, yang disebut sebagai tambang emas era AI. Alphabet juga dibahas sebagai poros penting dalam penilaian investasi yang terkait dengan permintaan tersebut. Sumber: mk.co.kr"
+    }
+  }
+}

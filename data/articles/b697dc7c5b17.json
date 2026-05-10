@@ -1,0 +1,75 @@
+{
+  "id": "b697dc7c5b17",
+  "slug": "구형-반도체-끝난줄-알았는데-공장-풀가동파운드리-주가-동반-반등-876222",
+  "channelId": "ETF",
+  "category": "etf",
+  "publishedAt": "2026-05-10T22:02:41.137Z",
+  "updatedAt": "2026-05-10T22:02:41.137Z",
+  "sourceName": "mk.co.kr",
+  "sourceUrl": "https://www.mk.co.kr/news/stock/12042846",
+  "canonicalUrl": "https://www.mk.co.kr/news/stock/12042846",
+  "titleFingerprint": "5a8c5461c8ca10a49769b0831e8aa73eea2ae9d0",
+  "dedupKeys": [
+    "b697dc7c5b17dc9f8977fc25b94f0dca0e29ddb3",
+    "5a8c5461c8ca10a49769b0831e8aa73eea2ae9d0",
+    "606fd5e99a1296fcb080653f8b367cd1f3e46e0b"
+  ],
+  "imageUrl": "/images/articles/b697dc7c5b17.jpg",
+  "i18n": {
+    "ko": {
+      "title": "범용 반도체 수요 급증에 파운드리 주가 반등, UMC 62% 상승",
+      "excerpt": "AI 데이터센터 투자 확대로 최첨단 공정뿐 아니라 범용 반도체 수요가 빠르게 늘며 대만 UMC와 미국 글로벌파운드리 주가가 한 달 새 큰 폭으로 올랐다.",
+      "body": "AI 데이터센터 투자 확대에 따른 반도체 수요가 최첨단 공정 중심의 TSMC·삼성을 넘어 범용 반도체 분야로 확산되며 파운드리 주가가 동반 반등했다. 원문에 따르면 구형 반도체로 여겨졌던 범용 반도체 수요가 급격히 늘면서 관련 공장이 풀가동되는 흐름이 나타났다. 대만 UMC 주가는 한 달 새 62% 상승했고, 미국 글로벌파운드리도 50% 올랐다. 이는 AI 인프라 투자 확대가 첨단 칩뿐 아니라 다양한 범용 반도체 수요까지 끌어올리고 있음을 보여준다. 향후 파운드리 업계의 실적과 주가 흐름은 범용 반도체 수요 지속 여부에 영향을 받을 전망이다. 출처: mk.co.kr"
+    },
+    "en": {
+      "title": "General-Purpose Chip Demand Lifts Foundry Stocks as UMC Jumps 62%",
+      "excerpt": "As AI data center investment expands, demand is rising not only for advanced processes but also for general-purpose chips, lifting UMC and GlobalFoundries shares sharply in one month.",
+      "body": "Semiconductor demand tied to expanding AI data center investment is spreading beyond advanced-process leaders such as TSMC and Samsung into general-purpose chips, driving a joint rebound in foundry shares. According to the source, demand for mature-node chips once seen as outdated has risen rapidly, with related plants running at full capacity. Taiwan’s UMC shares climbed 62% in one month, while U.S.-based GlobalFoundries rose 50%. The move shows that AI infrastructure spending is lifting demand not only for cutting-edge chips but also for a broad range of general-purpose semiconductors. Future foundry earnings and share trends are expected to depend on whether this demand continues. Source: mk.co.kr"
+    },
+    "ja": {
+      "title": "汎用半導体需要が急増、UMC株62%高でファウンドリー株反発",
+      "excerpt": "AIデータセンター投資の拡大で、最先端工程だけでなく汎用半導体の需要も急増し、台湾UMCと米グローバルファウンドリーズの株価が大きく上昇した。",
+      "body": "AIデータセンター投資の拡大に伴う半導体需要が、TSMCやサムスンが主導する最先端工程を超え、汎用半導体分野にも広がり、ファウンドリー株がそろって反発した。原文によると、旧世代と見られていた汎用半導体の需要が急速に増え、関連工場がフル稼働する流れが出ている。台湾UMCの株価は1カ月で62%上昇し、米グローバルファウンドリーズも50%上昇した。これはAIインフラ投資が先端チップだけでなく、多様な汎用半導体需要も押し上げていることを示す。今後のファウンドリー業界の業績と株価は、この需要が続くかに左右される見通しだ。出典: mk.co.kr"
+    },
+    "zh": {
+      "title": "通用半导体需求激增带动代工股反弹，UMC一个月涨62%",
+      "excerpt": "随着AI数据中心投资扩大，需求不只集中在先进制程，也快速流向通用半导体，台湾UMC和美国格芯股价一个月内大幅上涨。",
+      "body": "受AI数据中心投资扩大带动，半导体需求正从台积电、三星等先进制程领域扩散至通用半导体，代工股因此同步反弹。原文称，曾被视为旧型半导体的通用芯片需求快速增加，相关工厂出现满负荷运转的趋势。台湾UMC股价一个月内上涨62%，美国GlobalFoundries也上涨50%。这显示AI基础设施投资不仅推高先进芯片需求，也带动多种通用半导体需求。未来代工行业的业绩和股价走势，预计将受到通用半导体需求能否持续的影响。来源: mk.co.kr"
+    },
+    "es": {
+      "title": "Demanda de chips generales impulsa fundiciones: UMC sube 62%",
+      "excerpt": "La inversión en centros de datos de IA eleva la demanda no solo de procesos avanzados, sino también de semiconductores generales, con fuertes alzas en UMC y GlobalFoundries.",
+      "body": "La demanda de semiconductores asociada a la expansión de la inversión en centros de datos de IA se está extendiendo más allá de los procesos avanzados de TSMC y Samsung hacia los chips de uso general, impulsando un rebote conjunto de las acciones de fundición. Según el texto original, la demanda de semiconductores maduros, antes considerados antiguos, ha aumentado con rapidez y las fábricas relacionadas operan a plena capacidad. Las acciones de la taiwanesa UMC subieron 62% en un mes, mientras que la estadounidense GlobalFoundries avanzó 50%. Esto muestra que la inversión en infraestructura de IA eleva no solo los chips de punta, sino también diversos semiconductores generales. Fuente: mk.co.kr"
+    },
+    "pt": {
+      "title": "Demanda por chips gerais impulsiona fundições, com UMC subindo 62%",
+      "excerpt": "Com a expansão dos investimentos em data centers de IA, a demanda cresce não só por processos avançados, mas também por chips gerais, elevando UMC e GlobalFoundries.",
+      "body": "A demanda por semicondutores ligada à expansão dos investimentos em data centers de IA está indo além dos processos avançados de TSMC e Samsung e alcançando os chips de uso geral, levando a uma recuperação conjunta das ações de fundições. Segundo o texto original, a procura por semicondutores maduros, antes vistos como antigos, aumentou rapidamente, com fábricas relacionadas operando em plena capacidade. As ações da taiwanesa UMC subiram 62% em um mês, enquanto a norte-americana GlobalFoundries avançou 50%. O movimento mostra que o investimento em infraestrutura de IA impulsiona não apenas chips avançados, mas também vários semicondutores gerais. Fonte: mk.co.kr"
+    },
+    "de": {
+      "title": "Breite Chipnachfrage treibt Foundry-Aktien, UMC steigt um 62%",
+      "excerpt": "Mit steigenden Investitionen in KI-Rechenzentren wächst die Nachfrage nicht nur nach modernsten Prozessen, sondern auch nach Standardchips, was UMC und GlobalFoundries stark hebt.",
+      "body": "Die durch Investitionen in KI-Rechenzentren gestützte Halbleiternachfrage breitet sich über die modernsten Prozesse von TSMC und Samsung hinaus auf Standardchips aus und lässt Foundry-Aktien gemeinsam steigen. Dem Original zufolge nimmt die Nachfrage nach reiferen Halbleitern, die zuvor als ältere Chips galten, schnell zu, während entsprechende Werke voll ausgelastet sind. Die Aktie der taiwanischen UMC legte binnen eines Monats um 62% zu, die US-amerikanische GlobalFoundries stieg um 50%. Dies zeigt, dass KI-Infrastrukturinvestitionen nicht nur Spitzenchips, sondern auch vielfältige Standardhalbleiter antreiben. Die weitere Entwicklung der Branche dürfte davon abhängen, ob diese Nachfrage anhält. Quelle: mk.co.kr"
+    },
+    "fr": {
+      "title": "La demande de puces généralistes relance les fondeurs, UMC gagne 62%",
+      "excerpt": "L’essor des investissements dans les centres de données IA stimule la demande au-delà des procédés avancés, soutenant les puces généralistes et les actions UMC et GlobalFoundries.",
+      "body": "La demande de semi-conducteurs liée à l’expansion des investissements dans les centres de données d’IA s’étend au-delà des procédés de pointe de TSMC et Samsung vers les puces généralistes, provoquant un rebond des actions de fonderie. Selon le texte d’origine, la demande pour ces semi-conducteurs matures, autrefois considérés comme anciens, augmente rapidement et les usines concernées tournent à pleine capacité. L’action du taïwanais UMC a gagné 62% en un mois, tandis que l’américain GlobalFoundries a progressé de 50%. Cela montre que les investissements dans l’infrastructure IA soutiennent non seulement les puces avancées, mais aussi une large demande de semi-conducteurs généralistes. Source: mk.co.kr"
+    },
+    "ar": {
+      "title": "طلب الرقائق العامة يرفع أسهم المسابك وUMC تقفز 62% في شهر",
+      "excerpt": "مع توسع الاستثمار في مراكز بيانات الذكاء الاصطناعي، يرتفع الطلب ليس فقط على العمليات المتقدمة بل أيضا على الرقائق العامة، ما دعم UMC وGlobalFoundries.",
+      "body": "يتوسع طلب أشباه الموصلات الناتج عن زيادة الاستثمار في مراكز بيانات الذكاء الاصطناعي إلى ما بعد العمليات المتقدمة لدى TSMC وسامسونغ، ليشمل الرقائق العامة، ما أدى إلى ارتداد جماعي في أسهم المسابك. ووفقا للنص الأصلي، ارتفع الطلب بسرعة على أشباه الموصلات الناضجة التي كانت تعد قديمة، مع تشغيل المصانع المرتبطة بها بكامل طاقتها. وصعد سهم UMC التايوانية 62% خلال شهر، بينما ارتفع سهم GlobalFoundries الأميركية 50%. ويظهر ذلك أن استثمارات بنية الذكاء الاصطناعي تدفع الطلب على الرقائق المتقدمة وعلى مجموعة واسعة من الرقائق العامة. المصدر: mk.co.kr"
+    },
+    "hi": {
+      "title": "सामान्य चिप मांग से फाउंड्री शेयर चढ़े, UMC एक महीने में 62% ऊपर",
+      "excerpt": "AI डेटा सेंटर निवेश बढ़ने से मांग सिर्फ अत्याधुनिक प्रोसेस तक सीमित नहीं रही, बल्कि सामान्य सेमीकंडक्टर तक फैल गई, जिससे UMC और GlobalFoundries में तेज उछाल आया।",
+      "body": "AI डेटा सेंटर निवेश के विस्तार से जुड़ी सेमीकंडक्टर मांग TSMC और Samsung की अत्याधुनिक प्रक्रियाओं से आगे बढ़कर सामान्य चिप क्षेत्र तक फैल रही है, जिससे फाउंड्री शेयरों में सामूहिक तेजी आई। मूल पाठ के अनुसार, पुराने माने जाने वाले सामान्य सेमीकंडक्टर की मांग तेजी से बढ़ी है और संबंधित कारखाने पूरी क्षमता पर चल रहे हैं। ताइवान की UMC का शेयर एक महीने में 62% चढ़ा, जबकि अमेरिकी GlobalFoundries 50% बढ़ा। यह दिखाता है कि AI बुनियादी ढांचा निवेश केवल उन्नत चिप नहीं, बल्कि विविध सामान्य सेमीकंडक्टर मांग को भी बढ़ा रहा है। आगे फाउंड्री उद्योग का प्रदर्शन इस मांग की निरंतरता पर निर्भर रह सकता है। स्रोत: mk.co.kr"
+    },
+    "id": {
+      "title": "Permintaan Chip Umum Dorong Saham Foundry, UMC Naik 62%",
+      "excerpt": "Investasi pusat data AI yang meningkat mendorong permintaan bukan hanya pada proses tercanggih, tetapi juga chip umum, sehingga saham UMC dan GlobalFoundries melonjak dalam sebulan.",
+      "body": "Permintaan semikonduktor akibat perluasan investasi pusat data AI kini meluas melampaui proses tercanggih TSMC dan Samsung ke chip umum, sehingga saham foundry bergerak rebound bersama. Menurut teks asli, permintaan untuk semikonduktor matang yang sebelumnya dianggap lawas meningkat cepat, dengan pabrik terkait beroperasi penuh. Saham UMC Taiwan naik 62% dalam satu bulan, sementara GlobalFoundries asal AS menguat 50%. Hal ini menunjukkan bahwa investasi infrastruktur AI tidak hanya mendorong chip mutakhir, tetapi juga berbagai semikonduktor umum. Ke depan, kinerja dan pergerakan saham industri foundry diperkirakan dipengaruhi oleh berlanjut tidaknya permintaan tersebut. Sumber: mk.co.kr"
+    }
+  }
+}
