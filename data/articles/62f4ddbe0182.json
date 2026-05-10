@@ -1,0 +1,75 @@
+{
+  "id": "62f4ddbe0182",
+  "slug": "중기부-ai오픈데이터-챌린지공공데이터-활용-솔루션-발굴-548378",
+  "channelId": "ETF",
+  "category": "etf",
+  "publishedAt": "2026-05-10T21:15:27.898Z",
+  "updatedAt": "2026-05-10T21:15:27.899Z",
+  "sourceName": "yna.co.kr",
+  "sourceUrl": "https://www.yna.co.kr/view/AKR20260509021000030",
+  "canonicalUrl": "https://www.yna.co.kr/view/AKR20260509021000030",
+  "titleFingerprint": "11e24afc9c5e1be7ae3d8ef9cd742708d69bded1",
+  "dedupKeys": [
+    "62f4ddbe01829505000076e2280b349889d1b2fc",
+    "11e24afc9c5e1be7ae3d8ef9cd742708d69bded1",
+    "d0ac7eccc9f587ff0836f6f0e1068b368fad10ab"
+  ],
+  "imageUrl": "/images/articles/62f4ddbe0182.jpg",
+  "i18n": {
+    "ko": {
+      "title": "AI+오픈데이터 챌린지로 공공데이터 활용 AI 솔루션 찾는다",
+      "excerpt": "중소벤처기업부는 공공기관 데이터를 활용해 국민 생활에 도움이 되는 인공지능 솔루션을 발굴하기 위해 ‘AI+오픈데이터 챌린지’를 추진한다.",
+      "body": "중소벤처기업부는 공공기관 데이터를 활용해 국민 생활에 도움이 되는 인공지능(AI) 솔루션을 발굴하기 위해 ‘AI+오픈데이터 챌린지’를 진행한다. 이번 챌린지는 공공기관이 보유한 데이터를 기반으로 생활 현장에서 쓸 수 있는 AI 활용 방안을 찾는 데 초점을 맞췄다. 중기부는 공공데이터와 AI 기술을 결합해 국민 편익을 높일 수 있는 솔루션을 발굴한다는 계획이다. 관련 내용은 연합뉴스가 서울발 기사로 보도했으며, 출처는 yna.co.kr이다."
+    },
+    "en": {
+      "title": "AI+Open Data Challenge Seeks AI Solutions Using Public Data",
+      "excerpt": "South Korea’s Ministry of SMEs and Startups is promoting the AI+Open Data Challenge to find AI solutions that use public institution data to help people’s daily lives.",
+      "body": "South Korea’s Ministry of SMEs and Startups is holding the “AI+Open Data Challenge” to discover artificial intelligence solutions that use data from public institutions and help improve people’s daily lives. The challenge focuses on finding practical AI applications based on data held by public agencies. The ministry plans to identify solutions that combine open public data with AI technology to increase public convenience. The report was published by Yonhap News Agency from Seoul, with yna.co.kr cited as the source."
+    },
+    "ja": {
+      "title": "AI＋オープンデータ挑戦で公共データ活用AI解決策を発掘",
+      "excerpt": "韓国中小ベンチャー企業部は、公共機関データを活用し国民生活に役立つAIソリューションを発掘するため「AI＋オープンデータチャレンジ」を進める。",
+      "body": "韓国の中小ベンチャー企業部は、公共機関のデータを活用して国民生活に役立つ人工知能（AI）ソリューションを発掘するため、「AI＋オープンデータチャレンジ」を実施する。今回のチャレンジは、公共機関が保有するデータを基盤に、生活の現場で使えるAI活用策を探すことに焦点を当てている。同部は、公共データとAI技術を組み合わせ、国民の利便性を高めるソリューションを見つける方針だ。内容は聯合ニュースがソウル発で報じ、出典はyna.co.kr。"
+    },
+    "zh": {
+      "title": "AI+开放数据挑战赛征集公共数据AI应用方案",
+      "excerpt": "韩国中小风险企业部将推进“AI+开放数据挑战赛”，利用公共机构数据发掘有助于国民生活的人工智能解决方案。",
+      "body": "韩国中小风险企业部将举办“AI+开放数据挑战赛”，旨在利用公共机构数据发掘有助于国民生活的人工智能（AI）解决方案。本次挑战赛聚焦于以公共机构持有的数据为基础，寻找可用于日常生活场景的AI应用方式。中小风险企业部计划通过结合公共数据与AI技术，发掘能够提升国民便利性的解决方案。相关内容由韩联社首尔报道，来源为yna.co.kr。"
+    },
+    "es": {
+      "title": "Reto AI+Datos Abiertos busca soluciones con datos públicos",
+      "excerpt": "El Ministerio de Pymes y Startups de Corea del Sur impulsa el reto AI+Datos Abiertos para hallar soluciones de IA que usen datos públicos y ayuden a la vida diaria.",
+      "body": "El Ministerio de Pymes y Startups de Corea del Sur llevará a cabo el “Reto AI+Datos Abiertos” para descubrir soluciones de inteligencia artificial que utilicen datos de instituciones públicas y sean útiles para la vida de la ciudadanía. La iniciativa se centra en encontrar formas prácticas de aplicar la IA a partir de datos en poder de organismos públicos. El ministerio prevé identificar soluciones que combinen datos públicos abiertos con tecnología de IA para mejorar la conveniencia de los ciudadanos. La información fue publicada por Yonhap desde Seúl; fuente: yna.co.kr."
+    },
+    "pt": {
+      "title": "Desafio AI+Dados Abertos busca soluções com dados públicos",
+      "excerpt": "O Ministério das PMEs e Startups da Coreia do Sul promove o Desafio AI+Dados Abertos para encontrar soluções de IA baseadas em dados públicos úteis à população.",
+      "body": "O Ministério das PMEs e Startups da Coreia do Sul realizará o “Desafio AI+Dados Abertos” para descobrir soluções de inteligência artificial que utilizem dados de instituições públicas e ajudem a vida cotidiana da população. A iniciativa se concentra em encontrar aplicações práticas de IA com base em dados mantidos por órgãos públicos. O ministério pretende identificar soluções que combinem dados públicos abertos e tecnologia de IA para ampliar a conveniência dos cidadãos. A notícia foi publicada pela Yonhap a partir de Seul; fonte: yna.co.kr."
+    },
+    "de": {
+      "title": "AI+Open-Data-Challenge sucht KI-Lösungen mit öffentlichen Daten",
+      "excerpt": "Südkoreas Ministerium für KMU und Startups startet die AI+Open-Data-Challenge, um KI-Lösungen auf Basis öffentlicher Daten für den Alltag zu finden.",
+      "body": "Südkoreas Ministerium für KMU und Startups veranstaltet die „AI+Open-Data-Challenge“, um Lösungen mit künstlicher Intelligenz zu finden, die Daten öffentlicher Institutionen nutzen und dem Alltag der Bürger dienen. Der Wettbewerb konzentriert sich darauf, praktische KI-Anwendungen auf Grundlage von Daten öffentlicher Stellen zu entdecken. Das Ministerium will Lösungen identifizieren, die offene öffentliche Daten mit KI-Technologie verbinden und so den Nutzen für die Bevölkerung erhöhen. Berichtet wurde dies von Yonhap News aus Seoul; Quelle: yna.co.kr."
+    },
+    "fr": {
+      "title": "Le défi AI+Open Data cible des solutions IA avec données publiques",
+      "excerpt": "Le ministère sud-coréen des PME et Startups lance le défi AI+Open Data afin de repérer des solutions d’IA utilisant les données publiques au service du quotidien.",
+      "body": "Le ministère sud-coréen des PME et Startups organise le « défi AI+Open Data » afin de découvrir des solutions d’intelligence artificielle utilisant les données d’institutions publiques et utiles à la vie quotidienne des citoyens. L’initiative vise à trouver des usages pratiques de l’IA à partir des données détenues par les organismes publics. Le ministère prévoit d’identifier des solutions combinant données publiques ouvertes et technologies d’IA pour améliorer la commodité pour la population. L’information a été rapportée par Yonhap depuis Séoul; source : yna.co.kr."
+    },
+    "ar": {
+      "title": "تحدي AI+Open Data يبحث عن حلول ذكاء اصطناعي بالبيانات العامة",
+      "excerpt": "تدفع وزارة الشركات الصغيرة والمتوسطة والناشئة في كوريا الجنوبية بتحدي AI+Open Data لاكتشاف حلول ذكاء اصطناعي تستخدم بيانات المؤسسات العامة لخدمة حياة المواطنين.",
+      "body": "تنظم وزارة الشركات الصغيرة والمتوسطة والناشئة في كوريا الجنوبية «تحدي AI+Open Data» لاكتشاف حلول ذكاء اصطناعي تستخدم بيانات المؤسسات العامة وتساعد في الحياة اليومية للمواطنين. يركز التحدي على إيجاد تطبيقات عملية للذكاء الاصطناعي اعتمادا على البيانات التي تحتفظ بها الجهات العامة. وتخطط الوزارة لتحديد حلول تجمع بين البيانات العامة المفتوحة وتقنيات الذكاء الاصطناعي بما يعزز راحة المواطنين. أوردت وكالة يونهاب الخبر من سيول، والمصدر هو yna.co.kr."
+    },
+    "hi": {
+      "title": "AI+ओपन डेटा चैलेंज सार्वजनिक डेटा से AI समाधान खोजेगा",
+      "excerpt": "दक्षिण कोरिया का SME और स्टार्टअप मंत्रालय सार्वजनिक संस्थानों के डेटा से नागरिक जीवन में मददगार AI समाधान खोजने के लिए AI+ओपन डेटा चैलेंज चला रहा है।",
+      "body": "दक्षिण कोरिया का SME और स्टार्टअप मंत्रालय सार्वजनिक संस्थानों के डेटा का उपयोग कर नागरिकों के दैनिक जीवन में मददगार कृत्रिम बुद्धिमत्ता समाधान खोजने के लिए “AI+ओपन डेटा चैलेंज” आयोजित करेगा। यह पहल सार्वजनिक एजेंसियों के पास मौजूद डेटा के आधार पर व्यावहारिक AI उपयोगों की पहचान पर केंद्रित है। मंत्रालय सार्वजनिक खुले डेटा और AI तकनीक को मिलाकर नागरिक सुविधा बढ़ाने वाले समाधान खोजने की योजना बना रहा है। यह रिपोर्ट योनहाप न्यूज ने सियोल से प्रकाशित की; स्रोत: yna.co.kr."
+    },
+    "id": {
+      "title": "AI+Open Data Challenge Cari Solusi AI Berbasis Data Publik",
+      "excerpt": "Kementerian UKM dan Startup Korea Selatan mendorong AI+Open Data Challenge untuk menemukan solusi AI berbasis data lembaga publik yang bermanfaat bagi kehidupan warga.",
+      "body": "Kementerian UKM dan Startup Korea Selatan menggelar “AI+Open Data Challenge” untuk menemukan solusi kecerdasan buatan yang memanfaatkan data lembaga publik dan membantu kehidupan sehari-hari masyarakat. Tantangan ini berfokus pada pencarian penerapan AI yang praktis berdasarkan data yang dimiliki instansi publik. Kementerian berencana mengidentifikasi solusi yang menggabungkan data publik terbuka dengan teknologi AI untuk meningkatkan kenyamanan warga. Informasi ini dilaporkan Yonhap News dari Seoul; sumber: yna.co.kr."
+    }
+  }
+}
