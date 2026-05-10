@@ -1,5 +1,230 @@
 [
   {
+    "id": "1be3795ca492",
+    "slug": "지방보조금-집행-보탬e-카드-새마을금고신협수협도-가능-908187",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-05-10T15:39:24.925Z",
+    "updatedAt": "2026-05-10T15:39:24.925Z",
+    "sourceName": "yna.co.kr",
+    "sourceUrl": "https://www.yna.co.kr/view/AKR20260510014600530",
+    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260510014600530",
+    "titleFingerprint": "3f76b2b405efa0ef1f9865e7954020d2b69998eb",
+    "dedupKeys": [
+      "1be3795ca4922985374139a1b291e232585c4bee",
+      "3f76b2b405efa0ef1f9865e7954020d2b69998eb",
+      "66b992502ebb5cefb30ecfb70e6b383a609389fe"
+    ],
+    "imageUrl": "/images/articles/1be3795ca492.jpg",
+    "i18n": {
+      "ko": {
+        "title": "보탬e 전용카드, 새마을금고·신협·수협까지 사용처 확대",
+        "excerpt": "행정안전부는 지방보조금 집행에 쓰이는 보탬e 전용카드 서비스 범위를 기존 12개 시중은행에서 새마을금고·신협·수협으로 확대한다고 밝혔다.",
+        "body": "행정안전부는 지방보조금통합관리망인 보탬e 전용카드 서비스 범위를 기존 12개 시중은행에서 새마을금고와 신협, 수협으로 확대한다고 밝혔다. 보탬e 전용카드는 지방보조금 집행을 관리하기 위한 카드 서비스로, 지방보조금 사용 과정의 관리망과 연계된다. 이번 확대에 따라 기존 시중은행 중심이던 카드 이용 가능 금융기관에 상호금융권이 추가된다. 행안부 발표는 지방보조금 집행 수단의 선택지를 넓히는 조치로 해석된다. 출처: yna.co.kr"
+      },
+      "en": {
+        "title": "Botem-e Subsidy Card Access Expands to MG, Credit Unions and Suhyup",
+        "excerpt": "South Korea’s Interior Ministry said the Botem-e card for local subsidy spending will expand from 12 commercial banks to MG Community Credit Cooperatives, credit unions and Suhyup.",
+        "body": "South Korea’s Ministry of the Interior and Safety said the dedicated Botem-e card service, linked to the integrated local subsidy management network, will expand beyond the existing 12 commercial banks to MG Community Credit Cooperatives, credit unions and Suhyup. The Botem-e card is used for executing and managing local subsidy spending through the management system. With the change, mutual finance institutions are added to the list of available card-issuing financial institutions. The announcement broadens the choices for local subsidy execution channels. Source: yna.co.kr"
+      },
+      "ja": {
+        "title": "ボテムe専用カード、セマウル金庫・信協・水協でも利用可能に",
+        "excerpt": "韓国行政安全部は、地方補助金執行に使うボテムe専用カードのサービス対象を既存12の市中銀行からセマウル金庫・信協・水協へ広げると明らかにした。",
+        "body": "韓国行政安全部は、地方補助金統合管理網であるボテムeの専用カードサービスの対象を、既存の12市中銀行からセマウル金庫、信用協同組合、水協へ拡大すると発表した。ボテムe専用カードは、地方補助金の執行を管理するためのカードサービスで、補助金使用過程を管理網と連携させる。今回の拡大により、市中銀行中心だった利用可能金融機関に相互金融機関が加わる。地方補助金執行手段の選択肢を広げる措置となる。出典: yna.co.kr"
+      },
+      "zh": {
+        "title": "Botem-e专用卡扩至新村金库、信用合作社和水协可用",
+        "excerpt": "韩国内政安全部表示，用于地方补助金执行的Botem-e专用卡服务范围，将从现有12家商业银行扩大至新村金库、信用合作社和水协。",
+        "body": "韩国内政安全部表示，地方补助金综合管理网Botem-e专用卡服务范围，将从现有12家商业银行扩大至新村金库、信用合作社和水协。Botem-e专用卡是用于管理地方补助金执行的卡服务，并与地方补助金使用过程的管理系统相连接。此次扩大后，原本以商业银行为中心的可用金融机构名单中，将新增互助金融机构。该措施意味着地方补助金执行渠道的选择将进一步增加。来源: yna.co.kr"
+      },
+      "es": {
+        "title": "La tarjeta Botem-e suma a MG, cooperativas de crédito y Suhyup",
+        "excerpt": "El Ministerio del Interior de Corea del Sur dijo que la tarjeta Botem-e para ejecutar subsidios locales ampliará su servicio desde 12 bancos comerciales a MG, cooperativas de crédito y Suhyup.",
+        "body": "El Ministerio del Interior y Seguridad de Corea del Sur informó que el servicio de la tarjeta exclusiva Botem-e, vinculada a la red integrada de gestión de subsidios locales, se ampliará desde los 12 bancos comerciales existentes a MG Community Credit Cooperatives, cooperativas de crédito y Suhyup. La tarjeta Botem-e se usa para ejecutar y gestionar el gasto de subsidios locales mediante el sistema de administración. Con la ampliación, entidades de finanzas mutuales se suman a las instituciones financieras disponibles. La medida amplía las opciones para ejecutar subsidios locales. Fuente: yna.co.kr"
+      },
+      "pt": {
+        "title": "Cartão Botem-e passa a incluir MG, cooperativas de crédito e Suhyup",
+        "excerpt": "O Ministério do Interior da Coreia do Sul informou que o cartão Botem-e para execução de subsídios locais será ampliado de 12 bancos comerciais para MG, cooperativas de crédito e Suhyup.",
+        "body": "O Ministério do Interior e Segurança da Coreia do Sul informou que o serviço do cartão exclusivo Botem-e, ligado à rede integrada de gestão de subsídios locais, será ampliado dos atuais 12 bancos comerciais para MG Community Credit Cooperatives, cooperativas de crédito e Suhyup. O cartão Botem-e é usado para executar e administrar gastos de subsídios locais por meio do sistema de gestão. Com a mudança, instituições de finanças mutualistas passam a integrar a lista de entidades financeiras disponíveis. A medida amplia as opções para execução de subsídios locais. Fonte: yna.co.kr"
+      },
+      "de": {
+        "title": "Botem-e-Karte künftig auch bei MG, Kreditgenossenschaften und Suhyup",
+        "excerpt": "Südkoreas Innenministerium teilte mit, dass die Botem-e-Karte für lokale Zuschüsse von bisher 12 Geschäftsbanken auf MG, Kreditgenossenschaften und Suhyup ausgeweitet wird.",
+        "body": "Das südkoreanische Ministerium für Inneres und Sicherheit erklärte, der Dienst der speziellen Botem-e-Karte, die mit dem integrierten Verwaltungsnetz für lokale Zuschüsse verbunden ist, werde von den bisherigen 12 Geschäftsbanken auf MG Community Credit Cooperatives, Kreditgenossenschaften und Suhyup ausgeweitet. Die Botem-e-Karte dient der Ausführung und Verwaltung lokaler Zuschussausgaben über das Managementsystem. Damit kommen zu den bisher vor allem Geschäftsbanken umfassenden Finanzinstituten auch genossenschaftliche Finanzanbieter hinzu. Die Maßnahme erweitert die Auswahl bei der Abwicklung lokaler Zuschüsse. Quelle: yna.co.kr"
+      },
+      "fr": {
+        "title": "La carte Botem-e s’étend à MG, aux coopératives de crédit et à Suhyup",
+        "excerpt": "Le ministère sud-coréen de l’Intérieur a annoncé que la carte Botem-e pour les subventions locales sera étendue de 12 banques commerciales à MG, aux coopératives de crédit et à Suhyup.",
+        "body": "Le ministère sud-coréen de l’Intérieur et de la Sécurité a annoncé que le service de carte dédiée Botem-e, lié au réseau intégré de gestion des subventions locales, sera étendu des 12 banques commerciales existantes à MG Community Credit Cooperatives, aux coopératives de crédit et à Suhyup. La carte Botem-e sert à exécuter et gérer les dépenses de subventions locales via le système de gestion. Avec cette extension, des institutions de finance mutualiste s’ajoutent aux établissements financiers disponibles. La mesure élargit les options pour l’exécution des subventions locales. Source: yna.co.kr"
+      },
+      "ar": {
+        "title": "بطاقة Botem-e للدعم المحلي تشمل MG والتعاونيات الائتمانية وSuhyup",
+        "excerpt": "قالت وزارة الداخلية والسلامة في كوريا الجنوبية إن خدمة بطاقة Botem-e المخصصة لإنفاق الدعم المحلي ستتوسع من 12 مصرفا تجاريا إلى MG والتعاونيات الائتمانية وSuhyup.",
+        "body": "أعلنت وزارة الداخلية والسلامة في كوريا الجنوبية أن خدمة بطاقة Botem-e المخصصة، المرتبطة بالشبكة المتكاملة لإدارة الدعم المحلي، ستتوسع من 12 مصرفا تجاريا قائما إلى MG Community Credit Cooperatives والتعاونيات الائتمانية وSuhyup. وتستخدم بطاقة Botem-e في تنفيذ وإدارة إنفاق الدعم المحلي عبر نظام الإدارة. وبموجب هذا التوسع، ستضاف مؤسسات التمويل التعاوني إلى قائمة المؤسسات المالية المتاحة بعد أن كانت تتركز على البنوك التجارية. وتوسع الخطوة خيارات تنفيذ الدعم المحلي. المصدر: yna.co.kr"
+      },
+      "hi": {
+        "title": "Botem-e कार्ड अब MG, क्रेडिट यूनियन और Suhyup में भी उपलब्ध",
+        "excerpt": "दक्षिण कोरिया के आंतरिक मंत्रालय ने कहा कि स्थानीय सब्सिडी खर्च के लिए Botem-e कार्ड सेवा 12 वाणिज्यिक बैंकों से बढ़कर MG, क्रेडिट यूनियन और Suhyup तक जाएगी।",
+        "body": "दक्षिण कोरिया के आंतरिक और सुरक्षा मंत्रालय ने कहा कि स्थानीय सब्सिडी एकीकृत प्रबंधन नेटवर्क से जुड़ी समर्पित Botem-e कार्ड सेवा का दायरा मौजूदा 12 वाणिज्यिक बैंकों से बढ़ाकर MG Community Credit Cooperatives, क्रेडिट यूनियन और Suhyup तक किया जाएगा। Botem-e कार्ड स्थानीय सब्सिडी खर्च को लागू और प्रबंधित करने के लिए उपयोग की जाने वाली कार्ड सेवा है। इस विस्तार के बाद, वाणिज्यिक बैंकों पर केंद्रित उपलब्ध वित्तीय संस्थानों की सूची में पारस्परिक वित्त संस्थान भी जुड़ेंगे। यह कदम स्थानीय सब्सिडी निष्पादन के विकल्प बढ़ाता है। स्रोत: yna.co.kr"
+      },
+      "id": {
+        "title": "Kartu Botem-e Diperluas ke MG, Koperasi Kredit dan Suhyup",
+        "excerpt": "Kementerian Dalam Negeri Korea Selatan menyatakan layanan kartu Botem-e untuk belanja subsidi daerah akan diperluas dari 12 bank komersial ke MG, koperasi kredit dan Suhyup.",
+        "body": "Kementerian Dalam Negeri dan Keselamatan Korea Selatan menyatakan layanan kartu khusus Botem-e, yang terhubung dengan jaringan terpadu pengelolaan subsidi daerah, akan diperluas dari 12 bank komersial yang ada ke MG Community Credit Cooperatives, koperasi kredit dan Suhyup. Kartu Botem-e digunakan untuk melaksanakan dan mengelola belanja subsidi daerah melalui sistem pengelolaan. Dengan perluasan ini, lembaga keuangan mutual ditambahkan ke daftar lembaga keuangan yang dapat digunakan. Langkah tersebut memperluas pilihan saluran pelaksanaan subsidi daerah. Sumber: yna.co.kr"
+      }
+    }
+  },
+  {
+    "id": "323fbb266237",
+    "slug": "중기부-모두의-창업-신속심사로-첫-합격자-130명-발표-751417",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-05-10T15:38:29.294Z",
+    "updatedAt": "2026-05-10T15:38:29.294Z",
+    "sourceName": "yna.co.kr",
+    "sourceUrl": "https://www.yna.co.kr/view/AKR20260509028300030",
+    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260509028300030",
+    "titleFingerprint": "08df77d4dca9534001e0dd28515345c43eadd5a9",
+    "dedupKeys": [
+      "323fbb2662370d7125152ec39f2b43a31606824b",
+      "08df77d4dca9534001e0dd28515345c43eadd5a9",
+      "dfa00c7ac852e7d81b6f0bec80e546ef7c781e75"
+    ],
+    "imageUrl": "/images/articles/323fbb266237.jpg",
+    "i18n": {
+      "ko": {
+        "title": "중기부 ‘모두의 창업’ 신속심사 첫 합격자 130명 선정",
+        "excerpt": "중소벤처기업부는 10일 ‘모두의 창업’ 프로젝트 신속 심사를 통해 첫 합격자 130명을 선정했다고 밝혔습니다.",
+        "body": "중소벤처기업부는 10일 ‘모두의 창업’ 프로젝트의 신속 심사를 통해 첫 합격자 130명을 선정했다고 밝혔다. 이번 발표는 프로젝트 심사 절차에서 나온 첫 합격자 선정 결과다. 원문에 따르면 중기부는 신속 심사를 거쳐 130명을 합격자로 확정했다. ‘모두의 창업’은 창업 참여자를 대상으로 한 프로젝트로, 이번 신속 심사 결과는 향후 사업 진행의 초기 단계로 해석된다. 합격자 규모와 선정 방식은 중기부 발표에 근거한 것이다. 출처: yna.co.kr"
+      },
+      "en": {
+        "title": "MSS Selects First 130 Winners in ‘Startup for All’ Fast Review",
+        "excerpt": "South Korea’s Ministry of SMEs and Startups said on May 10 it selected the first 130 successful applicants through fast review for the ‘Startup for All’ project.",
+        "body": "South Korea’s Ministry of SMEs and Startups said on May 10 that it selected the first 130 successful applicants through the fast review process for the ‘Startup for All’ project. The announcement marks the first selection result from the project’s review procedure. According to the original report, the ministry confirmed 130 applicants as successful after the expedited screening. ‘Startup for All’ is a project for startup participants, and this fast-review result represents an early step in the program’s rollout. The applicant count and selection method are based on the ministry’s announcement. Source: yna.co.kr"
+      },
+      "ja": {
+        "title": "中企部、「みんなの創業」迅速審査で初の合格者130人を選定",
+        "excerpt": "韓国中小ベンチャー企業部は10日、「みんなの創業」プロジェクトの迅速審査を通じ、初の合格者130人を選定したと発表しました。",
+        "body": "韓国中小ベンチャー企業部は10日、「みんなの創業」プロジェクトの迅速審査を通じ、初の合格者130人を選定したと明らかにした。今回の発表は、同プロジェクトの審査手続きで出た初の合格者選定結果となる。原文によると、中企部は迅速審査を経て130人を合格者として確定した。「みんなの創業」は創業参加者を対象とするプロジェクトで、今回の迅速審査結果は今後の事業進行における初期段階と受け止められる。合格者数と選定方式は中企部の発表に基づく。出典: yna.co.kr"
+      },
+      "zh": {
+        "title": "韩国中企部“全民创业”快速审查首批130人入选",
+        "excerpt": "韩国中小风险企业部10日表示，通过“全民创业”项目快速审查，已选定首批130名合格者。",
+        "body": "韩国中小风险企业部10日表示，通过“全民创业”项目的快速审查，已选定首批130名合格者。此次发布是该项目审查程序中产生的首批合格者遴选结果。根据原文，中企部经过快速审查，确认130人为合格者。“全民创业”是面向创业参与者的项目，此次快速审查结果可视为今后项目推进的初期阶段。合格者规模和遴选方式均依据中企部发布内容。来源: yna.co.kr"
+      },
+      "es": {
+        "title": "Corea del Sur elige a 130 primeros aprobados en ‘Startup para Todos’",
+        "excerpt": "El Ministerio de Pymes y Startups de Corea del Sur dijo el 10 de mayo que seleccionó a los primeros 130 aprobados mediante revisión rápida del proyecto ‘Startup para Todos’.",
+        "body": "El Ministerio de Pymes y Startups de Corea del Sur informó el 10 de mayo que seleccionó a los primeros 130 aprobados mediante el proceso de revisión rápida del proyecto ‘Startup para Todos’. El anuncio constituye el primer resultado de selección dentro del procedimiento de evaluación del proyecto. Según el reporte original, el ministerio confirmó a 130 personas como aprobadas tras la revisión acelerada. ‘Startup para Todos’ es un proyecto dirigido a participantes de emprendimiento, y este resultado representa una etapa inicial en el desarrollo del programa. La cifra de aprobados y el método de selección se basan en el anuncio del ministerio. Fuente: yna.co.kr"
+      },
+      "pt": {
+        "title": "Coreia do Sul escolhe 130 primeiros aprovados em ‘Startup para Todos’",
+        "excerpt": "O Ministério das PMEs e Startups da Coreia do Sul informou em 10 de maio que selecionou os primeiros 130 aprovados por análise rápida do projeto ‘Startup para Todos’.",
+        "body": "O Ministério das PMEs e Startups da Coreia do Sul informou em 10 de maio que selecionou os primeiros 130 aprovados por meio da análise rápida do projeto ‘Startup para Todos’. O anúncio marca o primeiro resultado de seleção dentro do processo de avaliação do projeto. Segundo a reportagem original, o ministério confirmou 130 pessoas como aprovadas após a triagem acelerada. ‘Startup para Todos’ é um projeto voltado a participantes de empreendedorismo, e este resultado de análise rápida representa uma etapa inicial na condução do programa. O número de aprovados e o método de seleção têm como base o anúncio do ministério. Fonte: yna.co.kr"
+      },
+      "de": {
+        "title": "Südkorea wählt erste 130 Erfolgreiche bei ‘Startup for All’ aus",
+        "excerpt": "Südkoreas Ministerium für KMU und Startups teilte am 10. Mai mit, dass über die Schnellprüfung des Projekts ‘Startup for All’ die ersten 130 erfolgreichen Bewerber ausgewählt wurden.",
+        "body": "Südkoreas Ministerium für KMU und Startups teilte am 10. Mai mit, dass es über das Schnellprüfungsverfahren des Projekts ‘Startup for All’ die ersten 130 erfolgreichen Bewerber ausgewählt hat. Die Mitteilung ist das erste Auswahlergebnis aus dem Prüfprozess des Projekts. Dem Originalbericht zufolge bestätigte das Ministerium nach der beschleunigten Prüfung 130 Personen als erfolgreich. ‘Startup for All’ ist ein Projekt für Gründungsteilnehmer, und dieses Ergebnis der Schnellprüfung steht für eine frühe Phase der weiteren Programmdurchführung. Zahl der Ausgewählten und Auswahlverfahren beruhen auf der Mitteilung des Ministeriums. Quelle: yna.co.kr"
+      },
+      "fr": {
+        "title": "La Corée du Sud retient 130 premiers lauréats de ‘Startup pour tous’",
+        "excerpt": "Le ministère sud-coréen des PME et des Startups a annoncé le 10 mai avoir sélectionné les 130 premiers candidats retenus via l’examen accéléré du projet ‘Startup pour tous’.",
+        "body": "Le ministère sud-coréen des PME et des Startups a annoncé le 10 mai avoir sélectionné les 130 premiers candidats retenus grâce à l’examen accéléré du projet ‘Startup pour tous’. Cette annonce constitue le premier résultat de sélection issu de la procédure d’évaluation du projet. Selon le texte original, le ministère a confirmé 130 personnes comme admises après l’examen rapide. ‘Startup pour tous’ est un projet destiné aux participants à la création d’entreprise, et ce résultat représente une étape initiale dans le déroulement du programme. Le nombre de candidats retenus et la méthode de sélection reposent sur l’annonce du ministère. Source: yna.co.kr"
+      },
+      "ar": {
+        "title": "كوريا الجنوبية تختار أول 130 مؤهلا في مشروع ‘ريادة للجميع’",
+        "excerpt": "أعلنت وزارة الشركات الصغيرة والمتوسطة والناشئة في كوريا الجنوبية يوم 10 مايو اختيار أول 130 مؤهلا عبر المراجعة السريعة لمشروع ‘ريادة للجميع’.",
+        "body": "أعلنت وزارة الشركات الصغيرة والمتوسطة والناشئة في كوريا الجنوبية يوم 10 مايو أنها اختارت أول 130 مؤهلا من خلال المراجعة السريعة لمشروع ‘ريادة للجميع’. ويمثل هذا الإعلان أول نتيجة اختيار تصدر عن إجراءات تقييم المشروع. ووفقا للتقرير الأصلي، أكدت الوزارة قبول 130 شخصا بعد الفحص المعجل. ويستهدف مشروع ‘ريادة للجميع’ المشاركين في تأسيس الأعمال، وتعد نتيجة المراجعة السريعة هذه مرحلة أولية في سير البرنامج لاحقا. ويستند عدد المقبولين وطريقة الاختيار إلى إعلان الوزارة. المصدر: yna.co.kr"
+      },
+      "hi": {
+        "title": "दक्षिण कोरिया ने ‘Startup for All’ में पहले 130 सफल आवेदक चुने",
+        "excerpt": "दक्षिण कोरिया के SMEs और Startups मंत्रालय ने 10 मई को कहा कि ‘Startup for All’ परियोजना की त्वरित समीक्षा से पहले 130 सफल आवेदक चुने गए।",
+        "body": "दक्षिण कोरिया के SMEs और Startups मंत्रालय ने 10 मई को बताया कि उसने ‘Startup for All’ परियोजना की त्वरित समीक्षा प्रक्रिया के जरिए पहले 130 सफल आवेदकों का चयन किया है। यह घोषणा परियोजना की समीक्षा प्रक्रिया से निकला पहला चयन परिणाम है। मूल रिपोर्ट के अनुसार, मंत्रालय ने तेज स्क्रीनिंग के बाद 130 लोगों को सफल आवेदक के रूप में पुष्टि की। ‘Startup for All’ उद्यमिता प्रतिभागियों के लिए एक परियोजना है, और यह त्वरित समीक्षा परिणाम कार्यक्रम के आगे बढ़ने की शुरुआती अवस्था को दर्शाता है। सफल आवेदकों की संख्या और चयन पद्धति मंत्रालय की घोषणा पर आधारित है। स्रोत: yna.co.kr"
+      },
+      "id": {
+        "title": "Korea Selatan Pilih 130 Lolos Pertama di ‘Startup untuk Semua’",
+        "excerpt": "Kementerian UKM dan Startup Korea Selatan pada 10 Mei menyatakan telah memilih 130 peserta lolos pertama melalui peninjauan cepat proyek ‘Startup untuk Semua’.",
+        "body": "Kementerian UKM dan Startup Korea Selatan pada 10 Mei menyatakan telah memilih 130 peserta lolos pertama melalui proses peninjauan cepat proyek ‘Startup untuk Semua’. Pengumuman ini menjadi hasil seleksi pertama dari prosedur penilaian proyek tersebut. Menurut laporan asli, kementerian mengonfirmasi 130 orang sebagai peserta lolos setelah penyaringan yang dipercepat. ‘Startup untuk Semua’ adalah proyek bagi peserta kewirausahaan, dan hasil peninjauan cepat ini merupakan tahap awal dalam pelaksanaan program ke depan. Jumlah peserta lolos dan metode seleksi didasarkan pada pengumuman kementerian. Sumber: yna.co.kr"
+      }
+    }
+  },
+  {
+    "id": "f491089cd60c",
+    "slug": "주병기-매각명령-등-구조적-조치-사익편취-억제-효과-클-것-356070",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-05-10T15:37:40.730Z",
+    "updatedAt": "2026-05-10T15:37:40.730Z",
+    "sourceName": "yna.co.kr",
+    "sourceUrl": "https://www.yna.co.kr/view/AKR20260509049200002",
+    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260509049200002",
+    "titleFingerprint": "b45bd5b47776a39a331934eb0ac47c7dc6241e6c",
+    "dedupKeys": [
+      "f491089cd60c0c91985e13d881cdce512ca1f539",
+      "b45bd5b47776a39a331934eb0ac47c7dc6241e6c",
+      "cdc5605c0e9f12394fd36378a80e2e1bccee4206"
+    ],
+    "imageUrl": "/images/articles/f491089cd60c.jpg",
+    "i18n": {
+      "ko": {
+        "title": "공정위원장, 매각명령 등 구조적 조치로 사익편취 억제 강조",
+        "excerpt": "주병기 공정거래위원장은 마닐라에서 대기업집단의 과도한 경제력 집중이 시장 독과점화의 구조적 원인이라며 매각명령 등 구조적 조치의 필요성을 밝혔다.",
+        "body": "마닐라에서 송정은 연합뉴스 기자가 전한 바에 따르면 주병기 공정거래위원장은 대기업집단으로의 과도한 경제력 집중이 시장 독과점화의 구조적 원인이라는 점을 고려해야 한다고 밝혔다. 그는 이런 맥락에서 매각명령 등 구조적 조치가 사익편취를 억제하는 데 큰 효과를 낼 수 있다고 설명했다. 이번 발언은 대기업집단의 지배력과 시장 경쟁 제한 문제를 구조적으로 다뤄야 한다는 인식을 드러낸 것이다. 향후 공정거래 정책 논의에서 경제력 집중 완화와 사익편취 방지 수단의 실효성이 주요 쟁점으로 부각될 전망이다. 출처: yna.co.kr"
+      },
+      "en": {
+        "title": "FTC Chief Highlights Divestiture Orders to Curb Private Benefit Taking",
+        "excerpt": "In Manila, Fair Trade Commission Chairman Joo Byung-ki said excessive concentration of economic power in large conglomerates is a structural cause of market monopolization.",
+        "body": "According to Yonhap News Agency reporter Song Jeong-eun in Manila, Fair Trade Commission Chairman Joo Byung-ki said excessive concentration of economic power in large business groups should be viewed as a structural cause of market monopolization. In that context, he explained that structural measures, including divestiture orders, could have a significant effect in curbing private benefit taking. The remarks show an emphasis on addressing conglomerate control and limits on market competition at a structural level. In future fair trade policy discussions, the effectiveness of tools to ease economic concentration and prevent private benefit taking is expected to become a key issue. Source: yna.co.kr"
+      },
+      "ja": {
+        "title": "公取委員長、売却命令など構造的措置で私益取得抑制を強調",
+        "excerpt": "マニラで朱炳基・公正取引委員長は、大企業集団への過度な経済力集中が市場独占化の構造的原因だと述べ、構造的措置の必要性を示した。",
+        "body": "マニラ発の聯合ニュース、宋ジョンウン記者によると、朱炳基・公正取引委員長は、大企業集団への過度な経済力集中が市場の独占・寡占化の構造的原因である点を考慮すべきだと述べた。その文脈で、売却命令などの構造的措置は私益取得を抑えるうえで大きな効果を上げ得ると説明した。今回の発言は、大企業集団の支配力と市場競争を制限する問題を構造的に扱うべきだという認識を示したものだ。今後の公正取引政策の議論では、経済力集中の緩和と私益取得防止策の実効性が主要な争点になる見通しだ。出典: yna.co.kr"
+      },
+      "zh": {
+        "title": "韩国公取委主席强调出售命令等结构性措施抑制私利攫取",
+        "excerpt": "韩国公正交易委员会主席朱炳基在马尼拉表示，经济力过度集中于大型企业集团是市场垄断化的结构性原因。",
+        "body": "据韩联社记者宋贞恩自马尼拉报道，韩国公正交易委员会主席朱炳基表示，应考虑到经济力过度集中于大型企业集团是市场垄断化的结构性原因。在这一背景下，他说明，出售命令等结构性措施可能在抑制私利攫取方面产生较大效果。此番发言显示出一种认识，即大型企业集团的支配力以及限制市场竞争的问题需要从结构层面加以处理。预计在今后的公平交易政策讨论中，缓解经济力集中以及防止私利攫取手段的实效性将成为主要议题。来源: yna.co.kr"
+      },
+      "es": {
+        "title": "Jefe antimonopolio surcoreano subraya ventas obligadas contra beneficios privados",
+        "excerpt": "En Manila, Joo Byung-ki dijo que la concentración excesiva de poder económico en grandes conglomerados es una causa estructural de la monopolización del mercado.",
+        "body": "Según informó desde Manila la reportera Song Jeong-eun de Yonhap, el presidente de la Comisión de Comercio Justo, Joo Byung-ki, afirmó que debe considerarse que la concentración excesiva de poder económico en los grandes grupos empresariales es una causa estructural de la monopolización del mercado. En ese contexto, explicó que medidas estructurales, incluidas órdenes de venta, pueden tener un gran efecto para frenar la apropiación de beneficios privados. Sus comentarios reflejan la necesidad de abordar de forma estructural el poder de los conglomerados y los límites a la competencia. En futuros debates de política de competencia, la eficacia de las herramientas para aliviar la concentración económica y prevenir beneficios privados será un tema central. Fuente: yna.co.kr"
+      },
+      "pt": {
+        "title": "Chefe antitruste da Coreia destaca venda obrigatória contra ganhos privados",
+        "excerpt": "Em Manila, Joo Byung-ki afirmou que a concentração excessiva de poder econômico em grandes conglomerados é causa estrutural da monopolização do mercado.",
+        "body": "Segundo a repórter Song Jeong-eun, da Yonhap, em Manila, o presidente da Comissão de Comércio Justo, Joo Byung-ki, disse que é preciso considerar que a concentração excessiva de poder econômico nos grandes grupos empresariais é uma causa estrutural da monopolização do mercado. Nesse contexto, explicou que medidas estruturais, incluindo ordens de venda, podem ter grande efeito na contenção da apropriação de benefícios privados. A declaração mostra a percepção de que o poder dos conglomerados e os problemas que limitam a concorrência devem ser tratados de forma estrutural. Em futuras discussões de política de concorrência, a eficácia dos instrumentos para reduzir a concentração econômica e evitar ganhos privados deve ganhar destaque. Fonte: yna.co.kr"
+      },
+      "de": {
+        "title": "Kartellchef betont Verkaufsanordnungen gegen private Vorteilsnahme",
+        "excerpt": "In Manila sagte Joo Byung-ki, die übermäßige Konzentration wirtschaftlicher Macht in großen Unternehmensgruppen sei eine strukturelle Ursache der Marktmonopolisierung.",
+        "body": "Wie Yonhap-Reporterin Song Jeong-eun aus Manila berichtete, sagte der Vorsitzende der Fair Trade Commission, Joo Byung-ki, die übermäßige Konzentration wirtschaftlicher Macht in großen Unternehmensgruppen müsse als strukturelle Ursache der Marktmonopolisierung betrachtet werden. In diesem Zusammenhang erklärte er, strukturelle Maßnahmen wie Verkaufsanordnungen könnten eine große Wirkung bei der Eindämmung privater Vorteilsnahme entfalten. Die Äußerung zeigt die Einschätzung, dass die Macht großer Unternehmensgruppen und Einschränkungen des Marktwettbewerbs strukturell behandelt werden müssen. In künftigen Debatten zur Wettbewerbspolitik dürfte die Wirksamkeit von Mitteln zur Verringerung wirtschaftlicher Konzentration und zur Verhinderung privater Vorteilsnahme ein zentrales Thema werden. Quelle: yna.co.kr"
+      },
+      "fr": {
+        "title": "Le chef antitrust coréen mise sur les cessions forcées contre les gains privés",
+        "excerpt": "À Manille, Joo Byung-ki a déclaré que la concentration excessive du pouvoir économique dans les grands conglomérats est une cause structurelle de la monopolisation.",
+        "body": "Selon la journaliste Song Jeong-eun de Yonhap à Manille, le président de la Commission du commerce équitable, Joo Byung-ki, a déclaré qu’il fallait tenir compte du fait que la concentration excessive du pouvoir économique dans les grands groupes est une cause structurelle de la monopolisation du marché. Dans ce contexte, il a expliqué que des mesures structurelles, dont des ordres de cession, pourraient avoir un effet important pour freiner l’appropriation d’avantages privés. Ces propos montrent la volonté de traiter de manière structurelle le pouvoir des conglomérats et les limites à la concurrence. Dans les futurs débats de politique de concurrence, l’efficacité des outils visant à réduire la concentration économique et à prévenir les gains privés devrait devenir un enjeu majeur. Source: yna.co.kr"
+      },
+      "ar": {
+        "title": "رئيس مكافحة الاحتكار الكوري يبرز أوامر البيع للحد من جني المنافع الخاصة",
+        "excerpt": "قال جو بيونغ-كي في مانيلا إن التركّز المفرط للقوة الاقتصادية لدى مجموعات الشركات الكبرى سبب هيكلي لاحتكار الأسواق.",
+        "body": "بحسب ما نقلته مراسلة يونهاب سونغ جونغ-أون من مانيلا، قال رئيس لجنة التجارة العادلة جو بيونغ-كي إن التركّز المفرط للقوة الاقتصادية لدى مجموعات الشركات الكبرى يجب النظر إليه بوصفه سبباً هيكلياً لاحتكار الأسواق. وفي هذا السياق، أوضح أن التدابير الهيكلية، بما في ذلك أوامر البيع، يمكن أن يكون لها أثر كبير في كبح جني المنافع الخاصة. وتظهر هذه التصريحات إدراكاً للحاجة إلى معالجة نفوذ المجموعات الكبرى والمشكلات التي تحد من المنافسة في السوق على مستوى هيكلي. ومن المتوقع أن تبرز فعالية أدوات تخفيف تركّز القوة الاقتصادية ومنع المنافع الخاصة كقضية رئيسية في نقاشات سياسة التجارة العادلة المقبلة. المصدر: yna.co.kr"
+      },
+      "hi": {
+        "title": "कोरिया के फेयर ट्रेड प्रमुख ने निजी लाभ रोकने को बिक्री आदेशों पर जोर दिया",
+        "excerpt": "मनीला में जू ब्यंग-की ने कहा कि बड़े कारोबारी समूहों में आर्थिक शक्ति का अत्यधिक केंद्रीकरण बाजार एकाधिकार का संरचनात्मक कारण है।",
+        "body": "मनीला से योनहाप की रिपोर्टर सोंग जोंग-उन के अनुसार, फेयर ट्रेड कमीशन के अध्यक्ष जू ब्यंग-की ने कहा कि बड़े कारोबारी समूहों में आर्थिक शक्ति के अत्यधिक केंद्रीकरण को बाजार के एकाधिकार की संरचनात्मक वजह के रूप में देखा जाना चाहिए। इसी संदर्भ में उन्होंने बताया कि बिक्री आदेशों सहित संरचनात्मक उपाय निजी लाभ उठाने की प्रवृत्ति को रोकने में बड़ा प्रभाव डाल सकते हैं। यह बयान दिखाता है कि बड़े समूहों के नियंत्रण और बाजार प्रतिस्पर्धा को सीमित करने वाली समस्याओं को संरचनात्मक स्तर पर संबोधित करने की जरूरत है। आगे की फेयर ट्रेड नीति चर्चाओं में आर्थिक शक्ति के केंद्रीकरण को कम करने और निजी लाभ रोकने वाले साधनों की प्रभावशीलता प्रमुख मुद्दा बन सकती है। स्रोत: yna.co.kr"
+      },
+      "id": {
+        "title": "Ketua Antimonopoli Korea Soroti Perintah Divestasi untuk Cegah Keuntungan Pribadi",
+        "excerpt": "Di Manila, Joo Byung-ki mengatakan konsentrasi kekuatan ekonomi berlebihan pada konglomerasi besar menjadi penyebab struktural monopolisasi pasar.",
+        "body": "Menurut laporan reporter Yonhap Song Jeong-eun dari Manila, Ketua Komisi Perdagangan Adil Joo Byung-ki mengatakan konsentrasi kekuatan ekonomi yang berlebihan pada kelompok usaha besar perlu dipandang sebagai penyebab struktural monopolisasi pasar. Dalam konteks itu, ia menjelaskan bahwa langkah struktural, termasuk perintah divestasi, dapat memberi dampak besar dalam menekan pengambilan keuntungan pribadi. Pernyataan ini menunjukkan pandangan bahwa dominasi konglomerasi dan masalah yang membatasi persaingan pasar harus ditangani secara struktural. Dalam pembahasan kebijakan perdagangan adil ke depan, efektivitas instrumen untuk meredakan konsentrasi ekonomi dan mencegah keuntungan pribadi diperkirakan menjadi isu utama. Sumber: yna.co.kr"
+      }
+    }
+  },
+  {
     "id": "f04bbcbb0dbf",
     "slug": "k-엔비디아-인재-노린-꼼수-인수-막는다기업결합-신고추진-708825",
     "channelId": "ETF",
@@ -4271,231 +4496,6 @@
         "title": "Saham Wonik IPS Naik Dua Kali Tahun Ini, Tiga Alasan Jangka Panjang Jadi Sorotan",
         "excerpt": "Hankyung.com melaporkan saham Wonik IPS naik dua kali lipat tahun ini dan menganalisis tiga alasan yang menopang prospek menengah hingga panjang emiten peralatan semikonduktor tersebut.",
         "body": "Wonik IPS menarik perhatian investor saham peralatan semikonduktor setelah harga sahamnya naik dua kali lipat tahun ini, menurut hankyung.com. Laporan tersebut menganalisis Wonik IPS dan menyajikan tiga alasan mengapa perusahaan ini masih dapat dipandang menjanjikan dari perspektif menengah hingga panjang meski telah naik tajam dalam jangka pendek. Berdasarkan naskah asli, poin utamanya adalah menilai besarnya kenaikan saham tahun ini bersama potensi pertumbuhan ke depan. Karena reli terbaru cukup besar, investor perlu meninjau bukan hanya pergerakan harga saham, tetapi juga faktor menengah dan panjang yang disebut dalam analisis perusahaan. Sumber: hankyung.com"
-      }
-    }
-  },
-  {
-    "id": "02f88b08538d",
-    "slug": "한전기술-분석-두코바니신한울-공정-회복이-향후-주가-좌우할-것-453493",
-    "channelId": "ETF",
-    "category": "etf",
-    "publishedAt": "2026-05-10T02:12:06.086Z",
-    "updatedAt": "2026-05-10T02:12:06.086Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/202605106125i",
-    "canonicalUrl": "https://www.hankyung.com/article/202605106125i",
-    "titleFingerprint": "3f47cf9c86acd007456327d54d90b7ac4066b811",
-    "dedupKeys": [
-      "02f88b08538d1e921d3d8349eacbe30e25398516",
-      "3f47cf9c86acd007456327d54d90b7ac4066b811",
-      "498296b99bd96f70eeee2968edf196afe233b87f"
-    ],
-    "imageUrl": "/images/articles/02f88b08538d.jpg",
-    "i18n": {
-      "ko": {
-        "title": "한전기술 주가 전망, 두코바니·신한울 공정 회복이 핵심 변수",
-        "excerpt": "한경닷컴은 한전기술 분석에서 두코바니와 신한울 공정 회복 여부가 향후 주가 흐름을 좌우할 핵심 요인으로 제시됐다고 전했다.",
-        "body": "한전기술의 향후 주가 흐름은 두코바니와 신한울 관련 공정 회복 여부에 달려 있다는 분석이 제기됐다. 이번 분석은 원전 사업과 관련된 주요 프로젝트의 진행 상황이 투자 심리에 직접적인 변수로 작용할 수 있다는 점을 강조한다. 원문은 구체적인 실적 수치나 목표주가를 제시하기보다, 두코바니·신한울 공정 회복이 한전기술 주가 판단의 중심 요인이라는 데 초점을 맞췄다. 이에 따라 시장은 해당 공정의 회복 신호와 후속 진행 상황을 주시할 가능성이 크다. 출처: hankyung.com"
-      },
-      "en": {
-        "title": "KEPCO E&C Stock Outlook Hinges on Dukovany and Shin Hanul Progress Recovery",
-        "excerpt": "Hankyung.com reported in its KEPCO E&C analysis that recovery in the Dukovany and Shin Hanul project progress is a key factor for the company’s future share price.",
-        "body": "KEPCO E&C’s future share-price trend is being analyzed as dependent on whether progress recovers at the Dukovany and Shin Hanul projects. The analysis highlights that the status of major nuclear-related projects can act as a direct variable for investor sentiment. Rather than presenting specific earnings figures or a target price, the original report focuses on progress recovery at Dukovany and Shin Hanul as the central factor in assessing KEPCO E&C’s stock. Market attention is therefore likely to remain on signs of recovery and subsequent project developments. Source: hankyung.com"
-      },
-      "ja": {
-        "title": "韓電技術株の焦点、ドゥコバニ・新ハヌル工程回復が重要変数",
-        "excerpt": "ハンギョンドットコムは韓電技術の分析で、ドゥコバニと新ハヌルの工程回復の可否が今後の株価を左右する核心要因だと伝えた。",
-        "body": "韓電技術の今後の株価動向は、ドゥコバニと新ハヌル関連工程が回復するかどうかに左右されるとの分析が示された。今回の分析は、原発事業に関わる主要プロジェクトの進行状況が投資心理に直接的な変数として作用し得る点を強調している。原文は具体的な業績数値や目標株価を示すよりも、ドゥコバニ・新ハヌルの工程回復が韓電技術株を判断する中心要因だという点に焦点を当てた。市場は今後、工程回復の兆しと後続の進行状況を注視するとみられる。出典: hankyung.com"
-      },
-      "zh": {
-        "title": "韩电技术股价展望，杜科瓦尼与新韩蔚进度恢复成关键变量",
-        "excerpt": "hankyung.com在韩电技术分析中指出，杜科瓦尼和新韩蔚项目进度能否恢复，将是左右其未来股价走势的核心因素。",
-        "body": "有分析认为，韩电技术未来股价走势将取决于杜科瓦尼和新韩蔚相关项目进度能否恢复。该分析强调，核电业务相关主要项目的推进情况，可能成为影响投资情绪的直接变量。原文并未提出具体业绩数据或目标价，而是将杜科瓦尼与新韩蔚进度恢复视为判断韩电技术股价的核心因素。因此，市场可能会继续关注相关进度恢复信号及后续推进情况。来源: hankyung.com"
-      },
-      "es": {
-        "title": "Perspectiva de KEPCO E&C depende del avance en Dukovany y Shin Hanul",
-        "excerpt": "Hankyung.com informó en su análisis de KEPCO E&C que la recuperación del avance en Dukovany y Shin Hanul será un factor clave para su futura acción.",
-        "body": "La evolución futura de las acciones de KEPCO E&C se analiza como dependiente de si se recupera el avance de los proyectos relacionados con Dukovany y Shin Hanul. El análisis subraya que el estado de los principales proyectos vinculados al negocio nuclear puede actuar como una variable directa para el ánimo inversor. En lugar de presentar cifras concretas de resultados o un precio objetivo, el texto original se centra en que la recuperación del avance en Dukovany y Shin Hanul es el factor central para valorar la acción de KEPCO E&C. El mercado seguirá atento a señales de recuperación y a los avances posteriores. Fuente: hankyung.com"
-      },
-      "pt": {
-        "title": "Ações da KEPCO E&C dependem do avanço em Dukovany e Shin Hanul",
-        "excerpt": "O hankyung.com informou, em análise sobre a KEPCO E&C, que a recuperação do andamento em Dukovany e Shin Hanul será fator-chave para suas ações.",
-        "body": "A trajetória futura das ações da KEPCO E&C é analisada como dependente da recuperação do andamento dos projetos relacionados a Dukovany e Shin Hanul. A análise destaca que a situação de grandes projetos ligados ao setor nuclear pode atuar como variável direta para o sentimento dos investidores. Em vez de apresentar números específicos de desempenho ou preço-alvo, o texto original concentra-se na recuperação do avanço em Dukovany e Shin Hanul como fator central para avaliar a ação da KEPCO E&C. O mercado deve observar sinais de recuperação e os próximos desdobramentos. Fonte: hankyung.com"
-      },
-      "de": {
-        "title": "KEPCO E&C Aktie: Fortschritte bei Dukovany und Shin Hanul im Fokus",
-        "excerpt": "Hankyung.com berichtete in einer Analyse zu KEPCO E&C, dass die Erholung der Fortschritte bei Dukovany und Shin Hanul für den künftigen Aktienkurs entscheidend ist.",
-        "body": "Die künftige Kursentwicklung von KEPCO E&C wird davon abhängig gesehen, ob sich der Fortschritt bei den Projekten Dukovany und Shin Hanul erholt. Die Analyse betont, dass der Stand wichtiger Projekte im Zusammenhang mit dem Nukleargeschäft direkt auf die Anlegerstimmung wirken kann. Statt konkrete Ergebniszahlen oder ein Kursziel zu nennen, konzentriert sich der Originalbericht darauf, dass die Erholung der Fortschritte bei Dukovany und Shin Hanul der zentrale Faktor für die Einschätzung der KEPCO-E&C-Aktie ist. Der Markt dürfte daher Erholungssignale und weitere Entwicklungen genau verfolgen. Quelle: hankyung.com"
-      },
-      "fr": {
-        "title": "Action KEPCO E&C : Dukovany et Shin Hanul restent les variables clés",
-        "excerpt": "Hankyung.com indique dans son analyse de KEPCO E&C que la reprise de l’avancement à Dukovany et Shin Hanul pèsera sur l’évolution future du titre.",
-        "body": "L’évolution future de l’action KEPCO E&C est analysée comme dépendante de la reprise de l’avancement des projets liés à Dukovany et Shin Hanul. L’analyse souligne que l’état de grands projets associés au nucléaire peut agir comme une variable directe pour le sentiment des investisseurs. Plutôt que de présenter des chiffres de résultats précis ou un objectif de cours, le texte original met l’accent sur la reprise de l’avancement à Dukovany et Shin Hanul comme facteur central d’évaluation du titre KEPCO E&C. Le marché devrait donc suivre les signaux de reprise et les développements ultérieurs. Source: hankyung.com"
-      },
-      "ar": {
-        "title": "سهم KEPCO E&C تحت المجهر مع تعافي تقدم دوكوفاني وشين هانول",
-        "excerpt": "أفاد hankyung.com في تحليل عن KEPCO E&C بأن تعافي تقدم مشروعي دوكوفاني وشين هانول سيكون عاملا رئيسيا في مسار السهم المقبل.",
-        "body": "يُنظر إلى المسار المستقبلي لسهم KEPCO E&C على أنه مرتبط بما إذا كان التقدم في مشروعي دوكوفاني وشين هانول سيتعافى. ويؤكد التحليل أن حالة المشروعات الرئيسية المرتبطة بقطاع الطاقة النووية قد تكون متغيرا مباشرا في معنويات المستثمرين. وبدلا من عرض أرقام أرباح محددة أو سعر مستهدف، يركز التقرير الأصلي على أن تعافي التقدم في دوكوفاني وشين هانول هو العامل المركزي في تقييم سهم KEPCO E&C. لذلك قد يواصل السوق متابعة إشارات التعافي والتطورات اللاحقة. المصدر: hankyung.com"
-      },
-      "hi": {
-        "title": "KEPCO E&C शेयर दृष्टिकोण में Dukovany और Shin Hanul प्रगति अहम",
-        "excerpt": "hankyung.com ने KEPCO E&C विश्लेषण में बताया कि Dukovany और Shin Hanul परियोजनाओं की प्रगति में सुधार भविष्य के शेयर भाव का मुख्य कारक होगा।",
-        "body": "KEPCO E&C के भविष्य के शेयर रुझान को Dukovany और Shin Hanul से जुड़ी परियोजनाओं की प्रगति में सुधार पर निर्भर माना जा रहा है। यह विश्लेषण बताता है कि परमाणु ऊर्जा कारोबार से जुड़े प्रमुख प्रोजेक्ट्स की स्थिति निवेशक भावना को सीधे प्रभावित करने वाला कारक हो सकती है। मूल रिपोर्ट ने विशिष्ट आय आंकड़े या लक्ष्य मूल्य देने के बजाय Dukovany और Shin Hanul की प्रगति में सुधार को KEPCO E&C शेयर के आकलन का केंद्रीय तत्व बताया। इसलिए बाजार सुधार के संकेतों और आगे की प्रगति पर ध्यान दे सकता है। स्रोत: hankyung.com"
-      },
-      "id": {
-        "title": "Prospek Saham KEPCO E&C Bergantung pada Dukovany dan Shin Hanul",
-        "excerpt": "Hankyung.com melaporkan dalam analisis KEPCO E&C bahwa pemulihan progres Dukovany dan Shin Hanul menjadi faktor utama bagi arah saham ke depan.",
-        "body": "Arah saham KEPCO E&C ke depan dianalisis bergantung pada apakah progres proyek terkait Dukovany dan Shin Hanul dapat pulih. Analisis ini menekankan bahwa perkembangan proyek utama yang berkaitan dengan bisnis nuklir dapat menjadi variabel langsung bagi sentimen investor. Alih-alih menyajikan angka kinerja tertentu atau target harga, laporan asli berfokus pada pemulihan progres Dukovany dan Shin Hanul sebagai faktor utama dalam menilai saham KEPCO E&C. Pasar kemungkinan akan mencermati sinyal pemulihan dan perkembangan lanjutan proyek tersebut. Sumber: hankyung.com"
-      }
-    }
-  },
-  {
-    "id": "d015b80c6430",
-    "slug": "알테오젠-분석-외형-감소에도-긍정-신호-뚜렷임상규제분쟁이-핵심-변수-113642",
-    "channelId": "ETF",
-    "category": "etf",
-    "publishedAt": "2026-05-10T02:11:15.653Z",
-    "updatedAt": "2026-05-10T02:11:15.653Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/202605106130i",
-    "canonicalUrl": "https://www.hankyung.com/article/202605106130i",
-    "titleFingerprint": "1c92c40f21a74bf8a4bfbc6a8333206a181c9ae9",
-    "dedupKeys": [
-      "d015b80c6430e65622f3745ecfe8d0c7450c0f0e",
-      "1c92c40f21a74bf8a4bfbc6a8333206a181c9ae9",
-      "036d02924e540a077162d013926f88f4635f0a28"
-    ],
-    "imageUrl": "/images/articles/d015b80c6430.jpg",
-    "i18n": {
-      "ko": {
-        "title": "알테오젠 분석: 외형 감소에도 긍정 신호, 임상·규제·분쟁 변수 주목",
-        "excerpt": "한국경제는 알테오젠 분석에서 외형 감소에도 긍정 신호가 확인됐으며, 향후 임상 진행과 규제 판단, 분쟁 이슈가 핵심 변수라고 전했다.",
-        "body": "한국경제는 알테오젠 분석 기사에서 회사의 외형이 감소했지만 긍정 신호가 뚜렷하게 나타났다고 전했다. 이번 분석은 알테오젠의 현재 사업 흐름을 점검하며, 단순한 외형 축소보다 향후 성과를 좌우할 변수에 초점을 맞췄다. 핵심 변수로는 임상 진행 상황, 규제 판단, 분쟁 이슈가 제시됐다. 관련 수치와 세부 내용은 원문에 별도로 제시되지 않았다. 시장의 관심은 외형 감소가 이어지는 가운데 긍정 신호가 실제 성과로 연결될 수 있는지에 모일 전망이다. 출처: hankyung.com"
-      },
-      "en": {
-        "title": "Alteogen Analysis: Positive Signals Despite Scale Decline, Key Risks Ahead",
-        "excerpt": "Hankyung reported that Alteogen showed clear positive signals despite a decline in scale, with clinical progress, regulation and disputes as key variables.",
-        "body": "Hankyung reported in an analysis of Alteogen that the company’s scale had declined, yet clear positive signals were visible. The article reviewed Alteogen’s current business flow and focused less on the decline itself than on the variables that may shape future results. The key variables cited were clinical progress, regulatory decisions and dispute-related issues. No detailed figures or additional numerical data were provided in the source material. Market attention is expected to focus on whether these positive signals can translate into concrete outcomes despite the decline in scale. Source: hankyung.com"
-      },
-      "ja": {
-        "title": "アルテオジェン分析：外形減少でも前向きシグナル、臨床・規制・紛争が焦点",
-        "excerpt": "韓国経済は、アルテオジェンについて外形減少にもかかわらず前向きなシグナルが確認され、臨床・規制・紛争が重要変数だと報じた。",
-        "body": "韓国経済はアルテオジェンの分析記事で、同社の外形は減少したものの、前向きなシグナルが明確に表れていると伝えた。今回の分析はアルテオジェンの現在の事業の流れを点検し、単なる外形縮小よりも今後の成果を左右する要因に焦点を当てた。重要な変数として、臨床の進行状況、規制判断、紛争関連の問題が挙げられた。関連する数値や詳細な内容は原文では別途示されていない。市場の関心は、外形減少の中でこうした前向きなシグナルが実際の成果につながるかに集まる見通しだ。出典: hankyung.com"
-      },
-      "zh": {
-        "title": "Alteogen分析：规模下降仍显积极信号，临床、监管与纠纷成关键",
-        "excerpt": "韩国经济报道称，Alteogen虽出现规模下降，但积极信号明显，未来临床进展、监管判断和纠纷问题将是核心变量。",
-        "body": "韩国经济在一篇关于Alteogen的分析文章中称，该公司虽然出现规模下降，但积极信号十分明显。此次分析梳理了Alteogen当前的业务走向，关注点并不只是外形收缩，而是可能左右今后成果的因素。报道提出的核心变量包括临床进展、监管判断以及纠纷相关问题。原文未另行提供相关数据或更具体的数值内容。市场关注点预计将集中在，在规模下降的背景下，这些积极信号能否转化为实际成果。来源: hankyung.com"
-      },
-      "es": {
-        "title": "Análisis de Alteogen: señales positivas pese a menor tamaño, foco en ensayos y regulación",
-        "excerpt": "Hankyung informó que Alteogen muestra señales positivas pese a una reducción de escala, con ensayos clínicos, regulación y disputas como variables clave.",
-        "body": "Hankyung informó en un análisis sobre Alteogen que la compañía registró una reducción de escala, pero también señales positivas claras. El artículo revisó el flujo actual del negocio de Alteogen y puso el foco no solo en la contracción externa, sino en los factores que pueden determinar sus resultados futuros. Las variables clave señaladas fueron el avance clínico, las decisiones regulatorias y los asuntos de disputa. La fuente no incluyó cifras detalladas ni datos numéricos adicionales. La atención del mercado se centrará en si esas señales positivas pueden convertirse en resultados concretos pese a la reducción de escala. Fuente: hankyung.com"
-      },
-      "pt": {
-        "title": "Análise da Alteogen: sinais positivos apesar de menor escala, com clínica e regulação no foco",
-        "excerpt": "O Hankyung informou que a Alteogen apresenta sinais positivos apesar da redução de escala, tendo avanço clínico, regulação e disputas como variáveis-chave.",
-        "body": "O Hankyung informou, em uma análise sobre a Alteogen, que a empresa teve redução de escala, mas exibiu sinais positivos claros. A análise revisou o fluxo atual dos negócios da Alteogen e concentrou-se menos na contração em si e mais nos fatores que podem influenciar os resultados futuros. As principais variáveis citadas foram o andamento clínico, as decisões regulatórias e questões relacionadas a disputas. O material original não apresentou números detalhados nem dados adicionais. A atenção do mercado deve se concentrar em saber se esses sinais positivos poderão se converter em resultados concretos apesar da redução de escala. Fonte: hankyung.com"
-      },
-      "de": {
-        "title": "Alteogen-Analyse: Positive Signale trotz Rückgang, Klinik, Regulierung und Streit im Fokus",
-        "excerpt": "Hankyung berichtete, dass Alteogen trotz eines Rückgangs klare positive Signale zeigt; klinischer Fortschritt, Regulierung und Streitfragen gelten als Schlüsselvariablen.",
-        "body": "Hankyung berichtete in einer Analyse zu Alteogen, dass der äußere Umfang des Unternehmens zurückgegangen sei, zugleich aber klare positive Signale erkennbar seien. Die Analyse prüfte den aktuellen Geschäftsverlauf von Alteogen und richtete den Blick weniger auf den Rückgang selbst als auf Faktoren, die künftige Ergebnisse beeinflussen können. Als zentrale Variablen wurden der klinische Fortschritt, regulatorische Entscheidungen und Streitfragen genannt. Detaillierte Zahlen oder zusätzliche Kennziffern wurden im Ausgangsmaterial nicht angegeben. Der Markt dürfte darauf achten, ob diese positiven Signale trotz des Rückgangs in konkrete Ergebnisse münden. Quelle: hankyung.com"
-      },
-      "fr": {
-        "title": "Analyse d’Alteogen : signaux positifs malgré le recul, clinique et régulation au centre",
-        "excerpt": "Hankyung indique qu’Alteogen affiche des signaux positifs malgré une baisse de taille, avec les essais cliniques, la régulation et les litiges comme variables clés.",
-        "body": "Hankyung a indiqué dans une analyse consacrée à Alteogen que la société avait vu sa taille apparente diminuer, tout en montrant des signaux positifs nets. L’article a examiné la dynamique actuelle de l’activité d’Alteogen et s’est concentré moins sur le recul lui-même que sur les facteurs susceptibles d’influencer les résultats futurs. Les variables clés citées sont l’avancement clinique, les décisions réglementaires et les questions de litige. Le document source ne fournit pas de chiffres détaillés ni de données numériques supplémentaires. L’attention du marché devrait porter sur la capacité de ces signaux positifs à se traduire en résultats concrets malgré le recul. Source: hankyung.com"
-      },
-      "ar": {
-        "title": "تحليل ألتييوجين: إشارات إيجابية رغم تراجع الحجم والأنظار على التجارب والتنظيم",
-        "excerpt": "ذكرت هانكيونغ أن ألتييوجين أظهرت إشارات إيجابية واضحة رغم تراجع الحجم، مع بقاء التقدم السريري والقرارات التنظيمية والنزاعات متغيرات رئيسية.",
-        "body": "ذكرت هانكيونغ في تحليل عن ألتييوجين أن حجم الشركة تراجع، لكن إشارات إيجابية واضحة ظهرت في المقابل. وراجع التحليل مسار أعمال ألتييوجين الحالي، مع التركيز ليس فقط على الانكماش الخارجي، بل على العوامل التي قد تحدد النتائج المستقبلية. وشملت المتغيرات الرئيسية التي وردت في التقرير تقدم التجارب السريرية، والقرارات التنظيمية، والقضايا المرتبطة بالنزاعات. ولم تتضمن المادة الأصلية أرقاما تفصيلية أو بيانات رقمية إضافية. ومن المتوقع أن يتركز اهتمام السوق على ما إذا كانت هذه الإشارات الإيجابية ستتحول إلى نتائج فعلية رغم تراجع الحجم. المصدر: hankyung.com"
-      },
-      "hi": {
-        "title": "Alteogen विश्लेषण: आकार घटने के बावजूद सकारात्मक संकेत, क्लिनिकल और नियामकीय मुद्दे अहम",
-        "excerpt": "Hankyung ने बताया कि Alteogen में आकार घटने के बावजूद स्पष्ट सकारात्मक संकेत दिखे, जबकि क्लिनिकल प्रगति, नियमन और विवाद मुख्य चर बने हुए हैं।",
-        "body": "Hankyung ने Alteogen पर अपने विश्लेषण में बताया कि कंपनी का बाहरी आकार घटा है, लेकिन सकारात्मक संकेत स्पष्ट रूप से दिखाई दे रहे हैं। इस विश्लेषण ने Alteogen के मौजूदा कारोबारी प्रवाह की समीक्षा की और केवल आकार में कमी के बजाय उन कारकों पर ध्यान दिया जो भविष्य के परिणामों को प्रभावित कर सकते हैं। प्रमुख चर के रूप में क्लिनिकल प्रगति, नियामकीय निर्णय और विवाद से जुड़े मुद्दे बताए गए। मूल सामग्री में विस्तृत आंकड़े या अतिरिक्त संख्यात्मक जानकारी अलग से नहीं दी गई। बाजार की नजर इस बात पर रहने की उम्मीद है कि आकार घटने के बीच ये सकारात्मक संकेत वास्तविक परिणामों में बदलते हैं या नहीं। स्रोत: hankyung.com"
-      },
-      "id": {
-        "title": "Analisis Alteogen: Sinyal Positif Meski Skala Menurun, Klinik dan Regulasi Jadi Kunci",
-        "excerpt": "Hankyung melaporkan bahwa Alteogen menunjukkan sinyal positif meski skala menurun, dengan kemajuan klinis, regulasi, dan sengketa sebagai variabel utama.",
-        "body": "Hankyung melaporkan dalam analisis tentang Alteogen bahwa skala perusahaan menurun, tetapi sinyal positif terlihat jelas. Analisis tersebut meninjau alur bisnis Alteogen saat ini dan menyoroti bukan hanya penyusutan skala, melainkan faktor-faktor yang dapat menentukan hasil ke depan. Variabel utama yang disebutkan adalah perkembangan klinis, keputusan regulasi, dan isu terkait sengketa. Materi sumber tidak menyajikan angka terperinci atau data numerik tambahan. Perhatian pasar diperkirakan akan tertuju pada apakah sinyal positif ini dapat berubah menjadi hasil nyata di tengah penurunan skala. Sumber: hankyung.com"
-      }
-    }
-  },
-  {
-    "id": "a1b561a87e18",
-    "slug": "이러다-나만-거지-먹은-돈-토해낼라7천피에-더-불안해진-개미들-926562",
-    "channelId": "ETF",
-    "category": "etf",
-    "publishedAt": "2026-05-10T02:10:17.916Z",
-    "updatedAt": "2026-05-10T02:10:17.916Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/stock/12042456",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12042456",
-    "titleFingerprint": "7e203fd072afd1ed56d1f6eebec5761095413894",
-    "dedupKeys": [
-      "a1b561a87e18acba19d8bd24d59217d393d42f37",
-      "7e203fd072afd1ed56d1f6eebec5761095413894",
-      "9efd33da44609a5020bec190f64a4110c408f976"
-    ],
-    "imageUrl": "/images/articles/a1b561a87e18.jpg",
-    "i18n": {
-      "ko": {
-        "title": "코스피 7000 돌파에 개인투자자 불안 커져…박탈감·수익 반납 우려 확산",
-        "excerpt": "코스피가 사상 처음 7000선을 돌파하고 연초 대비 70% 넘게 급등하자 개인투자자들 사이에서 매수 기회를 놓친 박탈감과 수익 반납 우려가 커지고 있다.",
-        "body": "코스피가 사상 처음으로 7000선을 돌파하며 연초 대비 70% 넘게 급등하자 개인투자자들의 불안 심리가 커지고 있다. 일부 투자자들은 ‘80만닉스’를 두고 고민하다 매수하지 못했다며 박탈감을 드러냈고, 수익률이 30%에 이르러도 언제 수익을 토해낼지 몰라 마음을 졸인다는 반응도 나왔다. 급등장이 이어지면서 뒤늦게 뛰어들기 어렵다는 부담과 이미 오른 종목을 보유한 투자자의 경계심이 동시에 높아진 모습이다. 시장 참여자들 사이에서는 “도박판 따로 없다”는 표현까지 나오며 과열에 대한 우려도 커지고 있다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Kospi Breaks 7,000, Retail Investors Grow Uneasy Over Missed Gains and Pullbacks",
-        "excerpt": "As the Kospi surpassed 7,000 for the first time and rose more than 70% from the start of the year, retail investors voiced regret over missed buys and fear of giving back gains.",
-        "body": "The Kospi crossed the 7,000 mark for the first time, rising more than 70% from the start of the year, and anxiety among retail investors has intensified. Some said they hesitated over buying “800,000 Nix” and missed the chance, expressing a sense of deprivation. Others said that even with returns of about 30%, they remain nervous about possibly giving back profits. As the rally continues, both the burden of entering late and the caution of investors already holding sharply risen stocks have increased. Some market participants even described the mood as no different from a gambling table, reflecting heightened concern over overheating. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "KOSPI初の7000突破、個人投資家に広がる不安と利益返上への警戒",
-        "excerpt": "KOSPIが史上初めて7000台を突破し年初比で70％超上昇する中、個人投資家の間で買い逃しへの喪失感と利益返上への不安が強まっている。",
-        "body": "KOSPIが史上初めて7000台を突破し、年初比で70％を超えて急騰したことで、個人投資家の不安心理が強まっている。一部の投資家は「80万ニックス」をめぐって悩んだ末に買えなかったとして、取り残された感覚を示した。利益率が30％に達していても、いつ利益を吐き出すことになるか分からず気をもんでいるとの反応も出ている。急騰相場が続くなか、遅れて参入しにくい負担と、すでに上昇した銘柄を保有する投資家の警戒感が同時に高まっている。市場参加者からは「賭博場と変わらない」との声も出ており、過熱への懸念が強まっている。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "KOSPI首次突破7000点，散户对踏空与利润回吐的焦虑升温",
-        "excerpt": "KOSPI史上首次突破7000点，较年初上涨逾70%，散户投资者对错失买入机会的失落感和收益回吐风险的担忧正在扩大。",
-        "body": "KOSPI史上首次突破7000点，并较年初急涨逾70%，使散户投资者的不安情绪升温。一些投资者表示，曾在是否买入“80万Nix”上犹豫，最终没能买进，因此感到被行情抛下。也有人称，即使收益率达到30%，仍担心不知何时会把赚到的钱吐回去。随着快速上涨行情延续，迟到入场的负担与已持有大涨股票投资者的警惕心同时上升。市场参与者中甚至出现“这和赌场没有区别”的说法，显示对过热的担忧正在加剧。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Kospi supera los 7.000 puntos y crece la ansiedad entre minoristas por no entrar a tiempo",
-        "excerpt": "El Kospi superó por primera vez los 7.000 puntos y avanzó más de 70% desde inicios de año, lo que elevó entre minoristas la frustración por oportunidades perdidas y el temor a devolver ganancias.",
-        "body": "El Kospi superó por primera vez la barrera de los 7.000 puntos, con una subida de más del 70% desde comienzos de año, y aumentó la ansiedad entre los inversores minoristas. Algunos dijeron que dudaron demasiado sobre comprar “800.000 Nix” y finalmente no lo hicieron, expresando una sensación de privación. Otros señalaron que, aun con rendimientos cercanos al 30%, siguen nerviosos por la posibilidad de devolver las ganancias. A medida que continúa el fuerte repunte, crecen tanto la carga de entrar tarde como la cautela de quienes ya poseen acciones muy valorizadas. Entre participantes del mercado incluso surgió la frase “esto no es distinto de una mesa de apuestas”, reflejando preocupación por el sobrecalentamiento. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Kospi rompe 7.000 pontos e varejo teme perder ganhos após alta histórica",
-        "excerpt": "O Kospi superou 7.000 pontos pela primeira vez e subiu mais de 70% desde o início do ano, ampliando entre investidores de varejo a frustração por não comprar e o medo de devolver lucros.",
-        "body": "O Kospi ultrapassou pela primeira vez a marca de 7.000 pontos, acumulando alta de mais de 70% desde o início do ano, e a ansiedade entre investidores de varejo aumentou. Alguns afirmaram que hesitaram diante da compra de “800.000 Nix” e acabaram ficando de fora, demonstrando sensação de perda. Outros disseram que, mesmo com retorno de cerca de 30%, continuam apreensivos com a possibilidade de devolver os ganhos. Com a sequência da forte alta, crescem ao mesmo tempo o peso de entrar tarde e a cautela de quem já detém ações muito valorizadas. Entre participantes do mercado, houve até quem dissesse que “não há diferença para uma mesa de apostas”, sinalizando maior preocupação com superaquecimento. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Kospi steigt über 7.000 Punkte, Privatanleger sorgen sich um verpasste Gewinne",
-        "excerpt": "Der Kospi überschritt erstmals 7.000 Punkte und legte seit Jahresbeginn um mehr als 70% zu. Bei Privatanlegern wachsen Frust über verpasste Käufe und Angst vor Gewinnrückgaben.",
-        "body": "Der Kospi hat erstmals die Marke von 7.000 Punkten überschritten und ist seit Jahresbeginn um mehr als 70% gestiegen. Dadurch hat sich die Nervosität unter Privatanlegern verstärkt. Einige erklärten, sie hätten wegen “800.000 Nix” gezögert und letztlich nicht gekauft, was ein Gefühl des Zurückbleibens auslöste. Andere sagten, selbst bei rund 30% Rendite seien sie angespannt, weil sie nicht wüssten, wann sie Gewinne wieder abgeben müssten. Während die Rally anhält, steigen zugleich die Hürde eines späten Einstiegs und die Vorsicht jener, die bereits stark gestiegene Werte halten. Am Markt fiel sogar die Aussage, es sei “nichts anderes als ein Glücksspiel”, was die Sorge vor Überhitzung zeigt. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Le Kospi dépasse 7.000 points, les particuliers partagés entre regret et crainte",
-        "excerpt": "Le Kospi a franchi pour la première fois les 7.000 points et gagné plus de 70% depuis le début de l’année, nourrissant chez les particuliers le regret d’avoir raté l’achat et la peur de rendre leurs gains.",
-        "body": "Le Kospi a franchi pour la première fois le seuil des 7.000 points, avec une hausse de plus de 70% depuis le début de l’année, ce qui accentue l’anxiété des investisseurs particuliers. Certains disent avoir hésité autour de “800.000 Nix” et ne pas avoir acheté, exprimant un sentiment de privation. D’autres affirment rester nerveux même avec environ 30% de rendement, craignant de devoir rendre leurs gains. Alors que le marché poursuit sa forte progression, la difficulté d’entrer tardivement et la prudence des détenteurs de valeurs déjà très montées augmentent en même temps. Des participants au marché vont jusqu’à évoquer une situation “pas différente d’une table de jeu”, signe d’une inquiétude accrue face à la surchauffe. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "كوسبي يتجاوز 7000 نقطة لأول مرة وقلق الأفراد يتصاعد من فوات الفرصة",
-        "excerpt": "تجاوز مؤشر كوسبي مستوى 7000 نقطة للمرة الأولى وارتفع بأكثر من 70% منذ بداية العام، ما زاد قلق المستثمرين الأفراد من فوات الشراء ومن احتمال إعادة الأرباح.",
-        "body": "تجاوز مؤشر كوسبي مستوى 7000 نقطة للمرة الأولى في تاريخه، مرتفعا بأكثر من 70% منذ بداية العام، ما أدى إلى تصاعد القلق بين المستثمرين الأفراد. قال بعضهم إنهم ترددوا بشأن شراء “800 ألف نيكس” ثم لم يشتروا، معبرين عن شعور بالحرمان. وقال آخرون إنهم، حتى مع عائد يبلغ نحو 30%، ما زالوا قلقين من احتمال فقدان الأرباح التي حققوها. ومع استمرار موجة الصعود الحادة، زاد في الوقت نفسه عبء الدخول المتأخر وحذر المستثمرين الذين يملكون أسهما ارتفعت بالفعل بقوة. وظهرت بين المشاركين في السوق عبارات مثل “لا يختلف الأمر عن طاولة قمار”، ما يعكس تنامي المخاوف من فرط السخونة. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "कोस्पी 7,000 के पार, खुदरा निवेशकों में छूटी कमाई और मुनाफा गंवाने की चिंता",
-        "excerpt": "कोस्पी पहली बार 7,000 अंक के पार गया और साल की शुरुआत से 70% से अधिक चढ़ा, जिससे खुदरा निवेशकों में खरीद चूकने की निराशा और मुनाफा लौट जाने का डर बढ़ा।",
-        "body": "कोस्पी पहली बार 7,000 अंक के स्तर को पार कर गया और साल की शुरुआत से 70% से अधिक उछला, जिससे खुदरा निवेशकों की बेचैनी बढ़ गई है। कुछ निवेशकों ने कहा कि वे “800,000 निक्स” खरीदने पर सोचते रह गए और खरीद नहीं पाए, जिससे छूट जाने की भावना पैदा हुई। कुछ ने कहा कि करीब 30% रिटर्न होने पर भी वे इस डर से तनाव में हैं कि कब मुनाफा वापस चला जाए। तेज तेजी जारी रहने के साथ देर से बाजार में उतरने का दबाव और पहले से चढ़े शेयर रखने वालों की सतर्कता दोनों बढ़ रही हैं। बाजार प्रतिभागियों के बीच “यह जुए की मेज से अलग नहीं” जैसी टिप्पणी भी सामने आई, जो अति-उत्साह को लेकर बढ़ती चिंता दिखाती है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Kospi Tembus 7.000, Investor Ritel Makin Cemas Soal FOMO dan Laba Hilang",
-        "excerpt": "Kospi menembus 7.000 untuk pertama kalinya dan naik lebih dari 70% sejak awal tahun, memicu rasa tertinggal di kalangan investor ritel serta kekhawatiran laba bisa kembali tergerus.",
-        "body": "Kospi untuk pertama kalinya menembus level 7.000 dan melonjak lebih dari 70% sejak awal tahun, membuat kecemasan investor ritel meningkat. Sebagian investor mengatakan mereka terlalu lama mempertimbangkan “800.000 Nix” hingga akhirnya tidak membeli, lalu merasa tertinggal. Ada pula yang mengaku tetap gelisah meski imbal hasil sudah sekitar 30%, karena khawatir suatu saat keuntungan itu bisa hilang kembali. Ketika reli tajam berlanjut, beban untuk masuk terlambat dan kewaspadaan pemegang saham yang sudah naik tinggi sama-sama meningkat. Di antara pelaku pasar bahkan muncul ungkapan “tidak berbeda dari meja judi”, mencerminkan kekhawatiran yang makin besar terhadap kondisi terlalu panas. Sumber: mk.co.kr"
       }
     }
   }
