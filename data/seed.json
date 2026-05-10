@@ -1,5 +1,230 @@
 [
   {
+    "id": "9500fc467461",
+    "slug": "ai붐에-반도체-공장-풀가동-레거시-파운드리까지-들썩-493863",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-05-10T08:35:05.867Z",
+    "updatedAt": "2026-05-10T08:35:05.867Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/stock/12042679",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12042679",
+    "titleFingerprint": "8cb353f23095995c92bf9a9de9e35e7de906aa41",
+    "dedupKeys": [
+      "9500fc467461ef20147233e2b4bff3e348c818ce",
+      "8cb353f23095995c92bf9a9de9e35e7de906aa41",
+      "5ef4cb7086dd952403c8f5d894b930131c6c7ed4"
+    ],
+    "imageUrl": "/images/articles/9500fc467461.jpg",
+    "i18n": {
+      "ko": {
+        "title": "AI 반도체 수요 확산, 레거시 파운드리까지 공장 풀가동 기대감",
+        "excerpt": "AI 데이터센터 투자 확대가 반도체 수요를 끌어올리며 TSMC·삼성전자 중심의 첨단 공정 수혜를 넘어 글로벌 레거시 파운드리 시장으로 확산되고 있다.",
+        "body": "인공지능(AI) 데이터센터 투자가 확대되면서 반도체 수요 증가세가 글로벌 레거시, 즉 구형 파운드리 시장까지 번지고 있다. 그동안 AI 붐의 직접적인 수혜는 TSMC와 삼성전자 같은 최첨단 공정 업체에 집중됐지만, 관련 수요가 넓어지며 기존 공정 기반 생산라인에도 온기가 전해지는 모습이다. 반도체 공장 가동률에 대한 기대가 높아지면서 레거시 파운드리 시장 역시 다시 주목받고 있다. 이번 흐름은 AI 인프라 투자가 첨단 반도체뿐 아니라 기존 반도체 제조 생태계 전반에 영향을 미치고 있음을 보여준다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "AI Chip Demand Spreads as Legacy Foundries See Full-Run Hopes",
+        "excerpt": "Rising investment in AI data centers is lifting semiconductor demand beyond advanced-node leaders such as TSMC and Samsung Electronics into the global legacy foundry market.",
+        "body": "As investment in artificial intelligence data centers expands, rising semiconductor demand is spreading into the global legacy foundry market. Until now, the direct benefits of the AI boom had centered on advanced-process players such as TSMC and Samsung Electronics. But as related demand broadens, older process-based production lines are also seeing renewed momentum. Expectations for higher semiconductor factory utilization are drawing fresh attention to legacy foundries. The trend shows that AI infrastructure spending is affecting not only cutting-edge chips but also the broader existing semiconductor manufacturing ecosystem. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "AI半導体需要が拡大、レガシーファウンドリーにも稼働期待",
+        "excerpt": "AIデータセンター投資の拡大で半導体需要が増え、TSMCやサムスン電子中心の先端工程の恩恵が世界のレガシーファウンドリー市場にも広がっている。",
+        "body": "人工知能（AI）データセンターへの投資拡大により、半導体需要の増加が世界のレガシー、つまり旧世代ファウンドリー市場にまで広がっている。これまでAIブームの直接的な恩恵は、TSMCやサムスン電子のような最先端工程企業に集中していた。しかし関連需要が広がる中、既存工程を基盤とする生産ラインにも温気が伝わりつつある。半導体工場の稼働率への期待が高まり、レガシーファウンドリー市場も改めて注目されている。この流れは、AIインフラ投資が先端半導体だけでなく既存の半導体製造生態系全体にも影響していることを示している。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "AI芯片需求外溢，传统晶圆代工也迎来满负荷期待",
+        "excerpt": "AI数据中心投资扩大推升半导体需求，受益范围正从TSMC、三星电子等先进制程厂商扩散至全球传统晶圆代工市场。",
+        "body": "随着人工智能（AI）数据中心投资扩大，半导体需求增长正蔓延至全球传统、即旧制程晶圆代工市场。此前，AI热潮的直接受益主要集中在TSMC和三星电子等最先进制程企业。但随着相关需求扩大，基于既有制程的生产线也开始感受到市场回暖。市场对半导体工厂开工率的期待升温，使传统晶圆代工市场重新受到关注。这一趋势显示，AI基础设施投资不仅影响先进半导体，也正在影响既有半导体制造生态的更广范围。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "La demanda de chips por IA se extiende a fundiciones heredadas",
+        "excerpt": "La mayor inversión en centros de datos de IA impulsa la demanda de semiconductores y lleva el beneficio más allá de TSMC y Samsung hacia las fundiciones heredadas globales.",
+        "body": "La expansión de la inversión en centros de datos de inteligencia artificial está llevando el aumento de la demanda de semiconductores hasta el mercado global de fundiciones heredadas, o de procesos antiguos. Hasta ahora, los beneficios directos del auge de la IA se concentraban en compañías de procesos avanzados como TSMC y Samsung Electronics. Sin embargo, al ampliarse la demanda relacionada, también las líneas de producción basadas en procesos existentes muestran señales de impulso. Las expectativas sobre una mayor utilización de las fábricas de semiconductores vuelven a poner el foco en las fundiciones heredadas. La tendencia muestra que la inversión en infraestructura de IA afecta no solo a los chips avanzados, sino al ecosistema de fabricación existente. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Demanda de chips por IA chega às foundries legadas globais",
+        "excerpt": "A expansão dos investimentos em data centers de IA eleva a demanda por semicondutores e leva os ganhos além de TSMC e Samsung para o mercado global de foundries legadas.",
+        "body": "Com a expansão dos investimentos em data centers de inteligência artificial, o aumento da demanda por semicondutores está chegando ao mercado global de foundries legadas, baseadas em processos mais antigos. Até agora, os benefícios diretos do boom da IA se concentravam em empresas de processos avançados, como TSMC e Samsung Electronics. Mas, à medida que a demanda relacionada se amplia, linhas de produção de processos existentes também passam a sentir esse movimento. As expectativas de maior utilização das fábricas de semicondutores recolocam as foundries legadas em destaque. A tendência mostra que o investimento em infraestrutura de IA afeta não apenas chips avançados, mas também o ecossistema de fabricação já estabelecido. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "KI-Chipnachfrage erreicht nun auch ältere Foundry-Prozesse",
+        "excerpt": "Mehr Investitionen in KI-Rechenzentren treiben die Halbleiternachfrage an und weiten die Vorteile von TSMC und Samsung auf den globalen Legacy-Foundry-Markt aus.",
+        "body": "Mit den steigenden Investitionen in Rechenzentren für künstliche Intelligenz greift die wachsende Halbleiternachfrage auch auf den globalen Legacy-Foundry-Markt, also ältere Fertigungsprozesse, über. Bislang konzentrierten sich die direkten Vorteile des KI-Booms vor allem auf Anbieter modernster Prozesse wie TSMC und Samsung Electronics. Da sich die damit verbundene Nachfrage ausweitet, erhalten nun auch Produktionslinien auf Basis bestehender Prozesse neuen Rückenwind. Erwartungen an eine höhere Auslastung von Halbleiterfabriken lenken den Blick wieder auf Legacy-Foundries. Der Trend zeigt, dass KI-Infrastrukturinvestitionen nicht nur Spitzenchips, sondern auch das bestehende Fertigungsökosystem beeinflussen. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "La demande de puces IA gagne les fonderies de génération ancienne",
+        "excerpt": "L’essor des investissements dans les centres de données IA accroît la demande de semi-conducteurs et étend les bénéfices de TSMC et Samsung aux fonderies matures.",
+        "body": "Avec l’expansion des investissements dans les centres de données d’intelligence artificielle, la hausse de la demande de semi-conducteurs s’étend au marché mondial des fonderies dites legacy, fondées sur des procédés plus anciens. Jusqu’ici, les retombées directes du boom de l’IA se concentraient sur les acteurs des procédés de pointe comme TSMC et Samsung Electronics. Mais l’élargissement de la demande liée à l’IA donne aussi un nouvel élan aux lignes de production existantes. Les attentes de meilleure utilisation des usines de semi-conducteurs remettent les fonderies matures sous les projecteurs. Cette tendance montre que l’investissement dans l’infrastructure IA touche aussi l’écosystème manufacturier existant. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "طلب رقائق الذكاء الاصطناعي يمتد إلى المسابك التقليدية عالميا",
+        "excerpt": "توسع الاستثمار في مراكز بيانات الذكاء الاصطناعي يرفع الطلب على أشباه الموصلات، وينقل أثره من TSMC وسامسونغ إلى سوق المسابك التقليدية العالمية.",
+        "body": "مع اتساع الاستثمار في مراكز بيانات الذكاء الاصطناعي، ينتشر نمو الطلب على أشباه الموصلات إلى سوق المسابك التقليدية عالميا، أي خطوط التصنيع الأقدم. وحتى الآن، تركزت المكاسب المباشرة من طفرة الذكاء الاصطناعي لدى شركات العمليات المتقدمة مثل TSMC وسامسونغ إلكترونيكس. لكن مع اتساع الطلب المرتبط بهذا المجال، بدأت خطوط الإنتاج القائمة على العمليات الحالية تشهد زخما جديدا. وارتفاع التوقعات بشأن معدلات تشغيل مصانع أشباه الموصلات يعيد تسليط الضوء على سوق المسابك التقليدية. ويظهر هذا الاتجاه أن استثمارات بنية الذكاء الاصطناعي تؤثر ليس فقط في الرقائق المتقدمة، بل في منظومة تصنيع أشباه الموصلات القائمة كذلك. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "AI चिप मांग अब पुराने फाउंड्री बाजार तक भी फैल रही है",
+        "excerpt": "AI डेटा सेंटर निवेश बढ़ने से सेमीकंडक्टर मांग तेज हो रही है और लाभ TSMC व Samsung जैसे उन्नत प्रोसेस खिलाड़ियों से आगे वैश्विक लेगेसी फाउंड्री तक फैल रहा है।",
+        "body": "कृत्रिम बुद्धिमत्ता (AI) डेटा सेंटरों में निवेश बढ़ने के साथ सेमीकंडक्टर मांग की वृद्धि वैश्विक लेगेसी, यानी पुराने प्रोसेस वाली फाउंड्री बाजार तक फैल रही है। अब तक AI बूम का सीधा लाभ मुख्य रूप से TSMC और Samsung Electronics जैसी अत्याधुनिक प्रोसेस कंपनियों पर केंद्रित था। लेकिन संबंधित मांग का दायरा बढ़ने से मौजूदा प्रोसेस आधारित उत्पादन लाइनों में भी नई गर्माहट दिख रही है। सेमीकंडक्टर कारखानों की उपयोग दर को लेकर उम्मीदें बढ़ने से लेगेसी फाउंड्री बाजार फिर ध्यान में आ रहा है। यह रुझान दिखाता है कि AI अवसंरचना निवेश केवल उन्नत चिपों को नहीं, बल्कि मौजूदा सेमीकंडक्टर निर्माण पारिस्थितिकी तंत्र को भी प्रभावित कर रहा है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Permintaan Chip AI Meluas ke Foundry Legacy Global",
+        "excerpt": "Peningkatan investasi pusat data AI mendorong permintaan semikonduktor dan memperluas manfaat dari TSMC serta Samsung ke pasar foundry legacy global.",
+        "body": "Seiring meningkatnya investasi pusat data kecerdasan buatan (AI), kenaikan permintaan semikonduktor mulai menyebar ke pasar foundry legacy global, yaitu proses manufaktur yang lebih lama. Selama ini, manfaat langsung dari ledakan AI terutama terkonsentrasi pada pemain proses tercanggih seperti TSMC dan Samsung Electronics. Namun, ketika permintaan terkait semakin meluas, lini produksi berbasis proses yang sudah ada juga mulai merasakan momentum baru. Ekspektasi terhadap tingkat utilisasi pabrik semikonduktor yang lebih tinggi kembali menarik perhatian ke pasar foundry legacy. Tren ini menunjukkan bahwa investasi infrastruktur AI tidak hanya memengaruhi chip mutakhir, tetapi juga ekosistem manufaktur semikonduktor yang telah ada. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "1db12d39fe96",
+    "slug": "카카오그룹-군살빼기-삐걱-핵심매물-새-주인-찾기-난항-327015",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-05-10T08:34:06.982Z",
+    "updatedAt": "2026-05-10T08:34:06.982Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/stock/12042680",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12042680",
+    "titleFingerprint": "e6a966ed54e246ca7a3e49d4513b413cc592bf19",
+    "dedupKeys": [
+      "1db12d39fe961fa1b74ebc7632ffd553af319543",
+      "e6a966ed54e246ca7a3e49d4513b413cc592bf19",
+      "2dc7cd60c439297b541c9884da678bd14d2c2681"
+    ],
+    "imageUrl": "/images/articles/1db12d39fe96.jpg",
+    "i18n": {
+      "ko": {
+        "title": "카카오그룹 자산 정리 난항, 키이스트·SM C&C 매각 결렬로 새 주인 찾기 지연",
+        "excerpt": "카카오그룹이 엔터테인먼트 계열 자산을 정리하려는 가운데 SM엔터테인먼트의 코스닥 상장 자회사 키이스트와 SM C&C 매각이 잇달아 결렬되며 작업 속도가 늦어지고 있다.",
+        "body": "카카오그룹의 엔터테인먼트 계열 자산 정리 작업이 속도를 내지 못하고 있다. 매일경제(mk.co.kr)에 따르면 핵심 매물로 꼽힌 SM엔터테인먼트의 코스닥 상장 자회사 키이스트와 SM C&C 매각이 잇달아 결렬되며 새 주인 찾기에 난항을 겪고 있다. 이번 사안은 카카오그룹이 비핵심 또는 정리 대상 자산을 줄이려는 흐름 속에서 진행된 매각 작업이라는 점에서 주목된다. 그러나 핵심 매물의 거래가 이어서 무산되면서 엔터테인먼트 계열 자산 정리 일정은 당초 기대만큼 빠르게 진행되지 못하는 모습이다. 향후 관건은 키이스트와 SM C&C가 다시 적절한 인수 후보를 찾을 수 있는지 여부다. 출처: mk.co.kr."
+      },
+      "en": {
+        "title": "Kakao Group Asset Streamlining Slows as KeyEast and SM C&C Sales Fall Through",
+        "excerpt": "Kakao Group’s effort to streamline entertainment assets is losing momentum after sales of SM Entertainment’s KOSDAQ-listed subsidiaries KeyEast and SM C&C repeatedly fell through.",
+        "body": "Kakao Group’s work to streamline entertainment-related assets is not gaining speed. According to Maeil Business Newspaper (mk.co.kr), the planned sales of KeyEast and SM C&C, KOSDAQ-listed subsidiaries of SM Entertainment viewed as key assets for disposal, have fallen through one after another, making it difficult to find new owners. The issue draws attention because the sales were part of Kakao Group’s broader move to reduce assets targeted for reorganization. With deals for the core assets collapsing in succession, the timeline for reorganizing entertainment affiliates appears slower than initially expected. The next focus is whether KeyEast and SM C&C can again find suitable buyers. Source: mk.co.kr."
+      },
+      "ja": {
+        "title": "カカオグループの資産整理が難航、キーイーストとSM C&C売却が相次ぎ不成立",
+        "excerpt": "カカオグループがエンターテインメント系資産の整理を進める中、SMエンターテインメントのKOSDAQ上場子会社キーイーストとSM C&Cの売却が相次ぎ不成立となり、作業の速度が鈍っている。",
+        "body": "カカオグループのエンターテインメント系資産整理作業がスピードに乗れていない。毎日経済（mk.co.kr）によると、主要な売却対象とされていたSMエンターテインメントのKOSDAQ上場子会社キーイーストとSM C&Cの売却が相次いで不成立となり、新たな買い手探しが難航している。今回の案件は、カカオグループが整理対象資産を減らそうとする流れの中で進められた売却作業である点で注目される。しかし中核的な売却対象の取引が続けて頓挫したことで、エンターテインメント系資産の整理日程は当初期待されたほど速く進んでいない。今後の焦点は、キーイーストとSM C&Cが再び適切な買収候補を見つけられるかどうかだ。出典: mk.co.kr."
+      },
+      "zh": {
+        "title": "Kakao集团资产瘦身受阻，KeyEast与SM C&C出售接连告吹",
+        "excerpt": "Kakao集团推进娱乐板块资产整理之际，SM娱乐旗下KOSDAQ上市子公司KeyEast和SM C&C的出售接连告吹，使核心资产寻找新买家的进程放缓。",
+        "body": "Kakao集团的娱乐板块资产整理工作未能提速。据每日经济（mk.co.kr）报道，被视为核心出售标的的SM娱乐KOSDAQ上市子公司KeyEast和SM C&C，出售交易接连告吹，寻找新买家面临困难。该事项受到关注，是因为相关出售工作处在Kakao集团试图减少非核心或整理对象资产的进程之中。然而，核心标的交易连续未能完成，使娱乐板块资产整理时间表未能按原先期待快速推进。接下来的关键在于KeyEast和SM C&C能否再次找到合适的收购候选方。来源：mk.co.kr。"
+      },
+      "es": {
+        "title": "Kakao Group frena su ajuste de activos tras fallar ventas de KeyEast y SM C&C",
+        "excerpt": "Kakao Group pierde ritmo en la reorganización de sus activos de entretenimiento después de que fracasaran las ventas de KeyEast y SM C&C, filiales cotizadas en KOSDAQ de SM Entertainment.",
+        "body": "La reorganización de los activos de entretenimiento de Kakao Group no avanza con rapidez. Según Maeil Business Newspaper (mk.co.kr), las ventas de KeyEast y SM C&C, filiales de SM Entertainment cotizadas en KOSDAQ y consideradas activos clave en el proceso, se frustraron de forma consecutiva, dificultando la búsqueda de nuevos propietarios. El caso llama la atención porque formaba parte del esfuerzo de Kakao Group por reducir activos sujetos a reorganización. Sin embargo, al fracasar sucesivamente las operaciones sobre los activos principales, el calendario de ajuste del negocio de entretenimiento no progresa tan rápido como se esperaba. La clave será si KeyEast y SM C&C logran encontrar de nuevo compradores adecuados. Fuente: mk.co.kr."
+      },
+      "pt": {
+        "title": "Kakao Group vê enxugamento de ativos travar após falhas nas vendas da KeyEast e SM C&C",
+        "excerpt": "O Kakao Group perde ritmo na reorganização de ativos de entretenimento depois que as vendas da KeyEast e da SM C&C, subsidiárias da SM Entertainment listadas na KOSDAQ, foram frustradas.",
+        "body": "O trabalho do Kakao Group para reorganizar ativos ligados ao entretenimento não está ganhando velocidade. Segundo o Maeil Business Newspaper (mk.co.kr), as vendas da KeyEast e da SM C&C, subsidiárias da SM Entertainment listadas na KOSDAQ e vistas como ativos centrais do processo, foram frustradas em sequência, dificultando a busca por novos donos. O caso chama atenção porque fazia parte do movimento do Kakao Group para reduzir ativos sujeitos a reorganização. Com a queda consecutiva dos negócios envolvendo os principais ativos, o cronograma de reorganização da área de entretenimento avança mais lentamente do que se esperava. O ponto central agora é se KeyEast e SM C&C conseguirão encontrar novamente compradores adequados. Fonte: mk.co.kr."
+      },
+      "de": {
+        "title": "Kakao Group kommt bei Asset-Straffung kaum voran, Verkäufe von KeyEast und SM C&C platzen",
+        "excerpt": "Die Neuordnung der Entertainment-Assets von Kakao Group verliert an Tempo, nachdem Verkäufe der KOSDAQ-notierten SM-Entertainment-Töchter KeyEast und SM C&C nacheinander gescheitert sind.",
+        "body": "Kakao Group kommt bei der Straffung seiner Entertainment-Assets nicht zügig voran. Laut Maeil Business Newspaper (mk.co.kr) sind die geplanten Verkäufe von KeyEast und SM C&C, KOSDAQ-notierten Tochtergesellschaften von SM Entertainment und als zentrale Verkaufsobjekte eingestuft, nacheinander gescheitert. Damit gestaltet sich die Suche nach neuen Eigentümern schwierig. Der Vorgang steht im Blickpunkt, weil er Teil der Bemühungen von Kakao Group ist, zu reorganisierende Vermögenswerte zu reduzieren. Da die Transaktionen für die Kernassets jedoch wiederholt nicht zustande kamen, verläuft der Zeitplan zur Neuordnung der Entertainment-Sparte langsamer als zunächst erwartet. Entscheidend wird nun sein, ob KeyEast und SM C&C erneut geeignete Käufer finden. Quelle: mk.co.kr."
+      },
+      "fr": {
+        "title": "Kakao Group peine à alléger ses actifs après l’échec des ventes de KeyEast et SM C&C",
+        "excerpt": "La réorganisation des actifs de divertissement de Kakao Group ralentit après l’échec successif des ventes de KeyEast et SM C&C, filiales cotées au KOSDAQ de SM Entertainment.",
+        "body": "Le travail de Kakao Group pour rationaliser ses actifs liés au divertissement ne prend pas de vitesse. Selon Maeil Business Newspaper (mk.co.kr), les ventes de KeyEast et SM C&C, filiales de SM Entertainment cotées au KOSDAQ et considérées comme des actifs clés à céder, ont échoué l’une après l’autre, compliquant la recherche de nouveaux propriétaires. Le dossier retient l’attention car il s’inscrit dans la volonté de Kakao Group de réduire des actifs visés par une réorganisation. Toutefois, l’échec successif des transactions portant sur les actifs centraux ralentit le calendrier de réorganisation de la branche divertissement par rapport aux attentes initiales. Le point clé sera désormais de savoir si KeyEast et SM C&C peuvent retrouver des acquéreurs appropriés. Source: mk.co.kr."
+      },
+      "ar": {
+        "title": "تعثر تقليص أصول كاكاو مع فشل بيع KeyEast وSM C&C تباعا",
+        "excerpt": "تتباطأ جهود مجموعة كاكاو لترتيب أصول الترفيه بعدما تعثرت صفقات بيع KeyEast وSM C&C، وهما شركتان تابعتان لـSM Entertainment ومدرجتان في كوسداك، تباعا.",
+        "body": "لا تحقق مجموعة كاكاو سرعة في عملية ترتيب أصولها المرتبطة بالترفيه. ووفقا لصحيفة Maeil Business Newspaper عبر mk.co.kr، فإن صفقات بيع KeyEast وSM C&C، وهما شركتان تابعتان لـSM Entertainment ومدرجتان في كوسداك وتعدان من الأصول الرئيسية المطروحة، فشلت تباعا، ما صعّب العثور على ملاك جدد. يلفت هذا الملف الانتباه لأنه يأتي ضمن مسار كاكاو لتقليص الأصول المستهدفة بإعادة التنظيم. لكن تعثر الصفقات الخاصة بالأصول الأساسية على التوالي جعل جدول ترتيب أصول الترفيه أبطأ من التوقعات الأولية. وسيكون المحور المقبل هو ما إذا كانت KeyEast وSM C&C ستتمكنان من العثور مجددا على مشترين مناسبين. المصدر: mk.co.kr."
+      },
+      "hi": {
+        "title": "Kakao Group की परिसंपत्ति छंटाई अटकी, KeyEast और SM C&C की बिक्री विफल",
+        "excerpt": "Kakao Group की मनोरंजन परिसंपत्तियों को व्यवस्थित करने की कोशिश धीमी पड़ रही है, क्योंकि SM Entertainment की KOSDAQ-सूचीबद्ध सहायक कंपनियों KeyEast और SM C&C की बिक्री लगातार विफल हुई है।",
+        "body": "Kakao Group की मनोरंजन से जुड़ी परिसंपत्तियों को व्यवस्थित करने की प्रक्रिया रफ्तार नहीं पकड़ पा रही है। Maeil Business Newspaper (mk.co.kr) के अनुसार, SM Entertainment की KOSDAQ-सूचीबद्ध सहायक कंपनियां KeyEast और SM C&C, जिन्हें बिक्री के प्रमुख लक्ष्य माना गया था, की बिक्री लगातार विफल हुई है, जिससे नए मालिकों की तलाश कठिन हो गई है। यह मामला इसलिए ध्यान खींचता है क्योंकि यह Kakao Group द्वारा पुनर्गठन के दायरे में आने वाली परिसंपत्तियों को कम करने की प्रक्रिया का हिस्सा था। लेकिन प्रमुख परिसंपत्तियों के सौदे लगातार टूटने से मनोरंजन क्षेत्र की परिसंपत्ति व्यवस्था अपेक्षित गति से आगे नहीं बढ़ रही है। आगे मुख्य सवाल यह होगा कि KeyEast और SM C&C फिर से उपयुक्त खरीदार खोज पाती हैं या नहीं। स्रोत: mk.co.kr."
+      },
+      "id": {
+        "title": "Perampingan Aset Kakao Group Tersendat, Penjualan KeyEast dan SM C&C Gagal",
+        "excerpt": "Upaya Kakao Group merapikan aset hiburan melambat setelah penjualan KeyEast dan SM C&C, anak usaha SM Entertainment yang tercatat di KOSDAQ, berturut-turut gagal menemukan pemilik baru.",
+        "body": "Proses Kakao Group merapikan aset di sektor hiburan belum bergerak cepat. Menurut Maeil Business Newspaper (mk.co.kr), penjualan KeyEast dan SM C&C, anak usaha SM Entertainment yang tercatat di KOSDAQ dan dinilai sebagai aset utama untuk dilepas, gagal berturut-turut sehingga pencarian pemilik baru menghadapi hambatan. Perkara ini mendapat perhatian karena menjadi bagian dari langkah Kakao Group untuk mengurangi aset yang masuk dalam agenda penataan. Namun, gagalnya transaksi atas aset inti secara beruntun membuat jadwal penataan aset hiburan tidak berjalan secepat ekspektasi awal. Fokus berikutnya adalah apakah KeyEast dan SM C&C dapat kembali menemukan calon pembeli yang sesuai. Sumber: mk.co.kr."
+      }
+    }
+  },
+  {
+    "id": "8d1c4ac483f5",
+    "slug": "ai-패권-최강자-반도체냐-하이퍼스케일러냐-엔비디아-vs-구글-시총1위-대결-733481",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-05-10T08:33:00.208Z",
+    "updatedAt": "2026-05-10T08:33:00.208Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/stock/12042682",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12042682",
+    "titleFingerprint": "8dfc61225b80948c0b64a19be119ec9346d1c405",
+    "dedupKeys": [
+      "8d1c4ac483f56c3db98f95d71fa643936e05e8ae",
+      "8dfc61225b80948c0b64a19be119ec9346d1c405",
+      "93370e15c12fda466fccac463ec9b70ea10df677"
+    ],
+    "imageUrl": "/images/articles/8d1c4ac483f5.jpg",
+    "i18n": {
+      "ko": {
+        "title": "AI 패권 경쟁, 엔비디아 시총 1위에 알파벳이 바짝 추격",
+        "excerpt": "전 세계 시가총액 1위 엔비디아를 알파벳이 추격하며 AI 발전이 주가 상승을 이끄는 가운데 반도체와 하이퍼스케일러 간 주도권 경쟁이 부각되고 있다.",
+        "body": "전 세계 시가총액 1위인 엔비디아를 2위 알파벳, 구글 모회사가 바짝 추격하고 있다. 인공지능(AI) 발전이 양사의 주가 상승을 이끄는 가운데, AI 패권을 둘러싼 반도체 기업과 하이퍼스케일러의 경쟁 구도가 시장의 관심사로 떠올랐다. 원문은 엔비디아가 현재 왕좌를 지키고 있지만 알파벳이 그 격차를 좁히고 있다고 전했다. AI 기술 확산이 기업가치 평가의 핵심 변수로 작용하면서 향후 주도권 다툼은 더욱 치열해질 전망이다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "AI Leadership Race Pits Nvidia’s Market-Cap Crown Against Alphabet",
+        "excerpt": "Alphabet is closing in on Nvidia, the world’s largest company by market value, as AI-driven share gains intensify the contest between chipmakers and hyperscalers.",
+        "body": "Nvidia, currently the world’s No. 1 company by market capitalization, is being closely followed by Alphabet, the parent company of Google and the No. 2 name in the ranking. As advances in artificial intelligence lift both companies’ share prices, the market is focusing on the rivalry between semiconductor leaders and hyperscalers for AI leadership. The source said Nvidia still holds the crown, but Alphabet is narrowing the gap. With AI expansion becoming a key factor in corporate valuations, the struggle for future dominance is expected to remain intense. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "AI覇権争い、時価総額首位エヌビディアをアルファベットが追撃",
+        "excerpt": "世界時価総額1位のエヌビディアをアルファベットが追い上げ、AIの進展による株価上昇の中で半導体とハイパースケーラーの主導権争いが浮上している。",
+        "body": "世界の時価総額で首位に立つエヌビディアを、2位のアルファベット、グーグルの親会社が急追している。人工知能（AI）の発展が両社の株価上昇を支える中、AI覇権をめぐる半導体企業とハイパースケーラーの競争構図に市場の関心が集まっている。原文は、エヌビディアが現在も王座を守っている一方で、アルファベットがその差を縮めていると伝えた。AI技術の広がりが企業価値評価の重要な要因となる中、今後の主導権争いは一段と激しくなる見通しだ。出所: mk.co.kr"
+      },
+      "zh": {
+        "title": "AI主导权竞争升温，英伟达市值第一宝座遭Alphabet紧追",
+        "excerpt": "全球市值第一的英伟达正被Alphabet紧追，随着AI发展推动股价上涨，半导体企业与超大规模云服务商的主导权竞争受到关注。",
+        "body": "全球市值排名第一的英伟达，正受到排名第二的Alphabet，也就是谷歌母公司的紧追。随着人工智能（AI）发展带动两家公司股价上涨，围绕AI主导权的半导体企业与超大规模云服务商之间的竞争格局，成为市场关注焦点。原文称，英伟达目前仍守住王座，但Alphabet正在缩小差距。随着AI技术扩散成为企业价值评估的关键变量，未来主导权之争预计将更加激烈。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "La carrera por el liderazgo en IA enfrenta a Nvidia con Alphabet",
+        "excerpt": "Alphabet se acerca a Nvidia, líder mundial por capitalización bursátil, mientras el avance de la IA impulsa las acciones y destaca la pugna entre chips e hiperescaladores.",
+        "body": "Nvidia, la empresa número uno del mundo por capitalización bursátil, está siendo seguida de cerca por Alphabet, matriz de Google y segunda en el ranking. Mientras el avance de la inteligencia artificial (IA) impulsa las subidas bursátiles de ambas compañías, el mercado observa la competencia por el liderazgo entre empresas de semiconductores e hiperescaladores. La fuente indicó que Nvidia mantiene por ahora la corona, pero Alphabet está reduciendo la distancia. Con la expansión de la IA como variable clave para valorar empresas, la disputa por el dominio futuro podría intensificarse. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Disputa pela liderança em IA coloca Nvidia sob pressão da Alphabet",
+        "excerpt": "A Alphabet se aproxima da Nvidia, maior empresa do mundo em valor de mercado, enquanto a alta das ações impulsionada pela IA destaca a disputa entre chips e hiperescaladores.",
+        "body": "A Nvidia, atual número um do mundo em capitalização de mercado, está sendo acompanhada de perto pela Alphabet, controladora do Google e segunda colocada. Com o avanço da inteligência artificial (IA) impulsionando a valorização das ações das duas empresas, cresce a atenção do mercado para a disputa de liderança entre companhias de semicondutores e hiperescaladores. A fonte informou que a Nvidia ainda mantém a coroa, mas a Alphabet vem reduzindo a diferença. À medida que a expansão da IA se torna variável central na avaliação corporativa, a disputa por protagonismo tende a ficar mais acirrada. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "KI-Machtkampf: Alphabet rückt Nvidia bei der Marktkapitalisierung näher",
+        "excerpt": "Alphabet holt auf Nvidia, den weltweiten Marktwert-Spitzenreiter, auf, während KI-getriebene Kursgewinne den Wettbewerb zwischen Halbleitern und Hyperscalern schärfen.",
+        "body": "Nvidia, derzeit weltweit die Nummer eins nach Marktkapitalisierung, wird von Alphabet, der Google-Mutter und Nummer zwei, dicht verfolgt. Während Fortschritte bei künstlicher Intelligenz (KI) die Aktienkurse beider Unternehmen antreiben, richtet sich der Blick des Marktes auf den Wettbewerb zwischen Halbleiterunternehmen und Hyperscalern um die KI-Führungsrolle. Die Quelle berichtete, Nvidia halte die Krone noch, Alphabet verkleinere jedoch den Abstand. Da die Verbreitung von KI zu einem wichtigen Faktor für Unternehmensbewertungen wird, dürfte der Kampf um künftige Dominanz intensiver werden. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Course à l’IA: Alphabet talonne Nvidia pour la première place mondiale",
+        "excerpt": "Alphabet se rapproche de Nvidia, numéro un mondial par capitalisation, alors que l’essor de l’IA soutient les actions et met en avant la rivalité puces-hyperscalers.",
+        "body": "Nvidia, actuellement première entreprise mondiale par capitalisation boursière, est talonnée par Alphabet, maison mère de Google et deuxième du classement. Alors que les progrès de l’intelligence artificielle (IA) soutiennent la hausse des actions des deux groupes, le marché observe la rivalité entre fabricants de semi-conducteurs et hyperscalers pour le leadership de l’IA. La source indique que Nvidia conserve pour l’instant sa couronne, mais qu’Alphabet réduit l’écart. À mesure que la diffusion de l’IA devient un facteur clé de valorisation, la bataille pour la domination future devrait rester vive. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "سباق قيادة الذكاء الاصطناعي يضع إنفيديا تحت ضغط ألفابت",
+        "excerpt": "تقترب ألفابت من إنفيديا، صاحبة أكبر قيمة سوقية عالميا، مع دفع تطور الذكاء الاصطناعي للأسهم وإبراز المنافسة بين أشباه الموصلات والهايبر سكيلرز.",
+        "body": "تتعرض إنفيديا، الشركة الأولى عالميا من حيث القيمة السوقية، لملاحقة قريبة من ألفابت، الشركة الأم لغوغل وصاحبة المركز الثاني. ومع دفع تطور الذكاء الاصطناعي لارتفاع أسهم الشركتين، يتركز اهتمام السوق على منافسة قيادة الذكاء الاصطناعي بين شركات أشباه الموصلات والهايبر سكيلرز. وذكر المصدر أن إنفيديا لا تزال تحتفظ بالعرش حاليا، لكن ألفابت تضيق الفجوة. ومع تحول انتشار تقنيات الذكاء الاصطناعي إلى عامل رئيسي في تقييم قيمة الشركات، من المتوقع أن تزداد المنافسة على الصدارة مستقبلا. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "AI नेतृत्व की दौड़ में Nvidia की शीर्ष बाजार वैल्यू को Alphabet की चुनौती",
+        "excerpt": "दुनिया की सबसे बड़ी बाजार पूंजीकरण वाली Nvidia के करीब Alphabet पहुंच रही है, जबकि AI विकास से शेयरों में तेजी और चिप कंपनियों बनाम हाइपरस्केलर्स की होड़ उभर रही है।",
+        "body": "बाजार पूंजीकरण के आधार पर दुनिया की नंबर एक कंपनी Nvidia को Google की मूल कंपनी और दूसरे स्थान पर मौजूद Alphabet तेजी से चुनौती दे रही है। कृत्रिम बुद्धिमत्ता (AI) में प्रगति दोनों कंपनियों के शेयरों की बढ़त को सहारा दे रही है, और इसी बीच AI नेतृत्व को लेकर सेमीकंडक्टर कंपनियों तथा हाइपरस्केलर्स के बीच प्रतिस्पर्धा बाजार का प्रमुख विषय बन गई है। स्रोत के अनुसार Nvidia फिलहाल अपना ताज बनाए हुए है, लेकिन Alphabet अंतर कम कर रही है। AI तकनीक के विस्तार के साथ कंपनी मूल्यांकन का यह अहम कारक बन रहा है, इसलिए आगे नेतृत्व की होड़ और तीखी रह सकती है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Perebutan Kepemimpinan AI: Alphabet Dekati Takhta Kapitalisasi Nvidia",
+        "excerpt": "Alphabet mengejar Nvidia, perusahaan dengan kapitalisasi pasar terbesar dunia, saat perkembangan AI mendorong saham dan menyorot persaingan chip dengan hyperscaler.",
+        "body": "Nvidia, perusahaan nomor satu dunia berdasarkan kapitalisasi pasar, kini dibayangi ketat oleh Alphabet, induk Google yang berada di posisi kedua. Ketika perkembangan kecerdasan buatan (AI) mendorong kenaikan harga saham kedua perusahaan, perhatian pasar tertuju pada persaingan kepemimpinan AI antara perusahaan semikonduktor dan hyperscaler. Sumber menyebut Nvidia masih mempertahankan takhta saat ini, tetapi Alphabet memperkecil jarak. Dengan meluasnya teknologi AI sebagai faktor utama dalam valuasi perusahaan, perebutan posisi terdepan ke depan diperkirakan tetap sengit. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
     "id": "54cd0e29cc84",
     "slug": "공정금융위-정책자금으로-고리대출-명륜진사갈비-동시-압박종합-116862",
     "channelId": "ETF",
@@ -4271,231 +4496,6 @@
         "title": "Toss Bank Bisa Terima Pengembalian Pajak Usai Jadi Agen Kas Negara",
         "excerpt": "Toss Bank pada 8 Mei menyatakan memperoleh status agen penerimaan kas negara lewat koneksi langsung dengan Bank of Korea dan akan memperluas layanan pengembalian.",
         "body": "Toss Bank memperluas kanal penerimaan pengembalian pajak nasional. Bank tersebut menyatakan pada 8 Mei bahwa mereka memperoleh status agen penerimaan kas negara melalui koneksi langsung dengan Bank of Korea dan akan memperluas layanan pembayaran pengembalian kas negara. Langkah ini memperluas dasar Toss Bank untuk menyediakan layanan pengembalian dana kas negara. Status tersebut diperoleh melalui hubungan langsung dengan Bank of Korea. Dengan demikian, pengguna dapat memakai Toss Bank untuk layanan terkait pembayaran pengembalian kas negara, termasuk pengembalian pajak nasional. Toss Bank berencana memperluas layanan terkait setelah memperoleh status ini. Sumber: yna.co.kr"
-      }
-    }
-  },
-  {
-    "id": "edfcdd5829c9",
-    "slug": "대신증권-코스피-목표치-750088002개월만에-또-상향-413546",
-    "channelId": "ETF",
-    "category": "etf",
-    "publishedAt": "2026-05-09T19:35:04.279Z",
-    "updatedAt": "2026-05-09T19:35:04.279Z",
-    "sourceName": "yna.co.kr",
-    "sourceUrl": "https://www.yna.co.kr/view/AKR20260508067700008",
-    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260508067700008",
-    "titleFingerprint": "120fa09c0094b81b091816e23c1e384d1ccb80b6",
-    "dedupKeys": [
-      "edfcdd5829c9b22b637de75a9a6a7319095c6ff9",
-      "120fa09c0094b81b091816e23c1e384d1ccb80b6",
-      "d42d170eeb82ddc28ecd376fde7b50ee767b7ed7"
-    ],
-    "imageUrl": "/images/articles/edfcdd5829c9.jpg",
-    "i18n": {
-      "ko": {
-        "title": "대신증권 코스피 목표치 8,800으로 상향, 2개월 만에 또 조정",
-        "excerpt": "대신증권은 8일 올해 코스피 목표치를 기존 7,500에서 8,800으로 올렸다. 2개월 만의 추가 상향으로 국내 증시 전망 변화에 관심이 쏠린다.",
-        "body": "대신증권은 8일 올해 코스피 목표치를 기존 7,500에서 8,800으로 상향 조정했다. 이번 조정은 2개월 만에 다시 이뤄진 것으로, 국내 증시 흐름과 코스피 전망에 대한 시장의 관심을 키우는 내용이다. 원문에 따르면 대신증권[003540]은 올해 목표치를 7,500에서 8,800으로 높였다. 구체적인 수치 변화는 1,300포인트 상향이며, 단기간 내 재조정이라는 점에서 증권가 전망 변화의 사례로 주목된다. 이번 발표는 투자자들이 코스피의 향후 방향성을 가늠할 때 참고할 만한 지표로 해석될 수 있다. 출처: yna.co.kr"
-      },
-      "en": {
-        "title": "Daishin Securities Raises KOSPI Target to 8,800 After Two Months",
-        "excerpt": "Daishin Securities on the 8th raised its 2026 KOSPI target from 7,500 to 8,800, marking another upward revision in just two months.",
-        "body": "Daishin Securities said on the 8th that it raised its target for this year’s KOSPI from 7,500 to 8,800. The revision came just two months after its previous adjustment, drawing attention to changes in the domestic stock market outlook. According to the original report, Daishin Securities [003540] lifted the target by 1,300 points. The short interval between revisions makes the move notable among securities-market forecasts. The announcement may serve as a reference point for investors assessing the future direction of the KOSPI. Source: yna.co.kr"
-      },
-      "ja": {
-        "title": "大信証券、KOSPI目標を8,800に上方修正 2カ月で再び",
-        "excerpt": "大信証券は8日、今年のKOSPI目標値を従来の7,500から8,800へ引き上げた。2カ月ぶりの再上方修正として注目される。",
-        "body": "大信証券は8日、今年のKOSPI目標値を従来の7,500から8,800へ上方修正した。今回の調整は2カ月ぶりに再び行われたもので、韓国株式市場の流れとKOSPI見通しへの関心を高める内容だ。原文によると、大信証券[003540]は今年の目標値を7,500から8,800に引き上げた。数値では1,300ポイントの上方修正となる。短期間での再調整である点から、証券業界の見通し変化を示す事例として注目される。出所: yna.co.kr"
-      },
-      "zh": {
-        "title": "大信证券将KOSPI目标上调至8,800，两个月后再度调整",
-        "excerpt": "大信证券8日将今年KOSPI目标从7,500上调至8,800。这是时隔两个月的再次上调，引发市场对韩国股市前景的关注。",
-        "body": "大信证券8日表示，将今年KOSPI目标从原先的7,500上调至8,800。此次调整是在两个月后再次作出的上调，令市场更加关注韩国股市走势和KOSPI前景。根据原文，大信证券[003540]把今年目标值由7,500提高到8,800。具体来看，目标上调了1,300点。由于这是短期内的再次修正，该举动被视为证券行业观点变化的一个案例。该消息可作为投资者判断KOSPI未来方向时的参考。来源: yna.co.kr"
-      },
-      "es": {
-        "title": "Daishin Securities eleva objetivo del KOSPI a 8.800 en dos meses",
-        "excerpt": "Daishin Securities elevó el día 8 su objetivo anual para el KOSPI de 7.500 a 8.800, una nueva revisión al alza realizada apenas dos meses después.",
-        "body": "Daishin Securities informó el día 8 que elevó su objetivo para el KOSPI de este año de 7.500 a 8.800. La revisión se produjo apenas dos meses después de otro ajuste, lo que aumenta la atención sobre la evolución del mercado bursátil surcoreano y sus perspectivas. Según el reporte original, Daishin Securities [003540] subió la meta en 1.300 puntos. El corto intervalo entre revisiones hace que el movimiento destaque dentro de las previsiones del sector de valores. El anuncio puede servir como referencia para los inversores que evalúan la dirección futura del KOSPI. Fuente: yna.co.kr"
-      },
-      "pt": {
-        "title": "Daishin Securities eleva meta do KOSPI para 8.800 após dois meses",
-        "excerpt": "A Daishin Securities elevou no dia 8 a meta anual do KOSPI de 7.500 para 8.800, uma nova revisão para cima feita em apenas dois meses.",
-        "body": "A Daishin Securities informou no dia 8 que elevou a meta do KOSPI deste ano de 7.500 para 8.800. A revisão ocorreu apenas dois meses após outro ajuste, ampliando a atenção sobre o movimento do mercado acionário sul-coreano e as perspectivas para o índice. Segundo a reportagem original, a Daishin Securities [003540] aumentou a meta em 1.300 pontos. O curto intervalo entre revisões torna o movimento relevante entre as previsões do setor financeiro. O anúncio pode servir de referência para investidores que avaliam a direção futura do KOSPI. Fonte: yna.co.kr"
-      },
-      "de": {
-        "title": "Daishin Securities hebt KOSPI-Ziel nach zwei Monaten auf 8.800 an",
-        "excerpt": "Daishin Securities hob am 8. das Jahresziel für den KOSPI von 7.500 auf 8.800 an. Es ist eine weitere Aufwärtsrevision nach nur zwei Monaten.",
-        "body": "Daishin Securities teilte am 8. mit, das Ziel für den diesjährigen KOSPI von 7.500 auf 8.800 angehoben zu haben. Die Anpassung erfolgte nur zwei Monate nach der vorherigen Revision und lenkt den Blick auf die Entwicklung des südkoreanischen Aktienmarkts sowie den KOSPI-Ausblick. Dem Originalbericht zufolge erhöhte Daishin Securities [003540] das Ziel um 1.300 Punkte. Der kurze Abstand zwischen den Revisionen macht den Schritt zu einem beachteten Beispiel veränderter Einschätzungen im Wertpapiersektor. Die Mitteilung kann Investoren als Orientierung für die künftige Richtung des KOSPI dienen. Quelle: yna.co.kr"
-      },
-      "fr": {
-        "title": "Daishin Securities relève son objectif KOSPI à 8 800 en deux mois",
-        "excerpt": "Daishin Securities a relevé le 8 son objectif annuel pour le KOSPI de 7 500 à 8 800, une nouvelle révision à la hausse après seulement deux mois.",
-        "body": "Daishin Securities a annoncé le 8 avoir relevé son objectif pour le KOSPI cette année de 7 500 à 8 800. Cette révision intervient seulement deux mois après un précédent ajustement, attirant l’attention sur l’évolution du marché boursier sud-coréen et ses perspectives. Selon le reportage original, Daishin Securities [003540] a augmenté son objectif de 1 300 points. Le court intervalle entre les révisions rend ce mouvement notable parmi les prévisions du secteur des valeurs mobilières. L’annonce peut servir de repère aux investisseurs qui évaluent l’orientation future du KOSPI. Source : yna.co.kr"
-      },
-      "ar": {
-        "title": "دايشين للأوراق المالية ترفع هدف كوسبي إلى 8,800 بعد شهرين",
-        "excerpt": "رفعت دايشين للأوراق المالية في الثامن هدفها لمؤشر كوسبي هذا العام من 7,500 إلى 8,800، في تعديل صعودي جديد خلال شهرين فقط.",
-        "body": "أعلنت دايشين للأوراق المالية في الثامن أنها رفعت هدف مؤشر كوسبي لهذا العام من 7,500 إلى 8,800. وجاء هذا التعديل بعد شهرين فقط من تعديل سابق، ما زاد الاهتمام باتجاه سوق الأسهم الكورية الجنوبية وتوقعات المؤشر. ووفق التقرير الأصلي، رفعت دايشين للأوراق المالية [003540] الهدف بمقدار 1,300 نقطة. ويجعل الفاصل الزمني القصير بين التعديلات هذه الخطوة موضع متابعة ضمن توقعات قطاع الأوراق المالية. وقد يشكل الإعلان مرجعا للمستثمرين عند تقييم الاتجاه المستقبلي لمؤشر كوسبي. المصدر: yna.co.kr"
-      },
-      "hi": {
-        "title": "Daishin Securities ने KOSPI लक्ष्य 8,800 किया, दो महीने में फिर बढ़ोतरी",
-        "excerpt": "Daishin Securities ने 8 तारीख को इस वर्ष के KOSPI लक्ष्य को 7,500 से बढ़ाकर 8,800 कर दिया। यह केवल दो महीने में फिर की गई ऊपरी समीक्षा है।",
-        "body": "Daishin Securities ने 8 तारीख को बताया कि उसने इस वर्ष के KOSPI लक्ष्य को 7,500 से बढ़ाकर 8,800 कर दिया है। यह बदलाव पिछले समायोजन के केवल दो महीने बाद फिर किया गया, जिससे दक्षिण कोरियाई शेयर बाजार की दिशा और KOSPI परिदृश्य पर ध्यान बढ़ा है। मूल रिपोर्ट के अनुसार, Daishin Securities [003540] ने लक्ष्य में 1,300 अंकों की बढ़ोतरी की। कम अंतराल में दोबारा समीक्षा होने से यह प्रतिभूति उद्योग के पूर्वानुमानों में बदलाव का उल्लेखनीय उदाहरण है। यह घोषणा KOSPI की आगे की दिशा का आकलन करने वाले निवेशकों के लिए संदर्भ बन सकती है। स्रोत: yna.co.kr"
-      },
-      "id": {
-        "title": "Daishin Securities Naikkan Target KOSPI ke 8.800 Setelah Dua Bulan",
-        "excerpt": "Daishin Securities pada tanggal 8 menaikkan target KOSPI tahun ini dari 7.500 menjadi 8.800, revisi naik lagi hanya dalam dua bulan.",
-        "body": "Daishin Securities pada tanggal 8 menyatakan telah menaikkan target KOSPI tahun ini dari 7.500 menjadi 8.800. Revisi ini dilakukan kembali hanya dua bulan setelah penyesuaian sebelumnya, sehingga menarik perhatian terhadap arah pasar saham Korea Selatan dan prospek KOSPI. Menurut laporan asli, Daishin Securities [003540] menaikkan target sebesar 1.300 poin. Jarak waktu yang singkat antara revisi membuat langkah ini menjadi contoh perubahan perkiraan di kalangan sekuritas. Pengumuman tersebut dapat menjadi referensi bagi investor dalam menilai arah KOSPI ke depan. Sumber: yna.co.kr"
-      }
-    }
-  },
-  {
-    "id": "db8596c7f48a",
-    "slug": "키움운용-성장-탄력성-美기업-투자-ai테크하이베타-etf-상장-848688",
-    "channelId": "ETF",
-    "category": "etf",
-    "publishedAt": "2026-05-09T19:34:08.502Z",
-    "updatedAt": "2026-05-09T19:34:08.502Z",
-    "sourceName": "yna.co.kr",
-    "sourceUrl": "https://www.yna.co.kr/view/AKR20260508067500008",
-    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260508067500008",
-    "titleFingerprint": "8db443b46ab1d16b912eec44e3970d11af9d85a7",
-    "dedupKeys": [
-      "db8596c7f48ac02f8527409c25ff30e4729c0a65",
-      "8db443b46ab1d16b912eec44e3970d11af9d85a7",
-      "bbb8fc30ca10fd061aa1e8fa003ace19f367a61d"
-    ],
-    "imageUrl": "/images/articles/db8596c7f48a.jpg",
-    "i18n": {
-      "ko": {
-        "title": "키움운용, 미국 AI 기술 고성장주 투자 ETF 신규 상장",
-        "excerpt": "키움투자자산운용이 미국 혁신 기술 기업 중 성장 탄력성이 높은 종목에 투자하는 ‘KIWOOM 미국AI테크하이베타 ETF’를 상장했다.",
-        "body": "키움투자자산운용은 미국 혁신 기술 기업 가운데 성장 탄력성이 높은 종목에 투자하는 ‘KIWOOM 미국AI테크하이베타 ETF’를 상장했다. 이 상품은 AI와 기술 혁신 흐름 속에서 성장 민감도가 큰 미국 기업을 투자 대상으로 삼는 ETF다. 원문에 따르면 키움운용은 미국 AI·테크 기업군 중 성장 탄력성이 높은 종목에 투자하는 구조를 내세웠다. 투자자는 해당 ETF를 통해 미국 혁신 기술 기업에 분산 투자할 수 있다. 출처: yna.co.kr"
-      },
-      "en": {
-        "title": "Kiwoom Lists ETF Targeting High-Beta U.S. AI Tech Growth Stocks",
-        "excerpt": "Kiwoom Asset Management has listed the KIWOOM U.S. AI Tech High Beta ETF, investing in U.S. innovative technology firms with high growth elasticity.",
-        "body": "Kiwoom Asset Management has listed the KIWOOM U.S. AI Tech High Beta ETF, a fund that invests in U.S. innovative technology companies with high growth elasticity. The product targets American companies whose growth sensitivity is high within the AI and technology innovation trend. According to the original report, Kiwoom highlights a structure focused on high-beta names among U.S. AI and tech firms. Investors can use the ETF to gain diversified exposure to U.S. innovative technology companies. Source: yna.co.kr"
-      },
-      "ja": {
-        "title": "キウム運用、米AI技術の高成長株に投資するETFを上場",
-        "excerpt": "キウム投資資産運用は、米国の革新技術企業のうち成長弾力性が高い銘柄に投資するETFを上場した。",
-        "body": "キウム投資資産運用は、米国の革新技術企業の中で成長弾力性が高い銘柄に投資する「KIWOOM米国AIテックハイベータETF」を上場した。この商品は、AIと技術革新の流れの中で成長感応度が大きい米国企業を投資対象とするETFだ。原文によると、キウム運用は米国AI・テック企業群のうち成長弾力性の高い銘柄に投資する構造を打ち出した。投資家は同ETFを通じて米国の革新技術企業に分散投資できる。出典: yna.co.kr"
-      },
-      "zh": {
-        "title": "Kiwoom上架投资美国AI科技高成长弹性企业ETF",
-        "excerpt": "Kiwoom投资资产管理上市一只ETF，投资美国创新科技企业中成长弹性较高的标的，即KIWOOM美国AI科技高贝塔ETF。",
-        "body": "Kiwoom投资资产管理上市了“KIWOOM美国AI科技高贝塔ETF”，该产品投资于美国创新科技企业中成长弹性较高的股票。这只ETF以AI与技术创新趋势下成长敏感度较高的美国企业为投资对象。根据原文，Kiwoom强调该产品聚焦美国AI和科技企业群中成长弹性较高的标的。投资者可通过该ETF分散投资美国创新技术企业。来源: yna.co.kr"
-      },
-      "es": {
-        "title": "Kiwoom lista ETF de IA y tecnología de EE. UU. con alto beta",
-        "excerpt": "Kiwoom Asset Management listó el ETF KIWOOM U.S. AI Tech High Beta, que invierte en empresas tecnológicas innovadoras de EE. UU. con alta elasticidad de crecimiento.",
-        "body": "Kiwoom Asset Management listó el ETF KIWOOM U.S. AI Tech High Beta, un fondo que invierte en empresas estadounidenses de tecnología innovadora con alta elasticidad de crecimiento. El producto apunta a compañías de EE. UU. con elevada sensibilidad al crecimiento dentro de la tendencia de IA e innovación tecnológica. Según el reporte original, Kiwoom destaca una estructura enfocada en valores de alto beta entre empresas estadounidenses de IA y tecnología. Los inversionistas pueden obtener exposición diversificada a esas compañías mediante el ETF. Fuente: yna.co.kr"
-      },
-      "pt": {
-        "title": "Kiwoom lista ETF de IA e tecnologia dos EUA com alto beta",
-        "excerpt": "A Kiwoom Asset Management listou o ETF KIWOOM U.S. AI Tech High Beta, voltado a empresas inovadoras de tecnologia dos EUA com alta elasticidade de crescimento.",
-        "body": "A Kiwoom Asset Management listou o ETF KIWOOM U.S. AI Tech High Beta, que investe em empresas norte-americanas de tecnologia inovadora com alta elasticidade de crescimento. O produto mira companhias dos EUA com maior sensibilidade ao crescimento dentro da tendência de IA e inovação tecnológica. Segundo a reportagem original, a Kiwoom destaca uma estrutura focada em nomes de alto beta entre empresas de IA e tecnologia dos EUA. Investidores podem acessar exposição diversificada a essas companhias por meio do ETF. Fonte: yna.co.kr"
-      },
-      "de": {
-        "title": "Kiwoom listet ETF auf wachstumsstarke US-AI-Tech-Aktien",
-        "excerpt": "Kiwoom Asset Management hat den KIWOOM U.S. AI Tech High Beta ETF gelistet, der in innovative US-Technologieunternehmen mit hoher Wachstumselastizität investiert.",
-        "body": "Kiwoom Asset Management hat den KIWOOM U.S. AI Tech High Beta ETF gelistet. Der Fonds investiert in innovative US-Technologieunternehmen mit hoher Wachstumselastizität. Das Produkt richtet sich an amerikanische Unternehmen, deren Wachstumssensitivität im Umfeld von KI und technologischer Innovation hoch ist. Laut dem Originalbericht stellt Kiwoom eine Struktur in den Vordergrund, die auf wachstumselastische Titel aus dem US-AI- und Technologiesektor setzt. Anleger können über den ETF diversifiziert in innovative US-Technologieunternehmen investieren. Quelle: yna.co.kr"
-      },
-      "fr": {
-        "title": "Kiwoom cote un ETF IA-tech américain axé sur le haut bêta",
-        "excerpt": "Kiwoom Asset Management a coté le KIWOOM U.S. AI Tech High Beta ETF, investi dans des entreprises technologiques innovantes américaines à forte élasticité de croissance.",
-        "body": "Kiwoom Asset Management a coté le KIWOOM U.S. AI Tech High Beta ETF, un fonds qui investit dans des entreprises technologiques innovantes américaines à forte élasticité de croissance. Le produit cible des sociétés américaines dont la sensibilité à la croissance est élevée dans la dynamique de l’IA et de l’innovation technologique. Selon le reportage original, Kiwoom met en avant une structure concentrée sur les valeurs à haut bêta parmi les entreprises américaines d’IA et de technologie. Les investisseurs peuvent ainsi obtenir une exposition diversifiée à ces sociétés. Source: yna.co.kr"
-      },
-      "ar": {
-        "title": "كيوم تدرج صندوق ETF يستثمر في أسهم الذكاء الاصطناعي الأميركية عالية النمو",
-        "excerpt": "أدرجت كيوم لإدارة الأصول صندوق KIWOOM U.S. AI Tech High Beta ETF للاستثمار في شركات التكنولوجيا الأميركية المبتكرة ذات مرونة النمو المرتفعة.",
-        "body": "أدرجت كيوم لإدارة الأصول صندوق KIWOOM U.S. AI Tech High Beta ETF، وهو صندوق يستثمر في شركات التكنولوجيا الأميركية المبتكرة التي تتمتع بمرونة نمو مرتفعة. يستهدف المنتج شركات أميركية ذات حساسية عالية للنمو ضمن اتجاه الذكاء الاصطناعي والابتكار التقني. ووفق التقرير الأصلي، تبرز كيوم هيكلا يركز على الأسماء عالية البيتا بين شركات الذكاء الاصطناعي والتكنولوجيا في الولايات المتحدة. يتيح الصندوق للمستثمرين تعرضا متنوعا لشركات التكنولوجيا الأميركية المبتكرة. المصدر: yna.co.kr"
-      },
-      "hi": {
-        "title": "Kiwoom ने उच्च-वृद्धि अमेरिकी AI टेक शेयरों वाला ETF सूचीबद्ध किया",
-        "excerpt": "Kiwoom Asset Management ने KIWOOM U.S. AI Tech High Beta ETF सूचीबद्ध किया, जो उच्च वृद्धि लोच वाली अमेरिकी नवोन्मेषी टेक कंपनियों में निवेश करता है।",
-        "body": "Kiwoom Asset Management ने KIWOOM U.S. AI Tech High Beta ETF सूचीबद्ध किया है। यह फंड अमेरिकी नवोन्मेषी टेक्नोलॉजी कंपनियों में निवेश करता है जिनकी वृद्धि लोच अधिक है। यह उत्पाद AI और तकनीकी नवाचार की दिशा में उन अमेरिकी कंपनियों को लक्ष्य बनाता है जिनकी वृद्धि संवेदनशीलता अधिक है। मूल रिपोर्ट के अनुसार, Kiwoom ने अमेरिकी AI और टेक कंपनियों में उच्च बीटा वाले नामों पर केंद्रित संरचना को सामने रखा है। निवेशक इस ETF के जरिए अमेरिकी नवोन्मेषी टेक कंपनियों में विविधीकृत निवेश पा सकते हैं। स्रोत: yna.co.kr"
-      },
-      "id": {
-        "title": "Kiwoom Catatkan ETF Saham AI Teknologi AS Berbeta Tinggi",
-        "excerpt": "Kiwoom Asset Management mencatatkan KIWOOM U.S. AI Tech High Beta ETF, yang berinvestasi pada perusahaan teknologi inovatif AS dengan elastisitas pertumbuhan tinggi.",
-        "body": "Kiwoom Asset Management mencatatkan KIWOOM U.S. AI Tech High Beta ETF, yaitu ETF yang berinvestasi pada perusahaan teknologi inovatif Amerika Serikat dengan elastisitas pertumbuhan tinggi. Produk ini menargetkan perusahaan AS yang memiliki sensitivitas pertumbuhan besar dalam tren AI dan inovasi teknologi. Menurut laporan asli, Kiwoom menonjolkan struktur yang berfokus pada saham berbeta tinggi di kelompok perusahaan AI dan teknologi AS. Investor dapat memperoleh eksposur terdiversifikasi ke perusahaan teknologi inovatif AS melalui ETF ini. Sumber: yna.co.kr"
-      }
-    }
-  },
-  {
-    "id": "1b797109cd03",
-    "slug": "북경한미-지난해-매출-4천억원-넘어사상-최대-545595",
-    "channelId": "ETF",
-    "category": "etf",
-    "publishedAt": "2026-05-09T19:33:23.864Z",
-    "updatedAt": "2026-05-09T19:33:23.864Z",
-    "sourceName": "yna.co.kr",
-    "sourceUrl": "https://www.yna.co.kr/view/AKR20260508069600017",
-    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260508069600017",
-    "titleFingerprint": "fb14ca900da34c598bb5f4aaee6750594bbccefb",
-    "dedupKeys": [
-      "1b797109cd038e0a44b6c31e6b942c4e150603bf",
-      "fb14ca900da34c598bb5f4aaee6750594bbccefb",
-      "31763f471911e711c1bca58313335fa392b295a3"
-    ],
-    "imageUrl": "/images/articles/1b797109cd03.jpg",
-    "i18n": {
-      "ko": {
-        "title": "북경한미 지난해 매출 4천24억원 돌파, 사상 최대 실적 주목",
-        "excerpt": "한미약품 중국 현지법인 북경한미약품유한공사는 지난해 매출 4천24억원, 영업이익 777억원을 기록하며 사상 최대 실적을 냈다고 연합뉴스가 보도했다.",
-        "body": "한미약품[128940]의 중국 현지법인 북경한미약품유한공사는 지난해 매출이 4천24억원을 기록하며 사상 최대 수준을 달성했다. 영업이익은 777억원으로 집계됐다. 북경한미는 중국 현지에서 운영되는 한미약품의 법인으로, 이번 실적은 매출 규모가 4천억원을 넘어섰다는 점에서 주목된다. 공개된 수치 기준으로 매출과 영업이익 모두 회사의 지난해 경영 성과를 보여주는 핵심 지표다. 향후 시장의 관심은 중국 현지 법인의 실적 흐름이 한미약품 전체 사업 성과와 어떤 관련성을 가질지에 모일 것으로 보인다. 출처: yna.co.kr"
-      },
-      "en": {
-        "title": "Beijing Hanmi’s 2024 Revenue Tops KRW 402.4 Billion in Record Result",
-        "excerpt": "Beijing Hanmi Pharmaceutical, Hanmi Pharmaceutical’s China unit, posted revenue of KRW 402.4 billion and operating profit of KRW 77.7 billion last year, Yonhap reported.",
-        "body": "Beijing Hanmi Pharmaceutical Co., Hanmi Pharmaceutical’s China-based subsidiary, recorded KRW 402.4 billion in revenue last year, marking an all-time high. Operating profit came to KRW 77.7 billion. The company operates locally in China as part of Hanmi Pharmaceutical, and the result drew attention because annual revenue exceeded the KRW 400 billion mark. Based on the disclosed figures, revenue and operating profit are the key indicators of the subsidiary’s performance for the year. Market attention is expected to focus on how the China unit’s earnings trend relates to Hanmi Pharmaceutical’s broader business results. Source: yna.co.kr"
-      },
-      "ja": {
-        "title": "北京韓美、昨年売上高4024億ウォン突破で過去最高を記録",
-        "excerpt": "韓美薬品の中国現地法人である北京韓美薬品有限公司は、昨年売上高4024億ウォン、営業利益777億ウォンを記録したと聯合ニュースが報じた。",
-        "body": "韓美薬品[128940]の中国現地法人、北京韓美薬品有限公司は、昨年の売上高が4024億ウォンとなり、過去最高水準を達成した。営業利益は777億ウォンと集計された。北京韓美は中国現地で運営される韓美薬品の法人で、今回の実績は売上規模が4000億ウォンを超えた点で注目される。公表された数値を基準にすると、売上高と営業利益はいずれも同社の昨年の経営成果を示す主要指標だ。今後は中国現地法人の業績推移が韓美薬品全体の事業成果とどのように関係するかに関心が集まるとみられる。出典: yna.co.kr"
-      },
-      "zh": {
-        "title": "北京韩美去年销售额突破4024亿韩元，创历史最高业绩",
-        "excerpt": "韩美药品中国当地法人北京韩美药品有限公司去年实现销售额4024亿韩元、营业利润777亿韩元，韩联社报道称其创下历史最高业绩。",
-        "body": "韩美药品[128940]的中国当地法人北京韩美药品有限公司去年销售额达到4024亿韩元，创下历史最高水平。营业利润统计为777亿韩元。北京韩美是在中国当地运营的韩美药品法人，此次业绩因销售规模突破4000亿韩元而受到关注。以已公开数据来看，销售额和营业利润都是显示该公司去年经营成果的核心指标。今后，市场关注点或将集中在中国当地法人的业绩走势与韩美药品整体业务成果之间的关联。来源: yna.co.kr"
-      },
-      "es": {
-        "title": "Beijing Hanmi supera los 402.400 millones de wones en ventas récord",
-        "excerpt": "Beijing Hanmi Pharmaceutical, filial china de Hanmi Pharmaceutical, registró el año pasado ventas por 402.400 millones de wones y beneficio operativo de 77.700 millones, según Yonhap.",
-        "body": "Beijing Hanmi Pharmaceutical Co., la filial local en China de Hanmi Pharmaceutical [128940], registró el año pasado ventas de 402.400 millones de wones, su mayor nivel histórico. El beneficio operativo fue de 77.700 millones de wones. Beijing Hanmi opera en China como entidad de Hanmi Pharmaceutical, y el resultado destaca porque sus ventas anuales superaron los 400.000 millones de wones. Según las cifras divulgadas, las ventas y el beneficio operativo son los principales indicadores del desempeño de la compañía durante el año. La atención del mercado se centrará en cómo la evolución de la filial china se relaciona con los resultados generales de Hanmi Pharmaceutical. Fuente: yna.co.kr"
-      },
-      "pt": {
-        "title": "Beijing Hanmi supera KRW 402,4 bilhões em receita anual recorde",
-        "excerpt": "A Beijing Hanmi Pharmaceutical, unidade chinesa da Hanmi Pharmaceutical, registrou receita de KRW 402,4 bilhões e lucro operacional de KRW 77,7 bilhões no ano passado, informou a Yonhap.",
-        "body": "A Beijing Hanmi Pharmaceutical Co., subsidiária local da Hanmi Pharmaceutical [128940] na China, registrou receita de KRW 402,4 bilhões no ano passado, atingindo o maior nível de sua história. O lucro operacional foi de KRW 77,7 bilhões. A Beijing Hanmi opera na China como uma entidade da Hanmi Pharmaceutical, e o resultado chama atenção porque a receita anual ultrapassou KRW 400 bilhões. Com base nos números divulgados, receita e lucro operacional são os principais indicadores do desempenho anual da empresa. O mercado deve acompanhar como a trajetória da unidade chinesa se relaciona com os resultados gerais da Hanmi Pharmaceutical. Fonte: yna.co.kr"
-      },
-      "de": {
-        "title": "Beijing Hanmi erzielt mit 402,4 Mrd. Won Rekordumsatz im Vorjahr",
-        "excerpt": "Beijing Hanmi Pharmaceutical, die China-Tochter von Hanmi Pharmaceutical, erzielte im Vorjahr 402,4 Mrd. Won Umsatz und 77,7 Mrd. Won operativen Gewinn, berichtete Yonhap.",
-        "body": "Beijing Hanmi Pharmaceutical Co., die in China ansässige Tochtergesellschaft von Hanmi Pharmaceutical [128940], erzielte im vergangenen Jahr einen Umsatz von 402,4 Mrd. Won und erreichte damit einen historischen Höchststand. Der operative Gewinn lag bei 77,7 Mrd. Won. Beijing Hanmi ist die lokale China-Einheit von Hanmi Pharmaceutical, und das Ergebnis fällt auf, weil der Jahresumsatz die Marke von 400 Mrd. Won überschritt. Auf Basis der veröffentlichten Zahlen zeigen Umsatz und operativer Gewinn die zentralen Leistungskennzahlen des Unternehmens für das Jahr. Das Marktinteresse dürfte sich darauf richten, wie die Entwicklung der China-Tochter mit der Gesamtleistung von Hanmi Pharmaceutical zusammenhängt. Quelle: yna.co.kr"
-      },
-      "fr": {
-        "title": "Beijing Hanmi dépasse 402,4 milliards de wons de revenus, un record",
-        "excerpt": "Beijing Hanmi Pharmaceutical, filiale chinoise de Hanmi Pharmaceutical, a réalisé l’an dernier 402,4 milliards de wons de revenus et 77,7 milliards de bénéfice opérationnel, selon Yonhap.",
-        "body": "Beijing Hanmi Pharmaceutical Co., filiale locale en Chine de Hanmi Pharmaceutical [128940], a enregistré l’an dernier un chiffre d’affaires de 402,4 milliards de wons, atteignant un niveau record. Le bénéfice opérationnel s’est établi à 77,7 milliards de wons. Beijing Hanmi opère en Chine en tant qu’entité de Hanmi Pharmaceutical, et cette performance retient l’attention car les revenus annuels ont dépassé 400 milliards de wons. Selon les chiffres publiés, le chiffre d’affaires et le bénéfice opérationnel sont les principaux indicateurs de la performance annuelle de la société. L’attention du marché devrait porter sur le lien entre l’évolution de la filiale chinoise et les résultats globaux de Hanmi Pharmaceutical. Source: yna.co.kr"
-      },
-      "ar": {
-        "title": "بكين هانمي تتجاوز 402.4 مليار وون إيرادات سنوية وتحقق رقما قياسيا",
-        "excerpt": "سجلت بكين هانمي فارماسوتيكال، الوحدة الصينية لشركة هانمي فارماسوتيكال، إيرادات قدرها 402.4 مليار وون وربحا تشغيليا 77.7 مليار وون العام الماضي، وفق يونهاب.",
-        "body": "سجلت شركة بكين هانمي فارماسوتيكال، وهي الكيان المحلي في الصين التابع لشركة هانمي فارماسوتيكال [128940]، إيرادات بلغت 402.4 مليار وون في العام الماضي، محققة أعلى مستوى في تاريخها. وبلغ الربح التشغيلي 77.7 مليار وون. تعمل بكين هانمي في السوق الصينية كوحدة تابعة لهانمي فارماسوتيكال، وجاءت النتائج لافتة لأن حجم الإيرادات السنوية تجاوز 400 مليار وون. وبحسب الأرقام المعلنة، تعد الإيرادات والربح التشغيلي مؤشرين رئيسيين على أداء الشركة خلال العام. ومن المتوقع أن يتركز اهتمام السوق على علاقة مسار أداء الوحدة الصينية بنتائج أعمال هانمي فارماسوتيكال إجمالا. المصدر: yna.co.kr"
-      },
-      "hi": {
-        "title": "बीजिंग हानमी की बिक्री 402.4 अरब वॉन पार, रिकॉर्ड प्रदर्शन दर्ज",
-        "excerpt": "हानमी फार्मास्यूटिकल की चीन इकाई बीजिंग हानमी फार्मास्यूटिकल ने पिछले साल 402.4 अरब वॉन की बिक्री और 77.7 अरब वॉन का परिचालन लाभ दर्ज किया, योनहाप ने बताया।",
-        "body": "हानमी फार्मास्यूटिकल [128940] की चीन स्थित स्थानीय इकाई बीजिंग हानमी फार्मास्यूटिकल कंपनी ने पिछले साल 402.4 अरब वॉन की बिक्री दर्ज की, जो उसका अब तक का सबसे ऊंचा स्तर है। परिचालन लाभ 77.7 अरब वॉन रहा। बीजिंग हानमी चीन में हानमी फार्मास्यूटिकल की स्थानीय इकाई के रूप में काम करती है, और यह परिणाम इसलिए ध्यान खींचता है क्योंकि वार्षिक बिक्री 400 अरब वॉन से ऊपर गई। घोषित आंकड़ों के आधार पर बिक्री और परिचालन लाभ कंपनी के पिछले साल के प्रदर्शन के प्रमुख संकेतक हैं। आगे बाजार की नजर इस बात पर रहेगी कि चीन इकाई की कमाई की दिशा हानमी फार्मास्यूटिकल के समग्र कारोबारी नतीजों से कैसे जुड़ती है। स्रोत: yna.co.kr"
-      },
-      "id": {
-        "title": "Beijing Hanmi Catat Pendapatan KRW 402,4 Miliar, Rekor Tertinggi",
-        "excerpt": "Beijing Hanmi Pharmaceutical, anak usaha Hanmi Pharmaceutical di China, membukukan pendapatan KRW 402,4 miliar dan laba operasi KRW 77,7 miliar tahun lalu, menurut Yonhap.",
-        "body": "Beijing Hanmi Pharmaceutical Co., anak usaha lokal Hanmi Pharmaceutical [128940] di China, mencatat pendapatan KRW 402,4 miliar pada tahun lalu dan mencapai level tertinggi sepanjang sejarah. Laba operasinya tercatat KRW 77,7 miliar. Beijing Hanmi beroperasi di China sebagai entitas Hanmi Pharmaceutical, dan kinerja ini menarik perhatian karena pendapatan tahunannya melampaui KRW 400 miliar. Berdasarkan angka yang diumumkan, pendapatan dan laba operasi menjadi indikator utama kinerja perusahaan sepanjang tahun tersebut. Perhatian pasar selanjutnya akan tertuju pada bagaimana tren kinerja unit China ini terkait dengan hasil bisnis Hanmi Pharmaceutical secara keseluruhan. Sumber: yna.co.kr"
       }
     }
   }
