@@ -1,5 +1,230 @@
 [
   {
+    "id": "c20226d3dee8",
+    "slug": "연합뉴스-이-시각-헤드라인---1500-544639",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-05-10T07:04:32.667Z",
+    "updatedAt": "2026-05-10T07:04:32.667Z",
+    "sourceName": "yna.co.kr",
+    "sourceUrl": "https://www.yna.co.kr/view/AKR20260510029900011",
+    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260510029900011",
+    "titleFingerprint": "2272aab9a34b64a09df5b1eb8272e9bc6b2b9b62",
+    "dedupKeys": [
+      "c20226d3dee8f5ccfedbbffc398d98d40ce5ac6b",
+      "2272aab9a34b64a09df5b1eb8272e9bc6b2b9b62",
+      "0dea2631e85d041a4fdaaeec85d045882b308c61"
+    ],
+    "imageUrl": "/images/articles/c20226d3dee8.jpg",
+    "i18n": {
+      "ko": {
+        "title": "이색 후보 명단 주목, 배달기사·개그우먼·요양보호사 출마 사례",
+        "excerpt": "연합뉴스 15:00 헤드라인은 배달기사, 개그우먼, 요양보호사 등 다양한 직업군의 이색 후보들이 선거전에 나섰고 전과 15범 후보도 포함됐다고 전했다.",
+        "body": "연합뉴스가 15:00 기준으로 전한 이 시각 헤드라인에 따르면 선거전에는 배달기사, 개그우먼, 요양보호사 등 다양한 직업을 가진 이색 후보들이 이름을 올렸다. 보도 요약에는 일반적인 정치 경력과는 다른 배경의 후보들이 경쟁에 참여한 사례가 소개됐으며, 전과 15범 후보도 포함됐다는 내용이 함께 제시됐다. 이번 헤드라인은 후보자의 직업과 이력 다양성이 선거 국면에서 주목받고 있음을 보여준다. 유권자들은 후보 개인의 배경과 경력을 함께 살펴보게 될 전망이다. 출처: yna.co.kr"
+      },
+      "en": {
+        "title": "Unusual Election Candidates Draw Notice, From Delivery Rider to Care Worker",
+        "excerpt": "Yonhap’s 15:00 headline reported that candidates from varied jobs, including a delivery rider, comedian and care worker, entered the race, along with one with 15 prior convictions.",
+        "body": "According to Yonhap News Agency’s 15:00 headline update, the election field includes unusual candidates with a wide range of occupations, such as a delivery rider, comedian and care worker. The summary highlighted cases of contenders whose backgrounds differ from conventional political careers, and also noted that a candidate with 15 prior convictions was included. The headline shows that the diversity of candidates’ jobs and personal records is drawing attention in the election phase. Voters are expected to examine both each candidate’s background and record. Source: yna.co.kr"
+      },
+      "ja": {
+        "title": "異色候補に注目、配達員・女性芸人・介護職員らが出馬",
+        "excerpt": "聯合ニュースの15時ヘッドラインは、配達員、女性芸人、介護職員など多様な職業の異色候補が選挙戦に加わり、前科15犯の候補も含まれると伝えた。",
+        "body": "聯合ニュースが15時基準で伝えたヘッドラインによると、選挙戦には配達員、女性芸人、介護職員など、さまざまな職業を持つ異色候補が名を連ねた。報道要約では、一般的な政治経歴とは異なる背景を持つ候補者が競争に参加した事例が紹介され、前科15犯の候補も含まれているとの内容も示された。今回のヘッドラインは、候補者の職業や経歴の多様性が選挙局面で注目されていることを示している。有権者は候補者個人の背景と経歴を併せて見ることになりそうだ。出典: yna.co.kr"
+      },
+      "zh": {
+        "title": "特殊候选人受关注，外卖员、女喜剧演员、护理员参选",
+        "excerpt": "韩联社15:00头条称，外卖员、女喜剧演员、护理员等不同职业背景的特殊候选人投入选战，其中还包括一名有15次前科的候选人。",
+        "body": "据韩联社15:00发布的此刻头条，选战中出现了外卖员、女喜剧演员、护理员等拥有不同职业背景的特殊候选人。报道摘要介绍了这些候选人与一般政治履历不同的背景和参选案例，并同时提到其中包括一名有15次前科的候选人。该头条显示，候选人的职业与履历多样性正在选举阶段受到关注。选民预计将同时审视候选人的个人背景和经历。来源: yna.co.kr"
+      },
+      "es": {
+        "title": "Candidatos inusuales atraen atención: repartidor, comediante y cuidadora",
+        "excerpt": "El titular de Yonhap de las 15:00 informó que candidatos de oficios diversos, como repartidor, comediante y cuidadora, entraron en la contienda, incluido uno con 15 antecedentes.",
+        "body": "Según la actualización de titulares de Yonhap a las 15:00, la contienda electoral incluye candidatos inusuales con ocupaciones diversas, entre ellos un repartidor, una comediante y una cuidadora. El resumen del reporte presentó casos de aspirantes con trayectorias distintas de la carrera política convencional y señaló también la presencia de un candidato con 15 antecedentes penales. El titular muestra que la diversidad de oficios e historiales de los candidatos está recibiendo atención en esta etapa electoral. Se espera que los votantes examinen tanto el origen como la trayectoria de cada aspirante. Fuente: yna.co.kr"
+      },
+      "pt": {
+        "title": "Candidatos incomuns chamam atenção: entregador, comediante e cuidadora",
+        "excerpt": "A manchete das 15h da Yonhap informou que candidatos de profissões diversas, como entregador, comediante e cuidadora, entraram na disputa, incluindo um com 15 antecedentes.",
+        "body": "Segundo a atualização de manchetes da Yonhap às 15h, a disputa eleitoral inclui candidatos incomuns com uma ampla variedade de ocupações, como entregador, comediante e cuidadora. O resumo da reportagem destacou casos de concorrentes com trajetórias diferentes das carreiras políticas convencionais e também observou a presença de um candidato com 15 antecedentes criminais. A manchete mostra que a diversidade de profissões e históricos dos candidatos está atraindo atenção no cenário eleitoral. Os eleitores devem avaliar tanto a origem quanto o histórico de cada candidato. Fonte: yna.co.kr"
+      },
+      "de": {
+        "title": "Ungewöhnliche Kandidaten im Fokus: Lieferfahrer, Komikerin und Pflegekraft",
+        "excerpt": "Die Yonhap-Schlagzeile von 15:00 Uhr meldete, dass Kandidaten aus verschiedenen Berufen, darunter Lieferfahrer, Komikerin und Pflegekraft, antreten; auch einer mit 15 Vorstrafen ist dabei.",
+        "body": "Laut dem Schlagzeilen-Update der Nachrichtenagentur Yonhap um 15:00 Uhr treten im Wahlkampf ungewöhnliche Kandidaten mit sehr unterschiedlichen Berufen an, darunter ein Lieferfahrer, eine Komikerin und eine Pflegekraft. Die Zusammenfassung des Berichts stellte Fälle von Bewerbern vor, deren Hintergrund von klassischen politischen Laufbahnen abweicht, und erwähnte auch einen Kandidaten mit 15 Vorstrafen. Die Schlagzeile zeigt, dass die Vielfalt der Berufe und Lebensläufe der Kandidaten in der Wahlphase Aufmerksamkeit erhält. Wähler dürften sowohl den persönlichen Hintergrund als auch die Laufbahn der Kandidaten prüfen. Quelle: yna.co.kr"
+      },
+      "fr": {
+        "title": "Candidats atypiques en vue: livreur, humoriste et aide-soignante en lice",
+        "excerpt": "Le titre de Yonhap à 15h00 indique que des candidats aux métiers variés, dont livreur, humoriste et aide-soignante, participent à la course, avec aussi un candidat aux 15 antécédents.",
+        "body": "Selon le point titres de Yonhap à 15h00, la campagne électorale compte des candidats atypiques issus de métiers variés, notamment un livreur, une humoriste et une aide-soignante. Le résumé du reportage présente des profils éloignés des parcours politiques habituels et mentionne également la présence d’un candidat ayant 15 antécédents judiciaires. Ce titre montre que la diversité des professions et des parcours des candidats attire l’attention dans cette phase électorale. Les électeurs devraient examiner à la fois l’origine personnelle et le parcours de chaque candidat. Source: yna.co.kr"
+      },
+      "ar": {
+        "title": "مرشحون غير تقليديين تحت الضوء: عامل توصيل وكوميدية ومقدمة رعاية",
+        "excerpt": "أفاد عنوان يونهاب عند الساعة 15:00 بأن مرشحين من مهن متنوعة، بينهم عامل توصيل وكوميدية ومقدمة رعاية، دخلوا السباق الانتخابي، مع وجود مرشح له 15 سابقة.",
+        "body": "وفق تحديث عناوين وكالة يونهاب عند الساعة 15:00، يضم السباق الانتخابي مرشحين غير تقليديين من مهن متنوعة، مثل عامل توصيل وكوميدية ومقدمة رعاية. وقدم ملخص التقرير أمثلة لمرشحين تختلف خلفياتهم عن المسارات السياسية المعتادة، كما أشار إلى وجود مرشح لديه 15 سابقة جنائية. ويظهر هذا العنوان أن تنوع مهن المرشحين وسجلاتهم يحظى بالاهتمام في المرحلة الانتخابية. ومن المتوقع أن ينظر الناخبون في خلفية كل مرشح وسيرته على حد سواء. المصدر: yna.co.kr"
+      },
+      "hi": {
+        "title": "अलग पृष्ठभूमि वाले उम्मीदवार चर्चा में, डिलीवरी कर्मी से देखभालकर्मी तक",
+        "excerpt": "योनहाप की 15:00 हेडलाइन ने बताया कि डिलीवरी कर्मी, महिला कॉमेडियन और देखभालकर्मी जैसे विविध पेशों के उम्मीदवार चुनाव मैदान में हैं, जिनमें 15 पूर्व दोषों वाला उम्मीदवार भी शामिल है।",
+        "body": "योनहाप समाचार एजेंसी की 15:00 बजे की हेडलाइन अपडेट के अनुसार, चुनावी मैदान में डिलीवरी कर्मी, महिला कॉमेडियन और देखभालकर्मी जैसे अलग-अलग पेशों से आए असामान्य उम्मीदवार शामिल हैं। रिपोर्ट के सार में ऐसे दावेदारों के उदाहरण दिए गए जिनकी पृष्ठभूमि सामान्य राजनीतिक करियर से अलग है, और यह भी बताया गया कि 15 पूर्व आपराधिक दोषों वाला एक उम्मीदवार भी शामिल है। यह हेडलाइन दिखाती है कि उम्मीदवारों के पेशों और रिकॉर्ड की विविधता चुनावी चरण में ध्यान खींच रही है। मतदाता उम्मीदवारों की व्यक्तिगत पृष्ठभूमि और रिकॉर्ड दोनों पर गौर कर सकते हैं। स्रोत: yna.co.kr"
+      },
+      "id": {
+        "title": "Kandidat Tak Biasa Disorot, dari Kurir hingga Komedian dan Perawat Lansia",
+        "excerpt": "Judul Yonhap pukul 15.00 melaporkan kandidat dari pekerjaan beragam, termasuk kurir, komedian dan perawat lansia, ikut dalam kontestasi, serta satu kandidat dengan 15 catatan pidana.",
+        "body": "Menurut pembaruan judul Yonhap News Agency pukul 15.00, kontestasi pemilu diikuti kandidat tak biasa dengan beragam pekerjaan, seperti kurir, komedian dan perawat lansia. Ringkasan laporan menyoroti contoh peserta dengan latar belakang yang berbeda dari karier politik pada umumnya, serta mencatat adanya kandidat dengan 15 catatan pidana. Judul ini menunjukkan bahwa keragaman pekerjaan dan rekam jejak kandidat sedang menarik perhatian dalam fase pemilu. Pemilih diperkirakan akan menilai latar belakang pribadi sekaligus riwayat setiap kandidat. Sumber: yna.co.kr"
+      }
+    }
+  },
+  {
+    "id": "7995bad86904",
+    "slug": "27년-무패-신화-신진호-반도체-단기-조정-시점-다가온다-458517",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-05-10T07:03:38.267Z",
+    "updatedAt": "2026-05-10T07:03:38.267Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/202605011317i",
+    "canonicalUrl": "https://www.hankyung.com/article/202605011317i",
+    "titleFingerprint": "8915b0194e4416c7b4a271dc4b98e86b3456c4eb",
+    "dedupKeys": [
+      "7995bad86904ad49beecf0adc66b068229a5e12b",
+      "8915b0194e4416c7b4a271dc4b98e86b3456c4eb",
+      "ec953bb09cdc30dbb052840835d08c308e1f8e8f"
+    ],
+    "imageUrl": "/images/articles/7995bad86904.jpg",
+    "i18n": {
+      "ko": {
+        "title": "반도체 단기 조정 경고, ‘27년 무패 신화’ 신진호가 본 ETF 투자 변곡점",
+        "excerpt": "한국경제에 따르면 ‘27년 무패 신화’로 소개된 신진호가 반도체 업종의 단기 조정 시점이 다가오고 있다고 언급하며 관련 투자자들의 주목을 받고 있다.",
+        "body": "‘27년 무패 신화’로 소개된 신진호가 반도체 업종의 단기 조정 가능성을 언급했다. 한국경제 보도에 따르면 신진호는 최근 반도체 시장을 두고 “반도체 단기 조정 시점이 다가온다”는 취지의 견해를 밝혔다. 원문에 별도 요약이나 구체적 수치가 제시되지는 않았지만, 발언의 핵심은 반도체 흐름이 단기적으로 숨 고르기에 들어갈 수 있다는 점이다. 반도체 관련 ETF와 업종 투자자는 해당 발언을 시장 변동성 점검 신호로 받아들일 수 있다. 다만 기사에 공개된 정보만으로 조정의 폭, 시기, 대상 종목을 단정할 수는 없다. 출처: hankyung.com"
+      },
+      "en": {
+        "title": "Semiconductor Pullback Warning: Shin Jin-ho Flags a Turning Point for ETF Investors",
+        "excerpt": "According to Hankyung, Shin Jin-ho, introduced as the figure behind a “27-year unbeaten legend,” said the timing of a short-term semiconductor correction is approaching.",
+        "body": "Shin Jin-ho, introduced as the figure behind a “27-year unbeaten legend,” has pointed to the possibility of a short-term correction in the semiconductor sector. According to Hankyung, Shin said that the timing of a short-term semiconductor pullback is approaching. The original information does not provide a separate summary or detailed figures, but the key message is that semiconductor momentum may enter a near-term pause. Investors in semiconductor-related ETFs and sector products may treat the comment as a signal to review volatility exposure. However, based only on the published information, the scale, timing, or specific stocks involved in any correction cannot be determined. Source: hankyung.com"
+      },
+      "ja": {
+        "title": "半導体の短期調整に警戒、「27年無敗神話」申眞浩氏がETF投資家に示した転機",
+        "excerpt": "韓国経済によると、「27年無敗神話」と紹介された申眞浩氏が、半導体業種の短期調整時期が近づいているとの見方を示し注目されている。",
+        "body": "「27年無敗神話」と紹介された申眞浩氏が、半導体業種の短期調整の可能性に言及した。韓国経済の報道によると、申氏は最近の半導体市場について「半導体の短期調整時期が近づいている」という趣旨の見方を示した。原文には別途の要約や具体的な数値は示されていないが、発言の核心は半導体の流れが短期的に一服する可能性があるという点だ。半導体関連ETFや業種商品に投資する投資家は、この発言を市場変動性を点検する材料として受け止めることができる。ただし、公開された情報だけで調整の幅、時期、対象銘柄を断定することはできない。出典: hankyung.com"
+      },
+      "zh": {
+        "title": "半导体短期调整警示：“27年不败神话”申振浩提示ETF投资转折点",
+        "excerpt": "据韩国经济报道，被称为“27年不败神话”的申振浩表示，半导体行业短期调整时点正在临近，引发相关投资者关注。",
+        "body": "被称为“27年不败神话”的申振浩提到了半导体行业短期调整的可能性。据韩国经济报道，申振浩近期就半导体市场表示，半导体短期调整时点正在临近。原文未提供单独摘要或具体数据，但其发言核心在于，半导体走势短期内可能进入休整阶段。投资半导体相关ETF和行业产品的投资者，可将这一表态视为重新检查市场波动风险的信号。不过，仅凭已公开的信息，尚无法断定调整幅度、具体时间或涉及的个股范围。来源: hankyung.com"
+      },
+      "es": {
+        "title": "Alerta de corrección en semiconductores: Shin Jin-ho marca un giro para ETF",
+        "excerpt": "Según Hankyung, Shin Jin-ho, presentado como la figura de la “leyenda invicta de 27 años”, dijo que se acerca el momento de una corrección breve en semiconductores.",
+        "body": "Shin Jin-ho, presentado como la figura de la “leyenda invicta de 27 años”, mencionó la posibilidad de una corrección de corto plazo en el sector de semiconductores. Según Hankyung, Shin afirmó recientemente que se acerca el momento de una corrección breve en semiconductores. La información original no incluye un resumen separado ni cifras concretas, pero el punto central es que el impulso del sector podría entrar en una pausa temporal. Los inversores en ETF vinculados a semiconductores y productos sectoriales pueden tomar el comentario como una señal para revisar su exposición a la volatilidad. Sin embargo, con la información publicada no es posible determinar la magnitud, el calendario ni los valores concretos de una eventual corrección. Fuente: hankyung.com"
+      },
+      "pt": {
+        "title": "Alerta de ajuste em semicondutores: Shin Jin-ho aponta virada para ETFs",
+        "excerpt": "Segundo o Hankyung, Shin Jin-ho, apresentado como a figura da “lenda invicta de 27 anos”, disse que se aproxima o momento de uma correção curta em semicondutores.",
+        "body": "Shin Jin-ho, apresentado como a figura da “lenda invicta de 27 anos”, mencionou a possibilidade de uma correção de curto prazo no setor de semicondutores. Segundo o Hankyung, Shin afirmou recentemente que o momento de uma correção curta em semicondutores está se aproximando. A informação original não traz um resumo separado nem números específicos, mas a mensagem central é que o movimento do setor pode entrar em uma fase breve de acomodação. Investidores em ETFs ligados a semicondutores e produtos setoriais podem usar o comentário como sinal para revisar a exposição à volatilidade. Ainda assim, apenas com os dados publicados, não é possível definir a magnitude, o momento exato ou os ativos envolvidos em uma eventual correção. Fonte: hankyung.com"
+      },
+      "de": {
+        "title": "Warnung vor Halbleiter-Korrektur: Shin Jin-ho sieht Wendepunkt für ETF-Anleger",
+        "excerpt": "Laut Hankyung sagte Shin Jin-ho, vorgestellt als Figur der „27 Jahre ungeschlagenen Legende“, dass der Zeitpunkt einer kurzfristigen Halbleiterkorrektur näher rückt.",
+        "body": "Shin Jin-ho, vorgestellt als Figur der „27 Jahre ungeschlagenen Legende“, hat auf die Möglichkeit einer kurzfristigen Korrektur im Halbleitersektor hingewiesen. Laut Hankyung sagte Shin zuletzt, der Zeitpunkt einer kurzfristigen Halbleiterkorrektur rücke näher. Die ursprüngliche Information enthält keine separate Zusammenfassung und keine konkreten Kennzahlen, doch die Kernaussage lautet, dass die Dynamik im Halbleiterbereich kurzfristig eine Pause einlegen könnte. Anleger in halbleiterbezogenen ETFs und Sektorprodukten können die Aussage als Anlass nehmen, ihre Volatilitätsrisiken zu prüfen. Aus den veröffentlichten Informationen allein lassen sich jedoch weder Ausmaß noch Zeitpunkt oder betroffene Einzelwerte einer möglichen Korrektur bestimmen. Quelle: hankyung.com"
+      },
+      "fr": {
+        "title": "Alerte sur les semi-conducteurs: Shin Jin-ho signale un tournant pour les ETF",
+        "excerpt": "Selon Hankyung, Shin Jin-ho, présenté comme la figure de la « légende invaincue depuis 27 ans », estime que le moment d’une correction courte des semi-conducteurs approche.",
+        "body": "Shin Jin-ho, présenté comme la figure de la « légende invaincue depuis 27 ans », a évoqué la possibilité d’une correction de court terme dans le secteur des semi-conducteurs. Selon Hankyung, Shin a récemment déclaré que le moment d’une correction courte des semi-conducteurs approchait. L’information originale ne fournit pas de résumé séparé ni de chiffres précis, mais le message central est que la tendance du secteur pourrait marquer une pause à court terme. Les investisseurs exposés aux ETF liés aux semi-conducteurs et aux produits sectoriels peuvent considérer ce commentaire comme un signal de réexamen du risque de volatilité. Toutefois, les informations publiées ne permettent pas de déterminer l’ampleur, le calendrier ou les titres concernés par une éventuelle correction. Source: hankyung.com"
+      },
+      "ar": {
+        "title": "تحذير من تصحيح قصير في أشباه الموصلات: شين جين هو يلفت أنظار مستثمري الصناديق",
+        "excerpt": "بحسب هانكيونغ، قال شين جين هو، الموصوف بصاحب «أسطورة 27 عاما بلا هزيمة»، إن توقيت تصحيح قصير الأجل في قطاع أشباه الموصلات يقترب.",
+        "body": "أشار شين جين هو، الموصوف بصاحب «أسطورة 27 عاما بلا هزيمة»، إلى احتمال حدوث تصحيح قصير الأجل في قطاع أشباه الموصلات. ووفقا لتقرير هانكيونغ، قال شين مؤخرا إن توقيت التصحيح القصير في أشباه الموصلات يقترب. ولا تتضمن المعلومات الأصلية ملخصا منفصلا أو أرقاما تفصيلية، لكن جوهر التصريح هو أن زخم القطاع قد يدخل مرحلة تهدئة قصيرة. ويمكن للمستثمرين في صناديق ETF المرتبطة بأشباه الموصلات والمنتجات القطاعية اعتبار التصريح إشارة لمراجعة التعرض لتقلبات السوق. ومع ذلك، لا تكفي المعلومات المنشورة وحدها لتحديد حجم التصحيح أو توقيته أو الأسهم التي قد يشملها. المصدر: hankyung.com"
+      },
+      "hi": {
+        "title": "सेमीकंडक्टर में अल्पकालिक गिरावट की चेतावनी: शिन जिन-हो ने ETF निवेशकों को संकेत दिया",
+        "excerpt": "Hankyung के अनुसार, “27 साल की अपराजित कथा” के रूप में पेश किए गए शिन जिन-हो ने कहा कि सेमीकंडक्टर क्षेत्र में अल्पकालिक करेक्शन का समय नजदीक आ रहा है।",
+        "body": "“27 साल की अपराजित कथा” के रूप में पेश किए गए शिन जिन-हो ने सेमीकंडक्टर क्षेत्र में अल्पकालिक करेक्शन की संभावना का उल्लेख किया। Hankyung की रिपोर्ट के अनुसार, शिन ने हाल में कहा कि सेमीकंडक्टर में अल्पकालिक करेक्शन का समय करीब आ रहा है। मूल जानकारी में अलग सारांश या विशिष्ट आंकड़े नहीं दिए गए हैं, लेकिन मुख्य संदेश यह है कि सेमीकंडक्टर की चाल निकट अवधि में ठहराव ले सकती है। सेमीकंडक्टर से जुड़े ETF और सेक्टर उत्पादों में निवेश करने वाले निवेशक इस टिप्पणी को बाजार की अस्थिरता की समीक्षा के संकेत के रूप में देख सकते हैं। हालांकि, प्रकाशित जानकारी के आधार पर करेक्शन की सीमा, समय या संबंधित शेयरों को निश्चित रूप से नहीं बताया जा सकता। स्रोत: hankyung.com"
+      },
+      "id": {
+        "title": "Peringatan Koreksi Semikonduktor: Shin Jin-ho Soroti Titik Balik bagi Investor ETF",
+        "excerpt": "Menurut Hankyung, Shin Jin-ho, yang diperkenalkan sebagai sosok “legenda tak terkalahkan 27 tahun”, mengatakan waktu koreksi jangka pendek semikonduktor makin dekat.",
+        "body": "Shin Jin-ho, yang diperkenalkan sebagai sosok “legenda tak terkalahkan 27 tahun”, menyinggung kemungkinan koreksi jangka pendek di sektor semikonduktor. Menurut laporan Hankyung, Shin baru-baru ini menyampaikan pandangan bahwa waktu koreksi jangka pendek semikonduktor semakin dekat. Informasi asli tidak menyertakan ringkasan terpisah atau angka khusus, tetapi inti pernyataannya adalah bahwa laju sektor semikonduktor dapat memasuki fase jeda dalam waktu dekat. Investor pada ETF terkait semikonduktor dan produk sektoral dapat melihat komentar ini sebagai sinyal untuk meninjau eksposur terhadap volatilitas pasar. Namun, berdasarkan informasi yang dipublikasikan saja, skala, waktu, atau saham tertentu yang terdampak koreksi belum dapat dipastikan. Sumber: hankyung.com"
+      }
+    }
+  },
+  {
+    "id": "d87eb0f7a3ae",
+    "slug": "손-커진-개미들-억대-주식-사팔사팔지난달-1억원-이상-주문-역대-최대-384221",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-05-10T07:02:29.925Z",
+    "updatedAt": "2026-05-10T07:02:29.925Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/stock/12042535",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12042535",
+    "titleFingerprint": "4c6a255a6ccb4ee62acc036e5821b9832defaf54",
+    "dedupKeys": [
+      "d87eb0f7a3ae5798b0380da3dd19a577b9515b83",
+      "4c6a255a6ccb4ee62acc036e5821b9832defaf54",
+      "2e76d52890670a601858b35d194a9cd80ab148d6"
+    ],
+    "imageUrl": "/images/articles/d87eb0f7a3ae.jpg",
+    "i18n": {
+      "ko": {
+        "title": "코스피 랠리 속 개인투자자 1억원 이상 주문 119만건 역대 최대, 삼성전자·하이닉스 집중",
+        "excerpt": "지난달 코스피가 사상 처음 7000선을 돌파하며 랠리를 이어가자, 1억원 이상 대량 주문이 119만건으로 역대 최대를 기록했고 3분의 1은 삼성전자와 SK하이닉스에 몰렸다.",
+        "body": "지난달 국내 증시에서 1억원 이상 주식 주문이 119만건으로 역대 최대를 기록했다. 코스피가 사상 처음 7000선을 돌파하며 랠리를 이어가는 가운데, 거액을 운용하는 이른바 ‘큰손’ 개인투자자들의 매매가 크게 늘어난 흐름이다. 보도에 따르면 전체 1억원 이상 대량 주문 가운데 약 3분의 1은 삼성전자와 SK하이닉스에 집중됐다. 대형 반도체주를 중심으로 개인투자자의 고액 주문이 몰리면서 시장 랠리 국면에서 개인 자금의 존재감이 커진 것으로 풀이된다. 다만 기사에 제시된 수치는 지난달 주문 현황에 한정된다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Retail Investors’ Orders of 100 Million Won or More Hit Record 1.19 Million Amid KOSPI Rally",
+        "excerpt": "Last month, as the KOSPI topped 7,000 for the first time and extended its rally, orders of 100 million won or more reached a record 1.19 million, with one-third concentrated in Samsung Electronics and SK Hynix.",
+        "body": "Last month, stock orders worth 100 million won or more in the Korean market reached 1.19 million, the highest level on record. The increase came as the KOSPI surpassed the 7,000 mark for the first time and continued its rally, while individual investors handling large sums became more active in trading. According to the report, about one-third of all large orders of 100 million won or more were concentrated in Samsung Electronics and SK Hynix. The figures show that high-value orders from retail investors were focused on major semiconductor stocks during the market rally. The reported data covers last month’s order activity. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "KOSPI上昇で個人の1億ウォン以上注文が119万件、過去最多に",
+        "excerpt": "先月、KOSPIが史上初めて7000を突破して上昇を続ける中、1億ウォン以上の大口注文は119万件と過去最多となり、3分の1がサムスン電子とSKハイニックスに集中した。",
+        "body": "先月、韓国株式市場で1億ウォン以上の株式注文が119万件となり、過去最多を記録した。KOSPIが史上初めて7000を突破し、上昇を続ける中、多額の資金を動かすいわゆる「大口」の個人投資家による売買が大きく増えた流れだ。報道によると、1億ウォン以上の大口注文全体の約3分の1はサムスン電子とSKハイニックスに集中した。大型半導体株を中心に個人投資家の高額注文が集まったことで、相場上昇局面における個人資金の存在感が強まったことが示された。数値は先月の注文状況に限られる。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "KOSPI上涨中散户1亿韩元以上订单达119万笔，创历史新高",
+        "excerpt": "上月KOSPI史上首次突破7000点并延续涨势，1亿韩元以上大额订单达到119万笔、创历史新高，其中三分之一集中在三星电子和SK海力士。",
+        "body": "上月，韩国股市中1亿韩元以上的股票订单达到119万笔，创下历史最高纪录。随着KOSPI史上首次突破7000点并延续上涨，运用大额资金的所谓“大户”个人投资者交易明显增加。报道称，在全部1亿韩元以上大额订单中，约三分之一集中于三星电子和SK海力士。个人投资者的高额订单主要流向大型半导体股，显示在市场上涨阶段个人资金的存在感有所扩大。不过，报道中提到的数据仅限于上月的订单情况。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Órdenes minoristas de más de 100 millones de wones alcanzan récord de 1,19 millones",
+        "excerpt": "El mes pasado, mientras el KOSPI superó por primera vez los 7.000 puntos y siguió al alza, las órdenes de 100 millones de wones o más llegaron a un récord de 1,19 millones, con un tercio en Samsung Electronics y SK Hynix.",
+        "body": "El mes pasado, las órdenes bursátiles de 100 millones de wones o más en el mercado coreano alcanzaron 1,19 millones, el mayor nivel registrado. El aumento se produjo mientras el KOSPI superaba por primera vez la barrera de los 7.000 puntos y continuaba su rally, con una mayor actividad de inversores individuales que manejan grandes sumas. Según el reporte, cerca de un tercio de todas las órdenes grandes de 100 millones de wones o más se concentró en Samsung Electronics y SK Hynix. Los datos muestran que las órdenes de alto valor de particulares se enfocaron en grandes acciones de semiconductores durante la subida del mercado. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Ordens de varejo acima de 100 milhões de wons batem recorde de 1,19 milhão",
+        "excerpt": "No mês passado, enquanto o KOSPI superou pela primeira vez os 7.000 pontos e manteve o rali, ordens de 100 milhões de wons ou mais chegaram ao recorde de 1,19 milhão, com um terço em Samsung Electronics e SK Hynix.",
+        "body": "No mês passado, as ordens de ações de 100 milhões de wons ou mais no mercado coreano chegaram a 1,19 milhão, o maior número já registrado. O avanço ocorreu enquanto o KOSPI ultrapassava pela primeira vez a marca de 7.000 pontos e seguia em rali, com maior atividade de investidores individuais que movimentam grandes valores. Segundo a reportagem, cerca de um terço de todas as grandes ordens de 100 milhões de wons ou mais ficou concentrado em Samsung Electronics e SK Hynix. Os dados indicam que ordens de alto valor de investidores pessoa física se concentraram em grandes ações de semicondutores. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Privatanleger-Aufträge ab 100 Mio. Won erreichen Rekordwert von 1,19 Millionen",
+        "excerpt": "Im vergangenen Monat überschritt der KOSPI erstmals die Marke von 7.000 Punkten und setzte seine Rally fort; Aufträge ab 100 Mio. Won erreichten mit 1,19 Mio. einen Rekord, ein Drittel entfiel auf Samsung Electronics und SK Hynix.",
+        "body": "Im vergangenen Monat erreichten Aktienaufträge im Wert von 100 Mio. Won oder mehr am koreanischen Markt 1,19 Mio. und damit den höchsten jemals verzeichneten Stand. Der Anstieg fiel in eine Phase, in der der KOSPI erstmals die Marke von 7.000 Punkten überschritt und seine Rally fortsetzte. Zugleich nahm die Handelsaktivität von Privatanlegern zu, die größere Summen bewegen. Dem Bericht zufolge konzentrierte sich rund ein Drittel aller Großaufträge ab 100 Mio. Won auf Samsung Electronics und SK Hynix. Die Zahlen zeigen, dass hochvolumige Privatanlegerorders während der Marktrally vor allem in große Halbleiterwerte flossen. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Les ordres particuliers de plus de 100 millions de wons atteignent un record",
+        "excerpt": "Le mois dernier, alors que le KOSPI franchissait pour la première fois les 7.000 points et poursuivait son rally, les ordres d’au moins 100 millions de wons ont atteint un record de 1,19 million, dont un tiers sur Samsung Electronics et SK Hynix.",
+        "body": "Le mois dernier, les ordres boursiers de 100 millions de wons ou plus sur le marché coréen ont atteint 1,19 million, un record historique. Cette hausse est intervenue alors que le KOSPI franchissait pour la première fois le seuil des 7.000 points et poursuivait son rally, avec une activité accrue des investisseurs individuels disposant de montants importants. Selon l’article, environ un tiers de tous les gros ordres de 100 millions de wons ou plus s’est concentré sur Samsung Electronics et SK Hynix. Ces chiffres montrent que les ordres élevés des particuliers se sont orientés vers les grandes valeurs des semi-conducteurs. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "أوامر الأفراد فوق 100 مليون وون تسجل رقما قياسيا مع صعود كوسبي",
+        "excerpt": "في الشهر الماضي، ومع تجاوز كوسبي مستوى 7000 نقطة للمرة الأولى واستمرار الصعود، بلغت الأوامر التي لا تقل عن 100 مليون وون 1.19 مليون أمر، وتركز ثلثها في سامسونغ إلكترونيكس وSK هاينكس.",
+        "body": "في الشهر الماضي، بلغ عدد أوامر الأسهم بقيمة 100 مليون وون أو أكثر في السوق الكورية 1.19 مليون أمر، وهو أعلى مستوى مسجل. جاء ذلك بينما تجاوز مؤشر كوسبي مستوى 7000 نقطة للمرة الأولى وواصل صعوده، في وقت زاد فيه نشاط المستثمرين الأفراد الذين يديرون مبالغ كبيرة. وبحسب التقرير، تركز نحو ثلث جميع الأوامر الكبيرة البالغة 100 مليون وون أو أكثر في سامسونغ إلكترونيكس وSK هاينكس. وتظهر الأرقام أن أوامر الأفراد مرتفعة القيمة اتجهت خصوصا إلى أسهم أشباه الموصلات الكبرى خلال موجة صعود السوق. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "KOSPI रैली में खुदरा निवेशकों के 10 करोड़ वॉन से बड़े ऑर्डर रिकॉर्ड 11.9 लाख",
+        "excerpt": "पिछले महीने KOSPI पहली बार 7,000 के पार गया और रैली जारी रही, जबकि 10 करोड़ वॉन या उससे अधिक के बड़े ऑर्डर रिकॉर्ड 11.9 लाख पर पहुंचे; इनमें एक-तिहाई Samsung Electronics और SK Hynix में केंद्रित रहे।",
+        "body": "पिछले महीने कोरियाई शेयर बाजार में 10 करोड़ वॉन या उससे अधिक मूल्य के शेयर ऑर्डर 11.9 लाख पर पहुंच गए, जो अब तक का सबसे बड़ा स्तर है। यह बढ़ोतरी ऐसे समय आई जब KOSPI पहली बार 7,000 के स्तर को पार कर रैली जारी रखे हुए था और बड़ी रकम लगाने वाले व्यक्तिगत निवेशकों की ट्रेडिंग गतिविधि बढ़ी। रिपोर्ट के अनुसार, 10 करोड़ वॉन या उससे अधिक के कुल बड़े ऑर्डरों में करीब एक-तिहाई Samsung Electronics और SK Hynix में केंद्रित थे। आंकड़े दिखाते हैं कि बाजार की तेजी के दौरान खुदरा निवेशकों के ऊंचे मूल्य वाले ऑर्डर बड़े सेमीकंडक्टर शेयरों में गए। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Order Investor Ritel di Atas 100 Juta Won Capai Rekor 1,19 Juta Saat KOSPI Reli",
+        "excerpt": "Bulan lalu, saat KOSPI menembus 7.000 untuk pertama kalinya dan melanjutkan reli, order senilai 100 juta won atau lebih mencapai rekor 1,19 juta, dengan sepertiganya terkonsentrasi di Samsung Electronics dan SK Hynix.",
+        "body": "Bulan lalu, order saham senilai 100 juta won atau lebih di pasar Korea mencapai 1,19 juta, level tertinggi sepanjang catatan. Kenaikan itu terjadi ketika KOSPI untuk pertama kalinya menembus level 7.000 dan melanjutkan reli, sementara aktivitas investor individu yang mengelola dana besar meningkat. Menurut laporan tersebut, sekitar sepertiga dari seluruh order besar senilai 100 juta won atau lebih terkonsentrasi di Samsung Electronics dan SK Hynix. Angka ini menunjukkan bahwa order bernilai tinggi dari investor ritel terutama mengarah ke saham semikonduktor besar selama fase reli pasar. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
     "id": "a1aa2b4ad6bc",
     "slug": "한국타이어-분석-안정적-수익과-주주환원-확대까지원가-상승은-리스크-요인-171699",
     "channelId": "ETF",
@@ -4271,231 +4496,6 @@
         "title": "KAMCO Raih Peringkat Tertinggi Evaluasi Keterbukaan Informasi dan Penghargaan PM",
         "excerpt": "Korea Asset Management Corporation meraih peringkat tertinggi dalam evaluasi keterbukaan informasi dan penghargaan Perdana Menteri atas kinerja operasionalnya, lapor Yonhap.",
         "body": "Korea Asset Management Corporation, atau KAMCO, meraih peringkat tertinggi dalam evaluasi komprehensif keterbukaan informasi dan juga menerima penghargaan Perdana Menteri, menurut laporan Yonhap. Evaluasi ini meninjau secara menyeluruh tingkat pengoperasian sistem keterbukaan informasi di lembaga publik, dan KAMCO dinilai memiliki kinerja kuat di bidang tersebut. Peringkat tertinggi dan penghargaan itu menunjukkan pengakuan eksternal atas pengelolaan serta operasional keterbukaan informasi KAMCO. Kasus ini diperkirakan mendapat perhatian seiring upaya lembaga publik memperkuat praktik keterbukaan dan transparansi. Sumber: yna.co.kr"
-      }
-    }
-  },
-  {
-    "id": "445ac08ca766",
-    "slug": "지난달-서울-아파트-경매-낙찰률-4875개월만-최고-732636",
-    "channelId": "ETF",
-    "category": "etf",
-    "publishedAt": "2026-05-09T18:34:16.307Z",
-    "updatedAt": "2026-05-09T18:34:16.307Z",
-    "sourceName": "yna.co.kr",
-    "sourceUrl": "https://www.yna.co.kr/view/AKR20260508060900003",
-    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260508060900003",
-    "titleFingerprint": "f51dd13a732d61f1093abf3ab2b62b9b5c78125f",
-    "dedupKeys": [
-      "445ac08ca766d15d92179ba6b2cc51e6ba91427b",
-      "f51dd13a732d61f1093abf3ab2b62b9b5c78125f",
-      "8f8218c2360e43b656dd3232393599fd36d073fe"
-    ],
-    "imageUrl": "/images/articles/445ac08ca766.jpg",
-    "i18n": {
-      "ko": {
-        "title": "서울 아파트 경매 낙찰률 48.7%, 5개월 만에 최고치…부동산 경매 시장 관심",
-        "excerpt": "연합뉴스에 따르면 지난달 경매로 나온 서울 아파트 낙찰률은 48.7%로 집계돼 작년 11월 이후 5개월 만에 가장 높은 수준을 기록했다.",
-        "body": "지난달 서울에서 경매에 나온 아파트의 낙찰률이 48.7%를 기록했다. 연합뉴스가 전한 내용에 따르면 이는 작년 11월 이후 5개월 만에 가장 높은 수준이다. 서울 아파트 경매 낙찰률은 경매 물건 가운데 실제로 낙찰된 비율을 보여주는 지표로, 이번 수치는 최근 몇 달과 비교해 낙찰 비중이 높아졌음을 의미한다. 다만 원문은 구체적인 경매 건수나 낙찰가율 등 추가 지표는 제시하지 않았다. 서울 아파트 경매 시장의 흐름을 살피는 투자자와 실수요자는 낙찰률 변화에 주목할 것으로 보인다. 출처: yna.co.kr"
-      },
-      "en": {
-        "title": "Seoul Apartment Auction Success Rate Hits 48.7%, Highest in Five Months",
-        "excerpt": "According to Yonhap News Agency, the auction success rate for Seoul apartments reached 48.7% last month, the highest level since November last year.",
-        "body": "The auction success rate for apartments put up for auction in Seoul reached 48.7% last month. According to Yonhap News Agency, this marked the highest level in five months, since November last year. The apartment auction success rate shows the share of auctioned properties that were successfully sold, and the latest figure indicates a higher proportion of successful bids compared with recent months. The source article did not provide additional figures such as the number of auction cases or bid-to-appraisal ratios. Investors and end users watching Seoul’s apartment auction market are likely to focus on changes in this rate. Source: yna.co.kr"
-      },
-      "ja": {
-        "title": "ソウルマンション競売落札率48.7%、5カ月ぶり高水準に市場が注目",
-        "excerpt": "聯合ニュースによると、先月競売に出されたソウルのマンション落札率は48.7%となり、昨年11月以来5カ月ぶりの高水準を記録した。",
-        "body": "先月、ソウルで競売に出されたマンションの落札率は48.7%を記録した。聯合ニュースによると、これは昨年11月以来、5カ月ぶりの高水準となる。マンション競売の落札率は、競売物件のうち実際に落札された割合を示す指標で、今回の数値は最近数カ月と比べて落札の比率が高まったことを意味する。ただし、原文では競売件数や落札価率などの追加指標は示されていない。ソウルのマンション競売市場の流れを見る投資家や実需層は、この落札率の変化に注目するとみられる。出典: yna.co.kr"
-      },
-      "zh": {
-        "title": "首尔公寓拍卖成交率达48.7%，创五个月来最高水平",
-        "excerpt": "据韩联社报道，上月首尔拍卖公寓成交率为48.7%，达到自去年11月以来的最高水平，显示成交占比有所上升。",
-        "body": "上月，首尔被拍卖的公寓成交率达到48.7%。据韩联社报道，这是自去年11月以来五个月中的最高水平。公寓拍卖成交率是指拍卖房源中实际成交的比例，本次数据意味着与近几个月相比，成功成交的占比有所提高。不过，原文未提供拍卖件数、成交价率等其他具体指标。关注首尔公寓拍卖市场走势的投资者和实际购房需求者，预计将继续留意这一成交率变化。来源: yna.co.kr"
-      },
-      "es": {
-        "title": "Subastas de apartamentos en Seúl alcanzan 48,7% de adjudicación, máximo en cinco meses",
-        "excerpt": "Según Yonhap, la tasa de adjudicación de apartamentos subastados en Seúl fue del 48,7% el mes pasado, su nivel más alto desde noviembre del año pasado.",
-        "body": "La tasa de adjudicación de los apartamentos puestos en subasta en Seúl llegó al 48,7% el mes pasado. Según Yonhap News Agency, se trata del nivel más alto en cinco meses, desde noviembre del año pasado. Este indicador muestra qué proporción de los inmuebles subastados terminó con una adjudicación efectiva, por lo que la cifra apunta a una mayor participación de operaciones cerradas frente a los meses recientes. El texto original no incluyó datos adicionales, como el número de casos subastados o la relación entre precio de adjudicación y tasación. Inversores y compradores finales que siguen el mercado de subastas de apartamentos en Seúl observarán este cambio. Fuente: yna.co.kr"
-      },
-      "pt": {
-        "title": "Leilões de apartamentos em Seul têm taxa de arremate de 48,7%, maior em cinco meses",
-        "excerpt": "Segundo a Yonhap, a taxa de arremate de apartamentos levados a leilão em Seul foi de 48,7% no mês passado, o maior nível desde novembro do ano passado.",
-        "body": "A taxa de arremate dos apartamentos colocados em leilão em Seul chegou a 48,7% no mês passado. Segundo a Yonhap News Agency, esse foi o maior nível em cinco meses, desde novembro do ano passado. A taxa mostra a parcela dos imóveis em leilão que foi efetivamente arrematada, e o dado mais recente indica uma proporção maior de vendas concluídas em comparação com os meses recentes. O texto original não apresentou números adicionais, como a quantidade de casos em leilão ou a relação entre preço de arremate e avaliação. Investidores e compradores finais que acompanham o mercado de leilões de apartamentos em Seul devem observar essa mudança. Fonte: yna.co.kr"
-      },
-      "de": {
-        "title": "Seouls Wohnungsauktionen erreichen Zuschlagsquote von 48,7%, höchster Wert seit fünf Monaten",
-        "excerpt": "Laut Yonhap lag die Zuschlagsquote für in Seoul versteigerte Wohnungen im vergangenen Monat bei 48,7% und damit so hoch wie seit November nicht mehr.",
-        "body": "Die Zuschlagsquote für Wohnungen, die in Seoul zur Auktion standen, erreichte im vergangenen Monat 48,7%. Nach Angaben der Nachrichtenagentur Yonhap war dies der höchste Stand seit fünf Monaten, also seit November des Vorjahres. Die Quote zeigt, welcher Anteil der Auktionsobjekte tatsächlich zugeschlagen wurde. Der aktuelle Wert bedeutet daher, dass der Anteil erfolgreicher Gebote im Vergleich zu den jüngsten Monaten gestiegen ist. Der ursprüngliche Bericht nannte keine weiteren Kennzahlen wie die Zahl der Auktionsfälle oder das Verhältnis von Zuschlagspreis zu Bewertung. Anleger und Eigennutzer, die den Auktionsmarkt für Wohnungen in Seoul verfolgen, dürften diese Entwicklung beachten. Quelle: yna.co.kr"
-      },
-      "fr": {
-        "title": "Enchères d’appartements à Séoul: taux d’adjudication de 48,7%, plus haut en cinq mois",
-        "excerpt": "Selon Yonhap, le taux d’adjudication des appartements mis aux enchères à Séoul a atteint 48,7% le mois dernier, son plus haut niveau depuis novembre dernier.",
-        "body": "Le taux d’adjudication des appartements mis aux enchères à Séoul a atteint 48,7% le mois dernier. Selon l’agence Yonhap, il s’agit du niveau le plus élevé en cinq mois, depuis novembre de l’an dernier. Ce taux indique la part des biens proposés aux enchères qui ont effectivement trouvé preneur; le chiffre récent montre donc une proportion plus élevée d’adjudications par rapport aux derniers mois. L’article d’origine ne fournit pas d’autres données, comme le nombre de dossiers d’enchères ou le ratio entre le prix d’adjudication et l’évaluation. Les investisseurs et acheteurs finaux suivant le marché des enchères d’appartements à Séoul devraient surveiller cette évolution. Source: yna.co.kr"
-      },
-      "ar": {
-        "title": "مزادات شقق سيول تسجل معدل ترسية 48.7%، الأعلى خلال خمسة أشهر",
-        "excerpt": "بحسب وكالة يونهاب، بلغ معدل ترسية الشقق المعروضة في المزادات في سيول 48.7% الشهر الماضي، وهو أعلى مستوى منذ نوفمبر من العام الماضي.",
-        "body": "سجلت الشقق المعروضة في المزادات في سيول معدل ترسية بلغ 48.7% الشهر الماضي. ووفق ما نقلته وكالة يونهاب، فإن هذا هو أعلى مستوى منذ خمسة أشهر، أي منذ نوفمبر من العام الماضي. ويعكس معدل الترسية نسبة العقارات المعروضة في المزاد التي تم بيعها فعليا، ولذلك تشير القراءة الأخيرة إلى ارتفاع حصة المزادات التي انتهت بترسية مقارنة بالأشهر القليلة السابقة. ولم يذكر النص الأصلي مؤشرات إضافية مثل عدد حالات المزاد أو نسبة سعر الترسية إلى التقييم. ومن المتوقع أن يراقب المستثمرون والمشترون الفعليون المهتمون بسوق مزادات الشقق في سيول هذا التغير. المصدر: yna.co.kr"
-      },
-      "hi": {
-        "title": "सियोल अपार्टमेंट नीलामी सफलता दर 48.7%, पांच महीनों में सबसे ऊंचा स्तर",
-        "excerpt": "योनहाप के अनुसार, पिछले महीने सियोल में नीलामी पर रखे गए अपार्टमेंट की सफलता दर 48.7% रही, जो पिछले साल नवंबर के बाद सबसे ऊंचा स्तर है।",
-        "body": "पिछले महीने सियोल में नीलामी के लिए रखे गए अपार्टमेंट की सफलता दर 48.7% दर्ज की गई। योनहाप न्यूज एजेंसी के अनुसार, यह पिछले साल नवंबर के बाद पांच महीनों में सबसे ऊंचा स्तर है। अपार्टमेंट नीलामी सफलता दर यह दिखाती है कि नीलामी में रखी गई संपत्तियों में से कितनी वास्तव में बिक गईं। इसलिए ताजा आंकड़ा हाल के महीनों की तुलना में सफल बोलियों की अधिक हिस्सेदारी को दर्शाता है। मूल खबर में नीलामी मामलों की संख्या या मूल्यांकन के मुकाबले अंतिम बोली मूल्य जैसे अतिरिक्त आंकड़े नहीं दिए गए। सियोल के अपार्टमेंट नीलामी बाजार पर नजर रखने वाले निवेशक और वास्तविक खरीदार इस बदलाव पर ध्यान देंगे। स्रोत: yna.co.kr"
-      },
-      "id": {
-        "title": "Lelang Apartemen Seoul Capai Tingkat Terjual 48,7%, Tertinggi dalam Lima Bulan",
-        "excerpt": "Menurut Yonhap, tingkat keberhasilan lelang apartemen di Seoul mencapai 48,7% bulan lalu, level tertinggi sejak November tahun lalu.",
-        "body": "Tingkat keberhasilan lelang apartemen yang diajukan di Seoul mencapai 48,7% bulan lalu. Menurut Yonhap News Agency, angka ini merupakan level tertinggi dalam lima bulan, sejak November tahun lalu. Tingkat keberhasilan lelang menunjukkan porsi properti lelang yang benar-benar terjual, sehingga data terbaru ini berarti proporsi lelang yang berhasil meningkat dibandingkan beberapa bulan terakhir. Artikel asli tidak menyajikan angka tambahan seperti jumlah kasus lelang atau rasio harga lelang terhadap nilai taksiran. Investor dan pembeli pengguna akhir yang memantau pasar lelang apartemen Seoul kemungkinan akan memperhatikan perubahan tingkat ini. Sumber: yna.co.kr"
-      }
-    }
-  },
-  {
-    "id": "4ccea825ed34",
-    "slug": "농식품부-중동-사태-대응팀-가동봄철-농자재-수급-안정-487989",
-    "channelId": "ETF",
-    "category": "etf",
-    "publishedAt": "2026-05-09T18:33:10.616Z",
-    "updatedAt": "2026-05-09T18:33:10.616Z",
-    "sourceName": "yna.co.kr",
-    "sourceUrl": "https://www.yna.co.kr/view/AKR20260508069700030",
-    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260508069700030",
-    "titleFingerprint": "5659a5e5bf0b46af4185a634a39c793b471def8c",
-    "dedupKeys": [
-      "4ccea825ed3496bc15df47a5f5776d3805d5e484",
-      "5659a5e5bf0b46af4185a634a39c793b471def8c",
-      "3ade34dacb06487acda2efeeda614083003538ac"
-    ],
-    "imageUrl": "/images/articles/4ccea825ed34.jpg",
-    "i18n": {
-      "ko": {
-        "title": "농식품부 중동 사태 대응팀 가동, 중동 전쟁 장기화 속 봄철 농자재 수급 안정 확인",
-        "excerpt": "농림축산식품부는 중동 전쟁 장기화에도 주요 농자재 수급이 안정적으로 이뤄지고 있다며 ‘중동 사태 대응팀’을 가동해 봄철 영농 차질을 막고 있다고 밝혔다.",
-        "body": "농림축산식품부는 중동 전쟁 장기화 상황에 대응하기 위해 ‘중동 사태 대응팀’을 가동하고, 봄철 영농에 필요한 주요 농자재 수급 상황을 점검하고 있다고 밝혔다. 농식품부에 따르면 중동 사태가 길어지는 가운데서도 주요 농자재 공급은 안정적으로 이뤄지고 있으며, 이에 따라 봄철 영농 활동은 차질 없이 진행되고 있다. 정부는 관련 상황을 계속 살피며 농자재 수급 불안 가능성에 대응한다는 방침이다. 이번 조치는 국제 정세 변화가 국내 농업 현장에 미칠 영향을 줄이고, 영농기 농가의 생산 활동을 안정적으로 지원하기 위한 것이다. 출처: yna.co.kr"
-      },
-      "en": {
-        "title": "Agriculture Ministry launches Middle East response team as spring farm supply stays stable",
-        "excerpt": "South Korea’s Agriculture Ministry said key farm material supplies remain stable despite the prolonged Middle East war, with a response team operating to prevent disruption to spring farming.",
-        "body": "South Korea’s Ministry of Agriculture, Food and Rural Affairs said it has launched a “Middle East situation response team” to address the prolonged war in the region and monitor supplies of key farming materials needed for spring agricultural work. According to the ministry, major farm materials are being supplied steadily despite the extended Middle East crisis, allowing spring farming activities to proceed without disruption. The government plans to keep monitoring related conditions and respond to any potential instability in farm material supplies. The move is aimed at reducing the impact of shifting international conditions on domestic farms and supporting stable production during the spring farming season. Source: yna.co.kr"
-      },
-      "ja": {
-        "title": "農食品部、中東情勢対応チーム稼働　戦争長期化でも春の農資材需給は安定",
-        "excerpt": "韓国農林畜産食品部は、中東での戦争長期化にもかかわらず主要農資材の需給は安定しており、対応チームを稼働して春の営農への支障を防いでいると明らかにした。",
-        "body": "韓国農林畜産食品部は、中東での戦争長期化に対応するため「中東情勢対応チーム」を稼働し、春の営農に必要な主要農資材の需給状況を点検していると明らかにした。同部によると、中東情勢が長引く中でも主要農資材の供給は安定的に行われており、春の営農活動は支障なく進んでいる。政府は関連状況を引き続き確認し、農資材需給の不安定化の可能性に対応する方針だ。今回の措置は、国際情勢の変化が国内農業現場に及ぼす影響を抑え、営農期の農家の生産活動を安定的に支援するためのものだ。出典: yna.co.kr"
-      },
-      "zh": {
-        "title": "韩国农食品部启动中东局势应对组，春季农资供应保持稳定",
-        "excerpt": "韩国农林畜产食品部表示，尽管中东战争长期化，主要农资供需仍保持稳定，并已启动应对组以避免春季农业生产受阻。",
-        "body": "韩国农林畜产食品部表示，为应对中东战争长期化，已启动“中东局势应对组”，并检查春季农业生产所需主要农资的供需情况。据该部门介绍，尽管中东局势持续，主要农资供应仍稳定进行，因此春季农业生产活动没有出现障碍。政府计划继续关注相关情况，并应对农资供需可能出现的不稳定。此次措施旨在降低国际局势变化对韩国国内农业现场的影响，并在春耕季节稳定支持农户生产活动。来源: yna.co.kr"
-      },
-      "es": {
-        "title": "Agricultura de Corea activa equipo por Medio Oriente mientras insumos de primavera siguen estables",
-        "excerpt": "El Ministerio de Agricultura de Corea del Sur dijo que los principales insumos agrícolas siguen abasteciéndose con estabilidad pese a la prolongación de la guerra en Medio Oriente.",
-        "body": "El Ministerio de Agricultura, Alimentación y Asuntos Rurales de Corea del Sur informó que puso en marcha un “equipo de respuesta a la situación de Medio Oriente” para afrontar la prolongación de la guerra en la región y revisar el suministro de los principales insumos necesarios para las labores agrícolas de primavera. Según el ministerio, pese a que la situación en Medio Oriente se prolonga, el abastecimiento de los principales materiales agrícolas se mantiene estable, por lo que las actividades de cultivo de primavera avanzan sin contratiempos. El Gobierno continuará observando las condiciones relacionadas y responderá ante posibles riesgos de inestabilidad en el suministro. Fuente: yna.co.kr"
-      },
-      "pt": {
-        "title": "Coreia aciona equipe para crise no Oriente Médio e mantém insumos agrícolas estáveis",
-        "excerpt": "O Ministério da Agricultura da Coreia do Sul afirmou que os principais insumos agrícolas seguem com fornecimento estável apesar da guerra prolongada no Oriente Médio.",
-        "body": "O Ministério da Agricultura, Alimentação e Assuntos Rurais da Coreia do Sul informou que acionou uma “equipe de resposta à situação no Oriente Médio” para lidar com a prolongação da guerra na região e acompanhar o abastecimento dos principais insumos necessários ao trabalho agrícola da primavera. Segundo o ministério, mesmo com a situação no Oriente Médio se estendendo, o fornecimento dos principais materiais agrícolas ocorre de forma estável, permitindo que as atividades de cultivo da primavera avancem sem interrupções. O governo continuará monitorando as condições relacionadas e responderá a possíveis riscos de instabilidade no abastecimento. Fonte: yna.co.kr"
-      },
-      "de": {
-        "title": "Südkoreas Agrarministerium startet Nahost-Team, Frühjahrsversorgung bleibt stabil",
-        "excerpt": "Südkoreas Agrarministerium teilte mit, dass wichtige Betriebsmittel trotz des anhaltenden Kriegs im Nahen Osten stabil geliefert werden und ein Reaktionsteam den Frühjahrsanbau absichert.",
-        "body": "Das südkoreanische Ministerium für Landwirtschaft, Ernährung und ländliche Angelegenheiten teilte mit, es habe ein „Reaktionsteam für die Lage im Nahen Osten“ eingerichtet, um auf den anhaltenden Krieg in der Region zu reagieren und die Versorgung mit wichtigen Betriebsmitteln für die Frühjahrsarbeiten zu prüfen. Nach Angaben des Ministeriums werden zentrale Agrarmaterialien trotz der verlängerten Nahostlage stabil geliefert, sodass die landwirtschaftlichen Tätigkeiten im Frühjahr ohne Störungen vorankommen. Die Regierung will die Entwicklung weiter beobachten und auf mögliche Risiken für die Versorgung reagieren. Die Maßnahme soll Auswirkungen internationaler Veränderungen auf die heimische Landwirtschaft verringern. Quelle: yna.co.kr"
-      },
-      "fr": {
-        "title": "Séoul active une équipe Moyen-Orient, les intrants agricoles de printemps restent stables",
-        "excerpt": "Le ministère sud-coréen de l’Agriculture a indiqué que l’approvisionnement en principaux intrants agricoles reste stable malgré la guerre prolongée au Moyen-Orient.",
-        "body": "Le ministère sud-coréen de l’Agriculture, de l’Alimentation et des Affaires rurales a annoncé avoir activé une « équipe de réponse à la situation au Moyen-Orient » afin de faire face à la prolongation de la guerre dans la région et de vérifier l’approvisionnement en principaux intrants nécessaires aux travaux agricoles de printemps. Selon le ministère, malgré la durée de la crise au Moyen-Orient, les principaux matériaux agricoles sont fournis de manière stable, ce qui permet aux activités de printemps de se poursuivre sans perturbation. Le gouvernement continuera de surveiller la situation et de répondre à tout risque d’instabilité de l’approvisionnement. Source: yna.co.kr"
-      },
-      "ar": {
-        "title": "وزارة الزراعة الكورية تفعل فريقا لأزمة الشرق الأوسط وإمدادات الربيع مستقرة",
-        "excerpt": "قالت وزارة الزراعة الكورية الجنوبية إن إمدادات المواد الزراعية الرئيسية مستقرة رغم طول أمد الحرب في الشرق الأوسط، مع تشغيل فريق استجابة لمنع تعطل أعمال الربيع.",
-        "body": "أعلنت وزارة الزراعة والأغذية والشؤون الريفية في كوريا الجنوبية أنها فعّلت “فريق الاستجابة لوضع الشرق الأوسط” للتعامل مع طول أمد الحرب في المنطقة ومراجعة إمدادات المواد الزراعية الرئيسية اللازمة للأعمال الزراعية في الربيع. وبحسب الوزارة، فإن إمدادات المواد الزراعية الأساسية تتم بصورة مستقرة رغم استمرار أزمة الشرق الأوسط، ولذلك تمضي أنشطة الزراعة الربيعية من دون تعطل. وتعتزم الحكومة مواصلة متابعة الظروف ذات الصلة والاستجابة لاحتمالات عدم الاستقرار في إمدادات المواد الزراعية. وتهدف الخطوة إلى الحد من أثر تغيرات الوضع الدولي على المزارع المحلية ودعم الإنتاج خلال موسم الزراعة. المصدر: yna.co.kr"
-      },
-      "hi": {
-        "title": "दक्षिण कोरिया ने मध्य पूर्व प्रतिक्रिया टीम चलाई, वसंत कृषि सामग्री आपूर्ति स्थिर",
-        "excerpt": "दक्षिण कोरिया के कृषि मंत्रालय ने कहा कि मध्य पूर्व युद्ध लंबा खिंचने के बावजूद प्रमुख कृषि सामग्रियों की आपूर्ति स्थिर है और वसंत खेती में बाधा रोकने के लिए टीम काम कर रही है।",
-        "body": "दक्षिण कोरिया के कृषि, खाद्य और ग्रामीण मामलों के मंत्रालय ने बताया कि मध्य पूर्व में युद्ध लंबा खिंचने की स्थिति से निपटने के लिए “मध्य पूर्व स्थिति प्रतिक्रिया टीम” चलाई गई है और वसंत खेती के लिए जरूरी प्रमुख कृषि सामग्रियों की आपूर्ति की जांच की जा रही है। मंत्रालय के अनुसार, मध्य पूर्व की स्थिति जारी रहने के बावजूद मुख्य कृषि सामग्रियों की आपूर्ति स्थिर रूप से हो रही है, इसलिए वसंत ऋतु की कृषि गतिविधियां बिना बाधा आगे बढ़ रही हैं। सरकार संबंधित हालात पर नजर रखेगी और कृषि सामग्री आपूर्ति में संभावित अस्थिरता का जवाब देगी। यह कदम अंतरराष्ट्रीय स्थिति में बदलाव का घरेलू खेतों पर असर घटाने के लिए है। स्रोत: yna.co.kr"
-      },
-      "id": {
-        "title": "Kementan Korea aktifkan tim Timur Tengah, pasokan sarana tani musim semi stabil",
-        "excerpt": "Kementerian Pertanian Korea Selatan menyatakan pasokan sarana pertanian utama tetap stabil meski perang Timur Tengah berkepanjangan, dengan tim respons beroperasi untuk mencegah gangguan musim semi.",
-        "body": "Kementerian Pertanian, Pangan, dan Urusan Pedesaan Korea Selatan menyatakan telah mengaktifkan “tim respons situasi Timur Tengah” untuk menghadapi perang yang berkepanjangan di kawasan itu serta memeriksa pasokan sarana pertanian utama yang dibutuhkan untuk kegiatan musim semi. Menurut kementerian, meski situasi Timur Tengah berlarut, pasokan bahan pertanian utama tetap berjalan stabil, sehingga aktivitas pertanian musim semi berlangsung tanpa hambatan. Pemerintah akan terus memantau kondisi terkait dan menanggapi kemungkinan ketidakstabilan pasokan sarana pertanian. Langkah ini ditujukan untuk mengurangi dampak perubahan situasi internasional terhadap sektor pertanian domestik. Sumber: yna.co.kr"
-      }
-    }
-  },
-  {
-    "id": "ce3433b98bb4",
-    "slug": "오산시-미취업-청년-어학자격시험-응시료-지원-신청-접수-552951",
-    "channelId": "ETF",
-    "category": "etf",
-    "publishedAt": "2026-05-09T18:32:09.928Z",
-    "updatedAt": "2026-05-09T18:32:09.929Z",
-    "sourceName": "yna.co.kr",
-    "sourceUrl": "https://www.yna.co.kr/view/AKR20260508074100061",
-    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260508074100061",
-    "titleFingerprint": "7be1f6c5ef907185d5c173ff8aba27dbecce38ce",
-    "dedupKeys": [
-      "ce3433b98bb47fdb687b4824c54f70d414e93799",
-      "7be1f6c5ef907185d5c173ff8aba27dbecce38ce",
-      "3b19898f3e9700bfc2f274d2a8c1aec0c2a3d3b0"
-    ],
-    "imageUrl": "/images/articles/ce3433b98bb4.jpg",
-    "i18n": {
-      "ko": {
-        "title": "오산시 미취업 청년 어학·자격시험 응시료 지원 11일부터 접수",
-        "excerpt": "경기 오산시는 오는 11일부터 미취업 청년의 취업 준비 부담을 덜기 위해 어학·자격시험 응시료 지원 신청을 받는다.",
-        "body": "경기 오산시는 오는 11일부터 미취업 청년을 대상으로 어학시험과 자격시험 응시료 지원 신청을 접수한다. 이번 접수는 청년들의 취업 준비 과정에서 발생하는 시험 비용 부담을 낮추기 위한 ‘경기청년 역량강화 기회지원 사업’의 일환이다. 오산시는 미취업 청년이 구직 역량을 높이는 데 필요한 어학·자격시험 응시료를 지원해 취업 준비의 경제적 부담을 완화하는 데 초점을 맞췄다. 관련 신청은 11일부터 진행되며, 자세한 내용은 오산시가 안내하는 절차에 따라 확인할 수 있다. 출처: yna.co.kr"
-      },
-      "en": {
-        "title": "Osan to Open Exam Fee Support Applications for Unemployed Youth on 11th",
-        "excerpt": "Osan City in Gyeonggi Province will begin accepting applications from the 11th to support language and certification exam fees for unemployed young job seekers.",
-        "body": "Osan City in Gyeonggi Province will begin accepting applications from the 11th for support covering language and certification exam fees for unemployed youth. The measure is part of the “Gyeonggi Youth Competency Enhancement Opportunity Support Project,” designed to ease the burden of job preparation costs. By helping with exam fees needed for language tests and professional qualifications, Osan City aims to reduce financial pressure on young people preparing for employment. Applications will open from the 11th, with details to be checked through the city’s guidance. Source: yna.co.kr"
-      },
-      "ja": {
-        "title": "烏山市、未就業青年の語学・資格試験受験料支援を11日から受付",
-        "excerpt": "京畿道烏山市は11日から、未就業青年の就職準備負担を軽減するため、語学・資格試験受験料支援の申請を受け付ける。",
-        "body": "京畿道烏山市は11日から、未就業青年を対象に語学試験と資格試験の受験料支援申請を受け付ける。今回の受付は、青年の就職準備過程で発生する試験費用の負担を減らすための「京畿青年力量強化機会支援事業」の一環だ。烏山市は、未就業青年が求職能力を高めるために必要な語学・資格試験の受験料を支援し、就職準備に伴う経済的負担の緩和に重点を置く。申請は11日から始まり、詳細は市の案内手続きに従って確認できる。出典: yna.co.kr"
-      },
-      "zh": {
-        "title": "乌山市11日起受理未就业青年语言及资格考试费补助申请",
-        "excerpt": "京畿道乌山市将从11日起受理未就业青年语言和资格考试应试费补助申请，以减轻其就业准备负担。",
-        "body": "京畿道乌山市将从11日起，面向未就业青年受理语言考试和资格考试应试费补助申请。此次受理是“京畿青年能力强化机会支援项目”的一部分，旨在降低青年在就业准备过程中产生的考试费用负担。乌山市将通过补助未就业青年提升求职能力所需的语言及资格考试费用，重点缓解其就业准备中的经济压力。相关申请将于11日起进行，具体内容可按照乌山市发布的办理 안내 확인。来源: yna.co.kr"
-      },
-      "es": {
-        "title": "Osan abre el día 11 ayudas para tasas de exámenes a jóvenes desempleados",
-        "excerpt": "La ciudad de Osan, en Gyeonggi, recibirá desde el día 11 solicitudes de jóvenes desempleados para cubrir tasas de exámenes de idiomas y certificaciones.",
-        "body": "La ciudad de Osan, en la provincia de Gyeonggi, comenzará el día 11 a recibir solicitudes de jóvenes desempleados para apoyar el pago de tasas de exámenes de idiomas y de certificación. La medida forma parte del “Proyecto de apoyo a oportunidades para fortalecer capacidades de la juventud de Gyeonggi”, orientado a aliviar los costos de preparación laboral. Con esta ayuda, Osan busca reducir la carga económica de quienes necesitan pruebas de idiomas o cualificaciones para mejorar su capacidad de búsqueda de empleo. Las solicitudes se abrirán el día 11 y los detalles deberán consultarse según la guía municipal. Fuente: yna.co.kr"
-      },
-      "pt": {
-        "title": "Osan recebe no dia 11 pedidos de apoio a taxas de exames para jovens sem emprego",
-        "excerpt": "A cidade de Osan, em Gyeonggi, começará no dia 11 a receber pedidos de apoio para taxas de exames de idiomas e certificações de jovens desempregados.",
-        "body": "A cidade de Osan, na província de Gyeonggi, começará no dia 11 a receber pedidos de apoio para taxas de exames de idiomas e de certificação destinados a jovens desempregados. A iniciativa integra o “Projeto de Apoio a Oportunidades para Fortalecimento de Competências dos Jovens de Gyeonggi”, criado para aliviar custos ligados à preparação para o emprego. Ao apoiar taxas de exames necessários para idiomas e qualificações, Osan busca reduzir a pressão financeira sobre jovens que se preparam para ingressar no mercado de trabalho. As inscrições começam no dia 11, conforme orientação da cidade. Fonte: yna.co.kr"
-      },
-      "de": {
-        "title": "Osan nimmt ab dem 11. Anträge auf Prüfungsgebührenhilfe für arbeitslose Jugendliche an",
-        "excerpt": "Die Stadt Osan in Gyeonggi nimmt ab dem 11. Anträge arbeitsloser junger Menschen auf Unterstützung für Sprach- und Qualifikationsprüfungen entgegen.",
-        "body": "Die Stadt Osan in der Provinz Gyeonggi nimmt ab dem 11. Anträge von arbeitslosen jungen Menschen auf Unterstützung bei Gebühren für Sprach- und Qualifikationsprüfungen entgegen. Die Maßnahme ist Teil des „Gyeonggi Youth Competency Enhancement Opportunity Support Project“ und soll die Kostenbelastung während der Vorbereitung auf eine Beschäftigung senken. Osan konzentriert sich darauf, jungen Arbeitssuchenden die finanziellen Lasten von Prüfungen zu erleichtern, die für Sprachkenntnisse und berufliche Qualifikationen benötigt werden. Die Antragstellung beginnt am 11.; Einzelheiten sind über die städtischen Hinweise zu prüfen. Quelle: yna.co.kr"
-      },
-      "fr": {
-        "title": "Osan ouvrira le 11 les demandes d’aide aux frais d’examen pour jeunes sans emploi",
-        "excerpt": "La ville d’Osan, dans le Gyeonggi, acceptera dès le 11 les demandes d’aide aux frais d’examens de langues et de certifications pour jeunes sans emploi.",
-        "body": "La ville d’Osan, dans la province du Gyeonggi, commencera le 11 à recevoir les demandes de jeunes sans emploi pour une aide aux frais d’examens de langues et de certifications. Cette mesure s’inscrit dans le « Projet de soutien aux opportunités de renforcement des compétences des jeunes du Gyeonggi », destiné à alléger les coûts liés à la préparation à l’emploi. En soutenant les frais d’examens nécessaires aux compétences linguistiques et aux qualifications, Osan vise à réduire la pression financière pesant sur les jeunes en recherche d’emploi. Les demandes débuteront le 11, selon les informations fournies par la ville. Source: yna.co.kr"
-      },
-      "ar": {
-        "title": "أوسان تبدأ في 11 استقبال طلبات دعم رسوم اختبارات الشباب غير العاملين",
-        "excerpt": "تبدأ مدينة أوسان في مقاطعة غيونغي اعتبارا من 11 استقبال طلبات دعم رسوم اختبارات اللغة والشهادات للشباب غير العاملين لتخفيف عبء الاستعداد للتوظيف.",
-        "body": "تبدأ مدينة أوسان في مقاطعة غيونغي اعتبارا من 11 استقبال طلبات الشباب غير العاملين للحصول على دعم رسوم اختبارات اللغة واختبارات الشهادات. وتأتي هذه الخطوة ضمن “مشروع دعم فرص تعزيز قدرات شباب غيونغي”، الهادف إلى تخفيف تكاليف الاستعداد للتوظيف. وتركز أوسان على تقليل العبء المالي عن الشباب غير العاملين عبر دعم رسوم الاختبارات اللازمة لتحسين قدراتهم في البحث عن عمل، سواء في اللغات أو المؤهلات المهنية. تبدأ الطلبات في 11، ويمكن 확인 التفاصيل عبر إرشادات المدينة. المصدر: yna.co.kr"
-      },
-      "hi": {
-        "title": "ओसान में बेरोजगार युवाओं की भाषा व प्रमाणन परीक्षा फीस सहायता के आवेदन 11 से",
-        "excerpt": "ग्योंगगी प्रांत का ओसान शहर 11 तारीख से बेरोजगार युवाओं के लिए भाषा और प्रमाणन परीक्षा शुल्क सहायता के आवेदन स्वीकार करेगा।",
-        "body": "ग्योंगगी प्रांत का ओसान शहर 11 तारीख से बेरोजगार युवाओं के लिए भाषा परीक्षा और प्रमाणन परीक्षा शुल्क सहायता के आवेदन स्वीकार करेगा। यह कदम “ग्योंगगी युवा क्षमता सुदृढ़ीकरण अवसर सहायता परियोजना” का हिस्सा है, जिसका उद्देश्य रोजगार तैयारी के दौरान होने वाले परीक्षा खर्च का बोझ कम करना है। ओसान शहर उन बेरोजगार युवाओं पर ध्यान दे रहा है जिन्हें नौकरी खोजने की क्षमता बढ़ाने के लिए भाषा या योग्यता परीक्षाओं की जरूरत होती है। इस सहायता से रोजगार तैयारी की आर्थिक 부담 कम करने का लक्ष्य है। आवेदन 11 तारीख से शुरू होंगे और विवरण शहर के निर्देशों से 확인 किए जा सकते हैं। स्रोत: yna.co.kr"
-      },
-      "id": {
-        "title": "Osan Buka Pendaftaran Bantuan Biaya Ujian Bahasa dan Sertifikasi untuk Pemuda Menganggur Mulai 11",
-        "excerpt": "Kota Osan di Gyeonggi akan menerima pendaftaran mulai tanggal 11 untuk bantuan biaya ujian bahasa dan sertifikasi bagi pemuda yang belum bekerja.",
-        "body": "Kota Osan di Provinsi Gyeonggi akan mulai menerima pendaftaran pada tanggal 11 untuk bantuan biaya ujian bahasa dan ujian sertifikasi bagi pemuda yang belum bekerja. Program ini merupakan bagian dari “Proyek Dukungan Peluang Penguatan Kompetensi Pemuda Gyeonggi” yang bertujuan mengurangi beban biaya dalam persiapan kerja. Dengan membantu biaya ujian yang dibutuhkan untuk kemampuan bahasa dan kualifikasi, Osan berfokus meringankan tekanan finansial pemuda pencari kerja. Pendaftaran dibuka mulai tanggal 11, dengan rincian mengikuti panduan dari pemerintah kota. Sumber: yna.co.kr"
       }
     }
   }
