@@ -1,5 +1,230 @@
 [
   {
+    "id": "1d5f9a6dcd40",
+    "slug": "국가업종별-분산투자-ai-더-담아도-좋아-515297",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-05-10T09:53:41.147Z",
+    "updatedAt": "2026-05-10T09:53:41.147Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/stock/12042712",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12042712",
+    "titleFingerprint": "fd60b74a6812d04266e678c70046e060b5552fd3",
+    "dedupKeys": [
+      "1d5f9a6dcd40e23b475fd7290d06a4f408062136",
+      "fd60b74a6812d04266e678c70046e060b5552fd3",
+      "0fccaa10ef770241ab1efeb9b727079c8458044e"
+    ],
+    "imageUrl": "/images/articles/1d5f9a6dcd40.jpg",
+    "i18n": {
+      "ko": {
+        "title": "분산투자와 AI 비중 확대 조언, 2026 서울머니쇼의 ETF 투자 원칙",
+        "excerpt": "2026 서울머니쇼에서 전문가들은 코스피 사상 최고치 경신 속에서도 장기투자, 국가·업종별 분산투자, 리스크 관리를 ETF 투자 기본으로 강조했다.",
+        "body": "코스피가 연일 사상 최고치를 경신하는 주식시장 호황 속에서 열린 2026 서울머니쇼에서 전문가들은 ETF 투자자들에게 장기투자와 분산투자, 리스크 관리라는 기본 원칙을 다시 강조했다. 시장 분위기는 뜨거웠지만, 특정 국가나 업종에 쏠리기보다 국가·업종별로 자산을 나누는 접근이 필요하다는 설명이다. 동시에 인공지능(AI) 관련 투자 비중은 더 담아도 좋다는 조언도 제시됐다. 이는 상승장에서도 과도한 집중을 피하고 성장 테마를 선별적으로 활용하라는 메시지로 읽힌다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Diversification and More AI Exposure: ETF Lessons From 2026 Seoul Money Show",
+        "excerpt": "At the 2026 Seoul Money Show, experts said ETF investors should stick to long-term investing, country and sector diversification, and risk management despite record KOSPI highs.",
+        "body": "At the 2026 Seoul Money Show, held as the KOSPI continued to set record highs, experts again emphasized the basics for ETF investors: long-term investing, diversification, and risk management. Although the stock market mood was strong, they said investors should avoid concentrating too heavily in one country or sector and instead spread assets across countries and industries. They also advised that investors may add more exposure to artificial intelligence-related investments. The message was to avoid excessive concentration even in a rising market while selectively using growth themes. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "分散投資とAI比率拡大、2026ソウルマネーショーのETF投資原則",
+        "excerpt": "2026ソウルマネーショーで専門家は、KOSPIが最高値を更新する中でも長期投資、国・業種別分散、リスク管理をETF投資の基本と強調した。",
+        "body": "KOSPIが連日で史上最高値を更新する株式市場の好況下で開かれた2026ソウルマネーショーで、専門家はETF投資家に対し、長期投資、分散投資、リスク管理という基本原則を改めて強調した。市場の熱気は強いものの、特定の国や業種に偏るのではなく、国・業種別に資産を分ける姿勢が必要だと説明した。同時に、人工知能（AI）関連の投資比率はさらに高めてもよいとの助言も示された。上昇相場でも過度な集中を避け、成長テーマを選別的に活用すべきだというメッセージだ。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "分散投资与提高AI配置，2026首尔Money Show给出ETF原则",
+        "excerpt": "在2026首尔Money Show上，专家表示即使KOSPI屡创新高，ETF投资者仍应坚持长期投资、按国家和行业分散配置以及风险管理。",
+        "body": "在KOSPI连续刷新历史高点、股市气氛高涨之际举行的2026首尔Money Show上，专家再次向ETF投资者强调长期投资、分散投资和风险管理等基本原则。尽管市场热度较高，专家认为投资者不应过度集中于某一国家或行业，而需要按国家和行业分散资产配置。同时，他们也提出人工智能（AI）相关投资比重可以进一步增加。其核心信息是，即便处于上涨行情，也应避免过度集中，并有选择地运用成长主题。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Diversificación y más peso en IA: claves ETF del Seoul Money Show 2026",
+        "excerpt": "En el Seoul Money Show 2026, expertos dijeron que los inversores en ETF deben mantener inversión a largo plazo, diversificación por país y sector, y gestión de riesgos pese a récords del KOSPI.",
+        "body": "En el Seoul Money Show 2026, celebrado mientras el KOSPI seguía marcando máximos históricos, los expertos volvieron a subrayar para los inversores en ETF los principios básicos: inversión a largo plazo, diversificación y gestión de riesgos. Aunque el mercado bursátil atraviesa un momento favorable, señalaron que no conviene concentrarse en un solo país o sector, sino repartir los activos por países e industrias. También indicaron que puede aumentarse la exposición a inversiones relacionadas con inteligencia artificial (IA). El mensaje es evitar una concentración excesiva incluso en un mercado alcista y usar de forma selectiva los temas de crecimiento. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Diversificação e mais IA: princípios de ETF no Seoul Money Show 2026",
+        "excerpt": "No Seoul Money Show 2026, especialistas afirmaram que investidores em ETF devem manter investimento de longo prazo, diversificação por país e setor, e gestão de risco apesar dos recordes do KOSPI.",
+        "body": "No Seoul Money Show 2026, realizado enquanto o KOSPI renovava sucessivos recordes históricos, especialistas voltaram a destacar aos investidores em ETF os princípios básicos: investimento de longo prazo, diversificação e gestão de risco. Embora o ambiente do mercado acionário esteja aquecido, eles disseram que é melhor evitar concentração em um único país ou setor e distribuir os ativos por países e indústrias. Também foi apresentada a orientação de que a exposição a investimentos ligados à inteligência artificial (IA) pode ser ampliada. A mensagem é evitar concentração excessiva mesmo em alta e usar temas de crescimento de forma seletiva. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Diversifikation und mehr KI-Anteil: ETF-Grundsätze der Seoul Money Show 2026",
+        "excerpt": "Auf der Seoul Money Show 2026 betonten Experten trotz neuer KOSPI-Rekorde langfristiges Investieren, Streuung nach Ländern und Branchen sowie Risikomanagement als ETF-Basis.",
+        "body": "Auf der Seoul Money Show 2026, die inmitten einer Börsenhausse mit fortlaufenden KOSPI-Rekorden stattfand, hoben Experten für ETF-Anleger erneut die Grundsätze langfristiges Investieren, Diversifikation und Risikomanagement hervor. Trotz der starken Marktstimmung sollten Anleger sich nicht zu stark auf ein einzelnes Land oder eine einzelne Branche konzentrieren, sondern Vermögen nach Ländern und Sektoren streuen. Zugleich wurde geraten, den Anteil von Anlagen mit Bezug zu künstlicher Intelligenz (KI) weiter erhöhen zu können. Die Botschaft lautet, auch in steigenden Märkten übermäßige Konzentration zu vermeiden und Wachstumsthemen selektiv zu nutzen. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Diversification et plus d’IA : les principes ETF du Seoul Money Show 2026",
+        "excerpt": "Au Seoul Money Show 2026, des experts ont rappelé que les investisseurs ETF doivent privilégier long terme, diversification par pays et secteurs, et gestion du risque malgré les records du KOSPI.",
+        "body": "Au Seoul Money Show 2026, organisé alors que le KOSPI enchaînait les records historiques, les experts ont de nouveau rappelé aux investisseurs ETF les principes de base : investissement de long terme, diversification et gestion du risque. Malgré la vigueur du marché boursier, ils ont expliqué qu’il fallait éviter une concentration excessive sur un seul pays ou secteur et répartir les actifs par pays et par industries. Ils ont aussi indiqué qu’une exposition plus importante aux investissements liés à l’intelligence artificielle (IA) pouvait être envisagée. Le message consiste à éviter les paris trop concentrés même dans un marché haussier, tout en utilisant sélectivement les thèmes de croissance. Source : mk.co.kr"
+      },
+      "ar": {
+        "title": "التنويع وزيادة التعرض للذكاء الاصطناعي: مبادئ ETF من معرض سيول المالي 2026",
+        "excerpt": "في معرض سيول المالي 2026، أكد الخبراء أن مستثمري ETF عليهم التمسك بالاستثمار الطويل الأجل والتنويع حسب الدول والقطاعات وإدارة المخاطر رغم قمم كوسبي القياسية.",
+        "body": "في معرض سيول المالي 2026، الذي عُقد وسط ازدهار سوق الأسهم مع تسجيل مؤشر كوسبي مستويات قياسية متتالية، شدد الخبراء مجددا على أساسيات مستثمري ETF: الاستثمار طويل الأجل، والتنويع، وإدارة المخاطر. ورغم قوة أجواء السوق، أوضحوا أن المستثمرين ينبغي ألا يتركزوا في دولة أو قطاع واحد، بل يوزعوا الأصول بحسب الدول والقطاعات. كما قُدمت نصيحة بإمكانية زيادة الوزن في الاستثمارات المرتبطة بالذكاء الاصطناعي. وتتمثل الرسالة في تجنب التركيز المفرط حتى في السوق الصاعدة، مع استخدام موضوعات النمو بشكل انتقائي. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "विविधीकरण और AI में अधिक हिस्सेदारी: 2026 Seoul Money Show के ETF सिद्धांत",
+        "excerpt": "2026 Seoul Money Show में विशेषज्ञों ने कहा कि KOSPI के रिकॉर्ड उच्च स्तरों के बावजूद ETF निवेशकों को दीर्घकालिक निवेश, देश और सेक्टर आधारित विविधीकरण, और जोखिम प्रबंधन पर टिके रहना चाहिए।",
+        "body": "KOSPI के लगातार रिकॉर्ड उच्च स्तर छूने से बने मजबूत शेयर बाजार माहौल में आयोजित 2026 Seoul Money Show में विशेषज्ञों ने ETF निवेशकों के लिए फिर बुनियादी सिद्धांतों पर जोर दिया: दीर्घकालिक निवेश, विविधीकरण और जोखिम प्रबंधन। बाजार में तेजी के बावजूद, उन्होंने कहा कि निवेशकों को किसी एक देश या सेक्टर में अत्यधिक केंद्रित होने के बजाय देशों और उद्योगों के हिसाब से परिसंपत्तियां बांटनी चाहिए। साथ ही, कृत्रिम बुद्धिमत्ता (AI) से जुड़े निवेशों में हिस्सेदारी और बढ़ाई जा सकती है, यह सलाह भी दी गई। संदेश यह है कि तेजी के बाजार में भी अत्यधिक एकाग्रता से बचते हुए वृद्धि विषयों का चयनात्मक उपयोग किया जाए। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Diversifikasi dan Porsi AI Lebih Besar: Prinsip ETF Seoul Money Show 2026",
+        "excerpt": "Di Seoul Money Show 2026, para ahli menekankan investasi jangka panjang, diversifikasi negara dan sektor, serta manajemen risiko bagi investor ETF meski KOSPI terus mencetak rekor tertinggi.",
+        "body": "Di Seoul Money Show 2026, yang digelar saat KOSPI terus mencetak rekor tertinggi di tengah kuatnya pasar saham, para ahli kembali menekankan prinsip dasar bagi investor ETF: investasi jangka panjang, diversifikasi, dan manajemen risiko. Meski suasana pasar sedang positif, mereka menjelaskan bahwa investor sebaiknya tidak terlalu terkonsentrasi pada satu negara atau sektor, melainkan membagi aset berdasarkan negara dan industri. Pada saat yang sama, mereka juga menyampaikan bahwa porsi investasi terkait kecerdasan buatan (AI) dapat ditambah. Pesannya adalah menghindari konsentrasi berlebihan bahkan di pasar naik, sambil memanfaatkan tema pertumbuhan secara selektif. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "2d0ca53fe597",
+    "slug": "엔비디아-이번에도-깜짝-실적-전망-중요한-건-2분기-가이던스-258256",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-05-10T09:52:44.302Z",
+    "updatedAt": "2026-05-10T09:52:44.302Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/stock/12042714",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12042714",
+    "titleFingerprint": "543cc002573e99e280b91a5948315ec53e8ac870",
+    "dedupKeys": [
+      "2d0ca53fe5977c493e7082273d3c04e5a52731af",
+      "543cc002573e99e280b91a5948315ec53e8ac870",
+      "6a01962e62966680c16ca37c92b7019915fd5246"
+    ],
+    "imageUrl": "/images/articles/2d0ca53fe597.jpg",
+    "i18n": {
+      "ko": {
+        "title": "엔비디아 깜짝 실적 전망, AI 반도체 주가 향방은 2분기 가이던스에 주목",
+        "excerpt": "이번주 불앤베어 위클리는 엔비디아의 깜짝 실적 전망과 미국 AI 반도체 주가 흐름을 짚고, 반도체 사이클 형성 배경과 2분기 가이던스의 중요성을 다룬다.",
+        "body": "엔비디아가 이번에도 시장의 예상을 웃도는 ‘깜짝 실적’을 낼 수 있다는 전망이 제기되는 가운데, 이번주 불앤베어 위클리는 미국 인공지능(AI) 반도체 주가 전망을 핵심 주제로 다뤘다. 보도는 최근 반도체 사이클이 형성되는 근본적인 원인을 살펴보고, 향후 흐름을 모색하는 데 초점을 맞췄다. 특히 엔비디아 실적 자체뿐 아니라 이후 제시될 2분기 가이던스가 투자자 판단의 중요한 기준으로 거론된다. AI 반도체 관련 주가가 어떤 방향으로 움직일지에 대한 관심도 이어지고 있다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Nvidia Surprise Earnings Outlook Puts Focus on Q2 Guidance and AI Chip Stocks",
+        "excerpt": "This week’s Bull & Bear Weekly examines Nvidia’s expected surprise results, the outlook for U.S. AI semiconductor stocks, the semiconductor cycle, and why Q2 guidance matters.",
+        "body": "As expectations build that Nvidia may once again deliver earnings above market forecasts, this week’s Bull & Bear Weekly focuses on the outlook for U.S. artificial intelligence semiconductor stocks. The report looks at the fundamental reasons behind the recent formation of a semiconductor cycle and explores possible future developments. The key point is not only Nvidia’s earnings themselves, but also the second-quarter guidance to be presented afterward. That guidance is being cited as an important reference for investors assessing the direction of AI chip-related share prices. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "エヌビディアのサプライズ決算見通し、AI半導体株は第2四半期ガイダンスに注目",
+        "excerpt": "今週のブル＆ベア・ウィークリーは、エヌビディアのサプライズ決算見通しと米AI半導体株の行方、半導体サイクルの背景、第2四半期ガイダンスの重要性を取り上げる。",
+        "body": "エヌビディアが今回も市場予想を上回る「サプライズ決算」を出す可能性があるとの見方が出る中、今週のブル＆ベア・ウィークリーは米国の人工知能（AI）半導体株の見通しを主要テーマとして扱った。報道では、最近半導体サイクルが形成されている根本的な要因を確認し、今後の流れを探ることに焦点を当てている。特にエヌビディアの決算そのものだけでなく、その後に示される第2四半期ガイダンスが投資家判断の重要な基準として挙げられている。AI半導体関連株の方向性への関心も続いている。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "英伟达惊喜业绩预期升温，AI半导体股聚焦第二季度指引",
+        "excerpt": "本周《Bull & Bear Weekly》关注英伟达惊喜业绩预期、美国AI半导体股走势、半导体周期形成背景，以及第二季度指引为何重要。",
+        "body": "在市场预期英伟达可能再次交出高于预期的“惊喜业绩”之际，本周《Bull & Bear Weekly》将美国人工智能（AI）半导体股前景作为核心议题。报道梳理了近期半导体周期形成的根本原因，并探讨未来走势。重点不仅在于英伟达业绩本身，还在于随后发布的第二季度指引。该指引被视为投资者判断AI半导体相关股价方向的重要依据。市场对AI半导体股后续走向的关注仍在持续。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Nvidia y su posible sorpresa de resultados: la clave estará en la guía del segundo trimestre",
+        "excerpt": "Bull & Bear Weekly analiza esta semana la posible sorpresa de resultados de Nvidia, la perspectiva de las acciones de semiconductores de IA en EE. UU. y la importancia de la guía del segundo trimestre.",
+        "body": "Mientras crecen las expectativas de que Nvidia vuelva a presentar unos resultados por encima de lo previsto por el mercado, Bull & Bear Weekly aborda esta semana la perspectiva de las acciones estadounidenses de semiconductores vinculados a la inteligencia artificial (IA). El informe revisa las razones fundamentales detrás de la reciente formación del ciclo de semiconductores y busca pistas sobre su evolución futura. El punto clave no es solo el resultado de Nvidia, sino también la guía del segundo trimestre que se dará después. Esa referencia se considera importante para que los inversores evalúen la dirección de las acciones relacionadas con chips de IA. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Nvidia pode surpreender nos resultados, mas foco está na projeção do segundo trimestre",
+        "excerpt": "O Bull & Bear Weekly desta semana analisa a possível surpresa nos resultados da Nvidia, as ações de semicondutores de IA nos EUA, o ciclo do setor e a relevância da projeção do segundo trimestre.",
+        "body": "Com a expectativa de que a Nvidia possa novamente divulgar resultados acima das previsões do mercado, o Bull & Bear Weekly desta semana trata da perspectiva para as ações americanas de semicondutores ligados à inteligência artificial (IA). A reportagem examina os motivos fundamentais por trás da recente formação do ciclo de semicondutores e busca avaliar os próximos movimentos. O ponto central não é apenas o resultado da Nvidia, mas também a projeção para o segundo trimestre que será apresentada depois. Essa orientação é citada como uma referência importante para investidores avaliarem a direção das ações relacionadas a chips de IA. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Nvidia vor möglicher Ergebnisüberraschung: Entscheidend wird die Prognose für das zweite Quartal",
+        "excerpt": "Bull & Bear Weekly beleuchtet diese Woche Nvidias erwartete Ergebnisüberraschung, den Ausblick für US-AI-Halbleiteraktien, den Chipzyklus und die Bedeutung der Q2-Prognose.",
+        "body": "Während die Erwartung wächst, dass Nvidia erneut Ergebnisse über den Markterwartungen vorlegen könnte, stellt Bull & Bear Weekly in dieser Woche den Ausblick für US-Halbleiteraktien im Bereich künstliche Intelligenz (KI) in den Mittelpunkt. Der Bericht betrachtet die grundlegenden Ursachen für die jüngste Entstehung eines Halbleiterzyklus und sucht nach Hinweisen auf die weitere Entwicklung. Entscheidend ist dabei nicht nur Nvidias Ergebnis selbst, sondern auch die anschließend veröffentlichte Prognose für das zweite Quartal. Sie gilt als wichtiger Maßstab für Investoren, die die Richtung von Aktien rund um AI-Chips einschätzen wollen. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Nvidia attendue sur une nouvelle surprise de résultats, le vrai test sera la guidance du T2",
+        "excerpt": "Bull & Bear Weekly examine cette semaine la possible surprise de résultats de Nvidia, les actions américaines de semi-conducteurs IA, le cycle du secteur et le rôle clé de la guidance du T2.",
+        "body": "Alors que Nvidia pourrait de nouveau publier des résultats supérieurs aux attentes du marché, Bull & Bear Weekly consacre cette semaine son analyse aux perspectives des actions américaines de semi-conducteurs liés à l’intelligence artificielle (IA). L’article revient sur les causes fondamentales de la formation récente d’un cycle des semi-conducteurs et cherche à cerner les évolutions possibles. L’enjeu ne se limite pas aux résultats de Nvidia eux-mêmes: la guidance du deuxième trimestre publiée ensuite est présentée comme un repère important pour les investisseurs. L’attention reste donc portée sur la direction que prendront les valeurs liées aux puces IA. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "توقعات مفاجأة أرباح إنفيديا تضع أسهم رقائق الذكاء الاصطناعي أمام اختبار توجيهات الربع الثاني",
+        "excerpt": "يتناول Bull & Bear Weekly هذا الأسبوع توقعات مفاجأة أرباح إنفيديا، وآفاق أسهم أشباه الموصلات المرتبطة بالذكاء الاصطناعي في الولايات المتحدة، وأهمية توجيهات الربع الثاني.",
+        "body": "مع تزايد التوقعات بأن تحقق إنفيديا مرة أخرى نتائج تفوق تقديرات السوق، يركز Bull & Bear Weekly هذا الأسبوع على آفاق أسهم أشباه الموصلات المرتبطة بالذكاء الاصطناعي في الولايات المتحدة. ويبحث التقرير في الأسباب الأساسية لتشكل دورة أشباه الموصلات مؤخرا، كما يستعرض المسار المحتمل في الفترة المقبلة. ولا تقتصر الأهمية على نتائج إنفيديا نفسها، بل تمتد إلى توجيهات الربع الثاني التي ستصدر لاحقا. وتعد هذه التوجيهات معيارا مهما للمستثمرين عند تقييم اتجاه أسهم رقائق الذكاء الاصطناعي. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "एनवीडिया की संभावित सरप्राइज कमाई पर नजर, AI चिप शेयरों के लिए Q2 गाइडेंस अहम",
+        "excerpt": "इस सप्ताह Bull & Bear Weekly ने एनवीडिया की संभावित सरप्राइज कमाई, अमेरिकी AI सेमीकंडक्टर शेयरों के आउटलुक, चिप साइकिल और दूसरी तिमाही गाइडेंस की अहमियत पर चर्चा की।",
+        "body": "जब बाजार में यह उम्मीद बन रही है कि एनवीडिया एक बार फिर अनुमान से बेहतर ‘सरप्राइज’ नतीजे दे सकती है, इस सप्ताह Bull & Bear Weekly ने अमेरिकी आर्टिफिशियल इंटेलिजेंस (AI) सेमीकंडक्टर शेयरों के आउटलुक को मुख्य विषय बनाया। रिपोर्ट में हाल में बन रहे सेमीकंडक्टर साइकिल के मूल कारणों को देखा गया और आगे की दिशा तलाशने पर जोर दिया गया। अहम बात केवल एनवीडिया के नतीजे नहीं हैं, बल्कि उसके बाद आने वाला दूसरी तिमाही का गाइडेंस भी है। निवेशकों के लिए AI चिप से जुड़े शेयरों की दिशा समझने में यह गाइडेंस महत्वपूर्ण आधार माना जा रहा है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Prospek Laba Kejutan Nvidia Menguat, Saham Chip AI Menanti Panduan Kuartal Kedua",
+        "excerpt": "Bull & Bear Weekly pekan ini membahas prospek laba kejutan Nvidia, arah saham semikonduktor AI AS, latar siklus semikonduktor, dan pentingnya panduan kuartal kedua.",
+        "body": "Di tengah ekspektasi bahwa Nvidia kembali dapat mencatat hasil yang melampaui perkiraan pasar, Bull & Bear Weekly pekan ini menyoroti prospek saham semikonduktor kecerdasan buatan (AI) di Amerika Serikat. Laporan tersebut melihat penyebab mendasar terbentuknya siklus semikonduktor baru-baru ini dan menelaah arah berikutnya. Fokusnya bukan hanya pada kinerja Nvidia itu sendiri, tetapi juga pada panduan kuartal kedua yang akan disampaikan setelahnya. Panduan itu disebut sebagai acuan penting bagi investor dalam menilai arah saham terkait chip AI. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "e6167c0a5e9f",
+    "slug": "트럼프-1415일-방중-삼성전자-파업-여부도-변수-600050",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-05-10T09:51:43.436Z",
+    "updatedAt": "2026-05-10T09:51:43.436Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/stock/12042715",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12042715",
+    "titleFingerprint": "528082b9d7a5f28b14f3ce8f651d7bf04fccfc04",
+    "dedupKeys": [
+      "e6167c0a5e9f9429eb3c57c078d776cf44cbe951",
+      "528082b9d7a5f28b14f3ce8f651d7bf04fccfc04",
+      "a9c8331b13b4f4d513671a9030fc28f3e90fa2cc"
+    ],
+    "imageUrl": "/images/articles/e6167c0a5e9f.jpg",
+    "i18n": {
+      "ko": {
+        "title": "트럼프 14~15일 방중 앞둔 코스피, 삼성전자 파업 변수 부상",
+        "excerpt": "이번 주 코스피는 지난주 13% 넘게 오른 뒤 7498에 마감한 가운데, 트럼프의 14~15일 방중과 삼성전자 파업 여부, 거시경제 부담이 주요 변수로 떠올랐다.",
+        "body": "코스피가 이번 주에도 상승세를 이어갈지, 숨 고르기에 들어갈지 시장의 관심이 쏠리고 있다. 지난주 코스피는 한 주 동안 13% 넘게 뛰며 7498에 마감했다. 그러나 이번 주에는 거시경제 부담과 지정학 변수가 동시에 부각된다. 특히 트럼프의 14~15일 방중 일정이 시장 심리에 영향을 줄 수 있는 변수로 거론된다. 여기에 삼성전자 파업 여부도 국내 증시 흐름을 가를 요인으로 떠올랐다. 급등 이후 차익 실현 압력과 대외 변수의 파장이 맞물리며 코스피가 추가 상승을 이어갈지, 조정 국면에 들어설지 주목된다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "KOSPI Faces Trump China Visit on May 14-15, Samsung Strike Risk",
+        "excerpt": "After jumping more than 13% last week to close at 7,498, the KOSPI faces macro pressure, Trump’s May 14-15 China visit and the possibility of a Samsung Electronics strike.",
+        "body": "Attention is turning to whether the KOSPI can keep rising this week or enter a period of consolidation. Last week, the index climbed more than 13% over the week and closed at 7,498. This week, however, macroeconomic burdens and geopolitical variables are emerging at the same time. Trump’s scheduled visit to China on May 14-15 is being cited as a factor that could affect market sentiment. The possibility of a Samsung Electronics strike is also becoming a variable for the domestic stock market. After the sharp rally, profit-taking pressure and external factors may determine whether the KOSPI extends gains or moves into correction. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "トランプ氏14〜15日訪中控えKOSPI、サムスン電子ストも焦点",
+        "excerpt": "先週13％超上昇し7498で引けたKOSPIは今週、マクロ経済負担、トランプ氏の14〜15日訪中、サムスン電子ストの有無が主な変数となる。",
+        "body": "KOSPIが今週も上昇を続けるのか、それとも一服局面に入るのか、市場の関心が集まっている。先週のKOSPIは1週間で13％超上昇し、7498で取引を終えた。ただ今週は、マクロ経済上の負担と地政学的な変数が同時に浮上している。特にトランプ氏の14〜15日の訪中日程は、市場心理に影響を及ぼし得る要因として挙げられる。さらにサムスン電子のストライキ実施 여부も、韓国株式市場の流れを左右する材料となっている。急騰後の利益確定圧力と対外要因が重なり、KOSPIが追加上昇するか調整に入るかが注目される。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "特朗普14至15日访华在即，KOSPI面临三星电子罢工变量",
+        "excerpt": "KOSPI上周大涨逾13%并收于7498点后，本周将面对宏观经济压力、特朗普14至15日访华以及三星电子是否罢工等关键变量。",
+        "body": "市场正关注KOSPI本周能否延续涨势，还是进入休整阶段。上周KOSPI一周内上涨超过13%，收于7498点。不过，本周宏观经济压力与地缘政治变量同时浮现。尤其是特朗普14至15日访华行程，被视为可能影响市场情绪的因素。与此同时，三星电子是否罢工也成为左右韩国股市走势的变量。快速上涨之后，获利回吐压力与外部因素相互叠加，KOSPI是继续上行还是转入调整，将受到市场关注。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "KOSPI ante la visita de Trump a China del 14-15 y posible huelga de Samsung",
+        "excerpt": "Tras subir más de 13% la semana pasada y cerrar en 7.498, el KOSPI afronta presión macro, la visita de Trump a China del 14 al 15 y la posible huelga de Samsung Electronics.",
+        "body": "El mercado observa si el KOSPI podrá seguir avanzando esta semana o si entrará en una fase de pausa. La semana pasada, el índice subió más de 13% y cerró en 7.498. Sin embargo, esta semana coinciden cargas macroeconómicas y variables geopolíticas. En particular, la visita de Trump a China prevista para el 14 y 15 se menciona como un factor que podría afectar el ánimo del mercado. También la posibilidad de una huelga en Samsung Electronics aparece como una variable para la bolsa local. Tras el fuerte repunte, la presión de toma de ganancias y los factores externos definirán si el KOSPI prolonga las alzas o pasa a una corrección. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "KOSPI encara visita de Trump à China em 14-15 e risco de greve na Samsung",
+        "excerpt": "Depois de subir mais de 13% na semana passada e fechar em 7.498, o KOSPI enfrenta pressão macro, a visita de Trump à China em 14-15 e a possível greve da Samsung Electronics.",
+        "body": "O mercado acompanha se o KOSPI continuará avançando nesta semana ou se entrará em uma fase de pausa. Na semana passada, o índice subiu mais de 13% e fechou em 7.498. Agora, porém, pressões macroeconômicas e variáveis geopolíticas surgem ao mesmo tempo. A visita de Trump à China, marcada para os dias 14 e 15, é citada como fator capaz de influenciar o sentimento do mercado. A possibilidade de greve na Samsung Electronics também se tornou uma variável para a bolsa doméstica. Após a forte alta, a pressão por realização de lucros e fatores externos devem indicar se o KOSPI seguirá em alta ou entrará em correção. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "KOSPI vor Trumps China-Besuch am 14.-15. und möglichem Samsung-Streik",
+        "excerpt": "Nach einem Plus von mehr als 13% in der Vorwoche und einem Schluss bei 7.498 rücken für den KOSPI Makrodruck, Trumps China-Besuch am 14.-15. und ein möglicher Samsung-Streik in den Fokus.",
+        "body": "Der Markt blickt darauf, ob der KOSPI in dieser Woche weiter steigen kann oder in eine Verschnaufpause übergeht. In der vergangenen Woche legte der Index um mehr als 13% zu und schloss bei 7.498. Nun treten jedoch makroökonomische Belastungen und geopolitische Variablen gleichzeitig hervor. Besonders Trumps für den 14. und 15. geplante China-Reise wird als Faktor genannt, der die Marktstimmung beeinflussen könnte. Auch die Frage eines Streiks bei Samsung Electronics wird zu einer wichtigen Variable für den heimischen Aktienmarkt. Nach dem starken Anstieg dürften Gewinnmitnahmen und externe Faktoren entscheiden, ob der KOSPI weiter zulegt oder korrigiert. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Le KOSPI face à la visite de Trump en Chine les 14-15 et au risque Samsung",
+        "excerpt": "Après une hausse de plus de 13% la semaine dernière et une clôture à 7 498, le KOSPI affronte la pression macro, la visite de Trump en Chine les 14-15 et le risque de grève chez Samsung Electronics.",
+        "body": "Les marchés se demandent si le KOSPI poursuivra sa hausse cette semaine ou s’il entrera dans une phase de pause. La semaine dernière, l’indice a gagné plus de 13% et a clôturé à 7 498. Cette semaine, toutefois, les pressions macroéconomiques et les variables géopolitiques se manifestent simultanément. La visite de Trump en Chine prévue les 14 et 15 est citée comme un facteur pouvant influencer le sentiment du marché. La possibilité d’une grève chez Samsung Electronics devient également une variable pour la Bourse locale. Après la forte progression, les prises de bénéfices et les facteurs externes détermineront si le KOSPI prolonge sa hausse ou corrige. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "كوسبي يترقب زيارة ترامب للصين في 14 و15 واحتمال إضراب سامسونغ",
+        "excerpt": "بعد ارتفاع كوسبي بأكثر من 13% الأسبوع الماضي وإغلاقه عند 7498، يواجه المؤشر هذا الأسبوع ضغوطا اقتصادية كلية وزيارة ترامب للصين في 14 و15 واحتمال إضراب سامسونغ إلكترونيكس.",
+        "body": "تتجه الأنظار إلى ما إذا كان مؤشر كوسبي سيواصل صعوده هذا الأسبوع أم سيدخل مرحلة التقاط أنفاس. فقد ارتفع المؤشر الأسبوع الماضي بأكثر من 13% خلال أسبوع واحد وأغلق عند 7498. لكن هذا الأسبوع تبدأ ضغوط الاقتصاد الكلي والمتغيرات الجيوسياسية بالظهور معا. وتبرز زيارة ترامب المقررة إلى الصين يومي 14 و15 كعامل قد يؤثر في معنويات السوق. كما أن احتمال إضراب سامسونغ إلكترونيكس أصبح متغيرا قد يحدد اتجاه سوق الأسهم المحلية. وبعد الصعود الحاد، قد تتداخل ضغوط جني الأرباح مع العوامل الخارجية لتحديد ما إذا كان كوسبي سيواصل الارتفاع أم يدخل مرحلة تصحيح. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "14-15 मई ट्रंप चीन दौरे से पहले KOSPI, Samsung हड़ताल भी अहम जोखिम",
+        "excerpt": "पिछले सप्ताह 13% से अधिक चढ़कर 7,498 पर बंद हुए KOSPI के लिए इस सप्ताह व्यापक आर्थिक दबाव, ट्रंप का 14-15 मई चीन दौरा और Samsung Electronics की संभावित हड़ताल प्रमुख कारक हैं।",
+        "body": "बाजार की नजर इस बात पर है कि KOSPI इस सप्ताह भी तेजी जारी रखेगा या विराम की स्थिति में जाएगा। पिछले सप्ताह सूचकांक एक सप्ताह में 13% से अधिक उछलकर 7,498 पर बंद हुआ। लेकिन इस सप्ताह व्यापक आर्थिक बोझ और भू-राजनीतिक कारक एक साथ सामने आ रहे हैं। खास तौर पर 14 और 15 मई को ट्रंप की निर्धारित चीन यात्रा को बाजार धारणा पर असर डाल सकने वाला कारक माना जा रहा है। इसके साथ Samsung Electronics में हड़ताल होगी या नहीं, यह भी घरेलू शेयर बाजार की दिशा तय करने वाला मुद्दा बन गया है। तेज उछाल के बाद मुनाफावसूली का दबाव और बाहरी कारक मिलकर तय करेंगे कि KOSPI और चढ़ेगा या सुधार में जाएगा। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "KOSPI Menanti Kunjungan Trump ke China 14-15 dan Risiko Mogok Samsung",
+        "excerpt": "Setelah naik lebih dari 13% pekan lalu dan ditutup di 7.498, KOSPI pekan ini menghadapi tekanan makro, kunjungan Trump ke China pada 14-15, serta potensi mogok Samsung Electronics.",
+        "body": "Pasar mencermati apakah KOSPI akan terus melaju pekan ini atau mulai memasuki fase jeda. Pekan lalu, indeks naik lebih dari 13% dalam sepekan dan ditutup di 7.498. Namun pekan ini, beban makroekonomi dan variabel geopolitik muncul bersamaan. Kunjungan Trump ke China yang dijadwalkan pada 14-15 disebut sebagai faktor yang dapat memengaruhi sentimen pasar. Selain itu, kemungkinan mogok di Samsung Electronics juga menjadi variabel bagi pergerakan bursa domestik. Setelah reli tajam, tekanan ambil untung dan faktor eksternal akan menentukan apakah KOSPI melanjutkan kenaikan atau masuk fase koreksi. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
     "id": "f5f2155604d7",
     "slug": "도박판-오명-코스닥-바뀔까-시총보다-실적-중심-평가-예고-180548",
     "channelId": "ETF",
@@ -4271,231 +4496,6 @@
         "title": "Pajak capital gain tambahan untuk pemilik banyak rumah berlaku lagi hari ini, tarif tertinggi 82,5%",
         "excerpt": "Menurut Yonhap News, Korea Selatan kembali menerapkan mulai hari ini skema pajak capital gain tambahan bagi pemilik banyak rumah setelah empat tahun, dengan tarif tertinggi 82,5%.",
         "body": "Skema pajak capital gain tambahan bagi pemilik banyak rumah kembali berlaku hari ini di Korea Selatan. Menurut laporan dari Seoul oleh reporter Yonhap News Oh Jin-song, sistem ini dimulai lagi setelah empat tahun dan meningkatkan beban pajak saat pemilik beberapa rumah menjual properti hunian. Tarif maksimum yang disebutkan dalam laporan tersebut adalah 82,5%. Penerapan kembali ini berarti skema tambahan kembali masuk dalam kerangka pajak bagi pemilik banyak rumah, sehingga menjadi faktor pajak langsung bagi pemilik hunian dan pihak yang berencana menjual. Artikel ini mengutip laporan yna.co.kr."
-      }
-    }
-  },
-  {
-    "id": "3a22ae444eb8",
-    "slug": "김해-풍유물류단지-무산-위기에-공공의료원-건립도-표류-우려-760076",
-    "channelId": "ETF",
-    "category": "etf",
-    "publishedAt": "2026-05-09T20:26:06.992Z",
-    "updatedAt": "2026-05-09T20:26:06.992Z",
-    "sourceName": "yna.co.kr",
-    "sourceUrl": "https://www.yna.co.kr/view/AKR20260508044100052",
-    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260508044100052",
-    "titleFingerprint": "19cc06148ca45991712a3127046dcaf5ace5b527",
-    "dedupKeys": [
-      "3a22ae444eb8a3df3b4ab3b4696c196b89e6f2d7",
-      "19cc06148ca45991712a3127046dcaf5ace5b527",
-      "b2a4898eba0af378075aacc9dc18d56e27005223"
-    ],
-    "imageUrl": "/images/articles/3a22ae444eb8.jpg",
-    "i18n": {
-      "ko": {
-        "title": "김해 풍유물류단지 무산 위기, 공공의료원 건립 표류 우려 커져",
-        "excerpt": "경남 김해시에서 20년 넘게 추진된 풍유일반물류단지 사업이 무산될 위기에 놓이면서 공공의료원 건립 계획도 표류할 수 있다는 우려가 제기됐다.",
-        "body": "경남 김해시에서 20년 넘게 추진돼 온 풍유일반물류단지 사업이 무산될 위기에 처하면서, 이와 맞물린 공공의료원 건립도 표류할 수 있다는 우려가 커지고 있다. 해당 사업은 장기간 추진돼 온 지역 물류단지 조성 계획으로, 김해시의 주요 현안 중 하나로 다뤄져 왔다. 그러나 사업 자체가 좌초될 가능성이 제기되면서 관련 공공의료 인프라 계획에도 불확실성이 커진 상황이다. 향후 사업 추진 여부에 따라 물류단지뿐 아니라 공공의료원 건립 일정과 방향도 영향을 받을 전망이다. 출처: yna.co.kr"
-      },
-      "en": {
-        "title": "Gimhae Pungyu Logistics Complex at Risk, Public Hospital Plan in Doubt",
-        "excerpt": "A logistics complex project pursued for more than 20 years in Gimhae, South Gyeongsang Province, faces possible cancellation, raising concern over a linked public medical center plan.",
-        "body": "In Gimhae, South Gyeongsang Province, the Pungyu General Logistics Complex project, pursued for more than 20 years, is facing the risk of falling through, raising concerns that a related public medical center plan could also drift. The project has long been promoted as a regional logistics complex plan and has been treated as one of Gimhae’s key local issues. With the project itself now at risk of collapse, uncertainty has grown over plans for related public medical infrastructure. Whether the logistics project proceeds is expected to affect not only the complex but also the schedule and direction of the public medical center. Source: yna.co.kr"
-      },
-      "ja": {
-        "title": "金海・豊裕物流団地が白紙化危機、公共医療院計画にも停滞懸念",
-        "excerpt": "慶尚南道金海市で20年以上進められてきた豊裕一般物流団地事業が白紙化の危機に直面し、公共医療院建設計画への影響も懸念されている。",
-        "body": "慶尚南道金海市で20年以上にわたり進められてきた豊裕一般物流団地事業が白紙化の危機に直面し、これと関連する公共医療院の建設も停滞するのではないかとの懸念が強まっている。同事業は地域の物流団地造成計画として長期にわたり推進され、金海市の主要懸案の一つとして扱われてきた。しかし事業自体が頓挫する可能性が浮上したことで、関連する公共医療インフラ計画にも不確実性が広がっている。今後の事業推進の可否は、物流団地だけでなく公共医療院の建設日程や方向にも影響を及ぼす見通しだ。出典: yna.co.kr"
-      },
-      "zh": {
-        "title": "金海丰裕物流园面临搁浅，公共医疗院建设也恐受影响",
-        "excerpt": "韩国庆南金海市推进逾20年的丰裕一般物流园项目面临取消危机，外界担忧相关公共医疗院建设计划也可能陷入停滞。",
-        "body": "韩国庆尚南道金海市推进20多年的丰裕一般物流园项目正面临搁浅危机，由此引发对相关公共医疗院建设也可能停滞的担忧。该项目长期作为地区物流园建设计划推进，并被视为金海市的重要地方议题之一。然而，随着项目本身可能告吹，相关公共医疗基础设施计划的不确定性也随之增加。未来该项目能否继续推进，预计不仅会影响物流园建设，也将影响公共医疗院的建设日程和方向。来源: yna.co.kr"
-      },
-      "es": {
-        "title": "Complejo logístico Pungyu de Gimhae en riesgo y hospital público en duda",
-        "excerpt": "El proyecto del complejo logístico Pungyu en Gimhae, Gyeongsang del Sur, impulsado durante más de 20 años, enfrenta riesgo de cancelación y genera dudas sobre un centro médico público vinculado.",
-        "body": "En Gimhae, provincia de Gyeongsang del Sur, el proyecto del Complejo Logístico General Pungyu, promovido durante más de 20 años, enfrenta el riesgo de quedar cancelado, lo que aumenta la preocupación por el posible estancamiento de un centro médico público relacionado. El plan ha sido impulsado durante largo tiempo como un proyecto regional de infraestructura logística y ha figurado entre los asuntos principales de la ciudad. Sin embargo, al surgir la posibilidad de que el proyecto se frustre, también crece la incertidumbre sobre la infraestructura médica pública vinculada. La continuidad del complejo determinará el calendario y la dirección del centro médico público. Fuente: yna.co.kr"
-      },
-      "pt": {
-        "title": "Complexo logístico Pungyu de Gimhae em risco e hospital público sob incerteza",
-        "excerpt": "O projeto do Complexo Logístico Geral Pungyu, em Gimhae, Gyeongsang do Sul, promovido há mais de 20 anos, corre risco de fracassar e pode afetar um centro médico público associado.",
-        "body": "Em Gimhae, na província de Gyeongsang do Sul, o projeto do Complexo Logístico Geral Pungyu, em desenvolvimento há mais de 20 anos, está sob risco de não avançar, elevando preocupações de que a construção de um centro médico público relacionado também fique à deriva. O empreendimento vinha sendo tratado como um plano regional de criação de infraestrutura logística e como uma das principais questões locais de Gimhae. Com a possibilidade de o projeto ser interrompido, aumentou a incerteza sobre a infraestrutura pública de saúde associada. A decisão sobre sua continuidade deve influenciar tanto o complexo logístico quanto o cronograma e a direção do centro médico público. Fonte: yna.co.kr"
-      },
-      "de": {
-        "title": "Gimhaes Pungyu-Logistikpark gefährdet, öffentliches Krankenhaus wankt",
-        "excerpt": "Das seit über 20 Jahren verfolgte Projekt des Pungyu-Logistikparks in Gimhae, Süd-Gyeongsang, droht zu scheitern und wirft Fragen zum verbundenen öffentlichen Krankenhaus auf.",
-        "body": "In Gimhae in der Provinz Süd-Gyeongsang droht das seit mehr als 20 Jahren verfolgte Projekt des Allgemeinen Pungyu-Logistikparks zu scheitern. Dadurch wächst die Sorge, dass auch der Bau eines damit verbundenen öffentlichen medizinischen Zentrums ins Stocken geraten könnte. Das Vorhaben wurde lange als regionaler Plan zur Schaffung eines Logistikstandorts vorangetrieben und galt als eines der wichtigen lokalen Themen Gimhaes. Da nun ein Scheitern des Projekts möglich erscheint, nimmt auch die Unsicherheit über die öffentliche Gesundheitsinfrastruktur zu. Ob das Projekt weitergeführt wird, dürfte Zeitplan und Richtung des medizinischen Zentrums beeinflussen. Quelle: yna.co.kr"
-      },
-      "fr": {
-        "title": "Le complexe logistique Pungyu de Gimhae menacé, l’hôpital public incertain",
-        "excerpt": "À Gimhae, dans le Gyeongsang du Sud, le projet de complexe logistique Pungyu, porté depuis plus de 20 ans, risque d’échouer et pourrait affecter un centre médical public associé.",
-        "body": "À Gimhae, dans la province du Gyeongsang du Sud, le projet de complexe logistique général de Pungyu, poursuivi depuis plus de 20 ans, est menacé d’abandon, ce qui alimente les inquiétudes sur le possible enlisement de la construction d’un centre médical public lié. Ce projet a longtemps été présenté comme un plan régional d’aménagement logistique et comme l’un des dossiers majeurs de la ville. Mais la possibilité d’un échec du projet accroît désormais l’incertitude autour des infrastructures publiques de santé concernées. La suite donnée au complexe devrait influencer le calendrier et l’orientation du centre médical public. Source: yna.co.kr"
-      },
-      "ar": {
-        "title": "مجمع بونغيو اللوجستي في كيمهي مهدد بالفشل ومخاوف على مستشفى عام",
-        "excerpt": "يواجه مشروع مجمع بونغيو اللوجستي العام في كيمهي بمقاطعة غيونغسانغ الجنوبية، المطروح منذ أكثر من 20 عاما، خطر التعثر ما يثير مخاوف بشأن مركز طبي عام مرتبط به.",
-        "body": "في مدينة كيمهي بمقاطعة غيونغسانغ الجنوبية، يواجه مشروع مجمع بونغيو اللوجستي العام، الذي يجري الدفع به منذ أكثر من 20 عاما، خطر الفشل، ما يزيد المخاوف من تعثر بناء مركز طبي عام مرتبط به. وقد طُرح المشروع طويلا كخطة إقليمية لإنشاء مجمع لوجستي، واعتُبر من القضايا المحلية الرئيسية في كيمهي. لكن مع بروز احتمال توقف المشروع نفسه، اتسعت حالة عدم اليقين بشأن خطط البنية التحتية الطبية العامة ذات الصلة. ومن المتوقع أن يؤثر قرار المضي في المشروع على المجمع اللوجستي وكذلك على جدول واتجاه إنشاء المركز الطبي العام. المصدر: yna.co.kr"
-      },
-      "hi": {
-        "title": "गिम्हे पुंगयू लॉजिस्टिक्स कॉम्प्लेक्स पर संकट, सार्वजनिक अस्पताल योजना भी अनिश्चित",
-        "excerpt": "दक्षिण ग्योंगसांग के गिम्हे में 20 साल से अधिक समय से आगे बढ़ रही पुंगयू सामान्य लॉजिस्टिक्स कॉम्प्लेक्स परियोजना रद्द होने के खतरे में है, जिससे सार्वजनिक चिकित्सा केंद्र पर भी चिंता बढ़ी।",
-        "body": "दक्षिण ग्योंगसांग प्रांत के गिम्हे शहर में 20 साल से अधिक समय से 추진 की जा रही पुंगयू सामान्य लॉजिस्टिक्स कॉम्प्लेक्स परियोजना रद्द होने के संकट में है। इसके साथ जुड़ी सार्वजनिक चिकित्सा केंद्र निर्माण योजना के भी भटकने की आशंका बढ़ गई है। यह परियोजना लंबे समय से क्षेत्रीय लॉजिस्टिक्स परिसर बनाने की योजना के रूप में आगे बढ़ाई गई और गिम्हे के प्रमुख स्थानीय मुद्दों में शामिल रही। अब परियोजना के ही ठप पड़ने की संभावना सामने आने से संबंधित सार्वजनिक चिकित्सा ढांचे पर अनिश्चितता बढ़ी है। आगे परियोजना चलेगी या नहीं, इससे लॉजिस्टिक्स परिसर के साथ चिकित्सा केंद्र की समय-सारिणी और दिशा प्रभावित हो सकती है। स्रोत: yna.co.kr"
-      },
-      "id": {
-        "title": "Kompleks Logistik Pungyu Gimhae Terancam Batal, Pusat Medis Publik Ikut Tak Pasti",
-        "excerpt": "Proyek Kompleks Logistik Umum Pungyu di Gimhae, Gyeongsang Selatan, yang didorong lebih dari 20 tahun, terancam batal dan memicu kekhawatiran atas pusat medis publik terkait.",
-        "body": "Di Kota Gimhae, Provinsi Gyeongsang Selatan, proyek Kompleks Logistik Umum Pungyu yang telah didorong selama lebih dari 20 tahun menghadapi risiko gagal terlaksana. Kondisi ini menimbulkan kekhawatiran bahwa pembangunan pusat medis publik yang terkait juga dapat terkatung-katung. Proyek tersebut lama dipromosikan sebagai rencana pembangunan kawasan logistik regional dan menjadi salah satu isu utama Gimhae. Namun, dengan munculnya kemungkinan proyek itu kandas, ketidakpastian atas rencana infrastruktur medis publik ikut meningkat. Kelanjutan proyek ini diperkirakan akan memengaruhi bukan hanya kompleks logistik, tetapi juga jadwal dan arah pembangunan pusat medis publik. Sumber: yna.co.kr"
-      }
-    }
-  },
-  {
-    "id": "845326fda0e9",
-    "slug": "우리은행-국민연금-외화금고-재유치향후-5년-계약-197488",
-    "channelId": "ETF",
-    "category": "etf",
-    "publishedAt": "2026-05-09T20:25:10.109Z",
-    "updatedAt": "2026-05-09T20:25:10.109Z",
-    "sourceName": "yna.co.kr",
-    "sourceUrl": "https://www.yna.co.kr/view/AKR20260508055200002",
-    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260508055200002",
-    "titleFingerprint": "57d2b0d6a9c6c776a7ec738959301abf32f44ca2",
-    "dedupKeys": [
-      "845326fda0e978b4efdf342d46dd316ca85fef52",
-      "57d2b0d6a9c6c776a7ec738959301abf32f44ca2",
-      "953f0c54406ed47287f8542c786a1c48b1b0b685"
-    ],
-    "imageUrl": "/images/articles/845326fda0e9.jpg",
-    "i18n": {
-      "ko": {
-        "title": "우리은행, 국민연금 외화금고은행 우선협상대상자 재선정…향후 5년 계약 예정",
-        "excerpt": "우리은행은 8일 국민연금공단의 외화금고은행 우선협상대상자로 다시 선정됐다고 밝혔으며, 이번 재유치로 향후 5년간 관련 계약을 이어갈 예정이다.",
-        "body": "우리은행은 8일 국민연금공단의 외화금고은행 우선협상대상자로 다시 선정됐다고 밝혔다. 이번 선정은 국민연금공단의 외화금고은행을 우리은행이 재유치했다는 내용으로, 향후 계약 기간은 5년으로 전해졌다. 외화금고은행은 국민연금공단의 외화 관련 금고 업무를 맡는 은행으로, 이번 우선협상대상자 재선정에 따라 우리은행은 기존 관계를 이어가는 방향으로 협의를 진행하게 된다. 계약이 마무리되면 우리은행은 앞으로 5년간 국민연금공단 외화금고은행 역할을 수행하게 된다. 출처: yna.co.kr"
-      },
-      "en": {
-        "title": "Woori Bank Named Preferred Bidder Again for National Pension FX Treasury Bank Deal",
-        "excerpt": "Woori Bank said on May 8 that it has again been selected as the preferred bidder for the National Pension Service’s foreign currency treasury bank, with a five-year contract ahead.",
-        "body": "Woori Bank said on May 8 that it has again been selected as the preferred bidder for the National Pension Service’s foreign currency treasury bank. The announcement means Woori Bank has re-secured the foreign currency treasury bank mandate for the National Pension Service, with the upcoming contract period reported as five years. The foreign currency treasury bank handles the institution’s foreign currency-related treasury operations. Following the renewed preferred bidder selection, Woori Bank is set to continue discussions toward maintaining the relationship. Once the contract is completed, Woori Bank will serve in the role for the next five years. Source: yna.co.kr"
-      },
-      "ja": {
-        "title": "ウリィ銀行、国民年金の外貨金庫銀行で優先交渉対象者に再選定、5年契約へ",
-        "excerpt": "ウリィ銀行は8日、国民年金公団の外貨金庫銀行の優先交渉対象者に再び選ばれたと発表し、今後5年間の契約につながる見通しだ。",
-        "body": "ウリィ銀行は8日、国民年金公団の外貨金庫銀行の優先交渉対象者に再び選定されたと明らかにした。今回の選定は、国民年金公団の外貨金庫銀行をウリィ銀行が再び確保したという内容で、今後の契約期間は5年とされている。外貨金庫銀行は、国民年金公団の外貨関連の金庫業務を担う銀行を指す。今回の優先交渉対象者への再選定により、ウリィ銀行は既存の関係を継続する方向で協議を進めることになる。契約が完了すれば、今後5年間同役割を担う。出典: yna.co.kr"
-      },
-      "zh": {
-        "title": "友利银行再获国民年金外汇金库银行优先谈判资格，预计签约5年",
-        "excerpt": "友利银行8日表示，已再次被选为国民年金公团外汇金库银行的优先谈判对象，此次重新争取成功后预计将签订未来5年合同。",
-        "body": "友利银行8日表示，已再次被选为国民年金公团外汇金库银行的优先谈判对象。此次选定意味着友利银行重新取得国民年金公团外汇金库银行相关资格，未来合同期限据称为5年。外汇金库银行负责国民年金公团与外汇有关的金库业务。随着此次再次成为优先谈判对象，友利银行将朝着延续既有关系的方向推进协商。若合同最终完成，友利银行将在未来5年继续承担国民年金公团外汇金库银行角色。来源: yna.co.kr"
-      },
-      "es": {
-        "title": "Woori Bank vuelve a ser postor preferente para la tesorería FX del NPS por 5 años",
-        "excerpt": "Woori Bank informó el 8 de mayo que volvió a ser elegido postor preferente para el banco de tesorería en divisas del Servicio Nacional de Pensiones, con un contrato previsto de cinco años.",
-        "body": "Woori Bank informó el 8 de mayo que volvió a ser seleccionado como postor preferente para el banco de tesorería en divisas del Servicio Nacional de Pensiones de Corea. La designación significa que Woori Bank recuperó ese mandato vinculado a la gestión de divisas, cuyo próximo contrato tendrá una duración de cinco años. El banco de tesorería en divisas se encarga de las operaciones de caja relacionadas con moneda extranjera de la entidad. Tras esta nueva selección como negociador preferente, Woori Bank avanzará en las conversaciones para mantener la relación. Fuente: yna.co.kr"
-      },
-      "pt": {
-        "title": "Woori Bank volta a ser preferido para tesouraria cambial do NPS em contrato de 5 anos",
-        "excerpt": "O Woori Bank informou em 8 de maio que voltou a ser escolhido como negociador preferencial para o banco de tesouraria em moeda estrangeira do Serviço Nacional de Pensões, em contrato previsto de cinco anos.",
-        "body": "O Woori Bank informou em 8 de maio que foi novamente selecionado como negociador preferencial para atuar como banco de tesouraria em moeda estrangeira do Serviço Nacional de Pensões da Coreia. A seleção indica que o banco recuperou o mandato relacionado à tesouraria cambial da instituição, com período contratual previsto de cinco anos. O banco de tesouraria em moeda estrangeira responde pelas operações de caixa ligadas a divisas. Com a nova escolha, o Woori Bank deverá avançar nas negociações para manter essa relação. Fonte: yna.co.kr"
-      },
-      "de": {
-        "title": "Woori Bank erneut bevorzugter Bieter für NPS-Devisentresorbank, 5-Jahres-Vertrag geplant",
-        "excerpt": "Woori Bank teilte am 8. Mai mit, erneut als bevorzugter Verhandlungspartner für die Devisentresorbank des National Pension Service ausgewählt worden zu sein; geplant ist ein Fünfjahresvertrag.",
-        "body": "Woori Bank teilte am 8. Mai mit, erneut als bevorzugter Verhandlungspartner für die Devisentresorbank des koreanischen National Pension Service ausgewählt worden zu sein. Die Entscheidung bedeutet, dass Woori Bank das Mandat für die Devisentresorbank des Pensionsfonds wieder sichern konnte; die vorgesehene Vertragsdauer beträgt fünf Jahre. Die Devisentresorbank übernimmt die mit Fremdwährungen verbundenen Kassen- und Tresoraufgaben der Institution. Nach der erneuten Auswahl wird Woori Bank die Gespräche zur Fortsetzung der Beziehung führen. Quelle: yna.co.kr"
-      },
-      "fr": {
-        "title": "Woori Bank redevient candidat préféré pour la banque de trésorerie FX du NPS sur 5 ans",
-        "excerpt": "Woori Bank a annoncé le 8 mai avoir été de nouveau choisi comme négociateur préférentiel pour la banque de trésorerie en devises du Service national des pensions, avec un contrat prévu de cinq ans.",
-        "body": "Woori Bank a annoncé le 8 mai avoir été de nouveau sélectionnée comme négociateur préférentiel pour la banque de trésorerie en devises du Service national des pensions de Corée. Cette décision signifie que Woori Bank a récupéré ce mandat lié aux opérations en devises, avec une durée contractuelle prévue de cinq ans. La banque de trésorerie en devises prend en charge les fonctions de caisse liées aux monnaies étrangères de l’institution. Après cette nouvelle sélection, Woori Bank engagera les discussions afin de poursuivre la relation existante. Source: yna.co.kr"
-      },
-      "ar": {
-        "title": "ووري بنك يفوز مجددا بأولوية التفاوض لخزانة العملات الأجنبية لصندوق التقاعد الكوري لخمس سنوات",
-        "excerpt": "أعلن ووري بنك في 8 مايو أنه اختير مجددا كجهة تفاوض مفضلة لبنك خزانة العملات الأجنبية التابع للمؤسسة الوطنية للمعاشات في كوريا، مع عقد مرتقب مدته خمس سنوات.",
-        "body": "أعلن ووري بنك في 8 مايو أنه اختير مرة أخرى كجهة تفاوض مفضلة لبنك خزانة العملات الأجنبية التابع للمؤسسة الوطنية للمعاشات في كوريا. ويعني هذا الاختيار أن البنك نجح في إعادة تأمين دور بنك خزانة العملات الأجنبية للمؤسسة، على أن تكون مدة العقد المقبلة خمس سنوات. ويتولى بنك خزانة العملات الأجنبية أعمال الخزانة المرتبطة بالعملات الأجنبية للمؤسسة. وبناء على إعادة اختياره كجهة تفاوض مفضلة، سيمضي ووري بنك في المحادثات لمواصلة العلاقة القائمة. المصدر: yna.co.kr"
-      },
-      "hi": {
-        "title": "वूरी बैंक फिर NPS विदेशी मुद्रा ट्रेजरी बैंक के पसंदीदा वार्ताकार के रूप में चुना गया",
-        "excerpt": "वूरी बैंक ने 8 मई को बताया कि उसे कोरिया की नेशनल पेंशन सर्विस के विदेशी मुद्रा ट्रेजरी बैंक के लिए फिर से पसंदीदा वार्ताकार चुना गया है, जिसके तहत पांच साल का अनुबंध प्रस्तावित है।",
-        "body": "वूरी बैंक ने 8 मई को कहा कि उसे कोरिया की नेशनल पेंशन सर्विस के विदेशी मुद्रा ट्रेजरी बैंक के लिए फिर से पसंदीदा वार्ताकार के रूप में चुना गया है। इस चयन का मतलब है कि वूरी बैंक ने नेशनल पेंशन सर्विस के विदेशी मुद्रा ट्रेजरी बैंक की भूमिका फिर हासिल की है, और आगामी अनुबंध अवधि पांच साल बताई गई है। विदेशी मुद्रा ट्रेजरी बैंक संस्था के विदेशी मुद्रा से जुड़े ट्रेजरी कार्य संभालता है। इस पुनः चयन के बाद वूरी बैंक मौजूदा संबंध जारी रखने की दिशा में बातचीत आगे बढ़ाएगा। स्रोत: yna.co.kr"
-      },
-      "id": {
-        "title": "Woori Bank Kembali Jadi Kandidat Utama Bank Kas Valas NPS untuk Kontrak 5 Tahun",
-        "excerpt": "Woori Bank pada 8 Mei menyatakan kembali terpilih sebagai pihak negosiasi prioritas untuk bank kas valuta asing National Pension Service Korea, dengan kontrak mendatang selama lima tahun.",
-        "body": "Woori Bank pada 8 Mei menyatakan kembali terpilih sebagai pihak negosiasi prioritas untuk bank kas valuta asing National Pension Service Korea. Pemilihan ini berarti Woori Bank berhasil mendapatkan kembali mandat bank kas valuta asing lembaga tersebut, dengan periode kontrak mendatang disebut selama lima tahun. Bank kas valuta asing menangani fungsi kas yang terkait dengan mata uang asing milik lembaga. Setelah kembali terpilih sebagai pihak negosiasi prioritas, Woori Bank akan melanjutkan pembahasan untuk mempertahankan hubungan yang ada. Sumber: yna.co.kr"
-      }
-    }
-  },
-  {
-    "id": "c4ee02449fc8",
-    "slug": "오뚜기-진밀면-출시-54일-만에-누적-판매-500만개-넘어-365140",
-    "channelId": "ETF",
-    "category": "etf",
-    "publishedAt": "2026-05-09T20:24:11.855Z",
-    "updatedAt": "2026-05-09T20:24:11.855Z",
-    "sourceName": "yna.co.kr",
-    "sourceUrl": "https://www.yna.co.kr/view/AKR20260508060600030",
-    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260508060600030",
-    "titleFingerprint": "0fa433e81c3bb31afd9a9c9f6e90148e7a9f2b9d",
-    "dedupKeys": [
-      "c4ee02449fc8798708447eebe037acdf3631d90f",
-      "0fa433e81c3bb31afd9a9c9f6e90148e7a9f2b9d",
-      "ee47222d369786d2bba6406010a219b9e472e205"
-    ],
-    "imageUrl": "/images/articles/c4ee02449fc8.jpg",
-    "i18n": {
-      "ko": {
-        "title": "오뚜기 진밀면, 출시 54일 만에 누적 판매 500만개 돌파",
-        "excerpt": "오뚜기는 여름철을 맞아 선보인 신제품 진밀면이 출시 54일 만에 누적 판매량 500만개를 넘어섰다고 8일 밝혔다.",
-        "body": "오뚜기는 여름철을 맞아 선보인 신제품 ‘진밀면’이 출시 54일 만에 누적 판매량 500만개를 돌파했다고 8일 밝혔다. 진밀면은 오뚜기가 여름 시즌 수요를 겨냥해 내놓은 제품으로, 출시 이후 54일이라는 비교적 짧은 기간에 판매 500만개를 넘어섰다. 이번 수치는 신제품이 초기 시장에서 빠르게 판매 기반을 넓힌 사례로 볼 수 있다. 오뚜기는 해당 제품의 누적 판매량을 공개하며 여름철 제품군의 소비 흐름을 알렸다. 출처: yna.co.kr"
-      },
-      "en": {
-        "title": "Ottogi Jin Milmyeon Tops 5 Million Sales Just 54 Days After Launch",
-        "excerpt": "Ottogi said on the 8th that its new summer product Jin Milmyeon surpassed 5 million cumulative sales 54 days after its launch.",
-        "body": "Ottogi said on the 8th that its new product “Jin Milmyeon,” introduced for the summer season, exceeded 5 million units in cumulative sales 54 days after launch. Jin Milmyeon was released as a product aimed at summer demand, and it crossed the 5 million sales mark in a relatively short period of 54 days. The figure shows that the new product quickly built early market traction after its debut. By disclosing the cumulative sales milestone, Ottogi highlighted the consumption trend for its summer product lineup. Source: yna.co.kr"
-      },
-      "ja": {
-        "title": "オットギ『ジンミルミョン』発売54日で累計販売500万個突破",
-        "excerpt": "オットギは8日、夏に向けて発売した新商品『ジンミルミョン』が発売54日で累計販売500万個を超えたと明らかにした。",
-        "body": "オットギは8日、夏シーズンに合わせて投入した新商品『ジンミルミョン』が、発売から54日で累計販売量500万個を突破したと発表した。ジンミルミョンは夏場の需要を狙って発売された商品で、発売後54日という比較的短い期間で販売500万個を超えた。今回の数字は、新商品が初期市場で速やかに販売基盤を広げた事例といえる。オットギは累計販売量を公表し、夏季商品群の消費動向を示した。出典: yna.co.kr"
-      },
-      "zh": {
-        "title": "不倒翁 Jin Milmyeon 上市54天累计销量突破500万份",
-        "excerpt": "不倒翁8日表示，面向夏季推出的新品 Jin Milmyeon 上市54天后累计销量已超过500万份。",
-        "body": "不倒翁8日表示，面向夏季推出的新品“Jin Milmyeon”在上市54天后累计销量突破500万份。该产品是公司针对夏季需求推出的新品，上市后仅用54天这一相对较短的时间便越过500万份销量关口。该数字显示，新品在上市初期较快扩大了销售基础。不倒翁通过公布累计销量，反映了夏季产品线的消费走势。来源: yna.co.kr"
-      },
-      "es": {
-        "title": "Ottogi Jin Milmyeon supera 5 millones de ventas en 54 días",
-        "excerpt": "Ottogi informó el día 8 que su nuevo producto de verano, Jin Milmyeon, superó los 5 millones de unidades vendidas acumuladas en 54 días.",
-        "body": "Ottogi informó el día 8 que su nuevo producto “Jin Milmyeon”, presentado para la temporada de verano, superó los 5 millones de unidades en ventas acumuladas 54 días después de su lanzamiento. Jin Milmyeon fue lanzado para responder a la demanda estival y alcanzó esa cifra en un periodo relativamente corto. El dato muestra que el nuevo producto amplió rápidamente su base de ventas en la etapa inicial del mercado. Con la divulgación de las ventas acumuladas, Ottogi destacó la tendencia de consumo de su línea de productos de verano. Fuente: yna.co.kr"
-      },
-      "pt": {
-        "title": "Ottogi Jin Milmyeon passa de 5 milhões de vendas em 54 dias",
-        "excerpt": "A Ottogi informou no dia 8 que o novo produto de verão Jin Milmyeon superou 5 milhões de unidades vendidas acumuladas 54 dias após o lançamento.",
-        "body": "A Ottogi informou no dia 8 que seu novo produto “Jin Milmyeon”, apresentado para a temporada de verão, ultrapassou 5 milhões de unidades em vendas acumuladas 54 dias após o lançamento. O Jin Milmyeon foi lançado para atender à demanda do verão e atingiu a marca em um período relativamente curto. O número mostra que o novo produto ampliou rapidamente sua base de vendas no início do mercado. Ao divulgar as vendas acumuladas, a Ottogi destacou o fluxo de consumo de sua linha de produtos de verão. Fonte: yna.co.kr"
-      },
-      "de": {
-        "title": "Ottogi Jin Milmyeon erreicht 5 Millionen Verkäufe nach 54 Tagen",
-        "excerpt": "Ottogi teilte am 8. mit, dass das neue Sommerprodukt Jin Milmyeon 54 Tage nach der Einführung mehr als 5 Millionen kumulierte Verkäufe erzielte.",
-        "body": "Ottogi teilte am 8. mit, dass sein neues Produkt „Jin Milmyeon“, das für die Sommersaison vorgestellt wurde, 54 Tage nach der Markteinführung mehr als 5 Millionen Einheiten kumuliert verkauft hat. Jin Milmyeon wurde auf die Nachfrage im Sommer ausgerichtet und erreichte die Marke in einem relativ kurzen Zeitraum. Die Zahl zeigt, dass das neue Produkt in der frühen Marktphase rasch eine Verkaufsbasis aufgebaut hat. Mit der Bekanntgabe der kumulierten Verkäufe verwies Ottogi auf den Konsumtrend seiner Sommerproduktlinie. Quelle: yna.co.kr"
-      },
-      "fr": {
-        "title": "Ottogi Jin Milmyeon dépasse 5 millions de ventes en 54 jours",
-        "excerpt": "Ottogi a annoncé le 8 que son nouveau produit d’été Jin Milmyeon avait dépassé 5 millions d’unités vendues en cumul 54 jours après son lancement.",
-        "body": "Ottogi a annoncé le 8 que son nouveau produit « Jin Milmyeon », lancé pour la saison estivale, avait dépassé 5 millions d’unités vendues en cumul 54 jours après son lancement. Jin Milmyeon a été présenté pour répondre à la demande d’été et a franchi cette barre en une période relativement courte. Ce chiffre montre que le nouveau produit a rapidement élargi sa base de ventes au début de sa commercialisation. En publiant ces ventes cumulées, Ottogi a mis en avant la tendance de consommation de sa gamme estivale. Source: yna.co.kr"
-      },
-      "ar": {
-        "title": "أوتوغي جين ميلميون تتجاوز 5 ملايين مبيع بعد 54 يوما من الطرح",
-        "excerpt": "قالت أوتوغي في الثامن إن منتجها الصيفي الجديد جين ميلميون تجاوز 5 ملايين وحدة في المبيعات التراكمية بعد 54 يوما من إطلاقه.",
-        "body": "قالت أوتوغي في الثامن إن منتجها الجديد “جين ميلميون”، الذي طرحته لموسم الصيف، تجاوز 5 ملايين وحدة في المبيعات التراكمية بعد 54 يوما من إطلاقه. وقدمت الشركة المنتج لاستهداف الطلب في فصل الصيف، وبلغ حاجز 5 ملايين وحدة خلال فترة قصيرة نسبيا. ويظهر هذا الرقم أن المنتج الجديد وسع قاعدة مبيعاته بسرعة في المرحلة الأولى من السوق. ومن خلال إعلان المبيعات التراكمية، أوضحت أوتوغي اتجاه الاستهلاك في مجموعة منتجاتها الصيفية. المصدر: yna.co.kr"
-      },
-      "hi": {
-        "title": "Ottogi Jin Milmyeon ने लॉन्च के 54 दिन में 50 लाख बिक्री पार की",
-        "excerpt": "Ottogi ने 8 तारीख को कहा कि गर्मियों के लिए पेश नए उत्पाद Jin Milmyeon की संचयी बिक्री लॉन्च के 54 दिन बाद 50 लाख इकाइयों से आगे निकल गई।",
-        "body": "Ottogi ने 8 तारीख को बताया कि गर्मियों के मौसम के लिए पेश किया गया उसका नया उत्पाद “Jin Milmyeon” लॉन्च के 54 दिन बाद संचयी बिक्री में 50 लाख इकाइयों को पार कर गया। Jin Milmyeon को गर्मियों की मांग को ध्यान में रखकर उतारा गया था और इसने अपेक्षाकृत कम समय में 50 लाख बिक्री का स्तर हासिल किया। यह आंकड़ा दिखाता है कि नए उत्पाद ने शुरुआती बाजार में तेजी से बिक्री आधार बनाया। संचयी बिक्री का आंकड़ा जारी कर Ottogi ने अपनी ग्रीष्मकालीन उत्पाद श्रृंखला की खपत प्रवृत्ति को सामने रखा। स्रोत: yna.co.kr"
-      },
-      "id": {
-        "title": "Ottogi Jin Milmyeon Tembus 5 Juta Penjualan dalam 54 Hari",
-        "excerpt": "Ottogi pada tanggal 8 menyatakan produk baru musim panas Jin Milmyeon melampaui 5 juta unit penjualan kumulatif 54 hari setelah diluncurkan.",
-        "body": "Ottogi pada tanggal 8 menyatakan bahwa produk barunya “Jin Milmyeon”, yang diperkenalkan untuk musim panas, melampaui 5 juta unit penjualan kumulatif 54 hari setelah peluncuran. Jin Milmyeon dirilis untuk menyasar permintaan musim panas dan mencapai angka tersebut dalam periode yang relatif singkat. Data ini menunjukkan bahwa produk baru itu cepat membangun basis penjualan pada tahap awal pasar. Dengan mengumumkan penjualan kumulatif tersebut, Ottogi menyoroti tren konsumsi lini produk musim panasnya. Sumber: yna.co.kr"
       }
     }
   }
