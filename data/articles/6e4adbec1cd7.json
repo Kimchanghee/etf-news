@@ -1,0 +1,75 @@
+{
+  "id": "6e4adbec1cd7",
+  "slug": "sk하이닉스-삼성-성과급에-따라-추가-성과급-요구-가능성-ls-848081",
+  "channelId": "ETF",
+  "category": "etf",
+  "publishedAt": "2026-05-10T22:49:50.670Z",
+  "updatedAt": "2026-05-10T22:49:50.670Z",
+  "sourceName": "hankyung.com",
+  "sourceUrl": "https://www.hankyung.com/article/2026051169906",
+  "canonicalUrl": "https://www.hankyung.com/article/2026051169906",
+  "titleFingerprint": "a6b5cbe80f8fe1ff38950a1f19531aaace15e035",
+  "dedupKeys": [
+    "6e4adbec1cd7f1f2f2bc624c0e372dfc00947a6c",
+    "a6b5cbe80f8fe1ff38950a1f19531aaace15e035",
+    "c0a9fbdf347fff439d664009d51b9d122179c20e"
+  ],
+  "imageUrl": "/images/articles/6e4adbec1cd7.jpg",
+  "i18n": {
+    "ko": {
+      "title": "SK하이닉스 추가 성과급 요구 가능성, 삼성 성과급이 변수로 부상",
+      "excerpt": "LS는 삼성의 성과급 지급 수준에 따라 SK하이닉스 내부에서 추가 성과급 요구가 제기될 가능성이 있다고 분석했다.",
+      "body": "LS는 삼성의 성과급 지급 수준이 SK하이닉스의 추가 성과급 요구 가능성에 영향을 줄 수 있다고 봤다. 보도에 따르면 이번 사안의 핵심은 경쟁사인 삼성의 성과급 규모가 SK하이닉스 구성원들의 보상 기대와 맞물릴 수 있다는 점이다. 현재 원문에서 확인되는 내용은 LS가 이 같은 가능성을 언급했다는 사실로 제한된다. 반도체 업계의 성과급은 실적과 내부 보상 기준, 경쟁사 사례에 따라 민감하게 받아들여질 수 있어 향후 삼성의 성과급 수준이 SK하이닉스 내부 논의의 변수로 작용할 수 있다. 출처는 hankyung.com이다."
+    },
+    "en": {
+      "title": "SK Hynix Bonus Demand May Rise as Samsung Payout Becomes Key Variable",
+      "excerpt": "LS said SK Hynix employees may seek additional bonuses depending on the level of Samsung’s performance-based payout.",
+      "body": "LS said Samsung’s performance-based bonus level could affect the possibility of additional bonus demands at SK Hynix. According to the report, the key issue is that the size of Samsung’s bonus, as a competitor, may become linked to compensation expectations among SK Hynix employees. The information confirmed in the original report is limited to LS raising this possibility. In the semiconductor industry, bonuses can be sensitive because they are tied to earnings, internal compensation standards and peer-company examples. Samsung’s bonus level may therefore become a variable in future internal discussions at SK Hynix. Source: hankyung.com."
+    },
+    "ja": {
+      "title": "SKハイニックス追加賞与要求の可能性、サムスン賞与が焦点に",
+      "excerpt": "LSは、サムスンの成果給水準によってSKハイニックス社内で追加成果給を求める動きが出る可能性があると分析した。",
+      "body": "LSは、サムスンの成果給支給水準がSKハイニックスの追加成果給要求の可能性に影響し得るとみている。報道によると、焦点は競合であるサムスンの成果給規模が、SKハイニックス社員の報酬期待と結び付く可能性がある点だ。原文で確認できる内容は、LSがこうした可能性に言及したという事実に限られる。半導体業界の成果給は、業績、社内の報酬基準、競合他社の事例によって敏感に受け止められやすい。今後、サムスンの成果給水準がSKハイニックス社内の議論における変数となる可能性がある。出典はhankyung.com。"
+    },
+    "zh": {
+      "title": "SK海力士或要求追加奖金，三星绩效奖金成关键变量",
+      "excerpt": "LS分析称，取决于三星绩效奖金发放水平，SK海力士内部可能出现要求追加绩效奖金的声音。",
+      "body": "LS认为，三星绩效奖金的发放水平可能影响SK海力士追加绩效奖金要求出现的可能性。据报道，问题核心在于，作为竞争对手的三星奖金规模，可能与SK海力士员工的薪酬期待相联系。原文可确认的信息仅限于LS提出了这一可能性。在半导体行业，绩效奖金通常会因业绩、内部薪酬标准以及竞争对手案例而受到敏感关注。因此，未来三星绩效奖金水平可能成为SK海力士内部讨论的一个变量。来源：hankyung.com。"
+    },
+    "es": {
+      "title": "SK Hynix podría pedir más bonos si el pago de Samsung marca referencia",
+      "excerpt": "LS señaló que en SK Hynix podría surgir una demanda de bonos adicionales según el nivel de incentivos por desempeño de Samsung.",
+      "body": "LS afirmó que el nivel de bonos por desempeño de Samsung podría influir en la posibilidad de que surjan demandas de pagos adicionales en SK Hynix. Según el reporte, el punto central es que el tamaño del bono de Samsung, como competidor, podría vincularse con las expectativas de compensación de los empleados de SK Hynix. La información confirmada en el texto original se limita a que LS mencionó esa posibilidad. En la industria de semiconductores, los bonos son sensibles porque se relacionan con resultados, criterios internos de compensación y ejemplos de empresas rivales. Por ello, el nivel de Samsung podría convertirse en una variable para futuras discusiones internas en SK Hynix. Fuente: hankyung.com."
+    },
+    "pt": {
+      "title": "SK Hynix pode pedir bônus extra conforme pagamento da Samsung vira variável",
+      "excerpt": "A LS afirmou que funcionários da SK Hynix podem pedir bônus adicionais dependendo do nível de remuneração por desempenho da Samsung.",
+      "body": "A LS avaliou que o nível de bônus por desempenho da Samsung pode influenciar a possibilidade de pedidos de bônus adicionais na SK Hynix. Segundo a reportagem, o ponto central é que o valor pago pela Samsung, como concorrente, pode se conectar às expectativas de remuneração dos funcionários da SK Hynix. A informação confirmada no texto original se limita ao fato de a LS ter mencionado essa possibilidade. No setor de semicondutores, bônus de desempenho tendem a ser sensíveis por dependerem de resultados, critérios internos de remuneração e exemplos de concorrentes. Assim, o nível do bônus da Samsung pode se tornar uma variável nas discussões internas da SK Hynix. Fonte: hankyung.com."
+    },
+    "de": {
+      "title": "SK Hynix könnte Zusatzbonus fordern, Samsung-Zahlung wird zum Faktor",
+      "excerpt": "LS sieht die Möglichkeit zusätzlicher Bonusforderungen bei SK Hynix abhängig von der Höhe der leistungsbezogenen Samsung-Zahlungen.",
+      "body": "LS geht davon aus, dass die Höhe der leistungsbezogenen Bonuszahlung von Samsung die Möglichkeit zusätzlicher Bonusforderungen bei SK Hynix beeinflussen könnte. Dem Bericht zufolge liegt der Kernpunkt darin, dass die Bonusgröße des Wettbewerbers Samsung mit den Vergütungserwartungen der Beschäftigten von SK Hynix verknüpft werden könnte. Die im Original bestätigte Information beschränkt sich darauf, dass LS diese Möglichkeit genannt hat. In der Halbleiterbranche werden Boni sensibel wahrgenommen, da sie mit Geschäftsergebnissen, internen Vergütungsregeln und Beispielen von Wettbewerbern zusammenhängen. Daher könnte Samsungs Bonusniveau künftig zu einem Faktor in internen Gesprächen bei SK Hynix werden. Quelle: hankyung.com."
+    },
+    "fr": {
+      "title": "SK Hynix pourrait réclamer un bonus si celui de Samsung devient référence",
+      "excerpt": "LS estime que des demandes de bonus supplémentaires pourraient émerger chez SK Hynix selon le niveau de prime de performance de Samsung.",
+      "body": "LS estime que le niveau de la prime de performance versée par Samsung pourrait influencer la possibilité de demandes de bonus supplémentaires chez SK Hynix. Selon l’article, l’enjeu principal est que le montant versé par Samsung, en tant que concurrent, pourrait se rattacher aux attentes de rémunération des employés de SK Hynix. Les informations confirmées dans le texte original se limitent au fait que LS a évoqué cette possibilité. Dans l’industrie des semi-conducteurs, les primes sont sensibles car elles dépendent des résultats, des critères internes de rémunération et des exemples de concurrents. Le niveau de prime de Samsung pourrait donc devenir une variable dans les discussions internes de SK Hynix. Source : hankyung.com."
+    },
+    "ar": {
+      "title": "مطالب مكافآت إضافية في SK Hynix قد ترتبط بمكافآت سامسونغ",
+      "excerpt": "قالت LS إن موظفي SK Hynix قد يطالبون بمكافآت إضافية تبعا لمستوى مكافآت الأداء التي تصرفها سامسونغ.",
+      "body": "رأت LS أن مستوى مكافآت الأداء لدى سامسونغ قد يؤثر في احتمال ظهور مطالب بمكافآت إضافية داخل SK Hynix. وبحسب التقرير، تتمثل النقطة الأساسية في أن حجم مكافأة سامسونغ، بوصفها منافسا، قد يرتبط بتوقعات التعويض لدى موظفي SK Hynix. وتقتصر المعلومات المؤكدة في النص الأصلي على أن LS أشارت إلى هذه الإمكانية. في صناعة أشباه الموصلات، تعد مكافآت الأداء مسألة حساسة لأنها ترتبط بالنتائج ومعايير التعويض الداخلية وأمثلة الشركات المنافسة. لذلك قد يصبح مستوى مكافآت سامسونغ متغيرا في النقاشات الداخلية المقبلة لدى SK Hynix. المصدر: hankyung.com."
+    },
+    "hi": {
+      "title": "SK Hynix में अतिरिक्त बोनस मांग की संभावना, Samsung भुगतान बना कारक",
+      "excerpt": "LS ने कहा कि Samsung के प्रदर्शन बोनस के स्तर के आधार पर SK Hynix में अतिरिक्त बोनस की मांग उठ सकती है।",
+      "body": "LS ने कहा कि Samsung के प्रदर्शन-आधारित बोनस का स्तर SK Hynix में अतिरिक्त बोनस मांग की संभावना को प्रभावित कर सकता है। रिपोर्ट के अनुसार, मुख्य मुद्दा यह है कि प्रतिस्पर्धी Samsung के बोनस का आकार SK Hynix कर्मचारियों की मुआवजा अपेक्षाओं से जुड़ सकता है। मूल रिपोर्ट में पुष्टि की गई जानकारी केवल इतनी है कि LS ने इस संभावना का उल्लेख किया। सेमीकंडक्टर उद्योग में बोनस संवेदनशील विषय हो सकता है, क्योंकि यह प्रदर्शन, आंतरिक मुआवजा मानकों और प्रतिस्पर्धी कंपनियों के उदाहरणों से जुड़ा होता है। इसलिए Samsung का बोनस स्तर आगे SK Hynix की आंतरिक चर्चाओं में एक महत्वपूर्ण कारक बन सकता है। स्रोत: hankyung.com."
+    },
+    "id": {
+      "title": "SK Hynix Berpotensi Minta Bonus Tambahan, Bonus Samsung Jadi Variabel",
+      "excerpt": "LS menyebut tuntutan bonus tambahan di SK Hynix dapat muncul bergantung pada tingkat bonus kinerja yang dibayarkan Samsung.",
+      "body": "LS menilai tingkat bonus berbasis kinerja Samsung dapat memengaruhi kemungkinan munculnya tuntutan bonus tambahan di SK Hynix. Menurut laporan tersebut, inti persoalannya adalah besaran bonus Samsung sebagai pesaing dapat terkait dengan ekspektasi kompensasi karyawan SK Hynix. Informasi yang terkonfirmasi dalam teks asli terbatas pada fakta bahwa LS menyebut kemungkinan tersebut. Di industri semikonduktor, bonus kinerja dapat menjadi isu sensitif karena terkait dengan kinerja, standar kompensasi internal, dan contoh dari perusahaan pesaing. Karena itu, tingkat bonus Samsung dapat menjadi variabel dalam pembahasan internal SK Hynix ke depan. Sumber: hankyung.com."
+    }
+  }
+}
