@@ -1,5 +1,230 @@
 [
   {
+    "id": "8b7334584de6",
+    "slug": "양도세-중과-피하려-막판-거래주말에도-허가-신청-이어져-624949",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-05-10T17:30:12.346Z",
+    "updatedAt": "2026-05-10T17:30:12.346Z",
+    "sourceName": "yna.co.kr",
+    "sourceUrl": "https://www.yna.co.kr/view/AKR20260510009900003",
+    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260510009900003",
+    "titleFingerprint": "e1c9d03e0ea3cf142974f18c19304b036bb69443",
+    "dedupKeys": [
+      "8b7334584de6c80f78234d7d285d1a00b87de99f",
+      "e1c9d03e0ea3cf142974f18c19304b036bb69443",
+      "4629b376971886241adb5d7f766928be7670402d"
+    ],
+    "imageUrl": "/images/articles/8b7334584de6.jpg",
+    "i18n": {
+      "ko": {
+        "title": "다주택자 양도세 중과 부활 앞두고 막판 거래 몰려…주말 허가 신청 지속",
+        "excerpt": "다주택자 양도소득세 중과가 10일부터 부활하면서 유예 마지막 날인 9일까지 중과를 피하려는 막판 토지거래허가 신청이 주말에도 이어졌다.",
+        "body": "10일부터 다주택자 양도소득세 중과가 부활한 가운데, 중과 유예 마지막 날인 9일까지 이를 피하려는 막판 거래 움직임이 이어졌다. 서울 지역에서는 토지거래허가 신청이 주말에도 접수된 것으로 전해졌다. 이번 움직임은 다주택자가 양도세 중과 적용을 앞두고 거래 시점을 앞당기려 한 데 따른 것으로 풀이된다. 유예 종료와 중과 재개가 맞물리며 허가가 필요한 거래 수요가 마지막까지 이어진 셈이다. 향후 시장은 중과 부활 이후 거래 흐름과 허가 신청 감소 여부를 지켜보게 된다. 출처: yna.co.kr"
+      },
+      "en": {
+        "title": "Capital Gains Tax Surcharge Returns for Multi-Home Owners, Last-Minute Deals Continue",
+        "excerpt": "As South Korea’s capital gains tax surcharge for multi-home owners returned on the 10th, land transaction permit applications continued through the final suspension day on the 9th.",
+        "body": "South Korea’s capital gains tax surcharge for multi-home owners returned on the 10th, prompting last-minute transaction moves through the final day of the suspension on the 9th. In Seoul, applications for land transaction permits reportedly continued even over the weekend. The activity reflected efforts by multi-home owners to complete deals before the surcharge took effect again. With the suspension ending and the surcharge resuming, demand for transactions requiring permits persisted until the last moment. Market watchers will now monitor whether transaction flows and permit applications decline after the surcharge revival. Source: yna.co.kr"
+      },
+      "ja": {
+        "title": "多住宅保有者の譲渡税重課再開前に駆け込み取引、週末も許可申請続く",
+        "excerpt": "多住宅保有者への譲渡所得税の重課が10日から再開され、猶予最終日の9日まで重課回避を狙った土地取引許可申請が週末も続いた。",
+        "body": "10日から多住宅保有者に対する譲渡所得税の重課が再開される中、猶予最終日の9日まで重課を避けようとする駆け込み取引の動きが続いた。ソウルでは土地取引許可の申請が週末にも受け付けられたという。今回の動きは、多住宅保有者が譲渡税重課の適用を前に取引時点を前倒ししようとしたためとみられる。猶予終了と重課再開が重なり、許可が必要な取引需要が最後まで続いた形だ。今後は重課再開後の取引動向と許可申請の減少 여부が注目される。出典: yna.co.kr"
+      },
+      "zh": {
+        "title": "多套房业主转让税加重恢复前抢搭末班车，周末仍有许可申请",
+        "excerpt": "韩国多套房业主转让所得税加重自10日起恢复，在缓征最后一天9日前，为避税而提交的土地交易许可申请周末仍在继续。",
+        "body": "随着韩国多套房业主转让所得税加重自10日起恢复，缓征最后一天9日前，为避开加重税负而进行的最后阶段交易动向仍在持续。据悉，首尔地区周末也继续受理土地交易许可申请。此举被认为是多套房业主在转让税加重重新适用前，试图提前完成交易。缓征结束与加重恢复交织，使需要许可的交易需求延续到最后一刻。接下来，市场将关注加重恢复后交易 흐름以及许可申请是否减少。来源: yna.co.kr"
+      },
+      "es": {
+        "title": "Vuelve el recargo fiscal a multipropietarios y siguen operaciones de última hora",
+        "excerpt": "Al reactivarse el día 10 el recargo sobre ganancias de capital para multipropietarios en Corea del Sur, las solicitudes de permisos de transacción siguieron hasta el día 9.",
+        "body": "El recargo sobre el impuesto a las ganancias de capital para multipropietarios en Corea del Sur volvió a aplicarse desde el día 10, mientras continuaron los movimientos de transacciones de última hora hasta el día 9, último día de la suspensión. En Seúl, las solicitudes de permisos para transacciones de terrenos se habrían seguido presentando incluso durante el fin de semana. La actividad refleja intentos de multipropietarios por adelantar operaciones antes de que el recargo volviera a aplicarse. Con el fin de la suspensión y la reactivación del recargo, la demanda de operaciones sujetas a permiso se mantuvo hasta el final. Fuente: yna.co.kr"
+      },
+      "pt": {
+        "title": "Sobretaxa sobre ganhos de capital volta e negócios de última hora continuam",
+        "excerpt": "Com a retomada no dia 10 da sobretaxa sobre ganhos de capital para donos de múltiplos imóveis na Coreia do Sul, pedidos de autorização seguiram até o dia 9.",
+        "body": "A sobretaxa sobre ganhos de capital para proprietários de múltiplos imóveis na Coreia do Sul voltou a vigorar no dia 10, enquanto movimentos de negociação de última hora continuaram até o dia 9, último dia da suspensão. Em Seul, pedidos de autorização para transações de terrenos teriam sido apresentados até no fim de semana. A movimentação reflete tentativas de proprietários de antecipar negócios antes da retomada da sobretaxa. Com o fim da suspensão e a volta da cobrança adicional, a demanda por transações que exigem autorização persistiu até o último momento. Fonte: yna.co.kr"
+      },
+      "de": {
+        "title": "Kapitalertragsteuer-Aufschlag für Mehrfachhausbesitzer kehrt zurück, Anträge laufen weiter",
+        "excerpt": "Mit der Wiedereinführung des Aufschlags auf Veräußerungsgewinne für Mehrfachhausbesitzer am 10. gingen Genehmigungsanträge bis zum letzten Aussetzungstag am 9. weiter.",
+        "body": "Der Aufschlag auf die Kapitalertragsteuer für Mehrfachhausbesitzer in Südkorea gilt seit dem 10. wieder. Bis zum 9., dem letzten Tag der Aussetzung, setzten sich kurzfristige Transaktionsbewegungen fort, um den Aufschlag zu vermeiden. In Seoul wurden Berichten zufolge auch am Wochenende Anträge auf Genehmigung von Grundstückstransaktionen eingereicht. Die Entwicklung deutet darauf hin, dass Mehrfachhausbesitzer Geschäfte vor der erneuten Anwendung des Aufschlags vorziehen wollten. Mit dem Ende der Aussetzung hielt die Nachfrage nach genehmigungspflichtigen Transaktionen bis zuletzt an. Quelle: yna.co.kr"
+      },
+      "fr": {
+        "title": "La surtaxe sur les plus-values revient pour les multipropriétaires, demandes de dernière minute",
+        "excerpt": "Avec le retour le 10 de la surtaxe sur les plus-values pour les multipropriétaires en Corée du Sud, les demandes de permis ont continué jusqu’au dernier jour, le 9.",
+        "body": "La surtaxe sur l’impôt sur les plus-values pour les multipropriétaires en Corée du Sud est rétablie depuis le 10. Jusqu’au 9, dernier jour de suspension, des transactions de dernière minute visant à éviter cette surtaxe se sont poursuivies. À Séoul, des demandes de permis de transaction foncière auraient encore été déposées pendant le week-end. Ce mouvement traduit la volonté de multipropriétaires d’avancer la date de leurs opérations avant la reprise de la surtaxe. Avec la fin du report, la demande pour les transactions soumises à permis s’est maintenue jusqu’au bout. Source: yna.co.kr"
+      },
+      "ar": {
+        "title": "عودة ضريبة الأرباح الرأسمالية على مالكي المنازل المتعددة وطلبات اللحظة الأخيرة مستمرة",
+        "excerpt": "مع عودة الضريبة الإضافية على مكاسب بيع العقارات لمالكي المنازل المتعددة في كوريا الجنوبية اعتبارا من 10، استمرت طلبات تصاريح معاملات الأراضي حتى اليوم الأخير في 9.",
+        "body": "عادت الضريبة الإضافية على أرباح بيع العقارات لمالكي المنازل المتعددة في كوريا الجنوبية اعتبارا من 10، بينما تواصلت تحركات الصفقات في اللحظات الأخيرة حتى 9، وهو اليوم الأخير لفترة التعليق. وفي سيول، ورد أن طلبات تصاريح معاملات الأراضي استمرت حتى خلال عطلة نهاية الأسبوع. ويعكس ذلك محاولة مالكي المنازل المتعددة تقديم موعد الصفقات قبل إعادة تطبيق الضريبة الإضافية. ومع انتهاء التعليق وعودة الضريبة، ظل الطلب على المعاملات التي تتطلب تصريحا قائما حتى اللحظة الأخيرة. المصدر: yna.co.kr"
+      },
+      "hi": {
+        "title": "कई घरों के मालिकों पर पूंजीगत लाभ कर अधिभार लौटा, अंतिम समय के सौदे जारी",
+        "excerpt": "दक्षिण कोरिया में कई घरों के मालिकों पर पूंजीगत लाभ कर अधिभार 10 तारीख से लौटने के साथ, 9 तारीख तक भूमि लेनदेन अनुमति आवेदन सप्ताहांत में भी जारी रहे।",
+        "body": "दक्षिण कोरिया में कई घरों के मालिकों पर पूंजीगत लाभ कर अधिभार 10 तारीख से फिर लागू हो गया, जबकि छूट की अंतिम तारीख 9 तक इसे टालने के लिए अंतिम समय के लेनदेन जारी रहे। सियोल में भूमि लेनदेन अनुमति के आवेदन सप्ताहांत में भी जमा किए गए बताए गए। यह गतिविधि कई घरों के मालिकों द्वारा अधिभार लागू होने से पहले सौदों का समय आगे खिसकाने की कोशिश को दिखाती है। छूट समाप्त होने और अधिभार लौटने के साथ, अनुमति वाले लेनदेन की मांग आखिरी समय तक बनी रही। स्रोत: yna.co.kr"
+      },
+      "id": {
+        "title": "Pajak capital gain berlapis untuk pemilik banyak rumah kembali, izin akhir pekan berlanjut",
+        "excerpt": "Saat pajak tambahan capital gain bagi pemilik banyak rumah di Korea Selatan kembali berlaku pada 10, permohonan izin transaksi tanah terus masuk hingga hari terakhir penangguhan pada 9.",
+        "body": "Pajak tambahan atas capital gain bagi pemilik banyak rumah di Korea Selatan kembali berlaku mulai tanggal 10. Hingga tanggal 9, hari terakhir masa penangguhan, pergerakan transaksi terakhir untuk menghindari pajak tambahan itu masih berlangsung. Di Seoul, permohonan izin transaksi tanah dilaporkan tetap diajukan bahkan pada akhir pekan. Aktivitas ini mencerminkan upaya pemilik banyak rumah mempercepat waktu transaksi sebelum pajak tambahan kembali diterapkan. Dengan berakhirnya penangguhan, permintaan transaksi yang memerlukan izin bertahan hingga saat terakhir. Sumber: yna.co.kr"
+      }
+    }
+  },
+  {
+    "id": "cba863ae19d7",
+    "slug": "현대그린푸드-사찰음식-간편식-출시도림법송스님-협업-549254",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-05-10T17:29:19.773Z",
+    "updatedAt": "2026-05-10T17:29:19.773Z",
+    "sourceName": "yna.co.kr",
+    "sourceUrl": "https://www.yna.co.kr/view/AKR20260510012300030",
+    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260510012300030",
+    "titleFingerprint": "3cf9ee3209eedf8334301f0b1092cef404a07a23",
+    "dedupKeys": [
+      "cba863ae19d753d95ad11f3df40616ff8f542c0a",
+      "3cf9ee3209eedf8334301f0b1092cef404a07a23",
+      "92711b53bef4393273ec8d16deaf55d620b2b744"
+    ],
+    "imageUrl": "/images/articles/cba863ae19d7.jpg",
+    "i18n": {
+      "ko": {
+        "title": "현대그린푸드, 사찰음식 간편식 5종 출시…도림·법송스님 협업으로 그리팅몰 확대",
+        "excerpt": "현대백화점그룹 계열 종합식품기업 현대그린푸드가 온라인몰 그리팅몰에서 도림스님·법송스님과 협업한 사찰음식 간편식 5종을 선보였다.",
+        "body": "현대백화점그룹 계열 종합식품기업 현대그린푸드[453340]는 온라인몰 그리팅몰에서 사찰음식 간편식 5종을 출시했다. 이번 제품은 사찰음식 분야의 도림스님과 법송스님이 협업한 것이 특징이다. 현대그린푸드는 간편식 형태로 사찰음식을 선보이며 그리팅몰의 식품 라인업을 넓혔다. 사찰음식은 조리 방식과 식재료 선택에서 고유한 성격을 가진 식문화로, 이번 출시는 온라인 간편식 채널에서 관련 선택지를 추가한 사례다. 회사는 종합식품기업으로서 그리팅몰을 통해 신제품을 판매한다. 출처: yna.co.kr"
+      },
+      "en": {
+        "title": "Hyundai Green Food launches five temple-food ready meals with monk collaboration",
+        "excerpt": "Hyundai Green Food, a Hyundai Department Store Group food company, introduced five temple-food ready meals on its online Greeting Mall with Dorim and Beopsong monks.",
+        "body": "Hyundai Green Food [453340], a comprehensive food company affiliated with Hyundai Department Store Group, has launched five temple-food convenience meals on its online mall, Greeting Mall. The products were developed in collaboration with Dorim and Beopsong, monks known in the field of Korean temple cuisine. The release expands Hyundai Green Food’s food lineup on Greeting Mall by offering temple cuisine in a ready-meal format. Temple food has a distinct culinary identity in its cooking methods and ingredient choices, and this launch adds another option to the online convenience-food channel. The company will sell the new products through Greeting Mall. Source: yna.co.kr"
+      },
+      "ja": {
+        "title": "現代グリーンフード、精進料理の簡便食5種を発売　道林・法松僧侶と協業",
+        "excerpt": "現代百貨店グループ系の総合食品企業、現代グリーンフードがオンラインモール「グリーティングモール」で精進料理の簡便食5種を発売した。",
+        "body": "現代百貨店グループ系列の総合食品企業、現代グリーンフード[453340]は、オンラインモール「グリーティングモール」で精進料理の簡便食5種を発売した。今回の商品は、精進料理分野の道林僧侶と法松僧侶が協業した点が特徴だ。現代グリーンフードは、精進料理を手軽に食べられる形で投入し、グリーティングモールの食品ラインアップを広げた。精進料理は調理法や食材選びに独自の性格を持つ食文化で、今回の発売はオンライン簡便食チャネルに関連する選択肢を加える事例となる。同社は総合食品企業として、グリーティングモールを通じて新商品を販売する。出典: yna.co.kr"
+      },
+      "zh": {
+        "title": "现代绿色食品推出5款寺院料理方便餐，与道林、法松僧合作",
+        "excerpt": "现代百货集团旗下综合食品企业现代绿色食品在网上商城Greeting Mall推出5款寺院料理方便餐，与道林僧和法松僧合作开发。",
+        "body": "现代百货集团旗下综合食品企业现代绿色食品[453340]在网上商城Greeting Mall推出了5款寺院料理方便餐。此次产品的特点是与寺院料理领域的道林僧和法松僧合作。现代绿色食品将寺院料理做成方便餐形式，扩大了Greeting Mall的食品阵容。寺院料理在烹饪方式和食材选择上具有独特的饮食文化属性，此次上市是在在线方便食品渠道增加相关选择的案例。公司作为综合食品企业，将通过Greeting Mall销售这些新品。来源: yna.co.kr"
+      },
+      "es": {
+        "title": "Hyundai Green Food lanza cinco comidas de cocina de templo con monjes",
+        "excerpt": "Hyundai Green Food, firma alimentaria del Grupo Hyundai Department Store, presentó en Greeting Mall cinco comidas listas de cocina de templo junto a los monjes Dorim y Beopsong.",
+        "body": "Hyundai Green Food [453340], empresa integral de alimentos afiliada al Grupo Hyundai Department Store, lanzó cinco comidas preparadas de cocina de templo en su tienda en línea Greeting Mall. Los productos se distinguen por la colaboración con los monjes Dorim y Beopsong, vinculados a este tipo de cocina. Con este lanzamiento, Hyundai Green Food ofrece la cocina de templo en formato de comida práctica y amplía la línea de alimentos de Greeting Mall. La cocina de templo tiene una identidad propia por sus métodos de preparación y selección de ingredientes, y la novedad suma una opción al canal en línea de comidas listas. Fuente: yna.co.kr"
+      },
+      "pt": {
+        "title": "Hyundai Green Food lança cinco refeições de comida de templo com monges",
+        "excerpt": "A Hyundai Green Food, empresa de alimentos do Hyundai Department Store Group, lançou no Greeting Mall cinco refeições prontas de comida de templo em colaboração com os monges Dorim e Beopsong.",
+        "body": "A Hyundai Green Food [453340], empresa abrangente de alimentos ligada ao Hyundai Department Store Group, lançou cinco refeições convenientes de comida de templo em sua loja online Greeting Mall. Os produtos se destacam pela colaboração com os monges Dorim e Beopsong, associados a essa tradição culinária. A Hyundai Green Food apresenta a comida de templo em formato de refeição prática e amplia a linha de alimentos do Greeting Mall. Essa culinária tem características próprias nos métodos de preparo e na escolha de ingredientes, e o lançamento acrescenta uma opção ao canal online de refeições prontas. Fonte: yna.co.kr"
+      },
+      "de": {
+        "title": "Hyundai Green Food bringt fünf Tempelküche-Fertiggerichte mit Mönchen heraus",
+        "excerpt": "Hyundai Green Food, ein Lebensmittelunternehmen der Hyundai Department Store Group, bietet im Greeting Mall fünf Fertiggerichte der koreanischen Tempelküche in Kooperation mit den Mönchen Dorim und Beopsong an.",
+        "body": "Hyundai Green Food [453340], ein umfassendes Lebensmittelunternehmen der Hyundai Department Store Group, hat in seinem Online-Shop Greeting Mall fünf Fertiggerichte der Tempelküche eingeführt. Kennzeichnend ist die Zusammenarbeit mit den Mönchen Dorim und Beopsong, die mit dieser Küche verbunden sind. Hyundai Green Food bringt damit Tempelküche in ein bequemes Ready-Meal-Format und erweitert das Lebensmittelsortiment von Greeting Mall. Tempelküche besitzt durch Zubereitungsweise und Auswahl der Zutaten eine eigene kulinarische Prägung. Die Einführung ergänzt den Online-Kanal für Fertiggerichte um eine weitere Auswahl. Quelle: yna.co.kr"
+      },
+      "fr": {
+        "title": "Hyundai Green Food lance cinq plats de cuisine de temple avec deux moines",
+        "excerpt": "Hyundai Green Food, entreprise alimentaire du Hyundai Department Store Group, a lancé sur Greeting Mall cinq plats prêts à consommer de cuisine de temple avec les moines Dorim et Beopsong.",
+        "body": "Hyundai Green Food [453340], entreprise alimentaire générale affiliée au Hyundai Department Store Group, a lancé cinq plats pratiques de cuisine de temple sur sa boutique en ligne Greeting Mall. Ces produits se distinguent par une collaboration avec les moines Dorim et Beopsong, associés à ce domaine culinaire. Hyundai Green Food propose ainsi la cuisine de temple sous forme de repas prêts à consommer et élargit l’offre alimentaire de Greeting Mall. Cette cuisine possède une identité propre par ses modes de préparation et le choix de ses ingrédients. Ce lancement ajoute une option au canal en ligne des repas pratiques. Source: yna.co.kr"
+      },
+      "ar": {
+        "title": "هيونداي غرين فود تطلق خمس وجبات جاهزة من طعام المعابد بالتعاون مع راهبين",
+        "excerpt": "أطلقت هيونداي غرين فود، التابعة لمجموعة هيونداي دبارتمنت ستور، خمس وجبات جاهزة من طعام المعابد عبر متجر Greeting Mall بالتعاون مع الراهبين دوريم وبيوبسونغ.",
+        "body": "أطلقت هيونداي غرين فود [453340]، وهي شركة أغذية شاملة تابعة لمجموعة هيونداي دبارتمنت ستور، خمس وجبات سهلة التحضير من طعام المعابد عبر متجرها الإلكتروني Greeting Mall. وتتميز المنتجات بتعاونها مع الراهبين دوريم وبيوبسونغ في مجال طعام المعابد الكوري. ومن خلال هذا الطرح، تقدم الشركة طعام المعابد بصيغة وجبات جاهزة وتوسع تشكيلة الأغذية في Greeting Mall. ويتميز طعام المعابد بطابع خاص في طرق الطهي واختيار المكونات، ويضيف الإطلاق خيارا جديدا إلى قناة الوجبات الجاهزة عبر الإنترنت. المصدر: yna.co.kr"
+      },
+      "hi": {
+        "title": "Hyundai Green Food ने भिक्षुओं के साथ मंदिर भोजन की 5 रेडी मील उतारीं",
+        "excerpt": "Hyundai Department Store Group की खाद्य कंपनी Hyundai Green Food ने Greeting Mall पर Dorim और Beopsong भिक्षुओं के सहयोग से मंदिर भोजन की पांच रेडी मील पेश कीं।",
+        "body": "Hyundai Department Store Group से जुड़ी व्यापक खाद्य कंपनी Hyundai Green Food [453340] ने अपने ऑनलाइन मॉल Greeting Mall पर मंदिर भोजन की पांच सुविधाजनक रेडी मील लॉन्च की हैं। इन उत्पादों की खास बात मंदिर भोजन से जुड़े Dorim और Beopsong भिक्षुओं के साथ सहयोग है। Hyundai Green Food ने मंदिर भोजन को आसान भोजन के रूप में पेश करते हुए Greeting Mall की खाद्य शृंखला का विस्तार किया है। मंदिर भोजन अपनी पकाने की पद्धति और सामग्री चयन के कारण अलग खाद्य संस्कृति रखता है, और यह लॉन्च ऑनलाइन रेडी मील चैनल में संबंधित विकल्प जोड़ता है। स्रोत: yna.co.kr"
+      },
+      "id": {
+        "title": "Hyundai Green Food rilis lima makanan praktis kuliner kuil bersama biksu",
+        "excerpt": "Hyundai Green Food, perusahaan makanan Hyundai Department Store Group, meluncurkan lima makanan praktis kuliner kuil di Greeting Mall bersama biksu Dorim dan Beopsong.",
+        "body": "Hyundai Green Food [453340], perusahaan makanan terpadu yang berafiliasi dengan Hyundai Department Store Group, meluncurkan lima makanan praktis bertema kuliner kuil di toko online Greeting Mall. Produk ini menonjol karena kolaborasi dengan biksu Dorim dan Beopsong dalam bidang makanan kuil Korea. Hyundai Green Food menghadirkan kuliner kuil dalam format makanan praktis sekaligus memperluas lini produk Greeting Mall. Makanan kuil memiliki karakter tersendiri dalam cara memasak dan pemilihan bahan, sehingga peluncuran ini menambah pilihan pada kanal makanan praktis online. Sumber: yna.co.kr"
+      }
+    }
+  },
+  {
+    "id": "fba8ea0b7f81",
+    "slug": "스타벅스-악마는-프라다를-입는다2-음료영화-레시피-구현-600387",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-05-10T17:28:09.207Z",
+    "updatedAt": "2026-05-10T17:28:09.207Z",
+    "sourceName": "yna.co.kr",
+    "sourceUrl": "https://www.yna.co.kr/view/AKR20260510013100030",
+    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260510013100030",
+    "titleFingerprint": "0e2b22985475feefc854d918231f064cd1141b6b",
+    "dedupKeys": [
+      "fba8ea0b7f815ffe701add2915fed08f33bafa1f",
+      "0e2b22985475feefc854d918231f064cd1141b6b",
+      "b15fcfeac6cc539b8459e3440547190d0fcd2393"
+    ],
+    "imageUrl": "/images/articles/fba8ea0b7f81.jpg",
+    "i18n": {
+      "ko": {
+        "title": "스타벅스 코리아, ‘악마는 프라다를 입는다2’ 맞춤 음료 출시",
+        "excerpt": "스타벅스 코리아가 영화 ‘악마는 프라다를 입는다2’ 개봉에 맞춰 주인공 캐릭터에서 영감을 받은 커스텀 음료를 선보이며 영화 속 레시피를 매장 경험으로 구현한다.",
+        "body": "스타벅스 코리아는 영화 ‘악마는 프라다를 입는다2’ 개봉에 맞춰 영화 속 주인공 캐릭터에서 영감을 받은 커스텀 음료를 선보인다. 이번 음료는 작품의 분위기와 캐릭터 이미지를 바탕으로 영화 속 레시피를 구현한 것이 특징이다. 회사는 영화 개봉 시점에 맞춘 협업형 메뉴를 통해 고객이 콘텐츠를 음료 경험으로 접할 수 있도록 했다. 관련 제품은 스타벅스 매장에서 영화 팬과 커피 소비자 모두에게 관심을 받을 것으로 보인다. 출처: yna.co.kr"
+      },
+      "en": {
+        "title": "Starbucks Korea Unveils ‘Devil Wears Prada 2’ Custom Drinks",
+        "excerpt": "Starbucks Korea is introducing custom drinks tied to the release of ‘The Devil Wears Prada 2,’ inspired by the film’s lead characters and recreating recipes from the movie.",
+        "body": "Starbucks Korea is launching custom drinks inspired by the main characters in the film ‘The Devil Wears Prada 2’ to coincide with the movie’s release. The drinks are designed to recreate recipes featured in the film while reflecting the mood of the story and its characters. By aligning the menu with the film’s opening, the company is turning screen content into an in-store beverage experience. The products are expected to draw attention from both movie fans and Starbucks customers. Source: yna.co.kr"
+      },
+      "ja": {
+        "title": "スターバックス韓国、『プラダを着た悪魔2』カスタム飲料を展開",
+        "excerpt": "スターバックス韓国は映画『プラダを着た悪魔2』の公開に合わせ、主人公キャラクターに着想を得たカスタム飲料を発売し、映画内のレシピを店舗体験として再現する。",
+        "body": "スターバックス韓国は、映画『プラダを着た悪魔2』の公開に合わせ、作中の主人公キャラクターから着想を得たカスタム飲料を展開する。今回の飲料は、作品の雰囲気とキャラクターイメージをもとに、映画内のレシピを再現した点が特徴だ。同社は公開時期に合わせた協業型メニューを通じ、顧客がコンテンツを飲料体験として楽しめるようにした。関連商品は映画ファンとコーヒー消費者の双方から関心を集める見通しだ。出典: yna.co.kr"
+      },
+      "zh": {
+        "title": "星巴克韩国推出《穿普拉达的女王2》定制饮品",
+        "excerpt": "星巴克韩国配合电影《穿普拉达的女王2》上映，推出受片中主角角色启发的定制饮品，把电影里的配方转化为门店饮品体验。",
+        "body": "星巴克韩国配合电影《穿普拉达的女王2》上映，推出受片中主角角色启发的定制饮品。此次饮品的特点是以作品氛围和角色形象为基础，呈现电影中的饮品配方。公司借助与电影上映节点相结合的联动菜单，让顾客能够在门店以饮品形式体验相关内容。相关产品预计将受到电影粉丝和咖啡消费者的关注。来源: yna.co.kr"
+      },
+      "es": {
+        "title": "Starbucks Corea lanza bebidas de ‘El diablo viste de Prada 2’",
+        "excerpt": "Starbucks Corea presenta bebidas personalizadas por el estreno de ‘El diablo viste de Prada 2’, inspiradas en sus protagonistas y basadas en recetas vistas en la película.",
+        "body": "Starbucks Corea presentará bebidas personalizadas inspiradas en los personajes principales de la película ‘El diablo viste de Prada 2’ con motivo de su estreno. La propuesta reproduce recetas que aparecen en la cinta y toma como referencia el ambiente de la obra y la imagen de sus personajes. Con este menú vinculado al lanzamiento, la compañía busca convertir el contenido cinematográfico en una experiencia de bebida en tienda. Los productos podrían atraer la atención de fans de la película y consumidores de café. Fuente: yna.co.kr"
+      },
+      "pt": {
+        "title": "Starbucks Coreia lança bebidas de ‘O Diabo Veste Prada 2’",
+        "excerpt": "A Starbucks Coreia apresenta bebidas personalizadas para a estreia de ‘O Diabo Veste Prada 2’, inspiradas nos protagonistas e em receitas mostradas no filme.",
+        "body": "A Starbucks Coreia lançará bebidas personalizadas inspiradas nos personagens principais do filme ‘O Diabo Veste Prada 2’ para acompanhar sua estreia. As bebidas recriam receitas vistas na obra e refletem o clima do filme e a imagem de seus personagens. Com um menu ligado ao lançamento, a empresa transforma o conteúdo cinematográfico em uma experiência de bebida nas lojas. Os produtos devem chamar a atenção tanto de fãs do filme quanto de consumidores de café. Fonte: yna.co.kr"
+      },
+      "de": {
+        "title": "Starbucks Korea bringt ‘Der Teufel trägt Prada 2’-Getränke",
+        "excerpt": "Starbucks Korea stellt zum Kinostart von ‘Der Teufel trägt Prada 2’ maßgeschneiderte Getränke vor, inspiriert von den Hauptfiguren und Rezepten aus dem Film.",
+        "body": "Starbucks Korea führt zum Start des Films ‘Der Teufel trägt Prada 2’ maßgeschneiderte Getränke ein, die von den Hauptfiguren inspiriert sind. Die neuen Getränke greifen die Stimmung des Werks und die Bilder der Charaktere auf und setzen Rezepte aus dem Film um. Mit dem an den Filmstart gekoppelten Menü macht das Unternehmen Inhalte aus dem Kino zu einem Getränkeerlebnis in der Filiale. Die Produkte dürften sowohl Filmfans als auch Kaffeekunden interessieren. Quelle: yna.co.kr"
+      },
+      "fr": {
+        "title": "Starbucks Corée lance des boissons ‘Le Diable s’habille en Prada 2’",
+        "excerpt": "Starbucks Corée présente des boissons personnalisées pour la sortie de ‘Le Diable s’habille en Prada 2’, inspirées des personnages principaux et des recettes du film.",
+        "body": "Starbucks Corée lance des boissons personnalisées inspirées des personnages principaux du film ‘Le Diable s’habille en Prada 2’ à l’occasion de sa sortie. Ces boissons reprennent des recettes vues dans le film tout en reflétant l’atmosphère de l’œuvre et l’image de ses personnages. Avec ce menu associé à la sortie du film, l’entreprise transforme le contenu à l’écran en expérience de boisson en magasin. Les produits devraient attirer l’attention des fans du film et des consommateurs de café. Source: yna.co.kr"
+      },
+      "ar": {
+        "title": "ستاربكس كوريا تطرح مشروبات مستوحاة من ‘الشيطان يرتدي برادا 2’",
+        "excerpt": "تطرح ستاربكس كوريا مشروبات مخصصة بالتزامن مع عرض فيلم ‘الشيطان يرتدي برادا 2’، مستوحاة من شخصياته الرئيسية وتعيد تقديم وصفات ظهرت في الفيلم.",
+        "body": "تطرح ستاربكس كوريا مشروبات مخصصة مستوحاة من الشخصيات الرئيسية في فيلم ‘الشيطان يرتدي برادا 2’ بالتزامن مع عرضه. وتتميز هذه المشروبات بأنها تعيد تنفيذ وصفات ظهرت في الفيلم، مع الاستناد إلى أجواء العمل وصور شخصياته. ومن خلال قائمة مرتبطة بموعد الإطلاق، تحول الشركة المحتوى السينمائي إلى تجربة مشروبات داخل المتاجر. ومن المتوقع أن تجذب المنتجات اهتمام محبي الفيلم ومستهلكي القهوة على حد سواء. المصدر: yna.co.kr"
+      },
+      "hi": {
+        "title": "स्टारबक्स कोरिया ने ‘द डेविल वियर्स प्राडा 2’ कस्टम ड्रिंक्स पेश किए",
+        "excerpt": "स्टारबक्स कोरिया फिल्म ‘द डेविल वियर्स प्राडा 2’ की रिलीज के साथ मुख्य पात्रों से प्रेरित कस्टम ड्रिंक्स पेश कर रहा है, जिनमें फिल्म की रेसिपी को दोहराया गया है।",
+        "body": "स्टारबक्स कोरिया फिल्म ‘द डेविल वियर्स प्राडा 2’ की रिलीज के साथ मुख्य पात्रों से प्रेरित कस्टम ड्रिंक्स पेश कर रहा है। इन पेयों की खासियत यह है कि वे फिल्म में दिखी रेसिपी को लागू करते हैं और कहानी के माहौल तथा पात्रों की छवि को आधार बनाते हैं। फिल्म रिलीज के समय से जुड़े इस सहयोगी मेन्यू के जरिए कंपनी स्क्रीन कंटेंट को स्टोर में पेय अनुभव में बदल रही है। ये उत्पाद फिल्म प्रशंसकों और कॉफी ग्राहकों दोनों का ध्यान खींच सकते हैं। स्रोत: yna.co.kr"
+      },
+      "id": {
+        "title": "Starbucks Korea Hadirkan Minuman ‘The Devil Wears Prada 2’",
+        "excerpt": "Starbucks Korea meluncurkan minuman kustom menyambut rilis ‘The Devil Wears Prada 2’, terinspirasi dari karakter utama dan menghadirkan resep yang ada dalam film.",
+        "body": "Starbucks Korea menghadirkan minuman kustom yang terinspirasi dari karakter utama dalam film ‘The Devil Wears Prada 2’ bertepatan dengan perilisannya. Minuman ini menampilkan resep dari film dengan mengacu pada suasana karya dan citra para karakternya. Melalui menu kolaboratif yang diselaraskan dengan jadwal rilis film, perusahaan mengubah konten layar menjadi pengalaman minuman di gerai. Produk terkait diperkirakan menarik perhatian penggemar film dan konsumen kopi. Sumber: yna.co.kr"
+      }
+    }
+  },
+  {
     "id": "a814b783638d",
     "slug": "국가유산청장-종묘-앞-개발-영향평가-없이-강행-시-추가-조치-366647",
     "channelId": "ETF",
@@ -4271,231 +4496,6 @@
         "title": "KOSPI 7000 Dorong Investor Ritel Besar Beli Samsung Electronics dan SK Hynix",
         "excerpt": "Saat KOSPI memasuki era 7.000 poin, investor individu bermodal besar menjadi sorotan karena mengalirkan dana sekitar 100 juta won ke Samsung Electronics dan SK Hynix.",
         "body": "Saat KOSPI memasuki fase yang disebut investor Korea sebagai “era 7.000 poin”, investor individu bermodal besar dilaporkan memusatkan pembelian pada Samsung Electronics dan SK Hynix, yang di pasar lokal kerap disebut “Samjeon-Nix”. Judul asli menyoroti masuknya dana besar sekitar 100 juta won, menunjukkan meningkatnya permintaan investor individu terhadap saham semikonduktor utama Korea. Samsung Electronics dan SK Hynix merupakan saham chip besar di pasar domestik dan biasanya menarik perhatian saat indeks utama menguat. Pergerakan ini menunjukkan bahwa modal ritel mengalir ke saham teknologi besar dalam lingkungan KOSPI 7000. Sumber: hankyung.com"
-      }
-    }
-  },
-  {
-    "id": "c20226d3dee8",
-    "slug": "연합뉴스-이-시각-헤드라인---1500-544639",
-    "channelId": "ETF",
-    "category": "etf",
-    "publishedAt": "2026-05-10T07:04:32.667Z",
-    "updatedAt": "2026-05-10T07:04:32.667Z",
-    "sourceName": "yna.co.kr",
-    "sourceUrl": "https://www.yna.co.kr/view/AKR20260510029900011",
-    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260510029900011",
-    "titleFingerprint": "2272aab9a34b64a09df5b1eb8272e9bc6b2b9b62",
-    "dedupKeys": [
-      "c20226d3dee8f5ccfedbbffc398d98d40ce5ac6b",
-      "2272aab9a34b64a09df5b1eb8272e9bc6b2b9b62",
-      "0dea2631e85d041a4fdaaeec85d045882b308c61"
-    ],
-    "imageUrl": "/images/articles/c20226d3dee8.jpg",
-    "i18n": {
-      "ko": {
-        "title": "이색 후보 명단 주목, 배달기사·개그우먼·요양보호사 출마 사례",
-        "excerpt": "연합뉴스 15:00 헤드라인은 배달기사, 개그우먼, 요양보호사 등 다양한 직업군의 이색 후보들이 선거전에 나섰고 전과 15범 후보도 포함됐다고 전했다.",
-        "body": "연합뉴스가 15:00 기준으로 전한 이 시각 헤드라인에 따르면 선거전에는 배달기사, 개그우먼, 요양보호사 등 다양한 직업을 가진 이색 후보들이 이름을 올렸다. 보도 요약에는 일반적인 정치 경력과는 다른 배경의 후보들이 경쟁에 참여한 사례가 소개됐으며, 전과 15범 후보도 포함됐다는 내용이 함께 제시됐다. 이번 헤드라인은 후보자의 직업과 이력 다양성이 선거 국면에서 주목받고 있음을 보여준다. 유권자들은 후보 개인의 배경과 경력을 함께 살펴보게 될 전망이다. 출처: yna.co.kr"
-      },
-      "en": {
-        "title": "Unusual Election Candidates Draw Notice, From Delivery Rider to Care Worker",
-        "excerpt": "Yonhap’s 15:00 headline reported that candidates from varied jobs, including a delivery rider, comedian and care worker, entered the race, along with one with 15 prior convictions.",
-        "body": "According to Yonhap News Agency’s 15:00 headline update, the election field includes unusual candidates with a wide range of occupations, such as a delivery rider, comedian and care worker. The summary highlighted cases of contenders whose backgrounds differ from conventional political careers, and also noted that a candidate with 15 prior convictions was included. The headline shows that the diversity of candidates’ jobs and personal records is drawing attention in the election phase. Voters are expected to examine both each candidate’s background and record. Source: yna.co.kr"
-      },
-      "ja": {
-        "title": "異色候補に注目、配達員・女性芸人・介護職員らが出馬",
-        "excerpt": "聯合ニュースの15時ヘッドラインは、配達員、女性芸人、介護職員など多様な職業の異色候補が選挙戦に加わり、前科15犯の候補も含まれると伝えた。",
-        "body": "聯合ニュースが15時基準で伝えたヘッドラインによると、選挙戦には配達員、女性芸人、介護職員など、さまざまな職業を持つ異色候補が名を連ねた。報道要約では、一般的な政治経歴とは異なる背景を持つ候補者が競争に参加した事例が紹介され、前科15犯の候補も含まれているとの内容も示された。今回のヘッドラインは、候補者の職業や経歴の多様性が選挙局面で注目されていることを示している。有権者は候補者個人の背景と経歴を併せて見ることになりそうだ。出典: yna.co.kr"
-      },
-      "zh": {
-        "title": "特殊候选人受关注，外卖员、女喜剧演员、护理员参选",
-        "excerpt": "韩联社15:00头条称，外卖员、女喜剧演员、护理员等不同职业背景的特殊候选人投入选战，其中还包括一名有15次前科的候选人。",
-        "body": "据韩联社15:00发布的此刻头条，选战中出现了外卖员、女喜剧演员、护理员等拥有不同职业背景的特殊候选人。报道摘要介绍了这些候选人与一般政治履历不同的背景和参选案例，并同时提到其中包括一名有15次前科的候选人。该头条显示，候选人的职业与履历多样性正在选举阶段受到关注。选民预计将同时审视候选人的个人背景和经历。来源: yna.co.kr"
-      },
-      "es": {
-        "title": "Candidatos inusuales atraen atención: repartidor, comediante y cuidadora",
-        "excerpt": "El titular de Yonhap de las 15:00 informó que candidatos de oficios diversos, como repartidor, comediante y cuidadora, entraron en la contienda, incluido uno con 15 antecedentes.",
-        "body": "Según la actualización de titulares de Yonhap a las 15:00, la contienda electoral incluye candidatos inusuales con ocupaciones diversas, entre ellos un repartidor, una comediante y una cuidadora. El resumen del reporte presentó casos de aspirantes con trayectorias distintas de la carrera política convencional y señaló también la presencia de un candidato con 15 antecedentes penales. El titular muestra que la diversidad de oficios e historiales de los candidatos está recibiendo atención en esta etapa electoral. Se espera que los votantes examinen tanto el origen como la trayectoria de cada aspirante. Fuente: yna.co.kr"
-      },
-      "pt": {
-        "title": "Candidatos incomuns chamam atenção: entregador, comediante e cuidadora",
-        "excerpt": "A manchete das 15h da Yonhap informou que candidatos de profissões diversas, como entregador, comediante e cuidadora, entraram na disputa, incluindo um com 15 antecedentes.",
-        "body": "Segundo a atualização de manchetes da Yonhap às 15h, a disputa eleitoral inclui candidatos incomuns com uma ampla variedade de ocupações, como entregador, comediante e cuidadora. O resumo da reportagem destacou casos de concorrentes com trajetórias diferentes das carreiras políticas convencionais e também observou a presença de um candidato com 15 antecedentes criminais. A manchete mostra que a diversidade de profissões e históricos dos candidatos está atraindo atenção no cenário eleitoral. Os eleitores devem avaliar tanto a origem quanto o histórico de cada candidato. Fonte: yna.co.kr"
-      },
-      "de": {
-        "title": "Ungewöhnliche Kandidaten im Fokus: Lieferfahrer, Komikerin und Pflegekraft",
-        "excerpt": "Die Yonhap-Schlagzeile von 15:00 Uhr meldete, dass Kandidaten aus verschiedenen Berufen, darunter Lieferfahrer, Komikerin und Pflegekraft, antreten; auch einer mit 15 Vorstrafen ist dabei.",
-        "body": "Laut dem Schlagzeilen-Update der Nachrichtenagentur Yonhap um 15:00 Uhr treten im Wahlkampf ungewöhnliche Kandidaten mit sehr unterschiedlichen Berufen an, darunter ein Lieferfahrer, eine Komikerin und eine Pflegekraft. Die Zusammenfassung des Berichts stellte Fälle von Bewerbern vor, deren Hintergrund von klassischen politischen Laufbahnen abweicht, und erwähnte auch einen Kandidaten mit 15 Vorstrafen. Die Schlagzeile zeigt, dass die Vielfalt der Berufe und Lebensläufe der Kandidaten in der Wahlphase Aufmerksamkeit erhält. Wähler dürften sowohl den persönlichen Hintergrund als auch die Laufbahn der Kandidaten prüfen. Quelle: yna.co.kr"
-      },
-      "fr": {
-        "title": "Candidats atypiques en vue: livreur, humoriste et aide-soignante en lice",
-        "excerpt": "Le titre de Yonhap à 15h00 indique que des candidats aux métiers variés, dont livreur, humoriste et aide-soignante, participent à la course, avec aussi un candidat aux 15 antécédents.",
-        "body": "Selon le point titres de Yonhap à 15h00, la campagne électorale compte des candidats atypiques issus de métiers variés, notamment un livreur, une humoriste et une aide-soignante. Le résumé du reportage présente des profils éloignés des parcours politiques habituels et mentionne également la présence d’un candidat ayant 15 antécédents judiciaires. Ce titre montre que la diversité des professions et des parcours des candidats attire l’attention dans cette phase électorale. Les électeurs devraient examiner à la fois l’origine personnelle et le parcours de chaque candidat. Source: yna.co.kr"
-      },
-      "ar": {
-        "title": "مرشحون غير تقليديين تحت الضوء: عامل توصيل وكوميدية ومقدمة رعاية",
-        "excerpt": "أفاد عنوان يونهاب عند الساعة 15:00 بأن مرشحين من مهن متنوعة، بينهم عامل توصيل وكوميدية ومقدمة رعاية، دخلوا السباق الانتخابي، مع وجود مرشح له 15 سابقة.",
-        "body": "وفق تحديث عناوين وكالة يونهاب عند الساعة 15:00، يضم السباق الانتخابي مرشحين غير تقليديين من مهن متنوعة، مثل عامل توصيل وكوميدية ومقدمة رعاية. وقدم ملخص التقرير أمثلة لمرشحين تختلف خلفياتهم عن المسارات السياسية المعتادة، كما أشار إلى وجود مرشح لديه 15 سابقة جنائية. ويظهر هذا العنوان أن تنوع مهن المرشحين وسجلاتهم يحظى بالاهتمام في المرحلة الانتخابية. ومن المتوقع أن ينظر الناخبون في خلفية كل مرشح وسيرته على حد سواء. المصدر: yna.co.kr"
-      },
-      "hi": {
-        "title": "अलग पृष्ठभूमि वाले उम्मीदवार चर्चा में, डिलीवरी कर्मी से देखभालकर्मी तक",
-        "excerpt": "योनहाप की 15:00 हेडलाइन ने बताया कि डिलीवरी कर्मी, महिला कॉमेडियन और देखभालकर्मी जैसे विविध पेशों के उम्मीदवार चुनाव मैदान में हैं, जिनमें 15 पूर्व दोषों वाला उम्मीदवार भी शामिल है।",
-        "body": "योनहाप समाचार एजेंसी की 15:00 बजे की हेडलाइन अपडेट के अनुसार, चुनावी मैदान में डिलीवरी कर्मी, महिला कॉमेडियन और देखभालकर्मी जैसे अलग-अलग पेशों से आए असामान्य उम्मीदवार शामिल हैं। रिपोर्ट के सार में ऐसे दावेदारों के उदाहरण दिए गए जिनकी पृष्ठभूमि सामान्य राजनीतिक करियर से अलग है, और यह भी बताया गया कि 15 पूर्व आपराधिक दोषों वाला एक उम्मीदवार भी शामिल है। यह हेडलाइन दिखाती है कि उम्मीदवारों के पेशों और रिकॉर्ड की विविधता चुनावी चरण में ध्यान खींच रही है। मतदाता उम्मीदवारों की व्यक्तिगत पृष्ठभूमि और रिकॉर्ड दोनों पर गौर कर सकते हैं। स्रोत: yna.co.kr"
-      },
-      "id": {
-        "title": "Kandidat Tak Biasa Disorot, dari Kurir hingga Komedian dan Perawat Lansia",
-        "excerpt": "Judul Yonhap pukul 15.00 melaporkan kandidat dari pekerjaan beragam, termasuk kurir, komedian dan perawat lansia, ikut dalam kontestasi, serta satu kandidat dengan 15 catatan pidana.",
-        "body": "Menurut pembaruan judul Yonhap News Agency pukul 15.00, kontestasi pemilu diikuti kandidat tak biasa dengan beragam pekerjaan, seperti kurir, komedian dan perawat lansia. Ringkasan laporan menyoroti contoh peserta dengan latar belakang yang berbeda dari karier politik pada umumnya, serta mencatat adanya kandidat dengan 15 catatan pidana. Judul ini menunjukkan bahwa keragaman pekerjaan dan rekam jejak kandidat sedang menarik perhatian dalam fase pemilu. Pemilih diperkirakan akan menilai latar belakang pribadi sekaligus riwayat setiap kandidat. Sumber: yna.co.kr"
-      }
-    }
-  },
-  {
-    "id": "7995bad86904",
-    "slug": "27년-무패-신화-신진호-반도체-단기-조정-시점-다가온다-458517",
-    "channelId": "ETF",
-    "category": "etf",
-    "publishedAt": "2026-05-10T07:03:38.267Z",
-    "updatedAt": "2026-05-10T07:03:38.267Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/202605011317i",
-    "canonicalUrl": "https://www.hankyung.com/article/202605011317i",
-    "titleFingerprint": "8915b0194e4416c7b4a271dc4b98e86b3456c4eb",
-    "dedupKeys": [
-      "7995bad86904ad49beecf0adc66b068229a5e12b",
-      "8915b0194e4416c7b4a271dc4b98e86b3456c4eb",
-      "ec953bb09cdc30dbb052840835d08c308e1f8e8f"
-    ],
-    "imageUrl": "/images/articles/7995bad86904.jpg",
-    "i18n": {
-      "ko": {
-        "title": "반도체 단기 조정 경고, ‘27년 무패 신화’ 신진호가 본 ETF 투자 변곡점",
-        "excerpt": "한국경제에 따르면 ‘27년 무패 신화’로 소개된 신진호가 반도체 업종의 단기 조정 시점이 다가오고 있다고 언급하며 관련 투자자들의 주목을 받고 있다.",
-        "body": "‘27년 무패 신화’로 소개된 신진호가 반도체 업종의 단기 조정 가능성을 언급했다. 한국경제 보도에 따르면 신진호는 최근 반도체 시장을 두고 “반도체 단기 조정 시점이 다가온다”는 취지의 견해를 밝혔다. 원문에 별도 요약이나 구체적 수치가 제시되지는 않았지만, 발언의 핵심은 반도체 흐름이 단기적으로 숨 고르기에 들어갈 수 있다는 점이다. 반도체 관련 ETF와 업종 투자자는 해당 발언을 시장 변동성 점검 신호로 받아들일 수 있다. 다만 기사에 공개된 정보만으로 조정의 폭, 시기, 대상 종목을 단정할 수는 없다. 출처: hankyung.com"
-      },
-      "en": {
-        "title": "Semiconductor Pullback Warning: Shin Jin-ho Flags a Turning Point for ETF Investors",
-        "excerpt": "According to Hankyung, Shin Jin-ho, introduced as the figure behind a “27-year unbeaten legend,” said the timing of a short-term semiconductor correction is approaching.",
-        "body": "Shin Jin-ho, introduced as the figure behind a “27-year unbeaten legend,” has pointed to the possibility of a short-term correction in the semiconductor sector. According to Hankyung, Shin said that the timing of a short-term semiconductor pullback is approaching. The original information does not provide a separate summary or detailed figures, but the key message is that semiconductor momentum may enter a near-term pause. Investors in semiconductor-related ETFs and sector products may treat the comment as a signal to review volatility exposure. However, based only on the published information, the scale, timing, or specific stocks involved in any correction cannot be determined. Source: hankyung.com"
-      },
-      "ja": {
-        "title": "半導体の短期調整に警戒、「27年無敗神話」申眞浩氏がETF投資家に示した転機",
-        "excerpt": "韓国経済によると、「27年無敗神話」と紹介された申眞浩氏が、半導体業種の短期調整時期が近づいているとの見方を示し注目されている。",
-        "body": "「27年無敗神話」と紹介された申眞浩氏が、半導体業種の短期調整の可能性に言及した。韓国経済の報道によると、申氏は最近の半導体市場について「半導体の短期調整時期が近づいている」という趣旨の見方を示した。原文には別途の要約や具体的な数値は示されていないが、発言の核心は半導体の流れが短期的に一服する可能性があるという点だ。半導体関連ETFや業種商品に投資する投資家は、この発言を市場変動性を点検する材料として受け止めることができる。ただし、公開された情報だけで調整の幅、時期、対象銘柄を断定することはできない。出典: hankyung.com"
-      },
-      "zh": {
-        "title": "半导体短期调整警示：“27年不败神话”申振浩提示ETF投资转折点",
-        "excerpt": "据韩国经济报道，被称为“27年不败神话”的申振浩表示，半导体行业短期调整时点正在临近，引发相关投资者关注。",
-        "body": "被称为“27年不败神话”的申振浩提到了半导体行业短期调整的可能性。据韩国经济报道，申振浩近期就半导体市场表示，半导体短期调整时点正在临近。原文未提供单独摘要或具体数据，但其发言核心在于，半导体走势短期内可能进入休整阶段。投资半导体相关ETF和行业产品的投资者，可将这一表态视为重新检查市场波动风险的信号。不过，仅凭已公开的信息，尚无法断定调整幅度、具体时间或涉及的个股范围。来源: hankyung.com"
-      },
-      "es": {
-        "title": "Alerta de corrección en semiconductores: Shin Jin-ho marca un giro para ETF",
-        "excerpt": "Según Hankyung, Shin Jin-ho, presentado como la figura de la “leyenda invicta de 27 años”, dijo que se acerca el momento de una corrección breve en semiconductores.",
-        "body": "Shin Jin-ho, presentado como la figura de la “leyenda invicta de 27 años”, mencionó la posibilidad de una corrección de corto plazo en el sector de semiconductores. Según Hankyung, Shin afirmó recientemente que se acerca el momento de una corrección breve en semiconductores. La información original no incluye un resumen separado ni cifras concretas, pero el punto central es que el impulso del sector podría entrar en una pausa temporal. Los inversores en ETF vinculados a semiconductores y productos sectoriales pueden tomar el comentario como una señal para revisar su exposición a la volatilidad. Sin embargo, con la información publicada no es posible determinar la magnitud, el calendario ni los valores concretos de una eventual corrección. Fuente: hankyung.com"
-      },
-      "pt": {
-        "title": "Alerta de ajuste em semicondutores: Shin Jin-ho aponta virada para ETFs",
-        "excerpt": "Segundo o Hankyung, Shin Jin-ho, apresentado como a figura da “lenda invicta de 27 anos”, disse que se aproxima o momento de uma correção curta em semicondutores.",
-        "body": "Shin Jin-ho, apresentado como a figura da “lenda invicta de 27 anos”, mencionou a possibilidade de uma correção de curto prazo no setor de semicondutores. Segundo o Hankyung, Shin afirmou recentemente que o momento de uma correção curta em semicondutores está se aproximando. A informação original não traz um resumo separado nem números específicos, mas a mensagem central é que o movimento do setor pode entrar em uma fase breve de acomodação. Investidores em ETFs ligados a semicondutores e produtos setoriais podem usar o comentário como sinal para revisar a exposição à volatilidade. Ainda assim, apenas com os dados publicados, não é possível definir a magnitude, o momento exato ou os ativos envolvidos em uma eventual correção. Fonte: hankyung.com"
-      },
-      "de": {
-        "title": "Warnung vor Halbleiter-Korrektur: Shin Jin-ho sieht Wendepunkt für ETF-Anleger",
-        "excerpt": "Laut Hankyung sagte Shin Jin-ho, vorgestellt als Figur der „27 Jahre ungeschlagenen Legende“, dass der Zeitpunkt einer kurzfristigen Halbleiterkorrektur näher rückt.",
-        "body": "Shin Jin-ho, vorgestellt als Figur der „27 Jahre ungeschlagenen Legende“, hat auf die Möglichkeit einer kurzfristigen Korrektur im Halbleitersektor hingewiesen. Laut Hankyung sagte Shin zuletzt, der Zeitpunkt einer kurzfristigen Halbleiterkorrektur rücke näher. Die ursprüngliche Information enthält keine separate Zusammenfassung und keine konkreten Kennzahlen, doch die Kernaussage lautet, dass die Dynamik im Halbleiterbereich kurzfristig eine Pause einlegen könnte. Anleger in halbleiterbezogenen ETFs und Sektorprodukten können die Aussage als Anlass nehmen, ihre Volatilitätsrisiken zu prüfen. Aus den veröffentlichten Informationen allein lassen sich jedoch weder Ausmaß noch Zeitpunkt oder betroffene Einzelwerte einer möglichen Korrektur bestimmen. Quelle: hankyung.com"
-      },
-      "fr": {
-        "title": "Alerte sur les semi-conducteurs: Shin Jin-ho signale un tournant pour les ETF",
-        "excerpt": "Selon Hankyung, Shin Jin-ho, présenté comme la figure de la « légende invaincue depuis 27 ans », estime que le moment d’une correction courte des semi-conducteurs approche.",
-        "body": "Shin Jin-ho, présenté comme la figure de la « légende invaincue depuis 27 ans », a évoqué la possibilité d’une correction de court terme dans le secteur des semi-conducteurs. Selon Hankyung, Shin a récemment déclaré que le moment d’une correction courte des semi-conducteurs approchait. L’information originale ne fournit pas de résumé séparé ni de chiffres précis, mais le message central est que la tendance du secteur pourrait marquer une pause à court terme. Les investisseurs exposés aux ETF liés aux semi-conducteurs et aux produits sectoriels peuvent considérer ce commentaire comme un signal de réexamen du risque de volatilité. Toutefois, les informations publiées ne permettent pas de déterminer l’ampleur, le calendrier ou les titres concernés par une éventuelle correction. Source: hankyung.com"
-      },
-      "ar": {
-        "title": "تحذير من تصحيح قصير في أشباه الموصلات: شين جين هو يلفت أنظار مستثمري الصناديق",
-        "excerpt": "بحسب هانكيونغ، قال شين جين هو، الموصوف بصاحب «أسطورة 27 عاما بلا هزيمة»، إن توقيت تصحيح قصير الأجل في قطاع أشباه الموصلات يقترب.",
-        "body": "أشار شين جين هو، الموصوف بصاحب «أسطورة 27 عاما بلا هزيمة»، إلى احتمال حدوث تصحيح قصير الأجل في قطاع أشباه الموصلات. ووفقا لتقرير هانكيونغ، قال شين مؤخرا إن توقيت التصحيح القصير في أشباه الموصلات يقترب. ولا تتضمن المعلومات الأصلية ملخصا منفصلا أو أرقاما تفصيلية، لكن جوهر التصريح هو أن زخم القطاع قد يدخل مرحلة تهدئة قصيرة. ويمكن للمستثمرين في صناديق ETF المرتبطة بأشباه الموصلات والمنتجات القطاعية اعتبار التصريح إشارة لمراجعة التعرض لتقلبات السوق. ومع ذلك، لا تكفي المعلومات المنشورة وحدها لتحديد حجم التصحيح أو توقيته أو الأسهم التي قد يشملها. المصدر: hankyung.com"
-      },
-      "hi": {
-        "title": "सेमीकंडक्टर में अल्पकालिक गिरावट की चेतावनी: शिन जिन-हो ने ETF निवेशकों को संकेत दिया",
-        "excerpt": "Hankyung के अनुसार, “27 साल की अपराजित कथा” के रूप में पेश किए गए शिन जिन-हो ने कहा कि सेमीकंडक्टर क्षेत्र में अल्पकालिक करेक्शन का समय नजदीक आ रहा है।",
-        "body": "“27 साल की अपराजित कथा” के रूप में पेश किए गए शिन जिन-हो ने सेमीकंडक्टर क्षेत्र में अल्पकालिक करेक्शन की संभावना का उल्लेख किया। Hankyung की रिपोर्ट के अनुसार, शिन ने हाल में कहा कि सेमीकंडक्टर में अल्पकालिक करेक्शन का समय करीब आ रहा है। मूल जानकारी में अलग सारांश या विशिष्ट आंकड़े नहीं दिए गए हैं, लेकिन मुख्य संदेश यह है कि सेमीकंडक्टर की चाल निकट अवधि में ठहराव ले सकती है। सेमीकंडक्टर से जुड़े ETF और सेक्टर उत्पादों में निवेश करने वाले निवेशक इस टिप्पणी को बाजार की अस्थिरता की समीक्षा के संकेत के रूप में देख सकते हैं। हालांकि, प्रकाशित जानकारी के आधार पर करेक्शन की सीमा, समय या संबंधित शेयरों को निश्चित रूप से नहीं बताया जा सकता। स्रोत: hankyung.com"
-      },
-      "id": {
-        "title": "Peringatan Koreksi Semikonduktor: Shin Jin-ho Soroti Titik Balik bagi Investor ETF",
-        "excerpt": "Menurut Hankyung, Shin Jin-ho, yang diperkenalkan sebagai sosok “legenda tak terkalahkan 27 tahun”, mengatakan waktu koreksi jangka pendek semikonduktor makin dekat.",
-        "body": "Shin Jin-ho, yang diperkenalkan sebagai sosok “legenda tak terkalahkan 27 tahun”, menyinggung kemungkinan koreksi jangka pendek di sektor semikonduktor. Menurut laporan Hankyung, Shin baru-baru ini menyampaikan pandangan bahwa waktu koreksi jangka pendek semikonduktor semakin dekat. Informasi asli tidak menyertakan ringkasan terpisah atau angka khusus, tetapi inti pernyataannya adalah bahwa laju sektor semikonduktor dapat memasuki fase jeda dalam waktu dekat. Investor pada ETF terkait semikonduktor dan produk sektoral dapat melihat komentar ini sebagai sinyal untuk meninjau eksposur terhadap volatilitas pasar. Namun, berdasarkan informasi yang dipublikasikan saja, skala, waktu, atau saham tertentu yang terdampak koreksi belum dapat dipastikan. Sumber: hankyung.com"
-      }
-    }
-  },
-  {
-    "id": "d87eb0f7a3ae",
-    "slug": "손-커진-개미들-억대-주식-사팔사팔지난달-1억원-이상-주문-역대-최대-384221",
-    "channelId": "ETF",
-    "category": "etf",
-    "publishedAt": "2026-05-10T07:02:29.925Z",
-    "updatedAt": "2026-05-10T07:02:29.925Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/stock/12042535",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12042535",
-    "titleFingerprint": "4c6a255a6ccb4ee62acc036e5821b9832defaf54",
-    "dedupKeys": [
-      "d87eb0f7a3ae5798b0380da3dd19a577b9515b83",
-      "4c6a255a6ccb4ee62acc036e5821b9832defaf54",
-      "2e76d52890670a601858b35d194a9cd80ab148d6"
-    ],
-    "imageUrl": "/images/articles/d87eb0f7a3ae.jpg",
-    "i18n": {
-      "ko": {
-        "title": "코스피 랠리 속 개인투자자 1억원 이상 주문 119만건 역대 최대, 삼성전자·하이닉스 집중",
-        "excerpt": "지난달 코스피가 사상 처음 7000선을 돌파하며 랠리를 이어가자, 1억원 이상 대량 주문이 119만건으로 역대 최대를 기록했고 3분의 1은 삼성전자와 SK하이닉스에 몰렸다.",
-        "body": "지난달 국내 증시에서 1억원 이상 주식 주문이 119만건으로 역대 최대를 기록했다. 코스피가 사상 처음 7000선을 돌파하며 랠리를 이어가는 가운데, 거액을 운용하는 이른바 ‘큰손’ 개인투자자들의 매매가 크게 늘어난 흐름이다. 보도에 따르면 전체 1억원 이상 대량 주문 가운데 약 3분의 1은 삼성전자와 SK하이닉스에 집중됐다. 대형 반도체주를 중심으로 개인투자자의 고액 주문이 몰리면서 시장 랠리 국면에서 개인 자금의 존재감이 커진 것으로 풀이된다. 다만 기사에 제시된 수치는 지난달 주문 현황에 한정된다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Retail Investors’ Orders of 100 Million Won or More Hit Record 1.19 Million Amid KOSPI Rally",
-        "excerpt": "Last month, as the KOSPI topped 7,000 for the first time and extended its rally, orders of 100 million won or more reached a record 1.19 million, with one-third concentrated in Samsung Electronics and SK Hynix.",
-        "body": "Last month, stock orders worth 100 million won or more in the Korean market reached 1.19 million, the highest level on record. The increase came as the KOSPI surpassed the 7,000 mark for the first time and continued its rally, while individual investors handling large sums became more active in trading. According to the report, about one-third of all large orders of 100 million won or more were concentrated in Samsung Electronics and SK Hynix. The figures show that high-value orders from retail investors were focused on major semiconductor stocks during the market rally. The reported data covers last month’s order activity. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "KOSPI上昇で個人の1億ウォン以上注文が119万件、過去最多に",
-        "excerpt": "先月、KOSPIが史上初めて7000を突破して上昇を続ける中、1億ウォン以上の大口注文は119万件と過去最多となり、3分の1がサムスン電子とSKハイニックスに集中した。",
-        "body": "先月、韓国株式市場で1億ウォン以上の株式注文が119万件となり、過去最多を記録した。KOSPIが史上初めて7000を突破し、上昇を続ける中、多額の資金を動かすいわゆる「大口」の個人投資家による売買が大きく増えた流れだ。報道によると、1億ウォン以上の大口注文全体の約3分の1はサムスン電子とSKハイニックスに集中した。大型半導体株を中心に個人投資家の高額注文が集まったことで、相場上昇局面における個人資金の存在感が強まったことが示された。数値は先月の注文状況に限られる。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "KOSPI上涨中散户1亿韩元以上订单达119万笔，创历史新高",
-        "excerpt": "上月KOSPI史上首次突破7000点并延续涨势，1亿韩元以上大额订单达到119万笔、创历史新高，其中三分之一集中在三星电子和SK海力士。",
-        "body": "上月，韩国股市中1亿韩元以上的股票订单达到119万笔，创下历史最高纪录。随着KOSPI史上首次突破7000点并延续上涨，运用大额资金的所谓“大户”个人投资者交易明显增加。报道称，在全部1亿韩元以上大额订单中，约三分之一集中于三星电子和SK海力士。个人投资者的高额订单主要流向大型半导体股，显示在市场上涨阶段个人资金的存在感有所扩大。不过，报道中提到的数据仅限于上月的订单情况。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Órdenes minoristas de más de 100 millones de wones alcanzan récord de 1,19 millones",
-        "excerpt": "El mes pasado, mientras el KOSPI superó por primera vez los 7.000 puntos y siguió al alza, las órdenes de 100 millones de wones o más llegaron a un récord de 1,19 millones, con un tercio en Samsung Electronics y SK Hynix.",
-        "body": "El mes pasado, las órdenes bursátiles de 100 millones de wones o más en el mercado coreano alcanzaron 1,19 millones, el mayor nivel registrado. El aumento se produjo mientras el KOSPI superaba por primera vez la barrera de los 7.000 puntos y continuaba su rally, con una mayor actividad de inversores individuales que manejan grandes sumas. Según el reporte, cerca de un tercio de todas las órdenes grandes de 100 millones de wones o más se concentró en Samsung Electronics y SK Hynix. Los datos muestran que las órdenes de alto valor de particulares se enfocaron en grandes acciones de semiconductores durante la subida del mercado. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Ordens de varejo acima de 100 milhões de wons batem recorde de 1,19 milhão",
-        "excerpt": "No mês passado, enquanto o KOSPI superou pela primeira vez os 7.000 pontos e manteve o rali, ordens de 100 milhões de wons ou mais chegaram ao recorde de 1,19 milhão, com um terço em Samsung Electronics e SK Hynix.",
-        "body": "No mês passado, as ordens de ações de 100 milhões de wons ou mais no mercado coreano chegaram a 1,19 milhão, o maior número já registrado. O avanço ocorreu enquanto o KOSPI ultrapassava pela primeira vez a marca de 7.000 pontos e seguia em rali, com maior atividade de investidores individuais que movimentam grandes valores. Segundo a reportagem, cerca de um terço de todas as grandes ordens de 100 milhões de wons ou mais ficou concentrado em Samsung Electronics e SK Hynix. Os dados indicam que ordens de alto valor de investidores pessoa física se concentraram em grandes ações de semicondutores. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Privatanleger-Aufträge ab 100 Mio. Won erreichen Rekordwert von 1,19 Millionen",
-        "excerpt": "Im vergangenen Monat überschritt der KOSPI erstmals die Marke von 7.000 Punkten und setzte seine Rally fort; Aufträge ab 100 Mio. Won erreichten mit 1,19 Mio. einen Rekord, ein Drittel entfiel auf Samsung Electronics und SK Hynix.",
-        "body": "Im vergangenen Monat erreichten Aktienaufträge im Wert von 100 Mio. Won oder mehr am koreanischen Markt 1,19 Mio. und damit den höchsten jemals verzeichneten Stand. Der Anstieg fiel in eine Phase, in der der KOSPI erstmals die Marke von 7.000 Punkten überschritt und seine Rally fortsetzte. Zugleich nahm die Handelsaktivität von Privatanlegern zu, die größere Summen bewegen. Dem Bericht zufolge konzentrierte sich rund ein Drittel aller Großaufträge ab 100 Mio. Won auf Samsung Electronics und SK Hynix. Die Zahlen zeigen, dass hochvolumige Privatanlegerorders während der Marktrally vor allem in große Halbleiterwerte flossen. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Les ordres particuliers de plus de 100 millions de wons atteignent un record",
-        "excerpt": "Le mois dernier, alors que le KOSPI franchissait pour la première fois les 7.000 points et poursuivait son rally, les ordres d’au moins 100 millions de wons ont atteint un record de 1,19 million, dont un tiers sur Samsung Electronics et SK Hynix.",
-        "body": "Le mois dernier, les ordres boursiers de 100 millions de wons ou plus sur le marché coréen ont atteint 1,19 million, un record historique. Cette hausse est intervenue alors que le KOSPI franchissait pour la première fois le seuil des 7.000 points et poursuivait son rally, avec une activité accrue des investisseurs individuels disposant de montants importants. Selon l’article, environ un tiers de tous les gros ordres de 100 millions de wons ou plus s’est concentré sur Samsung Electronics et SK Hynix. Ces chiffres montrent que les ordres élevés des particuliers se sont orientés vers les grandes valeurs des semi-conducteurs. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "أوامر الأفراد فوق 100 مليون وون تسجل رقما قياسيا مع صعود كوسبي",
-        "excerpt": "في الشهر الماضي، ومع تجاوز كوسبي مستوى 7000 نقطة للمرة الأولى واستمرار الصعود، بلغت الأوامر التي لا تقل عن 100 مليون وون 1.19 مليون أمر، وتركز ثلثها في سامسونغ إلكترونيكس وSK هاينكس.",
-        "body": "في الشهر الماضي، بلغ عدد أوامر الأسهم بقيمة 100 مليون وون أو أكثر في السوق الكورية 1.19 مليون أمر، وهو أعلى مستوى مسجل. جاء ذلك بينما تجاوز مؤشر كوسبي مستوى 7000 نقطة للمرة الأولى وواصل صعوده، في وقت زاد فيه نشاط المستثمرين الأفراد الذين يديرون مبالغ كبيرة. وبحسب التقرير، تركز نحو ثلث جميع الأوامر الكبيرة البالغة 100 مليون وون أو أكثر في سامسونغ إلكترونيكس وSK هاينكس. وتظهر الأرقام أن أوامر الأفراد مرتفعة القيمة اتجهت خصوصا إلى أسهم أشباه الموصلات الكبرى خلال موجة صعود السوق. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "KOSPI रैली में खुदरा निवेशकों के 10 करोड़ वॉन से बड़े ऑर्डर रिकॉर्ड 11.9 लाख",
-        "excerpt": "पिछले महीने KOSPI पहली बार 7,000 के पार गया और रैली जारी रही, जबकि 10 करोड़ वॉन या उससे अधिक के बड़े ऑर्डर रिकॉर्ड 11.9 लाख पर पहुंचे; इनमें एक-तिहाई Samsung Electronics और SK Hynix में केंद्रित रहे।",
-        "body": "पिछले महीने कोरियाई शेयर बाजार में 10 करोड़ वॉन या उससे अधिक मूल्य के शेयर ऑर्डर 11.9 लाख पर पहुंच गए, जो अब तक का सबसे बड़ा स्तर है। यह बढ़ोतरी ऐसे समय आई जब KOSPI पहली बार 7,000 के स्तर को पार कर रैली जारी रखे हुए था और बड़ी रकम लगाने वाले व्यक्तिगत निवेशकों की ट्रेडिंग गतिविधि बढ़ी। रिपोर्ट के अनुसार, 10 करोड़ वॉन या उससे अधिक के कुल बड़े ऑर्डरों में करीब एक-तिहाई Samsung Electronics और SK Hynix में केंद्रित थे। आंकड़े दिखाते हैं कि बाजार की तेजी के दौरान खुदरा निवेशकों के ऊंचे मूल्य वाले ऑर्डर बड़े सेमीकंडक्टर शेयरों में गए। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Order Investor Ritel di Atas 100 Juta Won Capai Rekor 1,19 Juta Saat KOSPI Reli",
-        "excerpt": "Bulan lalu, saat KOSPI menembus 7.000 untuk pertama kalinya dan melanjutkan reli, order senilai 100 juta won atau lebih mencapai rekor 1,19 juta, dengan sepertiganya terkonsentrasi di Samsung Electronics dan SK Hynix.",
-        "body": "Bulan lalu, order saham senilai 100 juta won atau lebih di pasar Korea mencapai 1,19 juta, level tertinggi sepanjang catatan. Kenaikan itu terjadi ketika KOSPI untuk pertama kalinya menembus level 7.000 dan melanjutkan reli, sementara aktivitas investor individu yang mengelola dana besar meningkat. Menurut laporan tersebut, sekitar sepertiga dari seluruh order besar senilai 100 juta won atau lebih terkonsentrasi di Samsung Electronics dan SK Hynix. Angka ini menunjukkan bahwa order bernilai tinggi dari investor ritel terutama mengarah ke saham semikonduktor besar selama fase reli pasar. Sumber: mk.co.kr"
       }
     }
   }
