@@ -1,5 +1,230 @@
 [
   {
+    "id": "94dd14bea87e",
+    "slug": "가상자산-거래소-직원-4년-만에-2배로시장은-점차-포화-814373",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-05-10T18:43:05.818Z",
+    "updatedAt": "2026-05-10T18:43:05.818Z",
+    "sourceName": "yna.co.kr",
+    "sourceUrl": "https://www.yna.co.kr/view/AKR20260508163800002",
+    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260508163800002",
+    "titleFingerprint": "51cc5c6ede153e7eec42f3f7b43064ebcdbeee10",
+    "dedupKeys": [
+      "94dd14bea87ee7a46d8ba5723ac0c16270a00752",
+      "51cc5c6ede153e7eec42f3f7b43064ebcdbeee10",
+      "255fe31d805f6db0c7dae207b4c1ba4b081ff8c1"
+    ],
+    "imageUrl": "/images/articles/94dd14bea87e.jpg",
+    "i18n": {
+      "ko": {
+        "title": "가상자산 거래소 직원 4년 만에 2배, 국내 시장 포화 신호 커진다",
+        "excerpt": "연합뉴스에 따르면 국내 가상자산 거래소 임직원 수는 최근 수년 사이 두 배로 늘었지만, 시장 성장세는 둔화하며 점차 포화 국면에 들어서고 있다.",
+        "body": "국내 가상자산 거래소 임직원 수가 최근 수년 사이 두 배로 늘어난 것으로 나타났다. 연합뉴스가 보도한 내용에 따르면 거래소 인력은 확대됐지만, 시장 성장세는 눈에 띄게 둔화하고 있다. 이는 가상자산 거래 수요와 사업 확장 여지가 이전보다 제한되고 있음을 보여주는 흐름으로 해석된다. 업계는 인력 증가에도 시장이 점차 포화되는 상황을 맞고 있으며, 향후 거래소 간 경쟁과 운영 효율성 관리가 더 중요해질 전망이다. 출처: yna.co.kr"
+      },
+      "en": {
+        "title": "Crypto Exchange Staff Doubles in Four Years as Korean Market Shows Saturation Signs",
+        "excerpt": "According to Yonhap News, staffing at South Korean crypto exchanges has doubled in recent years, while market growth is visibly slowing and the sector is moving toward saturation.",
+        "body": "The number of employees at South Korean virtual asset exchanges has doubled in recent years. According to a Yonhap News report, exchanges have expanded their workforces, but the pace of market growth is slowing noticeably. The trend suggests that demand for crypto trading and room for business expansion have become more limited than before. Even as staffing has increased, the industry is facing a market that is gradually becoming saturated, making competition among exchanges and operational efficiency more important going forward. Source: yna.co.kr"
+      },
+      "ja": {
+        "title": "暗号資産取引所の職員が4年で2倍、韓国市場に飽和感広がる",
+        "excerpt": "聯合ニュースによると、韓国の暗号資産取引所の役職員数は近年2倍に増えた一方、市場の成長ペースは明確に鈍化し、飽和局面に近づいている。",
+        "body": "韓国の暗号資産取引所で働く役職員数が、ここ数年で2倍に増えたことが分かった。聯合ニュースの報道によれば、取引所の人員は拡大したものの、市場の成長ペースは目に見えて鈍化している。これは暗号資産取引の需要や事業拡大の余地が以前より限られてきた流れと受け止められる。業界は人員増にもかかわらず、市場が徐々に飽和する状況に直面しており、今後は取引所間の競争と運営効率の管理がより重要になる見通しだ。出典: yna.co.kr"
+      },
+      "zh": {
+        "title": "韩国虚拟资产交易所员工四年翻倍，市场饱和信号增强",
+        "excerpt": "据韩联社报道，韩国虚拟资产交易所员工人数近年来增加至两倍，但市场增长势头明显放缓，行业正逐步进入饱和阶段。",
+        "body": "韩国虚拟资产交易所的员工人数近年来已增至两倍。韩联社报道称，交易所人员规模持续扩大，但市场增长势头正在明显放缓。这一趋势显示，虚拟资产交易需求和业务扩张空间较以往更加有限。尽管从业人员增加，行业仍面临市场逐渐饱和的局面，未来交易所之间的竞争以及运营效率管理将变得更加重要。来源: yna.co.kr"
+      },
+      "es": {
+        "title": "Empleados de exchanges cripto se duplican en Corea y el mercado muestra saturación",
+        "excerpt": "Según Yonhap, el personal de los exchanges de activos virtuales en Corea del Sur se duplicó en los últimos años, mientras el crecimiento del mercado se desacelera con claridad.",
+        "body": "El número de empleados de los exchanges de activos virtuales en Corea del Sur se ha duplicado en los últimos años. Según informó Yonhap News, las plataformas ampliaron sus plantillas, pero el ritmo de crecimiento del mercado se está desacelerando de forma visible. La tendencia indica que la demanda de operaciones con criptoactivos y el margen para expandir los negocios son ahora más limitados que antes. Aunque el personal ha aumentado, el sector enfrenta un mercado que avanza gradualmente hacia la saturación, por lo que la competencia entre exchanges y la eficiencia operativa ganarán importancia. Fuente: yna.co.kr"
+      },
+      "pt": {
+        "title": "Funcionários de exchanges cripto dobram na Coreia e mercado dá sinais de saturação",
+        "excerpt": "Segundo a Yonhap, o número de funcionários em exchanges de ativos virtuais na Coreia do Sul dobrou nos últimos anos, enquanto o crescimento do mercado desacelera claramente.",
+        "body": "O número de funcionários das exchanges de ativos virtuais na Coreia do Sul dobrou nos últimos anos. Segundo reportagem da Yonhap News, as plataformas ampliaram suas equipes, mas o ritmo de crescimento do mercado vem desacelerando de forma visível. Esse movimento indica que a demanda por negociação de criptoativos e o espaço para expansão dos negócios estão mais limitados do que antes. Mesmo com o aumento de pessoal, o setor enfrenta um mercado que gradualmente se aproxima da saturação, tornando mais importantes a concorrência entre exchanges e a gestão da eficiência operacional. Fonte: yna.co.kr"
+      },
+      "de": {
+        "title": "Krypto-Börsen in Korea verdoppeln Personal, doch der Markt wirkt zunehmend gesättigt",
+        "excerpt": "Laut Yonhap hat sich die Zahl der Beschäftigten bei südkoreanischen Krypto-Börsen in den vergangenen Jahren verdoppelt, während sich das Marktwachstum deutlich verlangsamt.",
+        "body": "Die Zahl der Beschäftigten bei südkoreanischen Börsen für virtuelle Vermögenswerte hat sich in den vergangenen Jahren verdoppelt. Wie Yonhap News berichtet, haben die Handelsplätze ihre Belegschaften ausgebaut, doch das Marktwachstum verlangsamt sich sichtbar. Der Trend deutet darauf hin, dass die Nachfrage nach Krypto-Handel und der Spielraum für geschäftliche Expansion stärker begrenzt sind als zuvor. Trotz des Personalaufbaus steht die Branche vor einem Markt, der allmählich in eine Sättigungsphase eintritt. Wettbewerb zwischen Börsen und operative Effizienz dürften daher wichtiger werden. Quelle: yna.co.kr"
+      },
+      "fr": {
+        "title": "Les effectifs des plateformes crypto doublent en Corée, signe d’un marché saturé",
+        "excerpt": "Selon Yonhap, les effectifs des plateformes sud-coréennes d’actifs virtuels ont doublé ces dernières années, tandis que la croissance du marché ralentit nettement.",
+        "body": "Le nombre d’employés des plateformes sud-coréennes d’actifs virtuels a doublé ces dernières années. Selon Yonhap News, les plateformes ont accru leurs effectifs, mais le rythme de croissance du marché ralentit de façon visible. Cette évolution suggère que la demande de transactions en cryptoactifs et les possibilités d’expansion commerciale sont désormais plus limitées qu’auparavant. Malgré la hausse des effectifs, le secteur fait face à un marché qui se rapproche progressivement de la saturation, ce qui devrait rendre plus importantes la concurrence entre plateformes et la maîtrise de l’efficacité opérationnelle. Source: yna.co.kr"
+      },
+      "ar": {
+        "title": "موظفو بورصات الأصول الافتراضية في كوريا يتضاعفون والسوق يقترب من التشبع",
+        "excerpt": "بحسب وكالة يونهاب، تضاعف عدد العاملين في بورصات الأصول الافتراضية الكورية خلال السنوات الأخيرة، بينما يتباطأ نمو السوق بوضوح ويتجه تدريجيا نحو التشبع.",
+        "body": "ارتفع عدد العاملين في بورصات الأصول الافتراضية في كوريا الجنوبية إلى الضعف خلال السنوات الأخيرة. ووفقا لما نقلته وكالة يونهاب، وسعت البورصات قواها العاملة، لكن وتيرة نمو السوق تتباطأ بشكل ملحوظ. ويشير هذا الاتجاه إلى أن الطلب على تداول الأصول المشفرة ومساحة التوسع التجاري أصبحا أكثر محدودية من السابق. ورغم زيادة عدد الموظفين، يواجه القطاع سوقا يقترب تدريجيا من التشبع، ما يجعل المنافسة بين البورصات وإدارة الكفاءة التشغيلية أكثر أهمية في الفترة المقبلة. المصدر: yna.co.kr"
+      },
+      "hi": {
+        "title": "कोरिया में क्रिप्टो एक्सचेंज कर्मचारियों की संख्या दोगुनी, बाजार में संतृप्ति के संकेत",
+        "excerpt": "योनहाप के अनुसार, दक्षिण कोरिया के वर्चुअल एसेट एक्सचेंजों में कर्मचारियों की संख्या हाल के वर्षों में दोगुनी हुई है, लेकिन बाजार की वृद्धि स्पष्ट रूप से धीमी पड़ रही है।",
+        "body": "दक्षिण कोरिया के वर्चुअल एसेट एक्सचेंजों में कर्मचारियों की संख्या हाल के वर्षों में दोगुनी हो गई है। योनहाप न्यूज़ की रिपोर्ट के अनुसार, एक्सचेंजों ने अपना कार्यबल बढ़ाया है, लेकिन बाजार की वृद्धि की रफ्तार साफ तौर पर धीमी हो रही है। यह रुझान दिखाता है कि क्रिप्टो एसेट ट्रेडिंग की मांग और कारोबार विस्तार की गुंजाइश पहले की तुलना में अधिक सीमित हो गई है। कर्मचारियों की संख्या बढ़ने के बावजूद उद्योग ऐसे बाजार का सामना कर रहा है जो धीरे-धीरे संतृप्ति की ओर बढ़ रहा है, जिससे एक्सचेंजों के बीच प्रतिस्पर्धा और परिचालन दक्षता का प्रबंधन आगे और महत्वपूर्ण होगा। स्रोत: yna.co.kr"
+      },
+      "id": {
+        "title": "Pegawai Bursa Kripto Korea Berlipat Dua, Pasar Mulai Tunjukkan Kejenuhan",
+        "excerpt": "Menurut Yonhap, jumlah pegawai bursa aset virtual di Korea Selatan berlipat dua dalam beberapa tahun terakhir, tetapi pertumbuhan pasar melambat jelas dan menuju kejenuhan.",
+        "body": "Jumlah pegawai bursa aset virtual di Korea Selatan telah berlipat dua dalam beberapa tahun terakhir. Menurut laporan Yonhap News, bursa memperluas tenaga kerja mereka, tetapi laju pertumbuhan pasar terlihat melambat. Tren ini menunjukkan bahwa permintaan perdagangan aset kripto dan ruang ekspansi bisnis kini lebih terbatas dibanding sebelumnya. Meski jumlah pegawai meningkat, industri menghadapi pasar yang secara bertahap bergerak menuju kejenuhan, sehingga persaingan antar bursa dan pengelolaan efisiensi operasional akan menjadi semakin penting ke depan. Sumber: yna.co.kr"
+      }
+    }
+  },
+  {
+    "id": "a88e968b0062",
+    "slug": "르포-직원들-떠나고-손님은-김밥-한-줄만중동발-고물가에-휘청-333856",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-05-10T18:42:15.548Z",
+    "updatedAt": "2026-05-10T18:42:15.548Z",
+    "sourceName": "yna.co.kr",
+    "sourceUrl": "https://www.yna.co.kr/view/AKR20260509041900030",
+    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260509041900030",
+    "titleFingerprint": "5ac89975d36eb0f23568c290e316edc8e16f3570",
+    "dedupKeys": [
+      "a88e968b0062eadfd9fb31595d2d02c483e0601f",
+      "5ac89975d36eb0f23568c290e316edc8e16f3570",
+      "88c594b80f4f7a8e181fe6a1c40df095bf61f256"
+    ],
+    "imageUrl": "/images/articles/a88e968b0062.jpg",
+    "i18n": {
+      "ko": {
+        "title": "중동발 고물가에 서울 분식·떡집 휘청, 쌀·곡물값 30% 체감 상승",
+        "excerpt": "연합뉴스는 서울 현장에서 중동발 고물가 여파로 쌀·곡물 가격 부담이 커지고, 분식·떡집이 가격 인상과 수요 위축 사이에서 어려움을 겪는 상황을 전했다.",
+        "body": "서울의 분식·떡집 등 서민 음식점들이 중동발 고물가 여파로 흔들리고 있다고 연합뉴스가 전했다. 현장 상인들은 체감상 1년 전보다 쌀과 곡물 가격이 30%가량 오른 것 같다고 말했다. 그러나 떡값처럼 소비자가 민감하게 반응하는 품목은 쉽게 올리기 어렵다는 설명이다. 일부 매장에서는 직원들이 떠나고, 손님은 김밥 한 줄만 사는 등 소비 위축도 나타났다. 원재료비 부담과 가격 전가의 한계가 겹치면서 자영업자의 어려움이 커지는 모습이다. 출처: yna.co.kr"
+      },
+      "en": {
+        "title": "Seoul snack shops reel as Middle East-linked inflation lifts grain costs",
+        "excerpt": "Yonhap reported from Seoul that Middle East-driven inflation is raising rice and grain cost pressures, squeezing snack and rice-cake shops between higher costs and weaker demand.",
+        "body": "Small food shops in Seoul, including snack bars and rice-cake stores, are being hit by inflation linked to the Middle East, Yonhap reported. Merchants at the scene said rice and grain prices feel about 30% higher than a year earlier. Still, they said it is hard to raise prices for items such as rice cakes because customers are sensitive to increases. Some shops have seen workers leave, while customers buy only a single roll of gimbap, showing weaker consumption. The pressure from raw material costs and limited room to pass them on is deepening difficulties for self-employed owners. Source: yna.co.kr"
+      },
+      "ja": {
+        "title": "中東発の物価高でソウルの軽食店揺らぐ、米・穀物価格に30％上昇感",
+        "excerpt": "聯合ニュースはソウルの現場から、中東発の物価高で米や穀物の負担が増し、軽食店や餅店が値上げの難しさと需要鈍化に直面していると伝えた。",
+        "body": "ソウルの軽食店や餅店など庶民的な飲食店が、中東発の物価高の影響で揺らいでいると聯合ニュースが伝えた。現場の商人は、体感では1年前より米と穀物の価格が30％ほど上がったようだと話した。ただ、餅の価格のように消費者が敏感に反応する品目は簡単には上げにくいという。一部の店では従業員が去り、客がキンパ1本だけを買うなど消費の弱さも見られた。原材料費の負担と価格転嫁の限界が重なり、自営業者の苦境が深まっている。出典: yna.co.kr"
+      },
+      "zh": {
+        "title": "中东引发高物价冲击首尔小吃店，米粮成本体感上涨约30%",
+        "excerpt": "韩联社从首尔现场报道，中东引发的高物价推高米和谷物成本压力，紫菜包饭店、年糕店在涨价困难与需求走弱之间承压。",
+        "body": "韩联社报道称，首尔的紫菜包饭店、年糕店等平民餐饮店正受到中东引发高物价的冲击。现场商户表示，体感上米和谷物价格比一年前上涨了约30%。不过，像年糕这类消费者对价格敏感的品类，并不容易上调售价。部分店铺出现员工离开、顾客只买一条紫菜包饭的情况，显示消费也在收缩。原材料成本压力与难以转嫁价格的限制叠加，使个体经营者的困难加重。来源: yna.co.kr"
+      },
+      "es": {
+        "title": "La inflación ligada a Oriente Medio golpea a locales de comida en Seúl",
+        "excerpt": "Yonhap informó desde Seúl que la inflación vinculada a Oriente Medio eleva los costos del arroz y los cereales, presionando a tiendas de gimbap y pasteles de arroz.",
+        "body": "Pequeños locales de comida en Seúl, incluidas tiendas de aperitivos y de pasteles de arroz, están tambaleándose por la inflación vinculada a Oriente Medio, informó Yonhap. Comerciantes consultados dijeron que, en su percepción, los precios del arroz y los cereales han subido alrededor de 30% frente a hace un año. Aun así, explicaron que no es fácil elevar precios de productos sensibles para los consumidores, como los pasteles de arroz. En algunas tiendas se han ido empleados y los clientes compran solo una fila de gimbap, señal de menor consumo. La presión de materias primas y el límite para trasladar costos agravan las dificultades. Fuente: yna.co.kr"
+      },
+      "pt": {
+        "title": "Inflação ligada ao Oriente Médio pressiona lanchonetes e lojas de arroz em Seul",
+        "excerpt": "A Yonhap relatou em Seul que a inflação ligada ao Oriente Médio aumenta o peso do arroz e dos grãos, afetando lojas de comida popular entre custos altos e demanda fraca.",
+        "body": "Lojas de comida popular em Seul, incluindo casas de lanches e de bolos de arroz, estão sendo abaladas pela inflação ligada ao Oriente Médio, informou a Yonhap. Comerciantes no local disseram sentir que os preços do arroz e dos grãos subiram cerca de 30% em relação a um ano antes. Ainda assim, afirmam que é difícil elevar facilmente preços de itens como bolos de arroz, aos quais consumidores reagem com sensibilidade. Em algumas lojas, funcionários foram embora e clientes compram apenas uma unidade de gimbap, mostrando retração do consumo. O peso das matérias-primas e o limite para repassar preços ampliam as dificuldades. Fonte: yna.co.kr"
+      },
+      "de": {
+        "title": "Nahostbedingte Teuerung setzt Snackläden in Seoul unter Druck",
+        "excerpt": "Yonhap berichtete aus Seoul, dass die nahostbedingte Teuerung Reis- und Getreidekosten erhöht und Imbiss- sowie Reiskuchenläden zwischen Kostendruck und schwacher Nachfrage belastet.",
+        "body": "Kleine Essensläden in Seoul, darunter Imbisse und Reiskuchenläden, geraten durch die nahostbedingte Teuerung unter Druck, berichtete Yonhap. Händler vor Ort sagten, gefühlt seien die Preise für Reis und Getreide gegenüber vor einem Jahr um etwa 30% gestiegen. Dennoch sei es schwer, Preise für Waren wie Reiskuchen einfach anzuheben, weil Verbraucher darauf empfindlich reagieren. In einigen Geschäften sind Mitarbeiter gegangen, während Kunden nur noch eine Rolle Gimbap kaufen, was auf schwächeren Konsum hinweist. Rohstoffkosten und begrenzte Preissetzungsspielräume verschärfen die Lage der Selbstständigen. Quelle: yna.co.kr"
+      },
+      "fr": {
+        "title": "L’inflation liée au Moyen-Orient fragilise les petites échoppes de Séoul",
+        "excerpt": "Yonhap rapporte depuis Séoul que l’inflation liée au Moyen-Orient renchérit riz et céréales, mettant les commerces de gimbap et de gâteaux de riz sous pression.",
+        "body": "À Séoul, de petits commerces alimentaires, dont des échoppes de snacks et de gâteaux de riz, vacillent sous l’effet de l’inflation liée au Moyen-Orient, rapporte Yonhap. Des commerçants sur place disent ressentir une hausse d’environ 30% des prix du riz et des céréales par rapport à il y a un an. Pourtant, ils expliquent qu’il est difficile d’augmenter facilement les prix d’articles comme les gâteaux de riz, auxquels les consommateurs réagissent vivement. Dans certains magasins, des employés sont partis et des clients n’achètent qu’un rouleau de gimbap, signe d’une demande affaiblie. Le coût des matières premières et la difficulté à le répercuter pèsent davantage sur les indépendants. Source: yna.co.kr"
+      },
+      "ar": {
+        "title": "تضخم مرتبط بالشرق الأوسط يضغط على مطاعم شعبية في سيول مع صعود الحبوب",
+        "excerpt": "أفادت يونهاب من سيول بأن التضخم المرتبط بالشرق الأوسط يزيد عبء أسعار الأرز والحبوب، ما يضغط على متاجر الكيمباب وكعك الأرز بين ارتفاع التكلفة وضعف الطلب.",
+        "body": "قالت وكالة يونهاب إن مطاعم ومتاجر طعام شعبية في سيول، منها متاجر الوجبات الخفيفة وكعك الأرز، تتأثر بالتضخم المرتبط بالشرق الأوسط. وذكر تجار في الموقع أنهم يشعرون بأن أسعار الأرز والحبوب ارتفعت بنحو 30% مقارنة بما كانت عليه قبل عام. ومع ذلك، قالوا إن رفع أسعار سلع مثل كعك الأرز ليس سهلا لأن المستهلكين حساسون تجاه الزيادة. وفي بعض المتاجر غادر موظفون، بينما يشتري الزبائن لفة كيمباب واحدة فقط، ما يشير إلى ضعف الاستهلاك. ويتفاقم العبء مع ارتفاع تكلفة المواد الخام وصعوبة نقلها إلى الأسعار. المصدر: yna.co.kr"
+      },
+      "hi": {
+        "title": "मध्य पूर्व से जुड़ी महंगाई से सियोल की छोटी खाद्य दुकानें दबाव में",
+        "excerpt": "योनहाप ने सियोल से बताया कि मध्य पूर्व से जुड़ी महंगाई चावल और अनाज की लागत बढ़ा रही है, जिससे गिम्बाप और राइस केक दुकानों पर लागत और कमजोर मांग का दबाव है।",
+        "body": "सियोल की छोटी खाद्य दुकानें, जिनमें स्नैक बार और राइस केक की दुकानें शामिल हैं, मध्य पूर्व से जुड़ी महंगाई के असर से डगमगा रही हैं, योनहाप ने बताया। मौके पर दुकानदारों ने कहा कि उन्हें लगता है कि चावल और अनाज की कीमतें एक साल पहले की तुलना में करीब 30% बढ़ गई हैं। फिर भी राइस केक जैसे उत्पादों के दाम आसानी से बढ़ाना कठिन है, क्योंकि ग्राहक कीमतों पर संवेदनशील प्रतिक्रिया देते हैं। कुछ दुकानों में कर्मचारी जा चुके हैं और ग्राहक केवल गिम्बाप की एक रोल खरीद रहे हैं, जिससे खपत में कमजोरी दिखती है। कच्चे माल की लागत और उसे कीमतों में डालने की सीमा से स्व-रोजगार वालों की मुश्किलें बढ़ रही हैं। स्रोत: yna.co.kr"
+      },
+      "id": {
+        "title": "Inflasi terkait Timur Tengah menekan kedai makanan kecil di Seoul",
+        "excerpt": "Yonhap melaporkan dari Seoul bahwa inflasi terkait Timur Tengah menaikkan beban harga beras dan biji-bijian, menekan kedai gimbap dan kue beras di tengah lemahnya permintaan.",
+        "body": "Kedai makanan kecil di Seoul, termasuk gerai makanan ringan dan toko kue beras, terguncang oleh inflasi yang terkait dengan Timur Tengah, lapor Yonhap. Pedagang di lapangan mengatakan mereka merasakan harga beras dan biji-bijian naik sekitar 30% dibanding setahun lalu. Namun, mereka menjelaskan harga produk seperti kue beras tidak mudah dinaikkan karena konsumen sensitif terhadap kenaikan. Di sebagian toko, karyawan pergi, sementara pelanggan hanya membeli satu gulung gimbap, menunjukkan konsumsi yang melemah. Beban bahan baku dan keterbatasan meneruskan biaya ke harga membuat pelaku usaha mandiri makin tertekan. Sumber: yna.co.kr"
+      }
+    }
+  },
+  {
+    "id": "f89e391e4d13",
+    "slug": "고유가에-저비용항공사-운항-900편-감축무급휴직-속출-466012",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-05-10T18:41:08.725Z",
+    "updatedAt": "2026-05-10T18:41:08.725Z",
+    "sourceName": "yna.co.kr",
+    "sourceUrl": "https://www.yna.co.kr/view/AKR20260509037700003",
+    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260509037700003",
+    "titleFingerprint": "b8bb02b6622bb852a783ee6c19cfcb4df177f34b",
+    "dedupKeys": [
+      "f89e391e4d13e15260ae0801da71b836d0c0aa24",
+      "b8bb02b6622bb852a783ee6c19cfcb4df177f34b",
+      "ffa94d52e936968d371a6946f6ea3b6278505cd4"
+    ],
+    "imageUrl": "/images/articles/f89e391e4d13.jpg",
+    "i18n": {
+      "ko": {
+        "title": "고유가 직격탄 맞은 저비용항공사, 운항 900편 감축과 무급휴직 확산",
+        "excerpt": "저비용항공사 제주항공은 고유가 부담 속에 운항 900편을 줄이고, 지난 8일 객실 승무원 희망자를 대상으로 6월 한 달 무급휴직을 실시한다고 밝혔다.",
+        "body": "고유가 부담이 커지면서 저비용항공사 운항 축소와 인력 조정이 현실화하고 있다. 제주항공[089590]은 지난 8일 객실 승무원 희망자를 대상으로 6월 한 달간 무급휴직을 실시한다고 밝혔다. 업계에서는 고유가 영향으로 저비용항공사 운항이 900편 감축되는 상황도 전해졌다. 항공유 가격 부담이 커지면 운항 비용이 늘어나고, 이는 노선 운영과 근무 일정 조정으로 이어질 수 있다. 이번 조치는 비용 압박 속에서 항공사들이 운항 규모를 줄이고 인건비 부담을 낮추려는 흐름을 보여준다. 출처: yna.co.kr."
+      },
+      "en": {
+        "title": "High Oil Prices Hit Low-Cost Airlines as 900 Flights Cut and Unpaid Leave Spreads",
+        "excerpt": "Jeju Air said on the 8th it would offer unpaid leave for volunteer cabin crew throughout June, as low-cost carriers face high oil prices and 900 flight reductions.",
+        "body": "Rising oil prices are pushing low-cost airlines toward flight cuts and workforce adjustments. Jeju Air [089590] said on the 8th that it would implement unpaid leave for cabin crew members who volunteer for the measure during the month of June. The industry has also reported that low-cost carrier operations are being reduced by 900 flights due to the impact of high oil prices. When jet fuel costs rise, operating expenses increase, which can lead to changes in route operations and crew schedules. The move shows how airlines are trying to reduce flight capacity and labor-cost pressure amid higher expenses. Source: yna.co.kr."
+      },
+      "ja": {
+        "title": "高油価がLCCを直撃、900便減便と無給休職の動き広がる",
+        "excerpt": "済州航空は8日、高油価の負担を背景に客室乗務員の希望者を対象として6月の1カ月間、無給休職を実施すると明らかにした。LCCでは900便の減便も伝えられている。",
+        "body": "高油価の負担が強まるなか、低コスト航空会社で運航縮小と人員調整の動きが現実化している。済州航空[089590]は8日、客室乗務員の希望者を対象に6月の1カ月間、無給休職を実施すると明らかにした。業界では、高油価の影響でLCCの運航が900便削減される状況も伝えられている。航空燃料価格の負担が増せば運航費用が膨らみ、路線運営や勤務日程の調整につながり得る。今回の措置は、費用圧力のなかで航空会社が運航規模を縮小し、人件費負担を抑えようとする流れを示している。出典: yna.co.kr."
+      },
+      "zh": {
+        "title": "高油价冲击廉价航空，900个航班削减并出现无薪休假",
+        "excerpt": "济州航空8日表示，受高油价压力影响，将面向自愿报名的客舱乘务员在6月实施一个月无薪休假；廉价航空还传出削减900个航班。",
+        "body": "随着高油价压力加大，廉价航空公司的航班缩减和人员调整正在显现。济州航空[089590]8日表示，将面向自愿参加的客舱乘务员，在6月一个月内实施无薪休假。业内还传出，受高油价影响，廉价航空运营航班将减少900个。航空燃油价格负担上升，会推高运营成本，并可能进一步影响航线运营和员工排班。此次措施显示，在成本压力下，航空公司正通过缩减运力和降低人工成本负担来应对。来源: yna.co.kr."
+      },
+      "es": {
+        "title": "El crudo caro golpea a las aerolíneas de bajo costo: 900 vuelos menos y licencias sin sueldo",
+        "excerpt": "Jeju Air informó el día 8 que aplicará en junio licencias sin sueldo para tripulantes de cabina voluntarios, mientras las low cost reducen 900 vuelos por el alto precio del petróleo.",
+        "body": "El aumento del precio del petróleo está llevando a las aerolíneas de bajo costo a recortar vuelos y ajustar personal. Jeju Air [089590] informó el día 8 que aplicará licencias sin sueldo durante todo junio para los tripulantes de cabina que se ofrezcan voluntariamente. En el sector también se reportó que las operaciones de las low cost se reducirán en 900 vuelos por el impacto del crudo caro. Cuando sube el costo del combustible de aviación, aumentan los gastos operativos, lo que puede afectar rutas y turnos de trabajo. La medida muestra cómo las aerolíneas buscan reducir capacidad y aliviar la presión laboral y de costos. Fuente: yna.co.kr."
+      },
+      "pt": {
+        "title": "Petróleo caro atinge aéreas low cost, com corte de 900 voos e licença não remunerada",
+        "excerpt": "A Jeju Air informou no dia 8 que adotará licença não remunerada em junho para comissários voluntários, enquanto companhias low cost reduzem 900 voos devido ao petróleo caro.",
+        "body": "A alta do petróleo está levando companhias aéreas de baixo custo a reduzir voos e ajustar equipes. A Jeju Air [089590] informou no dia 8 que implementará licença não remunerada durante todo o mês de junho para comissários de bordo que se candidatarem voluntariamente. O setor também informou que as operações das low cost serão reduzidas em 900 voos devido ao impacto do petróleo caro. Quando o combustível de aviação fica mais oneroso, os custos operacionais aumentam, o que pode afetar rotas e escalas de trabalho. A medida mostra a tentativa das aéreas de reduzir capacidade e aliviar a pressão de custos. Fonte: yna.co.kr."
+      },
+      "de": {
+        "title": "Hohe Ölpreise treffen Billigflieger: 900 Flüge gestrichen, unbezahlter Urlaub nimmt zu",
+        "excerpt": "Jeju Air teilte am 8. mit, im Juni unbezahlten Urlaub für freiwillige Kabinencrews einzuführen, während Billigfluggesellschaften wegen hoher Ölpreise 900 Flüge kürzen.",
+        "body": "Steigende Ölpreise zwingen Billigfluggesellschaften zu Flugkürzungen und Personalanpassungen. Jeju Air [089590] teilte am 8. mit, dass freiwillige Mitglieder des Kabinenpersonals im Juni einen Monat unbezahlten Urlaub nehmen können. In der Branche wurde zudem berichtet, dass der Betrieb von Billigfluggesellschaften wegen der hohen Ölpreise um 900 Flüge reduziert wird. Höhere Kerosinkosten erhöhen die Betriebsausgaben und können sich auf Streckenplanung und Dienstpläne auswirken. Die Maßnahme zeigt, wie Airlines unter Kostendruck Kapazitäten verringern und Personalkosten begrenzen wollen. Quelle: yna.co.kr."
+      },
+      "fr": {
+        "title": "Le pétrole cher frappe les low cost: 900 vols supprimés et congés sans solde",
+        "excerpt": "Jeju Air a annoncé le 8 qu’elle mettrait en place en juin un congé sans solde pour les membres volontaires du personnel de cabine, alors que les low cost réduisent 900 vols.",
+        "body": "La hausse des prix du pétrole pousse les compagnies aériennes à bas coût à réduire leurs vols et à ajuster leurs effectifs. Jeju Air [089590] a annoncé le 8 qu’elle appliquerait, pendant tout le mois de juin, un congé sans solde aux membres du personnel de cabine volontaires. Le secteur fait aussi état d’une réduction de 900 vols chez les transporteurs low cost sous l’effet du pétrole cher. Lorsque le coût du carburant aérien augmente, les dépenses d’exploitation montent, ce qui peut entraîner des ajustements de lignes et de plannings. Cette mesure illustre la volonté des compagnies de réduire leur capacité et leur pression salariale. Source: yna.co.kr."
+      },
+      "ar": {
+        "title": "ارتفاع النفط يضغط على شركات الطيران منخفضة التكلفة: خفض 900 رحلة وإجازات بلا أجر",
+        "excerpt": "أعلنت جيجو إير في الثامن أنها ستطبق إجازة غير مدفوعة خلال يونيو لأفراد طاقم المقصورة الراغبين، مع خفض 900 رحلة لدى شركات الطيران منخفضة التكلفة بسبب ارتفاع النفط.",
+        "body": "يدفع ارتفاع أسعار النفط شركات الطيران منخفضة التكلفة إلى تقليص الرحلات وتعديل أوضاع العاملين. وقالت جيجو إير [089590] في الثامن إنها ستنفذ إجازة غير مدفوعة الأجر طوال شهر يونيو لأفراد طاقم المقصورة الذين يتقدمون طوعا. كما ورد في القطاع أن عمليات شركات الطيران منخفضة التكلفة ستنخفض بمقدار 900 رحلة بسبب تأثير أسعار النفط المرتفعة. ومع زيادة عبء وقود الطائرات ترتفع تكاليف التشغيل، ما قد ينعكس على تشغيل الخطوط وجداول العمل. وتظهر هذه الخطوة سعي الشركات إلى خفض حجم التشغيل وتخفيف ضغط التكاليف. المصدر: yna.co.kr."
+      },
+      "hi": {
+        "title": "महंगे तेल से लो-कॉस्ट एयरलाइंस पर दबाव, 900 उड़ानें कम और बिना वेतन अवकाश",
+        "excerpt": "जेजू एयर ने 8 तारीख को कहा कि वह जून में स्वेच्छा से शामिल होने वाले केबिन क्रू के लिए बिना वेतन अवकाश लागू करेगी, जबकि ऊंचे तेल दामों से 900 उड़ानें घटाई जा रही हैं।",
+        "body": "तेल की ऊंची कीमतों से लो-कॉस्ट एयरलाइंस में उड़ानों की कटौती और कर्मचारियों के समायोजन की स्थिति बन रही है। जेजू एयर [089590] ने 8 तारीख को कहा कि वह जून महीने में स्वेच्छा से आवेदन करने वाले केबिन क्रू के लिए बिना वेतन अवकाश लागू करेगी। उद्योग में यह भी बताया गया है कि महंगे तेल के असर से लो-कॉस्ट एयरलाइंस की 900 उड़ानें घटाई जा रही हैं। विमान ईंधन की लागत बढ़ने पर परिचालन खर्च बढ़ता है, जिससे मार्ग संचालन और ड्यूटी शेड्यूल में बदलाव हो सकता है। यह कदम दिखाता है कि एयरलाइंस लागत दबाव में क्षमता और श्रम लागत घटाने की कोशिश कर रही हैं। स्रोत: yna.co.kr."
+      },
+      "id": {
+        "title": "Harga Minyak Tinggi Tekan Maskapai LCC, 900 Penerbangan Dipangkas dan Cuti Tanpa Gaji",
+        "excerpt": "Jeju Air pada tanggal 8 menyatakan akan menerapkan cuti tanpa gaji selama Juni bagi awak kabin sukarela, saat maskapai LCC memangkas 900 penerbangan karena harga minyak tinggi.",
+        "body": "Kenaikan harga minyak membuat maskapai berbiaya rendah mulai memangkas penerbangan dan menyesuaikan tenaga kerja. Jeju Air [089590] pada tanggal 8 menyatakan akan menerapkan cuti tanpa gaji selama satu bulan pada Juni bagi awak kabin yang mengajukan diri secara sukarela. Di industri juga dilaporkan bahwa operasi maskapai LCC dikurangi 900 penerbangan akibat harga minyak yang tinggi. Ketika beban harga bahan bakar aviasi meningkat, biaya operasional naik dan dapat berdampak pada pengoperasian rute serta jadwal kerja. Langkah ini menunjukkan upaya maskapai mengurangi kapasitas dan tekanan biaya tenaga kerja. Sumber: yna.co.kr."
+      }
+    }
+  },
+  {
     "id": "779d41c9db05",
     "slug": "cu-즉석-떡볶이-출시-한-달-만에-3만개-판매-777048",
     "channelId": "ETF",
@@ -4271,231 +4496,6 @@
         "title": "KOSPI Menanti Kunjungan Trump ke China 14-15 dan Risiko Mogok Samsung",
         "excerpt": "Setelah naik lebih dari 13% pekan lalu dan ditutup di 7.498, KOSPI pekan ini menghadapi tekanan makro, kunjungan Trump ke China pada 14-15, serta potensi mogok Samsung Electronics.",
         "body": "Pasar mencermati apakah KOSPI akan terus melaju pekan ini atau mulai memasuki fase jeda. Pekan lalu, indeks naik lebih dari 13% dalam sepekan dan ditutup di 7.498. Namun pekan ini, beban makroekonomi dan variabel geopolitik muncul bersamaan. Kunjungan Trump ke China yang dijadwalkan pada 14-15 disebut sebagai faktor yang dapat memengaruhi sentimen pasar. Selain itu, kemungkinan mogok di Samsung Electronics juga menjadi variabel bagi pergerakan bursa domestik. Setelah reli tajam, tekanan ambil untung dan faktor eksternal akan menentukan apakah KOSPI melanjutkan kenaikan atau masuk fase koreksi. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "f5f2155604d7",
-    "slug": "도박판-오명-코스닥-바뀔까-시총보다-실적-중심-평가-예고-180548",
-    "channelId": "ETF",
-    "category": "etf",
-    "publishedAt": "2026-05-10T09:16:33.465Z",
-    "updatedAt": "2026-05-10T09:16:33.466Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/stock/12042738",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12042738",
-    "titleFingerprint": "176b25a4f90684a0db8ef6a9705afbc6847dcd11",
-    "dedupKeys": [
-      "f5f2155604d718de1f08ec96b4edf0bd2630cf27",
-      "176b25a4f90684a0db8ef6a9705afbc6847dcd11",
-      "fe80e2dbb12ec012b63e25855868fe07e5f6ac38"
-    ],
-    "imageUrl": "/images/articles/f5f2155604d7.jpg",
-    "i18n": {
-      "ko": {
-        "title": "코스닥 평가 기준 바뀌나…시총보다 실적 중심 전환 예고",
-        "excerpt": "코스닥 시가총액 상위 종목의 실적 기반 취약성이 고질적 문제로 지적되면서, 시장 평가가 시총 중심에서 실적 중심으로 바뀔지 주목된다.",
-        "body": "코스닥 시장에서 시가총액 상위권 종목을 둘러싼 평가 방식 변화 가능성이 제기되고 있다. 그동안 코스닥 상위 종목 중 상당수가 실적 기반이 충분히 검증되지 않은 고평가 종목이라는 점은 고질적 문제로 지적돼왔다. 이들 기업이 시총 상위권에 오르고 벤치마크 지수에 영향을 미치면서 시장 대표성에 대한 논란도 이어졌다. 앞으로 평가 기준이 시가총액보다 실적 중심으로 이동할 경우, 코스닥의 종목 선별과 지수 구성에 대한 투자자 관심이 커질 전망이다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "KOSDAQ Valuation Shift Looms as Earnings Take Priority Over Market Cap",
-        "excerpt": "Concerns over weak earnings foundations among top KOSDAQ stocks are drawing attention to whether market evaluation will move from market cap to performance.",
-        "body": "A possible shift in how leading KOSDAQ stocks are evaluated is drawing attention. A long-standing concern has been that many companies near the top of KOSDAQ by market capitalization are highly valued despite weak or insufficiently verified earnings foundations. As such firms rise in market-cap rankings and influence benchmark indexes, questions have continued over the market’s representativeness. If evaluation standards move from market capitalization toward earnings, investor attention may grow around stock selection and index composition in the KOSDAQ market. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "コスダック評価基準に変化か、時価総額より業績重視へ",
-        "excerpt": "コスダック時価総額上位銘柄の業績基盤の弱さが長年の課題とされ、市場評価が時価総額中心から業績中心へ移るか注目されている。",
-        "body": "コスダック市場で、時価総額上位銘柄をめぐる評価方法が変わる可能性に関心が集まっている。これまでコスダック上位銘柄の相当数が、業績基盤が十分に検証されていない高評価銘柄だという点は慢性的な問題として指摘されてきた。こうした企業が時価総額上位に入り、ベンチマーク指数にも影響を及ぼすことで、市場の代表性をめぐる議論も続いている。今後、評価基準が時価総額より業績重視へ移る場合、銘柄選別や指数構成への投資家の関心が高まる見通しだ。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "KOSDAQ估值标准或转向，业绩权重将高于市值",
-        "excerpt": "KOSDAQ市值排名靠前股票业绩基础薄弱的问题长期受关注，市场是否从市值评价转向业绩评价成为焦点。",
-        "body": "KOSDAQ市场围绕市值排名靠前股票的评价方式，正出现可能变化的关注点。长期以来，KOSDAQ上位股票中有相当一部分被指出属于业绩基础尚未充分验证的高估值股票。这些企业进入市值前列，并影响基准指数后，市场代表性争议也持续存在。若今后评价标准从市值中心转向更重视业绩，投资者对KOSDAQ股票筛选和指数构成的关注预计将上升。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "KOSDAQ apunta a valorar más los resultados que la capitalización",
-        "excerpt": "La débil base de resultados de varias acciones líderes del KOSDAQ reabre el debate sobre si la evaluación del mercado pasará de capitalización a desempeño.",
-        "body": "En el mercado KOSDAQ crece la atención sobre un posible cambio en la forma de evaluar a las acciones de mayor capitalización. Durante años se ha señalado como problema estructural que muchas compañías situadas en la parte alta por valor de mercado tienen fundamentos de resultados débiles o no suficientemente verificados. Al ascender en los rankings de capitalización e influir en los índices de referencia, también han generado dudas sobre la representatividad del mercado. Si los criterios pasan de centrarse en la capitalización a priorizar los resultados, aumentará el interés inversor por la selección de valores y la composición de índices del KOSDAQ. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "KOSDAQ pode trocar foco em valor de mercado por desempenho",
-        "excerpt": "A fragilidade dos resultados de várias ações líderes do KOSDAQ reacende a atenção sobre uma possível mudança de avaliação para critérios baseados em desempenho.",
-        "body": "No mercado KOSDAQ, ganha atenção a possibilidade de mudança na forma de avaliar as ações de maior valor de mercado. Há muito tempo se aponta como problema recorrente o fato de que muitas empresas no topo por capitalização têm base de resultados fraca ou ainda não suficientemente comprovada. Ao ocuparem posições elevadas em valor de mercado e influenciarem índices de referência, essas companhias também alimentam discussões sobre a representatividade do mercado. Caso os critérios passem da capitalização para o desempenho, deve crescer o interesse dos investidores pela seleção de ações e pela composição dos índices do KOSDAQ. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "KOSDAQ vor Bewertungswende: Gewinne statt Marktkapitalisierung im Fokus",
-        "excerpt": "Schwache Ergebnisgrundlagen vieler führender KOSDAQ-Werte rücken die Frage in den Mittelpunkt, ob künftig Leistung statt Marktkapitalisierung zählt.",
-        "body": "Am KOSDAQ rückt eine mögliche Änderung der Bewertung führender Aktien in den Fokus. Seit Langem gilt es als strukturelles Problem, dass viele nach Marktkapitalisierung hoch platzierte Unternehmen trotz schwacher oder nicht ausreichend geprüfter Ergebnisbasis hoch bewertet sind. Wenn solche Firmen in die oberen Ränge aufsteigen und Benchmark-Indizes beeinflussen, entstehen zugleich Zweifel an der Repräsentativität des Marktes. Sollten sich die Kriterien künftig stärker von der Marktkapitalisierung hin zu Ergebnissen verlagern, dürfte das Interesse der Anleger an Titelauswahl und Indexzusammensetzung am KOSDAQ steigen. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "KOSDAQ vers une évaluation centrée sur les résultats plutôt que la capitalisation",
-        "excerpt": "La faiblesse des résultats de plusieurs grandes valeurs du KOSDAQ relance l’attention sur un possible passage d’une logique de capitalisation à la performance.",
-        "body": "Sur le marché KOSDAQ, l’éventualité d’un changement dans l’évaluation des plus grandes capitalisations attire l’attention. Depuis longtemps, il est reproché à de nombreuses sociétés en haut du classement d’afficher des valorisations élevées alors que leurs résultats ne sont pas suffisamment établis. Leur présence parmi les plus fortes capitalisations et leur influence sur les indices de référence nourrissent aussi le débat sur la représentativité du marché. Si les critères se déplacent de la capitalisation vers les résultats, l’intérêt des investisseurs pour la sélection des valeurs et la composition des indices KOSDAQ devrait augmenter. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "كوسداك يتجه لتقييم يركز على الأرباح أكثر من القيمة السوقية",
-        "excerpt": "تعود هشاشة أساس الأرباح لدى عدد من أسهم كوسداك الكبرى إلى الواجهة مع ترقب ما إذا كان تقييم السوق سيتحول من القيمة السوقية إلى الأداء.",
-        "body": "تتزايد الأنظار في سوق كوسداك نحو احتمال تغير طريقة تقييم الأسهم ذات القيمة السوقية الأعلى. فقد جرى منذ فترة طويلة اعتبار أن عددا كبيرا من الأسهم المتصدرة في كوسداك مرتفع التقييم رغم أن أساس أرباحها ضعيف أو غير مثبت بما يكفي. ومع صعود هذه الشركات إلى المراتب العليا من حيث القيمة السوقية وتأثيرها في المؤشرات المرجعية، استمر الجدل حول مدى تمثيلها للسوق. وإذا انتقلت معايير التقييم من التركيز على القيمة السوقية إلى الأداء، فمن المتوقع أن يزداد اهتمام المستثمرين بانتقاء الأسهم وتركيبة مؤشرات كوسداك. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "KOSDAQ में मूल्यांकन बदलाव के संकेत, बाजार पूंजीकरण से अधिक कमाई पर जोर",
-        "excerpt": "KOSDAQ की शीर्ष बाजार पूंजीकरण वाली कई कंपनियों की कमजोर कमाई आधार पर चिंता के बीच मूल्यांकन के कमाई-केंद्रित होने पर ध्यान बढ़ा है।",
-        "body": "KOSDAQ बाजार में शीर्ष बाजार पूंजीकरण वाली कंपनियों के मूल्यांकन के तरीके में बदलाव की संभावना पर ध्यान जा रहा है। लंबे समय से यह समस्या बताई जाती रही है कि KOSDAQ की ऊपरी पंक्ति की कई कंपनियां कमजोर या पर्याप्त रूप से प्रमाणित न हुई कमाई आधार के बावजूद ऊंचे मूल्यांकन पर हैं। ऐसी कंपनियों के बाजार पूंजीकरण रैंकिंग में ऊपर आने और बेंचमार्क सूचकांकों को प्रभावित करने से बाजार प्रतिनिधित्व पर भी बहस जारी रही है। यदि मूल्यांकन मानक बाजार पूंजीकरण से हटकर कमाई पर केंद्रित होते हैं, तो KOSDAQ में शेयर चयन और सूचकांक संरचना को लेकर निवेशकों की रुचि बढ़ सकती है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "KOSDAQ Siap Beralih, Penilaian Kinerja Menguat di Atas Kapitalisasi Pasar",
-        "excerpt": "Lemahnya basis kinerja sejumlah saham papan atas KOSDAQ kembali disorot, seiring perhatian pada kemungkinan penilaian pasar bergeser ke hasil usaha.",
-        "body": "Di pasar KOSDAQ, perhatian tertuju pada kemungkinan perubahan cara menilai saham dengan kapitalisasi pasar terbesar. Selama ini, menjadi masalah lama bahwa cukup banyak emiten papan atas KOSDAQ dinilai tinggi meski basis kinerjanya lemah atau belum cukup teruji. Ketika perusahaan seperti itu naik ke jajaran teratas kapitalisasi pasar dan memengaruhi indeks acuan, perdebatan soal keterwakilan pasar terus muncul. Jika standar penilaian bergeser dari kapitalisasi pasar ke kinerja, minat investor terhadap seleksi saham dan komposisi indeks KOSDAQ diperkirakan meningkat. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "21822c9ac2f1",
-    "slug": "코스닥-1부리그엔-연기금-유입-기대-3부리그는-관리퇴출-975583",
-    "channelId": "ETF",
-    "category": "etf",
-    "publishedAt": "2026-05-10T09:15:40.133Z",
-    "updatedAt": "2026-05-10T09:15:40.133Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/stock/12042737",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12042737",
-    "titleFingerprint": "be16bad8e9adfb0e0858f0c7f5c757918e6c0e95",
-    "dedupKeys": [
-      "21822c9ac2f1ae0b0c341871573fbc78254d6e52",
-      "be16bad8e9adfb0e0858f0c7f5c757918e6c0e95",
-      "086c48c33afa98319729a1a3153b6f784830313a"
-    ],
-    "imageUrl": "/images/articles/21822c9ac2f1.jpg",
-    "i18n": {
-      "ko": {
-        "title": "코스닥 승강제 도입, 1부리그 연기금 유입 기대와 3부리그 관리 강화",
-        "excerpt": "정부가 코스닥 승강제 도입을 추진하며 우량 기업군 선별을 넘어 패시브 자금과 정책 자금 유입을 촉진하는 투자 생태계 구축에 초점을 맞췄다.",
-        "body": "정부가 코스닥 시장에 승강제를 도입해 기업군을 구분하고 투자 자금 유입을 촉진하는 방안을 추진한다. 이번 제도는 단순히 우량 기업을 선별해 보여주는 데 그치지 않고, 지수를 추종하는 패시브 자금과 정책 자금이 활발히 들어올 수 있는 투자 생태계를 만드는 데 초점이 있다. 코스닥 1부리그에는 연기금 등 장기 자금 유입 기대가 커지는 반면, 3부리그 기업은 관리와 퇴출 대상으로 분류될 수 있다. 제도가 정착되면 코스닥 내 기업 평가와 자금 배분 방식에도 변화가 예상된다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "KOSDAQ Promotion System Raises Hopes for Pension Fund Inflows to Top Tier",
-        "excerpt": "The government’s planned KOSDAQ promotion and relegation system focuses on building an investment ecosystem that can attract passive and policy funds.",
-        "body": "The government is moving to introduce a promotion and relegation system for the KOSDAQ market, separating company groups while encouraging investment inflows. The plan goes beyond simply identifying and displaying stronger companies. Its focus is to build an investment ecosystem where index-tracking passive funds and policy funds can flow more actively. The top KOSDAQ tier is expected to draw interest from long-term capital such as pension funds, while third-tier companies may be subject to management measures or delisting. If established, the system could change how companies are assessed and how capital is allocated within KOSDAQ. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "コスダック昇降格制導入、1部に年金資金流入期待と3部管理強化",
-        "excerpt": "政府はコスダック昇降格制の導入を進め、優良企業群の選別にとどまらず、パッシブ資金と政策資金の流入を促す投資環境づくりに焦点を当てる。",
-        "body": "政府はコスダック市場に昇降格制を導入し、企業群を区分して投資資金の流入を促す方針だ。今回の制度は、単に優良企業を選別して示すだけでなく、指数に連動するパッシブ資金や政策資金がより活発に流入できる投資生態系を構築することに重点がある。コスダック1部には年金基金など長期資金の流入期待が高まる一方、3部企業は管理や退出の対象となり得る。制度が定着すれば、コスダック内の企業評価と資金配分のあり方にも変化が見込まれる。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "KOSDAQ升降级制度推进，一部期待养老金流入三部管理趋严",
-        "excerpt": "韩国政府推进KOSDAQ升降级制度，重点不止于筛选优质企业，还在于构建可吸引被动资金和政策资金流入的投资生态。",
-        "body": "韩国政府正推进在KOSDAQ市场引入升降级制度，以区分企业群并促进投资资金流入。该制度并非只是筛选和展示优质企业，而是着眼于建立一种投资生态，使跟踪指数的被动资金和政策资金能够更活跃地进入市场。KOSDAQ一部有望吸引养老金等长期资金流入，而三部企业可能被列为管理或退出对象。若制度落地并稳定运行，KOSDAQ内部的企业评价方式和资金分配结构也可能发生变化。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Sistema de ascenso en KOSDAQ apunta a atraer fondos de pensiones al primer nivel",
-        "excerpt": "El gobierno impulsa un sistema de ascenso y descenso en KOSDAQ para crear un ecosistema que atraiga fondos pasivos y capital de política pública.",
-        "body": "El gobierno avanza con la introducción de un sistema de ascenso y descenso en el mercado KOSDAQ para clasificar grupos de empresas y fomentar la entrada de capital. La medida no se limita a seleccionar y mostrar compañías de mayor calidad. Su objetivo es crear un ecosistema de inversión en el que puedan entrar con más actividad fondos pasivos que siguen índices y fondos de política pública. En el primer nivel de KOSDAQ crecen las expectativas de ingreso de capital de largo plazo, como fondos de pensiones, mientras que las empresas del tercer nivel podrían quedar sujetas a gestión o exclusión. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Sistema de acesso no KOSDAQ eleva expectativa de fundos de pensão no topo",
-        "excerpt": "O governo planeja um sistema de acesso e rebaixamento no KOSDAQ para atrair fundos passivos e recursos de política pública ao mercado.",
-        "body": "O governo avança com a introdução de um sistema de acesso e rebaixamento no mercado KOSDAQ, separando grupos de empresas e incentivando a entrada de investimentos. A medida vai além de apenas selecionar e exibir companhias de melhor qualidade. O foco é construir um ecossistema em que fundos passivos que seguem índices e recursos de política pública possam entrar de forma mais ativa. No primeiro nível do KOSDAQ, aumenta a expectativa de entrada de capital de longo prazo, como fundos de pensão, enquanto empresas do terceiro nível podem ser alvo de gestão ou retirada. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "KOSDAQ-Aufstiegssystem soll Pensionsgeld in die erste Liga lenken",
-        "excerpt": "Die Regierung plant ein KOSDAQ-Auf- und Abstiegssystem, das über die Auswahl guter Firmen hinaus passive und politische Mittel anziehen soll.",
-        "body": "Die Regierung treibt die Einführung eines Auf- und Abstiegssystems am KOSDAQ-Markt voran, um Unternehmensgruppen zu unterscheiden und Kapitalzuflüsse zu fördern. Das System soll nicht nur bessere Unternehmen sichtbar machen. Im Mittelpunkt steht der Aufbau eines Anlageökosystems, in das indexfolgende passive Gelder und staatlich gelenkte Mittel aktiver fließen können. Für die erste KOSDAQ-Liga werden Zuflüsse langfristiger Gelder wie Pensionsfonds erwartet, während Unternehmen der dritten Liga verwaltet oder vom Markt genommen werden könnten. Setzt sich das System durch, dürfte sich auch die Bewertung und Kapitalverteilung im KOSDAQ verändern. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Le système de divisions du KOSDAQ vise l’arrivée des fonds de pension en tête",
-        "excerpt": "Le gouvernement prépare un système de montée et descente sur le KOSDAQ afin d’attirer davantage de fonds passifs et de capitaux publics.",
-        "body": "Le gouvernement avance vers l’introduction d’un système de montée et de descente sur le marché KOSDAQ, afin de classer les entreprises et de favoriser l’entrée de capitaux. Le dispositif ne se limite pas à sélectionner et présenter les sociétés jugées solides. Il vise surtout à bâtir un écosystème d’investissement où les fonds passifs suivant des indices et les capitaux de politique publique peuvent circuler plus activement. La première division du KOSDAQ pourrait attirer des capitaux de long terme comme les fonds de pension, tandis que la troisième division pourrait relever d’une gestion renforcée ou d’une sortie. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "نظام الصعود في كوسداك يعزز آمال تدفق أموال التقاعد إلى الفئة الأولى",
-        "excerpt": "تدفع الحكومة نحو نظام صعود وهبوط في كوسداك لا يكتفي بفرز الشركات الجيدة، بل يهدف إلى جذب الصناديق السلبية وأموال السياسات.",
-        "body": "تتجه الحكومة إلى إدخال نظام صعود وهبوط في سوق كوسداك لتقسيم الشركات وتشجيع تدفق رؤوس الأموال الاستثمارية. ولا يقتصر النظام على عرض الشركات الأفضل أو فرزها، بل يركز على بناء بيئة استثمارية تسمح بتدفق أكثر نشاطا للأموال السلبية التي تتبع المؤشرات وأموال السياسات. ومن المتوقع أن تستفيد الفئة الأولى في كوسداك من اهتمام أموال طويلة الأجل مثل صناديق التقاعد، بينما قد تصبح شركات الفئة الثالثة موضع إدارة أو خروج من السوق. وإذا استقر النظام، فقد تتغير طريقة تقييم الشركات وتوزيع الأموال داخل كوسداك. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "KOSDAQ प्रमोशन सिस्टम से शीर्ष स्तर में पेंशन फंड आने की उम्मीद",
-        "excerpt": "सरकार KOSDAQ में प्रमोशन और रेलिगेशन प्रणाली लाना चाहती है, जिसका लक्ष्य बेहतर कंपनियों की पहचान से आगे बढ़कर पैसिव और नीति फंड आकर्षित करना है।",
-        "body": "सरकार KOSDAQ बाजार में प्रमोशन और रेलिगेशन प्रणाली लागू करने की दिशा में बढ़ रही है, ताकि कंपनियों के समूह अलग किए जा सकें और निवेश पूंजी का प्रवाह बढ़े। यह व्यवस्था केवल बेहतर कंपनियों को चुनकर दिखाने तक सीमित नहीं है। इसका मुख्य लक्ष्य ऐसा निवेश पारिस्थितिकी तंत्र बनाना है, जहां सूचकांक का अनुसरण करने वाले पैसिव फंड और नीति आधारित फंड अधिक सक्रिय रूप से आ सकें। KOSDAQ के पहले स्तर में पेंशन फंड जैसी दीर्घकालिक पूंजी आने की उम्मीद बढ़ सकती है, जबकि तीसरे स्तर की कंपनियां प्रबंधन या निकास के दायरे में आ सकती हैं। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Sistem Promosi KOSDAQ Dorong Harapan Dana Pensiun Masuk Level Utama",
-        "excerpt": "Pemerintah mendorong sistem promosi dan degradasi KOSDAQ untuk membangun ekosistem investasi yang menarik dana pasif dan dana kebijakan.",
-        "body": "Pemerintah bergerak untuk memperkenalkan sistem promosi dan degradasi di pasar KOSDAQ, dengan membagi kelompok perusahaan dan mendorong arus dana investasi. Sistem ini tidak hanya bertujuan memilih dan menampilkan perusahaan unggulan. Fokusnya adalah membangun ekosistem investasi tempat dana pasif yang mengikuti indeks dan dana kebijakan dapat masuk lebih aktif. Level pertama KOSDAQ diharapkan menarik dana jangka panjang seperti dana pensiun, sementara perusahaan di level ketiga dapat menjadi sasaran pengelolaan atau pengeluaran. Jika sistem ini mapan, cara penilaian perusahaan dan alokasi dana di KOSDAQ juga dapat berubah. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "532d8821cc23",
-    "slug": "코스닥-1부리그-100社-이내로-추린다-882036",
-    "channelId": "ETF",
-    "category": "etf",
-    "publishedAt": "2026-05-10T09:14:47.700Z",
-    "updatedAt": "2026-05-10T09:14:47.700Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/stock/12042753",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12042753",
-    "titleFingerprint": "da42878e948b8895fd85fecefff2a7c0393e0bdb",
-    "dedupKeys": [
-      "532d8821cc23a1aced6c8d4795b9c40ddd527efa",
-      "da42878e948b8895fd85fecefff2a7c0393e0bdb",
-      "172a310b6239efe2a671f455c4fa362553db5448"
-    ],
-    "imageUrl": "/images/articles/532d8821cc23.jpg",
-    "i18n": {
-      "ko": {
-        "title": "코스닥 1부리그 100곳 이내로 압축, 승강제 10월 가동 전망",
-        "excerpt": "정부와 한국거래소가 코스닥 활성화를 위해 프리미엄·스탠더드·관리군 3개 리그 승강제를 이르면 올해 10월 도입할 전망이다.",
-        "body": "정부와 한국거래소가 코스닥 시장 활성화를 위해 준비 중인 ‘승강제’가 이르면 올해 10월부터 가동될 전망이다. 이번 제도는 코스닥 상장사를 프리미엄, 스탠더드, 관리군 등 3개 리그로 나누는 방식이다. 특히 코스닥 내 ‘1부리그’로 볼 수 있는 프리미엄군은 100개사 이내로 추리는 방향이 거론된다. 시장을 등급화해 우량 기업을 부각하고 관리 필요 기업을 구분하려는 취지다. 제도가 시행되면 코스닥 기업의 시장 내 위치와 투자자 인식에도 변화가 예상된다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "KOSDAQ Top League May Be Capped Under 100 as Promotion System Nears October Launch",
-        "excerpt": "The Korean government and Korea Exchange are expected to introduce a three-tier KOSDAQ promotion and relegation system as early as October to revitalize the market.",
-        "body": "The Korean government and Korea Exchange are preparing a promotion and relegation system for the KOSDAQ market, with operations expected to begin as early as October this year. The system would divide listed KOSDAQ companies into three groups: Premium, Standard and Management. The Premium group, effectively the market’s top league, is being discussed as a category limited to fewer than 100 companies. The aim is to classify the market, highlight stronger companies and distinguish firms requiring closer management. If implemented, the system could affect how KOSDAQ companies are positioned and perceived by investors. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "コスダック上位リーグ100社以内へ、昇降格制は10月開始見通し",
-        "excerpt": "韓国政府と韓国取引所は、コスダック活性化に向け、プレミアム・スタンダード・管理群の3リーグ制を早ければ今年10月に導入する見通しだ。",
-        "body": "韓国政府と韓国取引所がコスダック市場の活性化に向けて準備している「昇降格制」が、早ければ今年10月から稼働する見通しだ。この制度は、コスダック上場企業をプレミアム、スタンダード、管理群の3つのリーグに分ける方式となる。特にコスダックの「1部リーグ」に当たるプレミアム群は、100社以内に絞る方向が取り沙汰されている。市場を等級化し、優良企業を目立たせる一方、管理が必要な企業を区分する狙いがある。導入されれば、企業の市場内での位置付けや投資家の認識にも変化が予想される。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "KOSDAQ一线梯队拟缩至100家公司以内，升降级制或10月启动",
-        "excerpt": "韩国政府和韩国交易所为激活KOSDAQ市场，预计最快今年10月推出由优质、标准、管理组三个层级组成的升降级制度。",
-        "body": "韩国政府和韩国交易所为激活KOSDAQ市场正在筹备的“升降级制”，预计最快将于今年10月开始运行。该制度拟将KOSDAQ上市公司分为优质、标准、管理组三个层级。其中可视为KOSDAQ“一线梯队”的优质组，正被讨论限制在100家公司以内。其目的在于通过市场分级突出优质企业，并区分需要管理的企业。如果制度实施，KOSDAQ企业在市场中的定位以及投资者认知也可能出现变化。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "KOSDAQ limitaría su primera liga a menos de 100 firmas con sistema desde octubre",
-        "excerpt": "El Gobierno surcoreano y Korea Exchange prevén aplicar desde octubre un sistema de ascenso y descenso en KOSDAQ con tres ligas: premium, estándar y gestión.",
-        "body": "El Gobierno de Corea del Sur y Korea Exchange preparan un sistema de ascenso y descenso para revitalizar el mercado KOSDAQ, cuya puesta en marcha se espera tan pronto como octubre de este año. El esquema dividiría a las empresas cotizadas en KOSDAQ en tres grupos: Premium, Estándar y Gestión. En particular, el grupo Premium, equivalente a la primera liga del mercado, se perfila como una categoría limitada a menos de 100 compañías. El objetivo es clasificar el mercado, destacar a las empresas de mayor calidad y separar a aquellas que requieren gestión. Si se implementa, podría cambiar la posición de las empresas KOSDAQ y la percepción de los inversores. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "KOSDAQ pode limitar primeira liga a menos de 100 empresas com estreia em outubro",
-        "excerpt": "O governo sul-coreano e a Korea Exchange devem lançar já em outubro um sistema de promoção e rebaixamento no KOSDAQ com três grupos: premium, padrão e gestão.",
-        "body": "O governo da Coreia do Sul e a Korea Exchange preparam um sistema de promoção e rebaixamento para revitalizar o mercado KOSDAQ, com início previsto já para outubro deste ano. O modelo dividiria as companhias listadas no KOSDAQ em três grupos: Premium, Padrão e Gestão. Em especial, o grupo Premium, equivalente à primeira liga do mercado, está sendo discutido como uma categoria limitada a menos de 100 empresas. A medida busca classificar o mercado, dar destaque às empresas de melhor qualidade e separar aquelas que exigem gestão mais próxima. Se implementado, o sistema poderá alterar a posição das empresas no KOSDAQ e a percepção dos investidores. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "KOSDAQ-Spitzenliga soll unter 100 Firmen fallen, Start ab Oktober erwartet",
-        "excerpt": "Die südkoreanische Regierung und die Korea Exchange wollen zur Belebung des KOSDAQ ab Oktober ein dreistufiges Auf- und Abstiegssystem einführen.",
-        "body": "Die südkoreanische Regierung und die Korea Exchange bereiten zur Belebung des KOSDAQ-Marktes ein Auf- und Abstiegssystem vor, das frühestens im Oktober dieses Jahres starten dürfte. Das System würde KOSDAQ-notierte Unternehmen in drei Gruppen einteilen: Premium, Standard und Management. Die Premium-Gruppe, die als erste Liga des Marktes gelten kann, wird dabei als Kategorie mit weniger als 100 Unternehmen diskutiert. Ziel ist es, den Markt zu klassifizieren, hochwertige Unternehmen hervorzuheben und Firmen mit Managementbedarf abzugrenzen. Bei einer Einführung dürfte sich die Positionierung von KOSDAQ-Unternehmen und die Wahrnehmung durch Investoren verändern. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Le KOSDAQ veut limiter sa première division à moins de 100 sociétés dès octobre",
-        "excerpt": "Le gouvernement sud-coréen et Korea Exchange prévoient d’introduire dès octobre un système de montée et descente du KOSDAQ en trois groupes.",
-        "body": "Le gouvernement sud-coréen et Korea Exchange préparent un système de montée et descente destiné à dynamiser le marché KOSDAQ, avec une mise en œuvre attendue dès octobre de cette année. Le dispositif classerait les sociétés cotées au KOSDAQ en trois groupes: Premium, Standard et Gestion. Le groupe Premium, assimilable à la première division du marché, serait envisagé comme une catégorie limitée à moins de 100 entreprises. L’objectif est de hiérarchiser le marché, de mettre en avant les sociétés de qualité et de distinguer celles nécessitant une gestion plus étroite. S’il est appliqué, le système pourrait modifier la place des entreprises du KOSDAQ et la perception des investisseurs. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "كوسداك قد يحصر دوري النخبة في أقل من 100 شركة مع نظام يبدأ في أكتوبر",
-        "excerpt": "تستعد حكومة كوريا الجنوبية وبورصة كوريا لإطلاق نظام صعود وهبوط في كوسداك ربما في أكتوبر، يقسم السوق إلى فئات بريميوم وستاندرد وإدارة.",
-        "body": "تستعد حكومة كوريا الجنوبية وبورصة كوريا لتطبيق نظام صعود وهبوط يهدف إلى تنشيط سوق كوسداك، ومن المتوقع أن يبدأ العمل به في أقرب تقدير خلال أكتوبر من هذا العام. سيقسم النظام الشركات المدرجة في كوسداك إلى ثلاث فئات: بريميوم، وستاندرد، ومجموعة الإدارة. وتدور المناقشات حول جعل فئة بريميوم، التي يمكن اعتبارها الدوري الأول في السوق، محدودة بأقل من 100 شركة. ويهدف ذلك إلى تصنيف السوق، وإبراز الشركات الجيدة، وفصل الشركات التي تحتاج إلى إدارة أو متابعة. وإذا تم تطبيقه، فقد يؤثر في موقع شركات كوسداك داخل السوق وفي نظرة المستثمرين إليها. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "KOSDAQ की शीर्ष लीग 100 कंपनियों से कम हो सकती है, अक्टूबर से प्रणाली संभव",
-        "excerpt": "दक्षिण कोरिया की सरकार और Korea Exchange KOSDAQ को सक्रिय करने के लिए प्रीमियम, स्टैंडर्ड और मैनेजमेंट वाली तीन-स्तरीय प्रमोशन-रिलिगेशन प्रणाली अक्टूबर से ला सकते हैं।",
-        "body": "दक्षिण कोरिया की सरकार और Korea Exchange KOSDAQ बाजार को सक्रिय करने के लिए जिस ‘प्रमोशन और रिलिगेशन’ प्रणाली की तैयारी कर रहे हैं, वह इस साल अक्टूबर से शुरू हो सकती है। इस व्यवस्था में KOSDAQ में सूचीबद्ध कंपनियों को तीन समूहों में बांटा जाएगा: प्रीमियम, स्टैंडर्ड और मैनेजमेंट। प्रीमियम समूह, जिसे KOSDAQ की शीर्ष लीग माना जा सकता है, को 100 कंपनियों से कम तक सीमित करने पर चर्चा है। इसका उद्देश्य बाजार को श्रेणीबद्ध करना, बेहतर कंपनियों को उभारना और प्रबंधन की जरूरत वाली कंपनियों को अलग पहचानना है। लागू होने पर कंपनियों की बाजार स्थिति और निवेशकों की धारणा बदल सकती है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Liga utama KOSDAQ bisa dibatasi di bawah 100 emiten, sistem mulai Oktober",
-        "excerpt": "Pemerintah Korea Selatan dan Korea Exchange diperkirakan meluncurkan sistem promosi-degradasi KOSDAQ paling cepat Oktober dengan tiga kelompok: premium, standar, dan manajemen.",
-        "body": "Pemerintah Korea Selatan dan Korea Exchange sedang menyiapkan sistem promosi dan degradasi untuk menghidupkan pasar KOSDAQ, dengan operasi diperkirakan dimulai paling cepat Oktober tahun ini. Sistem ini akan membagi emiten KOSDAQ ke dalam tiga kelompok: Premium, Standard, dan Management. Kelompok Premium, yang dapat dipandang sebagai liga utama KOSDAQ, dibahas untuk dibatasi kurang dari 100 perusahaan. Tujuannya adalah mengelompokkan pasar, menonjolkan perusahaan berkualitas, dan memisahkan perusahaan yang memerlukan pengelolaan lebih dekat. Jika diterapkan, sistem ini dapat mengubah posisi perusahaan KOSDAQ dan persepsi investor. Sumber: mk.co.kr"
       }
     }
   }
