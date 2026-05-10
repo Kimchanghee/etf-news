@@ -1,5 +1,230 @@
 [
   {
+    "id": "f04bbcbb0dbf",
+    "slug": "k-엔비디아-인재-노린-꼼수-인수-막는다기업결합-신고추진-708825",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-05-10T15:14:01.298Z",
+    "updatedAt": "2026-05-10T15:14:01.298Z",
+    "sourceName": "yna.co.kr",
+    "sourceUrl": "https://www.yna.co.kr/view/AKR20260509047800002",
+    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260509047800002",
+    "titleFingerprint": "afb111f5ede718d1a189426640b47a384cbf426e",
+    "dedupKeys": [
+      "f04bbcbb0dbf4e9da77afeb553fe64ea36af66e3",
+      "afb111f5ede718d1a189426640b47a384cbf426e",
+      "547a2ef81b4e7d7b5840f253e5a5c030354c227a"
+    ],
+    "imageUrl": "/images/articles/f04bbcbb0dbf.jpg",
+    "i18n": {
+      "ko": {
+        "title": "K-엔비디아 인재 ‘꼼수 인수’ 차단…기업결합 신고 추진",
+        "excerpt": "정부가 AI 스타트업 핵심 인재를 채용해 사실상 우회 인수하는 사례를 막기 위해 기업결합 신고 적용을 추진한다고 yna.co.kr이 보도했다.",
+        "body": "정부가 기술력이 뛰어난 인공지능(AI) 스타트업의 핵심 인재를 채용하는 방식으로 회사를 사실상 인수하는 ‘꼼수 인수’에 대응해 기업결합 신고를 추진한다. 원문은 ‘K-엔비디아’로 불리는 국내 AI 인재를 겨냥한 편법 인수 사례를 막기 위한 조치라고 전했다. 배경에는 지분 인수나 법인 합병이 아니더라도 핵심 인력 확보만으로 스타트업의 기술과 경쟁력이 이전될 수 있다는 우려가 있다. 구체적인 신고 대상 규모나 시행 일정은 원문 요약에 제시되지 않았다. 이번 추진은 AI 분야 인재 경쟁이 치열해진 가운데 인수합병 심사의 사각지대를 줄이려는 흐름으로 해석된다. 출처: yna.co.kr"
+      },
+      "en": {
+        "title": "K-Nvidia talent ‘acqui-hire’ loophole targeted with merger filing plan",
+        "excerpt": "The government is moving to require merger filings for deals that effectively acquire AI startups by hiring their core talent, yna.co.kr reported.",
+        "body": "The government is pursuing merger filing requirements to address cases in which companies effectively acquire high-tech artificial intelligence startups by hiring their core personnel. The original report said the move is aimed at blocking loophole-style acquisitions targeting domestic AI talent described as “K-Nvidia.” The context is concern that even without buying shares or formally merging entities, securing key employees can transfer a startup’s technology and competitiveness. The source summary did not provide specific thresholds for filing or an implementation schedule. The plan is seen as an effort to reduce blind spots in merger review as competition for AI talent intensifies. Source: yna.co.kr"
+      },
+      "ja": {
+        "title": "Kエヌビディア人材狙う“抜け道買収”に歯止め、企業結合申告へ",
+        "excerpt": "政府はAIスタートアップの中核人材を採用して事実上買収する事例を防ぐため、企業結合申告の適用を進めるとyna.co.krが報じた。",
+        "body": "政府は、優れた技術を持つ人工知能（AI）スタートアップの中核人材を採用する形で企業を事実上買収する“抜け道買収”に対応し、企業結合申告を進める。原文は、「Kエヌビディア」と呼ばれる国内AI人材を狙った便法的な買収事例を防ぐための措置だと伝えた。背景には、株式取得や法人合併でなくても、主要人材の確保だけでスタートアップの技術と競争力が移転し得るとの懸念がある。具体的な申告対象の規模や実施時期は原文要約に示されていない。AI人材競争が激しくなる中、企業結合審査の空白を減らす動きと受け止められる。出典: yna.co.kr"
+      },
+      "zh": {
+        "title": "瞄准“K英伟达”人才的变相收购将受限，拟推进经营者集中申报",
+        "excerpt": "据yna.co.kr报道，政府拟推进经营者集中申报，防止企业通过招聘AI初创公司核心人才实现事实上的绕道收购。",
+        "body": "政府正推动经营者集中申报，以应对企业通过招聘技术出色的人工智能（AI）初创公司核心人才、事实上完成收购的“变相收购”做法。原文称，此举旨在防止针对被称为“K英伟达”的韩国AI人才的规避式收购。其背景是，即便没有股权收购或法人合并，仅通过 확보 핵심人员，也可能使初创公司的技术和竞争力发生转移。原文摘要未说明具体申报门槛或实施时间。随着AI领域人才竞争加剧，该措施可被理解为减少经营者集中审查盲区的动向。来源: yna.co.kr"
+      },
+      "es": {
+        "title": "Freno a la ‘compra encubierta’ de talento K-Nvidia con notificación de fusiones",
+        "excerpt": "El gobierno impulsará notificaciones de concentración para impedir adquisiciones de facto de startups de IA mediante la contratación de talento clave, informó yna.co.kr.",
+        "body": "El gobierno impulsa la notificación de concentraciones empresariales para responder a casos en los que una compañía adquiere de facto una startup de inteligencia artificial (IA) con alta tecnología mediante la contratación de su personal clave. El reporte original dijo que la medida busca bloquear adquisiciones encubiertas dirigidas al talento local de IA descrito como “K-Nvidia”. El contexto es la preocupación de que, aun sin compra de acciones ni fusión formal, la incorporación de empleados esenciales pueda transferir tecnología y competitividad de una startup. El resumen original no indicó umbrales concretos ni calendario de aplicación. La iniciativa apunta a reducir zonas grises en el examen de fusiones en medio de la competencia por talento en IA. Fuente: yna.co.kr"
+      },
+      "pt": {
+        "title": "Talento ‘K-Nvidia’ na mira: governo quer barrar aquisição disfarçada",
+        "excerpt": "O governo pretende exigir notificação de concentração para impedir aquisições de fato de startups de IA por meio da contratação de talentos-chave, informou yna.co.kr.",
+        "body": "O governo está promovendo a notificação de concentração empresarial para enfrentar casos em que companhias efetivamente adquirem startups de inteligência artificial (IA) de alta tecnologia ao contratar seus profissionais essenciais. A reportagem original afirmou que a medida busca bloquear aquisições disfarçadas voltadas ao talento doméstico de IA chamado de “K-Nvidia”. O pano de fundo é a preocupação de que, mesmo sem compra de participação ou fusão formal, a contratação de pessoas-chave possa transferir tecnologia e competitividade de uma startup. O resumo original não apresentou limites específicos de notificação nem cronograma de implementação. A iniciativa é vista como tentativa de reduzir lacunas na análise de fusões enquanto cresce a disputa por talentos em IA. Fonte: yna.co.kr"
+      },
+      "de": {
+        "title": "K-Nvidia-Talente im Visier: Meldepflicht gegen verdeckte Übernahmen geplant",
+        "excerpt": "Die Regierung will Fusionsmeldungen vorantreiben, um faktische Übernahmen von KI-Startups durch die Abwerbung zentraler Talente zu verhindern, berichtete yna.co.kr.",
+        "body": "Die Regierung treibt eine Meldepflicht für Unternehmenszusammenschlüsse voran, um Fälle zu erfassen, in denen Firmen technologisch starke Startups für künstliche Intelligenz (KI) faktisch übernehmen, indem sie deren Schlüsselpersonal einstellen. Dem Originalbericht zufolge richtet sich die Maßnahme gegen verdeckte Übernahmen von heimischen KI-Talenten, die als „K-Nvidia“ bezeichnet werden. Hintergrund ist die Sorge, dass Technologie und Wettbewerbsfähigkeit eines Startups auch ohne Anteilskauf oder formale Fusion durch die Gewinnung zentraler Mitarbeiter übergehen können. Konkrete Schwellenwerte oder ein Zeitplan wurden in der Zusammenfassung nicht genannt. Der Schritt soll blinde Flecken der Fusionskontrolle verringern, während der Wettbewerb um KI-Talente zunimmt. Quelle: yna.co.kr"
+      },
+      "fr": {
+        "title": "Talents « K-Nvidia » : vers un signalement des rachats déguisés",
+        "excerpt": "Le gouvernement veut appliquer des déclarations de concentration aux acquisitions de fait de startups d’IA par recrutement de leurs talents clés, selon yna.co.kr.",
+        "body": "Le gouvernement entend promouvoir la déclaration de concentration d’entreprises afin de répondre aux cas où une société acquiert de fait une startup d’intelligence artificielle (IA) très technologique en recrutant ses talents clés. Le texte original indique que la mesure vise à bloquer les acquisitions détournées ciblant les talents coréens de l’IA qualifiés de « K-Nvidia ». Le contexte est la crainte qu’en l’absence même d’achat de parts ou de fusion juridique, l’arrivée de personnels essentiels puisse transférer la technologie et la compétitivité d’une startup. Le résumé original ne précise ni seuils de déclaration ni calendrier d’application. Cette initiative est comprise comme une tentative de réduire les angles morts du contrôle des fusions alors que la concurrence pour les talents en IA s’intensifie. Source: yna.co.kr"
+      },
+      "ar": {
+        "title": "استهداف مواهب «كي-إنفيديا» يدفع لخطة إلزام صفقات الاستحواذ بالإبلاغ",
+        "excerpt": "تسعى الحكومة إلى تطبيق إخطارات اندماج على حالات الاستحواذ الفعلي على شركات ذكاء اصطناعي ناشئة عبر توظيف كوادرها الأساسية، وفق yna.co.kr.",
+        "body": "تعمل الحكومة على دفع إخطارات اندماج الشركات لمواجهة الحالات التي تستحوذ فيها شركات فعليا على شركات ناشئة متقدمة في الذكاء الاصطناعي عبر توظيف كوادرها الأساسية. وذكر التقرير الأصلي أن الإجراء يستهدف منع عمليات استحواذ التفافية تطال مواهب الذكاء الاصطناعي المحلية الموصوفة باسم «كي-إنفيديا». وتأتي الخلفية من مخاوف أن انتقال التكنولوجيا والقدرة التنافسية للشركة الناشئة قد يحدث عبر جذب الموظفين الرئيسيين، حتى من دون شراء حصص أو اندماج قانوني. ولم يورد ملخص المصدر حدودا محددة للإبلاغ أو جدولا زمنيا للتنفيذ. وتفهم الخطوة كمسعى لتقليص الثغرات في مراجعة الاندماجات مع اشتداد المنافسة على مواهب الذكاء الاصطناعي. المصدر: yna.co.kr"
+      },
+      "hi": {
+        "title": "‘K-Nvidia’ प्रतिभा पर निशाना साधने वाले घुमावदार अधिग्रहण पर लगाम की तैयारी",
+        "excerpt": "सरकार AI स्टार्टअप के मुख्य प्रतिभाओं की भर्ती के जरिए होने वाले वास्तविक अधिग्रहणों पर कंपनी संयोजन 신고 लागू करने की तैयारी कर रही है, yna.co.kr ने बताया।",
+        "body": "सरकार उन मामलों से निपटने के लिए कंपनी संयोजन 신고 को आगे बढ़ा रही है, जिनमें कोई कंपनी उच्च तकनीक वाली कृत्रिम बुद्धिमत्ता (AI) स्टार्टअप के मुख्य कर्मचारियों को नियुक्त कर उसे वस्तुतः अधिग्रहित कर लेती है। मूल रिपोर्ट के अनुसार यह कदम “K-Nvidia” कहे जाने वाले घरेलू AI प्रतिभाओं को निशाना बनाने वाले घुमावदार अधिग्रहणों को रोकने के लिए है। पृष्ठभूमि में यह चिंता है कि शेयर खरीद या औपचारिक विलय के बिना भी प्रमुख कर्मचारियों को हासिल करने से स्टार्टअप की तकनीक और प्रतिस्पर्धी क्षमता स्थानांतरित हो सकती है। मूल सारांश में 신고 के ठोस मानदंड या लागू करने की समय-सारिणी नहीं दी गई। AI प्रतिभा के लिए बढ़ती प्रतिस्पर्धा के बीच यह विलय समीक्षा की खाली जगहों को कम करने की कोशिश मानी जा रही है। स्रोत: yna.co.kr"
+      },
+      "id": {
+        "title": "Talenta ‘K-Nvidia’ diincar, akuisisi terselubung akan dibatasi lewat pelaporan merger",
+        "excerpt": "Pemerintah mendorong pelaporan penggabungan usaha untuk mencegah akuisisi de facto startup AI melalui perekrutan talenta inti, lapor yna.co.kr.",
+        "body": "Pemerintah mendorong pelaporan penggabungan usaha untuk menangani kasus ketika perusahaan secara de facto mengakuisisi startup kecerdasan buatan (AI) berteknologi tinggi dengan merekrut personel intinya. Laporan asli menyebut langkah ini ditujukan untuk memblokir akuisisi terselubung yang mengincar talenta AI domestik yang disebut “K-Nvidia”. Latar belakangnya adalah kekhawatiran bahwa, meski tanpa pembelian saham atau merger badan hukum, perekrutan karyawan kunci dapat memindahkan teknologi dan daya saing sebuah startup. Ringkasan asli tidak memuat batas pelaporan tertentu atau jadwal penerapan. Langkah ini dipahami sebagai upaya mengurangi celah dalam peninjauan merger di tengah ketatnya persaingan talenta AI. Sumber: yna.co.kr"
+      }
+    }
+  },
+  {
+    "id": "5c643ba1ade8",
+    "slug": "공정위-하도급-계약서-늦게-준-두산에-과징금-2억3천만원-부과-971954",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-05-10T15:12:42.880Z",
+    "updatedAt": "2026-05-10T15:12:42.880Z",
+    "sourceName": "yna.co.kr",
+    "sourceUrl": "https://www.yna.co.kr/view/AKR20260509045100002",
+    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260509045100002",
+    "titleFingerprint": "93ed555608eeba0ec70fac4498c2d6dc00ad9a28",
+    "dedupKeys": [
+      "5c643ba1ade88ada5e686a4506bbe0964186f355",
+      "93ed555608eeba0ec70fac4498c2d6dc00ad9a28",
+      "f423cf516238d19e54896baaf3da087ea8c48ee4"
+    ],
+    "imageUrl": "/images/articles/5c643ba1ade8.jpg",
+    "i18n": {
+      "ko": {
+        "title": "공정위, 하도급 계약서 지연 발급 두산에 과징금 2억3천만원",
+        "excerpt": "공정거래위원회는 두산이 하도급 거래 과정에서 계약 서면을 제때 발급하지 않은 행위를 적발하고 시정명령과 과징금 2억3천만원을 부과했다.",
+        "body": "공정거래위원회는 두산[000150]이 하도급 거래에서 계약 서면을 제때 발급하지 않은 행위를 적발해 시정명령과 과징금 2억3천만원을 부과했다. 이번 조치는 하도급 거래 과정에서 계약 내용을 담은 서면을 정해진 시점에 제공해야 한다는 원칙을 확인한 사례다. 원문에 따르면 공정위는 두산의 지연 발급 행위를 문제로 보고 제재를 결정했다. 관련 수치로는 과징금 규모가 2억3천만원으로 제시됐다. 이번 제재는 하도급 거래에서 계약 서면 발급 절차의 중요성을 다시 부각시키며, 기업들의 계약 관리와 내부 절차 점검 필요성을 보여준다. 출처: yna.co.kr"
+      },
+      "en": {
+        "title": "FTC fines Doosan 230 million won over delayed subcontract documents",
+        "excerpt": "South Korea’s Fair Trade Commission found Doosan failed to issue written subcontract documents on time and imposed a corrective order and a 230 million won fine.",
+        "body": "South Korea’s Fair Trade Commission found that Doosan[000150] failed to issue written contract documents on time in subcontracting transactions and imposed a corrective order along with a 230 million won administrative fine. The action confirms the principle that written documents containing contract terms must be provided at the required point in subcontract dealings. According to the original report, the FTC viewed Doosan’s delayed issuance as a violation and decided on sanctions. The cited figure is a fine of 230 million won. The measure again highlights the importance of timely written contract procedures in subcontracting and the need for companies to review contract management and internal processes. Source: yna.co.kr"
+      },
+      "ja": {
+        "title": "公取委、下請契約書の交付遅れで斗山に2億3000万ウォン課徴金",
+        "excerpt": "韓国公正取引委員会は、斗山が下請取引で契約書面を期限どおり交付しなかった行為を摘発し、是正命令と2億3000万ウォンの課徴金を科した。",
+        "body": "韓国公正取引委員会は、斗山[000150]が下請取引で契約書面を期限どおり交付しなかった行為を摘発し、是正命令と2億3000万ウォンの課徴金を科した。今回の措置は、下請取引の過程で契約内容を記した書面を定められた時点で提供しなければならないという原則を確認した事例だ。原文によると、公取委は斗山の交付遅延を問題視し、制裁を決定した。関連する数値として、課徴金の規模は2億3000万ウォンと示された。今回の制裁は、下請取引における契約書面交付手続きの重要性を改めて浮き彫りにし、企業の契約管理と内部手続き点検の必要性を示している。出典: yna.co.kr"
+      },
+      "zh": {
+        "title": "韩国公取委因分包合同书面延迟向斗山罚款2.3亿韩元",
+        "excerpt": "韩国公平交易委员会认定斗山在分包交易中未及时出具合同书面文件，并对其下达整改命令及2.3亿韩元罚款。",
+        "body": "韩国公平交易委员会认定，斗山[000150]在分包交易中未按时出具合同书面文件，因此下达整改命令并处以2.3亿韩元罚款。此次措施确认了分包交易过程中必须在规定时间提供载有合同内容书面文件的原则。根据原文，公取委认为斗山延迟出具书面文件的行为存在问题，并决定实施制裁。相关数字显示，罚款规模为2.3亿韩元。此次制裁再次凸显分包交易中合同书面文件出具程序的重要性，也显示企业有必要检查合同管理和内部流程。来源: yna.co.kr"
+      },
+      "es": {
+        "title": "La FTC surcoreana multa a Doosan con 230 millones de wones por retrasar contratos",
+        "excerpt": "La Comisión de Comercio Justo de Corea del Sur detectó que Doosan no entregó a tiempo documentos escritos en subcontratos e impuso una orden correctiva y una multa.",
+        "body": "La Comisión de Comercio Justo de Corea del Sur detectó que Doosan[000150] no emitió a tiempo documentos contractuales escritos en operaciones de subcontratación e impuso una orden correctiva y una multa administrativa de 230 millones de wones. La medida confirma el principio de que los documentos con los términos del contrato deben entregarse en el momento establecido dentro de las transacciones de subcontratación. Según el informe original, la autoridad consideró problemática la emisión tardía de Doosan y decidió sancionarla. La cifra citada para la multa es de 230 millones de wones. La sanción vuelve a destacar la importancia de los procedimientos de documentación contractual y la necesidad de revisar la gestión de contratos y procesos internos. Fuente: yna.co.kr"
+      },
+      "pt": {
+        "title": "FTC da Coreia multa Doosan em 230 milhões de wons por atraso em contratos",
+        "excerpt": "A Comissão de Comércio Justo da Coreia do Sul identificou que a Doosan não entregou documentos escritos de subcontratação no prazo e aplicou ordem corretiva e multa.",
+        "body": "A Comissão de Comércio Justo da Coreia do Sul identificou que a Doosan[000150] não emitiu no prazo documentos contratuais escritos em transações de subcontratação e aplicou uma ordem corretiva e multa administrativa de 230 milhões de wons. A medida confirma o princípio de que documentos com os termos do contrato devem ser fornecidos no momento definido nas relações de subcontratação. Segundo o relatório original, a autoridade considerou problemática a emissão tardia pela Doosan e decidiu impor sanções. O valor citado da multa é de 230 milhões de wons. A decisão volta a destacar a importância dos procedimentos de emissão de documentos contratuais e a necessidade de empresas revisarem sua gestão de contratos e processos internos. Fonte: yna.co.kr"
+      },
+      "de": {
+        "title": "Südkoreas Kartellbehörde belegt Doosan wegen verspäteter Verträge mit Geldbuße",
+        "excerpt": "Die südkoreanische Fair Trade Commission stellte fest, dass Doosan schriftliche Unterlagen bei Subaufträgen nicht rechtzeitig ausgab, und verhängte Auflage sowie Buße.",
+        "body": "Die südkoreanische Fair Trade Commission stellte fest, dass Doosan[000150] bei Subunternehmergeschäften schriftliche Vertragsunterlagen nicht rechtzeitig ausgestellt hatte, und verhängte eine Korrekturanordnung sowie eine Geldbuße von 230 Millionen Won. Die Maßnahme bestätigt den Grundsatz, dass Unterlagen mit Vertragsinhalten im Rahmen solcher Geschäfte zum vorgeschriebenen Zeitpunkt bereitgestellt werden müssen. Dem Originalbericht zufolge sah die Behörde die verspätete Ausstellung durch Doosan als problematisch an und beschloss Sanktionen. Als relevante Zahl wurde eine Geldbuße von 230 Millionen Won genannt. Die Entscheidung unterstreicht erneut die Bedeutung ordnungsgemäßer Verfahren für schriftliche Verträge und die Notwendigkeit, Vertragsmanagement und interne Abläufe zu prüfen. Quelle: yna.co.kr"
+      },
+      "fr": {
+        "title": "La FTC sud-coréenne sanctionne Doosan pour remise tardive de contrats de sous-traitance",
+        "excerpt": "La Commission sud-coréenne du commerce équitable a constaté que Doosan n’avait pas remis à temps des documents écrits de sous-traitance et a infligé une amende.",
+        "body": "La Commission sud-coréenne du commerce équitable a constaté que Doosan[000150] n’avait pas émis à temps les documents contractuels écrits dans des transactions de sous-traitance et a imposé une injonction corrective ainsi qu’une amende administrative de 230 millions de wons. Cette mesure confirme le principe selon lequel les documents contenant les termes du contrat doivent être fournis au moment requis dans les relations de sous-traitance. Selon le rapport original, l’autorité a jugé problématique le retard de Doosan et a décidé de sanctions. Le montant cité de l’amende est de 230 millions de wons. Cette décision souligne de nouveau l’importance des procédures de remise des documents contractuels et la nécessité pour les entreprises de vérifier leur gestion des contrats et leurs processus internes. Source: yna.co.kr"
+      },
+      "ar": {
+        "title": "هيئة التجارة العادلة في كوريا تغرم دوسان 230 مليون وون لتأخر وثائق التعاقد",
+        "excerpt": "رصدت هيئة التجارة العادلة الكورية أن دوسان لم تصدر وثائق عقود المقاولة من الباطن في موعدها، فأصدرت أمرا تصحيحيا وغرامة قدرها 230 مليون وون.",
+        "body": "أعلنت هيئة التجارة العادلة في كوريا الجنوبية أن دوسان[000150] لم تصدر الوثائق الخطية للعقود في معاملات المقاولة من الباطن في الوقت المحدد، وفرضت أمرا تصحيحيا وغرامة إدارية قدرها 230 مليون وون. وتؤكد هذه الخطوة مبدأ وجوب تقديم الوثائق التي تتضمن شروط العقد في الموعد المطلوب ضمن معاملات المقاولة من الباطن. ووفق التقرير الأصلي، اعتبرت الهيئة أن تأخر دوسان في إصدار الوثائق يمثل مخالفة وقررت فرض العقوبة. والرقم المرتبط بالقضية هو غرامة قدرها 230 مليون وون. وتبرز هذه العقوبة مجددا أهمية إجراءات إصدار وثائق العقود في معاملات المقاولة من الباطن، وحاجة الشركات إلى مراجعة إدارة العقود والإجراءات الداخلية. المصدر: yna.co.kr"
+      },
+      "hi": {
+        "title": "दक्षिण कोरिया FTC ने उपठेका दस्तावेज देरी पर Doosan पर 23 करोड़ वॉन जुर्माना लगाया",
+        "excerpt": "दक्षिण कोरिया के फेयर ट्रेड कमीशन ने पाया कि Doosan ने उपठेका लेनदेन में लिखित अनुबंध दस्तावेज समय पर जारी नहीं किए और सुधार आदेश व जुर्माना लगाया।",
+        "body": "दक्षिण कोरिया के फेयर ट्रेड कमीशन ने पाया कि Doosan[000150] ने उपठेका लेनदेन में लिखित अनुबंध दस्तावेज समय पर जारी नहीं किए। आयोग ने कंपनी पर सुधार आदेश और 23 करोड़ वॉन का प्रशासनिक जुर्माना लगाया। यह कदम इस सिद्धांत की पुष्टि करता है कि उपठेका लेनदेन में अनुबंध की शर्तों वाले लिखित दस्तावेज निर्धारित समय पर उपलब्ध कराए जाने चाहिए। मूल रिपोर्ट के अनुसार, आयोग ने Doosan की देरी से दस्तावेज जारी करने की कार्रवाई को समस्या माना और प्रतिबंध तय किया। संबंधित आंकड़ा 23 करोड़ वॉन के जुर्माने का है। यह कार्रवाई उपठेका लेनदेन में अनुबंध दस्तावेज जारी करने की प्रक्रिया के महत्व और कंपनियों द्वारा अनुबंध प्रबंधन व आंतरिक प्रक्रियाओं की समीक्षा की जरूरत को फिर रेखांकित करती है। स्रोत: yna.co.kr"
+      },
+      "id": {
+        "title": "KFTC denda Doosan 230 juta won atas keterlambatan dokumen kontrak subkontrak",
+        "excerpt": "Komisi Perdagangan Adil Korea Selatan menemukan Doosan tidak menerbitkan dokumen tertulis kontrak subkontrak tepat waktu dan menjatuhkan perintah korektif serta denda.",
+        "body": "Komisi Perdagangan Adil Korea Selatan menemukan bahwa Doosan[000150] tidak menerbitkan dokumen kontrak tertulis tepat waktu dalam transaksi subkontrak, lalu menjatuhkan perintah korektif dan denda administratif 230 juta won. Langkah ini menegaskan prinsip bahwa dokumen berisi ketentuan kontrak harus diberikan pada waktu yang ditetapkan dalam transaksi subkontrak. Menurut laporan asli, KFTC menilai keterlambatan penerbitan dokumen oleh Doosan sebagai masalah dan memutuskan sanksi. Angka yang disebutkan adalah denda sebesar 230 juta won. Sanksi ini kembali menyoroti pentingnya prosedur penerbitan dokumen kontrak dalam subkontrak serta perlunya perusahaan meninjau manajemen kontrak dan proses internal. Sumber: yna.co.kr"
+      }
+    }
+  },
+  {
+    "id": "cc6f9e8442f0",
+    "slug": "스테이블코인-은행-수익구조-타격예금-유출수수료-수익-483259",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-05-10T15:11:41.291Z",
+    "updatedAt": "2026-05-10T15:11:41.291Z",
+    "sourceName": "yna.co.kr",
+    "sourceUrl": "https://www.yna.co.kr/view/AKR20260509043700002",
+    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260509043700002",
+    "titleFingerprint": "d45be9f133337209c71259f059c73b194d692e5a",
+    "dedupKeys": [
+      "cc6f9e8442f05b3c1d1c23252d9425c32df82406",
+      "d45be9f133337209c71259f059c73b194d692e5a",
+      "7021c94eab1ec98b084a998d775e1af918e3fe93"
+    ],
+    "imageUrl": "/images/articles/cc6f9e8442f0.jpg",
+    "i18n": {
+      "ko": {
+        "title": "스테이블코인 성장, 은행 수익구조 압박…예금 유출·수수료 감소 우려",
+        "excerpt": "연합뉴스는 스테이블코인 성장세가 국내 은행권 수익 구조에 영향을 줄 수 있다는 분석이 나왔다고 보도했다. 예금 유출과 수수료 수익 감소 가능성이 핵심이다.",
+        "body": "서울에서 연합뉴스 이도흔 기자는 스테이블코인의 성장세가 국내 은행권의 수익 구조에 타격을 줄 수 있다는 분석이 나왔다고 보도했다. 보도에 따르면 핵심 쟁점은 스테이블코인이 기존 은행 예금과 결제·송금 서비스 영역에 영향을 미칠 수 있다는 점이다. 이에 따라 은행권에서는 예금 유출 가능성과 수수료 수익 감소 우려가 제기된다. 스테이블코인 시장이 확대될수록 은행의 전통적 수익 기반에 대한 점검이 필요하다는 관측이다. 출처: yna.co.kr"
+      },
+      "en": {
+        "title": "Stablecoin Growth Pressures Banks as Deposit Outflows and Fee Income Risks Rise",
+        "excerpt": "Yonhap reported that the growth of stablecoins could affect the earnings structure of South Korean banks, with possible deposit outflows and lower fee income at the center of concern.",
+        "body": "In Seoul, Yonhap News reporter Lee Do-heun reported that an analysis found the growth of stablecoins could weigh on the earnings structure of South Korean banks. According to the report, the key issue is that stablecoins may affect areas traditionally served by bank deposits as well as payment and remittance services. As a result, concerns are being raised in the banking sector over possible deposit outflows and reduced fee income. The report suggests that as the stablecoin market expands, banks may need to review the foundations of their traditional revenue structure. Source: yna.co.kr"
+      },
+      "ja": {
+        "title": "ステーブルコイン拡大、銀行収益を圧迫か…預金流出・手数料減に懸念",
+        "excerpt": "聯合ニュースは、ステーブルコインの成長が韓国国内銀行の収益構造に影響を与える可能性があるとの分析が出たと報じた。預金流出と手数料収入減が焦点だ。",
+        "body": "ソウルで聯合ニュースのイ・ドフン記者は、ステーブルコインの成長が韓国国内銀行の収益構造に打撃を与える可能性があるとの分析が出たと報じた。報道によると、主な論点はステーブルコインが従来の銀行預金や決済・送金サービスの領域に影響を及ぼし得る点だ。これにより銀行業界では、預金流出の可能性と手数料収入の減少への懸念が提起されている。ステーブルコイン市場が拡大するほど、銀行の伝統的な収益基盤を点検する必要があるとの見方だ。出典: yna.co.kr"
+      },
+      "zh": {
+        "title": "稳定币增长或冲击银行收益结构，存款流出与手续费下降受关注",
+        "excerpt": "韩联社报道称，有分析认为稳定币的增长势头可能影响韩国国内银行业的收益结构，存款流出和手续费收入下降是主要关注点。",
+        "body": "在首尔，韩联社记者李度昕报道称，有分析认为稳定币的增长势头可能对韩国国内银行业的收益结构造成冲击。报道称，核心问题在于稳定币可能影响传统银行存款以及支付、汇款服务领域。因此，银行业内部出现了对存款流出可能性和手续费收入减少的担忧。随着稳定币市场扩大，银行需要重新审视其传统收益基础的观点受到关注。来源: yna.co.kr"
+      },
+      "es": {
+        "title": "Las stablecoins presionan a los bancos por salida de depósitos y menos comisiones",
+        "excerpt": "Yonhap informó que el crecimiento de las stablecoins podría afectar la estructura de ingresos de los bancos surcoreanos, con posibles salidas de depósitos y menores comisiones como foco.",
+        "body": "En Seúl, el periodista Lee Do-heun de Yonhap informó que un análisis señaló que el crecimiento de las stablecoins podría afectar la estructura de ingresos de los bancos nacionales de Corea del Sur. Según el reporte, el punto central es que las stablecoins pueden incidir en áreas tradicionalmente vinculadas a los depósitos bancarios y a los servicios de pagos y remesas. Por ello, en el sector bancario surgen preocupaciones sobre posibles salidas de depósitos y una reducción de los ingresos por comisiones. A medida que se expanda el mercado de stablecoins, se considera necesario revisar la base tradicional de ingresos bancarios. Fuente: yna.co.kr"
+      },
+      "pt": {
+        "title": "Stablecoins pressionam bancos com risco de saída de depósitos e queda em tarifas",
+        "excerpt": "A Yonhap informou que o crescimento das stablecoins pode afetar a estrutura de receitas dos bancos sul-coreanos, com possíveis saídas de depósitos e menor receita de tarifas no centro das preocupações.",
+        "body": "Em Seul, o repórter Lee Do-heun, da Yonhap, informou que uma análise apontou que o crescimento das stablecoins pode pesar sobre a estrutura de receitas dos bancos domésticos da Coreia do Sul. Segundo a reportagem, a questão central é que as stablecoins podem afetar áreas tradicionalmente ligadas aos depósitos bancários e aos serviços de pagamentos e remessas. Com isso, o setor bancário levanta preocupações sobre possíveis saídas de depósitos e redução das receitas de tarifas. À medida que o mercado de stablecoins se expande, ganha força a avaliação de que os bancos precisam revisar suas bases tradicionais de receita. Fonte: yna.co.kr"
+      },
+      "de": {
+        "title": "Stablecoin-Wachstum setzt Banken unter Druck: Einlagenabfluss und Gebührenrückgang",
+        "excerpt": "Yonhap berichtete, dass das Wachstum von Stablecoins die Ertragsstruktur südkoreanischer Banken belasten könnte. Im Mittelpunkt stehen mögliche Einlagenabflüsse und sinkende Gebühreneinnahmen.",
+        "body": "In Seoul berichtete Yonhap-Reporter Lee Do-heun, dass eine Analyse zu dem Schluss kommt, das Wachstum von Stablecoins könne die Ertragsstruktur südkoreanischer Banken belasten. Dem Bericht zufolge liegt der Kernpunkt darin, dass Stablecoins Bereiche beeinflussen könnten, die bisher von Bankeinlagen sowie Zahlungs- und Überweisungsdiensten geprägt waren. Dadurch werden im Bankensektor Sorgen über mögliche Einlagenabflüsse und geringere Gebühreneinnahmen laut. Mit der Ausweitung des Stablecoin-Marktes könnte eine Überprüfung der traditionellen Ertragsbasis der Banken nötig werden. Quelle: yna.co.kr"
+      },
+      "fr": {
+        "title": "Les stablecoins sous pression pour les banques: dépôts en fuite et frais en baisse",
+        "excerpt": "Yonhap a rapporté qu’une analyse estime que la croissance des stablecoins pourrait peser sur la structure de revenus des banques sud-coréennes, avec un risque de sortie des dépôts et de baisse des commissions.",
+        "body": "À Séoul, le journaliste Lee Do-heun de Yonhap a rapporté qu’une analyse estime que la croissance des stablecoins pourrait affecter la structure de revenus des banques nationales sud-coréennes. Selon l’article, l’enjeu principal est que les stablecoins pourraient toucher les domaines traditionnellement couverts par les dépôts bancaires ainsi que les services de paiement et de transfert. Le secteur bancaire s’inquiète donc d’éventuelles sorties de dépôts et d’une baisse des revenus de commissions. À mesure que le marché des stablecoins s’élargit, les banques pourraient devoir réexaminer leur base traditionnelle de revenus. Source: yna.co.kr"
+      },
+      "ar": {
+        "title": "نمو العملات المستقرة يضغط على البنوك مع مخاطر خروج الودائع وتراجع الرسوم",
+        "excerpt": "ذكرت يونهاب أن نموا العملات المستقرة قد يؤثر في هيكل أرباح البنوك الكورية الجنوبية، مع بروز مخاطر خروج الودائع وانخفاض دخل الرسوم كأبرز نقاط القلق.",
+        "body": "في سيول، أفاد الصحفي لي دو هيون من وكالة يونهاب بأن تحليلا خلص إلى أن نمو العملات المستقرة قد يوجه ضربة إلى هيكل أرباح البنوك المحلية في كوريا الجنوبية. ووفقا للتقرير، تتمثل القضية الأساسية في أن العملات المستقرة قد تؤثر في مجالات الودائع المصرفية التقليدية وخدمات الدفع والتحويل. ونتيجة لذلك، تثار داخل القطاع المصرفي مخاوف من احتمال خروج الودائع وتراجع إيرادات الرسوم. ومع اتساع سوق العملات المستقرة، تبرز الحاجة إلى مراجعة الأسس التقليدية لإيرادات البنوك. المصدر: yna.co.kr"
+      },
+      "hi": {
+        "title": "स्टेबलकॉइन वृद्धि से बैंकों पर दबाव, जमा निकासी और शुल्क आय घटने की चिंता",
+        "excerpt": "योनहाप ने बताया कि स्टेबलकॉइन की वृद्धि दक्षिण कोरिया के घरेलू बैंकों की आय संरचना को प्रभावित कर सकती है, जिसमें जमा निकासी और शुल्क आय में कमी मुख्य चिंता है।",
+        "body": "सियोल में योनहाप के संवाददाता ली दो-ह्यून ने बताया कि एक विश्लेषण में कहा गया है कि स्टेबलकॉइन की वृद्धि दक्षिण कोरिया के घरेलू बैंकिंग क्षेत्र की आय संरचना पर असर डाल सकती है। रिपोर्ट के अनुसार मुख्य मुद्दा यह है कि स्टेबलकॉइन पारंपरिक बैंक जमा और भुगतान व प्रेषण सेवाओं के क्षेत्रों को प्रभावित कर सकते हैं। इससे बैंकिंग क्षेत्र में संभावित जमा निकासी और शुल्क आय में कमी को लेकर चिंता उठ रही है। स्टेबलकॉइन बाजार के विस्तार के साथ बैंकों की पारंपरिक आय आधार की समीक्षा की जरूरत पर ध्यान दिया जा रहा है। स्रोत: yna.co.kr"
+      },
+      "id": {
+        "title": "Pertumbuhan Stablecoin Tekan Bank: Risiko Dana Keluar dan Pendapatan Biaya Turun",
+        "excerpt": "Yonhap melaporkan bahwa pertumbuhan stablecoin dapat memengaruhi struktur pendapatan perbankan Korea Selatan, dengan potensi keluarnya simpanan dan turunnya pendapatan biaya sebagai perhatian utama.",
+        "body": "Di Seoul, reporter Yonhap Lee Do-heun melaporkan bahwa sebuah analisis menyebut pertumbuhan stablecoin dapat memberi tekanan pada struktur pendapatan bank-bank domestik Korea Selatan. Menurut laporan tersebut, isu utamanya adalah stablecoin dapat memengaruhi area yang selama ini terkait dengan simpanan bank serta layanan pembayaran dan pengiriman uang. Karena itu, sektor perbankan mengkhawatirkan kemungkinan keluarnya simpanan dan penurunan pendapatan biaya. Seiring perluasan pasar stablecoin, muncul pandangan bahwa bank perlu meninjau kembali dasar pendapatan tradisional mereka. Sumber: yna.co.kr"
+      }
+    }
+  },
+  {
     "id": "9ad21c3fa5e9",
     "slug": "노인일자리-새-모델-찾는다신규-노인일자리-아이템-공모전-297476",
     "channelId": "ETF",
@@ -4271,231 +4496,6 @@
         "title": "Kospi Tembus 7.000, Investor Ritel Makin Cemas Soal FOMO dan Laba Hilang",
         "excerpt": "Kospi menembus 7.000 untuk pertama kalinya dan naik lebih dari 70% sejak awal tahun, memicu rasa tertinggal di kalangan investor ritel serta kekhawatiran laba bisa kembali tergerus.",
         "body": "Kospi untuk pertama kalinya menembus level 7.000 dan melonjak lebih dari 70% sejak awal tahun, membuat kecemasan investor ritel meningkat. Sebagian investor mengatakan mereka terlalu lama mempertimbangkan “800.000 Nix” hingga akhirnya tidak membeli, lalu merasa tertinggal. Ada pula yang mengaku tetap gelisah meski imbal hasil sudah sekitar 30%, karena khawatir suatu saat keuntungan itu bisa hilang kembali. Ketika reli tajam berlanjut, beban untuk masuk terlambat dan kewaspadaan pemegang saham yang sudah naik tinggi sama-sama meningkat. Di antara pelaku pasar bahkan muncul ungkapan “tidak berbeda dari meja judi”, mencerminkan kekhawatiran yang makin besar terhadap kondisi terlalu panas. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "b1978fca1c10",
-    "slug": "퇴근-후에-진짜-돈-번다밤마다-14조원-몰리는-이곳-412941",
-    "channelId": "ETF",
-    "category": "etf",
-    "publishedAt": "2026-05-10T01:20:45.954Z",
-    "updatedAt": "2026-05-10T01:20:45.954Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/2026051059737",
-    "canonicalUrl": "https://www.hankyung.com/article/2026051059737",
-    "titleFingerprint": "313265e4f20aa240cdd58b6d35170c69af03c0de",
-    "dedupKeys": [
-      "b1978fca1c10f67611a01f258dcf104d41bc5279",
-      "313265e4f20aa240cdd58b6d35170c69af03c0de",
-      "57ac6f1feeaf7f0ca5334b62f166fcf034980319"
-    ],
-    "imageUrl": "/images/articles/b1978fca1c10.jpg",
-    "i18n": {
-      "ko": {
-        "title": "미국 증시 야간 투자에 14조원 몰린다…퇴근 후 ‘진짜 돈’ 찾는 투자자들",
-        "excerpt": "한국경제는 퇴근 후 밤 시간대에 투자자금이 몰리는 미국 증시 흐름을 조명하며, 밤마다 약 14조원이 움직이는 현상을 보도했다.",
-        "body": "퇴근 후 밤 시간대에 투자자들이 미국 증시로 몰리고 있다. 한국경제 보도에 따르면 밤마다 약 14조원의 자금이 이 시장으로 향하며, 직장인 등 투자자들이 업무가 끝난 뒤 해외 주식 거래에 참여하는 흐름이 부각됐다. 이번 보도는 투자자들이 국내 장 마감 이후에도 수익 기회를 찾는 현상을 보여준다. 야간 거래 수요가 커지면서 해외 주식과 관련 상품에 대한 관심도 이어질 전망이다. 출처: hankyung.com"
-      },
-      "en": {
-        "title": "US Stocks Draw 14 Trillion Won at Night as Investors Trade After Work",
-        "excerpt": "Hankyung reported that investors are turning to the US stock market after work, with around 14 trillion won moving there each night.",
-        "body": "Investors are moving into the US stock market during evening hours after work. According to Hankyung, about 14 trillion won flows into this market each night, highlighting how office workers and other investors participate in overseas stock trading after the domestic trading day ends. The report shows demand for return opportunities beyond local market hours. As nighttime trading grows, interest in overseas stocks and related products is likely to remain in focus. Source: hankyung.com"
-      },
-      "ja": {
-        "title": "米国株に夜ごと14兆ウォン、退勤後に投資機会を探す動き拡大",
-        "excerpt": "韓国経済新聞は、退勤後の夜間に米国株へ投資資金が集まり、毎晩約14兆ウォンが動いていると報じた。",
-        "body": "退勤後の夜間に、投資家が米国株市場へ向かっている。韓国経済新聞によると、この市場には毎晩約14兆ウォンの資金が流入し、会社員を含む投資家が仕事を終えた後に海外株取引へ参加する動きが目立っている。今回の報道は、国内市場の取引終了後にも収益機会を探す需要を示している。夜間取引の需要が拡大するなか、海外株や関連商品への関心も続く見通しだ。出典: hankyung.com"
-      },
-      "zh": {
-        "title": "美国股市夜间吸引14万亿韩元，投资者下班后寻找机会",
-        "excerpt": "韩国经济新闻报道，投资者下班后在夜间转向美国股市，每晚约有14万亿韩元资金流入该市场。",
-        "body": "下班后的夜间时段，投资者正涌向美国股市。韩国经济新闻报道称，每晚约有14万亿韩元资金流向这一市场，显示上班族等投资者在工作结束后参与海外股票交易的趋势。该报道反映出，投资者在韩国本土市场收盘后仍在寻找收益机会。随着夜间交易需求扩大，海外股票及相关产品的关注度预计将持续。来源: hankyung.com"
-      },
-      "es": {
-        "title": "Wall Street atrae 14 billones de wones cada noche tras la jornada laboral",
-        "excerpt": "Hankyung informó que los inversores acuden al mercado bursátil estadounidense después del trabajo, con unos 14 billones de wones moviéndose cada noche.",
-        "body": "Tras la jornada laboral, los inversores se están dirigiendo al mercado bursátil estadounidense durante la noche. Según Hankyung, cerca de 14 billones de wones llegan a este mercado cada noche, lo que muestra cómo empleados y otros inversores participan en operaciones de acciones extranjeras después del cierre local. El informe refleja la búsqueda de oportunidades de rentabilidad fuera del horario del mercado nacional. A medida que crece la demanda nocturna, seguirá la atención sobre acciones extranjeras y productos relacionados. Fuente: hankyung.com"
-      },
-      "pt": {
-        "title": "Bolsa dos EUA atrai 14 trilhões de won à noite após o expediente",
-        "excerpt": "O Hankyung informou que investidores buscam o mercado acionário dos EUA depois do trabalho, com cerca de 14 trilhões de won circulando a cada noite.",
-        "body": "Depois do expediente, investidores estão se voltando para o mercado acionário dos EUA durante a noite. Segundo o Hankyung, cerca de 14 trilhões de won entram nesse mercado a cada noite, destacando a participação de trabalhadores e outros investidores em ações estrangeiras após o fim do pregão local. A reportagem mostra a busca por oportunidades de retorno fora do horário do mercado doméstico. Com a expansão da demanda por negociação noturna, ações estrangeiras e produtos relacionados devem seguir em foco. Fonte: hankyung.com"
-      },
-      "de": {
-        "title": "US-Aktien ziehen nachts 14 Billionen Won an: Handel nach Feierabend wächst",
-        "excerpt": "Hankyung berichtet, dass Anleger nach Feierabend in den US-Aktienmarkt gehen, wo jede Nacht rund 14 Billionen Won bewegt werden.",
-        "body": "Nach Feierabend wenden sich Anleger in den Abendstunden dem US-Aktienmarkt zu. Laut Hankyung fließen jede Nacht rund 14 Billionen Won in diesen Markt, was zeigt, dass Angestellte und andere Investoren nach dem Ende des heimischen Handelstags an Auslandsaktiengeschäften teilnehmen. Der Bericht verdeutlicht die Suche nach Renditechancen außerhalb der lokalen Marktzeiten. Mit wachsender Nachfrage nach Nachthandel dürften ausländische Aktien und verwandte Produkte weiter im Fokus stehen. Quelle: hankyung.com"
-      },
-      "fr": {
-        "title": "Les actions américaines attirent 14 000 milliards de wons chaque nuit",
-        "excerpt": "Hankyung rapporte que les investisseurs se tournent vers la Bourse américaine après le travail, avec environ 14 000 milliards de wons échangés chaque nuit.",
-        "body": "Après le travail, les investisseurs se dirigent vers le marché actions américain pendant la nuit. Selon Hankyung, environ 14 000 milliards de wons affluent chaque nuit vers ce marché, illustrant la participation des salariés et d’autres investisseurs aux actions étrangères après la clôture locale. Le reportage montre la recherche d’opportunités de rendement en dehors des heures du marché national. À mesure que la demande de trading nocturne augmente, l’intérêt pour les actions étrangères et les produits liés devrait se poursuivre. Source: hankyung.com"
-      },
-      "ar": {
-        "title": "الأسهم الأميركية تجذب 14 تريليون وون ليلا مع تداول المستثمرين بعد العمل",
-        "excerpt": "ذكرت هانكيونغ أن المستثمرين يتجهون إلى سوق الأسهم الأميركية بعد العمل، حيث يتحرك نحو 14 تريليون وون كل ليلة.",
-        "body": "بعد انتهاء ساعات العمل، يتجه المستثمرون إلى سوق الأسهم الأميركية خلال الليل. ووفقا لتقرير هانكيونغ، يتدفق نحو 14 تريليون وون إلى هذا السوق كل ليلة، ما يبرز مشاركة الموظفين وغيرهم من المستثمرين في تداول الأسهم الخارجية بعد إغلاق السوق المحلية. ويعكس التقرير بحث المستثمرين عن فرص عائد خارج ساعات التداول المحلية. ومع نمو الطلب على التداول الليلي، من المتوقع استمرار الاهتمام بالأسهم الأجنبية والمنتجات المرتبطة بها. المصدر: hankyung.com"
-      },
-      "hi": {
-        "title": "अमेरिकी शेयरों में रात को 14 ट्रिलियन वॉन, काम के बाद बढ़ी ट्रेडिंग",
-        "excerpt": "हैंक्युंग के अनुसार निवेशक काम के बाद अमेरिकी शेयर बाजार की ओर जा रहे हैं, जहां हर रात करीब 14 ट्रिलियन वॉन का प्रवाह होता है।",
-        "body": "काम के बाद रात के समय निवेशक अमेरिकी शेयर बाजार की ओर बढ़ रहे हैं। हैंक्युंग की रिपोर्ट के अनुसार, हर रात लगभग 14 ट्रिलियन वॉन इस बाजार में जाता है, जिससे दिखता है कि कर्मचारी और अन्य निवेशक घरेलू बाजार बंद होने के बाद विदेशी शेयरों में कारोबार कर रहे हैं। यह रिपोर्ट स्थानीय बाजार समय के बाहर रिटर्न के अवसर तलाशने की प्रवृत्ति दिखाती है। रात की ट्रेडिंग मांग बढ़ने के साथ विदेशी शेयरों और संबंधित उत्पादों में रुचि बनी रहने की संभावना है। स्रोत: hankyung.com"
-      },
-      "id": {
-        "title": "Saham AS Serap 14 Triliun Won Tiap Malam Saat Investor Trading Usai Kerja",
-        "excerpt": "Hankyung melaporkan investor masuk ke pasar saham AS setelah jam kerja, dengan sekitar 14 triliun won bergerak ke sana setiap malam.",
-        "body": "Setelah jam kerja, investor bergerak ke pasar saham AS pada malam hari. Menurut Hankyung, sekitar 14 triliun won mengalir ke pasar ini setiap malam, menyoroti bagaimana pekerja kantoran dan investor lain ikut memperdagangkan saham luar negeri setelah pasar domestik tutup. Laporan ini menunjukkan pencarian peluang imbal hasil di luar jam bursa lokal. Seiring meningkatnya permintaan perdagangan malam, minat pada saham luar negeri dan produk terkait diperkirakan tetap berlanjut. Sumber: hankyung.com"
-      }
-    }
-  },
-  {
-    "id": "9e6408d86ec8",
-    "slug": "불장인데-마통쯤이야5대-은행-잔액-3년4개월-만에-최대-485582",
-    "channelId": "ETF",
-    "category": "etf",
-    "publishedAt": "2026-05-10T01:19:38.901Z",
-    "updatedAt": "2026-05-10T01:19:38.901Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/economy/12042432",
-    "canonicalUrl": "https://www.mk.co.kr/news/economy/12042432",
-    "titleFingerprint": "381f8d47cf2954cedfe862f12fb66c3c197d0f52",
-    "dedupKeys": [
-      "9e6408d86ec8c955e610e63d1ce8d6c8e242ba96",
-      "381f8d47cf2954cedfe862f12fb66c3c197d0f52",
-      "cb987bf6eccb771ae277ff09809f0c45e0c35204"
-    ],
-    "imageUrl": "/images/articles/9e6408d86ec8.jpg",
-    "i18n": {
-      "ko": {
-        "title": "마이너스통장 잔액 급증, 5대 은행 3년4개월 만에 최대치",
-        "excerpt": "국내 증시가 이란전쟁 변수에도 활황을 이어가자 주요 시중은행의 마이너스통장 잔액이 3년 4개월 만에 최대 규모로 불어난 것으로 집계됐다.",
-        "body": "이란전쟁에도 불구하고 국내 증시가 연일 활황을 보이는 가운데 5대 주요 시중은행의 마이너스통장, 즉 신용한도대출 잔액이 3년 4개월 만에 최대 규모로 불어난 것으로 집계됐다. 증시 상승세가 이어지면서 투자 수요와 단기 자금 활용이 맞물린 영향으로 풀이된다. 원문은 최근 잔액 증가가 이례적인 급등 양상을 보였다고 전했다. 다만 시장 변동성이 커질 수 있는 만큼 차입을 활용한 투자에는 금리 부담과 상환 리스크가 함께 따라붙는다. 출처는 mk.co.kr이다."
-      },
-      "en": {
-        "title": "Credit Line Loan Balances Surge at Five Major Korean Banks to 40-Month High",
-        "excerpt": "As South Korea’s stock market stays buoyant despite the Iran war, overdraft-style credit line loan balances at major banks have reached their highest level in three years and four months.",
-        "body": "Despite the Iran war, South Korea’s stock market has continued to rally, and balances on overdraft-style credit line loans at the five major commercial banks have grown to their largest level in three years and four months. The increase appears to reflect stronger investment demand and short-term funding needs amid the sustained market upswing. The original report described the recent rise in balances as unusually sharp. Still, using borrowed money for investment can bring interest burdens and repayment risks if market volatility increases. Source: mk.co.kr."
-      },
-      "ja": {
-        "title": "マイナス通帳残高が急増、韓国5大銀行で3年4カ月ぶり最大",
-        "excerpt": "イラン戦争にもかかわらず韓国株式市場が活況を続けるなか、主要銀行のマイナス通帳残高が3年4カ月ぶりの最大規模に膨らんだ。",
-        "body": "イラン戦争にもかかわらず韓国国内の株式市場が連日活況を見せるなか、5大主要市中銀行のマイナス通帳、つまり信用限度貸出の残高が3年4カ月ぶりの最大規模に膨らんだことが集計で分かった。株高が続くなか、投資需要と短期資金の活用が重なった影響とみられる。原文は、最近の残高増加が異例の急増ぶりを示したと伝えている。ただ、市場の変動性が高まる可能性もあり、借入を活用した投資には金利負担と返済リスクが伴う。出典はmk.co.kr。"
-      },
-      "zh": {
-        "title": "透支贷款余额激增，韩国五大银行创3年4个月新高",
-        "excerpt": "尽管受到伊朗战争影响，韩国股市仍持续活跃，主要商业银行的透支式信用额度贷款余额升至3年4个月来最大规模。",
-        "body": "尽管有伊朗战争因素，韩国国内股市仍连日保持活跃，五大主要商业银行的透支账户，也就是信用额度贷款余额被统计为3年4个月以来最大规模。随着股市上涨势头延续，投资需求与短期资金使用需求叠加，被认为是余额扩大的背景。原文称，近期余额增长呈现出罕见的急升态势。不过，在市场波动性可能扩大的情况下，利用借款进行投资也伴随利息负担和偿还风险。来源：mk.co.kr。"
-      },
-      "es": {
-        "title": "Saldos de líneas de crédito suben en cinco grandes bancos coreanos a máximo de 40 meses",
-        "excerpt": "Con la bolsa surcoreana en auge pese a la guerra en Irán, los saldos de préstamos de límite crediticio en grandes bancos alcanzaron su mayor nivel en 3 años y 4 meses.",
-        "body": "Pese a la guerra en Irán, el mercado bursátil surcoreano sigue mostrando fortaleza día tras día, y los saldos de las cuentas de sobregiro o préstamos con límite de crédito en los cinco principales bancos comerciales alcanzaron su mayor volumen en tres años y cuatro meses. El aumento se vincula con la demanda de inversión y el uso de fondos de corto plazo durante el avance del mercado. El reporte original señaló que el incremento reciente fue inusualmente brusco. Aun así, invertir con dinero prestado implica cargas por intereses y riesgos de reembolso si crece la volatilidad. Fuente: mk.co.kr."
-      },
-      "pt": {
-        "title": "Saldo de crédito rotativo salta em cinco grandes bancos coreanos ao maior nível em 40 meses",
-        "excerpt": "Com a bolsa sul-coreana em alta apesar da guerra no Irã, saldos de empréstimos com limite de crédito nos grandes bancos chegaram ao maior nível em 3 anos e 4 meses.",
-        "body": "Apesar da guerra no Irã, o mercado acionário da Coreia do Sul segue em forte ritmo, e os saldos das contas de cheque especial, ou empréstimos com limite de crédito, nos cinco principais bancos comerciais chegaram ao maior volume em três anos e quatro meses. A alta parece refletir a combinação de maior demanda por investimento e uso de recursos de curto prazo em meio ao avanço contínuo da bolsa. A reportagem original classificou o aumento recente como excepcionalmente acentuado. Ainda assim, investir com recursos tomados emprestados traz custos de juros e risco de pagamento. Fonte: mk.co.kr."
-      },
-      "de": {
-        "title": "Kreditlinien-Salden bei fünf großen koreanischen Banken auf höchstem Stand seit 40 Monaten",
-        "excerpt": "Trotz des Iran-Kriegs bleibt Südkoreas Aktienmarkt stark, während die Salden von Kreditlinienkonten großer Banken den höchsten Stand seit 3 Jahren und 4 Monaten erreichen.",
-        "body": "Trotz des Iran-Kriegs zeigt sich der südkoreanische Aktienmarkt weiter lebhaft. Zugleich sind die Salden sogenannter Minus-Konten, also Kreditlinienkredite, bei den fünf großen Geschäftsbanken auf den höchsten Stand seit drei Jahren und vier Monaten gestiegen. Der Anstieg dürfte mit wachsender Investitionsnachfrage und der Nutzung kurzfristiger Mittel während der anhaltenden Börsenrally zusammenhängen. Der Originalbericht sprach von einem ungewöhnlich starken Zuwachs. Bei Investitionen mit geliehenem Geld bleiben jedoch Zinslasten und Rückzahlungsrisiken, falls die Marktvolatilität zunimmt. Quelle: mk.co.kr."
-      },
-      "fr": {
-        "title": "Les lignes de crédit grimpent dans cinq grandes banques coréennes à un pic de 40 mois",
-        "excerpt": "Alors que la Bourse sud-coréenne reste dynamique malgré la guerre en Iran, les soldes de prêts à limite de crédit des grandes banques atteignent un plus haut en 3 ans et 4 mois.",
-        "body": "Malgré la guerre en Iran, le marché boursier sud-coréen reste en forte activité, et les soldes des comptes à découvert, ou prêts à limite de crédit, des cinq principales banques commerciales ont atteint leur plus haut niveau en trois ans et quatre mois. Cette hausse semble liée à la demande d’investissement et à l’utilisation de financements de court terme dans un marché toujours haussier. Le rapport original a décrit la progression récente comme exceptionnellement rapide. Toutefois, investir avec des fonds empruntés expose à des charges d’intérêt et à des risques de remboursement si la volatilité augmente. Source : mk.co.kr."
-      },
-      "ar": {
-        "title": "أرصدة قروض الحد الائتماني تقفز في أكبر خمسة بنوك كورية إلى أعلى مستوى منذ 40 شهرا",
-        "excerpt": "مع استمرار نشاط سوق الأسهم الكورية رغم حرب إيران، ارتفعت أرصدة قروض الحد الائتماني في البنوك الكبرى إلى أكبر مستوى خلال 3 سنوات و4 أشهر.",
-        "body": "رغم حرب إيران، يواصل سوق الأسهم المحلي في كوريا الجنوبية نشاطه اليومي، فيما أظهرت البيانات أن أرصدة حسابات السحب على المكشوف، أي قروض الحد الائتماني، لدى أكبر خمسة بنوك تجارية بلغت أعلى مستوى لها منذ ثلاث سنوات وأربعة أشهر. ويبدو أن استمرار صعود الأسهم تزامن مع طلب استثماري واستخدام أكبر للتمويل قصير الأجل. وذكر التقرير الأصلي أن الزيادة الأخيرة في الأرصدة كانت حادة على نحو غير معتاد. ومع ذلك، فإن الاستثمار عبر الاقتراض ينطوي على أعباء فائدة ومخاطر سداد إذا زادت تقلبات السوق. المصدر: mk.co.kr."
-      },
-      "hi": {
-        "title": "पांच बड़े कोरियाई बैंकों में क्रेडिट लाइन कर्ज 40 महीनों के उच्चतम स्तर पर",
-        "excerpt": "ईरान युद्ध के बावजूद दक्षिण कोरिया का शेयर बाजार मजबूत बना हुआ है, जिससे बड़े बैंकों के क्रेडिट लाइन ऋण शेष 3 साल 4 महीने के सबसे ऊंचे स्तर पर पहुंच गए।",
-        "body": "ईरान युद्ध के बावजूद दक्षिण कोरिया का घरेलू शेयर बाजार लगातार तेजी दिखा रहा है। इसी बीच पांच प्रमुख वाणिज्यिक बैंकों में माइनस अकाउंट, यानी क्रेडिट लिमिट लोन, का बकाया 3 साल और 4 महीने में सबसे बड़े स्तर पर पहुंचने का आकलन किया गया है। बाजार की तेजी जारी रहने से निवेश मांग और अल्पकालिक धन के उपयोग का असर इसमें दिखता है। मूल रिपोर्ट में हाल की वृद्धि को असामान्य रूप से तेज बताया गया। हालांकि उधार लेकर निवेश करने पर ब्याज बोझ और चुकौती जोखिम भी साथ आते हैं, खासकर यदि बाजार में उतार-चढ़ाव बढ़े। स्रोत: mk.co.kr."
-      },
-      "id": {
-        "title": "Saldo Kredit Limit di Lima Bank Besar Korea Melonjak ke Tertinggi 40 Bulan",
-        "excerpt": "Saat bursa Korea Selatan tetap bergairah meski ada perang Iran, saldo pinjaman limit kredit di bank-bank utama naik ke level terbesar dalam 3 tahun 4 bulan.",
-        "body": "Meski ada perang Iran, pasar saham domestik Korea Selatan terus menunjukkan reli, sementara saldo rekening minus atau pinjaman limit kredit di lima bank komersial utama tercatat membengkak ke level terbesar dalam tiga tahun empat bulan. Kenaikan ini dipandang terkait dengan meningkatnya minat investasi dan penggunaan dana jangka pendek di tengah pasar yang terus menguat. Laporan asli menyebut lonjakan saldo terbaru sebagai kenaikan yang tidak biasa. Namun, investasi dengan dana pinjaman tetap membawa beban bunga dan risiko pelunasan jika volatilitas pasar meningkat. Sumber: mk.co.kr."
-      }
-    }
-  },
-  {
-    "id": "52e10c7828d0",
-    "slug": "영화-한-편으로만-25조-수익-올렸는데주가가-오르질-않아요-367554",
-    "channelId": "ETF",
-    "category": "etf",
-    "publishedAt": "2026-05-10T01:18:42.017Z",
-    "updatedAt": "2026-05-10T01:18:42.017Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/stock/12042440",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12042440",
-    "titleFingerprint": "0c791e4d2bddecf7366d3ef888d2ddd82400a951",
-    "dedupKeys": [
-      "52e10c7828d03ec4d77dbde1f890f5962a8ce976",
-      "0c791e4d2bddecf7366d3ef888d2ddd82400a951",
-      "99f999c7eb1a41a08ab6edf2bdc551dcb9f70935"
-    ],
-    "imageUrl": "/images/articles/52e10c7828d0.png",
-    "i18n": {
-      "ko": {
-        "title": "디즈니 주토피아2 2.6조원 흥행에도 주가 부진, 왜 반등이 더딜까",
-        "excerpt": "디즈니는 지난해 ‘주토피아 2’가 전 세계 극장가에서 18억달러, 약 2조6000억원의 흥행 수익을 올렸지만 과거 인수 사업 가치 하락과 주가 부진이 함께 부각됐다.",
-        "body": "디즈니가 지난해 전 세계 극장가를 달군 ‘주토피아 2’ 흥행에도 주가 반등에는 속도를 내지 못하고 있다. 이 영화는 18억달러, 약 2조6000억원의 수익을 올리며 단일 작품으로 큰 성과를 냈다. 그러나 시장의 시선은 영화 흥행만이 아니라 과거 디즈니가 인수했던 사업들의 가치가 크게 떨어졌다는 점에도 머물렀다. 최근 디즈니는 체질 개선을 통해 수익성을 회복하는 흐름을 보이고 있지만, 대형 흥행작이 곧바로 주가 상승으로 이어지지는 않는 모습이다. 투자자들은 콘텐츠 흥행 성과와 함께 인수 사업 가치, 수익성 회복 속도를 함께 지켜보는 분위기다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Disney Stock Stays Weak Despite Zootopia 2’s $1.8 Billion Box Office Hit",
-        "excerpt": "Disney’s Zootopia 2 earned $1.8 billion worldwide last year, but the company’s share price remained under pressure as past acquisition values fell despite improving profitability.",
-        "body": "Disney has struggled to gain stock-market momentum even after Zootopia 2 became a major global box office hit last year. The film generated $1.8 billion, about 2.6 trillion won, showing the strength of a single content title. Yet investors also focused on the sharp decline in the value of businesses Disney had acquired in the past. Recently, the company has been recovering profitability through internal restructuring, but the blockbuster result has not translated directly into a rising share price. Market attention remains on both content performance and the pace of profit recovery. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "ディズニー株、ズートピア2の18億ドル大ヒットでも上昇鈍い理由",
-        "excerpt": "ディズニーは昨年『ズートピア2』が世界興行収入18億ドル、約2兆6000億ウォンを記録したが、過去に買収した事業価値の下落と株価低迷が注目された。",
-        "body": "ディズニーは昨年、世界の映画館を沸かせた『ズートピア2』の大ヒットにもかかわらず、株価の反発には勢いが出ていない。同作品は18億ドル、約2兆6000億ウォンの収益を上げ、単独作品として大きな成果を示した。しかし市場は映画の興行成績だけでなく、ディズニーが過去に買収した事業の価値が大きく下がった点にも注目している。最近は体質改善により収益性が回復しつつあるが、大型ヒットが直ちに株価上昇につながる状況ではない。投資家はコンテンツの成果と収益回復の速度を見守っている。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "迪士尼《疯狂动物城2》狂收18亿美元，股价为何仍难上涨",
-        "excerpt": "迪士尼去年凭借《疯狂动物城2》在全球影院获得18亿美元、约2.6万亿韩元收入，但过去收购业务价值下滑与股价疲弱仍受到关注。",
-        "body": "迪士尼去年因《疯狂动物城2》席卷全球影院而获得巨大票房成功，但其股价反弹仍显乏力。该片收入达到18亿美元，约合2.6万亿韩元，显示出单部作品的强大吸金能力。不过，市场关注的不只是电影热卖，还包括迪士尼过去收购的业务价值大幅下降。近期迪士尼通过体质改善推动盈利能力恢复，但大型爆款并未立即转化为股价上涨。投资者仍在同时观察内容表现、收购业务价值以及盈利恢复速度。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Disney no despega en bolsa pese a los 1.800 millones de Zootopia 2",
-        "excerpt": "Disney logró el año pasado 1.800 millones de dólares, unos 2,6 billones de wones, con Zootopia 2, pero la caída del valor de negocios adquiridos y la debilidad bursátil siguieron pesando.",
-        "body": "Disney no ha logrado acelerar un repunte bursátil pese al gran éxito mundial de Zootopia 2 el año pasado. La película generó 1.800 millones de dólares, alrededor de 2,6 billones de wones, una cifra notable para una sola producción. Sin embargo, el mercado también se fijó en la fuerte caída del valor de negocios que Disney había adquirido en el pasado. La compañía ha mostrado una recuperación de la rentabilidad gracias a recientes mejoras internas, pero el éxito de taquilla no se ha traducido de inmediato en una subida de la acción. Los inversores observan el desempeño del contenido y el ritmo de recuperación. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Disney não reage em bolsa apesar dos US$ 1,8 bi de Zootopia 2",
-        "excerpt": "A Disney arrecadou no ano passado US$ 1,8 bilhão, cerca de 2,6 trilhões de wons, com Zootopia 2, mas a queda no valor de negócios adquiridos e a ação fraca pesaram.",
-        "body": "A Disney ainda não conseguiu ganhar força na bolsa mesmo após o grande sucesso mundial de Zootopia 2 no ano passado. O filme gerou US$ 1,8 bilhão, cerca de 2,6 trilhões de wons, um resultado expressivo para uma única obra. Porém, o mercado também observou a forte queda no valor de negócios adquiridos pela Disney no passado. Recentemente, a empresa vem recuperando a rentabilidade por meio de melhorias estruturais, mas o êxito de bilheteria não se converteu imediatamente em alta das ações. Investidores acompanham o desempenho do conteúdo e a velocidade da recuperação dos lucros. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Disney-Aktie bleibt schwach trotz 1,8 Milliarden Dollar für Zootopia 2",
-        "excerpt": "Disney erzielte im vergangenen Jahr mit Zootopia 2 weltweit 1,8 Milliarden Dollar, rund 2,6 Billionen Won, doch sinkende Werte früherer Übernahmen und die schwache Aktie belasteten das Bild.",
-        "body": "Disney kommt an der Börse trotz des weltweiten Erfolgs von Zootopia 2 im vergangenen Jahr nur schwer voran. Der Film spielte 1,8 Milliarden Dollar ein, etwa 2,6 Billionen Won, und lieferte damit ein starkes Ergebnis für einen einzelnen Titel. Der Markt blickte jedoch nicht nur auf den Kinoerfolg, sondern auch auf den deutlichen Wertverlust von Geschäften, die Disney früher übernommen hatte. Zuletzt verbesserte das Unternehmen durch strukturelle Anpassungen seine Profitabilität. Dennoch führte der Blockbuster nicht unmittelbar zu steigenden Aktienkursen. Anleger achten weiter auf Content-Erfolge und das Tempo der Erholung. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Disney reste sous pression malgré les 1,8 milliard de dollars de Zootopia 2",
-        "excerpt": "Disney a engrangé l’an dernier 1,8 milliard de dollars, soit environ 2.600 milliards de wons, avec Zootopia 2, mais la baisse de valeur d’activités acquises et l’action faible ont pesé.",
-        "body": "Disney peine encore à faire rebondir son action malgré le grand succès mondial de Zootopia 2 l’an dernier. Le film a généré 1,8 milliard de dollars, environ 2.600 milliards de wons, un résultat majeur pour une seule œuvre. Mais le marché ne s’est pas limité au box-office et a aussi retenu la forte baisse de valeur d’activités que Disney avait acquises par le passé. Récemment, le groupe a amélioré sa rentabilité grâce à des changements internes, sans que ce succès en salle se traduise immédiatement par une hausse du cours. Les investisseurs suivent les performances des contenus et le rythme du redressement. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "سهم ديزني لا يرتفع رغم إيرادات زوتوبيا 2 البالغة 1.8 مليار دولار",
-        "excerpt": "حققت ديزني العام الماضي 1.8 مليار دولار، نحو 2.6 تريليون وون، من فيلم زوتوبيا 2 عالميا، لكن تراجع قيمة أعمال استحوذت عليها سابقا وضعف السهم بقيا موضع اهتمام.",
-        "body": "لم يتمكن سهم ديزني من تحقيق زخم واضح رغم النجاح العالمي الكبير لفيلم زوتوبيا 2 في دور العرض العام الماضي. فقد حقق الفيلم إيرادات بلغت 1.8 مليار دولار، أي نحو 2.6 تريليون وون، ما يعكس قوة عمل واحد فقط. لكن السوق لم يركز على نجاح الفيلم وحده، بل نظر أيضا إلى التراجع الكبير في قيمة أعمال كانت ديزني قد استحوذت عليها في السابق. وفي الفترة الأخيرة أظهرت الشركة تحسنا في الربحية عبر إصلاحات داخلية، إلا أن هذا النجاح السينمائي لم يتحول مباشرة إلى ارتفاع في السهم. يراقب المستثمرون أداء المحتوى وسرعة تعافي الربحية. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "Zootopia 2 की 1.8 अरब डॉलर कमाई के बाद भी Disney शेयर क्यों सुस्त",
-        "excerpt": "Disney ने पिछले साल Zootopia 2 से वैश्विक स्तर पर 1.8 अरब डॉलर, करीब 2.6 ट्रिलियन वॉन कमाए, लेकिन पुराने अधिग्रहित कारोबारों के मूल्य में गिरावट और कमजोर शेयर चर्चा में रहे।",
-        "body": "Disney को पिछले साल Zootopia 2 की वैश्विक बॉक्स ऑफिस सफलता के बावजूद शेयर बाजार में तेज बढ़त नहीं मिल सकी। फिल्म ने 1.8 अरब डॉलर, यानी लगभग 2.6 ट्रिलियन वॉन की कमाई की और एक ही कंटेंट की बड़ी क्षमता दिखाई। हालांकि बाजार का ध्यान केवल फिल्म की कमाई पर नहीं रहा। Disney ने जिन कारोबारों का पहले अधिग्रहण किया था, उनके मूल्य में बड़ी गिरावट भी निवेशकों के लिए अहम रही। हाल में कंपनी ने आंतरिक सुधारों के जरिए मुनाफे में रिकवरी दिखाई है, लेकिन बड़ी हिट फिल्म सीधे शेयर मूल्य में उछाल नहीं ला सकी। निवेशक कंटेंट प्रदर्शन और लाभप्रदता सुधार की गति दोनों देख रहे हैं। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Saham Disney Tetap Lemah Meski Zootopia 2 Raup US$1,8 Miliar",
-        "excerpt": "Disney meraih US$1,8 miliar atau sekitar 2,6 triliun won dari Zootopia 2 tahun lalu, tetapi penurunan nilai bisnis hasil akuisisi lama dan lemahnya saham tetap menjadi sorotan.",
-        "body": "Disney belum mampu mendorong kenaikan sahamnya meski Zootopia 2 menjadi hit besar di bioskop global tahun lalu. Film itu menghasilkan US$1,8 miliar, sekitar 2,6 triliun won, sebuah capaian besar untuk satu judul. Namun perhatian pasar tidak hanya tertuju pada keberhasilan box office. Nilai sejumlah bisnis yang pernah diakuisisi Disney pada masa lalu juga turun tajam. Baru-baru ini, Disney menunjukkan pemulihan profitabilitas melalui perbaikan internal, tetapi kesuksesan film besar belum langsung berubah menjadi kenaikan harga saham. Investor tetap memantau kinerja konten dan laju pemulihan laba. Sumber: mk.co.kr"
       }
     }
   }
