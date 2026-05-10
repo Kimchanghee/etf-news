@@ -1,5 +1,230 @@
 [
   {
+    "id": "b1978fca1c10",
+    "slug": "퇴근-후에-진짜-돈-번다밤마다-14조원-몰리는-이곳-412941",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-05-10T01:20:45.954Z",
+    "updatedAt": "2026-05-10T01:20:45.954Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/2026051059737",
+    "canonicalUrl": "https://www.hankyung.com/article/2026051059737",
+    "titleFingerprint": "313265e4f20aa240cdd58b6d35170c69af03c0de",
+    "dedupKeys": [
+      "b1978fca1c10f67611a01f258dcf104d41bc5279",
+      "313265e4f20aa240cdd58b6d35170c69af03c0de",
+      "57ac6f1feeaf7f0ca5334b62f166fcf034980319"
+    ],
+    "imageUrl": "/images/articles/b1978fca1c10.jpg",
+    "i18n": {
+      "ko": {
+        "title": "미국 증시 야간 투자에 14조원 몰린다…퇴근 후 ‘진짜 돈’ 찾는 투자자들",
+        "excerpt": "한국경제는 퇴근 후 밤 시간대에 투자자금이 몰리는 미국 증시 흐름을 조명하며, 밤마다 약 14조원이 움직이는 현상을 보도했다.",
+        "body": "퇴근 후 밤 시간대에 투자자들이 미국 증시로 몰리고 있다. 한국경제 보도에 따르면 밤마다 약 14조원의 자금이 이 시장으로 향하며, 직장인 등 투자자들이 업무가 끝난 뒤 해외 주식 거래에 참여하는 흐름이 부각됐다. 이번 보도는 투자자들이 국내 장 마감 이후에도 수익 기회를 찾는 현상을 보여준다. 야간 거래 수요가 커지면서 해외 주식과 관련 상품에 대한 관심도 이어질 전망이다. 출처: hankyung.com"
+      },
+      "en": {
+        "title": "US Stocks Draw 14 Trillion Won at Night as Investors Trade After Work",
+        "excerpt": "Hankyung reported that investors are turning to the US stock market after work, with around 14 trillion won moving there each night.",
+        "body": "Investors are moving into the US stock market during evening hours after work. According to Hankyung, about 14 trillion won flows into this market each night, highlighting how office workers and other investors participate in overseas stock trading after the domestic trading day ends. The report shows demand for return opportunities beyond local market hours. As nighttime trading grows, interest in overseas stocks and related products is likely to remain in focus. Source: hankyung.com"
+      },
+      "ja": {
+        "title": "米国株に夜ごと14兆ウォン、退勤後に投資機会を探す動き拡大",
+        "excerpt": "韓国経済新聞は、退勤後の夜間に米国株へ投資資金が集まり、毎晩約14兆ウォンが動いていると報じた。",
+        "body": "退勤後の夜間に、投資家が米国株市場へ向かっている。韓国経済新聞によると、この市場には毎晩約14兆ウォンの資金が流入し、会社員を含む投資家が仕事を終えた後に海外株取引へ参加する動きが目立っている。今回の報道は、国内市場の取引終了後にも収益機会を探す需要を示している。夜間取引の需要が拡大するなか、海外株や関連商品への関心も続く見通しだ。出典: hankyung.com"
+      },
+      "zh": {
+        "title": "美国股市夜间吸引14万亿韩元，投资者下班后寻找机会",
+        "excerpt": "韩国经济新闻报道，投资者下班后在夜间转向美国股市，每晚约有14万亿韩元资金流入该市场。",
+        "body": "下班后的夜间时段，投资者正涌向美国股市。韩国经济新闻报道称，每晚约有14万亿韩元资金流向这一市场，显示上班族等投资者在工作结束后参与海外股票交易的趋势。该报道反映出，投资者在韩国本土市场收盘后仍在寻找收益机会。随着夜间交易需求扩大，海外股票及相关产品的关注度预计将持续。来源: hankyung.com"
+      },
+      "es": {
+        "title": "Wall Street atrae 14 billones de wones cada noche tras la jornada laboral",
+        "excerpt": "Hankyung informó que los inversores acuden al mercado bursátil estadounidense después del trabajo, con unos 14 billones de wones moviéndose cada noche.",
+        "body": "Tras la jornada laboral, los inversores se están dirigiendo al mercado bursátil estadounidense durante la noche. Según Hankyung, cerca de 14 billones de wones llegan a este mercado cada noche, lo que muestra cómo empleados y otros inversores participan en operaciones de acciones extranjeras después del cierre local. El informe refleja la búsqueda de oportunidades de rentabilidad fuera del horario del mercado nacional. A medida que crece la demanda nocturna, seguirá la atención sobre acciones extranjeras y productos relacionados. Fuente: hankyung.com"
+      },
+      "pt": {
+        "title": "Bolsa dos EUA atrai 14 trilhões de won à noite após o expediente",
+        "excerpt": "O Hankyung informou que investidores buscam o mercado acionário dos EUA depois do trabalho, com cerca de 14 trilhões de won circulando a cada noite.",
+        "body": "Depois do expediente, investidores estão se voltando para o mercado acionário dos EUA durante a noite. Segundo o Hankyung, cerca de 14 trilhões de won entram nesse mercado a cada noite, destacando a participação de trabalhadores e outros investidores em ações estrangeiras após o fim do pregão local. A reportagem mostra a busca por oportunidades de retorno fora do horário do mercado doméstico. Com a expansão da demanda por negociação noturna, ações estrangeiras e produtos relacionados devem seguir em foco. Fonte: hankyung.com"
+      },
+      "de": {
+        "title": "US-Aktien ziehen nachts 14 Billionen Won an: Handel nach Feierabend wächst",
+        "excerpt": "Hankyung berichtet, dass Anleger nach Feierabend in den US-Aktienmarkt gehen, wo jede Nacht rund 14 Billionen Won bewegt werden.",
+        "body": "Nach Feierabend wenden sich Anleger in den Abendstunden dem US-Aktienmarkt zu. Laut Hankyung fließen jede Nacht rund 14 Billionen Won in diesen Markt, was zeigt, dass Angestellte und andere Investoren nach dem Ende des heimischen Handelstags an Auslandsaktiengeschäften teilnehmen. Der Bericht verdeutlicht die Suche nach Renditechancen außerhalb der lokalen Marktzeiten. Mit wachsender Nachfrage nach Nachthandel dürften ausländische Aktien und verwandte Produkte weiter im Fokus stehen. Quelle: hankyung.com"
+      },
+      "fr": {
+        "title": "Les actions américaines attirent 14 000 milliards de wons chaque nuit",
+        "excerpt": "Hankyung rapporte que les investisseurs se tournent vers la Bourse américaine après le travail, avec environ 14 000 milliards de wons échangés chaque nuit.",
+        "body": "Après le travail, les investisseurs se dirigent vers le marché actions américain pendant la nuit. Selon Hankyung, environ 14 000 milliards de wons affluent chaque nuit vers ce marché, illustrant la participation des salariés et d’autres investisseurs aux actions étrangères après la clôture locale. Le reportage montre la recherche d’opportunités de rendement en dehors des heures du marché national. À mesure que la demande de trading nocturne augmente, l’intérêt pour les actions étrangères et les produits liés devrait se poursuivre. Source: hankyung.com"
+      },
+      "ar": {
+        "title": "الأسهم الأميركية تجذب 14 تريليون وون ليلا مع تداول المستثمرين بعد العمل",
+        "excerpt": "ذكرت هانكيونغ أن المستثمرين يتجهون إلى سوق الأسهم الأميركية بعد العمل، حيث يتحرك نحو 14 تريليون وون كل ليلة.",
+        "body": "بعد انتهاء ساعات العمل، يتجه المستثمرون إلى سوق الأسهم الأميركية خلال الليل. ووفقا لتقرير هانكيونغ، يتدفق نحو 14 تريليون وون إلى هذا السوق كل ليلة، ما يبرز مشاركة الموظفين وغيرهم من المستثمرين في تداول الأسهم الخارجية بعد إغلاق السوق المحلية. ويعكس التقرير بحث المستثمرين عن فرص عائد خارج ساعات التداول المحلية. ومع نمو الطلب على التداول الليلي، من المتوقع استمرار الاهتمام بالأسهم الأجنبية والمنتجات المرتبطة بها. المصدر: hankyung.com"
+      },
+      "hi": {
+        "title": "अमेरिकी शेयरों में रात को 14 ट्रिलियन वॉन, काम के बाद बढ़ी ट्रेडिंग",
+        "excerpt": "हैंक्युंग के अनुसार निवेशक काम के बाद अमेरिकी शेयर बाजार की ओर जा रहे हैं, जहां हर रात करीब 14 ट्रिलियन वॉन का प्रवाह होता है।",
+        "body": "काम के बाद रात के समय निवेशक अमेरिकी शेयर बाजार की ओर बढ़ रहे हैं। हैंक्युंग की रिपोर्ट के अनुसार, हर रात लगभग 14 ट्रिलियन वॉन इस बाजार में जाता है, जिससे दिखता है कि कर्मचारी और अन्य निवेशक घरेलू बाजार बंद होने के बाद विदेशी शेयरों में कारोबार कर रहे हैं। यह रिपोर्ट स्थानीय बाजार समय के बाहर रिटर्न के अवसर तलाशने की प्रवृत्ति दिखाती है। रात की ट्रेडिंग मांग बढ़ने के साथ विदेशी शेयरों और संबंधित उत्पादों में रुचि बनी रहने की संभावना है। स्रोत: hankyung.com"
+      },
+      "id": {
+        "title": "Saham AS Serap 14 Triliun Won Tiap Malam Saat Investor Trading Usai Kerja",
+        "excerpt": "Hankyung melaporkan investor masuk ke pasar saham AS setelah jam kerja, dengan sekitar 14 triliun won bergerak ke sana setiap malam.",
+        "body": "Setelah jam kerja, investor bergerak ke pasar saham AS pada malam hari. Menurut Hankyung, sekitar 14 triliun won mengalir ke pasar ini setiap malam, menyoroti bagaimana pekerja kantoran dan investor lain ikut memperdagangkan saham luar negeri setelah pasar domestik tutup. Laporan ini menunjukkan pencarian peluang imbal hasil di luar jam bursa lokal. Seiring meningkatnya permintaan perdagangan malam, minat pada saham luar negeri dan produk terkait diperkirakan tetap berlanjut. Sumber: hankyung.com"
+      }
+    }
+  },
+  {
+    "id": "9e6408d86ec8",
+    "slug": "불장인데-마통쯤이야5대-은행-잔액-3년4개월-만에-최대-485582",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-05-10T01:19:38.901Z",
+    "updatedAt": "2026-05-10T01:19:38.901Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/economy/12042432",
+    "canonicalUrl": "https://www.mk.co.kr/news/economy/12042432",
+    "titleFingerprint": "381f8d47cf2954cedfe862f12fb66c3c197d0f52",
+    "dedupKeys": [
+      "9e6408d86ec8c955e610e63d1ce8d6c8e242ba96",
+      "381f8d47cf2954cedfe862f12fb66c3c197d0f52",
+      "cb987bf6eccb771ae277ff09809f0c45e0c35204"
+    ],
+    "imageUrl": "/images/articles/9e6408d86ec8.jpg",
+    "i18n": {
+      "ko": {
+        "title": "마이너스통장 잔액 급증, 5대 은행 3년4개월 만에 최대치",
+        "excerpt": "국내 증시가 이란전쟁 변수에도 활황을 이어가자 주요 시중은행의 마이너스통장 잔액이 3년 4개월 만에 최대 규모로 불어난 것으로 집계됐다.",
+        "body": "이란전쟁에도 불구하고 국내 증시가 연일 활황을 보이는 가운데 5대 주요 시중은행의 마이너스통장, 즉 신용한도대출 잔액이 3년 4개월 만에 최대 규모로 불어난 것으로 집계됐다. 증시 상승세가 이어지면서 투자 수요와 단기 자금 활용이 맞물린 영향으로 풀이된다. 원문은 최근 잔액 증가가 이례적인 급등 양상을 보였다고 전했다. 다만 시장 변동성이 커질 수 있는 만큼 차입을 활용한 투자에는 금리 부담과 상환 리스크가 함께 따라붙는다. 출처는 mk.co.kr이다."
+      },
+      "en": {
+        "title": "Credit Line Loan Balances Surge at Five Major Korean Banks to 40-Month High",
+        "excerpt": "As South Korea’s stock market stays buoyant despite the Iran war, overdraft-style credit line loan balances at major banks have reached their highest level in three years and four months.",
+        "body": "Despite the Iran war, South Korea’s stock market has continued to rally, and balances on overdraft-style credit line loans at the five major commercial banks have grown to their largest level in three years and four months. The increase appears to reflect stronger investment demand and short-term funding needs amid the sustained market upswing. The original report described the recent rise in balances as unusually sharp. Still, using borrowed money for investment can bring interest burdens and repayment risks if market volatility increases. Source: mk.co.kr."
+      },
+      "ja": {
+        "title": "マイナス通帳残高が急増、韓国5大銀行で3年4カ月ぶり最大",
+        "excerpt": "イラン戦争にもかかわらず韓国株式市場が活況を続けるなか、主要銀行のマイナス通帳残高が3年4カ月ぶりの最大規模に膨らんだ。",
+        "body": "イラン戦争にもかかわらず韓国国内の株式市場が連日活況を見せるなか、5大主要市中銀行のマイナス通帳、つまり信用限度貸出の残高が3年4カ月ぶりの最大規模に膨らんだことが集計で分かった。株高が続くなか、投資需要と短期資金の活用が重なった影響とみられる。原文は、最近の残高増加が異例の急増ぶりを示したと伝えている。ただ、市場の変動性が高まる可能性もあり、借入を活用した投資には金利負担と返済リスクが伴う。出典はmk.co.kr。"
+      },
+      "zh": {
+        "title": "透支贷款余额激增，韩国五大银行创3年4个月新高",
+        "excerpt": "尽管受到伊朗战争影响，韩国股市仍持续活跃，主要商业银行的透支式信用额度贷款余额升至3年4个月来最大规模。",
+        "body": "尽管有伊朗战争因素，韩国国内股市仍连日保持活跃，五大主要商业银行的透支账户，也就是信用额度贷款余额被统计为3年4个月以来最大规模。随着股市上涨势头延续，投资需求与短期资金使用需求叠加，被认为是余额扩大的背景。原文称，近期余额增长呈现出罕见的急升态势。不过，在市场波动性可能扩大的情况下，利用借款进行投资也伴随利息负担和偿还风险。来源：mk.co.kr。"
+      },
+      "es": {
+        "title": "Saldos de líneas de crédito suben en cinco grandes bancos coreanos a máximo de 40 meses",
+        "excerpt": "Con la bolsa surcoreana en auge pese a la guerra en Irán, los saldos de préstamos de límite crediticio en grandes bancos alcanzaron su mayor nivel en 3 años y 4 meses.",
+        "body": "Pese a la guerra en Irán, el mercado bursátil surcoreano sigue mostrando fortaleza día tras día, y los saldos de las cuentas de sobregiro o préstamos con límite de crédito en los cinco principales bancos comerciales alcanzaron su mayor volumen en tres años y cuatro meses. El aumento se vincula con la demanda de inversión y el uso de fondos de corto plazo durante el avance del mercado. El reporte original señaló que el incremento reciente fue inusualmente brusco. Aun así, invertir con dinero prestado implica cargas por intereses y riesgos de reembolso si crece la volatilidad. Fuente: mk.co.kr."
+      },
+      "pt": {
+        "title": "Saldo de crédito rotativo salta em cinco grandes bancos coreanos ao maior nível em 40 meses",
+        "excerpt": "Com a bolsa sul-coreana em alta apesar da guerra no Irã, saldos de empréstimos com limite de crédito nos grandes bancos chegaram ao maior nível em 3 anos e 4 meses.",
+        "body": "Apesar da guerra no Irã, o mercado acionário da Coreia do Sul segue em forte ritmo, e os saldos das contas de cheque especial, ou empréstimos com limite de crédito, nos cinco principais bancos comerciais chegaram ao maior volume em três anos e quatro meses. A alta parece refletir a combinação de maior demanda por investimento e uso de recursos de curto prazo em meio ao avanço contínuo da bolsa. A reportagem original classificou o aumento recente como excepcionalmente acentuado. Ainda assim, investir com recursos tomados emprestados traz custos de juros e risco de pagamento. Fonte: mk.co.kr."
+      },
+      "de": {
+        "title": "Kreditlinien-Salden bei fünf großen koreanischen Banken auf höchstem Stand seit 40 Monaten",
+        "excerpt": "Trotz des Iran-Kriegs bleibt Südkoreas Aktienmarkt stark, während die Salden von Kreditlinienkonten großer Banken den höchsten Stand seit 3 Jahren und 4 Monaten erreichen.",
+        "body": "Trotz des Iran-Kriegs zeigt sich der südkoreanische Aktienmarkt weiter lebhaft. Zugleich sind die Salden sogenannter Minus-Konten, also Kreditlinienkredite, bei den fünf großen Geschäftsbanken auf den höchsten Stand seit drei Jahren und vier Monaten gestiegen. Der Anstieg dürfte mit wachsender Investitionsnachfrage und der Nutzung kurzfristiger Mittel während der anhaltenden Börsenrally zusammenhängen. Der Originalbericht sprach von einem ungewöhnlich starken Zuwachs. Bei Investitionen mit geliehenem Geld bleiben jedoch Zinslasten und Rückzahlungsrisiken, falls die Marktvolatilität zunimmt. Quelle: mk.co.kr."
+      },
+      "fr": {
+        "title": "Les lignes de crédit grimpent dans cinq grandes banques coréennes à un pic de 40 mois",
+        "excerpt": "Alors que la Bourse sud-coréenne reste dynamique malgré la guerre en Iran, les soldes de prêts à limite de crédit des grandes banques atteignent un plus haut en 3 ans et 4 mois.",
+        "body": "Malgré la guerre en Iran, le marché boursier sud-coréen reste en forte activité, et les soldes des comptes à découvert, ou prêts à limite de crédit, des cinq principales banques commerciales ont atteint leur plus haut niveau en trois ans et quatre mois. Cette hausse semble liée à la demande d’investissement et à l’utilisation de financements de court terme dans un marché toujours haussier. Le rapport original a décrit la progression récente comme exceptionnellement rapide. Toutefois, investir avec des fonds empruntés expose à des charges d’intérêt et à des risques de remboursement si la volatilité augmente. Source : mk.co.kr."
+      },
+      "ar": {
+        "title": "أرصدة قروض الحد الائتماني تقفز في أكبر خمسة بنوك كورية إلى أعلى مستوى منذ 40 شهرا",
+        "excerpt": "مع استمرار نشاط سوق الأسهم الكورية رغم حرب إيران، ارتفعت أرصدة قروض الحد الائتماني في البنوك الكبرى إلى أكبر مستوى خلال 3 سنوات و4 أشهر.",
+        "body": "رغم حرب إيران، يواصل سوق الأسهم المحلي في كوريا الجنوبية نشاطه اليومي، فيما أظهرت البيانات أن أرصدة حسابات السحب على المكشوف، أي قروض الحد الائتماني، لدى أكبر خمسة بنوك تجارية بلغت أعلى مستوى لها منذ ثلاث سنوات وأربعة أشهر. ويبدو أن استمرار صعود الأسهم تزامن مع طلب استثماري واستخدام أكبر للتمويل قصير الأجل. وذكر التقرير الأصلي أن الزيادة الأخيرة في الأرصدة كانت حادة على نحو غير معتاد. ومع ذلك، فإن الاستثمار عبر الاقتراض ينطوي على أعباء فائدة ومخاطر سداد إذا زادت تقلبات السوق. المصدر: mk.co.kr."
+      },
+      "hi": {
+        "title": "पांच बड़े कोरियाई बैंकों में क्रेडिट लाइन कर्ज 40 महीनों के उच्चतम स्तर पर",
+        "excerpt": "ईरान युद्ध के बावजूद दक्षिण कोरिया का शेयर बाजार मजबूत बना हुआ है, जिससे बड़े बैंकों के क्रेडिट लाइन ऋण शेष 3 साल 4 महीने के सबसे ऊंचे स्तर पर पहुंच गए।",
+        "body": "ईरान युद्ध के बावजूद दक्षिण कोरिया का घरेलू शेयर बाजार लगातार तेजी दिखा रहा है। इसी बीच पांच प्रमुख वाणिज्यिक बैंकों में माइनस अकाउंट, यानी क्रेडिट लिमिट लोन, का बकाया 3 साल और 4 महीने में सबसे बड़े स्तर पर पहुंचने का आकलन किया गया है। बाजार की तेजी जारी रहने से निवेश मांग और अल्पकालिक धन के उपयोग का असर इसमें दिखता है। मूल रिपोर्ट में हाल की वृद्धि को असामान्य रूप से तेज बताया गया। हालांकि उधार लेकर निवेश करने पर ब्याज बोझ और चुकौती जोखिम भी साथ आते हैं, खासकर यदि बाजार में उतार-चढ़ाव बढ़े। स्रोत: mk.co.kr."
+      },
+      "id": {
+        "title": "Saldo Kredit Limit di Lima Bank Besar Korea Melonjak ke Tertinggi 40 Bulan",
+        "excerpt": "Saat bursa Korea Selatan tetap bergairah meski ada perang Iran, saldo pinjaman limit kredit di bank-bank utama naik ke level terbesar dalam 3 tahun 4 bulan.",
+        "body": "Meski ada perang Iran, pasar saham domestik Korea Selatan terus menunjukkan reli, sementara saldo rekening minus atau pinjaman limit kredit di lima bank komersial utama tercatat membengkak ke level terbesar dalam tiga tahun empat bulan. Kenaikan ini dipandang terkait dengan meningkatnya minat investasi dan penggunaan dana jangka pendek di tengah pasar yang terus menguat. Laporan asli menyebut lonjakan saldo terbaru sebagai kenaikan yang tidak biasa. Namun, investasi dengan dana pinjaman tetap membawa beban bunga dan risiko pelunasan jika volatilitas pasar meningkat. Sumber: mk.co.kr."
+      }
+    }
+  },
+  {
+    "id": "52e10c7828d0",
+    "slug": "영화-한-편으로만-25조-수익-올렸는데주가가-오르질-않아요-367554",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-05-10T01:18:42.017Z",
+    "updatedAt": "2026-05-10T01:18:42.017Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/stock/12042440",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12042440",
+    "titleFingerprint": "0c791e4d2bddecf7366d3ef888d2ddd82400a951",
+    "dedupKeys": [
+      "52e10c7828d03ec4d77dbde1f890f5962a8ce976",
+      "0c791e4d2bddecf7366d3ef888d2ddd82400a951",
+      "99f999c7eb1a41a08ab6edf2bdc551dcb9f70935"
+    ],
+    "imageUrl": "/images/articles/52e10c7828d0.png",
+    "i18n": {
+      "ko": {
+        "title": "디즈니 주토피아2 2.6조원 흥행에도 주가 부진, 왜 반등이 더딜까",
+        "excerpt": "디즈니는 지난해 ‘주토피아 2’가 전 세계 극장가에서 18억달러, 약 2조6000억원의 흥행 수익을 올렸지만 과거 인수 사업 가치 하락과 주가 부진이 함께 부각됐다.",
+        "body": "디즈니가 지난해 전 세계 극장가를 달군 ‘주토피아 2’ 흥행에도 주가 반등에는 속도를 내지 못하고 있다. 이 영화는 18억달러, 약 2조6000억원의 수익을 올리며 단일 작품으로 큰 성과를 냈다. 그러나 시장의 시선은 영화 흥행만이 아니라 과거 디즈니가 인수했던 사업들의 가치가 크게 떨어졌다는 점에도 머물렀다. 최근 디즈니는 체질 개선을 통해 수익성을 회복하는 흐름을 보이고 있지만, 대형 흥행작이 곧바로 주가 상승으로 이어지지는 않는 모습이다. 투자자들은 콘텐츠 흥행 성과와 함께 인수 사업 가치, 수익성 회복 속도를 함께 지켜보는 분위기다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Disney Stock Stays Weak Despite Zootopia 2’s $1.8 Billion Box Office Hit",
+        "excerpt": "Disney’s Zootopia 2 earned $1.8 billion worldwide last year, but the company’s share price remained under pressure as past acquisition values fell despite improving profitability.",
+        "body": "Disney has struggled to gain stock-market momentum even after Zootopia 2 became a major global box office hit last year. The film generated $1.8 billion, about 2.6 trillion won, showing the strength of a single content title. Yet investors also focused on the sharp decline in the value of businesses Disney had acquired in the past. Recently, the company has been recovering profitability through internal restructuring, but the blockbuster result has not translated directly into a rising share price. Market attention remains on both content performance and the pace of profit recovery. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "ディズニー株、ズートピア2の18億ドル大ヒットでも上昇鈍い理由",
+        "excerpt": "ディズニーは昨年『ズートピア2』が世界興行収入18億ドル、約2兆6000億ウォンを記録したが、過去に買収した事業価値の下落と株価低迷が注目された。",
+        "body": "ディズニーは昨年、世界の映画館を沸かせた『ズートピア2』の大ヒットにもかかわらず、株価の反発には勢いが出ていない。同作品は18億ドル、約2兆6000億ウォンの収益を上げ、単独作品として大きな成果を示した。しかし市場は映画の興行成績だけでなく、ディズニーが過去に買収した事業の価値が大きく下がった点にも注目している。最近は体質改善により収益性が回復しつつあるが、大型ヒットが直ちに株価上昇につながる状況ではない。投資家はコンテンツの成果と収益回復の速度を見守っている。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "迪士尼《疯狂动物城2》狂收18亿美元，股价为何仍难上涨",
+        "excerpt": "迪士尼去年凭借《疯狂动物城2》在全球影院获得18亿美元、约2.6万亿韩元收入，但过去收购业务价值下滑与股价疲弱仍受到关注。",
+        "body": "迪士尼去年因《疯狂动物城2》席卷全球影院而获得巨大票房成功，但其股价反弹仍显乏力。该片收入达到18亿美元，约合2.6万亿韩元，显示出单部作品的强大吸金能力。不过，市场关注的不只是电影热卖，还包括迪士尼过去收购的业务价值大幅下降。近期迪士尼通过体质改善推动盈利能力恢复，但大型爆款并未立即转化为股价上涨。投资者仍在同时观察内容表现、收购业务价值以及盈利恢复速度。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Disney no despega en bolsa pese a los 1.800 millones de Zootopia 2",
+        "excerpt": "Disney logró el año pasado 1.800 millones de dólares, unos 2,6 billones de wones, con Zootopia 2, pero la caída del valor de negocios adquiridos y la debilidad bursátil siguieron pesando.",
+        "body": "Disney no ha logrado acelerar un repunte bursátil pese al gran éxito mundial de Zootopia 2 el año pasado. La película generó 1.800 millones de dólares, alrededor de 2,6 billones de wones, una cifra notable para una sola producción. Sin embargo, el mercado también se fijó en la fuerte caída del valor de negocios que Disney había adquirido en el pasado. La compañía ha mostrado una recuperación de la rentabilidad gracias a recientes mejoras internas, pero el éxito de taquilla no se ha traducido de inmediato en una subida de la acción. Los inversores observan el desempeño del contenido y el ritmo de recuperación. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Disney não reage em bolsa apesar dos US$ 1,8 bi de Zootopia 2",
+        "excerpt": "A Disney arrecadou no ano passado US$ 1,8 bilhão, cerca de 2,6 trilhões de wons, com Zootopia 2, mas a queda no valor de negócios adquiridos e a ação fraca pesaram.",
+        "body": "A Disney ainda não conseguiu ganhar força na bolsa mesmo após o grande sucesso mundial de Zootopia 2 no ano passado. O filme gerou US$ 1,8 bilhão, cerca de 2,6 trilhões de wons, um resultado expressivo para uma única obra. Porém, o mercado também observou a forte queda no valor de negócios adquiridos pela Disney no passado. Recentemente, a empresa vem recuperando a rentabilidade por meio de melhorias estruturais, mas o êxito de bilheteria não se converteu imediatamente em alta das ações. Investidores acompanham o desempenho do conteúdo e a velocidade da recuperação dos lucros. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Disney-Aktie bleibt schwach trotz 1,8 Milliarden Dollar für Zootopia 2",
+        "excerpt": "Disney erzielte im vergangenen Jahr mit Zootopia 2 weltweit 1,8 Milliarden Dollar, rund 2,6 Billionen Won, doch sinkende Werte früherer Übernahmen und die schwache Aktie belasteten das Bild.",
+        "body": "Disney kommt an der Börse trotz des weltweiten Erfolgs von Zootopia 2 im vergangenen Jahr nur schwer voran. Der Film spielte 1,8 Milliarden Dollar ein, etwa 2,6 Billionen Won, und lieferte damit ein starkes Ergebnis für einen einzelnen Titel. Der Markt blickte jedoch nicht nur auf den Kinoerfolg, sondern auch auf den deutlichen Wertverlust von Geschäften, die Disney früher übernommen hatte. Zuletzt verbesserte das Unternehmen durch strukturelle Anpassungen seine Profitabilität. Dennoch führte der Blockbuster nicht unmittelbar zu steigenden Aktienkursen. Anleger achten weiter auf Content-Erfolge und das Tempo der Erholung. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Disney reste sous pression malgré les 1,8 milliard de dollars de Zootopia 2",
+        "excerpt": "Disney a engrangé l’an dernier 1,8 milliard de dollars, soit environ 2.600 milliards de wons, avec Zootopia 2, mais la baisse de valeur d’activités acquises et l’action faible ont pesé.",
+        "body": "Disney peine encore à faire rebondir son action malgré le grand succès mondial de Zootopia 2 l’an dernier. Le film a généré 1,8 milliard de dollars, environ 2.600 milliards de wons, un résultat majeur pour une seule œuvre. Mais le marché ne s’est pas limité au box-office et a aussi retenu la forte baisse de valeur d’activités que Disney avait acquises par le passé. Récemment, le groupe a amélioré sa rentabilité grâce à des changements internes, sans que ce succès en salle se traduise immédiatement par une hausse du cours. Les investisseurs suivent les performances des contenus et le rythme du redressement. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "سهم ديزني لا يرتفع رغم إيرادات زوتوبيا 2 البالغة 1.8 مليار دولار",
+        "excerpt": "حققت ديزني العام الماضي 1.8 مليار دولار، نحو 2.6 تريليون وون، من فيلم زوتوبيا 2 عالميا، لكن تراجع قيمة أعمال استحوذت عليها سابقا وضعف السهم بقيا موضع اهتمام.",
+        "body": "لم يتمكن سهم ديزني من تحقيق زخم واضح رغم النجاح العالمي الكبير لفيلم زوتوبيا 2 في دور العرض العام الماضي. فقد حقق الفيلم إيرادات بلغت 1.8 مليار دولار، أي نحو 2.6 تريليون وون، ما يعكس قوة عمل واحد فقط. لكن السوق لم يركز على نجاح الفيلم وحده، بل نظر أيضا إلى التراجع الكبير في قيمة أعمال كانت ديزني قد استحوذت عليها في السابق. وفي الفترة الأخيرة أظهرت الشركة تحسنا في الربحية عبر إصلاحات داخلية، إلا أن هذا النجاح السينمائي لم يتحول مباشرة إلى ارتفاع في السهم. يراقب المستثمرون أداء المحتوى وسرعة تعافي الربحية. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "Zootopia 2 की 1.8 अरब डॉलर कमाई के बाद भी Disney शेयर क्यों सुस्त",
+        "excerpt": "Disney ने पिछले साल Zootopia 2 से वैश्विक स्तर पर 1.8 अरब डॉलर, करीब 2.6 ट्रिलियन वॉन कमाए, लेकिन पुराने अधिग्रहित कारोबारों के मूल्य में गिरावट और कमजोर शेयर चर्चा में रहे।",
+        "body": "Disney को पिछले साल Zootopia 2 की वैश्विक बॉक्स ऑफिस सफलता के बावजूद शेयर बाजार में तेज बढ़त नहीं मिल सकी। फिल्म ने 1.8 अरब डॉलर, यानी लगभग 2.6 ट्रिलियन वॉन की कमाई की और एक ही कंटेंट की बड़ी क्षमता दिखाई। हालांकि बाजार का ध्यान केवल फिल्म की कमाई पर नहीं रहा। Disney ने जिन कारोबारों का पहले अधिग्रहण किया था, उनके मूल्य में बड़ी गिरावट भी निवेशकों के लिए अहम रही। हाल में कंपनी ने आंतरिक सुधारों के जरिए मुनाफे में रिकवरी दिखाई है, लेकिन बड़ी हिट फिल्म सीधे शेयर मूल्य में उछाल नहीं ला सकी। निवेशक कंटेंट प्रदर्शन और लाभप्रदता सुधार की गति दोनों देख रहे हैं। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Saham Disney Tetap Lemah Meski Zootopia 2 Raup US$1,8 Miliar",
+        "excerpt": "Disney meraih US$1,8 miliar atau sekitar 2,6 triliun won dari Zootopia 2 tahun lalu, tetapi penurunan nilai bisnis hasil akuisisi lama dan lemahnya saham tetap menjadi sorotan.",
+        "body": "Disney belum mampu mendorong kenaikan sahamnya meski Zootopia 2 menjadi hit besar di bioskop global tahun lalu. Film itu menghasilkan US$1,8 miliar, sekitar 2,6 triliun won, sebuah capaian besar untuk satu judul. Namun perhatian pasar tidak hanya tertuju pada keberhasilan box office. Nilai sejumlah bisnis yang pernah diakuisisi Disney pada masa lalu juga turun tajam. Baru-baru ini, Disney menunjukkan pemulihan profitabilitas melalui perbaikan internal, tetapi kesuksesan film besar belum langsung berubah menjadi kenaikan harga saham. Investor tetap memantau kinerja konten dan laju pemulihan laba. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
     "id": "96fbfbe9209f",
     "slug": "법원-다단계-투자-수익은-이자소득종합소득세-내야-965117",
     "channelId": "ETF",
@@ -4271,231 +4496,6 @@
         "title": "Lee Telepon PM Kanada, Bahas Kebebasan Navigasi Hormuz dan Rantai Pasok",
         "excerpt": "Presiden Lee Jae Myung pada tanggal 8 berbicara melalui telepon dengan PM Kanada Mark Carney untuk membahas penguatan kerja sama, termasuk kebebasan navigasi Hormuz dan rantai pasok.",
         "body": "Presiden Lee Jae Myung pada tanggal 8 berbicara melalui telepon dengan Perdana Menteri Kanada Mark Carney dan membahas cara memperkuat kerja sama kedua negara. Dalam pembicaraan itu, kebebasan navigasi di Selat Hormuz serta isu terkait rantai pasok menjadi agenda utama. Panggilan tersebut menjadi kesempatan bagi Korea Selatan dan Kanada untuk meninjau agenda kerja sama bersama dalam lingkungan ekonomi dan keamanan. Laporan asli tidak menyebutkan langkah lanjutan atau kesepakatan tertentu. Sumber: yna.co.kr"
-      }
-    }
-  },
-  {
-    "id": "75da41c432d7",
-    "slug": "협력업체-마진-0원으로-일방인하교촌에-벌금-5천만원-구형-414804",
-    "channelId": "ETF",
-    "category": "etf",
-    "publishedAt": "2026-05-09T16:22:57.640Z",
-    "updatedAt": "2026-05-09T16:22:57.640Z",
-    "sourceName": "yna.co.kr",
-    "sourceUrl": "https://www.yna.co.kr/view/AKR20260508093700061",
-    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260508093700061",
-    "titleFingerprint": "f0e5c3ff279fc0e0a683c6faa139c6ecd0bcd991",
-    "dedupKeys": [
-      "75da41c432d7a38d0bee50de4782f91142879e4c",
-      "f0e5c3ff279fc0e0a683c6faa139c6ecd0bcd991",
-      "ed978b4432d5d604fd6c547c37b2b1eae9e083fd"
-    ],
-    "imageUrl": "/images/articles/75da41c432d7.jpg",
-    "i18n": {
-      "ko": {
-        "title": "교촌에프앤비, 협력업체 유통마진 ‘0원’ 일방 인하 혐의로 벌금 5천만원 구형",
-        "excerpt": "검찰은 치킨 튀김 전용 기름 공급사의 유통마진을 일방적으로 0원으로 낮춘 혐의로 재판에 넘겨진 교촌에프앤비에 벌금 5천만원을 구형했다.",
-        "body": "검찰은 치킨 프랜차이즈 교촌에프앤비가 치킨 튀김 전용 기름 공급사의 유통마진을 일방적으로 낮춘 혐의로 재판에 넘겨진 사건에서 벌금 5천만원을 구형했다. 연합뉴스에 따르면 이 사건은 경기 성남에서 진행된 재판과 관련해 알려졌으며, 교촌에프앤비는 협력업체의 유통마진을 ‘0원’으로 인하한 혐의를 받고 있다. 핵심 쟁점은 공급사와의 거래 과정에서 마진 조정이 어떤 방식으로 이뤄졌는지다. 검찰의 구형은 법원이 선고할 형량을 요청한 절차로, 최종 판단은 재판부가 내리게 된다. 이번 사건은 프랜차이즈 본사와 협력업체 간 거래 조건 변경 문제에 대한 관심을 높일 전망이다. 출처: yna.co.kr"
-      },
-      "en": {
-        "title": "Kyochon F&B Faces 50 Million Won Fine Request Over Supplier Margin Cut to Zero",
-        "excerpt": "Prosecutors requested a 50 million won fine for Kyochon F&B, accused of unilaterally cutting a frying-oil supplier’s distribution margin to zero.",
-        "body": "Prosecutors requested a 50 million won fine for Kyochon F&B in a case involving allegations that the chicken franchise operator unilaterally lowered the distribution margin of a supplier of frying oil used for chicken. According to Yonhap News Agency, the case was reported in connection with a trial in Seongnam, Gyeonggi Province, and Kyochon F&B is accused of reducing the supplier’s distribution margin to “zero won.” The central issue is how the margin adjustment was made in the course of transactions with the supplier. The prosecution’s request is part of the sentencing process, while the final decision will be made by the court. The case is expected to draw attention to changes in trade terms between franchise headquarters and suppliers. Source: yna.co.kr"
-      },
-      "ja": {
-        "title": "教村F&B、協力会社の流通マージンを「0ウォン」に引き下げた疑いで罰金求刑",
-        "excerpt": "検察は、チキン揚げ油供給会社の流通マージンを一方的に0ウォンへ下げた疑いで起訴された教村F&Bに罰金5千万ウォンを求刑した。",
-        "body": "検察は、チキンフランチャイズの教村F&Bがチキン揚げ専用油の供給会社の流通マージンを一方的に引き下げた疑いで裁判にかけられた事件で、罰金5千万ウォンを求刑した。聯合ニュースによると、この事件は京畿道城南で行われた裁判に関連して伝えられ、教村F&Bは協力会社の流通マージンを「0ウォン」に下げた疑いを受けている。主な争点は、供給会社との取引過程でマージン調整がどのように行われたかだ。検察の求刑は裁判所に刑量を求める手続きであり、最終判断は裁判部が下す。今回の事件は、フランチャイズ本部と協力会社の取引条件変更問題への関心を高める見通しだ。出典: yna.co.kr"
-      },
-      "zh": {
-        "title": "桥村F&B被控将供应商流通利润降至“0韩元”，检方求罚5000万韩元",
-        "excerpt": "检方对因涉嫌单方面将炸鸡专用油供应商流通利润降至0韩元而受审的桥村F&B，提出罚金5000万韩元的量刑请求。",
-        "body": "检方在一起案件中要求对桥村F&B处以5000万韩元罚金。该公司作为炸鸡连锁企业，被指单方面下调炸鸡专用油供应商的流通利润并因此被移交审判。据韩联社报道，此案与在韩国京畿道城南进行的审判有关，桥村F&B被控将合作企业的流通利润降至“0韩元”。案件核心争点在于，与供应商交易过程中，利润调整是以何种方式进行的。检方求刑是请求法院量定刑罚的程序，最终判断将由审判机关作出。此案预计将引发外界对加盟总部与合作供应商之间交易条件变更问题的关注。来源: yna.co.kr"
-      },
-      "es": {
-        "title": "Kyochon F&B enfrenta petición de multa de 50 millones de wones por margen cero a proveedor",
-        "excerpt": "La fiscalía pidió una multa de 50 millones de wones para Kyochon F&B, acusada de bajar unilateralmente a cero el margen de un proveedor de aceite para freír pollo.",
-        "body": "La fiscalía solicitó una multa de 50 millones de wones contra Kyochon F&B en un caso por presuntamente reducir de forma unilateral el margen de distribución de una empresa proveedora de aceite exclusivo para freír pollo. Según la agencia Yonhap, el caso se conoció en relación con un juicio celebrado en Seongnam, provincia de Gyeonggi, y Kyochon F&B está acusada de rebajar el margen de distribución de su proveedor a “cero wones”. El punto central es cómo se realizó el ajuste del margen durante la relación comercial con el proveedor. La petición fiscal forma parte del proceso de sentencia, mientras que la decisión final corresponderá al tribunal. El caso puede aumentar la atención sobre los cambios en las condiciones de trato entre franquicias y proveedores. Fuente: yna.co.kr"
-      },
-      "pt": {
-        "title": "Kyochon F&B tem multa de 50 milhões de wons pedida por zerar margem de fornecedora",
-        "excerpt": "Promotores pediram multa de 50 milhões de wons contra a Kyochon F&B, acusada de reduzir unilateralmente a zero a margem de uma fornecedora de óleo para frango.",
-        "body": "Promotores pediram multa de 50 milhões de wons contra a Kyochon F&B em um caso no qual a rede de frango é acusada de reduzir unilateralmente a margem de distribuição de uma fornecedora de óleo usado exclusivamente para fritar frango. Segundo a Yonhap News Agency, o caso foi divulgado em relação a um julgamento em Seongnam, na província de Gyeonggi, e a Kyochon F&B é acusada de baixar a margem da parceira para “zero won”. A principal questão é como o ajuste da margem ocorreu durante as transações com a fornecedora. O pedido da promotoria integra o processo de definição da pena, mas a decisão final caberá ao tribunal. O caso deve ampliar a atenção sobre mudanças nas condições comerciais entre franqueadoras e parceiras. Fonte: yna.co.kr"
-      },
-      "de": {
-        "title": "Kyochon F&B: Staatsanwaltschaft fordert 50 Mio. Won Strafe wegen Null-Marge",
-        "excerpt": "Die Staatsanwaltschaft fordert 50 Millionen Won Geldstrafe gegen Kyochon F&B, das die Vertriebsmarge eines Lieferanten für Frittieröl einseitig auf null gesenkt haben soll.",
-        "body": "Die Staatsanwaltschaft hat in einem Verfahren gegen Kyochon F&B eine Geldstrafe von 50 Millionen Won beantragt. Dem Betreiber einer Chicken-Franchisekette wird vorgeworfen, die Vertriebsmarge eines Lieferanten von speziellem Frittieröl für Hühnchen einseitig gesenkt zu haben. Nach Angaben der Nachrichtenagentur Yonhap wurde der Fall im Zusammenhang mit einem Prozess in Seongnam in der Provinz Gyeonggi bekannt. Kyochon F&B soll die Marge des Partnerunternehmens auf „null Won“ reduziert haben. Im Mittelpunkt steht, auf welche Weise die Margenanpassung im Verlauf der Geschäftsbeziehung vorgenommen wurde. Der Antrag der Staatsanwaltschaft ist Teil des Strafzumessungsverfahrens; die endgültige Entscheidung trifft das Gericht. Der Fall dürfte die Aufmerksamkeit auf Änderungen von Handelsbedingungen zwischen Franchisezentralen und Lieferanten lenken. Quelle: yna.co.kr"
-      },
-      "fr": {
-        "title": "Kyochon F&B visé par une demande d’amende de 50 millions de wons pour marge ramenée à zéro",
-        "excerpt": "Le parquet a requis 50 millions de wons d’amende contre Kyochon F&B, accusé d’avoir abaissé unilatéralement à zéro la marge d’un fournisseur d’huile de friture.",
-        "body": "Le parquet a requis une amende de 50 millions de wons contre Kyochon F&B dans une affaire où l’exploitant de franchise de poulet est accusé d’avoir réduit unilatéralement la marge de distribution d’un fournisseur d’huile destinée à la friture du poulet. Selon l’agence Yonhap, l’affaire a été rapportée en lien avec un procès à Seongnam, dans la province de Gyeonggi, et Kyochon F&B est soupçonné d’avoir ramené la marge de son partenaire à « zéro won ». Le principal enjeu porte sur la manière dont cet ajustement de marge a été effectué dans les transactions avec le fournisseur. La réquisition du parquet s’inscrit dans la procédure de détermination de la peine, la décision finale revenant au tribunal. L’affaire devrait attirer l’attention sur les modifications des conditions commerciales entre sièges de franchise et fournisseurs. Source: yna.co.kr"
-      },
-      "ar": {
-        "title": "الادعاء يطلب تغريم كيوتشون إف آند بي 50 مليون وون بعد خفض هامش مورد إلى صفر",
-        "excerpt": "طلب الادعاء فرض غرامة قدرها 50 مليون وون على كيوتشون إف آند بي، المتهمة بخفض هامش توزيع مورد زيت قلي الدجاج بشكل أحادي إلى صفر.",
-        "body": "طلب الادعاء فرض غرامة قدرها 50 مليون وون على شركة كيوتشون إف آند بي في قضية تتعلق باتهام مشغل سلسلة الدجاج بخفض هامش التوزيع لشركة توريد زيت مخصص لقلي الدجاج بشكل أحادي. وبحسب وكالة يونهاب للأنباء، وردت القضية في إطار محاكمة في مدينة سيونغنام بمقاطعة غيونغي، وتواجه كيوتشون إف آند بي اتهاما بخفض هامش توزيع الشركة المتعاونة إلى “صفر وون”. وتتمحور القضية حول الطريقة التي جرى بها تعديل الهامش خلال التعاملات مع المورد. ويعد طلب الادعاء جزءا من إجراءات تحديد العقوبة، بينما يعود القرار النهائي إلى المحكمة. ومن المتوقع أن تزيد القضية الاهتمام بمسألة تغيير شروط التعامل بين مقار الامتياز التجاري والموردين. المصدر: yna.co.kr"
-      },
-      "hi": {
-        "title": "Kyochon F&B पर आपूर्तिकर्ता मार्जिन शून्य करने के आरोप में 5 करोड़ वॉन जुर्माने की मांग",
-        "excerpt": "अभियोजन ने चिकन फ्राइंग तेल आपूर्तिकर्ता का वितरण मार्जिन एकतरफा शून्य करने के आरोप में Kyochon F&B पर 5 करोड़ वॉन जुर्माने की मांग की।",
-        "body": "अभियोजन ने चिकन फ्रेंचाइजी संचालक Kyochon F&B के खिलाफ 5 करोड़ वॉन जुर्माने की मांग की है। कंपनी पर आरोप है कि उसने चिकन तलने के लिए इस्तेमाल होने वाले विशेष तेल की आपूर्तिकर्ता कंपनी का वितरण मार्जिन एकतरफा घटा दिया। योनहाप न्यूज एजेंसी के अनुसार, यह मामला ग्योंगगी प्रांत के सियॉन्गनाम में चल रही सुनवाई से जुड़ा है, और Kyochon F&B पर सहयोगी कंपनी का वितरण मार्जिन “शून्य वॉन” करने का आरोप है। मुख्य प्रश्न यह है कि आपूर्तिकर्ता के साथ लेनदेन के दौरान मार्जिन समायोजन किस तरीके से किया गया। अभियोजन की मांग सजा निर्धारण प्रक्रिया का हिस्सा है, जबकि अंतिम फैसला अदालत करेगी। यह मामला फ्रेंचाइजी मुख्यालयों और आपूर्तिकर्ताओं के बीच व्यापारिक शर्तों में बदलाव पर ध्यान बढ़ा सकता है। स्रोत: yna.co.kr"
-      },
-      "id": {
-        "title": "Kyochon F&B Dituntut Denda 50 Juta Won atas Dugaan Nolkan Margin Pemasok",
-        "excerpt": "Jaksa menuntut denda 50 juta won terhadap Kyochon F&B, yang dituduh sepihak menurunkan margin distribusi pemasok minyak goreng ayam menjadi nol.",
-        "body": "Jaksa menuntut denda 50 juta won terhadap Kyochon F&B dalam perkara dugaan penurunan sepihak margin distribusi pemasok minyak khusus untuk menggoreng ayam. Menurut Yonhap News Agency, perkara ini dilaporkan terkait persidangan di Seongnam, Provinsi Gyeonggi, dan Kyochon F&B dituduh menurunkan margin distribusi perusahaan mitranya menjadi “nol won”. Isu utama dalam perkara ini adalah bagaimana penyesuaian margin dilakukan dalam proses transaksi dengan pemasok. Tuntutan jaksa merupakan bagian dari proses penentuan hukuman, sedangkan keputusan akhir akan diambil oleh majelis hakim. Kasus ini diperkirakan meningkatkan perhatian terhadap perubahan syarat transaksi antara kantor pusat waralaba dan pemasok. Sumber: yna.co.kr"
-      }
-    }
-  },
-  {
-    "id": "236f67299d81",
-    "slug": "특징주-현대차-장중-11-급등현대차그룹주-동반-강세-665551",
-    "channelId": "ETF",
-    "category": "etf",
-    "publishedAt": "2026-05-09T16:21:49.089Z",
-    "updatedAt": "2026-05-09T16:21:49.089Z",
-    "sourceName": "yna.co.kr",
-    "sourceUrl": "https://www.yna.co.kr/view/AKR20260508096800008",
-    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260508096800008",
-    "titleFingerprint": "8f463ffc13bde2417c3c5df45be774eeb33ca288",
-    "dedupKeys": [
-      "236f67299d81c64152459d6f8ebc2ecd5f71b055",
-      "8f463ffc13bde2417c3c5df45be774eeb33ca288",
-      "a0436a3f289d610fa39e3ec530e11abb8c03a88d"
-    ],
-    "imageUrl": "/images/articles/236f67299d81.jpg",
-    "i18n": {
-      "ko": {
-        "title": "현대차 장중 11% 이상 급등…현대차그룹주 동반 강세 부각",
-        "excerpt": "현대차가 8일 서울 증시 장중 11% 이상 급등하며 현대차그룹 관련주가 함께 큰 폭으로 오르는 흐름을 보였다고 연합뉴스가 전했다.",
-        "body": "현대차가 8일 장중 11% 이상 급등하며 현대차그룹 관련주 전반의 강세가 두드러지고 있다. 연합뉴스에 따르면 이날 서울 증시에서 현대차 주가는 거래 시간 중 큰 폭으로 뛰었고, 현대차그룹 관련 종목들도 동반 상승 흐름을 나타냈다. 원문이 제시한 핵심 수치는 현대차의 장중 상승률이 11%를 넘어섰다는 점이다. 이번 움직임은 현대차 한 종목에 그치지 않고 그룹 관련주 전반으로 확산된 장중 강세로 요약된다. 향후 주가 흐름은 같은 날 시장 거래가 이어지는 과정에서 관련 종목의 상승세 지속 여부가 관전 포인트가 될 전망이다. 출처: yna.co.kr"
-      },
-      "en": {
-        "title": "Hyundai Motor jumps over 11% intraday as group shares rally together",
-        "excerpt": "Hyundai Motor surged more than 11% during trading on May 8, while Hyundai Motor Group-related shares also rose sharply, Yonhap News Agency reported.",
-        "body": "Hyundai Motor jumped more than 11% intraday on May 8, highlighting broad strength across Hyundai Motor Group-related stocks. According to Yonhap News Agency, Hyundai Motor’s share price rose sharply during trading in Seoul, and related Hyundai Motor Group names also moved higher together. The key figure provided in the original report is that Hyundai Motor’s intraday gain exceeded 11%. The move was not limited to a single stock but was described as a group-wide rally among related shares. As trading continued that day, whether the gains in related stocks would be sustained became the main point to watch. Source: yna.co.kr"
-      },
-      "ja": {
-        "title": "現代自動車が取引時間中に11％超急騰、グループ関連株もそろって強含み",
-        "excerpt": "現代自動車が8日の取引時間中に11％超急騰し、現代自動車グループ関連株も大幅に上昇していると聯合ニュースが伝えた。",
-        "body": "現代自動車が8日の取引時間中に11％超急騰し、現代自動車グループ関連株全般の強さが目立っている。聯合ニュースによると、同日のソウル市場で現代自動車の株価は取引時間中に大きく上昇し、現代自動車グループ関連銘柄もそろって上昇基調を示した。原文が示した主要な数値は、現代自動車の取引時間中の上昇率が11％を超えた点だ。今回の動きは現代自動車1銘柄にとどまらず、グループ関連株全体へ広がった取引時間中の強含みとして整理できる。同日の取引が続く中、関連銘柄の上昇が続くかが注目点となる。出典: yna.co.kr"
-      },
-      "zh": {
-        "title": "现代汽车盘中涨超11%，现代汽车集团相关股同步走强",
-        "excerpt": "韩联社报道称，现代汽车8日盘中涨幅超过11%，现代汽车集团相关股票也出现大幅上涨，呈现同步走强态势。",
-        "body": "现代汽车8日盘中涨幅超过11%，现代汽车集团相关股票整体强势受到关注。据韩联社报道，当天首尔股市交易时段内，现代汽车股价大幅上涨，现代汽车集团相关个股也呈现同步上行走势。原文给出的核心数据是，现代汽车盘中涨幅超过11%。此次走势并非仅限于现代汽车单一股票，而是可概括为集团相关股在盘中共同走强。随着当天交易继续进行，相关个股涨势能否延续将成为市场关注点。来源: yna.co.kr"
-      },
-      "es": {
-        "title": "Hyundai Motor sube más del 11% intradía y arrastra al alza a acciones del grupo",
-        "excerpt": "Hyundai Motor se disparó más del 11% durante la sesión del 8 de mayo, mientras las acciones vinculadas al grupo también subían con fuerza, informó Yonhap.",
-        "body": "Hyundai Motor subió más del 11% durante la sesión del 8 de mayo, destacando la fortaleza de las acciones relacionadas con Hyundai Motor Group. Según Yonhap News Agency, la cotización de Hyundai Motor avanzó con fuerza en el mercado de Seúl durante la jornada, y otros valores vinculados al grupo también mostraron una tendencia alcista conjunta. La cifra clave del reporte original es que la subida intradía de Hyundai Motor superó el 11%. El movimiento no se limitó a una sola acción, sino que se extendió a los títulos relacionados con el grupo. Mientras continuaba la negociación del día, la continuidad de esas alzas quedó como el principal punto de atención. Fuente: yna.co.kr"
-      },
-      "pt": {
-        "title": "Hyundai Motor salta mais de 11% no intradiário e ações do grupo avançam juntas",
-        "excerpt": "A Hyundai Motor disparou mais de 11% durante o pregão de 8 de maio, enquanto ações ligadas ao Hyundai Motor Group também subiam forte, informou a Yonhap.",
-        "body": "A Hyundai Motor avançou mais de 11% durante o pregão de 8 de maio, evidenciando a força das ações relacionadas ao Hyundai Motor Group. Segundo a Yonhap News Agency, o preço das ações da Hyundai Motor subiu fortemente durante a negociação em Seul, e papéis ligados ao grupo também acompanharam o movimento de alta. O dado central do relato original é que a valorização intradiária da Hyundai Motor ultrapassou 11%. O movimento não ficou restrito a uma única ação, mas se espalhou pelos papéis relacionados ao grupo. Com a continuidade das negociações naquele dia, a sustentação das altas nos ativos relacionados tornou-se o principal ponto de atenção. Fonte: yna.co.kr"
-      },
-      "de": {
-        "title": "Hyundai Motor steigt intraday über 11%, Konzernaktien ziehen gemeinsam an",
-        "excerpt": "Hyundai Motor legte am 8. Mai im Handelsverlauf um mehr als 11% zu; auch Aktien mit Bezug zur Hyundai Motor Group stiegen deutlich, meldete Yonhap.",
-        "body": "Hyundai Motor ist am 8. Mai im Handelsverlauf um mehr als 11% gestiegen und rückte damit die breite Stärke von Aktien mit Bezug zur Hyundai Motor Group in den Fokus. Nach Angaben der Nachrichtenagentur Yonhap legte die Hyundai-Motor-Aktie während des Handels in Seoul kräftig zu, während verbundene Titel des Konzerns ebenfalls gemeinsam nach oben tendierten. Die zentrale Zahl des Originalberichts ist der intraday erzielte Anstieg von mehr als 11%. Die Bewegung beschränkte sich nicht auf eine einzelne Aktie, sondern erfasste die verbundenen Konzernwerte. Im weiteren Tageshandel stand daher im Mittelpunkt, ob die Kursgewinne der betreffenden Titel anhalten würden. Quelle: yna.co.kr"
-      },
-      "fr": {
-        "title": "Hyundai Motor bondit de plus de 11% en séance, les valeurs du groupe suivent",
-        "excerpt": "Hyundai Motor a grimpé de plus de 11% en séance le 8 mai, tandis que les actions liées à Hyundai Motor Group progressaient aussi fortement, selon Yonhap.",
-        "body": "Hyundai Motor a bondi de plus de 11% en séance le 8 mai, mettant en évidence la vigueur des actions liées à Hyundai Motor Group. Selon l’agence Yonhap, le titre Hyundai Motor a fortement progressé pendant les échanges à Séoul, et les valeurs apparentées au groupe ont également évolué en hausse de concert. Le chiffre clé du reportage initial est une progression intrajournalière de Hyundai Motor supérieure à 11%. Le mouvement ne s’est donc pas limité à une seule action, mais s’est étendu aux titres liés au groupe. Alors que la séance se poursuivait ce jour-là, la capacité de ces valeurs à conserver leur avance devenait le principal point à surveiller. Source: yna.co.kr"
-      },
-      "ar": {
-        "title": "هيونداي موتور تقفز بأكثر من 11% خلال الجلسة وأسهم المجموعة تصعد معها",
-        "excerpt": "قفز سهم هيونداي موتور بأكثر من 11% خلال تداولات 8 مايو، فيما ارتفعت الأسهم المرتبطة بمجموعة هيونداي موتور بقوة، بحسب وكالة يونهاب.",
-        "body": "قفز سهم هيونداي موتور بأكثر من 11% خلال تداولات 8 مايو، ما أبرز قوة واسعة في الأسهم المرتبطة بمجموعة هيونداي موتور. وبحسب وكالة يونهاب للأنباء، ارتفع سعر سهم هيونداي موتور بقوة أثناء التداول في سوق سيول، كما أظهرت أسهم مرتبطة بمجموعة هيونداي موتور اتجاها صعوديا متزامنا. الرقم الأساسي الوارد في التقرير الأصلي هو أن مكاسب هيونداي موتور خلال الجلسة تجاوزت 11%. ولم تقتصر الحركة على سهم واحد، بل امتدت إلى أسهم المجموعة ذات الصلة. ومع استمرار تداولات ذلك اليوم، أصبح استمرار صعود هذه الأسهم النقطة الرئيسية التي تستحق المتابعة. المصدر: yna.co.kr"
-      },
-      "hi": {
-        "title": "Hyundai Motor इंट्राडे में 11% से अधिक उछला, समूह से जुड़े शेयर भी मजबूत",
-        "excerpt": "Yonhap के अनुसार, 8 मई को कारोबार के दौरान Hyundai Motor 11% से अधिक उछला और Hyundai Motor Group से जुड़े शेयरों में भी तेज बढ़त दिखी।",
-        "body": "Hyundai Motor 8 मई को कारोबार के दौरान 11% से अधिक उछला, जिससे Hyundai Motor Group से जुड़े शेयरों की व्यापक मजबूती सामने आई। Yonhap News Agency के अनुसार, सियोल बाजार में कारोबार के दौरान Hyundai Motor के शेयर भाव में तेज बढ़त हुई और Hyundai Motor Group से संबंधित अन्य शेयरों ने भी साथ-साथ ऊपर की चाल दिखाई। मूल रिपोर्ट में दिया गया प्रमुख आंकड़ा यह है कि Hyundai Motor की इंट्राडे बढ़त 11% से अधिक रही। यह तेजी केवल एक शेयर तक सीमित नहीं थी, बल्कि समूह से जुड़े शेयरों में भी फैली हुई दिखी। उस दिन कारोबार जारी रहने के दौरान संबंधित शेयरों की बढ़त टिकती है या नहीं, यही मुख्य देखने वाली बात रही। स्रोत: yna.co.kr"
-      },
-      "id": {
-        "title": "Hyundai Motor melonjak lebih dari 11% intraday, saham grup ikut menguat",
-        "excerpt": "Hyundai Motor melonjak lebih dari 11% pada perdagangan 8 Mei, sementara saham terkait Hyundai Motor Group juga naik tajam, menurut laporan Yonhap.",
-        "body": "Hyundai Motor melonjak lebih dari 11% pada perdagangan intraday 8 Mei, menyoroti penguatan luas pada saham-saham terkait Hyundai Motor Group. Menurut Yonhap News Agency, harga saham Hyundai Motor naik tajam selama perdagangan di Seoul, dan saham-saham yang berkaitan dengan Hyundai Motor Group juga bergerak menguat bersama. Angka utama dalam laporan asli adalah kenaikan intraday Hyundai Motor yang melampaui 11%. Pergerakan ini tidak hanya terjadi pada satu saham, tetapi meluas ke saham terkait grup. Saat perdagangan hari itu berlanjut, keberlanjutan kenaikan pada saham-saham terkait menjadi hal utama yang diperhatikan. Sumber: yna.co.kr"
-      }
-    }
-  },
-  {
-    "id": "2887b98ebf22",
-    "slug": "박홍근-신재생에너지-글로벌-경쟁력-확보내년-예산서-지원-465484",
-    "channelId": "ETF",
-    "category": "etf",
-    "publishedAt": "2026-05-09T16:20:50.449Z",
-    "updatedAt": "2026-05-09T16:20:50.449Z",
-    "sourceName": "yna.co.kr",
-    "sourceUrl": "https://www.yna.co.kr/view/AKR20260508095900002",
-    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260508095900002",
-    "titleFingerprint": "2284fa5b8fd8e921c88692286cfda7374cb9a16d",
-    "dedupKeys": [
-      "2887b98ebf229276b483c270842ea2a579585f53",
-      "2284fa5b8fd8e921c88692286cfda7374cb9a16d",
-      "f694b3ee94c0f39f0338f8434267f52589addfc0"
-    ],
-    "imageUrl": "/images/articles/2887b98ebf22.jpg",
-    "i18n": {
-      "ko": {
-        "title": "신재생에너지 글로벌 경쟁력 강화, 박홍근 “내년 예산서 지원”",
-        "excerpt": "박홍근 기획예산처 장관은 8일 신재생에너지 전환을 적극 추진하고 글로벌 경쟁력 확보를 위해 내년 예산에서 지원하겠다고 밝혔다.",
-        "body": "박홍근 기획예산처 장관은 8일 신재생에너지 전환을 적극적으로 추진해 나가겠다고 밝혔다. 박 장관은 신재생에너지 분야의 글로벌 경쟁력 확보를 언급하며, 이를 뒷받침하기 위한 지원을 내년 예산에 반영하겠다는 뜻을 밝혔다. 이번 발언은 에너지 전환 정책과 관련 산업 지원 방향을 예산 편성 과정에서 다루겠다는 취지로 해석된다. 정부의 내년 예산 논의에서 신재생에너지 지원이 어떤 방식으로 구체화될지 주목된다. 출처: yna.co.kr"
-      },
-      "en": {
-        "title": "Renewable Energy Competitiveness: Park Pledges Budget Support Next Year",
-        "excerpt": "Planning and Budget Minister Park Hong-keun said on the 8th that he will actively promote the renewable energy transition and support global competitiveness in next year’s budget.",
-        "body": "Planning and Budget Minister Park Hong-keun said on the 8th that he will actively push forward the transition to renewable energy. Park referred to securing global competitiveness in the renewable energy sector and said support to back that goal would be reflected in next year’s budget. The remarks indicate that the direction of energy transition policy and related industry support will be addressed during the budget planning process. Attention is expected to focus on how renewable energy support will be specified in next year’s government budget discussions. Source: yna.co.kr"
-      },
-      "ja": {
-        "title": "再生可能エネルギーの国際競争力強化、朴洪根氏が来年度予算で支援へ",
-        "excerpt": "朴洪根企画予算処長官は8日、再生可能エネルギーへの転換を積極的に進め、国際競争力確保に向け来年度予算で支援すると明らかにした。",
-        "body": "朴洪根企画予算処長官は8日、再生可能エネルギーへの転換を積極的に推進していくと明らかにした。朴長官は再生可能エネルギー分野の国際競争力確保に言及し、それを後押しする支援を来年度予算に反映する考えを示した。今回の発言は、エネルギー転換政策と関連産業支援の方向を予算編成過程で扱う趣旨と受け止められる。政府の来年度予算協議で再生可能エネルギー支援がどのように具体化されるか注目される。出典: yna.co.kr"
-      },
-      "zh": {
-        "title": "可再生能源全球竞争力提升，朴洪根称明年预算将予支持",
-        "excerpt": "企划预算处长官朴洪根8日表示，将积极推进可再生能源转型，并在明年预算中支持其全球竞争力建设。",
-        "body": "企划预算处长官朴洪根8日表示，将积极推进可再生能源转型。朴洪根提到要确保可再生能源领域的全球竞争力，并表示将把相关支持纳入明年预算。此番表态意味着，能源转型政策以及相关产业支持方向将在预算编制过程中得到讨论。外界将关注政府明年预算讨论中，可再生能源支持将以何种方式具体化。来源: yna.co.kr"
-      },
-      "es": {
-        "title": "Competitividad global en renovables: Park promete apoyo en el presupuesto",
-        "excerpt": "El ministro de Planificación y Presupuesto, Park Hong-keun, dijo el día 8 que impulsará activamente la transición a energías renovables y la apoyará en el presupuesto del próximo año.",
-        "body": "El ministro de Planificación y Presupuesto, Park Hong-keun, afirmó el día 8 que impulsará activamente la transición hacia las energías renovables. Park mencionó la necesidad de asegurar la competitividad global del sector de energías renovables y dijo que el apoyo para respaldar ese objetivo se reflejará en el presupuesto del próximo año. Sus declaraciones apuntan a que la política de transición energética y el apoyo a las industrias relacionadas se abordarán durante la elaboración presupuestaria. La atención se centrará en cómo se concretará ese apoyo en las discusiones del presupuesto gubernamental del próximo año. Fuente: yna.co.kr"
-      },
-      "pt": {
-        "title": "Competitividade global em renováveis: Park promete apoio no orçamento",
-        "excerpt": "O ministro do Planejamento e Orçamento, Park Hong-keun, disse no dia 8 que promoverá ativamente a transição para energias renováveis e dará apoio no orçamento do próximo ano.",
-        "body": "O ministro do Planejamento e Orçamento, Park Hong-keun, afirmou no dia 8 que promoverá ativamente a transição para energias renováveis. Park mencionou a busca por competitividade global no setor de energia renovável e disse que o apoio para sustentar esse objetivo será refletido no orçamento do próximo ano. A declaração indica que a política de transição energética e o apoio às indústrias relacionadas serão tratados durante o processo de elaboração orçamentária. A atenção deve se voltar para como esse apoio será detalhado nas discussões do orçamento do governo para o próximo ano. Fonte: yna.co.kr"
-      },
-      "de": {
-        "title": "Globale Wettbewerbsfähigkeit bei Erneuerbaren: Park sagt Budgethilfe zu",
-        "excerpt": "Planungs- und Haushaltsminister Park Hong-keun sagte am 8., er werde die Energiewende zu erneuerbaren Energien aktiv vorantreiben und im Haushalt des nächsten Jahres unterstützen.",
-        "body": "Planungs- und Haushaltsminister Park Hong-keun sagte am 8., er werde den Übergang zu erneuerbaren Energien aktiv vorantreiben. Park verwies auf die Sicherung globaler Wettbewerbsfähigkeit im Bereich erneuerbarer Energien und erklärte, entsprechende Unterstützung solle im Haushalt des nächsten Jahres berücksichtigt werden. Die Äußerung deutet darauf hin, dass Energiepolitik und Unterstützung für verwandte Branchen im Haushaltsprozess behandelt werden. Im Fokus steht nun, wie die Förderung erneuerbarer Energien in den Haushaltsberatungen der Regierung für das nächste Jahr konkretisiert wird. Quelle: yna.co.kr"
-      },
-      "fr": {
-        "title": "Compétitivité mondiale des renouvelables : Park promet un soutien budgétaire",
-        "excerpt": "Le ministre de la Planification et du Budget, Park Hong-keun, a déclaré le 8 qu’il ferait avancer la transition vers les énergies renouvelables et la soutiendrait dans le budget de l’an prochain.",
-        "body": "Le ministre de la Planification et du Budget, Park Hong-keun, a déclaré le 8 qu’il ferait progresser activement la transition vers les énergies renouvelables. Park a évoqué la nécessité d’assurer la compétitivité mondiale du secteur et a indiqué que le soutien à cet objectif serait inscrit dans le budget de l’an prochain. Ces propos signifient que la politique de transition énergétique et le soutien aux industries concernées seront traités lors de la préparation budgétaire. L’attention portera sur la manière dont ce soutien aux énergies renouvelables sera précisé dans les discussions budgétaires du gouvernement pour l’an prochain. Source: yna.co.kr"
-      },
-      "ar": {
-        "title": "تعزيز تنافسية الطاقة المتجددة عالميا: بارك يتعهد بدعم في ميزانية العام المقبل",
-        "excerpt": "قال وزير التخطيط والميزانية بارك هونغ-غن في الثامن إنه سيدفع بنشاط تحول الطاقة المتجددة ويدعم تعزيز التنافسية العالمية في ميزانية العام المقبل.",
-        "body": "قال وزير التخطيط والميزانية بارك هونغ-غن في الثامن إنه سيدفع بنشاط التحول نحو الطاقة المتجددة. وأشار بارك إلى تأمين التنافسية العالمية في قطاع الطاقة المتجددة، موضحا أن الدعم اللازم لتحقيق ذلك سينعكس في ميزانية العام المقبل. وتدل التصريحات على أن سياسة تحول الطاقة واتجاه دعم الصناعات ذات الصلة سيجري تناولهما أثناء عملية إعداد الميزانية. ومن المنتظر أن يتركز الاهتمام على كيفية بلورة دعم الطاقة المتجددة في مناقشات ميزانية الحكومة للعام المقبل. المصدر: yna.co.kr"
-      },
-      "hi": {
-        "title": "नवीकरणीय ऊर्जा की वैश्विक प्रतिस्पर्धा पर जोर, पार्क ने बजट समर्थन कहा",
-        "excerpt": "योजना और बजट मंत्री पार्क होंग-क्यून ने 8 तारीख को कहा कि वे नवीकरणीय ऊर्जा परिवर्तन को सक्रिय रूप से आगे बढ़ाएंगे और अगले वर्ष के बजट में समर्थन देंगे।",
-        "body": "योजना और बजट मंत्री पार्क होंग-क्यून ने 8 तारीख को कहा कि वे नवीकरणीय ऊर्जा की ओर परिवर्तन को सक्रिय रूप से आगे बढ़ाएंगे। पार्क ने नवीकरणीय ऊर्जा क्षेत्र में वैश्विक प्रतिस्पर्धात्मकता सुनिश्चित करने का उल्लेख किया और कहा कि इस लक्ष्य को सहारा देने वाला समर्थन अगले वर्ष के बजट में शामिल किया जाएगा। यह बयान संकेत देता है कि ऊर्जा परिवर्तन नीति और संबंधित उद्योगों के समर्थन की दिशा बजट निर्माण प्रक्रिया में शामिल होगी। अब ध्यान इस पर रहेगा कि सरकार के अगले वर्ष के बजट विमर्श में नवीकरणीय ऊर्जा समर्थन किस रूप में ठोस किया जाता है। स्रोत: yna.co.kr"
-      },
-      "id": {
-        "title": "Daya Saing Global Energi Terbarukan, Park Janjikan Dukungan Anggaran",
-        "excerpt": "Menteri Perencanaan dan Anggaran Park Hong-keun pada tanggal 8 mengatakan akan aktif mendorong transisi energi terbarukan dan mendukung daya saing global dalam anggaran tahun depan.",
-        "body": "Menteri Perencanaan dan Anggaran Park Hong-keun pada tanggal 8 mengatakan akan secara aktif mendorong transisi menuju energi terbarukan. Park menyinggung upaya memastikan daya saing global di sektor energi terbarukan dan menyatakan bahwa dukungan untuk menopang tujuan itu akan tercermin dalam anggaran tahun depan. Pernyataan ini menunjukkan bahwa kebijakan transisi energi dan arah dukungan bagi industri terkait akan dibahas dalam proses penyusunan anggaran. Perhatian kini tertuju pada bagaimana dukungan energi terbarukan akan dirinci dalam pembahasan anggaran pemerintah tahun depan. Sumber: yna.co.kr"
       }
     }
   }
