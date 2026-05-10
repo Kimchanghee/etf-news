@@ -1,5 +1,230 @@
 [
   {
+    "id": "55b963ebcc0d",
+    "slug": "미국일본전공정후공정반도체-etf-각양각색-173266",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-05-10T12:05:49.157Z",
+    "updatedAt": "2026-05-10T12:05:49.157Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/2026051065431",
+    "canonicalUrl": "https://www.hankyung.com/article/2026051065431",
+    "titleFingerprint": "f413584b02562c8886f77d2ec7b899965d336a60",
+    "dedupKeys": [
+      "55b963ebcc0da6b02733d2059ebeda49bcb0ef46",
+      "f413584b02562c8886f77d2ec7b899965d336a60",
+      "af07af8166695e5eea58b76583ca930ebbb6f68c"
+    ],
+    "imageUrl": "/images/articles/55b963ebcc0d.png",
+    "i18n": {
+      "ko": {
+        "title": "반도체 ETF 선택지 확대, 미국·일본부터 전공정·후공정까지 다양화",
+        "excerpt": "hankyung.com은 반도체 ETF가 미국·일본 등 국가별 상품과 전공정·후공정 등 공정별 상품으로 나뉘며 투자 선택지가 다양해졌다고 전했다.",
+        "body": "반도체 ETF 시장에서 미국, 일본 등 국가별 상품과 전공정, 후공정 등 공정별 상품이 함께 주목받고 있다. hankyung.com에 따르면 반도체 ETF는 단일한 범주로 묶이기보다 투자 대상 지역과 산업 공정에 따라 각기 다른 특징을 보인다. 미국과 일본에 초점을 맞춘 상품은 지역별 반도체 산업 흐름을 반영하고, 전공정과 후공정에 집중한 상품은 생산 단계별 차이를 드러낸다. 이에 따라 투자자는 반도체 업종에 접근할 때 국가와 공정이라는 기준을 함께 살펴볼 필요가 있다. 출처: hankyung.com"
+      },
+      "en": {
+        "title": "Semiconductor ETF Choices Broaden Across U.S., Japan and Chip Processes",
+        "excerpt": "hankyung.com reported that semiconductor ETFs now vary by country, including the U.S. and Japan, and by process, from front-end to back-end chip production.",
+        "body": "Semiconductor ETFs are drawing attention as products linked to the U.S., Japan and other markets appear alongside funds focused on front-end and back-end chip processes. According to hankyung.com, semiconductor ETFs are not a single uniform category but differ by target region and by stage of the industry process. Products centered on the U.S. and Japan reflect regional semiconductor industry trends, while front-end and back-end ETFs highlight differences within production stages. Investors looking at semiconductor exposure therefore need to consider both country and process as key selection criteria. Source: hankyung.com"
+      },
+      "ja": {
+        "title": "半導体ETFの選択肢拡大、米国・日本から前工程・後工程まで多様化",
+        "excerpt": "hankyung.comは、半導体ETFが米国・日本などの国別商品と、前工程・後工程など工程別商品に分かれ、選択肢が広がっていると伝えた。",
+        "body": "半導体ETF市場では、米国や日本など国別の商品に加え、前工程や後工程など工程別の商品も注目されている。hankyung.comによると、半導体ETFは一つの同じ分類にとどまらず、投資対象地域や産業工程によって異なる特徴を持つ。米国や日本に焦点を当てた商品は地域別の半導体産業の流れを反映し、前工程・後工程に集中する商品は生産段階ごとの差を示す。投資家は半導体分野に投資する際、国と工程という基準をあわせて確認する必要がある。出典: hankyung.com"
+      },
+      "zh": {
+        "title": "半导体ETF选择更多元，覆盖美国、日本及前后道工序",
+        "excerpt": "hankyung.com称，半导体ETF正按美国、日本等国家以及前道、后道等工序区分，投资者可选择的产品类型更加多样。",
+        "body": "半导体ETF市场中，面向美国、日本等国家的产品，以及聚焦前道、后道等工序的产品同时受到关注。据hankyung.com报道，半导体ETF并非单一类别，而是会因投资对象地区和产业工序不同而呈现各自特点。聚焦美国和日本的产品反映不同地区半导体产业走势，专注前道和后道工序的产品则体现生产阶段差异。因此，投资者在布局半导体行业时，需要同时关注国家和工序这两个选择标准。来源: hankyung.com"
+      },
+      "es": {
+        "title": "ETF de semiconductores se diversifican por EE. UU., Japón y procesos",
+        "excerpt": "hankyung.com informó que los ETF de semiconductores se diferencian por país, como EE. UU. y Japón, y por procesos, desde front-end hasta back-end.",
+        "body": "En el mercado de ETF de semiconductores ganan atención tanto los productos vinculados a Estados Unidos y Japón como los centrados en procesos front-end y back-end. Según hankyung.com, estos ETF no forman una categoría uniforme, sino que presentan características distintas según la región de inversión y la etapa del proceso industrial. Los productos enfocados en EE. UU. y Japón reflejan las tendencias regionales del sector, mientras que los ETF de front-end y back-end muestran diferencias dentro de la producción. Por ello, los inversores deben revisar país y proceso al evaluar exposición a semiconductores. Fuente: hankyung.com"
+      },
+      "pt": {
+        "title": "ETFs de semicondutores se diversificam entre EUA, Japão e processos",
+        "excerpt": "O hankyung.com informou que ETFs de semicondutores variam por país, como EUA e Japão, e por processo, incluindo etapas front-end e back-end.",
+        "body": "No mercado de ETFs de semicondutores, produtos ligados aos Estados Unidos e ao Japão aparecem ao lado de fundos focados em processos front-end e back-end. Segundo o hankyung.com, esses ETFs não formam uma categoria única e uniforme, pois diferem conforme a região-alvo e a etapa do processo industrial. Os produtos centrados em EUA e Japão refletem tendências regionais do setor de semicondutores, enquanto os ETFs de front-end e back-end evidenciam diferenças nas fases de produção. Assim, investidores devem considerar país e processo ao buscar exposição ao setor. Fonte: hankyung.com"
+      },
+      "de": {
+        "title": "Halbleiter-ETFs werden vielfältiger: USA, Japan, Front-End und Back-End",
+        "excerpt": "hankyung.com berichtete, dass Halbleiter-ETFs nach Ländern wie den USA und Japan sowie nach Prozessen wie Front-End und Back-End unterschieden werden.",
+        "body": "Am Markt für Halbleiter-ETFs rücken Produkte mit Fokus auf die USA und Japan ebenso in den Blick wie Fonds für Front-End- und Back-End-Prozesse. Laut hankyung.com bilden Halbleiter-ETFs keine einheitliche Kategorie, sondern unterscheiden sich nach Zielregion und Stufe des industriellen Prozesses. Produkte mit Schwerpunkt USA oder Japan spiegeln regionale Entwicklungen der Halbleiterbranche wider, während Front-End- und Back-End-ETFs Unterschiede innerhalb der Produktionsstufen zeigen. Anleger sollten daher bei Halbleiterengagements sowohl Land als auch Prozess als Auswahlkriterien prüfen. Quelle: hankyung.com"
+      },
+      "fr": {
+        "title": "Les ETF semi-conducteurs se diversifient entre États-Unis, Japon et procédés",
+        "excerpt": "hankyung.com indique que les ETF semi-conducteurs se distinguent par pays, comme les États-Unis et le Japon, et par procédés front-end ou back-end.",
+        "body": "Sur le marché des ETF semi-conducteurs, les produits axés sur les États-Unis et le Japon côtoient ceux centrés sur les procédés front-end et back-end. Selon hankyung.com, ces ETF ne constituent pas une catégorie uniforme: ils diffèrent selon la région ciblée et l’étape du processus industriel. Les produits focalisés sur les États-Unis et le Japon reflètent les tendances régionales du secteur, tandis que les ETF front-end et back-end mettent en évidence les différences entre étapes de production. Les investisseurs doivent donc examiner à la fois le pays et le procédé avant de s’exposer aux semi-conducteurs. Source: hankyung.com"
+      },
+      "ar": {
+        "title": "صناديق ETF لأشباه الموصلات تتنوع بين أميركا واليابان ومراحل الإنتاج",
+        "excerpt": "أفاد hankyung.com بأن صناديق ETF لأشباه الموصلات تتوزع حسب الدول مثل أميركا واليابان، وحسب مراحل التصنيع الأمامية والخلفية.",
+        "body": "يحظى سوق صناديق ETF لأشباه الموصلات باهتمام مع بروز منتجات تركز على الولايات المتحدة واليابان إلى جانب صناديق مخصصة لمراحل التصنيع الأمامية والخلفية. ووفقاً لـ hankyung.com، فإن هذه الصناديق لا تشكل فئة واحدة موحدة، بل تختلف بحسب منطقة الاستثمار ومرحلة العملية الصناعية. فالمنتجات التي تركز على أميركا واليابان تعكس اتجاهات صناعة أشباه الموصلات إقليمياً، بينما تكشف صناديق المراحل الأمامية والخلفية الفروق بين مراحل الإنتاج. لذلك يحتاج المستثمرون إلى النظر في معيارَي الدولة والمرحلة عند اختيار التعرض لهذا القطاع. المصدر: hankyung.com"
+      },
+      "hi": {
+        "title": "सेमीकंडक्टर ETF विकल्प बढ़े, अमेरिका-जापान से फ्रंट-एंड और बैक-एंड तक",
+        "excerpt": "hankyung.com के अनुसार सेमीकंडक्टर ETF अब अमेरिका और जापान जैसे देशों तथा फ्रंट-एंड और बैक-एंड जैसी उत्पादन प्रक्रियाओं के आधार पर अलग दिखते हैं।",
+        "body": "सेमीकंडक्टर ETF बाजार में अमेरिका और जापान पर केंद्रित उत्पादों के साथ फ्रंट-एंड और बैक-एंड प्रक्रियाओं पर केंद्रित फंड भी ध्यान खींच रहे हैं। hankyung.com के अनुसार, सेमीकंडक्टर ETF कोई एकसमान श्रेणी नहीं हैं; वे निवेश क्षेत्र और औद्योगिक प्रक्रिया के चरण के अनुसार अलग विशेषताएं रखते हैं। अमेरिका और जापान पर आधारित उत्पाद क्षेत्रीय सेमीकंडक्टर उद्योग के रुझान दिखाते हैं, जबकि फ्रंट-एंड और बैक-एंड ETF उत्पादन चरणों के अंतर को सामने लाते हैं। इसलिए निवेशकों को सेमीकंडक्टर क्षेत्र में निवेश करते समय देश और प्रक्रिया दोनों मानदंड देखने चाहिए। स्रोत: hankyung.com"
+      },
+      "id": {
+        "title": "ETF Semikonduktor Makin Beragam, dari AS-Jepang hingga Proses Produksi",
+        "excerpt": "hankyung.com melaporkan ETF semikonduktor kini dibedakan menurut negara seperti AS dan Jepang serta proses produksi seperti front-end dan back-end.",
+        "body": "Di pasar ETF semikonduktor, produk yang berfokus pada Amerika Serikat dan Jepang menarik perhatian bersama dana yang menitikberatkan proses front-end dan back-end. Menurut hankyung.com, ETF semikonduktor bukan satu kategori yang seragam, melainkan memiliki karakter berbeda menurut wilayah investasi dan tahap proses industri. Produk yang berpusat pada AS dan Jepang mencerminkan tren regional industri semikonduktor, sementara ETF front-end dan back-end menunjukkan perbedaan dalam tahap produksi. Karena itu, investor perlu menilai negara dan proses sebagai kriteria utama saat memilih eksposur ke sektor semikonduktor. Sumber: hankyung.com"
+      }
+    }
+  },
+  {
+    "id": "b8b7f9f60eae",
+    "slug": "코스닥-순환매-가능성10-이상-추가상승-여력있다-971074",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-05-10T12:04:52.969Z",
+    "updatedAt": "2026-05-10T12:04:52.969Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/2026051065981",
+    "canonicalUrl": "https://www.hankyung.com/article/2026051065981",
+    "titleFingerprint": "039fb0bba2c85cd05467622438a04d27677c1b32",
+    "dedupKeys": [
+      "b8b7f9f60eaeb14d9890bf9883509af2846af0a9",
+      "039fb0bba2c85cd05467622438a04d27677c1b32",
+      "6892af5f48afd4f39516c3b106ffad8d689b86bc"
+    ],
+    "imageUrl": "/images/articles/b8b7f9f60eae.jpg",
+    "i18n": {
+      "ko": {
+        "title": "코스닥 순환매 가능성 부각…10% 이상 추가 상승 여력 전망",
+        "excerpt": "hankyung.com은 코스닥 시장에 순환매 가능성이 제기되며 지수가 10% 이상 더 오를 여력이 있다는 분석이 나왔다고 전했다.",
+        "body": "코스닥 시장에서 순환매 가능성이 부각되며 추가 상승 여력이 있다는 분석이 제기됐다. hankyung.com에 따르면 코스닥은 최근 투자자들의 관심이 다시 옮겨갈 수 있는 시장으로 거론되고 있으며, 이에 따라 10% 이상 더 상승할 수 있다는 전망이 나왔다. 핵심 수치는 ‘10% 이상 추가 상승 여력’이다. 이는 코스닥이 단기 반등에 그치지 않고 순환매 흐름 속에서 추가 상승을 시도할 수 있다는 관측으로 해석된다. 다만 보도는 가능성과 여력을 중심으로 다뤘으며 확정적 상승을 단정하지 않았다. 출처: hankyung.com"
+      },
+      "en": {
+        "title": "KOSDAQ Rotation Trade in Focus as More Than 10% Upside Is Seen",
+        "excerpt": "hankyung.com reported that analysts see a possible rotation into the KOSDAQ market, with room for the index to rise by more than 10%.",
+        "body": "The KOSDAQ market is drawing attention as a possible target of rotation buying, with analysis suggesting additional upside remains. According to hankyung.com, the KOSDAQ is being mentioned as a market where investor interest could shift again, and the index may have room to rise by more than 10%. The key figure in the report is “more than 10% additional upside.” This points to the view that KOSDAQ may attempt further gains within a rotation trade, rather than only a short-term rebound. The report, however, focused on possibility and upside potential and did not present a rise as certain. Source: hankyung.com"
+      },
+      "ja": {
+        "title": "コスダックに循環物色の可能性、10％超の追加上昇余地に注目",
+        "excerpt": "hankyung.comは、コスダック市場で循環物色の可能性が浮上し、指数に10％超の追加上昇余地があるとの分析が出たと伝えた。",
+        "body": "コスダック市場で循環物色の可能性が注目され、追加上昇余地があるとの分析が示された。hankyung.comによると、コスダックは投資家の関心が再び移る可能性のある市場として取り上げられており、指数には10％を超えて上昇する余地があるとの見方が出ている。報道の核心となる数値は「10％以上の追加上昇余地」だ。これは、コスダックが短期的な反発にとどまらず、循環物色の流れの中でさらに上昇を試みる可能性を示すものと解釈される。ただし、報道は可能性と余地を中心に扱っており、上昇を断定してはいない。出典: hankyung.com"
+      },
+      "zh": {
+        "title": "KOSDAQ轮动交易可能性升温，机构称仍有逾10%上行空间",
+        "excerpt": "hankyung.com报道称，KOSDAQ市场出现轮动交易可能性，有分析认为该指数仍具备超过10%的进一步上涨空间。",
+        "body": "KOSDAQ市场的轮动交易可能性受到关注，并有分析认为其仍具备进一步上涨空间。据hankyung.com报道，KOSDAQ被提及为投资者关注度可能重新转移的市场，因此指数仍可能拥有超过10%的上行余地。报道中的核心数字是“超过10%的追加上涨空间”。这意味着，市场观点认为KOSDAQ不只是短期反弹，而可能在轮动资金流向中继续尝试上行。不过，报道重点在于可能性和上涨余地，并未将上涨表述为确定结果。来源: hankyung.com"
+      },
+      "es": {
+        "title": "KOSDAQ gana atención por rotación y ve potencial alcista superior al 10%",
+        "excerpt": "hankyung.com informó que el mercado KOSDAQ podría beneficiarse de una rotación de inversión, con margen para subir más de un 10%.",
+        "body": "El mercado KOSDAQ está atrayendo atención ante la posibilidad de una rotación de inversión y un análisis apunta a margen adicional de subida. Según hankyung.com, el KOSDAQ se menciona como un mercado hacia el que podría volver a desplazarse el interés de los inversores, lo que dejaría espacio para un avance superior al 10%. La cifra clave del informe es “más de un 10% de potencial alcista adicional”. Esto sugiere que el KOSDAQ podría intentar nuevas ganancias dentro de un flujo de rotación, no solo un rebote de corto plazo. Sin embargo, la información se centra en posibilidad y margen, sin afirmar una subida segura. Fuente: hankyung.com"
+      },
+      "pt": {
+        "title": "KOSDAQ mira rotação de mercado e pode ter alta adicional acima de 10%",
+        "excerpt": "O hankyung.com informou que o mercado KOSDAQ passou a ser citado como possível alvo de rotação, com espaço para subir mais de 10%.",
+        "body": "O mercado KOSDAQ passou a chamar atenção diante da possibilidade de rotação de investimentos e de uma análise que aponta espaço para alta adicional. Segundo o hankyung.com, o KOSDAQ é citado como um mercado para o qual o interesse dos investidores pode voltar a se deslocar, abrindo margem para uma valorização superior a 10%. O principal número do relato é “mais de 10% de potencial de alta adicional”. Isso indica a visão de que o KOSDAQ pode tentar novos ganhos dentro de um movimento de rotação, e não apenas um repique de curto prazo. Ainda assim, a reportagem trata de possibilidade e potencial, sem afirmar alta garantida. Fonte: hankyung.com"
+      },
+      "de": {
+        "title": "KOSDAQ-Rotation rückt in den Fokus, über 10% weiteres Aufwärtspotenzial",
+        "excerpt": "hankyung.com berichtete, dass für den KOSDAQ eine mögliche Marktrotation gesehen wird und der Index mehr als 10% weiteres Aufwärtspotenzial haben könnte.",
+        "body": "Der KOSDAQ-Markt rückt wegen der Möglichkeit einer Rotation in den Fokus, zugleich wird weiteres Aufwärtspotenzial gesehen. Laut hankyung.com wird der KOSDAQ als Markt genannt, auf den sich das Interesse der Anleger erneut verlagern könnte. Daraus ergibt sich die Einschätzung, dass der Index um mehr als 10% weiter steigen könnte. Die zentrale Zahl des Berichts lautet „mehr als 10% zusätzliches Aufwärtspotenzial“. Dies deutet auf die Sicht hin, dass der KOSDAQ im Rahmen einer Rotation weitere Gewinne versuchen könnte, statt nur eine kurzfristige Erholung zu zeigen. Der Bericht spricht jedoch von Möglichkeit und Potenzial und stellt einen Anstieg nicht als sicher dar. Quelle: hankyung.com"
+      },
+      "fr": {
+        "title": "Le KOSDAQ porté par l’idée d’une rotation, avec plus de 10% de potentiel",
+        "excerpt": "hankyung.com rapporte qu’une possible rotation vers le marché KOSDAQ est évoquée, avec une marge de hausse supplémentaire supérieure à 10%.",
+        "body": "Le marché KOSDAQ attire l’attention avec l’émergence d’une possible rotation des achats et une analyse faisant état d’un potentiel de hausse supplémentaire. Selon hankyung.com, le KOSDAQ est cité comme un marché vers lequel l’intérêt des investisseurs pourrait à nouveau se déplacer, ce qui laisserait une marge de progression de plus de 10%. Le chiffre clé du rapport est “plus de 10% de potentiel de hausse supplémentaire”. Cette lecture suggère que le KOSDAQ pourrait tenter de poursuivre sa progression dans un mouvement de rotation, et pas seulement connaître un rebond de court terme. Le rapport reste toutefois centré sur la possibilité et le potentiel, sans présenter la hausse comme certaine. Source: hankyung.com"
+      },
+      "ar": {
+        "title": "كوسداك تحت الضوء مع احتمال دوران السوق وإمكان صعود يتجاوز 10%",
+        "excerpt": "أفاد hankyung.com بأن سوق كوسداك قد يستفيد من احتمال دوران السيولة، مع تحليل يرى مجالا لصعود إضافي يتجاوز 10%.",
+        "body": "يحظى سوق كوسداك باهتمام متزايد مع بروز احتمال دوران السيولة نحوه، إلى جانب تحليل يشير إلى وجود مجال لمزيد من الصعود. وبحسب hankyung.com، يطرح كوسداك كسوق قد ينتقل إليه اهتمام المستثمرين مجددا، ما يعني أن المؤشر قد يملك فرصة ارتفاع تتجاوز 10%. الرقم الأساسي في التقرير هو “مجال صعود إضافي بأكثر من 10%”. ويعكس ذلك قراءة مفادها أن كوسداك قد يحاول تحقيق مكاسب إضافية ضمن حركة دوران في السوق، لا مجرد ارتداد قصير الأجل. لكن التقرير ركز على الاحتمال والهامش المتاح، ولم يجزم بحدوث الصعود. المصدر: hankyung.com"
+      },
+      "hi": {
+        "title": "KOSDAQ में रोटेशन की संभावना, 10% से अधिक अतिरिक्त तेजी की गुंजाइश",
+        "excerpt": "hankyung.com के अनुसार KOSDAQ बाजार में रोटेशन की संभावना उभरी है और विश्लेषण में सूचकांक में 10% से अधिक अतिरिक्त बढ़त की गुंजाइश बताई गई है।",
+        "body": "KOSDAQ बाजार में रोटेशन की संभावना पर ध्यान बढ़ा है और अतिरिक्त तेजी की गुंजाइश का आकलन सामने आया है। hankyung.com के अनुसार, KOSDAQ को ऐसे बाजार के रूप में देखा जा रहा है जहां निवेशकों की रुचि फिर से स्थानांतरित हो सकती है, और इसी आधार पर सूचकांक में 10% से अधिक और चढ़ने की क्षमता बताई गई है। रिपोर्ट का प्रमुख आंकड़ा “10% से अधिक अतिरिक्त बढ़त की गुंजाइश” है। इसका अर्थ है कि KOSDAQ केवल अल्पकालिक उछाल तक सीमित न रहकर रोटेशन प्रवाह के बीच और बढ़त का प्रयास कर सकता है। हालांकि रिपोर्ट संभावना और गुंजाइश पर केंद्रित है, निश्चित तेजी का दावा नहीं करती। स्रोत: hankyung.com"
+      },
+      "id": {
+        "title": "KOSDAQ Disorot karena Rotasi, Potensi Kenaikan Lanjutan di Atas 10%",
+        "excerpt": "hankyung.com melaporkan bahwa pasar KOSDAQ dinilai berpeluang menjadi sasaran rotasi, dengan ruang kenaikan lanjutan lebih dari 10%.",
+        "body": "Pasar KOSDAQ mendapat perhatian karena kemungkinan rotasi beli, disertai analisis bahwa masih ada ruang kenaikan lanjutan. Menurut hankyung.com, KOSDAQ disebut sebagai pasar yang dapat kembali menarik perpindahan minat investor, sehingga indeks dinilai memiliki peluang naik lebih dari 10%. Angka utama dalam laporan tersebut adalah “potensi kenaikan tambahan lebih dari 10%”. Ini menunjukkan pandangan bahwa KOSDAQ dapat mencoba kenaikan lanjutan dalam arus rotasi, bukan sekadar rebound jangka pendek. Namun, laporan itu berfokus pada kemungkinan dan ruang kenaikan, serta tidak menyatakan kenaikan sebagai hal yang pasti. Sumber: hankyung.com"
+      }
+    }
+  },
+  {
+    "id": "13461ed5d305",
+    "slug": "두산퓨얼셀-최다-매수삼성전자-우선주도-담아-963067",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-05-10T12:03:51.005Z",
+    "updatedAt": "2026-05-10T12:03:51.005Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/2026051065961",
+    "canonicalUrl": "https://www.hankyung.com/article/2026051065961",
+    "titleFingerprint": "512314622edf6b54f8c2c7135158612c61a0f41b",
+    "dedupKeys": [
+      "13461ed5d305c0febb3b30e172ce54f3098ffb53",
+      "512314622edf6b54f8c2c7135158612c61a0f41b",
+      "bc8bc1a4e46b47f9d2a4b0455e4dc68ed6ce3ae2"
+    ],
+    "imageUrl": "/images/articles/13461ed5d305.png",
+    "i18n": {
+      "ko": {
+        "title": "두산퓨얼셀 최다 매수, 삼성전자 우선주도 함께 담은 투자 흐름",
+        "excerpt": "hankyung.com은 두산퓨얼셀이 최다 매수 종목으로 꼽혔고 삼성전자 우선주도 함께 매수 대상에 포함됐다고 보도했다.",
+        "body": "hankyung.com 보도에 따르면 두산퓨얼셀이 최다 매수 종목으로 나타났고, 삼성전자 우선주도 함께 담긴 종목으로 언급됐다. 이번 내용은 특정 매수 흐름에서 어떤 종목이 두드러졌는지를 보여주는 기사로, 핵심은 두산퓨얼셀이 가장 많이 매수됐다는 점과 삼성전자 우선주 역시 투자 대상에 포함됐다는 점이다. 다만 원문에 구체적인 매수 주체, 기간, 금액 등 추가 수치는 제시되지 않았다. 관련 종목을 보는 투자자는 보도된 사실 범위 안에서 매수 집중 여부를 확인할 필요가 있다. 출처: hankyung.com"
+      },
+      "en": {
+        "title": "Doosan Fuel Cell Leads Buying, Samsung Electronics Preferred Also Added",
+        "excerpt": "hankyung.com reported that Doosan Fuel Cell ranked as the most bought stock, while Samsung Electronics preferred shares were also included among purchases.",
+        "body": "According to hankyung.com, Doosan Fuel Cell emerged as the most bought stock, and Samsung Electronics preferred shares were also mentioned as being added. The report highlights which names stood out in a specific buying flow: Doosan Fuel Cell drew the highest level of buying, while Samsung Electronics preferred shares were also part of the purchases. The original information did not provide further details such as the buyer group, time period, or transaction amount. Investors following these stocks should read the reported buying concentration within that limited factual scope. Source: hankyung.com"
+      },
+      "ja": {
+        "title": "斗山フューエルセルが最多買い、サムスン電子優先株も購入対象に",
+        "excerpt": "hankyung.comは、斗山フューエルセルが最多買い銘柄となり、サムスン電子優先株も購入対象に含まれたと報じた。",
+        "body": "hankyung.comによると、斗山フューエルセルが最多買い銘柄として示され、サムスン電子の優先株もあわせて購入された銘柄として言及された。今回の報道は、特定の買いの流れの中でどの銘柄が目立ったかを伝える内容で、焦点は斗山フューエルセルが最も多く買われた点と、サムスン電子優先株も投資対象に含まれた点にある。ただし原文では、買い手、期間、金額などの追加数値は示されていない。関連銘柄を見る投資家は、報道された事実の範囲内で買いの集中度を確認する必要がある。出典: hankyung.com"
+      },
+      "zh": {
+        "title": "斗山燃料电池获最多买入，三星电子优先股也被纳入",
+        "excerpt": "hankyung.com报道称，斗山燃料电池成为最多买入标的，三星电子优先股也被纳入买入范围。",
+        "body": "据hankyung.com报道，斗山燃料电池成为最多买入的股票，三星电子优先股也被提及为一同买入的标的。该报道显示，在某一买入动向中，哪些股票表现突出；核心信息是斗山燃料电池买入最多，三星电子优先股也进入投资对象。不过，原文未提供具体买入主体、期间、金额等额外数据。关注相关股票的投资者，应在已报道事实范围内确认买入集中情况。来源: hankyung.com"
+      },
+      "es": {
+        "title": "Doosan Fuel Cell lidera las compras y también suman preferentes de Samsung",
+        "excerpt": "hankyung.com informó que Doosan Fuel Cell fue el valor más comprado y que las acciones preferentes de Samsung Electronics también fueron incluidas.",
+        "body": "Según hankyung.com, Doosan Fuel Cell apareció como el valor más comprado, mientras que las acciones preferentes de Samsung Electronics también fueron mencionadas entre las compras. La noticia muestra qué valores destacaron dentro de un flujo concreto de adquisición: Doosan Fuel Cell concentró la mayor compra y las preferentes de Samsung Electronics también formaron parte de la selección. El texto original no ofreció detalles adicionales sobre compradores, periodo o importe. Los inversores que sigan estos valores deben interpretar la concentración de compras dentro de ese alcance factual. Fuente: hankyung.com"
+      },
+      "pt": {
+        "title": "Doosan Fuel Cell lidera compras; preferenciais da Samsung também entram",
+        "excerpt": "O hankyung.com informou que a Doosan Fuel Cell foi a ação mais comprada, enquanto preferenciais da Samsung Electronics também foram incluídas.",
+        "body": "Segundo o hankyung.com, a Doosan Fuel Cell apareceu como a ação mais comprada, e as ações preferenciais da Samsung Electronics também foram citadas entre os papéis adicionados. A notícia mostra quais nomes se destacaram em um fluxo específico de compras: a Doosan Fuel Cell concentrou o maior volume de compra, enquanto as preferenciais da Samsung Electronics também fizeram parte do movimento. O texto original não trouxe detalhes adicionais sobre comprador, período ou valor. Investidores que acompanham esses papéis devem observar a concentração de compras apenas dentro dos fatos reportados. Fonte: hankyung.com"
+      },
+      "de": {
+        "title": "Doosan Fuel Cell meistgekauft, Samsung Electronics Vorzüge ebenfalls dabei",
+        "excerpt": "hankyung.com berichtete, dass Doosan Fuel Cell die meistgekaufte Aktie war und auch Vorzugsaktien von Samsung Electronics aufgenommen wurden.",
+        "body": "Laut hankyung.com wurde Doosan Fuel Cell als meistgekaufte Aktie genannt, während auch Vorzugsaktien von Samsung Electronics in den Käufen auftauchten. Der Bericht zeigt, welche Titel in einem bestimmten Kaufstrom hervorstachen: Doosan Fuel Cell verzeichnete die meisten Käufe, und Samsung Electronics Vorzugsaktien gehörten ebenfalls dazu. Weitere Angaben zu Käufergruppe, Zeitraum oder Betrag enthielt die Ausgangsinformation nicht. Anleger, die diese Titel verfolgen, sollten die gemeldete Kaufkonzentration daher nur innerhalb dieses Faktenrahmens einordnen. Quelle: hankyung.com"
+      },
+      "fr": {
+        "title": "Doosan Fuel Cell en tête des achats, les préférentielles Samsung aussi visées",
+        "excerpt": "hankyung.com a rapporté que Doosan Fuel Cell était la valeur la plus achetée, avec aussi des actions préférentielles Samsung Electronics.",
+        "body": "Selon hankyung.com, Doosan Fuel Cell est ressortie comme la valeur la plus achetée, tandis que les actions préférentielles de Samsung Electronics ont également été mentionnées parmi les titres acquis. L’article indique quels noms se sont distingués dans un flux d’achat précis: Doosan Fuel Cell a concentré le plus d’achats et les préférentielles Samsung Electronics ont aussi été incluses. Le texte d’origine ne fournit pas d’autres données, comme l’identité des acheteurs, la période ou les montants. Les investisseurs doivent donc interpréter cette concentration d’achats dans les limites des faits rapportés. Source: hankyung.com"
+      },
+      "ar": {
+        "title": "دوسان فيول سيل تتصدر الشراء وسهم سامسونغ الممتاز ضمن القائمة",
+        "excerpt": "أفاد hankyung.com بأن دوسان فيول سيل جاءت كأكثر سهم شراء، كما شملت المشتريات الأسهم الممتازة لسامسونغ إلكترونيكس.",
+        "body": "بحسب تقرير hankyung.com، ظهرت دوسان فيول سيل كأكثر سهم تم شراؤه، كما ذُكرت الأسهم الممتازة لسامسونغ إلكترونيكس ضمن الأسهم التي جرى اقتناؤها. يوضح الخبر أي الأسهم برزت في حركة شراء محددة، إذ كانت النقطة الأساسية أن دوسان فيول سيل سجلت أعلى مستوى شراء، وأن سهم سامسونغ إلكترونيكس الممتاز كان ضمن الاختيارات أيضا. ولم يورد النص الأصلي تفاصيل إضافية عن جهة الشراء أو الفترة أو قيمة العمليات. لذلك ينبغي للمستثمرين متابعة هذا التركّز في الشراء ضمن حدود الوقائع المنشورة فقط. المصدر: hankyung.com"
+      },
+      "hi": {
+        "title": "Doosan Fuel Cell में सबसे ज्यादा खरीद, Samsung preferred shares भी शामिल",
+        "excerpt": "hankyung.com ने बताया कि Doosan Fuel Cell सबसे अधिक खरीदा गया शेयर रहा, जबकि Samsung Electronics के preferred shares भी खरीद में शामिल रहे।",
+        "body": "hankyung.com के अनुसार, Doosan Fuel Cell सबसे अधिक खरीदे गए शेयर के रूप में सामने आया और Samsung Electronics के preferred shares का भी खरीद में उल्लेख किया गया। यह रिपोर्ट एक खास खरीद प्रवाह में प्रमुख शेयरों को दिखाती है: Doosan Fuel Cell में सबसे अधिक खरीद हुई और Samsung Electronics preferred shares भी निवेश सूची में शामिल रहे। मूल जानकारी में खरीदार समूह, अवधि या राशि जैसे अतिरिक्त आंकड़े नहीं दिए गए। इन शेयरों पर नजर रखने वाले निवेशकों को खरीद की इस एकाग्रता को केवल प्रकाशित तथ्यों की सीमा में समझना चाहिए। स्रोत: hankyung.com"
+      },
+      "id": {
+        "title": "Doosan Fuel Cell Paling Banyak Dibeli, Saham Preferen Samsung Ikut Masuk",
+        "excerpt": "hankyung.com melaporkan Doosan Fuel Cell menjadi saham yang paling banyak dibeli, sementara saham preferen Samsung Electronics juga ikut masuk.",
+        "body": "Menurut hankyung.com, Doosan Fuel Cell muncul sebagai saham yang paling banyak dibeli, dan saham preferen Samsung Electronics juga disebut sebagai bagian dari pembelian. Laporan ini menunjukkan saham mana yang menonjol dalam arus pembelian tertentu: Doosan Fuel Cell mencatat pembelian terbanyak, sementara saham preferen Samsung Electronics juga masuk dalam daftar. Informasi asli tidak memuat rincian tambahan seperti pihak pembeli, periode, atau nilai transaksi. Investor yang mengikuti saham terkait perlu membaca konsentrasi pembelian ini hanya dalam batas fakta yang dilaporkan. Sumber: hankyung.com"
+      }
+    }
+  },
+  {
     "id": "0b47a0516c76",
     "slug": "억대-큰손-개미-증시-대거-복귀-352044",
     "channelId": "ETF",
@@ -4271,231 +4496,6 @@
         "title": "Hadiah 30 Juta Won untuk Laporan Ganti Label Dibayar ke Pialang Bea Cukai",
         "excerpt": "Di Incheon, seorang pria yang melaporkan penjualan dengan asal barang palsu mengajukan banding administratif setelah hadiah 30 juta won dibayarkan kepada pialang bea cukai yang mewakilinya.",
         "body": "Seorang pria di Incheon yang melaporkan praktik yang disebut “ganti label”, yaitu penjualan barang dengan informasi asal yang dipalsukan, mengajukan banding administratif terkait pembayaran hadiah. Ia mengatakan dirinya yang memberikan informasi, tetapi hadiah 30 juta won dibayarkan kepada pialang bea cukai yang menangani pelaporan atas namanya. Persoalan utamanya adalah siapa yang berhak menerima hadiah, pelapor sebenarnya atau perwakilan yang mengajukan laporan. Sistem hadiah untuk pelaporan keterangan asal palsu bertujuan mencegah distribusi tidak semestinya, tetapi kasus ini memunculkan pertanyaan tentang kepemilikan hak saat laporan diajukan melalui agen. Hasil banding dapat menarik perhatian pada standar pembayaran hadiah dalam kasus serupa ke depan. Sumber: yna.co.kr"
-      }
-    }
-  },
-  {
-    "id": "6afcfb75dbd8",
-    "slug": "불장에-손-커진-개미지난달-1억-이상-주문-역대-최대-384481",
-    "channelId": "ETF",
-    "category": "etf",
-    "publishedAt": "2026-05-09T22:19:06.389Z",
-    "updatedAt": "2026-05-09T22:19:06.389Z",
-    "sourceName": "yna.co.kr",
-    "sourceUrl": "https://www.yna.co.kr/view/AKR20260509000400008",
-    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260509000400008",
-    "titleFingerprint": "ee6972b83a2820827870c47341ae3a1439e9c9c4",
-    "dedupKeys": [
-      "6afcfb75dbd873a4dea1d329e08b0616847365b4",
-      "ee6972b83a2820827870c47341ae3a1439e9c9c4",
-      "c3de926d4e2b6372fd4291ebd78bf43eb7ecf650"
-    ],
-    "imageUrl": "/images/articles/6afcfb75dbd8.jpg",
-    "i18n": {
-      "ko": {
-        "title": "코스피 7천선 랠리에 ‘큰손 개미’ 급증, 1억 이상 주문 역대 최대",
-        "excerpt": "최근 코스피가 7천선 고지를 밟고 사상 최고치 랠리를 이어가면서 지난달 1억원 이상 거액 주문을 낸 개인투자자 참여가 역대 최대를 기록했다.",
-        "body": "최근 7천선 고지를 밟은 코스피가 사상 최고치 랠리를 이어가면서 지난달 주식시장에서 1억원 이상 거액 주문을 낸 개인투자자, 이른바 ‘큰손 개미’의 참여가 역대 최대를 기록했다. 강한 상승장이 이어지자 큰 금액을 굴리는 개인 투자자들의 매매도 확대된 것으로 전해졌다. 이번 흐름은 지수 랠리가 개인의 대형 주문 증가로 이어졌다는 점에서 시장 참여 구도 변화를 보여준다. 향후 코스피 흐름과 개인 매수세가 함께 주목된다. 출처: yna.co.kr"
-      },
-      "en": {
-        "title": "KOSPI 7,000 Rally Drives Record High in Retail Orders Over 100 Million Won",
-        "excerpt": "As the KOSPI recently climbed to the 7,000 level and extended its record-high rally, retail investors placing orders of 100 million won or more hit an all-time high last month.",
-        "body": "As the KOSPI recently reached the 7,000 mark and continued its record-high rally, participation by retail investors placing large stock orders of 100 million won or more reached an all-time high last month. These high-value individual investors, often called “big-hand” retail traders, expanded their activity as the bullish market gained momentum. The trend shows how the index rally has translated into larger orders from private investors. Market attention is now on how the KOSPI’s path and retail buying strength develop from here. Source: yna.co.kr"
-      },
-      "ja": {
-        "title": "KOSPI 7000台ラリーで個人の大型注文急増、1億ウォン以上が過去最高",
-        "excerpt": "KOSPIが最近7000台に乗せ史上最高値ラリーを続けるなか、先月は1億ウォン以上の大型注文を出した個人投資家の参加が過去最高となった。",
-        "body": "最近7000台に乗せたKOSPIが史上最高値ラリーを続けるなか、先月の株式市場では1億ウォン以上の大型注文を出した個人投資家、いわゆる「大口個人」の参加が過去最高を記録した。強い上昇相場が続き、大きな資金を動かす個人投資家の売買も拡大したと伝えられている。今回の流れは、指数ラリーが個人の大型注文増加につながった点で市場参加構造の変化を示す。今後はKOSPIの動きと個人の買い勢いが注目される。出典: yna.co.kr"
-      },
-      "zh": {
-        "title": "KOSPI站上7000点引爆散户大单，1亿韩元以上订单创新高",
-        "excerpt": "随着KOSPI近期站上7000点并延续历史高位涨势，上月下达1亿韩元以上大额订单的个人投资者参与度创下历史最高纪录。",
-        "body": "近期站上7000点的KOSPI继续刷新历史高位并维持上涨行情，上月韩国股市中下达1亿韩元以上大额订单的个人投资者，也就是所谓“资金实力雄厚的散户”，参与规模创下历史最高纪录。报道称，随着强劲牛市延续，操作大额资金的个人投资者交易也随之扩大。这一趋势显示，指数上涨正在带动个人投资者大单增加，也反映出市场参与结构的变化。接下来，KOSPI走势与个人买盘动向仍将受到关注。来源: yna.co.kr"
-      },
-      "es": {
-        "title": "El rally del KOSPI hasta 7.000 dispara pedidos minoristas récord sobre 100 millones de wones",
-        "excerpt": "Con el KOSPI recientemente en la zona de 7.000 y en máximos históricos, los inversores particulares con órdenes de 100 millones de wones o más marcaron un récord el mes pasado.",
-        "body": "El KOSPI, que recientemente alcanzó la zona de los 7.000 puntos, continúa su rally en máximos históricos, y el mes pasado la participación de inversores particulares con grandes órdenes bursátiles de 100 millones de wones o más llegó a un máximo histórico. Estos minoristas de alto poder de compra, conocidos como “grandes manos” entre los particulares, aumentaron su actividad a medida que avanzó el mercado alcista. La tendencia muestra que el rally del índice se está traduciendo en más órdenes de gran tamaño por parte de individuos. La atención se centra ahora en la trayectoria del KOSPI y la fuerza compradora minorista. Fuente: yna.co.kr"
-      },
-      "pt": {
-        "title": "Rali do KOSPI a 7.000 leva ordens de varejo acima de 100 milhões de won ao recorde",
-        "excerpt": "Com o KOSPI chegando recentemente aos 7.000 pontos e renovando máximas históricas, investidores individuais com ordens de 100 milhões de won ou mais bateram recorde no mês passado.",
-        "body": "O KOSPI, que recentemente alcançou a marca dos 7.000 pontos, segue em rali de máximas históricas, enquanto a participação de investidores individuais com grandes ordens de ações de 100 milhões de won ou mais atingiu recorde no mês passado. Esses investidores de varejo de maior porte ampliaram sua atuação conforme o mercado altista ganhou força. O movimento mostra que a alta do índice se refletiu no aumento de ordens grandes feitas por pessoas físicas. Agora, o foco recai sobre a trajetória do KOSPI e a continuidade da força compradora dos investidores individuais. Fonte: yna.co.kr"
-      },
-      "de": {
-        "title": "KOSPI-Rally über 7.000 treibt Privatanleger-Aufträge ab 100 Mio. Won auf Rekord",
-        "excerpt": "Da der KOSPI zuletzt die Marke von 7.000 erreichte und seine Rekordrally fortsetzte, stieg die Zahl privater Aufträge über 100 Mio. Won im vergangenen Monat auf ein Allzeithoch.",
-        "body": "Der KOSPI hat zuletzt die Marke von 7.000 erreicht und seine Rally auf historischen Höchstständen fortgesetzt. Im vergangenen Monat erreichte die Beteiligung privater Anleger mit großen Aktienaufträgen von 100 Millionen Won oder mehr ein Allzeithoch. Diese kapitalstarken Privatanleger, oft als große Hände unter den Kleinanlegern bezeichnet, weiteten ihre Handelsaktivität im Zuge des starken Bullenmarkts aus. Der Trend zeigt, dass die Indexrally mit einem Anstieg großer Orders von Einzelinvestoren einhergeht. Im Fokus stehen nun die weitere KOSPI-Entwicklung und die Kaufkraft der Privatanleger. Quelle: yna.co.kr"
-      },
-      "fr": {
-        "title": "Le rally du KOSPI à 7 000 fait grimper les ordres particuliers de plus de 100 M won à un record",
-        "excerpt": "Alors que le KOSPI a récemment atteint 7 000 points et poursuivi son rally historique, les particuliers passant des ordres d’au moins 100 millions de won ont atteint un record le mois dernier.",
-        "body": "Le KOSPI, récemment monté au seuil des 7 000 points, poursuit son rally sur des plus hauts historiques. Le mois dernier, la participation des investisseurs particuliers passant de gros ordres de Bourse de 100 millions de won ou plus a atteint un record absolu. Ces particuliers à forte capacité financière ont accru leurs transactions dans un marché haussier soutenu. Cette évolution montre que la progression de l’indice s’accompagne d’une hausse des ordres importants venus des investisseurs individuels. L’attention se porte désormais sur la trajectoire du KOSPI et la vigueur des achats des particuliers. Source: yna.co.kr"
-      },
-      "ar": {
-        "title": "صعود كوسبي إلى 7000 يدفع أوامر الأفراد فوق 100 مليون وون إلى مستوى قياسي",
-        "excerpt": "مع بلوغ كوسبي مؤخرا مستوى 7000 ومواصلته موجة قمم تاريخية، سجلت مشاركة المستثمرين الأفراد بأوامر لا تقل عن 100 مليون وون مستوى قياسيا الشهر الماضي.",
-        "body": "بلغ مؤشر كوسبي مؤخرا مستوى 7000 وواصل موجة صعود عند قمم تاريخية، وفي الشهر الماضي وصلت مشاركة المستثمرين الأفراد الذين قدموا أوامر أسهم كبيرة بقيمة 100 مليون وون أو أكثر إلى أعلى مستوى على الإطلاق. ويشار إلى هؤلاء المستثمرين الأفراد ذوي الأموال الكبيرة باعتبارهم من أصحاب الأوامر الضخمة في السوق. ومع استمرار السوق الصاعدة، توسعت تداولاتهم أيضا. ويظهر هذا الاتجاه أن صعود المؤشر ترافق مع زيادة الأوامر الكبيرة من الأفراد. وتتجه الأنظار الآن إلى مسار كوسبي وقوة الشراء لدى المستثمرين الأفراد. المصدر: yna.co.kr"
-      },
-      "hi": {
-        "title": "KOSPI के 7,000 रैली से खुदरा बड़े ऑर्डर रिकॉर्ड पर, 10 करोड़ वॉन से ऊपर मांग तेज",
-        "excerpt": "KOSPI के हाल में 7,000 स्तर छूने और रिकॉर्ड ऊंचाई की रैली जारी रखने के बीच, पिछले महीने 10 करोड़ वॉन या अधिक के ऑर्डर देने वाले व्यक्तिगत निवेशक रिकॉर्ड स्तर पर पहुंचे।",
-        "body": "KOSPI ने हाल में 7,000 का स्तर छुआ और रिकॉर्ड ऊंचाई की रैली जारी रखी। इसी दौरान पिछले महीने शेयर बाजार में 10 करोड़ वॉन या उससे अधिक के बड़े ऑर्डर देने वाले व्यक्तिगत निवेशकों की भागीदारी अब तक के उच्चतम स्तर पर पहुंच गई। ऐसे निवेशकों को बड़ी रकम लगाने वाले खुदरा निवेशक माना जाता है। मजबूत तेजी के बाजार के बीच बड़ी पूंजी चलाने वाले व्यक्तिगत निवेशकों की ट्रेडिंग भी बढ़ी। यह रुझान दिखाता है कि सूचकांक की रैली व्यक्तिगत निवेशकों के बड़े ऑर्डर में वृद्धि से जुड़ रही है। आगे KOSPI की चाल और व्यक्तिगत खरीदारी पर नजर रहेगी। स्रोत: yna.co.kr"
-      },
-      "id": {
-        "title": "Reli KOSPI ke 7.000 Dorong Order Ritel di Atas 100 Juta Won ke Rekor",
-        "excerpt": "Saat KOSPI baru-baru ini menembus level 7.000 dan melanjutkan reli rekor tertinggi, partisipasi investor individu dengan order 100 juta won atau lebih mencapai rekor bulan lalu.",
-        "body": "KOSPI baru-baru ini menembus level 7.000 dan terus melanjutkan reli di rekor tertinggi. Pada bulan lalu, partisipasi investor individu yang memasukkan order saham besar senilai 100 juta won atau lebih mencapai level tertinggi sepanjang sejarah. Investor ritel bermodal besar ini meningkatkan aktivitasnya ketika pasar bullish berlanjut. Tren tersebut menunjukkan bahwa reli indeks ikut mendorong kenaikan order besar dari investor perorangan. Ke depan, pergerakan KOSPI dan kekuatan beli investor individu akan menjadi perhatian pasar. Sumber: yna.co.kr"
-      }
-    }
-  },
-  {
-    "id": "fa215f28b4c6",
-    "slug": "103억원어치-코인-팔아-집-산-30대연령대-중-최대-881964",
-    "channelId": "ETF",
-    "category": "etf",
-    "publishedAt": "2026-05-09T22:17:43.386Z",
-    "updatedAt": "2026-05-09T22:17:43.386Z",
-    "sourceName": "yna.co.kr",
-    "sourceUrl": "https://www.yna.co.kr/view/AKR20260509047600003",
-    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260509047600003",
-    "titleFingerprint": "25dc6f1fe5bf68eee46a8413f485724798b5c510",
-    "dedupKeys": [
-      "fa215f28b4c627078e7a726aedd8a09dd3ca8541",
-      "25dc6f1fe5bf68eee46a8413f485724798b5c510",
-      "b0a71663e14d7efa84586d97cc5add9f9c45bdc2"
-    ],
-    "imageUrl": "/images/articles/fa215f28b4c6.jpg",
-    "i18n": {
-      "ko": {
-        "title": "30대 주택 매입 코인 매각대금 103억원, 연령대 중 최대 규모",
-        "excerpt": "연합뉴스에 따르면 주택 구입에 활용된 가상화폐 매각대금 규모는 30대가 103억원으로 집계돼 전체 연령대 가운데 가장 컸다.",
-        "body": "주택 구입 과정에서 가상화폐, 즉 코인을 팔아 마련한 자금 규모가 30대에서 가장 큰 것으로 나타났다. 연합뉴스 보도에 따르면 30대가 주택 매입에 활용한 코인 매각대금은 103억원으로 집계돼 연령대별 규모 중 최대였다. 이번 내용은 주택 구입 자금에 가상화폐 매각대금이 실제로 활용된 사례를 연령대별로 보여준다는 점에서 주목된다. 특히 30대가 다른 연령대보다 큰 규모를 기록하면서, 가상화폐 보유와 주택 매입 자금 조달이 맞물린 흐름을 확인할 수 있다. 출처: yna.co.kr"
-      },
-      "en": {
-        "title": "People in Their 30s Led Home-Buying Crypto Sales at 10.3 Billion Won",
-        "excerpt": "According to Yonhap News Agency, people in their 30s recorded 10.3 billion won in cryptocurrency sales used for home purchases, the largest among all age groups.",
-        "body": "Cryptocurrency proceeds used to buy homes were largest among people in their 30s. According to Yonhap News Agency, crypto sales used by this age group for home purchases totaled 10.3 billion won, the highest amount among all age groups. The report draws attention because it shows, by age group, actual cases in which cryptocurrency sale proceeds were used as funds for buying housing. With people in their 30s posting the largest amount, the figures highlight a link between crypto holdings and home-purchase financing. Source: yna.co.kr"
-      },
-      "ja": {
-        "title": "30代の住宅購入向け暗号資産売却額が103億ウォンで年代別最大",
-        "excerpt": "聯合ニュースによると、住宅購入に使われた暗号資産の売却代金は30代が103億ウォンとなり、全世代で最大規模だった。",
-        "body": "住宅購入の過程で暗号資産、いわゆるコインを売却して用意した資金の規模は30代が最も大きいことが分かった。聯合ニュースによると、30代が住宅購入に活用した暗号資産の売却代金は103億ウォンと集計され、年代別で最大だった。今回の内容は、住宅購入資金として暗号資産の売却代金が実際に使われた事例を年代別に示す点で注目される。特に30代が他の年代より大きな規模を記録し、暗号資産保有と住宅購入資金の調達が結び付く流れを確認できる。出典: yna.co.kr"
-      },
-      "zh": {
-        "title": "30多岁群体卖币买房金额达103亿韩元，居各年龄段之首",
-        "excerpt": "据韩联社报道，用于购房的虚拟货币出售所得中，30多岁群体为103亿韩元，在所有年龄段中规模最大。",
-        "body": "在购房过程中，通过出售虚拟货币也就是“币”来筹集资金的规模，30多岁群体最大。据韩联社报道，30多岁群体用于购买住房的虚拟货币出售所得合计为103亿韩元，在各年龄段中居首。该内容受到关注，是因为它按年龄段显示了虚拟货币出售所得实际被用于购房资金的情况。尤其是30多岁群体的规模高于其他年龄段，显示出虚拟货币持有与住房购买资金筹措之间的联系。来源: yna.co.kr"
-      },
-      "es": {
-        "title": "Treintañeros lideran ventas de cripto para comprar vivienda: 10.300 millones de wones",
-        "excerpt": "Según Yonhap, las ventas de criptomonedas usadas para comprar viviendas sumaron 10.300 millones de wones entre personas de 30 años, el mayor monto por edad.",
-        "body": "El dinero obtenido por la venta de criptomonedas y usado para comprar viviendas fue mayor entre las personas de 30 años. Según la agencia Yonhap, este grupo utilizó 10.300 millones de wones procedentes de ventas de cripto para adquirir casas, el monto más alto entre todos los grupos de edad. El dato llama la atención porque muestra, por edades, casos en los que los ingresos por venta de criptomonedas se emplearon efectivamente como fondos para comprar vivienda. Al registrar la cifra más alta, los treintañeros evidencian el vínculo entre tenencia de cripto y financiación de vivienda. Fuente: yna.co.kr"
-      },
-      "pt": {
-        "title": "Pessoas na casa dos 30 lideram venda de cripto para comprar imóvel: 10,3 bi de wones",
-        "excerpt": "Segundo a Yonhap, vendas de criptomoedas usadas na compra de imóveis somaram 10,3 bilhões de wones entre pessoas na casa dos 30, maior valor por idade.",
-        "body": "Os recursos obtidos com a venda de criptomoedas e usados para comprar imóveis foram maiores entre pessoas na casa dos 30 anos. Segundo a agência Yonhap, esse grupo utilizou 10,3 bilhões de wones em valores de venda de cripto para aquisição de moradia, o maior montante entre todas as faixas etárias. A informação chama atenção por mostrar, por idade, casos em que valores de venda de criptomoedas foram efetivamente usados como fundos para compra de imóveis. O resultado dos trintões destaca a relação entre posse de cripto e financiamento habitacional. Fonte: yna.co.kr"
-      },
-      "de": {
-        "title": "30-Jährige führten Krypto-Verkäufe für Hauskäufe an: 10,3 Mrd. Won",
-        "excerpt": "Laut Yonhap beliefen sich Krypto-Verkaufserlöse für Wohnungs- und Hauskäufe bei Menschen in den Dreißigern auf 10,3 Milliarden Won, der höchste Wert aller Altersgruppen.",
-        "body": "Die Erlöse aus dem Verkauf von Kryptowährungen, die für den Kauf von Wohnraum genutzt wurden, waren bei Menschen in den Dreißigern am größten. Laut der Nachrichtenagentur Yonhap belief sich der Betrag dieser Altersgruppe auf 10,3 Milliarden Won und lag damit über allen anderen Altersgruppen. Der Bericht ist relevant, weil er nach Altersgruppen zeigt, dass Verkaufserlöse aus Kryptowährungen tatsächlich als Mittel für den Erwerb von Wohnraum eingesetzt wurden. Dass die Dreißiger den größten Betrag verzeichneten, macht die Verbindung zwischen Kryptobesitz und Finanzierung von Hauskäufen sichtbar. Quelle: yna.co.kr"
-      },
-      "fr": {
-        "title": "Les trentenaires en tête des ventes de crypto pour acheter un logement: 10,3 mds de wons",
-        "excerpt": "Selon Yonhap, les ventes de cryptomonnaies utilisées pour acheter un logement ont atteint 10,3 milliards de wons chez les trentenaires, le plus haut niveau par âge.",
-        "body": "Les fonds issus de ventes de cryptomonnaies et utilisés pour acheter un logement ont été les plus élevés chez les personnes dans la trentaine. Selon l’agence Yonhap, ce groupe a mobilisé 10,3 milliards de wons provenant de ventes de crypto pour l’achat d’un logement, soit le montant le plus important parmi toutes les tranches d’âge. Cette donnée retient l’attention car elle montre, par âge, des cas où des produits de vente de cryptomonnaies ont réellement servi au financement immobilier. Le niveau atteint par les trentenaires met en évidence le lien entre détention de crypto et achat de logement. Source: yna.co.kr"
-      },
-      "ar": {
-        "title": "الأشخاص في الثلاثينيات يتصدرون بيع العملات المشفرة لشراء المنازل بـ10.3 مليار وون",
-        "excerpt": "بحسب يونهاب، بلغت عائدات بيع العملات المشفرة المستخدمة في شراء المساكن لدى من هم في الثلاثينيات 10.3 مليار وون، وهي الأعلى بين الفئات العمرية.",
-        "body": "أظهرت البيانات أن حجم الأموال الناتجة عن بيع العملات المشفرة واستخدامها في شراء المساكن كان الأكبر لدى الأشخاص في الثلاثينيات. ووفقاً لوكالة يونهاب للأنباء، بلغ إجمالي عائدات بيع العملات المشفرة التي استخدمتها هذه الفئة العمرية لشراء مساكن 10.3 مليار وون، وهو أعلى مستوى بين جميع الفئات العمرية. وتكتسب هذه المعلومة أهمية لأنها تعرض حسب العمر حالات استُخدمت فيها عائدات بيع العملات المشفرة فعلياً كتمويل لشراء المنازل. ويبرز تسجيل الثلاثينيين أكبر حجم صلة بين حيازة العملات المشفرة وتمويل شراء السكن. المصدر: yna.co.kr"
-      },
-      "hi": {
-        "title": "घर खरीदने के लिए क्रिप्टो बिक्री में 30 वर्ष आयु वर्ग आगे, 10.3 अरब वॉन",
-        "excerpt": "योनहाप के अनुसार, घर खरीदने में इस्तेमाल क्रिप्टोकरेंसी बिक्री राशि 30 वर्ष आयु वर्ग में 10.3 अरब वॉन रही, जो सभी आयु वर्गों में सबसे अधिक है।",
-        "body": "घर खरीदने की प्रक्रिया में क्रिप्टोकरेंसी, यानी कॉइन बेचकर जुटाई गई धनराशि 30 वर्ष आयु वर्ग में सबसे अधिक पाई गई। योनहाप समाचार एजेंसी के अनुसार, इस आयु वर्ग ने आवास खरीद के लिए 10.3 अरब वॉन की क्रिप्टो बिक्री राशि का उपयोग किया, जो सभी आयु वर्गों में सबसे बड़ा आंकड़ा था। यह जानकारी इसलिए ध्यान खींचती है क्योंकि यह उम्र के आधार पर दिखाती है कि क्रिप्टोकरेंसी बिक्री से मिली राशि वास्तव में घर खरीदने के धन स्रोत के रूप में इस्तेमाल हुई। 30 वर्ष आयु वर्ग का सबसे आगे रहना क्रिप्टो होल्डिंग और आवास खरीद वित्तपोषण के संबंध को दर्शाता है। स्रोत: yna.co.kr"
-      },
-      "id": {
-        "title": "Usia 30-an Terbesar Jual Kripto untuk Beli Rumah, Capai 10,3 Miliar Won",
-        "excerpt": "Menurut Yonhap, dana hasil penjualan kripto yang dipakai untuk membeli rumah mencapai 10,3 miliar won pada kelompok usia 30-an, terbesar di antara semua usia.",
-        "body": "Dana dari penjualan cryptocurrency atau koin yang digunakan untuk membeli rumah tercatat paling besar pada kelompok usia 30-an. Menurut kantor berita Yonhap, kelompok ini memakai hasil penjualan kripto senilai 10,3 miliar won untuk pembelian hunian, jumlah tertinggi di antara seluruh kelompok usia. Informasi ini menjadi perhatian karena menunjukkan, berdasarkan usia, kasus nyata ketika hasil penjualan cryptocurrency digunakan sebagai dana pembelian rumah. Besarnya angka pada usia 30-an memperlihatkan keterkaitan antara kepemilikan kripto dan pendanaan pembelian hunian. Sumber: yna.co.kr"
-      }
-    }
-  },
-  {
-    "id": "c3fc16570bfa",
-    "slug": "ict-中企-985-2024년-채용-안해7년-내-기업-6만-손익분기-591253",
-    "channelId": "ETF",
-    "category": "etf",
-    "publishedAt": "2026-05-09T22:16:50.587Z",
-    "updatedAt": "2026-05-09T22:16:50.587Z",
-    "sourceName": "yna.co.kr",
-    "sourceUrl": "https://www.yna.co.kr/view/AKR20260508136100030",
-    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260508136100030",
-    "titleFingerprint": "e002586e43557ca00f27d415dad2fce23916e200",
-    "dedupKeys": [
-      "c3fc16570bfa78ca66813a4709d650eb6d6ade5f",
-      "e002586e43557ca00f27d415dad2fce23916e200",
-      "f0fdbcda69b3bbb9d24fa7ab8b5e6c67f51f49bd"
-    ],
-    "imageUrl": "/images/articles/c3fc16570bfa.jpg",
-    "i18n": {
-      "ko": {
-        "title": "ICT 중소기업 98.5%가 2024년 신규 채용 안 해…7년 내 손익분기 6% 그쳐",
-        "excerpt": "국내 ICT 분야 중소기업 거의 전부가 2024년에 신규 채용을 하지 않았다는 조사 결과가 나왔다. 7년 안에 손익분기점에 도달한 기업도 6%에 그쳐 성장 부담이 드러났다.",
-        "body": "국내 정보통신기술(ICT) 분야 중소기업의 98.5%가 2024년에 신규 채용을 하지 않았다는 조사 결과가 나왔다. 서울발 연합뉴스 보도에 따르면, 해당 조사는 ICT 중소기업의 인력 충원과 경영 성과가 모두 제한적인 상황임을 보여준다. 특히 설립 이후 7년 안에 손익분기점에 도달한 기업은 6%에 그친 것으로 나타났다. 신규 채용 부진과 낮은 손익분기 도달률은 ICT 중소기업의 성장 여건과 고용 창출 여력이 약화돼 있음을 시사한다. 관련 내용은 yna.co.kr 보도를 인용했다."
-      },
-      "en": {
-        "title": "98.5% of ICT SMEs Made No New Hires in 2024, Only 6% Break Even Within 7 Years",
-        "excerpt": "A survey found that nearly all small and midsize ICT firms in South Korea made no new hires in 2024, while only 6% reached break-even within seven years, underscoring pressure on growth.",
-        "body": "Nearly all small and midsize companies in South Korea’s information and communications technology (ICT) sector did not make new hires in 2024, according to a survey cited by Yonhap News Agency from Seoul. The survey found that 98.5% of ICT SMEs made no new recruitment during the year, pointing to limited hiring activity across the sector. It also showed that only 6% of companies reached the break-even point within seven years of establishment. The weak hiring figures and low break-even rate suggest constrained growth conditions and reduced job-creation capacity among ICT SMEs. This article cites reporting from yna.co.kr."
-      },
-      "ja": {
-        "title": "ICT中小企業の98.5％が2024年に新規採用せず、7年内の損益分岐到達は6％",
-        "excerpt": "韓国のICT分野の中小企業のほぼすべてが2024年に新規採用を行わなかったとの調査結果が出た。設立後7年以内に損益分岐点へ達した企業も6％にとどまった。",
-        "body": "韓国の情報通信技術（ICT）分野の中小企業の98.5％が、2024年に新規採用を行わなかったとの調査結果が明らかになった。ソウル発の聯合ニュース報道によると、この調査はICT中小企業の人材確保と経営成果がいずれも限定的な状況にあることを示している。特に、設立後7年以内に損益分岐点へ到達した企業は6％にとどまった。新規採用の不振と低い損益分岐到達率は、ICT中小企業の成長環境と雇用創出余力が弱まっていることを示唆する。内容はyna.co.krの報道を引用した。"
-      },
-      "zh": {
-        "title": "韩国ICT中小企业98.5%在2024年未招聘，7年内盈亏平衡仅6%",
-        "excerpt": "调查显示，韩国信息通信技术领域几乎所有中小企业在2024年没有新增招聘，成立7年内达到盈亏平衡的企业也仅占6%，反映增长压力。",
-        "body": "据首尔发出的韩联社报道，一项调查显示，韩国信息通信技术（ICT）领域中小企业中，98.5%在2024年没有进行新增招聘。该调查显示，ICT中小企业在人力补充和经营成果方面都处于受限状态。尤其是，成立后7年内达到盈亏平衡点的企业仅为6%。新增招聘低迷以及较低的盈亏平衡达成率，表明ICT中小企业的增长条件和创造就业的能力受到削弱。本文引用yna.co.kr报道。"
-      },
-      "es": {
-        "title": "El 98,5% de las pymes TIC no contrató en 2024 y solo el 6% alcanzó equilibrio en 7 años",
-        "excerpt": "Una encuesta mostró que casi todas las pymes surcoreanas del sector TIC no realizaron nuevas contrataciones en 2024, mientras solo el 6% alcanzó el punto de equilibrio en siete años.",
-        "body": "El 98,5% de las pequeñas y medianas empresas surcoreanas del sector de tecnologías de la información y la comunicación (TIC) no realizó nuevas contrataciones en 2024, según una encuesta citada por la agencia Yonhap desde Seúl. El resultado muestra que la contratación de personal y el desempeño empresarial de estas pymes TIC siguen siendo limitados. Además, solo el 6% de las empresas alcanzó el punto de equilibrio dentro de los siete años posteriores a su creación. La debilidad en nuevas contrataciones y la baja proporción de equilibrio sugieren condiciones de crecimiento restringidas y menor capacidad de generación de empleo. Este texto cita a yna.co.kr."
-      },
-      "pt": {
-        "title": "98,5% das PMEs de TIC não contrataram em 2024; só 6% atingiram equilíbrio em 7 anos",
-        "excerpt": "Uma pesquisa indicou que quase todas as PMEs sul-coreanas de TIC não fizeram novas contratações em 2024, enquanto apenas 6% chegaram ao ponto de equilíbrio em até sete anos.",
-        "body": "Uma pesquisa citada pela agência Yonhap, a partir de Seul, mostrou que 98,5% das pequenas e médias empresas sul-coreanas do setor de tecnologia da informação e comunicação (TIC) não realizaram novas contratações em 2024. O levantamento aponta que tanto a reposição de pessoal quanto os resultados de gestão dessas PMEs de TIC permanecem limitados. Também foi constatado que apenas 6% das empresas alcançaram o ponto de equilíbrio dentro de sete anos após a fundação. A fraqueza nas contratações e a baixa taxa de equilíbrio sugerem condições de crescimento restritas e menor capacidade de criação de empregos. O conteúdo cita yna.co.kr."
-      },
-      "de": {
-        "title": "98,5 % der ICT-KMU stellten 2024 nicht ein, nur 6 % erreichen Break-even binnen 7 Jahren",
-        "excerpt": "Eine Umfrage zeigt, dass fast alle südkoreanischen ICT-KMU 2024 keine Neueinstellungen vornahmen. Nur 6 % erreichten innerhalb von sieben Jahren die Gewinnschwelle.",
-        "body": "Laut einer von der Nachrichtenagentur Yonhap aus Seoul zitierten Umfrage nahmen 98,5 % der kleinen und mittleren Unternehmen im südkoreanischen Bereich Informations- und Kommunikationstechnologie (ICT) im Jahr 2024 keine Neueinstellungen vor. Die Erhebung zeigt, dass sowohl Personalaufbau als auch Geschäftsergebnisse dieser ICT-KMU begrenzt bleiben. Zudem erreichten nur 6 % der Unternehmen innerhalb von sieben Jahren nach Gründung die Gewinnschwelle. Die schwache Einstellungsaktivität und die niedrige Break-even-Quote deuten auf eingeschränkte Wachstumsbedingungen und geringere Fähigkeit zur Schaffung von Arbeitsplätzen hin. Dieser Beitrag zitiert yna.co.kr."
-      },
-      "fr": {
-        "title": "98,5 % des PME TIC n’ont pas recruté en 2024, seules 6 % à l’équilibre en 7 ans",
-        "excerpt": "Une enquête montre que presque toutes les PME sud-coréennes des TIC n’ont pas embauché en 2024, tandis que seules 6 % ont atteint le seuil de rentabilité en moins de sept ans.",
-        "body": "Selon une enquête citée par l’agence Yonhap depuis Séoul, 98,5 % des petites et moyennes entreprises sud-coréennes du secteur des technologies de l’information et de la communication (TIC) n’ont procédé à aucun nouveau recrutement en 2024. L’étude montre que le renforcement des effectifs et les résultats de gestion de ces PME TIC restent limités. Elle indique aussi que seules 6 % des entreprises ont atteint le seuil de rentabilité dans les sept ans suivant leur création. La faiblesse des embauches et le faible taux d’accès à l’équilibre suggèrent des conditions de croissance contraintes et une capacité réduite de création d’emplois. Ce texte cite yna.co.kr."
-      },
-      "ar": {
-        "title": "98.5% من شركات تكنولوجيا المعلومات الصغيرة لم توظف في 2024 و6% فقط بلغت التعادل خلال 7 سنوات",
-        "excerpt": "أظهر مسح أن معظم شركات تكنولوجيا المعلومات والاتصالات الصغيرة والمتوسطة في كوريا الجنوبية لم تجر توظيفا جديدا في 2024، وأن 6% فقط وصلت إلى نقطة التعادل خلال سبع سنوات.",
-        "body": "أظهر مسح نقلته وكالة يونهاب من سيئول أن 98.5% من الشركات الصغيرة والمتوسطة في قطاع تكنولوجيا المعلومات والاتصالات في كوريا الجنوبية لم تقم بأي توظيف جديد في عام 2024. وتشير النتائج إلى أن توسيع القوى العاملة والأداء الإداري لهذه الشركات ظلا محدودين. كما أوضح المسح أن 6% فقط من الشركات وصلت إلى نقطة التعادل خلال سبع سنوات من تأسيسها. ويشير ضعف التوظيف الجديد وانخفاض معدل الوصول إلى التعادل إلى أن ظروف النمو وقدرة خلق الوظائف لدى شركات تكنولوجيا المعلومات والاتصالات الصغيرة والمتوسطة لا تزال مقيدة. يستند هذا النص إلى تقرير yna.co.kr."
-      },
-      "hi": {
-        "title": "2024 में 98.5% ICT SMEs ने भर्ती नहीं की, 7 साल में ब्रेक-ईवन तक सिर्फ 6% पहुंचीं",
-        "excerpt": "सर्वेक्षण के अनुसार दक्षिण कोरिया की लगभग सभी ICT छोटी और मध्यम कंपनियों ने 2024 में नई भर्ती नहीं की, जबकि स्थापना के सात साल के भीतर केवल 6% कंपनियां ब्रेक-ईवन तक पहुंचीं।",
-        "body": "सियोल से योनहाप समाचार एजेंसी की रिपोर्ट के अनुसार, एक सर्वेक्षण में पाया गया कि दक्षिण कोरिया के सूचना और संचार प्रौद्योगिकी (ICT) क्षेत्र की 98.5% छोटी और मध्यम कंपनियों ने 2024 में कोई नई भर्ती नहीं की। यह सर्वेक्षण दिखाता है कि ICT SMEs में मानव संसाधन विस्तार और कारोबारी प्रदर्शन दोनों सीमित रहे। खास तौर पर, स्थापना के सात साल के भीतर ब्रेक-ईवन बिंदु तक पहुंचने वाली कंपनियां केवल 6% रहीं। नई भर्ती में कमजोरी और कम ब्रेक-ईवन दर ICT SMEs की वृद्धि परिस्थितियों और रोजगार सृजन क्षमता पर दबाव का संकेत देती है। यह सामग्री yna.co.kr की रिपोर्ट पर आधारित है।"
-      },
-      "id": {
-        "title": "98,5% UKM ICT Tak Merekrut pada 2024, Hanya 6% Capai Impas dalam 7 Tahun",
-        "excerpt": "Survei menunjukkan hampir semua UKM sektor ICT di Korea Selatan tidak melakukan perekrutan baru pada 2024, sementara hanya 6% perusahaan mencapai titik impas dalam tujuh tahun.",
-        "body": "Sebuah survei yang dikutip kantor berita Yonhap dari Seoul menunjukkan bahwa 98,5% usaha kecil dan menengah di sektor teknologi informasi dan komunikasi (ICT) Korea Selatan tidak melakukan perekrutan baru pada 2024. Hasil itu menunjukkan bahwa penambahan tenaga kerja dan kinerja usaha UKM ICT masih terbatas. Survei tersebut juga menemukan bahwa hanya 6% perusahaan yang mencapai titik impas dalam tujuh tahun sejak didirikan. Lemahnya perekrutan baru dan rendahnya tingkat pencapaian impas mengindikasikan kondisi pertumbuhan yang terbatas serta berkurangnya kapasitas penciptaan lapangan kerja. Artikel ini mengutip laporan yna.co.kr."
       }
     }
   }
