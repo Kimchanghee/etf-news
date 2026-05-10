@@ -1,5 +1,230 @@
 [
   {
+    "id": "6e799e156e00",
+    "slug": "중기중앙회-식품업-스마트공장-구축-지원업체당-최대-2억원-306558",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-05-10T14:22:56.054Z",
+    "updatedAt": "2026-05-10T14:22:56.054Z",
+    "sourceName": "yna.co.kr",
+    "sourceUrl": "https://www.yna.co.kr/view/AKR20260509022900030",
+    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260509022900030",
+    "titleFingerprint": "7fee5956cd3cb09d82e2e063b9795d4a3544b62b",
+    "dedupKeys": [
+      "6e799e156e009f4c7423af31185ea9ed7bf278c0",
+      "7fee5956cd3cb09d82e2e063b9795d4a3544b62b",
+      "ac1a6627373f4c95d23227d42d64d28bbc05a0ef"
+    ],
+    "imageUrl": "/images/articles/6e799e156e00.jpg",
+    "i18n": {
+      "ko": {
+        "title": "식품업 스마트공장 구축 지원 본격화, 중기중앙회·삼성전자 최대 2억원",
+        "excerpt": "중소기업중앙회와 삼성전자는 중소벤처기업부·농림축산식품부와 함께 식품제조업 스마트공장 구축지원 사업 참여기업을 모집하고 업체당 최대 2억원을 지원한다.",
+        "body": "중소기업중앙회와 삼성전자는 중소벤처기업부, 농림축산식품부와 함께 식품제조업 스마트공장 구축지원 사업에 참여할 기업을 모집한다. 이번 사업은 식품 가공업을 영위하는 중소·중견기업을 대상으로 실시간 공장·설비 제어와 프로세스 자동화 등이 가능한 고도화 수준 이상의 스마트공장 구축을 돕는 내용이다. 총 15개사를 선정해 업체당 최대 2억원을 지원한다. 선정 기업은 MES, FEMS, QMS 등 ICT 연계 제조 현장 운영관리 시스템 구축과 설비제어 자동화 지원을 받을 수 있다. 삼성전자 전문인력의 제조 현장 혁신 멘토링, 제조혁신 인력 양성, 판로 개척도 포함된다. 출처: yna.co.kr."
+      },
+      "en": {
+        "title": "Food Smart Factory Support Expands as KBIZ and Samsung Offer Up to 200 Million Won",
+        "excerpt": "The Korea Federation of SMEs and Samsung Electronics, with two ministries, are recruiting food manufacturers for a smart factory program offering up to 200 million won per company.",
+        "body": "The Korea Federation of SMEs and Samsung Electronics are recruiting companies to join a smart factory support program for food manufacturers, together with the Ministry of SMEs and Startups and the Ministry of Agriculture, Food and Rural Affairs. The program targets small and midsize food-processing companies and supports advanced smart factories capable of real-time factory and equipment control and process automation. A total of 15 companies will be selected, with up to 200 million won available for each. Selected firms may receive support for ICT-linked manufacturing management systems such as MES, FEMS and QMS, as well as equipment-control automation. The package also includes manufacturing-site innovation mentoring by Samsung Electronics experts, workforce training for manufacturing innovation and market development support. Source: yna.co.kr."
+      },
+      "ja": {
+        "title": "食品業スマート工場支援が本格化、中企中央会とサムスンが最大2億ウォン",
+        "excerpt": "中小企業中央会とサムスン電子は、関係省庁とともに食品製造業向けスマート工場構築支援事業の参加企業を募集し、1社最大2億ウォンを支援する。",
+        "body": "中小企業中央会とサムスン電子は、中小ベンチャー企業部、農林畜産食品部とともに、食品製造業スマート工場構築支援事業に参加する企業を募集する。対象は食品加工業を営む中小・中堅企業で、リアルタイムの工場・設備制御やプロセス自動化などが可能な高度化水準以上のスマート工場構築を支援する内容だ。計15社を選定し、1社当たり最大2億ウォンを支援する。選定企業はMES、FEMS、QMSなどICT連携の製造現場運営管理システム構築と設備制御自動化の支援を受けられる。サムスン電子専門人材による製造現場革新メンタリング、製造革新人材育成、販路開拓も含まれる。出典: yna.co.kr."
+      },
+      "zh": {
+        "title": "食品业智能工厂建设获支持，中企中央会与三星最高补助2亿韩元",
+        "excerpt": "韩国中小企业中央会和三星电子将与相关部门共同招募食品制造业智能工厂建设支持项目参与企业，单家企业最高可获2亿韩元支持。",
+        "body": "韩国中小企业中央会和三星电子将与中小风险企业部、农林畜产食品部共同招募食品制造业智能工厂建设支持项目参与企业。该项目面向从事食品加工业的中小及中坚企业，支持建设可实现工厂和设备实时控制、流程自动化等功能的高级水平以上智能工厂。项目将选定15家公司，单家企业最高支持2亿韩元。入选企业可获得MES、FEMS、QMS等ICT联动制造现场运营管理系统建设以及设备控制自动化支持。支持内容还包括三星电子专业人员提供的制造现场创新辅导、制造创新人才培养和销售渠道开拓。来源: yna.co.kr."
+      },
+      "es": {
+        "title": "Apoyo a fábricas inteligentes de alimentos: KBIZ y Samsung darán hasta 200 millones de wones",
+        "excerpt": "La Federación Coreana de Pymes y Samsung Electronics, junto con dos ministerios, reclutan empresas alimentarias para un programa de fábricas inteligentes con hasta 200 millones de wones por firma.",
+        "body": "La Federación Coreana de Pymes y Samsung Electronics reclutan empresas para participar en un programa de apoyo a la construcción de fábricas inteligentes para fabricantes de alimentos, junto con el Ministerio de Pymes y Startups y el Ministerio de Agricultura, Alimentación y Asuntos Rurales. El proyecto está dirigido a pequeñas, medianas y empresas de tamaño medio dedicadas al procesamiento de alimentos, y apoya fábricas inteligentes de nivel avanzado o superior capaces de controlar en tiempo real fábricas y equipos y automatizar procesos. Se seleccionarán 15 compañías, con hasta 200 millones de wones para cada una. Las elegidas podrán recibir apoyo para sistemas de gestión de planta vinculados a TIC, como MES, FEMS y QMS, además de automatización de control de equipos. También se incluyen mentoría de expertos de Samsung, formación de personal e impulso a canales de venta. Fuente: yna.co.kr."
+      },
+      "pt": {
+        "title": "Apoio a fábricas inteligentes de alimentos: KBIZ e Samsung oferecem até 200 milhões de wons",
+        "excerpt": "A Federação Coreana de PMEs e a Samsung Electronics, com dois ministérios, recrutam fabricantes de alimentos para um programa de fábricas inteligentes com até 200 milhões de wons por empresa.",
+        "body": "A Federação Coreana de PMEs e a Samsung Electronics estão recrutando empresas para participar de um programa de apoio à construção de fábricas inteligentes para fabricantes de alimentos, em conjunto com o Ministério das PMEs e Startups e o Ministério da Agricultura, Alimentos e Assuntos Rurais. O projeto mira pequenas, médias e empresas de porte intermediário do processamento de alimentos, apoiando fábricas inteligentes de nível avançado ou superior, capazes de controlar fábricas e equipamentos em tempo real e automatizar processos. Serão selecionadas 15 empresas, com até 200 milhões de wons para cada uma. As escolhidas poderão receber apoio para sistemas de gestão de produção conectados a TIC, como MES, FEMS e QMS, além de automação de controle de equipamentos. O pacote inclui mentoria de especialistas da Samsung, formação de profissionais e abertura de canais de venda. Fonte: yna.co.kr."
+      },
+      "de": {
+        "title": "Smart-Factory-Förderung für Lebensmittelbranche: KBIZ und Samsung zahlen bis zu 200 Mio. Won",
+        "excerpt": "Die Korea Federation of SMEs und Samsung Electronics suchen mit zwei Ministerien Lebensmittelhersteller für ein Smart-Factory-Programm mit bis zu 200 Millionen Won je Unternehmen.",
+        "body": "Die Korea Federation of SMEs und Samsung Electronics suchen gemeinsam mit dem Ministerium für KMU und Start-ups sowie dem Ministerium für Landwirtschaft, Ernährung und ländliche Angelegenheiten Unternehmen für ein Förderprogramm zum Aufbau intelligenter Fabriken in der Lebensmittelherstellung. Das Programm richtet sich an kleine, mittlere und mittelgroße Unternehmen der Lebensmittelverarbeitung und unterstützt Smart Factories auf fortgeschrittenem Niveau oder darüber, die Echtzeitsteuerung von Fabriken und Anlagen sowie Prozessautomatisierung ermöglichen. Insgesamt werden 15 Unternehmen ausgewählt, jedes kann bis zu 200 Millionen Won erhalten. Gefördert werden ICT-gestützte Systeme für das Produktionsmanagement wie MES, FEMS und QMS sowie die Automatisierung der Anlagensteuerung. Hinzu kommen Mentoring durch Samsung-Fachkräfte, Ausbildung für Fertigungsinnovation und Unterstützung beim Marktzugang. Quelle: yna.co.kr."
+      },
+      "fr": {
+        "title": "Usines intelligentes alimentaires: KBIZ et Samsung proposent jusqu’à 200 millions de wons",
+        "excerpt": "La Fédération coréenne des PME et Samsung Electronics, avec deux ministères, recrutent des fabricants alimentaires pour un programme d’usines intelligentes offrant jusqu’à 200 millions de wons par entreprise.",
+        "body": "La Fédération coréenne des PME et Samsung Electronics recrutent des entreprises pour participer à un programme de soutien à la construction d’usines intelligentes dans la fabrication alimentaire, avec le ministère des PME et des Startups et le ministère de l’Agriculture, de l’Alimentation et des Affaires rurales. Le dispositif vise les petites, moyennes et entreprises de taille intermédiaire actives dans la transformation alimentaire, et soutient des usines intelligentes de niveau avancé ou supérieur capables de contrôler en temps réel les usines et équipements et d’automatiser les processus. Quinze entreprises seront sélectionnées, avec jusqu’à 200 millions de wons pour chacune. Les sociétés retenues pourront obtenir une aide pour des systèmes de gestion de production liés aux TIC, comme MES, FEMS et QMS, ainsi que pour l’automatisation du contrôle des équipements. Le soutien comprend aussi un mentorat par des experts de Samsung, la formation de personnel et l’ouverture de débouchés. Source: yna.co.kr."
+      },
+      "ar": {
+        "title": "دعم مصانع الغذاء الذكية يتوسع مع تمويل من اتحاد الشركات الصغيرة وسامسونغ حتى 200 مليون وون",
+        "excerpt": "يفتح اتحاد الشركات الصغيرة والمتوسطة الكوري وسامسونغ إلكترونيكس، مع وزارتين، باب المشاركة أمام مصنعي الأغذية في برنامج مصانع ذكية يدعم كل شركة بما يصل إلى 200 مليون وون.",
+        "body": "يعتزم اتحاد الشركات الصغيرة والمتوسطة الكوري وسامسونغ إلكترونيكس، بالتعاون مع وزارة الشركات الصغيرة والناشئة ووزارة الزراعة والأغذية والشؤون الريفية، استقبال طلبات الشركات الراغبة في المشاركة في برنامج دعم بناء المصانع الذكية لصناعة الأغذية. يستهدف البرنامج الشركات الصغيرة والمتوسطة ومتوسطة الحجم العاملة في تصنيع الأغذية، ويدعم إنشاء مصانع ذكية بمستوى متقدم أو أعلى قادرة على التحكم الفوري في المصنع والمعدات وأتمتة العمليات. سيتم اختيار 15 شركة، ويمكن أن تحصل كل شركة على دعم يصل إلى 200 مليون وون. وتشمل المساعدة بناء أنظمة إدارة تشغيل مواقع التصنيع المرتبطة بتقنية المعلومات والاتصالات مثل MES وFEMS وQMS، إضافة إلى أتمتة التحكم في المعدات. كما يتضمن الدعم إرشادا من خبراء سامسونغ في ابتكار مواقع التصنيع، وتدريب كوادر الابتكار التصنيعي، وفتح قنوات البيع. المصدر: yna.co.kr."
+      },
+      "hi": {
+        "title": "खाद्य स्मार्ट फैक्ट्री योजना में तेजी, KBIZ और सैमसंग देंगे प्रति कंपनी 20 करोड़ वोन तक",
+        "excerpt": "कोरिया फेडरेशन ऑफ एसएमई और सैमसंग इलेक्ट्रॉनिक्स दो मंत्रालयों के साथ खाद्य निर्माताओं से स्मार्ट फैक्ट्री कार्यक्रम के लिए आवेदन ले रहे हैं, जिसमें प्रति कंपनी 20 करोड़ वोन तक सहायता मिलेगी।",
+        "body": "कोरिया फेडरेशन ऑफ एसएमई और सैमसंग इलेक्ट्रॉनिक्स, एमएसएमई एवं स्टार्टअप मंत्रालय तथा कृषि, खाद्य और ग्रामीण मामलों के मंत्रालय के साथ मिलकर खाद्य विनिर्माण स्मार्ट फैक्ट्री निर्माण सहायता कार्यक्रम में भाग लेने वाली कंपनियों की भर्ती कर रहे हैं। यह कार्यक्रम खाद्य प्रसंस्करण से जुड़ी छोटी, मध्यम और मिड-साइज कंपनियों को लक्षित करता है और ऐसी उन्नत स्तर या उससे ऊपर की स्मार्ट फैक्ट्री के निर्माण में मदद देता है जो फैक्ट्री और उपकरणों का रियल-टाइम नियंत्रण तथा प्रक्रिया स्वचालन कर सके। कुल 15 कंपनियों का चयन होगा और प्रत्येक को अधिकतम 20 करोड़ वोन मिल सकते हैं। चयनित कंपनियों को MES, FEMS, QMS जैसे ICT-लिंक्ड विनिर्माण संचालन प्रबंधन सिस्टम और उपकरण नियंत्रण स्वचालन के लिए सहायता मिल सकती है। इसमें सैमसंग विशेषज्ञों की साइट इनोवेशन मेंटरिंग, विनिर्माण नवाचार कर्मियों का प्रशिक्षण और बिक्री चैनल विस्तार भी शामिल है। स्रोत: yna.co.kr."
+      },
+      "id": {
+        "title": "Dukungan Smart Factory Pangan Dibuka, KBIZ dan Samsung Tawarkan Hingga 200 Juta Won",
+        "excerpt": "Federasi UKM Korea dan Samsung Electronics bersama dua kementerian merekrut produsen pangan untuk program smart factory dengan dukungan hingga 200 juta won per perusahaan.",
+        "body": "Federasi UKM Korea dan Samsung Electronics merekrut perusahaan untuk mengikuti program dukungan pembangunan smart factory bagi produsen pangan, bersama Kementerian UKM dan Startup serta Kementerian Pertanian, Pangan, dan Urusan Pedesaan. Program ini menyasar perusahaan kecil, menengah, dan menengah-besar yang bergerak di pengolahan pangan, serta mendukung pembangunan smart factory tingkat lanjut atau lebih tinggi yang mampu melakukan kontrol pabrik dan peralatan secara real time serta otomatisasi proses. Sebanyak 15 perusahaan akan dipilih, dengan dukungan hingga 200 juta won untuk masing-masing. Perusahaan terpilih dapat menerima bantuan untuk sistem manajemen operasi manufaktur berbasis ICT seperti MES, FEMS, dan QMS, serta otomatisasi kontrol peralatan. Paket ini juga mencakup mentoring inovasi lokasi produksi oleh tenaga ahli Samsung Electronics, pelatihan SDM inovasi manufaktur, dan pengembangan jalur penjualan. Sumber: yna.co.kr."
+      }
+    }
+  },
+  {
+    "id": "ad0e77da9a25",
+    "slug": "k-푸드-열풍-특허건수건강기능식품-외-제빵k-소스-급성장-253417",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-05-10T14:21:37.327Z",
+    "updatedAt": "2026-05-10T14:21:37.327Z",
+    "sourceName": "yna.co.kr",
+    "sourceUrl": "https://www.yna.co.kr/view/AKR20260508108800063",
+    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260508108800063",
+    "titleFingerprint": "c3e9ab6b6aaa896a32d59e7e5093dc79ae57601f",
+    "dedupKeys": [
+      "ad0e77da9a25d7c91151747760134203e68426b0",
+      "c3e9ab6b6aaa896a32d59e7e5093dc79ae57601f",
+      "3d7a05f9d97ab16c2083e3959384dca7e700f727"
+    ],
+    "imageUrl": "/images/articles/ad0e77da9a25.jpg",
+    "i18n": {
+      "ko": {
+        "title": "K-푸드 열풍에 식품 특허 3년째 5천건대…제빵·K-소스 성장",
+        "excerpt": "연합뉴스에 따르면 최근 3년간 식품 분야 특허 출원이 매년 5천건을 넘었고, K-푸드 확산 속에 건강기능식품 외 제빵과 K-소스 분야가 빠르게 성장했다.",
+        "body": "최근 3년간 국내 식품 분야 특허 출원이 매년 5천건 이상 이뤄진 것으로 나타났다. 국내외에서 확산하는 K-푸드 열풍이 식품 기술 개발과 권리화 움직임을 키운 배경으로 풀이된다. 연합뉴스 보도에 따르면 식품 분야에서는 건강기능식품 관련 출원이 이어지는 가운데 제빵과 K-소스 분야도 급성장세를 보였다. K-푸드 인기가 단순 소비 확대를 넘어 제조법, 제품 차별화, 기능성 강화 등 특허 경쟁으로 연결되는 흐름이다. 관련 업계는 식품 분야 지식재산 확보가 향후 해외 시장 진출과 브랜드 경쟁력에 영향을 줄 수 있다고 보고 있다. 출처: yna.co.kr"
+      },
+      "en": {
+        "title": "K-Food Boom Keeps Food Patents Above 5,000 for Three Years",
+        "excerpt": "Yonhap reported that food-sector patent filings exceeded 5,000 annually over the past three years, with bakery and K-sauce areas growing fast alongside health functional foods.",
+        "body": "Food-sector patent filings in South Korea have topped 5,000 each year over the past three years. The trend is seen as linked to the spread of K-food at home and abroad, which has encouraged more food technology development and efforts to secure intellectual property. According to Yonhap News Agency, filings related to health functional foods continued, while bakery products and K-sauces also showed rapid growth. The popularity of K-food is moving beyond consumption growth and into competition over recipes, product differentiation and functional improvements. Industry observers see food-related intellectual property as a factor that could affect overseas expansion and brand competitiveness. Source: yna.co.kr"
+      },
+      "ja": {
+        "title": "Kフード人気で食品特許が3年連続5千件超、製パン・Kソース急成長",
+        "excerpt": "聯合ニュースによると、過去3年間の食品分野の特許出願は毎年5千件を超え、Kフード拡大の中で健康機能食品に加え製パンとKソースが急成長した。",
+        "body": "韓国で食品分野の特許出願が過去3年間、毎年5千件以上に上ったことが分かった。国内外で広がるKフード人気が、食品技術の開発と権利化の動きを強めた背景とみられる。聯合ニュースによると、食品分野では健康機能食品関連の出願が続く一方、製パンとKソース分野も急成長した。Kフードの人気は単なる消費拡大にとどまらず、製法、製品の差別化、機能性強化をめぐる特許競争につながっている。関連業界では、食品分野の知的財産確保が今後の海外市場進出やブランド競争力に影響し得るとみている。出典: yna.co.kr"
+      },
+      "zh": {
+        "title": "K美食热潮推升食品专利，连续三年每年超5000件",
+        "excerpt": "韩联社报道称，近三年食品领域专利申请每年超过5000件；在K美食扩散背景下，除健康功能食品外，烘焙和K酱料领域快速增长。",
+        "body": "韩国食品领域专利申请近三年来每年均超过5000件。韩国国内外持续扩散的K美食热潮，被认为推动了食品技术开发和知识产权布局。韩联社报道称，食品领域中健康功能食品相关申请持续出现，同时烘焙和K酱料领域也呈现快速增长。K美食的人气正从单纯消费扩大，延伸至制作方法、产品差异化和功能性强化等方面的专利竞争。相关行业认为，食品领域知识产权的 확보 可能影响今后的海外市场拓展和品牌竞争力。来源: yna.co.kr"
+      },
+      "es": {
+        "title": "Auge del K-food eleva patentes alimentarias: tres años sobre 5.000",
+        "excerpt": "Según Yonhap, las solicitudes de patentes alimentarias superaron las 5.000 al año en los últimos tres años, con rápido avance en panadería y salsas K junto a alimentos funcionales.",
+        "body": "Las solicitudes de patentes en el sector alimentario de Corea del Sur superaron las 5.000 cada año durante los últimos tres años. La expansión del K-food dentro y fuera del país se considera un factor que impulsa el desarrollo de tecnologías alimentarias y la protección de propiedad intelectual. Según la agencia Yonhap, las solicitudes vinculadas a alimentos funcionales para la salud continuaron, mientras que las áreas de panadería y salsas K crecieron con rapidez. La popularidad del K-food está pasando de una mayor demanda de consumo a una competencia por métodos de elaboración, diferenciación de productos y mejoras funcionales. El sector ve la propiedad intelectual alimentaria como un posible factor para la expansión exterior y la competitividad de marca. Fuente: yna.co.kr"
+      },
+      "pt": {
+        "title": "K-food impulsiona patentes de alimentos acima de 5 mil por três anos",
+        "excerpt": "Segundo a Yonhap, os pedidos de patentes no setor de alimentos passaram de 5 mil por ano nos últimos três anos, com crescimento rápido em panificação e molhos K além de alimentos funcionais.",
+        "body": "Os pedidos de patentes no setor de alimentos da Coreia do Sul ultrapassaram 5 mil por ano nos últimos três anos. A expansão do K-food no mercado doméstico e no exterior é vista como um fator que estimulou o desenvolvimento de tecnologias alimentares e a proteção de propriedade intelectual. Segundo a agência Yonhap, os pedidos ligados a alimentos funcionais para a saúde continuaram, enquanto panificação e molhos K também registraram rápido crescimento. A popularidade do K-food avança além do consumo e chega à competição por métodos de produção, diferenciação de produtos e reforço funcional. O setor avalia que a propriedade intelectual em alimentos pode influenciar a entrada em mercados externos e a competitividade das marcas. Fonte: yna.co.kr"
+      },
+      "de": {
+        "title": "K-Food-Boom treibt Lebensmittelpatente drei Jahre über 5.000",
+        "excerpt": "Laut Yonhap lagen Patentanmeldungen im Lebensmittelbereich in den vergangenen drei Jahren jährlich über 5.000; neben funktionellen Gesundheitsprodukten wuchsen Backwaren und K-Saucen stark.",
+        "body": "In Südkorea lagen die Patentanmeldungen im Lebensmittelbereich in den vergangenen drei Jahren jeweils bei mehr als 5.000. Als Hintergrund gilt die Ausbreitung von K-Food im In- und Ausland, die Entwicklung von Lebensmitteltechnologien und den Schutz geistigen Eigentums vorantreibt. Nach Angaben der Nachrichtenagentur Yonhap setzten sich Anmeldungen zu funktionellen Gesundheitslebensmitteln fort, während Backwaren und K-Saucen ebenfalls stark wuchsen. Die Popularität von K-Food geht damit über steigenden Konsum hinaus und führt zu Wettbewerb um Herstellungsverfahren, Produktdifferenzierung und funktionelle Verbesserungen. Die Branche sieht geistiges Eigentum im Lebensmittelbereich als möglichen Faktor für Auslandsexpansion und Markenwettbewerb. Quelle: yna.co.kr"
+      },
+      "fr": {
+        "title": "Le boom de la K-food porte les brevets alimentaires au-delà de 5 000",
+        "excerpt": "Selon Yonhap, les dépôts de brevets alimentaires ont dépassé 5 000 par an sur les trois dernières années, avec une forte progression de la boulangerie et des sauces K aux côtés des aliments fonctionnels.",
+        "body": "En Corée du Sud, les dépôts de brevets dans le secteur alimentaire ont dépassé 5 000 chaque année au cours des trois dernières années. La diffusion de la K-food dans le pays et à l’étranger est considérée comme un facteur qui stimule le développement des technologies alimentaires et la protection de la propriété intellectuelle. Selon l’agence Yonhap, les dépôts liés aux aliments fonctionnels de santé se sont poursuivis, tandis que la boulangerie et les sauces K ont aussi connu une croissance rapide. La popularité de la K-food dépasse ainsi l’augmentation de la consommation et alimente la concurrence autour des procédés, de la différenciation des produits et du renforcement fonctionnel. Le secteur estime que la propriété intellectuelle alimentaire peut peser sur l’expansion à l’étranger et la compétitivité des marques. Source: yna.co.kr"
+      },
+      "ar": {
+        "title": "رواج K-Food يرفع براءات الغذاء فوق 5 آلاف سنويا لثلاث سنوات",
+        "excerpt": "أفادت يونهاب بأن طلبات براءات الاختراع في قطاع الأغذية تجاوزت 5 آلاف سنويا خلال السنوات الثلاث الماضية، مع نمو سريع في المخبوزات وصلصات K إلى جانب الأغذية الصحية الوظيفية.",
+        "body": "تجاوزت طلبات براءات الاختراع في قطاع الأغذية بكوريا الجنوبية 5 آلاف طلب سنويا خلال السنوات الثلاث الماضية. ويُنظر إلى انتشار K-Food داخل البلاد وخارجها بوصفه عاملا دفع تطوير تقنيات الغذاء وحماية حقوق الملكية الفكرية. وبحسب وكالة يونهاب، استمرت الطلبات المرتبطة بالأغذية الصحية الوظيفية، بينما سجلت مجالات المخبوزات وصلصات K نموا سريعا أيضا. وتتحول شعبية K-Food من مجرد زيادة في الاستهلاك إلى منافسة على طرق التصنيع وتمييز المنتجات وتعزيز الوظائف. وترى الجهات المعنية أن تأمين الملكية الفكرية في قطاع الغذاء قد يؤثر في دخول الأسواق الخارجية وقوة العلامات التجارية. المصدر: yna.co.kr"
+      },
+      "hi": {
+        "title": "K-Food उछाल से खाद्य पेटेंट तीन साल से 5,000 से ऊपर",
+        "excerpt": "योनहाप के अनुसार पिछले तीन वर्षों में खाद्य क्षेत्र के पेटेंट आवेदन हर साल 5,000 से अधिक रहे, जबकि स्वास्थ्य कार्यात्मक खाद्य के साथ बेकरी और K-सॉस तेजी से बढ़े।",
+        "body": "दक्षिण कोरिया में खाद्य क्षेत्र के पेटेंट आवेदन पिछले तीन वर्षों में हर साल 5,000 से अधिक रहे हैं। देश और विदेश में फैलती K-Food लोकप्रियता को खाद्य तकनीक विकास और बौद्धिक संपदा सुरक्षित करने की गतिविधियों को बढ़ाने वाला कारण माना जा रहा है। योनहाप समाचार एजेंसी के अनुसार, स्वास्थ्य कार्यात्मक खाद्य से जुड़े आवेदन जारी रहे, जबकि बेकरी और K-सॉस क्षेत्रों में भी तेज वृद्धि देखी गई। K-Food की लोकप्रियता केवल खपत बढ़ने तक सीमित नहीं है, बल्कि निर्माण विधियों, उत्पाद भिन्नता और कार्यात्मक सुधारों पर पेटेंट प्रतिस्पर्धा से भी जुड़ रही है। संबंधित उद्योग मानता है कि खाद्य क्षेत्र की बौद्धिक संपदा भविष्य में विदेशी बाजार विस्तार और ब्रांड प्रतिस्पर्धा को प्रभावित कर सकती है। स्रोत: yna.co.kr"
+      },
+      "id": {
+        "title": "Demam K-Food Dorong Paten Pangan Tembus 5.000 Selama Tiga Tahun",
+        "excerpt": "Menurut Yonhap, pengajuan paten sektor pangan melampaui 5.000 per tahun dalam tiga tahun terakhir, dengan pertumbuhan cepat pada roti dan saus K selain makanan fungsional kesehatan.",
+        "body": "Pengajuan paten di sektor pangan Korea Selatan tercatat melampaui 5.000 setiap tahun dalam tiga tahun terakhir. Penyebaran K-food di dalam negeri dan luar negeri dinilai menjadi latar yang mendorong pengembangan teknologi pangan serta upaya perlindungan kekayaan intelektual. Menurut Kantor Berita Yonhap, pengajuan terkait makanan fungsional kesehatan terus berlanjut, sementara bidang roti dan saus K juga tumbuh cepat. Popularitas K-food bergerak melampaui peningkatan konsumsi dan terhubung dengan persaingan paten atas metode produksi, diferensiasi produk, serta penguatan fungsi. Kalangan industri menilai kekayaan intelektual di sektor pangan dapat memengaruhi ekspansi ke pasar luar negeri dan daya saing merek. Sumber: yna.co.kr"
+      }
+    }
+  },
+  {
+    "id": "5c2fb4141e93",
+    "slug": "코트라-중국-선전서-한중-이차전지-수출상담회-685340",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-05-10T14:20:37.164Z",
+    "updatedAt": "2026-05-10T14:20:37.165Z",
+    "sourceName": "yna.co.kr",
+    "sourceUrl": "https://www.yna.co.kr/view/AKR20260510025200003",
+    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260510025200003",
+    "titleFingerprint": "db9768a8082c904f3db5f510607ab329d56920c7",
+    "dedupKeys": [
+      "5c2fb4141e93a59f8f111aad738b28ac08241536",
+      "db9768a8082c904f3db5f510607ab329d56920c7",
+      "c591920b06a2c29979d76dcd60abf84dd65b5937"
+    ],
+    "imageUrl": "/images/articles/5c2fb4141e93.jpg",
+    "i18n": {
+      "ko": {
+        "title": "코트라, 중국 선전서 한중 이차전지 수출상담회 개최",
+        "excerpt": "코트라는 오는 13일부터 다음 달 19일까지 중국 광둥성 선전에서 한중 이차전지 수출상담회를 열고 양국 배터리 분야 수출 상담을 지원한다.",
+        "body": "대한무역투자진흥공사, 코트라는 오는 13일부터 다음 달 19일까지 중국 광둥성 선전에서 ‘한중 이차전지 수출상담회’를 개최한다. 이번 행사는 한국과 중국의 이차전지 분야 기업 간 수출 상담을 지원하기 위한 자리다. 선전은 중국 광둥성의 주요 산업 도시로, 코트라는 현지에서 상담회를 열어 관련 기업의 교류 기회를 마련한다. 행사는 13일 시작해 다음 달 19일까지 이어질 예정이다. 세부 참가 기업이나 상담 규모는 원문에 공개되지 않았다. 출처는 yna.co.kr이다."
+      },
+      "en": {
+        "title": "KOTRA to Host Korea-China Secondary Battery Export Talks in Shenzhen",
+        "excerpt": "KOTRA will hold a Korea-China secondary battery export consultation event in Shenzhen, Guangdong, from the 13th through the 19th of next month to support battery trade talks.",
+        "body": "The Korea Trade-Investment Promotion Agency, KOTRA, will hold a Korea-China secondary battery export consultation event in Shenzhen, Guangdong Province, China, from the 13th through the 19th of next month. The event is intended to support export consultations between Korean and Chinese companies in the secondary battery sector. By holding the program in Shenzhen, a major industrial city in Guangdong, KOTRA aims to provide a venue for exchanges among related companies. The event will begin on the 13th and continue until the 19th of the following month. The original report did not disclose participating companies or consultation volume. Source: yna.co.kr."
+      },
+      "ja": {
+        "title": "KOTRA、中国・深圳で韓中二次電池輸出商談会を開催",
+        "excerpt": "KOTRAは13日から来月19日まで、中国広東省深圳で韓中二次電池輸出商談会を開き、両国企業の輸出相談を支援する。",
+        "body": "大韓貿易投資振興公社、KOTRAは13日から来月19日まで、中国広東省深圳で「韓中二次電池輸出商談会」を開催する。今回の行事は、韓国と中国の二次電池分野企業による輸出相談を支援する場として設けられる。深圳は広東省の主要産業都市であり、KOTRAは現地で商談会を開き、関連企業の交流機会を提供する。行事は13日に始まり、来月19日まで続く予定だ。参加企業や相談規模の詳細は原文では公開されていない。出典はyna.co.kr。"
+      },
+      "zh": {
+        "title": "KOTRA将在中国深圳举办韩中二次电池出口洽谈会",
+        "excerpt": "韩国贸易投资振兴公社将于13日至下月19日在中国广东省深圳举办韩中二次电池出口洽谈会，支持两国企业开展出口咨询。",
+        "body": "韩国贸易投资振兴公社KOTRA将于13日至下月19日在中国广东省深圳举办“韩中二次电池出口洽谈会”。此次活动旨在支持韩国和中国二次电池领域企业之间的出口洽谈。深圳是广东省的重要产业城市，KOTRA将在当地举办洽谈会，为相关企业提供交流机会。活动计划从13日开始，持续至下月19日。原文未披露具体参会企业或洽谈规模等细节。来源：yna.co.kr。"
+      },
+      "es": {
+        "title": "KOTRA organizará en Shenzhen una rueda exportadora de baterías Corea-China",
+        "excerpt": "KOTRA celebrará del día 13 al 19 del próximo mes en Shenzhen, Guangdong, una rueda de consultas de exportación Corea-China para el sector de baterías secundarias.",
+        "body": "La Agencia de Promoción del Comercio y la Inversión de Corea, KOTRA, celebrará del día 13 al 19 del próximo mes en Shenzhen, provincia china de Guangdong, una rueda de consultas de exportación Corea-China sobre baterías secundarias. El encuentro busca apoyar las consultas de exportación entre empresas coreanas y chinas del sector. Shenzhen es una importante ciudad industrial de Guangdong, y KOTRA organizará allí el evento para ofrecer oportunidades de intercambio a compañías relacionadas. La actividad comenzará el día 13 y continuará hasta el 19 del mes siguiente. El texto original no informó empresas participantes ni volumen de consultas. Fuente: yna.co.kr."
+      },
+      "pt": {
+        "title": "KOTRA fará em Shenzhen rodada de exportação de baterias Coreia-China",
+        "excerpt": "A KOTRA realizará de 13 até 19 do próximo mês, em Shenzhen, Guangdong, uma rodada Coreia-China de consultas de exportação para baterias secundárias.",
+        "body": "A Agência Coreana de Promoção do Comércio e Investimento, KOTRA, realizará de 13 até 19 do próximo mês, em Shenzhen, na província chinesa de Guangdong, a “Rodada Coreia-China de Consultas de Exportação de Baterias Secundárias”. O evento foi planejado para apoiar consultas de exportação entre empresas coreanas e chinesas do setor de baterias secundárias. Shenzhen é uma importante cidade industrial de Guangdong, e a KOTRA promoverá o encontro localmente para criar oportunidades de intercâmbio entre companhias relacionadas. A programação começa no dia 13 e segue até 19 do mês seguinte. O texto original não informou participantes ou escala das consultas. Fonte: yna.co.kr."
+      },
+      "de": {
+        "title": "KOTRA plant Korea-China-Exportgespräche für Sekundärbatterien in Shenzhen",
+        "excerpt": "KOTRA richtet vom 13. bis zum 19. des kommenden Monats in Shenzhen, Guangdong, Exportgespräche zwischen Korea und China für Sekundärbatterien aus.",
+        "body": "Die Korea Trade-Investment Promotion Agency, KOTRA, richtet vom 13. bis zum 19. des kommenden Monats in Shenzhen in der chinesischen Provinz Guangdong eine Korea-China-Veranstaltung für Exportgespräche zu Sekundärbatterien aus. Die Veranstaltung soll Exportberatungen zwischen koreanischen und chinesischen Unternehmen der Sekundärbatteriebranche unterstützen. Shenzhen ist eine wichtige Industriestadt in Guangdong, und KOTRA schafft dort einen Rahmen für den Austausch betroffener Unternehmen. Das Programm beginnt am 13. und läuft bis zum 19. des Folgemonats. Details zu teilnehmenden Firmen oder zum Umfang der Gespräche wurden im Original nicht genannt. Quelle: yna.co.kr."
+      },
+      "fr": {
+        "title": "KOTRA tiendra à Shenzhen des consultations Corée-Chine sur les batteries",
+        "excerpt": "KOTRA organisera du 13 au 19 du mois prochain à Shenzhen, dans le Guangdong, des consultations d’exportation Corée-Chine pour les batteries secondaires.",
+        "body": "L’Agence coréenne de promotion du commerce et de l’investissement, KOTRA, organisera du 13 au 19 du mois prochain à Shenzhen, dans la province chinoise du Guangdong, des consultations d’exportation Corée-Chine consacrées aux batteries secondaires. L’événement vise à soutenir les échanges commerciaux entre entreprises coréennes et chinoises du secteur. Shenzhen est une grande ville industrielle du Guangdong, et KOTRA y tiendra cette rencontre afin d’offrir aux entreprises concernées une occasion de dialogue. Le programme commencera le 13 et se poursuivra jusqu’au 19 du mois suivant. Le texte original ne précise ni les entreprises participantes ni l’ampleur des consultations. Source : yna.co.kr."
+      },
+      "ar": {
+        "title": "كوترا تنظم في شنتشن مشاورات تصدير كورية صينية للبطاريات الثانوية",
+        "excerpt": "تنظم كوترا من يوم 13 حتى 19 من الشهر المقبل في شنتشن بمقاطعة قوانغدونغ مشاورات تصدير كورية صينية لدعم شركات البطاريات الثانوية.",
+        "body": "تعتزم وكالة ترويج التجارة والاستثمار الكورية، كوترا، تنظيم فعالية مشاورات تصدير كورية صينية للبطاريات الثانوية في شنتشن بمقاطعة قوانغدونغ الصينية، من يوم 13 حتى 19 من الشهر المقبل. وتهدف الفعالية إلى دعم مشاورات التصدير بين الشركات الكورية والصينية العاملة في مجال البطاريات الثانوية. وتعد شنتشن مدينة صناعية رئيسية في قوانغدونغ، وستوفر كوترا من خلال الحدث فرصة للتواصل بين الشركات ذات الصلة. تبدأ الفعالية في يوم 13 وتستمر حتى 19 من الشهر التالي. ولم يذكر النص الأصلي تفاصيل عن الشركات المشاركة أو حجم المشاورات. المصدر: yna.co.kr."
+      },
+      "hi": {
+        "title": "KOTRA शेनझेन में कोरिया-चीन सेकेंडरी बैटरी निर्यात वार्ता करेगा",
+        "excerpt": "KOTRA 13 तारीख से अगले महीने की 19 तारीख तक चीन के ग्वांगडोंग प्रांत के शेनझेन में कोरिया-चीन सेकेंडरी बैटरी निर्यात परामर्श कार्यक्रम आयोजित करेगा।",
+        "body": "कोरिया ट्रेड-इन्वेस्टमेंट प्रमोशन एजेंसी, KOTRA, 13 तारीख से अगले महीने की 19 तारीख तक चीन के ग्वांगडोंग प्रांत के शेनझेन में ‘कोरिया-चीन सेकेंडरी बैटरी निर्यात परामर्श कार्यक्रम’ आयोजित करेगी। यह कार्यक्रम सेकेंडरी बैटरी क्षेत्र में कोरियाई और चीनी कंपनियों के बीच निर्यात परामर्श को समर्थन देने के लिए है। शेनझेन ग्वांगडोंग का प्रमुख औद्योगिक शहर है, और KOTRA वहां संबंधित कंपनियों के लिए संवाद का अवसर उपलब्ध कराएगी। कार्यक्रम 13 तारीख को शुरू होकर अगले महीने की 19 तारीख तक चलेगा। मूल रिपोर्ट में भाग लेने वाली कंपनियों या परामर्श के पैमाने का विवरण नहीं दिया गया। स्रोत: yna.co.kr."
+      },
+      "id": {
+        "title": "KOTRA Gelar Konsultasi Ekspor Baterai Sekunder Korea-China di Shenzhen",
+        "excerpt": "KOTRA akan mengadakan konsultasi ekspor baterai sekunder Korea-China di Shenzhen, Guangdong, dari tanggal 13 hingga 19 bulan depan untuk mendukung pembicaraan bisnis.",
+        "body": "Korea Trade-Investment Promotion Agency, KOTRA, akan mengadakan “Konsultasi Ekspor Baterai Sekunder Korea-China” di Shenzhen, Provinsi Guangdong, China, dari tanggal 13 hingga 19 bulan depan. Acara ini disiapkan untuk mendukung konsultasi ekspor antara perusahaan Korea dan China di sektor baterai sekunder. Shenzhen merupakan kota industri utama di Guangdong, dan KOTRA akan membuka ruang pertemuan di sana bagi perusahaan terkait. Kegiatan dimulai pada tanggal 13 dan berlangsung sampai tanggal 19 bulan berikutnya. Laporan asli tidak menyebutkan rincian perusahaan peserta atau skala konsultasi. Sumber: yna.co.kr."
+      }
+    }
+  },
+  {
     "id": "1cd5f62d9c48",
     "slug": "정부-중동-불확실성-여전어려운-기업-적극-지원-890495",
     "channelId": "ETF",
@@ -4271,231 +4496,6 @@
         "title": "Chungbuk Dukung Koperasi UKM untuk Perkuat Daya Saing Perusahaan Lokal",
         "excerpt": "Provinsi Chungbuk akan melampaui kebijakan bantuan berbasis perusahaan per perusahaan dan mendukung koperasi UKM sebagai organisasi kolaborasi untuk memperkuat daya saing lokal.",
         "body": "Provinsi Chungbuk akan mendukung aktivasi koperasi usaha kecil dan menengah. Langkah ini bertujuan keluar dari kebijakan dukungan yang berpusat pada perusahaan individual, lalu memperkuat landasan organisasi yang memungkinkan UKM bekerja sama demi meningkatkan daya saing. Koperasi UKM merupakan organisasi kolaboratif yang membantu perusahaan menangani bersama persoalan yang sulit diselesaikan sendiri-sendiri. Melalui dukungan ini, Chungbuk diperkirakan akan berfokus memperluas basis kerja sama antar-UKM lokal. Kebijakan tersebut dilakukan di tengah meningkatnya kebutuhan akan solidaritas antarbisnis dan respons bersama. Sumber: yna.co.kr"
-      }
-    }
-  },
-  {
-    "id": "263b152a46b7",
-    "slug": "르포-10만원-써도-카트가-썰렁가격표-앞에서-주저하는-소비자들-162895",
-    "channelId": "ETF",
-    "category": "etf",
-    "publishedAt": "2026-05-09T23:54:13.104Z",
-    "updatedAt": "2026-05-09T23:54:13.104Z",
-    "sourceName": "yna.co.kr",
-    "sourceUrl": "https://www.yna.co.kr/view/AKR20260509025000030",
-    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260509025000030",
-    "titleFingerprint": "96922a3253b0920ab49176a442d4a4eebd99f436",
-    "dedupKeys": [
-      "263b152a46b77d1e39d02555af13a35a023899b9",
-      "96922a3253b0920ab49176a442d4a4eebd99f436",
-      "8b269f557001bbb2b933d8162796d8a51b95dd67"
-    ],
-    "imageUrl": "/images/articles/263b152a46b7.jpg",
-    "i18n": {
-      "ko": {
-        "title": "장바구니 물가 요동, 10만원 써도 카트는 썰렁한 소비 현장",
-        "excerpt": "연합뉴스는 서울 유통 현장에서 장바구니 물가 변동으로 소비자들이 가격표 앞에서 구매를 망설이는 모습을 전했다. 채소값은 내려갔지만 체감 부담은 이어졌다.",
-        "body": "서울 유통 현장에서 장바구니 물가가 흔들리며 소비자들이 가격표 앞에서 구매를 주저하는 모습이 나타났다. 연합뉴스 정수연 기자의 르포에 따르면 10만원을 써도 카트가 넉넉히 채워지지 않는다는 반응이 나왔다. 배추, 무, 대파 등 주요 채소 가격은 지난해보다 큰 폭으로 떨어졌지만, 소비자 체감 물가는 여전히 부담으로 남았다. 품목별 가격 흐름이 엇갈리면서 장보기 계획을 줄이거나 비교 구매를 하는 움직임도 부각됐다. 생활물가 변동은 가계 소비 심리와 유통 현장 분위기에 계속 영향을 줄 전망이다. 출처: yna.co.kr 인용."
-      },
-      "en": {
-        "title": "Grocery prices swing in Seoul as shoppers hesitate despite spending 100,000 won",
-        "excerpt": "Yonhap reported from Seoul retail sites that shoppers are hesitating at price tags as grocery prices fluctuate. Vegetable prices fell sharply from last year, but pressure remains.",
-        "body": "At retail locations in Seoul, volatile grocery prices are making shoppers pause before buying. According to a Yonhap field report by reporter Jeong Su-yeon, some consumers said their carts still looked sparse even after spending 100,000 won. Prices of key vegetables such as cabbage, radish and green onions have fallen sharply from a year earlier, yet the burden felt by shoppers remains. With item-by-item price trends moving unevenly, consumers are cutting back on shopping plans or comparing prices more closely. Changes in everyday food prices are expected to keep influencing household sentiment and the retail mood. Source: cited from yna.co.kr."
-      },
-      "ja": {
-        "title": "ソウルの買い物かご物価が揺れ、10万ウォン使っても寂しいカート",
-        "excerpt": "聯合ニュースはソウルの小売現場で、買い物かご物価の変動により消費者が値札の前で購入をためらう様子を伝えた。野菜価格は下落したが負担感は残る。",
-        "body": "ソウルの小売現場では、買い物かご物価の変動を受け、消費者が値札の前で購入をためらう姿が見られた。聯合ニュースの鄭秀娟記者のルポによると、10万ウォンを使ってもカートが十分に埋まらないという反応が出ている。白菜、大根、長ねぎなど主要野菜の価格は前年より大幅に下がったが、消費者が感じる物価負担はなお残っている。品目ごとの価格の動きが分かれるなか、買い物計画を減らしたり、価格を比較して購入したりする動きも目立つ。生活物価の変動は家計の消費心理と小売現場の雰囲気に引き続き影響しそうだ。出典: yna.co.kr引用。"
-      },
-      "zh": {
-        "title": "首尔菜篮子价格波动，花10万韩元购物车仍显空荡",
-        "excerpt": "韩联社在首尔零售现场报道称，菜篮子价格波动使消费者在价格标签前犹豫。蔬菜价格较去年大幅下降，但体感负担仍在。",
-        "body": "在首尔零售现场，菜篮子价格波动使消费者在价格标签前放慢了购买决定。韩联社记者郑秀妍的现场报道显示，有消费者表示即使花了10万韩元，购物车仍显得不够充实。白菜、萝卜、大葱等主要蔬菜价格较去年大幅下降，但消费者感受到的物价压力仍未消失。随着不同品类价格走势分化，减少采购计划或进行比价购买的做法也更加突出。日常食品价格变化预计将继续影响家庭消费心理和零售现场氛围。来源：引自yna.co.kr。"
-      },
-      "es": {
-        "title": "Precios de la cesta básica fluctúan en Seúl y frenan compras ante las etiquetas",
-        "excerpt": "Yonhap informó desde comercios de Seúl que los consumidores dudan ante las etiquetas por la volatilidad de los precios. Las verduras bajaron frente al año pasado, pero la presión persiste.",
-        "body": "En establecimientos de Seúl, la volatilidad de los precios de la cesta básica está llevando a los consumidores a detenerse ante las etiquetas antes de comprar. Según un reportaje de campo de Yonhap firmado por la periodista Jeong Su-yeon, algunos compradores señalaron que el carrito seguía viéndose vacío incluso tras gastar 100.000 wones. Los precios de verduras clave como col china, rábano y cebolleta han caído con fuerza frente al año anterior, pero la carga percibida por los consumidores continúa. Con movimientos dispares según el producto, también destacan los recortes en los planes de compra y la comparación de precios. Fuente: citado de yna.co.kr."
-      },
-      "pt": {
-        "title": "Preços da cesta oscilam em Seul e consumidores hesitam diante das etiquetas",
-        "excerpt": "A Yonhap relatou em lojas de Seul que consumidores hesitam diante das etiquetas com a oscilação dos preços dos alimentos. Verduras caíram ante o ano passado, mas o peso segue.",
-        "body": "Em pontos de varejo de Seul, a instabilidade dos preços da cesta de compras tem levado consumidores a hesitar diante das etiquetas antes de comprar. Segundo reportagem de campo da Yonhap, assinada por Jeong Su-yeon, alguns compradores disseram que o carrinho ainda parecia vazio mesmo após gastar 100.000 won. Os preços de verduras importantes, como acelga, nabo e cebolinha, caíram fortemente em relação ao ano anterior, mas a pressão sentida pelos consumidores continua. Com trajetórias diferentes por item, ganham destaque a redução dos planos de compra e a comparação de preços. Fonte: citado de yna.co.kr."
-      },
-      "de": {
-        "title": "Schwankende Lebensmittelpreise in Seoul lassen Käufer vor Preisschildern zögern",
-        "excerpt": "Yonhap berichtete aus dem Seouler Einzelhandel, dass Verbraucher wegen schwankender Einkaufspreise vor Preisschildern zögern. Gemüse ist deutlich billiger als vor einem Jahr, doch die Belastung bleibt.",
-        "body": "Im Einzelhandel in Seoul führen schwankende Preise für den täglichen Einkauf dazu, dass Verbraucher vor dem Kauf auf die Preisschilder schauen und zögern. Laut einer Vor-Ort-Reportage der Yonhap-Reporterin Jeong Su-yeon sagten einige Kunden, der Einkaufswagen wirke selbst nach Ausgaben von 100.000 Won noch spärlich gefüllt. Die Preise wichtiger Gemüsesorten wie Chinakohl, Rettich und Lauchzwiebeln sind gegenüber dem Vorjahr stark gefallen, doch die gefühlte Belastung bleibt bestehen. Da sich die Preise je nach Artikel unterschiedlich entwickeln, reduzieren Verbraucher Einkaufspläne oder vergleichen stärker. Quelle: zitiert nach yna.co.kr."
-      },
-      "fr": {
-        "title": "Prix du panier instables à Séoul, les clients hésitent devant les étiquettes",
-        "excerpt": "Yonhap a rapporté depuis des magasins de Séoul que les consommateurs hésitent devant les étiquettes face aux variations des prix alimentaires. Les légumes ont baissé, mais la pression demeure.",
-        "body": "Dans les commerces de Séoul, les variations des prix du panier alimentaire poussent les consommateurs à hésiter devant les étiquettes avant d’acheter. Selon un reportage de terrain de Yonhap signé par la journaliste Jeong Su-yeon, certains clients ont indiqué que leur chariot semblait encore peu rempli même après avoir dépensé 100.000 wons. Les prix de légumes clés comme le chou, le radis et la ciboule ont fortement reculé par rapport à l’an dernier, mais le poids ressenti par les consommateurs reste présent. Avec des évolutions divergentes selon les articles, les achats réduits et la comparaison des prix ressortent davantage. Source : cité de yna.co.kr."
-      },
-      "ar": {
-        "title": "تقلب أسعار سلة التسوق في سول يدفع المستهلكين للتردد أمام البطاقات",
-        "excerpt": "نقلت يونهاب من متاجر في سول أن المستهلكين يترددون أمام بطاقات الأسعار مع اضطراب أسعار سلة التسوق. تراجعت أسعار الخضراوات عن العام الماضي، لكن العبء ما زال قائما.",
-        "body": "في متاجر سول، يدفع اضطراب أسعار سلة التسوق المستهلكين إلى التوقف أمام بطاقات الأسعار قبل اتخاذ قرار الشراء. وبحسب تقرير ميداني لوكالة يونهاب أعدته الصحفية جونغ سو يون، قال بعض المستهلكين إن عربة التسوق تبدو غير ممتلئة حتى بعد إنفاق 100 ألف وون. وقد انخفضت أسعار خضراوات رئيسية مثل الملفوف والفجل والبصل الأخضر بشكل كبير مقارنة بالعام الماضي، لكن العبء الذي يشعر به المستهلكون ما زال قائما. ومع اختلاف اتجاهات الأسعار حسب الصنف، برز تقليص خطط التسوق والمقارنة بين الأسعار. المصدر: نقلا عن yna.co.kr."
-      },
-      "hi": {
-        "title": "सियोल में किराना कीमतों में उतार-चढ़ाव, 100,000 वॉन खर्च पर भी खाली कार्ट",
-        "excerpt": "योनहाप ने सियोल के खुदरा बाजारों से बताया कि किराना कीमतों में उतार-चढ़ाव से उपभोक्ता कीमत टैग के सामने ठिठक रहे हैं। सब्जियां सस्ती हुईं, पर बोझ बना रहा।",
-        "body": "सियोल के खुदरा बाजारों में किराना कीमतों के उतार-चढ़ाव के कारण उपभोक्ता खरीदारी से पहले कीमत टैग के सामने रुकते दिख रहे हैं। योनहाप की पत्रकार जियोंग सु-योन की ग्राउंड रिपोर्ट के अनुसार, कुछ उपभोक्ताओं ने कहा कि 100,000 वॉन खर्च करने के बाद भी कार्ट भरा हुआ नहीं लगता। पत्ता गोभी, मूली और हरे प्याज जैसी प्रमुख सब्जियों की कीमतें पिछले साल की तुलना में काफी घटी हैं, फिर भी उपभोक्ताओं पर महसूस होने वाला बोझ बना हुआ है। अलग-अलग वस्तुओं की कीमतों का रुख भिन्न होने से लोग खरीदारी योजना घटा रहे हैं या कीमतों की तुलना कर रहे हैं। स्रोत: yna.co.kr से उद्धृत."
-      },
-      "id": {
-        "title": "Harga belanja harian di Seoul bergejolak, konsumen ragu di depan label harga",
-        "excerpt": "Yonhap melaporkan dari ritel Seoul bahwa konsumen ragu di depan label harga karena gejolak harga belanja harian. Harga sayuran turun dari tahun lalu, tetapi beban terasa tetap ada.",
-        "body": "Di lokasi ritel Seoul, gejolak harga belanja harian membuat konsumen berhenti dan ragu di depan label harga sebelum membeli. Menurut laporan lapangan Yonhap oleh reporter Jeong Su-yeon, sebagian pembeli mengatakan troli masih terlihat lengang meski sudah menghabiskan 100.000 won. Harga sayuran utama seperti sawi putih, lobak, dan daun bawang turun tajam dibanding tahun lalu, tetapi beban yang dirasakan konsumen masih tersisa. Ketika pergerakan harga berbeda menurut barang, langkah mengurangi rencana belanja atau membandingkan harga ikut menonjol. Sumber: dikutip dari yna.co.kr."
-      }
-    }
-  },
-  {
-    "id": "4747a4420e00",
-    "slug": "인천시-도시주거환경정비사업에-지역업체-인센티브-강화-678299",
-    "channelId": "ETF",
-    "category": "etf",
-    "publishedAt": "2026-05-09T23:53:07.238Z",
-    "updatedAt": "2026-05-09T23:53:07.238Z",
-    "sourceName": "yna.co.kr",
-    "sourceUrl": "https://www.yna.co.kr/view/AKR20260510006600065",
-    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260510006600065",
-    "titleFingerprint": "32d29767c8566d27618d683fd5f9fd9c994e1839",
-    "dedupKeys": [
-      "4747a4420e00e19b5b76c0939457331175cf3dd0",
-      "32d29767c8566d27618d683fd5f9fd9c994e1839",
-      "4db0707b9191c8391a7c26743e4a450d69d5d605"
-    ],
-    "imageUrl": "/images/articles/4747a4420e00.jpg",
-    "i18n": {
-      "ko": {
-        "title": "인천시 도시·주거환경정비사업 지역업체 인센티브 강화, 건설산업 활성화 지원",
-        "excerpt": "인천시는 10일 도시·주거환경정비사업에서 지역업체 인센티브를 강화하는 지원책을 시행해 지역 건설산업 활성화를 추진한다고 밝혔다.",
-        "body": "인천시는 10일 지역 건설산업 활성화를 위해 도시·주거환경정비사업에서 지역업체 인센티브를 강화하는 지원책을 시행한다고 밝혔다. 이번 조치는 정비사업 과정에서 지역 건설업체의 참여 기반을 넓히고, 지역 내 건설산업을 지원하기 위한 방안으로 제시됐다. 발표 내용에 따르면 핵심은 도시·주거환경정비사업과 지역업체 인센티브 강화에 맞춰져 있다. 인천시는 이를 통해 지역 건설산업 활성화에 힘을 보탤 계획이다. 기사 내용은 연합뉴스 보도를 바탕으로 했으며 출처는 yna.co.kr이다."
-      },
-      "en": {
-        "title": "Incheon Strengthens Local Contractor Incentives in Urban Housing Renewal Projects",
-        "excerpt": "Incheon said on the 10th it will implement support measures to strengthen incentives for local firms in urban and residential environment improvement projects.",
-        "body": "Incheon City said on the 10th that it will implement support measures to revitalize the local construction industry by strengthening incentives for local companies in urban and residential environment improvement projects. The measure is aimed at broadening the basis for participation by local construction firms during redevelopment and renewal projects and supporting the construction industry within the region. According to the announcement, the focus is on urban and residential environment improvement projects and stronger incentives for local companies. Incheon plans to use the measure to support local construction industry activity. This article is based on Yonhap News Agency reporting, source: yna.co.kr."
-      },
-      "ja": {
-        "title": "仁川市、都市・住居環境整備事業で地域企業インセンティブを強化",
-        "excerpt": "仁川市は10日、地域建設産業の活性化に向け、都市・住居環境整備事業で地域企業へのインセンティブを強化する支援策を実施すると発表した。",
-        "body": "仁川市は10日、地域建設産業の活性化を目的に、都市・住居環境整備事業で地域企業へのインセンティブを強化する支援策を実施すると明らかにした。今回の措置は、整備事業の過程で地域建設企業の参加基盤を広げ、地域内の建設産業を支援するための方策として示された。発表によると、焦点は都市・住居環境整備事業と地域企業インセンティブの強化に置かれている。仁川市はこれを通じて地域建設産業の活性化を後押しする計画だ。本記事は聯合ニュースの報道に基づき、出典はyna.co.kr。"
-      },
-      "zh": {
-        "title": "仁川市强化城市和居住环境整治项目本地企业激励措施",
-        "excerpt": "仁川市10日表示，将实施支持措施，在城市和居住环境整治项目中强化对本地企业的激励，以推动本地建筑产业发展。",
-        "body": "仁川市10日表示，为促进本地建筑产业活跃，将在城市和居住环境整治项目中实施强化本地企业激励的支持措施。该举措旨在整治项目推进过程中扩大本地建筑企业的参与基础，并支持区域内建筑产业。根据发布内容，重点放在城市和居住环境整治项目以及强化本地企业激励上。仁川市计划借此为本地建筑产业活跃提供助力。本文基于韩联社报道，来源为yna.co.kr。"
-      },
-      "es": {
-        "title": "Incheon refuerza incentivos a empresas locales en proyectos de renovación urbana",
-        "excerpt": "Incheon anunció el día 10 medidas de apoyo para reforzar incentivos a firmas locales en proyectos de mejora urbana y residencial y activar la construcción regional.",
-        "body": "La ciudad de Incheon anunció el día 10 que aplicará medidas de apoyo para revitalizar la industria local de la construcción mediante el refuerzo de incentivos a empresas locales en proyectos de mejora del entorno urbano y residencial. La medida busca ampliar la base de participación de constructoras locales durante los proyectos de renovación y apoyar a la industria de la construcción dentro de la región. Según el anuncio, el eje está en los proyectos urbanos y residenciales y en el fortalecimiento de los incentivos a firmas locales. Incheon prevé contribuir así a la activación del sector constructor local. Este artículo se basa en información de Yonhap News Agency; fuente: yna.co.kr."
-      },
-      "pt": {
-        "title": "Incheon reforça incentivos a empresas locais em projetos urbanos e habitacionais",
-        "excerpt": "Incheon informou no dia 10 que adotará medidas para fortalecer incentivos a empresas locais em projetos urbanos e habitacionais e ativar a construção regional.",
-        "body": "A cidade de Incheon informou no dia 10 que implementará medidas de apoio para revitalizar a indústria local da construção ao fortalecer incentivos para empresas locais em projetos de melhoria do ambiente urbano e residencial. A iniciativa foi apresentada como uma forma de ampliar a base de participação das construtoras locais durante os projetos de requalificação e apoiar o setor da construção dentro da região. Segundo o anúncio, o foco está nos projetos urbanos e residenciais e no reforço dos incentivos às empresas locais. Incheon planeja usar a medida para apoiar a atividade da construção local. Este artigo se baseia em reportagem da Yonhap News Agency; fonte: yna.co.kr."
-      },
-      "de": {
-        "title": "Incheon stärkt Anreize für lokale Firmen bei Stadt- und Wohnumfeldprojekten",
-        "excerpt": "Incheon kündigte am 10. Unterstützungsmaßnahmen an, um Anreize für lokale Firmen in Stadt- und Wohnumfeldprojekten zu stärken und die Bauwirtschaft zu beleben.",
-        "body": "Die Stadt Incheon teilte am 10. mit, sie werde Unterstützungsmaßnahmen umsetzen, um die lokale Bauwirtschaft durch stärkere Anreize für regionale Unternehmen in Projekten zur Verbesserung des städtischen und wohnlichen Umfelds zu beleben. Die Maßnahme soll die Beteiligungsbasis lokaler Bauunternehmen in Sanierungs- und Erneuerungsprojekten verbreitern und die Bauindustrie in der Region unterstützen. Laut Mitteilung liegt der Schwerpunkt auf Stadt- und Wohnumfeldprojekten sowie auf stärkeren Anreizen für lokale Firmen. Incheon will damit die Aktivität der lokalen Bauwirtschaft fördern. Dieser Artikel basiert auf einem Bericht der Nachrichtenagentur Yonhap; Quelle: yna.co.kr."
-      },
-      "fr": {
-        "title": "Incheon renforce les incitations aux entreprises locales dans la rénovation urbaine",
-        "excerpt": "Incheon a annoncé le 10 des mesures pour renforcer les incitations aux entreprises locales dans les projets urbains et résidentiels afin de soutenir le bâtiment régional.",
-        "body": "La ville d’Incheon a annoncé le 10 qu’elle mettrait en œuvre des mesures de soutien afin de dynamiser l’industrie locale de la construction en renforçant les incitations accordées aux entreprises locales dans les projets d’amélioration de l’environnement urbain et résidentiel. Cette mesure vise à élargir la base de participation des entreprises de construction locales dans les projets de rénovation et à soutenir le secteur du bâtiment dans la région. Selon l’annonce, l’accent est mis sur les projets urbains et résidentiels ainsi que sur le renforcement des incitations aux entreprises locales. Incheon prévoit ainsi d’appuyer l’activité de la construction locale. Cet article est basé sur un reportage de Yonhap News Agency; source: yna.co.kr."
-      },
-      "ar": {
-        "title": "إنتشون تعزز حوافز الشركات المحلية في مشاريع تحسين البيئة الحضرية والسكنية",
-        "excerpt": "أعلنت إنتشون في اليوم العاشر أنها ستنفذ إجراءات دعم لتعزيز حوافز الشركات المحلية في مشاريع تحسين البيئة الحضرية والسكنية لتنشيط قطاع البناء المحلي.",
-        "body": "أعلنت مدينة إنتشون في اليوم العاشر أنها ستنفذ إجراءات دعم لتنشيط قطاع البناء المحلي من خلال تعزيز الحوافز للشركات المحلية في مشاريع تحسين البيئة الحضرية والسكنية. وتهدف هذه الخطوة إلى توسيع قاعدة مشاركة شركات البناء المحلية خلال مشاريع التطوير والتحسين، ودعم صناعة البناء داخل المنطقة. ووفق الإعلان، يتركز جوهر الخطة على مشاريع تحسين البيئة الحضرية والسكنية وعلى تعزيز حوافز الشركات المحلية. وتعتزم إنتشون من خلال ذلك دعم نشاط قطاع البناء المحلي. يستند هذا المقال إلى تقرير وكالة يونهاب للأنباء، والمصدر: yna.co.kr."
-      },
-      "hi": {
-        "title": "इंचियोन ने शहरी और आवासीय सुधार परियोजनाओं में स्थानीय कंपनियों के प्रोत्साहन बढ़ाए",
-        "excerpt": "इंचियोन ने 10 तारीख को कहा कि वह शहरी और आवासीय पर्यावरण सुधार परियोजनाओं में स्थानीय कंपनियों के प्रोत्साहन मजबूत कर स्थानीय निर्माण उद्योग को सक्रिय करेगी।",
-        "body": "इंचियोन शहर ने 10 तारीख को कहा कि वह स्थानीय निर्माण उद्योग को सक्रिय करने के लिए शहरी और आवासीय पर्यावरण सुधार परियोजनाओं में स्थानीय कंपनियों के लिए प्रोत्साहन मजबूत करने वाली सहायता नीति लागू करेगा। यह कदम सुधार परियोजनाओं की प्रक्रिया में स्थानीय निर्माण कंपनियों की भागीदारी का आधार बढ़ाने और क्षेत्र के भीतर निर्माण उद्योग को समर्थन देने के उपाय के रूप में पेश किया गया है। घोषणा के अनुसार, मुख्य ध्यान शहरी और आवासीय पर्यावरण सुधार परियोजनाओं तथा स्थानीय कंपनियों के प्रोत्साहन को मजबूत करने पर है। इंचियोन इसके जरिए स्थानीय निर्माण उद्योग की गतिविधि को सहारा देने की योजना बना रहा है। यह लेख योनहाप न्यूज एजेंसी की रिपोर्ट पर आधारित है; स्रोत: yna.co.kr."
-      },
-      "id": {
-        "title": "Incheon Perkuat Insentif Perusahaan Lokal di Proyek Penataan Kota dan Hunian",
-        "excerpt": "Incheon menyatakan pada tanggal 10 akan menerapkan dukungan untuk memperkuat insentif bagi perusahaan lokal dalam proyek penataan kota dan hunian demi menggerakkan konstruksi daerah.",
-        "body": "Kota Incheon menyatakan pada tanggal 10 bahwa pihaknya akan menerapkan langkah dukungan untuk mengaktifkan industri konstruksi lokal dengan memperkuat insentif bagi perusahaan lokal dalam proyek penataan lingkungan perkotaan dan hunian. Kebijakan ini diajukan sebagai cara untuk memperluas basis partisipasi perusahaan konstruksi lokal selama proyek penataan dan mendukung industri konstruksi di wilayah tersebut. Menurut pengumuman itu, fokus utamanya adalah proyek penataan lingkungan perkotaan dan hunian serta penguatan insentif bagi perusahaan lokal. Incheon berencana melalui langkah ini membantu aktivitas industri konstruksi lokal. Artikel ini berdasarkan laporan Yonhap News Agency, sumber: yna.co.kr."
-      }
-    }
-  },
-  {
-    "id": "4883aef2ffa9",
-    "slug": "인천시-취약계층-22만명에-고유가-피해지원금-5만원-추가지급-784096",
-    "channelId": "ETF",
-    "category": "etf",
-    "publishedAt": "2026-05-09T23:52:11.223Z",
-    "updatedAt": "2026-05-09T23:52:11.223Z",
-    "sourceName": "yna.co.kr",
-    "sourceUrl": "https://www.yna.co.kr/view/AKR20260510009200065",
-    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260510009200065",
-    "titleFingerprint": "3280e606cf2d208263ff0cbd5b0160277d087524",
-    "dedupKeys": [
-      "4883aef2ffa9475998844c55d8c0be31144f2b51",
-      "3280e606cf2d208263ff0cbd5b0160277d087524",
-      "24d57bb0f63588f336859cf7aa22edffe430816f"
-    ],
-    "imageUrl": "/images/articles/4883aef2ffa9.jpg",
-    "i18n": {
-      "ko": {
-        "title": "인천시 고유가 피해지원금 추가 지급, 취약계층 22만명에 5만원",
-        "excerpt": "인천시는 고유가 피해지원금 1차 지급 대상인 취약계층 22만명에게 이달 11일부터 7월 3일까지 1인당 5만원을 추가 지급한다고 밝혔다.",
-        "body": "인천시는 고유가 피해지원금 1차 지급 대상자인 취약계층 22만명에게 이달 11일부터 7월 3일까지 1인당 5만원을 추가 지급한다. 이번 지원은 높은 유가로 부담이 커진 취약계층을 대상으로 한 추가 조치다. 지급 대상은 앞서 1차 피해지원금을 받은 취약계층이며, 전체 규모는 22만명이다. 시는 정해진 기간에 지원금을 지급해 생활비와 에너지 비용 부담 완화에 보탬이 되도록 할 계획이다. 관련 내용은 연합뉴스 보도와 인천시 발표를 인용했으며 출처는 yna.co.kr이다."
-      },
-      "en": {
-        "title": "Incheon to Add 50,000 Won Fuel-Cost Aid for 220,000 Vulnerable Residents",
-        "excerpt": "Incheon City said it will provide an additional 50,000 won each from this month’s 11th to July 3 to 220,000 vulnerable people who received the first round of high fuel-price relief.",
-        "body": "Incheon City will pay an additional 50,000 won per person to 220,000 vulnerable residents who were eligible for the first round of high fuel-price relief, from the 11th of this month through July 3. The measure targets vulnerable groups facing heavier burdens from elevated oil prices. The recipients are those who previously received the first relief payment, with the total number reaching 220,000. The city plans to make payments during the stated period to help ease living and energy-cost pressures. This article cites Yonhap News Agency reporting and Incheon City’s announcement; source: yna.co.kr."
-      },
-      "ja": {
-        "title": "仁川市、高油価被害支援金を追加支給　脆弱層22万人に5万ウォン",
-        "excerpt": "仁川市は、高油価被害支援金の1次支給対象である脆弱層22万人に、今月11日から7月3日まで1人5万ウォンを追加支給すると明らかにした。",
-        "body": "仁川市は、高油価被害支援金の1次支給対象者である脆弱層22万人に、今月11日から7月3日まで1人当たり5万ウォンを追加支給する。今回の支援は、高い油価で負担が増した脆弱層を対象にした追加措置だ。支給対象は、すでに1次被害支援金を受け取った脆弱層で、全体規模は22万人となる。市は定められた期間内に支援金を支給し、生活費やエネルギー費用の負担緩和につなげる方針だ。内容は聯合ニュースの報道と仁川市の発表を引用したもので、出典はyna.co.kr。"
-      },
-      "zh": {
-        "title": "仁川市追加发放高油价受损补助，22万弱势群体每人5万韩元",
-        "excerpt": "仁川市表示，将从本月11日至7月3日，向高油价受损补助第一轮发放对象中的22万名弱势群体每人追加支付5万韩元。",
-        "body": "仁川市将从本月11日至7月3日，向高油价受损补助第一轮发放对象中的22万名弱势群体每人追加支付5万韩元。此次支援是针对因高油价而负担加重的弱势群体采取的追加措施。发放对象为此前已领取第一轮受损补助的弱势群体，总规模为22万人。仁川市计划在规定期间内发放补助，以帮助缓解生活费用和能源费用压力。本文引用韩联社报道及仁川市发布内容，出处为yna.co.kr。"
-      },
-      "es": {
-        "title": "Incheon dará 50.000 wones extra por altos combustibles a 220.000 vulnerables",
-        "excerpt": "La ciudad de Incheon informó que pagará 50.000 wones adicionales entre el día 11 de este mes y el 3 de julio a 220.000 personas vulnerables incluidas en la primera ayuda.",
-        "body": "La ciudad de Incheon pagará 50.000 wones adicionales por persona a 220.000 personas vulnerables que fueron destinatarias de la primera ronda de ayuda por el impacto de los altos precios del combustible, desde el día 11 de este mes hasta el 3 de julio. La medida busca apoyar a grupos vulnerables cuya carga ha aumentado por los elevados precios del petróleo. Los beneficiarios son quienes ya recibieron el primer pago de ayuda, con un total de 220.000 personas. La ciudad prevé realizar los pagos en el periodo fijado para aliviar gastos de vida y energía. La información cita a Yonhap y a Incheon; fuente: yna.co.kr."
-      },
-      "pt": {
-        "title": "Incheon pagará 50 mil won extras por combustível caro a 220 mil vulneráveis",
-        "excerpt": "A cidade de Incheon informou que pagará 50 mil won adicionais, do dia 11 deste mês a 3 de julho, a 220 mil pessoas vulneráveis incluídas na primeira rodada de auxílio.",
-        "body": "A cidade de Incheon pagará 50 mil won adicionais por pessoa a 220 mil moradores vulneráveis que foram alvo da primeira rodada do auxílio por danos causados pelos altos preços dos combustíveis, entre o dia 11 deste mês e 3 de julho. A medida é um apoio extra a grupos vulneráveis que enfrentam maior pressão com o petróleo caro. Os beneficiários são aqueles que já receberam o primeiro pagamento, somando 220 mil pessoas. A prefeitura pretende efetuar os repasses no prazo definido para ajudar a reduzir despesas de vida e energia. A informação cita a Yonhap e anúncio de Incheon; fonte: yna.co.kr."
-      },
-      "de": {
-        "title": "Incheon zahlt 220.000 Bedürftigen zusätzliche 50.000 Won wegen hoher Ölpreise",
-        "excerpt": "Die Stadt Incheon teilte mit, dass 220.000 bedürftige Empfänger der ersten Hilfsrunde vom 11. dieses Monats bis zum 3. Juli zusätzlich je 50.000 Won erhalten.",
-        "body": "Die Stadt Incheon zahlt 220.000 bedürftigen Menschen, die zur ersten Runde der Hilfen wegen hoher Ölpreise gehörten, vom 11. dieses Monats bis zum 3. Juli zusätzlich je 50.000 Won. Die Maßnahme richtet sich an vulnerable Gruppen, deren Belastung durch hohe Ölpreise gestiegen ist. Anspruchsberechtigt sind Personen, die bereits die erste Unterstützungszahlung erhalten haben; insgesamt sind es 220.000 Menschen. Die Stadt will die Mittel im festgelegten Zeitraum auszahlen, um Lebenshaltungs- und Energiekosten zu entlasten. Der Artikel stützt sich auf Yonhap und Angaben der Stadt Incheon; Quelle: yna.co.kr."
-      },
-      "fr": {
-        "title": "Incheon versera 50 000 wons de plus à 220 000 personnes vulnérables",
-        "excerpt": "La ville d’Incheon a annoncé verser 50 000 wons supplémentaires, du 11 de ce mois au 3 juillet, à 220 000 personnes vulnérables déjà concernées par la première aide.",
-        "body": "La ville d’Incheon versera 50 000 wons supplémentaires par personne à 220 000 habitants vulnérables qui étaient bénéficiaires de la première aide liée aux effets des prix élevés du carburant, du 11 de ce mois au 3 juillet. Cette mesure vise les groupes vulnérables dont la charge s’est accrue avec la hausse des prix du pétrole. Les bénéficiaires sont ceux qui ont déjà reçu le premier versement, soit 220 000 personnes au total. La ville prévoit de payer l’aide durant la période fixée afin d’alléger les dépenses de vie et d’énergie. L’article cite Yonhap et Incheon; source : yna.co.kr."
-      },
-      "ar": {
-        "title": "إنتشون تدفع 50 ألف وون إضافية لـ220 ألفا من الفئات الضعيفة بسبب الوقود",
-        "excerpt": "قالت مدينة إنتشون إنها ستدفع 50 ألف وون إضافية لكل فرد من 220 ألف شخص من الفئات الضعيفة، وهم مستفيدو الدفعة الأولى، من يوم 11 هذا الشهر حتى 3 يوليو.",
-        "body": "ستدفع مدينة إنتشون 50 ألف وون إضافية لكل شخص من 220 ألفا من الفئات الضعيفة الذين كانوا ضمن مستفيدي الدفعة الأولى من دعم أضرار ارتفاع أسعار الوقود، وذلك من يوم 11 من هذا الشهر حتى 3 يوليو. ويأتي هذا الدعم كإجراء إضافي للفئات التي زادت أعباؤها بسبب ارتفاع أسعار النفط. ويشمل الصرف من سبق لهم تلقي الدفعة الأولى من الدعم، بإجمالي 220 ألف شخص. وتخطط المدينة لتنفيذ المدفوعات خلال الفترة المحددة للمساعدة في تخفيف تكاليف المعيشة والطاقة. تستند المعلومات إلى تقرير يونهاب وإعلان إنتشون؛ المصدر: yna.co.kr."
-      },
-      "hi": {
-        "title": "इंचियोन 22 लाख नहीं, 2.2 लाख कमजोर लोगों को 50,000 वॉन अतिरिक्त देगा",
-        "excerpt": "इंचियोन शहर ने कहा कि वह उच्च ईंधन मूल्य राहत की पहली किस्त पाने वाले 2.2 लाख कमजोर लोगों को इस महीने की 11 तारीख से 3 जुलाई तक प्रति व्यक्ति 50,000 वॉन अतिरिक्त देगा।",
-        "body": "इंचियोन शहर उच्च ईंधन कीमतों से नुकसान राहत की पहली भुगतान सूची में शामिल 2.2 लाख कमजोर लोगों को इस महीने की 11 तारीख से 3 जुलाई तक प्रति व्यक्ति 50,000 वॉन अतिरिक्त देगा। यह कदम ऊंची तेल कीमतों से बढ़े बोझ का सामना कर रहे कमजोर वर्गों के लिए अतिरिक्त सहायता है। पात्र वे लोग हैं जिन्हें पहले दौर की राहत राशि मिल चुकी है, और कुल संख्या 2.2 लाख है। शहर निर्धारित अवधि में भुगतान कर जीवनयापन और ऊर्जा खर्च का दबाव कम करने में मदद करना चाहता है। यह सामग्री योनहाप समाचार और इंचियोन शहर की घोषणा पर आधारित है; स्रोत: yna.co.kr."
-      },
-      "id": {
-        "title": "Incheon Tambah Bantuan Harga BBM, 220.000 Warga Rentan Terima 50.000 Won",
-        "excerpt": "Kota Incheon menyatakan akan membayar tambahan 50.000 won per orang kepada 220.000 warga rentan penerima tahap pertama bantuan dampak harga BBM tinggi mulai tanggal 11 bulan ini hingga 3 Juli.",
-        "body": "Kota Incheon akan membayar tambahan 50.000 won per orang kepada 220.000 warga rentan yang menjadi penerima tahap pertama bantuan dampak harga bahan bakar tinggi, mulai tanggal 11 bulan ini hingga 3 Juli. Dukungan ini merupakan langkah tambahan bagi kelompok rentan yang bebannya meningkat akibat harga minyak yang tinggi. Penerimanya adalah warga yang sebelumnya telah menerima pembayaran bantuan tahap pertama, dengan total 220.000 orang. Pemerintah kota berencana menyalurkan dana dalam periode yang ditetapkan untuk membantu meringankan biaya hidup dan energi. Informasi ini mengutip laporan Yonhap dan pengumuman Incheon; sumber: yna.co.kr."
       }
     }
   }
