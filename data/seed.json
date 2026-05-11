@@ -1,5 +1,230 @@
 [
   {
+    "id": "5197b89ea1b5",
+    "slug": "금감원-상장사-감리-주기-대폭-단축-213649",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-05-11T21:54:54.284Z",
+    "updatedAt": "2026-05-11T21:54:54.284Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/2026051190611",
+    "canonicalUrl": "https://www.hankyung.com/article/2026051190611",
+    "titleFingerprint": "c3a328252a41adab042c264daa0524f0af9f78de",
+    "dedupKeys": [
+      "5197b89ea1b5525ca279be1c5f89bcbe95c82fd8",
+      "c3a328252a41adab042c264daa0524f0af9f78de",
+      "a889f84b881c793c721f63dc39495b70e7fa92e5"
+    ],
+    "imageUrl": "/images/articles/5197b89ea1b5.png",
+    "i18n": {
+      "ko": {
+        "title": "금감원 상장사 감리 주기 단축…코스피200 10년 로드맵 추진",
+        "excerpt": "금융감독원은 2026년 회계심사·감리 운영계획을 통해 상장사 감리 주기를 줄이고 올해 170개사와 회계법인 10곳을 점검한다고 밝혔다.",
+        "body": "금융감독원은 3월 29일 ‘2026년도 회계심사·감리업무 운영계획’을 발표하고 상장사 회계심사·감리 주기를 대폭 단축하겠다고 밝혔다. 올해 재무제표 심사·감리 대상은 상장법인 등 170개사로 전년보다 10곳 늘었고, 감사인 감리는 회계법인 10곳을 대상으로 진행된다. 금감원은 현재 20년에 달하는 코스피200 기업의 심사·감리 주기를 10년으로 줄이는 중장기 로드맵을 마련하기로 했다. CB 발행, 금융약정 등 4대 테마 점검도 병행한다. 회계부정 기업과 감사인 제재를 강화해 부실기업의 신속한 퇴출을 유도한다는 방침이다. 출처: hankyung.com."
+      },
+      "en": {
+        "title": "FSS to Shorten Listed-Firm Review Cycle, Targeting 10 Years for KOSPI 200",
+        "excerpt": "South Korea’s Financial Supervisory Service said in its 2026 accounting review plan that it will inspect 170 companies and 10 audit firms while shortening review cycles.",
+        "body": "South Korea’s Financial Supervisory Service announced its 2026 accounting review and inspection plan on March 29, saying it will sharply shorten the accounting review cycle for listed companies. This year, the agency will review or inspect financial statements at 170 companies, including listed firms, up 10 from the previous year, and conduct auditor inspections at 10 accounting firms. The FSS plans a medium- to long-term roadmap to cut the KOSPI 200 company review cycle from about 20 years to 10 years. It will also examine four themes, including convertible bond issuance and financial covenants. The agency said stronger sanctions on accounting fraud and auditors are aimed at speeding the exit of weak companies. Source: hankyung.com."
+      },
+      "ja": {
+        "title": "金融監督院、上場企業の監理周期短縮へ…KOSPI200は10年目標",
+        "excerpt": "韓国金融監督院は2026年の会計審査・監理計画で、上場企業など170社と会計法人10社を対象に点検し、監理周期を短縮すると明らかにした。",
+        "body": "韓国金融監督院は3月29日、「2026年度会計審査・監理業務運営計画」を発表し、上場企業の会計審査・監理周期を大幅に短縮すると明らかにした。今年の財務諸表審査・監理対象は上場法人など170社で、前年より10社増えた。監査人監理は会計法人10社を対象に行う。金融監督院は、現在約20年に及ぶKOSPI200企業の審査・監理周期を10年に縮める中長期ロードマップを策定する方針だ。転換社債発行や金融約定など4テーマの点検も並行する。会計不正企業と監査人への制裁を強化し、不良企業の速やかな退出を促す狙いだ。出典: hankyung.com."
+      },
+      "zh": {
+        "title": "韩国金融监督院缩短上市公司审查周期，KOSPI200拟降至10年",
+        "excerpt": "韩国金融监督院在2026年会计审查和监管计划中表示，将检查170家公司和10家会计师事务所，并缩短上市公司审查周期。",
+        "body": "韩国金融监督院3月29日发布《2026年度会计审查和监管业务运营计划》，表示将大幅缩短上市公司的会计审查和监管周期。今年财务报表审查和监管对象为包括上市法人在内的170家公司，较上年增加10家；审计人监管对象为10家会计师事务所。金融监督院计划制定中长期路线图，把目前长达约20年的KOSPI200企业审查和监管周期缩短至10年。该机构还将同步检查可转债发行、金融约定等四大主题。其方针是强化对会计舞弊企业和审计人的制裁，推动问题企业更快退出。来源: hankyung.com."
+      },
+      "es": {
+        "title": "El FSS acorta la revisión de cotizadas y apunta a 10 años en KOSPI 200",
+        "excerpt": "El Servicio de Supervisión Financiera de Corea anunció en su plan contable de 2026 revisiones a 170 empresas y 10 auditoras, con ciclos más cortos para cotizadas.",
+        "body": "El Servicio de Supervisión Financiera de Corea anunció el 29 de marzo su plan operativo de revisión e inspección contable para 2026 y dijo que reducirá de forma marcada el ciclo de supervisión contable de las empresas cotizadas. Este año revisará o inspeccionará estados financieros de 170 compañías, incluidas firmas listadas, 10 más que el año anterior, y supervisará a 10 firmas de auditoría. El FSS preparará una hoja de ruta de medio y largo plazo para reducir de unos 20 años a 10 años el ciclo de revisión de las compañías del KOSPI 200. También revisará cuatro temas, entre ellos emisiones de bonos convertibles y acuerdos financieros. El objetivo es reforzar sanciones por fraude contable y acelerar la salida de empresas débiles. Fuente: hankyung.com."
+      },
+      "pt": {
+        "title": "FSS encurta ciclo de revisão de listadas e mira 10 anos no KOSPI 200",
+        "excerpt": "O Serviço de Supervisão Financeira da Coreia disse no plano contábil de 2026 que analisará 170 empresas e 10 auditorias, reduzindo ciclos de fiscalização.",
+        "body": "O Serviço de Supervisão Financeira da Coreia anunciou em 29 de março o plano operacional de revisão e fiscalização contábil para 2026 e informou que reduzirá de forma significativa o ciclo de análise contábil das companhias listadas. Neste ano, a autarquia fará revisão ou fiscalização das demonstrações financeiras de 170 empresas, incluindo companhias abertas, 10 a mais que no ano anterior, além de inspecionar 10 firmas de auditoria. O FSS planeja um roteiro de médio e longo prazo para cortar de cerca de 20 anos para 10 anos o ciclo das empresas do KOSPI 200. Também verificará quatro temas, como emissão de bônus conversíveis e acordos financeiros. A medida busca endurecer sanções por fraude contábil e acelerar a saída de empresas frágeis. Fonte: hankyung.com."
+      },
+      "de": {
+        "title": "FSS verkürzt Prüfzyklus für Börsenfirmen, KOSPI 200 soll auf 10 Jahre",
+        "excerpt": "Südkoreas Finanzaufsicht kündigte im Plan für 2026 Prüfungen bei 170 Unternehmen und 10 Wirtschaftsprüfungsgesellschaften sowie kürzere Zyklen an.",
+        "body": "Südkoreas Finanzaufsicht FSS stellte am 29. März ihren Betriebsplan für Rechnungslegungsprüfungen und Aufsicht im Jahr 2026 vor und kündigte an, den Prüfzyklus für börsennotierte Unternehmen deutlich zu verkürzen. In diesem Jahr sollen die Abschlüsse von 170 Unternehmen, darunter gelistete Gesellschaften, überprüft oder beaufsichtigt werden, 10 mehr als im Vorjahr. Zudem sind Prüfungen bei 10 Wirtschaftsprüfungsgesellschaften vorgesehen. Die FSS will eine mittel- bis langfristige Roadmap ausarbeiten, um den Zyklus für KOSPI-200-Unternehmen von derzeit rund 20 Jahren auf 10 Jahre zu senken. Auch vier Themen wie Wandelanleiheemissionen und Finanzvereinbarungen werden geprüft. Ziel sind strengere Sanktionen bei Bilanzbetrug und ein schnellerer Marktaustritt schwacher Unternehmen. Quelle: hankyung.com."
+      },
+      "fr": {
+        "title": "Le FSS réduit le cycle de contrôle des cotées, objectif 10 ans pour KOSPI 200",
+        "excerpt": "Le régulateur financier coréen a annoncé dans son plan comptable 2026 des contrôles sur 170 sociétés et 10 cabinets d’audit, avec des cycles raccourcis.",
+        "body": "Le Service de supervision financière de Corée a présenté le 29 mars son plan opérationnel 2026 de revue et de contrôle comptables, en indiquant qu’il réduirait fortement le cycle de contrôle des sociétés cotées. Cette année, l’autorité examinera ou contrôlera les états financiers de 170 entreprises, dont des sociétés cotées, soit 10 de plus que l’année précédente, et mènera des contrôles auprès de 10 cabinets d’audit. Le FSS prévoit une feuille de route à moyen et long terme pour ramener d’environ 20 ans à 10 ans le cycle applicable aux sociétés du KOSPI 200. Quatre thèmes, dont les émissions d’obligations convertibles et les engagements financiers, seront aussi vérifiés. L’objectif est de renforcer les sanctions contre la fraude comptable et d’accélérer la sortie des entreprises fragiles. Source: hankyung.com."
+      },
+      "ar": {
+        "title": "الرقابة المالية الكورية تقلص دورة فحص الشركات المدرجة إلى 10 سنوات لكوسبي 200",
+        "excerpt": "أعلنت هيئة الرقابة المالية الكورية في خطة المحاسبة لعام 2026 أنها ستفحص 170 شركة و10 مكاتب تدقيق، مع تقصير دورة الرقابة على الشركات المدرجة.",
+        "body": "أعلنت هيئة الرقابة المالية في كوريا الجنوبية في 29 مارس خطة تشغيل أعمال الفحص والرقابة المحاسبية لعام 2026، وقالت إنها ستقلص بدرجة كبيرة دورة فحص الشركات المدرجة. وتشمل خطة هذا العام مراجعة أو فحص القوائم المالية لـ170 شركة، بينها شركات مدرجة، بزيادة 10 شركات عن العام السابق، إضافة إلى رقابة على 10 مكاتب تدقيق. وتعتزم الهيئة إعداد خريطة طريق متوسطة وطويلة الأجل لخفض دورة فحص شركات KOSPI 200 من نحو 20 عاما حاليا إلى 10 سنوات. وستفحص أيضا أربعة موضوعات، منها إصدار السندات القابلة للتحويل والاتفاقات المالية. وتهدف الخطة إلى تشديد العقوبات على الاحتيال المحاسبي والمدققين وتسريع خروج الشركات الضعيفة. المصدر: hankyung.com."
+      },
+      "hi": {
+        "title": "FSS सूचीबद्ध कंपनियों की समीक्षा अवधि घटाएगा, KOSPI 200 के लिए 10 साल लक्ष्य",
+        "excerpt": "दक्षिण कोरिया के वित्तीय पर्यवेक्षण सेवा ने 2026 लेखा समीक्षा योजना में 170 कंपनियों और 10 ऑडिट फर्मों की जांच तथा समीक्षा चक्र घटाने की बात कही।",
+        "body": "दक्षिण कोरिया की वित्तीय पर्यवेक्षण सेवा ने 29 मार्च को 2026 के लेखा समीक्षा और निरीक्षण कार्य योजना की घोषणा की और कहा कि वह सूचीबद्ध कंपनियों के लेखा समीक्षा चक्र को काफी घटाएगी। इस वर्ष एजेंसी सूचीबद्ध कंपनियों सहित 170 कंपनियों के वित्तीय विवरणों की समीक्षा या निरीक्षण करेगी, जो पिछले वर्ष से 10 अधिक हैं, और 10 लेखा फर्मों के ऑडिटर निरीक्षण भी करेगी। FSS मौजूदा लगभग 20 वर्ष के KOSPI 200 कंपनी समीक्षा चक्र को 10 वर्ष तक घटाने के लिए मध्यम और दीर्घकालिक रोडमैप तैयार करेगा। परिवर्तनीय बॉन्ड जारी करने और वित्तीय अनुबंधों सहित चार विषयों की जांच भी साथ चलेगी। उद्देश्य लेखा धोखाधड़ी करने वाली कंपनियों और ऑडिटरों पर प्रतिबंध मजबूत कर कमजोर कंपनियों की शीघ्र निकासी को बढ़ाना है। स्रोत: hankyung.com."
+      },
+      "id": {
+        "title": "FSS Pangkas Siklus Pemeriksaan Emiten, Target KOSPI 200 Jadi 10 Tahun",
+        "excerpt": "Otoritas Pengawas Keuangan Korea dalam rencana akuntansi 2026 menyatakan akan memeriksa 170 perusahaan dan 10 firma audit sambil memangkas siklus emiten.",
+        "body": "Otoritas Pengawas Keuangan Korea Selatan mengumumkan rencana operasional pemeriksaan dan pengawasan akuntansi 2026 pada 29 Maret, dan menyatakan akan memangkas tajam siklus pemeriksaan akuntansi perusahaan tercatat. Tahun ini, FSS akan meninjau atau memeriksa laporan keuangan 170 perusahaan, termasuk emiten, naik 10 dari tahun sebelumnya, serta melakukan pengawasan auditor terhadap 10 firma akuntansi. FSS akan menyusun peta jalan jangka menengah dan panjang untuk mengurangi siklus pemeriksaan perusahaan KOSPI 200 dari sekitar 20 tahun menjadi 10 tahun. Pemeriksaan juga mencakup empat tema, termasuk penerbitan obligasi konversi dan perjanjian keuangan. Kebijakan ini bertujuan memperkuat sanksi atas kecurangan akuntansi dan auditor, serta mendorong keluarnya perusahaan lemah lebih cepat. Sumber: hankyung.com."
+      }
+    }
+  },
+  {
+    "id": "493c005bb1e7",
+    "slug": "불장에-날아오른-증권株미래에셋-日노무라-추월-467843",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-05-11T21:53:42.442Z",
+    "updatedAt": "2026-05-11T21:53:42.442Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/2026051191281",
+    "canonicalUrl": "https://www.hankyung.com/article/2026051191281",
+    "titleFingerprint": "d42ad025862a63591c58c5a7c3b27f3dffc48b0e",
+    "dedupKeys": [
+      "493c005bb1e799af114e6c9463b6a2eb2aa51f65",
+      "d42ad025862a63591c58c5a7c3b27f3dffc48b0e",
+      "30a2bc9fd7668917262e9f43d97c7db03368b946"
+    ],
+    "imageUrl": "/images/articles/493c005bb1e7.jpg",
+    "i18n": {
+      "ko": {
+        "title": "미래에셋증권, 日 노무라 시총 추월…불장·거래대금 급증에 증권주 대장주 부상",
+        "excerpt": "미래에셋증권은 2026년 5월 11일 종가 기준 시가총액 44조4296억원을 기록해 일본 노무라홀딩스를 9조원 이상 앞섰고, 증시 호황과 거래대금 증가가 증권주 강세를 이끌었다.",
+        "body": "미래에셋증권이 2026년 5월 11일 종가 기준 일본 노무라홀딩스의 시가총액을 넘어섰다. 한국거래소에 따르면 미래에셋증권 시총은 44조4296억원으로 노무라홀딩스 3조8000억엔, 약 35조원을 9조원 넘게 웃돌았다. 지난해 말만 해도 미래에셋증권 시총은 노무라의 3분의 1 수준이었다. 올해 들어 코스피 질주, 5월 하루 평균 거래대금 60조원 돌파, 스페이스X 투자 기대가 겹치며 주가가 240% 올랐다. 삼성증권, NH투자증권, 한국금융지주, 키움증권도 올해 큰 폭으로 상승했다. 시장은 미래에셋증권의 1분기 영업이익 1조원 가능성에도 주목하고 있다. 출처: hankyung.com"
+      },
+      "en": {
+        "title": "Mirae Asset Securities Tops Nomura in Market Cap as Bull Market Lifts Broker Stocks",
+        "excerpt": "As of the May 11, 2026 close, Mirae Asset Securities reached a market value of 44.4296 trillion won, more than 9 trillion won above Nomura Holdings, as Korea’s bull market and trading surge boosted broker shares.",
+        "body": "Mirae Asset Securities surpassed Japan’s Nomura Holdings in market capitalization as of the close on May 11, 2026. According to the Korea Exchange, Mirae Asset Securities was valued at 44.4296 trillion won, more than 9 trillion won above Nomura Holdings, whose value was 3.8 trillion yen, or about 35 trillion won. At the end of last year, Mirae Asset’s market value was only about one third of Nomura’s. This year, a strong Kospi rally, average daily stock-market trading value above 60 trillion won in May, and expectations tied to SpaceX investments pushed its share price up 240%. Samsung Securities, NH Investment & Securities, Korea Investment Holdings and Kiwoom Securities also posted sharp gains this year. The market is watching whether Mirae Asset Securities can report 1 trillion won in first-quarter operating profit. Source: hankyung.com"
+      },
+      "ja": {
+        "title": "未来アセット証券、野村HDの時価総額を逆転　強気相場で証券株が急浮上",
+        "excerpt": "2026年5月11日終値基準で未来アセット証券の時価総額は44兆4296億ウォンとなり、野村ホールディングスを9兆ウォン超上回った。株式市場の活況と売買代金増加が証券株を押し上げた。",
+        "body": "未来アセット証券は2026年5月11日の終値基準で、日本の野村ホールディングスの時価総額を上回った。韓国取引所によると、未来アセット証券の時価総額は44兆4296億ウォンで、野村ホールディングスの3兆8000億円、約35兆ウォンを9兆ウォン超上回った。昨年末時点では、未来アセット証券の時価総額は野村の約3分の1にすぎなかった。今年に入り、KOSPIの上昇、5月の株式市場の1日平均売買代金60兆ウォン突破、スペースX投資への期待が重なり、株価は240%上昇した。サムスン証券、NH投資証券、韓国金融持株、キウム証券も今年大きく上昇した。市場は未来アセット証券が第1四半期に営業利益1兆ウォンを達成する可能性にも注目している。出典: hankyung.com"
+      },
+      "zh": {
+        "title": "未来资产证券市值超越野村控股，牛市与成交额激增推升券商股",
+        "excerpt": "截至2026年5月11日收盘，未来资产证券市值达44.4296万亿韩元，较日本野村控股高出逾9万亿韩元，韩国股市繁荣和成交额增长带动券商股走强。",
+        "body": "截至2026年5月11日收盘，未来资产证券的市值超过了日本野村控股。韩国交易所数据显示，未来资产证券市值为44.4296万亿韩元，较野村控股3.8万亿日元、约35万亿韩元的市值高出逾9万亿韩元。去年年底，未来资产证券市值还仅为野村的约三分之一。今年以来，KOSPI强劲上涨、5月股票市场日均成交额突破60万亿韩元，以及市场对SpaceX投资的期待共同推动其股价上涨240%。三星证券、NH投资证券、韩国金融控股和Kiwoom证券今年也大幅上涨。市场同时关注未来资产证券第一季度营业利润是否可能达到1万亿韩元。来源: hankyung.com"
+      },
+      "es": {
+        "title": "Mirae Asset Securities supera a Nomura en valor bursátil por el auge del mercado",
+        "excerpt": "Al cierre del 11 de mayo de 2026, Mirae Asset Securities alcanzó 44,4296 billones de wones en capitalización, más de 9 billones por encima de Nomura Holdings, impulsada por el auge bursátil y el aumento del volumen negociado.",
+        "body": "Mirae Asset Securities superó a la japonesa Nomura Holdings en capitalización bursátil al cierre del 11 de mayo de 2026. Según Korea Exchange, la firma surcoreana valía 44,4296 billones de wones, más de 9 billones por encima de Nomura Holdings, valorada en 3,8 billones de yenes, unos 35 billones de wones. A finales del año pasado, la capitalización de Mirae Asset era apenas un tercio de la de Nomura. Este año, el avance del Kospi, el volumen medio diario de negociación por encima de 60 billones de wones en mayo y las expectativas por inversiones ligadas a SpaceX elevaron su acción un 240%. Samsung Securities, NH Investment & Securities, Korea Investment Holdings y Kiwoom Securities también subieron con fuerza este año. El mercado observa si Mirae Asset Securities puede lograr 1 billón de wones de beneficio operativo en el primer trimestre. Fuente: hankyung.com"
+      },
+      "pt": {
+        "title": "Mirae Asset Securities supera Nomura em valor de mercado com alta das corretoras",
+        "excerpt": "No fechamento de 11 de maio de 2026, a Mirae Asset Securities atingiu 44,4296 trilhões de wons em valor de mercado, mais de 9 trilhões acima da Nomura Holdings, com apoio da bolsa aquecida e do maior volume negociado.",
+        "body": "A Mirae Asset Securities superou a japonesa Nomura Holdings em valor de mercado no fechamento de 11 de maio de 2026. Segundo a Korea Exchange, a Mirae Asset Securities valia 44,4296 trilhões de wons, mais de 9 trilhões acima da Nomura Holdings, avaliada em 3,8 trilhões de ienes, cerca de 35 trilhões de wons. No fim do ano passado, o valor da Mirae Asset era apenas um terço do da Nomura. Em 2026, a disparada do Kospi, o volume médio diário de negociação acima de 60 trilhões de wons em maio e as expectativas ligadas a investimentos na SpaceX elevaram a ação em 240%. Samsung Securities, NH Investment & Securities, Korea Investment Holdings e Kiwoom Securities também avançaram fortemente neste ano. O mercado acompanha se a Mirae Asset Securities poderá registrar 1 trilhão de wons em lucro operacional no primeiro trimestre. Fonte: hankyung.com"
+      },
+      "de": {
+        "title": "Mirae Asset Securities überholt Nomura beim Börsenwert dank Rally der Brokeraktien",
+        "excerpt": "Zum Schlusskurs am 11. Mai 2026 kam Mirae Asset Securities auf 44,4296 Billionen Won Börsenwert und lag damit mehr als 9 Billionen Won über Nomura Holdings, gestützt durch Koreas Börsenboom und steigende Umsätze.",
+        "body": "Mirae Asset Securities hat zum Schlusskurs am 11. Mai 2026 die japanische Nomura Holdings beim Börsenwert überholt. Nach Angaben der Korea Exchange lag die Marktkapitalisierung von Mirae Asset Securities bei 44,4296 Billionen Won und damit mehr als 9 Billionen Won über Nomura Holdings mit 3,8 Billionen Yen, rund 35 Billionen Won. Ende vergangenen Jahres betrug der Wert von Mirae Asset noch nur etwa ein Drittel von Nomura. In diesem Jahr trieben der starke Kospi-Anstieg, ein durchschnittlicher täglicher Aktienumsatz von mehr als 60 Billionen Won im Mai und Erwartungen rund um SpaceX-Investitionen die Aktie um 240% nach oben. Auch Samsung Securities, NH Investment & Securities, Korea Investment Holdings und Kiwoom Securities legten stark zu. Der Markt achtet nun darauf, ob Mirae Asset Securities im ersten Quartal 1 Billion Won operativen Gewinn erreichen kann. Quelle: hankyung.com"
+      },
+      "fr": {
+        "title": "Mirae Asset Securities dépasse Nomura en capitalisation avec l’envolée des courtiers",
+        "excerpt": "Au cours de clôture du 11 mai 2026, Mirae Asset Securities valait 44,4296 billions de wons, soit plus de 9 billions de wons de plus que Nomura Holdings, portée par le marché haussier coréen et la hausse des échanges.",
+        "body": "Mirae Asset Securities a dépassé le japonais Nomura Holdings en capitalisation boursière à la clôture du 11 mai 2026. Selon Korea Exchange, Mirae Asset Securities valait 44,4296 billions de wons, soit plus de 9 billions de wons de plus que Nomura Holdings, valorisé 3,8 billions de yens, environ 35 billions de wons. À la fin de l’an dernier, la capitalisation de Mirae Asset ne représentait encore qu’environ un tiers de celle de Nomura. Cette année, la progression du Kospi, un volume quotidien moyen d’échanges supérieur à 60 billions de wons en mai et les attentes liées aux investissements dans SpaceX ont fait bondir l’action de 240%. Samsung Securities, NH Investment & Securities, Korea Investment Holdings et Kiwoom Securities ont aussi fortement progressé. Le marché surveille la possibilité que Mirae Asset Securities atteigne 1 billion de wons de résultat opérationnel au premier trimestre. Source: hankyung.com"
+      },
+      "ar": {
+        "title": "ميراي أست سكيوريتيز تتجاوز نومورا في القيمة السوقية مع صعود أسهم الوساطة",
+        "excerpt": "عند إغلاق 11 مايو 2026، بلغت القيمة السوقية لميراي أست سكيوريتيز 44.4296 تريليون وون، متقدمة بأكثر من 9 تريليونات وون على نومورا هولدينغز، بدعم من ازدهار السوق الكورية وارتفاع التداولات.",
+        "body": "تجاوزت ميراي أست سكيوريتيز اليابانية نومورا هولدينغز في القيمة السوقية عند إغلاق 11 مايو 2026. ووفق بورصة كوريا، بلغت قيمة ميراي أست سكيوريتيز 44.4296 تريليون وون، أي أكثر من 9 تريليونات وون فوق نومورا هولدينغز البالغة قيمتها 3.8 تريليون ين، أو نحو 35 تريليون وون. وفي نهاية العام الماضي، كانت قيمة ميراي أست تعادل نحو ثلث قيمة نومورا فقط. هذا العام، أدى صعود مؤشر كوسبي، وتجاوز متوسط قيمة التداول اليومية في مايو 60 تريليون وون، وتوقعات استثمارات مرتبطة بسبيس إكس، إلى ارتفاع السهم 240%. كما سجلت سامسونغ سكيوريتيز وNH إنفستمنت آند سكيوريتيز وكوريا إنفستمنت هولدينغز وكيوم سكيوريتيز مكاسب قوية هذا العام. ويراقب السوق احتمال تحقيق ميراي أست سكيوريتيز ربحا تشغيليا قدره 1 تريليون وون في الربع الأول. المصدر: hankyung.com"
+      },
+      "hi": {
+        "title": "मिरे एसेट सिक्योरिटीज ने बाजार मूल्य में नोमुरा को पछाड़ा, ब्रोकरेज शेयर चढ़े",
+        "excerpt": "11 मई 2026 के बंद भाव पर मिरे एसेट सिक्योरिटीज का बाजार मूल्य 44.4296 ट्रिलियन वॉन रहा, जो नोमुरा होल्डिंग्स से 9 ट्रिलियन वॉन से अधिक ऊपर था; कोरियाई बाजार की तेजी और कारोबार बढ़ने से ब्रोकरेज शेयर मजबूत हुए।",
+        "body": "मिरे एसेट सिक्योरिटीज ने 11 मई 2026 के बंद भाव पर जापान की नोमुरा होल्डिंग्स को बाजार पूंजीकरण में पीछे छोड़ दिया। कोरिया एक्सचेंज के अनुसार, मिरे एसेट सिक्योरिटीज का बाजार मूल्य 44.4296 ट्रिलियन वॉन था, जो नोमुरा होल्डिंग्स के 3.8 ट्रिलियन येन, यानी करीब 35 ट्रिलियन वॉन, से 9 ट्रिलियन वॉन से अधिक था। पिछले साल के अंत में मिरे एसेट का बाजार मूल्य नोमुरा का लगभग एक तिहाई ही था। इस साल कोस्पी की तेज बढ़त, मई में शेयर बाजार का औसत दैनिक कारोबार 60 ट्रिलियन वॉन से ऊपर जाना और SpaceX निवेश से जुड़ी उम्मीदों ने इसके शेयर को 240% ऊपर पहुंचाया। Samsung Securities, NH Investment & Securities, Korea Investment Holdings और Kiwoom Securities में भी इस साल तेज उछाल आया। बाजार यह भी देख रहा है कि क्या मिरे एसेट सिक्योरिटीज पहली तिमाही में 1 ट्रिलियन वॉन का परिचालन लाभ दर्ज कर सकती है। स्रोत: hankyung.com"
+      },
+      "id": {
+        "title": "Mirae Asset Securities Lampaui Nomura dalam Nilai Pasar Saat Saham Sekuritas Melonjak",
+        "excerpt": "Pada penutupan 11 Mei 2026, nilai pasar Mirae Asset Securities mencapai 44,4296 triliun won, lebih dari 9 triliun won di atas Nomura Holdings, terdorong reli pasar saham Korea dan lonjakan nilai transaksi.",
+        "body": "Mirae Asset Securities melampaui Nomura Holdings dari Jepang dalam kapitalisasi pasar pada penutupan 11 Mei 2026. Menurut Korea Exchange, nilai pasar Mirae Asset Securities mencapai 44,4296 triliun won, lebih dari 9 triliun won di atas Nomura Holdings yang bernilai 3,8 triliun yen, atau sekitar 35 triliun won. Pada akhir tahun lalu, nilai pasar Mirae Asset baru sekitar sepertiga dari Nomura. Tahun ini, reli Kospi, nilai transaksi harian rata-rata pasar saham yang menembus 60 triliun won pada Mei, serta ekspektasi investasi terkait SpaceX mendorong sahamnya naik 240%. Samsung Securities, NH Investment & Securities, Korea Investment Holdings, dan Kiwoom Securities juga naik tajam tahun ini. Pasar mencermati apakah Mirae Asset Securities dapat mencatat laba operasional 1 triliun won pada kuartal pertama. Sumber: hankyung.com"
+      }
+    }
+  },
+  {
+    "id": "5968ef7ebe9c",
+    "slug": "요즘-주가-떨어진다하면-몰매-맞죠목표가-상향보고서-1331건-704987",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-05-11T21:52:21.566Z",
+    "updatedAt": "2026-05-11T21:52:21.566Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/stock/12044166",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12044166",
+    "titleFingerprint": "7f6f8736f02a15f46dee3b15f26e8d211ba4c220",
+    "dedupKeys": [
+      "5968ef7ebe9c239f9b12a8a728fc54a6c7ae66ed",
+      "7f6f8736f02a15f46dee3b15f26e8d211ba4c220",
+      "7c95183006975aa43445896ddbfac52175975afd"
+    ],
+    "imageUrl": "/images/articles/5968ef7ebe9c.jpg",
+    "i18n": {
+      "ko": {
+        "title": "목표주가 상향 보고서 1331건, 반도체 랠리에 증권가 시선 급변",
+        "excerpt": "코스피가 반도체 랠리로 8000선에 다가서자 증권가에서 목표주가 상향 보고서가 1331건으로 늘며 유지 의견보다 많은 이례적 흐름이 나타났다.",
+        "body": "반도체 랠리로 코스피가 8000선에 다가서자 최근 증권가의 목표주가 상향 움직임이 빨라지고 있다. 원문에 따르면 목표주가 상향 보고서는 1331건으로 집계됐고, 이례적으로 목표가 유지 보고서보다 많았다. 배경에는 주도주인 반도체주 이익 추정치의 급증이 있다. 반도체 업종에서 시작된 온기는 증권과 방산 등 다른 업종으로도 확산되는 흐름이다. 주가 하락 의견을 내기 부담스러운 분위기 속에서, 시장은 실적 전망 상향과 목표가 조정이 어느 업종까지 이어질지 주목하고 있다. 출처: mk.co.kr."
+      },
+      "en": {
+        "title": "1,331 Price Target Upgrade Reports as Chip Rally Shifts Broker Views",
+        "excerpt": "As the Kospi nears 8,000 on a semiconductor rally, brokerages have issued 1,331 price target upgrade reports, an unusual tally exceeding hold-target reports.",
+        "body": "As the semiconductor rally pushes the Kospi toward the 8,000 level, South Korean brokerages are moving faster to raise target prices. According to the source text, price target upgrade reports totaled 1,331, unusually outnumbering reports that kept targets unchanged. The backdrop is a sharp rise in earnings estimates for leading semiconductor stocks. The momentum that began in chips is also spreading to securities and defense shares. In an atmosphere where bearish calls on share prices carry pressure, investors are watching how far earnings upgrades and target-price revisions extend across sectors. Source: mk.co.kr."
+      },
+      "ja": {
+        "title": "目標株価引き上げ報告1331件、半導体ラリーで証券街が急変",
+        "excerpt": "半導体ラリーでKOSPIが8000台に近づくなか、証券街では目標株価引き上げ報告が1331件に増え、据え置きを上回る異例の流れとなった。",
+        "body": "半導体ラリーでKOSPIが8000台に近づくなか、韓国の証券街では目標株価を引き上げる動きが速まっている。原文によると、目標株価引き上げ報告は1331件に集計され、目標株価を維持する報告を上回る異例の状況となった。背景には、主導株である半導体株の利益見通しが急増していることがある。半導体から始まった温気は、証券や防衛産業など他業種にも広がっている。株価下落の見方を出しにくい雰囲気のなか、市場は業績見通しの上方修正と目標株価調整がどの業種まで続くかを注視している。出典: mk.co.kr."
+      },
+      "zh": {
+        "title": "目标价上调报告达1331份，半导体行情推动券商观点转向",
+        "excerpt": "随着半导体行情推动KOSPI逼近8000点，券商目标价上调报告增至1331份，罕见超过维持目标价的报告数量。",
+        "body": "在半导体行情推动KOSPI逼近8000点之际，韩国券商上调目标股价的动作正在加快。原文显示，目标价上调报告共计1331份，罕见地多于维持目标价的报告。其背景是作为主导板块的半导体股盈利预期大幅上升。由半导体板块开启的热度，也正在向证券、军工等行业扩散。在提出股价下跌观点压力较大的氛围下，市场正关注盈利预期上修和目标价调整会延伸到哪些行业。来源: mk.co.kr."
+      },
+      "es": {
+        "title": "1.331 informes elevan precios objetivo por el rally de semiconductores",
+        "excerpt": "Con el Kospi acercándose a 8.000 por el rally de semiconductores, las corredoras emitieron 1.331 informes de alza de precio objetivo, superando los de mantenimiento.",
+        "body": "A medida que el rally de semiconductores acerca al Kospi al nivel de 8.000, las firmas de valores surcoreanas aceleran las revisiones al alza de precios objetivo. Según el texto original, los informes que elevaron precios objetivo sumaron 1.331 y, de forma inusual, superaron a los informes que los mantuvieron. El contexto es un fuerte aumento de las estimaciones de beneficios para las principales acciones de semiconductores. El impulso iniciado en ese sector también se extiende a valores de corretaje y defensa. En un ambiente en el que resulta difícil emitir opiniones bajistas sobre las acciones, el mercado observa hasta qué sectores llegarán las mejoras de beneficios y los ajustes de precios objetivo. Fuente: mk.co.kr."
+      },
+      "pt": {
+        "title": "1.331 relatórios elevam preços-alvo com rali de semicondutores",
+        "excerpt": "Com o Kospi perto dos 8.000 pontos graças ao rali de semicondutores, corretoras emitiram 1.331 relatórios de alta de preço-alvo, acima dos de manutenção.",
+        "body": "À medida que o rali de semicondutores leva o Kospi para perto dos 8.000 pontos, as corretoras sul-coreanas aceleram os aumentos de preços-alvo. Segundo o texto original, os relatórios com elevação de preço-alvo somaram 1.331 e, de forma incomum, superaram os relatórios que mantiveram os alvos. O pano de fundo é o salto nas estimativas de lucro das ações líderes de semicondutores. O aquecimento iniciado no setor também se espalha para ações de corretoras e defesa. Em um ambiente no qual opiniões de queda para ações geram pressão, o mercado acompanha até onde irão as revisões de lucro e os ajustes de preço-alvo. Fonte: mk.co.kr."
+      },
+      "de": {
+        "title": "1.331 Kursziel-Anhebungen: Chip-Rally verändert Analystenblick",
+        "excerpt": "Da der Kospi dank der Halbleiter-Rally nahe an 8.000 Punkte rückt, meldeten Broker 1.331 Kursziel-Anhebungen, ungewöhnlich mehr als unveränderte Ziele.",
+        "body": "Während die Halbleiter-Rally den Kospi in Richtung der Marke von 8.000 Punkten treibt, erhöhen südkoreanische Wertpapierhäuser schneller ihre Kursziele. Dem Ausgangstext zufolge wurden 1.331 Berichte mit Kursziel-Anhebungen gezählt, ungewöhnlich mehr als Berichte mit unveränderten Zielen. Hintergrund ist der starke Anstieg der Gewinnschätzungen für führende Halbleiteraktien. Die von Chips ausgehende Dynamik breitet sich zudem auf Wertpapier- und Rüstungsaktien aus. In einem Umfeld, in dem fallende Kursprognosen unter Druck stehen, beobachtet der Markt, auf welche Branchen sich Gewinnanhebungen und Kurszielrevisionen ausweiten. Quelle: mk.co.kr."
+      },
+      "fr": {
+        "title": "1 331 relèvements d’objectifs de cours avec le rally des semi-conducteurs",
+        "excerpt": "Alors que le Kospi approche des 8 000 points grâce au rally des semi-conducteurs, les courtiers ont publié 1 331 relèvements d’objectifs, plus que les maintiens.",
+        "body": "Alors que le rally des semi-conducteurs rapproche le Kospi du seuil des 8 000 points, les maisons de courtage sud-coréennes accélèrent les relèvements d’objectifs de cours. Selon le texte source, ces rapports ont atteint 1 331, dépassant de manière inhabituelle les rapports maintenant les objectifs inchangés. Le contexte est une forte hausse des estimations de bénéfices pour les valeurs phares des semi-conducteurs. La dynamique partie de ce secteur s’étend aussi aux valeurs de courtage et de défense. Dans une atmosphère où publier une opinion baissière sur les actions devient délicat, le marché surveille jusqu’où iront les révisions de bénéfices et d’objectifs. Source: mk.co.kr."
+      },
+      "ar": {
+        "title": "1331 تقريرا يرفع الأسعار المستهدفة مع صعود أسهم الرقائق",
+        "excerpt": "مع اقتراب كوسبي من مستوى 8000 بدعم صعود أشباه الموصلات، صدرت 1331 تقريرا لرفع الأسعار المستهدفة، في عدد نادر تجاوز تقارير التثبيت.",
+        "body": "مع دفع صعود أسهم أشباه الموصلات مؤشر كوسبي نحو مستوى 8000، تتسارع تحركات شركات الأوراق المالية الكورية لرفع الأسعار المستهدفة. ووفق النص الأصلي، بلغ عدد تقارير رفع السعر المستهدف 1331 تقريرا، وهو ما تجاوز بشكل غير معتاد تقارير الإبقاء على الأهداف. وتعود الخلفية إلى القفزة في تقديرات أرباح أسهم أشباه الموصلات القيادية. كما تمتد الحرارة التي بدأت في هذا القطاع إلى أسهم الأوراق المالية والدفاع. وفي أجواء يصعب فيها إصدار آراء تتوقع هبوط الأسهم، يراقب السوق إلى أي قطاعات ستمتد مراجعات الأرباح والأسعار المستهدفة. المصدر: mk.co.kr."
+      },
+      "hi": {
+        "title": "सेमीकंडक्टर रैली के बीच लक्ष्य मूल्य बढ़ाने वाली 1,331 रिपोर्ट",
+        "excerpt": "सेमीकंडक्टर रैली से कोस्पी 8,000 के करीब पहुंचने पर ब्रोकरेज ने लक्ष्य मूल्य बढ़ाने वाली 1,331 रिपोर्ट जारी कीं, जो बनाए रखने वाली रिपोर्टों से अधिक रहीं।",
+        "body": "सेमीकंडक्टर रैली के चलते कोस्पी 8,000 के स्तर के करीब पहुंच रहा है और दक्षिण कोरिया की ब्रोकरेज कंपनियां लक्ष्य मूल्य बढ़ाने में तेजी दिखा रही हैं। मूल पाठ के अनुसार, लक्ष्य मूल्य बढ़ाने वाली रिपोर्टों की संख्या 1,331 रही, जो असामान्य रूप से लक्ष्य मूल्य बनाए रखने वाली रिपोर्टों से अधिक थी। इसकी पृष्ठभूमि प्रमुख सेमीकंडक्टर शेयरों के लाभ अनुमानों में तेज वृद्धि है। सेमीकंडक्टर क्षेत्र से शुरू हुई गर्माहट सिक्योरिटीज और रक्षा जैसे क्षेत्रों तक फैल रही है। ऐसे माहौल में, जहां शेयरों में गिरावट की राय देना दबावपूर्ण माना जा रहा है, बाजार देख रहा है कि लाभ अनुमान और लक्ष्य मूल्य संशोधन किन क्षेत्रों तक जाते हैं। स्रोत: mk.co.kr."
+      },
+      "id": {
+        "title": "1.331 Laporan Naikkan Target Harga saat Reli Semikonduktor Menguat",
+        "excerpt": "Saat Kospi mendekati level 8.000 karena reli semikonduktor, broker menerbitkan 1.331 laporan kenaikan target harga, melampaui laporan target tetap.",
+        "body": "Ketika reli semikonduktor mendorong Kospi mendekati level 8.000, perusahaan sekuritas Korea Selatan makin cepat menaikkan target harga saham. Menurut teks sumber, laporan kenaikan target harga berjumlah 1.331, secara tidak biasa lebih banyak daripada laporan yang mempertahankan target. Latar belakangnya adalah lonjakan estimasi laba untuk saham semikonduktor utama. Kehangatan yang bermula dari sektor semikonduktor juga menyebar ke saham sekuritas dan pertahanan. Dalam suasana ketika pandangan penurunan harga saham sulit disampaikan, pasar mencermati sejauh mana revisi laba dan target harga akan meluas ke sektor lain. Sumber: mk.co.kr."
+      }
+    }
+  },
+  {
     "id": "8dd0bc665a11",
     "slug": "내년-영업익-1000조-시대반도체가-바꾼-코스피-체급-688962",
     "channelId": "ETF",
@@ -4271,231 +4496,6 @@
         "title": "Elbit Systems Muncul Sinyal Jual, MK Signal Catat Imbal Hasil 65,5%",
         "excerpt": "Pada tanggal 8, reporter AI MK Signal menyebut sinyal jual terdeteksi pada saham AS Elbit Systems (ESLT), dengan strategi mencatat imbal hasil 65,50%.",
         "body": "Pada tanggal 8, reporter AI “MK Signal” menyatakan bahwa dalam analisis saham isu panas Amerika Serikat, sinyal jual terdeteksi pada Elbit Systems (ESLT). Sinyal ini disampaikan sebagai hasil analisis saham MK Signal, sementara imbal hasil strategi terkait dihitung sebesar 65,50%. Elbit Systems dibahas sebagai saham yang mendapat perhatian di pasar AS, dan MK Signal memperkenalkannya sebagai indikator rujukan untuk keputusan investasi. Sinyal jual ini dapat menjadi informasi bagi pemegang saat ini untuk meninjau kemungkinan realisasi keuntungan. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "040e8143d990",
-    "slug": "mk시그널-케이에스피-ai-데이터센터용-엔진-공급-확대에-주가-상승세-mk시그널-추천-후-상승률-3563-기-549914",
-    "channelId": "ETF",
-    "category": "etf",
-    "publishedAt": "2026-05-11T01:17:31.039Z",
-    "updatedAt": "2026-05-11T01:17:31.039Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/stock/12042961",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12042961",
-    "titleFingerprint": "c153ba6d41c70eee54d773d8906af27b03d0f1f8",
-    "dedupKeys": [
-      "040e8143d9902dff8a9ab3d4d784d9609a817a4c",
-      "c153ba6d41c70eee54d773d8906af27b03d0f1f8",
-      "6b19388babca9d29473d33aac9ff4f574a7c500e"
-    ],
-    "imageUrl": "/images/articles/040e8143d990.png",
-    "i18n": {
-      "ko": {
-        "title": "케이에스피 주가 상승, AI 데이터센터용 엔진 공급 확대 주목",
-        "excerpt": "5월 11일 케이에스피(073010)는 AI 데이터센터용 엔진 공급 확대 기대가 부각되며 오전 9시 9분 기준 6,000원에 거래돼 상승세를 보였다.",
-        "body": "5월 11일 케이에스피(073010) 주가가 장 초반 상승세를 보였다. 전 거래일 케이에스피 주가는 종가 기준 5,790원으로 마감했으며, 이날 오전 9시 9분 기준 현재가는 6,000원으로 집계됐다. 원문은 AI 데이터센터용 엔진 공급 확대가 주가 흐름의 주요 배경으로 언급됐다고 전했다. 또한 MK시그널 추천 이후 케이에스피의 상승률은 35.63%를 기록한 것으로 제시됐다. 관련 수치가 단기 투자 관심을 높이는 가운데, 향후 주가 흐름은 공급 확대 관련 소식과 시장 반응에 따라 확인될 전망이다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "KSP Shares Rise as AI Data Center Engine Supply Expansion Draws Attention",
-        "excerpt": "On May 11, KSP (073010) traded at 6,000 won as of 9:09 a.m., rising as attention focused on expanded engine supply for AI data centers.",
-        "body": "KSP (073010) shares moved higher in early trading on May 11. The stock had closed the previous session at 5,790 won, while its price was recorded at 6,000 won as of 9:09 a.m. The original report cited expanded engine supply for AI data centers as a key factor behind the share-price move. It also stated that KSP had posted a 35.63% gain after being recommended by MK Signal. With these figures drawing short-term investor attention, the stock’s next moves are expected to be watched in connection with related supply expansion news and market reaction. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "KSP株が上昇、AIデータセンター向けエンジン供給拡大に注目",
-        "excerpt": "5月11日、KSP（073010）はAIデータセンター向けエンジン供給拡大への関心を背景に、午前9時9分時点で6,000ウォンで推移した。",
-        "body": "5月11日、KSP（073010）の株価は取引序盤に上昇した。前取引日のKSP株は終値基準で5,790ウォンで引け、この日は午前9時9分時点で6,000ウォンと集計された。原文では、AIデータセンター向けエンジン供給拡大が株価の動きの主な背景として言及された。また、MKシグナルの推奨後、KSPの上昇率は35.63%を記録したと示された。関連数値が短期的な投資家の関心を高めるなか、今後の株価動向は供給拡大に関するニュースと市場反応を通じて確認される見通しだ。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "KSP股价上涨，AI数据中心用发动机供应扩大受关注",
-        "excerpt": "5月11日，KSP（073010）因AI数据中心用发动机供应扩大受到关注，截至上午9时9分报6,000韩元，呈现上涨走势。",
-        "body": "5月11日，KSP（073010）股价在早盘呈现上涨走势。前一交易日，KSP股价以收盘价5,790韩元结束交易；当天截至上午9时9分，当前价格为6,000韩元。原文称，AI数据中心用发动机供应扩大是推动股价走势的主要背景之一。报道还指出，自MK Signal推荐以来，KSP累计涨幅达到35.63%。在相关数据提升短期投资关注度的同时，后续股价走势预计将取决于供应扩大相关消息及市场反应。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Acciones de KSP suben por mayor suministro de motores para centros de datos de IA",
-        "excerpt": "El 11 de mayo, KSP (073010) cotizaba a 6.000 wones a las 9:09 a.m., impulsada por la atención al suministro ampliado de motores para centros de datos de IA.",
-        "body": "Las acciones de KSP (073010) mostraron una tendencia alcista al inicio de la sesión del 11 de mayo. En la jornada anterior, el título cerró en 5.790 wones, mientras que a las 9:09 a.m. de este día se ubicaba en 6.000 wones. El reporte original señaló que la ampliación del suministro de motores para centros de datos de IA fue mencionada como un factor clave detrás del movimiento del precio. También indicó que KSP acumuló una subida del 35,63% tras la recomendación de MK Signal. Con estas cifras atrayendo atención inversora de corto plazo, la evolución posterior dependerá de las noticias sobre suministro y de la reacción del mercado. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Ações da KSP sobem com foco em motores para data centers de IA",
-        "excerpt": "Em 11 de maio, a KSP (073010) era negociada a 6.000 won às 9h09, em alta com a atenção voltada à expansão do fornecimento de motores para data centers de IA.",
-        "body": "As ações da KSP (073010) avançaram no início do pregão de 11 de maio. No pregão anterior, o papel fechou a 5.790 won, enquanto neste dia o preço foi registrado em 6.000 won às 9h09. A reportagem original citou a expansão do fornecimento de motores para data centers de IA como um dos principais fatores por trás do movimento das ações. Também informou que a KSP acumulou alta de 35,63% após recomendação do MK Signal. Com esses números elevando o interesse de curto prazo dos investidores, os próximos movimentos do papel devem ser acompanhados conforme novas informações sobre fornecimento e a reação do mercado. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "KSP-Aktie steigt, Fokus auf Motorenlieferungen für KI-Rechenzentren",
-        "excerpt": "Am 11. Mai notierte KSP (073010) um 9:09 Uhr bei 6.000 Won und legte zu, während die Ausweitung von Motorenlieferungen für KI-Rechenzentren im Fokus stand.",
-        "body": "Die Aktie von KSP (073010) zeigte am 11. Mai im frühen Handel eine Aufwärtsbewegung. Am vorherigen Handelstag hatte KSP auf Schlusskursbasis bei 5.790 Won geschlossen; am Berichtstag wurde der Kurs um 9:09 Uhr mit 6.000 Won angegeben. Der ursprüngliche Bericht nannte die Ausweitung der Motorenlieferungen für KI-Rechenzentren als wichtigen Hintergrund der Kursbewegung. Zudem wurde berichtet, dass KSP seit der Empfehlung durch MK Signal einen Anstieg von 35,63% verzeichnete. Da diese Zahlen kurzfristig Anlegerinteresse wecken, dürfte der weitere Kursverlauf anhand weiterer Meldungen zur Lieferausweitung und der Marktreaktion beobachtet werden. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "L’action KSP monte avec l’expansion des moteurs pour centres de données IA",
-        "excerpt": "Le 11 mai, KSP (073010) s’échangeait à 6 000 wons à 9 h 09, en hausse alors que l’expansion des moteurs pour centres de données IA attirait l’attention.",
-        "body": "L’action KSP (073010) a progressé en début de séance le 11 mai. Lors de la séance précédente, le titre avait clôturé à 5 790 wons; ce jour-là, son cours était de 6 000 wons à 9 h 09. Le rapport original a cité l’expansion de l’approvisionnement en moteurs destinés aux centres de données IA comme un élément important derrière le mouvement du cours. Il a également indiqué que KSP avait enregistré une hausse de 35,63% depuis sa recommandation par MK Signal. Ces chiffres attirant l’attention des investisseurs à court terme, l’évolution du titre devrait être suivie au regard des nouvelles liées à l’approvisionnement et de la réaction du marché. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "سهم KSP يرتفع مع التركيز على توريد محركات لمراكز بيانات الذكاء الاصطناعي",
-        "excerpt": "في 11 مايو، جرى تداول سهم KSP (073010) عند 6,000 وون بحلول 9:09 صباحا، مع صعود مدفوع بالاهتمام بتوسيع توريد محركات لمراكز بيانات الذكاء الاصطناعي.",
-        "body": "سجل سهم KSP (073010) اتجاها صاعدا في التعاملات المبكرة يوم 11 مايو. وكان السهم قد أغلق في الجلسة السابقة عند 5,790 وون، بينما بلغ سعره في الساعة 9:09 صباحا 6,000 وون. وذكر التقرير الأصلي أن توسيع توريد المحركات المخصصة لمراكز بيانات الذكاء الاصطناعي ورد كعامل رئيسي وراء حركة السهم. كما أشار إلى أن KSP حققت ارتفاعا بنسبة 35.63% بعد توصية MK Signal. ومع جذب هذه الأرقام اهتمام المستثمرين على المدى القصير، من المتوقع متابعة حركة السهم المقبلة وفقا للأخبار المرتبطة بتوسيع التوريد ورد فعل السوق. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "AI डेटा सेंटर इंजन आपूर्ति पर KSP शेयर में तेजी, 6,000 वॉन पर कारोबार",
-        "excerpt": "11 मई को KSP (073010) सुबह 9:09 बजे 6,000 वॉन पर कारोबार कर रहा था, क्योंकि AI डेटा सेंटर के लिए इंजन आपूर्ति विस्तार पर निवेशकों का ध्यान गया।",
-        "body": "11 मई को शुरुआती कारोबार में KSP (073010) के शेयर में तेजी दिखी। पिछले कारोबारी दिन KSP का शेयर 5,790 वॉन के समापन मूल्य पर बंद हुआ था, जबकि इस दिन सुबह 9:09 बजे इसका भाव 6,000 वॉन दर्ज किया गया। मूल रिपोर्ट में AI डेटा सेंटर के लिए इंजन आपूर्ति विस्तार को शेयर की चाल के प्रमुख कारणों में बताया गया। रिपोर्ट के अनुसार, MK Signal की सिफारिश के बाद KSP ने 35.63% की बढ़त दर्ज की। इन आंकड़ों से अल्पकालिक निवेशक रुचि बढ़ी है, और आगे की चाल आपूर्ति विस्तार से जुड़ी खबरों तथा बाजार प्रतिक्रिया के आधार पर देखी जाएगी। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Saham KSP Naik, Pasokan Mesin untuk Pusat Data AI Jadi Sorotan",
-        "excerpt": "Pada 11 Mei, KSP (073010) diperdagangkan di 6.000 won pukul 09.09, menguat saat perhatian tertuju pada perluasan pasokan mesin untuk pusat data AI.",
-        "body": "Saham KSP (073010) bergerak naik pada awal perdagangan 11 Mei. Pada sesi sebelumnya, saham KSP ditutup di 5.790 won, sementara pada hari ini harganya tercatat 6.000 won pada pukul 09.09. Laporan asli menyebut perluasan pasokan mesin untuk pusat data AI sebagai salah satu latar utama pergerakan harga saham. Laporan itu juga menyatakan bahwa KSP mencatat kenaikan 35,63% setelah direkomendasikan oleh MK Signal. Dengan angka tersebut menarik perhatian investor jangka pendek, pergerakan saham berikutnya diperkirakan akan dipantau melalui kabar terkait perluasan pasokan dan reaksi pasar. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "7a6d47a32c79",
-    "slug": "mk-골든크로스-돌파종목-휴젤145020-한솔홀딩스004150-644801",
-    "channelId": "ETF",
-    "category": "etf",
-    "publishedAt": "2026-05-11T01:16:32.941Z",
-    "updatedAt": "2026-05-11T01:16:32.941Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/stock/12042968",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12042968",
-    "titleFingerprint": "77379043470d7545c124a9d6a8af59cfc724acfb",
-    "dedupKeys": [
-      "7a6d47a32c796dd63b7426f922f8f1f40d871437",
-      "77379043470d7545c124a9d6a8af59cfc724acfb",
-      "f5330e8cd3fe9e90039e2ef2e08b78541a597dd4"
-    ],
-    "imageUrl": "/images/articles/7a6d47a32c79.png",
-    "i18n": {
-      "ko": {
-        "title": "휴젤·한솔홀딩스, MK시그널 골든크로스 돌파종목으로 제시",
-        "excerpt": "MK시그널은 오늘 국내 핫 이슈 종목 분석에서 휴젤(145020)과 한솔홀딩스(004150)를 골든크로스 돌파종목으로 제시했다.",
-        "body": "AI 기자 ‘MK시그널’은 오늘 국내 증시에서 주목할 골든크로스 돌파종목으로 휴젤(145020)과 한솔홀딩스(004150)를 분석 대상으로 제시했다. 원문은 국내 핫 이슈 종목을 분석하는 코너에서 두 종목을 함께 언급하며, 휴젤과 한솔홀딩스가 이날 MK시그널의 골든크로스 관련 분석 대상에 올랐다고 전했다. 골든크로스는 시장 참여자들이 기술적 흐름을 확인할 때 참고하는 신호로 활용된다. 다만 제공된 원문에는 구체적인 가격, 거래량, 투자 의견이나 목표가는 포함되지 않았다. 이에 따라 투자자는 해당 종목이 기술적 관심 종목으로 제시됐다는 사실을 확인하되, 추가 공시와 시장 흐름을 함께 점검할 필요가 있다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Hugel and Hansol Holdings Named MK Signal Golden Cross Stocks",
-        "excerpt": "MK Signal today identified Hugel (145020) and Hansol Holdings (004150) as golden cross breakout stocks in its Korean market hot-issue stock analysis.",
-        "body": "AI reporter “MK Signal” today presented Hugel (145020) and Hansol Holdings (004150) as golden cross breakout stocks to watch in the Korean stock market. The original report mentioned the two companies together in a section analyzing domestic hot-issue stocks, saying they were selected for MK Signal’s golden cross-related analysis. A golden cross is commonly used by market participants as a technical signal when reviewing price trends. However, the provided source did not include specific share prices, trading volume, investment ratings, or target prices. Investors should therefore note only that the two stocks were highlighted as technical-interest names and should also review further disclosures and market conditions. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "ヒュージェルとハンソルホールディングス、MKシグナルのゴールデンクロス銘柄に",
-        "excerpt": "MKシグナルは本日、韓国市場の注目銘柄分析でヒュージェル(145020)とハンソルホールディングス(004150)をゴールデンクロス突破銘柄として示した。",
-        "body": "AI記者「MKシグナル」は本日、韓国株式市場で注目すべきゴールデンクロス突破銘柄として、ヒュージェル(145020)とハンソルホールディングス(004150)を分析対象に挙げた。原文は国内のホットイシュー銘柄を分析するコーナーで両銘柄をともに取り上げ、MKシグナルのゴールデンクロス関連分析対象に入ったと伝えた。ゴールデンクロスは、市場参加者がテクニカルな流れを確認する際に参考にするシグナルとして使われる。ただし、提供された原文には具体的な株価、出来高、投資判断、目標株価は含まれていない。そのため投資家は、両銘柄がテクニカル面で関心銘柄として示された事実を確認しつつ、追加開示や市場動向もあわせて点検する必要がある。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "Hugel与Hansol Holdings入选MK Signal黄金交叉突破股",
-        "excerpt": "MK Signal今日在韩国热门股票分析中，将Hugel(145020)和Hansol Holdings(004150)列为黄金交叉突破股票。",
-        "body": "AI记者“MK Signal”今日将Hugel(145020)和Hansol Holdings(004150)列为韩国股市值得关注的黄金交叉突破股票。原文在分析韩国热门议题股票的栏目中同时提到这两只股票，并称其进入MK Signal今日黄金交叉相关分析对象。黄金交叉通常被市场参与者用作观察技术走势的参考信号。不过，所提供原文未包含具体股价、成交量、投资评级或目标价。因此，投资者应仅确认这两只股票被列为技术面关注标的这一事实，并结合后续公告和市场走势进行核查。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Hugel y Hansol Holdings, acciones de cruce dorado según MK Signal",
-        "excerpt": "MK Signal identificó hoy a Hugel (145020) y Hansol Holdings (004150) como acciones de ruptura por cruce dorado en su análisis de valores coreanos destacados.",
-        "body": "El reportero de IA “MK Signal” presentó hoy a Hugel (145020) y Hansol Holdings (004150) como acciones de ruptura por cruce dorado a seguir en el mercado bursátil coreano. El texto original mencionó a ambas compañías en una sección dedicada al análisis de valores domésticos de actualidad y señaló que fueron incluidas en el análisis de cruce dorado de MK Signal. El cruce dorado se usa habitualmente como señal técnica para revisar tendencias de mercado. Sin embargo, la fuente proporcionada no incluyó precios concretos, volumen de negociación, recomendaciones de inversión ni precios objetivo. Por ello, los inversores deben limitarse a constatar que estos valores fueron destacados por interés técnico y revisar también comunicados posteriores y las condiciones del mercado. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Hugel e Hansol Holdings são ações de cruzamento dourado da MK Signal",
-        "excerpt": "A MK Signal identificou hoje Hugel (145020) e Hansol Holdings (004150) como ações de rompimento por cruzamento dourado em sua análise do mercado coreano.",
-        "body": "O repórter de IA “MK Signal” apresentou hoje Hugel (145020) e Hansol Holdings (004150) como ações de rompimento por cruzamento dourado a observar no mercado acionário coreano. O texto original citou as duas empresas em uma seção de análise de ações domésticas em destaque e informou que elas entraram na análise de cruzamento dourado da MK Signal. O cruzamento dourado é usado por participantes do mercado como um sinal técnico para avaliar tendências. No entanto, a fonte fornecida não incluiu preços específicos, volume negociado, recomendação de investimento ou preço-alvo. Assim, investidores devem observar apenas que os papéis foram destacados por interesse técnico e acompanhar comunicados adicionais e as condições de mercado. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Hugel und Hansol Holdings als MK-Signal-Golden-Cross-Aktien genannt",
-        "excerpt": "MK Signal nannte heute Hugel (145020) und Hansol Holdings (004150) in seiner Analyse koreanischer Hot-Issue-Aktien als Golden-Cross-Ausbruchswerte.",
-        "body": "Der KI-Reporter „MK Signal“ stellte heute Hugel (145020) und Hansol Holdings (004150) als Golden-Cross-Ausbruchswerte vor, die am koreanischen Aktienmarkt Beachtung finden. Der Originaltext erwähnte beide Unternehmen gemeinsam in einer Rubrik zur Analyse inländischer Hot-Issue-Aktien und teilte mit, dass sie in die Golden-Cross-Analyse von MK Signal aufgenommen wurden. Ein Golden Cross wird von Marktteilnehmern häufig als technisches Signal zur Einschätzung von Kursverläufen genutzt. Die bereitgestellte Quelle enthielt jedoch keine konkreten Aktienkurse, Handelsvolumina, Anlageurteile oder Kursziele. Anleger sollten daher lediglich festhalten, dass die Werte als technisch interessante Titel genannt wurden, und zusätzliche Mitteilungen sowie das Marktumfeld prüfen. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Hugel et Hansol Holdings signalées en golden cross par MK Signal",
-        "excerpt": "MK Signal a identifié aujourd’hui Hugel (145020) et Hansol Holdings (004150) comme valeurs en rupture de golden cross dans son analyse des actions coréennes suivies.",
-        "body": "Le journaliste IA « MK Signal » a présenté aujourd’hui Hugel (145020) et Hansol Holdings (004150) comme des valeurs en rupture de golden cross à surveiller sur le marché boursier coréen. Le texte original a mentionné les deux sociétés dans une rubrique consacrée aux actions nationales d’actualité, indiquant qu’elles figuraient dans l’analyse golden cross de MK Signal. Le golden cross est couramment utilisé par les intervenants de marché comme signal technique pour examiner une tendance. Toutefois, la source fournie ne contenait pas de cours précis, de volumes d’échange, de recommandation d’investissement ni d’objectif de cours. Les investisseurs doivent donc retenir seulement que ces titres ont été signalés pour leur intérêt technique et vérifier aussi les publications ultérieures et les conditions de marché. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "هوجل وهانسول هولدينغز ضمن أسهم التقاطع الذهبي لدى MK Signal",
-        "excerpt": "حددت MK Signal اليوم سهمي هوجل (145020) وهانسول هولدينغز (004150) كأسهم اختراق بالتقاطع الذهبي في تحليلها للأسهم الكورية محل الاهتمام.",
-        "body": "قدّم مراسل الذكاء الاصطناعي “MK Signal” اليوم سهمي هوجل (145020) وهانسول هولدينغز (004150) كأسماء اختراق بالتقاطع الذهبي جديرة بالمتابعة في سوق الأسهم الكورية. وذكر النص الأصلي الشركتين معا في قسم يحلل الأسهم المحلية ذات الاهتمام، مشيرا إلى أنهما دخلتا ضمن تحليل MK Signal المتعلق بالتقاطع الذهبي. ويستخدم التقاطع الذهبي عادة كإشارة فنية يستعين بها المشاركون في السوق عند مراجعة اتجاهات الأسعار. لكن المصدر المقدم لم يتضمن أسعارا محددة للأسهم أو أحجام تداول أو توصيات استثمارية أو أسعارا مستهدفة. لذلك ينبغي للمستثمرين الاكتفاء بتأكيد أن السهمين أبرزا كأسماء ذات اهتمام فني، مع متابعة الإفصاحات اللاحقة وظروف السوق. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "Hugel और Hansol Holdings MK Signal के गोल्डन क्रॉस शेयरों में शामिल",
-        "excerpt": "MK Signal ने आज कोरियाई बाजार के चर्चित शेयर विश्लेषण में Hugel (145020) और Hansol Holdings (004150) को गोल्डन क्रॉस ब्रेकआउट शेयर बताया।",
-        "body": "एआई रिपोर्टर “MK Signal” ने आज कोरियाई शेयर बाजार में देखने योग्य गोल्डन क्रॉस ब्रेकआउट शेयरों के रूप में Hugel (145020) और Hansol Holdings (004150) को प्रस्तुत किया। मूल रिपोर्ट ने घरेलू चर्चित शेयरों का विश्लेषण करने वाले खंड में दोनों कंपनियों का साथ में उल्लेख किया और कहा कि वे MK Signal के गोल्डन क्रॉस संबंधी विश्लेषण में शामिल हैं। गोल्डन क्रॉस का उपयोग बाजार सहभागी तकनीकी रुझान देखने के लिए संकेत के रूप में करते हैं। हालांकि दिए गए स्रोत में विशिष्ट शेयर मूल्य, ट्रेडिंग वॉल्यूम, निवेश राय या लक्ष्य मूल्य शामिल नहीं थे। इसलिए निवेशकों को केवल यह तथ्य ध्यान में रखना चाहिए कि दोनों शेयर तकनीकी रुचि वाले नामों के रूप में बताए गए हैं, और आगे की सूचनाओं तथा बाजार की स्थिति की भी जांच करनी चाहिए। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Hugel dan Hansol Holdings Masuk Saham Golden Cross MK Signal",
-        "excerpt": "MK Signal hari ini mengidentifikasi Hugel (145020) dan Hansol Holdings (004150) sebagai saham breakout golden cross dalam analisis saham isu panas Korea.",
-        "body": "Reporter AI “MK Signal” hari ini menyajikan Hugel (145020) dan Hansol Holdings (004150) sebagai saham breakout golden cross yang perlu diperhatikan di pasar saham Korea. Teks asli menyebut kedua perusahaan tersebut dalam rubrik analisis saham domestik yang menjadi isu hangat, dan menyatakan bahwa keduanya masuk dalam analisis golden cross MK Signal. Golden cross umum digunakan pelaku pasar sebagai sinyal teknikal saat meninjau arah harga. Namun, sumber yang diberikan tidak memuat harga saham spesifik, volume perdagangan, rekomendasi investasi, atau target harga. Karena itu, investor sebaiknya hanya mencatat bahwa kedua saham tersebut disorot sebagai nama dengan minat teknikal, sambil memeriksa pengumuman lanjutan dan kondisi pasar. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "717c8dbfd1ff",
-    "slug": "속보-불장에-국내증시-시가총액-사상-처음-7000조원-돌파-676812",
-    "channelId": "ETF",
-    "category": "etf",
-    "publishedAt": "2026-05-11T01:15:33.867Z",
-    "updatedAt": "2026-05-11T01:15:33.867Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/stock/12042975",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12042975",
-    "titleFingerprint": "47b8e78cefcfa1a62cb7aadc3a4cb26524b54d16",
-    "dedupKeys": [
-      "717c8dbfd1ffd76f1b71752cb6338bd748dc59c5",
-      "47b8e78cefcfa1a62cb7aadc3a4cb26524b54d16",
-      "05f272b40dbbff70d7a1635d049ddf8d4ac8ffcc"
-    ],
-    "imageUrl": "/images/articles/717c8dbfd1ff.jpg",
-    "i18n": {
-      "ko": {
-        "title": "국내증시 시가총액 첫 7000조원 돌파, 불장 속 사상 최고치",
-        "excerpt": "국내증시 시가총액이 불장 흐름 속에서 사상 처음 7000조원을 넘어섰다고 mk.co.kr이 속보로 전했다. 시장 규모 확대를 보여주는 핵심 지표다.",
-        "body": "국내증시 시가총액이 ‘불장’으로 불리는 강한 상승 흐름 속에서 사상 처음 7000조원을 돌파했다고 mk.co.kr이 속보로 전했다. 누가와 무엇에 해당하는 핵심 주체는 국내 주식시장 전체이며, 보도 시점의 핵심 수치는 시가총액 7000조원 돌파다. 이는 국내증시 전체 기업가치의 합산 규모가 처음으로 해당 기준선을 넘어섰다는 의미다. 배경으로는 원문이 언급한 ‘불장’ 분위기가 제시됐다. 시장 영향은 국내증시 규모가 역대 최고 수준으로 커졌다는 점에 있다. 다만 원문에는 세부 지수, 종목, 기간, 상승률 등 추가 수치는 제시되지 않았다. 출처: mk.co.kr."
-      },
-      "en": {
-        "title": "Korean Stock Market Cap Tops 7,000 Trillion Won for First Time",
-        "excerpt": "South Korea’s stock market capitalization surpassed 7,000 trillion won for the first time amid a bull-market rally, mk.co.kr reported in a breaking update.",
-        "body": "South Korea’s domestic stock market capitalization has exceeded 7,000 trillion won for the first time in history amid what the original report described as a “bull market,” mk.co.kr said in a breaking news update. The central subject is the overall Korean equity market, and the key figure is the market capitalization crossing the 7,000 trillion won mark. This means the combined market value of listed domestic shares has moved beyond that threshold for the first time. The stated background is the strong market tone described in the source. The main implication is that the scale of the Korean stock market has reached a record level. The original item did not provide additional details such as indexes, stocks, time period, or percentage gains. Source: mk.co.kr."
-      },
-      "ja": {
-        "title": "韓国株式市場の時価総額、初の7000兆ウォン突破",
-        "excerpt": "韓国株式市場の時価総額が強気相場の流れの中で初めて7000兆ウォンを超えたと、mk.co.krが速報で伝えた。市場規模の拡大を示す節目だ。",
-        "body": "韓国の国内株式市場の時価総額が、「ブル相場」と表現される強い上昇基調の中で、史上初めて7000兆ウォンを突破したとmk.co.krが速報で伝えた。対象は国内株式市場全体で、今回の核心となる数値は時価総額7000兆ウォン超えである。これは上場している国内株式の企業価値を合算した市場規模が、初めてその基準線を上回ったことを意味する。背景として、原文では「不장」に相当する強気相場の雰囲気が示された。影響としては、韓国株式市場の規模が過去最高水準に達した点が挙げられる。ただし原文には、指数、銘柄、期間、上昇率などの追加数値は示されていない。出典: mk.co.kr."
-      },
-      "zh": {
-        "title": "韩国股市总市值首次突破7000万亿韩元，牛市推动创新高",
-        "excerpt": "mk.co.kr快讯称，韩国国内股市总市值在牛市行情中首次突破7000万亿韩元，显示市场整体规模达到新的历史水平。",
-        "body": "据mk.co.kr快讯报道，韩国国内股市总市值在原文所称的“牛市”氛围中，历史上首次突破7000万亿韩元。此次报道的核心主体是韩国股票市场整体，关键数据是总市值越过7000万亿韩元关口。这意味着韩国上市股票合计市场价值首次超过这一标准线。背景方面，原文仅提到强劲上涨行情带来的牛市气氛。其影响在于，韩国股市整体规模达到历史最高水平。原文没有提供具体指数、个股、统计期间或涨幅等进一步数据。来源：mk.co.kr。"
-      },
-      "es": {
-        "title": "Bolsa surcoreana supera por primera vez los 7.000 billones de wones",
-        "excerpt": "La capitalización del mercado bursátil surcoreano superó por primera vez los 7.000 billones de wones en un entorno alcista, informó mk.co.kr en una alerta.",
-        "body": "La capitalización del mercado bursátil nacional de Corea del Sur superó por primera vez en la historia los 7.000 billones de wones en medio de un contexto que el reporte original describió como alcista, informó mk.co.kr en una nota de última hora. El sujeto central es el conjunto del mercado accionario surcoreano, y la cifra clave es el cruce del umbral de 7.000 billones de wones en valor de mercado. Esto significa que el valor combinado de las acciones nacionales cotizadas rebasó por primera vez ese nivel. El antecedente señalado por la fuente es el ambiente de “mercado alcista”. La principal implicación es que el tamaño del mercado bursátil alcanzó un máximo histórico. El texto original no incluyó índices, acciones, período ni porcentajes de subida adicionales. Fuente: mk.co.kr."
-      },
-      "pt": {
-        "title": "Bolsa sul-coreana passa de 7.000 trilhões de wons pela primeira vez",
-        "excerpt": "A capitalização do mercado acionário da Coreia do Sul superou pela primeira vez 7.000 trilhões de wons em meio a um mercado em alta, informou mk.co.kr.",
-        "body": "A capitalização do mercado acionário doméstico da Coreia do Sul ultrapassou pela primeira vez na história os 7.000 trilhões de wons em meio a um cenário descrito no texto original como de “mercado em alta”, informou mk.co.kr em notícia urgente. O sujeito central é o mercado de ações sul-coreano como um todo, e o dado principal é a passagem da capitalização de mercado pela marca de 7.000 trilhões de wons. Isso significa que o valor de mercado combinado das ações domésticas listadas superou esse patamar pela primeira vez. O contexto citado pela fonte é o forte ambiente de alta. A principal implicação é que o tamanho do mercado acionário chegou a um recorde. O original não apresentou índices, ações, período ou percentuais de valorização adicionais. Fonte: mk.co.kr."
-      },
-      "de": {
-        "title": "Südkoreas Börsenwert übersteigt erstmals 7.000 Billionen Won",
-        "excerpt": "Die Marktkapitalisierung des südkoreanischen Aktienmarkts hat in einem Bullenmarkt erstmals 7.000 Billionen Won überschritten, meldete mk.co.kr.",
-        "body": "Die Marktkapitalisierung des heimischen südkoreanischen Aktienmarkts hat in einem im Originalbericht als „Bullenmarkt“ beschriebenen Umfeld erstmals in der Geschichte 7.000 Billionen Won überschritten, berichtete mk.co.kr in einer Eilmeldung. Zentraler Gegenstand ist der gesamte südkoreanische Aktienmarkt, die wichtigste Zahl ist das Überschreiten der Marke von 7.000 Billionen Won. Damit liegt der zusammengefasste Marktwert der gelisteten heimischen Aktien erstmals über dieser Schwelle. Als Hintergrund nennt die Quelle lediglich die starke Marktstimmung. Die wesentliche Bedeutung liegt darin, dass die Größe des südkoreanischen Aktienmarkts ein Rekordniveau erreicht hat. Der Originaltext nannte keine weiteren Angaben zu Indizes, Einzelwerten, Zeitraum oder prozentualen Kursgewinnen. Quelle: mk.co.kr."
-      },
-      "fr": {
-        "title": "La Bourse sud-coréenne dépasse pour la première fois 7 000 billions de wons",
-        "excerpt": "La capitalisation du marché actions sud-coréen a dépassé pour la première fois 7 000 billions de wons dans un marché haussier, selon une alerte de mk.co.kr.",
-        "body": "La capitalisation du marché boursier sud-coréen a dépassé pour la première fois de son histoire 7 000 billions de wons dans un contexte que le texte original décrit comme un marché haussier, a rapporté mk.co.kr dans une dépêche urgente. Le sujet central est l’ensemble du marché actions domestique, et le chiffre clé est le franchissement du seuil de 7 000 billions de wons. Cela signifie que la valeur de marché combinée des actions nationales cotées a dépassé ce niveau pour la première fois. Le contexte indiqué par la source est la forte dynamique de marché. L’impact principal est que la taille du marché boursier sud-coréen atteint un niveau record. Le texte original ne fournit pas d’autres chiffres sur les indices, les titres, la période ou les hausses en pourcentage. Source : mk.co.kr."
-      },
-      "ar": {
-        "title": "القيمة السوقية للأسهم الكورية تتجاوز 7000 تريليون وون لأول مرة",
-        "excerpt": "أفاد mk.co.kr في خبر عاجل بأن القيمة السوقية لسوق الأسهم الكورية الجنوبية تجاوزت لأول مرة 7000 تريليون وون وسط موجة صعود قوية.",
-        "body": "تجاوزت القيمة السوقية لسوق الأسهم المحلية في كوريا الجنوبية مستوى 7000 تريليون وون لأول مرة في التاريخ، وسط أجواء وصفها النص الأصلي بأنها سوق صاعدة قوية، بحسب ما أفاد mk.co.kr في خبر عاجل. الموضوع الرئيسي هو سوق الأسهم الكورية الجنوبية ككل، والرقم الأساسي هو عبور القيمة السوقية حاجز 7000 تريليون وون. ويعني ذلك أن القيمة السوقية المجمعة للأسهم المحلية المدرجة تجاوزت هذا المستوى للمرة الأولى. أما الخلفية التي ذكرها المصدر فهي أجواء الصعود في السوق. وتكمن الدلالة الأساسية في أن حجم سوق الأسهم الكورية بلغ مستوى قياسيا. ولم يورد النص الأصلي تفاصيل إضافية عن المؤشرات أو الأسهم أو الفترة الزمنية أو نسب الارتفاع. المصدر: mk.co.kr."
-      },
-      "hi": {
-        "title": "दक्षिण कोरियाई शेयर बाजार मूल्य पहली बार 7,000 ट्रिलियन वॉन के पार",
-        "excerpt": "mk.co.kr की ब्रेकिंग रिपोर्ट के अनुसार, तेजी वाले बाजार के बीच दक्षिण कोरिया के घरेलू शेयर बाजार का बाजार पूंजीकरण पहली बार 7,000 ट्रिलियन वॉन से ऊपर गया।",
-        "body": "दक्षिण कोरिया के घरेलू शेयर बाजार का बाजार पूंजीकरण इतिहास में पहली बार 7,000 ट्रिलियन वॉन से ऊपर निकल गया है, जिसे मूल रिपोर्ट ने मजबूत तेजी वाले बाजार का माहौल बताया, mk.co.kr ने ब्रेकिंग खबर में यह जानकारी दी। मुख्य विषय पूरा दक्षिण कोरियाई शेयर बाजार है, और प्रमुख आंकड़ा बाजार पूंजीकरण का 7,000 ट्रिलियन वॉन की सीमा पार करना है। इसका अर्थ है कि सूचीबद्ध घरेलू शेयरों का संयुक्त बाजार मूल्य पहली बार इस स्तर से ऊपर गया। पृष्ठभूमि के रूप में स्रोत ने केवल तेजी वाले बाजार की स्थिति का उल्लेख किया। इसका मुख्य प्रभाव यह है कि दक्षिण कोरियाई शेयर बाजार का आकार रिकॉर्ड स्तर पर पहुंचा है। मूल पाठ में सूचकांक, शेयर, अवधि या प्रतिशत वृद्धि जैसे अतिरिक्त आंकड़े नहीं दिए गए। स्रोत: mk.co.kr."
-      },
-      "id": {
-        "title": "Kapitalisasi Bursa Korea Tembus 7.000 Triliun Won untuk Pertama Kali",
-        "excerpt": "Kapitalisasi pasar saham domestik Korea Selatan menembus 7.000 triliun won untuk pertama kalinya di tengah pasar bullish, menurut laporan kilat mk.co.kr.",
-        "body": "Kapitalisasi pasar saham domestik Korea Selatan melampaui 7.000 triliun won untuk pertama kalinya dalam sejarah di tengah kondisi yang dalam laporan asli disebut sebagai pasar bullish, menurut berita kilat mk.co.kr. Subjek utamanya adalah keseluruhan pasar saham Korea Selatan, sedangkan angka kuncinya adalah kapitalisasi pasar yang melewati ambang 7.000 triliun won. Ini berarti nilai pasar gabungan saham domestik yang tercatat telah melampaui level tersebut untuk pertama kalinya. Latar belakang yang disebut sumber adalah suasana pasar yang kuat. Dampak utamanya adalah ukuran pasar saham Korea Selatan mencapai level tertinggi sepanjang sejarah. Teks asli tidak memuat rincian tambahan seperti indeks, saham, periode, atau persentase kenaikan. Sumber: mk.co.kr."
       }
     }
   }
