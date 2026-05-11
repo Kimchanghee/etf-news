@@ -1,5 +1,230 @@
 [
   {
+    "id": "68c034f850e6",
+    "slug": "정유사-웃고-항공사-울고실적-전망-희비-103909",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-05-11T23:13:34.733Z",
+    "updatedAt": "2026-05-11T23:13:34.733Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/2026051190141",
+    "canonicalUrl": "https://www.hankyung.com/article/2026051190141",
+    "titleFingerprint": "1f0405316e54a2f9a4cd8d5f2c13add28fb275cb",
+    "dedupKeys": [
+      "68c034f850e666af31049c996399c9ac33a71d92",
+      "1f0405316e54a2f9a4cd8d5f2c13add28fb275cb",
+      "99686c61cac9a3b28884e647a214a8c6c8b981a6"
+    ],
+    "imageUrl": "/images/articles/68c034f850e6.png",
+    "i18n": {
+      "ko": {
+        "title": "정유사 실적 전망은 웃고 항공사는 울고, 업종별 희비 엇갈려",
+        "excerpt": "한국경제는 정유사와 항공사의 실적 전망이 서로 다른 흐름을 보이며 업종별 희비가 엇갈리고 있다고 보도했다. 정유사는 긍정적 분위기인 반면 항공사는 부담이 부각됐다.",
+        "body": "정유사와 항공사의 실적 전망이 엇갈리고 있다. 한국경제 보도에 따르면 같은 경기 환경 속에서도 정유사는 웃고 항공사는 우는 흐름이 나타나며 업종별 분위기가 갈렸다. 원문은 정유사의 실적 전망에는 긍정적 신호가, 항공사의 실적 전망에는 상대적으로 부담스러운 요인이 반영되고 있음을 제목으로 제시했다. 구체적인 수치나 기업별 전망치는 제공된 원문 요약에 포함되지 않았다. 이번 흐름은 에너지와 항공 업종을 함께 보는 투자자에게 실적 시즌의 차별화 가능성을 시사한다. 출처: hankyung.com."
+      },
+      "en": {
+        "title": "Refiners See Brighter Earnings Outlook as Airlines Face Pressure",
+        "excerpt": "Hankyung reported that refiners and airlines are showing sharply different earnings outlooks, with refiners viewed more positively while airlines face heavier pressure.",
+        "body": "The earnings outlook for refiners and airlines is diverging. According to Hankyung, refiners appear to be benefiting from a more favorable performance outlook, while airlines are facing a more difficult tone. The original headline frames the contrast as refiners “smiling” and airlines “crying,” pointing to a clear split in industry expectations. No detailed figures or company-specific forecasts were included in the provided source summary. The development suggests that investors watching both energy and aviation may need to account for widening differences during earnings season. Source: hankyung.com."
+      },
+      "ja": {
+        "title": "製油会社の業績見通しは明るく、航空会社には重荷",
+        "excerpt": "韓国経済新聞は、製油会社と航空会社の業績見通しが対照的な流れを見せ、製油会社には前向きな雰囲気、航空会社には負担が浮上していると報じた。",
+        "body": "製油会社と航空会社の業績見通しが分かれている。韓国経済新聞によると、同じ市場環境の中でも製油会社には明るい見方が出ている一方、航空会社には重い雰囲気が広がっている。原文の見出しは、製油会社は「笑い」、航空会社は「泣く」と表現し、業種ごとの期待感の違いを示した。提供された要約には、具体的な数値や企業別の見通しは含まれていない。今回の流れは、エネルギーと航空を同時に見る投資家に、決算期の業績差に注意する必要性を示している。出典: hankyung.com."
+      },
+      "zh": {
+        "title": "炼油企业业绩预期向好，航空公司承压分化明显",
+        "excerpt": "韩国经济报道称，炼油企业与航空公司的业绩预期呈现相反走势，炼油企业气氛较为积极，而航空公司面临的压力更加突出。",
+        "body": "炼油企业和航空公司的业绩预期正在出现分化。据韩国经济报道，在相同的市场环境下，炼油企业的业绩前景相对乐观，而航空公司则面临更沉重的压力。原文标题以“炼油企业笑、航空公司哭”来概括这种差异，显示行业之间的预期明显不同。所提供的原文摘要中未包含具体数据或个别公司的预测。对于同时关注能源与航空板块的投资者而言，这一变化意味着财报季可能出现更明显的行业差别。来源: hankyung.com."
+      },
+      "es": {
+        "title": "Refinerías con mejor panorama de resultados y aerolíneas bajo presión",
+        "excerpt": "Hankyung informó que las perspectivas de resultados de refinerías y aerolíneas avanzan en direcciones opuestas, con un tono positivo para las primeras y más presión para las segundas.",
+        "body": "Las perspectivas de resultados de las refinerías y las aerolíneas se están separando. Según Hankyung, las refinerías muestran un panorama más favorable, mientras que las aerolíneas enfrentan un tono más complicado. El titular original resume el contraste señalando que las refinerías “sonríen” y las aerolíneas “lloran”, lo que refleja expectativas distintas por sector. El resumen proporcionado no incluye cifras concretas ni previsiones por empresa. Esta situación sugiere que los inversores que siguen energía y aviación deberán considerar una posible diferenciación durante la temporada de resultados. Fuente: hankyung.com."
+      },
+      "pt": {
+        "title": "Refinarias veem melhora nos lucros enquanto aéreas sofrem pressão",
+        "excerpt": "O Hankyung informou que as perspectivas de resultados de refinarias e companhias aéreas seguem caminhos opostos, com tom positivo para refinarias e pressão maior sobre aéreas.",
+        "body": "As perspectivas de resultados de refinarias e companhias aéreas estão divergindo. Segundo o Hankyung, as refinarias aparecem com uma visão mais favorável de desempenho, enquanto as empresas aéreas enfrentam um ambiente mais pesado. O título original descreve o contraste dizendo que as refinarias “sorriem” e as aéreas “choram”, indicando expectativas diferentes entre os setores. O resumo fornecido não traz números específicos nem projeções por empresa. Para investidores que acompanham energia e aviação, o movimento sugere atenção à possível diferenciação na temporada de balanços. Fonte: hankyung.com."
+      },
+      "de": {
+        "title": "Raffinerien mit besseren Gewinnaussichten, Airlines unter Druck",
+        "excerpt": "Hankyung berichtete, dass sich die Ergebnisaussichten von Raffinerien und Fluggesellschaften deutlich unterscheiden: Raffinerien wirken positiver, Airlines stehen stärker unter Druck.",
+        "body": "Die Ergebnisaussichten von Raffinerien und Fluggesellschaften entwickeln sich unterschiedlich. Laut Hankyung zeigt sich bei Raffinerien ein günstigeres Bild, während Fluggesellschaften mit einem schwierigeren Umfeld konfrontiert sind. Die ursprüngliche Überschrift beschreibt den Gegensatz damit, dass Raffinerien „lachen“ und Airlines „weinen“, und verweist damit auf unterschiedliche Branchenerwartungen. Konkrete Zahlen oder unternehmensspezifische Prognosen waren in der bereitgestellten Zusammenfassung nicht enthalten. Für Anleger, die Energie- und Luftfahrtwerte beobachten, deutet dies auf mögliche Unterschiede in der Berichtssaison hin. Quelle: hankyung.com."
+      },
+      "fr": {
+        "title": "Les raffineurs mieux orientés, les compagnies aériennes sous pression",
+        "excerpt": "Hankyung a rapporté que les perspectives de résultats divergent entre raffineurs et compagnies aériennes, avec un ton plus favorable pour les premiers et davantage de pression pour les secondes.",
+        "body": "Les perspectives de résultats des raffineurs et des compagnies aériennes divergent. Selon Hankyung, les raffineurs affichent un environnement plus favorable, tandis que les compagnies aériennes font face à un climat plus difficile. Le titre original résume ce contraste en indiquant que les raffineurs « sourient » alors que les compagnies aériennes « pleurent », ce qui souligne des attentes différentes selon les secteurs. Le résumé fourni ne contient pas de chiffres précis ni de prévisions par entreprise. Pour les investisseurs qui suivent l’énergie et l’aviation, cette évolution signale une possible différenciation pendant la saison des résultats. Source: hankyung.com."
+      },
+      "ar": {
+        "title": "توقعات أرباح المصافي تتحسن بينما تواجه شركات الطيران ضغوطا",
+        "excerpt": "ذكرت هانكيونغ أن توقعات أرباح شركات التكرير وشركات الطيران تسير في اتجاهين مختلفين، مع نظرة أكثر إيجابية للمصافي وضغوط أوضح على شركات الطيران.",
+        "body": "تتباين توقعات الأرباح بين شركات التكرير وشركات الطيران. ووفقا لهانكيونغ، تبدو آفاق شركات التكرير أكثر إيجابية، بينما تواجه شركات الطيران أجواء أكثر صعوبة. ويعرض العنوان الأصلي هذا التباين بالقول إن شركات التكرير “تبتسم” وشركات الطيران “تبكي”، في إشارة إلى اختلاف واضح في توقعات القطاعات. ولم يتضمن الملخص المقدم أرقاما محددة أو توقعات منفصلة لكل شركة. ويشير هذا الاتجاه إلى أن المستثمرين الذين يتابعون قطاعي الطاقة والطيران قد يحتاجون إلى الانتباه للفوارق المحتملة خلال موسم إعلان النتائج. المصدر: hankyung.com."
+      },
+      "hi": {
+        "title": "रिफाइनरी कंपनियों की आय उम्मीद मजबूत, एयरलाइंस पर दबाव",
+        "excerpt": "हैंक्युंग ने बताया कि रिफाइनरी कंपनियों और एयरलाइंस की आय संभावनाएं अलग-अलग दिशा में जा रही हैं, जहां रिफाइनरी पर रुख सकारात्मक और एयरलाइंस पर दबाव अधिक है।",
+        "body": "रिफाइनरी कंपनियों और एयरलाइंस की आय संभावनाओं में अंतर दिख रहा है। हैंक्युंग के अनुसार, रिफाइनरी कंपनियों के प्रदर्शन को लेकर माहौल अधिक अनुकूल है, जबकि एयरलाइंस पर अपेक्षाकृत कठिन दबाव दिखाई दे रहा है। मूल शीर्षक इस अंतर को इस तरह प्रस्तुत करता है कि रिफाइनरी कंपनियां “मुस्कुरा रही हैं” और एयरलाइंस “रो रही हैं”, जिससे क्षेत्रों के बीच उम्मीदों का फर्क स्पष्ट होता है। उपलब्ध कराए गए सारांश में कोई ठोस आंकड़ा या कंपनीवार अनुमान शामिल नहीं है। ऊर्जा और विमानन क्षेत्र पर नजर रखने वाले निवेशकों के लिए यह रुझान आय सीजन में भिन्न प्रदर्शन की संभावना का संकेत देता है। स्रोत: hankyung.com."
+      },
+      "id": {
+        "title": "Prospek Laba Kilang Lebih Cerah, Maskapai Hadapi Tekanan",
+        "excerpt": "Hankyung melaporkan bahwa prospek kinerja perusahaan kilang dan maskapai bergerak berbeda, dengan kilang dinilai lebih positif sementara maskapai menghadapi tekanan lebih besar.",
+        "body": "Prospek kinerja perusahaan kilang dan maskapai sedang bergerak berbeda. Menurut Hankyung, perusahaan kilang menunjukkan suasana yang lebih positif, sementara maskapai menghadapi tekanan yang lebih berat. Judul asli menggambarkan kontras ini dengan menyebut perusahaan kilang “tersenyum” dan maskapai “menangis”, menandakan perbedaan ekspektasi antar sektor. Ringkasan sumber yang diberikan tidak memuat angka rinci atau proyeksi per perusahaan. Bagi investor yang mengikuti sektor energi dan penerbangan, perkembangan ini menunjukkan perlunya mencermati kemungkinan perbedaan kinerja selama musim laporan keuangan. Sumber: hankyung.com."
+      }
+    }
+  },
+  {
+    "id": "7650c8254529",
+    "slug": "호르무즈-봉쇄에-유가-껑충아람코-1분기-실적-뜀박질-103864",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-05-11T23:12:39.716Z",
+    "updatedAt": "2026-05-11T23:12:39.716Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/2026051190591",
+    "canonicalUrl": "https://www.hankyung.com/article/2026051190591",
+    "titleFingerprint": "a02dd0c64e16d7b547ef553869b509e50e36f15e",
+    "dedupKeys": [
+      "7650c825452951cb009168f218e1e65c90489717",
+      "a02dd0c64e16d7b547ef553869b509e50e36f15e",
+      "3a6173e27f213ad8433faa0d89ae340f40478608"
+    ],
+    "imageUrl": "/images/articles/7650c8254529.png",
+    "i18n": {
+      "ko": {
+        "title": "호르무즈 봉쇄에 유가 급등, 아람코 1분기 실적 개선 주목",
+        "excerpt": "호르무즈 해협 봉쇄 이슈로 국제유가가 뛰면서 사우디 아람코의 1분기 실적 개선이 부각됐다. 에너지 시장은 공급 차질 우려와 유가 흐름을 함께 주시하고 있다.",
+        "body": "호르무즈 해협 봉쇄 이슈가 제기되며 국제유가가 급등했고, 이에 따라 사우디 아람코의 1분기 실적 개선이 주목받고 있다. 호르무즈 해협은 중동 원유 수송의 핵심 통로로, 봉쇄 우려가 커질 경우 공급 차질 가능성이 유가에 즉각 반영될 수 있다. 원유 가격 상승은 산유 기업의 매출과 수익성에 영향을 주는 주요 변수다. 이번 보도는 유가 상승과 아람코 실적 개선을 함께 다루며 에너지 시장의 민감한 반응을 보여준다. 향후 시장은 호르무즈 관련 상황과 국제유가 흐름을 확인할 것으로 보인다. 출처: hankyung.com"
+      },
+      "en": {
+        "title": "Oil Prices Jump on Hormuz Blockade Concerns as Aramco Q1 Earnings Improve",
+        "excerpt": "Oil prices rose on concerns over a Strait of Hormuz blockade, putting Saudi Aramco’s improved first-quarter results in focus as energy markets tracked supply risks and crude price moves.",
+        "body": "International oil prices jumped as concerns emerged over a possible blockade of the Strait of Hormuz, drawing attention to Saudi Aramco’s improved first-quarter performance. The Strait of Hormuz is a key route for Middle East crude shipments, and worries over disruption can quickly be reflected in oil prices. Higher crude prices are a major factor affecting revenue and profitability for oil producers. The report links the oil price rise with Aramco’s stronger quarterly results, showing how sensitive energy markets remain to supply-related risks. Markets are expected to keep watching developments around Hormuz and the direction of global oil prices. Source: hankyung.com"
+      },
+      "ja": {
+        "title": "ホルムズ封鎖懸念で原油急騰、アラムコ第1四半期業績改善に注目",
+        "excerpt": "ホルムズ海峡の封鎖懸念で国際原油価格が上昇し、サウジアラムコの第1四半期業績改善が注目された。市場は供給不安と原油価格の動きを見守っている。",
+        "body": "ホルムズ海峡の封鎖懸念が浮上し、国際原油価格が急騰したことで、サウジアラムコの第1四半期業績改善に関心が集まっている。ホルムズ海峡は中東産原油輸送の重要な通路であり、封鎖への警戒が強まれば供給障害の可能性が原油価格にすぐ反映されやすい。原油価格の上昇は産油企業の売上高と収益性に影響する主要な要因だ。今回の報道は、原油高とアラムコの業績改善をあわせて取り上げ、エネルギー市場の敏感な反応を示している。今後はホルムズ関連の状況と国際原油価格の流れが確認される見通しだ。出典: hankyung.com"
+      },
+      "zh": {
+        "title": "霍尔木兹封锁担忧推高油价，阿美一季度业绩改善受关注",
+        "excerpt": "霍尔木兹海峡封锁担忧推升国际油价，沙特阿美一季度业绩改善受到关注。能源市场正同时观察供应中断风险与原油价格走势。",
+        "body": "围绕霍尔木兹海峡封锁的担忧升温，国际油价随之大幅上涨，沙特阿美一季度业绩改善也受到市场关注。霍尔木兹海峡是中东原油运输的重要通道，一旦封锁忧虑扩大，供应受阻的可能性可能迅速反映在油价中。原油价格上涨是影响产油企业收入和盈利能力的关键因素。本次报道将油价上涨与阿美业绩改善一并呈现，显示能源市场对供应风险的敏感反应。后续市场预计将继续关注霍尔木兹相关情况以及国际油价走势。来源: hankyung.com"
+      },
+      "es": {
+        "title": "El petróleo sube por temor a bloqueo de Ormuz y Aramco mejora en el 1T",
+        "excerpt": "El temor a un bloqueo del estrecho de Ormuz impulsó los precios internacionales del petróleo y puso en foco la mejora de resultados de Saudi Aramco en el primer trimestre.",
+        "body": "Los precios internacionales del petróleo subieron con fuerza tras surgir preocupaciones por un posible bloqueo del estrecho de Ormuz, lo que llevó la atención a la mejora de resultados de Saudi Aramco en el primer trimestre. Ormuz es una vía clave para el transporte de crudo de Oriente Medio, por lo que cualquier temor a interrupciones de suministro puede reflejarse rápidamente en los precios. El alza del crudo es un factor importante para los ingresos y la rentabilidad de las compañías productoras. El informe vincula el repunte del petróleo con el mejor desempeño de Aramco y muestra la sensibilidad del mercado energético ante riesgos de suministro. Fuente: hankyung.com"
+      },
+      "pt": {
+        "title": "Petróleo dispara com temor de bloqueio em Ormuz e Aramco melhora no 1T",
+        "excerpt": "A preocupação com um bloqueio do estreito de Ormuz elevou os preços internacionais do petróleo e colocou em destaque a melhora dos resultados da Saudi Aramco no primeiro trimestre.",
+        "body": "Os preços internacionais do petróleo subiram fortemente após surgirem preocupações com um possível bloqueio do estreito de Ormuz, levando a atenção para a melhora do desempenho da Saudi Aramco no primeiro trimestre. Ormuz é uma rota essencial para o transporte de petróleo do Oriente Médio, e temores de interrupção no fornecimento podem ser rapidamente refletidos nos preços. A alta do petróleo é uma variável importante para a receita e a rentabilidade das produtoras. A reportagem relaciona a valorização do crude ao avanço dos resultados da Aramco, evidenciando a reação sensível do mercado de energia a riscos de oferta. Fonte: hankyung.com"
+      },
+      "de": {
+        "title": "Ölpreis springt wegen Hormus-Sorgen, Aramco mit besserem ersten Quartal",
+        "excerpt": "Sorgen über eine Blockade der Straße von Hormus ließen die internationalen Ölpreise steigen und rückten die verbesserten Ergebnisse von Saudi Aramco im ersten Quartal in den Fokus.",
+        "body": "Die internationalen Ölpreise sind deutlich gestiegen, nachdem Sorgen über eine mögliche Blockade der Straße von Hormus aufgekommen waren. Dadurch rückten die verbesserten Ergebnisse von Saudi Aramco im ersten Quartal in den Mittelpunkt. Die Straße von Hormus ist eine zentrale Route für Rohöllieferungen aus dem Nahen Osten; Befürchtungen über Lieferstörungen können sich daher rasch in den Preisen niederschlagen. Steigende Ölpreise sind ein wichtiger Faktor für Umsatz und Profitabilität von Förderunternehmen. Der Bericht verbindet den Ölpreisanstieg mit Aramcos besserer Quartalsleistung und zeigt die empfindliche Reaktion des Energiemarkts auf Angebotsrisiken. Quelle: hankyung.com"
+      },
+      "fr": {
+        "title": "Le pétrole bondit avec Ormuz, les résultats du 1T d’Aramco s’améliorent",
+        "excerpt": "Les craintes d’un blocage du détroit d’Ormuz ont fait monter les prix internationaux du pétrole et mis en avant l’amélioration des résultats de Saudi Aramco au premier trimestre.",
+        "body": "Les prix internationaux du pétrole ont fortement augmenté après l’apparition de craintes liées à un possible blocage du détroit d’Ormuz, attirant l’attention sur l’amélioration des résultats de Saudi Aramco au premier trimestre. Le détroit d’Ormuz est une voie essentielle pour le transport du brut du Moyen-Orient; toute inquiétude concernant une rupture d’approvisionnement peut donc se refléter rapidement dans les prix. La hausse du pétrole est un facteur majeur pour les revenus et la rentabilité des producteurs. Le reportage associe le rebond des prix à la meilleure performance d’Aramco et illustre la sensibilité du marché de l’énergie aux risques d’offre. Source: hankyung.com"
+      },
+      "ar": {
+        "title": "ارتفاع النفط مع مخاوف إغلاق هرمز وتحسن نتائج أرامكو في الربع الأول",
+        "excerpt": "ارتفعت أسعار النفط العالمية مع مخاوف من إغلاق مضيق هرمز، ما سلط الضوء على تحسن نتائج أرامكو السعودية في الربع الأول وسط متابعة السوق لمخاطر الإمداد.",
+        "body": "قفزت أسعار النفط العالمية بعد ظهور مخاوف بشأن احتمال إغلاق مضيق هرمز، ما جعل تحسن أداء أرامكو السعودية في الربع الأول محل اهتمام. ويعد مضيق هرمز ممرا رئيسيا لنقل نفط الشرق الأوسط، لذلك فإن أي قلق من تعطل الإمدادات يمكن أن ينعكس بسرعة على الأسعار. ارتفاع النفط عامل مهم يؤثر في إيرادات وربحية شركات الإنتاج. يربط التقرير بين صعود الأسعار وتحسن نتائج أرامكو الفصلية، ويظهر حساسية سوق الطاقة تجاه مخاطر الإمداد. ومن المتوقع أن تواصل السوق متابعة تطورات هرمز واتجاه أسعار النفط العالمية. المصدر: hankyung.com"
+      },
+      "hi": {
+        "title": "हॉर्मुज बंदी की आशंका से तेल उछला, अरामको की पहली तिमाही बेहतर",
+        "excerpt": "हॉर्मुज जलडमरूमध्य की बंदी की आशंका से अंतरराष्ट्रीय तेल कीमतें बढ़ीं और सऊदी अरामको के पहली तिमाही के बेहतर नतीजे चर्चा में आए। बाजार आपूर्ति जोखिम देख रहा है।",
+        "body": "हॉर्मुज जलडमरूमध्य की संभावित बंदी को लेकर चिंता बढ़ने के बाद अंतरराष्ट्रीय तेल कीमतों में तेज वृद्धि हुई, जिससे सऊदी अरामको के पहली तिमाही के बेहतर प्रदर्शन पर ध्यान गया। हॉर्मुज मध्य पूर्वी कच्चे तेल के परिवहन का प्रमुख मार्ग है, इसलिए आपूर्ति में बाधा की आशंका तेल कीमतों में तुरंत दिखाई दे सकती है। कच्चे तेल की ऊंची कीमतें उत्पादक कंपनियों के राजस्व और लाभप्रदता को प्रभावित करने वाला अहम कारक हैं। रिपोर्ट तेल कीमतों की तेजी और अरामको के बेहतर तिमाही नतीजों को साथ रखती है और ऊर्जा बाजार की आपूर्ति जोखिमों के प्रति संवेदनशीलता दिखाती है। स्रोत: hankyung.com"
+      },
+      "id": {
+        "title": "Harga minyak melonjak karena Hormuz, kinerja kuartal I Aramco membaik",
+        "excerpt": "Kekhawatiran blokade Selat Hormuz mendorong kenaikan harga minyak dunia dan menyoroti membaiknya kinerja Saudi Aramco pada kuartal pertama di tengah risiko pasokan.",
+        "body": "Harga minyak internasional melonjak setelah muncul kekhawatiran mengenai kemungkinan blokade Selat Hormuz, sehingga perhatian tertuju pada membaiknya kinerja Saudi Aramco pada kuartal pertama. Selat Hormuz merupakan jalur penting pengiriman minyak mentah dari Timur Tengah, sehingga kekhawatiran gangguan pasokan dapat cepat tercermin pada harga. Kenaikan harga minyak menjadi faktor utama yang memengaruhi pendapatan dan profitabilitas perusahaan produsen. Laporan ini mengaitkan kenaikan harga minyak dengan perbaikan hasil Aramco, sekaligus menunjukkan respons sensitif pasar energi terhadap risiko pasokan. Sumber: hankyung.com"
+      }
+    }
+  },
+  {
+    "id": "accaa227639f",
+    "slug": "에스오일-유가-안정화-이후-본격-반등-전망-886692",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-05-11T23:11:25.463Z",
+    "updatedAt": "2026-05-11T23:11:25.463Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/stock/12044220",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12044220",
+    "titleFingerprint": "a2dd7108ad24ae4221b6ad1716051ff80186b4c1",
+    "dedupKeys": [
+      "accaa227639feec48894f2e5ee59e2835d776f46",
+      "a2dd7108ad24ae4221b6ad1716051ff80186b4c1",
+      "a2616a71feabc56a5c3ef11560bc7fd74c5a51e6"
+    ],
+    "imageUrl": "/images/articles/accaa227639f.jpg",
+    "i18n": {
+      "ko": {
+        "title": "에스오일 주가 전망, 유가 안정화 뒤 반등 기대…하나증권 목표가 유지",
+        "excerpt": "하나증권은 12일 에스오일(S-Oil)에 대해 유가 안정화 이후 본격 반등이 가능하다고 보고 목표주가 13만원과 투자의견 ‘매수(BUY)’를 유지했다.",
+        "body": "하나증권은 12일 에스오일(S-Oil)에 대해 유가 안정화 이후 본격적인 반등이 전망된다고 밝혔다. 이번 분석에서 하나증권은 에스오일의 목표주가를 기존 13만원으로 유지했으며, 투자의견도 기존 ‘매수(BUY)’를 그대로 제시했다. 배경은 원문에서 언급된 유가 안정화 이후의 회복 가능성이다. 목표주가와 투자의견이 모두 유지됐다는 점은 증권사가 기존 평가를 바꾸지 않았다는 의미로 해석된다. 향후 관전 포인트는 유가 안정화 흐름 이후 에스오일의 반등 여부다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "S-Oil Outlook: Hana Securities Keeps Buy Rating, Sees Rebound After Oil Price Stability",
+        "excerpt": "Hana Securities said on the 12th that S-Oil may rebound in earnest after oil prices stabilize, while keeping its target price at 130,000 won and maintaining a Buy rating.",
+        "body": "Hana Securities said on the 12th that S-Oil is expected to begin a full rebound after oil prices stabilize. In the report, the brokerage maintained its existing target price of 130,000 won for S-Oil and also kept its investment opinion at “Buy.” The key context given in the original report is the prospect of recovery after oil price stabilization. The unchanged target price and rating indicate that Hana Securities did not revise its previous view. The main point to watch is whether S-Oil’s rebound materializes after the stabilization of crude oil prices. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "S-Oil見通し、原油価格安定後の本格反発に期待…ハナ証券が買い維持",
+        "excerpt": "ハナ証券は12日、S-Oilについて原油価格の安定後に本格的な反発が見込まれるとして、目標株価13万ウォンと投資判断「買い」を維持した。",
+        "body": "ハナ証券は12日、S-Oilについて原油価格が安定した後に本格的な反発が見込まれると発表した。今回の分析で同証券は、S-Oilの目標株価を従来の13万ウォンに据え置き、投資判断も従来の「買い」を維持した。背景として原文で示されたのは、原油価格安定後の回復可能性である。目標株価と投資判断がいずれも維持されたことは、同証券が従来の評価を変更しなかったことを意味する。今後の焦点は、原油価格の安定後にS-Oilの反発が実現するかどうかだ。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "S-Oil前景受关注：油价稳定后有望反弹，韩亚证券维持买入评级",
+        "excerpt": "韩亚证券12日表示，S-Oil在油价稳定后有望正式反弹，并维持13万韩元目标价及“买入(BUY)”投资评级不变。",
+        "body": "韩亚证券12日表示，S-Oil在油价稳定之后有望出现正式反弹。该机构在此次分析中维持S-Oil原有13万韩元目标股价，同时也维持此前的“买入(BUY)”投资评级。原文提到的主要背景是油价稳定后的恢复可能性。目标价和投资评级均保持不变，意味着韩亚证券没有调整此前对该公司的判断。接下来值得关注的是，在油价稳定走势之后，S-Oil是否能够实现预期中的反弹。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "S-Oil gana foco: Hana Securities ve rebote tras estabilización del petróleo y mantiene compra",
+        "excerpt": "Hana Securities dijo el día 12 que S-Oil podría repuntar con fuerza tras estabilizarse el precio del petróleo, manteniendo precio objetivo de 130.000 wones y recomendación de compra.",
+        "body": "Hana Securities señaló el día 12 que S-Oil podría iniciar un rebote más claro después de la estabilización de los precios del petróleo. En su análisis, la firma mantuvo el precio objetivo previo de 130.000 wones para S-Oil y conservó también su recomendación de inversión en “compra”. El contexto citado en el texto original es la posibilidad de recuperación una vez que el petróleo se estabilice. Que tanto el precio objetivo como la recomendación no cambien indica que la firma no modificó su valoración anterior. El punto a observar será si S-Oil logra ese repunte tras la estabilización del crudo. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "S-Oil em destaque: Hana Securities vê alta após petróleo estabilizar e mantém compra",
+        "excerpt": "A Hana Securities afirmou no dia 12 que a S-Oil pode iniciar uma recuperação mais forte após a estabilização do petróleo, mantendo preço-alvo de 130.000 won e recomendação de compra.",
+        "body": "A Hana Securities afirmou no dia 12 que a S-Oil deve ter uma recuperação mais consistente após a estabilização dos preços do petróleo. Na análise, a corretora manteve o preço-alvo anterior de 130.000 won para a S-Oil e também preservou a recomendação de investimento em “compra”. O contexto mencionado no texto original é a possibilidade de recuperação depois que o petróleo se estabilizar. A manutenção tanto do preço-alvo quanto da recomendação mostra que a avaliação anterior da casa não foi alterada. O ponto de atenção agora é se a S-Oil confirmará esse movimento de recuperação após a estabilização do petróleo. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "S-Oil-Ausblick: Hana Securities erwartet Erholung nach Ölpreis-Stabilisierung und bleibt bei Kaufen",
+        "excerpt": "Hana Securities erklärte am 12., dass S-Oil nach einer Stabilisierung der Ölpreise deutlich anziehen könnte, und beließ Kursziel von 130.000 Won sowie Kaufen-Rating unverändert.",
+        "body": "Hana Securities erklärte am 12., dass S-Oil nach einer Stabilisierung der Ölpreise eine stärkere Erholung erwarten lasse. In der Analyse hielt das Wertpapierhaus das bisherige Kursziel von 130.000 Won für S-Oil unverändert und bestätigte zugleich die Anlageempfehlung „Kaufen“. Als Hintergrund nennt der Originaltext die Möglichkeit einer Erholung nach stabileren Ölpreisen. Dass sowohl Kursziel als auch Empfehlung unverändert bleiben, zeigt, dass Hana Securities seine bisherige Einschätzung nicht geändert hat. Entscheidend bleibt nun, ob S-Oil nach der Stabilisierung der Ölpreise tatsächlich in die erwartete Erholung übergeht. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "S-Oil sous surveillance : Hana Securities vise un rebond après stabilisation du pétrole",
+        "excerpt": "Hana Securities a indiqué le 12 que S-Oil pourrait rebondir après la stabilisation des prix du pétrole, tout en maintenant son objectif de 130 000 wons et son avis d’achat.",
+        "body": "Hana Securities a indiqué le 12 que S-Oil devrait connaître un rebond plus marqué après la stabilisation des prix du pétrole. Dans cette analyse, la société de courtage a maintenu son objectif de cours existant à 130 000 wons pour S-Oil et a également conservé sa recommandation d’investissement à “achat”. Le contexte mentionné dans le texte original est la possibilité de reprise après une stabilisation du pétrole. Le maintien de l’objectif et de la recommandation signifie que Hana Securities n’a pas modifié son évaluation précédente. Le point à suivre sera donc la concrétisation ou non du rebond de S-Oil après cette stabilisation. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "توقعات S-Oil: هانا للأوراق المالية تبقي الشراء وترى ارتدادا بعد استقرار النفط",
+        "excerpt": "قالت هانا للأوراق المالية في 12 إن S-Oil قد تشهد ارتدادا فعليا بعد استقرار أسعار النفط، مع الإبقاء على السعر المستهدف عند 130 ألف وون وتوصية الشراء.",
+        "body": "قالت هانا للأوراق المالية في 12 إن شركة S-Oil من المتوقع أن تشهد ارتدادا أكثر وضوحا بعد استقرار أسعار النفط. وفي هذا التحليل، أبقت الشركة على السعر المستهدف السابق لسهم S-Oil عند 130 ألف وون، كما أبقت على توصية الاستثمار عند “شراء”. والسياق الوارد في النص الأصلي هو إمكانية التعافي بعد استقرار أسعار النفط. ويعني عدم تغيير السعر المستهدف والتوصية أن هانا للأوراق المالية لم تعدل تقييمها السابق. وستكون النقطة الرئيسية للمتابعة هي ما إذا كان ارتداد S-Oil سيتحقق بعد استقرار النفط. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "S-Oil पर नजर: तेल कीमतें स्थिर होने के बाद उछाल की उम्मीद, Hana ने Buy बनाए रखा",
+        "excerpt": "Hana Securities ने 12 तारीख को कहा कि तेल कीमतों में स्थिरता के बाद S-Oil में ठोस उछाल आ सकता है, जबकि 130,000 वॉन का लक्ष्य मूल्य और ‘Buy’ राय बरकरार रखी।",
+        "body": "Hana Securities ने 12 तारीख को कहा कि तेल कीमतों के स्थिर होने के बाद S-Oil में अधिक स्पष्ट सुधार की संभावना है। इस विश्लेषण में ब्रोकरेज ने S-Oil के लिए अपना पुराना 130,000 वॉन का लक्ष्य मूल्य बनाए रखा और निवेश राय भी “Buy” पर बरकरार रखी। मूल रिपोर्ट में दिया गया मुख्य संदर्भ तेल कीमतों की स्थिरता के बाद रिकवरी की संभावना है। लक्ष्य मूल्य और निवेश राय दोनों में बदलाव नहीं होना दिखाता है कि Hana Securities ने अपनी पिछली राय नहीं बदली। आगे देखने वाली बात यह होगी कि तेल कीमतों की स्थिरता के बाद S-Oil में अपेक्षित उछाल आता है या नहीं। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Prospek S-Oil: Hana Securities lihat rebound setelah harga minyak stabil, tetap Buy",
+        "excerpt": "Hana Securities pada tanggal 12 menyatakan S-Oil berpotensi rebound lebih kuat setelah harga minyak stabil, sambil mempertahankan target harga 130.000 won dan rekomendasi Buy.",
+        "body": "Hana Securities pada tanggal 12 menyatakan bahwa S-Oil diperkirakan dapat memasuki fase rebound yang lebih nyata setelah harga minyak stabil. Dalam analisis tersebut, perusahaan sekuritas itu mempertahankan target harga S-Oil sebelumnya di 130.000 won dan juga mempertahankan rekomendasi investasi “Buy”. Konteks utama yang disebut dalam teks asli adalah peluang pemulihan setelah stabilisasi harga minyak. Tidak berubahnya target harga dan rekomendasi menunjukkan bahwa Hana Securities tidak mengubah penilaian sebelumnya. Hal yang perlu diperhatikan berikutnya adalah apakah rebound S-Oil benar-benar terjadi setelah harga minyak stabil. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
     "id": "00220c034d47",
     "slug": "1년간-주가-2배-뛴-한화인적분할-후에도-상승세-이어갈까-194817",
     "channelId": "ETF",
@@ -4271,231 +4496,6 @@
         "title": "Strategi STO: Desain Infrastruktur Keuangan Jadi Kunci, Bukan Sekadar Teknologi",
         "excerpt": "Asosiasi Industri Konvergensi Digital menggelar seminar penerbitan dan perdagangan STO, menekankan bahwa desain infrastruktur keuangan dan pasokan likuiditas menjadi tugas utama sebelum UU STO berlaku tahun depan.",
         "body": "Asosiasi Industri Konvergensi Digital menggelar seminar penerbitan dan distribusi STO menjelang berlakunya UU STO tahun depan, dengan membahas strategi agar sekuritas token masuk ke sistem keuangan resmi. Para peserta menekankan bahwa isu penting saat ini bukan lagi sekadar membuat teknologi dengan baik, melainkan bagaimana merancang infrastruktur keuangan untuk mendukung penerbitan dan perdagangan. Latar belakangnya adalah pandangan bahwa ketika sekuritas token masuk ke pasar institusional, penerbitan, distribusi, perlindungan investor, dan pasokan likuiditas harus berjalan bersama. Dalam seminar tersebut, disampaikan pula bahwa tokenisasi perlu dimulai dari aset yang terstandardisasi, sementara pasokan likuiditas menjadi inti kelangsungan pasar. Ke depan, daya saing pasar STO diperkirakan bergantung pada struktur penerbitan dan distribusi yang stabil serta kemampuan desain infrastruktur keuangan, bukan pada teknologi saja. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "1b4b6157ee94",
-    "slug": "삼성전자하이닉스-절반-담았다삼성운용-반도체-커버드콜-etf-출격-302541",
-    "channelId": "ETF",
-    "category": "etf",
-    "publishedAt": "2026-05-11T04:55:13.388Z",
-    "updatedAt": "2026-05-11T04:55:13.388Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/stock/12043157",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12043157",
-    "titleFingerprint": "8b960b0f7c1cd07a178fbb3a4d3e435d32425f92",
-    "dedupKeys": [
-      "1b4b6157ee9441372f5e9ab056b1e3c280c23b45",
-      "8b960b0f7c1cd07a178fbb3a4d3e435d32425f92",
-      "a665da69e955a0adaef1501ba8e5589ade2f5f44"
-    ],
-    "imageUrl": "/images/articles/1b4b6157ee94.jpg",
-    "i18n": {
-      "ko": {
-        "title": "삼성운용 반도체 커버드콜 ETF 12일 상장…삼성전자·하이닉스 절반 편입",
-        "excerpt": "삼성자산운용은 12일 ‘KODEX 반도체타겟위클리커버드콜’ ETF를 상장해 국내 반도체 대장주 투자와 월말 배당 수익을 동시에 추구한다.",
-        "body": "삼성자산운용이 12일 국내 반도체 대표주 투자와 월말 배당 수익을 함께 겨냥한 신규 상장지수펀드(ETF) ‘KODEX 반도체타겟위클리커버드콜’을 상장한다. 이 ETF는 삼성전자와 SK하이닉스를 절반가량 담아 국내 반도체 대장주에 투자하는 구조다. 상품명에서 드러나듯 커버드콜 전략을 활용해 주식 투자와 배당 수익을 동시에 추구한다. 국내 증시 강세 흐름 속에서 반도체 핵심 종목에 대한 투자 수요와 정기적인 현금흐름을 원하는 투자자 관심을 겨냥한 상품으로 소개됐다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Samsung AM’s Semiconductor Covered Call ETF Lists on the 12th With Samsung Electronics and Hynix at Half",
-        "excerpt": "Samsung Asset Management will list the KODEX Semiconductor Target Weekly Covered Call ETF on the 12th, seeking exposure to Korea’s chip leaders and month-end dividend income.",
-        "body": "Samsung Asset Management will list a new exchange-traded fund, the KODEX Semiconductor Target Weekly Covered Call ETF, on the 12th to pursue both investment in major Korean semiconductor stocks and month-end dividend income. The ETF is structured with roughly half of its portfolio allocated to Samsung Electronics and SK Hynix, Korea’s leading chip names. As indicated by its name, the product uses a covered call strategy to seek stock exposure and dividend income at the same time. It was introduced as a fund aimed at investor interest in key semiconductor stocks and regular cash flow amid strength in the domestic stock market. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "サムスン運用の半導体カバードコールETF、12日上場…サムスン電子・ハイニックスを半分組み入れ",
-        "excerpt": "サムスン資産運用は12日、「KODEX半導体ターゲット・ウィークリー・カバードコール」ETFを上場し、韓国半導体主力株投資と月末配当収益を同時に追求する。",
-        "body": "サムスン資産運用は12日、韓国の半導体代表銘柄への投資と月末配当収益を同時に狙う新しい上場投資信託（ETF）「KODEX半導体ターゲット・ウィークリー・カバードコール」を上場する。このETFはサムスン電子とSKハイニックスを約半分組み入れ、韓国の半導体主力株に投資する構造だ。商品名が示すように、カバードコール戦略を活用し、株式投資と配当収益を同時に追求する。韓国株式市場の堅調な流れの中で、半導体中核銘柄への投資需要と定期的なキャッシュフローを求める投資家の関心を狙った商品として紹介された。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "三星资管半导体备兑看涨ETF 12日上市…三星电子与海力士占约一半",
-        "excerpt": "三星资产管理将于12日上市“KODEX半导体目标每周备兑看涨”ETF，旨在同时追求韩国半导体龙头投资和月末分红收益。",
-        "body": "三星资产管理将于12日上市新的交易所交易基金（ETF）“KODEX半导体目标每周备兑看涨”，目标是同时获取韩国半导体代表股投资机会和月末分红收益。该ETF约一半仓位配置三星电子和SK海力士，形成投资韩国半导体龙头股的结构。正如产品名称所示，该基金运用备兑看涨策略，力求同时实现股票投资和分红收益。在韩国股市走强的背景下，该产品被介绍为面向关注半导体核心个股投资需求和定期现金流的投资者。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "ETF semiconductor covered call de Samsung AM debuta el día 12 con Samsung Electronics y Hynix como mitad",
-        "excerpt": "Samsung Asset Management listará el día 12 el ETF KODEX Semiconductor Target Weekly Covered Call, que busca invertir en líderes coreanos de chips y obtener dividendos de fin de mes.",
-        "body": "Samsung Asset Management listará el día 12 un nuevo fondo cotizado, el KODEX Semiconductor Target Weekly Covered Call ETF, con el objetivo de combinar inversión en acciones representativas del sector de semiconductores de Corea y dividendos de fin de mes. El ETF está estructurado con cerca de la mitad de su cartera en Samsung Electronics y SK Hynix, los principales valores coreanos de chips. Como indica su nombre, utiliza una estrategia de covered call para buscar exposición accionaria e ingresos por dividendos al mismo tiempo. En medio de la fortaleza del mercado bursátil local, se presentó como un producto dirigido a inversores interesados en valores clave de semiconductores y en flujos de caja periódicos. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "ETF semicondutor covered call da Samsung AM estreia no dia 12 com Samsung Electronics e Hynix em metade",
-        "excerpt": "A Samsung Asset Management listará no dia 12 o ETF KODEX Semiconductor Target Weekly Covered Call, buscando exposição a líderes coreanas de chips e dividendos no fim do mês.",
-        "body": "A Samsung Asset Management listará no dia 12 um novo fundo negociado em bolsa, o KODEX Semiconductor Target Weekly Covered Call ETF, para buscar simultaneamente investimento nas principais ações coreanas de semicondutores e renda de dividendos no fim do mês. O ETF tem cerca de metade da carteira alocada em Samsung Electronics e SK Hynix, estruturando exposição às líderes domésticas do setor. Como o nome sugere, o produto usa uma estratégia de covered call para combinar investimento em ações e renda de dividendos. Em meio à força do mercado acionário local, foi apresentado como um produto voltado a investidores interessados em papéis centrais de semicondutores e fluxo de caixa regular. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Samsung AM listet Halbleiter-Covered-Call-ETF am 12. mit Samsung Electronics und Hynix zur Hälfte",
-        "excerpt": "Samsung Asset Management bringt am 12. den KODEX Semiconductor Target Weekly Covered Call ETF an die Börse, der Koreas Chip-Schwergewichte und Monatsend-Dividenden verbindet.",
-        "body": "Samsung Asset Management listet am 12. einen neuen börsengehandelten Fonds, den KODEX Semiconductor Target Weekly Covered Call ETF, der Investitionen in führende koreanische Halbleiterwerte mit Dividendenerträgen zum Monatsende verbinden soll. Der ETF ist so aufgebaut, dass etwa die Hälfte des Portfolios auf Samsung Electronics und SK Hynix entfällt, die großen koreanischen Chipwerte. Wie der Produktname zeigt, nutzt der Fonds eine Covered-Call-Strategie, um Aktienengagement und Dividendenerträge zugleich anzustreben. Vor dem Hintergrund eines starken heimischen Aktienmarkts wurde das Produkt als Angebot für Anleger vorgestellt, die Interesse an zentralen Halbleiterwerten und regelmäßigem Cashflow haben. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "L’ETF semiconductor covered call de Samsung AM coté le 12, avec Samsung Electronics et Hynix pour moitié",
-        "excerpt": "Samsung Asset Management cotera le 12 l’ETF KODEX Semiconductor Target Weekly Covered Call, visant les leaders coréens des puces et un revenu de dividendes en fin de mois.",
-        "body": "Samsung Asset Management cotera le 12 un nouveau fonds indiciel coté, le KODEX Semiconductor Target Weekly Covered Call ETF, afin de viser à la fois l’investissement dans les grandes valeurs coréennes des semi-conducteurs et un revenu de dividendes en fin de mois. L’ETF est structuré avec environ la moitié de son portefeuille investie dans Samsung Electronics et SK Hynix, les principaux titres coréens du secteur. Comme son nom l’indique, le produit utilise une stratégie de covered call pour rechercher simultanément exposition aux actions et revenu de dividendes. Dans un contexte de vigueur du marché boursier coréen, il a été présenté comme un produit destiné aux investisseurs intéressés par les valeurs clés des semi-conducteurs et des flux de trésorerie réguliers. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "إدراج ETF أشباه الموصلات المغطى من سامسونغ في 12 مع نصف المحفظة في سامسونغ إلكترونيكس وهاينكس",
-        "excerpt": "تدرج سامسونغ لإدارة الأصول في 12 صندوق KODEX Semiconductor Target Weekly Covered Call، مستهدفة الاستثمار في قادة الرقائق الكوريين ودخل توزيعات نهاية الشهر.",
-        "body": "تدرج سامسونغ لإدارة الأصول في 12 صندوقا متداولا جديدا هو KODEX Semiconductor Target Weekly Covered Call ETF، بهدف الجمع بين الاستثمار في أسهم أشباه الموصلات الكورية الكبرى ودخل توزيعات في نهاية الشهر. ويخصص الصندوق نحو نصف محفظته لسهمي Samsung Electronics وSK Hynix، وهما من أبرز أسهم الرقائق في كوريا. وكما يوضح الاسم، يستخدم المنتج استراتيجية covered call سعيا إلى تحقيق تعرض للأسهم ودخل توزيعات في الوقت نفسه. ووسط قوة سوق الأسهم المحلية، جرى تقديمه كمنتج يستهدف اهتمام المستثمرين بأسهم أشباه الموصلات الأساسية والتدفقات النقدية المنتظمة. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "Samsung AM का सेमीकंडक्टर कवर्ड कॉल ETF 12 तारीख को सूचीबद्ध, Samsung Electronics और Hynix करीब आधे",
-        "excerpt": "Samsung Asset Management 12 तारीख को KODEX Semiconductor Target Weekly Covered Call ETF सूचीबद्ध करेगी, जिसका लक्ष्य कोरियाई चिप नेताओं में निवेश और महीने के अंत की डिविडेंड आय है।",
-        "body": "Samsung Asset Management 12 तारीख को नया एक्सचेंज ट्रेडेड फंड KODEX Semiconductor Target Weekly Covered Call ETF सूचीबद्ध करेगी, जिसका उद्देश्य कोरिया की प्रमुख सेमीकंडक्टर कंपनियों में निवेश और महीने के अंत की डिविडेंड आय को साथ-साथ पाना है। इस ETF की संरचना में लगभग आधा पोर्टफोलियो Samsung Electronics और SK Hynix में रखा गया है, जो कोरिया के बड़े चिप शेयर हैं। नाम से स्पष्ट है कि उत्पाद covered call रणनीति का उपयोग कर शेयर निवेश और डिविडेंड आय दोनों को साधता है। घरेलू शेयर बाजार की मजबूती के बीच इसे सेमीकंडक्टर के मुख्य शेयरों में निवेश मांग और नियमित नकदी प्रवाह चाहने वाले निवेशकों के लिए पेश किया गया। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "ETF covered call semikonduktor Samsung AM melantai tanggal 12, Samsung Electronics dan Hynix hampir separuh",
-        "excerpt": "Samsung Asset Management akan mencatatkan KODEX Semiconductor Target Weekly Covered Call ETF pada tanggal 12, membidik saham chip utama Korea dan pendapatan dividen akhir bulan.",
-        "body": "Samsung Asset Management akan mencatatkan exchange-traded fund baru, KODEX Semiconductor Target Weekly Covered Call ETF, pada tanggal 12 untuk mengejar investasi pada saham semikonduktor utama Korea sekaligus pendapatan dividen akhir bulan. ETF ini disusun dengan sekitar separuh portofolio ditempatkan pada Samsung Electronics dan SK Hynix, dua saham chip unggulan di Korea. Seperti tercermin dari namanya, produk ini menggunakan strategi covered call untuk mencari eksposur saham dan pendapatan dividen secara bersamaan. Di tengah penguatan pasar saham domestik, produk ini diperkenalkan untuk menarik investor yang menginginkan investasi pada saham inti semikonduktor dan arus kas berkala. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "5c5e21f54b0c",
-    "slug": "트럼프가-뭘-하든-삼전닉스-믿은-개미들1분기-10명-중-8명이-돈-벌었다-287423",
-    "channelId": "ETF",
-    "category": "etf",
-    "publishedAt": "2026-05-11T04:54:17.544Z",
-    "updatedAt": "2026-05-11T04:54:17.544Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/stock/12043169",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12043169",
-    "titleFingerprint": "47059fcd074fccc335aba9ccd7ad9cd18321d446",
-    "dedupKeys": [
-      "5c5e21f54b0c7572601ea4fecb7a29d3f9e4ade9",
-      "47059fcd074fccc335aba9ccd7ad9cd18321d446",
-      "0dd783e638d7bb66185e916acdf2202b90d1e51e"
-    ],
-    "imageUrl": "/images/articles/5c5e21f54b0c.png",
-    "i18n": {
-      "ko": {
-        "title": "삼성전자·SK하이닉스 믿은 개인투자자, 1분기 10명 중 8명 수익",
-        "excerpt": "미국·이란 전쟁 공포라는 대외 충격 속에서도 올해 1분기 국내 주식을 매도한 개인투자자 10명 중 8명이 수익을 실현했고, 평균 수익은 848만원으로 집계됐다.",
-        "body": "올해 1분기 국내 주식을 매도한 개인투자자 10명 중 8명이 수익을 실현한 것으로 나타났다. 미국·이란 전쟁 공포라는 대외 충격에도 개인투자자 상당수가 이익을 낸 것이다. 평균 수익은 848만원으로 집계됐으며, 삼성전자와 SK하이닉스가 수익 실현을 견인한 것으로 전해졌다. 대외 불확실성이 커진 상황에서도 이른바 ‘삼전닉스’에 대한 개인투자자들의 신뢰가 성과로 이어진 셈이다. 이번 결과는 1분기 국내 증시에서 대형 반도체주가 개인 매매 성과에 큰 영향을 미쳤음을 보여준다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Samsung Electronics and SK Hynix Help Retail Investors Profit in Q1",
-        "excerpt": "Despite fears over a U.S.-Iran war, eight out of ten retail investors who sold Korean stocks in the first quarter realized gains, with average profit reaching 8.48 million won.",
-        "body": "In the first quarter of this year, eight out of ten retail investors who sold domestic Korean stocks realized profits. The gains came despite external shocks tied to fears of a U.S.-Iran war. Average profit was tallied at 8.48 million won, with Samsung Electronics and SK Hynix cited as the main drivers. The result shows that retail investors’ confidence in the two major semiconductor names translated into realized gains during a period of heightened overseas uncertainty. It also underscores how large-cap chip stocks had a major influence on individual investors’ trading results in Korea’s stock market during the quarter. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "サムスン電子・SKハイニックス信じた個人投資家、1Qは8割が利益",
-        "excerpt": "米国・イラン戦争への懸念という外部ショックにもかかわらず、今年1四半期に韓国株を売却した個人投資家の8割が利益を実現し、平均利益は848万ウォンだった。",
-        "body": "今年1四半期に韓国国内株を売却した個人投資家の10人中8人が利益を実現したことが分かった。米国・イラン戦争への懸念という外部ショックの中でも、多くの個人投資家が利益を出した形だ。平均利益は848万ウォンと集計され、サムスン電子とSKハイニックスが利益実現をけん引したと伝えられた。対外不確実性が高まる状況でも、いわゆる「サムジョンニックス」への個人投資家の信頼が成果につながった。今回の結果は、1四半期の韓国株式市場で大型半導体株が個人投資家の売買成果に大きな影響を与えたことを示している。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "三星电子与SK海力士带动散户，一季度八成卖股获利",
-        "excerpt": "尽管美国与伊朗战争担忧带来外部冲击，今年一季度卖出韩国股票的个人投资者中有八成实现收益，平均收益为848万韩元。",
-        "body": "今年一季度，卖出韩国国内股票的个人投资者中，每10人有8人实现了收益。即使面临美国与伊朗战争担忧带来的外部冲击，相当多的个人投资者仍获得利润。平均收益统计为848万韩元，三星电子和SK海力士被认为是推动收益实现的主要因素。这意味着在外部不确定性加大的情况下，个人投资者对这两只大型半导体股的信任转化为投资成果。该结果也显示，一季度韩国股市中大型芯片股对个人投资者交易表现产生了重要影响。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Samsung Electronics y SK Hynix impulsan ganancias de minoristas en el 1T",
-        "excerpt": "Pese al temor por una guerra entre Estados Unidos e Irán, ocho de cada diez inversores minoristas que vendieron acciones coreanas en el primer trimestre obtuvieron beneficios medios de 8,48 millones de wones.",
-        "body": "En el primer trimestre de este año, ocho de cada diez inversores minoristas que vendieron acciones nacionales de Corea realizaron ganancias. El resultado se produjo pese al choque externo asociado al temor por una guerra entre Estados Unidos e Irán. El beneficio medio se situó en 8,48 millones de wones, con Samsung Electronics y SK Hynix como principales impulsores. El dato muestra que la confianza de los inversores particulares en estos grandes valores de semiconductores se tradujo en beneficios realizados en un periodo de mayor incertidumbre externa. También evidencia el peso de las acciones líderes de chips en los resultados de negociación de los particulares en la bolsa coreana durante el trimestre. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Samsung Electronics e SK Hynix levam varejo a lucro no 1º trimestre",
-        "excerpt": "Mesmo com o temor de guerra entre Estados Unidos e Irã, oito em cada dez investidores pessoa física que venderam ações coreanas no primeiro trimestre realizaram lucro médio de 8,48 milhões de won.",
-        "body": "No primeiro trimestre deste ano, oito em cada dez investidores pessoa física que venderam ações domésticas da Coreia realizaram lucro. O resultado ocorreu apesar do choque externo ligado ao temor de uma guerra entre Estados Unidos e Irã. O lucro médio foi apurado em 8,48 milhões de won, com Samsung Electronics e SK Hynix apontadas como as principais responsáveis. O dado mostra que a confiança dos investidores individuais nesses grandes papéis de semicondutores se converteu em ganhos realizados durante um período de maior incerteza externa. Também indica a forte influência das ações líderes de chips no desempenho das negociações de pessoas físicas no mercado coreano no trimestre. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Samsung Electronics und SK Hynix bringen Privatanlegern im 1. Quartal Gewinne",
-        "excerpt": "Trotz Sorgen vor einem Krieg zwischen den USA und Iran erzielten acht von zehn Privatanlegern, die im ersten Quartal koreanische Aktien verkauften, Gewinne von durchschnittlich 8,48 Millionen Won.",
-        "body": "Im ersten Quartal dieses Jahres erzielten acht von zehn Privatanlegern, die inländische koreanische Aktien verkauften, realisierte Gewinne. Dies geschah trotz externer Belastungen durch Sorgen vor einem Krieg zwischen den USA und Iran. Der durchschnittliche Gewinn wurde mit 8,48 Millionen Won angegeben; Samsung Electronics und SK Hynix galten als zentrale Treiber. Das Ergebnis zeigt, dass das Vertrauen der Privatanleger in die beiden großen Halbleiterwerte in einer Phase erhöhter außenwirtschaftlicher Unsicherheit zu realisierten Gewinnen führte. Zugleich unterstreicht es den starken Einfluss großer Chipaktien auf die Handelsergebnisse einzelner Anleger am koreanischen Aktienmarkt im Quartal. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Samsung Electronics et SK Hynix portent les gains des particuliers au 1er trimestre",
-        "excerpt": "Malgré les craintes d’une guerre entre les États-Unis et l’Iran, huit investisseurs particuliers sur dix ayant vendu des actions coréennes au premier trimestre ont réalisé un gain moyen de 8,48 millions de wons.",
-        "body": "Au premier trimestre de cette année, huit investisseurs particuliers sur dix ayant vendu des actions coréennes domestiques ont réalisé des bénéfices. Ce résultat intervient malgré le choc externe lié aux craintes d’une guerre entre les États-Unis et l’Iran. Le gain moyen a été évalué à 8,48 millions de wons, Samsung Electronics et SK Hynix étant cités comme les principaux moteurs. Ces chiffres montrent que la confiance des particuliers dans ces deux grands titres des semi-conducteurs s’est traduite par des gains réalisés dans un contexte d’incertitude extérieure accrue. Ils soulignent aussi l’influence majeure des grandes valeurs des puces sur les performances de trading des particuliers sur le marché coréen au cours du trimestre. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "سامسونغ إلكترونيكس وSK هاينكس تقودان أرباح الأفراد في الربع الأول",
-        "excerpt": "رغم مخاوف الحرب بين الولايات المتحدة وإيران، حقق ثمانية من كل عشرة مستثمرين أفراد باعوا أسهما كورية في الربع الأول أرباحا، بمتوسط بلغ 8.48 مليون وون.",
-        "body": "في الربع الأول من هذا العام، حقق ثمانية من كل عشرة مستثمرين أفراد باعوا أسهما محلية كورية أرباحا محققة. وجاء ذلك رغم الصدمة الخارجية المرتبطة بمخاوف اندلاع حرب بين الولايات المتحدة وإيران. وبلغ متوسط الربح 8.48 مليون وون، فيما ذُكرت سامسونغ إلكترونيكس وSK هاينكس بوصفهما المحركين الرئيسيين لهذه الأرباح. وتظهر النتيجة أن ثقة المستثمرين الأفراد في سهمي أشباه الموصلات الكبيرين تحولت إلى مكاسب فعلية خلال فترة اتسمت بارتفاع عدم اليقين الخارجي. كما تؤكد التأثير الكبير لأسهم الرقائق الكبرى في نتائج تداول الأفراد في سوق الأسهم الكورية خلال الربع. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "Samsung Electronics और SK Hynix ने खुदरा निवेशकों को Q1 में दिलाया लाभ",
-        "excerpt": "अमेरिका-ईरान युद्ध की आशंकाओं के बावजूद, पहली तिमाही में कोरियाई शेयर बेचने वाले 10 में से 8 व्यक्तिगत निवेशकों ने लाभ कमाया और औसत लाभ 84.8 लाख वॉन रहा।",
-        "body": "इस वर्ष की पहली तिमाही में घरेलू कोरियाई शेयर बेचने वाले 10 में से 8 व्यक्तिगत निवेशकों ने लाभ वास्तविक रूप से हासिल किया। यह नतीजा अमेरिका-ईरान युद्ध की आशंकाओं से जुड़े बाहरी झटके के बावजूद सामने आया। औसत लाभ 84.8 लाख वॉन आंका गया, और Samsung Electronics तथा SK Hynix को इसके प्रमुख चालक बताया गया। इससे पता चलता है कि बढ़ी हुई बाहरी अनिश्चितता के दौर में इन दो बड़े सेमीकंडक्टर शेयरों पर व्यक्तिगत निवेशकों का भरोसा वास्तविक लाभ में बदला। यह परिणाम यह भी दिखाता है कि पहली तिमाही में कोरियाई शेयर बाजार में बड़े चिप शेयरों ने व्यक्तिगत निवेशकों के ट्रेडिंग प्रदर्शन पर बड़ा असर डाला। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Samsung Electronics dan SK Hynix Bantu Investor Ritel Untung di Kuartal I",
-        "excerpt": "Meski ada kekhawatiran perang Amerika Serikat-Iran, delapan dari sepuluh investor individu yang menjual saham Korea pada kuartal pertama merealisasikan laba rata-rata 8,48 juta won.",
-        "body": "Pada kuartal pertama tahun ini, delapan dari sepuluh investor individu yang menjual saham domestik Korea merealisasikan keuntungan. Hasil itu terjadi meski ada tekanan eksternal akibat kekhawatiran perang antara Amerika Serikat dan Iran. Rata-rata laba tercatat 8,48 juta won, dengan Samsung Electronics dan SK Hynix disebut sebagai pendorong utama. Temuan ini menunjukkan bahwa kepercayaan investor individu terhadap dua saham besar semikonduktor tersebut berubah menjadi keuntungan nyata di tengah meningkatnya ketidakpastian eksternal. Hasil ini juga menegaskan pengaruh besar saham chip berkapitalisasi besar terhadap kinerja transaksi investor individu di pasar saham Korea selama kuartal tersebut. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "911d5b7283d3",
-    "slug": "유럽마저-내연차-버리고-전동화차량으로한온시스템-52주-신고가-매경-자이앤트-335655",
-    "channelId": "ETF",
-    "category": "etf",
-    "publishedAt": "2026-05-11T04:53:18.364Z",
-    "updatedAt": "2026-05-11T04:53:18.364Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/stock/12043170",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12043170",
-    "titleFingerprint": "998dda1175170627d5bc36ac867fae4b370adf17",
-    "dedupKeys": [
-      "911d5b7283d3542ae493f1cb0e12b5c372b62083",
-      "998dda1175170627d5bc36ac867fae4b370adf17",
-      "bc269b4e2f6fa89b7b038bd9cf8b3aefcaee9cf6"
-    ],
-    "imageUrl": "/images/articles/911d5b7283d3.png",
-    "i18n": {
-      "ko": {
-        "title": "한온시스템 52주 신고가, 유럽 전동화차량 수요 회복에 주가 강세",
-        "excerpt": "자동차 열관리 솔루션 기업 한온시스템이 장중 52주 신고가를 기록했다. 유럽 친환경차 수요 회복과 재무구조 개선 기대감이 주가를 밀어올렸다.",
-        "body": "자동차 열관리 솔루션 기업 한온시스템이 유럽 시장의 친환경차 수요 회복과 재무구조 개선 기대감에 힘입어 장중 52주 신고가를 경신했다. 내연기관차 중심에서 전동화차량으로 전환하는 흐름이 유럽에서도 이어지며 관련 부품과 열관리 솔루션 기업에 대한 관심이 커졌다. 시장에서는 전사적인 비용 효율화 전략과 전기차 관련 수요가 한온시스템 실적과 재무 안정성 개선에 영향을 줄 수 있다고 보고 있다. 다만 기사에 제시된 핵심 배경은 수요 회복 기대와 재무구조 개선 가능성이다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Hanon Systems Hits 52-Week High as Europe EV Demand Recovery Lifts Shares",
-        "excerpt": "Hanon Systems, an automotive thermal management solutions company, reached an intraday 52-week high as hopes grew for recovering European eco-friendly vehicle demand and balance sheet improvement.",
-        "body": "Hanon Systems, an automotive thermal management solutions company, renewed its intraday 52-week high, supported by expectations for a recovery in European demand for eco-friendly vehicles and improvement in its financial structure. As Europe also continues shifting from internal combustion engine vehicles toward electrified vehicles, investor attention has increased toward related parts and thermal management solution providers. The market is watching whether company-wide cost efficiency efforts and electric vehicle-related demand can affect Hanon Systems’ earnings and financial stability. The key points reported are demand recovery expectations and possible financial structure improvement. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "ハノンシステムズが52週高値、欧州の電動化車両需要回復が追い風",
-        "excerpt": "自動車熱管理ソリューション企業のハノンシステムズは取引時間中に52週高値を更新した。欧州の環境対応車需要回復と財務構造改善への期待が株価を押し上げた。",
-        "body": "自動車熱管理ソリューション企業のハノンシステムズは、欧州市場での環境対応車需要の回復と財務構造改善への期待を背景に、取引時間中に52週高値を更新した。内燃機関車中心から電動化車両へ移行する流れが欧州でも続き、関連部品や熱管理ソリューション企業への関心が高まっている。市場では、全社的なコスト効率化戦略と電気自動車関連需要が、同社の業績や財務安定性の改善に影響し得るとみている。ただし記事で示された中心材料は、需要回復期待と財務構造改善の可能性だ。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "翰昂系统创52周新高，欧洲电动化车辆需求回暖推升股价",
-        "excerpt": "汽车热管理解决方案企业翰昂系统盘中刷新52周新高。欧洲环保车需求恢复和财务结构改善预期，成为推动股价走强的主要因素。",
-        "body": "汽车热管理解决方案企业翰昂系统在盘中刷新52周新高，受欧洲市场环保车需求恢复以及财务结构改善预期支撑。随着欧洲也延续从以内燃机车为中心转向电动化车辆的趋势，市场对相关零部件和热管理解决方案企业的关注升温。市场认为，全公司范围的成本效率化战略以及电动汽车相关需求，可能影响翰昂系统的业绩和财务稳定性改善。不过，报道提出的核心背景仍是需求恢复预期和财务结构改善可能性。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Hanon Systems toca máximo de 52 semanas por recuperación europea de vehículos eléctricos",
-        "excerpt": "Hanon Systems, firma de soluciones de gestión térmica para autos, marcó un máximo intradía de 52 semanas por la recuperación de la demanda europea de autos ecológicos y expectativas financieras.",
-        "body": "Hanon Systems, empresa de soluciones de gestión térmica para automóviles, renovó durante la sesión su máximo de 52 semanas, apoyada por expectativas de recuperación de la demanda europea de vehículos ecológicos y de mejora de su estructura financiera. A medida que Europa también avanza desde los autos de combustión interna hacia vehículos electrificados, aumenta el interés por compañías de componentes y soluciones térmicas relacionadas. El mercado observa si la estrategia corporativa de eficiencia de costos y la demanda vinculada a vehículos eléctricos pueden influir en los resultados y la estabilidad financiera de Hanon Systems. Los ejes del reporte son la recuperación de la demanda y la posible mejora financiera. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Hanon Systems renova máxima de 52 semanas com retomada europeia de veículos elétricos",
-        "excerpt": "A Hanon Systems, empresa de soluções de gerenciamento térmico automotivo, atingiu máxima intradiária de 52 semanas com a retomada da demanda europeia por carros ecológicos e melhora financeira.",
-        "body": "A Hanon Systems, empresa de soluções de gerenciamento térmico para automóveis, renovou sua máxima intradiária de 52 semanas, apoiada por expectativas de recuperação da demanda europeia por veículos ecológicos e de melhora da estrutura financeira. À medida que a Europa também avança da centralidade dos carros a combustão para veículos eletrificados, cresce o interesse por fabricantes de peças e soluções térmicas relacionadas. O mercado avalia se a estratégia corporativa de eficiência de custos e a demanda ligada a veículos elétricos podem afetar os resultados e a estabilidade financeira da Hanon Systems. O foco da reportagem é a expectativa de recuperação da demanda e possível melhora financeira. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Hanon Systems erreicht 52-Wochen-Hoch dank Erholung europäischer E-Auto-Nachfrage",
-        "excerpt": "Hanon Systems, Anbieter von Wärmemanagementlösungen für Autos, markierte intraday ein 52-Wochen-Hoch. Treiber waren Europas Nachfrageerholung bei umweltfreundlichen Fahrzeugen und Hoffnungen auf bessere Finanzen.",
-        "body": "Hanon Systems, ein Anbieter von Wärmemanagementlösungen für die Automobilindustrie, hat im Handelsverlauf ein neues 52-Wochen-Hoch erreicht. Gestützt wurde die Aktie durch Erwartungen einer Erholung der europäischen Nachfrage nach umweltfreundlichen Fahrzeugen und einer Verbesserung der Finanzstruktur. Da auch Europa den Übergang von Verbrennern zu elektrifizierten Fahrzeugen fortsetzt, wächst das Interesse an entsprechenden Teile- und Wärmemanagementunternehmen. Der Markt beobachtet, ob unternehmensweite Kosteneffizienzmaßnahmen und die Nachfrage rund um Elektrofahrzeuge die Ergebnisse und finanzielle Stabilität von Hanon Systems beeinflussen können. Kernpunkte des Berichts sind Nachfrageerholung und mögliche Finanzverbesserung. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Hanon Systems au plus haut sur 52 semaines grâce au rebond européen des véhicules électrifiés",
-        "excerpt": "Hanon Systems, spécialiste des solutions de gestion thermique automobile, a atteint un plus haut intrajournalier sur 52 semaines grâce au rebond attendu de la demande européenne de véhicules propres.",
-        "body": "Hanon Systems, entreprise de solutions de gestion thermique pour l’automobile, a inscrit en séance un nouveau plus haut sur 52 semaines, portée par les attentes de reprise de la demande européenne de véhicules écologiques et d’amélioration de sa structure financière. Alors que l’Europe poursuit elle aussi sa transition des véhicules à moteur thermique vers les véhicules électrifiés, l’attention se renforce autour des fournisseurs de composants et de solutions thermiques. Le marché surveille si la stratégie d’efficacité des coûts à l’échelle de l’entreprise et la demande liée aux véhicules électriques peuvent peser sur les résultats et la stabilité financière de Hanon Systems. Les éléments centraux du reportage sont la reprise attendue de la demande et la possible amélioration financière. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "هانون سيستمز تسجل أعلى مستوى في 52 أسبوعا مع تعافي طلب أوروبا على المركبات الكهربائية",
-        "excerpt": "سجلت هانون سيستمز، شركة حلول الإدارة الحرارية للسيارات، أعلى مستوى خلال الجلسة في 52 أسبوعا بدعم من تعافي طلب أوروبا على المركبات الصديقة للبيئة وتوقعات تحسن الهيكل المالي.",
-        "body": "جددت هانون سيستمز، شركة حلول الإدارة الحرارية للسيارات، أعلى مستوى لها خلال الجلسة في 52 أسبوعا، مدعومة بتوقعات تعافي الطلب في السوق الأوروبية على المركبات الصديقة للبيئة وتحسن هيكلها المالي. ومع استمرار أوروبا في التحول من السيارات ذات محركات الاحتراق الداخلي إلى المركبات المكهربة، زاد الاهتمام بالشركات المرتبطة بالمكونات وحلول الإدارة الحرارية. ويرى السوق أن استراتيجية كفاءة التكاليف على مستوى الشركة والطلب المرتبط بالسيارات الكهربائية قد يؤثران في أداء هانون سيستمز واستقرارها المالي. وتتمحور المعلومات الواردة في التقرير حول توقعات تعافي الطلب وإمكان تحسن الهيكل المالي. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "यूरोप में विद्युतीकृत वाहनों की मांग सुधरने से Hanon Systems 52-सप्ताह के उच्च स्तर पर",
-        "excerpt": "ऑटो थर्मल मैनेजमेंट समाधान कंपनी Hanon Systems ने इंट्राडे में 52-सप्ताह का उच्च स्तर छुआ। यूरोप में पर्यावरण-अनुकूल वाहनों की मांग में सुधार और वित्तीय ढांचे में सुधार की उम्मीदों ने शेयर को बल दिया।",
-        "body": "ऑटोमोबाइल थर्मल मैनेजमेंट समाधान कंपनी Hanon Systems ने यूरोपीय बाजार में पर्यावरण-अनुकूल वाहनों की मांग में सुधार और वित्तीय ढांचे में सुधार की उम्मीदों के सहारे इंट्राडे में 52-सप्ताह का नया उच्च स्तर दर्ज किया। यूरोप में भी आंतरिक दहन इंजन वाहनों से विद्युतीकृत वाहनों की ओर बदलाव जारी है, जिससे संबंधित पुर्जों और थर्मल मैनेजमेंट समाधान कंपनियों में रुचि बढ़ी है। बाजार देख रहा है कि कंपनी-व्यापी लागत दक्षता रणनीति और इलेक्ट्रिक वाहन संबंधी मांग Hanon Systems के प्रदर्शन और वित्तीय स्थिरता में सुधार को प्रभावित कर सकती है या नहीं। रिपोर्ट का मुख्य आधार मांग सुधार की उम्मीद और वित्तीय ढांचे में सुधार की संभावना है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Hanon Systems Cetak Tertinggi 52 Pekan Saat Permintaan Kendaraan Listrik Eropa Pulih",
-        "excerpt": "Hanon Systems, perusahaan solusi manajemen termal otomotif, menyentuh level tertinggi intraday 52 pekan karena pemulihan permintaan kendaraan ramah lingkungan Eropa dan harapan perbaikan keuangan.",
-        "body": "Hanon Systems, perusahaan solusi manajemen termal otomotif, memperbarui level tertinggi intraday 52 pekan, ditopang ekspektasi pemulihan permintaan kendaraan ramah lingkungan di pasar Eropa dan perbaikan struktur keuangan. Saat Eropa juga terus bergeser dari kendaraan bermesin pembakaran internal menuju kendaraan terelektrifikasi, perhatian terhadap perusahaan komponen terkait dan solusi manajemen termal meningkat. Pasar menilai strategi efisiensi biaya di seluruh perusahaan dan permintaan terkait kendaraan listrik dapat memengaruhi kinerja serta stabilitas keuangan Hanon Systems. Pokok laporan ini adalah ekspektasi pemulihan permintaan dan kemungkinan perbaikan struktur keuangan. Sumber: mk.co.kr"
       }
     }
   }
