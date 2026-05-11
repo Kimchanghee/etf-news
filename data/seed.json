@@ -1,5 +1,230 @@
 [
   {
+    "id": "c80aeefe9fe5",
+    "slug": "불장-올라탄-삼성증권-1분기-어닝-서프라이즈-352761",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-05-11T13:37:37.367Z",
+    "updatedAt": "2026-05-11T13:37:37.367Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/stock/12043555",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12043555",
+    "titleFingerprint": "9b0ab71b5b83937b3d5efad47f31f0b23adb874f",
+    "dedupKeys": [
+      "c80aeefe9fe58a8522f57942376a160b921217b4",
+      "9b0ab71b5b83937b3d5efad47f31f0b23adb874f",
+      "1073ac286dca0e9c79886621d5be2ad7d00b90f3"
+    ],
+    "imageUrl": "/images/articles/c80aeefe9fe5.jpg",
+    "i18n": {
+      "ko": {
+        "title": "삼성증권 1분기 어닝 서프라이즈, 국내 증시 활황에 순이익 80% 급증",
+        "excerpt": "삼성증권은 올해 1분기 국내 증시 활황과 자산관리 부문 강점을 바탕으로 시장 예상을 웃도는 실적을 내며 순이익이 전년 동기 대비 80% 넘게 증가했다.",
+        "body": "삼성증권이 올해 1분기 시장 전망을 뛰어넘는 ‘어닝 서프라이즈’를 기록했다. 유례없는 국내 증시 활황이 이어진 가운데 자산관리 명가로 평가받아 온 강점이 실적 개선의 핵심 배경으로 부각됐다. 회사의 1분기 순이익은 전년 동기 대비 80% 넘게 급증한 것으로 전해졌다. 증시 거래와 투자 수요가 확대되는 환경에서 삼성증권의 자산관리 경쟁력이 실적에 반영된 셈이다. 이번 성과는 국내 증권업계가 시장 흐름에 따라 실적 차별화를 보일 수 있음을 보여준다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Samsung Securities Posts Q1 Earnings Surprise as Korea Market Boom Lifts Profit",
+        "excerpt": "Samsung Securities beat market expectations in the first quarter as Korea’s stock market boom and its wealth management strength drove net profit up more than 80% year over year.",
+        "body": "Samsung Securities delivered an earnings surprise in the first quarter of this year, exceeding market expectations. The result came as South Korea’s stock market enjoyed an unprecedented rally, highlighting the firm’s long-regarded strength in wealth management. Its first-quarter net profit reportedly surged by more than 80% from a year earlier. In an environment of stronger trading and investment demand, Samsung Securities’ wealth management competitiveness was reflected in its performance. The result shows how Korean brokerages can see earnings diverge depending on market conditions. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "サムスン証券が1四半期にサプライズ決算、韓国株活況で純利益80％超増",
+        "excerpt": "サムスン証券は今年第1四半期、韓国株式市場の活況と資産管理分野の強みを背景に市場予想を上回り、純利益が前年同期比80％超増加した。",
+        "body": "サムスン証券は今年第1四半期、市場予想を上回るサプライズ決算を発表した。前例のない韓国株式市場の活況が続く中、資産管理の名門とされてきた同社の強みが業績改善の主要な背景として浮上した。第1四半期の純利益は前年同期比で80％を超えて急増したと伝えられている。取引と投資需要が拡大する環境で、サムスン証券の資産管理競争力が業績に反映された形だ。今回の結果は、韓国証券業界で市場環境に応じた業績差が生じ得ることを示している。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "三星证券一季度业绩超预期，韩国股市火热推动净利润增逾80%",
+        "excerpt": "三星证券今年第一季度凭借韩国股市活跃和财富管理优势，业绩超过市场预期，净利润同比增长超过80%。",
+        "body": "三星证券今年第一季度录得超出市场预期的业绩惊喜。在韩国国内股市出现罕见活跃行情的背景下，其作为财富管理强者的优势成为业绩改善的关键因素。据报道，公司第一季度净利润同比大增超过80%。在交易和投资需求扩大的环境中，三星证券的财富管理竞争力反映在业绩表现上。此次成绩显示，韩国证券行业的盈利表现可能会随市场走势而出现分化。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Samsung Securities sorprende en el primer trimestre con alza de más del 80% en beneficio",
+        "excerpt": "Samsung Securities superó las previsiones del mercado en el primer trimestre gracias al auge bursátil en Corea del Sur y a su fortaleza en gestión patrimonial.",
+        "body": "Samsung Securities registró en el primer trimestre de este año una sorpresa de resultados al superar las expectativas del mercado. El desempeño se produjo en medio de un auge sin precedentes del mercado bursátil surcoreano, que puso de relieve la fortaleza de la firma en gestión patrimonial. Su beneficio neto del primer trimestre habría aumentado más de un 80% frente al mismo periodo del año anterior. En un entorno de mayor demanda de negociación e inversión, la competitividad de Samsung Securities en gestión de activos quedó reflejada en sus resultados. El dato muestra que las corredoras coreanas pueden diferenciar sus beneficios según el mercado. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Samsung Securities surpreende no 1º trimestre com lucro líquido mais de 80% maior",
+        "excerpt": "A Samsung Securities superou as expectativas no primeiro trimestre, apoiada pela forte alta da bolsa sul-coreana e por sua vantagem em gestão de patrimônio.",
+        "body": "A Samsung Securities apresentou uma surpresa de resultados no primeiro trimestre deste ano, superando as expectativas do mercado. O desempenho ocorreu em meio a uma atividade sem precedentes no mercado acionário sul-coreano, destacando a força da empresa em gestão de patrimônio. O lucro líquido do primeiro trimestre teria saltado mais de 80% em relação ao mesmo período do ano anterior. Em um ambiente de maior demanda por negociação e investimento, a competitividade da Samsung Securities em gestão de ativos apareceu nos resultados. O resultado mostra que corretoras coreanas podem ter desempenhos distintos conforme o mercado. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Samsung Securities übertrifft im ersten Quartal Erwartungen deutlich, Gewinn plus 80%",
+        "excerpt": "Samsung Securities lag im ersten Quartal über den Markterwartungen, gestützt durch den Boom am koreanischen Aktienmarkt und Stärken im Wealth Management.",
+        "body": "Samsung Securities hat im ersten Quartal dieses Jahres mit seinen Ergebnissen die Markterwartungen übertroffen. Der Erfolg fiel in eine Phase ungewöhnlich starker Aktivität am südkoreanischen Aktienmarkt und rückte die Stärke des Hauses im Wealth Management in den Vordergrund. Der Nettogewinn im ersten Quartal soll gegenüber dem Vorjahr um mehr als 80% gestiegen sein. In einem Umfeld höherer Handels- und Investmentnachfrage spiegelte sich die Wettbewerbsfähigkeit von Samsung Securities in der Vermögensverwaltung in den Zahlen wider. Das Ergebnis zeigt, dass koreanische Wertpapierhäuser je nach Marktverlauf unterschiedliche Gewinnentwicklungen erzielen können. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Samsung Securities dépasse les attentes au T1 avec un bénéfice net en hausse de plus de 80%",
+        "excerpt": "Samsung Securities a dépassé les attentes au premier trimestre, portée par l’essor du marché boursier sud-coréen et sa force en gestion de patrimoine.",
+        "body": "Samsung Securities a créé la surprise au premier trimestre de cette année en publiant des résultats supérieurs aux attentes du marché. Cette performance intervient alors que le marché boursier sud-coréen connaît une activité exceptionnelle, mettant en avant les atouts de la société en gestion de patrimoine. Son bénéfice net du premier trimestre aurait bondi de plus de 80% sur un an. Dans un contexte de demande accrue de transactions et d’investissement, la compétitivité de Samsung Securities en gestion d’actifs s’est reflétée dans ses résultats. Cette performance montre que les sociétés de courtage coréennes peuvent se différencier selon l’évolution du marché. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "سامسونغ سيكيوريتيز تحقق مفاجأة أرباح في الربع الأول مع قفزة صافي الربح بأكثر من 80%",
+        "excerpt": "تجاوزت سامسونغ سيكيوريتيز توقعات السوق في الربع الأول، مدعومة بازدهار سوق الأسهم الكورية وقوتها في إدارة الثروات، مع ارتفاع صافي الربح بأكثر من 80%.",
+        "body": "حققت سامسونغ سيكيوريتيز في الربع الأول من هذا العام نتائج فاقت توقعات السوق. وجاء الأداء وسط نشاط غير مسبوق في سوق الأسهم المحلية في كوريا الجنوبية، ما أبرز قوة الشركة المعروفة في مجال إدارة الثروات. وذكرت التقارير أن صافي ربح الربع الأول قفز بأكثر من 80% مقارنة بالفترة نفسها من العام السابق. وفي بيئة شهدت توسعا في الطلب على التداول والاستثمار، انعكست تنافسية سامسونغ سيكيوريتيز في إدارة الأصول على نتائجها. وتظهر هذه النتيجة أن أرباح شركات الأوراق المالية الكورية قد تتباين تبعا لاتجاه السوق. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "Samsung Securities को पहली तिमाही में कमाई का सरप्राइज, शुद्ध लाभ 80% से अधिक बढ़ा",
+        "excerpt": "Samsung Securities ने पहली तिमाही में बाजार अनुमान से बेहतर प्रदर्शन किया, क्योंकि कोरियाई शेयर बाजार की तेजी और वेल्थ मैनेजमेंट की मजबूती से शुद्ध लाभ 80% से अधिक बढ़ा।",
+        "body": "Samsung Securities ने इस वर्ष की पहली तिमाही में बाजार की उम्मीदों से बेहतर नतीजे दर्ज किए। यह प्रदर्शन दक्षिण कोरिया के घरेलू शेयर बाजार में अभूतपूर्व तेजी के बीच आया, जहां कंपनी की वेल्थ मैनेजमेंट क्षमता मुख्य ताकत के रूप में उभरी। रिपोर्ट के अनुसार, पहली तिमाही का शुद्ध लाभ पिछले वर्ष की समान अवधि की तुलना में 80% से अधिक बढ़ा। ट्रेडिंग और निवेश मांग बढ़ने के माहौल में Samsung Securities की एसेट मैनेजमेंट प्रतिस्पर्धा उसके नतीजों में दिखी। यह प्रदर्शन बताता है कि कोरियाई सिक्योरिटीज कंपनियों की कमाई बाजार रुझान के अनुसार अलग हो सकती है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Samsung Securities Cetak Kejutan Laba Kuartal I, Laba Bersih Melonjak Lebih dari 80%",
+        "excerpt": "Samsung Securities melampaui ekspektasi pasar pada kuartal I berkat reli pasar saham Korea Selatan dan kekuatan bisnis manajemen kekayaannya.",
+        "body": "Samsung Securities mencatat kejutan kinerja pada kuartal pertama tahun ini dengan hasil yang melampaui ekspektasi pasar. Capaian itu terjadi di tengah semarak pasar saham domestik Korea Selatan yang belum pernah terjadi sebelumnya, sehingga menonjolkan kekuatan perusahaan dalam manajemen kekayaan. Laba bersih kuartal pertama dilaporkan melonjak lebih dari 80% dibanding periode yang sama tahun lalu. Dalam lingkungan permintaan transaksi dan investasi yang meningkat, daya saing Samsung Securities di pengelolaan aset tercermin dalam kinerjanya. Hasil ini menunjukkan bahwa kinerja perusahaan sekuritas Korea dapat berbeda mengikuti kondisi pasar. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "d44bf43d5ca6",
+    "slug": "1분기-전쟁통에도-개미-80는-벌었다-653420",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-05-11T13:36:21.464Z",
+    "updatedAt": "2026-05-11T13:36:21.464Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/stock/12043558",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12043558",
+    "titleFingerprint": "4a2b5cde88bb3d878dba7ec818d770175ff2890e",
+    "dedupKeys": [
+      "d44bf43d5ca626b4fed82031e6796de1adbb94f9",
+      "4a2b5cde88bb3d878dba7ec818d770175ff2890e",
+      "cca429b2bed918361a31dcca0a675e7bb25466e8"
+    ],
+    "imageUrl": "/images/articles/d44bf43d5ca6.jpg",
+    "i18n": {
+      "ko": {
+        "title": "1분기 전쟁 충격에도 개인투자자 80% 국내 주식 매도 수익",
+        "excerpt": "올해 1분기 미국·이란 전쟁 충격이 3월 시장을 흔든 가운데 국내 주식을 매도한 개인투자자 10명 중 8명이 수익을 낸 것으로 나타났다.",
+        "body": "올해 1분기 국내 증시에서는 미국·이란 전쟁이라는 대외 충격이 3월 시장을 강타했지만, 주식을 매도한 개인투자자 다수가 수익을 거둔 것으로 나타났다. 원문에 따르면 1분기 국내 주식을 판 개인투자자 10명 중 8명은 매도 과정에서 이익을 낸 것으로 집계됐다. 전쟁 이슈로 시장 변동성이 커진 상황에서도 개인투자자들이 손실 회피에 그치지 않고 실제 수익을 실현했다는 점이 핵심이다. 이번 결과는 대외 악재가 증시를 흔들 때도 투자자별 대응과 보유 종목에 따라 성과가 달라질 수 있음을 보여준다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Retail Investors Profited in Q1 Despite War Shock Hitting Korean Stocks",
+        "excerpt": "In the first quarter, even as the U.S.-Iran war shock hit markets in March, 8 out of 10 Korean retail investors who sold domestic stocks made a profit.",
+        "body": "In the first quarter of this year, an external shock from the U.S.-Iran war struck markets in March, yet many retail investors in Korea who sold domestic shares still recorded gains. According to the original report, 8 out of 10 individual investors who sold Korean stocks during the quarter made a profit on their sales. The key point is that, despite heightened market volatility caused by the war issue, retail investors did more than avoid losses; many realized actual gains. The result shows that even when external risks shake the stock market, outcomes can differ depending on each investor’s response and holdings. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "第1四半期の戦争ショック下でも個人投資家8割が韓国株売却で利益",
+        "excerpt": "今年第1四半期、米国・イラン戦争の衝撃が3月の市場を直撃した中、韓国株を売却した個人投資家の10人中8人が利益を上げた。",
+        "body": "今年第1四半期の韓国株式市場では、米国・イラン戦争という外部ショックが3月の市場を直撃したが、株式を売却した個人投資家の多くが利益を得たことが分かった。原文によると、第1四半期に韓国株を売った個人投資家の10人中8人は、売却の過程で利益を出したと集計された。戦争要因で市場の変動性が高まった状況でも、個人投資家が損失回避にとどまらず実際に利益を確定した点が核心だ。今回の結果は、外部悪材料が株式市場を揺さぶる局面でも、投資家ごとの対応や保有銘柄によって成果が変わり得ることを示している。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "一季度战争冲击下，韩国散户卖出股票仍有八成盈利",
+        "excerpt": "今年一季度，美国与伊朗战争冲击在3月重创市场，但卖出韩国国内股票的个人投资者中，每10人有8人实现盈利。",
+        "body": "今年一季度，韩国股市在3月遭遇美国与伊朗战争这一外部冲击，但卖出国内股票的个人投资者中，多数仍取得收益。原文显示，一季度卖出韩国股票的个人投资者中，每10人有8人在卖出过程中实现盈利。核心在于，即使战争因素推高了市场波动，散户投资者也不只是避免亏损，而是实际锁定了收益。这一结果表明，当外部利空扰动股市时，不同投资者的应对方式和持仓情况仍可能带来不同结果。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Inversores minoristas ganaron en el primer trimestre pese al golpe bélico",
+        "excerpt": "En el primer trimestre, aunque la guerra entre EE. UU. e Irán golpeó los mercados en marzo, 8 de cada 10 minoristas que vendieron acciones coreanas obtuvieron ganancias.",
+        "body": "En el primer trimestre de este año, el mercado bursátil coreano recibió en marzo el impacto externo de la guerra entre Estados Unidos e Irán, pero muchos inversores particulares que vendieron acciones locales lograron ganancias. Según el texto original, 8 de cada 10 inversores individuales que vendieron acciones coreanas durante el trimestre obtuvieron beneficios en la operación. El punto central es que, pese al aumento de la volatilidad por el conflicto, los minoristas no solo evitaron pérdidas, sino que materializaron ganancias. El resultado muestra que, aun cuando los riesgos externos sacuden la bolsa, el desempeño puede variar según la respuesta de cada inversor y los valores mantenidos. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Investidores pessoa física lucraram no 1º trimestre apesar do choque da guerra",
+        "excerpt": "No 1º trimestre, mesmo com o impacto da guerra EUA-Irã atingindo os mercados em março, 8 de cada 10 pessoas físicas que venderam ações coreanas lucraram.",
+        "body": "No primeiro trimestre deste ano, o mercado acionário coreano foi atingido em março pelo choque externo da guerra entre Estados Unidos e Irã, mas muitos investidores pessoa física que venderam ações locais registraram lucro. Segundo o texto original, 8 em cada 10 investidores individuais que venderam ações coreanas no trimestre obtiveram ganho na venda. O ponto principal é que, apesar da maior volatilidade causada pelo tema da guerra, esses investidores não apenas evitaram perdas, mas realizaram lucros efetivos. O resultado mostra que, mesmo quando fatores externos negativos abalam a bolsa, o desempenho pode variar conforme a reação de cada investidor e os ativos mantidos. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Privatanleger erzielten im ersten Quartal trotz Kriegsschock Gewinne",
+        "excerpt": "Im ersten Quartal traf der Schock des US-Iran-Kriegs die Märkte im März, doch 8 von 10 koreanischen Privatanlegern mit Aktienverkäufen machten Gewinn.",
+        "body": "Im ersten Quartal dieses Jahres traf der externe Schock des Kriegs zwischen den USA und Iran im März den koreanischen Aktienmarkt, dennoch erzielten viele Privatanleger, die inländische Aktien verkauften, Gewinne. Laut dem Originalbericht machten 8 von 10 Einzelanlegern, die im Quartal koreanische Aktien verkauften, bei diesen Verkäufen Gewinn. Entscheidend ist, dass Privatanleger trotz der durch den Krieg erhöhten Marktvolatilität nicht nur Verluste vermieden, sondern tatsächliche Gewinne realisierten. Das Ergebnis zeigt, dass selbst bei externen Belastungen für den Aktienmarkt die Resultate je nach Reaktion der Anleger und gehaltenen Titeln unterschiedlich ausfallen können. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Les particuliers ont gagné au 1er trimestre malgré le choc de la guerre",
+        "excerpt": "Au 1er trimestre, malgré le choc de la guerre États-Unis-Iran sur les marchés en mars, 8 particuliers sur 10 ayant vendu des actions coréennes ont gagné.",
+        "body": "Au premier trimestre de cette année, le marché boursier coréen a été frappé en mars par le choc extérieur de la guerre entre les États-Unis et l’Iran, mais de nombreux investisseurs particuliers ayant vendu des actions locales ont dégagé un gain. Selon le texte original, 8 investisseurs individuels sur 10 ayant vendu des actions coréennes au cours du trimestre ont réalisé un bénéfice lors de la vente. Le point central est que, malgré la volatilité accrue liée à la guerre, les particuliers ne se sont pas seulement protégés contre les pertes; ils ont effectivement concrétisé des gains. Ce résultat montre que, même lorsque des facteurs externes secouent la Bourse, les performances peuvent varier selon la réaction de chaque investisseur et les titres détenus. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "المستثمرون الأفراد ربحوا في الربع الأول رغم صدمة الحرب في السوق الكورية",
+        "excerpt": "في الربع الأول، ورغم أن صدمة الحرب بين الولايات المتحدة وإيران ضربت الأسواق في مارس، حقق 8 من كل 10 أفراد باعوا أسهما كورية أرباحا.",
+        "body": "في الربع الأول من هذا العام، تعرضت سوق الأسهم الكورية في مارس لصدمة خارجية تمثلت في الحرب بين الولايات المتحدة وإيران، لكن عددا كبيرا من المستثمرين الأفراد الذين باعوا أسهما محلية سجلوا أرباحا. ووفقا للنص الأصلي، فإن 8 من كل 10 مستثمرين أفراد باعوا أسهما كورية خلال الربع حققوا ربحا عند البيع. النقطة الأساسية أن المستثمرين الأفراد، رغم ارتفاع تقلبات السوق بسبب عامل الحرب، لم يكتفوا بتجنب الخسائر بل حققوا أرباحا فعلية. وتظهر هذه النتيجة أن أداء المستثمرين قد يختلف تبعا لطريقة الاستجابة ونوعية الأسهم المحتفظ بها حتى عندما تهز العوامل الخارجية السلبية سوق الأسهم. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "युद्ध के झटके के बावजूद पहली तिमाही में 80% खुदरा निवेशकों को मुनाफा",
+        "excerpt": "पहली तिमाही में अमेरिका-ईरान युद्ध के झटके ने मार्च में बाजार को प्रभावित किया, फिर भी कोरियाई शेयर बेचने वाले 10 में 8 व्यक्तिगत निवेशकों को लाभ हुआ।",
+        "body": "इस साल की पहली तिमाही में मार्च के दौरान अमेरिका-ईरान युद्ध के बाहरी झटके ने कोरियाई शेयर बाजार को प्रभावित किया, लेकिन घरेलू शेयर बेचने वाले कई व्यक्तिगत निवेशकों ने लाभ दर्ज किया। मूल रिपोर्ट के अनुसार, पहली तिमाही में कोरियाई शेयर बेचने वाले 10 में से 8 व्यक्तिगत निवेशकों ने बिक्री के दौरान मुनाफा कमाया। मुख्य बात यह है कि युद्ध से जुड़ी वजहों के कारण बाजार में उतार-चढ़ाव बढ़ने के बावजूद खुदरा निवेशक केवल नुकसान से बचने तक सीमित नहीं रहे, बल्कि उन्होंने वास्तविक लाभ हासिल किया। यह परिणाम दिखाता है कि बाहरी नकारात्मक कारक बाजार को हिला दें, तब भी निवेशक की प्रतिक्रिया और होल्डिंग के आधार पर प्रदर्शन अलग हो सकता है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Investor Ritel Tetap Untung di Kuartal I Meski Pasar Tertekan Perang",
+        "excerpt": "Pada kuartal I, meski guncangan perang AS-Iran menghantam pasar pada Maret, 8 dari 10 investor individu yang menjual saham Korea mencatat untung.",
+        "body": "Pada kuartal pertama tahun ini, pasar saham Korea terkena guncangan eksternal dari perang AS-Iran pada Maret, tetapi banyak investor individu yang menjual saham domestik tetap mencatat keuntungan. Menurut teks asli, 8 dari 10 investor individu yang menjual saham Korea selama kuartal tersebut memperoleh laba dari penjualan. Intinya, meskipun isu perang meningkatkan volatilitas pasar, investor ritel tidak hanya menghindari kerugian, tetapi juga merealisasikan keuntungan nyata. Hasil ini menunjukkan bahwa ketika faktor eksternal mengguncang bursa, kinerja tetap dapat berbeda bergantung pada respons tiap investor dan saham yang dimiliki. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "dc177182587d",
+    "slug": "삼전닉스-절반인-etf-토큰으로-내놓은-okx-564036",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-05-11T13:35:14.494Z",
+    "updatedAt": "2026-05-11T13:35:14.494Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/stock/12043557",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12043557",
+    "titleFingerprint": "06d605461ecb491bc21073ccbd209a7b89a3f97c",
+    "dedupKeys": [
+      "dc177182587d6f76dac5f852c2bb232ed720af87",
+      "06d605461ecb491bc21073ccbd209a7b89a3f97c",
+      "93be5f4a4180ab3208f42e1826b118e0df13fbca"
+    ],
+    "imageUrl": "/images/articles/dc177182587d.jpg",
+    "i18n": {
+      "ko": {
+        "title": "OKX, 삼성전자·SK하이닉스 열풍 겨냥 ‘삼전닉스 ETF’ 토큰화 출시",
+        "excerpt": "글로벌 가상자산 거래소 OKX가 삼성전자와 SK하이닉스 투자 수요를 겨냥해 ‘삼전닉스 ETF’를 24시간 거래할 수 있는 토큰화 상품으로 선보였다.",
+        "body": "글로벌 가상자산 거래소 OKX가 삼성전자와 SK하이닉스 투자 열풍을 겨냥해 ‘삼전닉스 상장지수펀드(ETF)’를 24시간 거래할 수 있는 토큰화 상품으로 내놨다. 원문에 따르면 이 상품은 해당 ETF를 기초로 한 토큰화 상품으로, 국내 대표 반도체 종목에 대한 투자 관심을 가상자산 거래 환경으로 연결한 점이 특징이다. 삼성전자와 SK하이닉스 관련 투자 수요가 커진 가운데, OKX의 상품 출시는 ETF와 토큰화 자산의 접점이 확대되는 사례로 주목된다. 다만 원문은 상품 구조와 세부 조건에 대한 추가 설명은 제한적으로 전했다. 출처: mk.co.kr."
+      },
+      "en": {
+        "title": "OKX Launches Tokenized ‘Samjeon-Nix ETF’ for Samsung, SK Hynix Demand",
+        "excerpt": "Global crypto exchange OKX has introduced a tokenized product that allows 24-hour trading of the ‘Samjeon-Nix ETF,’ targeting demand for Samsung Electronics and SK Hynix exposure.",
+        "body": "Global crypto exchange OKX has launched a tokenized product tied to the ‘Samjeon-Nix exchange-traded fund (ETF),’ aiming at investor interest in Samsung Electronics and SK Hynix. According to the original report, the product is designed to let users trade the ETF-linked token around the clock. Its key point is that it connects demand for Korea’s major semiconductor names with a crypto trading environment. As interest in Samsung Electronics and SK Hynix continues to draw attention, OKX’s product highlights a growing overlap between ETFs and tokenized assets. The source provided limited additional detail on the product’s structure or terms. Source: mk.co.kr."
+      },
+      "ja": {
+        "title": "OKX、サムスン電子・SKハイニックス需要狙いETFトークン化商品を投入",
+        "excerpt": "グローバル暗号資産取引所OKXは、サムスン電子とSKハイニックスへの投資熱を狙い、『サムジョンニックスETF』を24時間取引できるトークン化商品として発表した。",
+        "body": "グローバル暗号資産取引所OKXは、サムスン電子とSKハイニックスへの投資熱を見込み、『サムジョンニックス上場投資信託（ETF）』を24時間取引できるトークン化商品として投入した。原文によると、この商品は同ETFを基礎にしたトークン化商品で、韓国を代表する半導体銘柄への投資関心を暗号資産の取引環境につなげる点が特徴だ。サムスン電子とSKハイニックス関連の投資需要が高まるなか、OKXの商品投入はETFとトークン化資産の接点が広がる事例として注目される。ただし原文では商品構造や詳細条件に関する追加説明は限定的だった。出典: mk.co.kr."
+      },
+      "zh": {
+        "title": "OKX瞄准三星电子、SK海力士热度 推出“三电海力士ETF”代币化产品",
+        "excerpt": "全球加密资产交易所OKX推出可24小时交易的“三电海力士ETF”代币化产品，瞄准三星电子和SK海力士相关投资需求。",
+        "body": "全球加密资产交易所OKX瞄准三星电子和SK海力士投资热潮，推出了可24小时交易的“三电海力士交易所交易基金（ETF）”代币化产品。原文称，该产品以相关ETF为基础，是把韩国代表性半导体股票投资兴趣连接到加密资产交易环境中的产品。随着三星电子和SK海力士相关投资需求升温，OKX此次推出的产品被视为ETF与代币化资产交集扩大的一个案例。不过，原文对该产品结构和具体条件的补充说明较为有限。来源: mk.co.kr."
+      },
+      "es": {
+        "title": "OKX lanza ETF tokenizado ligado a Samsung Electronics y SK Hynix",
+        "excerpt": "El exchange global de criptoactivos OKX presentó un producto tokenizado que permite negociar las 24 horas el ‘ETF Samjeon-Nix’, enfocado en Samsung Electronics y SK Hynix.",
+        "body": "El exchange global de criptoactivos OKX lanzó un producto tokenizado vinculado al ‘fondo cotizado Samjeon-Nix (ETF)’, dirigido al interés inversor en Samsung Electronics y SK Hynix. Según el informe original, el producto permite operar durante las 24 horas un token basado en ese ETF. Su rasgo central es conectar la demanda por grandes valores coreanos de semiconductores con un entorno de negociación de criptoactivos. En medio del aumento del interés por Samsung Electronics y SK Hynix, el lanzamiento de OKX muestra cómo se amplía el punto de contacto entre los ETF y los activos tokenizados. La fuente ofreció detalles limitados sobre la estructura y condiciones del producto. Fuente: mk.co.kr."
+      },
+      "pt": {
+        "title": "OKX lança ETF tokenizado ligado a Samsung Electronics e SK Hynix",
+        "excerpt": "A exchange global de criptoativos OKX apresentou um produto tokenizado que permite negociar 24 horas o ‘ETF Samjeon-Nix’, voltado à demanda por Samsung Electronics e SK Hynix.",
+        "body": "A exchange global de criptoativos OKX lançou um produto tokenizado ligado ao ‘fundo de índice Samjeon-Nix (ETF)’, mirando o interesse dos investidores em Samsung Electronics e SK Hynix. Segundo a reportagem original, o produto permite negociar, 24 horas por dia, um token baseado nesse ETF. O ponto central é conectar a demanda por grandes ações coreanas de semicondutores ao ambiente de negociação de criptoativos. Com o avanço do interesse por Samsung Electronics e SK Hynix, o lançamento da OKX chama atenção como um caso de expansão da interseção entre ETFs e ativos tokenizados. A fonte trouxe poucos detalhes adicionais sobre estrutura e condições do produto. Fonte: mk.co.kr."
+      },
+      "de": {
+        "title": "OKX bringt tokenisierten ETF zu Samsung Electronics und SK Hynix heraus",
+        "excerpt": "Die globale Kryptobörse OKX hat ein tokenisiertes Produkt vorgestellt, mit dem der ‘Samjeon-Nix ETF’ rund um die Uhr gehandelt werden kann, ausgerichtet auf Samsung Electronics und SK Hynix.",
+        "body": "Die globale Kryptobörse OKX hat ein tokenisiertes Produkt auf Basis des ‘Samjeon-Nix Exchange Traded Fund (ETF)’ eingeführt und zielt damit auf das Anlegerinteresse an Samsung Electronics und SK Hynix. Dem Originalbericht zufolge soll das Produkt den 24-Stunden-Handel eines an diesen ETF gekoppelten Tokens ermöglichen. Im Mittelpunkt steht die Verbindung der Nachfrage nach führenden koreanischen Halbleiterwerten mit einer Krypto-Handelsumgebung. Während das Interesse an Samsung Electronics und SK Hynix wächst, zeigt die Einführung von OKX, dass sich die Schnittstelle zwischen ETFs und tokenisierten Vermögenswerten erweitert. Weitere Angaben zu Struktur und Bedingungen des Produkts waren in der Quelle nur begrenzt enthalten. Quelle: mk.co.kr."
+      },
+      "fr": {
+        "title": "OKX lance un ETF tokenisé lié à Samsung Electronics et SK Hynix",
+        "excerpt": "La plateforme mondiale de cryptoactifs OKX a lancé un produit tokenisé permettant d’échanger 24h/24 le ‘Samjeon-Nix ETF’, ciblant Samsung Electronics et SK Hynix.",
+        "body": "La plateforme mondiale de cryptoactifs OKX a lancé un produit tokenisé lié au ‘fonds indiciel coté Samjeon-Nix (ETF)’, en visant l’intérêt des investisseurs pour Samsung Electronics et SK Hynix. Selon l’article original, ce produit permet de négocier en continu un jeton basé sur cet ETF. Son principal intérêt est de relier la demande pour les grands titres coréens des semi-conducteurs à un environnement de trading crypto. Alors que l’attention portée à Samsung Electronics et SK Hynix augmente, l’initiative d’OKX illustre l’élargissement du croisement entre ETF et actifs tokenisés. La source donne toutefois peu de détails supplémentaires sur la structure et les conditions du produit. Source: mk.co.kr."
+      },
+      "ar": {
+        "title": "OKX تطلق منتجا مرمزا لصندوق ETF مرتبط بسامسونغ وSK هاينكس",
+        "excerpt": "أطلقت منصة الأصول المشفرة العالمية OKX منتجا مرمزا يتيح تداول ‘Samjeon-Nix ETF’ على مدار 24 ساعة، مستهدفة الطلب على سامسونغ إلكترونيكس وSK هاينكس.",
+        "body": "أطلقت منصة الأصول المشفرة العالمية OKX منتجا مرمزا مرتبطا بـ‘صندوق المؤشرات المتداولة Samjeon-Nix ETF’، مستهدفة اهتمام المستثمرين بسامسونغ إلكترونيكس وSK هاينكس. ووفقا للتقرير الأصلي، يتيح المنتج تداول رمز قائم على هذا الصندوق على مدار 24 ساعة. وتكمن أبرز سماته في ربط الطلب على أبرز أسهم أشباه الموصلات الكورية ببيئة تداول الأصول المشفرة. ومع تزايد الاهتمام بسامسونغ إلكترونيكس وSK هاينكس، يبرز إطلاق OKX كحالة على اتساع نقطة الالتقاء بين صناديق ETF والأصول المرمزة. ولم يقدم المصدر تفاصيل واسعة إضافية عن هيكل المنتج أو شروطه. المصدر: mk.co.kr."
+      },
+      "hi": {
+        "title": "OKX ने Samsung Electronics और SK Hynix मांग पर टोकनाइज्ड ETF उतारा",
+        "excerpt": "वैश्विक क्रिप्टो एसेट एक्सचेंज OKX ने Samsung Electronics और SK Hynix में निवेश मांग को देखते हुए ‘Samjeon-Nix ETF’ का 24 घंटे ट्रेड होने वाला टोकनाइज्ड उत्पाद पेश किया।",
+        "body": "वैश्विक क्रिप्टो एसेट एक्सचेंज OKX ने Samsung Electronics और SK Hynix में निवेश उत्साह को ध्यान में रखते हुए ‘Samjeon-Nix exchange-traded fund (ETF)’ से जुड़ा टोकनाइज्ड उत्पाद लॉन्च किया। मूल रिपोर्ट के अनुसार, यह उत्पाद उस ETF पर आधारित टोकन को 24 घंटे ट्रेड करने की सुविधा देता है। इसकी मुख्य विशेषता कोरिया की प्रमुख सेमीकंडक्टर कंपनियों में निवेश रुचि को क्रिप्टो ट्रेडिंग वातावरण से जोड़ना है। Samsung Electronics और SK Hynix से जुड़ी मांग बढ़ने के बीच OKX का यह लॉन्च ETF और टोकनाइज्ड एसेट्स के बीच बढ़ते संपर्क का उदाहरण है। स्रोत ने उत्पाद की संरचना और शर्तों पर सीमित अतिरिक्त जानकारी दी। स्रोत: mk.co.kr."
+      },
+      "id": {
+        "title": "OKX Rilis ETF Tokenisasi Terkait Samsung Electronics dan SK Hynix",
+        "excerpt": "Bursa aset kripto global OKX meluncurkan produk tokenisasi yang memungkinkan ‘Samjeon-Nix ETF’ diperdagangkan 24 jam, menargetkan minat pada Samsung Electronics dan SK Hynix.",
+        "body": "Bursa aset kripto global OKX meluncurkan produk tokenisasi yang terkait dengan ‘Samjeon-Nix exchange-traded fund (ETF)’, menargetkan minat investor terhadap Samsung Electronics dan SK Hynix. Menurut laporan asli, produk ini memungkinkan token berbasis ETF tersebut diperdagangkan selama 24 jam. Poin utamanya adalah menghubungkan permintaan atas saham semikonduktor utama Korea dengan lingkungan perdagangan aset kripto. Di tengah meningkatnya perhatian pada Samsung Electronics dan SK Hynix, peluncuran OKX menjadi contoh meluasnya titik temu antara ETF dan aset tokenisasi. Sumber hanya memberikan keterangan tambahan terbatas mengenai struktur dan ketentuan produk. Sumber: mk.co.kr."
+      }
+    }
+  },
+  {
     "id": "d3508c42de45",
     "slug": "국세청-하나금융-이어-메리츠증권도-세무조사-137189",
     "channelId": "ETF",
@@ -4271,231 +4496,6 @@
         "title": "Kriteria Bantuan Harga Minyak Tinggi Tahap 2 Dibuka 11, Sasar 70% Pendapatan Bawah",
         "excerpt": "Kriteria pembayaran tahap kedua bantuan kerugian akibat harga minyak tinggi akan diumumkan pada 11, dengan seleksi pada 70% kelompok pendapatan terbawah.",
         "body": "Kriteria pembayaran tahap kedua bantuan kerugian akibat harga minyak tinggi akan diumumkan pada 11. Menurut laporan Yonhap dari Seoul, pengumuman ini akan menjelaskan sasaran dan standar dukungan tambahan bagi kelompok yang terdampak harga minyak tinggi. Intinya adalah seleksi terhadap 70% kelompok pendapatan terbawah. Setelah kriteria tahap kedua dirilis, masyarakat akan memiliki dasar untuk menilai apakah termasuk penerima dukungan. Laporan asli tidak memuat rincian seperti jumlah pembayaran, cara pengajuan, atau jadwal pembayaran aktual. Pengumuman ini diperkirakan menjadi acuan bagi rumah tangga yang menanggung beban harga minyak tinggi. Sumber: yna.co.kr."
-      }
-    }
-  },
-  {
-    "id": "1bc61f072f5b",
-    "slug": "전삼노-나서서-끝내달라파업-대신-타결-원한다는-삼성맨들-무슨-일-649783",
-    "channelId": "ETF",
-    "category": "etf",
-    "publishedAt": "2026-05-10T20:30:32.362Z",
-    "updatedAt": "2026-05-10T20:30:32.362Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/business/12042818",
-    "canonicalUrl": "https://www.mk.co.kr/news/business/12042818",
-    "titleFingerprint": "3abb78d370b8acf82088f1f0b7edbc11ade69a05",
-    "dedupKeys": [
-      "1bc61f072f5bba85261fb1d7f4d3bd54ec488d8a",
-      "3abb78d370b8acf82088f1f0b7edbc11ade69a05",
-      "a57db53482af45f93829887c334a654f712b7507"
-    ],
-    "imageUrl": "/images/articles/1bc61f072f5b.png",
-    "i18n": {
-      "ko": {
-        "title": "삼성전자 임금협상 막판 진통, 직원들 “파업보다 타결” 목소리 확산",
-        "excerpt": "삼성전자 임금 협상이 사후조정 절차를 하루 앞두고 막판 진통을 겪는 가운데, 직원들 사이에서 파업을 피하고 실리적으로 타결해야 한다는 요구가 커지고 있다.",
-        "body": "삼성전자의 임금 협상이 사후조정 절차를 하루 앞두고 막바지 진통을 겪고 있다. 직원들 사이에서는 “파업만은 막아야 한다”는 목소리가 빠르게 확산되며, 전국삼성전자노동조합이 나서 협상을 끝내야 한다는 요구가 나오고 있다. 배경에는 강경 투쟁보다 실리적 타결을 원하는 내부 분위기가 있다. 임금 협상이 장기화될 경우 직원 피로감과 노사 갈등 부담이 커질 수 있다는 점도 영향을 미친 것으로 보인다. 향후 사후조정 절차와 노조의 대응이 협상 향방을 가를 전망이다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Samsung Electronics Wage Talks Near Deadline as Staff Push for Deal Over Strike",
-        "excerpt": "As Samsung Electronics’ wage negotiations face last-minute strain a day before post-mediation, employees are increasingly calling for a practical settlement to avoid a strike.",
-        "body": "Samsung Electronics’ wage negotiations are facing last-minute strain with the post-mediation procedure set for the next day. Among employees, calls to “prevent a strike at all costs” are spreading quickly, with some urging the National Samsung Electronics Union to step in and bring the talks to a close. The mood reflects a preference inside the company for a practical settlement rather than a hardline struggle. If wage talks drag on, employee fatigue and the burden of labor-management conflict could grow. The post-mediation process and the union’s response are expected to shape the direction of the negotiations. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "サムスン電子の賃金交渉が大詰め、社員から「ストより妥結」要求拡大",
-        "excerpt": "サムスン電子の賃金交渉が事後調整手続きを翌日に控えて難航するなか、社員の間でストを避け実利的に妥結すべきだとの声が広がっている。",
-        "body": "サムスン電子の賃金交渉は、事後調整手続きを翌日に控えて大詰めの難航局面に入っている。社員の間では「ストだけは防ぐべきだ」との声が急速に広がり、全国サムスン電子労働組合が前面に出て交渉を終わらせるべきだという要求も出ている。背景には、強硬闘争より実利的な妥結を望む社内の雰囲気がある。交渉が長期化すれば社員の疲労感や労使対立の負担が増す可能性がある。今後の事後調整手続きと労組の対応が交渉の行方を左右するとみられる。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "三星电子薪资谈判进入最后关头，员工呼吁避免罢工尽快达成协议",
-        "excerpt": "三星电子薪资谈判在事后调解程序前一天仍经历最后阵痛，员工中要求避免罢工、以务实方式达成协议的声音迅速扩大。",
-        "body": "三星电子的薪资谈判在事后调解程序前一天进入最后关头，仍面临阵痛。员工之间“无论如何都要避免罢工”的声音正在快速扩散，并有人要求全国三星电子工会出面结束谈判。其背景是公司内部更希望务实达成协议，而不是采取强硬斗争。若薪资谈判继续拖延，员工疲惫感以及劳资矛盾带来的负担可能进一步加重。接下来的事后调解程序和工会应对，将成为影响谈判走向的关键。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Negociación salarial de Samsung Electronics entra en fase crítica: empleados piden acuerdo",
-        "excerpt": "La negociación salarial de Samsung Electronics afronta tensiones finales un día antes de la mediación posterior, mientras empleados piden evitar una huelga y cerrar un acuerdo práctico.",
-        "body": "La negociación salarial de Samsung Electronics atraviesa una fase crítica a un día del procedimiento de mediación posterior. Entre los empleados se extiende con rapidez el llamado a “evitar la huelga a toda costa”, junto con demandas para que el Sindicato Nacional de Samsung Electronics intervenga y cierre las conversaciones. El contexto muestra un ánimo interno más favorable a un acuerdo práctico que a una lucha dura. Si la negociación se prolonga, podrían aumentar el cansancio de los empleados y la carga del conflicto laboral. El procedimiento de mediación y la respuesta del sindicato marcarán el rumbo de las conversaciones. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Negociação salarial da Samsung Electronics chega ao limite com funcionários contra greve",
-        "excerpt": "A negociação salarial da Samsung Electronics enfrenta tensão final um dia antes da mediação posterior, enquanto funcionários defendem evitar greve e buscar um acordo prático.",
-        "body": "A negociação salarial da Samsung Electronics enfrenta tensão de última hora, com o procedimento de mediação posterior marcado para o dia seguinte. Entre os funcionários, cresce rapidamente a ideia de que “a greve deve ser evitada a todo custo”, com pedidos para que o Sindicato Nacional da Samsung Electronics assuma a frente e encerre as conversas. O pano de fundo é uma preferência interna por um acordo prático em vez de uma disputa mais dura. Se a negociação se prolongar, podem aumentar o cansaço dos funcionários e o peso do conflito trabalhista. A mediação e a reação do sindicato devem definir os próximos passos. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Samsung-Electronics-Lohnverhandlungen vor Entscheidung: Beschäftigte drängen auf Einigung",
-        "excerpt": "Die Lohnverhandlungen bei Samsung Electronics geraten einen Tag vor dem Nachschlichtungsverfahren unter Druck, während Beschäftigte einen Streik vermeiden und eine pragmatische Einigung wollen.",
-        "body": "Die Lohnverhandlungen bei Samsung Electronics stehen einen Tag vor dem Nachschlichtungsverfahren unter erheblichem Druck. Unter den Beschäftigten verbreitet sich rasch die Forderung, “einen Streik unbedingt zu verhindern”, zugleich wird die National Samsung Electronics Union aufgefordert, die Verhandlungen zum Abschluss zu bringen. Dahinter steht eine interne Stimmung, die eine pragmatische Einigung einem harten Arbeitskampf vorzieht. Ziehen sich die Verhandlungen weiter hin, könnten Ermüdung der Beschäftigten und die Belastung durch den Arbeitskonflikt wachsen. Das Nachschlichtungsverfahren und die Reaktion der Gewerkschaft dürften den weiteren Verlauf bestimmen. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Négociations salariales chez Samsung Electronics: les salariés poussent à un accord",
-        "excerpt": "Les négociations salariales de Samsung Electronics connaissent des tensions finales à la veille d’une médiation postérieure, tandis que des salariés demandent d’éviter la grève.",
-        "body": "Les négociations salariales de Samsung Electronics traversent une phase de fortes tensions à la veille de la procédure de médiation postérieure. Parmi les salariés, l’appel à “éviter la grève à tout prix” se diffuse rapidement, avec des demandes pour que le Syndicat national de Samsung Electronics intervienne et mette fin aux discussions. Cette position reflète une préférence interne pour un accord pragmatique plutôt que pour une lutte dure. Si les négociations se prolongent, la fatigue des salariés et le poids du conflit social pourraient augmenter. La procédure de médiation et la réponse du syndicat devraient orienter la suite des discussions. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "مفاوضات أجور سامسونغ إلكترونيكس في مرحلة حاسمة والموظفون يفضلون الاتفاق على الإضراب",
-        "excerpt": "تواجه مفاوضات الأجور في سامسونغ إلكترونيكس توترا نهائيا قبل يوم من إجراء التسوية اللاحقة، فيما يتزايد بين الموظفين مطلب تجنب الإضراب والتوصل إلى اتفاق عملي.",
-        "body": "تواجه مفاوضات الأجور في سامسونغ إلكترونيكس مرحلة صعبة في اللحظات الأخيرة، قبل يوم واحد من إجراء التسوية اللاحقة. وبين الموظفين، ينتشر سريعا صوت يقول إن “الإضراب يجب منعه”، مع دعوات إلى أن يتدخل الاتحاد الوطني لعمال سامسونغ إلكترونيكس لإنهاء المفاوضات. وتأتي هذه المطالب وسط أجواء داخلية تفضل تسوية عملية على المواجهة المتشددة. وإذا طال أمد المفاوضات، فقد يزداد إرهاق الموظفين وعبء الخلاف بين الإدارة والعمال. ومن المتوقع أن يحدد إجراء التسوية اللاحقة ورد الاتحاد مسار المفاوضات المقبلة. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "Samsung Electronics वेतन वार्ता अंतिम दौर में, कर्मचारी हड़ताल के बजाय समझौते पर जोर",
-        "excerpt": "Samsung Electronics की वेतन वार्ता पोस्ट-मीडिएशन प्रक्रिया से एक दिन पहले अंतिम खिंचाव में है, जबकि कर्मचारियों में हड़ताल टालकर व्यावहारिक समझौता करने की मांग बढ़ रही है।",
-        "body": "Samsung Electronics की वेतन वार्ता पोस्ट-मीडिएशन प्रक्रिया से एक दिन पहले अंतिम दौर की कठिनाई से गुजर रही है। कर्मचारियों के बीच “हड़ताल हर हाल में रोकनी चाहिए” जैसी आवाज तेजी से फैल रही है, और National Samsung Electronics Union से आगे आकर वार्ता समाप्त कराने की मांग उठ रही है। इसके पीछे कंपनी के भीतर कठोर संघर्ष के बजाय व्यावहारिक समझौते को तरजीह देने का माहौल है। यदि वेतन वार्ता लंबी खिंचती है, तो कर्मचारियों की थकान और श्रम-प्रबंधन टकराव का बोझ बढ़ सकता है। आगे पोस्ट-मीडिएशन प्रक्रिया और यूनियन की प्रतिक्रिया वार्ता की दिशा तय कर सकती है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Negosiasi Upah Samsung Electronics Memanas, Karyawan Dorong Kesepakatan Bukan Mogok",
-        "excerpt": "Negosiasi upah Samsung Electronics menghadapi ketegangan akhir sehari sebelum prosedur pascamediasi, sementara karyawan makin menyerukan penyelesaian praktis untuk mencegah mogok.",
-        "body": "Negosiasi upah Samsung Electronics mengalami ketegangan akhir menjelang prosedur pascamediasi yang dijadwalkan keesokan harinya. Di kalangan karyawan, seruan bahwa “mogok harus dicegah” menyebar cepat, disertai permintaan agar Serikat Pekerja Nasional Samsung Electronics turun tangan dan menuntaskan perundingan. Latar belakangnya adalah suasana internal yang lebih menginginkan kesepakatan praktis daripada perjuangan keras. Jika negosiasi upah berlarut-larut, kelelahan karyawan dan beban konflik industrial dapat meningkat. Prosedur pascamediasi dan respons serikat diperkirakan akan menentukan arah perundingan. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "eab1e03b7ea9",
-    "slug": "oecd-에너지물가-상승률-한달새-86p글로벌-인플레-재점화-268794",
-    "channelId": "ETF",
-    "category": "etf",
-    "publishedAt": "2026-05-10T20:29:28.009Z",
-    "updatedAt": "2026-05-10T20:29:28.009Z",
-    "sourceName": "yna.co.kr",
-    "sourceUrl": "https://www.yna.co.kr/view/AKR20260509033700002",
-    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260509033700002",
-    "titleFingerprint": "d5c97ac6e13bb82a53b6aaae9cb863ce898ad959",
-    "dedupKeys": [
-      "eab1e03b7ea91f82ff6658cb131e8758898bbd4b",
-      "d5c97ac6e13bb82a53b6aaae9cb863ce898ad959",
-      "bc05ad858b8ba0cbb0a0b7e11001b52c208983ed"
-    ],
-    "imageUrl": "/images/articles/eab1e03b7ea9.jpg",
-    "i18n": {
-      "ko": {
-        "title": "OECD 에너지물가 상승률 3월 8.6%p 급등, 글로벌 인플레 우려 재부상",
-        "excerpt": "OECD 회원국의 3월 에너지 물가 상승률이 한 달 만에 8.6%포인트 뛰면서 글로벌 인플레이션 재점화 우려가 다시 부각됐다.",
-        "body": "경제협력개발기구(OECD) 회원국의 지난 3월 에너지 물가 상승률이 한 달 사이 8.6%포인트 상승했다. 연합뉴스가 전한 원문에 따르면 이번 변화는 OECD 회원국 에너지 물가 흐름이 단기간에 크게 달라졌음을 보여준다. 에너지 가격은 소비자물가 전반에 영향을 미치는 핵심 변수로 꼽히는 만큼, 상승률 확대는 글로벌 인플레이션 재점화 우려와 연결된다. 다만 원문에 제시된 핵심 수치는 3월 에너지 물가 상승률의 전월 대비 8.6%포인트 상승이다. 출처: yna.co.kr"
-      },
-      "en": {
-        "title": "OECD Energy Inflation Jumped 8.6 Points in March, Reviving Global Price Concerns",
-        "excerpt": "Energy price inflation across OECD members rose by 8.6 percentage points in March from a month earlier, renewing concerns over global inflation pressure.",
-        "body": "Energy price inflation in OECD member countries rose by 8.6 percentage points in March from the previous month. According to Yonhap News Agency, the move shows that energy price trends across the OECD shifted sharply over a short period. Because energy prices are a key factor affecting overall consumer prices, the wider increase is linked to renewed concerns over global inflation. The core figure provided in the source is the 8.6 percentage-point month-on-month rise in March energy price inflation. Source: yna.co.kr"
-      },
-      "ja": {
-        "title": "OECDエネルギー物価上昇率、3月に8.6ポイント急伸しインフレ懸念再燃",
-        "excerpt": "OECD加盟国の3月のエネルギー物価上昇率が前月から8.6ポイント上昇し、世界的なインフレ再燃への懸念が再び浮上した。",
-        "body": "経済協力開発機構（OECD）加盟国の3月のエネルギー物価上昇率は、1か月で8.6ポイント上昇した。聯合ニュースが伝えた原文によると、今回の変化はOECD加盟国のエネルギー物価の流れが短期間で大きく変わったことを示している。エネルギー価格は消費者物価全般に影響する主要な要因とされるため、上昇率の拡大は世界的なインフレ再燃への懸念につながる。原文で示された核心的な数値は、3月のエネルギー物価上昇率が前月比で8.6ポイント上がったことだ。出典: yna.co.kr"
-      },
-      "zh": {
-        "title": "OECD能源价格涨幅3月跃升8.6个百分点，全球通胀担忧再起",
-        "excerpt": "OECD成员国3月能源价格涨幅较上月上升8.6个百分点，显示能源价格压力加大，全球通胀再燃担忧重新浮现。",
-        "body": "经济合作与发展组织（OECD）成员国3月能源价格涨幅在一个月内上升8.6个百分点。据韩联社原文报道，这一变化显示OECD成员国能源价格走势在短期内出现明显变化。能源价格被视为影响整体消费者物价的重要因素，因此涨幅扩大与全球通胀再度升温的担忧相连。不过，原文提供的核心数据是3月能源价格涨幅较前月上升8.6个百分点。来源: yna.co.kr"
-      },
-      "es": {
-        "title": "Inflación energética de la OCDE sube 8,6 puntos en marzo y reaviva alertas globales",
-        "excerpt": "La inflación de los precios de la energía en los países de la OCDE aumentó 8,6 puntos porcentuales en marzo frente al mes anterior, reactivando preocupaciones inflacionarias.",
-        "body": "La inflación de los precios de la energía en los países miembros de la OCDE subió 8,6 puntos porcentuales en marzo respecto al mes anterior. Según la información original de la agencia Yonhap, el cambio muestra que la tendencia de los precios energéticos en la OCDE varió con fuerza en un corto periodo. Como la energía es un factor clave para los precios al consumidor en general, el aumento de la tasa se vincula con nuevas preocupaciones sobre la inflación global. El dato central citado por la fuente es el alza mensual de 8,6 puntos porcentuales en marzo. Fuente: yna.co.kr"
-      },
-      "pt": {
-        "title": "Inflação de energia da OCDE sobe 8,6 pontos em março e reacende alerta global",
-        "excerpt": "A inflação dos preços de energia nos países da OCDE avançou 8,6 pontos percentuais em março ante o mês anterior, reacendendo preocupações com a inflação global.",
-        "body": "A inflação dos preços de energia nos países membros da OCDE subiu 8,6 pontos percentuais em março em relação ao mês anterior. Segundo a informação original da agência Yonhap, a mudança mostra que a trajetória dos preços de energia na OCDE se alterou de forma significativa em curto prazo. Como a energia é um fator importante para os preços ao consumidor em geral, a ampliação da alta se liga a novas preocupações com a inflação global. O dado central apresentado pela fonte é o aumento mensal de 8,6 pontos percentuais em março. Fonte: yna.co.kr"
-      },
-      "de": {
-        "title": "OECD-Energieinflation steigt im März um 8,6 Punkte und schürt neue Preissorgen",
-        "excerpt": "Die Energiepreisinflation in den OECD-Ländern legte im März binnen eines Monats um 8,6 Prozentpunkte zu und rückte globale Inflationssorgen erneut in den Fokus.",
-        "body": "Die Energiepreisinflation in den Mitgliedsländern der OECD ist im März gegenüber dem Vormonat um 8,6 Prozentpunkte gestiegen. Laut der ursprünglichen Meldung der Nachrichtenagentur Yonhap zeigt diese Entwicklung, dass sich der Trend der Energiepreise in den OECD-Staaten binnen kurzer Zeit deutlich verändert hat. Da Energiepreise als wichtiger Einflussfaktor für die Verbraucherpreise insgesamt gelten, steht der stärkere Anstieg im Zusammenhang mit erneuten Sorgen über globale Inflation. Die zentrale Zahl der Quelle ist der monatliche Anstieg um 8,6 Prozentpunkte im März. Quelle: yna.co.kr"
-      },
-      "fr": {
-        "title": "L’inflation énergétique de l’OCDE grimpe de 8,6 points en mars, l’alerte mondiale revient",
-        "excerpt": "L’inflation des prix de l’énergie dans les pays de l’OCDE a augmenté de 8,6 points de pourcentage en mars sur un mois, ravivant les craintes inflationnistes mondiales.",
-        "body": "L’inflation des prix de l’énergie dans les pays membres de l’OCDE a progressé de 8,6 points de pourcentage en mars par rapport au mois précédent. Selon l’article initial de l’agence Yonhap, cette évolution montre que la tendance des prix de l’énergie dans l’OCDE a fortement changé en peu de temps. Les prix de l’énergie étant un facteur majeur pour l’ensemble des prix à la consommation, cette hausse plus marquée est liée au retour des inquiétudes sur l’inflation mondiale. Le chiffre clé fourni par la source est la hausse mensuelle de 8,6 points en mars. Source: yna.co.kr"
-      },
-      "ar": {
-        "title": "تضخم أسعار الطاقة في OECD يقفز 8.6 نقطة في مارس ويعيد مخاوف التضخم العالمي",
-        "excerpt": "ارتفع معدل تضخم أسعار الطاقة في دول منظمة التعاون الاقتصادي والتنمية خلال مارس 8.6 نقطة مئوية عن الشهر السابق، ما أعاد إبراز مخاوف التضخم العالمي.",
-        "body": "ارتفع معدل تضخم أسعار الطاقة في الدول الأعضاء بمنظمة التعاون الاقتصادي والتنمية في مارس بمقدار 8.6 نقطة مئوية خلال شهر واحد. ووفقا للنص الأصلي الذي نقلته وكالة يونهاب، فإن هذا التغير يوضح أن اتجاه أسعار الطاقة في دول المنظمة تبدل بشكل ملحوظ في فترة قصيرة. وبما أن أسعار الطاقة تعد عاملا رئيسيا يؤثر في أسعار المستهلكين عموما، فإن اتساع الزيادة يرتبط بعودة القلق من تجدد التضخم العالمي. والرقم الأساسي الوارد في المصدر هو ارتفاع معدل تضخم أسعار الطاقة في مارس 8.6 نقطة مئوية مقارنة بالشهر السابق. المصدر: yna.co.kr"
-      },
-      "hi": {
-        "title": "OECD ऊर्जा महंगाई मार्च में 8.6 अंक उछली, वैश्विक मुद्रास्फीति चिंता फिर उभरी",
-        "excerpt": "OECD सदस्य देशों में मार्च की ऊर्जा कीमत मुद्रास्फीति एक महीने में 8.6 प्रतिशत अंक बढ़ी, जिससे वैश्विक महंगाई के दोबारा तेज होने की चिंता फिर सामने आई।",
-        "body": "आर्थिक सहयोग और विकास संगठन यानी OECD के सदस्य देशों में मार्च में ऊर्जा कीमतों की मुद्रास्फीति पिछले महीने की तुलना में 8.6 प्रतिशत अंक बढ़ी। योनहाप समाचार एजेंसी के मूल विवरण के अनुसार, यह बदलाव दिखाता है कि OECD देशों में ऊर्जा कीमतों का रुझान कम समय में काफी बदला है। ऊर्जा कीमतें समग्र उपभोक्ता कीमतों को प्रभावित करने वाला प्रमुख कारक मानी जाती हैं, इसलिए वृद्धि दर का बढ़ना वैश्विक मुद्रास्फीति के फिर उभरने की चिंता से जुड़ता है। स्रोत में दिया गया मुख्य आंकड़ा मार्च में ऊर्जा कीमत मुद्रास्फीति का 8.6 प्रतिशत अंक मासिक उछाल है। स्रोत: yna.co.kr"
-      },
-      "id": {
-        "title": "Inflasi Energi OECD Melonjak 8,6 Poin pada Maret, Kekhawatiran Global Muncul Lagi",
-        "excerpt": "Inflasi harga energi di negara anggota OECD naik 8,6 poin persentase pada Maret dibanding bulan sebelumnya, kembali menyoroti risiko inflasi global.",
-        "body": "Inflasi harga energi di negara-negara anggota OECD naik 8,6 poin persentase pada Maret dibandingkan bulan sebelumnya. Menurut laporan asli kantor berita Yonhap, perubahan ini menunjukkan bahwa tren harga energi di negara OECD bergeser tajam dalam waktu singkat. Karena harga energi merupakan faktor penting yang memengaruhi harga konsumen secara keseluruhan, pelebaran kenaikan tersebut terkait dengan munculnya kembali kekhawatiran inflasi global. Angka utama yang disajikan sumber adalah kenaikan bulanan 8,6 poin persentase pada inflasi harga energi Maret. Sumber: yna.co.kr"
-      }
-    }
-  },
-  {
-    "id": "f394a97bf2cd",
-    "slug": "석유최고가격-방파제로-글로벌-물가-격랑-피할까-243383",
-    "channelId": "ETF",
-    "category": "etf",
-    "publishedAt": "2026-05-10T20:28:34.021Z",
-    "updatedAt": "2026-05-10T20:28:34.021Z",
-    "sourceName": "yna.co.kr",
-    "sourceUrl": "https://www.yna.co.kr/view/AKR20260509038000002",
-    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260509038000002",
-    "titleFingerprint": "2ecaaa3a887eed10c32edadf0b95aad28456dfaf",
-    "dedupKeys": [
-      "f394a97bf2cd9354c62857c201b6f9443739dfab",
-      "2ecaaa3a887eed10c32edadf0b95aad28456dfaf",
-      "0e9b9e01c299727f9e15e483b55e4b302eec6c9c"
-    ],
-    "imageUrl": "/images/articles/f394a97bf2cd.jpg",
-    "i18n": {
-      "ko": {
-        "title": "석유 최고가격 방파제, 중동 긴장 속 글로벌 물가 격랑 막을까",
-        "excerpt": "중동 지역 긴장이 장기화되며 국내 물가 상승 압력이 커지는 가운데, 석유 최고가격이 글로벌 물가 충격을 완화할 방파제가 될 수 있을지 주목된다.",
-        "body": "중동 지역의 긴장이 장기화되면서 국내 물가 상승 압력이 커지고 있다. 세종발 연합뉴스 보도에 따르면 국제 에너지 시장을 둘러싼 불안이 이어지며 석유 가격 변동이 물가 흐름의 주요 변수로 떠올랐다. 이 같은 상황에서 석유 최고가격은 글로벌 물가 격랑을 막는 방파제로 거론된다. 다만 원문은 중동 긴장 장기화와 이에 따른 국내 물가 상승 압력 확대를 핵심으로 전했다. 향후 물가 흐름은 에너지 가격 불안이 얼마나 지속되는지에 따라 영향을 받을 수 있다. 출처: yna.co.kr"
-      },
-      "en": {
-        "title": "Oil price cap seen as shield as Middle East tensions pressure inflation",
-        "excerpt": "As prolonged tensions in the Middle East increase inflation pressure in South Korea, attention turns to whether an oil price cap can help buffer global price turbulence.",
-        "body": "Prolonged tensions in the Middle East are increasing upward pressure on domestic prices in South Korea. According to a Yonhap News Agency report from Sejong, uncertainty surrounding the international energy market continues, making oil price movements a key factor in the inflation outlook. In this context, an oil price cap is being discussed as a possible breakwater against global price turbulence. The original report focused on the extended Middle East tensions and the resulting increase in domestic inflation pressure. Future price trends may be affected by how long energy price instability persists. Source: yna.co.kr"
-      },
-      "ja": {
-        "title": "石油最高価格は防波堤になるか、中東緊張で物価圧力拡大",
-        "excerpt": "中東地域の緊張が長期化し韓国国内の物価上昇圧力が強まる中、石油最高価格が世界的な物価の荒波を和らげる防波堤になるか注目される。",
-        "body": "中東地域の緊張が長期化し、韓国国内の物価上昇圧力が高まっている。世宗発の聯合ニュース報道によると、国際エネルギー市場を巡る不安が続き、石油価格の変動が物価動向の主要な変数として浮上している。こうした状況で、石油最高価格は世界的な物価の荒波を防ぐ防波堤として言及されている。ただし原文は、中東緊張の長期化とそれに伴う国内物価上昇圧力の拡大を核心として伝えた。今後の物価動向は、エネルギー価格不安がどれほど続くかに左右され得る。出典: yna.co.kr"
-      },
-      "zh": {
-        "title": "石油最高限价能否成防波堤，中东紧张推高物价压力",
-        "excerpt": "随着中东地区紧张局势长期化，韩国国内物价上涨压力加大，石油最高限价能否缓冲全球物价波动受到关注。",
-        "body": "中东地区紧张局势长期化，正在加大韩国国内物价上涨压力。据韩联社发自世宗的报道，围绕国际能源市场的不安持续存在，石油价格波动已成为影响物价走势的主要变量。在这种情况下，石油最高限价被提及为抵御全球物价波动的防波堤。不过，原文的核心信息是中东紧张局势长期化以及由此带来的韩国国内物价上涨压力扩大。未来物价走势可能取决于能源价格不稳定将持续多久。来源: yna.co.kr"
-      },
-      "es": {
-        "title": "Tope al petróleo, posible dique ante inflación por tensión en Oriente Medio",
-        "excerpt": "La prolongación de las tensiones en Oriente Medio aumenta la presión inflacionaria en Corea del Sur y pone el foco en si un tope al petróleo puede amortiguar el impacto global.",
-        "body": "La prolongación de las tensiones en Oriente Medio está aumentando la presión al alza sobre los precios internos en Corea del Sur. Según un informe de Yonhap desde Sejong, la incertidumbre en torno al mercado energético internacional continúa, y las variaciones del precio del petróleo se han convertido en una variable clave para la evolución de la inflación. En este contexto, el tope al precio del petróleo se menciona como un posible dique frente a la turbulencia global de precios. El texto original se centra en la tensión prolongada en Oriente Medio y en el aumento de la presión inflacionaria interna. La trayectoria futura de los precios puede depender de cuánto dure la inestabilidad energética. Fuente: yna.co.kr"
-      },
-      "pt": {
-        "title": "Teto do petróleo pode conter inflação sob tensão prolongada no Oriente Médio",
-        "excerpt": "Com a tensão no Oriente Médio se prolongando e elevando a pressão sobre os preços na Coreia do Sul, cresce a atenção ao papel de um teto para o petróleo.",
-        "body": "A tensão prolongada no Oriente Médio está aumentando a pressão de alta sobre os preços domésticos na Coreia do Sul. Segundo reportagem da Yonhap a partir de Sejong, a incerteza em torno do mercado internacional de energia continua, tornando as oscilações do preço do petróleo uma variável importante para a inflação. Nesse cenário, o teto para o preço do petróleo é citado como possível barreira contra a turbulência global dos preços. O texto original destacou a prolongação das tensões no Oriente Médio e a consequente ampliação da pressão inflacionária interna. O rumo dos preços poderá depender da duração da instabilidade energética. Fonte: yna.co.kr"
-      },
-      "de": {
-        "title": "Ölpreisdeckel als Schutzwall gegen Inflation bei Nahost-Spannungen?",
-        "excerpt": "Anhaltende Spannungen im Nahen Osten erhöhen den Preisdruck in Südkorea; im Fokus steht, ob ein Ölpreisdeckel globale Inflationswellen abfedern kann.",
-        "body": "Die anhaltenden Spannungen im Nahen Osten erhöhen den Aufwärtsdruck auf die Verbraucherpreise in Südkorea. Laut einem Bericht der Nachrichtenagentur Yonhap aus Sejong hält die Unsicherheit am internationalen Energiemarkt an, wodurch Schwankungen des Ölpreises zu einem wichtigen Faktor für die Inflationsentwicklung werden. In diesem Umfeld wird ein Ölpreisdeckel als möglicher Schutzwall gegen globale Preisturbulenzen genannt. Der Originalbericht stellte die verlängerten Nahost-Spannungen und den dadurch wachsenden inländischen Preisdruck in den Mittelpunkt. Die weitere Preisentwicklung könnte davon abhängen, wie lange die Unsicherheit bei Energiepreisen anhält. Quelle: yna.co.kr"
-      },
-      "fr": {
-        "title": "Plafond pétrolier: rempart possible face à l’inflation liée au Moyen-Orient",
-        "excerpt": "La prolongation des tensions au Moyen-Orient accroît la pression sur les prix en Corée du Sud, tandis qu’un plafond pétrolier est vu comme un possible rempart.",
-        "body": "La prolongation des tensions au Moyen-Orient accroît la pression haussière sur les prix intérieurs en Corée du Sud. Selon un reportage de Yonhap depuis Sejong, l’incertitude autour du marché international de l’énergie se poursuit, faisant des fluctuations du prix du pétrole un facteur majeur pour l’évolution de l’inflation. Dans ce contexte, un plafond du prix du pétrole est évoqué comme un possible rempart contre les turbulences mondiales des prix. Le texte original met l’accent sur la durée des tensions au Moyen-Orient et sur l’augmentation de la pression inflationniste intérieure. L’évolution future des prix pourrait dépendre de la persistance de l’instabilité énergétique. Source: yna.co.kr"
-      },
-      "ar": {
-        "title": "سقف أسعار النفط كحاجز محتمل مع ضغط تضخمي بفعل توتر الشرق الأوسط",
-        "excerpt": "مع استمرار التوتر في الشرق الأوسط وارتفاع ضغوط الأسعار داخل كوريا الجنوبية، يتجه الاهتمام إلى ما إذا كان سقف أسعار النفط سيخفف اضطراب التضخم العالمي.",
-        "body": "تؤدي إطالة أمد التوتر في الشرق الأوسط إلى زيادة الضغوط الصعودية على الأسعار المحلية في كوريا الجنوبية. ووفق تقرير لوكالة يونهاب من سيجونغ، يستمر القلق المحيط بسوق الطاقة الدولية، ما يجعل تقلبات أسعار النفط عاملا رئيسيا في مسار التضخم. وفي هذا السياق، يطرح سقف أسعار النفط كحاجز محتمل أمام اضطرابات الأسعار العالمية. وركز النص الأصلي على استمرار توتر الشرق الأوسط وما يترتب عليه من اتساع ضغط ارتفاع الأسعار داخليا. وقد يتأثر مسار الأسعار لاحقا بمدى استمرار عدم استقرار أسعار الطاقة. المصدر: yna.co.kr"
-      },
-      "hi": {
-        "title": "मध्य पूर्व तनाव में तेल मूल्य सीमा महंगाई से बचाव की ढाल बनेगी?",
-        "excerpt": "मध्य पूर्व में तनाव लंबे समय तक जारी रहने से दक्षिण कोरिया में महंगाई का दबाव बढ़ रहा है, और तेल मूल्य सीमा की भूमिका पर ध्यान केंद्रित है।",
-        "body": "मध्य पूर्व क्षेत्र में तनाव लंबे समय तक जारी रहने से दक्षिण कोरिया में घरेलू कीमतों पर ऊपर की ओर दबाव बढ़ रहा है। सेजोंग से योनहाप समाचार एजेंसी की रिपोर्ट के अनुसार, अंतरराष्ट्रीय ऊर्जा बाजार को लेकर अनिश्चितता जारी है, जिससे तेल कीमतों में उतार-चढ़ाव महंगाई की दिशा का प्रमुख कारक बन गया है। इसी संदर्भ में तेल की अधिकतम कीमत को वैश्विक मूल्य उथल-पुथल के खिलाफ संभावित ढाल के रूप में देखा जा रहा है। मूल रिपोर्ट का मुख्य बिंदु मध्य पूर्व तनाव की लंबी अवधि और उससे घरेलू महंगाई दबाव का बढ़ना था। आगे कीमतों का रुख ऊर्जा कीमतों की अस्थिरता कितनी देर रहती है, इस पर निर्भर कर सकता है। स्रोत: yna.co.kr"
-      },
-      "id": {
-        "title": "Batas harga minyak diuji saat tensi Timur Tengah tekan inflasi Korea",
-        "excerpt": "Ketegangan Timur Tengah yang berkepanjangan meningkatkan tekanan harga di Korea Selatan, sementara batas harga minyak disorot sebagai penahan gejolak inflasi global.",
-        "body": "Ketegangan yang berkepanjangan di Timur Tengah meningkatkan tekanan kenaikan harga domestik di Korea Selatan. Menurut laporan Yonhap dari Sejong, ketidakpastian di pasar energi internasional terus berlanjut, sehingga pergerakan harga minyak menjadi variabel utama dalam arah inflasi. Dalam situasi ini, batas harga minyak disebut sebagai kemungkinan penahan terhadap gejolak harga global. Laporan asli menekankan berlarutnya ketegangan Timur Tengah dan meningkatnya tekanan inflasi domestik sebagai inti berita. Arah harga ke depan dapat dipengaruhi oleh seberapa lama ketidakstabilan harga energi berlangsung. Sumber: yna.co.kr"
       }
     }
   }
