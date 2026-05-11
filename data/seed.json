@@ -1,5 +1,230 @@
 [
   {
+    "id": "fb45a0b58879",
+    "slug": "1년-만에-확-높아진-눈높이-목표가-상향-보고서-1331건-754934",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-05-11T11:24:53.784Z",
+    "updatedAt": "2026-05-11T11:24:53.784Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/stock/12043561",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12043561",
+    "titleFingerprint": "ea86d53c7739cab67ff41dc4f88d109c554391dc",
+    "dedupKeys": [
+      "fb45a0b5887949c58b9b4ac0c75ac45f7529e00f",
+      "ea86d53c7739cab67ff41dc4f88d109c554391dc",
+      "55a07acb51838d748650dae22b3fd1370256ff89"
+    ],
+    "imageUrl": "/images/articles/fb45a0b58879.jpg",
+    "i18n": {
+      "ko": {
+        "title": "목표가 상향 보고서 1331건, 반도체 랠리에 증권가 눈높이 급상승",
+        "excerpt": "반도체 랠리로 코스피가 8000선에 다가서자 증권가가 1년 새 목표주가 상향 보고서 1331건을 내며 ‘삼전닉스’ 중심 이익 전망을 높이고 있다.",
+        "body": "반도체 랠리로 코스피가 8000선에 다가서면서 증권가의 목표주가 상향 움직임이 빨라지고 있다. 최근 1년 사이 목표가 상향 보고서는 1331건에 이른 것으로 전해졌다. 주도주는 삼성전자와 SK하이닉스를 묶어 부르는 ‘삼전닉스’로, 이들을 중심으로 시작된 이익 전망 상향이 다른 업종으로 확산되는 흐름이다. 시장에서는 지수 상승과 기업 실적 기대가 맞물리며 증권사들의 눈높이가 1년 전보다 크게 높아진 모습이다. 다만 기사에서 확인되는 핵심은 반도체 랠리와 목표가 상향 보고서 증가, 이익 전망 상향의 확산이다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "1,331 Target Price Upgrade Reports as Chip Rally Lifts Market Expectations",
+        "excerpt": "As the semiconductor rally pushes the KOSPI closer to 8,000, brokerages have issued 1,331 target price upgrade reports over the past year, led by Samsung Electronics and SK hynix.",
+        "body": "As the semiconductor rally brings the KOSPI closer to the 8,000 level, securities firms are moving more quickly to raise target prices. Over the past year, target price upgrade reports reportedly reached 1,331. The leading stocks are Samsung Electronics and SK hynix, often grouped in Korea as “Samjeon-nix,” and profit expectation upgrades that began with them are spreading to other sectors. The market is seeing brokerage expectations rise sharply from a year earlier as index gains and earnings hopes move together. The confirmed points are the chip rally, the increase in target price upgrade reports, and the broader spread of higher profit expectations. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "目標株価引き上げ1331件、半導体ラリーで証券街の期待上昇",
+        "excerpt": "半導体ラリーでKOSPIが8000に近づくなか、証券会社は1年で目標株価引き上げリポート1331件を出し、サムスン電子とSKハイニックス中心に利益見通しを高めている。",
+        "body": "半導体ラリーでKOSPIが8000台に近づくなか、証券街の目標株価引き上げの動きが速まっている。直近1年間で目標株価を引き上げたリポートは1331件に達したと伝えられた。主導株はサムスン電子とSKハイニックスをまとめて呼ぶ「サムジョンニックス」で、両社を中心に始まった利益見通しの上方修正が他業種へ広がる流れだ。市場では指数上昇と企業業績への期待が重なり、証券会社の目線が1年前より大きく高まった形となっている。確認できる核心は半導体ラリー、目標株価引き上げリポートの増加、利益見通し上方修正の広がりである。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "目标价上调报告达1331份，半导体行情推高券商预期",
+        "excerpt": "随着半导体行情推动KOSPI逼近8000点，券商一年内发布1331份目标价上调报告，并以三星电子和SK海力士为中心上调盈利预期。",
+        "body": "在半导体行情推动KOSPI逼近8000点之际，韩国证券业上调目标股价的动作正在加快。据报道，过去一年目标价上调报告达到1331份。领涨主线是三星电子和SK海力士，两者在韩国市场常被合称为“三电海力士”，以它们为中心启动的盈利预期上调正向其他行业扩散。市场上，指数上涨与企业业绩期待相互叠加，使券商的判断标准较一年前明显抬高。文章可确认的核心事实是半导体行情、目标价上调报告增加，以及盈利预期上调向更多行业扩散。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "1.331 informes elevan precios objetivo por el rally de semiconductores",
+        "excerpt": "Con el rally de semiconductores acercando al KOSPI a los 8.000 puntos, las casas de bolsa emitieron 1.331 informes de alza de precio objetivo en un año, liderados por Samsung Electronics y SK hynix.",
+        "body": "A medida que el rally de semiconductores acerca al KOSPI al nivel de 8.000 puntos, las firmas de valores aceleran las subidas de precios objetivo. En el último año, los informes que elevaron precios objetivo llegaron a 1.331, según la información citada. Las acciones líderes son Samsung Electronics y SK hynix, conocidas en Corea bajo la expresión “Samjeon-nix”, y la mejora de expectativas de beneficios que comenzó con ellas se está extendiendo a otros sectores. El mercado refleja una mirada mucho más alta que hace un año, combinando el avance del índice con expectativas de resultados corporativos. Los datos confirmados son el rally de chips, el aumento de informes de precios objetivo y la difusión de mejores previsiones de beneficios. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "1.331 relatórios elevam preços-alvo com rali dos semicondutores",
+        "excerpt": "Com o rali dos semicondutores levando o KOSPI para perto dos 8.000 pontos, corretoras emitiram 1.331 relatórios de alta de preço-alvo em um ano, lideradas por Samsung Electronics e SK hynix.",
+        "body": "Com o rali dos semicondutores aproximando o KOSPI da marca de 8.000 pontos, as corretoras estão acelerando as revisões para cima dos preços-alvo. Nos últimos 12 meses, os relatórios de elevação de preço-alvo chegaram a 1.331, segundo a informação divulgada. As ações líderes são Samsung Electronics e SK hynix, agrupadas na Coreia como “Samjeon-nix”, e a melhora das expectativas de lucro iniciada nelas está se espalhando para outros setores. O mercado mostra que as projeções das casas de análise subiram fortemente em relação a um ano atrás, junto com a alta do índice e a expectativa por resultados. Os fatos confirmados são o rali dos chips, o aumento dos relatórios e a expansão das revisões de lucro. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "1.331 Kurszielanhebungen: Chip-Rally hebt Erwartungen der Broker",
+        "excerpt": "Die Halbleiterrally treibt den KOSPI in Richtung 8.000 Punkte; Broker veröffentlichten binnen eines Jahres 1.331 Berichte mit höheren Kurszielen, angeführt von Samsung Electronics und SK hynix.",
+        "body": "Während die Halbleiterrally den KOSPI nahe an die Marke von 8.000 Punkten bringt, beschleunigen Wertpapierhäuser ihre Anhebungen von Kurszielen. In den vergangenen zwölf Monaten wurden Berichten zufolge 1.331 Analysen mit höheren Kurszielen veröffentlicht. Im Zentrum stehen Samsung Electronics und SK hynix, in Korea zusammen häufig als “Samjeon-nix” bezeichnet. Von diesen führenden Aktien ausgehend breiten sich höhere Gewinnerwartungen auf andere Branchen aus. Der Markt zeigt damit, dass die Erwartungen der Broker gegenüber dem Vorjahr deutlich gestiegen sind, getragen von Indexgewinnen und Hoffnungen auf bessere Unternehmensergebnisse. Bestätigt sind die Chip-Rally, die Zunahme der Kurszielanhebungen und die Ausweitung höherer Gewinnerwartungen. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "1 331 relèvements d’objectifs de cours avec le rally des semi-conducteurs",
+        "excerpt": "Alors que le rally des semi-conducteurs rapproche le KOSPI des 8 000 points, les courtiers ont publié 1 331 rapports relevant les objectifs de cours en un an, autour de Samsung Electronics et SK hynix.",
+        "body": "Le rally des semi-conducteurs rapprochant le KOSPI du seuil des 8 000 points, les sociétés de courtage accélèrent les relèvements d’objectifs de cours. Sur un an, ces rapports de hausse auraient atteint 1 331. Les valeurs motrices sont Samsung Electronics et SK hynix, souvent regroupées en Corée sous le terme “Samjeon-nix”, et les relèvements d’attentes de bénéfices partis de ces titres s’étendent à d’autres secteurs. Le marché montre ainsi que les anticipations des analystes sont nettement plus élevées qu’il y a un an, avec la progression de l’indice et l’espoir de meilleurs résultats d’entreprises. Les faits confirmés sont le rally des puces, la hausse du nombre de rapports et la diffusion des attentes de bénéfices. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "1331 تقريرا يرفع الأسعار المستهدفة مع صعود أسهم الرقائق",
+        "excerpt": "مع اقتراب مؤشر كوسبي من مستوى 8000 بدعم صعود أشباه الموصلات، أصدرت شركات الأوراق المالية 1331 تقريرا لرفع الأسعار المستهدفة خلال عام، بقيادة سامسونغ إلكترونيكس وSK هاينكس.",
+        "body": "مع دفع موجة صعود أسهم أشباه الموصلات مؤشر كوسبي نحو مستوى 8000، تسارعت تحركات شركات الأوراق المالية لرفع الأسعار المستهدفة. وبلغ عدد تقارير رفع الأسعار المستهدفة خلال العام الأخير 1331 تقريرا، بحسب ما ورد. وتقود المشهد أسهم سامسونغ إلكترونيكس وSK هاينكس، اللتان يشار إليهما في السوق الكورية بتعبير “سامجون-نيكس”، إذ بدأت منهما موجة رفع توقعات الأرباح ثم امتدت إلى قطاعات أخرى. ويعكس السوق ارتفاعا واضحا في سقف توقعات شركات الوساطة مقارنة بما كان عليه قبل عام، مع تزامن صعود المؤشر وتوقعات تحسن أرباح الشركات. الحقائق المؤكدة هي صعود قطاع الرقائق، وزيادة تقارير رفع الأسعار المستهدفة، واتساع رفع توقعات الأرباح. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "चिप रैली से 1,331 टारगेट प्राइस अपग्रेड रिपोर्ट, उम्मीदें ऊंची",
+        "excerpt": "सेमीकंडक्टर रैली से KOSPI के 8,000 स्तर के करीब पहुंचने पर ब्रोकरेज ने एक साल में 1,331 टारगेट प्राइस अपग्रेड रिपोर्ट जारी कीं, जिनका केंद्र Samsung Electronics और SK hynix रहे।",
+        "body": "सेमीकंडक्टर रैली के कारण KOSPI के 8,000 स्तर के करीब पहुंचते ही प्रतिभूति कंपनियों ने लक्ष्य कीमतें बढ़ाने की रफ्तार तेज कर दी है। पिछले एक साल में टारगेट प्राइस अपग्रेड रिपोर्ट की संख्या 1,331 तक पहुंची बताई गई है। मुख्य नेतृत्व Samsung Electronics और SK hynix के पास है, जिन्हें कोरिया में मिलाकर “Samjeon-nix” कहा जाता है। इन्हीं से शुरू हुई मुनाफे की उम्मीदों में बढ़ोतरी अब अन्य क्षेत्रों तक फैल रही है। बाजार में सूचकांक की तेजी और कंपनियों के नतीजों को लेकर उम्मीदें साथ-साथ चल रही हैं, जिससे ब्रोकरेज की अपेक्षाएं एक साल पहले की तुलना में काफी ऊंची दिखती हैं। पुष्टि योग्य तथ्य चिप रैली, लक्ष्य कीमत बढ़ाने वाली रिपोर्टों की वृद्धि और लाभ अनुमान के विस्तार से जुड़े हैं। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "1.331 Laporan Naikkan Target Harga Saat Reli Semikonduktor Menguat",
+        "excerpt": "Saat reli semikonduktor membawa KOSPI mendekati 8.000, perusahaan sekuritas menerbitkan 1.331 laporan kenaikan target harga dalam setahun, dipimpin Samsung Electronics dan SK hynix.",
+        "body": "Reli semikonduktor yang membawa KOSPI mendekati level 8.000 membuat perusahaan sekuritas bergerak lebih cepat menaikkan target harga saham. Dalam satu tahun terakhir, laporan kenaikan target harga disebut mencapai 1.331. Saham utama yang memimpin adalah Samsung Electronics dan SK hynix, yang di Korea kerap digabung dalam sebutan “Samjeon-nix”. Kenaikan ekspektasi laba yang bermula dari dua emiten itu kini meluas ke sektor lain. Pasar menunjukkan bahwa pandangan perusahaan sekuritas jauh lebih tinggi dibanding setahun lalu, seiring kenaikan indeks dan harapan terhadap kinerja perusahaan. Fakta yang terkonfirmasi adalah reli semikonduktor, bertambahnya laporan kenaikan target harga, dan meluasnya revisi ekspektasi laba. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "d3f6ac2bb418",
+    "slug": "옵트론텍-250억-원-규모-전환사채-발행-429756",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-05-11T11:23:44.275Z",
+    "updatedAt": "2026-05-11T11:23:44.275Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/stock/12043569",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12043569",
+    "titleFingerprint": "dccd2648d1f3bdf5d5238b370d55ef55b2802925",
+    "dedupKeys": [
+      "d3f6ac2bb4184d061bc37ed935cc2b54bbae258a",
+      "dccd2648d1f3bdf5d5238b370d55ef55b2802925",
+      "7f939b8ae23f10482736a1941756f74ff10ef8b8"
+    ],
+    "imageUrl": "/images/articles/d3f6ac2bb418.jpg",
+    "i18n": {
+      "ko": {
+        "title": "옵트론텍 전환사채 250억 원 발행 공시, 전환가액 1922원 확정",
+        "excerpt": "코스닥 상장사 옵트론텍은 2026년 5월 11일 제18회 250억 원 규모 전환사채 발행을 공시하고 전환가액 1922원과 전환 청구 개시일을 알렸다.",
+        "body": "코스닥 상장사 옵트론텍이 2026년 5월 11일 제18회 250억 원 규모 전환사채 발행을 공시했다. 이번 공시에 따르면 전환가액은 1922원으로 정해졌다. 전환 청구 기간은 2027년 5월 22일부터 시작된다. 전환사채는 일정 조건에 따라 주식으로 전환할 수 있는 채권으로, 발행 규모와 전환가액은 투자자가 향후 주식 전환 가능성을 판단할 때 참고하는 핵심 수치다. 시장에서는 발행 조건과 전환 청구 일정이 향후 주가 흐름 및 주식 수 변동 가능성과 함께 확인될 전망이다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "OPTRONTEC to Issue 25 Billion Won Convertible Bonds, Conversion Price Set at 1,922 Won",
+        "excerpt": "KOSDAQ-listed OPTRONTEC disclosed on May 11, 2026 that it will issue its 18th convertible bonds worth 25 billion won, with a conversion price of 1,922 won.",
+        "body": "KOSDAQ-listed OPTRONTEC disclosed on May 11, 2026 that it will issue its 18th convertible bonds worth 25 billion won. According to the disclosure, the conversion price has been set at 1,922 won. The conversion request period will begin on May 22, 2027. Convertible bonds are debt securities that can be converted into shares under certain conditions, making the issue size and conversion price key figures for investors assessing future conversion potential. The market is expected to review the bond terms and conversion schedule alongside possible changes in share count and stock performance. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "オプトロンテック、250億ウォン転換社債発行を公示 転換価額は1922ウォン",
+        "excerpt": "コスダック上場企業のオプトロンテックは2026年5月11日、第18回250億ウォン規模の転換社債発行を公示し、転換価額を1922ウォンとした。",
+        "body": "コスダック上場企業のオプトロンテックは2026年5月11日、第18回250億ウォン規模の転換社債を発行すると公示した。今回の公示によると、転換価額は1922ウォンに設定された。転換請求期間は2027年5月22日から始まる。転換社債は一定の条件に従って株式へ転換できる債券であり、発行規模と転換価額は投資家が今後の株式転換の可能性を判断する際に参考にする主要な数値だ。市場では発行条件と転換請求日程が、今後の株価動向や株式数の変動可能性とともに確認される見通しだ。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "OPTRONTEC公告发行250亿韩元可转债，转股价确定为1922韩元",
+        "excerpt": "KOSDAQ上市公司OPTRONTEC于2026年5月11日公告，将发行第18次、规模250亿韩元的可转换债券，转股价为1922韩元。",
+        "body": "KOSDAQ上市公司OPTRONTEC于2026年5月11日公告，将发行第18次、规模250亿韩元的可转换债券。根据公告，本次转股价确定为1922韩元。转股申请期将自2027年5月22日起开始。可转换债券是在一定条件下可转换为股票的债券，因此发行规模和转股价是投资者判断未来转股可能性时关注的核心数据。市场预计将结合发行条件、转股申请日程以及未来股价走势和股份数量变动的可能性进行关注。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "OPTRONTEC emitirá bonos convertibles por 25.000 millones de wones a 1.922 wones",
+        "excerpt": "La empresa KOSDAQ OPTRONTEC informó el 11 de mayo de 2026 que emitirá su 18.ª serie de bonos convertibles por 25.000 millones de wones.",
+        "body": "La empresa OPTRONTEC, cotizada en KOSDAQ, informó el 11 de mayo de 2026 que emitirá su 18.ª serie de bonos convertibles por 25.000 millones de wones. Según la comunicación, el precio de conversión quedó fijado en 1.922 wones. El período para solicitar la conversión comenzará el 22 de mayo de 2027. Los bonos convertibles son deuda que puede transformarse en acciones bajo determinadas condiciones, por lo que el tamaño de la emisión y el precio de conversión son datos clave para evaluar la posible conversión futura. El mercado revisará las condiciones y el calendario junto con posibles cambios en el número de acciones y la evolución bursátil. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "OPTRONTEC emitirá 25 bilhões de won em debêntures conversíveis a 1.922 won",
+        "excerpt": "A OPTRONTEC, listada na KOSDAQ, informou em 11 de maio de 2026 que emitirá sua 18ª série de debêntures conversíveis no valor de 25 bilhões de won.",
+        "body": "A OPTRONTEC, empresa listada na KOSDAQ, informou em 11 de maio de 2026 que emitirá sua 18ª série de debêntures conversíveis no valor de 25 bilhões de won. Segundo o comunicado, o preço de conversão foi definido em 1.922 won. O período de solicitação de conversão começará em 22 de maio de 2027. Debêntures conversíveis são títulos de dívida que podem ser convertidos em ações sob determinadas condições, tornando o volume da emissão e o preço de conversão dados centrais para avaliar a possibilidade de conversão futura. O mercado deve acompanhar os termos da emissão e o calendário junto com possíveis mudanças no número de ações. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "OPTRONTEC kündigt Wandelanleihe über 25 Mrd. Won an, Wandlungspreis 1.922 Won",
+        "excerpt": "Das KOSDAQ-Unternehmen OPTRONTEC meldete am 11. Mai 2026 die Ausgabe seiner 18. Wandelanleihe über 25 Mrd. Won mit einem Wandlungspreis von 1.922 Won.",
+        "body": "Das an der KOSDAQ notierte Unternehmen OPTRONTEC meldete am 11. Mai 2026 die Ausgabe seiner 18. Wandelanleihe im Umfang von 25 Milliarden Won. Laut Mitteilung wurde der Wandlungspreis auf 1.922 Won festgelegt. Der Zeitraum für Wandlungsanträge beginnt am 22. Mai 2027. Wandelanleihen sind Schuldverschreibungen, die unter bestimmten Bedingungen in Aktien umgewandelt werden können. Daher zählen Emissionsvolumen und Wandlungspreis zu den zentralen Kennzahlen, anhand derer Anleger eine mögliche spätere Umwandlung beurteilen. Der Markt dürfte die Bedingungen und den Zeitplan zusammen mit möglichen Auswirkungen auf Aktienzahl und Kursentwicklung prüfen. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "OPTRONTEC émettra 25 milliards de wons d’obligations convertibles à 1 922 wons",
+        "excerpt": "OPTRONTEC, société cotée au KOSDAQ, a annoncé le 11 mai 2026 l’émission de sa 18e série d’obligations convertibles pour 25 milliards de wons.",
+        "body": "OPTRONTEC, société cotée au KOSDAQ, a annoncé le 11 mai 2026 l’émission de sa 18e série d’obligations convertibles pour un montant de 25 milliards de wons. Selon l’avis publié, le prix de conversion a été fixé à 1 922 wons. La période de demande de conversion commencera le 22 mai 2027. Les obligations convertibles sont des titres de dette pouvant être convertis en actions sous certaines conditions, ce qui fait du montant émis et du prix de conversion des données clés pour évaluer une conversion future. Le marché devrait suivre les conditions d’émission et le calendrier avec les possibles effets sur le nombre d’actions et le cours. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "أوبترونتك تعلن إصدار سندات قابلة للتحويل بقيمة 25 مليار وون وسعر 1,922 وون",
+        "excerpt": "أعلنت أوبترونتك المدرجة في كوسداك في 11 مايو 2026 إصدار الدفعة الثامنة عشرة من السندات القابلة للتحويل بقيمة 25 مليار وون.",
+        "body": "أعلنت شركة أوبترونتك المدرجة في كوسداك في 11 مايو 2026 أنها ستصدر الدفعة الثامنة عشرة من السندات القابلة للتحويل بقيمة 25 مليار وون. ووفق الإفصاح، حدد سعر التحويل عند 1,922 وون. وتبدأ فترة طلب التحويل في 22 مايو 2027. السندات القابلة للتحويل هي أدوات دين يمكن تحويلها إلى أسهم وفق شروط محددة، لذلك يعد حجم الإصدار وسعر التحويل من الأرقام الأساسية التي يستند إليها المستثمرون عند تقييم إمكانية التحويل مستقبلا. ومن المتوقع أن يتابع السوق شروط الإصدار وجدول التحويل إلى جانب احتمالات تغير عدد الأسهم وأداء السهم. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "OPTRONTEC 25 अरब वॉन के कन्वर्टिबल बॉन्ड जारी करेगी, मूल्य 1,922 वॉन तय",
+        "excerpt": "KOSDAQ सूचीबद्ध OPTRONTEC ने 11 मई 2026 को 25 अरब वॉन मूल्य के 18वें कन्वर्टिबल बॉन्ड जारी करने और 1,922 वॉन रूपांतरण मूल्य की सूचना दी।",
+        "body": "KOSDAQ में सूचीबद्ध OPTRONTEC ने 11 मई 2026 को बताया कि वह 25 अरब वॉन मूल्य के 18वें कन्वर्टिबल बॉन्ड जारी करेगी। सूचना के अनुसार, रूपांतरण मूल्य 1,922 वॉन तय किया गया है। रूपांतरण अनुरोध की अवधि 22 मई 2027 से शुरू होगी। कन्वर्टिबल बॉन्ड ऐसे ऋण साधन हैं जिन्हें कुछ शर्तों के तहत शेयरों में बदला जा सकता है, इसलिए निर्गम आकार और रूपांतरण मूल्य निवेशकों के लिए भविष्य की रूपांतरण संभावना परखने के प्रमुख आंकड़े हैं। बाजार जारी शर्तों और रूपांतरण कार्यक्रम को संभावित शेयर संख्या बदलाव और शेयर प्रदर्शन के साथ देखेगा। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "OPTRONTEC Terbitkan Obligasi Konversi 25 Miliar Won, Harga Konversi 1.922 Won",
+        "excerpt": "OPTRONTEC yang tercatat di KOSDAQ mengumumkan pada 11 Mei 2026 penerbitan obligasi konversi ke-18 senilai 25 miliar won dengan harga 1.922 won.",
+        "body": "OPTRONTEC, perusahaan yang tercatat di KOSDAQ, mengumumkan pada 11 Mei 2026 bahwa akan menerbitkan obligasi konversi ke-18 senilai 25 miliar won. Berdasarkan keterbukaan tersebut, harga konversi ditetapkan sebesar 1.922 won. Periode pengajuan konversi akan dimulai pada 22 Mei 2027. Obligasi konversi adalah surat utang yang dapat diubah menjadi saham dengan syarat tertentu, sehingga nilai penerbitan dan harga konversi menjadi angka penting bagi investor dalam menilai potensi konversi di masa depan. Pasar diperkirakan mencermati syarat penerbitan dan jadwal konversi bersama kemungkinan perubahan jumlah saham dan pergerakan harga saham. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "2611a3ae9d27",
+    "slug": "대성하이텍-100억-원-규모-전환사채-발행-497652",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-05-11T11:22:33.286Z",
+    "updatedAt": "2026-05-11T11:22:33.286Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/stock/12043570",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12043570",
+    "titleFingerprint": "b9815116d36875d6f6efc4f8679dfe8b5a7c6fb3",
+    "dedupKeys": [
+      "2611a3ae9d27e1e9efbb59dcac75d86b06186f06",
+      "b9815116d36875d6f6efc4f8679dfe8b5a7c6fb3",
+      "c9faf55453ad4b4c074dad7b2551b8f8a519889e"
+    ],
+    "imageUrl": "/images/articles/2611a3ae9d27.jpg",
+    "i18n": {
+      "ko": {
+        "title": "대성하이텍, 100억 원 전환사채 발행 공시…전환가액 9688원",
+        "excerpt": "코스닥 상장사 대성하이텍이 2026년 5월 11일 제7회 100억 원 규모 전환사채 발행을 공시했다. 전환가액은 9688원이며 전환 청구는 2027년 5월 19일부터 가능하다.",
+        "body": "대성하이텍은 2026년 5월 11일 제7회 전환사채 발행을 공시했다. 코스닥 상장사인 대성하이텍이 발행하는 전환사채 규모는 100억 원이다. 이번 공시에 따르면 전환가액은 9688원으로 정해졌다. 전환 청구 기간은 2027년 5월 19일부터 시작된다. 전환사채는 일정 조건에 따라 주식으로 전환할 수 있는 채권으로, 발행 규모와 전환가액, 청구 가능 시점은 투자자가 확인해야 할 핵심 조건이다. 이번 발행은 대성하이텍의 자금 조달 관련 공시로 시장 참여자들이 조건을 검토할 사안이다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Daesung Hi-Tech to Issue KRW 10 Billion Convertible Bonds, Conversion Price Set at KRW 9,688",
+        "excerpt": "KOSDAQ-listed Daesung Hi-Tech disclosed on May 11, 2026, that it will issue its seventh convertible bond worth KRW 10 billion, with a conversion price of KRW 9,688 and claims starting May 19, 2027.",
+        "body": "Daesung Hi-Tech disclosed on May 11, 2026, that it will issue its seventh convertible bond. The KOSDAQ-listed company’s planned issuance totals KRW 10 billion. According to the disclosure, the conversion price has been set at KRW 9,688. The conversion claim period will begin on May 19, 2027. A convertible bond is a debt instrument that can be converted into shares under specified conditions, making the issue size, conversion price and claim start date key terms for investors to review. The filing concerns Daesung Hi-Tech’s financing activity and gives market participants details to examine. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "大成ハイテック、100億ウォン規模の転換社債発行を公示…転換価額は9688ウォン",
+        "excerpt": "コスダック上場企業の大成ハイテックは2026年5月11日、第7回100億ウォン規模の転換社債発行を公示した。転換価額は9688ウォンで、転換請求は2027年5月19日から始まる。",
+        "body": "大成ハイテックは2026年5月11日、第7回転換社債の発行を公示した。コスダック上場企業である大成ハイテックが発行する転換社債の規模は100億ウォン。今回の公示によると、転換価額は9688ウォンに設定された。転換請求期間は2027年5月19日から開始される。転換社債は一定の条件に基づき株式へ転換できる債券であり、発行規模、転換価額、請求可能時期は投資家が確認すべき主要条件となる。今回の発行は大成ハイテックの資金調達に関する公示で、市場参加者が条件を検討する事項だ。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "Daesung Hi-Tech公告发行100亿韩元可转债，转股价定为9688韩元",
+        "excerpt": "科斯达克上市公司Daesung Hi-Tech于2026年5月11日公告，将发行第7次100亿韩元规模可转换公司债，转股价为9688韩元，转股申请期自2027年5月19日起。",
+        "body": "Daesung Hi-Tech于2026年5月11日公告发行第7次可转换公司债。该公司为科斯达克上市公司，本次可转债发行规模为100亿韩元。根据公告，转股价格定为9688韩元。转股申请期间将从2027年5月19日开始。可转换公司债是在一定条件下可转换为股票的债券，因此发行规模、转股价格和可申请转股的起始时间，是投资者需要确认的核心条款。本次发行属于Daesung Hi-Tech与资金筹措相关的公告，市场参与者可据此审查相关条件。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Daesung Hi-Tech emitirá bonos convertibles por 10.000 millones de wones, con precio de conversión de 9.688 wones",
+        "excerpt": "Daesung Hi-Tech, cotizada en KOSDAQ, informó el 11 de mayo de 2026 que emitirá su séptimo bono convertible por 10.000 millones de wones; el precio de conversión será de 9.688 wones.",
+        "body": "Daesung Hi-Tech informó el 11 de mayo de 2026 la emisión de su séptimo bono convertible. La compañía, que cotiza en KOSDAQ, realizará una emisión por 10.000 millones de wones. Según la comunicación, el precio de conversión quedó fijado en 9.688 wones. El periodo para solicitar la conversión comenzará el 19 de mayo de 2027. Un bono convertible es un instrumento de deuda que puede transformarse en acciones bajo determinadas condiciones, por lo que el importe emitido, el precio de conversión y la fecha inicial de solicitud son términos clave para los inversores. La emisión corresponde a una comunicación de financiación de Daesung Hi-Tech. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Daesung Hi-Tech emitirá debêntures conversíveis de 10 bilhões de wones, com conversão a 9.688 wones",
+        "excerpt": "A Daesung Hi-Tech, listada na KOSDAQ, informou em 11 de maio de 2026 que emitirá sua sétima debênture conversível de 10 bilhões de wones, com preço de conversão de 9.688 wones.",
+        "body": "A Daesung Hi-Tech informou em 11 de maio de 2026 que emitirá sua sétima debênture conversível. A empresa listada na KOSDAQ fará uma emissão no valor de 10 bilhões de wones. Segundo o comunicado, o preço de conversão foi definido em 9.688 wones. O período para solicitar a conversão começará em 19 de maio de 2027. Uma debênture conversível é um título de dívida que pode ser convertido em ações sob determinadas condições, de modo que o valor da emissão, o preço de conversão e a data inicial de solicitação são pontos centrais para os investidores. A emissão é uma divulgação relacionada ao financiamento da Daesung Hi-Tech. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Daesung Hi-Tech kündigt Wandelanleihe über 10 Mrd. Won an, Wandlungspreis bei 9.688 Won",
+        "excerpt": "Das KOSDAQ-Unternehmen Daesung Hi-Tech gab am 11. Mai 2026 die Ausgabe seiner siebten Wandelanleihe über 10 Mrd. Won bekannt. Der Wandlungspreis liegt bei 9.688 Won, Anträge sind ab 19. Mai 2027 möglich.",
+        "body": "Daesung Hi-Tech gab am 11. Mai 2026 die Ausgabe seiner siebten Wandelanleihe bekannt. Das an der KOSDAQ notierte Unternehmen plant eine Emission im Umfang von 10 Mrd. Won. Laut Mitteilung wurde der Wandlungspreis auf 9.688 Won festgelegt. Der Zeitraum für Wandlungsanträge beginnt am 19. Mai 2027. Eine Wandelanleihe ist ein Schuldtitel, der unter bestimmten Bedingungen in Aktien umgewandelt werden kann. Daher gehören Emissionsvolumen, Wandlungspreis und Beginn der Antragsfrist zu den zentralen Bedingungen, die Investoren prüfen sollten. Die Ausgabe ist eine finanzierungsbezogene Mitteilung von Daesung Hi-Tech. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Daesung Hi-Tech va émettre 10 milliards de wons d’obligations convertibles, prix fixé à 9 688 wons",
+        "excerpt": "Daesung Hi-Tech, cotée au KOSDAQ, a annoncé le 11 mai 2026 l’émission de sa septième obligation convertible de 10 milliards de wons, avec un prix de conversion de 9 688 wons.",
+        "body": "Daesung Hi-Tech a annoncé le 11 mai 2026 l’émission de sa septième obligation convertible. La société cotée au KOSDAQ prévoit une émission d’un montant de 10 milliards de wons. Selon l’avis publié, le prix de conversion a été fixé à 9 688 wons. La période de demande de conversion débutera le 19 mai 2027. Une obligation convertible est un titre de dette pouvant être converti en actions sous certaines conditions; le montant de l’émission, le prix de conversion et la date de début de la période de demande sont donc des éléments clés pour les investisseurs. Cette émission relève d’une information de financement de Daesung Hi-Tech. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "دايسونغ هاي-تك تعلن إصدار سندات قابلة للتحويل بقيمة 10 مليارات وون وسعر تحويل 9,688 وون",
+        "excerpt": "أعلنت دايسونغ هاي-تك المدرجة في كوسداك في 11 مايو 2026 إصدار سنداتها السابعة القابلة للتحويل بقيمة 10 مليارات وون، مع تحديد سعر التحويل عند 9,688 وون وبدء الطلبات في 19 مايو 2027.",
+        "body": "أعلنت دايسونغ هاي-تك في 11 مايو 2026 إصدار سنداتها السابعة القابلة للتحويل. وتبلغ قيمة الإصدار الذي تعتزم الشركة المدرجة في كوسداك طرحه 10 مليارات وون. ووفقاً للإفصاح، تم تحديد سعر التحويل عند 9,688 وون. وتبدأ فترة طلب التحويل في 19 مايو 2027. والسند القابل للتحويل هو أداة دين يمكن تحويلها إلى أسهم وفق شروط محددة، لذلك تعد قيمة الإصدار وسعر التحويل وموعد بدء إمكانية تقديم الطلبات من الشروط الأساسية التي ينبغي على المستثمرين مراجعتها. ويرتبط هذا الإصدار بإفصاح تمويلي من دايسونغ هاي-تك. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "Daesung Hi-Tech 10 अरब वॉन के परिवर्तनीय बॉन्ड जारी करेगी, रूपांतरण मूल्य 9,688 वॉन तय",
+        "excerpt": "KOSDAQ-सूचीबद्ध Daesung Hi-Tech ने 11 मई 2026 को अपनी सातवीं 10 अरब वॉन की परिवर्तनीय बॉन्ड जारी करने की सूचना दी। रूपांतरण मूल्य 9,688 वॉन है और दावा अवधि 19 मई 2027 से शुरू होगी।",
+        "body": "Daesung Hi-Tech ने 11 मई 2026 को अपनी सातवीं परिवर्तनीय बॉन्ड जारी करने की सूचना दी। KOSDAQ-सूचीबद्ध कंपनी द्वारा जारी किए जाने वाले इस बॉन्ड का आकार 10 अरब वॉन है। सूचना के अनुसार, रूपांतरण मूल्य 9,688 वॉन तय किया गया है। रूपांतरण दावा अवधि 19 मई 2027 से शुरू होगी। परिवर्तनीय बॉन्ड ऐसा ऋण साधन है जिसे निर्धारित शर्तों के तहत शेयरों में बदला जा सकता है, इसलिए निर्गम आकार, रूपांतरण मूल्य और दावा शुरू होने की तारीख निवेशकों के लिए प्रमुख शर्तें हैं। यह निर्गम Daesung Hi-Tech की वित्तपोषण संबंधी सूचना है, जिसके आधार पर बाजार सहभागी शर्तों की समीक्षा कर सकते हैं। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Daesung Hi-Tech Terbitkan Obligasi Konversi 10 Miliar Won, Harga Konversi 9.688 Won",
+        "excerpt": "Daesung Hi-Tech yang tercatat di KOSDAQ mengumumkan pada 11 Mei 2026 penerbitan obligasi konversi ketujuh senilai 10 miliar won, dengan harga konversi 9.688 won dan periode klaim mulai 19 Mei 2027.",
+        "body": "Daesung Hi-Tech mengumumkan pada 11 Mei 2026 penerbitan obligasi konversi ketujuh. Perusahaan yang tercatat di KOSDAQ tersebut akan menerbitkan obligasi konversi senilai 10 miliar won. Berdasarkan pengumuman itu, harga konversi ditetapkan sebesar 9.688 won. Periode pengajuan konversi akan dimulai pada 19 Mei 2027. Obligasi konversi adalah instrumen utang yang dapat dikonversi menjadi saham dengan syarat tertentu, sehingga nilai penerbitan, harga konversi, dan waktu mulai pengajuan menjadi ketentuan utama bagi investor. Penerbitan ini merupakan pengumuman terkait pendanaan Daesung Hi-Tech. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
     "id": "a9fcb6bc7775",
     "slug": "매경증권대상-nh투자證-퇴직연금-대상에-삼성證-351569",
     "channelId": "ETF",
@@ -4271,231 +4496,6 @@
         "title": "Pimpinan Lima Bank Besar Dukung Penataan Ulang Peran Keuangan, Soroti Kesehatan",
         "excerpt": "Para pimpinan bank komersial utama pada tanggal 10 menyatakan sepakat dengan arah pemerintah Lee Jae Myung untuk menata ulang struktur keuangan, sambil menekankan kesehatan bank.",
         "body": "Para pimpinan bank komersial utama pada tanggal 10 menyatakan bahwa mereka memahami dan mendukung arah pemerintah Lee Jae Myung untuk membangun kembali struktur serta peran keuangan. Sektor perbankan sepakat bahwa fungsi keuangan dalam ekonomi dan masyarakat perlu didefinisikan ulang, namun menekankan bahwa pengelolaan kesehatan bank harus berjalan bersamaan agar operasi tetap berkelanjutan. Sikap ini muncul ketika arah kebijakan keuangan pemerintah baru mendorong pembahasan mengenai tanggung jawab dan peran bank. Ke depan, pembahasan restrukturisasi keuangan diperkirakan akan mempertimbangkan perluasan peran publik sekaligus pengamanan kesehatan perbankan. Sumber: yna.co.kr"
-      }
-    }
-  },
-  {
-    "id": "b215f29ac794",
-    "slug": "불장-놓칠라-마통-쓰는-개미들5대銀-잔액-3년4개월-만에-최대-865925",
-    "channelId": "ETF",
-    "category": "etf",
-    "publishedAt": "2026-05-10T19:45:27.956Z",
-    "updatedAt": "2026-05-10T19:45:27.956Z",
-    "sourceName": "yna.co.kr",
-    "sourceUrl": "https://www.yna.co.kr/view/AKR20260509040500002",
-    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260509040500002",
-    "titleFingerprint": "4c2d14771e81bbceee14b2fab79cf031b8c008e7",
-    "dedupKeys": [
-      "b215f29ac794e31d446247af4c8368514af3ecb4",
-      "4c2d14771e81bbceee14b2fab79cf031b8c008e7",
-      "9f213bbc377bbf387c1be42217d1e037b72e7cae"
-    ],
-    "imageUrl": "/images/articles/b215f29ac794.jpg",
-    "i18n": {
-      "ko": {
-        "title": "마이너스통장 잔액 3년4개월 만에 최대…불장 좇는 개미 대출 급증",
-        "excerpt": "국내 증시 활황 속 개인 투자자들이 투자 자금 마련을 위해 마이너스통장을 활용하면서 5대 시중은행의 신용한도대출 잔액이 3년 4개월 만에 최대 규모로 늘었다.",
-        "body": "국내 증시가 활황을 보이는 가운데 개인 투자자들이 상승장을 놓치지 않기 위해 마이너스통장으로 불리는 신용한도대출을 활용하면서 주요 시중은행의 관련 잔액이 크게 늘었다. 연합뉴스에 따르면 5대 은행의 마이너스통장 잔액은 3년 4개월 만에 최대 규모를 기록했다. 이는 주식시장 호조 속에서 개인 투자자들의 투자 자금 수요가 커진 흐름을 보여준다. 신용한도대출은 필요할 때 한도 내에서 돈을 빌릴 수 있어 투자 대기자금으로 활용되기 쉽다. 다만 대출을 통한 투자 확대는 시장 변동성이 커질 경우 개인 투자자의 부담으로 이어질 수 있다. 출처: yna.co.kr"
-      },
-      "en": {
-        "title": "Margin loan-style overdrafts hit 3-year-4-month high as retail investors chase rally",
-        "excerpt": "Amid a buoyant Korean stock market, retail investors using overdraft-style credit line loans for investment funds pushed balances at five major banks to their highest in 3 years and 4 months.",
-        "body": "As South Korea’s stock market stays buoyant, retail investors are increasingly using overdraft-style credit line loans, known locally as minus accounts, to avoid missing the rally. According to Yonhap News Agency, the balance of these loans at five major commercial banks has reached its highest level in 3 years and 4 months. The increase reflects stronger demand for investment funds among individual investors during the market upswing. Because credit line loans allow borrowers to draw money within a preset limit when needed, they can be used as standby investment cash. However, investment funded by borrowing may become a burden for retail investors if market volatility rises. Source: yna.co.kr"
-      },
-      "ja": {
-        "title": "マイナス通帳残高が3年4カ月ぶり最大、上昇相場追う個人の借入増",
-        "excerpt": "韓国株式市場の活況を受け、個人投資家が投資資金の確保にマイナス通帳型の信用限度貸出を使い、5大銀行の残高が3年4カ月ぶり最大となった。",
-        "body": "韓国株式市場が活況を示す中、個人投資家が上昇相場を逃すまいと、マイナス通帳と呼ばれる信用限度貸出を利用し、主要市中銀行の関連残高が大きく増えた。聯合ニュースによると、5大銀行のマイナス通帳残高は3年4カ月ぶりの最大規模を記録した。これは株式市場の好調を背景に、個人投資家の投資資金需要が高まっている流れを示す。信用限度貸出は必要な時に限度内で資金を借りられるため、投資待機資金として使われやすい。一方、借入による投資拡大は市場変動性が高まる場合、個人投資家の負担につながり得る。出典: yna.co.kr"
-      },
-      "zh": {
-        "title": "透支型信用贷款余额创3年4个月新高，散户追涨借钱入市",
-        "excerpt": "韩国股市走强之际，个人投资者为筹措投资资金使用透支型信用额度贷款，推动五大商业银行相关余额升至3年4个月以来最高水平。",
-        "body": "在韩国股市保持活跃的背景下，个人投资者为避免错过上涨行情，开始更多使用被称为“负数存折”的信用额度贷款，主要商业银行相关余额明显增加。据韩联社报道，五大银行的透支型信用贷款余额创下3年4个月以来最大规模。这显示出在股市向好之际，个人投资者对投资资金的需求正在扩大。信用额度贷款可在既定额度内按需借款，因此容易被用作投资备用资金。不过，通过贷款扩大投资，一旦市场波动加大，可能会转化为个人投资者的负担。来源: yna.co.kr"
-      },
-      "es": {
-        "title": "Créditos tipo sobregiro alcanzan máximo en 3 años y 4 meses por rally bursátil coreano",
-        "excerpt": "En medio del auge bursátil en Corea, inversores minoristas usaron líneas de crédito tipo sobregiro para invertir, elevando el saldo en cinco grandes bancos al mayor nivel en 3 años y 4 meses.",
-        "body": "Con el mercado bursátil surcoreano en auge, los inversores minoristas están recurriendo más a préstamos de línea de crédito tipo sobregiro, conocidos como cuentas negativas, para no perderse la subida. Según la agencia Yonhap, el saldo de estos préstamos en los cinco grandes bancos comerciales alcanzó su mayor nivel en 3 años y 4 meses. El aumento muestra una mayor demanda de fondos de inversión entre particulares durante el buen momento del mercado. Este tipo de crédito permite retirar dinero dentro de un límite cuando se necesita, por lo que puede usarse como liquidez de espera para invertir. Sin embargo, ampliar inversiones con deuda puede convertirse en una carga si aumenta la volatilidad. Fuente: yna.co.kr"
-      },
-      "pt": {
-        "title": "Crédito tipo cheque especial atinge máxima em 3 anos e 4 meses com rali na bolsa coreana",
-        "excerpt": "Com a bolsa sul-coreana em alta, investidores individuais usaram linhas de crédito tipo cheque especial para investir, levando o saldo nos cinco maiores bancos ao maior nível em 3 anos e 4 meses.",
-        "body": "Com o mercado acionário da Coreia do Sul aquecido, investidores individuais estão recorrendo mais a linhas de crédito tipo cheque especial, conhecidas localmente como contas negativas, para não perder a alta. Segundo a agência Yonhap, o saldo desses empréstimos nos cinco principais bancos comerciais atingiu o maior nível em 3 anos e 4 meses. O avanço mostra aumento da demanda por recursos de investimento entre pessoas físicas durante a melhora do mercado. Como a linha de crédito permite tomar dinheiro dentro de um limite quando necessário, ela pode ser usada como caixa de espera para investir. Ainda assim, ampliar investimentos com empréstimos pode pesar sobre o investidor se a volatilidade crescer. Fonte: yna.co.kr"
-      },
-      "de": {
-        "title": "Überziehungskredite auf 3-Jahres-4-Monats-Hoch, Kleinanleger jagen Börsenrally",
-        "excerpt": "Im starken koreanischen Aktienmarkt nutzen Privatanleger Kreditlinien für Anlagegeld; die Bestände bei fünf Großbanken stiegen auf den höchsten Stand seit 3 Jahren und 4 Monaten.",
-        "body": "Während der südkoreanische Aktienmarkt stark läuft, greifen Privatanleger vermehrt auf Kreditlinien mit Überziehungscharakter zurück, um die Rally nicht zu verpassen. Laut der Nachrichtenagentur Yonhap erreichte der Bestand solcher Kredite bei den fünf großen Geschäftsbanken den höchsten Stand seit 3 Jahren und 4 Monaten. Der Anstieg zeigt, dass die Nachfrage privater Anleger nach Investitionsmitteln im Zuge der freundlichen Börsenlage zugenommen hat. Kreditlinien können bei Bedarf innerhalb eines festgelegten Rahmens abgerufen werden und eignen sich daher als kurzfristig verfügbares Anlagekapital. Zugleich kann eine Ausweitung von Investitionen über Kredite bei höherer Marktvolatilität zur Belastung für Privatanleger werden. Quelle: yna.co.kr"
-      },
-      "fr": {
-        "title": "Les lignes de crédit atteignent un pic de 3 ans et 4 mois avec la hausse des actions coréennes",
-        "excerpt": "Portés par la vigueur de la Bourse coréenne, des particuliers utilisent des lignes de crédit pour investir, portant l’encours des cinq grandes banques à un plus haut en 3 ans et 4 mois.",
-        "body": "Alors que le marché actions sud-coréen reste dynamique, les investisseurs particuliers recourent davantage aux prêts à ligne de crédit, appelés comptes négatifs, afin de ne pas manquer la hausse. Selon l’agence Yonhap, l’encours de ces prêts dans les cinq grandes banques commerciales a atteint son plus haut niveau en 3 ans et 4 mois. Cette progression traduit une demande accrue de fonds d’investissement de la part des particuliers dans un contexte boursier favorable. Ces lignes permettent d’emprunter dans une limite prédéfinie quand le besoin apparaît, ce qui les rend faciles à utiliser comme liquidités d’attente pour investir. Toutefois, investir davantage avec de l’argent emprunté peut peser sur les particuliers si la volatilité du marché augmente. Source: yna.co.kr"
-      },
-      "ar": {
-        "title": "أرصدة قروض السحب على المكشوف تبلغ أعلى مستوى في 3 سنوات و4 أشهر مع صعود الأسهم الكورية",
-        "excerpt": "وسط انتعاش سوق الأسهم الكورية، استخدم مستثمرون أفراد قروض حدود ائتمانية لتوفير أموال استثمارية، فارتفعت أرصدتها لدى خمسة بنوك كبرى إلى أعلى مستوى في 3 سنوات و4 أشهر.",
-        "body": "مع استمرار نشاط سوق الأسهم في كوريا الجنوبية، زاد استخدام المستثمرين الأفراد لقروض الحدود الائتمانية المعروفة محليا باسم الحسابات السالبة، سعيا إلى عدم تفويت موجة الصعود. وبحسب وكالة يونهاب، بلغ رصيد هذه القروض لدى خمسة بنوك تجارية كبرى أكبر مستوى له منذ 3 سنوات و4 أشهر. ويعكس ذلك ارتفاع الطلب على أموال الاستثمار بين الأفراد في ظل قوة السوق. وتتيح هذه القروض السحب ضمن حد محدد عند الحاجة، لذلك يسهل استخدامها كسيولة جاهزة للاستثمار. لكن توسيع الاستثمار عبر الاقتراض قد يتحول إلى عبء على المستثمرين الأفراد إذا زادت تقلبات السوق. المصدر: yna.co.kr"
-      },
-      "hi": {
-        "title": "कोरियाई शेयर तेजी में क्रेडिट लाइन कर्ज 3 साल 4 महीने के उच्च स्तर पर",
-        "excerpt": "दक्षिण कोरिया के तेज शेयर बाजार में खुदरा निवेशकों ने निवेश धन जुटाने के लिए ओवरड्राफ्ट जैसी क्रेडिट लाइन का उपयोग किया, जिससे पांच बड़े बैंकों का बैलेंस 3 साल 4 महीने के उच्च स्तर पर पहुंचा।",
-        "body": "दक्षिण कोरिया के शेयर बाजार में तेजी के बीच खुदरा निवेशक रैली चूकने से बचने के लिए माइनस अकाउंट कहे जाने वाले क्रेडिट लाइन कर्ज का अधिक उपयोग कर रहे हैं। योनहाप समाचार एजेंसी के अनुसार, पांच प्रमुख वाणिज्यिक बैंकों में इन कर्जों का बैलेंस 3 साल 4 महीने में सबसे बड़े स्तर पर पहुंच गया। यह शेयर बाजार की मजबूती के दौरान व्यक्तिगत निवेशकों की निवेश पूंजी की बढ़ी मांग को दिखाता है। क्रेडिट लाइन कर्ज में जरूरत पड़ने पर तय सीमा के भीतर धन निकाला जा सकता है, इसलिए इसे निवेश के लिए तैयार नकदी के रूप में इस्तेमाल करना आसान है। हालांकि कर्ज लेकर निवेश बढ़ाना बाजार में उतार-चढ़ाव बढ़ने पर खुदरा निवेशकों पर बोझ बन सकता है। स्रोत: yna.co.kr"
-      },
-      "id": {
-        "title": "Saldo rekening minus capai tertinggi 3 tahun 4 bulan saat investor ritel kejar reli saham",
-        "excerpt": "Di tengah penguatan pasar saham Korea Selatan, investor individu memakai pinjaman batas kredit untuk dana investasi, membuat saldo di lima bank besar mencapai level tertinggi dalam 3 tahun 4 bulan.",
-        "body": "Saat pasar saham Korea Selatan bergerak kuat, investor individu makin banyak memakai pinjaman batas kredit yang dikenal sebagai rekening minus agar tidak tertinggal reli. Menurut Yonhap News Agency, saldo pinjaman tersebut di lima bank komersial besar mencapai level terbesar dalam 3 tahun 4 bulan. Kenaikan ini menunjukkan meningkatnya kebutuhan dana investasi dari investor individu di tengah pasar saham yang membaik. Pinjaman batas kredit memungkinkan nasabah menarik dana sesuai limit saat dibutuhkan, sehingga mudah dipakai sebagai dana siaga untuk investasi. Namun, memperbesar investasi dengan pinjaman dapat menjadi beban bagi investor ritel jika volatilitas pasar meningkat. Sumber: yna.co.kr"
-      }
-    }
-  },
-  {
-    "id": "e41d89a9ac65",
-    "slug": "공정위-대한항공-이행강제금-94-감경시행령-넘은-의결-논란-811348",
-    "channelId": "ETF",
-    "category": "etf",
-    "publishedAt": "2026-05-10T19:43:27.702Z",
-    "updatedAt": "2026-05-10T19:43:27.702Z",
-    "sourceName": "yna.co.kr",
-    "sourceUrl": "https://www.yna.co.kr/view/AKR20260509044100002",
-    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260509044100002",
-    "titleFingerprint": "26dfe73ef53c26b5c74d534a41b5bc7f29c95f32",
-    "dedupKeys": [
-      "e41d89a9ac65952b14cf28e9ded0e12d532d6b2b",
-      "26dfe73ef53c26b5c74d534a41b5bc7f29c95f32",
-      "0468032935028634689efa22330d03326f8a39c6"
-    ],
-    "imageUrl": "/images/articles/e41d89a9ac65.jpg",
-    "i18n": {
-      "ko": {
-        "title": "공정위 대한항공 이행강제금 94% 감경 논란, 시행령 기준 넘어선 의결인가",
-        "excerpt": "공정거래위원회가 대한항공 시정조치 불이행 이행강제금을 산정액보다 94% 낮추면서, 시행령상 기준과 고시 적용 범위를 둘러싼 논란이 제기됐다.",
-        "body": "공정거래위원회가 대한항공의 기업결합 시정조치 불이행에 대한 이행강제금을 큰 폭으로 낮춰 의결한 것을 두고 논란이 일고 있다. 공정위는 대한항공이 인천-프랑크푸르트 노선에서 공급 좌석 수 축소 금지 의무를 지키지 않았다고 보고 이행강제금을 산정했다. 시행령 기준에 따른 산정액은 980억9천471만원이었고, 40% 감경 뒤 588억5천683만원이 됐으나 최종 부과액은 58억8천560만원으로 결정됐다. 전체 감경 폭은 약 94%다. 하위 규범인 고시를 근거로 시행령상 기준금액과 다른 결론을 냈다는 지적이 나오면서 향후 공정위 제재 기준의 예측 가능성이 쟁점이 될 전망이다. 출처: yna.co.kr"
-      },
-      "en": {
-        "title": "Korean Air Fine Cut 94% by FTC Sparks Debate Over Enforcement Decree Limits",
-        "excerpt": "South Korea’s FTC sharply reduced Korean Air’s compliance fine by 94%, raising debate over whether a lower-level notice can alter enforcement decree-based calculations.",
-        "body": "South Korea’s Fair Trade Commission is facing debate after it sharply reduced a compliance fine imposed on Korean Air for failing to meet merger remedy obligations. The case concerned the carrier’s duty not to cut seat supply on the Incheon-Frankfurt route. Under the enforcement decree formula, the amount was calculated at 98.09 billion won. After a 40% reduction, it stood at 58.86 billion won, but the final penalty was set at 5.89 billion won. The total reduction was about 94%. The controversy centers on whether the FTC relied on a lower-level notice to reach a result different from the amount set by the higher enforcement decree, making predictability of future sanctions a key issue. Source: yna.co.kr"
-      },
-      "ja": {
-        "title": "大韓航空の履行強制金94%減額で公取委に論争、施行令基準との整合性が焦点",
-        "excerpt": "韓国公正取引委員会が大韓航空の履行強制金を算定額より94%減額し、施行令の基準と下位告示の適用範囲を巡る論争が浮上した。",
-        "body": "韓国公正取引委員会が、大韓航空の企業結合に伴う是正措置不履行に対する履行強制金を大幅に減額して議決したことを巡り、論争が起きている。対象は仁川-フランクフルト路線で供給座席数の縮小禁止義務を守らなかったとされた事案だ。施行令の基準に基づく算定額は980億9,471万ウォンで、40%減額後は588億5,683万ウォンとなったが、最終賦課額は58億8,560万ウォンに決まった。全体の減額幅は約94%に達する。下位規範である告示を根拠に、上位規範の施行令による基準額と異なる結論を出したとの指摘があり、今後の制裁基準の予見可能性が焦点となる見通しだ。出典: yna.co.kr"
-      },
-      "zh": {
-        "title": "大韩航空履行强制金被韩国公取委减免94%，是否越过施行令引争议",
-        "excerpt": "韩国公平交易委员会将大韩航空履行强制金较测算额下调94%，围绕施行令标准与下位告示适用范围的争议随之升温。",
-        "body": "韩国公平交易委员会因大幅下调大韩航空企业结合整改措施未履行案件的履行强制金而引发争议。该案涉及大韩航空在仁川-法兰克福航线未遵守不得缩减供给座位数的义务。按施行令标准计算，金额为980亿9471万韩元；在减免40%后为588亿5683万韩元，但最终处罚额被定为58亿8560万韩元。整体减免幅度约为94%。争议焦点在于，公取委是否依据下位规范告示，作出了不同于上位规范施行令基准金额的结论。今后监管处罚标准的可预见性预计将成为关注点。来源: yna.co.kr"
-      },
-      "es": {
-        "title": "Korean Air: recorte del 94% a multa de la FTC coreana abre debate legal",
-        "excerpt": "La Comisión de Comercio Justo de Corea redujo en 94% la multa coercitiva a Korean Air, desatando dudas sobre el alcance de avisos inferiores frente al decreto.",
-        "body": "La Comisión de Comercio Justo de Corea del Sur generó controversia al reducir de forma drástica la multa coercitiva impuesta a Korean Air por incumplir medidas correctivas vinculadas a su combinación empresarial. El caso se refiere a la obligación de no reducir la oferta de asientos en la ruta Incheon-Fráncfort. Según la fórmula del decreto de aplicación, el monto calculado era de 98.094 millones de wones. Tras una reducción del 40%, quedó en 58.857 millones, pero la sanción final se fijó en 5.886 millones de wones. El recorte total fue de cerca del 94%. La discusión se centra en si la autoridad usó un aviso de rango inferior para apartarse del cálculo previsto por una norma superior. Fuente: yna.co.kr"
-      },
-      "pt": {
-        "title": "Korean Air tem multa reduzida em 94% pela FTC coreana e decisão gera controvérsia",
-        "excerpt": "A Comissão de Comércio Justo da Coreia reduziu em 94% a multa coercitiva da Korean Air, levantando debate sobre decreto de aplicação e normas inferiores.",
-        "body": "A Comissão de Comércio Justo da Coreia do Sul enfrenta controvérsia após reduzir fortemente a multa coercitiva aplicada à Korean Air por descumprimento de medidas corretivas ligadas à combinação empresarial. O caso envolve a obrigação de não reduzir a oferta de assentos na rota Incheon-Frankfurt. Pelo critério do decreto de aplicação, o valor calculado era de 98,09 bilhões de wons. Depois de uma redução de 40%, o montante ficou em 58,86 bilhões de wons, mas a cobrança final foi definida em 5,89 bilhões de wons. A redução total chegou a cerca de 94%. A crítica é que uma norma inferior, na forma de aviso, teria levado a conclusão diferente do padrão previsto no decreto superior. Fonte: yna.co.kr"
-      },
-      "de": {
-        "title": "Korean-Air-Zwangsgeld um 94% gesenkt: FTC-Beschluss löst Rechtsdebatte aus",
-        "excerpt": "Südkoreas Kartellbehörde senkte das Zwangsgeld gegen Korean Air um 94%; nun wird über das Verhältnis von Durchführungsverordnung und untergeordneter Bekanntmachung gestritten.",
-        "body": "Südkoreas Fair Trade Commission steht wegen eines stark gekürzten Zwangsgeldes gegen Korean Air in der Kritik. Die Sanktion betraf die Nichterfüllung von Auflagen aus dem Unternehmenszusammenschluss, konkret die Pflicht, das Sitzplatzangebot auf der Strecke Incheon-Frankfurt nicht zu verringern. Nach der Formel der Durchführungsverordnung ergab sich ein Betrag von 98,09 Milliarden Won. Nach einer Kürzung um 40% lag er bei 58,86 Milliarden Won, doch der endgültige Betrag wurde auf 5,89 Milliarden Won festgelegt. Insgesamt entspricht das einer Reduzierung von rund 94%. Umstritten ist, ob eine untergeordnete Bekanntmachung zu einem Ergebnis führen durfte, das vom Maßstab der höherrangigen Verordnung abweicht. Quelle: yna.co.kr"
-      },
-      "fr": {
-        "title": "Korean Air: amende coercitive réduite de 94%, la FTC coréenne sous débat",
-        "excerpt": "La Commission coréenne du commerce équitable a réduit de 94% l’amende coercitive visant Korean Air, suscitant un débat sur le décret d’application et les avis inférieurs.",
-        "body": "La Commission coréenne du commerce équitable est au centre d’un débat après avoir fortement réduit l’amende coercitive imposée à Korean Air pour non-respect de mesures correctives liées à une fusion. L’affaire porte sur l’obligation de ne pas réduire l’offre de sièges sur la ligne Incheon-Francfort. Selon le calcul prévu par le décret d’application, le montant atteignait 98,09 milliards de wons. Après une réduction de 40%, il s’établissait à 58,86 milliards de wons, mais le montant final a été fixé à 5,89 milliards de wons. La réduction totale est d’environ 94%. La controverse tient au recours à un avis de rang inférieur pour aboutir à un résultat différent du critère fixé par le décret supérieur. Source: yna.co.kr"
-      },
-      "ar": {
-        "title": "خفض غرامة كوريان إير 94% يثير جدلا حول حدود قرار هيئة التجارة الكورية",
-        "excerpt": "خفضت هيئة التجارة العادلة الكورية غرامة الامتثال على كوريان إير بنسبة 94%، ما أثار جدلا حول معيار المرسوم التنفيذي ونطاق الإشعارات الأدنى.",
-        "body": "أثار قرار هيئة التجارة العادلة في كوريا الجنوبية خفض غرامة الامتثال المفروضة على كوريان إير بدرجة كبيرة جدلا واسعا. وتتعلق القضية بعدم تنفيذ الشركة أحد شروط الموافقة على الاندماج، وهو عدم تقليص عدد المقاعد المعروضة على خط إنcheon-فرانكفورت. ووفق معيار المرسوم التنفيذي، بلغ المبلغ المحسوب 98.09 مليار وون. وبعد خفض بنسبة 40% أصبح 58.86 مليار وون، لكن المبلغ النهائي حدد عند 5.89 مليار وون. وبذلك بلغ إجمالي الخفض نحو 94%. ويدور الجدل حول ما إذا كانت الهيئة اعتمدت على إشعار أدنى مرتبة للوصول إلى نتيجة تختلف عن معيار المرسوم الأعلى. المصدر: yna.co.kr"
-      },
-      "hi": {
-        "title": "Korean Air पर जुर्माना 94% घटाने से FTC फैसले पर उठा नियमों का विवाद",
-        "excerpt": "दक्षिण कोरिया की FTC ने Korean Air की अनुपालन जुर्माना राशि 94% घटाई, जिससे प्रवर्तन डिक्री और निचले स्तर की अधिसूचना के दायरे पर विवाद उठा।",
-        "body": "दक्षिण कोरिया के निष्पक्ष व्यापार आयोग के उस फैसले पर विवाद उठ रहा है जिसमें Korean Air पर विलय संबंधी सुधारात्मक आदेश न मानने के लिए लगाई जाने वाली अनुपालन जुर्माना राशि काफी घटा दी गई। मामला Incheon-Frankfurt मार्ग पर सीट आपूर्ति कम न करने की शर्त से जुड़ा था। प्रवर्तन डिक्री के मानक से गणना की गई राशि 98.09 अरब वॉन थी। 40% कटौती के बाद यह 58.86 अरब वॉन बनी, लेकिन अंतिम जुर्माना 5.89 अरब वॉन तय किया गया। कुल कटौती करीब 94% रही। विवाद इस बात पर है कि क्या आयोग ने निचले स्तर की अधिसूचना के आधार पर उच्च डिक्री में तय मानक राशि से अलग निष्कर्ष निकाला। स्रोत: yna.co.kr"
-      },
-      "id": {
-        "title": "Denda Korean Air Dipangkas 94% oleh FTC Korea, Patokan Dekret Jadi Sorotan",
-        "excerpt": "Komisi Perdagangan Adil Korea memangkas denda kepatuhan Korean Air 94%, memicu debat soal standar dekret pelaksana dan penggunaan aturan pemberitahuan yang lebih rendah.",
-        "body": "Komisi Perdagangan Adil Korea Selatan menuai kontroversi setelah memangkas tajam denda kepatuhan terhadap Korean Air atas ketidakpatuhan pada tindakan korektif terkait penggabungan usaha. Kasus ini menyangkut kewajiban untuk tidak mengurangi pasokan kursi pada rute Incheon-Frankfurt. Berdasarkan formula dalam dekret pelaksana, jumlahnya dihitung 98,09 miliar won. Setelah pengurangan 40%, nilainya menjadi 58,86 miliar won, tetapi denda akhir ditetapkan 5,89 miliar won. Total pengurangan sekitar 94%. Perdebatan muncul karena otoritas dinilai memakai pemberitahuan berstatus lebih rendah untuk menghasilkan keputusan yang berbeda dari standar dekret yang lebih tinggi. Sumber: yna.co.kr"
-      }
-    }
-  },
-  {
-    "id": "cd18a6c71d5b",
-    "slug": "7500-찍은-코스피-더-갈까-토해낼까-329195",
-    "channelId": "ETF",
-    "category": "etf",
-    "publishedAt": "2026-05-10T19:42:09.339Z",
-    "updatedAt": "2026-05-10T19:42:09.339Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/stock/12042786",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12042786",
-    "titleFingerprint": "47fd3627143099a6d0bbb350a6130e38b11ab200",
-    "dedupKeys": [
-      "cd18a6c71d5bfb57a5ef2386abd44aa44ac7662e",
-      "47fd3627143099a6d0bbb350a6130e38b11ab200",
-      "25bdf69ef314e348caec558d2a19c99f0dfae2c2"
-    ],
-    "imageUrl": "/images/articles/cd18a6c71d5b.jpg",
-    "i18n": {
-      "ko": {
-        "title": "코스피 7500선 돌파 후 향방 주목, 지난주 13% 급등 배경은",
-        "excerpt": "코스피는 지난주 13% 넘게 오르며 5월 8일 7498로 마감했고, 5월 7일 장중 7531까지 치솟아 7500선 돌파 여부가 시장의 핵심 이슈로 떠올랐다.",
-        "body": "지난주 국내 증시는 코스피가 7500선에 올라섰다는 한마디로 요약됐다. 코스피는 주간 기준 13% 넘게 상승했고, 5월 8일에는 7498로 거래를 마쳤다. 앞서 5월 7일 장중에는 7531까지 치솟으며 7500선을 넘어섰다. 이번 흐름은 단기간 급등 이후 지수가 추가 상승을 이어갈지, 상승분을 일부 반납할지에 대한 시장의 관심을 키웠다. 핵심 수치는 13% 넘는 주간 상승률, 5월 8일 종가 7498, 5월 7일 장중 고점 7531이다. 출처: mk.co.kr."
-      },
-      "en": {
-        "title": "KOSPI Tops 7,500 as Investors Watch Whether Rally Can Extend",
-        "excerpt": "The KOSPI rose more than 13% last week, closed at 7,498 on May 8, and touched 7,531 intraday on May 7, putting the 7,500 mark at the center of market attention.",
-        "body": "South Korea’s stock market last week was summed up by one line: the KOSPI reached the 7,500 level. The index gained more than 13% for the week and closed at 7,498 on May 8. A day earlier, on May 7, it climbed as high as 7,531 intraday, moving above the 7,500 line. The move has focused market attention on whether the index can extend its rapid advance or give back part of the gains. The key figures are a weekly rise of more than 13%, the May 8 close of 7,498, and the May 7 intraday high of 7,531. Source: mk.co.kr."
-      },
-      "ja": {
-        "title": "KOSPIが7500台到達、13％超上昇後の行方に市場注目",
-        "excerpt": "KOSPIは先週13％超上昇し、5月8日に7498で終了。5月7日には取引時間中に7531まで上げ、7500台突破が市場の焦点となった。",
-        "body": "先週の韓国株式市場は、KOSPIが7500台に乗せたという一言で要約された。KOSPIは週間で13％超上昇し、5月8日は7498で取引を終えた。前日の5月7日には取引時間中に7531まで急伸し、7500台を上回った。今回の動きにより、短期間の急騰後に指数がさらに上昇を続けるのか、それとも上昇分の一部を吐き出すのかに関心が集まっている。主な数値は週間13％超上昇、5月8日終値7498、5月7日取引時間中高値7531だ。出典: mk.co.kr。"
-      },
-      "zh": {
-        "title": "KOSPI突破7500点后走势受关注，上周涨幅超过13%",
-        "excerpt": "KOSPI上周上涨超过13%，5月8日收于7498点；5月7日盘中一度升至7531点，7500点关口成为市场关注焦点。",
-        "body": "上周韩国股市可以用一句话概括：KOSPI站上了7500点。KOSPI上周涨幅超过13%，并在5月8日收于7498点。此前在5月7日盘中，指数一度冲高至7531点，突破7500点关口。这一走势使市场关注点转向指数在短期快速上涨后，是继续上行，还是回吐部分涨幅。关键数据包括上周超过13%的涨幅、5月8日收盘7498点，以及5月7日盘中高点7531点。来源：mk.co.kr。"
-      },
-      "es": {
-        "title": "KOSPI supera los 7.500 puntos y el mercado vigila si sostendrá el rally",
-        "excerpt": "El KOSPI subió más de 13% la semana pasada, cerró en 7.498 el 8 de mayo y tocó 7.531 intradía el 7 de mayo, dejando el umbral de 7.500 en el centro del mercado.",
-        "body": "La bolsa surcoreana de la semana pasada se resumió en una frase: el KOSPI llegó a la zona de 7.500 puntos. El índice avanzó más de 13% en la semana y cerró el 8 de mayo en 7.498. Un día antes, el 7 de mayo, subió durante la sesión hasta 7.531, superando la línea de 7.500. El movimiento concentró la atención del mercado en si el índice podrá prolongar el fuerte avance de corto plazo o si devolverá parte de las ganancias. Las cifras clave son el alza semanal de más de 13%, el cierre de 7.498 del 8 de mayo y el máximo intradía de 7.531 del 7 de mayo. Fuente: mk.co.kr."
-      },
-      "pt": {
-        "title": "KOSPI rompe 7.500 pontos e mercado observa fôlego após alta de 13%",
-        "excerpt": "O KOSPI subiu mais de 13% na semana passada, fechou em 7.498 em 8 de maio e tocou 7.531 no intradia de 7 de maio, colocando os 7.500 pontos no foco do mercado.",
-        "body": "O mercado acionário sul-coreano da semana passada foi resumido em uma frase: o KOSPI chegou à faixa dos 7.500 pontos. O índice avançou mais de 13% na semana e encerrou 8 de maio em 7.498. Antes disso, em 7 de maio, chegou a 7.531 durante o pregão, superando a linha dos 7.500. O movimento aumentou a atenção sobre se o índice continuará subindo após o forte avanço de curto prazo ou se devolverá parte dos ganhos. Os principais números são a alta semanal de mais de 13%, o fechamento de 7.498 em 8 de maio e a máxima intradiária de 7.531 em 7 de maio. Fonte: mk.co.kr."
-      },
-      "de": {
-        "title": "KOSPI über 7.500 Punkten: Markt blickt auf Rally nach 13%-Sprung",
-        "excerpt": "Der KOSPI stieg vergangene Woche um mehr als 13%, schloss am 8. Mai bei 7.498 und erreichte am 7. Mai intraday 7.531 Punkte; die Marke von 7.500 steht damit im Fokus.",
-        "body": "Der südkoreanische Aktienmarkt der vergangenen Woche lässt sich in einem Satz zusammenfassen: Der KOSPI erreichte die Marke von 7.500 Punkten. Der Index legte auf Wochensicht um mehr als 13% zu und schloss am 8. Mai bei 7.498. Bereits am 7. Mai stieg er im Tagesverlauf bis auf 7.531 und überschritt damit die 7.500er-Linie. Dadurch richtet sich der Blick des Marktes darauf, ob der Index den schnellen Anstieg fortsetzen kann oder einen Teil der Gewinne wieder abgibt. Die wichtigsten Zahlen sind mehr als 13% Wochenplus, der Schlussstand von 7.498 am 8. Mai und das Intraday-Hoch von 7.531 am 7. Mai. Quelle: mk.co.kr."
-      },
-      "fr": {
-        "title": "Le KOSPI franchit 7 500 points, le marché surveille la suite du rally",
-        "excerpt": "Le KOSPI a gagné plus de 13% la semaine dernière, a clôturé à 7 498 le 8 mai et a atteint 7 531 en séance le 7 mai, plaçant le seuil des 7 500 au centre de l’attention.",
-        "body": "Le marché actions sud-coréen de la semaine dernière se résume en une phrase: le KOSPI a atteint la zone des 7 500 points. L’indice a progressé de plus de 13% sur la semaine et a clôturé le 8 mai à 7 498. La veille, le 7 mai, il était monté jusqu’à 7 531 en séance, dépassant la ligne des 7 500. Ce mouvement a concentré l’attention du marché sur la capacité de l’indice à poursuivre sa forte hausse de court terme ou à rendre une partie de ses gains. Les chiffres clés sont une hausse hebdomadaire de plus de 13%, une clôture à 7 498 le 8 mai et un plus haut intrajournalier de 7 531 le 7 mai. Source: mk.co.kr."
-      },
-      "ar": {
-        "title": "مؤشر كوسبي يتجاوز 7500 نقطة والسوق يترقب مسار الصعود بعد قفزة 13%",
-        "excerpt": "ارتفع مؤشر كوسبي بأكثر من 13% الأسبوع الماضي، وأغلق عند 7498 في 8 مايو، بعدما بلغ 7531 نقطة خلال جلسة 7 مايو، لتصبح عتبة 7500 محور الاهتمام.",
-        "body": "تلخص أداء سوق الأسهم الكورية الجنوبية الأسبوع الماضي في عبارة واحدة: مؤشر كوسبي وصل إلى مستوى 7500 نقطة. فقد ارتفع المؤشر بأكثر من 13% خلال الأسبوع، وأنهى تداولات 8 مايو عند 7498 نقطة. وقبل ذلك، في 7 مايو، صعد أثناء الجلسة إلى 7531 نقطة، متجاوزا مستوى 7500. هذا التحرك زاد اهتمام السوق بما إذا كان المؤشر سيواصل ارتفاعه السريع قصير الأجل أم سيعيد جزءا من المكاسب. الأرقام الرئيسية هي ارتفاع أسبوعي يتجاوز 13%، وإغلاق 8 مايو عند 7498، وقمة 7 مايو خلال الجلسة عند 7531. المصدر: mk.co.kr."
-      },
-      "hi": {
-        "title": "KOSPI 7,500 के पार, 13% से अधिक उछाल के बाद बाजार की नजर आगे",
-        "excerpt": "KOSPI पिछले सप्ताह 13% से अधिक चढ़ा, 8 मई को 7,498 पर बंद हुआ और 7 मई को कारोबार के दौरान 7,531 तक पहुंचा, जिससे 7,500 का स्तर बाजार के केंद्र में रहा।",
-        "body": "दक्षिण कोरिया के शेयर बाजार का पिछला सप्ताह एक वाक्य में सिमट गया: KOSPI 7,500 के स्तर तक पहुंच गया। सूचकांक सप्ताह के दौरान 13% से अधिक चढ़ा और 8 मई को 7,498 पर बंद हुआ। इससे पहले 7 मई को कारोबार के दौरान यह 7,531 तक उछला और 7,500 की रेखा पार कर गया। इस तेजी ने बाजार का ध्यान इस बात पर केंद्रित किया कि सूचकांक अल्पावधि की तेज बढ़त जारी रखेगा या कुछ लाभ लौटाएगा। प्रमुख आंकड़े हैं 13% से अधिक की साप्ताहिक बढ़त, 8 मई का 7,498 बंद स्तर और 7 मई का 7,531 इंट्राडे उच्च स्तर। स्रोत: mk.co.kr."
-      },
-      "id": {
-        "title": "KOSPI Tembus 7.500, Pasar Mencermati Arah Setelah Lonjakan 13%",
-        "excerpt": "KOSPI naik lebih dari 13% pekan lalu, ditutup di 7.498 pada 8 Mei, dan sempat menyentuh 7.531 intraday pada 7 Mei, membuat level 7.500 menjadi fokus pasar.",
-        "body": "Pasar saham Korea Selatan pekan lalu dapat diringkas dalam satu kalimat: KOSPI mencapai level 7.500. Indeks naik lebih dari 13% dalam sepekan dan ditutup di 7.498 pada 8 Mei. Sehari sebelumnya, pada 7 Mei, indeks sempat melonjak hingga 7.531 dalam perdagangan intraday, melewati garis 7.500. Pergerakan ini membuat perhatian pasar tertuju pada apakah indeks dapat melanjutkan kenaikan cepat jangka pendek atau mengembalikan sebagian kenaikannya. Angka utama adalah kenaikan mingguan lebih dari 13%, penutupan 7.498 pada 8 Mei, dan level tertinggi intraday 7.531 pada 7 Mei. Sumber: mk.co.kr."
       }
     }
   }
