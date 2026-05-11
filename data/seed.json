@@ -1,5 +1,230 @@
 [
   {
+    "id": "6f628f698b03",
+    "slug": "중동-불안에도반도체-업고-sp500나스닥-최고치-행진-뉴욕증시-브리핑-351353",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-05-11T23:40:40.452Z",
+    "updatedAt": "2026-05-11T23:40:40.452Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/2026051295256",
+    "canonicalUrl": "https://www.hankyung.com/article/2026051295256",
+    "titleFingerprint": "54faf296e56f2bd0c63b714bd556b7451a55c30f",
+    "dedupKeys": [
+      "6f628f698b03362238e624f6cb9047e51f45c1ba",
+      "54faf296e56f2bd0c63b714bd556b7451a55c30f",
+      "64ac929de90af273053378711de1916aa1428260"
+    ],
+    "imageUrl": "/images/articles/6f628f698b03.jpg",
+    "i18n": {
+      "ko": {
+        "title": "반도체 강세에 S&P500·나스닥 최고치, 중동 불안도 넘은 뉴욕증시",
+        "excerpt": "뉴욕증시에서 중동 불안이 이어지는 가운데 반도체주 강세가 투자심리를 이끌며 S&P500과 나스닥이 최고치 행진을 이어갔다.",
+        "body": "뉴욕증시는 중동 지역 불안이 지속되는 상황에서도 반도체주 강세에 힘입어 상승 흐름을 이어갔다. S&P500지수와 나스닥지수는 최고치 행진을 보이며 시장의 관심을 모았다. 이번 흐름은 지정학적 불확실성이 투자심리에 부담을 주는 가운데서도 반도체 업종이 주요 지수를 떠받친 결과로 해석된다. 반도체 관련 종목의 강세는 기술주 전반에 대한 매수세로 이어졌고, 나스닥의 상승세를 뒷받침했다. 다만 중동 불안은 여전히 시장 변동성을 키울 수 있는 변수로 남아 있다. 투자자들은 반도체 업종의 흐름과 지정학적 리스크를 함께 주시할 전망이다. 출처: hankyung.com"
+      },
+      "en": {
+        "title": "Semiconductor Rally Lifts S&P 500 and Nasdaq to Fresh Highs Despite Middle East Tensions",
+        "excerpt": "In New York trading, semiconductor strength supported investor sentiment as the S&P 500 and Nasdaq continued their record run despite Middle East unrest.",
+        "body": "New York stocks continued to rise even as unrest in the Middle East remained a source of concern. Strength in semiconductor shares supported the broader market, helping the S&P 500 and Nasdaq extend their march to record highs. The move suggests that chip-related stocks helped offset pressure from geopolitical uncertainty. Gains in semiconductor names also fed into buying across technology shares, underpinning the Nasdaq’s advance. Still, Middle East tensions remain a factor that could add volatility to markets. Investors are expected to keep watching both semiconductor momentum and geopolitical risks. Source: hankyung.com"
+      },
+      "ja": {
+        "title": "半導体株高でS&P500・ナスダック最高値、中東不安を越えたNY株式市場",
+        "excerpt": "ニューヨーク市場では中東不安が続く中、半導体株の強さが投資心理を支え、S&P500とナスダックが最高値更新を続けた。",
+        "body": "ニューヨーク株式市場は、中東地域の不安が続く状況でも半導体株の上昇に支えられ、堅調な流れを維持した。S&P500指数とナスダック指数は最高値更新を続け、市場の注目を集めた。地政学的な不確実性が投資心理の重荷となる一方で、半導体セクターが主要指数を押し上げた形だ。半導体関連銘柄の強さはテクノロジー株全般への買いにもつながり、ナスダックの上昇を支えた。ただし中東不安は依然として市場の変動性を高める要因として残る。投資家は半導体株の動きと地政学リスクを併せて注視するとみられる。出所: hankyung.com"
+      },
+      "zh": {
+        "title": "半导体走强推动S&P500和纳指创新高，中东不安未阻美股涨势",
+        "excerpt": "纽约股市在中东不安延续之际，半导体股走强提振投资情绪，推动S&P500和纳斯达克继续刷新高位。",
+        "body": "纽约股市在中东地区不安持续的背景下，仍借助半导体股强势延续上涨。S&P500指数和纳斯达克指数继续刷新高位，成为市场关注焦点。这一走势显示，尽管地缘政治不确定性对投资情绪形成压力，半导体板块仍支撑了主要股指。半导体相关股票的上涨也带动科技股整体买盘，支撑纳斯达克走强。不过，中东不安仍是可能加大市场波动的变量。投资者预计将继续关注半导体板块走势与地缘政治风险。来源: hankyung.com"
+      },
+      "es": {
+        "title": "Semiconductores impulsan al S&P 500 y Nasdaq a máximos pese a la tensión en Oriente Medio",
+        "excerpt": "En Wall Street, la fortaleza de los semiconductores sostuvo el ánimo inversor y llevó al S&P 500 y al Nasdaq a seguir marcando máximos pese a la tensión en Oriente Medio.",
+        "body": "La Bolsa de Nueva York mantuvo su avance pese a la persistente inestabilidad en Oriente Medio, apoyada por la fortaleza de las acciones de semiconductores. El S&P 500 y el Nasdaq continuaron su marcha hacia nuevos máximos, atrayendo la atención del mercado. El movimiento refleja que el sector de chips ayudó a sostener los principales índices aun cuando la incertidumbre geopolítica pesaba sobre el ánimo inversor. Las ganancias en valores relacionados con semiconductores también impulsaron compras en el conjunto de tecnológicas y respaldaron al Nasdaq. Aun así, la tensión en Oriente Medio sigue siendo un factor capaz de elevar la volatilidad. Los inversores seguirán atentos al sector de semiconductores y al riesgo geopolítico. Fuente: hankyung.com"
+      },
+      "pt": {
+        "title": "Semicondutores levam S&P 500 e Nasdaq a máximas apesar da tensão no Oriente Médio",
+        "excerpt": "Em Nova York, a força das ações de semicondutores sustentou o apetite dos investidores e levou S&P 500 e Nasdaq a novas máximas apesar da instabilidade no Oriente Médio.",
+        "body": "As bolsas de Nova York seguiram em alta mesmo com a persistente instabilidade no Oriente Médio, apoiadas pelo desempenho das ações de semicondutores. O S&P 500 e o Nasdaq mantiveram a sequência de máximas, chamando a atenção do mercado. O movimento mostra que o setor de chips ajudou a sustentar os principais índices, apesar da pressão causada pela incerteza geopolítica. A valorização dos papéis ligados a semicondutores também estimulou compras em tecnologia e deu suporte ao Nasdaq. Ainda assim, a tensão no Oriente Médio continua sendo um fator que pode ampliar a volatilidade. Investidores devem acompanhar tanto o impulso dos semicondutores quanto os riscos geopolíticos. Fonte: hankyung.com"
+      },
+      "de": {
+        "title": "Halbleiter treiben S&P 500 und Nasdaq auf Rekordhochs trotz Nahost-Unsicherheit",
+        "excerpt": "An der New Yorker Börse stützten starke Halbleiterwerte die Stimmung, während S&P 500 und Nasdaq trotz anhaltender Nahost-Unsicherheit neue Höchststände erreichten.",
+        "body": "Die New Yorker Aktienmärkte setzten ihren Aufwärtstrend fort, obwohl die Unsicherheit im Nahen Osten anhielt. Rückenwind kam von starken Halbleiterwerten, die den breiten Markt stützten. Der S&P 500 und der Nasdaq bauten ihre Serie von Höchstständen aus und rückten damit in den Fokus der Anleger. Die Entwicklung zeigt, dass der Chipsektor den Druck geopolitischer Unsicherheit teilweise ausgleichen konnte. Gewinne bei Halbleiteraktien führten zudem zu Käufen im Technologiesektor und unterstützten den Nasdaq. Gleichwohl bleibt die Lage im Nahen Osten ein Faktor, der die Marktvolatilität erhöhen kann. Anleger dürften daher sowohl die Halbleiterbranche als auch geopolitische Risiken beobachten. Quelle: hankyung.com"
+      },
+      "fr": {
+        "title": "Les semi-conducteurs portent le S&P 500 et le Nasdaq à des records malgré le Moyen-Orient",
+        "excerpt": "À New York, la vigueur des semi-conducteurs a soutenu le moral des investisseurs et permis au S&P 500 et au Nasdaq de poursuivre leurs records malgré les tensions au Moyen-Orient.",
+        "body": "La Bourse de New York a poursuivi sa progression malgré la persistance des tensions au Moyen-Orient, portée par la vigueur des valeurs liées aux semi-conducteurs. Le S&P 500 et le Nasdaq ont continué d’enchaîner les records, attirant l’attention du marché. Ce mouvement montre que le secteur des puces a soutenu les grands indices alors que l’incertitude géopolitique pesait sur le sentiment des investisseurs. La hausse des titres de semi-conducteurs a aussi alimenté les achats dans la technologie et renforcé le Nasdaq. Toutefois, les tensions au Moyen-Orient restent un facteur susceptible d’accroître la volatilité. Les investisseurs devraient surveiller à la fois l’élan des semi-conducteurs et les risques géopolitiques. Source: hankyung.com"
+      },
+      "ar": {
+        "title": "أسهم الرقائق تدفع S&P 500 وناسداك إلى قمم جديدة رغم توتر الشرق الأوسط",
+        "excerpt": "في بورصة نيويورك، دعمت قوة أسهم أشباه الموصلات معنويات المستثمرين، فواصل S&P 500 وناسداك تسجيل مستويات قياسية رغم اضطرابات الشرق الأوسط.",
+        "body": "واصلت أسواق الأسهم في نيويورك مسارها الصاعد رغم استمرار الاضطرابات في الشرق الأوسط، بدعم من قوة أسهم أشباه الموصلات. وسجل مؤشرا S&P 500 وناسداك سلسلة من المستويات القياسية، ما جذب اهتمام السوق. ويعكس هذا الأداء أن قطاع الرقائق ساعد في دعم المؤشرات الرئيسية رغم الضغوط الناتجة عن عدم اليقين الجيوسياسي. كما امتدت مكاسب أسهم أشباه الموصلات إلى موجة شراء أوسع في أسهم التكنولوجيا، ما عزز صعود ناسداك. ومع ذلك، يبقى التوتر في الشرق الأوسط عاملا قد يزيد تقلبات السوق. ومن المتوقع أن يراقب المستثمرون زخم قطاع أشباه الموصلات إلى جانب المخاطر الجيوسياسية. المصدر: hankyung.com"
+      },
+      "hi": {
+        "title": "सेमीकंडक्टर तेजी से S&P 500 और Nasdaq रिकॉर्ड ऊंचाई पर, मध्य पूर्व तनाव बेअसर",
+        "excerpt": "न्यूयॉर्क शेयर बाजार में मध्य पूर्व की अस्थिरता के बावजूद सेमीकंडक्टर शेयरों की मजबूती ने निवेश धारणा को सहारा दिया और S&P 500 व Nasdaq रिकॉर्ड ऊंचाइयों पर रहे।",
+        "body": "न्यूयॉर्क शेयर बाजार ने मध्य पूर्व में जारी अस्थिरता के बावजूद सेमीकंडक्टर शेयरों की मजबूती के सहारे बढ़त जारी रखी। S&P 500 और Nasdaq सूचकांकों ने रिकॉर्ड ऊंचाइयों की श्रृंखला जारी रखी और बाजार का ध्यान खींचा। यह रुझान दिखाता है कि भू-राजनीतिक अनिश्चितता से निवेश धारणा पर दबाव होने के बावजूद चिप क्षेत्र ने प्रमुख सूचकांकों को सहारा दिया। सेमीकंडक्टर से जुड़े शेयरों की मजबूती ने तकनीकी शेयरों में व्यापक खरीद को भी बढ़ाया और Nasdaq की तेजी को समर्थन दिया। फिर भी मध्य पूर्व की अस्थिरता बाजार में उतार-चढ़ाव बढ़ाने वाला कारक बनी हुई है। निवेशक सेमीकंडक्टर क्षेत्र की चाल और भू-राजनीतिक जोखिमों पर नजर रखेंगे। स्रोत: hankyung.com"
+      },
+      "id": {
+        "title": "Saham Semikonduktor Dorong S&P 500 dan Nasdaq ke Rekor Meski Timur Tengah Memanas",
+        "excerpt": "Di bursa New York, penguatan saham semikonduktor menopang sentimen investor sehingga S&P 500 dan Nasdaq terus mencetak rekor meski ketegangan Timur Tengah berlanjut.",
+        "body": "Bursa saham New York melanjutkan penguatan meski ketidakstabilan di Timur Tengah masih berlangsung, ditopang oleh saham semikonduktor yang menguat. Indeks S&P 500 dan Nasdaq terus mencetak rekor tertinggi dan menjadi perhatian pasar. Pergerakan ini menunjukkan bahwa sektor chip membantu menopang indeks utama saat ketidakpastian geopolitik membebani sentimen investor. Penguatan saham terkait semikonduktor juga memicu aksi beli pada saham teknologi secara lebih luas dan mendukung kenaikan Nasdaq. Namun, ketegangan di Timur Tengah tetap menjadi faktor yang dapat meningkatkan volatilitas pasar. Investor diperkirakan akan mencermati momentum sektor semikonduktor dan risiko geopolitik. Sumber: hankyung.com"
+      }
+    }
+  },
+  {
+    "id": "04fcca44faea",
+    "slug": "삼성sk두산-주가-날더니-결국50대-그룹-시총-5400조-자산-첫-추월-918737",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-05-11T23:39:33.824Z",
+    "updatedAt": "2026-05-11T23:39:33.824Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/business/12044225",
+    "canonicalUrl": "https://www.mk.co.kr/news/business/12044225",
+    "titleFingerprint": "68647646b1db59b03bb2177163826fa35fa02bca",
+    "dedupKeys": [
+      "04fcca44faead5505b06470794c053c27b5bcfce",
+      "68647646b1db59b03bb2177163826fa35fa02bca",
+      "a9f9b4155397d7eacfa84a80525e936b263d3e4f"
+    ],
+    "imageUrl": "/images/articles/04fcca44faea.jpg",
+    "i18n": {
+      "ko": {
+        "title": "50대 그룹 시총 5400조원 돌파, 삼성·SK·두산 랠리가 만든 첫 역전",
+        "excerpt": "국내 50대 그룹의 시가총액이 최근 5년간 187% 늘며 5400조원대로 커졌고, 자산 증가율 51%를 앞질러 처음으로 공정자산을 추월했다.",
+        "body": "국내 50대 그룹의 시가총액이 최근 5년 새 급증하며 처음으로 공정자산 규모를 넘어섰다. 삼성, SK, 두산 등 주요 그룹 주가가 강세를 보인 영향으로 50대 그룹 시총은 5400조원대에 이른 것으로 나타났다. 같은 기간 시가총액은 187% 증가했고, 자산은 51% 늘어나는 데 그쳤다. 이에 따라 자산 대비 시총 비율은 0.87배에서 1.66배로 높아졌다. 그룹별로는 두산이 4.39배로 가장 높았고, SK와 삼성이 뒤를 이었다. 시장 평가는 자산 규모보다 성장 기대와 주가 흐름을 더 크게 반영한 셈이다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Top 50 Korean Groups Reach 5,400 Trillion Won in Market Cap as Assets Are Overtaken",
+        "excerpt": "The market value of Korea’s top 50 groups rose 187% over five years to about 5,400 trillion won, surpassing fair assets for the first time as assets grew 51%.",
+        "body": "The combined market capitalization of Korea’s 50 largest business groups has surged over the past five years and exceeded their fair asset value for the first time. Strong share-price gains at major groups including Samsung, SK and Doosan pushed the total market cap to around 5,400 trillion won. Over the same period, market capitalization increased 187%, while assets rose 51%. As a result, the market-cap-to-asset ratio climbed from 0.87 times to 1.66 times. By group, Doosan posted the highest ratio at 4.39 times, followed by SK and Samsung. The figures show that market valuation has reflected growth expectations and stock performance more strongly than asset size. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "韓国50大グループ時価総額5400兆ウォン、資産を初めて上回る",
+        "excerpt": "韓国50大グループの時価総額は5年間で187%増え約5400兆ウォンに達し、資産の伸び51%を上回って初めて公正資産を超えた。",
+        "body": "韓国の50大グループの時価総額がこの5年で急増し、初めて公正資産規模を上回った。サムスン、SK、斗山など主要グループの株価上昇が影響し、50大グループの時価総額は約5400兆ウォンに達した。同じ期間に時価総額は187%増加した一方、資産の伸びは51%にとどまった。これにより資産に対する時価総額の比率は0.87倍から1.66倍へ上昇した。グループ別では斗山が4.39倍で最も高く、SKとサムスンが続いた。市場評価が資産規模より成長期待や株価の流れを大きく反映した形だ。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "韩国50大集团市值达5400万亿韩元，首次超过资产规模",
+        "excerpt": "韩国50大集团市值五年增长187%，升至约5400万亿韩元，超过同期资产51%的增幅，并首次超越公允资产规模。",
+        "body": "韩国50大集团的总市值在过去五年大幅增长，首次超过公允资产规模。受三星、SK、斗山等主要集团股价走强影响，50大集团市值达到约5400万亿韩元。同期市值增长187%，而资产仅增长51%。因此，市值与资产之比从0.87倍升至1.66倍。按集团来看，斗山以4.39倍居首，SK和三星随后。相关数据表明，市场估值较资产规模更明显地反映了增长预期和股价走势。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Los 50 mayores grupos coreanos alcanzan 5.400 billones de wones en valor bursátil",
+        "excerpt": "La capitalización de los 50 mayores grupos de Corea subió 187% en cinco años hasta unos 5.400 billones de wones y superó por primera vez sus activos justos.",
+        "body": "La capitalización bursátil conjunta de los 50 mayores grupos empresariales de Corea aumentó con fuerza en los últimos cinco años y superó por primera vez el valor de sus activos justos. El avance de las acciones de grandes grupos como Samsung, SK y Doosan llevó el valor total a unos 5.400 billones de wones. En el mismo período, la capitalización creció 187%, mientras que los activos aumentaron 51%. Así, la relación entre valor bursátil y activos pasó de 0,87 veces a 1,66 veces. Por grupo, Doosan registró la cifra más alta, con 4,39 veces, seguida por SK y Samsung. Los datos muestran que la valoración del mercado reflejó con más fuerza las expectativas de crecimiento y la evolución bursátil que el tamaño de los activos. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "50 maiores grupos da Coreia chegam a 5.400 trilhões de won em valor de mercado",
+        "excerpt": "O valor de mercado dos 50 maiores grupos da Coreia avançou 187% em cinco anos, para cerca de 5.400 trilhões de won, e superou os ativos pela primeira vez.",
+        "body": "O valor de mercado combinado dos 50 maiores grupos empresariais da Coreia cresceu fortemente nos últimos cinco anos e superou pela primeira vez o valor dos ativos justos. A alta das ações de grandes grupos como Samsung, SK e Doosan levou a capitalização total para cerca de 5.400 trilhões de won. No mesmo período, o valor de mercado aumentou 187%, enquanto os ativos cresceram 51%. Com isso, a relação entre valor de mercado e ativos subiu de 0,87 vez para 1,66 vez. Por grupo, a Doosan registrou o maior índice, de 4,39 vezes, seguida por SK e Samsung. Os números indicam que a avaliação do mercado refletiu mais as expectativas de crescimento e o desempenho das ações do que o tamanho dos ativos. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Koreas Top-50-Konzerne erreichen 5.400 Billionen Won Börsenwert",
+        "excerpt": "Der Börsenwert der 50 größten koreanischen Konzerne stieg in fünf Jahren um 187% auf rund 5.400 Billionen Won und übertraf erstmals die fairen Vermögenswerte.",
+        "body": "Die gemeinsame Marktkapitalisierung der 50 größten koreanischen Unternehmensgruppen ist in den vergangenen fünf Jahren stark gestiegen und hat erstmals den Wert ihrer fairen Vermögenswerte übertroffen. Kursgewinne großer Gruppen wie Samsung, SK und Doosan trieben den Gesamtwert auf rund 5.400 Billionen Won. Im selben Zeitraum legte die Marktkapitalisierung um 187% zu, während die Vermögenswerte um 51% wuchsen. Dadurch stieg das Verhältnis von Börsenwert zu Vermögenswerten von 0,87 auf 1,66. Nach Gruppen lag Doosan mit 4,39 an der Spitze, gefolgt von SK und Samsung. Die Daten zeigen, dass die Marktbewertung Wachstumserwartungen und Aktienkursentwicklung stärker widerspiegelte als die Vermögensgröße. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Les 50 plus grands groupes coréens valent 5 400 billions de wons en Bourse",
+        "excerpt": "La capitalisation des 50 plus grands groupes coréens a bondi de 187% en cinq ans à environ 5 400 billions de wons, dépassant pour la première fois les actifs.",
+        "body": "La capitalisation boursière cumulée des 50 plus grands groupes d’entreprises coréens a fortement progressé en cinq ans et a dépassé pour la première fois la valeur de leurs actifs équitables. La hausse des actions de grands groupes comme Samsung, SK et Doosan a porté le total à environ 5 400 billions de wons. Sur la même période, la capitalisation a augmenté de 187%, tandis que les actifs ont progressé de 51%. Le ratio entre valeur boursière et actifs est ainsi passé de 0,87 fois à 1,66 fois. Par groupe, Doosan affiche le niveau le plus élevé, à 4,39 fois, suivi de SK et Samsung. Ces chiffres montrent que la valorisation du marché a davantage intégré les attentes de croissance et l’évolution des cours que la taille des actifs. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "القيمة السوقية لأكبر 50 مجموعة كورية تبلغ 5400 تريليون وون وتتجاوز الأصول",
+        "excerpt": "ارتفعت القيمة السوقية لأكبر 50 مجموعة في كوريا 187% خلال خمس سنوات إلى نحو 5400 تريليون وون، متجاوزة الأصول العادلة لأول مرة.",
+        "body": "ارتفعت القيمة السوقية المجمعة لأكبر 50 مجموعة أعمال في كوريا بشكل حاد خلال السنوات الخمس الماضية، وتجاوزت للمرة الأولى قيمة أصولها العادلة. وجاء ذلك بدعم من صعود أسهم مجموعات كبرى مثل سامسونغ وSK ودوسان، لتصل القيمة الإجمالية إلى نحو 5400 تريليون وون. وخلال الفترة نفسها زادت القيمة السوقية 187%، بينما ارتفعت الأصول 51% فقط. وبذلك صعدت نسبة القيمة السوقية إلى الأصول من 0.87 مرة إلى 1.66 مرة. وعلى مستوى المجموعات، سجلت دوسان أعلى نسبة عند 4.39 مرة، تلتها SK ثم سامسونغ. وتظهر الأرقام أن تقييم السوق عكس توقعات النمو وحركة الأسهم بدرجة أكبر من حجم الأصول. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "कोरिया के शीर्ष 50 समूहों का बाजार मूल्य 5,400 ट्रिलियन वॉन, संपत्ति से आगे",
+        "excerpt": "कोरिया के शीर्ष 50 समूहों का बाजार पूंजीकरण पांच वर्षों में 187% बढ़कर करीब 5,400 ट्रिलियन वॉन हुआ और पहली बार उचित संपत्ति से ऊपर निकला।",
+        "body": "कोरिया के 50 सबसे बड़े कारोबारी समूहों का संयुक्त बाजार पूंजीकरण पिछले पांच वर्षों में तेजी से बढ़ा और पहली बार उनकी उचित संपत्ति के मूल्य से आगे निकल गया। सैमसंग, SK और डूसान जैसे प्रमुख समूहों के शेयरों में मजबूती से कुल बाजार मूल्य करीब 5,400 ट्रिलियन वॉन तक पहुंचा। इसी अवधि में बाजार पूंजीकरण 187% बढ़ा, जबकि संपत्ति में 51% वृद्धि हुई। इससे संपत्ति के मुकाबले बाजार मूल्य का अनुपात 0.87 गुना से बढ़कर 1.66 गुना हो गया। समूहों में डूसान 4.39 गुना के साथ सबसे ऊपर रहा, उसके बाद SK और सैमसंग रहे। आंकड़े दिखाते हैं कि बाजार मूल्यांकन ने संपत्ति के आकार से अधिक विकास अपेक्षाओं और शेयर चाल को प्रतिबिंबित किया। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Kapitalisasi 50 Grup Terbesar Korea Tembus 5.400 Triliun Won, Lampaui Aset",
+        "excerpt": "Kapitalisasi pasar 50 grup terbesar Korea naik 187% dalam lima tahun menjadi sekitar 5.400 triliun won dan untuk pertama kali melampaui aset wajar.",
+        "body": "Kapitalisasi pasar gabungan 50 grup bisnis terbesar Korea melonjak dalam lima tahun terakhir dan untuk pertama kalinya melampaui nilai aset wajar mereka. Kenaikan harga saham grup besar seperti Samsung, SK, dan Doosan mendorong total kapitalisasi pasar ke sekitar 5.400 triliun won. Pada periode yang sama, kapitalisasi pasar naik 187%, sementara aset bertambah 51%. Akibatnya, rasio kapitalisasi pasar terhadap aset meningkat dari 0,87 kali menjadi 1,66 kali. Berdasarkan grup, Doosan mencatat rasio tertinggi sebesar 4,39 kali, diikuti SK dan Samsung. Angka ini menunjukkan bahwa valuasi pasar lebih banyak mencerminkan ekspektasi pertumbuhan dan pergerakan saham dibanding ukuran aset. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "6c110ec15059",
+    "slug": "엔비디아-올라탄-롯데에너지머티리얼즈-시총-4조-육박-403869",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-05-11T23:38:36.300Z",
+    "updatedAt": "2026-05-11T23:38:36.300Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/stock/12044230",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12044230",
+    "titleFingerprint": "2ac6b5e5458954ae9a795995d2449c5b4f3aae51",
+    "dedupKeys": [
+      "6c110ec15059018201260a3ec1459e6622f8b2b9",
+      "2ac6b5e5458954ae9a795995d2449c5b4f3aae51",
+      "7e0333f7cf17d1de465c5f083235743402114ec9"
+    ],
+    "imageUrl": "/images/articles/6c110ec15059.png",
+    "i18n": {
+      "ko": {
+        "title": "엔비디아칩 소재 생산 본격화한 롯데에너지머티리얼즈, 시총 4조원 육박",
+        "excerpt": "롯데에너지머티리얼즈가 전기차 관련주 이미지를 벗고 엔비디아칩 소재 생산에 나서며 올해 주가가 150% 넘게 올라 시가총액 4조원에 근접했다.",
+        "body": "롯데에너지머티리얼즈가 전기차 관련주라는 기존 이미지를 벗고 엔비디아칩 소재 생산을 본격화하면서 시장의 주목을 받고 있다. 전기차 캐즘, 즉 일시적 수요 부진 여파로 수년간 고전했지만, 엔비디아칩 소재라는 새 성장 축이 부각되며 올해 주가는 150% 넘게 상승했다. 이에 따라 회사 시가총액은 4조원에 육박했다. 투자자인 스틱은 투자 7년 만에 큰 성과를 기대하는 분위기다. 전기차 업황 둔화 속에서 반도체 소재 생산 전환이 기업가치 재평가로 이어질지 관심이 커지고 있다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Lotte Energy Materials Nears 4 Trillion Won Market Cap on Nvidia Chip Materials",
+        "excerpt": "Lotte Energy Materials is moving beyond its EV stock image as Nvidia chip materials production lifts its shares by more than 150% this year, pushing market value near 4 trillion won.",
+        "body": "Lotte Energy Materials is drawing market attention as it moves beyond its image as an electric-vehicle-related stock and begins full-scale production of materials for Nvidia chips. The company had struggled for years amid the EV chasm, a temporary slowdown in demand, but a new growth driver tied to Nvidia chip materials has come into focus. Its share price has risen by more than 150% this year, bringing its market capitalization close to 4 trillion won. Investor STIC is now expecting a major payoff after seven years of investment. The market is watching whether the shift toward semiconductor materials can lead to a reassessment of the company’s value. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "エヌビディア向けチップ素材でロッテエナジーマテリアルズ時価総額4兆ウォン迫る",
+        "excerpt": "ロッテエナジーマテリアルズはEV関連株のイメージを脱し、エヌビディア向けチップ素材生産を本格化。今年の株価は150%超上昇した。",
+        "body": "ロッテエナジーマテリアルズが、電気自動車関連株という従来のイメージを脱し、エヌビディア向けチップ素材の生産を本格化したことで市場の注目を集めている。同社はEVチズム、つまり一時的な需要低迷の影響で数年間苦戦してきたが、エヌビディア向けチップ素材という新たな成長軸が浮上した。今年だけで株価は150%を超えて上昇し、時価総額は4兆ウォンに迫った。投資家のSTICは投資から7年で大きな成果を期待している。EV市況の鈍化の中、半導体素材生産への転換が企業価値の再評価につながるかが注目される。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "英伟达芯片材料带动乐天能源材料市值逼近4万亿韩元",
+        "excerpt": "乐天能源材料摆脱电动车相关股形象，开始全面生产英伟达芯片材料，今年股价上涨超过150%，市值逼近4万亿韩元。",
+        "body": "乐天能源材料正因摆脱电动车相关股的既有形象、全面推进英伟达芯片材料生产而受到市场关注。受电动车“需求低迷期”影响，公司过去数年表现承压，但与英伟达芯片材料相关的新增长轴开始凸显。今年以来，其股价已上涨超过150%，公司市值也逼近4万亿韩元。投资方STIC在投资7年后，正期待取得显著回报。在电动车行业放缓的背景下，市场关注其向半导体材料生产的转向是否会推动企业价值重估。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Lotte Energy Materials roza 4 billones de wones por materiales para chips de Nvidia",
+        "excerpt": "Lotte Energy Materials deja atrás su imagen de valor ligado a vehículos eléctricos y, con materiales para chips de Nvidia, sube más de 150% este año y roza 4 billones de wones.",
+        "body": "Lotte Energy Materials atrae la atención del mercado al dejar atrás su imagen de acción vinculada a los vehículos eléctricos e iniciar la producción a gran escala de materiales para chips de Nvidia. La empresa había sufrido durante años por el chasm del vehículo eléctrico, una debilidad temporal de la demanda, pero ahora destaca un nuevo eje de crecimiento relacionado con esos materiales. Su acción ha subido más de 150% este año y su capitalización bursátil se acerca a 4 billones de wones. El inversor STIC espera un gran resultado tras siete años de inversión. El mercado observa si el giro hacia materiales para semiconductores llevará a una revaloración de la compañía. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Lotte Energy Materials se aproxima de 4 tri won com materiais para chips da Nvidia",
+        "excerpt": "A Lotte Energy Materials deixa a imagem de ação ligada a veículos elétricos e, com materiais para chips da Nvidia, sobe mais de 150% no ano e se aproxima de 4 tri de won.",
+        "body": "A Lotte Energy Materials chama atenção do mercado ao deixar para trás a imagem de ação relacionada a veículos elétricos e iniciar a produção em escala de materiais para chips da Nvidia. A empresa vinha enfrentando dificuldades por anos devido ao chasm dos veículos elétricos, uma fraqueza temporária da demanda, mas um novo eixo de crescimento ligado aos materiais para chips da Nvidia ganhou destaque. Suas ações subiram mais de 150% neste ano, levando o valor de mercado para perto de 4 trilhões de won. A investidora STIC espera um grande retorno após sete anos de investimento. O mercado acompanha se a mudança para materiais de semicondutores resultará em reavaliação do valor da empresa. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Lotte Energy Materials nähert sich dank Nvidia-Chipmaterialien 4 Billionen Won Börsenwert",
+        "excerpt": "Lotte Energy Materials löst sich vom Image als E-Auto-Aktie und produziert Materialien für Nvidia-Chips. Die Aktie stieg dieses Jahr über 150%, der Börsenwert nähert sich 4 Billionen Won.",
+        "body": "Lotte Energy Materials rückt in den Fokus des Marktes, weil das Unternehmen sein bisheriges Image als Aktie mit Bezug zu Elektrofahrzeugen hinter sich lässt und die Produktion von Materialien für Nvidia-Chips aufnimmt. Wegen des EV-Chasm, einer vorübergehenden Nachfrageschwäche, hatte das Unternehmen mehrere Jahre zu kämpfen. Nun wird ein neuer Wachstumstreiber rund um Nvidia-Chipmaterialien sichtbar. Die Aktie ist in diesem Jahr um mehr als 150% gestiegen, wodurch sich die Marktkapitalisierung 4 Billionen Won nähert. Investor STIC erwartet nach sieben Jahren Investment einen großen Erfolg. Beobachtet wird, ob die Verlagerung zu Halbleitermaterialien zu einer Neubewertung des Unternehmens führt. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Lotte Energy Materials frôle 4 000 milliards de wons grâce aux matériaux pour puces Nvidia",
+        "excerpt": "Lotte Energy Materials s’éloigne de son image liée aux véhicules électriques et lance les matériaux pour puces Nvidia, avec une action en hausse de plus de 150% cette année.",
+        "body": "Lotte Energy Materials attire l’attention du marché en s’éloignant de son image de valeur liée aux véhicules électriques et en lançant pleinement la production de matériaux pour puces Nvidia. L’entreprise avait connu plusieurs années difficiles sous l’effet du chasm des véhicules électriques, une faiblesse temporaire de la demande, mais un nouvel axe de croissance lié aux matériaux pour puces Nvidia est désormais mis en avant. Son action a progressé de plus de 150% cette année, portant sa capitalisation boursière près de 4 000 milliards de wons. L’investisseur STIC espère un résultat important après sept ans d’investissement. Le marché observe si ce virage vers les matériaux pour semi-conducteurs entraînera une réévaluation de l’entreprise. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "مواد رقائق إنفيديا تدفع لوتيه إنرجي ماتيريالز للاقتراب من 4 تريليونات وون",
+        "excerpt": "لوتيه إنرجي ماتيريالز تتجاوز صورتها كسهم مرتبط بالسيارات الكهربائية مع إنتاج مواد رقائق إنفيديا، لترتفع أسهمها بأكثر من 150% هذا العام.",
+        "body": "تجذب لوتيه إنرجي ماتيريالز اهتمام السوق بعدما بدأت تتجاوز صورتها السابقة كشركة مرتبطة بأسهم السيارات الكهربائية، وتدخل مرحلة الإنتاج الفعلي لمواد رقائق إنفيديا. وكانت الشركة قد واجهت صعوبات لسنوات بسبب فجوة السيارات الكهربائية، أي تباطؤ الطلب المؤقت، لكن محور نمو جديدا مرتبطا بمواد رقائق إنفيديا بات يبرز الآن. ارتفع سهم الشركة بأكثر من 150% هذا العام، ما دفع قيمتها السوقية إلى الاقتراب من 4 تريليونات وون. ويتوقع المستثمر STIC تحقيق نتيجة كبيرة بعد سبع سنوات من الاستثمار. ويراقب السوق ما إذا كان التحول نحو مواد أشباه الموصلات سيقود إلى إعادة تقييم قيمة الشركة. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "एनवीडिया चिप सामग्री से Lotte Energy Materials का बाजार मूल्य 4 ट्रिलियन वॉन के करीब",
+        "excerpt": "Lotte Energy Materials ईवी-संबंधित शेयर की छवि से आगे बढ़कर एनवीडिया चिप सामग्री उत्पादन कर रही है; इस साल शेयर 150% से अधिक चढ़कर बाजार मूल्य 4 ट्रिलियन वॉन के पास पहुंचा।",
+        "body": "Lotte Energy Materials बाजार का ध्यान खींच रही है क्योंकि वह इलेक्ट्रिक वाहन से जुड़े शेयर की पुरानी छवि से आगे बढ़कर एनवीडिया चिप सामग्री का उत्पादन तेज कर रही है। इलेक्ट्रिक वाहन चास्म, यानी अस्थायी मांग कमजोरी, के कारण कंपनी कई वर्षों तक संघर्ष करती रही, लेकिन अब एनवीडिया चिप सामग्री से जुड़ा नया विकास आधार उभर रहा है। इस साल कंपनी का शेयर 150% से अधिक चढ़ा है और उसका बाजार पूंजीकरण 4 ट्रिलियन वॉन के करीब पहुंच गया है। निवेशक STIC सात साल के निवेश के बाद बड़े परिणाम की उम्मीद कर रहा है। बाजार देख रहा है कि सेमीकंडक्टर सामग्री उत्पादन की ओर यह बदलाव कंपनी के मूल्यांकन को फिर से ऊपर ला सकता है या नहीं। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Material Chip Nvidia Dorong Lotte Energy Materials Dekati Kapitalisasi 4 Triliun Won",
+        "excerpt": "Lotte Energy Materials keluar dari citra saham terkait kendaraan listrik dan mulai memproduksi material chip Nvidia, membuat sahamnya naik lebih dari 150% tahun ini.",
+        "body": "Lotte Energy Materials menarik perhatian pasar setelah keluar dari citra lama sebagai saham terkait kendaraan listrik dan mulai serius memproduksi material untuk chip Nvidia. Perusahaan ini sempat kesulitan selama beberapa tahun akibat chasm kendaraan listrik, yaitu pelemahan permintaan sementara, namun kini poros pertumbuhan baru dari material chip Nvidia mulai menonjol. Harga sahamnya telah naik lebih dari 150% sepanjang tahun ini, sehingga kapitalisasi pasar mendekati 4 triliun won. Investor STIC berharap hasil besar setelah tujuh tahun berinvestasi. Pasar mencermati apakah peralihan ke produksi material semikonduktor dapat mendorong penilaian ulang atas nilai perusahaan. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
     "id": "68c034f850e6",
     "slug": "정유사-웃고-항공사-울고실적-전망-희비-103909",
     "channelId": "ETF",
@@ -4271,231 +4496,6 @@
         "title": "Perputaran ETF Cetak Rekor, FSS Peringatkan Panasnya Trading Kilat Investor Ritel",
         "excerpt": "Wakil Gubernur FSS Hwang Sun-oh pada tanggal 11 memperingatkan bahwa trading ETF sangat jangka pendek oleh investor ritel mendorong perputaran ke rekor tertinggi dan memicu risiko pasar terlalu panas.",
         "body": "Financial Supervisory Service Korea Selatan mengatakan dalam konferensi isu pasar modal pada tanggal 11 bahwa perputaran ETF mencapai level tertinggi sepanjang sejarah seiring meluasnya trading sangat jangka pendek oleh investor ritel. Wakil Gubernur Hwang Sun-oh menyatakan regulator akan berupaya membangun budaya investasi jangka panjang, bukan transaksi yang mengejar keuntungan harga sesaat. Meski pasar sedang menguat, disebutkan bahwa pada April sekitar 30% saham KOSPI turun dibanding awal tahun, sehingga muncul kekhawatiran bahwa kenaikan tidak menyebar merata dan terjadi polarisasi antarsaham. Bulan ini juga dijadwalkan peluncuran ETF saham tunggal yang memuat Samsung Electronics dan SK Hynix, sehingga potensi peningkatan volatilitas ikut disorot. FSS menilai pertumbuhan pasar ETF perlu diiringi kewaspadaan terhadap trading yang terlalu panas dan konsentrasi pada saham tertentu. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "ac997dcbc9e4",
-    "slug": "노머스-옹성우-프롬-입점글로벌-팬덤-플랫폼-경쟁력-강화-174168",
-    "channelId": "ETF",
-    "category": "etf",
-    "publishedAt": "2026-05-11T06:17:18.459Z",
-    "updatedAt": "2026-05-11T06:17:18.459Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/stock/12043187",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12043187",
-    "titleFingerprint": "b8f04d501df47431b0137f519c7aa2f0dc65958d",
-    "dedupKeys": [
-      "ac997dcbc9e4a199e59e191e3944b235d113069d",
-      "b8f04d501df47431b0137f519c7aa2f0dc65958d",
-      "e1432d20b5a674a5aa4bbc2d50ee92f1c1d0ff79"
-    ],
-    "imageUrl": "/images/articles/ac997dcbc9e4.jpg",
-    "i18n": {
-      "ko": {
-        "title": "노머스, 옹성우 프롬 입점으로 글로벌 팬덤 플랫폼 경쟁력 강화",
-        "excerpt": "아티스트 IP 솔루션 기업 노머스는 11일 배우 옹성우가 글로벌 팬 플랫폼 프롬(fromm)에 입점한다고 밝히며 팬덤 플랫폼 경쟁력 강화에 나섰다.",
-        "body": "아티스트 지식재산권(IP) 솔루션 전문기업 노머스는 11일 배우 옹성우가 글로벌 팬 플랫폼 ‘프롬(fromm)’에 입점한다고 밝혔다. 이번 입점은 프롬을 통한 아티스트와 팬 간 접점 확대의 일환이다. 프롬메시지는 지난 8일부터 얼리버드 모집을 시작한 것으로 전해졌다. 노머스는 아티스트 IP 기반 솔루션을 바탕으로 팬 플랫폼 서비스를 운영하고 있으며, 옹성우의 합류로 프롬의 글로벌 팬덤 플랫폼 경쟁력 강화에 무게가 실린다. 관련 내용은 mk.co.kr 보도를 인용했다."
-      },
-      "en": {
-        "title": "Nomus Adds Ong Seong-wu to fromm, Strengthening Global Fandom Platform",
-        "excerpt": "Artist IP solutions company Nomus said on the 11th that actor Ong Seong-wu will join global fan platform fromm, reinforcing its fandom platform competitiveness.",
-        "body": "Nomus, a company specializing in artist intellectual property (IP) solutions, said on the 11th that actor Ong Seong-wu will join the global fan platform fromm. The addition is part of efforts to expand contact points between artists and fans through fromm. fromm Message reportedly began early-bird recruitment on the 8th. Nomus operates fan platform services based on artist IP solutions, and Ong Seong-wu’s participation is expected to support the competitiveness of fromm as a global fandom platform. This article cites reporting from mk.co.kr."
-      },
-      "ja": {
-        "title": "ノモス、オン・ソンウのfromm入店でグローバルファンダム競争力を強化",
-        "excerpt": "アーティストIPソリューション企業ノモスは11日、俳優オン・ソンウがグローバルファンプラットフォームfrommに入店すると発表した。",
-        "body": "アーティスト知的財産権（IP）ソリューション専門企業ノモスは11日、俳優オン・ソンウがグローバルファンプラットフォーム「fromm」に入店すると明らかにした。今回の入店は、frommを通じてアーティストとファンの接点を広げる取り組みの一環だ。fromm Messageは8日から早期募集を開始したと伝えられている。ノモスはアーティストIPを基盤にファンプラットフォームサービスを運営しており、オン・ソンウの参加によりfrommのグローバルファンダムプラットフォームとしての競争力強化が注目される。内容はmk.co.krの報道を引用した。"
-      },
-      "zh": {
-        "title": "Nomus引入邕圣祐入驻fromm，强化全球粉丝平台竞争力",
-        "excerpt": "艺人IP解决方案企业Nomus于11日表示，演员邕圣祐将入驻全球粉丝平台fromm，以提升粉丝平台竞争力。",
-        "body": "艺人知识产权（IP）解决方案专业企业Nomus于11日表示，演员邕圣祐将入驻全球粉丝平台“fromm”。此次入驻是通过fromm扩大艺人与粉丝接触点的一环。据悉，fromm Message已从8日起启动早鸟招募。Nomus以艺人IP解决方案为基础运营粉丝平台服务，邕圣祐的加入将有助于强化fromm作为全球粉丝平台的竞争力。本文引用mk.co.kr报道。"
-      },
-      "es": {
-        "title": "Nomus suma a Ong Seong-wu a fromm y refuerza su plataforma global de fandom",
-        "excerpt": "Nomus, firma de soluciones de IP para artistas, dijo el día 11 que el actor Ong Seong-wu se incorporará a fromm, su plataforma global para fans.",
-        "body": "Nomus, empresa especializada en soluciones de propiedad intelectual (IP) para artistas, informó el día 11 que el actor Ong Seong-wu se incorporará a la plataforma global de fans fromm. La entrada forma parte de los esfuerzos por ampliar los puntos de contacto entre artistas y fans a través de fromm. Según se informó, fromm Message inició el reclutamiento early bird el día 8. Nomus opera servicios de plataforma para fans basados en soluciones de IP de artistas, y la incorporación de Ong Seong-wu refuerza el enfoque en la competitividad global de fromm. Este texto cita información de mk.co.kr."
-      },
-      "pt": {
-        "title": "Nomus adiciona Ong Seong-wu ao fromm e reforça plataforma global de fandom",
-        "excerpt": "A Nomus, empresa de soluções de IP para artistas, informou no dia 11 que o ator Ong Seong-wu entrará na plataforma global de fãs fromm.",
-        "body": "A Nomus, empresa especializada em soluções de propriedade intelectual (IP) para artistas, informou no dia 11 que o ator Ong Seong-wu entrará na plataforma global de fãs fromm. A entrada faz parte da ampliação dos pontos de contato entre artistas e fãs por meio do fromm. Segundo a notícia, o fromm Message iniciou o recrutamento early bird no dia 8. A Nomus opera serviços de plataforma para fãs com base em soluções de IP de artistas, e a chegada de Ong Seong-wu fortalece a competitividade do fromm como plataforma global de fandom. O conteúdo cita reportagem do mk.co.kr."
-      },
-      "de": {
-        "title": "Nomus nimmt Ong Seong-wu bei fromm auf und stärkt globale Fandom-Plattform",
-        "excerpt": "Nomus, Anbieter von IP-Lösungen für Künstler, teilte am 11. mit, dass Schauspieler Ong Seong-wu der globalen Fanplattform fromm beitritt.",
-        "body": "Nomus, ein auf geistiges Eigentum (IP) von Künstlern spezialisiertes Lösungsunternehmen, teilte am 11. mit, dass Schauspieler Ong Seong-wu der globalen Fanplattform fromm beitritt. Der Schritt ist Teil der Bemühungen, über fromm mehr Berührungspunkte zwischen Künstlern und Fans zu schaffen. fromm Message soll bereits am 8. mit der Early-Bird-Rekrutierung begonnen haben. Nomus betreibt Fanplattform-Dienste auf Basis von Künstler-IP-Lösungen, und Ong Seong-wus Teilnahme unterstreicht die Stärkung der Wettbewerbsfähigkeit von fromm als globale Fandom-Plattform. Grundlage ist ein Bericht von mk.co.kr."
-      },
-      "fr": {
-        "title": "Nomus accueille Ong Seong-wu sur fromm et renforce sa plateforme mondiale de fans",
-        "excerpt": "Nomus, spécialiste des solutions IP pour artistes, a annoncé le 11 que l’acteur Ong Seong-wu rejoindrait fromm, plateforme mondiale de fans.",
-        "body": "Nomus, entreprise spécialisée dans les solutions de propriété intellectuelle (IP) pour artistes, a annoncé le 11 que l’acteur Ong Seong-wu rejoindrait la plateforme mondiale de fans fromm. Cette arrivée s’inscrit dans l’élargissement des points de contact entre artistes et fans via fromm. Selon les informations disponibles, fromm Message a lancé le recrutement early bird le 8. Nomus exploite des services de plateforme de fans fondés sur des solutions IP d’artistes, et l’arrivée d’Ong Seong-wu contribue à renforcer la compétitivité de fromm comme plateforme mondiale de fandom. Cet article cite mk.co.kr."
-      },
-      "ar": {
-        "title": "نوموس تضيف أونغ سونغ وو إلى fromm لتعزيز منصة المعجبين العالمية",
-        "excerpt": "أعلنت نوموس، المتخصصة في حلول الملكية الفكرية للفنانين، في اليوم 11 أن الممثل أونغ سونغ وو سينضم إلى منصة المعجبين العالمية fromm.",
-        "body": "أعلنت شركة نوموس، المتخصصة في حلول الملكية الفكرية للفنانين، في اليوم 11 أن الممثل أونغ سونغ وو سينضم إلى منصة المعجبين العالمية fromm. وتأتي هذه الخطوة ضمن توسيع نقاط التواصل بين الفنانين والمعجبين عبر fromm. وذكرت التقارير أن fromm Message بدأت استقبال طلبات الحجز المبكر منذ اليوم 8. وتدير نوموس خدمات منصات للمعجبين قائمة على حلول الملكية الفكرية للفنانين، ويعزز انضمام أونغ سونغ وو تركيز fromm على تقوية تنافسيتها كمنصة عالمية للفاندوم. يستند النص إلى تقرير mk.co.kr."
-      },
-      "hi": {
-        "title": "Nomus ने Ong Seong-wu को fromm में जोड़ा, वैश्विक फैनडम प्लेटफॉर्म मजबूत",
-        "excerpt": "आर्टिस्ट IP समाधान कंपनी Nomus ने 11 तारीख को बताया कि अभिनेता Ong Seong-wu वैश्विक फैन प्लेटफॉर्म fromm से जुड़ेंगे।",
-        "body": "आर्टिस्ट बौद्धिक संपदा (IP) समाधान में विशेषज्ञ कंपनी Nomus ने 11 तारीख को कहा कि अभिनेता Ong Seong-wu वैश्विक फैन प्लेटफॉर्म fromm से जुड़ेंगे। यह कदम fromm के जरिए कलाकारों और प्रशंसकों के संपर्क बिंदु बढ़ाने की पहल का हिस्सा है। बताया गया कि fromm Message ने 8 तारीख से early bird भर्ती शुरू की थी। Nomus आर्टिस्ट IP आधारित समाधानों पर फैन प्लेटफॉर्म सेवाएं चलाती है, और Ong Seong-wu की भागीदारी fromm की वैश्विक फैनडम प्लेटफॉर्म प्रतिस्पर्धा को मजबूत करने पर केंद्रित है। यह सामग्री mk.co.kr की रिपोर्ट पर आधारित है।"
-      },
-      "id": {
-        "title": "Nomus Tambahkan Ong Seong-wu ke fromm, Perkuat Platform Fandom Global",
-        "excerpt": "Nomus, perusahaan solusi IP artis, menyatakan pada tanggal 11 bahwa aktor Ong Seong-wu akan bergabung dengan platform penggemar global fromm.",
-        "body": "Nomus, perusahaan spesialis solusi kekayaan intelektual (IP) artis, menyatakan pada tanggal 11 bahwa aktor Ong Seong-wu akan bergabung dengan platform penggemar global fromm. Masuknya Ong menjadi bagian dari upaya memperluas titik kontak antara artis dan penggemar melalui fromm. fromm Message dilaporkan telah memulai rekrutmen early bird sejak tanggal 8. Nomus mengoperasikan layanan platform penggemar berbasis solusi IP artis, dan bergabungnya Ong Seong-wu memperkuat fokus fromm pada daya saing sebagai platform fandom global. Artikel ini mengutip laporan mk.co.kr."
-      }
-    }
-  },
-  {
-    "id": "879baba54732",
-    "slug": "뉴온-살림백서-제로-호주-w코스메틱-전-매장-입점글로벌-시장-공략-본격화-331580",
-    "channelId": "ETF",
-    "category": "etf",
-    "publishedAt": "2026-05-11T06:16:28.304Z",
-    "updatedAt": "2026-05-11T06:16:28.304Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/stock/12043197",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12043197",
-    "titleFingerprint": "708cbd8b6b8c6fc1016be3a90100e3f5a2fd5264",
-    "dedupKeys": [
-      "879baba5473219f204bd1d99c9e7b371cff7bd9b",
-      "708cbd8b6b8c6fc1016be3a90100e3f5a2fd5264",
-      "583c6754c77073dc7b3c0711223d5798c3d87bf0"
-    ],
-    "imageUrl": "/images/articles/879baba54732.png",
-    "i18n": {
-      "ko": {
-        "title": "살림백서 제로, 호주 W코스메틱 전 매장 입점…뉴온 해외 공략 속도",
-        "excerpt": "뉴온은 스킨케어 브랜드 살림백서 제로가 국내 론칭 6개월 만에 호주 대표 뷰티 유통 채널 W코스메틱 전 매장에 입점했다고 밝혔다.",
-        "body": "글로벌 라이프케어 브랜드 뉴온은 스킨케어 브랜드 ‘살림백서 제로’가 호주 대표 뷰티 유통 채널 ‘W코스메틱’ 전 매장에 입점했다고 밝혔다. 이번 입점은 국내 론칭 6개월 만의 해외 진출 사례로, 뉴온은 K-뷰티 핵심 리테일 채널을 통해 브랜드 확장에 나선다. W코스메틱은 호주 내 뷰티 유통 채널로 소개됐으며, 살림백서 제로는 이를 기반으로 현지 소비자 접점을 넓히게 됐다. 뉴온은 이번 입점을 계기로 글로벌 시장 공략을 본격화한다는 방침이다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Salim Baekseo Zero Enters All W Cosmetics Stores in Australia",
-        "excerpt": "Newon said its skincare brand Salim Baekseo Zero has entered every W Cosmetics store in Australia, marking overseas expansion six months after its Korean launch.",
-        "body": "Global lifecare brand Newon said its skincare brand “Salim Baekseo Zero” has entered all stores of W Cosmetics, a major beauty retail channel in Australia. The move marks the brand’s overseas expansion just six months after its domestic launch. Newon plans to expand the brand through a key K-beauty retail channel. W Cosmetics was described as a representative beauty distribution channel in Australia, giving Salim Baekseo Zero broader access to local consumers. Newon said the listing will help it begin a fuller push into global markets. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "サリムベクソ・ゼロ、豪Wコスメティック全店に入店",
-        "excerpt": "ニューオンはスキンケアブランド「サリムベクソ・ゼロ」が韓国発売から6カ月で豪州Wコスメティック全店に入店したと発表した。",
-        "body": "グローバルライフケアブランドのニューオンは、スキンケアブランド「サリムベクソ・ゼロ」が豪州の代表的なビューティー流通チャネル「Wコスメティック」全店に入店したと明らかにした。今回の入店は、韓国での発売から6カ月で実現した海外進出事例となる。ニューオンはKビューティーの主要リテールチャネルを通じてブランド拡大を進める。Wコスメティックは豪州のビューティー流通チャネルとして紹介されており、同ブランドは現地消費者との接点を広げることになる。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "Salim Baekseo Zero进驻澳洲W Cosmetics全门店",
-        "excerpt": "Newon表示，护肤品牌Salim Baekseo Zero在韩国上市6个月后，已进驻澳大利亚代表性美妆渠道W Cosmetics全门店。",
-        "body": "全球生活护理品牌Newon表示，其护肤品牌“Salim Baekseo Zero”已进驻澳大利亚代表性美妆流通渠道“W Cosmetics”全门店。此次入驻是该品牌在韩国上市6个月后的海外拓展案例。Newon将通过K-Beauty核心零售渠道推进品牌扩张。W Cosmetics被介绍为澳大利亚主要美妆流通渠道，Salim Baekseo Zero将借此扩大与当地消费者的接触面。Newon表示，将以此次入驻为契机，正式推进全球市场布局。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Salim Baekseo Zero llega a todas las tiendas W Cosmetics en Australia",
-        "excerpt": "Newon informó que su marca de cuidado de la piel Salim Baekseo Zero entró en todas las tiendas W Cosmetics de Australia seis meses después de lanzarse en Corea.",
-        "body": "La marca global de lifecare Newon informó que su línea de cuidado de la piel “Salim Baekseo Zero” ingresó en todas las tiendas de W Cosmetics, un canal representativo de distribución de belleza en Australia. La entrada marca la expansión internacional de la marca seis meses después de su lanzamiento en Corea. Newon busca ampliar la presencia de la marca mediante un canal minorista clave de K-beauty. W Cosmetics fue presentado como un canal de belleza relevante en Australia, lo que permitirá a Salim Baekseo Zero ampliar sus puntos de contacto con consumidores locales. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Salim Baekseo Zero entra em todas as lojas W Cosmetics na Austrália",
-        "excerpt": "A Newon informou que sua marca de skincare Salim Baekseo Zero chegou a todas as lojas W Cosmetics na Austrália seis meses após o lançamento na Coreia.",
-        "body": "A marca global de lifecare Newon informou que sua marca de skincare “Salim Baekseo Zero” entrou em todas as lojas da W Cosmetics, canal representativo de distribuição de beleza na Austrália. A entrada marca a expansão internacional da marca apenas seis meses após o lançamento doméstico. A Newon pretende ampliar a marca por meio de um canal varejista central de K-beauty. A W Cosmetics foi apresentada como um canal de beleza relevante no mercado australiano, permitindo que Salim Baekseo Zero amplie o contato com consumidores locais. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Salim Baekseo Zero kommt in alle W-Cosmetics-Filialen in Australien",
-        "excerpt": "Newon teilte mit, dass die Hautpflegemarke Salim Baekseo Zero sechs Monate nach dem Korea-Start in alle W-Cosmetics-Filialen in Australien aufgenommen wurde.",
-        "body": "Die globale Lifecare-Marke Newon teilte mit, dass ihre Hautpflegemarke „Salim Baekseo Zero“ in alle Filialen von W Cosmetics, einem führenden Beauty-Vertriebskanal in Australien, aufgenommen wurde. Der Schritt markiert den Auslandseintritt der Marke sechs Monate nach dem Inlandsstart. Newon will die Marke über einen wichtigen K-Beauty-Einzelhandelskanal ausbauen. W Cosmetics wurde als repräsentativer Beauty-Vertriebskanal in Australien beschrieben, wodurch Salim Baekseo Zero mehr Berührungspunkte mit lokalen Verbrauchern erhält. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Salim Baekseo Zero arrive dans tous les magasins W Cosmetics en Australie",
-        "excerpt": "Newon a annoncé que sa marque de soins Salim Baekseo Zero est entrée dans tous les magasins W Cosmetics en Australie, six mois après son lancement en Corée.",
-        "body": "La marque mondiale de lifecare Newon a annoncé que sa marque de soins de la peau « Salim Baekseo Zero » est désormais présente dans tous les magasins W Cosmetics, un canal représentatif de distribution beauté en Australie. Cette arrivée marque une expansion à l’étranger six mois après le lancement domestique. Newon entend développer la marque via un canal de détail clé de la K-beauty. W Cosmetics est présenté comme un canal beauté important en Australie, permettant à Salim Baekseo Zero d’élargir ses points de contact avec les consommateurs locaux. Source : mk.co.kr"
-      },
-      "ar": {
-        "title": "ساليم بيكسو زيرو تدخل جميع متاجر W Cosmetics في أستراليا",
-        "excerpt": "أعلنت نيوون أن علامة العناية بالبشرة ساليم بيكسو زيرو دخلت جميع متاجر W Cosmetics في أستراليا بعد ستة أشهر من إطلاقها في كوريا.",
-        "body": "أعلنت علامة لايف كير العالمية نيوون أن علامة العناية بالبشرة “ساليم بيكسو زيرو” دخلت جميع متاجر W Cosmetics، وهي قناة تجزئة بارزة لمنتجات الجمال في أستراليا. وتمثل هذه الخطوة توسعا خارجيا بعد ستة أشهر فقط من إطلاق العلامة في السوق الكورية. وتسعى نيوون إلى توسيع العلامة عبر قناة رئيسية لتجزئة منتجات K-beauty. ووصفت W Cosmetics بأنها قناة توزيع ممثلة لقطاع الجمال في أستراليا، ما يتيح للعلامة زيادة نقاط التواصل مع المستهلكين المحليين. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "Salim Baekseo Zero ऑस्ट्रेलिया के सभी W Cosmetics स्टोर में पहुंचा",
-        "excerpt": "Newon ने बताया कि उसका स्किनकेयर ब्रांड Salim Baekseo Zero कोरिया में लॉन्च के छह महीने बाद ऑस्ट्रेलिया के सभी W Cosmetics स्टोर में उपलब्ध हुआ।",
-        "body": "वैश्विक लाइफकेयर ब्रांड Newon ने कहा कि उसका स्किनकेयर ब्रांड “Salim Baekseo Zero” ऑस्ट्रेलिया के प्रमुख ब्यूटी रिटेल चैनल W Cosmetics के सभी स्टोर में प्रवेश कर गया है। यह घरेलू लॉन्च के सिर्फ छह महीने बाद ब्रांड का विदेशी बाजार में विस्तार है। Newon K-beauty के प्रमुख रिटेल चैनल के जरिए ब्रांड विस्तार पर काम कर रहा है। W Cosmetics को ऑस्ट्रेलिया का प्रतिनिधि ब्यूटी वितरण चैनल बताया गया है, जिससे Salim Baekseo Zero स्थानीय उपभोक्ताओं तक अपनी पहुंच बढ़ाएगा। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Salim Baekseo Zero Masuk Semua Gerai W Cosmetics di Australia",
-        "excerpt": "Newon menyatakan merek skincare Salim Baekseo Zero telah masuk seluruh gerai W Cosmetics di Australia, enam bulan setelah peluncuran domestik di Korea.",
-        "body": "Merek global lifecare Newon menyatakan bahwa merek skincare “Salim Baekseo Zero” telah masuk ke seluruh gerai W Cosmetics, kanal distribusi kecantikan representatif di Australia. Langkah ini menjadi ekspansi luar negeri enam bulan setelah peluncuran domestik di Korea. Newon akan memperluas merek melalui kanal ritel utama K-beauty. W Cosmetics diperkenalkan sebagai kanal distribusi kecantikan di Australia, sehingga Salim Baekseo Zero dapat memperluas titik kontak dengan konsumen lokal. Newon menjadikan masuknya produk ini sebagai awal penguatan pasar global. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "b800e0c25d69",
-    "slug": "기술보다-인프라-설계가-승부처제도권-편입-앞둔-토큰증권-생존전략-195163",
-    "channelId": "ETF",
-    "category": "etf",
-    "publishedAt": "2026-05-11T06:15:40.584Z",
-    "updatedAt": "2026-05-11T06:15:40.584Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/stock/12043264",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12043264",
-    "titleFingerprint": "3780b933d42b0edbe64fb8d5c54cf57eb3ae530f",
-    "dedupKeys": [
-      "b800e0c25d694b5328fa907b3c1c3b9e96692b34",
-      "3780b933d42b0edbe64fb8d5c54cf57eb3ae530f",
-      "b6afa8f0e53c7d98467cdd9ab712d8a10984b7ad"
-    ],
-    "imageUrl": "/images/articles/b800e0c25d69.jpg",
-    "i18n": {
-      "ko": {
-        "title": "토큰증권 STO 생존전략, 기술보다 금융 인프라 설계가 승부처로 부상",
-        "excerpt": "디지털융합산업협회가 STO 발행·유통 세미나를 열고 내년 STO법 시행을 앞둔 토큰증권 시장에서 금융 인프라 설계와 유동성 공급이 핵심 과제로 떠올랐다고 짚었다.",
-        "body": "디지털융합산업협회는 내년 STO법 시행을 앞두고 STO 발행·유통 세미나를 열어 토큰증권 시장의 제도권 편입 전략을 논의했다. 참석자들은 이제 중요한 것은 기술을 잘 만드는 차원을 넘어 금융 인프라를 어떻게 설계하느냐라고 강조했다. 배경에는 토큰증권이 제도권으로 들어올 경우 발행, 유통, 투자자 보호, 유동성 공급 체계가 함께 작동해야 한다는 인식이 있다. 세미나에서는 먼저 정형화된 자산부터 토큰화할 필요가 있으며, 시장 생존의 핵심은 유동성 공급이라는 의견도 제시됐다. 향후 STO 시장 경쟁력은 기술 구현보다 안정적인 발행·유통 구조와 금융 인프라 설계 역량에 달릴 전망이다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "STO Survival Strategy: Financial Infrastructure Design Takes Priority Over Technology",
-        "excerpt": "The Digital Convergence Industry Association held a seminar on STO issuance and trading, stressing that financial infrastructure design and liquidity supply are key before the STO law takes effect next year.",
-        "body": "The Digital Convergence Industry Association held a seminar on STO issuance and distribution ahead of the STO law scheduled to take effect next year, discussing how tokenized securities can enter the regulated financial system. Participants stressed that the key issue is no longer simply building better technology, but designing the financial infrastructure around issuance and trading. The discussion reflected the view that once tokenized securities move into the institutional market, issuance, distribution, investor protection and liquidity supply must work together. Speakers said tokenization should begin with standardized assets and that liquidity provision is central to market survival. The competitiveness of the STO market is expected to depend on stable issuance and distribution structures and financial infrastructure design, rather than technology alone. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "STO生存戦略、技術より金融インフラ設計が制度化前の焦点に",
-        "excerpt": "デジタル融合産業協会はSTO発行・流通セミナーを開き、来年のSTO法施行を前に、トークン証券市場では金融インフラ設計と流動性供給が重要課題だと指摘した。",
-        "body": "デジタル融合産業協会は、来年のSTO法施行を前にSTO発行・流通セミナーを開き、トークン証券市場が制度圏に入るための戦略を議論した。参加者は、いま重要なのは技術をうまく作ることにとどまらず、金融インフラをどう設計するかだと強調した。背景には、トークン証券が制度化されれば、発行、流通、投資家保護、流動性供給の仕組みが連動して機能する必要があるとの認識がある。セミナーでは、まず定型化された資産からトークン化する必要があり、市場で生き残る核心は流動性供給だとの意見も示された。今後のSTO市場の競争力は、技術実装だけでなく、安定した発行・流通構造と金融インフラ設計力に左右される見通しだ。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "STO生存策略转向金融基础设施设计，技术不再是唯一胜负手",
-        "excerpt": "数字融合产业协会举行STO发行与流通研讨会，指出在明年STO法实施前，代币证券市场的关键课题是金融基础设施设计和流动性供给。",
-        "body": "数字融合产业协会在明年STO法实施前举行STO发行与流通研讨会，讨论代币证券纳入制度体系的策略。与会者强调，现在的重要问题已不只是把技术做好，而是如何设计支撑发行和流通的金融基础设施。其背景在于，一旦代币证券进入制度化市场，发行、流通、投资者保护和流动性供给体系必须共同运作。研讨会上还提出，应先从标准化资产开始代币化，市场生存的核心在于流动性供给。预计未来STO市场的竞争力，将取决于稳定的发行与流通结构以及金融基础设施设计能力，而不仅是技术实现。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Estrategia STO: el diseño de infraestructura financiera gana peso frente a la tecnología",
-        "excerpt": "La Asociación de la Industria de Convergencia Digital celebró un seminario sobre emisión y negociación de STO y señaló que el diseño de infraestructura financiera y la liquidez serán claves antes de la ley STO del próximo año.",
-        "body": "La Asociación de la Industria de Convergencia Digital celebró un seminario sobre emisión y distribución de STO antes de la entrada en vigor de la ley STO prevista para el próximo año, con foco en la integración de los valores tokenizados al sistema regulado. Los participantes subrayaron que el punto decisivo ya no es solo desarrollar bien la tecnología, sino diseñar la infraestructura financiera que sostenga la emisión y la negociación. El contexto es que, si los valores tokenizados ingresan al marco institucional, deben funcionar de manera conjunta la emisión, la distribución, la protección del inversionista y la provisión de liquidez. En el seminario se planteó que la tokenización debe comenzar por activos estandarizados y que la liquidez es central para la supervivencia del mercado. La competitividad futura del mercado STO dependerá más de estructuras estables de emisión y distribución y del diseño de infraestructura financiera que de la tecnología por sí sola. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Estratégia STO: infraestrutura financeira supera tecnologia como ponto decisivo",
-        "excerpt": "A Associação da Indústria de Convergência Digital realizou um seminário sobre emissão e negociação de STO e destacou que desenho de infraestrutura financeira e liquidez são essenciais antes da lei STO do próximo ano.",
-        "body": "A Associação da Indústria de Convergência Digital realizou um seminário sobre emissão e distribuição de STO antes da entrada em vigor da lei de STO prevista para o próximo ano, debatendo estratégias para a inclusão dos valores mobiliários tokenizados no sistema regulado. Os participantes afirmaram que o ponto central deixou de ser apenas desenvolver bem a tecnologia e passou a ser como desenhar a infraestrutura financeira para emissão e negociação. O contexto é que, quando os valores tokenizados entrarem no mercado institucional, emissão, distribuição, proteção ao investidor e oferta de liquidez terão de funcionar em conjunto. No seminário, foi defendido que a tokenização comece por ativos padronizados e que a liquidez é o fator central de sobrevivência do mercado. A competitividade futura do mercado de STO deverá depender de estruturas estáveis de emissão e distribuição e da capacidade de desenhar infraestrutura financeira, não apenas da tecnologia. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "STO-Strategie: Finanzinfrastruktur wird wichtiger als reine Technologie",
-        "excerpt": "Der Verband der digitalen Konvergenzindustrie veranstaltete ein Seminar zu STO-Emission und Handel und betonte, dass Infrastrukturdesign und Liquidität vor dem STO-Gesetz im nächsten Jahr entscheidend sind.",
-        "body": "Der Verband der digitalen Konvergenzindustrie veranstaltete vor dem für nächstes Jahr geplanten Inkrafttreten des STO-Gesetzes ein Seminar zu Emission und Vertrieb von STOs und diskutierte Strategien für die Einbindung tokenisierter Wertpapiere in den regulierten Markt. Die Teilnehmer betonten, entscheidend sei nicht mehr nur, die Technologie gut zu entwickeln, sondern die Finanzinfrastruktur für Emission und Handel richtig zu gestalten. Hintergrund ist die Einschätzung, dass bei einer institutionellen Einordnung tokenisierter Wertpapiere Emission, Vertrieb, Anlegerschutz und Liquiditätsversorgung gemeinsam funktionieren müssen. Im Seminar hieß es, die Tokenisierung solle zunächst mit standardisierten Vermögenswerten beginnen; zentral für das Überleben des Marktes sei die Bereitstellung von Liquidität. Die künftige Wettbewerbsfähigkeit des STO-Marktes dürfte daher stärker von stabilen Emissions- und Vertriebsstrukturen sowie Finanzinfrastrukturdesign abhängen als von Technologie allein. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Stratégie STO: l’infrastructure financière devient plus décisive que la technologie",
-        "excerpt": "L’Association de l’industrie de la convergence numérique a tenu un séminaire sur l’émission et la circulation des STO, soulignant que conception d’infrastructure financière et liquidité seront clés avant la loi STO prévue l’an prochain.",
-        "body": "L’Association de l’industrie de la convergence numérique a organisé un séminaire sur l’émission et la distribution des STO avant l’entrée en vigueur de la loi STO prévue l’an prochain, afin de discuter de l’intégration des titres tokenisés au cadre réglementé. Les participants ont souligné que l’enjeu n’est plus seulement de bien développer la technologie, mais de concevoir l’infrastructure financière qui soutiendra l’émission et les échanges. Cette approche repose sur l’idée que, lorsque les titres tokenisés entreront dans le système institutionnel, émission, distribution, protection des investisseurs et apport de liquidité devront fonctionner ensemble. Le séminaire a aussi avancé que la tokenisation devrait commencer par des actifs standardisés et que la liquidité est essentielle à la survie du marché. La compétitivité future du marché STO devrait donc dépendre de structures stables d’émission et de distribution et de la conception d’infrastructures financières, plus que de la seule technologie. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "استراتيجية بقاء STO: تصميم البنية المالية يتقدم على التكنولوجيا قبل التنظيم",
-        "excerpt": "عقدت جمعية صناعة التقارب الرقمي ندوة حول إصدار وتداول STO، مؤكدة أن تصميم البنية التحتية المالية وتوفير السيولة أصبحا محورين أساسيين قبل تطبيق قانون STO العام المقبل.",
-        "body": "عقدت جمعية صناعة التقارب الرقمي ندوة حول إصدار وتداول STO قبل تطبيق قانون STO المقرر في العام المقبل، وناقشت استراتيجيات إدخال الأوراق المالية المرمزة إلى الإطار المؤسسي. وشدد المشاركون على أن المسألة المهمة لم تعد تقتصر على بناء تقنية جيدة، بل تتمثل في كيفية تصميم البنية التحتية المالية التي تدعم الإصدار والتداول. ويأتي ذلك انطلاقا من إدراك أن دخول الأوراق المالية المرمزة إلى السوق المنظمة يتطلب أن تعمل منظومات الإصدار والتداول وحماية المستثمرين وتوفير السيولة معا. وطرحت الندوة ضرورة البدء بترميز الأصول ذات الطبيعة القياسية، مع التأكيد أن توفير السيولة هو جوهر بقاء السوق. ومن المتوقع أن تعتمد تنافسية سوق STO مستقبلا على هياكل إصدار وتداول مستقرة وقدرة تصميم البنية المالية، لا على التنفيذ التقني وحده. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "STO रणनीति: तकनीक से अधिक वित्तीय ढांचा डिजाइन बना निर्णायक मुद्दा",
-        "excerpt": "डिजिटल कन्वर्जेंस इंडस्ट्री एसोसिएशन ने STO जारीकरण और ट्रेडिंग पर सेमिनार में कहा कि अगले वर्ष STO कानून लागू होने से पहले वित्तीय ढांचा डिजाइन और तरलता आपूर्ति प्रमुख चुनौती हैं।",
-        "body": "डिजिटल कन्वर्जेंस इंडस्ट्री एसोसिएशन ने अगले वर्ष लागू होने वाले STO कानून से पहले STO जारीकरण और वितरण पर सेमिनार आयोजित किया और टोकन सिक्योरिटीज को विनियमित व्यवस्था में शामिल करने की रणनीति पर चर्चा की। प्रतिभागियों ने जोर दिया कि अब मुख्य बात केवल तकनीक को बेहतर बनाना नहीं, बल्कि जारीकरण और ट्रेडिंग को सहारा देने वाली वित्तीय अवसंरचना को कैसे डिजाइन किया जाए, यह है। इसका संदर्भ यह है कि टोकन सिक्योरिटीज के संस्थागत बाजार में आने पर जारीकरण, वितरण, निवेशक संरक्षण और तरलता आपूर्ति की प्रणालियों को साथ काम करना होगा। सेमिनार में कहा गया कि टोकनाइजेशन की शुरुआत पहले मानकीकृत परिसंपत्तियों से होनी चाहिए और बाजार के अस्तित्व के लिए तरलता आपूर्ति केंद्रीय है। आगे STO बाजार की प्रतिस्पर्धात्मकता तकनीक मात्र पर नहीं, बल्कि स्थिर जारीकरण-वितरण संरचना और वित्तीय ढांचा डिजाइन क्षमता पर निर्भर करेगी। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Strategi STO: Desain Infrastruktur Keuangan Jadi Kunci, Bukan Sekadar Teknologi",
-        "excerpt": "Asosiasi Industri Konvergensi Digital menggelar seminar penerbitan dan perdagangan STO, menekankan bahwa desain infrastruktur keuangan dan pasokan likuiditas menjadi tugas utama sebelum UU STO berlaku tahun depan.",
-        "body": "Asosiasi Industri Konvergensi Digital menggelar seminar penerbitan dan distribusi STO menjelang berlakunya UU STO tahun depan, dengan membahas strategi agar sekuritas token masuk ke sistem keuangan resmi. Para peserta menekankan bahwa isu penting saat ini bukan lagi sekadar membuat teknologi dengan baik, melainkan bagaimana merancang infrastruktur keuangan untuk mendukung penerbitan dan perdagangan. Latar belakangnya adalah pandangan bahwa ketika sekuritas token masuk ke pasar institusional, penerbitan, distribusi, perlindungan investor, dan pasokan likuiditas harus berjalan bersama. Dalam seminar tersebut, disampaikan pula bahwa tokenisasi perlu dimulai dari aset yang terstandardisasi, sementara pasokan likuiditas menjadi inti kelangsungan pasar. Ke depan, daya saing pasar STO diperkirakan bergantung pada struktur penerbitan dan distribusi yang stabil serta kemampuan desain infrastruktur keuangan, bukan pada teknologi saja. Sumber: mk.co.kr"
       }
     }
   }
