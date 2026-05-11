@@ -1,0 +1,75 @@
+{
+  "id": "285e56eb7100",
+  "slug": "비트코인판-vix-나온다cme그룹-비트코인-변동성-추종-지수-6월-출시-568032",
+  "channelId": "ETF",
+  "category": "etf",
+  "publishedAt": "2026-05-11T08:47:08.792Z",
+  "updatedAt": "2026-05-11T08:47:08.792Z",
+  "sourceName": "mk.co.kr",
+  "sourceUrl": "https://www.mk.co.kr/news/stock/12043314",
+  "canonicalUrl": "https://www.mk.co.kr/news/stock/12043314",
+  "titleFingerprint": "983ff08aa0a9940f2d146b9a75cb8cccbb958184",
+  "dedupKeys": [
+    "285e56eb7100b327afa11d893e51589f6e7474be",
+    "983ff08aa0a9940f2d146b9a75cb8cccbb958184",
+    "3616d824319370916fbe392594de27ede149fa13"
+  ],
+  "imageUrl": "/images/articles/285e56eb7100.png",
+  "i18n": {
+    "ko": {
+      "title": "비트코인 변동성 지수 BVX 6월 출시 예고, CME그룹 ‘비트코인판 VIX’ 준비",
+      "excerpt": "CME그룹이 6월 비트코인 가격이 아닌 변동성을 추종하는 BVX 지수를 내놓을 전망이며, 실제 출시 시 기관 투자자 참여 확대가 주목된다.",
+      "body": "시카고상품거래소를 운영하는 CME그룹이 오는 6월 비트코인 가격 자체가 아니라 변동성을 추종하는 지수를 선보일 것으로 보인다. 매일경제 보도에 따르면 CME그룹은 이른바 ‘비트코인판 VIX’로 불릴 수 있는 비트코인 변동성 지수 BVX를 준비 중이다. 이 지수는 비트코인의 방향성보다 가격 변동성에 초점을 맞춘다는 점에서 기존 가격 추종 상품과 구별된다. 실제 출시가 이뤄질 경우 비트코인 변동성을 별도 투자·헤지 대상으로 보려는 기관 투자자들의 참여 가능성이 거론된다. 출처: mk.co.kr"
+    },
+    "en": {
+      "title": "CME Group Plans June Launch of BVX Bitcoin Volatility Index",
+      "excerpt": "CME Group is expected to launch BVX in June, an index tracking Bitcoin volatility rather than price, drawing attention to possible institutional participation.",
+      "body": "CME Group, operator of the Chicago Mercantile Exchange, is expected to introduce an index in June that tracks Bitcoin volatility rather than the Bitcoin price itself. According to a report by Maeil Business Newspaper, CME Group is preparing the Bitcoin Volatility Index, or BVX, which may be described as a Bitcoin version of the VIX. The index differs from existing price-tracking products because it focuses on fluctuations in Bitcoin prices instead of directional price moves. If the launch proceeds, institutional investors may participate by treating Bitcoin volatility as a separate investment or hedging target. Source: mk.co.kr"
+    },
+    "ja": {
+      "title": "CMEグループ、6月にビットコイン変動性指数BVXを投入へ",
+      "excerpt": "CMEグループは6月、ビットコイン価格ではなく変動性を追跡するBVX指数を投入する見通しで、機関投資家の参加が注目される。",
+      "body": "シカゴ・マーカンタイル取引所を運営するCMEグループが、6月にビットコイン価格そのものではなく変動性を追跡する指数を公表する見通しだ。毎日経済新聞の報道によると、CMEグループは「ビットコイン版VIX」とも呼べるビットコイン変動性指数BVXを準備している。この指数は、ビットコインの価格の方向性ではなく価格変動の大きさに焦点を当てる点で、既存の価格連動型商品とは異なる。実際に開始されれば、ビットコインの変動性を独立した投資・ヘッジ対象として見る機関投資家の参加可能性が取り沙汰されている。出典: mk.co.kr"
+    },
+    "zh": {
+      "title": "CME集团拟6月推出比特币波动率指数BVX，机构投资者关注升温",
+      "excerpt": "CME集团预计6月推出追踪比特币波动率而非价格的BVX指数，若正式上线，机构投资者参与前景受到关注。",
+      "body": "运营芝加哥商品交易所的CME集团预计将在6月推出一项追踪比特币波动率、而非比特币价格本身的指数。据《每日经济新闻》报道，CME集团正在准备比特币波动率指数BVX，该指数可被称为“比特币版VIX”。与现有追踪价格的产品不同，BVX的重点不在比特币价格方向，而在价格波动性本身。若该指数实际推出，市场认为把比特币波动率作为单独投资或对冲对象的机构投资者可能参与其中。来源: mk.co.kr"
+    },
+    "es": {
+      "title": "CME Group prepara BVX, índice de volatilidad de Bitcoin para junio",
+      "excerpt": "CME Group prevé lanzar en junio BVX, un índice que seguirá la volatilidad de Bitcoin en lugar de su precio, con posible interés institucional.",
+      "body": "CME Group, operador de la Bolsa Mercantil de Chicago, parece estar preparando para junio un índice que seguirá la volatilidad de Bitcoin en lugar del precio de Bitcoin en sí. Según informó Maeil Business Newspaper, la compañía trabaja en el Bitcoin Volatility Index, o BVX, que podría describirse como una versión de VIX para Bitcoin. El índice se distingue de los productos vinculados al precio porque se centra en la volatilidad de los movimientos de Bitcoin, no en su dirección. Si el lanzamiento se concreta, se contempla la posible participación de inversores institucionales que busquen tratar la volatilidad de Bitcoin como un objetivo separado de inversión o cobertura. Fuente: mk.co.kr"
+    },
+    "pt": {
+      "title": "CME Group prepara índice BVX de volatilidade do Bitcoin para junho",
+      "excerpt": "O CME Group deve lançar em junho o BVX, índice que acompanha a volatilidade do Bitcoin, não seu preço, com possível participação institucional.",
+      "body": "O CME Group, operador da Bolsa Mercantil de Chicago, deve apresentar em junho um índice que acompanha a volatilidade do Bitcoin, e não o preço do Bitcoin em si. Segundo reportagem do Maeil Business Newspaper, o grupo prepara o Bitcoin Volatility Index, ou BVX, que pode ser visto como uma versão do VIX para o Bitcoin. O índice se diferencia dos produtos que seguem preços porque foca a oscilação do Bitcoin, não sua direção de preço. Caso o lançamento ocorra, é mencionada a possibilidade de participação de investidores institucionais interessados em tratar a volatilidade do Bitcoin como alvo separado de investimento ou hedge. Fonte: mk.co.kr"
+    },
+    "de": {
+      "title": "CME Group plant BVX-Index für Bitcoin-Volatilität ab Juni",
+      "excerpt": "Die CME Group will im Juni offenbar BVX starten, einen Index auf die Bitcoin-Volatilität statt auf den Preis, mit möglicher institutioneller Beteiligung.",
+      "body": "Die CME Group, Betreiberin der Chicago Mercantile Exchange, dürfte im Juni einen Index vorstellen, der nicht den Bitcoin-Preis selbst, sondern dessen Volatilität abbildet. Laut einem Bericht der Maeil Business Newspaper bereitet die CME Group den Bitcoin Volatility Index, kurz BVX, vor, der als eine Art Bitcoin-Version des VIX beschrieben werden kann. Der Index unterscheidet sich von bestehenden preisgebundenen Produkten, weil er auf die Schwankungsbreite von Bitcoin und nicht auf die Preisrichtung abstellt. Kommt die Einführung tatsächlich zustande, wird eine Beteiligung institutioneller Investoren erwartet, die Bitcoin-Volatilität als eigenes Anlage- oder Absicherungsziel betrachten. Quelle: mk.co.kr"
+    },
+    "fr": {
+      "title": "CME Group prépare BVX, indice de volatilité du Bitcoin pour juin",
+      "excerpt": "CME Group devrait lancer en juin BVX, un indice suivant la volatilité du Bitcoin plutôt que son prix, avec une possible participation institutionnelle.",
+      "body": "CME Group, opérateur du Chicago Mercantile Exchange, devrait présenter en juin un indice qui suit la volatilité du Bitcoin plutôt que le prix du Bitcoin lui-même. Selon Maeil Business Newspaper, le groupe prépare le Bitcoin Volatility Index, ou BVX, qui pourrait être décrit comme une version Bitcoin du VIX. Cet indice se distingue des produits liés au prix, car il se concentre sur les fluctuations du Bitcoin et non sur l’orientation de son prix. Si le lancement a bien lieu, la participation d’investisseurs institutionnels pourrait être envisagée, ceux-ci pouvant considérer la volatilité du Bitcoin comme un objet distinct d’investissement ou de couverture. Source: mk.co.kr"
+    },
+    "ar": {
+      "title": "مجموعة CME تستعد لإطلاق مؤشر BVX لتقلبات بيتكوين في يونيو",
+      "excerpt": "من المتوقع أن تطلق مجموعة CME في يونيو مؤشر BVX الذي يتتبع تقلبات بيتكوين لا سعرها، مع ترقب احتمال مشاركة المستثمرين المؤسسيين.",
+      "body": "من المتوقع أن تقدم مجموعة CME، المشغلة لبورصة شيكاغو التجارية، في يونيو مؤشرا يتتبع تقلبات بيتكوين بدلا من سعر بيتكوين نفسه. ووفقا لتقرير صحيفة Maeil Business Newspaper، تستعد المجموعة لإطلاق مؤشر تقلبات بيتكوين BVX، الذي يمكن وصفه بأنه نسخة بيتكوين من مؤشر VIX. ويختلف هذا المؤشر عن المنتجات التي تتبع السعر لأنه يركز على حجم تقلبات بيتكوين لا على اتجاه السعر. وإذا تم الإطلاق فعليا، فقد تبرز مشاركة المستثمرين المؤسسيين الذين ينظرون إلى تقلبات بيتكوين كهدف مستقل للاستثمار أو التحوط. المصدر: mk.co.kr"
+    },
+    "hi": {
+      "title": "CME Group जून में Bitcoin Volatility Index BVX लॉन्च करने की तैयारी में",
+      "excerpt": "CME Group जून में Bitcoin की कीमत नहीं, बल्कि उसकी volatility को ट्रैक करने वाला BVX index ला सकता है, जिससे संस्थागत निवेशकों की भागीदारी पर नजर है।",
+      "body": "Chicago Mercantile Exchange का संचालन करने वाला CME Group जून में ऐसा index पेश कर सकता है जो Bitcoin की कीमत के बजाय उसकी volatility को ट्रैक करेगा। Maeil Business Newspaper की रिपोर्ट के अनुसार, CME Group Bitcoin Volatility Index यानी BVX तैयार कर रहा है, जिसे Bitcoin का VIX संस्करण कहा जा सकता है। यह index मौजूदा price-tracking products से अलग है क्योंकि इसका ध्यान Bitcoin की price direction पर नहीं, बल्कि price fluctuations पर है। यदि launch वास्तव में होता है, तो Bitcoin volatility को अलग investment या hedging target मानने वाले institutional investors की भागीदारी की संभावना पर नजर रहेगी। स्रोत: mk.co.kr"
+    },
+    "id": {
+      "title": "CME Group Siapkan Indeks Volatilitas Bitcoin BVX untuk Juni",
+      "excerpt": "CME Group diperkirakan meluncurkan BVX pada Juni, indeks yang melacak volatilitas Bitcoin, bukan harganya, dengan potensi minat investor institusional.",
+      "body": "CME Group, operator Chicago Mercantile Exchange, diperkirakan akan memperkenalkan indeks pada Juni yang melacak volatilitas Bitcoin, bukan harga Bitcoin itu sendiri. Menurut laporan Maeil Business Newspaper, CME Group sedang menyiapkan Bitcoin Volatility Index atau BVX, yang dapat disebut sebagai versi VIX untuk Bitcoin. Indeks ini berbeda dari produk yang mengikuti harga karena berfokus pada pergerakan volatilitas Bitcoin, bukan arah harganya. Jika benar diluncurkan, muncul kemungkinan partisipasi investor institusional yang melihat volatilitas Bitcoin sebagai sasaran investasi atau lindung nilai tersendiri. Sumber: mk.co.kr"
+    }
+  }
+}
