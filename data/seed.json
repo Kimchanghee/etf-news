@@ -1,5 +1,230 @@
 [
   {
+    "id": "09f2df51acc0",
+    "slug": "속보-급등장에-코스피-매수-사이드카-발동-440734",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-05-11T16:48:23.798Z",
+    "updatedAt": "2026-05-11T16:48:23.798Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/stock/12042943",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12042943",
+    "titleFingerprint": "0627ce4d7c4199a0ca57a7803dc821e2ddfaf37d",
+    "dedupKeys": [
+      "09f2df51acc0a54ce48712d490852b1c58d1f03e",
+      "0627ce4d7c4199a0ca57a7803dc821e2ddfaf37d",
+      "3ea980837bc36ff045c1e09c9077affe39b4e24a"
+    ],
+    "imageUrl": "/images/articles/09f2df51acc0.jpg",
+    "i18n": {
+      "ko": {
+        "title": "코스피 급등에 매수 사이드카 발동, 11일 유가증권시장 프로그램매수 정지",
+        "excerpt": "코스피가 11일 급등세를 이어가자 한국거래소는 오전 9시 29분 32초께 유가증권시장에 프로그램매수호가 일시효력정지 조치를 발동했다.",
+        "body": "코스피가 11일 장 초반 급등세를 이어가면서 유가증권시장에 프로그램매수호가 일시효력정지, 이른바 매수 사이드카가 발동됐다. 한국거래소에 따르면 이날 오전 9시 29분 32초께 코스피200선물지수가 급등하면서 관련 조치가 시행됐다. 사이드카는 선물가격 변동이 현물시장 프로그램매매에 미치는 영향을 완화하기 위해 일정 시간 프로그램매수호가의 효력을 정지하는 제도다. 이번 조치는 코스피 급등 흐름 속에서 시장 변동성 관리 차원에서 이뤄진 것으로, 투자자들은 현물과 선물시장 움직임을 함께 확인할 필요가 있다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "KOSPI Buy Sidecar Triggered as Sharp Rally Halts Program Buy Orders",
+        "excerpt": "As the KOSPI extended a sharp rally on the 11th, Korea Exchange triggered a temporary suspension of program buy orders in the main stock market at about 9:29:32 a.m.",
+        "body": "The KOSPI continued to surge early on the 11th, prompting a temporary suspension of program buy orders, known as a buy sidecar, in the main stock market. According to Korea Exchange, the measure was activated at around 9:29:32 a.m. after the KOSPI 200 futures index rose sharply. A sidecar is a system designed to ease the impact of futures price swings on program trading in the cash market by temporarily suspending the effectiveness of program buy quotes. The step came as part of market volatility management amid the KOSPI’s rapid rise, and investors need to monitor movements in both the spot and futures markets. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "KOSPI急騰で買いサイドカー発動、11日にプログラム買い注文を一時停止",
+        "excerpt": "KOSPIが11日に急騰を続けたことを受け、韓国取引所は午前9時29分32秒ごろ、有価証券市場でプログラム買い呼び値の一時効力停止を発動した。",
+        "body": "KOSPIが11日の取引序盤に急騰を続け、有価証券市場でプログラム買い呼び値の一時効力停止、いわゆる買いサイドカーが発動された。韓国取引所によると、同日午前9時29分32秒ごろ、KOSPI200先物指数が急騰したことを受けて関連措置が実施された。サイドカーは、先物価格の変動が現物市場のプログラム売買に与える影響を緩和するため、一定時間プログラム買い呼び値の効力を停止する制度だ。今回の措置はKOSPIの急騰局面で市場の変動性を管理するために行われたもので、投資家は現物市場と先物市場の動きを併せて確認する必要がある。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "KOSPI急涨触发买入Sidecar，11日韩股程序买单暂时停效",
+        "excerpt": "KOSPI在11日延续急涨走势，韩国交易所于上午9时29分32秒左右在有价证券市场启动程序买入报价临时停效措施。",
+        "body": "KOSPI在11日早盘延续急涨走势，有价证券市场启动了程序买入报价临时停效措施，即买入Sidecar。韩国交易所表示，当天上午9时29分32秒左右，因KOSPI200期货指数急涨，相关措施被执行。Sidecar是一项制度，旨在缓和期货价格波动对现货市场程序交易的影响，在一定时间内暂停程序买入报价的效力。此次措施是在KOSPI快速上涨过程中，为管理市场波动性而采取的。投资者需要同时关注现货市场和期货市场的走势。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "KOSPI activa sidecar de compra tras fuerte subida y pausa órdenes programadas",
+        "excerpt": "El KOSPI mantuvo una fuerte subida el día 11 y Korea Exchange activó hacia las 9:29:32 a.m. la suspensión temporal de órdenes programadas de compra en el mercado principal.",
+        "body": "El KOSPI continuó con una fuerte subida en la apertura del día 11, lo que llevó a activar en el mercado bursátil principal la suspensión temporal de órdenes programadas de compra, conocida como sidecar de compra. Según Korea Exchange, la medida se aplicó alrededor de las 9:29:32 a.m. después de que el índice de futuros KOSPI 200 subiera con fuerza. El sidecar es un sistema que busca mitigar el impacto de las variaciones de precios de los futuros sobre la negociación programada en el mercado al contado, suspendiendo durante un tiempo la validez de las órdenes programadas de compra. La medida se produjo en el contexto del rápido avance del KOSPI y de la gestión de la volatilidad del mercado. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "KOSPI dispara e aciona sidecar de compra, com pausa em ordens programadas",
+        "excerpt": "Com o KOSPI mantendo forte alta no dia 11, a Korea Exchange acionou por volta de 9h29min32s a suspensão temporária de ordens programadas de compra no mercado principal.",
+        "body": "O KOSPI continuou em forte alta no início do pregão do dia 11, levando ao acionamento, no mercado principal de ações, da suspensão temporária de ordens programadas de compra, conhecida como sidecar de compra. Segundo a Korea Exchange, a medida foi aplicada por volta de 9h29min32s, após uma forte alta do índice futuro KOSPI 200. O sidecar é um mecanismo criado para reduzir o impacto das oscilações dos preços futuros sobre as negociações programadas no mercado à vista, suspendendo por determinado período a validade das ordens programadas de compra. A ação ocorreu em meio à rápida valorização do KOSPI e à gestão da volatilidade do mercado. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "KOSPI-Rally löst Kauf-Sidecar aus, Programm-Kauforders zeitweise gestoppt",
+        "excerpt": "Der KOSPI setzte am 11. seinen starken Anstieg fort; die Korea Exchange stoppte gegen 9:29:32 Uhr vorübergehend Programm-Kaufgebote am Hauptaktienmarkt.",
+        "body": "Der KOSPI setzte am frühen Handelstag des 11. seinen starken Anstieg fort, woraufhin am Hauptaktienmarkt eine vorübergehende Aussetzung von Programm-Kaufgeboten, der sogenannte Kauf-Sidecar, ausgelöst wurde. Nach Angaben der Korea Exchange wurde die Maßnahme gegen 9:29:32 Uhr umgesetzt, nachdem der KOSPI-200-Futures-Index stark gestiegen war. Ein Sidecar soll die Auswirkungen von Futures-Preisschwankungen auf den Programmhandel am Kassamarkt abmildern, indem die Wirksamkeit von Programm-Kaufgeboten für eine bestimmte Zeit ausgesetzt wird. Die Maßnahme erfolgte im Zuge des raschen KOSPI-Anstiegs zur Steuerung der Marktvolatilität. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Le KOSPI bondit et déclenche un sidecar d’achat, ordres programmés suspendus",
+        "excerpt": "Alors que le KOSPI poursuivait sa forte hausse le 11, Korea Exchange a déclenché vers 9 h 29 min 32 s une suspension temporaire des ordres d’achat programmés.",
+        "body": "Le KOSPI a poursuivi sa forte progression en début de séance le 11, entraînant sur le marché principal une suspension temporaire des cotations d’achat programmées, appelée sidecar d’achat. Selon Korea Exchange, la mesure a été appliquée vers 9 h 29 min 32 s après une vive hausse de l’indice des contrats à terme KOSPI 200. Le sidecar est un dispositif destiné à atténuer l’impact des variations des prix des contrats à terme sur les transactions programmées du marché au comptant, en suspendant pendant un certain temps l’effet des ordres d’achat programmés. Cette mesure intervient dans un contexte de forte hausse du KOSPI et de gestion de la volatilité du marché. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "ارتفاع قوي في كوسبي يفعّل سايدكار الشراء ويوقف أوامر الشراء المبرمجة مؤقتا",
+        "excerpt": "مع استمرار كوسبي في الارتفاع الحاد يوم 11، فعّلت بورصة كوريا نحو الساعة 9:29:32 صباحا تعليقا مؤقتا لأوامر الشراء المبرمجة في سوق الأسهم الرئيسي.",
+        "body": "واصل مؤشر كوسبي ارتفاعه الحاد في بداية تداولات يوم 11، ما أدى إلى تفعيل تعليق مؤقت لأوامر الشراء المبرمجة في سوق الأسهم الرئيسي، وهو ما يعرف بسايدكار الشراء. ووفقا لبورصة كوريا، تم تنفيذ الإجراء نحو الساعة 9:29:32 صباحا بعد ارتفاع حاد في مؤشر عقود كوسبي 200 الآجلة. والسايدكار نظام يهدف إلى تخفيف تأثير تقلبات أسعار العقود الآجلة على التداولات المبرمجة في السوق الفورية، عبر وقف فعالية أوامر الشراء المبرمجة لفترة محددة. وجاءت هذه الخطوة ضمن إدارة تقلبات السوق وسط صعود كوسبي السريع، ما يستدعي متابعة تحركات السوقين الفورية والآجلة معا. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "KOSPI की तेज छलांग से बाय साइडकार लागू, प्रोग्राम खरीद ऑर्डर अस्थायी रूप से रुके",
+        "excerpt": "11 तारीख को KOSPI की तेज बढ़त जारी रहने पर Korea Exchange ने सुबह करीब 9:29:32 बजे मुख्य शेयर बाजार में प्रोग्राम खरीद कोटेशन की अस्थायी रोक लागू की।",
+        "body": "11 तारीख को शुरुआती कारोबार में KOSPI की तेज बढ़त जारी रही, जिसके बाद मुख्य शेयर बाजार में प्रोग्राम खरीद कोटेशन की अस्थायी प्रभाव-रोक, यानी बाय साइडकार, लागू किया गया। Korea Exchange के अनुसार, उसी दिन सुबह करीब 9:29:32 बजे KOSPI 200 वायदा सूचकांक में तेज उछाल के कारण यह उपाय लागू किया गया। साइडकार ऐसी व्यवस्था है जो वायदा कीमतों में उतार-चढ़ाव का नकद बाजार के प्रोग्राम ट्रेडिंग पर प्रभाव कम करने के लिए तय समय तक प्रोग्राम खरीद कोटेशन की प्रभावशीलता रोकती है। यह कदम KOSPI की तीव्र बढ़त के बीच बाजार अस्थिरता प्रबंधन के तहत उठाया गया, इसलिए निवेशकों को नकद और वायदा दोनों बाजारों की चाल देखनी होगी। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "KOSPI Melonjak, Sidecar Beli Aktif dan Order Program Dihentikan Sementara",
+        "excerpt": "Saat KOSPI melanjutkan lonjakan pada tanggal 11, Korea Exchange mengaktifkan penghentian sementara kuotasi beli program di pasar saham utama sekitar pukul 09.29.32.",
+        "body": "KOSPI melanjutkan kenaikan tajam pada awal perdagangan tanggal 11, sehingga pasar saham utama memberlakukan penghentian sementara kuotasi beli program, yang dikenal sebagai sidecar beli. Menurut Korea Exchange, langkah tersebut diterapkan sekitar pukul 09.29.32 setelah indeks berjangka KOSPI 200 naik tajam. Sidecar adalah mekanisme untuk meredam dampak perubahan harga berjangka terhadap perdagangan program di pasar tunai dengan menghentikan sementara efektivitas kuotasi beli program selama periode tertentu. Langkah ini dilakukan dalam rangka pengelolaan volatilitas pasar di tengah kenaikan cepat KOSPI, sehingga investor perlu memantau pergerakan pasar tunai dan berjangka secara bersamaan. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "46350cf9fa19",
+    "slug": "한화투자증권-중개형-isa-순입금-이벤트-실시-413286",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-05-11T16:47:22.172Z",
+    "updatedAt": "2026-05-11T16:47:22.172Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/stock/12043017",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12043017",
+    "titleFingerprint": "78b443bdf36b19caa876fafc20ef79593b0883be",
+    "dedupKeys": [
+      "46350cf9fa19a915e94e4efefe41a435769876c3",
+      "78b443bdf36b19caa876fafc20ef79593b0883be",
+      "0977555cef2710775d9f5277209db5fd8442297a"
+    ],
+    "imageUrl": "/images/articles/46350cf9fa19.png",
+    "i18n": {
+      "ko": {
+        "title": "한화투자증권 중개형 ISA 순입금 이벤트, 다음 달 30일까지 진행",
+        "excerpt": "한화투자증권은 11일 비대면 중개형 ISA 계좌 신규 고객을 대상으로 다음 달 30일까지 순입금 이벤트를 진행한다고 밝혔다.",
+        "body": "한화투자증권은 11일 ‘저축에서 투자로! 중개형 개인종합관리계좌(ISA) 순입금 이벤트’를 다음 달 30일까지 실시한다고 밝혔다. 이번 이벤트는 비대면 중개형 ISA 계좌 신규 고객을 대상으로 진행된다. 중개형 ISA는 저축 중심 자금 운용에서 투자형 계좌 활용으로 관심이 이어지는 상품군으로, 이번 행사는 순입금 참여를 중심으로 마련됐다. 한화투자증권은 이벤트 기간을 다음 달 30일까지로 제시했으며, 비대면 계좌를 통한 참여 조건을 강조했다. 이번 이벤트는 중개형 ISA 신규 유입과 계좌 활용 확대에 초점을 맞춘 움직임으로 해석된다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Hanwha Investment Runs Brokerage ISA Net Deposit Event Until Next Month",
+        "excerpt": "Hanwha Investment & Securities said on the 11th it will run a net deposit event for new non-face-to-face brokerage ISA account customers until the 30th of next month.",
+        "body": "Hanwha Investment & Securities said on the 11th that it will hold the “From Savings to Investment! Brokerage Individual Savings Account (ISA) Net Deposit Event” until the 30th of next month. The event is aimed at new customers opening non-face-to-face brokerage ISA accounts. Brokerage ISAs are part of a product category drawing attention as funds move from savings-centered management toward investment account use, and this event is centered on net deposits. Hanwha Investment & Securities set the event period through the 30th of next month and highlighted participation through non-face-to-face accounts. The event focuses on attracting new brokerage ISA users and expanding account usage. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "ハンファ投資証券、中介型ISA純入金イベントを来月30日まで実施",
+        "excerpt": "ハンファ投資証券は11日、非対面の中介型ISA口座の新規顧客を対象に、来月30日まで純入金イベントを実施すると明らかにした。",
+        "body": "ハンファ投資証券は11日、「貯蓄から投資へ！中介型個人総合管理口座（ISA）純入金イベント」を来月30日まで実施すると発表した。今回のイベントは、非対面の中介型ISA口座の新規顧客を対象に行われる。中介型ISAは、貯蓄中心の資金運用から投資型口座の活用へ関心が広がる商品群で、今回のイベントは純入金への参加を中心に設けられた。ハンファ投資証券はイベント期間を来月30日までとし、非対面口座を通じた参加条件を強調した。今回のイベントは、中介型ISAの新規流入と口座活用拡大に焦点を当てた動きといえる。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "韩华投资证券推出中介型ISA净入金活动，持续至下月30日",
+        "excerpt": "韩华投资证券11日表示，将面向非面对面中介型ISA账户新客户开展净入金活动，期限至下月30日。",
+        "body": "韩华投资证券11日表示，将开展“从储蓄到投资！中介型个人综合管理账户（ISA）净入金活动”，活动持续至下月30日。此次活动面向非面对面中介型ISA账户的新客户。中介型ISA属于在资金运用从储蓄中心转向投资型账户使用过程中受到关注的产品类别，本次活动以净入金参与为核心。韩华投资证券将活动期限设定为下月30日，并强调通过非面对面账户参与的条件。此次活动聚焦于吸引中介型ISA新客户流入，并扩大账户使用。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Hanwha Investment lanza evento de depósitos netos en ISA hasta el día 30 próximo",
+        "excerpt": "Hanwha Investment & Securities informó el día 11 que realizará hasta el 30 del próximo mes un evento de depósitos netos para nuevos clientes de cuentas ISA de corretaje no presenciales.",
+        "body": "Hanwha Investment & Securities informó el día 11 que realizará el evento “¡Del ahorro a la inversión! Evento de depósitos netos en la cuenta individual integral de corretaje (ISA)” hasta el día 30 del próximo mes. La iniciativa está dirigida a nuevos clientes de cuentas ISA de corretaje abiertas de forma no presencial. Las ISA de corretaje forman parte de una categoría que recibe atención a medida que el uso de fondos pasa de una gestión centrada en el ahorro al uso de cuentas de inversión, y este evento se centra en la participación mediante depósitos netos. La compañía fijó el plazo hasta el 30 del próximo mes y subrayó la condición de participación por cuentas no presenciales. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Hanwha Investment promove evento de depósito líquido em ISA até dia 30 do próximo mês",
+        "excerpt": "A Hanwha Investment & Securities informou no dia 11 que realizará até o dia 30 do próximo mês um evento de depósito líquido para novos clientes de contas ISA de corretagem não presenciais.",
+        "body": "A Hanwha Investment & Securities informou no dia 11 que realizará o evento “Da poupança ao investimento! Evento de depósito líquido da Conta Individual de Gestão Integral (ISA) de corretagem” até o dia 30 do próximo mês. A ação é voltada a novos clientes de contas ISA de corretagem abertas de forma não presencial. As ISAs de corretagem integram uma categoria que ganha atenção com a passagem da gestão centrada em poupança para o uso de contas de investimento, e o evento foi estruturado em torno da participação por depósito líquido. A empresa definiu o prazo até o dia 30 do próximo mês e destacou a participação por conta não presencial. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Hanwha Investment startet Nettoeinzahlungsaktion für Brokerage-ISA bis zum 30. nächsten Monats",
+        "excerpt": "Hanwha Investment & Securities teilte am 11. mit, dass bis zum 30. des nächsten Monats eine Nettoeinzahlungsaktion für neue nicht persönliche Brokerage-ISA-Kunden läuft.",
+        "body": "Hanwha Investment & Securities teilte am 11. mit, dass die Aktion „Vom Sparen zum Investieren! Nettoeinzahlungsaktion für das Brokerage Individual Savings Account (ISA)“ bis zum 30. des nächsten Monats durchgeführt wird. Die Aktion richtet sich an Neukunden, die ein nicht persönlich eröffnetes Brokerage-ISA-Konto nutzen. Brokerage-ISAs gehören zu einer Produktgruppe, die Aufmerksamkeit erhält, wenn sich die Mittelverwendung vom sparorientierten Management zur Nutzung von Anlagekonten bewegt; die Aktion konzentriert sich auf Nettoeinzahlungen. Hanwha Investment & Securities setzte den Zeitraum bis zum 30. des nächsten Monats fest und betonte die Teilnahme über nicht persönliche Konten. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Hanwha Investment lance une opération de dépôts nets ISA jusqu’au 30 du mois prochain",
+        "excerpt": "Hanwha Investment & Securities a annoncé le 11 qu’elle mènerait jusqu’au 30 du mois prochain une opération de dépôts nets destinée aux nouveaux clients de comptes ISA de courtage à distance.",
+        "body": "Hanwha Investment & Securities a annoncé le 11 qu’elle organiserait l’opération “De l’épargne à l’investissement ! Opération de dépôts nets sur le compte individuel de gestion globale (ISA) de courtage” jusqu’au 30 du mois prochain. L’événement vise les nouveaux clients de comptes ISA de courtage ouverts à distance. Les ISA de courtage relèvent d’une catégorie de produits qui attire l’attention à mesure que l’utilisation des fonds passe d’une gestion centrée sur l’épargne à l’usage de comptes d’investissement, et cette opération est centrée sur les dépôts nets. La société a fixé la période jusqu’au 30 du mois prochain et a souligné les conditions de participation via un compte à distance. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "هانوا للاستثمار تطلق فعالية صافي الإيداع لحساب ISA الوسيط حتى 30 الشهر المقبل",
+        "excerpt": "أعلنت هانوا للاستثمار والأوراق المالية في 11 من الشهر أنها ستجري فعالية صافي الإيداع للعملاء الجدد لحسابات ISA الوسيطة غير الحضورية حتى 30 الشهر المقبل.",
+        "body": "أعلنت هانوا للاستثمار والأوراق المالية في 11 من الشهر أنها ستنفذ فعالية «من الادخار إلى الاستثمار! فعالية صافي الإيداع لحساب الإدارة الشامل الفردي الوسيط (ISA)» حتى 30 الشهر المقبل. تستهدف الفعالية العملاء الجدد لحسابات ISA الوسيطة المفتوحة بطريقة غير حضورية. وتندرج حسابات ISA الوسيطة ضمن فئة منتجات تحظى بالاهتمام مع انتقال إدارة الأموال من التركيز على الادخار إلى استخدام حسابات استثمارية، وقد أعدت هذه الفعالية حول المشاركة عبر صافي الإيداع. وحددت الشركة مدة الفعالية حتى 30 الشهر المقبل، وأكدت شرط المشاركة من خلال الحسابات غير الحضورية. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "Hanwha Investment का ब्रोकरेज ISA नेट डिपॉजिट इवेंट अगले महीने 30 तक",
+        "excerpt": "Hanwha Investment & Securities ने 11 तारीख को बताया कि वह गैर-सामना ब्रोकरेज ISA खातों के नए ग्राहकों के लिए अगले महीने 30 तारीख तक नेट डिपॉजिट इवेंट चलाएगी।",
+        "body": "Hanwha Investment & Securities ने 11 तारीख को कहा कि वह “बचत से निवेश तक! ब्रोकरेज व्यक्तिगत समग्र प्रबंधन खाता (ISA) नेट डिपॉजिट इवेंट” अगले महीने की 30 तारीख तक आयोजित करेगी। यह इवेंट गैर-सामना तरीके से खोले गए ब्रोकरेज ISA खातों के नए ग्राहकों के लिए है। ब्रोकरेज ISA ऐसे उत्पाद वर्ग में आता है जिस पर ध्यान तब बढ़ता है जब धन प्रबंधन बचत-केंद्रित तरीके से निवेश खातों के उपयोग की ओर बढ़ता है, और यह इवेंट नेट डिपॉजिट भागीदारी पर केंद्रित है। कंपनी ने अवधि अगले महीने 30 तारीख तक बताई और गैर-सामना खातों के जरिए भागीदारी की शर्त पर जोर दिया। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Hanwha Investment Gelar Event Setoran Bersih ISA Broker hingga 30 Bulan Depan",
+        "excerpt": "Hanwha Investment & Securities pada tanggal 11 menyatakan akan menggelar event setoran bersih untuk nasabah baru rekening ISA broker non-tatap muka hingga tanggal 30 bulan depan.",
+        "body": "Hanwha Investment & Securities pada tanggal 11 menyatakan akan menggelar “Dari Menabung ke Investasi! Event Setoran Bersih Rekening Manajemen Individu Terpadu (ISA) Broker” hingga tanggal 30 bulan depan. Event ini ditujukan bagi nasabah baru rekening ISA broker yang dibuka secara non-tatap muka. ISA broker merupakan kategori produk yang mendapat perhatian seiring pergeseran pengelolaan dana dari fokus menabung ke penggunaan rekening investasi, dan event ini disusun dengan pusat pada partisipasi setoran bersih. Hanwha Investment & Securities menetapkan periode hingga tanggal 30 bulan depan dan menekankan syarat partisipasi melalui rekening non-tatap muka. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "96778d6eae72",
+    "slug": "삼성증권-적립식-증여-서비스-및-자녀자산관리-서비스-동시-출시-738731",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-05-11T16:46:14.925Z",
+    "updatedAt": "2026-05-11T16:46:14.925Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/stock/12043018",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12043018",
+    "titleFingerprint": "a2fcc97c6d44c3e63e81182e1b7c8d96a884dd10",
+    "dedupKeys": [
+      "96778d6eae72fc299514bc57ab35f6968ece7b25",
+      "a2fcc97c6d44c3e63e81182e1b7c8d96a884dd10",
+      "fe6a2dea8e4bbc454abc83009f75fac7733e7403"
+    ],
+    "imageUrl": "/images/articles/96778d6eae72.jpg",
+    "i18n": {
+      "ko": {
+        "title": "삼성증권, 미성년 자녀 위한 적립식 증여·자산관리 서비스 출시",
+        "excerpt": "삼성증권은 11일 미성년 자녀의 자산 형성, 증여, 세금 신고 과정을 디지털로 지원하는 적립식 증여 서비스와 자녀자산관리 서비스를 동시에 출시한다고 밝혔다.",
+        "body": "삼성증권은 11일 미성년 자녀의 자산 형성부터 증여, 세금 신고까지 전 과정을 디지털로 지원하는 ‘적립식 증여 서비스’와 ‘자녀자산관리 서비스’를 동시에 선보인다고 밝혔다. 두 서비스는 부모가 자녀의 장기 자산 형성을 준비하고, 증여 관련 절차와 신고까지 디지털 환경에서 관리할 수 있도록 마련됐다. 이번 출시는 미성년 자녀 명의의 자산 관리와 증여 수요에 맞춰 관련 과정을 한곳에서 지원하려는 서비스 확대의 일환이다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Samsung Securities launches child gifting and asset management services",
+        "excerpt": "Samsung Securities said on the 11th it will launch recurring gifting and child asset management services to digitally support asset building, gifting and tax filing for minors.",
+        "body": "Samsung Securities said on the 11th it will simultaneously introduce a “recurring gifting service” and a “child asset management service” that digitally support the full process for minor children, from asset formation to gifting and tax filing. The services are designed to help parents prepare long-term asset building for their children and manage gifting procedures and related filings in a digital environment. The launch is part of an effort to support demand for asset management and gifting under minors’ names in one place. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "サムスン証券、未成年子女向け積立贈与・資産管理サービス開始",
+        "excerpt": "サムスン証券は11日、未成年子女の資産形成から贈与、税務申告までをデジタルで支援する積立贈与サービスと子女資産管理サービスを同時に開始すると発表した。",
+        "body": "サムスン証券は11日、未成年子女の資産形成から贈与、税務申告までの全過程をデジタルで支援する「積立贈与サービス」と「子女資産管理サービス」を同時に提供すると明らかにした。両サービスは、親が子どもの長期的な資産形成を準備し、贈与に関する手続きや申告までデジタル環境で管理できるように設計された。今回の開始は、未成年子女名義の資産管理と贈与需要に対応し、関連プロセスを一カ所で支援するサービス拡充の一環だ。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "三星证券推出未成年子女定期赠与与资产管理服务",
+        "excerpt": "三星证券11日表示，将同时推出定期赠与服务和子女资产管理服务，以数字化方式支持未成年子女资产形成、赠与及税务申报全过程。",
+        "body": "三星证券11日表示，将同时推出“定期赠与服务”和“子女资产管理服务”，以数字化方式支持未成年子女从资产形成到赠与、税务申报的全过程。两项服务旨在帮助父母为子女的长期资产形成做准备，并在数字环境中管理赠与相关流程和申报。此次推出是三星证券为满足未成年子女名义资产管理及赠与需求、在一个平台支持相关流程而扩展服务的一部分。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Samsung Securities lanza servicios de donación periódica y gestión para hijos",
+        "excerpt": "Samsung Securities dijo el día 11 que lanzará servicios de donación periódica y gestión de activos para hijos, apoyando digitalmente la formación de patrimonio, donaciones y declaración fiscal de menores.",
+        "body": "Samsung Securities informó el día 11 que presentará simultáneamente un “servicio de donación periódica” y un “servicio de gestión de activos para hijos”, que respaldan digitalmente todo el proceso para menores, desde la formación de activos hasta la donación y la declaración fiscal. Los servicios están diseñados para que los padres preparen la formación patrimonial a largo plazo de sus hijos y gestionen en un entorno digital los trámites y reportes relacionados con donaciones. El lanzamiento forma parte de una ampliación de servicios para atender la demanda de gestión y donación de activos a nombre de menores. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Samsung Securities lança doação recorrente e gestão de ativos para filhos",
+        "excerpt": "A Samsung Securities informou no dia 11 que lançará serviços de doação recorrente e gestão de ativos para filhos, apoiando digitalmente formação patrimonial, doações e declaração de impostos de menores.",
+        "body": "A Samsung Securities informou no dia 11 que apresentará simultaneamente o “serviço de doação recorrente” e o “serviço de gestão de ativos para filhos”, que apoiam digitalmente todo o processo para menores, da formação de patrimônio à doação e à declaração de impostos. Os serviços foram preparados para ajudar os pais a planejar a formação de ativos de longo prazo dos filhos e gerenciar procedimentos e declarações relacionados a doações em ambiente digital. O lançamento integra a expansão de serviços para atender à demanda por gestão de ativos e doações em nome de menores. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Samsung Securities startet Sparschenkungs- und Vermögensservice für Kinder",
+        "excerpt": "Samsung Securities teilte am 11. mit, zwei digitale Dienste für Minderjährige zu starten: regelmäßige Schenkungen und Vermögensverwaltung samt Vermögensaufbau, Schenkung und Steuererklärung.",
+        "body": "Samsung Securities teilte am 11. mit, gleichzeitig einen „Service für regelmäßige Schenkungen“ und einen „Vermögensverwaltungsservice für Kinder“ einzuführen. Beide unterstützen den gesamten Prozess für minderjährige Kinder digital, vom Vermögensaufbau über Schenkungen bis zur Steuererklärung. Die Dienste sollen Eltern helfen, den langfristigen Vermögensaufbau ihrer Kinder vorzubereiten und schenkungsbezogene Verfahren sowie Meldungen digital zu verwalten. Der Start ist Teil einer Serviceerweiterung, um die Nachfrage nach Vermögensverwaltung und Schenkungen auf den Namen Minderjähriger an einem Ort zu unterstützen. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Samsung Securities lance dons programmés et gestion d’actifs pour enfants",
+        "excerpt": "Samsung Securities a annoncé le 11 le lancement de services de dons programmés et de gestion d’actifs pour enfants, couvrant numériquement constitution d’actifs, dons et déclaration fiscale des mineurs.",
+        "body": "Samsung Securities a annoncé le 11 le lancement simultané d’un « service de dons programmés » et d’un « service de gestion d’actifs pour enfants », destinés à accompagner numériquement tout le processus pour les mineurs, de la constitution d’actifs aux dons et à la déclaration fiscale. Ces services doivent permettre aux parents de préparer la constitution patrimoniale de long terme de leurs enfants et de gérer les procédures liées aux dons dans un environnement numérique. Ce lancement s’inscrit dans l’élargissement des services visant à répondre aux besoins de gestion d’actifs et de dons au nom des mineurs. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "سامسونغ للأوراق المالية تطلق خدمات الهبة الدورية وإدارة أصول الأبناء",
+        "excerpt": "أعلنت سامسونغ للأوراق المالية في 11 من الشهر إطلاق خدمتي الهبة الدورية وإدارة أصول الأبناء لدعم تكوين أصول القصر والهبات والإقرار الضريبي رقمياً.",
+        "body": "أعلنت سامسونغ للأوراق المالية في 11 من الشهر أنها ستطرح في الوقت نفسه «خدمة الهبة الدورية» و«خدمة إدارة أصول الأبناء»، لدعم العملية الكاملة رقمياً للأطفال القصر، من تكوين الأصول إلى الهبة وتقديم الإقرارات الضريبية. وتهدف الخدمتان إلى مساعدة الآباء على إعداد تكوين أصول طويلة الأجل لأبنائهم وإدارة الإجراءات والإقرارات المرتبطة بالهبات في بيئة رقمية. ويأتي الإطلاق ضمن توسيع الخدمات لتلبية الطلب على إدارة الأصول والهبات باسم القصر في مكان واحد. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "सैमसंग सिक्योरिटीज ने बच्चों के लिए गिफ्टिंग और एसेट मैनेजमेंट सेवा शुरू की",
+        "excerpt": "सैमसंग सिक्योरिटीज ने 11 तारीख को नाबालिग बच्चों की संपत्ति निर्माण, गिफ्टिंग और टैक्स फाइलिंग को डिजिटल रूप से समर्थन देने वाली दो सेवाएं साथ शुरू करने की घोषणा की।",
+        "body": "सैमसंग सिक्योरिटीज ने 11 तारीख को कहा कि वह नाबालिग बच्चों के लिए संपत्ति निर्माण से लेकर गिफ्टिंग और टैक्स फाइलिंग तक पूरी प्रक्रिया को डिजिटल रूप से समर्थन देने वाली “रिकरिंग गिफ्टिंग सर्विस” और “चाइल्ड एसेट मैनेजमेंट सर्विस” एक साथ पेश करेगी। ये सेवाएं माता-पिता को बच्चों की दीर्घकालिक संपत्ति निर्माण योजना तैयार करने और गिफ्टिंग से जुड़ी प्रक्रियाओं व फाइलिंग को डिजिटल वातावरण में संभालने में मदद के लिए बनाई गई हैं। यह लॉन्च नाबालिगों के नाम पर संपत्ति प्रबंधन और गिफ्टिंग की मांग को एक स्थान पर समर्थन देने वाली सेवा विस्तार का हिस्सा है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Samsung Securities luncurkan layanan hibah berkala dan aset anak",
+        "excerpt": "Samsung Securities pada tanggal 11 menyatakan akan meluncurkan layanan hibah berkala dan manajemen aset anak untuk mendukung pembentukan aset, hibah, dan pelaporan pajak anak di bawah umur secara digital.",
+        "body": "Samsung Securities pada tanggal 11 menyatakan akan memperkenalkan secara bersamaan “layanan hibah berkala” dan “layanan manajemen aset anak” yang mendukung seluruh proses untuk anak di bawah umur secara digital, mulai dari pembentukan aset hingga hibah dan pelaporan pajak. Kedua layanan ini disiapkan agar orang tua dapat merencanakan pembentukan aset jangka panjang bagi anak serta mengelola prosedur dan pelaporan terkait hibah dalam lingkungan digital. Peluncuran ini merupakan bagian dari perluasan layanan untuk mendukung kebutuhan manajemen aset dan hibah atas nama anak di bawah umur dalam satu tempat. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
     "id": "29ce3036a2e9",
     "slug": "바이낸스-규제-책임자-규제-무서워-발전-멈추면-안-돼-매일코인-727381",
     "channelId": "ETF",
@@ -4271,231 +4496,6 @@
         "title": "Strategi Investasi AI Nvidia dan Google: GPU serta Data Center Jadi Sorotan",
         "excerpt": "mk.co.kr membandingkan daya tarik investasi Nvidia dan Google dalam persaingan AI, dengan menyoroti GPU, memori, dan permintaan data center hyperscaler.",
         "body": "Saat persaingan dominasi AI berlanjut, perhatian investor tertuju pada mana yang lebih menjanjikan antara Nvidia dan Google. Menurut mk.co.kr, dalam kompetisi AI di antara perusahaan dengan kapitalisasi pasar teratas, GPU muncul sebagai penerima manfaat terbesar dari investasi semikonduktor dan membantu Nvidia meraih posisi puncak kapitalisasi pasar. Produsen memori Micron juga disebut sebagai contoh pertumbuhan cepat seiring meluasnya permintaan AI. Latar belakangnya adalah lonjakan permintaan komputasi hyperscaler dan data center, yang disebut sebagai tambang emas era AI. Alphabet juga dibahas sebagai poros penting dalam penilaian investasi yang terkait dengan permintaan tersebut. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "b9f33052468b",
-    "slug": "은행권-하반기-금리인상-전망현금-확보분산투자-조언-629659",
-    "channelId": "ETF",
-    "category": "etf",
-    "publishedAt": "2026-05-10T21:38:34.368Z",
-    "updatedAt": "2026-05-10T21:38:34.368Z",
-    "sourceName": "yna.co.kr",
-    "sourceUrl": "https://www.yna.co.kr/view/AKR20260510044700002",
-    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260510044700002",
-    "titleFingerprint": "a9f430a0e1a126d5480b107ded64178627d7c541",
-    "dedupKeys": [
-      "b9f33052468b8807008cbfea71150d33f663a36d",
-      "a9f430a0e1a126d5480b107ded64178627d7c541",
-      "b3a2a6676eae93b8be26e820617749b67b3ad7a3"
-    ],
-    "imageUrl": "/images/articles/b9f33052468b.jpg",
-    "i18n": {
-      "ko": {
-        "title": "은행권 하반기 금리인상 전망, 현금 확보·분산투자 전략 주목",
-        "excerpt": "은행권 전문가들은 올해 하반기 한국은행 기준금리 인상 가능성을 전망하며 투자자들에게 현금성 자산 확보와 분산투자 전략을 조언했다.",
-        "body": "서울에서 은행권 전문가들은 올해 하반기 한국은행이 기준금리를 인상할 가능성이 있다고 전망했다. 이들은 금리 상승 국면에 대비해 투자자들이 현금성 자산을 확보하고 특정 자산에 쏠리지 않는 분산투자 전략을 세울 필요가 있다고 조언했다. 금리 인상은 예금·대출 금리와 자산시장 전반의 투자 판단에 영향을 줄 수 있어, 유동성 관리와 포트폴리오 점검이 중요하다는 설명이다. 전문가들은 시장 변동성에 대비해 무리한 투자보다 안정적인 자금 운용을 강조했다. 출처: yna.co.kr"
-      },
-      "en": {
-        "title": "Korean Banks See H2 Rate Hike, Urge Cash Buffers and Diversification",
-        "excerpt": "Banking experts in Seoul expect the Bank of Korea may raise its policy rate in the second half of this year and advise investors to hold cash-like assets and diversify.",
-        "body": "Banking experts in Seoul said the Bank of Korea could raise its benchmark interest rate in the second half of this year. They advised investors to prepare for a rising-rate environment by securing cash-like assets and building diversified portfolios rather than concentrating on a single asset class. A rate increase could affect deposit and loan rates as well as broader investment decisions across asset markets, making liquidity management and portfolio reviews important. Experts emphasized stable fund management over excessive risk-taking amid possible market volatility. Source: yna.co.kr"
-      },
-      "ja": {
-        "title": "銀行業界、下半期の利上げを予想　現金確保と分散投資を助言",
-        "excerpt": "ソウルの銀行専門家は今年下半期に韓国銀行が政策金利を引き上げる可能性を見込み、現金性資産の確保と分散投資を助言した。",
-        "body": "ソウルの銀行業界専門家は、今年下半期に韓国銀行が基準金利を引き上げる可能性があると見通した。専門家らは、金利上昇局面に備え、投資家が現金性資産を確保し、特定資産に偏らない分散投資戦略を立てる必要があると助言した。利上げは預金・貸出金利や資産市場全般の投資判断に影響を及ぼす可能性があるため、流動性管理とポートフォリオ点検が重要だという。市場変動性に備え、無理な投資より安定的な資金運用を重視すべきだと強調した。出所: yna.co.kr"
-      },
-      "zh": {
-        "title": "韩国银行业预计下半年加息，建议持有现金并分散投资",
-        "excerpt": "首尔银行业专家预计韩国银行今年下半年可能上调基准利率，并建议投资者增加现金类资产、采取分散投资策略。",
-        "body": "首尔银行业专家预计，韩国银行今年下半年可能上调基准利率。他们建议投资者为利率上升环境做好准备， 확보现金类资产，并建立不集中于单一资产的分散投资策略。加息可能影响存款和贷款利率，也会影响资产市场整体的投资判断，因此流动性管理和投资组合检查变得重要。专家强调，在市场波动可能加大的情况下，应避免过度冒险，重视稳健的资金运用。来源: yna.co.kr"
-      },
-      "es": {
-        "title": "Bancos prevén alza de tasas en Corea y aconsejan efectivo y diversificación",
-        "excerpt": "Expertos bancarios en Seúl prevén que el Banco de Corea pueda subir la tasa de referencia en la segunda mitad del año y recomiendan liquidez y diversificación.",
-        "body": "Expertos del sector bancario en Seúl señalaron que el Banco de Corea podría elevar su tasa de referencia en la segunda mitad de este año. Recomendaron a los inversionistas prepararse para un entorno de tasas al alza mediante la 확보 de activos similares al efectivo y una estrategia de inversión diversificada, sin concentrarse en un solo activo. Una subida de tasas puede influir en las tasas de depósitos y préstamos, así como en las decisiones de inversión en los mercados de activos. Por ello, destacaron la importancia de gestionar la liquidez y revisar las carteras. Fuente: yna.co.kr"
-      },
-      "pt": {
-        "title": "Bancos veem alta de juros na Coreia e indicam caixa e diversificação",
-        "excerpt": "Especialistas bancários em Seul preveem que o Banco da Coreia possa elevar a taxa básica no segundo semestre e recomendam ativos líquidos e diversificação.",
-        "body": "Especialistas do setor bancário em Seul afirmaram que o Banco da Coreia pode elevar sua taxa básica de juros no segundo semestre deste ano. Eles aconselharam investidores a se preparar para um ambiente de juros mais altos mantendo ativos semelhantes a caixa e adotando uma estratégia de investimento diversificada, sem concentração em um único ativo. Uma alta de juros pode afetar taxas de depósitos e empréstimos, além das decisões de investimento nos mercados de ativos. Por isso, ressaltaram a importância da gestão de liquidez e da revisão de portfólios. Fonte: yna.co.kr"
-      },
-      "de": {
-        "title": "Banken erwarten Zinserhöhung in Korea und raten zu Cash und Streuung",
-        "excerpt": "Bankexperten in Seoul rechnen für die zweite Jahreshälfte mit einer möglichen Leitzinserhöhung der Bank of Korea und empfehlen liquide Mittel und Diversifikation.",
-        "body": "Bankexperten in Seoul gehen davon aus, dass die Bank of Korea ihren Leitzins in der zweiten Hälfte dieses Jahres anheben könnte. Sie rieten Anlegern, sich auf ein Umfeld steigender Zinsen vorzubereiten, indem sie cashnahe Vermögenswerte halten und ihre Anlagen breiter streuen, statt sich auf einzelne Anlageklassen zu konzentrieren. Eine Zinserhöhung kann Einlagen- und Kreditzinsen sowie Anlageentscheidungen an den Vermögensmärkten beeinflussen. Daher seien Liquiditätsmanagement und eine Überprüfung des Portfolios wichtig. Quelle: yna.co.kr"
-      },
-      "fr": {
-        "title": "Les banques coréennes anticipent une hausse des taux et prônent la diversification",
-        "excerpt": "Des experts bancaires à Séoul prévoient une possible hausse du taux directeur par la Banque de Corée au second semestre et conseillent liquidités et diversification.",
-        "body": "À Séoul, des experts du secteur bancaire estiment que la Banque de Corée pourrait relever son taux directeur au second semestre de cette année. Ils conseillent aux investisseurs de se préparer à une phase de hausse des taux en 확보ant des actifs assimilables à des liquidités et en privilégiant une stratégie de diversification, sans concentration excessive sur un seul actif. Une hausse des taux peut influencer les taux de dépôt et de prêt, ainsi que les décisions d’investissement sur les marchés d’actifs. La gestion de la liquidité et la révision des portefeuilles sont donc jugées importantes. Source: yna.co.kr"
-      },
-      "ar": {
-        "title": "مصارف كوريا تتوقع رفع الفائدة في النصف الثاني وتنصح بالنقد والتنويع",
-        "excerpt": "يتوقع خبراء مصرفيون في سيئول أن يرفع بنك كوريا سعر الفائدة الأساسي في النصف الثاني من العام، وينصحون بالاحتفاظ بأصول نقدية وتنويع الاستثمار.",
-        "body": "قال خبراء في القطاع المصرفي في سيئول إن بنك كوريا قد يرفع سعر الفائدة الأساسي في النصف الثاني من هذا العام. ونصحوا المستثمرين بالاستعداد لبيئة ارتفاع الفائدة عبر الاحتفاظ بأصول شبيهة بالنقد وبناء استراتيجية استثمار متنوعة لا تتركز في أصل واحد. وقد يؤثر رفع الفائدة في أسعار الودائع والقروض، وكذلك في قرارات الاستثمار في أسواق الأصول عموما، ما يجعل إدارة السيولة ومراجعة المحافظ أمرا مهما. وشدد الخبراء على إدارة الأموال باستقرار بدلا من المخاطرة المفرطة. المصدر: yna.co.kr"
-      },
-      "hi": {
-        "title": "कोरियाई बैंक विशेषज्ञों को दूसरी छमाही में दर वृद्धि की उम्मीद, नकदी और विविधीकरण की सलाह",
-        "excerpt": "सियोल के बैंकिंग विशेषज्ञों ने इस वर्ष की दूसरी छमाही में बैंक ऑफ कोरिया द्वारा नीतिगत दर बढ़ाने की संभावना जताई और नकदी जैसे एसेट व विविध निवेश की सलाह दी।",
-        "body": "सियोल में बैंकिंग विशेषज्ञों ने कहा कि बैंक ऑफ कोरिया इस वर्ष की दूसरी छमाही में अपनी बेंचमार्क ब्याज दर बढ़ा सकता है। उन्होंने निवेशकों को बढ़ती दरों के माहौल के लिए तैयार रहने, नकदी जैसे एसेट 확보 करने और किसी एक एसेट में अधिक केंद्रित होने के बजाय विविध निवेश रणनीति अपनाने की सलाह दी। दर वृद्धि जमा और ऋण दरों के साथ-साथ एसेट बाजारों में निवेश निर्णयों को प्रभावित कर सकती है। इसलिए तरलता प्रबंधन और पोर्टफोलियो की समीक्षा महत्वपूर्ण है। विशेषज्ञों ने बाजार उतार-चढ़ाव के बीच अत्यधिक जोखिम लेने के बजाय स्थिर धन प्रबंधन पर जोर दिया। स्रोत: yna.co.kr"
-      },
-      "id": {
-        "title": "Perbankan Korea Perkirakan Kenaikan Suku Bunga, Sarankan Kas dan Diversifikasi",
-        "excerpt": "Para pakar perbankan di Seoul memperkirakan Bank of Korea dapat menaikkan suku bunga acuan pada paruh kedua tahun ini dan menyarankan aset tunai serta diversifikasi.",
-        "body": "Para pakar perbankan di Seoul memperkirakan Bank of Korea dapat menaikkan suku bunga acuan pada paruh kedua tahun ini. Mereka menyarankan investor bersiap menghadapi fase kenaikan suku bunga dengan 확보 aset setara kas dan menyusun strategi investasi terdiversifikasi, bukan terpusat pada satu aset. Kenaikan suku bunga dapat memengaruhi bunga simpanan dan pinjaman serta keputusan investasi di pasar aset secara luas. Karena itu, pengelolaan likuiditas dan peninjauan portofolio dinilai penting. Para pakar menekankan pengelolaan dana yang stabil dibanding investasi berisiko berlebihan. Sumber: yna.co.kr"
-      }
-    }
-  },
-  {
-    "id": "725b185d0f5a",
-    "slug": "심상찮은-아파트-전세가올들어-매매가격-오름폭-크게-추월-515969",
-    "channelId": "ETF",
-    "category": "etf",
-    "publishedAt": "2026-05-10T21:37:45.804Z",
-    "updatedAt": "2026-05-10T21:37:45.804Z",
-    "sourceName": "yna.co.kr",
-    "sourceUrl": "https://www.yna.co.kr/view/AKR20260510042000003",
-    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260510042000003",
-    "titleFingerprint": "11f1f275d4548943b5fb368c9b2de9023f93ebe1",
-    "dedupKeys": [
-      "725b185d0f5a2bac8bb36a88f15522e79d754a06",
-      "11f1f275d4548943b5fb368c9b2de9023f93ebe1",
-      "c0a14f2e75335bd34cd69882bdcc5f39a2b96d29"
-    ],
-    "imageUrl": "/images/articles/725b185d0f5a.jpg",
-    "i18n": {
-      "ko": {
-        "title": "아파트 전세가격 상승률, 올해 매매가 상승폭 크게 앞질렀다",
-        "excerpt": "연합뉴스에 따르면 올해 들어 아파트 전세 물량 부족이 이어지며 수도권을 포함한 전국 아파트 전세가격 상승률이 매매가격 상승폭을 크게 웃돌고 있다.",
-        "body": "올해 들어 수도권을 포함한 전국 아파트 전세가격 상승률이 아파트 매매가격 상승폭을 크게 앞지른 것으로 전해졌다. 아파트 전세 물량 부족이 이어지면서 전세 수요가 가격을 밀어 올리는 흐름이 나타난 것이다. 매매가격도 오름세를 보이고 있지만, 전세가격 상승 속도가 더 두드러지며 시장의 부담이 커지고 있다. 전세 공급 부족이 계속될 경우 세입자의 주거비 부담과 시장 불안이 이어질 수 있다는 점에서 관련 흐름이 주목된다. 출처: yna.co.kr"
-      },
-      "en": {
-        "title": "Apartment Jeonse Prices Outpace Home Sale Gains This Year",
-        "excerpt": "According to Yonhap News, a shortage of apartment jeonse listings has continued this year, pushing nationwide jeonse price gains, including in the Seoul metro area, well above sale price increases.",
-        "body": "Apartment jeonse price growth across South Korea, including the Seoul metropolitan area, has reportedly far exceeded the rise in apartment sale prices so far this year. The trend comes as a shortage of apartment jeonse supply continues, allowing rental demand to push prices higher. Sale prices have also risen, but the pace of jeonse price growth has stood out more clearly, adding pressure to the housing market. If the shortage of jeonse listings persists, tenants may continue to face heavier housing-cost burdens and market unease could remain in focus. Source: yna.co.kr"
-      },
-      "ja": {
-        "title": "マンション全世価格、今年は売買価格の上昇幅を大きく上回る",
-        "excerpt": "聯合ニュースによると、今年に入りマンションの全世物件不足が続き、首都圏を含む全国の全世価格上昇率が売買価格の上昇幅を大きく上回っている。",
-        "body": "今年に入り、首都圏を含む韓国全国のマンション全世価格の上昇率が、マンション売買価格の上昇幅を大きく上回っていると伝えられた。マンション全世物件の不足が続き、全世需要が価格を押し上げる流れが表れているためだ。売買価格も上昇しているが、全世価格の上昇スピードがより目立ち、住宅市場の負担が増している。全世供給不足が続けば、入居者の住居費負担と市場不安が続く可能性があり、関連動向が注目される。出典: yna.co.kr"
-      },
-      "zh": {
-        "title": "公寓全租价格涨幅今年大幅超过买卖价格涨幅",
-        "excerpt": "据韩联社报道，今年以来公寓全租房源不足持续，包含首都圈在内的韩国全国公寓全租价格涨幅明显高于买卖价格涨幅。",
-        "body": "据报道，今年以来，包含首都圈在内的韩国全国公寓全租价格涨幅已大幅超过公寓买卖价格涨幅。由于公寓全租房源短缺持续，全租需求推高价格的走势正在显现。买卖价格也在上涨，但全租价格上涨速度更为突出，使住房市场负担加重。如果全租供应不足继续，租户住房成本压力和市场不安可能延续，相关走势因此受到关注。来源: yna.co.kr"
-      },
-      "es": {
-        "title": "El jeonse de apartamentos sube más que los precios de venta este año",
-        "excerpt": "Según Yonhap, la escasez de oferta de jeonse de apartamentos continúa este año y las subidas nacionales, incluida el área metropolitana de Seúl, superan ampliamente las de venta.",
-        "body": "El aumento de los precios del jeonse de apartamentos en Corea del Sur, incluida el área metropolitana de Seúl, ha superado ampliamente el alza de los precios de venta en lo que va de año. La causa señalada es la persistente escasez de oferta de apartamentos en jeonse, que permite que la demanda presione los precios al alza. Los precios de venta también han subido, pero el ritmo del jeonse destaca más y aumenta la carga sobre el mercado residencial. Si la falta de oferta continúa, los inquilinos podrían seguir enfrentando mayores costos de vivienda y la inquietud del mercado permanecería en foco. Fuente: yna.co.kr"
-      },
-      "pt": {
-        "title": "Jeonse de apartamentos sobe mais que preços de venda neste ano",
-        "excerpt": "Segundo a Yonhap, a falta de oferta de jeonse de apartamentos continua neste ano, e os aumentos nacionais, incluindo a região metropolitana de Seul, superam muito os preços de venda.",
-        "body": "O crescimento dos preços de jeonse de apartamentos na Coreia do Sul, incluindo a região metropolitana de Seul, teria superado amplamente a alta dos preços de venda até agora neste ano. A tendência ocorre enquanto persiste a escassez de imóveis disponíveis para jeonse, permitindo que a demanda pressione os preços para cima. Os preços de venda também avançaram, mas o ritmo de alta do jeonse se mostrou mais evidente, ampliando a pressão sobre o mercado habitacional. Se a falta de oferta continuar, os inquilinos podem manter uma carga maior de custos de moradia e a instabilidade do mercado seguirá em atenção. Fonte: yna.co.kr"
-      },
-      "de": {
-        "title": "Wohnungs-Jeonse steigt dieses Jahr stärker als Kaufpreise",
-        "excerpt": "Laut Yonhap hält der Mangel an Jeonse-Angeboten für Wohnungen an; landesweit, einschließlich des Großraums Seoul, liegen die Preiszuwächse deutlich über den Kaufpreisanstiegen.",
-        "body": "Die Jeonse-Preise für Wohnungen in Südkorea, einschließlich des Großraums Seoul, sind in diesem Jahr Berichten zufolge deutlich stärker gestiegen als die Kaufpreise für Wohnungen. Hintergrund ist der anhaltende Mangel an verfügbaren Jeonse-Wohnungen, durch den die Nachfrage die Preise nach oben treibt. Auch die Kaufpreise steigen, doch das Tempo der Jeonse-Preissteigerungen fällt klarer ins Gewicht und erhöht den Druck auf den Wohnungsmarkt. Sollte die Angebotsknappheit anhalten, könnten Mieter weiter höhere Wohnkosten tragen müssen, während die Marktunsicherheit im Blick bleibt. Quelle: yna.co.kr"
-      },
-      "fr": {
-        "title": "Le jeonse des appartements progresse plus vite que les prix de vente",
-        "excerpt": "Selon Yonhap, la pénurie d’offres de jeonse pour appartements se poursuit cette année, et les hausses nationales, y compris dans la région de Séoul, dépassent largement les prix de vente.",
-        "body": "Depuis le début de l’année, la hausse des prix du jeonse des appartements en Corée du Sud, y compris dans la région métropolitaine de Séoul, aurait largement dépassé celle des prix de vente. Cette évolution s’explique par la pénurie persistante d’offres de jeonse, qui permet à la demande de pousser les prix vers le haut. Les prix de vente augmentent aussi, mais le rythme du jeonse apparaît plus marqué et accroît la pression sur le marché du logement. Si le manque d’offre se poursuit, les locataires pourraient continuer à supporter des coûts de logement plus élevés et l’incertitude du marché resterait surveillée. Source: yna.co.kr"
-      },
-      "ar": {
-        "title": "ارتفاع أسعار جونسي الشقق يتجاوز مكاسب البيع هذا العام",
-        "excerpt": "بحسب يونهاب، استمر نقص معروض جونسي الشقق هذا العام، ما جعل ارتفاع الأسعار على مستوى كوريا، بما في ذلك منطقة العاصمة، يتجاوز بوضوح زيادات أسعار البيع.",
-        "body": "أفادت التقارير بأن معدل ارتفاع أسعار جونسي الشقق في كوريا الجنوبية، بما في ذلك منطقة العاصمة، تجاوز بشكل كبير زيادة أسعار بيع الشقق منذ بداية هذا العام. ويأتي ذلك مع استمرار نقص معروض الشقق بنظام جونسي، ما سمح للطلب بدفع الأسعار إلى أعلى. ورغم أن أسعار البيع ارتفعت أيضا، فإن وتيرة ارتفاع أسعار جونسي تبدو أوضح، مما يزيد الضغط على سوق السكن. وإذا استمر نقص المعروض، فقد يواصل المستأجرون تحمل أعباء أعلى لتكاليف السكن، مع بقاء اضطراب السوق محل متابعة. المصدر: yna.co.kr"
-      },
-      "hi": {
-        "title": "अपार्टमेंट जोंसे कीमतें इस साल बिक्री मूल्य बढ़त से आगे निकलीं",
-        "excerpt": "योनहाप के अनुसार, इस साल अपार्टमेंट जोंसे की कमी जारी है, जिससे सियोल महानगरीय क्षेत्र सहित देशभर में जोंसे मूल्य वृद्धि बिक्री कीमतों से काफी अधिक रही है।",
-        "body": "इस साल अब तक दक्षिण कोरिया में, सियोल महानगरीय क्षेत्र सहित, अपार्टमेंट जोंसे कीमतों की वृद्धि अपार्टमेंट बिक्री कीमतों की बढ़त से काफी आगे निकल गई है। इसकी वजह अपार्टमेंट जोंसे उपलब्धता की लगातार कमी बताई गई है, जिससे मांग कीमतों को ऊपर धकेल रही है। बिक्री कीमतें भी बढ़ रही हैं, लेकिन जोंसे कीमतों की रफ्तार अधिक स्पष्ट है और आवास बाजार पर दबाव बढ़ा रही है। यदि जोंसे आपूर्ति की कमी जारी रहती है, तो किरायेदारों पर आवास लागत का बोझ और बाजार की अस्थिरता ध्यान में बनी रह सकती है। स्रोत: yna.co.kr"
-      },
-      "id": {
-        "title": "Harga Jeonse Apartemen Tahun Ini Jauh Lampaui Kenaikan Harga Jual",
-        "excerpt": "Menurut Yonhap, kekurangan pasokan jeonse apartemen berlanjut tahun ini, membuat kenaikan harga nasional, termasuk wilayah metropolitan Seoul, jauh melampaui harga jual.",
-        "body": "Kenaikan harga jeonse apartemen di Korea Selatan, termasuk wilayah metropolitan Seoul, dilaporkan jauh melampaui kenaikan harga jual apartemen sepanjang tahun ini. Tren ini terjadi karena pasokan apartemen untuk jeonse masih terbatas, sehingga permintaan mendorong harga naik. Harga jual juga meningkat, tetapi laju kenaikan harga jeonse lebih menonjol dan menambah tekanan pada pasar perumahan. Jika kekurangan pasokan jeonse terus berlanjut, beban biaya hunian bagi penyewa dan keresahan pasar dapat tetap menjadi perhatian. Sumber: yna.co.kr"
-      }
-    }
-  },
-  {
-    "id": "4f31e60a0898",
-    "slug": "게시판-한경협-19일-고용유연성-제고방향-세미나-개최-717799",
-    "channelId": "ETF",
-    "category": "etf",
-    "publishedAt": "2026-05-10T21:36:48.968Z",
-    "updatedAt": "2026-05-10T21:36:48.968Z",
-    "sourceName": "yna.co.kr",
-    "sourceUrl": "https://www.yna.co.kr/view/AKR20260510043100003",
-    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260510043100003",
-    "titleFingerprint": "b76b49281a865c4c5901df0ea756d72e7e450f9b",
-    "dedupKeys": [
-      "4f31e60a0898d4ea0f79697d370daad926e5abf9",
-      "b76b49281a865c4c5901df0ea756d72e7e450f9b",
-      "e1ab84d9e2969785e74d8af09a604a21fe9ddb2c"
-    ],
-    "imageUrl": "/images/articles/4f31e60a0898.jpg",
-    "i18n": {
-      "ko": {
-        "title": "한경협, 19일 고용유연성 제고 세미나 개최…고용안전망 논의",
-        "excerpt": "한국경제인협회가 19일 오후 2시 서울 여의도 FKI타워 컨퍼런스센터에서 고용유연성 제고와 고용안전망 확충을 주제로 노동시장 관련 세미나를 연다.",
-        "body": "한국경제인협회(한경협)는 오는 19일 오후 2시 서울 여의도 FKI타워 컨퍼런스센터에서 ‘고용유연성 제고 및 고용안전망 확충을 위한 노동시장’ 관련 세미나를 개최한다. 이번 행사는 고용유연성 제고 방향과 고용안전망 확충 방안을 함께 논의하는 자리로 마련됐다. 한경협은 노동시장 현안을 다루는 공개 세미나 형식으로 관련 논의를 진행할 예정이다. 행사 장소는 여의도 FKI타워 컨퍼런스센터이며, 일정은 19일 오후 2시로 공지됐다. 출처: yna.co.kr"
-      },
-      "en": {
-        "title": "FKI to Host May 19 Seminar on Employment Flexibility and Safety Nets",
-        "excerpt": "The Korea Economic Association will hold a labor market seminar at 2 p.m. on May 19 at the FKI Tower Conference Center in Yeouido, Seoul, focusing on employment flexibility and job safety nets.",
-        "body": "The Korea Economic Association, known as FKI, will hold a seminar at 2 p.m. on May 19 at the FKI Tower Conference Center in Yeouido, Seoul, on labor market issues related to improving employment flexibility and expanding employment safety nets. The event is designed as a venue to discuss directions for greater employment flexibility alongside measures to strengthen job safety protections. FKI said the discussion will be held in the form of a public seminar on labor market issues. The announced venue is the FKI Tower Conference Center in Yeouido, and the schedule is 2 p.m. on May 19. Source: yna.co.kr"
-      },
-      "ja": {
-        "title": "韓経協、19日に雇用柔軟性向上セミナー開催へ…安全網も議論",
-        "excerpt": "韓国経済人協会は19日午後2時、ソウル汝矣島のFKIタワー・カンファレンスセンターで、雇用柔軟性の向上と雇用安全網の拡充をテーマにセミナーを開く。",
-        "body": "韓国経済人協会（韓経協）は19日午後2時、ソウル汝矣島のFKIタワー・カンファレンスセンターで、雇用柔軟性の向上と雇用安全網の拡充に向けた労働市場関連セミナーを開催する。今回の行事は、雇用柔軟性を高める方向性と雇用安全網を広げる方策をあわせて議論する場として設けられた。韓経協は労働市場の懸案を扱う公開セミナー形式で議論を進める予定だ。会場は汝矣島のFKIタワー・カンファレンスセンターで、日程は19日午後2時と告知された。出典: yna.co.kr"
-      },
-      "zh": {
-        "title": "韩国经济人协会19日办就业灵活性研讨会 聚焦安全网扩充",
-        "excerpt": "韩国经济人协会将于19日下午2时在首尔汝矣岛FKI大厦会议中心举行劳动市场研讨会，讨论提高就业灵活性和扩充就业安全网。",
-        "body": "韩国经济人协会（韩经协）将于19日下午2时在首尔汝矣岛FKI大厦会议中心举行有关劳动市场的研讨会，主题涉及提高就业灵活性以及扩充就业安全网。此次活动旨在同时讨论提升就业灵活性的方向和加强就业安全保障的方案。韩经协计划以公开研讨会形式，就劳动市场相关议题展开讨论。活动地点为汝矣岛FKI大厦会议中心，时间已公布为19日下午2时。来源: yna.co.kr"
-      },
-      "es": {
-        "title": "FKI celebrará el 19 de mayo un seminario sobre flexibilidad laboral",
-        "excerpt": "La Asociación Económica de Corea celebrará el 19 de mayo a las 14:00 en el FKI Tower Conference Center de Yeouido, Seúl, un seminario sobre flexibilidad laboral y redes de seguridad del empleo.",
-        "body": "La Asociación Económica de Corea, conocida como FKI, celebrará el 19 de mayo a las 14:00 un seminario en el FKI Tower Conference Center de Yeouido, Seúl, sobre asuntos del mercado laboral vinculados con la mejora de la flexibilidad del empleo y la ampliación de las redes de seguridad laboral. El encuentro fue preparado como un espacio para debatir tanto la dirección de la flexibilidad laboral como las medidas para reforzar la protección del empleo. FKI prevé desarrollar la discusión en formato de seminario público sobre temas del mercado laboral. La sede anunciada es el FKI Tower Conference Center y el horario es el 19 de mayo a las 14:00. Fuente: yna.co.kr"
-      },
-      "pt": {
-        "title": "FKI fará em 19 de maio seminário sobre flexibilidade no emprego",
-        "excerpt": "A Associação Econômica da Coreia realizará em 19 de maio, às 14h, no FKI Tower Conference Center em Yeouido, Seul, um seminário sobre flexibilidade do emprego e redes de proteção laboral.",
-        "body": "A Associação Econômica da Coreia, conhecida como FKI, realizará em 19 de maio, às 14h, no FKI Tower Conference Center em Yeouido, Seul, um seminário sobre questões do mercado de trabalho ligadas ao aumento da flexibilidade do emprego e à ampliação das redes de proteção laboral. O evento foi organizado como um espaço para discutir a direção da flexibilidade no emprego e medidas para fortalecer a segurança do trabalho. A FKI prevê conduzir o debate em formato de seminário público sobre temas do mercado laboral. O local anunciado é o FKI Tower Conference Center, e a data é 19 de maio, às 14h. Fonte: yna.co.kr"
-      },
-      "de": {
-        "title": "FKI veranstaltet am 19. Mai Seminar zu mehr Beschäftigungsflexibilität",
-        "excerpt": "Der koreanische Wirtschaftsverband FKI hält am 19. Mai um 14 Uhr im FKI Tower Conference Center in Yeouido, Seoul, ein Seminar zu Beschäftigungsflexibilität und zum Ausbau von Sicherheitsnetzen ab.",
-        "body": "Der koreanische Wirtschaftsverband FKI veranstaltet am 19. Mai um 14 Uhr im FKI Tower Conference Center in Yeouido, Seoul, ein Seminar zu arbeitsmarktbezogenen Fragen der besseren Beschäftigungsflexibilität und des Ausbaus von Beschäftigungssicherheitsnetzen. Die Veranstaltung ist als Forum angelegt, in dem sowohl die Richtung für mehr Flexibilität am Arbeitsmarkt als auch Maßnahmen zur Stärkung der Absicherung von Beschäftigten erörtert werden. FKI will die Diskussion im Format eines öffentlichen Seminars zu Arbeitsmarktthemen führen. Als Ort wurde das FKI Tower Conference Center genannt, der Termin ist der 19. Mai um 14 Uhr. Quelle: yna.co.kr"
-      },
-      "fr": {
-        "title": "FKI tiendra le 19 mai un séminaire sur la flexibilité de l’emploi",
-        "excerpt": "L’Association économique de Corée organisera le 19 mai à 14 h, au FKI Tower Conference Center de Yeouido à Séoul, un séminaire sur la flexibilité de l’emploi et les filets de sécurité.",
-        "body": "L’Association économique de Corée, connue sous le nom de FKI, organisera le 19 mai à 14 h au FKI Tower Conference Center de Yeouido, à Séoul, un séminaire consacré aux questions du marché du travail liées à l’amélioration de la flexibilité de l’emploi et à l’élargissement des filets de sécurité de l’emploi. L’événement est conçu comme un lieu de discussion sur les orientations de la flexibilité de l’emploi et les moyens de renforcer la protection des travailleurs. FKI prévoit de mener ces échanges sous forme de séminaire public sur les enjeux du marché du travail. Le lieu annoncé est le FKI Tower Conference Center, et l’horaire est fixé au 19 mai à 14 h. Source: yna.co.kr"
-      },
-      "ar": {
-        "title": "اتحاد الصناعات الكوري يعقد ندوة في 19 مايو حول مرونة التوظيف",
-        "excerpt": "يعقد اتحاد الصناعات الكوري في 19 مايو الساعة 2 ظهرا في مركز مؤتمرات برج FKI في يويدو بسيول ندوة عن تعزيز مرونة التوظيف وتوسيع شبكة أمان العمل.",
-        "body": "يعقد اتحاد الصناعات الكوري، المعروف باسم FKI، في 19 مايو الساعة 2 بعد الظهر ندوة في مركز مؤتمرات برج FKI في يويدو بسيول حول قضايا سوق العمل المرتبطة بتعزيز مرونة التوظيف وتوسيع شبكة أمان العمل. وتهدف الفعالية إلى توفير مساحة لمناقشة اتجاهات تحسين مرونة التوظيف إلى جانب سبل توسيع الحماية المرتبطة بالعمل. ومن المقرر أن تجري المناقشات بصيغة ندوة عامة تتناول قضايا سوق العمل. وقد أُعلن أن المكان هو مركز مؤتمرات برج FKI في يويدو، وأن الموعد هو 19 مايو الساعة 2 بعد الظهر. المصدر: yna.co.kr"
-      },
-      "hi": {
-        "title": "FKI 19 मई को रोजगार लचीलापन और सुरक्षा जाल पर सेमिनार करेगा",
-        "excerpt": "कोरिया इकोनॉमिक एसोसिएशन 19 मई को दोपहर 2 बजे सियोल के येओइदो स्थित FKI टावर कॉन्फ्रेंस सेंटर में रोजगार लचीलापन और रोजगार सुरक्षा जाल पर श्रम बाजार सेमिनार आयोजित करेगा।",
-        "body": "कोरिया इकोनॉमिक एसोसिएशन, जिसे FKI के नाम से जाना जाता है, 19 मई को दोपहर 2 बजे सियोल के येओइदो स्थित FKI टावर कॉन्फ्रेंस सेंटर में श्रम बाजार से जुड़ा सेमिनार आयोजित करेगा। इसका विषय रोजगार लचीलापन बढ़ाने और रोजगार सुरक्षा जाल का विस्तार करने से संबंधित है। यह कार्यक्रम रोजगार लचीलेपन की दिशा और रोजगार सुरक्षा को मजबूत करने के उपायों पर साथ-साथ चर्चा के लिए तैयार किया गया है। FKI श्रम बाजार के मुद्दों पर सार्वजनिक सेमिनार के रूप में चर्चा आगे बढ़ाएगा। घोषित स्थान येओइदो का FKI टावर कॉन्फ्रेंस सेंटर है और समय 19 मई दोपहर 2 बजे है। स्रोत: yna.co.kr"
-      },
-      "id": {
-        "title": "FKI Gelar Seminar Fleksibilitas Kerja pada 19 Mei di Seoul",
-        "excerpt": "Asosiasi Ekonomi Korea akan menggelar seminar pasar tenaga kerja pada 19 Mei pukul 14.00 di FKI Tower Conference Center, Yeouido, Seoul, tentang fleksibilitas kerja dan jaring pengaman ketenagakerjaan.",
-        "body": "Asosiasi Ekonomi Korea, atau FKI, akan menggelar seminar pada 19 Mei pukul 14.00 di FKI Tower Conference Center, Yeouido, Seoul, mengenai isu pasar tenaga kerja yang terkait dengan peningkatan fleksibilitas kerja dan perluasan jaring pengaman ketenagakerjaan. Acara ini disiapkan sebagai forum untuk membahas arah peningkatan fleksibilitas kerja sekaligus langkah memperkuat perlindungan ketenagakerjaan. FKI berencana menjalankan pembahasan dalam format seminar publik tentang isu pasar tenaga kerja. Lokasi yang diumumkan adalah FKI Tower Conference Center di Yeouido, dengan jadwal 19 Mei pukul 14.00. Sumber: yna.co.kr"
       }
     }
   }
