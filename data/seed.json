@@ -1,5 +1,230 @@
 [
   {
+    "id": "8db65a526d9a",
+    "slug": "mk시그널-아파치-매도신호-포착-수익률-456-달성-272785",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-05-12T01:58:38.953Z",
+    "updatedAt": "2026-05-12T01:58:38.953Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/stock/12044367",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12044367",
+    "titleFingerprint": "07a627986fa1e6c6b8587ff8932945bc04bc9c79",
+    "dedupKeys": [
+      "8db65a526d9afad403a2591029f9788c52bed835",
+      "07a627986fa1e6c6b8587ff8932945bc04bc9c79",
+      "91d2d4258a56acd01bf42256e545fef3623e549e"
+    ],
+    "imageUrl": "/images/articles/8db65a526d9a.jpg",
+    "i18n": {
+      "ko": {
+        "title": "아파치 APA 매도신호 포착, MK시그널 수익률 45.68% 달성",
+        "excerpt": "AI 기자 MK시그널은 11일 미국 주식 핫 이슈 종목 아파치(APA)에서 매도 신호가 포착됐으며 해당 신호 기준 수익률이 45.68%를 기록했다고 전했다.",
+        "body": "AI 기자 ‘MK시그널’은 11일 미국 주식 핫 이슈 종목으로 분석해온 아파치(APA)에서 매도 신호가 포착됐다고 밝혔다. 이번 신호는 MK시그널의 종목 분석 과정에서 확인됐으며, 해당 기준 수익률은 45.68%로 제시됐다. 원문은 아파치가 MK시그널에서 매도 신호를 보였고 수익률 45.68%를 달성했다는 내용을 중심으로 전했다. 이번 정보는 미국 주식 관심 종목을 점검하는 투자자들이 신호 변화와 수익률 수치를 함께 확인할 수 있는 자료다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Apache APA Sell Signal Detected as MK Signal Reports 45.68% Return",
+        "excerpt": "AI reporter MK Signal said on the 11th that a sell signal was detected for Apache (APA), a hot U.S. stock issue, with the signal-based return reaching 45.68%.",
+        "body": "AI reporter “MK Signal” said on the 11th that a sell signal was detected in Apache (APA), a U.S. stock it had been analyzing as a hot issue. The signal was identified through MK Signal’s stock analysis process, and the return based on that signal was presented as 45.68%. The original report focused on Apache showing a sell signal on MK Signal and achieving a 45.68% return. The information gives investors following U.S. stock watch names a way to check both the change in signal and the related return figure. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "アパッチAPAに売りシグナル、MKシグナル収益率45.68%達成",
+        "excerpt": "AI記者「MKシグナル」は11日、米国株の注目銘柄アパッチ（APA）で売りシグナルを確認し、同シグナル基準の収益率が45.68%に達したと伝えた。",
+        "body": "AI記者「MKシグナル」は11日、米国株の注目銘柄として分析してきたアパッチ（APA）で売りシグナルが確認されたと明らかにした。今回のシグナルはMKシグナルの銘柄分析過程で把握されたもので、同基準の収益率は45.68%と提示された。原文は、アパッチがMKシグナルで売りシグナルを示し、収益率45.68%を達成したという内容を中心に伝えている。この情報は、米国株の関心銘柄を点検する投資家がシグナル変化と収益率の数値をあわせて確認できる材料となる。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "Apache APA出现卖出信号，MK Signal收益率达45.68%",
+        "excerpt": "AI记者“MK Signal”11日表示，美国股票热门关注标的Apache（APA）出现卖出信号，按该信号计算的收益率达到45.68%。",
+        "body": "AI记者“MK Signal”11日表示，其作为美国股票热门关注标的分析的Apache（APA）出现卖出信号。该信号是在MK Signal的个股分析过程中确认的，按相关标准计算的收益率为45.68%。原文主要报道称，Apache在MK Signal中显示卖出信号，并实现45.68%的收益率。对于关注美国股票相关标的的投资者而言，这一信息可用于同时查看信号变化和收益率数据。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Apache APA activa señal de venta y MK Signal informa retorno de 45,68%",
+        "excerpt": "El reportero de IA MK Signal informó el día 11 que Apache (APA), acción destacada de EE. UU., registró una señal de venta y un retorno basado en esa señal de 45,68%.",
+        "body": "El reportero de IA “MK Signal” informó el día 11 que se detectó una señal de venta en Apache (APA), una acción estadounidense que venía analizando como tema destacado. La señal fue confirmada dentro del proceso de análisis de valores de MK Signal, y el retorno correspondiente se presentó en 45,68%. El texto original se centró en que Apache mostró una señal de venta en MK Signal y alcanzó un retorno de 45,68%. Esta información permite a los inversores que siguen acciones estadounidenses de interés revisar tanto el cambio de señal como la cifra de retorno. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Apache APA tem sinal de venda e MK Signal aponta retorno de 45,68%",
+        "excerpt": "O repórter de IA MK Signal informou no dia 11 que a Apache (APA), ação em destaque nos EUA, teve sinal de venda detectado e retorno baseado no sinal de 45,68%.",
+        "body": "O repórter de IA “MK Signal” informou no dia 11 que foi detectado um sinal de venda em Apache (APA), ação dos EUA analisada como tema de destaque. O sinal foi identificado no processo de análise de ações do MK Signal, e o retorno com base nesse critério foi apresentado em 45,68%. A reportagem original destacou que Apache mostrou sinal de venda no MK Signal e alcançou retorno de 45,68%. A informação permite que investidores que acompanham ações norte-americanas de interesse verifiquem tanto a mudança de sinal quanto o número de retorno. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Apache APA mit Verkaufssignal, MK Signal meldet 45,68% Rendite",
+        "excerpt": "Der KI-Reporter MK Signal teilte am 11. mit, dass bei Apache (APA), einem viel beachteten US-Aktienwert, ein Verkaufssignal erkannt wurde und die Rendite 45,68% erreichte.",
+        "body": "Der KI-Reporter „MK Signal“ teilte am 11. mit, dass bei Apache (APA), einer als heißes US-Aktienthema analysierten Aktie, ein Verkaufssignal erkannt wurde. Das Signal wurde im Rahmen des Aktienanalyseprozesses von MK Signal festgestellt, die entsprechende Rendite wurde mit 45,68% angegeben. Der Originalbericht konzentrierte sich darauf, dass Apache bei MK Signal ein Verkaufssignal zeigte und eine Rendite von 45,68% erzielte. Für Anleger, die US-Aktien auf ihrer Beobachtungsliste prüfen, bietet diese Information sowohl den Signalwechsel als auch die Renditekennzahl. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Apache APA déclenche un signal de vente, MK Signal indique 45,68% de rendement",
+        "excerpt": "Le reporter IA MK Signal a indiqué le 11 qu’un signal de vente avait été détecté sur Apache (APA), valeur américaine suivie de près, avec un rendement de 45,68%.",
+        "body": "Le reporter IA « MK Signal » a indiqué le 11 qu’un signal de vente avait été détecté sur Apache (APA), une action américaine analysée comme valeur d’actualité. Ce signal a été confirmé dans le cadre du processus d’analyse de titres de MK Signal, avec un rendement présenté à 45,68%. L’article original indiquait principalement qu’Apache avait affiché un signal de vente sur MK Signal et atteint un rendement de 45,68%. Cette information permet aux investisseurs qui surveillent des actions américaines d’intérêt de consulter à la fois l’évolution du signal et le chiffre de rendement. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "إشارة بيع على Apache APA وMK Signal يعلن عائدا قدره 45.68%",
+        "excerpt": "قال المراسل المدعوم بالذكاء الاصطناعي MK Signal في اليوم 11 إن سهم Apache (APA)، من الأسهم الأميركية محل الاهتمام، سجل إشارة بيع بعائد بلغ 45.68%.",
+        "body": "قال المراسل المدعوم بالذكاء الاصطناعي «MK Signal» في اليوم 11 إن إشارة بيع رُصدت على سهم Apache (APA)، الذي كان يجري تحليله ضمن الأسهم الأميركية ذات الاهتمام. وتم تحديد الإشارة خلال عملية تحليل الأسهم لدى MK Signal، مع عرض العائد المرتبط بها عند 45.68%. وركز النص الأصلي على أن Apache أظهر إشارة بيع في MK Signal وحقق عائدا قدره 45.68%. تتيح هذه المعلومة للمستثمرين المتابعين للأسهم الأميركية محل الاهتمام مراجعة تغير الإشارة ورقم العائد معا. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "Apache APA में बिकवाली संकेत, MK Signal ने 45.68% रिटर्न बताया",
+        "excerpt": "AI रिपोर्टर MK Signal ने 11 तारीख को बताया कि अमेरिकी शेयर Apache (APA) में बिकवाली संकेत मिला और इस संकेत के आधार पर रिटर्न 45.68% दर्ज हुआ।",
+        "body": "AI रिपोर्टर “MK Signal” ने 11 तारीख को बताया कि अमेरिकी शेयरों के प्रमुख चर्चित नाम के रूप में विश्लेषित Apache (APA) में बिकवाली संकेत मिला है। यह संकेत MK Signal की शेयर विश्लेषण प्रक्रिया में पहचाना गया, और संबंधित आधार पर रिटर्न 45.68% बताया गया। मूल रिपोर्ट का मुख्य बिंदु यह था कि Apache ने MK Signal पर बिकवाली संकेत दिखाया और 45.68% रिटर्न हासिल किया। यह जानकारी उन निवेशकों के लिए उपयोगी है जो अमेरिकी शेयरों में रुचि रखते हैं और संकेत में बदलाव के साथ रिटर्न का आंकड़ा भी देखना चाहते हैं। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Apache APA Terdeteksi Sinyal Jual, MK Signal Catat Imbal Hasil 45,68%",
+        "excerpt": "Reporter AI MK Signal pada tanggal 11 menyebut Apache (APA), saham AS yang menjadi sorotan, terdeteksi memiliki sinyal jual dengan imbal hasil berbasis sinyal 45,68%.",
+        "body": "Reporter AI “MK Signal” pada tanggal 11 menyatakan bahwa sinyal jual terdeteksi pada Apache (APA), saham AS yang dianalisis sebagai isu panas. Sinyal tersebut dikonfirmasi dalam proses analisis saham MK Signal, dengan imbal hasil berdasarkan kriteria itu disajikan sebesar 45,68%. Laporan asli berfokus pada Apache yang menunjukkan sinyal jual di MK Signal dan mencapai imbal hasil 45,68%. Informasi ini dapat menjadi bahan bagi investor yang memantau saham AS untuk melihat perubahan sinyal sekaligus angka imbal hasilnya. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "c9d3074e2b24",
+    "slug": "비보존-vvz-2471-대상포진후-신경통-국내-임상-2상-최종-대상자-투여-완료-434592",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-05-12T01:57:48.930Z",
+    "updatedAt": "2026-05-12T01:57:48.930Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/stock/12044370",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12044370",
+    "titleFingerprint": "d73de0cf792c5d125a706dca121ede6e536f4f60",
+    "dedupKeys": [
+      "c9d3074e2b24e853d4d5b38ab20790c347bc4ff1",
+      "d73de0cf792c5d125a706dca121ede6e536f4f60",
+      "1581ec9b3fd839932462e1c6be19080179d6d9c6"
+    ],
+    "imageUrl": "/images/articles/c9d3074e2b24.png",
+    "i18n": {
+      "ko": {
+        "title": "비보존 VVZ-2471, 대상포진후 신경통 임상 2상 최종 투여 완료…비마약성 진통제 개발 주목",
+        "excerpt": "비보존제약 관계사 비보존은 12일 경구용 비마약성 진통제 후보물질 VVZ-2471의 대상포진후 신경통 국내 임상 2상에서 최종 대상자 투여를 완료했다고 밝혔다.",
+        "body": "비보존제약 관계사 비보존이 12일 경구용 비마약성 진통제 후보물질 ‘VVZ-2471’의 대상포진후 신경통(PHN) 환자 대상 국내 임상 2상에서 최종 대상자에 대한 투여를 완료했다고 밝혔다. 이번 임상은 PHN 환자를 대상으로 VVZ-2471을 평가하는 국내 2상 시험이다. 대상포진후 신경통은 대상포진 이후 지속되는 신경병증성 통증으로 알려져 있으며, 회사는 비마약성 경구 진통제 후보물질 개발을 진행해 왔다. 최종 대상자 투여 완료는 해당 임상 단계의 주요 절차가 마무리됐다는 의미로, 향후 결과 확인 과정이 주목된다. 출처: mk.co.kr."
+      },
+      "en": {
+        "title": "Vivozon Completes Final Dosing in Korean Phase 2 Trial of VVZ-2471 for Postherpetic Neuralgia",
+        "excerpt": "Vivozon, an affiliate of Vivozon Pharmaceutical, said on the 12th it completed final subject dosing in a Korean Phase 2 trial of oral non-opioid analgesic candidate VVZ-2471 for PHN.",
+        "body": "Vivozon, an affiliate of Vivozon Pharmaceutical, said on the 12th that it completed dosing for the final subject in a Korean Phase 2 clinical trial of its oral non-opioid analgesic candidate, VVZ-2471, in patients with postherpetic neuralgia (PHN). The domestic Phase 2 study is evaluating VVZ-2471 in PHN patients. Postherpetic neuralgia is known as neuropathic pain that persists after shingles, and the company has been developing the candidate as an oral non-opioid pain treatment. Completion of final subject dosing means a key procedure in this clinical stage has been finished, with attention now turning to the process of confirming results. Source: mk.co.kr."
+      },
+      "ja": {
+        "title": "VivozonのVVZ-2471、帯状疱疹後神経痛の韓国第2相で最終投与完了",
+        "excerpt": "Vivozon Pharmaceuticalの関係会社Vivozonは12日、経口非麻薬性鎮痛薬候補VVZ-2471について、帯状疱疹後神経痛患者を対象とする韓国第2相で最終被験者への投与を完了したと明らかにした。",
+        "body": "Vivozon Pharmaceuticalの関係会社Vivozonは12日、経口非麻薬性鎮痛薬候補物質「VVZ-2471」について、帯状疱疹後神経痛（PHN）患者を対象とする韓国国内第2相臨床試験で、最終被験者への投与を完了したと発表した。今回の試験はPHN患者を対象にVVZ-2471を評価する国内第2相試験だ。帯状疱疹後神経痛は、帯状疱疹後に持続する神経障害性疼痛として知られており、同社は経口非麻薬性鎮痛薬候補の開発を進めてきた。最終被験者への投与完了は、この臨床段階の主要手続きが終わったことを意味し、今後の結果確認過程が注目される。出典: mk.co.kr."
+      },
+      "zh": {
+        "title": "Vivozon的VVZ-2471完成韩国PHN二期临床最后受试者给药",
+        "excerpt": "Vivozon Pharmaceutical关联公司Vivozon于12日表示，口服非阿片类镇痛候选药VVZ-2471在韩国针对带状疱疹后神经痛患者的二期临床中完成最后受试者给药。",
+        "body": "Vivozon Pharmaceutical关联公司Vivozon于12日表示，口服非阿片类镇痛候选物“VVZ-2471”在韩国针对带状疱疹后神经痛（PHN）患者的二期临床试验中，已完成对最后一名受试者的给药。本次临床是在韩国国内评估VVZ-2471用于PHN患者的二期研究。带状疱疹后神经痛被认为是带状疱疹后持续存在的神经病理性疼痛，公司一直推进该口服非阿片类镇痛候选物的开发。最后受试者给药完成意味着该临床阶段的主要程序已经结束，后续结果确认过程将受到关注。来源: mk.co.kr."
+      },
+      "es": {
+        "title": "Vivozon completa la dosificación final de VVZ-2471 en fase 2 coreana para neuralgia posherpética",
+        "excerpt": "Vivozon, afiliada de Vivozon Pharmaceutical, informó el día 12 que completó la dosificación del último sujeto en el ensayo clínico fase 2 en Corea de VVZ-2471 para pacientes con PHN.",
+        "body": "Vivozon, afiliada de Vivozon Pharmaceutical, informó el día 12 que completó la administración al último sujeto en un ensayo clínico fase 2 en Corea de su candidato analgésico oral no opioide, “VVZ-2471”, en pacientes con neuralgia posherpética (PHN). Este estudio nacional de fase 2 evalúa VVZ-2471 en pacientes con PHN. La neuralgia posherpética se conoce como dolor neuropático persistente después del herpes zóster, y la compañía ha venido desarrollando este candidato como analgésico oral no opioide. La finalización de la dosificación del último sujeto significa que se ha completado un procedimiento clave de esta etapa clínica, por lo que la atención se dirige ahora al proceso de confirmación de resultados. Fuente: mk.co.kr."
+      },
+      "pt": {
+        "title": "Vivozon conclui dose final de VVZ-2471 em fase 2 coreana para neuralgia pós-herpética",
+        "excerpt": "A Vivozon, afiliada da Vivozon Pharmaceutical, informou no dia 12 que concluiu a administração ao último participante no estudo clínico fase 2 na Coreia de VVZ-2471 para PHN.",
+        "body": "A Vivozon, afiliada da Vivozon Pharmaceutical, informou no dia 12 que concluiu a administração ao último participante em um estudo clínico fase 2 na Coreia de seu candidato analgésico oral não opioide, “VVZ-2471”, em pacientes com neuralgia pós-herpética (PHN). O estudo doméstico de fase 2 avalia o VVZ-2471 em pacientes com PHN. A neuralgia pós-herpética é conhecida como dor neuropática persistente após o herpes-zóster, e a empresa vinha desenvolvendo o candidato como analgésico oral não opioide. A conclusão da dose no último participante significa que um procedimento importante desta etapa clínica foi finalizado, com atenção agora voltada ao processo de confirmação dos resultados. Fonte: mk.co.kr."
+      },
+      "de": {
+        "title": "Vivozon schließt letzte Dosierung von VVZ-2471 in koreanischer Phase-2-Studie zu PHN ab",
+        "excerpt": "Vivozon, ein verbundenes Unternehmen von Vivozon Pharmaceutical, teilte am 12. mit, dass in der koreanischen Phase-2-Studie zum oralen nicht-opioiden Schmerzmittelkandidaten VVZ-2471 bei PHN die letzte Probandengabe abgeschlossen wurde.",
+        "body": "Vivozon, ein verbundenes Unternehmen von Vivozon Pharmaceutical, teilte am 12. mit, dass die Verabreichung an den letzten Probanden in einer koreanischen Phase-2-Studie des oralen nicht-opioiden Schmerzmittelkandidaten „VVZ-2471“ bei Patienten mit postherpetischer Neuralgie (PHN) abgeschlossen wurde. Die inländische Phase-2-Studie bewertet VVZ-2471 bei PHN-Patienten. Postherpetische Neuralgie ist als neuropathischer Schmerz bekannt, der nach einer Gürtelrose anhält, und das Unternehmen entwickelt den Kandidaten als orales nicht-opioides Analgetikum. Der Abschluss der letzten Probandengabe bedeutet, dass ein wichtiger Schritt dieser klinischen Phase beendet ist; nun richtet sich die Aufmerksamkeit auf die Bestätigung der Ergebnisse. Quelle: mk.co.kr."
+      },
+      "fr": {
+        "title": "Vivozon achève la dernière administration de VVZ-2471 en phase 2 coréenne contre la PHN",
+        "excerpt": "Vivozon, société liée à Vivozon Pharmaceutical, a annoncé le 12 avoir terminé l’administration au dernier participant de l’essai clinique coréen de phase 2 de VVZ-2471 chez des patients atteints de PHN.",
+        "body": "Vivozon, société liée à Vivozon Pharmaceutical, a annoncé le 12 avoir achevé l’administration au dernier participant dans un essai clinique de phase 2 mené en Corée sur son candidat analgésique oral non opioïde, « VVZ-2471 », chez des patients atteints de névralgie post-zostérienne (PHN). Cet essai national de phase 2 évalue VVZ-2471 chez des patients souffrant de PHN. La névralgie post-zostérienne est connue comme une douleur neuropathique persistante après un zona, et l’entreprise développe ce candidat comme analgésique oral non opioïde. L’achèvement de l’administration au dernier participant signifie qu’une procédure clé de cette étape clinique est terminée, l’attention se portant désormais sur le processus de confirmation des résultats. Source: mk.co.kr."
+      },
+      "ar": {
+        "title": "فيفوزون تكمل آخر جرعة من VVZ-2471 في تجربة كورية للمرحلة الثانية لعلاج ألم ما بعد الهربس النطاقي",
+        "excerpt": "قالت فيفوزون، التابعة لشركة Vivozon Pharmaceutical، في 12 من الشهر إنها أكملت إعطاء الجرعة لآخر مشارك في تجربة المرحلة الثانية الكورية لمرشحها المسكن الفموي غير الأفيوني VVZ-2471 لدى مرضى PHN.",
+        "body": "أعلنت فيفوزون، التابعة لشركة Vivozon Pharmaceutical، في 12 من الشهر أنها أكملت إعطاء العلاج لآخر مشارك في تجربة سريرية كورية من المرحلة الثانية لمرشحها المسكن الفموي غير الأفيوني “VVZ-2471” لدى مرضى ألم ما بعد الهربس النطاقي (PHN). وتقيّم هذه الدراسة المحلية من المرحلة الثانية VVZ-2471 لدى مرضى PHN. ويُعرف ألم ما بعد الهربس النطاقي بأنه ألم عصبي يستمر بعد الإصابة بالهربس النطاقي، بينما تواصل الشركة تطوير المرشح كمسكن فموي غير أفيوني. ويعني إكمال إعطاء الجرعة لآخر مشارك انتهاء إجراء رئيسي في هذه المرحلة السريرية، مع توجه الاهتمام إلى عملية تأكيد النتائج. المصدر: mk.co.kr."
+      },
+      "hi": {
+        "title": "Vivozon ने PHN के लिए VVZ-2471 की कोरियाई फेज 2 स्टडी में अंतिम खुराक पूरी की",
+        "excerpt": "Vivozon Pharmaceutical की संबद्ध कंपनी Vivozon ने 12 तारीख को कहा कि उसने PHN मरीजों में मौखिक गैर-ओपिऑइड दर्दनिवारक उम्मीदवार VVZ-2471 की कोरियाई फेज 2 स्टडी में अंतिम प्रतिभागी को खुराक देना पूरा कर लिया है।",
+        "body": "Vivozon Pharmaceutical की संबद्ध कंपनी Vivozon ने 12 तारीख को बताया कि उसने पोस्टहर्पेटिक न्यूराल्जिया (PHN) मरीजों में अपने मौखिक गैर-ओपिऑइड दर्दनिवारक उम्मीदवार “VVZ-2471” की कोरियाई फेज 2 क्लिनिकल स्टडी में अंतिम प्रतिभागी को दवा देना पूरा कर लिया है। यह घरेलू फेज 2 अध्ययन PHN मरीजों में VVZ-2471 का मूल्यांकन कर रहा है। पोस्टहर्पेटिक न्यूराल्जिया को शिंगल्स के बाद बने रहने वाले न्यूरोपैथिक दर्द के रूप में जाना जाता है, और कंपनी इस उम्मीदवार को मौखिक गैर-ओपिऑइड दर्दनिवारक के रूप में विकसित कर रही है। अंतिम प्रतिभागी की खुराक पूरी होना इस क्लिनिकल चरण की एक प्रमुख प्रक्रिया के समाप्त होने का संकेत है, और अब ध्यान परिणामों की पुष्टि प्रक्रिया पर रहेगा। स्रोत: mk.co.kr."
+      },
+      "id": {
+        "title": "Vivozon Selesaikan Dosis Terakhir VVZ-2471 di Fase 2 Korea untuk Neuralgia Pasca-herpes",
+        "excerpt": "Vivozon, afiliasi Vivozon Pharmaceutical, mengatakan pada tanggal 12 bahwa pemberian kepada subjek terakhir dalam uji klinis fase 2 Korea untuk kandidat analgesik oral non-opioid VVZ-2471 pada pasien PHN telah selesai.",
+        "body": "Vivozon, afiliasi Vivozon Pharmaceutical, mengatakan pada tanggal 12 bahwa pemberian obat kepada subjek terakhir dalam uji klinis fase 2 di Korea untuk kandidat analgesik oral non-opioid “VVZ-2471” pada pasien neuralgia pasca-herpes (PHN) telah selesai. Uji fase 2 domestik ini mengevaluasi VVZ-2471 pada pasien PHN. Neuralgia pasca-herpes dikenal sebagai nyeri neuropatik yang berlanjut setelah herpes zoster, dan perusahaan telah mengembangkan kandidat ini sebagai analgesik oral non-opioid. Selesainya pemberian pada subjek terakhir berarti prosedur utama dalam tahap klinis tersebut telah rampung, dengan perhatian berikutnya tertuju pada proses konfirmasi hasil. Sumber: mk.co.kr."
+      }
+    }
+  },
+  {
+    "id": "3da115df9177",
+    "slug": "가상자산-해외로-160조-증발국회-모인-글로벌-리더들-원화-스테이블코인-촉구-909645",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-05-12T01:56:32.512Z",
+    "updatedAt": "2026-05-12T01:56:32.512Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/stock/12044383",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12044383",
+    "titleFingerprint": "66b0b8ce432710dd81001748e89f1413c9af82a5",
+    "dedupKeys": [
+      "3da115df9177c1198c47877458451b2f960197c0",
+      "66b0b8ce432710dd81001748e89f1413c9af82a5",
+      "d190c0c5998d89182b67df0a13def4bbe27a1e1d"
+    ],
+    "imageUrl": "/images/articles/3da115df9177.jpg",
+    "i18n": {
+      "ko": {
+        "title": "원화 스테이블코인 촉구한 글로벌 리더들, 160조 해외 유출 막을 해법 주목",
+        "excerpt": "국회에 모인 글로벌 리더들은 지난해 가상자산 160조원이 해외 거래소로 유출됐다며 달러코인 잠식을 막기 위한 원화 스테이블코인 도입 필요성을 강조했다.",
+        "body": "국회에 모인 글로벌 리더들은 지난해 가상자산 160조원이 해외 거래소로 유출된 상황을 짚으며 원화 스테이블코인 도입을 촉구했다. 이들은 달러 기반 스테이블코인이 국내 시장을 잠식하는 흐름을 막기 위해 원화 기반 결제 수단이 시급하다고 강조했다. 배경에는 AI 에이전트가 자동으로 결제하는 시대가 다가오고 있다는 인식이 있다. 이에 따라 증권사가 수탁과 결제 인프라를 내부에 갖추는 것이 필수 과제로 제시됐다. 규제 방향에 대해서는 EU MiCA식 획일 규제에 대한 우려도 언급됐다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Won Stablecoin Urged as Global Leaders Warn of W160tn Crypto Outflow",
+        "excerpt": "Global leaders gathered at the National Assembly warned that W160 trillion in crypto assets flowed to overseas exchanges last year, urging a won stablecoin to counter dollar coin dominance.",
+        "body": "Global leaders gathered at the National Assembly called for the introduction of a won-denominated stablecoin, citing last year’s W160 trillion outflow of virtual assets to overseas exchanges. They said a won-based payment instrument is urgently needed to prevent dollar-backed stablecoins from encroaching on the domestic market. The discussion comes as an era approaches in which AI agents make payments automatically. Against that backdrop, securities firms were told they must internalize custody and settlement infrastructure. Concerns were also raised about uniform regulation modeled on the EU’s MiCA framework. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "ウォン建てステーブルコイン要請、160兆ウォン海外流出に国会で警鐘",
+        "excerpt": "国会に集まったグローバルリーダーらは、昨年160兆ウォンの暗号資産が海外取引所へ流出したとして、ドルコインの浸食を防ぐウォン建てステーブルコインの必要性を強調した。",
+        "body": "国会に集まったグローバルリーダーらは、昨年暗号資産160兆ウォンが海外取引所へ流出した状況を指摘し、ウォン建てステーブルコインの導入を求めた。ドル基盤のステーブルコインが国内市場を浸食する流れを防ぐため、ウォン基盤の決済手段が急務だと強調した。背景には、AIエージェントが自動で決済する時代が近づいているとの認識がある。これに伴い、証券会社がカストディと決済インフラを内製化することが必須課題として示された。規制面ではEUのMiCA型の画一規制への懸念も言及された。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "韩元稳定币呼声升温：全球领袖警示160万亿韩元资产外流",
+        "excerpt": "全球领袖在韩国国会指出，去年有160万亿韩元虚拟资产流向海外交易所，并强调为防止美元稳定币蚕食市场，亟需推出韩元稳定币。",
+        "body": "在韩国国会聚集的全球领袖指出，去年有160万亿韩元虚拟资产流向海外交易所，并敦促引入韩元稳定币。他们强调，为阻止以美元为基础的稳定币继续蚕食韩国国内市场，基于韩元的支付工具已十分紧迫。相关讨论的背景是，AI代理自动完成支付的时代正在到来。因此，证券公司被认为必须将托管和结算基础设施内化为自身能力。监管方向上，与会者也提到了对欧盟MiCA式统一监管的担忧。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Stablecoin en won gana apoyo ante salida de W160 billones en criptoactivos",
+        "excerpt": "Líderes globales reunidos en la Asamblea Nacional advirtieron que W160 billones en criptoactivos salieron a bolsas extranjeras el año pasado y pidieron una stablecoin en won.",
+        "body": "Líderes globales reunidos en la Asamblea Nacional pidieron introducir una stablecoin denominada en won tras señalar que el año pasado W160 billones en activos virtuales salieron hacia bolsas extranjeras. Subrayaron que un medio de pago basado en won es urgente para evitar que las stablecoins ligadas al dólar sigan ocupando espacio en el mercado local. El debate se da ante la llegada de una era en la que los agentes de IA realizarán pagos automáticamente. En ese contexto, se planteó que las sociedades de valores deben internalizar la infraestructura de custodia y liquidación. También se mencionaron preocupaciones sobre una regulación uniforme al estilo MiCA de la UE. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Stablecoin em won é defendida após W160 trilhões em cripto irem ao exterior",
+        "excerpt": "Líderes globais reunidos na Assembleia Nacional alertaram que W160 trilhões em criptoativos foram para exchanges estrangeiras no ano passado e defenderam uma stablecoin em won.",
+        "body": "Líderes globais reunidos na Assembleia Nacional defenderam a introdução de uma stablecoin denominada em won, apontando que W160 trilhões em ativos virtuais foram transferidos para exchanges estrangeiras no ano passado. Eles afirmaram que um meio de pagamento baseado em won é urgente para conter o avanço de stablecoins lastreadas em dólar no mercado doméstico. A discussão ocorre diante da chegada de uma era em que agentes de IA farão pagamentos automaticamente. Nesse cenário, foi apontado que corretoras de valores precisam internalizar infraestruturas de custódia e liquidação. Também houve menção a preocupações com uma regulação uniforme ao estilo MiCA da UE. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Won-Stablecoin gefordert: Globale Führer warnen vor W160 Bio. Kryptoabfluss",
+        "excerpt": "Globale Führungskräfte im Parlament warnten, dass im Vorjahr virtuelle Vermögenswerte von W160 Billionen an Auslandsbörsen flossen, und forderten einen Won-Stablecoin.",
+        "body": "Im Parlament versammelte globale Führungskräfte forderten die Einführung eines auf Won lautenden Stablecoins und verwiesen darauf, dass im vergangenen Jahr virtuelle Vermögenswerte im Umfang von W160 Billionen an ausländische Börsen abgeflossen seien. Sie betonten, ein wonbasiertes Zahlungsmittel sei dringend nötig, um eine Verdrängung des heimischen Marktes durch dollarbasierte Stablecoins zu verhindern. Hintergrund ist die Erwartung einer Ära, in der KI-Agenten Zahlungen automatisch ausführen. Daher wurde es als zentrale Aufgabe beschrieben, dass Wertpapierfirmen Verwahr- und Abwicklungsinfrastruktur intern aufbauen. Auch Sorgen über eine einheitliche Regulierung nach EU-MiCA-Vorbild wurden genannt. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Stablecoin en won réclamé après W160 billions d’actifs crypto partis à l’étranger",
+        "excerpt": "Des dirigeants mondiaux réunis à l’Assemblée nationale ont alerté sur W160 billions d’actifs virtuels partis vers des plateformes étrangères l’an dernier et réclamé un stablecoin en won.",
+        "body": "Des dirigeants mondiaux réunis à l’Assemblée nationale ont appelé à introduire un stablecoin libellé en won, en soulignant que W160 billions d’actifs virtuels avaient été transférés vers des plateformes étrangères l’an dernier. Ils ont jugé urgent de disposer d’un moyen de paiement fondé sur le won afin d’empêcher les stablecoins adossés au dollar de gagner du terrain sur le marché national. Le débat s’inscrit dans l’arrivée d’une ère où des agents d’IA effectueront automatiquement des paiements. Dans ce contexte, l’internalisation des infrastructures de conservation et de règlement par les sociétés de titres a été présentée comme essentielle. Des inquiétudes ont aussi été exprimées sur une réglementation uniforme de type MiCA de l’UE. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "الدعوة لعملة مستقرة بالوون بعد خروج أصول مشفرة بقيمة 160 تريليون وون",
+        "excerpt": "حذر قادة عالميون اجتمعوا في الجمعية الوطنية من خروج أصول افتراضية بقيمة 160 تريليون وون إلى منصات خارجية العام الماضي، ودعوا إلى عملة مستقرة بالوون.",
+        "body": "دعا قادة عالميون اجتمعوا في الجمعية الوطنية إلى طرح عملة مستقرة مقومة بالوون، مشيرين إلى أن أصولا افتراضية بقيمة 160 تريليون وون خرجت إلى منصات تداول خارجية العام الماضي. وأكدوا أن وسيلة دفع قائمة على الوون أصبحت عاجلة لمنع العملات المستقرة المرتبطة بالدولار من التوسع داخل السوق المحلية. وتأتي هذه المناقشة مع اقتراب عصر تقوم فيه وكلاء الذكاء الاصطناعي بتنفيذ المدفوعات تلقائيا. وفي هذا السياق، طُرح أن شركات الأوراق المالية يجب أن تستوعب داخليا بنية الحفظ والتسوية. كما أُشير إلى مخاوف من تنظيم موحد على غرار لائحة MiCA في الاتحاد الأوروبي. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "वॉन स्टेबलकॉइन की मांग, W160 ट्रिलियन क्रिप्टो विदेश जाने पर चेतावनी",
+        "excerpt": "नेशनल असेंबली में जुटे वैश्विक नेताओं ने कहा कि पिछले साल W160 ट्रिलियन वर्चुअल एसेट विदेशी एक्सचेंजों में गए और डॉलर कॉइन के असर को रोकने के लिए वॉन स्टेबलकॉइन जरूरी है।",
+        "body": "नेशनल असेंबली में जुटे वैश्विक नेताओं ने वॉन-आधारित स्टेबलकॉइन शुरू करने की मांग की। उन्होंने कहा कि पिछले साल W160 ट्रिलियन मूल्य के वर्चुअल एसेट विदेशी एक्सचेंजों में चले गए। उनके अनुसार, डॉलर-आधारित स्टेबलकॉइन के घरेलू बाजार पर बढ़ते प्रभाव को रोकने के लिए वॉन-आधारित भुगतान साधन तत्काल जरूरी है। चर्चा की पृष्ठभूमि में यह धारणा है कि AI एजेंटों द्वारा स्वत: भुगतान करने का दौर आ रहा है। इसी कारण प्रतिभूति कंपनियों के लिए कस्टडी और सेटलमेंट इन्फ्रास्ट्रक्चर को अपने भीतर विकसित करना आवश्यक बताया गया। EU MiCA जैसी एकरूप नियमन प्रणाली को लेकर चिंता भी जताई गई। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Stablecoin Won Didorong Usai W160 Triliun Aset Kripto Mengalir ke Luar Negeri",
+        "excerpt": "Para pemimpin global di Majelis Nasional memperingatkan W160 triliun aset virtual mengalir ke bursa luar negeri tahun lalu dan mendesak stablecoin berbasis won.",
+        "body": "Para pemimpin global yang berkumpul di Majelis Nasional menyerukan pengenalan stablecoin berbasis won setelah menyoroti bahwa W160 triliun aset virtual mengalir ke bursa luar negeri tahun lalu. Mereka menegaskan bahwa alat pembayaran berbasis won mendesak diperlukan untuk mencegah stablecoin berbasis dolar menggerus pasar domestik. Pembahasan ini muncul seiring datangnya era ketika agen AI melakukan pembayaran secara otomatis. Dalam konteks itu, perusahaan sekuritas dinilai perlu menginternalisasi infrastruktur kustodi dan penyelesaian. Kekhawatiran terhadap regulasi seragam ala MiCA Uni Eropa juga disebutkan. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
     "id": "f23bf2212703",
     "slug": "삼성sds-범정부-ai-협업-설루션-선정에-8대-급등-559947",
     "channelId": "ETF",
@@ -4271,231 +4496,6 @@
         "title": "Daesung Hi-Tech Terbitkan Obligasi Konversi 10 Miliar Won, Harga Konversi 9.688 Won",
         "excerpt": "Daesung Hi-Tech yang tercatat di KOSDAQ mengumumkan pada 11 Mei 2026 penerbitan obligasi konversi ketujuh senilai 10 miliar won, dengan harga konversi 9.688 won dan periode klaim mulai 19 Mei 2027.",
         "body": "Daesung Hi-Tech mengumumkan pada 11 Mei 2026 penerbitan obligasi konversi ketujuh. Perusahaan yang tercatat di KOSDAQ tersebut akan menerbitkan obligasi konversi senilai 10 miliar won. Berdasarkan pengumuman itu, harga konversi ditetapkan sebesar 9.688 won. Periode pengajuan konversi akan dimulai pada 19 Mei 2027. Obligasi konversi adalah instrumen utang yang dapat dikonversi menjadi saham dengan syarat tertentu, sehingga nilai penerbitan, harga konversi, dan waktu mulai pengajuan menjadi ketentuan utama bagi investor. Penerbitan ini merupakan pengumuman terkait pendanaan Daesung Hi-Tech. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "a9fcb6bc7775",
-    "slug": "매경증권대상-nh투자證-퇴직연금-대상에-삼성證-351569",
-    "channelId": "ETF",
-    "category": "etf",
-    "publishedAt": "2026-05-11T10:09:50.173Z",
-    "updatedAt": "2026-05-11T10:09:50.173Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/stock/12043582",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12043582",
-    "titleFingerprint": "8e7951de665caa91b30991a37330568be53a103a",
-    "dedupKeys": [
-      "a9fcb6bc7775d546bdffe021dd5fc6369d83185e",
-      "8e7951de665caa91b30991a37330568be53a103a",
-      "b80aa160d30dec461bff5b053d6c195c63753aa6"
-    ],
-    "imageUrl": "/images/articles/a9fcb6bc7775.jpg",
-    "i18n": {
-      "ko": {
-        "title": "NH투자증권, 2026 매경 증권·연금대상 증권 부문 대상 수상",
-        "excerpt": "NH투자증권이 11일 서울 중구 매경미디어센터에서 열린 2026 매일경제 증권·연금대상에서 증권 부문 대상을 받았고, 퇴직연금 부문 대상은 삼성증권이 차지했다.",
-        "body": "NH투자증권이 11일 서울 중구 매경미디어센터에서 열린 ‘2026 매일경제 증권·연금대상’ 시상식에서 증권 부문 대상을 수상했다. 같은 시상식에서 퇴직연금 부문 대상은 삼성증권이 받았다. 이번 행사는 증권과 연금 분야를 나눠 우수 기관을 선정하는 자리로, NH투자증권과 삼성증권이 각각 주요 부문 최고상에 이름을 올렸다. 수상 결과는 국내 증권사들의 증권·연금 사업 경쟁력을 조명하는 계기가 될 것으로 보인다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "NH Investment & Securities Wins Top Securities Prize at 2026 Maeil Awards",
-        "excerpt": "NH Investment & Securities won the securities grand prize at the 2026 Maeil Business Securities and Pension Awards held May 11 at the Maekyung Media Center in Seoul, while Samsung Securities won the retirement pension prize.",
-        "body": "NH Investment & Securities won the grand prize in the securities category at the 2026 Maeil Business Securities and Pension Awards held on May 11 at the Maekyung Media Center in Jung-gu, Seoul. At the same ceremony, Samsung Securities received the grand prize in the retirement pension category. The awards recognize leading institutions across the securities and pension sectors, with NH Investment & Securities and Samsung Securities named as the top winners in their respective categories. The results highlight the companies’ positions in Korea’s securities and pension businesses. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "NH投資証券、2026毎日経済証券・年金大賞で証券部門大賞",
-        "excerpt": "NH投資証券は5月11日、ソウル中区の毎経メディアセンターで開かれた2026毎日経済証券・年金大賞で証券部門大賞を受賞し、退職年金部門大賞はサムスン証券が獲得した。",
-        "body": "NH投資証券は5月11日、ソウル中区の毎経メディアセンターで開かれた「2026毎日経済証券・年金大賞」授賞式で、証券部門の大賞を受賞した。同じ授賞式で、退職年金部門の大賞はサムスン証券が受賞した。同賞は証券と年金の分野を分け、優れた機関を選ぶ場であり、NH投資証券とサムスン証券がそれぞれ主要部門の最高賞に名を連ねた。今回の結果は、韓国証券会社の証券・年金事業における競争力を示すものとなった。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "NH投资证券获2026每日经济证券养老金大奖证券部门大奖",
-        "excerpt": "NH投资证券于5月11日在首尔中区每日经济传媒中心举行的2026每日经济证券·养老金大奖颁奖礼上获得证券部门大奖，退休养老金部门大奖由三星证券获得。",
-        "body": "NH投资证券于5月11日在首尔中区每日经济传媒中心举行的“2026每日经济证券·养老金大奖”颁奖礼上，获得证券部门大奖。同一颁奖礼上，退休养老金部门大奖由三星证券获得。该奖项按证券和养老金领域评选优秀机构，NH投资证券与三星证券分别在主要部门获得最高奖项。此次获奖结果显示了韩国证券公司在证券与养老金业务领域的竞争力，也使相关业务表现受到关注。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "NH Investment & Securities gana el máximo premio bursátil de Maeil 2026",
-        "excerpt": "NH Investment & Securities ganó el gran premio de valores en los Premios Maeil Business de Valores y Pensiones 2026, celebrados el 11 de mayo en Seúl; Samsung Securities obtuvo el premio de pensiones de jubilación.",
-        "body": "NH Investment & Securities recibió el gran premio en la categoría de valores en la ceremonia de los Premios Maeil Business de Valores y Pensiones 2026, celebrada el 11 de mayo en el Maekyung Media Center, en Jung-gu, Seúl. En el mismo acto, Samsung Securities obtuvo el gran premio en la categoría de pensiones de jubilación. El evento distingue a instituciones destacadas en los sectores de valores y pensiones, y ambas firmas fueron reconocidas con los máximos galardones de sus respectivas áreas. El resultado pone de relieve su presencia en esos negocios en Corea. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "NH Investment & Securities vence prêmio principal de valores da Maeil 2026",
-        "excerpt": "A NH Investment & Securities ganhou o grande prêmio de valores no Maeil Business Securities and Pension Awards 2026, realizado em 11 de maio em Seul; a Samsung Securities venceu em previdência de aposentadoria.",
-        "body": "A NH Investment & Securities recebeu o grande prêmio na categoria de valores mobiliários no Maeil Business Securities and Pension Awards 2026, realizado em 11 de maio no Maekyung Media Center, em Jung-gu, Seul. Na mesma cerimônia, a Samsung Securities conquistou o grande prêmio na categoria de previdência de aposentadoria. A premiação seleciona instituições de destaque nos setores de valores mobiliários e pensões, e as duas empresas foram reconhecidas nos principais segmentos. O resultado destaca sua atuação nesses mercados na Coreia. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "NH Investment & Securities gewinnt Hauptpreis der Maeil Securities Awards 2026",
-        "excerpt": "NH Investment & Securities erhielt am 11. Mai im Maekyung Media Center in Seoul den Hauptpreis der Wertpapierkategorie bei den Maeil Business Securities and Pension Awards 2026; Samsung Securities gewann bei der Altersvorsorge.",
-        "body": "NH Investment & Securities hat bei der am 11. Mai im Maekyung Media Center in Jung-gu, Seoul, veranstalteten Verleihung der Maeil Business Securities and Pension Awards 2026 den Hauptpreis in der Wertpapierkategorie erhalten. Bei derselben Zeremonie ging der Hauptpreis in der Kategorie Altersvorsorge an Samsung Securities. Die Auszeichnung würdigt führende Institutionen in den Bereichen Wertpapiere und Pensionen. NH Investment & Securities und Samsung Securities wurden damit jeweils in wichtigen Kategorien als Spitzenpreisträger genannt. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "NH Investment & Securities remporte le grand prix titres de Maeil 2026",
-        "excerpt": "NH Investment & Securities a remporté le grand prix de la catégorie titres aux Maeil Business Securities and Pension Awards 2026, organisés le 11 mai à Séoul; Samsung Securities a gagné la catégorie retraite.",
-        "body": "NH Investment & Securities a reçu le grand prix dans la catégorie titres lors des Maeil Business Securities and Pension Awards 2026, organisés le 11 mai au Maekyung Media Center, à Jung-gu, Séoul. Lors de la même cérémonie, Samsung Securities a obtenu le grand prix dans la catégorie retraite professionnelle. Cette remise de prix distingue des institutions reconnues dans les secteurs des titres et des pensions. NH Investment & Securities et Samsung Securities ont ainsi été nommées lauréates des principales catégories. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "NH للاستثمار والأوراق المالية تفوز بجائزة ماييل 2026 لقطاع الأوراق المالية",
-        "excerpt": "فازت NH للاستثمار والأوراق المالية بالجائزة الكبرى لفئة الأوراق المالية في جوائز ماييل بيزنس للأوراق المالية والمعاشات 2026 التي أقيمت في 11 مايو في سيول، فيما نالت سامسونغ للأوراق المالية جائزة معاشات التقاعد.",
-        "body": "فازت NH للاستثمار والأوراق المالية بالجائزة الكبرى في فئة الأوراق المالية خلال حفل جوائز ماييل بيزنس للأوراق المالية والمعاشات 2026، الذي أقيم في 11 مايو في مركز مايك يونغ الإعلامي في جونغ-غو، سيول. وفي الحفل نفسه، حصلت سامسونغ للأوراق المالية على الجائزة الكبرى في فئة معاشات التقاعد. وتكرم الجائزة المؤسسات البارزة في مجالي الأوراق المالية والمعاشات، حيث تصدرت الشركتان الفئتين الرئيسيتين كل في مجالها. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "NH Investment & Securities को Maeil 2026 में शीर्ष सिक्योरिटीज पुरस्कार",
-        "excerpt": "NH Investment & Securities ने 11 मई को सियोल के Maekyung Media Center में आयोजित 2026 Maeil Business Securities and Pension Awards में सिक्योरिटीज श्रेणी का ग्रैंड प्राइज जीता, जबकि रिटायरमेंट पेंशन श्रेणी में Samsung Securities विजेता रही।",
-        "body": "NH Investment & Securities ने 11 मई को सियोल के Jung-gu स्थित Maekyung Media Center में आयोजित ‘2026 Maeil Business Securities and Pension Awards’ समारोह में सिक्योरिटीज श्रेणी का ग्रैंड प्राइज जीता। इसी समारोह में रिटायरमेंट पेंशन श्रेणी का ग्रैंड प्राइज Samsung Securities को मिला। यह पुरस्कार सिक्योरिटीज और पेंशन क्षेत्रों में उत्कृष्ट संस्थानों का चयन करता है। NH Investment & Securities और Samsung Securities ने अपने-अपने प्रमुख क्षेत्रों में शीर्ष सम्मान प्राप्त किया। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "NH Investment & Securities Raih Penghargaan Utama Sekuritas Maeil 2026",
-        "excerpt": "NH Investment & Securities meraih penghargaan utama kategori sekuritas dalam Maeil Business Securities and Pension Awards 2026 yang digelar 11 Mei di Seoul, sementara Samsung Securities menang di kategori dana pensiun.",
-        "body": "NH Investment & Securities meraih penghargaan utama kategori sekuritas dalam upacara Maeil Business Securities and Pension Awards 2026 yang digelar pada 11 Mei di Maekyung Media Center, Jung-gu, Seoul. Pada acara yang sama, Samsung Securities menerima penghargaan utama kategori dana pensiun. Ajang ini memilih institusi unggul di bidang sekuritas dan pensiun, dengan NH Investment & Securities serta Samsung Securities menjadi pemenang tertinggi di kategori masing-masing. Hasil ini menyoroti posisi keduanya dalam bisnis sekuritas dan pensiun Korea. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "cde69eb866cc",
-    "slug": "언제까지-올라요-저-언제-팔아요1만2천피-전망까지-등장했다-619113",
-    "channelId": "ETF",
-    "category": "etf",
-    "publishedAt": "2026-05-11T10:08:49.769Z",
-    "updatedAt": "2026-05-11T10:08:49.769Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/stock/12043589",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12043589",
-    "titleFingerprint": "578c23b4a80c07814fcf4ed70b14d2ef5380c0c1",
-    "dedupKeys": [
-      "cde69eb866ccab5ec6ad6819a07b34149d0843fe",
-      "578c23b4a80c07814fcf4ed70b14d2ef5380c0c1",
-      "c93d2b0ab8cd8c9f2111d612d68deb1ab58c121e"
-    ],
-    "imageUrl": "/images/articles/cde69eb866cc.jpg",
-    "i18n": {
-      "ko": {
-        "title": "코스피 급등에 1만2000 전망까지…반도체 투톱 랠리 어디까지",
-        "excerpt": "코스피가 반도체 대형주의 급등으로 사이드카가 발동될 만큼 강세를 보이자, 골드만삭스와 JP모건에 이어 현대차증권도 1만2000 가능성을 제시했다.",
-        "body": "코스피가 최근 반도체 대형주의 강한 상승세를 타고 급등하면서 시장의 관심이 매도 시점과 추가 상승 여력으로 쏠리고 있다. 급등 과정에서 사이드카가 발동됐고, SK하이닉스의 시가총액은 미국 마이크론을 추월한 것으로 전해졌다. 외국계 증권사 전망도 상향됐다. 골드만삭스가 코스피 전망을 올려 잡은 데 이어 JP모건은 목표치 1만 포인트를 제시했다. 여기에 현대차증권은 1만2000도 가능하다는 전망을 내놨다. 반도체 투톱의 빠른 질주가 지수 기대치를 끌어올리고 있지만, 단기 급등 이후 매도 타이밍을 둘러싼 투자자 고민도 커지는 분위기다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "KOSPI Surge Brings 12,000-Point View as Chip Leaders Extend Rally",
-        "excerpt": "As KOSPI jumped on sharp gains in major semiconductor stocks and triggered a sidecar, Goldman Sachs, JPMorgan and Hyundai Motor Securities raised bullish index views.",
-        "body": "KOSPI has surged recently on strong gains in major semiconductor stocks, putting investor attention on when to sell and how much upside may remain. During the rapid advance, a sidecar was triggered, and SK hynix’s market capitalization reportedly overtook that of U.S. chipmaker Micron. Forecasts from global brokerages have also moved higher. After Goldman Sachs raised its KOSPI outlook, JPMorgan presented a target of 10,000 points. Hyundai Motor Securities went further, saying 12,000 is possible. The fast rally by Korea’s two leading chip stocks is lifting expectations for the index, while investors are also showing growing concern over selling timing after the sharp short-term rise. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "KOSPI急騰で1万2000見通しも、半導体2強ラリーに注目",
-        "excerpt": "半導体大型株の急伸でKOSPIはサイドカーが発動されるほど上昇し、ゴールドマン、JPモルガンに続き現代車証券も1万2000の可能性を示した。",
-        "body": "KOSPIは最近、半導体大型株の強い上昇に乗って急騰し、市場の関心は売却のタイミングと追加上昇余地に集まっている。急騰の過程ではサイドカーが発動され、SKハイニックスの時価総額は米マイクロンを上回ったと伝えられた。外資系証券会社の見通しも引き上げられている。ゴールドマン・サックスがKOSPI見通しを上方修正したのに続き、JPモルガンは目標値として1万ポイントを提示した。さらに現代車証券は1万2000も可能だとの見方を示した。半導体2強の速い上昇が指数への期待を押し上げる一方、短期急騰後の売却タイミングをめぐる投資家の悩みも大きくなっている。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "KOSPI飙升引出12000点展望，半导体双雄涨势成焦点",
-        "excerpt": "在大型半导体股急涨并触发sidecar后，KOSPI走势强劲；继高盛和摩根大通后，现代汽车证券也提出12000点可能性。",
-        "body": "KOSPI近期借助大型半导体股的强劲上涨而急升，市场关注点转向何时卖出以及还有多少上行空间。急涨过程中触发了sidecar，SK海力士的市值据称已超过美国美光。外资券商的预测也被上调。高盛上调KOSPI展望后，摩根大通提出了10000点目标。现代汽车证券则进一步表示，12000点也有可能。韩国半导体双雄的快速上涨正在抬高市场对指数的期待，但在短期大涨之后，投资者围绕卖出时机的 고민也在增加。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "El KOSPI se dispara y ya aparece una meta de 12.000 por el rally de chips",
-        "excerpt": "El KOSPI subió con fuerza por las grandes tecnológicas de semiconductores y activó un sidecar; Goldman, JPMorgan y Hyundai Motor Securities elevaron sus perspectivas.",
-        "body": "El KOSPI se ha disparado recientemente gracias al fuerte avance de las grandes acciones de semiconductores, y la atención del mercado se centra ahora en cuándo vender y cuánto margen de subida queda. Durante el repunte se activó un sidecar, y la capitalización bursátil de SK hynix habría superado a la de la estadounidense Micron. Las previsiones de firmas extranjeras también subieron. Tras el ajuste al alza de Goldman Sachs, JPMorgan presentó un objetivo de 10.000 puntos para el KOSPI. Hyundai Motor Securities fue más allá y señaló que 12.000 también es posible. La rápida carrera de los dos líderes coreanos de chips eleva las expectativas para el índice, mientras crecen las dudas de los inversores sobre el momento de venta tras la fuerte subida de corto plazo. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "KOSPI dispara e projeção de 12.000 pontos surge com rali dos chips",
-        "excerpt": "Com a alta forte das grandes ações de semicondutores e acionamento de sidecar, o KOSPI ganhou novas projeções de Goldman, JPMorgan e Hyundai Motor Securities.",
-        "body": "O KOSPI disparou recentemente impulsionado pela forte alta das grandes ações de semicondutores, levando o mercado a focar no momento de venda e no potencial de novas altas. Durante o avanço acelerado, um sidecar foi acionado, e o valor de mercado da SK hynix teria ultrapassado o da norte-americana Micron. As previsões de corretoras estrangeiras também subiram. Depois de o Goldman Sachs elevar sua visão para o KOSPI, o JPMorgan apresentou uma meta de 10.000 pontos. A Hyundai Motor Securities foi além e afirmou que 12.000 também é possível. A rápida valorização das duas líderes coreanas de chips eleva as expectativas para o índice, enquanto aumentam as dúvidas dos investidores sobre quando vender após a alta de curto prazo. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "KOSPI-Rally bringt 12.000-Punkte-Szenario durch starke Chipwerte",
-        "excerpt": "Der KOSPI stieg wegen kräftiger Gewinne großer Halbleiterwerte so stark, dass ein Sidecar ausgelöst wurde; Goldman, JPMorgan und Hyundai Motor Securities hoben ihre Ziele an.",
-        "body": "Der KOSPI ist zuletzt dank starker Kursgewinne großer Halbleiteraktien kräftig gestiegen. Damit richtet sich der Blick der Anleger auf den richtigen Verkaufszeitpunkt und das verbleibende Aufwärtspotenzial. Während des schnellen Anstiegs wurde ein Sidecar ausgelöst, und die Marktkapitalisierung von SK hynix soll die des US-Unternehmens Micron überholt haben. Auch ausländische Häuser hoben ihre Einschätzungen an. Nachdem Goldman Sachs den Ausblick für den KOSPI nach oben gesetzt hatte, nannte JPMorgan ein Ziel von 10.000 Punkten. Hyundai Motor Securities erklärte zudem, auch 12.000 seien möglich. Die schnelle Rally der beiden führenden koreanischen Chipwerte erhöht die Erwartungen an den Index, während Anleger nach dem kurzfristigen Sprung stärker über den Verkaufszeitpunkt nachdenken. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Le KOSPI s’envole et une cible de 12 000 points émerge avec les puces",
-        "excerpt": "Porté par la forte hausse des grands titres des semi-conducteurs, le KOSPI a déclenché un sidecar; Goldman, JPMorgan et Hyundai Motor Securities ont relevé leurs vues.",
-        "body": "Le KOSPI a récemment fortement progressé grâce à la hausse marquée des grandes valeurs des semi-conducteurs, attirant l’attention du marché sur le moment de vendre et sur le potentiel de hausse restant. Pendant cette accélération, un sidecar a été déclenché, et la capitalisation de SK hynix aurait dépassé celle de l’américain Micron. Les prévisions des maisons étrangères ont aussi été relevées. Après Goldman Sachs, qui a revu à la hausse sa perspective sur le KOSPI, JPMorgan a présenté un objectif de 10 000 points. Hyundai Motor Securities est allé plus loin en estimant que 12 000 était possible. La progression rapide des deux leaders coréens des puces soutient les attentes sur l’indice, tandis que les investisseurs s’interrogent davantage sur le moment de vendre après la forte hausse de court terme. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "ارتفاع كوسبي يفتح توقع 12000 نقطة مع صعود قوي لأسهم الرقائق",
-        "excerpt": "قفز كوسبي بدعم من مكاسب كبيرة لأسهم أشباه الموصلات وجرى تفعيل سايدكار، فيما رفعت غولدمان ساكس وجي بي مورغان وهيونداي موتور للأوراق المالية توقعاتها.",
-        "body": "ارتفع مؤشر كوسبي مؤخرا بقوة مدفوعا بصعود كبير في أسهم شركات أشباه الموصلات الكبرى، ما جعل اهتمام السوق يتركز على توقيت البيع وحجم المجال المتبقي للصعود. وخلال موجة الارتفاع السريعة تم تفعيل آلية سايدكار، كما أفادت التقارير بأن القيمة السوقية لشركة SK hynix تجاوزت شركة Micron الأميركية. كذلك ارتفعت توقعات شركات الوساطة الأجنبية. فبعد أن رفعت غولدمان ساكس نظرتها لكوسبي، قدمت جي بي مورغان هدفا عند 10000 نقطة. وأضافت هيونداي موتور للأوراق المالية أن مستوى 12000 ممكن أيضا. صعود شركتي الرقائق الكوريتين الرائدتين يرفع توقعات المؤشر، بينما تتزايد حيرة المستثمرين بشأن توقيت البيع بعد القفزة القصيرة الأجل. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "KOSPI में तेज उछाल, चिप शेयरों की रैली से 12,000 तक का अनुमान",
-        "excerpt": "बड़े सेमीकंडक्टर शेयरों की तेज बढ़त से KOSPI में ऐसा उछाल आया कि साइडकार लगा; Goldman, JPMorgan और Hyundai Motor Securities ने ऊंचे लक्ष्य बताए।",
-        "body": "KOSPI हाल में बड़े सेमीकंडक्टर शेयरों की मजबूत बढ़त के सहारे तेजी से चढ़ा है, जिससे बाजार का ध्यान अब बेचने के समय और आगे की संभावित बढ़त पर है। इस तेज उछाल के दौरान साइडकार सक्रिय हुआ, और SK hynix का बाजार मूल्य अमेरिकी Micron से आगे निकलने की बात सामने आई। विदेशी ब्रोकरेज की राय भी ऊपर गई है। Goldman Sachs ने KOSPI पर अपना अनुमान बढ़ाया, जिसके बाद JPMorgan ने 10,000 अंक का लक्ष्य रखा। Hyundai Motor Securities ने इससे आगे बढ़कर कहा कि 12,000 भी संभव है। कोरिया की दो प्रमुख चिप कंपनियों की तेज रैली सूचकांक को लेकर उम्मीदें बढ़ा रही है, लेकिन अल्पकालिक तेज उछाल के बाद निवेशकों की बेचने के सही समय को लेकर चिंता भी बढ़ रही है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "KOSPI Melonjak, Target 12.000 Muncul Berkat Reli Saham Chip",
-        "excerpt": "KOSPI menguat tajam oleh kenaikan saham semikonduktor besar hingga memicu sidecar; Goldman, JPMorgan, dan Hyundai Motor Securities menaikkan proyeksi indeks.",
-        "body": "KOSPI baru-baru ini melonjak ditopang kenaikan kuat saham-saham semikonduktor besar, sehingga perhatian pasar beralih ke kapan harus menjual dan seberapa besar ruang kenaikan yang tersisa. Dalam reli cepat tersebut, sidecar sempat dipicu, dan kapitalisasi pasar SK hynix dilaporkan melampaui Micron dari AS. Proyeksi dari sekuritas asing juga bergerak naik. Setelah Goldman Sachs menaikkan pandangannya terhadap KOSPI, JPMorgan menyampaikan target 10.000 poin. Hyundai Motor Securities bahkan menyebut 12.000 juga mungkin dicapai. Laju cepat dua pemimpin chip Korea mengangkat ekspektasi terhadap indeks, sementara investor makin memikirkan waktu jual setelah kenaikan tajam jangka pendek. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "0e56135a6912",
-    "slug": "코인시장-옥죄는-특금법-시행령fiu-13일-업계-만나-해법-찾을까-745656",
-    "channelId": "ETF",
-    "category": "etf",
-    "publishedAt": "2026-05-11T10:07:37.504Z",
-    "updatedAt": "2026-05-11T10:07:37.504Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/stock/12043595",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12043595",
-    "titleFingerprint": "a5a9b2537cba9e2f35c7be3f525d36131e6177c2",
-    "dedupKeys": [
-      "0e56135a69124a4c9b1f1016d0bd3760ba4055f8",
-      "a5a9b2537cba9e2f35c7be3f525d36131e6177c2",
-      "d6a4e032385b97464334b2562fc586c08be68fd7"
-    ],
-    "imageUrl": "/images/articles/0e56135a6912.jpg",
-    "i18n": {
-      "ko": {
-        "title": "특금법 시행령 논란에 FIU 13일 긴급 회동…거래소 해법 찾나",
-        "excerpt": "FIU가 13일 닥사와 가상자산 거래소를 만나 특금법 시행령 개정안의 1000만원 이상 거래 STR 의무화 논란과 업계 운영 부담을 논의한다.",
-        "body": "금융정보분석원(FIU)이 13일 디지털자산거래소 공동협의체(닥사)와 가상자산 거래소 관계자들을 만나 특금법 시행령 개정안을 둘러싼 논란을 논의한다. 쟁점은 가상자산 거래에서 1000만원 이상이면 의심거래보고(STR)를 의무화하는 방안이다. 업계는 이 기준이 적용되면 보고 건수가 최대 85배 폭증해 정상적인 운영이 어렵다고 주장한다. FIU와 업계의 긴급 회동에서 보고 기준과 운영 부담을 둘러싼 해법이 제시될지 주목된다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "FIU to Hold Urgent May 13 Meeting Over Crypto Rules and STR Burden",
-        "excerpt": "FIU will meet DAXA and crypto exchanges on May 13 to discuss controversy over mandatory STR filings for virtual-asset transactions of 10 million won or more.",
-        "body": "Korea’s Financial Intelligence Unit (FIU) will meet the Digital Asset Exchange Alliance (DAXA) and virtual-asset exchange officials on May 13 to discuss controversy surrounding an enforcement decree under the Special Financial Information Act. The key issue is a plan to require suspicious transaction reports (STRs) for virtual-asset transactions of 10 million won or more. The industry says the rule could increase reports by as much as 85 times, making normal operations difficult. Attention is on whether the urgent meeting will produce a solution on reporting standards and operational burdens. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "特金法施行令めぐりFIUが13日に緊急会合、取引所負担の解決策は",
-        "excerpt": "FIUは13日、DAXAと暗号資産取引所と会い、1000万ウォン以上の取引にSTRを義務づける特金法施行令案の論争を協議する。",
-        "body": "韓国の金融情報分析院（FIU）は13日、デジタル資産取引所共同協議体（DAXA）と暗号資産取引所の関係者に会い、特定金融情報法施行令の改正案をめぐる論争を協議する。焦点は、暗号資産取引で1000万ウォン以上の場合に疑わしい取引報告（STR）を義務づける案だ。業界は、この基準が適用されれば報告件数が最大85倍に急増し、通常の運営が難しくなると主張している。緊急会合で報告基準と運営負担をめぐる解決策が示されるか注目される。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "特金法施行令争议升温，FIU将于13日紧急会见交易所",
-        "excerpt": "韩国FIU将于13日会见DAXA和虚拟资产交易所，讨论1000万韩元以上交易强制提交STR的特金法施行令争议。",
-        "body": "韩国金融情报分析院（FIU）将于13日会见数字资产交易所共同协议体（DAXA）及虚拟资产交易所相关人士，讨论围绕特定金融信息法施行令修订案的争议。焦点在于虚拟资产交易金额达到1000万韩元以上时，是否一律强制提交可疑交易报告（STR）。业界认为，一旦适用该标准，报告数量最多将激增85倍，正常运营将变得困难。此次紧急会面能否就报告标准和运营负担提出解决方案，受到关注。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "FIU se reunirá el 13 de mayo por la norma cripto y la carga de STR",
-        "excerpt": "La FIU se reunirá el 13 de mayo con DAXA y exchanges de criptoactivos para tratar la polémica obligación de STR en operaciones desde 10 millones de wones.",
-        "body": "La Unidad de Inteligencia Financiera de Corea (FIU) se reunirá el 13 de mayo con la Digital Asset Exchange Alliance (DAXA) y representantes de exchanges de activos virtuales para debatir la controversia sobre el decreto de aplicación de la Ley de Información Financiera Especial. El punto central es la propuesta de exigir reportes de transacciones sospechosas (STR) en operaciones de activos virtuales de 10 millones de wones o más. La industria sostiene que el criterio podría multiplicar los reportes hasta 85 veces y dificultar la operación normal. Se observa si la reunión urgente ofrece una salida sobre estándares y carga operativa. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "FIU fará reunião urgente em 13 de maio sobre regra cripto e STR",
-        "excerpt": "A FIU se reunirá em 13 de maio com a DAXA e exchanges de criptoativos para discutir a obrigação de STR em transações de 10 milhões de wons ou mais.",
-        "body": "A Unidade de Inteligência Financeira da Coreia (FIU) se reunirá em 13 de maio com a Digital Asset Exchange Alliance (DAXA) e representantes de exchanges de ativos virtuais para discutir a controvérsia em torno do decreto de aplicação da Lei de Informações Financeiras Especiais. O ponto central é a proposta de exigir relatórios de transações suspeitas (STR) para operações com ativos virtuais de 10 milhões de wons ou mais. O setor afirma que a regra pode elevar os relatórios em até 85 vezes, dificultando a operação normal. A atenção se volta para possíveis soluções sobre critérios de reporte e carga operacional. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "FIU trifft Börsen am 13. Mai zu Krypto-Regel und STR-Pflicht",
-        "excerpt": "Die FIU trifft am 13. Mai DAXA und Kryptobörsen, um die umstrittene STR-Pflicht für virtuelle Transaktionen ab 10 Millionen Won zu beraten.",
-        "body": "Die koreanische Financial Intelligence Unit (FIU) trifft am 13. Mai die Digital Asset Exchange Alliance (DAXA) und Vertreter von Börsen für virtuelle Vermögenswerte, um die Kontroverse um eine Durchführungsverordnung zum Sonderfinanzinformationsgesetz zu besprechen. Im Mittelpunkt steht der Plan, bei Transaktionen mit virtuellen Vermögenswerten ab 10 Millionen Won verpflichtend Verdachtsmeldungen (STR) einzureichen. Die Branche warnt, dass die Zahl der Meldungen um bis zu das 85-Fache steigen und ein normaler Betrieb erschwert werden könnte. Beobachtet wird, ob das Eiltreffen Lösungen zu Meldekriterien und Betriebsbelastung bringt. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "La FIU réunira les plateformes le 13 mai sur la règle crypto STR",
-        "excerpt": "La FIU rencontrera le 13 mai DAXA et les plateformes crypto pour discuter de l’obligation de STR dès 10 millions de wons et de sa charge opérationnelle.",
-        "body": "La Financial Intelligence Unit (FIU) coréenne rencontrera le 13 mai la Digital Asset Exchange Alliance (DAXA) et des responsables de plateformes d’actifs virtuels afin de discuter de la controverse autour du décret d’application de la loi spéciale sur l’information financière. Le point clé est un projet imposant des déclarations de transactions suspectes (STR) pour les transactions d’actifs virtuels de 10 millions de wons ou plus. Le secteur affirme que ce seuil pourrait multiplier les déclarations jusqu’à 85 fois et rendre l’exploitation normale difficile. L’attention porte sur d’éventuelles solutions concernant les critères de déclaration et la charge opérationnelle. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "وحدة FIU تجتمع في 13 مايو لبحث قاعدة العملات المشفرة وتقارير STR",
-        "excerpt": "تجتمع FIU في 13 مايو مع DAXA ومنصات تداول الأصول الافتراضية لبحث إلزام تقارير STR للمعاملات التي تبلغ 10 ملايين وون فأكثر.",
-        "body": "تعتزم وحدة الاستخبارات المالية الكورية (FIU) الاجتماع في 13 مايو مع تحالف منصات الأصول الرقمية (DAXA) ومسؤولي منصات تداول الأصول الافتراضية لمناقشة الجدل حول مرسوم تنفيذ قانون المعلومات المالية الخاصة. وتتمثل القضية الأساسية في خطة إلزام تقديم تقارير المعاملات المشبوهة (STR) عند إجراء معاملات أصول افتراضية بقيمة 10 ملايين وون أو أكثر. وتقول الصناعة إن تطبيق هذا المعيار قد يرفع عدد التقارير بما يصل إلى 85 مرة، ما يجعل التشغيل الطبيعي صعبا. ويتركز الاهتمام على ما إذا كان الاجتماع العاجل سيطرح حلا لمعايير الإبلاغ والعبء التشغيلي. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "क्रिप्टो STR नियम पर FIU की 13 मई को आपात बैठक, एक्सचेंजों पर नजर",
-        "excerpt": "FIU 13 मई को DAXA और क्रिप्टो एक्सचेंजों से मिलेगी, जहां 1 करोड़ वॉन या अधिक के वर्चुअल एसेट लेनदेन पर STR अनिवार्यता पर चर्चा होगी।",
-        "body": "कोरिया की फाइनेंशियल इंटेलिजेंस यूनिट (FIU) 13 मई को डिजिटल एसेट एक्सचेंज अलायंस (DAXA) और वर्चुअल एसेट एक्सचेंज अधिकारियों से मिलेगी, ताकि विशेष वित्तीय सूचना कानून के प्रवर्तन डिक्री संशोधन पर विवाद पर चर्चा की जा सके। मुख्य मुद्दा यह प्रस्ताव है कि वर्चुअल एसेट लेनदेन 1 करोड़ वॉन या उससे अधिक होने पर संदिग्ध लेनदेन रिपोर्ट (STR) अनिवार्य की जाए। उद्योग का कहना है कि यह मानक लागू होने पर रिपोर्टों की संख्या 85 गुना तक बढ़ सकती है और सामान्य संचालन कठिन हो जाएगा। आपात बैठक में रिपोर्टिंग मानक और परिचालन बोझ पर समाधान निकलता है या नहीं, इस पर नजर है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "FIU Gelar Rapat Darurat 13 Mei soal Aturan Kripto dan STR",
-        "excerpt": "FIU akan bertemu DAXA dan bursa aset virtual pada 13 Mei untuk membahas kewajiban STR bagi transaksi 10 juta won ke atas dan beban operasional industri.",
-        "body": "Financial Intelligence Unit (FIU) Korea akan bertemu Digital Asset Exchange Alliance (DAXA) dan perwakilan bursa aset virtual pada 13 Mei untuk membahas kontroversi terkait rancangan peraturan pelaksana Undang-Undang Informasi Keuangan Khusus. Isu utamanya adalah rencana mewajibkan laporan transaksi mencurigakan (STR) untuk transaksi aset virtual senilai 10 juta won atau lebih. Industri menyatakan standar ini dapat membuat jumlah laporan melonjak hingga 85 kali dan menyulitkan operasi normal. Perhatian tertuju pada apakah rapat darurat itu dapat menawarkan solusi atas standar pelaporan dan beban operasional. Sumber: mk.co.kr"
       }
     }
   }
