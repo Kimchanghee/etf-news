@@ -1,5 +1,230 @@
 [
   {
+    "id": "c5aa081c7076",
+    "slug": "산업용-ai-마키나락스-청약-증거금-139조원-모아-220771",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-05-12T10:00:04.071Z",
+    "updatedAt": "2026-05-12T10:00:04.071Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/stock/12045111",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12045111",
+    "titleFingerprint": "fd1a7e863000d04c91c5c6412e834911ae1fc067",
+    "dedupKeys": [
+      "c5aa081c707617b9060f16be70a98ebc1f397415",
+      "fd1a7e863000d04c91c5c6412e834911ae1fc067",
+      "069b37c1a9293694fa4fde1ead8d55dca8e985b0"
+    ],
+    "imageUrl": "/images/articles/c5aa081c7076.jpg",
+    "i18n": {
+      "ko": {
+        "title": "마키나락스 청약 증거금 13.9조원, 올해 최고 기록 경신",
+        "excerpt": "산업용 인공지능 기업 마키나락스가 5월 12일 보도 기준 청약 증거금 13.9조원을 모으며 올해 최고 청약 증거금 기록을 새로 썼다.",
+        "body": "산업용 인공지능(AI) 기업 마키나락스가 청약에서 증거금 13.9조원을 모으며 올해 최고 청약 증거금 기록을 경신했다. 이번 소식은 5월 12일 17시 17분 매일경제 자본시장 전문 유료매체 레이더M을 통해 보도됐다. 원문에 따르면 마키나락스는 산업용 AI 기업으로 소개됐으며, 청약 과정에서 대규모 자금이 몰린 점이 핵심이다. 13.9조원이라는 증거금 규모는 올해 기준 최고치로 제시됐다. 이는 산업용 AI 기업에 대한 투자자 관심이 청약 수치로 확인된 사례다. 향후 시장 평가는 공모 이후 흐름과 투자 수요의 지속 여부에 따라 이어질 전망이다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "MachinaRocks Draws 13.9 Trillion Won in IPO Deposits, Sets 2026 High",
+        "excerpt": "Industrial AI company MachinaRocks drew 13.9 trillion won in subscription deposits as of a May 12 report, setting the highest such total so far this year.",
+        "body": "Industrial artificial intelligence company MachinaRocks collected 13.9 trillion won in subscription deposits, setting the highest subscription deposit record so far this year. The news was reported at 17:17 on May 12 by RadarM, Maeil Business Newspaper’s paid capital-markets outlet. According to the original report, MachinaRocks was introduced as an industrial AI company, and the key point was the large amount of funds gathered during the subscription process. The 13.9 trillion won deposit total was presented as this year’s highest figure. The result shows investor interest in an industrial AI company through subscription numbers. Further market assessment is expected to depend on post-offering performance and whether investor demand continues. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "マキナラクス、申込証拠金13.9兆ウォンで今年最高を更新",
+        "excerpt": "産業用AI企業マキナラクスは、5月12日の報道時点で申込証拠金13.9兆ウォンを集め、今年最高記録を更新した。",
+        "body": "産業用人工知能（AI）企業マキナラクスが、申込で証拠金13.9兆ウォンを集め、今年最高の申込証拠金記録を更新した。このニュースは5月12日17時17分、毎日経済の資本市場専門有料メディア「レーダーM」を通じて報じられた。原文によると、マキナラクスは産業用AI企業として紹介され、申込過程で大規模な資金が集まった点が核心だ。13.9兆ウォンという証拠金規模は、今年基準の最高値として示された。これは産業用AI企業に対する投資家の関心が申込数値で確認された事例だ。今後の市場評価は、公募後の流れと投資需要の持続 여부に左右される見通しだ。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "工业AI企业MachinaRocks认购保证金达13.9万亿韩元创新高",
+        "excerpt": "据5月12日报道，工业人工智能企业MachinaRocks认购保证金达到13.9万亿韩元，刷新今年最高认购保证金纪录。",
+        "body": "工业人工智能（AI）企业MachinaRocks在认购中募集保证金13.9万亿韩元，刷新了今年最高认购保证金纪录。该消息由《每日经济》资本市场专业付费媒体RadarM于5月12日17时17分报道。根据原文，MachinaRocks被介绍为工业AI企业，认购过程中大量资金涌入是报道核心。13.9万亿韩元的保证金规模被列为今年以来最高水平。这一结果通过认购数据体现了投资者对工业AI企业的关注。未来市场评价预计将取决于公开发行后的走势以及投资需求能否持续。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "MachinaRocks capta 13,9 billones de wones y marca récord anual",
+        "excerpt": "La empresa de IA industrial MachinaRocks reunió 13,9 billones de wones en depósitos de suscripción, según un reporte del 12 de mayo, el máximo del año.",
+        "body": "La empresa de inteligencia artificial industrial MachinaRocks reunió 13,9 billones de wones en depósitos de suscripción, con lo que renovó el récord más alto del año. La noticia fue publicada el 12 de mayo a las 17:17 por RadarM, el medio pago especializado en mercados de capitales de Maeil Business Newspaper. Según el reporte original, MachinaRocks fue presentada como una empresa de IA industrial, y el punto central fue la gran cantidad de fondos atraídos durante el proceso de suscripción. El monto de 13,9 billones de wones fue señalado como el mayor registro del año. El dato confirma, a través de las cifras de suscripción, el interés de los inversionistas en una compañía de IA industrial. La evaluación del mercado dependerá del desempeño posterior a la oferta y de la continuidad de la demanda inversora. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "MachinaRocks capta 13,9 trilhões de wons e bate recorde anual",
+        "excerpt": "A empresa de IA industrial MachinaRocks reuniu 13,9 trilhões de wons em depósitos de subscrição, segundo reportagem de 12 de maio, o maior valor do ano.",
+        "body": "A empresa de inteligência artificial industrial MachinaRocks reuniu 13,9 trilhões de wons em depósitos de subscrição, renovando o maior recorde do ano. A notícia foi publicada em 12 de maio, às 17h17, pelo RadarM, veículo pago da Maeil Business Newspaper especializado em mercado de capitais. Segundo a reportagem original, a MachinaRocks foi apresentada como uma empresa de IA industrial, e o ponto central foi o grande volume de recursos atraído durante o processo de subscrição. O montante de 13,9 trilhões de wons foi indicado como o maior valor deste ano. O resultado mostra, por meio dos números de subscrição, o interesse dos investidores em uma empresa de IA industrial. A avaliação futura do mercado deve depender do desempenho após a oferta e da continuidade da demanda dos investidores. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "MachinaRocks sammelt 13,9 Billionen Won und setzt Jahreshoch",
+        "excerpt": "Das Industrie-KI-Unternehmen MachinaRocks sammelte laut Bericht vom 12. Mai 13,9 Billionen Won an Zeichnungseinlagen und erreichte den Jahreshöchstwert.",
+        "body": "Das Industrie-KI-Unternehmen MachinaRocks hat bei der Zeichnung Einlagen von 13,9 Billionen Won eingesammelt und damit den höchsten Zeichnungseinlagenwert dieses Jahres erreicht. Die Nachricht wurde am 12. Mai um 17:17 Uhr von RadarM veröffentlicht, dem kostenpflichtigen Kapitalmarktmedium der Maeil Business Newspaper. Dem Originalbericht zufolge wurde MachinaRocks als Unternehmen für industrielle künstliche Intelligenz vorgestellt; im Mittelpunkt stand der große Mittelzufluss im Zeichnungsprozess. Die Summe von 13,9 Billionen Won wurde als bisheriger Jahreshöchstwert genannt. Das Ergebnis zeigt anhand der Zeichnungszahlen das Interesse der Anleger an einem Industrie-KI-Unternehmen. Die weitere Marktbewertung dürfte vom Verlauf nach dem öffentlichen Angebot und davon abhängen, ob die Investorennachfrage anhält. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "MachinaRocks attire 13,9 billions de wons et signe le record annuel",
+        "excerpt": "L’entreprise d’IA industrielle MachinaRocks a réuni 13,9 billions de wons en dépôts de souscription, selon un article du 12 mai, le plus haut niveau annuel.",
+        "body": "L’entreprise d’intelligence artificielle industrielle MachinaRocks a réuni 13,9 billions de wons en dépôts de souscription, établissant le plus haut niveau enregistré cette année. L’information a été publiée le 12 mai à 17h17 par RadarM, média payant spécialisé dans les marchés de capitaux de Maeil Business Newspaper. Selon l’article original, MachinaRocks est présentée comme une société d’IA industrielle, et l’élément central est l’important volume de fonds attiré pendant la souscription. Le montant de 13,9 billions de wons est indiqué comme le record de l’année. Ce résultat confirme, à travers les chiffres de souscription, l’intérêt des investisseurs pour une entreprise d’IA industrielle. L’évaluation future du marché dépendra de l’évolution après l’offre et du maintien de la demande des investisseurs. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "ماكينا روكس تجمع 13.9 تريليون وون وتحقق أعلى حصيلة هذا العام",
+        "excerpt": "جمعت شركة الذكاء الاصطناعي الصناعي ماكينا روكس 13.9 تريليون وون كضمانات اكتتاب، وفق تقرير في 12 مايو، مسجلة أعلى رقم هذا العام.",
+        "body": "جمعت شركة الذكاء الاصطناعي الصناعي ماكينا روكس 13.9 تريليون وون من ضمانات الاكتتاب، مسجلة أعلى مستوى لضمانات الاكتتاب هذا العام. ونشر الخبر في 12 مايو الساعة 17:17 عبر رادار إم، الوسيلة المدفوعة المتخصصة في أسواق رأس المال التابعة لصحيفة ماييل الاقتصادية. ووفق النص الأصلي، قُدمت ماكينا روكس بوصفها شركة ذكاء اصطناعي صناعي، وكان جوهر الخبر هو تدفق حجم كبير من الأموال خلال عملية الاكتتاب. وذُكر مبلغ 13.9 تريليون وون باعتباره أعلى رقم لهذا العام. وتظهر هذه النتيجة، من خلال أرقام الاكتتاب، اهتمام المستثمرين بشركة تعمل في الذكاء الاصطناعي الصناعي. ومن المتوقع أن يعتمد تقييم السوق لاحقا على مسار ما بعد الطرح واستمرار طلب المستثمرين. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "MachinaRocks ने 13.9 ट्रिलियन वॉन जुटाए, इस साल का रिकॉर्ड टूटा",
+        "excerpt": "औद्योगिक AI कंपनी MachinaRocks ने 12 मई की रिपोर्ट के अनुसार सदस्यता जमा में 13.9 ट्रिलियन वॉन जुटाए, जो इस वर्ष का सर्वोच्च स्तर है।",
+        "body": "औद्योगिक कृत्रिम बुद्धिमत्ता (AI) कंपनी MachinaRocks ने सदस्यता प्रक्रिया में 13.9 ट्रिलियन वॉन की जमा राशि जुटाई और इस वर्ष की सबसे बड़ी सदस्यता जमा का रिकॉर्ड बनाया। यह खबर 12 मई को 17:17 बजे Maeil Business Newspaper के पूंजी बाजार केंद्रित पेड मीडिया RadarM ने प्रकाशित की। मूल रिपोर्ट के अनुसार, MachinaRocks को एक औद्योगिक AI कंपनी के रूप में पेश किया गया, और मुख्य बात सदस्यता प्रक्रिया में बड़ी मात्रा में धन का जुटना रही। 13.9 ट्रिलियन वॉन की जमा राशि को इस वर्ष का सर्वोच्च आंकड़ा बताया गया। यह परिणाम सदस्यता संख्या के माध्यम से औद्योगिक AI कंपनी में निवेशकों की रुचि दिखाता है। आगे बाजार का मूल्यांकन पेशकश के बाद के रुझान और निवेश मांग की निरंतरता पर निर्भर करेगा। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "MachinaRocks Raup 13,9 Triliun Won, Cetak Rekor Tertinggi Tahun Ini",
+        "excerpt": "Perusahaan AI industri MachinaRocks mengumpulkan dana jaminan pemesanan 13,9 triliun won, menurut laporan 12 Mei, menjadi yang tertinggi tahun ini.",
+        "body": "Perusahaan kecerdasan buatan industri MachinaRocks mengumpulkan dana jaminan pemesanan 13,9 triliun won, sekaligus memperbarui rekor tertinggi tahun ini. Kabar ini dilaporkan pada 12 Mei pukul 17:17 oleh RadarM, media berbayar khusus pasar modal milik Maeil Business Newspaper. Menurut laporan asli, MachinaRocks diperkenalkan sebagai perusahaan AI industri, dan inti beritanya adalah besarnya dana yang masuk selama proses pemesanan. Nilai 13,9 triliun won disebut sebagai angka tertinggi sepanjang tahun ini. Hasil tersebut menunjukkan minat investor terhadap perusahaan AI industri melalui data pemesanan. Penilaian pasar selanjutnya diperkirakan bergantung pada pergerakan setelah penawaran dan apakah permintaan investor tetap berlanjut. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "e403b4b08b0c",
+    "slug": "kkr-한일-탱크터미널-동시-매각1조원-기대-710316",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-05-12T09:58:08.709Z",
+    "updatedAt": "2026-05-12T09:58:08.709Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/stock/12045112",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12045112",
+    "titleFingerprint": "c7968db179ea0f1290781680ed81b16aee082b1d",
+    "dedupKeys": [
+      "e403b4b08b0c4117a7aead89fbc7a3fe811bfc93",
+      "c7968db179ea0f1290781680ed81b16aee082b1d",
+      "0e791d15add7e23eef7cd8c11b42b6442f1dfe40"
+    ],
+    "imageUrl": "/images/articles/e403b4b08b0c.jpg",
+    "i18n": {
+      "ko": {
+        "title": "KKR, 한국 CTK·일본 CTT 탱크터미널 패키지 매각 추진",
+        "excerpt": "KKR이 한국 CTK와 일본 CTT 탱크터미널을 동시에 매각하는 패키지 딜을 추진하며, 합산 EBITDA 700억원과 매각가 1조원 수준이 거론됐다.",
+        "body": "KKR이 한국과 일본의 탱크터미널 자산을 한꺼번에 매각하는 패키지 딜을 추진하고 있다. 매각 대상은 한국 CTK와 일본 CTT로, 두 자산을 묶어 거래하는 방식이 검토되는 것으로 전해졌다. 원문에 따르면 두 회사의 합산 EBITDA는 약 700억원으로 추산된다. 시장에서는 이번 패키지 매각을 통해 KKR이 약 1조원 수준의 거래가를 기대하는 것으로 알려졌다. 한·일 탱크터미널을 동시에 내놓는 구조인 만큼 자산 규모와 수익성이 핵심 평가 요소가 될 전망이다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "KKR Seeks Package Sale of Korea CTK and Japan CTT Tank Terminals",
+        "excerpt": "KKR is pursuing a package sale of Korea’s CTK and Japan’s CTT tank terminals, with combined EBITDA estimated at 70 billion won and expectations near 1 trillion won.",
+        "body": "KKR is moving to sell tank terminal assets in Korea and Japan through a single package deal. The assets named in the original report are Korea’s CTK and Japan’s CTT, which are being considered for sale together. According to the source, the two companies’ combined EBITDA is estimated at about 70 billion won. The market is said to be looking at a potential transaction value of around 1 trillion won. Because the deal would place Korean and Japanese tank terminal assets on the market at the same time, asset scale and profitability are expected to be key points of evaluation. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "KKR、韓国CTK・日本CTTのタンクターミナル一括売却を推進",
+        "excerpt": "KKRは韓国CTKと日本CTTのタンクターミナルを一括売却する案件を進めており、合算EBITDAは約700億ウォン、売却額は1兆ウォン規模が見込まれる。",
+        "body": "KKRは韓国と日本のタンクターミナル資産をまとめて売却するパッケージ案件を推進している。売却対象は韓国のCTKと日本のCTTで、2つの資産を一括して取引する方式が検討されていると伝えられた。原文によると、両社の合算EBITDAは約700億ウォンと推定される。市場では、今回のパッケージ売却でKKRが約1兆ウォン規模の取引額を期待しているとされる。韓日タンクターミナルを同時に売り出す構造であるため、資産規模と収益性が主要な評価要素になる見通しだ。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "KKR推进韩国CTK与日本CTT储罐码头打包出售",
+        "excerpt": "KKR正推进韩国CTK和日本CTT储罐码头的打包出售交易，两家公司合计EBITDA估计约700亿韩元，交易预期接近1万亿韩元。",
+        "body": "KKR正在推进将韩国和日本的储罐码头资产一并出售的打包交易。原文提到的出售对象为韩国CTK和日本CTT，相关方正考虑将两项资产合并交易。据消息，两家公司合计EBITDA估计约为700亿韩元。市场认为，KKR希望通过此次打包出售实现约1万亿韩元规模的交易价格。由于该结构同时将韩日储罐码头资产推向市场，资产规模和盈利能力预计将成为核心评估因素。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "KKR impulsa venta conjunta de CTK en Corea y CTT en Japón",
+        "excerpt": "KKR busca vender en paquete las terminales de tanques CTK de Corea y CTT de Japón, con EBITDA combinado estimado en 70.000 millones de wones y valor esperado cercano a 1 billón.",
+        "body": "KKR está impulsando una venta en paquete de activos de terminales de tanques en Corea y Japón. Los activos señalados en el reporte original son CTK en Corea y CTT en Japón, que se evalúan como una operación conjunta. Según la fuente, el EBITDA combinado de ambas compañías se estima en unos 70.000 millones de wones. En el mercado se menciona que KKR espera un precio de transacción cercano a 1 billón de wones. Al tratarse de una estructura que pone simultáneamente en venta terminales de tanques coreanas y japonesas, la escala de los activos y su rentabilidad serán factores clave de evaluación. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "KKR avança com venda conjunta da CTK na Coreia e CTT no Japão",
+        "excerpt": "A KKR está buscando vender em pacote os terminais de tanques CTK, na Coreia, e CTT, no Japão, com EBITDA combinado estimado em 70 bilhões de won e valor esperado perto de 1 trilhão.",
+        "body": "A KKR está avançando com a venda em pacote de ativos de terminais de tanques na Coreia e no Japão. Os ativos mencionados no relatório original são a CTK, na Coreia, e a CTT, no Japão, que estão sendo considerados em uma transação conjunta. Segundo a fonte, o EBITDA combinado das duas empresas é estimado em cerca de 70 bilhões de won. O mercado indica que a KKR espera alcançar um valor de transação próximo de 1 trilhão de won com essa venda. Como a estrutura coloca simultaneamente ativos coreanos e japoneses de terminais de tanques à venda, escala e rentabilidade devem ser pontos centrais de avaliação. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "KKR plant Paketverkauf von Koreas CTK und Japans CTT Tankterminals",
+        "excerpt": "KKR treibt einen Paketverkauf der Tankterminal-Betreiber CTK in Korea und CTT in Japan voran; das kombinierte EBITDA wird auf 70 Mrd. Won geschätzt, der Dealwert auf rund 1 Bio. Won.",
+        "body": "KKR treibt den Verkauf von Tankterminal-Assets in Korea und Japan als Paketdeal voran. Laut dem ursprünglichen Bericht handelt es sich bei den Verkaufsobjekten um CTK in Korea und CTT in Japan, die gemeinsam veräußert werden sollen. Das kombinierte EBITDA der beiden Unternehmen wird auf rund 70 Milliarden Won geschätzt. Am Markt heißt es, KKR erwarte durch den Paketverkauf einen Transaktionswert von etwa 1 Billion Won. Da koreanische und japanische Tankterminal-Assets gleichzeitig angeboten werden, dürften Größe der Vermögenswerte und Profitabilität zentrale Bewertungskriterien sein. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "KKR prépare la vente groupée des terminaux CTK en Corée et CTT au Japon",
+        "excerpt": "KKR poursuit une vente groupée des terminaux de stockage CTK en Corée et CTT au Japon, avec un EBITDA combiné estimé à 70 milliards de wons et une valeur attendue proche de 1.000 milliards.",
+        "body": "KKR avance sur une vente groupée d’actifs de terminaux de stockage en Corée et au Japon. Les actifs cités dans l’article d’origine sont CTK en Corée et CTT au Japon, qui seraient envisagés dans une transaction commune. Selon la source, l’EBITDA combiné des deux sociétés est estimé à environ 70 milliards de wons. Le marché indique que KKR viserait une valeur de transaction d’environ 1.000 milliards de wons avec cette cession groupée. Comme l’opération mettrait simultanément sur le marché des terminaux coréens et japonais, la taille des actifs et leur rentabilité devraient être des critères d’évaluation majeurs. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "KKR تمضي في بيع مشترك لمحطتي CTK الكورية وCTT اليابانية",
+        "excerpt": "تسعى KKR إلى بيع محطتي خزانات CTK في كوريا وCTT في اليابان ضمن صفقة واحدة، مع تقدير EBITDA مجمع بنحو 70 مليار وون وتوقع قيمة تقارب تريليون وون.",
+        "body": "تمضي KKR في خطة لبيع أصول محطات خزانات في كوريا واليابان ضمن صفقة حزمة واحدة. وتشمل الأصول المذكورة في التقرير الأصلي CTK في كوريا وCTT في اليابان، مع دراسة طرحهما معا في عملية واحدة. وبحسب المصدر، يقدر EBITDA المجمع للشركتين بنحو 70 مليار وون. وتشير السوق إلى أن KKR تتطلع من خلال هذا البيع المشترك إلى قيمة صفقة تقارب تريليون وون. وبما أن الهيكل يطرح أصول محطات خزانات كورية ويابانية في الوقت نفسه، فمن المتوقع أن يكون حجم الأصول والربحية عاملين رئيسيين في التقييم. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "KKR कोरिया CTK और जापान CTT टैंक टर्मिनल की पैकेज बिक्री बढ़ा रही है",
+        "excerpt": "KKR कोरिया की CTK और जापान की CTT टैंक टर्मिनल परिसंपत्तियों की पैकेज बिक्री पर काम कर रही है, जिनका संयुक्त EBITDA करीब 70 अरब वॉन और संभावित मूल्य 1 लाख करोड़ वॉन बताया गया है।",
+        "body": "KKR कोरिया और जापान की टैंक टर्मिनल परिसंपत्तियों को एक साथ बेचने के लिए पैकेज डील आगे बढ़ा रही है। मूल रिपोर्ट में बिक्री लक्ष्य के रूप में कोरिया की CTK और जापान की CTT का उल्लेख है, जिन्हें एक संयुक्त लेनदेन में शामिल करने पर विचार किया जा रहा है। स्रोत के अनुसार, दोनों कंपनियों का संयुक्त EBITDA करीब 70 अरब वॉन आंका गया है। बाजार में कहा जा रहा है कि KKR इस पैकेज बिक्री से लगभग 1 लाख करोड़ वॉन के सौदे की उम्मीद कर रही है। चूंकि संरचना कोरियाई और जापानी टैंक टर्मिनल परिसंपत्तियों को एक साथ बाजार में लाती है, इसलिए परिसंपत्ति आकार और लाभप्रदता मूल्यांकन के मुख्य आधार होंगे। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "KKR Dorong Penjualan Paket Terminal Tangki CTK Korea dan CTT Jepang",
+        "excerpt": "KKR tengah mendorong penjualan paket terminal tangki CTK di Korea dan CTT di Jepang, dengan EBITDA gabungan diperkirakan 70 miliar won dan nilai transaksi diharapkan sekitar 1 triliun won.",
+        "body": "KKR sedang mendorong penjualan aset terminal tangki di Korea dan Jepang melalui satu transaksi paket. Aset yang disebut dalam laporan asli adalah CTK di Korea dan CTT di Jepang, yang dipertimbangkan untuk dijual bersama. Menurut sumber, EBITDA gabungan kedua perusahaan diperkirakan sekitar 70 miliar won. Pasar menyebut KKR mengharapkan nilai transaksi sekitar 1 triliun won melalui penjualan paket ini. Karena struktur tersebut menempatkan aset terminal tangki Korea dan Jepang ke pasar secara bersamaan, skala aset dan profitabilitas diperkirakan menjadi faktor evaluasi utama. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "fa6c69c5c93f",
+    "slug": "인기검색top5-lg전자-현대무벡스-영우디에스피-롯데쇼핑-삼성에스디에스-929320",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-05-12T09:56:27.154Z",
+    "updatedAt": "2026-05-12T09:56:27.154Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/stock/12045117",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12045117",
+    "titleFingerprint": "193ac79b0c597d7068f85a57e3668a6c640f3af3",
+    "dedupKeys": [
+      "fa6c69c5c93f7cfdb053265732f7c12be96ada5d",
+      "193ac79b0c597d7068f85a57e3668a6c640f3af3",
+      "351f55a96699c3bfb1afc8ef47242a38ac4fac5e"
+    ],
+    "imageUrl": "/images/articles/fa6c69c5c93f.jpg",
+    "i18n": {
+      "ko": {
+        "title": "LG전자·현대무벡스 등 인기검색 TOP5, 라씨 매매비서 오늘 분석",
+        "excerpt": "주식 AI 라씨 매매비서는 오늘 투자자 관심이 집중된 인기검색종목으로 LG전자, 현대무벡스, 영우디에스피, 롯데쇼핑, 삼성에스디에스를 분석했다.",
+        "body": "주식 AI 라씨 매매비서가 오늘 인기검색종목 TOP5로 LG전자, 현대무벡스, 영우디에스피, 롯데쇼핑, 삼성에스디에스를 분석했다. 원문에 따르면 라씨 매매비서는 최적의 매매타이밍을 실시간으로 전송해 투자자들에게 도움을 주는 서비스다. 이날 공개된 인기검색종목 가운데 LG전자는 +16.91%, 현대무벡스는 +9.30%로 제시됐다. 영우디에스피, 롯데쇼핑, 삼성에스디에스도 함께 이름을 올리며 투자자 검색 관심을 받았다. 해당 종목들은 실시간 매매 타이밍 정보와 함께 시장 참여자들이 주목한 검색 흐름을 보여준다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "LG Electronics and Hyundai Movex Lead Today’s Top 5 Searched Stocks",
+        "excerpt": "Stock AI assistant Lassi Trading Secretary today analyzed LG Electronics, Hyundai Movex, Youngwoo DSP, Lotte Shopping and Samsung SDS as the most-searched stocks.",
+        "body": "Stock AI Lassi Trading Secretary today analyzed the top five most-searched stocks: LG Electronics, Hyundai Movex, Youngwoo DSP, Lotte Shopping and Samsung SDS. According to the original report, Lassi Trading Secretary is a service that helps investors by sending optimal trading timing information in real time. Among the stocks disclosed, LG Electronics was listed at +16.91% and Hyundai Movex at +9.30%. Youngwoo DSP, Lotte Shopping and Samsung SDS were also included, reflecting investor search interest. The list shows which stocks drew attention alongside real-time trading timing data. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "LG電子・現代ムベックスなど検索上位5銘柄、ラッシーが本日分析",
+        "excerpt": "株式AIのラッシー売買秘書は本日、投資家の関心を集めた検索上位銘柄としてLG電子、現代ムベックス、Youngwoo DSP、ロッテショッピング、Samsung SDSを分析した。",
+        "body": "株式AIのラッシー売買秘書は本日、検索上位5銘柄としてLG電子、現代ムベックス、Youngwoo DSP、ロッテショッピング、Samsung SDSを分析した。原文によると、ラッシー売買秘書は最適な売買タイミングをリアルタイムで送信し、投資家を支援するサービスだ。今回公開された人気検索銘柄のうち、LG電子は+16.91%、現代ムベックスは+9.30%と示された。Youngwoo DSP、ロッテショッピング、Samsung SDSも名を連ね、投資家の検索関心を集めた。これらの銘柄は、リアルタイムの売買タイミング情報とともに市場参加者が注目した検索動向を示している。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "LG电子、现代Movex等入选今日热门搜索TOP5股票",
+        "excerpt": "股票AI助手Lassi交易秘书今日分析了投资者关注的热门搜索股票，包括LG电子、现代Movex、Youngwoo DSP、乐天购物和三星SDS。",
+        "body": "股票AI助手Lassi交易秘书今日分析的热门搜索TOP5股票为LG电子、现代Movex、Youngwoo DSP、乐天购物和三星SDS。原文称，Lassi交易秘书通过实时发送最佳买卖时机，为投资者提供帮助。在当天公布的热门搜索股票中，LG电子为+16.91%，现代Movex为+9.30%。Youngwoo DSP、乐天购物和三星SDS也一同上榜，显示出投资者的搜索关注。这些股票与实时买卖时机信息一起，反映了市场参与者关注的搜索趋势。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "LG Electronics y Hyundai Movex encabezan el TOP5 de acciones buscadas",
+        "excerpt": "El asistente bursátil con IA Lassi analizó hoy las acciones más buscadas por los inversores: LG Electronics, Hyundai Movex, Youngwoo DSP, Lotte Shopping y Samsung SDS.",
+        "body": "El asistente bursátil con IA Lassi Trading Secretary analizó hoy el TOP5 de acciones más buscadas: LG Electronics, Hyundai Movex, Youngwoo DSP, Lotte Shopping y Samsung SDS. Según el texto original, Lassi Trading Secretary es un servicio que ayuda a los inversores enviando en tiempo real el momento óptimo de compra y venta. Entre los valores publicados, LG Electronics apareció con +16,91% y Hyundai Movex con +9,30%. Youngwoo DSP, Lotte Shopping y Samsung SDS también figuraron en la lista, mostrando el interés de búsqueda de los inversores. Estos nombres reflejan las tendencias de atención del mercado junto con información de timing en tiempo real. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "LG Electronics e Hyundai Movex entram no TOP5 de ações mais buscadas",
+        "excerpt": "O assistente de ações com IA Lassi analisou hoje LG Electronics, Hyundai Movex, Youngwoo DSP, Lotte Shopping e Samsung SDS como os papéis mais buscados pelos investidores.",
+        "body": "O assistente de ações com IA Lassi Trading Secretary analisou hoje o TOP5 de ações mais buscadas: LG Electronics, Hyundai Movex, Youngwoo DSP, Lotte Shopping e Samsung SDS. Segundo o texto original, o Lassi Trading Secretary é um serviço que ajuda investidores ao enviar em tempo real o melhor momento de compra e venda. Entre os nomes divulgados, LG Electronics apareceu com +16,91% e Hyundai Movex com +9,30%. Youngwoo DSP, Lotte Shopping e Samsung SDS também foram incluídas, mostrando o interesse de busca dos investidores. A lista indica os papéis observados pelo mercado junto com dados de timing em tempo real. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "LG Electronics und Hyundai Movex in den Top 5 der gesuchten Aktien",
+        "excerpt": "Der Aktien-KI-Assistent Lassi Trading Secretary analysierte heute LG Electronics, Hyundai Movex, Youngwoo DSP, Lotte Shopping und Samsung SDS als meistgesuchte Aktien.",
+        "body": "Der Aktien-KI-Assistent Lassi Trading Secretary analysierte heute die fünf meistgesuchten Aktien: LG Electronics, Hyundai Movex, Youngwoo DSP, Lotte Shopping und Samsung SDS. Laut Originalbericht unterstützt Lassi Trading Secretary Anleger, indem der Dienst optimale Handelszeitpunkte in Echtzeit übermittelt. Unter den veröffentlichten Werten wurde LG Electronics mit +16,91% und Hyundai Movex mit +9,30% genannt. Youngwoo DSP, Lotte Shopping und Samsung SDS standen ebenfalls auf der Liste und zeigten das Suchinteresse der Anleger. Die Titel spiegeln zusammen mit Echtzeitinformationen zum Handelstiming die Aufmerksamkeit der Marktteilnehmer wider. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "LG Electronics et Hyundai Movex dans le TOP5 des actions recherchées",
+        "excerpt": "L’assistant boursier IA Lassi Trading Secretary a analysé aujourd’hui LG Electronics, Hyundai Movex, Youngwoo DSP, Lotte Shopping et Samsung SDS comme actions les plus recherchées.",
+        "body": "L’assistant boursier IA Lassi Trading Secretary a analysé aujourd’hui le TOP5 des actions les plus recherchées: LG Electronics, Hyundai Movex, Youngwoo DSP, Lotte Shopping et Samsung SDS. Selon le texte original, Lassi Trading Secretary aide les investisseurs en transmettant en temps réel le moment optimal d’achat et de vente. Parmi les titres publiés, LG Electronics a été indiqué à +16,91% et Hyundai Movex à +9,30%. Youngwoo DSP, Lotte Shopping et Samsung SDS figurent aussi dans la liste, montrant l’intérêt de recherche des investisseurs. Ces actions reflètent les tendances d’attention du marché avec les informations de timing en temps réel. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "إل جي إلكترونيكس وهيونداي موفيكس ضمن أكثر 5 أسهم بحثا اليوم",
+        "excerpt": "حلل مساعد الأسهم المعتمد على الذكاء الاصطناعي Lassi اليوم أسهم LG Electronics وHyundai Movex وYoungwoo DSP وLotte Shopping وSamsung SDS باعتبارها الأكثر بحثا.",
+        "body": "حلل مساعد الأسهم المعتمد على الذكاء الاصطناعي Lassi Trading Secretary اليوم قائمة أكثر خمسة أسهم بحثا: LG Electronics وHyundai Movex وYoungwoo DSP وLotte Shopping وSamsung SDS. وبحسب النص الأصلي، فإن الخدمة تساعد المستثمرين عبر إرسال توقيت التداول الأمثل في الوقت الحقيقي. ومن بين الأسهم المنشورة، ورد LG Electronics بنسبة +16.91% وHyundai Movex بنسبة +9.30%. كما ضمت القائمة Youngwoo DSP وLotte Shopping وSamsung SDS، ما يعكس اهتمام المستثمرين بالبحث عنها. وتعرض هذه الأسماء اتجاهات اهتمام المشاركين في السوق إلى جانب معلومات توقيت التداول الفورية. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "LG Electronics और Hyundai Movex आज के टॉप 5 सर्च शेयरों में शामिल",
+        "excerpt": "स्टॉक AI सहायक Lassi Trading Secretary ने आज LG Electronics, Hyundai Movex, Youngwoo DSP, Lotte Shopping और Samsung SDS को निवेशकों के लोकप्रिय सर्च शेयरों के रूप में विश्लेषित किया।",
+        "body": "स्टॉक AI सहायक Lassi Trading Secretary ने आज सबसे अधिक खोजे गए टॉप 5 शेयरों के रूप में LG Electronics, Hyundai Movex, Youngwoo DSP, Lotte Shopping और Samsung SDS का विश्लेषण किया। मूल रिपोर्ट के अनुसार, Lassi Trading Secretary निवेशकों की मदद के लिए इष्टतम खरीद-बिक्री समय की जानकारी रियल टाइम में भेजने वाली सेवा है। प्रकाशित सूची में LG Electronics +16.91% और Hyundai Movex +9.30% पर दिखाए गए। Youngwoo DSP, Lotte Shopping और Samsung SDS भी सूची में शामिल रहे, जिससे निवेशकों की खोज रुचि दिखाई देती है। ये शेयर रियल टाइम ट्रेडिंग टाइमिंग जानकारी के साथ बाजार प्रतिभागियों के ध्यान का संकेत देते हैं। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "LG Electronics dan Hyundai Movex Masuk TOP5 Saham Paling Dicari",
+        "excerpt": "Asisten saham berbasis AI Lassi Trading Secretary hari ini menganalisis LG Electronics, Hyundai Movex, Youngwoo DSP, Lotte Shopping, dan Samsung SDS sebagai saham paling dicari investor.",
+        "body": "Asisten saham berbasis AI Lassi Trading Secretary hari ini menganalisis TOP5 saham paling dicari: LG Electronics, Hyundai Movex, Youngwoo DSP, Lotte Shopping, dan Samsung SDS. Menurut teks asli, Lassi Trading Secretary adalah layanan yang membantu investor dengan mengirimkan waktu transaksi optimal secara real time. Dalam daftar yang dirilis, LG Electronics tercatat +16,91% dan Hyundai Movex +9,30%. Youngwoo DSP, Lotte Shopping, dan Samsung SDS juga masuk daftar, menunjukkan minat pencarian investor. Saham-saham ini mencerminkan arus perhatian pelaku pasar bersama informasi timing transaksi real time. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
     "id": "28d6a55cce51",
     "slug": "1분기-부진한-성적표-받은-kt-배당-늘리고-ax-체력-키운다-872408",
     "channelId": "ETF",
@@ -4271,231 +4496,6 @@
         "title": "Target LG Innotek naik ke 950.000 won berkat sensor penglihatan robot",
         "excerpt": "KB Securities pada 11 Mei menaikkan target harga LG Innotek dari 750.000 menjadi 950.000 won dan mempertahankan rekomendasi Beli, didorong ekspektasi modul vision sensing robot humanoid.",
         "body": "KB Securities pada 11 Mei menaikkan target harga LG Innotek dari sebelumnya 750.000 won menjadi 950.000 won dan mempertahankan rekomendasi Beli. Laporan itu menilai LG Innotek masih undervalued, dengan dasar ekspektasi pertumbuhan terkait modul vision sensing untuk robot humanoid. Kenaikan target sebesar 200.000 won ini menunjukkan penilaian perusahaan yang lebih tinggi dibanding proyeksi sebelumnya. Saat permintaan kamera dan komponen sensing untuk robot menjadi perhatian, ekspektasi atas bisnis terkait LG Innotek tampaknya memengaruhi pandangan investasi. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "43b7bff8d11c",
-    "slug": "클래리티-법안-미국-상원처리-눈앞은행권-스테이블코인-이자-금지-총력전-491111",
-    "channelId": "ETF",
-    "category": "etf",
-    "publishedAt": "2026-05-11T17:37:17.591Z",
-    "updatedAt": "2026-05-11T17:37:17.592Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/stock/12042922",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12042922",
-    "titleFingerprint": "4c68588faca4c4a1d212416d38244fa6a1b62360",
-    "dedupKeys": [
-      "43b7bff8d11c762afddaa84a713235ce245dd7a3",
-      "4c68588faca4c4a1d212416d38244fa6a1b62360",
-      "0f10be3653a17164487681c0bfb1e38abd58891d"
-    ],
-    "imageUrl": "/images/articles/43b7bff8d11c.png",
-    "i18n": {
-      "ko": {
-        "title": "클래리티 법안 미국 상원 처리 눈앞, 은행권 스테이블코인 이자 금지 총력전",
-        "excerpt": "미국 은행권이 상원 처리를 앞둔 클래리티 법안의 막판 수정을 요구하며 예금 이탈 우려를 이유로 스테이블코인 이자 지급 전면 금지를 촉구하고 나섰다.",
-        "body": "미국 상원 처리를 앞둔 클래리티 법안을 둘러싸고 은행권과 가상자산 업계의 충돌이 커지고 있다. 미국 은행권은 법안 막판 수정 과정에서 예금 이탈 우려를 제기하며 스테이블코인 등 코인 이자 지급을 전면 금지해야 한다고 요구했다. 반면 코인베이스는 이를 은행권의 횡포이자 경쟁을 막는 행위라고 비판했다. 틸리스 상원의원은 기존 타협안을 유지해야 한다며 은행권 요구에 반박했다. 이번 논쟁은 스테이블코인 규제와 금융권 경쟁 구도에 직접 영향을 줄 수 있어 상원 처리 과정의 핵심 쟁점으로 떠올랐다. 출처는 mk.co.kr이다."
-      },
-      "en": {
-        "title": "Clarity Act Nears US Senate Vote as Banks Push Stablecoin Interest Ban",
-        "excerpt": "US banks are seeking last-minute changes to the Clarity Act before Senate action, citing deposit outflow risks and urging a full ban on interest payments tied to stablecoins.",
-        "body": "A dispute between US banks and the crypto industry is intensifying as the Clarity Act approaches Senate action. Banking groups are demanding last-minute revisions, arguing that interest payments on stablecoins and other coins should be fully banned because they could accelerate deposit outflows. Coinbase criticized the push as banking overreach and an attempt to suppress competition. Senator Tillis pushed back, saying the existing compromise should be preserved. The debate has become a key issue in the Senate process because it could directly affect stablecoin regulation and competition across the financial sector. Source: mk.co.kr."
-      },
-      "ja": {
-        "title": "クラリティ法案が米上院審議目前、銀行界はステーブルコイン利息禁止を要求",
-        "excerpt": "米銀行界は上院での処理を控えたクラリティ法案について、預金流出への懸念を理由にステーブルコインの利息支払い全面禁止を求めている。",
-        "body": "米上院での処理を目前に控えたクラリティ法案をめぐり、銀行界と暗号資産業界の対立が強まっている。米銀行界は法案の最終修正段階で、預金流出への懸念を示し、ステーブルコインなどコインへの利息支払いを全面的に禁止すべきだと要求した。一方、コインベースはこれを銀行界の横暴であり、競争を阻害する動きだと批判した。ティリス上院議員は、既存の妥協案を維持すべきだとして銀行界の要求に反論した。この論争はステーブルコイン規制と金融業界の競争構図に直接影響し得るため、上院での処理過程における主要争点となっている。出典はmk.co.kr。"
-      },
-      "zh": {
-        "title": "《清晰法案》临近美国参议院处理，银行业力推禁止稳定币付息",
-        "excerpt": "美国银行业在《清晰法案》临近参议院处理之际要求最后修改，称担忧存款外流，并敦促全面禁止稳定币等加密资产付息。",
-        "body": "随着《清晰法案》接近美国参议院处理，银行业与加密资产行业的冲突正在加剧。美国银行业在法案最后修改阶段提出要求，称担心存款外流，主张应全面禁止稳定币等加密资产支付利息。对此，Coinbase批评称，这是银行业的强势施压，也是扼杀竞争的行为。参议员Tillis则反驳银行业诉求，表示应维持现有折中方案。由于该争议可能直接影响稳定币监管和金融行业竞争格局，已成为参议院处理过程中的核心议题。来源：mk.co.kr。"
-      },
-      "es": {
-        "title": "Ley Clarity se acerca al Senado de EE. UU. y bancos exigen prohibir intereses en stablecoins",
-        "excerpt": "La banca estadounidense pide cambios finales a la Ley Clarity antes de su trámite en el Senado, alegando riesgo de fuga de depósitos y reclamando prohibir intereses en stablecoins.",
-        "body": "La disputa entre la banca estadounidense y la industria de criptoactivos se intensifica mientras la Ley Clarity se acerca a su trámite en el Senado. Los bancos de EE. UU. exigen cambios de última hora y sostienen que los pagos de intereses en stablecoins y otras monedas deben prohibirse por completo ante el temor a una salida de depósitos. Coinbase criticó la petición como un abuso de la banca y un intento de frenar la competencia. El senador Tillis respondió que debe mantenerse el acuerdo existente. El debate se ha convertido en un punto clave del proceso en el Senado porque puede afectar directamente la regulación de stablecoins y la competencia en el sector financiero. Fuente: mk.co.kr."
-      },
-      "pt": {
-        "title": "Lei Clarity se aproxima do Senado dos EUA e bancos pressionam por veto a juros em stablecoins",
-        "excerpt": "Bancos dos EUA pedem ajustes finais na Lei Clarity antes da análise no Senado, citando risco de saída de depósitos e defendendo proibição total de juros em stablecoins.",
-        "body": "A disputa entre bancos dos Estados Unidos e o setor de criptoativos cresce à medida que a Lei Clarity se aproxima da tramitação no Senado. O setor bancário americano exige mudanças de última hora e afirma que o pagamento de juros sobre stablecoins e outras moedas deve ser totalmente proibido por causa do risco de saída de depósitos. A Coinbase criticou a ofensiva como abuso dos bancos e uma tentativa de eliminar a concorrência. O senador Tillis rebateu, dizendo que o acordo já negociado deve ser mantido. A controvérsia virou ponto central no processo do Senado, pois pode afetar diretamente a regulação de stablecoins e a competição no sistema financeiro. Fonte: mk.co.kr."
-      },
-      "de": {
-        "title": "Clarity Act vor US-Senat: Banken drängen auf Zinsverbot für Stablecoins",
-        "excerpt": "US-Banken fordern kurz vor der Senatsbehandlung des Clarity Act letzte Änderungen und verlangen wegen Sorgen über Einlagenabflüsse ein vollständiges Zinsverbot für Stablecoins.",
-        "body": "Kurz vor der Behandlung des Clarity Act im US-Senat verschärft sich der Konflikt zwischen Banken und der Kryptoindustrie. Die US-Banken verlangen in der Schlussphase Änderungen am Gesetz und verweisen auf die Gefahr von Einlagenabflüssen. Deshalb sollen Zinszahlungen auf Stablecoins und andere Coins vollständig verboten werden. Coinbase kritisierte den Vorstoß als Machtmissbrauch der Banken und als Versuch, Wettbewerb zu unterbinden. Senator Tillis widersprach und erklärte, der bestehende Kompromiss solle beibehalten werden. Der Streit ist damit zu einem zentralen Punkt im Senatsverfahren geworden, weil er die Stablecoin-Regulierung und den Wettbewerb im Finanzsektor direkt beeinflussen kann. Quelle: mk.co.kr."
-      },
-      "fr": {
-        "title": "Clarity Act proche du Sénat américain, les banques veulent interdire les intérêts des stablecoins",
-        "excerpt": "Les banques américaines réclament des modifications finales du Clarity Act avant son examen au Sénat, invoquant le risque de fuite des dépôts pour interdire les intérêts des stablecoins.",
-        "body": "Le conflit entre les banques américaines et le secteur des cryptoactifs s’intensifie alors que le Clarity Act approche de son traitement au Sénat. Les banques demandent des modifications de dernière minute, affirmant que les paiements d’intérêts sur les stablecoins et d’autres monnaies doivent être totalement interdits en raison du risque de sortie des dépôts. Coinbase a critiqué cette demande, la qualifiant d’abus de pouvoir bancaire et de tentative d’étouffer la concurrence. Le sénateur Tillis a répliqué que le compromis existant devait être maintenu. Ce débat devient un enjeu central du processus au Sénat, car il peut influencer directement la réglementation des stablecoins et la concurrence dans la finance. Source : mk.co.kr."
-      },
-      "ar": {
-        "title": "قانون كلاريتي يقترب من مجلس الشيوخ الأميركي والبنوك تطالب بحظر فوائد العملات المستقرة",
-        "excerpt": "تطالب البنوك الأميركية بتعديلات أخيرة على قانون كلاريتي قبل نظره في مجلس الشيوخ، محذرة من خروج الودائع وداعية إلى حظر كامل لفوائد العملات المستقرة.",
-        "body": "يتصاعد الخلاف بين البنوك الأميركية وقطاع الأصول المشفرة مع اقتراب قانون كلاريتي من المعالجة في مجلس الشيوخ الأميركي. وتطالب البنوك بتعديلات في اللحظات الأخيرة، مشيرة إلى مخاوف من انتقال الودائع، ومؤكدة ضرورة حظر دفع الفوائد على العملات المستقرة وغيرها من العملات بشكل كامل. في المقابل، انتقدت كوين بيس هذا التحرك واعتبرته تعسفا من البنوك ومحاولة لقتل المنافسة. ورد السناتور تيليس بأن التسوية القائمة يجب أن تبقى كما هي. وأصبح هذا الجدل قضية محورية في مسار مجلس الشيوخ لأنه قد يؤثر مباشرة في تنظيم العملات المستقرة وهيكل المنافسة داخل القطاع المالي. المصدر: mk.co.kr."
-      },
-      "hi": {
-        "title": "क्लैरिटी बिल अमेरिकी सीनेट के करीब, बैंक स्थिरकॉइन ब्याज पर पूर्ण रोक के लिए जुटे",
-        "excerpt": "अमेरिकी बैंक सीनेट में आगे बढ़ने से पहले क्लैरिटी बिल में अंतिम संशोधन मांग रहे हैं और जमा निकासी की आशंका के कारण स्थिरकॉइन ब्याज पर पूर्ण रोक चाहते हैं।",
-        "body": "अमेरिकी सीनेट में क्लैरिटी बिल की प्रक्रिया नजदीक आने के साथ बैंकों और क्रिप्टो उद्योग के बीच टकराव बढ़ रहा है। अमेरिकी बैंकिंग क्षेत्र अंतिम संशोधन की मांग कर रहा है और जमा राशि के बाहर जाने की चिंता जताते हुए स्थिरकॉइन तथा अन्य कॉइन पर ब्याज भुगतान को पूरी तरह प्रतिबंधित करने की अपील कर रहा है। कॉइनबेस ने इसे बैंकों की मनमानी और प्रतिस्पर्धा खत्म करने की कोशिश बताया। सीनेटर टिलिस ने जवाब दिया कि मौजूदा समझौते को बनाए रखा जाना चाहिए। यह विवाद सीनेट प्रक्रिया का प्रमुख मुद्दा बन गया है क्योंकि इसका स्थिरकॉइन नियमन और वित्तीय क्षेत्र की प्रतिस्पर्धा पर सीधा असर पड़ सकता है। स्रोत: mk.co.kr."
-      },
-      "id": {
-        "title": "RUU Clarity Dekati Senat AS, Perbankan Desak Larangan Bunga Stablecoin",
-        "excerpt": "Perbankan AS meminta revisi akhir RUU Clarity menjelang proses Senat, dengan alasan risiko keluarnya simpanan dan mendesak larangan penuh bunga stablecoin.",
-        "body": "Perselisihan antara perbankan Amerika Serikat dan industri aset kripto meningkat saat RUU Clarity mendekati proses di Senat AS. Perbankan AS meminta perubahan pada tahap akhir pembahasan dan menyatakan kekhawatiran atas keluarnya simpanan, sehingga pembayaran bunga atas stablecoin dan koin lain harus dilarang sepenuhnya. Coinbase mengkritik langkah itu sebagai tindakan sewenang-wenang perbankan dan upaya mematikan persaingan. Senator Tillis membantah tuntutan tersebut dengan menyatakan bahwa kompromi yang sudah ada harus dipertahankan. Perdebatan ini menjadi isu utama dalam proses Senat karena dapat berdampak langsung pada regulasi stablecoin dan peta persaingan sektor keuangan. Sumber: mk.co.kr."
-      }
-    }
-  },
-  {
-    "id": "0d01058fa1aa",
-    "slug": "a16z-디지털애셋에-3억달러-베팅블록체인-인프라에-ma투자-집중-951614",
-    "channelId": "ETF",
-    "category": "etf",
-    "publishedAt": "2026-05-11T17:36:07.197Z",
-    "updatedAt": "2026-05-11T17:36:07.197Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/stock/12042923",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12042923",
-    "titleFingerprint": "d4621e9f03d421d8a460d032092941c4312fbfba",
-    "dedupKeys": [
-      "0d01058fa1aa52d5890f23c1c037829b1c617a13",
-      "d4621e9f03d421d8a460d032092941c4312fbfba",
-      "ab1c8b383ffa08632084bfbd2ad7a0aebf8b8944"
-    ],
-    "imageUrl": "/images/articles/0d01058fa1aa.png",
-    "i18n": {
-      "ko": {
-        "title": "a16z, 디지털애셋 3억달러 투자 임박…블록체인 인프라 주목",
-        "excerpt": "디지털애셋이 3억달러 규모 투자 유치를 앞둔 가운데 a16z 등 월가 기관 투자자가 참여하며 전통금융과 가상자산 시장의 접점 확대가 부각되고 있다.",
-        "body": "디지털애셋이 3억달러 규모 투자 유치에 임박한 것으로 전해지며 블록체인 인프라 시장에 월가 자금이 다시 주목받고 있다. 이번 투자에는 a16z를 비롯한 기관 투자자가 대거 참여하는 것으로 알려졌다. 원문은 전통 금융권과 가상자산 시장의 경계가 빠르게 흐려지고 있으며, 향후 5년 안에 두 시장의 구분이 사라질 수 있다는 관측도 함께 전했다. 디지털애셋은 블록체인 인프라 영역에서 M&A와 투자를 집중하는 흐름의 중심에 놓였다. 관련 자금 유입은 금융 인프라와 코인 시장을 잇는 기술 경쟁을 키울 수 있다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "a16z Nears $300 Million Digital Asset Bet as Blockchain Infrastructure Draws Focus",
-        "excerpt": "Digital Asset is reportedly close to raising $300 million, with a16z and other Wall Street institutional investors joining as links between traditional finance and crypto widen.",
-        "body": "Digital Asset is reportedly close to securing a $300 million investment, putting Wall Street capital back in focus in the blockchain infrastructure market. The round is said to include major participation from institutional investors, including a16z. The original report said the boundary between traditional finance and the virtual asset market is rapidly blurring, alongside a view that the distinction between the two markets could disappear within five years. Digital Asset stands at the center of a trend concentrating M&A and investment in blockchain infrastructure. The inflow of capital could intensify technology competition connecting financial infrastructure and the coin market. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "a16z、デジタルアセットに3億ドル投資へ…ブロックチェーン基盤に注目",
-        "excerpt": "デジタルアセットが3億ドル規模の資金調達に近づく中、a16zなどウォール街の機関投資家が参加し、伝統金融と暗号資産市場の接点拡大が注目されている。",
-        "body": "デジタルアセットが3億ドル規模の投資誘致に近づいていると伝えられ、ブロックチェーンインフラ市場にウォール街の資金が再び注目されている。今回の投資には、a16zを含む機関投資家が多数参加するものとされる。原文は、伝統的な金融圏と仮想資産市場の境界が急速に薄れつつあり、今後5年以内に両市場の区分が消える可能性があるとの見方も伝えた。デジタルアセットは、ブロックチェーンインフラ分野でM&Aと投資が集中する流れの中心にある。関連資金の流入は、金融インフラとコイン市場をつなぐ技術競争を強める可能性がある。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "a16z拟押注Digital Asset 3亿美元，区块链基础设施受关注",
-        "excerpt": "Digital Asset据称即将获得3亿美元融资，a16z等华尔街机构投资者参与，传统金融与虚拟资产市场的连接正在进一步扩大。",
-        "body": "据报道，Digital Asset即将完成3亿美元规模融资，区块链基础设施市场再次受到华尔街资金关注。本轮投资据称有包括a16z在内的大批机构投资者参与。原文称，传统金融领域与虚拟资产市场之间的边界正迅速变得模糊，并提到一种观点认为，未来5年内两大市场的区分可能消失。Digital Asset处在区块链基础设施领域并购与投资集中趋势的中心。相关资金流入可能加剧连接金融基础设施与币市的技术竞争。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "a16z prepara apuesta de 300 millones en Digital Asset y mira infraestructura blockchain",
-        "excerpt": "Digital Asset estaría cerca de captar 300 millones de dólares, con a16z y otros inversores institucionales de Wall Street, mientras crece el vínculo entre finanzas tradicionales y criptoactivos.",
-        "body": "Digital Asset estaría cerca de asegurar una inversión de 300 millones de dólares, lo que vuelve a poner el capital de Wall Street en el centro del mercado de infraestructura blockchain. En la ronda participarían numerosos inversores institucionales, incluido a16z. El informe original señaló que la frontera entre las finanzas tradicionales y el mercado de activos virtuales se está desdibujando con rapidez, junto con la visión de que la distinción entre ambos mercados podría desaparecer en un plazo de cinco años. Digital Asset queda en el centro de una tendencia de M&A e inversión concentrada en infraestructura blockchain. La entrada de capital podría intensificar la competencia tecnológica que conecta la infraestructura financiera con el mercado de monedas. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "a16z mira aporte de US$ 300 milhões na Digital Asset e reforça foco em blockchain",
-        "excerpt": "A Digital Asset estaria perto de captar US$ 300 milhões, com participação da a16z e de outros investidores institucionais de Wall Street, em meio à aproximação entre finanças tradicionais e criptoativos.",
-        "body": "A Digital Asset estaria perto de garantir um investimento de US$ 300 milhões, recolocando o capital de Wall Street em evidência no mercado de infraestrutura blockchain. A rodada deve contar com ampla participação de investidores institucionais, incluindo a a16z. A reportagem original afirmou que a fronteira entre o sistema financeiro tradicional e o mercado de ativos virtuais está se tornando rapidamente menos definida, além de citar a visão de que a distinção entre os dois mercados pode desaparecer em até cinco anos. A Digital Asset está no centro de uma tendência de M&A e investimentos concentrados em infraestrutura blockchain. A entrada de recursos pode intensificar a competição tecnológica que conecta infraestrutura financeira e mercado de moedas. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "a16z vor 300-Millionen-Dollar-Wette auf Digital Asset: Blockchain-Infrastruktur im Fokus",
-        "excerpt": "Digital Asset steht Berichten zufolge kurz vor einer Finanzierung über 300 Millionen Dollar, an der a16z und weitere institutionelle Investoren aus der Wall Street teilnehmen sollen.",
-        "body": "Digital Asset steht Berichten zufolge kurz davor, eine Investition über 300 Millionen Dollar zu sichern, wodurch Wall-Street-Kapital im Markt für Blockchain-Infrastruktur erneut in den Fokus rückt. An der Runde sollen zahlreiche institutionelle Investoren teilnehmen, darunter a16z. Der Originalbericht erklärte, dass die Grenze zwischen traditionellem Finanzwesen und dem Markt für virtuelle Vermögenswerte rasch verschwimmt, und nannte zugleich die Einschätzung, dass die Trennung beider Märkte innerhalb von fünf Jahren wegfallen könnte. Digital Asset steht im Zentrum eines Trends, bei dem sich M&A und Investitionen auf Blockchain-Infrastruktur konzentrieren. Der Kapitalzufluss könnte den technologischen Wettbewerb zwischen Finanzinfrastruktur und Coin-Markt verstärken. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "a16z vise 300 millions de dollars dans Digital Asset, l’infrastructure blockchain attire",
-        "excerpt": "Digital Asset serait proche de lever 300 millions de dollars, avec a16z et d’autres investisseurs institutionnels de Wall Street, alors que finance traditionnelle et cryptoactifs se rapprochent.",
-        "body": "Digital Asset serait proche d’obtenir un investissement de 300 millions de dollars, remettant les capitaux de Wall Street au centre de l’attention sur le marché des infrastructures blockchain. L’opération devrait inclure une large participation d’investisseurs institutionnels, dont a16z. Le rapport original indique que la frontière entre la finance traditionnelle et le marché des actifs virtuels s’estompe rapidement, avec l’idée que la distinction entre les deux marchés pourrait disparaître d’ici cinq ans. Digital Asset se trouve au centre d’une tendance concentrant M&A et investissements dans l’infrastructure blockchain. Cet afflux de capitaux pourrait renforcer la concurrence technologique reliant l’infrastructure financière au marché des monnaies. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "a16z تقترب من رهان بـ300 مليون دولار على Digital Asset وتركيز على البلوك تشين",
-        "excerpt": "تقترب Digital Asset من جمع استثمار بقيمة 300 مليون دولار بمشاركة a16z ومستثمرين مؤسسيين من وول ستريت، مع اتساع الصلة بين التمويل التقليدي وسوق الأصول الافتراضية.",
-        "body": "تقترب Digital Asset، بحسب التقرير، من الحصول على استثمار بقيمة 300 مليون دولار، ما يعيد أموال وول ستريت إلى دائرة الاهتمام في سوق بنية البلوك تشين التحتية. ويُعرف أن الجولة ستشهد مشاركة واسعة من مستثمرين مؤسسيين، بينهم a16z. وذكر التقرير الأصلي أن الحدود بين القطاع المالي التقليدي وسوق الأصول الافتراضية تتلاشى بسرعة، مع طرح رؤية مفادها أن الفصل بين السوقين قد يختفي خلال خمس سنوات. وتقع Digital Asset في مركز اتجاه يركز عمليات الاندماج والاستحواذ والاستثمار على بنية البلوك تشين التحتية. وقد يزيد تدفق الأموال المنافسة التقنية التي تربط البنية المالية بسوق العملات. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "a16z का Digital Asset में 30 करोड़ डॉलर दांव, ब्लॉकचेन इंफ्रास्ट्रक्चर पर फोकस",
-        "excerpt": "Digital Asset 30 करोड़ डॉलर की फंडिंग के करीब बताई जा रही है, जिसमें a16z और वॉल स्ट्रीट के संस्थागत निवेशक शामिल हैं, जबकि पारंपरिक वित्त और क्रिप्टो बाजार की दूरी घट रही है।",
-        "body": "Digital Asset के 30 करोड़ डॉलर के निवेश जुटाने के करीब होने की खबर से ब्लॉकचेन इंफ्रास्ट्रक्चर बाजार में वॉल स्ट्रीट पूंजी फिर चर्चा में है। इस निवेश में a16z सहित कई संस्थागत निवेशकों की बड़ी भागीदारी बताई गई है। मूल रिपोर्ट के अनुसार, पारंपरिक वित्तीय क्षेत्र और वर्चुअल एसेट बाजार के बीच की सीमा तेजी से धुंधली हो रही है, और यह आकलन भी सामने आया कि अगले पांच वर्षों में दोनों बाजारों का अंतर समाप्त हो सकता है। Digital Asset ब्लॉकचेन इंफ्रास्ट्रक्चर क्षेत्र में M&A और निवेश पर केंद्रित प्रवाह के बीच स्थित है। संबंधित पूंजी प्रवाह वित्तीय इंफ्रास्ट्रक्चर और कॉइन बाजार को जोड़ने वाली तकनीकी प्रतिस्पर्धा बढ़ा सकता है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "a16z Siapkan Taruhan US$300 Juta di Digital Asset, Infrastruktur Blockchain Disorot",
-        "excerpt": "Digital Asset dilaporkan hampir meraih investasi US$300 juta, dengan partisipasi a16z dan investor institusional Wall Street saat hubungan keuangan tradisional dan aset virtual makin luas.",
-        "body": "Digital Asset dilaporkan hampir mendapatkan investasi senilai US$300 juta, membuat modal Wall Street kembali menjadi sorotan di pasar infrastruktur blockchain. Putaran ini disebut melibatkan banyak investor institusional, termasuk a16z. Laporan asli menyebut batas antara sektor keuangan tradisional dan pasar aset virtual kian cepat memudar, disertai pandangan bahwa pemisahan kedua pasar dapat hilang dalam lima tahun. Digital Asset berada di pusat tren yang memusatkan M&A dan investasi pada infrastruktur blockchain. Masuknya dana terkait dapat meningkatkan persaingan teknologi yang menghubungkan infrastruktur keuangan dan pasar koin. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "749d509ed5e3",
-    "slug": "스테이블코인이-카드-대체할-수-밖에-없는-이유ai에이전트-시대-다가온다-687067",
-    "channelId": "ETF",
-    "category": "etf",
-    "publishedAt": "2026-05-11T17:35:08.138Z",
-    "updatedAt": "2026-05-11T17:35:08.138Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/stock/12042926",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12042926",
-    "titleFingerprint": "c9b0fbcf362847c3a738d8caccdb9dc6f5ca70a5",
-    "dedupKeys": [
-      "749d509ed5e32643032f43ff01ba47fadf6abfeb",
-      "c9b0fbcf362847c3a738d8caccdb9dc6f5ca70a5",
-      "3d114895d15ea06d4583299f23bb11eddc1eacba"
-    ],
-    "imageUrl": "/images/articles/749d509ed5e3.jpg",
-    "i18n": {
-      "ko": {
-        "title": "스테이블코인 결제, 카드 대체론 부상…AI에이전트 시대의 핵심 변수",
-        "excerpt": "퍼스트디지털 빈센트 척 CEO는 mk.co.kr 인터뷰에서 FDUSD 발행 경험을 바탕으로 AI 결제가 스테이블코인의 미래이며 원화 스테이블코인이 한국 결제 혁신을 이끌 수 있다고 밝혔다.",
-        "body": "빈센트 척 퍼스트디지털 CEO는 mk.co.kr 인터뷰에서 스테이블코인이 카드 결제를 대체할 가능성과 AI에이전트 시대의 결제 변화를 언급했다. 퍼스트디지털은 아시아 최초의 달러 스테이블코인 FDUSD를 발행한 곳으로 소개됐다. 척 CEO는 “AI 결제가 스테이블코인의 미래”라고 밝히며, 자동화된 AI 서비스가 늘어날수록 빠르고 효율적인 디지털 결제 수단의 필요성이 커진다고 설명했다. 그는 또 원화 스테이블코인이 한국 결제 시장의 혁신을 이끌 수 있다고 말했다. 관련 내용은 mk.co.kr 보도를 인용했다."
-      },
-      "en": {
-        "title": "Stablecoin Payments Gain Ground as AI Agents Challenge Card Networks",
-        "excerpt": "In an interview with mk.co.kr, First Digital CEO Vincent Chok said AI payments are the future of stablecoins and that a won stablecoin could drive payment innovation in Korea.",
-        "body": "Vincent Chok, CEO of First Digital, discussed in an interview with mk.co.kr why stablecoins could replace card payments and how payments may change in the era of AI agents. First Digital was introduced as the issuer of FDUSD, Asia’s first dollar stablecoin. Chok said, “AI payments are the future of stablecoins,” explaining that as automated AI services expand, demand will grow for fast and efficient digital payment methods. He also said a Korean won stablecoin could lead innovation in Korea’s payment market. This report cites mk.co.kr."
-      },
-      "ja": {
-        "title": "ステーブルコイン決済、カード代替論が浮上…AIエージェント時代の焦点",
-        "excerpt": "ファーストデジタルのビンセント・チョクCEOはmk.co.krのインタビューで、AI決済がステーブルコインの未来であり、ウォン建てステーブルコインが韓国の決済革新を導く可能性があると述べた。",
-        "body": "ファーストデジタルのビンセント・チョクCEOはmk.co.krのインタビューで、ステーブルコインがカード決済を代替する可能性と、AIエージェント時代の決済変化について語った。ファーストデジタルは、アジア初のドル建てステーブルコインFDUSDを発行した企業として紹介された。チョクCEOは「AI決済がステーブルコインの未来」と述べ、自動化されたAIサービスが増えるほど、迅速で効率的なデジタル決済手段の必要性が高まると説明した。また、ウォン建てステーブルコインが韓国の決済市場の革新を導く可能性があるとも述べた。本記事はmk.co.krの報道を引用した。"
-      },
-      "zh": {
-        "title": "稳定币支付挑战银行卡模式，AI代理时代成关键变量",
-        "excerpt": "First Digital首席执行官Vincent Chok在mk.co.kr采访中表示，AI支付是稳定币的未来，韩元稳定币有望推动韩国支付创新。",
-        "body": "First Digital首席执行官Vincent Chok在mk.co.kr采访中谈到，稳定币可能取代银行卡支付，并改变AI代理时代的支付方式。First Digital被介绍为亚洲首个美元稳定币FDUSD的发行方。Chok表示，“AI支付是稳定币的未来”，并说明随着自动化AI服务增加，市场对快速、高效数字支付工具的需求将扩大。他还表示，韩元稳定币可能引领韩国支付市场创新。本文引用mk.co.kr报道。"
-      },
-      "es": {
-        "title": "Pagos con stablecoins ganan terreno frente a tarjetas en la era de agentes de IA",
-        "excerpt": "Vincent Chok, CEO de First Digital, dijo a mk.co.kr que los pagos con IA son el futuro de las stablecoins y que una stablecoin en won podría impulsar la innovación de pagos en Corea.",
-        "body": "Vincent Chok, CEO de First Digital, explicó en una entrevista con mk.co.kr por qué las stablecoins podrían reemplazar los pagos con tarjeta y cómo cambiarían los pagos en la era de los agentes de IA. First Digital fue presentada como emisora de FDUSD, la primera stablecoin en dólares de Asia. Chok afirmó que “los pagos con IA son el futuro de las stablecoins” y señaló que, a medida que crezcan los servicios automatizados de IA, aumentará la necesidad de medios de pago digitales rápidos y eficientes. También dijo que una stablecoin en won podría liderar la innovación del mercado de pagos de Corea. Este artículo cita a mk.co.kr."
-      },
-      "pt": {
-        "title": "Pagamentos com stablecoins avançam contra cartões na era dos agentes de IA",
-        "excerpt": "Vincent Chok, CEO da First Digital, disse ao mk.co.kr que pagamentos com IA são o futuro das stablecoins e que uma stablecoin em won pode impulsionar a inovação de pagamentos na Coreia.",
-        "body": "Vincent Chok, CEO da First Digital, afirmou em entrevista ao mk.co.kr que as stablecoins podem substituir pagamentos com cartão e alterar os pagamentos na era dos agentes de IA. A First Digital foi apresentada como emissora da FDUSD, a primeira stablecoin em dólar da Ásia. Chok disse que “pagamentos com IA são o futuro das stablecoins” e explicou que, com a expansão de serviços automatizados de IA, cresce a necessidade de meios digitais de pagamento rápidos e eficientes. Ele também afirmou que uma stablecoin em won pode liderar a inovação no mercado de pagamentos da Coreia. Este texto cita o mk.co.kr."
-      },
-      "de": {
-        "title": "Stablecoin-Zahlungen rücken als Kartenalternative im Zeitalter von KI-Agenten vor",
-        "excerpt": "First-Digital-CEO Vincent Chok sagte im Interview mit mk.co.kr, KI-Zahlungen seien die Zukunft von Stablecoins und ein Won-Stablecoin könne Koreas Zahlungsinnovation antreiben.",
-        "body": "Vincent Chok, CEO von First Digital, sprach in einem Interview mit mk.co.kr über die Möglichkeit, dass Stablecoins Kartenzahlungen ersetzen, und über Veränderungen im Zahlungsverkehr im Zeitalter von KI-Agenten. First Digital wurde als Emittent von FDUSD vorgestellt, dem ersten Dollar-Stablecoin Asiens. Chok sagte: „KI-Zahlungen sind die Zukunft von Stablecoins“, und erklärte, dass mit der Zunahme automatisierter KI-Dienste der Bedarf an schnellen und effizienten digitalen Zahlungsmitteln wachse. Zudem sagte er, ein Won-Stablecoin könne Innovationen im koreanischen Zahlungsmarkt anführen. Dieser Beitrag zitiert mk.co.kr."
-      },
-      "fr": {
-        "title": "Les paiements en stablecoins défient les cartes avec l’arrivée des agents IA",
-        "excerpt": "Vincent Chok, CEO de First Digital, a déclaré à mk.co.kr que les paiements par IA sont l’avenir des stablecoins et qu’un stablecoin en won pourrait porter l’innovation des paiements en Corée.",
-        "body": "Vincent Chok, CEO de First Digital, a évoqué dans une interview à mk.co.kr la possibilité que les stablecoins remplacent les paiements par carte et transforment les paiements à l’ère des agents IA. First Digital a été présenté comme l’émetteur de FDUSD, le premier stablecoin en dollar d’Asie. Chok a déclaré que « les paiements par IA sont l’avenir des stablecoins » et expliqué qu’avec l’essor des services IA automatisés, le besoin de moyens de paiement numériques rapides et efficaces augmentera. Il a aussi indiqué qu’un stablecoin en won pourrait mener l’innovation du marché coréen des paiements. Cet article cite mk.co.kr."
-      },
-      "ar": {
-        "title": "مدفوعات العملات المستقرة تبرز كبديل للبطاقات مع عصر وكلاء الذكاء الاصطناعي",
-        "excerpt": "قال فينسنت تشوك، الرئيس التنفيذي لـFirst Digital، في مقابلة مع mk.co.kr إن مدفوعات الذكاء الاصطناعي هي مستقبل العملات المستقرة، وإن عملة مستقرة بالوون قد تقود ابتكار المدفوعات في كوريا.",
-        "body": "تحدث فينسنت تشوك، الرئيس التنفيذي لـFirst Digital، في مقابلة مع mk.co.kr عن احتمال أن تحل العملات المستقرة محل مدفوعات البطاقات، وعن تغيرات الدفع في عصر وكلاء الذكاء الاصطناعي. وقُدمت First Digital بوصفها جهة إصدار FDUSD، أول عملة مستقرة بالدولار في آسيا. وقال تشوك إن «مدفوعات الذكاء الاصطناعي هي مستقبل العملات المستقرة»، موضحا أنه كلما زادت خدمات الذكاء الاصطناعي المؤتمتة، زادت الحاجة إلى وسائل دفع رقمية سريعة وفعالة. وأضاف أن عملة مستقرة بالوون قد تقود الابتكار في سوق المدفوعات الكورية. يستند هذا النص إلى تقرير mk.co.kr."
-      },
-      "hi": {
-        "title": "AI एजेंट युग में कार्ड भुगतान को चुनौती देती स्टेबलकॉइन पेमेंट व्यवस्था",
-        "excerpt": "First Digital के CEO Vincent Chok ने mk.co.kr से कहा कि AI भुगतान स्टेबलकॉइन का भविष्य है और वॉन स्टेबलकॉइन कोरिया में भुगतान नवाचार को आगे बढ़ा सकता है।",
-        "body": "First Digital के CEO Vincent Chok ने mk.co.kr के साथ साक्षात्कार में बताया कि स्टेबलकॉइन कार्ड भुगतान की जगह ले सकते हैं और AI एजेंट युग में भुगतान व्यवस्था बदल सकती है। First Digital को एशिया के पहले डॉलर स्टेबलकॉइन FDUSD के जारीकर्ता के रूप में प्रस्तुत किया गया। Chok ने कहा, “AI भुगतान स्टेबलकॉइन का भविष्य है,” और समझाया कि जैसे-जैसे स्वचालित AI सेवाएं बढ़ेंगी, तेज और प्रभावी डिजिटल भुगतान साधनों की जरूरत भी बढ़ेगी। उन्होंने यह भी कहा कि कोरियाई वॉन स्टेबलकॉइन कोरिया के भुगतान बाजार में नवाचार का नेतृत्व कर सकता है। यह लेख mk.co.kr की रिपोर्ट का हवाला देता है।"
-      },
-      "id": {
-        "title": "Pembayaran Stablecoin Menguat sebagai Alternatif Kartu di Era Agen AI",
-        "excerpt": "CEO First Digital Vincent Chok mengatakan kepada mk.co.kr bahwa pembayaran AI adalah masa depan stablecoin dan stablecoin won dapat mendorong inovasi pembayaran di Korea.",
-        "body": "CEO First Digital Vincent Chok dalam wawancara dengan mk.co.kr membahas kemungkinan stablecoin menggantikan pembayaran kartu dan perubahan pembayaran di era agen AI. First Digital diperkenalkan sebagai penerbit FDUSD, stablecoin dolar pertama di Asia. Chok mengatakan, “Pembayaran AI adalah masa depan stablecoin,” seraya menjelaskan bahwa ketika layanan AI otomatis semakin bertambah, kebutuhan terhadap sarana pembayaran digital yang cepat dan efisien akan meningkat. Ia juga mengatakan stablecoin won dapat memimpin inovasi di pasar pembayaran Korea. Artikel ini mengutip laporan mk.co.kr."
       }
     }
   }
