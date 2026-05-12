@@ -1,5 +1,230 @@
 [
   {
+    "id": "3d44df874df0",
+    "slug": "a16z-서클의-새-블록체인-아크에-7500만달러-베팅비자페이팔-넘보는-스테이블코인-585683",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-05-12T03:18:21.732Z",
+    "updatedAt": "2026-05-12T03:18:21.732Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/stock/12044331",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12044331",
+    "titleFingerprint": "455c4aca76a939553f13f377084307eb73c40510",
+    "dedupKeys": [
+      "3d44df874df0608c4230a6b39043bf110a03221b",
+      "455c4aca76a939553f13f377084307eb73c40510",
+      "0b4b69b86465fc965793b8bc9c9545332318da05"
+    ],
+    "imageUrl": "/images/articles/3d44df874df0.png",
+    "i18n": {
+      "ko": {
+        "title": "a16z, 서클 새 블록체인 아크에 7500만달러 투자",
+        "excerpt": "글로벌 벤처캐피털 a16z가 서클의 새 블록체인 아크 ARC 토큰에 7500만달러를 투자하며 기업용 스테이블코인 결제 인프라 확장에 힘을 실었다.",
+        "body": "글로벌 벤처캐피털 a16z가 서클의 새 블록체인 ‘아크’의 ARC 토큰에 7500만달러를 투자했다. 아크는 기업용 통제와 프라이버시 기능을 탑재한 블록체인으로, 스테이블코인 결제와 정산 활용을 겨냥한다. 원문에 따르면 골드만삭스와 비자 등 200여 곳이 우군으로 언급됐으며, 결제부터 회계까지 1초 안에 정산을 완료하는 구조가 핵심으로 제시됐다. 이번 투자는 스테이블코인이 기존 결제 네트워크와 핀테크 기업의 영역을 넘볼 수 있다는 시장의 관심을 키운다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "a16z invests $75 million in Circle’s new Arc blockchain",
+        "excerpt": "Venture capital firm a16z invested $75 million in ARC tokens for Circle’s new Arc blockchain, supporting enterprise stablecoin payment infrastructure.",
+        "body": "Global venture capital firm a16z invested $75 million in ARC tokens for Circle’s new blockchain, Arc. Arc is described as a blockchain with enterprise control and privacy features, targeting stablecoin payments and settlement use cases. According to the original report, more than 200 allies, including Goldman Sachs and Visa, were cited, while settlement from payment to accounting within one second was presented as a core feature. The investment adds attention to whether stablecoins can challenge the territory of existing payment networks and fintech companies. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "a16z、サークルの新ブロックチェーンArcに7500万ドル投資",
+        "excerpt": "グローバルVCのa16zが、サークルの新ブロックチェーンArcのARCトークンに7500万ドルを投資し、企業向けステーブルコイン決済基盤を後押しした。",
+        "body": "グローバル・ベンチャーキャピタルのa16zは、サークルの新ブロックチェーン「Arc」のARCトークンに7500万ドルを投資した。Arcは企業向けの統制機能とプライバシー機能を備えたブロックチェーンで、ステーブルコイン決済と清算での活用を狙う。原文によると、ゴールドマン・サックスやビザなど200社以上が支援勢力として言及され、決済から会計まで1秒以内に清算を完了する仕組みが中核として示された。今回の投資は、ステーブルコインが既存の決済ネットワークやフィンテック企業の領域に迫る可能性への関心を高める。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "a16z向Circle新链Arc投资7500万美元",
+        "excerpt": "全球风投a16z向Circle新区块链Arc的ARC代币投资7500万美元，推动面向企业的稳定币支付与结算基础设施扩展。",
+        "body": "全球风险投资机构a16z向Circle的新区块链“Arc”的ARC代币投资7500万美元。Arc是一条搭载企业级控制与隐私功能的区块链，目标是用于稳定币支付和结算。原文称，高盛、Visa等200多家机构被提及为支持方，其核心结构是从支付到会计在1秒内完成结算。此次投资提升了市场对稳定币能否触及现有支付网络和金融科技企业领域的关注。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "a16z invierte 75 millones de dólares en la nueva blockchain Arc de Circle",
+        "excerpt": "La firma global de capital de riesgo a16z invirtió 75 millones de dólares en tokens ARC de la nueva blockchain Arc de Circle para impulsar pagos con stablecoins empresariales.",
+        "body": "La firma global de capital de riesgo a16z invirtió 75 millones de dólares en tokens ARC de Arc, la nueva blockchain de Circle. Arc incorpora funciones de control empresarial y privacidad, y está orientada al uso de stablecoins en pagos y liquidaciones. Según el reporte original, se mencionan más de 200 aliados, incluidos Goldman Sachs y Visa, y se destaca como elemento central la liquidación en menos de un segundo desde el pago hasta la contabilidad. La inversión aumenta el interés sobre si las stablecoins pueden acercarse al terreno de las redes de pago y las fintech existentes. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "a16z investe US$ 75 milhões na nova blockchain Arc da Circle",
+        "excerpt": "A gestora global de venture capital a16z investiu US$ 75 milhões em tokens ARC da nova blockchain Arc da Circle, reforçando a infraestrutura empresarial de pagamentos com stablecoins.",
+        "body": "A gestora global de venture capital a16z investiu US$ 75 milhões em tokens ARC da Arc, a nova blockchain da Circle. A Arc é apresentada como uma blockchain com recursos de controle empresarial e privacidade, voltada ao uso de stablecoins em pagamentos e liquidações. Segundo a reportagem original, mais de 200 aliados, incluindo Goldman Sachs e Visa, foram citados, enquanto a liquidação em até um segundo do pagamento à contabilidade foi destacada como ponto central. O investimento amplia a atenção sobre a possibilidade de stablecoins avançarem sobre áreas de redes de pagamento e fintechs já estabelecidas. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "a16z investiert 75 Millionen Dollar in Circles neue Blockchain Arc",
+        "excerpt": "Der globale Risikokapitalgeber a16z investiert 75 Millionen Dollar in ARC-Token von Circles neuer Blockchain Arc und stärkt damit Infrastruktur für Stablecoin-Zahlungen im Unternehmensbereich.",
+        "body": "Der globale Risikokapitalgeber a16z hat 75 Millionen Dollar in ARC-Token von Arc, der neuen Blockchain von Circle, investiert. Arc wird als Blockchain mit Kontroll- und Datenschutzfunktionen für Unternehmen beschrieben und zielt auf den Einsatz von Stablecoins bei Zahlungen und Abwicklungen. Dem ursprünglichen Bericht zufolge wurden mehr als 200 Verbündete genannt, darunter Goldman Sachs und Visa. Als Kernmerkmal wurde eine Abwicklung von der Zahlung bis zur Buchhaltung innerhalb einer Sekunde hervorgehoben. Die Investition erhöht die Aufmerksamkeit dafür, ob Stablecoins in Bereiche bestehender Zahlungsnetzwerke und Fintech-Unternehmen vordringen können. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "a16z investit 75 millions de dollars dans la nouvelle blockchain Arc de Circle",
+        "excerpt": "Le fonds mondial de capital-risque a16z a investi 75 millions de dollars dans les jetons ARC de la nouvelle blockchain Arc de Circle, renforçant l’infrastructure de paiement en stablecoins pour les entreprises.",
+        "body": "Le fonds mondial de capital-risque a16z a investi 75 millions de dollars dans les jetons ARC d’Arc, la nouvelle blockchain de Circle. Arc est présentée comme une blockchain dotée de fonctions de contrôle et de confidentialité pour les entreprises, destinée aux paiements et aux règlements en stablecoins. Selon l’article original, plus de 200 alliés, dont Goldman Sachs et Visa, sont mentionnés, tandis que le règlement en moins d’une seconde, du paiement à la comptabilité, est présenté comme un élément clé. Cet investissement accroît l’attention portée à la capacité des stablecoins à s’approcher du territoire des réseaux de paiement et des fintechs existants. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "a16z تستثمر 75 مليون دولار في بلوكتشين Arc الجديدة من Circle",
+        "excerpt": "استثمرت شركة رأس المال الجريء العالمية a16z مبلغ 75 مليون دولار في رموز ARC الخاصة ببلوكتشين Arc الجديدة من Circle، دعما لبنية مدفوعات العملات المستقرة للشركات.",
+        "body": "استثمرت شركة رأس المال الجريء العالمية a16z مبلغ 75 مليون دولار في رموز ARC الخاصة ببلوكتشين Arc الجديدة من Circle. وتوصف Arc بأنها بلوكتشين مزودة بوظائف تحكم وخصوصية موجهة للشركات، وتركز على استخدام العملات المستقرة في المدفوعات والتسويات. وبحسب التقرير الأصلي، ذُكر أكثر من 200 حليف، من بينهم Goldman Sachs وVisa، كما طُرح إنجاز التسوية من الدفع إلى المحاسبة خلال ثانية واحدة كميزة أساسية. ويزيد هذا الاستثمار الاهتمام بما إذا كانت العملات المستقرة قادرة على الاقتراب من مجالات شبكات الدفع وشركات التكنولوجيا المالية القائمة. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "a16z ने Circle की नई Arc ब्लॉकचेन में 7.5 करोड़ डॉलर लगाए",
+        "excerpt": "वैश्विक वेंचर कैपिटल फर्म a16z ने Circle की नई Arc ब्लॉकचेन के ARC टोकन में 7.5 करोड़ डॉलर निवेश किए, जिससे एंटरप्राइज स्टेबलकॉइन भुगतान ढांचे को बल मिला।",
+        "body": "वैश्विक वेंचर कैपिटल फर्म a16z ने Circle की नई ब्लॉकचेन Arc के ARC टोकन में 7.5 करोड़ डॉलर का निवेश किया। Arc को एंटरप्राइज नियंत्रण और गोपनीयता सुविधाओं वाली ब्लॉकचेन बताया गया है, जिसका लक्ष्य स्टेबलकॉइन भुगतान और सेटलमेंट उपयोग है। मूल रिपोर्ट के अनुसार, Goldman Sachs और Visa सहित 200 से अधिक सहयोगियों का उल्लेख किया गया, जबकि भुगतान से लेखांकन तक 1 सेकंड के भीतर सेटलमेंट पूरा करने की संरचना को मुख्य विशेषता के रूप में पेश किया गया। यह निवेश इस बात पर बाजार की रुचि बढ़ाता है कि क्या स्टेबलकॉइन मौजूदा भुगतान नेटवर्क और फिनटेक कंपनियों के क्षेत्र को चुनौती दे सकते हैं। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "a16z investasikan US$75 juta ke blockchain baru Circle, Arc",
+        "excerpt": "Perusahaan modal ventura global a16z menginvestasikan US$75 juta pada token ARC dari blockchain baru Circle, Arc, untuk memperkuat infrastruktur pembayaran stablecoin bagi perusahaan.",
+        "body": "Perusahaan modal ventura global a16z menginvestasikan US$75 juta pada token ARC dari Arc, blockchain baru milik Circle. Arc disebut sebagai blockchain dengan fitur kontrol dan privasi untuk perusahaan, yang ditujukan bagi penggunaan stablecoin dalam pembayaran dan penyelesaian. Menurut laporan asli, lebih dari 200 pihak pendukung, termasuk Goldman Sachs dan Visa, disebutkan, sementara penyelesaian dari pembayaran hingga akuntansi dalam satu detik menjadi fitur utama. Investasi ini meningkatkan perhatian pasar terhadap kemungkinan stablecoin memasuki wilayah jaringan pembayaran dan perusahaan fintech yang sudah ada. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "366208a12360",
+    "slug": "mk시그널-심텍홀딩스-자회사-심텍-실적-턴어라운드-및-ai-기판-수요-폭증-등에-주가-상승세-mk시그널-추천-257359",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-05-12T03:17:15.493Z",
+    "updatedAt": "2026-05-12T03:17:15.493Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/stock/12044332",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12044332",
+    "titleFingerprint": "4003f20cbb5e6a7ef39db5599428e1d642ccae23",
+    "dedupKeys": [
+      "366208a12360b094d0893bbbbea3ab6f5acacd4d",
+      "4003f20cbb5e6a7ef39db5599428e1d642ccae23",
+      "5578602ae9a21f73e2022f751c5aefe7a85c1684"
+    ],
+    "imageUrl": "/images/articles/366208a12360.jpg",
+    "i18n": {
+      "ko": {
+        "title": "심텍홀딩스 주가 상승, 심텍 턴어라운드·AI 기판 수요 주목",
+        "excerpt": "5월 12일 심텍홀딩스가 자회사 심텍의 실적 턴어라운드와 AI 기판 수요 증가 기대 속에 상승세를 보이며 MK시그널 추천 후 23.82% 올랐다.",
+        "body": "5월 12일 오전 9시 14분 기준 심텍홀딩스(036710)가 상승세를 보이고 있다. 전 거래일 심텍홀딩스 주가는 종가 기준 5,790원 상승으로 마감했으며, 이날 현재 주가는 5,840원으로 전일 종가 대비 오름세를 나타냈다. 원문은 자회사 심텍의 실적 턴어라운드와 AI 기판 수요 폭증 등이 주가 상승 배경으로 거론됐다고 전했다. 또한 MK시그널 추천 이후 상승률은 23.82%로 제시됐다. 관련 수치와 주가 흐름은 투자자들이 심텍홀딩스와 심텍의 실적 개선 가능성, AI 기판 수요 확대를 주목하고 있음을 보여준다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Simmtech Holdings Rises as Simmtech Turnaround and AI Substrate Demand Draw Focus",
+        "excerpt": "On May 12, Simmtech Holdings rose as investors focused on subsidiary Simmtech’s earnings turnaround and rising AI substrate demand, up 23.82% since MK Signal’s recommendation.",
+        "body": "As of 9:14 a.m. on May 12, Simmtech Holdings (036710) was trading higher. The stock had closed the previous session with a closing-price gain to 5,790 won, and was quoted at 5,840 won at the stated time, extending its upward move from the prior close. The original report cited the earnings turnaround at subsidiary Simmtech and a surge in AI substrate demand as factors behind the share-price strength. It also stated that the stock had risen 23.82% since being recommended by MK Signal. These figures show investor attention on Simmtech Holdings, Simmtech’s potential earnings improvement, and expanding AI substrate demand. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "シムテックホールディングス株上昇、シムテック業績回復とAI基板需要に注目",
+        "excerpt": "5月12日、シムテックホールディングスは子会社シムテックの業績ターンアラウンドとAI基板需要増加への期待を背景に上昇し、MKシグナル推奨後23.82%上昇した。",
+        "body": "5月12日午前9時14分時点で、シムテックホールディングス（036710）が上昇している。前取引日の同社株価は終値基準で5,790ウォン上昇して取引を終え、この時点の株価は5,840ウォンと、前日終値から上向きの動きを示した。原文は、子会社シムテックの業績ターンアラウンドとAI基板需要の急増などが株価上昇の背景として挙げられたと伝えた。また、MKシグナルの推奨後の上昇率は23.82%と示された。関連する数値と株価の流れは、投資家がシムテックホールディングスとシムテックの業績改善可能性、AI基板需要の拡大に注目していることを示している。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "Simmtech Holdings股价上涨，Simmtech业绩反转与AI基板需求受关注",
+        "excerpt": "5月12日，Simmtech Holdings在子公司Simmtech业绩反转及AI基板需求增长预期下走高，MK Signal推荐后涨幅达23.82%。",
+        "body": "截至5月12日上午9时14分，Simmtech Holdings（036710）股价呈上涨态势。前一交易日，该股以收盘价计上涨至5,790韩元收盘；当日上述时间的股价为5,840韩元，较前日收盘价继续上行。原文称，子公司Simmtech的业绩反转以及AI基板需求激增等，被提及为股价上涨背景。此外，MK Signal推荐后的涨幅为23.82%。相关数据和股价走势显示，投资者正在关注Simmtech Holdings及Simmtech业绩改善的可能性，以及AI基板需求扩大的因素。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Simmtech Holdings sube por giro de Simmtech y demanda de sustratos de IA",
+        "excerpt": "El 12 de mayo, Simmtech Holdings avanzó por el giro en resultados de su filial Simmtech y la mayor demanda de sustratos de IA; acumula 23,82% desde la recomendación de MK Signal.",
+        "body": "A las 9:14 del 12 de mayo, Simmtech Holdings (036710) cotizaba al alza. En la sesión anterior, la acción cerró con un precio de 5.790 wones, y en el momento indicado se situaba en 5.840 wones, mostrando un avance frente al cierre previo. El reporte original señaló como factores del movimiento la recuperación de resultados de su filial Simmtech y el fuerte aumento de la demanda de sustratos para IA. También indicó que la acción había subido 23,82% desde la recomendación de MK Signal. Estas cifras y la evolución del precio reflejan la atención de los inversores sobre Simmtech Holdings, la posible mejora de Simmtech y la expansión de la demanda de sustratos de IA. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Simmtech Holdings avança com virada da Simmtech e demanda por substratos de IA",
+        "excerpt": "Em 12 de maio, a Simmtech Holdings subiu com foco na virada de resultados da subsidiária Simmtech e na demanda por substratos de IA, acumulando 23,82% desde a recomendação da MK Signal.",
+        "body": "Às 9h14 de 12 de maio, a Simmtech Holdings (036710) operava em alta. No pregão anterior, a ação encerrou com preço de fechamento de 5.790 won, e no horário informado era negociada a 5.840 won, mantendo avanço em relação ao fechamento anterior. O texto original apontou a virada de resultados da subsidiária Simmtech e o forte aumento da demanda por substratos de IA como fatores por trás da alta das ações. Também informou que o papel subiu 23,82% desde a recomendação da MK Signal. Os números e o movimento do preço mostram a atenção dos investidores à Simmtech Holdings, à possível melhora da Simmtech e à expansão da demanda por substratos de IA. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Simmtech Holdings steigt: Simmtech-Turnaround und KI-Substratnachfrage im Fokus",
+        "excerpt": "Am 12. Mai legte Simmtech Holdings zu, gestützt durch den Turnaround der Tochter Simmtech und höhere Nachfrage nach KI-Substraten; seit der MK-Signal-Empfehlung beträgt das Plus 23,82%.",
+        "body": "Am 12. Mai um 9:14 Uhr notierte Simmtech Holdings (036710) höher. In der vorherigen Sitzung hatte die Aktie auf Schlusskursbasis bei 5.790 Won geschlossen; zum genannten Zeitpunkt lag sie bei 5.840 Won und zeigte damit weiter Aufwärtstendenz gegenüber dem Vortagesschluss. Der Originalbericht nannte den Ergebnisturnaround der Tochtergesellschaft Simmtech sowie den starken Anstieg der Nachfrage nach KI-Substraten als Hintergrund für die Kursstärke. Zudem wurde ein Plus von 23,82% seit der Empfehlung durch MK Signal angegeben. Die genannten Daten und die Kursbewegung zeigen, dass Anleger Simmtech Holdings, mögliche Ergebnisverbesserungen bei Simmtech und die wachsende KI-Substratnachfrage beobachten. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Simmtech Holdings progresse avec le redressement de Simmtech et la demande IA",
+        "excerpt": "Le 12 mai, Simmtech Holdings a monté grâce au redressement de sa filiale Simmtech et à la demande accrue de substrats IA, avec une hausse de 23,82% depuis la recommandation MK Signal.",
+        "body": "Le 12 mai à 9h14, Simmtech Holdings (036710) évoluait en hausse. Lors de la séance précédente, l’action avait clôturé à 5 790 wons, et elle s’établissait à 5 840 wons à l’heure indiquée, poursuivant sa progression par rapport au cours de clôture de la veille. L’article original a cité le redressement des résultats de la filiale Simmtech et la forte hausse de la demande de substrats pour l’IA parmi les facteurs de soutien du titre. Il a également indiqué que l’action avait gagné 23,82% depuis la recommandation de MK Signal. Ces chiffres et l’évolution du cours montrent l’attention portée par les investisseurs à Simmtech Holdings, à l’amélioration possible de Simmtech et à l’expansion de la demande de substrats IA. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "سهم Simmtech Holdings يرتفع مع تحول Simmtech وطلب ركائز الذكاء الاصطناعي",
+        "excerpt": "في 12 مايو، ارتفع سهم Simmtech Holdings بدعم من تحول أداء شركتها التابعة Simmtech وزيادة الطلب على ركائز الذكاء الاصطناعي، مسجلا 23.82% منذ توصية MK Signal.",
+        "body": "حتى الساعة 9:14 صباحا في 12 مايو، كان سهم Simmtech Holdings (036710) يتداول على ارتفاع. في الجلسة السابقة، أغلق السهم عند 5,790 وون على أساس سعر الإغلاق، وبلغ في الوقت المذكور 5,840 وون، مواصلا التحرك الصاعد مقارنة بإغلاق اليوم السابق. وذكر التقرير الأصلي أن تحول نتائج الشركة التابعة Simmtech والزيادة الكبيرة في الطلب على ركائز الذكاء الاصطناعي كانا من العوامل المطروحة خلف ارتفاع السعر. كما أشار إلى أن السهم ارتفع 23.82% منذ توصية MK Signal. وتظهر هذه الأرقام وحركة السعر اهتمام المستثمرين بـ Simmtech Holdings، وإمكان تحسن أداء Simmtech، واتساع الطلب على ركائز الذكاء الاصطناعي. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "Simmtech Holdings में तेजी, Simmtech टर्नअराउंड और AI सब्सट्रेट मांग पर फोकस",
+        "excerpt": "12 मई को Simmtech Holdings में तेजी रही क्योंकि सहायक Simmtech के प्रदर्शन टर्नअराउंड और AI सब्सट्रेट मांग बढ़ने पर ध्यान गया; MK Signal सिफारिश के बाद बढ़त 23.82% रही।",
+        "body": "12 मई सुबह 9:14 बजे तक Simmtech Holdings (036710) में तेजी देखी गई। पिछले कारोबारी दिन यह शेयर समापन मूल्य के आधार पर 5,790 वॉन पर बंद हुआ था, जबकि बताए गए समय पर यह 5,840 वॉन पर था और पिछले बंद भाव की तुलना में ऊपर चल रहा था। मूल रिपोर्ट में सहायक कंपनी Simmtech के प्रदर्शन टर्नअराउंड और AI सब्सट्रेट मांग में तेज वृद्धि को शेयर की मजबूती के कारणों के रूप में बताया गया। रिपोर्ट में यह भी कहा गया कि MK Signal की सिफारिश के बाद शेयर 23.82% चढ़ा। ये आंकड़े और मूल्य रुझान दिखाते हैं कि निवेशक Simmtech Holdings, Simmtech के संभावित प्रदर्शन सुधार और AI सब्सट्रेट मांग के विस्तार पर नजर रख रहे हैं। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Simmtech Holdings Menguat, Turnaround Simmtech dan Permintaan Substrat AI Disorot",
+        "excerpt": "Pada 12 Mei, Simmtech Holdings menguat seiring perhatian pada turnaround kinerja anak usaha Simmtech dan kenaikan permintaan substrat AI, naik 23,82% sejak rekomendasi MK Signal.",
+        "body": "Pada 12 Mei pukul 09.14, Simmtech Holdings (036710) bergerak menguat. Pada perdagangan sebelumnya, saham Simmtech Holdings ditutup pada harga 5.790 won berdasarkan harga penutupan, dan pada waktu tersebut berada di 5.840 won, menunjukkan kenaikan dari penutupan hari sebelumnya. Laporan asli menyebut turnaround kinerja anak usaha Simmtech dan lonjakan permintaan substrat AI sebagai faktor di balik penguatan harga saham. Laporan itu juga menyatakan bahwa saham telah naik 23,82% sejak rekomendasi MK Signal. Angka dan pergerakan harga ini menunjukkan perhatian investor pada Simmtech Holdings, potensi perbaikan kinerja Simmtech, serta perluasan permintaan substrat AI. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "4f56a64bacdd",
+    "slug": "8천피-눈앞에-두고-와르르외국인-3조-팔자에-코스피-3대-급락-550393",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-05-12T03:16:08.670Z",
+    "updatedAt": "2026-05-12T03:16:08.671Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/stock/12044454",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12044454",
+    "titleFingerprint": "c067c64991a0d3efba942f390a7d9ca616520b6e",
+    "dedupKeys": [
+      "4f56a64bacdd4d973a44b29ab7ff9e23b5c03c41",
+      "c067c64991a0d3efba942f390a7d9ca616520b6e",
+      "15696d8ab46a1de3e36a6919f60589f85b516238"
+    ],
+    "imageUrl": "/images/articles/4f56a64bacdd.jpg",
+    "i18n": {
+      "ko": {
+        "title": "코스피 7900 돌파 후 3%대 급락, 외국인 3조 매도에 8천피 제동",
+        "excerpt": "코스피가 장중 사상 처음 7900선을 넘으며 8천피 기대를 키웠지만, 외국인 3조원 규모 매도와 차익 실현 물량이 겹치며 3%대 급락세로 돌아섰다.",
+        "body": "코스피가 장중 사상 처음 7900선을 돌파하며 ‘8천피’에 근접했지만, 외국인 매도세가 급격히 확대되며 3%대 급락으로 전환했다. 최근 지수 급등 이후 차익 실현 매물이 한꺼번에 출회된 점도 하락 압력을 키웠다. 외국인은 약 3조원 규모로 ‘팔자’에 나서며 시장 변동성을 확대했다. 장중 고점 돌파로 투자심리가 달아올랐지만, 대규모 매물이 나오면서 상승 흐름은 빠르게 꺾였다. 단기 급등에 따른 부담이 확인된 만큼 향후 수급 흐름이 지수 방향의 핵심 변수로 부각된다. 출처: mk.co.kr."
+      },
+      "en": {
+        "title": "KOSPI Slides Over 3% After 7,900 Break as Foreigners Sell 3 Trillion Won",
+        "excerpt": "The KOSPI briefly topped 7,900 for the first time, nearing the 8,000 mark, but reversed sharply as foreign investors sold about 3 trillion won and profit-taking hit the market.",
+        "body": "The KOSPI briefly broke above the 7,900 level for the first time during trading, moving close to the symbolic 8,000 mark, but it turned sharply lower as foreign selling intensified. The index fell by more than 3% as profit-taking followed its recent rapid rise. Foreign investors placed roughly 3 trillion won in sell orders, adding to market volatility. Although the intraday record lifted investor sentiment at first, heavy selling quickly reversed the upward momentum. With pressure from the short-term rally now evident, future supply and demand flows are set to remain a key factor for the index. Source: mk.co.kr."
+      },
+      "ja": {
+        "title": "KOSPI、7900突破後に3％台急落　外国人3兆ウォン売りで8000目前に失速",
+        "excerpt": "KOSPIは取引時間中に史上初めて7900台を突破し8000台に迫ったが、外国人の約3兆ウォン売りと利益確定売りで3％台の急落に転じた。",
+        "body": "KOSPIは取引時間中に史上初めて7900台を突破し、「8000台」に迫ったものの、外国人投資家の売りが急拡大して3％台の急落に転じた。最近の指数急騰を受けた利益確定売りが一斉に出たことも下落圧力を強めた。外国人は約3兆ウォン規模の売りに動き、市場の変動性を高めた。場中の高値更新で投資心理はいったん強まったが、大規模な売り物が出ると上昇の流れは急速に崩れた。短期急騰の負担が確認されたため、今後の需給動向が指数の方向性を左右する重要な要因となる。出所: mk.co.kr."
+      },
+      "zh": {
+        "title": "KOSPI突破7900后暴跌逾3%，外资抛售3万亿韩元令8000点受阻",
+        "excerpt": "KOSPI盘中史上首次突破7900点，逼近8000点关口，但外资约3万亿韩元卖盘和获利了结集中涌出，指数转为逾3%急跌。",
+        "body": "KOSPI盘中史上首次突破7900点，接近市场关注的8000点关口，但随着外资卖盘迅速扩大，指数转为逾3%急跌。近期指数快速上涨后，获利了结卖盘集中释放，也加大了下行压力。外资约以3万亿韩元规模卖出，推高了市场波动。盘中创新高一度提振投资情绪，但大规模抛压出现后，上涨势头很快逆转。短期急涨后的负担已经显现，后续资金供需变化将成为影响指数方向的关键因素。来源: mk.co.kr."
+      },
+      "es": {
+        "title": "KOSPI cae más del 3% tras superar 7.900 por venta extranjera de 3 billones de wones",
+        "excerpt": "El KOSPI superó por primera vez los 7.900 puntos intradía y se acercó a 8.000, pero giró a una fuerte baja por ventas extranjeras de unos 3 billones de wones y toma de ganancias.",
+        "body": "El KOSPI superó por primera vez los 7.900 puntos durante la sesión y se acercó al nivel simbólico de 8.000, pero cambió bruscamente de dirección cuando se intensificaron las ventas de inversores extranjeros. El índice cayó más del 3% mientras aparecían ventas de toma de ganancias tras el reciente avance rápido. Los extranjeros vendieron alrededor de 3 billones de wones, elevando la volatilidad del mercado. Aunque el máximo intradía impulsó inicialmente el ánimo inversor, la presión vendedora a gran escala frenó rápidamente la subida. Tras confirmarse la carga del repunte de corto plazo, los flujos de oferta y demanda serán clave para la dirección del índice. Fuente: mk.co.kr."
+      },
+      "pt": {
+        "title": "KOSPI cai mais de 3% após superar 7.900 com venda estrangeira de 3 tri de wones",
+        "excerpt": "O KOSPI passou de 7.900 pontos intradiários pela primeira vez e se aproximou de 8.000, mas virou para forte queda com venda estrangeira de cerca de 3 trilhões de wones e realização de lucros.",
+        "body": "O KOSPI superou 7.900 pontos durante o pregão pela primeira vez na história e chegou perto da marca de 8.000, mas virou rapidamente para queda quando as vendas de investidores estrangeiros se intensificaram. O índice recuou mais de 3% em meio à realização de lucros após a recente alta acelerada. Os estrangeiros venderam cerca de 3 trilhões de wones, aumentando a volatilidade do mercado. Embora o recorde intradiário tenha inicialmente reforçado o sentimento dos investidores, a pressão vendedora em grande escala interrompeu a alta. Com o peso do avanço de curto prazo agora evidente, os fluxos de oferta e demanda devem ser fator central para a direção do índice. Fonte: mk.co.kr."
+      },
+      "de": {
+        "title": "KOSPI rutscht nach 7.900-Rekord um über 3% ab: Ausländer verkaufen 3 Bio. Won",
+        "excerpt": "Der KOSPI überschritt im Tagesverlauf erstmals 7.900 Punkte und näherte sich 8.000, drehte aber wegen ausländischer Verkäufe von rund 3 Billionen Won und Gewinnmitnahmen stark ins Minus.",
+        "body": "Der KOSPI überschritt im Handel erstmals die Marke von 7.900 Punkten und rückte nahe an die symbolischen 8.000 Punkte heran, drehte jedoch deutlich nach unten, als ausländische Verkäufe zunahmen. Der Index fiel um mehr als 3%, während nach dem jüngsten kräftigen Anstieg Gewinnmitnahmen auf den Markt kamen. Ausländische Investoren verkauften im Umfang von rund 3 Billionen Won und erhöhten damit die Volatilität. Der neue Tageshöchststand stützte zunächst die Stimmung, doch umfangreiche Verkäufe stoppten die Aufwärtsbewegung schnell. Da die Belastung durch den kurzfristigen Anstieg sichtbar geworden ist, bleiben Angebots- und Nachfrageflüsse ein entscheidender Faktor für die weitere Indexrichtung. Quelle: mk.co.kr."
+      },
+      "fr": {
+        "title": "Le KOSPI chute de plus de 3% après 7 900, freiné par 3 000 milliards de wons de ventes étrangères",
+        "excerpt": "Le KOSPI a franchi 7 900 points en séance pour la première fois, frôlant 8 000, avant de chuter de plus de 3% sous l’effet des ventes étrangères et des prises de bénéfices.",
+        "body": "Le KOSPI a franchi pour la première fois le seuil de 7 900 points en séance, se rapprochant de la barre symbolique des 8 000, mais il a brusquement basculé à la baisse lorsque les ventes des investisseurs étrangers se sont accélérées. L’indice a reculé de plus de 3%, tandis que des prises de bénéfices sont apparues après sa récente forte progression. Les investisseurs étrangers ont vendu pour environ 3 000 milliards de wons, accentuant la volatilité du marché. Le record intrajournalier avait d’abord soutenu le sentiment, mais l’afflux massif d’ordres vendeurs a rapidement brisé la dynamique haussière. Après cette hausse rapide, les flux d’offre et de demande restent un facteur clé pour la trajectoire de l’indice. Source: mk.co.kr."
+      },
+      "ar": {
+        "title": "كوسبي يهبط أكثر من 3% بعد تجاوز 7900 مع بيع أجانب بنحو 3 تريليونات وون",
+        "excerpt": "تجاوز مؤشر كوسبي مستوى 7900 نقطة خلال الجلسة لأول مرة مقتربا من 8000، لكنه تحول إلى هبوط حاد مع مبيعات أجنبية بنحو 3 تريليونات وون وعمليات جني أرباح.",
+        "body": "تجاوز مؤشر كوسبي خلال التداول مستوى 7900 نقطة للمرة الأولى في تاريخه، مقتربا من حاجز 8000 نقطة، لكنه تحول سريعا إلى هبوط بأكثر من 3% مع اتساع مبيعات المستثمرين الأجانب. كما زادت عمليات جني الأرباح بعد الصعود السريع الأخير من ضغط الهبوط على السوق. وباع المستثمرون الأجانب ما يقارب 3 تريليونات وون، ما رفع تقلبات السوق. ورغم أن تسجيل مستوى قياسي خلال الجلسة دعم معنويات المستثمرين في البداية، فإن تدفق أوامر البيع الكبيرة كسر زخم الصعود بسرعة. ومع ظهور عبء الارتفاع القصير الأجل، ستبقى تدفقات العرض والطلب عاملا رئيسيا لاتجاه المؤشر. المصدر: mk.co.kr."
+      },
+      "hi": {
+        "title": "KOSPI 7,900 पार कर 3% से अधिक टूटा, विदेशी निवेशकों ने 3 ट्रिलियन वॉन बेचे",
+        "excerpt": "KOSPI ने कारोबार के दौरान पहली बार 7,900 का स्तर पार कर 8,000 के करीब पहुंचा, लेकिन विदेशी निवेशकों की करीब 3 ट्रिलियन वॉन बिक्री और मुनाफावसूली से 3% से अधिक गिर गया।",
+        "body": "KOSPI ने कारोबार के दौरान इतिहास में पहली बार 7,900 अंक का स्तर पार किया और 8,000 के करीब पहुंचा, लेकिन विदेशी निवेशकों की बिकवाली तेज होते ही सूचकांक 3% से अधिक गिरावट में चला गया। हालिया तेज बढ़त के बाद मुनाफावसूली के आदेश एक साथ आने से गिरावट का दबाव और बढ़ा। विदेशी निवेशकों ने करीब 3 ट्रिलियन वॉन की बिक्री की, जिससे बाजार में उतार-चढ़ाव बढ़ा। दिन के भीतर नया उच्च स्तर बनने से शुरुआत में निवेश धारणा मजबूत हुई, लेकिन बड़े पैमाने की बिकवाली ने तेजी की चाल को जल्दी रोक दिया। अल्पकालिक उछाल का दबाव सामने आने के बाद आगे की मांग-आपूर्ति की दिशा सूचकांक के लिए अहम कारक रहेगी। स्रोत: mk.co.kr."
+      },
+      "id": {
+        "title": "KOSPI Anjlok 3% Lebih Usai Tembus 7.900, Asing Jual 3 Triliun Won",
+        "excerpt": "KOSPI sempat menembus 7.900 untuk pertama kali dan mendekati 8.000, tetapi berbalik turun tajam setelah investor asing menjual sekitar 3 triliun won dan aksi ambil untung meningkat.",
+        "body": "KOSPI untuk pertama kalinya menembus level 7.900 dalam perdagangan intrahari dan mendekati angka 8.000, tetapi berbalik turun tajam lebih dari 3% ketika tekanan jual investor asing membesar. Aksi ambil untung setelah kenaikan cepat belakangan ini juga menambah tekanan pada indeks. Investor asing menjual sekitar 3 triliun won, sehingga volatilitas pasar meningkat. Rekor intrahari sempat mengangkat sentimen investor, namun gelombang jual dalam jumlah besar segera mematahkan laju kenaikan. Dengan beban kenaikan jangka pendek yang kini terlihat, arus permintaan dan penawaran akan menjadi faktor utama bagi arah indeks berikutnya. Sumber: mk.co.kr."
+      }
+    }
+  },
+  {
     "id": "8db65a526d9a",
     "slug": "mk시그널-아파치-매도신호-포착-수익률-456-달성-272785",
     "channelId": "ETF",
@@ -4271,231 +4496,6 @@
         "title": "Pemenang Maekyung Securities and Pension Awards 2026 berkumpul dalam foto",
         "excerpt": "mk.co.kr melaporkan lewat artikel foto bahwa para pemenang Maekyung Securities and Pension Awards 2026 berkumpul, merekam suasana acara penghargaan.",
         "body": "Menurut mk.co.kr, para pemenang “Maekyung Securities and Pension Awards 2026” ditampilkan berkumpul dalam sebuah artikel foto. Seperti terlihat dari judulnya, berita ini berfokus pada momen ketika para penerima penghargaan berada bersama di satu tempat. Penghargaan tersebut mencakup dua bidang keuangan, yaitu sekuritas dan pensiun, dan informasi utamanya adalah para pemenang 2026 terekam dalam satu gambar. Informasi sumber tidak memuat ringkasan terpisah, sehingga rincian yang tersedia berpusat pada adegan kelompok pemenang dan nama acara. Bagi pembaca industri, artikel ini menjadi catatan visual atas penghargaan dan suasana acaranya. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "fb45a0b58879",
-    "slug": "1년-만에-확-높아진-눈높이-목표가-상향-보고서-1331건-754934",
-    "channelId": "ETF",
-    "category": "etf",
-    "publishedAt": "2026-05-11T11:24:53.784Z",
-    "updatedAt": "2026-05-11T11:24:53.784Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/stock/12043561",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12043561",
-    "titleFingerprint": "ea86d53c7739cab67ff41dc4f88d109c554391dc",
-    "dedupKeys": [
-      "fb45a0b5887949c58b9b4ac0c75ac45f7529e00f",
-      "ea86d53c7739cab67ff41dc4f88d109c554391dc",
-      "55a07acb51838d748650dae22b3fd1370256ff89"
-    ],
-    "imageUrl": "/images/articles/fb45a0b58879.jpg",
-    "i18n": {
-      "ko": {
-        "title": "목표가 상향 보고서 1331건, 반도체 랠리에 증권가 눈높이 급상승",
-        "excerpt": "반도체 랠리로 코스피가 8000선에 다가서자 증권가가 1년 새 목표주가 상향 보고서 1331건을 내며 ‘삼전닉스’ 중심 이익 전망을 높이고 있다.",
-        "body": "반도체 랠리로 코스피가 8000선에 다가서면서 증권가의 목표주가 상향 움직임이 빨라지고 있다. 최근 1년 사이 목표가 상향 보고서는 1331건에 이른 것으로 전해졌다. 주도주는 삼성전자와 SK하이닉스를 묶어 부르는 ‘삼전닉스’로, 이들을 중심으로 시작된 이익 전망 상향이 다른 업종으로 확산되는 흐름이다. 시장에서는 지수 상승과 기업 실적 기대가 맞물리며 증권사들의 눈높이가 1년 전보다 크게 높아진 모습이다. 다만 기사에서 확인되는 핵심은 반도체 랠리와 목표가 상향 보고서 증가, 이익 전망 상향의 확산이다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "1,331 Target Price Upgrade Reports as Chip Rally Lifts Market Expectations",
-        "excerpt": "As the semiconductor rally pushes the KOSPI closer to 8,000, brokerages have issued 1,331 target price upgrade reports over the past year, led by Samsung Electronics and SK hynix.",
-        "body": "As the semiconductor rally brings the KOSPI closer to the 8,000 level, securities firms are moving more quickly to raise target prices. Over the past year, target price upgrade reports reportedly reached 1,331. The leading stocks are Samsung Electronics and SK hynix, often grouped in Korea as “Samjeon-nix,” and profit expectation upgrades that began with them are spreading to other sectors. The market is seeing brokerage expectations rise sharply from a year earlier as index gains and earnings hopes move together. The confirmed points are the chip rally, the increase in target price upgrade reports, and the broader spread of higher profit expectations. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "目標株価引き上げ1331件、半導体ラリーで証券街の期待上昇",
-        "excerpt": "半導体ラリーでKOSPIが8000に近づくなか、証券会社は1年で目標株価引き上げリポート1331件を出し、サムスン電子とSKハイニックス中心に利益見通しを高めている。",
-        "body": "半導体ラリーでKOSPIが8000台に近づくなか、証券街の目標株価引き上げの動きが速まっている。直近1年間で目標株価を引き上げたリポートは1331件に達したと伝えられた。主導株はサムスン電子とSKハイニックスをまとめて呼ぶ「サムジョンニックス」で、両社を中心に始まった利益見通しの上方修正が他業種へ広がる流れだ。市場では指数上昇と企業業績への期待が重なり、証券会社の目線が1年前より大きく高まった形となっている。確認できる核心は半導体ラリー、目標株価引き上げリポートの増加、利益見通し上方修正の広がりである。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "目标价上调报告达1331份，半导体行情推高券商预期",
-        "excerpt": "随着半导体行情推动KOSPI逼近8000点，券商一年内发布1331份目标价上调报告，并以三星电子和SK海力士为中心上调盈利预期。",
-        "body": "在半导体行情推动KOSPI逼近8000点之际，韩国证券业上调目标股价的动作正在加快。据报道，过去一年目标价上调报告达到1331份。领涨主线是三星电子和SK海力士，两者在韩国市场常被合称为“三电海力士”，以它们为中心启动的盈利预期上调正向其他行业扩散。市场上，指数上涨与企业业绩期待相互叠加，使券商的判断标准较一年前明显抬高。文章可确认的核心事实是半导体行情、目标价上调报告增加，以及盈利预期上调向更多行业扩散。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "1.331 informes elevan precios objetivo por el rally de semiconductores",
-        "excerpt": "Con el rally de semiconductores acercando al KOSPI a los 8.000 puntos, las casas de bolsa emitieron 1.331 informes de alza de precio objetivo en un año, liderados por Samsung Electronics y SK hynix.",
-        "body": "A medida que el rally de semiconductores acerca al KOSPI al nivel de 8.000 puntos, las firmas de valores aceleran las subidas de precios objetivo. En el último año, los informes que elevaron precios objetivo llegaron a 1.331, según la información citada. Las acciones líderes son Samsung Electronics y SK hynix, conocidas en Corea bajo la expresión “Samjeon-nix”, y la mejora de expectativas de beneficios que comenzó con ellas se está extendiendo a otros sectores. El mercado refleja una mirada mucho más alta que hace un año, combinando el avance del índice con expectativas de resultados corporativos. Los datos confirmados son el rally de chips, el aumento de informes de precios objetivo y la difusión de mejores previsiones de beneficios. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "1.331 relatórios elevam preços-alvo com rali dos semicondutores",
-        "excerpt": "Com o rali dos semicondutores levando o KOSPI para perto dos 8.000 pontos, corretoras emitiram 1.331 relatórios de alta de preço-alvo em um ano, lideradas por Samsung Electronics e SK hynix.",
-        "body": "Com o rali dos semicondutores aproximando o KOSPI da marca de 8.000 pontos, as corretoras estão acelerando as revisões para cima dos preços-alvo. Nos últimos 12 meses, os relatórios de elevação de preço-alvo chegaram a 1.331, segundo a informação divulgada. As ações líderes são Samsung Electronics e SK hynix, agrupadas na Coreia como “Samjeon-nix”, e a melhora das expectativas de lucro iniciada nelas está se espalhando para outros setores. O mercado mostra que as projeções das casas de análise subiram fortemente em relação a um ano atrás, junto com a alta do índice e a expectativa por resultados. Os fatos confirmados são o rali dos chips, o aumento dos relatórios e a expansão das revisões de lucro. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "1.331 Kurszielanhebungen: Chip-Rally hebt Erwartungen der Broker",
-        "excerpt": "Die Halbleiterrally treibt den KOSPI in Richtung 8.000 Punkte; Broker veröffentlichten binnen eines Jahres 1.331 Berichte mit höheren Kurszielen, angeführt von Samsung Electronics und SK hynix.",
-        "body": "Während die Halbleiterrally den KOSPI nahe an die Marke von 8.000 Punkten bringt, beschleunigen Wertpapierhäuser ihre Anhebungen von Kurszielen. In den vergangenen zwölf Monaten wurden Berichten zufolge 1.331 Analysen mit höheren Kurszielen veröffentlicht. Im Zentrum stehen Samsung Electronics und SK hynix, in Korea zusammen häufig als “Samjeon-nix” bezeichnet. Von diesen führenden Aktien ausgehend breiten sich höhere Gewinnerwartungen auf andere Branchen aus. Der Markt zeigt damit, dass die Erwartungen der Broker gegenüber dem Vorjahr deutlich gestiegen sind, getragen von Indexgewinnen und Hoffnungen auf bessere Unternehmensergebnisse. Bestätigt sind die Chip-Rally, die Zunahme der Kurszielanhebungen und die Ausweitung höherer Gewinnerwartungen. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "1 331 relèvements d’objectifs de cours avec le rally des semi-conducteurs",
-        "excerpt": "Alors que le rally des semi-conducteurs rapproche le KOSPI des 8 000 points, les courtiers ont publié 1 331 rapports relevant les objectifs de cours en un an, autour de Samsung Electronics et SK hynix.",
-        "body": "Le rally des semi-conducteurs rapprochant le KOSPI du seuil des 8 000 points, les sociétés de courtage accélèrent les relèvements d’objectifs de cours. Sur un an, ces rapports de hausse auraient atteint 1 331. Les valeurs motrices sont Samsung Electronics et SK hynix, souvent regroupées en Corée sous le terme “Samjeon-nix”, et les relèvements d’attentes de bénéfices partis de ces titres s’étendent à d’autres secteurs. Le marché montre ainsi que les anticipations des analystes sont nettement plus élevées qu’il y a un an, avec la progression de l’indice et l’espoir de meilleurs résultats d’entreprises. Les faits confirmés sont le rally des puces, la hausse du nombre de rapports et la diffusion des attentes de bénéfices. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "1331 تقريرا يرفع الأسعار المستهدفة مع صعود أسهم الرقائق",
-        "excerpt": "مع اقتراب مؤشر كوسبي من مستوى 8000 بدعم صعود أشباه الموصلات، أصدرت شركات الأوراق المالية 1331 تقريرا لرفع الأسعار المستهدفة خلال عام، بقيادة سامسونغ إلكترونيكس وSK هاينكس.",
-        "body": "مع دفع موجة صعود أسهم أشباه الموصلات مؤشر كوسبي نحو مستوى 8000، تسارعت تحركات شركات الأوراق المالية لرفع الأسعار المستهدفة. وبلغ عدد تقارير رفع الأسعار المستهدفة خلال العام الأخير 1331 تقريرا، بحسب ما ورد. وتقود المشهد أسهم سامسونغ إلكترونيكس وSK هاينكس، اللتان يشار إليهما في السوق الكورية بتعبير “سامجون-نيكس”، إذ بدأت منهما موجة رفع توقعات الأرباح ثم امتدت إلى قطاعات أخرى. ويعكس السوق ارتفاعا واضحا في سقف توقعات شركات الوساطة مقارنة بما كان عليه قبل عام، مع تزامن صعود المؤشر وتوقعات تحسن أرباح الشركات. الحقائق المؤكدة هي صعود قطاع الرقائق، وزيادة تقارير رفع الأسعار المستهدفة، واتساع رفع توقعات الأرباح. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "चिप रैली से 1,331 टारगेट प्राइस अपग्रेड रिपोर्ट, उम्मीदें ऊंची",
-        "excerpt": "सेमीकंडक्टर रैली से KOSPI के 8,000 स्तर के करीब पहुंचने पर ब्रोकरेज ने एक साल में 1,331 टारगेट प्राइस अपग्रेड रिपोर्ट जारी कीं, जिनका केंद्र Samsung Electronics और SK hynix रहे।",
-        "body": "सेमीकंडक्टर रैली के कारण KOSPI के 8,000 स्तर के करीब पहुंचते ही प्रतिभूति कंपनियों ने लक्ष्य कीमतें बढ़ाने की रफ्तार तेज कर दी है। पिछले एक साल में टारगेट प्राइस अपग्रेड रिपोर्ट की संख्या 1,331 तक पहुंची बताई गई है। मुख्य नेतृत्व Samsung Electronics और SK hynix के पास है, जिन्हें कोरिया में मिलाकर “Samjeon-nix” कहा जाता है। इन्हीं से शुरू हुई मुनाफे की उम्मीदों में बढ़ोतरी अब अन्य क्षेत्रों तक फैल रही है। बाजार में सूचकांक की तेजी और कंपनियों के नतीजों को लेकर उम्मीदें साथ-साथ चल रही हैं, जिससे ब्रोकरेज की अपेक्षाएं एक साल पहले की तुलना में काफी ऊंची दिखती हैं। पुष्टि योग्य तथ्य चिप रैली, लक्ष्य कीमत बढ़ाने वाली रिपोर्टों की वृद्धि और लाभ अनुमान के विस्तार से जुड़े हैं। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "1.331 Laporan Naikkan Target Harga Saat Reli Semikonduktor Menguat",
-        "excerpt": "Saat reli semikonduktor membawa KOSPI mendekati 8.000, perusahaan sekuritas menerbitkan 1.331 laporan kenaikan target harga dalam setahun, dipimpin Samsung Electronics dan SK hynix.",
-        "body": "Reli semikonduktor yang membawa KOSPI mendekati level 8.000 membuat perusahaan sekuritas bergerak lebih cepat menaikkan target harga saham. Dalam satu tahun terakhir, laporan kenaikan target harga disebut mencapai 1.331. Saham utama yang memimpin adalah Samsung Electronics dan SK hynix, yang di Korea kerap digabung dalam sebutan “Samjeon-nix”. Kenaikan ekspektasi laba yang bermula dari dua emiten itu kini meluas ke sektor lain. Pasar menunjukkan bahwa pandangan perusahaan sekuritas jauh lebih tinggi dibanding setahun lalu, seiring kenaikan indeks dan harapan terhadap kinerja perusahaan. Fakta yang terkonfirmasi adalah reli semikonduktor, bertambahnya laporan kenaikan target harga, dan meluasnya revisi ekspektasi laba. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "d3f6ac2bb418",
-    "slug": "옵트론텍-250억-원-규모-전환사채-발행-429756",
-    "channelId": "ETF",
-    "category": "etf",
-    "publishedAt": "2026-05-11T11:23:44.275Z",
-    "updatedAt": "2026-05-11T11:23:44.275Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/stock/12043569",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12043569",
-    "titleFingerprint": "dccd2648d1f3bdf5d5238b370d55ef55b2802925",
-    "dedupKeys": [
-      "d3f6ac2bb4184d061bc37ed935cc2b54bbae258a",
-      "dccd2648d1f3bdf5d5238b370d55ef55b2802925",
-      "7f939b8ae23f10482736a1941756f74ff10ef8b8"
-    ],
-    "imageUrl": "/images/articles/d3f6ac2bb418.jpg",
-    "i18n": {
-      "ko": {
-        "title": "옵트론텍 전환사채 250억 원 발행 공시, 전환가액 1922원 확정",
-        "excerpt": "코스닥 상장사 옵트론텍은 2026년 5월 11일 제18회 250억 원 규모 전환사채 발행을 공시하고 전환가액 1922원과 전환 청구 개시일을 알렸다.",
-        "body": "코스닥 상장사 옵트론텍이 2026년 5월 11일 제18회 250억 원 규모 전환사채 발행을 공시했다. 이번 공시에 따르면 전환가액은 1922원으로 정해졌다. 전환 청구 기간은 2027년 5월 22일부터 시작된다. 전환사채는 일정 조건에 따라 주식으로 전환할 수 있는 채권으로, 발행 규모와 전환가액은 투자자가 향후 주식 전환 가능성을 판단할 때 참고하는 핵심 수치다. 시장에서는 발행 조건과 전환 청구 일정이 향후 주가 흐름 및 주식 수 변동 가능성과 함께 확인될 전망이다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "OPTRONTEC to Issue 25 Billion Won Convertible Bonds, Conversion Price Set at 1,922 Won",
-        "excerpt": "KOSDAQ-listed OPTRONTEC disclosed on May 11, 2026 that it will issue its 18th convertible bonds worth 25 billion won, with a conversion price of 1,922 won.",
-        "body": "KOSDAQ-listed OPTRONTEC disclosed on May 11, 2026 that it will issue its 18th convertible bonds worth 25 billion won. According to the disclosure, the conversion price has been set at 1,922 won. The conversion request period will begin on May 22, 2027. Convertible bonds are debt securities that can be converted into shares under certain conditions, making the issue size and conversion price key figures for investors assessing future conversion potential. The market is expected to review the bond terms and conversion schedule alongside possible changes in share count and stock performance. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "オプトロンテック、250億ウォン転換社債発行を公示 転換価額は1922ウォン",
-        "excerpt": "コスダック上場企業のオプトロンテックは2026年5月11日、第18回250億ウォン規模の転換社債発行を公示し、転換価額を1922ウォンとした。",
-        "body": "コスダック上場企業のオプトロンテックは2026年5月11日、第18回250億ウォン規模の転換社債を発行すると公示した。今回の公示によると、転換価額は1922ウォンに設定された。転換請求期間は2027年5月22日から始まる。転換社債は一定の条件に従って株式へ転換できる債券であり、発行規模と転換価額は投資家が今後の株式転換の可能性を判断する際に参考にする主要な数値だ。市場では発行条件と転換請求日程が、今後の株価動向や株式数の変動可能性とともに確認される見通しだ。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "OPTRONTEC公告发行250亿韩元可转债，转股价确定为1922韩元",
-        "excerpt": "KOSDAQ上市公司OPTRONTEC于2026年5月11日公告，将发行第18次、规模250亿韩元的可转换债券，转股价为1922韩元。",
-        "body": "KOSDAQ上市公司OPTRONTEC于2026年5月11日公告，将发行第18次、规模250亿韩元的可转换债券。根据公告，本次转股价确定为1922韩元。转股申请期将自2027年5月22日起开始。可转换债券是在一定条件下可转换为股票的债券，因此发行规模和转股价是投资者判断未来转股可能性时关注的核心数据。市场预计将结合发行条件、转股申请日程以及未来股价走势和股份数量变动的可能性进行关注。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "OPTRONTEC emitirá bonos convertibles por 25.000 millones de wones a 1.922 wones",
-        "excerpt": "La empresa KOSDAQ OPTRONTEC informó el 11 de mayo de 2026 que emitirá su 18.ª serie de bonos convertibles por 25.000 millones de wones.",
-        "body": "La empresa OPTRONTEC, cotizada en KOSDAQ, informó el 11 de mayo de 2026 que emitirá su 18.ª serie de bonos convertibles por 25.000 millones de wones. Según la comunicación, el precio de conversión quedó fijado en 1.922 wones. El período para solicitar la conversión comenzará el 22 de mayo de 2027. Los bonos convertibles son deuda que puede transformarse en acciones bajo determinadas condiciones, por lo que el tamaño de la emisión y el precio de conversión son datos clave para evaluar la posible conversión futura. El mercado revisará las condiciones y el calendario junto con posibles cambios en el número de acciones y la evolución bursátil. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "OPTRONTEC emitirá 25 bilhões de won em debêntures conversíveis a 1.922 won",
-        "excerpt": "A OPTRONTEC, listada na KOSDAQ, informou em 11 de maio de 2026 que emitirá sua 18ª série de debêntures conversíveis no valor de 25 bilhões de won.",
-        "body": "A OPTRONTEC, empresa listada na KOSDAQ, informou em 11 de maio de 2026 que emitirá sua 18ª série de debêntures conversíveis no valor de 25 bilhões de won. Segundo o comunicado, o preço de conversão foi definido em 1.922 won. O período de solicitação de conversão começará em 22 de maio de 2027. Debêntures conversíveis são títulos de dívida que podem ser convertidos em ações sob determinadas condições, tornando o volume da emissão e o preço de conversão dados centrais para avaliar a possibilidade de conversão futura. O mercado deve acompanhar os termos da emissão e o calendário junto com possíveis mudanças no número de ações. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "OPTRONTEC kündigt Wandelanleihe über 25 Mrd. Won an, Wandlungspreis 1.922 Won",
-        "excerpt": "Das KOSDAQ-Unternehmen OPTRONTEC meldete am 11. Mai 2026 die Ausgabe seiner 18. Wandelanleihe über 25 Mrd. Won mit einem Wandlungspreis von 1.922 Won.",
-        "body": "Das an der KOSDAQ notierte Unternehmen OPTRONTEC meldete am 11. Mai 2026 die Ausgabe seiner 18. Wandelanleihe im Umfang von 25 Milliarden Won. Laut Mitteilung wurde der Wandlungspreis auf 1.922 Won festgelegt. Der Zeitraum für Wandlungsanträge beginnt am 22. Mai 2027. Wandelanleihen sind Schuldverschreibungen, die unter bestimmten Bedingungen in Aktien umgewandelt werden können. Daher zählen Emissionsvolumen und Wandlungspreis zu den zentralen Kennzahlen, anhand derer Anleger eine mögliche spätere Umwandlung beurteilen. Der Markt dürfte die Bedingungen und den Zeitplan zusammen mit möglichen Auswirkungen auf Aktienzahl und Kursentwicklung prüfen. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "OPTRONTEC émettra 25 milliards de wons d’obligations convertibles à 1 922 wons",
-        "excerpt": "OPTRONTEC, société cotée au KOSDAQ, a annoncé le 11 mai 2026 l’émission de sa 18e série d’obligations convertibles pour 25 milliards de wons.",
-        "body": "OPTRONTEC, société cotée au KOSDAQ, a annoncé le 11 mai 2026 l’émission de sa 18e série d’obligations convertibles pour un montant de 25 milliards de wons. Selon l’avis publié, le prix de conversion a été fixé à 1 922 wons. La période de demande de conversion commencera le 22 mai 2027. Les obligations convertibles sont des titres de dette pouvant être convertis en actions sous certaines conditions, ce qui fait du montant émis et du prix de conversion des données clés pour évaluer une conversion future. Le marché devrait suivre les conditions d’émission et le calendrier avec les possibles effets sur le nombre d’actions et le cours. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "أوبترونتك تعلن إصدار سندات قابلة للتحويل بقيمة 25 مليار وون وسعر 1,922 وون",
-        "excerpt": "أعلنت أوبترونتك المدرجة في كوسداك في 11 مايو 2026 إصدار الدفعة الثامنة عشرة من السندات القابلة للتحويل بقيمة 25 مليار وون.",
-        "body": "أعلنت شركة أوبترونتك المدرجة في كوسداك في 11 مايو 2026 أنها ستصدر الدفعة الثامنة عشرة من السندات القابلة للتحويل بقيمة 25 مليار وون. ووفق الإفصاح، حدد سعر التحويل عند 1,922 وون. وتبدأ فترة طلب التحويل في 22 مايو 2027. السندات القابلة للتحويل هي أدوات دين يمكن تحويلها إلى أسهم وفق شروط محددة، لذلك يعد حجم الإصدار وسعر التحويل من الأرقام الأساسية التي يستند إليها المستثمرون عند تقييم إمكانية التحويل مستقبلا. ومن المتوقع أن يتابع السوق شروط الإصدار وجدول التحويل إلى جانب احتمالات تغير عدد الأسهم وأداء السهم. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "OPTRONTEC 25 अरब वॉन के कन्वर्टिबल बॉन्ड जारी करेगी, मूल्य 1,922 वॉन तय",
-        "excerpt": "KOSDAQ सूचीबद्ध OPTRONTEC ने 11 मई 2026 को 25 अरब वॉन मूल्य के 18वें कन्वर्टिबल बॉन्ड जारी करने और 1,922 वॉन रूपांतरण मूल्य की सूचना दी।",
-        "body": "KOSDAQ में सूचीबद्ध OPTRONTEC ने 11 मई 2026 को बताया कि वह 25 अरब वॉन मूल्य के 18वें कन्वर्टिबल बॉन्ड जारी करेगी। सूचना के अनुसार, रूपांतरण मूल्य 1,922 वॉन तय किया गया है। रूपांतरण अनुरोध की अवधि 22 मई 2027 से शुरू होगी। कन्वर्टिबल बॉन्ड ऐसे ऋण साधन हैं जिन्हें कुछ शर्तों के तहत शेयरों में बदला जा सकता है, इसलिए निर्गम आकार और रूपांतरण मूल्य निवेशकों के लिए भविष्य की रूपांतरण संभावना परखने के प्रमुख आंकड़े हैं। बाजार जारी शर्तों और रूपांतरण कार्यक्रम को संभावित शेयर संख्या बदलाव और शेयर प्रदर्शन के साथ देखेगा। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "OPTRONTEC Terbitkan Obligasi Konversi 25 Miliar Won, Harga Konversi 1.922 Won",
-        "excerpt": "OPTRONTEC yang tercatat di KOSDAQ mengumumkan pada 11 Mei 2026 penerbitan obligasi konversi ke-18 senilai 25 miliar won dengan harga 1.922 won.",
-        "body": "OPTRONTEC, perusahaan yang tercatat di KOSDAQ, mengumumkan pada 11 Mei 2026 bahwa akan menerbitkan obligasi konversi ke-18 senilai 25 miliar won. Berdasarkan keterbukaan tersebut, harga konversi ditetapkan sebesar 1.922 won. Periode pengajuan konversi akan dimulai pada 22 Mei 2027. Obligasi konversi adalah surat utang yang dapat diubah menjadi saham dengan syarat tertentu, sehingga nilai penerbitan dan harga konversi menjadi angka penting bagi investor dalam menilai potensi konversi di masa depan. Pasar diperkirakan mencermati syarat penerbitan dan jadwal konversi bersama kemungkinan perubahan jumlah saham dan pergerakan harga saham. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "2611a3ae9d27",
-    "slug": "대성하이텍-100억-원-규모-전환사채-발행-497652",
-    "channelId": "ETF",
-    "category": "etf",
-    "publishedAt": "2026-05-11T11:22:33.286Z",
-    "updatedAt": "2026-05-11T11:22:33.286Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/stock/12043570",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12043570",
-    "titleFingerprint": "b9815116d36875d6f6efc4f8679dfe8b5a7c6fb3",
-    "dedupKeys": [
-      "2611a3ae9d27e1e9efbb59dcac75d86b06186f06",
-      "b9815116d36875d6f6efc4f8679dfe8b5a7c6fb3",
-      "c9faf55453ad4b4c074dad7b2551b8f8a519889e"
-    ],
-    "imageUrl": "/images/articles/2611a3ae9d27.jpg",
-    "i18n": {
-      "ko": {
-        "title": "대성하이텍, 100억 원 전환사채 발행 공시…전환가액 9688원",
-        "excerpt": "코스닥 상장사 대성하이텍이 2026년 5월 11일 제7회 100억 원 규모 전환사채 발행을 공시했다. 전환가액은 9688원이며 전환 청구는 2027년 5월 19일부터 가능하다.",
-        "body": "대성하이텍은 2026년 5월 11일 제7회 전환사채 발행을 공시했다. 코스닥 상장사인 대성하이텍이 발행하는 전환사채 규모는 100억 원이다. 이번 공시에 따르면 전환가액은 9688원으로 정해졌다. 전환 청구 기간은 2027년 5월 19일부터 시작된다. 전환사채는 일정 조건에 따라 주식으로 전환할 수 있는 채권으로, 발행 규모와 전환가액, 청구 가능 시점은 투자자가 확인해야 할 핵심 조건이다. 이번 발행은 대성하이텍의 자금 조달 관련 공시로 시장 참여자들이 조건을 검토할 사안이다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Daesung Hi-Tech to Issue KRW 10 Billion Convertible Bonds, Conversion Price Set at KRW 9,688",
-        "excerpt": "KOSDAQ-listed Daesung Hi-Tech disclosed on May 11, 2026, that it will issue its seventh convertible bond worth KRW 10 billion, with a conversion price of KRW 9,688 and claims starting May 19, 2027.",
-        "body": "Daesung Hi-Tech disclosed on May 11, 2026, that it will issue its seventh convertible bond. The KOSDAQ-listed company’s planned issuance totals KRW 10 billion. According to the disclosure, the conversion price has been set at KRW 9,688. The conversion claim period will begin on May 19, 2027. A convertible bond is a debt instrument that can be converted into shares under specified conditions, making the issue size, conversion price and claim start date key terms for investors to review. The filing concerns Daesung Hi-Tech’s financing activity and gives market participants details to examine. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "大成ハイテック、100億ウォン規模の転換社債発行を公示…転換価額は9688ウォン",
-        "excerpt": "コスダック上場企業の大成ハイテックは2026年5月11日、第7回100億ウォン規模の転換社債発行を公示した。転換価額は9688ウォンで、転換請求は2027年5月19日から始まる。",
-        "body": "大成ハイテックは2026年5月11日、第7回転換社債の発行を公示した。コスダック上場企業である大成ハイテックが発行する転換社債の規模は100億ウォン。今回の公示によると、転換価額は9688ウォンに設定された。転換請求期間は2027年5月19日から開始される。転換社債は一定の条件に基づき株式へ転換できる債券であり、発行規模、転換価額、請求可能時期は投資家が確認すべき主要条件となる。今回の発行は大成ハイテックの資金調達に関する公示で、市場参加者が条件を検討する事項だ。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "Daesung Hi-Tech公告发行100亿韩元可转债，转股价定为9688韩元",
-        "excerpt": "科斯达克上市公司Daesung Hi-Tech于2026年5月11日公告，将发行第7次100亿韩元规模可转换公司债，转股价为9688韩元，转股申请期自2027年5月19日起。",
-        "body": "Daesung Hi-Tech于2026年5月11日公告发行第7次可转换公司债。该公司为科斯达克上市公司，本次可转债发行规模为100亿韩元。根据公告，转股价格定为9688韩元。转股申请期间将从2027年5月19日开始。可转换公司债是在一定条件下可转换为股票的债券，因此发行规模、转股价格和可申请转股的起始时间，是投资者需要确认的核心条款。本次发行属于Daesung Hi-Tech与资金筹措相关的公告，市场参与者可据此审查相关条件。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Daesung Hi-Tech emitirá bonos convertibles por 10.000 millones de wones, con precio de conversión de 9.688 wones",
-        "excerpt": "Daesung Hi-Tech, cotizada en KOSDAQ, informó el 11 de mayo de 2026 que emitirá su séptimo bono convertible por 10.000 millones de wones; el precio de conversión será de 9.688 wones.",
-        "body": "Daesung Hi-Tech informó el 11 de mayo de 2026 la emisión de su séptimo bono convertible. La compañía, que cotiza en KOSDAQ, realizará una emisión por 10.000 millones de wones. Según la comunicación, el precio de conversión quedó fijado en 9.688 wones. El periodo para solicitar la conversión comenzará el 19 de mayo de 2027. Un bono convertible es un instrumento de deuda que puede transformarse en acciones bajo determinadas condiciones, por lo que el importe emitido, el precio de conversión y la fecha inicial de solicitud son términos clave para los inversores. La emisión corresponde a una comunicación de financiación de Daesung Hi-Tech. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Daesung Hi-Tech emitirá debêntures conversíveis de 10 bilhões de wones, com conversão a 9.688 wones",
-        "excerpt": "A Daesung Hi-Tech, listada na KOSDAQ, informou em 11 de maio de 2026 que emitirá sua sétima debênture conversível de 10 bilhões de wones, com preço de conversão de 9.688 wones.",
-        "body": "A Daesung Hi-Tech informou em 11 de maio de 2026 que emitirá sua sétima debênture conversível. A empresa listada na KOSDAQ fará uma emissão no valor de 10 bilhões de wones. Segundo o comunicado, o preço de conversão foi definido em 9.688 wones. O período para solicitar a conversão começará em 19 de maio de 2027. Uma debênture conversível é um título de dívida que pode ser convertido em ações sob determinadas condições, de modo que o valor da emissão, o preço de conversão e a data inicial de solicitação são pontos centrais para os investidores. A emissão é uma divulgação relacionada ao financiamento da Daesung Hi-Tech. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Daesung Hi-Tech kündigt Wandelanleihe über 10 Mrd. Won an, Wandlungspreis bei 9.688 Won",
-        "excerpt": "Das KOSDAQ-Unternehmen Daesung Hi-Tech gab am 11. Mai 2026 die Ausgabe seiner siebten Wandelanleihe über 10 Mrd. Won bekannt. Der Wandlungspreis liegt bei 9.688 Won, Anträge sind ab 19. Mai 2027 möglich.",
-        "body": "Daesung Hi-Tech gab am 11. Mai 2026 die Ausgabe seiner siebten Wandelanleihe bekannt. Das an der KOSDAQ notierte Unternehmen plant eine Emission im Umfang von 10 Mrd. Won. Laut Mitteilung wurde der Wandlungspreis auf 9.688 Won festgelegt. Der Zeitraum für Wandlungsanträge beginnt am 19. Mai 2027. Eine Wandelanleihe ist ein Schuldtitel, der unter bestimmten Bedingungen in Aktien umgewandelt werden kann. Daher gehören Emissionsvolumen, Wandlungspreis und Beginn der Antragsfrist zu den zentralen Bedingungen, die Investoren prüfen sollten. Die Ausgabe ist eine finanzierungsbezogene Mitteilung von Daesung Hi-Tech. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Daesung Hi-Tech va émettre 10 milliards de wons d’obligations convertibles, prix fixé à 9 688 wons",
-        "excerpt": "Daesung Hi-Tech, cotée au KOSDAQ, a annoncé le 11 mai 2026 l’émission de sa septième obligation convertible de 10 milliards de wons, avec un prix de conversion de 9 688 wons.",
-        "body": "Daesung Hi-Tech a annoncé le 11 mai 2026 l’émission de sa septième obligation convertible. La société cotée au KOSDAQ prévoit une émission d’un montant de 10 milliards de wons. Selon l’avis publié, le prix de conversion a été fixé à 9 688 wons. La période de demande de conversion débutera le 19 mai 2027. Une obligation convertible est un titre de dette pouvant être converti en actions sous certaines conditions; le montant de l’émission, le prix de conversion et la date de début de la période de demande sont donc des éléments clés pour les investisseurs. Cette émission relève d’une information de financement de Daesung Hi-Tech. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "دايسونغ هاي-تك تعلن إصدار سندات قابلة للتحويل بقيمة 10 مليارات وون وسعر تحويل 9,688 وون",
-        "excerpt": "أعلنت دايسونغ هاي-تك المدرجة في كوسداك في 11 مايو 2026 إصدار سنداتها السابعة القابلة للتحويل بقيمة 10 مليارات وون، مع تحديد سعر التحويل عند 9,688 وون وبدء الطلبات في 19 مايو 2027.",
-        "body": "أعلنت دايسونغ هاي-تك في 11 مايو 2026 إصدار سنداتها السابعة القابلة للتحويل. وتبلغ قيمة الإصدار الذي تعتزم الشركة المدرجة في كوسداك طرحه 10 مليارات وون. ووفقاً للإفصاح، تم تحديد سعر التحويل عند 9,688 وون. وتبدأ فترة طلب التحويل في 19 مايو 2027. والسند القابل للتحويل هو أداة دين يمكن تحويلها إلى أسهم وفق شروط محددة، لذلك تعد قيمة الإصدار وسعر التحويل وموعد بدء إمكانية تقديم الطلبات من الشروط الأساسية التي ينبغي على المستثمرين مراجعتها. ويرتبط هذا الإصدار بإفصاح تمويلي من دايسونغ هاي-تك. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "Daesung Hi-Tech 10 अरब वॉन के परिवर्तनीय बॉन्ड जारी करेगी, रूपांतरण मूल्य 9,688 वॉन तय",
-        "excerpt": "KOSDAQ-सूचीबद्ध Daesung Hi-Tech ने 11 मई 2026 को अपनी सातवीं 10 अरब वॉन की परिवर्तनीय बॉन्ड जारी करने की सूचना दी। रूपांतरण मूल्य 9,688 वॉन है और दावा अवधि 19 मई 2027 से शुरू होगी।",
-        "body": "Daesung Hi-Tech ने 11 मई 2026 को अपनी सातवीं परिवर्तनीय बॉन्ड जारी करने की सूचना दी। KOSDAQ-सूचीबद्ध कंपनी द्वारा जारी किए जाने वाले इस बॉन्ड का आकार 10 अरब वॉन है। सूचना के अनुसार, रूपांतरण मूल्य 9,688 वॉन तय किया गया है। रूपांतरण दावा अवधि 19 मई 2027 से शुरू होगी। परिवर्तनीय बॉन्ड ऐसा ऋण साधन है जिसे निर्धारित शर्तों के तहत शेयरों में बदला जा सकता है, इसलिए निर्गम आकार, रूपांतरण मूल्य और दावा शुरू होने की तारीख निवेशकों के लिए प्रमुख शर्तें हैं। यह निर्गम Daesung Hi-Tech की वित्तपोषण संबंधी सूचना है, जिसके आधार पर बाजार सहभागी शर्तों की समीक्षा कर सकते हैं। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Daesung Hi-Tech Terbitkan Obligasi Konversi 10 Miliar Won, Harga Konversi 9.688 Won",
-        "excerpt": "Daesung Hi-Tech yang tercatat di KOSDAQ mengumumkan pada 11 Mei 2026 penerbitan obligasi konversi ketujuh senilai 10 miliar won, dengan harga konversi 9.688 won dan periode klaim mulai 19 Mei 2027.",
-        "body": "Daesung Hi-Tech mengumumkan pada 11 Mei 2026 penerbitan obligasi konversi ketujuh. Perusahaan yang tercatat di KOSDAQ tersebut akan menerbitkan obligasi konversi senilai 10 miliar won. Berdasarkan pengumuman itu, harga konversi ditetapkan sebesar 9.688 won. Periode pengajuan konversi akan dimulai pada 19 Mei 2027. Obligasi konversi adalah instrumen utang yang dapat dikonversi menjadi saham dengan syarat tertentu, sehingga nilai penerbitan, harga konversi, dan waktu mulai pengajuan menjadi ketentuan utama bagi investor. Penerbitan ini merupakan pengumuman terkait pendanaan Daesung Hi-Tech. Sumber: mk.co.kr"
       }
     }
   }
