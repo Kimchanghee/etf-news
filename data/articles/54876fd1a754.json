@@ -1,0 +1,75 @@
+{
+  "id": "54876fd1a754",
+  "slug": "상장사-합병-때-주가-누르기-원천차단-409097",
+  "channelId": "ETF",
+  "category": "etf",
+  "publishedAt": "2026-05-12T13:15:16.620Z",
+  "updatedAt": "2026-05-12T13:15:16.620Z",
+  "sourceName": "mk.co.kr",
+  "sourceUrl": "https://www.mk.co.kr/news/stock/12045010",
+  "canonicalUrl": "https://www.mk.co.kr/news/stock/12045010",
+  "titleFingerprint": "93a4c655ae0acd202ad116d9f9e9ec0db5f3959e",
+  "dedupKeys": [
+    "54876fd1a75463d0622bcacc469220ab11f55b95",
+    "93a4c655ae0acd202ad116d9f9e9ec0db5f3959e",
+    "ccfe9ab832ad83efcd00548882347eeaa354ad0a"
+  ],
+  "imageUrl": "/images/articles/54876fd1a754.jpg",
+  "i18n": {
+    "ko": {
+      "title": "상장사 합병가액, 공정가액 기준으로 산정해 주가 누르기 차단",
+      "excerpt": "앞으로 상장사 합병 과정에서 주식가격만으로 합병가액을 정하는 관행이 바뀌며, 자산가치와 수익가치를 함께 반영한 공정가액 기준이 적용된다.",
+      "body": "앞으로 상장사 합병 때 발생할 수 있는 ‘주가 누르기’가 원천적으로 차단된다. 합병가액 산정 기준이 주식가격 중심에서 자산가치와 수익가치 등을 종합적으로 고려하는 ‘공정가액’ 방식으로 바뀌기 때문이다. 기존에는 시장 주가가 합병가액 산정에 큰 영향을 미치면서, 합병을 앞두고 주가가 낮게 형성될 경우 주주 가치 훼손 우려가 제기될 수 있었다. 새 기준은 주식가격 외 재무적 가치를 함께 반영해 합병가액의 공정성을 높이는 데 초점을 둔다. 이에 따라 상장사 합병 과정에서 가격 산정의 투명성과 주주 보호가 강화될 전망이다. 출처: mk.co.kr"
+    },
+    "en": {
+      "title": "Listed Company Merger Prices to Use Fair Value, Blocking Stock Price Suppression",
+      "excerpt": "In future listed company mergers, merger prices will no longer rely only on share prices, as fair value reflecting assets and earnings will be applied.",
+      "body": "In future mergers of listed companies, possible “stock price suppression” will be blocked at the source. This is because the method for calculating merger prices will shift from a share-price-centered approach to a “fair value” standard that comprehensively considers asset value, earnings value and other factors. Under the previous approach, market share prices had a major influence on merger pricing, raising concerns that shareholder value could be harmed if prices were kept low before a merger. The new standard focuses on improving fairness by reflecting financial value beyond share prices. As a result, transparency in pricing and shareholder protection are expected to strengthen in listed company mergers. Source: mk.co.kr"
+    },
+    "ja": {
+      "title": "上場会社の合併価額、公正価額基準で算定し株価抑制を遮断",
+      "excerpt": "今後、上場会社の合併では株価だけで合併価額を決める慣行が見直され、資産価値や収益価値を反映した公正価額基準が適用される。",
+      "body": "今後、上場会社の合併時に起こり得る「株価抑制」は根本的に遮断される。合併価額の算定基準が、株価中心の方式から、資産価値や収益価値などを総合的に考慮する「公正価額」方式へ変わるためだ。従来は市場株価が合併価額の算定に大きく影響し、合併を前に株価が低く形成された場合、株主価値が損なわれる懸念が生じ得た。新基準は株価以外の財務的価値も反映し、合併価額の公正性を高めることに重点を置く。これにより上場会社の合併過程で価格算定の透明性と株主保護が強化される見通しだ。出典: mk.co.kr"
+    },
+    "zh": {
+      "title": "上市公司合并价将按公允价值计算，遏制压低股价行为",
+      "excerpt": "今后上市公司合并定价将不再只看股价，而是适用同时反映资产价值和收益价值的公允价值标准。",
+      "body": "今后，上市公司合并过程中可能出现的“压低股价”将从源头上被阻断。原因是合并价格的计算标准将从以股票价格为中心，转向综合考虑资产价值、收益价值等因素的“公允价值”方式。此前，市场股价对合并价格计算影响较大，如果合并前股价被压低，可能引发股东价值受损的担忧。新标准的重点是在股票价格之外纳入财务价值，以提高合并价格的公平性。因此，上市公司合并过程中的定价透明度和股东保护预计将得到加强。来源: mk.co.kr"
+    },
+    "es": {
+      "title": "Fusiones de cotizadas usarán valor razonable para frenar presión sobre acciones",
+      "excerpt": "En adelante, las fusiones de empresas cotizadas no se valorarán solo por el precio bursátil, sino por un valor razonable que refleje activos e ingresos.",
+      "body": "En adelante, la posible “presión a la baja sobre las acciones” en fusiones de empresas cotizadas quedará bloqueada desde el origen. Esto se debe a que el cálculo del precio de fusión pasará de centrarse en la cotización bursátil a usar un criterio de “valor razonable” que considere de forma integral el valor de los activos, el valor de los ingresos y otros factores. Antes, el precio de mercado de las acciones tenía gran peso en la valoración, lo que podía generar preocupaciones sobre daño al valor de los accionistas si la acción se mantenía baja antes de una fusión. El nuevo criterio busca elevar la equidad al reflejar valores financieros más allá de la cotización. Así, se prevé mayor transparencia y protección accionarial. Fuente: mk.co.kr"
+    },
+    "pt": {
+      "title": "Fusões de empresas listadas usarão valor justo para barrar pressão sobre ações",
+      "excerpt": "Daqui em diante, fusões de companhias listadas não serão precificadas apenas pela ação, mas por valor justo que reflita ativos e rentabilidade.",
+      "body": "Daqui em diante, a possível “pressão para baixo sobre o preço das ações” em fusões de empresas listadas será bloqueada na origem. Isso ocorrerá porque o cálculo do valor de fusão deixará de ser centrado no preço das ações e passará a seguir um padrão de “valor justo” que considera de forma abrangente o valor dos ativos, o valor dos lucros e outros fatores. Antes, o preço de mercado das ações tinha grande influência na definição do valor de fusão, o que poderia gerar preocupações de dano ao valor dos acionistas caso a ação fosse mantida baixa antes da operação. O novo critério busca elevar a justiça da avaliação ao refletir valores financeiros além da cotação. Com isso, a transparência e a proteção dos acionistas devem ser reforçadas. Fonte: mk.co.kr"
+    },
+    "de": {
+      "title": "Börsennotierte Fusionen sollen Fair Value nutzen und Kursdrücken stoppen",
+      "excerpt": "Künftig wird der Fusionspreis börsennotierter Unternehmen nicht nur am Aktienkurs, sondern am Fair Value aus Vermögens- und Ertragswerten bemessen.",
+      "body": "Künftig soll mögliches „Drücken des Aktienkurses“ bei Fusionen börsennotierter Unternehmen von vornherein verhindert werden. Grund ist, dass die Berechnung des Fusionspreises vom aktienkurszentrierten Ansatz auf einen „Fair Value“-Standard umgestellt wird, der Vermögenswerte, Ertragswerte und weitere Faktoren umfassend berücksichtigt. Bisher hatte der Marktpreis der Aktie großen Einfluss auf den Fusionspreis, wodurch Sorgen über eine Schädigung des Aktionärswerts entstehen konnten, wenn der Kurs vor einer Fusion niedrig gehalten wurde. Der neue Standard zielt darauf, die Fairness der Bewertung zu erhöhen, indem neben dem Aktienkurs auch finanzielle Werte einfließen. Dadurch dürften Transparenz und Aktionärsschutz bei Fusionen börsennotierter Unternehmen gestärkt werden. Quelle: mk.co.kr"
+    },
+    "fr": {
+      "title": "Fusions de sociétés cotées: la juste valeur pour bloquer la pression sur les cours",
+      "excerpt": "À l’avenir, le prix des fusions de sociétés cotées ne reposera plus seulement sur l’action, mais sur une juste valeur intégrant actifs et revenus.",
+      "body": "À l’avenir, la possible « pression à la baisse sur le cours » lors des fusions de sociétés cotées sera bloquée à la source. Le calcul du prix de fusion passera en effet d’une méthode centrée sur le cours de l’action à une norme de « juste valeur » tenant compte de manière globale de la valeur des actifs, de la valeur des revenus et d’autres facteurs. Jusqu’ici, le cours de marché avait une forte influence sur le prix de fusion, ce qui pouvait susciter des inquiétudes sur une atteinte à la valeur des actionnaires si le titre restait bas avant l’opération. La nouvelle norme vise à renforcer l’équité de l’évaluation en intégrant des valeurs financières au-delà du seul cours. La transparence et la protection des actionnaires devraient ainsi être renforcées. Source: mk.co.kr"
+    },
+    "ar": {
+      "title": "تسعير اندماجات الشركات المدرجة بالقيمة العادلة لمنع خفض أسعار الأسهم",
+      "excerpt": "مستقبلا، لن يعتمد تسعير اندماجات الشركات المدرجة على سعر السهم وحده، بل سيطبق معيار القيمة العادلة الذي يعكس الأصول والربحية.",
+      "body": "مستقبلا، سيتم منع احتمال «خفض سعر السهم» في اندماجات الشركات المدرجة من الأساس. ويعود ذلك إلى أن معيار احتساب سعر الاندماج سيتحول من نهج يركز على سعر السهم إلى طريقة «القيمة العادلة» التي تراعي بصورة شاملة قيمة الأصول وقيمة الأرباح وعوامل أخرى. في السابق، كان سعر السهم في السوق يؤثر بدرجة كبيرة في تحديد سعر الاندماج، ما قد يثير مخاوف من الإضرار بقيمة المساهمين إذا تشكل سعر منخفض قبل الاندماج. ويركز المعيار الجديد على تعزيز عدالة سعر الاندماج عبر إدراج القيم المالية إلى جانب سعر السهم. وبذلك من المتوقع أن تتعزز شفافية التسعير وحماية المساهمين في اندماجات الشركات المدرجة. المصدر: mk.co.kr"
+    },
+    "hi": {
+      "title": "सूचीबद्ध कंपनियों के विलय में उचित मूल्य मानक से शेयर कीमत दबाने पर रोक",
+      "excerpt": "आगे सूचीबद्ध कंपनियों के विलय में कीमत केवल शेयर भाव से तय नहीं होगी, बल्कि परिसंपत्ति और आय मूल्य को शामिल करने वाला उचित मूल्य लागू होगा।",
+      "body": "आगे सूचीबद्ध कंपनियों के विलय के समय संभावित “शेयर कीमत दबाने” की प्रवृत्ति को मूल स्तर पर रोका जाएगा। इसका कारण यह है कि विलय मूल्य तय करने का आधार शेयर कीमत केंद्रित तरीके से बदलकर ऐसे “उचित मूल्य” मानक पर जाएगा, जिसमें परिसंपत्ति मूल्य, आय मूल्य और अन्य कारकों को समग्र रूप से देखा जाएगा। पहले बाजार में शेयर कीमत विलय मूल्य पर बड़ा असर डालती थी, जिससे विलय से पहले कीमत कम रहने पर शेयरधारक मूल्य को नुकसान की चिंता उठ सकती थी। नया मानक शेयर कीमत के अलावा वित्तीय मूल्यों को भी शामिल कर विलय मूल्य की निष्पक्षता बढ़ाने पर केंद्रित है। इससे सूचीबद्ध कंपनियों के विलय में मूल्य निर्धारण की पारदर्शिता और शेयरधारक संरक्षण मजबूत होने की उम्मीद है। स्रोत: mk.co.kr"
+    },
+    "id": {
+      "title": "Harga Merger Emiten Pakai Nilai Wajar untuk Cegah Penekanan Harga Saham",
+      "excerpt": "Ke depan, merger emiten tidak lagi hanya memakai harga saham, tetapi menerapkan nilai wajar yang mencerminkan nilai aset dan nilai pendapatan.",
+      "body": "Ke depan, potensi “penekanan harga saham” dalam merger perusahaan tercatat akan diblokir sejak awal. Hal ini karena dasar perhitungan harga merger akan bergeser dari pendekatan yang berpusat pada harga saham menjadi metode “nilai wajar” yang mempertimbangkan secara menyeluruh nilai aset, nilai pendapatan, dan faktor lainnya. Sebelumnya, harga saham di pasar sangat memengaruhi penentuan harga merger, sehingga jika harga saham terbentuk rendah menjelang merger, muncul kekhawatiran nilai pemegang saham dapat dirugikan. Standar baru berfokus meningkatkan kewajaran harga merger dengan memasukkan nilai finansial selain harga saham. Dengan demikian, transparansi penetapan harga dan perlindungan pemegang saham dalam merger emiten diperkirakan menguat. Sumber: mk.co.kr"
+    }
+  }
+}
