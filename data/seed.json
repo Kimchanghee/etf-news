@@ -1,5 +1,230 @@
 [
   {
+    "id": "93ee350a38ef",
+    "slug": "온디바이스-ai-반도체-슈퍼사이클-이끈다-292479",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-05-12T20:47:13.539Z",
+    "updatedAt": "2026-05-12T20:47:13.539Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/2026051218011",
+    "canonicalUrl": "https://www.hankyung.com/article/2026051218011",
+    "titleFingerprint": "6ad4d73dfe949aa8bedb08fdd608ef89683f7573",
+    "dedupKeys": [
+      "93ee350a38ef97f077e8724080c7d4289a4ba1df",
+      "6ad4d73dfe949aa8bedb08fdd608ef89683f7573",
+      "4803b10ce18cf7517647f17c37fa993ef57f18c1"
+    ],
+    "imageUrl": "/images/articles/93ee350a38ef.jpg",
+    "i18n": {
+      "ko": {
+        "title": "온디바이스 AI發 반도체 슈퍼사이클, 삼성 2028년 추가 팹 계획에 투자자 주목",
+        "excerpt": "한국경제는 2026년 5월 12일 KIW 2026에서 온디바이스 AI 확산이 HBM 수요와 메모리 공급 부족을 키우며 반도체 슈퍼사이클 기대를 높였다고 보도했다.",
+        "body": "한국경제에 따르면 2026년 5월 12일 서울 장충동 신라호텔에서 한국경제신문사와 삼성증권이 공동 주최한 ‘코리아 인베스트먼트 위크(KIW) 2026’이 개막했다. 이날 투자자 관심은 한국 증시를 이끄는 반도체 기업들의 사업 전략에 집중됐다. 김태우 삼성전자 반도체(DS)부문 부사장은 온디바이스 AI 기기 대중화로 고대역폭메모리(HBM) 수요가 커지면서 D램과 낸드 등 범용 메모리 공급 부족이 이어질 것이라고 밝혔다. 그는 2028년까지 추가 팹을 짓고 연구개발을 강화하겠다고 말했다. AI 반도체 스타트업 리벨리온의 박성현 대표는 한국의 강점으로 반도체를 꼽으며, 에너지·전력 효율이 엔비디아보다 다섯 배 높은 칩을 언급했다. 행사에는 글로벌 기관투자가와 국내 투자전문가 1000여 명이 참석했다. 출처: hankyung.com"
+      },
+      "en": {
+        "title": "On-Device AI Drives Chip Supercycle as Samsung Plans More Fabs by 2028",
+        "excerpt": "Hankyung reported on May 12, 2026 that KIW 2026 highlighted rising HBM demand and tighter memory supply as on-device AI spreads across devices.",
+        "body": "According to Hankyung, Korea Investment Week 2026 opened on May 12, 2026 at The Shilla Seoul, co-hosted by The Korea Economic Daily and Samsung Securities. Investor attention centered on the business strategies of semiconductor companies leading the Korean stock market. Kim Tae-woo, vice president of Samsung Electronics’ DS division, said the spread of on-device AI devices is pushing demand toward high-bandwidth memory, or HBM, while shortages in general-purpose memory such as DRAM and NAND are likely to continue. He said Samsung would build additional fabs by 2028 and strengthen research and development. Park Sung-hyun, CEO of AI chip startup Rebellions, pointed to semiconductors as Korea’s key strength and cited a chip with five times higher energy and power efficiency than Nvidia. More than 1,000 global institutional investors and domestic investment experts attended. Source: hankyung.com"
+      },
+      "ja": {
+        "title": "オンデバイスAIが半導体スーパーサイクルを主導、サムスンの2028年追加ファブ計画に注目",
+        "excerpt": "韓国経済新聞は2026年5月12日、KIW 2026でオンデバイスAIの普及がHBM需要とメモリー需給逼迫を高めていると報じた。",
+        "body": "韓国経済新聞によると、韓国経済新聞社とサムスン証券が共同主催する「コリア・インベストメント・ウィーク（KIW）2026」が2026年5月12日、ソウルの新羅ホテルで開幕した。投資家の関心は、韓国株式市場をけん引する半導体企業の事業戦略に集まった。サムスン電子DS部門の金泰佑副社長は、オンデバイスAI機器の大衆化により高帯域幅メモリー（HBM）への需要が集中し、DRAMやNANDなど汎用メモリーの供給不足が続くとの見方を示した。同氏は2028年までに追加ファブを建設し、研究開発を強化すると述べた。AI半導体スタートアップ、リベリオンの朴星炫代表は、韓国の強みとして半導体を挙げ、エネルギー・電力効率がエヌビディアより5倍高いチップに言及した。会場には世界の機関投資家と韓国国内の投資専門家約1000人が参加した。出典: hankyung.com"
+      },
+      "zh": {
+        "title": "端侧AI推动半导体超级周期，三星2028年前追加晶圆厂计划受关注",
+        "excerpt": "韩国经济新闻5月12日报道，KIW 2026显示端侧AI普及正推高HBM需求，并加剧DRAM、NAND等通用存储供应紧张。",
+        "body": "据韩国经济新闻报道，由韩国经济新闻社与三星证券共同主办的“韩国投资周（KIW）2026”于2026年5月12日在首尔新罗酒店开幕。当天，投资者关注焦点集中在引领韩国股市的半导体企业业务战略上。三星电子半导体DS部门副社长金泰佑表示，随着端侧AI设备大众化，需求正集中到高带宽存储器（HBM），DRAM、NAND等通用存储器供应短缺现象将持续。他还表示，三星将于2028年前建设追加晶圆厂，并强化研发。AI半导体初创企业Rebellions代表朴星炫称，半导体是韩国当前最具优势的领域，并提到其芯片能源和电力效率比英伟达高五倍。全球机构投资者和韩国国内投资专家约1000人出席了活动。来源: hankyung.com"
+      },
+      "es": {
+        "title": "La IA en dispositivo impulsa el superciclo de chips y enfoca el plan de fabs de Samsung para 2028",
+        "excerpt": "Hankyung informó el 12 de mayo de 2026 que KIW 2026 destacó cómo la IA en dispositivo eleva la demanda de HBM y tensiona el suministro de memoria.",
+        "body": "Según Hankyung, Korea Investment Week 2026 se inauguró el 12 de mayo de 2026 en The Shilla Seoul, con organización conjunta de The Korea Economic Daily y Samsung Securities. La atención de los inversores se centró en las estrategias de negocio de las compañías de semiconductores que lideran el mercado bursátil coreano. Kim Tae-woo, vicepresidente de la división DS de Samsung Electronics, dijo que la popularización de los dispositivos con IA en el propio equipo está concentrando la demanda en la memoria de alto ancho de banda, o HBM, y que continuará la escasez de memorias generales como DRAM y NAND. Añadió que Samsung construirá fabs adicionales antes de 2028 y reforzará la investigación y desarrollo. Park Sung-hyun, director ejecutivo de la startup de chips de IA Rebellions, señaló a los semiconductores como la mayor fortaleza de Corea y mencionó un chip con una eficiencia energética y eléctrica cinco veces superior a Nvidia. Asistieron más de 1.000 inversores institucionales globales y expertos locales. Fuente: hankyung.com"
+      },
+      "pt": {
+        "title": "IA no dispositivo impulsiona superciclo de chips e destaca fabs da Samsung até 2028",
+        "excerpt": "O Hankyung informou em 12 de maio de 2026 que a KIW 2026 destacou a alta demanda por HBM e a escassez de memória com a expansão da IA no dispositivo.",
+        "body": "Segundo o Hankyung, a Korea Investment Week 2026 começou em 12 de maio de 2026 no The Shilla Seoul, organizada em conjunto pelo The Korea Economic Daily e pela Samsung Securities. A atenção dos investidores ficou concentrada nas estratégias de negócios das empresas de semicondutores que lideram o mercado acionário coreano. Kim Tae-woo, vice-presidente da divisão DS da Samsung Electronics, afirmou que a popularização de dispositivos com IA no próprio aparelho está direcionando a demanda para memória de alta largura de banda, ou HBM, enquanto a escassez de memórias gerais como DRAM e NAND deve continuar. Ele disse que a Samsung construirá fabs adicionais até 2028 e reforçará pesquisa e desenvolvimento. Park Sung-hyun, CEO da startup de chips de IA Rebellions, apontou os semicondutores como a principal força da Coreia e citou um chip com eficiência energética e elétrica cinco vezes maior que a da Nvidia. Mais de 1.000 investidores institucionais globais e especialistas locais participaram. Fonte: hankyung.com"
+      },
+      "de": {
+        "title": "On-Device-KI treibt Chip-Superzyklus, Samsung plant zusätzliche Fabs bis 2028",
+        "excerpt": "Hankyung berichtete am 12. Mai 2026, dass die KIW 2026 steigende HBM-Nachfrage und knapperes Speicherangebot durch On-Device-KI hervorhob.",
+        "body": "Laut Hankyung wurde die Korea Investment Week 2026 am 12. Mai 2026 im The Shilla Seoul eröffnet, gemeinsam ausgerichtet von The Korea Economic Daily und Samsung Securities. Das Interesse der Investoren richtete sich auf die Geschäftsstrategien der Halbleiterunternehmen, die den koreanischen Aktienmarkt prägen. Kim Tae-woo, Vice President der DS-Sparte von Samsung Electronics, sagte, die Verbreitung von On-Device-KI-Geräten lenke die Nachfrage auf High-Bandwidth Memory, kurz HBM, während Engpässe bei Standardspeichern wie DRAM und NAND anhalten dürften. Samsung werde bis 2028 zusätzliche Fabs bauen und Forschung und Entwicklung stärken. Park Sung-hyun, CEO des KI-Chip-Startups Rebellions, nannte Halbleiter Koreas zentrale Stärke und verwies auf einen Chip mit fünfmal höherer Energie- und Stromeffizienz als Nvidia. Mehr als 1.000 globale institutionelle Investoren und koreanische Anlageexperten nahmen teil. Quelle: hankyung.com"
+      },
+      "fr": {
+        "title": "L’IA embarquée porte le supercycle des puces et les nouvelles fabs de Samsung d’ici 2028",
+        "excerpt": "Hankyung a rapporté le 12 mai 2026 que KIW 2026 a mis en avant la hausse de la demande de HBM et les tensions sur la mémoire liées à l’IA embarquée.",
+        "body": "Selon Hankyung, la Korea Investment Week 2026 s’est ouverte le 12 mai 2026 au Shilla Seoul, sous l’organisation conjointe du Korea Economic Daily et de Samsung Securities. L’attention des investisseurs s’est portée sur les stratégies des entreprises de semi-conducteurs qui tirent le marché boursier coréen. Kim Tae-woo, vice-président de la division DS de Samsung Electronics, a déclaré que la généralisation des appareils dotés d’IA embarquée concentre la demande sur la mémoire à large bande passante, ou HBM, tandis que les pénuries de mémoires généralistes comme la DRAM et la NAND devraient se poursuivre. Il a indiqué que Samsung construirait des fabs supplémentaires d’ici 2028 et renforcerait sa recherche et développement. Park Sung-hyun, PDG de la startup de puces d’IA Rebellions, a cité les semi-conducteurs comme le principal atout de la Corée et mentionné une puce cinq fois plus efficace en énergie et en puissance que Nvidia. Plus de 1.000 investisseurs institutionnels mondiaux et experts coréens ont participé. Source: hankyung.com"
+      },
+      "ar": {
+        "title": "الذكاء الاصطناعي على الأجهزة يقود دورة الرقائق الفائقة وخطة سامسونغ لمصانع إضافية بحلول 2028",
+        "excerpt": "ذكرت هانكيونغ في 12 مايو 2026 أن KIW 2026 أبرزت ارتفاع طلب HBM واستمرار نقص الذاكرة مع انتشار أجهزة الذكاء الاصطناعي المحلية.",
+        "body": "وفقاً لهانكيونغ، افتتح أسبوع كوريا للاستثمار KIW 2026 في 12 مايو 2026 بفندق ذا شيلا في سول، بتنظيم مشترك من صحيفة كوريا الاقتصادية وسامسونغ للأوراق المالية. وتركز اهتمام المستثمرين على استراتيجيات شركات أشباه الموصلات التي تقود سوق الأسهم الكورية. قال كيم تاي-وو، نائب رئيس قسم أشباه الموصلات DS في سامسونغ إلكترونيكس، إن انتشار أجهزة الذكاء الاصطناعي على الجهاز يدفع الطلب نحو ذاكرة النطاق الترددي العالي HBM، بينما سيستمر نقص الذاكرة العامة مثل DRAM وNAND. وأضاف أن سامسونغ ستبني مصانع إضافية بحلول 2028 وستعزز البحث والتطوير. وأشار بارك سونغ-هيون، رئيس شركة Rebellions الناشئة لرقائق الذكاء الاصطناعي، إلى أن أشباه الموصلات هي قوة كوريا الأبرز، وذكر شريحة أعلى بخمس مرات من إنفيديا في كفاءة الطاقة والكهرباء. حضر الحدث أكثر من 1000 مستثمر مؤسسي عالمي وخبير استثمار محلي. المصدر: hankyung.com"
+      },
+      "hi": {
+        "title": "ऑन-डिवाइस AI से चिप सुपरचक्र को बल, 2028 तक Samsung की अतिरिक्त फैब योजना पर नजर",
+        "excerpt": "Hankyung ने 12 मई 2026 को बताया कि KIW 2026 में ऑन-डिवाइस AI के विस्तार से HBM मांग बढ़ने और मेमोरी आपूर्ति तंग रहने पर जोर रहा।",
+        "body": "Hankyung के अनुसार, Korea Investment Week 2026 का उद्घाटन 12 मई 2026 को सियोल के The Shilla होटल में हुआ। इसका संयुक्त आयोजन The Korea Economic Daily और Samsung Securities ने किया। निवेशकों का ध्यान उन सेमीकंडक्टर कंपनियों की कारोबारी रणनीतियों पर रहा जो कोरियाई शेयर बाजार का नेतृत्व कर रही हैं। Samsung Electronics के DS डिविजन के वाइस प्रेसिडेंट Kim Tae-woo ने कहा कि ऑन-डिवाइस AI उपकरणों के लोकप्रिय होने से मांग हाई-बैंडविड्थ मेमोरी, यानी HBM, की ओर जा रही है और DRAM तथा NAND जैसी सामान्य मेमोरी में आपूर्ति की कमी जारी रह सकती है। उन्होंने कहा कि Samsung 2028 तक अतिरिक्त फैब बनाएगी और अनुसंधान एवं विकास को मजबूत करेगी। AI चिप स्टार्टअप Rebellions के CEO Park Sung-hyun ने सेमीकंडक्टर को कोरिया की प्रमुख ताकत बताया और Nvidia की तुलना में ऊर्जा और बिजली दक्षता में पांच गुना बेहतर चिप का उल्लेख किया। कार्यक्रम में 1,000 से अधिक वैश्विक संस्थागत निवेशक और घरेलू निवेश विशेषज्ञ शामिल हुए। स्रोत: hankyung.com"
+      },
+      "id": {
+        "title": "AI On-Device Dorong Supercycle Chip, Rencana Fab Tambahan Samsung hingga 2028 Disorot",
+        "excerpt": "Hankyung melaporkan pada 12 Mei 2026 bahwa KIW 2026 menyoroti kenaikan permintaan HBM dan ketatnya pasokan memori seiring meluasnya AI on-device.",
+        "body": "Menurut Hankyung, Korea Investment Week 2026 dibuka pada 12 Mei 2026 di The Shilla Seoul, diselenggarakan bersama oleh The Korea Economic Daily dan Samsung Securities. Perhatian investor tertuju pada strategi bisnis perusahaan semikonduktor yang memimpin pasar saham Korea. Kim Tae-woo, wakil presiden divisi DS Samsung Electronics, mengatakan popularitas perangkat AI on-device mendorong permintaan ke high-bandwidth memory, atau HBM, sementara kekurangan pasokan memori umum seperti DRAM dan NAND diperkirakan berlanjut. Ia mengatakan Samsung akan membangun fab tambahan hingga 2028 dan memperkuat riset serta pengembangan. Park Sung-hyun, CEO startup chip AI Rebellions, menyebut semikonduktor sebagai kekuatan utama Korea dan menyinggung chip dengan efisiensi energi dan daya lima kali lebih tinggi daripada Nvidia. Lebih dari 1.000 investor institusi global dan pakar investasi domestik hadir. Sumber: hankyung.com"
+      }
+    }
+  },
+  {
+    "id": "933bb36e580a",
+    "slug": "표류하는-가상자산법테더-스테이블코인-韓-수출-확대-기회-667468",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-05-12T20:45:55.233Z",
+    "updatedAt": "2026-05-12T20:45:55.233Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/2026051212926",
+    "canonicalUrl": "https://www.hankyung.com/article/2026051212926",
+    "titleFingerprint": "22603b024d8e1ccf470d13e7821a91a8db781979",
+    "dedupKeys": [
+      "933bb36e580a0bd88bdfdc476bb1611891422e73",
+      "22603b024d8e1ccf470d13e7821a91a8db781979",
+      "a9f5af4618595ae31d8806d2277affa1d89fec44"
+    ],
+    "imageUrl": "/images/articles/933bb36e580a.jpg",
+    "i18n": {
+      "ko": {
+        "title": "스테이블코인 법제화 표류 속 테더가 짚은 한국 수출 확대 기회와 원화 기반 코인 과제 전망",
+        "excerpt": "테더 등 글로벌 기업들은 2026년 5월 12일 국회 세미나에서 원화 스테이블코인 법제화가 한국 수출·결제·디지털경제 연결을 넓힐 수 있다고 밝혔다.",
+        "body": "2026년 5월 12일 서울 여의도 국회의사당 국회의원회관에서 열린 ‘글로벌 스테이블코인 동향과 한국 디지털 경제의 기회’ 세미나에서 글로벌 기업들은 한국의 원화 스테이블코인 육성과 법제화 필요성을 제기했다. 디지털자산기본법이 국회에서 표류하는 가운데 김상훈 국민의힘 의원은 발의된 법안을 토대로 조속히 추진하겠다고 밝혔다. 민병덕 더불어민주당 의원은 달러 기반 스테이블코인이 디지털 공간에서 달러 영향력을 키우는 금융 인프라가 되고 있다고 말했다. 테더의 자일스 딕슨 글로벌 규제·라이선싱 총괄은 한국의 K팝, 화장품, 기술 산업 수요를 언급하며 스테이블코인이 한국 상품과 문화 콘텐츠를 글로벌 시장에 확산시키고 투자와 결제를 연결할 기회가 될 수 있다고 평가했다. 출처: hankyung.com."
+      },
+      "en": {
+        "title": "Stablecoin Law Stalls as Tether Sees Korea Export Opportunity in Won-Based Coins",
+        "excerpt": "At a National Assembly seminar on May 12, 2026, Tether and other global firms said won stablecoin rules could broaden Korea’s export, payment and digital-economy links.",
+        "body": "At the ‘Global Stablecoin Trends and Opportunities for Korea’s Digital Economy’ seminar held at the National Assembly Members’ Office Building in Seoul on May 12, 2026, global companies called for Korea to foster and legislate won-based stablecoins. As the Digital Asset Basic Act remains stalled in the National Assembly, People Power Party lawmaker Kim Sang-hoon said he would push the submitted bills quickly. Democratic Party lawmaker Min Byung-deok said dollar-based stablecoins are becoming financial infrastructure that expands the dollar’s influence in digital spaces. Giles Dixon, Tether’s global head of regulatory and licensing, cited demand for Korean K-pop, cosmetics and technology, saying stablecoins could help spread Korean goods and cultural content globally and connect investment with payments. Source: hankyung.com."
+      },
+      "ja": {
+        "title": "ステーブルコイン法制化停滞、テザーが見る韓国輸出拡大とウォン連動コインの課題",
+        "excerpt": "2026年5月12日の国会セミナーで、テザーなど海外企業はウォン建てステーブルコインの法制化が韓国の輸出、決済、デジタル経済の接点を広げ得ると述べた。",
+        "body": "2026年5月12日、ソウル汝矣島の国会議員会館で開かれた「グローバル・ステーブルコイン動向と韓国デジタル経済の機会」セミナーで、海外企業は韓国がウォン建てステーブルコインを育成し法制化する必要があると提言した。デジタル資産基本法が国会で停滞する中、与党「国民の力」の金相勲議員は、提出済み法案を基に早期に推進すると述べた。最大野党「共に民主党」の閔炳徳議員は、ドル建てステーブルコインがデジタル空間でドルの影響力を広げる金融インフラになっていると指摘した。テザーのグローバル規制・ライセンス責任者ジャイルズ・ディクソン氏は、Kポップ、化粧品、技術産業への需要を挙げ、ステーブルコインは韓国の商品や文化コンテンツを世界市場に広げ、投資と決済を結ぶ機会になり得ると評価した。出典: hankyung.com."
+      },
+      "zh": {
+        "title": "稳定币立法徘徊之际，Tether看好韩国出口扩张与韩元币种机遇",
+        "excerpt": "在2026年5月12日国会研讨会上，Tether等全球企业表示，韩元稳定币立法可扩大韩国出口、支付和数字经济连接。",
+        "body": "2026年5月12日，在首尔汝矣岛国会议员会馆举行的“全球稳定币趋势与韩国数字经济机会”研讨会上，全球企业提出韩国有必要培育韩元稳定币并推进立法。在《数字资产基本法》仍在国会搁置的背景下，国民力量议员金相勋表示，将以已提交法案为基础尽快推动。共同民主党议员闵炳德指出，美元稳定币正成为在数字空间扩大美元影响力的新金融基础设施。Tether全球监管与牌照负责人Giles Dixon提到韩国K-pop、化妆品和技术产业的全球需求，认为稳定币可帮助韩国商品和文化内容更容易扩散至全球市场，并连接全球投资与支付。来源: hankyung.com."
+      },
+      "es": {
+        "title": "La ley de stablecoins se atasca mientras Tether ve una oportunidad para exportaciones coreanas",
+        "excerpt": "En un seminario parlamentario del 12 de mayo de 2026, Tether y otras firmas dijeron que regular stablecoins en won podría ampliar exportaciones, pagos y economía digital de Corea.",
+        "body": "En el seminario “Tendencias globales de las stablecoins y oportunidades para la economía digital de Corea”, celebrado el 12 de mayo de 2026 en el edificio de la Asamblea Nacional en Seúl, empresas globales pidieron que Corea fomente y legisle stablecoins basadas en el won. Mientras la Ley Básica de Activos Digitales sigue detenida en el Parlamento, el diputado Kim Sang-hoon, del People Power Party, dijo que impulsaría con rapidez los proyectos ya presentados. Min Byung-deok, del Partido Democrático, señaló que las stablecoins en dólares se están convirtiendo en una infraestructura financiera que amplía la influencia del dólar en el espacio digital. Giles Dixon, responsable global de regulación y licencias de Tether, citó la demanda de K-pop, cosméticos y tecnología coreana, y dijo que las stablecoins podrían difundir bienes y contenidos culturales coreanos en el mercado global y conectar inversión con pagos. Fuente: hankyung.com."
+      },
+      "pt": {
+        "title": "Lei de stablecoins patina, e Tether vê chance para ampliar exportações da Coreia",
+        "excerpt": "Em seminário no Parlamento em 12 de maio de 2026, Tether e outras empresas disseram que regras para stablecoins em won podem ampliar exportações, pagamentos e economia digital da Coreia.",
+        "body": "No seminário “Tendências globais de stablecoins e oportunidades para a economia digital da Coreia”, realizado em 12 de maio de 2026 no prédio da Assembleia Nacional em Seul, empresas globais defenderam que a Coreia promova e regulamente stablecoins lastreadas no won. Enquanto a Lei Básica de Ativos Digitais segue parada no Parlamento, o deputado Kim Sang-hoon, do People Power Party, disse que pretende avançar rapidamente com os projetos já apresentados. Min Byung-deok, do Partido Democrático, afirmou que stablecoins em dólar estão se tornando uma infraestrutura financeira que amplia a influência do dólar no espaço digital. Giles Dixon, chefe global de regulação e licenciamento da Tether, citou a demanda por K-pop, cosméticos e tecnologia coreana e avaliou que stablecoins podem levar bens e conteúdos culturais coreanos ao mercado global e conectar investimento e pagamentos. Fonte: hankyung.com."
+      },
+      "de": {
+        "title": "Stablecoin-Gesetz stockt, während Tether Chancen für Koreas Exporte sieht",
+        "excerpt": "Bei einem Parlamentsseminar am 12. Mai 2026 sagten Tether und andere globale Firmen, Won-Stablecoin-Regeln könnten Koreas Export-, Zahlungs- und Digitalwirtschaft verbinden.",
+        "body": "Beim Seminar “Globale Stablecoin-Trends und Chancen für Koreas digitale Wirtschaft” am 12. Mai 2026 im Abgeordnetengebäude der Nationalversammlung in Seoul forderten globale Unternehmen, dass Korea Won-basierte Stablecoins fördert und gesetzlich regelt. Während das Digital Asset Basic Act im Parlament feststeckt, sagte Kim Sang-hoon von der People Power Party, er werde die bereits eingebrachten Gesetzentwürfe zügig vorantreiben. Min Byung-deok von der Demokratischen Partei erklärte, dollarbasierte Stablecoins würden zu einer Finanzinfrastruktur, die den Einfluss des Dollars im digitalen Raum ausweitet. Giles Dixon, globaler Leiter für Regulierung und Lizenzen bei Tether, verwies auf die Nachfrage nach K-Pop, Kosmetik und koreanischer Technologie. Stablecoins könnten koreanische Waren und Kulturinhalte weltweit verbreiten und Investitionen mit Zahlungen verbinden. Quelle: hankyung.com."
+      },
+      "fr": {
+        "title": "La loi sur les stablecoins piétine, Tether voit une chance pour les exportations coréennes",
+        "excerpt": "Lors d’un séminaire parlementaire le 12 mai 2026, Tether et d’autres entreprises ont dit qu’un cadre pour les stablecoins en won pourrait élargir exportations, paiements et économie numérique coréens.",
+        "body": "Lors du séminaire “Tendances mondiales des stablecoins et opportunités pour l’économie numérique coréenne”, tenu le 12 mai 2026 dans le bâtiment des députés de l’Assemblée nationale à Séoul, des entreprises mondiales ont appelé la Corée à développer et encadrer les stablecoins libellés en won. Alors que la loi fondamentale sur les actifs numériques reste bloquée au Parlement, le député Kim Sang-hoon, du People Power Party, a déclaré vouloir faire avancer rapidement les textes déjà déposés. Min Byung-deok, du Parti démocrate, a indiqué que les stablecoins en dollars deviennent une infrastructure financière qui étend l’influence du dollar dans l’espace numérique. Giles Dixon, responsable mondial de la réglementation et des licences chez Tether, a cité la demande pour la K-pop, les cosmétiques et la technologie coréenne, estimant que les stablecoins peuvent diffuser les produits et contenus culturels coréens à l’international et relier investissement et paiements. Source: hankyung.com."
+      },
+      "ar": {
+        "title": "تعثر قانون العملات المستقرة وتيذر ترى فرصة لتوسيع صادرات كوريا عبر عملة مرتبطة بالوون",
+        "excerpt": "في ندوة برلمانية في 12 مايو 2026، قالت تيذر وشركات عالمية إن تنظيم العملات المستقرة المرتبطة بالوون قد يوسع روابط كوريا في الصادرات والمدفوعات والاقتصاد الرقمي.",
+        "body": "في ندوة “اتجاهات العملات المستقرة العالمية وفرص الاقتصاد الرقمي الكوري” التي عقدت في 12 مايو 2026 بمبنى أعضاء الجمعية الوطنية في سيول، دعت شركات عالمية كوريا إلى تنمية العملات المستقرة المرتبطة بالوون وسن تشريعات لها. وبينما لا يزال قانون الأصول الرقمية الأساسي عالقا في البرلمان، قال النائب كيم سانغ هون من حزب سلطة الشعب إنه سيدفع مشاريع القوانين المقدمة بسرعة. وقال النائب مين بيونغ دوك من الحزب الديمقراطي إن العملات المستقرة القائمة على الدولار أصبحت بنية مالية توسع نفوذ الدولار في الفضاء الرقمي. وأشار جايلز ديكسون، المسؤول العالمي عن التنظيم والتراخيص في تيذر، إلى الطلب على الكي بوب ومستحضرات التجميل والتكنولوجيا الكورية، معتبرا أن العملات المستقرة يمكن أن تنشر السلع والمحتوى الثقافي الكوري عالميا وتربط الاستثمار بالمدفوعات. المصدر: hankyung.com."
+      },
+      "hi": {
+        "title": "स्थिरकॉइन कानून अटका, टेथर ने कोरिया के निर्यात और वॉन आधारित कॉइन में अवसर देखा",
+        "excerpt": "12 मई 2026 को संसद सेमिनार में टेथर और अन्य वैश्विक कंपनियों ने कहा कि वॉन स्थिरकॉइन नियम कोरिया के निर्यात, भुगतान और डिजिटल अर्थव्यवस्था के जुड़ाव को बढ़ा सकते हैं।",
+        "body": "12 मई 2026 को सियोल में नेशनल असेंबली में आयोजित “वैश्विक स्थिरकॉइन रुझान और कोरिया की डिजिटल अर्थव्यवस्था के अवसर” सेमिनार में वैश्विक कंपनियों ने कहा कि कोरिया को वॉन आधारित स्थिरकॉइन को बढ़ावा देने और उसका कानून बनाने की जरूरत है। डिजिटल एसेट बेसिक एक्ट संसद में अटका हुआ है। इसी बीच पीपल पावर पार्टी के सांसद किम सांग-हून ने कहा कि वे पेश किए गए विधेयकों के आधार पर इसे शीघ्र आगे बढ़ाएंगे। डेमोक्रेटिक पार्टी के सांसद मिन ब्यॉन्ग-देओक ने कहा कि डॉलर आधारित स्थिरकॉइन डिजिटल क्षेत्र में डॉलर के प्रभाव को बढ़ाने वाला वित्तीय ढांचा बन रहे हैं। टेथर के वैश्विक नियमन और लाइसेंसिंग प्रमुख जाइल्स डिक्सन ने के-पॉप, सौंदर्य उत्पादों और तकनीकी उद्योगों की मांग का उल्लेख किया और कहा कि स्थिरकॉइन कोरियाई वस्तुओं और सांस्कृतिक सामग्री को वैश्विक बाजार में फैलाने तथा निवेश और भुगतान को जोड़ने का अवसर दे सकते हैं। स्रोत: hankyung.com."
+      },
+      "id": {
+        "title": "Aturan Stablecoin Tertahan, Tether Lihat Peluang Ekspor Korea Lewat Koin Won",
+        "excerpt": "Dalam seminar parlemen pada 12 Mei 2026, Tether dan perusahaan global lain mengatakan aturan stablecoin berbasis won dapat memperluas ekspor, pembayaran, dan ekonomi digital Korea.",
+        "body": "Dalam seminar “Tren Stablecoin Global dan Peluang Ekonomi Digital Korea” yang digelar pada 12 Mei 2026 di gedung anggota Majelis Nasional di Seoul, perusahaan global menyerukan agar Korea mengembangkan dan melegalkan stablecoin berbasis won. Saat Digital Asset Basic Act masih tertahan di parlemen, anggota parlemen Kim Sang-hoon dari People Power Party mengatakan ia akan mendorong cepat rancangan undang-undang yang sudah diajukan. Min Byung-deok dari Partai Demokrat mengatakan stablecoin berbasis dolar menjadi infrastruktur keuangan yang memperluas pengaruh dolar di ruang digital. Giles Dixon, kepala regulasi dan lisensi global Tether, menyebut permintaan atas K-pop, kosmetik, dan teknologi Korea, serta menilai stablecoin dapat membantu menyebarkan barang dan konten budaya Korea ke pasar global sekaligus menghubungkan investasi dan pembayaran. Sumber: hankyung.com."
+      }
+    }
+  },
+  {
+    "id": "a3c6fd580ebd",
+    "slug": "산업-ai-마키나락스-청약에-14조-뭉칫돈-449320",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-05-12T20:44:31.341Z",
+    "updatedAt": "2026-05-12T20:44:31.341Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/2026051217801",
+    "canonicalUrl": "https://www.hankyung.com/article/2026051217801",
+    "titleFingerprint": "26a89b1488346f5daff37948edb729fff045d733",
+    "dedupKeys": [
+      "a3c6fd580ebd06acd079dc7d8252141da6cbd52c",
+      "26a89b1488346f5daff37948edb729fff045d733",
+      "e4b1afecd9a04973958fb7aa9b216fef1c410d31"
+    ],
+    "imageUrl": "/images/articles/a3c6fd580ebd.png",
+    "i18n": {
+      "ko": {
+        "title": "마키나락스 일반청약 14조원 몰려…산업 AI IPO 흥행에 코스닥 상장 관심",
+        "excerpt": "산업 현장 특화 AI 솔루션 기업 마키나락스가 5월 11~12일 코스닥 상장을 위한 일반청약에서 약 14조원의 증거금을 모으며 투자자 관심을 끌었다.",
+        "body": "산업 현장 특화 인공지능(AI) 솔루션 기업 마키나락스가 코스닥시장 상장을 앞두고 진행한 일반청약에서 14조원에 달하는 증거금을 모았다. 5월 12일 투자은행(IB)업계에 따르면 마키나락스는 5월 11~12일 일반투자자 대상 공모 청약을 진행했으며 경쟁률은 약 2808대 1로 나타났다. 청약 건수는 약 54만6000건으로 집계됐고, 청약금액의 절반을 미리 납부하는 청약 증거금은 약 14조원에 달했다. 이번 청약 결과는 산업 AI 기업의 코스닥 상장을 앞둔 투자 수요가 집중됐음을 보여준다. 다만 상장 이후 주가 흐름은 별도 시장 변수에 따라 달라질 수 있다. 출처: hankyung.com"
+      },
+      "en": {
+        "title": "MakinaRocks Draws Nearly 14 Trillion Won in Industrial AI IPO Subscription",
+        "excerpt": "MakinaRocks, an industrial-site AI solutions company, attracted nearly 14 trillion won in deposits during its May 11-12 retail subscription for a KOSDAQ listing.",
+        "body": "MakinaRocks, an artificial intelligence solutions company specializing in industrial sites, drew subscription deposits worth nearly 14 trillion won ahead of its KOSDAQ listing. According to investment banking industry sources on May 12, the company conducted its public subscription for retail investors on May 11-12, recording a subscription ratio of about 2,808 to 1. The number of subscription applications was estimated at about 546,000, while deposits, equal to half of the subscribed amount paid in advance, reached roughly 14 trillion won. The result shows concentrated investor demand ahead of the industrial AI company's KOSDAQ debut. However, post-listing share performance may vary depending on market conditions. Source: hankyung.com"
+      },
+      "ja": {
+        "title": "産業AIのマキナロックス、公募申込に約14兆ウォン流入しKOSDAQ上場に関心",
+        "excerpt": "産業現場向けAIソリューション企業マキナロックスは5月11～12日、KOSDAQ上場に向けた一般申込で約14兆ウォンの証拠金を集めた。",
+        "body": "産業現場に特化した人工知能（AI）ソリューション企業マキナロックスが、KOSDAQ市場への上場を控えて実施した一般申込で、約14兆ウォンに達する証拠金を集めた。5月12日の投資銀行（IB）業界によると、同社は5月11～12日に一般投資家向けの公募申込を行い、倍率は約2808倍となった。申込件数は約54万6000件と集計され、申込金額の半分を事前に納める証拠金は約14兆ウォンに達した。今回の結果は、産業AI企業のKOSDAQ上場を前に投資需要が集中したことを示している。ただし、上場後の株価推移は別途の市場要因によって変わり得る。出典: hankyung.com"
+      },
+      "zh": {
+        "title": "工业AI企业MakinaRocks申购吸金近14万亿韩元，科斯达克上市受关注",
+        "excerpt": "工业现场AI解决方案企业MakinaRocks于5月11日至12日进行科斯达克上市一般申购，募集保证金约14万亿韩元。",
+        "body": "专注于工业现场的人工智能解决方案企业MakinaRocks在科斯达克上市前进行的一般申购中，募集了接近14万亿韩元的申购保证金。据5月12日投资银行业界消息，MakinaRocks于5月11日至12日面向普通投资者进行公开申购，申购竞争率约为2808比1。申购件数约为54.6万件，需预先缴纳申购金额一半的保证金约达14万亿韩元。此次申购结果显示，在这家工业AI企业登陆科斯达克前，投资需求明显集中。不过，上市后的股价走势仍可能随市场变量而变化。来源: hankyung.com"
+      },
+      "es": {
+        "title": "MakinaRocks capta casi 14 billones de wones en la suscripción de su IPO de IA industrial",
+        "excerpt": "MakinaRocks, empresa de soluciones de IA para entornos industriales, reunió casi 14 billones de wones en su suscripción minorista del 11 al 12 de mayo para listar en KOSDAQ.",
+        "body": "MakinaRocks, empresa de soluciones de inteligencia artificial especializadas en entornos industriales, reunió depósitos de suscripción cercanos a 14 billones de wones antes de su salida a bolsa en KOSDAQ. Según fuentes del sector de banca de inversión el 12 de mayo, la compañía realizó la suscripción pública para inversores minoristas entre el 11 y el 12 de mayo, con una demanda de aproximadamente 2.808 veces. El número de solicitudes fue de unas 546.000, y los depósitos, equivalentes a la mitad del importe suscrito pagado por adelantado, alcanzaron cerca de 14 billones de wones. El resultado muestra una concentración de demanda inversora antes del debut en KOSDAQ de esta empresa de IA industrial. La evolución posterior de la acción dependerá de las condiciones del mercado. Fuente: hankyung.com"
+      },
+      "pt": {
+        "title": "MakinaRocks atrai quase 14 trilhões de wons em subscrição de IPO de IA industrial",
+        "excerpt": "A MakinaRocks, empresa de soluções de IA para ambientes industriais, captou quase 14 trilhões de wons em depósitos na subscrição de 11 a 12 de maio para listar na KOSDAQ.",
+        "body": "A MakinaRocks, empresa de soluções de inteligência artificial voltadas a ambientes industriais, atraiu depósitos de subscrição próximos de 14 trilhões de wons antes de sua listagem na KOSDAQ. Segundo fontes do setor de banco de investimento em 12 de maio, a companhia realizou a oferta para investidores de varejo entre 11 e 12 de maio, registrando demanda de cerca de 2.808 vezes. O número de pedidos foi estimado em aproximadamente 546 mil, enquanto os depósitos, equivalentes à metade do valor subscrito pago antecipadamente, chegaram a quase 14 trilhões de wons. O resultado indica forte concentração de demanda antes da estreia da empresa de IA industrial na KOSDAQ. O desempenho das ações após a listagem dependerá das condições de mercado. Fonte: hankyung.com"
+      },
+      "de": {
+        "title": "MakinaRocks sammelt fast 14 Billionen Won bei Zeichnung für Industrial-AI-IPO ein",
+        "excerpt": "MakinaRocks, Anbieter von KI-Lösungen für Industrieumgebungen, zog bei der Zeichnung vom 11. bis 12. Mai für das KOSDAQ-Listing fast 14 Billionen Won an Einlagen an.",
+        "body": "MakinaRocks, ein auf Industrieumgebungen spezialisiertes Unternehmen für KI-Lösungen, hat vor seinem geplanten KOSDAQ-Börsengang Zeichnungseinlagen von nahezu 14 Billionen Won eingesammelt. Nach Angaben aus dem Investmentbanking-Sektor vom 12. Mai fand die öffentliche Zeichnung für Privatanleger am 11. und 12. Mai statt; die Nachfrage lag bei rund dem 2.808-Fachen des Angebots. Die Zahl der Zeichnungsanträge wurde auf etwa 546.000 beziffert. Die Einlagen, die der vorab gezahlten Hälfte des Zeichnungsbetrags entsprechen, erreichten fast 14 Billionen Won. Das Ergebnis zeigt gebündelte Investorennachfrage vor dem KOSDAQ-Debüt des Industrial-AI-Unternehmens. Die Kursentwicklung nach dem Listing kann von weiteren Marktbedingungen abhängen. Quelle: hankyung.com"
+      },
+      "fr": {
+        "title": "MakinaRocks attire près de 14 billions de wons pour son IPO d’IA industrielle",
+        "excerpt": "MakinaRocks, société de solutions d’IA pour sites industriels, a réuni près de 14 billions de wons de dépôts lors de sa souscription des 11 et 12 mai avant son entrée au KOSDAQ.",
+        "body": "MakinaRocks, société de solutions d’intelligence artificielle spécialisées pour les sites industriels, a attiré près de 14 billions de wons de dépôts de souscription avant son introduction au KOSDAQ. Selon des sources du secteur de la banque d’investissement le 12 mai, l’entreprise a mené sa souscription publique auprès des investisseurs particuliers les 11 et 12 mai, avec un taux de demande d’environ 2 808 fois. Le nombre de demandes a été estimé à environ 546 000, tandis que les dépôts, correspondant à la moitié du montant souscrit versée à l’avance, ont atteint près de 14 billions de wons. Ce résultat montre une forte concentration de la demande avant les débuts au KOSDAQ de cette entreprise d’IA industrielle. L’évolution du titre après la cotation dépendra toutefois des conditions de marché. Source: hankyung.com"
+      },
+      "ar": {
+        "title": "ماكينا روكس تجذب نحو 14 تريليون وون في اكتتاب طرحها لشركة ذكاء اصطناعي صناعي",
+        "excerpt": "جمعت ماكينا روكس، المتخصصة في حلول الذكاء الاصطناعي للمواقع الصناعية، نحو 14 تريليون وون كودائع اكتتاب بين 11 و12 مايو قبل إدراجها في كوسداك.",
+        "body": "جمعت شركة ماكينا روكس، المتخصصة في حلول الذكاء الاصطناعي للمواقع الصناعية، ودائع اكتتاب تقارب 14 تريليون وون قبل إدراجها في سوق كوسداك. وبحسب مصادر في قطاع بنوك الاستثمار في 12 مايو، أجرت الشركة اكتتابا عاما للمستثمرين الأفراد بين 11 و12 مايو، وسجلت نسبة طلب بلغت نحو 2808 مرات. وبلغ عدد طلبات الاكتتاب نحو 546 ألف طلب، فيما وصلت الودائع، وهي نصف قيمة الاكتتاب المدفوعة مسبقا، إلى حوالي 14 تريليون وون. وتظهر النتيجة تركز طلب المستثمرين قبل إدراج شركة الذكاء الاصطناعي الصناعية في كوسداك. لكن أداء السهم بعد الإدراج قد يتغير تبعا لظروف السوق. المصدر: hankyung.com"
+      },
+      "hi": {
+        "title": "इंडस्ट्रियल AI कंपनी MakinaRocks के IPO सब्सक्रिप्शन में करीब 14 ट्रिलियन वॉन आए",
+        "excerpt": "औद्योगिक स्थलों के लिए AI समाधान देने वाली MakinaRocks ने 11-12 मई को KOSDAQ लिस्टिंग से पहले आम निवेशक सब्सक्रिप्शन में करीब 14 ट्रिलियन वॉन जुटाए।",
+        "body": "औद्योगिक स्थलों के लिए कृत्रिम बुद्धिमत्ता समाधान देने वाली MakinaRocks ने KOSDAQ बाजार में सूचीबद्ध होने से पहले हुए आम निवेशक सब्सक्रिप्शन में करीब 14 ट्रिलियन वॉन की जमा राशि जुटाई। 12 मई को निवेश बैंकिंग उद्योग के अनुसार, कंपनी ने 11-12 मई को आम निवेशकों के लिए सार्वजनिक सब्सक्रिप्शन किया और मांग लगभग 2,808 गुना रही। सब्सक्रिप्शन आवेदनों की संख्या लगभग 5,46,000 रही, जबकि पहले से जमा की जाने वाली सब्सक्रिप्शन राशि का आधा हिस्सा करीब 14 ट्रिलियन वॉन तक पहुंचा। यह परिणाम दिखाता है कि औद्योगिक AI कंपनी की KOSDAQ लिस्टिंग से पहले निवेशकों की मांग केंद्रित रही। लिस्टिंग के बाद शेयर प्रदर्शन बाजार स्थितियों पर निर्भर कर सकता है। स्रोत: hankyung.com"
+      },
+      "id": {
+        "title": "MakinaRocks Raup Hampir 14 Triliun Won dalam Subskripsi IPO AI Industri",
+        "excerpt": "MakinaRocks, perusahaan solusi AI untuk lokasi industri, mengumpulkan hampir 14 triliun won dana jaminan dalam subskripsi ritel 11-12 Mei jelang listing KOSDAQ.",
+        "body": "MakinaRocks, perusahaan solusi kecerdasan buatan yang berfokus pada lokasi industri, mengumpulkan dana jaminan subskripsi hampir 14 triliun won menjelang pencatatan sahamnya di KOSDAQ. Menurut sumber industri perbankan investasi pada 12 Mei, perusahaan menggelar subskripsi publik bagi investor ritel pada 11-12 Mei dengan rasio permintaan sekitar 2.808 kali. Jumlah aplikasi diperkirakan sekitar 546.000, sementara dana jaminan, yaitu separuh nilai subskripsi yang dibayar di muka, mencapai hampir 14 triliun won. Hasil ini menunjukkan permintaan investor yang terkonsentrasi sebelum debut KOSDAQ perusahaan AI industri tersebut. Namun, pergerakan saham setelah listing tetap dapat berubah sesuai kondisi pasar. Sumber: hankyung.com"
+      }
+    }
+  },
+  {
     "id": "fdba9a364f89",
     "slug": "8000-코앞에-둔-코스피6거래일-만에-숨-고르기-862818",
     "channelId": "ETF",
@@ -4271,231 +4496,6 @@
         "title": "Apache APA Terdeteksi Sinyal Jual, MK Signal Catat Imbal Hasil 45,68%",
         "excerpt": "Reporter AI MK Signal pada tanggal 11 menyebut Apache (APA), saham AS yang menjadi sorotan, terdeteksi memiliki sinyal jual dengan imbal hasil berbasis sinyal 45,68%.",
         "body": "Reporter AI “MK Signal” pada tanggal 11 menyatakan bahwa sinyal jual terdeteksi pada Apache (APA), saham AS yang dianalisis sebagai isu panas. Sinyal tersebut dikonfirmasi dalam proses analisis saham MK Signal, dengan imbal hasil berdasarkan kriteria itu disajikan sebesar 45,68%. Laporan asli berfokus pada Apache yang menunjukkan sinyal jual di MK Signal dan mencapai imbal hasil 45,68%. Informasi ini dapat menjadi bahan bagi investor yang memantau saham AS untuk melihat perubahan sinyal sekaligus angka imbal hasilnya. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "c9d3074e2b24",
-    "slug": "비보존-vvz-2471-대상포진후-신경통-국내-임상-2상-최종-대상자-투여-완료-434592",
-    "channelId": "ETF",
-    "category": "etf",
-    "publishedAt": "2026-05-12T01:57:48.930Z",
-    "updatedAt": "2026-05-12T01:57:48.930Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/stock/12044370",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12044370",
-    "titleFingerprint": "d73de0cf792c5d125a706dca121ede6e536f4f60",
-    "dedupKeys": [
-      "c9d3074e2b24e853d4d5b38ab20790c347bc4ff1",
-      "d73de0cf792c5d125a706dca121ede6e536f4f60",
-      "1581ec9b3fd839932462e1c6be19080179d6d9c6"
-    ],
-    "imageUrl": "/images/articles/c9d3074e2b24.png",
-    "i18n": {
-      "ko": {
-        "title": "비보존 VVZ-2471, 대상포진후 신경통 임상 2상 최종 투여 완료…비마약성 진통제 개발 주목",
-        "excerpt": "비보존제약 관계사 비보존은 12일 경구용 비마약성 진통제 후보물질 VVZ-2471의 대상포진후 신경통 국내 임상 2상에서 최종 대상자 투여를 완료했다고 밝혔다.",
-        "body": "비보존제약 관계사 비보존이 12일 경구용 비마약성 진통제 후보물질 ‘VVZ-2471’의 대상포진후 신경통(PHN) 환자 대상 국내 임상 2상에서 최종 대상자에 대한 투여를 완료했다고 밝혔다. 이번 임상은 PHN 환자를 대상으로 VVZ-2471을 평가하는 국내 2상 시험이다. 대상포진후 신경통은 대상포진 이후 지속되는 신경병증성 통증으로 알려져 있으며, 회사는 비마약성 경구 진통제 후보물질 개발을 진행해 왔다. 최종 대상자 투여 완료는 해당 임상 단계의 주요 절차가 마무리됐다는 의미로, 향후 결과 확인 과정이 주목된다. 출처: mk.co.kr."
-      },
-      "en": {
-        "title": "Vivozon Completes Final Dosing in Korean Phase 2 Trial of VVZ-2471 for Postherpetic Neuralgia",
-        "excerpt": "Vivozon, an affiliate of Vivozon Pharmaceutical, said on the 12th it completed final subject dosing in a Korean Phase 2 trial of oral non-opioid analgesic candidate VVZ-2471 for PHN.",
-        "body": "Vivozon, an affiliate of Vivozon Pharmaceutical, said on the 12th that it completed dosing for the final subject in a Korean Phase 2 clinical trial of its oral non-opioid analgesic candidate, VVZ-2471, in patients with postherpetic neuralgia (PHN). The domestic Phase 2 study is evaluating VVZ-2471 in PHN patients. Postherpetic neuralgia is known as neuropathic pain that persists after shingles, and the company has been developing the candidate as an oral non-opioid pain treatment. Completion of final subject dosing means a key procedure in this clinical stage has been finished, with attention now turning to the process of confirming results. Source: mk.co.kr."
-      },
-      "ja": {
-        "title": "VivozonのVVZ-2471、帯状疱疹後神経痛の韓国第2相で最終投与完了",
-        "excerpt": "Vivozon Pharmaceuticalの関係会社Vivozonは12日、経口非麻薬性鎮痛薬候補VVZ-2471について、帯状疱疹後神経痛患者を対象とする韓国第2相で最終被験者への投与を完了したと明らかにした。",
-        "body": "Vivozon Pharmaceuticalの関係会社Vivozonは12日、経口非麻薬性鎮痛薬候補物質「VVZ-2471」について、帯状疱疹後神経痛（PHN）患者を対象とする韓国国内第2相臨床試験で、最終被験者への投与を完了したと発表した。今回の試験はPHN患者を対象にVVZ-2471を評価する国内第2相試験だ。帯状疱疹後神経痛は、帯状疱疹後に持続する神経障害性疼痛として知られており、同社は経口非麻薬性鎮痛薬候補の開発を進めてきた。最終被験者への投与完了は、この臨床段階の主要手続きが終わったことを意味し、今後の結果確認過程が注目される。出典: mk.co.kr."
-      },
-      "zh": {
-        "title": "Vivozon的VVZ-2471完成韩国PHN二期临床最后受试者给药",
-        "excerpt": "Vivozon Pharmaceutical关联公司Vivozon于12日表示，口服非阿片类镇痛候选药VVZ-2471在韩国针对带状疱疹后神经痛患者的二期临床中完成最后受试者给药。",
-        "body": "Vivozon Pharmaceutical关联公司Vivozon于12日表示，口服非阿片类镇痛候选物“VVZ-2471”在韩国针对带状疱疹后神经痛（PHN）患者的二期临床试验中，已完成对最后一名受试者的给药。本次临床是在韩国国内评估VVZ-2471用于PHN患者的二期研究。带状疱疹后神经痛被认为是带状疱疹后持续存在的神经病理性疼痛，公司一直推进该口服非阿片类镇痛候选物的开发。最后受试者给药完成意味着该临床阶段的主要程序已经结束，后续结果确认过程将受到关注。来源: mk.co.kr."
-      },
-      "es": {
-        "title": "Vivozon completa la dosificación final de VVZ-2471 en fase 2 coreana para neuralgia posherpética",
-        "excerpt": "Vivozon, afiliada de Vivozon Pharmaceutical, informó el día 12 que completó la dosificación del último sujeto en el ensayo clínico fase 2 en Corea de VVZ-2471 para pacientes con PHN.",
-        "body": "Vivozon, afiliada de Vivozon Pharmaceutical, informó el día 12 que completó la administración al último sujeto en un ensayo clínico fase 2 en Corea de su candidato analgésico oral no opioide, “VVZ-2471”, en pacientes con neuralgia posherpética (PHN). Este estudio nacional de fase 2 evalúa VVZ-2471 en pacientes con PHN. La neuralgia posherpética se conoce como dolor neuropático persistente después del herpes zóster, y la compañía ha venido desarrollando este candidato como analgésico oral no opioide. La finalización de la dosificación del último sujeto significa que se ha completado un procedimiento clave de esta etapa clínica, por lo que la atención se dirige ahora al proceso de confirmación de resultados. Fuente: mk.co.kr."
-      },
-      "pt": {
-        "title": "Vivozon conclui dose final de VVZ-2471 em fase 2 coreana para neuralgia pós-herpética",
-        "excerpt": "A Vivozon, afiliada da Vivozon Pharmaceutical, informou no dia 12 que concluiu a administração ao último participante no estudo clínico fase 2 na Coreia de VVZ-2471 para PHN.",
-        "body": "A Vivozon, afiliada da Vivozon Pharmaceutical, informou no dia 12 que concluiu a administração ao último participante em um estudo clínico fase 2 na Coreia de seu candidato analgésico oral não opioide, “VVZ-2471”, em pacientes com neuralgia pós-herpética (PHN). O estudo doméstico de fase 2 avalia o VVZ-2471 em pacientes com PHN. A neuralgia pós-herpética é conhecida como dor neuropática persistente após o herpes-zóster, e a empresa vinha desenvolvendo o candidato como analgésico oral não opioide. A conclusão da dose no último participante significa que um procedimento importante desta etapa clínica foi finalizado, com atenção agora voltada ao processo de confirmação dos resultados. Fonte: mk.co.kr."
-      },
-      "de": {
-        "title": "Vivozon schließt letzte Dosierung von VVZ-2471 in koreanischer Phase-2-Studie zu PHN ab",
-        "excerpt": "Vivozon, ein verbundenes Unternehmen von Vivozon Pharmaceutical, teilte am 12. mit, dass in der koreanischen Phase-2-Studie zum oralen nicht-opioiden Schmerzmittelkandidaten VVZ-2471 bei PHN die letzte Probandengabe abgeschlossen wurde.",
-        "body": "Vivozon, ein verbundenes Unternehmen von Vivozon Pharmaceutical, teilte am 12. mit, dass die Verabreichung an den letzten Probanden in einer koreanischen Phase-2-Studie des oralen nicht-opioiden Schmerzmittelkandidaten „VVZ-2471“ bei Patienten mit postherpetischer Neuralgie (PHN) abgeschlossen wurde. Die inländische Phase-2-Studie bewertet VVZ-2471 bei PHN-Patienten. Postherpetische Neuralgie ist als neuropathischer Schmerz bekannt, der nach einer Gürtelrose anhält, und das Unternehmen entwickelt den Kandidaten als orales nicht-opioides Analgetikum. Der Abschluss der letzten Probandengabe bedeutet, dass ein wichtiger Schritt dieser klinischen Phase beendet ist; nun richtet sich die Aufmerksamkeit auf die Bestätigung der Ergebnisse. Quelle: mk.co.kr."
-      },
-      "fr": {
-        "title": "Vivozon achève la dernière administration de VVZ-2471 en phase 2 coréenne contre la PHN",
-        "excerpt": "Vivozon, société liée à Vivozon Pharmaceutical, a annoncé le 12 avoir terminé l’administration au dernier participant de l’essai clinique coréen de phase 2 de VVZ-2471 chez des patients atteints de PHN.",
-        "body": "Vivozon, société liée à Vivozon Pharmaceutical, a annoncé le 12 avoir achevé l’administration au dernier participant dans un essai clinique de phase 2 mené en Corée sur son candidat analgésique oral non opioïde, « VVZ-2471 », chez des patients atteints de névralgie post-zostérienne (PHN). Cet essai national de phase 2 évalue VVZ-2471 chez des patients souffrant de PHN. La névralgie post-zostérienne est connue comme une douleur neuropathique persistante après un zona, et l’entreprise développe ce candidat comme analgésique oral non opioïde. L’achèvement de l’administration au dernier participant signifie qu’une procédure clé de cette étape clinique est terminée, l’attention se portant désormais sur le processus de confirmation des résultats. Source: mk.co.kr."
-      },
-      "ar": {
-        "title": "فيفوزون تكمل آخر جرعة من VVZ-2471 في تجربة كورية للمرحلة الثانية لعلاج ألم ما بعد الهربس النطاقي",
-        "excerpt": "قالت فيفوزون، التابعة لشركة Vivozon Pharmaceutical، في 12 من الشهر إنها أكملت إعطاء الجرعة لآخر مشارك في تجربة المرحلة الثانية الكورية لمرشحها المسكن الفموي غير الأفيوني VVZ-2471 لدى مرضى PHN.",
-        "body": "أعلنت فيفوزون، التابعة لشركة Vivozon Pharmaceutical، في 12 من الشهر أنها أكملت إعطاء العلاج لآخر مشارك في تجربة سريرية كورية من المرحلة الثانية لمرشحها المسكن الفموي غير الأفيوني “VVZ-2471” لدى مرضى ألم ما بعد الهربس النطاقي (PHN). وتقيّم هذه الدراسة المحلية من المرحلة الثانية VVZ-2471 لدى مرضى PHN. ويُعرف ألم ما بعد الهربس النطاقي بأنه ألم عصبي يستمر بعد الإصابة بالهربس النطاقي، بينما تواصل الشركة تطوير المرشح كمسكن فموي غير أفيوني. ويعني إكمال إعطاء الجرعة لآخر مشارك انتهاء إجراء رئيسي في هذه المرحلة السريرية، مع توجه الاهتمام إلى عملية تأكيد النتائج. المصدر: mk.co.kr."
-      },
-      "hi": {
-        "title": "Vivozon ने PHN के लिए VVZ-2471 की कोरियाई फेज 2 स्टडी में अंतिम खुराक पूरी की",
-        "excerpt": "Vivozon Pharmaceutical की संबद्ध कंपनी Vivozon ने 12 तारीख को कहा कि उसने PHN मरीजों में मौखिक गैर-ओपिऑइड दर्दनिवारक उम्मीदवार VVZ-2471 की कोरियाई फेज 2 स्टडी में अंतिम प्रतिभागी को खुराक देना पूरा कर लिया है।",
-        "body": "Vivozon Pharmaceutical की संबद्ध कंपनी Vivozon ने 12 तारीख को बताया कि उसने पोस्टहर्पेटिक न्यूराल्जिया (PHN) मरीजों में अपने मौखिक गैर-ओपिऑइड दर्दनिवारक उम्मीदवार “VVZ-2471” की कोरियाई फेज 2 क्लिनिकल स्टडी में अंतिम प्रतिभागी को दवा देना पूरा कर लिया है। यह घरेलू फेज 2 अध्ययन PHN मरीजों में VVZ-2471 का मूल्यांकन कर रहा है। पोस्टहर्पेटिक न्यूराल्जिया को शिंगल्स के बाद बने रहने वाले न्यूरोपैथिक दर्द के रूप में जाना जाता है, और कंपनी इस उम्मीदवार को मौखिक गैर-ओपिऑइड दर्दनिवारक के रूप में विकसित कर रही है। अंतिम प्रतिभागी की खुराक पूरी होना इस क्लिनिकल चरण की एक प्रमुख प्रक्रिया के समाप्त होने का संकेत है, और अब ध्यान परिणामों की पुष्टि प्रक्रिया पर रहेगा। स्रोत: mk.co.kr."
-      },
-      "id": {
-        "title": "Vivozon Selesaikan Dosis Terakhir VVZ-2471 di Fase 2 Korea untuk Neuralgia Pasca-herpes",
-        "excerpt": "Vivozon, afiliasi Vivozon Pharmaceutical, mengatakan pada tanggal 12 bahwa pemberian kepada subjek terakhir dalam uji klinis fase 2 Korea untuk kandidat analgesik oral non-opioid VVZ-2471 pada pasien PHN telah selesai.",
-        "body": "Vivozon, afiliasi Vivozon Pharmaceutical, mengatakan pada tanggal 12 bahwa pemberian obat kepada subjek terakhir dalam uji klinis fase 2 di Korea untuk kandidat analgesik oral non-opioid “VVZ-2471” pada pasien neuralgia pasca-herpes (PHN) telah selesai. Uji fase 2 domestik ini mengevaluasi VVZ-2471 pada pasien PHN. Neuralgia pasca-herpes dikenal sebagai nyeri neuropatik yang berlanjut setelah herpes zoster, dan perusahaan telah mengembangkan kandidat ini sebagai analgesik oral non-opioid. Selesainya pemberian pada subjek terakhir berarti prosedur utama dalam tahap klinis tersebut telah rampung, dengan perhatian berikutnya tertuju pada proses konfirmasi hasil. Sumber: mk.co.kr."
-      }
-    }
-  },
-  {
-    "id": "3da115df9177",
-    "slug": "가상자산-해외로-160조-증발국회-모인-글로벌-리더들-원화-스테이블코인-촉구-909645",
-    "channelId": "ETF",
-    "category": "etf",
-    "publishedAt": "2026-05-12T01:56:32.512Z",
-    "updatedAt": "2026-05-12T01:56:32.512Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/stock/12044383",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12044383",
-    "titleFingerprint": "66b0b8ce432710dd81001748e89f1413c9af82a5",
-    "dedupKeys": [
-      "3da115df9177c1198c47877458451b2f960197c0",
-      "66b0b8ce432710dd81001748e89f1413c9af82a5",
-      "d190c0c5998d89182b67df0a13def4bbe27a1e1d"
-    ],
-    "imageUrl": "/images/articles/3da115df9177.jpg",
-    "i18n": {
-      "ko": {
-        "title": "원화 스테이블코인 촉구한 글로벌 리더들, 160조 해외 유출 막을 해법 주목",
-        "excerpt": "국회에 모인 글로벌 리더들은 지난해 가상자산 160조원이 해외 거래소로 유출됐다며 달러코인 잠식을 막기 위한 원화 스테이블코인 도입 필요성을 강조했다.",
-        "body": "국회에 모인 글로벌 리더들은 지난해 가상자산 160조원이 해외 거래소로 유출된 상황을 짚으며 원화 스테이블코인 도입을 촉구했다. 이들은 달러 기반 스테이블코인이 국내 시장을 잠식하는 흐름을 막기 위해 원화 기반 결제 수단이 시급하다고 강조했다. 배경에는 AI 에이전트가 자동으로 결제하는 시대가 다가오고 있다는 인식이 있다. 이에 따라 증권사가 수탁과 결제 인프라를 내부에 갖추는 것이 필수 과제로 제시됐다. 규제 방향에 대해서는 EU MiCA식 획일 규제에 대한 우려도 언급됐다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Won Stablecoin Urged as Global Leaders Warn of W160tn Crypto Outflow",
-        "excerpt": "Global leaders gathered at the National Assembly warned that W160 trillion in crypto assets flowed to overseas exchanges last year, urging a won stablecoin to counter dollar coin dominance.",
-        "body": "Global leaders gathered at the National Assembly called for the introduction of a won-denominated stablecoin, citing last year’s W160 trillion outflow of virtual assets to overseas exchanges. They said a won-based payment instrument is urgently needed to prevent dollar-backed stablecoins from encroaching on the domestic market. The discussion comes as an era approaches in which AI agents make payments automatically. Against that backdrop, securities firms were told they must internalize custody and settlement infrastructure. Concerns were also raised about uniform regulation modeled on the EU’s MiCA framework. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "ウォン建てステーブルコイン要請、160兆ウォン海外流出に国会で警鐘",
-        "excerpt": "国会に集まったグローバルリーダーらは、昨年160兆ウォンの暗号資産が海外取引所へ流出したとして、ドルコインの浸食を防ぐウォン建てステーブルコインの必要性を強調した。",
-        "body": "国会に集まったグローバルリーダーらは、昨年暗号資産160兆ウォンが海外取引所へ流出した状況を指摘し、ウォン建てステーブルコインの導入を求めた。ドル基盤のステーブルコインが国内市場を浸食する流れを防ぐため、ウォン基盤の決済手段が急務だと強調した。背景には、AIエージェントが自動で決済する時代が近づいているとの認識がある。これに伴い、証券会社がカストディと決済インフラを内製化することが必須課題として示された。規制面ではEUのMiCA型の画一規制への懸念も言及された。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "韩元稳定币呼声升温：全球领袖警示160万亿韩元资产外流",
-        "excerpt": "全球领袖在韩国国会指出，去年有160万亿韩元虚拟资产流向海外交易所，并强调为防止美元稳定币蚕食市场，亟需推出韩元稳定币。",
-        "body": "在韩国国会聚集的全球领袖指出，去年有160万亿韩元虚拟资产流向海外交易所，并敦促引入韩元稳定币。他们强调，为阻止以美元为基础的稳定币继续蚕食韩国国内市场，基于韩元的支付工具已十分紧迫。相关讨论的背景是，AI代理自动完成支付的时代正在到来。因此，证券公司被认为必须将托管和结算基础设施内化为自身能力。监管方向上，与会者也提到了对欧盟MiCA式统一监管的担忧。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Stablecoin en won gana apoyo ante salida de W160 billones en criptoactivos",
-        "excerpt": "Líderes globales reunidos en la Asamblea Nacional advirtieron que W160 billones en criptoactivos salieron a bolsas extranjeras el año pasado y pidieron una stablecoin en won.",
-        "body": "Líderes globales reunidos en la Asamblea Nacional pidieron introducir una stablecoin denominada en won tras señalar que el año pasado W160 billones en activos virtuales salieron hacia bolsas extranjeras. Subrayaron que un medio de pago basado en won es urgente para evitar que las stablecoins ligadas al dólar sigan ocupando espacio en el mercado local. El debate se da ante la llegada de una era en la que los agentes de IA realizarán pagos automáticamente. En ese contexto, se planteó que las sociedades de valores deben internalizar la infraestructura de custodia y liquidación. También se mencionaron preocupaciones sobre una regulación uniforme al estilo MiCA de la UE. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Stablecoin em won é defendida após W160 trilhões em cripto irem ao exterior",
-        "excerpt": "Líderes globais reunidos na Assembleia Nacional alertaram que W160 trilhões em criptoativos foram para exchanges estrangeiras no ano passado e defenderam uma stablecoin em won.",
-        "body": "Líderes globais reunidos na Assembleia Nacional defenderam a introdução de uma stablecoin denominada em won, apontando que W160 trilhões em ativos virtuais foram transferidos para exchanges estrangeiras no ano passado. Eles afirmaram que um meio de pagamento baseado em won é urgente para conter o avanço de stablecoins lastreadas em dólar no mercado doméstico. A discussão ocorre diante da chegada de uma era em que agentes de IA farão pagamentos automaticamente. Nesse cenário, foi apontado que corretoras de valores precisam internalizar infraestruturas de custódia e liquidação. Também houve menção a preocupações com uma regulação uniforme ao estilo MiCA da UE. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Won-Stablecoin gefordert: Globale Führer warnen vor W160 Bio. Kryptoabfluss",
-        "excerpt": "Globale Führungskräfte im Parlament warnten, dass im Vorjahr virtuelle Vermögenswerte von W160 Billionen an Auslandsbörsen flossen, und forderten einen Won-Stablecoin.",
-        "body": "Im Parlament versammelte globale Führungskräfte forderten die Einführung eines auf Won lautenden Stablecoins und verwiesen darauf, dass im vergangenen Jahr virtuelle Vermögenswerte im Umfang von W160 Billionen an ausländische Börsen abgeflossen seien. Sie betonten, ein wonbasiertes Zahlungsmittel sei dringend nötig, um eine Verdrängung des heimischen Marktes durch dollarbasierte Stablecoins zu verhindern. Hintergrund ist die Erwartung einer Ära, in der KI-Agenten Zahlungen automatisch ausführen. Daher wurde es als zentrale Aufgabe beschrieben, dass Wertpapierfirmen Verwahr- und Abwicklungsinfrastruktur intern aufbauen. Auch Sorgen über eine einheitliche Regulierung nach EU-MiCA-Vorbild wurden genannt. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Stablecoin en won réclamé après W160 billions d’actifs crypto partis à l’étranger",
-        "excerpt": "Des dirigeants mondiaux réunis à l’Assemblée nationale ont alerté sur W160 billions d’actifs virtuels partis vers des plateformes étrangères l’an dernier et réclamé un stablecoin en won.",
-        "body": "Des dirigeants mondiaux réunis à l’Assemblée nationale ont appelé à introduire un stablecoin libellé en won, en soulignant que W160 billions d’actifs virtuels avaient été transférés vers des plateformes étrangères l’an dernier. Ils ont jugé urgent de disposer d’un moyen de paiement fondé sur le won afin d’empêcher les stablecoins adossés au dollar de gagner du terrain sur le marché national. Le débat s’inscrit dans l’arrivée d’une ère où des agents d’IA effectueront automatiquement des paiements. Dans ce contexte, l’internalisation des infrastructures de conservation et de règlement par les sociétés de titres a été présentée comme essentielle. Des inquiétudes ont aussi été exprimées sur une réglementation uniforme de type MiCA de l’UE. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "الدعوة لعملة مستقرة بالوون بعد خروج أصول مشفرة بقيمة 160 تريليون وون",
-        "excerpt": "حذر قادة عالميون اجتمعوا في الجمعية الوطنية من خروج أصول افتراضية بقيمة 160 تريليون وون إلى منصات خارجية العام الماضي، ودعوا إلى عملة مستقرة بالوون.",
-        "body": "دعا قادة عالميون اجتمعوا في الجمعية الوطنية إلى طرح عملة مستقرة مقومة بالوون، مشيرين إلى أن أصولا افتراضية بقيمة 160 تريليون وون خرجت إلى منصات تداول خارجية العام الماضي. وأكدوا أن وسيلة دفع قائمة على الوون أصبحت عاجلة لمنع العملات المستقرة المرتبطة بالدولار من التوسع داخل السوق المحلية. وتأتي هذه المناقشة مع اقتراب عصر تقوم فيه وكلاء الذكاء الاصطناعي بتنفيذ المدفوعات تلقائيا. وفي هذا السياق، طُرح أن شركات الأوراق المالية يجب أن تستوعب داخليا بنية الحفظ والتسوية. كما أُشير إلى مخاوف من تنظيم موحد على غرار لائحة MiCA في الاتحاد الأوروبي. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "वॉन स्टेबलकॉइन की मांग, W160 ट्रिलियन क्रिप्टो विदेश जाने पर चेतावनी",
-        "excerpt": "नेशनल असेंबली में जुटे वैश्विक नेताओं ने कहा कि पिछले साल W160 ट्रिलियन वर्चुअल एसेट विदेशी एक्सचेंजों में गए और डॉलर कॉइन के असर को रोकने के लिए वॉन स्टेबलकॉइन जरूरी है।",
-        "body": "नेशनल असेंबली में जुटे वैश्विक नेताओं ने वॉन-आधारित स्टेबलकॉइन शुरू करने की मांग की। उन्होंने कहा कि पिछले साल W160 ट्रिलियन मूल्य के वर्चुअल एसेट विदेशी एक्सचेंजों में चले गए। उनके अनुसार, डॉलर-आधारित स्टेबलकॉइन के घरेलू बाजार पर बढ़ते प्रभाव को रोकने के लिए वॉन-आधारित भुगतान साधन तत्काल जरूरी है। चर्चा की पृष्ठभूमि में यह धारणा है कि AI एजेंटों द्वारा स्वत: भुगतान करने का दौर आ रहा है। इसी कारण प्रतिभूति कंपनियों के लिए कस्टडी और सेटलमेंट इन्फ्रास्ट्रक्चर को अपने भीतर विकसित करना आवश्यक बताया गया। EU MiCA जैसी एकरूप नियमन प्रणाली को लेकर चिंता भी जताई गई। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Stablecoin Won Didorong Usai W160 Triliun Aset Kripto Mengalir ke Luar Negeri",
-        "excerpt": "Para pemimpin global di Majelis Nasional memperingatkan W160 triliun aset virtual mengalir ke bursa luar negeri tahun lalu dan mendesak stablecoin berbasis won.",
-        "body": "Para pemimpin global yang berkumpul di Majelis Nasional menyerukan pengenalan stablecoin berbasis won setelah menyoroti bahwa W160 triliun aset virtual mengalir ke bursa luar negeri tahun lalu. Mereka menegaskan bahwa alat pembayaran berbasis won mendesak diperlukan untuk mencegah stablecoin berbasis dolar menggerus pasar domestik. Pembahasan ini muncul seiring datangnya era ketika agen AI melakukan pembayaran secara otomatis. Dalam konteks itu, perusahaan sekuritas dinilai perlu menginternalisasi infrastruktur kustodi dan penyelesaian. Kekhawatiran terhadap regulasi seragam ala MiCA Uni Eropa juga disebutkan. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "f23bf2212703",
-    "slug": "삼성sds-범정부-ai-협업-설루션-선정에-8대-급등-559947",
-    "channelId": "ETF",
-    "category": "etf",
-    "publishedAt": "2026-05-12T01:10:48.333Z",
-    "updatedAt": "2026-05-12T01:10:48.333Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/stock/12044338",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12044338",
-    "titleFingerprint": "01d6249f0812ccb24d95ec711120b7a78bec61bf",
-    "dedupKeys": [
-      "f23bf2212703dbc0f4c8f5e3f406f023ba4a50c4",
-      "01d6249f0812ccb24d95ec711120b7a78bec61bf",
-      "9666c8decd3dc00a6ca520520b916e9ee2684ee6"
-    ],
-    "imageUrl": "/images/articles/f23bf2212703.png",
-    "i18n": {
-      "ko": {
-        "title": "삼성SDS 주가 8%대 급등, 범정부 AI 협업 솔루션 ‘온AI’ 선정 효과",
-        "excerpt": "삼성에스디에스가 12일 장 초반 범정부 지능형 업무관리 플랫폼 ‘온AI’의 모바일 업무환경 구축 지원 소식에 8%대 급등세를 보이고 있다.",
-        "body": "삼성에스디에스가 12일 장 초반 급등하고 있다. 범정부 지능형 업무관리 플랫폼인 ‘온AI’의 모바일 업무환경 구축을 지원한다는 소식이 투자 심리에 영향을 준 것으로 보인다. 원문에 따르면 12일 오전 9시 27분 현재 삼성에스디에스는 8%대 상승세를 나타냈다. 이번 소식의 핵심은 삼성SDS가 범정부 AI 협업 솔루션 관련 모바일 업무환경 구축을 지원한다는 점이다. 시장은 공공부문 지능형 업무관리 플랫폼 사업 참여 소식에 즉각 반응했다. 다만 기사에 제시된 정보는 장 초반 주가 흐름과 선정·지원 소식에 한정된다. 출처: mk.co.kr 인용."
-      },
-      "en": {
-        "title": "Samsung SDS Shares Jump Over 8% on Governmentwide AI Collaboration Solution News",
-        "excerpt": "Samsung SDS surged more than 8% in early trading on May 12 after news that it will support the mobile work environment for the governmentwide intelligent work management platform OnAI.",
-        "body": "Samsung SDS rose sharply in early trading on May 12. The move followed news that the company will support the mobile work environment for OnAI, a governmentwide intelligent work management platform. According to the original report, Samsung SDS was trading up by more than 8% as of 9:27 a.m. on May 12. The key point is Samsung SDS’s role in supporting a mobile work setup linked to a governmentwide AI collaboration solution. The market reacted quickly to the news of participation in a public-sector intelligent work management platform. The report, however, is limited to the early share-price move and the selection and support news. Source: cited from mk.co.kr."
-      },
-      "ja": {
-        "title": "サムスンSDS株が8％台急騰、政府横断AI協業ソリューション選定を材料視",
-        "excerpt": "サムスンSDSは12日朝方、政府横断の知能型業務管理プラットフォーム「オンAI」のモバイル業務環境構築を支援するとの報道を受け、8％台の急騰を見せた。",
-        "body": "サムスンSDSが12日の取引序盤に急騰している。政府横断の知能型業務管理プラットフォーム「オンAI」のモバイル業務環境構築を支援するとのニュースが投資心理に影響したとみられる。原文によると、12日午前9時27分現在、サムスンSDSは8％台の上昇を示した。今回の焦点は、サムスンSDSが政府横断AI協業ソリューションに関連するモバイル業務環境の構築を支援する点にある。市場は公共部門の知能型業務管理プラットフォーム事業への参加ニュースに反応した。ただし、記事で示された情報は取引序盤の株価動向と選定・支援の内容に限られる。出典：mk.co.kr引用。"
-      },
-      "zh": {
-        "title": "三星SDS股价大涨逾8%，受政府级AI协作方案入选消息提振",
-        "excerpt": "三星SDS在5月12日早盘因将支持政府级智能业务管理平台“OnAI”移动办公环境建设的消息，股价一度上涨逾8%。",
-        "body": "三星SDS在5月12日早盘出现大幅上涨。消息称，该公司将支持政府级智能业务管理平台“OnAI”的移动办公环境建设，这一消息被认为影响了投资情绪。根据原文报道，截至5月12日上午9时27分，三星SDS涨幅达到8%以上。本次消息的核心在于，三星SDS将参与支持与政府级AI协作解决方案相关的移动办公环境建设。市场对其参与公共部门智能业务管理平台项目的消息迅速作出反应。不过，报道所提供的信息仅限于早盘股价走势以及入选和支持建设的相关消息。来源：引用mk.co.kr。"
-      },
-      "es": {
-        "title": "Samsung SDS sube más del 8% por la solución de colaboración de IA del Gobierno",
-        "excerpt": "Samsung SDS se disparó más del 8% en la apertura del 12 de mayo tras conocerse que apoyará el entorno móvil de trabajo de OnAI, plataforma inteligente de gestión laboral del Gobierno.",
-        "body": "Samsung SDS registró una fuerte subida en la apertura del 12 de mayo. El avance se produjo después de conocerse que la compañía apoyará la creación del entorno móvil de trabajo de OnAI, una plataforma inteligente de gestión laboral de alcance gubernamental. Según el informe original, Samsung SDS subía más del 8% a las 9:27 a.m. del 12 de mayo. El punto central es su apoyo a un entorno móvil de trabajo vinculado a una solución de colaboración de IA para el Gobierno. El mercado reaccionó de inmediato a la noticia de su participación en una plataforma inteligente de gestión laboral del sector público. No obstante, la información publicada se limita al movimiento inicial de la acción y a la noticia de selección y apoyo. Fuente: citado de mk.co.kr."
-      },
-      "pt": {
-        "title": "Samsung SDS dispara mais de 8% com solução de colaboração em IA do governo",
-        "excerpt": "A Samsung SDS subiu mais de 8% no início do pregão de 12 de maio após a notícia de que apoiará o ambiente móvel de trabalho da plataforma governamental inteligente OnAI.",
-        "body": "A Samsung SDS registrou forte alta no início do pregão de 12 de maio. O movimento ocorreu após a notícia de que a empresa apoiará a construção do ambiente móvel de trabalho da OnAI, plataforma governamental inteligente de gestão de tarefas. Segundo a reportagem original, às 9h27 de 12 de maio a Samsung SDS avançava mais de 8%. O ponto central da notícia é o apoio da Samsung SDS a um ambiente móvel de trabalho ligado a uma solução governamental de colaboração em IA. O mercado reagiu rapidamente à participação em uma plataforma inteligente de gestão de trabalho do setor público. Ainda assim, as informações divulgadas se limitam ao desempenho inicial das ações e à notícia de seleção e apoio. Fonte: citado de mk.co.kr."
-      },
-      "de": {
-        "title": "Samsung SDS steigt über 8% nach Nachricht zu staatlicher KI-Kollaborationslösung",
-        "excerpt": "Samsung SDS legte am 12. Mai im frühen Handel um mehr als 8% zu, nachdem bekannt wurde, dass das Unternehmen die mobile Arbeitsumgebung der staatlichen Plattform OnAI unterstützen wird.",
-        "body": "Samsung SDS ist am 12. Mai im frühen Handel deutlich gestiegen. Auslöser war die Nachricht, dass das Unternehmen den Aufbau der mobilen Arbeitsumgebung von OnAI unterstützen wird, einer staatlichen intelligenten Plattform für Arbeitsmanagement. Dem Originalbericht zufolge lag Samsung SDS am 12. Mai um 9:27 Uhr mehr als 8% im Plus. Im Mittelpunkt steht die Unterstützung einer mobilen Arbeitsumgebung im Zusammenhang mit einer staatlichen KI-Kollaborationslösung. Der Markt reagierte unmittelbar auf die Meldung über die Beteiligung an einer intelligenten Arbeitsmanagementplattform des öffentlichen Sektors. Die im Artikel genannten Informationen beschränken sich jedoch auf die frühe Kursbewegung sowie die Nachricht über Auswahl und Unterstützung. Quelle: zitiert nach mk.co.kr."
-      },
-      "fr": {
-        "title": "Samsung SDS bondit de plus de 8% avec la solution d’IA collaborative du gouvernement",
-        "excerpt": "Samsung SDS a gagné plus de 8% en début de séance le 12 mai après l’annonce de son soutien à l’environnement mobile de travail d’OnAI, plateforme gouvernementale intelligente de gestion.",
-        "body": "Samsung SDS a fortement progressé en début de séance le 12 mai. Le mouvement a suivi l’annonce selon laquelle l’entreprise soutiendra la mise en place de l’environnement mobile de travail d’OnAI, une plateforme gouvernementale intelligente de gestion des tâches. Selon l’article original, Samsung SDS affichait une hausse de plus de 8% à 9 h 27 le 12 mai. Le point clé est le rôle de Samsung SDS dans le soutien d’un environnement mobile lié à une solution collaborative d’IA à l’échelle gouvernementale. Le marché a réagi rapidement à cette participation à une plateforme intelligente de gestion du travail du secteur public. Les informations disponibles se limitent toutefois au mouvement de début de séance et à l’annonce de sélection et de soutien. Source : cité de mk.co.kr."
-      },
-      "ar": {
-        "title": "سهم سامسونغ SDS يقفز بأكثر من 8% بعد اختيارها لحل تعاون حكومي بالذكاء الاصطناعي",
-        "excerpt": "قفز سهم سامسونغ SDS في التعاملات المبكرة يوم 12 مايو بأكثر من 8% بعد أنباء عن دعمها بيئة العمل عبر الهاتف لمنصة OnAI الحكومية الذكية لإدارة الأعمال.",
-        "body": "ارتفع سهم سامسونغ SDS بقوة في التعاملات المبكرة يوم 12 مايو. وجاء التحرك بعد أنباء تفيد بأن الشركة ستدعم بناء بيئة عمل عبر الهاتف لمنصة OnAI، وهي منصة حكومية ذكية لإدارة الأعمال. ووفق التقرير الأصلي، كان سهم سامسونغ SDS مرتفعا بأكثر من 8% عند الساعة 9:27 صباحا يوم 12 مايو. وتتمثل النقطة الأساسية في دور سامسونغ SDS في دعم بيئة عمل متنقلة مرتبطة بحل تعاون حكومي قائم على الذكاء الاصطناعي. وقد تفاعل السوق بسرعة مع خبر المشاركة في منصة ذكية لإدارة الأعمال في القطاع العام. ومع ذلك، فإن المعلومات الواردة في التقرير تقتصر على حركة السهم في بداية الجلسة وخبر الاختيار والدعم. المصدر: نقلا عن mk.co.kr."
-      },
-      "hi": {
-        "title": "Samsung SDS के शेयर 8% से ज्यादा उछले, सरकारी AI सहयोग समाधान से जुड़ी खबर का असर",
-        "excerpt": "Samsung SDS के शेयर 12 मई को शुरुआती कारोबार में 8% से ज्यादा चढ़े, जब खबर आई कि कंपनी सरकारी बुद्धिमान कार्य प्रबंधन प्लेटफॉर्म OnAI के मोबाइल कार्य वातावरण में मदद करेगी।",
-        "body": "Samsung SDS के शेयर 12 मई को शुरुआती कारोबार में तेजी से चढ़े। यह बढ़त उस खबर के बाद आई कि कंपनी सरकारी स्तर के बुद्धिमान कार्य प्रबंधन प्लेटफॉर्म OnAI के मोबाइल कार्य वातावरण के निर्माण में सहायता करेगी। मूल रिपोर्ट के अनुसार, 12 मई सुबह 9:27 बजे Samsung SDS में 8% से अधिक की तेजी थी। इस खबर का मुख्य बिंदु यह है कि Samsung SDS सरकारी AI सहयोग समाधान से जुड़े मोबाइल कार्य वातावरण को समर्थन देगी। सार्वजनिक क्षेत्र के बुद्धिमान कार्य प्रबंधन प्लेटफॉर्म में भागीदारी की खबर पर बाजार ने तुरंत प्रतिक्रिया दी। हालांकि, रिपोर्ट में दी गई जानकारी शुरुआती शेयर चाल और चयन व समर्थन की खबर तक सीमित है। स्रोत: mk.co.kr से उद्धृत।"
-      },
-      "id": {
-        "title": "Saham Samsung SDS Melonjak Lebih dari 8% Berkat Solusi Kolaborasi AI Pemerintah",
-        "excerpt": "Samsung SDS melonjak lebih dari 8% pada awal perdagangan 12 Mei setelah kabar bahwa perusahaan akan mendukung lingkungan kerja mobile platform manajemen kerja cerdas pemerintah OnAI.",
-        "body": "Samsung SDS naik tajam pada awal perdagangan 12 Mei. Kenaikan terjadi setelah kabar bahwa perusahaan akan mendukung pembangunan lingkungan kerja mobile untuk OnAI, platform manajemen kerja cerdas tingkat pemerintah. Menurut laporan asli, pada pukul 09.27 tanggal 12 Mei, Samsung SDS menguat lebih dari 8%. Inti kabar ini adalah peran Samsung SDS dalam mendukung lingkungan kerja mobile yang terkait dengan solusi kolaborasi AI pemerintah. Pasar segera merespons berita partisipasi dalam platform manajemen kerja cerdas sektor publik. Namun, informasi dalam artikel terbatas pada pergerakan harga saham awal sesi serta kabar pemilihan dan dukungan tersebut. Sumber: dikutip dari mk.co.kr."
       }
     }
   }

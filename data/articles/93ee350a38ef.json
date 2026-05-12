@@ -1,0 +1,75 @@
+{
+  "id": "93ee350a38ef",
+  "slug": "온디바이스-ai-반도체-슈퍼사이클-이끈다-292479",
+  "channelId": "ETF",
+  "category": "etf",
+  "publishedAt": "2026-05-12T20:47:13.539Z",
+  "updatedAt": "2026-05-12T20:47:13.539Z",
+  "sourceName": "hankyung.com",
+  "sourceUrl": "https://www.hankyung.com/article/2026051218011",
+  "canonicalUrl": "https://www.hankyung.com/article/2026051218011",
+  "titleFingerprint": "6ad4d73dfe949aa8bedb08fdd608ef89683f7573",
+  "dedupKeys": [
+    "93ee350a38ef97f077e8724080c7d4289a4ba1df",
+    "6ad4d73dfe949aa8bedb08fdd608ef89683f7573",
+    "4803b10ce18cf7517647f17c37fa993ef57f18c1"
+  ],
+  "imageUrl": "/images/articles/93ee350a38ef.jpg",
+  "i18n": {
+    "ko": {
+      "title": "온디바이스 AI發 반도체 슈퍼사이클, 삼성 2028년 추가 팹 계획에 투자자 주목",
+      "excerpt": "한국경제는 2026년 5월 12일 KIW 2026에서 온디바이스 AI 확산이 HBM 수요와 메모리 공급 부족을 키우며 반도체 슈퍼사이클 기대를 높였다고 보도했다.",
+      "body": "한국경제에 따르면 2026년 5월 12일 서울 장충동 신라호텔에서 한국경제신문사와 삼성증권이 공동 주최한 ‘코리아 인베스트먼트 위크(KIW) 2026’이 개막했다. 이날 투자자 관심은 한국 증시를 이끄는 반도체 기업들의 사업 전략에 집중됐다. 김태우 삼성전자 반도체(DS)부문 부사장은 온디바이스 AI 기기 대중화로 고대역폭메모리(HBM) 수요가 커지면서 D램과 낸드 등 범용 메모리 공급 부족이 이어질 것이라고 밝혔다. 그는 2028년까지 추가 팹을 짓고 연구개발을 강화하겠다고 말했다. AI 반도체 스타트업 리벨리온의 박성현 대표는 한국의 강점으로 반도체를 꼽으며, 에너지·전력 효율이 엔비디아보다 다섯 배 높은 칩을 언급했다. 행사에는 글로벌 기관투자가와 국내 투자전문가 1000여 명이 참석했다. 출처: hankyung.com"
+    },
+    "en": {
+      "title": "On-Device AI Drives Chip Supercycle as Samsung Plans More Fabs by 2028",
+      "excerpt": "Hankyung reported on May 12, 2026 that KIW 2026 highlighted rising HBM demand and tighter memory supply as on-device AI spreads across devices.",
+      "body": "According to Hankyung, Korea Investment Week 2026 opened on May 12, 2026 at The Shilla Seoul, co-hosted by The Korea Economic Daily and Samsung Securities. Investor attention centered on the business strategies of semiconductor companies leading the Korean stock market. Kim Tae-woo, vice president of Samsung Electronics’ DS division, said the spread of on-device AI devices is pushing demand toward high-bandwidth memory, or HBM, while shortages in general-purpose memory such as DRAM and NAND are likely to continue. He said Samsung would build additional fabs by 2028 and strengthen research and development. Park Sung-hyun, CEO of AI chip startup Rebellions, pointed to semiconductors as Korea’s key strength and cited a chip with five times higher energy and power efficiency than Nvidia. More than 1,000 global institutional investors and domestic investment experts attended. Source: hankyung.com"
+    },
+    "ja": {
+      "title": "オンデバイスAIが半導体スーパーサイクルを主導、サムスンの2028年追加ファブ計画に注目",
+      "excerpt": "韓国経済新聞は2026年5月12日、KIW 2026でオンデバイスAIの普及がHBM需要とメモリー需給逼迫を高めていると報じた。",
+      "body": "韓国経済新聞によると、韓国経済新聞社とサムスン証券が共同主催する「コリア・インベストメント・ウィーク（KIW）2026」が2026年5月12日、ソウルの新羅ホテルで開幕した。投資家の関心は、韓国株式市場をけん引する半導体企業の事業戦略に集まった。サムスン電子DS部門の金泰佑副社長は、オンデバイスAI機器の大衆化により高帯域幅メモリー（HBM）への需要が集中し、DRAMやNANDなど汎用メモリーの供給不足が続くとの見方を示した。同氏は2028年までに追加ファブを建設し、研究開発を強化すると述べた。AI半導体スタートアップ、リベリオンの朴星炫代表は、韓国の強みとして半導体を挙げ、エネルギー・電力効率がエヌビディアより5倍高いチップに言及した。会場には世界の機関投資家と韓国国内の投資専門家約1000人が参加した。出典: hankyung.com"
+    },
+    "zh": {
+      "title": "端侧AI推动半导体超级周期，三星2028年前追加晶圆厂计划受关注",
+      "excerpt": "韩国经济新闻5月12日报道，KIW 2026显示端侧AI普及正推高HBM需求，并加剧DRAM、NAND等通用存储供应紧张。",
+      "body": "据韩国经济新闻报道，由韩国经济新闻社与三星证券共同主办的“韩国投资周（KIW）2026”于2026年5月12日在首尔新罗酒店开幕。当天，投资者关注焦点集中在引领韩国股市的半导体企业业务战略上。三星电子半导体DS部门副社长金泰佑表示，随着端侧AI设备大众化，需求正集中到高带宽存储器（HBM），DRAM、NAND等通用存储器供应短缺现象将持续。他还表示，三星将于2028年前建设追加晶圆厂，并强化研发。AI半导体初创企业Rebellions代表朴星炫称，半导体是韩国当前最具优势的领域，并提到其芯片能源和电力效率比英伟达高五倍。全球机构投资者和韩国国内投资专家约1000人出席了活动。来源: hankyung.com"
+    },
+    "es": {
+      "title": "La IA en dispositivo impulsa el superciclo de chips y enfoca el plan de fabs de Samsung para 2028",
+      "excerpt": "Hankyung informó el 12 de mayo de 2026 que KIW 2026 destacó cómo la IA en dispositivo eleva la demanda de HBM y tensiona el suministro de memoria.",
+      "body": "Según Hankyung, Korea Investment Week 2026 se inauguró el 12 de mayo de 2026 en The Shilla Seoul, con organización conjunta de The Korea Economic Daily y Samsung Securities. La atención de los inversores se centró en las estrategias de negocio de las compañías de semiconductores que lideran el mercado bursátil coreano. Kim Tae-woo, vicepresidente de la división DS de Samsung Electronics, dijo que la popularización de los dispositivos con IA en el propio equipo está concentrando la demanda en la memoria de alto ancho de banda, o HBM, y que continuará la escasez de memorias generales como DRAM y NAND. Añadió que Samsung construirá fabs adicionales antes de 2028 y reforzará la investigación y desarrollo. Park Sung-hyun, director ejecutivo de la startup de chips de IA Rebellions, señaló a los semiconductores como la mayor fortaleza de Corea y mencionó un chip con una eficiencia energética y eléctrica cinco veces superior a Nvidia. Asistieron más de 1.000 inversores institucionales globales y expertos locales. Fuente: hankyung.com"
+    },
+    "pt": {
+      "title": "IA no dispositivo impulsiona superciclo de chips e destaca fabs da Samsung até 2028",
+      "excerpt": "O Hankyung informou em 12 de maio de 2026 que a KIW 2026 destacou a alta demanda por HBM e a escassez de memória com a expansão da IA no dispositivo.",
+      "body": "Segundo o Hankyung, a Korea Investment Week 2026 começou em 12 de maio de 2026 no The Shilla Seoul, organizada em conjunto pelo The Korea Economic Daily e pela Samsung Securities. A atenção dos investidores ficou concentrada nas estratégias de negócios das empresas de semicondutores que lideram o mercado acionário coreano. Kim Tae-woo, vice-presidente da divisão DS da Samsung Electronics, afirmou que a popularização de dispositivos com IA no próprio aparelho está direcionando a demanda para memória de alta largura de banda, ou HBM, enquanto a escassez de memórias gerais como DRAM e NAND deve continuar. Ele disse que a Samsung construirá fabs adicionais até 2028 e reforçará pesquisa e desenvolvimento. Park Sung-hyun, CEO da startup de chips de IA Rebellions, apontou os semicondutores como a principal força da Coreia e citou um chip com eficiência energética e elétrica cinco vezes maior que a da Nvidia. Mais de 1.000 investidores institucionais globais e especialistas locais participaram. Fonte: hankyung.com"
+    },
+    "de": {
+      "title": "On-Device-KI treibt Chip-Superzyklus, Samsung plant zusätzliche Fabs bis 2028",
+      "excerpt": "Hankyung berichtete am 12. Mai 2026, dass die KIW 2026 steigende HBM-Nachfrage und knapperes Speicherangebot durch On-Device-KI hervorhob.",
+      "body": "Laut Hankyung wurde die Korea Investment Week 2026 am 12. Mai 2026 im The Shilla Seoul eröffnet, gemeinsam ausgerichtet von The Korea Economic Daily und Samsung Securities. Das Interesse der Investoren richtete sich auf die Geschäftsstrategien der Halbleiterunternehmen, die den koreanischen Aktienmarkt prägen. Kim Tae-woo, Vice President der DS-Sparte von Samsung Electronics, sagte, die Verbreitung von On-Device-KI-Geräten lenke die Nachfrage auf High-Bandwidth Memory, kurz HBM, während Engpässe bei Standardspeichern wie DRAM und NAND anhalten dürften. Samsung werde bis 2028 zusätzliche Fabs bauen und Forschung und Entwicklung stärken. Park Sung-hyun, CEO des KI-Chip-Startups Rebellions, nannte Halbleiter Koreas zentrale Stärke und verwies auf einen Chip mit fünfmal höherer Energie- und Stromeffizienz als Nvidia. Mehr als 1.000 globale institutionelle Investoren und koreanische Anlageexperten nahmen teil. Quelle: hankyung.com"
+    },
+    "fr": {
+      "title": "L’IA embarquée porte le supercycle des puces et les nouvelles fabs de Samsung d’ici 2028",
+      "excerpt": "Hankyung a rapporté le 12 mai 2026 que KIW 2026 a mis en avant la hausse de la demande de HBM et les tensions sur la mémoire liées à l’IA embarquée.",
+      "body": "Selon Hankyung, la Korea Investment Week 2026 s’est ouverte le 12 mai 2026 au Shilla Seoul, sous l’organisation conjointe du Korea Economic Daily et de Samsung Securities. L’attention des investisseurs s’est portée sur les stratégies des entreprises de semi-conducteurs qui tirent le marché boursier coréen. Kim Tae-woo, vice-président de la division DS de Samsung Electronics, a déclaré que la généralisation des appareils dotés d’IA embarquée concentre la demande sur la mémoire à large bande passante, ou HBM, tandis que les pénuries de mémoires généralistes comme la DRAM et la NAND devraient se poursuivre. Il a indiqué que Samsung construirait des fabs supplémentaires d’ici 2028 et renforcerait sa recherche et développement. Park Sung-hyun, PDG de la startup de puces d’IA Rebellions, a cité les semi-conducteurs comme le principal atout de la Corée et mentionné une puce cinq fois plus efficace en énergie et en puissance que Nvidia. Plus de 1.000 investisseurs institutionnels mondiaux et experts coréens ont participé. Source: hankyung.com"
+    },
+    "ar": {
+      "title": "الذكاء الاصطناعي على الأجهزة يقود دورة الرقائق الفائقة وخطة سامسونغ لمصانع إضافية بحلول 2028",
+      "excerpt": "ذكرت هانكيونغ في 12 مايو 2026 أن KIW 2026 أبرزت ارتفاع طلب HBM واستمرار نقص الذاكرة مع انتشار أجهزة الذكاء الاصطناعي المحلية.",
+      "body": "وفقاً لهانكيونغ، افتتح أسبوع كوريا للاستثمار KIW 2026 في 12 مايو 2026 بفندق ذا شيلا في سول، بتنظيم مشترك من صحيفة كوريا الاقتصادية وسامسونغ للأوراق المالية. وتركز اهتمام المستثمرين على استراتيجيات شركات أشباه الموصلات التي تقود سوق الأسهم الكورية. قال كيم تاي-وو، نائب رئيس قسم أشباه الموصلات DS في سامسونغ إلكترونيكس، إن انتشار أجهزة الذكاء الاصطناعي على الجهاز يدفع الطلب نحو ذاكرة النطاق الترددي العالي HBM، بينما سيستمر نقص الذاكرة العامة مثل DRAM وNAND. وأضاف أن سامسونغ ستبني مصانع إضافية بحلول 2028 وستعزز البحث والتطوير. وأشار بارك سونغ-هيون، رئيس شركة Rebellions الناشئة لرقائق الذكاء الاصطناعي، إلى أن أشباه الموصلات هي قوة كوريا الأبرز، وذكر شريحة أعلى بخمس مرات من إنفيديا في كفاءة الطاقة والكهرباء. حضر الحدث أكثر من 1000 مستثمر مؤسسي عالمي وخبير استثمار محلي. المصدر: hankyung.com"
+    },
+    "hi": {
+      "title": "ऑन-डिवाइस AI से चिप सुपरचक्र को बल, 2028 तक Samsung की अतिरिक्त फैब योजना पर नजर",
+      "excerpt": "Hankyung ने 12 मई 2026 को बताया कि KIW 2026 में ऑन-डिवाइस AI के विस्तार से HBM मांग बढ़ने और मेमोरी आपूर्ति तंग रहने पर जोर रहा।",
+      "body": "Hankyung के अनुसार, Korea Investment Week 2026 का उद्घाटन 12 मई 2026 को सियोल के The Shilla होटल में हुआ। इसका संयुक्त आयोजन The Korea Economic Daily और Samsung Securities ने किया। निवेशकों का ध्यान उन सेमीकंडक्टर कंपनियों की कारोबारी रणनीतियों पर रहा जो कोरियाई शेयर बाजार का नेतृत्व कर रही हैं। Samsung Electronics के DS डिविजन के वाइस प्रेसिडेंट Kim Tae-woo ने कहा कि ऑन-डिवाइस AI उपकरणों के लोकप्रिय होने से मांग हाई-बैंडविड्थ मेमोरी, यानी HBM, की ओर जा रही है और DRAM तथा NAND जैसी सामान्य मेमोरी में आपूर्ति की कमी जारी रह सकती है। उन्होंने कहा कि Samsung 2028 तक अतिरिक्त फैब बनाएगी और अनुसंधान एवं विकास को मजबूत करेगी। AI चिप स्टार्टअप Rebellions के CEO Park Sung-hyun ने सेमीकंडक्टर को कोरिया की प्रमुख ताकत बताया और Nvidia की तुलना में ऊर्जा और बिजली दक्षता में पांच गुना बेहतर चिप का उल्लेख किया। कार्यक्रम में 1,000 से अधिक वैश्विक संस्थागत निवेशक और घरेलू निवेश विशेषज्ञ शामिल हुए। स्रोत: hankyung.com"
+    },
+    "id": {
+      "title": "AI On-Device Dorong Supercycle Chip, Rencana Fab Tambahan Samsung hingga 2028 Disorot",
+      "excerpt": "Hankyung melaporkan pada 12 Mei 2026 bahwa KIW 2026 menyoroti kenaikan permintaan HBM dan ketatnya pasokan memori seiring meluasnya AI on-device.",
+      "body": "Menurut Hankyung, Korea Investment Week 2026 dibuka pada 12 Mei 2026 di The Shilla Seoul, diselenggarakan bersama oleh The Korea Economic Daily dan Samsung Securities. Perhatian investor tertuju pada strategi bisnis perusahaan semikonduktor yang memimpin pasar saham Korea. Kim Tae-woo, wakil presiden divisi DS Samsung Electronics, mengatakan popularitas perangkat AI on-device mendorong permintaan ke high-bandwidth memory, atau HBM, sementara kekurangan pasokan memori umum seperti DRAM dan NAND diperkirakan berlanjut. Ia mengatakan Samsung akan membangun fab tambahan hingga 2028 dan memperkuat riset serta pengembangan. Park Sung-hyun, CEO startup chip AI Rebellions, menyebut semikonduktor sebagai kekuatan utama Korea dan menyinggung chip dengan efisiensi energi dan daya lima kali lebih tinggi daripada Nvidia. Lebih dari 1.000 investor institusi global dan pakar investasi domestik hadir. Sumber: hankyung.com"
+    }
+  }
+}
