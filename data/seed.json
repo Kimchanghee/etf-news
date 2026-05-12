@@ -1,5 +1,230 @@
 [
   {
+    "id": "a16680728470",
+    "slug": "sp500-상승률-보라하락장-피하려고-가만-있으면-결국-손해-kiw-2026-282317",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-05-12T22:52:25.475Z",
+    "updatedAt": "2026-05-12T22:52:25.475Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/202605121052i",
+    "canonicalUrl": "https://www.hankyung.com/article/202605121052i",
+    "titleFingerprint": "c99dec21b6ba091015be00de77718b166de95c87",
+    "dedupKeys": [
+      "a16680728470264fac01cf8a31a72a2f62498abb",
+      "c99dec21b6ba091015be00de77718b166de95c87",
+      "ed424e118688b792a4995f65b741d577737115b7"
+    ],
+    "imageUrl": "/images/articles/a16680728470.jpg",
+    "i18n": {
+      "ko": {
+        "title": "S&P500 장기 수익률 경고, KIW 2026서 제인 자오가 밝힌 시장 이탈의 비용",
+        "excerpt": "제인 자오 중국투자공사 퀀트 주식 책임자는 2026년 5월 12일 KIW 2026에서 S&P500 36년 데이터를 근거로 시장 이탈이 장기 수익률을 크게 낮출 수 있다고 밝혔다.",
+        "body": "제인 자오 중국투자공사(CIC) 퀀트 주식 책임자는 2026년 5월 12일 서울 중구 신라호텔에서 열린 코리아 인베스트먼트위크(KIW) 2026에서 시장 불확실성을 피하려고 투자자가 잠시 이탈하는 전략의 위험을 지적했다. 그는 S&P500의 36년 데이터를 근거로 지수가 크게 오른 상위 10일을 놓치면 장기 수익률이 50% 줄어들 수 있다고 설명했다. 자오 책임자는 국부펀드 내 초과성과 창출 설계를 주제로 강연하며 전략적 자산배분(SAA)과 시장 비효율성을 활용한 중첩 클러스터 최적화(NCO)를 제시했다. 이는 단기 하락장을 피하려는 마켓 타이밍보다 장기 포지션과 체계적 리스크 관리가 중요하다는 메시지로 읽힌다. 출처: hankyung.com."
+      },
+      "en": {
+        "title": "S&P500 Long-Term Return Warning: Jane Zhao at KIW 2026 on the Cost of Leaving the Market",
+        "excerpt": "Jane Zhao, head of quantitative equities at China Investment Corporation, said at KIW 2026 on May 12, 2026, that 36 years of S&P500 data show market exits can sharply reduce long-term returns.",
+        "body": "Jane Zhao, head of quantitative equities at China Investment Corporation (CIC), warned on May 12, 2026, at Korea Investment Week (KIW) 2026 at The Shilla Seoul that stepping out of the market to avoid uncertainty can be costly for investors. Citing 36 years of S&P500 data, she said missing the index’s 10 strongest gain days could cut long-term returns by 50%. Speaking on designing alpha for sovereign wealth funds, Zhao presented strategic asset allocation (SAA) and nested cluster optimization (NCO), a framework that seeks alpha from market inefficiencies. The message was that long-term positioning and systematic risk management matter more than trying to time short-term downturns. Source: hankyung.com."
+      },
+      "ja": {
+        "title": "S&P500の長期リターン警告、KIW 2026でジェーン・ジャオ氏が示した市場離脱の代償",
+        "excerpt": "中国投資公司のクオンツ株式責任者ジェーン・ジャオ氏は2026年5月12日のKIW 2026で、S&P500の36年データを基に市場離脱が長期リターンを大きく下げ得ると述べた。",
+        "body": "中国投資公司（CIC）のクオンツ株式責任者であるジェーン・ジャオ氏は、2026年5月12日にソウル中区の新羅ホテルで開かれたコリア・インベストメント・ウィーク（KIW）2026で、市場の不確実性を避けるために一時的に投資から離れる戦略のリスクを指摘した。S&P500の36年分のデータを根拠に、指数が大きく上昇した上位10日を逃すと長期リターンが50%減少し得ると説明した。ジャオ氏は国富ファンドにおける超過収益の設計をテーマに講演し、戦略的資産配分（SAA）と市場の非効率性を活用するネスト型クラスター最適化（NCO）を提示した。短期的な下落局面を避けるマーケットタイミングより、長期保有と体系的なリスク管理が重要だという趣旨だ。出典: hankyung.com."
+      },
+      "zh": {
+        "title": "S&P500长期收益警示：Jane Zhao在KIW 2026谈离场避险的代价",
+        "excerpt": "中国投资公司量化股票负责人Jane Zhao在2026年5月12日KIW 2026上表示，S&P500的36年数据显示，离场避险可能显著削弱长期收益。",
+        "body": "中国投资公司（CIC）量化股票负责人Jane Zhao于2026年5月12日在首尔中区新罗酒店举行的韩国投资周（KIW）2026上指出，投资者为躲避市场不确定性而暂时离场存在风险。她援引S&P500过去36年的数据称，如果错过指数涨幅最大的10个交易日，长期收益率可能减少50%。Zhao以主权财富基金中的超额收益设计为主题发表演讲，并提出战略资产配置（SAA）以及利用市场非效率创造阿尔法的嵌套聚类优化（NCO）框架。其核心信息是，与试图把握短期下跌行情的市场择时相比，长期持仓和系统化风险管理更为重要。来源: hankyung.com."
+      },
+      "es": {
+        "title": "Alerta sobre rentabilidad del S&P500: Jane Zhao explica en KIW 2026 el coste de salir del mercado",
+        "excerpt": "Jane Zhao, responsable de renta variable cuantitativa de China Investment Corporation, dijo el 12 de mayo de 2026 en KIW 2026 que 36 años de datos del S&P500 muestran el coste de abandonar el mercado.",
+        "body": "Jane Zhao, responsable de renta variable cuantitativa de China Investment Corporation (CIC), advirtió el 12 de mayo de 2026 en Korea Investment Week (KIW) 2026, celebrada en The Shilla Seoul, sobre el riesgo de que los inversores salgan temporalmente del mercado para evitar la incertidumbre. Con datos de 36 años del S&P500, explicó que perderse los 10 días de mayor subida del índice podría reducir la rentabilidad de largo plazo en un 50%. En una conferencia sobre el diseño de alfa para fondos soberanos, Zhao presentó la asignación estratégica de activos (SAA) y la optimización de clústeres anidados (NCO), que busca aprovechar ineficiencias del mercado. El mensaje fue que la posición de largo plazo y la gestión sistemática del riesgo pesan más que intentar anticipar caídas de corto plazo. Fuente: hankyung.com."
+      },
+      "pt": {
+        "title": "Alerta sobre retorno do S&P500: Jane Zhao mostra no KIW 2026 o custo de sair do mercado",
+        "excerpt": "Jane Zhao, chefe de ações quantitativas da China Investment Corporation, afirmou em 12 de maio de 2026 no KIW 2026 que 36 anos de dados do S&P500 mostram que sair do mercado pode reduzir retornos.",
+        "body": "Jane Zhao, chefe de ações quantitativas da China Investment Corporation (CIC), alertou em 12 de maio de 2026, durante a Korea Investment Week (KIW) 2026 no The Shilla Seoul, para o risco de investidores deixarem temporariamente o mercado a fim de evitar incertezas. Com base em 36 anos de dados do S&P500, ela explicou que perder os 10 dias de maior alta do índice poderia reduzir o retorno de longo prazo em 50%. Em palestra sobre desenho de alfa para fundos soberanos, Zhao apresentou a alocação estratégica de ativos (SAA) e a otimização de clusters aninhados (NCO), voltada a explorar ineficiências do mercado. A mensagem foi que posições de longo prazo e gestão sistemática de risco importam mais do que tentar acertar quedas de curto prazo. Fonte: hankyung.com."
+      },
+      "de": {
+        "title": "S&P500-Langfristrendite im Fokus: Jane Zhao erklärt auf der KIW 2026 die Kosten des Marktausstiegs",
+        "excerpt": "Jane Zhao, Quant-Aktienchefin der China Investment Corporation, sagte am 12. Mai 2026 auf der KIW 2026, dass 36 Jahre S&P500-Daten zeigen, wie stark Marktausstiege Langfristrenditen senken können.",
+        "body": "Jane Zhao, Leiterin für quantitative Aktienanlagen bei der China Investment Corporation (CIC), warnte am 12. Mai 2026 auf der Korea Investment Week (KIW) 2026 im The Shilla Seoul vor dem Risiko, dass Anleger wegen Unsicherheit vorübergehend aus dem Markt aussteigen. Auf Basis von 36 Jahren S&P500-Daten erklärte sie, dass das Verpassen der 10 stärksten Gewinntage des Index die langfristige Rendite um 50% verringern könne. In ihrem Vortrag zur Alpha-Gestaltung für Staatsfonds stellte Zhao strategische Asset Allocation (SAA) und Nested Cluster Optimization (NCO) vor, ein Ansatz zur Nutzung von Marktineffizienzen. Die Botschaft lautet: Langfristige Positionierung und systematisches Risikomanagement sind wichtiger als der Versuch, kurzfristige Abschwünge zu timen. Quelle: hankyung.com."
+      },
+      "fr": {
+        "title": "Rendement à long terme du S&P500: Jane Zhao détaille au KIW 2026 le coût d’une sortie du marché",
+        "excerpt": "Jane Zhao, responsable des actions quantitatives de China Investment Corporation, a déclaré le 12 mai 2026 au KIW 2026 que 36 ans de données du S&P500 montrent qu’une sortie du marché peut réduire les rendements.",
+        "body": "Jane Zhao, responsable des actions quantitatives chez China Investment Corporation (CIC), a averti le 12 mai 2026 lors de la Korea Investment Week (KIW) 2026, organisée au Shilla Seoul, du risque pour les investisseurs de quitter temporairement le marché afin d’éviter l’incertitude. En s’appuyant sur 36 ans de données du S&P500, elle a expliqué que manquer les 10 meilleures journées de hausse de l’indice pourrait réduire le rendement à long terme de 50%. Dans une intervention consacrée à la conception de l’alpha pour les fonds souverains, Zhao a présenté l’allocation stratégique d’actifs (SAA) et l’optimisation par grappes imbriquées (NCO), destinée à exploiter les inefficiences du marché. Le message est que les positions de long terme et la gestion systématique du risque priment sur le market timing de court terme. Source: hankyung.com."
+      },
+      "ar": {
+        "title": "تحذير بشأن عوائد S&P500 طويلة الأجل: جين جاو توضح في KIW 2026 تكلفة الخروج من السوق",
+        "excerpt": "قالت جين جاو، رئيسة الأسهم الكمية في مؤسسة الاستثمار الصينية، في 12 مايو 2026 خلال KIW 2026 إن بيانات S&P500 على مدى 36 عاما تظهر أن الخروج من السوق قد يخفض العوائد طويلة الأجل بحدة.",
+        "body": "حذرت جين جاو، رئيسة الأسهم الكمية في مؤسسة الاستثمار الصينية (CIC)، في 12 مايو 2026 خلال أسبوع كوريا للاستثمار (KIW) 2026 في فندق شيلا سول، من مخاطر خروج المستثمرين مؤقتا من السوق لتجنب عدم اليقين. واستندت إلى بيانات مؤشر S&P500 على مدى 36 عاما لتوضح أن تفويت أفضل 10 أيام صعودا في المؤشر قد يقلص العوائد طويلة الأجل بنسبة 50%. وفي محاضرة عن تصميم العائد الفائض داخل صناديق الثروة السيادية، عرضت جاو التوزيع الاستراتيجي للأصول (SAA) وتحسين العناقيد المتداخلة (NCO) بوصفه إطارا يستفيد من عدم كفاءة السوق. وتفيد الرسالة بأن الاحتفاظ طويل الأجل وإدارة المخاطر المنهجية أهم من محاولة توقيت الهبوط قصير الأجل. المصدر: hankyung.com."
+      },
+      "hi": {
+        "title": "S&P500 लंबी अवधि रिटर्न चेतावनी: KIW 2026 में जेन झाओ ने बताया बाजार से बाहर रहने की लागत",
+        "excerpt": "चाइना इन्वेस्टमेंट कॉरपोरेशन की क्वांट इक्विटी प्रमुख जेन झाओ ने 12 मई 2026 को KIW 2026 में कहा कि S&P500 के 36 साल के आंकड़े दिखाते हैं कि बाजार से बाहर होना लंबी अवधि के रिटर्न को घटा सकता है।",
+        "body": "चाइना इन्वेस्टमेंट कॉरपोरेशन (CIC) की क्वांट इक्विटी प्रमुख जेन झाओ ने 12 मई 2026 को सियोल के शिला होटल में आयोजित कोरिया इन्वेस्टमेंट वीक (KIW) 2026 में चेताया कि अनिश्चितता से बचने के लिए निवेशकों का कुछ समय के लिए बाजार से बाहर रहना जोखिमपूर्ण हो सकता है। उन्होंने S&P500 के 36 साल के आंकड़ों का हवाला देते हुए कहा कि सूचकांक की सबसे तेज बढ़त वाले 10 दिन छूट जाने पर लंबी अवधि का रिटर्न 50% घट सकता है। संप्रभु संपत्ति कोषों में अतिरिक्त प्रदर्शन की रूपरेखा पर बोलते हुए झाओ ने रणनीतिक परिसंपत्ति आवंटन (SAA) और बाजार अक्षमताओं से अल्फा हासिल करने वाले नेस्टेड क्लस्टर ऑप्टिमाइजेशन (NCO) को प्रस्तुत किया। संदेश यह था कि छोटी अवधि की गिरावट को पकड़ने की कोशिश से अधिक अहम लंबी अवधि की स्थिति और व्यवस्थित जोखिम प्रबंधन है। स्रोत: hankyung.com."
+      },
+      "id": {
+        "title": "Peringatan Imbal Hasil S&P500: Jane Zhao di KIW 2026 Ungkap Biaya Keluar dari Pasar",
+        "excerpt": "Jane Zhao, kepala ekuitas kuantitatif China Investment Corporation, mengatakan pada 12 Mei 2026 di KIW 2026 bahwa data S&P500 selama 36 tahun menunjukkan keluar dari pasar dapat menekan imbal hasil jangka panjang.",
+        "body": "Jane Zhao, kepala ekuitas kuantitatif China Investment Corporation (CIC), memperingatkan pada 12 Mei 2026 di Korea Investment Week (KIW) 2026 yang digelar di The Shilla Seoul bahwa strategi keluar sementara dari pasar untuk menghindari ketidakpastian dapat merugikan investor. Mengacu pada data S&P500 selama 36 tahun, ia menjelaskan bahwa melewatkan 10 hari kenaikan terbesar indeks dapat memangkas imbal hasil jangka panjang sebesar 50%. Dalam paparan tentang desain alpha untuk dana kekayaan negara, Zhao memperkenalkan alokasi aset strategis (SAA) dan nested cluster optimization (NCO), kerangka yang memanfaatkan inefisiensi pasar. Pesannya, posisi jangka panjang dan manajemen risiko sistematis lebih penting daripada mencoba menebak waktu penurunan jangka pendek. Sumber: hankyung.com."
+      }
+    }
+  },
+  {
+    "id": "9c3e1c3d8964",
+    "slug": "신세계-외국인패션럭셔리-3박자에도-저평가-목표가-996812",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-05-12T22:51:11.264Z",
+    "updatedAt": "2026-05-12T22:51:11.264Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/stock/12045726",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12045726",
+    "titleFingerprint": "b7ce01e9e48cbbf669d6952608de8433cbd850c6",
+    "dedupKeys": [
+      "9c3e1c3d8964efe18879d71d58f5f24933649334",
+      "b7ce01e9e48cbbf669d6952608de8433cbd850c6",
+      "87ebff6a8469b3a7827224e6d421f65f72de2f21"
+    ],
+    "imageUrl": "/images/articles/9c3e1c3d8964.png",
+    "i18n": {
+      "ko": {
+        "title": "신세계 목표가 상향, 외국인·패션·럭셔리 성장에도 저평가 분석",
+        "excerpt": "대신증권은 13일 신세계가 백화점 국내 및 인바운드 소비자 매출 호조로 영업이익이 31% 급증했다며 목표가를 올리고 저평가 상태라고 분석했다.",
+        "body": "대신증권은 13일 신세계에 대해 백화점 국내 소비와 인바운드 소비자 매출이 호조를 보이며 영업이익이 31% 급증했다고 분석했다. 이에 따라 신세계 목표가를 상향하고, 현재 주가가 여전히 저평가 상태라고 평가했다. 이번 분석의 핵심 배경은 외국인 소비 증가, 패션 부문 성장, 럭셔리 매출 확대라는 세 가지 요인이다. 대신증권은 이 같은 고성장 흐름에도 신세계의 기업가치가 충분히 반영되지 않았다고 봤다. 백화점 매출 개선이 수익성 회복으로 이어진 만큼 향후 투자자 관심도 커질 수 있다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Shinsegae Target Raised as Foreign, Fashion and Luxury Growth Seen Undervalued",
+        "excerpt": "Daishin Securities said on the 13th Shinsegae’s operating profit jumped 31% on strong domestic department store and inbound consumer sales, calling the stock undervalued.",
+        "body": "Daishin Securities said on the 13th that Shinsegae’s department store sales from domestic and inbound consumers remained strong, driving a 31% surge in operating profit. The brokerage raised its target price for Shinsegae and said the stock still appears undervalued. The analysis pointed to three key growth drivers: foreign consumer demand, fashion sales and luxury spending. Despite this high-growth mix, Daishin Securities said Shinsegae’s corporate value has not been fully reflected in its share price. Improved department store sales have translated into stronger profitability, which could draw further investor attention. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "新世界の目標株価引き上げ、外国人・ファッション・ラグジュアリー成長でも割安",
+        "excerpt": "大信証券は13日、新世界について百貨店の国内およびインバウンド消費者売上が好調で営業利益が31%急増したとし、割安と分析した。",
+        "body": "大信証券は13日、新世界について、百貨店の国内消費とインバウンド消費者向け売上が好調に推移し、営業利益が31%急増したと分析した。これを受けて新世界の目標株価を引き上げ、現在の株価はなお割安な水準にあると評価した。分析の主な背景は、外国人消費の増加、ファッション部門の成長、ラグジュアリー売上の拡大という三つの要因だ。大信証券は、こうした高成長の流れにもかかわらず、新世界の企業価値が十分に反映されていないとみている。百貨店売上の改善が収益性回復につながった点も注目される。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "新世界目标价上调，外籍客、时尚与奢侈品增长下仍被低估",
+        "excerpt": "大信证券13日分析称，新世界百货国内及入境消费者销售表现良好，推动营业利润大增31%，但在多重高增长因素下仍处低估状态。",
+        "body": "大信证券13日表示，新世界百货的国内消费和入境消费者销售保持强劲，带动营业利润大增31%。基于这一表现，券商上调新世界目标价，并认为其当前股价仍处于低估状态。此次分析的核心背景包括外籍消费者需求增加、时尚业务增长以及奢侈品销售扩大三项因素。大信证券认为，尽管这些高增长动力同时显现，新世界的企业价值尚未充分反映在市场估值中。百货销售改善已带动盈利能力恢复，后续或继续受到投资者关注。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Shinsegae sube precio objetivo pese a estar infravalorada por lujo, moda y extranjeros",
+        "excerpt": "Daishin Securities dijo el día 13 que Shinsegae elevó su beneficio operativo un 31% gracias a las ventas nacionales e inbound en grandes almacenes, y la ve infravalorada.",
+        "body": "Daishin Securities señaló el día 13 que Shinsegae registró un fuerte desempeño en las ventas de sus grandes almacenes a consumidores nacionales y visitantes inbound, lo que impulsó un aumento del 31% en el beneficio operativo. La firma elevó el precio objetivo de Shinsegae y afirmó que la acción sigue infravalorada. El análisis se centra en tres motores de crecimiento: consumo de extranjeros, ventas de moda y expansión del segmento de lujo. A pesar de esta combinación de alto crecimiento, Daishin Securities considera que el valor corporativo de Shinsegae aún no está plenamente reflejado. La mejora de ventas también apunta a una recuperación de rentabilidad. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Shinsegae tem preço-alvo elevado e segue descontada com moda, luxo e estrangeiros",
+        "excerpt": "A Daishin Securities afirmou no dia 13 que o lucro operacional da Shinsegae saltou 31% com vendas fortes em lojas de departamento para consumidores locais e inbound.",
+        "body": "A Daishin Securities afirmou no dia 13 que as vendas da Shinsegae em lojas de departamento para consumidores domésticos e inbound tiveram desempenho sólido, levando a um salto de 31% no lucro operacional. Com isso, a corretora elevou o preço-alvo da Shinsegae e avaliou que a ação ainda está subavaliada. A análise destaca três fatores principais: aumento do consumo de estrangeiros, crescimento em moda e expansão das vendas de luxo. Apesar desse conjunto de alto crescimento, a Daishin Securities entende que o valor da empresa ainda não está totalmente refletido no mercado. A melhora das vendas também reforça a recuperação da rentabilidade. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Shinsegae-Kursziel steigt, trotz Wachstum bei Ausländern, Mode und Luxus unterbewertet",
+        "excerpt": "Daishin Securities erklärte am 13., Shinsegaes operativer Gewinn sei dank starker Kaufhausumsätze mit inländischen und Inbound-Kunden um 31% gestiegen.",
+        "body": "Daishin Securities erklärte am 13., dass Shinsegae bei den Kaufhausumsätzen mit inländischen Kunden und Inbound-Konsumenten eine starke Entwicklung verzeichnete. Dadurch sei der operative Gewinn um 31% gestiegen. Die Wertpapierfirma hob das Kursziel für Shinsegae an und bewertete die Aktie weiterhin als unterbewertet. Im Mittelpunkt der Analyse stehen drei Wachstumstreiber: ausländische Verbraucher, Mode und Luxusgüter. Trotz dieses starken Wachstumsprofils sieht Daishin Securities den Unternehmenswert von Shinsegae noch nicht ausreichend im Aktienkurs berücksichtigt. Die verbesserten Kaufhausumsätze haben zugleich die Erholung der Profitabilität gestützt. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Shinsegae relevé en objectif, encore sous-évalué grâce aux étrangers, mode et luxe",
+        "excerpt": "Daishin Securities a indiqué le 13 que le bénéfice d’exploitation de Shinsegae avait bondi de 31% grâce aux ventes des grands magasins auprès des clients locaux et inbound.",
+        "body": "Daishin Securities a indiqué le 13 que Shinsegae avait bénéficié de ventes solides dans ses grands magasins auprès des consommateurs nationaux et inbound, ce qui a entraîné une hausse de 31% du bénéfice d’exploitation. La société a relevé son objectif de cours sur Shinsegae et estime que le titre reste sous-évalué. L’analyse met en avant trois moteurs de croissance: la consommation des étrangers, la mode et le luxe. Malgré cette dynamique de forte croissance, Daishin Securities juge que la valeur de l’entreprise n’est pas encore pleinement reflétée. L’amélioration des ventes en grands magasins soutient aussi le redressement de la rentabilité. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "رفع السعر المستهدف لشينسيغيه مع اعتبارها مقومة بأقل من قيمتها رغم نمو الأجانب والموضة والفخامة",
+        "excerpt": "قالت دايشين للأوراق المالية في 13 إن أرباح شينسيغيه التشغيلية قفزت 31% بفضل قوة مبيعات المتاجر الكبرى للمستهلكين المحليين والوافدين.",
+        "body": "قالت دايشين للأوراق المالية في 13 إن مبيعات متاجر شينسيغيه الكبرى للمستهلكين المحليين والوافدين جاءت قوية، ما دفع الأرباح التشغيلية إلى الارتفاع بنسبة 31%. وبناء على ذلك رفعت الشركة السعر المستهدف لسهم شينسيغيه، واعتبرت أن السهم لا يزال مقوما بأقل من قيمته. وتركز التحليل على ثلاثة عوامل نمو رئيسية: زيادة إنفاق المستهلكين الأجانب، ونمو قطاع الموضة، وتوسع مبيعات السلع الفاخرة. ورغم اجتماع هذه العوامل ذات النمو المرتفع، ترى دايشين أن قيمة شينسيغيه لم تنعكس بالكامل في السوق. كما أن تحسن مبيعات المتاجر الكبرى دعم تعافي الربحية. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "Shinsegae लक्ष्य मूल्य बढ़ा, विदेशी ग्राहकों, फैशन और लग्जरी वृद्धि के बावजूद कम मूल्यांकन",
+        "excerpt": "Daishin Securities ने 13 तारीख को कहा कि घरेलू और inbound ग्राहकों की मजबूत डिपार्टमेंट स्टोर बिक्री से Shinsegae का परिचालन लाभ 31% बढ़ा और शेयर कम मूल्यांकित है।",
+        "body": "Daishin Securities ने 13 तारीख को Shinsegae पर कहा कि डिपार्टमेंट स्टोर में घरेलू उपभोक्ताओं और inbound ग्राहकों की बिक्री मजबूत रही, जिससे परिचालन लाभ 31% बढ़ गया। इसी आधार पर ब्रोकरेज ने Shinsegae का लक्ष्य मूल्य बढ़ाया और कहा कि शेयर अब भी कम मूल्यांकित दिखता है। विश्लेषण के मुख्य कारण तीन हैं: विदेशी उपभोक्ता मांग में वृद्धि, फैशन कारोबार की मजबूती और लग्जरी बिक्री का विस्तार। Daishin Securities के अनुसार, इन उच्च-विकास कारकों के बावजूद Shinsegae का कॉरपोरेट मूल्य पूरी तरह शेयर कीमत में नहीं दिख रहा है। डिपार्टमेंट स्टोर बिक्री में सुधार ने लाभप्रदता की रिकवरी को भी सहारा दिया। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Target Harga Shinsegae Naik, Dinilai Masih Murah Berkat Asing, Fesyen dan Mewah",
+        "excerpt": "Daishin Securities pada 13 menyebut laba operasi Shinsegae melonjak 31% karena kuatnya penjualan department store dari konsumen domestik dan inbound.",
+        "body": "Daishin Securities pada 13 menyatakan penjualan department store Shinsegae kepada konsumen domestik dan inbound menunjukkan kinerja kuat, sehingga laba operasi melonjak 31%. Atas dasar itu, perusahaan sekuritas tersebut menaikkan target harga Shinsegae dan menilai sahamnya masih berada dalam kondisi undervalued. Analisis ini bertumpu pada tiga faktor utama: peningkatan konsumsi warga asing, pertumbuhan segmen fesyen, dan perluasan penjualan barang mewah. Meski ketiga faktor pertumbuhan tinggi itu berjalan bersamaan, Daishin Securities menilai nilai perusahaan Shinsegae belum sepenuhnya tercermin. Perbaikan penjualan department store juga mendukung pemulihan profitabilitas. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "ffa8fe09a086",
+    "slug": "미국-개미도-삼전하이닉스-직구한다외국인통합계좌-본격-도입-483341",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-05-12T22:50:11.719Z",
+    "updatedAt": "2026-05-12T22:50:11.720Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/stock/12045730",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12045730",
+    "titleFingerprint": "718beab3bb73fb272cd1e36a4fd26f6ef500b923",
+    "dedupKeys": [
+      "ffa8fe09a08689b45db315aeb033b2a3493ace84",
+      "718beab3bb73fb272cd1e36a4fd26f6ef500b923",
+      "7e24b78b8fde477199d25dc5f4cc527cb7916959"
+    ],
+    "imageUrl": "/images/articles/ffa8fe09a086.jpg",
+    "i18n": {
+      "ko": {
+        "title": "외국인통합계좌 도입, 미국 개인투자자도 삼성전자·SK하이닉스 직접 산다",
+        "excerpt": "삼성증권이 미국 IBKR와 손잡고 외국인통합계좌 기반 서비스를 시작하면서 해외 개인투자자가 현지 증권사 앱으로 한국 주식을 직접 거래할 길이 넓어졌다.",
+        "body": "삼성증권이 미국 인터랙티브브로커스(IBKR)와 손잡고 외국인통합계좌 기반 서비스를 본격 도입했다. 이에 따라 미국 등 해외 개인투자자들은 현지 증권사 앱을 통해 삼성전자와 SK하이닉스 등 한국 주식을 직접 거래할 수 있게 됐다. 외국인통합계좌는 해외 투자자의 한국 증시 접근성을 높이는 장치로, 개인 투자금의 국내 유입 확대가 기대된다. 시장에서는 한국 주식 거래 편의성이 개선되면 해외 개인투자자 참여가 늘고, 한국 증시의 MSCI 선진국지수 편입 논의에도 긍정적 효과를 줄 수 있다는 평가가 나온다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Foreign Omnibus Accounts Open Korean Stocks to U.S. Retail Investors",
+        "excerpt": "Samsung Securities has launched a service with U.S.-based IBKR, widening direct access for overseas retail investors to trade Korean stocks through local brokerage apps.",
+        "body": "Samsung Securities has begun rolling out a service based on foreign omnibus accounts in partnership with U.S.-based Interactive Brokers (IBKR). The move enables retail investors in the United States and other overseas markets to directly trade Korean shares such as Samsung Electronics and SK Hynix through their local brokerage apps. The foreign omnibus account system is designed to improve overseas investors’ access to the Korean stock market, with expectations that more individual investment money could flow into Korea. Market watchers say easier Korean stock trading may increase overseas retail participation and have a positive effect on discussions about Korea’s inclusion in the MSCI developed market index. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "外国人統合口座導入、米個人投資家もサムスン電子・SKハイニックスを直接取引",
+        "excerpt": "サムスン証券が米IBKRと組み、外国人統合口座ベースのサービスを開始し、海外個人投資家が現地証券アプリで韓国株を直接取引しやすくなった。",
+        "body": "サムスン証券は米インタラクティブ・ブローカーズ（IBKR）と提携し、外国人統合口座を基盤とするサービスを本格導入した。これにより、米国など海外の個人投資家は現地証券会社のアプリを通じて、サムスン電子やSKハイニックスなど韓国株を直接取引できるようになった。外国人統合口座は海外投資家の韓国株式市場へのアクセスを高める仕組みで、個人投資資金の韓国市場への流入拡大が期待される。市場では、韓国株取引の利便性が改善すれば海外個人投資家の参加が増え、韓国証市のMSCI先進国指数編入議論にも前向きな効果をもたらすとの見方が出ている。出所: mk.co.kr"
+      },
+      "zh": {
+        "title": "外国人综合账户落地，美国散户也可直买三星电子和SK海力士",
+        "excerpt": "三星证券携手美国IBKR推出基于外国人综合账户的服务，海外个人投资者通过当地券商App直接交易韩国股票的渠道进一步扩大。",
+        "body": "三星证券与美国盈透证券（IBKR）合作，正式引入基于外国人综合账户的服务。由此，美国等海外个人投资者可通过当地证券公司App，直接交易三星电子、SK海力士等韩国股票。外国人综合账户旨在提升海外投资者进入韩国股市的便利性，市场期待个人投资资金流入韩国股市的规模扩大。市场人士认为，如果韩国股票交易便利性改善，海外个人投资者参与度可能提高，并对韩国股市纳入MSCI发达市场指数的讨论产生积极影响。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Cuentas ómnibus extranjeras abren acciones coreanas a minoristas de EE. UU.",
+        "excerpt": "Samsung Securities inició con IBKR de EE. UU. un servicio de cuentas ómnibus extranjeras, ampliando el acceso directo de inversores minoristas globales a acciones coreanas.",
+        "body": "Samsung Securities puso en marcha un servicio basado en cuentas ómnibus extranjeras junto con Interactive Brokers (IBKR), de Estados Unidos. Con ello, inversores minoristas de EE. UU. y otros mercados extranjeros podrán negociar directamente acciones coreanas como Samsung Electronics y SK Hynix desde las aplicaciones de sus corredoras locales. El sistema de cuentas ómnibus extranjeras busca mejorar el acceso de los inversores globales al mercado bursátil coreano y se espera que amplíe la entrada de capital minorista al país. En el mercado se considera que una mayor comodidad para operar acciones coreanas puede elevar la participación de minoristas extranjeros y tener un efecto positivo en el debate sobre la inclusión de Corea en el índice MSCI de mercados desarrollados. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Conta omnibus estrangeira permite a investidor dos EUA comprar ações coreanas",
+        "excerpt": "A Samsung Securities lançou com a IBKR dos EUA um serviço baseado em conta omnibus estrangeira, ampliando o acesso direto de pessoas físicas globais a ações coreanas.",
+        "body": "A Samsung Securities iniciou, em parceria com a Interactive Brokers (IBKR), dos Estados Unidos, um serviço baseado em contas omnibus estrangeiras. Com isso, investidores pessoa física dos EUA e de outros mercados externos poderão negociar diretamente ações coreanas, como Samsung Electronics e SK Hynix, por meio dos aplicativos de suas corretoras locais. A conta omnibus estrangeira é um mecanismo para ampliar o acesso de investidores internacionais ao mercado acionário coreano, com expectativa de maior entrada de recursos de pessoas físicas na bolsa local. Avaliações do mercado indicam que a melhora na conveniência de negociação pode elevar a participação de investidores estrangeiros individuais e ter efeito positivo nas discussões sobre a inclusão da Coreia no índice MSCI de mercados desenvolvidos. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Ausländische Sammelkonten öffnen Koreas Aktien für US-Privatanleger",
+        "excerpt": "Samsung Securities startet mit IBKR einen Dienst auf Basis ausländischer Sammelkonten und erleichtert privaten Auslandsanlegern den direkten Handel mit koreanischen Aktien.",
+        "body": "Samsung Securities hat gemeinsam mit Interactive Brokers (IBKR) aus den USA einen Dienst auf Basis ausländischer Sammelkonten eingeführt. Damit können Privatanleger in den USA und anderen Auslandsmärkten koreanische Aktien wie Samsung Electronics und SK Hynix direkt über die Apps ihrer lokalen Broker handeln. Das System der ausländischen Sammelkonten soll den Zugang internationaler Anleger zum koreanischen Aktienmarkt verbessern; erwartet wird ein größerer Zufluss privater Anlagegelder nach Korea. Marktbeobachter sehen in der höheren Handelsbequemlichkeit die Chance auf mehr Beteiligung ausländischer Privatanleger und einen positiven Effekt auf die Diskussion über Koreas Aufnahme in den MSCI-Index für entwickelte Märkte. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Comptes omnibus étrangers: les particuliers américains accèdent aux actions coréennes",
+        "excerpt": "Samsung Securities lance avec IBKR un service fondé sur les comptes omnibus étrangers, élargissant l’accès direct des particuliers étrangers aux actions coréennes via leurs applis locales.",
+        "body": "Samsung Securities a lancé avec Interactive Brokers (IBKR), aux États-Unis, un service fondé sur les comptes omnibus étrangers. Les investisseurs particuliers américains et d’autres marchés étrangers peuvent ainsi négocier directement des actions coréennes comme Samsung Electronics et SK Hynix depuis l’application de leur courtier local. Ce dispositif vise à améliorer l’accès des investisseurs étrangers au marché boursier coréen et devrait favoriser l’entrée de capitaux de particuliers en Corée. Selon des évaluations de marché, une négociation plus pratique des actions coréennes pourrait accroître la participation des particuliers étrangers et avoir un effet positif sur les discussions concernant l’intégration de la Corée à l’indice MSCI des marchés développés. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "حسابات الأجانب المجمعة تتيح لمستثمري أميركا الأفراد شراء أسهم كوريا مباشرة",
+        "excerpt": "أطلقت سامسونغ للأوراق المالية خدمة مع IBKR الأميركية تعتمد على حسابات الأجانب المجمعة، ما يوسع قدرة المستثمرين الأفراد بالخارج على تداول الأسهم الكورية عبر تطبيقات محلية.",
+        "body": "بدأت سامسونغ للأوراق المالية، بالتعاون مع إنترأكتيف بروكرز الأميركية (IBKR)، تطبيق خدمة قائمة على حسابات الأجانب المجمعة. وبموجب ذلك يستطيع المستثمرون الأفراد في الولايات المتحدة وأسواق خارجية أخرى تداول أسهم كورية مثل سامسونغ إلكترونيكس وSK هاينكس مباشرة عبر تطبيقات شركات الوساطة المحلية. وتهدف حسابات الأجانب المجمعة إلى تحسين وصول المستثمرين الخارجيين إلى سوق الأسهم الكورية، مع توقعات بتوسع تدفق أموال الأفراد إلى السوق المحلية. ويرى متابعون أن تحسين سهولة تداول الأسهم الكورية قد يزيد مشاركة المستثمرين الأفراد الأجانب، وقد يترك أثرا إيجابيا في نقاش إدراج كوريا ضمن مؤشر MSCI للأسواق المتقدمة. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "विदेशी ओम्निबस खाते से अमेरिकी खुदरा निवेशक सीधे खरीदेंगे कोरियाई शेयर",
+        "excerpt": "Samsung Securities ने अमेरिकी IBKR के साथ विदेशी ओम्निबस खाते पर आधारित सेवा शुरू की, जिससे विदेशी व्यक्तिगत निवेशकों के लिए स्थानीय ब्रोकरेज ऐप से कोरियाई शेयरों का सीधा कारोबार आसान हुआ।",
+        "body": "Samsung Securities ने अमेरिका की Interactive Brokers (IBKR) के साथ मिलकर विदेशी ओम्निबस खाते पर आधारित सेवा का औपचारिक रूप से विस्तार शुरू किया है। इसके बाद अमेरिका सहित विदेशों के व्यक्तिगत निवेशक अपने स्थानीय ब्रोकरेज ऐप के माध्यम से Samsung Electronics और SK Hynix जैसे कोरियाई शेयरों का सीधे कारोबार कर सकेंगे। विदेशी ओम्निबस खाता विदेशी निवेशकों की कोरियाई शेयर बाजार तक पहुंच बढ़ाने की व्यवस्था है, जिससे व्यक्तिगत निवेश धन के कोरियाई बाजार में अधिक आने की उम्मीद है। बाजार में आकलन है कि कोरियाई शेयर कारोबार की सुविधा सुधरने पर विदेशी खुदरा निवेशकों की भागीदारी बढ़ सकती है और कोरिया को MSCI विकसित बाजार सूचकांक में शामिल करने की चर्चा पर सकारात्मक प्रभाव पड़ सकता है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Rekening Omnibus Asing Buka Akses Investor Ritel AS ke Saham Korea",
+        "excerpt": "Samsung Securities menggandeng IBKR AS meluncurkan layanan rekening omnibus asing, memperluas akses investor ritel luar negeri untuk langsung memperdagangkan saham Korea lewat aplikasi broker lokal.",
+        "body": "Samsung Securities mulai menerapkan layanan berbasis rekening omnibus asing melalui kerja sama dengan Interactive Brokers (IBKR) asal Amerika Serikat. Dengan layanan ini, investor perorangan di AS dan pasar luar negeri lain dapat langsung memperdagangkan saham Korea seperti Samsung Electronics dan SK Hynix melalui aplikasi perusahaan sekuritas lokal. Rekening omnibus asing dirancang untuk meningkatkan akses investor luar negeri ke pasar saham Korea, dengan harapan memperbesar arus dana investor individu ke bursa domestik. Pelaku pasar menilai peningkatan kemudahan transaksi saham Korea dapat menambah partisipasi investor ritel asing dan memberi dampak positif pada pembahasan masuknya Korea ke indeks pasar maju MSCI. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
     "id": "0ae0208b4e1b",
     "slug": "팔천피-턱밑-찍고-7600대-후퇴한-코스피반도체-쏠림-부작용-664385",
     "channelId": "ETF",
@@ -4271,231 +4496,6 @@
         "title": "KOSPI Anjlok Intraday 5%, Bloomberg Soroti Polemik Dividen Nasional AI",
         "excerpt": "Bloomberg menyebut penurunan intraday KOSPI lebih dari 5% pada 12 Mei terkait kebingungan kebijakan dan melemahnya sentimen investor setelah pernyataan Kim Yong-beom soal laba berlebih AI.",
         "body": "Pada 12 Mei, setelah indeks KOSPI sempat naik ke 7.999,67 sepanjang sesi, indeks itu turun lebih dari 5% secara intraday. Bloomberg menunjuk kebingungan kebijakan seputar usulan “dividen nasional AI” dari Kim Yong-beom, kepala kebijakan Kantor Presiden, sebagai salah satu penyebab penurunan. Kim menyebut gagasan untuk menarik kembali laba berlebih yang dihasilkan industri AI dan membagikannya kepada warga, sementara media asing menilai pernyataan itu memperburuk sentimen investor. Saat kontroversi meluas, Kim menjelaskan bahwa ia tidak bermaksud mengusulkan pajak windfall. Pasar kini mencermati arah kebijakan dan kemungkinan beban bagi perusahaan. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "91f6b000ed5c",
-    "slug": "코스피-상승분-87-차지삼전닉스-등-실적에도-외국인-매도-우려-557924",
-    "channelId": "ETF",
-    "category": "etf",
-    "publishedAt": "2026-05-12T06:52:13.568Z",
-    "updatedAt": "2026-05-12T06:52:13.568Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/stock/12044702",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12044702",
-    "titleFingerprint": "be373f0e7bb93bbbc0fec081e632f00fe33ae528",
-    "dedupKeys": [
-      "91f6b000ed5c50c6ab69d6fb291d258ef43f0e91",
-      "be373f0e7bb93bbbc0fec081e632f00fe33ae528",
-      "f617c63845240a8a74fb92f4ae52c6a0193b4c4b"
-    ],
-    "imageUrl": "/images/articles/91f6b000ed5c.jpg",
-    "i18n": {
-      "ko": {
-        "title": "반도체주가 코스피 상승 주도, 삼성전자·SK하이닉스 급등에도 외국인 매도 우려",
-        "excerpt": "삼성전자와 SK하이닉스, SK스퀘어가 이달 29~46% 오르며 코스피 시가총액 상승분의 87.4%를 차지한 가운데 중동 리스크와 외국인 매도 경계감이 커지고 있다.",
-        "body": "삼성전자와 SK하이닉스 등 반도체주가 이달 코스피 상승을 연일 이끄는 가운데 외국인 매도 가능성에 대한 경계감도 커지고 있다. 원문에 따르면 삼성전자, SK하이닉스, SK스퀘어는 이달 29~46% 상승했으며, 이들 종목은 코스피 시가총액 상승분의 87.4%를 차지했다. 반도체 대형주의 강세가 지수 상승의 핵심 동력으로 작용한 셈이다. 다만 중동 리스크가 이어지고 외국인 매도에 대한 우려가 제기되면서, 실적 기대에도 시장의 변동성 관리가 중요해졌다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Chip Stocks Drive KOSPI Gains as Foreign Selling Concerns Shadow Samsung and SK Hynix Rally",
-        "excerpt": "Samsung Electronics, SK Hynix and SK Square rose 29-46% this month, accounting for 87.4% of the KOSPI market-cap gain, while Middle East risks and foreign selling concerns persist.",
-        "body": "Samsung Electronics, SK Hynix and other semiconductor stocks have continued to lead the KOSPI higher this month, but caution is growing over possible foreign investor selling. According to the original report, Samsung Electronics, SK Hynix and SK Square climbed 29-46% this month, accounting for 87.4% of the increase in KOSPI market capitalization. The strength of major chip-related shares has therefore been the key driver of the index’s rise. However, with Middle East risks continuing and concerns about foreign selling being raised, managing market volatility remains important despite earnings expectations. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "半導体株がKOSPI上昇を主導、サムスン電子・SKハイニックス急伸でも外国人売りを警戒",
-        "excerpt": "サムスン電子、SKハイニックス、SKスクエアは今月29～46%上昇し、KOSPI時価総額増加分の87.4%を占めた一方、中東リスクと外国人売りへの警戒感が強まっている。",
-        "body": "サムスン電子やSKハイニックスなど半導体株が今月、KOSPIの上昇を連日けん引するなか、外国人投資家による売りへの警戒感も高まっている。原文によると、サムスン電子、SKハイニックス、SKスクエアは今月29～46%上昇し、これらの銘柄はKOSPI時価総額増加分の87.4%を占めた。大型半導体株の強さが指数上昇の中核的な原動力となった形だ。ただし、中東リスクが続き、外国人売りへの懸念も指摘されるなか、業績期待があっても市場の変動性管理が重要になっている。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "半导体股主导KOSPI上涨，三星电子与SK海力士大涨仍面临外资卖出担忧",
-        "excerpt": "三星电子、SK海力士和SK Square本月上涨29%至46%，占KOSPI市值增量的87.4%，但中东风险和外资卖出警惕情绪仍在升温。",
-        "body": "三星电子、SK海力士等半导体股本月持续带动KOSPI上涨，同时市场对外资可能卖出的警惕也在增强。根据原文，三星电子、SK海力士和SK Square本月上涨29%至46%，这些股票占KOSPI市值增量的87.4%。这意味着大型半导体股的强势表现已成为指数上涨的核心动力。不过，在中东风险持续存在、外资卖出担忧被提出的情况下，即使有业绩预期支撑，市场波动管理仍显得重要。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Las acciones de chips impulsan el KOSPI, pero preocupa la venta extranjera pese al rally de Samsung y SK Hynix",
-        "excerpt": "Samsung Electronics, SK Hynix y SK Square subieron entre 29% y 46% este mes y explicaron el 87,4% del aumento de capitalización del KOSPI, mientras persisten riesgos en Oriente Medio y temores de ventas extranjeras.",
-        "body": "Samsung Electronics, SK Hynix y otras acciones de semiconductores han seguido liderando el avance del KOSPI este mes, aunque también crece la cautela ante posibles ventas de inversores extranjeros. Según el informe original, Samsung Electronics, SK Hynix y SK Square subieron entre 29% y 46% este mes, y estos valores representaron el 87,4% del aumento de capitalización bursátil del KOSPI. La fortaleza de los grandes valores de chips ha sido, por tanto, el motor central del alza del índice. Sin embargo, con los riesgos de Oriente Medio aún presentes y las preocupaciones por ventas extranjeras, gestionar la volatilidad del mercado sigue siendo clave pese a las expectativas de resultados. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Ações de chips lideram alta do KOSPI, mas venda estrangeira preocupa apesar de Samsung e SK Hynix",
-        "excerpt": "Samsung Electronics, SK Hynix e SK Square subiram 29% a 46% neste mês e responderam por 87,4% do ganho de valor de mercado do KOSPI, enquanto riscos no Oriente Médio e receios de venda estrangeira persistem.",
-        "body": "Samsung Electronics, SK Hynix e outras ações de semicondutores continuam liderando a alta do KOSPI neste mês, mas cresce a cautela sobre uma possível venda por investidores estrangeiros. Segundo o relatório original, Samsung Electronics, SK Hynix e SK Square avançaram 29% a 46% neste mês, respondendo por 87,4% do aumento da capitalização de mercado do KOSPI. A força das grandes ações ligadas a chips tornou-se, assim, o principal motor da alta do índice. No entanto, com os riscos no Oriente Médio ainda presentes e preocupações sobre vendas estrangeiras, a gestão da volatilidade do mercado segue importante apesar das expectativas de resultados. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Chipaktien treiben KOSPI nach oben, doch Auslandsverkäufe belasten Rally von Samsung und SK Hynix",
-        "excerpt": "Samsung Electronics, SK Hynix und SK Square stiegen in diesem Monat um 29 bis 46% und machten 87,4% des KOSPI-Marktkapitalisierungszuwachses aus, während Nahost-Risiken und Sorgen über Verkäufe ausländischer Investoren anhalten.",
-        "body": "Samsung Electronics, SK Hynix und andere Halbleiterwerte treiben den KOSPI in diesem Monat weiter nach oben, zugleich wächst die Vorsicht wegen möglicher Verkäufe ausländischer Investoren. Dem Originalbericht zufolge legten Samsung Electronics, SK Hynix und SK Square in diesem Monat um 29 bis 46% zu und standen für 87,4% des Anstiegs der KOSPI-Marktkapitalisierung. Die Stärke der großen Chipwerte war damit der zentrale Treiber des Indexanstiegs. Allerdings bleiben Nahost-Risiken bestehen, und Sorgen über Verkäufe ausländischer Investoren werden laut. Trotz Ergebniserwartungen bleibt daher das Management der Marktvolatilität wichtig. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Les semi-conducteurs tirent le KOSPI, mais les ventes étrangères inquiètent malgré Samsung et SK Hynix",
-        "excerpt": "Samsung Electronics, SK Hynix et SK Square ont gagné 29% à 46% ce mois-ci et représenté 87,4% de la hausse de capitalisation du KOSPI, tandis que les risques au Moyen-Orient et les craintes de ventes étrangères persistent.",
-        "body": "Samsung Electronics, SK Hynix et d’autres valeurs des semi-conducteurs continuent de mener la hausse du KOSPI ce mois-ci, mais la prudence grandit face à de possibles ventes d’investisseurs étrangers. Selon le rapport original, Samsung Electronics, SK Hynix et SK Square ont progressé de 29% à 46% ce mois-ci, représentant 87,4% de l’augmentation de la capitalisation boursière du KOSPI. La vigueur des grandes valeurs liées aux puces apparaît donc comme le moteur central de la progression de l’indice. Toutefois, avec la persistance des risques au Moyen-Orient et les inquiétudes liées aux ventes étrangères, la gestion de la volatilité du marché reste importante malgré les attentes de résultats. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "أسهم الرقائق تقود صعود كوسبي، ومخاوف بيع الأجانب تلاحق سامسونغ وSK هاينكس",
-        "excerpt": "ارتفعت Samsung Electronics وSK Hynix وSK Square هذا الشهر بين 29% و46%، وشكلت 87.4% من زيادة القيمة السوقية لمؤشر كوسبي، وسط مخاطر الشرق الأوسط ومخاوف بيع الأجانب.",
-        "body": "تواصل أسهم أشباه الموصلات، ومنها Samsung Electronics وSK Hynix، قيادة صعود مؤشر كوسبي هذا الشهر، في حين تتزايد الحذَر من احتمال بيع المستثمرين الأجانب. ووفقاً للتقرير الأصلي، ارتفعت Samsung Electronics وSK Hynix وSK Square هذا الشهر بين 29% و46%، وشكلت هذه الأسهم 87.4% من زيادة القيمة السوقية لكوسبي. وبذلك أصبحت قوة الأسهم الكبرى المرتبطة بالرقائق المحرك الرئيسي لصعود المؤشر. لكن مع استمرار مخاطر الشرق الأوسط وطرح مخاوف بشأن بيع الأجانب، تظل إدارة تقلبات السوق مهمة رغم توقعات الأداء. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "चिप शेयरों ने KOSPI की बढ़त चलाई, Samsung और SK Hynix की तेजी पर विदेशी बिकवाली की चिंता",
-        "excerpt": "Samsung Electronics, SK Hynix और SK Square इस महीने 29-46% चढ़े और KOSPI के बाजार पूंजीकरण में बढ़ोतरी का 87.4% हिस्सा बने, जबकि मध्य पूर्व जोखिम और विदेशी बिकवाली की आशंका बनी हुई है।",
-        "body": "Samsung Electronics, SK Hynix और अन्य सेमीकंडक्टर शेयर इस महीने KOSPI की बढ़त को लगातार आगे बढ़ा रहे हैं, लेकिन विदेशी निवेशकों की संभावित बिकवाली को लेकर सतर्कता भी बढ़ रही है। मूल रिपोर्ट के अनुसार, Samsung Electronics, SK Hynix और SK Square इस महीने 29-46% चढ़े, और इन शेयरों ने KOSPI के बाजार पूंजीकरण में हुई बढ़ोतरी का 87.4% हिस्सा बनाया। यानी बड़े चिप शेयरों की मजबूती सूचकांक की तेजी का मुख्य आधार रही। हालांकि मध्य पूर्व जोखिम जारी हैं और विदेशी बिकवाली की चिंता उठ रही है, इसलिए नतीजों की उम्मीदों के बावजूद बाजार की अस्थिरता संभालना महत्वपूर्ण है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Saham Chip Pimpin Kenaikan KOSPI, tetapi Aksi Jual Asing Bayangi Samsung dan SK Hynix",
-        "excerpt": "Samsung Electronics, SK Hynix, dan SK Square naik 29-46% bulan ini dan menyumbang 87,4% kenaikan kapitalisasi pasar KOSPI, sementara risiko Timur Tengah dan kekhawatiran jual asing tetap membayangi.",
-        "body": "Samsung Electronics, SK Hynix, dan saham semikonduktor lainnya terus memimpin kenaikan KOSPI bulan ini, tetapi kewaspadaan terhadap kemungkinan aksi jual investor asing juga meningkat. Menurut laporan asli, Samsung Electronics, SK Hynix, dan SK Square naik 29-46% bulan ini, dan saham-saham tersebut menyumbang 87,4% dari peningkatan kapitalisasi pasar KOSPI. Kekuatan saham chip berkapitalisasi besar menjadi pendorong utama kenaikan indeks. Namun, dengan risiko Timur Tengah yang berlanjut dan kekhawatiran terhadap aksi jual asing, pengelolaan volatilitas pasar tetap penting meski ada ekspektasi kinerja. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "30d50754aebf",
-    "slug": "거래소-파생본부장에-금감원-출신-내정노조시민단체-강력-반발-587355",
-    "channelId": "ETF",
-    "category": "etf",
-    "publishedAt": "2026-05-12T06:51:03.439Z",
-    "updatedAt": "2026-05-12T06:51:03.439Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/stock/12044710",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12044710",
-    "titleFingerprint": "93fbc9c68ca6c1e66121f485b6b8d67efa20e8a4",
-    "dedupKeys": [
-      "30d50754aebf70e2455d0d989e645297d7571c16",
-      "93fbc9c68ca6c1e66121f485b6b8d67efa20e8a4",
-      "5df378c41c08fd7d43bcef4112bdda8407203be8"
-    ],
-    "imageUrl": "/images/articles/30d50754aebf.png",
-    "i18n": {
-      "ko": {
-        "title": "거래소 파생본부장 금감원 출신 내정에 노조·시민단체 반발 확산",
-        "excerpt": "한국거래소 파생상품시장본부장에 금융감독원 출신 인사가 내정된 것으로 알려지자 노조와 시민단체가 경험 부족과 이해충돌 우려를 제기하며 반발하고 있다.",
-        "body": "한국거래소 파생상품시장본부장에 금융감독원 출신 인사가 내정된 것으로 알려지면서 노조와 시민단체가 강하게 반발하고 있다. 노조는 해당 인사가 파생상품 업무 경험이 없다는 취지로 “파생의 ‘파’자도 경험해보지 않은 사람”이라고 비판했다. 시민단체와 함께 공익감사 청구와 행정소송 제기도 추진한다는 입장이다. 부산경실련은 금감원 출신 인사가 9년간 선임돼 왔다며, 이해충돌 관리 장치가 제대로 이뤄지지 않았다고 지적했다. 이번 내정 논란은 거래소 인사 관행과 파생상품시장 운영 전문성, 감독기관 출신 인사의 이해충돌 관리 문제로 번질 전망이다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "KRX Derivatives Chief Pick From FSS Faces Union and Civic Backlash",
-        "excerpt": "Unions and civic groups are opposing the reported nomination of a former Financial Supervisory Service official to lead KRX’s derivatives market, citing experience and conflict concerns.",
-        "body": "The Korea Exchange is facing strong opposition after a former Financial Supervisory Service official was reportedly nominated to head its derivatives market division. The union criticized the choice, saying the nominee had not experienced even the first letter of derivatives work, in effect arguing that the person lacks direct expertise in the field. Civic groups are also joining the response, with plans to seek a public-interest audit and file an administrative lawsuit. The Busan Citizens’ Coalition for Economic Justice said former FSS officials have been appointed for nine years and argued that mechanisms to manage conflicts of interest have not been properly established. The dispute is expected to raise questions over KRX personnel practices, expertise in derivatives market operations, and conflict-of-interest controls for former regulators. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "韓国取引所デリバティブ本部長に金監院出身内定、労組・市民団体が反発",
-        "excerpt": "韓国取引所のデリバティブ市場本部長に金融監督院出身者が内定したとされ、労組と市民団体が経験不足と利益相反への懸念を理由に反発している。",
-        "body": "韓国取引所のデリバティブ市場本部長に金融監督院出身者が内定したと伝えられ、労組と市民団体が強く反発している。労組は、当該人物にデリバティブ業務の経験がないとの趣旨で、「デリバティブの『デ』も経験していない人」だと批判した。市民団体とともに公益監査請求や行政訴訟の提起も進める方針だ。釜山経実連は、金監院出身者が9年間にわたり選任されてきたとし、利益相反を管理する仕組みが十分に整っていないと指摘した。今回の内定をめぐる論争は、取引所の人事慣行、デリバティブ市場運営の専門性、監督機関出身者の利益相反管理問題へ広がる見通しだ。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "韩国交易所衍生品负责人拟由金监院出身人士担任引发反弹",
-        "excerpt": "韩国交易所衍生品市场本部长据称内定为金融监督院出身人士，工会和市民团体以经验不足和利益冲突担忧为由强烈反对。",
-        "body": "据称，韩国交易所衍生品市场本部长一职已内定由金融监督院出身人士担任，引发工会和市民团体强烈反对。工会批评称，该人士没有衍生品业务经验，称其连衍生品的“衍”字都没有经历过。工会还表示，将与市民团体一起推进公益监察请求和行政诉讼。釜山经济正义实践市民联合指出，金监院出身人士已连续9年被任命，但利益冲突管理机制并未得到妥善建立。此次内定争议预计将延伸至交易所人事惯例、衍生品市场运营专业性，以及监管机构出身人士的利益冲突管理问题。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Nombramiento en derivados de KRX de exsupervisor desata rechazo sindical",
-        "excerpt": "Sindicatos y grupos cívicos rechazan la presunta designación de un exfuncionario del supervisor financiero para dirigir derivados en KRX por falta de experiencia y conflictos.",
-        "body": "La Bolsa de Corea enfrenta una fuerte reacción después de que se informara que un exfuncionario del Servicio de Supervisión Financiera fue propuesto para dirigir la división del mercado de derivados. El sindicato criticó la elección al afirmar que la persona no tiene experiencia en derivados y dijo que no había experimentado ni la primera letra de ese campo. Junto con organizaciones cívicas, planea solicitar una auditoría de interés público y presentar una demanda administrativa. La Coalición de Busan por la Justicia Económica señaló que personas procedentes del supervisor financiero han sido nombradas durante nueve años y sostuvo que no se han establecido adecuadamente mecanismos para gestionar conflictos de interés. La controversia puede ampliar el debate sobre las prácticas de nombramiento de KRX, la especialización en derivados y los controles sobre exreguladores. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Ex-supervisor indicado para derivativos da KRX provoca reação de sindicato",
-        "excerpt": "Sindicatos e grupos civis contestam a suposta indicação de um ex-integrante do supervisor financeiro para chefiar derivativos na KRX, citando experiência e conflitos.",
-        "body": "A Bolsa da Coreia enfrenta forte oposição após a informação de que um ex-integrante do Serviço de Supervisão Financeira foi indicado para chefiar a divisão do mercado de derivativos. O sindicato criticou a escolha, afirmando que o indicado não tem experiência em derivativos e que não teria vivido nem a primeira letra dessa área. Ao lado de organizações civis, o sindicato pretende pedir uma auditoria de interesse público e entrar com ação administrativa. A Coalizão de Busan pela Justiça Econômica afirmou que pessoas vindas do supervisor financeiro foram nomeadas por nove anos e disse que mecanismos para administrar conflitos de interesse não foram devidamente implementados. A controvérsia deve levantar questões sobre práticas de nomeação da KRX, especialização na operação do mercado de derivativos e controle de conflitos envolvendo ex-reguladores. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "KRX-Derivatechef aus Finanzaufsicht geplant: Gewerkschaft protestiert",
-        "excerpt": "Gewerkschaft und Bürgergruppen wenden sich gegen die gemeldete Nominierung eines früheren Finanzaufsichtsbeamten für die Derivatesparte der Korea Exchange wegen Erfahrung und Interessenkonflikten.",
-        "body": "Die Korea Exchange sieht sich starkem Widerstand ausgesetzt, nachdem Berichten zufolge ein früherer Beamter der Finanzaufsicht Financial Supervisory Service für die Leitung der Derivatemarktsparte vorgesehen ist. Die Gewerkschaft kritisierte die Personalie mit dem Hinweis, der Kandidat habe keine Erfahrung im Derivategeschäft und kenne nicht einmal den Anfang dieses Bereichs. Gemeinsam mit Bürgergruppen will sie eine Prüfung im öffentlichen Interesse beantragen und eine Verwaltungsklage einreichen. Die Busan Citizens’ Coalition for Economic Justice erklärte, frühere FSS-Vertreter seien seit neun Jahren ernannt worden, während Verfahren zur Kontrolle von Interessenkonflikten nicht angemessen eingerichtet worden seien. Der Streit dürfte Fragen zu KRX-Personalpraktiken, Fachkompetenz im Derivatehandel und Konfliktkontrollen für frühere Aufseher auslösen. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "KRX: un ancien du superviseur financier pressenti aux dérivés, tollé syndical",
-        "excerpt": "Syndicats et groupes civiques contestent la nomination annoncée d’un ancien du superviseur financier à la tête des dérivés de KRX, invoquant expérience et conflits d’intérêts.",
-        "body": "La Korea Exchange fait face à une vive opposition après l’annonce selon laquelle un ancien responsable du Financial Supervisory Service serait pressenti pour diriger la division du marché des dérivés. Le syndicat a critiqué ce choix, estimant que la personne n’a pas d’expérience dans les dérivés et n’en connaît même pas la première lettre. Avec des organisations civiques, il prévoit de demander un audit d’intérêt public et de déposer un recours administratif. La Busan Citizens’ Coalition for Economic Justice a indiqué que des profils issus du superviseur financier ont été nommés pendant neuf ans et a jugé que les dispositifs de gestion des conflits d’intérêts n’ont pas été correctement mis en place. La controverse devrait relancer le débat sur les pratiques de nomination de KRX, l’expertise nécessaire aux marchés dérivés et le contrôle des anciens régulateurs. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "ترشيح مسؤول سابق بالرقابة المالية لرئاسة مشتقات بورصة كوريا يثير رفضا",
-        "excerpt": "تواجه بورصة كوريا اعتراضا من النقابة ومنظمات مدنية بعد أنباء عن ترشيح مسؤول سابق في جهاز الرقابة المالية لرئاسة سوق المشتقات بسبب الخبرة وتضارب المصالح.",
-        "body": "تواجه بورصة كوريا اعتراضا قويا بعد أنباء عن ترشيح مسؤول سابق في جهاز الرقابة المالية لتولي رئاسة قسم سوق المشتقات. وانتقدت النقابة الاختيار، قائلة إن المرشح لا يملك خبرة في أعمال المشتقات، وإنه لم يختبر حتى الحرف الأول من هذا المجال. كما تعتزم النقابة، مع منظمات مدنية، طلب تدقيق للصالح العام ورفع دعوى إدارية. وقالت منظمة بوسان للعدالة الاقتصادية إن شخصيات من جهاز الرقابة المالية جرى تعيينها على مدى تسع سنوات، معتبرة أن آليات إدارة تضارب المصالح لم تُنشأ بشكل مناسب. ومن المتوقع أن تثير القضية نقاشا حول ممارسات التعيين في البورصة، وخبرة تشغيل سوق المشتقات، وضوابط تضارب المصالح للمسؤولين السابقين في الجهات الرقابية. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "KRX डेरिवेटिव प्रमुख पद पर पूर्व FSS अधिकारी की चर्चा से यूनियन विरोध",
-        "excerpt": "कोरिया एक्सचेंज के डेरिवेटिव बाजार प्रमुख पद पर वित्तीय पर्यवेक्षण सेवा के पूर्व अधिकारी की कथित नियुक्ति पर यूनियन और नागरिक समूह अनुभव व हितों के टकराव को लेकर विरोध कर रहे हैं।",
-        "body": "कोरिया एक्सचेंज के डेरिवेटिव बाजार प्रभाग के प्रमुख पद पर वित्तीय पर्यवेक्षण सेवा के एक पूर्व अधिकारी को नामित किए जाने की खबर के बाद यूनियन और नागरिक समूहों ने कड़ा विरोध जताया है। यूनियन ने कहा कि संबंधित व्यक्ति को डेरिवेटिव कार्य का अनुभव नहीं है और वह डेरिवेटिव के पहले अक्षर तक से गुजरा हुआ नहीं है। यूनियन नागरिक समूहों के साथ जनहित ऑडिट की मांग और प्रशासनिक मुकदमा दायर करने की तैयारी कर रही है। बुसान सिटिजन्स कोएलिशन फॉर इकोनॉमिक जस्टिस ने कहा कि FSS से आए लोगों को नौ वर्षों से नियुक्त किया जाता रहा है और हितों के टकराव को संभालने की व्यवस्था ठीक से नहीं बनी। यह विवाद KRX की नियुक्ति परंपरा, डेरिवेटिव बाजार संचालन की विशेषज्ञता और पूर्व नियामकों के हितों के टकराव नियंत्रण पर सवाल उठा सकता है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Calon Kepala Derivatif KRX dari FSS Picu Penolakan Serikat dan Sipil",
-        "excerpt": "Serikat pekerja dan kelompok sipil menolak kabar penunjukan mantan pejabat Financial Supervisory Service sebagai kepala pasar derivatif KRX karena pengalaman dan konflik kepentingan.",
-        "body": "Korea Exchange menghadapi penolakan kuat setelah muncul kabar bahwa mantan pejabat Financial Supervisory Service dicalonkan untuk memimpin divisi pasar derivatif. Serikat pekerja mengkritik pilihan itu dengan menyatakan bahwa calon tersebut tidak memiliki pengalaman dalam pekerjaan derivatif, bahkan belum pernah menyentuh huruf pertama dari bidang itu. Bersama kelompok sipil, serikat berencana mengajukan audit kepentingan publik dan gugatan administratif. Busan Citizens’ Coalition for Economic Justice menyebut orang-orang dari FSS telah ditunjuk selama sembilan tahun dan menilai perangkat untuk mengelola konflik kepentingan belum berjalan semestinya. Kontroversi ini diperkirakan memunculkan pertanyaan tentang praktik penunjukan di KRX, keahlian pengelolaan pasar derivatif, dan pengawasan konflik kepentingan bagi mantan regulator. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "70b553131525",
-    "slug": "속보-코스피-장중-7900선-첫-돌파7953-914594",
-    "channelId": "ETF",
-    "category": "etf",
-    "publishedAt": "2026-05-12T05:54:39.498Z",
-    "updatedAt": "2026-05-12T05:54:39.498Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/stock/12044256",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12044256",
-    "titleFingerprint": "9525143eb3c7f16ba54e3e1cf50098c1934292bd",
-    "dedupKeys": [
-      "70b55313152506f432852f31c463af9fb494b7bb",
-      "9525143eb3c7f16ba54e3e1cf50098c1934292bd",
-      "248699948945bf514dee7d78da245868e886f179"
-    ],
-    "imageUrl": "/images/articles/70b553131525.jpg",
-    "i18n": {
-      "ko": {
-        "title": "코스피 장중 7900선 첫 돌파, 반도체주 강세에 7953까지 상승",
-        "excerpt": "12일 오전 코스피가 중동 긴장 재고조에도 반도체주 상승 등에 힘입어 장중 처음 7900선을 넘고 7953을 기록하며 상승 출발했다.",
-        "body": "코스피가 12일 오전 장중 처음으로 7900선을 돌파했다. mk.co.kr에 따르면 이날 오전 9시 6분 현재 코스피는 전일 대비 132.24포인트, 1.6% 오른 수준을 나타냈고, 장중 7953까지 올랐다. 중동 긴장이 다시 고조되는 상황에서도 반도체주 상승 등이 지수를 끌어올린 것으로 전해졌다. 이번 상승 출발은 대외 불확실성이 이어지는 가운데 국내 증시에서 반도체주가 지수 흐름을 주도했다는 점에서 주목된다. 다만 원문은 오전 초반 장중 수치와 상승 배경을 중심으로 전했으며, 이후 종가나 추가 전망은 제시하지 않았다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "KOSPI tops 7,900 intraday for first time as chip stocks lift index to 7,953",
-        "excerpt": "On the morning of the 12th, the KOSPI opened higher, topping 7,900 intraday for the first time and reaching 7,953 despite renewed Middle East tensions, helped by gains in semiconductor shares.",
-        "body": "The KOSPI crossed the 7,900 mark intraday for the first time on the morning of the 12th. According to mk.co.kr, as of 9:06 a.m., the index was up 132.24 points, or 1.6%, from the previous session and had risen as high as 7,953 during trading. The report said gains in semiconductor stocks helped lift the index even as tensions in the Middle East escalated again. The higher start is notable because chip shares led the market’s direction despite continued external uncertainty. The original report focused on early-morning intraday figures and the stated driver of the rise, without providing a closing level or additional outlook. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "KOSPIが取引時間中に初の7900突破、半導体株高で7953まで上昇",
-        "excerpt": "12日午前、KOSPIは中東情勢の緊張再燃にもかかわらず半導体株の上昇などに支えられ、取引時間中に初めて7900を超え7953を記録して上昇スタートとなった。",
-        "body": "KOSPIは12日午前、取引時間中に初めて7900の大台を突破した。mk.co.krによると、同日午前9時6分現在、KOSPIは前日比132.24ポイント、1.6%高い水準を示し、取引時間中に7953まで上昇した。中東の緊張が再び高まるなかでも、半導体株の上昇などが指数を押し上げたと伝えられた。今回の上昇スタートは、外部不確実性が続くなかで国内株式市場では半導体株が指数の流れを主導した点で注目される。ただし原文は午前序盤の取引時間中の数値と上昇背景を中心に伝えており、終値や追加見通しは示していない。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "KOSPI盘中首次突破7900点，半导体股走强推动升至7953",
-        "excerpt": "12日上午，尽管中东紧张局势再度升温，KOSPI仍在半导体股上涨等带动下高开，盘中首次突破7900点并触及7953。",
-        "body": "KOSPI于12日上午盘中首次突破7900点。据mk.co.kr报道，当天上午9时6分，KOSPI较前一交易日上涨132.24点，涨幅为1.6%，盘中一度升至7953。报道称，尽管中东紧张局势再次加剧，半导体股上涨等因素仍推动指数上行。此次上涨开盘之所以受到关注，是因为在外部不确定性持续的情况下，韩国股市由半导体股主导了指数走势。不过，原文主要报道了上午早盘的盘中数据和上涨背景，并未提供收盘点位或进一步展望。来源：mk.co.kr"
-      },
-      "es": {
-        "title": "KOSPI supera por primera vez los 7.900 intradía y sube a 7.953 por chips",
-        "excerpt": "En la mañana del día 12, el KOSPI abrió al alza y superó por primera vez los 7.900 puntos intradía, alcanzando 7.953 pese al repunte de la tensión en Oriente Medio, apoyado por las acciones de semiconductores.",
-        "body": "El KOSPI superó por primera vez los 7.900 puntos intradía en la mañana del día 12. Según mk.co.kr, a las 9:06 a. m. de ese día el índice avanzaba 132,24 puntos, o un 1,6%, frente a la sesión anterior, y llegó a tocar 7.953 durante la negociación. El informe señaló que las subidas de las acciones de semiconductores ayudaron a impulsar el índice, pese a la nueva escalada de tensiones en Oriente Medio. Este inicio alcista destaca porque, en medio de la incertidumbre externa, los valores de chips lideraron el movimiento del mercado surcoreano. El texto original se centró en las cifras intradía de primera hora y en la causa indicada del avance, sin ofrecer cierre ni previsiones adicionales. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "KOSPI supera 7.900 pela primeira vez no intradia e avança a 7.953 com chips",
-        "excerpt": "Na manhã do dia 12, o KOSPI abriu em alta e superou 7.900 pontos no intradia pela primeira vez, chegando a 7.953 apesar da nova escalada de tensão no Oriente Médio, apoiado por ações de semicondutores.",
-        "body": "O KOSPI ultrapassou pela primeira vez a marca de 7.900 pontos no intradia na manhã do dia 12. Segundo o mk.co.kr, às 9h06 daquele dia o índice subia 132,24 pontos, ou 1,6%, em relação ao pregão anterior, e chegou a 7.953 durante as negociações. A reportagem informou que a alta das ações de semicondutores ajudou a impulsionar o índice, mesmo com a nova intensificação das tensões no Oriente Médio. A abertura positiva chama atenção porque, em meio à incerteza externa, os papéis de chips lideraram o movimento do mercado sul-coreano. O texto original concentrou-se nos números intradiários do início da manhã e no fator citado para a alta, sem apresentar fechamento ou perspectiva adicional. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "KOSPI steigt intraday erstmals über 7.900, Chipwerte treiben Index auf 7.953",
-        "excerpt": "Am Morgen des 12. eröffnete der KOSPI höher, überschritt trotz erneut verschärfter Spannungen im Nahen Osten erstmals intraday 7.900 Punkte und erreichte dank steigender Halbleiteraktien 7.953.",
-        "body": "Der KOSPI hat am Morgen des 12. erstmals im Tagesverlauf die Marke von 7.900 Punkten überschritten. Laut mk.co.kr lag der Index um 9:06 Uhr bei einem Plus von 132,24 Punkten beziehungsweise 1,6% gegenüber dem Vortag und stieg intraday bis auf 7.953. Dem Bericht zufolge trugen Kursgewinne bei Halbleiteraktien dazu bei, den Index nach oben zu ziehen, obwohl sich die Spannungen im Nahen Osten erneut verschärften. Der positive Handelsstart ist bemerkenswert, weil Chipwerte trotz anhaltender externer Unsicherheit die Richtung am südkoreanischen Aktienmarkt bestimmten. Der Originalbericht konzentrierte sich auf die frühen Intraday-Daten und den genannten Grund für den Anstieg; Schlussstand oder weitere Prognosen wurden nicht genannt. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Le KOSPI franchit 7 900 en séance pour la première fois, porté à 7 953 par les puces",
-        "excerpt": "Le matin du 12, le KOSPI a ouvert en hausse et franchi pour la première fois les 7 900 points en séance, atteignant 7 953 malgré le regain de tensions au Moyen-Orient, soutenu par les valeurs des semi-conducteurs.",
-        "body": "Le KOSPI a franchi pour la première fois le seuil des 7 900 points en séance dans la matinée du 12. Selon mk.co.kr, à 9 h 06 ce jour-là, l’indice progressait de 132,24 points, soit 1,6%, par rapport à la veille et avait atteint 7 953 en cours de séance. Le média a indiqué que la hausse des valeurs liées aux semi-conducteurs avait contribué à tirer l’indice vers le haut, malgré une nouvelle montée des tensions au Moyen-Orient. Ce début de séance positif retient l’attention car les actions de puces ont mené le mouvement du marché sud-coréen dans un contexte d’incertitude extérieure persistante. L’article d’origine s’est concentré sur les chiffres intrajournaliers du début de matinée et sur le facteur avancé pour la hausse, sans donner de clôture ni de perspective supplémentaire. Source : mk.co.kr"
-      },
-      "ar": {
-        "title": "كوسبي يتجاوز 7900 نقطة لأول مرة خلال الجلسة بدعم أسهم الرقائق إلى 7953",
-        "excerpt": "صباح يوم 12، افتتح مؤشر كوسبي على ارتفاع وتجاوز مستوى 7900 نقطة خلال الجلسة لأول مرة، مسجلا 7953 رغم تجدد توترات الشرق الأوسط، بدعم من صعود أسهم أشباه الموصلات.",
-        "body": "تجاوز مؤشر كوسبي صباح يوم 12 مستوى 7900 نقطة خلال الجلسة للمرة الأولى. ووفقا لـ mk.co.kr، كان المؤشر عند الساعة 9:06 صباحا مرتفعا 132.24 نقطة، أي 1.6%، مقارنة بالجلسة السابقة، وبلغ خلال التداول 7953. وذكر التقرير أن صعود أسهم أشباه الموصلات ساعد في دفع المؤشر إلى أعلى، رغم تجدد تصاعد التوترات في الشرق الأوسط. ويكتسب هذا الافتتاح الصاعد أهمية لأنه يظهر أن أسهم الرقائق قادت اتجاه السوق الكورية الجنوبية وسط استمرار حالة عدم اليقين الخارجية. وركز النص الأصلي على أرقام التعاملات المبكرة خلال الجلسة وخلفية الارتفاع، من دون تقديم مستوى إغلاق أو توقعات إضافية. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "KOSPI पहली बार इंट्राडे 7,900 के पार, चिप शेयरों से 7,953 तक उछाल",
-        "excerpt": "12 तारीख की सुबह KOSPI ने मध्य पूर्व तनाव फिर बढ़ने के बावजूद सेमीकंडक्टर शेयरों की मजबूती से ऊंची शुरुआत की, पहली बार इंट्राडे 7,900 के पार गया और 7,953 तक पहुंचा।",
-        "body": "KOSPI ने 12 तारीख की सुबह पहली बार इंट्राडे कारोबार में 7,900 का स्तर पार किया। mk.co.kr के अनुसार, उस दिन सुबह 9:06 बजे तक सूचकांक पिछले सत्र से 132.24 अंक, यानी 1.6%, ऊपर था और कारोबार के दौरान 7,953 तक पहुंच गया। रिपोर्ट में बताया गया कि मध्य पूर्व में तनाव फिर बढ़ने के बावजूद सेमीकंडक्टर शेयरों में तेजी आदि ने सूचकांक को ऊपर उठाया। यह ऊंची शुरुआत इसलिए महत्वपूर्ण है क्योंकि बाहरी अनिश्चितता जारी रहने के बीच दक्षिण कोरियाई शेयर बाजार की दिशा चिप शेयरों ने तय की। मूल रिपोर्ट ने सुबह शुरुआती इंट्राडे आंकड़ों और तेजी के बताए गए कारण पर ध्यान दिया, जबकि बंद स्तर या अतिरिक्त 전망 नहीं दिया। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "KOSPI tembus 7.900 intraday pertama kali, saham chip dorong ke 7.953",
-        "excerpt": "Pada pagi tanggal 12, KOSPI dibuka menguat dan untuk pertama kalinya menembus 7.900 secara intraday, mencapai 7.953 meski ketegangan Timur Tengah kembali meningkat, ditopang saham semikonduktor.",
-        "body": "KOSPI pada pagi tanggal 12 untuk pertama kalinya menembus level 7.900 dalam perdagangan intraday. Menurut mk.co.kr, pada pukul 09.06 hari itu, indeks naik 132,24 poin, atau 1,6%, dibanding sesi sebelumnya dan sempat mencapai 7.953 saat perdagangan berlangsung. Laporan tersebut menyebut kenaikan saham semikonduktor membantu mengangkat indeks, meski ketegangan di Timur Tengah kembali meningkat. Awal perdagangan yang menguat ini menjadi perhatian karena saham chip memimpin arah pasar saham Korea Selatan di tengah ketidakpastian eksternal yang masih berlanjut. Artikel asli berfokus pada angka intraday awal pagi dan latar kenaikan yang disebutkan, tanpa menyajikan level penutupan atau prospek tambahan. Sumber: mk.co.kr"
       }
     }
   }
