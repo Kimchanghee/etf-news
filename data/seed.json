@@ -1,5 +1,230 @@
 [
   {
+    "id": "5cd66ac03847",
+    "slug": "어닝-서프라이즈-신세계-52주-신고가-달성-매경-자이앤트-313298",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-05-13T16:06:07.306Z",
+    "updatedAt": "2026-05-13T16:06:07.306Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/stock/12046031",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12046031",
+    "titleFingerprint": "755503287d265e9486dcd0d4c2fb38f16a135f85",
+    "dedupKeys": [
+      "5cd66ac038479a026bd577c35cab56cd3bee3d8f",
+      "755503287d265e9486dcd0d4c2fb38f16a135f85",
+      "0cb39162a86aaea203278f7ade55b613798356ad"
+    ],
+    "imageUrl": "/images/articles/5cd66ac03847.png",
+    "i18n": {
+      "ko": {
+        "title": "신세계 1분기 어닝 서프라이즈에 52주 신고가, 장초반 11.78% 급등",
+        "excerpt": "신세계가 1분기 호실적 발표 이후 13일 오전 장초반 52주 신고가를 기록했다. 오전 9시23분 주가는 전 거래일보다 11.78% 오른 49만3500원에 거래됐다.",
+        "body": "신세계가 1분기 호실적을 발표한 뒤 13일 오전 장초반 52주 신고가를 달성했다. 이날 오전 9시23분 기준 신세계는 전 거래일보다 5만2000원, 11.78% 오른 49만3500원에 거래되고 있다. 원문은 1분기 실적 호조가 주가 상승의 배경으로 제시됐다고 전했다. 장 초반 두 자릿수 상승률을 기록하며 투자자들의 관심이 신세계 실적과 주가 흐름에 집중되는 모습이다. 다만 기사에 제시된 수치는 해당 시각의 거래 가격과 등락률 기준이다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Shinsegae Hits 52-Week High After Q1 Earnings Surprise, Shares Jump 11.78%",
+        "excerpt": "Shinsegae reached a 52-week high in early trading on May 13 after reporting strong first-quarter results, trading at 493,500 won, up 11.78%, as of 9:23 a.m.",
+        "body": "Shinsegae reached a 52-week high in early trading on May 13 after announcing strong first-quarter results. As of 9:23 a.m., Shinsegae was trading at 493,500 won, up 52,000 won, or 11.78%, from the previous session. The original report cited the company’s solid first-quarter performance as the background for the stock’s rise. With a double-digit gain early in the session, investor attention was focused on Shinsegae’s earnings and share-price movement. The figures cited in the article are based on the trading price and percentage change at that time. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "新世界、1～3月期好業績で52週高値　序盤に11.78％急騰",
+        "excerpt": "新世界は1～3月期の好業績発表後、5月13日午前の取引序盤に52週高値を記録。午前9時23分時点で前日比11.78％高の49万3500ウォンで取引された。",
+        "body": "新世界は1～3月期の好業績を発表した後、5月13日午前の取引序盤に52週高値を達成した。同日午前9時23分時点で、新世界は前営業日比5万2000ウォン、11.78％高の49万3500ウォンで取引されている。原文は、1～3月期決算の好調さが株価上昇の背景として示されたと伝えた。取引序盤に二桁の上昇率を記録し、投資家の関心は新世界の業績と株価の動きに集まっている。記事に示された数値は当該時点の取引価格と騰落率に基づく。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "新世界一季度业绩超预期创52周新高，早盘大涨11.78%",
+        "excerpt": "新世界发布一季度良好业绩后，于5月13日早盘创下52周新高。截至上午9点23分，股价较前一交易日上涨11.78%，报493500韩元。",
+        "body": "新世界在公布一季度良好业绩后，于5月13日早盘创下52周新高。当天上午9点23分，新世界较前一交易日上涨52000韩元，涨幅为11.78%，报493500韩元。原文称，一季度业绩向好是推动股价上涨的背景。早盘录得两位数涨幅，使投资者关注新世界的业绩表现和股价走势。不过，报道中列出的数据均以该时点的成交价格和涨跌幅为准。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Shinsegae marca máximo de 52 semanas tras sorpresa en resultados del 1T",
+        "excerpt": "Shinsegae alcanzó un máximo de 52 semanas en la mañana del 13 de mayo tras publicar sólidos resultados del primer trimestre; a las 9:23 cotizaba a 493.500 wones, un 11,78% más.",
+        "body": "Shinsegae alcanzó un máximo de 52 semanas en las primeras operaciones del 13 de mayo después de anunciar sólidos resultados del primer trimestre. A las 9:23 a.m., la acción cotizaba a 493.500 wones, 52.000 wones más que en la sesión anterior, con un alza del 11,78%. El informe original señaló el buen desempeño trimestral como el contexto del avance bursátil. Con una subida de dos dígitos al inicio de la jornada, la atención de los inversores se centró en los resultados y en el movimiento de la acción. Las cifras citadas corresponden al precio y variación de ese momento. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Shinsegae atinge máxima de 52 semanas após surpresa no lucro do 1º tri",
+        "excerpt": "A Shinsegae chegou à máxima de 52 semanas no início do pregão de 13 de maio após divulgar bons resultados do primeiro trimestre; às 9h23, subia 11,78%, a 493.500 won.",
+        "body": "A Shinsegae atingiu a máxima de 52 semanas no início das negociações de 13 de maio após anunciar resultados fortes no primeiro trimestre. Às 9h23, a ação era negociada a 493.500 won, alta de 52.000 won, ou 11,78%, em relação ao pregão anterior. A reportagem original apontou o desempenho positivo do primeiro trimestre como o contexto da valorização. Com avanço de dois dígitos logo no começo da sessão, a atenção dos investidores se voltou aos resultados e ao movimento das ações da Shinsegae. Os números citados se referem ao preço e à variação naquele horário. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Shinsegae erreicht 52-Wochen-Hoch nach starkem Q1, Aktie steigt 11,78%",
+        "excerpt": "Shinsegae markierte am Morgen des 13. Mai nach starken Ergebnissen im ersten Quartal ein 52-Wochen-Hoch. Um 9:23 Uhr notierte die Aktie 11,78% höher bei 493.500 Won.",
+        "body": "Shinsegae hat am 13. Mai im frühen Handel nach der Veröffentlichung starker Ergebnisse für das erste Quartal ein 52-Wochen-Hoch erreicht. Um 9:23 Uhr wurde die Aktie bei 493.500 Won gehandelt, 52.000 Won oder 11,78% höher als am vorherigen Handelstag. Der ursprüngliche Bericht nannte die guten Quartalsergebnisse als Hintergrund für den Kursanstieg. Mit einem zweistelligen Plus zu Handelsbeginn rückten die Ergebnisse und die Kursbewegung von Shinsegae in den Fokus der Anleger. Die genannten Zahlen beziehen sich auf den Kurs und die Veränderung zu diesem Zeitpunkt. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Shinsegae atteint un plus haut de 52 semaines après de solides résultats T1",
+        "excerpt": "Shinsegae a atteint un plus haut de 52 semaines dans les premiers échanges du 13 mai après de bons résultats trimestriels; à 9h23, l’action gagnait 11,78%, à 493 500 wons.",
+        "body": "Shinsegae a atteint un plus haut de 52 semaines dans les premiers échanges du 13 mai après l’annonce de solides résultats au premier trimestre. À 9h23, le titre se négociait à 493 500 wons, en hausse de 52 000 wons, soit 11,78%, par rapport à la séance précédente. L’article original a présenté la bonne performance trimestrielle comme le contexte de la progression du cours. Avec une hausse à deux chiffres en début de séance, l’attention des investisseurs s’est portée sur les résultats de Shinsegae et l’évolution de son action. Les chiffres cités correspondent au prix et à la variation à cet instant. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "شينسيغيه تسجل أعلى مستوى في 52 أسبوعا بعد نتائج قوية للربع الأول",
+        "excerpt": "سجلت شينسيغيه أعلى مستوى في 52 أسبوعا في التعاملات المبكرة يوم 13 مايو بعد إعلان نتائج قوية للربع الأول، وبلغ السهم 493500 وون عند 9:23 صباحا مرتفعا 11.78%.",
+        "body": "سجلت شينسيغيه أعلى مستوى في 52 أسبوعا في التعاملات المبكرة يوم 13 مايو بعد إعلان نتائج قوية للربع الأول. وبحلول الساعة 9:23 صباحا، كان السهم يتداول عند 493500 وون، مرتفعا 52000 وون أو 11.78% عن الجلسة السابقة. وذكر التقرير الأصلي أن الأداء الجيد في الربع الأول كان خلفية صعود السهم. ومع تسجيل مكسب من رقمين في بداية الجلسة، تركز اهتمام المستثمرين على نتائج شينسيغيه وحركة سعر سهمها. الأرقام الواردة تستند إلى سعر التداول ونسبة التغير في ذلك التوقيت. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "पहली तिमाही के मजबूत नतीजों के बाद Shinsegae 52-सप्ताह के उच्च स्तर पर",
+        "excerpt": "Shinsegae ने पहली तिमाही के मजबूत नतीजों के बाद 13 मई की शुरुआती ट्रेडिंग में 52-सप्ताह का उच्च स्तर छुआ। सुबह 9:23 बजे शेयर 11.78% बढ़कर 493,500 वॉन पर था।",
+        "body": "Shinsegae ने पहली तिमाही के मजबूत नतीजे घोषित करने के बाद 13 मई की सुबह शुरुआती कारोबार में 52-सप्ताह का उच्च स्तर हासिल किया। सुबह 9:23 बजे Shinsegae का शेयर पिछले कारोबारी दिन से 52,000 वॉन, यानी 11.78%, बढ़कर 493,500 वॉन पर कारोबार कर रहा था। मूल रिपोर्ट ने शेयर में तेजी की पृष्ठभूमि के रूप में पहली तिमाही के अच्छे प्रदर्शन को बताया। सत्र की शुरुआत में दो अंकों की बढ़त के साथ निवेशकों का ध्यान Shinsegae के नतीजों और शेयर की चाल पर केंद्रित रहा। लेख में दिए गए आंकड़े उसी समय के ट्रेडिंग मूल्य और बदलाव पर आधारित हैं। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Shinsegae Capai Tertinggi 52 Pekan Usai Kejutan Laba Kuartal I",
+        "excerpt": "Shinsegae menyentuh level tertinggi 52 pekan pada awal perdagangan 13 Mei setelah merilis kinerja kuartal I yang kuat; pukul 09.23 saham naik 11,78% ke 493.500 won.",
+        "body": "Shinsegae mencapai level tertinggi 52 pekan pada awal perdagangan 13 Mei setelah mengumumkan kinerja kuartal pertama yang kuat. Pada pukul 09.23, saham Shinsegae diperdagangkan di 493.500 won, naik 52.000 won atau 11,78% dari sesi sebelumnya. Laporan asli menyebut kinerja kuartal pertama yang baik sebagai latar kenaikan harga saham. Dengan kenaikan dua digit pada awal sesi, perhatian investor tertuju pada hasil kinerja Shinsegae dan pergerakan sahamnya. Angka yang dikutip mengacu pada harga perdagangan dan persentase perubahan pada waktu tersebut. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "b0aab08ecd92",
+    "slug": "오상헬스케어-멕시코-정부에-당화혈색소-측정기-대규모-공급경쟁력-입증-446417",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-05-13T16:05:08.416Z",
+    "updatedAt": "2026-05-13T16:05:08.416Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/stock/12046357",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12046357",
+    "titleFingerprint": "153fd6356380b88426185ff0006a3f795f004d30",
+    "dedupKeys": [
+      "b0aab08ecd92da69f9351c481a350c91f1f75687",
+      "153fd6356380b88426185ff0006a3f795f004d30",
+      "b99b2a2779f36a6935415984830af51788bf8e41"
+    ],
+    "imageUrl": "/images/articles/b0aab08ecd92.jpg",
+    "i18n": {
+      "ko": {
+        "title": "오상헬스케어, 멕시코 정부 당화혈색소 측정기 공급으로 경쟁력 확인",
+        "excerpt": "체외진단 전문기업 오상헬스케어가 13일 멕시코 정부에 당화혈색소 측정기를 대규모 공급한다고 밝히며 현장 진단 솔루션 시장에서 경쟁력을 입증했다.",
+        "body": "체외진단 전문기업 오상헬스케어가 13일 멕시코 정부에 당화혈색소 측정기를 대규모로 공급한다고 밝혔다. 이번 공급은 멕시코 정부를 대상으로 한 당화혈색소 측정기 납품으로, 오상헬스케어의 체외진단 제품 경쟁력을 보여주는 사례로 제시됐다. 회사는 다나허(Danaher) 계열사이자 현장 진단 솔루션 분야 선도기업으로 알려진 헤모큐(HemoCue)와 관련된 공급 내용을 공개했다. 당화혈색소 측정기는 혈당 관리와 진단 과정에서 활용되는 체외진단 장비다. 이번 멕시코 정부 공급은 해외 공공 부문에서 오상헬스케어 제품의 입지를 넓히는 계기가 될 수 있다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Osang Healthcare to Supply HbA1c Analyzers to Mexico Government, Proving Competitiveness",
+        "excerpt": "Osang Healthcare said on the 13th it will supply HbA1c analyzers to the Mexican government, highlighting its competitiveness in the point-of-care diagnostics market.",
+        "body": "Osang Healthcare, a specialist in in vitro diagnostics, said on the 13th that it will supply a large volume of HbA1c analyzers to the Mexican government. The deal is presented as a case showing the competitiveness of Osang Healthcare’s diagnostic products through a government supply project in Mexico. The company disclosed the supply in connection with HemoCue, known as a Danaher affiliate and a leading company in point-of-care diagnostic solutions. HbA1c analyzers are in vitro diagnostic devices used in blood glucose management and diagnostic processes. The Mexican government supply could help expand Osang Healthcare’s presence in overseas public-sector markets. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "オサンヘルスケア、メキシコ政府へHbA1c測定器を大規模供給し競争力を確認",
+        "excerpt": "体外診断専門企業のオサンヘルスケアは13日、メキシコ政府にHbA1c測定器を大規模供給すると発表し、現場診断市場での競争力を示した。",
+        "body": "体外診断専門企業のオサンヘルスケアは13日、メキシコ政府にHbA1c測定器を大規模に供給すると明らかにした。今回の供給は、メキシコ政府向けのHbA1c測定器納入であり、同社の体外診断製品の競争力を示す事例として提示された。会社は、ダナハー（Danaher）傘下で現場診断ソリューション分野の先導企業として知られるヘモキュー（HemoCue）に関連した供給内容を公開した。HbA1c測定器は血糖管理と診断過程で使われる体外診断機器だ。今回のメキシコ政府向け供給は、海外公共部門で同社製品の存在感を広げる契機となり得る。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "Osang Healthcare向墨西哥政府大规模供应糖化血红蛋白检测仪，验证竞争力",
+        "excerpt": "体外诊断企业Osang Healthcare于13日表示，将向墨西哥政府大规模供应糖化血红蛋白检测仪，显示其在现场诊断解决方案市场的竞争力。",
+        "body": "体外诊断专业企业Osang Healthcare于13日表示，将向墨西哥政府大规模供应糖化血红蛋白检测仪。此次供应面向墨西哥政府，被视为展示Osang Healthcare体外诊断产品竞争力的案例。公司公开了与HemoCue相关的供应内容；HemoCue是Danaher旗下公司，并被称为现场诊断解决方案领域的领先企业。糖化血红蛋白检测仪是用于血糖管理和诊断流程的体外诊断设备。此次向墨西哥政府供货，可能成为Osang Healthcare扩大其产品在海外公共部门市场地位的契机。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Osang Healthcare suministrará analizadores HbA1c al Gobierno de México y prueba su competitividad",
+        "excerpt": "Osang Healthcare informó el día 13 que suministrará analizadores de hemoglobina glucosilada al Gobierno de México, reforzando su competitividad en diagnóstico en el punto de atención.",
+        "body": "Osang Healthcare, empresa especializada en diagnóstico in vitro, informó el día 13 que suministrará a gran escala analizadores de hemoglobina glucosilada al Gobierno de México. El suministro se presenta como un caso que muestra la competitividad de sus productos de diagnóstico in vitro mediante una entrega al sector público mexicano. La compañía divulgó detalles relacionados con HemoCue, conocida como filial de Danaher y empresa líder en soluciones de diagnóstico en el punto de atención. Los analizadores HbA1c se usan en la gestión de la glucosa en sangre y en procesos de diagnóstico. Este suministro al Gobierno de México podría ampliar la presencia de Osang Healthcare en el sector público extranjero. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Osang Healthcare fornecerá medidores de HbA1c ao governo do México e comprova competitividade",
+        "excerpt": "A Osang Healthcare informou no dia 13 que fornecerá medidores de hemoglobina glicada ao governo mexicano, demonstrando competitividade no mercado de diagnóstico no ponto de atendimento.",
+        "body": "A Osang Healthcare, empresa especializada em diagnóstico in vitro, informou no dia 13 que fornecerá em grande escala medidores de hemoglobina glicada ao governo do México. O fornecimento é apresentado como um caso que demonstra a competitividade dos produtos de diagnóstico in vitro da empresa por meio de uma entrega ao governo mexicano. A companhia divulgou informações relacionadas à HemoCue, conhecida como afiliada da Danaher e líder em soluções de diagnóstico no ponto de atendimento. Os medidores de HbA1c são equipamentos de diagnóstico in vitro usados na gestão da glicose no sangue e em processos de diagnóstico. O acordo pode ampliar a presença da Osang Healthcare no setor público externo. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Osang Healthcare liefert HbA1c-Messgeräte an Mexikos Regierung und belegt Wettbewerbsfähigkeit",
+        "excerpt": "Osang Healthcare teilte am 13. mit, HbA1c-Messgeräte in großem Umfang an die mexikanische Regierung zu liefern und damit seine Stärke im Point-of-Care-Diagnostikmarkt zu zeigen.",
+        "body": "Osang Healthcare, ein Spezialist für In-vitro-Diagnostik, teilte am 13. mit, dass das Unternehmen HbA1c-Messgeräte in großem Umfang an die mexikanische Regierung liefern wird. Die Lieferung an Mexikos Regierung wird als Beispiel für die Wettbewerbsfähigkeit der In-vitro-Diagnostikprodukte des Unternehmens dargestellt. Osang Healthcare veröffentlichte Angaben zu einer Lieferung im Zusammenhang mit HemoCue, einem Danaher-Unternehmen, das als führend bei Point-of-Care-Diagnoselösungen bekannt ist. HbA1c-Messgeräte werden bei der Blutzuckerkontrolle und in Diagnoseprozessen eingesetzt. Die Lieferung an Mexikos Regierung könnte die Präsenz von Osang Healthcare im öffentlichen Sektor im Ausland ausbauen. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Osang Healthcare fournira des analyseurs HbA1c au gouvernement mexicain et confirme sa compétitivité",
+        "excerpt": "Osang Healthcare a annoncé le 13 qu’elle fournira des analyseurs d’hémoglobine glyquée au gouvernement mexicain, montrant sa compétitivité dans le diagnostic au point de soins.",
+        "body": "Osang Healthcare, spécialiste du diagnostic in vitro, a annoncé le 13 qu’elle fournira à grande échelle des analyseurs d’hémoglobine glyquée au gouvernement mexicain. Cette fourniture au gouvernement du Mexique est présentée comme un exemple de la compétitivité des produits de diagnostic in vitro de l’entreprise. La société a communiqué des éléments liés à HemoCue, connue comme filiale de Danaher et entreprise de premier plan dans les solutions de diagnostic au point de soins. Les analyseurs HbA1c sont des dispositifs de diagnostic in vitro utilisés dans la gestion de la glycémie et les processus de diagnostic. Cette fourniture pourrait élargir la présence d’Osang Healthcare dans le secteur public étranger. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "أوسانغ هيلث كير تزود حكومة المكسيك بأجهزة قياس HbA1c وتؤكد تنافسيتها",
+        "excerpt": "أعلنت أوسانغ هيلث كير في 13 من الشهر أنها ستزود حكومة المكسيك بأجهزة قياس الهيموغلوبين السكري على نطاق واسع، ما يبرز قدرتها التنافسية في سوق التشخيص الميداني.",
+        "body": "أعلنت شركة أوسانغ هيلث كير، المتخصصة في التشخيص خارج الجسم، في 13 من الشهر أنها ستورد كميات كبيرة من أجهزة قياس الهيموغلوبين السكري إلى حكومة المكسيك. ويعرض هذا التوريد إلى الحكومة المكسيكية كحالة تظهر تنافسية منتجات الشركة في مجال التشخيص خارج الجسم. وكشفت الشركة عن تفاصيل توريد مرتبطة بشركة HemoCue، المعروفة بأنها تابعة لـ Danaher ورائدة في حلول التشخيص في نقطة الرعاية. وتستخدم أجهزة HbA1c في إدارة سكر الدم وعمليات التشخيص. وقد يشكل هذا التوريد لحكومة المكسيك فرصة لتوسيع حضور أوسانغ هيلث كير في القطاع العام الخارجي. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "Osang Healthcare मेक्सिको सरकार को HbA1c मीटर की बड़ी आपूर्ति कर प्रतिस्पर्धा साबित करेगी",
+        "excerpt": "इन-विट्रो डायग्नोस्टिक्स कंपनी Osang Healthcare ने 13 तारीख को कहा कि वह मेक्सिको सरकार को HbA1c मीटर बड़े पैमाने पर आपूर्ति करेगी, जिससे पॉइंट-ऑफ-केयर निदान बाजार में उसकी प्रतिस्पर्धा दिखी।",
+        "body": "इन-विट्रो डायग्नोस्टिक्स विशेषज्ञ Osang Healthcare ने 13 तारीख को बताया कि वह मेक्सिको सरकार को HbA1c मीटर बड़े पैमाने पर आपूर्ति करेगी। यह आपूर्ति मेक्सिको सरकार के लिए HbA1c मीटर की डिलीवरी है और इसे कंपनी के इन-विट्रो डायग्नोस्टिक उत्पादों की प्रतिस्पर्धात्मकता दिखाने वाले उदाहरण के रूप में प्रस्तुत किया गया। कंपनी ने HemoCue से संबंधित आपूर्ति विवरण साझा किए, जिसे Danaher की सहयोगी और पॉइंट-ऑफ-केयर डायग्नोस्टिक समाधानों की अग्रणी कंपनी के रूप में जाना जाता है। HbA1c मीटर रक्त शर्करा प्रबंधन और निदान प्रक्रियाओं में उपयोग होने वाला इन-विट्रो डायग्नोस्टिक उपकरण है। यह आपूर्ति विदेशी सार्वजनिक क्षेत्र में Osang Healthcare की उपस्थिति बढ़ाने का अवसर बन सकती है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Osang Healthcare Pasok Alat HbA1c ke Pemerintah Meksiko, Buktikan Daya Saing",
+        "excerpt": "Osang Healthcare menyatakan pada tanggal 13 bahwa pihaknya akan memasok alat ukur HbA1c dalam jumlah besar kepada pemerintah Meksiko, menegaskan daya saingnya di pasar diagnostik point-of-care.",
+        "body": "Osang Healthcare, perusahaan spesialis diagnostik in vitro, menyatakan pada tanggal 13 bahwa pihaknya akan memasok alat ukur HbA1c dalam skala besar kepada pemerintah Meksiko. Pasokan ini ditujukan kepada pemerintah Meksiko dan disajikan sebagai contoh yang menunjukkan daya saing produk diagnostik in vitro Osang Healthcare. Perusahaan mengungkap informasi pasokan yang terkait dengan HemoCue, yang dikenal sebagai afiliasi Danaher dan perusahaan terkemuka di bidang solusi diagnostik point-of-care. Alat ukur HbA1c digunakan dalam pengelolaan gula darah dan proses diagnosis. Pasokan kepada pemerintah Meksiko ini dapat menjadi peluang untuk memperluas posisi produk Osang Healthcare di sektor publik luar negeri. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "d99ff36e8789",
+    "slug": "주가-오를수록-불안해진다-국민연금-100조-매도설의-진실-515574",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-05-13T16:04:04.039Z",
+    "updatedAt": "2026-05-13T16:04:04.039Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/stock/12046210",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12046210",
+    "titleFingerprint": "037e152c207fb46c635ac2717c082b14ab86b494",
+    "dedupKeys": [
+      "d99ff36e878923010eba4d7f9cb4f299959ddb81",
+      "037e152c207fb46c635ac2717c082b14ab86b494",
+      "9d78e75c4c82dc3f655e0d865bb20f87e27ba0bb"
+    ],
+    "imageUrl": "/images/articles/d99ff36e8789.jpg",
+    "i18n": {
+      "ko": {
+        "title": "국민연금 100조 매도설, 코스피 8000 앞둔 시장 불안의 핵심",
+        "excerpt": "코스피가 8000포인트 재돌파 기대를 키우는 가운데 국내 증시 활황이 이어지며 국민연금 리밸런싱과 ‘100조 매도설’에 시장 관심이 집중되고 있다.",
+        "body": "코스피가 8000포인트 재돌파를 눈앞에 두면서 국내 주식 시장에서는 국민연금의 움직임에 대한 관심이 커지고 있다. 주가 상승세가 이어질수록 국민연금이 자산 비중을 맞추기 위해 국내 주식을 조정할 수 있다는 리밸런싱 우려가 함께 부각되는 흐름이다. 시장에서는 이 과정이 ‘100조 매도설’로 확대되며 불안 요인으로 거론되고 있다. 다만 제시된 원문 정보상 구체적인 매도 규모나 시점은 확인되지 않았다. 향후 증시가 활황을 이어갈수록 국민연금의 자산 배분 변화 여부가 투자 심리에 영향을 줄 수 있다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "National Pension’s 100 Trillion Won Selloff Rumor Clouds KOSPI 8000 Hopes",
+        "excerpt": "As expectations grow for the KOSPI to retake 8000, investor attention is turning to the National Pension Service and concerns over rebalancing in a rising domestic stock market.",
+        "body": "As the KOSPI nears a possible return to the 8000-point level, attention in South Korea’s stock market is increasingly focused on the National Pension Service. The stronger the domestic equity rally becomes, the more investors are watching whether the fund may adjust its Korean stock holdings to rebalance assets. That concern has expanded in the market into talk of a “100 trillion won selloff rumor,” adding to unease as share prices rise. However, the information provided in the original summary does not confirm a specific selling amount or timing. If the market rally continues, possible changes in the National Pension Service’s asset allocation may remain a factor for investor sentiment. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "国民年金100兆ウォン売却説、KOSPI8000目前で市場不安の焦点に",
+        "excerpt": "KOSPIが8000ポイント再突破への期待を高めるなか、国内株式市場の活況に伴い、国民年金のリバランスと「100兆ウォン売却説」に関心が集まっている。",
+        "body": "KOSPIが8000ポイント再突破を目前にするなか、韓国株式市場では国民年金の動きへの関心が高まっている。国内株の上昇基調が続くほど、国民年金が資産比率を調整するため韓国株を見直す可能性があるとのリバランス懸念も浮上している。この懸念は市場で「100兆ウォン売却説」として広がり、株高局面の不安材料として語られている。ただし、提示された原文情報では具体的な売却規模や時期は確認されていない。今後も相場の活況が続けば、国民年金の資産配分の変化が投資心理に影響する可能性がある。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "国民年金100万亿韩元卖出传闻，KOSPI 8000点前引发关注",
+        "excerpt": "随着KOSPI重返8000点的期待升温，韩国股市持续活跃，市场对国民年金再平衡及“100万亿韩元卖出传闻”的关注同步上升。",
+        "body": "随着KOSPI逼近重新突破8000点，韩国国内股市对国民年金动向的关注正在升温。股价涨势越强，市场越担心国民年金可能为调整资产比重而对韩国股票进行再平衡操作。这一担忧在市场上被放大为“100万亿韩元卖出传闻”，成为股市上涨过程中的不安因素。不过，根据所提供的原文信息，具体卖出规模和时间尚未得到确认。若韩国股市继续保持活跃，国民年金资产配置是否变化，可能继续影响投资者情绪。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Rumor de venta de 100 billones de wones del NPS inquieta al KOSPI 8000",
+        "excerpt": "Mientras aumentan las expectativas de que el KOSPI vuelva a 8000 puntos, el mercado observa al Servicio Nacional de Pensiones y sus posibles ajustes por reequilibrio.",
+        "body": "Mientras el KOSPI se acerca a una posible recuperación del nivel de 8000 puntos, crece la atención del mercado surcoreano sobre los movimientos del Servicio Nacional de Pensiones. Cuanto más se prolonga el auge de las acciones locales, mayor es la preocupación por si el fondo podría ajustar sus tenencias de renta variable coreana para reequilibrar su cartera. Esa inquietud se ha ampliado en el mercado como el “rumor de venta de 100 billones de wones”, un factor de nerviosismo en medio de la subida bursátil. Sin embargo, la información original proporcionada no confirma una cantidad ni un calendario concretos de venta. Si continúa el buen tono del mercado, los cambios en la asignación de activos del NPS podrían influir en el ánimo inversor. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Rumor de venda de 100 trilhões de wons pelo NPS pesa antes do KOSPI 8000",
+        "excerpt": "Com a expectativa de o KOSPI voltar aos 8000 pontos, o mercado acompanha o Serviço Nacional de Pensões e possíveis ajustes de rebalanceamento em meio à alta das ações.",
+        "body": "Com o KOSPI perto de uma possível retomada dos 8000 pontos, cresce no mercado acionário sul-coreano a atenção sobre os movimentos do Serviço Nacional de Pensões. Quanto mais forte se mantém a alta das ações locais, maior é a preocupação de que o fundo possa ajustar sua exposição a ações coreanas para rebalancear os ativos. Essa preocupação ganhou força no mercado como o “rumor de venda de 100 trilhões de wons”, tornando-se um fator de cautela durante a valorização. Porém, as informações fornecidas no resumo original não confirmam um valor ou prazo específico de venda. Se o rali continuar, possíveis mudanças na alocação de ativos do NPS podem seguir afetando o sentimento dos investidores. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "100-Billionen-Won-Verkaufsgerücht um Pensionsfonds belastet KOSPI-8000-Hoffnung",
+        "excerpt": "Während die Erwartung wächst, dass der KOSPI wieder 8000 Punkte erreicht, richtet sich der Blick auf den National Pension Service und mögliche Rebalancing-Sorgen.",
+        "body": "Da der KOSPI vor einer möglichen Rückkehr auf die Marke von 8000 Punkten steht, wächst am südkoreanischen Aktienmarkt das Interesse an den Schritten des National Pension Service. Je länger die Rally am heimischen Aktienmarkt anhält, desto stärker rückt die Sorge in den Vordergrund, der Fonds könne zur Anpassung seiner Vermögensquoten koreanische Aktien umschichten. Diese Sorge hat sich am Markt zum Gerücht eines Verkaufs von 100 Billionen Won ausgeweitet und gilt als Unsicherheitsfaktor bei steigenden Kursen. Die vorliegenden Originalangaben bestätigen jedoch weder ein konkretes Verkaufsvolumen noch einen Zeitpunkt. Setzt sich die Marktdynamik fort, könnten mögliche Änderungen der Asset Allocation des NPS die Anlegerstimmung beeinflussen. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Rumeur de vente de 100 billions de wons par le NPS avant un KOSPI à 8000",
+        "excerpt": "Alors que l’espoir d’un retour du KOSPI à 8000 points grandit, les investisseurs surveillent le Service national des pensions et les risques de rééquilibrage.",
+        "body": "Alors que le KOSPI approche d’un possible retour au seuil des 8000 points, l’attention du marché sud-coréen se porte de plus en plus sur les mouvements du Service national des pensions. Plus la hausse des actions locales se poursuit, plus les investisseurs s’interrogent sur la possibilité que le fonds ajuste ses positions en actions coréennes pour rééquilibrer ses actifs. Cette inquiétude s’est transformée sur le marché en “rumeur de vente de 100 billions de wons”, ajoutant un facteur de nervosité à la progression des cours. Toutefois, les informations originales fournies ne confirment ni montant précis ni calendrier de vente. Si la dynamique boursière continue, toute évolution de l’allocation d’actifs du NPS pourrait peser sur le sentiment des investisseurs. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "شائعة بيع 100 تريليون وون من صندوق التقاعد تثير قلق سوق كوسبي 8000",
+        "excerpt": "مع تزايد توقعات عودة كوسبي إلى مستوى 8000 نقطة، يتركز اهتمام السوق على صندوق التقاعد الوطني ومخاوف إعادة الموازنة مع استمرار صعود الأسهم الكورية.",
+        "body": "مع اقتراب مؤشر كوسبي من احتمال استعادة مستوى 8000 نقطة، يزداد اهتمام سوق الأسهم الكورية الجنوبية بتحركات صندوق التقاعد الوطني. وكلما استمر صعود الأسهم المحلية، برزت مخاوف من أن يقوم الصندوق بتعديل حيازاته من الأسهم الكورية من أجل إعادة موازنة الأصول. وقد توسعت هذه المخاوف في السوق لتصبح ما يعرف بـ“شائعة بيع 100 تريليون وون”، وهو عامل يضيف قلقا مع ارتفاع الأسعار. لكن المعلومات الواردة في الملخص الأصلي لا تؤكد حجما محددا للبيع أو توقيتا معينا. وإذا استمر نشاط السوق، فقد تظل أي تغييرات محتملة في توزيع أصول صندوق التقاعد الوطني مؤثرة في معنويات المستثمرين. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "नेशनल पेंशन की 100 ट्रिलियन वॉन बिक्री अफवाह से KOSPI 8000 से पहले चिंता",
+        "excerpt": "KOSPI के 8000 अंक दोबारा छूने की उम्मीद बढ़ने के बीच बाजार की नजर नेशनल पेंशन सर्विस पर है, क्योंकि तेजी में रीबैलेंसिंग और बिक्री अफवाहों को लेकर चिंता बढ़ी है।",
+        "body": "KOSPI के 8000 अंक के स्तर पर फिर पहुंचने की उम्मीद के बीच दक्षिण कोरिया के शेयर बाजार में नेशनल पेंशन सर्विस की चाल पर ध्यान बढ़ रहा है। घरेलू शेयरों में तेजी जितनी मजबूत होती है, उतनी ही यह चिंता उभरती है कि फंड अपनी परिसंपत्ति हिस्सेदारी संतुलित करने के लिए कोरियाई शेयरों में समायोजन कर सकता है। यही चिंता बाजार में “100 ट्रिलियन वॉन बिक्री अफवाह” के रूप में फैल गई है और बढ़ते बाजार में बेचैनी का कारण बन रही है। हालांकि, उपलब्ध मूल सारांश में बिक्री की कोई निश्चित राशि या समय की पुष्टि नहीं है। यदि बाजार की तेजी जारी रहती है, तो नेशनल पेंशन सर्विस के परिसंपत्ति आवंटन में संभावित बदलाव निवेशक भावना को प्रभावित कर सकते हैं। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Rumor Jual 100 Triliun Won NPS Bayangi Harapan KOSPI Menuju 8000",
+        "excerpt": "Saat ekspektasi KOSPI kembali menembus 8000 poin meningkat, perhatian pasar tertuju pada National Pension Service dan kekhawatiran rebalancing di tengah reli saham Korea.",
+        "body": "Saat KOSPI mendekati peluang kembali menembus level 8000 poin, perhatian di pasar saham Korea Selatan makin tertuju pada langkah National Pension Service. Semakin kuat reli saham domestik berlanjut, semakin besar kekhawatiran bahwa dana tersebut dapat menyesuaikan kepemilikan saham Korea untuk menyeimbangkan kembali asetnya. Kekhawatiran itu berkembang di pasar menjadi “rumor penjualan 100 triliun won” dan menjadi faktor kecemasan saat harga saham naik. Namun, informasi dalam ringkasan asli yang diberikan tidak mengonfirmasi jumlah maupun waktu penjualan tertentu. Jika reli pasar berlanjut, kemungkinan perubahan alokasi aset NPS dapat tetap memengaruhi sentimen investor. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
     "id": "60827c8c523a",
     "slug": "단독-8조-정도에-배민-주인-찾습니다48조에-샀던-독일-자본-매각-착수-950427",
     "channelId": "ETF",
@@ -4271,231 +4496,6 @@
         "title": "Aset ETF TIMEFOLIO Tembus 8 Triliun Won, Global AI dan Korea Dividend Jadi Pendorong",
         "excerpt": "TIMEFOLIO Asset Management pada 12 Mei menyatakan dua ETF aktif unggulan melampaui 2 triliun dan 1 triliun won aset bersih, sehingga total aset ETF perusahaan menembus 8 triliun won.",
         "body": "TIMEFOLIO Asset Management menyatakan pada 12 Mei bahwa aset bersih dua ETF aktif unggulannya, TIME Global AI Artificial Intelligence Active dan TIME Korea Plus Dividend Active, masing-masing melampaui 2 triliun won dan 1 triliun won. Capaian itu membuat total aset ETF yang dikelola perusahaan menembus 8 triliun won. Berdasarkan data Korea Exchange, ETF Global AI mencatat 2,1852 triliun won dan menempati peringkat pertama berdasarkan AUM di antara ETF saham aktif yang tercatat di Korea. Korea Plus Dividend Active menjalankan strategi dividen bulanan yang memadukan saham pemimpin pasar Korea dan saham berdividen tinggi. TIMEFOLIO juga berencana mencatatkan Global Humanoid Robot Industry Active ETF pada 19 Mei. Sumber: hankyung.com."
-      }
-    }
-  },
-  {
-    "id": "0512145f4c19",
-    "slug": "엘앤씨바이오-분석-리투오-흥행에-흑자전환전환청구권-행사-리스크는-유의-885530",
-    "channelId": "ETF",
-    "category": "etf",
-    "publishedAt": "2026-05-12T21:53:27.814Z",
-    "updatedAt": "2026-05-12T21:53:27.814Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/202605121359i",
-    "canonicalUrl": "https://www.hankyung.com/article/202605121359i",
-    "titleFingerprint": "ac9a5bd5c6df8335b8cc6d2e0be34cd9d1fa56e3",
-    "dedupKeys": [
-      "0512145f4c19d5610016bd4a60f3bc939dd509f7",
-      "ac9a5bd5c6df8335b8cc6d2e0be34cd9d1fa56e3",
-      "1f00343ce50c169eb416e9a7342955a0e981629f"
-    ],
-    "imageUrl": "/images/articles/0512145f4c19.png",
-    "i18n": {
-      "ko": {
-        "title": "엘앤씨바이오, 리투오 흥행에 흑자전환…전환청구권 리스크 주목",
-        "excerpt": "엘앤씨바이오는 리투오 흥행을 바탕으로 흑자전환에 성공했지만, 전환청구권 행사 가능성이 투자 판단의 주요 변수로 제기됐다.",
-        "body": "엘앤씨바이오가 리투오 흥행에 힘입어 흑자전환에 성공했다. hankyung.com 보도에 따르면 이번 분석의 핵심은 리투오 성과가 실적 개선으로 이어졌다는 점이다. 다만 전환청구권 행사 가능성은 향후 주가와 주주가치에 영향을 줄 수 있는 리스크로 지목됐다. 회사의 실적 흐름은 개선됐지만, 전환청구권 관련 물량 부담 여부를 함께 살펴볼 필요가 있다는 평가다. 출처: hankyung.com."
-      },
-      "en": {
-        "title": "L&C Bio Turns Profitable on RITOO Momentum as Conversion Risk Draws Attention",
-        "excerpt": "L&C Bio returned to profit on the success of RITOO, but the possible exercise of conversion rights has emerged as a key risk for investors to watch.",
-        "body": "L&C Bio has turned profitable, supported by the strong performance of RITOO. According to hankyung.com, the main point of the analysis is that RITOO’s commercial momentum translated into improved earnings. However, the possible exercise of conversion rights was cited as a risk that could affect the share price and shareholder value. While the company’s earnings trend has improved, investors need to monitor whether conversion-related share supply may create pressure. Source: hankyung.com."
-      },
-      "ja": {
-        "title": "L&C Bio、リトゥオ好調で黒字転換…転換請求権リスクに注意",
-        "excerpt": "L&C Bioはリトゥオの好調を背景に黒字転換したが、転換請求権の行使可能性が投資判断上の主要リスクとして浮上した。",
-        "body": "L&C Bioはリトゥオの好調に支えられ、黒字転換を果たした。hankyung.comによると、今回の分析の焦点はリトゥオの成果が業績改善につながった点にある。一方で、転換請求権の行使可能性は今後の株価や株主価値に影響し得るリスクとして指摘された。業績の流れは改善したものの、転換請求権に関連する株式需給負担の有無をあわせて確認する必要がある。出典: hankyung.com."
-      },
-      "zh": {
-        "title": "L&C Bio借RITOO热销实现扭亏，转换请求权风险受关注",
-        "excerpt": "L&C Bio凭借RITOO热销实现扭亏为盈，但转换请求权可能被行使，成为投资判断中需要关注的主要风险。",
-        "body": "L&C Bio在RITOO热销带动下实现扭亏为盈。据hankyung.com报道，本次分析的核心在于RITOO的表现已转化为业绩改善。不过，转换请求权被行使的可能性被指出为可能影响股价和股东价值的风险。公司业绩趋势虽已改善，但仍需同时关注与转换请求权相关的潜在股份供应压力。来源: hankyung.com."
-      },
-      "es": {
-        "title": "L&C Bio vuelve a beneficios por RITOO, pero vigila el riesgo de conversión",
-        "excerpt": "L&C Bio logró volver a beneficios gracias al éxito de RITOO, aunque la posible ejecución de derechos de conversión se perfila como un riesgo clave.",
-        "body": "L&C Bio volvió a beneficios impulsada por el buen desempeño de RITOO. Según hankyung.com, el punto central del análisis es que el éxito de RITOO se tradujo en una mejora de resultados. Sin embargo, la posible ejecución de derechos de conversión fue señalada como un riesgo que podría afectar la cotización y el valor para los accionistas. Aunque la tendencia de resultados ha mejorado, conviene observar si las acciones vinculadas a la conversión pueden generar presión de oferta. Fuente: hankyung.com."
-      },
-      "pt": {
-        "title": "L&C Bio volta ao lucro com RITOO, mas risco de conversão exige atenção",
-        "excerpt": "A L&C Bio voltou ao lucro com o desempenho de RITOO, mas a possível execução de direitos de conversão surgiu como risco relevante para investidores.",
-        "body": "A L&C Bio voltou ao lucro, apoiada pelo forte desempenho de RITOO. Segundo o hankyung.com, o ponto central da análise é que o sucesso de RITOO se refletiu na melhora dos resultados. Ainda assim, a possível execução de direitos de conversão foi apontada como um risco capaz de afetar o preço das ações e o valor para os acionistas. Embora a trajetória de resultados tenha melhorado, é necessário acompanhar se ações ligadas à conversão poderão gerar pressão de oferta. Fonte: hankyung.com."
-      },
-      "de": {
-        "title": "L&C Bio schafft Gewinnwende dank RITOO, Wandlungsrisiko bleibt im Fokus",
-        "excerpt": "L&C Bio ist dank des Erfolgs von RITOO in die Gewinnzone zurückgekehrt, doch mögliche Wandlungsrechte gelten als wichtiger Risikofaktor.",
-        "body": "L&C Bio hat unterstützt durch den Erfolg von RITOO den Sprung zurück in die Gewinnzone geschafft. Laut hankyung.com liegt der Kern der Analyse darin, dass die RITOO-Dynamik zu einer Verbesserung der Ergebnisse geführt hat. Zugleich wurde die mögliche Ausübung von Wandlungsrechten als Risiko genannt, das Aktienkurs und Aktionärswert beeinflussen könnte. Trotz verbesserter Ertragslage sollten Anleger beobachten, ob daraus zusätzlicher Angebotsdruck bei Aktien entstehen kann. Quelle: hankyung.com."
-      },
-      "fr": {
-        "title": "L&C Bio renoue avec les bénéfices grâce à RITOO, risque de conversion à surveiller",
-        "excerpt": "L&C Bio est repassé dans le vert grâce au succès de RITOO, mais l’exercice possible de droits de conversion reste un risque clé pour les investisseurs.",
-        "body": "L&C Bio a renoué avec les bénéfices grâce à la bonne performance de RITOO. Selon hankyung.com, l’élément central de l’analyse est que le succès de RITOO s’est traduit par une amélioration des résultats. Toutefois, la possibilité d’exercice de droits de conversion a été signalée comme un risque pouvant peser sur le cours de l’action et la valeur pour les actionnaires. Même si la tendance des résultats s’améliore, il faut surveiller une éventuelle pression liée aux actions issues de la conversion. Source: hankyung.com."
-      },
-      "ar": {
-        "title": "إل آند سي بايو تعود للربحية بدعم RITOO ومخاطر التحويل تحت المراقبة",
-        "excerpt": "عادت إل آند سي بايو إلى الربحية بفضل نجاح RITOO، لكن احتمال ممارسة حقوق التحويل برز كعامل خطر رئيسي يجب على المستثمرين متابعته.",
-        "body": "حققت إل آند سي بايو تحولاً إلى الربحية بدعم من الأداء القوي لمنتج RITOO. ووفقاً لما نشره hankyung.com، فإن محور التحليل هو أن نجاح RITOO انعكس على تحسن النتائج المالية. ومع ذلك، أُشير إلى احتمال ممارسة حقوق التحويل بوصفه خطراً قد يؤثر في سعر السهم وقيمة المساهمين. ورغم تحسن مسار الأرباح، يحتاج المستثمرون إلى متابعة ما إذا كانت الأسهم المرتبطة بالتحويل قد تضيف ضغطاً على المعروض. المصدر: hankyung.com."
-      },
-      "hi": {
-        "title": "RITOO की सफलता से L&C Bio मुनाफे में, कन्वर्जन अधिकार जोखिम पर नजर",
-        "excerpt": "L&C Bio ने RITOO की सफलता के दम पर मुनाफे में वापसी की, लेकिन कन्वर्जन अधिकारों के इस्तेमाल की संभावना निवेशकों के लिए प्रमुख जोखिम बनी।",
-        "body": "L&C Bio ने RITOO के मजबूत प्रदर्शन के सहारे मुनाफे में वापसी की है। hankyung.com के अनुसार, इस विश्लेषण का मुख्य बिंदु यह है कि RITOO की सफलता कंपनी के बेहतर नतीजों में बदली। हालांकि, कन्वर्जन अधिकारों के संभावित इस्तेमाल को ऐसा जोखिम बताया गया है जो शेयर मूल्य और शेयरधारक मूल्य को प्रभावित कर सकता है। नतीजों की दिशा सुधरी है, लेकिन कन्वर्जन से जुड़ी संभावित शेयर आपूर्ति के दबाव पर भी नजर रखना जरूरी है। स्रोत: hankyung.com."
-      },
-      "id": {
-        "title": "L&C Bio Berbalik Laba Berkat RITOO, Risiko Hak Konversi Jadi Sorotan",
-        "excerpt": "L&C Bio berhasil berbalik laba berkat kesuksesan RITOO, tetapi potensi pelaksanaan hak konversi menjadi risiko utama yang perlu diperhatikan investor.",
-        "body": "L&C Bio berhasil berbalik laba dengan dukungan kinerja kuat RITOO. Menurut hankyung.com, inti analisis ini adalah bahwa keberhasilan RITOO telah mendorong perbaikan kinerja keuangan. Namun, potensi pelaksanaan hak konversi disebut sebagai risiko yang dapat memengaruhi harga saham dan nilai bagi pemegang saham. Meski tren kinerja membaik, investor tetap perlu mencermati apakah saham terkait konversi dapat menimbulkan tekanan pasokan. Sumber: hankyung.com."
-      }
-    }
-  },
-  {
-    "id": "dbe18b16f5e3",
-    "slug": "nhn-분석-1분기-실적은-기대-못-미쳤지만-지금-사도-부담없는-주가-177523",
-    "channelId": "ETF",
-    "category": "etf",
-    "publishedAt": "2026-05-12T21:52:45.176Z",
-    "updatedAt": "2026-05-12T21:52:45.176Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/202605121443i",
-    "canonicalUrl": "https://www.hankyung.com/article/202605121443i",
-    "titleFingerprint": "ff61333cf442d9a238b0316197eb01b5399d9fb3",
-    "dedupKeys": [
-      "dbe18b16f5e3157fb32da31c86f1a77b00a89669",
-      "ff61333cf442d9a238b0316197eb01b5399d9fb3",
-      "1952e320c35c09c68366e7e36256086d3738c1ae"
-    ],
-    "imageUrl": "/images/articles/dbe18b16f5e3.jpg",
-    "i18n": {
-      "ko": {
-        "title": "NHN 1분기 실적 부진에도 주가 부담 낮다는 분석",
-        "excerpt": "한국경제는 NHN의 1분기 실적이 시장 기대에 못 미쳤지만, 현 주가는 매수 부담이 크지 않다는 분석을 전했다.",
-        "body": "NHN의 1분기 실적이 기대치를 밑돌았지만 현 주가 수준은 매수 부담이 크지 않다는 분석이 나왔다. 한국경제에 따르면 NHN 분석에서는 1분기 성과가 시장 눈높이에 미치지 못한 점이 확인됐다. 다만 주가 측면에서는 지금 사도 부담이 크지 않다는 평가가 함께 제시됐다. 이는 단기 실적 부진에도 현재 가격이 투자자에게 과도한 부담으로 보이지 않는다는 의미로 해석된다. 향후 관건은 실적 개선 여부와 주가 매력의 지속성이다. 출처: hankyung.com"
-      },
-      "en": {
-        "title": "NHN Q1 Results Miss Expectations, but Share Price Seen as Affordable",
-        "excerpt": "Hankyung reported that NHN’s first-quarter results fell short of expectations, while analysis suggested the current share price is not burdensome for buyers.",
-        "body": "NHN’s first-quarter results came in below expectations, but analysis said the current share price does not look burdensome for buying. According to Hankyung, the NHN analysis confirmed that Q1 performance failed to meet market expectations. At the same time, it presented the view that buying at the current price level would not carry a heavy burden. This suggests that, despite weak short-term earnings, the current valuation is not seen as excessive for investors. The key issue ahead is whether earnings improve and whether the stock’s price appeal continues. Source: hankyung.com"
-      },
-      "ja": {
-        "title": "NHN、1四半期決算は期待未達も株価負担は小さいとの分析",
-        "excerpt": "韓国経済は、NHNの1四半期決算が期待を下回った一方、現株価は買いにくい水準ではないとの分析を伝えた。",
-        "body": "NHNの1四半期決算は期待を下回ったが、現在の株価水準は買いの負担が大きくないとの分析が示された。韓国経済によると、NHN分析では1四半期の業績が市場の目線に届かなかった点が確認された。一方で、株価については今買っても負担が大きくないとの評価も示された。これは短期的な業績不振にもかかわらず、現在価格が投資家にとって過度な負担とは見られていないという意味に解釈できる。今後の焦点は業績改善の有無と株価魅力の持続性だ。出典: hankyung.com"
-      },
-      "zh": {
-        "title": "NHN一季度业绩不及预期，但股价被认为买入压力不大",
-        "excerpt": "韩国经济报道，NHN一季度业绩低于市场预期，但分析认为当前股价水平的买入负担并不大。",
-        "body": "NHN一季度业绩低于预期，但有分析认为当前股价水平的买入负担并不大。据韩国经济报道，NHN分析确认了一季度表现未达到市场预期。不过，在股价方面，分析同时提出现在买入负担不大的评价。这意味着尽管短期业绩疲弱，当前价格并未被视为对投资者过度沉重。未来的关键在于业绩能否改善，以及股价吸引力能否持续。来源: hankyung.com"
-      },
-      "es": {
-        "title": "NHN incumple expectativas en el primer trimestre, pero su precio luce accesible",
-        "excerpt": "Hankyung informó que los resultados del primer trimestre de NHN no alcanzaron las expectativas, aunque el precio actual no parece una carga elevada para comprar.",
-        "body": "Los resultados del primer trimestre de NHN quedaron por debajo de las expectativas, pero un análisis señaló que el nivel actual de la acción no supone una carga elevada para comprar. Según Hankyung, el análisis sobre NHN confirmó que el desempeño trimestral no alcanzó la referencia del mercado. Aun así, también presentó la evaluación de que comprar al precio actual no resulta demasiado oneroso. Esto puede interpretarse como que, pese a la debilidad de corto plazo en los resultados, la cotización actual no se considera excesiva para los inversores. La clave será si mejora el desempeño y si se mantiene el atractivo del precio. Fuente: hankyung.com"
-      },
-      "pt": {
-        "title": "NHN decepciona no 1º trimestre, mas preço da ação é visto como acessível",
-        "excerpt": "O Hankyung informou que o resultado do primeiro trimestre da NHN ficou abaixo das expectativas, embora o preço atual não pareça pesado para compra.",
-        "body": "O resultado do primeiro trimestre da NHN ficou abaixo das expectativas, mas uma análise apontou que o nível atual da ação não representa um grande peso para compra. Segundo o Hankyung, a análise da NHN confirmou que o desempenho do trimestre não atingiu as expectativas do mercado. Ao mesmo tempo, apresentou a avaliação de que comprar no preço atual não é excessivamente oneroso. Isso sugere que, apesar da fraqueza de curto prazo nos resultados, o preço atual não é visto como pesado demais para investidores. O ponto central daqui em diante será a melhora dos resultados e a continuidade do atrativo da ação. Fonte: hankyung.com"
-      },
-      "de": {
-        "title": "NHN verfehlt Q1-Erwartungen, Aktie gilt dennoch als wenig belastend",
-        "excerpt": "Hankyung berichtete, dass NHN im ersten Quartal die Erwartungen verfehlte, der aktuelle Aktienkurs für Käufer aber nicht als große Belastung gesehen wird.",
-        "body": "NHN hat im ersten Quartal die Erwartungen verfehlt, doch eine Analyse sieht den aktuellen Aktienkurs nicht als große Belastung für einen Kauf. Laut Hankyung bestätigte die NHN-Analyse, dass die Quartalsleistung hinter den Markterwartungen zurückblieb. Zugleich wurde die Einschätzung geäußert, dass ein Kauf zum aktuellen Kursniveau nicht schwer wiegt. Das deutet darauf hin, dass der derzeitige Preis trotz kurzfristig schwacher Ergebnisse für Anleger nicht als übermäßig belastend gilt. Entscheidend bleibt, ob sich die Ergebnisse verbessern und ob die Kursattraktivität anhält. Quelle: hankyung.com"
-      },
-      "fr": {
-        "title": "NHN déçoit au 1er trimestre, mais le cours reste jugé abordable",
-        "excerpt": "Hankyung a rapporté que les résultats du premier trimestre de NHN ont manqué les attentes, tandis que le cours actuel ne paraît pas trop lourd à l’achat.",
-        "body": "Les résultats du premier trimestre de NHN ont été inférieurs aux attentes, mais une analyse estime que le niveau actuel du cours ne constitue pas une charge importante pour acheter. Selon Hankyung, l’analyse de NHN a confirmé que la performance du trimestre n’a pas atteint les attentes du marché. Elle a toutefois aussi indiqué qu’un achat au prix actuel ne semblait pas trop contraignant. Cela signifie que, malgré une faiblesse de court terme des résultats, le prix actuel n’est pas perçu comme excessif pour les investisseurs. L’enjeu sera désormais l’amélioration des résultats et le maintien de l’attrait du cours. Source: hankyung.com"
-      },
-      "ar": {
-        "title": "نتائج NHN في الربع الأول دون التوقعات لكن السهم يبدو غير مرهق للشراء",
-        "excerpt": "ذكرت هانكيونغ أن نتائج NHN في الربع الأول جاءت دون التوقعات، بينما أشار التحليل إلى أن السعر الحالي لا يشكل عبئا كبيرا على المشترين.",
-        "body": "جاءت نتائج NHN في الربع الأول دون التوقعات، لكن تحليلا أشار إلى أن مستوى سعر السهم الحالي لا يمثل عبئا كبيرا للشراء. وبحسب هانكيونغ، أكد تحليل NHN أن أداء الربع الأول لم يلب توقعات السوق. وفي الوقت نفسه، قدم تقييما بأن الشراء عند السعر الحالي لا يبدو مرهقا. ويعني ذلك أن السعر الحالي، رغم ضعف النتائج على المدى القصير، لا ينظر إليه كعبء مفرط على المستثمرين. وستبقى المسألة الأساسية هي ما إذا كانت النتائج ستتحسن وما إذا كانت جاذبية السعر ستستمر. المصدر: hankyung.com"
-      },
-      "hi": {
-        "title": "NHN की पहली तिमाही कमजोर, फिर भी शेयर कीमत खरीद के लिए कम बोझिल",
-        "excerpt": "हैनक्युंग ने बताया कि NHN के पहली तिमाही नतीजे उम्मीदों से कम रहे, लेकिन विश्लेषण के अनुसार मौजूदा शेयर कीमत खरीदारी के लिए भारी बोझ नहीं है।",
-        "body": "NHN के पहली तिमाही नतीजे उम्मीदों से कम रहे, लेकिन विश्लेषण में कहा गया कि मौजूदा शेयर कीमत खरीदारी के लिए बहुत बोझिल नहीं दिखती। हैनक्युंग के अनुसार, NHN विश्लेषण में पुष्टि हुई कि पहली तिमाही का प्रदर्शन बाजार की अपेक्षाओं तक नहीं पहुंचा। साथ ही यह आकलन भी रखा गया कि मौजूदा स्तर पर खरीदना अधिक 부담 वाला नहीं है। इसका अर्थ है कि अल्पकालिक कमजोर नतीजों के बावजूद मौजूदा कीमत निवेशकों के लिए अत्यधिक भारी नहीं मानी जा रही। आगे मुख्य सवाल नतीजों में सुधार और शेयर की कीमत के आकर्षण की निरंतरता रहेगा। स्रोत: hankyung.com"
-      },
-      "id": {
-        "title": "Kinerja Kuartal I NHN Melenceng, tetapi Harga Saham Dinilai Ringan",
-        "excerpt": "Hankyung melaporkan kinerja kuartal pertama NHN tidak memenuhi ekspektasi, namun analisis menilai harga saham saat ini tidak terlalu membebani pembeli.",
-        "body": "Kinerja kuartal pertama NHN berada di bawah ekspektasi, tetapi sebuah analisis menyebut level harga saham saat ini tidak terlalu membebani untuk dibeli. Menurut Hankyung, analisis NHN mengonfirmasi bahwa capaian kuartal pertama belum memenuhi ekspektasi pasar. Namun dari sisi harga saham, disampaikan pula penilaian bahwa membeli pada level saat ini tidak membawa beban besar. Ini dapat diartikan bahwa meski kinerja jangka pendek lemah, harga sekarang tidak dipandang terlalu berat bagi investor. Fokus berikutnya adalah apakah kinerja membaik dan apakah daya tarik harga saham tetap berlanjut. Sumber: hankyung.com"
-      }
-    }
-  },
-  {
-    "id": "9a1ae73a427f",
-    "slug": "반도체-다음-타자-하루-새-18-폭등외인도-쓸어담았다-202895",
-    "channelId": "ETF",
-    "category": "etf",
-    "publishedAt": "2026-05-12T21:51:51.774Z",
-    "updatedAt": "2026-05-12T21:51:51.775Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/2026051217781",
-    "canonicalUrl": "https://www.hankyung.com/article/2026051217781",
-    "titleFingerprint": "ec4e84a225a1538b99c4f5eca6b6d5fba1b110f1",
-    "dedupKeys": [
-      "9a1ae73a427f1c93ea574f2ac5e746f576d66457",
-      "ec4e84a225a1538b99c4f5eca6b6d5fba1b110f1",
-      "e69f7a3f638ba64d2d251433fbe13113facd98d9"
-    ],
-    "imageUrl": "/images/articles/9a1ae73a427f.jpg",
-    "i18n": {
-      "ko": {
-        "title": "반도체 다음 타자 주목, 하루 18% 급등에 외국인 매수세까지 집중",
-        "excerpt": "한국경제는 반도체 이후 주목받는 종목이 하루 만에 18% 급등했고 외국인 투자자도 매수에 나섰다고 보도했다. 시장 관심은 급등 배경과 수급 흐름에 모였다.",
-        "body": "한국경제는 ‘반도체 다음 타자’로 거론된 종목이 하루 새 18% 폭등하며 시장의 주목을 받았다고 보도했다. 보도에 따르면 해당 종목은 단기간 큰 폭의 상승세를 보였고, 외국인 투자자들도 매수에 적극적으로 나선 것으로 전해졌다. 반도체 업종 이후 새 성장 테마를 찾는 투자자들의 관심이 커지는 가운데, 이번 급등은 외국인 수급이 함께 부각됐다는 점에서 의미가 있다. 다만 기사에서 확인되는 핵심 사실은 하루 18% 상승과 외국인 매수세 집중이다. 향후 시장의 관심은 이 같은 수급 흐름이 이어질지에 맞춰질 전망이다. 출처: hankyung.com"
-      },
-      "en": {
-        "title": "After Semiconductors, Next Market Theme Jumps 18% in a Day as Foreigners Buy",
-        "excerpt": "Hankyung reported that a stock described as the next candidate after semiconductors surged 18% in a single day, with foreign investors also stepping in as buyers.",
-        "body": "Hankyung reported that a stock referred to as the “next runner after semiconductors” jumped 18% in just one day, drawing strong market attention. According to the report, the sharp move came alongside active buying by foreign investors. As investors look for the next growth theme after the semiconductor sector, the combination of a one-day 18% surge and foreign inflows stood out as the key market signal. The confirmed facts from the report are limited to the steep daily gain and concentrated foreign buying. Market attention is therefore likely to remain on whether that buying momentum continues. Source: hankyung.com"
-      },
-      "ja": {
-        "title": "半導体の次の有望株が1日で18％急騰、外国人投資家も買い集め",
-        "excerpt": "韓国経済新聞は、半導体の次に注目される銘柄が1日で18％急騰し、外国人投資家も買いに動いたと報じた。市場の関心は需給に集まった。",
-        "body": "韓国経済新聞は、「半導体の次の有望株」とされる銘柄が1日で18％急騰し、市場の注目を集めたと報じた。報道によると、同銘柄は短期間で大きく上昇し、外国人投資家も積極的に買いに動いたという。半導体業種の次の成長テーマを探す投資家が増えるなか、今回の急騰は外国人の買い需要が同時に目立った点で注目された。確認できる主な事実は、1日で18％上昇したことと外国人買いが集中したことだ。今後はこの需給の流れが続くかが焦点となる。出典: hankyung.com"
-      },
-      "zh": {
-        "title": "半导体之后的下一热点单日大涨18%，外资也集中买入",
-        "excerpt": "韩国经济新闻报道称，被视为半导体之后下一关注对象的个股一天内大涨18%，外国投资者也积极买入，市场关注资金流向。",
-        "body": "韩国经济新闻报道称，被称为“半导体之后下一棒”的个股在一天内暴涨18%，受到市场关注。报道显示，该股短期内出现明显上涨，外国投资者也积极买入。在投资者寻找半导体板块之后的新成长主题之际，此次上涨因同时伴随外资买盘而更受瞩目。报道中可确认的核心事实是，该股单日上涨18%，且外国投资者买入集中。后续市场关注点将放在这种资金流向是否持续。来源: hankyung.com"
-      },
-      "es": {
-        "title": "El relevo tras semiconductores sube 18% en un día con compras extranjeras",
-        "excerpt": "Hankyung informó que un valor señalado como el próximo foco tras los semiconductores subió 18% en una sola sesión, mientras inversores extranjeros también compraron.",
-        "body": "Hankyung informó que un valor descrito como el “siguiente turno después de los semiconductores” se disparó 18% en un solo día y captó la atención del mercado. Según el reporte, la subida rápida estuvo acompañada por compras activas de inversores extranjeros. En un contexto en el que los inversores buscan un nuevo tema de crecimiento tras el sector de semiconductores, el dato clave fue la combinación de una subida diaria del 18% y una entrada destacada de capital extranjero. Los hechos confirmados son ese avance y la concentración de compras extranjeras. La atención se centrará en si ese flujo continúa. Fuente: hankyung.com"
-      },
-      "pt": {
-        "title": "Próxima aposta após semicondutores sobe 18% em um dia com compra estrangeira",
-        "excerpt": "O Hankyung informou que uma ação vista como a próxima aposta após semicondutores subiu 18% em um dia, enquanto investidores estrangeiros também compraram.",
-        "body": "O Hankyung informou que uma ação citada como a “próxima depois dos semicondutores” disparou 18% em apenas um dia, chamando a atenção do mercado. Segundo a reportagem, o forte avanço ocorreu junto com compras ativas de investidores estrangeiros. Enquanto investidores buscam um novo tema de crescimento após o setor de semicondutores, a combinação de alta diária de 18% e fluxo comprador estrangeiro foi o principal ponto de destaque. Os fatos confirmados são a valorização de 18% em um dia e a concentração de compras por estrangeiros. O foco agora será observar se esse movimento de fluxo se mantém. Fonte: hankyung.com"
-      },
-      "de": {
-        "title": "Nächster Favorit nach Halbleitern springt 18% an einem Tag, Ausländer kaufen",
-        "excerpt": "Hankyung berichtete, dass ein als nächster Kandidat nach Halbleitern bezeichneter Wert an einem Tag um 18% stieg und auch ausländische Anleger kauften.",
-        "body": "Hankyung berichtete, dass ein Wert, der als „nächster Kandidat nach Halbleitern“ bezeichnet wurde, innerhalb eines Tages um 18% sprang und damit die Aufmerksamkeit des Marktes auf sich zog. Dem Bericht zufolge wurde der starke Anstieg von aktiven Käufen ausländischer Anleger begleitet. Während Investoren nach dem Halbleitersektor nach einem neuen Wachstumsthema suchen, fiel vor allem die Kombination aus dem Tagesplus von 18% und konzentrierten Auslandskäufen auf. Bestätigt sind der Kurssprung und die starke ausländische Nachfrage. Der Markt wird nun darauf achten, ob diese Mittelzuflüsse anhalten. Quelle: hankyung.com"
-      },
-      "fr": {
-        "title": "Après les semi-conducteurs, une valeur bondit de 18% avec achats étrangers",
-        "excerpt": "Hankyung a rapporté qu’une valeur présentée comme le prochain thème après les semi-conducteurs a gagné 18% en une journée, avec des achats d’investisseurs étrangers.",
-        "body": "Hankyung a rapporté qu’une valeur décrite comme le « prochain relais après les semi-conducteurs » a bondi de 18% en une seule journée, attirant l’attention du marché. Selon l’article, cette forte hausse s’est accompagnée d’achats actifs de la part d’investisseurs étrangers. Alors que les investisseurs cherchent un nouveau thème de croissance après les semi-conducteurs, l’élément marquant est l’association d’une hausse quotidienne de 18% et d’un flux acheteur étranger. Les faits confirmés sont cette progression et la concentration des achats étrangers. Le marché suivra désormais la poursuite éventuelle de ces flux. Source: hankyung.com"
-      },
-      "ar": {
-        "title": "المرشح التالي بعد أشباه الموصلات يقفز 18% في يوم مع شراء أجنبي",
-        "excerpt": "ذكرت هانكيونغ أن سهما وُصف بأنه المرشح التالي بعد قطاع أشباه الموصلات قفز 18% في يوم واحد، فيما اتجه المستثمرون الأجانب أيضا إلى الشراء.",
-        "body": "ذكرت هانكيونغ أن سهما أُشير إليه بوصفه «التالي بعد أشباه الموصلات» قفز 18% خلال يوم واحد، ما جذب اهتمام السوق. وبحسب التقرير، جاء الصعود الحاد متزامنا مع عمليات شراء نشطة من المستثمرين الأجانب. ومع بحث المستثمرين عن موضوع نمو جديد بعد قطاع أشباه الموصلات، برزت في الخبر نقطتان أساسيتان: ارتفاع يومي بنسبة 18% وتركز مشتريات الأجانب. ولا تتجاوز الحقائق المؤكدة في التقرير هذين العنصرين. لذلك سيتركز اهتمام السوق لاحقا على ما إذا كان هذا الزخم في التدفقات الأجنبية سيستمر. المصدر: hankyung.com"
-      },
-      "hi": {
-        "title": "सेमीकंडक्टर के बाद अगला थीम एक दिन में 18% उछला, विदेशी खरीद भी तेज",
-        "excerpt": "Hankyung ने बताया कि सेमीकंडक्टर के बाद अगला उम्मीदवार बताए जा रहे शेयर में एक दिन में 18% की तेजी आई और विदेशी निवेशकों ने भी खरीदारी की।",
-        "body": "Hankyung ने रिपोर्ट किया कि “सेमीकंडक्टर के बाद अगला उम्मीदवार” कहे जा रहे एक शेयर में एक ही दिन में 18% की तेज उछाल आई और बाजार का ध्यान उस पर गया। रिपोर्ट के अनुसार, इस तेज बढ़त के साथ विदेशी निवेशकों की सक्रिय खरीदारी भी दिखी। सेमीकंडक्टर सेक्टर के बाद नए ग्रोथ थीम की तलाश कर रहे निवेशकों के बीच 18% की दैनिक तेजी और विदेशी खरीद का मेल मुख्य संकेत बना। रिपोर्ट से पुष्टि होने वाले तथ्य यही हैं कि शेयर एक दिन में 18% चढ़ा और विदेशी खरीद केंद्रित रही। आगे बाजार की नजर इस बात पर रहेगी कि यह खरीदारी प्रवाह जारी रहता है या नहीं। स्रोत: hankyung.com"
-      },
-      "id": {
-        "title": "Tema berikutnya setelah semikonduktor melonjak 18% sehari, asing ikut borong",
-        "excerpt": "Hankyung melaporkan saham yang disebut sebagai kandidat berikutnya setelah semikonduktor melonjak 18% dalam sehari, dengan investor asing juga aktif membeli.",
-        "body": "Hankyung melaporkan bahwa saham yang disebut sebagai “giliran berikutnya setelah semikonduktor” melonjak 18% hanya dalam satu hari dan menarik perhatian pasar. Menurut laporan tersebut, kenaikan tajam itu disertai pembelian aktif oleh investor asing. Saat investor mencari tema pertumbuhan baru setelah sektor semikonduktor, kombinasi lonjakan harian 18% dan arus beli asing menjadi sorotan utama. Fakta yang terkonfirmasi dari laporan adalah kenaikan 18% dalam sehari serta terkonsentrasinya pembelian asing. Perhatian pasar berikutnya akan tertuju pada apakah arus beli tersebut berlanjut. Sumber: hankyung.com"
       }
     }
   }
