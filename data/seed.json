@@ -1,5 +1,230 @@
 [
   {
+    "id": "adc84a385985",
+    "slug": "거래소-ai-자회사-페어랩스-활용한-인공지능-전환-속도-409237",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-05-13T23:08:00.126Z",
+    "updatedAt": "2026-05-13T23:08:00.126Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/2026051342266",
+    "canonicalUrl": "https://www.hankyung.com/article/2026051342266",
+    "titleFingerprint": "0bd0a26e7145cb5089016273f5fa3fb1e0f0d993",
+    "dedupKeys": [
+      "adc84a385985b05eb2762958a8fb6e5b7163a602",
+      "0bd0a26e7145cb5089016273f5fa3fb1e0f0d993",
+      "69e3c8d31a46bc828626c6f0b8ecba77f1ecdf58"
+    ],
+    "imageUrl": "/images/articles/adc84a385985.jpg",
+    "i18n": {
+      "ko": {
+        "title": "한국거래소, AI 자회사 페어랩스와 자본시장 핵심 업무 인공지능 전환 속도",
+        "excerpt": "한국거래소는 13일 AI 자회사 페어랩스와 자본시장 핵심 업무에 AI를 도입하며 AX 협의체, 공시 분석, 산업분류 자동화 등을 추진한다고 밝혔다.",
+        "body": "한국거래소는 13일 지난 2월 인수한 AI 기술 스타트업 페어랩스(FairLabs)와 함께 자본시장 핵심 업무에 AI를 도입하며 인공지능 전환(AX)에 속도를 내고 있다고 밝혔다. 양사는 AX 협의체를 통해 현업 아이디어를 데모로 구현하고 실무 피드백을 반영하고 있다. 우선 뉴스 데이터에서 횡령, 배임, 부도 등 상장법인 중요 정보를 실시간 포착해 실무자에게 전달하는 솔루션을 도입했다. 또 AI가 공시 자료를 분석해 관리종목 지정·해제 등 시장조치 필요 종목을 체크하는 리포트 기능을 개발한다. 기업 매출 구성과 사업 영역 분석을 통한 산업분류체계 자동화와 마이크로 섹터 지수 개발도 추진한다. 페어랩스는 문체부 41억원 규모 문화기술 R&D 주관 기관으로 선정됐으며, 거래소는 향후 데이터·인덱스 등 외부 수익 사업 연계를 검토한다. 출처: hankyung.com."
+      },
+      "en": {
+        "title": "Korea Exchange Speeds AI Shift With FairLabs Across Core Capital Market Workflows",
+        "excerpt": "Korea Exchange said on May 13 it is applying AI with subsidiary FairLabs to core capital market operations, including disclosure analysis and industry classification automation.",
+        "body": "Korea Exchange said on May 13 that it is accelerating its artificial intelligence transition, or AX, by applying AI technology to core capital market operations with FairLabs, the AI technology startup it acquired in February. The two sides are using an AX council to turn workplace ideas into demo versions and reflect feedback from practitioners. They first introduced a solution that detects important listed-company information such as embezzlement, breach of trust and default from news data in real time and delivers it to staff. They are also developing a report function in which AI analyzes disclosure materials and checks stocks requiring market measures, such as designation as or release from administrative issue status. KRX also plans to automate industry classification management by analyzing corporate revenue mix and business areas, and to develop micro-sector indexes. FairLabs was recently selected to lead a 4.1 billion won culture technology R&D project by the Ministry of Culture, Sports and Tourism. KRX plans to connect FairLabs technology beyond internal support to external revenue businesses such as data and indexes. Source: hankyung.com."
+      },
+      "ja": {
+        "title": "韓国取引所、AI子会社FairLabsで資本市場中核業務のAI転換を加速",
+        "excerpt": "韓国取引所は13日、AI子会社FairLabsと資本市場の中核業務にAIを導入し、AX協議体や開示分析、産業分類の自動化を進めると発表した。",
+        "body": "韓国取引所は13日、2月に買収したAI技術スタートアップのFairLabsとともに、資本市場の中核業務へAI技術を導入し、人工知能転換（AX）を加速していると明らかにした。両社はAX協議体を通じ、現場のアイデアをデモ版として実装し、実務担当者のフィードバックを反映している。まず、ニュースデータから横領、背任、不渡りなど上場法人の重要情報をリアルタイムで捉え、実務者に伝えるソリューションを導入した。また、AIが開示資料を分析し、管理銘柄の指定・解除など市場措置が必要な銘柄を確認するレポート機能を開発する。企業の売上構成と事業領域をAIで分析し、産業分類体系の管理を自動化するとともに、マイクロセクター指数の開発も進める。FairLabsは最近、文化体育観光部主管の41億ウォン規模の文化技術R&D事業の主管機関に選ばれた。取引所は今後、同社の技術を内部業務支援にとどめず、データや指数など外部収益事業と連携する方針だ。出典: hankyung.com."
+      },
+      "zh": {
+        "title": "韩国交易所借AI子公司FairLabs加快资本市场核心业务智能化转型",
+        "excerpt": "韩国交易所13日表示，将与AI子公司FairLabs在资本市场核心业务中引入AI，推进AX协商机制、公告分析和行业分类自动化。",
+        "body": "韩国交易所13日表示，正与今年2月收购的AI技术初创企业FairLabs一起，把AI技术引入资本市场核心业务，加快人工智能转型（AX）。双方通过AX协商机制，将一线业务想法做成演示版本，并吸收实务人员反馈。首先，交易所已引入一项解决方案，可从新闻数据中实时捕捉上市公司涉及贪污、背信、破产等重要信息，并传递给工作人员。交易所还将开发报告功能，由AI分析公告资料，检查是否存在需要采取市场措施的股票，例如指定或解除管理股。其还计划通过AI分析企业收入构成和业务领域，自动化管理行业分类体系，并开发微型行业指数。FairLabs近期被选为韩国文化体育观光部主管的41亿韩元规模文化技术研发项目牵头机构。韩国交易所计划今后将FairLabs技术从内部业务支持延伸至数据、指数等外部收益业务。来源: hankyung.com."
+      },
+      "es": {
+        "title": "Korea Exchange acelera su transición de IA con FairLabs en funciones clave del mercado",
+        "excerpt": "Korea Exchange dijo el 13 de mayo que aplicará IA con su filial FairLabs a tareas centrales del mercado de capitales, como análisis de divulgaciones y clasificación sectorial.",
+        "body": "Korea Exchange informó el 13 de mayo que está acelerando su transición de inteligencia artificial, o AX, al incorporar tecnología de IA en funciones centrales del mercado de capitales junto con FairLabs, la startup de IA que adquirió en febrero. Ambas partes usan un consejo AX para convertir ideas de las áreas operativas en versiones de demostración e incorporar comentarios de los equipos prácticos. Primero introdujeron una solución que detecta en tiempo real, a partir de datos de noticias, información relevante de compañías cotizadas, como malversación, abuso de confianza o incumplimientos, y la entrega al personal. También desarrollan una función de informes en la que la IA analiza documentos de divulgación y revisa valores que requieren medidas de mercado, como designación o retiro de la lista de gestión especial. KRX además prevé automatizar la gestión de la clasificación industrial mediante el análisis de la composición de ingresos y áreas de negocio de las empresas, y desarrollar índices de microsectores. FairLabs fue seleccionada recientemente para liderar un proyecto de I+D de tecnología cultural de 4.100 millones de wones del Ministerio de Cultura, Deportes y Turismo. KRX planea vincular su tecnología a negocios externos de ingresos, como datos e índices. Fuente: hankyung.com."
+      },
+      "pt": {
+        "title": "Korea Exchange acelera transição de IA com FairLabs em operações centrais do mercado",
+        "excerpt": "A Korea Exchange disse em 13 de maio que usará IA com a subsidiária FairLabs em funções centrais do mercado de capitais, incluindo análise de divulgações e classificação setorial.",
+        "body": "A Korea Exchange informou em 13 de maio que está acelerando sua transição de inteligência artificial, ou AX, ao aplicar tecnologia de IA a operações centrais do mercado de capitais com a FairLabs, startup de tecnologia de IA adquirida em fevereiro. As duas partes usam um conselho AX para transformar ideias das áreas de negócio em versões de demonstração e refletir o feedback dos profissionais. Primeiro, foi adotada uma solução que detecta em tempo real, em dados de notícias, informações importantes de companhias listadas, como apropriação indevida, violação de confiança e inadimplência, e as entrega aos funcionários. A bolsa também desenvolve uma função de relatório em que a IA analisa materiais de divulgação e verifica ações que exigem medidas de mercado, como designação ou retirada da condição de empresa sob gestão especial. A KRX ainda planeja automatizar a gestão da classificação industrial ao analisar a composição de receitas e áreas de atuação das empresas, além de desenvolver índices de microssetores. A FairLabs foi escolhida recentemente para liderar um projeto de P&D em tecnologia cultural de 4,1 bilhões de won do Ministério da Cultura, Esportes e Turismo. A KRX pretende ligar a tecnologia da FairLabs a negócios externos de receita, como dados e índices. Fonte: hankyung.com."
+      },
+      "de": {
+        "title": "Korea Exchange beschleunigt KI-Wandel mit FairLabs in zentralen Kapitalmarktprozessen",
+        "excerpt": "Die Korea Exchange teilte am 13. Mai mit, sie führe mit der Tochter FairLabs KI in Kernaufgaben des Kapitalmarkts ein, darunter Offenlegungsanalyse und Branchenklassifikation.",
+        "body": "Die Korea Exchange erklärte am 13. Mai, sie beschleunige ihre KI-Transformation, auch AX genannt, indem sie gemeinsam mit FairLabs, dem im Februar übernommenen KI-Technologie-Startup, KI in zentrale Aufgaben des Kapitalmarkts einführt. Beide Seiten nutzen ein AX-Gremium, um Ideen aus den Fachbereichen als Demoversionen umzusetzen und Rückmeldungen der Praxis aufzunehmen. Zunächst wurde eine Lösung eingeführt, die aus Nachrichtendaten in Echtzeit wichtige Informationen über börsennotierte Unternehmen erkennt, darunter Veruntreuung, Untreue und Zahlungsausfall, und sie an Mitarbeitende weiterleitet. Zudem wird eine Berichtsfunktion entwickelt, bei der KI Offenlegungsunterlagen analysiert und Aktien prüft, für die Marktmaßnahmen wie die Einstufung als Verwaltungswert oder deren Aufhebung erforderlich sein könnten. KRX will außerdem durch Analyse von Umsatzstruktur und Geschäftsfeldern die Verwaltung der Branchenklassifikation automatisieren und Mikro-Sektor-Indizes entwickeln. FairLabs wurde kürzlich vom Ministerium für Kultur, Sport und Tourismus als federführende Institution für ein Kulturtechnologie-Forschungsprojekt im Umfang von 4,1 Milliarden Won ausgewählt. KRX plant, die Technologie künftig über interne Unterstützung hinaus mit externen Erlösfeldern wie Daten und Indizes zu verknüpfen. Quelle: hankyung.com."
+      },
+      "fr": {
+        "title": "Korea Exchange accélère son virage IA avec FairLabs dans les métiers clés du marché",
+        "excerpt": "Korea Exchange a annoncé le 13 mai intégrer l’IA avec sa filiale FairLabs dans les fonctions clés du marché des capitaux, dont l’analyse des publications et la classification sectorielle.",
+        "body": "Korea Exchange a déclaré le 13 mai accélérer sa transition vers l’intelligence artificielle, ou AX, en introduisant des technologies d’IA dans les fonctions clés du marché des capitaux avec FairLabs, la startup de technologie IA acquise en février. Les deux parties utilisent un comité AX pour transformer les idées des équipes opérationnelles en versions de démonstration et intégrer les retours des praticiens. Une première solution détecte en temps réel, dans les données d’actualité, les informations importantes concernant les sociétés cotées, comme le détournement de fonds, l’abus de confiance ou le défaut de paiement, puis les transmet au personnel. KRX développe aussi une fonction de rapport dans laquelle l’IA analyse les documents de publication et repère les titres nécessitant des mesures de marché, comme la désignation ou la levée du statut de valeur sous surveillance. La bourse prévoit également d’automatiser la gestion de la classification industrielle en analysant la composition du chiffre d’affaires et les domaines d’activité des entreprises, et de développer des indices de microsecteurs. FairLabs a récemment été choisie pour piloter un projet de R&D en technologie culturelle de 4,1 milliards de wons du ministère de la Culture, des Sports et du Tourisme. KRX entend relier cette technologie à des activités génératrices de revenus externes, notamment les données et les indices. Source: hankyung.com."
+      },
+      "ar": {
+        "title": "بورصة كوريا تسرّع تحول الذكاء الاصطناعي عبر FairLabs في أعمال سوق رأس المال",
+        "excerpt": "قالت بورصة كوريا في 13 مايو إنها تطبق الذكاء الاصطناعي مع شركتها التابعة FairLabs في أعمال سوق رأس المال الأساسية، بما يشمل تحليل الإفصاحات وأتمتة التصنيف الصناعي.",
+        "body": "قالت بورصة كوريا في 13 مايو إنها تسرّع تحولها إلى الذكاء الاصطناعي، أو AX، عبر إدخال تقنيات الذكاء الاصطناعي في الأعمال الأساسية لسوق رأس المال بالتعاون مع FairLabs، وهي شركة ناشئة في تقنيات الذكاء الاصطناعي استحوذت عليها في فبراير. ويستخدم الطرفان مجلس AX لتحويل أفكار فرق العمل إلى نسخ تجريبية وإدخال ملاحظات العاملين الميدانيين. وقد أدخلا أولا حلا يلتقط من بيانات الأخبار، في الوقت الحقيقي، معلومات مهمة عن الشركات المدرجة مثل الاختلاس وخيانة الأمانة والتعثر، ثم يرسلها إلى الموظفين. كما تطور البورصة وظيفة تقارير تحلل فيها أنظمة الذكاء الاصطناعي مواد الإفصاح وتتحقق من الأسهم التي تتطلب إجراءات سوقية، مثل تعيينها أو إخراجها من قائمة الشركات الخاضعة للإدارة الخاصة. وتخطط KRX أيضا لأتمتة إدارة نظام التصنيف الصناعي عبر تحليل تركيبة إيرادات الشركات ومجالات أعمالها، وتطوير مؤشرات للقطاعات الصغيرة. واختيرت FairLabs مؤخرا لقيادة مشروع بحث وتطوير في تكنولوجيا الثقافة بقيمة 4.1 مليار وون تحت إشراف وزارة الثقافة والرياضة والسياحة. وتعتزم البورصة ربط تقنية FairLabs مستقبلا بأعمال إيرادات خارجية مثل البيانات والمؤشرات، إلى جانب دعم العمل الداخلي. المصدر: hankyung.com."
+      },
+      "hi": {
+        "title": "Korea Exchange ने FairLabs के साथ पूंजी बाजार के मुख्य कामों में AI बदलाव तेज किया",
+        "excerpt": "Korea Exchange ने 13 मई को कहा कि वह सहायक FairLabs के साथ पूंजी बाजार के मुख्य कामों में AI लागू कर रही है, जिनमें डिस्क्लोजर विश्लेषण और उद्योग वर्गीकरण ऑटोमेशन शामिल हैं।",
+        "body": "Korea Exchange ने 13 मई को कहा कि वह फरवरी में अधिग्रहित AI तकनीक स्टार्टअप FairLabs के साथ पूंजी बाजार के मुख्य कार्यों में AI तकनीक लागू करके अपनी आर्टिफिशियल इंटेलिजेंस ट्रांजिशन, यानी AX, को तेज कर रही है। दोनों पक्ष AX परिषद के जरिए कार्यस्थल से मिले विचारों को डेमो संस्करणों में बदलते हैं और व्यावहारिक टीमों की प्रतिक्रिया शामिल करते हैं। पहले चरण में एक समाधान लागू किया गया है, जो समाचार डेटा से सूचीबद्ध कंपनियों की महत्वपूर्ण जानकारी, जैसे गबन, विश्वासघात और डिफॉल्ट, को वास्तविक समय में पहचानकर कर्मचारियों तक पहुंचाता है। साथ ही एक रिपोर्ट सुविधा विकसित की जा रही है, जिसमें AI डिस्क्लोजर दस्तावेजों का विश्लेषण कर उन शेयरों की जांच करेगा जिन पर बाजार संबंधी कदम जरूरी हो सकते हैं, जैसे प्रबंधन श्रेणी में नामित करना या हटाना। KRX कंपनियों की राजस्व संरचना और कारोबार क्षेत्रों का विश्लेषण करके उद्योग वर्गीकरण प्रणाली के प्रबंधन को स्वचालित करने और माइक्रो-सेक्टर इंडेक्स विकसित करने की भी योजना बना रही है। FairLabs को हाल ही में संस्कृति, खेल और पर्यटन मंत्रालय की 4.1 अरब वॉन की संस्कृति तकनीक R&D परियोजना का प्रमुख संस्थान चुना गया है। KRX आगे इस तकनीक को आंतरिक कार्य समर्थन से आगे डेटा और इंडेक्स जैसे बाहरी आय व्यवसायों से जोड़ने की योजना रखती है। स्रोत: hankyung.com."
+      },
+      "id": {
+        "title": "Korea Exchange Percepat Transformasi AI dengan FairLabs di Tugas Inti Pasar Modal",
+        "excerpt": "Korea Exchange pada 13 Mei menyatakan menerapkan AI bersama anak usaha FairLabs pada pekerjaan inti pasar modal, termasuk analisis keterbukaan dan otomatisasi klasifikasi industri.",
+        "body": "Korea Exchange menyatakan pada 13 Mei bahwa pihaknya mempercepat transisi kecerdasan buatan, atau AX, dengan menerapkan teknologi AI pada pekerjaan inti pasar modal bersama FairLabs, startup teknologi AI yang diakuisisi pada Februari. Kedua pihak memakai dewan AX untuk mengubah ide dari lapangan menjadi versi demo dan memasukkan umpan balik praktisi. Mereka lebih dulu memperkenalkan solusi yang mendeteksi secara real time informasi penting perusahaan tercatat dari data berita, seperti penggelapan, pelanggaran kepercayaan, dan gagal bayar, lalu menyampaikannya kepada staf. Mereka juga mengembangkan fungsi laporan di mana AI menganalisis dokumen keterbukaan dan memeriksa saham yang memerlukan tindakan pasar, seperti penetapan atau pencabutan status emiten dalam pengawasan khusus. KRX juga berencana mengotomatisasi pengelolaan klasifikasi industri dengan menganalisis komposisi pendapatan dan bidang usaha perusahaan, serta mengembangkan indeks mikro-sektor. FairLabs baru-baru ini dipilih sebagai lembaga utama proyek R&D teknologi budaya senilai 4,1 miliar won oleh Kementerian Kebudayaan, Olahraga, dan Pariwisata. KRX berencana menghubungkan teknologi FairLabs tidak hanya untuk dukungan internal, tetapi juga dengan bisnis pendapatan eksternal seperti data dan indeks. Sumber: hankyung.com."
+      }
+    }
+  },
+  {
+    "id": "8464e40061ab",
+    "slug": "한-달-만에-220억-몰렸다삼전닉스-앞세운-공모펀드도-들썩-908349",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-05-13T23:06:32.724Z",
+    "updatedAt": "2026-05-13T23:06:32.724Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/202605133944i",
+    "canonicalUrl": "https://www.hankyung.com/article/202605133944i",
+    "titleFingerprint": "2b9171ea68a1e8b2175595cd7c1bfd7ff117ae4f",
+    "dedupKeys": [
+      "8464e40061ab24e00db94ef2cd87523157613d1d",
+      "2b9171ea68a1e8b2175595cd7c1bfd7ff117ae4f",
+      "321afa5a9891d60f60547ee3cf9818fa6ee3a25c"
+    ],
+    "imageUrl": "/images/articles/8464e40061ab.png",
+    "i18n": {
+      "ko": {
+        "title": "삼성전자·SK하이닉스 앞세운 공모펀드, 한 달 만에 220억원 유입",
+        "excerpt": "삼성전자와 SK하이닉스를 앞세운 공모펀드에 최근 한 달 만에 220억원이 몰리며 국내 반도체 대표주를 담은 펀드 상품에 투자자 관심이 커지고 있다.",
+        "body": "삼성전자와 SK하이닉스를 앞세운 공모펀드에 최근 한 달 만에 220억원이 유입됐다. 한국경제 보도에 따르면 국내 대표 반도체 종목을 전면에 내세운 공모펀드가 단기간 자금을 끌어모으며 시장의 관심을 받고 있다. 공모펀드는 개인 투자자도 접근할 수 있는 상품인 만큼, 특정 대형주를 중심으로 한 자금 유입은 투자 수요의 변화를 보여주는 지표로 읽힌다. 관련 상품의 향후 흐름은 삼성전자와 SK하이닉스에 대한 투자심리와 함께 주목될 전망이다. 출처: hankyung.com"
+      },
+      "en": {
+        "title": "Samsung Electronics and SK Hynix Fund Draws 22 Billion Won in One Month",
+        "excerpt": "A public fund led by Samsung Electronics and SK Hynix attracted 22 billion won in one month, highlighting growing investor interest in Korean semiconductor names.",
+        "body": "A public fund featuring Samsung Electronics and SK Hynix attracted 22 billion won in inflows over the past month. According to a report by The Korea Economic Daily, the publicly offered fund has drawn market attention by putting major Korean semiconductor stocks at the center of its portfolio. Because public funds are accessible to individual investors, the short-term inflow is being watched as a sign of demand for large-cap semiconductor exposure. The next phase for related products is expected to be followed alongside investor sentiment toward Samsung Electronics and SK Hynix. Source: hankyung.com"
+      },
+      "ja": {
+        "title": "サムスン電子・SKハイニックス型公募ファンド、1カ月で220億ウォン流入",
+        "excerpt": "サムスン電子とSKハイニックスを前面に出した公募ファンドに、最近1カ月で220億ウォンが流入し、韓国半導体代表株への関心が高まっている。",
+        "body": "サムスン電子とSKハイニックスを前面に出した公募ファンドに、最近1カ月で220億ウォンが流入した。韓国経済新聞の報道によると、韓国の代表的な半導体銘柄を中心に据えた公募ファンドが短期間で資金を集め、市場の注目を受けている。公募ファンドは個人投資家も利用しやすい商品であるため、大型株を軸にした資金流入は投資需要の変化を示す材料として受け止められる。関連商品の今後の動きは、サムスン電子とSKハイニックスへの投資心理とともに注目される見通しだ。出典: hankyung.com"
+      },
+      "zh": {
+        "title": "三星电子、SK海力士主题公募基金一个月吸金220亿韩元",
+        "excerpt": "以三星电子和SK海力士为核心的公募基金近一个月吸引220亿韩元资金流入，显示投资者对韩国半导体龙头股的关注升温。",
+        "body": "以三星电子和SK海力士为核心的公募基金，最近一个月流入资金达220亿韩元。据《韩国经济新闻》报道，主打韩国代表性半导体股票的公募基金在短时间内吸引资金，受到市场关注。由于公募基金也是个人投资者可以参与的产品，围绕特定大型股出现的资金流入，被视为观察投资需求变化的信号。相关产品后续走势预计将与市场对三星电子和SK海力士的投资情绪一同受到关注。来源: hankyung.com"
+      },
+      "es": {
+        "title": "Fondo con Samsung Electronics y SK Hynix capta 22.000 millones de wones",
+        "excerpt": "Un fondo público centrado en Samsung Electronics y SK Hynix recibió 22.000 millones de wones en un mes, reflejando mayor interés por los semiconductores coreanos.",
+        "body": "Un fondo público que destaca a Samsung Electronics y SK Hynix registró entradas de 22.000 millones de wones en el último mes. Según informó The Korea Economic Daily, el producto ha captado atención del mercado al poner en primer plano a grandes valores coreanos de semiconductores. Al tratarse de un fondo público accesible también para inversores particulares, la entrada de capital en torno a grandes compañías se interpreta como una señal de cambio en la demanda inversora. La evolución de estos productos será observada junto con el sentimiento hacia Samsung Electronics y SK Hynix. Fuente: hankyung.com"
+      },
+      "pt": {
+        "title": "Fundo com Samsung Electronics e SK Hynix atrai 22 bilhões de won em um mês",
+        "excerpt": "Um fundo público com foco em Samsung Electronics e SK Hynix atraiu 22 bilhões de won em um mês, mostrando maior interesse por ações coreanas de semicondutores.",
+        "body": "Um fundo público que destaca Samsung Electronics e SK Hynix recebeu 22 bilhões de won em aportes no último mês. Segundo o The Korea Economic Daily, o fundo chamou atenção do mercado ao colocar grandes ações coreanas de semicondutores no centro da estratégia. Como fundos públicos também são acessíveis a investidores individuais, a entrada de recursos em torno de grandes empresas é vista como um indicador de mudança na demanda por investimento. A trajetória desses produtos deve ser acompanhada juntamente com o sentimento em relação a Samsung Electronics e SK Hynix. Fonte: hankyung.com"
+      },
+      "de": {
+        "title": "Samsung Electronics und SK Hynix: Fonds sammelt 22 Mrd. Won in einem Monat ein",
+        "excerpt": "Ein Publikumsfonds mit Samsung Electronics und SK Hynix zog binnen eines Monats 22 Mrd. Won an und zeigt wachsendes Interesse an Koreas Halbleiterwerten.",
+        "body": "Ein Publikumsfonds mit Schwerpunkt auf Samsung Electronics und SK Hynix verzeichnete im vergangenen Monat Zuflüsse von 22 Mrd. Won. Laut einem Bericht der Korea Economic Daily steht der Fonds im Fokus, weil er große koreanische Halbleiteraktien in den Mittelpunkt stellt und in kurzer Zeit Kapital anzog. Da Publikumsfonds auch Privatanlegern offenstehen, gilt der Zufluss in große Einzelwerte als Hinweis auf eine veränderte Investmentnachfrage. Die weitere Entwicklung entsprechender Produkte dürfte zusammen mit der Anlegerstimmung gegenüber Samsung Electronics und SK Hynix beobachtet werden. Quelle: hankyung.com"
+      },
+      "fr": {
+        "title": "Samsung Electronics et SK Hynix portent un fonds qui capte 22 Mds de wons",
+        "excerpt": "Un fonds public axé sur Samsung Electronics et SK Hynix a attiré 22 milliards de wons en un mois, signe d’un intérêt accru pour les semi-conducteurs coréens.",
+        "body": "Un fonds public mettant en avant Samsung Electronics et SK Hynix a enregistré 22 milliards de wons d’entrées sur le dernier mois. Selon The Korea Economic Daily, ce fonds attire l’attention du marché en plaçant les grands titres coréens des semi-conducteurs au cœur de son positionnement. Comme les fonds publics sont également accessibles aux investisseurs particuliers, ces flux vers de grandes capitalisations sont suivis comme un indicateur de l’évolution de la demande d’investissement. La suite pour ces produits devrait être observée avec le sentiment de marché envers Samsung Electronics et SK Hynix. Source: hankyung.com"
+      },
+      "ar": {
+        "title": "صندوق يركز على سامسونغ إلكترونيكس وSK هاينكس يجذب 22 مليار وون خلال شهر",
+        "excerpt": "جذب صندوق عام يركز على سامسونغ إلكترونيكس وSK هاينكس 22 مليار وون خلال شهر واحد، ما يعكس اهتماما متزايدا بأسهم أشباه الموصلات الكورية.",
+        "body": "سجل صندوق عام يبرز سامسونغ إلكترونيكس وSK هاينكس تدفقات بقيمة 22 مليار وون خلال الشهر الماضي. وبحسب تقرير لصحيفة كوريا الاقتصادية اليومية، جذب الصندوق اهتمام السوق لأنه يضع أسهم أشباه الموصلات الكورية الكبرى في الواجهة. وبما أن الصناديق العامة متاحة أيضا للمستثمرين الأفراد، فإن تدفق الأموال نحو هذه الأسهم الكبيرة يعد مؤشرا على تغير الطلب الاستثماري. ومن المتوقع متابعة مسار المنتجات المرتبطة بذلك إلى جانب معنويات المستثمرين تجاه سامسونغ إلكترونيكس وSK هاينكس. المصدر: hankyung.com"
+      },
+      "hi": {
+        "title": "Samsung Electronics और SK Hynix वाले पब्लिक फंड में एक महीने में 22 अरब वॉन",
+        "excerpt": "Samsung Electronics और SK Hynix पर केंद्रित पब्लिक फंड में एक महीने में 22 अरब वॉन आए, जिससे कोरियाई सेमीकंडक्टर शेयरों में निवेशक रुचि दिखी।",
+        "body": "Samsung Electronics और SK Hynix को प्रमुखता देने वाले एक पब्लिक फंड में पिछले एक महीने में 22 अरब वॉन का निवेश आया। The Korea Economic Daily की रिपोर्ट के अनुसार, कोरिया के प्रमुख सेमीकंडक्टर शेयरों को केंद्र में रखने वाला यह फंड कम समय में पूंजी जुटाकर बाजार का ध्यान खींच रहा है। पब्लिक फंड व्यक्तिगत निवेशकों के लिए भी उपलब्ध होते हैं, इसलिए बड़े शेयरों पर केंद्रित यह प्रवाह निवेश मांग में बदलाव का संकेत माना जा रहा है। आगे संबंधित उत्पादों की दिशा Samsung Electronics और SK Hynix को लेकर निवेशक धारणा के साथ देखी जाएगी। स्रोत: hankyung.com"
+      },
+      "id": {
+        "title": "Dana Publik Samsung Electronics dan SK Hynix Serap 22 Miliar Won Sebulan",
+        "excerpt": "Dana publik yang menonjolkan Samsung Electronics dan SK Hynix menerima 22 miliar won dalam sebulan, menunjukkan minat pada saham semikonduktor Korea.",
+        "body": "Dana publik yang menonjolkan Samsung Electronics dan SK Hynix mencatat arus masuk 22 miliar won dalam satu bulan terakhir. Menurut laporan The Korea Economic Daily, dana yang menempatkan saham semikonduktor utama Korea sebagai fokusnya itu menarik perhatian pasar dalam waktu singkat. Karena dana publik juga dapat diakses investor ritel, arus masuk ke saham berkapitalisasi besar ini dipandang sebagai sinyal perubahan permintaan investasi. Perkembangan produk terkait diperkirakan akan terus diamati bersama sentimen terhadap Samsung Electronics dan SK Hynix. Sumber: hankyung.com"
+      }
+    }
+  },
+  {
+    "id": "48d6cdb576a7",
+    "slug": "lg전자-로봇-신사업으로-성장-동력-확보목표가-547366",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-05-13T23:05:33.191Z",
+    "updatedAt": "2026-05-13T23:05:33.191Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/stock/12047108",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12047108",
+    "titleFingerprint": "0b77e04392ae8810e922563bfe506f138301fa02",
+    "dedupKeys": [
+      "48d6cdb576a74fc026b95c6ebd52200427f38fe9",
+      "0b77e04392ae8810e922563bfe506f138301fa02",
+      "7b307deae8cbb1ae395215601788e97b680ba497"
+    ],
+    "imageUrl": "/images/articles/48d6cdb576a7.png",
+    "i18n": {
+      "ko": {
+        "title": "LG전자 로봇 신사업 성장 동력 부각…하나증권 목표가 23만원 상향",
+        "excerpt": "하나증권은 14일 LG전자가 적극적인 로보틱스 신사업 추진으로 성장 동력을 확보했다며 목표주가를 16만원에서 23만원으로 올렸다.",
+        "body": "하나증권은 14일 LG전자에 대해 적극적인 로보틱스 신사업 추진이 성장 동력 확보로 이어지고 있다고 평가하며 목표주가를 기존 16만원에서 23만원으로 상향 조정했다. 이번 평가는 LG전자의 신사업 방향성과 로봇 사업 추진 속도에 주목한 것이다. 원문은 LG전자의 올 1분기 연결기준 실적도 함께 언급했으나, 제공된 요약에는 구체적인 수치가 포함되지 않았다. 시장에서는 로보틱스 사업이 향후 LG전자의 성장성 판단에 중요한 변수로 거론될 수 있다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "LG Electronics Robotics Push Gains Attention as Hana Raises Target Price",
+        "excerpt": "Hana Securities said on the 14th that LG Electronics has secured a growth driver through its active robotics business push, raising its target price from 160,000 won to 230,000 won.",
+        "body": "Hana Securities said on the 14th that LG Electronics is securing a growth driver through its active push into the robotics business, and raised its target price from 160,000 won to 230,000 won. The assessment focused on LG Electronics’ new-business direction and the pace of its robotics initiatives. The original report also referred to LG Electronics’ first-quarter consolidated results this year, but the provided summary did not include specific figures. The robotics business may be cited as an important factor in judging LG Electronics’ future growth prospects. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "LG電子のロボット新事業に成長期待、ハナ証券が目標株価引き上げ",
+        "excerpt": "ハナ証券は14日、LG電子が積極的なロボティクス新事業の推進で成長動力を確保したとして、目標株価を16万ウォンから23万ウォンへ引き上げた。",
+        "body": "ハナ証券は14日、LG電子について、積極的なロボティクス新事業の推進が成長動力の確保につながっていると評価し、目標株価を従来の16万ウォンから23万ウォンへ引き上げた。今回の評価は、LG電子の新事業の方向性とロボット事業の推進に注目したものだ。原文ではLG電子の今年第1四半期の連結基準実績にも触れているが、提示された要約には具体的な数値は含まれていない。市場ではロボティクス事業が今後の成長性を判断する重要な要素として挙げられる可能性がある。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "LG电子机器人新业务成增长动力，韩亚证券上调目标价",
+        "excerpt": "韩亚证券14日表示，LG电子通过积极推进机器人新业务 확보增长动力，并将目标股价从16万韩元上调至23万韩元。",
+        "body": "韩亚证券14日对LG电子作出评价称，公司正通过积极推进机器人新业务 확보增长动力，并将目标股价由原先的16万韩元上调至23万韩元。此次判断主要关注LG电子的新业务方向以及机器人业务推进情况。原文还提到LG电子今年第一季度合并口径业绩，但所提供摘要中未包含具体数值。市场或将把机器人业务视为判断LG电子未来成长性的重要因素之一。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "LG Electronics impulsa robótica y Hana eleva precio objetivo a 230.000 wones",
+        "excerpt": "Hana Securities dijo el día 14 que LG Electronics aseguró un motor de crecimiento con su apuesta activa por la robótica y elevó su precio objetivo de 160.000 a 230.000 wones.",
+        "body": "Hana Securities afirmó el día 14 que LG Electronics está asegurando un motor de crecimiento mediante una promoción activa de su nuevo negocio de robótica, y elevó su precio objetivo de 160.000 a 230.000 wones. La evaluación se centró en la dirección de los nuevos negocios de LG Electronics y en el avance de sus iniciativas de robótica. El informe original también mencionó los resultados consolidados del primer trimestre de este año, pero el resumen proporcionado no incluye cifras concretas. El negocio de robótica podría citarse como un factor relevante para valorar el crecimiento futuro de LG Electronics. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "LG Electronics ganha força em robótica e Hana eleva preço-alvo a 230 mil won",
+        "excerpt": "A Hana Securities afirmou no dia 14 que a LG Electronics garantiu um motor de crescimento com sua atuação ativa em robótica e elevou o preço-alvo de 160 mil para 230 mil won.",
+        "body": "A Hana Securities informou no dia 14 que a LG Electronics está garantindo um motor de crescimento por meio da promoção ativa de seu novo negócio de robótica, elevando o preço-alvo de 160 mil para 230 mil won. A avaliação destacou a direção dos novos negócios da LG Electronics e o ritmo de suas iniciativas em robótica. O relatório original também mencionou os resultados consolidados do primeiro trimestre deste ano, mas o resumo fornecido não trouxe números específicos. O negócio de robótica pode ser citado como fator importante para avaliar o crescimento futuro da LG Electronics. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "LG Electronics setzt auf Robotik: Hana hebt Kursziel auf 230.000 Won an",
+        "excerpt": "Hana Securities erklärte am 14., LG Electronics habe durch die aktive Förderung des Robotik-Neugeschäfts Wachstumstreiber gesichert, und hob das Kursziel von 160.000 auf 230.000 Won an.",
+        "body": "Hana Securities erklärte am 14., LG Electronics sichere sich durch die aktive Förderung seines neuen Robotikgeschäfts Wachstumstreiber, und erhöhte das Kursziel von bisher 160.000 Won auf 230.000 Won. Die Einschätzung richtet den Blick auf die Ausrichtung der neuen Geschäftsfelder von LG Electronics und das Tempo der Robotikinitiativen. Der Originalbericht erwähnte auch die konsolidierten Ergebnisse des ersten Quartals dieses Jahres, doch die bereitgestellte Zusammenfassung enthält keine konkreten Zahlen. Das Robotikgeschäft könnte künftig als wichtiger Faktor bei der Beurteilung der Wachstumsaussichten von LG Electronics gelten. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "LG Electronics mise sur la robotique, Hana relève son objectif à 230 000 wons",
+        "excerpt": "Hana Securities a indiqué le 14 que LG Electronics avait sécurisé un moteur de croissance grâce à son offensive dans la robotique et a relevé son objectif de cours de 160 000 à 230 000 wons.",
+        "body": "Hana Securities a déclaré le 14 que LG Electronics sécurisait un moteur de croissance grâce à la promotion active de sa nouvelle activité de robotique, et a relevé son objectif de cours de 160 000 à 230 000 wons. L’évaluation met l’accent sur l’orientation des nouveaux métiers de LG Electronics et sur le rythme de ses initiatives dans la robotique. Le rapport original mentionnait aussi les résultats consolidés du premier trimestre de cette année, mais le résumé fourni ne contient pas de chiffres précis. L’activité robotique pourrait devenir un facteur important pour apprécier les perspectives de croissance de LG Electronics. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "إل جي إلكترونيكس تعزز نموها بالروبوتات وهانا ترفع السعر المستهدف",
+        "excerpt": "قالت هانا للأوراق المالية في 14 من الشهر إن إل جي إلكترونيكس ضمنت محرك نمو عبر الدفع النشط بأعمال الروبوتات، ورفعت السعر المستهدف من 160 ألف وون إلى 230 ألف وون.",
+        "body": "قالت هانا للأوراق المالية في 14 من الشهر إن إل جي إلكترونيكس تعمل على تأمين محرك نمو من خلال الدفع النشط بأعمالها الجديدة في مجال الروبوتات، ورفعت السعر المستهدف للسهم من 160 ألف وون إلى 230 ألف وون. وركز التقييم على اتجاه الأعمال الجديدة لدى إل جي إلكترونيكس وسرعة تنفيذ مبادرات الروبوتات. وذكر التقرير الأصلي أيضا نتائج الشركة المجمعة للربع الأول من هذا العام، لكن الملخص المقدم لا يتضمن أرقاما محددة. وقد تصبح أعمال الروبوتات عاملا مهما في تقييم آفاق نمو إل جي إلكترونيكس مستقبلا. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "LG Electronics की रोबोटिक्स पहल पर फोकस, Hana ने लक्ष्य मूल्य बढ़ाया",
+        "excerpt": "Hana Securities ने 14 तारीख को कहा कि LG Electronics ने सक्रिय रोबोटिक्स नए कारोबार से वृद्धि का आधार 확보 किया है और लक्ष्य मूल्य 160,000 वॉन से बढ़ाकर 230,000 वॉन कर दिया।",
+        "body": "Hana Securities ने 14 तारीख को LG Electronics के बारे में कहा कि कंपनी सक्रिय रूप से रोबोटिक्स नए कारोबार को आगे बढ़ाकर वृद्धि का आधार 확보 कर रही है, और लक्ष्य मूल्य को मौजूदा 160,000 वॉन से बढ़ाकर 230,000 वॉन कर दिया। यह आकलन LG Electronics की नई कारोबारी दिशा और रोबोट कारोबार की प्रगति पर केंद्रित है। मूल रिपोर्ट में कंपनी के इस वर्ष पहली तिमाही के समेकित परिणामों का भी उल्लेख था, लेकिन दिए गए सारांश में कोई विशिष्ट आंकड़ा शामिल नहीं है। रोबोटिक्स कारोबार भविष्य में LG Electronics की वृद्धि क्षमता के मूल्यांकन में महत्वपूर्ण कारक बन सकता है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "LG Electronics Dorong Bisnis Robotik, Hana Naikkan Target ke 230.000 Won",
+        "excerpt": "Hana Securities pada tanggal 14 menyatakan LG Electronics memperoleh motor pertumbuhan lewat dorongan aktif bisnis robotik dan menaikkan target harga dari 160.000 won menjadi 230.000 won.",
+        "body": "Hana Securities pada tanggal 14 menilai LG Electronics sedang memperoleh motor pertumbuhan melalui dorongan aktif pada bisnis baru robotik, dan menaikkan target harga dari sebelumnya 160.000 won menjadi 230.000 won. Penilaian ini menyoroti arah bisnis baru LG Electronics serta laju pengembangan inisiatif robotiknya. Laporan asli juga menyebut kinerja konsolidasi kuartal pertama tahun ini, tetapi ringkasan yang diberikan tidak memuat angka spesifik. Bisnis robotik dapat menjadi faktor penting dalam menilai prospek pertumbuhan LG Electronics ke depan. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
     "id": "65a8865df4cd",
     "slug": "와이즈버즈-1분기-영업이익-30억원전년-동기대비-246-277411",
     "channelId": "ETF",
@@ -4271,231 +4496,6 @@
         "title": "Rekomendasi Saham Finfluencer Diawasi, Iklan dan Kepemilikan Perlu Diungkap",
         "excerpt": "Otoritas keuangan mulai menyiapkan aturan saat kekhawatiran kerugian dari rekomendasi saham finfluencer meningkat, termasuk soal sponsor, kepemilikan, dan transaksi lebih dulu.",
         "body": "Otoritas keuangan mulai menyiapkan kerangka aturan karena kekhawatiran atas kerugian investor dari rekomendasi saham finfluencer meningkat di tengah pasar saham yang ramai. Meski terdaftar sebagai usaha sejenis penasihat investasi, investor sering sulit memastikan apakah konten itu disponsori, apakah finfluencer memegang saham yang direkomendasikan, atau apakah terjadi transaksi lebih dulu. Struktur yang tidak transparan ini dinilai sebagai masalah. Di Eropa, kewajiban pengungkapan terkait sudah diberlakukan, sehingga kebutuhan untuk membuka informasi iklan dan kepemilikan juga mengemuka di Korea. Jika diterapkan, aturan ini diperkirakan meningkatkan transparansi konten rekomendasi dan memperkuat perlindungan investor. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "cf1835d7ed84",
-    "slug": "특허분쟁-유리한-고지잡은-알테오젠-4-상승-959682",
-    "channelId": "ETF",
-    "category": "etf",
-    "publishedAt": "2026-05-13T06:07:53.318Z",
-    "updatedAt": "2026-05-13T06:07:53.318Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/stock/12046136",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12046136",
-    "titleFingerprint": "6cda6272e23bd782f2b2eb86654f6794eb83d67b",
-    "dedupKeys": [
-      "cf1835d7ed84cb4c6d59cac1cb594dc881f0f10f",
-      "6cda6272e23bd782f2b2eb86654f6794eb83d67b",
-      "41d7e5a5fd59e5b79a2e698633a336708b47a7da"
-    ],
-    "imageUrl": "/images/articles/cf1835d7ed84.png",
-    "i18n": {
-      "ko": {
-        "title": "알테오젠, 할로자임 핵심 특허 무효 판단에 4% 상승",
-        "excerpt": "알테오젠은 경쟁사 할로자임의 핵심 특허가 무효라는 판단이 나오자 피하주사 제형 기술 특허분쟁에서 유리한 고지를 확보했다는 평가 속에 주가가 4%가량 올랐다.",
-        "body": "알테오젠 주가가 경쟁사 할로자임의 핵심 특허 무효 판단 소식에 4%가량 상승했다. 양사는 현재 피하주사(SC) 제형 기술을 둘러싼 특허분쟁을 이어가고 있으며, 이번 판단으로 알테오젠이 분쟁에서 유리한 고지를 잡았다는 해석이 나왔다. 원문은 코스닥·벤처협회가 우량기업의 코스닥 잔류를 호소했다는 내용도 함께 전했다. 시장에서는 특허분쟁 진행 상황이 알테오젠 주가와 투자심리에 직접적인 변수로 작용하는 모습이다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Alteogen Shares Rise 4% After Halozyme Core Patent Invalidity Ruling",
-        "excerpt": "Alteogen rose about 4% after a ruling found rival Halozyme’s core patent invalid, strengthening Alteogen’s position in an ongoing subcutaneous formulation technology dispute.",
-        "body": "Alteogen shares rose about 4% after news that a core patent held by rival Halozyme had been judged invalid. The two companies are currently engaged in a patent dispute over subcutaneous injection formulation technology, and the latest decision was interpreted as giving Alteogen a more favorable position in the dispute. The original report also noted an appeal by KOSDAQ and venture associations for high-quality companies to remain listed on KOSDAQ. The patent dispute’s progress is emerging as a direct factor for Alteogen’s share price and investor sentiment. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "アルテオジェン、ハロザイム中核特許の無効判断で株価4％上昇",
-        "excerpt": "アルテオジェンは競合ハロザイムの中核特許が無効との判断を受け、皮下注射製剤技術を巡る特許紛争で優位に立ったとの見方から株価が約4％上昇した。",
-        "body": "アルテオジェンの株価は、競合企業ハロザイムの中核特許が無効と判断されたとのニュースを受け、約4％上昇した。両社は現在、皮下注射（SC）製剤技術を巡る特許紛争を続けており、今回の判断によりアルテオジェンが紛争で有利な立場を確保したとの解釈が出ている。原文は、KOSDAQ・ベンチャー協会が優良企業にKOSDAQ残留を訴えた内容も併せて伝えた。特許紛争の進展は、アルテオジェンの株価と投資心理に直接影響する要因となっている。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "Alteogen因Halozyme核心专利被判无效股价上涨4%",
-        "excerpt": "Alteogen在竞争对手Halozyme核心专利被判无效后，被认为在皮下注射制剂技术专利纠纷中取得有利位置，股价上涨约4%。",
-        "body": "Alteogen股价在竞争对手Halozyme核心专利被判无效的消息传出后上涨约4%。两家公司目前正围绕皮下注射（SC）制剂技术进行专利纠纷，此次判断被解读为Alteogen在争议中取得了更有利的位置。原文还提到，KOSDAQ和风险企业协会呼吁优质企业继续留在KOSDAQ市场。市场认为，专利纠纷的进展正在直接影响Alteogen的股价和投资者情绪。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Alteogen sube 4% tras invalidación de patente clave de Halozyme",
-        "excerpt": "Alteogen subió cerca de 4% después de que se declarara inválida una patente clave de su rival Halozyme, fortaleciendo su posición en la disputa por tecnología de formulación subcutánea.",
-        "body": "Las acciones de Alteogen subieron cerca de 4% tras conocerse que una patente clave de su competidor Halozyme fue considerada inválida. Ambas compañías mantienen actualmente una disputa de patentes relacionada con tecnología de formulación para inyección subcutánea, y la decisión fue interpretada como un avance favorable para Alteogen dentro del conflicto. El reporte original también mencionó que asociaciones de KOSDAQ y de empresas de riesgo pidieron a compañías de calidad permanecer en KOSDAQ. La evolución de esta disputa aparece como un factor directo para la acción y el ánimo inversor de Alteogen. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Alteogen sobe 4% após patente central da Halozyme ser considerada inválida",
-        "excerpt": "A Alteogen avançou cerca de 4% depois que uma patente central da rival Halozyme foi considerada inválida, reforçando sua posição na disputa sobre tecnologia de formulação subcutânea.",
-        "body": "As ações da Alteogen subiram cerca de 4% após a notícia de que uma patente central da concorrente Halozyme foi considerada inválida. As duas empresas estão atualmente envolvidas em uma disputa de patentes sobre tecnologia de formulação para injeção subcutânea, e a decisão foi interpretada como um ponto favorável para a Alteogen no conflito. A reportagem original também informou que associações da KOSDAQ e de empresas de venture apelaram para que companhias de qualidade permaneçam listadas na KOSDAQ. O andamento da disputa de patentes surge como variável direta para as ações e o sentimento dos investidores da Alteogen. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Alteogen steigt 4% nach Ungültigkeitsurteil zu Halozyme-Kernpatent",
-        "excerpt": "Alteogen legte rund 4% zu, nachdem ein Kernpatent des Wettbewerbers Halozyme für ungültig befunden wurde und Alteogen im Streit um subkutane Formulierungstechnologie im Vorteil gesehen wird.",
-        "body": "Die Aktie von Alteogen stieg um rund 4%, nachdem bekannt wurde, dass ein Kernpatent des Wettbewerbers Halozyme für ungültig befunden wurde. Beide Unternehmen befinden sich derzeit in einem Patentstreit über Technologie für subkutane Injektionsformulierungen. Die Entscheidung wurde als günstige Entwicklung für Alteogen in diesem Streit interpretiert. Der Originalbericht erwähnte zudem, dass KOSDAQ- und Venture-Verbände hochwertige Unternehmen zum Verbleib an der KOSDAQ aufriefen. Der Verlauf des Patentstreits wirkt sich damit direkt auf den Aktienkurs von Alteogen und die Anlegerstimmung aus. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Alteogen gagne 4% après l’invalidation d’un brevet clé de Halozyme",
-        "excerpt": "Alteogen a progressé d’environ 4% après qu’un brevet clé de son concurrent Halozyme a été jugé invalide, renforçant sa position dans le litige sur les formulations sous-cutanées.",
-        "body": "L’action Alteogen a gagné environ 4% après l’annonce selon laquelle un brevet clé de son concurrent Halozyme avait été jugé invalide. Les deux sociétés sont actuellement engagées dans un litige de brevets autour de la technologie de formulation pour injection sous-cutanée, et cette décision a été interprétée comme plaçant Alteogen dans une position plus favorable. L’article original indiquait aussi que des associations liées au KOSDAQ et aux entreprises de capital-risque appelaient les sociétés de qualité à rester cotées sur le KOSDAQ. L’évolution du litige apparaît comme un facteur direct pour le cours d’Alteogen et le sentiment des investisseurs. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "سهم ألتي وجين يرتفع 4% بعد إبطال براءة أساسية لهالوزايم",
-        "excerpt": "ارتفع سهم ألتي وجين بنحو 4% بعدما صدر حكم ببطلان براءة أساسية لمنافستها هالوزايم، ما عزز موقعها في نزاع براءات حول تقنية تركيبات الحقن تحت الجلد.",
-        "body": "ارتفع سهم ألتي وجين بنحو 4% بعد ورود خبر يفيد بأن براءة أساسية مملوكة للمنافسة هالوزايم اعتُبرت غير صالحة. وتخوض الشركتان حاليا نزاعا بشأن براءات مرتبطة بتقنية تركيبات الحقن تحت الجلد، وجاء هذا الحكم ليُفسر على أنه يمنح ألتي وجين موقعا أكثر ملاءمة في النزاع. كما أشار التقرير الأصلي إلى أن جمعيات كوسداك والمشروعات الناشئة ناشدت الشركات الجيدة البقاء في سوق كوسداك. ويبدو أن مسار نزاع البراءات أصبح عاملا مباشرا في سعر سهم ألتي وجين ومعنويات المستثمرين. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "Halozyme की मुख्य पेटेंट अमान्यता के बाद Alteogen शेयर 4% चढ़ा",
-        "excerpt": "प्रतिद्वंद्वी Halozyme की मुख्य पेटेंट को अमान्य माने जाने के बाद Alteogen को त्वचा के नीचे इंजेक्शन फॉर्मुलेशन तकनीक विवाद में बढ़त मिली और शेयर करीब 4% चढ़ा।",
-        "body": "Alteogen के शेयर प्रतिद्वंद्वी Halozyme की मुख्य पेटेंट को अमान्य माने जाने की खबर के बाद करीब 4% चढ़े। दोनों कंपनियां फिलहाल त्वचा के नीचे दिए जाने वाले इंजेक्शन यानी SC फॉर्मुलेशन तकनीक से जुड़े पेटेंट विवाद में हैं। इस फैसले को Alteogen के लिए विवाद में अधिक अनुकूल स्थिति के रूप में देखा गया। मूल रिपोर्ट में यह भी बताया गया कि KOSDAQ और वेंचर एसोसिएशन ने अच्छी कंपनियों से KOSDAQ में बने रहने की अपील की। पेटेंट विवाद की प्रगति Alteogen के शेयर मूल्य और निवेशक धारणा के लिए सीधा कारक बनती दिख रही है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Saham Alteogen Naik 4% Usai Paten Inti Halozyme Dinyatakan Tidak Sah",
-        "excerpt": "Alteogen naik sekitar 4% setelah paten inti pesaingnya, Halozyme, dinyatakan tidak sah, memperkuat posisinya dalam sengketa teknologi formulasi injeksi subkutan.",
-        "body": "Saham Alteogen naik sekitar 4% setelah muncul kabar bahwa paten inti milik pesaingnya, Halozyme, dinyatakan tidak sah. Kedua perusahaan saat ini terlibat sengketa paten terkait teknologi formulasi injeksi subkutan, dan keputusan tersebut ditafsirkan sebagai posisi yang lebih menguntungkan bagi Alteogen dalam sengketa itu. Laporan asli juga menyebutkan bahwa asosiasi KOSDAQ dan perusahaan ventura meminta perusahaan berkualitas tetap bertahan di KOSDAQ. Perkembangan sengketa paten ini menjadi faktor langsung bagi harga saham Alteogen dan sentimen investor. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "6630ee1ad139",
-    "slug": "ai-gpu도-선물거래-대상으로cme-첫-컴퓨팅-선물-출시-187541",
-    "channelId": "ETF",
-    "category": "etf",
-    "publishedAt": "2026-05-13T06:06:54.376Z",
-    "updatedAt": "2026-05-13T06:06:54.376Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/stock/12046144",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12046144",
-    "titleFingerprint": "bfaa0e2d3ac65d1b472527e6f57480c4aea4cdc6",
-    "dedupKeys": [
-      "6630ee1ad1396ad0aa594827705fb27329b24068",
-      "bfaa0e2d3ac65d1b472527e6f57480c4aea4cdc6",
-      "c90269a218894cea78d512d8f8f5ebd271bec747"
-    ],
-    "imageUrl": "/images/articles/6630ee1ad139.png",
-    "i18n": {
-      "ko": {
-        "title": "AI GPU 선물거래 열린다…CME, 첫 ‘컴퓨팅 선물’ 연내 출시",
-        "excerpt": "세계 최대 파생상품 거래소 CME가 실리콘데이터와 함께 GPU 임대료 기반 지수를 활용한 첫 컴퓨팅 선물을 연내 출시해 AI 기업과 투자자의 가격 리스크 헤지를 지원한다.",
-        "body": "세계 최대 파생상품 거래소인 시카고상품거래소(CME)가 실리콘데이터와 함께 AI GPU 임대료를 기준으로 한 첫 ‘컴퓨팅 선물’을 연내 출시한다. 이 상품은 GPU 임대료 기준 지수를 최초로 활용해 컴퓨팅 파워를 선물거래 대상으로 삼는 구조다. AI 산업 확대로 GPU 수요와 임대료 변동성이 커지는 가운데, CME는 컴퓨팅 파워를 “21세기의 원유”로 보고 새로운 가격 관리 수단을 제시한다. AI 기업과 투자자는 이를 통해 GPU 임대 비용 변동에 따른 가격 리스크를 헤지할 수 있을 전망이다. 출처: mk.co.kr."
-      },
-      "en": {
-        "title": "AI GPU Futures Trading Nears as CME Plans First Computing Futures",
-        "excerpt": "CME, the world’s largest derivatives exchange, will launch its first computing futures with Silicon Data this year, using a GPU rental-fee index to help AI firms and investors hedge price risk.",
-        "body": "The Chicago Mercantile Exchange (CME), the world’s largest derivatives exchange, plans to launch its first “computing futures” this year with Silicon Data, based on AI GPU rental fees. The product will be the first to use an index tied to GPU rental prices, making computing power a tradable futures underlying. As AI industry growth increases demand for GPUs and rental-price volatility, CME frames computing power as “the oil of the 21st century” and is introducing a new price-management tool. AI companies and investors are expected to use it to hedge risks from changes in GPU rental costs. Source: mk.co.kr."
-      },
-      "ja": {
-        "title": "AI GPUが先物取引の対象に、CMEが初のコンピューティング先物を年内投入",
-        "excerpt": "世界最大のデリバティブ取引所CMEはシリコンデータと、GPU賃料指数を使う初のコンピューティング先物を年内に開始し、AI企業と投資家の価格リスクヘッジを支援する。",
-        "body": "世界最大のデリバティブ取引所であるシカゴ・マーカンタイル取引所（CME）は、シリコンデータとともに、AI GPUの賃料を基準にした初の「コンピューティング先物」を年内に立ち上げる。この商品はGPU賃料基準指数を初めて活用し、コンピューティングパワーを先物取引の対象にする仕組みだ。AI産業の拡大でGPU需要と賃料の変動性が高まるなか、CMEはコンピューティングパワーを「21世紀の原油」と位置づけ、新たな価格管理手段を提示する。AI企業と投資家は、GPU賃借コストの変動に伴う価格リスクをヘッジできる見通しだ。出典: mk.co.kr."
-      },
-      "zh": {
-        "title": "AI GPU也将进入期货交易，CME年内推出首个算力期货",
-        "excerpt": "全球最大衍生品交易所CME将与Silicon Data年内推出首个采用GPU租赁费指数的算力期货，帮助AI企业和投资者对冲价格风险。",
-        "body": "全球最大衍生品交易所芝加哥商品交易所（CME）将与Silicon Data在年内推出首个以AI GPU租赁费为基准的“算力期货”。该产品将首次采用GPU租赁费基准指数，把计算能力作为期货交易标的。随着AI产业扩张推高GPU需求并加大租赁费波动，CME将计算能力视为“21世纪的原油”，并推出新的价格管理工具。AI企业和投资者预计可借此对冲GPU租赁成本变化带来的价格风险。来源: mk.co.kr."
-      },
-      "es": {
-        "title": "Los GPU de IA llegan a futuros: CME lanzará los primeros futuros de cómputo",
-        "excerpt": "CME, la mayor bolsa de derivados del mundo, lanzará este año con Silicon Data los primeros futuros de cómputo basados en un índice de alquiler de GPU para cubrir riesgos de precio.",
-        "body": "Chicago Mercantile Exchange (CME), la mayor bolsa de derivados del mundo, planea lanzar este año con Silicon Data los primeros “futuros de cómputo” basados en tarifas de alquiler de GPU para IA. El producto será el primero en usar un índice de referencia de alquiler de GPU y convertirá la potencia de cómputo en un activo subyacente negociable en futuros. A medida que el crecimiento de la industria de IA eleva la demanda de GPU y la volatilidad de sus alquileres, CME presenta la potencia de cómputo como “el petróleo del siglo XXI” y ofrece una nueva herramienta de gestión de precios. Empresas de IA e inversores podrán cubrir riesgos derivados de cambios en los costos de alquiler de GPU. Fuente: mk.co.kr."
-      },
-      "pt": {
-        "title": "GPUs de IA entram nos futuros: CME lançará primeiros futuros de computação",
-        "excerpt": "A CME, maior bolsa de derivativos do mundo, lançará este ano com a Silicon Data os primeiros futuros de computação baseados em índice de aluguel de GPU para ajudar IA e investidores a proteger preços.",
-        "body": "A Chicago Mercantile Exchange (CME), maior bolsa de derivativos do mundo, planeja lançar ainda este ano, com a Silicon Data, os primeiros “futuros de computação” baseados em taxas de aluguel de GPUs de IA. O produto será o primeiro a usar um índice de referência de aluguel de GPU, transformando poder computacional em ativo subjacente para negociação futura. Com a expansão da indústria de IA aumentando a demanda por GPUs e a volatilidade dos aluguéis, a CME trata o poder computacional como “o petróleo do século XXI” e apresenta uma nova ferramenta de gestão de preços. Empresas de IA e investidores poderão proteger riscos ligados à variação dos custos de aluguel de GPU. Fonte: mk.co.kr."
-      },
-      "de": {
-        "title": "AI-GPUs werden futuresfähig: CME plant erste Computing-Futures noch dieses Jahr",
-        "excerpt": "Die CME, weltgrößte Derivatebörse, will mit Silicon Data noch dieses Jahr erste Computing-Futures auf Basis eines GPU-Mietpreisindex starten, damit KI-Firmen und Investoren Preisrisiken absichern können.",
-        "body": "Die Chicago Mercantile Exchange (CME), die weltweit größte Derivatebörse, plant gemeinsam mit Silicon Data noch in diesem Jahr den Start der ersten „Computing-Futures“ auf Basis von Mietpreisen für AI-GPUs. Das Produkt nutzt erstmals einen Index für GPU-Mietgebühren und macht Rechenleistung zum Basiswert eines Futures-Kontrakts. Da das Wachstum der KI-Branche die Nachfrage nach GPUs und die Schwankungen der Mietpreise erhöht, bezeichnet CME Rechenleistung als „das Öl des 21. Jahrhunderts“ und bietet ein neues Instrument zum Preismanagement an. KI-Unternehmen und Investoren sollen damit Risiken aus veränderten GPU-Mietkosten absichern können. Quelle: mk.co.kr."
-      },
-      "fr": {
-        "title": "Les GPU d’IA arrivent sur les futures: CME prépare les premiers contrats de calcul",
-        "excerpt": "CME, plus grande bourse de dérivés au monde, lancera cette année avec Silicon Data les premiers futures de calcul fondés sur un indice de location de GPU pour aider entreprises IA et investisseurs à couvrir le risque de prix.",
-        "body": "Le Chicago Mercantile Exchange (CME), plus grande bourse de dérivés au monde, prévoit de lancer cette année avec Silicon Data les premiers « futures de calcul » fondés sur les frais de location de GPU d’IA. Ce produit sera le premier à utiliser un indice de référence des loyers de GPU, faisant de la puissance de calcul un sous-jacent négociable à terme. Alors que l’essor de l’IA accroît la demande de GPU et la volatilité des loyers, CME présente la puissance de calcul comme « le pétrole du XXIe siècle » et propose un nouvel outil de gestion des prix. Les entreprises d’IA et les investisseurs devraient pouvoir couvrir les risques liés aux variations des coûts de location de GPU. Source: mk.co.kr."
-      },
-      "ar": {
-        "title": "وحدات GPU للذكاء الاصطناعي تدخل العقود الآجلة مع أول عقود حوسبة من CME",
-        "excerpt": "تعتزم CME، أكبر بورصة مشتقات في العالم، إطلاق أول عقود حوسبة آجلة هذا العام مع Silicon Data اعتمادا على مؤشر إيجار وحدات GPU لمساعدة شركات الذكاء الاصطناعي والمستثمرين على التحوط من مخاطر الأسعار.",
-        "body": "تخطط بورصة شيكاغو التجارية CME، أكبر بورصة مشتقات في العالم، لإطلاق أول «عقود حوسبة آجلة» هذا العام بالتعاون مع Silicon Data، استنادا إلى رسوم استئجار وحدات GPU المستخدمة في الذكاء الاصطناعي. وسيكون المنتج الأول الذي يستخدم مؤشرا مرجعيا لرسوم إيجار GPU، ليجعل قوة الحوسبة أصلا أساسيا قابلا للتداول في العقود الآجلة. ومع توسع صناعة الذكاء الاصطناعي وزيادة الطلب على وحدات GPU وتقلب رسوم استئجارها، ترى CME أن قوة الحوسبة هي «نفط القرن الحادي والعشرين» وتطرح أداة جديدة لإدارة الأسعار. ومن المتوقع أن تتمكن شركات الذكاء الاصطناعي والمستثمرون من التحوط من مخاطر تغير تكاليف استئجار GPU. المصدر: mk.co.kr."
-      },
-      "hi": {
-        "title": "AI GPU पर भी फ्यूचर्स ट्रेडिंग, CME इस साल पहला कंप्यूटिंग फ्यूचर्स लाएगा",
-        "excerpt": "दुनिया का सबसे बड़ा डेरिवेटिव्स एक्सचेंज CME, Silicon Data के साथ GPU किराया सूचकांक पर आधारित पहला कंप्यूटिंग फ्यूचर्स इस साल लॉन्च करेगा, जिससे AI कंपनियां और निवेशक मूल्य जोखिम हेज कर सकेंगे।",
-        "body": "दुनिया का सबसे बड़ा डेरिवेटिव्स एक्सचेंज Chicago Mercantile Exchange (CME), Silicon Data के साथ AI GPU किराये पर आधारित पहला “कंप्यूटिंग फ्यूचर्स” इस साल लॉन्च करने की योजना बना रहा है। यह उत्पाद GPU किराया-आधारित सूचकांक का पहली बार उपयोग करेगा और कंप्यूटिंग पावर को फ्यूचर्स ट्रेडिंग का आधार बनाएगा। AI उद्योग के विस्तार से GPU की मांग और किराये की कीमतों में उतार-चढ़ाव बढ़ रहा है। इसी बीच CME कंप्यूटिंग पावर को “21वीं सदी का कच्चा तेल” मानते हुए नया मूल्य-प्रबंधन साधन पेश कर रहा है। AI कंपनियां और निवेशक GPU किराये की लागत में बदलाव से जुड़े मूल्य जोखिम को हेज कर सकेंगे। स्रोत: mk.co.kr."
-      },
-      "id": {
-        "title": "GPU AI Masuk Bursa Berjangka, CME Siapkan Futures Komputasi Pertama",
-        "excerpt": "CME, bursa derivatif terbesar dunia, akan meluncurkan futures komputasi pertama bersama Silicon Data tahun ini dengan indeks biaya sewa GPU untuk membantu perusahaan AI dan investor melindungi risiko harga.",
-        "body": "Chicago Mercantile Exchange (CME), bursa derivatif terbesar di dunia, berencana meluncurkan “futures komputasi” pertama tahun ini bersama Silicon Data, dengan acuan biaya sewa GPU untuk AI. Produk ini menjadi yang pertama memakai indeks berbasis biaya sewa GPU dan menjadikan daya komputasi sebagai aset dasar perdagangan berjangka. Seiring pertumbuhan industri AI yang meningkatkan permintaan GPU dan volatilitas biaya sewanya, CME memandang daya komputasi sebagai “minyak abad ke-21” dan menawarkan alat baru untuk pengelolaan harga. Perusahaan AI dan investor diperkirakan dapat menggunakannya untuk melindungi risiko perubahan biaya sewa GPU. Sumber: mk.co.kr."
-      }
-    }
-  },
-  {
-    "id": "971d5df5aae1",
-    "slug": "dtcc체인링크-맞손24시간-실시간-글로벌-담보관리-시대-연다-271001",
-    "channelId": "ETF",
-    "category": "etf",
-    "publishedAt": "2026-05-13T06:05:51.829Z",
-    "updatedAt": "2026-05-13T06:05:51.829Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/stock/12046148",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12046148",
-    "titleFingerprint": "441780ce4ff800d342b45ae3a9a264f550b3639d",
-    "dedupKeys": [
-      "971d5df5aae14cb4ab749389ac75ddaf165bf0a2",
-      "441780ce4ff800d342b45ae3a9a264f550b3639d",
-      "84d467afd229ef030541b0f333895faa8fcc99cb"
-    ],
-    "imageUrl": "/images/articles/971d5df5aae1.png",
-    "i18n": {
-      "ko": {
-        "title": "DTCC·체인링크 CRE 도입, 4분기 실시간 담보관리 앱체인 출시",
-        "excerpt": "미국 중앙예탁청산기관 DTCC가 체인링크 CRE를 전면 도입하고 4분기 담보관리 앱체인을 출시해 24시간 실시간 글로벌 담보관리 체계 구축에 나선다.",
-        "body": "미국 중앙예탁청산기관(DTCC)이 글로벌 오라클 네트워크 체인링크와 협력해 체인링크 CRE를 전면 도입한다. DTCC는 4분기 담보관리 앱체인을 출시하고, 24시간 실시간으로 담보를 관리하는 글로벌 체계 구축에 나설 예정이다. DTCC는 세계 최대 시장 인프라 기관으로, 예탁·청산 등 자본시장 후선 업무에서 핵심 역할을 맡고 있다. 이번 계획의 핵심은 체인링크 CRE 도입과 담보관리 전용 앱체인 출시다. 공개된 내용은 4분기 출시 일정과 실시간 글로벌 담보관리 목표에 한정된다. 출처: mk.co.kr."
-      },
-      "en": {
-        "title": "DTCC and Chainlink CRE Move Toward Real-Time Collateral Appchain",
-        "excerpt": "DTCC, the U.S. central securities depository and clearing body, will fully adopt Chainlink CRE and launch a collateral-management appchain in Q4 for 24-hour real-time global operations.",
-        "body": "DTCC, the U.S. central securities depository and clearing institution, is working with global oracle network Chainlink to fully adopt Chainlink CRE. DTCC plans to launch a collateral-management appchain in the fourth quarter and move toward a global framework for 24-hour real-time collateral management. As the world’s largest market infrastructure institution, DTCC plays a central role in post-trade capital-market functions such as custody and clearing. The core of the plan is the adoption of Chainlink CRE and the launch of a dedicated collateral-management appchain. The disclosed information is limited to the Q4 launch schedule and the goal of real-time global collateral management. Source: mk.co.kr."
-      },
-      "ja": {
-        "title": "DTCCとチェーンリンクCRE、4四半期にリアルタイム担保管理アプリチェーンへ",
-        "excerpt": "米中央預託清算機関DTCCはチェーンリンクCREを全面導入し、第4四半期に担保管理アプリチェーンを開始して24時間リアルタイムのグローバル管理体制を目指す。",
-        "body": "米中央預託清算機関DTCCは、グローバル・オラクルネットワークのチェーンリンクと協力し、チェーンリンクCREを全面導入する。DTCCは第4四半期に担保管理アプリチェーンを開始し、24時間リアルタイムで担保を管理するグローバル体制の構築に乗り出す予定だ。DTCCは世界最大の市場インフラ機関で、預託や清算など資本市場のポストトレード業務で中核的役割を担う。今回の計画の中心は、チェーンリンクCREの導入と担保管理専用アプリチェーンの開始である。公開された内容は、第4四半期の開始日程とリアルタイムのグローバル担保管理目標に限られる。出典: mk.co.kr."
-      },
-      "zh": {
-        "title": "DTCC全面引入Chainlink CRE，第四季度推实时抵押品管理应用链",
-        "excerpt": "美国中央证券存管与清算机构DTCC将全面采用Chainlink CRE，并在第四季度推出抵押品管理应用链，以建设24小时实时全球管理体系。",
-        "body": "美国中央证券存管与清算机构DTCC将与全球预言机网络Chainlink合作，全面引入Chainlink CRE。DTCC计划在第四季度推出抵押品管理应用链，推进可24小时实时管理抵押品的全球体系。DTCC是全球最大的市场基础设施机构，在证券存管、清算等资本市场后交易业务中发挥核心作用。此次计划的重点是采用Chainlink CRE，并推出专用于抵押品管理的应用链。已公开的信息仅限于第四季度推出安排，以及实时全球抵押品管理这一目标。来源: mk.co.kr."
-      },
-      "es": {
-        "title": "DTCC adopta Chainlink CRE y prepara una appchain de colateral en tiempo real",
-        "excerpt": "DTCC, entidad central de depósito y compensación de EE. UU., adoptará Chainlink CRE y lanzará en el cuarto trimestre una appchain de gestión de colateral para operar en tiempo real las 24 horas.",
-        "body": "DTCC, la entidad central de depósito y compensación de Estados Unidos, trabaja con la red global de oráculos Chainlink para adoptar plenamente Chainlink CRE. DTCC prevé lanzar en el cuarto trimestre una appchain de gestión de colateral y avanzar hacia un sistema global capaz de gestionar colateral en tiempo real durante las 24 horas. Como la mayor institución de infraestructura de mercado del mundo, DTCC cumple un papel central en funciones posteriores a la negociación, como custodia y compensación. El eje del plan es la adopción de Chainlink CRE y el lanzamiento de una appchain dedicada a la gestión de colateral. La información divulgada se limita al calendario del cuarto trimestre y al objetivo de gestión global en tiempo real. Fuente: mk.co.kr."
-      },
-      "pt": {
-        "title": "DTCC adota Chainlink CRE e mira appchain de garantias em tempo real no 4º tri",
-        "excerpt": "A DTCC, depositária e câmara de compensação central dos EUA, adotará integralmente o Chainlink CRE e lançará no quarto trimestre uma appchain para gestão global de garantias em tempo real.",
-        "body": "A DTCC, instituição central de depósito e compensação dos Estados Unidos, trabalha com a rede global de oráculos Chainlink para adotar integralmente o Chainlink CRE. A DTCC planeja lançar no quarto trimestre uma appchain de gestão de garantias e avançar na construção de um sistema global para administrar garantias em tempo real, 24 horas por dia. Como a maior instituição de infraestrutura de mercado do mundo, a DTCC exerce papel central em atividades pós-negociação, como custódia e compensação. O foco do plano é a adoção do Chainlink CRE e o lançamento de uma appchain dedicada à gestão de garantias. As informações divulgadas se limitam ao cronograma do quarto trimestre e ao objetivo de gestão global em tempo real. Fonte: mk.co.kr."
-      },
-      "de": {
-        "title": "DTCC setzt auf Chainlink CRE und plant Echtzeit-Appchain für Sicherheiten",
-        "excerpt": "Die US-Zentralverwahr- und Clearinginstitution DTCC führt Chainlink CRE vollständig ein und will im vierten Quartal eine Appchain für globale Sicherheitenverwaltung rund um die Uhr starten.",
-        "body": "Die US-amerikanische Zentralverwahr- und Clearinginstitution DTCC arbeitet mit dem globalen Oracle-Netzwerk Chainlink zusammen, um Chainlink CRE vollständig einzuführen. DTCC plant, im vierten Quartal eine Appchain für das Sicherheitenmanagement zu starten und damit ein globales System für 24-Stunden-Echtzeitverwaltung von Sicherheiten aufzubauen. Als weltweit größte Marktinfrastrukturinstitution spielt DTCC eine zentrale Rolle bei nachgelagerten Kapitalmarktfunktionen wie Verwahrung und Clearing. Kern des Plans sind die Einführung von Chainlink CRE und der Start einer speziell für Sicherheitenmanagement entwickelten Appchain. Die veröffentlichten Angaben beschränken sich auf den Startplan im vierten Quartal und das Ziel einer globalen Echtzeitverwaltung. Quelle: mk.co.kr."
-      },
-      "fr": {
-        "title": "DTCC adopte Chainlink CRE et prépare une appchain de collatéral en temps réel",
-        "excerpt": "DTCC, organisme américain de dépôt central et de compensation, adoptera pleinement Chainlink CRE et lancera au quatrième trimestre une appchain de gestion du collatéral en temps réel 24 h/24.",
-        "body": "DTCC, l’organisme américain de dépôt central et de compensation, collabore avec le réseau mondial d’oracles Chainlink afin d’adopter pleinement Chainlink CRE. DTCC prévoit de lancer au quatrième trimestre une appchain de gestion du collatéral et de mettre en place un cadre mondial permettant une gestion en temps réel 24 h/24. Plus grande institution d’infrastructure de marché au monde, DTCC joue un rôle central dans les activités post-marché des capitaux, notamment la conservation et la compensation. Le cœur du plan porte sur l’adoption de Chainlink CRE et le lancement d’une appchain dédiée à la gestion du collatéral. Les informations publiées se limitent au calendrier du quatrième trimestre et à l’objectif de gestion mondiale en temps réel. Source: mk.co.kr."
-      },
-      "ar": {
-        "title": "DTCC تعتمد Chainlink CRE وتخطط لسلسلة تطبيقات لإدارة الضمانات فوريا",
-        "excerpt": "ستعتمد مؤسسة DTCC الأميركية للإيداع والتسوية Chainlink CRE بالكامل، وتطلق في الربع الرابع سلسلة تطبيقات لإدارة الضمانات عالميا على مدار 24 ساعة وبالوقت الفعلي.",
-        "body": "تتعاون مؤسسة DTCC الأميركية للإيداع والتسوية مع شبكة الأوراكل العالمية Chainlink لاعتماد Chainlink CRE بالكامل. وتخطط DTCC لإطلاق سلسلة تطبيقات لإدارة الضمانات في الربع الرابع، بهدف بناء إطار عالمي يتيح إدارة الضمانات بالوقت الفعلي على مدار 24 ساعة. وتعد DTCC أكبر مؤسسة بنية تحتية للأسواق في العالم، ولها دور محوري في أعمال ما بعد التداول في أسواق رأس المال، مثل الإيداع والتسوية. ويتمثل جوهر الخطة في اعتماد Chainlink CRE وإطلاق سلسلة تطبيقات مخصصة لإدارة الضمانات. وتقتصر المعلومات المعلنة على جدول الإطلاق في الربع الرابع وهدف الإدارة العالمية الفورية للضمانات. المصدر: mk.co.kr."
-      },
-      "hi": {
-        "title": "DTCC Chainlink CRE अपनाएगा, चौथी तिमाही में रियल-टाइम कोलेटरल ऐपचेन",
-        "excerpt": "अमेरिकी केंद्रीय डिपॉजिटरी और क्लियरिंग संस्था DTCC Chainlink CRE को पूरी तरह अपनाएगी और चौथी तिमाही में 24 घंटे रियल-टाइम वैश्विक कोलेटरल प्रबंधन ऐपचेन शुरू करेगी।",
-        "body": "अमेरिकी केंद्रीय डिपॉजिटरी और क्लियरिंग संस्था DTCC वैश्विक ओरेकल नेटवर्क Chainlink के साथ मिलकर Chainlink CRE को पूरी तरह अपनाएगी। DTCC चौथी तिमाही में कोलेटरल प्रबंधन ऐपचेन लॉन्च करने और 24 घंटे रियल-टाइम में कोलेटरल संभालने वाली वैश्विक व्यवस्था बनाने की योजना रखती है। DTCC दुनिया की सबसे बड़ी मार्केट इंफ्रास्ट्रक्चर संस्था है और डिपॉजिटरी तथा क्लियरिंग जैसे पूंजी बाजार के पोस्ट-ट्रेड कार्यों में केंद्रीय भूमिका निभाती है। इस योजना का मुख्य बिंदु Chainlink CRE को अपनाना और कोलेटरल प्रबंधन के लिए समर्पित ऐपचेन लॉन्च करना है। सार्वजनिक जानकारी चौथी तिमाही के लॉन्च कार्यक्रम और रियल-टाइम वैश्विक कोलेटरल प्रबंधन लक्ष्य तक सीमित है। स्रोत: mk.co.kr."
-      },
-      "id": {
-        "title": "DTCC Adopsi Chainlink CRE, Appchain Agunan Real-Time Meluncur Kuartal IV",
-        "excerpt": "DTCC, lembaga penyimpanan dan kliring sentral AS, akan mengadopsi penuh Chainlink CRE dan meluncurkan appchain manajemen agunan pada kuartal IV untuk operasi global real-time 24 jam.",
-        "body": "DTCC, lembaga penyimpanan dan kliring sentral Amerika Serikat, bekerja sama dengan jaringan oracle global Chainlink untuk mengadopsi penuh Chainlink CRE. DTCC berencana meluncurkan appchain manajemen agunan pada kuartal keempat dan membangun kerangka global untuk mengelola agunan secara real-time selama 24 jam. Sebagai institusi infrastruktur pasar terbesar di dunia, DTCC berperan penting dalam fungsi pascaperdagangan pasar modal, termasuk penyimpanan dan kliring. Inti rencana ini adalah adopsi Chainlink CRE dan peluncuran appchain khusus manajemen agunan. Informasi yang diungkap terbatas pada jadwal peluncuran kuartal keempat dan tujuan manajemen agunan global secara real-time. Sumber: mk.co.kr."
       }
     }
   }
