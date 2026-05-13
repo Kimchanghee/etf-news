@@ -1,0 +1,75 @@
+{
+  "id": "0b55afa01e00",
+  "slug": "비댁스-글로벌-레이어1-앱토스와-원화-스테이블코인-맞손-158583",
+  "channelId": "ETF",
+  "category": "etf",
+  "publishedAt": "2026-05-13T03:25:00.731Z",
+  "updatedAt": "2026-05-13T03:25:00.731Z",
+  "sourceName": "mk.co.kr",
+  "sourceUrl": "https://www.mk.co.kr/news/stock/12046040",
+  "canonicalUrl": "https://www.mk.co.kr/news/stock/12046040",
+  "titleFingerprint": "f37dc406b0085f834b43a8576f37dac956ca2013",
+  "dedupKeys": [
+    "0b55afa01e0028cab84a9fbd903bcbc28302dd8d",
+    "f37dc406b0085f834b43a8576f37dac956ca2013",
+    "e8de8d1f38eb9830aed1bf94dcc5aa19e8d26f89"
+  ],
+  "imageUrl": "/images/articles/0b55afa01e00.png",
+  "i18n": {
+    "ko": {
+      "title": "비댁스, 앱토스와 KRW1 원화 스테이블코인 상용화 협력",
+      "excerpt": "디지털 자산 인프라 기업 비댁스가 글로벌 레이어1 앱토스와 온체인 상거래 인프라 MOU를 맺고 KRW1 상용화와 첫 비EVM 메인넷 연동을 추진한다.",
+      "body": "디지털 자산 인프라 전문 기업 비댁스(BDACS)가 글로벌 레이어1 블록체인 앱토스(Aptos)와 손잡고 원화 스테이블코인 ‘KRW1’ 상용화를 추진한다. 양사는 온체인 상거래 인프라 구축을 위한 업무협약(MOU)을 체결했으며, 이번 협력은 EVM 기반이 아닌 메인넷과의 첫 연동 사례로 소개됐다. 비댁스는 KRW1을 앱토스 생태계와 연결해 온체인 결제와 상거래 활용 기반을 넓히는 데 초점을 맞춘다. 앱토스는 글로벌 레이어1 네트워크로, 이번 협약을 통해 원화 기반 디지털 결제 인프라의 적용 가능성을 확인하는 계기가 될 전망이다. 출처: mk.co.kr"
+    },
+    "en": {
+      "title": "BDACS Teams With Aptos to Commercialize KRW1 Won Stablecoin",
+      "excerpt": "Digital asset infrastructure firm BDACS signed an MOU with Layer 1 blockchain Aptos to build on-chain commerce infrastructure and advance KRW1 commercialization.",
+      "body": "Digital asset infrastructure company BDACS is working with global Layer 1 blockchain Aptos to commercialize the won stablecoin KRW1. The two sides signed a memorandum of understanding to build on-chain commerce infrastructure, and the partnership was presented as BDACS’s first mainnet integration with a non-EVM network. BDACS aims to connect KRW1 with the Aptos ecosystem and expand its basis for on-chain payments and commerce use. Aptos is a global Layer 1 network, and the agreement is expected to serve as a step toward testing the applicability of won-based digital payment infrastructure. Source: mk.co.kr"
+    },
+    "ja": {
+      "title": "BDACS、AptosとKRW1ウォン連動ステーブルコイン商用化へ",
+      "excerpt": "デジタル資産インフラ企業BDACSは、レイヤー1のAptosとオンチェーン商取引インフラ構築に向けたMOUを結び、KRW1の商用化を進める。",
+      "body": "デジタル資産インフラ専門企業BDACSは、グローバルなレイヤー1ブロックチェーンAptosと協力し、ウォン連動ステーブルコイン「KRW1」の商用化を推進する。両社はオンチェーン商取引インフラ構築に向けた業務協約（MOU）を締結した。今回の協力は、EVM基盤ではないメインネットとの初の連携事例として紹介された。BDACSはKRW1をAptosエコシステムにつなげ、オンチェーン決済と商取引での活用基盤を広げる方針だ。Aptosはグローバルなレイヤー1ネットワークであり、今回の協約はウォン基盤のデジタル決済インフラの適用可能性を確認する契機になる見通しだ。出典: mk.co.kr"
+    },
+    "zh": {
+      "title": "BDACS携手Aptos推进KRW1韩元稳定币商业化",
+      "excerpt": "数字资产基础设施企业BDACS与全球Layer1区块链Aptos签署MOU，建设链上商务基础设施，并推进KRW1商业化。",
+      "body": "数字资产基础设施专业企业BDACS正与全球Layer1区块链Aptos合作，推进韩元稳定币“KRW1”的商业化。双方签署了建设链上商务基础设施的谅解备忘录（MOU）。此次合作被介绍为BDACS首次接入非EVM主网的案例。BDACS计划将KRW1连接至Aptos生态系统，扩大其在链上支付和商务应用中的基础。Aptos是全球Layer1网络，本次协议预计将成为验证韩元基础数字支付基础设施适用性的契机。来源：mk.co.kr"
+    },
+    "es": {
+      "title": "BDACS se alía con Aptos para comercializar la stablecoin KRW1",
+      "excerpt": "BDACS, firma de infraestructura de activos digitales, firmó un MOU con Aptos para crear infraestructura de comercio on-chain e impulsar KRW1.",
+      "body": "La empresa de infraestructura de activos digitales BDACS trabaja con Aptos, blockchain global de capa 1, para impulsar la comercialización de la stablecoin en wones KRW1. Ambas partes firmaron un memorando de entendimiento para construir infraestructura de comercio on-chain. La cooperación fue presentada como el primer caso de integración de BDACS con una mainnet que no está basada en EVM. BDACS busca conectar KRW1 con el ecosistema Aptos y ampliar la base para pagos y comercio on-chain. Aptos es una red global de capa 1, y el acuerdo servirá para comprobar la aplicabilidad de una infraestructura de pagos digitales basada en wones. Fuente: mk.co.kr"
+    },
+    "pt": {
+      "title": "BDACS fecha parceria com Aptos para comercializar stablecoin KRW1",
+      "excerpt": "A BDACS, empresa de infraestrutura de ativos digitais, assinou MOU com a Aptos para criar infraestrutura de comércio on-chain e avançar com a KRW1.",
+      "body": "A empresa de infraestrutura de ativos digitais BDACS está trabalhando com a Aptos, blockchain global de camada 1, para comercializar a stablecoin em won KRW1. As duas partes assinaram um memorando de entendimento para construir infraestrutura de comércio on-chain. A cooperação foi apresentada como o primeiro caso de integração da BDACS com uma mainnet que não é baseada em EVM. A BDACS pretende conectar a KRW1 ao ecossistema Aptos e ampliar sua base de uso em pagamentos e comércio on-chain. A Aptos é uma rede global de camada 1, e o acordo deve ajudar a verificar a aplicabilidade de infraestrutura de pagamentos digitais baseada em won. Fonte: mk.co.kr"
+    },
+    "de": {
+      "title": "BDACS und Aptos treiben KRW1-Won-Stablecoin-Kommerzialisierung voran",
+      "excerpt": "BDACS hat mit Layer-1-Blockchain Aptos ein MOU für On-Chain-Handelsinfrastruktur unterzeichnet und will die Kommerzialisierung von KRW1 vorantreiben.",
+      "body": "Der Digital-Asset-Infrastrukturanbieter BDACS arbeitet mit der globalen Layer-1-Blockchain Aptos zusammen, um den Won-Stablecoin KRW1 zu kommerzialisieren. Beide Seiten unterzeichneten eine Absichtserklärung zum Aufbau von On-Chain-Handelsinfrastruktur. Die Kooperation wurde als erste Mainnet-Anbindung von BDACS an ein nicht EVM-basiertes Netzwerk vorgestellt. BDACS will KRW1 mit dem Aptos-Ökosystem verbinden und die Grundlage für On-Chain-Zahlungen und Handelsanwendungen erweitern. Aptos ist ein globales Layer-1-Netzwerk; die Vereinbarung dürfte die Anwendbarkeit wonbasierter digitaler Zahlungsinfrastruktur prüfen. Quelle: mk.co.kr"
+    },
+    "fr": {
+      "title": "BDACS s’allie à Aptos pour commercialiser le stablecoin KRW1",
+      "excerpt": "BDACS, spécialiste des infrastructures d’actifs numériques, a signé un MOU avec Aptos afin de bâtir une infrastructure de commerce on-chain et développer KRW1.",
+      "body": "BDACS, entreprise spécialisée dans les infrastructures d’actifs numériques, collabore avec Aptos, blockchain mondiale de couche 1, pour commercialiser le stablecoin en won KRW1. Les deux parties ont signé un protocole d’accord visant à construire une infrastructure de commerce on-chain. Cette coopération a été présentée comme la première intégration mainnet de BDACS avec un réseau non fondé sur EVM. BDACS veut relier KRW1 à l’écosystème Aptos et élargir sa base d’utilisation pour les paiements et le commerce on-chain. Aptos est un réseau mondial de couche 1, et l’accord devrait permettre d’évaluer l’applicabilité d’une infrastructure de paiement numérique basée sur le won. Source : mk.co.kr"
+    },
+    "ar": {
+      "title": "BDACS تتعاون مع Aptos لتسويق عملة KRW1 المستقرة بالوون",
+      "excerpt": "وقعت BDACS، المتخصصة في بنية الأصول الرقمية، مذكرة تفاهم مع Aptos لبناء بنية تجارة على السلسلة ودفع تسويق KRW1.",
+      "body": "تعمل شركة BDACS المتخصصة في بنية الأصول الرقمية مع بلوكتشين Aptos العالمية من الطبقة الأولى لدفع تسويق العملة المستقرة المرتبطة بالوون KRW1. ووقعت الجهتان مذكرة تفاهم لبناء بنية تحتية للتجارة على السلسلة. وقد قُدمت هذه الشراكة على أنها أول حالة ربط للشبكة الرئيسية لدى BDACS مع شبكة غير قائمة على EVM. وتركز BDACS على ربط KRW1 بمنظومة Aptos وتوسيع أساس استخدامها في المدفوعات والتجارة على السلسلة. وتعد Aptos شبكة عالمية من الطبقة الأولى، ومن المتوقع أن يتيح الاتفاق اختبار قابلية تطبيق بنية مدفوعات رقمية قائمة على الوون. المصدر: mk.co.kr"
+    },
+    "hi": {
+      "title": "BDACS और Aptos KRW1 वॉन स्टेबलकॉइन के व्यावसायीकरण पर साथ",
+      "excerpt": "डिजिटल एसेट इन्फ्रास्ट्रक्चर कंपनी BDACS ने Aptos के साथ ऑन-चेन कॉमर्स इन्फ्रास्ट्रक्चर और KRW1 व्यावसायीकरण के लिए MOU किया।",
+      "body": "डिजिटल एसेट इन्फ्रास्ट्रक्चर कंपनी BDACS वैश्विक लेयर 1 ब्लॉकचेन Aptos के साथ मिलकर वॉन स्टेबलकॉइन KRW1 के व्यावसायीकरण को आगे बढ़ा रही है। दोनों पक्षों ने ऑन-चेन कॉमर्स इन्फ्रास्ट्रक्चर बनाने के लिए समझौता ज्ञापन पर हस्ताक्षर किए। इस सहयोग को BDACS के लिए गैर-EVM मेननेट के साथ पहली इंटीग्रेशन मिसाल के रूप में पेश किया गया। BDACS का लक्ष्य KRW1 को Aptos इकोसिस्टम से जोड़ना और ऑन-चेन भुगतान व कॉमर्स उपयोग का आधार बढ़ाना है। Aptos एक वैश्विक लेयर 1 नेटवर्क है, और यह समझौता वॉन आधारित डिजिटल भुगतान इन्फ्रास्ट्रक्चर की उपयोगिता जांचने का अवसर बनेगा। स्रोत: mk.co.kr"
+    },
+    "id": {
+      "title": "BDACS Gandeng Aptos untuk Komersialisasi Stablecoin Won KRW1",
+      "excerpt": "BDACS, perusahaan infrastruktur aset digital, menandatangani MOU dengan Aptos untuk membangun infrastruktur perdagangan on-chain dan mendorong KRW1.",
+      "body": "Perusahaan infrastruktur aset digital BDACS bekerja sama dengan blockchain Layer 1 global Aptos untuk mendorong komersialisasi stablecoin berbasis won, KRW1. Kedua pihak menandatangani nota kesepahaman untuk membangun infrastruktur perdagangan on-chain. Kerja sama ini diperkenalkan sebagai kasus integrasi mainnet pertama BDACS dengan jaringan yang bukan berbasis EVM. BDACS berfokus menghubungkan KRW1 dengan ekosistem Aptos dan memperluas dasar penggunaannya untuk pembayaran serta perdagangan on-chain. Aptos merupakan jaringan Layer 1 global, dan kesepakatan ini diperkirakan menjadi langkah untuk menguji penerapan infrastruktur pembayaran digital berbasis won. Sumber: mk.co.kr"
+    }
+  }
+}
