@@ -1,5 +1,230 @@
 [
   {
+    "id": "697b59056eba",
+    "slug": "하루-만에-되살아난-투심코스피-사상-최고치-마감-298169",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-05-13T20:06:45.953Z",
+    "updatedAt": "2026-05-13T20:06:45.953Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/2026051344961",
+    "canonicalUrl": "https://www.hankyung.com/article/2026051344961",
+    "titleFingerprint": "003fb3da89186d13f098e7c0e6b6468e7ffbbb36",
+    "dedupKeys": [
+      "697b59056ebadc8e96d00b2aadc5fc99bbb0f758",
+      "003fb3da89186d13f098e7c0e6b6468e7ffbbb36",
+      "1961be5e4078742698b6085917c95021d6605e55"
+    ],
+    "imageUrl": "/images/articles/697b59056eba.jpg",
+    "i18n": {
+      "ko": {
+        "title": "코스피 사상 최고 7844.01 마감, 하루 만에 돌아온 투심과 대기자금이 만든 반등 랠리",
+        "excerpt": "2026년 5월 13일 코스피지수는 전날보다 2.63% 오른 7844.01에 마감하며 종가 기준 사상 최고치를 새로 썼고, 대기자금 유입과 개인·기관 매수가 반등을 이끌었다.",
+        "body": "2026년 5월 13일 코스피지수는 급락 하루 만에 반등해 전날보다 2.63% 오른 7844.01에 거래를 마치며 종가 기준 사상 최고치를 경신했다. 장 초반에는 반도체주 약세 여파로 오전 9시15분께 7406.14까지 밀렸지만, 오전 10시20분 무렵 상승 전환했다. 직전 종가 최고치였던 5월 11일 7822.24를 이틀 만에 넘어섰다. 개인과 기관은 각각 1조8000억원어치를 순매수했고, 외국인은 4조원 가까이 순매도했다. 투자자예탁금은 5월 12일 기준 137조4174억원으로 집계됐다. 현대차그룹주와 반도체주 반등이 지수 상승에 힘을 보탰으며, 모건스탠리는 올해 코스피 전망치를 9500으로 제시하고 강세장에서는 1만 선도 가능하다고 봤다. 출처: hankyung.com"
+      },
+      "en": {
+        "title": "KOSPI Closes at Record 7,844.01 as Investor Sentiment Rebounds",
+        "excerpt": "On May 13, 2026, the KOSPI rose 2.63% to close at a record 7,844.01, as waiting cash, retail investors and institutions drove a one-day rebound after a sharp drop.",
+        "body": "On May 13, 2026, the KOSPI rebounded one day after a sharp fall and closed up 2.63% at 7,844.01, setting a record closing high. Early trading was weak after pressure on semiconductor shares, and the index fell to 7,406.14 around 9:15 a.m., before turning higher around 10:20 a.m. It surpassed the previous closing record of 7,822.24 set on May 11. Retail investors and institutions each bought a net 1.8 trillion won, while foreign investors sold nearly 4 trillion won. Investor deposits stood at 137.4174 trillion won as of May 12. Hyundai Motor Group shares and a rebound in chip stocks supported the advance. Morgan Stanley set a 2026 KOSPI forecast of 9,500 and said 10,000 could be possible in a bull market. Source: hankyung.com"
+      },
+      "ja": {
+        "title": "KOSPIが7844.01で史上最高値、1日で戻った投資心理と待機資金が押し上げ",
+        "excerpt": "2026年5月13日、KOSPI指数は前日比2.63%高の7844.01で取引を終え、終値ベースの史上最高値を更新した。待機資金流入と個人・機関の買いが反発を支えた。",
+        "body": "2026年5月13日、KOSPI指数は急落から1日で反発し、前日比2.63%高の7844.01で取引を終え、終値ベースの史上最高値を更新した。序盤は半導体株の弱さを受け、午前9時15分ごろ7406.14まで下げたが、午前10時20分ごろ上昇に転じた。5月11日に付けた従来の終値最高値7822.24を2日で上回った。個人と機関投資家はそれぞれ1兆8000億ウォンを買い越し、外国人は4兆ウォン近くを売り越した。投資家預託金は5月12日時点で137兆4174億ウォンだった。現代自動車グループ株と半導体株の反発が指数を押し上げた。モルガン・スタンレーは今年のKOSPI見通しを9500とし、強気相場なら1万も可能とみている。出所: hankyung.com"
+      },
+      "zh": {
+        "title": "KOSPI收于7844.01创历史新高，投资情绪一日修复与待机资金推动反弹",
+        "excerpt": "2026年5月13日，KOSPI指数较前一交易日上涨2.63%，收于7844.01点，刷新收盘历史高点；待机资金流入以及个人和机构买盘带动反弹。",
+        "body": "2026年5月13日，KOSPI指数在急跌一天后反弹，较前一交易日上涨2.63%，收于7844.01点，刷新收盘历史最高纪录。早盘受半导体股疲弱影响，指数在上午9点15分左右一度跌至7406.14点，但约10点20分转为上涨。该指数两天后超过了5月11日创下的前收盘纪录7822.24点。个人投资者和机构投资者分别净买入1.8万亿韩元，外国投资者则净卖出近4万亿韩元。金融投资协会数据显示，截至5月12日，投资者存款为137.4174万亿韩元。现代汽车集团相关股票和半导体股反弹支撑指数上行。摩根士丹利将今年KOSPI预期定为9500点，并认为牛市中可能达到1万点。来源: hankyung.com"
+      },
+      "es": {
+        "title": "KOSPI cierra en récord de 7.844,01 tras el regreso del apetito inversor",
+        "excerpt": "El 13 de mayo de 2026, el KOSPI subió un 2,63% hasta 7.844,01 puntos y marcó un máximo histórico de cierre, impulsado por liquidez en espera y compras de minoristas e instituciones.",
+        "body": "El 13 de mayo de 2026, el KOSPI rebotó un día después de una fuerte caída y cerró con un alza del 2,63%, en 7.844,01 puntos, un máximo histórico de cierre. Al inicio pesó la debilidad de las acciones de semiconductores y el índice cayó hasta 7.406,14 hacia las 9:15, pero pasó a terreno positivo alrededor de las 10:20. Superó en dos días el récord previo de cierre, 7.822,24, alcanzado el 11 de mayo. Los inversores minoristas y las instituciones compraron cada uno un neto de 1,8 billones de wones, mientras que los extranjeros vendieron cerca de 4 billones. Los depósitos de inversores eran de 137,4174 billones de wones al 12 de mayo. Las acciones del grupo Hyundai Motor y el rebote de los semiconductores apoyaron la subida. Morgan Stanley situó su previsión del KOSPI para este año en 9.500 y dijo que 10.000 sería posible en un mercado alcista. Fuente: hankyung.com"
+      },
+      "pt": {
+        "title": "KOSPI fecha em recorde de 7.844,01 com retorno do apetite ao risco",
+        "excerpt": "Em 13 de maio de 2026, o KOSPI avançou 2,63% e fechou no recorde de 7.844,01 pontos, sustentado por recursos em espera e compras líquidas de pessoas físicas e instituições.",
+        "body": "Em 13 de maio de 2026, o KOSPI reagiu um dia após uma forte queda e fechou em alta de 2,63%, a 7.844,01 pontos, renovando o recorde histórico de fechamento. No início do pregão, a fraqueza das ações de semicondutores levou o índice a 7.406,14 por volta das 9h15, mas ele virou para alta perto das 10h20. O patamar superou, em dois dias, o recorde anterior de fechamento de 7.822,24 registrado em 11 de maio. Investidores pessoa física e instituições compraram, cada grupo, 1,8 trilhão de wons em termos líquidos, enquanto estrangeiros venderam quase 4 trilhões. Os depósitos de investidores somavam 137,4174 trilhões de wons em 12 de maio. Ações do Hyundai Motor Group e a recuperação dos papéis de chips ajudaram o índice. O Morgan Stanley projetou o KOSPI em 9.500 neste ano e disse que 10.000 pode ser possível em um mercado de alta. Fonte: hankyung.com"
+      },
+      "de": {
+        "title": "KOSPI schließt mit 7.844,01 auf Rekordhoch nach Rückkehr der Anlegerstimmung",
+        "excerpt": "Am 13. Mai 2026 stieg der KOSPI um 2,63% auf ein Rekord-Schlussniveau von 7.844,01 Punkten, gestützt von wartender Liquidität sowie Käufen privater und institutioneller Anleger.",
+        "body": "Am 13. Mai 2026 erholte sich der KOSPI einen Tag nach einem starken Rückgang und schloss 2,63% höher bei 7.844,01 Punkten, einem historischen Schlussrekord. Zu Handelsbeginn belasteten schwache Halbleiterwerte, und der Index fiel gegen 9:15 Uhr auf 7.406,14 Punkte, drehte aber um etwa 10:20 Uhr ins Plus. Damit übertraf er nach zwei Tagen den bisherigen Schlussrekord von 7.822,24 Punkten vom 11. Mai. Private Anleger und Institutionen kauften jeweils netto Aktien im Wert von 1,8 Billionen Won, während Ausländer nahezu 4 Billionen Won verkauften. Die Anlegerguthaben lagen am 12. Mai bei 137,4174 Billionen Won. Aktien der Hyundai Motor Group und die Erholung der Chipwerte stützten den Anstieg. Morgan Stanley nannte für dieses Jahr ein KOSPI-Ziel von 9.500 und hielt in einem Bullenmarkt auch 10.000 für möglich. Quelle: hankyung.com"
+      },
+      "fr": {
+        "title": "Le KOSPI clôture à un record de 7 844,01 grâce au retour de l’appétit des investisseurs",
+        "excerpt": "Le 13 mai 2026, le KOSPI a gagné 2,63% pour finir à un record de clôture de 7 844,01 points, porté par les liquidités en attente et les achats des particuliers et institutions.",
+        "body": "Le 13 mai 2026, le KOSPI a rebondi un jour après une forte baisse et a clôturé en hausse de 2,63%, à 7 844,01 points, un record historique de clôture. En début de séance, la faiblesse des valeurs de semi-conducteurs a pesé sur l’indice, tombé à 7 406,14 vers 9 h 15, avant un passage en territoire positif vers 10 h 20. Il a dépassé en deux jours le précédent record de clôture, 7 822,24, inscrit le 11 mai. Les particuliers et les investisseurs institutionnels ont chacun acheté pour 1 800 milliards de wons nets, tandis que les étrangers ont vendu près de 4 000 milliards de wons. Les dépôts d’investisseurs atteignaient 137 417,4 milliards de wons au 12 mai. Les actions du groupe Hyundai Motor et le rebond des semi-conducteurs ont soutenu la hausse. Morgan Stanley a fixé sa prévision 2026 du KOSPI à 9 500 et juge possible le seuil de 10 000 dans un marché haussier. Source: hankyung.com"
+      },
+      "ar": {
+        "title": "كوسبي يغلق عند رقم قياسي 7,844.01 مع عودة شهية المستثمرين بعد يوم واحد",
+        "excerpt": "في 13 مايو 2026 ارتفع مؤشر كوسبي 2.63% ليغلق عند مستوى قياسي بلغ 7,844.01 نقطة، بدعم من تدفق الأموال المنتظرة ومشتريات المستثمرين الأفراد والمؤسسات.",
+        "body": "في 13 مايو 2026 تعافى مؤشر كوسبي بعد يوم واحد من هبوط حاد، وأغلق مرتفعا 2.63% عند 7,844.01 نقطة، مسجلا أعلى إغلاق في تاريخه. في بداية الجلسة ضغط ضعف أسهم أشباه الموصلات على المؤشر، فهبط إلى 7,406.14 نقطة قرابة الساعة 9:15 صباحا، ثم تحول إلى الصعود قرب 10:20 صباحا. وبذلك تجاوز خلال يومين الرقم القياسي السابق للإغلاق البالغ 7,822.24 نقطة المسجل في 11 مايو. اشترى المستثمرون الأفراد والمؤسسات صافي 1.8 تريليون وون لكل منهما، بينما باع الأجانب ما يقرب من 4 تريليونات وون. وبلغت ودائع المستثمرين 137.4174 تريليون وون في 12 مايو. ساعدت أسهم مجموعة هيونداي موتور وتعافي أسهم الرقائق في صعود المؤشر. وحددت مورغان ستانلي توقعها لكوسبي هذا العام عند 9,500 نقطة، وقالت إن 10,000 ممكنة في سوق صاعدة. المصدر: hankyung.com"
+      },
+      "hi": {
+        "title": "KOSPI 7,844.01 के रिकॉर्ड बंद स्तर पर, एक दिन में लौटी निवेशक धारणा",
+        "excerpt": "13 मई 2026 को KOSPI 2.63% बढ़कर 7,844.01 पर बंद हुआ और रिकॉर्ड क्लोजिंग बनाई; प्रतीक्षारत नकदी, खुदरा निवेशकों और संस्थानों की खरीद ने तेज पलटाव को सहारा दिया।",
+        "body": "13 मई 2026 को KOSPI तेज गिरावट के एक दिन बाद उछला और 2.63% बढ़कर 7,844.01 पर बंद हुआ, जो उसका रिकॉर्ड क्लोजिंग स्तर है। शुरुआती कारोबार में सेमीकंडक्टर शेयरों की कमजोरी से सूचकांक सुबह करीब 9:15 बजे 7,406.14 तक फिसला, लेकिन करीब 10:20 बजे बढ़त में आ गया। इसने 11 मई को बने 7,822.24 के पिछले क्लोजिंग रिकॉर्ड को दो दिन में पार कर लिया। खुदरा निवेशकों और संस्थागत निवेशकों ने प्रत्येक ने शुद्ध 1.8 लाख करोड़ वोन की खरीद की, जबकि विदेशी निवेशकों ने लगभग 4 लाख करोड़ वोन की बिक्री की। 12 मई तक निवेशक जमा 137.4174 लाख करोड़ वोन था। Hyundai Motor Group के शेयरों और चिप शेयरों की वापसी ने तेजी को सहारा दिया। Morgan Stanley ने इस साल KOSPI का अनुमान 9,500 रखा और कहा कि तेज बाजार में 10,000 भी संभव है। स्रोत: hankyung.com"
+      },
+      "id": {
+        "title": "KOSPI Ditutup Rekor 7.844,01 Saat Sentimen Investor Pulih dalam Sehari",
+        "excerpt": "Pada 13 Mei 2026, KOSPI naik 2,63% dan ditutup di rekor 7.844,01, didorong arus dana siaga serta aksi beli investor ritel dan institusi setelah penurunan tajam sehari sebelumnya.",
+        "body": "Pada 13 Mei 2026, KOSPI berbalik naik sehari setelah penurunan tajam dan ditutup menguat 2,63% ke 7.844,01, rekor tertinggi berdasarkan harga penutupan. Pada awal perdagangan, tekanan pada saham semikonduktor membuat indeks sempat turun ke 7.406,14 sekitar pukul 09.15, tetapi berbalik positif sekitar pukul 10.20. Angka itu melampaui rekor penutupan sebelumnya, 7.822,24, yang dicapai pada 11 Mei. Investor ritel dan institusi masing-masing mencatat beli bersih 1,8 triliun won, sementara investor asing menjual hampir 4 triliun won. Dana simpanan investor tercatat 137,4174 triliun won per 12 Mei. Saham Hyundai Motor Group dan pemulihan saham chip menopang kenaikan indeks. Morgan Stanley menetapkan proyeksi KOSPI tahun ini di 9.500 dan menilai level 10.000 mungkin tercapai dalam pasar bullish. Sumber: hankyung.com"
+      }
+    }
+  },
+  {
+    "id": "43d8e4e1c88a",
+    "slug": "gs리테일-2조-클럽-복귀허서홍-대표-취임-1년만-258977",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-05-13T20:05:24.092Z",
+    "updatedAt": "2026-05-13T20:05:24.092Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/202605134506i",
+    "canonicalUrl": "https://www.hankyung.com/article/202605134506i",
+    "titleFingerprint": "3b307455903c532b42feb39f0a9aab7c2b47f229",
+    "dedupKeys": [
+      "43d8e4e1c88aed8ca7d8e493ea17ca56ab36c20d",
+      "3b307455903c532b42feb39f0a9aab7c2b47f229",
+      "acae6110e31bc99b370b0743ccfd00aaaeb1200b"
+    ],
+    "imageUrl": "/images/articles/43d8e4e1c88a.jpg",
+    "i18n": {
+      "ko": {
+        "title": "GS리테일, ‘2조 클럽’ 복귀…허서홍 대표 취임 1년 만의 성과",
+        "excerpt": "GS리테일이 허서홍 대표 취임 1년 만에 ‘2조 클럽’에 복귀했다. 한국경제 보도에 따르면 경영 체제 변화 이후 실적 회복 흐름이 주목된다.",
+        "body": "GS리테일이 허서홍 대표 취임 1년 만에 ‘2조 클럽’에 복귀했다. 13일 한국경제 보도에 따르면 GS리테일은 허 대표 체제 출범 이후 다시 2조원대 실적 구간에 이름을 올렸다. 이번 복귀는 대표 취임 후 1년이라는 비교적 짧은 기간에 이뤄졌다는 점에서 관심을 끈다. ‘2조 클럽’ 재진입은 GS리테일의 사업 운영과 실적 흐름이 회복 국면에 들어섰는지를 가늠하는 지표로 받아들여질 수 있다. 다만 향후 성과는 같은 흐름을 얼마나 안정적으로 이어가느냐에 달려 있다. 출처: hankyung.com"
+      },
+      "en": {
+        "title": "GS Retail Returns to the ‘2 Trillion Won Club’ One Year After CEO Huh Seo-hong Took Office",
+        "excerpt": "GS Retail has returned to the ‘2 trillion won club’ one year after CEO Huh Seo-hong took office, drawing attention to its post-leadership-change performance trend.",
+        "body": "GS Retail has returned to the ‘2 trillion won club’ one year after Huh Seo-hong became chief executive. According to a report by Korea Economic Daily on May 13, the company has re-entered the 2 trillion won performance range under Huh’s leadership. The timing is drawing attention because the return came within a relatively short period after the new CEO took office. Rejoining the ‘2 trillion won club’ may be viewed as a marker for assessing whether GS Retail’s business operations and earnings trend are recovering. Future results will depend on how steadily the company can maintain that momentum. Source: hankyung.com"
+      },
+      "ja": {
+        "title": "GSリテールが「2兆ウォンクラブ」復帰、許舒弘代表就任1年で実現",
+        "excerpt": "GSリテールが許舒弘代表の就任から1年で「2兆ウォンクラブ」に復帰した。韓国経済新聞の報道によると、経営体制変更後の実績回復が注目される。",
+        "body": "GSリテールが許舒弘代表の就任から1年で「2兆ウォンクラブ」に復帰した。5月13日の韓国経済新聞の報道によると、GSリテールは許代表体制の発足後、再び2兆ウォン台の実績水準に名を連ねた。今回の復帰は、代表就任から1年という比較的短い期間で実現した点で関心を集めている。「2兆ウォンクラブ」への再進入は、GSリテールの事業運営と業績の流れが回復局面に入ったかを測る指標として受け止められる。今後はこの流れをどれだけ安定的に維持できるかが焦点となる。出典: hankyung.com"
+      },
+      "zh": {
+        "title": "GS Retail重返“2万亿韩元俱乐部”，许舒弘上任一年见成效",
+        "excerpt": "GS Retail在许舒弘代表上任一年后重返“2万亿韩元俱乐部”。据韩国经济新闻报道，管理层更替后的业绩恢复趋势受到关注。",
+        "body": "GS Retail在许舒弘代表上任一年后重返“2万亿韩元俱乐部”。据韩国经济新闻5月13日报道，GS Retail在许代表体制启动后，再次进入2万亿韩元级业绩区间。此次回归之所以受到关注，是因为它发生在代表上任后相对较短的一年时间内。重新进入“2万亿韩元俱乐部”，可被视为观察GS Retail业务运营和业绩走势是否进入恢复阶段的一个指标。不过，未来表现仍取决于公司能否稳定延续这一趋势。来源: hankyung.com"
+      },
+      "es": {
+        "title": "GS Retail vuelve al ‘club de los 2 billones de wones’ un año después de la llegada de Huh Seo-hong",
+        "excerpt": "GS Retail regresó al ‘club de los 2 billones de wones’ un año después de que Huh Seo-hong asumiera como director general, según Korea Economic Daily.",
+        "body": "GS Retail volvió al ‘club de los 2 billones de wones’ un año después de que Huh Seo-hong asumiera la dirección. Según informó Korea Economic Daily el 13 de mayo, la compañía volvió a situarse en el rango de desempeño de 2 billones de wones bajo la gestión de Huh. El regreso llama la atención porque se produjo en un periodo relativamente corto desde el cambio de liderazgo. Reingresar a ese grupo puede servir como indicador para evaluar si las operaciones y la tendencia de resultados de GS Retail están entrando en una fase de recuperación. La perspectiva dependerá de la estabilidad con que mantenga este impulso. Fuente: hankyung.com"
+      },
+      "pt": {
+        "title": "GS Retail volta ao ‘clube dos 2 trilhões de won’ um ano após posse de Huh Seo-hong",
+        "excerpt": "A GS Retail retornou ao ‘clube dos 2 trilhões de won’ um ano depois da posse do CEO Huh Seo-hong, segundo o Korea Economic Daily.",
+        "body": "A GS Retail voltou ao ‘clube dos 2 trilhões de won’ um ano depois de Huh Seo-hong assumir a liderança. Segundo reportagem do Korea Economic Daily em 13 de maio, a empresa voltou à faixa de desempenho de 2 trilhões de won sob a gestão de Huh. O retorno chama atenção por ter ocorrido em um período relativamente curto após a posse do novo representante. A reentrada nesse patamar pode ser vista como um indicador para avaliar se as operações e os resultados da GS Retail estão em trajetória de recuperação. O desempenho futuro dependerá de quão estável será a continuidade desse movimento. Fonte: hankyung.com"
+      },
+      "de": {
+        "title": "GS Retail kehrt ein Jahr nach Amtsantritt von Huh Seo-hong in den ‘2-Billionen-Won-Club’ zurück",
+        "excerpt": "GS Retail ist ein Jahr nach dem Amtsantritt von CEO Huh Seo-hong in den ‘2-Billionen-Won-Club’ zurückgekehrt, berichtet Korea Economic Daily.",
+        "body": "GS Retail ist ein Jahr nach dem Amtsantritt von Huh Seo-hong in den ‘2-Billionen-Won-Club’ zurückgekehrt. Wie Korea Economic Daily am 13. Mai berichtete, erreichte das Unternehmen unter Huhs Führung erneut den Leistungsbereich von 2 Billionen Won. Aufmerksamkeit erhält die Rückkehr, weil sie innerhalb eines vergleichsweise kurzen Zeitraums nach dem Führungswechsel gelang. Der Wiedereintritt in diesen Bereich kann als Hinweis darauf gelten, ob sich Geschäftsbetrieb und Ergebnisentwicklung von GS Retail in einer Erholungsphase befinden. Entscheidend bleibt, wie stabil das Unternehmen diesen Trend fortsetzen kann. Quelle: hankyung.com"
+      },
+      "fr": {
+        "title": "GS Retail retrouve le ‘club des 2 000 milliards de wons’ un an après l’arrivée de Huh Seo-hong",
+        "excerpt": "GS Retail a retrouvé le ‘club des 2 000 milliards de wons’ un an après l’arrivée de Huh Seo-hong à sa direction, selon Korea Economic Daily.",
+        "body": "GS Retail a retrouvé le ‘club des 2 000 milliards de wons’ un an après la prise de fonctions de Huh Seo-hong. Selon Korea Economic Daily le 13 mai, l’entreprise est revenue dans la zone de performance des 2 000 milliards de wons sous la direction de Huh. Ce retour attire l’attention car il intervient dans un délai relativement court après le changement de direction. Réintégrer ce niveau peut être considéré comme un indicateur permettant d’évaluer si les activités et la tendance des résultats de GS Retail entrent dans une phase de reprise. La suite dépendra de la capacité de l’entreprise à maintenir cette dynamique de manière stable. Source: hankyung.com"
+      },
+      "ar": {
+        "title": "GS Retail تعود إلى ‘نادي 2 تريليون وون’ بعد عام من تولي هوه سيو هونغ الإدارة",
+        "excerpt": "عادت GS Retail إلى ‘نادي 2 تريليون وون’ بعد عام من تولي هوه سيو هونغ منصب الرئيس التنفيذي، وفق تقرير لصحيفة كوريا الاقتصادية.",
+        "body": "عادت GS Retail إلى ‘نادي 2 تريليون وون’ بعد عام من تولي هوه سيو هونغ منصب الرئيس التنفيذي. ووفق ما أوردته صحيفة كوريا الاقتصادية في 13 مايو، دخلت الشركة مجددا نطاق الأداء البالغ 2 تريليون وون في ظل قيادة هوه. ويحظى هذا التطور بالاهتمام لأنه تحقق خلال فترة قصيرة نسبيا بعد تغيير القيادة. ويمكن النظر إلى العودة إلى هذا المستوى كمؤشر يساعد في تقييم ما إذا كانت عمليات GS Retail واتجاه نتائجها قد دخلا مرحلة تعاف. وستعتمد النتائج المقبلة على مدى قدرة الشركة على الحفاظ على هذا الزخم بصورة مستقرة. المصدر: hankyung.com"
+      },
+      "hi": {
+        "title": "GS Retail की ‘2 ट्रिलियन वॉन क्लब’ में वापसी, Huh Seo-hong के पद संभालने के एक साल बाद",
+        "excerpt": "GS Retail ने CEO Huh Seo-hong के पद संभालने के एक साल बाद ‘2 ट्रिलियन वॉन क्लब’ में वापसी की है, Korea Economic Daily की रिपोर्ट में कहा गया।",
+        "body": "GS Retail ने Huh Seo-hong के मुख्य कार्यकारी के रूप में पद संभालने के एक साल बाद ‘2 ट्रिलियन वॉन क्लब’ में वापसी की है। Korea Economic Daily की 13 मई की रिपोर्ट के अनुसार, Huh के नेतृत्व में कंपनी फिर से 2 ट्रिलियन वॉन के प्रदर्शन स्तर पर पहुंची। यह वापसी इसलिए ध्यान खींचती है क्योंकि यह नेतृत्व परिवर्तन के बाद अपेक्षाकृत कम समय में हुई। ‘2 ट्रिलियन वॉन क्लब’ में दोबारा प्रवेश को GS Retail के कारोबारी संचालन और प्रदर्शन प्रवृत्ति में सुधार के संकेतक के रूप में देखा जा सकता है। आगे का परिणाम इस बात पर निर्भर करेगा कि कंपनी इस गति को कितनी स्थिरता से बनाए रखती है। स्रोत: hankyung.com"
+      },
+      "id": {
+        "title": "GS Retail Kembali ke ‘Klub 2 Triliun Won’ Setahun Setelah Huh Seo-hong Menjabat",
+        "excerpt": "GS Retail kembali ke ‘klub 2 triliun won’ setahun setelah Huh Seo-hong menjabat sebagai CEO, menurut laporan Korea Economic Daily.",
+        "body": "GS Retail kembali ke ‘klub 2 triliun won’ setahun setelah Huh Seo-hong menjabat sebagai CEO. Menurut laporan Korea Economic Daily pada 13 Mei, perusahaan kembali masuk ke kisaran kinerja 2 triliun won di bawah kepemimpinan Huh. Kembalinya GS Retail menarik perhatian karena terjadi dalam waktu yang relatif singkat setelah pergantian kepemimpinan. Masuk kembali ke ‘klub 2 triliun won’ dapat dilihat sebagai indikator untuk menilai apakah operasi bisnis dan tren kinerja GS Retail sedang memasuki fase pemulihan. Prospek berikutnya akan bergantung pada seberapa stabil perusahaan mempertahankan momentum tersebut. Sumber: hankyung.com"
+      }
+    }
+  },
+  {
+    "id": "ef4fae204833",
+    "slug": "베이시스-차익거래-플랫폼-비공개-테스트-완료-후-출시-922561",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-05-13T20:04:31.027Z",
+    "updatedAt": "2026-05-13T20:04:31.027Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/2026051342636",
+    "canonicalUrl": "https://www.hankyung.com/article/2026051342636",
+    "titleFingerprint": "6c0bae21ac2b6253e4895955a491fdeb4b9a7c6f",
+    "dedupKeys": [
+      "ef4fae20483386019dba30d2155909f1c2dd97f2",
+      "6c0bae21ac2b6253e4895955a491fdeb4b9a7c6f",
+      "bcaea03eab254a8de9c2cbcfa91505ee500882bd"
+    ],
+    "imageUrl": "/images/articles/ef4fae204833.jpg",
+    "i18n": {
+      "ko": {
+        "title": "베이시스 차익거래 플랫폼 정식 출시, 비공개 테스트 완료 후 일반 개방",
+        "excerpt": "암호화폐 차익거래 플랫폼 베이시스가 2026년 5월 13일 비공개 실거래 테스트를 마치고 일반 이용자 대상 서비스를 시작했다.",
+        "body": "암호화폐 차익거래 플랫폼 베이시스(BASIS)가 2026년 5월 13일 비공개 테스트를 거쳐 정식 출시됐다. 블루밍비트에 따르면 베이시스는 이날 일반 이용자를 대상으로 서비스를 개시한다고 밝혔다. 베이시스는 암호화폐 인프라 업체 베이스58랩스의 기술 지원으로 개발됐다. 최근 일부 기관투자자를 대상으로 진행한 비공개 실거래 테스트에서 실행 지연시간은 50마이크로초 미만, 처리량은 초당 10건 이상, 가동률은 약 100%로 집계됐다. 베이시스는 토큰 발행 보상이나 외부 인센티브가 아니라 암호화폐 시장 차익거래 수익을 이용자 보상 재원으로 활용한다고 설명했다. 현재 비트코인, 이더리움, 솔라나, 팍스골드 등 4개 암호화폐 차익거래를 지원한다. 출처: hankyung.com"
+      },
+      "en": {
+        "title": "BASIS Arbitrage Platform Launches After Completing Private Testing",
+        "excerpt": "Crypto arbitrage platform BASIS began service for general users on May 13, 2026, after completing a private live-trading test with selected institutions.",
+        "body": "Crypto arbitrage platform BASIS officially launched on May 13, 2026, after completing private testing. According to Bloomingbit, BASIS said it started offering the service to general users that day. The platform was developed with technical support from crypto infrastructure company Base58Labs. In a recent private live-trading test involving selected institutional investors, BASIS recorded execution latency of under 50 microseconds, throughput of more than 10 transactions per second, and uptime of about 100%. The company said user rewards are funded by arbitrage profits generated in the crypto market, not by token issuance rewards or external incentives. BASIS currently supports arbitrage trading for four crypto assets: Bitcoin, Ethereum, Solana, and Pax Gold. Source: hankyung.com"
+      },
+      "ja": {
+        "title": "BASIS裁定取引プラットフォーム、非公開テスト完了後に正式開始",
+        "excerpt": "暗号資産裁定取引プラットフォームBASISは2026年5月13日、非公開の実取引テストを終え、一般利用者向けサービスを開始した。",
+        "body": "暗号資産裁定取引プラットフォームBASISは2026年5月13日、非公開テストを経て正式にサービスを開始した。ブルーミングビットによると、BASISは同日、一般利用者を対象にサービスを開放すると発表した。BASISは暗号資産インフラ企業Base58Labsの技術支援を受けて開発された。最近、一部の機関投資家を対象に実施した非公開の実取引テストでは、執行遅延時間が50マイクロ秒未満、処理量が毎秒10件以上、稼働率が約100％と集計された。会社側は、トークン発行による報酬や外部インセンティブに依存せず、暗号資産市場で生じる裁定取引収益を利用者報酬の原資にすると説明した。現在はビットコイン、イーサリアム、ソラナ、パックスゴールドの4銘柄に対応する。出典: hankyung.com"
+      },
+      "zh": {
+        "title": "BASIS套利交易平台完成封闭测试后正式向普通用户开放",
+        "excerpt": "加密货币套利交易平台BASIS于2026年5月13日完成非公开实盘测试后，开始面向普通用户提供服务。",
+        "body": "加密货币套利交易平台BASIS于2026年5月13日经过非公开测试后正式上线。据Bloomingbit报道，BASIS当天表示，已开始面向普通用户开放服务。该平台由加密货币基础设施企业Base58Labs提供技术支持开发。近期，BASIS面向部分机构投资者进行了非公开实盘测试，结果显示执行延迟低于50微秒，处理量超过每秒10笔，运行率约为100%。公司方面说明，平台不依赖代币发行奖励或外部激励，而是将加密货币市场产生的套利收益作为用户奖励来源。目前，BASIS支持比特币、以太坊、Solana和Pax Gold等4种加密资产的套利交易。来源: hankyung.com"
+      },
+      "es": {
+        "title": "BASIS lanza su plataforma de arbitraje cripto tras pruebas privadas",
+        "excerpt": "La plataforma de arbitraje de criptomonedas BASIS inició el 13 de mayo de 2026 su servicio para usuarios generales tras completar pruebas privadas de operación real.",
+        "body": "La plataforma de arbitraje de criptomonedas BASIS se lanzó oficialmente el 13 de mayo de 2026 tras completar una fase de pruebas privadas. Según Bloomingbit, BASIS informó ese día que comenzaba a ofrecer el servicio a usuarios generales. La plataforma fue desarrollada con apoyo técnico de la empresa de infraestructura cripto Base58Labs. En una prueba privada reciente de operaciones reales con algunos inversores institucionales, BASIS registró una latencia de ejecución inferior a 50 microsegundos, un rendimiento de más de 10 operaciones por segundo y una disponibilidad cercana al 100%. La compañía explicó que las recompensas para usuarios se financian con beneficios de arbitraje generados en el mercado cripto, no con recompensas por emisión de tokens ni incentivos externos. Actualmente admite arbitraje en Bitcoin, Ethereum, Solana y Pax Gold. Fuente: hankyung.com"
+      },
+      "pt": {
+        "title": "BASIS lança plataforma de arbitragem cripto após teste privado",
+        "excerpt": "A plataforma de arbitragem de criptomoedas BASIS iniciou em 13 de maio de 2026 o serviço para usuários gerais após concluir testes privados com operações reais.",
+        "body": "A plataforma de arbitragem de criptomoedas BASIS foi lançada oficialmente em 13 de maio de 2026 após passar por testes privados. Segundo a Bloomingbit, a BASIS informou naquele dia que começou a oferecer o serviço a usuários gerais. A plataforma foi desenvolvida com suporte técnico da empresa de infraestrutura cripto Base58Labs. Em um teste privado recente com operações reais e participação de alguns investidores institucionais, a BASIS registrou latência de execução inferior a 50 microssegundos, processamento acima de 10 transações por segundo e disponibilidade de cerca de 100%. A empresa explicou que as recompensas aos usuários são financiadas por lucros de arbitragem gerados no mercado cripto, não por emissão de tokens ou incentivos externos. Atualmente, a BASIS apoia arbitragem em Bitcoin, Ethereum, Solana e Pax Gold. Fonte: hankyung.com"
+      },
+      "de": {
+        "title": "BASIS startet Krypto-Arbitrage-Plattform nach privater Testphase",
+        "excerpt": "Die Krypto-Arbitrage-Plattform BASIS hat am 13. Mai 2026 nach einem privaten Live-Handelstest ihren Dienst für allgemeine Nutzer aufgenommen.",
+        "body": "Die Krypto-Arbitrage-Plattform BASIS ist am 13. Mai 2026 nach einer privaten Testphase offiziell gestartet. Laut Bloomingbit teilte BASIS an diesem Tag mit, den Dienst für allgemeine Nutzer zu öffnen. Entwickelt wurde die Plattform mit technischer Unterstützung des Krypto-Infrastrukturunternehmens Base58Labs. In einem jüngsten privaten Live-Handelstest mit ausgewählten institutionellen Investoren verzeichnete BASIS eine Ausführungslatenz von unter 50 Mikrosekunden, einen Durchsatz von mehr als 10 Transaktionen pro Sekunde und eine Verfügbarkeit von rund 100%. Das Unternehmen erklärte, Nutzervergütungen würden aus Arbitragegewinnen im Kryptomarkt finanziert, nicht aus Token-Emissionsprämien oder externen Anreizen. Derzeit unterstützt BASIS Arbitrage für Bitcoin, Ethereum, Solana und Pax Gold. Quelle: hankyung.com"
+      },
+      "fr": {
+        "title": "BASIS lance sa plateforme d’arbitrage crypto après des tests privés",
+        "excerpt": "La plateforme d’arbitrage de cryptomonnaies BASIS a ouvert son service au grand public le 13 mai 2026 après avoir achevé un test privé en conditions réelles.",
+        "body": "La plateforme d’arbitrage de cryptomonnaies BASIS a été officiellement lancée le 13 mai 2026 après une phase de test privée. Selon Bloomingbit, BASIS a annoncé ce jour-là l’ouverture du service aux utilisateurs généraux. La plateforme a été développée avec le soutien technique de la société d’infrastructure crypto Base58Labs. Lors d’un récent test privé de transactions réelles mené auprès de certains investisseurs institutionnels, BASIS a enregistré une latence d’exécution inférieure à 50 microsecondes, un débit supérieur à 10 transactions par seconde et une disponibilité d’environ 100%. L’entreprise a expliqué que les récompenses des utilisateurs proviennent des profits d’arbitrage générés sur le marché crypto, et non de récompenses liées à l’émission de jetons ni d’incitations externes. BASIS prend actuellement en charge Bitcoin, Ethereum, Solana et Pax Gold. Source: hankyung.com"
+      },
+      "ar": {
+        "title": "إطلاق منصة BASIS للمراجحة المشفرة بعد استكمال الاختبار الخاص",
+        "excerpt": "بدأت منصة BASIS لمراجحة العملات المشفرة في 13 مايو 2026 تقديم خدماتها للمستخدمين العامين بعد إكمال اختبار تداول فعلي خاص.",
+        "body": "أُطلقت منصة BASIS لمراجحة العملات المشفرة رسميا في 13 مايو 2026 بعد اجتياز اختبار خاص. ووفقا لـ Bloomingbit، أعلنت BASIS في ذلك اليوم بدء تقديم الخدمة للمستخدمين العامين. طُورت المنصة بدعم تقني من شركة البنية التحتية للعملات المشفرة Base58Labs. وفي اختبار تداول فعلي خاص أُجري مؤخرا بمشاركة بعض المستثمرين المؤسسيين، سجلت BASIS زمنا لتأخير التنفيذ أقل من 50 ميكروثانية، وقدرة معالجة تزيد على 10 عمليات في الثانية، ومعدل تشغيل يقارب 100%. وقالت الشركة إن مكافآت المستخدمين تُمول من أرباح المراجحة المتولدة في سوق العملات المشفرة، لا من مكافآت إصدار الرموز أو الحوافز الخارجية. وتدعم BASIS حاليا المراجحة في بيتكوين وإيثريوم وسولانا وباكس غولد. المصدر: hankyung.com"
+      },
+      "hi": {
+        "title": "BASIS क्रिप्टो आर्बिट्राज प्लेटफॉर्म निजी परीक्षण के बाद लॉन्च",
+        "excerpt": "क्रिप्टोकरेंसी आर्बिट्राज प्लेटफॉर्म BASIS ने निजी लाइव-ट्रेडिंग परीक्षण पूरा करने के बाद 13 मई 2026 को सामान्य उपयोगकर्ताओं के लिए सेवा शुरू की।",
+        "body": "क्रिप्टोकरेंसी आर्बिट्राज प्लेटफॉर्म BASIS ने निजी परीक्षण के बाद 13 मई 2026 को आधिकारिक रूप से सेवा शुरू की। Bloomingbit के अनुसार, BASIS ने उसी दिन बताया कि सेवा सामान्य उपयोगकर्ताओं के लिए खोली जा रही है। यह प्लेटफॉर्म क्रिप्टो इंफ्रास्ट्रक्चर कंपनी Base58Labs के तकनीकी सहयोग से विकसित किया गया है। हाल में कुछ संस्थागत निवेशकों के साथ किए गए निजी लाइव-ट्रेडिंग परीक्षण में BASIS की निष्पादन विलंबता 50 माइक्रोसेकंड से कम, थ्रूपुट प्रति सेकंड 10 से अधिक लेनदेन और अपटाइम लगभग 100% दर्ज किया गया। कंपनी ने कहा कि उपयोगकर्ता पुरस्कार टोकन जारी करने के इनाम या बाहरी प्रोत्साहनों पर निर्भर नहीं होंगे, बल्कि क्रिप्टो बाजार में उत्पन्न आर्बिट्राज लाभ से वित्तपोषित होंगे। फिलहाल BASIS बिटकॉइन, एथेरियम, सोलाना और पैक्स गोल्ड में आर्बिट्राज का समर्थन करता है। स्रोत: hankyung.com"
+      },
+      "id": {
+        "title": "BASIS Luncurkan Platform Arbitrase Kripto Setelah Uji Privat",
+        "excerpt": "Platform arbitrase kripto BASIS mulai melayani pengguna umum pada 13 Mei 2026 setelah menyelesaikan uji perdagangan nyata secara privat dengan sejumlah institusi.",
+        "body": "Platform arbitrase kripto BASIS resmi diluncurkan pada 13 Mei 2026 setelah melalui pengujian privat. Menurut Bloomingbit, BASIS menyatakan pada hari itu bahwa layanan mulai dibuka untuk pengguna umum. Platform ini dikembangkan dengan dukungan teknis dari perusahaan infrastruktur kripto Base58Labs. Dalam uji perdagangan nyata privat terbaru yang melibatkan sebagian investor institusional, BASIS mencatat latensi eksekusi di bawah 50 mikrodetik, throughput lebih dari 10 transaksi per detik, dan tingkat uptime sekitar 100%. Perusahaan menjelaskan bahwa imbalan pengguna berasal dari keuntungan arbitrase yang terjadi di pasar kripto, bukan dari hadiah penerbitan token atau insentif eksternal. Saat ini BASIS mendukung arbitrase untuk Bitcoin, Ethereum, Solana, dan Pax Gold. Sumber: hankyung.com"
+      }
+    }
+  },
+  {
     "id": "aa67392d08da",
     "slug": "전력기기도-슈퍼사이클2035년까지-이어질-것-977100",
     "channelId": "ETF",
@@ -4271,231 +4496,6 @@
         "title": "Mirae Asset Bayar Distribusi Perdana ETF TIGER Semiconductor Top 10, 170 Won per Unit",
         "excerpt": "Mirae Asset Global Investments pada 13 Mei menyatakan ETF TIGER Semiconductor Top 10 Covered Call Active akan membayar distribusi perdana bulan ini sebesar 170 won per unit.",
         "body": "Mirae Asset Global Investments mengumumkan pada 13 Mei bahwa ETF TIGER Semiconductor Top 10 Covered Call Active akan membayar distribusi pertama bulan ini sebesar 170 won per unit. Jumlah tersebut setara dengan 1,27% bulanan berdasarkan harga penutupan hari sebelumnya. ETF ini menggabungkan eksposur pada saham-saham utama terkait semikonduktor dengan strategi aktif covered call, sehingga pembayaran perdana menjadi acuan penting bagi investor. Investor yang memantau imbal hasil distribusi bulanan perlu memperhatikan nilai per unit sekaligus perubahan harga ETF. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "65bf059854b7",
-    "slug": "320억달러-토큰화-시장-겨냥-jp모건-두-번째-토큰화-mmf-jltxx-sec-서류-제출-903818",
-    "channelId": "ETF",
-    "category": "etf",
-    "publishedAt": "2026-05-13T00:16:06.794Z",
-    "updatedAt": "2026-05-13T00:16:06.794Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/stock/12045780",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12045780",
-    "titleFingerprint": "ea50059b5f16176d2ea33fac9d1701aefe23b5c3",
-    "dedupKeys": [
-      "65bf059854b7fe1c4fea3be0f3f8e664e98ada03",
-      "ea50059b5f16176d2ea33fac9d1701aefe23b5c3",
-      "7424c581a90127f13747d271686e540a4b63f5e3"
-    ],
-    "imageUrl": "/images/articles/65bf059854b7.png",
-    "i18n": {
-      "ko": {
-        "title": "JP모건, 320억달러 토큰화 시장 겨냥 두 번째 MMF JLTXX 제출",
-        "excerpt": "JP모건이 12일 SEC에 이더리움 기반 토큰화 머니마켓펀드 JLTXX 서류를 제출하며 320억달러 규모로 커진 토큰화 자산 시장 공략에 나섰다.",
-        "body": "JP모건이 12일 미국 증권거래위원회(SEC)에 두 번째 토큰화 머니마켓펀드(MMF)인 JLTXX 관련 서류를 제출했다. 이 펀드는 이더리움 기반으로 설계됐으며 미국 국채와 레포 등에 투자하는 구조다. 원문에 따르면 JLTXX는 지니어스법 준수를 전제로 추진되며, 빠르게 성장한 토큰화 자산 시장을 겨냥한다. 관련 시장 규모는 320억달러 수준으로 커진 것으로 제시됐다. 이번 제출은 토큰화 MMF 분야에서 JP모건이 블랙록과 정면 경쟁을 예고한 움직임으로 해석된다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "JPMorgan Files JLTXX, Its Second Tokenized MMF, Targeting $32B Market",
-        "excerpt": "JPMorgan filed documents with the SEC on the 12th for JLTXX, an Ethereum-based tokenized money market fund, as it targets the fast-growing $32 billion tokenized asset market.",
-        "body": "JPMorgan submitted documents to the U.S. Securities and Exchange Commission on the 12th for JLTXX, its second tokenized money market fund. The fund is designed on Ethereum and is structured to invest in U.S. Treasuries and repo transactions. According to the original report, JLTXX is being pursued on the premise of compliance with the GENIUS Act and targets the rapidly growing tokenized asset market. The market size was presented at about $32 billion. The filing signals JPMorgan’s move to compete head-on with BlackRock in tokenized MMFs. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "JPモルガン、320億ドルのトークン化市場へ第2弾MMF JLTXXを提出",
-        "excerpt": "JPモルガンは12日、イーサリアム基盤のトークン化MMFであるJLTXXの書類をSECに提出し、320億ドル規模に拡大した市場を狙う。",
-        "body": "JPモルガンは12日、米証券取引委員会（SEC）に第2のトークン化マネー・マーケット・ファンド（MMF）であるJLTXX関連書類を提出した。同ファンドはイーサリアムを基盤に設計され、米国債やレポ取引などに投資する仕組みだ。原文によると、JLTXXはジーニアス法の遵守を前提に進められ、急成長するトークン化資産市場を対象としている。市場規模は320億ドル水準に拡大したと示された。今回の提出は、トークン化MMF分野でJPモルガンがブラックロックと正面から競争する動きと受け止められる。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "摩根大通提交第二只代币化MMF JLTXX，瞄准320亿美元市场",
-        "excerpt": "摩根大通12日向SEC提交基于以太坊的代币化货币市场基金JLTXX文件，瞄准已增长至320亿美元规模的代币化资产市场。",
-        "body": "摩根大通12日向美国证券交易委员会（SEC）提交了第二只代币化货币市场基金（MMF）JLTXX的相关文件。该基金基于以太坊设计，投资范围包括美国国债和回购等。原文称，JLTXX以遵守GENIUS法案为前提推进，目标是快速增长的代币化资产市场。相关市场规模已被列为约320亿美元。此次提交文件显示，摩根大通在代币化MMF领域将与贝莱德展开正面竞争。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "JPMorgan presenta JLTXX, su segundo MMF tokenizado, ante mercado de $32.000 millones",
-        "excerpt": "JPMorgan presentó el día 12 ante la SEC la documentación de JLTXX, un fondo monetario tokenizado basado en Ethereum, para apuntar al mercado de activos tokenizados de $32.000 millones.",
-        "body": "JPMorgan presentó el día 12 ante la Comisión de Bolsa y Valores de Estados Unidos (SEC) la documentación de JLTXX, su segundo fondo del mercado monetario tokenizado. El fondo está diseñado sobre Ethereum y tiene una estructura de inversión en bonos del Tesoro de EE. UU. y repos, entre otros activos. Según el texto original, JLTXX se impulsa bajo la premisa de cumplir con la Ley GENIUS y apunta al mercado de activos tokenizados, que crece con rapidez. El tamaño de ese mercado se presentó en torno a los $32.000 millones. La presentación anticipa una competencia directa de JPMorgan con BlackRock en MMF tokenizados. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "JPMorgan apresenta JLTXX, segundo MMF tokenizado, mirando mercado de US$ 32 bi",
-        "excerpt": "O JPMorgan apresentou no dia 12 à SEC os documentos do JLTXX, fundo monetário tokenizado baseado em Ethereum, mirando o mercado de ativos tokenizados de US$ 32 bilhões.",
-        "body": "O JPMorgan apresentou no dia 12 à Comissão de Valores Mobiliários dos EUA (SEC) os documentos relativos ao JLTXX, seu segundo fundo de mercado monetário tokenizado. O fundo foi estruturado com base em Ethereum e prevê investimentos em títulos do Tesouro dos EUA e operações de repo, entre outros. Segundo o texto original, o JLTXX avança sob a premissa de cumprir a Lei GENIUS e mira o mercado de ativos tokenizados em rápida expansão. O tamanho desse mercado foi indicado em cerca de US$ 32 bilhões. A apresentação sinaliza uma disputa direta do JPMorgan com a BlackRock em MMFs tokenizados. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "JPMorgan reicht JLTXX ein: zweiter tokenisierter MMF zielt auf 32-Mrd.-Dollar-Markt",
-        "excerpt": "JPMorgan hat am 12. bei der SEC Unterlagen für JLTXX eingereicht, einen Ethereum-basierten tokenisierten Geldmarktfonds für den 32 Milliarden Dollar schweren Markt tokenisierter Vermögenswerte.",
-        "body": "JPMorgan hat am 12. bei der US-Börsenaufsicht SEC Unterlagen für JLTXX eingereicht, seinen zweiten tokenisierten Geldmarktfonds. Der Fonds ist auf Ethereum ausgelegt und soll unter anderem in US-Staatsanleihen und Repo-Geschäfte investieren. Dem Originalbericht zufolge wird JLTXX unter der Prämisse der Einhaltung des GENIUS Act vorangetrieben und zielt auf den schnell wachsenden Markt tokenisierter Vermögenswerte. Dessen Größe wurde mit rund 32 Milliarden Dollar angegeben. Die Einreichung deutet darauf hin, dass JPMorgan bei tokenisierten MMFs in direkte Konkurrenz zu BlackRock tritt. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "JPMorgan dépose JLTXX, son deuxième MMF tokenisé, visant un marché de 32 Md$",
-        "excerpt": "JPMorgan a déposé le 12 auprès de la SEC le dossier de JLTXX, fonds monétaire tokenisé basé sur Ethereum, pour viser le marché des actifs tokenisés estimé à 32 milliards de dollars.",
-        "body": "JPMorgan a déposé le 12 auprès de la Securities and Exchange Commission américaine (SEC) les documents relatifs à JLTXX, son deuxième fonds monétaire tokenisé. Le fonds est conçu sur Ethereum et doit investir notamment dans des bons du Trésor américain et des opérations de pension livrée. Selon le texte original, JLTXX est lancé sous réserve du respect du GENIUS Act et vise le marché des actifs tokenisés en forte croissance. La taille de ce marché est présentée à environ 32 milliards de dollars. Ce dépôt annonce une concurrence directe entre JPMorgan et BlackRock dans les MMF tokenisés. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "جيه بي مورغان تقدم JLTXX، ثاني صندوق سوق نقدي مرمز، لاستهداف سوق 32 مليار دولار",
-        "excerpt": "قدمت جيه بي مورغان في 12 إلى هيئة SEC مستندات JLTXX، وهو صندوق سوق نقدي مرمز قائم على إيثريوم، مستهدفة سوق الأصول المرمزة البالغ 32 مليار دولار.",
-        "body": "قدمت جيه بي مورغان في 12 إلى هيئة الأوراق المالية والبورصات الأميركية (SEC) مستندات تتعلق بصندوق JLTXX، وهو ثاني صندوق سوق نقدي مرمز لديها. صمم الصندوق على أساس إيثريوم، وهيكله يستثمر في سندات الخزانة الأميركية واتفاقيات إعادة الشراء وغيرها. ووفق النص الأصلي، يجري دفع JLTXX على أساس الامتثال لقانون GENIUS، مع استهداف سوق الأصول المرمزة سريع النمو. وقد عرض حجم هذا السوق عند نحو 32 مليار دولار. ويشير هذا التقديم إلى توجه جيه بي مورغان لمنافسة بلاك روك مباشرة في مجال صناديق السوق النقدية المرمزة. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "JPMorgan ने $32 अरब टोकनाइज्ड बाजार के लिए दूसरा MMF JLTXX दाखिल किया",
-        "excerpt": "JPMorgan ने 12 तारीख को SEC के पास Ethereum आधारित टोकनाइज्ड मनी मार्केट फंड JLTXX के दस्तावेज दाखिल किए, जिसका लक्ष्य $32 अरब का टोकनाइज्ड एसेट बाजार है।",
-        "body": "JPMorgan ने 12 तारीख को अमेरिकी प्रतिभूति और विनिमय आयोग (SEC) के पास अपने दूसरे टोकनाइज्ड मनी मार्केट फंड JLTXX से जुड़े दस्तावेज दाखिल किए। यह फंड Ethereum आधारित है और इसकी संरचना अमेरिकी ट्रेजरी तथा रेपो आदि में निवेश करने की है। मूल रिपोर्ट के अनुसार, JLTXX को GENIUS Act के अनुपालन की शर्त पर आगे बढ़ाया जा रहा है और यह तेजी से बढ़ते टोकनाइज्ड एसेट बाजार को लक्षित करता है। इस बाजार का आकार लगभग $32 अरब बताया गया है। यह दाखिल JPMorgan के टोकनाइज्ड MMF क्षेत्र में BlackRock से सीधी प्रतिस्पर्धा की ओर संकेत करता है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "JPMorgan Ajukan JLTXX, MMF Tokenisasi Kedua untuk Pasar US$32 Miliar",
-        "excerpt": "JPMorgan pada tanggal 12 mengajukan dokumen JLTXX ke SEC, dana pasar uang tokenisasi berbasis Ethereum, untuk membidik pasar aset tokenisasi yang tumbuh menjadi US$32 miliar.",
-        "body": "JPMorgan pada tanggal 12 mengajukan dokumen terkait JLTXX kepada Komisi Sekuritas dan Bursa AS (SEC), sebagai dana pasar uang tokenisasi keduanya. Dana ini dirancang berbasis Ethereum dan memiliki struktur investasi pada obligasi pemerintah AS serta repo, antara lain. Menurut teks asli, JLTXX didorong dengan premis kepatuhan terhadap GENIUS Act dan menargetkan pasar aset tokenisasi yang tumbuh cepat. Ukuran pasar tersebut disebut telah mencapai sekitar US$32 miliar. Pengajuan ini menunjukkan langkah JPMorgan untuk bersaing langsung dengan BlackRock di bidang MMF tokenisasi. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "4a92dc93f6cd",
-    "slug": "코인-이자보다-미-국채가-낫다수익형-코인-판도-바꾸는-rwa-697634",
-    "channelId": "ETF",
-    "category": "etf",
-    "publishedAt": "2026-05-13T00:15:14.407Z",
-    "updatedAt": "2026-05-13T00:15:14.407Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/stock/12045782",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12045782",
-    "titleFingerprint": "bd08c2a1cd095eba74e343a508b2cc0878e90ce5",
-    "dedupKeys": [
-      "4a92dc93f6cdae683f12c58eac5b9323a6ecd089",
-      "bd08c2a1cd095eba74e343a508b2cc0878e90ce5",
-      "9e08b15e5c632e9ba45d38aa515767256a787e37"
-    ],
-    "imageUrl": "/images/articles/4a92dc93f6cd.png",
-    "i18n": {
-      "ko": {
-        "title": "RWA가 바꾸는 수익형 코인 시장, 미 국채 선호에 디파이 재편",
-        "excerpt": "기관 투자자들이 코인 이자보다 미 국채 기반 RWA의 예측 가능성을 중시하면서 디파이 시장이 기관·국채 중심으로 재편되고, sUSDe 공급량은 90일 만에 반토막 났다.",
-        "body": "디파이 시장이 수익형 코인 중심에서 기관과 미 국채 기반 RWA 중심으로 재편되고 있다. 코인 이자율보다 예측 가능성을 중시하는 기관 수요가 커지면서, 달러 가치만 추종하던 코인 시장의 흐름도 바뀌는 모습이다. 원문에 따르면 sUSDe 공급량은 90일 만에 절반 수준으로 줄었다. 높은 이율을 앞세운 수익형 코인보다 미국 국채처럼 구조가 명확한 자산을 선호하는 움직임이 부각됐다. 동시에 일부 코인의 위험도는 1250%로 거론되며 월가의 심사대에 올랐다. 향후 디파이는 단순 수익률 경쟁보다 기관이 받아들일 수 있는 안정성, 투명성, 예측 가능성을 중심으로 재평가될 가능성이 크다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "RWA reshapes yield coins as institutions favor U.S. Treasuries",
-        "excerpt": "As institutions prioritize the predictability of U.S. Treasury-based RWA over crypto interest, DeFi is being reorganized around institutions and Treasuries, while sUSDe supply halved in 90 days.",
-        "body": "The DeFi market is shifting away from yield-focused coins toward institutions and U.S. Treasury-based real-world assets, or RWA. Institutional demand is increasingly focused on predictability rather than crypto interest rates, changing a market that had largely tracked the value of the dollar. According to the original report, sUSDe supply fell by half in just 90 days. The move highlights growing preference for assets with clearer structures, such as U.S. Treasuries, over yield coins marketed with high rates. At the same time, some coins have come under Wall Street scrutiny as risk levels were cited at 1250%. Going forward, DeFi is likely to be reassessed less on headline yields and more on stability, transparency and predictability acceptable to institutions. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "RWAが利回り型コイン市場を変化、米国債選好でDeFi再編",
-        "excerpt": "機関投資家が暗号資産の利息より米国債ベースRWAの予測可能性を重視し、DeFiは機関・国債中心へ再編され、sUSDe供給量は90日で半減した。",
-        "body": "DeFi市場は、利回り型コイン中心から機関投資家と米国債ベースのRWA中心へ再編されつつある。暗号資産の利率より予測可能性を重視する機関需要が強まり、単にドル価値を追随していたコイン市場の流れにも変化が出ている。原文によると、sUSDeの供給量は90日で半分の水準に減少した。高い利率を掲げる利回り型コインより、米国債のように構造が明確な資産を選好する動きが目立つ。同時に、一部コインのリスクは1250%とされ、ウォール街の審査対象になった。今後のDeFiは単純な利回り競争ではなく、機関が受け入れられる安定性、透明性、予測可能性を中心に再評価される可能性が高い。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "RWA重塑收益型代币格局，机构转向美国国债确定性",
-        "excerpt": "机构投资者相较加密货币利息更看重美国国债型RWA的可预测性，DeFi正围绕机构和国债重组，sUSDe供应量在90天内腰斩。",
-        "body": "DeFi市场正从收益型代币中心转向机构和美国国债型RWA中心。随着机构需求更重视可预测性而非加密货币利率，原本单纯追踪美元价值的代币市场也出现变化。原文称，sUSDe供应量在90天内降至约一半。相比以高利率为卖点的收益型代币，市场更倾向于美国国债这类结构清晰的资产。与此同时，部分代币风险度被提及为1250%，并进入华尔街审查视野。未来DeFi可能不再只围绕收益率竞争，而是更多按机构可接受的稳定性、透明度和可预测性重新评估。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "RWA cambia los tokens de rendimiento mientras pesan los bonos de EE. UU.",
-        "excerpt": "Al priorizar la previsibilidad de los RWA basados en bonos del Tesoro de EE. UU. sobre los intereses cripto, las instituciones reordenan DeFi y la oferta de sUSDe cayó a la mitad en 90 días.",
-        "body": "El mercado DeFi se está reconfigurando desde los tokens de rendimiento hacia los RWA basados en bonos del Tesoro de EE. UU. y la demanda institucional. Las instituciones valoran cada vez más la previsibilidad que las tasas de interés cripto, lo que cambia el rumbo de un mercado que en gran medida solo seguía el valor del dólar. Según el informe original, la oferta de sUSDe se redujo a la mitad en 90 días. El movimiento muestra una preferencia por activos de estructura clara, como los bonos del Tesoro, frente a tokens que destacan altos rendimientos. Al mismo tiempo, algunos tokens llegaron al escrutinio de Wall Street con un riesgo citado de 1250%. En adelante, DeFi podría evaluarse menos por la rentabilidad y más por estabilidad, transparencia y previsibilidad aceptables para instituciones. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "RWA muda tokens de rendimento com preferência por Treasuries dos EUA",
-        "excerpt": "Com instituições priorizando a previsibilidade de RWA ligados a Treasuries dos EUA em vez de juros cripto, o DeFi se reorganiza e a oferta de sUSDe caiu pela metade em 90 dias.",
-        "body": "O mercado DeFi está se reorganizando, deixando os tokens de rendimento em segundo plano e avançando para RWA baseados em Treasuries dos EUA e demanda institucional. As instituições estão dando mais peso à previsibilidade do que às taxas de juros cripto, mudando um mercado que antes apenas acompanhava o valor do dólar. Segundo o relatório original, a oferta de sUSDe caiu pela metade em 90 dias. O movimento evidencia a preferência por ativos com estrutura clara, como títulos do Tesouro dos EUA, em vez de tokens promovidos por altos rendimentos. Ao mesmo tempo, alguns tokens entraram no crivo de Wall Street com risco citado em 1250%. Daqui em diante, o DeFi tende a ser reavaliado menos pela taxa de retorno e mais por estabilidade, transparência e previsibilidade aceitas por instituições. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "RWA verändert Rendite-Coins, während US-Staatsanleihen gewinnen",
-        "excerpt": "Institutionen setzen stärker auf die Berechenbarkeit von US-Treasury-basierten RWA als auf Krypto-Zinsen. DeFi richtet sich neu aus, während das sUSDe-Angebot in 90 Tagen halbiert wurde.",
-        "body": "Der DeFi-Markt verlagert sich von renditeorientierten Coins hin zu institutioneller Nachfrage und RWA auf Basis von US-Staatsanleihen. Institutionen achten zunehmend mehr auf Berechenbarkeit als auf Krypto-Zinsen, wodurch sich auch ein Markt verändert, der bislang vor allem dem Dollarwert folgte. Laut dem ursprünglichen Bericht sank das sUSDe-Angebot innerhalb von 90 Tagen auf die Hälfte. Das unterstreicht die wachsende Präferenz für klar strukturierte Anlagen wie US-Staatsanleihen gegenüber Rendite-Coins mit hohen Zinssätzen. Zugleich gerieten einige Coins mit einem genannten Risiko von 1250% auf den Prüfstand der Wall Street. Künftig dürfte DeFi weniger über reine Rendite und stärker über Stabilität, Transparenz und Vorhersehbarkeit bewertet werden, die Institutionen akzeptieren können. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Les RWA rebattent les cartes des cryptos à rendement face aux Treasuries",
-        "excerpt": "Les institutions privilégient la prévisibilité des RWA adossés aux bons du Trésor américain plutôt que les intérêts crypto, réorganisant la DeFi alors que l’offre de sUSDe a chuté de moitié en 90 jours.",
-        "body": "Le marché de la DeFi se réorganise, passant des cryptos à rendement vers les RWA adossés aux bons du Trésor américain et la demande institutionnelle. Les institutions recherchent davantage la prévisibilité que les taux d’intérêt crypto, ce qui modifie un marché qui se contentait largement de suivre la valeur du dollar. Selon le rapport original, l’offre de sUSDe a été divisée par deux en 90 jours. Cette évolution souligne une préférence pour des actifs à structure claire, comme les Treasuries, plutôt que pour des cryptos mises en avant pour leurs rendements élevés. Dans le même temps, certaines cryptos sont passées au crible de Wall Street avec un risque cité à 1250%. À l’avenir, la DeFi pourrait être jugée moins sur le rendement brut que sur la stabilité, la transparence et la prévisibilité acceptables pour les institutions. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "الأصول الواقعية تعيد تشكيل عملات العائد مع تفضيل سندات الخزانة الأميركية",
-        "excerpt": "مع تفضيل المؤسسات قابلية التنبؤ في الأصول الواقعية المرتبطة بسندات الخزانة الأميركية على فوائد العملات المشفرة، يعاد ترتيب DeFi بينما انخفض عرض sUSDe إلى النصف خلال 90 يوما.",
-        "body": "يتحول سوق DeFi من التركيز على عملات العائد إلى الأصول الواقعية RWA القائمة على سندات الخزانة الأميركية والطلب المؤسسي. فالمؤسسات باتت تركز على قابلية التنبؤ أكثر من أسعار الفائدة في العملات المشفرة، ما يغير مسار سوق كان يكتفي إلى حد كبير بتتبع قيمة الدولار. ووفقا للتقرير الأصلي، انخفض عرض sUSDe إلى النصف خلال 90 يوما. ويبرز ذلك تفضيلا متزايدا للأصول ذات البنية الواضحة، مثل سندات الخزانة الأميركية، على عملات العائد التي تروج لمعدلات مرتفعة. وفي الوقت نفسه، خضعت بعض العملات لتدقيق وول ستريت مع الإشارة إلى مستوى مخاطر يبلغ 1250%. ومن المرجح أن يعاد تقييم DeFi مستقبلا وفق الاستقرار والشفافية وقابلية التنبؤ التي تقبلها المؤسسات، لا وفق العائد وحده. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "RWA ने बदला यील्ड कॉइन बाजार, संस्थानों का झुकाव अमेरिकी ट्रेजरी की ओर",
-        "excerpt": "संस्थान क्रिप्टो ब्याज की जगह अमेरिकी ट्रेजरी आधारित RWA की पूर्वानुमेयता को प्राथमिकता दे रहे हैं, जिससे DeFi संस्थान और सरकारी बॉन्ड केंद्रित हो रहा है और sUSDe आपूर्ति 90 दिनों में आधी रह गई।",
-        "body": "DeFi बाजार यील्ड कॉइन केंद्रित ढांचे से हटकर संस्थानों और अमेरिकी ट्रेजरी आधारित RWA की ओर पुनर्गठित हो रहा है। संस्थागत मांग क्रिप्टो ब्याज दरों की तुलना में पूर्वानुमेयता को अधिक महत्व दे रही है, जिससे केवल डॉलर मूल्य का अनुसरण करने वाले कॉइन बाजार की दिशा भी बदल रही है। मूल रिपोर्ट के अनुसार, sUSDe की आपूर्ति 90 दिनों में आधी रह गई। ऊंची दरों पर आधारित यील्ड कॉइन की जगह अमेरिकी सरकारी बॉन्ड जैसे स्पष्ट संरचना वाले एसेट को प्राथमिकता मिल रही है। साथ ही, कुछ कॉइन 1250% जोखिम स्तर के उल्लेख के साथ वॉल स्ट्रीट की जांच के दायरे में आए। आगे DeFi का मूल्यांकन सिर्फ रिटर्न से नहीं, बल्कि संस्थानों के लिए स्वीकार्य स्थिरता, पारदर्शिता और पूर्वानुमेयता से होने की संभावना है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "RWA ubah pasar koin imbal hasil saat institusi pilih Treasury AS",
-        "excerpt": "Institusi lebih mengutamakan prediktabilitas RWA berbasis Treasury AS daripada bunga kripto, membuat DeFi bergeser ke institusi dan obligasi pemerintah, sementara pasokan sUSDe turun separuh dalam 90 hari.",
-        "body": "Pasar DeFi sedang bergeser dari koin berimbal hasil menuju RWA berbasis Treasury AS dan permintaan institusional. Institusi makin menilai prediktabilitas lebih penting daripada tingkat bunga kripto, sehingga arah pasar koin yang sebelumnya hanya mengikuti nilai dolar ikut berubah. Menurut laporan asli, pasokan sUSDe turun menjadi setengah dalam 90 hari. Pergerakan ini menunjukkan preferensi pada aset dengan struktur yang jelas, seperti obligasi pemerintah AS, dibanding koin imbal hasil yang menonjolkan bunga tinggi. Pada saat yang sama, sebagian koin masuk dalam pengawasan Wall Street setelah risiko disebut mencapai 1250%. Ke depan, DeFi kemungkinan dinilai bukan hanya dari imbal hasil, tetapi dari stabilitas, transparansi, dan prediktabilitas yang dapat diterima institusi. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "09a19c160ee7",
-    "slug": "반도체-위력-대단하네국내-시총-4500조-급증-삼성sk하이닉스-56-껑충-847431",
-    "channelId": "ETF",
-    "category": "etf",
-    "publishedAt": "2026-05-13T00:14:12.448Z",
-    "updatedAt": "2026-05-13T00:14:12.448Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/economy/12045792",
-    "canonicalUrl": "https://www.mk.co.kr/news/economy/12045792",
-    "titleFingerprint": "d0e19c621391de6d929d868313e4c33982c262c0",
-    "dedupKeys": [
-      "09a19c160ee71c8d7fc8a4a8466f1bb839caaa6d",
-      "d0e19c621391de6d929d868313e4c33982c262c0",
-      "c4e3290479d9b2aa1c881aaba1a30a3bd51be444"
-    ],
-    "imageUrl": "/images/articles/09a19c160ee7.jpg",
-    "i18n": {
-      "ko": {
-        "title": "반도체 랠리로 국내 시총 7088조원…삼성·SK하이닉스 56% 급등",
-        "excerpt": "이재명 정부 출범 이후 11개월 만에 국내 증시 시가총액이 2597조원에서 7088조원으로 약 4500조원 늘며 반도체 대형주가 상승을 이끌었다.",
-        "body": "이재명 정부 출범 이후 11개월 만에 국내 증시 시가총액이 2597조원에서 7088조원으로 약 4500조원 급증한 것으로 나타났다. 상승세의 중심에는 반도체 대표주인 삼성전자와 SK하이닉스가 있었다. 원문에 따르면 두 종목은 같은 기간 56% 뛰며 국내 증시 시총 확대를 주도했다. 그룹별로는 SK그룹이 LG와 현대차를 제치고 시가총액 2위에 안착했다. 효성, 미래에셋, LS 등도 동반 강세를 보이며 시장 전반의 상승 흐름에 힘을 보탰다. 반도체 업종의 영향력이 국내 증시 시총 순위와 그룹별 위상 변화로 이어진 셈이다. 다만 기사에 제시된 수치는 해당 기간의 시총 변화와 주요 종목 상승률에 한정된다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Semiconductor Rally Lifts Korea Market Cap to 7,088 Trillion Won",
-        "excerpt": "In the 11 months since the Lee Jae-myung administration began, Korea’s stock market capitalization rose from 2,597 trillion won to 7,088 trillion won, led by chip giants.",
-        "body": "In the 11 months since the Lee Jae-myung administration took office, the market capitalization of Korea’s domestic stock market rose from 2,597 trillion won to 7,088 trillion won, an increase of about 4,500 trillion won. Samsung Electronics and SK Hynix, the country’s leading semiconductor stocks, were at the center of the advance. According to the original report, the two shares jumped 56% over the period and led the expansion in total market value. By group, SK Group overtook LG and Hyundai Motor Group to settle in second place by market capitalization. Hyosung, Mirae Asset and LS also strengthened, adding momentum to the broader market rise. The figures cited are limited to the reported market-cap changes and key stock gains. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "半導体株高で韓国株時価総額7088兆ウォン、サムスン・SKハイニックス急伸",
-        "excerpt": "李在明政権発足後11カ月で、韓国株式市場の時価総額は2597兆ウォンから7088兆ウォンへ拡大し、半導体大手が上昇を主導した。",
-        "body": "李在明政権発足後11カ月で、韓国国内株式市場の時価総額は2597兆ウォンから7088兆ウォンへと約4500兆ウォン増加した。上昇の中心にいたのは、半導体代表株のサムスン電子とSKハイニックスだった。原文によると、両銘柄は同期間に56%上昇し、国内市場の時価総額拡大をけん引した。グループ別では、SKグループがLGと現代自動車を上回り、時価総額2位に定着した。暁星、未来アセット、LSなどもそろって強含み、市場全体の上昇に寄与した。半導体業種の影響力が、時価総額順位と企業グループの存在感の変化につながった形だ。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "半导体行情推高韩国股市市值至7088万亿韩元，三星与SK海力士大涨",
-        "excerpt": "李在明政府成立后的11个月内，韩国股市总市值从2597万亿韩元升至7088万亿韩元，半导体龙头股成为主要推动力。",
-        "body": "李在明政府成立后的11个月内，韩国国内股市总市值从2597万亿韩元增至7088万亿韩元，增加约4500万亿韩元。上涨核心是半导体代表股三星电子和SK海力士。根据原文，两只股票在同期上涨56%，主导了韩国股市市值扩张。按集团来看，SK集团超过LG和现代汽车集团，稳居市值第二位。晓星、未来资产、LS等也同步走强，为整体市场上涨提供支撑。半导体行业的影响力由此反映在韩国股市市值排名和企业集团地位变化上。不过，报道所列数据仅限于该期间市值变化和主要股票涨幅。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Rally de semiconductores eleva la bolsa coreana a 7.088 billones de wones",
-        "excerpt": "En 11 meses desde el inicio del gobierno de Lee Jae-myung, la capitalización bursátil de Corea pasó de 2.597 a 7.088 billones de wones, impulsada por chips.",
-        "body": "En los 11 meses transcurridos desde el inicio del gobierno de Lee Jae-myung, la capitalización del mercado bursátil nacional de Corea pasó de 2.597 billones de wones a 7.088 billones, un aumento de unos 4.500 billones de wones. En el centro del avance estuvieron Samsung Electronics y SK Hynix, las principales acciones de semiconductores. Según el texto original, ambas subieron un 56% en el periodo y lideraron la expansión del valor de mercado. Por grupos, SK superó a LG y Hyundai Motor y se consolidó en el segundo puesto por capitalización. Hyosung, Mirae Asset y LS también mostraron fortaleza, reforzando la subida general. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Alta dos semicondutores leva bolsa coreana a 7.088 trilhões de won",
-        "excerpt": "Nos 11 meses desde o início do governo Lee Jae-myung, o valor de mercado da bolsa coreana subiu de 2.597 para 7.088 trilhões de won, puxado por chips.",
-        "body": "Nos 11 meses desde a posse do governo Lee Jae-myung, a capitalização do mercado acionário doméstico da Coreia passou de 2.597 trilhões de won para 7.088 trilhões, um aumento de cerca de 4.500 trilhões de won. No centro da alta estiveram Samsung Electronics e SK Hynix, principais ações de semicondutores. Segundo o texto original, os dois papéis avançaram 56% no período e lideraram a expansão do valor de mercado. Por grupos, o SK Group superou LG e Hyundai Motor e se firmou na segunda posição em capitalização. Hyosung, Mirae Asset e LS também subiram, apoiando o movimento positivo do mercado. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Halbleiter-Rally treibt Koreas Börsenwert auf 7.088 Billionen Won",
-        "excerpt": "In den 11 Monaten seit Amtsantritt der Regierung Lee Jae-myung stieg Koreas Börsenwert von 2.597 auf 7.088 Billionen Won, angeführt von Chip-Aktien.",
-        "body": "In den 11 Monaten seit dem Amtsantritt der Regierung Lee Jae-myung ist die Marktkapitalisierung des südkoreanischen Aktienmarkts von 2.597 Billionen Won auf 7.088 Billionen Won gestiegen, ein Zuwachs von rund 4.500 Billionen Won. Im Zentrum der Rally standen Samsung Electronics und SK Hynix, die führenden Halbleiterwerte. Dem Originalbericht zufolge legten beide Aktien im selben Zeitraum um 56% zu und führten die Ausweitung des Börsenwerts an. Nach Konzernen überholte die SK Group LG und Hyundai Motor und etablierte sich auf Rang zwei nach Marktkapitalisierung. Auch Hyosung, Mirae Asset und LS zeigten Stärke. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Les semi-conducteurs portent la Bourse coréenne à 7 088 billions de wons",
-        "excerpt": "En 11 mois depuis l’arrivée du gouvernement Lee Jae-myung, la capitalisation boursière coréenne est passée de 2 597 à 7 088 billions de wons, tirée par les puces.",
-        "body": "En 11 mois depuis l’arrivée au pouvoir du gouvernement Lee Jae-myung, la capitalisation du marché boursier sud-coréen est passée de 2 597 billions de wons à 7 088 billions, soit une hausse d’environ 4 500 billions de wons. Au centre de cette progression figuraient Samsung Electronics et SK Hynix, valeurs phares des semi-conducteurs. Selon l’article original, les deux titres ont bondi de 56% sur la période et ont mené l’expansion de la capitalisation. Par groupe, SK a dépassé LG et Hyundai Motor pour s’installer à la deuxième place. Hyosung, Mirae Asset et LS ont aussi progressé. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "صعود أشباه الموصلات يرفع قيمة سوق كوريا إلى 7088 تريليون وون",
-        "excerpt": "خلال 11 شهرا منذ بدء حكومة لي جاي ميونغ، ارتفعت القيمة السوقية للأسهم الكورية من 2597 إلى 7088 تريليون وون بدعم من أسهم الرقائق.",
-        "body": "خلال 11 شهرا منذ انطلاق حكومة لي جاي ميونغ، ارتفعت القيمة السوقية لسوق الأسهم المحلية في كوريا من 2597 تريليون وون إلى 7088 تريليون وون، بزيادة تقارب 4500 تريليون وون. وكان في مركز هذا الصعود سهما سامسونغ إلكترونيكس وSK هاينكس، وهما من أبرز أسهم أشباه الموصلات. ووفقا للنص الأصلي، قفز السهمان 56% خلال الفترة نفسها وقادا توسع القيمة السوقية. وعلى مستوى المجموعات، تجاوزت مجموعة SK كلا من LG وهيونداي موتور واستقرت في المركز الثاني من حيث القيمة السوقية. كما سجلت هيوسung وميراي أسيت وLS أداء قويا. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "सेमीकंडक्टर तेजी से कोरिया बाजार मूल्य 7,088 ट्रिलियन वॉन पर",
-        "excerpt": "ली जे-म्युंग सरकार शुरू होने के 11 महीनों में कोरियाई शेयर बाजार का मूल्य 2,597 से बढ़कर 7,088 ट्रिलियन वॉन हुआ, जिसे चिप शेयरों ने आगे बढ़ाया।",
-        "body": "ली जे-म्युंग सरकार के गठन के बाद 11 महीनों में कोरिया के घरेलू शेयर बाजार का बाजार पूंजीकरण 2,597 ट्रिलियन वॉन से बढ़कर 7,088 ट्रिलियन वॉन हो गया, यानी लगभग 4,500 ट्रिलियन वॉन की वृद्धि। इस तेजी के केंद्र में सेमीकंडक्टर क्षेत्र की प्रमुख कंपनियां Samsung Electronics और SK Hynix रहीं। मूल रिपोर्ट के अनुसार, दोनों शेयर इसी अवधि में 56% चढ़े और बाजार मूल्य के विस्तार का नेतृत्व किया। समूहों में SK Group ने LG और Hyundai Motor को पीछे छोड़कर बाजार पूंजीकरण में दूसरा स्थान हासिल किया। Hyosung, Mirae Asset और LS में भी मजबूती दिखी, जिससे व्यापक बाजार की तेजी को सहारा मिला। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Reli Semikonduktor Angkat Kapitalisasi Bursa Korea ke 7.088 Triliun Won",
-        "excerpt": "Dalam 11 bulan sejak pemerintahan Lee Jae-myung dimulai, kapitalisasi pasar saham Korea naik dari 2.597 triliun won menjadi 7.088 triliun won, dipimpin saham chip.",
-        "body": "Dalam 11 bulan sejak pemerintahan Lee Jae-myung mulai berjalan, kapitalisasi pasar saham domestik Korea naik dari 2.597 triliun won menjadi 7.088 triliun won, bertambah sekitar 4.500 triliun won. Pusat kenaikan ini adalah Samsung Electronics dan SK Hynix, dua saham utama sektor semikonduktor. Menurut teks asli, kedua saham tersebut melonjak 56% dalam periode yang sama dan memimpin perluasan nilai pasar. Dari sisi grup, SK Group menyalip LG dan Hyundai Motor untuk menempati posisi kedua berdasarkan kapitalisasi pasar. Hyosung, Mirae Asset, dan LS juga menguat, ikut menopang kenaikan pasar secara umum. Sumber: mk.co.kr"
       }
     }
   }
