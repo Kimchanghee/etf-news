@@ -1,0 +1,75 @@
+{
+  "id": "6630ee1ad139",
+  "slug": "ai-gpu도-선물거래-대상으로cme-첫-컴퓨팅-선물-출시-187541",
+  "channelId": "ETF",
+  "category": "etf",
+  "publishedAt": "2026-05-13T06:06:54.376Z",
+  "updatedAt": "2026-05-13T06:06:54.376Z",
+  "sourceName": "mk.co.kr",
+  "sourceUrl": "https://www.mk.co.kr/news/stock/12046144",
+  "canonicalUrl": "https://www.mk.co.kr/news/stock/12046144",
+  "titleFingerprint": "bfaa0e2d3ac65d1b472527e6f57480c4aea4cdc6",
+  "dedupKeys": [
+    "6630ee1ad1396ad0aa594827705fb27329b24068",
+    "bfaa0e2d3ac65d1b472527e6f57480c4aea4cdc6",
+    "c90269a218894cea78d512d8f8f5ebd271bec747"
+  ],
+  "imageUrl": "/images/articles/6630ee1ad139.png",
+  "i18n": {
+    "ko": {
+      "title": "AI GPU 선물거래 열린다…CME, 첫 ‘컴퓨팅 선물’ 연내 출시",
+      "excerpt": "세계 최대 파생상품 거래소 CME가 실리콘데이터와 함께 GPU 임대료 기반 지수를 활용한 첫 컴퓨팅 선물을 연내 출시해 AI 기업과 투자자의 가격 리스크 헤지를 지원한다.",
+      "body": "세계 최대 파생상품 거래소인 시카고상품거래소(CME)가 실리콘데이터와 함께 AI GPU 임대료를 기준으로 한 첫 ‘컴퓨팅 선물’을 연내 출시한다. 이 상품은 GPU 임대료 기준 지수를 최초로 활용해 컴퓨팅 파워를 선물거래 대상으로 삼는 구조다. AI 산업 확대로 GPU 수요와 임대료 변동성이 커지는 가운데, CME는 컴퓨팅 파워를 “21세기의 원유”로 보고 새로운 가격 관리 수단을 제시한다. AI 기업과 투자자는 이를 통해 GPU 임대 비용 변동에 따른 가격 리스크를 헤지할 수 있을 전망이다. 출처: mk.co.kr."
+    },
+    "en": {
+      "title": "AI GPU Futures Trading Nears as CME Plans First Computing Futures",
+      "excerpt": "CME, the world’s largest derivatives exchange, will launch its first computing futures with Silicon Data this year, using a GPU rental-fee index to help AI firms and investors hedge price risk.",
+      "body": "The Chicago Mercantile Exchange (CME), the world’s largest derivatives exchange, plans to launch its first “computing futures” this year with Silicon Data, based on AI GPU rental fees. The product will be the first to use an index tied to GPU rental prices, making computing power a tradable futures underlying. As AI industry growth increases demand for GPUs and rental-price volatility, CME frames computing power as “the oil of the 21st century” and is introducing a new price-management tool. AI companies and investors are expected to use it to hedge risks from changes in GPU rental costs. Source: mk.co.kr."
+    },
+    "ja": {
+      "title": "AI GPUが先物取引の対象に、CMEが初のコンピューティング先物を年内投入",
+      "excerpt": "世界最大のデリバティブ取引所CMEはシリコンデータと、GPU賃料指数を使う初のコンピューティング先物を年内に開始し、AI企業と投資家の価格リスクヘッジを支援する。",
+      "body": "世界最大のデリバティブ取引所であるシカゴ・マーカンタイル取引所（CME）は、シリコンデータとともに、AI GPUの賃料を基準にした初の「コンピューティング先物」を年内に立ち上げる。この商品はGPU賃料基準指数を初めて活用し、コンピューティングパワーを先物取引の対象にする仕組みだ。AI産業の拡大でGPU需要と賃料の変動性が高まるなか、CMEはコンピューティングパワーを「21世紀の原油」と位置づけ、新たな価格管理手段を提示する。AI企業と投資家は、GPU賃借コストの変動に伴う価格リスクをヘッジできる見通しだ。出典: mk.co.kr."
+    },
+    "zh": {
+      "title": "AI GPU也将进入期货交易，CME年内推出首个算力期货",
+      "excerpt": "全球最大衍生品交易所CME将与Silicon Data年内推出首个采用GPU租赁费指数的算力期货，帮助AI企业和投资者对冲价格风险。",
+      "body": "全球最大衍生品交易所芝加哥商品交易所（CME）将与Silicon Data在年内推出首个以AI GPU租赁费为基准的“算力期货”。该产品将首次采用GPU租赁费基准指数，把计算能力作为期货交易标的。随着AI产业扩张推高GPU需求并加大租赁费波动，CME将计算能力视为“21世纪的原油”，并推出新的价格管理工具。AI企业和投资者预计可借此对冲GPU租赁成本变化带来的价格风险。来源: mk.co.kr."
+    },
+    "es": {
+      "title": "Los GPU de IA llegan a futuros: CME lanzará los primeros futuros de cómputo",
+      "excerpt": "CME, la mayor bolsa de derivados del mundo, lanzará este año con Silicon Data los primeros futuros de cómputo basados en un índice de alquiler de GPU para cubrir riesgos de precio.",
+      "body": "Chicago Mercantile Exchange (CME), la mayor bolsa de derivados del mundo, planea lanzar este año con Silicon Data los primeros “futuros de cómputo” basados en tarifas de alquiler de GPU para IA. El producto será el primero en usar un índice de referencia de alquiler de GPU y convertirá la potencia de cómputo en un activo subyacente negociable en futuros. A medida que el crecimiento de la industria de IA eleva la demanda de GPU y la volatilidad de sus alquileres, CME presenta la potencia de cómputo como “el petróleo del siglo XXI” y ofrece una nueva herramienta de gestión de precios. Empresas de IA e inversores podrán cubrir riesgos derivados de cambios en los costos de alquiler de GPU. Fuente: mk.co.kr."
+    },
+    "pt": {
+      "title": "GPUs de IA entram nos futuros: CME lançará primeiros futuros de computação",
+      "excerpt": "A CME, maior bolsa de derivativos do mundo, lançará este ano com a Silicon Data os primeiros futuros de computação baseados em índice de aluguel de GPU para ajudar IA e investidores a proteger preços.",
+      "body": "A Chicago Mercantile Exchange (CME), maior bolsa de derivativos do mundo, planeja lançar ainda este ano, com a Silicon Data, os primeiros “futuros de computação” baseados em taxas de aluguel de GPUs de IA. O produto será o primeiro a usar um índice de referência de aluguel de GPU, transformando poder computacional em ativo subjacente para negociação futura. Com a expansão da indústria de IA aumentando a demanda por GPUs e a volatilidade dos aluguéis, a CME trata o poder computacional como “o petróleo do século XXI” e apresenta uma nova ferramenta de gestão de preços. Empresas de IA e investidores poderão proteger riscos ligados à variação dos custos de aluguel de GPU. Fonte: mk.co.kr."
+    },
+    "de": {
+      "title": "AI-GPUs werden futuresfähig: CME plant erste Computing-Futures noch dieses Jahr",
+      "excerpt": "Die CME, weltgrößte Derivatebörse, will mit Silicon Data noch dieses Jahr erste Computing-Futures auf Basis eines GPU-Mietpreisindex starten, damit KI-Firmen und Investoren Preisrisiken absichern können.",
+      "body": "Die Chicago Mercantile Exchange (CME), die weltweit größte Derivatebörse, plant gemeinsam mit Silicon Data noch in diesem Jahr den Start der ersten „Computing-Futures“ auf Basis von Mietpreisen für AI-GPUs. Das Produkt nutzt erstmals einen Index für GPU-Mietgebühren und macht Rechenleistung zum Basiswert eines Futures-Kontrakts. Da das Wachstum der KI-Branche die Nachfrage nach GPUs und die Schwankungen der Mietpreise erhöht, bezeichnet CME Rechenleistung als „das Öl des 21. Jahrhunderts“ und bietet ein neues Instrument zum Preismanagement an. KI-Unternehmen und Investoren sollen damit Risiken aus veränderten GPU-Mietkosten absichern können. Quelle: mk.co.kr."
+    },
+    "fr": {
+      "title": "Les GPU d’IA arrivent sur les futures: CME prépare les premiers contrats de calcul",
+      "excerpt": "CME, plus grande bourse de dérivés au monde, lancera cette année avec Silicon Data les premiers futures de calcul fondés sur un indice de location de GPU pour aider entreprises IA et investisseurs à couvrir le risque de prix.",
+      "body": "Le Chicago Mercantile Exchange (CME), plus grande bourse de dérivés au monde, prévoit de lancer cette année avec Silicon Data les premiers « futures de calcul » fondés sur les frais de location de GPU d’IA. Ce produit sera le premier à utiliser un indice de référence des loyers de GPU, faisant de la puissance de calcul un sous-jacent négociable à terme. Alors que l’essor de l’IA accroît la demande de GPU et la volatilité des loyers, CME présente la puissance de calcul comme « le pétrole du XXIe siècle » et propose un nouvel outil de gestion des prix. Les entreprises d’IA et les investisseurs devraient pouvoir couvrir les risques liés aux variations des coûts de location de GPU. Source: mk.co.kr."
+    },
+    "ar": {
+      "title": "وحدات GPU للذكاء الاصطناعي تدخل العقود الآجلة مع أول عقود حوسبة من CME",
+      "excerpt": "تعتزم CME، أكبر بورصة مشتقات في العالم، إطلاق أول عقود حوسبة آجلة هذا العام مع Silicon Data اعتمادا على مؤشر إيجار وحدات GPU لمساعدة شركات الذكاء الاصطناعي والمستثمرين على التحوط من مخاطر الأسعار.",
+      "body": "تخطط بورصة شيكاغو التجارية CME، أكبر بورصة مشتقات في العالم، لإطلاق أول «عقود حوسبة آجلة» هذا العام بالتعاون مع Silicon Data، استنادا إلى رسوم استئجار وحدات GPU المستخدمة في الذكاء الاصطناعي. وسيكون المنتج الأول الذي يستخدم مؤشرا مرجعيا لرسوم إيجار GPU، ليجعل قوة الحوسبة أصلا أساسيا قابلا للتداول في العقود الآجلة. ومع توسع صناعة الذكاء الاصطناعي وزيادة الطلب على وحدات GPU وتقلب رسوم استئجارها، ترى CME أن قوة الحوسبة هي «نفط القرن الحادي والعشرين» وتطرح أداة جديدة لإدارة الأسعار. ومن المتوقع أن تتمكن شركات الذكاء الاصطناعي والمستثمرون من التحوط من مخاطر تغير تكاليف استئجار GPU. المصدر: mk.co.kr."
+    },
+    "hi": {
+      "title": "AI GPU पर भी फ्यूचर्स ट्रेडिंग, CME इस साल पहला कंप्यूटिंग फ्यूचर्स लाएगा",
+      "excerpt": "दुनिया का सबसे बड़ा डेरिवेटिव्स एक्सचेंज CME, Silicon Data के साथ GPU किराया सूचकांक पर आधारित पहला कंप्यूटिंग फ्यूचर्स इस साल लॉन्च करेगा, जिससे AI कंपनियां और निवेशक मूल्य जोखिम हेज कर सकेंगे।",
+      "body": "दुनिया का सबसे बड़ा डेरिवेटिव्स एक्सचेंज Chicago Mercantile Exchange (CME), Silicon Data के साथ AI GPU किराये पर आधारित पहला “कंप्यूटिंग फ्यूचर्स” इस साल लॉन्च करने की योजना बना रहा है। यह उत्पाद GPU किराया-आधारित सूचकांक का पहली बार उपयोग करेगा और कंप्यूटिंग पावर को फ्यूचर्स ट्रेडिंग का आधार बनाएगा। AI उद्योग के विस्तार से GPU की मांग और किराये की कीमतों में उतार-चढ़ाव बढ़ रहा है। इसी बीच CME कंप्यूटिंग पावर को “21वीं सदी का कच्चा तेल” मानते हुए नया मूल्य-प्रबंधन साधन पेश कर रहा है। AI कंपनियां और निवेशक GPU किराये की लागत में बदलाव से जुड़े मूल्य जोखिम को हेज कर सकेंगे। स्रोत: mk.co.kr."
+    },
+    "id": {
+      "title": "GPU AI Masuk Bursa Berjangka, CME Siapkan Futures Komputasi Pertama",
+      "excerpt": "CME, bursa derivatif terbesar dunia, akan meluncurkan futures komputasi pertama bersama Silicon Data tahun ini dengan indeks biaya sewa GPU untuk membantu perusahaan AI dan investor melindungi risiko harga.",
+      "body": "Chicago Mercantile Exchange (CME), bursa derivatif terbesar di dunia, berencana meluncurkan “futures komputasi” pertama tahun ini bersama Silicon Data, dengan acuan biaya sewa GPU untuk AI. Produk ini menjadi yang pertama memakai indeks berbasis biaya sewa GPU dan menjadikan daya komputasi sebagai aset dasar perdagangan berjangka. Seiring pertumbuhan industri AI yang meningkatkan permintaan GPU dan volatilitas biaya sewanya, CME memandang daya komputasi sebagai “minyak abad ke-21” dan menawarkan alat baru untuk pengelolaan harga. Perusahaan AI dan investor diperkirakan dapat menggunakannya untuk melindungi risiko perubahan biaya sewa GPU. Sumber: mk.co.kr."
+    }
+  }
+}

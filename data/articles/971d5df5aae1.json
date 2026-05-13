@@ -1,0 +1,75 @@
+{
+  "id": "971d5df5aae1",
+  "slug": "dtcc체인링크-맞손24시간-실시간-글로벌-담보관리-시대-연다-271001",
+  "channelId": "ETF",
+  "category": "etf",
+  "publishedAt": "2026-05-13T06:05:51.829Z",
+  "updatedAt": "2026-05-13T06:05:51.829Z",
+  "sourceName": "mk.co.kr",
+  "sourceUrl": "https://www.mk.co.kr/news/stock/12046148",
+  "canonicalUrl": "https://www.mk.co.kr/news/stock/12046148",
+  "titleFingerprint": "441780ce4ff800d342b45ae3a9a264f550b3639d",
+  "dedupKeys": [
+    "971d5df5aae14cb4ab749389ac75ddaf165bf0a2",
+    "441780ce4ff800d342b45ae3a9a264f550b3639d",
+    "84d467afd229ef030541b0f333895faa8fcc99cb"
+  ],
+  "imageUrl": "/images/articles/971d5df5aae1.png",
+  "i18n": {
+    "ko": {
+      "title": "DTCC·체인링크 CRE 도입, 4분기 실시간 담보관리 앱체인 출시",
+      "excerpt": "미국 중앙예탁청산기관 DTCC가 체인링크 CRE를 전면 도입하고 4분기 담보관리 앱체인을 출시해 24시간 실시간 글로벌 담보관리 체계 구축에 나선다.",
+      "body": "미국 중앙예탁청산기관(DTCC)이 글로벌 오라클 네트워크 체인링크와 협력해 체인링크 CRE를 전면 도입한다. DTCC는 4분기 담보관리 앱체인을 출시하고, 24시간 실시간으로 담보를 관리하는 글로벌 체계 구축에 나설 예정이다. DTCC는 세계 최대 시장 인프라 기관으로, 예탁·청산 등 자본시장 후선 업무에서 핵심 역할을 맡고 있다. 이번 계획의 핵심은 체인링크 CRE 도입과 담보관리 전용 앱체인 출시다. 공개된 내용은 4분기 출시 일정과 실시간 글로벌 담보관리 목표에 한정된다. 출처: mk.co.kr."
+    },
+    "en": {
+      "title": "DTCC and Chainlink CRE Move Toward Real-Time Collateral Appchain",
+      "excerpt": "DTCC, the U.S. central securities depository and clearing body, will fully adopt Chainlink CRE and launch a collateral-management appchain in Q4 for 24-hour real-time global operations.",
+      "body": "DTCC, the U.S. central securities depository and clearing institution, is working with global oracle network Chainlink to fully adopt Chainlink CRE. DTCC plans to launch a collateral-management appchain in the fourth quarter and move toward a global framework for 24-hour real-time collateral management. As the world’s largest market infrastructure institution, DTCC plays a central role in post-trade capital-market functions such as custody and clearing. The core of the plan is the adoption of Chainlink CRE and the launch of a dedicated collateral-management appchain. The disclosed information is limited to the Q4 launch schedule and the goal of real-time global collateral management. Source: mk.co.kr."
+    },
+    "ja": {
+      "title": "DTCCとチェーンリンクCRE、4四半期にリアルタイム担保管理アプリチェーンへ",
+      "excerpt": "米中央預託清算機関DTCCはチェーンリンクCREを全面導入し、第4四半期に担保管理アプリチェーンを開始して24時間リアルタイムのグローバル管理体制を目指す。",
+      "body": "米中央預託清算機関DTCCは、グローバル・オラクルネットワークのチェーンリンクと協力し、チェーンリンクCREを全面導入する。DTCCは第4四半期に担保管理アプリチェーンを開始し、24時間リアルタイムで担保を管理するグローバル体制の構築に乗り出す予定だ。DTCCは世界最大の市場インフラ機関で、預託や清算など資本市場のポストトレード業務で中核的役割を担う。今回の計画の中心は、チェーンリンクCREの導入と担保管理専用アプリチェーンの開始である。公開された内容は、第4四半期の開始日程とリアルタイムのグローバル担保管理目標に限られる。出典: mk.co.kr."
+    },
+    "zh": {
+      "title": "DTCC全面引入Chainlink CRE，第四季度推实时抵押品管理应用链",
+      "excerpt": "美国中央证券存管与清算机构DTCC将全面采用Chainlink CRE，并在第四季度推出抵押品管理应用链，以建设24小时实时全球管理体系。",
+      "body": "美国中央证券存管与清算机构DTCC将与全球预言机网络Chainlink合作，全面引入Chainlink CRE。DTCC计划在第四季度推出抵押品管理应用链，推进可24小时实时管理抵押品的全球体系。DTCC是全球最大的市场基础设施机构，在证券存管、清算等资本市场后交易业务中发挥核心作用。此次计划的重点是采用Chainlink CRE，并推出专用于抵押品管理的应用链。已公开的信息仅限于第四季度推出安排，以及实时全球抵押品管理这一目标。来源: mk.co.kr."
+    },
+    "es": {
+      "title": "DTCC adopta Chainlink CRE y prepara una appchain de colateral en tiempo real",
+      "excerpt": "DTCC, entidad central de depósito y compensación de EE. UU., adoptará Chainlink CRE y lanzará en el cuarto trimestre una appchain de gestión de colateral para operar en tiempo real las 24 horas.",
+      "body": "DTCC, la entidad central de depósito y compensación de Estados Unidos, trabaja con la red global de oráculos Chainlink para adoptar plenamente Chainlink CRE. DTCC prevé lanzar en el cuarto trimestre una appchain de gestión de colateral y avanzar hacia un sistema global capaz de gestionar colateral en tiempo real durante las 24 horas. Como la mayor institución de infraestructura de mercado del mundo, DTCC cumple un papel central en funciones posteriores a la negociación, como custodia y compensación. El eje del plan es la adopción de Chainlink CRE y el lanzamiento de una appchain dedicada a la gestión de colateral. La información divulgada se limita al calendario del cuarto trimestre y al objetivo de gestión global en tiempo real. Fuente: mk.co.kr."
+    },
+    "pt": {
+      "title": "DTCC adota Chainlink CRE e mira appchain de garantias em tempo real no 4º tri",
+      "excerpt": "A DTCC, depositária e câmara de compensação central dos EUA, adotará integralmente o Chainlink CRE e lançará no quarto trimestre uma appchain para gestão global de garantias em tempo real.",
+      "body": "A DTCC, instituição central de depósito e compensação dos Estados Unidos, trabalha com a rede global de oráculos Chainlink para adotar integralmente o Chainlink CRE. A DTCC planeja lançar no quarto trimestre uma appchain de gestão de garantias e avançar na construção de um sistema global para administrar garantias em tempo real, 24 horas por dia. Como a maior instituição de infraestrutura de mercado do mundo, a DTCC exerce papel central em atividades pós-negociação, como custódia e compensação. O foco do plano é a adoção do Chainlink CRE e o lançamento de uma appchain dedicada à gestão de garantias. As informações divulgadas se limitam ao cronograma do quarto trimestre e ao objetivo de gestão global em tempo real. Fonte: mk.co.kr."
+    },
+    "de": {
+      "title": "DTCC setzt auf Chainlink CRE und plant Echtzeit-Appchain für Sicherheiten",
+      "excerpt": "Die US-Zentralverwahr- und Clearinginstitution DTCC führt Chainlink CRE vollständig ein und will im vierten Quartal eine Appchain für globale Sicherheitenverwaltung rund um die Uhr starten.",
+      "body": "Die US-amerikanische Zentralverwahr- und Clearinginstitution DTCC arbeitet mit dem globalen Oracle-Netzwerk Chainlink zusammen, um Chainlink CRE vollständig einzuführen. DTCC plant, im vierten Quartal eine Appchain für das Sicherheitenmanagement zu starten und damit ein globales System für 24-Stunden-Echtzeitverwaltung von Sicherheiten aufzubauen. Als weltweit größte Marktinfrastrukturinstitution spielt DTCC eine zentrale Rolle bei nachgelagerten Kapitalmarktfunktionen wie Verwahrung und Clearing. Kern des Plans sind die Einführung von Chainlink CRE und der Start einer speziell für Sicherheitenmanagement entwickelten Appchain. Die veröffentlichten Angaben beschränken sich auf den Startplan im vierten Quartal und das Ziel einer globalen Echtzeitverwaltung. Quelle: mk.co.kr."
+    },
+    "fr": {
+      "title": "DTCC adopte Chainlink CRE et prépare une appchain de collatéral en temps réel",
+      "excerpt": "DTCC, organisme américain de dépôt central et de compensation, adoptera pleinement Chainlink CRE et lancera au quatrième trimestre une appchain de gestion du collatéral en temps réel 24 h/24.",
+      "body": "DTCC, l’organisme américain de dépôt central et de compensation, collabore avec le réseau mondial d’oracles Chainlink afin d’adopter pleinement Chainlink CRE. DTCC prévoit de lancer au quatrième trimestre une appchain de gestion du collatéral et de mettre en place un cadre mondial permettant une gestion en temps réel 24 h/24. Plus grande institution d’infrastructure de marché au monde, DTCC joue un rôle central dans les activités post-marché des capitaux, notamment la conservation et la compensation. Le cœur du plan porte sur l’adoption de Chainlink CRE et le lancement d’une appchain dédiée à la gestion du collatéral. Les informations publiées se limitent au calendrier du quatrième trimestre et à l’objectif de gestion mondiale en temps réel. Source: mk.co.kr."
+    },
+    "ar": {
+      "title": "DTCC تعتمد Chainlink CRE وتخطط لسلسلة تطبيقات لإدارة الضمانات فوريا",
+      "excerpt": "ستعتمد مؤسسة DTCC الأميركية للإيداع والتسوية Chainlink CRE بالكامل، وتطلق في الربع الرابع سلسلة تطبيقات لإدارة الضمانات عالميا على مدار 24 ساعة وبالوقت الفعلي.",
+      "body": "تتعاون مؤسسة DTCC الأميركية للإيداع والتسوية مع شبكة الأوراكل العالمية Chainlink لاعتماد Chainlink CRE بالكامل. وتخطط DTCC لإطلاق سلسلة تطبيقات لإدارة الضمانات في الربع الرابع، بهدف بناء إطار عالمي يتيح إدارة الضمانات بالوقت الفعلي على مدار 24 ساعة. وتعد DTCC أكبر مؤسسة بنية تحتية للأسواق في العالم، ولها دور محوري في أعمال ما بعد التداول في أسواق رأس المال، مثل الإيداع والتسوية. ويتمثل جوهر الخطة في اعتماد Chainlink CRE وإطلاق سلسلة تطبيقات مخصصة لإدارة الضمانات. وتقتصر المعلومات المعلنة على جدول الإطلاق في الربع الرابع وهدف الإدارة العالمية الفورية للضمانات. المصدر: mk.co.kr."
+    },
+    "hi": {
+      "title": "DTCC Chainlink CRE अपनाएगा, चौथी तिमाही में रियल-टाइम कोलेटरल ऐपचेन",
+      "excerpt": "अमेरिकी केंद्रीय डिपॉजिटरी और क्लियरिंग संस्था DTCC Chainlink CRE को पूरी तरह अपनाएगी और चौथी तिमाही में 24 घंटे रियल-टाइम वैश्विक कोलेटरल प्रबंधन ऐपचेन शुरू करेगी।",
+      "body": "अमेरिकी केंद्रीय डिपॉजिटरी और क्लियरिंग संस्था DTCC वैश्विक ओरेकल नेटवर्क Chainlink के साथ मिलकर Chainlink CRE को पूरी तरह अपनाएगी। DTCC चौथी तिमाही में कोलेटरल प्रबंधन ऐपचेन लॉन्च करने और 24 घंटे रियल-टाइम में कोलेटरल संभालने वाली वैश्विक व्यवस्था बनाने की योजना रखती है। DTCC दुनिया की सबसे बड़ी मार्केट इंफ्रास्ट्रक्चर संस्था है और डिपॉजिटरी तथा क्लियरिंग जैसे पूंजी बाजार के पोस्ट-ट्रेड कार्यों में केंद्रीय भूमिका निभाती है। इस योजना का मुख्य बिंदु Chainlink CRE को अपनाना और कोलेटरल प्रबंधन के लिए समर्पित ऐपचेन लॉन्च करना है। सार्वजनिक जानकारी चौथी तिमाही के लॉन्च कार्यक्रम और रियल-टाइम वैश्विक कोलेटरल प्रबंधन लक्ष्य तक सीमित है। स्रोत: mk.co.kr."
+    },
+    "id": {
+      "title": "DTCC Adopsi Chainlink CRE, Appchain Agunan Real-Time Meluncur Kuartal IV",
+      "excerpt": "DTCC, lembaga penyimpanan dan kliring sentral AS, akan mengadopsi penuh Chainlink CRE dan meluncurkan appchain manajemen agunan pada kuartal IV untuk operasi global real-time 24 jam.",
+      "body": "DTCC, lembaga penyimpanan dan kliring sentral Amerika Serikat, bekerja sama dengan jaringan oracle global Chainlink untuk mengadopsi penuh Chainlink CRE. DTCC berencana meluncurkan appchain manajemen agunan pada kuartal keempat dan membangun kerangka global untuk mengelola agunan secara real-time selama 24 jam. Sebagai institusi infrastruktur pasar terbesar di dunia, DTCC berperan penting dalam fungsi pascaperdagangan pasar modal, termasuk penyimpanan dan kliring. Inti rencana ini adalah adopsi Chainlink CRE dan peluncuran appchain khusus manajemen agunan. Informasi yang diungkap terbatas pada jadwal peluncuran kuartal keempat dan tujuan manajemen agunan global secara real-time. Sumber: mk.co.kr."
+    }
+  }
+}
