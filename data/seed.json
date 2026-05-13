@@ -1,5 +1,230 @@
 [
   {
+    "id": "2e49de1bd60a",
+    "slug": "삼전닉스-쏠림황제株-등장에-코스피-거래량-줄어도-대금-쑥-762931",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-05-13T10:26:26.972Z",
+    "updatedAt": "2026-05-13T10:26:26.972Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/stock/12046457",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12046457",
+    "titleFingerprint": "5d9c0ed4acae076efebcf7b087298c04a505eaaa",
+    "dedupKeys": [
+      "2e49de1bd60a6510188c8baf58c93102d72dccb0",
+      "5d9c0ed4acae076efebcf7b087298c04a505eaaa",
+      "a0e75c0db49dfbe71b97db2efa9e3b70cc4e74f4"
+    ],
+    "imageUrl": "/images/articles/2e49de1bd60a.jpg",
+    "i18n": {
+      "ko": {
+        "title": "반도체 대형주 쏠림에 코스피 거래량 줄어도 거래대금은 증가",
+        "excerpt": "반도체 랠리로 삼성전자·SK하이닉스 등 고가 대형주에 매매가 집중되면서 코스피 거래량은 줄었지만 거래대금은 오히려 늘고 있다.",
+        "body": "코스피 시장에서 반도체 랠리를 배경으로 고가 대형주에 매매가 집중되며 거래량 감소에도 거래대금이 늘어나는 흐름이 나타나고 있다. 삼성전자와 SK하이닉스 등 이른바 ‘삼전닉스’ 중심의 매수세가 시장을 이끌면서 적은 주식 수가 거래돼도 금액 기준 거래 규모는 커지는 모습이다. 올해 증시에서는 주가가 100만원을 넘는 ‘황제주’가 7개까지 등장했다. 주도주 쏠림은 지수 흐름을 뒷받침하는 요인이지만, 거래가 일부 고가 대형주에 집중되는 현상도 함께 보여준다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Kospi Trading Value Rises as Semiconductor Blue Chips Draw Concentrated Buying",
+        "excerpt": "A semiconductor rally has concentrated trading in Samsung Electronics, SK Hynix and other high-priced large caps, lifting Kospi turnover even as share volume declines.",
+        "body": "In the Kospi market, trading value is rising even as share volume falls, as buying is concentrated in high-priced large-cap stocks amid a semiconductor rally. Demand centered on Samsung Electronics and SK Hynix, often grouped together in Korean market commentary, is leading the market, meaning that even fewer shares traded can translate into a larger amount by value. This year, seven so-called “emperor stocks,” with share prices above 1 million won, have appeared in the market. The concentration in leading stocks is supporting the index trend, while also showing that trading is focused on a small group of expensive large caps. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "半導体大型株への集中でコスピ売買株数減でも売買代金増加",
+        "excerpt": "半導体ラリーを背景にサムスン電子やSKハイニックスなど高値大型株へ売買が集中し、コスピは出来高減少にもかかわらず売買代金が増えている。",
+        "body": "コスピ市場では、半導体ラリーを背景に高値の大型株へ売買が集中し、出来高が減っても売買代金は増える流れが出ている。サムスン電子とSKハイニックスを中心とする買いが市場を主導し、取引される株数が少なくても金額ベースの取引規模は大きくなる形だ。今年の株式市場では、株価が100万ウォンを超えるいわゆる「皇帝株」が7銘柄まで登場した。主導株への集中は指数の流れを支える一方、取引が一部の高値大型株に偏っている状況も示している。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "半导体大盘股交易集中，Kospi成交量下降但成交额走高",
+        "excerpt": "受半导体行情推动，三星电子、SK海力士等高价大盘股交易集中，Kospi成交量虽减少，成交金额却反而扩大。",
+        "body": "在Kospi市场，受半导体行情推动，资金和交易集中于高价大盘股，出现成交量下降但成交金额增加的现象。以三星电子和SK海力士为中心的买盘引领市场，即使实际成交股数减少，按金额计算的交易规模仍会扩大。今年股市中，股价超过100万韩元的所谓“皇帝股”已增至7只。主导股集中支撑了指数走势，同时也显示交易正偏向少数高价大盘股。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "El Kospi mueve más dinero aunque baja el volumen por el auge de chips",
+        "excerpt": "El rally de semiconductores concentra las operaciones en Samsung Electronics, SK Hynix y otras grandes acciones caras, elevando el valor negociado del Kospi pese a menor volumen.",
+        "body": "En el mercado Kospi, el valor negociado aumenta aunque cae el volumen de acciones, porque las operaciones se concentran en grandes compañías de alto precio impulsadas por el rally de semiconductores. La demanda centrada en Samsung Electronics y SK Hynix lidera el mercado, de modo que incluso con menos acciones negociadas el importe total puede crecer. Este año han aparecido siete llamados “valores emperador”, con precios superiores a 1 millón de wones por acción. La concentración en los valores líderes respalda la evolución del índice, pero también muestra que la negociación se concentra en un pequeño grupo de grandes acciones caras. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Kospi negocia mais em valor mesmo com menor volume por foco em chips",
+        "excerpt": "O rali dos semicondutores concentra negócios em Samsung Electronics, SK Hynix e outras blue chips caras, elevando o valor negociado do Kospi apesar da queda no volume.",
+        "body": "No mercado Kospi, o valor negociado cresce mesmo com queda no volume de ações, à medida que as operações se concentram em grandes empresas de preço elevado durante o rali dos semicondutores. A demanda centrada em Samsung Electronics e SK Hynix lidera o mercado, fazendo com que um número menor de ações negociadas ainda represente um valor financeiro maior. Neste ano, surgiram sete chamadas “ações imperador”, com preço acima de 1 milhão de wons. A concentração nas ações líderes apoia o movimento do índice, mas também mostra que os negócios estão focados em poucas blue chips caras. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Kospi-Umsatz steigt trotz weniger Aktienhandel durch Chip-Schwergewichte",
+        "excerpt": "Die Halbleiter-Rally bündelt den Handel in Samsung Electronics, SK Hynix und anderen teuren Large Caps, wodurch der Kospi-Handelswert trotz sinkendem Volumen steigt.",
+        "body": "Am Kospi steigt der Handelswert trotz rückläufiger Stückzahlen, weil sich die Käufe im Zuge der Halbleiter-Rally auf hochpreisige Large Caps konzentrieren. Die Nachfrage rund um Samsung Electronics und SK Hynix führt den Markt an, sodass auch weniger gehandelte Aktien einen größeren Betrag nach Wert ergeben können. In diesem Jahr sind bereits sieben sogenannte „Kaiseraktien“ mit Kursen von mehr als 1 Million Won aufgetreten. Die Konzentration auf führende Titel stützt den Indexverlauf, zeigt aber zugleich, dass der Handel auf wenige teure Großwerte fokussiert ist. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Le Kospi voit ses montants échangés grimper malgré un volume en baisse",
+        "excerpt": "Le rally des semi-conducteurs concentre les échanges sur Samsung Electronics, SK Hynix et d’autres grandes valeurs chères, faisant monter les montants échangés du Kospi.",
+        "body": "Sur le marché Kospi, les montants échangés augmentent malgré une baisse du volume, car les transactions se concentrent sur de grandes capitalisations au prix élevé dans le sillage du rally des semi-conducteurs. Les achats centrés sur Samsung Electronics et SK Hynix mènent le marché, si bien qu’un nombre plus faible d’actions échangées peut représenter un montant plus important. Cette année, sept valeurs dites “empereur”, dont le cours dépasse 1 million de wons, sont apparues. Cette concentration sur les valeurs leaders soutient l’indice, tout en montrant que les échanges se focalisent sur quelques grandes actions coûteuses. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "ارتفاع قيمة تداول كوسبي رغم تراجع الكمية مع تركّز الشراء في أسهم الرقائق",
+        "excerpt": "تركّز صعود أشباه الموصلات التداول في سامسونغ إلكترونيكس وSK هاينكس وأسهم كبرى مرتفعة السعر، فارتفعت قيمة تداول كوسبي رغم انخفاض الحجم.",
+        "body": "في سوق كوسبي، ترتفع قيمة التداول رغم تراجع حجم الأسهم المتداولة، مع تركز التعاملات في الأسهم الكبرى مرتفعة السعر بدعم من صعود قطاع أشباه الموصلات. وتقود عمليات الشراء حول سامسونغ إلكترونيكس وSK هاينكس السوق، ما يعني أن عددا أقل من الأسهم المتداولة قد ينتج عنه مبلغ أكبر بالقيمة. هذا العام ظهرت سبعة أسهم يطلق عليها “أسهم الإمبراطور”، إذ يتجاوز سعر السهم فيها مليون وون. هذا التركّز في الأسهم القيادية يدعم مسار المؤشر، لكنه يظهر أيضا أن التداول ينحصر في عدد محدود من الأسهم الكبرى مرتفعة السعر. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "चिप दिग्गजों में खरीदारी से Kospi का कारोबार मूल्य बढ़ा, वॉल्यूम घटा",
+        "excerpt": "सेमीकंडक्टर रैली के कारण Samsung Electronics, SK Hynix और अन्य महंगे बड़े शेयरों में ट्रेडिंग केंद्रित हुई, जिससे Kospi में वॉल्यूम घटने पर भी कारोबार मूल्य बढ़ रहा है।",
+        "body": "Kospi बाजार में सेमीकंडक्टर रैली के बीच महंगे बड़े शेयरों में ट्रेडिंग केंद्रित होने से शेयरों की मात्रा घटने के बावजूद कारोबार मूल्य बढ़ रहा है। Samsung Electronics और SK Hynix पर केंद्रित खरीदारी बाजार को चला रही है, इसलिए कम शेयरों का लेनदेन भी मूल्य के आधार पर बड़ा कारोबार बना सकता है। इस साल बाजार में ऐसे सात “एम्परर स्टॉक्स” सामने आए हैं जिनका शेयर मूल्य 10 लाख वॉन से अधिक है। प्रमुख शेयरों में यह झुकाव सूचकांक की चाल को सहारा दे रहा है, लेकिन यह भी दिखाता है कि ट्रेडिंग कुछ महंगे बड़े शेयरों में सिमट रही है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Nilai Transaksi Kospi Naik meski Volume Turun karena Saham Chip Besar",
+        "excerpt": "Reli semikonduktor memusatkan perdagangan pada Samsung Electronics, SK Hynix, dan saham berharga tinggi lainnya, sehingga nilai transaksi Kospi naik meski volume turun.",
+        "body": "Di pasar Kospi, nilai transaksi meningkat meski volume saham menurun karena perdagangan terkonsentrasi pada saham berkapitalisasi besar dengan harga tinggi di tengah reli semikonduktor. Minat beli yang berpusat pada Samsung Electronics dan SK Hynix memimpin pasar, sehingga jumlah saham yang lebih sedikit pun dapat menghasilkan nilai transaksi yang lebih besar. Tahun ini, muncul tujuh saham yang disebut “saham kaisar” dengan harga di atas 1 juta won per saham. Konsentrasi pada saham pemimpin menopang pergerakan indeks, tetapi juga menunjukkan bahwa transaksi terfokus pada sedikit saham besar berharga tinggi. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "b51e6d989473",
+    "slug": "레이크머티리얼즈-500억-원-규모-전환사채-발행-142906",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-05-13T10:25:28.736Z",
+    "updatedAt": "2026-05-13T10:25:28.736Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/stock/12046485",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12046485",
+    "titleFingerprint": "19afca65a26df7c2c2a27190fb5f7cf5db2332ab",
+    "dedupKeys": [
+      "b51e6d98947355c60cb456bb3cbe795ae4822df1",
+      "19afca65a26df7c2c2a27190fb5f7cf5db2332ab",
+      "f2ab7cd624959828c6b7009632225e82eb2e6160"
+    ],
+    "imageUrl": "/images/articles/b51e6d989473.jpg",
+    "i18n": {
+      "ko": {
+        "title": "레이크머티리얼즈 500억 원 전환사채 발행 공시, 전환가액 2만3839원",
+        "excerpt": "코스닥 상장사 레이크머티리얼즈가 2026년 5월 13일 제2회 500억 원 규모 전환사채 발행을 공시했다. 전환가액은 2만3839원이다.",
+        "body": "코스닥 상장사 레이크머티리얼즈는 2026년 5월 13일 제2회 전환사채 발행을 공시했다. 발행 규모는 500억 원이다. 공시에 따르면 이번 전환사채의 전환가액은 2만3839원으로 정해졌다. 전환 청구 기간은 2027년 5월부터로 제시됐다. 전환사채는 일정 조건에 따라 주식으로 전환할 수 있는 채권인 만큼, 향후 전환가액과 청구 기간은 투자자들이 확인해야 할 핵심 항목이다. 이번 공시는 자금 조달과 향후 주식 전환 가능성 측면에서 시장의 관심을 받을 수 있다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Lake Materials Discloses KRW 50 Billion Convertible Bond Issuance",
+        "excerpt": "Kosdaq-listed Lake Materials disclosed on May 13, 2026, that it will issue its second convertible bond worth KRW 50 billion, with a conversion price of KRW 23,839.",
+        "body": "Kosdaq-listed Lake Materials disclosed on May 13, 2026, that it will issue its second convertible bond. The issuance size is KRW 50 billion. According to the filing, the conversion price for the bond has been set at KRW 23,839. The conversion request period was presented as starting in May 2027. Because convertible bonds can be converted into shares under certain conditions, the conversion price and request period are key items for investors to check. The disclosure may draw market attention in terms of financing and the possibility of future share conversion. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "レイクマテリアルズ、500億ウォン転換社債発行を公示",
+        "excerpt": "コスダック上場企業のレイクマテリアルズは2026年5月13日、第2回500億ウォン規模の転換社債発行を公示した。転換価額は2万3839ウォン。",
+        "body": "コスダック上場企業のレイクマテリアルズは、2026年5月13日に第2回転換社債の発行を公示した。発行規模は500億ウォンである。公示によると、今回の転換社債の転換価額は2万3839ウォンに設定された。転換請求期間は2027年5月からと示された。転換社債は一定の条件により株式へ転換できる債券であるため、転換価額と請求期間は投資家が確認すべき重要項目となる。今回の公示は資金調達と今後の株式転換の可能性という面で市場の関心を集める可能性がある。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "Lake Materials公告发行500亿韩元可转换债券，转股价23839韩元",
+        "excerpt": "科斯达克上市公司Lake Materials于2026年5月13日公告，将发行第2次规模为500亿韩元的可转换债券，转股价为23839韩元。",
+        "body": "科斯达克上市公司Lake Materials于2026年5月13日公告发行第2次可转换债券。发行规模为500亿韩元。根据公告，本次可转换债券的转股价格确定为23839韩元。转股申请期从2027年5月开始。可转换债券是在一定条件下可转换为股票的债券，因此转股价格和申请期限是投资者需要确认的关键事项。此次公告可能因融资安排以及未来股票转换可能性而受到市场关注。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Lake Materials anuncia bonos convertibles por 50.000 millones de wones",
+        "excerpt": "Lake Materials, cotizada en Kosdaq, informó el 13 de mayo de 2026 que emitirá su segundo bono convertible por 50.000 millones de wones, con precio de conversión de 23.839 wones.",
+        "body": "Lake Materials, empresa cotizada en Kosdaq, informó el 13 de mayo de 2026 la emisión de su segundo bono convertible. El tamaño de la emisión es de 50.000 millones de wones. Según la divulgación, el precio de conversión de este bono convertible se fijó en 23.839 wones. El período para solicitar la conversión fue presentado a partir de mayo de 2027. Como los bonos convertibles pueden transformarse en acciones bajo ciertas condiciones, el precio de conversión y el período de solicitud son puntos clave para los inversores. El anuncio puede atraer atención del mercado por la financiación y la posible conversión futura en acciones. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Lake Materials anuncia emissão de bônus conversíveis de 50 bilhões de wones",
+        "excerpt": "A Lake Materials, listada na Kosdaq, informou em 13 de maio de 2026 que emitirá sua segunda debênture conversível de 50 bilhões de wones, com preço de conversão de 23.839 wones.",
+        "body": "A Lake Materials, empresa listada na Kosdaq, informou em 13 de maio de 2026 a emissão de sua segunda debênture conversível. O valor da emissão é de 50 bilhões de wones. Segundo o comunicado, o preço de conversão foi definido em 23.839 wones. O período de solicitação de conversão foi indicado como a partir de maio de 2027. Como debêntures conversíveis podem ser convertidas em ações sob determinadas condições, o preço de conversão e o período de solicitação são itens essenciais para os investidores verificarem. O comunicado pode atrair atenção do mercado em relação ao financiamento e à possibilidade de conversão futura em ações. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Lake Materials meldet Wandelanleihe über 50 Mrd. Won mit Wandlungspreis",
+        "excerpt": "Das Kosdaq-Unternehmen Lake Materials gab am 13. Mai 2026 die Ausgabe seiner zweiten Wandelanleihe über 50 Mrd. Won bekannt. Der Wandlungspreis liegt bei 23.839 Won.",
+        "body": "Das an der Kosdaq gelistete Unternehmen Lake Materials gab am 13. Mai 2026 die Ausgabe seiner zweiten Wandelanleihe bekannt. Das Emissionsvolumen beträgt 50 Milliarden Won. Laut Mitteilung wurde der Wandlungspreis dieser Wandelanleihe auf 23.839 Won festgelegt. Der Zeitraum für Wandlungsanträge wurde ab Mai 2027 angegeben. Da Wandelanleihen unter bestimmten Bedingungen in Aktien umgewandelt werden können, sind Wandlungspreis und Antragszeitraum zentrale Punkte für Anleger. Die Mitteilung kann mit Blick auf die Finanzierung und die Möglichkeit einer späteren Aktienumwandlung Marktaufmerksamkeit erhalten. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Lake Materials annonce 50 milliards de wons d’obligations convertibles",
+        "excerpt": "Lake Materials, cotée sur le Kosdaq, a annoncé le 13 mai 2026 l’émission de sa deuxième obligation convertible de 50 milliards de wons, avec un prix de conversion de 23 839 wons.",
+        "body": "Lake Materials, société cotée sur le Kosdaq, a annoncé le 13 mai 2026 l’émission de sa deuxième obligation convertible. Le montant de l’émission est de 50 milliards de wons. Selon la publication, le prix de conversion de cette obligation convertible a été fixé à 23 839 wons. La période de demande de conversion est indiquée comme commençant en mai 2027. Les obligations convertibles pouvant être transformées en actions sous certaines conditions, le prix de conversion et la période de demande sont des éléments clés à vérifier pour les investisseurs. Cette annonce peut attirer l’attention du marché concernant le financement et la possibilité d’une conversion future en actions. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "ليك ماتيريالز تعلن إصدار سندات قابلة للتحويل بقيمة 50 مليار وون",
+        "excerpt": "أعلنت ليك ماتيريالز المدرجة في كوسداك في 13 مايو 2026 إصدار سنداتها القابلة للتحويل للمرة الثانية بقيمة 50 مليار وون، بسعر تحويل 23839 وون.",
+        "body": "أعلنت شركة ليك ماتيريالز المدرجة في كوسداك في 13 مايو 2026 إصدار سندات قابلة للتحويل للمرة الثانية. يبلغ حجم الإصدار 50 مليار وون. ووفق الإفصاح، تم تحديد سعر التحويل لهذه السندات عند 23839 وون. وقد عُرضت فترة طلب التحويل على أنها تبدأ في مايو 2027. وبما أن السندات القابلة للتحويل يمكن تحويلها إلى أسهم وفق شروط محددة، فإن سعر التحويل وفترة الطلب يعدان من البنود الأساسية التي ينبغي للمستثمرين التحقق منها. وقد يحظى هذا الإفصاح باهتمام السوق من حيث التمويل وإمكانية التحويل المستقبلي إلى أسهم. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "Lake Materials ने 50 अरब वॉन के कन्वर्टिबल बॉन्ड जारी करने की सूचना दी",
+        "excerpt": "कोसडैक-सूचीबद्ध Lake Materials ने 13 मई 2026 को 50 अरब वॉन के दूसरे कन्वर्टिबल बॉन्ड जारी करने की सूचना दी। रूपांतरण मूल्य 23,839 वॉन तय किया गया है।",
+        "body": "कोसडैक-सूचीबद्ध Lake Materials ने 13 मई 2026 को अपने दूसरे कन्वर्टिबल बॉन्ड जारी करने की सूचना दी। इश्यू का आकार 50 अरब वॉन है। सूचना के अनुसार, इस कन्वर्टिबल बॉन्ड का रूपांतरण मूल्य 23,839 वॉन तय किया गया है। रूपांतरण अनुरोध अवधि मई 2027 से शुरू बताई गई है। क्योंकि कन्वर्टिबल बॉन्ड कुछ शर्तों के तहत शेयरों में बदले जा सकते हैं, इसलिए रूपांतरण मूल्य और अनुरोध अवधि निवेशकों के लिए जांचने योग्य प्रमुख बिंदु हैं। यह सूचना वित्तपोषण और भविष्य में शेयर रूपांतरण की संभावना के संदर्भ में बाजार का ध्यान आकर्षित कर सकती है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Lake Materials Umumkan Obligasi Konversi KRW 50 Miliar, Harga KRW 23.839",
+        "excerpt": "Lake Materials yang tercatat di Kosdaq mengumumkan pada 13 Mei 2026 penerbitan obligasi konversi kedua senilai KRW 50 miliar, dengan harga konversi KRW 23.839.",
+        "body": "Lake Materials, perusahaan yang tercatat di Kosdaq, mengumumkan pada 13 Mei 2026 penerbitan obligasi konversi keduanya. Nilai penerbitan tersebut mencapai KRW 50 miliar. Menurut pengumuman, harga konversi obligasi ini ditetapkan sebesar KRW 23.839. Periode pengajuan konversi disebut dimulai pada Mei 2027. Karena obligasi konversi dapat ditukar menjadi saham dalam kondisi tertentu, harga konversi dan periode pengajuan menjadi poin penting yang perlu diperiksa investor. Pengumuman ini dapat menarik perhatian pasar dari sisi pendanaan dan kemungkinan konversi saham di masa mendatang. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "c17b459adb4a",
+    "slug": "블랙야크아이앤씨-150억-원-규모-전환사채-발행-238734",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-05-13T10:24:33.893Z",
+    "updatedAt": "2026-05-13T10:24:33.893Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/stock/12046484",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12046484",
+    "titleFingerprint": "06bbac24041ec455b89a0bb7e0a3942ddf435e8e",
+    "dedupKeys": [
+      "c17b459adb4a161a9df350fac3902ed398acc62f",
+      "06bbac24041ec455b89a0bb7e0a3942ddf435e8e",
+      "a0539220fe8d7ac77f0b421cca53a310d1c6eecd"
+    ],
+    "imageUrl": "/images/articles/c17b459adb4a.jpg",
+    "i18n": {
+      "ko": {
+        "title": "블랙야크아이앤씨, 150억 원 전환사채 발행 공시…전환가액 3397원",
+        "excerpt": "코스닥 상장사 블랙야크아이앤씨는 2026년 5월 13일 제2회 150억 원 규모 전환사채 발행을 공시했으며, 전환가액은 3397원으로 제시됐다.",
+        "body": "코스닥 상장사 블랙야크아이앤씨가 2026년 5월 13일 제2회 전환사채 발행을 공시했다. 공시에 따르면 발행 규모는 150억 원이다. 전환가액은 3397원으로 정해졌으며, 전환 청구 기간은 2027년 5월 21일로 제시됐다. 이번 공시는 회사의 자금 조달 계획과 전환 조건을 시장에 알린 것이다. 투자자는 발행 규모, 전환가액, 전환 청구 가능 시점을 중심으로 향후 주식 전환 가능성과 주가 흐름을 함께 확인할 필요가 있다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "BlackYak I&C Discloses 15 Billion Won Convertible Bond Issue at 3,397 Won",
+        "excerpt": "KOSDAQ-listed BlackYak I&C disclosed on May 13, 2026 that it will issue its second convertible bond worth 15 billion won, with a conversion price of 3,397 won.",
+        "body": "KOSDAQ-listed BlackYak I&C disclosed on May 13, 2026 that it will issue its second convertible bond. According to the filing, the issue size is 15 billion won. The conversion price was set at 3,397 won, and the conversion claim period was presented as May 21, 2027. The disclosure informs the market of the company’s financing plan and conversion terms. Investors may need to review the issue size, conversion price, and timing of possible conversion when assessing future share conversion and stock price movements. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "ブラックヤクI&C、150億ウォン転換社債発行を公示…転換価額3397ウォン",
+        "excerpt": "コスダック上場企業のブラックヤクI&Cは2026年5月13日、第2回150億ウォン規模の転換社債発行を公示し、転換価額は3397ウォンと示した。",
+        "body": "コスダック上場企業のブラックヤクI&Cは2026年5月13日、第2回転換社債の発行を公示した。公示によると、発行規模は150億ウォン。転換価額は3397ウォンに設定され、転換請求期間は2027年5月21日と示された。今回の公示は、同社の資金調達計画と転換条件を市場に知らせるものだ。投資家は発行規模、転換価額、転換請求が可能となる時点を中心に、今後の株式転換の可能性と株価動向を確認する必要がある。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "BlackYak I&C披露150亿韩元可转债发行，转股价3397韩元",
+        "excerpt": "科斯达克上市公司BlackYak I&C于2026年5月13日披露，将发行第二期150亿韩元规模可转债，转股价格为3397韩元。",
+        "body": "科斯达克上市公司BlackYak I&C于2026年5月13日披露发行第二期可转换债券。根据公告，发行规模为150亿韩元。转股价格定为3397韩元，转股申请期间显示为2027年5月21日。此次公告向市场说明了公司的融资计划和转股条件。投资者可围绕发行规模、转股价格以及可申请转股的时间，继续关注未来股票转换可能性和股价走势。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "BlackYak I&C anuncia bono convertible por 15.000 millones de wones a 3.397 wones",
+        "excerpt": "BlackYak I&C, cotizada en KOSDAQ, informó el 13 de mayo de 2026 la emisión de su segundo bono convertible por 15.000 millones de wones, con precio de conversión de 3.397 wones.",
+        "body": "BlackYak I&C, empresa cotizada en KOSDAQ, informó el 13 de mayo de 2026 la emisión de su segundo bono convertible. Según la comunicación, el tamaño de la emisión es de 15.000 millones de wones. El precio de conversión se fijó en 3.397 wones y el período de solicitud de conversión se presentó como el 21 de mayo de 2027. El anuncio comunica al mercado el plan de financiación de la compañía y sus condiciones de conversión. Los inversores pueden revisar el tamaño de la emisión, el precio de conversión y el momento posible de conversión junto con la evolución de la acción. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "BlackYak I&C divulga emissão de debêntures conversíveis de 15 bi de wones",
+        "excerpt": "A BlackYak I&C, listada na KOSDAQ, informou em 13 de maio de 2026 que emitirá sua segunda debênture conversível de 15 bilhões de wones, com preço de conversão de 3.397 wones.",
+        "body": "A BlackYak I&C, empresa listada na KOSDAQ, informou em 13 de maio de 2026 a emissão de sua segunda debênture conversível. Segundo o comunicado, o valor da emissão é de 15 bilhões de wones. O preço de conversão foi definido em 3.397 wones, e o período de solicitação de conversão foi apresentado como 21 de maio de 2027. A divulgação informa ao mercado o plano de captação da companhia e as condições de conversão. Investidores podem observar o valor emitido, o preço de conversão e o momento possível de conversão ao acompanhar as ações. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "BlackYak I&C meldet Wandelanleihe über 15 Mrd. Won mit Wandlungspreis 3.397 Won",
+        "excerpt": "Das KOSDAQ-notierte Unternehmen BlackYak I&C gab am 13. Mai 2026 die Ausgabe seiner zweiten Wandelanleihe über 15 Mrd. Won bekannt; der Wandlungspreis liegt bei 3.397 Won.",
+        "body": "Das an der KOSDAQ notierte Unternehmen BlackYak I&C gab am 13. Mai 2026 die Ausgabe seiner zweiten Wandelanleihe bekannt. Laut Mitteilung beträgt das Emissionsvolumen 15 Mrd. Won. Der Wandlungspreis wurde auf 3.397 Won festgelegt, der Zeitraum für Wandlungsanträge wurde mit dem 21. Mai 2027 angegeben. Die Meldung informiert den Markt über den Finanzierungsplan des Unternehmens und die Wandlungsbedingungen. Anleger können Emissionsvolumen, Wandlungspreis und möglichen Zeitpunkt der Wandlung im Zusammenhang mit künftiger Aktienumwandlung und Kursentwicklung prüfen. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "BlackYak I&C annonce une obligation convertible de 15 milliards de wons à 3 397 wons",
+        "excerpt": "BlackYak I&C, cotée au KOSDAQ, a annoncé le 13 mai 2026 l’émission de sa deuxième obligation convertible de 15 milliards de wons, avec un prix de conversion de 3 397 wons.",
+        "body": "BlackYak I&C, société cotée au KOSDAQ, a annoncé le 13 mai 2026 l’émission de sa deuxième obligation convertible. Selon la déclaration, le montant de l’émission est de 15 milliards de wons. Le prix de conversion a été fixé à 3 397 wons, et la période de demande de conversion a été indiquée au 21 mai 2027. Cette annonce informe le marché du plan de financement de la société et des conditions de conversion. Les investisseurs peuvent examiner le montant, le prix de conversion et le calendrier possible de conversion en lien avec l’évolution future de l’action. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "بلاك ياك آي آند سي تعلن سندات قابلة للتحويل بقيمة 15 مليار وون",
+        "excerpt": "أعلنت شركة بلاك ياك آي آند سي المدرجة في كوسداك في 13 مايو 2026 إصدار سنداتها القابلة للتحويل الثانية بقيمة 15 مليار وون، بسعر تحويل 3397 وون.",
+        "body": "أعلنت شركة بلاك ياك آي آند سي المدرجة في كوسداك في 13 مايو 2026 إصدار سندات قابلة للتحويل للمرة الثانية. ووفق الإفصاح، يبلغ حجم الإصدار 15 مليار وون. وتم تحديد سعر التحويل عند 3397 وون، بينما عُرضت فترة طلب التحويل بتاريخ 21 مايو 2027. يوضح هذا الإفصاح للسوق خطة الشركة للتمويل وشروط التحويل. وقد يراجع المستثمرون حجم الإصدار وسعر التحويل وتوقيت إمكانية التحويل عند متابعة احتمالات تحويل الأسهم وحركة السعر لاحقا. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "BlackYak I&C ने 15 अरब वॉन के कन्वर्टिबल बॉन्ड जारी करने की सूचना दी",
+        "excerpt": "KOSDAQ-सूचीबद्ध BlackYak I&C ने 13 मई 2026 को 15 अरब वॉन के दूसरे कन्वर्टिबल बॉन्ड जारी करने की घोषणा की, जिसका कन्वर्जन प्राइस 3,397 वॉन है।",
+        "body": "KOSDAQ-सूचीबद्ध BlackYak I&C ने 13 मई 2026 को अपने दूसरे कन्वर्टिबल बॉन्ड जारी करने की सूचना दी। फाइलिंग के अनुसार, इश्यू का आकार 15 अरब वॉन है। कन्वर्जन प्राइस 3,397 वॉन तय किया गया है, और कन्वर्जन क्लेम अवधि 21 मई 2027 के रूप में प्रस्तुत की गई है। यह खुलासा कंपनी की फंडिंग योजना और कन्वर्जन शर्तों को बाजार के सामने रखता है। निवेशक इश्यू आकार, कन्वर्जन प्राइस और संभावित कन्वर्जन समय को देखते हुए आगे शेयर कन्वर्जन और स्टॉक मूल्य की चाल पर ध्यान दे सकते हैं। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "BlackYak I&C Umumkan Obligasi Konversi 15 Miliar Won, Harga Konversi 3.397 Won",
+        "excerpt": "BlackYak I&C yang tercatat di KOSDAQ mengumumkan pada 13 Mei 2026 penerbitan obligasi konversi kedua senilai 15 miliar won, dengan harga konversi 3.397 won.",
+        "body": "BlackYak I&C, perusahaan yang tercatat di KOSDAQ, mengumumkan pada 13 Mei 2026 penerbitan obligasi konversi keduanya. Berdasarkan keterbukaan, nilai penerbitan mencapai 15 miliar won. Harga konversi ditetapkan sebesar 3.397 won, sementara periode permintaan konversi disajikan pada 21 Mei 2027. Pengumuman ini memberi tahu pasar mengenai rencana pendanaan perusahaan dan ketentuan konversinya. Investor dapat mencermati nilai penerbitan, harga konversi, dan waktu kemungkinan konversi saat menilai potensi konversi saham serta pergerakan harga saham. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
     "id": "5392c21a4ac3",
     "slug": "hlb제약-1200억원-규모-유상증자-실시-596156",
     "channelId": "ETF",
@@ -4271,231 +4496,6 @@
         "title": "Saham E-Mart Turun Lebih dari 5% Jelang Kinerja Kuartal I, Tertinggal dari Department Store dan Minimarket",
         "excerpt": "Saham E-Mart turun lebih dari 5% dalam sehari menjelang rilis kinerja kuartal I tahun ini, berbeda dengan penguatan saham department store dan minimarket saat polarisasi konsumsi berlanjut.",
         "body": "Saham E-Mart turun lebih dari 5% dalam satu hari menjelang pengumuman kinerja kuartal pertama tahun ini. Saat polarisasi konsumsi terus berlanjut, saham yang terkait dengan department store dan minimarket menunjukkan penguatan relatif, tetapi E-Mart sebagai operator hypermarket di sektor ritel tidak mampu mengikutinya. Laporan asli menyebut dampak polarisasi konsumsi turut membagi arah pergerakan saham di dalam sektor ritel. Department store terkait dengan permintaan konsumsi bernilai tinggi, sementara minimarket sejalan dengan pola konsumsi sehari-hari. Sebaliknya, pelemahan saham E-Mart terlihat menonjol tepat sebelum rilis kinerja kuartal I. Perhatian pasar kini tertuju pada apakah hasil kuartal pertama dan kondisi bisnis hypermarket dapat mengubah arah saham tersebut. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "70784d5a3353",
-    "slug": "8천피-딱-1포인트-남았는데코스피-외국인-매도세에-7600대-하락-마감-909114",
-    "channelId": "ETF",
-    "category": "etf",
-    "publishedAt": "2026-05-12T17:52:23.428Z",
-    "updatedAt": "2026-05-12T17:52:23.428Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/stock/12044783",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12044783",
-    "titleFingerprint": "41bb27e34c7595e9300b0364db2cef8edc1e362a",
-    "dedupKeys": [
-      "70784d5a3353fdd4ad10e339d84d07327eaa1102",
-      "41bb27e34c7595e9300b0364db2cef8edc1e362a",
-      "872d7899f93184351b2961a20b95d03669a43501"
-    ],
-    "imageUrl": "/images/articles/70784d5a3353.png",
-    "i18n": {
-      "ko": {
-        "title": "코스피 7600대 하락 마감, 장중 7999 신기록 뒤 외국인 매도 압박",
-        "excerpt": "12일 코스피는 장중 7999까지 오르며 전고점을 새로 썼지만 외국인 매도세에 하락 전환, 전일보다 179.09포인트 내린 7643.15로 마감했다.",
-        "body": "12일 코스피는 장중 한때 7999를 기록하며 전고점을 새로 썼지만, 외국인 매도세가 커지며 하락 전환해 약세로 장을 마쳤다. 이날 코스피는 전 거래일보다 179.09포인트, 2.29% 내린 7643.15에 마감했다. 8000선까지 1포인트를 남겨둔 고점 경신 이후 매도 압력이 지수를 7600대로 끌어내린 흐름이다. 장중 강세와 마감 약세가 엇갈리면서 투자자들은 외국인 수급 변화와 지수 변동성에 주목하게 됐다. 출처: mk.co.kr."
-      },
-      "en": {
-        "title": "KOSPI Ends in 7,600s After Hitting 7,999 as Foreign Selling Weighs",
-        "excerpt": "On the 12th, the KOSPI touched 7,999 intraday and set a new high, but turned lower on foreign selling to close down 179.09 points at 7,643.15.",
-        "body": "The KOSPI briefly reached 7,999 during trading on the 12th, setting a new previous high, but reversed lower as foreign selling intensified and ended the session weaker. The index closed at 7,643.15, down 179.09 points, or 2.29%, from the previous trading day. After coming within just one point of the 8,000 mark, selling pressure pulled the benchmark back into the 7,600 range. With intraday strength contrasting with a weak close, investors are watching foreign fund flows and index volatility. Source: mk.co.kr."
-      },
-      "ja": {
-        "title": "KOSPI、7999到達後に7600台で下落終了　外国人売りが重荷",
-        "excerpt": "12日のKOSPIは取引時間中に7999まで上昇し最高値を更新したが、外国人投資家の売りで下落に転じ、179.09ポイント安の7643.15で終えた。",
-        "body": "12日のKOSPIは取引時間中に一時7999を記録し、これまでの高値を更新した。しかし外国人投資家の売りが強まり、下落に転じて弱含みで取引を終えた。この日のKOSPIは前取引日比179.09ポイント、2.29%安の7643.15で引けた。8000台まであと1ポイントに迫った高値更新後、売り圧力が指数を7600台へ押し戻した形だ。取引中の強さと終値の弱さが交錯し、投資家は外国人需給の変化と指数の変動性に注目している。出典: mk.co.kr."
-      },
-      "zh": {
-        "title": "KOSPI冲至7999后收跌至7600点区间，外资卖压拖累市场",
-        "excerpt": "12日，KOSPI盘中一度升至7999点并刷新前高，但在外资卖盘影响下转跌，最终较前一交易日下跌179.09点，收于7643.15点。",
-        "body": "12日，KOSPI盘中一度触及7999点，刷新此前高点，但随后在外资卖压扩大下转为下跌，并以弱势收盘。当天KOSPI较前一交易日下跌179.09点，跌幅2.29%，收于7643.15点。指数距离8000点仅差1点后创下新高，但卖盘压力将其拉回7600点区间。盘中强势与收盘走弱形成反差，投资者开始关注外资资金流向变化及指数波动性。来源: mk.co.kr."
-      },
-      "es": {
-        "title": "KOSPI cierra en la zona de 7.600 tras tocar 7.999 por ventas extranjeras",
-        "excerpt": "El día 12, el KOSPI llegó a 7.999 puntos intradía y marcó un nuevo máximo, pero giró a la baja por ventas extranjeras y cerró en 7.643,15, 179,09 puntos menos.",
-        "body": "El KOSPI alcanzó brevemente los 7.999 puntos durante la sesión del día 12 y renovó su máximo anterior, pero terminó en terreno débil tras girar a la baja por el aumento de las ventas de inversores extranjeros. El índice cerró en 7.643,15 puntos, una caída de 179,09 puntos, o 2,29%, frente a la jornada previa. Después de quedar a solo un punto de los 8.000, la presión vendedora llevó al índice de referencia de nuevo a la zona de 7.600. La diferencia entre la fortaleza intradía y el cierre negativo centra la atención en los flujos extranjeros y la volatilidad. Fuente: mk.co.kr."
-      },
-      "pt": {
-        "title": "KOSPI fecha na faixa dos 7.600 após tocar 7.999 com venda estrangeira",
-        "excerpt": "No dia 12, o KOSPI chegou a 7.999 pontos no intradiário e renovou máxima, mas virou para queda com vendas de estrangeiros e fechou a 7.643,15, baixa de 179,09 pontos.",
-        "body": "O KOSPI tocou brevemente 7.999 pontos durante a sessão do dia 12 e renovou sua máxima anterior, mas virou para queda conforme aumentaram as vendas de investidores estrangeiros, encerrando o dia em baixa. O índice fechou a 7.643,15 pontos, recuo de 179,09 pontos, ou 2,29%, em relação ao pregão anterior. Depois de ficar a apenas um ponto dos 8.000, a pressão vendedora levou o indicador de volta à faixa dos 7.600. A força intradiária contrastando com o fechamento fraco deixou investidores atentos ao fluxo estrangeiro e à volatilidade do índice. Fonte: mk.co.kr."
-      },
-      "de": {
-        "title": "KOSPI schließt nach 7.999-Punkte-Hoch in den 7.600ern wegen Auslandsverkäufen",
-        "excerpt": "Am 12. stieg der KOSPI intraday bis auf 7.999 und markierte ein neues Hoch, drehte aber wegen Verkäufen ausländischer Anleger ins Minus und schloss 179,09 Punkte tiefer bei 7.643,15.",
-        "body": "Der KOSPI erreichte am 12. im Handelsverlauf zeitweise 7.999 Punkte und markierte damit ein neues bisheriges Hoch, drehte jedoch bei zunehmenden Verkäufen ausländischer Anleger nach unten und beendete die Sitzung schwächer. Der Index schloss bei 7.643,15 Punkten, 179,09 Punkte oder 2,29% unter dem Vortag. Nachdem bis zur Marke von 8.000 nur ein Punkt fehlte, drückte Verkaufsdruck den Leitindex zurück in den Bereich von 7.600 Punkten. Der Gegensatz zwischen intraday Stärke und schwachem Schluss lenkt den Blick auf ausländische Kapitalflüsse und Indexvolatilität. Quelle: mk.co.kr."
-      },
-      "fr": {
-        "title": "Le KOSPI finit dans les 7 600 après 7 999 points, freiné par les ventes étrangères",
-        "excerpt": "Le 12, le KOSPI a atteint 7 999 points en séance et inscrit un nouveau sommet, mais il a basculé en baisse sous l’effet des ventes étrangères, clôturant à 7 643,15, en recul de 179,09 points.",
-        "body": "Le KOSPI a brièvement atteint 7 999 points en séance le 12, établissant un nouveau plus haut, avant de se retourner à la baisse sous la pression accrue des ventes d’investisseurs étrangers et de terminer affaibli. L’indice a clôturé à 7 643,15 points, en recul de 179,09 points, soit 2,29%, par rapport à la veille. Après être passé à seulement un point du seuil des 8 000, la pression vendeuse a ramené l’indice dans la zone des 7 600. Le contraste entre la vigueur intrajournalière et la faiblesse de la clôture place les flux étrangers et la volatilité au centre de l’attention. Source: mk.co.kr."
-      },
-      "ar": {
-        "title": "كوسبي يغلق عند نطاق 7600 بعد بلوغ 7999 مع ضغط مبيعات الأجانب",
-        "excerpt": "في 12 من الشهر، لامس كوسبي مستوى 7999 خلال الجلسة وسجل قمة جديدة، لكنه تحول للهبوط بفعل مبيعات الأجانب ليغلق عند 7643.15 متراجعا 179.09 نقطة.",
-        "body": "لامس مؤشر كوسبي خلال تداولات يوم 12 مستوى 7999 نقطة لفترة وجيزة، مسجلا قمة جديدة، لكنه تحول إلى الهبوط مع اتساع مبيعات المستثمرين الأجانب وأنهى الجلسة على ضعف. وأغلق المؤشر عند 7643.15 نقطة، منخفضا 179.09 نقطة أو 2.29% عن جلسة التداول السابقة. وبعد أن بقيت نقطة واحدة فقط للوصول إلى مستوى 8000، دفعت ضغوط البيع المؤشر إلى العودة لنطاق 7600. ومع تباين القوة أثناء الجلسة مع الإغلاق الضعيف، يركز المستثمرون على تغيرات تدفقات الأجانب وتقلبات المؤشر. المصدر: mk.co.kr."
-      },
-      "hi": {
-        "title": "KOSPI 7,999 छूने के बाद 7,600 दायरे में बंद, विदेशी बिकवाली का दबाव",
-        "excerpt": "12 तारीख को KOSPI ने कारोबार के दौरान 7,999 तक पहुंचकर नया उच्च स्तर बनाया, लेकिन विदेशी बिकवाली से गिरावट में मुड़कर 179.09 अंक नीचे 7,643.15 पर बंद हुआ।",
-        "body": "12 तारीख को KOSPI ने कारोबार के दौरान एक समय 7,999 का स्तर छुआ और अपना पिछला उच्च स्तर पार किया, लेकिन विदेशी निवेशकों की बिकवाली बढ़ने से सूचकांक गिरावट में मुड़ गया और कमजोर बंद हुआ। उस दिन KOSPI पिछले कारोबारी दिन से 179.09 अंक, यानी 2.29%, गिरकर 7,643.15 पर बंद हुआ। 8,000 के स्तर से सिर्फ 1 अंक दूर पहुंचने के बाद बिकवाली के दबाव ने सूचकांक को फिर 7,600 के दायरे में ला दिया। इंट्राडे मजबूती और कमजोर बंद के इस अंतर के बीच निवेशक विदेशी फंड प्रवाह और सूचकांक की अस्थिरता पर ध्यान दे रहे हैं। स्रोत: mk.co.kr."
-      },
-      "id": {
-        "title": "KOSPI Ditutup di 7.600 Setelah Sentuh 7.999, Tertekan Jual Asing",
-        "excerpt": "Pada tanggal 12, KOSPI sempat menyentuh 7.999 dan mencetak rekor tertinggi baru, tetapi berbalik turun akibat aksi jual asing dan ditutup turun 179,09 poin di 7.643,15.",
-        "body": "KOSPI sempat mencapai 7.999 pada perdagangan tanggal 12 dan memperbarui rekor tertinggi sebelumnya, tetapi kemudian berbalik melemah ketika aksi jual investor asing meningkat. Indeks ditutup di 7.643,15, turun 179,09 poin atau 2,29% dari hari perdagangan sebelumnya. Setelah hanya berjarak 1 poin dari level 8.000, tekanan jual menarik indeks kembali ke kisaran 7.600. Kontras antara penguatan intraday dan penutupan yang lemah membuat investor mencermati perubahan arus dana asing serta volatilitas indeks. Sumber: mk.co.kr."
-      }
-    }
-  },
-  {
-    "id": "0f521b9547dc",
-    "slug": "1만피-간다는데-조정-오면-땡큐지외국인-매도폭탄에-줍줍-나선-개미들-607549",
-    "channelId": "ETF",
-    "category": "etf",
-    "publishedAt": "2026-05-12T17:50:38.274Z",
-    "updatedAt": "2026-05-12T17:50:38.274Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/stock/12044792",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12044792",
-    "titleFingerprint": "762f5c047e50ad7a1e88c5ca22d377be7294fbd3",
-    "dedupKeys": [
-      "0f521b9547dc74d9df7ee527ad340414fb7386fe",
-      "762f5c047e50ad7a1e88c5ca22d377be7294fbd3",
-      "a77dd7e3baf718ddb04173b2f33042446c1a39db"
-    ],
-    "imageUrl": "/images/articles/0f521b9547dc.jpg",
-    "i18n": {
-      "ko": {
-        "title": "코스피 7640선 하락에 개인 매수 확대, 외국인 반도체·자동차 매도 집중",
-        "excerpt": "외국인 투자자들이 반도체와 자동차 업종을 중심으로 대규모 차익실현 매도에 나서며 코스피가 7640선까지 밀리자 개인 투자자들은 이를 매수 기회로 판단했다.",
-        "body": "외국인 투자자들이 반도체와 자동차 업종을 중심으로 대규모 차익실현 매도에 나서면서 코스피가 7640선까지 밀렸다. 이번 하락 국면에서 개인 투자자들은 조정을 매수 기회로 보고 ‘줍줍’에 나선 것으로 전해졌다. 원문은 외국인의 매도세가 특정 주도 업종에 집중됐고, 개인은 향후 지수 상승 기대 속에 저가 매수로 대응했다고 설명했다. KB증권은 SK하이닉스 관련 흐름을 두고 “하이닉스 예고편에 불과”하다는 취지의 평가를 내놨다. 시장에서는 외국인 차익실현 규모와 개인 매수세가 단기 수급의 핵심 변수로 주목된다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "KOSPI Falls to 7,640 as Retail Buyers Step In After Foreign Selling",
-        "excerpt": "Foreign investors took large profits, mainly in semiconductor and auto shares, pushing the KOSPI down to the 7,640 level, while retail investors saw the pullback as a buying chance.",
-        "body": "Foreign investors launched a large round of profit-taking focused on semiconductor and automobile stocks, pushing the KOSPI down to the 7,640 level. During the decline, individual investors reportedly treated the correction as a buying opportunity and moved to accumulate shares. The original report said foreign selling was concentrated in key leading sectors, while retail investors responded with bargain buying amid expectations for further index gains. KB Securities assessed the SK Hynix-related move as being only a preview of what may come. Market attention is now on the size of foreign profit-taking and the strength of retail buying as key short-term supply-and-demand factors. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "KOSPIが7640台へ下落、外国人売りに個人投資家は押し目買い",
-        "excerpt": "外国人投資家が半導体と自動車を中心に大規模な利益確定売りを出し、KOSPIが7640台まで下落する中、個人投資家は買い機会と判断した。",
-        "body": "外国人投資家が半導体と自動車業種を中心に大規模な利益確定売りに動き、KOSPIは7640台まで押し下げられた。この下落局面で個人投資家は調整を買い機会と受け止め、買い集めに動いたと伝えられた。原文は、外国人の売りが特定の主導業種に集中し、個人は今後の指数上昇期待を背景に安値買いで対応したと説明している。KB証券はSKハイニックス関連の流れについて「ハイニックスの予告編にすぎない」との趣旨の見方を示した。市場では、外国人の利益確定規模と個人の買いが短期需給の重要な変数として注目される。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "KOSPI跌至7640点一线，散户趁外资抛售加码买入",
-        "excerpt": "外资投资者集中抛售半导体和汽车板块进行大规模获利了结，推动KOSPI跌至7640点一线，个人投资者则将回调视为买入机会。",
-        "body": "外资投资者以半导体和汽车板块为中心进行大规模获利了结，导致KOSPI跌至7640点一线。在这一回调过程中，个人投资者据称将调整视为买入机会，开始逢低吸纳。原文指出，外资卖盘集中在部分主导行业，而个人投资者则在期待指数未来上涨的背景下选择低价买入。KB证券就SK海力士相关走势表示，这“不过是海力士的预告片”。市场目前关注外资获利了结规模与个人买盘强度，这两项因素被视为短期供需的核心变量。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "El KOSPI cae a 7.640 puntos y minoristas compran tras ventas extranjeras",
-        "excerpt": "Los inversores extranjeros realizaron fuertes tomas de ganancias en semiconductores y automóviles, llevando al KOSPI a 7.640 puntos, mientras los minoristas vieron una oportunidad de compra.",
-        "body": "Los inversores extranjeros realizaron una amplia toma de ganancias centrada en los sectores de semiconductores y automóviles, lo que llevó al KOSPI hasta el nivel de 7.640 puntos. En esta fase de caída, los inversores individuales habrían considerado la corrección como una oportunidad de compra y salieron a acumular acciones. El informe original indicó que las ventas extranjeras se concentraron en sectores líderes específicos, mientras que los minoristas respondieron con compras a bajo precio ante expectativas de nuevas subidas del índice. KB Securities evaluó el movimiento relacionado con SK Hynix como apenas un adelanto. El mercado observa el volumen de toma de ganancias extranjera y la fuerza de las compras minoristas como variables clave de oferta y demanda a corto plazo. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "KOSPI cai para 7.640 pontos e investidores pessoa física compram na baixa",
-        "excerpt": "Investidores estrangeiros realizaram forte lucro em semicondutores e automóveis, levando o KOSPI ao nível de 7.640 pontos, enquanto pessoas físicas viram a queda como chance de compra.",
-        "body": "Investidores estrangeiros fizeram uma ampla realização de lucros concentrada nos setores de semicondutores e automóveis, levando o KOSPI ao nível de 7.640 pontos. Nesse movimento de queda, investidores individuais teriam visto a correção como uma oportunidade de compra e passaram a acumular ações. A reportagem original afirmou que a pressão vendedora estrangeira se concentrou em setores líderes específicos, enquanto pessoas físicas responderam com compras a preços baixos diante da expectativa de alta futura do índice. A KB Securities avaliou o fluxo relacionado à SK Hynix como apenas uma prévia. O mercado acompanha o tamanho da realização estrangeira e a força das compras individuais como variáveis centrais de oferta e demanda no curto prazo. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "KOSPI fällt auf 7.640 Punkte, Privatanleger kaufen nach Auslandsverkäufen",
-        "excerpt": "Ausländische Investoren nahmen vor allem bei Halbleiter- und Autowerten umfangreiche Gewinne mit und drückten den KOSPI auf 7.640 Punkte; Privatanleger sahen eine Kaufchance.",
-        "body": "Ausländische Investoren haben vor allem in den Sektoren Halbleiter und Automobile in großem Umfang Gewinne mitgenommen und den KOSPI auf die Marke von 7.640 Punkten gedrückt. In dieser Rückgangsphase betrachteten Privatanleger die Korrektur Berichten zufolge als Kaufgelegenheit und begannen, Aktien einzusammeln. Der Originalbericht erklärte, dass sich die Auslandsverkäufe auf bestimmte führende Branchen konzentrierten, während Privatanleger angesichts weiterer Indexhoffnungen mit Käufen zu niedrigeren Preisen reagierten. KB Securities bewertete die Entwicklung rund um SK Hynix sinngemäß als bloßen Vorgeschmack. Am Markt gelten das Ausmaß der ausländischen Gewinnmitnahmen und die Stärke der Käufe durch Privatanleger als zentrale kurzfristige Angebots- und Nachfragefaktoren. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Le KOSPI tombe à 7 640 points, les particuliers achètent après les ventes étrangères",
-        "excerpt": "Les investisseurs étrangers ont pris massivement leurs bénéfices dans les semi-conducteurs et l’automobile, faisant reculer le KOSPI à 7 640 points, tandis que les particuliers y ont vu une occasion d’achat.",
-        "body": "Les investisseurs étrangers ont engagé une importante prise de bénéfices centrée sur les secteurs des semi-conducteurs et de l’automobile, faisant reculer le KOSPI jusqu’au niveau de 7 640 points. Dans cette phase de baisse, les investisseurs particuliers auraient considéré la correction comme une occasion d’achat et se seraient mis à accumuler des titres. L’article original indique que les ventes étrangères se sont concentrées sur certains secteurs moteurs, tandis que les particuliers ont répondu par des achats à bas prix dans l’attente d’une hausse future de l’indice. KB Securities a estimé que le mouvement lié à SK Hynix n’était qu’un avant-goût. Le marché surveille désormais l’ampleur des prises de bénéfices étrangères et la vigueur des achats des particuliers comme variables clés de l’offre et de la demande à court terme. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "كوسبي يهبط إلى 7640 نقطة والأفراد يشترون مع موجة بيع أجنبية",
-        "excerpt": "اتجه المستثمرون الأجانب إلى جني أرباح واسع في أسهم أشباه الموصلات والسيارات، ما دفع كوسبي إلى مستوى 7640 نقطة، بينما رأى المستثمرون الأفراد التراجع فرصة شراء.",
-        "body": "أقدم المستثمرون الأجانب على عمليات جني أرباح واسعة تركزت في قطاعات أشباه الموصلات والسيارات، ما دفع مؤشر كوسبي إلى مستوى 7640 نقطة. وخلال موجة الهبوط هذه، اعتبر المستثمرون الأفراد التصحيح فرصة للشراء واتجهوا إلى تجميع الأسهم. وذكر التقرير الأصلي أن ضغوط البيع الأجنبية تركزت في قطاعات قيادية محددة، بينما رد الأفراد بشراء الأسهم بأسعار منخفضة وسط توقعات بصعود المؤشر لاحقا. ووصفت KB Securities التحرك المرتبط بسهم SK Hynix بأنه مجرد عرض تمهيدي. وتتابع السوق الآن حجم جني الأرباح من جانب الأجانب وقوة شراء الأفراد باعتبارهما عاملين رئيسيين في العرض والطلب على المدى القصير. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "KOSPI 7,640 तक फिसला, विदेशी बिकवाली के बीच खुदरा निवेशकों की खरीद",
-        "excerpt": "विदेशी निवेशकों ने सेमीकंडक्टर और ऑटो शेयरों में बड़े पैमाने पर मुनाफावसूली की, जिससे KOSPI 7,640 स्तर तक गिरा, जबकि व्यक्तिगत निवेशकों ने इसे खरीदारी का अवसर माना।",
-        "body": "विदेशी निवेशकों ने सेमीकंडक्टर और ऑटोमोबाइल क्षेत्रों पर केंद्रित बड़े पैमाने की मुनाफावसूली की, जिससे KOSPI 7,640 के स्तर तक नीचे आ गया। इस गिरावट के दौरान व्यक्तिगत निवेशकों ने करेक्शन को खरीदारी का अवसर माना और शेयर जुटाने लगे। मूल रिपोर्ट के अनुसार विदेशी बिकवाली कुछ प्रमुख क्षेत्रों में केंद्रित रही, जबकि खुदरा निवेशकों ने सूचकांक में आगे बढ़त की उम्मीद के बीच निचले भावों पर खरीदारी से जवाब दिया। KB Securities ने SK Hynix से जुड़े रुझान को केवल एक पूर्वावलोकन जैसा बताया। बाजार अब विदेशी मुनाफावसूली के आकार और व्यक्तिगत निवेशकों की खरीदारी की ताकत को अल्पकालिक मांग-आपूर्ति के मुख्य कारक के रूप में देख रहा है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "KOSPI Turun ke 7.640, Investor Ritel Membeli Saat Asing Jual Saham",
-        "excerpt": "Investor asing melakukan aksi ambil untung besar pada saham semikonduktor dan otomotif hingga menekan KOSPI ke level 7.640, sementara investor individu menilai koreksi sebagai peluang beli.",
-        "body": "Investor asing melakukan aksi ambil untung besar yang berfokus pada sektor semikonduktor dan otomotif, sehingga KOSPI turun ke level 7.640. Dalam fase penurunan ini, investor individu dilaporkan memandang koreksi sebagai peluang beli dan mulai mengakumulasi saham. Laporan asli menyebut tekanan jual asing terkonsentrasi pada sektor-sektor unggulan tertentu, sementara investor ritel merespons dengan pembelian di harga rendah di tengah harapan kenaikan indeks selanjutnya. KB Securities menilai pergerakan terkait SK Hynix sebagai baru sebatas pratinjau. Pasar kini mencermati besarnya aksi ambil untung asing dan kekuatan beli investor individu sebagai variabel utama pasokan dan permintaan jangka pendek. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "5b961536a984",
-    "slug": "코스피-폭락-ai-국민배당금-언급-때문야권-공산당-본색-맹공-537315",
-    "channelId": "ETF",
-    "category": "etf",
-    "publishedAt": "2026-05-12T17:03:58.583Z",
-    "updatedAt": "2026-05-12T17:03:58.583Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/stock/12044833",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12044833",
-    "titleFingerprint": "22ab1f48bcb5ee73b7c631d1b480b0f4eafa7bde",
-    "dedupKeys": [
-      "5b961536a98491ec5ad0b5e74e6b63e39da3fdfb",
-      "22ab1f48bcb5ee73b7c631d1b480b0f4eafa7bde",
-      "6785885ed5488aec93c9ac2a0bcba818c48ce910"
-    ],
-    "imageUrl": "/images/articles/5b961536a984.png",
-    "i18n": {
-      "ko": {
-        "title": "코스피 2%대 급락, ‘AI 국민배당금’ 발언 논란에 야권 맹공",
-        "excerpt": "12일 코스피가 장중 사상 최고치를 기록한 뒤 2% 넘게 하락해 7700선을 내주자, 김용범 청와대 정책실장의 ‘AI 국민배당금’ 구상이 하락 원인으로 거론됐다.",
-        "body": "코스피가 12일 장중 사상 최고치를 기록한 뒤 하락 전환해 2% 넘게 내리며 7700선을 내줬다. 시장 하락과 맞물려 김용범 청와대 정책실장이 언급한 ‘AI 국민배당금’ 구상이 원인으로 거론되자 정치권 공방이 커졌다. 야권은 해당 발언을 두고 “공산당 본색”이라고 비판하며 공세에 나섰다. 이번 논란은 증시가 최고점 이후 급락한 시점과 정책 구상이 함께 주목받으면서 확산됐다. 향후 시장 반응과 정치권 대응이 추가 변수로 남을 전망이다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "KOSPI Falls Over 2% as ‘AI National Dividend’ Remark Draws Fire",
-        "excerpt": "On the 12th, the KOSPI hit an intraday record high before falling more than 2% below the 7,700 mark, while Kim Yong-beom’s ‘AI national dividend’ idea was cited in the debate.",
-        "body": "The KOSPI reversed lower on the 12th after setting an intraday record high, dropping more than 2% and giving up the 7,700 level. As the decline unfolded, attention turned to Blue House policy chief Kim Yong-beom’s proposal for an ‘AI national dividend,’ which was cited as a possible trigger in political debate. Opposition parties attacked the comment, calling it the “true colors of the Communist Party.” The controversy spread as the market’s sharp retreat from a record level coincided with renewed focus on the policy idea. Future market reactions and political responses remain key variables. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "KOSPIが2％超急落、「AI国民配当金」発言めぐり野党が攻勢",
-        "excerpt": "12日、KOSPIは取引時間中に過去最高値を付けた後、2％超下落して7700台を割り込み、金容範大統領室政策室長の「AI国民配当金」構想が議論を呼んだ。",
-        "body": "KOSPIは12日、取引時間中に過去最高値を記録した後に下落へ転じ、2％超下げて7700台を割り込んだ。市場の下落と重なり、金容範大統領室政策室長が言及した「AI国民配当金」構想が下落要因として取り沙汰され、政治的な攻防が強まった。野党はこの発言について「共産党の本性」と批判し、攻勢に出た。最高値から急落した時点と政策構想への注目が重なったことで、論争は広がった。今後の市場反応と政界の対応が追加の焦点となる見通しだ。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "KOSPI跌超2%，‘AI国民分红’言论引发在野党猛攻",
-        "excerpt": "12日，KOSPI盘中创历史新高后转跌，跌幅超过2%并失守7700点，金容范青瓦台政策室长提出的‘AI国民分红’构想成为争议焦点。",
-        "body": "KOSPI在12日盘中创下历史新高后转为下跌，跌幅超过2%，并失守7700点。随着市场下挫，金容范青瓦台政策室长提到的‘AI国民分红’构想被卷入下跌原因的讨论，政治攻防随之升温。在野党批评该言论暴露“共产党本色”，并展开猛烈攻势。此次争议是在股指从高位急跌的时间点，与相关政策构想同时受到关注后扩散的。后续市场反应和政界应对仍将成为变量。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "El KOSPI cae más del 2% y la idea de ‘dividendo nacional de IA’ desata críticas",
-        "excerpt": "El día 12, el KOSPI marcó un máximo histórico intradía y luego cayó más del 2%, perdiendo los 7.700 puntos, mientras se debatía la propuesta de Kim Yong-beom sobre un ‘dividendo nacional de IA’.",
-        "body": "El KOSPI cambió de rumbo el día 12 tras alcanzar un máximo histórico intradía, cayó más del 2% y perdió el nivel de 7.700 puntos. En medio de la caída, la propuesta de Kim Yong-beom, jefe de políticas de la Casa Azul, sobre un ‘dividendo nacional de IA’ fue mencionada en el debate como posible causa del retroceso. La oposición atacó el comentario y lo calificó como muestra del “verdadero rostro comunista”. La controversia se amplió porque la fuerte baja desde máximos coincidió con la atención sobre esa idea política. La reacción del mercado y la respuesta política seguirán siendo variables clave. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "KOSPI cai mais de 2% e fala sobre ‘dividendo nacional de IA’ gera ataque opositor",
-        "excerpt": "No dia 12, o KOSPI atingiu máxima histórica intradiária antes de cair mais de 2% e perder os 7.700 pontos, enquanto a proposta de Kim Yong-beom sobre ‘dividendo nacional de IA’ entrou no debate.",
-        "body": "O KOSPI virou para queda no dia 12 depois de registrar uma máxima histórica intradiária, recuou mais de 2% e perdeu o nível de 7.700 pontos. Em meio ao movimento, a proposta de Kim Yong-beom, chefe de políticas da Casa Azul, sobre um ‘dividendo nacional de IA’ passou a ser citada no debate como possível fator da queda. A oposição criticou a fala, afirmando que ela revelaria o “verdadeiro caráter comunista”, e intensificou os ataques. A polêmica cresceu porque a forte baixa após o recorde coincidiu com o destaque dado à ideia. Reações do mercado e da política seguem como variáveis. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "KOSPI fällt über 2%, Streit um ‘KI-Volksdividende’ verschärft sich",
-        "excerpt": "Am 12. erreichte der KOSPI im Tagesverlauf ein Rekordhoch, fiel danach um mehr als 2% unter 7.700 Punkte, während Kim Yong-beoms Idee einer ‘KI-Volksdividende’ diskutiert wurde.",
-        "body": "Der KOSPI drehte am 12. nach einem Rekordhoch im Tagesverlauf ins Minus, verlor mehr als 2% und gab die Marke von 7.700 Punkten auf. Parallel zum Rückgang rückte der Vorschlag von Kim Yong-beom, Politikchef des Blauen Hauses, zu einer ‘KI-Volksdividende’ in den Fokus und wurde in der Debatte als möglicher Auslöser genannt. Die Opposition griff die Äußerung scharf an und sprach vom “wahren Gesicht der Kommunistischen Partei”. Die Kontroverse weitete sich aus, weil der starke Rückgang vom Höchststand zeitlich mit der Aufmerksamkeit für die politische Idee zusammenfiel. Marktreaktionen und politische Antworten bleiben wichtige Variablen. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Le KOSPI chute de plus de 2%, polémique autour du ‘dividende national de l’IA’",
-        "excerpt": "Le 12, le KOSPI a inscrit un record intrajournalier avant de reculer de plus de 2% sous les 7.700 points, tandis que l’idée de Kim Yong-beom d’un ‘dividende national de l’IA’ était évoquée.",
-        "body": "Le KOSPI s’est retourné à la baisse le 12 après avoir atteint un record en séance, perdant plus de 2% et repassant sous le seuil des 7.700 points. Dans ce contexte, la proposition de Kim Yong-beom, chef de la politique à la Maison bleue, concernant un ‘dividende national de l’IA’ a été citée dans le débat comme possible facteur de la chute. L’opposition a vivement attaqué ces propos, y voyant le “vrai visage du Parti communiste”. La controverse s’est propagée alors que le repli brutal depuis un sommet coïncidait avec l’attention portée à cette idée politique. Les réactions du marché et du monde politique restent à surveiller. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "كوسبي يهبط بأكثر من 2% وجدال حول تصريح ‘عائد الذكاء الاصطناعي للمواطنين’",
-        "excerpt": "في 12 من الشهر، سجل كوسبي أعلى مستوى تاريخي خلال الجلسة ثم تراجع بأكثر من 2% وخسر مستوى 7700، بينما أثيرت فكرة كيم يونغ بوم عن ‘عائد وطني للذكاء الاصطناعي’.",
-        "body": "تحول مؤشر كوسبي إلى الهبوط في 12 من الشهر بعد أن سجل أعلى مستوى تاريخي خلال الجلسة، ليتراجع بأكثر من 2% ويفقد مستوى 7700. ومع هذا الانخفاض، برزت فكرة كيم يونغ بوم، رئيس السياسات في البيت الأزرق، بشأن ‘عائد وطني للذكاء الاصطناعي’ كموضوع في الجدل حول أسباب التراجع. وهاجمت المعارضة التصريح واعتبرته كشفا عن “الوجه الحقيقي للحزب الشيوعي”. واتسع الجدل لأن الهبوط الحاد من مستوى قياسي تزامن مع تسليط الضوء على الفكرة السياسية. وتبقى ردود فعل السوق والسياسة عوامل مؤثرة لاحقا. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "KOSPI 2% से अधिक टूटा, ‘AI राष्ट्रीय लाभांश’ बयान पर विपक्ष का हमला",
-        "excerpt": "12 तारीख को KOSPI ने इंट्राडे रिकॉर्ड ऊंचाई छूने के बाद 2% से अधिक गिरावट दर्ज की और 7700 स्तर खो दिया, जबकि किम योंग-बोम की ‘AI राष्ट्रीय लाभांश’ योजना बहस में आई।",
-        "body": "KOSPI ने 12 तारीख को कारोबार के दौरान रिकॉर्ड ऊंचाई बनाने के बाद गिरावट का रुख लिया, 2% से अधिक फिसला और 7700 का स्तर खो दिया। बाजार की गिरावट के बीच ब्लू हाउस के नीति प्रमुख किम योंग-बोम द्वारा उल्लेखित ‘AI राष्ट्रीय लाभांश’ योजना को बहस में संभावित कारण के रूप में उठाया गया। विपक्ष ने इस बयान पर तीखा हमला करते हुए इसे “कम्युनिस्ट पार्टी का असली चेहरा” बताया। विवाद इसलिए बढ़ा क्योंकि रिकॉर्ड स्तर से तेज गिरावट और नीति प्रस्ताव पर ध्यान एक ही समय सामने आए। आगे बाजार की प्रतिक्रिया और राजनीतिक जवाब प्रमुख कारक रहेंगे। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "KOSPI Anjlok Lebih dari 2%, Pernyataan ‘Dividen AI Rakyat’ Diserang Oposisi",
-        "excerpt": "Pada tanggal 12, KOSPI sempat mencetak rekor tertinggi intraday sebelum turun lebih dari 2% dan kehilangan level 7.700, sementara gagasan Kim Yong-beom tentang ‘dividen AI rakyat’ menjadi sorotan.",
-        "body": "KOSPI berbalik turun pada tanggal 12 setelah mencetak rekor tertinggi intraday, melemah lebih dari 2% dan kehilangan level 7.700. Di tengah penurunan itu, gagasan Kim Yong-beom, kepala kebijakan Blue House, tentang ‘dividen AI rakyat’ ikut disebut dalam perdebatan sebagai kemungkinan penyebab pelemahan. Pihak oposisi menyerang pernyataan tersebut dengan menyebutnya sebagai “watak asli Partai Komunis”. Kontroversi meluas karena penurunan tajam dari rekor tertinggi terjadi bersamaan dengan sorotan terhadap gagasan kebijakan itu. Reaksi pasar dan respons politik selanjutnya masih menjadi variabel penting. Sumber: mk.co.kr"
       }
     }
   }
