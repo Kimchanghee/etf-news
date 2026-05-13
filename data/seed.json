@@ -1,5 +1,230 @@
 [
   {
+    "id": "d1dccdf8c678",
+    "slug": "형평성-vs-시장-준비도코인-과세-싸움-반복되는-이유엠블록레터-467803",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-05-13T08:27:33.234Z",
+    "updatedAt": "2026-05-13T08:27:33.234Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/stock/12046078",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12046078",
+    "titleFingerprint": "0b89304cda2e6ce17621d8c64ea1605228f1283c",
+    "dedupKeys": [
+      "d1dccdf8c678d8607fec76c02d2ee1902c61c2b2",
+      "0b89304cda2e6ce17621d8c64ea1605228f1283c",
+      "1b9656c9d6bb63cb2cc0c9c48e4c051c67786693"
+    ],
+    "imageUrl": "/images/articles/d1dccdf8c678.png",
+    "i18n": {
+      "ko": {
+        "title": "코인 과세 유예 논쟁 재점화, ‘형평성’과 ‘시장 준비도’ 충돌하는 이유",
+        "excerpt": "최근 국내 가상자산 시장에서 비트코인 가격 상승과 대선을 앞둔 정치권의 코인 과세 유예 논의가 맞물리며 과세 논쟁이 다시 부상했다.",
+        "body": "최근 국내 가상자산 시장이 다시 뜨거워진 가운데, 대선을 앞두고 정치권에서 ‘코인 과세 유예’ 논의가 재차 거론되고 있다. 관심이 커진 배경에는 비트코인 가격 상승만이 아니라, 과세를 둘러싼 ‘형평성’과 ‘시장 준비도’의 충돌이 있다. 가상자산 과세는 투자 소득에 세금을 매겨야 한다는 원칙과, 시장 제도와 투자자 보호 장치가 충분히 준비됐는지에 대한 우려가 맞서며 반복적으로 논쟁이 이어져 왔다. 이번 논의도 선거 국면에서 투자자 여론과 과세 원칙이 함께 부각되며 시장의 관심을 키우고 있다. 출처: mk.co.kr."
+      },
+      "en": {
+        "title": "Crypto Tax Deferral Debate Returns as Fairness Clashes With Market Readiness",
+        "excerpt": "South Korea’s virtual asset market is back in focus as Bitcoin’s rise and pre-election talk of delaying crypto taxation revive a familiar policy dispute.",
+        "body": "South Korea’s virtual asset market has heated up again recently, with politicians once more discussing a possible delay to crypto taxation ahead of the presidential election. The renewed attention is not only about Bitcoin’s price gains. At the center is a recurring clash between “fairness” and “market readiness.” The debate over taxing virtual assets has repeatedly returned because the principle of taxing investment income runs up against concerns over whether the market system and investor protection measures are sufficiently prepared. This latest discussion is drawing attention as investor sentiment and tax principles both surface during the election period. Source: mk.co.kr."
+      },
+      "ja": {
+        "title": "暗号資産課税延期論が再燃、公平性と市場準備度の対立が続く理由",
+        "excerpt": "韓国の暗号資産市場では最近、ビットコイン上昇と大統領選を前にした課税延期論が重なり、課税論争が再び注目されている。",
+        "body": "韓国の暗号資産市場が最近再び熱を帯びるなか、大統領選を前に政治圏で「コイン課税延期」の議論が再び取り上げられている。関心が高まった背景は、ビットコイン価格の上昇だけではない。焦点は、課税をめぐる「公平性」と「市場準備度」の衝突にある。暗号資産課税は、投資所得に税を課すべきだという原則と、市場制度や投資家保護の仕組みが十分に整っているのかという懸念が対立し、繰り返し論争になってきた。今回も選挙局面で投資家世論と課税原則が同時に浮上し、市場の関心を集めている。出典: mk.co.kr."
+      },
+      "zh": {
+        "title": "加密货币征税延期争议再起，公平性与市场准备度为何反复碰撞",
+        "excerpt": "近期韩国虚拟资产市场再度升温，比特币上涨与大选前政界重提加密货币征税延期，使税收争议重新受到关注。",
+        "body": "近期韩国虚拟资产市场再次升温，在大选前，政界重新提及“加密货币征税延期”议题。市场关注增加，并不只是因为比特币价格上涨。争议核心在于围绕征税的“公平性”与“市场准备度”发生冲突。虚拟资产征税问题之所以反复出现，是因为对投资收益征税的原则，与市场制度和投资者保护措施是否已经充分准备好的担忧相互对立。此次讨论也在选举局势下同时凸显投资者舆论与征税原则，进一步吸引市场关注。来源: mk.co.kr."
+      },
+      "es": {
+        "title": "Vuelve el debate sobre aplazar el impuesto cripto: equidad frente a preparación del mercado",
+        "excerpt": "El mercado surcoreano de activos virtuales vuelve al foco por el alza de Bitcoin y la discusión política previa a las elecciones sobre aplazar la tributación cripto.",
+        "body": "El mercado surcoreano de activos virtuales se ha calentado de nuevo recientemente, mientras la política vuelve a hablar de un posible aplazamiento del impuesto a las criptomonedas antes de las elecciones presidenciales. El renovado interés no se explica solo por la subida del precio de Bitcoin. En el centro está el choque entre “equidad” y “preparación del mercado”. La tributación de los activos virtuales ha generado debates repetidos porque el principio de gravar las rentas de inversión se enfrenta a dudas sobre si el sistema de mercado y las medidas de protección al inversor están suficientemente preparados. Esta nueva discusión gana atención en un contexto electoral donde pesan tanto la opinión de los inversores como los principios fiscales. Fuente: mk.co.kr."
+      },
+      "pt": {
+        "title": "Debate sobre adiar imposto cripto volta com equidade contra preparo do mercado",
+        "excerpt": "O mercado sul-coreano de ativos virtuais voltou ao centro das atenções com a alta do Bitcoin e a discussão eleitoral sobre adiar a tributação cripto.",
+        "body": "O mercado sul-coreano de ativos virtuais voltou a esquentar recentemente, enquanto a classe política retoma a discussão sobre um possível adiamento da tributação de criptomoedas antes da eleição presidencial. O interesse renovado não se deve apenas à alta do preço do Bitcoin. No centro está o conflito entre “equidade” e “preparo do mercado”. A tributação de ativos virtuais tem gerado debates recorrentes porque o princípio de tributar renda de investimento se contrapõe a preocupações sobre se o sistema de mercado e as medidas de proteção ao investidor estão suficientemente preparados. Agora, em meio ao cenário eleitoral, a opinião dos investidores e os princípios fiscais voltam a ganhar destaque. Fonte: mk.co.kr."
+      },
+      "de": {
+        "title": "Krypto-Steueraufschub wieder im Fokus: Fairness trifft auf Marktreife",
+        "excerpt": "Südkoreas Markt für virtuelle Vermögenswerte steht erneut im Fokus, da Bitcoin steigt und vor der Präsidentschaftswahl ein Steueraufschub diskutiert wird.",
+        "body": "Südkoreas Markt für virtuelle Vermögenswerte hat zuletzt wieder deutlich an Aufmerksamkeit gewonnen, während die Politik vor der Präsidentschaftswahl erneut über einen möglichen Aufschub der Krypto-Besteuerung spricht. Der Grund dafür ist nicht nur der gestiegene Bitcoin-Preis. Im Mittelpunkt steht der wiederkehrende Konflikt zwischen “Fairness” und “Marktreife”. Die Besteuerung virtueller Vermögenswerte wird immer wieder diskutiert, weil das Prinzip, Anlageerträge zu besteuern, auf Zweifel trifft, ob Marktregeln und Anlegerschutz bereits ausreichend vorbereitet sind. Auch diese Debatte rückt im Wahlumfeld Anlegerstimmung und Steuergrundsätze zugleich in den Vordergrund. Quelle: mk.co.kr."
+      },
+      "fr": {
+        "title": "Le report de la taxe crypto refait débat entre équité et préparation du marché",
+        "excerpt": "Le marché sud-coréen des actifs virtuels revient au premier plan avec la hausse du Bitcoin et les discussions électorales sur un report de la fiscalité crypto.",
+        "body": "Le marché sud-coréen des actifs virtuels s’est récemment de nouveau animé, alors que le monde politique évoque encore un possible report de la fiscalité des cryptomonnaies avant l’élection présidentielle. Ce regain d’attention ne tient pas seulement à la hausse du prix du Bitcoin. Le coeur du débat oppose “équité” et “préparation du marché”. La taxation des actifs virtuels revient régulièrement car le principe d’imposer les revenus d’investissement se heurte aux inquiétudes sur le degré de préparation du système de marché et des dispositifs de protection des investisseurs. Dans ce contexte électoral, l’opinion des investisseurs et les principes fiscaux reviennent ensemble au centre de l’attention. Source: mk.co.kr."
+      },
+      "ar": {
+        "title": "تأجيل ضريبة العملات المشفرة يعود للواجهة بين العدالة وجاهزية السوق",
+        "excerpt": "عاد سوق الأصول الافتراضية في كوريا الجنوبية إلى دائرة الاهتمام مع صعود بيتكوين وتجدد النقاش السياسي قبل الانتخابات حول تأجيل الضريبة.",
+        "body": "شهد سوق الأصول الافتراضية في كوريا الجنوبية سخونة جديدة في الآونة الأخيرة، فيما عادت الأوساط السياسية قبل الانتخابات الرئاسية إلى طرح مسألة “تأجيل ضريبة العملات المشفرة”. ولا يرتبط هذا الاهتمام بصعود سعر بيتكوين فقط. فجوهر النقاش هو التصادم المتكرر بين “العدالة” و“جاهزية السوق”. وتعود قضية فرض الضرائب على الأصول الافتراضية مرارا لأن مبدأ فرض ضريبة على دخل الاستثمار يقابله قلق بشأن ما إذا كان نظام السوق وآليات حماية المستثمرين جاهزة بما يكفي. وفي هذه الجولة، يبرز رأي المستثمرين ومبدأ الضريبة معا في أجواء انتخابية، ما يزيد اهتمام السوق. المصدر: mk.co.kr."
+      },
+      "hi": {
+        "title": "क्रिप्टो टैक्स टालने की बहस फिर तेज, समानता बनाम बाजार तैयारी का सवाल",
+        "excerpt": "दक्षिण कोरिया के वर्चुअल एसेट बाजार में बिटकॉइन की तेजी और चुनाव से पहले क्रिप्टो टैक्स टालने की राजनीतिक चर्चा से विवाद फिर उभरा है।",
+        "body": "दक्षिण कोरिया का वर्चुअल एसेट बाजार हाल में फिर गर्म हुआ है, और राष्ट्रपति चुनाव से पहले राजनीति में “क्रिप्टो टैक्स टालने” की चर्चा दोबारा उठी है। यह दिलचस्पी केवल बिटकॉइन की कीमत बढ़ने की वजह से नहीं है। मुद्दे के केंद्र में टैक्स को लेकर “समानता” और “बाजार की तैयारी” का टकराव है। वर्चुअल एसेट पर कर लगाने की बहस बार-बार इसलिए लौटती है क्योंकि निवेश आय पर कर लगाने का सिद्धांत इस चिंता से टकराता है कि बाजार व्यवस्था और निवेशक संरक्षण उपाय पर्याप्त रूप से तैयार हैं या नहीं। चुनावी माहौल में निवेशकों की राय और कर सिद्धांत दोनों साथ उभरने से यह चर्चा बाजार का ध्यान खींच रही है। स्रोत: mk.co.kr."
+      },
+      "id": {
+        "title": "Penundaan Pajak Kripto Kembali Diperdebatkan: Kesetaraan vs Kesiapan Pasar",
+        "excerpt": "Pasar aset virtual Korea Selatan kembali disorot karena kenaikan Bitcoin dan pembahasan politik jelang pilpres soal penundaan pajak kripto.",
+        "body": "Pasar aset virtual Korea Selatan kembali memanas belakangan ini, sementara kalangan politik menjelang pemilihan presiden kembali membicarakan kemungkinan “penundaan pajak kripto”. Perhatian yang meningkat ini tidak hanya dipicu oleh kenaikan harga Bitcoin. Inti persoalannya adalah benturan antara “kesetaraan” dan “kesiapan pasar”. Pajak atas aset virtual terus menjadi perdebatan berulang karena prinsip memajaki pendapatan investasi berhadapan dengan kekhawatiran apakah sistem pasar dan perlindungan investor sudah cukup siap. Dalam situasi pemilu, opini investor dan prinsip perpajakan sama-sama mengemuka, sehingga isu ini kembali menarik perhatian pasar. Sumber: mk.co.kr."
+      }
+    }
+  },
+  {
+    "id": "3a50794fc5ca",
+    "slug": "현대차lg전자까지-뛰었다휴머노이드-기대감에-증시-들썩-910233",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-05-13T08:25:51.322Z",
+    "updatedAt": "2026-05-13T08:25:51.322Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/stock/12046279",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12046279",
+    "titleFingerprint": "7127ebe5b70c239d5a5cf54e3745479f32c9ef3f",
+    "dedupKeys": [
+      "3a50794fc5ca4249f8e3d560e71fa213e568e8be",
+      "7127ebe5b70c239d5a5cf54e3745479f32c9ef3f",
+      "d20ff8206df74794e28825ae0d15bac4b3e11f34"
+    ],
+    "imageUrl": "/images/articles/3a50794fc5ca.jpg",
+    "i18n": {
+      "ko": {
+        "title": "휴머노이드 로봇 기대감에 로봇주 강세, 현대차·LG전자도 주목",
+        "excerpt": "국내 로봇 관련주가 외국인 매수세와 휴머노이드 산업 기대감에 힘입어 다시 강세를 보이고 있으며, AI 이후 차세대 성장 산업으로 로봇 분야가 부각되고 있다.",
+        "body": "국내 증시에서 로봇 관련주가 외국인 매수세와 휴머노이드 로봇 산업에 대한 기대감으로 다시 강세 흐름을 보이고 있다. 인공지능(AI) 열풍 이후 차세대 성장 산업으로 휴머노이드 로봇이 부상하면서 투자자 관심이 관련 종목으로 확산되는 모습이다. 현대차와 LG전자까지 관련 기대감에 이름이 오르며 시장의 주목도도 커졌다. 로봇주는 산업 성장 기대와 수급 흐름이 맞물리며 증시에서 다시 부각되고 있지만, 기사에서 확인된 내용은 기대감과 매수세에 따른 강세 흐름에 한정된다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Humanoid Robot Hopes Lift Robot Stocks as Hyundai Motor and LG Electronics Draw Attention",
+        "excerpt": "Korean robot-related shares are strengthening again as foreign buying and expectations for the humanoid robot industry grow, with robotics emerging after the AI boom.",
+        "body": "Robot-related stocks in the Korean market are gaining strength again, supported by foreign buying and expectations for the humanoid robot industry. After the artificial intelligence boom, humanoid robots are emerging as a next-generation growth industry, drawing investor attention to related shares. Hyundai Motor and LG Electronics have also been mentioned in connection with these expectations, increasing market focus. Robot stocks are being highlighted again as industry growth hopes and buying flows overlap, but the reported facts are limited to the stronger trend driven by expectations and foreign demand. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "ヒューマノイドロボット期待でロボット株が強含み、現代自・LG電子にも関心",
+        "excerpt": "韓国のロボット関連株は外国人投資家の買いとヒューマノイド産業への期待を背景に再び強含み、AI後の次世代成長分野として注目されている。",
+        "body": "韓国株式市場でロボット関連株が、外国人投資家の買いとヒューマノイドロボット産業への期待を背景に、再び強い流れを見せている。人工知能（AI）ブームの後、ヒューマノイドロボットが次世代の成長産業として浮上し、投資家の関心が関連銘柄に広がっている。現代自動車とLG電子も関連期待の中で名前が挙がり、市場の注目度が高まった。ロボット株は産業成長期待と需給の流れが重なって再び浮上しているが、記事で確認された内容は期待感と買いによる強含みに限られる。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "人形机器人预期带动机器人股走强，现代汽车与LG电子受关注",
+        "excerpt": "韩国机器人相关股票在外资买盘和人形机器人产业预期推动下再度走强，AI热潮之后，机器人领域正被视为下一代成长产业。",
+        "body": "韩国股市中，机器人相关股票在外资买盘和人形机器人产业预期推动下，再度呈现强势走势。人工智能（AI）热潮之后，人形机器人被视为下一代成长产业，投资者关注正扩散至相关个股。现代汽车和LG电子也因相关预期被市场提及，关注度进一步上升。机器人股因产业成长预期与资金流向相互叠加而重新受到关注，但报道中确认的信息仅限于预期和买盘推动下的强势表现。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Expectativas por robots humanoides impulsan acciones robóticas; Hyundai y LG ganan atención",
+        "excerpt": "Las acciones surcoreanas vinculadas a la robótica vuelven a fortalecerse por compras extranjeras y expectativas sobre humanoides, tras el auge de la IA.",
+        "body": "En el mercado bursátil surcoreano, las acciones relacionadas con la robótica vuelven a mostrar fortaleza gracias a las compras de inversores extranjeros y a las expectativas sobre la industria de robots humanoides. Tras el auge de la inteligencia artificial (IA), los humanoides surgen como una industria de crecimiento de próxima generación, llevando el interés inversor hacia valores relacionados. Hyundai Motor y LG Electronics también aparecen vinculadas a estas expectativas, elevando la atención del mercado. Las acciones robóticas vuelven a destacar por la combinación de expectativas industriales y flujos de compra, aunque la información confirmada se limita a esa tendencia alcista. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Expectativa com robôs humanoides impulsiona ações de robótica; Hyundai e LG em foco",
+        "excerpt": "Ações sul-coreanas ligadas à robótica voltam a subir com compras estrangeiras e expectativas sobre humanoides, enquanto o setor ganha força após a IA.",
+        "body": "No mercado acionário sul-coreano, ações relacionadas à robótica voltam a ganhar força, apoiadas por compras de investidores estrangeiros e expectativas em torno da indústria de robôs humanoides. Depois da onda de inteligência artificial (IA), os humanoides surgem como uma indústria de crescimento de próxima geração, ampliando o interesse dos investidores por papéis ligados ao tema. Hyundai Motor e LG Electronics também foram citadas nesse contexto, aumentando a atenção do mercado. As ações de robótica voltam a se destacar pela combinação de expectativa industrial e fluxo comprador, mas os fatos reportados se limitam a essa tendência de alta. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Humanoide Roboter beflügeln Robotik-Aktien; Hyundai und LG rücken in den Fokus",
+        "excerpt": "Südkoreanische Robotik-Aktien legen wieder zu, gestützt durch ausländische Käufe und Erwartungen an humanoide Roboter als Wachstumsfeld nach dem KI-Boom.",
+        "body": "Am südkoreanischen Aktienmarkt zeigen Robotik-Werte erneut Stärke, getragen von Käufen ausländischer Investoren und Erwartungen an die Industrie humanoider Roboter. Nach dem Boom um künstliche Intelligenz (KI) rücken humanoide Roboter als nächste Wachstumsbranche in den Vordergrund, wodurch sich das Anlegerinteresse auf entsprechende Aktien ausweitet. Auch Hyundai Motor und LG Electronics werden im Zusammenhang mit diesen Erwartungen genannt, was die Marktaufmerksamkeit erhöht. Robotik-Aktien gewinnen damit durch das Zusammenspiel von Wachstumshoffnung und Nachfrage erneut an Bedeutung; die berichteten Fakten beschränken sich jedoch auf diese stärkere Entwicklung. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Les espoirs autour des robots humanoïdes portent les valeurs robotiques, Hyundai et LG suivis",
+        "excerpt": "Les valeurs sud-coréennes liées à la robotique repartent à la hausse grâce aux achats étrangers et aux attentes autour des humanoïdes après l’essor de l’IA.",
+        "body": "Sur le marché boursier sud-coréen, les actions liées à la robotique retrouvent une tendance ferme, soutenues par les achats d’investisseurs étrangers et les attentes autour de l’industrie des robots humanoïdes. Après l’essor de l’intelligence artificielle (IA), les humanoïdes apparaissent comme un secteur de croissance de prochaine génération, attirant l’attention des investisseurs vers les titres concernés. Hyundai Motor et LG Electronics sont également mentionnés dans ce contexte, renforçant l’intérêt du marché. Les valeurs robotiques reviennent ainsi au premier plan avec la combinaison des espoirs industriels et des flux d’achat, mais les faits rapportés se limitent à cette tendance. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "توقعات الروبوتات البشرية تدعم أسهم الروبوتات مع اهتمام بهيونداي وLG إلكترونيكس",
+        "excerpt": "تعود أسهم الروبوتات في كوريا الجنوبية إلى القوة بدعم من مشتريات الأجانب وتوقعات صناعة الروبوتات البشرية، بعد بروزها كقطاع نمو تال للذكاء الاصطناعي.",
+        "body": "في سوق الأسهم الكورية الجنوبية، تظهر الأسهم المرتبطة بالروبوتات قوة مجددا بدعم من مشتريات المستثمرين الأجانب وتوقعات صناعة الروبوتات البشرية. وبعد موجة الذكاء الاصطناعي، تبرز الروبوتات البشرية كصناعة نمو من الجيل التالي، ما يوسع اهتمام المستثمرين بالأسهم ذات الصلة. كما ورد اسما هيونداي موتور وLG إلكترونيكس ضمن هذه التوقعات، ما زاد تركيز السوق عليهما. وتعود أسهم الروبوتات إلى الواجهة مع تلاقي توقعات نمو الصناعة وتدفقات الشراء، لكن المعلومات المؤكدة في الخبر تقتصر على اتجاه القوة المدفوع بالتوقعات والمشتريات. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "ह्यूमनॉइड रोबोट उम्मीदों से रोबोट शेयर मजबूत, Hyundai और LG पर भी नजर",
+        "excerpt": "दक्षिण कोरिया के रोबोट से जुड़े शेयर विदेशी खरीद और ह्यूमनॉइड उद्योग की उम्मीदों से फिर मजबूत हो रहे हैं, जबकि AI के बाद यह अगला विकास क्षेत्र बन रहा है।",
+        "body": "दक्षिण कोरिया के शेयर बाजार में रोबोट से जुड़े शेयर विदेशी निवेशकों की खरीद और ह्यूमनॉइड रोबोट उद्योग को लेकर उम्मीदों के सहारे फिर मजबूती दिखा रहे हैं। आर्टिफिशियल इंटेलिजेंस (AI) की लहर के बाद ह्यूमनॉइड रोबोट अगली पीढ़ी के विकास उद्योग के रूप में उभर रहे हैं, जिससे निवेशकों की रुचि संबंधित शेयरों की ओर बढ़ रही है। Hyundai Motor और LG Electronics के नाम भी इन उम्मीदों के संदर्भ में सामने आए हैं, जिससे बाजार का ध्यान और बढ़ा है। रोबोट शेयर उद्योग वृद्धि की उम्मीद और खरीद प्रवाह के मेल से फिर उभर रहे हैं, लेकिन रिपोर्ट में पुष्टि की गई बात मजबूत रुझान तक सीमित है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Ekspektasi Robot Humanoid Angkat Saham Robotik, Hyundai dan LG Ikut Jadi Sorotan",
+        "excerpt": "Saham robotik Korea Selatan kembali menguat berkat aksi beli asing dan ekspektasi industri robot humanoid, setelah sektor ini muncul sebagai pertumbuhan berikutnya usai AI.",
+        "body": "Di pasar saham Korea Selatan, saham terkait robotik kembali menunjukkan penguatan, didukung aksi beli investor asing dan ekspektasi terhadap industri robot humanoid. Setelah gelombang kecerdasan buatan (AI), robot humanoid muncul sebagai industri pertumbuhan generasi berikutnya, sehingga perhatian investor meluas ke saham terkait. Hyundai Motor dan LG Electronics juga disebut dalam kaitan dengan ekspektasi ini, meningkatkan sorotan pasar. Saham robotik kembali menonjol karena bertemunya harapan pertumbuhan industri dan arus beli, tetapi fakta yang dilaporkan terbatas pada tren penguatan akibat ekspektasi dan permintaan tersebut. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "880d8f4e5833",
+    "slug": "궁금했었죠-반도체-다음이-어디인지외국인-매수-몰리며-로봇주-급등-452541",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-05-13T08:24:17.862Z",
+    "updatedAt": "2026-05-13T08:24:17.862Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/business/12046281",
+    "canonicalUrl": "https://www.mk.co.kr/news/business/12046281",
+    "titleFingerprint": "6684cf7abb97386f8352be02d1d1ee1e974c1e6c",
+    "dedupKeys": [
+      "880d8f4e58333d366dc1361d78273d32b33c939d",
+      "6684cf7abb97386f8352be02d1d1ee1e974c1e6c",
+      "81f957dd2538a8ff59eadc5e609d883beddbf5bf"
+    ],
+    "imageUrl": "/images/articles/880d8f4e5833.jpg",
+    "i18n": {
+      "ko": {
+        "title": "로봇주 급등, 외국인 매수 집중에 LG전자·레인보우로보 주가 30%대 상승",
+        "excerpt": "이달 들어 외국인 자금이 국내 증시 로보틱스 분야로 강하게 유입되며 LG전자와 레인보우로보 등 로봇 관련주가 30% 넘게 급등했다.",
+        "body": "이달 들어 국내 증시에서 외국인 자금이 가장 강하게 유입된 분야는 로보틱스였다. 외국인 순매수 상위권에 로봇 관련 종목이 이름을 올리면서 LG전자와 레인보우로보를 중심으로 매수세가 집중됐다. 이에 따라 이달 들어 해당 종목들의 주가도 30% 넘게 급등했다. 반도체 이후 시장의 관심이 어디로 이동할지 주목되는 가운데, 로봇주는 외국인 수급이 뚜렷하게 몰린 업종으로 부각됐다. 다만 기사에 제시된 내용은 이달 외국인 매수 흐름과 주가 상승률에 한정된다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Robotics Stocks Jump as Foreign Buying Lifts LG Electronics and Rainbow Robo",
+        "excerpt": "This month, foreign funds flowed most strongly into robotics stocks in Korea, sending shares such as LG Electronics and Rainbow Robo up more than 30%.",
+        "body": "This month, robotics was the sector that drew the strongest foreign fund inflows in the Korean stock market. Robot-related names appeared near the top of foreign net-buying rankings, with buying concentrated in LG Electronics and Rainbow Robo. As a result, shares of those companies have risen more than 30% so far this month. As investors watch where market attention may move after semiconductors, robotics has emerged as a sector with clearly concentrated foreign demand. The reported facts are limited to this month’s foreign buying trend and share-price gains. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "ロボット株が急騰、外国人買いでLG電子・レインボーロボが30％超上昇",
+        "excerpt": "今月、韓国株式市場で外国人資金が最も強く流入した分野はロボティクスで、LG電子やレインボーロボなどが30％超上昇した。",
+        "body": "今月に入り、韓国株式市場で外国人資金が最も強く流入した分野はロボティクスだった。外国人の純買い上位にロボット関連銘柄が入り、LG電子とレインボーロボを中心に買いが集中した。これにより、今月に入って該当銘柄の株価は30％を超えて急騰した。半導体の次に市場の関心がどこへ向かうのか注目される中、ロボット株は外国人の需給が明確に集まった業種として浮上した。ただし、記事で示された内容は今月の外国人買いの流れと株価上昇率に限られる。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "机器人股大涨，外资买入推动LG电子、Rainbow Robo涨逾30%",
+        "excerpt": "本月外资在韩国股市最强流入机器人领域，LG电子、Rainbow Robo等机器人相关股票涨幅超过30%。",
+        "body": "本月以来，韩国股市中外资流入最强的领域无疑是机器人。机器人相关股票进入外资净买入排名前列，买盘集中在LG电子和Rainbow Robo等个股。受此影响，这些股票本月以来的股价涨幅已超过30%。在市场关注半导体之后资金将流向何处之际，机器人股因外资供需明显集中而受到关注。不过，报道所列事实仅限于本月外资买入趋势和股价涨幅。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Acciones de robótica suben con compras extranjeras en LG Electronics y Rainbow Robo",
+        "excerpt": "Este mes, el capital extranjero entró con más fuerza en robótica dentro de la bolsa coreana, impulsando más de 30% a LG Electronics y Rainbow Robo.",
+        "body": "En lo que va del mes, la robótica fue el sector que recibió la entrada más fuerte de capital extranjero en el mercado bursátil coreano. Varias acciones relacionadas con robots aparecieron entre las principales compras netas de inversores extranjeros, con operaciones concentradas en LG Electronics y Rainbow Robo. Como resultado, esas acciones han subido más de 30% este mes. Mientras el mercado observa hacia dónde se desplazará la atención después de los semiconductores, la robótica se destacó como un sector con demanda extranjera claramente concentrada. Los datos citados se limitan al flujo de compras extranjeras y al alza bursátil de este mes. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Ações de robótica disparam com compra estrangeira em LG Electronics e Rainbow Robo",
+        "excerpt": "Neste mês, o capital estrangeiro entrou com mais força no setor de robótica da bolsa coreana, levando LG Electronics e Rainbow Robo a altas acima de 30%.",
+        "body": "Neste mês, a robótica foi o setor que recebeu a entrada mais forte de recursos estrangeiros no mercado acionário coreano. Papéis ligados a robôs apareceram entre os principais nomes em compras líquidas de estrangeiros, com a demanda concentrada em LG Electronics e Rainbow Robo. Como resultado, essas ações subiram mais de 30% no mês. Enquanto o mercado observa para onde a atenção pode migrar após os semicondutores, as ações de robótica ganharam destaque como um setor com fluxo estrangeiro claramente concentrado. As informações citadas se limitam ao movimento de compra estrangeira e à valorização das ações neste mês. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Robotik-Aktien steigen stark: Ausländer kaufen LG Electronics und Rainbow Robo",
+        "excerpt": "Im laufenden Monat floss ausländisches Kapital in Korea besonders stark in Robotikwerte, wodurch LG Electronics und Rainbow Robo um mehr als 30% zulegten.",
+        "body": "Seit Beginn dieses Monats war Robotik der Bereich, in den im koreanischen Aktienmarkt ausländisches Kapital am stärksten floss. Robotikbezogene Titel erschienen weit oben in den Netto-Käufen ausländischer Investoren, wobei sich die Nachfrage vor allem auf LG Electronics und Rainbow Robo konzentrierte. Dadurch stiegen die Kurse dieser Aktien im Monatsverlauf um mehr als 30%. Während der Markt beobachtet, wohin das Interesse nach Halbleitern wandert, rückten Robotikwerte als Branche mit deutlich gebündelter ausländischer Nachfrage in den Fokus. Die genannten Fakten beschränken sich auf die ausländischen Käufe und Kursanstiege dieses Monats. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Les valeurs robotiques bondissent avec les achats étrangers sur LG Electronics et Rainbow Robo",
+        "excerpt": "Ce mois-ci, les capitaux étrangers se sont dirigés le plus fortement vers la robotique en Corée, faisant grimper LG Electronics et Rainbow Robo de plus de 30%.",
+        "body": "Depuis le début du mois, la robotique est le secteur qui a attiré les flux étrangers les plus importants sur le marché boursier coréen. Des titres liés aux robots figurent parmi les principales positions achetées nettes par les investisseurs étrangers, avec des achats concentrés sur LG Electronics et Rainbow Robo. En conséquence, ces actions ont bondi de plus de 30% ce mois-ci. Alors que le marché surveille la destination de l’intérêt après les semi-conducteurs, les valeurs robotiques se distinguent par une demande étrangère nettement concentrée. Les faits rapportés se limitent aux achats étrangers et aux hausses de cours observés ce mois-ci. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "أسهم الروبوتات تقفز مع شراء أجنبي يتركز في إل جي إلكترونيكس ورينبو روبو",
+        "excerpt": "منذ بداية هذا الشهر، تدفقت الأموال الأجنبية بقوة نحو قطاع الروبوتات في سوق كوريا، لترتفع أسهم مثل إل جي إلكترونيكس ورينبو روبو بأكثر من 30%.",
+        "body": "منذ بداية هذا الشهر، كان قطاع الروبوتات هو المجال الذي شهد أقوى تدفق للأموال الأجنبية في سوق الأسهم الكورية. وظهرت أسهم مرتبطة بالروبوتات ضمن المراتب العليا في صافي مشتريات الأجانب، مع تركز الشراء في إل جي إلكترونيكس ورينبو روبو. ونتيجة لذلك، ارتفعت أسعار هذه الأسهم بأكثر من 30% خلال الشهر. وبينما يراقب السوق الوجهة التالية للاهتمام بعد أشباه الموصلات، برزت أسهم الروبوتات كقطاع تركزت فيه تدفقات الأجانب بوضوح. تقتصر المعلومات الواردة على اتجاه شراء الأجانب ونسب ارتفاع الأسهم هذا الشهر. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "रोबोटिक्स शेयरों में तेजी, LG Electronics और Rainbow Robo में विदेशी खरीद से 30% से अधिक उछाल",
+        "excerpt": "इस महीने कोरियाई शेयर बाजार में विदेशी पूंजी सबसे अधिक रोबोटिक्स क्षेत्र में आई, जिससे LG Electronics और Rainbow Robo जैसे शेयर 30% से अधिक चढ़े।",
+        "body": "इस महीने कोरियाई शेयर बाजार में विदेशी पूंजी का सबसे मजबूत प्रवाह रोबोटिक्स क्षेत्र में देखा गया। विदेशी निवेशकों की शुद्ध खरीदारी की शीर्ष सूची में रोबोट से जुड़े शेयर शामिल हुए, जिनमें LG Electronics और Rainbow Robo पर खरीदारी केंद्रित रही। इसके परिणामस्वरूप इस महीने इन शेयरों की कीमतें 30% से अधिक उछल गईं। सेमीकंडक्टर के बाद बाजार का ध्यान किस क्षेत्र की ओर जाएगा, इस पर नजर रहते हुए रोबोटिक्स शेयर विदेशी मांग के स्पष्ट संकेंद्रण वाले क्षेत्र के रूप में उभरे। रिपोर्ट में दिए गए तथ्य इस महीने की विदेशी खरीदारी और शेयर मूल्य वृद्धि तक सीमित हैं। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Saham Robotik Melonjak, Asing Borong LG Electronics dan Rainbow Robo Hingga Naik 30%",
+        "excerpt": "Bulan ini, dana asing paling kuat masuk ke sektor robotik di bursa Korea, mendorong saham LG Electronics dan Rainbow Robo naik lebih dari 30%.",
+        "body": "Bulan ini, robotik menjadi sektor yang paling kuat menerima aliran dana asing di pasar saham Korea. Saham-saham terkait robot masuk jajaran atas pembelian bersih investor asing, dengan minat beli terkonsentrasi pada LG Electronics dan Rainbow Robo. Akibatnya, harga saham terkait telah melonjak lebih dari 30% sejak awal bulan. Saat pasar mencermati ke mana perhatian bergerak setelah semikonduktor, saham robotik muncul sebagai sektor dengan arus asing yang jelas terkonsentrasi. Fakta yang disampaikan terbatas pada tren pembelian asing dan kenaikan harga saham bulan ini. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
     "id": "51b6633ae042",
     "slug": "로봇-테마로-후끈했던-하루현대차는-차익실현-네오오토는-새로-담아-주식-초고수는-지금-722839",
     "channelId": "ETF",
@@ -4271,231 +4496,6 @@
         "title": "Replay VOD Money Show Dibuka Setelah Seoul Money Show 2026 Berakhir",
         "excerpt": "Seoul Money Show 2026, yang disebut sebagai seminar show pengelolaan kekayaan terbesar di Asia, berakhir pada 9 Mei 2026 di COEX, Gangnam, Seoul, dan replay VOD kini dibuka.",
         "body": "“Seoul Money Show 2026”, yang disebut sebagai seminar show pengelolaan kekayaan terbesar di Asia, berakhir pada 9 Mei 2026 di COEX, Gangnam, Seoul. Meski acara telah selesai, pelajaran dan kesan dari Money Show tetap berlanjut melalui replay VOD Money Show yang kini dibuka. Kabar ini berarti pembaca yang tidak hadir langsung atau ingin meninjau kembali konten utama masih dapat mengakses materi terkait setelah acara berakhir. Teks asli tidak menjelaskan daftar ceramah tertentu maupun cara menggunakan VOD. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "759fa055598e",
-    "slug": "국민배당금-논란-정면반박안도걸-의원-ai반도체-초과세수-활용이-사회주의-억지-공세-719455",
-    "channelId": "ETF",
-    "category": "etf",
-    "publishedAt": "2026-05-12T16:09:49.084Z",
-    "updatedAt": "2026-05-12T16:09:49.084Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/stock/12044850",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12044850",
-    "titleFingerprint": "afda56bc3aae59bd50feab03a5f968c715fb129a",
-    "dedupKeys": [
-      "759fa055598e3ad163df21371a79abf3f8cf2101",
-      "afda56bc3aae59bd50feab03a5f968c715fb129a",
-      "ef0bf59dba04b1066aab1c48b24bd170d43ab5fe"
-    ],
-    "imageUrl": "/images/articles/759fa055598e.png",
-    "i18n": {
-      "ko": {
-        "title": "국민배당금 논란 반박한 안도걸 “AI·반도체 초과세수 활용은 미래전략”",
-        "excerpt": "안도걸 의원은 김용범 청와대 정책실장의 ‘국민배당금’ 발언을 둘러싼 사회주의 공세에 대해 기업 강제 배당이 아니라 AI·반도체 초과세수 활용 논의라고 반박했다.",
-        "body": "안도걸 의원은 김용범 청와대 정책실장의 이른바 ‘국민배당금’ 발언을 둘러싼 논란에 대해 AI·반도체 분야 초과세수 활용을 사회주의로 몰아가는 것은 억지 공세라고 반박했다. 안 의원은 해당 논의가 기업에 배당을 강제하자는 뜻이 아니라, 반도체 산업의 초과과실과 관련 세수를 국가 미래전략에 어떻게 활용할지 공론화하자는 취지라고 설명했다. 그는 노르웨이 국부펀드처럼 국가 자산화 관점에서 접근할 필요가 있다며, 소모적 색깔론보다 미래전략 수립이 우선이라고 강조했다. 이번 논쟁은 반도체 초과과실의 사회적 활용 방식과 재정 운용 방향을 둘러싼 정치권 논의로 이어질 전망이다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Ahn Do-geol Rejects ‘National Dividend’ Criticism, Calls Chip Tax Revenue a Future Strategy",
-        "excerpt": "Rep. Ahn Do-geol rejected attacks over Kim Yong-beom’s “national dividend” remarks, saying the issue concerns using excess AI and semiconductor tax revenue, not forced corporate payouts.",
-        "body": "Rep. Ahn Do-geol pushed back against controversy over presidential policy chief Kim Yong-beom’s so-called “national dividend” remarks, saying it is an unfair attack to label the use of excess tax revenue from AI and semiconductors as socialism. Ahn said the discussion is not about forcing companies to pay dividends, but about opening public debate on how excess gains from the semiconductor industry and related tax revenue should be used for national future strategy. He argued that Korea should approach the issue from the perspective of building national assets, similar to Norway’s sovereign wealth fund, and said future planning should take priority over unproductive ideological attacks. The debate is expected to continue in politics over how semiconductor excess gains and fiscal resources should be used. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "安道傑議員が「国民配当金」批判に反論、AI・半導体の超過税収活用を主張",
-        "excerpt": "安道傑議員は金容範大統領室政策室長の「国民配当金」発言をめぐる社会主義批判に対し、企業への強制配当ではなくAI・半導体の超過税収活用論だと反論した。",
-        "body": "安道傑議員は、金容範大統領室政策室長のいわゆる「国民配当金」発言をめぐる論争について、AI・半導体分野の超過税収活用を社会主義と決めつけるのは無理な攻撃だと反論した。安議員は、この議論は企業に配当を強制するものではなく、半導体産業の超過果実と関連税収を国家の未来戦略にどう活用するかを公論化する趣旨だと説明した。また、ノルウェーの政府系ファンドのように国家資産化の観点から接近する必要があるとし、消耗的なイデオロギー論争より未来戦略の策定が優先だと強調した。今後、半導体の超過果実の社会的活用と財政運営をめぐる政治論議が続く見通しだ。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "安道杰反驳“国民分红”争议：AI与半导体超额税收应用于未来战略",
-        "excerpt": "安道杰议员就金容范总统室政策室长“国民分红”言论引发的社会主义批评回应称，这并非强制企业分红，而是讨论AI和半导体超额税收的运用。",
-        "body": "安道杰议员就金容范总统室政策室长所谓“国民分红”发言引发的争议表示，将AI和半导体领域超额税收的运用称为社会主义，是牵强的政治攻势。安议员说明，该讨论并不是要求企业强制分红，而是希望围绕半导体产业超额收益及相关税收如何用于国家未来战略展开公共讨论。他表示，有必要像挪威主权财富基金一样，从国家资产化的角度进行思考，并强调与其进行消耗性的意识形态争论，不如优先制定未来战略。围绕半导体超额收益的社会运用方式和财政运营方向，相关政治讨论预计将继续。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Ahn Do-geol rechaza críticas al ‘dividendo nacional’ y defiende usar ingresos extra de chips",
-        "excerpt": "El diputado Ahn Do-geol respondió a las críticas por el “dividendo nacional” de Kim Yong-beom y dijo que no se trata de obligar dividendos, sino de debatir el uso de ingresos fiscales extra de IA y semiconductores.",
-        "body": "El diputado Ahn Do-geol rechazó la polémica en torno a las declaraciones del jefe de política presidencial Kim Yong-beom sobre el llamado “dividendo nacional”, al afirmar que calificar como socialismo el uso de ingresos fiscales extraordinarios de la IA y los semiconductores es un ataque forzado. Ahn explicó que la discusión no busca obligar a las empresas a pagar dividendos, sino abrir un debate público sobre cómo usar las ganancias extraordinarias de la industria de semiconductores y los ingresos fiscales relacionados para la estrategia futura del país. Señaló que Corea debe abordar el tema desde la perspectiva de convertir esos recursos en activos nacionales, como el fondo soberano de Noruega, y priorizar la estrategia de futuro sobre disputas ideológicas estériles. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Ahn Do-geol rebate críticas ao ‘dividendo nacional’ e defende usar receita extra de chips",
-        "excerpt": "O deputado Ahn Do-geol contestou críticas às falas de Kim Yong-beom sobre “dividendo nacional”, afirmando que o tema é o uso de receita extra de IA e semicondutores, não dividendos obrigatórios.",
-        "body": "O deputado Ahn Do-geol reagiu à controvérsia sobre a chamada proposta de “dividendo nacional” mencionada por Kim Yong-beom, chefe de política da Presidência, dizendo que tratar o uso de receitas fiscais excedentes de IA e semicondutores como socialismo é uma ofensiva sem base. Ahn afirmou que a discussão não significa obrigar empresas a distribuir dividendos, mas abrir um debate público sobre como usar os ganhos extraordinários da indústria de semicondutores e a arrecadação relacionada em uma estratégia nacional de futuro. Ele defendeu uma abordagem de formação de ativos nacionais, como o fundo soberano da Noruega, e disse que planejar o futuro deve vir antes de disputas ideológicas improdutivas. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Ahn Do-geol weist Kritik an ‘Volksdividende’ zurück und verteidigt Nutzung von Chip-Steuern",
-        "excerpt": "Abgeordneter Ahn Do-geol wies Kritik an Kim Yong-beoms Äußerungen zur „Volksdividende“ zurück: Es gehe nicht um erzwungene Unternehmensdividenden, sondern um überschüssige Steuereinnahmen aus KI und Halbleitern.",
-        "body": "Der Abgeordnete Ahn Do-geol hat die Kontroverse um die sogenannte „Volksdividende“ von Kim Yong-beom, dem politischen Chefsekretär des Präsidialamts, zurückgewiesen. Es sei ein überzogener Angriff, die Nutzung überschüssiger Steuereinnahmen aus KI und Halbleitern als Sozialismus zu bezeichnen. Ahn erklärte, die Debatte ziele nicht darauf ab, Unternehmen zu Dividenden zu zwingen, sondern darauf, öffentlich zu diskutieren, wie Sondergewinne der Halbleiterindustrie und damit verbundene Steuereinnahmen für die Zukunftsstrategie des Landes genutzt werden könnten. Er verwies auf den norwegischen Staatsfonds als Beispiel für nationale Vermögensbildung und forderte, Zukunftsplanung über ideologische Auseinandersetzungen zu stellen. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Ahn Do-geol rejette la polémique sur le ‘dividende national’ et défend les recettes des puces",
-        "excerpt": "Le député Ahn Do-geol a répondu aux critiques visant les propos de Kim Yong-beom sur le “dividende national”, affirmant qu’il s’agit d’utiliser les recettes excédentaires de l’IA et des semi-conducteurs, pas d’imposer des dividendes.",
-        "body": "Le député Ahn Do-geol a rejeté la controverse autour des propos de Kim Yong-beom, chef de la politique présidentielle, sur le soi-disant “dividende national”, estimant qu’assimiler l’utilisation des recettes fiscales excédentaires de l’IA et des semi-conducteurs à du socialisme relève d’une attaque forcée. Selon lui, la discussion ne vise pas à obliger les entreprises à verser des dividendes, mais à ouvrir un débat public sur l’usage des gains exceptionnels de l’industrie des semi-conducteurs et des recettes fiscales liées pour la stratégie nationale de long terme. Il a cité l’exemple du fonds souverain norvégien et appelé à privilégier la stratégie d’avenir plutôt que les polémiques idéologiques stériles. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "آن دو غول يرد على جدل «العائد الوطني»: ضرائب الذكاء الاصطناعي والرقائق استراتيجية مستقبلية",
-        "excerpt": "رد النائب آن دو غول على الانتقادات المرتبطة بتصريحات كيم يونغ بوم حول «العائد الوطني»، مؤكدا أن الأمر لا يتعلق بفرض توزيعات على الشركات بل بمناقشة استخدام فائض ضرائب الذكاء الاصطناعي وأشباه الموصلات.",
-        "body": "رد النائب آن دو غول على الجدل الذي أثارته تصريحات كيم يونغ بوم، رئيس السياسات في المكتب الرئاسي، بشأن ما يسمى «العائد الوطني»، قائلا إن وصف استخدام فائض الإيرادات الضريبية من الذكاء الاصطناعي وأشباه الموصلات بأنه اشتراكية هو هجوم متكلف. وأوضح أن النقاش لا يعني إجبار الشركات على توزيع أرباح، بل طرح نقاش عام حول كيفية استخدام المكاسب الزائدة لصناعة أشباه الموصلات والإيرادات الضريبية المرتبطة بها في استراتيجية مستقبلية وطنية. وقال إن كوريا بحاجة إلى مقاربة تقوم على تحويلها إلى أصول وطنية، على غرار صندوق الثروة السيادي النرويجي، مع تفضيل التخطيط للمستقبل على الجدل الأيديولوجي العقيم. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "आन दो-गोल ने ‘राष्ट्रीय लाभांश’ विवाद पर जवाब दिया, चिप कर राजस्व को भविष्य रणनीति बताया",
-        "excerpt": "सांसद आन दो-गोल ने किम योंग-बोम के ‘राष्ट्रीय लाभांश’ बयान पर समाजवाद संबंधी आलोचना को खारिज करते हुए कहा कि यह कंपनियों पर जबरन लाभांश नहीं, बल्कि AI और सेमीकंडक्टर के अतिरिक्त कर राजस्व के उपयोग की चर्चा है।",
-        "body": "सांसद आन दो-गोल ने राष्ट्रपति कार्यालय के नीति प्रमुख किम योंग-बोम के तथाकथित ‘राष्ट्रीय लाभांश’ बयान पर उठे विवाद का जवाब देते हुए कहा कि AI और सेमीकंडक्टर क्षेत्र से अतिरिक्त कर राजस्व के उपयोग को समाजवाद कहना जबरन किया गया हमला है। आन ने कहा कि यह चर्चा कंपनियों से जबरन लाभांश दिलाने की नहीं है, बल्कि सेमीकंडक्टर उद्योग के अतिरिक्त लाभ और उससे जुड़े कर राजस्व को राष्ट्रीय भविष्य रणनीति में कैसे इस्तेमाल किया जाए, इस पर सार्वजनिक बहस की है। उन्होंने नॉर्वे के संप्रभु संपत्ति कोष की तरह राष्ट्रीय परिसंपत्ति निर्माण के दृष्टिकोण से सोचने की जरूरत बताई और कहा कि व्यर्थ वैचारिक विवाद के बजाय भविष्य रणनीति बनाना प्राथमिकता होनी चाहिए। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Ahn Do-geol Bantah Polemik ‘Dividen Nasional’, Dorong Pemanfaatan Pajak Ekstra Chip",
-        "excerpt": "Anggota parlemen Ahn Do-geol menanggapi kritik atas pernyataan Kim Yong-beom soal “dividen nasional”, menegaskan bahwa isu ini bukan pemaksaan dividen perusahaan, melainkan pembahasan penggunaan pajak ekstra AI dan semikonduktor.",
-        "body": "Anggota parlemen Ahn Do-geol membantah kontroversi atas pernyataan Kepala Kebijakan Kepresidenan Kim Yong-beom tentang apa yang disebut “dividen nasional”, dengan mengatakan bahwa menyebut pemanfaatan kelebihan penerimaan pajak dari AI dan semikonduktor sebagai sosialisme adalah serangan yang dipaksakan. Ahn menjelaskan bahwa pembahasan itu bukan untuk memaksa perusahaan membayar dividen, melainkan membuka diskusi publik tentang bagaimana keuntungan berlebih industri semikonduktor dan penerimaan pajak terkait dapat digunakan untuk strategi masa depan negara. Ia menilai pendekatan pembentukan aset nasional seperti dana kekayaan negara Norwegia perlu dipertimbangkan, sementara strategi masa depan harus didahulukan daripada perdebatan ideologis yang tidak produktif. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "56a20f2f8b80",
-    "slug": "ma-매물장터-연매출-100억원-조선-부품업체-매물로-352209",
-    "channelId": "ETF",
-    "category": "etf",
-    "publishedAt": "2026-05-12T16:07:50.630Z",
-    "updatedAt": "2026-05-12T16:07:50.630Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/stock/12044934",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12044934",
-    "titleFingerprint": "c050288db164a633c8ffd15227576dad61bcd710",
-    "dedupKeys": [
-      "56a20f2f8b8017709d2d2a87f5279bed869e1bbf",
-      "c050288db164a633c8ffd15227576dad61bcd710",
-      "b75958539277ad0d11194b5d7d9845375b69b1c8"
-    ],
-    "imageUrl": "/images/articles/56a20f2f8b80.jpg",
-    "i18n": {
-      "ko": {
-        "title": "조선 안전용품 공급사 매물 등장, 연매출 100억원 M&A 관심",
-        "excerpt": "12일 한국M&A거래소에 따르면 조선 분야 공급망에서 안전용품을 제공하는 연매출 100억원 규모 A사가 이번주 M&A 매물장터에 등록돼 인수자를 찾고 있다.",
-        "body": "12일 한국M&A거래소에 따르면 조선 분야 관련 공급망에서 안전용품을 제공하는 A사가 이번주 M&A 매물장터에 매물로 등록됐다. A사는 연매출 100억원 규모의 조선 부품·안전용품 공급 기업으로 소개됐다. 이번 매물은 조선업 공급망 내 안전용품 사업을 대상으로 한 인수 기회라는 점에서 관련 업계의 검토 대상이 될 수 있다. 다만 원문에 공개된 정보는 매출 규모와 사업 분야, 매물 등록 사실에 한정된다. 자세한 인수 조건과 재무 세부사항은 공개되지 않았다. 출처는 mk.co.kr이다."
-      },
-      "en": {
-        "title": "Shipbuilding Safety Supplier for Sale With 10 Billion Won Revenue",
-        "excerpt": "According to the Korea M&A Exchange on May 12, Company A, a shipbuilding supply-chain safety goods provider with annual revenue of 10 billion won, has been listed for sale this week.",
-        "body": "According to the Korea M&A Exchange on May 12, Company A, which supplies safety goods within the shipbuilding-related supply chain, was listed this week on the M&A marketplace. The company was introduced as a shipbuilding parts and safety goods supplier with annual revenue of 10 billion won. The listing may be reviewed by industry players as an acquisition opportunity involving safety products in the shipbuilding supply chain. However, the original report discloses only the revenue scale, business field and fact of listing. Detailed acquisition terms and financial information were not released. Source: mk.co.kr."
-      },
-      "ja": {
-        "title": "造船安全用品サプライヤーが売却対象に、年商100億ウォン",
-        "excerpt": "韓国M&A取引所が12日に明らかにしたところによると、造船分野の供給網で安全用品を提供する年商100億ウォン規模のA社が今週のM&A売り物市場に登録された。",
-        "body": "韓国M&A取引所が12日に明らかにしたところによると、造船分野関連の供給網で安全用品を提供するA社が、今週のM&A売り物市場に登録された。A社は年商100億ウォン規模の造船部品・安全用品供給企業として紹介された。今回の案件は、造船業の供給網内にある安全用品事業を対象とする買収機会として、関連業界の検討対象になり得る。ただし、原文で公開された情報は売上規模、事業分野、売却登録の事実に限られる。買収条件や財務の詳細は公開されていない。出典はmk.co.kr。"
-      },
-      "zh": {
-        "title": "造船安全用品供应商挂牌出售，年营收100亿韩元",
-        "excerpt": "据韩国M&A交易所12日消息，在造船相关供应链中提供安全用品的A公司本周被登记为M&A市场出售标的，年营收规模为100亿韩元。",
-        "body": "据韩国M&A交易所12日消息，在造船领域相关供应链中提供安全用品的A公司，本周被登记为M&A市场出售标的。A公司被介绍为一家造船零部件及安全用品供应企业，年营收规模为100亿韩元。此次挂牌可被视为围绕造船业供应链内安全用品业务的收购机会，可能成为相关行业关注的对象。不过，原文公开的信息仅限于营收规模、业务领域以及挂牌事实。具体收购条件和财务细节尚未公开。来源：mk.co.kr。"
-      },
-      "es": {
-        "title": "Proveedor de seguridad naval sale a la venta con 10.000 millones de wones",
-        "excerpt": "Según Korea M&A Exchange el 12 de mayo, la empresa A, proveedora de artículos de seguridad en la cadena de suministro naval y con ingresos anuales de 10.000 millones de wones, fue listada para venta esta semana.",
-        "body": "Según Korea M&A Exchange el 12 de mayo, la empresa A, que suministra artículos de seguridad dentro de la cadena de suministro relacionada con la construcción naval, fue registrada esta semana en el mercado de M&A. La firma fue presentada como proveedora de componentes navales y artículos de seguridad, con ingresos anuales de 10.000 millones de wones. La operación puede ser revisada por actores del sector como una oportunidad de adquisición vinculada al negocio de seguridad en la cadena naval. Sin embargo, el reporte original solo revela la escala de ingresos, el área de negocio y el hecho del registro. No se divulgaron condiciones de compra ni detalles financieros. Fuente: mk.co.kr."
-      },
-      "pt": {
-        "title": "Fornecedor de segurança naval à venda com receita de 10 bilhões de wones",
-        "excerpt": "Segundo a Korea M&A Exchange em 12 de maio, a empresa A, fornecedora de itens de segurança na cadeia naval e com receita anual de 10 bilhões de wones, entrou no mercado de M&A esta semana.",
-        "body": "Segundo a Korea M&A Exchange em 12 de maio, a empresa A, que fornece itens de segurança na cadeia de suprimentos ligada à construção naval, foi registrada esta semana no mercado de M&A. A companhia foi apresentada como fornecedora de peças navais e produtos de segurança, com receita anual de 10 bilhões de wones. A listagem pode ser avaliada por participantes do setor como uma oportunidade de aquisição no negócio de segurança dentro da cadeia naval. No entanto, o texto original divulga apenas a escala de receita, o campo de atuação e o registro da venda. Termos de aquisição e detalhes financeiros não foram divulgados. Fonte: mk.co.kr."
-      },
-      "de": {
-        "title": "Schiffbau-Sicherheitszulieferer mit 10 Mrd. Won Umsatz steht zum Verkauf",
-        "excerpt": "Laut Korea M&A Exchange wurde am 12. Mai Unternehmen A, ein Anbieter von Sicherheitsartikeln in der Schiffbau-Lieferkette mit 10 Mrd. Won Jahresumsatz, diese Woche zum Verkauf gelistet.",
-        "body": "Laut Korea M&A Exchange wurde am 12. Mai Unternehmen A, das Sicherheitsartikel in der schiffbaubezogenen Lieferkette anbietet, diese Woche auf dem M&A-Marktplatz gelistet. Das Unternehmen wurde als Zulieferer von Schiffbauteilen und Sicherheitsprodukten mit einem Jahresumsatz von 10 Mrd. Won vorgestellt. Die Transaktion kann für Branchenakteure als Übernahmemöglichkeit im Sicherheitsgeschäft der Schiffbau-Lieferkette relevant sein. Die im Originalbericht veröffentlichten Informationen beschränken sich jedoch auf Umsatzgröße, Geschäftsfeld und die Tatsache der Listung. Kaufbedingungen und detaillierte Finanzdaten wurden nicht genannt. Quelle: mk.co.kr."
-      },
-      "fr": {
-        "title": "Un fournisseur de sécurité navale en vente avec 10 milliards de wons de revenus",
-        "excerpt": "Selon Korea M&A Exchange le 12 mai, la société A, fournisseur d’articles de sécurité dans la chaîne navale avec 10 milliards de wons de revenus annuels, a été mise en vente cette semaine.",
-        "body": "Selon Korea M&A Exchange le 12 mai, la société A, qui fournit des articles de sécurité dans la chaîne d’approvisionnement liée à la construction navale, a été inscrite cette semaine sur le marché des M&A. L’entreprise est présentée comme un fournisseur de pièces navales et de produits de sécurité, avec un chiffre d’affaires annuel de 10 milliards de wons. Cette mise en vente peut être examinée par les acteurs du secteur comme une opportunité d’acquisition dans les produits de sécurité de la chaîne navale. Toutefois, le rapport original ne précise que le niveau de revenus, le domaine d’activité et l’inscription à la vente. Les conditions d’acquisition et les détails financiers ne sont pas publiés. Source : mk.co.kr."
-      },
-      "ar": {
-        "title": "طرح مورّد سلامة لقطاع بناء السفن للبيع بإيرادات 10 مليارات وون",
-        "excerpt": "وفقاً لبورصة كوريا للاندماج والاستحواذ في 12 مايو، أُدرجت الشركة A، وهي مورّد لمستلزمات السلامة في سلسلة إمداد بناء السفن بإيرادات سنوية 10 مليارات وون، للبيع هذا الأسبوع.",
-        "body": "وفقاً لبورصة كوريا للاندماج والاستحواذ في 12 مايو، أُدرجت الشركة A، التي توفر مستلزمات السلامة ضمن سلسلة الإمداد المرتبطة بقطاع بناء السفن، في سوق صفقات الاندماج والاستحواذ هذا الأسبوع. وقُدمت الشركة كمورّد لقطع ومستلزمات سلامة لقطاع بناء السفن، بإيرادات سنوية تبلغ 10 مليارات وون. وقد تمثل هذه الصفقة فرصة استحواذ على نشاط مستلزمات السلامة داخل سلسلة إمداد صناعة السفن، ما يجعلها موضع مراجعة من الجهات ذات الصلة. لكن المعلومات المنشورة في النص الأصلي تقتصر على حجم الإيرادات ومجال العمل وحقيقة الإدراج للبيع. ولم تُكشف شروط الاستحواذ أو التفاصيل المالية. المصدر: mk.co.kr."
-      },
-      "hi": {
-        "title": "जहाज निर्माण सुरक्षा आपूर्तिकर्ता बिक्री पर, सालाना राजस्व 10 अरब वॉन",
-        "excerpt": "कोरिया M&A एक्सचेंज के अनुसार 12 मई को, जहाज निर्माण आपूर्ति श्रृंखला में सुरक्षा सामग्री देने वाली कंपनी A इस सप्ताह M&A बाजार में बिक्री के लिए सूचीबद्ध हुई, जिसका वार्षिक राजस्व 10 अरब वॉन है।",
-        "body": "कोरिया M&A एक्सचेंज के अनुसार 12 मई को, जहाज निर्माण क्षेत्र से जुड़ी आपूर्ति श्रृंखला में सुरक्षा सामग्री उपलब्ध कराने वाली कंपनी A इस सप्ताह M&A बाजार में बिक्री के लिए सूचीबद्ध हुई। कंपनी A को जहाज निर्माण पुर्जों और सुरक्षा सामग्री की आपूर्तिकर्ता कंपनी के रूप में बताया गया है, जिसका वार्षिक राजस्व 10 अरब वॉन है। यह सूचीकरण जहाज निर्माण उद्योग की आपूर्ति श्रृंखला में सुरक्षा उत्पाद कारोबार से जुड़ा अधिग्रहण अवसर हो सकता है और संबंधित उद्योग की समीक्षा का विषय बन सकता है। हालांकि मूल रिपोर्ट में केवल राजस्व का आकार, कारोबार क्षेत्र और बिक्री सूचीकरण की जानकारी दी गई है। अधिग्रहण शर्तें और विस्तृत वित्तीय जानकारी सार्वजनिक नहीं की गई। स्रोत: mk.co.kr."
-      },
-      "id": {
-        "title": "Pemasok Keselamatan Galangan Dijual, Pendapatan 10 Miliar Won",
-        "excerpt": "Menurut Korea M&A Exchange pada 12 Mei, Perusahaan A, pemasok produk keselamatan dalam rantai pasok galangan kapal dengan pendapatan tahunan 10 miliar won, masuk bursa M&A pekan ini.",
-        "body": "Menurut Korea M&A Exchange pada 12 Mei, Perusahaan A, yang memasok produk keselamatan dalam rantai pasok terkait bidang galangan kapal, terdaftar pekan ini di pasar M&A. Perusahaan tersebut diperkenalkan sebagai pemasok komponen galangan kapal dan produk keselamatan dengan pendapatan tahunan 10 miliar won. Listing ini dapat menjadi objek kajian pelaku industri sebagai peluang akuisisi pada bisnis produk keselamatan dalam rantai pasok galangan kapal. Namun, informasi yang dibuka dalam laporan asli hanya mencakup skala pendapatan, bidang usaha, dan fakta pendaftaran sebagai aset yang dijual. Syarat akuisisi dan rincian keuangan tidak dipublikasikan. Sumber: mk.co.kr."
-      }
-    }
-  },
-  {
-    "id": "16efecd33818",
-    "slug": "제강-분진-재활용-기업-황조-jc파트너스-5년만에-매각-추진-336964",
-    "channelId": "ETF",
-    "category": "etf",
-    "publishedAt": "2026-05-12T15:14:24.826Z",
-    "updatedAt": "2026-05-12T15:14:24.826Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/stock/12044935",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12044935",
-    "titleFingerprint": "854f1a8245f991b9a504d35e3b9f4bf100b86661",
-    "dedupKeys": [
-      "16efecd338189c27ea1ba4e99d4db8024ce44108",
-      "854f1a8245f991b9a504d35e3b9f4bf100b86661",
-      "67c71efb7565cf0e2166fb2fb743f97251e6278e"
-    ],
-    "imageUrl": "/images/articles/16efecd33818.jpg",
-    "i18n": {
-      "ko": {
-        "title": "황조 매각 재추진 나선 JC파트너스, 제강 분진 재활용 엑시트 주목",
-        "excerpt": "JC파트너스가 포트폴리오 기업 황조 매각에 나섰다. 제강 분진 재활용 등 자원순환 사업을 하는 황조의 엑시트는 2024년 초 아연 가격 하락으로 한 차례 무산된 뒤 재추진된다.",
-        "body": "사모펀드 운용사 JC파트너스가 자원순환 관련 포트폴리오 기업 황조 매각을 다시 추진한다. 황조는 제강 과정에서 발생하는 분진을 재활용하는 업체로 알려졌으며, JC파트너스는 인수 후 5년 만에 엑시트 작업에 나선 것이다. 이번 매각은 2024년 초 아연 가격 하락으로 한 차례 무산됐던 거래를 재개하는 성격이다. 원자재 가격 변동이 재활용 기업 가치 평가에 영향을 미쳤던 만큼, 이번 재추진 과정에서도 시장 환경과 매수자 관심이 핵심 변수로 거론된다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "JC Partners Relaunches Sale of Steel Dust Recycler Hwangjo After Five Years",
-        "excerpt": "JC Partners is moving to sell portfolio company Hwangjo, a resource-circulation firm that recycles steelmaking dust, reviving an exit that fell through in early 2024 after zinc prices declined.",
-        "body": "Private equity firm JC Partners is again pursuing the sale of Hwangjo, a portfolio company in the resource-circulation sector. Hwangjo is known for recycling dust generated during steelmaking, and JC Partners is seeking an exit five years after its investment. The renewed sale follows an earlier attempt that collapsed in early 2024 as zinc prices fell. Because swings in raw material prices had affected the valuation of the recycling company, market conditions and buyer interest are expected to be key factors in the renewed process. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "JCパートナーズ、製鋼ダスト再資源化の黄鳥売却を5年ぶり再始動",
-        "excerpt": "JCパートナーズがポートフォリオ企業の黄鳥売却に乗り出した。製鋼ダストを再資源化する同社の出口戦略は、2024年初めの亜鉛価格下落で一度頓挫した後の再推進となる。",
-        "body": "PEF運用会社のJCパートナーズが、資源循環関連のポートフォリオ企業である黄鳥の売却を再び進めている。黄鳥は製鋼過程で発生するダストを再資源化する企業として知られ、JCパートナーズは投資から5年ぶりにエグジット作業に入った形だ。今回の売却は、2024年初めに亜鉛価格の下落で一度不成立となった取引を再開する性格を持つ。原材料価格の変動が再資源化企業の価値評価に影響しただけに、市場環境と買い手の関心が重要な変数となる。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "JC Partners重启钢铁粉尘回收企业黄鸟出售，五年后再谋退出",
-        "excerpt": "JC Partners正推进出售其投资组合企业黄鸟。黄鸟从事钢铁粉尘回收等资源循环业务，此前因2024年初锌价下跌而搁置的退出计划如今重新启动。",
-        "body": "私募股权基金管理公司JC Partners正在重新推进出售资源循环相关投资组合企业黄鸟。黄鸟被认为是一家回收炼钢过程中产生粉尘的企业，JC Partners在投资五年后再次启动退出程序。此次出售具有重启交易的性质，此前该退出计划曾在2024年初因锌价下跌而告吹。由于原材料价格波动曾影响回收企业的估值，市场环境和买方兴趣预计将成为本轮出售过程中的关键变量。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "JC Partners reactiva la venta de Hwangjo, recicladora de polvo siderúrgico",
-        "excerpt": "JC Partners busca vender Hwangjo, empresa de su cartera dedicada a la economía circular y al reciclaje de polvo siderúrgico, tras un intento fallido a comienzos de 2024 por la caída del zinc.",
-        "body": "La gestora de fondos de capital privado JC Partners vuelve a impulsar la venta de Hwangjo, una compañía de su cartera vinculada a la economía circular. Hwangjo es conocida por reciclar el polvo generado en el proceso de fabricación de acero, y JC Partners busca una salida cinco años después de su inversión. La operación retoma un intento que se frustró a comienzos de 2024 por la caída del precio del zinc. Dado que la variación de las materias primas afectó la valoración de la empresa recicladora, el entorno de mercado y el interés de compradores serán factores clave. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "JC Partners retoma venda da Hwangjo, recicladora de pó siderúrgico",
-        "excerpt": "A JC Partners iniciou a venda da Hwangjo, empresa de seu portfólio ligada à economia circular e à reciclagem de pó siderúrgico, retomando uma saída frustrada no início de 2024 pela queda do zinco.",
-        "body": "A gestora de private equity JC Partners voltou a promover a venda da Hwangjo, empresa de seu portfólio ligada à circulação de recursos. A Hwangjo é conhecida por reciclar o pó gerado no processo de produção de aço, e a JC Partners busca uma saída cinco anos após o investimento. A operação retoma uma tentativa que fracassou no início de 2024 com a queda dos preços do zinco. Como a oscilação das matérias-primas afetou a avaliação da recicladora, as condições de mercado e o interesse de compradores devem ser variáveis centrais no novo processo. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "JC Partners startet Verkauf von Stahlstaub-Recycler Hwangjo nach fünf Jahren neu",
-        "excerpt": "JC Partners will das Portfoliounternehmen Hwangjo verkaufen. Der Ressourcenrecycler verwertet Stahlwerksstaub; ein Exit war Anfang 2024 wegen fallender Zinkpreise bereits einmal gescheitert.",
-        "body": "Der Private-Equity-Manager JC Partners treibt erneut den Verkauf des Portfoliounternehmens Hwangjo aus dem Bereich Ressourcenkreislauf voran. Hwangjo ist dafür bekannt, Staub aus der Stahlproduktion zu recyceln, und JC Partners strebt fünf Jahre nach der Investition einen Exit an. Der aktuelle Verkaufsprozess nimmt einen Versuch wieder auf, der Anfang 2024 wegen sinkender Zinkpreise gescheitert war. Da Schwankungen der Rohstoffpreise die Bewertung des Recyclingunternehmens beeinflusst hatten, gelten Marktumfeld und Käuferinteresse als zentrale Faktoren. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "JC Partners relance la vente de Hwangjo, recycleur de poussières d’aciérie",
-        "excerpt": "JC Partners cherche à céder Hwangjo, société de son portefeuille spécialisée dans la circulation des ressources et le recyclage des poussières d’aciérie, après un échec début 2024 lié au recul du zinc.",
-        "body": "La société de capital-investissement JC Partners relance la vente de Hwangjo, une entreprise de son portefeuille active dans la circulation des ressources. Hwangjo est connue pour recycler les poussières générées lors de la fabrication de l’acier, et JC Partners vise une sortie cinq ans après son investissement. Cette opération reprend une tentative qui avait échoué début 2024 en raison de la baisse des prix du zinc. Comme les variations des matières premières avaient pesé sur la valorisation de l’entreprise de recyclage, le contexte de marché et l’intérêt des acheteurs seront des variables clés. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "جيه سي بارتنرز تعيد طرح هوانغجو لإعادة تدوير غبار الصلب للبيع بعد 5 سنوات",
-        "excerpt": "تتحرك جيه سي بارتنرز لبيع شركة هوانغجو ضمن محفظتها، وهي شركة تعمل في تدوير الموارد وإعادة تدوير غبار صناعة الصلب، بعد تعثر محاولة الخروج في مطلع 2024 بسبب تراجع أسعار الزنك.",
-        "body": "تسعى شركة إدارة صناديق الملكية الخاصة جيه سي بارتنرز مجددا إلى بيع هوانغجو، إحدى شركات محفظتها في مجال تدوير الموارد. وتعرف هوانغجو بإعادة تدوير الغبار الناتج عن عمليات صناعة الصلب، بينما تتحرك جيه سي بارتنرز نحو التخارج بعد خمس سنوات من الاستثمار. وتأتي هذه العملية باعتبارها استئنافا لمحاولة بيع تعثرت في مطلع 2024 مع انخفاض أسعار الزنك. وبما أن تقلبات أسعار المواد الخام أثرت في تقييم شركة إعادة التدوير، فإن أوضاع السوق واهتمام المشترين سيظلان عاملين رئيسيين في المسار الجديد. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "JC Partners ने स्टील डस्ट रीसाइक्लर Hwangjo की बिक्री पांच साल बाद फिर शुरू की",
-        "excerpt": "JC Partners अपने पोर्टफोलियो की कंपनी Hwangjo को बेचने की प्रक्रिया में है। स्टीलमेकिंग डस्ट रीसाइक्लिंग वाली इस संसाधन-परिसंचरण कंपनी का एग्जिट 2024 की शुरुआत में जिंक कीमतों में गिरावट से रुक गया था।",
-        "body": "प्राइवेट इक्विटी फंड मैनेजर JC Partners संसाधन-परिसंचरण से जुड़ी अपनी पोर्टफोलियो कंपनी Hwangjo की बिक्री फिर से आगे बढ़ा रहा है। Hwangjo स्टील बनाने की प्रक्रिया में निकलने वाली धूल को रीसायकल करने वाली कंपनी के रूप में जानी जाती है, और JC Partners निवेश के पांच साल बाद एग्जिट की प्रक्रिया में है। यह बिक्री उस सौदे को दोबारा शुरू करने जैसी है जो 2024 की शुरुआत में जिंक कीमतों में गिरावट के कारण विफल हो गया था। कच्चे माल की कीमतों में बदलाव ने रीसाइक्लिंग कंपनी के मूल्यांकन को प्रभावित किया था, इसलिए बाजार की स्थिति और खरीदारों की रुचि अहम कारक होंगे। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "JC Partners Kembali Jual Hwangjo, Pendaur Ulang Debu Baja, Setelah 5 Tahun",
-        "excerpt": "JC Partners mulai menjual Hwangjo, perusahaan portofolio di bidang sirkulasi sumber daya dan daur ulang debu baja, setelah upaya exit pada awal 2024 gagal akibat penurunan harga seng.",
-        "body": "Manajer dana ekuitas swasta JC Partners kembali mendorong penjualan Hwangjo, perusahaan portofolio yang bergerak di bidang sirkulasi sumber daya. Hwangjo dikenal sebagai perusahaan yang mendaur ulang debu yang muncul dalam proses pembuatan baja, dan JC Partners mengupayakan exit setelah lima tahun berinvestasi. Penjualan ini merupakan kelanjutan dari transaksi yang sempat gagal pada awal 2024 karena penurunan harga seng. Karena perubahan harga bahan baku pernah memengaruhi valuasi perusahaan daur ulang tersebut, kondisi pasar dan minat pembeli akan menjadi faktor utama dalam proses kali ini. Sumber: mk.co.kr"
       }
     }
   }
