@@ -1,5 +1,230 @@
 [
   {
+    "id": "f78cbb3d1bdc",
+    "slug": "속보-코스피-사상-최고치-798141-마감팔천피-가시권-668467",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-05-14T23:02:55.901Z",
+    "updatedAt": "2026-05-14T23:02:55.901Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/2026051467336",
+    "canonicalUrl": "https://www.hankyung.com/article/2026051467336",
+    "titleFingerprint": "a42e1316b329213c0ee82ce12fafd8e35e16f461",
+    "dedupKeys": [
+      "f78cbb3d1bdc38202962b75ee07ebcda243dac69",
+      "a42e1316b329213c0ee82ce12fafd8e35e16f461",
+      "bee2d51998c8a2b2080bebe26f24a6d999e55f59"
+    ],
+    "imageUrl": "/images/articles/f78cbb3d1bdc.jpg",
+    "i18n": {
+      "ko": {
+        "title": "코스피 사상 최고 7981.41 마감, ‘팔천피’ 가시권 진입",
+        "excerpt": "코스피가 hankyung.com 보도 기준 사상 최고치인 7981.41로 마감하며 이른바 ‘팔천피’ 진입 가능성이 시장의 핵심 관심사로 떠올랐다.",
+        "body": "코스피가 hankyung.com 보도에 따르면 사상 최고치인 7981.41로 장을 마감했다. 이번 마감 지수는 8000선에 근접한 수준으로, 시장에서 이른바 ‘팔천피’가 가시권에 들어왔다는 점이 주목된다. 원문이 제시한 핵심 수치는 코스피 종가 7981.41이며, 요약에는 별도 배경 설명이나 상승 원인은 포함되지 않았다. 지수가 사상 최고치를 기록하면서 투자자들의 관심은 향후 8000선 도달 여부에 모일 수 있다. 출처: hankyung.com."
+      },
+      "en": {
+        "title": "KOSPI Closes at Record 7,981.41, Putting 8,000 Within Sight",
+        "excerpt": "The KOSPI closed at a record 7,981.41, according to hankyung.com, bringing the symbolic 8,000-point level into focus for the market.",
+        "body": "According to hankyung.com, the KOSPI closed at an all-time high of 7,981.41. The closing level is close to the 8,000 mark, drawing attention to the possibility that the so-called 8,000-point KOSPI is now within sight. The original report’s key figure is the KOSPI closing level of 7,981.41, while the summary does not provide additional background or reasons for the rise. With the index ending at a record high, market attention may center on whether it reaches 8,000 next. Source: hankyung.com."
+      },
+      "ja": {
+        "title": "KOSPIが史上最高値7981.41で終了、8000台が視野に",
+        "excerpt": "hankyung.comによると、KOSPIは史上最高値の7981.41で取引を終え、節目となる8000台入りが市場の注目点となった。",
+        "body": "hankyung.comの報道によると、KOSPIは史上最高値となる7981.41で取引を終えた。今回の終値は8000台に迫る水準で、市場ではいわゆる「8000台KOSPI」が視野に入った点が注目されている。原文が示した主要数値はKOSPI終値7981.41であり、要約には追加の背景説明や上昇理由は含まれていない。指数が史上最高値で終了したことで、今後8000台に到達するかどうかに関心が集まる可能性がある。出典: hankyung.com。"
+      },
+      "zh": {
+        "title": "韩国KOSPI收于历史新高7981.41点，8000点近在眼前",
+        "excerpt": "据hankyung.com报道，韩国KOSPI指数收于历史新高7981.41点，距离8000点关口不远，成为市场关注焦点。",
+        "body": "据hankyung.com报道，韩国KOSPI指数以7981.41点收盘，创下历史最高收盘纪录。该收盘点位已接近8000点关口，因此市场关注所谓“8000点KOSPI”进入视野。原文提供的核心数据是KOSPI收盘价7981.41点，摘要中未包含更多背景说明或上涨原因。随着指数创下历史新高，投资者的关注点可能转向其后续能否触及8000点。来源：hankyung.com。"
+      },
+      "es": {
+        "title": "El KOSPI cierra en récord de 7.981,41 y acerca el nivel de 8.000",
+        "excerpt": "El KOSPI cerró en un máximo histórico de 7.981,41, según hankyung.com, dejando el umbral de 8.000 puntos como foco central del mercado.",
+        "body": "Según hankyung.com, el KOSPI cerró en un máximo histórico de 7.981,41 puntos. Ese nivel de cierre se sitúa cerca de la barrera de 8.000 puntos, por lo que el mercado observa la posibilidad de que el llamado KOSPI de 8.000 puntos entre en alcance visible. El dato central ofrecido por el texto original es el cierre del KOSPI en 7.981,41, sin que el resumen incluya más contexto ni razones de la subida. Tras el récord, la atención puede centrarse en si el índice alcanza los 8.000 puntos. Fuente: hankyung.com."
+      },
+      "pt": {
+        "title": "KOSPI fecha em recorde de 7.981,41 e deixa os 8.000 no radar",
+        "excerpt": "O KOSPI fechou em máxima histórica de 7.981,41, segundo o hankyung.com, aproximando o índice do patamar simbólico de 8.000 pontos.",
+        "body": "Segundo o hankyung.com, o KOSPI encerrou o pregão em máxima histórica de 7.981,41 pontos. O nível de fechamento está próximo da marca de 8.000 pontos, chamando atenção para a possibilidade de o chamado KOSPI de 8.000 pontos entrar no campo de visão do mercado. O principal dado apresentado no texto original é o fechamento do KOSPI em 7.981,41, sem que o resumo traga contexto adicional ou motivos para a alta. Com o índice em recorde, o foco pode se voltar para uma eventual chegada aos 8.000 pontos. Fonte: hankyung.com."
+      },
+      "de": {
+        "title": "KOSPI schließt auf Rekordhoch von 7.981,41, Marke 8.000 rückt näher",
+        "excerpt": "Der KOSPI schloss laut hankyung.com auf einem Rekordhoch von 7.981,41 Punkten und rückte damit die Marke von 8.000 Punkten in den Fokus.",
+        "body": "Nach Angaben von hankyung.com schloss der KOSPI auf einem Allzeithoch von 7.981,41 Punkten. Der Schlussstand liegt nahe an der Marke von 8.000 Punkten, weshalb die Aussicht auf einen sogenannten KOSPI bei 8.000 Punkten Aufmerksamkeit erhält. Die zentrale Zahl des Originaltexts ist der KOSPI-Schlussstand von 7.981,41; zusätzliche Hintergründe oder Gründe für den Anstieg werden in der Zusammenfassung nicht genannt. Nach dem Rekordschluss dürfte sich der Blick darauf richten, ob der Index die Marke von 8.000 Punkten erreicht. Quelle: hankyung.com."
+      },
+      "fr": {
+        "title": "Le KOSPI clôture au record de 7 981,41, le seuil des 8 000 en vue",
+        "excerpt": "Le KOSPI a clôturé à un record historique de 7 981,41, selon hankyung.com, plaçant le seuil symbolique des 8 000 points au centre de l’attention.",
+        "body": "Selon hankyung.com, le KOSPI a clôturé à un plus haut historique de 7 981,41 points. Ce niveau de clôture se rapproche du seuil des 8 000 points, ce qui attire l’attention sur la possibilité de voir le KOSPI entrer dans cette zone symbolique. Le chiffre clé fourni par le texte original est la clôture du KOSPI à 7 981,41, tandis que le résumé ne donne pas d’autre contexte ni de raison à la hausse. Après ce record, l’attention du marché peut se porter sur un éventuel passage à 8 000 points. Source : hankyung.com."
+      },
+      "ar": {
+        "title": "كوسبي يغلق عند مستوى قياسي 7981.41 ويقترب من حاجز 8000 نقطة",
+        "excerpt": "أغلق مؤشر كوسبي عند مستوى قياسي بلغ 7981.41 نقطة، وفق hankyung.com، ما جعل حاجز 8000 نقطة محور اهتمام السوق.",
+        "body": "وفق ما أوردته hankyung.com، أغلق مؤشر كوسبي عند أعلى مستوى في تاريخه مسجلا 7981.41 نقطة. ويقترب هذا الإغلاق من حاجز 8000 نقطة، ما يلفت الانتباه إلى أن ما يسمى كوسبي عند 8000 نقطة أصبح ضمن نطاق الرؤية. الرقم الأساسي الوارد في النص الأصلي هو إغلاق كوسبي عند 7981.41 نقطة، بينما لا يتضمن الملخص خلفية إضافية أو أسبابا للصعود. ومع تسجيل المؤشر مستوى قياسيا، قد يتركز اهتمام المستثمرين على ما إذا كان سيبلغ حاجز 8000 نقطة لاحقا. المصدر: hankyung.com."
+      },
+      "hi": {
+        "title": "KOSPI रिकॉर्ड 7,981.41 पर बंद, 8,000 अंक का स्तर अब नजर में",
+        "excerpt": "hankyung.com के अनुसार KOSPI 7,981.41 के ऐतिहासिक उच्च स्तर पर बंद हुआ, जिससे 8,000 अंक का प्रतीकात्मक स्तर बाजार के केंद्र में आ गया।",
+        "body": "hankyung.com के अनुसार KOSPI 7,981.41 अंक के सर्वकालिक उच्च स्तर पर बंद हुआ। यह बंद स्तर 8,000 अंक के करीब है, इसलिए बाजार में तथाकथित 8,000 अंक वाले KOSPI के दायरे में आने पर ध्यान गया है। मूल पाठ में दिया गया मुख्य आंकड़ा KOSPI का 7,981.41 पर बंद होना है, जबकि सारांश में अतिरिक्त पृष्ठभूमि या बढ़त के कारण शामिल नहीं हैं। सूचकांक के रिकॉर्ड उच्च स्तर पर बंद होने के बाद निवेशकों का ध्यान इस बात पर रह सकता है कि क्या यह आगे 8,000 अंक तक पहुंचता है। स्रोत: hankyung.com."
+      },
+      "id": {
+        "title": "KOSPI Ditutup Rekor 7.981,41, Level 8.000 Kini Dalam Pantauan",
+        "excerpt": "KOSPI ditutup pada rekor tertinggi 7.981,41 menurut hankyung.com, membuat level simbolis 8.000 poin menjadi fokus utama pasar.",
+        "body": "Menurut hankyung.com, KOSPI ditutup pada rekor tertinggi sepanjang masa di 7.981,41 poin. Level penutupan ini mendekati angka 8.000, sehingga pasar menyoroti kemungkinan bahwa KOSPI 8.000 poin kini sudah masuk dalam jangkauan. Angka utama yang disampaikan dalam teks asli adalah penutupan KOSPI di 7.981,41, sementara ringkasan tidak memuat latar belakang tambahan atau alasan kenaikan. Dengan indeks mencetak rekor penutupan, perhatian investor dapat tertuju pada apakah KOSPI akan mencapai 8.000 poin berikutnya. Sumber: hankyung.com."
+      }
+    }
+  },
+  {
+    "id": "99e8ba6250ec",
+    "slug": "나스닥은-고작-10-올랐는데60-수익률-낸-액티브-etf-비결은-676423",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-05-14T23:02:05.099Z",
+    "updatedAt": "2026-05-14T23:02:05.099Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/202605146191i",
+    "canonicalUrl": "https://www.hankyung.com/article/202605146191i",
+    "titleFingerprint": "092a78233027187c3acbb6dfb2d8188c511f67df",
+    "dedupKeys": [
+      "99e8ba6250ecf266998fbe7a0bd0944402c17e2f",
+      "092a78233027187c3acbb6dfb2d8188c511f67df",
+      "93eb4835ed5d8d578f007b9e8bb5723bafc1ed2c"
+    ],
+    "imageUrl": "/images/articles/99e8ba6250ec.jpg",
+    "i18n": {
+      "ko": {
+        "title": "액티브 ETF 60% 수익률 비결, 나스닥 10% 상승과 갈린 이유",
+        "excerpt": "hankyung.com은 나스닥 상승률이 약 10%에 그친 상황에서 60% 수익률을 낸 액티브 ETF 사례를 통해 운용 전략의 차이를 조명했다.",
+        "body": "hankyung.com은 나스닥 지수가 약 10% 오르는 데 그친 가운데 60% 수익률을 기록한 액티브 ETF 사례를 보도했다. 기사 제목은 같은 시장 환경에서도 지수를 단순 추종하는 방식과 운용자가 종목·비중을 조정하는 액티브 전략 사이에 성과 차이가 나타날 수 있다는 점을 부각한다. 관련 수치로는 나스닥 상승률 10%, 해당 액티브 ETF 수익률 60%가 제시됐다. 이는 ETF 투자자들이 수익률뿐 아니라 운용 방식과 전략의 차이를 함께 살펴볼 필요가 있음을 보여준다. 출처: hankyung.com"
+      },
+      "en": {
+        "title": "Active ETF’s 60% Return Stands Out as Nasdaq Gains Just 10%",
+        "excerpt": "hankyung.com highlighted an active ETF that returned 60% while the Nasdaq rose about 10%, focusing on how management strategy drove the gap.",
+        "body": "hankyung.com reported on an active ETF that posted a 60% return while the Nasdaq index gained only about 10%. The article’s headline emphasizes that, even in the same market environment, performance can differ between a simple index-tracking approach and an active strategy in which managers adjust holdings and weights. The key figures presented are a 10% rise in the Nasdaq and a 60% return for the active ETF. The case shows that ETF investors may need to examine not only returns but also the management style and strategy behind a product. Source: hankyung.com"
+      },
+      "ja": {
+        "title": "アクティブETFが60％リターン、ナスダック10％高との差は何か",
+        "excerpt": "hankyung.comは、ナスダック上昇率が約10％にとどまる中で60％の収益率を上げたアクティブETFの事例を取り上げた。",
+        "body": "hankyung.comは、ナスダック指数の上昇率が約10％にとどまる中、60％の収益率を記録したアクティブETFの事例を報じた。記事の見出しは、同じ市場環境でも指数を単純に追随する方式と、運用者が銘柄や比率を調整するアクティブ戦略の間で成果に差が出得る点を強調している。関連数値として、ナスダックの上昇率10％、当該アクティブETFの収益率60％が示された。ETF投資家は収益率だけでなく、運用方式と戦略の違いも確認する必要がある。出典: hankyung.com"
+      },
+      "zh": {
+        "title": "主动ETF收益率达60%，为何远超纳斯达克10%涨幅",
+        "excerpt": "hankyung.com报道称，在纳斯达克仅上涨约10%的情况下，一只主动ETF取得60%收益率，凸显管理策略差异。",
+        "body": "hankyung.com报道，在纳斯达克指数涨幅仅约10%的背景下，一只主动ETF取得了60%的收益率。报道标题强调，即使处于相同市场环境，单纯跟踪指数的方式与由管理人调整持仓和权重的主动策略之间，也可能出现明显业绩差异。文中提到的核心数据是纳斯达克上涨10%，该主动ETF收益率为60%。这一案例显示，ETF投资者不仅需要关注收益率，也应同时查看产品的管理方式与策略差异。来源: hankyung.com"
+      },
+      "es": {
+        "title": "ETF activo logra 60% de retorno frente al 10% del Nasdaq",
+        "excerpt": "hankyung.com destacó un ETF activo que obtuvo 60% de rentabilidad mientras el Nasdaq subió cerca de 10%, poniendo el foco en la estrategia.",
+        "body": "hankyung.com informó sobre un ETF activo que registró una rentabilidad del 60% mientras el índice Nasdaq avanzó solo cerca de 10%. El titular subraya que, incluso en un mismo entorno de mercado, puede haber diferencias de desempeño entre una estrategia que replica un índice y una gestión activa en la que los gestores ajustan valores y ponderaciones. Las cifras clave citadas son una subida del 10% del Nasdaq y un retorno del 60% del ETF activo. El caso muestra que los inversores en ETF deben revisar no solo la rentabilidad, sino también el método de gestión y la estrategia. Fuente: hankyung.com"
+      },
+      "pt": {
+        "title": "ETF ativo rende 60% enquanto Nasdaq sobe só 10%; entenda o foco",
+        "excerpt": "hankyung.com destacou um ETF ativo com retorno de 60% em um cenário no qual o Nasdaq avançou cerca de 10%, ressaltando a estratégia.",
+        "body": "hankyung.com informou sobre um ETF ativo que registrou retorno de 60% enquanto o índice Nasdaq subiu apenas cerca de 10%. O título destaca que, mesmo no mesmo ambiente de mercado, pode haver diferença de desempenho entre uma abordagem que simplesmente acompanha um índice e uma estratégia ativa em que gestores ajustam ativos e pesos. Os números apresentados são alta de 10% do Nasdaq e retorno de 60% do ETF ativo. O caso mostra que investidores em ETF precisam observar não só a rentabilidade, mas também o modelo de gestão e a estratégia do produto. Fonte: hankyung.com"
+      },
+      "de": {
+        "title": "Aktiver ETF erzielt 60% Rendite, Nasdaq steigt nur 10%",
+        "excerpt": "hankyung.com berichtet über einen aktiven ETF mit 60% Rendite, während der Nasdaq nur rund 10% zulegte, und rückt die Strategie in den Fokus.",
+        "body": "hankyung.com berichtete über einen aktiven ETF, der eine Rendite von 60% erzielte, während der Nasdaq-Index nur um rund 10% stieg. Die Überschrift hebt hervor, dass selbst im gleichen Marktumfeld Leistungsunterschiede zwischen einer einfachen Indexnachbildung und einer aktiven Strategie entstehen können, bei der Manager Titel und Gewichtungen anpassen. Als zentrale Zahlen werden ein Nasdaq-Anstieg von 10% und eine Rendite des aktiven ETF von 60% genannt. Der Fall zeigt, dass ETF-Anleger neben der Rendite auch Verwaltungsansatz und Strategie prüfen sollten. Quelle: hankyung.com"
+      },
+      "fr": {
+        "title": "Un ETF actif gagne 60% quand le Nasdaq ne monte que de 10%",
+        "excerpt": "hankyung.com met en avant un ETF actif ayant gagné 60% alors que le Nasdaq progressait d’environ 10%, avec un focus sur la stratégie.",
+        "body": "hankyung.com a rapporté le cas d’un ETF actif ayant enregistré un rendement de 60% alors que l’indice Nasdaq ne progressait que d’environ 10%. Le titre souligne que, dans un même environnement de marché, l’écart de performance peut être important entre une approche qui réplique simplement un indice et une stratégie active dans laquelle les gérants ajustent les titres et les pondérations. Les chiffres clés cités sont une hausse de 10% du Nasdaq et un rendement de 60% pour cet ETF actif. Ce cas montre que les investisseurs en ETF doivent examiner le rendement, mais aussi le mode de gestion et la stratégie. Source: hankyung.com"
+      },
+      "ar": {
+        "title": "صندوق ETF نشط يحقق 60% مقابل صعود 10% فقط لناسداك",
+        "excerpt": "سلط hankyung.com الضوء على صندوق ETF نشط حقق عائدا 60% بينما ارتفع ناسداك بنحو 10%، مع التركيز على اختلاف استراتيجية الإدارة.",
+        "body": "أفاد hankyung.com بأن صندوق ETF نشطا سجل عائدا بلغ 60% في حين اكتفى مؤشر ناسداك بارتفاع يقارب 10%. ويبرز عنوان التقرير أن الأداء قد يختلف حتى في بيئة السوق نفسها بين أسلوب يتبع المؤشر بشكل مباشر واستراتيجية نشطة يغير فيها المديرون الأسهم والأوزان. الأرقام الأساسية المعروضة هي ارتفاع ناسداك 10% وعائد الصندوق النشط 60%. وتوضح الحالة أن مستثمري صناديق ETF يحتاجون إلى النظر ليس فقط إلى العائد، بل أيضا إلى أسلوب الإدارة والاستراتيجية المتبعة. المصدر: hankyung.com"
+      },
+      "hi": {
+        "title": "सक्रिय ETF ने दिया 60% रिटर्न, Nasdaq की बढ़त सिर्फ 10%",
+        "excerpt": "hankyung.com ने ऐसे सक्रिय ETF पर रोशनी डाली जिसने Nasdaq की लगभग 10% बढ़त के बीच 60% रिटर्न दिया और रणनीति के अंतर को दिखाया।",
+        "body": "hankyung.com ने ऐसे सक्रिय ETF की रिपोर्ट दी जिसने 60% रिटर्न दर्ज किया, जबकि Nasdaq सूचकांक लगभग 10% ही बढ़ा। शीर्षक यह रेखांकित करता है कि समान बाजार माहौल में भी केवल सूचकांक का पीछा करने वाली पद्धति और प्रबंधक द्वारा शेयरों व भारों को समायोजित करने वाली सक्रिय रणनीति के बीच प्रदर्शन का अंतर आ सकता है। प्रस्तुत प्रमुख आंकड़े Nasdaq की 10% बढ़त और संबंधित सक्रिय ETF का 60% रिटर्न हैं। यह मामला दिखाता है कि ETF निवेशकों को सिर्फ रिटर्न नहीं, बल्कि प्रबंधन शैली और रणनीति के अंतर को भी देखना चाहिए। स्रोत: hankyung.com"
+      },
+      "id": {
+        "title": "ETF aktif cetak imbal hasil 60% saat Nasdaq hanya naik 10%",
+        "excerpt": "hankyung.com menyoroti ETF aktif yang menghasilkan imbal hasil 60% ketika Nasdaq naik sekitar 10%, dengan fokus pada perbedaan strategi.",
+        "body": "hankyung.com melaporkan sebuah ETF aktif yang mencatat imbal hasil 60% ketika indeks Nasdaq hanya naik sekitar 10%. Judul artikel menekankan bahwa, dalam kondisi pasar yang sama, kinerja dapat berbeda antara pendekatan yang sekadar mengikuti indeks dan strategi aktif ketika manajer menyesuaikan saham serta bobotnya. Angka utama yang disajikan adalah kenaikan Nasdaq 10% dan imbal hasil ETF aktif tersebut 60%. Kasus ini menunjukkan bahwa investor ETF perlu melihat bukan hanya imbal hasil, tetapi juga metode pengelolaan dan perbedaan strategi produk. Sumber: hankyung.com"
+      }
+    }
+  },
+  {
+    "id": "e8f9a06317d5",
+    "slug": "삼성생명-요율인상에도-신계약-약진건강보험종신까지-호조-목표가-671843",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-05-14T23:01:10.791Z",
+    "updatedAt": "2026-05-14T23:01:10.791Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/stock/12048673",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12048673",
+    "titleFingerprint": "6396681ef76cde3e320653cc2e47de48a0404513",
+    "dedupKeys": [
+      "e8f9a06317d564c9ec0402af3229faa0db3dad4b",
+      "6396681ef76cde3e320653cc2e47de48a0404513",
+      "5a00f57b238b55ad4dc9cbff038d4c071db20845"
+    ],
+    "imageUrl": "/images/articles/e8f9a06317d5.jpg",
+    "i18n": {
+      "ko": {
+        "title": "삼성생명 목표가 27만8000원 상향, 요율인상에도 신계약 성장 부각",
+        "excerpt": "대신증권은 15일 삼성생명이 요율 인상에도 신계약에서 약진했고 건강보험과 종신보험 모두 호조를 보였다며 목표주가를 22만원에서 27만8000원으로 올렸다.",
+        "body": "대신증권은 15일 삼성생명에 대해 요율 인상에도 신계약이 약진했다며 목표주가를 기존 22만원에서 27만8000원으로 상향 조정했다. 이번 평가의 핵심은 보험료 부담이 커질 수 있는 환경에서도 신규 계약 흐름이 개선됐다는 점이다. 특히 건강보험뿐 아니라 종신보험까지 호조를 보였다는 분석이 함께 제시됐다. 증권사는 이러한 신계약 확대가 삼성생명의 영업 흐름을 뒷받침하는 요인으로 작용한다고 봤다. 목표가 상향은 상품군 전반의 판매 개선을 반영한 조치로 해석된다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Samsung Life target raised to 278,000 won as new policy sales advance",
+        "excerpt": "Daishin Securities said on the 15th that Samsung Life’s new contracts advanced despite rate increases, with strength in both health and whole life insurance, and raised its target price.",
+        "body": "Daishin Securities on the 15th raised its target price for Samsung Life Insurance from 220,000 won to 278,000 won, saying new contracts advanced despite rate increases. The key point in the assessment was that new policy sales improved even in an environment where premium burdens could rise. The brokerage also said health insurance performed well and that whole life insurance was also strong. It viewed the expansion in new contracts as a factor supporting Samsung Life’s sales momentum. The higher target price reflects improved sales across product lines. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "サムスン生命の目標株価27万8000ウォンへ、新契約好調を評価",
+        "excerpt": "大信証券は15日、サムスン生命について料率引き上げにもかかわらず新契約が伸び、健康保険と終身保険がともに好調だったとして目標株価を引き上げた。",
+        "body": "大信証券は15日、サムスン生命について、料率引き上げにもかかわらず新契約が伸びたとして、目標株価を従来の22万ウォンから27万8000ウォンへ引き上げた。今回の評価の中心は、保険料負担が高まる可能性のある環境でも新規契約の流れが改善した点にある。特に健康保険だけでなく終身保険も好調だったとの分析が示された。同証券は、新契約の拡大がサムスン生命の営業動向を支える要因になると見ている。目標株価の引き上げは、商品群全般の販売改善を反映した措置と受け止められる。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "三星生命目标价上调至27.8万韩元，新单增长受关注",
+        "excerpt": "大信证券15日表示，三星生命在费率上调背景下新合同仍实现增长，健康险和终身险均表现良好，因此将目标价由22万韩元上调至27.8万韩元。",
+        "body": "大信证券15日将三星生命的目标股价从22万韩元上调至27.8万韩元，理由是即使在费率上调的情况下，新合同仍取得明显进展。此次评价的核心在于，在保费负担可能上升的环境下，新业务合同趋势仍有所改善。该证券公司还指出，不仅健康保险表现良好，终身保险也保持强劲。其认为，新合同扩大将成为支撑三星生命销售走势的因素。目标价上调可理解为反映了各类产品销售改善。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Samsung Life sube a 278.000 wones tras avance de nuevos contratos",
+        "excerpt": "Daishin Securities dijo el día 15 que Samsung Life avanzó en nuevos contratos pese al alza de tarifas, con buen desempeño en seguros de salud y vida entera, y elevó su precio objetivo.",
+        "body": "Daishin Securities elevó el día 15 el precio objetivo de Samsung Life Insurance de 220.000 wones a 278.000 wones, al señalar que los nuevos contratos avanzaron pese al aumento de tarifas. El punto central de la evaluación fue que el flujo de nuevas pólizas mejoró incluso en un entorno en el que la carga de primas podía aumentar. La firma también indicó que no solo los seguros de salud tuvieron buen desempeño, sino también los seguros de vida entera. Consideró que la expansión de nuevos contratos respalda la dinámica comercial de Samsung Life. La subida del objetivo refleja una mejora de ventas en las líneas de productos. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Samsung Life tem preço-alvo elevado a 278 mil won com novos contratos",
+        "excerpt": "A Daishin Securities disse no dia 15 que a Samsung Life avançou em novos contratos apesar do aumento de tarifas, com bom desempenho em saúde e vida inteira, e elevou o preço-alvo.",
+        "body": "A Daishin Securities elevou no dia 15 o preço-alvo da Samsung Life Insurance de 220 mil won para 278 mil won, afirmando que os novos contratos avançaram apesar do aumento de tarifas. O ponto central da avaliação foi a melhora no fluxo de novas apólices mesmo em um ambiente no qual o peso dos prêmios poderia crescer. A corretora também destacou bom desempenho não apenas em seguros de saúde, mas também em seguros de vida inteira. Para a instituição, a expansão dos novos contratos apoia a dinâmica comercial da Samsung Life. A alta do preço-alvo reflete melhora nas vendas das linhas de produtos. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Samsung Life: Kursziel auf 278.000 Won erhöht, Neugeschäft zieht an",
+        "excerpt": "Daishin Securities erklärte am 15., Samsung Life habe trotz Tariferhöhungen bei Neuverträgen zugelegt; Gesundheits- und Lebensversicherungen liefen gut, daher wurde das Kursziel erhöht.",
+        "body": "Daishin Securities hat am 15. das Kursziel für Samsung Life Insurance von 220.000 Won auf 278.000 Won angehoben. Begründet wurde dies damit, dass die Neuverträge trotz Tariferhöhungen deutlich zulegten. Im Mittelpunkt der Einschätzung steht, dass sich der Zufluss neuer Policen auch in einem Umfeld verbesserte, in dem die Prämienbelastung steigen könnte. Zudem liefen nicht nur Krankenversicherungen gut, sondern auch Lebensversicherungen auf Lebenszeit. Das Wertpapierhaus sieht die Ausweitung der Neuverträge als Stütze für die Vertriebsentwicklung von Samsung Life. Die Anhebung spiegelt verbesserte Verkäufe über Produktgruppen hinweg wider. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Samsung Life voit son objectif relevé à 278 000 wons grâce aux contrats",
+        "excerpt": "Daishin Securities a indiqué le 15 que Samsung Life avait progressé dans les nouveaux contrats malgré la hausse des tarifs, avec une bonne tenue de la santé et de l’assurance vie entière.",
+        "body": "Daishin Securities a relevé le 15 son objectif de cours sur Samsung Life Insurance de 220 000 wons à 278 000 wons, estimant que les nouveaux contrats avaient progressé malgré les hausses de tarifs. Le point clé de cette évaluation est l’amélioration du flux de nouvelles polices dans un contexte où la charge des primes pouvait augmenter. La société de courtage a aussi indiqué que l’assurance santé, mais également l’assurance vie entière, affichaient une bonne dynamique. Elle considère que l’expansion des nouveaux contrats soutient l’activité commerciale de Samsung Life. Le relèvement de l’objectif reflète une amélioration des ventes dans les gammes de produits. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "رفع السعر المستهدف لسامسونغ لايف إلى 278 ألف وون مع نمو العقود الجديدة",
+        "excerpt": "قالت دايشين للأوراق المالية في اليوم 15 إن سامسونغ لايف حققت تقدما في العقود الجديدة رغم رفع الأسعار، مع أداء جيد للتأمين الصحي والتأمين مدى الحياة، ورفعت السعر المستهدف.",
+        "body": "رفعت دايشين للأوراق المالية في اليوم 15 السعر المستهدف لسامسونغ لايف للتأمين من 220 ألف وون إلى 278 ألف وون، مشيرة إلى أن العقود الجديدة تقدمت رغم رفع الأسعار. وتركز التقييم على تحسن تدفق العقود الجديدة حتى في بيئة قد تزيد فيها أعباء الأقساط. كما أوضحت الشركة أن الأداء الجيد لم يقتصر على التأمين الصحي، بل شمل أيضا التأمين مدى الحياة. وترى أن توسع العقود الجديدة يدعم مسار المبيعات لدى سامسونغ لايف. ويعكس رفع السعر المستهدف تحسنا في المبيعات عبر فئات المنتجات. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "Samsung Life का लक्ष्य मूल्य 278,000 वॉन, नई पॉलिसी बिक्री मजबूत",
+        "excerpt": "Daishin Securities ने 15 तारीख को कहा कि दरों में बढ़ोतरी के बावजूद Samsung Life के नए अनुबंध बढ़े और स्वास्थ्य बीमा व संपूर्ण जीवन बीमा दोनों मजबूत रहे, इसलिए लक्ष्य मूल्य बढ़ाया गया।",
+        "body": "Daishin Securities ने 15 तारीख को Samsung Life Insurance का लक्ष्य मूल्य 220,000 वॉन से बढ़ाकर 278,000 वॉन कर दिया। कंपनी ने कहा कि दरों में बढ़ोतरी के बावजूद नए अनुबंधों में मजबूती दिखी। इस आकलन का मुख्य आधार यह था कि प्रीमियम बोझ बढ़ सकने वाले माहौल में भी नई पॉलिसियों का प्रवाह सुधरा। ब्रोकरेज ने यह भी बताया कि स्वास्थ्य बीमा के साथ-साथ संपूर्ण जीवन बीमा भी अच्छा रहा। उसके अनुसार, नए अनुबंधों का विस्तार Samsung Life की बिक्री गति को सहारा देता है। लक्ष्य मूल्य में वृद्धि उत्पाद श्रेणियों में बिक्री सुधार को दर्शाती है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Target Samsung Life naik ke 278.000 won, kontrak baru tetap menguat",
+        "excerpt": "Daishin Securities pada tanggal 15 menyebut kontrak baru Samsung Life menguat meski ada kenaikan tarif, dengan kinerja baik pada asuransi kesehatan dan jiwa seumur hidup, lalu menaikkan target harga.",
+        "body": "Daishin Securities pada tanggal 15 menaikkan target harga Samsung Life Insurance dari 220.000 won menjadi 278.000 won, dengan alasan kontrak baru tetap menguat meski terjadi kenaikan tarif. Inti penilaiannya adalah arus polis baru membaik bahkan dalam kondisi ketika beban premi dapat meningkat. Perusahaan sekuritas itu juga menyebut bukan hanya asuransi kesehatan yang baik, tetapi asuransi jiwa seumur hidup juga menunjukkan kinerja positif. Ekspansi kontrak baru dinilai mendukung momentum penjualan Samsung Life. Kenaikan target harga mencerminkan perbaikan penjualan di berbagai lini produk. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
     "id": "bf76b0437c71",
     "slug": "지금이-기회코스피에-꽂힌-홍콩-큰손들-몰려온-이유-171406",
     "channelId": "ETF",
@@ -4271,231 +4496,6 @@
         "title": "Incon Umumkan Obligasi Konversi 15 Miliar Won, Harga Konversi 1.597 Won",
         "excerpt": "Incon yang tercatat di KOSDAQ mengumumkan pada 14 Mei 2026 penerbitan obligasi konversi ke-13 senilai 15 miliar won, dengan harga konversi 1.597 won.",
         "body": "Incon, perusahaan yang tercatat di KOSDAQ, mengumumkan pada 14 Mei 2026 rencana penerbitan obligasi konversi ke-13. Nilai penerbitan mencapai 15 miliar won dan, menurut keterbukaan, harga konversi ditetapkan sebesar 1.597 won. Laporan asli menyebut permintaan konversi dapat dimulai pada 12 Juni 2027. Pengumuman ini memuat rencana pendanaan Incon serta ketentuan utama terkait kemungkinan konversi menjadi saham di kemudian hari. Investor perlu memantau pengumuman lanjutan, terutama soal nilai penerbitan, harga konversi, dan tanggal awal permintaan konversi. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "5d6c077a0e6e",
-    "slug": "삼전하닉-따블이요단일종목-레버리지-etf-14개-출격-준비-700404",
-    "channelId": "ETF",
-    "category": "etf",
-    "publishedAt": "2026-05-14T08:20:32.000Z",
-    "updatedAt": "2026-05-14T08:20:32.000Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/stock/12047713",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12047713",
-    "titleFingerprint": "39f7f42b256566ae926cb7519e4d186f00ca0348",
-    "dedupKeys": [
-      "5d6c077a0e6e071fe1f781f3aadb58b223334d01",
-      "39f7f42b256566ae926cb7519e4d186f00ca0348",
-      "84024c8165361fe17d9e16baf64918351a1d31fa"
-    ],
-    "imageUrl": "/images/articles/5d6c077a0e6e.jpg",
-    "i18n": {
-      "ko": {
-        "title": "삼성전자·SK하이닉스 단일종목 레버리지 ETF 14개, 27일 상장 준비",
-        "excerpt": "삼성전자와 SK하이닉스를 기초자산으로 한 단일종목 레버리지 ETF 14개와 인버스 ETF 2개가 공시를 마무리하고 이달 27일 상장을 준비한다. 수수료 경쟁도 치열해지고 있다.",
-        "body": "삼성전자와 SK하이닉스를 기초자산으로 한 단일종목 레버리지 ETF 14개가 이달 27일 상장을 앞두고 출격을 준비하고 있다. 원문에 따르면 관련 인버스 ETF 2개도 공시 절차를 마무리했다. 이번 상품들은 국내 대표 반도체 종목인 삼성전자와 SK하이닉스의 주가 움직임을 기초로 설계된 단일종목형 ETF다. 레버리지 상품은 기초자산 변동폭을 확대해 추종하고, 인버스 상품은 반대 방향의 성과를 노린다. 복수 운용사가 같은 기초자산을 두고 상품을 내놓으면서 수수료 경쟁도 치열해지는 분위기다. 상장 이후 투자자는 개별 종목 대신 ETF 형태로 관련 전략에 접근할 수 있게 된다. 출처: mk.co.kr."
-      },
-      "en": {
-        "title": "Samsung Electronics and SK hynix Single-Stock Leveraged ETFs Set for May 27 Listing",
-        "excerpt": "Fourteen single-stock leveraged ETFs based on Samsung Electronics and SK hynix, along with two inverse ETFs, have completed disclosures and are preparing to list on the 27th of this month amid fee competition.",
-        "body": "Fourteen single-stock leveraged ETFs using Samsung Electronics and SK hynix as underlying assets are preparing to list on the 27th of this month. According to the original report, two related inverse ETFs have also completed their disclosure process. The products are single-stock ETFs designed around the share-price movements of South Korea’s major semiconductor names, Samsung Electronics and SK hynix. Leveraged ETFs seek to magnify moves in the underlying asset, while inverse ETFs target performance in the opposite direction. As multiple asset managers launch products tied to the same underlying stocks, fee competition is becoming intense. After listing, investors will be able to access these strategies through ETFs rather than individual shares. Source: mk.co.kr."
-      },
-      "ja": {
-        "title": "サムスン電子・SKハイニックス単一銘柄レバレッジETF14本、27日上場へ",
-        "excerpt": "サムスン電子とSKハイニックスを原資産とする単一銘柄レバレッジETF14本とインバースETF2本が開示を終え、今月27日の上場を準備している。手数料競争も激しくなっている。",
-        "body": "サムスン電子とSKハイニックスを原資産とする単一銘柄レバレッジETF14本が、今月27日の上場を控えて準備を進めている。原文によると、関連するインバースETF2本も開示手続きを終えた。これらの商品は、韓国を代表する半導体銘柄であるサムスン電子とSKハイニックスの株価変動を基に設計された単一銘柄型ETFだ。レバレッジ商品は原資産の変動幅を拡大して追随し、インバース商品は反対方向の成果を狙う。複数の運用会社が同じ原資産を巡って商品を投入するため、手数料競争も激しさを増している。上場後、投資家は個別株ではなくETF形式で関連戦略にアクセスできる。出典: mk.co.kr."
-      },
-      "zh": {
-        "title": "三星电子、SK海力士单一股票杠杆ETF 14只拟于27日上市",
-        "excerpt": "以三星电子和SK海力士为基础资产的14只单一股票杠杆ETF，以及2只反向ETF已完成公告程序，准备于本月27日上市，相关费率竞争也趋于激烈。",
-        "body": "以三星电子和SK海力士为基础资产的14只单一股票杠杆ETF，正准备于本月27日上市。原文称，相关2只反向ETF也已完成公告程序。这些产品是围绕韩国代表性半导体股票三星电子和SK海力士股价走势设计的单一股票型ETF。杠杆产品旨在放大跟踪基础资产的波动，反向产品则追求与基础资产相反方向的表现。随着多家资产管理公司围绕相同基础资产推出产品，费率竞争也在加剧。上市后，投资者可通过ETF形式而非直接买卖个股来接触相关策略。来源: mk.co.kr."
-      },
-      "es": {
-        "title": "ETF apalancados de Samsung Electronics y SK hynix preparan salida el día 27",
-        "excerpt": "Catorce ETF apalancados de acción única basados en Samsung Electronics y SK hynix, junto con dos ETF inversos, completaron sus comunicados y se preparan para cotizar el día 27 de este mes.",
-        "body": "Catorce ETF apalancados de acción única que usan Samsung Electronics y SK hynix como activos subyacentes se preparan para cotizar el día 27 de este mes. Según el texto original, dos ETF inversos relacionados también completaron el proceso de comunicación. Estos productos son ETF de acción única diseñados sobre los movimientos bursátiles de dos valores representativos del sector de semiconductores en Corea del Sur: Samsung Electronics y SK hynix. Los productos apalancados buscan ampliar la variación del activo subyacente, mientras que los inversos apuntan a un rendimiento en la dirección contraria. Con varias gestoras lanzando productos sobre los mismos activos, la competencia en comisiones se intensifica. Tras la cotización, los inversores podrán acceder a estas estrategias mediante ETF en lugar de acciones individuales. Fuente: mk.co.kr."
-      },
-      "pt": {
-        "title": "ETFs alavancados de Samsung Electronics e SK hynix miram listagem no dia 27",
-        "excerpt": "Quatorze ETFs alavancados de ação única baseados em Samsung Electronics e SK hynix, além de dois ETFs inversos, concluíram divulgações e se preparam para listar no dia 27 deste mês.",
-        "body": "Quatorze ETFs alavancados de ação única que têm Samsung Electronics e SK hynix como ativos subjacentes se preparam para listar no dia 27 deste mês. Segundo o texto original, dois ETFs inversos relacionados também concluíram o processo de divulgação. Os produtos são ETFs de ação única desenhados com base nos movimentos das ações de Samsung Electronics e SK hynix, nomes representativos do setor de semicondutores da Coreia do Sul. Os produtos alavancados buscam ampliar a variação do ativo subjacente, enquanto os inversos miram desempenho na direção oposta. Com várias gestoras lançando produtos sobre os mesmos ativos, a competição por taxas fica mais acirrada. Após a listagem, investidores poderão acessar essas estratégias por meio de ETFs, em vez de ações individuais. Fonte: mk.co.kr."
-      },
-      "de": {
-        "title": "Samsung-Electronics- und SK-hynix-Einzelaktien-Hebel-ETFs vor Listing am 27.",
-        "excerpt": "Vierzehn Einzelaktien-Hebel-ETFs auf Samsung Electronics und SK hynix sowie zwei inverse ETFs haben die Offenlegung abgeschlossen und bereiten ihre Notierung am 27. dieses Monats vor.",
-        "body": "Vierzehn Einzelaktien-Hebel-ETFs mit Samsung Electronics und SK hynix als Basiswerten bereiten sich auf eine Notierung am 27. dieses Monats vor. Dem Originalbericht zufolge haben auch zwei entsprechende inverse ETFs das Offenlegungsverfahren abgeschlossen. Die Produkte sind Einzelaktien-ETFs, die auf den Kursbewegungen der südkoreanischen Halbleiterwerte Samsung Electronics und SK hynix basieren. Hebelprodukte zielen darauf ab, Bewegungen des Basiswerts verstärkt abzubilden, während inverse Produkte eine Wertentwicklung in die Gegenrichtung anstreben. Da mehrere Vermögensverwalter Produkte auf dieselben Basiswerte auflegen, verschärft sich der Gebührenwettbewerb. Nach der Notierung können Anleger diese Strategien über ETFs statt über einzelne Aktien nutzen. Quelle: mk.co.kr."
-      },
-      "fr": {
-        "title": "ETF à effet de levier sur Samsung Electronics et SK hynix prêts pour le 27",
-        "excerpt": "Quatorze ETF à effet de levier sur action unique adossés à Samsung Electronics et SK hynix, ainsi que deux ETF inverses, ont finalisé leurs déclarations avant une cotation prévue le 27 de ce mois.",
-        "body": "Quatorze ETF à effet de levier sur action unique ayant Samsung Electronics et SK hynix comme actifs sous-jacents se préparent à une cotation le 27 de ce mois. Selon le texte original, deux ETF inverses liés ont également achevé leurs procédures de déclaration. Ces produits sont des ETF sur action unique conçus autour des mouvements de cours de Samsung Electronics et SK hynix, deux valeurs sud-coréennes majeures des semi-conducteurs. Les produits à effet de levier cherchent à amplifier les variations de l’actif sous-jacent, tandis que les produits inverses visent une performance en sens opposé. Comme plusieurs sociétés de gestion lancent des produits liés aux mêmes sous-jacents, la concurrence sur les frais s’intensifie. Après la cotation, les investisseurs pourront accéder à ces stratégies via des ETF plutôt qu’au moyen d’actions individuelles. Source: mk.co.kr."
-      },
-      "ar": {
-        "title": "صناديق رافعة على سهمي سامسونغ إلكترونيكس وSK هاينكس تستعد للإدراج في 27",
-        "excerpt": "أكملت 14 صندوق ETF رافعا على سهم واحد يستند إلى سامسونغ إلكترونيكس وSK هاينكس، إلى جانب صندوقين عكسيين، إجراءات الإفصاح استعدادا للإدراج في 27 من هذا الشهر وسط منافسة على الرسوم.",
-        "body": "تستعد 14 صندوق ETF رافعا على سهم واحد، تتخذ من سامسونغ إلكترونيكس وSK هاينكس أصلين أساسيين، للإدراج في 27 من هذا الشهر. ووفقا للنص الأصلي، أكمل صندوقا ETF عكسيان مرتبطان أيضا إجراءات الإفصاح. هذه المنتجات هي صناديق ETF لسهم واحد مصممة على أساس تحركات أسعار سهمي سامسونغ إلكترونيكس وSK هاينكس، وهما من أبرز أسهم أشباه الموصلات في كوريا الجنوبية. تسعى المنتجات الرافعة إلى تضخيم حركة الأصل الأساسي، بينما تستهدف المنتجات العكسية أداء في الاتجاه المقابل. ومع طرح عدة شركات إدارة أصول منتجات على الأصول نفسها، تشتد المنافسة على الرسوم. بعد الإدراج، سيتمكن المستثمرون من الوصول إلى هذه الاستراتيجيات عبر ETF بدلا من الأسهم الفردية. المصدر: mk.co.kr."
-      },
-      "hi": {
-        "title": "Samsung Electronics और SK hynix पर 14 सिंगल-स्टॉक लीवरेज ETF 27 को सूचीबद्ध होने की तैयारी में",
-        "excerpt": "Samsung Electronics और SK hynix को आधार परिसंपत्ति बनाने वाले 14 सिंगल-स्टॉक लीवरेज ETF और 2 इनवर्स ETF ने खुलासा प्रक्रिया पूरी कर ली है और इस महीने की 27 तारीख को सूचीबद्ध होने की तैयारी कर रहे हैं।",
-        "body": "Samsung Electronics और SK hynix को आधार परिसंपत्ति बनाने वाले 14 सिंगल-स्टॉक लीवरेज ETF इस महीने की 27 तारीख को सूचीबद्ध होने की तैयारी में हैं। मूल रिपोर्ट के अनुसार, संबंधित 2 इनवर्स ETF ने भी खुलासा प्रक्रिया पूरी कर ली है। ये उत्पाद दक्षिण कोरिया के प्रमुख सेमीकंडक्टर शेयरों Samsung Electronics और SK hynix की कीमतों की चाल पर आधारित सिंगल-स्टॉक ETF हैं। लीवरेज उत्पाद आधार परिसंपत्ति की चाल को बढ़ाकर ट्रैक करने का लक्ष्य रखते हैं, जबकि इनवर्स उत्पाद विपरीत दिशा में प्रदर्शन का लक्ष्य रखते हैं। एक ही आधार परिसंपत्तियों पर कई एसेट मैनेजर उत्पाद ला रहे हैं, इसलिए शुल्क प्रतिस्पर्धा तेज हो रही है। सूचीबद्ध होने के बाद निवेशक व्यक्तिगत शेयरों के बजाय ETF के माध्यम से इन रणनीतियों तक पहुंच सकेंगे। स्रोत: mk.co.kr."
-      },
-      "id": {
-        "title": "ETF Leveraged Saham Tunggal Samsung Electronics dan SK hynix Siap Listing 27 Ini",
-        "excerpt": "Empat belas ETF leveraged saham tunggal berbasis Samsung Electronics dan SK hynix, bersama dua ETF inverse, telah menyelesaikan pengungkapan dan bersiap listing pada tanggal 27 bulan ini.",
-        "body": "Empat belas ETF leveraged saham tunggal yang menggunakan Samsung Electronics dan SK hynix sebagai aset dasar bersiap listing pada tanggal 27 bulan ini. Menurut teks asli, dua ETF inverse terkait juga telah menyelesaikan proses pengungkapan. Produk ini adalah ETF saham tunggal yang dirancang berdasarkan pergerakan harga saham Samsung Electronics dan SK hynix, dua nama semikonduktor utama Korea Selatan. Produk leveraged berupaya memperbesar pergerakan aset dasar, sedangkan produk inverse menargetkan kinerja ke arah berlawanan. Karena beberapa manajer aset meluncurkan produk dengan aset dasar yang sama, persaingan biaya menjadi semakin ketat. Setelah listing, investor dapat mengakses strategi terkait melalui ETF, bukan langsung melalui saham individual. Sumber: mk.co.kr."
-      }
-    }
-  },
-  {
-    "id": "1f0b295672f1",
-    "slug": "늙그막에-용돈-써야할텐데퇴직연금-수급자-10명-중-8명-한방에-수령-223351",
-    "channelId": "ETF",
-    "category": "etf",
-    "publishedAt": "2026-05-14T08:19:22.162Z",
-    "updatedAt": "2026-05-14T08:19:22.162Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/stock/12047743",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12047743",
-    "titleFingerprint": "c079e3f7d9422563f3369cf8d9610bcc7ffe7f83",
-    "dedupKeys": [
-      "1f0b295672f1d03fcf9af2a78cfa3fe29ec6b68d",
-      "c079e3f7d9422563f3369cf8d9610bcc7ffe7f83",
-      "11623667fc84aef31c1a3a5dd36e77f073c30047"
-    ],
-    "imageUrl": "/images/articles/1f0b295672f1.jpg",
-    "i18n": {
-      "ko": {
-        "title": "퇴직연금 수급자 84%가 일시금 선택…노후소득 안전망 논의 본격화",
-        "excerpt": "고용부와 금감원이 제도개선 세미나를 열고 지난해 퇴직연금 수급 개시자 60만명 중 84%가 일시금을 선택한 현황과 개선 방향을 논의했다.",
-        "body": "고용노동부와 금융감독원은 퇴직연금 제도개선 세미나에서 지난해 퇴직연금 수급을 시작한 약 60만명 가운데 84%가 연금이 아닌 일시금으로 수령한 현황을 공유했다. 연금 수령을 선택한 경우에도 10년 이하 단기 수령 비중이 82%에 달해, 퇴직연금이 노후소득으로 장기간 활용되는 데 한계가 있다는 점이 드러났다. 세미나에서는 종신연금과 장기연금 상품 확대 등 수급 방식 개선 방안이 논의됐다. 일시금 선호가 높게 유지될 경우 퇴직연금의 노후 보장 기능이 약해질 수 있어 제도 보완 필요성이 제기된다. 출처: mk.co.kr."
-      },
-      "en": {
-        "title": "Retirement Pension Lump-Sum Choice Hits 84%, Raising Old-Age Income Concerns",
-        "excerpt": "At a reform seminar, Korea’s labor ministry and financial regulator said 84% of 600,000 new retirement pension recipients last year chose lump-sum payments.",
-        "body": "Korea’s Ministry of Employment and Labor and the Financial Supervisory Service shared at a retirement pension reform seminar that 84% of about 600,000 people who began receiving retirement pensions last year took the money as a lump sum instead of as a pension. Even among those who chose pension payments, 82% opted for short payout periods of 10 years or less, showing limits in using retirement pensions as long-term old-age income. The seminar discussed measures such as expanding lifetime annuity and long-term pension products. If the preference for lump sums remains high, the retirement pension system’s role in supporting old-age security could weaken, highlighting the need for institutional improvements. Source: mk.co.kr."
-      },
-      "ja": {
-        "title": "退職年金受給者の84％が一時金選択、老後所得の機能に課題",
-        "excerpt": "雇用労働部と金融監督院は制度改善セミナーで、昨年の退職年金受給開始者60万人のうち84％が一時金を選んだ実態を議論した。",
-        "body": "韓国の雇用労働部と金融監督院は退職年金制度改善セミナーで、昨年退職年金の受給を始めた約60万人のうち84％が年金ではなく一時金で受け取った状況を共有した。年金受給を選んだ場合でも、10年以下の短期受給が82％に達し、退職年金が老後所得として長期的に活用されるには限界があることが示された。セミナーでは終身年金や長期年金商品の拡大など、受給方式の改善策が議論された。一時金志向が高いまま続けば、退職年金の老後保障機能が弱まる可能性があり、制度補完の必要性が提起されている。出典: mk.co.kr."
-      },
-      "zh": {
-        "title": "退休金领取者84%选择一次性领取，养老收入保障引发讨论",
-        "excerpt": "韩国雇佣劳动部和金融监督院在制度改善研讨会上表示，去年60万名新开始领取退休金者中84%选择一次性领取。",
-        "body": "韩国雇佣劳动部和金融监督院在退休金制度改善研讨会上表示，去年开始领取退休金的约60万人中，84%没有选择按年金领取，而是一次性领取。即便选择年金方式，10年以下短期领取的比例也达到82%，显示退休金作为长期养老收入来源仍存在局限。研讨会上讨论了扩大终身年金和长期年金产品等改善领取方式的方案。如果一次性领取偏好持续维持高位，退休金制度的养老保障功能可能减弱，因此有必要完善相关制度。来源: mk.co.kr."
-      },
-      "es": {
-        "title": "El 84% cobra la pensión de retiro en pago único y reabre el debate previsional",
-        "excerpt": "El Ministerio de Trabajo y el regulador financiero de Corea dijeron en un seminario que el 84% de 600.000 nuevos beneficiarios de retiro cobró en suma única.",
-        "body": "El Ministerio de Empleo y Trabajo de Corea y el Servicio de Supervisión Financiera informaron en un seminario sobre mejora del sistema de pensiones de retiro que el 84% de unas 600.000 personas que comenzaron a recibir beneficios el año pasado eligió un pago único en lugar de una pensión periódica. Incluso entre quienes optaron por una pensión, el 82% eligió un período corto de 10 años o menos, lo que muestra límites para usar estos fondos como ingreso de vejez a largo plazo. En el seminario se discutieron medidas como ampliar productos de renta vitalicia y pensiones de largo plazo. Si la preferencia por el pago único sigue siendo alta, podría debilitarse la función de protección para la vejez. Fuente: mk.co.kr."
-      },
-      "pt": {
-        "title": "84% recebem previdência de aposentadoria em parcela única, acendendo alerta",
-        "excerpt": "O Ministério do Trabalho e o regulador financeiro da Coreia disseram em seminário que 84% de 600 mil novos beneficiários no ano passado optaram por saque único.",
-        "body": "O Ministério do Emprego e Trabalho da Coreia e o Serviço de Supervisão Financeira informaram, em seminário sobre melhoria do sistema de previdência de aposentadoria, que 84% de cerca de 600 mil pessoas que começaram a receber benefícios no ano passado escolheram o pagamento em parcela única, e não em forma de pensão. Mesmo entre os que optaram por pensão, 82% escolheram recebimento de curto prazo, de 10 anos ou menos, revelando limites para o uso do benefício como renda de velhice de longo prazo. O seminário discutiu ampliar produtos de renda vitalícia e pensões longas. A forte preferência por saque único levanta a necessidade de ajustes no sistema. Fonte: mk.co.kr."
-      },
-      "de": {
-        "title": "84% der Betriebsrentner wählen Einmalzahlung, Debatte über Alterseinkommen wächst",
-        "excerpt": "Koreas Arbeitsministerium und Finanzaufsicht teilten bei einem Reformseminar mit, dass 84% von 600.000 neuen Rentenbeziehern 2025 eine Einmalzahlung wählten.",
-        "body": "Koreas Ministerium für Beschäftigung und Arbeit sowie die Finanzaufsicht erklärten bei einem Seminar zur Verbesserung des Betriebsrentensystems, dass 84% der rund 600.000 Personen, die im vergangenen Jahr erstmals Leistungen bezogen, eine Einmalzahlung statt laufender Rentenzahlungen wählten. Selbst unter denjenigen, die sich für Rentenzahlungen entschieden, entfielen 82% auf kurze Bezugszeiträume von höchstens 10 Jahren. Damit zeigen sich Grenzen bei der Nutzung der Betriebsrente als langfristiges Alterseinkommen. Diskutiert wurden unter anderem mehr lebenslange Renten und langfristige Rentenprodukte. Eine anhaltend hohe Einmalzahlungsquote könnte die Vorsorgefunktion schwächen. Quelle: mk.co.kr."
-      },
-      "fr": {
-        "title": "84% des bénéficiaires de retraite choisissent le capital, enjeu pour les revenus âgés",
-        "excerpt": "Le ministère coréen du Travail et le régulateur financier ont indiqué qu’en 2025, 84% des 600.000 nouveaux bénéficiaires de retraite ont choisi un versement unique.",
-        "body": "Le ministère coréen de l’Emploi et du Travail et le Service de supervision financière ont indiqué, lors d’un séminaire sur l’amélioration du système de retraite d’entreprise, que 84% des quelque 600.000 personnes ayant commencé à percevoir leur retraite l’an dernier ont choisi un versement en capital plutôt qu’une rente. Même parmi ceux qui ont opté pour une rente, 82% ont choisi une durée courte de 10 ans ou moins, ce qui montre les limites de ce dispositif comme revenu de vieillesse de long terme. Le séminaire a abordé l’élargissement des rentes viagères et des produits de retraite longue durée. Cette préférence pour le capital souligne un besoin d’ajustement institutionnel. Source: mk.co.kr."
-      },
-      "ar": {
-        "title": "84% من متلقي معاشات التقاعد يختارون الدفعة الواحدة وسط نقاش إصلاحي",
-        "excerpt": "قالت وزارة العمل الكورية وهيئة الرقابة المالية في ندوة إصلاحية إن 84% من 600 ألف شخص بدأوا تلقي معاشات التقاعد العام الماضي اختاروا السحب دفعة واحدة.",
-        "body": "أعلنت وزارة التوظيف والعمل الكورية وهيئة الرقابة المالية، خلال ندوة لتحسين نظام معاشات التقاعد، أن 84% من نحو 600 ألف شخص بدأوا تلقي مستحقات التقاعد في العام الماضي حصلوا عليها دفعة واحدة بدلا من معاش دوري. وحتى بين من اختاروا تلقيها كمعاش، بلغت نسبة من حددوا فترة قصيرة لا تتجاوز 10 سنوات 82%، ما يكشف محدودية استخدام معاشات التقاعد كمصدر دخل طويل الأجل في الشيخوخة. وناقشت الندوة توسيع منتجات المعاش مدى الحياة والمعاشات طويلة الأجل. استمرار تفضيل الدفعة الواحدة قد يضعف وظيفة النظام في تأمين دخل ما بعد التقاعد. المصدر: mk.co.kr."
-      },
-      "hi": {
-        "title": "सेवानिवृत्ति पेंशन में 84% ने एकमुश्त भुगतान चुना, बुढ़ापे की आय पर चिंता",
-        "excerpt": "कोरिया के श्रम मंत्रालय और वित्तीय पर्यवेक्षक ने सुधार सेमिनार में बताया कि पिछले साल 6 लाख नए पेंशन प्राप्तकर्ताओं में 84% ने एकमुश्त भुगतान चुना।",
-        "body": "कोरिया के रोजगार और श्रम मंत्रालय तथा वित्तीय पर्यवेक्षण सेवा ने सेवानिवृत्ति पेंशन व्यवस्था सुधार सेमिनार में बताया कि पिछले साल पेंशन लेना शुरू करने वाले करीब 6 लाख लोगों में 84% ने नियमित पेंशन के बजाय एकमुश्त भुगतान लिया। जिन लोगों ने पेंशन भुगतान चुना, उनमें भी 82% ने 10 वर्ष या उससे कम की अल्पकालिक अवधि चुनी, जिससे यह सीमा सामने आई कि सेवानिवृत्ति पेंशन को बुढ़ापे की दीर्घकालिक आय के रूप में पर्याप्त रूप से इस्तेमाल नहीं किया जा रहा। सेमिनार में आजीवन पेंशन और लंबी अवधि के पेंशन उत्पादों के विस्तार जैसे उपायों पर चर्चा हुई। एकमुश्त भुगतान की ऊंची पसंद जारी रहने पर वृद्धावस्था सुरक्षा की भूमिका कमजोर हो सकती है। स्रोत: mk.co.kr."
-      },
-      "id": {
-        "title": "84% Penerima Dana Pensiun Pilih Pembayaran Sekaligus, Reformasi Dibahas",
-        "excerpt": "Kementerian Tenaga Kerja dan regulator keuangan Korea dalam seminar reformasi menyebut 84% dari 600.000 penerima pensiun baru tahun lalu memilih pencairan sekaligus.",
-        "body": "Kementerian Ketenagakerjaan dan Tenaga Kerja Korea serta Financial Supervisory Service menyampaikan dalam seminar perbaikan sistem dana pensiun bahwa 84% dari sekitar 600.000 orang yang mulai menerima manfaat pensiun tahun lalu memilih pembayaran sekaligus, bukan pembayaran berkala. Bahkan di antara mereka yang memilih skema pensiun, 82% memilih periode penerimaan jangka pendek 10 tahun atau kurang, menunjukkan keterbatasan dana pensiun sebagai sumber pendapatan hari tua jangka panjang. Seminar itu membahas perluasan produk anuitas seumur hidup dan pensiun jangka panjang. Jika preferensi pencairan sekaligus tetap tinggi, fungsi perlindungan hari tua dapat melemah. Sumber: mk.co.kr."
-      }
-    }
-  },
-  {
-    "id": "9c2de97a80e1",
-    "slug": "美주식분석-ai모델-개발한-고3-투자고수-851659",
-    "channelId": "ETF",
-    "category": "etf",
-    "publishedAt": "2026-05-14T08:18:20.215Z",
-    "updatedAt": "2026-05-14T08:18:20.216Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/stock/12047759",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12047759",
-    "titleFingerprint": "afa26278111774be161ca92ba27154890747648f",
-    "dedupKeys": [
-      "9c2de97a80e134698ab1f6e63fb40332f29701b2",
-      "afa26278111774be161ca92ba27154890747648f",
-      "9879d2bebc143282d1596c06a3582d0ef5c3d44c"
-    ],
-    "imageUrl": "/images/articles/9c2de97a80e1.jpg",
-    "i18n": {
-      "ko": {
-        "title": "미국 주식 분석 AI모델 개발한 고3 투자고수, 개인투자자 정보 활용 돕는다",
-        "excerpt": "mk.co.kr에 따르면 한 고3 투자자가 미국 주식 분석 AI모델을 개발했다. 투자 초기에 겪은 정보 탐색과 판단의 어려움을 바탕으로 개인투자자의 활용성을 높이는 데 초점을 맞췄다.",
-        "body": "고등학교 3학년 투자자가 미국 주식 분석을 위한 AI모델을 개발했다고 mk.co.kr이 보도했다. 그는 처음 주식 투자를 시작했을 때 수많은 정보 속에서 어떤 정보를 어디서 찾아야 하는지, 이를 어떻게 투자 판단과 연결해 활용해야 하는지 몰랐다고 설명했다. 이번 모델 개발은 이 같은 개인적 경험에서 출발했다. 배경에는 개인투자자가 방대한 시장 정보를 스스로 선별하고 해석해야 하는 현실이 있다. 기사에 제시된 핵심은 전문 투자자가 아니어도 필요한 정보를 더 쉽게 찾고 판단에 활용할 수 있도록 돕는 데 있다. 향후 이 모델은 개인투자자의 미국 주식 분석 접근성을 높이는 사례로 주목된다. 출처: mk.co.kr."
-      },
-      "en": {
-        "title": "High School Senior Builds AI Model for U.S. Stock Analysis to Help Retail Investors",
-        "excerpt": "According to mk.co.kr, a high school senior investor developed an AI model for U.S. stock analysis, drawing on early difficulties in finding information and applying it to investment decisions.",
-        "body": "A high school senior investor has developed an AI model for analyzing U.S. stocks, mk.co.kr reported. The student said that when first starting stock investing, it was difficult to know what information to look for, where to find it, and how to connect it to investment decisions. The model was created from that personal experience. The backdrop is a market environment where retail investors must sort through and interpret large volumes of information on their own. The article’s core point is that the model aims to help non-professional investors find relevant information more easily and use it in their judgment. It is drawing attention as an example of improving access to U.S. stock analysis for individual investors. Source: mk.co.kr."
-      },
-      "ja": {
-        "title": "米国株分析AIモデルを開発した高校3年生投資家、個人投資家の情報活用を支援",
-        "excerpt": "mk.co.krによると、高校3年生の投資家が米国株分析AIモデルを開発した。投資初期に経験した情報収集と判断の難しさを基に、個人投資家の活用性向上を目指す。",
-        "body": "高校3年生の投資家が、米国株を分析するためのAIモデルを開発したとmk.co.krが報じた。本人は、株式投資を始めた当初、膨大な情報の中でどの情報をどこで探し、それをどのように投資判断へ結び付けて活用すればよいのか分からなかったと説明している。今回のモデル開発は、そうした個人的な経験から出発した。背景には、個人投資家が大量の市場情報を自ら選別し解釈しなければならない現実がある。記事の要点は、専門投資家でなくても必要な情報をより容易に見つけ、判断に使えるよう支援することにある。今後、個人投資家の米国株分析へのアクセスを高める事例として注目される。出典: mk.co.kr。"
-      },
-      "zh": {
-        "title": "高中三年级投资者开发美股分析AI模型，帮助个人投资者使用信息",
-        "excerpt": "据mk.co.kr报道，一名高中三年级投资者开发了美股分析AI模型。该模型源于其投资初期在信息查找与投资判断连接上的困难，旨在提高个人投资者的可用性。",
-        "body": "据mk.co.kr报道，一名高中三年级投资者开发了用于美国股票分析的AI模型。该学生表示，自己刚开始股票投资时，面对大量信息，不知道该寻找哪些信息、在哪里寻找，也不知道如何将这些信息连接到投资判断并加以利用。此次模型开发正是源于这种个人经历。其背景是，个人投资者必须自行筛选和解读庞大的市场信息。报道的核心在于，即使不是专业投资者，也能更容易找到所需信息，并用于投资判断。该模型未来作为提升个人投资者美股分析可及性的案例受到关注。来源: mk.co.kr。"
-      },
-      "es": {
-        "title": "Estudiante de último año desarrolla un modelo de IA para analizar acciones de EE.UU.",
-        "excerpt": "Según mk.co.kr, un inversor de último año de secundaria creó un modelo de IA para analizar acciones estadounidenses, inspirado en las dificultades iniciales para encontrar información y aplicarla a decisiones de inversión.",
-        "body": "Un inversor de último año de secundaria desarrolló un modelo de IA para analizar acciones de Estados Unidos, informó mk.co.kr. El estudiante explicó que, cuando empezó a invertir en bolsa, no sabía qué información buscar entre la gran cantidad disponible, dónde encontrarla ni cómo conectarla con sus decisiones de inversión. El desarrollo del modelo partió de esa experiencia personal. El contexto es una realidad en la que los inversores particulares deben seleccionar e interpretar por sí mismos grandes volúmenes de información de mercado. El punto central del artículo es ayudar a quienes no son inversores profesionales a encontrar información necesaria con mayor facilidad y usarla en su criterio de inversión. El modelo atrae atención como ejemplo de mayor acceso al análisis de acciones estadounidenses para inversores individuales. Fuente: mk.co.kr."
-      },
-      "pt": {
-        "title": "Aluno do último ano cria modelo de IA para análise de ações dos EUA",
-        "excerpt": "Segundo o mk.co.kr, um investidor do último ano do ensino médio desenvolveu um modelo de IA para analisar ações dos EUA, com base nas dificuldades iniciais para encontrar informações e usá-las em decisões de investimento.",
-        "body": "Um investidor do último ano do ensino médio desenvolveu um modelo de IA para análise de ações dos Estados Unidos, informou o mk.co.kr. Ele explicou que, quando começou a investir em ações, não sabia quais informações procurar em meio ao grande volume disponível, onde encontrá-las nem como conectá-las às decisões de investimento. O desenvolvimento do modelo nasceu dessa experiência pessoal. O pano de fundo é a realidade em que investidores individuais precisam filtrar e interpretar, por conta própria, grandes quantidades de informações de mercado. O ponto central da reportagem é ajudar pessoas que não são investidores profissionais a encontrar informações necessárias com mais facilidade e usá-las em seu julgamento. O modelo chama atenção como exemplo de ampliação do acesso à análise de ações dos EUA para investidores individuais. Fonte: mk.co.kr."
-      },
-      "de": {
-        "title": "Abiturient entwickelt KI-Modell zur Analyse von US-Aktien für Privatanleger",
-        "excerpt": "Laut mk.co.kr hat ein Schüler im letzten Schuljahr ein KI-Modell zur Analyse von US-Aktien entwickelt. Grundlage waren eigene Anfangsschwierigkeiten beim Finden und Nutzen von Informationen für Anlageentscheidungen.",
-        "body": "Ein Schüler im letzten Schuljahr und aktiver Anleger hat ein KI-Modell zur Analyse von US-Aktien entwickelt, berichtete mk.co.kr. Er erklärte, dass er zu Beginn seiner Aktienanlage angesichts der Informationsflut nicht wusste, welche Informationen er wo finden und wie er sie mit Anlageentscheidungen verbinden sollte. Die Entwicklung des Modells ging aus dieser persönlichen Erfahrung hervor. Hintergrund ist die Realität, dass Privatanleger große Mengen an Marktdaten selbst auswählen und interpretieren müssen. Der Kern des Berichts liegt darin, auch nicht professionellen Anlegern zu helfen, notwendige Informationen leichter zu finden und für ihre Entscheidungen zu nutzen. Das Modell gilt als beachtetes Beispiel für einen besseren Zugang von Privatanlegern zur Analyse von US-Aktien. Quelle: mk.co.kr."
-      },
-      "fr": {
-        "title": "Un lycéen en terminale crée un modèle d’IA pour analyser les actions américaines",
-        "excerpt": "Selon mk.co.kr, un investisseur lycéen en dernière année a développé un modèle d’IA pour l’analyse des actions américaines, à partir de ses difficultés initiales à trouver l’information et à l’utiliser pour investir.",
-        "body": "Un investisseur en dernière année de lycée a développé un modèle d’IA destiné à l’analyse des actions américaines, a rapporté mk.co.kr. Il a expliqué qu’à ses débuts en Bourse, face à une masse d’informations, il ne savait pas quelles données chercher, où les trouver ni comment les relier à ses décisions d’investissement. Le modèle est né de cette expérience personnelle. Le contexte est celui d’un marché où les investisseurs particuliers doivent eux-mêmes trier et interpréter de nombreuses informations. Le point central de l’article est d’aider les personnes qui ne sont pas des investisseurs professionnels à trouver plus facilement les informations nécessaires et à les utiliser dans leur jugement. Ce modèle retient l’attention comme exemple d’amélioration de l’accès des particuliers à l’analyse des actions américaines. Source: mk.co.kr."
-      },
-      "ar": {
-        "title": "طالب في السنة الأخيرة يطوّر نموذج ذكاء اصطناعي لتحليل الأسهم الأمريكية",
-        "excerpt": "بحسب mk.co.kr، طوّر مستثمر في السنة الأخيرة من المرحلة الثانوية نموذج ذكاء اصطناعي لتحليل الأسهم الأمريكية، مستندًا إلى صعوباته الأولى في العثور على المعلومات وربطها بقرارات الاستثمار.",
-        "body": "أفاد موقع mk.co.kr بأن طالبًا في السنة الأخيرة من المرحلة الثانوية، وهو مستثمر، طوّر نموذج ذكاء اصطناعي لتحليل الأسهم الأمريكية. وقال إنه عندما بدأ الاستثمار في الأسهم لم يكن يعرف، وسط فيض كبير من المعلومات، أي معلومات يبحث عنها، وأين يجدها، وكيف يربطها بقرارات الاستثمار ويستخدمها. انطلق تطوير النموذج من هذه التجربة الشخصية. وتكمن الخلفية في واقع يضطر فيه المستثمرون الأفراد إلى فرز كميات كبيرة من معلومات السوق وتفسيرها بأنفسهم. وتركز الفكرة الأساسية في التقرير على مساعدة غير المتخصصين في الاستثمار على العثور بسهولة أكبر على المعلومات اللازمة واستخدامها في الحكم الاستثماري. ويحظى النموذج باهتمام كحالة تعزز وصول المستثمرين الأفراد إلى تحليل الأسهم الأمريكية. المصدر: mk.co.kr."
-      },
-      "hi": {
-        "title": "अमेरिकी शेयर विश्लेषण के लिए हाई स्कूल वरिष्ठ छात्र ने बनाया AI मॉडल",
-        "excerpt": "mk.co.kr के अनुसार, हाई स्कूल के अंतिम वर्ष के एक निवेशक ने अमेरिकी शेयर विश्लेषण के लिए AI मॉडल विकसित किया। यह मॉडल शुरुआती निवेश अनुभव में सूचना खोजने और निर्णय से जोड़ने की कठिनाइयों पर आधारित है।",
-        "body": "mk.co.kr ने बताया कि हाई स्कूल के अंतिम वर्ष के एक निवेशक ने अमेरिकी शेयरों के विश्लेषण के लिए AI मॉडल विकसित किया है। छात्र ने कहा कि जब उसने पहली बार शेयर निवेश शुरू किया, तो सूचनाओं की भारी भीड़ में उसे यह नहीं पता था कि कौन सी जानकारी खोजनी है, उसे कहाँ ढूंढना है और उसे निवेश निर्णय से कैसे जोड़कर उपयोग करना है। यह मॉडल उसी व्यक्तिगत अनुभव से शुरू हुआ। पृष्ठभूमि में वह वास्तविकता है जिसमें व्यक्तिगत निवेशकों को बाजार की बड़ी मात्रा में जानकारी खुद छांटनी और समझनी पड़ती है। लेख का मुख्य बिंदु यह है कि गैर-पेशेवर निवेशक भी आवश्यक जानकारी अधिक आसानी से खोज सकें और उसे निर्णय में उपयोग कर सकें। यह मॉडल व्यक्तिगत निवेशकों के लिए अमेरिकी शेयर विश्लेषण की पहुंच बढ़ाने वाले उदाहरण के रूप में ध्यान आकर्षित कर रहा है। स्रोत: mk.co.kr."
-      },
-      "id": {
-        "title": "Siswa Kelas Akhir Kembangkan Model AI Analisis Saham AS untuk Investor Ritel",
-        "excerpt": "Menurut mk.co.kr, seorang investor siswa kelas akhir SMA mengembangkan model AI untuk analisis saham AS, berangkat dari kesulitan awal mencari informasi dan menghubungkannya dengan keputusan investasi.",
-        "body": "Seorang investor siswa kelas akhir SMA mengembangkan model AI untuk menganalisis saham Amerika Serikat, lapor mk.co.kr. Ia menjelaskan bahwa saat pertama mulai berinvestasi saham, ia tidak tahu informasi apa yang harus dicari di tengah banjir data, di mana mencarinya, dan bagaimana menghubungkannya dengan keputusan investasi. Pengembangan model ini berangkat dari pengalaman pribadi tersebut. Latar belakangnya adalah kenyataan bahwa investor individu harus menyaring dan menafsirkan sendiri banyak informasi pasar. Inti artikel tersebut adalah membantu orang yang bukan investor profesional agar lebih mudah menemukan informasi yang dibutuhkan dan menggunakannya dalam penilaian investasi. Model ini menarik perhatian sebagai contoh peningkatan akses analisis saham AS bagi investor individu. Sumber: mk.co.kr."
       }
     }
   }
