@@ -1,0 +1,75 @@
+{
+  "id": "ab8ab9b329b9",
+  "slug": "美-예탁기관-dtcc-토큰화로-repo-효율-극대화-587583",
+  "channelId": "ETF",
+  "category": "etf",
+  "publishedAt": "2026-05-14T04:43:51.241Z",
+  "updatedAt": "2026-05-14T04:43:51.241Z",
+  "sourceName": "mk.co.kr",
+  "sourceUrl": "https://www.mk.co.kr/news/stock/12047458",
+  "canonicalUrl": "https://www.mk.co.kr/news/stock/12047458",
+  "titleFingerprint": "fb0cb96a320f06bd68e2fec2db5d4a7eb5567c61",
+  "dedupKeys": [
+    "ab8ab9b329b9b191f90247dd857a2e9d0007b96d",
+    "fb0cb96a320f06bd68e2fec2db5d4a7eb5567c61",
+    "e7dd1abcbd285765f63e408619c74dd49af0431b"
+  ],
+  "imageUrl": "/images/articles/ab8ab9b329b9.png",
+  "i18n": {
+    "ko": {
+      "title": "DTCC 토큰화 레포 백서 발간, 장중 담보 조달 효율 개선 주목",
+      "excerpt": "미국 예탁결제기관 DTCC가 피나듐과 백서를 내고 분산원장 기술 기반 토큰화가 장중 레포 활용을 높여 일일 담보 조달 비용을 최대 절반 줄일 수 있다고 밝혔다.",
+      "body": "세계 최대 예탁결제기관으로 알려진 미국 중앙예탁청산기관 DTCC가 피나듐과 함께 토큰화 관련 백서를 발간했다. 백서는 분산원장 기술을 활용하면 장중 레포 활용도를 높이고 담보 운용 효율을 개선할 수 있다고 설명했다. 특히 일일 담보 조달 비용을 최대 절반까지 절감할 수 있다는 기대가 제시됐다. 레포 시장에서 담보 이동과 활용 속도는 비용과 유동성 관리에 직접 연결되는 요소다. DTCC의 이번 백서는 토큰화가 예탁결제 인프라와 단기자금 시장 운영에서 효율성을 높일 수 있는 수단으로 검토되고 있음을 보여준다. 출처: mk.co.kr"
+    },
+    "en": {
+      "title": "DTCC Tokenized Repo White Paper Highlights Intraday Collateral Efficiency",
+      "excerpt": "U.S. depository and clearing institution DTCC, with Finadium, said in a white paper that tokenization using distributed ledger technology could boost intraday repo use and cut daily collateral funding costs by up to half.",
+      "body": "DTCC, the U.S. central depository and clearing institution known as one of the world’s largest settlement bodies, has published a white paper with Finadium on tokenization. The paper says distributed ledger technology could maximize intraday repo use and improve collateral management efficiency. It also presents an expectation that daily collateral funding costs could be reduced by as much as half. In the repo market, the speed and availability of collateral movement are directly tied to funding costs and liquidity management. DTCC’s white paper shows tokenization being examined as a tool to raise efficiency in depository infrastructure and short-term funding market operations. Source: mk.co.kr"
+    },
+    "ja": {
+      "title": "DTCCのトークン化レポ白書、日中担保調達の効率改善に注目",
+      "excerpt": "米国の預託決済機関DTCCはフィナディウムと白書を発表し、分散台帳技術を使うトークン化が日中レポ活用を高め、日々の担保調達コストを最大半分削減し得ると示した。",
+      "body": "世界最大級の預託決済機関として知られる米国の中央預託清算機関DTCCは、フィナディウムと共同でトークン化に関する白書を発表した。白書は、分散台帳技術を活用すれば日中レポの利用度を高め、担保運用の効率を改善できると説明している。特に、日々の担保調達コストを最大で半分まで削減できるとの期待が示された。レポ市場では、担保の移動と活用の速さがコストや流動性管理に直接関わる。今回の白書は、トークン化が預託決済インフラと短期資金市場運営の効率向上策として検討されていることを示している。出典: mk.co.kr"
+    },
+    "zh": {
+      "title": "DTCC发布代币化回购白皮书，聚焦日内抵押品效率提升",
+      "excerpt": "美国存管清算机构DTCC与Finadium发布白皮书称，利用分布式账本技术的代币化可提升日内回购使用效率，并有望将每日抵押品融资成本最多削减一半。",
+      "body": "被称为全球最大存管清算机构之一的美国中央存管清算机构DTCC，与Finadium共同发布了有关代币化的白皮书。白皮书指出，运用分布式账本技术可提高日内回购的使用程度，并改善抵押品管理效率。文件还提出，每日抵押品融资成本最多可降低一半的预期。在回购市场中，抵押品转移和使用速度与融资成本、流动性管理直接相关。DTCC此次白皮书显示，代币化正被视为提升存管清算基础设施和短期资金市场运行效率的一种工具。来源: mk.co.kr"
+    },
+    "es": {
+      "title": "DTCC destaca la tokenización del repo para mejorar la eficiencia del colateral",
+      "excerpt": "DTCC, entidad estadounidense de depósito y compensación, publicó con Finadium un libro blanco que señala que la tokenización con tecnología de registro distribuido puede elevar el uso intradía del repo y reducir hasta la mitad los costos diarios de financiación con colateral.",
+      "body": "DTCC, entidad estadounidense de depósito y compensación conocida como una de las mayores infraestructuras de liquidación del mundo, publicó junto con Finadium un libro blanco sobre tokenización. El documento indica que la tecnología de registro distribuido puede maximizar el uso intradía del repo y mejorar la eficiencia en la gestión del colateral. También plantea la expectativa de reducir hasta en la mitad los costos diarios de financiación con colateral. En el mercado repo, la velocidad de movimiento y utilización del colateral está directamente vinculada con los costos y la gestión de liquidez. El libro blanco de DTCC muestra que la tokenización se examina como una herramienta para elevar la eficiencia de la infraestructura de depósito y liquidación y del mercado de financiación a corto plazo. Fuente: mk.co.kr"
+    },
+    "pt": {
+      "title": "DTCC aponta tokenização de repo como avanço na eficiência do colateral",
+      "excerpt": "A DTCC, depositária e câmara de compensação dos EUA, publicou com a Finadium um white paper indicando que a tokenização com tecnologia de registro distribuído pode ampliar o uso intradiário de repos e cortar em até metade o custo diário de financiamento com colateral.",
+      "body": "A DTCC, instituição central de depósito e compensação dos Estados Unidos conhecida como uma das maiores do mundo, publicou com a Finadium um white paper sobre tokenização. O documento afirma que a tecnologia de registro distribuído pode maximizar o uso intradiário de repos e melhorar a eficiência da gestão de colateral. Também apresenta a expectativa de reduzir em até metade os custos diários de financiamento com colateral. No mercado de repo, a velocidade de movimentação e utilização do colateral está diretamente ligada a custos e gestão de liquidez. O white paper da DTCC mostra que a tokenização está sendo avaliada como ferramenta para aumentar a eficiência da infraestrutura de depósito e liquidação e das operações do mercado de financiamento de curto prazo. Fonte: mk.co.kr"
+    },
+    "de": {
+      "title": "DTCC-Whitepaper zu tokenisierten Repos rückt Collateral-Effizienz in den Fokus",
+      "excerpt": "Die US-Verwahr- und Clearinginstitution DTCC hat mit Finadium ein Whitepaper veröffentlicht, wonach Tokenisierung auf Basis verteilter Ledger die Intraday-Nutzung von Repos erhöhen und tägliche Collateral-Finanzierungskosten um bis zu die Hälfte senken könnte.",
+      "body": "Die US-amerikanische Zentralverwahr- und Clearinginstitution DTCC, die als eine der größten Abwicklungsstellen der Welt gilt, hat gemeinsam mit Finadium ein Whitepaper zur Tokenisierung veröffentlicht. Darin heißt es, dass Distributed-Ledger-Technologie die Intraday-Nutzung von Repos maximieren und die Effizienz im Collateral-Management verbessern kann. Besonders hervorgehoben wird die Erwartung, tägliche Kosten der Collateral-Finanzierung um bis zu die Hälfte zu senken. Im Repo-Markt sind Geschwindigkeit und Verfügbarkeit von Collateral-Bewegungen direkt mit Kosten und Liquiditätssteuerung verbunden. Das DTCC-Whitepaper zeigt, dass Tokenisierung als Mittel zur Effizienzsteigerung in Verwahr-, Abwicklungs- und kurzfristigen Finanzierungsmärkten geprüft wird. Quelle: mk.co.kr"
+    },
+    "fr": {
+      "title": "DTCC met en avant la tokenisation du repo pour optimiser le collatéral",
+      "excerpt": "La DTCC, institution américaine de dépôt et de compensation, a publié avec Finadium un livre blanc indiquant que la tokenisation via registre distribué peut accroître l’usage intrajournalier du repo et réduire jusqu’à moitié les coûts quotidiens de financement du collatéral.",
+      "body": "La DTCC, institution américaine centrale de dépôt et de compensation connue comme l’un des plus grands organismes de règlement au monde, a publié avec Finadium un livre blanc sur la tokenisation. Le document explique que la technologie de registre distribué peut maximiser l’utilisation intrajournalière du repo et améliorer l’efficacité de la gestion du collatéral. Il présente aussi l’attente d’une réduction pouvant atteindre la moitié des coûts quotidiens de financement du collatéral. Sur le marché du repo, la vitesse de transfert et d’utilisation du collatéral est directement liée aux coûts et à la gestion de la liquidité. Le livre blanc de la DTCC montre que la tokenisation est étudiée comme un outil d’efficacité pour les infrastructures de dépôt-règlement et les marchés de financement à court terme. Source: mk.co.kr"
+    },
+    "ar": {
+      "title": "DTCC تبرز دور ترميز الريبو في رفع كفاءة الضمانات خلال اليوم",
+      "excerpt": "أصدرت DTCC الأمريكية، وهي مؤسسة إيداع وتسوية، ورقة بيضاء مع Finadium قالت إن الترميز باستخدام تقنية السجل الموزع قد يعزز استخدام الريبو خلال اليوم ويخفض تكلفة تمويل الضمانات اليومية إلى النصف كحد أقصى.",
+      "body": "أصدرت DTCC، مؤسسة الإيداع والتسوية المركزية الأمريكية المعروفة بأنها من أكبر مؤسسات التسوية في العالم، ورقة بيضاء مع Finadium حول الترميز. وتوضح الورقة أن استخدام تقنية السجل الموزع يمكن أن يعظم الاستفادة من الريبو خلال اليوم ويحسن كفاءة إدارة الضمانات. كما طرحت توقعا بإمكان خفض تكاليف تمويل الضمانات اليومية بما يصل إلى النصف. في سوق الريبو، ترتبط سرعة نقل الضمانات واستخدامها مباشرة بالتكاليف وإدارة السيولة. وتظهر ورقة DTCC أن الترميز يجري بحثه كأداة لرفع كفاءة بنية الإيداع والتسوية وعمليات سوق التمويل قصير الأجل. المصدر: mk.co.kr"
+    },
+    "hi": {
+      "title": "DTCC ने टोकनाइज्ड रेपो श्वेतपत्र में इंट्राडे कोलैटरल दक्षता पर जोर दिया",
+      "excerpt": "अमेरिकी डिपॉजिटरी और क्लियरिंग संस्था DTCC ने Finadium के साथ श्वेतपत्र जारी कर कहा कि वितरित लेजर तकनीक आधारित टोकनाइजेशन इंट्राडे रेपो उपयोग बढ़ाकर दैनिक कोलैटरल फंडिंग लागत को अधिकतम आधा कर सकता है।",
+      "body": "दुनिया की सबसे बड़ी डिपॉजिटरी और क्लियरिंग संस्थाओं में गिनी जाने वाली अमेरिकी केंद्रीय डिपॉजिटरी क्लियरिंग संस्था DTCC ने Finadium के साथ टोकनाइजेशन पर श्वेतपत्र जारी किया है। श्वेतपत्र के अनुसार, वितरित लेजर तकनीक का उपयोग इंट्राडे रेपो के इस्तेमाल को अधिकतम कर सकता है और कोलैटरल प्रबंधन की दक्षता सुधार सकता है। इसमें दैनिक कोलैटरल फंडिंग लागत को अधिकतम आधा घटाने की संभावना भी रखी गई है। रेपो बाजार में कोलैटरल की आवाजाही और उपयोग की गति लागत तथा तरलता प्रबंधन से सीधे जुड़ी होती है। DTCC का यह श्वेतपत्र दिखाता है कि टोकनाइजेशन को डिपॉजिटरी-सेटलमेंट ढांचे और अल्पकालिक फंडिंग बाजार संचालन की दक्षता बढ़ाने के साधन के रूप में देखा जा रहा है। स्रोत: mk.co.kr"
+    },
+    "id": {
+      "title": "DTCC Soroti Tokenisasi Repo untuk Tingkatkan Efisiensi Agunan Intrahari",
+      "excerpt": "DTCC, lembaga penyimpanan dan kliring AS, menerbitkan white paper bersama Finadium yang menyebut tokenisasi berbasis distributed ledger dapat memaksimalkan penggunaan repo intrahari dan memangkas biaya pendanaan agunan harian hingga setengahnya.",
+      "body": "DTCC, lembaga penyimpanan dan kliring sentral AS yang dikenal sebagai salah satu institusi penyelesaian terbesar di dunia, menerbitkan white paper tentang tokenisasi bersama Finadium. Dokumen itu menyebut teknologi distributed ledger dapat memaksimalkan penggunaan repo intrahari dan meningkatkan efisiensi pengelolaan agunan. White paper tersebut juga menyampaikan ekspektasi bahwa biaya pendanaan agunan harian dapat dipangkas hingga setengahnya. Di pasar repo, kecepatan pemindahan dan pemanfaatan agunan terkait langsung dengan biaya serta pengelolaan likuiditas. White paper DTCC ini menunjukkan bahwa tokenisasi sedang dikaji sebagai alat untuk meningkatkan efisiensi infrastruktur penyimpanan dan penyelesaian serta operasi pasar pendanaan jangka pendek. Sumber: mk.co.kr"
+    }
+  }
+}
