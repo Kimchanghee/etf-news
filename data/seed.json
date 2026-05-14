@@ -1,5 +1,230 @@
 [
   {
+    "id": "bf76b0437c71",
+    "slug": "지금이-기회코스피에-꽂힌-홍콩-큰손들-몰려온-이유-171406",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-05-14T22:37:07.889Z",
+    "updatedAt": "2026-05-14T22:37:07.889Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/202605146591i",
+    "canonicalUrl": "https://www.hankyung.com/article/202605146591i",
+    "titleFingerprint": "c88c5cd79bcc5316615bb72667c4369d51208a38",
+    "dedupKeys": [
+      "bf76b0437c719621131ee922801d766b1786498d",
+      "c88c5cd79bcc5316615bb72667c4369d51208a38",
+      "7942dc7171b66e55cd7bb7ac3ccf5bb9f1fdcf8a"
+    ],
+    "imageUrl": "/images/articles/bf76b0437c71.jpg",
+    "i18n": {
+      "ko": {
+        "title": "코스피 투자 기회 찾는 홍콩 슈퍼리치 방한, 외국인통합계좌와 ETF 관심 커진 이유",
+        "excerpt": "홍콩 푸투증권 VIP 고객 40여 명이 14일 서울 여의도 하나증권을 찾아 코스피 투자 기회를 점검했다. 외국인통합계좌 확대와 한국 ETF 수요가 배경이다.",
+        "body": "10억달러(약 1조4800억원) 규모 자산을 굴리는 홍콩 ‘슈퍼리치’ 고객 40여 명이 14일 서울 여의도 하나증권 본사를 찾았다. 홍콩 푸투증권과 CSOP자산운용은 푸투증권 VIP 고객을 대상으로 ‘한국 리서치’를 진행했고, 이들은 이틀간 국내 주요 상장사와 릴레이 IR 미팅을 통해 코스피 투자 기회를 살필 예정이다. 배경에는 외국인투자자가 해외 금융투자회사를 통해 국내 주식을 매매·결제할 수 있는 외국인통합계좌 확대가 있다. 하나증권은 지난해 엠퍼러증권과 서비스를 시작했고 6월 푸투증권과도 선보일 예정이다. 지난해 홍콩 상장 ‘CSOP SK하이닉스 데일리 2배 레버리지 ETF’ AUM은 8조원에 육박했다. 출처: hankyung.com"
+      },
+      "en": {
+        "title": "Hong Kong Super-Rich Seek KOSPI Openings as Omnibus Accounts and ETFs Draw Attention",
+        "excerpt": "About 40 VIP clients of Hong Kong’s Futu Securities visited Hana Securities in Seoul on May 14 to review KOSPI investment opportunities, amid rising interest in omnibus accounts and Korea-linked ETFs.",
+        "body": "About 40 Hong Kong “super-rich” clients managing assets worth $1 billion, or about 1.48 trillion won, visited Hana Securities headquarters in Yeouido, Seoul, on May 14. Hong Kong’s Futu Securities and CSOP Asset Management held a “Korea Research” session for Futu VIP clients, who are set to review KOSPI opportunities through two days of IR meetings with major Korean listed companies. The backdrop is wider use of foreign omnibus accounts, which let foreign investors trade and settle Korean shares through overseas financial investment firms. Hana began the service with Emperor Securities last year and plans to launch it with Futu in June. The Hong Kong-listed CSOP SK Hynix Daily 2x Leveraged ETF had AUM nearing 8 trillion won last year. Source: hankyung.com"
+      },
+      "ja": {
+        "title": "香港富裕層がKOSPI投資機会を点検、統合口座と韓国ETFへの関心高まる",
+        "excerpt": "香港の富途証券VIP顧客約40人が5月14日、ソウル汝矣島のハナ証券を訪問し、KOSPIの投資機会を点検した。外国人統合口座と韓国ETF需要が背景にある。",
+        "body": "10億ドル、約1兆4800億ウォン規模の資産を運用する香港の「スーパーリッチ」顧客約40人が、5月14日にソウル汝矣島のハナ証券本社を訪れた。香港の富途証券とCSOPアセットマネジメントは富途証券のVIP顧客を対象に「韓国リサーチ」を実施し、参加者は2日間、韓国主要上場企業との連続IRミーティングを通じてKOSPIの投資機会を探る予定だ。背景には、外国人投資家が海外金融投資会社を通じて韓国株を売買・決済できる外国人統合口座の拡大がある。ハナ証券は昨年、エンペラー証券と同サービスを開始し、6月には富途証券とも開始する予定だ。昨年香港に上場した「CSOP SKハイニックス・デイリー2倍レバレッジETF」のAUMは8兆ウォンに迫った。出典: hankyung.com"
+      },
+      "zh": {
+        "title": "香港高净值投资者考察KOSPI机会，综合账户与韩国ETF需求升温",
+        "excerpt": "约40名香港富途证券VIP客户5月14日到访首尔汝矣岛韩亚证券，评估KOSPI投资机会；外国人综合账户扩容和韩国ETF需求是重要背景。",
+        "body": "管理约10亿美元、约1.48万亿韩元资产的40多名香港“超级富豪”客户，5月14日到访首尔汝矣岛韩亚证券总部。香港富途证券与CSOP资产管理面向富途证券VIP客户举行“韩国研究”活动，相关客户将在两天内通过与韩国主要上市公司的连续IR会议，寻找KOSPI投资机会。其背景是外国人综合账户的扩大，该服务允许外国投资者通过海外金融投资公司买卖和结算韩国股票。韩亚证券去年与英皇证券启动该服务，并计划6月与富途证券共同推出。去年在香港上市的“CSOP SK海力士每日2倍杠杆ETF”资产管理规模接近8万亿韩元。来源: hankyung.com"
+      },
+      "es": {
+        "title": "Superricos de Hong Kong miran oportunidades en el KOSPI ante cuentas ómnibus y ETF coreanos",
+        "excerpt": "Unos 40 clientes VIP de Futu Securities de Hong Kong visitaron Hana Securities en Seúl el 14 de mayo para revisar oportunidades en el KOSPI, con más interés por cuentas ómnibus y ETF coreanos.",
+        "body": "Unos 40 clientes “superricos” de Hong Kong, que gestionan activos por 1.000 millones de dólares, unos 1,48 billones de wones, visitaron el 14 de mayo la sede de Hana Securities en Yeouido, Seúl. Futu Securities de Hong Kong y CSOP Asset Management organizaron una sesión de “investigación de Corea” para clientes VIP de Futu, que durante dos días revisarán oportunidades en el KOSPI mediante reuniones de IR con grandes compañías cotizadas surcoreanas. El contexto es la expansión de las cuentas ómnibus para extranjeros, que permiten a inversores foráneos negociar y liquidar acciones coreanas a través de firmas financieras extranjeras. Hana inició el servicio con Emperor Securities el año pasado y prevé lanzarlo con Futu en junio. El ETF CSOP SK Hynix Daily 2x Leveraged, cotizado en Hong Kong, alcanzó casi 8 billones de wones en AUM el año pasado. Fuente: hankyung.com"
+      },
+      "pt": {
+        "title": "Super-ricos de Hong Kong buscam oportunidades no KOSPI com contas integradas e ETFs em foco",
+        "excerpt": "Cerca de 40 clientes VIP da Futu Securities, de Hong Kong, visitaram a Hana Securities em Seul em 14 de maio para avaliar oportunidades no KOSPI, com contas integradas e ETFs coreanos em destaque.",
+        "body": "Cerca de 40 clientes “super-ricos” de Hong Kong, que administram US$ 1 bilhão, ou cerca de 1,48 trilhão de won, visitaram em 14 de maio a sede da Hana Securities em Yeouido, Seul. A Futu Securities de Hong Kong e a CSOP Asset Management realizaram uma sessão de “pesquisa sobre a Coreia” para clientes VIP da Futu, que deverão analisar oportunidades no KOSPI durante dois dias de reuniões de RI com grandes empresas listadas na Coreia. O pano de fundo é a expansão das contas integradas para estrangeiros, que permitem a investidores de fora negociar e liquidar ações coreanas por meio de instituições financeiras no exterior. A Hana iniciou o serviço com a Emperor Securities no ano passado e planeja lançá-lo com a Futu em junho. O ETF CSOP SK Hynix Daily 2x Leveraged, listado em Hong Kong, tinha AUM perto de 8 trilhões de won no ano passado. Fonte: hankyung.com"
+      },
+      "de": {
+        "title": "Hongkonger Superreiche prüfen KOSPI-Chancen, Omnibus-Konten und Korea-ETFs im Fokus",
+        "excerpt": "Rund 40 VIP-Kunden von Futu Securities aus Hongkong besuchten am 14. Mai Hana Securities in Seoul, um KOSPI-Chancen zu prüfen. Omnibus-Konten für Ausländer und Korea-ETFs treiben das Interesse.",
+        "body": "Rund 40 Hongkonger „Superreiche“, die Vermögen von 1 Milliarde Dollar beziehungsweise etwa 1,48 Billionen Won verwalten, besuchten am 14. Mai den Hauptsitz von Hana Securities in Yeouido, Seoul. Futu Securities aus Hongkong und CSOP Asset Management veranstalteten für Futu-VIP-Kunden eine „Korea Research“-Sitzung. Die Teilnehmer wollen an zwei Tagen über IR-Termine mit großen koreanischen Börsenunternehmen KOSPI-Anlagemöglichkeiten prüfen. Hintergrund ist die Ausweitung von Omnibus-Konten für Ausländer, über die ausländische Anleger koreanische Aktien über ausländische Finanzinvestmentfirmen handeln und abwickeln können. Hana startete den Dienst im vergangenen Jahr mit Emperor Securities und will ihn im Juni mit Futu anbieten. Der in Hongkong gelistete CSOP SK Hynix Daily 2x Leveraged ETF kam im Vorjahr auf fast 8 Billionen Won AUM. Quelle: hankyung.com"
+      },
+      "fr": {
+        "title": "Les grandes fortunes de Hong Kong scrutent le KOSPI, entre comptes omnibus et ETF coréens",
+        "excerpt": "Environ 40 clients VIP de Futu Securities à Hong Kong ont visité Hana Securities à Séoul le 14 mai pour examiner les opportunités du KOSPI, dans un contexte d’intérêt pour les comptes omnibus et les ETF coréens.",
+        "body": "Environ 40 clients très fortunés de Hong Kong, gérant 1 milliard de dollars d’actifs, soit près de 1 480 milliards de wons, se sont rendus le 14 mai au siège de Hana Securities à Yeouido, Séoul. Futu Securities Hong Kong et CSOP Asset Management ont organisé une session de “recherche Corée” pour les clients VIP de Futu, qui doivent examiner pendant deux jours les opportunités du KOSPI lors de réunions d’IR avec de grandes sociétés cotées coréennes. Le contexte est l’extension des comptes omnibus pour étrangers, qui permettent aux investisseurs étrangers d’acheter, vendre et régler des actions coréennes via des sociétés financières étrangères. Hana a lancé ce service avec Emperor Securities l’an dernier et prévoit de le proposer avec Futu en juin. L’ETF CSOP SK Hynix Daily 2x Leveraged coté à Hong Kong approchait 8 000 milliards de wons d’AUM l’an dernier. Source: hankyung.com"
+      },
+      "ar": {
+        "title": "أثرياء هونغ كونغ يبحثون فرص كوسبي مع صعود الحسابات الموحدة وصناديق ETF الكورية",
+        "excerpt": "زار نحو 40 عميلا من كبار عملاء فوتو سيكيوريتيز في هونغ كونغ مقر هانا سيكيوريتيز في سول يوم 14 مايو لبحث فرص الاستثمار في كوسبي وسط اهتمام بالحسابات الموحدة وصناديق ETF الكورية.",
+        "body": "زار نحو 40 عميلا من أثرياء هونغ كونغ، يديرون أصولا بقيمة مليار دولار، أي نحو 1.48 تريليون وون، مقر هانا سيكيوريتيز في يوييدو بسول يوم 14 مايو. ونظمت فوتو سيكيوريتيز في هونغ كونغ وCSOP لإدارة الأصول جلسة “بحث عن كوريا” لعملاء فوتو من فئة VIP، على أن يدرسوا خلال يومين فرص الاستثمار في كوسبي عبر اجتماعات علاقات مستثمرين مع شركات كورية كبرى مدرجة. وتأتي الزيارة مع توسع الحسابات الموحدة للأجانب، التي تتيح للمستثمرين الأجانب تداول وتسوية الأسهم الكورية عبر شركات استثمار مالي خارجية. بدأت هانا الخدمة مع إمبراطور سيكيوريتيز العام الماضي وتعتزم إطلاقها مع فوتو في يونيو. وبلغت أصول صندوق CSOP SK Hynix Daily 2x Leveraged ETF المدرج في هونغ كونغ ما يقارب 8 تريليونات وون العام الماضي. المصدر: hankyung.com"
+      },
+      "hi": {
+        "title": "KOSPI अवसरों पर हांगकांग सुपर-रिच की नजर, ओम्निबस खाते और कोरिया ETF चर्चा में",
+        "excerpt": "हांगकांग की Futu Securities के करीब 40 VIP ग्राहक 14 मई को सियोल में Hana Securities पहुंचे, ताकि KOSPI निवेश अवसरों को परख सकें। विदेशी ओम्निबस खाते और कोरिया ETF मांग इसकी पृष्ठभूमि हैं।",
+        "body": "करीब 1 अरब डॉलर, यानी लगभग 1.48 लाख करोड़ वॉन की संपत्ति संभालने वाले हांगकांग के लगभग 40 “सुपर-रिच” ग्राहक 14 मई को सियोल के येओइदो स्थित Hana Securities मुख्यालय पहुंचे। Hong Kong Futu Securities और CSOP Asset Management ने Futu के VIP ग्राहकों के लिए “Korea Research” सत्र आयोजित किया। ये निवेशक दो दिनों तक कोरिया की प्रमुख सूचीबद्ध कंपनियों के साथ IR बैठकों के जरिए KOSPI निवेश अवसरों की समीक्षा करेंगे। इसकी पृष्ठभूमि विदेशी ओम्निबस खातों का विस्तार है, जिनसे विदेशी निवेशक विदेशी वित्तीय निवेश कंपनियों के जरिए कोरियाई शेयरों की खरीद-बिक्री और निपटान कर सकते हैं। Hana ने पिछले साल Emperor Securities के साथ यह सेवा शुरू की और जून में Futu के साथ भी शुरू करने की योजना है। Hong Kong में सूचीबद्ध CSOP SK Hynix Daily 2x Leveraged ETF का AUM पिछले साल 8 ट्रिलियन वॉन के करीब था। स्रोत: hankyung.com"
+      },
+      "id": {
+        "title": "Superkaya Hong Kong Cari Peluang KOSPI, Rekening Omnibus dan ETF Korea Jadi Sorotan",
+        "excerpt": "Sekitar 40 klien VIP Futu Securities dari Hong Kong mengunjungi Hana Securities di Seoul pada 14 Mei untuk menilai peluang KOSPI, di tengah minat pada rekening omnibus asing dan ETF Korea.",
+        "body": "Sekitar 40 klien “superkaya” Hong Kong yang mengelola aset senilai US$1 miliar, atau sekitar 1,48 triliun won, mengunjungi kantor pusat Hana Securities di Yeouido, Seoul, pada 14 Mei. Futu Securities Hong Kong dan CSOP Asset Management menggelar sesi “Korea Research” untuk klien VIP Futu, yang selama dua hari akan meninjau peluang KOSPI melalui rangkaian pertemuan IR dengan emiten besar Korea. Latar belakangnya adalah perluasan rekening omnibus asing, yang memungkinkan investor asing membeli, menjual, dan menyelesaikan transaksi saham Korea melalui perusahaan investasi keuangan luar negeri. Hana memulai layanan ini dengan Emperor Securities tahun lalu dan berencana meluncurkannya bersama Futu pada Juni. ETF CSOP SK Hynix Daily 2x Leveraged yang tercatat di Hong Kong memiliki AUM hampir 8 triliun won tahun lalu. Sumber: hankyung.com"
+      }
+    }
+  },
+  {
+    "id": "457846013a45",
+    "slug": "sk네트웍스-분석-슬금슬금-오르다-상한가ai-투자이익도-본격화-265321",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-05-14T22:35:46.297Z",
+    "updatedAt": "2026-05-14T22:35:46.297Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/202605146795i",
+    "canonicalUrl": "https://www.hankyung.com/article/202605146795i",
+    "titleFingerprint": "aeb25a07e4eb9b12a5b5e2b5173d3b9f814c4928",
+    "dedupKeys": [
+      "457846013a459d8b1e3b80a8ab22c9d9d7f31f53",
+      "aeb25a07e4eb9b12a5b5e2b5173d3b9f814c4928",
+      "e9028612ba8748f7a2f448f1f125eeb5426a3d9a"
+    ],
+    "imageUrl": "/images/articles/457846013a45.jpg",
+    "i18n": {
+      "ko": {
+        "title": "SK네트웍스 주가 상한가, AI 투자이익 본격화 분석 주목",
+        "excerpt": "SK네트웍스가 최근 주가 흐름에서 슬금슬금 오르다 상한가에 도달했고, 한국경제는 AI 관련 투자이익이 본격화되고 있다는 분석을 전했다.",
+        "body": "SK네트웍스가 최근 주식시장에서 점진적으로 상승하다 상한가를 기록했다. 한국경제 보도는 이 흐름을 ‘슬금슬금 오르다 상한가’로 짚으며, AI 관련 투자이익이 본격화되고 있다는 분석을 함께 전했다. 배경에는 SK네트웍스의 AI 투자 성과가 시장의 관심을 받기 시작했다는 점이 놓여 있다. 구체적인 실적 수치나 투자이익 규모는 원문에 제시되지 않았지만, 보도 제목은 주가 상승과 AI 투자이익 현실화가 연결돼 해석되고 있음을 보여준다. 향후 시장은 AI 투자 성과가 실제 기업가치와 주가 흐름에 어떻게 반영되는지 주목할 전망이다. 출처: hankyung.com"
+      },
+      "en": {
+        "title": "SK Networks Hits Daily Limit as AI Investment Gains Draw Attention",
+        "excerpt": "SK Networks recently climbed gradually before reaching the daily upper limit, while Hankyung reported analysis that gains from AI-related investments are beginning in earnest.",
+        "body": "SK Networks recently rose gradually in the stock market before hitting the daily upper limit. Hankyung described the move as a slow climb to the limit-up level and reported analysis that gains from AI-related investments are beginning in earnest. The context is growing market attention on the company’s AI investment results. The original report did not provide specific earnings figures or the size of investment gains, but its headline links the stock rally with the perceived realization of AI investment returns. Investors are expected to watch how those AI investment results are reflected in corporate value and future share-price trends. Source: hankyung.com"
+      },
+      "ja": {
+        "title": "SKネットワークスがストップ高、AI投資益本格化の分析に注目",
+        "excerpt": "SKネットワークスは最近、株価がじわじわ上昇してストップ高に達し、韓国経済はAI関連投資益が本格化しているとの分析を伝えた。",
+        "body": "SKネットワークスは最近の株式市場で、徐々に上昇した後にストップ高を記録した。韓国経済はこの動きを「じわじわ上がってストップ高」と捉え、AI関連投資益が本格化しているとの分析も伝えた。背景には、同社のAI投資成果が市場の関心を集め始めた点がある。原文では具体的な業績数値や投資益の規模は示されていないが、見出しは株価上昇とAI投資益の現実化が結び付けて解釈されていることを示す。今後、市場はAI投資の成果が企業価値や株価推移にどう反映されるかに注目するとみられる。出典: hankyung.com"
+      },
+      "zh": {
+        "title": "SK Networks股价涨停，AI投资收益开始兑现受关注",
+        "excerpt": "SK Networks近期股价逐步走高后触及涨停，韩国经济报道称，市场正关注其AI相关投资收益开始正式显现的分析。",
+        "body": "SK Networks近期在股市中逐步上涨，并最终触及涨停。韩国经济在报道中将这一走势概括为“悄然上涨后涨停”，同时提到AI相关投资收益开始正式显现的分析。其背景在于，SK Networks的AI投资成果开始受到市场关注。原文并未给出具体业绩数据或投资收益规模，但标题显示，股价上涨正与AI投资收益兑现的解读相联系。未来市场预计将继续关注AI投资成果如何反映在企业价值和股价走势中。来源: hankyung.com"
+      },
+      "es": {
+        "title": "SK Networks toca el límite diario y atrae foco por ganancias en IA",
+        "excerpt": "SK Networks subió de forma gradual hasta alcanzar el límite diario, mientras Hankyung informó un análisis sobre el inicio en firme de ganancias por inversiones en IA.",
+        "body": "SK Networks avanzó recientemente de forma gradual en el mercado bursátil hasta alcanzar el límite diario de subida. Hankyung describió el movimiento como una escalada paulatina hasta ese nivel y citó un análisis según el cual las ganancias de inversiones relacionadas con IA están comenzando en firme. El contexto es el creciente interés del mercado por los resultados de las inversiones en IA de la compañía. El texto original no ofreció cifras concretas de resultados ni el tamaño de esas ganancias, pero el titular vincula el repunte de la acción con la materialización de retornos por IA. El mercado seguirá atento a cómo esos resultados se reflejan en el valor corporativo y en la cotización. Fuente: hankyung.com"
+      },
+      "pt": {
+        "title": "SK Networks atinge limite diário com foco em ganhos de investimentos em IA",
+        "excerpt": "A SK Networks subiu gradualmente até atingir o limite diário, enquanto o Hankyung relatou análise de que ganhos ligados a investimentos em IA começam a ganhar força.",
+        "body": "A SK Networks avançou recentemente de forma gradual no mercado acionário até atingir o limite diário de alta. O Hankyung descreveu o movimento como uma subida lenta até esse patamar e informou uma análise de que os ganhos de investimentos relacionados à IA estão começando a se intensificar. O pano de fundo é o maior interesse do mercado pelos resultados dos investimentos em IA da empresa. A reportagem original não apresentou números específicos de desempenho nem o valor dos ganhos de investimento, mas o título conecta a alta das ações à percepção de realização desses retornos. O mercado deve observar como os resultados em IA serão refletidos no valor da empresa e no preço das ações. Fonte: hankyung.com"
+      },
+      "de": {
+        "title": "SK Networks erreicht Kurslimit, KI-Investmentgewinne rücken in den Fokus",
+        "excerpt": "SK Networks stieg zuletzt schrittweise bis zum oberen Tageslimit; Hankyung berichtete über eine Analyse, wonach Gewinne aus KI-Investitionen nun deutlicher anlaufen.",
+        "body": "SK Networks ist am Aktienmarkt zuletzt schrittweise gestiegen und erreichte schließlich das obere Tageslimit. Hankyung beschrieb die Bewegung als allmählichen Anstieg bis zum Limit und verwies auf eine Analyse, wonach Gewinne aus KI-bezogenen Investitionen nun in eine ernsthafte Phase eintreten. Hintergrund ist das wachsende Marktinteresse an den Ergebnissen der KI-Investitionen des Unternehmens. Konkrete Gewinnzahlen oder die Höhe der Investmenterträge nannte der Ursprungstext nicht. Die Überschrift zeigt jedoch, dass der Kursanstieg mit der Wahrnehmung realisierter KI-Investmenterträge verbunden wird. Künftig dürfte der Markt beobachten, wie sich diese Ergebnisse auf Unternehmenswert und Aktienkurs auswirken. Quelle: hankyung.com"
+      },
+      "fr": {
+        "title": "SK Networks atteint sa limite haute, les gains liés à l’IA attirent l’attention",
+        "excerpt": "SK Networks a progressé graduellement jusqu’à atteindre sa limite quotidienne, tandis que Hankyung a relayé une analyse sur le démarrage des gains liés à l’IA.",
+        "body": "SK Networks a récemment progressé de manière graduelle en Bourse avant d’atteindre sa limite quotidienne de hausse. Hankyung a décrit ce mouvement comme une montée progressive jusqu’à la limite haute et a rapporté une analyse selon laquelle les gains liés aux investissements dans l’IA commencent à se concrétiser. Le contexte est l’intérêt croissant du marché pour les résultats des investissements en IA de l’entreprise. Le texte original ne donne pas de chiffres précis sur les résultats ni sur le montant des gains d’investissement, mais son titre associe la hausse du cours à la réalisation perçue de ces retours. Le marché devrait suivre la manière dont ces résultats se reflètent dans la valeur de l’entreprise et l’évolution du titre. Source: hankyung.com"
+      },
+      "ar": {
+        "title": "سهم SK Networks يبلغ الحد الأعلى مع ترقب أرباح استثمارات الذكاء الاصطناعي",
+        "excerpt": "ارتفع سهم SK Networks تدريجيا حتى بلغ الحد اليومي الأعلى، فيما نقلت Hankyung تحليلا يفيد بأن أرباح الاستثمارات المرتبطة بالذكاء الاصطناعي بدأت تتبلور بوضوح.",
+        "body": "ارتفع سهم SK Networks مؤخرا في السوق بشكل تدريجي قبل أن يسجل الحد اليومي الأعلى. ووصفت Hankyung هذا المسار بأنه صعود بطيء انتهى بالحد الأعلى، مع نقل تحليل يشير إلى أن أرباح الاستثمارات المرتبطة بالذكاء الاصطناعي بدأت تدخل مرحلة أكثر وضوحا. وتأتي الخلفية من تزايد اهتمام السوق بنتائج استثمارات الشركة في الذكاء الاصطناعي. ولم يورد النص الأصلي أرقاما محددة للأداء أو حجم أرباح الاستثمار، لكن العنوان يربط بين صعود السهم وتحقق عوائد استثمارات الذكاء الاصطناعي. ومن المتوقع أن يراقب السوق كيفية انعكاس هذه النتائج على قيمة الشركة وحركة السهم. المصدر: hankyung.com"
+      },
+      "hi": {
+        "title": "SK Networks शेयर अपर लिमिट पर, AI निवेश लाभ पर बाजार की नजर",
+        "excerpt": "SK Networks का शेयर हाल में धीरे-धीरे चढ़ते हुए अपर लिमिट तक पहुंचा, जबकि Hankyung ने AI से जुड़े निवेश लाभ के तेज होने पर विश्लेषण प्रकाशित किया।",
+        "body": "SK Networks का शेयर हाल में शेयर बाजार में धीरे-धीरे बढ़ते हुए अपर लिमिट पर पहुंच गया। Hankyung ने इस चाल को क्रमिक तेजी के बाद अपर लिमिट तक पहुंचने के रूप में बताया और साथ ही यह विश्लेषण दिया कि AI से जुड़े निवेश लाभ अब अधिक स्पष्ट रूप से सामने आने लगे हैं। इसका संदर्भ कंपनी के AI निवेश परिणामों पर बढ़ती बाजार रुचि है। मूल रिपोर्ट में ठोस आय आंकड़े या निवेश लाभ का आकार नहीं दिया गया, लेकिन शीर्षक शेयर की तेजी और AI निवेश लाभ के साकार होने की धारणा को जोड़ता है। आगे बाजार यह देखेगा कि AI निवेश के परिणाम कंपनी के मूल्य और शेयर मूल्य की दिशा में कैसे दिखाई देते हैं। स्रोत: hankyung.com"
+      },
+      "id": {
+        "title": "Saham SK Networks Sentuh Batas Atas, Laba Investasi AI Jadi Sorotan",
+        "excerpt": "SK Networks baru-baru ini naik perlahan hingga menyentuh batas atas harian, sementara Hankyung melaporkan analisis bahwa laba investasi terkait AI mulai menguat.",
+        "body": "SK Networks baru-baru ini bergerak naik secara bertahap di pasar saham hingga mencapai batas atas harian. Hankyung menggambarkan pergerakan itu sebagai kenaikan perlahan yang berujung pada batas atas, sekaligus melaporkan analisis bahwa laba dari investasi terkait AI mulai memasuki fase yang lebih nyata. Latar belakangnya adalah meningkatnya perhatian pasar terhadap hasil investasi AI perusahaan. Artikel asli tidak menyajikan angka kinerja spesifik atau besaran laba investasi, tetapi judulnya menunjukkan bahwa kenaikan saham dikaitkan dengan realisasi keuntungan investasi AI. Ke depan, pasar akan mencermati bagaimana hasil investasi AI tercermin pada nilai perusahaan dan pergerakan saham. Sumber: hankyung.com"
+      }
+    }
+  },
+  {
+    "id": "868e35c9e469",
+    "slug": "b2b-시장-ai-침투율-이제-초기단계증시-과열-걱정할-때-아니다-kiw-2026-518754",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-05-14T22:34:51.372Z",
+    "updatedAt": "2026-05-14T22:34:51.372Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/202605145596i",
+    "canonicalUrl": "https://www.hankyung.com/article/202605145596i",
+    "titleFingerprint": "505a731221c8a1601721d185f73f4f395b48e581",
+    "dedupKeys": [
+      "868e35c9e4690b914c652d518418db7a6b9cc1e0",
+      "505a731221c8a1601721d185f73f4f395b48e581",
+      "0ef4eac8f38f1d43387b105f5671af7f3f9b301c"
+    ],
+    "imageUrl": "/images/articles/868e35c9e469.jpg",
+    "i18n": {
+      "ko": {
+        "title": "B2B AI 침투율 초기단계…KIW 2026서 나온 증시 과열론 반박",
+        "excerpt": "삼성증권 애널리스트 4명은 14일 KIW 2026에서 생성형 AI 수요가 B2C에서 B2B AI 에이전트로 이동하고 있어 증시 과열을 걱정할 단계가 아니라고 진단했다.",
+        "body": "14일 열린 코리아 인베스트먼트 위크(KIW) 2026에서 삼성증권의 이종욱, 임은영, 김중한, 오동환 수석연구위원은 글로벌 AI 랠리와 증시 과열 우려, 반도체 이후 주도주를 놓고 의견을 제시했다. 이들은 생성형 AI 수요가 구조적으로 변하고 있다며 증시 과열을 걱정할 때가 아니라고 밝혔다. 김중한 연구위원은 1분기 빅테크 실적에서 구글 등 하이퍼스케일러 매출이 두 자릿수 성장했다고 설명했다. 지난해 B2C가 AI 성장을 이끌었다면 올해부터는 B2B AI 에이전트 비즈니스가 반영되는 국면이라는 진단이다. 오동환 연구위원은 AI 활용이 아직 개인 중심이라 B2B 침투율은 초기 단계라며 삼성SDS, LG CNS 등 SI·IT 업체에 AX 기회가 열릴 수 있다고 봤다. 출처: hankyung.com"
+      },
+      "en": {
+        "title": "B2B AI Penetration Still Early, KIW 2026 Panel Pushes Back on Stock Overheating Fears",
+        "excerpt": "Four Samsung Securities analysts said at KIW 2026 on May 14 that generative AI demand is shifting from B2C to B2B AI agents, making stock overheating concerns premature.",
+        "body": "At Korea Investment Week (KIW) 2026 on May 14, Samsung Securities senior analysts Jong-wook Lee, Eun-young Lim, Joong-han Kim and Dong-hwan Oh discussed the global AI rally, market overheating concerns and possible leaders after semiconductors. They said demand for generative AI is changing structurally and that it is not the time to worry about stock-market overheating. Kim said first-quarter big-tech earnings showed double-digit revenue growth at hyperscalers such as Google. While B2C drove AI growth last year, he said this year marks a phase in which B2B AI agent businesses are being reflected. Oh said AI usage remains largely personal, leaving B2B penetration in an early stage, and that SI and IT firms such as Samsung SDS and LG CNS could gain AX opportunities. Source: hankyung.com"
+      },
+      "ja": {
+        "title": "B2BのAI浸透率はなお初期段階、KIW 2026で株式市場過熱論に反論",
+        "excerpt": "サムスン証券のアナリスト4人は5月14日のKIW 2026で、生成AI需要がB2CからB2BのAIエージェントへ移りつつあり、株式市場の過熱を懸念する段階ではないと述べた。",
+        "body": "5月14日に開かれたコリア・インベストメント・ウィーク（KIW）2026で、サムスン証券の李鍾旭、任恩英、金重漢、呉東桓の各主席研究委員は、世界的なAIラリー、株式市場の過熱懸念、半導体後の主導株について見解を示した。4人は生成AI需要が構造的に変化しており、市場過熱を心配する時期ではないと述べた。金氏は1-3月期のビッグテック決算で、グーグルなどハイパースケーラーの売上高が2桁成長したと説明した。昨年はB2CがAI成長をけん引したが、今年からはB2BのAIエージェント事業が反映される局面だという。呉氏はAI利用がまだ個人中心で、B2B浸透率は初期段階にあり、サムスンSDSやLG CNSなどSI・IT企業にAX機会が開かれる可能性があると見た。出所: hankyung.com"
+      },
+      "zh": {
+        "title": "B2B AI渗透率仍处早期，KIW 2026专家反驳股市过热担忧",
+        "excerpt": "三星证券4名分析师在5月14日KIW 2026上表示，生成式AI需求正从B2C转向B2B AI代理业务，因此目前并非担心股市过热的时候。",
+        "body": "在5月14日举行的韩国投资周（KIW）2026上，三星证券首席研究委员李钟旭、林恩英、金重汉、吴东焕就全球AI行情、股市过热担忧以及半导体之后的主导板块发表看法。他们表示，生成式AI需求正在发生结构性变化，目前不是担心股市过热的时候。金重汉称，一季度大型科技公司业绩显示，谷歌等超大规模数据中心运营商营收实现两位数增长。他认为，去年AI增长由B2C推动，而今年开始进入B2B AI代理业务被反映的阶段。吴东焕指出，AI使用范围仍主要停留在个人端，B2B渗透率尚处早期，三星SDS、LG CNS等SI和IT企业可能迎来AX机会。来源: hankyung.com"
+      },
+      "es": {
+        "title": "La penetración de IA B2B sigue en fase inicial, según KIW 2026, y enfría temores de sobrecalentamiento",
+        "excerpt": "Cuatro analistas de Samsung Securities dijeron el 14 de mayo en KIW 2026 que la demanda de IA generativa pasa de B2C a agentes de IA B2B, por lo que ven prematuro temer un mercado sobrecalentado.",
+        "body": "En Korea Investment Week (KIW) 2026, celebrada el 14 de mayo, los analistas sénior de Samsung Securities Jong-wook Lee, Eun-young Lim, Joong-han Kim y Dong-hwan Oh abordaron el rally global de la IA, las dudas sobre un posible sobrecalentamiento bursátil y los líderes tras los semiconductores. Señalaron que la demanda de IA generativa está cambiando de forma estructural y que no es momento de preocuparse por un exceso de temperatura en el mercado. Kim explicó que los resultados del primer trimestre de las grandes tecnológicas mostraron crecimientos de ingresos de dos dígitos en hiperescaladores como Google. Si el año pasado el B2C impulsó la IA, este año empieza a reflejarse el negocio de agentes de IA B2B. Oh añadió que el uso de IA sigue centrado en individuos, por lo que la penetración B2B está en fase inicial, y que firmas SI e IT como Samsung SDS y LG CNS podrían encontrar oportunidades de AX. Fuente: hankyung.com"
+      },
+      "pt": {
+        "title": "Penetração de IA B2B ainda é inicial, diz KIW 2026, rebatendo temor de bolsa aquecida",
+        "excerpt": "Quatro analistas da Samsung Securities disseram em 14 de maio, no KIW 2026, que a demanda por IA generativa migra de B2C para agentes de IA B2B, tornando prematura a preocupação com sobreaquecimento das ações.",
+        "body": "Na Korea Investment Week (KIW) 2026, realizada em 14 de maio, os analistas seniores da Samsung Securities Jong-wook Lee, Eun-young Lim, Joong-han Kim e Dong-hwan Oh discutiram a alta global da IA, o temor de sobreaquecimento do mercado acionário e possíveis líderes após os semicondutores. Eles afirmaram que a demanda por IA generativa passa por mudança estrutural e que este não é o momento de se preocupar com sobreaquecimento das bolsas. Kim disse que os resultados do primeiro trimestre das big techs mostraram crescimento de receita de dois dígitos em hiperescaladores como o Google. No ano passado, o B2C liderou a expansão da IA; neste ano, começa a fase em que negócios de agentes de IA B2B são refletidos. Oh afirmou que o uso de IA ainda é majoritariamente individual, deixando a penetração B2B no início, e que empresas de SI e TI como Samsung SDS e LG CNS podem ter oportunidades em AX. Fonte: hankyung.com"
+      },
+      "de": {
+        "title": "B2B-KI-Durchdringung noch früh: KIW-2026-Panel widerspricht Sorgen vor überhitztem Aktienmarkt",
+        "excerpt": "Vier Analysten von Samsung Securities sagten am 14. Mai auf der KIW 2026, die Nachfrage nach generativer KI verlagere sich von B2C zu B2B-KI-Agenten, weshalb Sorgen vor einer Aktienmarktüberhitzung verfrüht seien.",
+        "body": "Auf der Korea Investment Week (KIW) 2026 am 14. Mai äußerten sich die leitenden Samsung-Securities-Analysten Jong-wook Lee, Eun-young Lim, Joong-han Kim und Dong-hwan Oh zur globalen KI-Rally, zu Sorgen vor einer Überhitzung des Aktienmarkts und zu möglichen Marktführern nach den Halbleitern. Sie erklärten, die Nachfrage nach generativer KI verändere sich strukturell, weshalb es nicht an der Zeit sei, eine Überhitzung des Marktes zu befürchten. Kim sagte, die Ergebnisse der großen Technologiekonzerne im ersten Quartal hätten bei Hyperscalern wie Google zweistellige Umsatzsteigerungen gezeigt. Während B2C im Vorjahr das KI-Wachstum trug, beginne nun eine Phase, in der B2B-Geschäfte mit KI-Agenten sichtbar würden. Oh sagte, KI-Nutzung bleibe bislang stark auf Privatpersonen konzentriert; die B2B-Durchdringung stehe am Anfang. Für SI- und IT-Firmen wie Samsung SDS und LG CNS könnten sich AX-Chancen eröffnen. Quelle: hankyung.com"
+      },
+      "fr": {
+        "title": "L’IA B2B reste peu pénétrée, selon KIW 2026, qui écarte les craintes de surchauffe boursière",
+        "excerpt": "Quatre analystes de Samsung Securities ont déclaré le 14 mai à KIW 2026 que la demande d’IA générative passe du B2C aux agents d’IA B2B, rendant prématurées les craintes de surchauffe du marché.",
+        "body": "Lors de la Korea Investment Week (KIW) 2026, le 14 mai, les analystes seniors de Samsung Securities Jong-wook Lee, Eun-young Lim, Joong-han Kim et Dong-hwan Oh ont abordé le rally mondial de l’IA, les inquiétudes de surchauffe boursière et les possibles leaders après les semi-conducteurs. Ils ont estimé que la demande d’IA générative évolue de manière structurelle et que le moment n’est pas venu de s’inquiéter d’une surchauffe du marché. Kim a expliqué que les résultats du premier trimestre des grandes technologiques montraient une croissance à deux chiffres du chiffre d’affaires des hyperscalers comme Google. Selon lui, le B2C a porté la croissance de l’IA l’an dernier, mais cette année marque l’intégration des activités d’agents d’IA B2B. Oh a ajouté que l’usage de l’IA reste surtout individuel, laissant la pénétration B2B à un stade précoce, et que des sociétés SI et IT comme Samsung SDS et LG CNS pourraient saisir des opportunités d’AX. Source: hankyung.com"
+      },
+      "ar": {
+        "title": "اختراق الذكاء الاصطناعي في سوق B2B لا يزال مبكرا، وKIW 2026 يرد على مخاوف سخونة الأسهم",
+        "excerpt": "قال أربعة محللين من سامسونغ سيكيوريتيز في KIW 2026 يوم 14 مايو إن طلب الذكاء الاصطناعي التوليدي ينتقل من B2C إلى وكلاء ذكاء اصطناعي في B2B، لذا فإن مخاوف سخونة السوق تبدو مبكرة.",
+        "body": "في أسبوع كوريا للاستثمار KIW 2026 المنعقد في 14 مايو، ناقش كبار محللي سامسونغ سيكيوريتيز جونغ ووك لي، أون يونغ ليم، جونغ هان كيم ودونغ هوان أوه صعود الذكاء الاصطناعي عالميا، ومخاوف سخونة سوق الأسهم، والقطاعات التي قد تقود بعد أشباه الموصلات. وقالوا إن الطلب على الذكاء الاصطناعي التوليدي يشهد تغيرا هيكليا، وإن الوقت ليس وقت القلق من سخونة السوق. أوضح كيم أن نتائج الربع الأول لشركات التكنولوجيا الكبرى أظهرت نموا مزدوج الرقم في إيرادات مشغلي مراكز البيانات الضخمة مثل غوغل. فبعد أن قاد B2C نمو الذكاء الاصطناعي العام الماضي، يبدأ هذا العام انعكاس أعمال وكلاء الذكاء الاصطناعي في B2B. وقال أوه إن استخدام الذكاء الاصطناعي لا يزال متركزا لدى الأفراد، ما يجعل اختراق B2B في مرحلة مبكرة، وقد يفتح فرص AX لشركات SI وIT مثل Samsung SDS وLG CNS. المصدر: hankyung.com"
+      },
+      "hi": {
+        "title": "B2B AI पैठ अभी शुरुआती चरण में, KIW 2026 पैनल ने शेयर बाजार गरमी की चिंता को जल्दबाजी बताया",
+        "excerpt": "सैमसंग सिक्योरिटीज के चार विश्लेषकों ने 14 मई को KIW 2026 में कहा कि जेनरेटिव AI मांग B2C से B2B AI एजेंट कारोबार की ओर बढ़ रही है, इसलिए शेयर बाजार में अधिक गरमी की चिंता अभी जल्दबाजी है।",
+        "body": "14 मई को आयोजित Korea Investment Week (KIW) 2026 में Samsung Securities के वरिष्ठ विश्लेषक Jong-wook Lee, Eun-young Lim, Joong-han Kim और Dong-hwan Oh ने वैश्विक AI रैली, शेयर बाजार में अधिक गरमी की आशंका और सेमीकंडक्टर के बाद संभावित अगुआ शेयरों पर विचार रखे। उन्होंने कहा कि जेनरेटिव AI की मांग संरचनात्मक रूप से बदल रही है और अभी बाजार की गरमी की चिंता करने का समय नहीं है। Kim ने बताया कि पहली तिमाही में बिग टेक नतीजों में Google जैसे हाइपरस्केलरों की आय दो अंकों में बढ़ी। पिछले साल B2C ने AI वृद्धि को चलाया था, जबकि इस साल से B2B AI एजेंट कारोबार परिलक्षित होने का चरण शुरू हो रहा है। Oh ने कहा कि AI का उपयोग अभी भी काफी हद तक व्यक्तियों तक सीमित है, इसलिए B2B पैठ शुरुआती चरण में है, और Samsung SDS व LG CNS जैसी SI और IT कंपनियों के लिए AX अवसर खुल सकते हैं। स्रोत: hankyung.com"
+      },
+      "id": {
+        "title": "Penetrasi AI B2B Masih Awal, Panel KIW 2026 Bantah Kekhawatiran Bursa Terlalu Panas",
+        "excerpt": "Empat analis Samsung Securities pada KIW 2026, 14 Mei, menilai permintaan AI generatif bergeser dari B2C ke agen AI B2B, sehingga kekhawatiran pasar saham terlalu panas dinilai belum tepat waktunya.",
+        "body": "Pada Korea Investment Week (KIW) 2026 yang digelar 14 Mei, analis senior Samsung Securities Jong-wook Lee, Eun-young Lim, Joong-han Kim, dan Dong-hwan Oh membahas reli AI global, kekhawatiran pasar saham terlalu panas, serta calon pemimpin setelah semikonduktor. Mereka mengatakan permintaan AI generatif berubah secara struktural dan saat ini bukan waktu untuk mengkhawatirkan pemanasan berlebih di bursa. Kim menjelaskan bahwa kinerja kuartal pertama big tech menunjukkan pendapatan hyperscaler seperti Google tumbuh dua digit. Tahun lalu B2C mendorong pertumbuhan AI, sedangkan mulai tahun ini bisnis agen AI B2B mulai tercermin. Oh menilai penggunaan AI masih banyak berpusat pada individu, sehingga penetrasi B2B berada di tahap awal, dan perusahaan SI serta IT seperti Samsung SDS dan LG CNS dapat memperoleh peluang AX. Sumber: hankyung.com"
+      }
+    }
+  },
+  {
     "id": "20e4541a48f0",
     "slug": "코스피-사상-최고치-경신-7981선-마감팔천피-임박-125614",
     "channelId": "ETF",
@@ -4271,231 +4496,6 @@
         "title": "Siswa Kelas Akhir Kembangkan Model AI Analisis Saham AS untuk Investor Ritel",
         "excerpt": "Menurut mk.co.kr, seorang investor siswa kelas akhir SMA mengembangkan model AI untuk analisis saham AS, berangkat dari kesulitan awal mencari informasi dan menghubungkannya dengan keputusan investasi.",
         "body": "Seorang investor siswa kelas akhir SMA mengembangkan model AI untuk menganalisis saham Amerika Serikat, lapor mk.co.kr. Ia menjelaskan bahwa saat pertama mulai berinvestasi saham, ia tidak tahu informasi apa yang harus dicari di tengah banjir data, di mana mencarinya, dan bagaimana menghubungkannya dengan keputusan investasi. Pengembangan model ini berangkat dari pengalaman pribadi tersebut. Latar belakangnya adalah kenyataan bahwa investor individu harus menyaring dan menafsirkan sendiri banyak informasi pasar. Inti artikel tersebut adalah membantu orang yang bukan investor profesional agar lebih mudah menemukan informasi yang dibutuhkan dan menggunakannya dalam penilaian investasi. Model ini menarik perhatian sebagai contoh peningkatan akses analisis saham AS bagi investor individu. Sumber: mk.co.kr."
-      }
-    }
-  },
-  {
-    "id": "4301879c6fd0",
-    "slug": "연-2-예금으론-답-없다급증하는-포모-투자에-빚투-경고음도-커져-602626",
-    "channelId": "ETF",
-    "category": "etf",
-    "publishedAt": "2026-05-14T07:20:55.484Z",
-    "updatedAt": "2026-05-14T07:20:55.484Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/stock/12047450",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12047450",
-    "titleFingerprint": "2835953f2f8b9f90d8a40fbe17dc474ed2cf3afa",
-    "dedupKeys": [
-      "4301879c6fd043f98d06a053ba1cd0cd1edf9117",
-      "2835953f2f8b9f90d8a40fbe17dc474ed2cf3afa",
-      "8bd0dca13b3d13296580ad36eca84e764e5a8e86"
-    ],
-    "imageUrl": "/images/articles/4301879c6fd0.jpg",
-    "i18n": {
-      "ko": {
-        "title": "예금금리 2%대 매력 약화에 증시 대기자금 급증, FOMO·빚투 경고음",
-        "excerpt": "국내 증시 반등과 예·적금 금리 매력 약화로 최근 증시 대기자금이 늘고, MZ세대를 넘어 노년층까지 머니무브 조짐이 확산하고 있다.",
-        "body": "최근 국내 증시가 반등하고 은행 예·적금 금리 매력이 약해지면서 투자 대기자금이 증시로 이동하는 흐름이 커지고 있다. 연 2%대 예금만으로는 수익 기대를 채우기 어렵다는 인식이 확산되며 MZ세대뿐 아니라 노년층에서도 머니무브 조짐이 나타나는 분위기다. 다만 시장 참여가 빠르게 늘어나는 과정에서 ‘FOMO 투자’와 빚을 내 투자하는 ‘빚투’에 대한 우려도 함께 커지고 있다. 향후 디레버리징 국면이 오면 변동성 위험이 커질 수 있다는 경고가 나온다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Stock Cash Surges as 2% Deposit Rates Lose Appeal, Raising FOMO and Margin-Debt Warnings",
-        "excerpt": "As Korean stocks rebound and bank deposit rates lose appeal, waiting cash for equities is rising, with money moves spreading beyond MZ investors to older savers.",
-        "body": "As the domestic stock market has recently rebounded and the appeal of bank deposits and installment savings has weakened, more waiting cash appears to be moving toward equities. The view that annual deposit rates in the 2% range are not enough to meet return expectations is spreading, and signs of a money move are emerging not only among MZ-generation investors but also among older people. At the same time, concerns are growing over FOMO-driven investing and debt-financed stock purchases. Market watchers warn that volatility risks could increase if a deleveraging phase follows. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "預金金利2%台の魅力低下で株式待機資金が急増、FOMO投資と借入投資に警戒",
-        "excerpt": "韓国株が反発し銀行預金の魅力が低下するなか、株式市場への待機資金が増え、MZ世代を越えて高齢層にも資金移動の兆しが広がっている。",
-        "body": "最近、韓国株式市場が反発し、銀行の預金・積立商品の金利面での魅力が弱まるなか、投資待機資金が株式市場へ向かう流れが強まっている。年2%台の預金だけでは期待収益を満たしにくいとの認識が広がり、MZ世代だけでなく高齢層にもマネームーブの兆しが見られる。ただし、市場参加が急速に増える過程で、FOMO投資や借入による投資への懸念も高まっている。今後デレバレッジ局面に入れば、変動性リスクが大きくなる可能性があるとの警告が出ている。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "2%存款利率吸引力下降推升股市待命资金，FOMO与借钱投资警讯升温",
-        "excerpt": "韩国股市近期反弹、银行存款吸引力下降，股市待命资金增加，资金迁移迹象正从MZ世代扩大到老年群体。",
-        "body": "近期韩国股市反弹，银行存款和定期储蓄的利率吸引力减弱，投资待命资金流向股市的趋势正在扩大。随着“仅靠年化2%左右存款难以满足收益期待”的认知扩散，资金迁移迹象不仅出现在MZ世代，也延伸至老年群体。不过，在市场参与快速增加的过程中，FOMO投资以及借钱投资的担忧也同步升温。有观点警告称，若今后进入去杠杆阶段，市场波动风险可能加大。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "La menor atracción de depósitos al 2% impulsa efectivo hacia bolsa y alertas por FOMO y deuda",
-        "excerpt": "Con el repunte bursátil en Corea y menor atractivo de los depósitos, crece el dinero a la espera de invertir y el movimiento alcanza a jóvenes y mayores.",
-        "body": "El reciente repunte del mercado bursátil local y la pérdida de atractivo de los depósitos y cuentas de ahorro bancarias están ampliando el flujo de fondos hacia las acciones. Se extiende la percepción de que los depósitos con rendimientos anuales en torno al 2% no bastan para cubrir las expectativas de rentabilidad, y las señales de traslado de dinero aparecen no solo entre la generación MZ, sino también entre personas mayores. Sin embargo, junto con el aumento rápido de la participación en el mercado, crecen las advertencias sobre inversión por FOMO y compras financiadas con deuda. Si llega una fase de desapalancamiento, el riesgo de volatilidad podría aumentar. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Depósitos a 2% perdem apelo, dinheiro migra para ações e alerta cresce sobre FOMO e dívida",
-        "excerpt": "Com a recuperação da bolsa coreana e menor atratividade dos depósitos bancários, aumenta o capital à espera de ações, com movimento também entre idosos.",
-        "body": "A recente recuperação do mercado acionário doméstico e a perda de atratividade dos depósitos e poupanças bancárias estão ampliando o fluxo de recursos para a bolsa. Espalha-se a percepção de que depósitos com retorno anual na faixa de 2% não bastam para atender às expectativas de rendimento, e sinais de migração de dinheiro aparecem não apenas entre a geração MZ, mas também entre idosos. Ao mesmo tempo, crescem as preocupações com investimentos motivados por FOMO e compras de ações financiadas por dívida. Caso venha uma fase de desalavancagem, o risco de volatilidade pode aumentar. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Sinkende Attraktivität von 2%-Einlagen treibt Börsengelder, Warnungen vor FOMO und Kreditkäufen",
-        "excerpt": "Mit der Erholung koreanischer Aktien und schwächeren Bankeinlagen wächst das wartende Börsenkapital, während der Geldwechsel auch ältere Anleger erreicht.",
-        "body": "Die jüngste Erholung des heimischen Aktienmarkts und die nachlassende Attraktivität von Bankeinlagen und Sparprodukten verstärken den Zufluss wartender Anlagegelder in Aktien. Die Einschätzung, dass Einlagen mit rund 2% Jahreszins die Renditeerwartungen kaum erfüllen, verbreitet sich. Anzeichen einer Geldverlagerung zeigen sich nicht nur bei der MZ-Generation, sondern auch bei älteren Menschen. Zugleich nehmen die Sorgen über FOMO-getriebene Anlagen und kreditfinanzierte Aktienkäufe zu. Beobachter warnen, dass in einer späteren Deleveraging-Phase die Volatilitätsrisiken steigen könnten. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Les dépôts à 2% perdent leur attrait, les liquidités affluent vers les actions et l’alerte FOMO monte",
-        "excerpt": "Avec le rebond de la Bourse coréenne et le moindre attrait des dépôts bancaires, les capitaux en attente d’actions augmentent, y compris chez les seniors.",
-        "body": "Le récent rebond du marché boursier national et la baisse d’attrait des dépôts et produits d’épargne bancaires renforcent le déplacement de capitaux en attente vers les actions. L’idée que des dépôts offrant environ 2% par an ne suffisent pas à répondre aux attentes de rendement se diffuse, et les signes de mouvement d’argent apparaissent non seulement chez la génération MZ, mais aussi chez les personnes âgées. En parallèle, les inquiétudes grandissent autour des investissements motivés par le FOMO et des achats financés par l’endettement. En cas de phase de désendettement, le risque de volatilité pourrait augmenter. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "تراجع جاذبية ودائع 2% يدفع السيولة نحو الأسهم ويزيد التحذير من استثمار FOMO والديون",
-        "excerpt": "مع تعافي الأسهم الكورية وتراجع جاذبية الودائع المصرفية، ترتفع الأموال المنتظرة لدخول السوق وتمتد حركة انتقال السيولة إلى كبار السن.",
-        "body": "مع التعافي الأخير في سوق الأسهم المحلية وتراجع جاذبية الودائع وحسابات الادخار المصرفية، يتزايد انتقال الأموال المنتظرة للاستثمار نحو الأسهم. وينتشر إدراك بأن الودائع ذات العائد السنوي في نطاق 2% لا تكفي لتلبية توقعات العائد، لتظهر مؤشرات انتقال السيولة ليس فقط بين جيل MZ بل أيضا بين كبار السن. في المقابل، تتزايد المخاوف من الاستثمار المدفوع بالخوف من تفويت الفرصة، ومن الاستثمار بالاقتراض. وتحذر آراء السوق من أن مرحلة خفض المديونية لاحقا قد ترفع مخاطر التقلب. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "2% जमा दरों की चमक घटने से शेयरों में प्रतीक्षारत नकदी बढ़ी, FOMO और कर्ज निवेश पर चेतावनी",
-        "excerpt": "कोरियाई शेयर बाजार में हालिया सुधार और बैंक जमा की घटती अपील के बीच इक्विटी के लिए प्रतीक्षारत नकदी बढ़ रही है और यह रुझान बुजुर्गों तक फैल रहा है।",
-        "body": "घरेलू शेयर बाजार में हालिया सुधार और बैंक जमा तथा बचत उत्पादों की घटती आकर्षकता के बीच निवेश के लिए प्रतीक्षारत धन शेयर बाजार की ओर बढ़ता दिख रहा है। यह धारणा फैल रही है कि सालाना करीब 2% जमा दरों से रिटर्न की उम्मीद पूरी करना कठिन है, और धन स्थानांतरण के संकेत MZ पीढ़ी के साथ-साथ बुजुर्गों में भी दिख रहे हैं। हालांकि बाजार भागीदारी तेजी से बढ़ने के साथ FOMO आधारित निवेश और कर्ज लेकर निवेश करने को लेकर चिंता भी बढ़ रही है। बाजार में चेतावनी है कि आगे डिलीवरेजिंग चरण आने पर अस्थिरता का जोखिम बढ़ सकता है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Daya Tarik Deposito 2% Melemah, Dana Siaga Saham Melonjak dan Peringatan FOMO Menguat",
-        "excerpt": "Saat bursa Korea pulih dan deposito bank kurang menarik, dana tunggu untuk saham meningkat, dengan pergeseran uang meluas dari generasi MZ ke lansia.",
-        "body": "Pemulihan terbaru pasar saham domestik dan melemahnya daya tarik deposito serta tabungan bank membuat aliran dana tunggu menuju saham semakin besar. Pandangan bahwa deposito dengan bunga tahunan di kisaran 2% tidak cukup memenuhi ekspektasi imbal hasil makin menyebar, sementara tanda pergeseran uang muncul bukan hanya di kalangan generasi MZ tetapi juga lansia. Namun, seiring partisipasi pasar meningkat cepat, kekhawatiran terhadap investasi karena FOMO dan investasi dengan utang ikut membesar. Peringatan muncul bahwa risiko volatilitas dapat meningkat jika fase deleveraging terjadi. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "381f9f2a98b0",
-    "slug": "속보-코스피-또-사상최고-79818000피-턱밑까지-진군-909526",
-    "channelId": "ETF",
-    "category": "etf",
-    "publishedAt": "2026-05-14T07:19:53.645Z",
-    "updatedAt": "2026-05-14T07:19:53.645Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/stock/12047605",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12047605",
-    "titleFingerprint": "c46930940f6932830decdaf88f0cbbc3e613476d",
-    "dedupKeys": [
-      "381f9f2a98b0247b9122468928b921d55741606e",
-      "c46930940f6932830decdaf88f0cbbc3e613476d",
-      "39572a83b65b830944cb62127500d6cf74d74a2a"
-    ],
-    "imageUrl": "/images/articles/381f9f2a98b0.jpg",
-    "i18n": {
-      "ko": {
-        "title": "코스피 사상최고 7981 기록, 8000선 턱밑까지 오른 국내 증시",
-        "excerpt": "코스피가 다시 사상 최고치인 7981을 기록하며 8000선에 바짝 다가섰다고 mk.co.kr이 속보로 전했다. 국내 증시의 핵심 지수 흐름에 관심이 집중된다.",
-        "body": "코스피가 또다시 사상 최고치를 경신하며 7981까지 올랐다고 mk.co.kr이 속보로 전했다. 이번 기록은 국내 증시 대표 지수인 코스피가 8000선에 근접했다는 점에서 시장의 주목을 받고 있다. 원문은 코스피가 ‘8000피’ 턱밑까지 진군했다고 표현하며 사상 최고 흐름을 강조했다. 구체적인 상승 배경이나 종목별 기여도, 거래대금 등 추가 수치는 제시되지 않았다. 투자자들은 코스피가 8000선에 실제로 도달할지와 사상 최고치 경신 흐름이 이어질지에 관심을 둘 것으로 보인다. 출처: mk.co.kr."
-      },
-      "en": {
-        "title": "KOSPI Hits Record 7,981, Moving Within Reach of the 8,000 Mark",
-        "excerpt": "KOSPI again reached an all-time high of 7,981 and moved close to the 8,000 level, mk.co.kr reported in a breaking-news item focused on Korea’s main stock index.",
-        "body": "KOSPI climbed again to an all-time high of 7,981, mk.co.kr reported in a breaking-news item. The record draws attention because South Korea’s benchmark stock index is now close to the 8,000 level. The original report described the move as an advance to just below “8,000 pi,” emphasizing the index’s record-setting momentum. No further details were provided on the specific reasons for the rise, individual stock contributions, trading value, or other related figures. Investors are likely to watch whether KOSPI actually reaches 8,000 and whether the latest record-high trend continues. Source: mk.co.kr."
-      },
-      "ja": {
-        "title": "KOSPIが史上最高値7981、8000台目前まで上昇した韓国株式市場",
-        "excerpt": "KOSPIが再び史上最高値の7981を記録し、8000台に迫ったとmk.co.krが速報で伝えた。韓国株式市場の代表指数の動きに注目が集まる。",
-        "body": "KOSPIが再び史上最高値を更新し、7981まで上昇したとmk.co.krが速報で伝えた。今回の記録は、韓国株式市場の代表指数であるKOSPIが8000台に近づいた点で市場の注目を集めている。原文はKOSPIが「8000ピ」の目前まで進んだと表現し、史上最高値の流れを強調した。上昇の具体的な背景、銘柄別の寄与度、売買代金などの追加数値は示されていない。投資家はKOSPIが実際に8000台に到達するか、史上最高値更新の流れが続くかに関心を向けるとみられる。出典: mk.co.kr."
-      },
-      "zh": {
-        "title": "KOSPI再创历史新高至7981，韩国股市逼近8000点关口",
-        "excerpt": "mk.co.kr以快讯报道，KOSPI再次创下7981的历史新高，距离8000点关口仅一步之遥，韩国主要股指走势受到市场关注。",
-        "body": "据mk.co.kr快讯报道，KOSPI再次刷新历史最高纪录，升至7981。该纪录受到关注，因为韩国股市代表性指数KOSPI已接近8000点关口。原文称KOSPI向“8000点”近前推进，突出了其创历史新高的走势。报道未提供此次上涨的具体背景、个股贡献度、成交金额等更多相关数据。投资者或将关注KOSPI能否真正站上8000点，以及刷新历史高点的走势是否延续。来源: mk.co.kr."
-      },
-      "es": {
-        "title": "KOSPI marca récord de 7.981 y queda a un paso del nivel de 8.000",
-        "excerpt": "KOSPI volvió a alcanzar un máximo histórico de 7.981 y se acercó al nivel de 8.000, informó mk.co.kr en una alerta sobre el principal índice bursátil de Corea.",
-        "body": "KOSPI volvió a subir hasta un máximo histórico de 7.981, informó mk.co.kr en una alerta de última hora. El dato atrae atención porque el índice bursátil de referencia de Corea del Sur queda cerca del nivel de 8.000. El informe original señaló que KOSPI avanzó hasta quedar justo por debajo de los “8.000 pi”, subrayando su impulso de récord. No se ofrecieron más detalles sobre las razones concretas del alza, la contribución por valores, el volumen negociado u otras cifras relacionadas. Los inversores observarán si KOSPI alcanza efectivamente los 8.000 y si continúa la racha de máximos históricos. Fuente: mk.co.kr."
-      },
-      "pt": {
-        "title": "KOSPI atinge recorde de 7.981 e se aproxima do nível de 8.000",
-        "excerpt": "O KOSPI voltou a marcar máxima histórica de 7.981 e ficou perto do patamar de 8.000, informou o mk.co.kr em notícia urgente sobre o principal índice da Coreia.",
-        "body": "O KOSPI voltou a subir e atingiu a máxima histórica de 7.981, informou o mk.co.kr em uma notícia urgente. O recorde chama atenção porque o principal índice acionário da Coreia do Sul está agora próximo do nível de 8.000. O texto original descreveu o movimento como um avanço até logo abaixo dos “8.000 pi”, destacando a sequência de máximas históricas. Não foram apresentados detalhes adicionais sobre os motivos específicos da alta, a contribuição de ações individuais, o valor negociado ou outros números relacionados. Investidores devem acompanhar se o KOSPI chegará de fato a 8.000 e se a tendência de recordes continuará. Fonte: mk.co.kr."
-      },
-      "de": {
-        "title": "KOSPI erreicht Rekordstand von 7.981 und rückt nahe an 8.000 heran",
-        "excerpt": "Der KOSPI stieg erneut auf ein Allzeithoch von 7.981 und näherte sich der Marke von 8.000, berichtete mk.co.kr in einer Eilmeldung zum wichtigsten Aktienindex Koreas.",
-        "body": "Der KOSPI ist erneut auf ein Allzeithoch gestiegen und erreichte 7.981, berichtete mk.co.kr in einer Eilmeldung. Der Rekord erhält Aufmerksamkeit, weil Südkoreas Leitindex damit nahe an die Marke von 8.000 heranrückt. Der Originalbericht beschrieb den Anstieg als Vorstoß bis knapp unter “8.000 pi” und hob damit die Rekorddynamik hervor. Weitere Angaben zu konkreten Gründen für den Anstieg, Beiträgen einzelner Aktien, Handelsvolumen oder anderen Kennzahlen wurden nicht genannt. Anleger dürften nun beobachten, ob der KOSPI tatsächlich 8.000 erreicht und ob die Serie neuer Höchststände anhält. Quelle: mk.co.kr."
-      },
-      "fr": {
-        "title": "Le KOSPI atteint un record à 7 981 et se rapproche du seuil de 8 000",
-        "excerpt": "Le KOSPI a de nouveau inscrit un plus haut historique à 7 981 et s’est rapproché du seuil de 8 000, a rapporté mk.co.kr dans une alerte sur l’indice coréen.",
-        "body": "Le KOSPI a de nouveau progressé jusqu’à un plus haut historique de 7 981, a rapporté mk.co.kr dans une alerte. Ce record retient l’attention car l’indice de référence du marché sud-coréen se rapproche désormais du seuil de 8 000. L’article original a décrit ce mouvement comme une avancée jusqu’au seuil des “8 000 pi”, soulignant la dynamique de records. Aucun autre détail n’a été donné sur les raisons précises de la hausse, la contribution des valeurs individuelles, le montant des échanges ou d’autres chiffres liés. Les investisseurs suivront si le KOSPI atteint effectivement 8 000 et si la série de records se poursuit. Source: mk.co.kr."
-      },
-      "ar": {
-        "title": "مؤشر كوسبي يسجل ذروة تاريخية عند 7981 ويقترب من مستوى 8000",
-        "excerpt": "أفاد mk.co.kr في خبر عاجل بأن مؤشر كوسبي سجل مجددا أعلى مستوى تاريخي عند 7981 مقتربا من مستوى 8000، ما يسلط الضوء على حركة المؤشر الكوري الرئيسي.",
-        "body": "سجل مؤشر كوسبي مجددا أعلى مستوى تاريخي وبلغ 7981، وفق ما أفاد mk.co.kr في خبر عاجل. وتحظى هذه القراءة بالاهتمام لأن المؤشر القياسي لسوق الأسهم في كوريا الجنوبية أصبح قريبا من مستوى 8000. ووصف التقرير الأصلي الحركة بأنها تقدم إلى ما دون “8000 بي” مباشرة، مؤكدا زخم تسجيل القمم التاريخية. ولم يورد التقرير تفاصيل إضافية عن الأسباب المحددة للصعود أو مساهمة الأسهم الفردية أو قيمة التداول أو أرقام أخرى مرتبطة. ومن المتوقع أن يراقب المستثمرون ما إذا كان كوسبي سيصل فعليا إلى 8000 وما إذا كان مسار تسجيل القمم التاريخية سيستمر. المصدر: mk.co.kr."
-      },
-      "hi": {
-        "title": "KOSPI 7,981 के रिकॉर्ड उच्च स्तर पर, 8,000 के करीब पहुंचा कोरियाई बाजार",
-        "excerpt": "mk.co.kr की ब्रेकिंग रिपोर्ट के अनुसार KOSPI फिर 7,981 के सर्वकालिक उच्च स्तर पर पहुंचा और 8,000 के करीब आया, जिससे कोरिया के प्रमुख शेयर सूचकांक पर ध्यान बढ़ा।",
-        "body": "mk.co.kr की ब्रेकिंग रिपोर्ट के अनुसार KOSPI फिर सर्वकालिक उच्च स्तर बनाते हुए 7,981 तक पहुंच गया। यह रिकॉर्ड इसलिए ध्यान खींचता है क्योंकि दक्षिण कोरिया का प्रमुख शेयर सूचकांक अब 8,000 के स्तर के करीब है। मूल रिपोर्ट ने कहा कि KOSPI “8,000 pi” के ठीक नीचे तक बढ़ा, जिससे रिकॉर्ड ऊंचाई की रफ्तार पर जोर दिया गया। तेजी के विशिष्ट कारणों, अलग-अलग शेयरों के योगदान, कारोबार मूल्य या अन्य संबंधित आंकड़ों पर अतिरिक्त जानकारी नहीं दी गई। निवेशक यह देखेंगे कि KOSPI वास्तव में 8,000 तक पहुंचता है या नहीं और सर्वकालिक उच्च स्तर बनाने का सिलसिला जारी रहता है या नहीं। स्रोत: mk.co.kr."
-      },
-      "id": {
-        "title": "KOSPI Cetak Rekor 7.981, Indeks Korea Kian Dekat ke Level 8.000",
-        "excerpt": "KOSPI kembali mencetak rekor tertinggi sepanjang masa di 7.981 dan mendekati level 8.000, menurut laporan kilat mk.co.kr tentang indeks saham utama Korea.",
-        "body": "KOSPI kembali naik dan mencetak rekor tertinggi sepanjang masa di 7.981, menurut laporan kilat mk.co.kr. Rekor ini menarik perhatian karena indeks saham acuan Korea Selatan kini mendekati level 8.000. Laporan asli menggambarkan pergerakan tersebut sebagai langkah menuju tepat di bawah “8.000 pi”, menegaskan momentum rekor tertinggi. Tidak ada rincian tambahan mengenai alasan spesifik kenaikan, kontribusi masing-masing saham, nilai transaksi, atau angka terkait lainnya. Investor kemungkinan akan memantau apakah KOSPI benar-benar mencapai 8.000 dan apakah tren pencetakan rekor tertinggi berlanjut. Sumber: mk.co.kr."
-      }
-    }
-  },
-  {
-    "id": "3d920b4dbbad",
-    "slug": "오른-삼전-대신-빠진-닉스로로보스타도-관심-주식-초고수는-지금-405399",
-    "channelId": "ETF",
-    "category": "etf",
-    "publishedAt": "2026-05-14T07:18:39.235Z",
-    "updatedAt": "2026-05-14T07:18:39.235Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/stock/12047610",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12047610",
-    "titleFingerprint": "d942690ae1556f608d782f354adb15d507d24a3d",
-    "dedupKeys": [
-      "3d920b4dbbadbf9beec984fbf6cb70f8de681cd4",
-      "d942690ae1556f608d782f354adb15d507d24a3d",
-      "97453358ae45108f19544d2cc0ffe17ebd07555d"
-    ],
-    "imageUrl": "/images/articles/3d920b4dbbad.png",
-    "i18n": {
-      "ko": {
-        "title": "하이닉스·로보스타 매수세 집중, 초고수는 오른 삼성전자보다 빠진 종목 봤다",
-        "excerpt": "14일 오후 2시30분 기준 주식 투자 수익률 상위 1% 투자자들은 오른 삼성전자 대신 빠진 하이닉스를 공격적으로 매집했고, 로보틱스 핵심주 로보스타에도 관심을 보였다.",
-        "body": "14일 오후 2시30분 거래 동향에 따르면 주식 투자 수익률 상위 1% 초고수들은 상승한 삼성전자보다 하락한 하이닉스에 매수세를 집중했다. 원문은 초고수들이 오후 들어 전자 대신 닉스를 공격적으로 매집했다고 전했다. 로보틱스 관련 핵심 종목으로 꼽히는 로보스타도 초고수들의 관심 종목에 올랐다. 이날 흐름은 단기 가격 변동 속에서 반도체와 로보틱스 종목에 대한 고수 투자자의 선택이 어디로 향했는지를 보여준다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Hynix and Robostar Draw Top Investors as Samsung Electronics Rises",
-        "excerpt": "As of 2:30 p.m. on the 14th, the top 1% of stock investors by return aggressively bought weakened Hynix instead of rising Samsung Electronics, while also watching robotics name Robostar.",
-        "body": "According to trading trends at 2:30 p.m. on the 14th, the top 1% of stock investors by return focused buying on Hynix, which had fallen, rather than Samsung Electronics, which had risen. The original report said elite investors moved in the afternoon to accumulate “Nix” instead of electronics. Robostar, cited as a key robotics-related stock, also entered the group’s area of interest. The move shows where high-performing investors directed attention amid short-term price changes in semiconductors and robotics. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "ハイニックスとロボスターに買い関心、上昇サムスン電子より下落銘柄へ",
-        "excerpt": "14日午後2時30分時点で、株式投資収益率上位1%の投資家は上昇したサムスン電子ではなく下落したハイニックスを積極的に買い集め、ロボスターにも関心を示した。",
-        "body": "14日午後2時30分の取引動向によると、株式投資収益率上位1%の投資家は、上昇したサムスン電子よりも下落したハイニックスに買いを集中させた。原文は、超上級投資家が午後に入り電子の代わりにニックスを攻撃的に買い集めたと伝えた。ロボティクス関連の中核銘柄とされるロボスターも、彼らの注目銘柄に入った。この流れは短期的な価格変動の中で、半導体とロボティクス銘柄に対する高収益投資家の選択を示している。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "海力士与Robostar获顶尖投资者关注，资金转向下跌股",
-        "excerpt": "截至14日下午2点30分，股票投资收益率前1%的投资者没有追随上涨的三星电子，而是积极买入回落的海力士，并关注机器人核心股Robostar。",
-        "body": "根据14日下午2点30分的交易动向，股票投资收益率前1%的高手投资者把买盘集中在下跌的海力士，而不是已经上涨的三星电子。原文称，这些投资者进入下午后，选择积极吸纳“尼克斯”，而非电子股。被视为机器人相关核心标的的Robostar也进入其关注范围。该动向显示，在短期价格波动中，高收益投资者对半导体和机器人板块的选择方向。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Hynix y Robostar atraen a los inversores top frente al alza de Samsung Electronics",
-        "excerpt": "A las 14:30 del día 14, el 1% de inversores bursátiles con mayor rentabilidad compró de forma agresiva Hynix tras su caída, en vez de Samsung Electronics al alza, y miró Robostar.",
-        "body": "Según las tendencias de negociación de las 14:30 del día 14, el 1% de inversores bursátiles con mayor rentabilidad concentró compras en Hynix, que había retrocedido, más que en Samsung Electronics, que había subido. El reporte original señaló que los inversores expertos pasaron la tarde acumulando “Nix” en lugar de electrónica. Robostar, considerada una acción clave vinculada a la robótica, también entró en su foco. El movimiento muestra hacia dónde dirigieron su atención estos inversores en medio de variaciones de corto plazo en semiconductores y robótica. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Hynix e Robostar atraem investidores de elite enquanto Samsung Electronics sobe",
-        "excerpt": "Às 14h30 do dia 14, o 1% dos investidores em ações com maior retorno comprou agressivamente Hynix em queda, em vez de Samsung Electronics em alta, e também observou Robostar.",
-        "body": "Segundo as tendências de negociação das 14h30 do dia 14, o 1% dos investidores em ações com maior retorno concentrou compras em Hynix, que recuava, em vez de Samsung Electronics, que subia. A reportagem original afirmou que os investidores de elite passaram a tarde acumulando “Nix” no lugar de eletrônicos. A Robostar, citada como ação central ligada à robótica, também entrou no radar desse grupo. O movimento mostra para onde se voltou a atenção dos investidores de melhor desempenho em meio a oscilações de curto prazo em semicondutores e robótica. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Hynix und Robostar im Fokus der Top-Anleger statt gestiegener Samsung Electronics",
-        "excerpt": "Am 14. um 14:30 Uhr kauften die renditestärksten 1% der Aktienanleger verstärkt die gefallene Hynix statt der gestiegenen Samsung Electronics und richteten den Blick auch auf Robostar.",
-        "body": "Den Handelsdaten vom 14. um 14:30 Uhr zufolge konzentrierten die renditestärksten 1% der Aktienanleger ihre Käufe auf Hynix, die gefallen war, und weniger auf Samsung Electronics, die gestiegen war. Der Originalbericht meldete, dass diese erfahrenen Anleger am Nachmittag statt Elektronik aggressiv “Nix” einsammelten. Auch Robostar, ein als wichtiger Robotikwert genannter Titel, rückte in ihren Fokus. Die Entwicklung zeigt, wohin leistungsstarke Investoren bei kurzfristigen Kursbewegungen in Halbleitern und Robotik blickten. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Hynix et Robostar attirent les meilleurs investisseurs plutôt que Samsung Electronics en hausse",
-        "excerpt": "À 14h30 le 14, les 1% d’investisseurs actions les plus performants ont acheté Hynix en repli plutôt que Samsung Electronics en hausse, tout en s’intéressant aussi à Robostar.",
-        "body": "Selon les tendances de négociation à 14h30 le 14, les 1% d’investisseurs actions les plus performants ont concentré leurs achats sur Hynix, en baisse, plutôt que sur Samsung Electronics, en hausse. Le rapport original indique que ces investisseurs chevronnés ont accumulé l’après-midi “Nix” au lieu de l’électronique. Robostar, présenté comme une valeur clé liée à la robotique, a également figuré dans leur champ d’intérêt. Ce mouvement montre où s’est portée l’attention des investisseurs à haut rendement face aux variations de court terme des semi-conducteurs et de la robotique. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "هاينكس وروبوستار يجذبان كبار المستثمرين بدلا من سامسونغ إلكترونيكس الصاعدة",
-        "excerpt": "حتى الساعة 2:30 بعد ظهر يوم 14، ركز أعلى 1% من مستثمري الأسهم من حيث العائد على شراء هاينكس المتراجعة بدلا من سامسونغ إلكترونيكس الصاعدة، مع اهتمام بروبوستار.",
-        "body": "بحسب اتجاهات التداول عند الساعة 2:30 بعد ظهر يوم 14، ركز أعلى 1% من مستثمري الأسهم من حيث العائد مشترياتهم على هاينكس التي تراجعت، بدلا من سامسونغ إلكترونيكس التي ارتفعت. وذكر التقرير الأصلي أن المستثمرين المتمرسين اتجهوا بعد الظهر إلى تجميع “نيكس” بقوة بدلا من أسهم الإلكترونيات. كما دخلت روبوستار، المصنفة ضمن الأسهم الرئيسية المرتبطة بالروبوتات، دائرة اهتمامهم. ويظهر هذا التحرك أين توجه اختيار المستثمرين أصحاب الأداء المرتفع وسط تغيرات سعرية قصيرة الأجل في أشباه الموصلات والروبوتات. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "हाइनिक्स और रोबोस्टार पर टॉप निवेशकों की नजर, सैमसंग इलेक्ट्रॉनिक्स से हटकर खरीदारी",
-        "excerpt": "14 तारीख को दोपहर 2:30 बजे तक शेयर रिटर्न में शीर्ष 1% निवेशकों ने चढ़ी सैमसंग इलेक्ट्रॉनिक्स के बजाय गिरी हाइनिक्स को आक्रामक रूप से खरीदा और रोबोस्टार में भी रुचि दिखाई।",
-        "body": "14 तारीख को दोपहर 2:30 बजे के ट्रेडिंग रुझान के अनुसार, शेयर निवेश रिटर्न में शीर्ष 1% निवेशकों ने चढ़ी हुई सैमसंग इलेक्ट्रॉनिक्स के बजाय गिरी हुई हाइनिक्स में खरीदारी केंद्रित की। मूल रिपोर्ट में कहा गया कि दोपहर के बाद विशेषज्ञ निवेशकों ने इलेक्ट्रॉनिक्स की जगह “निक्स” को आक्रामक रूप से जमा किया। रोबोटिक्स से जुड़ा प्रमुख शेयर मानी जाने वाली रोबोस्टार भी उनकी रुचि सूची में शामिल रही। यह रुझान दिखाता है कि अल्पकालिक मूल्य उतार-चढ़ाव के बीच उच्च प्रदर्शन वाले निवेशकों का ध्यान सेमीकंडक्टर और रोबोटिक्स शेयरों में कहां गया। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Hynix dan Robostar Dilirik Investor Top, Bukan Samsung Electronics yang Naik",
-        "excerpt": "Pada pukul 14.30 tanggal 14, investor saham 1% teratas berdasarkan imbal hasil agresif mengakumulasi Hynix yang melemah, bukan Samsung Electronics yang naik, serta mencermati Robostar.",
-        "body": "Menurut tren transaksi pukul 14.30 pada tanggal 14, investor saham 1% teratas berdasarkan imbal hasil memusatkan pembelian pada Hynix yang turun, bukan Samsung Electronics yang naik. Laporan asli menyebut para investor berpengalaman pada siang hari mulai agresif mengakumulasi “Nix” alih-alih saham elektronik. Robostar, yang disebut sebagai saham inti terkait robotika, juga masuk daftar perhatian mereka. Pergerakan ini menunjukkan ke mana pilihan investor berkinerja tinggi mengarah di tengah perubahan harga jangka pendek pada saham semikonduktor dan robotika. Sumber: mk.co.kr"
       }
     }
   }
