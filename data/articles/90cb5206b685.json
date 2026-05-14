@@ -1,0 +1,75 @@
+{
+  "id": "90cb5206b685",
+  "slug": "美주식분석-ai모델-개발-고3-투자-정보-비대칭-허물-것-741144",
+  "channelId": "ETF",
+  "category": "etf",
+  "publishedAt": "2026-05-14T10:11:03.267Z",
+  "updatedAt": "2026-05-14T10:11:03.267Z",
+  "sourceName": "mk.co.kr",
+  "sourceUrl": "https://www.mk.co.kr/news/stock/12047947",
+  "canonicalUrl": "https://www.mk.co.kr/news/stock/12047947",
+  "titleFingerprint": "6cf696dd36ea4c922e08bef182b5504416e703bb",
+  "dedupKeys": [
+    "90cb5206b6851f956ce3724872b68bc83ffd3b4b",
+    "6cf696dd36ea4c922e08bef182b5504416e703bb",
+    "b7cc4dcf015622c80ecd486904e127e5f1f008b5"
+  ],
+  "imageUrl": "/images/articles/90cb5206b685.jpg",
+  "i18n": {
+    "ko": {
+      "title": "미국 주식 분석 AI 만든 고3, 투자 정보 비대칭 해소 도전",
+      "excerpt": "중3 때 투자를 시작해 투자대회 최상위권에 오른 고3 학생이 미국 주식 분석 AI 모델을 개발하며 금융정보 해석과 실제 투자 판단 연결을 목표로 했다.",
+      "body": "중학교 3학년 때 투자에 입문한 뒤 투자대회에서 최상위권에 오른 한 고3 학생이 미국 주식 분석을 위한 AI 모델을 개발했다고 mk.co.kr이 전했다. 이 학생은 자신의 투자 경험을 바탕으로 시장 분석 AI를 만들었으며, 해당 모델은 시장 상태에 따라 판단 기준을 스스로 바꾸는 방식으로 설계됐다. 또 여러 금융 정보를 종합적으로 해석해 실제 투자 판단으로 연결하는 것을 목표로 한다. 그는 투자 과정에서 느낀 정보 접근 격차를 줄이고, 개인 투자자가 더 균형 잡힌 판단을 할 수 있도록 돕겠다는 취지로 개발을 진행했다. 이번 사례는 청소년 투자 경험과 AI 기술이 결합해 투자 정보 비대칭 문제에 접근한 사례로 주목된다. 출처: mk.co.kr"
+    },
+    "en": {
+      "title": "High School Senior Builds U.S. Stock Analysis AI to Narrow Investor Information Gaps",
+      "excerpt": "A high school senior who began investing in ninth grade and ranked near the top in investment contests has developed an AI model for U.S. stock analysis.",
+      "body": "A high school senior who began investing in ninth grade and later ranked near the top in investment competitions has developed an AI model for analyzing U.S. stocks, mk.co.kr reported. Drawing on personal investing experience, the student built a market analysis AI designed to change its own judgment criteria depending on market conditions. The model also aims to synthesize financial information and connect that interpretation to actual investment decisions. The student said the goal is to reduce the information access gap felt during investing and help individual investors make more balanced judgments. The case is drawing attention as an example of youth investing experience combined with AI technology to address information asymmetry in markets. Source: mk.co.kr"
+    },
+    "ja": {
+      "title": "米国株分析AIを開発した高校3年生、投資情報の非対称性解消に挑む",
+      "excerpt": "中学3年で投資を始め、投資大会で上位に入った高校3年生が、米国株分析AIモデルを開発し投資判断への活用を目指している。",
+      "body": "中学3年生の時に投資を始め、その後、投資大会で最上位圏に入った高校3年生が、米国株分析のためのAIモデルを開発したとmk.co.krが伝えた。この学生は自身の投資経験をもとに市場分析AIを作り、同モデルは市場の状態に応じて判断基準を自ら変える仕組みで設計された。また、複数の金融情報を総合的に解釈し、実際の投資判断につなげることを目標としている。学生は投資過程で感じた情報アクセスの格差を縮小し、個人投資家がより均衡の取れた判断をできるよう支援する趣旨で開発を進めた。若い投資経験とAI技術を結び付け、投資情報の非対称性に取り組む事例として注目される。出典: mk.co.kr"
+    },
+    "zh": {
+      "title": "高中生开发美股分析AI，挑战投资信息不对称问题",
+      "excerpt": "一名从初三开始投资、在投资比赛中名列前茅的高三学生开发了美国股票分析AI模型，目标是连接金融信息解读与实际投资判断。",
+      "body": "据mk.co.kr报道，一名从初三开始接触投资、随后在投资比赛中进入最前列的高三学生开发了用于分析美国股票的AI模型。这名学生以自己的投资经验为基础打造市场分析AI，该模型被设计为可根据市场状态自行调整判断标准。同时，它的目标是综合解读多种金融信息，并将这些解读连接到实际投资判断。该学生表示，开发初衷是缩小自己在投资过程中感受到的信息获取差距，帮助个人投资者作出更均衡的判断。此案例因把青少年投资经验与AI技术结合，并尝试应对投资信息不对称问题而受到关注。来源: mk.co.kr"
+    },
+    "es": {
+      "title": "Estudiante de secundaria crea IA para analizar acciones de EE.UU. y reducir brechas informativas",
+      "excerpt": "Un alumno de último año de secundaria, inversor desde noveno grado y destacado en concursos de inversión, desarrolló un modelo de IA para analizar acciones estadounidenses.",
+      "body": "Un estudiante de último año de secundaria que comenzó a invertir en noveno grado y luego se ubicó entre los puestos más altos en concursos de inversión desarrolló un modelo de IA para analizar acciones de Estados Unidos, informó mk.co.kr. Basado en su propia experiencia inversora, el estudiante creó una IA de análisis de mercado diseñada para cambiar por sí misma sus criterios de evaluación según el estado del mercado. El modelo también busca interpretar de forma integral información financiera y conectarla con decisiones reales de inversión. El objetivo es reducir la brecha de acceso a la información percibida durante la inversión y ayudar a los inversores particulares a tomar decisiones más equilibradas. El caso llama la atención por combinar experiencia inversora juvenil y tecnología de IA para abordar la asimetría informativa. Fuente: mk.co.kr"
+    },
+    "pt": {
+      "title": "Estudante do ensino médio cria IA para analisar ações dos EUA e reduzir assimetria de informação",
+      "excerpt": "Um estudante do último ano do ensino médio, investidor desde o 9º ano e destaque em concursos de investimento, desenvolveu um modelo de IA para ações dos EUA.",
+      "body": "Um estudante do último ano do ensino médio que começou a investir no 9º ano e depois ficou entre os primeiros colocados em competições de investimento desenvolveu um modelo de IA para analisar ações dos Estados Unidos, informou o mk.co.kr. Com base em sua própria experiência de investimento, ele criou uma IA de análise de mercado projetada para alterar seus critérios de julgamento conforme o estado do mercado. O modelo também busca interpretar informações financeiras de forma abrangente e conectá-las a decisões reais de investimento. O objetivo é reduzir a diferença de acesso à informação percebida durante o processo de investimento e ajudar investidores individuais a tomar decisões mais equilibradas. O caso chama atenção por unir experiência jovem em investimentos e tecnologia de IA para enfrentar a assimetria de informação. Fonte: mk.co.kr"
+    },
+    "de": {
+      "title": "Schüler entwickelt KI für US-Aktienanalyse und will Informationslücken bei Anlegern verringern",
+      "excerpt": "Ein Oberstufenschüler, der in der neunten Klasse mit dem Investieren begann und bei Wettbewerben vorne lag, hat ein KI-Modell für US-Aktien entwickelt.",
+      "body": "Ein Schüler im letzten Highschool-Jahr, der in der neunten Klasse mit dem Investieren begann und später bei Investmentwettbewerben Spitzenplätze erreichte, hat ein KI-Modell zur Analyse von US-Aktien entwickelt, berichtete mk.co.kr. Auf Grundlage seiner eigenen Anlageerfahrung baute der Schüler eine Marktanalyse-KI, die ihre Bewertungskriterien je nach Marktlage selbst anpassen soll. Das Modell zielt außerdem darauf ab, verschiedene Finanzinformationen umfassend zu interpretieren und diese Auswertung mit tatsächlichen Anlageentscheidungen zu verbinden. Entwickelt wurde es mit dem Ziel, die beim Investieren wahrgenommene Lücke beim Informationszugang zu verringern und Privatanlegern ausgewogenere Entscheidungen zu ermöglichen. Der Fall gilt als Beispiel dafür, wie jugendliche Anlageerfahrung und KI-Technologie zur Frage der Informationsasymmetrie beitragen können. Quelle: mk.co.kr"
+    },
+    "fr": {
+      "title": "Un lycéen crée une IA d’analyse des actions américaines pour réduire l’asymétrie d’information",
+      "excerpt": "Un lycéen en dernière année, investisseur depuis la classe de troisième et bien classé en concours, a développé un modèle d’IA pour analyser les actions américaines.",
+      "body": "Un lycéen en dernière année, qui a commencé à investir en classe de troisième et s’est ensuite classé parmi les meilleurs lors de concours d’investissement, a développé un modèle d’IA destiné à analyser les actions américaines, a rapporté mk.co.kr. S’appuyant sur sa propre expérience d’investisseur, il a conçu une IA d’analyse de marché capable de modifier ses critères de jugement selon l’état du marché. Le modèle vise aussi à interpréter de manière globale diverses informations financières et à relier cette analyse à de véritables décisions d’investissement. Son objectif est de réduire l’écart d’accès à l’information ressenti pendant l’investissement et d’aider les investisseurs particuliers à prendre des décisions plus équilibrées. Ce cas attire l’attention comme exemple d’association entre expérience d’investissement chez un jeune et technologie d’IA face à l’asymétrie d’information. Source: mk.co.kr"
+    },
+    "ar": {
+      "title": "طالب ثانوي يطور ذكاء اصطناعيا لتحليل الأسهم الأميركية وتقليص فجوة معلومات الاستثمار",
+      "excerpt": "طور طالب في الصف الأخير الثانوي، بدأ الاستثمار في المرحلة المتوسطة وحقق مراكز متقدمة في مسابقات الاستثمار، نموذج ذكاء اصطناعي لتحليل الأسهم الأميركية.",
+      "body": "أفاد موقع mk.co.kr بأن طالبا في الصف الأخير من المرحلة الثانوية، بدأ الاستثمار عندما كان في الصف الثالث من المرحلة المتوسطة وحقق لاحقا مراكز متقدمة في مسابقات الاستثمار، طور نموذجا للذكاء الاصطناعي لتحليل الأسهم الأميركية. وبالاستناد إلى خبرته الاستثمارية، أنشأ الطالب ذكاء اصطناعيا لتحليل السوق صمم بحيث يغير معايير الحكم الخاصة به وفقا لحالة السوق. كما يهدف النموذج إلى تفسير المعلومات المالية بصورة شاملة وربط هذا التفسير بقرارات استثمار فعلية. وقال الطالب إن الغاية هي تقليص فجوة الوصول إلى المعلومات التي شعر بها أثناء الاستثمار ومساعدة المستثمرين الأفراد على اتخاذ أحكام أكثر توازنا. وتلفت الحالة الانتباه بوصفها مثالا على الجمع بين تجربة استثمارية شابة وتقنية الذكاء الاصطناعي لمعالجة عدم تماثل المعلومات الاستثمارية. المصدر: mk.co.kr"
+    },
+    "hi": {
+      "title": "अमेरिकी शेयर विश्लेषण AI बनाने वाले हाई स्कूल छात्र का लक्ष्य निवेश सूचना असमानता घटाना",
+      "excerpt": "कक्षा 9 से निवेश शुरू कर प्रतियोगिताओं में शीर्ष स्थान पाने वाले अंतिम वर्ष के हाई स्कूल छात्र ने अमेरिकी शेयर विश्लेषण के लिए AI मॉडल विकसित किया है।",
+      "body": "mk.co.kr के अनुसार, कक्षा 9 में निवेश शुरू करने और बाद में निवेश प्रतियोगिताओं में शीर्ष श्रेणी में स्थान पाने वाले अंतिम वर्ष के एक हाई स्कूल छात्र ने अमेरिकी शेयरों के विश्लेषण के लिए AI मॉडल विकसित किया है। अपने निवेश अनुभव के आधार पर छात्र ने बाजार विश्लेषण AI बनाया है, जिसे बाजार की स्थिति के अनुसार अपने निर्णय मानदंड स्वयं बदलने के लिए डिजाइन किया गया है। मॉडल का लक्ष्य विभिन्न वित्तीय जानकारियों की समग्र व्याख्या करना और उसे वास्तविक निवेश निर्णयों से जोड़ना भी है। छात्र ने निवेश के दौरान महसूस हुई सूचना पहुंच की खाई को कम करने और व्यक्तिगत निवेशकों को अधिक संतुलित निर्णय लेने में मदद करने के उद्देश्य से यह विकास किया। यह मामला युवा निवेश अनुभव और AI तकनीक को जोड़कर निवेश सूचना असमानता से निपटने के उदाहरण के रूप में ध्यान आकर्षित कर रहा है। स्रोत: mk.co.kr"
+    },
+    "id": {
+      "title": "Siswa SMA Kembangkan AI Analisis Saham AS untuk Kurangi Asimetri Informasi Investasi",
+      "excerpt": "Siswa kelas akhir SMA yang mulai berinvestasi sejak kelas 9 dan meraih posisi atas dalam kompetisi investasi mengembangkan model AI untuk analisis saham AS.",
+      "body": "Seorang siswa kelas akhir SMA yang mulai berinvestasi sejak kelas 9 dan kemudian meraih posisi teratas dalam kompetisi investasi telah mengembangkan model AI untuk menganalisis saham Amerika Serikat, lapor mk.co.kr. Berdasarkan pengalaman investasinya sendiri, siswa tersebut membuat AI analisis pasar yang dirancang untuk mengubah kriteria penilaiannya sesuai kondisi pasar. Model itu juga bertujuan menafsirkan berbagai informasi keuangan secara menyeluruh dan menghubungkannya dengan keputusan investasi nyata. Ia mengembangkan model ini untuk mengurangi kesenjangan akses informasi yang dirasakan selama berinvestasi dan membantu investor individu mengambil keputusan yang lebih seimbang. Kasus ini menarik perhatian sebagai contoh penggabungan pengalaman investasi remaja dengan teknologi AI untuk mendekati masalah asimetri informasi investasi. Sumber: mk.co.kr"
+    }
+  }
+}
