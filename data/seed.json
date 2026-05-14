@@ -1,5 +1,230 @@
 [
   {
+    "id": "5d6c077a0e6e",
+    "slug": "삼전하닉-따블이요단일종목-레버리지-etf-14개-출격-준비-700404",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-05-14T08:20:32.000Z",
+    "updatedAt": "2026-05-14T08:20:32.000Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/stock/12047713",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12047713",
+    "titleFingerprint": "39f7f42b256566ae926cb7519e4d186f00ca0348",
+    "dedupKeys": [
+      "5d6c077a0e6e071fe1f781f3aadb58b223334d01",
+      "39f7f42b256566ae926cb7519e4d186f00ca0348",
+      "84024c8165361fe17d9e16baf64918351a1d31fa"
+    ],
+    "imageUrl": "/images/articles/5d6c077a0e6e.jpg",
+    "i18n": {
+      "ko": {
+        "title": "삼성전자·SK하이닉스 단일종목 레버리지 ETF 14개, 27일 상장 준비",
+        "excerpt": "삼성전자와 SK하이닉스를 기초자산으로 한 단일종목 레버리지 ETF 14개와 인버스 ETF 2개가 공시를 마무리하고 이달 27일 상장을 준비한다. 수수료 경쟁도 치열해지고 있다.",
+        "body": "삼성전자와 SK하이닉스를 기초자산으로 한 단일종목 레버리지 ETF 14개가 이달 27일 상장을 앞두고 출격을 준비하고 있다. 원문에 따르면 관련 인버스 ETF 2개도 공시 절차를 마무리했다. 이번 상품들은 국내 대표 반도체 종목인 삼성전자와 SK하이닉스의 주가 움직임을 기초로 설계된 단일종목형 ETF다. 레버리지 상품은 기초자산 변동폭을 확대해 추종하고, 인버스 상품은 반대 방향의 성과를 노린다. 복수 운용사가 같은 기초자산을 두고 상품을 내놓으면서 수수료 경쟁도 치열해지는 분위기다. 상장 이후 투자자는 개별 종목 대신 ETF 형태로 관련 전략에 접근할 수 있게 된다. 출처: mk.co.kr."
+      },
+      "en": {
+        "title": "Samsung Electronics and SK hynix Single-Stock Leveraged ETFs Set for May 27 Listing",
+        "excerpt": "Fourteen single-stock leveraged ETFs based on Samsung Electronics and SK hynix, along with two inverse ETFs, have completed disclosures and are preparing to list on the 27th of this month amid fee competition.",
+        "body": "Fourteen single-stock leveraged ETFs using Samsung Electronics and SK hynix as underlying assets are preparing to list on the 27th of this month. According to the original report, two related inverse ETFs have also completed their disclosure process. The products are single-stock ETFs designed around the share-price movements of South Korea’s major semiconductor names, Samsung Electronics and SK hynix. Leveraged ETFs seek to magnify moves in the underlying asset, while inverse ETFs target performance in the opposite direction. As multiple asset managers launch products tied to the same underlying stocks, fee competition is becoming intense. After listing, investors will be able to access these strategies through ETFs rather than individual shares. Source: mk.co.kr."
+      },
+      "ja": {
+        "title": "サムスン電子・SKハイニックス単一銘柄レバレッジETF14本、27日上場へ",
+        "excerpt": "サムスン電子とSKハイニックスを原資産とする単一銘柄レバレッジETF14本とインバースETF2本が開示を終え、今月27日の上場を準備している。手数料競争も激しくなっている。",
+        "body": "サムスン電子とSKハイニックスを原資産とする単一銘柄レバレッジETF14本が、今月27日の上場を控えて準備を進めている。原文によると、関連するインバースETF2本も開示手続きを終えた。これらの商品は、韓国を代表する半導体銘柄であるサムスン電子とSKハイニックスの株価変動を基に設計された単一銘柄型ETFだ。レバレッジ商品は原資産の変動幅を拡大して追随し、インバース商品は反対方向の成果を狙う。複数の運用会社が同じ原資産を巡って商品を投入するため、手数料競争も激しさを増している。上場後、投資家は個別株ではなくETF形式で関連戦略にアクセスできる。出典: mk.co.kr."
+      },
+      "zh": {
+        "title": "三星电子、SK海力士单一股票杠杆ETF 14只拟于27日上市",
+        "excerpt": "以三星电子和SK海力士为基础资产的14只单一股票杠杆ETF，以及2只反向ETF已完成公告程序，准备于本月27日上市，相关费率竞争也趋于激烈。",
+        "body": "以三星电子和SK海力士为基础资产的14只单一股票杠杆ETF，正准备于本月27日上市。原文称，相关2只反向ETF也已完成公告程序。这些产品是围绕韩国代表性半导体股票三星电子和SK海力士股价走势设计的单一股票型ETF。杠杆产品旨在放大跟踪基础资产的波动，反向产品则追求与基础资产相反方向的表现。随着多家资产管理公司围绕相同基础资产推出产品，费率竞争也在加剧。上市后，投资者可通过ETF形式而非直接买卖个股来接触相关策略。来源: mk.co.kr."
+      },
+      "es": {
+        "title": "ETF apalancados de Samsung Electronics y SK hynix preparan salida el día 27",
+        "excerpt": "Catorce ETF apalancados de acción única basados en Samsung Electronics y SK hynix, junto con dos ETF inversos, completaron sus comunicados y se preparan para cotizar el día 27 de este mes.",
+        "body": "Catorce ETF apalancados de acción única que usan Samsung Electronics y SK hynix como activos subyacentes se preparan para cotizar el día 27 de este mes. Según el texto original, dos ETF inversos relacionados también completaron el proceso de comunicación. Estos productos son ETF de acción única diseñados sobre los movimientos bursátiles de dos valores representativos del sector de semiconductores en Corea del Sur: Samsung Electronics y SK hynix. Los productos apalancados buscan ampliar la variación del activo subyacente, mientras que los inversos apuntan a un rendimiento en la dirección contraria. Con varias gestoras lanzando productos sobre los mismos activos, la competencia en comisiones se intensifica. Tras la cotización, los inversores podrán acceder a estas estrategias mediante ETF en lugar de acciones individuales. Fuente: mk.co.kr."
+      },
+      "pt": {
+        "title": "ETFs alavancados de Samsung Electronics e SK hynix miram listagem no dia 27",
+        "excerpt": "Quatorze ETFs alavancados de ação única baseados em Samsung Electronics e SK hynix, além de dois ETFs inversos, concluíram divulgações e se preparam para listar no dia 27 deste mês.",
+        "body": "Quatorze ETFs alavancados de ação única que têm Samsung Electronics e SK hynix como ativos subjacentes se preparam para listar no dia 27 deste mês. Segundo o texto original, dois ETFs inversos relacionados também concluíram o processo de divulgação. Os produtos são ETFs de ação única desenhados com base nos movimentos das ações de Samsung Electronics e SK hynix, nomes representativos do setor de semicondutores da Coreia do Sul. Os produtos alavancados buscam ampliar a variação do ativo subjacente, enquanto os inversos miram desempenho na direção oposta. Com várias gestoras lançando produtos sobre os mesmos ativos, a competição por taxas fica mais acirrada. Após a listagem, investidores poderão acessar essas estratégias por meio de ETFs, em vez de ações individuais. Fonte: mk.co.kr."
+      },
+      "de": {
+        "title": "Samsung-Electronics- und SK-hynix-Einzelaktien-Hebel-ETFs vor Listing am 27.",
+        "excerpt": "Vierzehn Einzelaktien-Hebel-ETFs auf Samsung Electronics und SK hynix sowie zwei inverse ETFs haben die Offenlegung abgeschlossen und bereiten ihre Notierung am 27. dieses Monats vor.",
+        "body": "Vierzehn Einzelaktien-Hebel-ETFs mit Samsung Electronics und SK hynix als Basiswerten bereiten sich auf eine Notierung am 27. dieses Monats vor. Dem Originalbericht zufolge haben auch zwei entsprechende inverse ETFs das Offenlegungsverfahren abgeschlossen. Die Produkte sind Einzelaktien-ETFs, die auf den Kursbewegungen der südkoreanischen Halbleiterwerte Samsung Electronics und SK hynix basieren. Hebelprodukte zielen darauf ab, Bewegungen des Basiswerts verstärkt abzubilden, während inverse Produkte eine Wertentwicklung in die Gegenrichtung anstreben. Da mehrere Vermögensverwalter Produkte auf dieselben Basiswerte auflegen, verschärft sich der Gebührenwettbewerb. Nach der Notierung können Anleger diese Strategien über ETFs statt über einzelne Aktien nutzen. Quelle: mk.co.kr."
+      },
+      "fr": {
+        "title": "ETF à effet de levier sur Samsung Electronics et SK hynix prêts pour le 27",
+        "excerpt": "Quatorze ETF à effet de levier sur action unique adossés à Samsung Electronics et SK hynix, ainsi que deux ETF inverses, ont finalisé leurs déclarations avant une cotation prévue le 27 de ce mois.",
+        "body": "Quatorze ETF à effet de levier sur action unique ayant Samsung Electronics et SK hynix comme actifs sous-jacents se préparent à une cotation le 27 de ce mois. Selon le texte original, deux ETF inverses liés ont également achevé leurs procédures de déclaration. Ces produits sont des ETF sur action unique conçus autour des mouvements de cours de Samsung Electronics et SK hynix, deux valeurs sud-coréennes majeures des semi-conducteurs. Les produits à effet de levier cherchent à amplifier les variations de l’actif sous-jacent, tandis que les produits inverses visent une performance en sens opposé. Comme plusieurs sociétés de gestion lancent des produits liés aux mêmes sous-jacents, la concurrence sur les frais s’intensifie. Après la cotation, les investisseurs pourront accéder à ces stratégies via des ETF plutôt qu’au moyen d’actions individuelles. Source: mk.co.kr."
+      },
+      "ar": {
+        "title": "صناديق رافعة على سهمي سامسونغ إلكترونيكس وSK هاينكس تستعد للإدراج في 27",
+        "excerpt": "أكملت 14 صندوق ETF رافعا على سهم واحد يستند إلى سامسونغ إلكترونيكس وSK هاينكس، إلى جانب صندوقين عكسيين، إجراءات الإفصاح استعدادا للإدراج في 27 من هذا الشهر وسط منافسة على الرسوم.",
+        "body": "تستعد 14 صندوق ETF رافعا على سهم واحد، تتخذ من سامسونغ إلكترونيكس وSK هاينكس أصلين أساسيين، للإدراج في 27 من هذا الشهر. ووفقا للنص الأصلي، أكمل صندوقا ETF عكسيان مرتبطان أيضا إجراءات الإفصاح. هذه المنتجات هي صناديق ETF لسهم واحد مصممة على أساس تحركات أسعار سهمي سامسونغ إلكترونيكس وSK هاينكس، وهما من أبرز أسهم أشباه الموصلات في كوريا الجنوبية. تسعى المنتجات الرافعة إلى تضخيم حركة الأصل الأساسي، بينما تستهدف المنتجات العكسية أداء في الاتجاه المقابل. ومع طرح عدة شركات إدارة أصول منتجات على الأصول نفسها، تشتد المنافسة على الرسوم. بعد الإدراج، سيتمكن المستثمرون من الوصول إلى هذه الاستراتيجيات عبر ETF بدلا من الأسهم الفردية. المصدر: mk.co.kr."
+      },
+      "hi": {
+        "title": "Samsung Electronics और SK hynix पर 14 सिंगल-स्टॉक लीवरेज ETF 27 को सूचीबद्ध होने की तैयारी में",
+        "excerpt": "Samsung Electronics और SK hynix को आधार परिसंपत्ति बनाने वाले 14 सिंगल-स्टॉक लीवरेज ETF और 2 इनवर्स ETF ने खुलासा प्रक्रिया पूरी कर ली है और इस महीने की 27 तारीख को सूचीबद्ध होने की तैयारी कर रहे हैं।",
+        "body": "Samsung Electronics और SK hynix को आधार परिसंपत्ति बनाने वाले 14 सिंगल-स्टॉक लीवरेज ETF इस महीने की 27 तारीख को सूचीबद्ध होने की तैयारी में हैं। मूल रिपोर्ट के अनुसार, संबंधित 2 इनवर्स ETF ने भी खुलासा प्रक्रिया पूरी कर ली है। ये उत्पाद दक्षिण कोरिया के प्रमुख सेमीकंडक्टर शेयरों Samsung Electronics और SK hynix की कीमतों की चाल पर आधारित सिंगल-स्टॉक ETF हैं। लीवरेज उत्पाद आधार परिसंपत्ति की चाल को बढ़ाकर ट्रैक करने का लक्ष्य रखते हैं, जबकि इनवर्स उत्पाद विपरीत दिशा में प्रदर्शन का लक्ष्य रखते हैं। एक ही आधार परिसंपत्तियों पर कई एसेट मैनेजर उत्पाद ला रहे हैं, इसलिए शुल्क प्रतिस्पर्धा तेज हो रही है। सूचीबद्ध होने के बाद निवेशक व्यक्तिगत शेयरों के बजाय ETF के माध्यम से इन रणनीतियों तक पहुंच सकेंगे। स्रोत: mk.co.kr."
+      },
+      "id": {
+        "title": "ETF Leveraged Saham Tunggal Samsung Electronics dan SK hynix Siap Listing 27 Ini",
+        "excerpt": "Empat belas ETF leveraged saham tunggal berbasis Samsung Electronics dan SK hynix, bersama dua ETF inverse, telah menyelesaikan pengungkapan dan bersiap listing pada tanggal 27 bulan ini.",
+        "body": "Empat belas ETF leveraged saham tunggal yang menggunakan Samsung Electronics dan SK hynix sebagai aset dasar bersiap listing pada tanggal 27 bulan ini. Menurut teks asli, dua ETF inverse terkait juga telah menyelesaikan proses pengungkapan. Produk ini adalah ETF saham tunggal yang dirancang berdasarkan pergerakan harga saham Samsung Electronics dan SK hynix, dua nama semikonduktor utama Korea Selatan. Produk leveraged berupaya memperbesar pergerakan aset dasar, sedangkan produk inverse menargetkan kinerja ke arah berlawanan. Karena beberapa manajer aset meluncurkan produk dengan aset dasar yang sama, persaingan biaya menjadi semakin ketat. Setelah listing, investor dapat mengakses strategi terkait melalui ETF, bukan langsung melalui saham individual. Sumber: mk.co.kr."
+      }
+    }
+  },
+  {
+    "id": "1f0b295672f1",
+    "slug": "늙그막에-용돈-써야할텐데퇴직연금-수급자-10명-중-8명-한방에-수령-223351",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-05-14T08:19:22.162Z",
+    "updatedAt": "2026-05-14T08:19:22.162Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/stock/12047743",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12047743",
+    "titleFingerprint": "c079e3f7d9422563f3369cf8d9610bcc7ffe7f83",
+    "dedupKeys": [
+      "1f0b295672f1d03fcf9af2a78cfa3fe29ec6b68d",
+      "c079e3f7d9422563f3369cf8d9610bcc7ffe7f83",
+      "11623667fc84aef31c1a3a5dd36e77f073c30047"
+    ],
+    "imageUrl": "/images/articles/1f0b295672f1.jpg",
+    "i18n": {
+      "ko": {
+        "title": "퇴직연금 수급자 84%가 일시금 선택…노후소득 안전망 논의 본격화",
+        "excerpt": "고용부와 금감원이 제도개선 세미나를 열고 지난해 퇴직연금 수급 개시자 60만명 중 84%가 일시금을 선택한 현황과 개선 방향을 논의했다.",
+        "body": "고용노동부와 금융감독원은 퇴직연금 제도개선 세미나에서 지난해 퇴직연금 수급을 시작한 약 60만명 가운데 84%가 연금이 아닌 일시금으로 수령한 현황을 공유했다. 연금 수령을 선택한 경우에도 10년 이하 단기 수령 비중이 82%에 달해, 퇴직연금이 노후소득으로 장기간 활용되는 데 한계가 있다는 점이 드러났다. 세미나에서는 종신연금과 장기연금 상품 확대 등 수급 방식 개선 방안이 논의됐다. 일시금 선호가 높게 유지될 경우 퇴직연금의 노후 보장 기능이 약해질 수 있어 제도 보완 필요성이 제기된다. 출처: mk.co.kr."
+      },
+      "en": {
+        "title": "Retirement Pension Lump-Sum Choice Hits 84%, Raising Old-Age Income Concerns",
+        "excerpt": "At a reform seminar, Korea’s labor ministry and financial regulator said 84% of 600,000 new retirement pension recipients last year chose lump-sum payments.",
+        "body": "Korea’s Ministry of Employment and Labor and the Financial Supervisory Service shared at a retirement pension reform seminar that 84% of about 600,000 people who began receiving retirement pensions last year took the money as a lump sum instead of as a pension. Even among those who chose pension payments, 82% opted for short payout periods of 10 years or less, showing limits in using retirement pensions as long-term old-age income. The seminar discussed measures such as expanding lifetime annuity and long-term pension products. If the preference for lump sums remains high, the retirement pension system’s role in supporting old-age security could weaken, highlighting the need for institutional improvements. Source: mk.co.kr."
+      },
+      "ja": {
+        "title": "退職年金受給者の84％が一時金選択、老後所得の機能に課題",
+        "excerpt": "雇用労働部と金融監督院は制度改善セミナーで、昨年の退職年金受給開始者60万人のうち84％が一時金を選んだ実態を議論した。",
+        "body": "韓国の雇用労働部と金融監督院は退職年金制度改善セミナーで、昨年退職年金の受給を始めた約60万人のうち84％が年金ではなく一時金で受け取った状況を共有した。年金受給を選んだ場合でも、10年以下の短期受給が82％に達し、退職年金が老後所得として長期的に活用されるには限界があることが示された。セミナーでは終身年金や長期年金商品の拡大など、受給方式の改善策が議論された。一時金志向が高いまま続けば、退職年金の老後保障機能が弱まる可能性があり、制度補完の必要性が提起されている。出典: mk.co.kr."
+      },
+      "zh": {
+        "title": "退休金领取者84%选择一次性领取，养老收入保障引发讨论",
+        "excerpt": "韩国雇佣劳动部和金融监督院在制度改善研讨会上表示，去年60万名新开始领取退休金者中84%选择一次性领取。",
+        "body": "韩国雇佣劳动部和金融监督院在退休金制度改善研讨会上表示，去年开始领取退休金的约60万人中，84%没有选择按年金领取，而是一次性领取。即便选择年金方式，10年以下短期领取的比例也达到82%，显示退休金作为长期养老收入来源仍存在局限。研讨会上讨论了扩大终身年金和长期年金产品等改善领取方式的方案。如果一次性领取偏好持续维持高位，退休金制度的养老保障功能可能减弱，因此有必要完善相关制度。来源: mk.co.kr."
+      },
+      "es": {
+        "title": "El 84% cobra la pensión de retiro en pago único y reabre el debate previsional",
+        "excerpt": "El Ministerio de Trabajo y el regulador financiero de Corea dijeron en un seminario que el 84% de 600.000 nuevos beneficiarios de retiro cobró en suma única.",
+        "body": "El Ministerio de Empleo y Trabajo de Corea y el Servicio de Supervisión Financiera informaron en un seminario sobre mejora del sistema de pensiones de retiro que el 84% de unas 600.000 personas que comenzaron a recibir beneficios el año pasado eligió un pago único en lugar de una pensión periódica. Incluso entre quienes optaron por una pensión, el 82% eligió un período corto de 10 años o menos, lo que muestra límites para usar estos fondos como ingreso de vejez a largo plazo. En el seminario se discutieron medidas como ampliar productos de renta vitalicia y pensiones de largo plazo. Si la preferencia por el pago único sigue siendo alta, podría debilitarse la función de protección para la vejez. Fuente: mk.co.kr."
+      },
+      "pt": {
+        "title": "84% recebem previdência de aposentadoria em parcela única, acendendo alerta",
+        "excerpt": "O Ministério do Trabalho e o regulador financeiro da Coreia disseram em seminário que 84% de 600 mil novos beneficiários no ano passado optaram por saque único.",
+        "body": "O Ministério do Emprego e Trabalho da Coreia e o Serviço de Supervisão Financeira informaram, em seminário sobre melhoria do sistema de previdência de aposentadoria, que 84% de cerca de 600 mil pessoas que começaram a receber benefícios no ano passado escolheram o pagamento em parcela única, e não em forma de pensão. Mesmo entre os que optaram por pensão, 82% escolheram recebimento de curto prazo, de 10 anos ou menos, revelando limites para o uso do benefício como renda de velhice de longo prazo. O seminário discutiu ampliar produtos de renda vitalícia e pensões longas. A forte preferência por saque único levanta a necessidade de ajustes no sistema. Fonte: mk.co.kr."
+      },
+      "de": {
+        "title": "84% der Betriebsrentner wählen Einmalzahlung, Debatte über Alterseinkommen wächst",
+        "excerpt": "Koreas Arbeitsministerium und Finanzaufsicht teilten bei einem Reformseminar mit, dass 84% von 600.000 neuen Rentenbeziehern 2025 eine Einmalzahlung wählten.",
+        "body": "Koreas Ministerium für Beschäftigung und Arbeit sowie die Finanzaufsicht erklärten bei einem Seminar zur Verbesserung des Betriebsrentensystems, dass 84% der rund 600.000 Personen, die im vergangenen Jahr erstmals Leistungen bezogen, eine Einmalzahlung statt laufender Rentenzahlungen wählten. Selbst unter denjenigen, die sich für Rentenzahlungen entschieden, entfielen 82% auf kurze Bezugszeiträume von höchstens 10 Jahren. Damit zeigen sich Grenzen bei der Nutzung der Betriebsrente als langfristiges Alterseinkommen. Diskutiert wurden unter anderem mehr lebenslange Renten und langfristige Rentenprodukte. Eine anhaltend hohe Einmalzahlungsquote könnte die Vorsorgefunktion schwächen. Quelle: mk.co.kr."
+      },
+      "fr": {
+        "title": "84% des bénéficiaires de retraite choisissent le capital, enjeu pour les revenus âgés",
+        "excerpt": "Le ministère coréen du Travail et le régulateur financier ont indiqué qu’en 2025, 84% des 600.000 nouveaux bénéficiaires de retraite ont choisi un versement unique.",
+        "body": "Le ministère coréen de l’Emploi et du Travail et le Service de supervision financière ont indiqué, lors d’un séminaire sur l’amélioration du système de retraite d’entreprise, que 84% des quelque 600.000 personnes ayant commencé à percevoir leur retraite l’an dernier ont choisi un versement en capital plutôt qu’une rente. Même parmi ceux qui ont opté pour une rente, 82% ont choisi une durée courte de 10 ans ou moins, ce qui montre les limites de ce dispositif comme revenu de vieillesse de long terme. Le séminaire a abordé l’élargissement des rentes viagères et des produits de retraite longue durée. Cette préférence pour le capital souligne un besoin d’ajustement institutionnel. Source: mk.co.kr."
+      },
+      "ar": {
+        "title": "84% من متلقي معاشات التقاعد يختارون الدفعة الواحدة وسط نقاش إصلاحي",
+        "excerpt": "قالت وزارة العمل الكورية وهيئة الرقابة المالية في ندوة إصلاحية إن 84% من 600 ألف شخص بدأوا تلقي معاشات التقاعد العام الماضي اختاروا السحب دفعة واحدة.",
+        "body": "أعلنت وزارة التوظيف والعمل الكورية وهيئة الرقابة المالية، خلال ندوة لتحسين نظام معاشات التقاعد، أن 84% من نحو 600 ألف شخص بدأوا تلقي مستحقات التقاعد في العام الماضي حصلوا عليها دفعة واحدة بدلا من معاش دوري. وحتى بين من اختاروا تلقيها كمعاش، بلغت نسبة من حددوا فترة قصيرة لا تتجاوز 10 سنوات 82%، ما يكشف محدودية استخدام معاشات التقاعد كمصدر دخل طويل الأجل في الشيخوخة. وناقشت الندوة توسيع منتجات المعاش مدى الحياة والمعاشات طويلة الأجل. استمرار تفضيل الدفعة الواحدة قد يضعف وظيفة النظام في تأمين دخل ما بعد التقاعد. المصدر: mk.co.kr."
+      },
+      "hi": {
+        "title": "सेवानिवृत्ति पेंशन में 84% ने एकमुश्त भुगतान चुना, बुढ़ापे की आय पर चिंता",
+        "excerpt": "कोरिया के श्रम मंत्रालय और वित्तीय पर्यवेक्षक ने सुधार सेमिनार में बताया कि पिछले साल 6 लाख नए पेंशन प्राप्तकर्ताओं में 84% ने एकमुश्त भुगतान चुना।",
+        "body": "कोरिया के रोजगार और श्रम मंत्रालय तथा वित्तीय पर्यवेक्षण सेवा ने सेवानिवृत्ति पेंशन व्यवस्था सुधार सेमिनार में बताया कि पिछले साल पेंशन लेना शुरू करने वाले करीब 6 लाख लोगों में 84% ने नियमित पेंशन के बजाय एकमुश्त भुगतान लिया। जिन लोगों ने पेंशन भुगतान चुना, उनमें भी 82% ने 10 वर्ष या उससे कम की अल्पकालिक अवधि चुनी, जिससे यह सीमा सामने आई कि सेवानिवृत्ति पेंशन को बुढ़ापे की दीर्घकालिक आय के रूप में पर्याप्त रूप से इस्तेमाल नहीं किया जा रहा। सेमिनार में आजीवन पेंशन और लंबी अवधि के पेंशन उत्पादों के विस्तार जैसे उपायों पर चर्चा हुई। एकमुश्त भुगतान की ऊंची पसंद जारी रहने पर वृद्धावस्था सुरक्षा की भूमिका कमजोर हो सकती है। स्रोत: mk.co.kr."
+      },
+      "id": {
+        "title": "84% Penerima Dana Pensiun Pilih Pembayaran Sekaligus, Reformasi Dibahas",
+        "excerpt": "Kementerian Tenaga Kerja dan regulator keuangan Korea dalam seminar reformasi menyebut 84% dari 600.000 penerima pensiun baru tahun lalu memilih pencairan sekaligus.",
+        "body": "Kementerian Ketenagakerjaan dan Tenaga Kerja Korea serta Financial Supervisory Service menyampaikan dalam seminar perbaikan sistem dana pensiun bahwa 84% dari sekitar 600.000 orang yang mulai menerima manfaat pensiun tahun lalu memilih pembayaran sekaligus, bukan pembayaran berkala. Bahkan di antara mereka yang memilih skema pensiun, 82% memilih periode penerimaan jangka pendek 10 tahun atau kurang, menunjukkan keterbatasan dana pensiun sebagai sumber pendapatan hari tua jangka panjang. Seminar itu membahas perluasan produk anuitas seumur hidup dan pensiun jangka panjang. Jika preferensi pencairan sekaligus tetap tinggi, fungsi perlindungan hari tua dapat melemah. Sumber: mk.co.kr."
+      }
+    }
+  },
+  {
+    "id": "9c2de97a80e1",
+    "slug": "美주식분석-ai모델-개발한-고3-투자고수-851659",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-05-14T08:18:20.215Z",
+    "updatedAt": "2026-05-14T08:18:20.216Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/stock/12047759",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12047759",
+    "titleFingerprint": "afa26278111774be161ca92ba27154890747648f",
+    "dedupKeys": [
+      "9c2de97a80e134698ab1f6e63fb40332f29701b2",
+      "afa26278111774be161ca92ba27154890747648f",
+      "9879d2bebc143282d1596c06a3582d0ef5c3d44c"
+    ],
+    "imageUrl": "/images/articles/9c2de97a80e1.jpg",
+    "i18n": {
+      "ko": {
+        "title": "미국 주식 분석 AI모델 개발한 고3 투자고수, 개인투자자 정보 활용 돕는다",
+        "excerpt": "mk.co.kr에 따르면 한 고3 투자자가 미국 주식 분석 AI모델을 개발했다. 투자 초기에 겪은 정보 탐색과 판단의 어려움을 바탕으로 개인투자자의 활용성을 높이는 데 초점을 맞췄다.",
+        "body": "고등학교 3학년 투자자가 미국 주식 분석을 위한 AI모델을 개발했다고 mk.co.kr이 보도했다. 그는 처음 주식 투자를 시작했을 때 수많은 정보 속에서 어떤 정보를 어디서 찾아야 하는지, 이를 어떻게 투자 판단과 연결해 활용해야 하는지 몰랐다고 설명했다. 이번 모델 개발은 이 같은 개인적 경험에서 출발했다. 배경에는 개인투자자가 방대한 시장 정보를 스스로 선별하고 해석해야 하는 현실이 있다. 기사에 제시된 핵심은 전문 투자자가 아니어도 필요한 정보를 더 쉽게 찾고 판단에 활용할 수 있도록 돕는 데 있다. 향후 이 모델은 개인투자자의 미국 주식 분석 접근성을 높이는 사례로 주목된다. 출처: mk.co.kr."
+      },
+      "en": {
+        "title": "High School Senior Builds AI Model for U.S. Stock Analysis to Help Retail Investors",
+        "excerpt": "According to mk.co.kr, a high school senior investor developed an AI model for U.S. stock analysis, drawing on early difficulties in finding information and applying it to investment decisions.",
+        "body": "A high school senior investor has developed an AI model for analyzing U.S. stocks, mk.co.kr reported. The student said that when first starting stock investing, it was difficult to know what information to look for, where to find it, and how to connect it to investment decisions. The model was created from that personal experience. The backdrop is a market environment where retail investors must sort through and interpret large volumes of information on their own. The article’s core point is that the model aims to help non-professional investors find relevant information more easily and use it in their judgment. It is drawing attention as an example of improving access to U.S. stock analysis for individual investors. Source: mk.co.kr."
+      },
+      "ja": {
+        "title": "米国株分析AIモデルを開発した高校3年生投資家、個人投資家の情報活用を支援",
+        "excerpt": "mk.co.krによると、高校3年生の投資家が米国株分析AIモデルを開発した。投資初期に経験した情報収集と判断の難しさを基に、個人投資家の活用性向上を目指す。",
+        "body": "高校3年生の投資家が、米国株を分析するためのAIモデルを開発したとmk.co.krが報じた。本人は、株式投資を始めた当初、膨大な情報の中でどの情報をどこで探し、それをどのように投資判断へ結び付けて活用すればよいのか分からなかったと説明している。今回のモデル開発は、そうした個人的な経験から出発した。背景には、個人投資家が大量の市場情報を自ら選別し解釈しなければならない現実がある。記事の要点は、専門投資家でなくても必要な情報をより容易に見つけ、判断に使えるよう支援することにある。今後、個人投資家の米国株分析へのアクセスを高める事例として注目される。出典: mk.co.kr。"
+      },
+      "zh": {
+        "title": "高中三年级投资者开发美股分析AI模型，帮助个人投资者使用信息",
+        "excerpt": "据mk.co.kr报道，一名高中三年级投资者开发了美股分析AI模型。该模型源于其投资初期在信息查找与投资判断连接上的困难，旨在提高个人投资者的可用性。",
+        "body": "据mk.co.kr报道，一名高中三年级投资者开发了用于美国股票分析的AI模型。该学生表示，自己刚开始股票投资时，面对大量信息，不知道该寻找哪些信息、在哪里寻找，也不知道如何将这些信息连接到投资判断并加以利用。此次模型开发正是源于这种个人经历。其背景是，个人投资者必须自行筛选和解读庞大的市场信息。报道的核心在于，即使不是专业投资者，也能更容易找到所需信息，并用于投资判断。该模型未来作为提升个人投资者美股分析可及性的案例受到关注。来源: mk.co.kr。"
+      },
+      "es": {
+        "title": "Estudiante de último año desarrolla un modelo de IA para analizar acciones de EE.UU.",
+        "excerpt": "Según mk.co.kr, un inversor de último año de secundaria creó un modelo de IA para analizar acciones estadounidenses, inspirado en las dificultades iniciales para encontrar información y aplicarla a decisiones de inversión.",
+        "body": "Un inversor de último año de secundaria desarrolló un modelo de IA para analizar acciones de Estados Unidos, informó mk.co.kr. El estudiante explicó que, cuando empezó a invertir en bolsa, no sabía qué información buscar entre la gran cantidad disponible, dónde encontrarla ni cómo conectarla con sus decisiones de inversión. El desarrollo del modelo partió de esa experiencia personal. El contexto es una realidad en la que los inversores particulares deben seleccionar e interpretar por sí mismos grandes volúmenes de información de mercado. El punto central del artículo es ayudar a quienes no son inversores profesionales a encontrar información necesaria con mayor facilidad y usarla en su criterio de inversión. El modelo atrae atención como ejemplo de mayor acceso al análisis de acciones estadounidenses para inversores individuales. Fuente: mk.co.kr."
+      },
+      "pt": {
+        "title": "Aluno do último ano cria modelo de IA para análise de ações dos EUA",
+        "excerpt": "Segundo o mk.co.kr, um investidor do último ano do ensino médio desenvolveu um modelo de IA para analisar ações dos EUA, com base nas dificuldades iniciais para encontrar informações e usá-las em decisões de investimento.",
+        "body": "Um investidor do último ano do ensino médio desenvolveu um modelo de IA para análise de ações dos Estados Unidos, informou o mk.co.kr. Ele explicou que, quando começou a investir em ações, não sabia quais informações procurar em meio ao grande volume disponível, onde encontrá-las nem como conectá-las às decisões de investimento. O desenvolvimento do modelo nasceu dessa experiência pessoal. O pano de fundo é a realidade em que investidores individuais precisam filtrar e interpretar, por conta própria, grandes quantidades de informações de mercado. O ponto central da reportagem é ajudar pessoas que não são investidores profissionais a encontrar informações necessárias com mais facilidade e usá-las em seu julgamento. O modelo chama atenção como exemplo de ampliação do acesso à análise de ações dos EUA para investidores individuais. Fonte: mk.co.kr."
+      },
+      "de": {
+        "title": "Abiturient entwickelt KI-Modell zur Analyse von US-Aktien für Privatanleger",
+        "excerpt": "Laut mk.co.kr hat ein Schüler im letzten Schuljahr ein KI-Modell zur Analyse von US-Aktien entwickelt. Grundlage waren eigene Anfangsschwierigkeiten beim Finden und Nutzen von Informationen für Anlageentscheidungen.",
+        "body": "Ein Schüler im letzten Schuljahr und aktiver Anleger hat ein KI-Modell zur Analyse von US-Aktien entwickelt, berichtete mk.co.kr. Er erklärte, dass er zu Beginn seiner Aktienanlage angesichts der Informationsflut nicht wusste, welche Informationen er wo finden und wie er sie mit Anlageentscheidungen verbinden sollte. Die Entwicklung des Modells ging aus dieser persönlichen Erfahrung hervor. Hintergrund ist die Realität, dass Privatanleger große Mengen an Marktdaten selbst auswählen und interpretieren müssen. Der Kern des Berichts liegt darin, auch nicht professionellen Anlegern zu helfen, notwendige Informationen leichter zu finden und für ihre Entscheidungen zu nutzen. Das Modell gilt als beachtetes Beispiel für einen besseren Zugang von Privatanlegern zur Analyse von US-Aktien. Quelle: mk.co.kr."
+      },
+      "fr": {
+        "title": "Un lycéen en terminale crée un modèle d’IA pour analyser les actions américaines",
+        "excerpt": "Selon mk.co.kr, un investisseur lycéen en dernière année a développé un modèle d’IA pour l’analyse des actions américaines, à partir de ses difficultés initiales à trouver l’information et à l’utiliser pour investir.",
+        "body": "Un investisseur en dernière année de lycée a développé un modèle d’IA destiné à l’analyse des actions américaines, a rapporté mk.co.kr. Il a expliqué qu’à ses débuts en Bourse, face à une masse d’informations, il ne savait pas quelles données chercher, où les trouver ni comment les relier à ses décisions d’investissement. Le modèle est né de cette expérience personnelle. Le contexte est celui d’un marché où les investisseurs particuliers doivent eux-mêmes trier et interpréter de nombreuses informations. Le point central de l’article est d’aider les personnes qui ne sont pas des investisseurs professionnels à trouver plus facilement les informations nécessaires et à les utiliser dans leur jugement. Ce modèle retient l’attention comme exemple d’amélioration de l’accès des particuliers à l’analyse des actions américaines. Source: mk.co.kr."
+      },
+      "ar": {
+        "title": "طالب في السنة الأخيرة يطوّر نموذج ذكاء اصطناعي لتحليل الأسهم الأمريكية",
+        "excerpt": "بحسب mk.co.kr، طوّر مستثمر في السنة الأخيرة من المرحلة الثانوية نموذج ذكاء اصطناعي لتحليل الأسهم الأمريكية، مستندًا إلى صعوباته الأولى في العثور على المعلومات وربطها بقرارات الاستثمار.",
+        "body": "أفاد موقع mk.co.kr بأن طالبًا في السنة الأخيرة من المرحلة الثانوية، وهو مستثمر، طوّر نموذج ذكاء اصطناعي لتحليل الأسهم الأمريكية. وقال إنه عندما بدأ الاستثمار في الأسهم لم يكن يعرف، وسط فيض كبير من المعلومات، أي معلومات يبحث عنها، وأين يجدها، وكيف يربطها بقرارات الاستثمار ويستخدمها. انطلق تطوير النموذج من هذه التجربة الشخصية. وتكمن الخلفية في واقع يضطر فيه المستثمرون الأفراد إلى فرز كميات كبيرة من معلومات السوق وتفسيرها بأنفسهم. وتركز الفكرة الأساسية في التقرير على مساعدة غير المتخصصين في الاستثمار على العثور بسهولة أكبر على المعلومات اللازمة واستخدامها في الحكم الاستثماري. ويحظى النموذج باهتمام كحالة تعزز وصول المستثمرين الأفراد إلى تحليل الأسهم الأمريكية. المصدر: mk.co.kr."
+      },
+      "hi": {
+        "title": "अमेरिकी शेयर विश्लेषण के लिए हाई स्कूल वरिष्ठ छात्र ने बनाया AI मॉडल",
+        "excerpt": "mk.co.kr के अनुसार, हाई स्कूल के अंतिम वर्ष के एक निवेशक ने अमेरिकी शेयर विश्लेषण के लिए AI मॉडल विकसित किया। यह मॉडल शुरुआती निवेश अनुभव में सूचना खोजने और निर्णय से जोड़ने की कठिनाइयों पर आधारित है।",
+        "body": "mk.co.kr ने बताया कि हाई स्कूल के अंतिम वर्ष के एक निवेशक ने अमेरिकी शेयरों के विश्लेषण के लिए AI मॉडल विकसित किया है। छात्र ने कहा कि जब उसने पहली बार शेयर निवेश शुरू किया, तो सूचनाओं की भारी भीड़ में उसे यह नहीं पता था कि कौन सी जानकारी खोजनी है, उसे कहाँ ढूंढना है और उसे निवेश निर्णय से कैसे जोड़कर उपयोग करना है। यह मॉडल उसी व्यक्तिगत अनुभव से शुरू हुआ। पृष्ठभूमि में वह वास्तविकता है जिसमें व्यक्तिगत निवेशकों को बाजार की बड़ी मात्रा में जानकारी खुद छांटनी और समझनी पड़ती है। लेख का मुख्य बिंदु यह है कि गैर-पेशेवर निवेशक भी आवश्यक जानकारी अधिक आसानी से खोज सकें और उसे निर्णय में उपयोग कर सकें। यह मॉडल व्यक्तिगत निवेशकों के लिए अमेरिकी शेयर विश्लेषण की पहुंच बढ़ाने वाले उदाहरण के रूप में ध्यान आकर्षित कर रहा है। स्रोत: mk.co.kr."
+      },
+      "id": {
+        "title": "Siswa Kelas Akhir Kembangkan Model AI Analisis Saham AS untuk Investor Ritel",
+        "excerpt": "Menurut mk.co.kr, seorang investor siswa kelas akhir SMA mengembangkan model AI untuk analisis saham AS, berangkat dari kesulitan awal mencari informasi dan menghubungkannya dengan keputusan investasi.",
+        "body": "Seorang investor siswa kelas akhir SMA mengembangkan model AI untuk menganalisis saham Amerika Serikat, lapor mk.co.kr. Ia menjelaskan bahwa saat pertama mulai berinvestasi saham, ia tidak tahu informasi apa yang harus dicari di tengah banjir data, di mana mencarinya, dan bagaimana menghubungkannya dengan keputusan investasi. Pengembangan model ini berangkat dari pengalaman pribadi tersebut. Latar belakangnya adalah kenyataan bahwa investor individu harus menyaring dan menafsirkan sendiri banyak informasi pasar. Inti artikel tersebut adalah membantu orang yang bukan investor profesional agar lebih mudah menemukan informasi yang dibutuhkan dan menggunakannya dalam penilaian investasi. Model ini menarik perhatian sebagai contoh peningkatan akses analisis saham AS bagi investor individu. Sumber: mk.co.kr."
+      }
+    }
+  },
+  {
     "id": "4301879c6fd0",
     "slug": "연-2-예금으론-답-없다급증하는-포모-투자에-빚투-경고음도-커져-602626",
     "channelId": "ETF",
@@ -4271,231 +4496,6 @@
         "title": "Rumor Jual 100 Triliun Won NPS Bayangi Harapan KOSPI Menuju 8000",
         "excerpt": "Saat ekspektasi KOSPI kembali menembus 8000 poin meningkat, perhatian pasar tertuju pada National Pension Service dan kekhawatiran rebalancing di tengah reli saham Korea.",
         "body": "Saat KOSPI mendekati peluang kembali menembus level 8000 poin, perhatian di pasar saham Korea Selatan makin tertuju pada langkah National Pension Service. Semakin kuat reli saham domestik berlanjut, semakin besar kekhawatiran bahwa dana tersebut dapat menyesuaikan kepemilikan saham Korea untuk menyeimbangkan kembali asetnya. Kekhawatiran itu berkembang di pasar menjadi “rumor penjualan 100 triliun won” dan menjadi faktor kecemasan saat harga saham naik. Namun, informasi dalam ringkasan asli yang diberikan tidak mengonfirmasi jumlah maupun waktu penjualan tertentu. Jika reli pasar berlanjut, kemungkinan perubahan alokasi aset NPS dapat tetap memengaruhi sentimen investor. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "60827c8c523a",
-    "slug": "단독-8조-정도에-배민-주인-찾습니다48조에-샀던-독일-자본-매각-착수-950427",
-    "channelId": "ETF",
-    "category": "etf",
-    "publishedAt": "2026-05-13T15:07:17.348Z",
-    "updatedAt": "2026-05-13T15:07:17.348Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/stock/12046376",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12046376",
-    "titleFingerprint": "1b540c16134f4564ebf54d541105728f1d70add8",
-    "dedupKeys": [
-      "60827c8c523a1fb09a9c9ce22524a6174ea6bfd0",
-      "1b540c16134f4564ebf54d541105728f1d70add8",
-      "73fa440b5dda55dd70ae8f6bae2c4c795e3b5ba2"
-    ],
-    "imageUrl": "/images/articles/60827c8c523a.png",
-    "i18n": {
-      "ko": {
-        "title": "배달의민족 매각 착수, DH 8조원 안팎 새 주인 찾는다",
-        "excerpt": "독일 딜리버리히어로가 배달의민족 인수 7년 만에 매각 절차에 착수하고 글로벌 빅테크와 사모펀드에 투자안내서를 발송한 것으로 알려졌다.",
-        "body": "독일 딜리버리히어로(DH)가 배달의민족 인수 7년 만에 매각 절차에 착수한 것으로 전해졌다. DH는 배달의민족 새 주인을 찾기 위해 글로벌 빅테크와 사모펀드 등에 투자안내서를 발송했으며, 희망 매각가는 8조원 안팎으로 거론된다. DH는 과거 배달의민족을 4조8000억원에 인수했다. 아시아 플랫폼 확장을 노리는 메이퇀, 신세계와 손잡은 알리바바 등 중국 기업들이 유력 후보군으로 꼽힌다. 거래가 성사될 경우 국내 배달 플랫폼 시장의 지배구조와 경쟁 구도에도 변화가 예상된다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Baemin Sale Begins as DH Seeks Buyer at Around 8 Trillion Won",
-        "excerpt": "Germany’s Delivery Hero has reportedly begun selling Baedal Minjok seven years after acquisition, sending investment materials to global big tech firms and private equity funds.",
-        "body": "Germany’s Delivery Hero, or DH, has reportedly begun the process of selling Baedal Minjok seven years after acquiring the Korean delivery platform. DH is said to have sent investment information to global big tech companies and private equity funds as it searches for a new owner, with the target sale price discussed at around 8 trillion won. DH previously bought Baedal Minjok for 4.8 trillion won. Chinese companies are being named as likely candidates, including Meituan, which seeks Asian platform expansion, and Alibaba, which has partnered with Shinsegae. If completed, the deal could affect ownership and competition in Korea’s delivery platform market. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "配達の民族売却へ、DHが約8兆ウォンで買い手探し",
-        "excerpt": "独デリバリーヒーローが買収から7年で配達の民族の売却手続きに入り、世界のビッグテックやPEファンドへ投資案内書を送ったとされる。",
-        "body": "ドイツのデリバリーヒーロー（DH）が、韓国の配達プラットフォーム「配達の民族」を買収から7年で売却する手続きに入ったと伝えられた。DHは新たな買い手を探すため、世界のビッグテック企業やプライベートエクイティファンドに投資案内書を送付したという。希望売却価格は約8兆ウォンとされる。DHは過去に配達の民族を4兆8000億ウォンで買収していた。アジアでのプラットフォーム拡大を狙う美団や、新世界と手を組んだアリババなど中国企業が有力候補に挙がっている。成立すれば韓国配達市場の支配構造と競争環境に変化が見込まれる。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "外卖的民族启动出售，DH寻求约8万亿韩元买家",
-        "excerpt": "德国Delivery Hero据称在收购外卖的民族7年后启动出售程序，并向全球大型科技公司和私募基金发送投资说明书。",
-        "body": "德国Delivery Hero（DH）据称已在收购韩国外卖平台“外卖的民族”7年后启动出售程序。DH为寻找新买家，已向全球大型科技企业和私募基金发送投资说明书，目标出售价格被提及在约8万亿韩元。DH此前以4.8万亿韩元收购外卖的民族。希望扩大亚洲平台业务的美团，以及与新世界合作的阿里巴巴等中国企业，被认为是潜在有力候选方。若交易完成，韩国外卖平台市场的所有权结构和竞争格局可能发生变化。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Baemin inicia venta: DH busca comprador por unos 8 billones de wones",
-        "excerpt": "Delivery Hero de Alemania habría iniciado la venta de Baedal Minjok siete años después de comprarla y envió materiales a big tech globales y fondos privados.",
-        "body": "Delivery Hero (DH) de Alemania habría iniciado el proceso de venta de Baedal Minjok, la plataforma coreana de reparto, siete años después de adquirirla. Para buscar un nuevo dueño, DH habría enviado un memorando de inversión a grandes tecnológicas globales y fondos de capital privado. El precio objetivo se menciona en torno a 8 billones de wones. DH compró anteriormente Baedal Minjok por 4,8 billones de wones. Entre los posibles candidatos figuran empresas chinas como Meituan, que busca ampliar plataformas en Asia, y Alibaba, asociada con Shinsegae. Si se concreta, la operación podría cambiar la estructura de propiedad y competencia del mercado coreano de reparto. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Baemin à venda: DH busca comprador por cerca de 8 trilhões de wones",
-        "excerpt": "A alemã Delivery Hero teria iniciado a venda da Baedal Minjok sete anos após a aquisição, enviando materiais a big techs globais e fundos de private equity.",
-        "body": "A alemã Delivery Hero (DH) teria iniciado o processo de venda da Baedal Minjok, plataforma coreana de entregas, sete anos após adquiri-la. Para encontrar um novo dono, a DH teria enviado um material de investimento a big techs globais e fundos de private equity. O preço pretendido é citado em torno de 8 trilhões de wones. A DH havia comprado a Baedal Minjok por 4,8 trilhões de wones. Empresas chinesas são vistas como candidatas fortes, incluindo a Meituan, que busca expandir plataformas na Ásia, e a Alibaba, que se associou à Shinsegae. Se concluída, a transação pode alterar a estrutura de controle e a competição no mercado coreano de entregas. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Baemin-Verkauf gestartet: DH sucht Käufer für rund 8 Billionen Won",
-        "excerpt": "Delivery Hero aus Deutschland soll sieben Jahre nach der Übernahme den Verkauf von Baedal Minjok gestartet und Unterlagen an Big Techs und Private-Equity-Fonds verschickt haben.",
-        "body": "Der deutsche Konzern Delivery Hero (DH) soll sieben Jahre nach der Übernahme den Verkaufsprozess für die koreanische Lieferplattform Baedal Minjok eingeleitet haben. Auf der Suche nach einem neuen Eigentümer habe DH Investitionsunterlagen an globale Big-Tech-Unternehmen und Private-Equity-Fonds verschickt. Als angestrebter Verkaufspreis werden rund 8 Billionen Won genannt. DH hatte Baedal Minjok zuvor für 4,8 Billionen Won gekauft. Als mögliche starke Kandidaten gelten chinesische Unternehmen wie Meituan, das seine Plattformen in Asien ausbauen will, sowie Alibaba, das mit Shinsegae kooperiert. Kommt die Transaktion zustande, könnte sie Eigentümerstruktur und Wettbewerb im koreanischen Lieferplattformmarkt verändern. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Baemin mis en vente: DH cherche un acheteur autour de 8 billions de wons",
-        "excerpt": "L’allemand Delivery Hero aurait lancé la vente de Baedal Minjok sept ans après son acquisition et envoyé des dossiers à des big techs et fonds de private equity.",
-        "body": "L’allemand Delivery Hero (DH) aurait lancé le processus de vente de Baedal Minjok, plateforme coréenne de livraison, sept ans après son acquisition. Pour trouver un nouveau propriétaire, DH aurait envoyé un dossier d’investissement à de grandes entreprises technologiques mondiales et à des fonds de private equity. Le prix visé est évoqué autour de 8 billions de wons. DH avait acheté Baedal Minjok pour 4,8 billions de wons. Des entreprises chinoises sont citées parmi les candidats probables, dont Meituan, qui vise l’expansion de plateformes en Asie, et Alibaba, allié à Shinsegae. Si l’opération aboutit, elle pourrait modifier la structure de propriété et la concurrence du marché coréen de la livraison. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "بدء بيع Baemin: ديليفري هيرو تبحث عن مشتر بنحو 8 تريليونات وون",
-        "excerpt": "تردد أن ديليفري هيرو الألمانية بدأت بيع Baedal Minjok بعد سبع سنوات من الاستحواذ، وأرسلت مذكرة استثمار إلى شركات تقنية عالمية وصناديق ملكية خاصة.",
-        "body": "أفادت تقارير بأن شركة ديليفري هيرو الألمانية (DH) بدأت إجراءات بيع منصة التوصيل الكورية Baedal Minjok بعد سبع سنوات من الاستحواذ عليها. وبحثا عن مالك جديد، أرسلت DH مذكرة استثمار إلى شركات تقنية عالمية كبرى وصناديق ملكية خاصة، فيما يجري تداول سعر بيع مستهدف يقارب 8 تريليونات وون. وكانت DH قد اشترت Baedal Minjok سابقا مقابل 4.8 تريليونات وون. وتعد شركات صينية من بين المرشحين المحتملين، منها Meituan التي تسعى لتوسيع منصاتها في آسيا، وAlibaba التي تعاونت مع Shinsegae. وإذا اكتملت الصفقة، فقد تؤثر في هيكل الملكية والمنافسة بسوق منصات التوصيل الكورية. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "Baemin बिक्री शुरू: DH करीब 8 ट्रिलियन वॉन में खरीदार तलाश रही",
-        "excerpt": "जर्मनी की Delivery Hero ने कथित तौर पर अधिग्रहण के सात साल बाद Baedal Minjok की बिक्री शुरू की और वैश्विक बिग टेक व निजी इक्विटी फंडों को निवेश दस्तावेज भेजे।",
-        "body": "जर्मनी की Delivery Hero (DH) ने कथित तौर पर कोरियाई डिलीवरी प्लेटफॉर्म Baedal Minjok को अधिग्रहण के सात साल बाद बेचने की प्रक्रिया शुरू कर दी है। नए मालिक की तलाश में DH ने वैश्विक बिग टेक कंपनियों और निजी इक्विटी फंडों को निवेश सूचना दस्तावेज भेजे हैं। संभावित बिक्री मूल्य करीब 8 ट्रिलियन वॉन बताया जा रहा है। DH ने पहले Baedal Minjok को 4.8 ट्रिलियन वॉन में खरीदा था। संभावित मजबूत दावेदारों में एशिया में प्लेटफॉर्म विस्तार चाहने वाली Meituan और Shinsegae के साथ जुड़ी Alibaba जैसी चीनी कंपनियां शामिल मानी जा रही हैं। सौदा पूरा होने पर कोरिया के डिलीवरी प्लेटफॉर्म बाजार की स्वामित्व संरचना और प्रतिस्पर्धा प्रभावित हो सकती है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Baemin Mulai Dijual, DH Cari Pembeli di Kisaran 8 Triliun Won",
-        "excerpt": "Delivery Hero Jerman dikabarkan memulai penjualan Baedal Minjok tujuh tahun setelah akuisisi dan mengirim dokumen investasi ke big tech global serta dana ekuitas privat.",
-        "body": "Delivery Hero (DH) asal Jerman dikabarkan telah memulai proses penjualan Baedal Minjok, platform pesan-antar Korea, tujuh tahun setelah mengakuisisinya. Untuk mencari pemilik baru, DH disebut mengirim dokumen informasi investasi kepada perusahaan big tech global dan dana ekuitas privat. Harga jual yang diinginkan disebut berada di sekitar 8 triliun won. Sebelumnya DH membeli Baedal Minjok seharga 4,8 triliun won. Perusahaan China dipandang sebagai kandidat kuat, termasuk Meituan yang mengincar ekspansi platform di Asia, serta Alibaba yang bekerja sama dengan Shinsegae. Jika transaksi terealisasi, struktur kepemilikan dan persaingan pasar platform pesan-antar Korea dapat berubah. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "6780789206b8",
-    "slug": "美반도체-팔아치운-국민연금-삼전닉스서도-차익-실현하나-105622",
-    "channelId": "ETF",
-    "category": "etf",
-    "publishedAt": "2026-05-13T15:06:15.199Z",
-    "updatedAt": "2026-05-13T15:06:15.199Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/stock/12046400",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12046400",
-    "titleFingerprint": "2849285e697c8796e0f491a07ae50fe3c34f9a97",
-    "dedupKeys": [
-      "6780789206b84d88647fe3d9ef78a0a4bb1e6079",
-      "2849285e697c8796e0f491a07ae50fe3c34f9a97",
-      "cef1fa6cf6397b3ae47e22fa9eb8063fbbad6dbb"
-    ],
-    "imageUrl": "/images/articles/6780789206b8.jpg",
-    "i18n": {
-      "ko": {
-        "title": "국민연금, 미국 메모리 반도체주 차익 실현…삼성전자·SK하이닉스 향방 주목",
-        "excerpt": "국민연금이 12일 현지시간 마이크론 등 미국 메모리 반도체 관련주를 차익 실현한 것으로 드러나며 삼성전자와 SK하이닉스 투자 기조 변화 여부에 관심이 쏠리고 있다.",
-        "body": "국민연금이 12일 현지시간 마이크론을 비롯한 미국 메모리 반도체 관련주를 팔아 차익을 실현한 것으로 알려지면서 국내 반도체 대형주 투자 방향에도 시장의 시선이 모이고 있다. 이번 매도는 미국 메모리 반도체주에 대한 보유 전략 변화 가능성을 보여주는 사례로 받아들여지고 있다. 이에 따라 투자자들은 국민연금이 삼성전자와 SK하이닉스에서도 같은 흐름으로 차익 실현에 나설지 주목하고 있다. 다만 원문은 국내 두 종목에 대한 실제 매도 여부를 확인하지 않고, 투자 기조 변화 가능성에 대한 관심이 커졌다고 전했다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "National Pension Takes Profits on U.S. Memory Chip Stocks, Samsung and SK Hynix in Focus",
-        "excerpt": "South Korea’s National Pension Service was found on May 12 local time to have taken profits on U.S. memory chip names such as Micron, drawing attention to whether its stance on Samsung Electronics and SK Hynix may change.",
-        "body": "South Korea’s National Pension Service reportedly sold U.S. memory semiconductor-related stocks, including Micron, on May 12 local time to realize gains, drawing market attention to its investment direction for major Korean chipmakers. The sale is being viewed as a sign that its holding strategy for U.S. memory chip stocks may be shifting. Investors are now watching whether the fund will take a similar profit-taking approach toward Samsung Electronics and SK Hynix. However, the original report did not confirm any actual selling of the two Korean stocks, only noting growing interest in a possible change in investment stance. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "国民年金、米メモリー半導体株で利益確定…サムスン電子・SKハイニックスに注目",
-        "excerpt": "国民年金が現地時間12日、マイクロンなど米メモリー半導体関連株で利益確定したことが明らかになり、サムスン電子とSKハイニックスへの投資姿勢に関心が集まっている。",
-        "body": "国民年金が現地時間12日、マイクロンをはじめとする米メモリー半導体関連株を売却し、利益を確定したと伝えられ、韓国の半導体大型株への投資方向にも市場の視線が集まっている。今回の売却は、米メモリー半導体株に対する保有戦略が変化する可能性を示す事例として受け止められている。投資家は、国民年金がサムスン電子とSKハイニックスでも同様に利益確定へ動くのかに注目している。ただし原文は、韓国2銘柄の実際の売却有無を確認したものではなく、投資姿勢の変化をめぐる関心が高まっていると伝えた。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "韩国国民年金兑现美国存储芯片股收益，三星电子与SK海力士动向受关注",
-        "excerpt": "韩国国民年金被披露于当地时间12日对美光等美国存储半导体相关股票进行获利了结，市场关注其对三星电子和SK海力士的投资基调是否会改变。",
-        "body": "韩国国民年金据悉于当地时间12日出售包括美光在内的美国存储半导体相关股票并实现收益，市场目光也转向其对韩国大型半导体股的投资方向。此次卖出被视为其对美国存储芯片股持仓策略可能发生变化的案例。投资者因此关注，国民年金是否也会对三星电子和SK海力士采取类似的获利了结行动。不过，原文并未确认其实际卖出这两只韩国股票，仅称围绕投资基调变化可能性的关注正在升温。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "El Fondo Nacional de Pensiones toma ganancias en chips de memoria de EE. UU.; foco en Samsung y SK Hynix",
-        "excerpt": "El Fondo Nacional de Pensiones de Corea del Sur habría tomado ganancias el día 12, hora local, en acciones estadounidenses de memoria como Micron, aumentando la atención sobre Samsung Electronics y SK Hynix.",
-        "body": "El Fondo Nacional de Pensiones de Corea del Sur habría vendido el día 12, hora local, acciones estadounidenses relacionadas con semiconductores de memoria, incluida Micron, para realizar ganancias, lo que atrajo la atención del mercado hacia su rumbo de inversión en grandes fabricantes coreanos de chips. La venta se interpreta como un posible indicio de cambio en su estrategia de tenencia de valores estadounidenses de memoria. Los inversores observan ahora si el fondo adoptará una postura similar de toma de ganancias en Samsung Electronics y SK Hynix. Sin embargo, el texto original no confirmó ventas reales de esas dos acciones coreanas; solo informó del creciente interés por un posible cambio de criterio inversor. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Fundo Nacional de Pensão realiza lucros em chips de memória dos EUA; Samsung e SK Hynix no radar",
-        "excerpt": "O Fundo Nacional de Pensão da Coreia do Sul teria realizado lucros no dia 12, hora local, em ações americanas de memória como Micron, elevando a atenção sobre Samsung Electronics e SK Hynix.",
-        "body": "O Fundo Nacional de Pensão da Coreia do Sul teria vendido no dia 12, hora local, ações americanas ligadas a semicondutores de memória, incluindo Micron, para realizar ganhos, levando o mercado a observar também sua direção de investimento nas grandes fabricantes coreanas de chips. A venda é vista como um possível sinal de mudança na estratégia de manutenção de posições em ações americanas de memória. Investidores acompanham agora se o fundo adotará movimento semelhante de realização de lucros em Samsung Electronics e SK Hynix. O texto original, porém, não confirmou vendas efetivas desses dois papéis coreanos; apenas apontou o aumento do interesse sobre uma possível mudança de postura. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Nationaler Pensionsfonds realisiert Gewinne bei US-Speicherchip-Aktien; Samsung und SK Hynix im Blick",
-        "excerpt": "Der südkoreanische Nationale Pensionsfonds soll am 12. Ortszeit Gewinne bei US-Speicherchipwerten wie Micron realisiert haben, wodurch seine Haltung zu Samsung Electronics und SK Hynix in den Fokus rückt.",
-        "body": "Der südkoreanische Nationale Pensionsfonds soll am 12. Ortszeit US-Aktien aus dem Bereich Speicherhalbleiter, darunter Micron, verkauft und Gewinne realisiert haben. Damit richtet sich der Blick des Marktes auch auf seine Anlagestrategie bei großen koreanischen Chipwerten. Der Verkauf wird als möglicher Hinweis auf eine veränderte Haltestrategie bei US-Speicherchip-Aktien gewertet. Anleger beobachten nun, ob der Fonds auch bei Samsung Electronics und SK Hynix in ähnlicher Weise Gewinne mitnehmen könnte. Der Originalbericht bestätigte jedoch keinen tatsächlichen Verkauf dieser beiden koreanischen Aktien, sondern verwies lediglich auf das wachsende Interesse an einer möglichen Änderung der Investitionshaltung. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Le fonds national de pension prend ses bénéfices sur les puces mémoire américaines; Samsung et SK Hynix surveillés",
-        "excerpt": "Le fonds national de pension sud-coréen aurait pris ses bénéfices le 12, heure locale, sur des valeurs américaines de mémoire comme Micron, attirant l’attention sur Samsung Electronics et SK Hynix.",
-        "body": "Le fonds national de pension sud-coréen aurait vendu le 12, heure locale, des actions américaines liées aux semi-conducteurs de mémoire, dont Micron, afin de réaliser des gains, ce qui attire aussi l’attention du marché sur sa stratégie envers les grands fabricants coréens de puces. Cette vente est perçue comme un possible signe d’évolution de sa stratégie de détention des valeurs américaines de mémoire. Les investisseurs surveillent désormais si le fonds adoptera une démarche similaire de prise de bénéfices sur Samsung Electronics et SK Hynix. Le texte original ne confirme toutefois aucune vente effective de ces deux titres coréens; il indique seulement que l’intérêt grandit autour d’un possible changement de posture d’investissement. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "صندوق التقاعد الكوري يجني أرباح أسهم الرقائق الأميركية والأنظار على سامسونغ وSK هاينكس",
-        "excerpt": "تبيّن أن صندوق التقاعد الوطني الكوري حقق في 12 بالتوقيت المحلي أرباحا من أسهم ذاكرة أميركية مثل ميكرون، ما زاد الاهتمام بإمكانية تغير موقفه من سامسونغ إلكترونيكس وSK هاينكس.",
-        "body": "أفادت التقارير بأن صندوق التقاعد الوطني الكوري باع في 12 بالتوقيت المحلي أسهما أميركية مرتبطة بأشباه موصلات الذاكرة، من بينها ميكرون، محققا أرباحا، ما وجّه أنظار السوق إلى اتجاه استثماره في أسهم الرقائق الكورية الكبرى. وتُعد هذه العملية مؤشرا محتملا على تغير استراتيجية الاحتفاظ بأسهم الذاكرة الأميركية. ويراقب المستثمرون الآن ما إذا كان الصندوق سيتجه إلى جني أرباح مماثل في سامسونغ إلكترونيكس وSK هاينكس. لكن النص الأصلي لم يؤكد حدوث بيع فعلي في السهمين الكوريين، بل أشار فقط إلى تزايد الاهتمام بإمكان تغير نهج الاستثمار. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "राष्ट्रीय पेंशन ने अमेरिकी मेमोरी चिप शेयरों में मुनाफा काटा, Samsung और SK Hynix पर नजर",
-        "excerpt": "दक्षिण कोरिया की राष्ट्रीय पेंशन ने स्थानीय समयानुसार 12 तारीख को Micron समेत अमेरिकी मेमोरी सेमीकंडक्टर शेयरों में मुनाफावसूली की, जिससे Samsung Electronics और SK Hynix को लेकर निवेश रुख पर ध्यान बढ़ा है।",
-        "body": "दक्षिण कोरिया की राष्ट्रीय पेंशन ने स्थानीय समयानुसार 12 तारीख को Micron सहित अमेरिकी मेमोरी सेमीकंडक्टर से जुड़े शेयर बेचकर मुनाफा वास्तविक किया बताया गया है। इससे बाजार की नजर कोरियाई बड़े सेमीकंडक्टर शेयरों में उसके निवेश की दिशा पर भी टिक गई है। इस बिक्री को अमेरिकी मेमोरी चिप शेयरों को रखने की रणनीति में संभावित बदलाव के संकेत के रूप में देखा जा रहा है। निवेशक अब देख रहे हैं कि क्या फंड Samsung Electronics और SK Hynix में भी इसी तरह मुनाफावसूली करेगा। हालांकि मूल रिपोर्ट ने इन दोनों कोरियाई शेयरों की वास्तविक बिक्री की पुष्टि नहीं की, बल्कि केवल निवेश रुख बदलने की संभावना पर बढ़ती दिलचस्पी का उल्लेख किया। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Dana Pensiun Nasional Ambil Untung di Saham Memori AS, Samsung dan SK Hynix Jadi Sorotan",
-        "excerpt": "Dana Pensiun Nasional Korea Selatan diketahui pada 12 waktu setempat merealisasikan keuntungan di saham memori AS seperti Micron, memicu perhatian pada sikap investasinya terhadap Samsung Electronics dan SK Hynix.",
-        "body": "Dana Pensiun Nasional Korea Selatan dilaporkan menjual saham terkait semikonduktor memori AS, termasuk Micron, pada 12 waktu setempat untuk merealisasikan keuntungan. Langkah ini membuat pasar ikut menyoroti arah investasinya pada saham semikonduktor besar Korea. Penjualan tersebut dipandang sebagai contoh kemungkinan perubahan strategi kepemilikan atas saham memori AS. Investor kini memperhatikan apakah dana tersebut juga akan mengambil langkah serupa untuk merealisasikan keuntungan di Samsung Electronics dan SK Hynix. Namun, naskah asli tidak mengonfirmasi adanya penjualan aktual atas dua saham Korea itu, melainkan hanya menyebut meningkatnya perhatian terhadap kemungkinan perubahan sikap investasi. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "1def6489c5b0",
-    "slug": "단독-올-250조-불린-국민연금-국장-보유-허용치-이참에-늘릴까-418214",
-    "channelId": "ETF",
-    "category": "etf",
-    "publishedAt": "2026-05-13T15:05:02.533Z",
-    "updatedAt": "2026-05-13T15:05:02.533Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/stock/12046401",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12046401",
-    "titleFingerprint": "9f63503f039874f013e3c2e26904a845ed1ea388",
-    "dedupKeys": [
-      "1def6489c5b0eb7c737498b39bb69aae1753a911",
-      "9f63503f039874f013e3c2e26904a845ed1ea388",
-      "1e15d2d890c4c35635ef8ee5190e69b50511e431"
-    ],
-    "imageUrl": "/images/articles/1def6489c5b0.jpg",
-    "i18n": {
-      "ko": {
-        "title": "국민연금 250조 증가에 국내주식 보유 허용치 확대 논의 주목",
-        "excerpt": "국민연금이 올해 250조원을 불리며 국내 증시 시가총액의 7%를 차지하는 가운데, 국내 주식 보유 허용치 확대 여부가 시장의 관심사로 떠올랐다.",
-        "body": "국내 최대 기관투자자인 국민연금이 올해 250조원을 불린 가운데, 국내 주식 보유 허용치를 늘릴지 여부가 주목받고 있다. 국민연금은 국내 증시 시가총액의 7%를 점유하는 큰손으로, 국내 주식 투자 결정이 시장 전반에 미치는 영향이 크다. 특히 국민연금의 자산 배분 방향은 다른 기관투자자의 투자 전략뿐 아니라 1400만 개인투자자에게도 중요한 변수로 받아들여진다. 국내 주식 보유 허용치 조정 논의는 국민연금의 시장 내 역할과 국내 증시 수급에 대한 관심을 키우고 있다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "NPS’s 250 Trillion Won Growth Puts Domestic Stock Limit Debate in Focus",
-        "excerpt": "As South Korea’s National Pension Service adds 250 trillion won this year and holds 7% of the local stock market, attention turns to whether its domestic equity limit may be raised.",
-        "body": "South Korea’s National Pension Service, the country’s largest institutional investor, is drawing attention after increasing its assets by 250 trillion won this year, with focus now on whether it may expand its permitted domestic stock holdings. The NPS accounts for 7% of the domestic stock market’s total capitalization, making its equity allocation decisions highly influential. Its domestic stock strategy affects not only other institutional investors but also 14 million retail investors. Discussion over the domestic stock holding limit is therefore closely tied to the NPS’s market role and local equity supply-demand conditions. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "国民年金250兆ウォン増で国内株保有限度拡大論議に注目",
-        "excerpt": "韓国の国民年金が今年250兆ウォンを増やし、国内株式市場の時価総額の7%を占める中、国内株保有限度を拡大するかに関心が集まっている。",
-        "body": "韓国最大の機関投資家である国民年金が今年250兆ウォンを増やしたことで、国内株式の保有限度を拡大するかどうかが注目されている。国民年金は国内株式市場の時価総額の7%を占める大口投資家であり、国内株への投資判断が市場全体に及ぼす影響は大きい。特に国民年金の資産配分の方向性は、他の機関投資家の投資戦略だけでなく、1400万人の個人投資家にとっても重要な変数と受け止められている。国内株保有限度の調整論議は、国民年金の市場での役割と需給への関心を高めている。出所: mk.co.kr"
-      },
-      "zh": {
-        "title": "韩国国民年金今年增250万亿韩元，国内股票持有限额受关注",
-        "excerpt": "韩国国民年金今年增值250万亿韩元，并占韩国股市总市值7%，市场关注其是否会扩大国内股票持有允许额度。",
-        "body": "韩国最大机构投资者国民年金今年增值250万亿韩元后，是否会扩大国内股票持有允许额度受到关注。国民年金占韩国国内股市总市值的7%，是影响市场的重要资金力量，其国内股票投资决定对整体市场具有较大影响。尤其是国民年金的资产配置方向，不仅关系到其他机构投资者的投资策略，也被视为影响1400万个人投资者的重要变量。围绕国内股票持有限额调整的讨论，正在提升市场对国民年金角色和韩国股市供需的关注。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "NPS suma 250 billones de wones y reabre el debate sobre acciones locales",
-        "excerpt": "El Servicio Nacional de Pensiones de Corea del Sur aumentó 250 billones de wones este año y posee el 7% del mercado bursátil local, lo que centra la atención en su límite de acciones nacionales.",
-        "body": "El Servicio Nacional de Pensiones de Corea del Sur, el mayor inversor institucional del país, atrae la atención tras aumentar 250 billones de wones este año, mientras se observa si ampliará el límite permitido para mantener acciones nacionales. El NPS representa el 7% de la capitalización del mercado bursátil local, por lo que sus decisiones de inversión en acciones nacionales tienen un fuerte impacto. Su orientación de asignación de activos influye no solo en las estrategias de otros inversores institucionales, sino también en 14 millones de inversores minoristas. El debate sobre el límite de acciones locales eleva el interés por su papel en el mercado y por la oferta y demanda bursátil. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "NPS cresce 250 trilhões de wons e limite para ações locais ganha foco",
-        "excerpt": "O Serviço Nacional de Pensões da Coreia do Sul aumentou 250 trilhões de wons neste ano e detém 7% do mercado acionário local, elevando a atenção sobre seu limite em ações domésticas.",
-        "body": "O Serviço Nacional de Pensões da Coreia do Sul, maior investidor institucional do país, ganhou destaque após aumentar 250 trilhões de wons neste ano, enquanto cresce a atenção sobre uma possível ampliação do limite permitido para ações domésticas. O NPS responde por 7% da capitalização do mercado acionário local, o que torna suas decisões de investimento em ações nacionais muito influentes. Sua direção de alocação de ativos afeta não apenas as estratégias de outros investidores institucionais, mas também 14 milhões de investidores individuais. A discussão sobre o limite de ações domésticas amplia o foco no papel do NPS e na dinâmica de oferta e demanda do mercado. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "NPS wächst um 250 Billionen Won: Debatte über Inlandsaktien-Limit rückt vor",
-        "excerpt": "Südkoreas National Pension Service legte in diesem Jahr um 250 Billionen Won zu und hält 7% des heimischen Aktienmarkts, wodurch das Limit für Inlandsaktien in den Fokus rückt.",
-        "body": "Der National Pension Service, Südkoreas größter institutioneller Investor, steht nach einem Zuwachs von 250 Billionen Won in diesem Jahr im Mittelpunkt der Aufmerksamkeit. Beobachtet wird, ob die erlaubte Quote für heimische Aktien erhöht werden könnte. Der NPS hält 7% der Marktkapitalisierung des südkoreanischen Aktienmarkts und ist damit ein bedeutender Marktteilnehmer. Seine Entscheidungen zu Inlandsaktien beeinflussen nicht nur die Strategien anderer institutioneller Investoren, sondern auch 14 Millionen Privatanleger. Die Diskussion über das Limit für heimische Aktien verstärkt das Interesse an der Rolle des NPS und an der Angebots- und Nachfragesituation am Markt. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Le NPS gagne 250 billions de wons et relance le débat sur les actions locales",
-        "excerpt": "Le National Pension Service sud-coréen a accru ses actifs de 250 billions de wons cette année et détient 7% de la Bourse locale, plaçant son plafond d’actions nationales au centre de l’attention.",
-        "body": "Le National Pension Service, plus grand investisseur institutionnel de Corée du Sud, attire l’attention après avoir accru ses actifs de 250 billions de wons cette année, alors que le marché s’interroge sur une possible hausse de son plafond de détention d’actions nationales. Le NPS représente 7% de la capitalisation du marché boursier local, ce qui donne un poids important à ses décisions d’investissement. Son orientation en matière d’allocation d’actifs influence non seulement les stratégies des autres investisseurs institutionnels, mais aussi 14 millions d’investisseurs particuliers. Le débat sur ce plafond renforce l’intérêt pour son rôle et pour l’équilibre offre-demande du marché. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "نمو صندوق التقاعد الكوري 250 تريليون وون يسلط الضوء على حد الأسهم المحلية",
-        "excerpt": "زاد صندوق التقاعد الوطني الكوري الجنوبي 250 تريليون وون هذا العام ويمثل 7% من سوق الأسهم المحلية، ما يوجه الأنظار إلى حد حيازته للأسهم المحلية.",
-        "body": "يحظى صندوق التقاعد الوطني في كوريا الجنوبية، أكبر مستثمر مؤسسي في البلاد، باهتمام واسع بعدما زاد 250 تريليون وون هذا العام، وسط ترقب لما إذا كان سيتم توسيع الحد المسموح به لحيازته من الأسهم المحلية. يمثل الصندوق 7% من القيمة السوقية لسوق الأسهم المحلية، لذلك فإن قراراته الاستثمارية في الأسهم الكورية لها تأثير كبير في السوق. كما أن اتجاه توزيع أصوله يؤثر في استراتيجيات المستثمرين المؤسسيين الآخرين، وفي 14 مليون مستثمر فردي. ويزيد النقاش حول حد حيازة الأسهم المحلية الاهتمام بدور الصندوق وبعوامل العرض والطلب في السوق. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "NPS की 250 ट्रिलियन वॉन वृद्धि से घरेलू शेयर सीमा पर चर्चा तेज",
-        "excerpt": "दक्षिण कोरिया की नेशनल पेंशन सर्विस ने इस वर्ष 250 ट्रिलियन वॉन बढ़ाए और स्थानीय शेयर बाजार के 7% हिस्से पर काबिज है, जिससे घरेलू शेयर सीमा पर ध्यान बढ़ा है।",
-        "body": "दक्षिण कोरिया की सबसे बड़ी संस्थागत निवेशक नेशनल पेंशन सर्विस इस वर्ष 250 ट्रिलियन वॉन की वृद्धि के बाद ध्यान में है, क्योंकि बाजार देख रहा है कि घरेलू शेयरों की अनुमत होल्डिंग सीमा बढ़ाई जाएगी या नहीं। NPS स्थानीय शेयर बाजार के कुल बाजार पूंजीकरण का 7% रखती है, इसलिए घरेलू शेयरों पर उसके निवेश फैसलों का व्यापक प्रभाव होता है। उसकी परिसंपत्ति आवंटन दिशा अन्य संस्थागत निवेशकों की रणनीतियों के साथ 1.4 करोड़ व्यक्तिगत निवेशकों के लिए भी अहम कारक मानी जाती है। घरेलू शेयर सीमा पर चर्चा NPS की बाजार भूमिका और स्थानीय शेयरों की आपूर्ति-मांग पर ध्यान बढ़ा रही है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "NPS Naik 250 Triliun Won, Batas Kepemilikan Saham Domestik Jadi Sorotan",
-        "excerpt": "National Pension Service Korea Selatan bertambah 250 triliun won tahun ini dan menguasai 7% kapitalisasi pasar saham domestik, memicu perhatian pada batas kepemilikan saham lokal.",
-        "body": "National Pension Service Korea Selatan, investor institusi terbesar di negara itu, menjadi sorotan setelah bertambah 250 triliun won tahun ini, sementara pasar mencermati apakah batas kepemilikan saham domestiknya akan dinaikkan. NPS menguasai 7% kapitalisasi pasar saham domestik, sehingga keputusan investasinya di saham lokal memiliki pengaruh besar. Arah alokasi aset NPS juga memengaruhi strategi investor institusi lain serta menjadi variabel penting bagi 14 juta investor ritel. Pembahasan mengenai penyesuaian batas kepemilikan saham domestik meningkatkan perhatian pada peran NPS dan kondisi pasokan-permintaan di pasar saham lokal. Sumber: mk.co.kr"
       }
     }
   }
