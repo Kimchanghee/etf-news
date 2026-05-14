@@ -1,5 +1,230 @@
 [
   {
+    "id": "3d7a89f6d347",
+    "slug": "카카오모빌리티-美-adr-연내-상장-추진-885370",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-05-14T19:03:31.146Z",
+    "updatedAt": "2026-05-14T19:03:31.146Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/2026051472421",
+    "canonicalUrl": "https://www.hankyung.com/article/2026051472421",
+    "titleFingerprint": "16878d3d5c136e9249d88715973081de07ba93b6",
+    "dedupKeys": [
+      "3d7a89f6d3470fb8257989a8d052ad6ff8655ad6",
+      "16878d3d5c136e9249d88715973081de07ba93b6",
+      "17bc9a9641204bc797873ecd0257ca88c1d0921a"
+    ],
+    "imageUrl": "/images/articles/3d7a89f6d347.jpg",
+    "i18n": {
+      "ko": {
+        "title": "카카오모빌리티, 美 ADR 연내 상장 추진…해외 투자자 접점 확대 움직임",
+        "excerpt": "카카오모빌리티가 올해 안에 미국 ADR 상장을 추진한다고 hankyung.com이 전했다. 국내 모빌리티 기업의 해외 자본시장 접근 여부에 관심이 모인다.",
+        "body": "카카오모빌리티가 올해 안에 미국 ADR 상장을 추진한다고 hankyung.com이 보도했다. 이번 사안의 핵심은 카카오모빌리티가 국내 시장을 넘어 미국 자본시장에서 거래될 수 있는 ADR 상장 절차를 연내 추진한다는 점이다. 원문에는 구체적인 상장 시점, 규모, 주관사, 공모 구조 등 세부 조건은 제시되지 않았다. 따라서 현재 확인 가능한 내용은 카카오모빌리티의 미국 ADR 연내 상장 추진이라는 사실에 한정된다. 향후 절차가 구체화되면 국내 모빌리티 기업의 해외 투자자 접점과 자본시장 행보에 대한 관심도 이어질 전망이다. 출처: hankyung.com"
+      },
+      "en": {
+        "title": "Kakao Mobility Pursues U.S. ADR Listing This Year, Expanding Investor Access",
+        "excerpt": "Kakao Mobility is pursuing a U.S. ADR listing within this year, hankyung.com reported, drawing attention to the company’s possible access to overseas capital markets.",
+        "body": "Kakao Mobility is pursuing a U.S. ADR listing within this year, according to hankyung.com. The key point is that the company is seeking to move forward with an ADR listing process that could allow its securities to be traded in the U.S. capital market. The original report did not provide specific details such as the listing date, size, underwriters or offering structure. Therefore, the confirmed information is limited to Kakao Mobility’s plan to pursue a U.S. ADR listing within the year. As the process becomes clearer, attention is likely to remain on the company’s overseas investor access and capital-market steps. Source: hankyung.com"
+      },
+      "ja": {
+        "title": "カカオモビリティ、米ADRの年内上場を推進…海外投資家接点に関心",
+        "excerpt": "カカオモビリティが年内に米国ADR上場を推進しているとhankyung.comが報じた。海外資本市場への接近に関心が集まる。",
+        "body": "カカオモビリティが年内に米国ADR上場を推進していると、hankyung.comが報じた。今回の焦点は、同社が国内市場を越えて米国資本市場で取引され得るADR上場手続きを年内に進めるという点にある。原文では、具体的な上場時期、規模、主幹事、募集構造などの詳細条件は示されていない。したがって、現時点で確認できる内容は、カカオモビリティが米国ADRの年内上場を推進しているという事実に限られる。今後手続きが具体化すれば、海外投資家との接点や資本市場での動きに関心が続く見通しだ。出典: hankyung.com"
+      },
+      "zh": {
+        "title": "Kakao Mobility推进年内美国ADR上市，海外投资者渠道受关注",
+        "excerpt": "hankyung.com报道称，Kakao Mobility正推进今年内在美国ADR上市，市场关注其进入海外资本市场的可能性。",
+        "body": "据hankyung.com报道，Kakao Mobility正推进今年内在美国ADR上市。此次事项的核心在于，该公司计划在年内推进可使其证券进入美国资本市场交易的ADR上市程序。原文未披露具体上市时间、规模、承销商或发行结构等细节。因此，目前可确认的信息仅限于Kakao Mobility正在推进年内美国ADR上市这一事实。随着后续程序进一步明确，市场预计将继续关注这家移动出行企业与海外投资者的接点以及资本市场动向。来源: hankyung.com"
+      },
+      "es": {
+        "title": "Kakao Mobility busca listar ADR en EE. UU. este año y amplía acceso inversor",
+        "excerpt": "Kakao Mobility impulsa una cotización de ADR en Estados Unidos antes de fin de año, informó hankyung.com, en una señal de acercamiento a mercados externos.",
+        "body": "Kakao Mobility está impulsando una cotización de ADR en Estados Unidos dentro de este año, según informó hankyung.com. El punto central es que la empresa busca avanzar con un proceso de listado que podría permitir que sus valores se negocien en el mercado de capitales estadounidense. El informe original no presentó detalles concretos sobre fecha de salida, tamaño, bancos colocadores o estructura de la oferta. Por ello, la información confirmada se limita al hecho de que Kakao Mobility persigue una cotización de ADR en EE. UU. este año. Si el proceso se concreta, seguirá la atención sobre su acceso a inversionistas extranjeros y sus pasos en el mercado de capitales. Fuente: hankyung.com"
+      },
+      "pt": {
+        "title": "Kakao Mobility busca listar ADR nos EUA ainda este ano e mira investidor externo",
+        "excerpt": "A Kakao Mobility está buscando uma listagem de ADR nos Estados Unidos ainda este ano, informou o hankyung.com, atraindo atenção para seu acesso a capital externo.",
+        "body": "A Kakao Mobility está buscando uma listagem de ADR nos Estados Unidos ainda este ano, segundo o hankyung.com. O ponto central é que a empresa pretende avançar, dentro do ano, com um processo de listagem que poderia permitir a negociação de seus valores no mercado de capitais norte-americano. A reportagem original não informou detalhes como data específica, tamanho, coordenadores ou estrutura da oferta. Assim, a informação confirmada se limita ao fato de que a Kakao Mobility está promovendo uma listagem de ADR nos EUA neste ano. Com a eventual definição das etapas, deve continuar a atenção sobre seu contato com investidores estrangeiros e seus movimentos no mercado de capitais. Fonte: hankyung.com"
+      },
+      "de": {
+        "title": "Kakao Mobility strebt US-ADR-Listing noch dieses Jahr an, Anlegerzugang im Fokus",
+        "excerpt": "Kakao Mobility treibt laut hankyung.com ein US-ADR-Listing noch in diesem Jahr voran. Im Fokus steht der mögliche Zugang zu ausländischen Kapitalmärkten.",
+        "body": "Kakao Mobility strebt noch in diesem Jahr ein US-ADR-Listing an, wie hankyung.com berichtete. Im Kern geht es darum, dass das Unternehmen ein Listing-Verfahren vorantreibt, das einen Handel seiner Wertpapiere am US-Kapitalmarkt ermöglichen könnte. Der ursprüngliche Bericht nannte keine konkreten Details zu Zeitpunkt, Umfang, Konsortialbanken oder Angebotsstruktur. Damit beschränkt sich die bestätigte Information auf den Plan von Kakao Mobility, innerhalb des Jahres ein US-ADR-Listing zu verfolgen. Wenn die weiteren Schritte konkreter werden, dürfte das Interesse am Zugang des Unternehmens zu ausländischen Investoren und an seinem Kapitalmarktweg anhalten. Quelle: hankyung.com"
+      },
+      "fr": {
+        "title": "Kakao Mobility vise une cotation ADR aux États-Unis cette année, accès investisseurs en vue",
+        "excerpt": "Kakao Mobility poursuit une cotation ADR aux États-Unis d’ici la fin de l’année, selon hankyung.com, attirant l’attention sur son accès aux marchés étrangers.",
+        "body": "Kakao Mobility poursuit une cotation ADR aux États-Unis d’ici la fin de l’année, selon hankyung.com. L’élément central est que l’entreprise cherche à avancer dans une procédure de cotation qui pourrait permettre à ses titres d’être négociés sur le marché américain des capitaux. L’article d’origine ne fournit pas de détails précis sur la date, la taille, les banques chefs de file ou la structure de l’offre. Les informations confirmées se limitent donc au fait que Kakao Mobility vise une cotation ADR aux États-Unis cette année. Si les étapes se précisent, l’attention devrait rester portée sur son accès aux investisseurs étrangers et sur son parcours sur les marchés de capitaux. Source: hankyung.com"
+      },
+      "ar": {
+        "title": "كاكاو موبيليتي تسعى لإدراج ADR في الولايات المتحدة هذا العام وسط اهتمام المستثمرين",
+        "excerpt": "أفاد hankyung.com بأن كاكاو موبيليتي تسعى لإدراج ADR في الولايات المتحدة خلال هذا العام، ما يسلط الضوء على وصولها المحتمل إلى أسواق المال الخارجية.",
+        "body": "أفاد hankyung.com بأن كاكاو موبيليتي تسعى لإدراج ADR في الولايات المتحدة خلال هذا العام. وتتمثل النقطة الأساسية في أن الشركة تدفع بإجراءات إدراج قد تتيح تداول أوراقها في سوق رأس المال الأميركي. ولم يورد التقرير الأصلي تفاصيل محددة عن موعد الإدراج أو حجمه أو الجهات المنظمة أو هيكل الطرح. لذلك تقتصر المعلومات المؤكدة حالياً على أن كاكاو موبيليتي تمضي في مسعى لإدراج ADR في الولايات المتحدة قبل نهاية العام. ومع اتضاح الخطوات المقبلة، سيستمر الاهتمام بصلتها بالمستثمرين الأجانب وبمسارها في أسواق رأس المال. المصدر: hankyung.com"
+      },
+      "hi": {
+        "title": "Kakao Mobility इस साल अमेरिकी ADR लिस्टिंग की तैयारी में, विदेशी निवेशक पहुंच पर नजर",
+        "excerpt": "hankyung.com के अनुसार Kakao Mobility इस साल अमेरिकी ADR लिस्टिंग आगे बढ़ा रही है, जिससे विदेशी पूंजी बाजारों तक उसकी संभावित पहुंच पर ध्यान गया है।",
+        "body": "hankyung.com के अनुसार Kakao Mobility इस साल के भीतर अमेरिकी ADR लिस्टिंग आगे बढ़ा रही है। मुख्य बात यह है कि कंपनी ऐसी ADR लिस्टिंग प्रक्रिया को आगे बढ़ाना चाहती है, जिससे उसकी प्रतिभूतियों का अमेरिकी पूंजी बाजार में कारोबार संभव हो सके। मूल रिपोर्ट में लिस्टिंग की सटीक तारीख, आकार, अंडरराइटर या पेशकश संरचना जैसे विवरण नहीं दिए गए। इसलिए अभी पुष्टि योग्य जानकारी केवल इतनी है कि Kakao Mobility इस वर्ष अमेरिकी ADR लिस्टिंग 추진 कर रही है। आगे प्रक्रिया स्पष्ट होने पर विदेशी निवेशकों तक कंपनी की पहुंच और पूंजी बाजार से जुड़े कदमों पर ध्यान बना रह सकता है। स्रोत: hankyung.com"
+      },
+      "id": {
+        "title": "Kakao Mobility Kejar Listing ADR AS Tahun Ini, Akses Investor Global Jadi Sorotan",
+        "excerpt": "Kakao Mobility mengejar listing ADR di Amerika Serikat tahun ini, menurut hankyung.com, menarik perhatian pada aksesnya ke pasar modal luar negeri.",
+        "body": "Kakao Mobility sedang mengejar listing ADR di Amerika Serikat dalam tahun ini, menurut hankyung.com. Inti beritanya adalah perusahaan berupaya melanjutkan proses listing ADR yang dapat memungkinkan sekuritasnya diperdagangkan di pasar modal AS. Laporan asli tidak menyebutkan rincian seperti waktu listing, ukuran, penjamin emisi, atau struktur penawaran. Karena itu, informasi yang terkonfirmasi saat ini terbatas pada fakta bahwa Kakao Mobility sedang mendorong listing ADR AS tahun ini. Jika proses berikutnya semakin jelas, perhatian terhadap akses perusahaan kepada investor luar negeri dan langkahnya di pasar modal diperkirakan berlanjut. Sumber: hankyung.com"
+      }
+    }
+  },
+  {
+    "id": "d160725874e8",
+    "slug": "증시랠리-올라탄-국민연금보름-만에-50조-더-벌었다-173747",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-05-14T19:02:30.813Z",
+    "updatedAt": "2026-05-14T19:02:30.813Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/2026051472511",
+    "canonicalUrl": "https://www.hankyung.com/article/2026051472511",
+    "titleFingerprint": "e68ea62643268f8d907e1a006571026a83d3377c",
+    "dedupKeys": [
+      "d160725874e88fd8ac03e304cf67da1b5a34a7fe",
+      "e68ea62643268f8d907e1a006571026a83d3377c",
+      "4a621625e44b1451936aedbbb5d042b9fc17f944"
+    ],
+    "imageUrl": "/images/articles/d160725874e8.png",
+    "i18n": {
+      "ko": {
+        "title": "국민연금, 증시랠리 타고 보름 만에 50조 추가 수익",
+        "excerpt": "국민연금이 최근 증시랠리에 힘입어 보름 만에 50조원가량을 더 벌어들인 것으로 전해졌다. 주가 회복 흐름이 대형 연기금 수익에 직접 반영됐다.",
+        "body": "국민연금이 최근 증시랠리에 올라타 보름 만에 50조원가량의 추가 수익을 거둔 것으로 전해졌다. 국내외 증시가 반등 흐름을 보이면서 국민연금의 보유 자산 평가액도 함께 늘어난 결과다. 이번 보도는 증시 변동이 대형 연기금의 운용 성과에 얼마나 빠르게 반영될 수 있는지를 보여준다. 다만 기사에서 확인된 핵심 수치는 보름 사이 50조원 증가라는 점이며, 구체적인 자산별 기여도나 향후 수익 전망은 제시되지 않았다. 출처: hankyung.com"
+      },
+      "en": {
+        "title": "National Pension Gains 50 Trillion Won in 15 Days on Stock Rally",
+        "excerpt": "South Korea’s National Pension reportedly earned about 50 trillion won more in just 15 days as the recent stock market rally lifted the value of its holdings.",
+        "body": "South Korea’s National Pension Service reportedly gained about 50 trillion won in additional returns in just 15 days, helped by a recent stock market rally. As domestic and global equities rebounded, the value of assets held by the pension fund also increased. The report shows how quickly stock market moves can feed into the performance of a major public pension investor. The confirmed core figure is the roughly 50 trillion won increase over a half-month period; details on contribution by asset class or future return forecasts were not provided. Source: hankyung.com"
+      },
+      "ja": {
+        "title": "国民年金、株式市場ラリーで15日間に50兆ウォン追加収益",
+        "excerpt": "韓国の国民年金が最近の株式市場ラリーを受け、15日間で約50兆ウォンをさらに稼いだと報じられた。株価回復が運用成績に反映された。",
+        "body": "韓国の国民年金が最近の株式市場ラリーに乗り、15日間で約50兆ウォンの追加収益を得たと報じられた。国内外の株式市場が反発基調を見せたことで、国民年金が保有する資産の評価額も増加した。今回の報道は、市場変動が大規模な公的年金の運用成績にどれほど速く反映されるかを示している。ただし、確認された中心的な数値は半月で50兆ウォン増えたという点であり、資産別の寄与度や今後の収益見通しは示されていない。出典: hankyung.com"
+      },
+      "zh": {
+        "title": "韩国国民年金借股市反弹 15天增赚50万亿韩元",
+        "excerpt": "韩国国民年金据报受近期股市反弹推动，在15天内增加约50万亿韩元收益，股价回升直接反映在大型养老金资产价值上。",
+        "body": "韩国国民年金据报借助近期股市反弹，在15天内获得约50万亿韩元的额外收益。随着韩国及海外股市出现回升，该养老金持有资产的估值也同步增加。该报道显示，股票市场波动能够较快反映在大型公共养老金的投资表现中。不过，目前确认的核心信息是半个月内增加约50万亿韩元，报道未提供各类资产的具体贡献或未来收益展望。来源: hankyung.com"
+      },
+      "es": {
+        "title": "Fondo Nacional de Pensiones gana 50 billones de wones con rally bursátil",
+        "excerpt": "El Fondo Nacional de Pensiones de Corea del Sur habría ganado unos 50 billones de wones adicionales en 15 días gracias al reciente repunte de las bolsas.",
+        "body": "El Fondo Nacional de Pensiones de Corea del Sur habría obtenido cerca de 50 billones de wones en ganancias adicionales en solo 15 días, impulsado por el reciente rally bursátil. A medida que las bolsas locales e internacionales repuntaron, también aumentó el valor de los activos mantenidos por el fondo. El caso muestra la rapidez con la que los movimientos del mercado accionario pueden reflejarse en el desempeño de un gran fondo público de pensiones. El dato central confirmado es el aumento de unos 50 billones de wones en medio mes; no se detallaron aportes por clase de activo ni previsiones futuras. Fuente: hankyung.com"
+      },
+      "pt": {
+        "title": "Fundo Nacional de Pensões ganha 50 trilhões de won com rali das bolsas",
+        "excerpt": "O Fundo Nacional de Pensões da Coreia do Sul teria ganhado cerca de 50 trilhões de won adicionais em 15 dias com o recente rali do mercado acionário.",
+        "body": "O Fundo Nacional de Pensões da Coreia do Sul teria registrado cerca de 50 trilhões de won em ganhos adicionais em apenas 15 dias, apoiado pelo recente rali das bolsas. Com a recuperação dos mercados acionários doméstico e internacional, o valor dos ativos mantidos pelo fundo também aumentou. O episódio mostra como oscilações nas ações podem se refletir rapidamente no desempenho de um grande fundo público de pensão. O dado central confirmado é o aumento de cerca de 50 trilhões de won em meio mês; não foram informadas contribuições por classe de ativo nem projeções futuras. Fonte: hankyung.com"
+      },
+      "de": {
+        "title": "Nationaler Pensionsfonds gewinnt durch Börsenrally 50 Billionen Won hinzu",
+        "excerpt": "Südkoreas Nationaler Pensionsfonds soll dank der jüngsten Börsenrally innerhalb von 15 Tagen rund 50 Billionen Won zusätzlich verdient haben.",
+        "body": "Südkoreas Nationaler Pensionsfonds soll durch die jüngste Börsenrally innerhalb von 15 Tagen zusätzliche Erträge von rund 50 Billionen Won erzielt haben. Mit der Erholung der in- und ausländischen Aktienmärkte stieg auch der Bewertungswert der vom Fonds gehaltenen Vermögenswerte. Der Bericht zeigt, wie schnell Bewegungen an den Aktienmärkten in die Performance eines großen öffentlichen Pensionsfonds einfließen können. Bestätigt ist als Kernzahl der Anstieg um rund 50 Billionen Won in einem halben Monat; Angaben zu Beiträgen einzelner Anlageklassen oder künftigen Ertragsaussichten wurden nicht genannt. Quelle: hankyung.com"
+      },
+      "fr": {
+        "title": "Le fonds national de pension gagne 50 000 milliards de wons avec le rally boursier",
+        "excerpt": "Le fonds national de pension sud-coréen aurait gagné environ 50 000 milliards de wons en 15 jours grâce au récent rebond des marchés actions.",
+        "body": "Le fonds national de pension sud-coréen aurait enregistré environ 50 000 milliards de wons de gains supplémentaires en seulement 15 jours, porté par le récent rally boursier. La reprise des marchés actions, en Corée comme à l’étranger, a augmenté la valeur des actifs détenus par le fonds. Cette information montre à quelle vitesse les mouvements boursiers peuvent se refléter dans la performance d’un grand fonds public de retraite. Le chiffre central confirmé est la hausse d’environ 50 000 milliards de wons en un demi-mois; aucune contribution par classe d’actifs ni prévision de rendement n’a été précisée. Source: hankyung.com"
+      },
+      "ar": {
+        "title": "صندوق التقاعد الوطني الكوري يربح 50 تريليون وون مع صعود الأسهم",
+        "excerpt": "أفادت تقارير بأن صندوق التقاعد الوطني في كوريا الجنوبية حقق نحو 50 تريليون وون إضافية خلال 15 يوما بدعم من موجة صعود سوق الأسهم الأخيرة.",
+        "body": "أفادت تقارير بأن صندوق التقاعد الوطني في كوريا الجنوبية حقق مكاسب إضافية تقارب 50 تريليون وون خلال 15 يوما فقط، مستفيدا من موجة الصعود الأخيرة في سوق الأسهم. ومع تعافي الأسهم المحلية والعالمية، ارتفعت أيضا قيمة الأصول التي يحتفظ بها الصندوق. وتوضح هذه الحالة مدى سرعة انعكاس تحركات أسواق الأسهم على أداء صندوق تقاعد عام كبير. الرقم الأساسي المؤكد هو زيادة بنحو 50 تريليون وون خلال نصف شهر، بينما لم ترد تفاصيل عن مساهمة كل فئة أصول أو توقعات العوائد المقبلة. المصدر: hankyung.com"
+      },
+      "hi": {
+        "title": "शेयर बाजार रैली से नेशनल पेंशन ने 15 दिन में 50 ट्रिलियन वोन कमाए",
+        "excerpt": "दक्षिण कोरिया के नेशनल पेंशन ने हालिया शेयर बाजार रैली के चलते 15 दिनों में करीब 50 ट्रिलियन वोन अतिरिक्त कमाए, ऐसी रिपोर्ट सामने आई है।",
+        "body": "दक्षिण कोरिया के नेशनल पेंशन ने हालिया शेयर बाजार रैली का लाभ उठाते हुए सिर्फ 15 दिनों में करीब 50 ट्रिलियन वोन की अतिरिक्त कमाई की, ऐसी रिपोर्ट है। घरेलू और वैश्विक शेयर बाजारों में सुधार के साथ फंड के पास मौजूद परिसंपत्तियों का मूल्य भी बढ़ा। यह रिपोर्ट दिखाती है कि शेयर बाजार की चाल बड़े सार्वजनिक पेंशन फंड के प्रदर्शन में कितनी तेजी से दिख सकती है। पुष्टि की गई मुख्य जानकारी आधे महीने में करीब 50 ट्रिलियन वोन की वृद्धि है; परिसंपत्ति वर्गों के योगदान या आगे की आय के अनुमान नहीं दिए गए। स्रोत: hankyung.com"
+      },
+      "id": {
+        "title": "Dana Pensiun Nasional Raup 50 Triliun Won dari Reli Pasar Saham",
+        "excerpt": "Dana Pensiun Nasional Korea Selatan dilaporkan meraih tambahan sekitar 50 triliun won dalam 15 hari berkat reli pasar saham terbaru.",
+        "body": "Dana Pensiun Nasional Korea Selatan dilaporkan mencatat tambahan keuntungan sekitar 50 triliun won hanya dalam 15 hari, didukung reli pasar saham terbaru. Saat pasar saham domestik dan global berbalik menguat, nilai aset yang dimiliki dana tersebut ikut meningkat. Laporan ini menunjukkan seberapa cepat pergerakan pasar saham dapat tercermin dalam kinerja dana pensiun publik berskala besar. Angka utama yang terkonfirmasi adalah kenaikan sekitar 50 triliun won dalam setengah bulan; rincian kontribusi tiap kelas aset maupun prospek imbal hasil ke depan tidak disampaikan. Sumber: hankyung.com"
+      }
+    }
+  },
+  {
+    "id": "6aec29fa748f",
+    "slug": "몸값-1조-딥엑스-지드래곤-소속사ipo-대어-집결-863725",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-05-14T19:01:38.152Z",
+    "updatedAt": "2026-05-14T19:01:38.152Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/2026051472741",
+    "canonicalUrl": "https://www.hankyung.com/article/2026051472741",
+    "titleFingerprint": "3ee38f8449e8a64c5109e0d26e862a3bc36640f5",
+    "dedupKeys": [
+      "6aec29fa748f3e6316ea986e2cba9b4c2beaefbc",
+      "3ee38f8449e8a64c5109e0d26e862a3bc36640f5",
+      "f8a01eb5ad2af41ba237c686ee0023beafac2a17"
+    ],
+    "imageUrl": "/images/articles/6aec29fa748f.png",
+    "i18n": {
+      "ko": {
+        "title": "딥엑스·갤럭시코퍼레이션 등 IPO 기대주, KIW 2026 마지막 날 상장 청사진 공개",
+        "excerpt": "KIW 2026 마지막 날인 15일 딥엑스와 갤럭시코퍼레이션 등 비상장 혁신기업들이 투자자 앞에서 IPO 계획과 성장 전략을 공개한다.",
+        "body": "‘코리아 인베스트먼트 위크(KIW) 2026’ 마지막 날인 15일 국내 비상장 혁신기업들이 한자리에 모여 기업공개(IPO) 청사진을 공개한다. 참여 기업에는 AI 반도체 스타트업 딥엑스, 지드래곤 소속사로 알려진 갤럭시코퍼레이션, 해빗팩토리, 엘리스그룹, 엘박스, 삼홍아크튜리온, 에이로봇 등이 포함된다. 딥엑스는 온디바이스 AI 반도체와 초저전력 NPU 기술을 앞세우며, 시장에서는 상장 시 기업가치가 1조원을 넘어설 것으로 본다. 갤럭시코퍼레이션은 미국 상장 계획과 해외 투자 유치 전략을 공개할 예정이다. hankyung.com은 이들 기업이 성장 전략과 상장 로드맵을 투자자에게 소개한다고 전했다."
+      },
+      "en": {
+        "title": "DeepX, Galaxy Corporation and Other IPO Hopefuls to Present at KIW 2026",
+        "excerpt": "On May 15, the final day of KIW 2026, unlisted innovators including DeepX and Galaxy Corporation will present IPO plans and growth strategies to investors.",
+        "body": "On May 15, the final day of Korea Investment Week, or KIW 2026, leading unlisted Korean innovation companies will gather to outline their initial public offering plans. Participants include AI semiconductor startup DeepX, Galaxy Corporation, known as G-Dragon’s agency, Habit Factory, Elice Group, LBox, Samhong Arcturion and A-Robot. DeepX is a key player in on-device AI chips and ultra-low-power neural processing units, and the market expects its valuation to exceed 1 trillion won if it lists. Galaxy Corporation will disclose its U.S. listing plan and overseas fundraising strategy. hankyung.com reported that the companies will present growth strategies and listing roadmaps to investors."
+      },
+      "ja": {
+        "title": "DeepXやGalaxy CorporationなどIPO有望株、KIW 2026最終日に集結",
+        "excerpt": "KIW 2026最終日の5月15日、DeepXやGalaxy Corporationなど未上場の革新企業が投資家にIPO計画と成長戦略を示す。",
+        "body": "「コリア・インベストメント・ウィーク（KIW）2026」最終日の5月15日、韓国の主要な未上場革新企業が一堂に会し、企業公開（IPO）の青写真を示す。参加企業には、AI半導体スタートアップのDeepX、G-Dragonの所属事務所として知られるGalaxy Corporation、Habit Factory、Elice Group、LBox、Samhong Arcturion、A-Robotなどが含まれる。DeepXはオンデバイスAI半導体と超低消費電力NPU技術を強みにしており、上場時の企業価値は1兆ウォンを超えるとの見方が市場にある。Galaxy Corporationは米国上場計画と海外投資誘致戦略を公開する予定だ。hankyung.comは、各社が成長戦略と上場ロードマップを投資家に紹介すると報じた。"
+      },
+      "zh": {
+        "title": "DeepX、Galaxy Corporation等IPO热门企业将在KIW 2026压轴亮相",
+        "excerpt": "5月15日KIW 2026最后一天，DeepX、Galaxy Corporation等未上市创新企业将向投资者介绍IPO计划和增长战略。",
+        "body": "“韩国投资周（KIW）2026”最后一天，即5月15日，韩国多家备受关注的未上市创新企业将齐聚一堂，公开首次公开募股（IPO）蓝图。参与企业包括AI半导体初创公司DeepX、以G-Dragon所属公司闻名的Galaxy Corporation、Habit Factory、Elice Group、LBox、Samhong Arcturion和A-Robot等。DeepX主攻端侧AI半导体和超低功耗神经网络处理器（NPU）技术，市场认为其上市时企业价值将超过1万亿韩元。Galaxy Corporation计划公布赴美上市安排和海外融资战略。hankyung.com报道称，这些企业将向投资者介绍增长战略和上市路线图。"
+      },
+      "es": {
+        "title": "DeepX, Galaxy Corporation y otros aspirantes a IPO se reúnen en KIW 2026",
+        "excerpt": "El 15 de mayo, último día de KIW 2026, DeepX, Galaxy Corporation y otras empresas innovadoras no cotizadas presentarán sus planes de IPO y crecimiento.",
+        "body": "El 15 de mayo, último día de Korea Investment Week, o KIW 2026, varias empresas innovadoras surcoreanas no cotizadas se reunirán para presentar sus planes de salida a bolsa. Entre las participantes figuran la startup de semiconductores de IA DeepX, Galaxy Corporation, conocida como la agencia de G-Dragon, Habit Factory, Elice Group, LBox, Samhong Arcturion y A-Robot. DeepX destaca en chips de IA en dispositivo y tecnología NPU de muy bajo consumo, y el mercado prevé que su valoración supere 1 billón de wones si cotiza. Galaxy Corporation revelará su plan de cotización en Estados Unidos y su estrategia para atraer inversión extranjera. hankyung.com informó que las compañías expondrán sus estrategias de crecimiento y hojas de ruta de salida a bolsa ante inversores."
+      },
+      "pt": {
+        "title": "DeepX, Galaxy Corporation e outras candidatas a IPO se apresentam no KIW 2026",
+        "excerpt": "Em 15 de maio, último dia do KIW 2026, DeepX, Galaxy Corporation e outras empresas inovadoras não listadas apresentarão planos de IPO e crescimento.",
+        "body": "Em 15 de maio, último dia da Korea Investment Week, ou KIW 2026, empresas inovadoras sul-coreanas não listadas se reunirão para apresentar seus planos de oferta pública inicial. Entre as participantes estão a startup de semicondutores de IA DeepX, a Galaxy Corporation, conhecida como agência de G-Dragon, Habit Factory, Elice Group, LBox, Samhong Arcturion e A-Robot. A DeepX se destaca em semicondutores de IA on-device e tecnologia NPU de ultrabaixo consumo, e o mercado vê sua avaliação superando 1 trilhão de won se a empresa abrir capital. A Galaxy Corporation divulgará seu plano de listagem nos Estados Unidos e sua estratégia para captar investimento externo. O hankyung.com informou que as empresas apresentarão estratégias de crescimento e roteiros de listagem a investidores."
+      },
+      "de": {
+        "title": "DeepX, Galaxy Corporation und weitere IPO-Kandidaten treten bei KIW 2026 auf",
+        "excerpt": "Am 15. Mai, dem letzten Tag der KIW 2026, stellen DeepX, Galaxy Corporation und andere nicht börsennotierte Innovationsfirmen IPO-Pläne und Wachstumsstrategien vor.",
+        "body": "Am 15. Mai, dem letzten Tag der Korea Investment Week, kurz KIW 2026, kommen führende nicht börsennotierte Innovationsunternehmen aus Korea zusammen, um ihre Pläne für Börsengänge vorzustellen. Dazu zählen das KI-Halbleiter-Startup DeepX, Galaxy Corporation, bekannt als Agentur von G-Dragon, Habit Factory, Elice Group, LBox, Samhong Arcturion und A-Robot. DeepX gilt als wichtiger Anbieter von On-Device-KI-Chips und extrem stromsparenden NPU-Technologien; der Markt erwartet bei einem Listing eine Bewertung von mehr als 1 Billion Won. Galaxy Corporation will Pläne für eine US-Notierung und eine Strategie zur Gewinnung ausländischer Investoren offenlegen. hankyung.com berichtete, dass die Unternehmen Investoren Wachstumsstrategien und Listing-Roadmaps präsentieren."
+      },
+      "fr": {
+        "title": "DeepX, Galaxy Corporation et d’autres candidats à l’IPO réunis au KIW 2026",
+        "excerpt": "Le 15 mai, dernier jour du KIW 2026, DeepX, Galaxy Corporation et d’autres entreprises innovantes non cotées présenteront leurs plans d’IPO et de croissance.",
+        "body": "Le 15 mai, dernier jour de la Korea Investment Week, ou KIW 2026, plusieurs entreprises innovantes sud-coréennes non cotées se réuniront pour présenter leurs projets d’introduction en Bourse. Parmi elles figurent la start-up de semi-conducteurs d’IA DeepX, Galaxy Corporation, connue comme l’agence de G-Dragon, Habit Factory, Elice Group, LBox, Samhong Arcturion et A-Robot. DeepX mise sur les semi-conducteurs d’IA embarquée et les NPU à très faible consommation, et le marché estime que sa valorisation pourrait dépasser 1 000 milliards de wons en cas de cotation. Galaxy Corporation dévoilera son projet de cotation aux États-Unis et sa stratégie de levée de fonds à l’étranger. hankyung.com a indiqué que ces sociétés présenteront aux investisseurs leurs stratégies de croissance et leurs feuilles de route de cotation."
+      },
+      "ar": {
+        "title": "DeepX وGalaxy Corporation وشركات IPO واعدة تعرض خططها في KIW 2026",
+        "excerpt": "في 15 مايو، اليوم الأخير من KIW 2026، تعرض DeepX وGalaxy Corporation وشركات ابتكار غير مدرجة خطط الطرح العام واستراتيجيات النمو أمام المستثمرين.",
+        "body": "في 15 مايو، اليوم الأخير من أسبوع كوريا للاستثمار KIW 2026، تجتمع شركات ابتكار كورية غير مدرجة لعرض ملامح خططها للطرح العام الأولي. وتشمل الشركات المشاركة DeepX، وهي شركة ناشئة في أشباه موصلات الذكاء الاصطناعي، وGalaxy Corporation المعروفة بأنها وكالة G-Dragon، إضافة إلى Habit Factory وElice Group وLBox وSamhong Arcturion وA-Robot. تركز DeepX على رقائق الذكاء الاصطناعي على الأجهزة وتقنية وحدات المعالجة العصبية منخفضة الطاقة للغاية، ويرى السوق أن قيمتها عند الإدراج قد تتجاوز تريليون وون. وستكشف Galaxy Corporation خطة الإدراج في الولايات المتحدة واستراتيجية جذب الاستثمار الخارجي. وذكر hankyung.com أن هذه الشركات ستقدم للمستثمرين استراتيجيات النمو وخريطة طريق الإدراج."
+      },
+      "hi": {
+        "title": "DeepX, Galaxy Corporation और अन्य IPO दावेदार KIW 2026 में योजनाएं बताएंगे",
+        "excerpt": "KIW 2026 के अंतिम दिन 15 मई को DeepX, Galaxy Corporation और अन्य गैर-सूचीबद्ध नवोन्मेषी कंपनियां निवेशकों को IPO योजनाएं और विकास रणनीतियां बताएंगी।",
+        "body": "Korea Investment Week, यानी KIW 2026, के अंतिम दिन 15 मई को दक्षिण कोरिया की प्रमुख गैर-सूचीबद्ध नवोन्मेषी कंपनियां अपने आरंभिक सार्वजनिक निर्गम यानी IPO की रूपरेखा पेश करेंगी। इनमें AI सेमीकंडक्टर स्टार्टअप DeepX, G-Dragon की एजेंसी के रूप में जानी जाने वाली Galaxy Corporation, Habit Factory, Elice Group, LBox, Samhong Arcturion और A-Robot शामिल हैं। DeepX ऑन-डिवाइस AI सेमीकंडक्टर और अल्ट्रा-लो-पावर NPU तकनीक पर केंद्रित है, और बाजार मानता है कि सूचीबद्ध होने पर उसका मूल्यांकन 1 ट्रिलियन वॉन से अधिक हो सकता है। Galaxy Corporation अमेरिका में लिस्टिंग योजना और विदेशी निवेश जुटाने की रणनीति बताएगी। hankyung.com ने बताया कि ये कंपनियां निवेशकों के सामने विकास रणनीति और लिस्टिंग रोडमैप रखेंगी।"
+      },
+      "id": {
+        "title": "DeepX, Galaxy Corporation dan kandidat IPO lain tampil di KIW 2026",
+        "excerpt": "Pada 15 Mei, hari terakhir KIW 2026, DeepX, Galaxy Corporation dan perusahaan inovatif nonlisted lain akan memaparkan rencana IPO dan strategi pertumbuhan.",
+        "body": "Pada 15 Mei, hari terakhir Korea Investment Week atau KIW 2026, sejumlah perusahaan inovatif Korea Selatan yang belum tercatat di bursa akan berkumpul untuk memaparkan rencana penawaran umum perdana saham. Pesertanya mencakup startup semikonduktor AI DeepX, Galaxy Corporation yang dikenal sebagai agensi G-Dragon, Habit Factory, Elice Group, LBox, Samhong Arcturion dan A-Robot. DeepX mengandalkan semikonduktor AI on-device dan teknologi NPU berdaya sangat rendah, sementara pasar memperkirakan valuasinya dapat melampaui 1 triliun won jika melantai di bursa. Galaxy Corporation akan membuka rencana pencatatan di Amerika Serikat dan strategi menarik investasi luar negeri. hankyung.com melaporkan bahwa perusahaan-perusahaan itu akan menyampaikan strategi pertumbuhan dan peta jalan listing kepada investor."
+      }
+    }
+  },
+  {
     "id": "b5873e028909",
     "slug": "stx그린로지스-썬에이스-매각-추진-582111",
     "channelId": "ETF",
@@ -4271,231 +4496,6 @@
         "title": "Studi GenCurix Droplex POLE Terbit, Tes Mutasi Kanker Endometrium Jadi Sorotan",
         "excerpt": "Perusahaan diagnostik kedokteran presisi GenCurix menyatakan studi Droplex POLE Mutation Test berbasis ddPCR untuk mendeteksi mutasi POLE pada kanker endometrium telah diterbitkan di jurnal internasional.",
         "body": "GenCurix, perusahaan diagnostik kedokteran presisi, menyatakan bahwa studi mengenai Droplex POLE Mutation Test berbasis digital PCR (ddPCR) untuk mendeteksi mutasi POLE pada kanker endometrium telah diterbitkan di jurnal akademik internasional. Tes ini merupakan produk diagnostik molekuler yang ditujukan untuk mengidentifikasi mutasi POLE dan menarik perhatian karena potensi penggunaannya dalam diagnosis presisi kanker endometrium. GenCurix telah mengembangkan tes deteksi mutasi berbasis teknologi digital PCR, dan publikasi ini bermakna karena hasil penelitian tes tersebut diperkenalkan melalui kanal akademik eksternal. Ke depan, perhatian tertuju pada apakah teknologi terkait dapat memperluas pengenalan di bidang diagnosis kanker endometrium dan pengujian kedokteran presisi. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "221385936786",
-    "slug": "세기의-담판-나서는-트럼프-시진핑수혜주와-피해주는-871903",
-    "channelId": "ETF",
-    "category": "etf",
-    "publishedAt": "2026-05-14T00:06:28.976Z",
-    "updatedAt": "2026-05-14T00:06:28.976Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/202605145226i",
-    "canonicalUrl": "https://www.hankyung.com/article/202605145226i",
-    "titleFingerprint": "bc9c0ea3e6af2a604429a6e0f838cecd75370098",
-    "dedupKeys": [
-      "2213859367869e4c8aca471810e4291c62f2f35e",
-      "bc9c0ea3e6af2a604429a6e0f838cecd75370098",
-      "c90f84ba937ba95ba5372e3e08983c200d88e7a9"
-    ],
-    "imageUrl": "/images/articles/221385936786.jpg",
-    "i18n": {
-      "ko": {
-        "title": "트럼프·시진핑 미중 정상회담, 수혜주와 피해주 향방에 시장 촉각",
-        "excerpt": "도널드 트럼프 미국 대통령과 시진핑 중국 국가주석이 부산에서 정상회담을 진행하면서 미중 갈등 완화 여부와 관련 ETF·주식 영향에 관심이 쏠렸다.",
-        "body": "도널드 트럼프 미국 대통령과 시진핑 중국 국가주석이 30일 부산에서 미중 정상회담을 진행했다. 한국경제 보도에 따르면 ‘세기의 담판’으로 불린 이번 회담은 약 1시간 40분 만에 종료됐고, 공식 회담을 마친 뒤 두 정상은 회담장 밖에서 나란히 서서 악수했다. 시장의 관심은 회담 결과가 미중 갈등과 무역 관련 자산에 어떤 영향을 줄지에 모였다. 다만 제공된 원문 정보에는 구체적인 수혜주와 피해주 명단, 업종별 수치, 합의 내용은 제시되지 않았다. 투자자는 회담 이후 공개되는 공식 발표와 후속 보도를 확인할 필요가 있다. 출처: hankyung.com."
-      },
-      "en": {
-        "title": "Trump-Xi U.S.-China Summit Puts Market Focus on Winners and Losers",
-        "excerpt": "U.S. President Donald Trump and Chinese President Xi Jinping held a summit in Busan, drawing attention to whether U.S.-China tensions and related ETFs or stocks could be affected.",
-        "body": "U.S. President Donald Trump and Chinese President Xi Jinping held a U.S.-China summit in Busan on the 30th. According to Hankyung, the meeting, described as a “deal of the century,” ended after about 1 hour and 40 minutes, and the two leaders stood side by side and shook hands outside the venue after the formal talks. Market attention centered on how the outcome could affect U.S.-China tensions and trade-related assets. However, the provided source information did not list specific beneficiary or loser stocks, sector figures, or agreement details. Investors need to check official statements and follow-up reports after the summit. Source: hankyung.com."
-      },
-      "ja": {
-        "title": "トランプ・習近平の米中首脳会談、恩恵銘柄と打撃銘柄に市場注目",
-        "excerpt": "ドナルド・トランプ米大統領と習近平中国国家主席が釜山で首脳会談を行い、米中対立の緩和や関連ETF・株式への影響に関心が集まった。",
-        "body": "ドナルド・トランプ米大統領と習近平中国国家主席は30日、釜山で米中首脳会談を行った。韓国経済新聞によると、「世紀の談判」と呼ばれた今回の会談は約1時間40分で終了し、公式会談を終えた後、両首脳は会場の外で並んで握手した。市場の関心は、会談結果が米中対立や貿易関連資産にどのような影響を及ぼすかに向かった。ただし、提示された原文情報には具体的な恩恵銘柄や打撃銘柄、業種別数値、合意内容は示されていない。投資家は会談後の公式発表と続報を確認する必要がある。出典: hankyung.com."
-      },
-      "zh": {
-        "title": "特朗普与习近平举行美中峰会，市场关注受益股与受损股走向",
-        "excerpt": "美国总统特朗普与中国国家主席习近平在釜山举行峰会，市场关注美中紧张关系是否缓和及相关ETF、股票可能受到的影响。",
-        "body": "美国总统唐纳德·特朗普与中国国家主席习近平于30日在釜山举行美中峰会。据韩国经济新闻报道，这场被称为“世纪谈判”的会晤约1小时40分钟后结束，正式会谈结束后，两位领导人在会场外并肩站立并握手。市场关注的焦点在于会谈结果将如何影响美中紧张关系以及贸易相关资产。不过，所提供的原文信息并未列出具体受益股、受损股、行业数据或协议内容。投资者仍需关注峰会后的官方发布和后续报道。来源: hankyung.com."
-      },
-      "es": {
-        "title": "Cumbre Trump-Xi centra la atención en acciones beneficiadas y perjudicadas",
-        "excerpt": "Donald Trump y Xi Jinping celebraron una cumbre en Busan, elevando el interés por el efecto sobre las tensiones entre EE. UU. y China y los ETF o acciones vinculados.",
-        "body": "El presidente estadounidense Donald Trump y el presidente chino Xi Jinping celebraron el día 30 una cumbre entre Estados Unidos y China en Busan. Según Hankyung, la reunión, descrita como una “negociación del siglo”, terminó tras aproximadamente 1 hora y 40 minutos, y ambos líderes se dieron la mano fuera del lugar tras las conversaciones formales. La atención del mercado se centró en cómo el resultado podría afectar a las tensiones entre EE. UU. y China y a los activos relacionados con el comercio. Sin embargo, la información original proporcionada no incluyó una lista concreta de acciones beneficiadas o perjudicadas, cifras sectoriales ni detalles de acuerdos. Los inversores deben revisar los comunicados oficiales y las noticias posteriores. Fuente: hankyung.com."
-      },
-      "pt": {
-        "title": "Cúpula Trump-Xi põe foco do mercado em ações beneficiadas e prejudicadas",
-        "excerpt": "Donald Trump e Xi Jinping realizaram uma cúpula em Busan, atraindo atenção para o possível impacto nas tensões EUA-China e em ETFs ou ações relacionados.",
-        "body": "O presidente dos Estados Unidos, Donald Trump, e o presidente da China, Xi Jinping, realizaram no dia 30 uma cúpula EUA-China em Busan. Segundo o Hankyung, o encontro, chamado de “negociação do século”, terminou após cerca de 1 hora e 40 minutos, e os dois líderes apertaram as mãos lado a lado fora do local após a reunião formal. A atenção do mercado se concentrou em como o resultado poderia afetar as tensões entre EUA e China e os ativos ligados ao comércio. No entanto, as informações originais fornecidas não apresentaram nomes específicos de ações beneficiadas ou prejudicadas, números por setor nem detalhes de acordo. Investidores devem acompanhar os comunicados oficiais e reportagens posteriores. Fonte: hankyung.com."
-      },
-      "de": {
-        "title": "Trump-Xi-Gipfel rückt mögliche Gewinner und Verlierer an den Märkten in den Fokus",
-        "excerpt": "Donald Trump und Xi Jinping hielten in Busan einen Gipfel ab; Anleger achten nun auf Folgen für US-chinesische Spannungen sowie verbundene ETFs und Aktien.",
-        "body": "US-Präsident Donald Trump und Chinas Präsident Xi Jinping hielten am 30. in Busan einen US-chinesischen Gipfel ab. Laut Hankyung endete das Treffen, das als „Verhandlung des Jahrhunderts“ bezeichnet wurde, nach rund 1 Stunde und 40 Minuten; nach den formellen Gesprächen standen beide Staatschefs vor dem Tagungsort nebeneinander und schüttelten sich die Hände. Die Märkte richteten den Blick darauf, wie das Ergebnis die Spannungen zwischen den USA und China sowie handelsbezogene Vermögenswerte beeinflussen könnte. Die bereitgestellten Originalinformationen nennen jedoch keine konkreten Gewinner- oder Verliereraktien, Branchenzahlen oder Details einer Vereinbarung. Anleger sollten offizielle Mitteilungen und Folgeberichte prüfen. Quelle: hankyung.com."
-      },
-      "fr": {
-        "title": "Sommet Trump-Xi : le marché scrute les actions gagnantes et perdantes",
-        "excerpt": "Donald Trump et Xi Jinping ont tenu un sommet à Busan, attirant l’attention sur l’impact possible pour les tensions sino-américaines, les ETF et les actions liées.",
-        "body": "Le président américain Donald Trump et le président chinois Xi Jinping ont tenu le 30 un sommet sino-américain à Busan. Selon Hankyung, cette rencontre, qualifiée de “négociation du siècle”, s’est achevée après environ 1 heure et 40 minutes, puis les deux dirigeants se sont tenus côte à côte et se sont serré la main à l’extérieur du lieu de réunion. L’attention du marché s’est portée sur l’effet possible du résultat sur les tensions entre les États-Unis et la Chine et sur les actifs liés au commerce. Toutefois, les informations originales fournies ne détaillent pas de titres bénéficiaires ou perdants, de chiffres sectoriels ni d’accord précis. Les investisseurs doivent suivre les annonces officielles et les articles ultérieurs. Source: hankyung.com."
-      },
-      "ar": {
-        "title": "قمة ترامب وشي تضع الأسهم الرابحة والخاسرة تحت مجهر السوق",
-        "excerpt": "عقد دونالد ترامب وشي جين بينغ قمة في بوسان، ما جذب الانتباه إلى أثرها المحتمل على توترات أميركا والصين وصناديق ETF والأسهم المرتبطة بها.",
-        "body": "عقد الرئيس الأميركي دونالد ترامب والرئيس الصيني شي جين بينغ قمة بين الولايات المتحدة والصين في بوسان يوم 30. وبحسب هانكيونغ، انتهى الاجتماع الذي وُصف بأنه “صفقة القرن” بعد نحو ساعة و40 دقيقة، وبعد المحادثات الرسمية وقف الزعيمان جنباً إلى جنب خارج مكان الاجتماع وتصافحا. تركز اهتمام السوق على كيفية تأثير نتائج القمة في التوترات الأميركية الصينية والأصول المرتبطة بالتجارة. لكن المعلومات الأصلية المقدمة لم تتضمن قائمة محددة بالأسهم المستفيدة أو المتضررة، ولا أرقاماً قطاعية أو تفاصيل اتفاق. يحتاج المستثمرون إلى متابعة البيانات الرسمية والتقارير اللاحقة بعد القمة. المصدر: hankyung.com."
-      },
-      "hi": {
-        "title": "ट्रंप-शी अमेरिका-चीन शिखर वार्ता से लाभ-हानि वाले शेयरों पर बाजार की नजर",
-        "excerpt": "डोनाल्ड ट्रंप और शी जिनपिंग ने बुसान में शिखर वार्ता की, जिससे अमेरिका-चीन तनाव और संबंधित ETF व शेयरों पर संभावित असर को लेकर ध्यान बढ़ा।",
-        "body": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप और चीनी राष्ट्रपति शी जिनपिंग ने 30 तारीख को बुसान में अमेरिका-चीन शिखर वार्ता की। हैंक्युंग के अनुसार, “सदी की बातचीत” कही गई यह बैठक लगभग 1 घंटा 40 मिनट में समाप्त हुई और औपचारिक वार्ता के बाद दोनों नेताओं ने बैठक स्थल के बाहर साथ खड़े होकर हाथ मिलाया। बाजार का ध्यान इस बात पर रहा कि परिणाम अमेरिका-चीन तनाव और व्यापार से जुड़े परिसंपत्तियों को कैसे प्रभावित कर सकता है। हालांकि, उपलब्ध मूल जानकारी में किसी खास लाभ पाने वाले या नुकसान झेलने वाले शेयर, क्षेत्रीय आंकड़े या समझौते का विवरण नहीं दिया गया। निवेशकों को आधिकारिक घोषणाओं और बाद की रिपोर्टों की जांच करनी चाहिए। स्रोत: hankyung.com."
-      },
-      "id": {
-        "title": "KTT Trump-Xi Soroti Arah Saham Pemenang dan Pecundang di Pasar",
-        "excerpt": "Donald Trump dan Xi Jinping menggelar KTT di Busan, memicu perhatian pada dampaknya terhadap ketegangan AS-China serta ETF dan saham terkait perdagangan.",
-        "body": "Presiden Amerika Serikat Donald Trump dan Presiden China Xi Jinping menggelar KTT AS-China di Busan pada tanggal 30. Menurut Hankyung, pertemuan yang disebut sebagai “perundingan abad ini” berakhir setelah sekitar 1 jam 40 menit, dan setelah pembicaraan resmi kedua pemimpin berdiri berdampingan di luar lokasi pertemuan lalu berjabat tangan. Perhatian pasar tertuju pada bagaimana hasilnya dapat memengaruhi ketegangan AS-China dan aset terkait perdagangan. Namun, informasi sumber yang diberikan tidak memuat daftar saham penerima manfaat atau yang dirugikan secara spesifik, angka sektoral, maupun rincian kesepakatan. Investor perlu memeriksa pernyataan resmi dan laporan lanjutan setelah KTT. Sumber: hankyung.com."
-      }
-    }
-  },
-  {
-    "id": "a666df73dd09",
-    "slug": "nc-리니지-클래식-흥행에-실적-개선-기대목표가-유진-155154",
-    "channelId": "ETF",
-    "category": "etf",
-    "publishedAt": "2026-05-14T00:05:20.207Z",
-    "updatedAt": "2026-05-14T00:05:20.207Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/2026051451966",
-    "canonicalUrl": "https://www.hankyung.com/article/2026051451966",
-    "titleFingerprint": "1315e685a3f119b412b1b1ee822596330d38d2d4",
-    "dedupKeys": [
-      "a666df73dd09ab9617d52f20dd7864f86ca76293",
-      "1315e685a3f119b412b1b1ee822596330d38d2d4",
-      "c8115d116644342f487f010b597c540a585cd6ab"
-    ],
-    "imageUrl": "/images/articles/a666df73dd09.jpg",
-    "i18n": {
-      "ko": {
-        "title": "NC 목표가 상향, 리니지 클래식 흥행에 실적 개선 기대 커졌다",
-        "excerpt": "유진투자증권은 한국경제 보도를 통해 NC의 리니지 클래식 흥행을 근거로 실적 개선 기대가 커졌다며 목표가를 상향했다.",
-        "body": "유진투자증권은 NC에 대해 리니지 클래식 흥행으로 실적 개선 기대가 높아졌다고 평가하며 목표가를 올렸다. 한국경제 보도에 따르면 이번 의견의 핵심은 신작 또는 주요 지식재산권 성과가 실적 회복 전망에 긍정적으로 작용하고 있다는 점이다. 리니지 클래식의 흥행은 NC의 기존 게임 경쟁력과 이용자 관심을 확인하는 신호로 해석됐다. 증권가는 해당 성과가 향후 매출과 이익 개선 기대를 뒷받침할 수 있다고 봤다. 다만 보도에서 제시된 판단은 유진투자증권의 분석 의견이며, 구체적 실적 흐름은 이후 회사 발표와 시장 반응을 통해 확인될 전망이다. 출처: hankyung.com"
-      },
-      "en": {
-        "title": "NC Target Price Raised as Lineage Classic Success Lifts Earnings Hopes",
-        "excerpt": "Eugene Investment raised its target price for NC, citing stronger expectations for earnings improvement after the success of Lineage Classic, according to hankyung.com.",
-        "body": "Eugene Investment Securities raised its target price for NC, saying expectations for earnings improvement have grown as Lineage Classic gains traction. According to a hankyung.com report, the key point of the view is that performance from a major intellectual property title is supporting a more positive outlook for recovery. The success of Lineage Classic was interpreted as a sign of NC’s existing game competitiveness and user interest. The brokerage said the result could support expectations for future sales and profit improvement. The assessment remains Eugene Investment Securities’ analysis, while actual earnings trends will need to be confirmed through company disclosures and market response. Source: hankyung.com"
-      },
-      "ja": {
-        "title": "NC目標株価引き上げ、リネージュクラシック好調で業績改善期待",
-        "excerpt": "ユージン投資証券は、リネージュクラシックの好調を背景にNCの業績改善期待が高まったとして目標株価を引き上げた。hankyung.comが報じた。",
-        "body": "ユージン投資証券はNCについて、リネージュクラシックのヒットにより業績改善への期待が高まったと評価し、目標株価を引き上げた。hankyung.comの報道によると、今回の判断の核心は主要IPタイトルの成果が業績回復見通しに前向きに作用している点にある。リネージュクラシックの好調は、NCの既存ゲーム競争力と利用者の関心を確認するシグナルと解釈された。証券会社は、この成果が今後の売上高と利益改善への期待を支える可能性があるとみている。ただし、この見方はユージン投資証券の分析意見であり、具体的な業績推移は今後の会社発表と市場反応で確認される見通しだ。出典: hankyung.com"
-      },
-      "zh": {
-        "title": "NC目标价上调，天堂经典热度带动业绩改善预期升温",
-        "excerpt": "据hankyung.com报道，尤金投资证券因《天堂经典》表现火热，上调NC目标价，并认为其业绩改善预期正在增强。",
-        "body": "尤金投资证券评价称，NC因《天堂经典》受到市场关注，业绩改善预期有所升温，并上调了目标价。据hankyung.com报道，此次观点的核心在于，主要知识产权游戏的表现正对业绩恢复前景产生积极影响。《天堂经典》的热度被解读为确认NC既有游戏竞争力和用户关注度的信号。券商认为，这一成果可能支撑市场对未来销售额和利润改善的期待。不过，相关判断属于尤金投资证券的分析意见，具体业绩走势仍需通过公司后续发布的信息和市场反应来确认。来源: hankyung.com"
-      },
-      "es": {
-        "title": "NC sube precio objetivo por éxito de Lineage Classic y mejores expectativas",
-        "excerpt": "Eugene Investment elevó el precio objetivo de NC al citar mayores expectativas de mejora de resultados por el éxito de Lineage Classic, informó hankyung.com.",
-        "body": "Eugene Investment Securities elevó el precio objetivo de NC al señalar que han aumentado las expectativas de mejora de resultados gracias al éxito de Lineage Classic. Según informó hankyung.com, el punto central del análisis es que el desempeño de una propiedad intelectual clave está influyendo de forma positiva en las perspectivas de recuperación. El avance de Lineage Classic fue interpretado como una señal de la competitividad de los juegos existentes de NC y del interés de los usuarios. La firma considera que este resultado podría respaldar expectativas de mejora en ventas y beneficios. Aun así, la valoración corresponde al análisis de Eugene Investment Securities, y la evolución concreta deberá confirmarse con futuros anuncios de la empresa y la reacción del mercado. Fuente: hankyung.com"
-      },
-      "pt": {
-        "title": "NC tem preço-alvo elevado com sucesso de Lineage Classic e melhora esperada",
-        "excerpt": "A Eugene Investment elevou o preço-alvo da NC ao apontar maior expectativa de melhora nos resultados com o sucesso de Lineage Classic, informou hankyung.com.",
-        "body": "A Eugene Investment Securities elevou o preço-alvo da NC, afirmando que as expectativas de melhora nos resultados aumentaram com o sucesso de Lineage Classic. Segundo reportagem do hankyung.com, o ponto central da avaliação é que o desempenho de uma importante propriedade intelectual está contribuindo positivamente para a perspectiva de recuperação. O êxito de Lineage Classic foi interpretado como um sinal da competitividade dos jogos existentes da NC e do interesse dos usuários. A corretora avalia que esse resultado pode sustentar expectativas de melhora futura em receita e lucro. Ainda assim, a visão representa a análise da Eugene Investment Securities, e a trajetória concreta dos resultados deverá ser confirmada por divulgações da empresa e pela reação do mercado. Fonte: hankyung.com"
-      },
-      "de": {
-        "title": "NC-Kursziel steigt, Lineage-Classic-Erfolg stärkt Gewinnerwartungen",
-        "excerpt": "Eugene Investment hat das Kursziel für NC angehoben und verweist auf höhere Erwartungen an bessere Ergebnisse durch den Erfolg von Lineage Classic, berichtet hankyung.com.",
-        "body": "Eugene Investment Securities hat das Kursziel für NC angehoben und erklärt, dass die Erwartungen an eine Ergebnisverbesserung durch den Erfolg von Lineage Classic gestiegen sind. Laut einem Bericht von hankyung.com steht im Mittelpunkt der Einschätzung, dass die Leistung eines wichtigen geistigen Eigentums die Aussichten auf eine Erholung positiv beeinflusst. Der Erfolg von Lineage Classic wurde als Signal für die bestehende Spielewettbewerbsfähigkeit von NC und das Interesse der Nutzer gewertet. Das Wertpapierhaus sieht darin eine mögliche Stütze für Erwartungen an künftige Umsatz- und Gewinnverbesserungen. Die Einschätzung bleibt jedoch eine Analyse von Eugene Investment Securities; konkrete Ergebnisentwicklungen müssen durch Unternehmensmitteilungen und Marktreaktionen bestätigt werden. Quelle: hankyung.com"
-      },
-      "fr": {
-        "title": "NC voit son objectif relevé grâce au succès de Lineage Classic",
-        "excerpt": "Eugene Investment a relevé son objectif de cours sur NC, citant des attentes accrues d’amélioration des résultats après le succès de Lineage Classic, selon hankyung.com.",
-        "body": "Eugene Investment Securities a relevé son objectif de cours sur NC, estimant que les attentes d’amélioration des résultats se sont renforcées grâce au succès de Lineage Classic. Selon hankyung.com, le cœur de l’analyse est que la performance d’une propriété intellectuelle majeure soutient une perspective plus favorable de redressement. Le succès de Lineage Classic a été interprété comme un signal confirmant la compétitivité des jeux existants de NC et l’intérêt des utilisateurs. La maison de courtage estime que ce résultat pourrait appuyer les attentes de progression future du chiffre d’affaires et des bénéfices. Cette opinion reste toutefois l’analyse d’Eugene Investment Securities, et l’évolution concrète des résultats devra être confirmée par les annonces de l’entreprise et la réaction du marché. Source: hankyung.com"
-      },
-      "ar": {
-        "title": "رفع السعر المستهدف لـNC مع نجاح Lineage Classic وتوقع تحسن الأرباح",
-        "excerpt": "رفعت يوجين إنفستمنت السعر المستهدف لسهم NC، مستندة إلى تزايد توقعات تحسن الأداء بعد نجاح Lineage Classic، بحسب hankyung.com.",
-        "body": "رفعت يوجين إنفستمنت سيكيوريتيز السعر المستهدف لـNC، معتبرة أن توقعات تحسن الأداء زادت بفضل نجاح Lineage Classic. ووفق تقرير نشره hankyung.com، فإن جوهر الرأي يتمثل في أن أداء إحدى الملكيات الفكرية الرئيسية يدعم نظرة أكثر إيجابية للتعافي. وجرى تفسير نجاح Lineage Classic على أنه إشارة إلى تنافسية ألعاب NC القائمة واهتمام المستخدمين بها. وترى شركة الوساطة أن هذا الأداء قد يدعم التوقعات بتحسن المبيعات والأرباح في المستقبل. ومع ذلك، فإن هذا التقييم يمثل رأي يوجين إنفستمنت سيكيوريتيز التحليلي، بينما ستحتاج الاتجاهات الفعلية للأداء إلى تأكيد من خلال إفصاحات الشركة ورد فعل السوق. المصدر: hankyung.com"
-      },
-      "hi": {
-        "title": "Lineage Classic की सफलता से NC का लक्ष्य मूल्य बढ़ा, नतीजों की उम्मीद मजबूत",
-        "excerpt": "hankyung.com के अनुसार, Eugene Investment ने Lineage Classic की सफलता से NC के नतीजों में सुधार की उम्मीद बढ़ने का हवाला देते हुए लक्ष्य मूल्य बढ़ाया।",
-        "body": "Eugene Investment Securities ने NC के लिए लक्ष्य मूल्य बढ़ाया है और कहा है कि Lineage Classic की सफलता से कंपनी के नतीजों में सुधार की उम्मीद बढ़ी है। hankyung.com की रिपोर्ट के अनुसार, इस राय का मुख्य आधार यह है कि प्रमुख बौद्धिक संपदा वाले गेम का प्रदर्शन रिकवरी की संभावना को सकारात्मक रूप से सहारा दे रहा है। Lineage Classic की लोकप्रियता को NC की मौजूदा गेम प्रतिस्पर्धा और उपयोगकर्ताओं की रुचि की पुष्टि के संकेत के रूप में देखा गया। ब्रोकरेज का मानना है कि यह उपलब्धि भविष्य में बिक्री और मुनाफे में सुधार की उम्मीदों को समर्थन दे सकती है। हालांकि, यह Eugene Investment Securities का विश्लेषणात्मक मत है, और वास्तविक नतीजों की दिशा कंपनी की आगे की घोषणाओं और बाजार प्रतिक्रिया से स्पष्ट होगी। स्रोत: hankyung.com"
-      },
-      "id": {
-        "title": "Target Harga NC Naik, Sukses Lineage Classic Dorong Harapan Kinerja",
-        "excerpt": "Eugene Investment menaikkan target harga NC setelah keberhasilan Lineage Classic meningkatkan ekspektasi perbaikan kinerja, menurut laporan hankyung.com.",
-        "body": "Eugene Investment Securities menaikkan target harga NC dengan menilai bahwa ekspektasi perbaikan kinerja meningkat berkat keberhasilan Lineage Classic. Menurut laporan hankyung.com, inti pandangan tersebut adalah bahwa performa dari kekayaan intelektual utama memberi pengaruh positif terhadap prospek pemulihan. Keberhasilan Lineage Classic ditafsirkan sebagai sinyal yang mengonfirmasi daya saing game NC yang sudah ada dan minat pengguna. Perusahaan sekuritas tersebut melihat capaian ini dapat mendukung ekspektasi peningkatan penjualan dan laba ke depan. Namun, penilaian itu merupakan opini analisis Eugene Investment Securities, sementara arah kinerja konkret masih perlu dikonfirmasi melalui pengumuman perusahaan dan respons pasar. Sumber: hankyung.com"
-      }
-    }
-  },
-  {
-    "id": "8609c0661146",
-    "slug": "삼양식품-1분기-실적-예상치-웃돌아목표가-kb-253112",
-    "channelId": "ETF",
-    "category": "etf",
-    "publishedAt": "2026-05-14T00:04:24.077Z",
-    "updatedAt": "2026-05-14T00:04:24.077Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/2026051451306",
-    "canonicalUrl": "https://www.hankyung.com/article/2026051451306",
-    "titleFingerprint": "9859e7bfd66f4dc6239c58bb2166b20ba035c5cc",
-    "dedupKeys": [
-      "8609c06611463d3992f27386bb9698c504fbea6e",
-      "9859e7bfd66f4dc6239c58bb2166b20ba035c5cc",
-      "8e7d33da508635983b4b324a0a027d084208933a"
-    ],
-    "imageUrl": "/images/articles/8609c0661146.jpg",
-    "i18n": {
-      "ko": {
-        "title": "삼양식품 1분기 실적 예상치 상회, KB 목표가 상향에 시장 관심 집중",
-        "excerpt": "KB증권은 삼양식품의 1분기 실적이 시장 예상치를 웃돌았다고 평가하며 목표가를 올렸다고 hankyung.com이 보도했다.",
-        "body": "삼양식품의 1분기 실적이 시장 예상치를 웃돈 것으로 평가되면서 KB증권이 목표가를 상향했다. hankyung.com에 따르면 KB는 삼양식품의 분기 실적이 기대치를 넘어섰다는 점을 반영해 목표가를 올렸다. 이번 보도는 실적 발표 이후 증권가의 평가가 주가 판단의 주요 변수로 작용할 수 있음을 보여준다. 구체적인 요약 정보는 제공되지 않았지만, 핵심은 삼양식품의 1분기 실적 호조와 KB의 목표가 상향이다. 출처는 hankyung.com이다."
-      },
-      "en": {
-        "title": "Samyang Foods Q1 Earnings Beat Estimates as KB Raises Target Price",
-        "excerpt": "KB Securities raised its target price for Samyang Foods after its first-quarter results exceeded market expectations, hankyung.com reported.",
-        "body": "Samyang Foods’ first-quarter results were assessed as exceeding market expectations, prompting KB Securities to raise its target price. According to hankyung.com, KB reflected the company’s better-than-expected quarterly performance in its revised target. The report highlights that post-earnings broker assessments can become an important factor for market views on the stock. No additional summary details were provided, but the core facts are Samyang Foods’ stronger-than-expected first-quarter performance and KB’s target-price increase. Source: hankyung.com."
-      },
-      "ja": {
-        "title": "三養食品の1四半期業績が予想上回る、KBが目標株価を引き上げ",
-        "excerpt": "KB証券は三養食品の第1四半期業績が市場予想を上回ったと評価し、目標株価を引き上げたとhankyung.comが報じた。",
-        "body": "三養食品の第1四半期業績が市場予想を上回ったと評価され、KB証券が目標株価を引き上げた。hankyung.comによると、KBは同社の四半期業績が期待を上回った点を反映し、目標株価を上方修正した。今回の報道は、決算発表後の証券会社の評価が株価判断の重要な材料になり得ることを示している。追加の要約情報は示されていないが、核心は三養食品の第1四半期業績好調とKBの目標株価引き上げだ。出典はhankyung.com。"
-      },
-      "zh": {
-        "title": "三养食品一季度业绩超预期，KB上调目标价引发市场关注",
-        "excerpt": "据hankyung.com报道，KB证券认为三养食品一季度业绩超过市场预期，并因此上调了目标价。",
-        "body": "三养食品一季度业绩被评估为超过市场预期，KB证券随之上调了目标价。据hankyung.com报道，KB将该公司季度业绩好于预期这一点反映在新的目标价中。该报道显示，业绩公布后证券公司的评价可能成为市场判断股票的重要因素。原文未提供更多摘要信息，但核心事实是三养食品一季度业绩表现强于预期，以及KB上调目标价。出处为hankyung.com。"
-      },
-      "es": {
-        "title": "Samyang Foods supera previsiones en el primer trimestre y KB eleva precio objetivo",
-        "excerpt": "KB Securities elevó su precio objetivo para Samyang Foods tras evaluar que sus resultados del primer trimestre superaron las previsiones, informó hankyung.com.",
-        "body": "Los resultados del primer trimestre de Samyang Foods fueron evaluados como superiores a las expectativas del mercado, lo que llevó a KB Securities a elevar su precio objetivo. Según hankyung.com, KB reflejó en su revisión el desempeño trimestral mejor de lo esperado de la compañía. La información muestra que las valoraciones de las firmas de análisis después de los resultados pueden influir en la lectura del mercado sobre la acción. No se ofrecieron más detalles de resumen, pero los hechos centrales son el buen desempeño del primer trimestre de Samyang Foods y el alza del precio objetivo por parte de KB. Fuente: hankyung.com."
-      },
-      "pt": {
-        "title": "Samyang Foods supera estimativas no 1º trimestre e KB eleva preço-alvo",
-        "excerpt": "A KB Securities elevou o preço-alvo da Samyang Foods após avaliar que os resultados do primeiro trimestre superaram as expectativas, informou o hankyung.com.",
-        "body": "Os resultados do primeiro trimestre da Samyang Foods foram avaliados como acima das expectativas do mercado, levando a KB Securities a elevar seu preço-alvo. Segundo o hankyung.com, a KB refletiu na revisão o desempenho trimestral melhor do que o esperado da companhia. A notícia indica que avaliações de corretoras após a divulgação de resultados podem se tornar um fator relevante para a leitura do mercado sobre a ação. Não foram fornecidos detalhes adicionais de resumo, mas os fatos centrais são o desempenho forte da Samyang Foods no primeiro trimestre e a elevação do preço-alvo pela KB. Fonte: hankyung.com."
-      },
-      "de": {
-        "title": "Samyang Foods übertrifft Q1-Erwartungen, KB hebt Kursziel an",
-        "excerpt": "KB Securities hob das Kursziel für Samyang Foods an, nachdem die Ergebnisse des ersten Quartals über den Markterwartungen lagen, berichtete hankyung.com.",
-        "body": "Die Ergebnisse von Samyang Foods im ersten Quartal wurden als besser als die Markterwartungen bewertet, woraufhin KB Securities das Kursziel anhob. Laut hankyung.com berücksichtigte KB die über den Erwartungen liegende Quartalsentwicklung des Unternehmens in der neuen Einschätzung. Der Bericht zeigt, dass Analystenbewertungen nach Ergebnissen ein wichtiger Faktor für die Markteinschätzung einer Aktie sein können. Weitere Zusammenfassungsdetails wurden nicht bereitgestellt, doch die Kernaussagen sind die starke Q1-Entwicklung von Samyang Foods und die Kurszielanhebung durch KB. Quelle: hankyung.com."
-      },
-      "fr": {
-        "title": "Samyang Foods dépasse les attentes au T1, KB relève son objectif de cours",
-        "excerpt": "KB Securities a relevé son objectif de cours sur Samyang Foods après des résultats du premier trimestre supérieurs aux attentes, selon hankyung.com.",
-        "body": "Les résultats du premier trimestre de Samyang Foods ont été jugés supérieurs aux attentes du marché, conduisant KB Securities à relever son objectif de cours. Selon hankyung.com, KB a intégré cette performance trimestrielle meilleure que prévu dans sa révision. L’information montre que les avis des sociétés de courtage après les résultats peuvent devenir un élément important dans l’évaluation boursière. Aucun autre détail de résumé n’a été fourni, mais les faits essentiels sont la bonne performance de Samyang Foods au premier trimestre et le relèvement de l’objectif par KB. Source : hankyung.com."
-      },
-      "ar": {
-        "title": "ساميانغ فودز تتجاوز توقعات الربع الأول وKB ترفع السعر المستهدف",
-        "excerpt": "رفعت KB Securities السعر المستهدف لسهم ساميانغ فودز بعدما قيّمت نتائج الربع الأول بأنها تجاوزت توقعات السوق، بحسب hankyung.com.",
-        "body": "قيّمت نتائج ساميانغ فودز في الربع الأول بأنها جاءت أعلى من توقعات السوق، ما دفع KB Securities إلى رفع السعر المستهدف. ووفقًا لـhankyung.com، عكست KB الأداء الفصلي الأفضل من المتوقع للشركة في تعديلها للسعر المستهدف. يوضح التقرير أن تقييمات شركات الأوراق المالية بعد إعلان النتائج قد تصبح عاملًا مهمًا في قراءة السوق للسهم. لم تُقدَّم تفاصيل إضافية في الملخص، لكن الحقائق الأساسية هي قوة أداء ساميانغ فودز في الربع الأول ورفع KB للسعر المستهدف. المصدر: hankyung.com."
-      },
-      "hi": {
-        "title": "Samyang Foods की पहली तिमाही उम्मीद से बेहतर, KB ने लक्ष्य मूल्य बढ़ाया",
-        "excerpt": "KB Securities ने Samyang Foods के पहली तिमाही नतीजों को बाजार अनुमान से बेहतर मानते हुए लक्ष्य मूल्य बढ़ाया, hankyung.com ने बताया।",
-        "body": "Samyang Foods के पहली तिमाही नतीजों को बाजार उम्मीदों से बेहतर आंका गया, जिसके बाद KB Securities ने लक्ष्य मूल्य बढ़ाया। hankyung.com के अनुसार, KB ने कंपनी के अपेक्षा से बेहतर तिमाही प्रदर्शन को अपने संशोधित लक्ष्य मूल्य में शामिल किया। यह रिपोर्ट दिखाती है कि नतीजों के बाद ब्रोकरेज का मूल्यांकन शेयर पर बाजार की राय के लिए अहम कारक बन सकता है। अतिरिक्त सारांश विवरण उपलब्ध नहीं कराया गया, लेकिन मुख्य तथ्य Samyang Foods का बेहतर पहली तिमाही प्रदर्शन और KB द्वारा लक्ष्य मूल्य में बढ़ोतरी हैं। स्रोत: hankyung.com."
-      },
-      "id": {
-        "title": "Laba Kuartal I Samyang Foods Lampaui Estimasi, KB Naikkan Target Harga",
-        "excerpt": "KB Securities menaikkan target harga Samyang Foods setelah menilai kinerja kuartal pertama melampaui ekspektasi pasar, lapor hankyung.com.",
-        "body": "Kinerja kuartal pertama Samyang Foods dinilai melampaui ekspektasi pasar, sehingga KB Securities menaikkan target harga. Menurut hankyung.com, KB memasukkan pencapaian kuartalan yang lebih baik dari perkiraan tersebut ke dalam revisi targetnya. Laporan ini menunjukkan bahwa penilaian perusahaan sekuritas setelah rilis kinerja dapat menjadi faktor penting bagi pandangan pasar terhadap saham. Tidak ada rincian ringkasan tambahan yang diberikan, tetapi fakta utamanya adalah kinerja kuartal pertama Samyang Foods yang kuat dan kenaikan target harga oleh KB. Sumber: hankyung.com."
       }
     }
   }
