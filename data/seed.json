@@ -1,5 +1,230 @@
 [
   {
+    "id": "4e8f9c02e8e1",
+    "slug": "하나마이크론-sk하닉-협력-강화에-수익성-개선목표가-한국-244472",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-05-14T23:31:29.278Z",
+    "updatedAt": "2026-05-14T23:31:29.278Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/2026051578866",
+    "canonicalUrl": "https://www.hankyung.com/article/2026051578866",
+    "titleFingerprint": "1baba80e15546dd51d701520ce5c36d9c022e531",
+    "dedupKeys": [
+      "4e8f9c02e8e15cee6a0568a1c438159e818d0aa4",
+      "1baba80e15546dd51d701520ce5c36d9c022e531",
+      "be002bb060986051cb66b68e662c0023262d4a76"
+    ],
+    "imageUrl": "/images/articles/4e8f9c02e8e1.jpg",
+    "i18n": {
+      "ko": {
+        "title": "하나마이크론 목표가 상향, SK하이닉스 협력 강화가 이끈 수익성 개선 기대 부각",
+        "excerpt": "한국투자증권은 한국경제 보도에서 하나마이크론이 SK하이닉스와의 협력을 강화하며 수익성 개선이 기대된다고 평가하고 목표주가를 상향했다.",
+        "body": "한국투자증권은 한국경제 보도에서 하나마이크론에 대해 SK하이닉스와의 협력 강화가 수익성 개선으로 이어질 수 있다고 평가하며 목표주가를 상향했다. 이번 판단의 핵심은 하나마이크론이 SK하이닉스 관련 사업 협력을 확대하면서 실적 체질 개선 기대가 커졌다는 점이다. 구체적인 목표주가 수준이나 세부 실적 수치는 원문 제목과 요약에 제시되지 않았다. 시장에서는 반도체 후공정 관련 기업의 고객사 협력 확대가 향후 매출 안정성과 수익성에 영향을 줄 수 있는 요인으로 해석된다. 다만 투자 판단에는 실제 실적 확인과 업황 변동을 함께 살펴볼 필요가 있다. 출처: hankyung.com"
+      },
+      "en": {
+        "title": "Hana Micron Target Raised as SK Hynix Cooperation Lifts Profitability Outlook",
+        "excerpt": "Korea Investment & Securities said in a Korea Economic Daily report that Hana Micron’s stronger cooperation with SK Hynix could improve profitability, leading it to raise its target price.",
+        "body": "Korea Investment & Securities raised its target price for Hana Micron, according to a Korea Economic Daily report, citing expectations that stronger cooperation with SK Hynix could support profitability improvement. The key point is that Hana Micron’s expanded business cooperation related to SK Hynix is being viewed as a factor that may improve its earnings structure. The original headline and summary did not provide the specific target price level or detailed earnings figures. For investors, closer customer cooperation in semiconductor back-end processes may affect revenue stability and profitability, but actual results and industry conditions still need to be checked. Source: hankyung.com"
+      },
+      "ja": {
+        "title": "ハナマイクロン目標株価引き上げ、SKハイニックス協力強化で収益性改善期待",
+        "excerpt": "韓国投資証券は韓国経済の報道で、ハナマイクロンがSKハイニックスとの協力を強化し収益性改善が期待されるとして目標株価を引き上げた。",
+        "body": "韓国投資証券は韓国経済の報道で、ハナマイクロンについて、SKハイニックスとの協力強化が収益性改善につながる可能性があると評価し、目標株価を引き上げた。今回の判断の中心は、ハナマイクロンがSKハイニックス関連の事業協力を広げることで、業績体質の改善期待が高まっている点だ。具体的な目標株価の水準や詳細な業績数値は、原文のタイトルと要約には示されていない。半導体後工程関連企業にとって主要顧客との協力拡大は、売上の安定性と収益性に影響し得る要因と受け止められる。ただし投資判断では実績確認と市況変動を併せて見る必要がある。出典: hankyung.com"
+      },
+      "zh": {
+        "title": "Hana Micron目标价上调，强化SK海力士合作带动盈利改善预期",
+        "excerpt": "据韩国经济报道，韩国投资证券认为Hana Micron加强与SK海力士合作有望改善盈利能力，因此上调其目标价。",
+        "body": "据韩国经济报道，韩国投资证券上调了Hana Micron的目标价，理由是其与SK海力士的合作加强可能推动盈利能力改善。此次判断的核心在于，Hana Micron扩大与SK海力士相关的业务合作，使市场对其业绩结构改善的期待升温。原文标题和摘要未给出具体目标价水平或详细业绩数据。对于半导体后道工序相关企业而言，主要客户合作扩大可能影响收入稳定性和盈利能力。不过，投资判断仍需结合实际业绩确认和行业景气变化。来源: hankyung.com"
+      },
+      "es": {
+        "title": "Hana Micron sube su precio objetivo por mayor cooperación con SK Hynix",
+        "excerpt": "Korea Investment & Securities dijo en un reporte de Korea Economic Daily que Hana Micron podría mejorar su rentabilidad al reforzar la cooperación con SK Hynix y elevó su precio objetivo.",
+        "body": "Korea Investment & Securities elevó el precio objetivo de Hana Micron, según un reporte de Korea Economic Daily, al considerar que una cooperación más estrecha con SK Hynix podría impulsar una mejora de la rentabilidad. El punto central es que la ampliación de la colaboración de Hana Micron en negocios vinculados a SK Hynix eleva las expectativas de mejora en su estructura de resultados. El título y el resumen originales no incluyeron el nivel específico del precio objetivo ni cifras detalladas de resultados. Para una empresa relacionada con el proceso final de semiconductores, una mayor cooperación con clientes puede influir en la estabilidad de ingresos y la rentabilidad. Aun así, la decisión de inversión debe contrastarse con resultados reales y condiciones del sector. Fuente: hankyung.com"
+      },
+      "pt": {
+        "title": "Hana Micron tem preço-alvo elevado com cooperação mais forte com SK Hynix",
+        "excerpt": "A Korea Investment & Securities afirmou, em reportagem do Korea Economic Daily, que a Hana Micron pode melhorar a rentabilidade ao fortalecer a cooperação com a SK Hynix e elevou o preço-alvo.",
+        "body": "A Korea Investment & Securities elevou o preço-alvo da Hana Micron, segundo reportagem do Korea Economic Daily, citando a expectativa de que uma cooperação mais forte com a SK Hynix possa apoiar a melhora da rentabilidade. O ponto central é que a expansão da colaboração da Hana Micron em negócios ligados à SK Hynix aumenta as expectativas de melhoria na estrutura de resultados. O título e o resumo originais não informaram o preço-alvo específico nem números detalhados de desempenho. Para empresas ligadas ao back-end de semicondutores, a ampliação da cooperação com clientes pode afetar a estabilidade da receita e a rentabilidade. Ainda assim, a decisão de investimento deve considerar resultados efetivos e mudanças no setor. Fonte: hankyung.com"
+      },
+      "de": {
+        "title": "Hana Micron: Kursziel steigt wegen stärkerer Kooperation mit SK Hynix",
+        "excerpt": "Korea Investment & Securities erklärte laut Korea Economic Daily, Hana Micron könne durch eine engere Kooperation mit SK Hynix die Profitabilität verbessern, und hob das Kursziel an.",
+        "body": "Korea Investment & Securities hat laut einem Bericht der Korea Economic Daily das Kursziel für Hana Micron angehoben. Begründet wurde dies mit der Erwartung, dass eine stärkere Kooperation mit SK Hynix die Profitabilität verbessern könnte. Im Mittelpunkt steht, dass Hana Micron die geschäftliche Zusammenarbeit im Zusammenhang mit SK Hynix ausweitet und dadurch Hoffnungen auf eine bessere Ergebnisstruktur steigen. Der ursprüngliche Titel und die Zusammenfassung nannten weder ein konkretes Kursziel noch detaillierte Ergebniszahlen. Für Unternehmen im Halbleiter-Back-End kann eine engere Zusammenarbeit mit Kunden die Umsatzstabilität und Rentabilität beeinflussen. Anleger sollten dennoch tatsächliche Ergebnisse und Branchenbedingungen prüfen. Quelle: hankyung.com"
+      },
+      "fr": {
+        "title": "Hana Micron voit son objectif relevé grâce au renforcement avec SK Hynix",
+        "excerpt": "Korea Investment & Securities a indiqué, selon Korea Economic Daily, que Hana Micron pourrait améliorer sa rentabilité grâce à une coopération renforcée avec SK Hynix et a relevé son objectif de cours.",
+        "body": "Korea Investment & Securities a relevé son objectif de cours sur Hana Micron, selon un article de Korea Economic Daily, en estimant que le renforcement de la coopération avec SK Hynix pourrait soutenir l’amélioration de la rentabilité. Le point central est l’élargissement de la collaboration de Hana Micron dans les activités liées à SK Hynix, ce qui accroît les attentes d’une amélioration de la structure des résultats. Le titre et le résumé d’origine ne donnaient pas le niveau précis de l’objectif de cours ni de chiffres détaillés. Pour une entreprise liée aux procédés finaux des semi-conducteurs, une coopération accrue avec un client peut influencer la stabilité du chiffre d’affaires et la rentabilité. Les investisseurs doivent toutefois vérifier les résultats réels et l’évolution du secteur. Source: hankyung.com"
+      },
+      "ar": {
+        "title": "رفع السعر المستهدف لهانا ما يكرون مع تعزيز التعاون مع إس كيه هاينكس",
+        "excerpt": "قالت كوريا إنفستمنت آند سيكيوريتيز، وفق تقرير لكوريا إيكونوميك ديلي، إن تعاون هانا ما يكرون الأقوى مع إس كيه هاينكس قد يحسن الربحية، فرفعت السعر المستهدف.",
+        "body": "رفعت كوريا إنفستمنت آند سيكيوريتيز السعر المستهدف لسهم هانا ما يكرون، بحسب تقرير لكوريا إيكونوميك ديلي، مستندة إلى توقعات بأن تعزيز التعاون مع إس كيه هاينكس قد يدعم تحسن الربحية. جوهر التقييم هو أن توسيع هانا ما يكرون لتعاونها في الأعمال المرتبطة بإس كيه هاينكس يزيد التوقعات بتحسن هيكل الأرباح. ولم يذكر العنوان والملخص الأصليان مستوى السعر المستهدف المحدد أو أرقاما تفصيلية للأداء. وبالنسبة إلى شركات عمليات ما بعد تصنيع أشباه الموصلات، قد يؤثر توسيع التعاون مع العملاء في استقرار الإيرادات والربحية. ومع ذلك، ينبغي ربط أي قرار استثماري بالنتائج الفعلية وظروف القطاع. المصدر: hankyung.com"
+      },
+      "hi": {
+        "title": "SK Hynix सहयोग मजबूत होने से Hana Micron का लक्ष्य मूल्य बढ़ा",
+        "excerpt": "Korea Investment & Securities ने Korea Economic Daily की रिपोर्ट में कहा कि SK Hynix के साथ मजबूत सहयोग से Hana Micron की लाभप्रदता सुधर सकती है और लक्ष्य मूल्य बढ़ाया।",
+        "body": "Korea Investment & Securities ने Korea Economic Daily की रिपोर्ट के अनुसार Hana Micron का लक्ष्य मूल्य बढ़ाया, क्योंकि SK Hynix के साथ मजबूत सहयोग से लाभप्रदता में सुधार की उम्मीद है। इस आकलन का मुख्य आधार यह है कि Hana Micron द्वारा SK Hynix से जुड़े व्यवसाय में सहयोग बढ़ाने से उसकी आय संरचना बेहतर होने की उम्मीद बढ़ी है। मूल शीर्षक और सारांश में लक्ष्य मूल्य का विशिष्ट स्तर या विस्तृत वित्तीय आंकड़े नहीं दिए गए। सेमीकंडक्टर बैक-एंड प्रक्रिया से जुड़ी कंपनी के लिए प्रमुख ग्राहक के साथ सहयोग बढ़ना राजस्व स्थिरता और लाभप्रदता को प्रभावित कर सकता है। फिर भी निवेश निर्णय में वास्तविक नतीजों और उद्योग चक्र को साथ देखना जरूरी है। स्रोत: hankyung.com"
+      },
+      "id": {
+        "title": "Target Hana Micron dinaikkan seiring kerja sama lebih kuat dengan SK Hynix",
+        "excerpt": "Korea Investment & Securities menyebut dalam laporan Korea Economic Daily bahwa kerja sama Hana Micron yang makin kuat dengan SK Hynix dapat memperbaiki profitabilitas, sehingga target harga dinaikkan.",
+        "body": "Korea Investment & Securities menaikkan target harga Hana Micron, menurut laporan Korea Economic Daily, dengan alasan bahwa penguatan kerja sama dengan SK Hynix dapat mendukung perbaikan profitabilitas. Inti penilaiannya adalah perluasan kerja sama bisnis Hana Micron yang terkait SK Hynix meningkatkan harapan atas perbaikan struktur kinerja. Judul dan ringkasan asli tidak mencantumkan level target harga tertentu atau angka kinerja terperinci. Bagi perusahaan yang terkait proses back-end semikonduktor, perluasan kerja sama dengan pelanggan dapat memengaruhi stabilitas pendapatan dan profitabilitas. Namun keputusan investasi tetap perlu mempertimbangkan realisasi kinerja dan perubahan kondisi industri. Sumber: hankyung.com"
+      }
+    }
+  },
+  {
+    "id": "53e73412d11d",
+    "slug": "메모리-슈퍼사이클-안-끝났다-삼성전자-43만sk하이닉스-275만-목표가-상향-오늘-나온-보고서-307271",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-05-14T23:30:20.511Z",
+    "updatedAt": "2026-05-14T23:30:20.511Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/stock/12048693",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12048693",
+    "titleFingerprint": "f25a143c9cce9c14d53a0935d8d44cd380c46b0a",
+    "dedupKeys": [
+      "53e73412d11df77e9e8bb7438d8b2229919c36eb",
+      "f25a143c9cce9c14d53a0935d8d44cd380c46b0a",
+      "b75ab3d08371795eb85efb3785d1f3e5e71d0a75"
+    ],
+    "imageUrl": "/images/articles/53e73412d11d.png",
+    "i18n": {
+      "ko": {
+        "title": "메모리 슈퍼사이클 지속 전망, 삼성전자·SK하이닉스 목표가 상향",
+        "excerpt": "오늘 나온 보고서는 엔비디아 차세대 베라 루빈과 LPDDR 수요, 파운드리 가격 움직임을 근거로 삼성전자와 SK하이닉스 목표가를 각각 43만 원, 275만 원으로 높였다.",
+        "body": "오늘 나온 증권가 보고서는 메모리 슈퍼사이클이 아직 끝나지 않았다는 판단 아래 삼성전자와 SK하이닉스 목표주가를 각각 43만 원, 275만 원으로 상향했다. 보고서는 엔비디아의 차세대 베라 루빈이 메모리 수요를 끌어올리고, LPDDR이 메모리 시장의 핵심 변수로 부상하고 있다고 짚었다. 메모리 원가 부담으로 중국 스마트폰 업체들이 압박을 받는 가운데, 파운드리 2나노와 성숙공정 가격도 함께 들썩이는 흐름이 제시됐다. 이에 엔비디아발 수요가 삼성전자와 SK하이닉스의 초호황을 굳히는 요인으로 해석됐다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Memory Supercycle Seen Continuing as Samsung, SK Hynix Targets Rise",
+        "excerpt": "A report released today raised Samsung Electronics and SK Hynix price targets to 430,000 won and 2.75 million won, citing Nvidia’s Vera Rubin, LPDDR demand and foundry pricing moves.",
+        "body": "A brokerage report released today said the memory supercycle has not ended and raised price targets for Samsung Electronics and SK Hynix to 430,000 won and 2.75 million won, respectively. The report cited Nvidia’s next-generation Vera Rubin as a driver of memory demand and described LPDDR as an increasingly important variable in the memory market. It also noted that Chinese smartphone makers are under pressure from memory cost burdens, while prices for 2-nanometer foundry and mature-process capacity are moving higher. The Nvidia-led demand backdrop was presented as a factor reinforcing a boom for Samsung Electronics and SK Hynix. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "メモリスーパーサイクル継続見通し、サムスン電子・SKハイニックス目標株価引き上げ",
+        "excerpt": "本日公表されたレポートは、エヌビディアの次世代Vera Rubin、LPDDR需要、ファウンドリー価格の動きを根拠に、サムスン電子とSKハイニックスの目標株価を引き上げた。",
+        "body": "本日公表された証券会社のレポートは、メモリのスーパーサイクルはまだ終わっていないとの判断を示し、サムスン電子とSKハイニックスの目標株価をそれぞれ43万ウォン、275万ウォンに引き上げた。レポートは、エヌビディアの次世代Vera Rubinがメモリ需要を押し上げ、LPDDRがメモリ市場の重要な変数として浮上していると指摘した。メモリ原価の負担で中国スマートフォンメーカーが圧迫を受ける中、ファウンドリーの2ナノと成熟プロセスの価格も同時に動いているとした。エヌビディア発の需要がサムスン電子とSKハイニックスの好況を固める要因と解釈された。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "存储超级周期仍未结束，三星电子与SK海力士目标价上调",
+        "excerpt": "今日发布的报告称，受英伟达下一代Vera Rubin、LPDDR需求及晶圆代工价格变化影响，三星电子和SK海力士目标价分别上调至43万韩元和275万韩元。",
+        "body": "今日发布的一份券商报告判断，存储超级周期尚未结束，并将三星电子和SK海力士的目标股价分别上调至43万韩元和275万韩元。报告指出，英伟达下一代Vera Rubin将带动存储需求，LPDDR正成为存储市场的重要变量。与此同时，存储成本压力令中国智能手机厂商承压，晶圆代工2纳米和成熟制程价格也出现同步波动。报告据此认为，来自英伟达的需求正在成为巩固三星电子和SK海力士景气周期的因素。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "El superciclo de memoria seguiría vivo: suben objetivos de Samsung y SK Hynix",
+        "excerpt": "Un informe publicado hoy elevó los precios objetivo de Samsung Electronics y SK Hynix a 430.000 y 2,75 millones de wones, citando Vera Rubin de Nvidia, la demanda de LPDDR y los precios de fundición.",
+        "body": "Un informe bursátil publicado hoy afirmó que el superciclo de memoria aún no ha terminado y elevó los precios objetivo de Samsung Electronics y SK Hynix a 430.000 wones y 2,75 millones de wones, respectivamente. El informe señaló que Vera Rubin, la próxima generación de Nvidia, impulsaría la demanda de memoria y que LPDDR se está convirtiendo en una variable clave del mercado. También indicó que los fabricantes chinos de smartphones están presionados por los costos de memoria, mientras los precios de fundición de 2 nanómetros y de procesos maduros se mueven al alza. La demanda originada por Nvidia fue presentada como un factor que refuerza el auge de Samsung Electronics y SK Hynix. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Superciclo de memória segue em foco; metas de Samsung e SK Hynix sobem",
+        "excerpt": "Relatório divulgado hoje elevou os preços-alvo de Samsung Electronics e SK Hynix para 430 mil e 2,75 milhões de wons, citando Vera Rubin da Nvidia, demanda por LPDDR e preços de foundry.",
+        "body": "Um relatório de mercado divulgado hoje afirmou que o superciclo de memória ainda não terminou e elevou os preços-alvo de Samsung Electronics e SK Hynix para 430 mil wons e 2,75 milhões de wons, respectivamente. O documento citou o Vera Rubin, próxima geração da Nvidia, como fator de aumento da demanda por memória e apontou o LPDDR como uma variável central do mercado. Também destacou que fabricantes chinesas de smartphones sofrem pressão com custos de memória, enquanto preços de foundry em 2 nanômetros e processos maduros se movimentam. A demanda ligada à Nvidia foi interpretada como elemento que consolida a forte fase de Samsung Electronics e SK Hynix. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Memory-Superzyklus laut Bericht intakt: Kursziele für Samsung und SK Hynix steigen",
+        "excerpt": "Ein heute veröffentlichter Bericht hob die Kursziele für Samsung Electronics und SK Hynix auf 430.000 Won und 2,75 Mio. Won an und verwies auf Nvidias Vera Rubin, LPDDR-Nachfrage und Foundry-Preise.",
+        "body": "Ein heute veröffentlichter Analystenbericht kam zu dem Schluss, dass der Memory-Superzyklus noch nicht beendet ist, und hob die Kursziele für Samsung Electronics und SK Hynix auf 430.000 Won beziehungsweise 2,75 Millionen Won an. Als Begründung nannte der Bericht Nvidias nächste Generation Vera Rubin, die die Speichernachfrage antreibe, sowie LPDDR als wichtigen Faktor im Speichermarkt. Zugleich geraten chinesische Smartphone-Hersteller durch höhere Speicherkosten unter Druck, während sich die Preise für 2-Nanometer-Foundry und ausgereifte Prozesse ebenfalls bewegen. Die von Nvidia ausgehende Nachfrage wurde als Faktor gewertet, der den Boom bei Samsung Electronics und SK Hynix festigt. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Le supercycle mémoire jugé intact, objectifs relevés pour Samsung et SK Hynix",
+        "excerpt": "Un rapport publié aujourd’hui a relevé les objectifs de Samsung Electronics et SK Hynix à 430 000 et 2,75 millions de wons, en citant Vera Rubin de Nvidia, la demande LPDDR et les prix de fonderie.",
+        "body": "Un rapport d’analystes publié aujourd’hui estime que le supercycle de la mémoire n’est pas terminé et relève les objectifs de cours de Samsung Electronics et SK Hynix à respectivement 430 000 wons et 2,75 millions de wons. Le rapport cite Vera Rubin, la prochaine génération de Nvidia, comme moteur de la demande de mémoire et présente le LPDDR comme une variable clé du marché. Il note aussi que les fabricants chinois de smartphones subissent la pression des coûts de mémoire, tandis que les prix de fonderie en 2 nanomètres et sur procédés matures évoluent également. La demande liée à Nvidia est ainsi interprétée comme un facteur consolidant la forte conjoncture pour Samsung Electronics et SK Hynix. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "استمرار دورة الذاكرة الفائقة يرفع أهداف سامسونغ وSK هاينكس السعرية",
+        "excerpt": "رفع تقرير صدر اليوم السعر المستهدف لسامسونغ إلكترونيكس وSK هاينكس إلى 430 ألف وون و2.75 مليون وون، مستندا إلى Vera Rubin من إنفيديا وطلب LPDDR وتحركات أسعار المسابك.",
+        "body": "قال تقرير صادر اليوم عن قطاع الوساطة إن دورة الذاكرة الفائقة لم تنته بعد، ورفع السعر المستهدف لسامسونغ إلكترونيكس وSK هاينكس إلى 430 ألف وون و2.75 مليون وون على التوالي. أشار التقرير إلى أن الجيل التالي من إنفيديا، Vera Rubin، يدعم الطلب على الذاكرة، وأن LPDDR أصبح متغيرا مهما في سوق الذاكرة. كما أوضح أن شركات الهواتف الذكية الصينية تتعرض لضغط بسبب تكلفة الذاكرة، في وقت تتحرك فيه أسعار مسابك 2 نانومتر والعمليات الناضجة معا. وفسر التقرير الطلب القادم من إنفيديا كعامل يعزز الطفرة لدى سامسونغ إلكترونيكس وSK هاينكس. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "मेमोरी सुपर साइकिल जारी मानी गई, Samsung और SK Hynix लक्ष्य भाव बढ़े",
+        "excerpt": "आज जारी रिपोर्ट ने Nvidia के Vera Rubin, LPDDR मांग और फाउंड्री कीमतों की चाल का हवाला देते हुए Samsung Electronics और SK Hynix के लक्ष्य भाव 4,30,000 वॉन और 27.5 लाख वॉन किए।",
+        "body": "आज जारी एक ब्रोकरेज रिपोर्ट ने कहा कि मेमोरी सुपर साइकिल अभी समाप्त नहीं हुई है और Samsung Electronics तथा SK Hynix के लक्ष्य भाव क्रमशः 4,30,000 वॉन और 27.5 लाख वॉन कर दिए। रिपोर्ट के अनुसार Nvidia की अगली पीढ़ी Vera Rubin मेमोरी मांग को बढ़ा रही है और LPDDR मेमोरी बाजार का अहम कारक बन रहा है। मेमोरी लागत के बोझ से चीनी स्मार्टफोन कंपनियों पर दबाव है, जबकि 2 नैनोमीटर फाउंड्री और mature process की कीमतों में भी हलचल दिख रही है। रिपोर्ट ने Nvidia से जुड़ी मांग को Samsung Electronics और SK Hynix की मजबूत तेजी को पक्का करने वाला कारक बताया। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Supercycle Memori Dinilai Belum Berakhir, Target Samsung dan SK Hynix Naik",
+        "excerpt": "Laporan yang terbit hari ini menaikkan target harga Samsung Electronics dan SK Hynix menjadi 430.000 won dan 2,75 juta won, mengutip Vera Rubin Nvidia, permintaan LPDDR, dan harga foundry.",
+        "body": "Laporan sekuritas yang terbit hari ini menilai supercycle memori belum berakhir dan menaikkan target harga Samsung Electronics serta SK Hynix masing-masing menjadi 430.000 won dan 2,75 juta won. Laporan itu menyebut Vera Rubin, generasi berikutnya dari Nvidia, sebagai pendorong permintaan memori, sementara LPDDR dinilai menjadi variabel penting di pasar memori. Beban biaya memori juga menekan produsen smartphone China, di saat harga foundry 2 nanometer dan proses matang ikut bergerak. Permintaan yang dipicu Nvidia ditafsirkan sebagai faktor yang memperkuat masa sangat kuat bagi Samsung Electronics dan SK Hynix. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "45d9dfaab31a",
+    "slug": "두나무-지분-655-품은-하나은행원화-스테이블코인-동맹-격상-757168",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-05-14T23:29:12.006Z",
+    "updatedAt": "2026-05-14T23:29:12.006Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/stock/12048706",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12048706",
+    "titleFingerprint": "1d587792e776bdc6ca509aac0c53a7a8c4f98d83",
+    "dedupKeys": [
+      "45d9dfaab31a2d3af840b015fb0bf33688c7dc44",
+      "1d587792e776bdc6ca509aac0c53a7a8c4f98d83",
+      "f88ec5c6f1d6ed688cd2d34793e076aa333593ec"
+    ],
+    "imageUrl": "/images/articles/45d9dfaab31a.jpg",
+    "i18n": {
+      "ko": {
+        "title": "하나은행, 두나무 지분 6.55% 확보…원화 스테이블코인 협력 확대",
+        "excerpt": "하나은행은 카카오인베스트먼트 보유 두나무 일부 지분을 약 1조원에 인수해 6.55%를 확보하고 원화 스테이블코인·STO 협력을 강화한다.",
+        "body": "하나은행이 카카오인베스트먼트가 보유한 두나무 일부 지분을 약 1조원에 인수해 지분 6.55%를 확보한다. 취득 예정일은 내달 15일로 알려졌다. 하나금융그룹은 이번 투자를 통해 신금융 경쟁력을 높이고 두나무와의 협력 관계를 한 단계 격상한다는 구상이다. 협력 범위는 원화 스테이블코인과 토큰증권(STO) 등 디지털 금융 전반으로 제시됐다. 두나무는 지난해 순이익 7088억원을 기록한 국내 주요 가상자산 사업자다. 이번 지분 인수는 은행권과 가상자산 플랫폼 간 전략적 제휴를 강화하는 사례로 주목된다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Hana Bank Secures 6.55% Dunamu Stake, Expands Won Stablecoin Alliance",
+        "excerpt": "Hana Bank will acquire part of Kakao Investment’s Dunamu stake for about 1 trillion won, securing 6.55% as it strengthens won stablecoin and STO cooperation.",
+        "body": "Hana Bank will acquire part of Kakao Investment’s stake in Dunamu for about 1 trillion won, securing a 6.55% holding. The acquisition date is reportedly set for the 15th of next month. Hana Financial Group aims to strengthen its competitiveness in new finance and elevate its partnership with Dunamu through the investment. The cooperation is set to cover digital finance areas including won-denominated stablecoins and security token offerings, or STOs. Dunamu, a major domestic virtual asset operator, posted net profit of 708.8 billion won last year. The deal is drawing attention as a case of deeper strategic cooperation between a bank and a virtual asset platform. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "ハナ銀行、ドゥナム株6.55%取得へ…ウォン建てステーブルコイン協力拡大",
+        "excerpt": "ハナ銀行はカカオインベストメント保有のドゥナム一部株式を約1兆ウォンで取得し、6.55%を確保してウォン建てステーブルコインやSTO協力を強化する。",
+        "body": "ハナ銀行は、カカオインベストメントが保有するドゥナムの一部株式を約1兆ウォンで取得し、6.55%の持ち分を確保する。取得予定日は来月15日とされる。ハナ金融グループは今回の投資を通じ、新金融分野の競争力を高め、ドゥナムとの協力関係を一段引き上げる考えだ。協力範囲には、ウォン建てステーブルコインやセキュリティ・トークン・オファリング（STO）などデジタル金融全般が含まれる。ドゥナムは昨年、純利益7088億ウォンを記録した韓国の主要暗号資産事業者だ。今回の株式取得は、銀行と暗号資産プラットフォームの戦略的提携を強化する事例として注目される。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "韩亚银行将持有Dunamu 6.55%股份，扩大韩元稳定币合作",
+        "excerpt": "韩亚银行将以约1万亿韩元收购Kakao Investment持有的Dunamu部分股份，取得6.55%股权，并加强韩元稳定币和STO合作。",
+        "body": "韩亚银行将以约1万亿韩元收购Kakao Investment持有的Dunamu部分股份，取得6.55%的持股比例。据悉，股份取得日期为下月15日。韩亚金融集团计划通过此次投资提升新金融竞争力，并将与Dunamu的合作关系提升至更高层级。双方合作范围涵盖韩元稳定币、证券型代币发行（STO）等数字金融领域。Dunamu是韩国主要虚拟资产运营商，去年实现净利润7088亿韩元。此次股权收购被视为银行业与虚拟资产平台加强战略合作的案例。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Hana Bank toma 6,55% de Dunamu y amplía alianza en stablecoin en won",
+        "excerpt": "Hana Bank comprará parte de la participación de Kakao Investment en Dunamu por cerca de 1 billón de wones, logrando 6,55% y reforzando cooperación en stablecoin en won y STO.",
+        "body": "Hana Bank comprará parte de la participación que Kakao Investment posee en Dunamu por cerca de 1 billón de wones y asegurará una cuota del 6,55%. La fecha prevista de adquisición sería el día 15 del próximo mes. Hana Financial Group busca elevar su competitividad en nuevas finanzas y llevar a un nivel superior su relación de cooperación con Dunamu mediante esta inversión. La cooperación abarcará áreas de finanzas digitales como stablecoins denominadas en won y ofertas de tokens de seguridad, o STO. Dunamu, uno de los principales operadores de activos virtuales de Corea, registró el año pasado un beneficio neto de 708.800 millones de wones. La operación atrae atención como ejemplo de alianza estratégica más estrecha entre un banco y una plataforma de activos virtuales. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Hana Bank compra 6,55% da Dunamu e amplia aliança em stablecoin em won",
+        "excerpt": "O Hana Bank comprará parte da fatia da Kakao Investment na Dunamu por cerca de 1 trilhão de won, garantindo 6,55% e reforçando cooperação em stablecoin em won e STO.",
+        "body": "O Hana Bank comprará parte da participação que a Kakao Investment detém na Dunamu por cerca de 1 trilhão de won, garantindo uma fatia de 6,55%. A data prevista para a aquisição é o dia 15 do próximo mês. O Hana Financial Group pretende, com o investimento, fortalecer sua competitividade em novas finanças e elevar a parceria com a Dunamu. A cooperação deve abranger finanças digitais, incluindo stablecoins denominadas em won e ofertas de tokens de segurança, ou STO. A Dunamu, uma das principais operadoras de ativos virtuais da Coreia, registrou lucro líquido de 708,8 bilhões de won no ano passado. A transação chama atenção como um caso de fortalecimento da aliança estratégica entre um banco e uma plataforma de ativos virtuais. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Hana Bank sichert 6,55% an Dunamu und stärkt Won-Stablecoin-Allianz",
+        "excerpt": "Die Hana Bank übernimmt für rund 1 Billion Won einen Teil der Dunamu-Beteiligung von Kakao Investment, sichert sich 6,55% und vertieft die Zusammenarbeit bei Won-Stablecoins und STO.",
+        "body": "Die Hana Bank übernimmt für rund 1 Billion Won einen Teil der von Kakao Investment gehaltenen Dunamu-Anteile und sichert sich damit 6,55%. Als geplanter Erwerbstermin wird der 15. des kommenden Monats genannt. Die Hana Financial Group will mit der Investition ihre Wettbewerbsfähigkeit im Bereich neuer Finanzdienstleistungen stärken und die Partnerschaft mit Dunamu auf eine höhere Stufe heben. Die Zusammenarbeit soll digitale Finanzbereiche wie Won-denominierte Stablecoins und Security Token Offerings, kurz STO, umfassen. Dunamu, ein wichtiger südkoreanischer Betreiber virtueller Vermögenswerte, erzielte im vergangenen Jahr einen Nettogewinn von 708,8 Milliarden Won. Der Deal gilt als Beispiel für eine vertiefte strategische Kooperation zwischen einer Bank und einer Plattform für virtuelle Vermögenswerte. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Hana Bank prend 6,55% de Dunamu et renforce l’alliance stablecoin en won",
+        "excerpt": "Hana Bank va racheter une partie de la participation de Kakao Investment dans Dunamu pour environ 1.000 milliards de wons, obtenant 6,55% et renforçant la coopération stablecoin en won et STO.",
+        "body": "Hana Bank va acquérir une partie de la participation détenue par Kakao Investment dans Dunamu pour environ 1.000 milliards de wons, ce qui lui donnera 6,55% du capital. La date d’acquisition prévue serait le 15 du mois prochain. Hana Financial Group entend, grâce à cet investissement, renforcer sa compétitivité dans la nouvelle finance et porter son partenariat avec Dunamu à un niveau supérieur. La coopération couvrira la finance numérique, notamment les stablecoins libellés en won et les offres de jetons de sécurité, ou STO. Dunamu, acteur majeur sud-coréen des actifs virtuels, a dégagé l’an dernier un bénéfice net de 708,8 milliards de wons. L’opération attire l’attention comme exemple de rapprochement stratégique entre une banque et une plateforme d’actifs virtuels. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "بنك هانا يستحوذ على 6.55% من دونامو ويوسع تحالف العملة المستقرة بالوون",
+        "excerpt": "سيشتري بنك هانا جزءا من حصة Kakao Investment في دونامو بنحو تريليون وون، ليحصل على 6.55% ويعزز التعاون في العملة المستقرة بالوون وSTO.",
+        "body": "سيستحوذ بنك هانا على جزء من الحصة التي تملكها Kakao Investment في دونامو مقابل نحو تريليون وون، ليحصل على حصة قدرها 6.55%. ومن المقرر أن يتم الاستحواذ في اليوم الخامس عشر من الشهر المقبل، بحسب ما ورد. وتسعى مجموعة هانا المالية من خلال هذا الاستثمار إلى تعزيز قدرتها التنافسية في التمويل الجديد ورفع مستوى التعاون مع دونامو. وسيشمل التعاون مجالات التمويل الرقمي، مثل العملات المستقرة المقومة بالوون وعروض رموز الأوراق المالية، أو STO. وسجلت دونامو، وهي من أبرز مشغلي الأصول الافتراضية في كوريا، صافي ربح بلغ 708.8 مليار وون في العام الماضي. وتحظى الصفقة باهتمام باعتبارها مثالا على تعزيز شراكة استراتيجية بين بنك ومنصة أصول افتراضية. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "हाना बैंक को Dunamu में 6.55% हिस्सेदारी, वॉन स्टेबलकॉइन गठजोड़ मजबूत",
+        "excerpt": "हाना बैंक Kakao Investment की Dunamu में आंशिक हिस्सेदारी करीब 1 ट्रिलियन वॉन में खरीदेगा, 6.55% हिस्सेदारी लेकर वॉन स्टेबलकॉइन और STO सहयोग बढ़ाएगा।",
+        "body": "हाना बैंक Kakao Investment के पास मौजूद Dunamu की आंशिक हिस्सेदारी करीब 1 ट्रिलियन वॉन में खरीदेगा और 6.55% हिस्सेदारी हासिल करेगा। अधिग्रहण की नियत तारीख अगले महीने की 15 तारीख बताई गई है। हाना फाइनेंशियल ग्रुप इस निवेश के जरिए नई वित्तीय सेवाओं में प्रतिस्पर्धा मजबूत करने और Dunamu के साथ सहयोग को अगले स्तर पर ले जाने की योजना बना रहा है। सहयोग का दायरा वॉन-आधारित स्टेबलकॉइन और सिक्योरिटी टोकन ऑफरिंग यानी STO सहित डिजिटल वित्त तक होगा। Dunamu कोरिया का प्रमुख वर्चुअल एसेट ऑपरेटर है और पिछले साल उसने 708.8 अरब वॉन का शुद्ध लाभ दर्ज किया था। यह सौदा बैंक और वर्चुअल एसेट प्लेटफॉर्म के बीच रणनीतिक साझेदारी मजबूत करने के उदाहरण के रूप में देखा जा रहा है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Hana Bank Kuasai 6,55% Dunamu, Perluas Aliansi Stablecoin Won",
+        "excerpt": "Hana Bank akan membeli sebagian saham Dunamu milik Kakao Investment senilai sekitar 1 triliun won, meraih 6,55% dan memperkuat kerja sama stablecoin won serta STO.",
+        "body": "Hana Bank akan mengakuisisi sebagian saham Dunamu yang dimiliki Kakao Investment senilai sekitar 1 triliun won dan memperoleh kepemilikan 6,55%. Tanggal akuisisi disebut dijadwalkan pada tanggal 15 bulan depan. Hana Financial Group berencana meningkatkan daya saing di bidang keuangan baru dan menaikkan level kerja sama dengan Dunamu melalui investasi ini. Ruang lingkup kerja sama mencakup keuangan digital, termasuk stablecoin berbasis won dan security token offering, atau STO. Dunamu, salah satu operator aset virtual utama di Korea, membukukan laba bersih 708,8 miliar won tahun lalu. Akuisisi saham ini menarik perhatian sebagai contoh penguatan kemitraan strategis antara bank dan platform aset virtual. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
     "id": "f78cbb3d1bdc",
     "slug": "속보-코스피-사상-최고치-798141-마감팔천피-가시권-668467",
     "channelId": "ETF",
@@ -4271,231 +4496,6 @@
         "title": "Siswa SMA Kembangkan AI Analisis Saham AS untuk Kurangi Asimetri Informasi Investasi",
         "excerpt": "Siswa kelas akhir SMA yang mulai berinvestasi sejak kelas 9 dan meraih posisi atas dalam kompetisi investasi mengembangkan model AI untuk analisis saham AS.",
         "body": "Seorang siswa kelas akhir SMA yang mulai berinvestasi sejak kelas 9 dan kemudian meraih posisi teratas dalam kompetisi investasi telah mengembangkan model AI untuk menganalisis saham Amerika Serikat, lapor mk.co.kr. Berdasarkan pengalaman investasinya sendiri, siswa tersebut membuat AI analisis pasar yang dirancang untuk mengubah kriteria penilaiannya sesuai kondisi pasar. Model itu juga bertujuan menafsirkan berbagai informasi keuangan secara menyeluruh dan menghubungkannya dengan keputusan investasi nyata. Ia mengembangkan model ini untuk mengurangi kesenjangan akses informasi yang dirasakan selama berinvestasi dan membantu investor individu mengambil keputusan yang lebih seimbang. Kasus ini menarik perhatian sebagai contoh penggabungan pengalaman investasi remaja dengan teknologi AI untuk mendekati masalah asimetri informasi investasi. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "63536754afa4",
-    "slug": "에코글로우-95억-원-규모-전환사채-발행-911145",
-    "channelId": "ETF",
-    "category": "etf",
-    "publishedAt": "2026-05-14T09:21:19.884Z",
-    "updatedAt": "2026-05-14T09:21:19.884Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/stock/12047906",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12047906",
-    "titleFingerprint": "2af4cc517b7ef65b5edab177d13c6bf4bd7f4618",
-    "dedupKeys": [
-      "63536754afa4209c88b7d0c9a8d31c72336d6aa8",
-      "2af4cc517b7ef65b5edab177d13c6bf4bd7f4618",
-      "29faa541263214358653ec6549552707c25aa28d"
-    ],
-    "imageUrl": "/images/articles/63536754afa4.jpg",
-    "i18n": {
-      "ko": {
-        "title": "에코글로우 95억 원 전환사채 발행 공시, 전환가액 3420원",
-        "excerpt": "코스닥 상장사 에코글로우가 2026년 5월 14일 제17회 95억 원 규모 전환사채 발행을 공시했다. 전환가액은 3420원이며 청구는 2027년 5월 22일부터다.",
-        "body": "코스닥 상장사 에코글로우가 2026년 5월 14일 제17회 전환사채 발행을 공시했다. 발행 규모는 95억 원이며, 전환가액은 3420원으로 제시됐다. 전환 청구 기간은 2027년 5월 22일부터 시작된다. 이번 공시는 전환사채 발행 조건 가운데 규모와 전환가액, 전환 청구 개시일을 확인할 수 있는 내용이다. 전환사채는 일정 조건에 따라 주식으로 전환될 수 있는 채권인 만큼, 투자자들은 향후 전환 가능 시점과 주가 흐름을 함께 살필 필요가 있다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "EcoGlow Discloses 9.5 Billion Won Convertible Bond Issue at 3,420 Won",
-        "excerpt": "KOSDAQ-listed EcoGlow disclosed on May 14, 2026 that it will issue its 17th convertible bond worth 9.5 billion won, with a conversion price of 3,420 won.",
-        "body": "KOSDAQ-listed EcoGlow disclosed on May 14, 2026 that it will issue its 17th convertible bond. The issuance size is 9.5 billion won, and the conversion price was set at 3,420 won. The conversion request period begins on May 22, 2027. The disclosure confirms key terms of the convertible bond, including the issue size, conversion price and the start date for conversion requests. As convertible bonds can be converted into shares under specified conditions, investors may need to monitor the future conversion timing and share price movement together. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "エコグロー、95億ウォン転換社債発行を公示　転換価額3420ウォン",
-        "excerpt": "コスダック上場企業エコグローは2026年5月14日、第17回95億ウォン規模の転換社債発行を公示した。転換価額は3420ウォンで、請求は2027年5月22日から始まる。",
-        "body": "コスダック上場企業のエコグローは2026年5月14日、第17回転換社債の発行を公示した。発行規模は95億ウォンで、転換価額は3420ウォンと示された。転換請求期間は2027年5月22日から始まる。今回の公示は、転換社債発行条件のうち規模、転換価額、転換請求の開始日を確認できる内容だ。転換社債は一定の条件に基づいて株式に転換され得る債券であるため、投資家は今後の転換可能時点と株価の動きをあわせて確認する必要がある。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "EcoGlow披露95亿韩元可转债发行，转股价为3420韩元",
-        "excerpt": "科斯达克上市公司EcoGlow于2026年5月14日披露，将发行第17期规模95亿韩元的可转债，转股价为3420韩元，转股申请期自2027年5月22日起。",
-        "body": "科斯达克上市公司EcoGlow于2026年5月14日披露，将发行第17期可转换公司债券。发行规模为95亿韩元，转股价定为3420韩元。转股申请期间自2027年5月22日起开始。此次公告确认了可转债发行条件中的发行规模、转股价格以及转股申请起始日等主要内容。由于可转债是在一定条件下可转换为股票的债券，投资者有必要同时关注未来可转换时点及股价走势。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "EcoGlow anuncia bonos convertibles por 9.500 millones de wones a 3.420 wones",
-        "excerpt": "EcoGlow, cotizada en KOSDAQ, informó el 14 de mayo de 2026 la emisión de su 17.º bono convertible por 9.500 millones de wones, con precio de conversión de 3.420 wones.",
-        "body": "EcoGlow, empresa cotizada en KOSDAQ, informó el 14 de mayo de 2026 que emitirá su 17.º bono convertible. El tamaño de la emisión es de 9.500 millones de wones y el precio de conversión fue fijado en 3.420 wones. El periodo para solicitar la conversión comienza el 22 de mayo de 2027. La comunicación permite confirmar condiciones clave de la emisión, como el monto, el precio de conversión y la fecha inicial de solicitud. Dado que los bonos convertibles pueden convertirse en acciones bajo condiciones determinadas, los inversores deberán observar tanto el momento futuro de conversión como la evolución del precio de la acción. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "EcoGlow anuncia emissão de bônus conversíveis de 9,5 bilhões de wones",
-        "excerpt": "A EcoGlow, listada na KOSDAQ, informou em 14 de maio de 2026 a emissão de seu 17.º bônus conversível, no valor de 9,5 bilhões de wones, com preço de conversão de 3.420 wones.",
-        "body": "A EcoGlow, empresa listada na KOSDAQ, informou em 14 de maio de 2026 que emitirá seu 17.º bônus conversível. O valor da emissão é de 9,5 bilhões de wones, e o preço de conversão foi definido em 3.420 wones. O período para solicitação de conversão começa em 22 de maio de 2027. O comunicado confirma termos centrais da emissão, incluindo valor, preço de conversão e data inicial para pedidos de conversão. Como bônus conversíveis podem ser convertidos em ações sob determinadas condições, investidores devem acompanhar o momento futuro de conversão e o movimento do preço das ações. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "EcoGlow meldet Wandelanleihe über 9,5 Mrd. Won mit Wandlungspreis 3.420 Won",
-        "excerpt": "Das KOSDAQ-Unternehmen EcoGlow gab am 14. Mai 2026 die Ausgabe seiner 17. Wandelanleihe über 9,5 Mrd. Won bekannt. Der Wandlungspreis beträgt 3.420 Won.",
-        "body": "Das an der KOSDAQ notierte Unternehmen EcoGlow gab am 14. Mai 2026 die Ausgabe seiner 17. Wandelanleihe bekannt. Das Emissionsvolumen beträgt 9,5 Milliarden Won, der Wandlungspreis wurde mit 3.420 Won angegeben. Der Zeitraum für Wandlungsanträge beginnt am 22. Mai 2027. Die Mitteilung bestätigt zentrale Bedingungen der Wandelanleihe, darunter Volumen, Wandlungspreis und Startdatum für Wandlungsanträge. Da Wandelanleihen unter bestimmten Bedingungen in Aktien umgewandelt werden können, sollten Anleger den künftigen Wandlungszeitpunkt und die Aktienkursentwicklung gemeinsam beobachten. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "EcoGlow annonce 9,5 milliards de wons d’obligations convertibles à 3 420 wons",
-        "excerpt": "EcoGlow, société cotée au KOSDAQ, a annoncé le 14 mai 2026 l’émission de sa 17e obligation convertible, d’un montant de 9,5 milliards de wons, avec un prix de conversion de 3 420 wons.",
-        "body": "EcoGlow, société cotée au KOSDAQ, a annoncé le 14 mai 2026 l’émission de sa 17e obligation convertible. Le montant de l’émission est de 9,5 milliards de wons et le prix de conversion a été fixé à 3 420 wons. La période de demande de conversion commence le 22 mai 2027. Cette annonce confirme les principales conditions de l’émission, notamment le montant, le prix de conversion et la date d’ouverture des demandes. Comme les obligations convertibles peuvent être transformées en actions sous certaines conditions, les investisseurs devront suivre à la fois le calendrier de conversion possible et l’évolution du cours de l’action. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "إيكوغلو تكشف إصدار سندات قابلة للتحويل بـ9.5 مليار وون وسعر 3420 وون",
-        "excerpt": "أعلنت إيكوغلو المدرجة في كوسداك في 14 مايو 2026 إصدار سنداتها القابلة للتحويل السابعة عشرة بقيمة 9.5 مليار وون، مع سعر تحويل يبلغ 3420 وون.",
-        "body": "أعلنت شركة إيكوغلو المدرجة في كوسداك في 14 مايو 2026 أنها ستصدر سنداتها القابلة للتحويل السابعة عشرة. يبلغ حجم الإصدار 9.5 مليار وون، وتم تحديد سعر التحويل عند 3420 وون. وتبدأ فترة طلب التحويل في 22 مايو 2027. يؤكد الإفصاح الشروط الرئيسية لإصدار السندات القابلة للتحويل، بما في ذلك حجم الإصدار وسعر التحويل وتاريخ بدء طلبات التحويل. وبما أن السندات القابلة للتحويل يمكن تحويلها إلى أسهم وفق شروط محددة، فقد يحتاج المستثمرون إلى متابعة توقيت التحويل المحتمل مستقبلا وحركة سعر السهم معا. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "EcoGlow ने 9.5 अरब वॉन के कन्वर्टिबल बॉन्ड जारी करने की जानकारी दी",
-        "excerpt": "KOSDAQ-सूचीबद्ध EcoGlow ने 14 मई 2026 को 9.5 अरब वॉन के अपने 17वें कन्वर्टिबल बॉन्ड जारी करने की घोषणा की। रूपांतरण मूल्य 3,420 वॉन है।",
-        "body": "KOSDAQ-सूचीबद्ध EcoGlow ने 14 मई 2026 को बताया कि वह अपना 17वां कन्वर्टिबल बॉन्ड जारी करेगी। इश्यू का आकार 9.5 अरब वॉन है और रूपांतरण मूल्य 3,420 वॉन तय किया गया है। रूपांतरण अनुरोध की अवधि 22 मई 2027 से शुरू होगी। इस खुलासे में कन्वर्टिबल बॉन्ड जारी करने की प्रमुख शर्तें, जैसे इश्यू का आकार, रूपांतरण मूल्य और रूपांतरण अनुरोध शुरू होने की तारीख, स्पष्ट होती हैं। चूंकि कन्वर्टिबल बॉन्ड निर्धारित शर्तों के तहत शेयरों में बदले जा सकते हैं, निवेशकों को भविष्य के रूपांतरण समय और शेयर मूल्य की चाल, दोनों पर नजर रखनी होगी। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "EcoGlow Umumkan Obligasi Konversi 9,5 Miliar Won, Harga Konversi 3.420 Won",
-        "excerpt": "EcoGlow yang tercatat di KOSDAQ mengumumkan pada 14 Mei 2026 penerbitan obligasi konversi ke-17 senilai 9,5 miliar won, dengan harga konversi 3.420 won.",
-        "body": "EcoGlow, perusahaan yang tercatat di KOSDAQ, mengumumkan pada 14 Mei 2026 bahwa akan menerbitkan obligasi konversi ke-17. Nilai penerbitan mencapai 9,5 miliar won, dengan harga konversi ditetapkan sebesar 3.420 won. Periode pengajuan konversi dimulai pada 22 Mei 2027. Pengumuman ini mengonfirmasi ketentuan utama penerbitan obligasi konversi, termasuk nilai penerbitan, harga konversi, dan tanggal awal pengajuan konversi. Karena obligasi konversi dapat diubah menjadi saham berdasarkan syarat tertentu, investor perlu mencermati waktu konversi mendatang bersama pergerakan harga saham. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "82473c6f7cbf",
-    "slug": "원텍-750억-원-규모-전환사채-발행-882990",
-    "channelId": "ETF",
-    "category": "etf",
-    "publishedAt": "2026-05-14T09:20:18.815Z",
-    "updatedAt": "2026-05-14T09:20:18.815Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/stock/12047904",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12047904",
-    "titleFingerprint": "efe28971cb0e21c108932a387a4a8eb7499f00b2",
-    "dedupKeys": [
-      "82473c6f7cbff7aa810d52d06c1e3e905c6bcb94",
-      "efe28971cb0e21c108932a387a4a8eb7499f00b2",
-      "192a122bd715bcc86179b316b974ba47c1ac97a2"
-    ],
-    "imageUrl": "/images/articles/82473c6f7cbf.jpg",
-    "i18n": {
-      "ko": {
-        "title": "원텍, 750억 원 전환사채 발행 공시…전환가액 8270원",
-        "excerpt": "코스닥 상장사 원텍은 2026년 5월 14일 제3회 750억 원 규모 전환사채 발행을 공시했다. 전환가액은 8270원이며 전환 청구는 2027년 5월 22일부터 가능하다.",
-        "body": "코스닥 상장사 원텍이 2026년 5월 14일 제3회 전환사채 발행을 공시했다. 발행 규모는 750억 원이다. 공시에 따르면 이번 전환사채의 전환가액은 8270원으로 정해졌으며, 전환 청구 기간은 2027년 5월 22일부터 시작된다. 전환사채는 일정 조건에 따라 주식으로 전환할 수 있는 채권인 만큼, 투자자들은 발행 규모와 전환가액, 전환 청구 개시 시점을 주요 수치로 확인하게 된다. 이번 공시는 원텍의 자금 조달 관련 일정과 조건을 시장에 알린 내용이다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "WONTECH Discloses 75 Billion Won Convertible Bond Issue at 8,270 Won",
-        "excerpt": "KOSDAQ-listed WONTECH disclosed on May 14, 2026 that it will issue its third convertible bond worth 75 billion won. The conversion price is 8,270 won, with conversion requests starting May 22, 2027.",
-        "body": "KOSDAQ-listed WONTECH disclosed on May 14, 2026 that it will issue its third convertible bond. The issue size is 75 billion won. According to the disclosure, the conversion price for the bond has been set at 8,270 won, and the conversion request period begins on May 22, 2027. Because convertible bonds can be converted into shares under specified conditions, investors will review the issue size, conversion price and start date for conversion requests as key figures. The disclosure informs the market of WONTECH’s financing schedule and related terms. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "Wontech、750億ウォン転換社債発行を公示…転換価額8270ウォン",
-        "excerpt": "KOSDAQ上場企業のWontechは2026年5月14日、第3回となる750億ウォン規模の転換社債発行を公示した。転換価額は8270ウォンで、転換請求は2027年5月22日から可能となる。",
-        "body": "KOSDAQ上場企業のWontechは2026年5月14日、第3回転換社債の発行を公示した。発行規模は750億ウォン。公示によると、今回の転換社債の転換価額は8270ウォンに設定され、転換請求期間は2027年5月22日から始まる。転換社債は一定の条件に従って株式に転換できる債券であるため、投資家は発行規模、転換価額、転換請求の開始時点を主要な数値として確認することになる。今回の公示は、Wontechの資金調達に関する日程と条件を市場に知らせる内容だ。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "Wontech公告发行750亿韩元可转债，转股价8270韩元",
-        "excerpt": "KOSDAQ上市公司Wontech于2026年5月14日公告，将发行第三期规模750亿韩元的可转换债券。转股价为8270韩元，转股请求期自2027年5月22日起开始。",
-        "body": "KOSDAQ上市公司Wontech于2026年5月14日公告发行第三期可转换债券。发行规模为750亿韩元。根据公告，本次可转债的转股价确定为8270韩元，转股请求期自2027年5月22日起开始。由于可转换债券可在一定条件下转换为股票，投资者将把发行规模、转股价以及转股请求开始时间作为主要数据进行确认。此次公告向市场说明了Wontech与融资相关的日程和条件。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "WONTECH anuncia bonos convertibles por 75.000 millones de wones",
-        "excerpt": "La empresa WONTECH, cotizada en KOSDAQ, informó el 14 de mayo de 2026 que emitirá su tercer bono convertible por 75.000 millones de wones. El precio de conversión es de 8.270 wones y las solicitudes comienzan el 22 de mayo de 2027.",
-        "body": "WONTECH, compañía cotizada en KOSDAQ, informó el 14 de mayo de 2026 la emisión de su tercer bono convertible. El tamaño de la emisión es de 75.000 millones de wones. Según el comunicado, el precio de conversión se fijó en 8.270 wones y el periodo para solicitar la conversión comienza el 22 de mayo de 2027. Al tratarse de bonos que pueden convertirse en acciones bajo determinadas condiciones, los inversores revisarán como cifras clave el tamaño de la emisión, el precio de conversión y la fecha inicial de solicitud. El anuncio comunica al mercado el calendario y las condiciones de financiación de WONTECH. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "WONTECH anuncia emissão de debêntures conversíveis de 75 bi de wones",
-        "excerpt": "A WONTECH, listada na KOSDAQ, informou em 14 de maio de 2026 que emitirá sua terceira debênture conversível no valor de 75 bilhões de wones. O preço de conversão é de 8.270 wones, com pedidos a partir de 22 de maio de 2027.",
-        "body": "A WONTECH, empresa listada na KOSDAQ, informou em 14 de maio de 2026 a emissão de sua terceira debênture conversível. O valor da emissão é de 75 bilhões de wones. Segundo o comunicado, o preço de conversão foi definido em 8.270 wones, e o período para solicitar a conversão começa em 22 de maio de 2027. Como esse tipo de título pode ser convertido em ações sob determinadas condições, investidores devem observar o valor da emissão, o preço de conversão e a data inicial de solicitação como dados principais. O anúncio informa ao mercado o cronograma e as condições de financiamento da WONTECH. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "WONTECH kündigt Wandelanleihe über 75 Milliarden Won an",
-        "excerpt": "Das KOSDAQ-notierte Unternehmen WONTECH gab am 14. Mai 2026 die Ausgabe seiner dritten Wandelanleihe im Volumen von 75 Milliarden Won bekannt. Der Wandlungspreis liegt bei 8.270 Won, Anträge sind ab 22. Mai 2027 möglich.",
-        "body": "Das KOSDAQ-notierte Unternehmen WONTECH gab am 14. Mai 2026 die Ausgabe seiner dritten Wandelanleihe bekannt. Das Emissionsvolumen beträgt 75 Milliarden Won. Laut Mitteilung wurde der Wandlungspreis auf 8.270 Won festgelegt, und der Zeitraum für Wandlungsanträge beginnt am 22. Mai 2027. Da Wandelanleihen unter bestimmten Bedingungen in Aktien umgewandelt werden können, werden Anleger Emissionsvolumen, Wandlungspreis und Beginn der Antragsfrist als zentrale Kennzahlen prüfen. Die Mitteilung informiert den Markt über den Finanzierungszeitplan und die Bedingungen von WONTECH. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "WONTECH annonce une obligation convertible de 75 milliards de wons",
-        "excerpt": "WONTECH, société cotée au KOSDAQ, a annoncé le 14 mai 2026 l’émission de sa troisième obligation convertible, d’un montant de 75 milliards de wons. Le prix de conversion est fixé à 8 270 wons, avec des demandes possibles dès le 22 mai 2027.",
-        "body": "WONTECH, société cotée au KOSDAQ, a annoncé le 14 mai 2026 l’émission de sa troisième obligation convertible. Le montant de l’émission est de 75 milliards de wons. Selon l’annonce, le prix de conversion a été fixé à 8 270 wons et la période de demande de conversion commence le 22 mai 2027. Les obligations convertibles pouvant être transformées en actions sous certaines conditions, les investisseurs suivront principalement le montant de l’émission, le prix de conversion et la date de début des demandes. Cette annonce informe le marché du calendrier et des conditions de financement de WONTECH. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "وونتك تعلن إصدار سندات قابلة للتحويل بقيمة 75 مليار وون",
-        "excerpt": "أعلنت شركة وونتك المدرجة في كوسداك في 14 مايو 2026 إصدار سنداتها القابلة للتحويل للمرة الثالثة بقيمة 75 مليار وون. حدد سعر التحويل عند 8270 وون، وتبدأ طلبات التحويل في 22 مايو 2027.",
-        "body": "أعلنت شركة وونتك المدرجة في كوسداك في 14 مايو 2026 إصدار سنداتها القابلة للتحويل للمرة الثالثة. يبلغ حجم الإصدار 75 مليار وون. ووفقا للإفصاح، تم تحديد سعر التحويل عند 8270 وون، وتبدأ فترة طلب التحويل في 22 مايو 2027. وبما أن السندات القابلة للتحويل يمكن تحويلها إلى أسهم وفق شروط محددة، سيراجع المستثمرون حجم الإصدار وسعر التحويل وموعد بدء طلبات التحويل كأرقام رئيسية. يطلع هذا الإفصاح السوق على جدول وشروط التمويل الخاصة بوونتك. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "WONTECH ने 75 अरब वॉन के कन्वर्टिबल बॉन्ड जारी करने की घोषणा की",
-        "excerpt": "KOSDAQ में सूचीबद्ध WONTECH ने 14 मई 2026 को 75 अरब वॉन मूल्य के तीसरे कन्वर्टिबल बॉन्ड जारी करने की जानकारी दी। रूपांतरण मूल्य 8,270 वॉन है और रूपांतरण अनुरोध 22 मई 2027 से शुरू होंगे।",
-        "body": "KOSDAQ में सूचीबद्ध WONTECH ने 14 मई 2026 को अपने तीसरे कन्वर्टिबल बॉन्ड जारी करने की घोषणा की। निर्गम का आकार 75 अरब वॉन है। खुलासे के अनुसार, इस बॉन्ड का रूपांतरण मूल्य 8,270 वॉन तय किया गया है और रूपांतरण अनुरोध की अवधि 22 मई 2027 से शुरू होगी। चूंकि कन्वर्टिबल बॉन्ड तय शर्तों के तहत शेयरों में बदले जा सकते हैं, निवेशक निर्गम आकार, रूपांतरण मूल्य और अनुरोध शुरू होने की तारीख को प्रमुख आंकड़ों के रूप में देखेंगे। यह खुलासा WONTECH की वित्तपोषण समय-सारिणी और शर्तों की जानकारी बाजार को देता है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "WONTECH Umumkan Obligasi Konversi 75 Miliar Won, Harga 8.270 Won",
-        "excerpt": "WONTECH, emiten KOSDAQ, mengumumkan pada 14 Mei 2026 penerbitan obligasi konversi ketiga senilai 75 miliar won. Harga konversi ditetapkan 8.270 won dan permintaan konversi dimulai 22 Mei 2027.",
-        "body": "WONTECH, perusahaan yang tercatat di KOSDAQ, mengumumkan pada 14 Mei 2026 penerbitan obligasi konversi ketiganya. Nilai penerbitan mencapai 75 miliar won. Menurut pengumuman tersebut, harga konversi obligasi ini ditetapkan sebesar 8.270 won, sementara periode permintaan konversi dimulai pada 22 Mei 2027. Karena obligasi konversi dapat diubah menjadi saham berdasarkan syarat tertentu, investor akan mencermati nilai penerbitan, harga konversi, dan awal periode permintaan sebagai angka utama. Pengumuman ini memberi tahu pasar mengenai jadwal dan ketentuan pendanaan WONTECH. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "c4c7bcb3991a",
-    "slug": "인콘-150억-원-규모-전환사채-발행-316317",
-    "channelId": "ETF",
-    "category": "etf",
-    "publishedAt": "2026-05-14T09:19:16.565Z",
-    "updatedAt": "2026-05-14T09:19:16.565Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/stock/12047905",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12047905",
-    "titleFingerprint": "187fee7b6b80ebcfaef247a69694dbc3153b1a41",
-    "dedupKeys": [
-      "c4c7bcb3991a6b67ceeed5ed1822b228493d497d",
-      "187fee7b6b80ebcfaef247a69694dbc3153b1a41",
-      "130c44b79528d44d3236918afbc2d7846eda3470"
-    ],
-    "imageUrl": "/images/articles/c4c7bcb3991a.jpg",
-    "i18n": {
-      "ko": {
-        "title": "인콘, 150억 원 전환사채 발행 공시…전환가액 1597원 확정",
-        "excerpt": "코스닥 상장사 인콘은 2026년 5월 14일 제13회 150억 원 규모 전환사채 발행을 공시했으며, 전환가액은 1597원으로 제시됐다.",
-        "body": "코스닥 상장사 인콘이 2026년 5월 14일 제13회 전환사채 발행을 공시했다. 발행 규모는 150억 원이며, 공시에 따르면 전환가액은 1597원으로 정해졌다. 전환 청구는 2027년 6월 12일부터 가능하다고 원문은 전했다. 이번 공시는 인콘의 자금 조달 계획과 향후 주식 전환 가능 조건을 확인할 수 있는 내용이다. 투자자는 발행 규모, 전환가액, 전환 청구 개시일 등 핵심 조건을 중심으로 후속 공시를 살필 필요가 있다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Incon Discloses 15 Billion Won Convertible Bond Issue at 1,597 Won",
-        "excerpt": "KOSDAQ-listed Incon disclosed on May 14, 2026 that it will issue its 13th convertible bond worth 15 billion won, with a conversion price of 1,597 won.",
-        "body": "KOSDAQ-listed Incon disclosed on May 14, 2026 that it plans to issue its 13th convertible bond. The issue size is 15 billion won, and the disclosed conversion price is 1,597 won. According to the original report, conversion requests may begin on June 12, 2027. The disclosure outlines Incon’s funding plan and the key terms under which the bonds may later be converted into shares. Investors may need to monitor follow-up filings, focusing on the issue size, conversion price and conversion request start date. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "インコン、150億ウォン転換社債発行を公示…転換価額は1597ウォン",
-        "excerpt": "コスダック上場企業インコンは2026年5月14日、第13回150億ウォン規模の転換社債発行を公示し、転換価額は1597ウォンと示した。",
-        "body": "コスダック上場企業のインコンは2026年5月14日、第13回転換社債の発行を公示した。発行規模は150億ウォンで、公示によると転換価額は1597ウォンに決まった。原文は、転換請求が2027年6月12日から可能になると伝えている。今回の公示は、インコンの資金調達計画と今後の株式転換に関する主要条件を確認できる内容だ。投資家は発行規模、転換価額、転換請求開始日などの核心条件を中心に後続公示を確認する必要がある。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "Incon披露发行150亿韩元可转债，转股价确定为1597韩元",
-        "excerpt": "科斯达克上市公司Incon于2026年5月14日披露将发行第13期、规模150亿韩元的可转换债券，转股价为1597韩元。",
-        "body": "科斯达克上市公司Incon于2026年5月14日披露发行第13期可转换债券。发行规模为150亿韩元，公告显示转股价确定为1597韩元。原文称，转股申请期将自2027年6月12日起开始。该公告披露了Incon的融资计划，以及未来可能转换为股票时适用的主要条件。投资者可关注发行规模、转股价、转股申请起始日等核心条款，并继续查看后续公告。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Incon anuncia bonos convertibles por 15.000 millones de wones a 1.597 wones",
-        "excerpt": "La empresa de KOSDAQ Incon informó el 14 de mayo de 2026 que emitirá su 13.º bono convertible por 15.000 millones de wones, con precio de conversión de 1.597 wones.",
-        "body": "Incon, empresa cotizada en KOSDAQ, informó el 14 de mayo de 2026 que emitirá su 13.º bono convertible. El tamaño de la emisión es de 15.000 millones de wones y, según la comunicación, el precio de conversión se fijó en 1.597 wones. El texto original indicó que las solicitudes de conversión podrán comenzar el 12 de junio de 2027. La comunicación permite verificar el plan de financiación de Incon y las condiciones clave para una posible conversión futura en acciones. Los inversores deberían revisar próximos avisos sobre tamaño, precio y fecha inicial de conversión. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Incon anuncia debêntures conversíveis de 15 bilhões de wones a 1.597 wones",
-        "excerpt": "A Incon, listada na KOSDAQ, informou em 14 de maio de 2026 que emitirá sua 13ª debênture conversível, no valor de 15 bilhões de wones, com preço de conversão de 1.597 wones.",
-        "body": "A Incon, empresa listada na KOSDAQ, informou em 14 de maio de 2026 que pretende emitir sua 13ª debênture conversível. O volume da emissão é de 15 bilhões de wones e, segundo o comunicado, o preço de conversão foi definido em 1.597 wones. O texto original informou que os pedidos de conversão poderão começar em 12 de junho de 2027. O comunicado mostra o plano de captação da Incon e os principais termos para uma possível conversão futura em ações. Investidores devem acompanhar novos comunicados sobre volume, preço e início da conversão. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Incon meldet Wandelanleihe über 15 Mrd. Won mit Wandlungspreis 1.597 Won",
-        "excerpt": "Das KOSDAQ-Unternehmen Incon gab am 14. Mai 2026 die Ausgabe seiner 13. Wandelanleihe über 15 Milliarden Won bekannt; der Wandlungspreis liegt bei 1.597 Won.",
-        "body": "Das an der KOSDAQ notierte Unternehmen Incon gab am 14. Mai 2026 die Ausgabe seiner 13. Wandelanleihe bekannt. Das Emissionsvolumen beträgt 15 Milliarden Won; laut Mitteilung wurde der Wandlungspreis auf 1.597 Won festgelegt. Dem Originalbericht zufolge können Wandlungsanträge ab dem 12. Juni 2027 gestellt werden. Die Veröffentlichung zeigt Incons Finanzierungsplan sowie zentrale Bedingungen für eine mögliche spätere Umwandlung in Aktien. Anleger sollten weitere Meldungen zu Volumen, Wandlungspreis und Beginn der Wandlungsfrist beobachten. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Incon annonce 15 milliards de wons d’obligations convertibles à 1 597 wons",
-        "excerpt": "La société Incon, cotée au KOSDAQ, a annoncé le 14 mai 2026 l’émission de sa 13e obligation convertible, d’un montant de 15 milliards de wons, avec un prix de conversion de 1 597 wons.",
-        "body": "Incon, société cotée au KOSDAQ, a annoncé le 14 mai 2026 l’émission de sa 13e obligation convertible. Le montant de l’émission est de 15 milliards de wons et, selon l’avis, le prix de conversion a été fixé à 1 597 wons. Le texte original indique que les demandes de conversion pourront commencer le 12 juin 2027. Cette annonce présente le plan de financement d’Incon et les principales conditions d’une éventuelle conversion future en actions. Les investisseurs devraient suivre les prochains avis concernant le montant, le prix et la date de début de conversion. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "إنكون تعلن إصدار سندات قابلة للتحويل بقيمة 15 مليار وون وسعر 1597 وون",
-        "excerpt": "أعلنت إنكون المدرجة في كوسداك في 14 مايو 2026 إصدار سنداتها القابلة للتحويل رقم 13 بقيمة 15 مليار وون، مع تحديد سعر التحويل عند 1597 وون.",
-        "body": "أعلنت شركة إنكون المدرجة في كوسداك في 14 مايو 2026 أنها ستصدر السندات القابلة للتحويل رقم 13. يبلغ حجم الإصدار 15 مليار وون، ووفقا للإفصاح تم تحديد سعر التحويل عند 1597 وون. وذكر النص الأصلي أن طلبات التحويل يمكن أن تبدأ اعتبارا من 12 يونيو 2027. يوضح هذا الإفصاح خطة إنكون للتمويل والشروط الرئيسية التي قد تسمح بتحويل السندات لاحقا إلى أسهم. على المستثمرين متابعة الإفصاحات اللاحقة مع التركيز على حجم الإصدار وسعر التحويل وتاريخ بدء طلبات التحويل. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "Incon ने 15 अरब वॉन के कन्वर्टिबल बॉन्ड की घोषणा की, मूल्य 1,597 वॉन",
-        "excerpt": "KOSDAQ-सूचीबद्ध Incon ने 14 मई 2026 को 15 अरब वॉन के अपने 13वें कन्वर्टिबल बॉन्ड जारी करने की सूचना दी, जिसका रूपांतरण मूल्य 1,597 वॉन है।",
-        "body": "KOSDAQ में सूचीबद्ध Incon ने 14 मई 2026 को अपने 13वें कन्वर्टिबल बॉन्ड जारी करने की घोषणा की। निर्गम का आकार 15 अरब वॉन है और सूचना के अनुसार रूपांतरण मूल्य 1,597 वॉन तय किया गया है। मूल रिपोर्ट में कहा गया कि रूपांतरण अनुरोध 12 जून 2027 से शुरू हो सकेंगे। यह सूचना Incon की वित्तपोषण योजना और भविष्य में शेयरों में रूपांतरण की मुख्य शर्तों को दिखाती है। निवेशकों को निर्गम आकार, रूपांतरण मूल्य और रूपांतरण अनुरोध की आरंभ तिथि पर केंद्रित अगली सूचनाओं पर नजर रखनी चाहिए। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Incon Umumkan Obligasi Konversi 15 Miliar Won, Harga Konversi 1.597 Won",
-        "excerpt": "Incon yang tercatat di KOSDAQ mengumumkan pada 14 Mei 2026 penerbitan obligasi konversi ke-13 senilai 15 miliar won, dengan harga konversi 1.597 won.",
-        "body": "Incon, perusahaan yang tercatat di KOSDAQ, mengumumkan pada 14 Mei 2026 rencana penerbitan obligasi konversi ke-13. Nilai penerbitan mencapai 15 miliar won dan, menurut keterbukaan, harga konversi ditetapkan sebesar 1.597 won. Laporan asli menyebut permintaan konversi dapat dimulai pada 12 Juni 2027. Pengumuman ini memuat rencana pendanaan Incon serta ketentuan utama terkait kemungkinan konversi menjadi saham di kemudian hari. Investor perlu memantau pengumuman lanjutan, terutama soal nilai penerbitan, harga konversi, dan tanggal awal permintaan konversi. Sumber: mk.co.kr"
       }
     }
   }
