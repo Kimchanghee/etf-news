@@ -1,5 +1,230 @@
 [
   {
+    "id": "4301879c6fd0",
+    "slug": "연-2-예금으론-답-없다급증하는-포모-투자에-빚투-경고음도-커져-602626",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-05-14T07:20:55.484Z",
+    "updatedAt": "2026-05-14T07:20:55.484Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/stock/12047450",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12047450",
+    "titleFingerprint": "2835953f2f8b9f90d8a40fbe17dc474ed2cf3afa",
+    "dedupKeys": [
+      "4301879c6fd043f98d06a053ba1cd0cd1edf9117",
+      "2835953f2f8b9f90d8a40fbe17dc474ed2cf3afa",
+      "8bd0dca13b3d13296580ad36eca84e764e5a8e86"
+    ],
+    "imageUrl": "/images/articles/4301879c6fd0.jpg",
+    "i18n": {
+      "ko": {
+        "title": "예금금리 2%대 매력 약화에 증시 대기자금 급증, FOMO·빚투 경고음",
+        "excerpt": "국내 증시 반등과 예·적금 금리 매력 약화로 최근 증시 대기자금이 늘고, MZ세대를 넘어 노년층까지 머니무브 조짐이 확산하고 있다.",
+        "body": "최근 국내 증시가 반등하고 은행 예·적금 금리 매력이 약해지면서 투자 대기자금이 증시로 이동하는 흐름이 커지고 있다. 연 2%대 예금만으로는 수익 기대를 채우기 어렵다는 인식이 확산되며 MZ세대뿐 아니라 노년층에서도 머니무브 조짐이 나타나는 분위기다. 다만 시장 참여가 빠르게 늘어나는 과정에서 ‘FOMO 투자’와 빚을 내 투자하는 ‘빚투’에 대한 우려도 함께 커지고 있다. 향후 디레버리징 국면이 오면 변동성 위험이 커질 수 있다는 경고가 나온다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Stock Cash Surges as 2% Deposit Rates Lose Appeal, Raising FOMO and Margin-Debt Warnings",
+        "excerpt": "As Korean stocks rebound and bank deposit rates lose appeal, waiting cash for equities is rising, with money moves spreading beyond MZ investors to older savers.",
+        "body": "As the domestic stock market has recently rebounded and the appeal of bank deposits and installment savings has weakened, more waiting cash appears to be moving toward equities. The view that annual deposit rates in the 2% range are not enough to meet return expectations is spreading, and signs of a money move are emerging not only among MZ-generation investors but also among older people. At the same time, concerns are growing over FOMO-driven investing and debt-financed stock purchases. Market watchers warn that volatility risks could increase if a deleveraging phase follows. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "預金金利2%台の魅力低下で株式待機資金が急増、FOMO投資と借入投資に警戒",
+        "excerpt": "韓国株が反発し銀行預金の魅力が低下するなか、株式市場への待機資金が増え、MZ世代を越えて高齢層にも資金移動の兆しが広がっている。",
+        "body": "最近、韓国株式市場が反発し、銀行の預金・積立商品の金利面での魅力が弱まるなか、投資待機資金が株式市場へ向かう流れが強まっている。年2%台の預金だけでは期待収益を満たしにくいとの認識が広がり、MZ世代だけでなく高齢層にもマネームーブの兆しが見られる。ただし、市場参加が急速に増える過程で、FOMO投資や借入による投資への懸念も高まっている。今後デレバレッジ局面に入れば、変動性リスクが大きくなる可能性があるとの警告が出ている。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "2%存款利率吸引力下降推升股市待命资金，FOMO与借钱投资警讯升温",
+        "excerpt": "韩国股市近期反弹、银行存款吸引力下降，股市待命资金增加，资金迁移迹象正从MZ世代扩大到老年群体。",
+        "body": "近期韩国股市反弹，银行存款和定期储蓄的利率吸引力减弱，投资待命资金流向股市的趋势正在扩大。随着“仅靠年化2%左右存款难以满足收益期待”的认知扩散，资金迁移迹象不仅出现在MZ世代，也延伸至老年群体。不过，在市场参与快速增加的过程中，FOMO投资以及借钱投资的担忧也同步升温。有观点警告称，若今后进入去杠杆阶段，市场波动风险可能加大。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "La menor atracción de depósitos al 2% impulsa efectivo hacia bolsa y alertas por FOMO y deuda",
+        "excerpt": "Con el repunte bursátil en Corea y menor atractivo de los depósitos, crece el dinero a la espera de invertir y el movimiento alcanza a jóvenes y mayores.",
+        "body": "El reciente repunte del mercado bursátil local y la pérdida de atractivo de los depósitos y cuentas de ahorro bancarias están ampliando el flujo de fondos hacia las acciones. Se extiende la percepción de que los depósitos con rendimientos anuales en torno al 2% no bastan para cubrir las expectativas de rentabilidad, y las señales de traslado de dinero aparecen no solo entre la generación MZ, sino también entre personas mayores. Sin embargo, junto con el aumento rápido de la participación en el mercado, crecen las advertencias sobre inversión por FOMO y compras financiadas con deuda. Si llega una fase de desapalancamiento, el riesgo de volatilidad podría aumentar. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Depósitos a 2% perdem apelo, dinheiro migra para ações e alerta cresce sobre FOMO e dívida",
+        "excerpt": "Com a recuperação da bolsa coreana e menor atratividade dos depósitos bancários, aumenta o capital à espera de ações, com movimento também entre idosos.",
+        "body": "A recente recuperação do mercado acionário doméstico e a perda de atratividade dos depósitos e poupanças bancárias estão ampliando o fluxo de recursos para a bolsa. Espalha-se a percepção de que depósitos com retorno anual na faixa de 2% não bastam para atender às expectativas de rendimento, e sinais de migração de dinheiro aparecem não apenas entre a geração MZ, mas também entre idosos. Ao mesmo tempo, crescem as preocupações com investimentos motivados por FOMO e compras de ações financiadas por dívida. Caso venha uma fase de desalavancagem, o risco de volatilidade pode aumentar. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Sinkende Attraktivität von 2%-Einlagen treibt Börsengelder, Warnungen vor FOMO und Kreditkäufen",
+        "excerpt": "Mit der Erholung koreanischer Aktien und schwächeren Bankeinlagen wächst das wartende Börsenkapital, während der Geldwechsel auch ältere Anleger erreicht.",
+        "body": "Die jüngste Erholung des heimischen Aktienmarkts und die nachlassende Attraktivität von Bankeinlagen und Sparprodukten verstärken den Zufluss wartender Anlagegelder in Aktien. Die Einschätzung, dass Einlagen mit rund 2% Jahreszins die Renditeerwartungen kaum erfüllen, verbreitet sich. Anzeichen einer Geldverlagerung zeigen sich nicht nur bei der MZ-Generation, sondern auch bei älteren Menschen. Zugleich nehmen die Sorgen über FOMO-getriebene Anlagen und kreditfinanzierte Aktienkäufe zu. Beobachter warnen, dass in einer späteren Deleveraging-Phase die Volatilitätsrisiken steigen könnten. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Les dépôts à 2% perdent leur attrait, les liquidités affluent vers les actions et l’alerte FOMO monte",
+        "excerpt": "Avec le rebond de la Bourse coréenne et le moindre attrait des dépôts bancaires, les capitaux en attente d’actions augmentent, y compris chez les seniors.",
+        "body": "Le récent rebond du marché boursier national et la baisse d’attrait des dépôts et produits d’épargne bancaires renforcent le déplacement de capitaux en attente vers les actions. L’idée que des dépôts offrant environ 2% par an ne suffisent pas à répondre aux attentes de rendement se diffuse, et les signes de mouvement d’argent apparaissent non seulement chez la génération MZ, mais aussi chez les personnes âgées. En parallèle, les inquiétudes grandissent autour des investissements motivés par le FOMO et des achats financés par l’endettement. En cas de phase de désendettement, le risque de volatilité pourrait augmenter. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "تراجع جاذبية ودائع 2% يدفع السيولة نحو الأسهم ويزيد التحذير من استثمار FOMO والديون",
+        "excerpt": "مع تعافي الأسهم الكورية وتراجع جاذبية الودائع المصرفية، ترتفع الأموال المنتظرة لدخول السوق وتمتد حركة انتقال السيولة إلى كبار السن.",
+        "body": "مع التعافي الأخير في سوق الأسهم المحلية وتراجع جاذبية الودائع وحسابات الادخار المصرفية، يتزايد انتقال الأموال المنتظرة للاستثمار نحو الأسهم. وينتشر إدراك بأن الودائع ذات العائد السنوي في نطاق 2% لا تكفي لتلبية توقعات العائد، لتظهر مؤشرات انتقال السيولة ليس فقط بين جيل MZ بل أيضا بين كبار السن. في المقابل، تتزايد المخاوف من الاستثمار المدفوع بالخوف من تفويت الفرصة، ومن الاستثمار بالاقتراض. وتحذر آراء السوق من أن مرحلة خفض المديونية لاحقا قد ترفع مخاطر التقلب. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "2% जमा दरों की चमक घटने से शेयरों में प्रतीक्षारत नकदी बढ़ी, FOMO और कर्ज निवेश पर चेतावनी",
+        "excerpt": "कोरियाई शेयर बाजार में हालिया सुधार और बैंक जमा की घटती अपील के बीच इक्विटी के लिए प्रतीक्षारत नकदी बढ़ रही है और यह रुझान बुजुर्गों तक फैल रहा है।",
+        "body": "घरेलू शेयर बाजार में हालिया सुधार और बैंक जमा तथा बचत उत्पादों की घटती आकर्षकता के बीच निवेश के लिए प्रतीक्षारत धन शेयर बाजार की ओर बढ़ता दिख रहा है। यह धारणा फैल रही है कि सालाना करीब 2% जमा दरों से रिटर्न की उम्मीद पूरी करना कठिन है, और धन स्थानांतरण के संकेत MZ पीढ़ी के साथ-साथ बुजुर्गों में भी दिख रहे हैं। हालांकि बाजार भागीदारी तेजी से बढ़ने के साथ FOMO आधारित निवेश और कर्ज लेकर निवेश करने को लेकर चिंता भी बढ़ रही है। बाजार में चेतावनी है कि आगे डिलीवरेजिंग चरण आने पर अस्थिरता का जोखिम बढ़ सकता है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Daya Tarik Deposito 2% Melemah, Dana Siaga Saham Melonjak dan Peringatan FOMO Menguat",
+        "excerpt": "Saat bursa Korea pulih dan deposito bank kurang menarik, dana tunggu untuk saham meningkat, dengan pergeseran uang meluas dari generasi MZ ke lansia.",
+        "body": "Pemulihan terbaru pasar saham domestik dan melemahnya daya tarik deposito serta tabungan bank membuat aliran dana tunggu menuju saham semakin besar. Pandangan bahwa deposito dengan bunga tahunan di kisaran 2% tidak cukup memenuhi ekspektasi imbal hasil makin menyebar, sementara tanda pergeseran uang muncul bukan hanya di kalangan generasi MZ tetapi juga lansia. Namun, seiring partisipasi pasar meningkat cepat, kekhawatiran terhadap investasi karena FOMO dan investasi dengan utang ikut membesar. Peringatan muncul bahwa risiko volatilitas dapat meningkat jika fase deleveraging terjadi. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "381f9f2a98b0",
+    "slug": "속보-코스피-또-사상최고-79818000피-턱밑까지-진군-909526",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-05-14T07:19:53.645Z",
+    "updatedAt": "2026-05-14T07:19:53.645Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/stock/12047605",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12047605",
+    "titleFingerprint": "c46930940f6932830decdaf88f0cbbc3e613476d",
+    "dedupKeys": [
+      "381f9f2a98b0247b9122468928b921d55741606e",
+      "c46930940f6932830decdaf88f0cbbc3e613476d",
+      "39572a83b65b830944cb62127500d6cf74d74a2a"
+    ],
+    "imageUrl": "/images/articles/381f9f2a98b0.jpg",
+    "i18n": {
+      "ko": {
+        "title": "코스피 사상최고 7981 기록, 8000선 턱밑까지 오른 국내 증시",
+        "excerpt": "코스피가 다시 사상 최고치인 7981을 기록하며 8000선에 바짝 다가섰다고 mk.co.kr이 속보로 전했다. 국내 증시의 핵심 지수 흐름에 관심이 집중된다.",
+        "body": "코스피가 또다시 사상 최고치를 경신하며 7981까지 올랐다고 mk.co.kr이 속보로 전했다. 이번 기록은 국내 증시 대표 지수인 코스피가 8000선에 근접했다는 점에서 시장의 주목을 받고 있다. 원문은 코스피가 ‘8000피’ 턱밑까지 진군했다고 표현하며 사상 최고 흐름을 강조했다. 구체적인 상승 배경이나 종목별 기여도, 거래대금 등 추가 수치는 제시되지 않았다. 투자자들은 코스피가 8000선에 실제로 도달할지와 사상 최고치 경신 흐름이 이어질지에 관심을 둘 것으로 보인다. 출처: mk.co.kr."
+      },
+      "en": {
+        "title": "KOSPI Hits Record 7,981, Moving Within Reach of the 8,000 Mark",
+        "excerpt": "KOSPI again reached an all-time high of 7,981 and moved close to the 8,000 level, mk.co.kr reported in a breaking-news item focused on Korea’s main stock index.",
+        "body": "KOSPI climbed again to an all-time high of 7,981, mk.co.kr reported in a breaking-news item. The record draws attention because South Korea’s benchmark stock index is now close to the 8,000 level. The original report described the move as an advance to just below “8,000 pi,” emphasizing the index’s record-setting momentum. No further details were provided on the specific reasons for the rise, individual stock contributions, trading value, or other related figures. Investors are likely to watch whether KOSPI actually reaches 8,000 and whether the latest record-high trend continues. Source: mk.co.kr."
+      },
+      "ja": {
+        "title": "KOSPIが史上最高値7981、8000台目前まで上昇した韓国株式市場",
+        "excerpt": "KOSPIが再び史上最高値の7981を記録し、8000台に迫ったとmk.co.krが速報で伝えた。韓国株式市場の代表指数の動きに注目が集まる。",
+        "body": "KOSPIが再び史上最高値を更新し、7981まで上昇したとmk.co.krが速報で伝えた。今回の記録は、韓国株式市場の代表指数であるKOSPIが8000台に近づいた点で市場の注目を集めている。原文はKOSPIが「8000ピ」の目前まで進んだと表現し、史上最高値の流れを強調した。上昇の具体的な背景、銘柄別の寄与度、売買代金などの追加数値は示されていない。投資家はKOSPIが実際に8000台に到達するか、史上最高値更新の流れが続くかに関心を向けるとみられる。出典: mk.co.kr."
+      },
+      "zh": {
+        "title": "KOSPI再创历史新高至7981，韩国股市逼近8000点关口",
+        "excerpt": "mk.co.kr以快讯报道，KOSPI再次创下7981的历史新高，距离8000点关口仅一步之遥，韩国主要股指走势受到市场关注。",
+        "body": "据mk.co.kr快讯报道，KOSPI再次刷新历史最高纪录，升至7981。该纪录受到关注，因为韩国股市代表性指数KOSPI已接近8000点关口。原文称KOSPI向“8000点”近前推进，突出了其创历史新高的走势。报道未提供此次上涨的具体背景、个股贡献度、成交金额等更多相关数据。投资者或将关注KOSPI能否真正站上8000点，以及刷新历史高点的走势是否延续。来源: mk.co.kr."
+      },
+      "es": {
+        "title": "KOSPI marca récord de 7.981 y queda a un paso del nivel de 8.000",
+        "excerpt": "KOSPI volvió a alcanzar un máximo histórico de 7.981 y se acercó al nivel de 8.000, informó mk.co.kr en una alerta sobre el principal índice bursátil de Corea.",
+        "body": "KOSPI volvió a subir hasta un máximo histórico de 7.981, informó mk.co.kr en una alerta de última hora. El dato atrae atención porque el índice bursátil de referencia de Corea del Sur queda cerca del nivel de 8.000. El informe original señaló que KOSPI avanzó hasta quedar justo por debajo de los “8.000 pi”, subrayando su impulso de récord. No se ofrecieron más detalles sobre las razones concretas del alza, la contribución por valores, el volumen negociado u otras cifras relacionadas. Los inversores observarán si KOSPI alcanza efectivamente los 8.000 y si continúa la racha de máximos históricos. Fuente: mk.co.kr."
+      },
+      "pt": {
+        "title": "KOSPI atinge recorde de 7.981 e se aproxima do nível de 8.000",
+        "excerpt": "O KOSPI voltou a marcar máxima histórica de 7.981 e ficou perto do patamar de 8.000, informou o mk.co.kr em notícia urgente sobre o principal índice da Coreia.",
+        "body": "O KOSPI voltou a subir e atingiu a máxima histórica de 7.981, informou o mk.co.kr em uma notícia urgente. O recorde chama atenção porque o principal índice acionário da Coreia do Sul está agora próximo do nível de 8.000. O texto original descreveu o movimento como um avanço até logo abaixo dos “8.000 pi”, destacando a sequência de máximas históricas. Não foram apresentados detalhes adicionais sobre os motivos específicos da alta, a contribuição de ações individuais, o valor negociado ou outros números relacionados. Investidores devem acompanhar se o KOSPI chegará de fato a 8.000 e se a tendência de recordes continuará. Fonte: mk.co.kr."
+      },
+      "de": {
+        "title": "KOSPI erreicht Rekordstand von 7.981 und rückt nahe an 8.000 heran",
+        "excerpt": "Der KOSPI stieg erneut auf ein Allzeithoch von 7.981 und näherte sich der Marke von 8.000, berichtete mk.co.kr in einer Eilmeldung zum wichtigsten Aktienindex Koreas.",
+        "body": "Der KOSPI ist erneut auf ein Allzeithoch gestiegen und erreichte 7.981, berichtete mk.co.kr in einer Eilmeldung. Der Rekord erhält Aufmerksamkeit, weil Südkoreas Leitindex damit nahe an die Marke von 8.000 heranrückt. Der Originalbericht beschrieb den Anstieg als Vorstoß bis knapp unter “8.000 pi” und hob damit die Rekorddynamik hervor. Weitere Angaben zu konkreten Gründen für den Anstieg, Beiträgen einzelner Aktien, Handelsvolumen oder anderen Kennzahlen wurden nicht genannt. Anleger dürften nun beobachten, ob der KOSPI tatsächlich 8.000 erreicht und ob die Serie neuer Höchststände anhält. Quelle: mk.co.kr."
+      },
+      "fr": {
+        "title": "Le KOSPI atteint un record à 7 981 et se rapproche du seuil de 8 000",
+        "excerpt": "Le KOSPI a de nouveau inscrit un plus haut historique à 7 981 et s’est rapproché du seuil de 8 000, a rapporté mk.co.kr dans une alerte sur l’indice coréen.",
+        "body": "Le KOSPI a de nouveau progressé jusqu’à un plus haut historique de 7 981, a rapporté mk.co.kr dans une alerte. Ce record retient l’attention car l’indice de référence du marché sud-coréen se rapproche désormais du seuil de 8 000. L’article original a décrit ce mouvement comme une avancée jusqu’au seuil des “8 000 pi”, soulignant la dynamique de records. Aucun autre détail n’a été donné sur les raisons précises de la hausse, la contribution des valeurs individuelles, le montant des échanges ou d’autres chiffres liés. Les investisseurs suivront si le KOSPI atteint effectivement 8 000 et si la série de records se poursuit. Source: mk.co.kr."
+      },
+      "ar": {
+        "title": "مؤشر كوسبي يسجل ذروة تاريخية عند 7981 ويقترب من مستوى 8000",
+        "excerpt": "أفاد mk.co.kr في خبر عاجل بأن مؤشر كوسبي سجل مجددا أعلى مستوى تاريخي عند 7981 مقتربا من مستوى 8000، ما يسلط الضوء على حركة المؤشر الكوري الرئيسي.",
+        "body": "سجل مؤشر كوسبي مجددا أعلى مستوى تاريخي وبلغ 7981، وفق ما أفاد mk.co.kr في خبر عاجل. وتحظى هذه القراءة بالاهتمام لأن المؤشر القياسي لسوق الأسهم في كوريا الجنوبية أصبح قريبا من مستوى 8000. ووصف التقرير الأصلي الحركة بأنها تقدم إلى ما دون “8000 بي” مباشرة، مؤكدا زخم تسجيل القمم التاريخية. ولم يورد التقرير تفاصيل إضافية عن الأسباب المحددة للصعود أو مساهمة الأسهم الفردية أو قيمة التداول أو أرقام أخرى مرتبطة. ومن المتوقع أن يراقب المستثمرون ما إذا كان كوسبي سيصل فعليا إلى 8000 وما إذا كان مسار تسجيل القمم التاريخية سيستمر. المصدر: mk.co.kr."
+      },
+      "hi": {
+        "title": "KOSPI 7,981 के रिकॉर्ड उच्च स्तर पर, 8,000 के करीब पहुंचा कोरियाई बाजार",
+        "excerpt": "mk.co.kr की ब्रेकिंग रिपोर्ट के अनुसार KOSPI फिर 7,981 के सर्वकालिक उच्च स्तर पर पहुंचा और 8,000 के करीब आया, जिससे कोरिया के प्रमुख शेयर सूचकांक पर ध्यान बढ़ा।",
+        "body": "mk.co.kr की ब्रेकिंग रिपोर्ट के अनुसार KOSPI फिर सर्वकालिक उच्च स्तर बनाते हुए 7,981 तक पहुंच गया। यह रिकॉर्ड इसलिए ध्यान खींचता है क्योंकि दक्षिण कोरिया का प्रमुख शेयर सूचकांक अब 8,000 के स्तर के करीब है। मूल रिपोर्ट ने कहा कि KOSPI “8,000 pi” के ठीक नीचे तक बढ़ा, जिससे रिकॉर्ड ऊंचाई की रफ्तार पर जोर दिया गया। तेजी के विशिष्ट कारणों, अलग-अलग शेयरों के योगदान, कारोबार मूल्य या अन्य संबंधित आंकड़ों पर अतिरिक्त जानकारी नहीं दी गई। निवेशक यह देखेंगे कि KOSPI वास्तव में 8,000 तक पहुंचता है या नहीं और सर्वकालिक उच्च स्तर बनाने का सिलसिला जारी रहता है या नहीं। स्रोत: mk.co.kr."
+      },
+      "id": {
+        "title": "KOSPI Cetak Rekor 7.981, Indeks Korea Kian Dekat ke Level 8.000",
+        "excerpt": "KOSPI kembali mencetak rekor tertinggi sepanjang masa di 7.981 dan mendekati level 8.000, menurut laporan kilat mk.co.kr tentang indeks saham utama Korea.",
+        "body": "KOSPI kembali naik dan mencetak rekor tertinggi sepanjang masa di 7.981, menurut laporan kilat mk.co.kr. Rekor ini menarik perhatian karena indeks saham acuan Korea Selatan kini mendekati level 8.000. Laporan asli menggambarkan pergerakan tersebut sebagai langkah menuju tepat di bawah “8.000 pi”, menegaskan momentum rekor tertinggi. Tidak ada rincian tambahan mengenai alasan spesifik kenaikan, kontribusi masing-masing saham, nilai transaksi, atau angka terkait lainnya. Investor kemungkinan akan memantau apakah KOSPI benar-benar mencapai 8.000 dan apakah tren pencetakan rekor tertinggi berlanjut. Sumber: mk.co.kr."
+      }
+    }
+  },
+  {
+    "id": "3d920b4dbbad",
+    "slug": "오른-삼전-대신-빠진-닉스로로보스타도-관심-주식-초고수는-지금-405399",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-05-14T07:18:39.235Z",
+    "updatedAt": "2026-05-14T07:18:39.235Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/stock/12047610",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12047610",
+    "titleFingerprint": "d942690ae1556f608d782f354adb15d507d24a3d",
+    "dedupKeys": [
+      "3d920b4dbbadbf9beec984fbf6cb70f8de681cd4",
+      "d942690ae1556f608d782f354adb15d507d24a3d",
+      "97453358ae45108f19544d2cc0ffe17ebd07555d"
+    ],
+    "imageUrl": "/images/articles/3d920b4dbbad.png",
+    "i18n": {
+      "ko": {
+        "title": "하이닉스·로보스타 매수세 집중, 초고수는 오른 삼성전자보다 빠진 종목 봤다",
+        "excerpt": "14일 오후 2시30분 기준 주식 투자 수익률 상위 1% 투자자들은 오른 삼성전자 대신 빠진 하이닉스를 공격적으로 매집했고, 로보틱스 핵심주 로보스타에도 관심을 보였다.",
+        "body": "14일 오후 2시30분 거래 동향에 따르면 주식 투자 수익률 상위 1% 초고수들은 상승한 삼성전자보다 하락한 하이닉스에 매수세를 집중했다. 원문은 초고수들이 오후 들어 전자 대신 닉스를 공격적으로 매집했다고 전했다. 로보틱스 관련 핵심 종목으로 꼽히는 로보스타도 초고수들의 관심 종목에 올랐다. 이날 흐름은 단기 가격 변동 속에서 반도체와 로보틱스 종목에 대한 고수 투자자의 선택이 어디로 향했는지를 보여준다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Hynix and Robostar Draw Top Investors as Samsung Electronics Rises",
+        "excerpt": "As of 2:30 p.m. on the 14th, the top 1% of stock investors by return aggressively bought weakened Hynix instead of rising Samsung Electronics, while also watching robotics name Robostar.",
+        "body": "According to trading trends at 2:30 p.m. on the 14th, the top 1% of stock investors by return focused buying on Hynix, which had fallen, rather than Samsung Electronics, which had risen. The original report said elite investors moved in the afternoon to accumulate “Nix” instead of electronics. Robostar, cited as a key robotics-related stock, also entered the group’s area of interest. The move shows where high-performing investors directed attention amid short-term price changes in semiconductors and robotics. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "ハイニックスとロボスターに買い関心、上昇サムスン電子より下落銘柄へ",
+        "excerpt": "14日午後2時30分時点で、株式投資収益率上位1%の投資家は上昇したサムスン電子ではなく下落したハイニックスを積極的に買い集め、ロボスターにも関心を示した。",
+        "body": "14日午後2時30分の取引動向によると、株式投資収益率上位1%の投資家は、上昇したサムスン電子よりも下落したハイニックスに買いを集中させた。原文は、超上級投資家が午後に入り電子の代わりにニックスを攻撃的に買い集めたと伝えた。ロボティクス関連の中核銘柄とされるロボスターも、彼らの注目銘柄に入った。この流れは短期的な価格変動の中で、半導体とロボティクス銘柄に対する高収益投資家の選択を示している。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "海力士与Robostar获顶尖投资者关注，资金转向下跌股",
+        "excerpt": "截至14日下午2点30分，股票投资收益率前1%的投资者没有追随上涨的三星电子，而是积极买入回落的海力士，并关注机器人核心股Robostar。",
+        "body": "根据14日下午2点30分的交易动向，股票投资收益率前1%的高手投资者把买盘集中在下跌的海力士，而不是已经上涨的三星电子。原文称，这些投资者进入下午后，选择积极吸纳“尼克斯”，而非电子股。被视为机器人相关核心标的的Robostar也进入其关注范围。该动向显示，在短期价格波动中，高收益投资者对半导体和机器人板块的选择方向。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Hynix y Robostar atraen a los inversores top frente al alza de Samsung Electronics",
+        "excerpt": "A las 14:30 del día 14, el 1% de inversores bursátiles con mayor rentabilidad compró de forma agresiva Hynix tras su caída, en vez de Samsung Electronics al alza, y miró Robostar.",
+        "body": "Según las tendencias de negociación de las 14:30 del día 14, el 1% de inversores bursátiles con mayor rentabilidad concentró compras en Hynix, que había retrocedido, más que en Samsung Electronics, que había subido. El reporte original señaló que los inversores expertos pasaron la tarde acumulando “Nix” en lugar de electrónica. Robostar, considerada una acción clave vinculada a la robótica, también entró en su foco. El movimiento muestra hacia dónde dirigieron su atención estos inversores en medio de variaciones de corto plazo en semiconductores y robótica. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Hynix e Robostar atraem investidores de elite enquanto Samsung Electronics sobe",
+        "excerpt": "Às 14h30 do dia 14, o 1% dos investidores em ações com maior retorno comprou agressivamente Hynix em queda, em vez de Samsung Electronics em alta, e também observou Robostar.",
+        "body": "Segundo as tendências de negociação das 14h30 do dia 14, o 1% dos investidores em ações com maior retorno concentrou compras em Hynix, que recuava, em vez de Samsung Electronics, que subia. A reportagem original afirmou que os investidores de elite passaram a tarde acumulando “Nix” no lugar de eletrônicos. A Robostar, citada como ação central ligada à robótica, também entrou no radar desse grupo. O movimento mostra para onde se voltou a atenção dos investidores de melhor desempenho em meio a oscilações de curto prazo em semicondutores e robótica. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Hynix und Robostar im Fokus der Top-Anleger statt gestiegener Samsung Electronics",
+        "excerpt": "Am 14. um 14:30 Uhr kauften die renditestärksten 1% der Aktienanleger verstärkt die gefallene Hynix statt der gestiegenen Samsung Electronics und richteten den Blick auch auf Robostar.",
+        "body": "Den Handelsdaten vom 14. um 14:30 Uhr zufolge konzentrierten die renditestärksten 1% der Aktienanleger ihre Käufe auf Hynix, die gefallen war, und weniger auf Samsung Electronics, die gestiegen war. Der Originalbericht meldete, dass diese erfahrenen Anleger am Nachmittag statt Elektronik aggressiv “Nix” einsammelten. Auch Robostar, ein als wichtiger Robotikwert genannter Titel, rückte in ihren Fokus. Die Entwicklung zeigt, wohin leistungsstarke Investoren bei kurzfristigen Kursbewegungen in Halbleitern und Robotik blickten. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Hynix et Robostar attirent les meilleurs investisseurs plutôt que Samsung Electronics en hausse",
+        "excerpt": "À 14h30 le 14, les 1% d’investisseurs actions les plus performants ont acheté Hynix en repli plutôt que Samsung Electronics en hausse, tout en s’intéressant aussi à Robostar.",
+        "body": "Selon les tendances de négociation à 14h30 le 14, les 1% d’investisseurs actions les plus performants ont concentré leurs achats sur Hynix, en baisse, plutôt que sur Samsung Electronics, en hausse. Le rapport original indique que ces investisseurs chevronnés ont accumulé l’après-midi “Nix” au lieu de l’électronique. Robostar, présenté comme une valeur clé liée à la robotique, a également figuré dans leur champ d’intérêt. Ce mouvement montre où s’est portée l’attention des investisseurs à haut rendement face aux variations de court terme des semi-conducteurs et de la robotique. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "هاينكس وروبوستار يجذبان كبار المستثمرين بدلا من سامسونغ إلكترونيكس الصاعدة",
+        "excerpt": "حتى الساعة 2:30 بعد ظهر يوم 14، ركز أعلى 1% من مستثمري الأسهم من حيث العائد على شراء هاينكس المتراجعة بدلا من سامسونغ إلكترونيكس الصاعدة، مع اهتمام بروبوستار.",
+        "body": "بحسب اتجاهات التداول عند الساعة 2:30 بعد ظهر يوم 14، ركز أعلى 1% من مستثمري الأسهم من حيث العائد مشترياتهم على هاينكس التي تراجعت، بدلا من سامسونغ إلكترونيكس التي ارتفعت. وذكر التقرير الأصلي أن المستثمرين المتمرسين اتجهوا بعد الظهر إلى تجميع “نيكس” بقوة بدلا من أسهم الإلكترونيات. كما دخلت روبوستار، المصنفة ضمن الأسهم الرئيسية المرتبطة بالروبوتات، دائرة اهتمامهم. ويظهر هذا التحرك أين توجه اختيار المستثمرين أصحاب الأداء المرتفع وسط تغيرات سعرية قصيرة الأجل في أشباه الموصلات والروبوتات. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "हाइनिक्स और रोबोस्टार पर टॉप निवेशकों की नजर, सैमसंग इलेक्ट्रॉनिक्स से हटकर खरीदारी",
+        "excerpt": "14 तारीख को दोपहर 2:30 बजे तक शेयर रिटर्न में शीर्ष 1% निवेशकों ने चढ़ी सैमसंग इलेक्ट्रॉनिक्स के बजाय गिरी हाइनिक्स को आक्रामक रूप से खरीदा और रोबोस्टार में भी रुचि दिखाई।",
+        "body": "14 तारीख को दोपहर 2:30 बजे के ट्रेडिंग रुझान के अनुसार, शेयर निवेश रिटर्न में शीर्ष 1% निवेशकों ने चढ़ी हुई सैमसंग इलेक्ट्रॉनिक्स के बजाय गिरी हुई हाइनिक्स में खरीदारी केंद्रित की। मूल रिपोर्ट में कहा गया कि दोपहर के बाद विशेषज्ञ निवेशकों ने इलेक्ट्रॉनिक्स की जगह “निक्स” को आक्रामक रूप से जमा किया। रोबोटिक्स से जुड़ा प्रमुख शेयर मानी जाने वाली रोबोस्टार भी उनकी रुचि सूची में शामिल रही। यह रुझान दिखाता है कि अल्पकालिक मूल्य उतार-चढ़ाव के बीच उच्च प्रदर्शन वाले निवेशकों का ध्यान सेमीकंडक्टर और रोबोटिक्स शेयरों में कहां गया। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Hynix dan Robostar Dilirik Investor Top, Bukan Samsung Electronics yang Naik",
+        "excerpt": "Pada pukul 14.30 tanggal 14, investor saham 1% teratas berdasarkan imbal hasil agresif mengakumulasi Hynix yang melemah, bukan Samsung Electronics yang naik, serta mencermati Robostar.",
+        "body": "Menurut tren transaksi pukul 14.30 pada tanggal 14, investor saham 1% teratas berdasarkan imbal hasil memusatkan pembelian pada Hynix yang turun, bukan Samsung Electronics yang naik. Laporan asli menyebut para investor berpengalaman pada siang hari mulai agresif mengakumulasi “Nix” alih-alih saham elektronik. Robostar, yang disebut sebagai saham inti terkait robotika, juga masuk daftar perhatian mereka. Pergerakan ini menunjukkan ke mana pilihan investor berkinerja tinggi mengarah di tengah perubahan harga jangka pendek pada saham semikonduktor dan robotika. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
     "id": "526849f9a69b",
     "slug": "벡트-글로벌-기업-스카이워스-led-제품-韓-독점-공급-협약-777071",
     "channelId": "ETF",
@@ -4271,231 +4496,6 @@
         "title": "NPS Naik 250 Triliun Won, Batas Kepemilikan Saham Domestik Jadi Sorotan",
         "excerpt": "National Pension Service Korea Selatan bertambah 250 triliun won tahun ini dan menguasai 7% kapitalisasi pasar saham domestik, memicu perhatian pada batas kepemilikan saham lokal.",
         "body": "National Pension Service Korea Selatan, investor institusi terbesar di negara itu, menjadi sorotan setelah bertambah 250 triliun won tahun ini, sementara pasar mencermati apakah batas kepemilikan saham domestiknya akan dinaikkan. NPS menguasai 7% kapitalisasi pasar saham domestik, sehingga keputusan investasinya di saham lokal memiliki pengaruh besar. Arah alokasi aset NPS juga memengaruhi strategi investor institusi lain serta menjadi variabel penting bagi 14 juta investor ritel. Pembahasan mengenai penyesuaian batas kepemilikan saham domestik meningkatkan perhatian pada peran NPS dan kondisi pasokan-permintaan di pasar saham lokal. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "57ffc33304ec",
-    "slug": "미래에셋그룹-시총-신한지주-제쳤다-은행-중심-금융질서-흔들-199419",
-    "channelId": "ETF",
-    "category": "etf",
-    "publishedAt": "2026-05-13T13:58:12.319Z",
-    "updatedAt": "2026-05-13T13:58:12.319Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/stock/12046438",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12046438",
-    "titleFingerprint": "48a213653123be7cebcd95a12a9fc5c9e5b774a0",
-    "dedupKeys": [
-      "57ffc33304ecea256cb54ed477989fa6181bfcbf",
-      "48a213653123be7cebcd95a12a9fc5c9e5b774a0",
-      "1b44ece2b5857295ab7445dfb2e835cdcc913fd7"
-    ],
-    "imageUrl": "/images/articles/57ffc33304ec.jpg",
-    "i18n": {
-      "ko": {
-        "title": "미래에셋그룹 시총, 신한지주 추월…은행 중심 금융질서 변화 주목",
-        "excerpt": "국내 증시 활황 속 시중 자금이 주식시장으로 이동하는 머니무브가 본격화되며 미래에셋그룹 시가총액이 신한지주를 제쳤다.",
-        "body": "국내 증시 활황과 함께 시중 자금이 주식시장으로 이동하는 ‘머니무브’가 본격화되면서 금융업계 지형도가 빠르게 바뀌고 있다. 이 흐름 속에서 미래에셋그룹의 시가총액은 신한지주를 제쳤다. 그동안 금융권 시가총액 상위권은 은행 중심 금융지주들이 주도해 왔지만, 주식시장으로 자금이 이동하면서 비은행 금융그룹의 존재감이 커지는 모습이다. 이번 변화는 국내 금융업계에서 은행 중심 질서가 흔들리고 있음을 보여주는 사례로 해석된다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Mirae Asset Market Cap Overtakes Shinhan as Bank-Led Finance Order Shifts",
-        "excerpt": "As South Korea’s stock market rallies and money moves into equities, Mirae Asset Group’s market value has surpassed Shinhan Financial Group.",
-        "body": "As South Korea’s stock market rally continues, a “money move” of funds into equities is reshaping the financial industry. Against this backdrop, Mirae Asset Group’s market capitalization has overtaken Shinhan Financial Group. For years, the top ranks of financial-sector market value were led by bank-centered financial holding companies. Now, as more money flows into the stock market, non-bank financial groups are gaining greater visibility. The change illustrates how the bank-centered financial order in Korea is being unsettled. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "未来アセット時価総額が新韓金融を逆転、銀行中心の金融秩序に変化",
-        "excerpt": "韓国株式市場の活況で資金が株式市場へ移るマネームーブが本格化し、未来アセットグループの時価総額が新韓金融を上回った。",
-        "body": "韓国株式市場の活況に伴い、市中資金が株式市場へ移動する「マネームーブ」が本格化し、金融業界の勢力図が急速に変わっている。この流れの中で、未来アセットグループの時価総額は新韓金融グループを上回った。これまで金融圏の時価総額上位は銀行中心の金融持株会社が主導してきたが、資金が株式市場へ向かうことで非銀行金融グループの存在感が高まっている。今回の変化は、韓国金融業界で銀行中心の秩序が揺らいでいる事例と受け止められる。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "未来资产市值超过新韩金融，银行主导的金融格局出现变化",
-        "excerpt": "随着韩国股市活跃、资金加速流向股票市场，未来资产集团市值已超过新韩金融集团，金融行业格局正在改变。",
-        "body": "随着韩国股市持续活跃，市场资金流向股票市场的“资金迁移”正式加快，金融行业格局正在迅速变化。在这一背景下，未来资产集团的市值已经超过新韩金融集团。过去，韩国金融业市值排名前列主要由以银行为核心的金融控股公司主导；但随着资金进入股票市场，非银行金融集团的存在感正在增强。这一变化被视为韩国金融业银行中心秩序出现松动的案例。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Mirae Asset supera a Shinhan en capitalización y cambia el orden financiero bancario",
-        "excerpt": "Con el auge bursátil en Corea del Sur y el traslado de dinero hacia acciones, la capitalización de Mirae Asset Group superó a Shinhan Financial.",
-        "body": "El auge del mercado bursátil surcoreano y el avance del “money move”, con fondos desplazándose hacia las acciones, están cambiando rápidamente el mapa del sector financiero. En este contexto, la capitalización bursátil de Mirae Asset Group superó a la de Shinhan Financial Group. Durante años, los primeros puestos por valor de mercado en las finanzas estuvieron dominados por holdings centrados en bancos. Ahora, el flujo de dinero hacia la bolsa eleva la presencia de grupos financieros no bancarios. El cambio muestra que el orden financiero centrado en los bancos se está debilitando en Corea. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Mirae Asset supera Shinhan em valor de mercado e abala ordem financeira bancária",
-        "excerpt": "Com a alta da bolsa sul-coreana e a migração de recursos para ações, o valor de mercado do Mirae Asset Group superou o Shinhan Financial.",
-        "body": "A forte atividade do mercado acionário sul-coreano e a intensificação do “money move”, com recursos migrando para ações, estão mudando rapidamente o setor financeiro. Nesse cenário, o valor de mercado do Mirae Asset Group superou o do Shinhan Financial Group. Por muito tempo, as primeiras posições em valor de mercado no setor financeiro foram dominadas por holdings centradas em bancos. Agora, com mais dinheiro indo para a bolsa, grupos financeiros não bancários ganham destaque. A mudança indica que a ordem financeira baseada nos bancos está sendo abalada na Coreia. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Mirae Asset überholt Shinhan beim Börsenwert und rüttelt an Bankenordnung",
-        "excerpt": "Mit dem Aufschwung am südkoreanischen Aktienmarkt und dem Geldfluss in Aktien hat Mirae Asset Group Shinhan Financial beim Marktwert überholt.",
-        "body": "Der Aufschwung am südkoreanischen Aktienmarkt und die zunehmende Verlagerung von Kapital in Aktien verändern die Finanzbranche rasch. In diesem Umfeld hat die Marktkapitalisierung der Mirae Asset Group die von Shinhan Financial Group übertroffen. Lange wurden die Spitzenplätze nach Börsenwert im Finanzsektor von bankzentrierten Finanzholdings bestimmt. Nun gewinnen nichtbankliche Finanzgruppen an Sichtbarkeit, weil mehr Geld in den Aktienmarkt fließt. Diese Entwicklung zeigt, dass die bankenorientierte Finanzordnung in Korea ins Wanken gerät. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Mirae Asset dépasse Shinhan en capitalisation et bouscule l’ordre bancaire",
-        "excerpt": "Porté par la vigueur de la Bourse sud-coréenne et les flux vers les actions, Mirae Asset Group a dépassé Shinhan Financial en capitalisation.",
-        "body": "La vigueur du marché boursier sud-coréen et l’accélération du mouvement de capitaux vers les actions transforment rapidement le paysage financier. Dans ce contexte, la capitalisation boursière de Mirae Asset Group a dépassé celle de Shinhan Financial Group. Jusqu’ici, les premières places du secteur financier par valeur de marché étaient dominées par des holdings centrées sur les banques. Avec l’arrivée de davantage de fonds sur le marché actions, les groupes financiers non bancaires gagnent en présence. Ce changement illustre l’affaiblissement de l’ordre financier centré sur les banques en Corée. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "القيمة السوقية لميراي أسيت تتجاوز شينهان مع تراجع هيمنة البنوك",
-        "excerpt": "مع انتعاش سوق الأسهم الكورية وانتقال السيولة إلى الأسهم، تجاوزت القيمة السوقية لمجموعة ميراي أسيت مجموعة شينهان المالية.",
-        "body": "مع انتعاش سوق الأسهم في كوريا الجنوبية وتسارع انتقال السيولة إلى الأسهم، يتغير مشهد القطاع المالي بسرعة. وفي هذا السياق، تجاوزت القيمة السوقية لمجموعة ميراي أسيت القيمة السوقية لمجموعة شينهان المالية. لسنوات، كانت المراتب الأولى في القطاع المالي من حيث القيمة السوقية بقيادة شركات مالية قابضة تتمحور حول البنوك. أما الآن، فإن تدفق الأموال إلى سوق الأسهم يعزز حضور المجموعات المالية غير المصرفية. ويظهر هذا التحول أن النظام المالي القائم على هيمنة البنوك في كوريا بدأ يتعرض للاهتزاز. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "मिराए एसेट का मार्केट कैप शिनहान से आगे, बैंक-केंद्रित वित्तीय क्रम बदला",
-        "excerpt": "दक्षिण कोरिया के शेयर बाजार में तेजी और इक्विटी की ओर धन प्रवाह बढ़ने से मिराए एसेट ग्रुप का मार्केट कैप शिनहान फाइनेंशियल से आगे निकल गया।",
-        "body": "दक्षिण कोरिया के शेयर बाजार में तेजी के साथ बाजार की पूंजी शेयरों की ओर जाने वाला “मनी मूव” तेज हो रहा है, जिससे वित्तीय उद्योग का परिदृश्य तेजी से बदल रहा है। इसी पृष्ठभूमि में मिराए एसेट ग्रुप का बाजार पूंजीकरण शिनहान फाइनेंशियल ग्रुप से आगे निकल गया। अब तक वित्तीय क्षेत्र में बाजार मूल्य के शीर्ष स्थान बैंक-केंद्रित वित्तीय होल्डिंग कंपनियों के पास रहे थे। लेकिन शेयर बाजार में धन प्रवाह बढ़ने से गैर-बैंक वित्तीय समूहों की मौजूदगी मजबूत हो रही है। यह बदलाव कोरिया में बैंक-केंद्रित वित्तीय व्यवस्था के हिलने का उदाहरण माना जा रहा है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Kapitalisasi Mirae Asset Lampaui Shinhan, Tatanan Keuangan Berbasis Bank Bergeser",
-        "excerpt": "Di tengah reli pasar saham Korea Selatan dan arus dana ke saham, kapitalisasi pasar Mirae Asset Group melampaui Shinhan Financial Group.",
-        "body": "Reli pasar saham Korea Selatan dan menguatnya perpindahan dana ke pasar saham, atau “money move”, membuat peta industri keuangan berubah cepat. Dalam situasi ini, kapitalisasi pasar Mirae Asset Group telah melampaui Shinhan Financial Group. Selama ini, posisi teratas sektor keuangan berdasarkan nilai pasar didominasi perusahaan induk keuangan yang berpusat pada bank. Namun, seiring dana masuk ke pasar saham, kelompok keuangan nonbank semakin menonjol. Perubahan ini menunjukkan bahwa tatanan keuangan Korea yang berpusat pada bank mulai terguncang. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "3ccb274289a6",
-    "slug": "美월가도-권력재편-모건스탠리-뜨고-골드만삭스-주춤-496195",
-    "channelId": "ETF",
-    "category": "etf",
-    "publishedAt": "2026-05-13T13:56:57.695Z",
-    "updatedAt": "2026-05-13T13:56:57.695Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/stock/12046437",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12046437",
-    "titleFingerprint": "ce02c71fb7a7ec61ae48d5cd171d6f9a007b729e",
-    "dedupKeys": [
-      "3ccb274289a60dbbaadef3314e47a893796320fc",
-      "ce02c71fb7a7ec61ae48d5cd171d6f9a007b729e",
-      "f202c284b9963b86ff1212507922af258662b2ee"
-    ],
-    "imageUrl": "/images/articles/3ccb274289a6.jpg",
-    "i18n": {
-      "ko": {
-        "title": "모건스탠리 부상·골드만삭스 주춤, 월가 권력 재편 빨라진다",
-        "excerpt": "미국 월가에서 시장 변동성에 전통 투자은행들이 고전하는 가운데, 자산관리와 자산운용에 집중한 금융사들이 높은 기업가치를 인정받으며 판도 변화를 이끌고 있다.",
-        "body": "미국 월가에서 금융사 간 권력 구도가 바뀌고 있다. 시장 변동성이 커지며 전통적인 투자은행(IB) 명가들이 고전하는 사이, 자산관리(WM)와 자산운용에 집중한 금융사들이 사상 최고 수준의 기업가치를 인정받고 있다. 이 흐름 속에서 모건스탠리는 상대적으로 부상하고, 골드만삭스는 주춤하는 모습이다. 투자은행 중심의 수익 구조가 흔들리는 반면, 자산관리와 운용 부문을 키운 회사들이 시장에서 더 높은 평가를 받는 점이 핵심이다. 월가의 경쟁 축이 IB에서 WM과 자산운용으로 이동하면서 금융사들의 전략과 기업가치 평가에도 변화가 이어질 전망이다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Morgan Stanley Rises as Goldman Sachs Slows in Wall Street Power Shift",
-        "excerpt": "On Wall Street, traditional investment banks are struggling with market volatility while firms focused on wealth and asset management gain record-level valuations.",
-        "body": "A shift in power is taking shape on Wall Street in the United States. As market volatility weighs on traditional investment banking names, financial firms focused on wealth management and asset management are being valued at record-high levels. In this trend, Morgan Stanley is gaining ground while Goldman Sachs appears to be slowing. The key change is that investment-banking-centered earnings models are under pressure, while companies that expanded wealth and asset management are receiving stronger market recognition. As Wall Street’s competitive focus moves from IB toward WM and asset management, financial firms’ strategies and valuations are expected to keep changing. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "モルガン・スタンレー浮上、ゴールドマン減速でウォール街再編",
-        "excerpt": "米ウォール街では市場変動に伝統的な投資銀行が苦戦する一方、ウェルスマネジメントと資産運用に注力する金融機関が高い企業価値を得ている。",
-        "body": "米ウォール街で金融機関の勢力図が変わりつつある。市場の変動性が高まるなか、伝統的な投資銀行（IB）の名門が苦戦する一方、ウェルスマネジメント（WM）と資産運用に注力してきた金融機関は過去最高水準の企業価値を認められている。この流れの中でモルガン・スタンレーは相対的に浮上し、ゴールドマン・サックスは勢いを欠く姿となっている。IB中心の収益構造が揺らぐ一方、WMと資産運用を拡大した企業が市場でより高く評価されている点が核心だ。競争軸がIBからWMと資産運用へ移るなか、各社の戦略と企業価値評価にも変化が続く見通しだ。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "摩根士丹利走强、高盛放缓，华尔街权力格局加速重塑",
-        "excerpt": "在美国华尔街，传统投资银行因市场波动承压，而聚焦财富管理和资产管理的金融机构正获得接近历史高位的企业估值。",
-        "body": "美国华尔街的金融机构权力格局正在发生变化。随着市场波动加剧，传统投资银行（IB）名门陷入苦战，而专注于财富管理（WM）和资产管理的金融公司则获得了历史最高水平的企业价值认可。在这一趋势下，摩根士丹利相对走强，高盛则显得步伐放缓。核心变化在于，以投资银行业务为中心的盈利结构受到冲击，而扩大财富管理和资产管理业务的公司获得了市场更高评价。随着华尔街竞争重心从IB转向WM和资产管理，金融机构的战略和企业价值评估预计也将继续变化。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Morgan Stanley avanza y Goldman Sachs pierde ritmo en el nuevo poder de Wall Street",
-        "excerpt": "En Wall Street, los bancos de inversión tradicionales sufren por la volatilidad del mercado mientras firmas centradas en gestión patrimonial y activos logran valoraciones récord.",
-        "body": "El equilibrio de poder entre las firmas financieras de Wall Street está cambiando en Estados Unidos. Mientras la volatilidad del mercado golpea a las tradicionales casas de banca de inversión (IB), las compañías enfocadas en gestión patrimonial (WM) y gestión de activos reciben valoraciones corporativas en niveles históricamente altos. En esta tendencia, Morgan Stanley gana terreno de forma relativa, mientras Goldman Sachs muestra señales de pausa. El cambio clave es que el modelo de ingresos centrado en banca de inversión se ve presionado, mientras las firmas que ampliaron gestión patrimonial y de activos obtienen mayor reconocimiento del mercado. A medida que la competencia pasa de IB a WM y gestión de activos, seguirán cambiando las estrategias y valoraciones. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Morgan Stanley sobe e Goldman Sachs perde fôlego na mudança de poder em Wall Street",
-        "excerpt": "Em Wall Street, bancos de investimento tradicionais enfrentam volatilidade, enquanto firmas focadas em gestão de patrimônio e ativos recebem avaliações recordes.",
-        "body": "A configuração de poder entre instituições financeiras de Wall Street está mudando nos Estados Unidos. Com o aumento da volatilidade do mercado, nomes tradicionais da banca de investimento (IB) enfrentam dificuldades, enquanto empresas voltadas à gestão de patrimônio (WM) e à gestão de ativos recebem avaliações corporativas em níveis historicamente elevados. Nesse movimento, o Morgan Stanley ganha destaque relativo, enquanto o Goldman Sachs mostra perda de ritmo. O ponto central é que a estrutura de receitas baseada em IB está sob pressão, ao passo que companhias que ampliaram WM e gestão de ativos são mais valorizadas pelo mercado. Com o eixo competitivo migrando de IB para WM e gestão de ativos, estratégias e avaliações devem continuar mudando. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Morgan Stanley steigt, Goldman Sachs stockt: Machtwechsel an der Wall Street",
-        "excerpt": "An der Wall Street geraten klassische Investmentbanken durch Marktvolatilität unter Druck, während auf Vermögensverwaltung fokussierte Finanzfirmen Rekordbewertungen erzielen.",
-        "body": "An der Wall Street in den USA verschiebt sich das Kräfteverhältnis zwischen Finanzfirmen. Während zunehmende Marktvolatilität traditionelle Investmentbanken (IB) belastet, werden Unternehmen mit Schwerpunkt auf Wealth Management (WM) und Asset Management mit Unternehmenswerten auf Rekordniveau bewertet. In diesem Umfeld gewinnt Morgan Stanley relativ an Bedeutung, während Goldman Sachs ins Stocken gerät. Der zentrale Punkt ist, dass ertragsstarke Modelle mit Fokus auf Investmentbanking unter Druck stehen, während Firmen mit ausgebauter Vermögens- und Anlagenverwaltung vom Markt höher bewertet werden. Wenn sich der Wettbewerbsschwerpunkt von IB zu WM und Asset Management verlagert, dürften sich Strategien und Bewertungen weiter verändern. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Morgan Stanley progresse, Goldman Sachs ralentit dans le basculement de Wall Street",
-        "excerpt": "À Wall Street, les banques d’investissement traditionnelles souffrent de la volatilité, tandis que les acteurs centrés sur la gestion de patrimoine et d’actifs obtiennent des valorisations record.",
-        "body": "Le rapport de force entre les sociétés financières de Wall Street évolue aux États-Unis. Alors que la volatilité des marchés pèse sur les grandes banques d’investissement traditionnelles (IB), les entreprises axées sur la gestion de patrimoine (WM) et la gestion d’actifs obtiennent des valorisations d’entreprise à des niveaux historiques. Dans ce mouvement, Morgan Stanley se renforce relativement, tandis que Goldman Sachs marque le pas. Le point central est que les modèles de revenus centrés sur la banque d’investissement sont fragilisés, alors que les sociétés ayant développé la gestion de patrimoine et d’actifs sont mieux reconnues par le marché. À mesure que l’axe concurrentiel se déplace de l’IB vers le WM et la gestion d’actifs, les stratégies et valorisations devraient continuer d’évoluer. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "مورغان ستانلي يصعد وغولدمان ساكس يتباطأ مع تبدل موازين وول ستريت",
-        "excerpt": "في وول ستريت، تواجه بنوك الاستثمار التقليدية ضغوط تقلبات السوق، بينما تحظى الشركات المركزة على إدارة الثروات والأصول بتقييمات قياسية.",
-        "body": "تشهد وول ستريت في الولايات المتحدة تغيرا في موازين القوة بين المؤسسات المالية. فمع اتساع تقلبات السوق، تكافح الأسماء التقليدية في بنوك الاستثمار، بينما تنال الشركات التي تركز على إدارة الثروات وإدارة الأصول تقديرات لقيمتها المؤسسية عند مستويات قياسية. وفي هذا الاتجاه، يبرز مورغان ستانلي نسبيا، في حين يبدو غولدمان ساكس متباطئا. جوهر التحول أن نموذج الإيرادات المرتكز على الخدمات المصرفية الاستثمارية يتعرض لضغط، بينما تحظى الشركات التي عززت إدارة الثروات والأصول بتقييم أعلى في السوق. ومع انتقال محور المنافسة في وول ستريت من بنوك الاستثمار إلى إدارة الثروات والأصول، يتوقع استمرار التغير في الاستراتيجيات والتقييمات. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "मॉर्गन स्टैनली उभरा, गोल्डमैन सैक्स सुस्त: वॉल स्ट्रीट में शक्ति बदलाव",
-        "excerpt": "अमेरिकी वॉल स्ट्रीट में बाजार अस्थिरता से पारंपरिक निवेश बैंक दबाव में हैं, जबकि वेल्थ और एसेट मैनेजमेंट पर केंद्रित कंपनियां रिकॉर्ड मूल्यांकन पा रही हैं।",
-        "body": "अमेरिका की वॉल स्ट्रीट में वित्तीय कंपनियों के बीच शक्ति संतुलन बदल रहा है। बाजार में अस्थिरता बढ़ने से पारंपरिक निवेश बैंकिंग (IB) के बड़े नाम संघर्ष कर रहे हैं, जबकि वेल्थ मैनेजमेंट (WM) और एसेट मैनेजमेंट पर ध्यान देने वाली वित्तीय कंपनियों को ऐतिहासिक रूप से ऊंचे कॉरपोरेट वैल्यूएशन मिल रहे हैं। इसी रुझान में मॉर्गन स्टैनली अपेक्षाकृत उभर रहा है, जबकि गोल्डमैन सैक्स की रफ्तार धीमी दिख रही है। मुख्य बदलाव यह है कि निवेश बैंकिंग केंद्रित आय ढांचा दबाव में है, जबकि WM और एसेट मैनेजमेंट बढ़ाने वाली कंपनियों को बाजार अधिक महत्व दे रहा है। जैसे-जैसे प्रतिस्पर्धा का केंद्र IB से WM और एसेट मैनेजमेंट की ओर जा रहा है, रणनीतियों और वैल्यूएशन में बदलाव जारी रह सकता है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Morgan Stanley Menguat, Goldman Sachs Melambat dalam Pergeseran Wall Street",
-        "excerpt": "Di Wall Street AS, bank investasi tradisional tertekan volatilitas pasar, sementara firma yang fokus pada manajemen kekayaan dan aset meraih valuasi rekor.",
-        "body": "Peta kekuatan antarlembaga keuangan di Wall Street, Amerika Serikat, sedang berubah. Ketika volatilitas pasar meningkat dan menekan nama-nama besar bank investasi (IB) tradisional, perusahaan keuangan yang berfokus pada manajemen kekayaan (WM) dan manajemen aset justru mendapat pengakuan nilai perusahaan pada tingkat tertinggi dalam sejarah. Dalam arus ini, Morgan Stanley relatif menguat, sementara Goldman Sachs tampak melambat. Inti perubahannya adalah struktur pendapatan berbasis bank investasi sedang goyah, sedangkan perusahaan yang membesarkan bisnis WM dan manajemen aset dinilai lebih tinggi oleh pasar. Saat pusat persaingan Wall Street bergeser dari IB ke WM dan manajemen aset, strategi dan penilaian perusahaan keuangan diperkirakan terus berubah. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "5b1fb097c23a",
-    "slug": "산에서-야호-대신-삼전-가즈아산기운점괘까지-요즘-투자시장-어찌하오리까-723933",
-    "channelId": "ETF",
-    "category": "etf",
-    "publishedAt": "2026-05-13T13:55:47.167Z",
-    "updatedAt": "2026-05-13T13:55:47.167Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/stock/12046748",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12046748",
-    "titleFingerprint": "6cb41d2b0c14841bed254db331a433f2c4128d70",
-    "dedupKeys": [
-      "5b1fb097c23a5f0f2393fc202fc0c1541d1419a6",
-      "6cb41d2b0c14841bed254db331a433f2c4128d70",
-      "35917df082676f634332a61f7db75542776d2791"
-    ],
-    "imageUrl": "/images/articles/5b1fb097c23a.jpg",
-    "i18n": {
-      "ko": {
-        "title": "코스피 7800선 돌파에 ‘샤머니즘 투자’ 확산, 점괘로 방향 찾는 투자자들",
-        "excerpt": "코스피가 7800선을 넘어 8000선을 바라보는 가운데 일부 투자자들이 투자 방향을 정하기 위해 역술·타로 상담을 찾는 ‘샤머니즘 투자’ 현상이 나타나고 있다.",
-        "body": "코스피가 7800선을 넘어서며 8000선 진입 기대가 커지는 가운데, 일부 투자자들이 투자 방향을 정하기 위해 역술인이나 타로 카페를 찾는 이른바 ‘샤머니즘 투자’ 흐름이 나타나고 있다. 주식시장 상승세 속에서 산에서 ‘야호’ 대신 ‘삼전 가즈아’를 외치는 분위기까지 전해지며, 투자 판단을 전통적 분석뿐 아니라 운세와 점괘에 기대려는 모습이 함께 부각되고 있다. 이러한 현상은 시장 열기가 커질수록 개인 투자자들의 불안과 기대가 동시에 커지고 있음을 보여준다. 다만 원문은 이 흐름을 투자시장 주변의 풍경으로 소개하고 있으며, 구체적인 투자 성과나 전망을 제시하지는 않았다. 출처: mk.co.kr."
-      },
-      "en": {
-        "title": "KOSPI Tops 7,800 as ‘Shamanism Investing’ Draws Investors Seeking Signs",
-        "excerpt": "As the KOSPI rises past 7,800 and approaches 8,000, some investors are turning to fortune tellers and tarot cafes for guidance on investment direction.",
-        "body": "As the KOSPI has climbed above the 7,800 mark and investors look toward a possible move to 8,000, some market participants are seeking advice from fortune tellers or tarot cafes to decide their investment direction, a trend described as ‘shamanism investing.’ The original report also notes a market mood in which people shout “Samsung Electronics, let’s go” instead of “yahoo” in the mountains, highlighting how strong stock-market enthusiasm has reached everyday scenes. The trend suggests that, amid a rising market, individual investors’ expectations and anxieties are appearing together. The source presents this as a market-side phenomenon and does not provide specific investment results or forecasts. Source: mk.co.kr."
-      },
-      "ja": {
-        "title": "KOSPI7800突破で広がる「シャーマニズム投資」、占いに向かう投資家",
-        "excerpt": "KOSPIが7800を超え8000を視野に入れる中、一部投資家が投資方向を決めるため占い師やタロットカフェを訪れる現象が見られている。",
-        "body": "KOSPIが7800を上回り、8000台入りへの期待が高まる中、一部の投資家が投資の方向性を決めるために占い師やタロットカフェを訪れる、いわゆる「シャーマニズム投資」の動きが出ている。原文では、山で「ヤッホー」の代わりに「サムスン電子、行け」と叫ぶような雰囲気まで伝えられ、株式市場の熱気が日常の場面にも及んでいることが示された。こうした現象は、相場上昇局面で個人投資家の期待と不安が同時に膨らんでいることを映している。ただし原文はこの流れを投資市場周辺の風景として紹介しており、具体的な投資成果や見通しは示していない。出典: mk.co.kr."
-      },
-      "zh": {
-        "title": "KOSPI突破7800点后“巫俗投资”升温，投资者用占卜找方向",
-        "excerpt": "在KOSPI突破7800点并逼近8000点之际，部分投资者为决定投资方向，开始前往命理师和塔罗咖啡馆咨询。",
-        "body": "随着KOSPI突破7800点并向8000点迈进，部分投资者为决定投资方向，前往命理师或塔罗咖啡馆咨询，形成所谓“巫俗投资”现象。原文还提到，在山上不喊“呀呼”，而喊“三星电子冲啊”的市场氛围，显示股市热度已延伸到日常场景。此类现象反映出，在市场上涨过程中，个人投资者的期待与不安正在同时扩大。文章将这一趋势作为当前投资市场周边景象进行介绍，并未提出具体投资成果或后续走势判断。来源: mk.co.kr."
-      },
-      "es": {
-        "title": "KOSPI supera 7.800 y crece la ‘inversión chamánica’ entre quienes buscan señales",
-        "excerpt": "Con el KOSPI por encima de 7.800 y mirando hacia 8.000, algunos inversores acuden a videntes y cafés de tarot para decidir su rumbo de inversión.",
-        "body": "Mientras el KOSPI supera los 7.800 puntos y aumenta la expectativa de que se acerque a los 8.000, algunos inversores están recurriendo a videntes o cafés de tarot para decidir su dirección de inversión, un fenómeno descrito como ‘inversión chamánica’. El texto original también recoge un ambiente en el que, incluso en la montaña, se grita “Samsung Electronics, vamos” en lugar de “yahoo”, una imagen que muestra cómo el entusiasmo bursátil llega a escenas cotidianas. Esta tendencia refleja que, en medio del alza del mercado, las expectativas y la inquietud de los inversores particulares crecen al mismo tiempo. La fuente lo presenta como un paisaje del mercado y no ofrece resultados ni previsiones concretas de inversión. Fuente: mk.co.kr."
-      },
-      "pt": {
-        "title": "KOSPI passa de 7.800 e ‘investimento xamânico’ ganha espaço entre investidores",
-        "excerpt": "Com o KOSPI acima de 7.800 e mirando os 8.000 pontos, alguns investidores buscam videntes e cafés de tarô para orientar decisões de investimento.",
-        "body": "Com o KOSPI acima da marca de 7.800 pontos e a expectativa de aproximação dos 8.000, alguns investidores estão procurando videntes ou cafés de tarô para definir sua direção de investimento, em um movimento chamado de ‘investimento xamânico’. O texto original também menciona um clima em que, nas montanhas, se grita “Samsung Electronics, vamos” em vez de “yahoo”, mostrando como o entusiasmo do mercado acionário chegou a cenas do cotidiano. O fenômeno indica que, durante a alta do mercado, expectativas e inseguranças dos investidores individuais crescem simultaneamente. A fonte apresenta essa tendência como um retrato do entorno do mercado, sem apontar resultados ou previsões específicas. Fonte: mk.co.kr."
-      },
-      "de": {
-        "title": "KOSPI über 7.800: ‘Schamanismus-Investieren’ lockt Anleger zu Orakeln",
-        "excerpt": "Während der KOSPI über 7.800 steigt und die 8.000-Marke in den Blick rückt, suchen einige Anleger bei Wahrsagern und Tarot-Cafés Orientierung.",
-        "body": "Der KOSPI hat die Marke von 7.800 überschritten, und der Blick richtet sich auf 8.000. In diesem Umfeld suchen einige Anleger Rat bei Wahrsagern oder in Tarot-Cafés, um ihre Anlagerichtung festzulegen. Dieser Trend wird als ‘Schamanismus-Investieren’ beschrieben. Der Originalbericht schildert zudem eine Stimmung, in der in den Bergen statt eines Jubelrufs “Samsung Electronics, los” gerufen wird, was die starke Begeisterung am Aktienmarkt bis in Alltagsszenen hinein zeigt. Das Phänomen deutet darauf hin, dass bei steigenden Kursen Erwartungen und Unsicherheit privater Anleger zugleich zunehmen. Die Quelle beschreibt dies als Erscheinung rund um den Markt und nennt keine konkreten Anlageergebnisse oder Prognosen. Quelle: mk.co.kr."
-      },
-      "fr": {
-        "title": "KOSPI au-dessus de 7 800: l’‘investissement chamanique’ attire des particuliers",
-        "excerpt": "Alors que le KOSPI dépasse 7 800 et vise 8 000, certains investisseurs consultent voyants et cafés de tarot pour orienter leurs placements.",
-        "body": "Alors que le KOSPI a franchi le seuil des 7 800 points et que l’attention se porte sur les 8 000, certains investisseurs consultent des voyants ou des cafés de tarot afin de décider de leur orientation d’investissement, un phénomène qualifié d’‘investissement chamanique’. Le texte original évoque aussi une ambiance où, en montagne, on crie “Samsung Electronics, allez” au lieu d’un simple cri d’écho, signe que l’enthousiasme boursier gagne des scènes du quotidien. Cette tendance montre que, dans un marché haussier, attentes et inquiétudes des investisseurs particuliers augmentent simultanément. La source présente ce mouvement comme un paysage entourant le marché, sans fournir de résultats ni de prévisions d’investissement précis. Source: mk.co.kr."
-      },
-      "ar": {
-        "title": "كوسبي يتجاوز 7800 نقطة و‘الاستثمار الشاماني’ يجذب باحثين عن إشارات",
-        "excerpt": "مع تجاوز كوسبي مستوى 7800 واقترابه من 8000، يتجه بعض المستثمرين إلى العرافين ومقاهي التاروت طلبا للمشورة في تحديد اتجاه الاستثمار.",
-        "body": "مع تجاوز مؤشر كوسبي مستوى 7800 نقطة وازدياد التطلع إلى مستوى 8000، بدأ بعض المستثمرين يلجؤون إلى العرافين أو مقاهي التاروت لتحديد اتجاه استثماراتهم، في ظاهرة توصف باسم ‘الاستثمار الشاماني’. ويذكر النص الأصلي أيضا أجواء يصرخ فيها البعض في الجبال بعبارة “سامسونغ إلكترونيكس إلى الأمام” بدلا من صيحة تقليدية، بما يعكس امتداد حماسة سوق الأسهم إلى مشاهد يومية. وتشير هذه الظاهرة إلى أن توقعات المستثمرين الأفراد وقلقهم يتصاعدان معا مع صعود السوق. لكن المصدر يعرضها بوصفها مشهدا محيطا بسوق الاستثمار، من دون تقديم نتائج استثمارية أو توقعات محددة. المصدر: mk.co.kr."
-      },
-      "hi": {
-        "title": "KOSPI 7,800 के पार, संकेत तलाशते निवेशकों में ‘शामानिक निवेश’ चर्चा में",
-        "excerpt": "KOSPI के 7,800 से ऊपर जाकर 8,000 की ओर बढ़ने के बीच कुछ निवेशक दिशा तय करने के लिए ज्योतिषियों और टैरो कैफे का रुख कर रहे हैं।",
-        "body": "KOSPI के 7,800 अंक से ऊपर निकलने और 8,000 के स्तर पर नजर टिकने के बीच कुछ निवेशक अपनी निवेश दिशा तय करने के लिए ज्योतिषियों या टैरो कैफे से सलाह ले रहे हैं। इस प्रवृत्ति को ‘शामानिक निवेश’ कहा जा रहा है। मूल रिपोर्ट में यह भी बताया गया कि पहाड़ों में सामान्य पुकार के बजाय “Samsung Electronics, चलो” जैसी आवाजें सुनाई देने का माहौल है, जो शेयर बाजार के उत्साह के रोजमर्रा की जगहों तक पहुंचने को दिखाता है। यह स्थिति संकेत देती है कि बाजार की तेजी के साथ व्यक्तिगत निवेशकों की उम्मीदें और बेचैनी साथ-साथ बढ़ रही हैं। स्रोत ने इसे निवेश बाजार के आसपास उभरते दृश्य के रूप में पेश किया है और कोई ठोस निवेश परिणाम या पूर्वानुमान नहीं दिया है। स्रोत: mk.co.kr."
-      },
-      "id": {
-        "title": "KOSPI Tembus 7.800, ‘Investasi Shamanistik’ Muncul Saat Investor Cari Arah",
-        "excerpt": "Saat KOSPI melewati 7.800 dan menatap 8.000, sebagian investor mendatangi peramal dan kafe tarot untuk mencari arahan investasi.",
-        "body": "Ketika KOSPI menembus level 7.800 dan ekspektasi menuju 8.000 meningkat, sebagian investor mulai mencari nasihat dari peramal atau kafe tarot untuk menentukan arah investasi mereka. Fenomena ini disebut sebagai ‘investasi shamanistik’. Laporan asli juga menggambarkan suasana ketika orang di pegunungan tidak lagi meneriakkan seruan biasa, tetapi “Samsung Electronics, ayo”, menunjukkan antusiasme pasar saham yang merambah kehidupan sehari-hari. Gejala ini memperlihatkan bahwa dalam pasar yang naik, harapan dan kecemasan investor ritel tumbuh bersamaan. Sumber menampilkan tren ini sebagai pemandangan di sekitar pasar investasi, tanpa memberikan hasil investasi atau proyeksi tertentu. Sumber: mk.co.kr."
       }
     }
   }
