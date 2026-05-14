@@ -1,5 +1,230 @@
 [
   {
+    "id": "1a578d3cb0f3",
+    "slug": "연내-1만500피kb증권-ai-수요에-반도체-실적전망-급상향-317502",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-05-14T03:24:08.620Z",
+    "updatedAt": "2026-05-14T03:24:08.620Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/stock/12047334",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12047334",
+    "titleFingerprint": "4dda1ffcfeb2ccc94cc1e717c1fa5ffc88bd9748",
+    "dedupKeys": [
+      "1a578d3cb0f341a6991f9ca5c901c0b5dcbd6418",
+      "4dda1ffcfeb2ccc94cc1e717c1fa5ffc88bd9748",
+      "3324cdf031ecef1bcca1446bd9888ea7eada915d"
+    ],
+    "imageUrl": "/images/articles/1a578d3cb0f3.jpg",
+    "i18n": {
+      "ko": {
+        "title": "KB증권, AI 반도체 수요에 연내 코스피 1만500 전망 제시",
+        "excerpt": "KB증권은 AI 투자 확대를 근거로 반도체 업종 실적 전망을 높이며 연내 지수 목표를 7500에서 1만500으로 40% 상향했다고 mk.co.kr이 전했다.",
+        "body": "KB증권이 올해 안에 지수가 1만500피까지 오를 수 있다는 전망을 제시했다. mk.co.kr에 따르면 KB증권은 AI 수요 확대를 이유로 반도체 실적 추정치를 크게 높이고 목표치를 기존 7500에서 1만500으로 40% 상향했다. 삼성전자와 SK하이닉스의 합산 영업이익은 2026년 630조원으로 전망했다. KB증권은 AI 투자로 실적 추정치가 지수 상승 속도를 앞서고 있다고 봤다. 다만 단기 조정 가능성은 열어두면서도 현재 흐름을 버블로 단정하기는 어렵다는 시각을 제시했다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "KB Securities Raises Kospi Target to 10,500 on AI Chip Demand",
+        "excerpt": "KB Securities lifted its year-end index target from 7,500 to 10,500, citing stronger semiconductor earnings prospects driven by AI investment, mk.co.kr reported.",
+        "body": "KB Securities said the index could reach 10,500 points within this year. According to mk.co.kr, the brokerage sharply raised its semiconductor earnings estimates on expanding AI demand and lifted its target by 40%, from 7,500 to 10,500. It projected combined operating profit for Samsung Electronics and SK Hynix at 630 trillion won in 2026. KB Securities said earnings estimates are rising faster than the index because of AI investment. While it left room for a short-term correction, it said the current trend is difficult to define simply as a bubble. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "KB証券、AI半導体需要で年内コスピ1万500を予想",
+        "excerpt": "KB証券はAI投資拡大を背景に半導体業績見通しを引き上げ、年内の指数目標を7500から1万500へ40％上方修正したとmk.co.krが報じた。",
+        "body": "KB証券は、指数が年内に1万500ポイントまで上昇する可能性があるとの見通しを示した。mk.co.krによると、同社はAI需要の拡大を理由に半導体業績予想を大幅に引き上げ、目標値を従来の7500から1万500へ40％上方修正した。サムスン電子とSKハイニックスの合算営業利益は2026年に630兆ウォンと予想した。KB証券は、AI投資により業績予想の上昇が指数の上昇速度を上回っているとみている。一方で短期調整の可能性は残しつつ、現在の流れをバブルと断定するのは難しいとの見方を示した。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "KB证券上调目标至10500点，AI芯片需求推高预期",
+        "excerpt": "据mk.co.kr报道，KB证券因AI投资扩大上调半导体业绩展望，将年内指数目标从7500点提高至10500点，升幅达40%。",
+        "body": "KB证券提出，指数年内可能升至10500点。据mk.co.kr报道，KB证券以AI需求扩大为理由，大幅上调半导体业绩预测，并将目标值从原先的7500点提高至10500点，上调幅度为40%。该机构预计，三星电子与SK海力士2026年合计营业利润将达到630万亿韩元。KB证券认为，受AI投资推动，业绩预期上调速度已领先于指数上涨速度。不过，该机构也保留短期调整可能性，同时表示难以将当前走势简单判定为泡沫。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "KB Securities eleva su meta a 10.500 puntos por chips de IA",
+        "excerpt": "KB Securities subió su objetivo anual de 7.500 a 10.500 puntos, un 40%, al mejorar sus previsiones de semiconductores por la inversión en IA, informó mk.co.kr.",
+        "body": "KB Securities afirmó que el índice podría alcanzar los 10.500 puntos dentro de este año. Según mk.co.kr, la firma elevó con fuerza sus estimaciones de beneficios para semiconductores por la expansión de la demanda de IA y subió su objetivo un 40%, de 7.500 a 10.500. Proyectó que Samsung Electronics y SK Hynix tendrán un beneficio operativo combinado de 630 billones de wones en 2026. KB Securities señaló que, por la inversión en IA, las estimaciones de resultados avanzan más rápido que el índice. Aunque admitió la posibilidad de una corrección de corto plazo, indicó que es difícil calificar la tendencia actual como una burbuja. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "KB Securities eleva meta a 10.500 pontos com demanda de chips de IA",
+        "excerpt": "A KB Securities elevou a meta anual do índice de 7.500 para 10.500 pontos, alta de 40%, ao revisar lucros de semicondutores por investimentos em IA, informou mk.co.kr.",
+        "body": "A KB Securities afirmou que o índice pode chegar a 10.500 pontos ainda este ano. Segundo o mk.co.kr, a corretora elevou fortemente suas estimativas de resultados para semicondutores com a expansão da demanda por IA e aumentou a meta em 40%, de 7.500 para 10.500. A projeção para o lucro operacional combinado de Samsung Electronics e SK Hynix em 2026 é de 630 trilhões de won. A KB Securities avalia que os investimentos em IA fazem as estimativas de lucro avançarem mais rápido que o índice. Mesmo admitindo chance de correção no curto prazo, disse ser difícil definir o movimento atual como bolha. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "KB Securities hebt Ziel auf 10.500 Punkte wegen KI-Chipnachfrage",
+        "excerpt": "KB Securities erhöhte das Jahresziel von 7.500 auf 10.500 Punkte, da KI-Investitionen die Gewinnschätzungen für Halbleiter stützen, berichtete mk.co.kr.",
+        "body": "KB Securities sieht die Möglichkeit, dass der Index noch in diesem Jahr 10.500 Punkte erreicht. Laut mk.co.kr hob das Haus wegen der steigenden KI-Nachfrage seine Gewinnschätzungen für Halbleiter deutlich an und erhöhte das Ziel um 40% von 7.500 auf 10.500. Für Samsung Electronics und SK Hynix zusammen erwartet KB Securities 2026 einen operativen Gewinn von 630 Billionen Won. Die Firma erklärte, KI-Investitionen ließen die Gewinnschätzungen schneller steigen als den Index. Eine kurzfristige Korrektur sei möglich, doch der aktuelle Trend lasse sich schwer einfach als Blase bezeichnen. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "KB Securities vise 10 500 points grâce à la demande de puces IA",
+        "excerpt": "KB Securities a relevé son objectif annuel de 7 500 à 10 500 points, soit 40%, en raison de meilleures perspectives pour les semi-conducteurs liées à l’IA, selon mk.co.kr.",
+        "body": "KB Securities estime que l’indice pourrait atteindre 10 500 points d’ici la fin de l’année. Selon mk.co.kr, la société a fortement relevé ses estimations de résultats pour les semi-conducteurs en raison de l’expansion de la demande liée à l’IA et a porté son objectif de 7 500 à 10 500, soit une hausse de 40%. Elle prévoit un bénéfice opérationnel combiné de 630 billions de wons pour Samsung Electronics et SK Hynix en 2026. KB Securities juge que les investissements dans l’IA font progresser les estimations de bénéfices plus vite que l’indice. Elle laisse ouverte la possibilité d’une correction à court terme, tout en estimant difficile de qualifier la tendance actuelle de bulle. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "KB Securities ترفع هدف المؤشر إلى 10500 بدعم طلب رقائق الذكاء الاصطناعي",
+        "excerpt": "رفعت KB Securities هدفها للمؤشر هذا العام من 7500 إلى 10500 نقطة، بزيادة 40%، مع تحسين توقعات أرباح أشباه الموصلات بفعل استثمارات الذكاء الاصطناعي، بحسب mk.co.kr.",
+        "body": "قالت KB Securities إن المؤشر قد يصل إلى 10500 نقطة خلال هذا العام. ووفق mk.co.kr، رفعت الشركة تقديرات أرباح قطاع أشباه الموصلات بقوة بسبب توسع الطلب المرتبط بالذكاء الاصطناعي، وزادت الهدف من 7500 إلى 10500 نقطة، أي بنسبة 40%. وتوقعت أن يبلغ الربح التشغيلي المجمع لسامسونغ إلكترونيكس وSK Hynix في 2026 نحو 630 تريليون وون. وترى KB Securities أن استثمارات الذكاء الاصطناعي تجعل تقديرات الأرباح تسبق سرعة صعود المؤشر. ومع إبقاء احتمال التصحيح قصير الأجل قائما، قالت إن من الصعب وصف الاتجاه الحالي ببساطة بأنه فقاعة. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "AI चिप मांग से KB Securities ने लक्ष्य 10,500 अंक किया",
+        "excerpt": "mk.co.kr के अनुसार, KB Securities ने AI निवेश से सेमीकंडक्टर आय अनुमान बढ़ाते हुए सालाना सूचकांक लक्ष्य 7,500 से 10,500 कर दिया, जो 40% वृद्धि है।",
+        "body": "KB Securities ने कहा कि सूचकांक इस वर्ष के भीतर 10,500 अंक तक पहुंच सकता है। mk.co.kr के अनुसार, कंपनी ने AI मांग बढ़ने के कारण सेमीकंडक्टर आय अनुमान में बड़ा सुधार किया और लक्ष्य को 7,500 से 10,500 कर दिया, यानी 40% की वृद्धि। उसने 2026 में Samsung Electronics और SK Hynix के संयुक्त परिचालन लाभ का अनुमान 630 ट्रिलियन वॉन लगाया। KB Securities का मानना है कि AI निवेश के कारण आय अनुमान सूचकांक की बढ़त की गति से आगे निकल रहे हैं। हालांकि उसने अल्पकालिक सुधार की संभावना खुली रखी, लेकिन कहा कि मौजूदा रुझान को सीधे बुलबुला कहना कठिन है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "KB Securities Naikkan Target ke 10.500 Berkat Permintaan Chip AI",
+        "excerpt": "KB Securities menaikkan target indeks tahun ini dari 7.500 ke 10.500, atau 40%, karena prospek laba semikonduktor membaik oleh investasi AI, lapor mk.co.kr.",
+        "body": "KB Securities menyatakan indeks dapat mencapai 10.500 poin dalam tahun ini. Menurut mk.co.kr, perusahaan itu menaikkan tajam estimasi kinerja semikonduktor karena permintaan AI yang meluas dan mengerek target dari 7.500 menjadi 10.500, naik 40%. Laba operasional gabungan Samsung Electronics dan SK Hynix pada 2026 diproyeksikan sebesar 630 triliun won. KB Securities menilai investasi AI membuat estimasi laba bergerak lebih cepat daripada kenaikan indeks. Meski tetap membuka kemungkinan koreksi jangka pendek, perusahaan menilai tren saat ini sulit disebut secara sederhana sebagai gelembung. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "6e4ec450eb59",
+    "slug": "오르는-놈만-오른다30만전자-200만닉스-베팅-주식-초고수는-지금-955497",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-05-14T03:23:15.197Z",
+    "updatedAt": "2026-05-14T03:23:15.197Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/stock/12047336",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12047336",
+    "titleFingerprint": "a8d89b2e42a86ab86408e51328eb6223433636b1",
+    "dedupKeys": [
+      "6e4ec450eb59ac5e82804fbb735df012fe238199",
+      "a8d89b2e42a86ab86408e51328eb6223433636b1",
+      "8c2671b11e5a9b10cba8d982ebd515b98077daf2"
+    ],
+    "imageUrl": "/images/articles/6e4ec450eb59.png",
+    "i18n": {
+      "ko": {
+        "title": "삼성전자·SK하이닉스 고점 베팅, 주식 초고수 매수세 집중",
+        "excerpt": "14일 오후 9시30분 기준 수익률 상위 1% 투자자들은 ‘30만전자’와 ‘200만닉스’ 기대 속 삼성전자·SK하이닉스를 공격적으로 사들였고 로보스타도 관심주로 떠올랐다.",
+        "body": "14일 오후 9시30분 거래동향에서 주식 투자 수익률 상위 1% 투자자들은 삼성전자와 SK하이닉스에 공격적인 매수세를 보였다. 시장에서 ‘30만전자’, ‘200만닉스’라는 기대가 거론되는 가운데, 오르는 종목에 매수세가 더 집중되는 흐름이 나타난 것이다. 원문 요약에 따르면 초고수 투자자들은 두 대형 반도체주뿐 아니라 로보틱스가 주목받는 상황에서 로보스타에도 관심을 보였다. 이는 수익률 상위 투자자들의 단기 거래 관심이 반도체 대표주와 로봇 관련주로 모였음을 보여준다. 다만 기사에 제시된 내용은 오후 9시30분 기준 거래동향에 한정된다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Samsung Electronics and SK Hynix Draw Heavy Buying From Top Stock Investors",
+        "excerpt": "As of 9:30 p.m. on May 14, the top 1% of stock investors by return aggressively bought Samsung Electronics and SK Hynix, while Robostar also drew attention amid robotics interest.",
+        "body": "As of the 9:30 p.m. trading trend on May 14, stock investors in the top 1% by returns showed aggressive buying in Samsung Electronics and SK Hynix. With market phrases such as “300,000-won Samsung Electronics” and “2 million-won Hynix” being discussed, buying interest appeared to concentrate further on stocks already rising. According to the original summary, these high-performing investors also paid attention to Robostar as robotics drew market interest, in addition to the two major semiconductor names. The data indicate that short-term trading attention among top-return investors gathered around leading chip stocks and a robotics-related stock. The article’s information is limited to the 9:30 p.m. trading snapshot. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "サムスン電子・SKハイニックスに上位投資家の買い集中",
+        "excerpt": "5月14日午後9時30分時点で、収益率上位1%の投資家はサムスン電子とSKハイニックスを積極的に買い、ロボティクス関連のロボスターにも関心を示した。",
+        "body": "5月14日午後9時30分の取引動向によると、株式投資の収益率上位1%の投資家はサムスン電子とSKハイニックスに積極的な買いを見せた。市場で「30万電子」「200万ニックス」という期待が語られるなか、上昇している銘柄に買いがさらに集まる流れが表れた。原文の要約によれば、これらの上級投資家は2つの大型半導体株だけでなく、ロボティクスが注目される状況でロボスターにも関心を示した。これは上位投資家の短期的な取引関心が半導体代表株とロボット関連株に集まったことを示す。ただし、記事の内容は午後9時30分時点の取引動向に限られる。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "三星电子与SK海力士获顶尖投资者集中买入",
+        "excerpt": "截至5月14日晚9时30分，收益率排名前1%的投资者积极买入三星电子和SK海力士；在机器人概念受关注之际，Robostar也成为关注股。",
+        "body": "根据5月14日晚9时30分的交易动向，股票投资收益率排名前1%的投资者对三星电子和SK海力士表现出积极买入。随着市场提到“三十万电子”和“二百万海力士”的预期，资金进一步集中到已经上涨的个股上。原文摘要显示，顶尖投资者除了关注这两只大型半导体股外，在机器人概念受到关注的背景下，也对Robostar表现出兴趣。这说明高收益投资者的短期交易关注集中在半导体代表股和机器人相关股票。不过，文章所述内容仅限于晚9时30分时点的交易动向。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Samsung Electronics y SK Hynix concentran compras de inversores líderes",
+        "excerpt": "A las 21:30 del 14 de mayo, el 1% superior de inversores por rentabilidad compró con fuerza Samsung Electronics y SK Hynix, mientras Robostar también atrajo interés por la robótica.",
+        "body": "Según las tendencias de negociación de las 21:30 del 14 de mayo, los inversores bursátiles situados en el 1% superior por rentabilidad mostraron compras agresivas en Samsung Electronics y SK Hynix. En un mercado donde se mencionan expectativas como “Samsung Electronics a 300.000 wones” y “Hynix a 2 millones de wones”, el interés comprador se concentró aún más en los valores que suben. De acuerdo con el resumen original, estos inversores de alto rendimiento también prestaron atención a Robostar, además de los dos grandes valores de semiconductores, mientras la robótica ganaba protagonismo. El dato muestra que su interés de corto plazo se agrupó en líderes de chips y una acción vinculada a robots. La información se limita al corte de las 21:30. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Samsung Electronics e SK Hynix atraem compras de investidores de elite",
+        "excerpt": "Às 21h30 de 14 de maio, o 1% superior dos investidores em rentabilidade comprou agressivamente Samsung Electronics e SK Hynix, enquanto a Robostar ganhou atenção com a robótica.",
+        "body": "Nas tendências de negociação das 21h30 de 14 de maio, investidores em ações no 1% superior por rentabilidade mostraram compras agressivas em Samsung Electronics e SK Hynix. Com expressões de mercado como “Samsung Electronics a 300 mil won” e “Hynix a 2 milhões de won” em discussão, o fluxo de compra se concentrou ainda mais nos papéis em alta. Segundo o resumo original, esses investidores de alto desempenho também demonstraram interesse pela Robostar, além das duas grandes ações de semicondutores, em meio à atenção voltada à robótica. Isso indica que o interesse de curto prazo dos principais investidores se reuniu em líderes de chips e em uma ação ligada a robôs. A informação se limita ao retrato das 21h30. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Samsung Electronics und SK Hynix im Fokus der Top-Aktieninvestoren",
+        "excerpt": "Um 21:30 Uhr am 14. Mai kauften die besten 1% der Aktieninvestoren nach Rendite aggressiv Samsung Electronics und SK Hynix; auch Robostar rückte durch Robotik-Interesse in den Blick.",
+        "body": "Die Handelsdaten von 21:30 Uhr am 14. Mai zeigen, dass Aktieninvestoren im obersten 1% nach Rendite aggressive Käufe bei Samsung Electronics und SK Hynix tätigten. Während am Markt Erwartungen wie „Samsung Electronics bei 300.000 Won“ und „Hynix bei 2 Millionen Won“ genannt wurden, konzentrierte sich das Kaufinteresse weiter auf bereits steigende Titel. Laut der ursprünglichen Zusammenfassung beachteten diese besonders erfolgreichen Investoren neben den zwei großen Halbleiterwerten auch Robostar, da Robotik Aufmerksamkeit erhielt. Damit bündelte sich ihr kurzfristiges Handelsinteresse auf führende Chipaktien und einen robotikbezogenen Wert. Die Angaben beziehen sich nur auf den Stand um 21:30 Uhr. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Samsung Electronics et SK Hynix attirent les achats des meilleurs investisseurs",
+        "excerpt": "À 21h30 le 14 mai, les investisseurs du top 1% par rendement ont acheté vivement Samsung Electronics et SK Hynix, tandis que Robostar a aussi attiré l’attention avec la robotique.",
+        "body": "Selon les tendances de négociation à 21h30 le 14 mai, les investisseurs en actions classés dans le top 1% par rendement ont montré des achats agressifs sur Samsung Electronics et SK Hynix. Alors que le marché évoquait des attentes comme « Samsung Electronics à 300.000 wons » et « Hynix à 2 millions de wons », les achats se sont davantage concentrés sur les titres déjà en hausse. D’après le résumé original, ces investisseurs très performants ont aussi porté leur attention sur Robostar, en plus des deux grands titres des semi-conducteurs, dans un contexte d’intérêt pour la robotique. Cela montre que leur intérêt de court terme s’est concentré sur les leaders des puces et une valeur liée aux robots. Les informations se limitent au point de 21h30. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "سامسونغ إلكترونيكس وSK هاينكس تجذبان مشتريات كبار المستثمرين",
+        "excerpt": "في الساعة 9:30 مساء يوم 14 مايو، اشترى المستثمرون ضمن أعلى 1% من حيث العائد سامسونغ إلكترونيكس وSK هاينكس بقوة، كما لفتت Robostar الانتباه مع الاهتمام بالروبوتات.",
+        "body": "أظهرت اتجاهات التداول عند الساعة 9:30 مساء يوم 14 مايو أن المستثمرين في الأسهم ضمن أعلى 1% من حيث العائد اتجهوا إلى شراء سامسونغ إلكترونيكس وSK هاينكس بقوة. ومع تداول توقعات في السوق مثل «سامسونغ إلكترونيكس عند 300 ألف وون» و«هاينكس عند مليوني وون»، تركزت المشتريات أكثر على الأسهم الصاعدة. ووفق ملخص النص الأصلي، أبدى هؤلاء المستثمرون المتفوقون اهتماما أيضا بسهم Robostar، إلى جانب سهمي أشباه الموصلات الكبيرين، مع ازدياد الاهتمام بقطاع الروبوتات. ويشير ذلك إلى أن اهتمامهم قصير الأجل تركز في أسهم الرقائق الرئيسية وسهم مرتبط بالروبوتات. وتقتصر المعلومات على لقطة التداول عند 9:30 مساء. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "Samsung Electronics और SK Hynix में शीर्ष निवेशकों की मजबूत खरीद",
+        "excerpt": "14 मई रात 9:30 बजे तक रिटर्न के आधार पर शीर्ष 1% निवेशकों ने Samsung Electronics और SK Hynix में आक्रामक खरीद की, जबकि रोबोटिक्स रुचि से Robostar भी ध्यान में आया।",
+        "body": "14 मई रात 9:30 बजे के ट्रेडिंग रुझान के अनुसार, शेयर निवेश रिटर्न में शीर्ष 1% निवेशकों ने Samsung Electronics और SK Hynix में आक्रामक खरीदारी दिखाई। बाजार में “300,000 वॉन Samsung Electronics” और “2 मिलियन वॉन Hynix” जैसी अपेक्षाओं की चर्चा के बीच, खरीदारी पहले से चढ़ रहे शेयरों पर और केंद्रित दिखी। मूल सारांश के अनुसार, इन उच्च प्रदर्शन वाले निवेशकों ने दो बड़े सेमीकंडक्टर शेयरों के अलावा रोबोटिक्स पर बढ़ते ध्यान के बीच Robostar में भी रुचि दिखाई। यह बताता है कि शीर्ष निवेशकों की अल्पकालिक ट्रेडिंग रुचि प्रमुख चिप शेयरों और रोबोट-संबंधित शेयर पर केंद्रित रही। लेख की जानकारी रात 9:30 बजे के रुझान तक सीमित है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Samsung Electronics dan SK Hynix Diburu Investor Saham Papan Atas",
+        "excerpt": "Pada 14 Mei pukul 21.30, investor 1% teratas berdasarkan imbal hasil agresif membeli Samsung Electronics dan SK Hynix, sementara Robostar ikut dilirik seiring minat pada robotika.",
+        "body": "Dalam tren transaksi pukul 21.30 pada 14 Mei, investor saham yang masuk 1% teratas berdasarkan imbal hasil menunjukkan pembelian agresif pada Samsung Electronics dan SK Hynix. Saat pasar membahas ekspektasi seperti “Samsung Electronics 300.000 won” dan “Hynix 2 juta won”, minat beli tampak makin terkonsentrasi pada saham yang sedang naik. Menurut ringkasan asli, para investor berkinerja tinggi ini juga memperhatikan Robostar, selain dua saham semikonduktor besar tersebut, ketika robotika mendapat sorotan. Hal ini menunjukkan bahwa minat transaksi jangka pendek investor teratas terkumpul pada saham utama chip dan satu saham terkait robot. Informasi artikel terbatas pada kondisi pukul 21.30. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "b25e9c0f8eb0",
+    "slug": "미국-개미도-삼전닉스-투자에-혈안비트코인-etf-광풍-때보다-돈-더-몰린다-970927",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-05-14T03:22:01.579Z",
+    "updatedAt": "2026-05-14T03:22:01.579Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/stock/12047418",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12047418",
+    "titleFingerprint": "0ec56bd8625fac4e2566955a660b83765675c2e1",
+    "dedupKeys": [
+      "b25e9c0f8eb06a0e7349565772a97a0846078823",
+      "0ec56bd8625fac4e2566955a660b83765675c2e1",
+      "2f57a2a7ab7192ba264da02c325bb2b97990729f"
+    ],
+    "imageUrl": "/images/articles/b25e9c0f8eb0.jpg",
+    "i18n": {
+      "ko": {
+        "title": "삼전닉스 투자 열기 미국 개미까지 확산…비트코인 ETF 때보다 자금 몰린다",
+        "excerpt": "니혼게이자이신문은 코스피가 8000선에 근접한 사상 최고치 랠리 속에서 미국 기관과 개인투자자들이 삼성전자·SK하이닉스 투자에 몰리고 있다고 보도했다.",
+        "body": "코스피가 8000선에 근접하며 사상 최고치 랠리를 이어가는 가운데 미국 기관투자자와 개인투자자들이 삼성전자와 SK하이닉스 투자에 적극 나서고 있다. 일본 니혼게이자이신문 보도에 따르면 월가에서는 두 종목이 마이크론보다 저평가됐다는 평가가 나오고 있으며, 한국 주식 직접 거래도 개시됐다. 시장 관심은 비트코인 ETF 열풍 때보다 더 많은 자금이 몰린다는 표현으로 설명될 만큼 커진 모습이다. 반도체 대형주에 대한 해외 수급 확대가 코스피 상승세와 한국 주식 접근성 변화에 어떤 영향을 줄지 주목된다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Samsung Electronics and SK Hynix draw U.S. retail money beyond Bitcoin ETF frenzy",
+        "excerpt": "Nikkei reported that as the KOSPI approaches 8,000 in a record rally, U.S. institutional and retail investors are moving into Samsung Electronics and SK Hynix.",
+        "body": "As the KOSPI nears the 8,000 mark and extends its record-high rally, U.S. institutional and retail investors are increasingly targeting Samsung Electronics and SK Hynix. According to a report by Japan’s Nikkei, Wall Street views the two Korean chip stocks as undervalued compared with Micron, while direct trading of Korean shares has also begun. Market interest has grown to the point that inflows are described as stronger than during the Bitcoin ETF boom. Attention is now on how overseas demand for major semiconductor stocks may affect the KOSPI’s rise and access to Korean equities. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "サムスン電子・SKハイニックスに米個人も殺到、ビットコインETF超えの資金流入",
+        "excerpt": "日本経済新聞は、KOSPIが8000に近づく最高値更新ラリーの中で、米機関投資家と個人投資家がサムスン電子とSKハイニックスに資金を向けていると報じた。",
+        "body": "KOSPIが8000に近づき、史上最高値圏でのラリーを続ける中、米国の機関投資家と個人投資家がサムスン電子とSKハイニックスへの投資に積極的になっている。日本経済新聞の報道によると、ウォール街では両銘柄がマイクロンより割安だとの見方が出ており、韓国株の直接取引も始まった。市場の関心は、ビットコインETFブーム時を上回る資金が集まっていると表現されるほど高まっている。半導体大型株への海外資金流入がKOSPIの上昇と韓国株へのアクセス変化にどう影響するか注目される。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "三星电子与SK海力士吸引美国散户，资金热度被指超过比特币ETF",
+        "excerpt": "日本经济新闻报道称，在KOSPI逼近8000点并延续历史高位上涨之际，美国机构和个人投资者正涌向三星电子与SK海力士。",
+        "body": "在KOSPI逼近8000点并延续历史最高位涨势之际，美国机构投资者和个人投资者正积极投资三星电子和SK海力士。据日本经济新闻报道，华尔街认为这两只韩国半导体股票相较美光被低估，同时韩国股票直接交易也已启动。市场关注度已高到被形容为资金流入超过比特币ETF热潮时期。海外资金对大型半导体股的需求扩大，将如何影响KOSPI涨势以及韩国股票的可及性变化，正受到关注。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Samsung Electronics y SK Hynix atraen a minoristas de EE. UU. más que el furor por ETF de bitcoin",
+        "excerpt": "Nikkei informó que, mientras el KOSPI se acerca a 8.000 puntos en una racha récord, inversores institucionales y minoristas de EE. UU. compran Samsung Electronics y SK Hynix.",
+        "body": "Mientras el KOSPI se acerca a los 8.000 puntos y mantiene una racha de máximos históricos, inversores institucionales y minoristas de Estados Unidos se muestran cada vez más activos en Samsung Electronics y SK Hynix. Según informó el diario japonés Nikkei, en Wall Street se considera que ambas acciones coreanas de chips están infravaloradas frente a Micron, y también comenzó la negociación directa de acciones coreanas. El interés del mercado se describe como una entrada de dinero mayor que durante el auge de los ETF de bitcoin. La atención se centra en cómo la demanda extranjera por grandes valores de semiconductores puede afectar al avance del KOSPI y al acceso a acciones coreanas. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Samsung Electronics e SK Hynix atraem varejo dos EUA acima da febre dos ETFs de bitcoin",
+        "excerpt": "O Nikkei informou que, enquanto o KOSPI se aproxima de 8.000 pontos em rali recorde, investidores institucionais e pessoas físicas dos EUA avançam sobre Samsung Electronics e SK Hynix.",
+        "body": "Com o KOSPI se aproximando dos 8.000 pontos e mantendo um rali em máximas históricas, investidores institucionais e pessoas físicas dos Estados Unidos intensificam as apostas em Samsung Electronics e SK Hynix. Segundo o jornal japonês Nikkei, em Wall Street há avaliações de que as duas ações coreanas de semicondutores estão subavaliadas em relação à Micron, enquanto a negociação direta de ações coreanas também foi iniciada. O interesse é descrito como uma entrada de recursos maior que a observada na febre dos ETFs de bitcoin. O mercado acompanha como a demanda externa por grandes empresas de chips pode influenciar o avanço do KOSPI e o acesso a ações coreanas. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Samsung Electronics und SK Hynix locken US-Privatanleger stärker als Bitcoin-ETF-Boom",
+        "excerpt": "Nikkei berichtete, dass US-Institutionelle und Privatanleger in Samsung Electronics und SK Hynix investieren, während der KOSPI nahe 8.000 Punkten auf Rekordkurs bleibt.",
+        "body": "Während sich der KOSPI der Marke von 8.000 Punkten nähert und seine Rally auf Rekordniveau fortsetzt, investieren US-Institutionelle und Privatanleger verstärkt in Samsung Electronics und SK Hynix. Nach einem Bericht der japanischen Zeitung Nikkei gelten die beiden koreanischen Chipwerte an der Wall Street im Vergleich zu Micron als unterbewertet; zugleich wurde der direkte Handel mit koreanischen Aktien aufgenommen. Das Marktinteresse wird als so stark beschrieben, dass mehr Geld zufließt als während des Bitcoin-ETF-Booms. Im Fokus steht nun, wie ausländische Nachfrage nach großen Halbleiterwerten den KOSPI-Anstieg und den Zugang zu koreanischen Aktien beeinflusst. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Samsung Electronics et SK Hynix séduisent les particuliers américains au-delà des ETF bitcoin",
+        "excerpt": "Nikkei rapporte qu’alors que le KOSPI approche 8 000 points dans un rally record, les investisseurs institutionnels et particuliers américains se tournent vers Samsung Electronics et SK Hynix.",
+        "body": "Alors que le KOSPI approche le seuil des 8 000 points et poursuit son rally à des niveaux records, les investisseurs institutionnels et particuliers américains renforcent leur intérêt pour Samsung Electronics et SK Hynix. Selon le journal japonais Nikkei, Wall Street estime que ces deux valeurs coréennes des semi-conducteurs sont sous-évaluées par rapport à Micron, tandis que la négociation directe d’actions coréennes a également commencé. L’intérêt du marché est décrit comme attirant davantage d’argent que lors de la frénésie des ETF bitcoin. L’attention porte désormais sur l’effet que la demande étrangère pour les grandes valeurs des puces pourrait avoir sur la hausse du KOSPI et l’accès aux actions coréennes. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "سامسونغ إلكترونيكس وSK هاينكس تجذبان مستثمري أميركا أكثر من موجة صناديق بيتكوين",
+        "excerpt": "ذكرت نيكاي أن مؤشر كوسبي يقترب من 8000 نقطة وسط موجة قياسية، بينما يتجه المستثمرون المؤسسيون والأفراد في الولايات المتحدة إلى سامسونغ إلكترونيكس وSK هاينكس.",
+        "body": "مع اقتراب مؤشر كوسبي من مستوى 8000 نقطة ومواصلته موجة صعود عند قمم تاريخية، يزيد المستثمرون المؤسسيون والأفراد في الولايات المتحدة اهتمامهم بسهمي سامسونغ إلكترونيكس وSK هاينكس. وبحسب تقرير صحيفة نيكاي اليابانية، ترى وول ستريت أن السهمين الكوريين في قطاع الرقائق مقيمان بأقل من قيمتهما مقارنة بميكرون، كما بدأ التداول المباشر في الأسهم الكورية. ووصل اهتمام السوق إلى حد وصف تدفقات الأموال بأنها أكبر مما حدث خلال موجة صناديق بيتكوين المتداولة. وتتجه الأنظار إلى تأثير الطلب الأجنبي على أسهم أشباه الموصلات الكبرى في صعود كوسبي وتغير إمكانية الوصول إلى الأسهم الكورية. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "Samsung Electronics और SK Hynix में अमेरिकी रिटेल निवेशकों की दिलचस्पी बिटकॉइन ETF उछाल से आगे",
+        "excerpt": "निक्केई ने बताया कि KOSPI के 8,000 के करीब रिकॉर्ड रैली जारी रखने के बीच अमेरिकी संस्थागत और खुदरा निवेशक Samsung Electronics और SK Hynix की ओर बढ़ रहे हैं।",
+        "body": "KOSPI के 8,000 अंक के करीब पहुंचने और रिकॉर्ड ऊंचाई की रैली जारी रहने के बीच अमेरिकी संस्थागत और खुदरा निवेशक Samsung Electronics और SK Hynix में सक्रिय रूप से निवेश कर रहे हैं। जापान के निक्केई की रिपोर्ट के अनुसार, वॉल स्ट्रीट में इन दोनों कोरियाई चिप शेयरों को Micron की तुलना में कम मूल्यांकित माना जा रहा है, और कोरियाई शेयरों की सीधी ट्रेडिंग भी शुरू हो गई है। बाजार की दिलचस्पी इतनी बढ़ी है कि धन प्रवाह को बिटकॉइन ETF उछाल के समय से भी अधिक बताया जा रहा है। अब ध्यान इस पर है कि प्रमुख सेमीकंडक्टर शेयरों में विदेशी मांग KOSPI की तेजी और कोरियाई शेयरों तक पहुंच में बदलाव को कैसे प्रभावित करेगी। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Samsung Electronics dan SK Hynix diburu investor ritel AS, dana melampaui demam ETF bitcoin",
+        "excerpt": "Nikkei melaporkan bahwa saat KOSPI mendekati 8.000 dalam reli rekor, investor institusi dan ritel AS semakin masuk ke Samsung Electronics dan SK Hynix.",
+        "body": "Saat KOSPI mendekati level 8.000 dan melanjutkan reli tertinggi sepanjang masa, investor institusi dan ritel Amerika Serikat semakin aktif memburu Samsung Electronics dan SK Hynix. Menurut laporan Nikkei Jepang, Wall Street menilai dua saham chip Korea tersebut masih undervalued dibandingkan Micron, sementara perdagangan langsung saham Korea juga telah dimulai. Minat pasar disebut begitu besar hingga aliran dana digambarkan melebihi masa demam ETF bitcoin. Perhatian kini tertuju pada bagaimana permintaan asing atas saham semikonduktor besar dapat memengaruhi kenaikan KOSPI dan perubahan akses ke saham Korea. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
     "id": "b89063b7df03",
     "slug": "비료값-뛰자-농산물-선물-급등글로벌-곡물기업-adm-52주-최고가-740583",
     "channelId": "ETF",
@@ -4271,231 +4496,6 @@
         "title": "KOSPI Cetak Rekor Penutupan, Investor Ritel Beli 10 Triliun Won Saham Samsung",
         "excerpt": "Pada 13 Mei, KOSPI ditutup di rekor tertinggi; investor asing merealisasikan untung, sementara investor ritel baru-baru ini membeli 10 triliun won saham semikonduktor yang dipimpin Samsung Electronics.",
         "body": "KOSPI menutup perdagangan pada 13 Mei di level tertinggi sepanjang sejarah berdasarkan harga penutupan. Namun di dalam pasar, investor asing melakukan aksi ambil untung, sementara pembelian investor ritel terkonsentrasi pada saham semikonduktor, terutama Samsung Electronics. Menurut laporan asli, investor individu baru-baru ini memborong 10 triliun won dengan fokus pada Samsung Electronics. Minat yang tidak besar saat saham berada di kisaran 60.000 won meningkat menjelang perhatian pasar pada istilah “Samsung Electronics 300.000 won”. Pada hari yang sama, jumlah saham yang turun lebih dari dua kali saham yang naik, menunjukkan jarak antara rekor indeks dan nuansa pasar secara luas. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "67c408c2c1ae",
-    "slug": "중복상장-7년새-30-급감한-일본-전면금지-아닌-소수주주-보호-방점-170732",
-    "channelId": "ETF",
-    "category": "etf",
-    "publishedAt": "2026-05-13T11:24:06.881Z",
-    "updatedAt": "2026-05-13T11:24:06.881Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/stock/12046455",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12046455",
-    "titleFingerprint": "393a3d0c07601ec99d6e23d9dd8a3f678832d99c",
-    "dedupKeys": [
-      "67c408c2c1ae78952dba078ef7afd2832739b8a2",
-      "393a3d0c07601ec99d6e23d9dd8a3f678832d99c",
-      "7c9c0a69b7f0fd91644207579facab84c62e647c"
-    ],
-    "imageUrl": "/images/articles/67c408c2c1ae.jpg",
-    "i18n": {
-      "ko": {
-        "title": "중복상장 규제 속도 내는 한국, 일본 7년 30% 감소 사례 주목",
-        "excerpt": "금융당국과 한국거래소는 중복상장 원칙 금지·예외 허용 방침에 따라 심사 기준을 마련 중이며, 일본의 7년간 30% 감소 사례를 참고해 소수주주 보호에 무게를 두고 있다.",
-        "body": "금융당국과 한국거래소가 중복상장에 대해 ‘원칙 금지·예외 허용’ 방침을 세우고 심사 기준 마련에 속도를 내고 있다. 올 상반기 규정 개정을 마무리하고 이르면 7월부터 제도를 시행할 예정이다. 원문은 일본의 중복상장이 7년 사이 30% 급감했다는 점을 배경으로 제시했다. 다만 논의의 초점은 전면금지가 아니라 중복상장 과정에서 소수주주를 어떻게 보호할지에 맞춰져 있다. 새 기준이 시행되면 기업의 상장 심사와 지배구조 판단에서 소수주주 보호 장치가 더 중요한 변수로 다뤄질 전망이다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Korea Speeds Up Dual Listing Rules as Japan’s Cases Fell 30% in Seven Years",
-        "excerpt": "Financial authorities and the Korea Exchange are drafting review standards under a principle-ban, exception-allowance approach, citing Japan’s 30% decline in dual listings over seven years and focusing on minority shareholder protection.",
-        "body": "Financial authorities and the Korea Exchange are accelerating work on review standards for dual listings under a policy of banning them in principle while allowing exceptions. They plan to complete rule revisions in the first half of this year and implement the system as early as July. The source points to Japan, where dual listings fell by 30% over seven years, as a key reference. The emphasis, however, is not on a blanket ban but on how to protect minority shareholders during dual listings. Once the new standards take effect, minority shareholder safeguards are expected to become a more important factor in listing reviews and governance assessments. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "韓国が重複上場規制を加速、日本の7年で30%減少事例に注目",
-        "excerpt": "金融当局と韓国取引所は、重複上場を原則禁止・例外容認とする方針で審査基準を整備中で、日本の7年で30%減少した事例を参考に少数株主保護を重視している。",
-        "body": "金融当局と韓国取引所は、重複上場について「原則禁止・例外容認」の方針を掲げ、審査基準づくりを急いでいる。今年上半期中に規定改正を終え、早ければ7月から制度を施行する予定だ。原文は、日本で重複上場が7年間で30%急減した点を背景として示している。ただし議論の焦点は全面禁止ではなく、重複上場の過程で少数株主をどう保護するかに置かれている。新基準が導入されれば、企業の上場審査やガバナンス判断で少数株主保護策がより重要な要素になる見通しだ。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "韩国加快重复上市监管，日本七年减少30%案例受关注",
-        "excerpt": "韩国金融监管部门和韩国交易所正按“原则禁止、例外允许”方针制定重复上市审查标准，并参考日本七年减少30%的情况，重点放在保护少数股东。",
-        "body": "韩国金融监管部门和韩国交易所正在加快制定重复上市审查标准，方针是“原则禁止、例外允许”。相关规则修订计划在今年上半年完成，最快可能于7月开始实施。原文提到，日本重复上市在七年间锐减30%，这一案例成为背景参考。不过，讨论重点并非全面禁止，而是在重复上市过程中如何保护少数股东。新标准实施后，少数股东保护措施预计将在企业上市审查和治理结构判断中成为更重要的考量。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Corea acelera reglas de doble cotización tras caída del 30% en Japón",
-        "excerpt": "Las autoridades financieras y la Bolsa de Corea preparan criterios de revisión bajo una política de prohibición en principio y excepciones, tomando como referencia la caída del 30% en Japón y priorizando a accionistas minoritarios.",
-        "body": "Las autoridades financieras y la Bolsa de Corea están acelerando la elaboración de criterios de revisión para las dobles cotizaciones bajo una política de prohibición en principio y autorización por excepción. Prevén completar la revisión normativa en el primer semestre de este año y aplicar el sistema desde julio como muy pronto. El texto original cita como contexto que las dobles cotizaciones en Japón cayeron un 30% en siete años. Sin embargo, el foco no está en una prohibición total, sino en cómo proteger a los accionistas minoritarios durante esos procesos. Cuando entren en vigor los nuevos criterios, esas salvaguardas podrían pesar más en las revisiones de cotización y gobierno corporativo. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Coreia acelera regras de listagem duplicada após queda de 30% no Japão",
-        "excerpt": "Autoridades financeiras e a Bolsa da Coreia preparam critérios de análise sob a regra de proibição em princípio e exceções, usando a queda de 30% no Japão como referência e priorizando minoritários.",
-        "body": "As autoridades financeiras e a Bolsa da Coreia estão acelerando a preparação de critérios de análise para listagens duplicadas, com a diretriz de proibição em princípio e permissão por exceção. A revisão das regras deve ser concluída no primeiro semestre deste ano, com implementação possivelmente já em julho. O texto original apresenta como contexto a queda de 30% nas listagens duplicadas no Japão em sete anos. Ainda assim, o foco não é uma proibição total, mas a forma de proteger acionistas minoritários nesses processos. Com os novos critérios, salvaguardas para minoritários devem ganhar mais peso na análise de listagem e governança. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Korea beschleunigt Regeln für Doppelnotierungen nach Japans 30%-Rückgang",
-        "excerpt": "Finanzaufsicht und Korea Exchange erarbeiten Prüfstandards nach dem Prinzip Verbot mit Ausnahmen und verweisen auf Japans Rückgang um 30% in sieben Jahren, mit Fokus auf Minderheitsaktionäre.",
-        "body": "Die Finanzbehörden und die Korea Exchange treiben Prüfstandards für Doppelnotierungen voran. Grundlage ist eine Linie, nach der solche Notierungen grundsätzlich verboten, aber in Ausnahmefällen zugelassen werden. Die Regeländerungen sollen im ersten Halbjahr abgeschlossen und das System frühestens ab Juli eingeführt werden. Der Originalbericht nennt Japan als Hintergrund, wo Doppelnotierungen innerhalb von sieben Jahren um 30% zurückgingen. Der Schwerpunkt liegt jedoch nicht auf einem vollständigen Verbot, sondern auf dem Schutz von Minderheitsaktionären im Verfahren. Mit den neuen Standards dürften entsprechende Schutzmechanismen bei Börsenprüfungen und Governance-Bewertungen wichtiger werden. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "La Corée accélère les règles de double cotation après le recul de 30% au Japon",
-        "excerpt": "Les autorités financières et Korea Exchange préparent des critères d’examen fondés sur l’interdiction de principe avec exceptions, en s’appuyant sur le recul de 30% au Japon et la protection des minoritaires.",
-        "body": "Les autorités financières et Korea Exchange accélèrent la préparation de critères d’examen pour les doubles cotations, selon une approche d’interdiction de principe avec exceptions possibles. Elles prévoient de finaliser la révision des règles au premier semestre et de mettre le dispositif en œuvre dès juillet au plus tôt. Le texte d’origine cite le Japon, où les doubles cotations ont diminué de 30% en sept ans, comme élément de contexte. Toutefois, l’enjeu n’est pas une interdiction totale, mais la protection des actionnaires minoritaires pendant ces opérations. Une fois appliqués, les nouveaux critères devraient donner plus de poids à ces garanties dans l’examen des cotations et de la gouvernance. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "كوريا تسرّع قواعد الإدراج المزدوج بعد تراجع اليابان 30% خلال سبع سنوات",
-        "excerpt": "تعد السلطات المالية وبورصة كوريا معايير مراجعة للإدراج المزدوج وفق نهج الحظر من حيث المبدأ مع السماح بالاستثناءات، مستندة إلى تراجع اليابان 30% ومركزة على حماية صغار المساهمين.",
-        "body": "تسرّع السلطات المالية وبورصة كوريا إعداد معايير مراجعة للإدراج المزدوج وفق سياسة تقوم على الحظر من حيث المبدأ مع السماح بالاستثناءات. ومن المقرر الانتهاء من تعديل القواعد خلال النصف الأول من هذا العام، على أن يبدأ تطبيق النظام في يوليو في أقرب تقدير. ويعرض النص الأصلي حالة اليابان، حيث انخفضت الإدراجات المزدوجة بنسبة 30% خلال سبع سنوات، كخلفية للنقاش. لكن التركيز ليس على حظر شامل، بل على كيفية حماية صغار المساهمين أثناء عمليات الإدراج المزدوج. ومع تطبيق المعايير الجديدة، من المتوقع أن تصبح ضمانات حماية صغار المساهمين عاملا أكثر أهمية في مراجعات الإدراج وتقييم الحوكمة. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "जापान में 7 साल में 30% कमी के बाद कोरिया दोहरी लिस्टिंग नियम तेज कर रहा",
-        "excerpt": "वित्तीय अधिकारी और कोरिया एक्सचेंज दोहरी लिस्टिंग पर सिद्धांततः रोक और अपवाद की नीति के तहत समीक्षा मानदंड बना रहे हैं, जापान की 30% कमी का संदर्भ लेते हुए अल्पांश शेयरधारक संरक्षण पर जोर है।",
-        "body": "वित्तीय अधिकारी और कोरिया एक्सचेंज दोहरी लिस्टिंग के लिए समीक्षा मानदंड तैयार करने में तेजी ला रहे हैं। नीति यह है कि इसे सिद्धांततः प्रतिबंधित किया जाए, लेकिन अपवादों की अनुमति दी जाए। नियम संशोधन इस वर्ष की पहली छमाही में पूरा करने और व्यवस्था को जल्द से जल्द जुलाई से लागू करने की योजना है। मूल पाठ में बताया गया है कि जापान में दोहरी लिस्टिंग सात वर्षों में 30% घट गई, जो इस चर्चा की पृष्ठभूमि है। हालांकि जोर पूर्ण प्रतिबंध पर नहीं, बल्कि दोहरी लिस्टिंग की प्रक्रिया में अल्पांश शेयरधारकों की सुरक्षा पर है। नए मानदंड लागू होने पर लिस्टिंग समीक्षा और गवर्नेंस आकलन में ऐसे संरक्षण उपाय अधिक महत्वपूर्ण हो सकते हैं। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Korea Percepat Aturan Pencatatan Ganda, Jepang Turun 30% dalam Tujuh Tahun",
-        "excerpt": "Otoritas keuangan dan Korea Exchange menyusun standar peninjauan dengan prinsip larangan dan pengecualian, merujuk penurunan 30% di Jepang serta menekankan perlindungan pemegang saham minoritas.",
-        "body": "Otoritas keuangan dan Korea Exchange mempercepat penyusunan standar peninjauan untuk pencatatan ganda dengan kebijakan larangan pada prinsipnya dan izin untuk pengecualian. Revisi aturan ditargetkan selesai pada paruh pertama tahun ini, dengan penerapan paling cepat mulai Juli. Teks asli menyebut Jepang sebagai konteks, di mana pencatatan ganda turun 30% dalam tujuh tahun. Namun fokus pembahasan bukan pelarangan total, melainkan bagaimana melindungi pemegang saham minoritas dalam proses pencatatan ganda. Setelah standar baru berlaku, perangkat perlindungan minoritas diperkirakan menjadi faktor lebih penting dalam peninjauan pencatatan dan tata kelola perusahaan. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "422e8d86dca5",
-    "slug": "억만장자-etf로-부자-되세요-773498",
-    "channelId": "ETF",
-    "category": "etf",
-    "publishedAt": "2026-05-13T11:23:06.179Z",
-    "updatedAt": "2026-05-13T11:23:06.179Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/stock/12046454",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12046454",
-    "titleFingerprint": "bbf6af432986e607deb0344096be6f9cfb3de1d7",
-    "dedupKeys": [
-      "422e8d86dca50ba873a24cc1f60d87a7349ebb19",
-      "bbf6af432986e607deb0344096be6f9cfb3de1d7",
-      "bd039054a667aa6d16863887a02fb558856b5114"
-    ],
-    "imageUrl": "/images/articles/422e8d86dca5.jpg",
-    "i18n": {
-      "ko": {
-        "title": "미국 ETF 작명 경쟁 가열, 억만장자 클럽·워머신까지 투자자 감성 겨냥한다",
-        "excerpt": "미국 상장지수펀드 시장에서 2026년 5월 13일 상품 정체성을 앞세운 작명 경쟁이 부각되고 있다. 지수 나열식 이름에서 벗어나 감성과 철학을 담는 흐름이다.",
-        "body": "미국 상장지수펀드(ETF) 시장에서 2026년 5월 13일 상품의 성격을 직관적으로 드러내려는 작명 경쟁이 주목받고 있다. 과거에는 투자 대상 지수나 자산군을 이름에 나열하는 방식이 일반적이었지만, 최근에는 투자자의 감성과 투자 철학을 겨냥한 명칭이 속속 등장하고 있다. 원문 제목의 억만장자 ETF처럼 상품 이름 자체가 투자자가 떠올릴 이미지를 강화하는 역할을 하는 셈이다. ETF 시장에서 이름은 단순한 표지가 아니라 상품 정체성을 설명하는 첫 접점으로 부각된다. 이런 흐름은 비슷한 상품이 많은 시장에서 운용사가 차별성을 드러내려는 움직임으로 읽힌다. 다만 기사에서 제시된 내용은 작명 경쟁과 명칭 변화에 초점을 맞추며 수익률이나 투자 성과를 보장하지 않는다. 출처: mk.co.kr."
-      },
-      "en": {
-        "title": "US ETF Naming Race Heats Up as Billionaire-Style Funds Target Investor Sentiment",
-        "excerpt": "In the US ETF market on May 13, 2026, issuers are emphasizing product identity through names, moving away from index-listing labels toward emotional and philosophy-led branding.",
-        "body": "In the US exchange-traded fund market, a naming race aimed at making each product’s identity instantly clear is drawing attention on May 13, 2026. In the past, ETF names often listed the target index or asset class. Recently, however, more names have appeared that appeal to investor sentiment and investment philosophy. As suggested by the source headline about a billionaire ETF, the product name itself is being used to strengthen the image investors associate with a fund. In this market, a name is no longer just a label but a first point of contact that explains product identity. The trend can be read as an effort by asset managers to stand out in a market with many similar products. The article focuses on naming competition and changing naming styles, and does not imply guaranteed returns or investment performance. Source: mk.co.kr."
-      },
-      "ja": {
-        "title": "米国ETFの命名競争が過熱、億万長者型ファンド名で投資家心理に訴求",
-        "excerpt": "2026年5月13日、米国ETF市場では商品アイデンティティーを前面に出す命名競争が注目されている。指数列挙型から感性や投資哲学を込めた名称へ移っている。",
-        "body": "米国の上場投資信託（ETF）市場で、2026年5月13日、商品の性格を直感的に示そうとする命名競争が注目されている。以前は投資対象となる指数や資産クラスを名称に並べる方式が一般的だったが、最近は投資家の感性や投資哲学に訴える名称が相次いで登場している。原文タイトルの億万長者ETFのように、商品名そのものが投資家の抱くイメージを強める役割を担っている形だ。ETF市場では名称が単なる表示ではなく、商品アイデンティティーを説明する最初の接点として浮上している。この流れは、似た商品が多い市場で運用会社が差別化を示そうとする動きと読める。ただし記事の内容は命名競争と名称の変化に焦点を当てており、収益率や投資成果を保証するものではない。出所: mk.co.kr."
-      },
-      "zh": {
-        "title": "美国ETF命名竞争升温，亿万富翁式基金名称瞄准投资者情绪",
-        "excerpt": "2026年5月13日，美国ETF市场突出产品身份的命名竞争受到关注。基金名称正从罗列指数，转向强调投资者情绪与投资理念。",
-        "body": "2026年5月13日，美国交易所交易基金（ETF）市场中，试图直观呈现产品特征的命名竞争受到关注。过去，ETF名称通常会列出投资对象指数或资产类别；但近期，面向投资者情绪和投资理念的名称陆续出现。正如原文标题提到的亿万富翁ETF，产品名称本身正在强化投资者对基金形成的形象。在ETF市场，名称不再只是标签，而是说明产品身份的第一接点。这一趋势可被视为资产管理公司在相似产品众多的市场中展现差异化的动作。不过，报道重点在于命名竞争和名称变化，并不意味着收益率或投资表现得到保证。来源：mk.co.kr。"
-      },
-      "es": {
-        "title": "La carrera por nombrar ETF en EE. UU. se intensifica con fondos estilo multimillonario",
-        "excerpt": "En el mercado estadounidense de ETF, al 13 de mayo de 2026, gana atención la competencia por nombres que muestren identidad, dejando atrás listas de índices para apelar a emociones y filosofía.",
-        "body": "En el mercado estadounidense de fondos cotizados (ETF), el 13 de mayo de 2026 llama la atención una competencia por nombres que buscan mostrar de forma intuitiva la naturaleza de cada producto. Antes era habitual que los nombres enumeraran el índice o la clase de activo objetivo. Más recientemente han aparecido denominaciones orientadas a la sensibilidad del inversor y a una filosofía de inversión. Como sugiere el titular original sobre un ETF de multimillonarios, el nombre del producto refuerza la imagen que el inversor asocia con el fondo. En el mercado de ETF, el nombre deja de ser una simple etiqueta y se convierte en el primer punto de contacto para explicar la identidad del producto. Esta tendencia puede leerse como un intento de las gestoras de diferenciarse en un mercado con muchos productos similares. El artículo se centra en la competencia de nombres y no garantiza rentabilidad ni resultados de inversión. Fuente: mk.co.kr."
-      },
-      "pt": {
-        "title": "Disputa por nomes de ETFs nos EUA avança com fundos de apelo bilionário",
-        "excerpt": "No mercado americano de ETFs, em 13 de maio de 2026, cresce a atenção à disputa por nomes que destacam identidade, saindo da lista de índices para mirar emoção e filosofia de investimento.",
-        "body": "No mercado americano de fundos negociados em bolsa (ETFs), em 13 de maio de 2026, chama atenção a disputa por nomes que tentam mostrar de forma imediata a natureza de cada produto. Antes, era comum que os nomes apenas listassem o índice ou a classe de ativos de referência. Mais recentemente, surgiram denominações voltadas ao sentimento do investidor e à filosofia de investimento. Como indica o título original sobre um ETF de bilionários, o próprio nome do produto passa a reforçar a imagem que o investidor associa ao fundo. No mercado de ETFs, o nome deixa de ser apenas um rótulo e se torna o primeiro contato para explicar a identidade do produto. A tendência pode ser lida como uma tentativa das gestoras de se diferenciar em um mercado com muitos produtos parecidos. A reportagem trata da competição por nomes e não garante retorno ou desempenho. Fonte: mk.co.kr."
-      },
-      "de": {
-        "title": "US-ETF-Namenswettbewerb verschärft sich mit Milliardärs-Fonds für Anlegergefühl",
-        "excerpt": "Am US-ETF-Markt rückt am 13. Mai 2026 ein Wettbewerb um produktprägende Namen in den Fokus. Statt Indexlisten setzen Anbieter stärker auf Emotionen und Anlagephilosophie.",
-        "body": "Am Markt für börsengehandelte Fonds (ETF) in den USA gewinnt am 13. Mai 2026 ein Namenswettbewerb an Aufmerksamkeit, der die Identität eines Produkts möglichst unmittelbar zeigen soll. Früher war es üblich, im Namen den Zielindex oder die Anlageklasse aufzuzählen. Zuletzt tauchen jedoch verstärkt Bezeichnungen auf, die Anlegeremotionen und Anlagephilosophie ansprechen. Wie die ursprüngliche Überschrift zu einem Milliardärs-ETF nahelegt, soll der Produktname selbst das Bild stärken, das Anleger mit dem Fonds verbinden. Im ETF-Markt ist der Name damit nicht nur ein Etikett, sondern ein erster Kontaktpunkt zur Erklärung der Produktidentität. Der Trend lässt sich als Versuch der Anbieter lesen, sich in einem Markt mit vielen ähnlichen Produkten abzuheben. Der Artikel behandelt Namenswettbewerb und veränderte Namensgebung, nicht garantierte Renditen oder Anlageerfolge. Quelle: mk.co.kr."
-      },
-      "fr": {
-        "title": "La bataille des noms d’ETF aux États-Unis s’intensifie avec des fonds façon milliardaire",
-        "excerpt": "Sur le marché américain des ETF, au 13 mai 2026, la concurrence des noms axés sur l’identité des produits s’impose, remplaçant les listes d’indices par l’émotion et la philosophie d’investissement.",
-        "body": "Sur le marché américain des fonds cotés en Bourse (ETF), le 13 mai 2026, une concurrence autour des noms destinés à rendre l’identité des produits immédiatement lisible retient l’attention. Autrefois, les noms énuméraient souvent l’indice cible ou la classe d’actifs. Plus récemment, des appellations visant la sensibilité des investisseurs et une philosophie d’investissement apparaissent les unes après les autres. Comme le suggère le titre original sur un ETF de milliardaires, le nom du produit sert lui-même à renforcer l’image associée au fonds. Sur le marché des ETF, le nom n’est donc plus un simple libellé, mais le premier point de contact pour expliquer l’identité du produit. Cette évolution peut être lue comme une tentative des gestionnaires de se différencier dans un marché riche en produits similaires. L’article porte sur cette concurrence de noms et ne garantit ni rendement ni performance. Source: mk.co.kr."
-      },
-      "ar": {
-        "title": "سباق تسمية صناديق ETF الأميركية يشتد مع أسماء تستهدف مشاعر المستثمرين",
-        "excerpt": "في سوق صناديق المؤشرات المتداولة الأميركية في 13 مايو 2026، برز سباق أسماء يكشف هوية المنتج، مع انتقال من سرد المؤشرات إلى مخاطبة العاطفة وفلسفة الاستثمار.",
-        "body": "في سوق صناديق المؤشرات المتداولة ETF في الولايات المتحدة، جذب الانتباه في 13 مايو 2026 سباق على الأسماء يهدف إلى إظهار طبيعة المنتج بصورة مباشرة. في السابق، كانت الأسماء غالبا تعرض المؤشر المستهدف أو فئة الأصول محل الاستثمار. أما في الآونة الأخيرة، فقد ظهرت أسماء تخاطب مشاعر المستثمرين وفلسفة الاستثمار. وكما يوحي العنوان الأصلي عن صندوق ETF للمليارديرات، بات اسم المنتج نفسه يؤدي دورا في تعزيز الصورة التي يستحضرها المستثمر عن الصندوق. في سوق ETF لم يعد الاسم مجرد بطاقة تعريف، بل أصبح نقطة الاتصال الأولى التي تشرح هوية المنتج. ويمكن قراءة هذا الاتجاه كمحاولة من شركات الإدارة لإبراز التميز في سوق يضم منتجات متشابهة كثيرة. ويركز المقال على سباق التسمية وتغير أساليب الأسماء، ولا يعني ضمان العوائد أو الأداء الاستثماري. المصدر: mk.co.kr."
-      },
-      "hi": {
-        "title": "अमेरिकी ETF नामकरण की होड़ तेज, अरबपति शैली के फंड निवेशक भावना पर केंद्रित",
-        "excerpt": "13 मई 2026 को अमेरिकी ETF बाजार में उत्पाद पहचान दिखाने वाली नामकरण होड़ उभर रही है। सूचकांक गिनाने वाले नामों की जगह भावना और निवेश दर्शन पर जोर बढ़ा है।",
-        "body": "अमेरिका के एक्सचेंज ट्रेडेड फंड (ETF) बाजार में 13 मई 2026 को ऐसे नामों की होड़ ध्यान खींच रही है जो उत्पाद की प्रकृति को तुरंत स्पष्ट करना चाहते हैं। पहले ETF नामों में निवेश लक्ष्य सूचकांक या परिसंपत्ति वर्ग को सूचीबद्ध करना आम था। हाल में ऐसे नाम सामने आ रहे हैं जो निवेशक की भावना और निवेश दर्शन को संबोधित करते हैं। मूल शीर्षक में अरबपति ETF का उल्लेख बताता है कि उत्पाद का नाम खुद उस छवि को मजबूत करने का माध्यम बन रहा है जिसे निवेशक फंड से जोड़ते हैं। ETF बाजार में नाम अब केवल लेबल नहीं, बल्कि उत्पाद पहचान समझाने वाला पहला संपर्क बिंदु बन रहा है। यह रुझान समान उत्पादों से भरे बाजार में प्रबंधकों की अलग पहचान दिखाने की कोशिश के रूप में देखा जा सकता है। लेख नामकरण प्रतिस्पर्धा और नामों में बदलाव पर केंद्रित है; यह रिटर्न या निवेश प्रदर्शन की गारंटी नहीं देता। स्रोत: mk.co.kr."
-      },
-      "id": {
-        "title": "Persaingan Nama ETF AS Memanas, Dana Bergaya Miliarder Incar Sentimen Investor",
-        "excerpt": "Di pasar ETF Amerika Serikat pada 13 Mei 2026, persaingan nama yang menonjolkan identitas produk makin disorot, bergeser dari daftar indeks menuju emosi dan filosofi investasi.",
-        "body": "Di pasar exchange-traded fund (ETF) Amerika Serikat, pada 13 Mei 2026, persaingan pemberian nama yang berupaya menampilkan karakter produk secara langsung menarik perhatian. Dulu, nama ETF umumnya mencantumkan indeks sasaran atau kelas aset yang menjadi objek investasi. Belakangan, muncul lebih banyak nama yang menyasar sentimen investor dan filosofi investasi. Seperti tersirat dalam judul asli tentang ETF miliarder, nama produk itu sendiri dipakai untuk memperkuat citra yang dibayangkan investor. Di pasar ETF, nama bukan lagi sekadar label, melainkan titik kontak pertama untuk menjelaskan identitas produk. Tren ini dapat dibaca sebagai upaya manajer investasi untuk membedakan diri di pasar dengan banyak produk serupa. Artikel tersebut berfokus pada persaingan nama dan perubahan gaya penamaan, bukan jaminan imbal hasil atau kinerja investasi. Sumber: mk.co.kr."
-      }
-    }
-  },
-  {
-    "id": "27348ea0fd77",
-    "slug": "은행원-말고-증권맨-사위-없나미래에셋그룹-시총-신한지주-추월했다-205962",
-    "channelId": "ETF",
-    "category": "etf",
-    "publishedAt": "2026-05-13T11:20:44.886Z",
-    "updatedAt": "2026-05-13T11:20:44.886Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/stock/12046625",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12046625",
-    "titleFingerprint": "1763f544e50a827e8d1efbd4bca2ae5c7b382413",
-    "dedupKeys": [
-      "27348ea0fd77046463702dda5bf749b7329b8afd",
-      "1763f544e50a827e8d1efbd4bca2ae5c7b382413",
-      "b256a1ed66dcc624185eba27d91898bdb47702fd"
-    ],
-    "imageUrl": "/images/articles/27348ea0fd77.jpg",
-    "i18n": {
-      "ko": {
-        "title": "미래에셋그룹 시총, 신한지주 추월…저축에서 투자로 바뀐 금융 판도",
-        "excerpt": "미래에셋그룹 시가총액이 신한지주를 넘어섰다. 증시 활황과 거래대금 증가로 증권업 이익이 커지며 은행 중심 금융주의 흐름이 흔들리고 있다.",
-        "body": "미래에셋그룹의 시가총액이 신한지주를 추월하며 국내 금융업의 무게중심이 저축에서 투자로 옮겨가는 흐름을 보여줬다. 원문은 증시 활황 속 거래대금이 폭증하면서 증권사의 이익이 급증했고, 이에 따라 증권업 전반이 재평가받고 있다고 전했다. 한국투자증권, 삼성증권, NH투자증권 등 주요 증권주가 강세를 보인 반면 KB·신한·하나지주 등 은행계 금융지주는 상대적으로 주춤한 흐름을 나타냈다. 자산관리 등 수익원 다변화도 증권사 가치 상승의 배경으로 언급됐다. 이번 변화는 투자 중심 금융 수요 확대가 시가총액 순위에도 반영되고 있음을 시사한다. 출처: mk.co.kr 인용."
-      },
-      "en": {
-        "title": "Mirae Asset Market Cap Overtakes Shinhan as Investing Gains Ground",
-        "excerpt": "Mirae Asset Group’s market value has surpassed Shinhan Financial Group as a stock market boom and surging trading value lift securities firms’ profits and valuations.",
-        "body": "Mirae Asset Group’s market capitalization has overtaken Shinhan Financial Group, highlighting a shift in South Korea’s financial sector from savings toward investment. The original report said a buoyant stock market and a sharp rise in trading value have boosted securities firms’ earnings, prompting a broader revaluation of the brokerage industry. Major securities names such as Korea Investment & Securities, Samsung Securities and NH Investment & Securities showed strength, while banking-led financial groups including KB, Shinhan and Hana were relatively sluggish. Diversified revenue sources, including wealth management, were also cited as supporting securities firms’ rising value. The change suggests that stronger investment demand is being reflected in market-cap rankings. Source: cited from mk.co.kr."
-      },
-      "ja": {
-        "title": "未来アセット時価総額が新韓金融を突破、貯蓄から投資へ金融地図が変化",
-        "excerpt": "未来アセットグループの時価総額が新韓金融グループを上回った。株式市場の活況と売買代金の増加で証券会社の利益と評価が高まっている。",
-        "body": "未来アセットグループの時価総額が新韓金融グループを追い越し、韓国金融業の重心が貯蓄から投資へ移る流れを示した。原文は、株式市場の活況の中で売買代金が急増し、証券会社の利益が大きく伸びたことで、証券業全体が再評価されていると伝えた。韓国投資証券、サムスン証券、NH投資証券など主要証券株が強含む一方、KB・新韓・ハナなど銀行系金融持株は相対的に伸び悩んだ。資産管理など収益源の多様化も証券会社の価値上昇の背景として挙げられた。今回の変化は、投資中心の金融需要拡大が時価総額順位にも反映されていることを示している。出典：mk.co.kr引用。"
-      },
-      "zh": {
-        "title": "未来资产集团市值超过新韩金融，储蓄转向投资改写金融格局",
-        "excerpt": "未来资产集团市值已超过新韩金融集团。股市活跃和成交金额激增推动证券公司利润增长，银行主导的金融股走势相对放缓。",
-        "body": "未来资产集团市值超过新韩金融集团，显示韩国金融业重心正从储蓄转向投资。原文称，在股市活跃背景下，成交金额大幅增加，证券公司利润随之快速增长，证券行业整体获得重新评估。韩国投资证券、三星证券、NH投资证券等主要证券股表现强劲，而KB、新韩、韩亚等银行系金融控股公司走势相对停滞。资产管理等收入来源多元化也被提及为证券公司价值上升的背景。此次变化表明，以投资为中心的金融需求扩大，正在反映到市值排名之中。来源：引用自 mk.co.kr。"
-      },
-      "es": {
-        "title": "Mirae Asset supera a Shinhan en valor bursátil y marca el giro hacia la inversión",
-        "excerpt": "La capitalización de Mirae Asset Group superó a la de Shinhan Financial Group, impulsada por el auge bursátil, el fuerte aumento del volumen negociado y mayores beneficios de las firmas de valores.",
-        "body": "La capitalización bursátil de Mirae Asset Group superó a la de Shinhan Financial Group, reflejando un cambio del sector financiero surcoreano desde el ahorro hacia la inversión. Según el texto original, el auge del mercado de acciones y el fuerte aumento del valor negociado elevaron de forma notable las ganancias de las compañías de valores, lo que llevó a una revalorización del sector. Korea Investment & Securities, Samsung Securities y NH Investment & Securities mostraron fortaleza, mientras que los grupos financieros bancarios KB, Shinhan y Hana se movieron con menor impulso. La diversificación de ingresos, incluida la gestión de patrimonios, también se mencionó como apoyo al mayor valor de las firmas de valores. El cambio indica que la demanda financiera centrada en inversión ya se refleja en los rankings de capitalización. Fuente: citado de mk.co.kr."
-      },
-      "pt": {
-        "title": "Mirae Asset supera Shinhan em valor de mercado com avanço da era do investimento",
-        "excerpt": "O valor de mercado do Mirae Asset Group ultrapassou o do Shinhan Financial Group, enquanto a alta da bolsa e o salto no volume negociado elevam lucros e avaliações das corretoras.",
-        "body": "O valor de mercado do Mirae Asset Group ultrapassou o do Shinhan Financial Group, mostrando a mudança do eixo financeiro sul-coreano da poupança para o investimento. Segundo o texto original, a forte atividade no mercado acionário e o aumento expressivo do valor negociado impulsionaram os lucros das corretoras, levando a uma reavaliação do setor de valores mobiliários. Korea Investment & Securities, Samsung Securities e NH Investment & Securities avançaram com força, enquanto grupos financeiros ligados a bancos, como KB, Shinhan e Hana, ficaram relativamente mais fracos. A diversificação de receitas, incluindo gestão de patrimônio, também foi citada como fator de apoio ao aumento de valor das corretoras. A mudança sugere que a demanda financeira voltada ao investimento já aparece nos rankings de capitalização. Fonte: citado de mk.co.kr."
-      },
-      "de": {
-        "title": "Mirae Asset überholt Shinhan beim Börsenwert und zeigt den Wandel zur Anlage",
-        "excerpt": "Die Marktkapitalisierung der Mirae Asset Group hat Shinhan Financial Group übertroffen. Börsenboom und steigende Handelswerte erhöhen Gewinne und Bewertung der Wertpapierfirmen.",
-        "body": "Die Marktkapitalisierung der Mirae Asset Group hat die von Shinhan Financial Group übertroffen und zeigt damit eine Verschiebung im südkoreanischen Finanzsektor vom Sparen hin zum Investieren. Dem Originalbericht zufolge haben ein lebhafter Aktienmarkt und ein sprunghafter Anstieg des Handelswerts die Gewinne der Wertpapierfirmen deutlich erhöht, wodurch die Branche neu bewertet wird. Korea Investment & Securities, Samsung Securities und NH Investment & Securities zeigten Stärke, während bankgeprägte Finanzholdings wie KB, Shinhan und Hana relativ verhalten blieben. Auch diversifizierte Erlösquellen, darunter Vermögensverwaltung, wurden als Hintergrund für den höheren Wert der Wertpapierfirmen genannt. Die Entwicklung deutet darauf hin, dass die wachsende investmentorientierte Nachfrage in den Marktkapitalisierungsranglisten sichtbar wird. Quelle: zitiert nach mk.co.kr."
-      },
-      "fr": {
-        "title": "Mirae Asset dépasse Shinhan en capitalisation, signe du basculement vers l’investissement",
-        "excerpt": "La capitalisation de Mirae Asset Group a dépassé celle de Shinhan Financial Group, portée par l’essor boursier, la hausse des transactions et les profits des sociétés de courtage.",
-        "body": "La capitalisation boursière de Mirae Asset Group a dépassé celle de Shinhan Financial Group, illustrant le déplacement du centre de gravité de la finance sud-coréenne de l’épargne vers l’investissement. Selon le texte original, la vigueur du marché actions et l’explosion des montants échangés ont fortement accru les bénéfices des sociétés de valeurs mobilières, entraînant une réévaluation du secteur. Korea Investment & Securities, Samsung Securities et NH Investment & Securities ont affiché une dynamique solide, tandis que les holdings financières bancaires comme KB, Shinhan et Hana ont marqué le pas. La diversification des revenus, notamment dans la gestion de patrimoine, a aussi été citée comme facteur soutenant la hausse de valeur des courtiers. Cette évolution montre que la demande financière centrée sur l’investissement se reflète désormais dans les classements de capitalisation. Source : cité de mk.co.kr."
-      },
-      "ar": {
-        "title": "القيمة السوقية لمجموعة ميراي أسيت تتجاوز شينهان مع صعود الاستثمار",
-        "excerpt": "تجاوزت القيمة السوقية لمجموعة ميراي أسيت قيمة شينهان المالية، مع دعم ازدهار سوق الأسهم وقفزة قيمة التداول لأرباح شركات الأوراق المالية وتقييماتها.",
-        "body": "تجاوزت القيمة السوقية لمجموعة ميراي أسيت القيمة السوقية لمجموعة شينهان المالية، ما يبرز تحول مركز الثقل في القطاع المالي الكوري الجنوبي من الادخار إلى الاستثمار. وذكر النص الأصلي أن ازدهار سوق الأسهم والارتفاع الحاد في قيمة التداول أديا إلى زيادة كبيرة في أرباح شركات الأوراق المالية، الأمر الذي دفع إلى إعادة تقييم القطاع. وأظهرت شركات مثل كوريا إنفستمنت للأوراق المالية وسامسونغ للأوراق المالية وNH للاستثمار والأوراق المالية أداء قويا، بينما بدت المجموعات المالية المصرفية مثل KB وشينهان وهانا أكثر فتورا نسبيا. كما ورد أن تنويع مصادر الدخل، بما في ذلك إدارة الأصول، كان من خلفيات ارتفاع قيمة شركات الأوراق المالية. ويشير هذا التحول إلى أن توسع الطلب المالي المتمحور حول الاستثمار ينعكس في ترتيب القيم السوقية. المصدر: نقلا عن mk.co.kr."
-      },
-      "hi": {
-        "title": "मिरे एसेट का बाजार मूल्य शिनहान से आगे, बचत से निवेश की ओर बदला रुझान",
-        "excerpt": "मिरे एसेट ग्रुप का बाजार पूंजीकरण शिनहान फाइनेंशियल ग्रुप से आगे निकल गया है। शेयर बाजार की तेजी और कारोबार मूल्य में उछाल से प्रतिभूति कंपनियों के मुनाफे बढ़े हैं।",
-        "body": "मिरे एसेट ग्रुप का बाजार पूंजीकरण शिनहान फाइनेंशियल ग्रुप से आगे निकल गया, जो दक्षिण कोरिया के वित्तीय क्षेत्र में बचत से निवेश की ओर बदलते केंद्र को दिखाता है। मूल रिपोर्ट के अनुसार, शेयर बाजार की तेजी और कारोबार मूल्य में तेज वृद्धि से प्रतिभूति कंपनियों के मुनाफे में बड़ा इजाफा हुआ और पूरे प्रतिभूति क्षेत्र का पुनर्मूल्यांकन हो रहा है। कोरिया इन्वेस्टमेंट एंड सिक्योरिटीज, सैमसंग सिक्योरिटीज और NH इन्वेस्टमेंट एंड सिक्योरिटीज जैसे प्रमुख शेयर मजबूत रहे, जबकि KB, शिनहान और हाना जैसे बैंक आधारित वित्तीय समूह अपेक्षाकृत सुस्त दिखे। संपत्ति प्रबंधन सहित आय स्रोतों का विविधीकरण भी प्रतिभूति कंपनियों के मूल्य बढ़ने की पृष्ठभूमि के रूप में बताया गया। यह बदलाव बताता है कि निवेश-केंद्रित वित्तीय मांग बाजार पूंजीकरण रैंकिंग में भी दिख रही है। स्रोत: mk.co.kr से उद्धृत।"
-      },
-      "id": {
-        "title": "Kapitalisasi Mirae Asset Lampaui Shinhan, Sinyal Pergeseran ke Investasi",
-        "excerpt": "Kapitalisasi pasar Mirae Asset Group melampaui Shinhan Financial Group karena pasar saham yang ramai dan lonjakan nilai transaksi mendorong laba perusahaan sekuritas.",
-        "body": "Kapitalisasi pasar Mirae Asset Group melampaui Shinhan Financial Group, menunjukkan pergeseran pusat gravitasi industri keuangan Korea Selatan dari tabungan menuju investasi. Teks asli menyebutkan bahwa pasar saham yang bergairah dan lonjakan tajam nilai transaksi membuat laba perusahaan sekuritas meningkat besar, sehingga sektor sekuritas mendapat penilaian ulang. Korea Investment & Securities, Samsung Securities, dan NH Investment & Securities menunjukkan penguatan, sementara grup keuangan berbasis bank seperti KB, Shinhan, dan Hana relatif tertahan. Diversifikasi sumber pendapatan, termasuk manajemen aset, juga disebut sebagai latar belakang kenaikan nilai perusahaan sekuritas. Perubahan ini menunjukkan bahwa permintaan keuangan yang berpusat pada investasi mulai tercermin dalam peringkat kapitalisasi pasar. Sumber: dikutip dari mk.co.kr."
       }
     }
   }
