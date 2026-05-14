@@ -1,5 +1,230 @@
 [
   {
+    "id": "65fcabed55c1",
+    "slug": "삼전닉스-없인-못해美도-열풍-불더니-한국-주식에-꽂혔다-분석-861004",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-05-14T16:54:13.418Z",
+    "updatedAt": "2026-05-14T16:54:13.418Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/2026051467266",
+    "canonicalUrl": "https://www.hankyung.com/article/2026051467266",
+    "titleFingerprint": "158008a4dbc51b4723726e2bce5d10d3fe89e03c",
+    "dedupKeys": [
+      "65fcabed55c16ed5709df8b974f659f89513dbc3",
+      "158008a4dbc51b4723726e2bce5d10d3fe89e03c",
+      "425b6306b7db127605409519353eda7ac025bf8a"
+    ],
+    "imageUrl": "/images/articles/65fcabed55c1.jpg",
+    "i18n": {
+      "ko": {
+        "title": "삼성전자·SK하이닉스 ETF에 美 자금 몰린다…월가가 본 한국 반도체",
+        "excerpt": "14일 한국경제에 따르면 코스피가 8000선에 근접한 가운데 미국 헤지펀드와 개인투자자 자금이 삼성전자·SK하이닉스 중심의 한국 주식과 ETF로 유입되고 있다.",
+        "body": "14일 한국경제는 일본 니혼게이자이신문 보도를 인용해 코스피가 8000선에 육박하는 상승세 속에서 뉴욕 헤지펀드와 미국 개인투자자 자금이 한국 주식시장으로 들어오고 있다고 전했다. 핵심은 HBM을 앞세운 삼성전자와 SK하이닉스다. AI 산업 확대와 메모리 가격 상승으로 두 종목 주가는 최근 1년 사이 3배 가까이 올랐지만 예상 PER은 약 6배로, 미국 마이크론의 약 9배보다 낮다고 분석됐다. 미국 라운드힐의 메모리 반도체 ETF에는 출시 한 달 만에 60억달러 이상이 유입됐고, 국내 ETF 1107개 중 삼성전자를 담은 상품은 218개, SK하이닉스 편입 상품은 203개로 집계됐다. 반도체 중심의 ETF 재편은 당분간 시장의 주요 변수로 꼽힌다. 출처: hankyung.com 인용."
+      },
+      "en": {
+        "title": "Samsung and SK Hynix ETFs Draw U.S. Cash as Wall Street Reassesses Korea Chips",
+        "excerpt": "According to Hankyung on May 14, as the KOSPI nears 8,000, U.S. hedge funds and retail investors are directing capital into Korean stocks and ETFs centered on Samsung Electronics and SK Hynix.",
+        "body": "Hankyung reported on May 14, citing Nikkei, that New York hedge funds and U.S. retail investors are moving money into Korea’s stock market as the KOSPI approaches the 8,000 level. The focus is Samsung Electronics and SK Hynix, backed by HBM demand. Nikkei said AI expansion and higher memory prices have helped both shares nearly triple over the past year, yet their expected PER is about 6 times, below Micron’s roughly 9 times. Roundhill’s U.S.-listed memory semiconductor ETF attracted more than $6 billion within a month of launch. In Korea, 218 of 1,107 listed ETFs hold Samsung Electronics, while 203 hold SK Hynix. The semiconductor-led reshaping of ETF demand remains a key market issue. Source: hankyung.com."
+      },
+      "ja": {
+        "title": "サムスン電子・SKハイニックスETFに米資金、ウォール街が韓国半導体を再評価",
+        "excerpt": "韓国経済新聞が14日に伝えたところによると、KOSPIが8000に迫るなか、米ヘッジファンドと個人投資家の資金がサムスン電子・SKハイニックス中心の韓国株とETFに流入している。",
+        "body": "韓国経済新聞は14日、日本経済新聞の報道を引用し、KOSPIが8000に迫る上昇局面で、ニューヨークのヘッジファンドや米個人投資家の資金が韓国株式市場に流入していると伝えた。焦点はHBMを強みとするサムスン電子とSKハイニックスだ。AI産業の拡大とメモリー価格上昇により、両社株は直近1年で約3倍に上昇したが、予想PERは約6倍で、米マイクロンの約9倍を下回ると分析された。米ラウンドヒルのメモリー半導体ETFには設定から1カ月で60億ドル超が流入。韓国上場ETF1107本のうち、サムスン電子を組み入れる商品は218本、SKハイニックスは203本だった。半導体主導のETF再編が市場の焦点になっている。出典: hankyung.com."
+      },
+      "zh": {
+        "title": "三星电子、SK海力士ETF吸引美国资金，华尔街重新关注韩国半导体",
+        "excerpt": "据韩国经济新闻14日报道，在KOSPI逼近8000点之际，美国对冲基金和散户资金正流入以三星电子、SK海力士为核心的韩国股票和ETF。",
+        "body": "韩国经济新闻14日援引日本经济新闻报道称，随着KOSPI逼近8000点，纽约对冲基金和美国个人投资者资金正在流入韩国股市。焦点是依托HBM的三星电子和SK海力士。报道称，AI产业扩张和存储芯片价格上涨推动两家公司股价在近一年内上涨近3倍，但预期市盈率约为6倍，仍低于美国美光约9倍的水平。美国Roundhill推出的存储半导体ETF在上市一个月内吸引超过60亿美元资金。韩国上市的1107只ETF中，持有三星电子的有218只，持有SK海力士的有203只。以半导体为中心的ETF市场重组仍是重要变量。来源: hankyung.com."
+      },
+      "es": {
+        "title": "ETF de Samsung y SK Hynix captan dinero de EE. UU. mientras Wall Street mira a Corea",
+        "excerpt": "Según Hankyung el 14 de mayo, con el KOSPI cerca de 8.000 puntos, fondos de cobertura y minoristas de EE. UU. están entrando en acciones y ETF coreanos centrados en Samsung Electronics y SK Hynix.",
+        "body": "Hankyung informó el 14 de mayo, citando a Nikkei, que fondos de cobertura de Nueva York e inversores minoristas estadounidenses están dirigiendo capital al mercado bursátil coreano mientras el KOSPI se acerca a 8.000 puntos. El foco está en Samsung Electronics y SK Hynix, impulsadas por HBM. La expansión de la IA y el alza de precios de memoria han llevado sus acciones a casi triplicarse en un año, aunque su PER esperado ronda 6 veces, por debajo de Micron, cerca de 9 veces. El ETF de semiconductores de memoria de Roundhill captó más de 6.000 millones de dólares en un mes. En Corea, 218 de 1.107 ETF incluyen Samsung y 203 incluyen SK Hynix. La reorganización de ETF hacia semiconductores sigue siendo clave. Fuente: hankyung.com."
+      },
+      "pt": {
+        "title": "ETFs de Samsung e SK Hynix atraem capital dos EUA com Wall Street de olho na Coreia",
+        "excerpt": "Segundo o Hankyung em 14 de maio, com o KOSPI perto de 8.000 pontos, hedge funds e investidores individuais dos EUA estão aplicando em ações e ETFs coreanos ligados a Samsung Electronics e SK Hynix.",
+        "body": "O Hankyung informou em 14 de maio, citando o Nikkei, que hedge funds de Nova York e investidores individuais dos EUA estão levando capital ao mercado acionário coreano enquanto o KOSPI se aproxima de 8.000 pontos. O foco são Samsung Electronics e SK Hynix, apoiadas por HBM. A expansão da IA e a alta dos preços de memória fizeram as ações das duas empresas quase triplicarem em um ano, mas o PER esperado é de cerca de 6 vezes, abaixo das cerca de 9 vezes da Micron. O ETF de semicondutores de memória da Roundhill recebeu mais de US$ 6 bilhões em um mês. Na Coreia, 218 dos 1.107 ETFs listados têm Samsung e 203 têm SK Hynix. A migração dos ETFs para semicondutores segue como ponto central. Fonte: hankyung.com."
+      },
+      "de": {
+        "title": "Samsung- und SK-Hynix-ETFs ziehen US-Geld an, Wall Street entdeckt Koreas Chips neu",
+        "excerpt": "Laut Hankyung vom 14. Mai fließt bei einem KOSPI nahe 8.000 Kapital von US-Hedgefonds und Privatanlegern in koreanische Aktien und ETFs rund um Samsung Electronics und SK Hynix.",
+        "body": "Hankyung berichtete am 14. Mai unter Berufung auf Nikkei, dass New Yorker Hedgefonds und US-Privatanleger Geld in den koreanischen Aktienmarkt lenken, während sich der KOSPI der Marke von 8.000 nähert. Im Mittelpunkt stehen Samsung Electronics und SK Hynix mit HBM. Die Ausweitung der KI-Industrie und steigende Speicherpreise ließen beide Aktien binnen eines Jahres fast auf das Dreifache steigen. Dennoch liegt das erwartete KGV bei etwa 6 und damit unter Micron mit rund 9. Der Speicherhalbleiter-ETF von Roundhill zog innerhalb eines Monats mehr als 6 Mrd. Dollar an. In Korea halten 218 von 1.107 gelisteten ETFs Samsung Electronics, 203 halten SK Hynix. Die Halbleiterorientierung der ETF-Nachfrage bleibt ein wichtiger Marktfaktor. Quelle: hankyung.com."
+      },
+      "fr": {
+        "title": "Les ETF Samsung et SK Hynix attirent l’argent américain, Wall Street revient sur les puces coréennes",
+        "excerpt": "Selon Hankyung le 14 mai, alors que le KOSPI approche 8 000 points, les hedge funds et particuliers américains investissent dans les actions et ETF coréens centrés sur Samsung Electronics et SK Hynix.",
+        "body": "Hankyung a rapporté le 14 mai, citant Nikkei, que des hedge funds new-yorkais et des investisseurs particuliers américains dirigent des capitaux vers la Bourse coréenne alors que le KOSPI approche 8 000 points. L’attention porte sur Samsung Electronics et SK Hynix, portés par le HBM. L’expansion de l’IA et la hausse des prix de la mémoire ont presque triplé leurs actions en un an, mais leur PER attendu reste d’environ 6 fois, contre près de 9 fois pour Micron. L’ETF américain de semi-conducteurs mémoire de Roundhill a collecté plus de 6 milliards de dollars en un mois. En Corée, 218 des 1 107 ETF cotés détiennent Samsung Electronics et 203 détiennent SK Hynix. La réorientation des ETF vers les semi-conducteurs demeure un enjeu majeur. Source: hankyung.com."
+      },
+      "ar": {
+        "title": "صناديق سامسونغ وSK هاينكس تجذب أموالاً أميركية مع عودة وول ستريت لأسهم كوريا",
+        "excerpt": "بحسب هانكيونغ في 14 مايو، ومع اقتراب مؤشر كوسبي من 8000 نقطة، تتجه أموال صناديق التحوط والمستثمرين الأفراد في الولايات المتحدة إلى أسهم وصناديق ETF كورية تركز على سامسونغ وSK هاينكس.",
+        "body": "ذكرت هانكيونغ في 14 مايو، نقلاً عن نيكاي، أن صناديق تحوط في نيويورك ومستثمرين أفراداً أميركيين يضخون أموالاً في سوق الأسهم الكورية مع اقتراب كوسبي من مستوى 8000 نقطة. محور الاهتمام هو سامسونغ إلكترونيكس وSK هاينكس بفضل ذاكرة HBM. وأدى توسع صناعة الذكاء الاصطناعي وارتفاع أسعار الذاكرة إلى صعود سهمي الشركتين بنحو ثلاثة أضعاف خلال عام، لكن مكرر الربحية المتوقع لهما يقارب 6 مرات، مقابل نحو 9 مرات لمايكرون. وجذب صندوق Roundhill الأميركي لأشباه موصلات الذاكرة أكثر من 6 مليارات دولار خلال شهر. وفي كوريا، تضم 218 من أصل 1107 صناديق ETF سامسونغ، و203 تضم SK هاينكس. إعادة تمركز صناديق ETF حول الرقائق تبقى عاملاً رئيسياً. المصدر: hankyung.com."
+      },
+      "hi": {
+        "title": "Samsung और SK Hynix ETF में अमेरिकी पैसा, वॉल स्ट्रीट की नजर कोरियाई चिप्स पर",
+        "excerpt": "Hankyung के अनुसार 14 मई को KOSPI के 8,000 के करीब पहुंचने के बीच अमेरिकी हेज फंड और खुदरा निवेशकों का धन Samsung Electronics और SK Hynix केंद्रित कोरियाई शेयरों और ETF में आ रहा है।",
+        "body": "Hankyung ने 14 मई को Nikkei के हवाले से बताया कि KOSPI के 8,000 के करीब पहुंचने के बीच न्यूयॉर्क के हेज फंड और अमेरिकी खुदरा निवेशक कोरियाई शेयर बाजार में पैसा लगा रहे हैं। मुख्य ध्यान HBM से जुड़ी Samsung Electronics और SK Hynix पर है। AI उद्योग के विस्तार और मेमोरी कीमतों में वृद्धि से दोनों शेयर पिछले एक साल में लगभग तीन गुना चढ़े, लेकिन उनका अनुमानित PER करीब 6 गुना है, जो Micron के लगभग 9 गुना से कम है। Roundhill के अमेरिकी मेमोरी सेमीकंडक्टर ETF में लॉन्च के एक महीने में 6 अरब डॉलर से अधिक आया। कोरिया में सूचीबद्ध 1,107 ETF में 218 Samsung Electronics और 203 SK Hynix रखते हैं। सेमीकंडक्टर आधारित ETF पुनर्गठन बाजार का अहम मुद्दा बना है। स्रोत: hankyung.com."
+      },
+      "id": {
+        "title": "ETF Samsung dan SK Hynix Dilirik Dana AS saat Wall Street Kembali Menilai Chip Korea",
+        "excerpt": "Menurut Hankyung pada 14 Mei, saat KOSPI mendekati 8.000, dana hedge fund dan investor ritel AS mengalir ke saham serta ETF Korea yang berfokus pada Samsung Electronics dan SK Hynix.",
+        "body": "Hankyung melaporkan pada 14 Mei, mengutip Nikkei, bahwa hedge fund New York dan investor ritel AS mengalirkan dana ke pasar saham Korea saat KOSPI mendekati level 8.000. Fokusnya adalah Samsung Electronics dan SK Hynix yang didukung HBM. Ekspansi industri AI dan kenaikan harga memori membuat saham keduanya hampir naik tiga kali lipat dalam setahun, tetapi PER perkiraan sekitar 6 kali, lebih rendah dari Micron sekitar 9 kali. ETF semikonduktor memori Roundhill di AS menarik lebih dari US$6 miliar dalam sebulan sejak diluncurkan. Di Korea, 218 dari 1.107 ETF tercatat memegang Samsung Electronics, sementara 203 memegang SK Hynix. Pergeseran ETF ke sektor semikonduktor tetap menjadi faktor pasar utama. Sumber: hankyung.com."
+      }
+    }
+  },
+  {
+    "id": "8ac1009dabea",
+    "slug": "차익-실현-고점-신호불장속-외국인-최근-5거래일간-24조-매도-559099",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-05-14T16:52:42.897Z",
+    "updatedAt": "2026-05-14T16:52:42.897Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/stock/12047165",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12047165",
+    "titleFingerprint": "340c03455184492260667a7a5300feae864f55dd",
+    "dedupKeys": [
+      "8ac1009dabea3f4e19c38bf918aa77976a230a6a",
+      "340c03455184492260667a7a5300feae864f55dd",
+      "c8f740a80f2f0d2a8467625bf748a820a8308cef"
+    ],
+    "imageUrl": "/images/articles/8ac1009dabea.jpg",
+    "i18n": {
+      "ko": {
+        "title": "외국인 5거래일 24조 매도, 코스피 사상 최고가 속 변동성 확대",
+        "excerpt": "코스피가 사상 최고가를 경신하는 가운데 외국인 투자자들이 최근 5거래일 연속 국내 증시에서 순매도에 나서며 변동성이 커지고 있다.",
+        "body": "코스피가 사상 최고가를 경신하는 불장 국면에서 외국인 투자자들이 국내 증시에서 최근 5거래일 연속 순매도에 나섰다. 순매도는 매도가 매수보다 많은 상태를 뜻하며, 원문 제목에는 최근 5거래일간 외국인 매도 규모가 24조원으로 제시됐다. 지수는 최고가를 새로 쓰고 있지만 외국인 매도 흐름이 이어지면서 시장 변동성은 확대되고 있다. 증권가에서는 이를 차익 실현인지, 고점 신호인지 주목하는 분위기다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Foreigners Sell 24 Trillion Won in 5 Sessions as Kospi Volatility Rises",
+        "excerpt": "As the Kospi renews its record high, foreign investors have net sold Korean stocks for five straight trading days, increasing market volatility.",
+        "body": "Foreign investors have continued net selling in the Korean stock market for five consecutive trading days while the Kospi has been setting record highs. Net selling means sales exceeded purchases, and the original headline cited foreign selling of 24 trillion won over the latest five sessions. Although the index is reaching new highs, the sustained selling by overseas investors is adding to volatility in the market. Brokerage circles are watching whether the move reflects profit-taking or a possible high-point signal. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "外国人が5営業日で24兆ウォン売り、最高値更新のKOSPIに変動性",
+        "excerpt": "KOSPIが史上最高値を更新するなか、外国人投資家は韓国株を直近5営業日連続で純売りし、市場の変動性が拡大している。",
+        "body": "KOSPIが史上最高値を更新する強気相場のなか、外国人投資家は韓国株式市場で直近5営業日連続の純売りに動いた。純売りとは、買いより売りが多い状態を指す。原文の見出しでは、外国人の直近5営業日の売り規模は24兆ウォンと示された。指数は最高値を塗り替えているが、外国人の売りが続くことで市場の変動性は拡大している。証券業界では、これが利益確定なのか、高値圏のシグナルなのかに注目している。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "外资5个交易日卖出24万亿韩元，Kospi创新高下波动加大",
+        "excerpt": "在Kospi刷新历史最高点之际，外国投资者连续5个交易日净卖出韩国股市，市场波动性随之扩大。",
+        "body": "在Kospi刷新历史最高点的牛市背景下，外国投资者最近5个交易日连续在韩国股市净卖出。净卖出是指卖出金额多于买入金额，原文标题称，外资最近5个交易日的卖出规模为24万亿韩元。虽然指数不断改写高点，但外资卖盘持续出现，使股市波动性扩大。证券业界正在关注，这一走势是获利了结，还是高点信号。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Extranjeros venden 24 billones de wones en 5 ruedas y sube la volatilidad",
+        "excerpt": "Mientras el Kospi marca un máximo histórico, los inversores extranjeros acumulan cinco sesiones de ventas netas en Corea y elevan la volatilidad.",
+        "body": "Los inversores extranjeros registraron ventas netas en el mercado bursátil surcoreano durante cinco sesiones consecutivas, justo cuando el Kospi renovaba su máximo histórico. Venta neta significa que las ventas superan a las compras, y el titular original indicó que las ventas extranjeras de los últimos cinco días de negociación alcanzaron 24 billones de wones. Aunque el índice sigue marcando nuevos máximos, la persistencia de estas ventas aumenta la volatilidad del mercado. En el sector de valores se observa si se trata de toma de ganancias o de una señal de techo. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Estrangeiros vendem 24 tri de won em 5 pregões e volatilidade aumenta",
+        "excerpt": "Com o Kospi em máxima histórica, investidores estrangeiros vendem mais do que compram por cinco pregões seguidos e ampliam a volatilidade.",
+        "body": "Investidores estrangeiros mantiveram vendas líquidas no mercado acionário sul-coreano por cinco pregões consecutivos enquanto o Kospi renovava sua máxima histórica. Venda líquida significa que as vendas superaram as compras, e o título original apontou vendas estrangeiras de 24 trilhões de won nos últimos cinco pregões. Embora o índice siga em patamar recorde, a continuidade das vendas por estrangeiros amplia a volatilidade do mercado. No setor de corretoras, cresce a atenção sobre se o movimento é realização de lucros ou sinal de topo. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Ausländer verkaufen in 5 Sitzungen 24 Bio. Won, Kospi-Schwankungen steigen",
+        "excerpt": "Während der Kospi ein Rekordhoch erreicht, verkaufen ausländische Anleger fünf Handelstage in Folge netto koreanische Aktien und erhöhen die Volatilität.",
+        "body": "Ausländische Investoren haben am südkoreanischen Aktienmarkt an fünf aufeinanderfolgenden Handelstagen netto verkauft, während der Kospi neue historische Höchststände erreichte. Nettoverkauf bedeutet, dass die Verkäufe die Käufe überstiegen; die ursprüngliche Überschrift nannte für die letzten fünf Handelstage Verkäufe ausländischer Anleger von 24 Billionen Won. Obwohl der Index weiter Rekorde markiert, erhöht der anhaltende Verkaufsdruck die Marktvolatilität. In der Wertpapierbranche wird beobachtet, ob dies Gewinnmitnahmen oder ein Signal für ein Hoch ist. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Les étrangers vendent 24 000 Mds de wons en 5 séances, volatilité accrue",
+        "excerpt": "Alors que le Kospi atteint un record historique, les investisseurs étrangers vendent net pendant cinq séances d’affilée, ce qui accroît la volatilité.",
+        "body": "Les investisseurs étrangers ont enchaîné cinq séances de ventes nettes sur le marché actions sud-coréen alors que le Kospi inscrivait un nouveau record historique. Une vente nette signifie que les ventes dépassent les achats, et le titre original évoquait 24 000 milliards de wons de ventes étrangères sur les cinq dernières séances. Même si l’indice renouvelle ses sommets, la poursuite de ces ventes accroît la volatilité du marché. Les professionnels des valeurs mobilières surveillent si ce mouvement relève de prises de bénéfices ou d’un signal de sommet. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "الأجانب يبيعون 24 تريليون وون خلال 5 جلسات وتقلبات كوسبي تتسع",
+        "excerpt": "مع تسجيل كوسبي مستوى قياسيا جديدا، واصل المستثمرون الأجانب صافي البيع في الأسهم الكورية لخمس جلسات متتالية، ما زاد تقلبات السوق.",
+        "body": "واصل المستثمرون الأجانب صافي البيع في سوق الأسهم الكورية الجنوبية خلال آخر خمس جلسات تداول، في وقت كان فيه مؤشر كوسبي يجدد أعلى مستوى تاريخي له. ويعني صافي البيع أن قيمة المبيعات تجاوزت المشتريات، بينما أشار العنوان الأصلي إلى أن مبيعات الأجانب خلال خمس جلسات بلغت 24 تريليون وون. ورغم أن المؤشر يواصل تسجيل قمم جديدة، فإن استمرار مبيعات الأجانب يوسع تقلبات السوق. وتتابع شركات الأوراق المالية ما إذا كانت هذه الحركة جني أرباح أم إشارة إلى مستوى مرتفع. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "विदेशियों ने 5 सत्रों में 24 ट्रिलियन वॉन बेचे, Kospi में उतार-चढ़ाव बढ़ा",
+        "excerpt": "Kospi के रिकॉर्ड उच्च स्तर छूने के बीच विदेशी निवेशकों ने कोरियाई शेयरों में लगातार पांच कारोबारी दिनों तक नेट बिकवाली की, जिससे अस्थिरता बढ़ी।",
+        "body": "Kospi के ऐतिहासिक उच्च स्तर को नए सिरे से छूने के बीच विदेशी निवेशकों ने दक्षिण कोरियाई शेयर बाजार में पिछले पांच कारोबारी दिनों तक लगातार नेट बिकवाली की। नेट बिकवाली का अर्थ है कि बिक्री खरीद से अधिक रही। मूल शीर्षक में पिछले पांच कारोबारी दिनों में विदेशी निवेशकों की बिक्री का आकार 24 ट्रिलियन वॉन बताया गया। सूचकांक नए उच्च स्तर बना रहा है, लेकिन विदेशी बिकवाली जारी रहने से बाजार की अस्थिरता बढ़ रही है। प्रतिभूति उद्योग यह देख रहा है कि यह मुनाफावसूली है या ऊपरी स्तर का संकेत। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Asing Jual 24 Triliun Won dalam 5 Sesi, Volatilitas Kospi Meningkat",
+        "excerpt": "Saat Kospi mencetak rekor tertinggi, investor asing membukukan jual bersih lima hari bursa berturut-turut di pasar saham Korea, memicu volatilitas.",
+        "body": "Investor asing mencatat jual bersih di pasar saham Korea Selatan selama lima hari bursa berturut-turut ketika Kospi memperbarui rekor tertingginya. Jual bersih berarti nilai penjualan lebih besar daripada pembelian, dan judul asli menyebut skala penjualan asing dalam lima sesi terakhir sebesar 24 triliun won. Meski indeks terus mencetak level tertinggi baru, berlanjutnya aksi jual asing membuat volatilitas pasar meningkat. Kalangan sekuritas mencermati apakah pergerakan ini merupakan realisasi keuntungan atau sinyal puncak. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "2e116c9333d9",
+    "slug": "직원-4000명-잘랐더니-주가-18-폭등낡은-인력-대신-ai-올인하는-기업-288897",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-05-14T16:51:41.771Z",
+    "updatedAt": "2026-05-14T16:51:41.771Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/stock/12047221",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12047221",
+    "titleFingerprint": "042f7872d1f2c1c553d77a8bc74753fade7c6163",
+    "dedupKeys": [
+      "2e116c9333d92444dabd4ce387f18835ea7d4bb7",
+      "042f7872d1f2c1c553d77a8bc74753fade7c6163",
+      "575a7fd792af7f7a666fa9e04450a5e50022d88b"
+    ],
+    "imageUrl": "/images/articles/2e116c9333d9.png",
+    "i18n": {
+      "ko": {
+        "title": "시스코, 직원 5% 감축에 시간외 주가 18% 급등…AI 전환 승부수",
+        "excerpt": "미국 네트워킹 장비기업 시스코가 직원 5%에 해당하는 약 4000명 규모 감축을 단행하며 AI 중심 전환 의지를 드러내자 시간외거래에서 주가가 18% 급등했다.",
+        "body": "미국 네트워킹 장비기업 시스코가 직원 5%에 해당하는 약 4000명 규모의 대규모 인력 감축을 단행하며 인공지능(AI) 중심 기업으로의 전환 의지를 시장에 전달했다. 회사는 낡은 인력 구조를 줄이고 폭발적으로 커지는 AI 수요를 선점하겠다는 방향을 드러냈다. 이번 조치는 네트워킹 장비 강자인 시스코가 AI 관련 성장 기회에 자원을 집중하려는 움직임으로 해석된다. 감축 규모와 AI 중심 전략이 함께 부각되면서 시간외거래에서 주가는 18% 급등했다. 향후 시장은 시스코의 인력 재편이 AI 수요 대응과 실적 개선으로 이어질지 주목할 전망이다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Cisco Shares Jump 18% After 5% Workforce Cut Signals AI Push",
+        "excerpt": "U.S. networking equipment company Cisco cut about 4,000 jobs, or 5% of staff, signaling an AI-centered shift as its shares surged 18% in after-hours trading.",
+        "body": "U.S. networking equipment company Cisco carried out a large workforce reduction of about 4,000 employees, equal to 5% of its staff, sending the market a clear signal that it aims to shift toward an artificial intelligence-centered business. The company showed its intention to reduce an outdated labor structure and move quickly to capture rapidly expanding AI demand. The step is being viewed as part of Cisco’s effort, as a major networking equipment player, to concentrate resources on AI-related growth opportunities. As the size of the cuts and the AI-focused strategy drew attention, Cisco shares jumped 18% in after-hours trading. Investors are expected to watch whether the restructuring helps Cisco respond to AI demand and improve performance. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "シスコ、従業員5%削減で時間外株価18%急騰…AI転換を鮮明に",
+        "excerpt": "米ネットワーク機器大手シスコは従業員の5%に当たる約4000人を削減し、AI中心への転換姿勢を示したことで時間外取引の株価が18%急騰した。",
+        "body": "米ネットワーク機器企業シスコは、従業員の5%に当たる約4000人規模の大幅な人員削減を実施し、人工知能（AI）中心の企業へ転換する意思を市場に伝えた。同社は古い人員構造を縮小し、急拡大するAI需要を先取りする方針を示した。今回の措置は、ネットワーク機器の有力企業であるシスコが、AI関連の成長機会に経営資源を集中させようとする動きと受け止められている。削減規模とAI中心戦略が同時に注目され、時間外取引で株価は18%急騰した。今後、市場はシスコの人員再編がAI需要への対応と業績改善につながるかを見守る見通しだ。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "思科裁员5%后盘后股价大涨18%，AI转型信号受关注",
+        "excerpt": "美国网络设备企业思科裁减约4000名员工，占员工总数5%，释放以AI为中心转型的信号后，盘后交易股价大涨18%。",
+        "body": "美国网络设备企业思科实施了约4000人的大规模裁员，相当于员工总数的5%，向市场传递出转向以人工智能（AI）为中心企业的意愿。公司显示出削减旧有人员结构、抢占快速扩大的AI需求的方向。此次举措被解读为网络设备强者思科希望把资源集中到AI相关增长机会上的动作。裁员规模与AI中心战略同时受到关注，推动其股价在盘后交易中大涨18%。未来市场将关注思科的人力重组是否能够连接到AI需求应对和业绩改善。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Cisco sube 18% tras recortar el 5% de su plantilla y reforzar su apuesta por IA",
+        "excerpt": "Cisco, empresa estadounidense de equipos de redes, recortó unos 4.000 empleos, el 5% de su plantilla, y sus acciones subieron 18% fuera de hora al señalar un giro hacia la IA.",
+        "body": "Cisco, la empresa estadounidense de equipos de redes, realizó un recorte masivo de personal de unas 4.000 personas, equivalente al 5% de su plantilla, y comunicó al mercado su voluntad de transformarse en una compañía centrada en la inteligencia artificial (IA). La firma mostró su intención de reducir una estructura laboral antigua y adelantarse a la demanda explosiva de IA. La medida se interpreta como un movimiento de Cisco, uno de los actores fuertes en equipos de redes, para concentrar recursos en oportunidades de crecimiento vinculadas con la IA. Al destacarse tanto el tamaño del recorte como la estrategia centrada en IA, la acción subió 18% en las operaciones posteriores al cierre. El mercado observará si esta reorganización ayuda a responder a la demanda de IA y mejorar resultados. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Cisco salta 18% após cortar 5% da equipe e reforçar aposta em IA",
+        "excerpt": "A Cisco, empresa americana de equipamentos de rede, cortou cerca de 4.000 funcionários, 5% do quadro, e suas ações subiram 18% no after-market ao sinalizar foco em IA.",
+        "body": "A Cisco, empresa americana de equipamentos de rede, realizou uma grande redução de pessoal de cerca de 4.000 funcionários, equivalente a 5% de sua força de trabalho, transmitindo ao mercado sua intenção de se transformar em uma companhia centrada em inteligência artificial (IA). A empresa indicou que pretende reduzir uma estrutura de pessoal antiga e se posicionar para capturar a demanda explosiva por IA. A medida é vista como um movimento da Cisco, uma força no setor de equipamentos de rede, para concentrar recursos em oportunidades de crescimento ligadas à IA. Com o tamanho do corte e a estratégia focada em IA em destaque, as ações subiram 18% nas negociações após o fechamento. O mercado deve acompanhar se a reorganização ajudará a responder à demanda de IA e melhorar o desempenho. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Cisco-Aktie steigt 18% nach 5% Stellenabbau und klarem KI-Fokus",
+        "excerpt": "Der US-Netzwerkausrüster Cisco streicht rund 4.000 Stellen, etwa 5% der Belegschaft, und signalisiert damit einen KI-zentrierten Umbau; die Aktie sprang nachbörslich 18%.",
+        "body": "Der US-amerikanische Netzwerkausrüster Cisco hat einen umfangreichen Stellenabbau von rund 4.000 Beschäftigten umgesetzt, was etwa 5% der Belegschaft entspricht, und dem Markt damit den Willen zu einem stärker auf künstliche Intelligenz (KI) ausgerichteten Unternehmen signalisiert. Das Unternehmen machte deutlich, eine veraltete Personalstruktur zu verkleinern und die stark wachsende KI-Nachfrage frühzeitig besetzen zu wollen. Der Schritt wird als Versuch gewertet, Ressourcen auf KI-bezogene Wachstumschancen zu konzentrieren. Da sowohl das Ausmaß des Stellenabbaus als auch die KI-Strategie Aufmerksamkeit erhielten, stieg die Aktie im nachbörslichen Handel um 18%. Der Markt dürfte nun beobachten, ob die Neuaufstellung Cisco bei KI-Nachfrage und Ergebnisverbesserung hilft. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Cisco bondit de 18% après une coupe de 5% des effectifs et un virage IA",
+        "excerpt": "Cisco, groupe américain d’équipements réseau, supprime environ 4.000 postes, soit 5% de ses effectifs, et voit son action grimper de 18% après Bourse en affichant son cap IA.",
+        "body": "Cisco, entreprise américaine d’équipements de réseau, a procédé à une réduction massive d’environ 4.000 postes, soit 5% de ses effectifs, envoyant au marché le signal d’une transformation centrée sur l’intelligence artificielle (IA). Le groupe a montré sa volonté de réduire une structure de main-d’œuvre jugée ancienne et de se positionner sur une demande d’IA en forte expansion. Cette décision est interprétée comme un mouvement de Cisco, acteur majeur des équipements réseau, pour concentrer ses ressources sur les opportunités de croissance liées à l’IA. La taille de la réduction et la stratégie axée sur l’IA ayant retenu l’attention, l’action a bondi de 18% dans les échanges après Bourse. Le marché suivra désormais si cette réorganisation aide Cisco à répondre à la demande d’IA et à améliorer ses résultats. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "سيسكو تقفز 18% بعد خفض 5% من الموظفين وإبراز التحول نحو الذكاء الاصطناعي",
+        "excerpt": "خفضت سيسكو الأميركية لمعدات الشبكات نحو 4000 وظيفة، أي 5% من موظفيها، فأرسلت إشارة تحول نحو الذكاء الاصطناعي وقفز سهمها 18% في تداولات ما بعد الإغلاق.",
+        "body": "نفذت شركة سيسكو الأميركية لمعدات الشبكات خفضا كبيرا في العمالة شمل نحو 4000 موظف، أي ما يعادل 5% من قوتها العاملة، لتبعث إلى السوق برسالة واضحة عن رغبتها في التحول إلى شركة تتمحور حول الذكاء الاصطناعي. وأظهرت الشركة نيتها تقليص هيكل عمالة قديم والسعي إلى اقتناص الطلب المتسارع على الذكاء الاصطناعي. وتفسر هذه الخطوة على أنها تحرك من سيسكو، إحدى القوى البارزة في معدات الشبكات، لتركيز مواردها على فرص النمو المرتبطة بالذكاء الاصطناعي. ومع بروز حجم التخفيض والاستراتيجية الجديدة، قفز السهم 18% في تداولات ما بعد الإغلاق. ومن المتوقع أن يراقب السوق ما إذا كانت إعادة هيكلة العمالة ستدعم استجابة سيسكو لطلب الذكاء الاصطناعي وتحسن الأداء. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "Cisco ने 5% कर्मचारियों की कटौती के बाद 18% छलांग लगाई, AI फोकस तेज",
+        "excerpt": "अमेरिकी नेटवर्किंग उपकरण कंपनी Cisco ने करीब 4,000 कर्मचारियों यानी 5% स्टाफ की कटौती की और AI-केंद्रित बदलाव का संकेत दिया, जिसके बाद आफ्टर-आवर्स में शेयर 18% उछला।",
+        "body": "अमेरिकी नेटवर्किंग उपकरण कंपनी Cisco ने अपने कर्मचारियों के 5% के बराबर, लगभग 4,000 लोगों की बड़े पैमाने पर कटौती की और बाजार को यह संकेत दिया कि वह कृत्रिम बुद्धिमत्ता (AI) केंद्रित कंपनी में बदलना चाहती है। कंपनी ने पुराने मानव संसाधन ढांचे को घटाने और तेजी से बढ़ती AI मांग पर पहले कब्जा करने की दिशा दिखाई। यह कदम नेटवर्किंग उपकरणों की मजबूत कंपनी Cisco द्वारा AI से जुड़ी विकास संभावनाओं पर संसाधन केंद्रित करने की कोशिश के रूप में देखा जा रहा है। कटौती के आकार और AI-केंद्रित रणनीति के साथ सामने आने पर आफ्टर-आवर्स ट्रेडिंग में शेयर 18% उछल गया। आगे बाजार यह देखेगा कि यह कर्मचारी पुनर्गठन AI मांग के जवाब और प्रदर्शन सुधार में मदद करता है या नहीं। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Cisco Naik 18% Usai Pangkas 5% Karyawan dan Tegaskan Fokus AI",
+        "excerpt": "Cisco, perusahaan peralatan jaringan AS, memangkas sekitar 4.000 karyawan atau 5% stafnya dan memberi sinyal peralihan ke AI, membuat sahamnya melonjak 18% di perdagangan setelah jam bursa.",
+        "body": "Cisco, perusahaan peralatan jaringan asal Amerika Serikat, melakukan pemangkasan besar sekitar 4.000 karyawan, setara 5% dari jumlah stafnya, dan menyampaikan kepada pasar niat untuk beralih menjadi perusahaan yang berpusat pada kecerdasan buatan (AI). Perusahaan menunjukkan arah untuk mengurangi struktur tenaga kerja lama dan merebut permintaan AI yang berkembang pesat. Langkah ini dipandang sebagai upaya Cisco, pemain kuat di peralatan jaringan, untuk memusatkan sumber daya pada peluang pertumbuhan terkait AI. Ketika skala pemangkasan dan strategi berfokus AI menjadi sorotan, sahamnya melonjak 18% dalam perdagangan setelah jam bursa. Pasar ke depan akan mencermati apakah penataan ulang tenaga kerja ini membantu Cisco merespons permintaan AI dan memperbaiki kinerja. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
     "id": "0639f9382781",
     "slug": "삼양식품-역대-최대-분기-실적-달성에-급등장-초반-13대-쑥-978851",
     "channelId": "ETF",
@@ -4271,231 +4496,6 @@
         "title": "LG Electronics Dorong Bisnis Robotik, Hana Naikkan Target ke 230.000 Won",
         "excerpt": "Hana Securities pada tanggal 14 menyatakan LG Electronics memperoleh motor pertumbuhan lewat dorongan aktif bisnis robotik dan menaikkan target harga dari 160.000 won menjadi 230.000 won.",
         "body": "Hana Securities pada tanggal 14 menilai LG Electronics sedang memperoleh motor pertumbuhan melalui dorongan aktif pada bisnis baru robotik, dan menaikkan target harga dari sebelumnya 160.000 won menjadi 230.000 won. Penilaian ini menyoroti arah bisnis baru LG Electronics serta laju pengembangan inisiatif robotiknya. Laporan asli juga menyebut kinerja konsolidasi kuartal pertama tahun ini, tetapi ringkasan yang diberikan tidak memuat angka spesifik. Bisnis robotik dapat menjadi faktor penting dalam menilai prospek pertumbuhan LG Electronics ke depan. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "65a8865df4cd",
-    "slug": "와이즈버즈-1분기-영업이익-30억원전년-동기대비-246-277411",
-    "channelId": "ETF",
-    "category": "etf",
-    "publishedAt": "2026-05-13T22:38:21.686Z",
-    "updatedAt": "2026-05-13T22:38:21.686Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/2026051342776",
-    "canonicalUrl": "https://www.hankyung.com/article/2026051342776",
-    "titleFingerprint": "2de591c8871d1e729b2d28ef9599e07e2e80e26c",
-    "dedupKeys": [
-      "65a8865df4cddba3047c73ecc167c6dcde60aa0a",
-      "2de591c8871d1e729b2d28ef9599e07e2e80e26c",
-      "c1d70772a794f13c62c7d6ca7c15b8f91406781f"
-    ],
-    "imageUrl": "/images/articles/65a8865df4cd.jpg",
-    "i18n": {
-      "ko": {
-        "title": "와이즈버즈 1분기 영업이익 30억원, 전년 동기 대비 24.6% 증가",
-        "excerpt": "와이즈버즈는 1분기 영업이익이 30억원으로 전년 동기 대비 24.6% 증가했다고 hankyung.com 보도를 통해 전해졌다.",
-        "body": "와이즈버즈의 1분기 영업이익이 30억원으로 집계됐다. hankyung.com 보도에 따르면 이는 전년 동기 대비 24.6% 증가한 수치다. 이번 실적은 회사의 분기 영업이익이 전년 같은 기간보다 늘었다는 점을 보여준다. 원문에서 제시된 핵심 수치는 1분기 영업이익 30억원과 전년 동기 대비 증가율 24.6%다. 매출, 순이익 등 다른 세부 항목은 원문 정보에 포함되지 않았다. 투자자와 시장은 향후 공시와 추가 실적 지표를 통해 실적 흐름을 확인할 필요가 있다. 출처: hankyung.com"
-      },
-      "en": {
-        "title": "Wisebirds Q1 Operating Profit Reaches 3 Billion Won, Up 24.6% Year on Year",
-        "excerpt": "Wisebirds posted first-quarter operating profit of 3 billion won, up 24.6% from a year earlier, according to a report by hankyung.com.",
-        "body": "Wisebirds reported first-quarter operating profit of 3 billion won. According to hankyung.com, the figure was 24.6% higher than in the same period a year earlier. The result shows that the company’s quarterly operating profit increased year on year. The key figures provided in the original report are first-quarter operating profit of 3 billion won and a year-on-year growth rate of 24.6%. Other details such as revenue or net profit were not included in the source information. Investors and the market may need to review future disclosures and additional earnings indicators to assess the company’s performance trend. Source: hankyung.com"
-      },
-      "ja": {
-        "title": "ワイズバーズ、第1四半期営業利益30億ウォン、前年同期比24.6％増",
-        "excerpt": "ワイズバーズの第1四半期営業利益は30億ウォンとなり、前年同期比24.6％増加したとhankyung.comが報じた。",
-        "body": "ワイズバーズの第1四半期営業利益は30億ウォンと集計された。hankyung.comの報道によると、これは前年同期比で24.6％増加した数値だ。今回の実績は、同社の四半期営業利益が前年同期間より増えたことを示している。原文で示された主要数値は、第1四半期営業利益30億ウォンと前年同期比増加率24.6％である。売上高や純利益などその他の詳細項目は原文情報に含まれていない。投資家と市場は、今後の開示や追加の業績指標を通じて実績の流れを確認する必要がある。出典: hankyung.com"
-      },
-      "zh": {
-        "title": "Wisebirds第一季度营业利润达30亿韩元，同比增加24.6%",
-        "excerpt": "据hankyung.com报道，Wisebirds第一季度营业利润为30亿韩元，较去年同期增长24.6%。",
-        "body": "Wisebirds第一季度营业利润统计为30亿韩元。据hankyung.com报道，这一数字较去年同期增长24.6%。该业绩显示，公司季度营业利润较去年同一期间有所增加。原文提供的核心数据为第一季度营业利润30亿韩元，以及同比增长率24.6%。销售额、净利润等其他细项未包含在原文信息中。投资者和市场仍需通过后续公告及更多业绩指标确认公司的业绩走势。来源: hankyung.com"
-      },
-      "es": {
-        "title": "Wisebirds gana 3.000 millones de wones en operación en el primer trimestre, 24,6% más",
-        "excerpt": "Wisebirds registró un beneficio operativo de 3.000 millones de wones en el primer trimestre, un 24,6% más interanual, según hankyung.com.",
-        "body": "Wisebirds registró en el primer trimestre un beneficio operativo de 3.000 millones de wones. Según hankyung.com, la cifra aumentó un 24,6% frente al mismo periodo del año anterior. El resultado muestra que el beneficio operativo trimestral de la compañía creció en comparación interanual. Los datos clave incluidos en la información original son el beneficio operativo del primer trimestre, de 3.000 millones de wones, y la tasa de crecimiento interanual del 24,6%. Otros detalles, como ingresos o beneficio neto, no fueron incluidos en la fuente. Inversores y mercado deberán revisar futuros comunicados e indicadores adicionales para confirmar la tendencia de resultados. Fuente: hankyung.com"
-      },
-      "pt": {
-        "title": "Wisebirds tem lucro operacional de 3 bilhões de won no 1º trimestre, alta de 24,6%",
-        "excerpt": "A Wisebirds registrou lucro operacional de 3 bilhões de won no primeiro trimestre, avanço anual de 24,6%, segundo o hankyung.com.",
-        "body": "A Wisebirds registrou lucro operacional de 3 bilhões de won no primeiro trimestre. Segundo o hankyung.com, o valor representa alta de 24,6% em relação ao mesmo período do ano anterior. O resultado mostra que o lucro operacional trimestral da empresa aumentou na comparação anual. Os principais dados apresentados na informação original são lucro operacional de 3 bilhões de won no primeiro trimestre e crescimento anual de 24,6%. Outros itens, como receita ou lucro líquido, não foram incluídos na fonte. Investidores e o mercado precisarão acompanhar divulgações futuras e indicadores adicionais para verificar a trajetória dos resultados. Fonte: hankyung.com"
-      },
-      "de": {
-        "title": "Wisebirds: Operativer Gewinn im ersten Quartal bei 3 Mrd. Won, plus 24,6%",
-        "excerpt": "Wisebirds erzielte im ersten Quartal einen operativen Gewinn von 3 Mrd. Won, 24,6% mehr als im Vorjahr, berichtet hankyung.com.",
-        "body": "Wisebirds erzielte im ersten Quartal einen operativen Gewinn von 3 Mrd. Won. Laut hankyung.com lag dieser Wert 24,6% über dem Ergebnis des entsprechenden Vorjahreszeitraums. Das Ergebnis zeigt, dass der Quartalsgewinn aus dem operativen Geschäft im Jahresvergleich gestiegen ist. Die im Original genannten Kerndaten sind ein operativer Gewinn von 3 Mrd. Won im ersten Quartal sowie eine Zuwachsrate von 24,6% gegenüber dem Vorjahr. Weitere Angaben wie Umsatz oder Nettogewinn waren in der Quelle nicht enthalten. Investoren und Marktteilnehmer sollten künftige Mitteilungen und zusätzliche Ergebniskennzahlen prüfen, um den Geschäftsverlauf einzuordnen. Quelle: hankyung.com"
-      },
-      "fr": {
-        "title": "Wisebirds affiche 3 milliards de wons de résultat opérationnel au T1, en hausse de 24,6%",
-        "excerpt": "Wisebirds a dégagé au premier trimestre un résultat opérationnel de 3 milliards de wons, en hausse de 24,6% sur un an, selon hankyung.com.",
-        "body": "Wisebirds a enregistré au premier trimestre un résultat opérationnel de 3 milliards de wons. Selon hankyung.com, ce montant est supérieur de 24,6% à celui de la même période l’an dernier. Cette performance montre que le résultat opérationnel trimestriel de la société a progressé en glissement annuel. Les chiffres clés fournis dans l’information d’origine sont un résultat opérationnel de 3 milliards de wons au premier trimestre et une hausse de 24,6% sur un an. D’autres éléments, comme le chiffre d’affaires ou le résultat net, ne figuraient pas dans la source. Les investisseurs et le marché devront consulter les futures publications et indicateurs complémentaires pour suivre l’évolution des résultats. Source: hankyung.com"
-      },
-      "ar": {
-        "title": "وايزبيردز تسجل ربحا تشغيليا قدره 3 مليارات وون في الربع الأول بزيادة 24.6%",
-        "excerpt": "سجلت وايزبيردز ربحا تشغيليا قدره 3 مليارات وون في الربع الأول، بارتفاع 24.6% على أساس سنوي، بحسب hankyung.com.",
-        "body": "سجلت وايزبيردز ربحا تشغيليا قدره 3 مليارات وون في الربع الأول. ووفقا لما أورده موقع hankyung.com، فإن هذا الرقم يزيد بنسبة 24.6% عن الفترة نفسها من العام السابق. وتظهر النتيجة أن الربح التشغيلي الفصلي للشركة ارتفع مقارنة بالعام الماضي. الأرقام الأساسية الواردة في المصدر هي ربح تشغيلي للربع الأول بقيمة 3 مليارات وون ونسبة نمو سنوية قدرها 24.6%. ولم تتضمن المعلومات الأصلية تفاصيل أخرى مثل الإيرادات أو صافي الربح. ويحتاج المستثمرون والسوق إلى متابعة الإفصاحات المقبلة ومؤشرات الأداء الإضافية لتقييم مسار النتائج. المصدر: hankyung.com"
-      },
-      "hi": {
-        "title": "Wisebirds का पहली तिमाही परिचालन लाभ 3 अरब वॉन, सालाना 24.6% वृद्धि",
-        "excerpt": "hankyung.com के अनुसार, Wisebirds ने पहली तिमाही में 3 अरब वॉन का परिचालन लाभ दर्ज किया, जो सालाना आधार पर 24.6% अधिक है।",
-        "body": "Wisebirds का पहली तिमाही परिचालन लाभ 3 अरब वॉन रहा। hankyung.com की रिपोर्ट के अनुसार, यह आंकड़ा पिछले वर्ष की समान अवधि की तुलना में 24.6% अधिक है। यह परिणाम दिखाता है कि कंपनी का तिमाही परिचालन लाभ सालाना आधार पर बढ़ा है। मूल सूचना में दिए गए प्रमुख आंकड़े पहली तिमाही का 3 अरब वॉन परिचालन लाभ और 24.6% की सालाना वृद्धि दर हैं। राजस्व, शुद्ध लाभ जैसे अन्य विस्तृत मदों को स्रोत जानकारी में शामिल नहीं किया गया। निवेशकों और बाजार को प्रदर्शन की दिशा समझने के लिए आगे की घोषणाओं और अतिरिक्त वित्तीय संकेतकों पर नजर रखनी होगी। स्रोत: hankyung.com"
-      },
-      "id": {
-        "title": "Wisebirds Catat Laba Operasi Kuartal I 3 Miliar Won, Naik 24,6% Tahunan",
-        "excerpt": "Wisebirds membukukan laba operasi kuartal pertama sebesar 3 miliar won, naik 24,6% dibanding periode sama tahun lalu, menurut hankyung.com.",
-        "body": "Wisebirds mencatat laba operasi kuartal pertama sebesar 3 miliar won. Menurut laporan hankyung.com, angka itu meningkat 24,6% dibanding periode yang sama tahun sebelumnya. Hasil ini menunjukkan laba operasi kuartalan perusahaan naik secara tahunan. Angka utama yang disampaikan dalam informasi asli adalah laba operasi kuartal pertama sebesar 3 miliar won dan tingkat kenaikan tahunan 24,6%. Rincian lain seperti pendapatan atau laba bersih tidak termasuk dalam informasi sumber. Investor dan pasar perlu memantau keterbukaan berikutnya serta indikator kinerja tambahan untuk melihat arah kinerja perusahaan. Sumber: hankyung.com"
-      }
-    }
-  },
-  {
-    "id": "c301dbf3b9a3",
-    "slug": "케이에스피-1분기-영업이익-40억원전년-동기-대비-43-725704",
-    "channelId": "ETF",
-    "category": "etf",
-    "publishedAt": "2026-05-13T22:37:18.596Z",
-    "updatedAt": "2026-05-13T22:37:18.596Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/2026051342866",
-    "canonicalUrl": "https://www.hankyung.com/article/2026051342866",
-    "titleFingerprint": "acf8f852fbb0b5e44b2f384f35ce05b22de7ddfd",
-    "dedupKeys": [
-      "c301dbf3b9a3d33bab8ed6c01602d59f6c588ba1",
-      "acf8f852fbb0b5e44b2f384f35ce05b22de7ddfd",
-      "5e51ee313cc8876994a85f83dc973520257d798e"
-    ],
-    "imageUrl": "/images/articles/c301dbf3b9a3.png",
-    "i18n": {
-      "ko": {
-        "title": "케이에스피 1분기 영업이익 40억원, 전년 동기 대비 43% 증가",
-        "excerpt": "케이에스피는 1분기 영업이익이 40억원으로 전년 동기보다 43% 증가했다고 밝혔다. 분기 실적 개선 흐름이 확인됐으며 출처는 hankyung.com이다.",
-        "body": "케이에스피는 1분기 영업이익이 40억원을 기록해 전년 동기 대비 43% 증가했다고 밝혔다. 이번 실적 발표는 1분기 수익성이 전년 같은 기간보다 개선됐음을 보여준다. 공개된 핵심 수치는 영업이익 40억원과 전년 동기 대비 증가율 43%다. 회사의 분기 영업이익이 두 자릿수 증가율을 나타내면서 투자자와 시장은 향후 실적 흐름을 확인할 필요가 있다. 다만 원문에는 매출, 순이익, 세부 사업 부문별 실적 등 추가 수치는 제시되지 않았다. 출처: hankyung.com."
-      },
-      "en": {
-        "title": "KSP Q1 Operating Profit Reaches 4 Billion Won, Up 43% Year on Year",
-        "excerpt": "KSP said its first-quarter operating profit rose 43% year on year to 4 billion won, confirming improved quarterly profitability, according to hankyung.com.",
-        "body": "KSP reported first-quarter operating profit of 4 billion won, up 43% from the same period a year earlier. The announcement shows that the company’s profitability improved in the quarter compared with the prior-year period. The key disclosed figures are operating profit of 4 billion won and a year-on-year growth rate of 43%. With quarterly operating profit posting a double-digit increase, investors and the market may need to watch the company’s future earnings trend. The original report did not provide additional figures such as revenue, net income, or performance by business segment. Source: hankyung.com."
-      },
-      "ja": {
-        "title": "KSPの第1四半期営業利益40億ウォン、前年同期比43％増",
-        "excerpt": "KSPは第1四半期の営業利益が40億ウォンとなり、前年同期比43％増加したと発表した。四半期収益性の改善が確認された。出典はhankyung.com。",
-        "body": "KSPは第1四半期の営業利益が40億ウォンを記録し、前年同期比43％増加したと発表した。今回の業績発表は、第1四半期の収益性が前年同時期より改善したことを示している。公表された主な数値は、営業利益40億ウォンと前年同期比43％増という増加率だ。四半期営業利益が二桁の伸びを示したことで、投資家と市場は今後の業績推移を確認する必要がある。ただし、原文では売上高、純利益、事業部門別の詳細実績など追加数値は示されていない。出典: hankyung.com。"
-      },
-      "zh": {
-        "title": "KSP第一季度营业利润达40亿韩元，同比增43%",
-        "excerpt": "KSP表示，第一季度营业利润为40亿韩元，同比增加43%。该业绩显示季度盈利能力有所改善，消息来源为hankyung.com。",
-        "body": "KSP表示，第一季度营业利润达到40亿韩元，较去年同期增加43%。此次业绩发布显示，公司第一季度盈利能力较去年同期有所改善。已公开的核心数据包括营业利润40亿韩元以及同比增长率43%。季度营业利润实现两位数增长后，投资者和市场有必要继续关注公司后续业绩走势。不过，原文未提供销售额、净利润、各业务部门业绩等其他具体数据。来源: hankyung.com。"
-      },
-      "es": {
-        "title": "KSP gana 4.000 millones de wones operativos en el primer trimestre, un 43% más",
-        "excerpt": "KSP informó que su beneficio operativo del primer trimestre subió un 43% interanual hasta 4.000 millones de wones, mostrando una mejora de rentabilidad, según hankyung.com.",
-        "body": "KSP informó que su beneficio operativo del primer trimestre alcanzó 4.000 millones de wones, un 43% más que en el mismo periodo del año anterior. El anuncio muestra que la rentabilidad del trimestre mejoró frente al periodo comparable. Las cifras clave divulgadas son un beneficio operativo de 4.000 millones de wones y una tasa de aumento interanual del 43%. Con un crecimiento de doble dígito en el beneficio operativo trimestral, los inversores y el mercado deberán seguir la evolución de los resultados futuros. El texto original no incluyó datos adicionales como ventas, beneficio neto o resultados por segmento. Fuente: hankyung.com."
-      },
-      "pt": {
-        "title": "KSP tem lucro operacional de 4 bilhões de won no 1º trimestre, alta de 43%",
-        "excerpt": "A KSP informou lucro operacional de 4 bilhões de won no primeiro trimestre, alta anual de 43%, confirmando melhora da rentabilidade trimestral, segundo hankyung.com.",
-        "body": "A KSP informou que seu lucro operacional no primeiro trimestre foi de 4 bilhões de won, aumento de 43% em relação ao mesmo período do ano anterior. O resultado mostra melhora da rentabilidade no trimestre frente ao período comparável. Os principais números divulgados são lucro operacional de 4 bilhões de won e crescimento anual de 43%. Com avanço de dois dígitos no lucro operacional trimestral, investidores e mercado devem acompanhar a evolução dos próximos resultados. O texto original não apresentou dados adicionais, como receita, lucro líquido ou desempenho por segmento de negócios. Fonte: hankyung.com."
-      },
-      "de": {
-        "title": "KSP erzielt im ersten Quartal 4 Mrd. Won operativen Gewinn, plus 43%",
-        "excerpt": "KSP meldete für das erste Quartal einen operativen Gewinn von 4 Mrd. Won, 43% mehr als im Vorjahr. Die Quartalsrentabilität verbesserte sich laut hankyung.com.",
-        "body": "KSP meldete für das erste Quartal einen operativen Gewinn von 4 Mrd. Won, ein Plus von 43% gegenüber dem Vorjahreszeitraum. Die Veröffentlichung zeigt, dass sich die Rentabilität im Quartal im Vergleich zum entsprechenden Zeitraum des Vorjahres verbessert hat. Die wichtigsten genannten Kennzahlen sind ein operativer Gewinn von 4 Mrd. Won und eine Wachstumsrate von 43% gegenüber dem Vorjahr. Da der operative Quartalsgewinn zweistellig zulegte, dürften Investoren und Marktteilnehmer die weitere Ergebnisentwicklung beobachten. Zusätzliche Angaben zu Umsatz, Nettogewinn oder Segmentergebnissen enthielt der Originalbericht nicht. Quelle: hankyung.com."
-      },
-      "fr": {
-        "title": "KSP affiche 4 milliards de wons de bénéfice opérationnel au T1, en hausse de 43%",
-        "excerpt": "KSP a annoncé un bénéfice opérationnel de 4 milliards de wons au premier trimestre, en hausse de 43% sur un an, signe d’une meilleure rentabilité, selon hankyung.com.",
-        "body": "KSP a annoncé que son bénéfice opérationnel du premier trimestre avait atteint 4 milliards de wons, soit une hausse de 43% par rapport à la même période de l’an dernier. Cette publication montre une amélioration de la rentabilité trimestrielle par rapport à l’exercice précédent. Les chiffres clés communiqués sont un bénéfice opérationnel de 4 milliards de wons et une progression annuelle de 43%. Avec une hausse à deux chiffres du bénéfice opérationnel trimestriel, les investisseurs et le marché devront suivre l’évolution des prochains résultats. Le texte d’origine ne fournit pas d’autres données, comme le chiffre d’affaires, le résultat net ou les performances par segment. Source: hankyung.com."
-      },
-      "ar": {
-        "title": "كيه إس بي تسجل ربحا تشغيليا قدره 4 مليارات وون في الربع الأول بزيادة 43%",
-        "excerpt": "أعلنت كيه إس بي أن ربحها التشغيلي في الربع الأول بلغ 4 مليارات وون، مرتفعا 43% على أساس سنوي، ما يظهر تحسنا في الربحية، بحسب hankyung.com.",
-        "body": "أعلنت كيه إس بي أن ربحها التشغيلي في الربع الأول سجل 4 مليارات وون، بزيادة 43% مقارنة بالفترة نفسها من العام السابق. ويظهر هذا الإعلان أن ربحية الشركة في الربع الأول تحسنت مقارنة بالفترة المقابلة. الأرقام الأساسية المنشورة هي ربح تشغيلي قدره 4 مليارات وون ونسبة نمو سنوية تبلغ 43%. ومع تسجيل الربح التشغيلي الفصلي نموا من رقمين، يحتاج المستثمرون والسوق إلى متابعة مسار النتائج المقبلة. ولم يورد النص الأصلي أرقاما إضافية مثل المبيعات أو صافي الربح أو أداء قطاعات الأعمال. المصدر: hankyung.com."
-      },
-      "hi": {
-        "title": "KSP का पहली तिमाही परिचालन लाभ 4 अरब वॉन, सालाना 43% बढ़ा",
-        "excerpt": "KSP ने बताया कि पहली तिमाही का परिचालन लाभ 4 अरब वॉन रहा, जो सालाना आधार पर 43% अधिक है। इससे तिमाही लाभप्रदता में सुधार दिखा, स्रोत hankyung.com है।",
-        "body": "KSP ने बताया कि पहली तिमाही में उसका परिचालन लाभ 4 अरब वॉन रहा, जो पिछले वर्ष की समान अवधि से 43% अधिक है। यह परिणाम दिखाता है कि कंपनी की तिमाही लाभप्रदता पिछले साल की समान अवधि की तुलना में बेहतर हुई। जारी किए गए मुख्य आंकड़े 4 अरब वॉन का परिचालन लाभ और 43% की सालाना वृद्धि दर हैं। तिमाही परिचालन लाभ में दो अंकों की वृद्धि के बाद निवेशकों और बाजार को आगे की आय प्रवृत्ति पर नजर रखनी होगी। मूल रिपोर्ट में बिक्री, शुद्ध लाभ या व्यवसाय खंडवार प्रदर्शन जैसे अतिरिक्त आंकड़े नहीं दिए गए। स्रोत: hankyung.com."
-      },
-      "id": {
-        "title": "KSP Catat Laba Operasi Kuartal I 4 Miliar Won, Naik 43% Tahunan",
-        "excerpt": "KSP menyatakan laba operasi kuartal pertama mencapai 4 miliar won, naik 43% dibanding periode sama tahun lalu, menunjukkan perbaikan profitabilitas, menurut hankyung.com.",
-        "body": "KSP menyatakan laba operasi kuartal pertama mencapai 4 miliar won, naik 43% dibanding periode yang sama tahun sebelumnya. Pengumuman ini menunjukkan profitabilitas kuartal pertama membaik dibanding tahun lalu. Angka utama yang diungkap adalah laba operasi 4 miliar won dan tingkat kenaikan tahunan 43%. Dengan laba operasi kuartalan tumbuh dua digit, investor dan pasar perlu mencermati arah kinerja berikutnya. Namun, laporan asli tidak menyajikan angka tambahan seperti penjualan, laba bersih, atau kinerja berdasarkan segmen usaha. Sumber: hankyung.com."
-      }
-    }
-  },
-  {
-    "id": "d4ea15d1dc16",
-    "slug": "이마트-본업-점유율-확대온라인-사업부-실적-개선-702403",
-    "channelId": "ETF",
-    "category": "etf",
-    "publishedAt": "2026-05-13T22:36:25.086Z",
-    "updatedAt": "2026-05-13T22:36:25.086Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/stock/12047075",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12047075",
-    "titleFingerprint": "35cbd691d03def3c4206d0f846f5107618136c87",
-    "dedupKeys": [
-      "d4ea15d1dc16ab47d45461d82e9a9b67cd6fb24e",
-      "35cbd691d03def3c4206d0f846f5107618136c87",
-      "45b7113f5ff40f7f6d5c869e9480a7d18a291be6"
-    ],
-    "imageUrl": "/images/articles/d4ea15d1dc16.jpg",
-    "i18n": {
-      "ko": {
-        "title": "이마트, 본업 점유율 확대와 온라인 실적 개선에 목표가 유지",
-        "excerpt": "IBK투자증권은 14일 이마트가 본업 점유율 확대와 온라인 사업부 실적 개선을 바탕으로 펀더멘탈 개선을 이어갈 것으로 보고 목표주가 12만원을 유지했다.",
-        "body": "IBK투자증권은 14일 이마트에 대해 본업 점유율 확대와 온라인 사업부 실적 개선이 향후 펀더멘탈을 주도할 것으로 전망했다. 이에 따라 목표주가는 기존 12만원을 유지했다. 보고서에 따르면 이마트의 핵심 오프라인 유통 사업은 점유율 확대가 주요 관찰 지점으로 제시됐고, 온라인 사업부는 실적 개선 흐름이 주목됐다. 증권사는 두 축이 회사의 기초 체력을 뒷받침할 수 있다고 봤다. 이번 평가는 이마트의 본업 경쟁력과 온라인 부문 회복 여부가 투자 판단의 핵심 변수로 남아 있음을 보여준다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Emart Target Price Held as Core Share and Online Results Improve",
-        "excerpt": "IBK Investment Securities said on the 14th that Emart’s fundamentals are expected to be led by higher core-market share and better online-unit results, keeping its target price at 120,000 won.",
-        "body": "IBK Investment Securities said on the 14th that Emart’s fundamentals are expected to be driven by an expansion in market share in its core business and improved performance at its online division. The brokerage maintained its previous target price of 120,000 won. According to the report, Emart’s main offline retail business was highlighted for potential share gains, while its online unit drew attention for an improving earnings trend. IBK viewed these two areas as factors that could support the company’s underlying strength. The assessment indicates that competitiveness in Emart’s core business and recovery in online operations remain key variables for investment judgment. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "イーマート、本業シェア拡大とオンライン改善で目標株価維持",
-        "excerpt": "IBK投資証券は14日、イーマートについて本業のシェア拡大とオンライン事業部の業績改善がファンダメンタルズを主導すると見込み、目標株価12万ウォンを維持した。",
-        "body": "IBK投資証券は14日、イーマートについて、本業のシェア拡大とオンライン事業部の業績改善が今後のファンダメンタルズを主導するとの見通しを示した。これに伴い、目標株価は従来の12万ウォンを維持した。報告書によると、イーマートの中核であるオフライン流通事業ではシェア拡大が主な注目点として挙げられ、オンライン事業部では業績改善の流れが注目された。証券会社は、この二つの軸が同社の基礎体力を支える可能性があると見ている。今回の評価は、本業の競争力とオンライン部門の回復が投資判断の重要な変数であり続けることを示している。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "易买得目标价维持：主业份额扩大与线上业绩改善受关注",
-        "excerpt": "IBK投资证券14日表示，易买得的基本面预计将由主业市场份额扩大和线上事业部业绩改善推动，并维持12万韩元目标价。",
-        "body": "IBK投资证券14日表示，易买得未来基本面预计将由主业市场份额扩大和线上事业部业绩改善所推动。因此，该机构维持此前12万韩元的目标价。报告指出，易买得核心线下零售业务的市场份额扩大是主要观察点，线上事业部的业绩改善趋势也受到关注。该券商认为，这两大因素可能支撑公司的基础实力。此次评价显示，易买得主业竞争力以及线上部门能否恢复，仍是投资判断中的关键变量。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Emart mantiene precio objetivo por cuota en negocio central y mejora online",
-        "excerpt": "IBK Investment Securities dijo el día 14 que la expansión de cuota en el negocio central de Emart y la mejora de su división online impulsarían sus fundamentos, manteniendo el precio objetivo en 120.000 wones.",
-        "body": "IBK Investment Securities señaló el día 14 que los fundamentos de Emart estarían impulsados por la expansión de cuota en su negocio principal y por la mejora de resultados en su división online. Por ello, mantuvo el precio objetivo anterior de 120.000 wones. Según el informe, el negocio minorista offline central de Emart fue destacado por la posible ampliación de cuota, mientras que la unidad online llamó la atención por una tendencia de mejora en resultados. La firma considera que estos dos ejes pueden respaldar la solidez básica de la compañía. La evaluación muestra que la competitividad del negocio principal y la recuperación online siguen siendo variables clave para la inversión. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Emart mantém preço-alvo com ganho de participação e melhora online",
-        "excerpt": "A IBK Investment Securities afirmou no dia 14 que a ampliação de participação no negócio principal da Emart e a melhora da divisão online devem liderar os fundamentos, mantendo o preço-alvo em 120 mil won.",
-        "body": "A IBK Investment Securities afirmou no dia 14 que os fundamentos da Emart devem ser conduzidos pela ampliação de participação em seu negócio principal e pela melhora dos resultados da divisão online. Com isso, manteve o preço-alvo anterior de 120 mil won. Segundo o relatório, o negócio varejista offline central da Emart foi apontado como ponto de observação pela expansão de participação, enquanto a unidade online chamou atenção pela tendência de melhora nos resultados. A corretora avaliou que esses dois eixos podem sustentar a força fundamental da companhia. A análise indica que a competitividade do negócio principal e a recuperação online seguem como variáveis-chave para a decisão de investimento. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Emart-Kursziel bestätigt: Marktanteile und Online-Ergebnis im Fokus",
-        "excerpt": "IBK Investment Securities erklärte am 14., Emarts Fundamentaldaten dürften von höheren Marktanteilen im Kerngeschäft und besseren Ergebnissen der Online-Sparte getragen werden; das Kursziel bleibt bei 120.000 Won.",
-        "body": "IBK Investment Securities erklärte am 14., dass Emarts Fundamentaldaten künftig durch steigende Marktanteile im Kerngeschäft und eine Ergebnisverbesserung in der Online-Sparte bestimmt werden dürften. Das bisherige Kursziel von 120.000 Won wurde daher beibehalten. Dem Bericht zufolge wurde im zentralen stationären Einzelhandelsgeschäft von Emart vor allem die Ausweitung des Marktanteils als Beobachtungspunkt genannt, während bei der Online-Sparte die Verbesserung der Ergebnisse im Mittelpunkt stand. Die Wertpapierfirma sieht beide Bereiche als mögliche Stützen der grundlegenden Stärke des Unternehmens. Die Einschätzung zeigt, dass Wettbewerbsfähigkeit im Kerngeschäft und Erholung online zentrale Faktoren für Anlageentscheidungen bleiben. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Emart : objectif maintenu grâce aux parts de marché et au redressement online",
-        "excerpt": "IBK Investment Securities a indiqué le 14 que les fondamentaux d’Emart devraient être portés par la hausse de part de marché du cœur d’activité et l’amélioration de l’unité en ligne, avec un objectif maintenu à 120 000 wons.",
-        "body": "IBK Investment Securities a indiqué le 14 que les fondamentaux d’Emart devraient être soutenus par l’expansion de la part de marché dans son activité principale et par l’amélioration des résultats de sa division en ligne. Le courtier a donc maintenu son objectif de cours précédent à 120 000 wons. Selon le rapport, l’activité centrale de distribution hors ligne d’Emart a été mise en avant pour son potentiel de gain de part de marché, tandis que l’unité en ligne a retenu l’attention pour l’amélioration de ses résultats. La société estime que ces deux axes peuvent soutenir la solidité fondamentale de l’entreprise. Cette évaluation montre que la compétitivité du cœur d’activité et la reprise en ligne restent des variables clés pour l’investissement. Source : mk.co.kr"
-      },
-      "ar": {
-        "title": "إيمارت تحافظ على السعر المستهدف بدعم الحصة الأساسية وتحسن الإنترنت",
-        "excerpt": "قالت IBK Investment Securities في اليوم 14 إن أساسيات إيمارت ستقودها زيادة الحصة في النشاط الأساسي وتحسن نتائج وحدة الإنترنت، مع الإبقاء على السعر المستهدف عند 120 ألف وون.",
-        "body": "قالت IBK Investment Securities في اليوم 14 إن أساسيات إيمارت من المتوقع أن يقودها توسع الحصة السوقية في نشاطها الأساسي وتحسن أداء وحدة الأعمال عبر الإنترنت. وبناء على ذلك، أبقت الشركة على السعر المستهدف السابق البالغ 120 ألف وون. ووفقا للتقرير، جرى طرح توسع الحصة في نشاط التجزئة غير المتصل بالإنترنت، وهو النشاط الرئيسي لإيمارت، كنقطة متابعة مهمة، بينما حظيت وحدة الإنترنت بالاهتمام بسبب مسار تحسن النتائج. وترى شركة الأوراق المالية أن هذين المحورين يمكن أن يدعما القوة الأساسية للشركة. ويظهر هذا التقييم أن تنافسية النشاط الأساسي وتعافي قطاع الإنترنت لا يزالان عاملين رئيسيين في قرارات الاستثمار. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "Emart लक्ष्य मूल्य कायम, मुख्य हिस्सेदारी और ऑनलाइन सुधार पर नजर",
-        "excerpt": "IBK Investment Securities ने 14 तारीख को कहा कि Emart के फंडामेंटल मुख्य कारोबार में हिस्सेदारी विस्तार और ऑनलाइन डिविजन के बेहतर प्रदर्शन से संचालित होंगे, और 120,000 वॉन लक्ष्य मूल्य बनाए रखा।",
-        "body": "IBK Investment Securities ने 14 तारीख को Emart के बारे में कहा कि उसके फंडामेंटल आगे मुख्य कारोबार में बाजार हिस्सेदारी बढ़ने और ऑनलाइन बिजनेस डिविजन के प्रदर्शन में सुधार से संचालित होंगे। इसी आधार पर ब्रोकरेज ने पहले का 120,000 वॉन लक्ष्य मूल्य बनाए रखा। रिपोर्ट के अनुसार, Emart के मुख्य ऑफलाइन रिटेल कारोबार में हिस्सेदारी विस्तार प्रमुख निगरानी बिंदु के रूप में सामने रखा गया, जबकि ऑनलाइन डिविजन में नतीजों के सुधार की प्रवृत्ति पर ध्यान दिया गया। सिक्योरिटीज फर्म का मानना है कि ये दोनों आधार कंपनी की मूल मजबूती को सहारा दे सकते हैं। यह आकलन दिखाता है कि मुख्य कारोबार की प्रतिस्पर्धात्मकता और ऑनलाइन विभाग की रिकवरी निवेश निर्णय के अहम कारक बने हुए हैं। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Target Emart Dipertahankan Berkat Pangsa Bisnis Inti dan Perbaikan Online",
-        "excerpt": "IBK Investment Securities pada tanggal 14 menilai fundamental Emart akan dipimpin oleh perluasan pangsa bisnis inti dan perbaikan kinerja divisi online, sehingga target harga tetap 120.000 won.",
-        "body": "IBK Investment Securities pada tanggal 14 menyatakan bahwa fundamental Emart diperkirakan akan didorong oleh perluasan pangsa pasar di bisnis intinya serta perbaikan kinerja divisi online. Karena itu, target harga sebelumnya sebesar 120.000 won dipertahankan. Menurut laporan tersebut, bisnis ritel offline utama Emart disorot karena potensi peningkatan pangsa pasar, sementara divisi online menjadi perhatian karena tren perbaikan hasil usaha. Perusahaan sekuritas itu menilai dua faktor tersebut dapat menopang kekuatan dasar perusahaan. Penilaian ini menunjukkan bahwa daya saing bisnis inti Emart dan pemulihan sektor online tetap menjadi variabel utama dalam keputusan investasi. Sumber: mk.co.kr"
       }
     }
   }
