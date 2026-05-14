@@ -1,5 +1,230 @@
 [
   {
+    "id": "221385936786",
+    "slug": "세기의-담판-나서는-트럼프-시진핑수혜주와-피해주는-871903",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-05-14T00:06:28.976Z",
+    "updatedAt": "2026-05-14T00:06:28.976Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/202605145226i",
+    "canonicalUrl": "https://www.hankyung.com/article/202605145226i",
+    "titleFingerprint": "bc9c0ea3e6af2a604429a6e0f838cecd75370098",
+    "dedupKeys": [
+      "2213859367869e4c8aca471810e4291c62f2f35e",
+      "bc9c0ea3e6af2a604429a6e0f838cecd75370098",
+      "c90f84ba937ba95ba5372e3e08983c200d88e7a9"
+    ],
+    "imageUrl": "/images/articles/221385936786.jpg",
+    "i18n": {
+      "ko": {
+        "title": "트럼프·시진핑 미중 정상회담, 수혜주와 피해주 향방에 시장 촉각",
+        "excerpt": "도널드 트럼프 미국 대통령과 시진핑 중국 국가주석이 부산에서 정상회담을 진행하면서 미중 갈등 완화 여부와 관련 ETF·주식 영향에 관심이 쏠렸다.",
+        "body": "도널드 트럼프 미국 대통령과 시진핑 중국 국가주석이 30일 부산에서 미중 정상회담을 진행했다. 한국경제 보도에 따르면 ‘세기의 담판’으로 불린 이번 회담은 약 1시간 40분 만에 종료됐고, 공식 회담을 마친 뒤 두 정상은 회담장 밖에서 나란히 서서 악수했다. 시장의 관심은 회담 결과가 미중 갈등과 무역 관련 자산에 어떤 영향을 줄지에 모였다. 다만 제공된 원문 정보에는 구체적인 수혜주와 피해주 명단, 업종별 수치, 합의 내용은 제시되지 않았다. 투자자는 회담 이후 공개되는 공식 발표와 후속 보도를 확인할 필요가 있다. 출처: hankyung.com."
+      },
+      "en": {
+        "title": "Trump-Xi U.S.-China Summit Puts Market Focus on Winners and Losers",
+        "excerpt": "U.S. President Donald Trump and Chinese President Xi Jinping held a summit in Busan, drawing attention to whether U.S.-China tensions and related ETFs or stocks could be affected.",
+        "body": "U.S. President Donald Trump and Chinese President Xi Jinping held a U.S.-China summit in Busan on the 30th. According to Hankyung, the meeting, described as a “deal of the century,” ended after about 1 hour and 40 minutes, and the two leaders stood side by side and shook hands outside the venue after the formal talks. Market attention centered on how the outcome could affect U.S.-China tensions and trade-related assets. However, the provided source information did not list specific beneficiary or loser stocks, sector figures, or agreement details. Investors need to check official statements and follow-up reports after the summit. Source: hankyung.com."
+      },
+      "ja": {
+        "title": "トランプ・習近平の米中首脳会談、恩恵銘柄と打撃銘柄に市場注目",
+        "excerpt": "ドナルド・トランプ米大統領と習近平中国国家主席が釜山で首脳会談を行い、米中対立の緩和や関連ETF・株式への影響に関心が集まった。",
+        "body": "ドナルド・トランプ米大統領と習近平中国国家主席は30日、釜山で米中首脳会談を行った。韓国経済新聞によると、「世紀の談判」と呼ばれた今回の会談は約1時間40分で終了し、公式会談を終えた後、両首脳は会場の外で並んで握手した。市場の関心は、会談結果が米中対立や貿易関連資産にどのような影響を及ぼすかに向かった。ただし、提示された原文情報には具体的な恩恵銘柄や打撃銘柄、業種別数値、合意内容は示されていない。投資家は会談後の公式発表と続報を確認する必要がある。出典: hankyung.com."
+      },
+      "zh": {
+        "title": "特朗普与习近平举行美中峰会，市场关注受益股与受损股走向",
+        "excerpt": "美国总统特朗普与中国国家主席习近平在釜山举行峰会，市场关注美中紧张关系是否缓和及相关ETF、股票可能受到的影响。",
+        "body": "美国总统唐纳德·特朗普与中国国家主席习近平于30日在釜山举行美中峰会。据韩国经济新闻报道，这场被称为“世纪谈判”的会晤约1小时40分钟后结束，正式会谈结束后，两位领导人在会场外并肩站立并握手。市场关注的焦点在于会谈结果将如何影响美中紧张关系以及贸易相关资产。不过，所提供的原文信息并未列出具体受益股、受损股、行业数据或协议内容。投资者仍需关注峰会后的官方发布和后续报道。来源: hankyung.com."
+      },
+      "es": {
+        "title": "Cumbre Trump-Xi centra la atención en acciones beneficiadas y perjudicadas",
+        "excerpt": "Donald Trump y Xi Jinping celebraron una cumbre en Busan, elevando el interés por el efecto sobre las tensiones entre EE. UU. y China y los ETF o acciones vinculados.",
+        "body": "El presidente estadounidense Donald Trump y el presidente chino Xi Jinping celebraron el día 30 una cumbre entre Estados Unidos y China en Busan. Según Hankyung, la reunión, descrita como una “negociación del siglo”, terminó tras aproximadamente 1 hora y 40 minutos, y ambos líderes se dieron la mano fuera del lugar tras las conversaciones formales. La atención del mercado se centró en cómo el resultado podría afectar a las tensiones entre EE. UU. y China y a los activos relacionados con el comercio. Sin embargo, la información original proporcionada no incluyó una lista concreta de acciones beneficiadas o perjudicadas, cifras sectoriales ni detalles de acuerdos. Los inversores deben revisar los comunicados oficiales y las noticias posteriores. Fuente: hankyung.com."
+      },
+      "pt": {
+        "title": "Cúpula Trump-Xi põe foco do mercado em ações beneficiadas e prejudicadas",
+        "excerpt": "Donald Trump e Xi Jinping realizaram uma cúpula em Busan, atraindo atenção para o possível impacto nas tensões EUA-China e em ETFs ou ações relacionados.",
+        "body": "O presidente dos Estados Unidos, Donald Trump, e o presidente da China, Xi Jinping, realizaram no dia 30 uma cúpula EUA-China em Busan. Segundo o Hankyung, o encontro, chamado de “negociação do século”, terminou após cerca de 1 hora e 40 minutos, e os dois líderes apertaram as mãos lado a lado fora do local após a reunião formal. A atenção do mercado se concentrou em como o resultado poderia afetar as tensões entre EUA e China e os ativos ligados ao comércio. No entanto, as informações originais fornecidas não apresentaram nomes específicos de ações beneficiadas ou prejudicadas, números por setor nem detalhes de acordo. Investidores devem acompanhar os comunicados oficiais e reportagens posteriores. Fonte: hankyung.com."
+      },
+      "de": {
+        "title": "Trump-Xi-Gipfel rückt mögliche Gewinner und Verlierer an den Märkten in den Fokus",
+        "excerpt": "Donald Trump und Xi Jinping hielten in Busan einen Gipfel ab; Anleger achten nun auf Folgen für US-chinesische Spannungen sowie verbundene ETFs und Aktien.",
+        "body": "US-Präsident Donald Trump und Chinas Präsident Xi Jinping hielten am 30. in Busan einen US-chinesischen Gipfel ab. Laut Hankyung endete das Treffen, das als „Verhandlung des Jahrhunderts“ bezeichnet wurde, nach rund 1 Stunde und 40 Minuten; nach den formellen Gesprächen standen beide Staatschefs vor dem Tagungsort nebeneinander und schüttelten sich die Hände. Die Märkte richteten den Blick darauf, wie das Ergebnis die Spannungen zwischen den USA und China sowie handelsbezogene Vermögenswerte beeinflussen könnte. Die bereitgestellten Originalinformationen nennen jedoch keine konkreten Gewinner- oder Verliereraktien, Branchenzahlen oder Details einer Vereinbarung. Anleger sollten offizielle Mitteilungen und Folgeberichte prüfen. Quelle: hankyung.com."
+      },
+      "fr": {
+        "title": "Sommet Trump-Xi : le marché scrute les actions gagnantes et perdantes",
+        "excerpt": "Donald Trump et Xi Jinping ont tenu un sommet à Busan, attirant l’attention sur l’impact possible pour les tensions sino-américaines, les ETF et les actions liées.",
+        "body": "Le président américain Donald Trump et le président chinois Xi Jinping ont tenu le 30 un sommet sino-américain à Busan. Selon Hankyung, cette rencontre, qualifiée de “négociation du siècle”, s’est achevée après environ 1 heure et 40 minutes, puis les deux dirigeants se sont tenus côte à côte et se sont serré la main à l’extérieur du lieu de réunion. L’attention du marché s’est portée sur l’effet possible du résultat sur les tensions entre les États-Unis et la Chine et sur les actifs liés au commerce. Toutefois, les informations originales fournies ne détaillent pas de titres bénéficiaires ou perdants, de chiffres sectoriels ni d’accord précis. Les investisseurs doivent suivre les annonces officielles et les articles ultérieurs. Source: hankyung.com."
+      },
+      "ar": {
+        "title": "قمة ترامب وشي تضع الأسهم الرابحة والخاسرة تحت مجهر السوق",
+        "excerpt": "عقد دونالد ترامب وشي جين بينغ قمة في بوسان، ما جذب الانتباه إلى أثرها المحتمل على توترات أميركا والصين وصناديق ETF والأسهم المرتبطة بها.",
+        "body": "عقد الرئيس الأميركي دونالد ترامب والرئيس الصيني شي جين بينغ قمة بين الولايات المتحدة والصين في بوسان يوم 30. وبحسب هانكيونغ، انتهى الاجتماع الذي وُصف بأنه “صفقة القرن” بعد نحو ساعة و40 دقيقة، وبعد المحادثات الرسمية وقف الزعيمان جنباً إلى جنب خارج مكان الاجتماع وتصافحا. تركز اهتمام السوق على كيفية تأثير نتائج القمة في التوترات الأميركية الصينية والأصول المرتبطة بالتجارة. لكن المعلومات الأصلية المقدمة لم تتضمن قائمة محددة بالأسهم المستفيدة أو المتضررة، ولا أرقاماً قطاعية أو تفاصيل اتفاق. يحتاج المستثمرون إلى متابعة البيانات الرسمية والتقارير اللاحقة بعد القمة. المصدر: hankyung.com."
+      },
+      "hi": {
+        "title": "ट्रंप-शी अमेरिका-चीन शिखर वार्ता से लाभ-हानि वाले शेयरों पर बाजार की नजर",
+        "excerpt": "डोनाल्ड ट्रंप और शी जिनपिंग ने बुसान में शिखर वार्ता की, जिससे अमेरिका-चीन तनाव और संबंधित ETF व शेयरों पर संभावित असर को लेकर ध्यान बढ़ा।",
+        "body": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप और चीनी राष्ट्रपति शी जिनपिंग ने 30 तारीख को बुसान में अमेरिका-चीन शिखर वार्ता की। हैंक्युंग के अनुसार, “सदी की बातचीत” कही गई यह बैठक लगभग 1 घंटा 40 मिनट में समाप्त हुई और औपचारिक वार्ता के बाद दोनों नेताओं ने बैठक स्थल के बाहर साथ खड़े होकर हाथ मिलाया। बाजार का ध्यान इस बात पर रहा कि परिणाम अमेरिका-चीन तनाव और व्यापार से जुड़े परिसंपत्तियों को कैसे प्रभावित कर सकता है। हालांकि, उपलब्ध मूल जानकारी में किसी खास लाभ पाने वाले या नुकसान झेलने वाले शेयर, क्षेत्रीय आंकड़े या समझौते का विवरण नहीं दिया गया। निवेशकों को आधिकारिक घोषणाओं और बाद की रिपोर्टों की जांच करनी चाहिए। स्रोत: hankyung.com."
+      },
+      "id": {
+        "title": "KTT Trump-Xi Soroti Arah Saham Pemenang dan Pecundang di Pasar",
+        "excerpt": "Donald Trump dan Xi Jinping menggelar KTT di Busan, memicu perhatian pada dampaknya terhadap ketegangan AS-China serta ETF dan saham terkait perdagangan.",
+        "body": "Presiden Amerika Serikat Donald Trump dan Presiden China Xi Jinping menggelar KTT AS-China di Busan pada tanggal 30. Menurut Hankyung, pertemuan yang disebut sebagai “perundingan abad ini” berakhir setelah sekitar 1 jam 40 menit, dan setelah pembicaraan resmi kedua pemimpin berdiri berdampingan di luar lokasi pertemuan lalu berjabat tangan. Perhatian pasar tertuju pada bagaimana hasilnya dapat memengaruhi ketegangan AS-China dan aset terkait perdagangan. Namun, informasi sumber yang diberikan tidak memuat daftar saham penerima manfaat atau yang dirugikan secara spesifik, angka sektoral, maupun rincian kesepakatan. Investor perlu memeriksa pernyataan resmi dan laporan lanjutan setelah KTT. Sumber: hankyung.com."
+      }
+    }
+  },
+  {
+    "id": "a666df73dd09",
+    "slug": "nc-리니지-클래식-흥행에-실적-개선-기대목표가-유진-155154",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-05-14T00:05:20.207Z",
+    "updatedAt": "2026-05-14T00:05:20.207Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/2026051451966",
+    "canonicalUrl": "https://www.hankyung.com/article/2026051451966",
+    "titleFingerprint": "1315e685a3f119b412b1b1ee822596330d38d2d4",
+    "dedupKeys": [
+      "a666df73dd09ab9617d52f20dd7864f86ca76293",
+      "1315e685a3f119b412b1b1ee822596330d38d2d4",
+      "c8115d116644342f487f010b597c540a585cd6ab"
+    ],
+    "imageUrl": "/images/articles/a666df73dd09.jpg",
+    "i18n": {
+      "ko": {
+        "title": "NC 목표가 상향, 리니지 클래식 흥행에 실적 개선 기대 커졌다",
+        "excerpt": "유진투자증권은 한국경제 보도를 통해 NC의 리니지 클래식 흥행을 근거로 실적 개선 기대가 커졌다며 목표가를 상향했다.",
+        "body": "유진투자증권은 NC에 대해 리니지 클래식 흥행으로 실적 개선 기대가 높아졌다고 평가하며 목표가를 올렸다. 한국경제 보도에 따르면 이번 의견의 핵심은 신작 또는 주요 지식재산권 성과가 실적 회복 전망에 긍정적으로 작용하고 있다는 점이다. 리니지 클래식의 흥행은 NC의 기존 게임 경쟁력과 이용자 관심을 확인하는 신호로 해석됐다. 증권가는 해당 성과가 향후 매출과 이익 개선 기대를 뒷받침할 수 있다고 봤다. 다만 보도에서 제시된 판단은 유진투자증권의 분석 의견이며, 구체적 실적 흐름은 이후 회사 발표와 시장 반응을 통해 확인될 전망이다. 출처: hankyung.com"
+      },
+      "en": {
+        "title": "NC Target Price Raised as Lineage Classic Success Lifts Earnings Hopes",
+        "excerpt": "Eugene Investment raised its target price for NC, citing stronger expectations for earnings improvement after the success of Lineage Classic, according to hankyung.com.",
+        "body": "Eugene Investment Securities raised its target price for NC, saying expectations for earnings improvement have grown as Lineage Classic gains traction. According to a hankyung.com report, the key point of the view is that performance from a major intellectual property title is supporting a more positive outlook for recovery. The success of Lineage Classic was interpreted as a sign of NC’s existing game competitiveness and user interest. The brokerage said the result could support expectations for future sales and profit improvement. The assessment remains Eugene Investment Securities’ analysis, while actual earnings trends will need to be confirmed through company disclosures and market response. Source: hankyung.com"
+      },
+      "ja": {
+        "title": "NC目標株価引き上げ、リネージュクラシック好調で業績改善期待",
+        "excerpt": "ユージン投資証券は、リネージュクラシックの好調を背景にNCの業績改善期待が高まったとして目標株価を引き上げた。hankyung.comが報じた。",
+        "body": "ユージン投資証券はNCについて、リネージュクラシックのヒットにより業績改善への期待が高まったと評価し、目標株価を引き上げた。hankyung.comの報道によると、今回の判断の核心は主要IPタイトルの成果が業績回復見通しに前向きに作用している点にある。リネージュクラシックの好調は、NCの既存ゲーム競争力と利用者の関心を確認するシグナルと解釈された。証券会社は、この成果が今後の売上高と利益改善への期待を支える可能性があるとみている。ただし、この見方はユージン投資証券の分析意見であり、具体的な業績推移は今後の会社発表と市場反応で確認される見通しだ。出典: hankyung.com"
+      },
+      "zh": {
+        "title": "NC目标价上调，天堂经典热度带动业绩改善预期升温",
+        "excerpt": "据hankyung.com报道，尤金投资证券因《天堂经典》表现火热，上调NC目标价，并认为其业绩改善预期正在增强。",
+        "body": "尤金投资证券评价称，NC因《天堂经典》受到市场关注，业绩改善预期有所升温，并上调了目标价。据hankyung.com报道，此次观点的核心在于，主要知识产权游戏的表现正对业绩恢复前景产生积极影响。《天堂经典》的热度被解读为确认NC既有游戏竞争力和用户关注度的信号。券商认为，这一成果可能支撑市场对未来销售额和利润改善的期待。不过，相关判断属于尤金投资证券的分析意见，具体业绩走势仍需通过公司后续发布的信息和市场反应来确认。来源: hankyung.com"
+      },
+      "es": {
+        "title": "NC sube precio objetivo por éxito de Lineage Classic y mejores expectativas",
+        "excerpt": "Eugene Investment elevó el precio objetivo de NC al citar mayores expectativas de mejora de resultados por el éxito de Lineage Classic, informó hankyung.com.",
+        "body": "Eugene Investment Securities elevó el precio objetivo de NC al señalar que han aumentado las expectativas de mejora de resultados gracias al éxito de Lineage Classic. Según informó hankyung.com, el punto central del análisis es que el desempeño de una propiedad intelectual clave está influyendo de forma positiva en las perspectivas de recuperación. El avance de Lineage Classic fue interpretado como una señal de la competitividad de los juegos existentes de NC y del interés de los usuarios. La firma considera que este resultado podría respaldar expectativas de mejora en ventas y beneficios. Aun así, la valoración corresponde al análisis de Eugene Investment Securities, y la evolución concreta deberá confirmarse con futuros anuncios de la empresa y la reacción del mercado. Fuente: hankyung.com"
+      },
+      "pt": {
+        "title": "NC tem preço-alvo elevado com sucesso de Lineage Classic e melhora esperada",
+        "excerpt": "A Eugene Investment elevou o preço-alvo da NC ao apontar maior expectativa de melhora nos resultados com o sucesso de Lineage Classic, informou hankyung.com.",
+        "body": "A Eugene Investment Securities elevou o preço-alvo da NC, afirmando que as expectativas de melhora nos resultados aumentaram com o sucesso de Lineage Classic. Segundo reportagem do hankyung.com, o ponto central da avaliação é que o desempenho de uma importante propriedade intelectual está contribuindo positivamente para a perspectiva de recuperação. O êxito de Lineage Classic foi interpretado como um sinal da competitividade dos jogos existentes da NC e do interesse dos usuários. A corretora avalia que esse resultado pode sustentar expectativas de melhora futura em receita e lucro. Ainda assim, a visão representa a análise da Eugene Investment Securities, e a trajetória concreta dos resultados deverá ser confirmada por divulgações da empresa e pela reação do mercado. Fonte: hankyung.com"
+      },
+      "de": {
+        "title": "NC-Kursziel steigt, Lineage-Classic-Erfolg stärkt Gewinnerwartungen",
+        "excerpt": "Eugene Investment hat das Kursziel für NC angehoben und verweist auf höhere Erwartungen an bessere Ergebnisse durch den Erfolg von Lineage Classic, berichtet hankyung.com.",
+        "body": "Eugene Investment Securities hat das Kursziel für NC angehoben und erklärt, dass die Erwartungen an eine Ergebnisverbesserung durch den Erfolg von Lineage Classic gestiegen sind. Laut einem Bericht von hankyung.com steht im Mittelpunkt der Einschätzung, dass die Leistung eines wichtigen geistigen Eigentums die Aussichten auf eine Erholung positiv beeinflusst. Der Erfolg von Lineage Classic wurde als Signal für die bestehende Spielewettbewerbsfähigkeit von NC und das Interesse der Nutzer gewertet. Das Wertpapierhaus sieht darin eine mögliche Stütze für Erwartungen an künftige Umsatz- und Gewinnverbesserungen. Die Einschätzung bleibt jedoch eine Analyse von Eugene Investment Securities; konkrete Ergebnisentwicklungen müssen durch Unternehmensmitteilungen und Marktreaktionen bestätigt werden. Quelle: hankyung.com"
+      },
+      "fr": {
+        "title": "NC voit son objectif relevé grâce au succès de Lineage Classic",
+        "excerpt": "Eugene Investment a relevé son objectif de cours sur NC, citant des attentes accrues d’amélioration des résultats après le succès de Lineage Classic, selon hankyung.com.",
+        "body": "Eugene Investment Securities a relevé son objectif de cours sur NC, estimant que les attentes d’amélioration des résultats se sont renforcées grâce au succès de Lineage Classic. Selon hankyung.com, le cœur de l’analyse est que la performance d’une propriété intellectuelle majeure soutient une perspective plus favorable de redressement. Le succès de Lineage Classic a été interprété comme un signal confirmant la compétitivité des jeux existants de NC et l’intérêt des utilisateurs. La maison de courtage estime que ce résultat pourrait appuyer les attentes de progression future du chiffre d’affaires et des bénéfices. Cette opinion reste toutefois l’analyse d’Eugene Investment Securities, et l’évolution concrète des résultats devra être confirmée par les annonces de l’entreprise et la réaction du marché. Source: hankyung.com"
+      },
+      "ar": {
+        "title": "رفع السعر المستهدف لـNC مع نجاح Lineage Classic وتوقع تحسن الأرباح",
+        "excerpt": "رفعت يوجين إنفستمنت السعر المستهدف لسهم NC، مستندة إلى تزايد توقعات تحسن الأداء بعد نجاح Lineage Classic، بحسب hankyung.com.",
+        "body": "رفعت يوجين إنفستمنت سيكيوريتيز السعر المستهدف لـNC، معتبرة أن توقعات تحسن الأداء زادت بفضل نجاح Lineage Classic. ووفق تقرير نشره hankyung.com، فإن جوهر الرأي يتمثل في أن أداء إحدى الملكيات الفكرية الرئيسية يدعم نظرة أكثر إيجابية للتعافي. وجرى تفسير نجاح Lineage Classic على أنه إشارة إلى تنافسية ألعاب NC القائمة واهتمام المستخدمين بها. وترى شركة الوساطة أن هذا الأداء قد يدعم التوقعات بتحسن المبيعات والأرباح في المستقبل. ومع ذلك، فإن هذا التقييم يمثل رأي يوجين إنفستمنت سيكيوريتيز التحليلي، بينما ستحتاج الاتجاهات الفعلية للأداء إلى تأكيد من خلال إفصاحات الشركة ورد فعل السوق. المصدر: hankyung.com"
+      },
+      "hi": {
+        "title": "Lineage Classic की सफलता से NC का लक्ष्य मूल्य बढ़ा, नतीजों की उम्मीद मजबूत",
+        "excerpt": "hankyung.com के अनुसार, Eugene Investment ने Lineage Classic की सफलता से NC के नतीजों में सुधार की उम्मीद बढ़ने का हवाला देते हुए लक्ष्य मूल्य बढ़ाया।",
+        "body": "Eugene Investment Securities ने NC के लिए लक्ष्य मूल्य बढ़ाया है और कहा है कि Lineage Classic की सफलता से कंपनी के नतीजों में सुधार की उम्मीद बढ़ी है। hankyung.com की रिपोर्ट के अनुसार, इस राय का मुख्य आधार यह है कि प्रमुख बौद्धिक संपदा वाले गेम का प्रदर्शन रिकवरी की संभावना को सकारात्मक रूप से सहारा दे रहा है। Lineage Classic की लोकप्रियता को NC की मौजूदा गेम प्रतिस्पर्धा और उपयोगकर्ताओं की रुचि की पुष्टि के संकेत के रूप में देखा गया। ब्रोकरेज का मानना है कि यह उपलब्धि भविष्य में बिक्री और मुनाफे में सुधार की उम्मीदों को समर्थन दे सकती है। हालांकि, यह Eugene Investment Securities का विश्लेषणात्मक मत है, और वास्तविक नतीजों की दिशा कंपनी की आगे की घोषणाओं और बाजार प्रतिक्रिया से स्पष्ट होगी। स्रोत: hankyung.com"
+      },
+      "id": {
+        "title": "Target Harga NC Naik, Sukses Lineage Classic Dorong Harapan Kinerja",
+        "excerpt": "Eugene Investment menaikkan target harga NC setelah keberhasilan Lineage Classic meningkatkan ekspektasi perbaikan kinerja, menurut laporan hankyung.com.",
+        "body": "Eugene Investment Securities menaikkan target harga NC dengan menilai bahwa ekspektasi perbaikan kinerja meningkat berkat keberhasilan Lineage Classic. Menurut laporan hankyung.com, inti pandangan tersebut adalah bahwa performa dari kekayaan intelektual utama memberi pengaruh positif terhadap prospek pemulihan. Keberhasilan Lineage Classic ditafsirkan sebagai sinyal yang mengonfirmasi daya saing game NC yang sudah ada dan minat pengguna. Perusahaan sekuritas tersebut melihat capaian ini dapat mendukung ekspektasi peningkatan penjualan dan laba ke depan. Namun, penilaian itu merupakan opini analisis Eugene Investment Securities, sementara arah kinerja konkret masih perlu dikonfirmasi melalui pengumuman perusahaan dan respons pasar. Sumber: hankyung.com"
+      }
+    }
+  },
+  {
+    "id": "8609c0661146",
+    "slug": "삼양식품-1분기-실적-예상치-웃돌아목표가-kb-253112",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-05-14T00:04:24.077Z",
+    "updatedAt": "2026-05-14T00:04:24.077Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/2026051451306",
+    "canonicalUrl": "https://www.hankyung.com/article/2026051451306",
+    "titleFingerprint": "9859e7bfd66f4dc6239c58bb2166b20ba035c5cc",
+    "dedupKeys": [
+      "8609c06611463d3992f27386bb9698c504fbea6e",
+      "9859e7bfd66f4dc6239c58bb2166b20ba035c5cc",
+      "8e7d33da508635983b4b324a0a027d084208933a"
+    ],
+    "imageUrl": "/images/articles/8609c0661146.jpg",
+    "i18n": {
+      "ko": {
+        "title": "삼양식품 1분기 실적 예상치 상회, KB 목표가 상향에 시장 관심 집중",
+        "excerpt": "KB증권은 삼양식품의 1분기 실적이 시장 예상치를 웃돌았다고 평가하며 목표가를 올렸다고 hankyung.com이 보도했다.",
+        "body": "삼양식품의 1분기 실적이 시장 예상치를 웃돈 것으로 평가되면서 KB증권이 목표가를 상향했다. hankyung.com에 따르면 KB는 삼양식품의 분기 실적이 기대치를 넘어섰다는 점을 반영해 목표가를 올렸다. 이번 보도는 실적 발표 이후 증권가의 평가가 주가 판단의 주요 변수로 작용할 수 있음을 보여준다. 구체적인 요약 정보는 제공되지 않았지만, 핵심은 삼양식품의 1분기 실적 호조와 KB의 목표가 상향이다. 출처는 hankyung.com이다."
+      },
+      "en": {
+        "title": "Samyang Foods Q1 Earnings Beat Estimates as KB Raises Target Price",
+        "excerpt": "KB Securities raised its target price for Samyang Foods after its first-quarter results exceeded market expectations, hankyung.com reported.",
+        "body": "Samyang Foods’ first-quarter results were assessed as exceeding market expectations, prompting KB Securities to raise its target price. According to hankyung.com, KB reflected the company’s better-than-expected quarterly performance in its revised target. The report highlights that post-earnings broker assessments can become an important factor for market views on the stock. No additional summary details were provided, but the core facts are Samyang Foods’ stronger-than-expected first-quarter performance and KB’s target-price increase. Source: hankyung.com."
+      },
+      "ja": {
+        "title": "三養食品の1四半期業績が予想上回る、KBが目標株価を引き上げ",
+        "excerpt": "KB証券は三養食品の第1四半期業績が市場予想を上回ったと評価し、目標株価を引き上げたとhankyung.comが報じた。",
+        "body": "三養食品の第1四半期業績が市場予想を上回ったと評価され、KB証券が目標株価を引き上げた。hankyung.comによると、KBは同社の四半期業績が期待を上回った点を反映し、目標株価を上方修正した。今回の報道は、決算発表後の証券会社の評価が株価判断の重要な材料になり得ることを示している。追加の要約情報は示されていないが、核心は三養食品の第1四半期業績好調とKBの目標株価引き上げだ。出典はhankyung.com。"
+      },
+      "zh": {
+        "title": "三养食品一季度业绩超预期，KB上调目标价引发市场关注",
+        "excerpt": "据hankyung.com报道，KB证券认为三养食品一季度业绩超过市场预期，并因此上调了目标价。",
+        "body": "三养食品一季度业绩被评估为超过市场预期，KB证券随之上调了目标价。据hankyung.com报道，KB将该公司季度业绩好于预期这一点反映在新的目标价中。该报道显示，业绩公布后证券公司的评价可能成为市场判断股票的重要因素。原文未提供更多摘要信息，但核心事实是三养食品一季度业绩表现强于预期，以及KB上调目标价。出处为hankyung.com。"
+      },
+      "es": {
+        "title": "Samyang Foods supera previsiones en el primer trimestre y KB eleva precio objetivo",
+        "excerpt": "KB Securities elevó su precio objetivo para Samyang Foods tras evaluar que sus resultados del primer trimestre superaron las previsiones, informó hankyung.com.",
+        "body": "Los resultados del primer trimestre de Samyang Foods fueron evaluados como superiores a las expectativas del mercado, lo que llevó a KB Securities a elevar su precio objetivo. Según hankyung.com, KB reflejó en su revisión el desempeño trimestral mejor de lo esperado de la compañía. La información muestra que las valoraciones de las firmas de análisis después de los resultados pueden influir en la lectura del mercado sobre la acción. No se ofrecieron más detalles de resumen, pero los hechos centrales son el buen desempeño del primer trimestre de Samyang Foods y el alza del precio objetivo por parte de KB. Fuente: hankyung.com."
+      },
+      "pt": {
+        "title": "Samyang Foods supera estimativas no 1º trimestre e KB eleva preço-alvo",
+        "excerpt": "A KB Securities elevou o preço-alvo da Samyang Foods após avaliar que os resultados do primeiro trimestre superaram as expectativas, informou o hankyung.com.",
+        "body": "Os resultados do primeiro trimestre da Samyang Foods foram avaliados como acima das expectativas do mercado, levando a KB Securities a elevar seu preço-alvo. Segundo o hankyung.com, a KB refletiu na revisão o desempenho trimestral melhor do que o esperado da companhia. A notícia indica que avaliações de corretoras após a divulgação de resultados podem se tornar um fator relevante para a leitura do mercado sobre a ação. Não foram fornecidos detalhes adicionais de resumo, mas os fatos centrais são o desempenho forte da Samyang Foods no primeiro trimestre e a elevação do preço-alvo pela KB. Fonte: hankyung.com."
+      },
+      "de": {
+        "title": "Samyang Foods übertrifft Q1-Erwartungen, KB hebt Kursziel an",
+        "excerpt": "KB Securities hob das Kursziel für Samyang Foods an, nachdem die Ergebnisse des ersten Quartals über den Markterwartungen lagen, berichtete hankyung.com.",
+        "body": "Die Ergebnisse von Samyang Foods im ersten Quartal wurden als besser als die Markterwartungen bewertet, woraufhin KB Securities das Kursziel anhob. Laut hankyung.com berücksichtigte KB die über den Erwartungen liegende Quartalsentwicklung des Unternehmens in der neuen Einschätzung. Der Bericht zeigt, dass Analystenbewertungen nach Ergebnissen ein wichtiger Faktor für die Markteinschätzung einer Aktie sein können. Weitere Zusammenfassungsdetails wurden nicht bereitgestellt, doch die Kernaussagen sind die starke Q1-Entwicklung von Samyang Foods und die Kurszielanhebung durch KB. Quelle: hankyung.com."
+      },
+      "fr": {
+        "title": "Samyang Foods dépasse les attentes au T1, KB relève son objectif de cours",
+        "excerpt": "KB Securities a relevé son objectif de cours sur Samyang Foods après des résultats du premier trimestre supérieurs aux attentes, selon hankyung.com.",
+        "body": "Les résultats du premier trimestre de Samyang Foods ont été jugés supérieurs aux attentes du marché, conduisant KB Securities à relever son objectif de cours. Selon hankyung.com, KB a intégré cette performance trimestrielle meilleure que prévu dans sa révision. L’information montre que les avis des sociétés de courtage après les résultats peuvent devenir un élément important dans l’évaluation boursière. Aucun autre détail de résumé n’a été fourni, mais les faits essentiels sont la bonne performance de Samyang Foods au premier trimestre et le relèvement de l’objectif par KB. Source : hankyung.com."
+      },
+      "ar": {
+        "title": "ساميانغ فودز تتجاوز توقعات الربع الأول وKB ترفع السعر المستهدف",
+        "excerpt": "رفعت KB Securities السعر المستهدف لسهم ساميانغ فودز بعدما قيّمت نتائج الربع الأول بأنها تجاوزت توقعات السوق، بحسب hankyung.com.",
+        "body": "قيّمت نتائج ساميانغ فودز في الربع الأول بأنها جاءت أعلى من توقعات السوق، ما دفع KB Securities إلى رفع السعر المستهدف. ووفقًا لـhankyung.com، عكست KB الأداء الفصلي الأفضل من المتوقع للشركة في تعديلها للسعر المستهدف. يوضح التقرير أن تقييمات شركات الأوراق المالية بعد إعلان النتائج قد تصبح عاملًا مهمًا في قراءة السوق للسهم. لم تُقدَّم تفاصيل إضافية في الملخص، لكن الحقائق الأساسية هي قوة أداء ساميانغ فودز في الربع الأول ورفع KB للسعر المستهدف. المصدر: hankyung.com."
+      },
+      "hi": {
+        "title": "Samyang Foods की पहली तिमाही उम्मीद से बेहतर, KB ने लक्ष्य मूल्य बढ़ाया",
+        "excerpt": "KB Securities ने Samyang Foods के पहली तिमाही नतीजों को बाजार अनुमान से बेहतर मानते हुए लक्ष्य मूल्य बढ़ाया, hankyung.com ने बताया।",
+        "body": "Samyang Foods के पहली तिमाही नतीजों को बाजार उम्मीदों से बेहतर आंका गया, जिसके बाद KB Securities ने लक्ष्य मूल्य बढ़ाया। hankyung.com के अनुसार, KB ने कंपनी के अपेक्षा से बेहतर तिमाही प्रदर्शन को अपने संशोधित लक्ष्य मूल्य में शामिल किया। यह रिपोर्ट दिखाती है कि नतीजों के बाद ब्रोकरेज का मूल्यांकन शेयर पर बाजार की राय के लिए अहम कारक बन सकता है। अतिरिक्त सारांश विवरण उपलब्ध नहीं कराया गया, लेकिन मुख्य तथ्य Samyang Foods का बेहतर पहली तिमाही प्रदर्शन और KB द्वारा लक्ष्य मूल्य में बढ़ोतरी हैं। स्रोत: hankyung.com."
+      },
+      "id": {
+        "title": "Laba Kuartal I Samyang Foods Lampaui Estimasi, KB Naikkan Target Harga",
+        "excerpt": "KB Securities menaikkan target harga Samyang Foods setelah menilai kinerja kuartal pertama melampaui ekspektasi pasar, lapor hankyung.com.",
+        "body": "Kinerja kuartal pertama Samyang Foods dinilai melampaui ekspektasi pasar, sehingga KB Securities menaikkan target harga. Menurut hankyung.com, KB memasukkan pencapaian kuartalan yang lebih baik dari perkiraan tersebut ke dalam revisi targetnya. Laporan ini menunjukkan bahwa penilaian perusahaan sekuritas setelah rilis kinerja dapat menjadi faktor penting bagi pandangan pasar terhadap saham. Tidak ada rincian ringkasan tambahan yang diberikan, tetapi fakta utamanya adalah kinerja kuartal pertama Samyang Foods yang kuat dan kenaikan target harga oleh KB. Sumber: hankyung.com."
+      }
+    }
+  },
+  {
     "id": "822a2f689274",
     "slug": "한국앤컴퍼니-1분기-영업익-1216억원전년비-41-감소-424105",
     "channelId": "ETF",
@@ -4271,231 +4496,6 @@
         "title": "Dana Pensiun Nasional Korea Lampaui Batas Saham Lokal 150 Triliun Won",
         "excerpt": "Porsi saham domestik Dana Pensiun Nasional Korea dilaporkan 12 poin persentase di atas target, sehingga secara prinsip memicu beban jual 150 triliun won.",
         "body": "Porsi saham domestik Dana Pensiun Nasional Korea Selatan dilaporkan telah melampaui target yang ditetapkan secara signifikan. Menurut mk.co.kr, alokasi saham Korea dalam portofolio dana tersebut berada 12 poin persentase di atas target. Secara prinsip, kondisi ini dapat diartikan sebagai kebutuhan untuk menjual saham domestik senilai sekitar 150 triliun won secara mekanis. Karena dana ini merupakan investor institusional besar di pasar saham Korea, kelebihan batas dan potensi kebutuhan jual dapat memengaruhi pasokan, permintaan, serta sentimen investor. Laporan asli tidak merinci arah respons aktual dana tersebut. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "d1dccdf8c678",
-    "slug": "형평성-vs-시장-준비도코인-과세-싸움-반복되는-이유엠블록레터-467803",
-    "channelId": "ETF",
-    "category": "etf",
-    "publishedAt": "2026-05-13T08:27:33.234Z",
-    "updatedAt": "2026-05-13T08:27:33.234Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/stock/12046078",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12046078",
-    "titleFingerprint": "0b89304cda2e6ce17621d8c64ea1605228f1283c",
-    "dedupKeys": [
-      "d1dccdf8c678d8607fec76c02d2ee1902c61c2b2",
-      "0b89304cda2e6ce17621d8c64ea1605228f1283c",
-      "1b9656c9d6bb63cb2cc0c9c48e4c051c67786693"
-    ],
-    "imageUrl": "/images/articles/d1dccdf8c678.png",
-    "i18n": {
-      "ko": {
-        "title": "코인 과세 유예 논쟁 재점화, ‘형평성’과 ‘시장 준비도’ 충돌하는 이유",
-        "excerpt": "최근 국내 가상자산 시장에서 비트코인 가격 상승과 대선을 앞둔 정치권의 코인 과세 유예 논의가 맞물리며 과세 논쟁이 다시 부상했다.",
-        "body": "최근 국내 가상자산 시장이 다시 뜨거워진 가운데, 대선을 앞두고 정치권에서 ‘코인 과세 유예’ 논의가 재차 거론되고 있다. 관심이 커진 배경에는 비트코인 가격 상승만이 아니라, 과세를 둘러싼 ‘형평성’과 ‘시장 준비도’의 충돌이 있다. 가상자산 과세는 투자 소득에 세금을 매겨야 한다는 원칙과, 시장 제도와 투자자 보호 장치가 충분히 준비됐는지에 대한 우려가 맞서며 반복적으로 논쟁이 이어져 왔다. 이번 논의도 선거 국면에서 투자자 여론과 과세 원칙이 함께 부각되며 시장의 관심을 키우고 있다. 출처: mk.co.kr."
-      },
-      "en": {
-        "title": "Crypto Tax Deferral Debate Returns as Fairness Clashes With Market Readiness",
-        "excerpt": "South Korea’s virtual asset market is back in focus as Bitcoin’s rise and pre-election talk of delaying crypto taxation revive a familiar policy dispute.",
-        "body": "South Korea’s virtual asset market has heated up again recently, with politicians once more discussing a possible delay to crypto taxation ahead of the presidential election. The renewed attention is not only about Bitcoin’s price gains. At the center is a recurring clash between “fairness” and “market readiness.” The debate over taxing virtual assets has repeatedly returned because the principle of taxing investment income runs up against concerns over whether the market system and investor protection measures are sufficiently prepared. This latest discussion is drawing attention as investor sentiment and tax principles both surface during the election period. Source: mk.co.kr."
-      },
-      "ja": {
-        "title": "暗号資産課税延期論が再燃、公平性と市場準備度の対立が続く理由",
-        "excerpt": "韓国の暗号資産市場では最近、ビットコイン上昇と大統領選を前にした課税延期論が重なり、課税論争が再び注目されている。",
-        "body": "韓国の暗号資産市場が最近再び熱を帯びるなか、大統領選を前に政治圏で「コイン課税延期」の議論が再び取り上げられている。関心が高まった背景は、ビットコイン価格の上昇だけではない。焦点は、課税をめぐる「公平性」と「市場準備度」の衝突にある。暗号資産課税は、投資所得に税を課すべきだという原則と、市場制度や投資家保護の仕組みが十分に整っているのかという懸念が対立し、繰り返し論争になってきた。今回も選挙局面で投資家世論と課税原則が同時に浮上し、市場の関心を集めている。出典: mk.co.kr."
-      },
-      "zh": {
-        "title": "加密货币征税延期争议再起，公平性与市场准备度为何反复碰撞",
-        "excerpt": "近期韩国虚拟资产市场再度升温，比特币上涨与大选前政界重提加密货币征税延期，使税收争议重新受到关注。",
-        "body": "近期韩国虚拟资产市场再次升温，在大选前，政界重新提及“加密货币征税延期”议题。市场关注增加，并不只是因为比特币价格上涨。争议核心在于围绕征税的“公平性”与“市场准备度”发生冲突。虚拟资产征税问题之所以反复出现，是因为对投资收益征税的原则，与市场制度和投资者保护措施是否已经充分准备好的担忧相互对立。此次讨论也在选举局势下同时凸显投资者舆论与征税原则，进一步吸引市场关注。来源: mk.co.kr."
-      },
-      "es": {
-        "title": "Vuelve el debate sobre aplazar el impuesto cripto: equidad frente a preparación del mercado",
-        "excerpt": "El mercado surcoreano de activos virtuales vuelve al foco por el alza de Bitcoin y la discusión política previa a las elecciones sobre aplazar la tributación cripto.",
-        "body": "El mercado surcoreano de activos virtuales se ha calentado de nuevo recientemente, mientras la política vuelve a hablar de un posible aplazamiento del impuesto a las criptomonedas antes de las elecciones presidenciales. El renovado interés no se explica solo por la subida del precio de Bitcoin. En el centro está el choque entre “equidad” y “preparación del mercado”. La tributación de los activos virtuales ha generado debates repetidos porque el principio de gravar las rentas de inversión se enfrenta a dudas sobre si el sistema de mercado y las medidas de protección al inversor están suficientemente preparados. Esta nueva discusión gana atención en un contexto electoral donde pesan tanto la opinión de los inversores como los principios fiscales. Fuente: mk.co.kr."
-      },
-      "pt": {
-        "title": "Debate sobre adiar imposto cripto volta com equidade contra preparo do mercado",
-        "excerpt": "O mercado sul-coreano de ativos virtuais voltou ao centro das atenções com a alta do Bitcoin e a discussão eleitoral sobre adiar a tributação cripto.",
-        "body": "O mercado sul-coreano de ativos virtuais voltou a esquentar recentemente, enquanto a classe política retoma a discussão sobre um possível adiamento da tributação de criptomoedas antes da eleição presidencial. O interesse renovado não se deve apenas à alta do preço do Bitcoin. No centro está o conflito entre “equidade” e “preparo do mercado”. A tributação de ativos virtuais tem gerado debates recorrentes porque o princípio de tributar renda de investimento se contrapõe a preocupações sobre se o sistema de mercado e as medidas de proteção ao investidor estão suficientemente preparados. Agora, em meio ao cenário eleitoral, a opinião dos investidores e os princípios fiscais voltam a ganhar destaque. Fonte: mk.co.kr."
-      },
-      "de": {
-        "title": "Krypto-Steueraufschub wieder im Fokus: Fairness trifft auf Marktreife",
-        "excerpt": "Südkoreas Markt für virtuelle Vermögenswerte steht erneut im Fokus, da Bitcoin steigt und vor der Präsidentschaftswahl ein Steueraufschub diskutiert wird.",
-        "body": "Südkoreas Markt für virtuelle Vermögenswerte hat zuletzt wieder deutlich an Aufmerksamkeit gewonnen, während die Politik vor der Präsidentschaftswahl erneut über einen möglichen Aufschub der Krypto-Besteuerung spricht. Der Grund dafür ist nicht nur der gestiegene Bitcoin-Preis. Im Mittelpunkt steht der wiederkehrende Konflikt zwischen “Fairness” und “Marktreife”. Die Besteuerung virtueller Vermögenswerte wird immer wieder diskutiert, weil das Prinzip, Anlageerträge zu besteuern, auf Zweifel trifft, ob Marktregeln und Anlegerschutz bereits ausreichend vorbereitet sind. Auch diese Debatte rückt im Wahlumfeld Anlegerstimmung und Steuergrundsätze zugleich in den Vordergrund. Quelle: mk.co.kr."
-      },
-      "fr": {
-        "title": "Le report de la taxe crypto refait débat entre équité et préparation du marché",
-        "excerpt": "Le marché sud-coréen des actifs virtuels revient au premier plan avec la hausse du Bitcoin et les discussions électorales sur un report de la fiscalité crypto.",
-        "body": "Le marché sud-coréen des actifs virtuels s’est récemment de nouveau animé, alors que le monde politique évoque encore un possible report de la fiscalité des cryptomonnaies avant l’élection présidentielle. Ce regain d’attention ne tient pas seulement à la hausse du prix du Bitcoin. Le coeur du débat oppose “équité” et “préparation du marché”. La taxation des actifs virtuels revient régulièrement car le principe d’imposer les revenus d’investissement se heurte aux inquiétudes sur le degré de préparation du système de marché et des dispositifs de protection des investisseurs. Dans ce contexte électoral, l’opinion des investisseurs et les principes fiscaux reviennent ensemble au centre de l’attention. Source: mk.co.kr."
-      },
-      "ar": {
-        "title": "تأجيل ضريبة العملات المشفرة يعود للواجهة بين العدالة وجاهزية السوق",
-        "excerpt": "عاد سوق الأصول الافتراضية في كوريا الجنوبية إلى دائرة الاهتمام مع صعود بيتكوين وتجدد النقاش السياسي قبل الانتخابات حول تأجيل الضريبة.",
-        "body": "شهد سوق الأصول الافتراضية في كوريا الجنوبية سخونة جديدة في الآونة الأخيرة، فيما عادت الأوساط السياسية قبل الانتخابات الرئاسية إلى طرح مسألة “تأجيل ضريبة العملات المشفرة”. ولا يرتبط هذا الاهتمام بصعود سعر بيتكوين فقط. فجوهر النقاش هو التصادم المتكرر بين “العدالة” و“جاهزية السوق”. وتعود قضية فرض الضرائب على الأصول الافتراضية مرارا لأن مبدأ فرض ضريبة على دخل الاستثمار يقابله قلق بشأن ما إذا كان نظام السوق وآليات حماية المستثمرين جاهزة بما يكفي. وفي هذه الجولة، يبرز رأي المستثمرين ومبدأ الضريبة معا في أجواء انتخابية، ما يزيد اهتمام السوق. المصدر: mk.co.kr."
-      },
-      "hi": {
-        "title": "क्रिप्टो टैक्स टालने की बहस फिर तेज, समानता बनाम बाजार तैयारी का सवाल",
-        "excerpt": "दक्षिण कोरिया के वर्चुअल एसेट बाजार में बिटकॉइन की तेजी और चुनाव से पहले क्रिप्टो टैक्स टालने की राजनीतिक चर्चा से विवाद फिर उभरा है।",
-        "body": "दक्षिण कोरिया का वर्चुअल एसेट बाजार हाल में फिर गर्म हुआ है, और राष्ट्रपति चुनाव से पहले राजनीति में “क्रिप्टो टैक्स टालने” की चर्चा दोबारा उठी है। यह दिलचस्पी केवल बिटकॉइन की कीमत बढ़ने की वजह से नहीं है। मुद्दे के केंद्र में टैक्स को लेकर “समानता” और “बाजार की तैयारी” का टकराव है। वर्चुअल एसेट पर कर लगाने की बहस बार-बार इसलिए लौटती है क्योंकि निवेश आय पर कर लगाने का सिद्धांत इस चिंता से टकराता है कि बाजार व्यवस्था और निवेशक संरक्षण उपाय पर्याप्त रूप से तैयार हैं या नहीं। चुनावी माहौल में निवेशकों की राय और कर सिद्धांत दोनों साथ उभरने से यह चर्चा बाजार का ध्यान खींच रही है। स्रोत: mk.co.kr."
-      },
-      "id": {
-        "title": "Penundaan Pajak Kripto Kembali Diperdebatkan: Kesetaraan vs Kesiapan Pasar",
-        "excerpt": "Pasar aset virtual Korea Selatan kembali disorot karena kenaikan Bitcoin dan pembahasan politik jelang pilpres soal penundaan pajak kripto.",
-        "body": "Pasar aset virtual Korea Selatan kembali memanas belakangan ini, sementara kalangan politik menjelang pemilihan presiden kembali membicarakan kemungkinan “penundaan pajak kripto”. Perhatian yang meningkat ini tidak hanya dipicu oleh kenaikan harga Bitcoin. Inti persoalannya adalah benturan antara “kesetaraan” dan “kesiapan pasar”. Pajak atas aset virtual terus menjadi perdebatan berulang karena prinsip memajaki pendapatan investasi berhadapan dengan kekhawatiran apakah sistem pasar dan perlindungan investor sudah cukup siap. Dalam situasi pemilu, opini investor dan prinsip perpajakan sama-sama mengemuka, sehingga isu ini kembali menarik perhatian pasar. Sumber: mk.co.kr."
-      }
-    }
-  },
-  {
-    "id": "3a50794fc5ca",
-    "slug": "현대차lg전자까지-뛰었다휴머노이드-기대감에-증시-들썩-910233",
-    "channelId": "ETF",
-    "category": "etf",
-    "publishedAt": "2026-05-13T08:25:51.322Z",
-    "updatedAt": "2026-05-13T08:25:51.322Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/stock/12046279",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12046279",
-    "titleFingerprint": "7127ebe5b70c239d5a5cf54e3745479f32c9ef3f",
-    "dedupKeys": [
-      "3a50794fc5ca4249f8e3d560e71fa213e568e8be",
-      "7127ebe5b70c239d5a5cf54e3745479f32c9ef3f",
-      "d20ff8206df74794e28825ae0d15bac4b3e11f34"
-    ],
-    "imageUrl": "/images/articles/3a50794fc5ca.jpg",
-    "i18n": {
-      "ko": {
-        "title": "휴머노이드 로봇 기대감에 로봇주 강세, 현대차·LG전자도 주목",
-        "excerpt": "국내 로봇 관련주가 외국인 매수세와 휴머노이드 산업 기대감에 힘입어 다시 강세를 보이고 있으며, AI 이후 차세대 성장 산업으로 로봇 분야가 부각되고 있다.",
-        "body": "국내 증시에서 로봇 관련주가 외국인 매수세와 휴머노이드 로봇 산업에 대한 기대감으로 다시 강세 흐름을 보이고 있다. 인공지능(AI) 열풍 이후 차세대 성장 산업으로 휴머노이드 로봇이 부상하면서 투자자 관심이 관련 종목으로 확산되는 모습이다. 현대차와 LG전자까지 관련 기대감에 이름이 오르며 시장의 주목도도 커졌다. 로봇주는 산업 성장 기대와 수급 흐름이 맞물리며 증시에서 다시 부각되고 있지만, 기사에서 확인된 내용은 기대감과 매수세에 따른 강세 흐름에 한정된다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Humanoid Robot Hopes Lift Robot Stocks as Hyundai Motor and LG Electronics Draw Attention",
-        "excerpt": "Korean robot-related shares are strengthening again as foreign buying and expectations for the humanoid robot industry grow, with robotics emerging after the AI boom.",
-        "body": "Robot-related stocks in the Korean market are gaining strength again, supported by foreign buying and expectations for the humanoid robot industry. After the artificial intelligence boom, humanoid robots are emerging as a next-generation growth industry, drawing investor attention to related shares. Hyundai Motor and LG Electronics have also been mentioned in connection with these expectations, increasing market focus. Robot stocks are being highlighted again as industry growth hopes and buying flows overlap, but the reported facts are limited to the stronger trend driven by expectations and foreign demand. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "ヒューマノイドロボット期待でロボット株が強含み、現代自・LG電子にも関心",
-        "excerpt": "韓国のロボット関連株は外国人投資家の買いとヒューマノイド産業への期待を背景に再び強含み、AI後の次世代成長分野として注目されている。",
-        "body": "韓国株式市場でロボット関連株が、外国人投資家の買いとヒューマノイドロボット産業への期待を背景に、再び強い流れを見せている。人工知能（AI）ブームの後、ヒューマノイドロボットが次世代の成長産業として浮上し、投資家の関心が関連銘柄に広がっている。現代自動車とLG電子も関連期待の中で名前が挙がり、市場の注目度が高まった。ロボット株は産業成長期待と需給の流れが重なって再び浮上しているが、記事で確認された内容は期待感と買いによる強含みに限られる。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "人形机器人预期带动机器人股走强，现代汽车与LG电子受关注",
-        "excerpt": "韩国机器人相关股票在外资买盘和人形机器人产业预期推动下再度走强，AI热潮之后，机器人领域正被视为下一代成长产业。",
-        "body": "韩国股市中，机器人相关股票在外资买盘和人形机器人产业预期推动下，再度呈现强势走势。人工智能（AI）热潮之后，人形机器人被视为下一代成长产业，投资者关注正扩散至相关个股。现代汽车和LG电子也因相关预期被市场提及，关注度进一步上升。机器人股因产业成长预期与资金流向相互叠加而重新受到关注，但报道中确认的信息仅限于预期和买盘推动下的强势表现。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Expectativas por robots humanoides impulsan acciones robóticas; Hyundai y LG ganan atención",
-        "excerpt": "Las acciones surcoreanas vinculadas a la robótica vuelven a fortalecerse por compras extranjeras y expectativas sobre humanoides, tras el auge de la IA.",
-        "body": "En el mercado bursátil surcoreano, las acciones relacionadas con la robótica vuelven a mostrar fortaleza gracias a las compras de inversores extranjeros y a las expectativas sobre la industria de robots humanoides. Tras el auge de la inteligencia artificial (IA), los humanoides surgen como una industria de crecimiento de próxima generación, llevando el interés inversor hacia valores relacionados. Hyundai Motor y LG Electronics también aparecen vinculadas a estas expectativas, elevando la atención del mercado. Las acciones robóticas vuelven a destacar por la combinación de expectativas industriales y flujos de compra, aunque la información confirmada se limita a esa tendencia alcista. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Expectativa com robôs humanoides impulsiona ações de robótica; Hyundai e LG em foco",
-        "excerpt": "Ações sul-coreanas ligadas à robótica voltam a subir com compras estrangeiras e expectativas sobre humanoides, enquanto o setor ganha força após a IA.",
-        "body": "No mercado acionário sul-coreano, ações relacionadas à robótica voltam a ganhar força, apoiadas por compras de investidores estrangeiros e expectativas em torno da indústria de robôs humanoides. Depois da onda de inteligência artificial (IA), os humanoides surgem como uma indústria de crescimento de próxima geração, ampliando o interesse dos investidores por papéis ligados ao tema. Hyundai Motor e LG Electronics também foram citadas nesse contexto, aumentando a atenção do mercado. As ações de robótica voltam a se destacar pela combinação de expectativa industrial e fluxo comprador, mas os fatos reportados se limitam a essa tendência de alta. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Humanoide Roboter beflügeln Robotik-Aktien; Hyundai und LG rücken in den Fokus",
-        "excerpt": "Südkoreanische Robotik-Aktien legen wieder zu, gestützt durch ausländische Käufe und Erwartungen an humanoide Roboter als Wachstumsfeld nach dem KI-Boom.",
-        "body": "Am südkoreanischen Aktienmarkt zeigen Robotik-Werte erneut Stärke, getragen von Käufen ausländischer Investoren und Erwartungen an die Industrie humanoider Roboter. Nach dem Boom um künstliche Intelligenz (KI) rücken humanoide Roboter als nächste Wachstumsbranche in den Vordergrund, wodurch sich das Anlegerinteresse auf entsprechende Aktien ausweitet. Auch Hyundai Motor und LG Electronics werden im Zusammenhang mit diesen Erwartungen genannt, was die Marktaufmerksamkeit erhöht. Robotik-Aktien gewinnen damit durch das Zusammenspiel von Wachstumshoffnung und Nachfrage erneut an Bedeutung; die berichteten Fakten beschränken sich jedoch auf diese stärkere Entwicklung. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Les espoirs autour des robots humanoïdes portent les valeurs robotiques, Hyundai et LG suivis",
-        "excerpt": "Les valeurs sud-coréennes liées à la robotique repartent à la hausse grâce aux achats étrangers et aux attentes autour des humanoïdes après l’essor de l’IA.",
-        "body": "Sur le marché boursier sud-coréen, les actions liées à la robotique retrouvent une tendance ferme, soutenues par les achats d’investisseurs étrangers et les attentes autour de l’industrie des robots humanoïdes. Après l’essor de l’intelligence artificielle (IA), les humanoïdes apparaissent comme un secteur de croissance de prochaine génération, attirant l’attention des investisseurs vers les titres concernés. Hyundai Motor et LG Electronics sont également mentionnés dans ce contexte, renforçant l’intérêt du marché. Les valeurs robotiques reviennent ainsi au premier plan avec la combinaison des espoirs industriels et des flux d’achat, mais les faits rapportés se limitent à cette tendance. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "توقعات الروبوتات البشرية تدعم أسهم الروبوتات مع اهتمام بهيونداي وLG إلكترونيكس",
-        "excerpt": "تعود أسهم الروبوتات في كوريا الجنوبية إلى القوة بدعم من مشتريات الأجانب وتوقعات صناعة الروبوتات البشرية، بعد بروزها كقطاع نمو تال للذكاء الاصطناعي.",
-        "body": "في سوق الأسهم الكورية الجنوبية، تظهر الأسهم المرتبطة بالروبوتات قوة مجددا بدعم من مشتريات المستثمرين الأجانب وتوقعات صناعة الروبوتات البشرية. وبعد موجة الذكاء الاصطناعي، تبرز الروبوتات البشرية كصناعة نمو من الجيل التالي، ما يوسع اهتمام المستثمرين بالأسهم ذات الصلة. كما ورد اسما هيونداي موتور وLG إلكترونيكس ضمن هذه التوقعات، ما زاد تركيز السوق عليهما. وتعود أسهم الروبوتات إلى الواجهة مع تلاقي توقعات نمو الصناعة وتدفقات الشراء، لكن المعلومات المؤكدة في الخبر تقتصر على اتجاه القوة المدفوع بالتوقعات والمشتريات. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "ह्यूमनॉइड रोबोट उम्मीदों से रोबोट शेयर मजबूत, Hyundai और LG पर भी नजर",
-        "excerpt": "दक्षिण कोरिया के रोबोट से जुड़े शेयर विदेशी खरीद और ह्यूमनॉइड उद्योग की उम्मीदों से फिर मजबूत हो रहे हैं, जबकि AI के बाद यह अगला विकास क्षेत्र बन रहा है।",
-        "body": "दक्षिण कोरिया के शेयर बाजार में रोबोट से जुड़े शेयर विदेशी निवेशकों की खरीद और ह्यूमनॉइड रोबोट उद्योग को लेकर उम्मीदों के सहारे फिर मजबूती दिखा रहे हैं। आर्टिफिशियल इंटेलिजेंस (AI) की लहर के बाद ह्यूमनॉइड रोबोट अगली पीढ़ी के विकास उद्योग के रूप में उभर रहे हैं, जिससे निवेशकों की रुचि संबंधित शेयरों की ओर बढ़ रही है। Hyundai Motor और LG Electronics के नाम भी इन उम्मीदों के संदर्भ में सामने आए हैं, जिससे बाजार का ध्यान और बढ़ा है। रोबोट शेयर उद्योग वृद्धि की उम्मीद और खरीद प्रवाह के मेल से फिर उभर रहे हैं, लेकिन रिपोर्ट में पुष्टि की गई बात मजबूत रुझान तक सीमित है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Ekspektasi Robot Humanoid Angkat Saham Robotik, Hyundai dan LG Ikut Jadi Sorotan",
-        "excerpt": "Saham robotik Korea Selatan kembali menguat berkat aksi beli asing dan ekspektasi industri robot humanoid, setelah sektor ini muncul sebagai pertumbuhan berikutnya usai AI.",
-        "body": "Di pasar saham Korea Selatan, saham terkait robotik kembali menunjukkan penguatan, didukung aksi beli investor asing dan ekspektasi terhadap industri robot humanoid. Setelah gelombang kecerdasan buatan (AI), robot humanoid muncul sebagai industri pertumbuhan generasi berikutnya, sehingga perhatian investor meluas ke saham terkait. Hyundai Motor dan LG Electronics juga disebut dalam kaitan dengan ekspektasi ini, meningkatkan sorotan pasar. Saham robotik kembali menonjol karena bertemunya harapan pertumbuhan industri dan arus beli, tetapi fakta yang dilaporkan terbatas pada tren penguatan akibat ekspektasi dan permintaan tersebut. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "880d8f4e5833",
-    "slug": "궁금했었죠-반도체-다음이-어디인지외국인-매수-몰리며-로봇주-급등-452541",
-    "channelId": "ETF",
-    "category": "etf",
-    "publishedAt": "2026-05-13T08:24:17.862Z",
-    "updatedAt": "2026-05-13T08:24:17.862Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/business/12046281",
-    "canonicalUrl": "https://www.mk.co.kr/news/business/12046281",
-    "titleFingerprint": "6684cf7abb97386f8352be02d1d1ee1e974c1e6c",
-    "dedupKeys": [
-      "880d8f4e58333d366dc1361d78273d32b33c939d",
-      "6684cf7abb97386f8352be02d1d1ee1e974c1e6c",
-      "81f957dd2538a8ff59eadc5e609d883beddbf5bf"
-    ],
-    "imageUrl": "/images/articles/880d8f4e5833.jpg",
-    "i18n": {
-      "ko": {
-        "title": "로봇주 급등, 외국인 매수 집중에 LG전자·레인보우로보 주가 30%대 상승",
-        "excerpt": "이달 들어 외국인 자금이 국내 증시 로보틱스 분야로 강하게 유입되며 LG전자와 레인보우로보 등 로봇 관련주가 30% 넘게 급등했다.",
-        "body": "이달 들어 국내 증시에서 외국인 자금이 가장 강하게 유입된 분야는 로보틱스였다. 외국인 순매수 상위권에 로봇 관련 종목이 이름을 올리면서 LG전자와 레인보우로보를 중심으로 매수세가 집중됐다. 이에 따라 이달 들어 해당 종목들의 주가도 30% 넘게 급등했다. 반도체 이후 시장의 관심이 어디로 이동할지 주목되는 가운데, 로봇주는 외국인 수급이 뚜렷하게 몰린 업종으로 부각됐다. 다만 기사에 제시된 내용은 이달 외국인 매수 흐름과 주가 상승률에 한정된다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Robotics Stocks Jump as Foreign Buying Lifts LG Electronics and Rainbow Robo",
-        "excerpt": "This month, foreign funds flowed most strongly into robotics stocks in Korea, sending shares such as LG Electronics and Rainbow Robo up more than 30%.",
-        "body": "This month, robotics was the sector that drew the strongest foreign fund inflows in the Korean stock market. Robot-related names appeared near the top of foreign net-buying rankings, with buying concentrated in LG Electronics and Rainbow Robo. As a result, shares of those companies have risen more than 30% so far this month. As investors watch where market attention may move after semiconductors, robotics has emerged as a sector with clearly concentrated foreign demand. The reported facts are limited to this month’s foreign buying trend and share-price gains. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "ロボット株が急騰、外国人買いでLG電子・レインボーロボが30％超上昇",
-        "excerpt": "今月、韓国株式市場で外国人資金が最も強く流入した分野はロボティクスで、LG電子やレインボーロボなどが30％超上昇した。",
-        "body": "今月に入り、韓国株式市場で外国人資金が最も強く流入した分野はロボティクスだった。外国人の純買い上位にロボット関連銘柄が入り、LG電子とレインボーロボを中心に買いが集中した。これにより、今月に入って該当銘柄の株価は30％を超えて急騰した。半導体の次に市場の関心がどこへ向かうのか注目される中、ロボット株は外国人の需給が明確に集まった業種として浮上した。ただし、記事で示された内容は今月の外国人買いの流れと株価上昇率に限られる。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "机器人股大涨，外资买入推动LG电子、Rainbow Robo涨逾30%",
-        "excerpt": "本月外资在韩国股市最强流入机器人领域，LG电子、Rainbow Robo等机器人相关股票涨幅超过30%。",
-        "body": "本月以来，韩国股市中外资流入最强的领域无疑是机器人。机器人相关股票进入外资净买入排名前列，买盘集中在LG电子和Rainbow Robo等个股。受此影响，这些股票本月以来的股价涨幅已超过30%。在市场关注半导体之后资金将流向何处之际，机器人股因外资供需明显集中而受到关注。不过，报道所列事实仅限于本月外资买入趋势和股价涨幅。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Acciones de robótica suben con compras extranjeras en LG Electronics y Rainbow Robo",
-        "excerpt": "Este mes, el capital extranjero entró con más fuerza en robótica dentro de la bolsa coreana, impulsando más de 30% a LG Electronics y Rainbow Robo.",
-        "body": "En lo que va del mes, la robótica fue el sector que recibió la entrada más fuerte de capital extranjero en el mercado bursátil coreano. Varias acciones relacionadas con robots aparecieron entre las principales compras netas de inversores extranjeros, con operaciones concentradas en LG Electronics y Rainbow Robo. Como resultado, esas acciones han subido más de 30% este mes. Mientras el mercado observa hacia dónde se desplazará la atención después de los semiconductores, la robótica se destacó como un sector con demanda extranjera claramente concentrada. Los datos citados se limitan al flujo de compras extranjeras y al alza bursátil de este mes. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Ações de robótica disparam com compra estrangeira em LG Electronics e Rainbow Robo",
-        "excerpt": "Neste mês, o capital estrangeiro entrou com mais força no setor de robótica da bolsa coreana, levando LG Electronics e Rainbow Robo a altas acima de 30%.",
-        "body": "Neste mês, a robótica foi o setor que recebeu a entrada mais forte de recursos estrangeiros no mercado acionário coreano. Papéis ligados a robôs apareceram entre os principais nomes em compras líquidas de estrangeiros, com a demanda concentrada em LG Electronics e Rainbow Robo. Como resultado, essas ações subiram mais de 30% no mês. Enquanto o mercado observa para onde a atenção pode migrar após os semicondutores, as ações de robótica ganharam destaque como um setor com fluxo estrangeiro claramente concentrado. As informações citadas se limitam ao movimento de compra estrangeira e à valorização das ações neste mês. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Robotik-Aktien steigen stark: Ausländer kaufen LG Electronics und Rainbow Robo",
-        "excerpt": "Im laufenden Monat floss ausländisches Kapital in Korea besonders stark in Robotikwerte, wodurch LG Electronics und Rainbow Robo um mehr als 30% zulegten.",
-        "body": "Seit Beginn dieses Monats war Robotik der Bereich, in den im koreanischen Aktienmarkt ausländisches Kapital am stärksten floss. Robotikbezogene Titel erschienen weit oben in den Netto-Käufen ausländischer Investoren, wobei sich die Nachfrage vor allem auf LG Electronics und Rainbow Robo konzentrierte. Dadurch stiegen die Kurse dieser Aktien im Monatsverlauf um mehr als 30%. Während der Markt beobachtet, wohin das Interesse nach Halbleitern wandert, rückten Robotikwerte als Branche mit deutlich gebündelter ausländischer Nachfrage in den Fokus. Die genannten Fakten beschränken sich auf die ausländischen Käufe und Kursanstiege dieses Monats. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Les valeurs robotiques bondissent avec les achats étrangers sur LG Electronics et Rainbow Robo",
-        "excerpt": "Ce mois-ci, les capitaux étrangers se sont dirigés le plus fortement vers la robotique en Corée, faisant grimper LG Electronics et Rainbow Robo de plus de 30%.",
-        "body": "Depuis le début du mois, la robotique est le secteur qui a attiré les flux étrangers les plus importants sur le marché boursier coréen. Des titres liés aux robots figurent parmi les principales positions achetées nettes par les investisseurs étrangers, avec des achats concentrés sur LG Electronics et Rainbow Robo. En conséquence, ces actions ont bondi de plus de 30% ce mois-ci. Alors que le marché surveille la destination de l’intérêt après les semi-conducteurs, les valeurs robotiques se distinguent par une demande étrangère nettement concentrée. Les faits rapportés se limitent aux achats étrangers et aux hausses de cours observés ce mois-ci. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "أسهم الروبوتات تقفز مع شراء أجنبي يتركز في إل جي إلكترونيكس ورينبو روبو",
-        "excerpt": "منذ بداية هذا الشهر، تدفقت الأموال الأجنبية بقوة نحو قطاع الروبوتات في سوق كوريا، لترتفع أسهم مثل إل جي إلكترونيكس ورينبو روبو بأكثر من 30%.",
-        "body": "منذ بداية هذا الشهر، كان قطاع الروبوتات هو المجال الذي شهد أقوى تدفق للأموال الأجنبية في سوق الأسهم الكورية. وظهرت أسهم مرتبطة بالروبوتات ضمن المراتب العليا في صافي مشتريات الأجانب، مع تركز الشراء في إل جي إلكترونيكس ورينبو روبو. ونتيجة لذلك، ارتفعت أسعار هذه الأسهم بأكثر من 30% خلال الشهر. وبينما يراقب السوق الوجهة التالية للاهتمام بعد أشباه الموصلات، برزت أسهم الروبوتات كقطاع تركزت فيه تدفقات الأجانب بوضوح. تقتصر المعلومات الواردة على اتجاه شراء الأجانب ونسب ارتفاع الأسهم هذا الشهر. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "रोबोटिक्स शेयरों में तेजी, LG Electronics और Rainbow Robo में विदेशी खरीद से 30% से अधिक उछाल",
-        "excerpt": "इस महीने कोरियाई शेयर बाजार में विदेशी पूंजी सबसे अधिक रोबोटिक्स क्षेत्र में आई, जिससे LG Electronics और Rainbow Robo जैसे शेयर 30% से अधिक चढ़े।",
-        "body": "इस महीने कोरियाई शेयर बाजार में विदेशी पूंजी का सबसे मजबूत प्रवाह रोबोटिक्स क्षेत्र में देखा गया। विदेशी निवेशकों की शुद्ध खरीदारी की शीर्ष सूची में रोबोट से जुड़े शेयर शामिल हुए, जिनमें LG Electronics और Rainbow Robo पर खरीदारी केंद्रित रही। इसके परिणामस्वरूप इस महीने इन शेयरों की कीमतें 30% से अधिक उछल गईं। सेमीकंडक्टर के बाद बाजार का ध्यान किस क्षेत्र की ओर जाएगा, इस पर नजर रहते हुए रोबोटिक्स शेयर विदेशी मांग के स्पष्ट संकेंद्रण वाले क्षेत्र के रूप में उभरे। रिपोर्ट में दिए गए तथ्य इस महीने की विदेशी खरीदारी और शेयर मूल्य वृद्धि तक सीमित हैं। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Saham Robotik Melonjak, Asing Borong LG Electronics dan Rainbow Robo Hingga Naik 30%",
-        "excerpt": "Bulan ini, dana asing paling kuat masuk ke sektor robotik di bursa Korea, mendorong saham LG Electronics dan Rainbow Robo naik lebih dari 30%.",
-        "body": "Bulan ini, robotik menjadi sektor yang paling kuat menerima aliran dana asing di pasar saham Korea. Saham-saham terkait robot masuk jajaran atas pembelian bersih investor asing, dengan minat beli terkonsentrasi pada LG Electronics dan Rainbow Robo. Akibatnya, harga saham terkait telah melonjak lebih dari 30% sejak awal bulan. Saat pasar mencermati ke mana perhatian bergerak setelah semikonduktor, saham robotik muncul sebagai sektor dengan arus asing yang jelas terkonsentrasi. Fakta yang disampaikan terbatas pada tren pembelian asing dan kenaikan harga saham bulan ini. Sumber: mk.co.kr"
       }
     }
   }
