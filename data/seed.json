@@ -1,5 +1,230 @@
 [
   {
+    "id": "7f33ffda2db6",
+    "slug": "속보-원달러-환율-한-달여만에-장중-1500원-넘어-810732",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-05-15T23:32:01.336Z",
+    "updatedAt": "2026-05-15T23:32:01.336Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/2026051591017",
+    "canonicalUrl": "https://www.hankyung.com/article/2026051591017",
+    "titleFingerprint": "05fb46a64d1ada6bf2a46b897049b066664b1749",
+    "dedupKeys": [
+      "7f33ffda2db65b1ed8f3ee67de2dcd644966b06b",
+      "05fb46a64d1ada6bf2a46b897049b066664b1749",
+      "68f30f898200a66178a7ff2eaa4094320f3fa9c5"
+    ],
+    "imageUrl": "/images/articles/7f33ffda2db6.jpg",
+    "i18n": {
+      "ko": {
+        "title": "원·달러 환율 장중 1500원 돌파, 한 달여 만에 다시 1500원대 진입",
+        "excerpt": "원·달러 환율이 장중 1500원을 넘어섰다. hankyung.com에 따르면 환율이 장중 1500원선을 웃돈 것은 한 달여 만으로, 외환시장 변동성이 다시 주목된다.",
+        "body": "원·달러 환율이 장중 1500원을 넘어섰다. hankyung.com은 원·달러 환율이 한 달여 만에 장중 1500원을 넘었다고 보도했다. 이번 소식은 원화와 달러 간 환율 수준이 다시 1500원대에 진입했다는 점에서 외환시장 참가자들의 관심을 끈다. 원문에는 종가, 상승 폭, 구체적 거래 시각 등 추가 수치는 제시되지 않았다. 환율이 장중 1500원선을 웃돈 사실은 달러 표시 자산과 해외 ETF의 원화 환산 가격을 확인할 때 참고되는 핵심 변수다. 출처: hankyung.com 인용."
+      },
+      "en": {
+        "title": "Won-Dollar Rate Tops 1,500 Intraday Again After About a Month",
+        "excerpt": "The won-dollar exchange rate moved above 1,500 during intraday trading. According to hankyung.com, it was the first such move in about a month, putting FX volatility back in focus.",
+        "body": "The won-dollar exchange rate rose above 1,500 during intraday trading. hankyung.com reported that the rate crossed the 1,500 mark intraday for the first time in about a month. The news draws attention from foreign-exchange market participants because the won-dollar rate has re-entered the 1,500 range. The original report did not provide additional figures such as the closing rate, the size of the move, or the exact trading time. The fact that the rate traded above 1,500 is a key variable for checking won-denominated values of dollar assets and overseas ETFs. Source: cited from hankyung.com."
+      },
+      "ja": {
+        "title": "ウォン・ドル相場、約1カ月ぶりに取引時間中1500ウォン突破",
+        "excerpt": "ウォン・ドル相場が取引時間中に1500ウォンを上回った。hankyung.comによると、同水準を付けたのは約1カ月ぶりで、為替市場の変動性が再び注目されている。",
+        "body": "ウォン・ドル相場が取引時間中に1500ウォンを上回った。hankyung.comは、ウォン・ドル相場が約1カ月ぶりに取引時間中1500ウォンを超えたと報じた。今回のニュースは、ウォンとドルの為替水準が再び1500ウォン台に入った点で、外国為替市場の参加者の関心を集めている。原文では終値、上昇幅、具体的な取引時刻などの追加数値は示されていない。取引時間中に1500ウォンを上回った事実は、ドル建て資産や海外ETFのウォン換算価格を確認する際の重要な変数となる。出所: hankyung.com引用。"
+      },
+      "zh": {
+        "title": "韩元兑美元汇率盘中突破1500韩元，约一个月来再现高位",
+        "excerpt": "韩元兑美元汇率盘中升破1500韩元。hankyung.com报道称，这是约一个月来首次盘中高于该水平，外汇市场波动性再受关注。",
+        "body": "韩元兑美元汇率盘中突破1500韩元。hankyung.com报道称，韩元兑美元汇率约一个月来首次在盘中升破1500韩元。该消息之所以受到外汇市场参与者关注，是因为韩元与美元之间的汇率水平重新进入1500韩元区间。原文未提供收盘价、涨幅或具体交易时间等追加数据。汇率盘中高于1500韩元这一事实，是观察美元计价资产和海外ETF按韩元折算价格时需要参考的关键变量。来源：引用hankyung.com。"
+      },
+      "es": {
+        "title": "El won-dólar supera los 1.500 intradía por primera vez en cerca de un mes",
+        "excerpt": "El tipo de cambio won-dólar superó los 1.500 durante la sesión. Según hankyung.com, es la primera vez en cerca de un mes, lo que vuelve a enfocar la volatilidad cambiaria.",
+        "body": "El tipo de cambio won-dólar superó los 1.500 durante la negociación intradía. hankyung.com informó que el cruce rebasó ese nivel por primera vez en cerca de un mes. La noticia atrae la atención de los participantes del mercado de divisas porque el nivel entre el won y el dólar volvió a situarse en la zona de 1.500. El texto original no incluyó cifras adicionales como el cierre, la magnitud del movimiento o la hora exacta de negociación. Que el tipo haya cotizado por encima de 1.500 es una variable clave para revisar el valor en wones de activos en dólares y ETF extranjeros. Fuente: citado de hankyung.com."
+      },
+      "pt": {
+        "title": "Câmbio won-dólar supera 1.500 no intradia após cerca de um mês",
+        "excerpt": "A taxa de câmbio won-dólar passou de 1.500 durante o pregão. Segundo o hankyung.com, foi a primeira vez em cerca de um mês, recolocando a volatilidade cambial em foco.",
+        "body": "A taxa de câmbio won-dólar superou 1.500 durante a negociação intradiária. O hankyung.com informou que a taxa ultrapassou esse nível pela primeira vez em cerca de um mês. A notícia chama a atenção dos participantes do mercado de câmbio porque a relação entre won e dólar voltou à faixa de 1.500. O texto original não apresentou números adicionais, como cotação de fechamento, tamanho da variação ou horário exato da negociação. O fato de a taxa ter ficado acima de 1.500 no intradia é uma variável importante para verificar o valor em won de ativos em dólar e ETFs estrangeiros. Fonte: citado do hankyung.com."
+      },
+      "de": {
+        "title": "Won-Dollar-Kurs steigt intraday wieder über 1.500, erstmals seit rund einem Monat",
+        "excerpt": "Der Won-Dollar-Wechselkurs überschritt im Tagesverlauf die Marke von 1.500. Laut hankyung.com geschah dies erstmals seit rund einem Monat und rückt FX-Volatilität erneut in den Fokus.",
+        "body": "Der Won-Dollar-Wechselkurs ist im Tagesverlauf über 1.500 gestiegen. hankyung.com berichtete, dass der Kurs diese Marke erstmals seit rund einem Monat intraday überschritten hat. Die Meldung zieht die Aufmerksamkeit von Teilnehmern am Devisenmarkt auf sich, weil das Verhältnis zwischen Won und Dollar wieder in den Bereich von 1.500 zurückgekehrt ist. Der Originalbericht nannte keine zusätzlichen Angaben wie Schlusskurs, Höhe der Bewegung oder konkrete Handelszeit. Dass der Kurs intraday über 1.500 lag, ist eine zentrale Variable bei der Prüfung von in Won umgerechneten Werten von Dollar-Anlagen und ausländischen ETFs. Quelle: zitiert nach hankyung.com."
+      },
+      "fr": {
+        "title": "Le won-dollar dépasse 1 500 en séance, une première depuis environ un mois",
+        "excerpt": "Le taux de change won-dollar a dépassé 1 500 en séance. Selon hankyung.com, c’est une première depuis environ un mois, remettant la volatilité des changes au centre de l’attention.",
+        "body": "Le taux de change won-dollar a dépassé 1 500 pendant la séance. hankyung.com a rapporté que le taux avait franchi ce seuil en intrajournalier pour la première fois depuis environ un mois. Cette information retient l’attention des participants au marché des changes, car le niveau entre le won et le dollar revient dans la zone des 1 500. Le texte original ne fournit pas d’autres chiffres, comme le cours de clôture, l’ampleur du mouvement ou l’heure précise de cotation. Le passage au-dessus de 1 500 en séance constitue une variable clé pour vérifier la valeur en wons des actifs libellés en dollars et des ETF étrangers. Source : cité de hankyung.com."
+      },
+      "ar": {
+        "title": "سعر الوون مقابل الدولار يتجاوز 1500 خلال التداول لأول مرة منذ نحو شهر",
+        "excerpt": "تجاوز سعر صرف الوون مقابل الدولار مستوى 1500 أثناء التداول. ووفق hankyung.com، حدث ذلك لأول مرة منذ نحو شهر، ما أعاد تقلبات سوق الصرف إلى دائرة الاهتمام.",
+        "body": "تجاوز سعر صرف الوون مقابل الدولار مستوى 1500 خلال التداول اليومي. وذكرت hankyung.com أن السعر تخطى هذا المستوى أثناء الجلسة لأول مرة منذ نحو شهر. وتلفت هذه الأنباء انتباه المشاركين في سوق الصرف لأنها تعني أن مستوى الوون مقابل الدولار عاد إلى نطاق 1500. ولم يورد النص الأصلي أرقاما إضافية مثل سعر الإغلاق أو حجم الحركة أو وقت التداول المحدد. إن تداول السعر فوق 1500 خلال الجلسة يعد متغيرا رئيسيا عند مراجعة القيمة المقومة بالوون للأصول الدولارية وصناديق ETF الأجنبية. المصدر: نقلا عن hankyung.com."
+      },
+      "hi": {
+        "title": "वॉन-डॉलर विनिमय दर करीब एक महीने बाद इंट्राडे में 1,500 के ऊपर",
+        "excerpt": "वॉन-डॉलर विनिमय दर इंट्राडे कारोबार में 1,500 से ऊपर चली गई। hankyung.com के अनुसार, करीब एक महीने में ऐसा पहली बार हुआ, जिससे मुद्रा बाजार की अस्थिरता फिर ध्यान में आई।",
+        "body": "वॉन-डॉलर विनिमय दर इंट्राडे कारोबार में 1,500 से ऊपर चली गई। hankyung.com ने बताया कि यह दर करीब एक महीने बाद पहली बार कारोबार के दौरान 1,500 के स्तर को पार कर गई। यह खबर विदेशी मुद्रा बाजार के प्रतिभागियों का ध्यान खींचती है, क्योंकि वॉन और डॉलर के बीच विनिमय स्तर फिर 1,500 के दायरे में आ गया है। मूल रिपोर्ट में बंद भाव, बदलाव की मात्रा या सटीक कारोबारी समय जैसे अतिरिक्त आंकड़े नहीं दिए गए। इंट्राडे में 1,500 से ऊपर कारोबार होना डॉलर परिसंपत्तियों और विदेशी ETF के वॉन में मूल्यांकन की जांच के लिए एक प्रमुख संकेतक है। स्रोत: hankyung.com से उद्धृत।"
+      },
+      "id": {
+        "title": "Kurs Won-Dolar Tembus 1.500 Intraday Lagi Setelah Sekitar Sebulan",
+        "excerpt": "Kurs won-dolar bergerak di atas 1.500 dalam perdagangan intraday. Menurut hankyung.com, ini pertama kalinya dalam sekitar sebulan, sehingga volatilitas valas kembali menjadi perhatian.",
+        "body": "Kurs won-dolar menembus 1.500 dalam perdagangan intraday. hankyung.com melaporkan bahwa kurs tersebut melewati level 1.500 saat perdagangan berlangsung untuk pertama kalinya dalam sekitar sebulan. Kabar ini menarik perhatian pelaku pasar valuta asing karena level won terhadap dolar kembali masuk ke kisaran 1.500. Laporan asli tidak memuat angka tambahan seperti kurs penutupan, besarnya pergerakan, atau waktu transaksi yang spesifik. Fakta bahwa kurs diperdagangkan di atas 1.500 secara intraday menjadi variabel penting saat memeriksa nilai aset berdenominasi dolar dan ETF luar negeri dalam won. Sumber: dikutip dari hankyung.com."
+      }
+    }
+  },
+  {
+    "id": "756dfdcaeee1",
+    "slug": "채권금리-급등빈손-미중-정상회담에-하락나스닥-15-뉴욕증시-브리핑-629677",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-05-15T23:30:56.333Z",
+    "updatedAt": "2026-05-15T23:30:56.333Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/2026051604807",
+    "canonicalUrl": "https://www.hankyung.com/article/2026051604807",
+    "titleFingerprint": "17bb0cfeb1077a792b8d8394a6d543fcb997c343",
+    "dedupKeys": [
+      "756dfdcaeee15e39e0f9baba1d152f6ff9c870a5",
+      "17bb0cfeb1077a792b8d8394a6d543fcb997c343",
+      "e5b6d5073f7aedb9c5acba16f78711fde0b88283"
+    ],
+    "imageUrl": "/images/articles/756dfdcaeee1.jpg",
+    "i18n": {
+      "ko": {
+        "title": "채권금리 급등에 뉴욕증시 하락, 미중 정상회담 빈손에 나스닥 1.5%↓",
+        "excerpt": "뉴욕증시는 채권금리 급등과 성과 없이 끝난 미중 정상회담 여파로 하락했고, 기술주 중심 나스닥지수는 1.5% 내렸다고 hankyung.com이 보도했다.",
+        "body": "뉴욕증시는 채권금리 급등과 별다른 성과 없이 끝난 미중 정상회담 영향으로 하락했다. 투자자들은 금리 상승이 증시 부담으로 작용하는 가운데 미중 정상회담에서도 뚜렷한 합의가 나오지 않았다는 점에 주목했다. 기술주 중심의 나스닥지수는 1.5% 떨어지며 주요 지수 약세를 이끌었다. 채권금리 급등은 성장주와 기술주에 부담을 키우는 요인으로 받아들여졌고, 미중 관계 개선 기대가 구체적 결과로 이어지지 못하면서 투자심리도 위축됐다. 시장은 금리 흐름과 미중 관계 관련 후속 신호를 살피는 분위기다. 출처: hankyung.com"
+      },
+      "en": {
+        "title": "New York Stocks Fall as Bond Yields Jump, Nasdaq Drops 1.5% After US-China Summit",
+        "excerpt": "New York stocks fell as surging bond yields and a US-China summit that ended without clear results weighed on sentiment, with the Nasdaq down 1.5%, hankyung.com reported.",
+        "body": "New York stocks declined as bond yields surged and the US-China summit ended without notable results. Investors focused on the pressure from rising rates and the lack of a clear agreement from the meeting between the two leaders. The tech-heavy Nasdaq fell 1.5%, leading weakness among major indexes. The jump in bond yields was seen as a burden for growth and technology shares, while hopes for improved US-China relations failed to translate into concrete outcomes. Market attention is now on the path of yields and any follow-up signals related to US-China ties. Source: hankyung.com"
+      },
+      "ja": {
+        "title": "米国株下落、債券利回り急騰と米中首脳会談の成果なしでナスダック1.5％安",
+        "excerpt": "ニューヨーク株式市場は債券利回りの急騰と成果なく終わった米中首脳会談を受けて下落し、ナスダック指数は1.5％下げたとhankyung.comが報じた。",
+        "body": "ニューヨーク株式市場は、債券利回りの急騰と目立った成果なく終わった米中首脳会談の影響で下落した。投資家は、金利上昇が株式市場の重荷となるなか、米中首脳会談でも明確な合意が示されなかった点に注目した。ハイテク株中心のナスダック指数は1.5％下落し、主要指数の弱さを主導した。債券利回りの急騰は成長株やハイテク株への負担を強める要因と受け止められ、米中関係改善への期待が具体的な結果につながらなかったことで投資心理も冷え込んだ。市場は利回りの動きと米中関係に関する追加シグナルを見極める雰囲気だ。出典: hankyung.com"
+      },
+      "zh": {
+        "title": "债券收益率飙升拖累纽约股市，美中峰会无果纳指下跌1.5%",
+        "excerpt": "hankyung.com报道称，纽约股市因债券收益率飙升及美中领导人会晤未取得明确成果而下跌，科技股集中的纳斯达克指数下跌1.5%。",
+        "body": "纽约股市因债券收益率飙升以及美中领导人会晤未取得明显成果而下跌。投资者关注到，在利率上升给股市带来压力的同时，美中峰会也未能达成清晰协议。以科技股为主的纳斯达克指数下跌1.5%，带动主要股指走弱。债券收益率快速上升被视为加重成长股和科技股压力的因素，而市场对美中关系改善的期待未能转化为具体结果，也令投资情绪受挫。市场正关注收益率走势以及美中关系相关后续信号。来源: hankyung.com"
+      },
+      "es": {
+        "title": "Wall Street cae por salto de rendimientos y cumbre EE.UU.-China sin resultados; Nasdaq -1,5%",
+        "excerpt": "La bolsa de Nueva York cayó por el fuerte aumento de los rendimientos de los bonos y una cumbre EE.UU.-China sin resultados claros; el Nasdaq bajó un 1,5%, informó hankyung.com.",
+        "body": "La bolsa de Nueva York cayó por el fuerte aumento de los rendimientos de los bonos y el cierre de la cumbre entre Estados Unidos y China sin resultados destacables. Los inversores observaron que la subida de las tasas presionaba al mercado bursátil y que la reunión entre los líderes no produjo un acuerdo claro. El Nasdaq, con fuerte peso tecnológico, retrocedió un 1,5% y lideró la debilidad entre los principales índices. El salto de los rendimientos fue visto como una carga para las acciones de crecimiento y tecnología, mientras que las expectativas de mejora en las relaciones entre EE.UU. y China no se tradujeron en resultados concretos. El mercado sigue atento a los rendimientos y a nuevas señales bilaterales. Fuente: hankyung.com"
+      },
+      "pt": {
+        "title": "Wall Street cai com alta dos juros dos títulos e cúpula EUA-China sem resultados; Nasdaq -1,5%",
+        "excerpt": "As ações em Nova York caíram com a disparada dos rendimentos dos títulos e uma cúpula EUA-China sem resultados claros; o Nasdaq recuou 1,5%, informou hankyung.com.",
+        "body": "As ações em Nova York fecharam em queda diante da forte alta dos rendimentos dos títulos e da cúpula entre Estados Unidos e China encerrada sem resultados relevantes. Investidores observaram que a elevação dos juros aumentava a pressão sobre as bolsas e que o encontro entre os líderes não trouxe um acordo claro. O Nasdaq, concentrado em tecnologia, caiu 1,5% e liderou a fraqueza entre os principais índices. A disparada dos rendimentos foi vista como um fator de peso para ações de crescimento e tecnologia, enquanto a expectativa de melhora nas relações EUA-China não se transformou em resultado concreto. O mercado acompanha agora os juros e novos sinais sobre os laços bilaterais. Fonte: hankyung.com"
+      },
+      "de": {
+        "title": "Wall Street fällt nach Renditesprung und ergebnislosem US-China-Gipfel, Nasdaq 1,5% tiefer",
+        "excerpt": "Die New Yorker Börse gab wegen stark steigender Anleiherenditen und eines US-China-Gipfels ohne klare Ergebnisse nach; der Nasdaq fiel um 1,5%, berichtete hankyung.com.",
+        "body": "Die New Yorker Aktienmärkte sind gefallen, belastet durch stark steigende Anleiherenditen und einen US-China-Gipfel ohne nennenswerte Ergebnisse. Anleger richteten den Blick darauf, dass höhere Zinsen den Aktienmarkt belasten und das Treffen der beiden Staatschefs keine klare Einigung brachte. Der technologielastige Nasdaq verlor 1,5% und führte die Schwäche der wichtigsten Indizes an. Der Renditesprung wurde als Belastung für Wachstums- und Technologiewerte gewertet, während Hoffnungen auf bessere Beziehungen zwischen den USA und China nicht in konkrete Resultate mündeten. Der Markt achtet nun auf die weitere Zinsentwicklung und mögliche Folgesignale zu den US-China-Beziehungen. Quelle: hankyung.com"
+      },
+      "fr": {
+        "title": "Wall Street recule avec la flambée des rendements et un sommet USA-Chine sans résultat, Nasdaq -1,5%",
+        "excerpt": "La Bourse de New York a reculé sous l’effet de la flambée des rendements obligataires et d’un sommet USA-Chine sans résultat clair; le Nasdaq a perdu 1,5%, selon hankyung.com.",
+        "body": "La Bourse de New York a reculé sous l’effet de la forte hausse des rendements obligataires et d’un sommet entre les États-Unis et la Chine terminé sans résultat notable. Les investisseurs ont retenu que la montée des taux pesait sur les actions et que la rencontre entre les deux dirigeants n’avait pas débouché sur un accord clair. Le Nasdaq, riche en valeurs technologiques, a perdu 1,5% et mené la baisse des principaux indices. La flambée des rendements a été perçue comme un frein pour les valeurs de croissance et de technologie, tandis que les espoirs d’amélioration des relations sino-américaines ne se sont pas traduits par des résultats concrets. Le marché surveille désormais les taux et les signaux de suivi entre Washington et Pékin. Source: hankyung.com"
+      },
+      "ar": {
+        "title": "أسهم نيويورك تهبط مع قفزة عوائد السندات وقمة أمريكية صينية بلا نتائج؛ ناسداك يخسر 1.5%",
+        "excerpt": "تراجعت أسهم نيويورك بفعل قفزة عوائد السندات وانتهاء القمة الأمريكية الصينية دون نتائج واضحة، فيما هبط مؤشر ناسداك 1.5%، بحسب ما أفاد hankyung.com.",
+        "body": "تراجعت سوق الأسهم في نيويورك مع الارتفاع الحاد في عوائد السندات وانتهاء القمة بين الولايات المتحدة والصين دون نتائج بارزة. وركز المستثمرون على أن صعود أسعار الفائدة يزيد الضغط على الأسهم، بينما لم يسفر اجتماع الزعيمين عن اتفاق واضح. وهبط مؤشر ناسداك، الذي تغلب عليه أسهم التكنولوجيا، بنسبة 1.5%، وقاد ضعف المؤشرات الرئيسية. واعتُبرت قفزة عوائد السندات عاملا يثقل كاهل أسهم النمو والتكنولوجيا، في حين لم تتحول آمال تحسن العلاقات الأمريكية الصينية إلى نتائج ملموسة، ما أثر في معنويات المستثمرين. وتترقب السوق مسار العوائد وأي إشارات لاحقة بشأن العلاقات بين البلدين. المصدر: hankyung.com"
+      },
+      "hi": {
+        "title": "बॉन्ड यील्ड उछलने और अमेरिका-चीन शिखर वार्ता बेनतीजा रहने से न्यूयॉर्क शेयर गिरे, नैस्डैक 1.5% नीचे",
+        "excerpt": "बॉन्ड यील्ड में तेज उछाल और अमेरिका-चीन शिखर वार्ता में स्पष्ट नतीजा न निकलने से न्यूयॉर्क शेयर बाजार गिरा, जबकि नैस्डैक 1.5% टूटा, hankyung.com ने बताया।",
+        "body": "न्यूयॉर्क शेयर बाजार बॉन्ड यील्ड में तेज उछाल और अमेरिका-चीन शिखर वार्ता के बिना उल्लेखनीय परिणाम समाप्त होने से गिरा। निवेशकों ने इस बात पर ध्यान दिया कि बढ़ती दरें शेयर बाजार पर दबाव बना रही हैं और दोनों नेताओं की बैठक से कोई स्पष्ट समझौता नहीं निकला। प्रौद्योगिकी शेयरों पर केंद्रित नैस्डैक सूचकांक 1.5% गिरा और प्रमुख सूचकांकों की कमजोरी का नेतृत्व किया। बॉन्ड यील्ड में उछाल को ग्रोथ और टेक शेयरों पर भार बढ़ाने वाला कारक माना गया, जबकि अमेरिका-चीन संबंधों में सुधार की उम्मीद ठोस परिणाम में नहीं बदली। बाजार अब यील्ड की दिशा और द्विपक्षीय संबंधों से जुड़े आगे के संकेतों पर नजर रख रहा है। स्रोत: hankyung.com"
+      },
+      "id": {
+        "title": "Saham New York Turun karena Imbal Hasil Obligasi Melonjak dan KTT AS-China Tanpa Hasil; Nasdaq -1,5%",
+        "excerpt": "Bursa New York melemah karena lonjakan imbal hasil obligasi dan KTT AS-China yang berakhir tanpa hasil jelas; indeks Nasdaq turun 1,5%, menurut hankyung.com.",
+        "body": "Bursa saham New York melemah akibat lonjakan imbal hasil obligasi dan KTT antara Amerika Serikat dan China yang berakhir tanpa hasil berarti. Investor mencermati tekanan dari kenaikan suku bunga terhadap pasar saham serta tidak adanya kesepakatan jelas dari pertemuan kedua pemimpin. Indeks Nasdaq yang didominasi saham teknologi turun 1,5% dan memimpin pelemahan indeks utama. Lonjakan imbal hasil obligasi dipandang menambah beban bagi saham pertumbuhan dan teknologi, sementara harapan perbaikan hubungan AS-China tidak berubah menjadi hasil konkret. Pasar kini memantau arah imbal hasil dan sinyal lanjutan terkait hubungan kedua negara. Sumber: hankyung.com"
+      }
+    }
+  },
+  {
+    "id": "5aab32784b7f",
+    "slug": "30년물-금리-51-돌파인텔시스코-폭등은-불길한-징조-김현석의-월스트리트나우-201788",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-05-15T23:29:51.216Z",
+    "updatedAt": "2026-05-15T23:29:51.216Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/202605160452i",
+    "canonicalUrl": "https://www.hankyung.com/article/202605160452i",
+    "titleFingerprint": "54c4cbc92aef10f58822031835272e18c99f9d05",
+    "dedupKeys": [
+      "5aab32784b7f1ae7930d1e0aa3dc4944c93830cf",
+      "54c4cbc92aef10f58822031835272e18c99f9d05",
+      "2c30636c30f424cd9e1c6a4a8b3881888b21cd72"
+    ],
+    "imageUrl": "/images/articles/5aab32784b7f.jpg",
+    "i18n": {
+      "ko": {
+        "title": "미 30년물 금리 5.1% 돌파, 인텔·시스코 급등이 던진 시장 신호",
+        "excerpt": "한국경제신문은 김현석의 월스트리트나우에서 30년물 금리가 5.1%를 넘고 인텔·시스코가 급등한 흐름을 시장의 경계 신호로 짚었다.",
+        "body": "미국 장기금리 흐름과 기술주 급등이 월가의 관심사로 떠올랐다. 한국경제신문의 ‘김현석의 월스트리트나우’는 30년물 금리가 5.1%를 돌파한 상황과 인텔·시스코 주가 폭등을 함께 다뤘다. 장기금리 상승은 시장의 할인율과 위험자산 평가에 직접 영향을 주는 변수다. 동시에 인텔과 시스코처럼 과거 기술주 사이클을 상징한 종목의 급등은 투자심리 변화를 보여주는 단서로 제시됐다. 기사는 이 흐름이 단순한 호재인지, 시장 과열을 경계해야 할 신호인지에 주목했다. 출처: hankyung.com"
+      },
+      "en": {
+        "title": "US 30-Year Yield Tops 5.1% as Intel and Cisco Rally Draw Market Scrutiny",
+        "excerpt": "Hankyung’s Wall Street Now by Kim Hyun-suk highlighted the US 30-year yield above 5.1% and sharp gains in Intel and Cisco as a market warning signal.",
+        "body": "Long-term US yields and a sharp rally in major technology names have become a focus on Wall Street. Hankyung’s “Wall Street Now” by Kim Hyun-suk covered the 30-year Treasury yield breaking above 5.1% alongside surging shares of Intel and Cisco. A rise in long-term yields directly affects discount rates and the valuation of risk assets. At the same time, gains in Intel and Cisco, stocks closely associated with past technology cycles, were presented as clues to shifting investor sentiment. The article focused on whether the move is simply positive news or a signal that investors should watch for market overheating. Source: hankyung.com"
+      },
+      "ja": {
+        "title": "米30年債利回り5.1％突破、インテルとシスコ急騰が示す市場サイン",
+        "excerpt": "韓国経済新聞の「キム・ヒョンソクのウォール街ナウ」は、米30年債利回り5.1％超えとインテル、シスコの急騰を警戒材料として取り上げた。",
+        "body": "米国の長期金利の動きと大型テクノロジー株の急騰が、ウォール街の注目点となっている。韓国経済新聞の「キム・ヒョンソクのウォール街ナウ」は、30年債利回りが5.1％を突破した状況と、インテルおよびシスコ株の急騰をあわせて報じた。長期金利の上昇は割引率やリスク資産の評価に直接影響する要因だ。同時に、過去のテクノロジー株サイクルを象徴するインテルとシスコの上昇は、投資家心理の変化を示す手掛かりとして示された。記事は、この動きが単なる好材料なのか、市場過熱への警戒信号なのかに注目した。出典: hankyung.com"
+      },
+      "zh": {
+        "title": "美国30年期收益率突破5.1%，英特尔与思科暴涨释放市场信号",
+        "excerpt": "韩国经济新闻“金贤锡的华尔街Now”指出，美国30年期收益率升破5.1%，英特尔和思科大涨，成为市场需要关注的警戒信号。",
+        "body": "美国长期利率走势和大型科技股急涨，成为华尔街关注的焦点。韩国经济新闻“金贤锡的华尔街Now”报道了30年期国债收益率突破5.1%的情况，并同时关注英特尔和思科股价暴涨。长期利率上升会直接影响折现率和风险资产估值。与此同时，英特尔和思科这类曾代表科技股周期的股票大幅上涨，被视为投资情绪变化的线索。文章关注的是，这一走势究竟只是利好消息，还是需要警惕市场过热的信号。来源: hankyung.com"
+      },
+      "es": {
+        "title": "Bono de EE. UU. a 30 años supera el 5,1% y suben Intel y Cisco: señal a vigilar",
+        "excerpt": "Hankyung, en Wall Street Now de Kim Hyun-suk, señaló el rendimiento del bono a 30 años por encima del 5,1% y el fuerte avance de Intel y Cisco.",
+        "body": "El movimiento de las tasas largas de Estados Unidos y el fuerte repunte de grandes tecnológicas captaron la atención de Wall Street. Hankyung, en “Wall Street Now” de Kim Hyun-suk, abordó la ruptura del 5,1% en el rendimiento del bono del Tesoro a 30 años junto con las fuertes subidas de Intel y Cisco. El aumento de las tasas largas influye directamente en las tasas de descuento y en la valoración de los activos de riesgo. A la vez, el avance de Intel y Cisco, valores ligados a ciclos tecnológicos anteriores, fue presentado como una pista sobre el cambio en el ánimo inversor. El artículo se centró en si este movimiento es una noticia positiva o una señal de alerta sobre posible sobrecalentamiento del mercado. Fuente: hankyung.com"
+      },
+      "pt": {
+        "title": "Juro dos EUA a 30 anos supera 5,1% e altas de Intel e Cisco entram no radar",
+        "excerpt": "O Hankyung, em Wall Street Now de Kim Hyun-suk, destacou o juro de 30 anos acima de 5,1% e as fortes altas de Intel e Cisco como sinal de atenção.",
+        "body": "A trajetória dos juros longos dos Estados Unidos e a forte alta de grandes ações de tecnologia passaram a concentrar a atenção em Wall Street. O Hankyung, em “Wall Street Now” de Kim Hyun-suk, tratou da taxa do Treasury de 30 anos acima de 5,1% junto com a disparada das ações de Intel e Cisco. A alta dos juros longos afeta diretamente as taxas de desconto e a avaliação de ativos de risco. Ao mesmo tempo, os ganhos de Intel e Cisco, papéis associados a ciclos anteriores de tecnologia, foram apresentados como indício de mudança no sentimento dos investidores. A reportagem observou se esse movimento é apenas uma notícia positiva ou um sinal para monitorar possível aquecimento excessivo do mercado. Fonte: hankyung.com"
+      },
+      "de": {
+        "title": "US-30-Jahreszins über 5,1%: Intel- und Cisco-Rally rückt in den Fokus",
+        "excerpt": "Hankyung verwies in Kim Hyun-suks Wall Street Now auf den US-30-Jahreszins über 5,1% und starke Kursgewinne bei Intel und Cisco als Warnsignal.",
+        "body": "Die Entwicklung der langfristigen US-Zinsen und eine kräftige Rally großer Technologiewerte stehen an der Wall Street im Fokus. Hankyung berichtete in „Wall Street Now“ von Kim Hyun-suk über den Anstieg der 30-jährigen Rendite über 5,1% sowie über die starken Kursgewinne von Intel und Cisco. Höhere langfristige Zinsen wirken direkt auf Diskontsätze und die Bewertung riskanter Anlagen. Zugleich wurden Intel und Cisco, Aktien mit Bezug zu früheren Technologiezyklen, als Hinweise auf eine Veränderung der Anlegerstimmung genannt. Der Artikel stellte die Frage in den Mittelpunkt, ob diese Bewegung nur eine positive Nachricht ist oder ein Signal, eine mögliche Marktüberhitzung genauer zu beobachten. Quelle: hankyung.com"
+      },
+      "fr": {
+        "title": "Le taux américain à 30 ans dépasse 5,1%, Intel et Cisco alertent les marchés",
+        "excerpt": "Hankyung, dans Wall Street Now de Kim Hyun-suk, a relevé le taux américain à 30 ans au-dessus de 5,1% et les fortes hausses d’Intel et Cisco.",
+        "body": "L’évolution des taux longs américains et la forte hausse de grandes valeurs technologiques attirent l’attention à Wall Street. Hankyung, dans “Wall Street Now” de Kim Hyun-suk, a traité du rendement du Trésor à 30 ans dépassant 5,1% ainsi que de l’envolée d’Intel et de Cisco. La hausse des taux longs influence directement les taux d’actualisation et la valorisation des actifs risqués. En parallèle, les gains d’Intel et de Cisco, titres associés aux anciens cycles technologiques, ont été présentés comme des indices d’un changement du sentiment des investisseurs. L’article s’est demandé si ce mouvement relevait seulement d’une bonne nouvelle ou s’il fallait y voir un signal de vigilance face à une possible surchauffe du marché. Source: hankyung.com"
+      },
+      "ar": {
+        "title": "عائد السندات الأميركية لأجل 30 عاما يتجاوز 5.1% وقفزة إنتل وسيسكو تحت المجهر",
+        "excerpt": "أبرزت هانكيونغ في وول ستريت ناو لكيم هيون-سوك تجاوز عائد السندات الأميركية لأجل 30 عاما مستوى 5.1% وصعود إنتل وسيسكو كإشارة تستحق الحذر.",
+        "body": "أصبحت حركة العوائد الأميركية طويلة الأجل والارتفاع الحاد في أسهم تكنولوجيا كبرى محور اهتمام وول ستريت. تناولت هانكيونغ في “وول ستريت ناو” لكيم هيون-سوك تجاوز عائد سندات الخزانة لأجل 30 عاما مستوى 5.1%، إلى جانب القفزة القوية في سهمي إنتل وسيسكو. ارتفاع العوائد الطويلة يؤثر مباشرة في معدلات الخصم وتقييم الأصول عالية المخاطر. وفي الوقت نفسه، عُرض صعود إنتل وسيسكو، وهما من الأسهم المرتبطة بدورات تكنولوجية سابقة، كدليل على تغير معنويات المستثمرين. وركز المقال على ما إذا كانت هذه الحركة خبرا إيجابيا فقط أم إشارة تستدعي مراقبة احتمال سخونة السوق. المصدر: hankyung.com"
+      },
+      "hi": {
+        "title": "अमेरिकी 30-वर्षीय यील्ड 5.1% के पार, Intel-Cisco की तेजी पर बाजार की नजर",
+        "excerpt": "Hankyung के Kim Hyun-suk की Wall Street Now ने 30-वर्षीय अमेरिकी यील्ड के 5.1% से ऊपर जाने और Intel-Cisco की तेज बढ़त को सावधानी के संकेत के रूप में देखा।",
+        "body": "अमेरिका में लंबी अवधि की ब्याज दरों की चाल और बड़ी टेक कंपनियों के शेयरों में तेज उछाल वॉल स्ट्रीट का प्रमुख मुद्दा बन गया। Hankyung के “Wall Street Now” में Kim Hyun-suk ने 30-वर्षीय ट्रेजरी यील्ड के 5.1% से ऊपर जाने और Intel तथा Cisco के शेयरों में तेज बढ़त को साथ रखकर देखा। लंबी अवधि की यील्ड में वृद्धि डिस्काउंट रेट और जोखिम वाली परिसंपत्तियों के मूल्यांकन को सीधे प्रभावित करती है। साथ ही, पुराने टेक चक्रों से जुड़े Intel और Cisco की तेजी को निवेशक भावना में बदलाव के संकेत के रूप में पेश किया गया। लेख ने इस बात पर ध्यान दिया कि यह केवल सकारात्मक खबर है या बाजार में अधिक गर्मी से सतर्क रहने का संकेत। स्रोत: hankyung.com"
+      },
+      "id": {
+        "title": "Yield AS 30 Tahun Tembus 5,1%, Lonjakan Intel dan Cisco Jadi Sinyal Pasar",
+        "excerpt": "Hankyung dalam Wall Street Now Kim Hyun-suk menyoroti yield AS 30 tahun di atas 5,1% dan lonjakan Intel serta Cisco sebagai sinyal yang perlu dicermati.",
+        "body": "Pergerakan imbal hasil jangka panjang AS dan lonjakan saham teknologi besar menjadi perhatian Wall Street. Hankyung dalam “Wall Street Now” Kim Hyun-suk membahas yield Treasury 30 tahun yang menembus 5,1% bersamaan dengan lonjakan saham Intel dan Cisco. Kenaikan yield jangka panjang langsung memengaruhi tingkat diskonto dan valuasi aset berisiko. Pada saat yang sama, penguatan Intel dan Cisco, saham yang terkait dengan siklus teknologi masa lalu, disajikan sebagai petunjuk perubahan sentimen investor. Artikel itu menyoroti apakah pergerakan ini sekadar kabar positif atau sinyal untuk mewaspadai potensi pasar yang terlalu panas. Sumber: hankyung.com"
+      }
+    }
+  },
+  {
     "id": "59c7c230c345",
     "slug": "속보-원달러-환율-한-달여-만에-장중-1500원-위로-111152",
     "channelId": "ETF",
@@ -4271,231 +4496,6 @@
         "title": "Saham LG Electronics Menguat di Black Friday Berkat Revaluasi Rantai Nilai Robot",
         "excerpt": "Dalam pasar turun yang disebut Black Friday, indeks melemah setelah menyentuh 8.000, tetapi LG Electronics dan saham Grup LG naik karena revaluasi rantai nilai robot meski asing menjual.",
         "body": "Dalam sesi jual yang disebut Black Friday, pasar melemah setelah menyentuh level 8.000, sementara saham semikonduktor yang sempat naik tajam dalam jangka pendek mengalami koreksi curam. Investor asing mencatat jual bersih sebesar 5 triliun won, memperbesar penurunan, dan kekhawatiran atas kenaikan tajam suku bunga global juga membebani sentimen. Sebaliknya, LG Electronics dan saham Grup LG lainnya menguat di tengah pasar yang lemah karena ekspektasi revaluasi rantai nilai robot mengemuka. Kenaikan saham LG Electronics selama sepekan terakhir terutama menarik perhatian. Di tengah tekanan koreksi pasar, revaluasi terkait robot menjadi faktor pembeda bagi saham Grup LG. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "eb02f36fa7f3",
-    "slug": "금융위-조각투자증권-묶음-발행-허용-727079",
-    "channelId": "ETF",
-    "category": "etf",
-    "publishedAt": "2026-05-15T10:37:59.776Z",
-    "updatedAt": "2026-05-15T10:37:59.776Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/stock/12049388",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12049388",
-    "titleFingerprint": "821e91c4ca8a5aa4d40271e46df3eb8ce807ea76",
-    "dedupKeys": [
-      "eb02f36fa7f3eacddee4860ccde046f7138caac0",
-      "821e91c4ca8a5aa4d40271e46df3eb8ce807ea76",
-      "e65fdca38ee163141094c83cfa664f683f6f78b2"
-    ],
-    "imageUrl": "/images/articles/eb02f36fa7f3.jpg",
-    "i18n": {
-      "ko": {
-        "title": "금융위, 조각투자증권 묶음 발행 허용 추진…토큰증권 제도화 속도",
-        "excerpt": "금융위원회가 15일 권대영 부위원장 주재 논의를 통해 토큰증권 제도화에 맞춰 동일 종류 기초자산의 조각투자증권 묶음 발행을 허용할 방침을 밝혔다.",
-        "body": "금융위원회가 토큰증권 제도화에 발맞춰 조각투자증권 발행 방식의 유연성을 높이는 방안을 추진한다. 금융위는 15일 권대영 부위원장 주재로 관련 논의를 열고, 동일 종류의 기초자산을 일정 범위에서 묶어(pooling) 조각투자증권으로 발행할 수 있도록 허용할 방침이라고 밝혔다. 이번 조치는 조각투자증권이 개별 기초자산 단위로만 발행되는 방식에서 벗어나, 같은 종류 자산을 일정 범위 안에서 함께 구성할 수 있게 하는 내용이다. 토큰증권 제도화 논의와 맞물려 조각투자 시장의 발행 구조와 상품 설계에 영향을 줄 것으로 보인다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "FSC to Allow Pooled Issuance of Fractional Investment Securities",
-        "excerpt": "South Korea’s Financial Services Commission said on May 15 it plans to allow pooled issuance of fractional investment securities tied to the same type of underlying assets as token securities rules advance.",
-        "body": "South Korea’s Financial Services Commission is moving to add flexibility to how fractional investment securities are issued in line with the institutionalization of token securities. The FSC said on May 15, during a meeting chaired by Vice Chairman Kwon Dae-young, that it plans to permit issuers to pool the same type of underlying assets within a defined scope and issue fractional investment securities based on them. The measure would shift the framework beyond issuance tied only to individual underlying assets, allowing assets of the same type to be grouped within certain limits. It is expected to affect issuance structures and product design in the fractional investment market as token securities rules take shape. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "金融委、組合せ型の小口投資証券発行を容認へ　トークン証券制度化に対応",
-        "excerpt": "金融委員会は15日、権大永副委員長主宰の議論で、トークン証券制度化に合わせ同種の裏付け資産を束ねた小口投資証券の発行を認める方針を示した。",
-        "body": "韓国の金融委員会は、トークン証券の制度化に合わせて、小口投資証券の発行方式に柔軟性を持たせる方針だ。金融委は15日、権大永副委員長が主宰した関連議論で、同一種類の裏付け資産を一定範囲で束ね、プーリングした形で小口投資証券を発行できるよう認める計画を明らかにした。今回の措置は、小口投資証券が個別の裏付け資産単位でのみ発行される方式から一歩進み、同種の資産を一定の枠内でまとめられるようにする内容だ。トークン証券制度化の議論と連動し、小口投資市場の発行構造や商品設計に影響を与えるとみられる。出所: mk.co.kr"
-      },
-      "zh": {
-        "title": "韩国金融委拟允许碎片化投资证券打包发行，配合证券型代币制度化",
-        "excerpt": "韩国金融委员会15日在权大永副委员长主持的讨论中表示，将配合证券型代币制度化，允许同类基础资产打包发行碎片化投资证券。",
-        "body": "韩国金融委员会正推动提高碎片化投资证券发行方式的灵活性，以配合证券型代币制度化。金融委15日在权大永副委员长主持的相关讨论中表示，计划允许在一定范围内将同一类型的基础资产进行打包（pooling），并以此发行碎片化投资证券。该措施意味着碎片化投资证券不再仅限于按单一基础资产发行，而是可在规定范围内将同类资产共同组合。随着证券型代币制度化讨论推进，此举预计将影响碎片化投资市场的发行结构和产品设计。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "La FSC permitirá emitir valores de inversión fraccionada en paquetes de activos similares",
-        "excerpt": "La Comisión de Servicios Financieros de Corea dijo el 15 de mayo que planea permitir emisiones agrupadas de valores de inversión fraccionada vinculados a activos subyacentes del mismo tipo.",
-        "body": "La Comisión de Servicios Financieros de Corea del Sur avanza en una medida para flexibilizar la emisión de valores de inversión fraccionada en línea con la institucionalización de los valores tokenizados. La FSC informó el 15 de mayo, en una reunión presidida por el vicepresidente Kwon Dae-young, que permitirá agrupar dentro de un rango determinado activos subyacentes del mismo tipo y emitir valores de inversión fraccionada con base en ellos. La medida amplía el esquema actual, centrado en emisiones por cada activo subyacente individual, y permite estructurar juntos activos similares dentro de ciertos límites. En el marco del debate sobre valores tokenizados, podría incidir en la estructura de emisión y el diseño de productos del mercado de inversión fraccionada. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "FSC permitirá emissão agrupada de valores de investimento fracionado",
-        "excerpt": "A Comissão de Serviços Financeiros da Coreia disse em 15 de maio que pretende permitir a emissão agrupada de valores de investimento fracionado ligados ao mesmo tipo de ativo subjacente.",
-        "body": "A Comissão de Serviços Financeiros da Coreia do Sul pretende dar mais flexibilidade à forma de emissão de valores de investimento fracionado, em linha com a institucionalização dos valores tokenizados. A FSC informou em 15 de maio, em discussão presidida pelo vice-presidente Kwon Dae-young, que planeja permitir que ativos subjacentes do mesmo tipo sejam agrupados dentro de determinado escopo para a emissão desses valores. A medida deixa de limitar a emissão apenas a ativos subjacentes individuais e permite compor conjuntamente ativos similares dentro de certos limites. Com o avanço das regras para valores tokenizados, a mudança deve afetar a estrutura de emissão e o desenho de produtos no mercado de investimento fracionado. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "FSC will gebündelte Ausgabe von Bruchteil-Investmentwertpapieren erlauben",
-        "excerpt": "Die südkoreanische Finanzaufsicht FSC erklärte am 15. Mai, sie wolle im Zuge der Token-Wertpapier-Regulierung die gebündelte Ausgabe von Bruchteil-Investmentwertpapieren auf gleiche Basiswerte zulassen.",
-        "body": "Die südkoreanische Financial Services Commission will die Ausgabe von Bruchteil-Investmentwertpapieren flexibler gestalten, passend zur Institutionalisierung von Token-Wertpapieren. Die FSC teilte am 15. Mai nach einer von Vizechef Kwon Dae-young geleiteten Beratung mit, dass Emittenten gleiche Arten von Basiswerten innerhalb eines bestimmten Rahmens bündeln und darauf Bruchteil-Investmentwertpapiere ausgeben dürfen. Damit würde die Ausgabe nicht mehr nur an einzelne Basiswerte gebunden sein; gleichartige Vermögenswerte könnten innerhalb festgelegter Grenzen gemeinsam strukturiert werden. Im Zusammenhang mit der Regulierung von Token-Wertpapieren dürfte dies die Emissionsstruktur und Produktgestaltung im Markt für Bruchteilinvestments beeinflussen. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "La FSC veut autoriser l’émission groupée de titres d’investissement fractionné",
-        "excerpt": "La Commission des services financiers sud-coréenne a indiqué le 15 mai vouloir autoriser l’émission groupée de titres d’investissement fractionné adossés au même type d’actifs sous-jacents.",
-        "body": "La Commission des services financiers de Corée du Sud entend assouplir les modalités d’émission des titres d’investissement fractionné, dans le cadre de l’institutionnalisation des titres tokenisés. La FSC a déclaré le 15 mai, lors d’une réunion présidée par le vice-président Kwon Dae-young, qu’elle prévoyait d’autoriser le regroupement, dans un périmètre défini, d’actifs sous-jacents du même type afin d’émettre des titres d’investissement fractionné. Cette mesure élargit un schéma centré sur l’émission par actif sous-jacent individuel, en permettant de structurer ensemble des actifs similaires dans certaines limites. Elle devrait influencer les structures d’émission et la conception des produits sur le marché de l’investissement fractionné. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "هيئة الخدمات المالية الكورية تتجه للسماح بإصدار مجمع لأوراق الاستثمار الجزئي",
-        "excerpt": "قالت هيئة الخدمات المالية الكورية في 15 مايو إنها تعتزم السماح بإصدار أوراق استثمار جزئي مجمعة تستند إلى النوع نفسه من الأصول الأساسية، تماشيا مع تنظيم الأوراق المالية الرمزية.",
-        "body": "تتحرك هيئة الخدمات المالية في كوريا الجنوبية لزيادة مرونة طريقة إصدار أوراق الاستثمار الجزئي بالتوازي مع إضفاء الطابع المؤسسي على الأوراق المالية الرمزية. وقالت الهيئة في 15 مايو، خلال نقاش ترأسه نائب الرئيس كوون داي يونغ، إنها تخطط للسماح بتجميع النوع نفسه من الأصول الأساسية ضمن نطاق محدد وإصدار أوراق استثمار جزئي على أساسها. ويمثل ذلك انتقالا من إصدار يرتبط بكل أصل أساسي منفرد فقط إلى إمكانية تكوين أصول من النوع نفسه معا ضمن حدود معينة. ومع تقدم نقاش تنظيم الأوراق المالية الرمزية، من المتوقع أن يؤثر القرار في هيكل الإصدار وتصميم المنتجات في سوق الاستثمار الجزئي. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "FSC फ्रैक्शनल निवेश प्रतिभूतियों की पूल्ड इश्यूइंग की अनुमति देने की तैयारी में",
-        "excerpt": "दक्षिण कोरिया के वित्तीय सेवा आयोग ने 15 मई को कहा कि टोकन सिक्योरिटीज के संस्थागत ढांचे के अनुरूप समान प्रकार की आधारभूत संपत्तियों पर फ्रैक्शनल निवेश प्रतिभूतियों का पूल्ड इश्यू संभव होगा।",
-        "body": "दक्षिण कोरिया का वित्तीय सेवा आयोग टोकन सिक्योरिटीज के संस्थाकरण के अनुरूप फ्रैक्शनल निवेश प्रतिभूतियों के निर्गम तरीके को अधिक लचीला बनाने की दिशा में बढ़ रहा है। आयोग ने 15 मई को उपाध्यक्ष क्वोन डे-यंग की अध्यक्षता में हुई चर्चा में कहा कि वह समान प्रकार की आधारभूत संपत्तियों को एक निर्धारित दायरे में पूल कर उन पर फ्रैक्शनल निवेश प्रतिभूतियां जारी करने की अनुमति देने की योजना बना रहा है। यह कदम उस व्यवस्था से आगे बढ़ता है जिसमें निर्गम केवल अलग-अलग आधारभूत संपत्ति के आधार पर होता था, और समान प्रकार की संपत्तियों को सीमित दायरे में साथ रखने की अनुमति देता है। टोकन सिक्योरिटीज पर नियमों की चर्चा के बीच इसका असर फ्रैक्शनल निवेश बाजार की निर्गम संरचना और उत्पाद डिजाइन पर पड़ सकता है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "FSC Akan Izinkan Penerbitan Sekuritas Investasi Fraksional Secara Pooling",
-        "excerpt": "Komisi Jasa Keuangan Korea pada 15 Mei mengatakan akan mengizinkan penerbitan sekuritas investasi fraksional secara pooling atas aset dasar sejenis sejalan dengan pelembagaan sekuritas token.",
-        "body": "Komisi Jasa Keuangan Korea Selatan bergerak untuk membuat penerbitan sekuritas investasi fraksional lebih fleksibel sejalan dengan pelembagaan sekuritas token. FSC menyatakan pada 15 Mei, dalam pembahasan yang dipimpin Wakil Ketua Kwon Dae-young, bahwa pihaknya berencana mengizinkan aset dasar dengan jenis yang sama digabungkan dalam batas tertentu untuk menerbitkan sekuritas investasi fraksional. Langkah ini memperluas pola yang sebelumnya bertumpu pada penerbitan berdasarkan masing-masing aset dasar, sehingga aset sejenis dapat disusun bersama dalam lingkup tertentu. Seiring pembahasan aturan sekuritas token, kebijakan ini diperkirakan memengaruhi struktur penerbitan dan desain produk di pasar investasi fraksional. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "7dee49fa4dcc",
-    "slug": "대형-금융사-토큰화-경쟁-본격화온체인-금융-인프라-구축-가속엠블록레터-112162",
-    "channelId": "ETF",
-    "category": "etf",
-    "publishedAt": "2026-05-15T10:36:57.374Z",
-    "updatedAt": "2026-05-15T10:36:57.374Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/stock/12049459",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12049459",
-    "titleFingerprint": "4142e88f8dcf6b57422380ec7ebd02da0e12f49c",
-    "dedupKeys": [
-      "7dee49fa4dcc8248f5be703bfa6ad2bf9c1c8aa3",
-      "4142e88f8dcf6b57422380ec7ebd02da0e12f49c",
-      "f30b80bb2923f6d13e7b5767e4117495e7199e5a"
-    ],
-    "imageUrl": "/images/articles/7dee49fa4dcc.png",
-    "i18n": {
-      "ko": {
-        "title": "자산 토큰화 경쟁 본격화, 대형 금융사 온체인 인프라 구축 가속",
-        "excerpt": "전통 금융 대형 기관들이 블록체인 기반 자산 토큰화 시장에 잇따라 진입하면서 온체인 금융 인프라 구축 경쟁이 빠르게 달아오르고 있다.",
-        "body": "전통 금융권의 대형 기관들이 블록체인 기반 자산 토큰화 시장에 잇따라 들어오며 온체인 금융 인프라 구축 경쟁이 본격화하고 있다. 엠블록레터에 따르면 자산을 블록체인 위에서 토큰 형태로 다루려는 움직임이 커지면서 기존 금융사가 관련 시장 진입을 서두르는 흐름이 나타나고 있다. 배경에는 전통 금융과 블록체인 기술을 연결해 금융 인프라를 온체인으로 확장하려는 수요가 있다. 대형 기관들의 참여가 이어질 경우 자산 토큰화 시장은 제도권 금융의 관심 속에 더 빠르게 주목받을 가능성이 있다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Asset Tokenization Race Heats Up as Major Financial Firms Build Onchain Infrastructure",
-        "excerpt": "Major traditional financial institutions are entering blockchain-based asset tokenization, accelerating competition to build onchain financial infrastructure.",
-        "body": "Major institutions in traditional finance are moving into blockchain-based asset tokenization, intensifying competition to build onchain financial infrastructure. According to MBlock Letter, financial firms are speeding up their entry as interest grows in handling assets as tokens on blockchains. The backdrop is demand to connect traditional finance with blockchain technology and extend financial infrastructure onchain. If large institutions continue to participate, asset tokenization may draw faster attention from mainstream finance. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "資産トークン化競争が本格化、大手金融機関がオンチェーン基盤構築を加速",
-        "excerpt": "伝統的な大手金融機関がブロックチェーン基盤の資産トークン化市場に相次ぎ参入し、オンチェーン金融インフラ構築競争が加速している。",
-        "body": "伝統金融の大手機関がブロックチェーン基盤の資産トークン化市場に相次いで参入し、オンチェーン金融インフラ構築競争が本格化している。MBlock Letterによると、資産をブロックチェーン上でトークンとして扱う動きが広がるなか、既存の金融会社が関連市場への参入を急ぐ流れが見られる。背景には、伝統金融とブロックチェーン技術を結び、金融インフラをオンチェーンへ拡張しようとする需要がある。大手機関の参加が続けば、資産トークン化市場は制度圏金融の関心のなかで一段と注目される可能性がある。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "资产代币化竞争升温，大型金融机构加速建设链上金融基础设施",
-        "excerpt": "传统大型金融机构接连进入基于区块链的资产代币化市场，围绕链上金融基础设施建设的竞争正在迅速升温。",
-        "body": "传统金融领域的大型机构正陆续进入基于区块链的资产代币化市场，链上金融基础设施建设竞争开始加速。MBlock Letter称，随着将资产以代币形式在区块链上处理的动向扩大，现有金融公司正在加快进入相关市场。其背景是市场希望把传统金融与区块链技术连接起来，并将金融基础设施扩展到链上。如果大型机构继续参与，资产代币化市场可能在主流金融的关注下更快受到重视。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "La tokenización de activos acelera la competencia entre grandes firmas financieras",
-        "excerpt": "Grandes instituciones financieras tradicionales entran en la tokenización de activos basada en blockchain y aceleran la construcción de infraestructura financiera onchain.",
-        "body": "Grandes instituciones de las finanzas tradicionales están entrando en el mercado de tokenización de activos basado en blockchain, lo que intensifica la competencia por construir infraestructura financiera onchain. Según MBlock Letter, las firmas financieras aceleran su entrada a medida que crece el interés por gestionar activos como tokens en blockchain. El contexto es la demanda de conectar las finanzas tradicionales con la tecnología blockchain y ampliar la infraestructura financiera hacia entornos onchain. Si continúa la participación de grandes instituciones, la tokenización de activos podría recibir más atención del sistema financiero establecido. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Tokenização de ativos ganha força com grandes financeiras acelerando infraestrutura onchain",
-        "excerpt": "Grandes instituições financeiras tradicionais entram na tokenização de ativos baseada em blockchain e aceleram a disputa por infraestrutura financeira onchain.",
-        "body": "Grandes instituições das finanças tradicionais estão entrando no mercado de tokenização de ativos baseada em blockchain, intensificando a competição para construir infraestrutura financeira onchain. Segundo a MBlock Letter, empresas financeiras aceleram sua entrada à medida que cresce o interesse em tratar ativos como tokens em blockchain. O pano de fundo é a demanda por conectar as finanças tradicionais à tecnologia blockchain e expandir a infraestrutura financeira para o ambiente onchain. Se a participação de grandes instituições continuar, a tokenização de ativos poderá ganhar mais atenção das finanças reguladas. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Asset-Tokenisierung nimmt Fahrt auf, große Finanzhäuser bauen Onchain-Infrastruktur aus",
-        "excerpt": "Große traditionelle Finanzinstitute steigen in blockchainbasierte Asset-Tokenisierung ein und beschleunigen den Wettbewerb um Onchain-Finanzinfrastruktur.",
-        "body": "Große Institute der traditionellen Finanzwelt treten in den Markt für blockchainbasierte Asset-Tokenisierung ein und verschärfen damit den Wettbewerb um den Aufbau von Onchain-Finanzinfrastruktur. Laut MBlock Letter beschleunigen Finanzunternehmen ihren Markteintritt, da das Interesse wächst, Vermögenswerte als Token auf Blockchains abzubilden. Hintergrund ist die Nachfrage, traditionelle Finanzstrukturen mit Blockchain-Technologie zu verbinden und Finanzinfrastruktur auf die Onchain-Ebene auszuweiten. Wenn große Institute weiter teilnehmen, dürfte die Asset-Tokenisierung im etablierten Finanzsektor stärker Beachtung finden. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "La tokenisation d’actifs s’accélère avec les grands groupes financiers sur l’onchain",
-        "excerpt": "De grandes institutions financières traditionnelles entrent dans la tokenisation d’actifs fondée sur la blockchain et accélèrent la concurrence autour de l’infrastructure onchain.",
-        "body": "De grandes institutions de la finance traditionnelle entrent sur le marché de la tokenisation d’actifs fondée sur la blockchain, ce qui intensifie la concurrence pour bâtir une infrastructure financière onchain. Selon MBlock Letter, les sociétés financières accélèrent leur arrivée alors que l’intérêt grandit pour gérer des actifs sous forme de tokens sur blockchain. Le contexte tient à la demande de relier finance traditionnelle et technologie blockchain, puis d’étendre l’infrastructure financière vers l’onchain. Si la participation des grands acteurs se poursuit, la tokenisation d’actifs pourrait attirer davantage l’attention de la finance établie. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "تسارع سباق ترميز الأصول مع توجه المؤسسات المالية الكبرى إلى البنية على السلسلة",
-        "excerpt": "تدخل مؤسسات مالية تقليدية كبرى سوق ترميز الأصول القائم على البلوكشين، ما يسرع المنافسة على بناء بنية مالية تحتية على السلسلة.",
-        "body": "تدخل مؤسسات كبرى في القطاع المالي التقليدي سوق ترميز الأصول القائم على البلوكشين، لتشتد المنافسة على بناء بنية مالية تحتية على السلسلة. وبحسب MBlock Letter، تسرع الشركات المالية دخولها مع تزايد الاهتمام بالتعامل مع الأصول كرموز على شبكات البلوكشين. وتأتي هذه الحركة في سياق الطلب على ربط التمويل التقليدي بتقنية البلوكشين وتوسيع البنية المالية إلى بيئات على السلسلة. وإذا استمرت مشاركة المؤسسات الكبرى، فقد يحظى سوق ترميز الأصول باهتمام أسرع من القطاع المالي السائد. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "एसेट टोकनाइजेशन की होड़ तेज, बड़ी वित्तीय कंपनियां ऑनचेन ढांचा बना रहीं",
-        "excerpt": "बड़ी पारंपरिक वित्तीय संस्थाएं ब्लॉकचेन आधारित एसेट टोकनाइजेशन बाजार में उतर रही हैं, जिससे ऑनचेन वित्तीय बुनियादी ढांचे की प्रतिस्पर्धा तेज हो रही है।",
-        "body": "पारंपरिक वित्त क्षेत्र की बड़ी संस्थाएं ब्लॉकचेन आधारित एसेट टोकनाइजेशन बाजार में लगातार प्रवेश कर रही हैं, जिससे ऑनचेन वित्तीय बुनियादी ढांचा बनाने की प्रतिस्पर्धा तेज हो गई है। MBlock Letter के अनुसार, ब्लॉकचेन पर संपत्तियों को टोकन के रूप में扱ने में रुचि बढ़ने के साथ मौजूदा वित्तीय कंपनियां संबंधित बाजार में प्रवेश की गति बढ़ा रही हैं। इसके पीछे पारंपरिक वित्त को ब्लॉकचेन तकनीक से जोड़ने और वित्तीय ढांचे को ऑनचेन तक विस्तारित करने की मांग है। यदि बड़ी संस्थाओं की भागीदारी जारी रहती है, तो एसेट टोकनाइजेशन बाजार को मुख्यधारा वित्त से अधिक ध्यान मिल सकता है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Tokenisasi Aset Makin Panas, Raksasa Keuangan Percepat Infrastruktur Onchain",
-        "excerpt": "Institusi keuangan tradisional besar mulai masuk ke tokenisasi aset berbasis blockchain, mempercepat persaingan pembangunan infrastruktur keuangan onchain.",
-        "body": "Institusi besar di sektor keuangan tradisional mulai masuk ke pasar tokenisasi aset berbasis blockchain, sehingga persaingan membangun infrastruktur keuangan onchain semakin menguat. Menurut MBlock Letter, perusahaan keuangan mempercepat langkah masuk karena minat untuk mengelola aset sebagai token di atas blockchain terus berkembang. Latar belakangnya adalah kebutuhan menghubungkan keuangan tradisional dengan teknologi blockchain dan memperluas infrastruktur keuangan ke ranah onchain. Jika partisipasi institusi besar berlanjut, pasar tokenisasi aset berpotensi lebih cepat mendapat perhatian dari keuangan arus utama. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "43fc06f73de0",
-    "slug": "청와대-블룸버그에-공식-항의사과-요구시장에-혼선-초래-782974",
-    "channelId": "ETF",
-    "category": "etf",
-    "publishedAt": "2026-05-15T10:35:58.705Z",
-    "updatedAt": "2026-05-15T10:35:58.705Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/stock/12049504",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12049504",
-    "titleFingerprint": "081213b1dbf264c610fccfb0f45f1731983a557d",
-    "dedupKeys": [
-      "43fc06f73de08d0004032c69d853ecb6faf5d8ad",
-      "081213b1dbf264c610fccfb0f45f1731983a557d",
-      "4e49f7dc11abfe8ff590a5abb00726183b7ba1e7"
-    ],
-    "imageUrl": "/images/articles/43fc06f73de0.jpg",
-    "i18n": {
-      "ko": {
-        "title": "청와대, 블룸버그 보도에 공식 항의…‘국민배당금’ 해석 사과 요구",
-        "excerpt": "청와대는 15일 김용범 정책실장의 ‘국민배당금’ 제안을 AI 기업의 ‘초과 이익’ 배분으로 해석한 블룸버그 보도에 항의 서한을 보내고 공식 사과를 요구했다.",
-        "body": "청와대가 15일 미국 블룸버그 통신에 항의 서한을 보내고 공식 사과를 요구했다. 블룸버그가 김용범 정책실장의 ‘국민배당금’ 제안을 인공지능(AI) 기업의 ‘초과 이익’ 배분으로 해석해 보도했다는 이유에서다. 청와대는 해당 보도가 정책 취지를 왜곡하고 시장에 혼선을 초래할 수 있다고 판단한 것으로 전해졌다. 이번 사안은 정책 발언이 해외 매체를 통해 다른 의미로 전달될 경우 금융시장과 관련 업계에 영향을 줄 수 있다는 점에서 주목된다. 청와대의 공식 항의와 사과 요구 이후 블룸버그 측 대응이 관심을 모은다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Blue House Protests Bloomberg Report, Seeks Apology Over ‘People’s Dividend’",
-        "excerpt": "On the 15th, the Blue House sent a protest letter to Bloomberg and demanded an official apology over its report interpreting Kim Yong-beom’s ‘people’s dividend’ proposal as AI firms’ ‘excess profit’ sharing.",
-        "body": "The Blue House sent a protest letter to Bloomberg on the 15th and demanded an official apology. The move came after Bloomberg reported that Kim Yong-beom, chief of policy, had proposed a ‘people’s dividend’ by interpreting it as a plan to distribute the ‘excess profits’ of artificial intelligence companies. The Blue House is understood to have judged that the report distorted the intent of the policy and could cause confusion in the market. The case is drawing attention because policy remarks, when conveyed with a different meaning by an overseas media outlet, may affect financial markets and related industries. Bloomberg’s response to the official protest and apology request will be watched. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "青瓦台、ブルームバーグ報道に公式抗議…「国民配当金」解釈で謝罪要求",
-        "excerpt": "青瓦台は15日、金容範政策室長の「国民配当金」提案をAI企業の「超過利益」配分と解釈したブルームバーグ報道に抗議書簡を送り、公式謝罪を求めた。",
-        "body": "青瓦台は15日、米ブルームバーグ通信に抗議書簡を送り、公式謝罪を求めた。ブルームバーグが金容範政策室長の「国民配当金」提案を、人工知能（AI）企業の「超過利益」配分と解釈して報じたためだ。青瓦台は、この報道が政策の趣旨を歪め、市場に混乱を招く可能性があると判断したとされる。今回の事案は、政策発言が海外メディアを通じて異なる意味で伝わった場合、金融市場や関連業界に影響を及ぼし得る点で注目される。公式抗議と謝罪要求を受けたブルームバーグ側の対応が関心を集めている。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "青瓦台正式抗议彭博报道，要求就“国民分红”解读道歉",
-        "excerpt": "青瓦台15日向彭博社发送抗议信，要求其就把金容范政策室长的“国民分红”提议解读为AI企业“超额利润”分配的报道正式道歉。",
-        "body": "青瓦台15日向美国彭博社发送抗议信，并要求正式道歉。原因是彭博将金容范政策室长提出的“国民分红”解读为人工智能（AI）企业“超额利润”的分配并进行了报道。据悉，青瓦台认为该报道歪曲了政策宗旨，并可能给市场造成混乱。此事受到关注，是因为政策发言若经海外媒体以不同含义传播，可能影响金融市场及相关行业。青瓦台提出正式抗议和道歉要求后，彭博方面的回应将成为关注焦点。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Casa Azul protesta ante Bloomberg y exige disculpa por nota sobre ‘dividendo ciudadano’",
-        "excerpt": "La Casa Azul envió el día 15 una carta de protesta a Bloomberg y exigió una disculpa oficial por interpretar la propuesta de Kim Yong-beom de ‘dividendo ciudadano’ como reparto de ‘beneficios excedentes’ de empresas de IA.",
-        "body": "La Casa Azul envió el día 15 una carta de protesta a Bloomberg de Estados Unidos y exigió una disculpa oficial. La medida se produjo porque Bloomberg informó sobre la propuesta de ‘dividendo ciudadano’ de Kim Yong-beom, jefe de política, interpretándola como un reparto de los ‘beneficios excedentes’ de empresas de inteligencia artificial (IA). Se entiende que la Casa Azul consideró que la información distorsionó el propósito de la política y podía causar confusión en el mercado. El caso llama la atención porque unas declaraciones de política, si se transmiten con otro significado por un medio extranjero, pueden afectar a los mercados financieros y a los sectores relacionados. Se observará la respuesta de Bloomberg. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Casa Azul protesta contra Bloomberg e exige desculpa por ‘dividendo popular’",
-        "excerpt": "A Casa Azul enviou no dia 15 uma carta de protesto à Bloomberg e pediu desculpa oficial por reportagem que interpretou a proposta de Kim Yong-beom de ‘dividendo popular’ como distribuição de ‘lucros excedentes’ de empresas de IA.",
-        "body": "A Casa Azul enviou no dia 15 uma carta de protesto à Bloomberg, dos Estados Unidos, e exigiu uma desculpa oficial. A ação ocorreu porque a Bloomberg noticiou a proposta de ‘dividendo popular’ de Kim Yong-beom, chefe de política, interpretando-a como distribuição dos ‘lucros excedentes’ de empresas de inteligência artificial (IA). Entende-se que a Casa Azul avaliou que a reportagem distorceu a intenção da política e poderia gerar confusão no mercado. O caso chama atenção porque declarações de política, quando transmitidas por um veículo estrangeiro com outro sentido, podem afetar mercados financeiros e setores relacionados. A resposta da Bloomberg será acompanhada. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Blaues Haus protestiert bei Bloomberg und fordert Entschuldigung zu ‘Volksdividende’",
-        "excerpt": "Das Blaue Haus sandte am 15. ein Protestschreiben an Bloomberg und verlangte eine offizielle Entschuldigung, nachdem der Vorschlag von Kim Yong-beom zur ‘Volksdividende’ als Verteilung von ‘Übergewinnen’ von KI-Unternehmen gedeutet worden war.",
-        "body": "Das Blaue Haus sandte am 15. ein Protestschreiben an die US-Nachrichtenagentur Bloomberg und verlangte eine offizielle Entschuldigung. Anlass war ein Bloomberg-Bericht, der den Vorschlag von Politikchef Kim Yong-beom zur ‘Volksdividende’ als Verteilung von ‘Übergewinnen’ von Unternehmen der künstlichen Intelligenz (KI) interpretierte. Das Blaue Haus soll zu der Einschätzung gekommen sein, dass der Bericht die politische Absicht verzerrt und Verwirrung am Markt auslösen könne. Der Fall steht im Fokus, weil politische Äußerungen, wenn sie über ausländische Medien mit anderer Bedeutung verbreitet werden, Finanzmärkte und betroffene Branchen beeinflussen können. Die Reaktion Bloombergs wird nun beobachtet. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "La Maison Bleue proteste auprès de Bloomberg et exige des excuses sur le ‘dividende citoyen’",
-        "excerpt": "La Maison Bleue a envoyé le 15 une lettre de protestation à Bloomberg et demandé des excuses officielles après un article interprétant la proposition de Kim Yong-beom sur le ‘dividende citoyen’ comme un partage des ‘profits excédentaires’ d’entreprises d’IA.",
-        "body": "La Maison Bleue a envoyé le 15 une lettre de protestation à l’agence américaine Bloomberg et demandé des excuses officielles. Cette démarche fait suite à un article de Bloomberg qui a interprété la proposition de ‘dividende citoyen’ de Kim Yong-beom, chef de la politique, comme une répartition des ‘profits excédentaires’ d’entreprises d’intelligence artificielle (IA). La Maison Bleue aurait estimé que ce reportage déformait l’objectif de la politique et pouvait créer de la confusion sur le marché. L’affaire attire l’attention car des propos de politique publique, lorsqu’ils sont relayés avec un sens différent par un média étranger, peuvent affecter les marchés financiers et les secteurs concernés. La réponse de Bloomberg est désormais attendue. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "البيت الأزرق يحتج رسميا على بلومبرغ ويطلب اعتذارا بشأن ‘توزيع أرباح الشعب’",
-        "excerpt": "أرسل البيت الأزرق في 15 الشهر رسالة احتجاج إلى بلومبرغ وطالب باعتذار رسمي بعد تقرير فسّر اقتراح كيم يونغ-بوم حول ‘توزيع أرباح الشعب’ على أنه توزيع ‘أرباح فائضة’ لشركات الذكاء الاصطناعي.",
-        "body": "أرسل البيت الأزرق في 15 الشهر رسالة احتجاج إلى وكالة بلومبرغ الأميركية وطالب باعتذار رسمي. وجاء ذلك بعدما نشرت بلومبرغ تقريرا فسّر اقتراح كيم يونغ-بوم، كبير مسؤولي السياسات، بشأن ‘توزيع أرباح الشعب’ على أنه خطة لتوزيع ‘الأرباح الفائضة’ لشركات الذكاء الاصطناعي. ويُفهم أن البيت الأزرق رأى أن التقرير شوّه هدف السياسة وقد يسبب ارتباكا في السوق. وتحظى القضية باهتمام لأن تصريحات السياسات، إذا نُقلت عبر وسيلة إعلام أجنبية بمعنى مختلف، قد تؤثر في الأسواق المالية والقطاعات ذات الصلة. وتترقب الأنظار رد بلومبرغ على الاحتجاج الرسمي وطلب الاعتذار. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "ब्लू हाउस ने ब्लूमबर्ग रिपोर्ट पर आपत्ति जताई, ‘जन लाभांश’ व्याख्या पर माफी मांगी",
-        "excerpt": "ब्लू हाउस ने 15 तारीख को ब्लूमबर्ग को विरोध पत्र भेजकर आधिकारिक माफी की मांग की, क्योंकि रिपोर्ट में किम योंग-बोम के ‘जन लाभांश’ प्रस्ताव को AI कंपनियों के ‘अतिरिक्त मुनाफे’ के वितरण के रूप में व्याख्यायित किया गया।",
-        "body": "ब्लू हाउस ने 15 तारीख को अमेरिकी ब्लूमबर्ग समाचार एजेंसी को विरोध पत्र भेजा और आधिकारिक माफी की मांग की। कारण यह था कि ब्लूमबर्ग ने नीति प्रमुख किम योंग-बोम के ‘जन लाभांश’ प्रस्ताव को कृत्रिम बुद्धिमत्ता (AI) कंपनियों के ‘अतिरिक्त मुनाफे’ के वितरण के रूप में व्याख्यायित कर रिपोर्ट किया। माना जाता है कि ब्लू हाउस ने आकलन किया कि इस रिपोर्ट ने नीति के उद्देश्य को तोड़ा-मरोड़ा और बाजार में भ्रम पैदा कर सकती है। यह मामला इसलिए ध्यान खींच रहा है क्योंकि नीति से जुड़े बयान, यदि विदेशी मीडिया के माध्यम से अलग अर्थ में प्रसारित हों, तो वित्तीय बाजारों और संबंधित उद्योगों पर असर डाल सकते हैं। अब ब्लूमबर्ग की प्रतिक्रिया पर नजर है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Blue House Protes Bloomberg, Minta Maaf Resmi atas Tafsir ‘Dividen Rakyat’",
-        "excerpt": "Blue House pada tanggal 15 mengirim surat protes kepada Bloomberg dan menuntut permintaan maaf resmi karena laporan yang menafsirkan usulan ‘dividen rakyat’ Kim Yong-beom sebagai pembagian ‘laba berlebih’ perusahaan AI.",
-        "body": "Blue House pada tanggal 15 mengirim surat protes kepada kantor berita Amerika Serikat Bloomberg dan menuntut permintaan maaf resmi. Langkah itu diambil karena Bloomberg melaporkan usulan ‘dividen rakyat’ dari kepala kebijakan Kim Yong-beom dengan menafsirkannya sebagai pembagian ‘laba berlebih’ perusahaan kecerdasan buatan (AI). Blue House diketahui menilai laporan tersebut mendistorsi tujuan kebijakan dan dapat menimbulkan kebingungan di pasar. Kasus ini menjadi perhatian karena pernyataan kebijakan, bila disampaikan media asing dengan makna berbeda, dapat memengaruhi pasar keuangan dan industri terkait. Respons Bloomberg atas protes resmi dan tuntutan permintaan maaf itu kini dinantikan. Sumber: mk.co.kr"
       }
     }
   }
