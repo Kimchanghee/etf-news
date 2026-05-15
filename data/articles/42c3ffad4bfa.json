@@ -1,0 +1,75 @@
+{
+  "id": "42c3ffad4bfa",
+  "slug": "코스피-사상-첫-8000-터치한-날-매도-사이드카-발동-870301",
+  "channelId": "ETF",
+  "category": "etf",
+  "publishedAt": "2026-05-15T19:41:18.148Z",
+  "updatedAt": "2026-05-15T19:41:18.148Z",
+  "sourceName": "hankyung.com",
+  "sourceUrl": "https://www.hankyung.com/article/202605158937i",
+  "canonicalUrl": "https://www.hankyung.com/article/202605158937i",
+  "titleFingerprint": "0a4ddbf16f80188eb8c4114ce5c1ccbe302a15d9",
+  "dedupKeys": [
+    "42c3ffad4bfadcc6841fd976050257e652807d97",
+    "0a4ddbf16f80188eb8c4114ce5c1ccbe302a15d9",
+    "532c815073be5dc9e52ae668bd2bae67484109c8"
+  ],
+  "imageUrl": "/images/articles/42c3ffad4bfa.png",
+  "i18n": {
+    "ko": {
+      "title": "코스피 사상 첫 8000 터치, 매도 사이드카 발동",
+      "excerpt": "코스피가 사상 처음 8000선을 터치한 날 시장 변동성 대응 장치인 매도 사이드카가 발동됐다고 hankyung.com이 전했다.",
+      "body": "코스피가 사상 처음으로 8000선을 터치한 날 매도 사이드카가 발동됐다. 시장 급변 시 프로그램 매매를 일시적으로 제한하는 장치가 작동한 것으로, 지수의 역사적 고점 도달과 매도 사이드카 발동이 같은 날 발생했다는 점이 핵심이다. 원문에는 추가 지수 흐름이나 세부 발동 시각, 원인에 대한 별도 설명은 제시되지 않았다. 이번 소식은 고점 돌파 국면에서도 변동성 관리 장치가 작동할 수 있음을 보여준다. 출처는 hankyung.com이다."
+    },
+    "en": {
+      "title": "KOSPI Touches 8,000 for First Time as Sell Sidecar Is Triggered",
+      "excerpt": "KOSPI touched the 8,000 mark for the first time, and a sell-side sidecar was triggered on the same day, hankyung.com reported.",
+      "body": "KOSPI touched the 8,000 level for the first time in its history, and a sell-side sidecar was triggered on the same day. The mechanism, which temporarily restricts program trading during sharp market moves, was activated as the index reached a historic level. The key fact is that the first-ever touch of 8,000 and the sell sidecar occurred on the same day. The source text did not provide additional index movements, the exact trigger time, or a separate explanation of the cause. The report shows that volatility-control measures can operate even during a record-setting market phase. Source: hankyung.com."
+    },
+    "ja": {
+      "title": "KOSPIが史上初の8000タッチ、同日に売りサイドカー発動",
+      "excerpt": "KOSPIが史上初めて8000台に触れた日に、相場変動対応措置である売りサイドカーが発動したとhankyung.comが伝えた。",
+      "body": "KOSPIは史上初めて8000台に触れた日に、売りサイドカーが発動した。急激な相場変動時にプログラム売買を一時的に制限する仕組みが作動したもので、指数の歴史的水準到達と売りサイドカーの発動が同じ日に起きた点が核心だ。原文では、その後の指数推移や具体的な発動時刻、原因についての追加説明は示されていない。今回のニュースは、過去最高水準を試す局面でも変動性管理措置が作動し得ることを示している。出典はhankyung.com。"
+    },
+    "zh": {
+      "title": "KOSPI史上首次触及8000点，当日触发卖出熔断措施",
+      "excerpt": "据hankyung.com报道，KOSPI史上首次触及8000点的当天，市场波动应对机制卖出sidecar被触发。",
+      "body": "KOSPI史上首次触及8000点的当天，卖出sidecar被触发。该机制是在市场剧烈波动时临时限制程序化交易的措施，本次报道的核心在于指数达到历史性点位与卖出sidecar启动发生在同一天。原文未提供后续指数走势、具体触发时间或原因方面的补充说明。这一消息显示，即便在指数冲击历史高位的阶段，市场波动管理机制也可能启动。消息来源为hankyung.com。"
+    },
+    "es": {
+      "title": "KOSPI toca 8.000 por primera vez y activa sidecar de venta",
+      "excerpt": "El KOSPI tocó por primera vez los 8.000 puntos y ese mismo día se activó un sidecar de venta, informó hankyung.com.",
+      "body": "El KOSPI tocó por primera vez en su historia el nivel de 8.000 puntos y ese mismo día se activó un sidecar de venta. Se trata de un mecanismo que limita temporalmente la negociación programada cuando hay movimientos bruscos en el mercado. El dato central es que el hito histórico del índice y la activación del sidecar de venta ocurrieron en la misma jornada. El texto original no ofreció movimientos posteriores del índice, una hora exacta de activación ni una explicación separada sobre la causa. La noticia muestra que las herramientas de control de volatilidad pueden activarse incluso en una fase de máximos históricos. Fuente: hankyung.com."
+    },
+    "pt": {
+      "title": "KOSPI toca 8.000 pela primeira vez e aciona sidecar de venda",
+      "excerpt": "O KOSPI tocou os 8.000 pontos pela primeira vez e, no mesmo dia, um sidecar de venda foi acionado, informou o hankyung.com.",
+      "body": "O KOSPI tocou pela primeira vez na história o nível de 8.000 pontos, e um sidecar de venda foi acionado no mesmo dia. O mecanismo, usado para limitar temporariamente negociações programadas em momentos de forte oscilação do mercado, entrou em operação enquanto o índice alcançava uma marca histórica. O ponto central é que o primeiro toque nos 8.000 pontos e o acionamento do sidecar de venda ocorreram na mesma sessão. O texto original não informou movimentos posteriores do índice, horário exato do acionamento nem uma explicação separada sobre a causa. A notícia mostra que medidas de controle de volatilidade podem operar mesmo em fases de recorde. Fonte: hankyung.com."
+    },
+    "de": {
+      "title": "KOSPI berührt erstmals 8.000 Punkte, Verkaufs-Sidecar ausgelöst",
+      "excerpt": "Der KOSPI berührte erstmals die Marke von 8.000 Punkten; am selben Tag wurde ein Verkaufs-Sidecar ausgelöst, berichtete hankyung.com.",
+      "body": "Der KOSPI hat erstmals in seiner Geschichte die Marke von 8.000 Punkten berührt, und am selben Tag wurde ein Verkaufs-Sidecar ausgelöst. Dabei handelt es sich um einen Mechanismus, der bei starken Marktbewegungen den Programmhandel vorübergehend begrenzt. Entscheidend ist, dass das historische Erreichen der 8.000er-Marke und die Auslösung des Verkaufs-Sidecars am selben Tag stattfanden. Der Originaltext nannte keine weiteren Indexbewegungen, keine genaue Auslösezeit und keine separate Erklärung zur Ursache. Die Meldung zeigt, dass Maßnahmen zur Kontrolle von Volatilität auch in einer Rekordphase greifen können. Quelle: hankyung.com."
+    },
+    "fr": {
+      "title": "Le KOSPI touche 8 000 pour la première fois, sidecar vendeur activé",
+      "excerpt": "Le KOSPI a touché pour la première fois le seuil des 8 000 points et un sidecar vendeur a été activé le même jour, selon hankyung.com.",
+      "body": "Le KOSPI a touché pour la première fois de son histoire le niveau des 8 000 points, et un sidecar vendeur a été activé le même jour. Ce mécanisme limite temporairement les transactions programmées lors de fortes variations du marché. Le fait central est que l’atteinte de ce seuil historique et l’activation du sidecar vendeur se sont produites lors de la même séance. Le texte d’origine ne précise pas l’évolution ultérieure de l’indice, l’heure exacte du déclenchement ni une explication distincte de la cause. Cette information montre que les dispositifs de gestion de la volatilité peuvent fonctionner même dans une phase de record. Source : hankyung.com."
+    },
+    "ar": {
+      "title": "كوسبي يلامس 8000 نقطة لأول مرة وتفعيل سايدكار بيع",
+      "excerpt": "لامس مؤشر كوسبي مستوى 8000 نقطة لأول مرة في تاريخه، وفي اليوم نفسه تم تفعيل آلية سايدكار البيع، وفق ما نقل hankyung.com.",
+      "body": "لامس مؤشر كوسبي مستوى 8000 نقطة لأول مرة في تاريخه، وتم في اليوم نفسه تفعيل آلية سايدكار البيع. وتعمل هذه الآلية على تقييد التداولات المبرمجة مؤقتا عند حدوث تقلبات حادة في السوق. النقطة الأساسية هي أن وصول المؤشر إلى هذا المستوى التاريخي وتفعيل سايدكار البيع حدثا في اليوم نفسه. ولم يورد النص الأصلي تفاصيل إضافية عن حركة المؤشر اللاحقة أو توقيت التفعيل الدقيق أو سببا منفصلا لذلك. وتظهر هذه الأنباء أن أدوات إدارة التقلب قد تعمل حتى أثناء تسجيل مستويات قياسية. المصدر: hankyung.com."
+    },
+    "hi": {
+      "title": "KOSPI पहली बार 8,000 पर पहुंचा, उसी दिन सेल साइडकार लागू",
+      "excerpt": "KOSPI ने इतिहास में पहली बार 8,000 का स्तर छुआ और उसी दिन सेल साइडकार लागू हुआ, hankyung.com ने यह जानकारी दी।",
+      "body": "KOSPI ने इतिहास में पहली बार 8,000 का स्तर छुआ और उसी दिन सेल साइडकार लागू हुआ। यह व्यवस्था तेज बाजार उतार-चढ़ाव के समय प्रोग्राम ट्रेडिंग को अस्थायी रूप से सीमित करने के लिए होती है। मुख्य तथ्य यह है कि सूचकांक का ऐतिहासिक 8,000 स्तर छूना और सेल साइडकार का लागू होना एक ही दिन हुआ। मूल पाठ में बाद की सूचकांक चाल, लागू होने का सटीक समय या कारण के बारे में अलग से जानकारी नहीं दी गई। यह खबर दिखाती है कि रिकॉर्ड स्तर वाले बाजार चरण में भी अस्थिरता नियंत्रण व्यवस्था सक्रिय हो सकती है। स्रोत: hankyung.com."
+    },
+    "id": {
+      "title": "KOSPI Sentuh 8.000 untuk Pertama Kali, Sidecar Jual Aktif",
+      "excerpt": "KOSPI menyentuh level 8.000 untuk pertama kalinya, dan sidecar jual aktif pada hari yang sama, menurut laporan hankyung.com.",
+      "body": "KOSPI menyentuh level 8.000 untuk pertama kalinya dalam sejarah, dan sidecar jual aktif pada hari yang sama. Mekanisme ini membatasi sementara perdagangan terprogram saat terjadi pergerakan pasar yang tajam. Fakta utamanya adalah pencapaian level historis 8.000 dan aktifnya sidecar jual terjadi pada hari yang sama. Teks asli tidak memberikan pergerakan indeks lanjutan, waktu aktivasi yang tepat, atau penjelasan terpisah mengenai penyebabnya. Kabar ini menunjukkan bahwa perangkat pengelolaan volatilitas dapat bekerja bahkan saat pasar berada di fase rekor. Sumber: hankyung.com."
+    }
+  }
+}

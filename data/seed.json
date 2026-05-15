@@ -1,5 +1,230 @@
 [
   {
+    "id": "42c3ffad4bfa",
+    "slug": "코스피-사상-첫-8000-터치한-날-매도-사이드카-발동-870301",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-05-15T19:41:18.148Z",
+    "updatedAt": "2026-05-15T19:41:18.148Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/202605158937i",
+    "canonicalUrl": "https://www.hankyung.com/article/202605158937i",
+    "titleFingerprint": "0a4ddbf16f80188eb8c4114ce5c1ccbe302a15d9",
+    "dedupKeys": [
+      "42c3ffad4bfadcc6841fd976050257e652807d97",
+      "0a4ddbf16f80188eb8c4114ce5c1ccbe302a15d9",
+      "532c815073be5dc9e52ae668bd2bae67484109c8"
+    ],
+    "imageUrl": "/images/articles/42c3ffad4bfa.png",
+    "i18n": {
+      "ko": {
+        "title": "코스피 사상 첫 8000 터치, 매도 사이드카 발동",
+        "excerpt": "코스피가 사상 처음 8000선을 터치한 날 시장 변동성 대응 장치인 매도 사이드카가 발동됐다고 hankyung.com이 전했다.",
+        "body": "코스피가 사상 처음으로 8000선을 터치한 날 매도 사이드카가 발동됐다. 시장 급변 시 프로그램 매매를 일시적으로 제한하는 장치가 작동한 것으로, 지수의 역사적 고점 도달과 매도 사이드카 발동이 같은 날 발생했다는 점이 핵심이다. 원문에는 추가 지수 흐름이나 세부 발동 시각, 원인에 대한 별도 설명은 제시되지 않았다. 이번 소식은 고점 돌파 국면에서도 변동성 관리 장치가 작동할 수 있음을 보여준다. 출처는 hankyung.com이다."
+      },
+      "en": {
+        "title": "KOSPI Touches 8,000 for First Time as Sell Sidecar Is Triggered",
+        "excerpt": "KOSPI touched the 8,000 mark for the first time, and a sell-side sidecar was triggered on the same day, hankyung.com reported.",
+        "body": "KOSPI touched the 8,000 level for the first time in its history, and a sell-side sidecar was triggered on the same day. The mechanism, which temporarily restricts program trading during sharp market moves, was activated as the index reached a historic level. The key fact is that the first-ever touch of 8,000 and the sell sidecar occurred on the same day. The source text did not provide additional index movements, the exact trigger time, or a separate explanation of the cause. The report shows that volatility-control measures can operate even during a record-setting market phase. Source: hankyung.com."
+      },
+      "ja": {
+        "title": "KOSPIが史上初の8000タッチ、同日に売りサイドカー発動",
+        "excerpt": "KOSPIが史上初めて8000台に触れた日に、相場変動対応措置である売りサイドカーが発動したとhankyung.comが伝えた。",
+        "body": "KOSPIは史上初めて8000台に触れた日に、売りサイドカーが発動した。急激な相場変動時にプログラム売買を一時的に制限する仕組みが作動したもので、指数の歴史的水準到達と売りサイドカーの発動が同じ日に起きた点が核心だ。原文では、その後の指数推移や具体的な発動時刻、原因についての追加説明は示されていない。今回のニュースは、過去最高水準を試す局面でも変動性管理措置が作動し得ることを示している。出典はhankyung.com。"
+      },
+      "zh": {
+        "title": "KOSPI史上首次触及8000点，当日触发卖出熔断措施",
+        "excerpt": "据hankyung.com报道，KOSPI史上首次触及8000点的当天，市场波动应对机制卖出sidecar被触发。",
+        "body": "KOSPI史上首次触及8000点的当天，卖出sidecar被触发。该机制是在市场剧烈波动时临时限制程序化交易的措施，本次报道的核心在于指数达到历史性点位与卖出sidecar启动发生在同一天。原文未提供后续指数走势、具体触发时间或原因方面的补充说明。这一消息显示，即便在指数冲击历史高位的阶段，市场波动管理机制也可能启动。消息来源为hankyung.com。"
+      },
+      "es": {
+        "title": "KOSPI toca 8.000 por primera vez y activa sidecar de venta",
+        "excerpt": "El KOSPI tocó por primera vez los 8.000 puntos y ese mismo día se activó un sidecar de venta, informó hankyung.com.",
+        "body": "El KOSPI tocó por primera vez en su historia el nivel de 8.000 puntos y ese mismo día se activó un sidecar de venta. Se trata de un mecanismo que limita temporalmente la negociación programada cuando hay movimientos bruscos en el mercado. El dato central es que el hito histórico del índice y la activación del sidecar de venta ocurrieron en la misma jornada. El texto original no ofreció movimientos posteriores del índice, una hora exacta de activación ni una explicación separada sobre la causa. La noticia muestra que las herramientas de control de volatilidad pueden activarse incluso en una fase de máximos históricos. Fuente: hankyung.com."
+      },
+      "pt": {
+        "title": "KOSPI toca 8.000 pela primeira vez e aciona sidecar de venda",
+        "excerpt": "O KOSPI tocou os 8.000 pontos pela primeira vez e, no mesmo dia, um sidecar de venda foi acionado, informou o hankyung.com.",
+        "body": "O KOSPI tocou pela primeira vez na história o nível de 8.000 pontos, e um sidecar de venda foi acionado no mesmo dia. O mecanismo, usado para limitar temporariamente negociações programadas em momentos de forte oscilação do mercado, entrou em operação enquanto o índice alcançava uma marca histórica. O ponto central é que o primeiro toque nos 8.000 pontos e o acionamento do sidecar de venda ocorreram na mesma sessão. O texto original não informou movimentos posteriores do índice, horário exato do acionamento nem uma explicação separada sobre a causa. A notícia mostra que medidas de controle de volatilidade podem operar mesmo em fases de recorde. Fonte: hankyung.com."
+      },
+      "de": {
+        "title": "KOSPI berührt erstmals 8.000 Punkte, Verkaufs-Sidecar ausgelöst",
+        "excerpt": "Der KOSPI berührte erstmals die Marke von 8.000 Punkten; am selben Tag wurde ein Verkaufs-Sidecar ausgelöst, berichtete hankyung.com.",
+        "body": "Der KOSPI hat erstmals in seiner Geschichte die Marke von 8.000 Punkten berührt, und am selben Tag wurde ein Verkaufs-Sidecar ausgelöst. Dabei handelt es sich um einen Mechanismus, der bei starken Marktbewegungen den Programmhandel vorübergehend begrenzt. Entscheidend ist, dass das historische Erreichen der 8.000er-Marke und die Auslösung des Verkaufs-Sidecars am selben Tag stattfanden. Der Originaltext nannte keine weiteren Indexbewegungen, keine genaue Auslösezeit und keine separate Erklärung zur Ursache. Die Meldung zeigt, dass Maßnahmen zur Kontrolle von Volatilität auch in einer Rekordphase greifen können. Quelle: hankyung.com."
+      },
+      "fr": {
+        "title": "Le KOSPI touche 8 000 pour la première fois, sidecar vendeur activé",
+        "excerpt": "Le KOSPI a touché pour la première fois le seuil des 8 000 points et un sidecar vendeur a été activé le même jour, selon hankyung.com.",
+        "body": "Le KOSPI a touché pour la première fois de son histoire le niveau des 8 000 points, et un sidecar vendeur a été activé le même jour. Ce mécanisme limite temporairement les transactions programmées lors de fortes variations du marché. Le fait central est que l’atteinte de ce seuil historique et l’activation du sidecar vendeur se sont produites lors de la même séance. Le texte d’origine ne précise pas l’évolution ultérieure de l’indice, l’heure exacte du déclenchement ni une explication distincte de la cause. Cette information montre que les dispositifs de gestion de la volatilité peuvent fonctionner même dans une phase de record. Source : hankyung.com."
+      },
+      "ar": {
+        "title": "كوسبي يلامس 8000 نقطة لأول مرة وتفعيل سايدكار بيع",
+        "excerpt": "لامس مؤشر كوسبي مستوى 8000 نقطة لأول مرة في تاريخه، وفي اليوم نفسه تم تفعيل آلية سايدكار البيع، وفق ما نقل hankyung.com.",
+        "body": "لامس مؤشر كوسبي مستوى 8000 نقطة لأول مرة في تاريخه، وتم في اليوم نفسه تفعيل آلية سايدكار البيع. وتعمل هذه الآلية على تقييد التداولات المبرمجة مؤقتا عند حدوث تقلبات حادة في السوق. النقطة الأساسية هي أن وصول المؤشر إلى هذا المستوى التاريخي وتفعيل سايدكار البيع حدثا في اليوم نفسه. ولم يورد النص الأصلي تفاصيل إضافية عن حركة المؤشر اللاحقة أو توقيت التفعيل الدقيق أو سببا منفصلا لذلك. وتظهر هذه الأنباء أن أدوات إدارة التقلب قد تعمل حتى أثناء تسجيل مستويات قياسية. المصدر: hankyung.com."
+      },
+      "hi": {
+        "title": "KOSPI पहली बार 8,000 पर पहुंचा, उसी दिन सेल साइडकार लागू",
+        "excerpt": "KOSPI ने इतिहास में पहली बार 8,000 का स्तर छुआ और उसी दिन सेल साइडकार लागू हुआ, hankyung.com ने यह जानकारी दी।",
+        "body": "KOSPI ने इतिहास में पहली बार 8,000 का स्तर छुआ और उसी दिन सेल साइडकार लागू हुआ। यह व्यवस्था तेज बाजार उतार-चढ़ाव के समय प्रोग्राम ट्रेडिंग को अस्थायी रूप से सीमित करने के लिए होती है। मुख्य तथ्य यह है कि सूचकांक का ऐतिहासिक 8,000 स्तर छूना और सेल साइडकार का लागू होना एक ही दिन हुआ। मूल पाठ में बाद की सूचकांक चाल, लागू होने का सटीक समय या कारण के बारे में अलग से जानकारी नहीं दी गई। यह खबर दिखाती है कि रिकॉर्ड स्तर वाले बाजार चरण में भी अस्थिरता नियंत्रण व्यवस्था सक्रिय हो सकती है। स्रोत: hankyung.com."
+      },
+      "id": {
+        "title": "KOSPI Sentuh 8.000 untuk Pertama Kali, Sidecar Jual Aktif",
+        "excerpt": "KOSPI menyentuh level 8.000 untuk pertama kalinya, dan sidecar jual aktif pada hari yang sama, menurut laporan hankyung.com.",
+        "body": "KOSPI menyentuh level 8.000 untuk pertama kalinya dalam sejarah, dan sidecar jual aktif pada hari yang sama. Mekanisme ini membatasi sementara perdagangan terprogram saat terjadi pergerakan pasar yang tajam. Fakta utamanya adalah pencapaian level historis 8.000 dan aktifnya sidecar jual terjadi pada hari yang sama. Teks asli tidak memberikan pergerakan indeks lanjutan, waktu aktivasi yang tepat, atau penjelasan terpisah mengenai penyebabnya. Kabar ini menunjukkan bahwa perangkat pengelolaan volatilitas dapat bekerja bahkan saat pasar berada di fase rekor. Sumber: hankyung.com."
+      }
+    }
+  },
+  {
+    "id": "2c8770684979",
+    "slug": "기계-아닌-인간을-대체휴머노이드-생산성-혁명의-열쇠-kiw-2026-392983",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-05-15T19:40:26.349Z",
+    "updatedAt": "2026-05-15T19:40:26.349Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/202605159652i",
+    "canonicalUrl": "https://www.hankyung.com/article/202605159652i",
+    "titleFingerprint": "8e84221323153b20d9623f9d159bcb0f85f83d76",
+    "dedupKeys": [
+      "2c877068497943f113bca18486976f8ead3b4674",
+      "8e84221323153b20d9623f9d159bcb0f85f83d76",
+      "74b18899a760cecdca9a8f5ee8e2666a8012a2d9"
+    ],
+    "imageUrl": "/images/articles/2c8770684979.jpg",
+    "i18n": {
+      "ko": {
+        "title": "휴머노이드가 바꾸는 생산성 혁명, KIW 2026 핵심 의제로 부상",
+        "excerpt": "KIW 2026에서 휴머노이드가 단순 기계가 아니라 인간 업무를 대체하는 생산성 혁명의 열쇠로 제시됐다고 한국경제가 보도했다.",
+        "body": "KIW 2026에서 휴머노이드가 생산성 혁명의 핵심 의제로 제시됐다. 한국경제 보도에 따르면 이번 논의의 초점은 휴머노이드가 기존 기계를 대신하는 수준을 넘어 인간의 업무를 대체할 수 있다는 점에 맞춰졌다. 이는 자동화의 역할이 장비 교체에서 노동과 작업 방식의 변화로 확장되고 있음을 보여준다. 관련 수치나 세부 기업명은 원문 제목과 제공 정보에 포함되지 않았다. 휴머노이드가 실제 업무 현장에 적용될 경우 생산성 향상 논의는 더욱 커질 전망이다. 출처: hankyung.com"
+      },
+      "en": {
+        "title": "Humanoids Emerge as a Key Productivity Theme at KIW 2026",
+        "excerpt": "At KIW 2026, humanoids were presented as a key to a productivity revolution by replacing human work, not simply machines, Hankyung reported.",
+        "body": "At KIW 2026, humanoids were presented as a central theme in the productivity revolution. According to Hankyung, the discussion focused on the idea that humanoids may move beyond replacing existing machines and instead substitute for human tasks. This signals a shift in automation from equipment replacement to changes in labor and work processes. Specific figures or company names were not included in the provided original information. If humanoids are applied in real workplaces, debate over productivity gains is expected to grow. Source: hankyung.com"
+      },
+      "ja": {
+        "title": "ヒューマノイドが生産性革命の鍵に、KIW 2026で主要議題へ",
+        "excerpt": "KIW 2026で、ヒューマノイドは単なる機械の代替ではなく、人間の業務を代替する生産性革命の鍵として示されたと韓国経済が報じた。",
+        "body": "KIW 2026で、ヒューマノイドが生産性革命の中心議題として示された。韓国経済の報道によると、今回の論点はヒューマノイドが既存の機械を置き換える段階を超え、人間の業務を代替し得る点に置かれた。これは自動化の役割が設備の入れ替えから、労働と作業方式の変化へ広がっていることを示す。関連する数値や具体的な企業名は、提供された原文情報には含まれていない。実際の現場に導入されれば、生産性向上をめぐる議論はさらに広がる見通しだ。出典: hankyung.com"
+      },
+      "zh": {
+        "title": "人形机器人引领生产率革命，成KIW 2026核心议题",
+        "excerpt": "韩国经济报道称，在KIW 2026上，人形机器人被视为并非替代机器、而是替代人类工作的生产率革命关键。",
+        "body": "在KIW 2026上，人形机器人被提出为生产率革命的核心议题。据韩国经济报道，本次讨论的重点在于，人形机器人并不只是替代现有机器，而是可能替代人类承担的工作。这显示自动化的作用正从设备更换扩展到劳动和作业方式的变化。所提供的原文信息中未包含相关数据或具体企业名称。若人形机器人应用于实际工作现场，围绕生产率提升的讨论预计将进一步扩大。来源: hankyung.com"
+      },
+      "es": {
+        "title": "Humanoides y productividad: el eje que gana fuerza en KIW 2026",
+        "excerpt": "En KIW 2026, los humanoides fueron presentados como clave de una revolución de productividad al reemplazar tareas humanas, no solo máquinas, informó Hankyung.",
+        "body": "En KIW 2026, los humanoides fueron presentados como un tema central de la revolución de productividad. Según Hankyung, el foco del debate fue que los humanoides pueden ir más allá de sustituir máquinas existentes y reemplazar tareas realizadas por personas. Esto muestra que el papel de la automatización se amplía desde el cambio de equipos hacia una transformación del trabajo y de los procesos laborales. La información original proporcionada no incluye cifras ni nombres concretos de empresas. Si los humanoides se aplican en entornos reales, el debate sobre la mejora de la productividad podría crecer. Fuente: hankyung.com"
+      },
+      "pt": {
+        "title": "Humanoides entram no centro da produtividade no KIW 2026",
+        "excerpt": "No KIW 2026, humanoides foram apresentados como chave para uma revolução de produtividade ao substituir trabalho humano, não apenas máquinas, informou a Hankyung.",
+        "body": "No KIW 2026, os humanoides foram apresentados como tema central da revolução de produtividade. Segundo a Hankyung, a discussão destacou que eles podem ir além de substituir máquinas existentes e passar a substituir tarefas humanas. Isso indica que o papel da automação se amplia da troca de equipamentos para mudanças no trabalho e nos processos produtivos. Os dados fornecidos do texto original não incluem números específicos nem nomes de empresas. Caso sejam aplicados em ambientes reais de trabalho, o debate sobre ganhos de produtividade tende a se ampliar. Fonte: hankyung.com"
+      },
+      "de": {
+        "title": "Humanoide Roboter als Schlüsselthema für Produktivität bei KIW 2026",
+        "excerpt": "Bei KIW 2026 wurden humanoide Roboter als Schlüssel einer Produktivitätsrevolution dargestellt, weil sie menschliche Arbeit und nicht nur Maschinen ersetzen, berichtete Hankyung.",
+        "body": "Bei KIW 2026 wurden humanoide Roboter als zentrales Thema der Produktivitätsrevolution vorgestellt. Laut Hankyung lag der Schwerpunkt der Diskussion darauf, dass Humanoide über den Ersatz bestehender Maschinen hinausgehen und menschliche Tätigkeiten übernehmen können. Das zeigt, dass sich die Rolle der Automatisierung vom Austausch von Ausrüstung hin zu Veränderungen von Arbeit und Arbeitsprozessen erweitert. Konkrete Zahlen oder Unternehmensnamen sind in den bereitgestellten Originalinformationen nicht enthalten. Wenn Humanoide in realen Arbeitsumgebungen eingesetzt werden, dürfte die Debatte über Produktivitätssteigerungen weiter zunehmen. Quelle: hankyung.com"
+      },
+      "fr": {
+        "title": "Les humanoïdes, thème clé de la productivité au KIW 2026",
+        "excerpt": "Au KIW 2026, les humanoïdes ont été présentés comme une clé de la révolution de la productivité en remplaçant le travail humain, et pas seulement les machines, selon Hankyung.",
+        "body": "Au KIW 2026, les humanoïdes ont été présentés comme un thème central de la révolution de la productivité. Selon Hankyung, le débat a porté sur le fait qu’ils pourraient dépasser le simple remplacement des machines existantes pour se substituer à certaines tâches humaines. Cela montre que le rôle de l’automatisation s’étend du renouvellement des équipements à la transformation du travail et des méthodes d’exécution. Les informations originales fournies ne contiennent ni chiffres précis ni noms d’entreprises. Si les humanoïdes sont déployés sur le terrain, les discussions sur les gains de productivité devraient s’intensifier. Source: hankyung.com"
+      },
+      "ar": {
+        "title": "الروبوتات البشرية تبرز كمفتاح للإنتاجية في KIW 2026",
+        "excerpt": "في KIW 2026، قُدمت الروبوتات البشرية كمفتاح لثورة إنتاجية عبر استبدال أعمال البشر لا مجرد الآلات، وفق ما أوردته هانكيونغ.",
+        "body": "في KIW 2026، طُرحت الروبوتات البشرية كقضية محورية في ثورة الإنتاجية. وبحسب ما أوردته هانكيونغ، ركز النقاش على أن هذه الروبوتات لا تقتصر على استبدال الآلات القائمة، بل قد تحل محل بعض الأعمال التي يؤديها البشر. ويعكس ذلك اتساع دور الأتمتة من تبديل المعدات إلى تغيير العمل وطرق تنفيذه. ولم تتضمن المعلومات الأصلية المقدمة أرقاما محددة أو أسماء شركات. وإذا طُبقت الروبوتات البشرية في مواقع العمل الفعلية، فمن المتوقع أن يتسع النقاش حول تحسين الإنتاجية. المصدر: hankyung.com"
+      },
+      "hi": {
+        "title": "KIW 2026 में उत्पादकता क्रांति की कुंजी बने ह्यूमनॉइड",
+        "excerpt": "KIW 2026 में ह्यूमनॉइड को मशीन नहीं, बल्कि मानव कार्यों को बदलने वाली उत्पादकता क्रांति की कुंजी बताया गया, हानक्युंग ने रिपोर्ट किया।",
+        "body": "KIW 2026 में ह्यूमनॉइड को उत्पादकता क्रांति का केंद्रीय मुद्दा बताया गया। हानक्युंग की रिपोर्ट के अनुसार, चर्चा का केंद्र यह था कि ह्यूमनॉइड केवल मौजूदा मशीनों की जगह लेने तक सीमित नहीं हैं, बल्कि वे मानव कार्यों को भी बदल सकते हैं। यह दिखाता है कि स्वचालन की भूमिका उपकरण बदलने से आगे बढ़कर श्रम और कार्य प्रक्रिया में बदलाव तक पहुंच रही है। उपलब्ध मूल जानकारी में संबंधित आंकड़े या विशिष्ट कंपनियों के नाम शामिल नहीं हैं। यदि ह्यूमनॉइड वास्तविक कार्यस्थलों में लागू होते हैं, तो उत्पादकता वृद्धि पर चर्चा और बढ़ने की उम्मीद है। स्रोत: hankyung.com"
+      },
+      "id": {
+        "title": "Humanoid Jadi Kunci Revolusi Produktivitas di KIW 2026",
+        "excerpt": "Di KIW 2026, humanoid disebut sebagai kunci revolusi produktivitas karena menggantikan pekerjaan manusia, bukan sekadar mesin, menurut laporan Hankyung.",
+        "body": "Di KIW 2026, humanoid dibahas sebagai tema utama revolusi produktivitas. Menurut laporan Hankyung, fokus pembahasan adalah bahwa humanoid tidak hanya menggantikan mesin yang sudah ada, tetapi juga dapat menggantikan pekerjaan manusia. Hal ini menunjukkan bahwa peran otomatisasi meluas dari penggantian peralatan menuju perubahan tenaga kerja dan cara kerja. Informasi asli yang diberikan tidak memuat angka terkait atau nama perusahaan tertentu. Jika humanoid diterapkan di tempat kerja nyata, pembahasan mengenai peningkatan produktivitas diperkirakan akan semakin besar. Sumber: hankyung.com"
+      }
+    }
+  },
+  {
+    "id": "b70bc0999928",
+    "slug": "삼전닉스-팔아-조선업-엔비디아-산다-파업조차-기회라는데-505556",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-05-15T19:39:35.503Z",
+    "updatedAt": "2026-05-15T19:39:35.503Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/business/12049292",
+    "canonicalUrl": "https://www.mk.co.kr/news/business/12049292",
+    "titleFingerprint": "de4d703c77a8184c1e4720921cd48851c3d4cd1c",
+    "dedupKeys": [
+      "b70bc0999928a05028a73befd611b86c7b66b220",
+      "de4d703c77a8184c1e4720921cd48851c3d4cd1c",
+      "b1bbaa968715a729ec67e074caf8b610f7e1b32a"
+    ],
+    "imageUrl": "/images/articles/b70bc0999928.png",
+    "i18n": {
+      "ko": {
+        "title": "HD현대중공업으로 갈아탄 투자자들, JP모건은 노조 파업도 매수 기회로 봤다",
+        "excerpt": "JP모건은 최근 한국 조선업 관련 노조 파업에 따른 주가 하락을 매수 기회로 평가했고, 일부 투자자는 삼성전자 일부를 팔아 HD현대중공업으로 이동했다고 전했다.",
+        "body": "최근 국내 증시에서 삼성전자 등 기존 대형주 일부를 줄이고 HD현대중공업으로 갈아타는 투자자 사례가 소개됐다. 한 투자자는 약 한 달 전 삼성전자 주식 일부를 매도하고 HD현대중공업을 매수했으며, 이후 주가가 오르다 노동조합 문제로 하락하자 이를 다시 주목하고 있다고 밝혔다. JP모건은 한국 노조 파업이 조선업 주식의 매수 기회가 될 수 있다고 평가했다. 기사에서는 HD현대중공업을 ‘조선업 엔비디아’로 표현하며 투자자 관심이 커진 배경을 전했다. 다만 원문은 노조 이슈가 단기 주가 부담으로 작용한 점도 함께 언급했다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "HD Hyundai Heavy Draws Investors as JPMorgan Sees Union Strikes as a Buying Chance",
+        "excerpt": "JPMorgan said recent share-price weakness tied to Korean shipbuilding union strikes could be a buying opportunity, while some investors reportedly shifted from Samsung Electronics into HD Hyundai Heavy Industries.",
+        "body": "In South Korea’s stock market, some investors are reportedly reducing positions in major names such as Samsung Electronics and moving into HD Hyundai Heavy Industries. One investor said they sold part of their Samsung Electronics holding about a month ago and bought HD Hyundai Heavy Industries, then watched the stock rise before falling recently on labor-union issues. JPMorgan assessed that Korean union strikes could create a buying opportunity in shipbuilding shares. The article described HD Hyundai Heavy Industries as the “Nvidia of shipbuilding,” reflecting rising investor attention. It also noted that labor issues have weighed on the share price in the short term. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "HD現代重工業に資金移動、JPモルガンは労組ストを買い機会と評価",
+        "excerpt": "JPモルガンは韓国造船業の労組ストによる株価下落を買い機会と見ており、一部投資家はサムスン電子株の一部を売ってHD現代重工業へ移ったと報じられた。",
+        "body": "韓国株式市場では、サムスン電子など既存の大型株の一部を減らし、HD現代重工業へ乗り換える投資家の事例が紹介された。ある投資家は約1カ月前にサムスン電子株の一部を売却し、HD現代重工業を買ったという。その後、株価は上昇したが、最近は労働組合問題で下落し、再び注目していると伝えられた。JPモルガンは、韓国の労組ストが造船株の買い機会になり得ると評価した。記事はHD現代重工業を「造船業のエヌビディア」と表現し、投資家の関心が高まる背景を伝えた。一方で、労組問題が短期的な株価負担になった点も触れている。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "资金转向HD现代重工，摩根大通称韩国工会罢工也是买入机会",
+        "excerpt": "摩根大通认为，韩国造船业相关工会罢工导致的股价回落可能是买入机会；报道还称，部分投资者卖出三星电子部分持股后转投HD现代重工。",
+        "body": "近期韩国股市出现投资者减少三星电子等传统大型股持仓、转向HD现代重工的案例。一名投资者表示，约一个月前卖出部分三星电子股票，买入HD现代重工；此后股价一度上涨，但最近因工会问题回落，因此再次受到关注。摩根大通评价称，韩国工会罢工可能成为造船股的买入机会。报道将HD现代重工称为“造船业的英伟达”，说明投资者关注升温的背景。不过，原文也提到工会问题在短期内对股价形成压力。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "HD Hyundai Heavy atrae inversores y JPMorgan ve las huelgas sindicales como oportunidad",
+        "excerpt": "JPMorgan consideró que la reciente caída bursátil vinculada a huelgas sindicales en la construcción naval coreana puede ser una oportunidad de compra, mientras algunos inversores pasaron de Samsung Electronics a HD Hyundai Heavy Industries.",
+        "body": "En el mercado bursátil surcoreano se presentó el caso de inversores que reducen parte de sus posiciones en grandes valores como Samsung Electronics y se trasladan a HD Hyundai Heavy Industries. Un inversor dijo que hace aproximadamente un mes vendió parte de sus acciones de Samsung Electronics y compró HD Hyundai Heavy Industries; después, la acción subió, pero cayó recientemente por problemas laborales. JPMorgan evaluó que las huelgas sindicales en Corea pueden convertirse en una oportunidad de compra para las acciones de astilleros. El artículo describió a HD Hyundai Heavy Industries como la “Nvidia de la construcción naval”, reflejando el creciente interés inversor. También señaló que el conflicto sindical presionó la cotización a corto plazo. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "HD Hyundai Heavy ganha investidores; JPMorgan vê greve sindical como chance de compra",
+        "excerpt": "O JPMorgan avaliou que a queda recente das ações ligada a greves sindicais na construção naval coreana pode ser oportunidade de compra, enquanto alguns investidores trocaram Samsung Electronics por HD Hyundai Heavy Industries.",
+        "body": "No mercado acionário sul-coreano, foi citado o caso de investidores que reduzem parte de posições em grandes empresas como a Samsung Electronics e migram para a HD Hyundai Heavy Industries. Um investidor disse que vendeu parte das ações da Samsung Electronics cerca de um mês atrás e comprou HD Hyundai Heavy Industries; depois, o papel subiu, mas caiu recentemente por questões sindicais. O JPMorgan avaliou que greves de sindicatos na Coreia podem representar uma oportunidade de compra em ações de construção naval. A reportagem chamou a HD Hyundai Heavy Industries de “Nvidia da indústria naval”, destacando o aumento do interesse dos investidores. Também mencionou que o tema sindical pesou no curto prazo sobre a ação. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "HD Hyundai Heavy rückt in den Fokus, JPMorgan sieht Gewerkschaftsstreiks als Kaufchance",
+        "excerpt": "JPMorgan wertete jüngste Kursrückgänge durch Gewerkschaftsstreiks im koreanischen Schiffbau als mögliche Kaufchance; zugleich sollen einige Anleger von Samsung Electronics zu HD Hyundai Heavy Industries gewechselt sein.",
+        "body": "Am südkoreanischen Aktienmarkt wurde über Anleger berichtet, die Teile ihrer Positionen in großen Titeln wie Samsung Electronics abbauen und in HD Hyundai Heavy Industries umschichten. Ein Anleger sagte, er habe vor etwa einem Monat einen Teil seiner Samsung-Electronics-Aktien verkauft und HD Hyundai Heavy Industries gekauft. Danach sei der Kurs gestiegen, zuletzt aber wegen Gewerkschaftsfragen gefallen. JPMorgan bewertete koreanische Gewerkschaftsstreiks als mögliche Kaufchance für Schiffbauaktien. Der Artikel bezeichnete HD Hyundai Heavy Industries als „Nvidia des Schiffbaus“ und erklärte damit das wachsende Anlegerinteresse. Zugleich wurde erwähnt, dass die Gewerkschaftsthemen kurzfristig auf dem Aktienkurs lasteten. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "HD Hyundai Heavy attire les investisseurs, JPMorgan voit les grèves comme une occasion d’achat",
+        "excerpt": "JPMorgan estime que la faiblesse récente des actions liée aux grèves syndicales dans la construction navale coréenne peut offrir une occasion d’achat, alors que certains investisseurs quittent partiellement Samsung Electronics pour HD Hyundai Heavy Industries.",
+        "body": "Sur le marché boursier sud-coréen, l’article présente des investisseurs qui réduisent une partie de leurs positions dans de grandes valeurs comme Samsung Electronics pour se tourner vers HD Hyundai Heavy Industries. Un investisseur a déclaré avoir vendu une partie de ses actions Samsung Electronics il y a environ un mois afin d’acheter HD Hyundai Heavy Industries. Le titre a ensuite progressé, avant de reculer récemment en raison de questions syndicales. JPMorgan a estimé que les grèves syndicales en Corée pouvaient constituer une occasion d’achat pour les actions de la construction navale. L’article qualifie HD Hyundai Heavy Industries de “Nvidia de la construction navale”, signe d’un intérêt accru des investisseurs. Il précise aussi que les enjeux syndicaux ont pesé à court terme sur le cours. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "إتش دي هيونداي للصناعات الثقيلة تجذب المستثمرين وجي بي مورغان يرى الإضرابات فرصة شراء",
+        "excerpt": "قال جي بي مورغان إن تراجع الأسهم المرتبط بإضرابات نقابات عمال بناء السفن في كوريا قد يمثل فرصة شراء، بينما انتقل بعض المستثمرين من جزء من أسهم سامسونغ إلكترونيكس إلى إتش دي هيونداي للصناعات الثقيلة.",
+        "body": "في سوق الأسهم الكورية الجنوبية، عُرضت حالة مستثمرين يخفضون جزءا من مراكزهم في أسهم كبرى مثل سامسونغ إلكترونيكس ويتجهون إلى إتش دي هيونداي للصناعات الثقيلة. وقال أحد المستثمرين إنه باع قبل نحو شهر جزءا من أسهم سامسونغ إلكترونيكس واشترى إتش دي هيونداي للصناعات الثقيلة. وبعد ذلك ارتفع السهم، لكنه تراجع مؤخرا بسبب قضايا نقابية. وقيّم جي بي مورغان إضرابات النقابات في كوريا على أنها قد تكون فرصة شراء لأسهم بناء السفن. ووصف المقال إتش دي هيونداي للصناعات الثقيلة بأنها “إنفيديا صناعة السفن”، في إشارة إلى تزايد اهتمام المستثمرين. كما أشار إلى أن القضايا النقابية شكلت ضغطا قصير الأجل على السعر. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "HD Hyundai Heavy में निवेशकों की दिलचस्पी, JPMorgan ने यूनियन हड़ताल को खरीद अवसर माना",
+        "excerpt": "JPMorgan ने कहा कि कोरियाई जहाज निर्माण क्षेत्र में यूनियन हड़ताल से आई हालिया शेयर गिरावट खरीदारी का अवसर हो सकती है, जबकि कुछ निवेशक Samsung Electronics से आंशिक रूप से निकलकर HD Hyundai Heavy Industries में गए।",
+        "body": "दक्षिण कोरियाई शेयर बाजार में ऐसे निवेशकों के उदाहरण सामने आए हैं जो Samsung Electronics जैसे बड़े शेयरों में अपनी कुछ हिस्सेदारी घटाकर HD Hyundai Heavy Industries में जा रहे हैं। एक निवेशक ने कहा कि उन्होंने करीब एक महीने पहले Samsung Electronics के कुछ शेयर बेचे और HD Hyundai Heavy Industries खरीदा। इसके बाद शेयर चढ़ा, लेकिन हाल में श्रमिक संघ से जुड़े मुद्दों के कारण गिरा। JPMorgan ने आकलन किया कि कोरिया में यूनियन हड़तालें जहाज निर्माण शेयरों के लिए खरीदारी का अवसर बन सकती हैं। लेख ने HD Hyundai Heavy Industries को “जहाज निर्माण उद्योग का Nvidia” कहा और निवेशकों की बढ़ती रुचि की पृष्ठभूमि बताई। साथ ही, मूल रिपोर्ट ने यह भी कहा कि यूनियन मुद्दे ने अल्पावधि में शेयर कीमत पर दबाव डाला। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "HD Hyundai Heavy Dilirik Investor, JPMorgan Nilai Aksi Serikat sebagai Peluang Beli",
+        "excerpt": "JPMorgan menilai pelemahan saham akibat aksi serikat pekerja di industri galangan kapal Korea dapat menjadi peluang beli, sementara sebagian investor disebut beralih dari sebagian saham Samsung Electronics ke HD Hyundai Heavy Industries.",
+        "body": "Di pasar saham Korea Selatan, muncul contoh investor yang mengurangi sebagian posisi di saham besar seperti Samsung Electronics dan beralih ke HD Hyundai Heavy Industries. Seorang investor mengatakan telah menjual sebagian saham Samsung Electronics sekitar satu bulan lalu dan membeli HD Hyundai Heavy Industries. Setelah itu harga saham naik, tetapi belakangan turun karena masalah serikat pekerja. JPMorgan menilai aksi serikat pekerja di Korea dapat menjadi peluang beli untuk saham galangan kapal. Artikel tersebut menyebut HD Hyundai Heavy Industries sebagai “Nvidia industri perkapalan”, menggambarkan meningkatnya minat investor. Namun, laporan asli juga mencatat bahwa isu serikat pekerja memberi tekanan jangka pendek pada harga saham. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
     "id": "34acab21c728",
     "slug": "주가를-밀어-올리는-개인-vs-끌어내리는-외국인코스피-8000-놓고-치열한-공방전-595858",
     "channelId": "ETF",
@@ -4271,231 +4496,6 @@
         "title": "Chunil Express dan Hyundai GF Holdings Masuk Saham Golden Cross MK Signal",
         "excerpt": "MK Signal hari ini menyebut Chunil Express (000650) dan Hyundai GF Holdings (005440) dalam analisis saham Korea yang sedang disorot sebagai saham breakout golden cross.",
         "body": "MK Signal, reporter AI yang menganalisis saham Korea yang sedang menjadi isu hangat, hari ini mengidentifikasi Chunil Express (000650) dan Hyundai GF Holdings (005440) sebagai saham breakout golden cross. Konten tersebut diterbitkan dengan judul “Saham Breakout Golden Cross MK” dan menyebut kedua perusahaan sebagai saham utama yang menarik perhatian pada hari itu. Golden cross kerap digunakan pelaku pasar sebagai sinyal teknikal saat meninjau tren harga. Namun, naskah asli berfokus pada pengenalan Chunil Express dan Hyundai GF Holdings sebagai saham golden cross yang sedang disorot, tanpa memberikan angka tambahan atau penilaian investasi. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "c60ba4291cb4",
-    "slug": "아내가-46년-만에-주식계좌를-텄네요외국인-물량-다-받아내는-개미-412340",
-    "channelId": "ETF",
-    "category": "etf",
-    "publishedAt": "2026-05-15T01:24:37.480Z",
-    "updatedAt": "2026-05-15T01:24:37.480Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/economy/12048872",
-    "canonicalUrl": "https://www.mk.co.kr/news/economy/12048872",
-    "titleFingerprint": "1cf210cf33bdeb3833e29914c954959a27b31e39",
-    "dedupKeys": [
-      "c60ba4291cb455d2b5d2188e471066ad6094832c",
-      "1cf210cf33bdeb3833e29914c954959a27b31e39",
-      "fa7f2fce6ae8255be059b176bf25a9f15538ef07"
-    ],
-    "imageUrl": "/images/articles/c60ba4291cb4.png",
-    "i18n": {
-      "ko": {
-        "title": "코스피8000 랠리에 개인 주식계좌 급증, 외국인 매도 물량 받아내는 개미",
-        "excerpt": "코스피8000 국면에서 삼성전자·SK하이닉스 주도 장세가 이어지자 예·적금을 깨고 주식투자에 나선 개인들이 외국인 매도 물량을 받아내고 있다.",
-        "body": "코스피가 8000선을 향한 강세 흐름을 보이는 가운데 삼성전자와 SK하이닉스가 장세를 이끌며 개인 투자자들의 주식시장 유입이 늘고 있다. 원문에 따르면 46년 만에 처음 주식계좌를 만든 사례처럼 예·적금을 깨고 투자에 나서는 개인이 속출하고 있다. 동시에 개인 투자자 사이에서는 과열 여부와 탈출 시점을 둘러싼 논쟁도 커졌다. 외국인은 최근 6거래일간 26조원 규모를 순매도한 것으로 전해졌고, 이 물량을 개인이 받아내는 구도가 부각됐다. 시장의 추가 상승 기대와 과열 경계가 맞물리며 수급 부담은 계속 주목될 전망이다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "KOSPI 8000 Rally Draws Retail Investors as Individuals Absorb Foreign Selling",
-        "excerpt": "As Samsung Electronics and SK Hynix lead the KOSPI 8000 rally, retail investors are breaking deposits to buy stocks and absorb heavy foreign selling.",
-        "body": "As the KOSPI advances in a rally framed around the 8000 level, Samsung Electronics and SK Hynix are leading the market and drawing more individual investors into stocks. According to the original report, cases such as a spouse opening a stock account for the first time in 46 years show that some individuals are breaking savings and installment deposits to invest. At the same time, debate among retail investors over overheating and when to exit is intensifying. Foreign investors reportedly net sold about 26 trillion won over six trading sessions, with individuals emerging as the buyers absorbing that supply. Expectations for further gains and caution over overheating are likely to keep fund flows in focus. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "KOSPI8000相場で個人投資家が急増、外国人売りを受け止める構図",
-        "excerpt": "サムスン電子とSKハイニックスが主導するKOSPI8000局面で、預貯金を崩して株式投資に向かう個人が外国人売りを吸収している。",
-        "body": "KOSPIが8000を意識する強い流れを見せる中、サムスン電子とSKハイニックスが相場をけん引し、個人投資家の株式市場への流入が増えている。原文によると、46年の人生で初めて株式口座を開設した配偶者の例のように、預金や積立を解約して投資に乗り出す個人が相次いでいる。同時に、個人投資家の間では過熱感や退出のタイミングをめぐる議論も強まった。外国人は直近6営業日で26兆ウォン規模を売り越したとされ、その売りを個人が受け止める構図が目立った。追加上昇への期待と過熱警戒が交錯し、需給動向への注目は続きそうだ。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "KOSPI8000行情吸引散户入场，个人投资者承接外资卖盘",
-        "excerpt": "在三星电子和SK海力士带动KOSPI8000行情之际，越来越多个人投资者取出存款买股，并承接外资卖出筹码。",
-        "body": "在KOSPI围绕8000点展开强势行情的背景下，三星电子和SK海力士引领市场，个人投资者加速流入股市。原文称，类似“妻子46年来第一次开设股票账户”的案例显示，不少个人正在取出定期存款和储蓄资金转向股票投资。与此同时，散户之间围绕市场是否过热以及何时退出的讨论也在升温。据报道，外资最近6个交易日净卖出约26万亿韩元，而这些卖盘主要由个人投资者承接。随着进一步上涨预期与过热警惕并存，市场资金供需仍将受到关注。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Rally del KOSPI 8000 atrae a minoristas que absorben ventas extranjeras",
-        "excerpt": "Con Samsung Electronics y SK Hynix liderando el KOSPI 8000, inversores minoristas rompen depósitos para comprar acciones y absorber ventas extranjeras.",
-        "body": "Mientras el KOSPI muestra una fuerte tendencia asociada al nivel de 8000, Samsung Electronics y SK Hynix lideran el mercado y aumenta la entrada de inversores individuales en acciones. Según el texto original, casos como el de una esposa que abrió una cuenta bursátil por primera vez en 46 años reflejan que algunos particulares están retirando ahorros y depósitos a plazo para invertir. Al mismo tiempo, crece entre los minoristas el debate sobre el sobrecalentamiento y el momento de salida. Los extranjeros habrían vendido en neto unos 26 billones de wones en seis sesiones, y los particulares aparecen como quienes absorben esa oferta. Las expectativas de nuevas subidas y la cautela por exceso de entusiasmo mantendrán el foco en los flujos. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Rali do KOSPI 8000 leva varejo a absorver vendas de estrangeiros",
-        "excerpt": "Com Samsung Electronics e SK Hynix liderando o KOSPI 8000, investidores pessoas físicas resgatam depósitos para comprar ações e absorver vendas externas.",
-        "body": "Enquanto o KOSPI avança em uma tendência forte ligada ao nível de 8000, Samsung Electronics e SK Hynix lideram o mercado e aumenta a entrada de investidores individuais em ações. Segundo o texto original, casos como o de uma esposa que abriu uma conta de ações pela primeira vez em 46 anos mostram pessoas físicas rompendo poupanças e depósitos a prazo para investir. Ao mesmo tempo, cresce entre os investidores de varejo o debate sobre superaquecimento e o momento de saída. Estrangeiros teriam vendido liquidamente cerca de 26 trilhões de wones em seis pregões, com indivíduos absorvendo essa oferta. Expectativas de novas altas e cautela com excesso de euforia devem manter os fluxos no centro das atenções. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "KOSPI-8000-Rally lockt Privatanleger an, die Auslandsverkäufe aufnehmen",
-        "excerpt": "Während Samsung Electronics und SK Hynix die KOSPI-8000-Rally treiben, lösen Privatanleger Einlagen auf und nehmen ausländische Verkaufsvolumen auf.",
-        "body": "Während der KOSPI in einer starken Bewegung rund um die Marke von 8000 steht, führen Samsung Electronics und SK Hynix den Markt an und mehr Privatanleger strömen in Aktien. Laut Originalbericht zeigen Beispiele wie eine Ehefrau, die erstmals nach 46 Jahren ein Aktienkonto eröffnete, dass Einzelpersonen Spar- und Termineinlagen auflösen, um zu investieren. Zugleich verschärft sich unter Privatanlegern die Debatte über Überhitzung und den richtigen Ausstiegszeitpunkt. Ausländische Investoren sollen in sechs Handelstagen netto rund 26 Billionen Won verkauft haben, wobei Privatanleger diese Stücke aufnahmen. Weitere Kursfantasie und Vorsicht vor Überhitzung dürften die Mittelströme im Blick halten. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Le rallye KOSPI 8000 attire les particuliers, qui absorbent les ventes étrangères",
-        "excerpt": "Alors que Samsung Electronics et SK Hynix tirent le KOSPI 8000, des particuliers cassent leurs dépôts pour acheter des actions et absorber les ventes étrangères.",
-        "body": "Alors que le KOSPI évolue dans une forte dynamique autour du seuil de 8000, Samsung Electronics et SK Hynix mènent le marché et attirent davantage d’investisseurs individuels vers les actions. Selon le texte original, des cas comme celui d’une épouse ouvrant un compte-titres pour la première fois en 46 ans illustrent des particuliers qui puisent dans leurs dépôts et produits d’épargne pour investir. En parallèle, le débat s’intensifie chez les particuliers sur la surchauffe et le moment de sortir. Les investisseurs étrangers auraient vendu net environ 26 billions de wons en six séances, ces volumes étant absorbés par les particuliers. Les attentes de hausse et la prudence face à la surchauffe devraient maintenir les flux sous surveillance. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "صعود كوسبي 8000 يجذب الأفراد مع امتصاصهم مبيعات المستثمرين الأجانب",
-        "excerpt": "مع قيادة سامسونغ إلكترونيكس وSK هاينكس لموجة كوسبي 8000، يتجه أفراد إلى كسر الودائع لشراء الأسهم وامتصاص مبيعات الأجانب.",
-        "body": "مع تحرك مؤشر كوسبي في مسار قوي مرتبط بمستوى 8000، تقود سامسونغ إلكترونيكس وSK هاينكس السوق، ويتزايد دخول المستثمرين الأفراد إلى الأسهم. وبحسب النص الأصلي، فإن حالات مثل فتح زوجة حساب أسهم للمرة الأولى بعد 46 عاما تعكس إقدام بعض الأفراد على كسر الودائع والمدخرات للاستثمار. وفي الوقت نفسه، يحتدم النقاش بين المستثمرين الأفراد حول ما إذا كانت السوق محمومة ومتى يكون الخروج مناسبا. وورد أن المستثمرين الأجانب باعوا صافيا بنحو 26 تريليون وون خلال ست جلسات تداول، بينما برز الأفراد كجهة تمتص تلك الكميات. ومن المتوقع أن تبقى التدفقات محل متابعة مع تداخل توقعات الصعود والحذر من السخونة. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "KOSPI 8000 रैली में खुदरा निवेशकों की भीड़, विदेशी बिकवाली को संभालते व्यक्ति",
-        "excerpt": "Samsung Electronics और SK Hynix की अगुवाई वाली KOSPI 8000 रैली में व्यक्तिगत निवेशक जमा तोड़कर शेयर खरीद रहे हैं और विदेशी बिकवाली सोख रहे हैं।",
-        "body": "KOSPI के 8000 स्तर से जुड़ी मजबूत चाल के बीच Samsung Electronics और SK Hynix बाजार की अगुवाई कर रहे हैं, जिससे व्यक्तिगत निवेशकों की शेयर बाजार में भागीदारी बढ़ रही है। मूल रिपोर्ट के अनुसार, 46 वर्षों में पहली बार पत्नी द्वारा शेयर खाता खोलने जैसे उदाहरण बताते हैं कि कई लोग सावधि जमा और बचत तोड़कर निवेश में उतर रहे हैं। इसी के साथ खुदरा निवेशकों के बीच बाजार के अधिक गर्म होने और बाहर निकलने के समय पर बहस तेज हो गई है। विदेशी निवेशकों ने छह कारोबारी सत्रों में कथित तौर पर लगभग 26 ट्रिलियन वॉन की शुद्ध बिकवाली की, जिसे व्यक्तिगत निवेशकों ने खरीदा। आगे की तेजी की उम्मीद और अधिक गर्मी की सावधानी, दोनों के कारण धन प्रवाह पर नजर बनी रहेगी। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Reli KOSPI 8000 Tarik Investor Ritel, Individu Serap Aksi Jual Asing",
-        "excerpt": "Saat Samsung Electronics dan SK Hynix memimpin reli KOSPI 8000, investor individu mencairkan deposito untuk membeli saham dan menyerap jual asing.",
-        "body": "Saat KOSPI bergerak kuat dalam fase yang dikaitkan dengan level 8000, Samsung Electronics dan SK Hynix memimpin pasar dan menarik lebih banyak investor individu ke saham. Menurut teks asli, contoh seperti seorang istri yang membuka rekening saham untuk pertama kalinya dalam 46 tahun menunjukkan sebagian orang mencairkan tabungan dan deposito berjangka untuk berinvestasi. Pada saat yang sama, perdebatan di kalangan investor ritel tentang pasar yang terlalu panas dan waktu keluar makin menguat. Investor asing dilaporkan mencatat jual bersih sekitar 26 triliun won selama enam sesi perdagangan, sementara individu menjadi pihak yang menyerap pasokan itu. Harapan kenaikan lanjutan dan kewaspadaan terhadap overheating akan membuat arus dana tetap menjadi perhatian. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "4b4b28cb6f9f",
-    "slug": "뉴온-시서스추출물-glp-1-증가-효과-국제학술지-게재-827997",
-    "channelId": "ETF",
-    "category": "etf",
-    "publishedAt": "2026-05-15T01:23:38.823Z",
-    "updatedAt": "2026-05-15T01:23:38.823Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/stock/12048897",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12048897",
-    "titleFingerprint": "196b715cea297c7fad06f68f217bacdcedfa584b",
-    "dedupKeys": [
-      "4b4b28cb6f9feda1680cf1ca4f10fa4d53089877",
-      "196b715cea297c7fad06f68f217bacdcedfa584b",
-      "3c695e73ef4fec35d3cd8cd156acdfc53faaa9b5"
-    ],
-    "imageUrl": "/images/articles/4b4b28cb6f9f.jpg",
-    "i18n": {
-      "ko": {
-        "title": "뉴온 시서스추출물, GLP-1 분비 증가 효과 인체시험 확인",
-        "excerpt": "뉴온은 15일 개별인정형 원료 시서스추출물이 식욕 조절 호르몬 GLP-1 분비를 늘리는 효과를 인체적용시험에서 확인했다고 밝혔다.",
-        "body": "글로벌 라이프케어 전문기업 뉴온은 15일 개별인정형 원료인 시서스추출물이 식욕 조절 호르몬 글루카곤 유사 펩타이드(GLP-1) 분비를 증가시키는 효과를 인체적용시험을 통해 확인했다고 밝혔다. 이번 내용은 국제학술지에 게재됐다고 회사 측은 설명했다. GLP-1은 식욕 조절과 관련된 호르몬으로 알려져 있으며, 뉴온은 시서스추출물의 관련 효과를 인체 대상 시험에서 확인했다는 점을 강조했다. 이번 게재는 해당 원료의 기능성 연구 결과를 대외적으로 알리는 계기가 될 전망이다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Newon Cissus Extract Shown to Increase GLP-1 Secretion in Human Trial",
-        "excerpt": "Newon said on the 15th that its individually recognized Cissus extract increased secretion of GLP-1, an appetite-regulating hormone, in a human application trial.",
-        "body": "Global lifecare company Newon said on the 15th that its individually recognized ingredient, Cissus extract, was confirmed through a human application trial to increase secretion of glucagon-like peptide-1 (GLP-1), an appetite-regulating hormone. The company said the findings were published in an international academic journal. GLP-1 is known as a hormone related to appetite regulation, and Newon emphasized that the effect of Cissus extract was confirmed in a human trial. The publication is expected to help share the ingredient’s functional research results externally. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "ニューオンのシッサス抽出物、GLP-1分泌増加効果を人体試験で確認",
-        "excerpt": "ニューオンは15日、個別認定型原料のシッサス抽出物が食欲調節ホルモンGLP-1の分泌を増やす効果を人体適用試験で確認したと発表した。",
-        "body": "グローバルライフケア専門企業のニューオンは15日、個別認定型原料であるシッサス抽出物について、食欲調節ホルモンのグルカゴン様ペプチド（GLP-1）の分泌を増加させる効果を人体適用試験で確認したと明らかにした。同社によると、この内容は国際学術誌に掲載された。GLP-1は食欲調節に関連するホルモンとして知られており、ニューオンはシッサス抽出物の関連効果を人体対象試験で確認した点を強調した。今回の掲載は、同原料の機能性研究結果を対外的に知らせる契機になる見通しだ。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "Newon西塞斯提取物人体试验证实可增加GLP-1分泌",
-        "excerpt": "Newon于15日表示，个别认定型原料西塞斯提取物在人体应用试验中被确认可增加食欲调节激素GLP-1的分泌。",
-        "body": "全球生命护理专业企业Newon于15日表示，其个别认定型原料西塞斯提取物通过人体应用试验，被确认具有增加食欲调节激素胰高血糖素样肽-1（GLP-1）分泌的效果。公司方面说明，该内容已刊登于国际学术期刊。GLP-1被认为是与食欲调节相关的激素，Newon强调，西塞斯提取物的相关效果已在人体对象试验中得到确认。此次刊登预计将成为对外介绍该原料功能性研究结果的契机。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Extracto de Cissus de Newon confirma aumento de GLP-1 en ensayo humano",
-        "excerpt": "Newon informó el día 15 que su ingrediente reconocido individualmente, extracto de Cissus, aumentó la secreción de GLP-1, hormona que regula el apetito, en un ensayo humano.",
-        "body": "La empresa global de lifecare Newon informó el día 15 que su ingrediente reconocido individualmente, el extracto de Cissus, mostró en un ensayo de aplicación humana un efecto de aumento en la secreción del péptido similar al glucagón-1 (GLP-1), una hormona vinculada con la regulación del apetito. La compañía explicó que estos resultados fueron publicados en una revista académica internacional. El GLP-1 es conocido como una hormona relacionada con el control del apetito, y Newon destacó que el efecto del extracto de Cissus fue confirmado en un ensayo con personas. La publicación servirá para dar a conocer externamente los resultados de investigación funcional del ingrediente. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Extrato de Cissus da Newon confirma aumento de GLP-1 em teste humano",
-        "excerpt": "A Newon afirmou no dia 15 que seu ingrediente reconhecido individualmente, extrato de Cissus, aumentou a secreção de GLP-1, hormônio de controle do apetite, em teste humano.",
-        "body": "A empresa global de lifecare Newon afirmou no dia 15 que seu ingrediente reconhecido individualmente, o extrato de Cissus, teve confirmado em teste de aplicação humana o efeito de aumentar a secreção do peptídeo semelhante ao glucagon-1 (GLP-1), hormônio relacionado à regulação do apetite. Segundo a companhia, o conteúdo foi publicado em uma revista acadêmica internacional. O GLP-1 é conhecido como hormônio ligado ao controle do apetite, e a Newon destacou que o efeito relacionado ao extrato de Cissus foi confirmado em estudo com humanos. A publicação deve ajudar a divulgar externamente os resultados de pesquisa funcional do ingrediente. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Newon-Cissus-Extrakt zeigt GLP-1-Anstieg in Humananwendungsstudie",
-        "excerpt": "Newon teilte am 15. mit, dass sein individuell anerkannter Cissus-Extrakt in einer Humananwendungsstudie die Ausschüttung des appetitregulierenden Hormons GLP-1 erhöhte.",
-        "body": "Das globale Lifecare-Unternehmen Newon teilte am 15. mit, dass sein individuell anerkannter Inhaltsstoff Cissus-Extrakt in einer Humananwendungsstudie eine erhöhte Ausschüttung von glucagonähnlichem Peptid-1 (GLP-1), einem Hormon zur Appetitregulierung, gezeigt habe. Nach Angaben des Unternehmens wurden die Ergebnisse in einer internationalen Fachzeitschrift veröffentlicht. GLP-1 ist als Hormon bekannt, das mit der Regulierung des Appetits verbunden ist. Newon betonte, dass die entsprechende Wirkung des Cissus-Extrakts in einer Studie am Menschen bestätigt wurde. Die Veröffentlichung dürfte dazu beitragen, die funktionellen Forschungsergebnisse zu diesem Inhaltsstoff extern bekannt zu machen. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "L’extrait de Cissus de Newon confirme une hausse du GLP-1 chez l’humain",
-        "excerpt": "Newon a annoncé le 15 que son ingrédient reconnu individuellement, l’extrait de Cissus, avait augmenté la sécrétion de GLP-1, hormone de régulation de l’appétit, lors d’un essai humain.",
-        "body": "L’entreprise mondiale de lifecare Newon a annoncé le 15 que son ingrédient reconnu individuellement, l’extrait de Cissus, avait confirmé lors d’un essai d’application humaine un effet d’augmentation de la sécrétion du peptide de type glucagon-1 (GLP-1), une hormone liée à la régulation de l’appétit. Selon la société, ces résultats ont été publiés dans une revue académique internationale. Le GLP-1 est connu comme une hormone associée au contrôle de l’appétit, et Newon a souligné que l’effet lié à l’extrait de Cissus avait été confirmé dans un essai mené sur des humains. Cette publication devrait contribuer à faire connaître les résultats de recherche fonctionnelle de cet ingrédient. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "مستخلص السيسوس من نيوون يؤكد زيادة إفراز GLP-1 في تجربة بشرية",
-        "excerpt": "أعلنت نيوون في 15 من الشهر أن مكونها المعترف به فرديا، مستخلص السيسوس، أظهر في تجربة تطبيق بشرية زيادة في إفراز هرمون GLP-1 المنظم للشهية.",
-        "body": "أعلنت شركة نيوون العالمية المتخصصة في الرعاية الحياتية في 15 من الشهر أن مكونها المعترف به فرديا، وهو مستخلص السيسوس، ثبت من خلال تجربة تطبيق بشرية أنه يزيد إفراز الببتيد الشبيه بالغلوكاغون-1 (GLP-1)، وهو هرمون مرتبط بتنظيم الشهية. وأوضحت الشركة أن هذه النتائج نُشرت في مجلة أكاديمية دولية. ويُعرف GLP-1 بأنه هرمون له صلة بتنظيم الشهية، وشددت نيوون على أن التأثير المرتبط بمستخلص السيسوس تأكد في تجربة شملت البشر. ومن المتوقع أن تسهم هذه النشرة في التعريف خارجيا بنتائج الأبحاث الوظيفية الخاصة بهذا المكون. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "Newon सिसस एक्सट्रैक्ट से GLP-1 स्राव बढ़ने की पुष्टि मानव परीक्षण में",
-        "excerpt": "Newon ने 15 तारीख को बताया कि उसके व्यक्तिगत मान्यता प्राप्त सिसस एक्सट्रैक्ट ने मानव अनुप्रयोग परीक्षण में भूख नियंत्रित करने वाले हार्मोन GLP-1 का स्राव बढ़ाया।",
-        "body": "वैश्विक लाइफकेयर विशेषज्ञ कंपनी Newon ने 15 तारीख को कहा कि उसके व्यक्तिगत मान्यता प्राप्त कच्चे माल सिसस एक्सट्रैक्ट ने मानव अनुप्रयोग परीक्षण के माध्यम से ग्लूकागन-लाइक पेप्टाइड-1 (GLP-1) के स्राव को बढ़ाने का प्रभाव दिखाया, जो भूख नियंत्रण से जुड़ा हार्मोन है। कंपनी के अनुसार यह सामग्री एक अंतरराष्ट्रीय अकादमिक जर्नल में प्रकाशित हुई है। GLP-1 को भूख नियंत्रण से संबंधित हार्मोन के रूप में जाना जाता है, और Newon ने जोर दिया कि सिसस एक्सट्रैक्ट का संबंधित प्रभाव मानव विषयों पर किए गए परीक्षण में पुष्टि किया गया। यह प्रकाशन इस कच्चे माल के कार्यात्मक शोध परिणामों को बाहरी रूप से बताने का अवसर बनेगा। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Ekstrak Cissus Newon Terbukti Tingkatkan GLP-1 dalam Uji Manusia",
-        "excerpt": "Newon pada tanggal 15 menyatakan bahwa bahan berstatus pengakuan individual, ekstrak Cissus, terbukti meningkatkan sekresi hormon pengatur nafsu makan GLP-1 dalam uji aplikasi manusia.",
-        "body": "Perusahaan lifecare global Newon pada tanggal 15 menyatakan bahwa bahan berstatus pengakuan individual, yaitu ekstrak Cissus, telah dikonfirmasi melalui uji aplikasi manusia memiliki efek meningkatkan sekresi glucagon-like peptide-1 (GLP-1), hormon yang mengatur nafsu makan. Perusahaan menjelaskan bahwa temuan ini telah dimuat di jurnal akademik internasional. GLP-1 dikenal sebagai hormon yang berkaitan dengan pengaturan nafsu makan, dan Newon menekankan bahwa efek terkait ekstrak Cissus dikonfirmasi dalam uji pada manusia. Publikasi ini diperkirakan menjadi momentum untuk memperkenalkan hasil riset fungsional bahan tersebut kepada pihak luar. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "03170674e131",
-    "slug": "mk시그널-차트-인더스트리즈-매도신호-포착-수익률-274-달성-292341",
-    "channelId": "ETF",
-    "category": "etf",
-    "publishedAt": "2026-05-15T01:22:45.450Z",
-    "updatedAt": "2026-05-15T01:22:45.450Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/stock/12048905",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12048905",
-    "titleFingerprint": "49360907145244790fb855ace5f1e8c8b8953cc5",
-    "dedupKeys": [
-      "03170674e131acd77c2d1d3f557902e94e2d69e6",
-      "49360907145244790fb855ace5f1e8c8b8953cc5",
-      "e971a741ecfbd729b854cac982da705709a1f8c1"
-    ],
-    "imageUrl": "/images/articles/03170674e131.png",
-    "i18n": {
-      "ko": {
-        "title": "차트 인더스트리즈 매도신호 포착, MK시그널 수익률 27.42% 기록",
-        "excerpt": "MK시그널은 14일 미국 주식 핫 이슈 종목 차트 인더스트리즈(GTLS)에서 매도 신호가 포착됐고 수익률 27.42%를 달성했다고 전했다.",
-        "body": "AI 기자 ‘MK시그널’은 14일 미국 주식 핫 이슈 종목으로 분석한 차트 인더스트리즈(GTLS)에서 매도 신호가 포착됐다고 밝혔다. 이번 신호에 따르면 해당 종목은 MK시그널 기준 수익률 27.42%를 달성했다. MK시그널은 미국 주식 시장에서 관심이 높은 종목을 분석해 매매 신호와 관련 성과를 전달하는 방식으로 해당 소식을 전했다. 이번 내용은 차트 인더스트리즈에 대한 기존 분석 결과에서 매도 시점이 확인됐다는 점과 수익률 수치가 함께 제시됐다는 점이 핵심이다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Chart Industries Sell Signal Detected as MK Signal Reports 27.42% Return",
-        "excerpt": "MK Signal said on the 14th that a sell signal was detected for U.S. hot-issue stock Chart Industries (GTLS), with the strategy recording a 27.42% return.",
-        "body": "AI reporter “MK Signal” said on the 14th that a sell signal was detected for Chart Industries (GTLS), a U.S. stock it had analyzed as a hot-issue name. According to the signal, the position achieved a 27.42% return under MK Signal’s criteria. MK Signal presents analysis of high-interest U.S. stocks along with trading signals and related performance figures. The key points in this report are that a sell point was identified for Chart Industries and that the return figure was reported together with the signal. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "チャート・インダストリーズに売りシグナル、MKシグナルが27.42%収益率",
-        "excerpt": "MKシグナルは14日、米国株の注目銘柄チャート・インダストリーズ（GTLS）で売りシグナルを確認し、収益率27.42%を達成したと伝えた。",
-        "body": "AI記者「MKシグナル」は14日、米国株の注目銘柄として分析していたチャート・インダストリーズ（GTLS）で売りシグナルが確認されたと明らかにした。今回のシグナルによると、同銘柄はMKシグナル基準で収益率27.42%を達成した。MKシグナルは米国株市場で関心の高い銘柄を分析し、売買シグナルと関連する成果を伝える形で今回の情報を報じた。今回の内容は、チャート・インダストリーズについて売却時点が確認され、収益率の数値もあわせて示された点が中心だ。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "Chart Industries出现卖出信号，MK Signal收益率达27.42%",
-        "excerpt": "MK Signal称，14日其在美国热门股票Chart Industries（GTLS）中捕捉到卖出信号，并实现了27.42%的收益率。",
-        "body": "AI记者“MK Signal”表示，14日其在此前分析的美国热门股票Chart Industries（GTLS）中捕捉到卖出信号。根据该信号，该股票按MK Signal 기준取得了27.42%的收益率。MK Signal以分析美国股市中关注度较高的个股，并提供买卖信号及相关成果的方式发布了这一消息。本次内容的核心在于，Chart Industries的卖出时点已被确认，同时公布了27.42%的收益率数据。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Chart Industries activa señal de venta y MK Signal reporta retorno del 27,42%",
-        "excerpt": "MK Signal informó que el día 14 detectó una señal de venta en Chart Industries (GTLS), acción destacada de EE. UU., con un rendimiento del 27,42%.",
-        "body": "El reportero de IA “MK Signal” informó el día 14 que detectó una señal de venta en Chart Industries (GTLS), una acción estadounidense que había analizado como valor de alto interés. Según la señal, el título alcanzó un rendimiento del 27,42% bajo los criterios de MK Signal. MK Signal comunica análisis de acciones estadounidenses con alta atención del mercado, junto con señales de compraventa y cifras de desempeño relacionadas. El punto central del reporte es que se identificó un momento de venta para Chart Industries y que se presentó junto con el dato de rendimiento. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Chart Industries tem sinal de venda e MK Signal registra retorno de 27,42%",
-        "excerpt": "A MK Signal informou que, no dia 14, detectou um sinal de venda em Chart Industries (GTLS), ação em destaque nos EUA, com retorno de 27,42%.",
-        "body": "O repórter de IA “MK Signal” informou no dia 14 que detectou um sinal de venda em Chart Industries (GTLS), ação dos EUA analisada como um nome de grande interesse. Segundo o sinal, o papel alcançou retorno de 27,42% pelos critérios da MK Signal. A MK Signal divulga análises de ações norte-americanas com alta atenção do mercado, acompanhadas de sinais de compra e venda e números de desempenho relacionados. O ponto principal da notícia é que um momento de venda foi identificado para Chart Industries e que o percentual de retorno foi apresentado junto ao sinal. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Chart Industries mit Verkaufssignal, MK Signal meldet 27,42% Rendite",
-        "excerpt": "MK Signal teilte mit, dass am 14. bei der US-Aktie Chart Industries (GTLS) ein Verkaufssignal erkannt wurde und eine Rendite von 27,42% erzielt wurde.",
-        "body": "Der KI-Reporter „MK Signal“ teilte am 14. mit, dass bei Chart Industries (GTLS), einer als Hot-Issue-Wert analysierten US-Aktie, ein Verkaufssignal erkannt wurde. Nach den Angaben des Signals erzielte der Titel nach MK-Signal-Kriterien eine Rendite von 27,42%. MK Signal berichtet über stark beachtete Aktien am US-Markt und verbindet die Analyse mit Handelssignalen sowie zugehörigen Leistungsdaten. Im Mittelpunkt dieser Meldung stehen der bestätigte Verkaufszeitpunkt bei Chart Industries und die zugleich genannte Renditekennzahl. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Chart Industries déclenche un signal de vente, rendement MK Signal de 27,42%",
-        "excerpt": "MK Signal a indiqué que le 14, un signal de vente avait été détecté sur Chart Industries (GTLS), action américaine suivie, avec un rendement de 27,42%.",
-        "body": "Le reporter IA « MK Signal » a indiqué le 14 qu’un signal de vente avait été détecté sur Chart Industries (GTLS), une action américaine analysée comme valeur très suivie. Selon ce signal, le titre a atteint un rendement de 27,42% selon les critères de MK Signal. MK Signal diffuse des analyses d’actions américaines attirant l’attention du marché, avec des signaux d’achat ou de vente et les chiffres de performance associés. L’élément central de cette information est l’identification d’un point de vente sur Chart Industries, accompagnée du rendement communiqué. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "إشارة بيع على Chart Industries وMK Signal تسجل عائدا 27.42%",
-        "excerpt": "قالت MK Signal في 14 إن إشارة بيع ظهرت على سهم Chart Industries (GTLS)، أحد الأسهم الأميركية محل الاهتمام، مع تحقيق عائد قدره 27.42%.",
-        "body": "قال المراسل المعتمد على الذكاء الاصطناعي “MK Signal” في 14 إن إشارة بيع رُصدت على سهم Chart Industries (GTLS)، الذي جرى تحليله ضمن الأسهم الأميركية ذات الاهتمام المرتفع. ووفقا لهذه الإشارة، حقق السهم عائدا قدره 27.42% وفق معايير MK Signal. وتعرض MK Signal تحليلات لأسهم أميركية تحظى بمتابعة السوق، إلى جانب إشارات التداول وأرقام الأداء المرتبطة بها. وتتمثل النقطة الأساسية في هذا الخبر في تأكيد توقيت البيع على Chart Industries مع عرض نسبة العائد المسجلة. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "Chart Industries में बिक्री संकेत, MK Signal ने 27.42% रिटर्न बताया",
-        "excerpt": "MK Signal ने कहा कि 14 तारीख को अमेरिकी हॉट इश्यू स्टॉक Chart Industries (GTLS) में बिक्री संकेत मिला और 27.42% रिटर्न दर्ज किया गया।",
-        "body": "एआई रिपोर्टर “MK Signal” ने 14 तारीख को बताया कि अमेरिकी शेयरों के हॉट इश्यू नाम के रूप में विश्लेषित Chart Industries (GTLS) में बिक्री संकेत पकड़ा गया। इस संकेत के अनुसार, शेयर ने MK Signal के मानदंडों पर 27.42% रिटर्न हासिल किया। MK Signal अमेरिकी शेयर बाजार में अधिक रुचि पाने वाले शेयरों का विश्लेषण कर खरीद-बिक्री संकेत और उनसे जुड़े प्रदर्शन आंकड़े प्रस्तुत करता है। इस खबर का मुख्य बिंदु यह है कि Chart Industries के लिए बिक्री का समय पहचाना गया और उसके साथ रिटर्न का आंकड़ा भी बताया गया। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Chart Industries Terkena Sinyal Jual, MK Signal Catat Imbal Hasil 27,42%",
-        "excerpt": "MK Signal menyatakan pada tanggal 14 bahwa sinyal jual terdeteksi pada saham AS Chart Industries (GTLS), dengan imbal hasil mencapai 27,42%.",
-        "body": "Reporter AI “MK Signal” menyatakan pada tanggal 14 bahwa sinyal jual terdeteksi pada Chart Industries (GTLS), saham AS yang dianalisis sebagai salah satu nama dengan isu panas. Berdasarkan sinyal tersebut, saham ini mencatat imbal hasil 27,42% menurut kriteria MK Signal. MK Signal menyampaikan analisis atas saham-saham AS yang menarik perhatian pasar, disertai sinyal perdagangan dan angka kinerja terkait. Inti laporan ini adalah teridentifikasinya titik jual pada Chart Industries serta penyajian angka imbal hasil bersama sinyal tersebut. Sumber: mk.co.kr"
       }
     }
   }
