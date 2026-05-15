@@ -1,5 +1,230 @@
 [
   {
+    "id": "1e363e218bff",
+    "slug": "부동산펀드-시동-거는-한앤코-운용-전문가-영입나서-132789",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-05-15T07:36:44.471Z",
+    "updatedAt": "2026-05-15T07:36:44.471Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/stock/12049113",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12049113",
+    "titleFingerprint": "abcae414e1e4360eb0cbc6bbe9c2cf5f4d59569d",
+    "dedupKeys": [
+      "1e363e218bffed753b8045e1f79665ea07368bd1",
+      "abcae414e1e4360eb0cbc6bbe9c2cf5f4d59569d",
+      "06d2c3900cedc1bf8898ede5cd786caf87257bbb"
+    ],
+    "imageUrl": "/images/articles/1e363e218bff.jpg",
+    "i18n": {
+      "ko": {
+        "title": "부동산펀드 시동 거는 한앤컴퍼니, 신설 운용사 에이치캠 전문가 영입 추진",
+        "excerpt": "사모펀드 운용사 한앤컴퍼니가 5월 15일 신설 자산운용 법인 에이치캠을 통해 부동산펀드 사업에 나서며 운용 전문가 영입을 추진하고 있다.",
+        "body": "사모펀드(PEF) 운용사 한앤컴퍼니가 신설 자산운용 법인 에이치캠(HC)을 통해 부동산펀드 사업에 시동을 걸고 운용 전문가 영입에 나섰다. 매일경제 자본시장 전문 유료매체 레이더M은 해당 소식을 5월 15일 14시 18분 보도했다. 이번 움직임은 한앤컴퍼니가 새 운용 법인을 기반으로 부동산펀드 운용 역량을 갖추려는 단계로 해석된다. 구체적인 펀드 규모나 투자 대상은 원문에 공개되지 않았다. 향후 전문가 영입 결과가 에이치캠의 운용 체계 구축과 부동산펀드 출범 속도에 영향을 줄 전망이다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Hahn & Company Moves to Launch Real Estate Fund via New Hcam Platform",
+        "excerpt": "Private equity firm Hahn & Company is preparing a real estate fund push through its newly established asset management unit Hcam, while seeking fund management specialists.",
+        "body": "Private equity fund manager Hahn & Company has begun preparing for a real estate fund business through its newly established asset management entity, Hcam (HC), and is moving to recruit investment management professionals. Maeil Business Newspaper’s capital markets paid outlet RadarM reported the development at 14:18 on May 15. The move indicates that Hahn & Company is working to build real estate fund management capacity around the new platform. The original report did not disclose the specific fund size or investment targets. The outcome of the expert recruitment process is expected to affect how quickly Hcam can establish its operating structure and launch the real estate fund. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "不動産ファンド始動へ、ハンアンドカンパニーが新運用会社Hcamで専門人材採用へ",
+        "excerpt": "PEF運用会社ハンアンドカンパニーは5月15日、新設の資産運用会社Hcamを通じて不動産ファンド事業を進め、運用専門家の採用に乗り出している。",
+        "body": "プライベートエクイティファンド（PEF）運用会社のハンアンドカンパニーは、新設した資産運用法人Hcam（HC）を通じて不動産ファンド事業を始動し、運用専門家の採用に乗り出した。毎日経済新聞の資本市場専門有料媒体「レーダーM」は、この内容を5月15日14時18分に報じた。今回の動きは、ハンアンドカンパニーが新たな運用法人を基盤に不動産ファンドの運用能力を整えようとする段階と受け止められる。具体的なファンド規模や投資対象は原文では明らかにされていない。今後の人材採用の結果は、Hcamの運用体制構築と不動産ファンド開始の速度に影響するとみられる。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "韩安公司启动房地产基金布局，借新设资管平台Hcam招募运营专家",
+        "excerpt": "私募股权基金管理公司韩安公司5月15日通过新设资产管理法人Hcam推进房地产基金业务，并开始招募基金运营专业人才。",
+        "body": "私募股权基金（PEF）管理公司韩安公司正通过新设资产管理法人Hcam（HC）启动房地产基金业务，并着手招募运营专业人才。每日经济新闻资本市场专业付费媒体RadarM于5月15日14时18分报道了这一消息。此举显示，韩安公司正以新资产管理法人为基础，准备建立房地产基金运营能力。原文未披露具体基金规模或投资标的。未来专业人才招募结果，将影响Hcam运营体系建设以及房地产基金推出的进度。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Hahn & Company activa su fondo inmobiliario con Hcam y busca expertos de gestión",
+        "excerpt": "La gestora de capital privado Hahn & Company avanza el 15 de mayo en su negocio de fondos inmobiliarios mediante la nueva firma Hcam y busca especialistas en gestión.",
+        "body": "La gestora de fondos de capital privado (PEF) Hahn & Company comenzó a poner en marcha un negocio de fondos inmobiliarios a través de su nueva sociedad de gestión de activos, Hcam (HC), y está buscando incorporar profesionales de gestión. El medio de pago especializado en mercados de capitales RadarM, de Maeil Business Newspaper, informó la noticia el 15 de mayo a las 14:18. El movimiento muestra que Hahn & Company intenta dotar a la nueva plataforma de capacidad para gestionar fondos inmobiliarios. El reporte original no reveló el tamaño del fondo ni los activos objetivo. El resultado de la contratación influirá en la construcción del sistema operativo de Hcam y en el ritmo de lanzamiento del fondo inmobiliario. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Hahn & Company prepara fundo imobiliário via Hcam e busca especialistas de gestão",
+        "excerpt": "A gestora de private equity Hahn & Company avança em 15 de maio com um fundo imobiliário por meio da nova Hcam e procura profissionais de gestão de ativos.",
+        "body": "A gestora de fundos de private equity (PEF) Hahn & Company iniciou os preparativos para um negócio de fundos imobiliários por meio de sua nova empresa de gestão de ativos, Hcam (HC), e passou a buscar profissionais especializados em gestão. O RadarM, veículo pago da Maeil Business Newspaper dedicado ao mercado de capitais, publicou a notícia em 15 de maio, às 14h18. O movimento indica que a Hahn & Company pretende construir capacidade de gestão de fundos imobiliários com base na nova plataforma. O texto original não informou o tamanho do fundo nem os ativos de investimento. O resultado da contratação deve influenciar a estrutura operacional da Hcam e a velocidade de lançamento do fundo imobiliário. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Hahn & Company startet Immobilienfonds-Pläne mit Hcam und sucht Managementprofis",
+        "excerpt": "Der Private-Equity-Manager Hahn & Company treibt am 15. Mai über die neue Asset-Management-Gesellschaft Hcam ein Immobilienfondsprojekt voran und sucht Fachkräfte.",
+        "body": "Der Private-Equity-Fondsmanager Hahn & Company bereitet über seine neu gegründete Asset-Management-Gesellschaft Hcam (HC) ein Immobilienfondsgeschäft vor und hat mit der Suche nach Managementexperten begonnen. RadarM, das kostenpflichtige Kapitalmarktmedium der Maeil Business Newspaper, berichtete darüber am 15. Mai um 14:18 Uhr. Der Schritt deutet darauf hin, dass Hahn & Company über die neue Plattform Kompetenzen für die Verwaltung von Immobilienfonds aufbauen will. Der ursprüngliche Bericht nannte keine konkrete Fondsgröße und keine Anlageziele. Das Ergebnis der Expertensuche dürfte beeinflussen, wie schnell Hcam seine Verwaltungsstruktur aufbaut und den Immobilienfonds startet. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Hahn & Company lance son projet de fonds immobilier via Hcam et recrute des experts",
+        "excerpt": "La société de private equity Hahn & Company avance le 15 mai sur un fonds immobilier via sa nouvelle entité Hcam et cherche des spécialistes de la gestion.",
+        "body": "La société de gestion de fonds de private equity (PEF) Hahn & Company commence à préparer une activité de fonds immobiliers via sa nouvelle entité de gestion d’actifs, Hcam (HC), et cherche à recruter des professionnels de la gestion. RadarM, média payant de Maeil Business Newspaper spécialisé dans les marchés de capitaux, a rapporté l’information le 15 mai à 14h18. Cette initiative montre que Hahn & Company veut bâtir des capacités de gestion de fonds immobiliers autour de cette nouvelle plateforme. Le rapport original ne précise ni la taille du fonds ni les cibles d’investissement. Le résultat du recrutement devrait peser sur la mise en place du dispositif opérationnel de Hcam et sur le calendrier de lancement du fonds immobilier. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "هان آند كومباني تمهد لصندوق عقاري عبر Hcam وتبدأ استقطاب خبراء إدارة",
+        "excerpt": "تتحرك شركة هان آند كومباني لإدارة صناديق الملكية الخاصة في 15 مايو نحو نشاط الصناديق العقارية عبر كيان Hcam الجديد، مع السعي لتوظيف خبراء إدارة.",
+        "body": "بدأت شركة هان آند كومباني، وهي مدير لصناديق الملكية الخاصة، التحرك لإطلاق نشاط في الصناديق العقارية عبر كيان إدارة الأصول الجديد Hcam (HC)، وشرعت في البحث عن متخصصين في الإدارة. ونقلت RadarM، وهي وسيلة مدفوعة متخصصة في أسواق رأس المال تابعة لصحيفة Maeil Business Newspaper، الخبر في 15 مايو الساعة 14:18. تعكس الخطوة سعي هان آند كومباني إلى بناء قدرات لإدارة الصناديق العقارية من خلال المنصة الجديدة. ولم يكشف النص الأصلي عن حجم الصندوق أو أهداف الاستثمار المحددة. ومن المتوقع أن تؤثر نتائج استقطاب الخبراء في بناء هيكل إدارة Hcam وسرعة إطلاق الصندوق العقاري. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "Hcam के जरिए रियल एस्टेट फंड की तैयारी में Hahn & Company, विशेषज्ञों की भर्ती शुरू",
+        "excerpt": "प्राइवेट इक्विटी फंड मैनेजर Hahn & Company ने 15 मई को नई एसेट मैनेजमेंट इकाई Hcam के जरिए रियल एस्टेट फंड कारोबार की तैयारी और विशेषज्ञ भर्ती शुरू की।",
+        "body": "प्राइवेट इक्विटी फंड (PEF) मैनेजर Hahn & Company ने अपनी नई एसेट मैनेजमेंट इकाई Hcam (HC) के जरिए रियल एस्टेट फंड कारोबार शुरू करने की दिशा में कदम बढ़ाया है और प्रबंधन विशेषज्ञों की भर्ती पर काम शुरू किया है। Maeil Business Newspaper के पूंजी बाजार केंद्रित पेड मीडिया RadarM ने यह खबर 15 मई को 14:18 बजे प्रकाशित की। यह कदम बताता है कि Hahn & Company नई इकाई के आधार पर रियल एस्टेट फंड प्रबंधन क्षमता बनाना चाहती है। मूल रिपोर्ट में फंड का आकार या निवेश लक्ष्य नहीं बताया गया। विशेषज्ञ भर्ती का परिणाम Hcam की परिचालन संरचना और रियल एस्टेट फंड लॉन्च की गति को प्रभावित कर सकता है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Hahn & Company Siapkan Dana Properti Lewat Hcam dan Rekrut Ahli Manajemen",
+        "excerpt": "Manajer private equity Hahn & Company pada 15 Mei menyiapkan bisnis dana properti melalui entitas manajemen aset baru Hcam sambil mencari tenaga ahli pengelolaan.",
+        "body": "Manajer dana private equity (PEF) Hahn & Company mulai menyiapkan bisnis dana properti melalui perusahaan manajemen aset baru, Hcam (HC), dan bergerak merekrut profesional pengelolaan. RadarM, media berbayar khusus pasar modal milik Maeil Business Newspaper, melaporkan kabar tersebut pada 15 Mei pukul 14:18. Langkah ini menunjukkan Hahn & Company sedang membangun kemampuan pengelolaan dana properti berbasis platform baru tersebut. Laporan asli tidak mengungkap ukuran dana maupun target investasi. Hasil rekrutmen ahli diperkirakan akan memengaruhi pembentukan sistem operasional Hcam dan kecepatan peluncuran dana properti. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "7bb311ce50c8",
+    "slug": "속보-코스피-8천피-찍고-급변침61-급락한-7493-마감-567259",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-05-15T07:35:46.992Z",
+    "updatedAt": "2026-05-15T07:35:46.992Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/stock/12049176",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12049176",
+    "titleFingerprint": "ca87df193d11e05af3e51b0158f2fb0a3514b28e",
+    "dedupKeys": [
+      "7bb311ce50c89d89284421e7cb2576bf4e89d4eb",
+      "ca87df193d11e05af3e51b0158f2fb0a3514b28e",
+      "6acb4174445516b735a1856c22c1a6f2d8a40c5c"
+    ],
+    "imageUrl": "/images/articles/7bb311ce50c8.jpg",
+    "i18n": {
+      "ko": {
+        "title": "코스피 8000선 돌파 후 급락, 6.12% 내린 7493 마감",
+        "excerpt": "코스피가 15일 장 초반 8000선을 넘으며 ‘꿈의 8000피’를 기록했지만 이후 급락해 전일 대비 488.23포인트, 6.12% 하락한 7493선에서 마감했다.",
+        "body": "코스피가 15일 장 초반 8000선을 넘어서며 ‘꿈의 8000피’를 돌파했지만, 이후 급격히 하락 전환해 7400선에서 거래를 마쳤다. 이날 코스피는 전일 대비 488.23포인트, 6.12% 내린 7493에 마감했다. 장 초반에는 8000선 돌파로 시장의 이목이 집중됐으나, 이후 낙폭이 커지며 상승분을 모두 반납했다. 하루 변동 폭이 크게 확대되면서 투자자들은 지수 흐름과 단기 변동성에 주목하게 됐다. 이번 움직임은 8000선 돌파 이후 급락 마감이라는 점에서 국내 증시의 변동성을 부각했다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "KOSPI Falls 6.12% to 7,493 After Briefly Breaking 8,000",
+        "excerpt": "The KOSPI topped the 8,000 mark early on the 15th, reaching the so-called dream level, but then plunged to close down 488.23 points, or 6.12%, at 7,493.",
+        "body": "The KOSPI briefly climbed above 8,000 in early trading on the 15th, breaking the so-called dream 8,000 level, but then reversed sharply and ended in the 7,400 range. The index closed at 7,493, down 488.23 points, or 6.12%, from the previous session. The early move above 8,000 drew market attention, but the index later widened its losses and gave back the gains. With the day’s trading range expanding sharply, investors focused on the index’s direction and short-term volatility. The move highlighted volatility in South Korea’s stock market after the brief 8,000-point breakout. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "KOSPI、8000突破後に急落 6.12%安の7493で終了",
+        "excerpt": "KOSPIは15日序盤に8000を超え「夢の8000」を記録したが、その後急落し、前日比488.23ポイント、6.12%安の7493で取引を終えた。",
+        "body": "KOSPIは15日の取引序盤に8000を上回り、「夢の8000」を突破したものの、その後急激に下落へ転じ、7400台で取引を終えた。この日のKOSPIは前日比488.23ポイント、6.12%安の7493で引けた。序盤の8000突破で市場の注目を集めたが、その後は下げ幅が拡大し、上昇分をすべて失った。一日の変動幅が大きく広がったことで、投資家は指数の流れと短期的な変動性に注目した。今回の動きは、8000突破後に急落して終了した点で韓国株式市場の変動性を浮き彫りにした。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "KOSPI突破8000点后急跌，收于7493点下挫6.12%",
+        "excerpt": "KOSPI在15日早盘一度突破8000点，触及所谓“梦想8000点”，但随后急跌，较前一交易日下跌488.23点、跌幅6.12%，收于7493点。",
+        "body": "KOSPI在15日早盘突破8000点，站上所谓“梦想8000点”，但随后迅速转为下跌，并在7400点区间收盘。当天KOSPI较前一交易日下跌488.23点，跌幅6.12%，收于7493点。早盘突破8000点曾吸引市场关注，但之后跌幅扩大，回吐全部涨幅。随着单日波动幅度明显放大，投资者开始关注指数走势和短期波动性。此次走势的特点在于突破8000点后急跌收盘，凸显了韩国股市的波动性。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "KOSPI cae 6,12% y cierra en 7.493 tras superar los 8.000",
+        "excerpt": "El KOSPI superó al inicio del día 15 la marca de 8.000 puntos, el llamado nivel soñado, pero luego se desplomó y cerró en 7.493, con una caída de 488,23 puntos o 6,12%.",
+        "body": "El KOSPI superó los 8.000 puntos en las primeras operaciones del día 15, alcanzando el llamado nivel soñado de 8.000, pero después giró bruscamente a la baja y terminó en la zona de 7.400. El índice cerró en 7.493, con una caída de 488,23 puntos, o 6,12%, frente a la sesión anterior. La ruptura inicial de los 8.000 puntos atrajo la atención del mercado, pero luego las pérdidas se ampliaron y el avance se evaporó. Con una fuerte ampliación del rango diario, los inversores siguieron de cerca la dirección del índice y la volatilidad de corto plazo. El movimiento subrayó la volatilidad del mercado bursátil surcoreano tras superar brevemente los 8.000 puntos. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "KOSPI cai 6,12% e fecha em 7.493 após romper 8.000 pontos",
+        "excerpt": "O KOSPI superou os 8.000 pontos no início do pregão do dia 15, atingindo o chamado nível dos sonhos, mas depois despencou e fechou em 7.493, queda de 488,23 pontos ou 6,12%.",
+        "body": "O KOSPI passou dos 8.000 pontos no início das negociações do dia 15, rompendo o chamado patamar dos sonhos de 8.000, mas depois virou bruscamente para queda e encerrou na faixa dos 7.400. O índice fechou em 7.493, baixa de 488,23 pontos, ou 6,12%, em relação ao pregão anterior. A superação inicial dos 8.000 pontos chamou a atenção do mercado, mas as perdas aumentaram em seguida e os ganhos foram totalmente devolvidos. Com a forte ampliação da oscilação diária, investidores passaram a observar o rumo do índice e a volatilidade de curto prazo. O movimento destacou a volatilidade da bolsa sul-coreana após o breve rompimento dos 8.000 pontos. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "KOSPI fällt nach Sprung über 8.000 um 6,12% auf 7.493",
+        "excerpt": "Der KOSPI überschritt am 15. zu Handelsbeginn die Marke von 8.000 Punkten, fiel danach jedoch stark und schloss 488,23 Punkte beziehungsweise 6,12% tiefer bei 7.493.",
+        "body": "Der KOSPI stieg am 15. im frühen Handel über 8.000 Punkte und erreichte damit die sogenannte Traum-Marke von 8.000, drehte danach jedoch abrupt nach unten und beendete den Handel im Bereich von 7.400 Punkten. Der Index schloss bei 7.493, ein Minus von 488,23 Punkten oder 6,12% gegenüber dem Vortag. Der frühe Sprung über 8.000 zog die Aufmerksamkeit des Marktes auf sich, doch anschließend weiteten sich die Verluste aus und die Gewinne wurden vollständig abgegeben. Da die Tagesschwankung deutlich zunahm, richteten Anleger den Blick auf die Indexentwicklung und die kurzfristige Volatilität. Die Bewegung verdeutlichte die Volatilität des südkoreanischen Aktienmarkts nach dem kurzen Ausbruch über 8.000 Punkte. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Le KOSPI chute de 6,12% à 7 493 après avoir dépassé 8 000",
+        "excerpt": "Le KOSPI a franchi les 8 000 points en début de séance le 15, atteignant le niveau dit rêvé, avant de plonger et de clôturer à 7 493, en baisse de 488,23 points ou 6,12%.",
+        "body": "Le KOSPI a dépassé les 8 000 points au début de la séance du 15, franchissant le seuil dit rêvé des 8 000, mais il s’est ensuite retourné brusquement à la baisse pour terminer dans la zone des 7 400 points. L’indice a clôturé à 7 493, en recul de 488,23 points, soit 6,12%, par rapport à la veille. Le franchissement initial des 8 000 points a attiré l’attention du marché, mais les pertes se sont ensuite creusées et les gains ont été entièrement effacés. Avec l’élargissement marqué de l’amplitude quotidienne, les investisseurs ont suivi de près la trajectoire de l’indice et la volatilité à court terme. Ce mouvement a mis en évidence la volatilité du marché actions sud-coréen après le bref passage au-dessus de 8 000 points. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "كوسبي يهبط 6.12% إلى 7493 بعد اختراقه مستوى 8000",
+        "excerpt": "تجاوز مؤشر كوسبي في بداية تداولات يوم 15 مستوى 8000 نقطة، المعروف بالمستوى الحلم، لكنه تراجع لاحقا بقوة ليغلق عند 7493 منخفضا 488.23 نقطة أو 6.12%.",
+        "body": "تجاوز مؤشر كوسبي في التعاملات المبكرة يوم 15 مستوى 8000 نقطة، مخترقا ما يعرف بمستوى 8000 الحلم، لكنه تحول لاحقا إلى هبوط حاد وأنهى التداول في نطاق 7400 نقطة. وأغلق المؤشر عند 7493 نقطة، منخفضا 488.23 نقطة، أو 6.12%، مقارنة بالجلسة السابقة. وجذب اختراق مستوى 8000 في بداية الجلسة انتباه السوق، لكن الخسائر اتسعت لاحقا وتلاشت المكاسب بالكامل. ومع اتساع نطاق التذبذب اليومي بشكل كبير، ركز المستثمرون على اتجاه المؤشر والتقلبات قصيرة الأجل. وأبرزت هذه الحركة تقلبات سوق الأسهم الكورية الجنوبية بعد الاختراق القصير لمستوى 8000 نقطة. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "KOSPI 8000 पार करने के बाद 6.12% गिरकर 7493 पर बंद",
+        "excerpt": "KOSPI ने 15 तारीख को शुरुआती कारोबार में 8000 का तथाकथित सपनों वाला स्तर पार किया, लेकिन बाद में तेज गिरावट के साथ 488.23 अंक या 6.12% टूटकर 7493 पर बंद हुआ।",
+        "body": "KOSPI ने 15 तारीख को शुरुआती कारोबार में 8000 अंक का स्तर पार किया और तथाकथित सपनों के 8000 स्तर को छुआ, लेकिन इसके बाद सूचकांक तेजी से गिरावट की ओर मुड़ गया और 7400 के दायरे में बंद हुआ। 이날 सूचकांक पिछले सत्र की तुलना में 488.23 अंक, यानी 6.12%, गिरकर 7493 पर बंद हुआ। शुरुआती कारोबार में 8000 के पार जाने से बाजार का ध्यान इस पर केंद्रित हुआ, लेकिन बाद में गिरावट बढ़ी और सारी बढ़त मिट गई। एक दिन की चाल में बड़ा उतार-चढ़ाव दिखने से निवेशकों का ध्यान सूचकांक की दिशा और अल्पकालिक अस्थिरता पर गया। यह चाल 8000 पार करने के बाद तेज गिरावट के साथ बंद होने के कारण दक्षिण कोरियाई शेयर बाजार की अस्थिरता को रेखांकित करती है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "KOSPI Anjlok 6,12% ke 7.493 Usai Sempat Tembus 8.000",
+        "excerpt": "KOSPI pada awal perdagangan tanggal 15 sempat menembus level 8.000 yang disebut level impian, tetapi kemudian anjlok dan ditutup di 7.493, turun 488,23 poin atau 6,12%.",
+        "body": "KOSPI pada awal perdagangan tanggal 15 sempat naik melewati 8.000, menembus level yang disebut sebagai 8.000 impian, tetapi kemudian berbalik turun tajam dan mengakhiri perdagangan di kisaran 7.400. Indeks ditutup di 7.493, melemah 488,23 poin, atau 6,12%, dibandingkan sesi sebelumnya. Tembusnya level 8.000 pada awal sesi menarik perhatian pasar, namun setelah itu penurunan melebar dan seluruh kenaikan terhapus. Dengan rentang pergerakan harian yang membesar, investor mencermati arah indeks dan volatilitas jangka pendek. Pergerakan ini menonjolkan volatilitas pasar saham Korea Selatan setelah indeks sempat menembus 8.000. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "673ab0234993",
+    "slug": "동인기연-1분기-매출-620억원영업이익-104-691009",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-05-15T07:34:47.908Z",
+    "updatedAt": "2026-05-15T07:34:47.908Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/economy/12049244",
+    "canonicalUrl": "https://www.mk.co.kr/news/economy/12049244",
+    "titleFingerprint": "659a7cad9d9408f88e4351baffe5f0125567079a",
+    "dedupKeys": [
+      "673ab0234993d4b5781cebf5904a5f525a9784ac",
+      "659a7cad9d9408f88e4351baffe5f0125567079a",
+      "4f5cc8887fb3ce2a7967274a39349ba72c2bbf91"
+    ],
+    "imageUrl": "/images/articles/673ab0234993.jpg",
+    "i18n": {
+      "ko": {
+        "title": "동인기연 1분기 매출 620억원, 역대 최대 매출과 영업이익률 10.4% 기록",
+        "excerpt": "아웃도어 장비 제조기업 동인기연은 15일 올해 1분기 매출 620억원을 기록해 1분기 기준 역대 최대 실적을 냈고, 중국 시장 회복으로 영업이익이 54% 증가했다고 밝혔다.",
+        "body": "아웃도어 장비 제조 전문기업 동인기연이 올해 1분기 매출액 620억원을 기록하며 1분기 기준 역대 최대 매출을 달성했다. 동인기연은 15일 이 같은 실적을 공개하고, 영업이익률은 10.4%를 기록했다고 밝혔다. 원문에 따르면 이번 실적은 중국 시장 회복이 반영된 결과로, 영업이익은 전년 대비 54% 증가했다. 1분기 매출액 기준으로 최고치를 새로 쓴 점은 동인기연의 수익성 개선 흐름을 보여주는 지표로 해석된다. 다만 향후 실적 전망이나 추가 사업 계획에 대한 구체적 내용은 원문에 제시되지 않았다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Dong In Entech posts Q1 revenue of 62 billion won, operating margin at 10.4%",
+        "excerpt": "Outdoor equipment maker Dong In Entech said on the 15th that first-quarter revenue reached 62 billion won, a record for any Q1, as operating profit rose 54% on China market recovery.",
+        "body": "Dong In Entech, a company specializing in outdoor equipment manufacturing, recorded first-quarter revenue of 62 billion won this year, marking its highest-ever revenue for a first quarter. The company disclosed the results on the 15th and said its operating profit margin reached 10.4%. According to the original report, the results reflected a recovery in the Chinese market, with operating profit increasing 54% from a year earlier. The record first-quarter revenue indicates an improvement in Dong In Entech’s profitability. The original article did not provide specific details on future earnings guidance or additional business plans. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "東仁技研、第1四半期売上高620億ウォンで過去最高 営業利益率10.4%",
+        "excerpt": "アウトドア装備メーカーの東仁技研は15日、今年第1四半期の売上高が620億ウォンとなり、第1四半期として過去最高を記録し、中国市場の回復で営業利益が54%増加したと明らかにした。",
+        "body": "アウトドア装備製造を専門とする東仁技研は、今年第1四半期の売上高が620億ウォンとなり、第1四半期として過去最高の売上を達成した。東仁技研は15日、この業績を公表し、営業利益率は10.4%を記録したと明らかにした。原文によると、今回の業績には中国市場の回復が反映され、営業利益は前年同期比で54%増加した。第1四半期の売上高として最高値を更新したことは、同社の収益性改善の流れを示す指標と受け止められる。ただし、今後の業績見通しや追加の事業計画に関する具体的な内容は原文では示されていない。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "东仁技研一季度营收620亿韩元创新高，营业利润率达10.4%",
+        "excerpt": "户外装备制造企业东仁技研15日表示，今年一季度营收达到620亿韩元，创一季度历史新高，并因中国市场复苏推动营业利润增长54%。",
+        "body": "专注于户外装备制造的东仁技研今年第一季度实现营收620亿韩元，创下公司一季度营收历史新高。东仁技研于15日公布上述业绩，并表示营业利润率为10.4%。据原文报道，此次业绩反映了中国市场的复苏，营业利润同比增长54%。一季度营收刷新最高纪录，显示出东仁技研盈利能力改善的趋势。不过，原文未披露关于未来业绩展望或新增业务计划的具体内容。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Dong In Entech logra ingresos récord de 62.000 millones de wones en el primer trimestre",
+        "excerpt": "El fabricante de equipos outdoor Dong In Entech informó el día 15 que sus ingresos del primer trimestre fueron de 62.000 millones de wones, récord para ese periodo, con un alza del 54% en beneficio operativo por la recuperación en China.",
+        "body": "Dong In Entech, empresa especializada en la fabricación de equipos para actividades al aire libre, registró en el primer trimestre de este año ingresos de 62.000 millones de wones, la cifra más alta de su historia para un primer trimestre. La compañía informó estos resultados el día 15 y señaló que el margen de beneficio operativo fue del 10,4%. Según el texto original, el desempeño reflejó la recuperación del mercado chino, mientras que el beneficio operativo aumentó un 54% interanual. El nuevo máximo de ingresos trimestrales muestra una mejora en la rentabilidad de Dong In Entech. El artículo original no incluyó detalles concretos sobre previsiones futuras ni nuevos planes de negocio. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Dong In Entech atinge receita recorde de 62 bilhões de won no 1º trimestre",
+        "excerpt": "A fabricante de equipamentos outdoor Dong In Entech informou no dia 15 que registrou receita de 62 bilhões de won no primeiro trimestre, recorde para o período, com lucro operacional 54% maior graças à recuperação na China.",
+        "body": "A Dong In Entech, empresa especializada na fabricação de equipamentos para atividades ao ar livre, registrou receita de 62 bilhões de won no primeiro trimestre deste ano, o maior valor já alcançado pela companhia em um primeiro trimestre. A empresa divulgou os resultados no dia 15 e informou que a margem de lucro operacional foi de 10,4%. Segundo o texto original, o desempenho refletiu a recuperação do mercado chinês, com aumento de 54% no lucro operacional em relação ao ano anterior. O recorde de receita no primeiro trimestre indica melhora na rentabilidade da Dong In Entech. O artigo original não apresentou detalhes específicos sobre projeções futuras ou novos planos de negócios. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Dong In Entech erzielt im ersten Quartal Rekordumsatz von 62 Mrd. Won",
+        "excerpt": "Der Outdoor-Ausrüster Dong In Entech teilte am 15. mit, dass der Umsatz im ersten Quartal 62 Mrd. Won erreichte, ein Rekord für diesen Zeitraum, während der Betriebsgewinn dank der Erholung in China um 54% stieg.",
+        "body": "Dong In Entech, ein auf die Herstellung von Outdoor-Ausrüstung spezialisiertes Unternehmen, erzielte im ersten Quartal dieses Jahres einen Umsatz von 62 Mrd. Won und damit den höchsten jemals in einem ersten Quartal erreichten Wert. Das Unternehmen veröffentlichte die Zahlen am 15. und erklärte, die operative Marge habe 10,4% betragen. Laut dem Originalbericht spiegelte das Ergebnis die Erholung des chinesischen Marktes wider; der Betriebsgewinn stieg im Jahresvergleich um 54%. Der neue Umsatzrekord im ersten Quartal deutet auf eine verbesserte Profitabilität von Dong In Entech hin. Konkrete Angaben zu künftigen Ergebnisprognosen oder zusätzlichen Geschäftsplänen wurden im Original nicht genannt. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Dong In Entech signe un chiffre d’affaires record de 62 milliards de wons au T1",
+        "excerpt": "Le fabricant d’équipements outdoor Dong In Entech a annoncé le 15 que son chiffre d’affaires du premier trimestre avait atteint 62 milliards de wons, un record pour cette période, avec un bénéfice d’exploitation en hausse de 54% grâce à la reprise en Chine.",
+        "body": "Dong In Entech, spécialiste de la fabrication d’équipements outdoor, a enregistré au premier trimestre de cette année un chiffre d’affaires de 62 milliards de wons, son plus haut niveau jamais atteint pour un premier trimestre. L’entreprise a publié ces résultats le 15 et indiqué que sa marge d’exploitation s’établissait à 10,4%. Selon le texte original, cette performance reflète la reprise du marché chinois, tandis que le bénéfice d’exploitation a progressé de 54% sur un an. Ce record de chiffre d’affaires au premier trimestre montre une amélioration de la rentabilité de Dong In Entech. L’article original ne donne pas de précisions sur les perspectives de résultats ou de nouveaux projets commerciaux. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "دونغ إن إنتك تسجل إيرادات قياسية بـ62 مليار وون في الربع الأول وهامش 10.4%",
+        "excerpt": "قالت شركة دونغ إن إنتك المصنعة لمعدات الهواء الطلق في 15 من الشهر إن إيرادات الربع الأول بلغت 62 مليار وون، وهو رقم قياسي للفترة، مع ارتفاع الأرباح التشغيلية 54% بدعم تعافي السوق الصينية.",
+        "body": "سجلت شركة دونغ إن إنتك، المتخصصة في تصنيع معدات الأنشطة الخارجية، إيرادات بلغت 62 مليار وون في الربع الأول من هذا العام، محققة أعلى إيرادات لها على الإطلاق خلال ربع أول. وأعلنت الشركة هذه النتائج في 15 من الشهر، موضحة أن هامش الربح التشغيلي بلغ 10.4%. ووفق النص الأصلي، عكست هذه النتائج تعافي السوق الصينية، إذ ارتفع الربح التشغيلي بنسبة 54% مقارنة بالعام السابق. ويشير تسجيل مستوى قياسي لإيرادات الربع الأول إلى تحسن ربحية دونغ إن إنتك. ولم يتضمن النص الأصلي تفاصيل محددة بشأن توقعات الأداء المقبلة أو خطط أعمال إضافية. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "Dong In Entech की पहली तिमाही आय 62 अरब वॉन, ऑपरेटिंग मार्जिन 10.4%",
+        "excerpt": "आउटडोर उपकरण निर्माता Dong In Entech ने 15 तारीख को बताया कि पहली तिमाही की आय 62 अरब वॉन रही, जो इस अवधि का रिकॉर्ड है, जबकि चीन बाजार की रिकवरी से ऑपरेटिंग प्रॉफिट 54% बढ़ा।",
+        "body": "आउटडोर उपकरण निर्माण में विशेषज्ञ Dong In Entech ने इस वर्ष पहली तिमाही में 62 अरब वॉन की आय दर्ज की, जो किसी भी पहली तिमाही के लिए कंपनी का अब तक का सबसे बड़ा आंकड़ा है। कंपनी ने 15 तारीख को ये नतीजे जारी किए और बताया कि ऑपरेटिंग प्रॉफिट मार्जिन 10.4% रहा। मूल रिपोर्ट के अनुसार, इस प्रदर्शन में चीन बाजार की रिकवरी का असर दिखा और ऑपरेटिंग प्रॉफिट पिछले वर्ष की तुलना में 54% बढ़ा। पहली तिमाही की आय का नया रिकॉर्ड Dong In Entech की लाभप्रदता में सुधार का संकेत देता है। हालांकि मूल लेख में भविष्य की आय संबंधी अनुमान या अतिरिक्त व्यावसायिक योजनाओं का विशिष्ट विवरण नहीं दिया गया। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Dong In Entech catat pendapatan kuartal I 62 miliar won, margin operasi 10,4%",
+        "excerpt": "Produsen perlengkapan outdoor Dong In Entech pada tanggal 15 menyatakan pendapatan kuartal I mencapai 62 miliar won, rekor untuk periode tersebut, dengan laba operasi naik 54% berkat pemulihan pasar China.",
+        "body": "Dong In Entech, perusahaan yang bergerak dalam manufaktur perlengkapan outdoor, mencatat pendapatan kuartal pertama tahun ini sebesar 62 miliar won, menjadi pendapatan tertinggi perusahaan untuk periode kuartal pertama. Perusahaan mengumumkan kinerja tersebut pada tanggal 15 dan menyebut margin laba operasi mencapai 10,4%. Menurut teks asli, hasil ini mencerminkan pemulihan pasar China, dengan laba operasi meningkat 54% dibanding tahun sebelumnya. Rekor pendapatan kuartal pertama tersebut menunjukkan perbaikan profitabilitas Dong In Entech. Artikel asli tidak memuat rincian khusus mengenai prospek kinerja ke depan atau rencana bisnis tambahan. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
     "id": "9d0bd0d7f760",
     "slug": "금융위-조각투자증권-묶음-발행-허용한다-855445",
     "channelId": "ETF",
@@ -4271,231 +4496,6 @@
         "title": "Cisco Naik 18% Usai Pangkas 5% Karyawan dan Tegaskan Fokus AI",
         "excerpt": "Cisco, perusahaan peralatan jaringan AS, memangkas sekitar 4.000 karyawan atau 5% stafnya dan memberi sinyal peralihan ke AI, membuat sahamnya melonjak 18% di perdagangan setelah jam bursa.",
         "body": "Cisco, perusahaan peralatan jaringan asal Amerika Serikat, melakukan pemangkasan besar sekitar 4.000 karyawan, setara 5% dari jumlah stafnya, dan menyampaikan kepada pasar niat untuk beralih menjadi perusahaan yang berpusat pada kecerdasan buatan (AI). Perusahaan menunjukkan arah untuk mengurangi struktur tenaga kerja lama dan merebut permintaan AI yang berkembang pesat. Langkah ini dipandang sebagai upaya Cisco, pemain kuat di peralatan jaringan, untuk memusatkan sumber daya pada peluang pertumbuhan terkait AI. Ketika skala pemangkasan dan strategi berfokus AI menjadi sorotan, sahamnya melonjak 18% dalam perdagangan setelah jam bursa. Pasar ke depan akan mencermati apakah penataan ulang tenaga kerja ini membantu Cisco merespons permintaan AI dan memperbaiki kinerja. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "0639f9382781",
-    "slug": "삼양식품-역대-최대-분기-실적-달성에-급등장-초반-13대-쑥-978851",
-    "channelId": "ETF",
-    "category": "etf",
-    "publishedAt": "2026-05-14T15:59:35.266Z",
-    "updatedAt": "2026-05-14T15:59:35.266Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/stock/12047267",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12047267",
-    "titleFingerprint": "9868a8b19799ca54568e0fe06891bfd0514b8190",
-    "dedupKeys": [
-      "0639f9382781b02c123e3d0b7260d6f857ed0705",
-      "9868a8b19799ca54568e0fe06891bfd0514b8190",
-      "ce1a1cfc7aaed9cc2c77ffa7c44369400382882b"
-    ],
-    "imageUrl": "/images/articles/0639f9382781.png",
-    "i18n": {
-      "ko": {
-        "title": "삼양식품 주가 급등, 역대 최대 1분기 실적 발표에 장 초반 강세",
-        "excerpt": "삼양식품이 14일 역대 최대 1분기 실적을 공개한 뒤 장 초반 주가가 급등했다. 오전 9시 25분 현재 전일 대비 7.64% 오른 139만4000원에 거래됐다.",
-        "body": "삼양식품이 역대 최대 1분기 실적을 공개한 14일 장 초반 주가가 급등했다. 이날 오전 9시 25분 현재 삼양식품은 전일 대비 9만9000원, 7.64% 오른 139만4000원에 거래됐다. 원문 제목에 따르면 장 초반 상승률은 한때 13%대까지 확대된 것으로 전해졌다. 이번 주가 강세는 회사가 분기 기준 사상 최대 실적을 발표한 데 따른 투자자 반응으로 풀이된다. 실적 개선 소식이 매수세를 자극하면서 거래 초반 주가 흐름에 영향을 준 모습이다. 향후 주가 흐름은 공개된 1분기 실적에 대한 시장 평가와 추가 수급에 따라 달라질 수 있다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Samyang Foods shares jump after record first-quarter earnings",
-        "excerpt": "Samyang Foods surged in early trading on May 14 after reporting its largest-ever first-quarter results, trading at 1,394,000 won, up 7.64%, as of 9:25 a.m.",
-        "body": "Samyang Foods’ share price rose sharply in early trading on May 14 after the company disclosed its highest-ever first-quarter results. As of 9:25 a.m., the stock was trading at 1,394,000 won, up 99,000 won, or 7.64%, from the previous session. According to the original headline, the early-session gain had at one point expanded into the 13% range. The move reflects investor reaction to the company’s announcement of record quarterly performance. The earnings news appeared to support buying interest and influence the stock’s early trading pattern. Further movement may depend on market assessment of the disclosed first-quarter results and subsequent trading demand. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "三養食品株が急伸、過去最高の第1四半期決算発表で序盤高",
-        "excerpt": "三養食品は14日、過去最高の第1四半期決算を公表した後、序盤に株価が急伸。午前9時25分時点で前日比7.64%高の139万4000ウォンで取引された。",
-        "body": "三養食品は過去最高の第1四半期決算を公表した14日、取引序盤に株価が急伸した。同日午前9時25分現在、三養食品は前日比9万9000ウォン、7.64%高の139万4000ウォンで取引された。原文の見出しによると、序盤の上昇率は一時13%台まで拡大したとされる。今回の株価上昇は、同社が四半期ベースで過去最大の業績を発表したことに対する投資家の反応とみられる。業績改善のニュースが買いを促し、取引序盤の株価に影響した形だ。今後の株価動向は、公表された第1四半期決算への市場評価と追加の需給に左右される可能性がある。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "三养食品股价急涨，创纪录一季度业绩带动早盘走强",
-        "excerpt": "三养食品14日公布史上最高一季度业绩后，早盘股价大幅上涨。截至上午9点25分，较前一交易日上涨7.64%，报139.4万韩元。",
-        "body": "三养食品在14日公布史上最高第一季度业绩后，早盘股价大幅上涨。当天上午9点25分，三养食品较前一交易日上涨9.9万韩元，涨幅7.64%，报139.4万韩元。根据原文标题，早盘涨幅一度扩大至13%左右。此次股价走强可视为投资者对公司发布季度史上最佳业绩的反应。业绩改善消息推动买盘，影响了开盘初期的股价走势。后续股价表现可能取决于市场对已公布一季度业绩的评价以及进一步资金供需。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Samyang Foods se dispara tras resultados récord del primer trimestre",
-        "excerpt": "Samyang Foods subió con fuerza el 14 de mayo tras publicar su mejor resultado histórico del primer trimestre; a las 9:25 cotizaba a 1.394.000 wones, un 7,64% más.",
-        "body": "Las acciones de Samyang Foods subieron con fuerza en las primeras operaciones del 14 de mayo después de que la empresa divulgara sus mayores resultados históricos para un primer trimestre. A las 9:25 a.m., el título cotizaba a 1.394.000 wones, con un alza de 99.000 wones, o 7,64%, frente a la sesión anterior. Según el titular original, el avance inicial llegó por momentos al rango del 13%. El movimiento refleja la reacción de los inversores al anuncio de un desempeño trimestral récord. La noticia de mejora de resultados pareció impulsar las compras e influir en la cotización de primera hora. La evolución posterior dependerá de la valoración del mercado sobre esos resultados y de la demanda adicional. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Samyang Foods dispara após lucro recorde no primeiro trimestre",
-        "excerpt": "A Samyang Foods avançou forte em 14 de maio após divulgar seu maior resultado histórico no primeiro trimestre; às 9h25, subia 7,64%, a 1.394.000 won.",
-        "body": "As ações da Samyang Foods subiram com força no início do pregão de 14 de maio após a empresa divulgar seu maior resultado histórico para um primeiro trimestre. Às 9h25, o papel era negociado a 1.394.000 won, alta de 99.000 won, ou 7,64%, ante a sessão anterior. Segundo o título original, o ganho no começo do pregão chegou em certo momento à faixa de 13%. O avanço reflete a reação dos investidores ao anúncio de desempenho trimestral recorde. A notícia de melhora nos resultados parece ter estimulado compras e influenciado o movimento inicial das ações. A trajetória seguinte pode depender da avaliação do mercado sobre os resultados divulgados e da demanda adicional. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Samyang-Foods-Aktie springt nach Rekordzahlen im ersten Quartal an",
-        "excerpt": "Samyang Foods legte am 14. Mai nach der Veröffentlichung des bislang stärksten ersten Quartals deutlich zu; um 9:25 Uhr notierte die Aktie 7,64% höher bei 1.394.000 Won.",
-        "body": "Die Aktie von Samyang Foods stieg am frühen Handel des 14. Mai deutlich, nachdem das Unternehmen sein bislang bestes Ergebnis für ein erstes Quartal veröffentlicht hatte. Um 9:25 Uhr wurde die Aktie bei 1.394.000 Won gehandelt, 99.000 Won oder 7,64% über dem Vortag. Laut der ursprünglichen Überschrift weitete sich der frühe Anstieg zeitweise auf den Bereich von 13% aus. Die Kursstärke spiegelt die Reaktion der Anleger auf die Bekanntgabe eines Rekordergebnisses auf Quartalsbasis wider. Die Nachricht über die verbesserten Zahlen schien Kaufinteresse auszulösen und den frühen Kursverlauf zu prägen. Die weitere Entwicklung kann von der Marktbewertung der veröffentlichten Erstquartalszahlen und der weiteren Nachfrage abhängen. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Samyang Foods bondit après des résultats record au premier trimestre",
-        "excerpt": "Samyang Foods a fortement progressé le 14 mai après avoir publié son meilleur premier trimestre historique; à 9h25, l’action gagnait 7,64% à 1 394 000 wons.",
-        "body": "L’action Samyang Foods a fortement progressé en début de séance le 14 mai après la publication par l’entreprise de ses meilleurs résultats historiques pour un premier trimestre. À 9h25, le titre se négociait à 1 394 000 wons, en hausse de 99 000 wons, soit 7,64%, par rapport à la veille. Selon le titre original, la hausse du début de séance a même atteint par moments la zone des 13%. Ce mouvement traduit la réaction des investisseurs à l’annonce d’une performance trimestrielle record. La nouvelle amélioration des résultats semble avoir soutenu les achats et influencé l’évolution initiale du cours. La suite dépendra de l’évaluation du marché des résultats publiés et de la demande supplémentaire. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "سهم ساميانغ فودز يقفز بعد نتائج قياسية للربع الأول في التعاملات المبكرة",
-        "excerpt": "قفز سهم ساميانغ فودز في 14 مايو بعد إعلان أكبر نتائج فصلية أولى في تاريخها، وجرى تداوله عند 1,394,000 وون مرتفعا 7.64% بحلول 9:25 صباحا.",
-        "body": "ارتفع سهم ساميانغ فودز بقوة في التعاملات المبكرة يوم 14 مايو بعدما كشفت الشركة عن أكبر نتائج للربع الأول في تاريخها. وبحلول الساعة 9:25 صباحا، جرى تداول السهم عند 1,394,000 وون، بزيادة قدرها 99,000 وون أو 7.64% عن الجلسة السابقة. ووفقا للعنوان الأصلي، اتسعت المكاسب في بداية الجلسة في وقت ما إلى نطاق 13%. ويعكس هذا الصعود رد فعل المستثمرين على إعلان الشركة أداء فصليا قياسيا. ويبدو أن خبر تحسن النتائج دعم طلب الشراء وأثر في حركة السهم المبكرة. وقد تتوقف التحركات اللاحقة على تقييم السوق لنتائج الربع الأول المعلنة وحجم الطلب الإضافي. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "Samyang Foods का शेयर रिकॉर्ड पहली तिमाही नतीजों के बाद तेज उछला",
-        "excerpt": "Samyang Foods ने 14 मई को अब तक के सबसे बड़े पहली तिमाही नतीजे घोषित किए, जिसके बाद शुरुआती कारोबार में शेयर 7.64% बढ़कर 1,394,000 वॉन पर पहुंचा।",
-        "body": "Samyang Foods का शेयर 14 मई को शुरुआती कारोबार में तेजी से चढ़ा, जब कंपनी ने अपनी अब तक की सबसे बड़ी पहली तिमाही के नतीजे जारी किए। सुबह 9:25 बजे शेयर पिछले सत्र से 99,000 वॉन, यानी 7.64%, बढ़कर 1,394,000 वॉन पर कारोबार कर रहा था। मूल शीर्षक के अनुसार, शुरुआती कारोबार में बढ़त एक समय 13% के दायरे तक फैल गई थी। यह तेजी कंपनी के रिकॉर्ड तिमाही प्रदर्शन की घोषणा पर निवेशकों की प्रतिक्रिया मानी जा सकती है। नतीजों में सुधार की खबर ने खरीदारी को बढ़ावा दिया और शुरुआती शेयर चाल पर असर डाला। आगे की चाल घोषित पहली तिमाही नतीजों पर बाजार के आकलन और अतिरिक्त मांग पर निर्भर कर सकती है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Saham Samyang Foods melonjak usai rekor kinerja kuartal pertama",
-        "excerpt": "Samyang Foods menguat tajam pada 14 Mei setelah merilis kinerja kuartal pertama terbesar sepanjang sejarah; pukul 09.25 saham naik 7,64% ke 1.394.000 won.",
-        "body": "Saham Samyang Foods naik tajam pada awal perdagangan 14 Mei setelah perusahaan mengumumkan kinerja kuartal pertama terbesar sepanjang sejarahnya. Pada pukul 09.25, saham diperdagangkan di 1.394.000 won, naik 99.000 won atau 7,64% dibanding sesi sebelumnya. Menurut judul asli, kenaikan pada awal perdagangan sempat melebar ke kisaran 13%. Penguatan ini mencerminkan respons investor terhadap pengumuman kinerja kuartalan rekor perusahaan. Kabar perbaikan kinerja tampaknya mendorong minat beli dan memengaruhi pergerakan saham di awal sesi. Pergerakan berikutnya dapat bergantung pada penilaian pasar atas hasil kuartal pertama yang telah diumumkan dan permintaan lanjutan. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "7f70648ad4f9",
-    "slug": "mk시그널-아메리칸-퍼블릭-에듀케이션-매도신호-포착-수익률-531-달성-948116",
-    "channelId": "ETF",
-    "category": "etf",
-    "publishedAt": "2026-05-14T15:58:30.302Z",
-    "updatedAt": "2026-05-14T15:58:30.302Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/stock/12047277",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12047277",
-    "titleFingerprint": "7bcfec19aed27154e39236df7e7e0855544d4c3c",
-    "dedupKeys": [
-      "7f70648ad4f9f91c61cfe9532f4344774fbae8b5",
-      "7bcfec19aed27154e39236df7e7e0855544d4c3c",
-      "28656c8b48670321c6898358a2a541a5b4394f42"
-    ],
-    "imageUrl": "/images/articles/7f70648ad4f9.png",
-    "i18n": {
-      "ko": {
-        "title": "아메리칸 퍼블릭 에듀케이션 매도신호 포착, MK시그널 수익률 53.1%",
-        "excerpt": "13일 MK시그널은 미국 주식 핫 이슈 종목인 아메리칸 퍼블릭 에듀케이션(APEI)에서 매도 신호가 포착됐으며 수익률 53.1%를 달성했다고 전했다.",
-        "body": "AI 기자 ‘MK시그널’은 13일 미국 주식 핫 이슈 종목 분석에서 아메리칸 퍼블릭 에듀케이션(APEI)에 매도 신호가 포착됐다고 밝혔다. 이번 신호는 MK시그널의 종목 분석 과정에서 확인됐으며, 해당 전략의 수익률은 53.1%로 제시됐다. 아메리칸 퍼블릭 에듀케이션은 미국 증시에 상장된 종목으로, 이번 보도에서는 매도 신호 발생과 수익률 달성이 핵심 내용으로 다뤄졌다. 투자자는 해당 신호를 참고하되 시장 변동성과 개별 투자 판단을 함께 고려할 필요가 있다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "American Public Education Sell Signal Detected as MK Signal Reports 53.1% Return",
-        "excerpt": "On the 13th, MK Signal reported that a sell signal was detected for American Public Education (APEI), a hot U.S. stock issue, with a return of 53.1%.",
-        "body": "AI reporter “MK Signal” said on the 13th that a sell signal had been detected for American Public Education (APEI) in its analysis of hot U.S. stock issues. The signal was identified through MK Signal’s stock analysis process, and the return from the related strategy was presented as 53.1%. American Public Education is a U.S.-listed stock, and the report focused on the occurrence of the sell signal and the achieved return. Investors may refer to the signal while also considering market volatility and their own investment judgment. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "アメリカン・パブリック・エデュケーションに売りシグナル、MKシグナルが53.1%収益率",
-        "excerpt": "MKシグナルは13日、米国株の注目銘柄であるアメリカン・パブリック・エデュケーション（APEI）で売りシグナルを確認し、収益率は53.1%に達したと伝えた。",
-        "body": "AI記者「MKシグナル」は13日、米国株の注目銘柄分析でアメリカン・パブリック・エデュケーション（APEI）に売りシグナルが確認されたと明らかにした。今回のシグナルはMKシグナルの銘柄分析過程で把握されたもので、同戦略の収益率は53.1%と示された。アメリカン・パブリック・エデュケーションは米国市場に上場する銘柄で、今回の報道では売りシグナルの発生と収益率の達成が主な内容として扱われた。投資家はこのシグナルを参考にしつつ、市場変動性と個別の投資判断も併せて考慮する必要がある。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "American Public Education出现卖出信号，MK Signal收益率达53.1%",
-        "excerpt": "MK Signal 13日表示，美国热门股票American Public Education（APEI）出现卖出信号，相关策略收益率达到53.1%。",
-        "body": "AI记者“MK Signal”13日在分析美国热门股票时表示，American Public Education（APEI）出现卖出信号。该信号是在MK Signal的个股分析过程中确认的，相关策略收益率被列为53.1%。American Public Education是在美国股市上市的股票，本次报道的核心内容是卖出信号的出现以及收益率的达成。投资者可将该信号作为参考，同时仍需结合市场波动性和自身投资判断进行考虑。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "American Public Education activa señal de venta y MK Signal reporta retorno de 53,1%",
-        "excerpt": "El día 13, MK Signal informó que detectó una señal de venta en American Public Education (APEI), una acción estadounidense destacada, con un retorno de 53,1%.",
-        "body": "El reportero de IA “MK Signal” informó el día 13 que se detectó una señal de venta en American Public Education (APEI) dentro de su análisis de acciones estadounidenses de interés. La señal fue identificada durante el proceso de análisis de valores de MK Signal, y el retorno de la estrategia correspondiente fue presentado en 53,1%. American Public Education cotiza en el mercado estadounidense, y el informe se centró en la aparición de la señal de venta y en el rendimiento alcanzado. Los inversores pueden tomar la señal como referencia, considerando también la volatilidad del mercado y su propio criterio de inversión. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "American Public Education tem sinal de venda e MK Signal aponta retorno de 53,1%",
-        "excerpt": "No dia 13, a MK Signal informou que detectou um sinal de venda em American Public Education (APEI), ação em destaque nos EUA, com retorno de 53,1%.",
-        "body": "A repórter de IA “MK Signal” informou no dia 13 que foi detectado um sinal de venda para American Public Education (APEI) em sua análise de ações norte-americanas em destaque. O sinal foi identificado no processo de análise de ações da MK Signal, e o retorno da estratégia relacionada foi apresentado em 53,1%. American Public Education é uma ação listada nos Estados Unidos, e a reportagem destacou a ocorrência do sinal de venda e o retorno alcançado. Investidores podem usar o sinal como referência, mas devem considerar também a volatilidade do mercado e seu próprio julgamento de investimento. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "American Public Education mit Verkaufssignal, MK Signal meldet 53,1% Rendite",
-        "excerpt": "Am 13. meldete MK Signal, dass bei der US-Aktie American Public Education (APEI) ein Verkaufssignal erkannt wurde und die Rendite 53,1% erreichte.",
-        "body": "Der KI-Reporter „MK Signal“ teilte am 13. mit, dass bei der Analyse viel beachteter US-Aktien für American Public Education (APEI) ein Verkaufssignal erkannt wurde. Das Signal wurde im Rahmen des Aktienanalyseprozesses von MK Signal festgestellt, die Rendite der entsprechenden Strategie wurde mit 53,1% angegeben. American Public Education ist an der US-Börse notiert, und der Bericht konzentrierte sich auf das Auftreten des Verkaufssignals sowie die erzielte Rendite. Anleger können das Signal als Referenz nutzen, sollten aber zugleich Marktvolatilität und ihre eigene Anlageentscheidung berücksichtigen. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "American Public Education déclenche un signal de vente, MK Signal affiche 53,1% de rendement",
-        "excerpt": "Le 13, MK Signal a indiqué avoir détecté un signal de vente sur American Public Education (APEI), une valeur américaine suivie, avec un rendement de 53,1%.",
-        "body": "Le journaliste IA « MK Signal » a indiqué le 13 qu’un signal de vente avait été détecté sur American Public Education (APEI) dans son analyse des valeurs américaines les plus suivies. Ce signal a été identifié dans le cadre du processus d’analyse de titres de MK Signal, et le rendement de la stratégie concernée a été présenté à 53,1%. American Public Education est une action cotée aux États-Unis, et l’article a mis l’accent sur l’apparition du signal de vente et le rendement obtenu. Les investisseurs peuvent s’y référer tout en tenant compte de la volatilité du marché et de leur propre jugement d’investissement. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "إشارة بيع على American Public Education وMK Signal يعلن عائدا 53.1%",
-        "excerpt": "في 13 من الشهر، أفاد MK Signal بأنه رصد إشارة بيع على سهم American Public Education (APEI)، أحد الأسهم الأميركية محل الاهتمام، مع عائد بلغ 53.1%.",
-        "body": "أفاد مراسل الذكاء الاصطناعي “MK Signal” في 13 من الشهر بأنه تم رصد إشارة بيع على سهم American Public Education (APEI) ضمن تحليله للأسهم الأميركية محل الاهتمام. وتم تحديد الإشارة خلال عملية تحليل الأسهم لدى MK Signal، بينما عُرض عائد الاستراتيجية المرتبطة بها عند 53.1%. ويعد American Public Education سهما مدرجا في السوق الأميركية، وركز التقرير على ظهور إشارة البيع وتحقيق هذا العائد. ويمكن للمستثمرين الاستفادة من الإشارة كمرجع، مع مراعاة تقلبات السوق وحكمهم الاستثماري الفردي. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "American Public Education में बिक्री संकेत, MK Signal ने 53.1% रिटर्न बताया",
-        "excerpt": "13 तारीख को MK Signal ने बताया कि अमेरिकी शेयर American Public Education (APEI) में बिक्री संकेत मिला है और संबंधित रणनीति ने 53.1% रिटर्न हासिल किया।",
-        "body": "AI रिपोर्टर “MK Signal” ने 13 तारीख को बताया कि अमेरिकी शेयरों के प्रमुख मुद्दों के विश्लेषण में American Public Education (APEI) के लिए बिक्री संकेत मिला। यह संकेत MK Signal की शेयर विश्लेषण प्रक्रिया में पहचाना गया और संबंधित रणनीति का रिटर्न 53.1% बताया गया। American Public Education अमेरिकी बाजार में सूचीबद्ध शेयर है, और इस रिपोर्ट का मुख्य विषय बिक्री संकेत का मिलना तथा रिटर्न हासिल होना रहा। निवेशक इस संकेत को संदर्भ के रूप में देख सकते हैं, लेकिन बाजार की अस्थिरता और अपने व्यक्तिगत निवेश निर्णय को भी साथ में ध्यान में रखना जरूरी है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "American Public Education Muncul Sinyal Jual, MK Signal Catat Imbal Hasil 53,1%",
-        "excerpt": "Pada 13, MK Signal melaporkan sinyal jual terdeteksi pada American Public Education (APEI), saham AS yang menjadi sorotan, dengan imbal hasil 53,1%.",
-        "body": "Reporter AI “MK Signal” pada 13 menyatakan bahwa sinyal jual terdeteksi pada American Public Education (APEI) dalam analisis saham-saham AS yang menjadi sorotan. Sinyal tersebut diidentifikasi melalui proses analisis saham MK Signal, sementara imbal hasil strategi terkait disajikan sebesar 53,1%. American Public Education merupakan saham yang tercatat di pasar Amerika Serikat, dan laporan ini berfokus pada munculnya sinyal jual serta capaian imbal hasil tersebut. Investor dapat menjadikan sinyal ini sebagai referensi, dengan tetap mempertimbangkan volatilitas pasar dan penilaian investasi masing-masing. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "c08612735a30",
-    "slug": "바이낸스-규제-준수에-2억달러-투자rwa스테이블코인이-다음-타자-705980",
-    "channelId": "ETF",
-    "category": "etf",
-    "publishedAt": "2026-05-14T15:57:36.087Z",
-    "updatedAt": "2026-05-14T15:57:36.087Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/stock/12047315",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12047315",
-    "titleFingerprint": "e49d6b4ba3b8c7f3e67747007345e166338846af",
-    "dedupKeys": [
-      "c08612735a30d1481756fd87c8fbc3195e4d5f1e",
-      "e49d6b4ba3b8c7f3e67747007345e166338846af",
-      "0569c6730dc69058804e6c24d886935f078ae184"
-    ],
-    "imageUrl": "/images/articles/c08612735a30.jpg",
-    "i18n": {
-      "ko": {
-        "title": "바이낸스 2억달러 규제 준수 투자, RWA·스테이블코인 다음 성장축 부상",
-        "excerpt": "바이낸스가 UAE FSRA 라이선스를 취득하고 규제 준수에 2억달러를 투자했다고 밝혔다. 기관 주도권 전환 속 RWA와 스테이블코인 성장을 다음 과제로 제시했다.",
-        "body": "세계 최대 가상자산 거래소 바이낸스가 UAE FSRA 라이선스를 취득하고 규제 준수에 2억달러를 투자했다고 밝혔다. 캐서린 첸은 가상자산 시장의 주도권이 개인에서 기관으로 이동하고 있다고 설명했다. 배경에는 비트코인 ETF가 출시 2년 만에 600억달러 규모로 성장한 흐름이 있다. 바이낸스는 제도권 참여 확대와 함께 토큰화 자산, 즉 RWA와 스테이블코인이 빠르게 성장할 것으로 봤다. 향후 가상자산 산업의 경쟁력은 규제 대응, 기관 수요, 실물자산 기반 상품 확장에 달릴 전망이다. 출처: mk.co.kr."
-      },
-      "en": {
-        "title": "Binance Puts $200M Into Compliance as RWA and Stablecoins Emerge Next",
-        "excerpt": "Binance said it obtained a UAE FSRA license and invested $200 million in compliance, pointing to institutional leadership and growth in RWA and stablecoins.",
-        "body": "Binance, the world’s largest crypto exchange, said it has obtained a UAE FSRA license and invested $200 million in regulatory compliance. Catherine Chen said leadership in the digital asset market is shifting from individuals to institutions. The backdrop is the growth of Bitcoin ETFs, which reached $60 billion in two years after launch. Binance sees tokenized assets, or RWA, and stablecoins expanding rapidly as institutional participation increases. The industry’s next phase is expected to depend on regulatory readiness, institutional demand and the expansion of real-asset-based products. Source: mk.co.kr."
-      },
-      "ja": {
-        "title": "バイナンス、規制対応に2億ドル投資 RWAとステーブルコインが次の成長軸に",
-        "excerpt": "バイナンスはUAEのFSRAライセンス取得と規制対応への2億ドル投資を明らかにし、機関主導への移行とRWA・ステーブルコインの成長を示した。",
-        "body": "世界最大の暗号資産取引所バイナンスは、UAEのFSRAライセンスを取得し、規制遵守に2億ドルを投じたと明らかにした。キャサリン・チェン氏は、暗号資産市場の主導権が個人から機関投資家へ移っていると説明した。背景には、ビットコインETFが上場から2年で600億ドル規模に拡大した流れがある。バイナンスは、制度圏からの参加拡大とともに、トークン化資産であるRWAとステーブルコインが急成長するとみている。今後の競争力は規制対応、機関需要、実物資産に基づく商品の拡張に左右される見通しだ。出所: mk.co.kr."
-      },
-      "zh": {
-        "title": "币安投入2亿美元合规建设，RWA与稳定币成下一增长重点",
-        "excerpt": "币安称已取得阿联酋FSRA牌照，并投入2亿美元用于合规建设；在机构主导趋势下，RWA和稳定币被视为下一增长方向。",
-        "body": "全球最大加密资产交易所币安表示，已取得阿联酋FSRA牌照，并在监管合规方面投入2亿美元。Catherine Chen表示，加密资产市场的主导权正从个人转向机构。其背景是比特币ETF在推出两年内增长至600亿美元规模。币安认为，随着制度化参与扩大，代币化资产即RWA以及稳定币将快速增长。未来加密资产行业的竞争力，预计将取决于监管应对能力、机构需求以及基于现实资产的产品扩展。来源: mk.co.kr."
-      },
-      "es": {
-        "title": "Binance invierte 200 millones de dólares en cumplimiento; RWA y stablecoins ganan foco",
-        "excerpt": "Binance dijo que obtuvo una licencia FSRA en EAU e invirtió 200 millones de dólares en cumplimiento, mientras ve crecer el liderazgo institucional, RWA y stablecoins.",
-        "body": "Binance, el mayor exchange de criptoactivos del mundo, informó que obtuvo una licencia FSRA en Emiratos Árabes Unidos e invirtió 200 millones de dólares en cumplimiento regulatorio. Catherine Chen explicó que el liderazgo del mercado de activos digitales se está desplazando de los individuos a las instituciones. El contexto incluye el crecimiento de los ETF de bitcoin, que alcanzaron 60.000 millones de dólares en dos años desde su lanzamiento. Binance prevé que los activos tokenizados, o RWA, y las stablecoins crezcan con rapidez junto con una mayor participación institucional. La competitividad futura dependerá de la respuesta regulatoria, la demanda institucional y la expansión de productos basados en activos reales. Fuente: mk.co.kr."
-      },
-      "pt": {
-        "title": "Binance investe US$ 200 milhões em compliance; RWA e stablecoins viram próximo foco",
-        "excerpt": "A Binance disse que obteve licença FSRA nos EAU e investiu US$ 200 milhões em compliance, destacando a migração para instituições e o avanço de RWA e stablecoins.",
-        "body": "A Binance, maior exchange de criptoativos do mundo, afirmou que obteve uma licença FSRA nos Emirados Árabes Unidos e investiu US$ 200 milhões em conformidade regulatória. Catherine Chen disse que a liderança no mercado de ativos digitais está passando de investidores individuais para instituições. O pano de fundo é o crescimento dos ETFs de bitcoin, que chegaram a US$ 60 bilhões em dois anos após o lançamento. A Binance vê os ativos tokenizados, ou RWA, e as stablecoins crescendo rapidamente com a ampliação da participação institucional. A próxima fase do setor dependerá de resposta regulatória, demanda institucional e expansão de produtos baseados em ativos reais. Fonte: mk.co.kr."
-      },
-      "de": {
-        "title": "Binance investiert 200 Mio. Dollar in Compliance; RWA und Stablecoins rücken nach vorn",
-        "excerpt": "Binance meldet eine UAE-FSRA-Lizenz und 200 Mio. Dollar für Compliance. Zugleich verweist das Unternehmen auf institutionelle Führung, RWA und Stablecoins.",
-        "body": "Binance, die weltweit größte Kryptobörse, teilte mit, eine FSRA-Lizenz in den Vereinigten Arabischen Emiraten erhalten und 200 Millionen Dollar in regulatorische Compliance investiert zu haben. Catherine Chen erklärte, die Führung im Markt für digitale Vermögenswerte verlagere sich von Privatpersonen zu Institutionen. Hintergrund ist das Wachstum von Bitcoin-ETFs, die binnen zwei Jahren nach ihrer Einführung ein Volumen von 60 Milliarden Dollar erreichten. Binance erwartet, dass tokenisierte Vermögenswerte, also RWA, und Stablecoins mit zunehmender institutioneller Beteiligung schnell wachsen. Die künftige Wettbewerbsfähigkeit dürfte von Regulierung, institutioneller Nachfrage und Produkten auf Basis realer Vermögenswerte abhängen. Quelle: mk.co.kr."
-      },
-      "fr": {
-        "title": "Binance investit 200 M$ dans la conformité; RWA et stablecoins en prochain relais",
-        "excerpt": "Binance dit avoir obtenu une licence FSRA aux EAU et investi 200 M$ dans la conformité, alors que les institutions, les RWA et les stablecoins gagnent du terrain.",
-        "body": "Binance, première plateforme mondiale d’échange de cryptoactifs, a indiqué avoir obtenu une licence FSRA aux Émirats arabes unis et investi 200 millions de dollars dans la conformité réglementaire. Catherine Chen a expliqué que le leadership du marché des actifs numériques se déplace des particuliers vers les institutions. Ce mouvement s’inscrit dans le contexte des ETF bitcoin, qui ont atteint 60 milliards de dollars en deux ans après leur lancement. Binance estime que les actifs tokenisés, ou RWA, et les stablecoins connaîtront une croissance rapide avec l’élargissement de la participation institutionnelle. La compétitivité future dépendra de la réponse réglementaire, de la demande institutionnelle et de l’extension des produits adossés à des actifs réels. Source: mk.co.kr."
-      },
-      "ar": {
-        "title": "بينانس تستثمر 200 مليون دولار في الامتثال وتركز على RWA والعملات المستقرة",
-        "excerpt": "قالت بينانس إنها حصلت على ترخيص FSRA في الإمارات واستثمرت 200 مليون دولار في الامتثال، مع انتقال الزخم إلى المؤسسات ونمو RWA والعملات المستقرة.",
-        "body": "قالت بينانس، أكبر منصة لتداول الأصول المشفرة في العالم، إنها حصلت على ترخيص FSRA في الإمارات واستثمرت 200 مليون دولار في الامتثال التنظيمي. وأوضحت كاثرين تشين أن قيادة سوق الأصول الرقمية تنتقل من الأفراد إلى المؤسسات. ويأتي ذلك في ظل نمو صناديق ETF للبيتكوين إلى 60 مليار دولار خلال عامين من إطلاقها. وترى بينانس أن الأصول المرمزة، أو RWA، والعملات المستقرة ستنمو بسرعة مع اتساع مشاركة المؤسسات. ومن المتوقع أن تعتمد القدرة التنافسية المقبلة للقطاع على التعامل مع التنظيم، والطلب المؤسسي، وتوسيع المنتجات القائمة على الأصول الحقيقية. المصدر: mk.co.kr."
-      },
-      "hi": {
-        "title": "Binance ने अनुपालन में 20 करोड़ डॉलर लगाए, RWA और stablecoin अगला फोकस",
-        "excerpt": "Binance ने UAE FSRA लाइसेंस हासिल करने और अनुपालन में 20 करोड़ डॉलर निवेश की जानकारी दी, जबकि संस्थागत नेतृत्व, RWA और stablecoin वृद्धि पर जोर दिया।",
-        "body": "दुनिया के सबसे बड़े क्रिप्टो एसेट एक्सचेंज Binance ने कहा कि उसने UAE FSRA लाइसेंस हासिल किया है और नियामकीय अनुपालन में 20 करोड़ डॉलर निवेश किए हैं। Catherine Chen ने कहा कि डिजिटल एसेट बाजार की अगुवाई व्यक्तिगत निवेशकों से संस्थानों की ओर जा रही है। इसके पीछे bitcoin ETF की वह वृद्धि है, जो लॉन्च के दो साल में 60 अरब डॉलर तक पहुंची। Binance का मानना है कि संस्थागत भागीदारी बढ़ने के साथ tokenized assets, यानी RWA, और stablecoins तेजी से बढ़ेंगे। आगे उद्योग की प्रतिस्पर्धा नियामकीय तैयारी, संस्थागत मांग और वास्तविक परिसंपत्तियों पर आधारित उत्पाद विस्तार पर निर्भर करेगी। स्रोत: mk.co.kr."
-      },
-      "id": {
-        "title": "Binance Investasi US$200 Juta untuk Kepatuhan, RWA dan Stablecoin Jadi Fokus",
-        "excerpt": "Binance menyebut telah memperoleh lisensi FSRA UEA dan menginvestasikan US$200 juta untuk kepatuhan, seiring pergeseran ke institusi serta pertumbuhan RWA dan stablecoin.",
-        "body": "Binance, bursa aset kripto terbesar di dunia, mengatakan telah memperoleh lisensi FSRA di Uni Emirat Arab dan menginvestasikan US$200 juta untuk kepatuhan regulasi. Catherine Chen menjelaskan bahwa kepemimpinan pasar aset digital sedang bergeser dari individu ke institusi. Latar belakangnya adalah pertumbuhan ETF bitcoin yang mencapai US$60 miliar dalam dua tahun setelah diluncurkan. Binance menilai aset tokenisasi, atau RWA, dan stablecoin akan tumbuh cepat seiring meningkatnya partisipasi institusional. Daya saing industri berikutnya diperkirakan bergantung pada respons regulasi, permintaan institusi, dan perluasan produk berbasis aset nyata. Sumber: mk.co.kr."
       }
     }
   }
