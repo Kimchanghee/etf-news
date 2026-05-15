@@ -1,5 +1,230 @@
 [
   {
+    "id": "a70740cc148f",
+    "slug": "빚투공매도-규모-나란히-사상-최대-990391",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-05-15T17:05:16.823Z",
+    "updatedAt": "2026-05-15T17:05:16.823Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/2026051598851",
+    "canonicalUrl": "https://www.hankyung.com/article/2026051598851",
+    "titleFingerprint": "285ed057884a7ad053b7ce8bb187dacf0ed62fe6",
+    "dedupKeys": [
+      "a70740cc148f93ec1c912a5173f9265cdd00ec9e",
+      "285ed057884a7ad053b7ce8bb187dacf0ed62fe6",
+      "edcb5d13a6eb9fb78bd30a40b51b7a4adfdeac55"
+    ],
+    "imageUrl": "/images/articles/a70740cc148f.png",
+    "i18n": {
+      "ko": {
+        "title": "빚투·공매도 대기자금 나란히 사상 최대, 증시 과열 속 반대매매 우려 확대",
+        "excerpt": "한국경제에 따르면 국내 증시 강세 속 신용거래융자 잔액과 공매도에 활용되는 대차거래 잔액이 나란히 사상 최대 수준으로 불어나 투자 위험이 커지고 있다.",
+        "body": "국내 증시가 강세를 이어가는 가운데 ‘빚투’로 불리는 신용거래융자 잔액과 공매도 대기자금 성격의 대차거래 잔액이 나란히 사상 최대 규모로 불어났다. 한국경제 보도에 따르면 신용거래융자 잔액은 32조8000억원으로 역대 최대치를 기록했고, 위탁매매 미수금도 1조원대에 올라섰다. 코스피지수가 6000 돌파를 앞둔 상황에서 대차거래 잔액 역시 사상 최대치로 집계됐다. 대차거래는 주가 하락을 예상한 외국인과 기관이 공매도 목적으로 주로 활용한다. 빚을 내 투자한 개인이 늘어난 만큼 증시가 흔들릴 경우 반대매매 우려가 커질 수 있다는 점이 시장의 부담으로 거론된다. 출처: hankyung.com"
+      },
+      "en": {
+        "title": "Margin Debt and Short-Sale Borrowing Hit Records as Korea Market Risk Builds",
+        "excerpt": "According to Hankyung, Korea’s margin-loan balance and stock-borrowing balance used for short selling have both reached record highs amid a strong equity market.",
+        "body": "As South Korea’s stock market continues to rise, both margin-loan balances, often described as debt-fueled investing, and stock-borrowing balances used as short-selling standby funds have reached record highs. Hankyung reported that margin loans stood at 32.8 trillion won, the largest on record, while unpaid brokerage purchase balances were also in the 1 trillion won range. With the Kospi approaching the 6,000 mark, stock-borrowing balances were also tallied at an all-time high. Such borrowing is mainly used by foreign and institutional investors for short selling when they expect share prices to fall. The rise in leveraged retail investing may increase concerns over forced selling if the market turns volatile. Source: hankyung.com"
+      },
+      "ja": {
+        "title": "信用買いと空売り待機資金が過去最大、韓国株高の中でリスク拡大",
+        "excerpt": "韓国経済新聞によると、韓国株式市場の上昇局面で信用取引融資残高と空売りに使われる貸株取引残高がそろって過去最大となった。",
+        "body": "韓国株式市場が上昇を続ける中、借入による投資を示す信用取引融資残高と、空売り待機資金とされる貸株取引残高がそろって過去最大規模に膨らんだ。韓国経済新聞によれば、信用取引融資残高は32兆8000億ウォンで過去最高を記録し、委託売買の未収金も1兆ウォン台に達した。コスピ指数が6000突破を目前にする中、貸株取引残高も過去最大と集計された。貸株取引は株価下落を見込む外国人投資家や機関投資家が空売り目的で主に利用する。借金で投資する個人が増えた分、市場が揺らげば反対売買への懸念が強まる可能性がある。出典: hankyung.com"
+      },
+      "zh": {
+        "title": "融资买股与融券待售资金同创纪录，韩国股市风险信号升温",
+        "excerpt": "据韩国经济新闻报道，在韩国股市走强之际，信用融资余额和用于卖空的借券交易余额双双升至历史最高水平。",
+        "body": "在韩国股市持续走强之际，被称为借钱投资的信用融资余额，以及具有卖空待用资金性质的借券交易余额，双双扩大至历史最高规模。韩国经济新闻报道称，信用融资余额达到32.8万亿韩元，创下历史新高，委托买卖未收款也升至1万亿韩元区间。随着KOSPI指数逼近6000点，借券交易余额同样被统计为历史最高。借券交易主要由预期股价下跌的外国投资者和机构投资者用于卖空。随着使用杠杆投资的个人投资者增加，一旦市场波动，强制平仓风险可能成为市场负担。来源: hankyung.com"
+      },
+      "es": {
+        "title": "Deuda para invertir y fondos de venta corta marcan récord en Corea",
+        "excerpt": "Según Hankyung, el saldo de financiación para comprar acciones y el saldo de préstamo de valores usado para ventas cortas alcanzaron máximos históricos en Corea.",
+        "body": "Mientras el mercado bursátil surcoreano mantiene su fortaleza, el saldo de préstamos para invertir en acciones y el saldo de préstamo de valores considerado fondo de espera para ventas cortas aumentaron hasta máximos históricos. Hankyung informó que el saldo de financiación de operaciones de crédito llegó a 32,8 billones de wones, un récord, mientras que los importes pendientes por operaciones de corretaje se situaron en el rango de 1 billón de wones. Con el Kospi cerca de superar los 6.000 puntos, el saldo de préstamo de valores también marcó un máximo histórico. Este mecanismo lo usan sobre todo extranjeros e instituciones para ventas cortas cuando esperan caídas de precios. El aumento de inversión apalancada de minoristas eleva la preocupación por ventas forzadas si el mercado se debilita. Fuente: hankyung.com"
+      },
+      "pt": {
+        "title": "Dívida para investir e recursos de venda a descoberto batem recorde na Coreia",
+        "excerpt": "Segundo o Hankyung, o saldo de crédito para compra de ações e o saldo de empréstimo de ações usado em vendas a descoberto atingiram máximas históricas.",
+        "body": "Com o mercado acionário sul-coreano em alta, o saldo de crédito para investir em ações e o saldo de empréstimo de ações, visto como recurso disponível para vendas a descoberto, cresceram juntos para níveis recordes. O Hankyung informou que o saldo de financiamento por crédito chegou a 32,8 trilhões de wons, o maior da série, enquanto valores pendentes em operações de corretagem ficaram na faixa de 1 trilhão de wons. Com o Kospi perto de romper 6.000 pontos, o saldo de empréstimo de ações também foi apurado em máxima histórica. Esse tipo de empréstimo é usado principalmente por estrangeiros e instituições para venda a descoberto quando esperam queda dos preços. O aumento da alavancagem entre investidores individuais pode ampliar preocupações com liquidações forçadas se o mercado oscilar. Fonte: hankyung.com"
+      },
+      "de": {
+        "title": "Kreditkäufe und Leerverkaufs-Bestände erreichen Rekorde in Korea",
+        "excerpt": "Laut Hankyung sind in Korea sowohl kreditfinanzierte Aktienkäufe als auch für Leerverkäufe genutzte Wertpapierleihebestände auf Rekordstände gestiegen.",
+        "body": "Während der südkoreanische Aktienmarkt weiter Stärke zeigt, sind sowohl die kreditfinanzierten Aktienkäufe als auch die als Leerverkaufsreserve geltenden Wertpapierleihebestände auf Rekordniveau gestiegen. Hankyung berichtete, dass der Bestand an Wertpapierkrediten 32,8 Billionen Won erreichte und damit einen historischen Höchststand markierte. Auch offene Beträge aus vermittelten Wertpapiergeschäften lagen im Bereich von 1 Billion Won. Da der Kospi kurz vor der Marke von 6.000 Punkten steht, wurde auch der Bestand an Wertpapierleihe als Rekord ausgewiesen. Solche Leihen werden vor allem von ausländischen und institutionellen Anlegern für Leerverkäufe genutzt, wenn sie fallende Kurse erwarten. Die Zunahme gehebelter Privatanlagen kann bei Marktschwankungen Sorgen über Zwangsverkäufe verstärken. Quelle: hankyung.com"
+      },
+      "fr": {
+        "title": "Achats à crédit et réserves de vente à découvert au plus haut en Corée",
+        "excerpt": "Selon Hankyung, les encours de crédit pour acheter des actions et de prêt de titres utilisés pour la vente à découvert ont atteint des records en Corée.",
+        "body": "Alors que le marché actions sud-coréen poursuit sa hausse, les encours de crédit servant à investir en Bourse et les encours de prêt de titres considérés comme des fonds en attente pour la vente à découvert ont tous deux atteint des niveaux records. Hankyung indique que l’encours de crédit sur titres s’est élevé à 32,8 billions de wons, un plus haut historique, tandis que les impayés liés aux opérations de courtage se situaient dans la zone de 1 billion de wons. Avec un Kospi proche des 6.000 points, l’encours de prêt de titres a également été mesuré à un record. Ce mécanisme est surtout utilisé par les investisseurs étrangers et institutionnels pour vendre à découvert lorsqu’ils anticipent une baisse des cours. La hausse de l’investissement à effet de levier des particuliers peut renforcer les craintes de ventes forcées en cas de repli du marché. Source: hankyung.com"
+      },
+      "ar": {
+        "title": "الشراء بالهامش وأموال البيع على المكشوف يبلغان مستوى قياسيا في كوريا",
+        "excerpt": "بحسب هانكيونغ، ارتفع رصيد قروض شراء الأسهم ورصيد إقراض الأسهم المستخدم في البيع على المكشوف في كوريا إلى أعلى مستوى تاريخي.",
+        "body": "مع استمرار قوة سوق الأسهم الكورية الجنوبية، ارتفع رصيد قروض شراء الأسهم، المعروف بالاستثمار عبر الاقتراض، ورصيد إقراض الأسهم الذي يعد أموالا جاهزة للبيع على المكشوف، إلى أعلى مستوى تاريخي معا. وذكرت هانكيونغ أن رصيد قروض التداول بالهامش بلغ 32.8 تريليون وون، وهو رقم قياسي، بينما وصلت مستحقات معاملات الوساطة غير المسددة إلى نطاق تريليون وون. ومع اقتراب مؤشر كوسبي من تجاوز 6000 نقطة، سجل رصيد إقراض الأسهم أيضا مستوى قياسيا. ويستخدم المستثمرون الأجانب والمؤسسات هذا الإقراض غالبا للبيع على المكشوف عندما يتوقعون هبوط الأسعار. ومع زيادة استثمار الأفراد بالاقتراض، قد تتصاعد مخاوف البيع القسري إذا تعرض السوق لتقلبات. المصدر: hankyung.com"
+      },
+      "hi": {
+        "title": "मार्जिन निवेश और शॉर्ट सेलिंग फंड रिकॉर्ड पर, कोरिया बाजार में जोखिम बढ़ा",
+        "excerpt": "Hankyung के अनुसार, कोरिया में शेयर खरीदने के लिए क्रेडिट लोन बैलेंस और शॉर्ट सेलिंग में इस्तेमाल होने वाला स्टॉक-बॉरोइंग बैलेंस रिकॉर्ड स्तर पर पहुंच गए।",
+        "body": "दक्षिण कोरिया के शेयर बाजार में मजबूती जारी रहने के बीच कर्ज लेकर निवेश यानी मार्जिन निवेश का क्रेडिट लोन बैलेंस और शॉर्ट सेलिंग के लिए प्रतीक्षा पूंजी माने जाने वाला स्टॉक-बॉरोइंग बैलेंस दोनों रिकॉर्ड स्तर पर पहुंच गए। Hankyung के अनुसार, क्रेडिट ट्रेडिंग फाइनेंसिंग बैलेंस 32.8 ट्रिलियन वॉन रहा, जो अब तक का उच्चतम स्तर है, जबकि ब्रोकरेज खरीद से जुड़ी बकाया रकम भी 1 ट्रिलियन वॉन के दायरे में रही। KOSPI के 6,000 अंक के करीब पहुंचने के बीच स्टॉक-बॉरोइंग बैलेंस भी रिकॉर्ड दर्ज किया गया। ऐसे उधार का इस्तेमाल मुख्य रूप से विदेशी और संस्थागत निवेशक कीमतों में गिरावट की उम्मीद पर शॉर्ट सेलिंग के लिए करते हैं। व्यक्तिगत निवेशकों की कर्ज आधारित भागीदारी बढ़ने से बाजार में उतार-चढ़ाव आने पर जबरन बिक्री की चिंता बढ़ सकती है। स्रोत: hankyung.com"
+      },
+      "id": {
+        "title": "Utang Investasi dan Dana Short Selling Cetak Rekor di Pasar Saham Korea",
+        "excerpt": "Menurut Hankyung, saldo pinjaman margin untuk membeli saham dan saldo peminjaman saham yang digunakan untuk short selling di Korea sama-sama mencetak rekor.",
+        "body": "Saat pasar saham Korea Selatan terus menguat, saldo pinjaman margin yang dikenal sebagai investasi dengan utang dan saldo peminjaman saham yang menjadi dana siaga untuk short selling sama-sama membesar ke level tertinggi sepanjang sejarah. Hankyung melaporkan bahwa saldo pembiayaan transaksi kredit mencapai 32,8 triliun won, rekor tertinggi, sementara piutang transaksi broker juga berada di kisaran 1 triliun won. Ketika indeks Kospi mendekati level 6.000, saldo peminjaman saham juga tercatat sebagai rekor. Peminjaman saham terutama digunakan investor asing dan institusi untuk short selling ketika memperkirakan harga saham turun. Bertambahnya investor ritel yang memakai utang dapat memperbesar kekhawatiran forced selling jika pasar bergejolak. Sumber: hankyung.com"
+      }
+    }
+  },
+  {
+    "id": "4165d92c42a9",
+    "slug": "밀어올리는-개미-vs-끌어내리는-외인-치열한-8000p-고지전-352708",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-05-15T17:03:53.836Z",
+    "updatedAt": "2026-05-15T17:03:53.836Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/2026051598861",
+    "canonicalUrl": "https://www.hankyung.com/article/2026051598861",
+    "titleFingerprint": "824d84f6c08d4839a4470834392dd5f0fc0baee1",
+    "dedupKeys": [
+      "4165d92c42a957a6c1c0f74f7ab4f79f8c92e9ab",
+      "824d84f6c08d4839a4470834392dd5f0fc0baee1",
+      "084143720ef2d222e08f8b28801aaf5a4d8c9409"
+    ],
+    "imageUrl": "/images/articles/4165d92c42a9.jpg",
+    "i18n": {
+      "ko": {
+        "title": "코스피 8000 돌파 후 급락, 개인 순매수와 외국인 매도 격돌",
+        "excerpt": "15일 코스피는 장중 사상 처음 8000선을 넘었지만 외국인·기관 매도와 차익 실현 물량에 6.12% 급락해 7493.18로 마감했다.",
+        "body": "15일 코스피지수는 오전 9시 7951.75로 출발해 오전 9시13분 사상 처음 8000선을 돌파했지만, 오후 들어 매도세가 커지며 7493.18에 마감했다. 하락률은 6.12%였다. 오후 1시28분에는 매도 사이드카가 발동돼 5분간 거래가 정지됐고, 장중 7300선까지 밀렸다. 유가증권시장 시가총액 상위 100개 종목 중 91개가 하락했으며 삼성전자는 8.61%, SK하이닉스는 7.66% 내렸다. 외국인과 기관은 각각 5조6000억원, 1조7300억원을 순매도했고 개인은 7조원 넘게 순매수했다. 외국인은 7거래일 연속 31조원 넘게 팔았고 개인은 같은 기간 30조원 넘게 사들였다. 한국경제(hankyung.com)는 전문가들이 이를 반도체 급등 이후 일시적 포트폴리오 조정으로 봤다고 전했다."
+      },
+      "en": {
+        "title": "KOSPI Slides After 8,000 Break as Retail Buying Meets Foreign Selling",
+        "excerpt": "On May 15, the KOSPI briefly topped 8,000 for the first time, but foreign and institutional selling plus profit-taking dragged it down 6.12% to 7,493.18.",
+        "body": "On May 15, the KOSPI opened at 7,951.75 and crossed 8,000 for the first time at 9:13 a.m., but selling pressure intensified in the afternoon and the index closed at 7,493.18, down 6.12%. A sell-sidecar halted trading for five minutes at 1:28 p.m., and the index briefly fell to the 7,300 range. Among the top 100 KOSPI stocks by market value, 91 ended lower. Samsung Electronics fell 8.61%, while SK hynix dropped 7.66%. Foreign investors and institutions net sold 5.6 trillion won and 1.73 trillion won, respectively, while retail investors bought more than 7 trillion won. Hankyung.com said experts viewed the foreign selling as a temporary portfolio adjustment after a sharp semiconductor rally, not a peak-out signal."
+      },
+      "ja": {
+        "title": "KOSPI 8000突破後に急落、個人買いと外国人売りが激突",
+        "excerpt": "15日のKOSPIは取引時間中に初めて8000を超えたが、外国人・機関の売りと利益確定売りで6.12%下落し7493.18で終えた。",
+        "body": "15日のKOSPI指数は午前9時に7951.75で始まり、午前9時13分に史上初めて8000を突破した。しかし午後に売りが強まり、終値は7493.18、下落率は6.12%となった。午後1時28分には売りサイドカーが発動し、取引が5分間停止。指数は一時7300台まで下げた。時価総額上位100銘柄のうち91銘柄が下落し、サムスン電子は8.61%、SKハイニックスは7.66%安で終えた。外国人は5兆6000億ウォン、機関は1兆7300億ウォンを売り越し、個人は7兆ウォン超を買い越した。韓国経済新聞（hankyung.com）は、専門家が半導体株急騰後の一時的なポートフォリオ調整と見ていると伝えた。"
+      },
+      "zh": {
+        "title": "KOSPI突破8000点后急跌，散户买盘与外资卖盘拉锯",
+        "excerpt": "5月15日，KOSPI盘中首次突破8000点，但外资和机构抛售叠加获利了结，指数下跌6.12%，收于7493.18点。",
+        "body": "5月15日，KOSPI指数以7951.75点开盘，并在上午9时13分首次突破8000点。但午后卖压扩大，最终收于7493.18点，跌幅为6.12%。下午1时28分，卖出侧熔断机制触发，交易暂停5分钟，盘中一度跌至7300点区间。按市值计算的前100只股票中，91只收跌；三星电子下跌8.61%，SK海力士下跌7.66%。外资和机构分别净卖出5.6万亿韩元和1.73万亿韩元，个人投资者净买入超过7万亿韩元。韩国经济新闻（hankyung.com）称，专家认为这更像是半导体股急涨后的临时组合调整，而非见顶信号。"
+      },
+      "es": {
+        "title": "El KOSPI cae tras superar 8.000 puntos entre compras minoristas y ventas extranjeras",
+        "excerpt": "El 15 de mayo, el KOSPI superó por primera vez los 8.000 puntos intradía, pero ventas de extranjeros e instituciones lo llevaron a caer 6,12% hasta 7.493,18.",
+        "body": "El 15 de mayo, el KOSPI abrió en 7.951,75 y superó por primera vez los 8.000 puntos a las 9:13, pero la presión vendedora aumentó por la tarde y cerró en 7.493,18, con una caída del 6,12%. A la 1:28 p.m. se activó un sidecar de venta y la negociación se detuvo durante cinco minutos; el índice llegó a bajar a la zona de 7.300 puntos. De las 100 mayores acciones por capitalización, 91 terminaron en negativo. Samsung Electronics cayó 8,61% y SK hynix perdió 7,66%. Los extranjeros vendieron neto 5,6 billones de wones y las instituciones 1,73 billones, mientras los minoristas compraron más de 7 billones. Hankyung.com citó a expertos que lo ven como un ajuste temporal de carteras tras el fuerte repunte de semiconductores."
+      },
+      "pt": {
+        "title": "KOSPI cai após romper 8.000 pontos com varejo comprando e estrangeiros vendendo",
+        "excerpt": "Em 15 de maio, o KOSPI superou 8.000 pontos pela primeira vez no intradia, mas vendas de estrangeiros e instituições o derrubaram 6,12%, para 7.493,18.",
+        "body": "Em 15 de maio, o KOSPI abriu a 7.951,75 e rompeu pela primeira vez a marca de 8.000 pontos às 9h13, mas a pressão vendedora aumentou à tarde e o índice fechou a 7.493,18, queda de 6,12%. Às 13h28, um sidecar de venda interrompeu os negócios por cinco minutos, e o índice chegou à faixa de 7.300 pontos. Entre as 100 maiores ações por valor de mercado, 91 fecharam em baixa. Samsung Electronics caiu 8,61% e SK hynix recuou 7,66%. Estrangeiros venderam 5,6 trilhões de wones líquidos e instituições, 1,73 trilhão; investidores individuais compraram mais de 7 trilhões. Segundo hankyung.com, especialistas interpretaram o movimento como ajuste temporário de portfólio após a alta dos semicondutores."
+      },
+      "de": {
+        "title": "KOSPI fällt nach Sprung über 8.000 Punkte: Privatanleger kaufen, Ausländer verkaufen",
+        "excerpt": "Am 15. Mai stieg der KOSPI erstmals im Tageshandel über 8.000 Punkte, fiel aber wegen Verkäufen ausländischer und institutioneller Anleger um 6,12% auf 7.493,18.",
+        "body": "Am 15. Mai eröffnete der KOSPI bei 7.951,75 Punkten und überschritt um 9:13 Uhr erstmals die Marke von 8.000 Punkten. Am Nachmittag nahm der Verkaufsdruck jedoch zu, der Index schloss bei 7.493,18 Punkten und verlor 6,12%. Um 13:28 Uhr wurde ein Verkaufs-Sidecar ausgelöst, der Handel wurde fünf Minuten ausgesetzt; zeitweise fiel der Index in den Bereich von 7.300 Punkten. Von den 100 größten Werten nach Marktkapitalisierung schlossen 91 tiefer. Samsung Electronics verlor 8,61%, SK hynix 7,66%. Ausländer verkauften netto 5,6 Billionen Won, Institutionelle 1,73 Billionen Won, während Privatanleger mehr als 7 Billionen Won kauften. Hankyung.com berichtete, Experten sähen darin eine vorübergehende Portfolioanpassung nach der Halbleiterrally."
+      },
+      "fr": {
+        "title": "Le KOSPI chute après 8.000 points, entre achats des particuliers et ventes étrangères",
+        "excerpt": "Le 15 mai, le KOSPI a dépassé 8.000 points pour la première fois en séance, avant de céder 6,12% à 7.493,18 sous les ventes étrangères et institutionnelles.",
+        "body": "Le 15 mai, le KOSPI a ouvert à 7.951,75 et franchi pour la première fois les 8.000 points à 9h13. Mais les ventes se sont intensifiées l’après-midi et l’indice a clôturé à 7.493,18, en baisse de 6,12%. À 13h28, un sidecar vendeur a suspendu les échanges pendant cinq minutes, et l’indice est brièvement tombé dans la zone des 7.300 points. Parmi les 100 premières capitalisations, 91 valeurs ont fini en baisse. Samsung Electronics a perdu 8,61% et SK hynix 7,66%. Les étrangers ont vendu net 5.600 milliards de wons et les institutions 1.730 milliards, tandis que les particuliers ont acheté plus de 7.000 milliards. Selon hankyung.com, les experts y voient un ajustement temporaire de portefeuille après la hausse des semi-conducteurs."
+      },
+      "ar": {
+        "title": "كوسبي يهبط بعد اختراق 8000 نقطة وسط شراء الأفراد وبيع الأجانب",
+        "excerpt": "في 15 مايو تجاوز مؤشر كوسبي مستوى 8000 نقطة لأول مرة أثناء الجلسة، لكنه تراجع 6.12% إلى 7493.18 بفعل بيع الأجانب والمؤسسات وجني الأرباح.",
+        "body": "في 15 مايو افتتح مؤشر كوسبي عند 7951.75 نقطة وتجاوز مستوى 8000 نقطة لأول مرة في الساعة 9:13 صباحا، لكن ضغوط البيع زادت بعد الظهر ليغلق عند 7493.18 نقطة، منخفضا 6.12%. عند الساعة 1:28 ظهرا فُعّل نظام إيقاف مؤقت للبيع لمدة خمس دقائق، وهبط المؤشر خلال الجلسة إلى نطاق 7300 نقطة. من بين أكبر 100 سهم من حيث القيمة السوقية، أغلقت 91 سهما على انخفاض. تراجع سهم سامسونغ إلكترونيكس 8.61% وSK hynix بنسبة 7.66%. باع الأجانب صافي 5.6 تريليون وون والمؤسسات 1.73 تريليون وون، بينما اشترى الأفراد أكثر من 7 تريليونات وون. وذكرت hankyung.com أن خبراء اعتبروا ذلك تعديلا مؤقتا للمحافظ بعد صعود أسهم أشباه الموصلات."
+      },
+      "hi": {
+        "title": "KOSPI 8,000 के बाद फिसला, खुदरा खरीद और विदेशी बिकवाली में टकराव",
+        "excerpt": "15 मई को KOSPI पहली बार कारोबार के दौरान 8,000 के ऊपर गया, लेकिन विदेशी और संस्थागत बिकवाली तथा मुनाफावसूली से 6.12% गिरकर 7,493.18 पर बंद हुआ।",
+        "body": "15 मई को KOSPI सूचकांक 7,951.75 पर खुला और सुबह 9:13 बजे पहली बार 8,000 के स्तर को पार कर गया। लेकिन दोपहर में बिकवाली तेज हुई और सूचकांक 6.12% गिरकर 7,493.18 पर बंद हुआ। दोपहर 1:28 बजे बिक्री-sidecar लागू हुआ और कारोबार पांच मिनट रुका; सूचकांक एक समय 7,300 के दायरे तक नीचे गया। बाजार पूंजीकरण के लिहाज से शीर्ष 100 शेयरों में 91 गिरकर बंद हुए। Samsung Electronics 8.61% और SK hynix 7.66% नीचे रहे। विदेशियों ने 5.6 ट्रिलियन वॉन और संस्थानों ने 1.73 ट्रिलियन वॉन की शुद्ध बिकवाली की, जबकि व्यक्तिगत निवेशकों ने 7 ट्रिलियन वॉन से अधिक खरीदा। hankyung.com के अनुसार, विशेषज्ञों ने इसे सेमीकंडक्टर शेयरों की तेज बढ़त के बाद अस्थायी पोर्टफोलियो समायोजन बताया।"
+      },
+      "id": {
+        "title": "KOSPI Turun Setelah Tembus 8.000, Beli Ritel Lawan Jual Asing",
+        "excerpt": "Pada 15 Mei, KOSPI sempat menembus 8.000 untuk pertama kalinya, tetapi aksi jual asing dan institusi serta ambil untung menekan indeks turun 6,12% ke 7.493,18.",
+        "body": "Pada 15 Mei, indeks KOSPI dibuka di 7.951,75 dan menembus 8.000 untuk pertama kalinya pada pukul 9.13. Namun tekanan jual meningkat pada siang hingga sore hari, dan indeks ditutup di 7.493,18, turun 6,12%. Pada pukul 13.28, sell sidecar aktif sehingga perdagangan dihentikan lima menit, sementara indeks sempat turun ke area 7.300. Dari 100 saham terbesar berdasarkan kapitalisasi pasar, 91 ditutup melemah. Samsung Electronics turun 8,61% dan SK hynix turun 7,66%. Investor asing mencatat jual bersih 5,6 triliun won dan institusi 1,73 triliun won, sedangkan investor individu membeli lebih dari 7 triliun won. Hankyung.com melaporkan para ahli melihatnya sebagai penyesuaian portofolio sementara setelah reli saham semikonduktor."
+      }
+    }
+  },
+  {
+    "id": "ade30095d24b",
+    "slug": "커피-1000잔-동나고-추가-좌석까지-꽉차-480571",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-05-15T17:02:37.435Z",
+    "updatedAt": "2026-05-15T17:02:37.435Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/2026051599411",
+    "canonicalUrl": "https://www.hankyung.com/article/2026051599411",
+    "titleFingerprint": "d4533d8c7a5b909f5079c0f1eea5389086d01ca5",
+    "dedupKeys": [
+      "ade30095d24be27f932bc44a82e7ec4e60e4b070",
+      "d4533d8c7a5b909f5079c0f1eea5389086d01ca5",
+      "b1142ef9475218e8f7f6ef6cf65a921fa5e3cde0"
+    ],
+    "imageUrl": "/images/articles/ade30095d24b.png",
+    "i18n": {
+      "ko": {
+        "title": "커피 1000잔 소진, 추가 좌석까지 꽉 찬 현장 열기 주목",
+        "excerpt": "hankyung.com에 따르면 현장에서 준비된 커피 1000잔이 모두 소진되고 추가 좌석까지 꽉 차며 높은 참석 열기가 확인됐다.",
+        "body": "hankyung.com은 현장에서 준비된 커피 1000잔이 모두 동나고 추가 좌석까지 꽉 찼다고 전했다. 원문 제목에 제시된 핵심 사실은 커피 제공 물량 1000잔이 소진됐다는 점과, 기존 좌석을 넘어 추가로 마련된 좌석까지 가득 찼다는 점이다. 이는 해당 현장에 참석자 수요가 집중됐음을 보여주는 수치로 해석할 수 있다. 다만 원문에 행사명, 일시, 장소, 주최 측 등 추가 정보는 제시되지 않았다. 관련 내용은 hankyung.com 보도를 인용했다."
+      },
+      "en": {
+        "title": "1,000 Cups of Coffee Gone as Extra Seats Also Fill Up",
+        "excerpt": "According to hankyung.com, all 1,000 cups of coffee prepared at the venue ran out, and even the additional seats were filled, showing strong turnout.",
+        "body": "hankyung.com reported that 1,000 cups of coffee prepared at the venue were all gone and that even additional seats were completely filled. The key facts presented in the original headline are that the coffee supply of 1,000 cups was exhausted and that seats added beyond the original capacity were also occupied. The figures indicate concentrated attendee demand at the site. However, the original information did not provide further details such as the event name, date, location, or organizer. This article cites hankyung.com as the source."
+      },
+      "ja": {
+        "title": "コーヒー1000杯が完売、追加席まで満席となった現場の熱気",
+        "excerpt": "hankyung.comによると、現場で用意されたコーヒー1000杯がすべてなくなり、追加席まで埋まるほど高い参加熱が確認された。",
+        "body": "hankyung.comは、現場で用意されたコーヒー1000杯がすべてなくなり、追加席まで満席になったと伝えた。原文タイトルで示された主要事実は、提供されたコーヒー1000杯が消費されたこと、そして既存の座席を超えて用意された追加席まで埋まったことだ。これは当該現場に参加需要が集中したことを示す数字といえる。ただし原文には、イベント名、日時、場所、主催者などの追加情報は示されていない。関連内容はhankyung.comの報道を引用した。"
+      },
+      "zh": {
+        "title": "1000杯咖啡售罄，追加座位也全部坐满引关注",
+        "excerpt": "据hankyung.com报道，现场准备的1000杯咖啡全部售罄，追加座位也被坐满，显示出较高的到场热度。",
+        "body": "hankyung.com报道称，现场准备的1000杯咖啡全部售罄，追加座位也坐满。原文标题呈现的核心事实是，供应的1000杯咖啡已经消耗完毕，且在原有座位之外增设的座位同样被占满。这一数字显示相关现场的参与需求较为集中。不过，原文并未提供活动名称、时间、地点或主办方等进一步信息。本文相关内容引用自hankyung.com报道。"
+      },
+      "es": {
+        "title": "Se agotan 1.000 cafés y también se llenan los asientos extra",
+        "excerpt": "Según hankyung.com, los 1.000 cafés preparados en el lugar se agotaron y hasta los asientos adicionales quedaron llenos, señal de alta asistencia.",
+        "body": "hankyung.com informó que los 1.000 cafés preparados en el lugar se agotaron y que incluso los asientos adicionales quedaron completamente ocupados. Los datos centrales del titular original son que el suministro de 1.000 cafés se consumió por completo y que los asientos añadidos más allá de la capacidad inicial también se llenaron. Estas cifras muestran una demanda concentrada de asistentes en el lugar. Sin embargo, la información original no especifica el nombre del evento, la fecha, el lugar ni el organizador. El contenido cita a hankyung.com como fuente."
+      },
+      "pt": {
+        "title": "1.000 cafés se esgotam e assentos extras também ficam lotados",
+        "excerpt": "Segundo o hankyung.com, os 1.000 cafés preparados no local acabaram e até os assentos adicionais ficaram cheios, indicando forte presença.",
+        "body": "O hankyung.com informou que os 1.000 cafés preparados no local se esgotaram e que até os assentos adicionais ficaram completamente ocupados. Os principais fatos apresentados no título original são o esgotamento da oferta de 1.000 cafés e a ocupação dos assentos acrescentados além da capacidade inicial. Esses números indicam uma demanda concentrada de participantes no local. No entanto, a informação original não apresenta nome do evento, data, local ou organizador. Este conteúdo cita a reportagem do hankyung.com como fonte."
+      },
+      "de": {
+        "title": "1.000 Kaffee ausgegeben, auch Zusatzplätze komplett besetzt",
+        "excerpt": "Laut hankyung.com waren 1.000 vorbereitete Kaffees vor Ort vollständig vergriffen, und auch zusätzliche Sitzplätze waren voll belegt.",
+        "body": "hankyung.com berichtete, dass die vor Ort vorbereiteten 1.000 Kaffees vollständig vergriffen waren und auch zusätzliche Sitzplätze komplett belegt wurden. Die zentralen Fakten aus der ursprünglichen Überschrift sind, dass die Kaffeemenge von 1.000 Bechern aufgebraucht wurde und dass auch über die ursprüngliche Bestuhlung hinaus eingerichtete Plätze voll waren. Diese Zahlen weisen auf eine starke Nachfrage der Anwesenden am Veranstaltungsort hin. Weitere Angaben wie Name der Veranstaltung, Datum, Ort oder Veranstalter wurden im Original nicht genannt. Quelle ist hankyung.com."
+      },
+      "fr": {
+        "title": "1 000 cafés épuisés et des sièges supplémentaires tous occupés",
+        "excerpt": "Selon hankyung.com, les 1 000 cafés préparés sur place ont été épuisés et même les sièges supplémentaires ont été remplis, signe d’une forte affluence.",
+        "body": "hankyung.com a rapporté que les 1 000 cafés préparés sur place avaient tous été écoulés et que même les sièges supplémentaires étaient entièrement occupés. Les faits essentiels du titre original sont l’épuisement des 1 000 cafés disponibles et le remplissage des places ajoutées au-delà de la capacité initiale. Ces chiffres indiquent une demande concentrée de participants sur le site. Toutefois, le texte d’origine ne précise pas le nom de l’événement, la date, le lieu ni l’organisateur. Les informations citées proviennent de hankyung.com."
+      },
+      "ar": {
+        "title": "نفاد 1000 كوب قهوة وامتلاء المقاعد الإضافية بالكامل",
+        "excerpt": "بحسب hankyung.com، نفدت 1000 كوب قهوة كانت معدة في الموقع، كما امتلأت المقاعد الإضافية، ما يعكس حضورا قويا.",
+        "body": "أفاد موقع hankyung.com بأن 1000 كوب قهوة كانت معدة في الموقع نفدت بالكامل، وأن المقاعد الإضافية امتلأت أيضا. وتتمثل الحقائق الأساسية الواردة في العنوان الأصلي في نفاد كمية القهوة البالغة 1000 كوب، وامتلاء المقاعد التي أضيفت إلى جانب المقاعد الأصلية. وتشير هذه الأرقام إلى تركز الطلب من الحاضرين في ذلك الموقع. لكن النص الأصلي لم يذكر تفاصيل إضافية مثل اسم الفعالية أو تاريخها أو مكانها أو الجهة المنظمة. يستند هذا المحتوى إلى تقرير hankyung.com."
+      },
+      "hi": {
+        "title": "1000 कप कॉफी खत्म, अतिरिक्त सीटें भी पूरी तरह भर गईं",
+        "excerpt": "hankyung.com के अनुसार, स्थल पर तैयार 1000 कप कॉफी खत्म हो गई और अतिरिक्त सीटें भी भर गईं, जिससे मजबूत उपस्थिति दिखी।",
+        "body": "hankyung.com ने बताया कि स्थल पर तैयार किए गए 1000 कप कॉफी पूरी तरह खत्म हो गए और अतिरिक्त सीटें भी भर गईं। मूल शीर्षक में दिए गए मुख्य तथ्य यह हैं कि 1000 कप कॉफी की उपलब्ध मात्रा समाप्त हो गई और मूल बैठने की व्यवस्था से आगे जोड़ी गई सीटें भी भर गईं। ये आंकड़े उस स्थल पर उपस्थित लोगों की केंद्रित मांग दिखाते हैं। हालांकि मूल जानकारी में कार्यक्रम का नाम, तारीख, स्थान या आयोजक जैसे अतिरिक्त विवरण नहीं दिए गए। यह सामग्री hankyung.com की रिपोर्ट के हवाले से है।"
+      },
+      "id": {
+        "title": "1.000 Cangkir Kopi Habis, Kursi Tambahan Juga Penuh",
+        "excerpt": "Menurut hankyung.com, 1.000 cangkir kopi yang disiapkan di lokasi habis dan kursi tambahan juga penuh, menunjukkan tingginya kehadiran.",
+        "body": "hankyung.com melaporkan bahwa 1.000 cangkir kopi yang disiapkan di lokasi habis seluruhnya dan kursi tambahan juga terisi penuh. Fakta utama dalam judul asli adalah pasokan 1.000 cangkir kopi telah habis serta kursi yang ditambahkan di luar kapasitas awal juga penuh. Angka tersebut menunjukkan permintaan kehadiran yang terkonsentrasi di lokasi. Namun, informasi asli tidak mencantumkan detail tambahan seperti nama acara, tanggal, tempat, atau penyelenggara. Konten ini mengutip laporan hankyung.com sebagai sumber."
+      }
+    }
+  },
+  {
     "id": "6acac83b854b",
     "slug": "최용호-대표-ai로봇-기반-엔터테크로-k컬처-격-높일-것-260005",
     "channelId": "ETF",
@@ -4271,231 +4496,6 @@
         "title": "Hana Bank Kuasai 6,55% Dunamu, Perluas Aliansi Stablecoin Won",
         "excerpt": "Hana Bank akan membeli sebagian saham Dunamu milik Kakao Investment senilai sekitar 1 triliun won, meraih 6,55% dan memperkuat kerja sama stablecoin won serta STO.",
         "body": "Hana Bank akan mengakuisisi sebagian saham Dunamu yang dimiliki Kakao Investment senilai sekitar 1 triliun won dan memperoleh kepemilikan 6,55%. Tanggal akuisisi disebut dijadwalkan pada tanggal 15 bulan depan. Hana Financial Group berencana meningkatkan daya saing di bidang keuangan baru dan menaikkan level kerja sama dengan Dunamu melalui investasi ini. Ruang lingkup kerja sama mencakup keuangan digital, termasuk stablecoin berbasis won dan security token offering, atau STO. Dunamu, salah satu operator aset virtual utama di Korea, membukukan laba bersih 708,8 miliar won tahun lalu. Akuisisi saham ini menarik perhatian sebagai contoh penguatan kemitraan strategis antara bank dan platform aset virtual. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "f78cbb3d1bdc",
-    "slug": "속보-코스피-사상-최고치-798141-마감팔천피-가시권-668467",
-    "channelId": "ETF",
-    "category": "etf",
-    "publishedAt": "2026-05-14T23:02:55.901Z",
-    "updatedAt": "2026-05-14T23:02:55.901Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/2026051467336",
-    "canonicalUrl": "https://www.hankyung.com/article/2026051467336",
-    "titleFingerprint": "a42e1316b329213c0ee82ce12fafd8e35e16f461",
-    "dedupKeys": [
-      "f78cbb3d1bdc38202962b75ee07ebcda243dac69",
-      "a42e1316b329213c0ee82ce12fafd8e35e16f461",
-      "bee2d51998c8a2b2080bebe26f24a6d999e55f59"
-    ],
-    "imageUrl": "/images/articles/f78cbb3d1bdc.jpg",
-    "i18n": {
-      "ko": {
-        "title": "코스피 사상 최고 7981.41 마감, ‘팔천피’ 가시권 진입",
-        "excerpt": "코스피가 hankyung.com 보도 기준 사상 최고치인 7981.41로 마감하며 이른바 ‘팔천피’ 진입 가능성이 시장의 핵심 관심사로 떠올랐다.",
-        "body": "코스피가 hankyung.com 보도에 따르면 사상 최고치인 7981.41로 장을 마감했다. 이번 마감 지수는 8000선에 근접한 수준으로, 시장에서 이른바 ‘팔천피’가 가시권에 들어왔다는 점이 주목된다. 원문이 제시한 핵심 수치는 코스피 종가 7981.41이며, 요약에는 별도 배경 설명이나 상승 원인은 포함되지 않았다. 지수가 사상 최고치를 기록하면서 투자자들의 관심은 향후 8000선 도달 여부에 모일 수 있다. 출처: hankyung.com."
-      },
-      "en": {
-        "title": "KOSPI Closes at Record 7,981.41, Putting 8,000 Within Sight",
-        "excerpt": "The KOSPI closed at a record 7,981.41, according to hankyung.com, bringing the symbolic 8,000-point level into focus for the market.",
-        "body": "According to hankyung.com, the KOSPI closed at an all-time high of 7,981.41. The closing level is close to the 8,000 mark, drawing attention to the possibility that the so-called 8,000-point KOSPI is now within sight. The original report’s key figure is the KOSPI closing level of 7,981.41, while the summary does not provide additional background or reasons for the rise. With the index ending at a record high, market attention may center on whether it reaches 8,000 next. Source: hankyung.com."
-      },
-      "ja": {
-        "title": "KOSPIが史上最高値7981.41で終了、8000台が視野に",
-        "excerpt": "hankyung.comによると、KOSPIは史上最高値の7981.41で取引を終え、節目となる8000台入りが市場の注目点となった。",
-        "body": "hankyung.comの報道によると、KOSPIは史上最高値となる7981.41で取引を終えた。今回の終値は8000台に迫る水準で、市場ではいわゆる「8000台KOSPI」が視野に入った点が注目されている。原文が示した主要数値はKOSPI終値7981.41であり、要約には追加の背景説明や上昇理由は含まれていない。指数が史上最高値で終了したことで、今後8000台に到達するかどうかに関心が集まる可能性がある。出典: hankyung.com。"
-      },
-      "zh": {
-        "title": "韩国KOSPI收于历史新高7981.41点，8000点近在眼前",
-        "excerpt": "据hankyung.com报道，韩国KOSPI指数收于历史新高7981.41点，距离8000点关口不远，成为市场关注焦点。",
-        "body": "据hankyung.com报道，韩国KOSPI指数以7981.41点收盘，创下历史最高收盘纪录。该收盘点位已接近8000点关口，因此市场关注所谓“8000点KOSPI”进入视野。原文提供的核心数据是KOSPI收盘价7981.41点，摘要中未包含更多背景说明或上涨原因。随着指数创下历史新高，投资者的关注点可能转向其后续能否触及8000点。来源：hankyung.com。"
-      },
-      "es": {
-        "title": "El KOSPI cierra en récord de 7.981,41 y acerca el nivel de 8.000",
-        "excerpt": "El KOSPI cerró en un máximo histórico de 7.981,41, según hankyung.com, dejando el umbral de 8.000 puntos como foco central del mercado.",
-        "body": "Según hankyung.com, el KOSPI cerró en un máximo histórico de 7.981,41 puntos. Ese nivel de cierre se sitúa cerca de la barrera de 8.000 puntos, por lo que el mercado observa la posibilidad de que el llamado KOSPI de 8.000 puntos entre en alcance visible. El dato central ofrecido por el texto original es el cierre del KOSPI en 7.981,41, sin que el resumen incluya más contexto ni razones de la subida. Tras el récord, la atención puede centrarse en si el índice alcanza los 8.000 puntos. Fuente: hankyung.com."
-      },
-      "pt": {
-        "title": "KOSPI fecha em recorde de 7.981,41 e deixa os 8.000 no radar",
-        "excerpt": "O KOSPI fechou em máxima histórica de 7.981,41, segundo o hankyung.com, aproximando o índice do patamar simbólico de 8.000 pontos.",
-        "body": "Segundo o hankyung.com, o KOSPI encerrou o pregão em máxima histórica de 7.981,41 pontos. O nível de fechamento está próximo da marca de 8.000 pontos, chamando atenção para a possibilidade de o chamado KOSPI de 8.000 pontos entrar no campo de visão do mercado. O principal dado apresentado no texto original é o fechamento do KOSPI em 7.981,41, sem que o resumo traga contexto adicional ou motivos para a alta. Com o índice em recorde, o foco pode se voltar para uma eventual chegada aos 8.000 pontos. Fonte: hankyung.com."
-      },
-      "de": {
-        "title": "KOSPI schließt auf Rekordhoch von 7.981,41, Marke 8.000 rückt näher",
-        "excerpt": "Der KOSPI schloss laut hankyung.com auf einem Rekordhoch von 7.981,41 Punkten und rückte damit die Marke von 8.000 Punkten in den Fokus.",
-        "body": "Nach Angaben von hankyung.com schloss der KOSPI auf einem Allzeithoch von 7.981,41 Punkten. Der Schlussstand liegt nahe an der Marke von 8.000 Punkten, weshalb die Aussicht auf einen sogenannten KOSPI bei 8.000 Punkten Aufmerksamkeit erhält. Die zentrale Zahl des Originaltexts ist der KOSPI-Schlussstand von 7.981,41; zusätzliche Hintergründe oder Gründe für den Anstieg werden in der Zusammenfassung nicht genannt. Nach dem Rekordschluss dürfte sich der Blick darauf richten, ob der Index die Marke von 8.000 Punkten erreicht. Quelle: hankyung.com."
-      },
-      "fr": {
-        "title": "Le KOSPI clôture au record de 7 981,41, le seuil des 8 000 en vue",
-        "excerpt": "Le KOSPI a clôturé à un record historique de 7 981,41, selon hankyung.com, plaçant le seuil symbolique des 8 000 points au centre de l’attention.",
-        "body": "Selon hankyung.com, le KOSPI a clôturé à un plus haut historique de 7 981,41 points. Ce niveau de clôture se rapproche du seuil des 8 000 points, ce qui attire l’attention sur la possibilité de voir le KOSPI entrer dans cette zone symbolique. Le chiffre clé fourni par le texte original est la clôture du KOSPI à 7 981,41, tandis que le résumé ne donne pas d’autre contexte ni de raison à la hausse. Après ce record, l’attention du marché peut se porter sur un éventuel passage à 8 000 points. Source : hankyung.com."
-      },
-      "ar": {
-        "title": "كوسبي يغلق عند مستوى قياسي 7981.41 ويقترب من حاجز 8000 نقطة",
-        "excerpt": "أغلق مؤشر كوسبي عند مستوى قياسي بلغ 7981.41 نقطة، وفق hankyung.com، ما جعل حاجز 8000 نقطة محور اهتمام السوق.",
-        "body": "وفق ما أوردته hankyung.com، أغلق مؤشر كوسبي عند أعلى مستوى في تاريخه مسجلا 7981.41 نقطة. ويقترب هذا الإغلاق من حاجز 8000 نقطة، ما يلفت الانتباه إلى أن ما يسمى كوسبي عند 8000 نقطة أصبح ضمن نطاق الرؤية. الرقم الأساسي الوارد في النص الأصلي هو إغلاق كوسبي عند 7981.41 نقطة، بينما لا يتضمن الملخص خلفية إضافية أو أسبابا للصعود. ومع تسجيل المؤشر مستوى قياسيا، قد يتركز اهتمام المستثمرين على ما إذا كان سيبلغ حاجز 8000 نقطة لاحقا. المصدر: hankyung.com."
-      },
-      "hi": {
-        "title": "KOSPI रिकॉर्ड 7,981.41 पर बंद, 8,000 अंक का स्तर अब नजर में",
-        "excerpt": "hankyung.com के अनुसार KOSPI 7,981.41 के ऐतिहासिक उच्च स्तर पर बंद हुआ, जिससे 8,000 अंक का प्रतीकात्मक स्तर बाजार के केंद्र में आ गया।",
-        "body": "hankyung.com के अनुसार KOSPI 7,981.41 अंक के सर्वकालिक उच्च स्तर पर बंद हुआ। यह बंद स्तर 8,000 अंक के करीब है, इसलिए बाजार में तथाकथित 8,000 अंक वाले KOSPI के दायरे में आने पर ध्यान गया है। मूल पाठ में दिया गया मुख्य आंकड़ा KOSPI का 7,981.41 पर बंद होना है, जबकि सारांश में अतिरिक्त पृष्ठभूमि या बढ़त के कारण शामिल नहीं हैं। सूचकांक के रिकॉर्ड उच्च स्तर पर बंद होने के बाद निवेशकों का ध्यान इस बात पर रह सकता है कि क्या यह आगे 8,000 अंक तक पहुंचता है। स्रोत: hankyung.com."
-      },
-      "id": {
-        "title": "KOSPI Ditutup Rekor 7.981,41, Level 8.000 Kini Dalam Pantauan",
-        "excerpt": "KOSPI ditutup pada rekor tertinggi 7.981,41 menurut hankyung.com, membuat level simbolis 8.000 poin menjadi fokus utama pasar.",
-        "body": "Menurut hankyung.com, KOSPI ditutup pada rekor tertinggi sepanjang masa di 7.981,41 poin. Level penutupan ini mendekati angka 8.000, sehingga pasar menyoroti kemungkinan bahwa KOSPI 8.000 poin kini sudah masuk dalam jangkauan. Angka utama yang disampaikan dalam teks asli adalah penutupan KOSPI di 7.981,41, sementara ringkasan tidak memuat latar belakang tambahan atau alasan kenaikan. Dengan indeks mencetak rekor penutupan, perhatian investor dapat tertuju pada apakah KOSPI akan mencapai 8.000 poin berikutnya. Sumber: hankyung.com."
-      }
-    }
-  },
-  {
-    "id": "99e8ba6250ec",
-    "slug": "나스닥은-고작-10-올랐는데60-수익률-낸-액티브-etf-비결은-676423",
-    "channelId": "ETF",
-    "category": "etf",
-    "publishedAt": "2026-05-14T23:02:05.099Z",
-    "updatedAt": "2026-05-14T23:02:05.099Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/202605146191i",
-    "canonicalUrl": "https://www.hankyung.com/article/202605146191i",
-    "titleFingerprint": "092a78233027187c3acbb6dfb2d8188c511f67df",
-    "dedupKeys": [
-      "99e8ba6250ecf266998fbe7a0bd0944402c17e2f",
-      "092a78233027187c3acbb6dfb2d8188c511f67df",
-      "93eb4835ed5d8d578f007b9e8bb5723bafc1ed2c"
-    ],
-    "imageUrl": "/images/articles/99e8ba6250ec.jpg",
-    "i18n": {
-      "ko": {
-        "title": "액티브 ETF 60% 수익률 비결, 나스닥 10% 상승과 갈린 이유",
-        "excerpt": "hankyung.com은 나스닥 상승률이 약 10%에 그친 상황에서 60% 수익률을 낸 액티브 ETF 사례를 통해 운용 전략의 차이를 조명했다.",
-        "body": "hankyung.com은 나스닥 지수가 약 10% 오르는 데 그친 가운데 60% 수익률을 기록한 액티브 ETF 사례를 보도했다. 기사 제목은 같은 시장 환경에서도 지수를 단순 추종하는 방식과 운용자가 종목·비중을 조정하는 액티브 전략 사이에 성과 차이가 나타날 수 있다는 점을 부각한다. 관련 수치로는 나스닥 상승률 10%, 해당 액티브 ETF 수익률 60%가 제시됐다. 이는 ETF 투자자들이 수익률뿐 아니라 운용 방식과 전략의 차이를 함께 살펴볼 필요가 있음을 보여준다. 출처: hankyung.com"
-      },
-      "en": {
-        "title": "Active ETF’s 60% Return Stands Out as Nasdaq Gains Just 10%",
-        "excerpt": "hankyung.com highlighted an active ETF that returned 60% while the Nasdaq rose about 10%, focusing on how management strategy drove the gap.",
-        "body": "hankyung.com reported on an active ETF that posted a 60% return while the Nasdaq index gained only about 10%. The article’s headline emphasizes that, even in the same market environment, performance can differ between a simple index-tracking approach and an active strategy in which managers adjust holdings and weights. The key figures presented are a 10% rise in the Nasdaq and a 60% return for the active ETF. The case shows that ETF investors may need to examine not only returns but also the management style and strategy behind a product. Source: hankyung.com"
-      },
-      "ja": {
-        "title": "アクティブETFが60％リターン、ナスダック10％高との差は何か",
-        "excerpt": "hankyung.comは、ナスダック上昇率が約10％にとどまる中で60％の収益率を上げたアクティブETFの事例を取り上げた。",
-        "body": "hankyung.comは、ナスダック指数の上昇率が約10％にとどまる中、60％の収益率を記録したアクティブETFの事例を報じた。記事の見出しは、同じ市場環境でも指数を単純に追随する方式と、運用者が銘柄や比率を調整するアクティブ戦略の間で成果に差が出得る点を強調している。関連数値として、ナスダックの上昇率10％、当該アクティブETFの収益率60％が示された。ETF投資家は収益率だけでなく、運用方式と戦略の違いも確認する必要がある。出典: hankyung.com"
-      },
-      "zh": {
-        "title": "主动ETF收益率达60%，为何远超纳斯达克10%涨幅",
-        "excerpt": "hankyung.com报道称，在纳斯达克仅上涨约10%的情况下，一只主动ETF取得60%收益率，凸显管理策略差异。",
-        "body": "hankyung.com报道，在纳斯达克指数涨幅仅约10%的背景下，一只主动ETF取得了60%的收益率。报道标题强调，即使处于相同市场环境，单纯跟踪指数的方式与由管理人调整持仓和权重的主动策略之间，也可能出现明显业绩差异。文中提到的核心数据是纳斯达克上涨10%，该主动ETF收益率为60%。这一案例显示，ETF投资者不仅需要关注收益率，也应同时查看产品的管理方式与策略差异。来源: hankyung.com"
-      },
-      "es": {
-        "title": "ETF activo logra 60% de retorno frente al 10% del Nasdaq",
-        "excerpt": "hankyung.com destacó un ETF activo que obtuvo 60% de rentabilidad mientras el Nasdaq subió cerca de 10%, poniendo el foco en la estrategia.",
-        "body": "hankyung.com informó sobre un ETF activo que registró una rentabilidad del 60% mientras el índice Nasdaq avanzó solo cerca de 10%. El titular subraya que, incluso en un mismo entorno de mercado, puede haber diferencias de desempeño entre una estrategia que replica un índice y una gestión activa en la que los gestores ajustan valores y ponderaciones. Las cifras clave citadas son una subida del 10% del Nasdaq y un retorno del 60% del ETF activo. El caso muestra que los inversores en ETF deben revisar no solo la rentabilidad, sino también el método de gestión y la estrategia. Fuente: hankyung.com"
-      },
-      "pt": {
-        "title": "ETF ativo rende 60% enquanto Nasdaq sobe só 10%; entenda o foco",
-        "excerpt": "hankyung.com destacou um ETF ativo com retorno de 60% em um cenário no qual o Nasdaq avançou cerca de 10%, ressaltando a estratégia.",
-        "body": "hankyung.com informou sobre um ETF ativo que registrou retorno de 60% enquanto o índice Nasdaq subiu apenas cerca de 10%. O título destaca que, mesmo no mesmo ambiente de mercado, pode haver diferença de desempenho entre uma abordagem que simplesmente acompanha um índice e uma estratégia ativa em que gestores ajustam ativos e pesos. Os números apresentados são alta de 10% do Nasdaq e retorno de 60% do ETF ativo. O caso mostra que investidores em ETF precisam observar não só a rentabilidade, mas também o modelo de gestão e a estratégia do produto. Fonte: hankyung.com"
-      },
-      "de": {
-        "title": "Aktiver ETF erzielt 60% Rendite, Nasdaq steigt nur 10%",
-        "excerpt": "hankyung.com berichtet über einen aktiven ETF mit 60% Rendite, während der Nasdaq nur rund 10% zulegte, und rückt die Strategie in den Fokus.",
-        "body": "hankyung.com berichtete über einen aktiven ETF, der eine Rendite von 60% erzielte, während der Nasdaq-Index nur um rund 10% stieg. Die Überschrift hebt hervor, dass selbst im gleichen Marktumfeld Leistungsunterschiede zwischen einer einfachen Indexnachbildung und einer aktiven Strategie entstehen können, bei der Manager Titel und Gewichtungen anpassen. Als zentrale Zahlen werden ein Nasdaq-Anstieg von 10% und eine Rendite des aktiven ETF von 60% genannt. Der Fall zeigt, dass ETF-Anleger neben der Rendite auch Verwaltungsansatz und Strategie prüfen sollten. Quelle: hankyung.com"
-      },
-      "fr": {
-        "title": "Un ETF actif gagne 60% quand le Nasdaq ne monte que de 10%",
-        "excerpt": "hankyung.com met en avant un ETF actif ayant gagné 60% alors que le Nasdaq progressait d’environ 10%, avec un focus sur la stratégie.",
-        "body": "hankyung.com a rapporté le cas d’un ETF actif ayant enregistré un rendement de 60% alors que l’indice Nasdaq ne progressait que d’environ 10%. Le titre souligne que, dans un même environnement de marché, l’écart de performance peut être important entre une approche qui réplique simplement un indice et une stratégie active dans laquelle les gérants ajustent les titres et les pondérations. Les chiffres clés cités sont une hausse de 10% du Nasdaq et un rendement de 60% pour cet ETF actif. Ce cas montre que les investisseurs en ETF doivent examiner le rendement, mais aussi le mode de gestion et la stratégie. Source: hankyung.com"
-      },
-      "ar": {
-        "title": "صندوق ETF نشط يحقق 60% مقابل صعود 10% فقط لناسداك",
-        "excerpt": "سلط hankyung.com الضوء على صندوق ETF نشط حقق عائدا 60% بينما ارتفع ناسداك بنحو 10%، مع التركيز على اختلاف استراتيجية الإدارة.",
-        "body": "أفاد hankyung.com بأن صندوق ETF نشطا سجل عائدا بلغ 60% في حين اكتفى مؤشر ناسداك بارتفاع يقارب 10%. ويبرز عنوان التقرير أن الأداء قد يختلف حتى في بيئة السوق نفسها بين أسلوب يتبع المؤشر بشكل مباشر واستراتيجية نشطة يغير فيها المديرون الأسهم والأوزان. الأرقام الأساسية المعروضة هي ارتفاع ناسداك 10% وعائد الصندوق النشط 60%. وتوضح الحالة أن مستثمري صناديق ETF يحتاجون إلى النظر ليس فقط إلى العائد، بل أيضا إلى أسلوب الإدارة والاستراتيجية المتبعة. المصدر: hankyung.com"
-      },
-      "hi": {
-        "title": "सक्रिय ETF ने दिया 60% रिटर्न, Nasdaq की बढ़त सिर्फ 10%",
-        "excerpt": "hankyung.com ने ऐसे सक्रिय ETF पर रोशनी डाली जिसने Nasdaq की लगभग 10% बढ़त के बीच 60% रिटर्न दिया और रणनीति के अंतर को दिखाया।",
-        "body": "hankyung.com ने ऐसे सक्रिय ETF की रिपोर्ट दी जिसने 60% रिटर्न दर्ज किया, जबकि Nasdaq सूचकांक लगभग 10% ही बढ़ा। शीर्षक यह रेखांकित करता है कि समान बाजार माहौल में भी केवल सूचकांक का पीछा करने वाली पद्धति और प्रबंधक द्वारा शेयरों व भारों को समायोजित करने वाली सक्रिय रणनीति के बीच प्रदर्शन का अंतर आ सकता है। प्रस्तुत प्रमुख आंकड़े Nasdaq की 10% बढ़त और संबंधित सक्रिय ETF का 60% रिटर्न हैं। यह मामला दिखाता है कि ETF निवेशकों को सिर्फ रिटर्न नहीं, बल्कि प्रबंधन शैली और रणनीति के अंतर को भी देखना चाहिए। स्रोत: hankyung.com"
-      },
-      "id": {
-        "title": "ETF aktif cetak imbal hasil 60% saat Nasdaq hanya naik 10%",
-        "excerpt": "hankyung.com menyoroti ETF aktif yang menghasilkan imbal hasil 60% ketika Nasdaq naik sekitar 10%, dengan fokus pada perbedaan strategi.",
-        "body": "hankyung.com melaporkan sebuah ETF aktif yang mencatat imbal hasil 60% ketika indeks Nasdaq hanya naik sekitar 10%. Judul artikel menekankan bahwa, dalam kondisi pasar yang sama, kinerja dapat berbeda antara pendekatan yang sekadar mengikuti indeks dan strategi aktif ketika manajer menyesuaikan saham serta bobotnya. Angka utama yang disajikan adalah kenaikan Nasdaq 10% dan imbal hasil ETF aktif tersebut 60%. Kasus ini menunjukkan bahwa investor ETF perlu melihat bukan hanya imbal hasil, tetapi juga metode pengelolaan dan perbedaan strategi produk. Sumber: hankyung.com"
-      }
-    }
-  },
-  {
-    "id": "e8f9a06317d5",
-    "slug": "삼성생명-요율인상에도-신계약-약진건강보험종신까지-호조-목표가-671843",
-    "channelId": "ETF",
-    "category": "etf",
-    "publishedAt": "2026-05-14T23:01:10.791Z",
-    "updatedAt": "2026-05-14T23:01:10.791Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/stock/12048673",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12048673",
-    "titleFingerprint": "6396681ef76cde3e320653cc2e47de48a0404513",
-    "dedupKeys": [
-      "e8f9a06317d564c9ec0402af3229faa0db3dad4b",
-      "6396681ef76cde3e320653cc2e47de48a0404513",
-      "5a00f57b238b55ad4dc9cbff038d4c071db20845"
-    ],
-    "imageUrl": "/images/articles/e8f9a06317d5.jpg",
-    "i18n": {
-      "ko": {
-        "title": "삼성생명 목표가 27만8000원 상향, 요율인상에도 신계약 성장 부각",
-        "excerpt": "대신증권은 15일 삼성생명이 요율 인상에도 신계약에서 약진했고 건강보험과 종신보험 모두 호조를 보였다며 목표주가를 22만원에서 27만8000원으로 올렸다.",
-        "body": "대신증권은 15일 삼성생명에 대해 요율 인상에도 신계약이 약진했다며 목표주가를 기존 22만원에서 27만8000원으로 상향 조정했다. 이번 평가의 핵심은 보험료 부담이 커질 수 있는 환경에서도 신규 계약 흐름이 개선됐다는 점이다. 특히 건강보험뿐 아니라 종신보험까지 호조를 보였다는 분석이 함께 제시됐다. 증권사는 이러한 신계약 확대가 삼성생명의 영업 흐름을 뒷받침하는 요인으로 작용한다고 봤다. 목표가 상향은 상품군 전반의 판매 개선을 반영한 조치로 해석된다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Samsung Life target raised to 278,000 won as new policy sales advance",
-        "excerpt": "Daishin Securities said on the 15th that Samsung Life’s new contracts advanced despite rate increases, with strength in both health and whole life insurance, and raised its target price.",
-        "body": "Daishin Securities on the 15th raised its target price for Samsung Life Insurance from 220,000 won to 278,000 won, saying new contracts advanced despite rate increases. The key point in the assessment was that new policy sales improved even in an environment where premium burdens could rise. The brokerage also said health insurance performed well and that whole life insurance was also strong. It viewed the expansion in new contracts as a factor supporting Samsung Life’s sales momentum. The higher target price reflects improved sales across product lines. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "サムスン生命の目標株価27万8000ウォンへ、新契約好調を評価",
-        "excerpt": "大信証券は15日、サムスン生命について料率引き上げにもかかわらず新契約が伸び、健康保険と終身保険がともに好調だったとして目標株価を引き上げた。",
-        "body": "大信証券は15日、サムスン生命について、料率引き上げにもかかわらず新契約が伸びたとして、目標株価を従来の22万ウォンから27万8000ウォンへ引き上げた。今回の評価の中心は、保険料負担が高まる可能性のある環境でも新規契約の流れが改善した点にある。特に健康保険だけでなく終身保険も好調だったとの分析が示された。同証券は、新契約の拡大がサムスン生命の営業動向を支える要因になると見ている。目標株価の引き上げは、商品群全般の販売改善を反映した措置と受け止められる。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "三星生命目标价上调至27.8万韩元，新单增长受关注",
-        "excerpt": "大信证券15日表示，三星生命在费率上调背景下新合同仍实现增长，健康险和终身险均表现良好，因此将目标价由22万韩元上调至27.8万韩元。",
-        "body": "大信证券15日将三星生命的目标股价从22万韩元上调至27.8万韩元，理由是即使在费率上调的情况下，新合同仍取得明显进展。此次评价的核心在于，在保费负担可能上升的环境下，新业务合同趋势仍有所改善。该证券公司还指出，不仅健康保险表现良好，终身保险也保持强劲。其认为，新合同扩大将成为支撑三星生命销售走势的因素。目标价上调可理解为反映了各类产品销售改善。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Samsung Life sube a 278.000 wones tras avance de nuevos contratos",
-        "excerpt": "Daishin Securities dijo el día 15 que Samsung Life avanzó en nuevos contratos pese al alza de tarifas, con buen desempeño en seguros de salud y vida entera, y elevó su precio objetivo.",
-        "body": "Daishin Securities elevó el día 15 el precio objetivo de Samsung Life Insurance de 220.000 wones a 278.000 wones, al señalar que los nuevos contratos avanzaron pese al aumento de tarifas. El punto central de la evaluación fue que el flujo de nuevas pólizas mejoró incluso en un entorno en el que la carga de primas podía aumentar. La firma también indicó que no solo los seguros de salud tuvieron buen desempeño, sino también los seguros de vida entera. Consideró que la expansión de nuevos contratos respalda la dinámica comercial de Samsung Life. La subida del objetivo refleja una mejora de ventas en las líneas de productos. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Samsung Life tem preço-alvo elevado a 278 mil won com novos contratos",
-        "excerpt": "A Daishin Securities disse no dia 15 que a Samsung Life avançou em novos contratos apesar do aumento de tarifas, com bom desempenho em saúde e vida inteira, e elevou o preço-alvo.",
-        "body": "A Daishin Securities elevou no dia 15 o preço-alvo da Samsung Life Insurance de 220 mil won para 278 mil won, afirmando que os novos contratos avançaram apesar do aumento de tarifas. O ponto central da avaliação foi a melhora no fluxo de novas apólices mesmo em um ambiente no qual o peso dos prêmios poderia crescer. A corretora também destacou bom desempenho não apenas em seguros de saúde, mas também em seguros de vida inteira. Para a instituição, a expansão dos novos contratos apoia a dinâmica comercial da Samsung Life. A alta do preço-alvo reflete melhora nas vendas das linhas de produtos. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Samsung Life: Kursziel auf 278.000 Won erhöht, Neugeschäft zieht an",
-        "excerpt": "Daishin Securities erklärte am 15., Samsung Life habe trotz Tariferhöhungen bei Neuverträgen zugelegt; Gesundheits- und Lebensversicherungen liefen gut, daher wurde das Kursziel erhöht.",
-        "body": "Daishin Securities hat am 15. das Kursziel für Samsung Life Insurance von 220.000 Won auf 278.000 Won angehoben. Begründet wurde dies damit, dass die Neuverträge trotz Tariferhöhungen deutlich zulegten. Im Mittelpunkt der Einschätzung steht, dass sich der Zufluss neuer Policen auch in einem Umfeld verbesserte, in dem die Prämienbelastung steigen könnte. Zudem liefen nicht nur Krankenversicherungen gut, sondern auch Lebensversicherungen auf Lebenszeit. Das Wertpapierhaus sieht die Ausweitung der Neuverträge als Stütze für die Vertriebsentwicklung von Samsung Life. Die Anhebung spiegelt verbesserte Verkäufe über Produktgruppen hinweg wider. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Samsung Life voit son objectif relevé à 278 000 wons grâce aux contrats",
-        "excerpt": "Daishin Securities a indiqué le 15 que Samsung Life avait progressé dans les nouveaux contrats malgré la hausse des tarifs, avec une bonne tenue de la santé et de l’assurance vie entière.",
-        "body": "Daishin Securities a relevé le 15 son objectif de cours sur Samsung Life Insurance de 220 000 wons à 278 000 wons, estimant que les nouveaux contrats avaient progressé malgré les hausses de tarifs. Le point clé de cette évaluation est l’amélioration du flux de nouvelles polices dans un contexte où la charge des primes pouvait augmenter. La société de courtage a aussi indiqué que l’assurance santé, mais également l’assurance vie entière, affichaient une bonne dynamique. Elle considère que l’expansion des nouveaux contrats soutient l’activité commerciale de Samsung Life. Le relèvement de l’objectif reflète une amélioration des ventes dans les gammes de produits. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "رفع السعر المستهدف لسامسونغ لايف إلى 278 ألف وون مع نمو العقود الجديدة",
-        "excerpt": "قالت دايشين للأوراق المالية في اليوم 15 إن سامسونغ لايف حققت تقدما في العقود الجديدة رغم رفع الأسعار، مع أداء جيد للتأمين الصحي والتأمين مدى الحياة، ورفعت السعر المستهدف.",
-        "body": "رفعت دايشين للأوراق المالية في اليوم 15 السعر المستهدف لسامسونغ لايف للتأمين من 220 ألف وون إلى 278 ألف وون، مشيرة إلى أن العقود الجديدة تقدمت رغم رفع الأسعار. وتركز التقييم على تحسن تدفق العقود الجديدة حتى في بيئة قد تزيد فيها أعباء الأقساط. كما أوضحت الشركة أن الأداء الجيد لم يقتصر على التأمين الصحي، بل شمل أيضا التأمين مدى الحياة. وترى أن توسع العقود الجديدة يدعم مسار المبيعات لدى سامسونغ لايف. ويعكس رفع السعر المستهدف تحسنا في المبيعات عبر فئات المنتجات. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "Samsung Life का लक्ष्य मूल्य 278,000 वॉन, नई पॉलिसी बिक्री मजबूत",
-        "excerpt": "Daishin Securities ने 15 तारीख को कहा कि दरों में बढ़ोतरी के बावजूद Samsung Life के नए अनुबंध बढ़े और स्वास्थ्य बीमा व संपूर्ण जीवन बीमा दोनों मजबूत रहे, इसलिए लक्ष्य मूल्य बढ़ाया गया।",
-        "body": "Daishin Securities ने 15 तारीख को Samsung Life Insurance का लक्ष्य मूल्य 220,000 वॉन से बढ़ाकर 278,000 वॉन कर दिया। कंपनी ने कहा कि दरों में बढ़ोतरी के बावजूद नए अनुबंधों में मजबूती दिखी। इस आकलन का मुख्य आधार यह था कि प्रीमियम बोझ बढ़ सकने वाले माहौल में भी नई पॉलिसियों का प्रवाह सुधरा। ब्रोकरेज ने यह भी बताया कि स्वास्थ्य बीमा के साथ-साथ संपूर्ण जीवन बीमा भी अच्छा रहा। उसके अनुसार, नए अनुबंधों का विस्तार Samsung Life की बिक्री गति को सहारा देता है। लक्ष्य मूल्य में वृद्धि उत्पाद श्रेणियों में बिक्री सुधार को दर्शाती है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Target Samsung Life naik ke 278.000 won, kontrak baru tetap menguat",
-        "excerpt": "Daishin Securities pada tanggal 15 menyebut kontrak baru Samsung Life menguat meski ada kenaikan tarif, dengan kinerja baik pada asuransi kesehatan dan jiwa seumur hidup, lalu menaikkan target harga.",
-        "body": "Daishin Securities pada tanggal 15 menaikkan target harga Samsung Life Insurance dari 220.000 won menjadi 278.000 won, dengan alasan kontrak baru tetap menguat meski terjadi kenaikan tarif. Inti penilaiannya adalah arus polis baru membaik bahkan dalam kondisi ketika beban premi dapat meningkat. Perusahaan sekuritas itu juga menyebut bukan hanya asuransi kesehatan yang baik, tetapi asuransi jiwa seumur hidup juga menunjukkan kinerja positif. Ekspansi kontrak baru dinilai mendukung momentum penjualan Samsung Life. Kenaikan target harga mencerminkan perbaikan penjualan di berbagai lini produk. Sumber: mk.co.kr"
       }
     }
   }
