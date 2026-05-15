@@ -1,0 +1,75 @@
+{
+  "id": "2360afed2ecb",
+  "slug": "데이터센터-넘어-피지컬-ai-시대의-엔비디아-될-것-kiw-2026-205732",
+  "channelId": "ETF",
+  "category": "etf",
+  "publishedAt": "2026-05-15T23:55:42.944Z",
+  "updatedAt": "2026-05-15T23:55:42.944Z",
+  "sourceName": "hankyung.com",
+  "sourceUrl": "https://www.hankyung.com/article/202605159069i",
+  "canonicalUrl": "https://www.hankyung.com/article/202605159069i",
+  "titleFingerprint": "65c4e41bc34b930e9381950c385ad73005eabe0a",
+  "dedupKeys": [
+    "2360afed2ecb1eb7d4010ad3af48b7a47b828415",
+    "65c4e41bc34b930e9381950c385ad73005eabe0a",
+    "b46622e7ca2e77a111627971626bd3bcb4a6d0c4"
+  ],
+  "imageUrl": "/images/articles/2360afed2ecb.jpg",
+  "i18n": {
+    "ko": {
+      "title": "피지컬 AI 시대 겨냥한 딥엑스, 온디바이스 AI칩으로 글로벌 표준 도전 [KIW 2026]",
+      "excerpt": "김상욱 딥엑스 상무는 2026년 5월 15일 서울 신라호텔에서 열린 KIW 2026에서 데이터센터를 넘어 기기에서 직접 구동되는 피지컬 AI 시대와 온디바이스 AI칩 전략을 밝혔다.",
+      "body": "김상욱 딥엑스 상무는 2026년 5월 15일 서울 장충동 신라호텔에서 열린 코리아 인베스트먼트 위크(KIW) 2026에서 딥엑스가 다가올 피지컬 AI 시대의 인프라 리더십을 노리겠다고 밝혔다. 그는 AI가 데이터센터에 머무는 단계를 지나 주변 기기에서 직접 구동되는 시대로 이동하고 있다고 설명했다. 배경으로는 과거 인텔이 PC, 퀄컴이 모바일 시대를 주도했다는 흐름을 제시했다. 딥엑스는 독자적인 초저전력 반도체 기술과 온디바이스 AI칩을 앞세워 기존 GPU 솔루션의 발열 및 비용 문제를 해결하고 글로벌 시장 선점을 추진한다는 입장이다. 이는 AI 처리의 무게중심이 데이터센터에서 실제 기기와 현장으로 확장되는 변화와 맞물린다. 출처: hankyung.com"
+    },
+    "en": {
+      "title": "DeepX Targets Physical AI Era With On-Device AI Chips at KIW 2026",
+      "excerpt": "DeepX executive Kim Sang-wook said at KIW 2026 in Seoul on May 15, 2026, that AI is moving beyond data centers toward physical AI running directly on nearby devices.",
+      "body": "Kim Sang-wook, an executive director at DeepX, said at Korea Investment Week (KIW) 2026, held on May 15, 2026, at The Shilla Seoul in Jangchung-dong, that DeepX aims to secure infrastructure leadership in the coming physical AI era. He said AI is moving beyond a stage in which it remains inside data centers and toward an era in which it runs directly on devices around people. As context, he pointed to Intel’s role in the PC era and Qualcomm’s role in the mobile era. DeepX says it will use its proprietary ultra-low-power semiconductor technology and on-device AI chips to address heat and cost issues linked to existing GPU solutions and seek early positioning in the global market. The message reflects a shift in AI processing from data centers to real-world devices and sites. Source: hankyung.com"
+    },
+    "ja": {
+      "title": "フィジカルAI時代を狙うDeepX、オンデバイスAIチップで標準化へ [KIW 2026]",
+      "excerpt": "DeepXの金相旭常務は2026年5月15日、ソウル新羅ホテルで開かれたKIW 2026で、データセンターを越え機器上で直接動くフィジカルAI時代を語った。",
+      "body": "DeepXの金相旭常務は2026年5月15日、ソウル・奨忠洞の新羅ホテルで開かれたコリア・インベストメント・ウィーク（KIW）2026で、DeepXが来るフィジカルAI時代のインフラ主導権を狙うと述べた。AIはデータセンター内にとどまる段階を過ぎ、身の回りの機器で直接動作する時代に移っているという説明だ。背景として、過去にインテルがPC時代を、クアルコムがモバイル時代を主導した流れを挙げた。DeepXは独自の超低消費電力半導体技術とオンデバイスAIチップを前面に出し、既存GPUソリューションの発熱とコスト問題を解決し、世界市場での先行を目指す姿勢だ。これはAI処理の重心がデータセンターから実際の機器や現場へ広がる変化と重なる。出典: hankyung.com"
+    },
+    "zh": {
+      "title": "DeepX瞄准物理AI时代，以端侧AI芯片挑战全球标准 [KIW 2026]",
+      "excerpt": "DeepX常务金相旭于2026年5月15日在首尔新罗酒店举行的KIW 2026上表示，AI正从数据中心走向在周边设备上直接运行的物理AI时代。",
+      "body": "DeepX常务金相旭于2026年5月15日在首尔奖忠洞新罗酒店举行的韩国投资周（KIW）2026上表示，DeepX将争取在即将到来的物理AI时代取得基础设施领导地位。他说明，AI正在越过停留于数据中心的阶段，进入可在身边各类设备上直接运行的时代。作为背景，他提到英特尔曾主导PC时代、高通曾主导移动时代的产业脉络。DeepX称，将凭借自主超低功耗半导体技术和端侧AI芯片，解决现有GPU方案面临的发热与成本问题，并推动抢占全球市场。这一表态与AI处理重心从数据中心扩展至真实设备和现场的变化相呼应。来源: hankyung.com"
+    },
+    "es": {
+      "title": "DeepX apunta a la era de la IA física con chips de IA en dispositivo [KIW 2026]",
+      "excerpt": "Kim Sang-wook, ejecutivo de DeepX, dijo el 15 de mayo de 2026 en KIW 2026 en Seúl que la IA avanza más allá de los centros de datos hacia dispositivos que la ejecutan directamente.",
+      "body": "Kim Sang-wook, director ejecutivo de DeepX, afirmó el 15 de mayo de 2026 en Korea Investment Week (KIW) 2026, celebrada en el hotel Shilla de Jangchung-dong, Seúl, que DeepX busca liderar la infraestructura de la próxima era de la IA física. Según explicó, la IA está dejando atrás la etapa en la que permanecía dentro de los centros de datos y avanza hacia un momento en que se ejecutará directamente en los dispositivos del entorno cotidiano. Como contexto, citó el papel de Intel en la era del PC y el de Qualcomm en la era móvil. DeepX sostiene que usará su tecnología propia de semiconductores de consumo ultrabajo y chips de IA en dispositivo para abordar los problemas de calor y coste de las soluciones GPU existentes y ganar posición en el mercado global. Fuente: hankyung.com"
+    },
+    "pt": {
+      "title": "DeepX mira era da IA física com chips de IA no dispositivo no KIW 2026",
+      "excerpt": "Kim Sang-wook, executivo da DeepX, disse em 15 de maio de 2026 no KIW 2026, em Seul, que a IA avança dos data centers para dispositivos capazes de executá-la diretamente.",
+      "body": "Kim Sang-wook, diretor executivo da DeepX, afirmou em 15 de maio de 2026, durante a Korea Investment Week (KIW) 2026, realizada no hotel Shilla em Jangchung-dong, Seul, que a DeepX pretende assumir liderança de infraestrutura na próxima era da IA física. Ele disse que a IA está superando a fase em que ficava restrita aos data centers e avançando para um período em que será executada diretamente em dispositivos ao redor das pessoas. Como contexto, citou o papel da Intel na era dos PCs e da Qualcomm na era móvel. A DeepX afirma que usará sua tecnologia própria de semicondutores de consumo ultrabaixo e chips de IA no dispositivo para enfrentar problemas de aquecimento e custo das soluções de GPU existentes e buscar espaço no mercado global. Fonte: hankyung.com"
+    },
+    "de": {
+      "title": "DeepX zielt mit On-Device-AI-Chips auf die Ära der physischen KI [KIW 2026]",
+      "excerpt": "DeepX-Manager Kim Sang-wook sagte am 15. Mai 2026 auf der KIW 2026 in Seoul, KI bewege sich über Rechenzentren hinaus zu Geräten, die sie direkt ausführen.",
+      "body": "Kim Sang-wook, Executive Director von DeepX, sagte am 15. Mai 2026 auf der Korea Investment Week (KIW) 2026 im Shilla Hotel in Jangchung-dong, Seoul, dass DeepX in der kommenden Ära der physischen KI eine führende Rolle bei der Infrastruktur anstrebe. KI verlasse die Phase, in der sie in Rechenzentren verbleibe, und bewege sich in eine Zeit, in der sie direkt auf Geräten in der Umgebung der Menschen ausgeführt werde. Als Einordnung verwies er darauf, dass Intel die PC-Ära und Qualcomm die mobile Ära geprägt hätten. DeepX will mit eigener Halbleitertechnologie mit sehr niedrigem Stromverbrauch und On-Device-AI-Chips Wärme- und Kostenprobleme bestehender GPU-Lösungen angehen und sich früh im Weltmarkt positionieren. Quelle: hankyung.com"
+    },
+    "fr": {
+      "title": "DeepX vise l’ère de l’IA physique avec ses puces IA embarquées [KIW 2026]",
+      "excerpt": "Kim Sang-wook, dirigeant de DeepX, a déclaré le 15 mai 2026 au KIW 2026 à Séoul que l’IA passe des centres de données aux appareils capables de l’exécuter directement.",
+      "body": "Kim Sang-wook, directeur exécutif de DeepX, a déclaré le 15 mai 2026 lors de la Korea Investment Week (KIW) 2026, organisée à l’hôtel Shilla dans le quartier de Jangchung-dong à Séoul, que DeepX vise le leadership des infrastructures dans la prochaine ère de l’IA physique. Selon lui, l’IA dépasse l’étape où elle restait confinée aux centres de données et entre dans une période où elle s’exécutera directement sur les appareils présents autour des utilisateurs. Pour situer l’enjeu, il a rappelé le rôle d’Intel dans l’ère du PC et celui de Qualcomm dans l’ère mobile. DeepX entend utiliser sa technologie propriétaire de semi-conducteurs à très faible consommation et ses puces IA embarquées pour répondre aux problèmes de chaleur et de coût des solutions GPU existantes et se positionner sur le marché mondial. Source: hankyung.com"
+    },
+    "ar": {
+      "title": "ديب إكس تستهدف عصر الذكاء الاصطناعي الفيزيائي بشرائح تعمل على الأجهزة [KIW 2026]",
+      "excerpt": "قال كيم سانغ ووك من ديب إكس في 15 مايو 2026 خلال KIW 2026 في سيول إن الذكاء الاصطناعي يتجاوز مراكز البيانات نحو أجهزة قادرة على تشغيله مباشرة.",
+      "body": "قال كيم سانغ ووك، المدير التنفيذي في ديب إكس، في 15 مايو 2026 خلال أسبوع كوريا للاستثمار (KIW) 2026 في فندق شيلا بحي جانغتشونغ دونغ في سيول، إن الشركة تسعى إلى قيادة البنية التحتية في عصر الذكاء الاصطناعي الفيزيائي المقبل. وأوضح أن الذكاء الاصطناعي يتجاوز المرحلة التي بقي فيها داخل مراكز البيانات، ويتجه إلى عصر يعمل فيه مباشرة على الأجهزة المحيطة بالمستخدمين. ولتوضيح السياق، أشار إلى أن إنتل قادت عصر الحواسيب الشخصية وأن كوالكوم قادت عصر الهواتف المحمولة. وتقول ديب إكس إنها ستعتمد على تقنيتها الخاصة لأشباه الموصلات فائقة الانخفاض في استهلاك الطاقة وعلى شرائح الذكاء الاصطناعي العاملة على الأجهزة لمعالجة مشكلات الحرارة والتكلفة في حلول وحدات GPU القائمة والسعي إلى موقع مبكر في السوق العالمية. المصدر: hankyung.com"
+    },
+    "hi": {
+      "title": "फिजिकल AI युग के लिए DeepX की तैयारी, ऑन-डिवाइस AI चिप्स पर जोर [KIW 2026]",
+      "excerpt": "DeepX के कार्यकारी किम सांग-वूक ने 15 मई 2026 को सियोल में KIW 2026 में कहा कि AI डेटा सेंटर से आगे बढ़कर आसपास के उपकरणों पर सीधे चलने वाले दौर में जा रहा है।",
+      "body": "DeepX के कार्यकारी निदेशक किम सांग-वूक ने 15 मई 2026 को सियोल के जांगचुंग-डोंग स्थित शिल्ला होटल में आयोजित Korea Investment Week (KIW) 2026 में कहा कि कंपनी आने वाले फिजिकल AI युग में इंफ्रास्ट्रक्चर नेतृत्व हासिल करना चाहती है। उन्होंने कहा कि AI उस चरण से आगे बढ़ रहा है जिसमें वह डेटा सेंटर तक सीमित था, और अब ऐसे दौर में जा रहा है जहां वह लोगों के आसपास मौजूद उपकरणों पर सीधे चलेगा। संदर्भ के तौर पर उन्होंने बताया कि PC युग में Intel और मोबाइल युग में Qualcomm ने प्रमुख भूमिका निभाई थी। DeepX का कहना है कि वह अपनी अल्ट्रा-लो-पावर सेमीकंडक्टर तकनीक और ऑन-डिवाइस AI चिप्स के जरिए मौजूदा GPU समाधानों की गर्मी और लागत संबंधी समस्याओं को संबोधित कर वैश्विक बाजार में जगह बनाना चाहती है। स्रोत: hankyung.com"
+    },
+    "id": {
+      "title": "DeepX Bidik Era AI Fisik Lewat Chip AI On-Device di KIW 2026",
+      "excerpt": "Eksekutif DeepX Kim Sang-wook mengatakan pada 15 Mei 2026 di KIW 2026 Seoul bahwa AI bergerak melampaui pusat data menuju perangkat yang menjalankannya langsung.",
+      "body": "Kim Sang-wook, direktur eksekutif DeepX, mengatakan pada 15 Mei 2026 di Korea Investment Week (KIW) 2026 yang digelar di Hotel Shilla, Jangchung-dong, Seoul, bahwa DeepX menargetkan kepemimpinan infrastruktur pada era AI fisik yang akan datang. Ia menjelaskan bahwa AI sedang melewati tahap ketika teknologi itu berada di dalam pusat data dan bergerak menuju masa ketika AI berjalan langsung pada perangkat di sekitar pengguna. Sebagai konteks, ia menyebut peran Intel dalam era PC dan Qualcomm dalam era mobile. DeepX menyatakan akan menggunakan teknologi semikonduktor berdaya sangat rendah miliknya dan chip AI on-device untuk mengatasi masalah panas serta biaya pada solusi GPU yang ada dan mencari posisi awal di pasar global. Sumber: hankyung.com"
+    }
+  }
+}
