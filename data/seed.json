@@ -1,5 +1,230 @@
 [
   {
+    "id": "1295ea07bd4f",
+    "slug": "코스피-200-기업-투자10만원도-가능해요-경제교육-현장르포-361952",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-05-15T12:18:35.040Z",
+    "updatedAt": "2026-05-15T12:18:35.040Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/economy/12049362",
+    "canonicalUrl": "https://www.mk.co.kr/news/economy/12049362",
+    "titleFingerprint": "42c32fe27173dfd32d1a3fef65c34b79a1d1425b",
+    "dedupKeys": [
+      "1295ea07bd4f7e1001a6cf3b0babc78652ac1fd1",
+      "42c32fe27173dfd32d1a3fef65c34b79a1d1425b",
+      "65dd7d45f5e339c7fdb8ff0fa08c4c139b44e16a"
+    ],
+    "imageUrl": "/images/articles/1295ea07bd4f.png",
+    "i18n": {
+      "ko": {
+        "title": "코스피 200 기업 투자, 10만원으로 배우는 경제교육 현장",
+        "excerpt": "지난 7일 오후 서울의 경제교육 현장에서 코스피 200 기업 투자와 글로벌 시가총액 비교가 소개되며 청소년들에게 큰 그림을 보는 투자 관점이 강조됐다.",
+        "body": "지난 7일 오후 서울에서 열린 경제교육 현장에서는 코스피 200 기업에 10만원으로도 투자할 수 있다는 주제가 다뤄졌다. 강연자는 우리나라 860개 상장사의 가치를 모두 합쳐도 미국의 구글이나 엔비디아 한 기업보다 규모가 작다고 설명하며, 투자자는 개별 종목보다 시장 전체와 글로벌 기업 규모를 함께 보는 시각이 필요하다고 강조했다. 이번 교육은 국내 대표 지수와 상장사 가치 비교를 통해 자본시장 이해를 넓히는 데 초점을 맞췄다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "KOSPI 200 Investing: Economic Class Shows How 100,000 Won Can Start",
+        "excerpt": "At an economic education session in Seoul on the afternoon of May 7, participants learned about KOSPI 200 investing and why comparing Korea’s market with global giants matters.",
+        "body": "At an economic education session held in Seoul on the afternoon of May 7, the topic was how even 100,000 won can be used to invest in KOSPI 200 companies. The lecturer explained that the combined value of Korea’s 860 listed companies is smaller than that of a single U.S. company such as Google or Nvidia. The message was that investors need to see the broader picture, looking beyond individual stocks to the whole market and the scale of global companies. The session focused on improving understanding of capital markets through Korea’s representative index and market value comparisons. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "KOSPI 200投資、10万ウォンで学ぶ経済教育の現場",
+        "excerpt": "5月7日午後、ソウルの経済教育現場でKOSPI 200企業への投資と世界的企業との時価総額比較が紹介され、大きな視点の重要性が強調された。",
+        "body": "5月7日午後、ソウルで開かれた経済教育の現場では、KOSPI 200企業に10万ウォンでも投資できるというテーマが扱われた。講師は、韓国の上場企業860社の価値をすべて合わせても、米国のグーグルやエヌビディア1社より規模が小さいと説明した。そのうえで、投資家には個別銘柄だけでなく、市場全体と世界的企業の規模を合わせて見る視点が必要だと強調した。今回の教育は、韓国の代表指数と上場企業価値の比較を通じて資本市場への理解を広げることに焦点を当てた。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "KOSPI 200投资：10万韩元也能参与的经济教育现场",
+        "excerpt": "5月7日下午，首尔一场经济教育活动介绍了KOSPI 200企业投资，并通过韩国上市公司与全球巨头的市值比较强调宏观视角。",
+        "body": "5月7日下午，在首尔举行的一场经济教育活动中，讲师围绕“用10万韩元也能投资KOSPI 200企业”这一主题进行了讲解。讲师表示，韩国860家上市公司的价值全部相加，也小于美国谷歌或英伟达这样一家公司的规模。课程强调，投资者需要具备观察大局的能力，不只看单个股票，也要理解整体市场和全球企业规模。此次教育通过韩国代表性指数和上市公司价值比较，帮助参与者加深对资本市场的理解。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Invertir en el KOSPI 200: una clase muestra cómo empezar con 100.000 wones",
+        "excerpt": "El 7 de mayo por la tarde, una sesión de educación económica en Seúl explicó la inversión en empresas del KOSPI 200 y la comparación con gigantes globales.",
+        "body": "En una sesión de educación económica celebrada en Seúl la tarde del 7 de mayo, se abordó cómo incluso 100.000 wones pueden servir para invertir en empresas del KOSPI 200. El ponente explicó que el valor combinado de las 860 compañías cotizadas de Corea es menor que el de una sola empresa estadounidense como Google o Nvidia. El mensaje central fue que los inversores deben mirar el panorama completo, no solo acciones individuales, sino también el mercado en su conjunto y la escala de las empresas globales. La clase se centró en ampliar la comprensión del mercado de capitales mediante el índice representativo de Corea y comparaciones de valor bursátil. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Investir no KOSPI 200: aula mostra como começar com 100 mil won",
+        "excerpt": "Na tarde de 7 de maio, em Seul, uma sessão de educação econômica apresentou o investimento em empresas do KOSPI 200 e comparações com gigantes globais.",
+        "body": "Em uma sessão de educação econômica realizada em Seul na tarde de 7 de maio, o tema foi como até 100 mil won podem ser usados para investir em empresas do KOSPI 200. O palestrante explicou que o valor combinado das 860 companhias listadas da Coreia é menor que o de uma única empresa dos Estados Unidos, como Google ou Nvidia. A mensagem foi que investidores precisam enxergar o quadro geral, observando não apenas ações individuais, mas também o mercado como um todo e a escala das empresas globais. A aula buscou ampliar a compreensão do mercado de capitais por meio do principal índice coreano e de comparações de valor de mercado. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "KOSPI-200-Investment: Wirtschaftskurs zeigt Einstieg mit 100.000 Won",
+        "excerpt": "Am Nachmittag des 7. Mai wurde in Seoul bei einer Wirtschaftsschulung erklärt, wie KOSPI-200-Investments funktionieren und warum globale Größenvergleiche wichtig sind.",
+        "body": "Bei einer Wirtschaftsschulung am Nachmittag des 7. Mai in Seoul ging es darum, dass selbst 100.000 Won für ein Investment in Unternehmen des KOSPI 200 genutzt werden können. Der Vortragende erklärte, dass der gesamte Wert der 860 börsennotierten Unternehmen Koreas kleiner sei als der eines einzelnen US-Unternehmens wie Google oder Nvidia. Betont wurde, dass Anleger das größere Bild sehen müssen: nicht nur einzelne Aktien, sondern auch den Gesamtmarkt und die Größe globaler Unternehmen. Die Schulung zielte darauf ab, das Verständnis des Kapitalmarkts durch Koreas Leitindex und Vergleiche von Unternehmenswerten zu vertiefen. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Investir dans le KOSPI 200 : une leçon montre l’accès dès 100 000 wons",
+        "excerpt": "Le 7 mai après-midi à Séoul, une séance d’éducation économique a présenté l’investissement dans le KOSPI 200 et la comparaison avec les géants mondiaux.",
+        "body": "Lors d’une séance d’éducation économique organisée à Séoul l’après-midi du 7 mai, le thème abordé était la possibilité d’investir dans des entreprises du KOSPI 200 même avec 100 000 wons. L’intervenant a expliqué que la valeur cumulée des 860 sociétés cotées coréennes reste inférieure à celle d’une seule entreprise américaine comme Google ou Nvidia. Le message principal était que les investisseurs doivent regarder la situation d’ensemble, au-delà des titres individuels, en tenant compte du marché global et de la taille des entreprises mondiales. La séance visait à élargir la compréhension du marché des capitaux grâce à l’indice représentatif coréen et à des comparaisons de valeur. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "الاستثمار في KOSPI 200: درس اقتصادي يوضح البداية بـ100 ألف وون",
+        "excerpt": "في بعد ظهر 7 مايو في سيول، عُرضت في جلسة تعليم اقتصادي فكرة الاستثمار في شركات KOSPI 200 وأهمية مقارنة السوق الكورية بالشركات العالمية الكبرى.",
+        "body": "في جلسة تعليم اقتصادي عُقدت في سيول بعد ظهر 7 مايو، تناول المحاضر فكرة أن مبلغ 100 ألف وون يمكن أن يتيح الاستثمار في شركات مؤشر KOSPI 200. وأوضح أن القيمة الإجمالية لـ860 شركة مدرجة في كوريا لا تزال أصغر من قيمة شركة أمريكية واحدة مثل غوغل أو إنفيديا. وشددت الجلسة على ضرورة أن يرى المستثمرون الصورة الأكبر، لا الأسهم الفردية فقط، بل السوق بأكمله وحجم الشركات العالمية. وركز التعليم على توسيع فهم سوق رأس المال عبر المؤشر الكوري الرئيسي ومقارنات قيمة الشركات المدرجة. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "KOSPI 200 निवेश: 100,000 वॉन से शुरुआत समझाती आर्थिक शिक्षा कक्षा",
+        "excerpt": "7 मई की दोपहर सियोल में हुई आर्थिक शिक्षा कक्षा में KOSPI 200 कंपनियों में निवेश और वैश्विक कंपनियों से बाजार मूल्य की तुलना समझाई गई।",
+        "body": "7 मई की दोपहर सियोल में आयोजित आर्थिक शिक्षा सत्र में यह विषय समझाया गया कि 100,000 वॉन से भी KOSPI 200 कंपनियों में निवेश किया जा सकता है। वक्ता ने कहा कि कोरिया की 860 सूचीबद्ध कंपनियों का कुल मूल्य भी अमेरिका की गूगल या एनवीडिया जैसी एक कंपनी से छोटा है। सत्र का मुख्य संदेश था कि निवेशकों को केवल अलग-अलग शेयर नहीं, बल्कि पूरे बाजार और वैश्विक कंपनियों के आकार को साथ देखकर बड़ी तस्वीर समझनी चाहिए। यह शिक्षा कोरिया के प्रमुख सूचकांक और सूचीबद्ध कंपनियों के मूल्य की तुलना के जरिए पूंजी बाजार की समझ बढ़ाने पर केंद्रित थी। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Investasi KOSPI 200: Kelas Ekonomi Tunjukkan Awal dengan 100 Ribu Won",
+        "excerpt": "Pada sore 7 Mei di Seoul, sesi pendidikan ekonomi membahas investasi di perusahaan KOSPI 200 dan perbandingan nilai pasar Korea dengan raksasa global.",
+        "body": "Dalam sesi pendidikan ekonomi yang digelar di Seoul pada sore 7 Mei, topik yang dibahas adalah bagaimana 100 ribu won pun dapat digunakan untuk berinvestasi di perusahaan KOSPI 200. Pembicara menjelaskan bahwa nilai gabungan 860 perusahaan tercatat di Korea masih lebih kecil daripada satu perusahaan Amerika Serikat seperti Google atau Nvidia. Pesan utamanya adalah investor perlu melihat gambaran besar, bukan hanya saham individual, tetapi juga pasar secara keseluruhan dan skala perusahaan global. Sesi ini berfokus memperluas pemahaman pasar modal melalui indeks utama Korea dan perbandingan nilai perusahaan tercatat. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "f856c49c3bc9",
+    "slug": "소뱅-보스턴다이내믹스-지분-풋옵션-행사하나-118571",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-05-15T12:17:40.452Z",
+    "updatedAt": "2026-05-15T12:17:40.452Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/stock/12049373",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12049373",
+    "titleFingerprint": "64b16d9e01971b1ab2ce2459856b3f266202f921",
+    "dedupKeys": [
+      "f856c49c3bc9b9793a2d1bc541ee47d28a7253fb",
+      "64b16d9e01971b1ab2ce2459856b3f266202f921",
+      "e11e21689390bbcf5eebaa8e293e6889b59ef54f"
+    ],
+    "imageUrl": "/images/articles/f856c49c3bc9.jpg",
+    "i18n": {
+      "ko": {
+        "title": "보스턴다이내믹스 IPO 속도, 소프트뱅크 풋옵션이 분기점 되나",
+        "excerpt": "현대자동차그룹 로보틱스 계열사 보스턴다이내믹스가 미국 상장 추진에 속도를 내는 가운데, 다음달 소프트뱅크의 풋옵션 행사 여부가 핵심 변수가 될 전망이다.",
+        "body": "현대자동차그룹의 로보틱스 계열사인 보스턴다이내믹스가 미국 증시 상장(IPO) 준비에 속도를 내고 있다. 다음달 예정된 주요 주주 소프트뱅크의 매수청구권, 즉 풋옵션 행사 여부가 향후 상장 추진의 분기점이 될 전망이다. 보스턴다이내믹스는 현대차그룹이 로보틱스 사업의 핵심 축으로 두고 있는 계열사로, 미국 IPO 추진은 지분 구조와 주주 선택에 따라 방향성이 달라질 수 있다. 특히 소프트뱅크가 풋옵션을 행사할지 여부는 주요 주주 간 이해관계와 상장 일정에 영향을 줄 변수로 거론된다. 시장의 관심은 다음달 결정 이후 보스턴다이내믹스의 IPO 절차가 어떤 속도로 전개될지에 모인다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Boston Dynamics IPO Push Puts SoftBank Put Option in Focus",
+        "excerpt": "Boston Dynamics, Hyundai Motor Group’s robotics affiliate, is accelerating its U.S. IPO plans, with SoftBank’s put option decision next month expected to be a key turning point.",
+        "body": "Boston Dynamics, the robotics affiliate of Hyundai Motor Group, is moving faster toward a U.S. initial public offering. A key inflection point is expected next month, when major shareholder SoftBank is due to decide whether to exercise its purchase claim, or put option. Boston Dynamics is positioned by Hyundai Motor Group as a central part of its robotics business, and the U.S. IPO path could depend on the shareholding structure and shareholder decisions. In particular, SoftBank’s decision on the put option is being cited as a factor that could affect relations among major shareholders and the listing timeline. Market attention is now on how quickly the IPO process proceeds after next month’s decision. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "ボストン・ダイナミクスIPO加速、ソフトバンクのプットオプションが焦点",
+        "excerpt": "現代自動車グループのロボティクス系 affiliate であるボストン・ダイナミクスが米国上場を急ぐなか、来月のソフトバンクのプットオプション行使判断が重要な分岐点となる見通しだ。",
+        "body": "現代自動車グループのロボティクス系 affiliate であるボストン・ダイナミクスが、米国での新規株式公開（IPO）準備を加速している。来月予定されている主要株主ソフトバンクの買取請求権、すなわちプットオプションの行使可否が、今後の上場推進における分岐点になる見通しだ。ボストン・ダイナミクスは現代自動車グループがロボティクス事業の中核に位置づける会社であり、米国IPOの方向性は持ち分構造と株主の選択によって変わり得る。特にソフトバンクがプットオプションを行使するかどうかは、主要株主間の利害関係や上場日程に影響する変数として挙げられている。市場の関心は、来月の判断後にIPO手続きがどの速度で進むかに集まっている。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "波士顿动力IPO提速，软银看跌期权决定成关键节点",
+        "excerpt": "现代汽车集团机器人子公司波士顿动力正加快推进美国上市，主要股东软银下月是否行使看跌期权预计将成为关键变量。",
+        "body": "现代汽车集团旗下机器人子公司波士顿动力正在加快美国首次公开募股（IPO）准备。下月，主要股东软银是否行使买入请求权，即看跌期权，预计将成为后续上市推进的分水岭。波士顿动力被现代汽车集团视为机器人业务的核心组成部分，其美国IPO路径可能因股权结构和股东选择而出现变化。尤其是软银是否行使看跌期权，被认为是可能影响主要股东之间利益关系和上市时间表的变量。市场关注的焦点在于，下月相关决定之后，波士顿动力的IPO程序将以何种速度展开。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Boston Dynamics acelera su IPO y la opción put de SoftBank gana peso",
+        "excerpt": "Boston Dynamics, filial de robótica de Hyundai Motor Group, acelera su salida a bolsa en EE. UU.; la decisión de SoftBank sobre su opción put el próximo mes será clave.",
+        "body": "Boston Dynamics, la filial de robótica de Hyundai Motor Group, está acelerando los preparativos para una oferta pública inicial en Estados Unidos. El punto de inflexión podría llegar el próximo mes, cuando el principal accionista SoftBank decida si ejerce su derecho de venta, o opción put. Boston Dynamics es una compañía que Hyundai Motor Group sitúa como eje central de su negocio de robótica, y el rumbo de la IPO en EE. UU. puede variar según la estructura accionarial y las decisiones de los accionistas. En particular, la decisión de SoftBank sobre la opción put se menciona como un factor que podría influir en los intereses entre los principales accionistas y en el calendario de salida a bolsa. La atención del mercado se centra ahora en la velocidad con la que avanzará el proceso tras la decisión del próximo mes. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "IPO da Boston Dynamics avança e opção put da SoftBank vira foco",
+        "excerpt": "A Boston Dynamics, afiliada de robótica do Hyundai Motor Group, acelera sua listagem nos EUA, enquanto a decisão da SoftBank sobre a opção put no próximo mês deve ser decisiva.",
+        "body": "A Boston Dynamics, afiliada de robótica do Hyundai Motor Group, está acelerando os preparativos para uma oferta pública inicial nos Estados Unidos. O ponto de virada deve ocorrer no próximo mês, quando a principal acionista SoftBank decidirá se exerce seu direito de venda, ou opção put. A Boston Dynamics é tratada pelo Hyundai Motor Group como um eixo central de seu negócio de robótica, e o caminho da IPO nos EUA pode depender da estrutura acionária e das escolhas dos acionistas. Em especial, a decisão da SoftBank sobre a opção put é citada como uma variável que pode afetar os interesses entre os principais acionistas e o cronograma de listagem. A atenção do mercado se concentra em quão rapidamente o processo de IPO avançará após a decisão do próximo mês. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Boston Dynamics treibt IPO voran, SoftBanks Put-Option rückt in den Fokus",
+        "excerpt": "Boston Dynamics, die Robotik-Tochter von Hyundai Motor Group, beschleunigt den geplanten US-Börsengang; SoftBanks Put-Option im kommenden Monat gilt als zentrale Wegmarke.",
+        "body": "Boston Dynamics, die Robotik-Tochter von Hyundai Motor Group, beschleunigt die Vorbereitungen für einen Börsengang in den USA. Ein entscheidender Punkt wird im kommenden Monat erwartet, wenn der Großaktionär SoftBank darüber entscheidet, ob er sein Verkaufsrecht, also die Put-Option, ausübt. Boston Dynamics gilt innerhalb der Hyundai Motor Group als wichtiger Pfeiler des Robotikgeschäfts, und der Verlauf des US-IPOs kann von der Beteiligungsstruktur und den Entscheidungen der Aktionäre abhängen. Besonders SoftBanks Entscheidung über die Put-Option wird als Faktor genannt, der die Interessen der Großaktionäre und den Zeitplan der Börsennotierung beeinflussen kann. Der Markt richtet den Blick nun darauf, mit welchem Tempo das IPO-Verfahren nach der Entscheidung im kommenden Monat weiterläuft. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Boston Dynamics accélère son IPO, l’option put de SoftBank devient clé",
+        "excerpt": "Boston Dynamics, filiale robotique de Hyundai Motor Group, accélère son projet d’introduction en Bourse aux États-Unis, avec la décision de SoftBank sur son option put attendue le mois prochain.",
+        "body": "Boston Dynamics, filiale robotique de Hyundai Motor Group, accélère les préparatifs de son introduction en Bourse aux États-Unis. Le mois prochain devrait marquer un tournant, lorsque l’actionnaire majeur SoftBank décidera s’il exerce son droit de vente, ou option put. Boston Dynamics est placée par Hyundai Motor Group au cœur de son activité robotique, et la trajectoire de l’IPO américaine pourrait dépendre de la structure du capital et des choix des actionnaires. En particulier, la décision de SoftBank concernant l’option put est citée comme un facteur susceptible d’influencer les intérêts entre grands actionnaires et le calendrier de cotation. L’attention du marché porte désormais sur la vitesse à laquelle la procédure d’IPO progressera après la décision attendue le mois prochain. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "طرح بوسطن دايناميكس يتسارع وخيار البيع لسوفت بنك في الواجهة",
+        "excerpt": "تسرع بوسطن دايناميكس، شركة الروبوتات التابعة لمجموعة هيونداي موتور، خطط الطرح في الولايات المتحدة، فيما ينتظر أن يكون قرار سوفت بنك بشأن خيار البيع الشهر المقبل عاملا حاسما.",
+        "body": "تعمل بوسطن دايناميكس، شركة الروبوتات التابعة لمجموعة هيونداي موتور، على تسريع استعداداتها للطرح العام الأولي في الولايات المتحدة. ومن المتوقع أن يكون الشهر المقبل نقطة تحول، عندما يقرر المساهم الرئيسي سوفت بنك ما إذا كان سيمارس حق البيع، أو خيار البيع. تعد بوسطن دايناميكس محورا رئيسيا في أعمال الروبوتات لدى مجموعة هيونداي موتور، وقد يتأثر مسار الطرح الأمريكي بهيكل الملكية واختيارات المساهمين. وبشكل خاص، يشار إلى قرار سوفت بنك بشأن خيار البيع كعامل قد يؤثر في مصالح المساهمين الرئيسيين وجدول الإدراج. تتركز أنظار السوق الآن على السرعة التي ستتقدم بها إجراءات الطرح بعد قرار الشهر المقبل. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "बोस्टन डायनेमिक्स IPO तेज, सॉफ्टबैंक के पुट विकल्प पर बाजार की नजर",
+        "excerpt": "हुंडई मोटर ग्रुप की रोबोटिक्स सहयोगी बोस्टन डायनेमिक्स अमेरिकी IPO की तैयारी तेज कर रही है; अगले महीने सॉफ्टबैंक का पुट विकल्प निर्णय अहम मोड़ माना जा रहा है।",
+        "body": "हुंडई मोटर ग्रुप की रोबोटिक्स सहयोगी बोस्टन डायनेमिक्स अमेरिका में प्रारंभिक सार्वजनिक निर्गम यानी IPO की तैयारी तेज कर रही है। अगले महीने प्रमुख शेयरधारक सॉफ्टबैंक यह तय करेगा कि वह अपने खरीद दावा अधिकार, यानी पुट विकल्प, का उपयोग करेगा या नहीं; इसे आगे की लिस्टिंग प्रक्रिया का अहम मोड़ माना जा रहा है। बोस्टन डायनेमिक्स को हुंडई मोटर ग्रुप अपने रोबोटिक्स कारोबार के मुख्य स्तंभ के रूप में देखता है, और अमेरिकी IPO की दिशा हिस्सेदारी ढांचे तथा शेयरधारकों के निर्णयों पर निर्भर हो सकती है। खास तौर पर सॉफ्टबैंक का पुट विकल्प निर्णय प्रमुख शेयरधारकों के हितों और लिस्टिंग समयसीमा को प्रभावित करने वाला कारक माना जा रहा है। बाजार की नजर अब इस बात पर है कि अगले महीने के निर्णय के बाद IPO प्रक्रिया किस गति से आगे बढ़ती है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "IPO Boston Dynamics Dipercepat, Opsi Put SoftBank Jadi Titik Kunci",
+        "excerpt": "Boston Dynamics, afiliasi robotika Hyundai Motor Group, mempercepat rencana IPO di AS; keputusan SoftBank atas opsi put bulan depan diperkirakan menjadi variabel utama.",
+        "body": "Boston Dynamics, afiliasi robotika Hyundai Motor Group, sedang mempercepat persiapan penawaran saham perdana di Amerika Serikat. Titik penting diperkirakan terjadi bulan depan, ketika pemegang saham utama SoftBank memutuskan apakah akan menggunakan hak jualnya, atau opsi put. Boston Dynamics ditempatkan Hyundai Motor Group sebagai poros utama bisnis robotika, dan arah IPO di AS dapat dipengaruhi oleh struktur kepemilikan serta pilihan para pemegang saham. Secara khusus, keputusan SoftBank mengenai opsi put disebut sebagai variabel yang dapat memengaruhi kepentingan di antara pemegang saham utama dan jadwal pencatatan saham. Perhatian pasar kini tertuju pada seberapa cepat proses IPO Boston Dynamics akan berjalan setelah keputusan bulan depan. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "c934d9c69647",
+    "slug": "파랗게-질려버린-코스피-lg그룹만-혼자-웃었다-250644",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-05-15T12:16:34.833Z",
+    "updatedAt": "2026-05-15T12:16:34.833Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/stock/12049386",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12049386",
+    "titleFingerprint": "b6dcc897e71eb3cff845ca206aab37cb1112ef50",
+    "dedupKeys": [
+      "c934d9c6964763fb42e153cf8fdc5f6ce9bf7dba",
+      "b6dcc897e71eb3cff845ca206aab37cb1112ef50",
+      "dd6f1ef133ab377be2eccc5ff486aac34ac9230b"
+    ],
+    "imageUrl": "/images/articles/c934d9c69647.jpg",
+    "i18n": {
+      "ko": {
+        "title": "코스피 매크로 불안에 급락, 금리·환율 흔들린 ‘검은 금요일’ 속 LG그룹 선전",
+        "excerpt": "글로벌 물가 상승 압박이 커진 가운데 전 세계 시장금리 상승과 금리·환율 변동성이 겹치며 코스피가 검은 금요일을 맞았고, LG그룹은 상대적 강세를 보였다.",
+        "body": "글로벌 물가 상승 압박이 심화된 가운데 전 세계 시장금리가 오르면서 코스피가 ‘검은 금요일’ 흐름을 보였다. 금리와 환율 등 주요 거시경제 지표가 흔들리며 이른바 매크로 불안이 시장 전반으로 확산된 영향이다. 투자심리가 위축된 가운데 국내 증시는 파랗게 질린 모습이었지만, LG그룹은 상대적으로 선전하며 시장의 관심을 받았다. 금리 상승과 환율 변동성이 이어질 경우 지수 전반의 부담은 계속될 수 있다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "KOSPI Slides on Macro Anxiety as Rates and FX Shake Markets, LG Group Stands Out",
+        "excerpt": "As global inflation pressure intensified, rising market rates and volatility in interest rates and exchange rates weighed on the KOSPI, while LG Group showed relative strength.",
+        "body": "The KOSPI came under heavy pressure as global inflation concerns deepened and market interest rates rose around the world. Key macroeconomic indicators, including interest rates and exchange rates, became unsettled, spreading broader macro anxiety across the market. Investor sentiment weakened, leaving the domestic stock market in a sharp downturn, but LG Group stood out with relative resilience. If higher rates and exchange-rate volatility continue, the broader index may remain under pressure. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "KOSPI、金利・為替揺らすマクロ不安で急落　LGグループは相対的に堅調",
+        "excerpt": "世界的な物価上昇圧力が強まり、市場金利の上昇と金利・為替の変動が重なったことでKOSPIは「ブラックフライデー」の様相となり、LGグループは相対的に強さを見せた。",
+        "body": "世界的な物価上昇圧力が強まるなか、各国の市場金利が上昇し、KOSPIは「ブラックフライデー」と呼ばれる厳しい展開となった。金利や為替など主要なマクロ経済指標が揺らぎ、いわゆるマクロ不安が市場全体に広がったためだ。投資心理が冷え込むなか、韓国株式市場は大きく下押しされたが、LGグループは相対的に底堅さを示し注目を集めた。金利上昇と為替変動が続けば、指数全体への重荷は残る可能性がある。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "KOSPI受宏观不安冲击下跌，利率与汇率波动中LG集团独自走强",
+        "excerpt": "全球通胀压力加剧之际，全球市场利率上升并带动利率、汇率等宏观指标震荡，KOSPI遭遇“黑色星期五”，LG集团则表现相对强势。",
+        "body": "随着全球通胀压力进一步加剧，全球市场利率上升，KOSPI出现“黑色星期五”走势。利率、汇率等主要宏观经济指标出现波动，所谓宏观不安在市场整体扩散，成为拖累股市的关键因素。投资情绪转弱之下，韩国股市整体承压，但LG集团表现相对坚挺，受到市场关注。若利率上升和汇率波动延续，指数整体仍可能面临压力。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "KOSPI cae por ansiedad macro: tasas y divisas se agitan mientras LG Group resiste",
+        "excerpt": "Con mayor presión inflacionaria global, el alza de las tasas de mercado y la volatilidad en tasas y divisas golpearon al KOSPI, mientras LG Group mostró fortaleza relativa.",
+        "body": "El KOSPI quedó bajo fuerte presión mientras se intensificaba la presión inflacionaria mundial y subían las tasas de mercado en todo el mundo. Indicadores macroeconómicos clave, como las tasas de interés y los tipos de cambio, se volvieron inestables, extendiendo la llamada ansiedad macro por el mercado. Con el ánimo inversor debilitado, la bolsa surcoreana registró una sesión negativa, aunque LG Group destacó por su resistencia relativa. Si continúan las tasas altas y la volatilidad cambiaria, el índice podría seguir bajo presión. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "KOSPI recua com ansiedade macro, juros e câmbio voláteis; LG Group se destaca",
+        "excerpt": "Com a pressão inflacionária global mais forte, a alta dos juros de mercado e a volatilidade em juros e câmbio pesaram sobre o KOSPI, enquanto o LG Group teve desempenho relativamente firme.",
+        "body": "O KOSPI ficou sob forte pressão em meio ao avanço da pressão inflacionária global e à alta dos juros de mercado no mundo. Indicadores macroeconômicos importantes, como juros e câmbio, oscilaram, espalhando a chamada ansiedade macro pelo mercado. Com o sentimento dos investidores enfraquecido, a bolsa sul-coreana teve uma sessão negativa, mas o LG Group se destacou por sua resistência relativa. Se a alta dos juros e a volatilidade cambial continuarem, o índice poderá seguir pressionado. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "KOSPI fällt wegen Makroangst: Zinsen und Wechselkurse schwanken, LG Group hält sich",
+        "excerpt": "Steigender globaler Inflationsdruck ließ Marktzinsen weltweit klettern und brachte Zins- sowie Wechselkursindikatoren ins Wanken; der KOSPI gab nach, während LG Group relativ stark blieb.",
+        "body": "Der KOSPI geriet deutlich unter Druck, als sich der globale Inflationsdruck verstärkte und die Marktzinsen weltweit stiegen. Wichtige makroökonomische Kennzahlen wie Zinsen und Wechselkurse schwankten, wodurch sich die sogenannte Makroangst am Markt ausbreitete. Die Anlegerstimmung kühlte ab und der südkoreanische Aktienmarkt zeigte eine schwache Sitzung, doch LG Group fiel durch relative Stärke auf. Sollten steigende Zinsen und Wechselkursvolatilität anhalten, dürfte der Gesamtindex belastet bleiben. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Le KOSPI chute sous la pression macro, taux et changes secoués; LG Group résiste",
+        "excerpt": "La pression inflationniste mondiale a fait monter les taux de marché et accru la volatilité des taux et devises, pesant sur le KOSPI tandis que LG Group a mieux résisté.",
+        "body": "Le KOSPI a subi une forte pression alors que la hausse des prix à l’échelle mondiale s’intensifiait et que les taux de marché montaient dans le monde. Les principaux indicateurs macroéconomiques, notamment les taux d’intérêt et les changes, ont été secoués, propageant une inquiétude macro sur l’ensemble du marché. Le sentiment des investisseurs s’est affaibli et la Bourse sud-coréenne a reculé, mais LG Group s’est distingué par une résistance relative. Si la hausse des taux et la volatilité des changes persistent, l’indice pourrait rester sous pression. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "كوسبي يتراجع بفعل قلق الاقتصاد الكلي مع اضطراب الفائدة والصرف وLG تصمد",
+        "excerpt": "مع تصاعد ضغوط التضخم العالمية، ارتفعت عوائد السوق وتزايد اضطراب أسعار الفائدة والصرف، ما ضغط على مؤشر كوسبي، بينما أظهرت مجموعة LG تماسكا نسبيا.",
+        "body": "تعرض مؤشر كوسبي لضغط قوي مع اشتداد ضغوط ارتفاع الأسعار عالميا وصعود أسعار الفائدة في الأسواق حول العالم. فقد اهتزت مؤشرات الاقتصاد الكلي الرئيسية، بما في ذلك أسعار الفائدة وأسعار الصرف، ما وسع نطاق القلق الكلي في السوق. ومع تراجع شهية المستثمرين، بدا سوق الأسهم الكوري الجنوبي ضعيفا، لكن مجموعة LG برزت بأداء أكثر تماسكا نسبيا. وإذا استمر ارتفاع الفائدة وتقلبات الصرف، فقد يبقى المؤشر العام تحت الضغط. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "मैक्रो चिंता से KOSPI दबाव में, दरों और विनिमय दरों में हलचल; LG Group मजबूत",
+        "excerpt": "वैश्विक मुद्रास्फीति दबाव बढ़ने पर बाजार ब्याज दरें चढ़ीं और दरों व विनिमय दरों में अस्थिरता आई, जिससे KOSPI पर दबाव पड़ा जबकि LG Group अपेक्षाकृत मजबूत रहा।",
+        "body": "वैश्विक स्तर पर कीमतों में बढ़ोतरी का दबाव गहराने और दुनिया भर में बाजार ब्याज दरें चढ़ने से KOSPI पर तेज दबाव दिखा। ब्याज दर और विनिमय दर जैसे प्रमुख व्यापक आर्थिक संकेतक डगमगाए, जिससे बाजार में मैक्रो चिंता फैल गई। निवेशकों की धारणा कमजोर होने से दक्षिण कोरियाई शेयर बाजार गिरावट में रहा, लेकिन LG Group ने अपेक्षाकृत बेहतर मजबूती दिखाई और ध्यान खींचा। यदि ऊंची दरें और विनिमय दरों की अस्थिरता जारी रहती है, तो व्यापक सूचकांक पर दबाव बना रह सकता है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "KOSPI Tertekan Kecemasan Makro, Suku Bunga dan Kurs Bergejolak; LG Group Unggul",
+        "excerpt": "Saat tekanan inflasi global meningkat, kenaikan suku bunga pasar dan volatilitas suku bunga serta nilai tukar menekan KOSPI, sementara LG Group menunjukkan kekuatan relatif.",
+        "body": "KOSPI berada di bawah tekanan kuat ketika tekanan kenaikan harga global makin dalam dan suku bunga pasar di seluruh dunia naik. Indikator makroekonomi utama, termasuk suku bunga dan nilai tukar, ikut bergejolak sehingga kecemasan makro menyebar ke pasar. Sentimen investor melemah dan bursa saham Korea Selatan bergerak negatif, tetapi LG Group tampil relatif lebih kuat dan menarik perhatian. Jika kenaikan suku bunga serta volatilitas kurs berlanjut, indeks secara keseluruhan dapat tetap terbebani. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
     "id": "d371d5124298",
     "slug": "전쟁發-벌크-운임-급등에-팬오션-주가-올해-56-쑥-164773",
     "channelId": "ETF",
@@ -4271,231 +4496,6 @@
         "title": "Investasi Kuant Tetap Bertumpu pada Manusia, AI Sebagai Asisten [KIW 2026]",
         "excerpt": "Di KIW 2026, ditegaskan bahwa penilaian manusia tetap menjadi faktor terpenting dalam investasi kuantitatif, sementara AI sebaiknya digunakan sebagai pendukung keputusan.",
         "body": "Di KIW 2026, peran kecerdasan buatan (AI) dalam investasi kuantitatif menjadi bahan pembahasan. Pesan utamanya adalah bahwa unsur terpenting dalam investasi kuantitatif bukan teknologi itu sendiri, melainkan manusia. AI dapat membantu memproses dan menganalisis informasi dalam jumlah besar, tetapi tanggung jawab akhir atas keputusan investasi dan penentuan arah harus tetap berada pada manusia. Seiring meluasnya penggunaan AI di industri investasi keuangan, pembahasan ini menekankan perlunya interpretasi dan kendali manusia, bukan ketergantungan hanya pada algoritma dan data. Dalam strategi kuantitatif ke depan, AI dipandang penting sebagai asisten, bukan pengganti. Sumber: hankyung.com"
-      }
-    }
-  },
-  {
-    "id": "aacc2eb2fe40",
-    "slug": "1분기에만-1조-잭팟개미들-우르르-몰리자-역대급-실적-391355",
-    "channelId": "ETF",
-    "category": "etf",
-    "publishedAt": "2026-05-14T19:46:28.905Z",
-    "updatedAt": "2026-05-14T19:46:28.905Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/202605146375i",
-    "canonicalUrl": "https://www.hankyung.com/article/202605146375i",
-    "titleFingerprint": "b296e30bf024a0eb09323816e951aedf27127f99",
-    "dedupKeys": [
-      "aacc2eb2fe409a542296cb81a1920dc6881e5955",
-      "b296e30bf024a0eb09323816e951aedf27127f99",
-      "d9465c8ccc8ecbbf905b4ae839688931ae324751"
-    ],
-    "imageUrl": "/images/articles/aacc2eb2fe40.jpg",
-    "i18n": {
-      "ko": {
-        "title": "한국투자증권 1분기 영업익 9599억, 개인자금 몰리며 역대급 실적",
-        "excerpt": "한국투자증권은 2026년 1분기 연결 영업이익이 9599억원으로 전년 대비 85% 늘었다고 14일 밝혔다. 위탁매매·운용·WM·IB가 고르게 성장했다.",
-        "body": "한국투자증권은 14일 잠정실적 공시를 통해 2026년 1분기 연결 기준 영업이익이 9599억원으로 전년 동기 대비 85% 증가했다고 밝혔다. 당기순이익은 7847억원으로 75% 늘었다. 수익 비중은 운용 39.1%, 위탁매매 33.3%, IB 18.6%, WM 9.0%로 나타났다. 증시 호조 속 위탁매매 관련 수익은 전분기 대비 55% 확대됐고, 금융상품 판매수수료는 71.6% 급증했다. 개인 고객 금융상품 잔고는 지난해 말 85조1000억원에서 최근 94조5000억원으로 늘었다. 1분기 말 별도 기준 자기자본은 12조7085억원이었다. 출처: hankyung.com."
-      },
-      "en": {
-        "title": "Korea Investment & Securities Q1 profit jumps as retail funds flow in",
-        "excerpt": "Korea Investment & Securities said on May 14 that Q1 2026 consolidated operating profit rose 85% year on year to 959.9 billion won, led by brokerage, trading, WM and IB growth.",
-        "body": "Korea Investment & Securities said in a preliminary earnings disclosure on May 14 that consolidated operating profit for the first quarter of 2026 reached 959.9 billion won, up 85% from a year earlier. Net profit rose 75% to 784.7 billion won. Trading accounted for 39.1% of profit, brokerage 33.3%, investment banking 18.6% and wealth management 9.0%. Brokerage-related revenue increased 55% from the previous quarter amid a favorable stock market, while sales fees from financial products surged 71.6%. Retail clients' financial product balances rose from 85.1 trillion won at the end of last year to 94.5 trillion won recently. Standalone equity capital was 12.7085 trillion won at quarter-end. Source: hankyung.com."
-      },
-      "ja": {
-        "title": "韓国投資証券、1Q営業益9599億ウォン　個人資金流入で好業績",
-        "excerpt": "韓国投資証券は5月14日、2026年1～3月期の連結営業利益が前年同期比85%増の9599億ウォンだったと発表した。委託売買、運用、WM、IBが伸びた。",
-        "body": "韓国投資証券は5月14日の暫定業績開示で、2026年1～3月期の連結営業利益が9599億ウォンとなり、前年同期比85%増加したと発表した。純利益は75%増の7847億ウォンだった。利益構成は運用が39.1%、委託売買が33.3%、IBが18.6%、WMが9.0%。株式市場の好調を背景に委託売買関連収益は前四半期比55%増え、金融商品の販売手数料は71.6%急増した。個人顧客の金融商品残高は昨年末の85兆1000億ウォンから直近94兆5000億ウォンに拡大した。1四半期末の単体自己資本は12兆7085億ウォン。出典: hankyung.com."
-      },
-      "zh": {
-        "title": "韩国投资证券一季度营业利润9599亿韩元，个人资金流入推高业绩",
-        "excerpt": "韩国投资证券5月14日披露，2026年一季度合并营业利润同比增长85%至9599亿韩元，委托交易、交易运用、财富管理和投行业务均有增长。",
-        "body": "韩国投资证券5月14日通过暂定业绩公告表示，2026年一季度合并口径营业利润为9599亿韩元，同比增长85%。当期净利润为7847亿韩元，同比增长75%。从利润构成看，交易运用占39.1%，委托交易占33.3%，投资银行占18.6%，财富管理占9.0%。在股市表现较好的背景下，委托交易相关收入较上一季度增长55%，金融产品销售手续费大增71.6%。个人客户金融产品余额从去年末的85.1万亿韩元增至近期的94.5万亿韩元。一季度末单体口径自有资本为12.7085万亿韩元。来源: hankyung.com."
-      },
-      "es": {
-        "title": "Korea Investment eleva su beneficio del 1T con flujo de minoristas",
-        "excerpt": "Korea Investment & Securities informó el 14 de mayo que su beneficio operativo consolidado del 1T de 2026 subió 85% interanual a 959.900 millones de wones, con avances en corretaje, trading, WM e IB.",
-        "body": "Korea Investment & Securities informó el 14 de mayo, mediante resultados preliminares, que el beneficio operativo consolidado del primer trimestre de 2026 alcanzó 959.900 millones de wones, un aumento interanual del 85%. El beneficio neto subió 75% hasta 784.700 millones de wones. Por áreas, trading aportó el 39,1% del beneficio, corretaje el 33,3%, banca de inversión el 18,6% y gestión patrimonial el 9,0%. Con un mercado bursátil favorable, los ingresos vinculados al corretaje crecieron 55% frente al trimestre anterior, mientras que las comisiones por venta de productos financieros aumentaron 71,6%. Los saldos de productos financieros de clientes particulares pasaron de 85,1 billones de wones a finales del año pasado a 94,5 billones recientemente. Fuente: hankyung.com."
-      },
-      "pt": {
-        "title": "Korea Investment tem salto no 1T com entrada de investidores pessoa física",
-        "excerpt": "A Korea Investment & Securities informou em 14 de maio que o lucro operacional consolidado do 1T de 2026 subiu 85% em um ano, para 959,9 bilhões de wones, com avanço em corretagem, trading, WM e IB.",
-        "body": "A Korea Investment & Securities informou, em divulgação preliminar de 14 de maio, que o lucro operacional consolidado do primeiro trimestre de 2026 chegou a 959,9 bilhões de wones, alta de 85% em relação ao ano anterior. O lucro líquido aumentou 75%, para 784,7 bilhões de wones. A composição do lucro foi de 39,1% em trading, 33,3% em corretagem, 18,6% em banco de investimento e 9,0% em gestão patrimonial. Com o mercado acionário favorável, a receita ligada à corretagem cresceu 55% ante o trimestre anterior, enquanto as comissões de venda de produtos financeiros saltaram 71,6%. O saldo de produtos financeiros de clientes pessoa física passou de 85,1 trilhões de wones no fim do ano passado para 94,5 trilhões recentemente. Fonte: hankyung.com."
-      },
-      "de": {
-        "title": "Korea Investment steigert Q1-Gewinn dank Zufluss privater Anleger",
-        "excerpt": "Korea Investment & Securities meldete am 14. Mai für Q1 2026 einen konsolidierten Betriebsgewinn von 959,9 Mrd. Won, 85% mehr als ein Jahr zuvor, getragen von Brokerage, Trading, WM und IB.",
-        "body": "Korea Investment & Securities teilte am 14. Mai in vorläufigen Zahlen mit, dass der konsolidierte Betriebsgewinn im ersten Quartal 2026 bei 959,9 Mrd. Won lag, ein Plus von 85% gegenüber dem Vorjahr. Der Nettogewinn stieg um 75% auf 784,7 Mrd. Won. Auf Trading entfielen 39,1% des Gewinns, auf Brokerage 33,3%, auf Investment Banking 18,6% und auf Wealth Management 9,0%. Bei freundlichem Aktienmarkt legten die brokeragebezogenen Erlöse gegenüber dem Vorquartal um 55% zu; Verkaufsgebühren für Finanzprodukte stiegen um 71,6%. Die Bestände privater Kunden in Finanzprodukten wuchsen von 85,1 Bio. Won Ende vergangenen Jahres auf zuletzt 94,5 Bio. Won. Quelle: hankyung.com."
-      },
-      "fr": {
-        "title": "Korea Investment voit son profit du T1 bondir avec l’afflux des particuliers",
-        "excerpt": "Korea Investment & Securities a annoncé le 14 mai un bénéfice opérationnel consolidé de 959,9 milliards de wons au T1 2026, en hausse de 85% sur un an, porté par le courtage, le trading, la WM et l’IB.",
-        "body": "Korea Investment & Securities a indiqué le 14 mai, dans une publication de résultats provisoires, que son bénéfice opérationnel consolidé du premier trimestre 2026 avait atteint 959,9 milliards de wons, soit une hausse de 85% sur un an. Le bénéfice net a progressé de 75% à 784,7 milliards de wons. Le trading a représenté 39,1% du bénéfice, le courtage 33,3%, la banque d’investissement 18,6% et la gestion de patrimoine 9,0%. Dans un marché boursier favorable, les revenus liés au courtage ont augmenté de 55% par rapport au trimestre précédent, tandis que les commissions de vente de produits financiers ont bondi de 71,6%. Les encours de produits financiers des clients particuliers sont passés de 85,1 billions de wons fin 2025 à 94,5 billions récemment. Source: hankyung.com."
-      },
-      "ar": {
-        "title": "قفزة أرباح كوريا إنفستمنت في الربع الأول مع تدفق أموال الأفراد",
-        "excerpt": "قالت Korea Investment & Securities في 14 مايو إن ربح التشغيل الموحد للربع الأول 2026 ارتفع 85% على أساس سنوي إلى 959.9 مليار وون، بدعم من الوساطة والتداول وإدارة الثروات وبنوك الاستثمار.",
-        "body": "أعلنت Korea Investment & Securities في إفصاح أولي يوم 14 مايو أن ربح التشغيل الموحد في الربع الأول من 2026 بلغ 959.9 مليار وون، بزيادة 85% عن الفترة نفسها من العام السابق. وارتفع صافي الربح 75% إلى 784.7 مليار وون. وشكل نشاط التداول 39.1% من الأرباح، والوساطة 33.3%، وبنوك الاستثمار 18.6%، وإدارة الثروات 9.0%. ومع تحسن سوق الأسهم، زادت إيرادات الوساطة 55% مقارنة بالربع السابق، وقفزت رسوم بيع المنتجات المالية 71.6%. وارتفعت أرصدة المنتجات المالية للعملاء الأفراد من 85.1 تريليون وون في نهاية العام الماضي إلى 94.5 تريليون وون مؤخرا. المصدر: hankyung.com."
-      },
-      "hi": {
-        "title": "Korea Investment का Q1 मुनाफा उछला, खुदरा निवेशकों की रकम बढ़ी",
-        "excerpt": "Korea Investment & Securities ने 14 मई को कहा कि 2026 की पहली तिमाही में समेकित परिचालन लाभ सालाना 85% बढ़कर 959.9 अरब वोन रहा, जिसमें ब्रोकरेज, ट्रेडिंग, WM और IB का योगदान रहा।",
-        "body": "Korea Investment & Securities ने 14 मई को प्रारंभिक नतीजों में बताया कि 2026 की पहली तिमाही में उसका समेकित परिचालन लाभ 959.9 अरब वोन रहा, जो एक साल पहले से 85% अधिक है। शुद्ध लाभ 75% बढ़कर 784.7 अरब वोन हो गया। लाभ में ट्रेडिंग की हिस्सेदारी 39.1%, ब्रोकरेज की 33.3%, निवेश बैंकिंग की 18.6% और वेल्थ मैनेजमेंट की 9.0% रही। शेयर बाजार की मजबूती के बीच ब्रोकरेज से जुड़ी आय पिछली तिमाही से 55% बढ़ी, जबकि वित्तीय उत्पादों की बिक्री फीस 71.6% उछली। खुदरा ग्राहकों के वित्तीय उत्पादों का बैलेंस पिछले साल के अंत के 85.1 ट्रिलियन वोन से हाल में 94.5 ट्रिलियन वोन तक पहुंच गया। स्रोत: hankyung.com."
-      },
-      "id": {
-        "title": "Laba Q1 Korea Investment melonjak saat dana investor ritel mengalir",
-        "excerpt": "Korea Investment & Securities menyatakan pada 14 Mei bahwa laba operasional konsolidasi kuartal I 2026 naik 85% tahunan menjadi 959,9 miliar won, didorong broker, trading, WM dan IB.",
-        "body": "Korea Investment & Securities menyampaikan dalam laporan kinerja sementara pada 14 Mei bahwa laba operasional konsolidasi kuartal I 2026 mencapai 959,9 miliar won, naik 85% dibanding periode yang sama tahun sebelumnya. Laba bersih naik 75% menjadi 784,7 miliar won. Kontribusi laba berasal dari trading 39,1%, broker 33,3%, investment banking 18,6% dan wealth management 9,0%. Di tengah pasar saham yang kuat, pendapatan terkait broker meningkat 55% dari kuartal sebelumnya, sementara komisi penjualan produk keuangan melonjak 71,6%. Saldo produk keuangan nasabah ritel naik dari 85,1 triliun won pada akhir tahun lalu menjadi 94,5 triliun won baru-baru ini. Sumber: hankyung.com."
-      }
-    }
-  },
-  {
-    "id": "edf2846ea3a4",
-    "slug": "하이닉스-이어-카카오까지미국-adr로-눈-돌린-까닭-230918",
-    "channelId": "ETF",
-    "category": "etf",
-    "publishedAt": "2026-05-14T19:45:12.449Z",
-    "updatedAt": "2026-05-14T19:45:12.449Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/2026051472451",
-    "canonicalUrl": "https://www.hankyung.com/article/2026051472451",
-    "titleFingerprint": "06a2608202366b18c42b1da85c7f3fa2110dbc68",
-    "dedupKeys": [
-      "edf2846ea3a49d3dfcc01e496c5c9aed273e1959",
-      "06a2608202366b18c42b1da85c7f3fa2110dbc68",
-      "9d1d236ff6061d82a7266a99c1f2568b4b78126b"
-    ],
-    "imageUrl": "/images/articles/edf2846ea3a4.png",
-    "i18n": {
-      "ko": {
-        "title": "SK하이닉스 이어 카카오모빌리티 미국 ADR 추진, 중복상장 규제 피한 해외 상장 해법",
-        "excerpt": "카카오모빌리티가 2026년 5월 14일 미국 ADR 상장을 택한 배경은 중복상장 규제를 피하면서 해외 증시에 진입할 수 있는 현실적 선택지라는 점이다.",
-        "body": "2026년 5월 14일 투자은행(IB)업계에 따르면 카카오모빌리티는 미국 주식예탁증서(ADR) 상장을 해외 상장 방안으로 택했다. 국내 기업의 미국 증시 진입 방식은 주로 플립과 ADR로 나뉘는데, 플립은 미국 신설 법인이 한국 법인을 자회사로 편입한 뒤 현지 법인을 상장하는 방식이다. 다만 주식 이전 과정에서 대규모 양도소득세가 발생할 수 있다. ADR은 국내 주식을 바탕으로 미국용 예탁증서를 발행해 상장하는 구조로, 포스코와 한국전력, SKT 사례가 있고 최근 SK하이닉스도 추진 중이다. 카카오모빌리티는 국내 상장이 막힌 상황에서 ADR이 현실적 대안으로 거론된다. hankyung.com은 중복상장 규제 이후 대기업 비상장 계열사의 ADR 추진은 처음이며, 카카오 주주 동의가 관건이라고 전했다."
-      },
-      "en": {
-        "title": "Kakao Mobility Turns to a U.S. ADR After SK Hynix as Listing Rules Shape Its Options",
-        "excerpt": "Kakao Mobility chose a U.S. ADR route on May 14, 2026, because it is viewed as a practical way to list overseas while avoiding Korea’s duplicate-listing restrictions.",
-        "body": "According to investment banking sources on May 14, 2026, Kakao Mobility selected a U.S. American Depositary Receipt, or ADR, as its overseas listing route. Korean companies generally use two paths to enter the U.S. stock market: a flip or an ADR. A flip sets up a new U.S. entity, places the Korean company under it as a subsidiary, and lists the local holding company. But transferring shares in that process can trigger a large capital gains tax burden. An ADR lists depositary receipts backed by domestic shares, with precedents including POSCO, Korea Electric Power and SKT, while SK Hynix is also pursuing one. With a domestic listing blocked, ADR is being discussed as Kakao Mobility’s realistic alternative. hankyung.com reported that this is the first such move by an unlisted affiliate of a major Korean group since duplicate-listing rules, and Kakao shareholder consent is expected to be key."
-      },
-      "ja": {
-        "title": "SKハイニックスに続きカカオモビリティも米国ADRへ、重複上場規制を避ける現実策",
-        "excerpt": "カカオモビリティが2026年5月14日に米国ADR上場を選んだ背景には、重複上場規制を避けつつ海外市場へ進む現実的な選択肢という事情がある。",
-        "body": "2026年5月14日の投資銀行業界によると、カカオモビリティは海外上場案として米国預託証券（ADR）上場を選んだ。韓国企業が米国株式市場に入る方法は主にフリップとADRに分かれる。フリップは米国に新設法人をつくり、韓国法人を子会社に組み入れたうえで現地法人を上場させる方式だ。ただし株式移転の過程で多額の譲渡所得税が発生する可能性がある。ADRは国内株式を裏付けに米国向け預託証券を発行して上場する仕組みで、ポスコ、韓国電力、SKTの事例があり、最近はSKハイニックスも推進している。国内上場が難しいカカオモビリティにとってADRは現実的な代替案とされる。hankyung.comは、重複上場規制後に大企業の非上場系列会社がADRを進める初のケースで、カカオ株主の同意が焦点になると伝えた。"
-      },
-      "zh": {
-        "title": "继SK海力士之后Kakao Mobility转向美国ADR，绕开重复上市限制的方案",
-        "excerpt": "Kakao Mobility于2026年5月14日选择美国ADR上市，原因在于这被视为在避开韩国重复上市限制的同时进入海外市场的现实路径。",
-        "body": "据投资银行业界2026年5月14日消息，Kakao Mobility选择以美国存托凭证（ADR）作为海外上市方案。韩国企业进入美国股市主要有两种方式：翻转架构和ADR。翻转架构是在美国设立新公司，将韩国公司纳为子公司后，再让当地控股公司上市。但在转移股份过程中，可能产生大规模资本利得税负担。ADR则是以韩国本土股票为基础发行面向美国市场的存托凭证并上市，已有浦项、韩国电力、SKT等案例，近期SK海力士也在推进。对于国内上市受阻的Kakao Mobility而言，ADR被视为现实替代方案。hankyung.com报道称，在重复上市限制出台后，大型企业未上市子公司推进ADR尚属首次，Kakao股东是否同意将成为关键。"
-      },
-      "es": {
-        "title": "Kakao Mobility mira a un ADR en EE. UU. tras SK Hynix para sortear la regla de doble cotización",
-        "excerpt": "Kakao Mobility eligió el 14 de mayo de 2026 la vía de un ADR en EE. UU. porque se considera una opción práctica para cotizar fuera de Corea evitando restricciones de doble cotización.",
-        "body": "Según fuentes de banca de inversión el 14 de mayo de 2026, Kakao Mobility eligió un American Depositary Receipt, o ADR, como vía de cotización en el exterior. Las empresas coreanas suelen entrar al mercado bursátil estadounidense por dos caminos: flip o ADR. El flip consiste en crear una nueva sociedad en EE. UU., incorporar la empresa coreana como subsidiaria y listar la sociedad local que actúa como holding. Sin embargo, el traslado de acciones puede generar una elevada carga de impuesto sobre ganancias de capital. El ADR emite certificados depositarios estadounidenses respaldados por acciones locales; existen precedentes como POSCO, Korea Electric Power y SKT, y SK Hynix también lo impulsa recientemente. Con la cotización local bloqueada, el ADR se menciona como alternativa realista para Kakao Mobility. hankyung.com informó que es el primer intento de una filial no cotizada de un gran grupo desde la restricción de doble cotización, y que el consentimiento de los accionistas de Kakao será clave."
-      },
-      "pt": {
-        "title": "Kakao Mobility busca ADR nos EUA após SK Hynix para contornar regra de dupla listagem",
-        "excerpt": "A Kakao Mobility escolheu em 14 de maio de 2026 a rota de ADR nos EUA porque ela é vista como uma forma prática de listar no exterior evitando restrições de dupla listagem na Coreia.",
-        "body": "Segundo fontes do setor de banco de investimento em 14 de maio de 2026, a Kakao Mobility escolheu um American Depositary Receipt, ou ADR, como caminho para listagem no exterior. Empresas coreanas geralmente usam duas formas para entrar no mercado acionário dos EUA: flip ou ADR. No flip, cria-se uma nova empresa nos EUA, a companhia coreana passa a ser subsidiária e a holding local é listada. Mas a transferência de ações pode gerar uma grande carga de imposto sobre ganhos de capital. O ADR emite recibos depositários nos EUA lastreados em ações domésticas; há precedentes como POSCO, Korea Electric Power e SKT, e a SK Hynix também avança nessa direção. Como a listagem doméstica da Kakao Mobility está bloqueada, o ADR é citado como alternativa realista. O hankyung.com informou que é a primeira iniciativa de uma afiliada não listada de um grande grupo desde as regras de dupla listagem, e que a aprovação dos acionistas da Kakao será decisiva."
-      },
-      "de": {
-        "title": "Kakao Mobility setzt nach SK Hynix auf US-ADR als Ausweg aus Koreas Doppelnotierungsregeln",
-        "excerpt": "Kakao Mobility entschied sich am 14. Mai 2026 für eine US-ADR-Notierung, weil sie als praktikabler Weg gilt, im Ausland an die Börse zu gehen und Koreas Doppelnotierungsregeln zu umgehen.",
-        "body": "Nach Angaben aus Investmentbankenkreisen vom 14. Mai 2026 wählte Kakao Mobility ein American Depositary Receipt, kurz ADR, als Weg für eine Auslandsnotierung. Koreanische Unternehmen nutzen für den Eintritt in den US-Aktienmarkt vor allem zwei Modelle: Flip oder ADR. Beim Flip wird in den USA eine neue Gesellschaft gegründet, die koreanische Firma als Tochter eingegliedert und die lokale Holding notiert. Die Übertragung der Aktien kann jedoch eine hohe Kapitalertragsteuer auslösen. Ein ADR basiert auf inländischen Aktien und gibt dafür in den USA handelbare Hinterlegungsscheine aus; Beispiele sind POSCO, Korea Electric Power und SKT, zuletzt verfolgt auch SK Hynix diesen Weg. Da Kakao Mobility im Inland nicht an die Börse kann, gilt ADR als realistische Alternative. hankyung.com berichtete, dies sei seit den Doppelnotierungsregeln der erste Fall einer nicht börsennotierten Tochter eines Großkonzerns, und die Zustimmung der Kakao-Aktionäre werde entscheidend sein."
-      },
-      "fr": {
-        "title": "Kakao Mobility vise un ADR américain après SK Hynix pour contourner la règle de double cotation",
-        "excerpt": "Kakao Mobility a choisi le 14 mai 2026 la voie d’un ADR aux États-Unis, considérée comme une option réaliste pour se coter à l’étranger tout en évitant les restrictions de double cotation en Corée.",
-        "body": "Selon des sources de banque d’investissement le 14 mai 2026, Kakao Mobility a retenu l’American Depositary Receipt, ou ADR, comme solution de cotation à l’étranger. Les entreprises coréennes disposent surtout de deux voies pour accéder au marché américain: le flip et l’ADR. Le flip consiste à créer une société aux États-Unis, à placer l’entité coréenne en filiale, puis à coter la holding locale. Mais le transfert des actions peut entraîner une lourde imposition sur les plus-values. L’ADR repose sur des actions domestiques et émet des certificats négociables aux États-Unis; POSCO, Korea Electric Power et SKT l’ont déjà utilisé, et SK Hynix le prépare aussi récemment. La cotation locale étant bloquée pour Kakao Mobility, l’ADR est présenté comme une alternative réaliste. hankyung.com indique qu’il s’agit du premier projet d’une filiale non cotée d’un grand groupe depuis les règles sur la double cotation, et que l’accord des actionnaires de Kakao sera déterminant."
-      },
-      "ar": {
-        "title": "كاكاو موبيليتي تتجه إلى ADR أمريكي بعد SK Hynix لتجاوز قيود الإدراج المزدوج",
-        "excerpt": "اختارت كاكاو موبيليتي في 14 مايو 2026 مسار ADR في الولايات المتحدة لأنه يعد خيارا عمليا للإدراج الخارجي مع تجنب قيود الإدراج المزدوج في كوريا.",
-        "body": "بحسب مصادر في قطاع بنوك الاستثمار في 14 مايو 2026، اختارت كاكاو موبيليتي شهادات الإيداع الأمريكية ADR كمسار للإدراج في الخارج. وتستخدم الشركات الكورية عادة طريقتين لدخول سوق الأسهم الأمريكية: هيكلة الفليب أو ADR. في الفليب، تؤسس شركة جديدة في الولايات المتحدة، وتضم الشركة الكورية كشركة تابعة، ثم تدرج الشركة المحلية القابضة. لكن نقل الأسهم في هذه العملية قد يؤدي إلى عبء كبير من ضريبة أرباح رأس المال. أما ADR فيصدر شهادات إيداع أمريكية تستند إلى أسهم محلية، مع سوابق مثل POSCO وKorea Electric Power وSKT، كما تسعى SK Hynix مؤخرا إلى المسار نفسه. وبما أن الإدراج المحلي لكاكاو موبيليتي مغلق، يطرح ADR كبديل واقعي. وذكرت hankyung.com أن هذه أول محاولة من شركة تابعة غير مدرجة لمجموعة كبرى منذ قواعد الإدراج المزدوج، وأن موافقة مساهمي كاكاو ستكون عاملا حاسما."
-      },
-      "hi": {
-        "title": "SK Hynix के बाद Kakao Mobility की अमेरिकी ADR योजना, दोहरी लिस्टिंग नियमों से बचने का रास्ता",
-        "excerpt": "Kakao Mobility ने 14 मई 2026 को अमेरिकी ADR का रास्ता चुना, क्योंकि इसे कोरिया की दोहरी लिस्टिंग पाबंदियों से बचते हुए विदेश में सूचीबद्ध होने का व्यावहारिक विकल्प माना जा रहा है।",
-        "body": "14 मई 2026 को निवेश बैंकिंग उद्योग के सूत्रों के अनुसार, Kakao Mobility ने विदेश में लिस्टिंग के लिए अमेरिकी डिपॉजिटरी रिसीट, यानी ADR, को चुना। कोरियाई कंपनियां अमेरिकी शेयर बाजार में प्रवेश के लिए आम तौर पर दो तरीके अपनाती हैं: फ्लिप या ADR। फ्लिप में अमेरिका में नई कंपनी बनाई जाती है, कोरियाई कंपनी को उसकी सहायक कंपनी बनाया जाता है और फिर स्थानीय होल्डिंग कंपनी को सूचीबद्ध किया जाता है। लेकिन शेयर हस्तांतरण के दौरान बड़े पूंजीगत लाभ कर का बोझ आ सकता है। ADR में घरेलू शेयरों के आधार पर अमेरिकी डिपॉजिटरी रिसीट जारी कर सूचीबद्ध किया जाता है; POSCO, Korea Electric Power और SKT इसके उदाहरण हैं, और हाल में SK Hynix भी इसे आगे बढ़ा रही है। घरेलू लिस्टिंग रुकने की स्थिति में Kakao Mobility के लिए ADR को वास्तविक विकल्प माना जा रहा है। hankyung.com ने बताया कि दोहरी लिस्टिंग नियमों के बाद किसी बड़े समूह की गैर-सूचीबद्ध इकाई द्वारा ADR 추진 का यह पहला मामला है, और Kakao शेयरधारकों की सहमति अहम होगी।"
-      },
-      "id": {
-        "title": "Kakao Mobility Susul SK Hynix Bidik ADR AS untuk Lewati Batasan Pencatatan Ganda",
-        "excerpt": "Kakao Mobility pada 14 Mei 2026 memilih jalur ADR di AS karena dinilai sebagai opsi realistis untuk melantai di luar negeri sambil menghindari aturan pencatatan ganda di Korea.",
-        "body": "Menurut sumber industri bank investasi pada 14 Mei 2026, Kakao Mobility memilih American Depositary Receipt, atau ADR, sebagai jalur pencatatan di luar negeri. Perusahaan Korea biasanya memakai dua cara untuk masuk ke pasar saham AS: flip atau ADR. Dalam flip, perusahaan baru didirikan di AS, perusahaan Korea dimasukkan sebagai anak usaha, lalu perusahaan lokal yang berperan sebagai holding dicatatkan. Namun pemindahan saham dapat memicu beban pajak keuntungan modal yang besar. ADR menerbitkan sertifikat deposito AS berbasis saham domestik; contohnya POSCO, Korea Electric Power, dan SKT, sementara SK Hynix belakangan juga menempuh jalur ini. Karena pencatatan domestik Kakao Mobility terhambat, ADR disebut sebagai alternatif realistis. hankyung.com melaporkan bahwa ini adalah langkah pertama anak usaha besar yang belum tercatat sejak aturan pencatatan ganda berlaku, dan persetujuan pemegang saham Kakao akan menjadi kunci."
-      }
-    }
-  },
-  {
-    "id": "c1069a0be640",
-    "slug": "ai-진짜-수혜주는-반도체에-가려져-있다강방천이-픽한-업종은-577576",
-    "channelId": "ETF",
-    "category": "etf",
-    "publishedAt": "2026-05-14T19:43:42.621Z",
-    "updatedAt": "2026-05-14T19:43:42.621Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/stock/12047928",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12047928",
-    "titleFingerprint": "ab2305b99a4a3fc6ebd291171721c5471b0bff03",
-    "dedupKeys": [
-      "c1069a0be640151d9cd94d542e4ad84d3c278693",
-      "ab2305b99a4a3fc6ebd291171721c5471b0bff03",
-      "05d4e97ad2c772a6f74eda881673398df30149a0"
-    ],
-    "imageUrl": "/images/articles/c1069a0be640.jpg",
-    "i18n": {
-      "ko": {
-        "title": "AI 수혜주 논쟁 속 강방천의 시장 진단, 반도체 너머 주목할 업종은",
-        "excerpt": "매경플러스 ‘한국의 위대한 투자자’ 첫 주인공 강방천 에셋플러스자산운용 설립자가 AI 수혜주와 반도체 중심 시장 인식에 대한 견해를 밝혔다.",
-        "body": "매경플러스가 ‘한국의 위대한 투자자’ 시리즈 첫 주인공으로 강방천 에셋플러스자산운용 설립자를 조명했다. 강방천은 한국 투자업계의 살아 있는 전설로 소개되며, 이번 3편에서는 시장 진단을 중심으로 AI 수혜주 논의가 다뤄졌다. 원문 제목은 “AI 진짜 수혜주는 반도체에 가려져 있다”는 문제의식을 내세우며, 반도체에 집중된 시장의 시선 밖에서 강방천이 주목한 업종을 짚었다. 기사는 AI 투자 흐름을 특정 종목보다 업종 관점에서 바라볼 필요성을 부각한다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Kang Bang-chun’s AI Stock View Looks Beyond Semiconductors",
-        "excerpt": "Maeil Business Plus featured Assetplus founder Kang Bang-chun as the first figure in its “Great Korean Investors” series, covering his view on AI beneficiaries and markets.",
-        "body": "Maeil Business Plus introduced Kang Bang-chun, founder of Assetplus Asset Management, as the first subject in its “Great Korean Investors” series. Kang is described as a living legend in Korea’s investment industry, and the third installment focuses on his market diagnosis, including the debate over AI beneficiary stocks. The original headline says the “real AI beneficiaries are hidden behind semiconductors,” highlighting Kang’s attention to sectors outside the market’s semiconductor-heavy focus. The article frames AI investment as an industry-level discussion rather than only a semiconductor story. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "AI恩恵株を半導体以外で読む、姜方天氏の市場診断",
-        "excerpt": "毎経プラスは「韓国の偉大な投資家」シリーズ初回の人物として、エセットプラス資産運用創業者の姜方天氏を取り上げた。AI恩恵株への見方を伝えた。",
-        "body": "毎経プラスは「韓国の偉大な投資家」シリーズの最初の主人公として、エセットプラス資産運用創業者の姜方天氏を紹介した。姜氏は韓国投資業界の生きた伝説として扱われ、今回の第3回では市場診断を中心にAI恩恵株をめぐる議論が取り上げられた。原文の見出しは「AIの本当の恩恵株は半導体に隠れている」という問題意識を掲げ、半導体に集中する市場の視線の外で姜氏が注目した業種を示した。記事はAI投資を特定銘柄だけでなく業種の観点から見る必要性を浮き彫りにしている。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "AI受益股不只半导体，姜方天市场判断受关注",
-        "excerpt": "每日经济Plus在“韩国伟大投资者”系列中首位介绍Assetplus资产管理创始人姜方天，并报道其对AI受益股和市场的看法。",
-        "body": "每日经济Plus在“韩国伟大投资者”系列中，将Assetplus资产管理创始人姜方天作为首位人物进行介绍。姜方天被称为韩国投资业界的活传奇，第三篇内容以市场诊断为核心，讨论了AI受益股相关议题。原文标题提出“AI真正受益股被半导体遮住”的观点，强调在市场目光集中于半导体之外，姜方天所关注的行业。报道凸显，理解AI投资潮流时，不能只停留在半导体或单一股票层面，也需要从行业角度审视。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Kang Bang-chun mira más allá de semiconductores en acciones de IA",
-        "excerpt": "Maeil Business Plus presentó al fundador de Assetplus, Kang Bang-chun, como primer protagonista de “Grandes inversores coreanos” y abordó su diagnóstico del mercado de IA.",
-        "body": "Maeil Business Plus presentó a Kang Bang-chun, fundador de Assetplus Asset Management, como el primer protagonista de la serie “Grandes inversores coreanos”. Kang es descrito como una leyenda viva de la industria de inversión en Corea, y la tercera entrega se centra en su diagnóstico del mercado y en el debate sobre las acciones beneficiarias de la IA. El título original plantea que los “verdaderos beneficiarios de la IA están ocultos por los semiconductores”, señalando los sectores que Kang observa fuera del foco dominante del mercado. El artículo subraya la necesidad de mirar la inversión en IA desde una perspectiva sectorial. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Kang Bang-chun vê beneficiários de IA além dos semicondutores",
-        "excerpt": "O Maeil Business Plus destacou Kang Bang-chun, fundador da Assetplus, como primeiro nome da série “Grandes investidores coreanos” e abordou sua leitura sobre IA e mercado.",
-        "body": "O Maeil Business Plus apresentou Kang Bang-chun, fundador da Assetplus Asset Management, como o primeiro personagem da série “Grandes investidores coreanos”. Kang é descrito como uma lenda viva do setor de investimentos da Coreia, e a terceira parte trata de seu diagnóstico de mercado, incluindo o debate sobre ações beneficiadas pela IA. O título original afirma que os “verdadeiros beneficiários da IA estão escondidos pelos semicondutores”, destacando setores observados por Kang fora do foco concentrado do mercado. A reportagem ressalta a necessidade de analisar o investimento em IA pela ótica setorial, não apenas por semicondutores. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Kang Bang-chun sieht KI-Gewinner jenseits der Halbleiter",
-        "excerpt": "Maeil Business Plus porträtierte Assetplus-Gründer Kang Bang-chun als erste Figur der Reihe „Große koreanische Investoren“ und berichtete über seine Markteinschätzung zu KI.",
-        "body": "Maeil Business Plus stellte Kang Bang-chun, Gründer von Assetplus Asset Management, als erste Persönlichkeit der Reihe „Große koreanische Investoren“ vor. Kang wird als lebende Legende der koreanischen Investmentbranche beschrieben. In der dritten Folge steht seine Marktdiagnose im Mittelpunkt, darunter die Debatte über Aktien, die von KI profitieren. Die Originalüberschrift besagt, dass die „wahren KI-Gewinner von Halbleitern verdeckt werden“, und verweist auf Branchen, die Kang außerhalb des stark auf Halbleiter gerichteten Marktinteresses betrachtet. Der Artikel betont, dass KI-Investitionen auch aus Branchensicht gelesen werden sollten. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Kang Bang-chun cherche les gagnants de l’IA hors semi-conducteurs",
-        "excerpt": "Maeil Business Plus a choisi Kang Bang-chun, fondateur d’Assetplus, comme premier portrait de sa série “Grands investisseurs coréens” et présente son diagnostic du marché lié à l’IA.",
-        "body": "Maeil Business Plus a présenté Kang Bang-chun, fondateur d’Assetplus Asset Management, comme le premier personnage de la série “Grands investisseurs coréens”. Kang est décrit comme une légende vivante du secteur de l’investissement en Corée, et ce troisième volet se concentre sur son diagnostic de marché, notamment le débat sur les valeurs bénéficiaires de l’IA. Le titre original affirme que les “vrais bénéficiaires de l’IA sont cachés par les semi-conducteurs”, mettant en avant les secteurs observés par Kang en dehors du centre d’attention du marché. L’article souligne l’intérêt d’aborder l’investissement IA sous l’angle sectoriel. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "كانغ بانغ تشون يرى مستفيدي الذكاء الاصطناعي خارج أشباه الموصلات",
-        "excerpt": "قدمت Maeil Business Plus مؤسس Assetplus كانغ بانغ تشون كأول شخصية في سلسلة “كبار المستثمرين الكوريين”، وتناولت رؤيته لسوق أسهم الذكاء الاصطناعي.",
-        "body": "قدمت Maeil Business Plus كانغ بانغ تشون، مؤسس Assetplus Asset Management، كأول شخصية في سلسلة “كبار المستثمرين الكوريين”. وتصفه المادة بأنه أسطورة حية في قطاع الاستثمار الكوري، بينما يركز الجزء الثالث على تشخيصه للسوق والنقاش حول الأسهم المستفيدة من الذكاء الاصطناعي. ويطرح العنوان الأصلي فكرة أن “المستفيدين الحقيقيين من الذكاء الاصطناعي محجوبون بأشباه الموصلات”، مشيرا إلى قطاعات يتابعها كانغ خارج تركيز السوق الكبير على الرقائق. وتبرز المقالة أهمية قراءة استثمارات الذكاء الاصطناعي من زاوية القطاعات لا من زاوية أشباه الموصلات فقط. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "AI लाभार्थियों पर कांग बांग-चुन की नजर सेमीकंडक्टर से आगे",
-        "excerpt": "Maeil Business Plus ने Assetplus के संस्थापक कांग बांग-चुन को “ग्रेट कोरियन इन्वेस्टर्स” श्रृंखला का पहला चेहरा बनाया और AI लाभार्थी शेयरों पर उनका बाजार आकलन बताया।",
-        "body": "Maeil Business Plus ने Assetplus Asset Management के संस्थापक कांग बांग-चुन को “ग्रेट कोरियन इन्वेस्टर्स” श्रृंखला का पहला प्रमुख व्यक्तित्व बताया। कांग को कोरिया के निवेश उद्योग की जीवित किंवदंती के रूप में पेश किया गया है, और तीसरे भाग में उनका बाजार आकलन तथा AI से लाभ पाने वाले शेयरों पर चर्चा शामिल है। मूल शीर्षक कहता है कि “AI के असली लाभार्थी सेमीकंडक्टर के पीछे छिपे हैं”, जिससे बाजार के सेमीकंडक्टर-केंद्रित ध्यान से बाहर कांग द्वारा देखे गए उद्योगों पर जोर दिया गया। लेख AI निवेश को केवल शेयर या सेमीकंडक्टर नहीं, बल्कि उद्योग के नजरिए से देखने की जरूरत बताता है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Kang Bang-chun Soroti Penerima Manfaat AI di Luar Semikonduktor",
-        "excerpt": "Maeil Business Plus menampilkan pendiri Assetplus Kang Bang-chun sebagai tokoh pertama seri “Investor Hebat Korea” dan membahas pandangannya tentang saham penerima manfaat AI.",
-        "body": "Maeil Business Plus memperkenalkan Kang Bang-chun, pendiri Assetplus Asset Management, sebagai tokoh pertama dalam seri “Investor Hebat Korea”. Kang digambarkan sebagai legenda hidup di industri investasi Korea, dan bagian ketiga berfokus pada diagnosis pasarnya, termasuk pembahasan saham penerima manfaat AI. Judul asli menyatakan bahwa “penerima manfaat AI yang sebenarnya tertutup oleh semikonduktor”, menyoroti sektor yang diperhatikan Kang di luar fokus pasar yang berat pada semikonduktor. Artikel ini menekankan perlunya melihat arus investasi AI dari sudut pandang sektor, bukan hanya saham tertentu atau semikonduktor. Sumber: mk.co.kr"
       }
     }
   }
