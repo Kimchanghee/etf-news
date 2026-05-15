@@ -1,5 +1,230 @@
 [
   {
+    "id": "34acab21c728",
+    "slug": "주가를-밀어-올리는-개인-vs-끌어내리는-외국인코스피-8000-놓고-치열한-공방전-595858",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-05-15T19:01:13.906Z",
+    "updatedAt": "2026-05-15T19:01:13.907Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/202605159277i",
+    "canonicalUrl": "https://www.hankyung.com/article/202605159277i",
+    "titleFingerprint": "6d0cefa9cc82addd219d0b3b6875c3f03f4fe32a",
+    "dedupKeys": [
+      "34acab21c72831a426612a951bf6b301de086e8a",
+      "6d0cefa9cc82addd219d0b3b6875c3f03f4fe32a",
+      "5e69965543029588491381fe68f6229527d88952"
+    ],
+    "imageUrl": "/images/articles/34acab21c728.jpg",
+    "i18n": {
+      "ko": {
+        "title": "코스피 8000 공방전, 개인 매수와 외국인 매도 힘겨루기",
+        "excerpt": "개인 투자자와 외국인 투자자가 코스피 8000선을 놓고 엇갈린 매매 흐름을 보이며 국내 증시 방향성을 두고 치열한 힘겨루기를 벌이고 있다.",
+        "body": "국내 증시에서 개인 투자자와 외국인 투자자가 코스피 8000선을 둘러싸고 팽팽한 공방을 벌이고 있다. 개인은 주가를 밀어 올리는 매수 주체로, 외국인은 시장을 끌어내리는 매도 주체로 맞서며 지수 흐름에 영향을 주고 있다. 이번 흐름은 코스피의 주요 심리적 기준선인 8000을 앞두고 투자 주체별 수급이 엇갈리는 상황을 보여준다. 개인 매수세가 지수 상승을 지지하는 반면 외국인 매도세는 상승 탄력을 제한하는 요인으로 작용하고 있다. 향후 코스피 방향은 두 주체 간 수급 균형과 매매 강도에 따라 달라질 전망이다. 출처: hankyung.com"
+      },
+      "en": {
+        "title": "KOSPI 8000 Battle: Retail Buying Meets Foreign Selling Pressure",
+        "excerpt": "Retail investors and foreign investors are showing opposing trading flows around the KOSPI 8000 level, creating a tense tug-of-war over the market’s direction.",
+        "body": "In the Korean stock market, retail investors and foreign investors are locked in a close contest around the KOSPI 8000 level. Retail investors are acting as buyers pushing share prices higher, while foreign investors are taking the opposite role as sellers pulling the market lower. The move highlights a split in supply and demand by investor group ahead of 8000, a key psychological level for the KOSPI. Retail buying is supporting the index, but foreign selling is limiting upward momentum. The KOSPI’s next direction is expected to depend on the balance of flows and the trading intensity between these two groups. Source: hankyung.com"
+      },
+      "ja": {
+        "title": "KOSPI 8000攻防、個人の買いと外国人の売りが衝突",
+        "excerpt": "個人投資家と外国人投資家がKOSPI 8000を巡って相反する売買動向を見せ、韓国株式市場の方向性を左右する攻防を続けている。",
+        "body": "韓国株式市場では、個人投資家と外国人投資家がKOSPI 8000を巡って拮抗した攻防を繰り広げている。個人は株価を押し上げる買い主体として動く一方、外国人は市場を押し下げる売り主体として対峙している。この流れは、KOSPIの主要な心理的節目である8000を前に、投資主体別の需給が分かれている状況を示す。個人の買いが指数上昇を支える一方、外国人の売りは上昇の勢いを抑える要因となっている。今後の方向性は、両者の需給バランスと売買の強さに左右される見通しだ。出典: hankyung.com"
+      },
+      "zh": {
+        "title": "KOSPI 8000攻防战：散户买盘对抗外资卖压",
+        "excerpt": "散户投资者与外国投资者围绕KOSPI 8000点位呈现相反交易动向，韩国股市方向正面临激烈拉锯。",
+        "body": "韩国股市中，散户投资者与外国投资者正围绕KOSPI 8000点位展开激烈攻防。散户作为推动股价上行的买入力量，外国投资者则以卖出力量压低市场走势，双方对指数形成相反影响。这一走势显示，在KOSPI重要心理关口8000附近，不同投资主体的资金供需出现分化。散户买盘支撑指数上涨，而外资卖盘则限制上行动能。未来KOSPI方向预计将取决于两类投资者之间的资金平衡和交易强度。来源: hankyung.com"
+      },
+      "es": {
+        "title": "KOSPI 8000: compras minoristas chocan con ventas extranjeras",
+        "excerpt": "Los inversores minoristas y extranjeros muestran flujos opuestos alrededor del KOSPI 8000, generando una intensa pugna por la dirección del mercado coreano.",
+        "body": "En el mercado bursátil surcoreano, los inversores minoristas y los extranjeros mantienen una pugna ajustada en torno al nivel KOSPI 8000. Los minoristas actúan como compradores que impulsan los precios al alza, mientras que los extranjeros presionan en sentido contrario con ventas que arrastran el mercado. Esta dinámica muestra una división en la oferta y demanda por tipo de inversor ante el 8000, una referencia psicológica clave para el KOSPI. Las compras minoristas respaldan el índice, pero las ventas extranjeras limitan su impulso alcista. La próxima dirección del KOSPI dependerá del equilibrio de flujos y de la intensidad operativa entre ambos grupos. Fuente: hankyung.com"
+      },
+      "pt": {
+        "title": "KOSPI 8000: compra de pessoas físicas enfrenta venda estrangeira",
+        "excerpt": "Investidores individuais e estrangeiros exibem fluxos opostos em torno do KOSPI 8000, criando uma disputa intensa pela direção da bolsa sul-coreana.",
+        "body": "No mercado acionário sul-coreano, investidores individuais e estrangeiros travam uma disputa apertada em torno do nível KOSPI 8000. Os investidores individuais atuam como compradores que empurram os preços para cima, enquanto os estrangeiros aparecem como vendedores que pressionam o mercado para baixo. Esse movimento mostra uma divergência de oferta e demanda por tipo de investidor diante do 8000, um nível psicológico importante para o KOSPI. A compra dos individuais sustenta o índice, mas a venda estrangeira limita o impulso de alta. A direção futura do KOSPI deve depender do equilíbrio dos fluxos e da força das negociações entre os dois grupos. Fonte: hankyung.com"
+      },
+      "de": {
+        "title": "KOSPI 8000 im Fokus: Privatanleger kaufen, Ausländer verkaufen",
+        "excerpt": "Privatanleger und ausländische Investoren zeigen am KOSPI 8000 gegensätzliche Handelsströme und ringen um die Richtung des südkoreanischen Aktienmarkts.",
+        "body": "Am südkoreanischen Aktienmarkt liefern sich Privatanleger und ausländische Investoren rund um die Marke KOSPI 8000 ein enges Kräftemessen. Privatanleger treten als Käufer auf, die die Kurse nach oben treiben, während ausländische Investoren mit Verkäufen Druck auf den Markt ausüben. Diese Entwicklung zeigt eine gespaltene Angebots- und Nachfragesituation nach Anlegergruppen vor der wichtigen psychologischen Marke von 8000 Punkten. Die Käufe der Privatanleger stützen den Index, doch die Verkäufe aus dem Ausland begrenzen die Aufwärtsdynamik. Die weitere Richtung des KOSPI dürfte vom Gleichgewicht der Kapitalflüsse und der Handelsintensität beider Gruppen abhängen. Quelle: hankyung.com"
+      },
+      "fr": {
+        "title": "KOSPI 8000: les particuliers achètent, les étrangers vendent",
+        "excerpt": "Les investisseurs particuliers et étrangers affichent des flux opposés autour du KOSPI 8000, alimentant une lutte serrée sur l’orientation du marché coréen.",
+        "body": "Sur le marché boursier sud-coréen, les investisseurs particuliers et étrangers s’affrontent autour du seuil KOSPI 8000. Les particuliers jouent le rôle d’acheteurs qui poussent les cours à la hausse, tandis que les étrangers agissent comme vendeurs et tirent le marché vers le bas. Cette évolution montre une divergence de l’offre et de la demande selon les catégories d’investisseurs à l’approche de 8000, un repère psychologique important pour le KOSPI. Les achats des particuliers soutiennent l’indice, mais les ventes étrangères limitent son élan haussier. La prochaine direction du KOSPI dépendra de l’équilibre des flux et de l’intensité des transactions entre ces deux groupes. Source: hankyung.com"
+      },
+      "ar": {
+        "title": "معركة كوسبي 8000: شراء الأفراد يواجه بيع الأجانب",
+        "excerpt": "يبدي المستثمرون الأفراد والأجانب تدفقات تداول متعاكسة حول مستوى كوسبي 8000، ما يشعل صراعا واضحا على اتجاه سوق الأسهم الكورية.",
+        "body": "في سوق الأسهم الكورية، يخوض المستثمرون الأفراد والمستثمرون الأجانب مواجهة متقاربة حول مستوى كوسبي 8000. يعمل الأفراد كقوة شراء تدفع أسعار الأسهم إلى الارتفاع، بينما يقف الأجانب في الجهة المقابلة كبائعين يضغطون على السوق نحو الانخفاض. ويعكس هذا المسار تباينا في العرض والطلب حسب فئة المستثمرين قبل مستوى 8000، وهو مستوى نفسي مهم للمؤشر. تدعم مشتريات الأفراد صعود المؤشر، لكن مبيعات الأجانب تحد من قوة الارتفاع. ومن المتوقع أن يتحدد اتجاه كوسبي المقبل وفق توازن التدفقات وقوة التداول بين الطرفين. المصدر: hankyung.com"
+      },
+      "hi": {
+        "title": "KOSPI 8000 की जंग: खुदरा खरीद के सामने विदेशी बिकवाली",
+        "excerpt": "खुदरा और विदेशी निवेशक KOSPI 8000 स्तर के आसपास विपरीत ट्रेडिंग रुझान दिखा रहे हैं, जिससे कोरियाई बाजार की दिशा पर कड़ा मुकाबला बन गया है।",
+        "body": "कोरियाई शेयर बाजार में खुदरा निवेशक और विदेशी निवेशक KOSPI 8000 स्तर को लेकर आमने-सामने हैं। खुदरा निवेशक खरीदारी के जरिए शेयर कीमतों को ऊपर धकेल रहे हैं, जबकि विदेशी निवेशक बिकवाली से बाजार को नीचे खींचने वाली ताकत के रूप में दिख रहे हैं। यह रुझान KOSPI के अहम मनोवैज्ञानिक स्तर 8000 के सामने निवेशक वर्गों के बीच आपूर्ति और मांग में अंतर दिखाता है। खुदरा खरीदारी सूचकांक को सहारा दे रही है, लेकिन विदेशी बिकवाली उसकी तेजी को सीमित कर रही है। आगे KOSPI की दिशा इन दोनों समूहों के प्रवाह संतुलन और ट्रेडिंग की मजबूती पर निर्भर रहने की संभावना है। स्रोत: hankyung.com"
+      },
+      "id": {
+        "title": "KOSPI 8000 Diperebutkan: Investor Ritel Beli, Asing Jual",
+        "excerpt": "Investor ritel dan investor asing menunjukkan arus transaksi berlawanan di sekitar KOSPI 8000, memicu tarik-menarik arah pasar saham Korea.",
+        "body": "Di pasar saham Korea, investor ritel dan investor asing terlibat tarik-menarik ketat di sekitar level KOSPI 8000. Investor ritel menjadi pihak pembeli yang mendorong harga saham naik, sementara investor asing bertindak sebagai penjual yang menekan pasar turun. Kondisi ini menunjukkan perbedaan pasokan dan permintaan menurut kelompok investor menjelang 8000, level psikologis penting bagi KOSPI. Aksi beli ritel menopang indeks, tetapi aksi jual asing membatasi momentum kenaikan. Arah KOSPI selanjutnya diperkirakan bergantung pada keseimbangan arus dana dan kekuatan transaksi antara kedua kelompok tersebut. Sumber: hankyung.com"
+      }
+    }
+  },
+  {
+    "id": "8580a67185c9",
+    "slug": "포토-파랗게-질린-코스피-165207",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-05-15T19:00:19.049Z",
+    "updatedAt": "2026-05-15T19:00:19.049Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/202605159712i",
+    "canonicalUrl": "https://www.hankyung.com/article/202605159712i",
+    "titleFingerprint": "14988bd6bc8c401804b6c42db87385cf57e92fd7",
+    "dedupKeys": [
+      "8580a67185c9d8e64a2fd29f69f11c640ea27da5",
+      "14988bd6bc8c401804b6c42db87385cf57e92fd7",
+      "b8069a7330feab18f446364d6740c63da1e7ef91"
+    ],
+    "imageUrl": "/images/articles/8580a67185c9.jpg",
+    "i18n": {
+      "ko": {
+        "title": "코스피 파랗게 질린 장면 포착, 국내 증시 하락 분위기와 투자심리 변화에 관심 집중",
+        "excerpt": "hankyung.com은 ‘[포토] 파랗게 질린 코스피’라는 제목으로 코스피 전광판이 파랗게 물든 장면을 전하며 국내 증시의 하락 분위기를 사진 기사로 보도했다.",
+        "body": "hankyung.com은 ‘[포토] 파랗게 질린 코스피’라는 제목의 사진 기사로 국내 증시 상황을 전했다. 원문에서 확인되는 핵심 정보는 코스피가 ‘파랗게 질린’ 모습으로 표현됐다는 점과, 해당 보도가 사진 형식으로 제시됐다는 점이다. 한국 주식시장에서 파란색은 통상 하락을 나타내는 색으로 쓰이기 때문에 제목은 코스피 전광판이나 시장 화면이 하락세를 보였음을 압축적으로 보여준다. 다만 제공된 원문에는 구체적인 날짜, 지수 등락 폭, 종가, 거래대금, 업종별 흐름 등 세부 수치는 포함되지 않았다. 이에 따라 투자자들은 기사 제목이 전달한 시장 분위기 자체에 주목할 수 있다. 출처는 hankyung.com이다."
+      },
+      "en": {
+        "title": "KOSPI Turns Blue in Photo Report as Korea Stock Market Mood Draws Attention",
+        "excerpt": "hankyung.com reported a photo story titled “[Photo] KOSPI Turns Blue,” highlighting a blue-toned KOSPI market screen and the weaker mood surrounding South Korea’s stock market.",
+        "body": "hankyung.com carried a photo article under the title “[Photo] KOSPI Turns Blue,” presenting the situation in South Korea’s stock market. The confirmed information from the original item is that the KOSPI was described as having “turned blue” and that the report was published in photo format. In the Korean stock market, blue is commonly used to indicate declines, so the headline compresses the image of a KOSPI board or market screen showing weakness. The provided source text, however, does not include a specific date, index movement, closing level, trading value, or sector-by-sector figures. Readers can therefore focus on the market mood conveyed by the headline itself. Source: hankyung.com."
+      },
+      "ja": {
+        "title": "青ざめたKOSPIを写真で報道、韓国株式市場の下落ムードに注目",
+        "excerpt": "hankyung.comは「青ざめたKOSPI」という見出しで、青く染まったKOSPIの市場画面を伝え、韓国株式市場の弱い雰囲気を写真記事として報じた。",
+        "body": "hankyung.comは「青ざめたKOSPI」という見出しの写真記事で、韓国株式市場の状況を伝えた。原文で確認できる中心情報は、KOSPIが「青ざめた」姿として表現されたこと、そして記事が写真形式で提示されたことだ。韓国の株式市場では青色が一般的に下落を示す色として使われるため、この見出しはKOSPIの電光掲示板や市場画面が弱含みを示した様子を端的に表している。ただし、提供された原文には具体的な日付、指数の騰落幅、終値、売買代金、業種別の動きなどの詳細数値は含まれていない。そのため読者は、見出しが伝える市場の雰囲気そのものに注目できる。出典はhankyung.com。"
+      },
+      "zh": {
+        "title": "KOSPI一片蓝色画面引关注，韩国股市下行氛围被照片记录",
+        "excerpt": "hankyung.com以“发蓝的KOSPI”为题发布图片报道，呈现KOSPI市场屏幕泛蓝的场景，概括韩国股市偏弱的交易氛围。",
+        "body": "hankyung.com以“发蓝的KOSPI”为题发布图片报道，呈现韩国股市的相关场景。原文能够确认的核心信息是，KOSPI被描述为“发蓝”的状态，并且该报道以图片形式发布。在韩国股票市场中，蓝色通常用于表示下跌，因此这一标题压缩呈现了KOSPI电子屏或市场画面显示弱势的情景。不过，所提供的原文未包含具体日期、指数涨跌幅、收盘点位、成交金额或行业表现等详细数据。因此，读者可重点关注标题本身所传递的市场情绪和现场氛围。消息来源为hankyung.com。"
+      },
+      "es": {
+        "title": "KOSPI aparece teñido de azul en foto y refleja presión sobre la bolsa coreana",
+        "excerpt": "hankyung.com publicó una nota fotográfica titulada “[Foto] KOSPI teñido de azul”, mostrando una pantalla del índice en azul y el ambiente débil del mercado bursátil surcoreano.",
+        "body": "hankyung.com publicó una nota fotográfica con el título “[Foto] KOSPI teñido de azul” para mostrar la situación del mercado bursátil de Corea del Sur. La información confirmada en el texto original es que el KOSPI fue descrito como “azul” y que la cobertura se presentó en formato de fotografía. En el mercado coreano, el color azul se usa habitualmente para señalar descensos, por lo que el titular resume la imagen de una pantalla o tablero del KOSPI en tono débil. Sin embargo, el material proporcionado no incluye una fecha concreta, variación del índice, nivel de cierre, volumen negociado ni cifras por sectores. Por ello, los lectores pueden centrarse en el ánimo de mercado transmitido por el propio titular. Fuente: hankyung.com."
+      },
+      "pt": {
+        "title": "KOSPI aparece em azul em foto e destaca clima fraco no mercado da Coreia",
+        "excerpt": "hankyung.com publicou uma reportagem fotográfica intitulada “[Foto] KOSPI ficou azul”, mostrando a tela do índice em azul e o ambiente de queda no mercado acionário sul-coreano.",
+        "body": "hankyung.com publicou uma reportagem fotográfica com o título “[Foto] KOSPI ficou azul”, apresentando a situação do mercado acionário da Coreia do Sul. A informação confirmada no texto original é que o KOSPI foi descrito como “azul” e que a notícia foi apresentada em formato de foto. No mercado coreano, a cor azul costuma indicar queda, de modo que o título resume a imagem de um painel ou tela do KOSPI em tom de fraqueza. No entanto, o material fornecido não traz data específica, variação do índice, nível de fechamento, volume negociado ou desempenho por setores. Assim, os leitores devem observar principalmente o clima de mercado transmitido pelo título. Fonte: hankyung.com."
+      },
+      "de": {
+        "title": "KOSPI in Blau gezeigt: Fotobericht lenkt Blick auf schwache Stimmung am Markt",
+        "excerpt": "hankyung.com berichtete unter dem Titel „[Foto] KOSPI ist blau angelaufen“ über eine blau geprägte Markttafel und die schwächere Stimmung am südkoreanischen Aktienmarkt.",
+        "body": "hankyung.com veröffentlichte einen Fotobericht mit dem Titel „[Foto] KOSPI ist blau angelaufen“ und stellte damit die Lage am südkoreanischen Aktienmarkt dar. Aus dem vorliegenden Original geht als Kerninformation hervor, dass der KOSPI als „blau“ beschrieben wurde und dass der Beitrag im Fotoformat erschien. Am koreanischen Aktienmarkt steht Blau üblicherweise für fallende Kurse, weshalb die Überschrift das Bild einer KOSPI-Tafel oder eines Marktbildschirms mit schwacher Tendenz knapp zusammenfasst. Der bereitgestellte Ausgangstext enthält jedoch kein konkretes Datum, keine Indexveränderung, keinen Schlussstand, keinen Handelswert und keine sektorbezogenen Zahlen. Leser können sich daher auf die durch die Überschrift vermittelte Marktstimmung konzentrieren. Quelle: hankyung.com."
+      },
+      "fr": {
+        "title": "Le KOSPI vire au bleu dans un reportage photo sur la Bourse sud-coréenne",
+        "excerpt": "hankyung.com a publié un reportage photo intitulé « [Photo] Le KOSPI vire au bleu », montrant un écran de marché bleuté et l’ambiance de repli de la Bourse sud-coréenne.",
+        "body": "hankyung.com a publié un reportage photo sous le titre « [Photo] Le KOSPI vire au bleu », afin de présenter la situation du marché boursier sud-coréen. Les informations confirmées dans le texte original sont que le KOSPI a été décrit comme étant « bleu » et que l’article a été présenté sous forme de photo. Sur le marché coréen, le bleu est couramment utilisé pour signaler une baisse, si bien que le titre résume l’image d’un panneau ou d’un écran du KOSPI affichant une tendance faible. Le texte fourni ne contient toutefois pas de date précise, de variation de l’indice, de niveau de clôture, de montant des échanges ni de chiffres par secteur. Les lecteurs peuvent donc se concentrer sur l’ambiance de marché transmise par le titre. Source : hankyung.com."
+      },
+      "ar": {
+        "title": "كوسبي يظهر باللون الأزرق في تقرير مصور يرصد أجواء الضعف في سوق كوريا",
+        "excerpt": "نشر hankyung.com تقريرا مصورا بعنوان «[صورة] كوسبي يزرقّ»، عارضا شاشة سوق يغلب عليها اللون الأزرق ومسلطا الضوء على أجواء التراجع في سوق الأسهم الكورية الجنوبية.",
+        "body": "نشر hankyung.com تقريرا مصورا بعنوان «[صورة] كوسبي يزرقّ» لعرض وضع سوق الأسهم في كوريا الجنوبية. المعلومة المؤكدة في النص الأصلي هي أن مؤشر كوسبي وُصف بأنه «ازرقّ»، وأن التغطية قُدمت في صيغة صورة. في سوق الأسهم الكورية، يُستخدم اللون الأزرق عادة للدلالة على الانخفاض، ولذلك يختصر العنوان مشهد لوحة أو شاشة كوسبي وهي تعكس اتجاها ضعيفا. ومع ذلك، لا يتضمن النص المقدم تاريخا محددا أو مقدار تغير المؤشر أو مستوى الإغلاق أو قيمة التداول أو أرقاما تفصيلية حسب القطاعات. لذلك يمكن للقراء التركيز على المزاج السوقي الذي ينقله العنوان نفسه. المصدر: hankyung.com."
+      },
+      "hi": {
+        "title": "फोटो रिपोर्ट में नीला दिखा KOSPI, कोरियाई शेयर बाजार की कमजोर धारणा पर नजर",
+        "excerpt": "hankyung.com ने “[फोटो] नीला पड़ा KOSPI” शीर्षक से फोटो रिपोर्ट प्रकाशित की, जिसमें KOSPI स्क्रीन के नीले दृश्य के जरिए दक्षिण कोरियाई शेयर बाजार की कमजोरी दिखाई गई।",
+        "body": "hankyung.com ने “[फोटो] नीला पड़ा KOSPI” शीर्षक से एक फोटो रिपोर्ट प्रकाशित कर दक्षिण कोरिया के शेयर बाजार की स्थिति दिखाई। मूल सामग्री से पुष्टि होने वाली मुख्य जानकारी यह है कि KOSPI को “नीला पड़ा” बताया गया और रिपोर्ट फोटो प्रारूप में दी गई। कोरियाई शेयर बाजार में नीला रंग आम तौर पर गिरावट को दर्शाने के लिए इस्तेमाल होता है, इसलिए शीर्षक KOSPI बोर्ड या बाजार स्क्रीन पर कमजोरी दिखने की स्थिति को संक्षेप में व्यक्त करता है। हालांकि उपलब्ध मूल पाठ में कोई विशिष्ट तारीख, सूचकांक में बदलाव, बंद स्तर, कारोबार मूल्य या क्षेत्रवार आंकड़े शामिल नहीं हैं। इसलिए पाठक शीर्षक से व्यक्त बाजार भावना पर ध्यान दे सकते हैं। स्रोत: hankyung.com."
+      },
+      "id": {
+        "title": "KOSPI Tampak Membiru dalam Foto, Sentimen Lemah Bursa Korea Jadi Sorotan",
+        "excerpt": "hankyung.com menerbitkan berita foto berjudul “[Foto] KOSPI Membiru”, menampilkan layar indeks yang berwarna biru dan menggambarkan suasana lemah di pasar saham Korea Selatan.",
+        "body": "hankyung.com menerbitkan berita foto dengan judul “[Foto] KOSPI Membiru” untuk menggambarkan situasi pasar saham Korea Selatan. Informasi utama yang dapat dikonfirmasi dari teks asli adalah bahwa KOSPI digambarkan “membiru” dan laporan tersebut disajikan dalam format foto. Di pasar saham Korea, warna biru umumnya digunakan untuk menunjukkan penurunan, sehingga judul itu merangkum tampilan papan atau layar KOSPI yang memperlihatkan pelemahan. Namun, teks sumber yang diberikan tidak memuat tanggal spesifik, besaran perubahan indeks, level penutupan, nilai transaksi, atau rincian per sektor. Karena itu, pembaca dapat berfokus pada suasana pasar yang disampaikan oleh judul tersebut. Sumber: hankyung.com."
+      }
+    }
+  },
+  {
+    "id": "2443e6d00a36",
+    "slug": "팔천피에-취한-사이어느새-원달러-환율-1500원-분석-852796",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-05-15T18:59:02.644Z",
+    "updatedAt": "2026-05-15T18:59:02.644Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/2026051593986",
+    "canonicalUrl": "https://www.hankyung.com/article/2026051593986",
+    "titleFingerprint": "b65e7fde134ea2ba1752e8ae78477b2796e4430d",
+    "dedupKeys": [
+      "2443e6d00a36d1cf10a2967b92c249ff1ff0cf97",
+      "b65e7fde134ea2ba1752e8ae78477b2796e4430d",
+      "15ef1f6330c2f49532d82e25a365ef29b0f404a5"
+    ],
+    "imageUrl": "/images/articles/2443e6d00a36.jpg",
+    "i18n": {
+      "ko": {
+        "title": "원·달러 환율 1500원, ‘팔천피’ 기대 속 놓친 환율 경고",
+        "excerpt": "한국경제는 ‘팔천피’ 기대가 커진 사이 원·달러 환율이 어느새 1500원 수준에 이른 상황을 짚고, 증시 낙관론 뒤 환율 부담을 분석했다.",
+        "body": "한국경제는 ‘팔천피’ 기대감에 시장의 관심이 쏠린 사이 원·달러 환율이 어느새 1500원 수준에 도달했다는 점을 분석했다. 기사 제목은 증시 상승 기대가 커지는 국면에서도 환율 변수는 별도로 주목해야 한다는 문제의식을 담고 있다. 원·달러 환율 1500원은 투자자와 기업, 금융시장 모두에 부담이 될 수 있는 핵심 수치로 제시됐다. 증시 낙관론이 커질수록 환율 움직임이 투자 판단과 시장 심리에 미칠 영향도 함께 살펴야 한다는 취지다. 출처: hankyung.com"
+      },
+      "en": {
+        "title": "Won-Dollar Rate Hits 1,500 as ‘KOSPI 8,000’ Hopes Dominate",
+        "excerpt": "Hankyung analyzed how the won-dollar exchange rate has reached around 1,500 while market attention remains focused on expectations for a KOSPI 8,000 milestone.",
+        "body": "Hankyung analyzed that the won-dollar exchange rate has quietly reached around 1,500 while market attention has been drawn to expectations of a so-called “KOSPI 8,000.” The headline highlights the need to watch currency risks even as optimism over the stock market grows. The 1,500 won-dollar level is presented as a key figure that may weigh on investors, companies and financial markets. The article’s point is that as bullish sentiment toward equities strengthens, the impact of exchange-rate movements on investment decisions and market psychology should also be examined. Source: hankyung.com"
+      },
+      "ja": {
+        "title": "ウォン・ドル相場1500ウォン、『KOSPI8000』期待の陰で警戒",
+        "excerpt": "韓国経済新聞は、『KOSPI8000』への期待が高まる中でウォン・ドル相場がいつの間にか1500ウォン水準に達した状況を分析した。",
+        "body": "韓国経済新聞は、『KOSPI8000』への期待感に市場の関心が集まる中、ウォン・ドル相場がいつの間にか1500ウォン水準に達した点を分析した。記事の見出しは、株式市場の上昇期待が強まる局面でも為替要因には別途注意が必要だという問題意識を示している。ウォン・ドル相場1500ウォンは、投資家や企業、金融市場に負担となり得る重要な数値として提示された。株式市場への楽観論が強まるほど、為替の動きが投資判断と市場心理に及ぼす影響も併せて見る必要があるという趣旨だ。出典: hankyung.com"
+      },
+      "zh": {
+        "title": "韩元兑美元汇率触及1500，KOSPI八千点期待下的警讯",
+        "excerpt": "韩国经济新闻分析称，在市场关注“KOSPI八千点”期待之际，韩元兑美元汇率已不知不觉升至1500韩元水平。",
+        "body": "韩国经济新闻分析称，在市场注意力集中于所谓“KOSPI八千点”期待之时，韩元兑美元汇率已不知不觉达到1500韩元水平。文章标题强调，即使股市上涨预期升温，汇率变量也需要单独关注。韩元兑美元1500这一水平被视为可能对投资者、企业和金融市场形成压力的关键数字。报道的核心在于，随着股市乐观情绪增强，汇率波动对投资判断和市场心理的影响也应同时纳入观察。来源: hankyung.com"
+      },
+      "es": {
+        "title": "Won-dólar en 1.500: la alerta cambiaria tras el optimismo bursátil",
+        "excerpt": "Hankyung analizó cómo el tipo de cambio won-dólar llegó a cerca de 1.500 mientras el mercado se concentraba en las expectativas de un KOSPI en 8.000.",
+        "body": "Hankyung analizó que el tipo de cambio won-dólar ha llegado silenciosamente a cerca de 1.500 mientras la atención del mercado se centraba en las expectativas de un llamado “KOSPI 8.000”. El titular subraya la necesidad de vigilar el riesgo cambiario incluso cuando aumenta el optimismo sobre la bolsa. El nivel de 1.500 wones por dólar se presenta como una cifra clave que puede pesar sobre inversores, empresas y mercados financieros. El enfoque del artículo es que, cuanto más se fortalece el optimismo bursátil, más necesario es observar el efecto del tipo de cambio en las decisiones de inversión y la psicología del mercado. Fuente: hankyung.com"
+      },
+      "pt": {
+        "title": "Won-dólar a 1.500: alerta cambial em meio à aposta no KOSPI 8.000",
+        "excerpt": "O Hankyung analisou que o câmbio won-dólar chegou a cerca de 1.500 enquanto o mercado se concentrava nas expectativas de um KOSPI em 8.000 pontos.",
+        "body": "O Hankyung analisou que a taxa de câmbio won-dólar chegou discretamente a cerca de 1.500 enquanto a atenção do mercado estava voltada às expectativas de um chamado “KOSPI 8.000”. O título destaca a necessidade de acompanhar o risco cambial mesmo em um ambiente de maior otimismo com a bolsa. O nível de 1.500 wones por dólar é apresentado como um número-chave que pode pesar sobre investidores, empresas e mercados financeiros. A mensagem do artigo é que, à medida que cresce o otimismo com ações, o impacto do câmbio nas decisões de investimento e no sentimento do mercado também deve ser observado. Fonte: hankyung.com"
+      },
+      "de": {
+        "title": "Won-Dollar-Kurs bei 1.500: Währungswarnung trotz KOSPI-8000-Hoffnung",
+        "excerpt": "Hankyung analysierte, dass der Won-Dollar-Wechselkurs auf etwa 1.500 gestiegen ist, während der Markt auf die Erwartung eines KOSPI von 8.000 blickte.",
+        "body": "Hankyung analysierte, dass der Won-Dollar-Wechselkurs unbemerkt auf etwa 1.500 gestiegen ist, während sich die Aufmerksamkeit des Marktes auf die Erwartung eines sogenannten „KOSPI 8.000“ richtete. Die Überschrift macht deutlich, dass Währungsrisiken auch bei wachsendem Optimismus am Aktienmarkt gesondert beobachtet werden müssen. Die Marke von 1.500 Won je Dollar wird als wichtige Zahl dargestellt, die Anleger, Unternehmen und Finanzmärkte belasten kann. Der Kern des Artikels lautet: Je stärker die Zuversicht am Aktienmarkt wird, desto genauer sollte auch der Einfluss von Wechselkursbewegungen auf Anlageentscheidungen und Marktstimmung geprüft werden. Quelle: hankyung.com"
+      },
+      "fr": {
+        "title": "Won-dollar à 1 500 : l’alerte de change derrière l’espoir KOSPI 8 000",
+        "excerpt": "Hankyung a analysé la montée du taux won-dollar autour de 1 500 alors que le marché restait concentré sur les attentes d’un KOSPI à 8 000 points.",
+        "body": "Hankyung a analysé le fait que le taux de change won-dollar a discrètement atteint environ 1 500 alors que l’attention du marché se portait sur l’espoir d’un « KOSPI 8 000 ». Le titre souligne la nécessité de surveiller le risque de change même lorsque l’optimisme boursier progresse. Le niveau de 1 500 wons pour un dollar est présenté comme un chiffre clé susceptible de peser sur les investisseurs, les entreprises et les marchés financiers. L’article insiste sur le fait que, plus l’optimisme envers les actions se renforce, plus l’impact des mouvements de change sur les décisions d’investissement et le sentiment de marché doit être examiné. Source : hankyung.com"
+      },
+      "ar": {
+        "title": "سعر الوون مقابل الدولار عند 1500 وسط آمال كوسبي 8000",
+        "excerpt": "حللت هانكيونغ وصول سعر صرف الوون مقابل الدولار إلى نحو 1500، بينما ظل اهتمام السوق منصبا على توقعات بلوغ كوسبي مستوى 8000.",
+        "body": "حللت هانكيونغ أن سعر صرف الوون مقابل الدولار وصل بهدوء إلى نحو 1500، في وقت انصب فيه اهتمام السوق على توقعات ما يسمى «كوسبي 8000». ويبرز العنوان ضرورة متابعة مخاطر العملة حتى مع تزايد التفاؤل بسوق الأسهم. ويُعرض مستوى 1500 وون للدولار كرقم أساسي قد يشكل عبئا على المستثمرين والشركات والأسواق المالية. وتتمثل رسالة المقال في أنه كلما تعزز التفاؤل تجاه الأسهم، زادت الحاجة إلى النظر أيضا في أثر تحركات سعر الصرف على قرارات الاستثمار ومعنويات السوق. المصدر: hankyung.com"
+      },
+      "hi": {
+        "title": "वॉन-डॉलर दर 1,500 पर, KOSPI 8,000 उम्मीदों के बीच चेतावनी",
+        "excerpt": "हैंक्युंग ने विश्लेषण किया कि KOSPI 8,000 की उम्मीदों पर बाजार का ध्यान रहने के बीच वॉन-डॉलर विनिमय दर करीब 1,500 तक पहुंच गई है।",
+        "body": "हैंक्युंग ने विश्लेषण किया कि तथाकथित “KOSPI 8,000” की उम्मीदों पर बाजार का ध्यान केंद्रित रहने के बीच वॉन-डॉलर विनिमय दर चुपचाप करीब 1,500 के स्तर पर पहुंच गई। शीर्षक यह बताता है कि शेयर बाजार को लेकर आशावाद बढ़ने के बावजूद मुद्रा जोखिम पर अलग से ध्यान देना जरूरी है। 1,500 वॉन प्रति डॉलर का स्तर निवेशकों, कंपनियों और वित्तीय बाजारों पर बोझ डाल सकने वाला प्रमुख आंकड़ा बताया गया है। लेख का आशय है कि जैसे-जैसे शेयरों को लेकर आशावाद मजबूत होता है, विनिमय दर की चाल का निवेश निर्णयों और बाजार मनोविज्ञान पर प्रभाव भी साथ-साथ देखना चाहिए। स्रोत: hankyung.com"
+      },
+      "id": {
+        "title": "Won-Dolar Tembus 1.500 di Tengah Harapan KOSPI 8.000",
+        "excerpt": "Hankyung menganalisis bahwa kurs won-dolar telah mencapai sekitar 1.500 saat perhatian pasar tertuju pada ekspektasi KOSPI menuju 8.000.",
+        "body": "Hankyung menganalisis bahwa kurs won-dolar diam-diam telah mencapai sekitar 1.500 ketika perhatian pasar tertuju pada ekspektasi yang disebut “KOSPI 8.000”. Judul tersebut menekankan perlunya mencermati risiko nilai tukar meski optimisme terhadap pasar saham meningkat. Level 1.500 won per dolar disajikan sebagai angka penting yang dapat membebani investor, perusahaan, dan pasar keuangan. Inti artikel ini adalah bahwa semakin kuat optimisme terhadap saham, semakin perlu pula memperhatikan dampak pergerakan kurs terhadap keputusan investasi dan psikologi pasar. Sumber: hankyung.com"
+      }
+    }
+  },
+  {
     "id": "093fe6d0174c",
     "slug": "앤스로픽-몸값-9000억弗오픈ai-제쳤다-632493",
     "channelId": "ETF",
@@ -4271,231 +4496,6 @@
         "title": "Chart Industries Terkena Sinyal Jual, MK Signal Catat Imbal Hasil 27,42%",
         "excerpt": "MK Signal menyatakan pada tanggal 14 bahwa sinyal jual terdeteksi pada saham AS Chart Industries (GTLS), dengan imbal hasil mencapai 27,42%.",
         "body": "Reporter AI “MK Signal” menyatakan pada tanggal 14 bahwa sinyal jual terdeteksi pada Chart Industries (GTLS), saham AS yang dianalisis sebagai salah satu nama dengan isu panas. Berdasarkan sinyal tersebut, saham ini mencatat imbal hasil 27,42% menurut kriteria MK Signal. MK Signal menyampaikan analisis atas saham-saham AS yang menarik perhatian pasar, disertai sinyal perdagangan dan angka kinerja terkait. Inti laporan ini adalah teridentifikasinya titik jual pada Chart Industries serta penyajian angka imbal hasil bersama sinyal tersebut. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "647d7f296295",
-    "slug": "코스피-8000시대etf투자-3대-키워드는-945035",
-    "channelId": "ETF",
-    "category": "etf",
-    "publishedAt": "2026-05-15T00:39:33.851Z",
-    "updatedAt": "2026-05-15T00:39:33.851Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/business/12048766",
-    "canonicalUrl": "https://www.mk.co.kr/news/business/12048766",
-    "titleFingerprint": "b350dfdecb09e7976ab8e7815f89182906b0242a",
-    "dedupKeys": [
-      "647d7f296295076d8876c046465322e4f7c5aeaf",
-      "b350dfdecb09e7976ab8e7815f89182906b0242a",
-      "f579854a790ea4114a1ba4c32d4fbaba90a9767a"
-    ],
-    "imageUrl": "/images/articles/647d7f296295.jpg",
-    "i18n": {
-      "ko": {
-        "title": "코스피 8000시대 ETF 투자 전략, 분할매수·동일가중·글로벌 분산 주목",
-        "excerpt": "코스피 8000시대 전망 속 ETF 투자자들이 주목할 3대 키워드로 분할매수, 동일가중, 글로벌 분산이 제시됐다. 반도체 사이클 낙관론 속 과거 조정 경험도 함께 거론됐다.",
-        "body": "코스피 8000시대가 거론되는 가운데 ETF 투자 전략의 핵심 키워드로 분할매수, 동일가중, 글로벌 분산이 제시됐다. 최근 시장에서는 반도체 업황에 대한 기대가 커지며 ‘반도체 울트라 사이클’이나 ‘사이클 없이 쭉 간다’는 낙관론도 나오고 있다. 그러나 원문은 2017년에도 ‘반도체 수퍼 사이클’이 있었지만 이후 2년 이상 하락한 경험을 함께 짚었다. 이에 따라 특정 업종이나 시점에 집중하기보다 투자 시점을 나누고, 특정 대형주 편중을 줄이는 동일가중 접근과 글로벌 분산이 ETF 투자에서 중요한 선택지로 언급됐다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "ETF Strategy for a KOSPI 8000 Era: Phased Buying, Equal Weight, Global Diversification",
-        "excerpt": "As talk of a KOSPI 8000 era grows, ETF investors are being pointed to three keywords: phased buying, equal weighting, and global diversification, with past semiconductor-cycle declines also noted.",
-        "body": "As a KOSPI 8000 era is being discussed, three ETF investment keywords have been highlighted: phased buying, equal weighting, and global diversification. Market optimism has grown around semiconductors, with phrases such as “semiconductor ultra cycle” and expectations that the cycle could continue without interruption being mentioned. The original article also notes that in 2017 there was talk of a “semiconductor super cycle,” but the market then declined for more than two years. Against that backdrop, ETF investors are being directed toward spreading purchase timing, reducing concentration in a few large stocks through equal weighting, and diversifying globally rather than focusing on one sector or entry point. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "KOSPI8000時代のETF戦略、分割購入・均等加重・グローバル分散に注目",
-        "excerpt": "KOSPI8000時代が語られる中、ETF投資の3大キーワードとして分割購入、均等加重、グローバル分散が提示された。半導体相場への楽観論と過去の下落経験も示された。",
-        "body": "KOSPI8000時代が取り上げられる中、ETF投資戦略の核心キーワードとして分割購入、均等加重、グローバル分散が提示された。最近の市場では半導体市況への期待が高まり、「半導体ウルトラサイクル」や「サイクルなしに続く」といった楽観的な見方も出ている。一方、原文は2017年にも「半導体スーパーサイクル」があったものの、その後2年以上下落した経験を併せて指摘した。そのため、特定業種や特定の投資時点に集中するのではなく、購入時期を分け、大型株偏重を抑える均等加重の考え方とグローバル分散がETF投資の重要な選択肢として言及された。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "KOSPI 8000时代ETF投资策略：分批买入、等权重与全球分散受关注",
-        "excerpt": "在KOSPI 8000时代预期升温之际，ETF投资的三大关键词被提出为分批买入、等权重和全球分散，同时也提到半导体周期曾经历长期回调。",
-        "body": "在KOSPI 8000时代被讨论之际，ETF投资策略的核心关键词被提出为分批买入、等权重和全球分散。近期市场对半导体景气的期待升温，出现了“半导体超强周期”以及“没有周期、一路延续”等乐观看法。不过，原文也指出，2017年同样曾有“半导体超级周期”的说法，但之后市场下跌了两年以上。在这一背景下，ETF投资不宜集中于某一行业或单一买入时点，而应考虑分散买入时间，通过等权重方式降低对少数大型股的偏重，并进行全球分散配置。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "ETF ante un KOSPI de 8000: compras escalonadas, igual ponderación y diversificación global",
-        "excerpt": "Ante el debate sobre una era KOSPI 8000, se señalan tres claves para invertir en ETF: compras escalonadas, igual ponderación y diversificación global, junto con la experiencia de caídas pasadas en semiconductores.",
-        "body": "Mientras se habla de una era KOSPI 8000, se han destacado tres palabras clave para la inversión en ETF: compras escalonadas, igual ponderación y diversificación global. En el mercado reciente han aumentado las expectativas sobre los semiconductores, con expresiones como “ultraciclo de semiconductores” y la idea de que el avance podría continuar sin ciclo. Sin embargo, el texto original recuerda que en 2017 también se habló de un “superciclo de semiconductores”, pero luego hubo una caída de más de dos años. Por ello, se menciona que los inversores en ETF deberían evitar concentrarse en un solo sector o momento de entrada, dividir las compras, reducir el sesgo hacia grandes valores mediante igual ponderación y diversificar globalmente. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "ETF na era KOSPI 8000: compras parceladas, peso igual e diversificação global",
-        "excerpt": "Com a discussão sobre uma era KOSPI 8000, três palavras-chave para ETFs ganham destaque: compras parceladas, peso igual e diversificação global, junto ao histórico de queda no ciclo de semicondutores.",
-        "body": "Com a era KOSPI 8000 em discussão, três palavras-chave foram apontadas para a estratégia de investimento em ETF: compras parceladas, peso igual e diversificação global. O mercado recente mostra maior expectativa em relação aos semicondutores, com expressões como “ultraciclo dos semicondutores” e a ideia de que o avanço poderia continuar sem ciclos. Ainda assim, o texto original lembra que em 2017 também houve o chamado “superciclo dos semicondutores”, mas depois ocorreu uma queda por mais de dois anos. Nesse contexto, a abordagem citada para ETFs é evitar concentração em um setor ou em um único momento de entrada, dividir as compras, reduzir o peso excessivo de grandes empresas por meio de igual ponderação e diversificar globalmente. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "ETF-Strategie für KOSPI 8000: Ratenkäufe, Gleichgewichtung und globale Streuung",
-        "excerpt": "Während über eine KOSPI-8000-Ära gesprochen wird, rücken für ETF-Anleger drei Schlüsselbegriffe in den Fokus: Ratenkäufe, Gleichgewichtung und globale Diversifikation, begleitet vom Hinweis auf frühere Halbleiter-Rückgänge.",
-        "body": "Während eine KOSPI-8000-Ära diskutiert wird, wurden drei zentrale Begriffe für ETF-Anlagestrategien genannt: Ratenkäufe, Gleichgewichtung und globale Streuung. Zuletzt sind die Erwartungen an die Halbleiterbranche gestiegen; am Markt fallen Formulierungen wie „Halbleiter-Ultrazyklus“ und die Annahme, der Zyklus könne ohne Unterbrechung weiterlaufen. Der Originaltext verweist jedoch auch darauf, dass es 2017 bereits einen „Halbleiter-Superzyklus“ gab, dem anschließend ein Rückgang von mehr als zwei Jahren folgte. Vor diesem Hintergrund wird für ETF-Anleger betont, Käufe zeitlich zu verteilen, die Konzentration auf wenige Schwergewichte durch Gleichgewichtung zu verringern und global zu diversifizieren. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "ETF et KOSPI 8000 : achats fractionnés, équipondération et diversification mondiale",
-        "excerpt": "Alors que l’hypothèse d’un KOSPI à 8000 points est évoquée, trois axes ressortent pour les ETF : achats fractionnés, équipondération et diversification mondiale, avec un rappel du précédent repli des semi-conducteurs.",
-        "body": "Alors que l’idée d’une ère KOSPI 8000 est évoquée, trois mots-clés sont mis en avant pour l’investissement en ETF : achats fractionnés, équipondération et diversification mondiale. Le marché nourrit récemment de fortes attentes autour des semi-conducteurs, avec des expressions telles que « ultracycle des semi-conducteurs » ou l’idée d’une progression continue sans cycle. Le texte original rappelle toutefois qu’en 2017 il était aussi question d’un « supercycle des semi-conducteurs », suivi d’une baisse de plus de deux ans. Dans ce contexte, l’approche citée pour les ETF consiste à ne pas se concentrer sur un seul secteur ou point d’entrée, à étaler les achats, à réduire la dépendance aux grandes capitalisations par l’équipondération et à diversifier mondialement. Source : mk.co.kr"
-      },
-      "ar": {
-        "title": "استراتيجية ETF في عصر كوسبي 8000: الشراء المجزأ والتوزين المتساوي والتنويع العالمي",
-        "excerpt": "مع تصاعد الحديث عن عصر كوسبي 8000، تبرز ثلاثة مفاتيح لاستثمار ETF: الشراء المجزأ، والتوزين المتساوي، والتنويع العالمي، مع التذكير بتراجع سابق في دورة أشباه الموصلات.",
-        "body": "مع طرح فكرة عصر كوسبي 8000، جرى إبراز ثلاث كلمات رئيسية لاستراتيجية الاستثمار في صناديق ETF: الشراء المجزأ، والتوزين المتساوي، والتنويع العالمي. في السوق الأخيرة زادت التوقعات حول قطاع أشباه الموصلات، وظهرت عبارات مثل «الدورة الفائقة لأشباه الموصلات» وفكرة أن المسار قد يستمر من دون دورة. لكن النص الأصلي يشير أيضا إلى أنه في عام 2017 كان هناك حديث عن «دورة كبرى لأشباه الموصلات»، ثم تلا ذلك هبوط استمر أكثر من عامين. لذلك، يرد ذكر تجنب التركيز على قطاع واحد أو توقيت دخول واحد، وتقسيم المشتريات، وتقليل الانحياز إلى الأسهم الكبرى عبر التوزين المتساوي، وتنويع الاستثمار عالميا كخيارات مهمة لمستثمري ETF. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "KOSPI 8000 दौर में ETF रणनीति: चरणबद्ध खरीद, समान भार और वैश्विक विविधीकरण",
-        "excerpt": "KOSPI 8000 युग की चर्चा के बीच ETF निवेश के लिए तीन मुख्य शब्द सामने आए हैं: चरणबद्ध खरीद, समान भार और वैश्विक विविधीकरण, साथ ही सेमीकंडक्टर चक्र की पुरानी गिरावट का संदर्भ भी दिया गया है।",
-        "body": "KOSPI 8000 युग की चर्चा के बीच ETF निवेश रणनीति के मुख्य शब्दों के रूप में चरणबद्ध खरीद, समान भार और वैश्विक विविधीकरण को रेखांकित किया गया। हाल के बाजार में सेमीकंडक्टर उद्योग को लेकर उम्मीदें बढ़ी हैं, और “सेमीकंडक्टर अल्ट्रा साइकिल” तथा “बिना चक्र के लगातार आगे बढ़ने” जैसी आशावादी बातें भी सामने आई हैं। हालांकि मूल लेख ने यह भी याद दिलाया कि 2017 में “सेमीकंडक्टर सुपर साइकिल” की बात थी, लेकिन उसके बाद दो साल से अधिक गिरावट रही। इसी संदर्भ में ETF निवेशकों के लिए किसी एक क्षेत्र या एक ही प्रवेश समय पर निर्भर रहने के बजाय खरीद को बांटना, समान भार से बड़ी कंपनियों की अधिक निर्भरता कम करना और वैश्विक रूप से विविधीकरण करना महत्वपूर्ण विकल्प बताए गए। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Strategi ETF Era KOSPI 8000: Beli Bertahap, Bobot Setara, Diversifikasi Global",
-        "excerpt": "Di tengah pembahasan era KOSPI 8000, tiga kata kunci investasi ETF disorot: beli bertahap, bobot setara, dan diversifikasi global, dengan catatan pengalaman penurunan siklus semikonduktor sebelumnya.",
-        "body": "Saat era KOSPI 8000 dibicarakan, tiga kata kunci strategi investasi ETF disorot: beli bertahap, bobot setara, dan diversifikasi global. Di pasar belakangan ini, ekspektasi terhadap industri semikonduktor meningkat, disertai istilah seperti “ultra cycle semikonduktor” dan pandangan bahwa kenaikan dapat berlanjut tanpa siklus. Namun, artikel asli juga mengingatkan bahwa pada 2017 pernah ada “super cycle semikonduktor”, tetapi setelah itu terjadi penurunan selama lebih dari dua tahun. Karena itu, investasi ETF disebut perlu menghindari konsentrasi pada satu sektor atau satu waktu masuk, membagi waktu pembelian, mengurangi dominasi saham besar melalui bobot setara, serta melakukan diversifikasi global. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "dfd355bfaac4",
-    "slug": "속보-코스피-결국-8000도-뚫었다꿈의-8000피-시대-개막-506840",
-    "channelId": "ETF",
-    "category": "etf",
-    "publishedAt": "2026-05-15T00:38:32.875Z",
-    "updatedAt": "2026-05-15T00:38:32.875Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/stock/12048770",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12048770",
-    "titleFingerprint": "7c2dbcd6d0300634e78536aaf8ada256798e9f0f",
-    "dedupKeys": [
-      "dfd355bfaac4584271e537dfaf46bba116649486",
-      "7c2dbcd6d0300634e78536aaf8ada256798e9f0f",
-      "87b7e46a24e30376e5702e38e2f94632068f57c1"
-    ],
-    "imageUrl": "/images/articles/dfd355bfaac4.png",
-    "i18n": {
-      "ko": {
-        "title": "코스피 8000 돌파, 장중 8001.40 기록하며 ‘8000피’ 시대 개막",
-        "excerpt": "코스피가 14일 오전 장중 8000선을 넘어 8001.40을 기록했다. 전일 대비 19.99포인트 오른 흐름 속에 국내 증시의 상징적 지수 구간 진입이 확인됐다.",
-        "body": "코스피가 14일 장중 8000선을 돌파하며 이른바 ‘꿈의 8000피’ 시대를 열었다. 이날 오전 9시 23분 현재 코스피는 전일 대비 19.99포인트, 0.25% 오른 8001.40에 거래됐다. 원문은 코스피가 결국 8000도 뚫었다고 전하며, 장중 기준으로 8000선을 넘어선 사실을 핵심 내용으로 제시했다. 8000선은 국내 증시 흐름을 가늠하는 상징적 수치로, 이날 상승 폭은 크지 않았지만 지수 자체가 새로운 구간에 들어섰다는 점에서 시장의 관심이 집중됐다. 향후 흐름은 8000선 안착 여부와 추가 등락에 따라 평가될 전망이다. 출처: mk.co.kr."
-      },
-      "en": {
-        "title": "KOSPI Breaks 8,000 Intraday, Opens Symbolic ‘8,000 Point’ Era",
-        "excerpt": "The KOSPI crossed the 8,000 mark during trading on the 14th, reaching 8,001.40 as of 9:23 a.m., up 19.99 points from the previous session.",
-        "body": "The KOSPI broke above 8,000 during intraday trading on the 14th, opening what the original report described as the symbolic ‘8,000 point’ era. As of 9:23 a.m. that day, the index stood at 8,001.40, up 19.99 points, or 0.25%, from the previous session. The report emphasized that the KOSPI had finally crossed the 8,000 level, focusing on the fact that the benchmark moved beyond this threshold during the session. While the percentage gain was limited, the move drew attention because 8,000 is a symbolic level for South Korea’s stock market. Future assessments will depend on whether the index can remain around the 8,000 level and how it moves afterward. Source: mk.co.kr."
-      },
-      "ja": {
-        "title": "KOSPIが取引時間中に8000突破、8001.40で新たな節目へ",
-        "excerpt": "KOSPIは14日午前の取引時間中に8000を突破し、午前9時23分時点で前日比19.99ポイント高の8001.40を記録した。",
-        "body": "KOSPIは14日の取引時間中に8000を突破し、いわゆる「夢の8000ポイント」時代を開いた。 同日午前9時23分時点でKOSPIは前日比19.99ポイント、0.25%高の8001.40で取引された。原文は、KOSPIがついに8000も突破したと伝え、取引時間中に8000台へ乗せた事実を中心に報じた。上昇率自体は大きくなかったものの、8000は韓国株式市場の流れを示す象徴的な水準であるため、市場の関心が集まった。今後は8000台に定着できるか、また追加の上下動がどう展開するかが評価の焦点となる。出典: mk.co.kr."
-      },
-      "zh": {
-        "title": "KOSPI盘中突破8000点，报8001.40开启关键关口",
-        "excerpt": "KOSPI于14日上午盘中突破8000点，截至上午9时23分报8001.40点，较前一交易日上涨19.99点，涨幅0.25%。",
-        "body": "KOSPI于14日盘中突破8000点，开启原文所称的“梦想8000点”时代。当天上午9时23分，KOSPI较前一交易日上涨19.99点，涨幅0.25%，报8001.40点。原文称，KOSPI最终连8000点也被突破，并将盘中站上8000点这一事实作为核心内容。虽然当天涨幅并不大，但8000点是衡量韩国股市走势的象征性数字，因此该指数进入新区间引发市场关注。后续走势将取决于指数能否稳定在8000点附近，以及之后是否出现进一步涨跌。来源: mk.co.kr."
-      },
-      "es": {
-        "title": "El KOSPI supera los 8.000 puntos intradía y marca 8.001,40",
-        "excerpt": "El KOSPI superó los 8.000 puntos durante la sesión del día 14 y a las 9:23 a.m. cotizaba en 8.001,40, con un alza de 19,99 puntos frente al cierre previo.",
-        "body": "El KOSPI superó los 8.000 puntos durante la sesión del día 14, abriendo lo que el informe original llamó la era de los ‘8.000 puntos soñados’. A las 9:23 a.m. de ese día, el índice cotizaba en 8.001,40, 19,99 puntos más que en la sesión anterior, equivalente a un avance del 0,25%. El texto original señaló que el KOSPI finalmente atravesó también el nivel de 8.000, centrando la noticia en ese cruce intradía. Aunque el porcentaje de subida fue limitado, el nivel de 8.000 funciona como una referencia simbólica para el mercado bursátil surcoreano. La evaluación posterior dependerá de si el índice logra sostenerse cerca de ese nivel y de sus siguientes movimientos. Fuente: mk.co.kr."
-      },
-      "pt": {
-        "title": "KOSPI rompe 8.000 pontos no intradiário e atinge 8.001,40",
-        "excerpt": "O KOSPI superou os 8.000 pontos durante o pregão do dia 14 e, às 9h23, marcava 8.001,40, alta de 19,99 pontos em relação à sessão anterior.",
-        "body": "O KOSPI rompeu a marca de 8.000 pontos durante o pregão do dia 14, abrindo o que a reportagem original chamou de era dos ‘8.000 pontos dos sonhos’. Às 9h23 daquele dia, o índice era negociado a 8.001,40, avanço de 19,99 pontos, ou 0,25%, frente à sessão anterior. O texto original destacou que o KOSPI finalmente ultrapassou também o nível de 8.000, tendo como ponto central o cruzamento intradiário dessa marca. Embora a alta percentual tenha sido limitada, 8.000 é um patamar simbólico para medir o movimento do mercado acionário sul-coreano. A leitura futura dependerá de o índice conseguir se manter perto desse nível e de seus próximos movimentos. Fonte: mk.co.kr."
-      },
-      "de": {
-        "title": "KOSPI durchbricht im Handel 8.000 Punkte und erreicht 8.001,40",
-        "excerpt": "Der KOSPI überschritt am 14. im laufenden Handel die Marke von 8.000 Punkten und lag um 9:23 Uhr bei 8.001,40, 19,99 Punkte über dem Vortag.",
-        "body": "Der KOSPI hat am 14. im Tagesverlauf die Marke von 8.000 Punkten überschritten und damit die im Originalbericht genannte Ära der ‘Traum-Marke von 8.000’ eröffnet. Um 9:23 Uhr stand der Index bei 8.001,40 Punkten, ein Plus von 19,99 Punkten beziehungsweise 0,25% gegenüber dem Vortag. Der Bericht stellte heraus, dass der KOSPI letztlich auch die 8.000er-Marke durchbrochen hat, und rückte diesen intraday erreichten Schwellenwert in den Mittelpunkt. Der prozentuale Anstieg war zwar begrenzt, doch 8.000 Punkte gelten als symbolische Größe für den südkoreanischen Aktienmarkt. Entscheidend wird nun sein, ob sich der Index um diese Marke halten kann und wie die weiteren Bewegungen ausfallen. Quelle: mk.co.kr."
-      },
-      "fr": {
-        "title": "Le KOSPI franchit 8 000 points en séance et atteint 8 001,40",
-        "excerpt": "Le KOSPI a dépassé les 8 000 points en séance le 14 et s’établissait à 8 001,40 à 9h23, en hausse de 19,99 points par rapport à la veille.",
-        "body": "Le KOSPI a franchi le seuil des 8 000 points en séance le 14, ouvrant ce que l’article original a présenté comme l’ère des ‘8 000 points rêvés’. À 9h23 ce jour-là, l’indice s’échangeait à 8 001,40, en hausse de 19,99 points, soit 0,25%, par rapport à la séance précédente. Le texte original soulignait que le KOSPI avait finalement dépassé même les 8 000 points, en mettant l’accent sur ce franchissement intrajournalier. Même si la progression en pourcentage est restée limitée, le seuil de 8 000 constitue un niveau symbolique pour le marché actions sud-coréen. La suite sera appréciée selon la capacité de l’indice à se maintenir autour de ce niveau et selon ses prochains mouvements. Source: mk.co.kr."
-      },
-      "ar": {
-        "title": "كوسبي يتجاوز 8000 نقطة خلال الجلسة ويسجل 8001.40",
-        "excerpt": "تجاوز مؤشر كوسبي مستوى 8000 نقطة خلال تداولات يوم 14، وبلغ عند الساعة 9:23 صباحا 8001.40 نقطة، مرتفعا 19.99 نقطة عن الجلسة السابقة.",
-        "body": "تجاوز مؤشر كوسبي مستوى 8000 نقطة خلال تداولات يوم 14، ليفتح ما وصفه التقرير الأصلي بعصر ‘8000 نقطة الحلم’. وعند الساعة 9:23 صباحا من ذلك اليوم، سجل المؤشر 8001.40 نقطة، مرتفعا 19.99 نقطة أو 0.25% عن الجلسة السابقة. وركز النص الأصلي على أن كوسبي اخترق أخيرا حتى مستوى 8000، مع إبراز حقيقة تجاوزه هذا الحاجز أثناء التداول. ورغم أن نسبة الارتفاع لم تكن كبيرة، فإن مستوى 8000 يمثل رقما رمزيا لقياس اتجاه سوق الأسهم الكورية الجنوبية، لذلك جذب الدخول إلى هذا النطاق اهتمام السوق. وسيعتمد التقييم اللاحق على قدرة المؤشر على الاستقرار قرب مستوى 8000 وعلى تحركاته التالية. المصدر: mk.co.kr."
-      },
-      "hi": {
-        "title": "KOSPI ने इंट्राडे में 8,000 पार किया, 8,001.40 पर पहुंचा",
-        "excerpt": "KOSPI ने 14 तारीख को कारोबार के दौरान 8,000 का स्तर पार किया और सुबह 9:23 बजे 8,001.40 पर था, जो पिछले सत्र से 19.99 अंक ऊपर था।",
-        "body": "KOSPI ने 14 तारीख को कारोबार के दौरान 8,000 का स्तर पार करते हुए मूल रिपोर्ट के अनुसार ‘सपनों के 8,000 अंक’ का दौर शुरू किया। उस दिन सुबह 9:23 बजे KOSPI पिछले सत्र की तुलना में 19.99 अंक, यानी 0.25%, बढ़कर 8,001.40 पर कारोबार कर रहा था। मूल रिपोर्ट ने बताया कि KOSPI ने आखिरकार 8,000 का स्तर भी तोड़ दिया, और खबर का मुख्य बिंदु इंट्राडे में इस सीमा को पार करना था। प्रतिशत के लिहाज से बढ़त सीमित थी, लेकिन 8,000 दक्षिण कोरियाई शेयर बाजार की दिशा को देखने वाला प्रतीकात्मक स्तर है, इसलिए बाजार का ध्यान इस पर गया। आगे का आकलन इस बात पर निर्भर करेगा कि सूचकांक 8,000 के आसपास टिकता है या नहीं और उसके बाद उतार-चढ़ाव कैसा रहता है। स्रोत: mk.co.kr."
-      },
-      "id": {
-        "title": "KOSPI Tembus 8.000 Intraday, Capai 8.001,40 Poin",
-        "excerpt": "KOSPI menembus level 8.000 pada perdagangan intraday tanggal 14 dan pukul 09.23 berada di 8.001,40, naik 19,99 poin dari sesi sebelumnya.",
-        "body": "KOSPI menembus level 8.000 pada perdagangan intraday tanggal 14, membuka apa yang disebut laporan asli sebagai era ‘8.000 poin impian’. Pada pukul 09.23 hari itu, KOSPI diperdagangkan di 8.001,40, naik 19,99 poin atau 0,25% dari sesi sebelumnya. Laporan asli menekankan bahwa KOSPI akhirnya berhasil melewati 8.000, dengan fokus pada fakta bahwa indeks tersebut menembus ambang itu selama sesi berjalan. Meski kenaikan persentasenya tidak besar, level 8.000 merupakan angka simbolis untuk membaca arah pasar saham Korea Selatan, sehingga pergerakan ini menarik perhatian pasar. Penilaian berikutnya akan bergantung pada apakah indeks mampu bertahan di sekitar level 8.000 dan bagaimana pergerakan selanjutnya. Sumber: mk.co.kr."
-      }
-    }
-  },
-  {
-    "id": "786d7351f9fb",
-    "slug": "lg전자-로봇-신사업-기대에-52주-신고가-경신지주사도-상한가-290977",
-    "channelId": "ETF",
-    "category": "etf",
-    "publishedAt": "2026-05-15T00:37:29.743Z",
-    "updatedAt": "2026-05-15T00:37:29.744Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/stock/12048776",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12048776",
-    "titleFingerprint": "78763eb018a913970423af5b16db34c95ef7eead",
-    "dedupKeys": [
-      "786d7351f9fb10f69b5539bb4665fd5ab0fa7cf5",
-      "78763eb018a913970423af5b16db34c95ef7eead",
-      "08280196f7957e36bd2c3a336247306ab4599f23"
-    ],
-    "imageUrl": "/images/articles/786d7351f9fb.png",
-    "i18n": {
-      "ko": {
-        "title": "LG전자 52주 신고가 경신, 로봇 신사업 기대에 지주사도 상한가",
-        "excerpt": "LG전자가 15일 오전 로봇 신사업 기대에 투자심리가 강화되며 52주 신고가를 새로 썼고, 관련 지주사도 상한가를 기록했다.",
-        "body": "LG전자가 로봇 신사업 기대에 힘입어 52주 신고가를 경신했다. 15일 오전 9시 9분 현재 LG전자는 전일 대비 3만9000원, 17.97% 오른 25만6000원에 거래됐다. 원문에 따르면 로봇 신사업에 대한 투자심리가 강화되면서 주가가 급등했고, 지주사도 상한가를 기록했다. 시장에서는 로봇 분야가 LG전자의 새 성장동력으로 부각되는 흐름에 주목하고 있다. 다만 기사에 제시된 수치는 장중 기준으로, 이후 주가 흐름은 달라질 수 있다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "LG Electronics Hits 52-Week High on Robot Business Hopes; Holding Firm Limit-Up",
-        "excerpt": "LG Electronics set a fresh 52-week high on the morning of the 15th as investor sentiment strengthened over its robot business, while its holding company also hit the daily limit.",
-        "body": "LG Electronics renewed its 52-week high on expectations for its robot-related new business. As of 9:09 a.m. on the 15th, LG Electronics was trading at 256,000 won, up 39,000 won, or 17.97%, from the previous session. According to the original report, strengthened investor sentiment toward the robot business drove a sharp rise in the share price, and the holding company also reached the daily upper limit. The market is watching the robot segment emerge as a new growth driver for LG Electronics. The quoted figures are intraday data and may change later. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "LG電子が52週高値更新、ロボット新事業期待で持株会社もストップ高",
-        "excerpt": "LG電子は15日午前、ロボット新事業への期待で投資心理が強まり52週高値を更新し、関連持株会社もストップ高となった。",
-        "body": "LG電子がロボット新事業への期待を背景に52週高値を更新した。15日午前9時9分現在、LG電子は前日比3万9000ウォン、17.97%高の25万6000ウォンで取引された。原文によると、ロボット新事業に対する投資心理が強まったことで株価が急騰し、持株会社もストップ高を記録した。市場では、ロボット分野がLG電子の新たな成長動力として浮上する流れに注目が集まっている。ただし、記事に示された数値は取引時間中の基準であり、その後の株価は変動し得る。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "LG电子创52周新高，机器人新业务预期升温带动控股公司涨停",
-        "excerpt": "15日上午，LG电子因机器人新业务预期提振投资情绪而刷新52周高点，相关控股公司也触及涨停。",
-        "body": "LG电子在机器人新业务预期推动下刷新52周高点。15日上午9时9分，LG电子报256000韩元，较前一交易日上涨39000韩元，涨幅17.97%。原文称，围绕机器人新业务的投资情绪增强，推动股价快速上涨，控股公司也触及涨停。市场正关注机器人领域是否成为LG电子新的增长动力。不过，报道中的价格和涨幅为盘中数据，此后股价走势可能发生变化。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "LG Electronics marca máximo de 52 semanas por expectativas en robots; holding al límite",
-        "excerpt": "LG Electronics renovó el día 15 por la mañana su máximo de 52 semanas al mejorar el ánimo inversor por su nuevo negocio de robots; la holding también llegó al límite diario.",
-        "body": "LG Electronics renovó su máximo de 52 semanas impulsada por las expectativas sobre su nuevo negocio de robots. A las 9:09 de la mañana del día 15, la acción cotizaba a 256.000 wones, con un alza de 39.000 wones, o 17,97%, frente a la sesión anterior. Según el texto original, el fortalecimiento del ánimo inversor hacia el negocio robótico provocó una fuerte subida del precio, mientras que la sociedad holding también alcanzó el límite diario al alza. El mercado observa cómo el área de robots gana atención como posible motor de crecimiento de LG Electronics. Las cifras citadas son intradía. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "LG Electronics renova máxima de 52 semanas com aposta em robôs; holding sobe ao limite",
-        "excerpt": "A LG Electronics atingiu nova máxima de 52 semanas na manhã do dia 15, com melhora do sentimento por seu novo negócio de robôs; a holding também chegou ao limite diário.",
-        "body": "A LG Electronics renovou sua máxima de 52 semanas impulsionada pelas expectativas sobre seu novo negócio de robôs. Às 9h09 do dia 15, a ação era negociada a 256.000 won, alta de 39.000 won, ou 17,97%, frente ao pregão anterior. Segundo o texto original, o fortalecimento do sentimento dos investidores em relação ao negócio de robótica levou a uma forte valorização, enquanto a holding também atingiu o limite diário de alta. O mercado observa a robótica ganhar destaque como novo motor de crescimento da LG Electronics. Os números são intradiários. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "LG Electronics erreicht 52-Wochen-Hoch dank Roboterfantasie; Holding am Tageslimit",
-        "excerpt": "LG Electronics stieg am Morgen des 15. auf ein neues 52-Wochen-Hoch, da die Erwartungen an das Robotergeschäft die Anlegerstimmung stärkten; auch die Holding erreichte das Tageslimit.",
-        "body": "LG Electronics hat angesichts der Erwartungen an ein neues Robotergeschäft ein 52-Wochen-Hoch erreicht. Am 15. um 9:09 Uhr wurde die Aktie bei 256.000 Won gehandelt, 39.000 Won oder 17,97% höher als am Vortag. Laut Originalbericht trieb die stärkere Anlegerstimmung gegenüber dem Robotergeschäft den Kurs deutlich nach oben; auch die Holdinggesellschaft erreichte das tägliche obere Kurslimit. Der Markt beobachtet, wie der Robotikbereich als neuer Wachstumstreiber für LG Electronics in den Fokus rückt. Die genannten Zahlen beziehen sich auf den Handel während der Sitzung. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "LG Electronics au plus haut sur 52 semaines grâce aux robots; la holding au plafond",
-        "excerpt": "LG Electronics a inscrit le matin du 15 un nouveau plus haut sur 52 semaines, portée par l’intérêt pour son nouveau métier robotique; la holding a aussi atteint sa limite haute.",
-        "body": "LG Electronics a renouvelé son plus haut sur 52 semaines grâce aux attentes entourant son nouveau métier dans la robotique. À 9h09 le 15, l’action se négociait à 256.000 wons, en hausse de 39.000 wons, soit 17,97%, par rapport à la séance précédente. Selon le texte original, le renforcement du sentiment des investisseurs envers l’activité robotique a provoqué une forte hausse du cours, tandis que la société holding a également atteint sa limite quotidienne à la hausse. Le marché suit l’émergence de la robotique comme nouveau moteur de croissance de LG Electronics. Ces chiffres sont intrajournaliers. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "إل جي إلكترونيكس تسجل أعلى مستوى في 52 أسبوعا بدعم توقعات الروبوتات",
-        "excerpt": "سجلت إل جي إلكترونيكس صباح يوم 15 أعلى مستوى جديدا في 52 أسبوعا مع تحسن شهية المستثمرين تجاه أعمال الروبوتات الجديدة، كما بلغت الشركة القابضة الحد الأعلى اليومي.",
-        "body": "سجلت إل جي إلكترونيكس أعلى مستوى جديدا في 52 أسبوعا بدعم من التوقعات المرتبطة بأعمال الروبوتات الجديدة. وفي الساعة 9:09 صباحا يوم 15، جرى تداول السهم عند 256000 وون، مرتفعا 39000 وون أو 17.97% عن الجلسة السابقة. ووفق النص الأصلي، أدى تحسن معنويات الاستثمار تجاه أعمال الروبوتات إلى صعود حاد في السعر، كما وصلت الشركة القابضة إلى الحد الأعلى اليومي. ويراقب السوق بروز قطاع الروبوتات كمحرك نمو جديد لإل جي إلكترونيكس. الأرقام المذكورة لحظية أثناء التداول. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "रोबोट कारोबार की उम्मीदों से LG Electronics 52-सप्ताह के उच्च स्तर पर",
-        "excerpt": "15 तारीख की सुबह रोबोट से जुड़े नए कारोबार की उम्मीदों से निवेश धारणा मजबूत हुई और LG Electronics ने 52-सप्ताह का नया उच्च स्तर छुआ; होल्डिंग कंपनी भी ऊपरी सीमा पर पहुंची।",
-        "body": "LG Electronics ने रोबोट से जुड़े नए कारोबार की उम्मीदों के सहारे 52-सप्ताह का नया उच्च स्तर दर्ज किया। 15 तारीख को सुबह 9:09 बजे शेयर पिछले सत्र से 39,000 वॉन, यानी 17.97%, बढ़कर 256,000 वॉन पर कारोबार कर रहा था। मूल रिपोर्ट के अनुसार, रोबोट कारोबार को लेकर निवेशकों की धारणा मजबूत होने से शेयर में तेज तेजी आई और होल्डिंग कंपनी भी दैनिक ऊपरी सीमा तक पहुंच गई। बाजार LG Electronics के लिए रोबोट क्षेत्र को नए विकास इंजन के रूप में उभरते देख रहा है। दिए गए आंकड़े कारोबार के दौरान के हैं। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "LG Electronics Cetak Level Tertinggi 52 Pekan Berkat Harapan Bisnis Robot",
-        "excerpt": "LG Electronics pada pagi tanggal 15 mencetak level tertinggi baru 52 pekan karena sentimen investor menguat atas bisnis robot baru; perusahaan induk juga menyentuh batas atas harian.",
-        "body": "LG Electronics memperbarui level tertinggi 52 pekan didorong harapan terhadap bisnis robot barunya. Pada pukul 9.09 pagi tanggal 15, saham LG Electronics diperdagangkan di 256.000 won, naik 39.000 won atau 17,97% dari sesi sebelumnya. Menurut laporan asli, penguatan sentimen investasi terhadap bisnis robot memicu lonjakan harga saham, sementara perusahaan induk juga mencapai batas atas harian. Pasar mencermati sektor robot sebagai calon motor pertumbuhan baru bagi LG Electronics. Angka yang disebutkan merupakan data intraday dan dapat berubah. Sumber: mk.co.kr"
       }
     }
   }
