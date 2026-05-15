@@ -1,5 +1,230 @@
 [
   {
+    "id": "c60ba4291cb4",
+    "slug": "아내가-46년-만에-주식계좌를-텄네요외국인-물량-다-받아내는-개미-412340",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-05-15T01:24:37.480Z",
+    "updatedAt": "2026-05-15T01:24:37.480Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/economy/12048872",
+    "canonicalUrl": "https://www.mk.co.kr/news/economy/12048872",
+    "titleFingerprint": "1cf210cf33bdeb3833e29914c954959a27b31e39",
+    "dedupKeys": [
+      "c60ba4291cb455d2b5d2188e471066ad6094832c",
+      "1cf210cf33bdeb3833e29914c954959a27b31e39",
+      "fa7f2fce6ae8255be059b176bf25a9f15538ef07"
+    ],
+    "imageUrl": "/images/articles/c60ba4291cb4.png",
+    "i18n": {
+      "ko": {
+        "title": "코스피8000 랠리에 개인 주식계좌 급증, 외국인 매도 물량 받아내는 개미",
+        "excerpt": "코스피8000 국면에서 삼성전자·SK하이닉스 주도 장세가 이어지자 예·적금을 깨고 주식투자에 나선 개인들이 외국인 매도 물량을 받아내고 있다.",
+        "body": "코스피가 8000선을 향한 강세 흐름을 보이는 가운데 삼성전자와 SK하이닉스가 장세를 이끌며 개인 투자자들의 주식시장 유입이 늘고 있다. 원문에 따르면 46년 만에 처음 주식계좌를 만든 사례처럼 예·적금을 깨고 투자에 나서는 개인이 속출하고 있다. 동시에 개인 투자자 사이에서는 과열 여부와 탈출 시점을 둘러싼 논쟁도 커졌다. 외국인은 최근 6거래일간 26조원 규모를 순매도한 것으로 전해졌고, 이 물량을 개인이 받아내는 구도가 부각됐다. 시장의 추가 상승 기대와 과열 경계가 맞물리며 수급 부담은 계속 주목될 전망이다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "KOSPI 8000 Rally Draws Retail Investors as Individuals Absorb Foreign Selling",
+        "excerpt": "As Samsung Electronics and SK Hynix lead the KOSPI 8000 rally, retail investors are breaking deposits to buy stocks and absorb heavy foreign selling.",
+        "body": "As the KOSPI advances in a rally framed around the 8000 level, Samsung Electronics and SK Hynix are leading the market and drawing more individual investors into stocks. According to the original report, cases such as a spouse opening a stock account for the first time in 46 years show that some individuals are breaking savings and installment deposits to invest. At the same time, debate among retail investors over overheating and when to exit is intensifying. Foreign investors reportedly net sold about 26 trillion won over six trading sessions, with individuals emerging as the buyers absorbing that supply. Expectations for further gains and caution over overheating are likely to keep fund flows in focus. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "KOSPI8000相場で個人投資家が急増、外国人売りを受け止める構図",
+        "excerpt": "サムスン電子とSKハイニックスが主導するKOSPI8000局面で、預貯金を崩して株式投資に向かう個人が外国人売りを吸収している。",
+        "body": "KOSPIが8000を意識する強い流れを見せる中、サムスン電子とSKハイニックスが相場をけん引し、個人投資家の株式市場への流入が増えている。原文によると、46年の人生で初めて株式口座を開設した配偶者の例のように、預金や積立を解約して投資に乗り出す個人が相次いでいる。同時に、個人投資家の間では過熱感や退出のタイミングをめぐる議論も強まった。外国人は直近6営業日で26兆ウォン規模を売り越したとされ、その売りを個人が受け止める構図が目立った。追加上昇への期待と過熱警戒が交錯し、需給動向への注目は続きそうだ。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "KOSPI8000行情吸引散户入场，个人投资者承接外资卖盘",
+        "excerpt": "在三星电子和SK海力士带动KOSPI8000行情之际，越来越多个人投资者取出存款买股，并承接外资卖出筹码。",
+        "body": "在KOSPI围绕8000点展开强势行情的背景下，三星电子和SK海力士引领市场，个人投资者加速流入股市。原文称，类似“妻子46年来第一次开设股票账户”的案例显示，不少个人正在取出定期存款和储蓄资金转向股票投资。与此同时，散户之间围绕市场是否过热以及何时退出的讨论也在升温。据报道，外资最近6个交易日净卖出约26万亿韩元，而这些卖盘主要由个人投资者承接。随着进一步上涨预期与过热警惕并存，市场资金供需仍将受到关注。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Rally del KOSPI 8000 atrae a minoristas que absorben ventas extranjeras",
+        "excerpt": "Con Samsung Electronics y SK Hynix liderando el KOSPI 8000, inversores minoristas rompen depósitos para comprar acciones y absorber ventas extranjeras.",
+        "body": "Mientras el KOSPI muestra una fuerte tendencia asociada al nivel de 8000, Samsung Electronics y SK Hynix lideran el mercado y aumenta la entrada de inversores individuales en acciones. Según el texto original, casos como el de una esposa que abrió una cuenta bursátil por primera vez en 46 años reflejan que algunos particulares están retirando ahorros y depósitos a plazo para invertir. Al mismo tiempo, crece entre los minoristas el debate sobre el sobrecalentamiento y el momento de salida. Los extranjeros habrían vendido en neto unos 26 billones de wones en seis sesiones, y los particulares aparecen como quienes absorben esa oferta. Las expectativas de nuevas subidas y la cautela por exceso de entusiasmo mantendrán el foco en los flujos. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Rali do KOSPI 8000 leva varejo a absorver vendas de estrangeiros",
+        "excerpt": "Com Samsung Electronics e SK Hynix liderando o KOSPI 8000, investidores pessoas físicas resgatam depósitos para comprar ações e absorver vendas externas.",
+        "body": "Enquanto o KOSPI avança em uma tendência forte ligada ao nível de 8000, Samsung Electronics e SK Hynix lideram o mercado e aumenta a entrada de investidores individuais em ações. Segundo o texto original, casos como o de uma esposa que abriu uma conta de ações pela primeira vez em 46 anos mostram pessoas físicas rompendo poupanças e depósitos a prazo para investir. Ao mesmo tempo, cresce entre os investidores de varejo o debate sobre superaquecimento e o momento de saída. Estrangeiros teriam vendido liquidamente cerca de 26 trilhões de wones em seis pregões, com indivíduos absorvendo essa oferta. Expectativas de novas altas e cautela com excesso de euforia devem manter os fluxos no centro das atenções. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "KOSPI-8000-Rally lockt Privatanleger an, die Auslandsverkäufe aufnehmen",
+        "excerpt": "Während Samsung Electronics und SK Hynix die KOSPI-8000-Rally treiben, lösen Privatanleger Einlagen auf und nehmen ausländische Verkaufsvolumen auf.",
+        "body": "Während der KOSPI in einer starken Bewegung rund um die Marke von 8000 steht, führen Samsung Electronics und SK Hynix den Markt an und mehr Privatanleger strömen in Aktien. Laut Originalbericht zeigen Beispiele wie eine Ehefrau, die erstmals nach 46 Jahren ein Aktienkonto eröffnete, dass Einzelpersonen Spar- und Termineinlagen auflösen, um zu investieren. Zugleich verschärft sich unter Privatanlegern die Debatte über Überhitzung und den richtigen Ausstiegszeitpunkt. Ausländische Investoren sollen in sechs Handelstagen netto rund 26 Billionen Won verkauft haben, wobei Privatanleger diese Stücke aufnahmen. Weitere Kursfantasie und Vorsicht vor Überhitzung dürften die Mittelströme im Blick halten. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Le rallye KOSPI 8000 attire les particuliers, qui absorbent les ventes étrangères",
+        "excerpt": "Alors que Samsung Electronics et SK Hynix tirent le KOSPI 8000, des particuliers cassent leurs dépôts pour acheter des actions et absorber les ventes étrangères.",
+        "body": "Alors que le KOSPI évolue dans une forte dynamique autour du seuil de 8000, Samsung Electronics et SK Hynix mènent le marché et attirent davantage d’investisseurs individuels vers les actions. Selon le texte original, des cas comme celui d’une épouse ouvrant un compte-titres pour la première fois en 46 ans illustrent des particuliers qui puisent dans leurs dépôts et produits d’épargne pour investir. En parallèle, le débat s’intensifie chez les particuliers sur la surchauffe et le moment de sortir. Les investisseurs étrangers auraient vendu net environ 26 billions de wons en six séances, ces volumes étant absorbés par les particuliers. Les attentes de hausse et la prudence face à la surchauffe devraient maintenir les flux sous surveillance. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "صعود كوسبي 8000 يجذب الأفراد مع امتصاصهم مبيعات المستثمرين الأجانب",
+        "excerpt": "مع قيادة سامسونغ إلكترونيكس وSK هاينكس لموجة كوسبي 8000، يتجه أفراد إلى كسر الودائع لشراء الأسهم وامتصاص مبيعات الأجانب.",
+        "body": "مع تحرك مؤشر كوسبي في مسار قوي مرتبط بمستوى 8000، تقود سامسونغ إلكترونيكس وSK هاينكس السوق، ويتزايد دخول المستثمرين الأفراد إلى الأسهم. وبحسب النص الأصلي، فإن حالات مثل فتح زوجة حساب أسهم للمرة الأولى بعد 46 عاما تعكس إقدام بعض الأفراد على كسر الودائع والمدخرات للاستثمار. وفي الوقت نفسه، يحتدم النقاش بين المستثمرين الأفراد حول ما إذا كانت السوق محمومة ومتى يكون الخروج مناسبا. وورد أن المستثمرين الأجانب باعوا صافيا بنحو 26 تريليون وون خلال ست جلسات تداول، بينما برز الأفراد كجهة تمتص تلك الكميات. ومن المتوقع أن تبقى التدفقات محل متابعة مع تداخل توقعات الصعود والحذر من السخونة. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "KOSPI 8000 रैली में खुदरा निवेशकों की भीड़, विदेशी बिकवाली को संभालते व्यक्ति",
+        "excerpt": "Samsung Electronics और SK Hynix की अगुवाई वाली KOSPI 8000 रैली में व्यक्तिगत निवेशक जमा तोड़कर शेयर खरीद रहे हैं और विदेशी बिकवाली सोख रहे हैं।",
+        "body": "KOSPI के 8000 स्तर से जुड़ी मजबूत चाल के बीच Samsung Electronics और SK Hynix बाजार की अगुवाई कर रहे हैं, जिससे व्यक्तिगत निवेशकों की शेयर बाजार में भागीदारी बढ़ रही है। मूल रिपोर्ट के अनुसार, 46 वर्षों में पहली बार पत्नी द्वारा शेयर खाता खोलने जैसे उदाहरण बताते हैं कि कई लोग सावधि जमा और बचत तोड़कर निवेश में उतर रहे हैं। इसी के साथ खुदरा निवेशकों के बीच बाजार के अधिक गर्म होने और बाहर निकलने के समय पर बहस तेज हो गई है। विदेशी निवेशकों ने छह कारोबारी सत्रों में कथित तौर पर लगभग 26 ट्रिलियन वॉन की शुद्ध बिकवाली की, जिसे व्यक्तिगत निवेशकों ने खरीदा। आगे की तेजी की उम्मीद और अधिक गर्मी की सावधानी, दोनों के कारण धन प्रवाह पर नजर बनी रहेगी। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Reli KOSPI 8000 Tarik Investor Ritel, Individu Serap Aksi Jual Asing",
+        "excerpt": "Saat Samsung Electronics dan SK Hynix memimpin reli KOSPI 8000, investor individu mencairkan deposito untuk membeli saham dan menyerap jual asing.",
+        "body": "Saat KOSPI bergerak kuat dalam fase yang dikaitkan dengan level 8000, Samsung Electronics dan SK Hynix memimpin pasar dan menarik lebih banyak investor individu ke saham. Menurut teks asli, contoh seperti seorang istri yang membuka rekening saham untuk pertama kalinya dalam 46 tahun menunjukkan sebagian orang mencairkan tabungan dan deposito berjangka untuk berinvestasi. Pada saat yang sama, perdebatan di kalangan investor ritel tentang pasar yang terlalu panas dan waktu keluar makin menguat. Investor asing dilaporkan mencatat jual bersih sekitar 26 triliun won selama enam sesi perdagangan, sementara individu menjadi pihak yang menyerap pasokan itu. Harapan kenaikan lanjutan dan kewaspadaan terhadap overheating akan membuat arus dana tetap menjadi perhatian. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "4b4b28cb6f9f",
+    "slug": "뉴온-시서스추출물-glp-1-증가-효과-국제학술지-게재-827997",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-05-15T01:23:38.823Z",
+    "updatedAt": "2026-05-15T01:23:38.823Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/stock/12048897",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12048897",
+    "titleFingerprint": "196b715cea297c7fad06f68f217bacdcedfa584b",
+    "dedupKeys": [
+      "4b4b28cb6f9feda1680cf1ca4f10fa4d53089877",
+      "196b715cea297c7fad06f68f217bacdcedfa584b",
+      "3c695e73ef4fec35d3cd8cd156acdfc53faaa9b5"
+    ],
+    "imageUrl": "/images/articles/4b4b28cb6f9f.jpg",
+    "i18n": {
+      "ko": {
+        "title": "뉴온 시서스추출물, GLP-1 분비 증가 효과 인체시험 확인",
+        "excerpt": "뉴온은 15일 개별인정형 원료 시서스추출물이 식욕 조절 호르몬 GLP-1 분비를 늘리는 효과를 인체적용시험에서 확인했다고 밝혔다.",
+        "body": "글로벌 라이프케어 전문기업 뉴온은 15일 개별인정형 원료인 시서스추출물이 식욕 조절 호르몬 글루카곤 유사 펩타이드(GLP-1) 분비를 증가시키는 효과를 인체적용시험을 통해 확인했다고 밝혔다. 이번 내용은 국제학술지에 게재됐다고 회사 측은 설명했다. GLP-1은 식욕 조절과 관련된 호르몬으로 알려져 있으며, 뉴온은 시서스추출물의 관련 효과를 인체 대상 시험에서 확인했다는 점을 강조했다. 이번 게재는 해당 원료의 기능성 연구 결과를 대외적으로 알리는 계기가 될 전망이다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Newon Cissus Extract Shown to Increase GLP-1 Secretion in Human Trial",
+        "excerpt": "Newon said on the 15th that its individually recognized Cissus extract increased secretion of GLP-1, an appetite-regulating hormone, in a human application trial.",
+        "body": "Global lifecare company Newon said on the 15th that its individually recognized ingredient, Cissus extract, was confirmed through a human application trial to increase secretion of glucagon-like peptide-1 (GLP-1), an appetite-regulating hormone. The company said the findings were published in an international academic journal. GLP-1 is known as a hormone related to appetite regulation, and Newon emphasized that the effect of Cissus extract was confirmed in a human trial. The publication is expected to help share the ingredient’s functional research results externally. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "ニューオンのシッサス抽出物、GLP-1分泌増加効果を人体試験で確認",
+        "excerpt": "ニューオンは15日、個別認定型原料のシッサス抽出物が食欲調節ホルモンGLP-1の分泌を増やす効果を人体適用試験で確認したと発表した。",
+        "body": "グローバルライフケア専門企業のニューオンは15日、個別認定型原料であるシッサス抽出物について、食欲調節ホルモンのグルカゴン様ペプチド（GLP-1）の分泌を増加させる効果を人体適用試験で確認したと明らかにした。同社によると、この内容は国際学術誌に掲載された。GLP-1は食欲調節に関連するホルモンとして知られており、ニューオンはシッサス抽出物の関連効果を人体対象試験で確認した点を強調した。今回の掲載は、同原料の機能性研究結果を対外的に知らせる契機になる見通しだ。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "Newon西塞斯提取物人体试验证实可增加GLP-1分泌",
+        "excerpt": "Newon于15日表示，个别认定型原料西塞斯提取物在人体应用试验中被确认可增加食欲调节激素GLP-1的分泌。",
+        "body": "全球生命护理专业企业Newon于15日表示，其个别认定型原料西塞斯提取物通过人体应用试验，被确认具有增加食欲调节激素胰高血糖素样肽-1（GLP-1）分泌的效果。公司方面说明，该内容已刊登于国际学术期刊。GLP-1被认为是与食欲调节相关的激素，Newon强调，西塞斯提取物的相关效果已在人体对象试验中得到确认。此次刊登预计将成为对外介绍该原料功能性研究结果的契机。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Extracto de Cissus de Newon confirma aumento de GLP-1 en ensayo humano",
+        "excerpt": "Newon informó el día 15 que su ingrediente reconocido individualmente, extracto de Cissus, aumentó la secreción de GLP-1, hormona que regula el apetito, en un ensayo humano.",
+        "body": "La empresa global de lifecare Newon informó el día 15 que su ingrediente reconocido individualmente, el extracto de Cissus, mostró en un ensayo de aplicación humana un efecto de aumento en la secreción del péptido similar al glucagón-1 (GLP-1), una hormona vinculada con la regulación del apetito. La compañía explicó que estos resultados fueron publicados en una revista académica internacional. El GLP-1 es conocido como una hormona relacionada con el control del apetito, y Newon destacó que el efecto del extracto de Cissus fue confirmado en un ensayo con personas. La publicación servirá para dar a conocer externamente los resultados de investigación funcional del ingrediente. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Extrato de Cissus da Newon confirma aumento de GLP-1 em teste humano",
+        "excerpt": "A Newon afirmou no dia 15 que seu ingrediente reconhecido individualmente, extrato de Cissus, aumentou a secreção de GLP-1, hormônio de controle do apetite, em teste humano.",
+        "body": "A empresa global de lifecare Newon afirmou no dia 15 que seu ingrediente reconhecido individualmente, o extrato de Cissus, teve confirmado em teste de aplicação humana o efeito de aumentar a secreção do peptídeo semelhante ao glucagon-1 (GLP-1), hormônio relacionado à regulação do apetite. Segundo a companhia, o conteúdo foi publicado em uma revista acadêmica internacional. O GLP-1 é conhecido como hormônio ligado ao controle do apetite, e a Newon destacou que o efeito relacionado ao extrato de Cissus foi confirmado em estudo com humanos. A publicação deve ajudar a divulgar externamente os resultados de pesquisa funcional do ingrediente. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Newon-Cissus-Extrakt zeigt GLP-1-Anstieg in Humananwendungsstudie",
+        "excerpt": "Newon teilte am 15. mit, dass sein individuell anerkannter Cissus-Extrakt in einer Humananwendungsstudie die Ausschüttung des appetitregulierenden Hormons GLP-1 erhöhte.",
+        "body": "Das globale Lifecare-Unternehmen Newon teilte am 15. mit, dass sein individuell anerkannter Inhaltsstoff Cissus-Extrakt in einer Humananwendungsstudie eine erhöhte Ausschüttung von glucagonähnlichem Peptid-1 (GLP-1), einem Hormon zur Appetitregulierung, gezeigt habe. Nach Angaben des Unternehmens wurden die Ergebnisse in einer internationalen Fachzeitschrift veröffentlicht. GLP-1 ist als Hormon bekannt, das mit der Regulierung des Appetits verbunden ist. Newon betonte, dass die entsprechende Wirkung des Cissus-Extrakts in einer Studie am Menschen bestätigt wurde. Die Veröffentlichung dürfte dazu beitragen, die funktionellen Forschungsergebnisse zu diesem Inhaltsstoff extern bekannt zu machen. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "L’extrait de Cissus de Newon confirme une hausse du GLP-1 chez l’humain",
+        "excerpt": "Newon a annoncé le 15 que son ingrédient reconnu individuellement, l’extrait de Cissus, avait augmenté la sécrétion de GLP-1, hormone de régulation de l’appétit, lors d’un essai humain.",
+        "body": "L’entreprise mondiale de lifecare Newon a annoncé le 15 que son ingrédient reconnu individuellement, l’extrait de Cissus, avait confirmé lors d’un essai d’application humaine un effet d’augmentation de la sécrétion du peptide de type glucagon-1 (GLP-1), une hormone liée à la régulation de l’appétit. Selon la société, ces résultats ont été publiés dans une revue académique internationale. Le GLP-1 est connu comme une hormone associée au contrôle de l’appétit, et Newon a souligné que l’effet lié à l’extrait de Cissus avait été confirmé dans un essai mené sur des humains. Cette publication devrait contribuer à faire connaître les résultats de recherche fonctionnelle de cet ingrédient. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "مستخلص السيسوس من نيوون يؤكد زيادة إفراز GLP-1 في تجربة بشرية",
+        "excerpt": "أعلنت نيوون في 15 من الشهر أن مكونها المعترف به فرديا، مستخلص السيسوس، أظهر في تجربة تطبيق بشرية زيادة في إفراز هرمون GLP-1 المنظم للشهية.",
+        "body": "أعلنت شركة نيوون العالمية المتخصصة في الرعاية الحياتية في 15 من الشهر أن مكونها المعترف به فرديا، وهو مستخلص السيسوس، ثبت من خلال تجربة تطبيق بشرية أنه يزيد إفراز الببتيد الشبيه بالغلوكاغون-1 (GLP-1)، وهو هرمون مرتبط بتنظيم الشهية. وأوضحت الشركة أن هذه النتائج نُشرت في مجلة أكاديمية دولية. ويُعرف GLP-1 بأنه هرمون له صلة بتنظيم الشهية، وشددت نيوون على أن التأثير المرتبط بمستخلص السيسوس تأكد في تجربة شملت البشر. ومن المتوقع أن تسهم هذه النشرة في التعريف خارجيا بنتائج الأبحاث الوظيفية الخاصة بهذا المكون. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "Newon सिसस एक्सट्रैक्ट से GLP-1 स्राव बढ़ने की पुष्टि मानव परीक्षण में",
+        "excerpt": "Newon ने 15 तारीख को बताया कि उसके व्यक्तिगत मान्यता प्राप्त सिसस एक्सट्रैक्ट ने मानव अनुप्रयोग परीक्षण में भूख नियंत्रित करने वाले हार्मोन GLP-1 का स्राव बढ़ाया।",
+        "body": "वैश्विक लाइफकेयर विशेषज्ञ कंपनी Newon ने 15 तारीख को कहा कि उसके व्यक्तिगत मान्यता प्राप्त कच्चे माल सिसस एक्सट्रैक्ट ने मानव अनुप्रयोग परीक्षण के माध्यम से ग्लूकागन-लाइक पेप्टाइड-1 (GLP-1) के स्राव को बढ़ाने का प्रभाव दिखाया, जो भूख नियंत्रण से जुड़ा हार्मोन है। कंपनी के अनुसार यह सामग्री एक अंतरराष्ट्रीय अकादमिक जर्नल में प्रकाशित हुई है। GLP-1 को भूख नियंत्रण से संबंधित हार्मोन के रूप में जाना जाता है, और Newon ने जोर दिया कि सिसस एक्सट्रैक्ट का संबंधित प्रभाव मानव विषयों पर किए गए परीक्षण में पुष्टि किया गया। यह प्रकाशन इस कच्चे माल के कार्यात्मक शोध परिणामों को बाहरी रूप से बताने का अवसर बनेगा। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Ekstrak Cissus Newon Terbukti Tingkatkan GLP-1 dalam Uji Manusia",
+        "excerpt": "Newon pada tanggal 15 menyatakan bahwa bahan berstatus pengakuan individual, ekstrak Cissus, terbukti meningkatkan sekresi hormon pengatur nafsu makan GLP-1 dalam uji aplikasi manusia.",
+        "body": "Perusahaan lifecare global Newon pada tanggal 15 menyatakan bahwa bahan berstatus pengakuan individual, yaitu ekstrak Cissus, telah dikonfirmasi melalui uji aplikasi manusia memiliki efek meningkatkan sekresi glucagon-like peptide-1 (GLP-1), hormon yang mengatur nafsu makan. Perusahaan menjelaskan bahwa temuan ini telah dimuat di jurnal akademik internasional. GLP-1 dikenal sebagai hormon yang berkaitan dengan pengaturan nafsu makan, dan Newon menekankan bahwa efek terkait ekstrak Cissus dikonfirmasi dalam uji pada manusia. Publikasi ini diperkirakan menjadi momentum untuk memperkenalkan hasil riset fungsional bahan tersebut kepada pihak luar. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "03170674e131",
+    "slug": "mk시그널-차트-인더스트리즈-매도신호-포착-수익률-274-달성-292341",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-05-15T01:22:45.450Z",
+    "updatedAt": "2026-05-15T01:22:45.450Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/stock/12048905",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12048905",
+    "titleFingerprint": "49360907145244790fb855ace5f1e8c8b8953cc5",
+    "dedupKeys": [
+      "03170674e131acd77c2d1d3f557902e94e2d69e6",
+      "49360907145244790fb855ace5f1e8c8b8953cc5",
+      "e971a741ecfbd729b854cac982da705709a1f8c1"
+    ],
+    "imageUrl": "/images/articles/03170674e131.png",
+    "i18n": {
+      "ko": {
+        "title": "차트 인더스트리즈 매도신호 포착, MK시그널 수익률 27.42% 기록",
+        "excerpt": "MK시그널은 14일 미국 주식 핫 이슈 종목 차트 인더스트리즈(GTLS)에서 매도 신호가 포착됐고 수익률 27.42%를 달성했다고 전했다.",
+        "body": "AI 기자 ‘MK시그널’은 14일 미국 주식 핫 이슈 종목으로 분석한 차트 인더스트리즈(GTLS)에서 매도 신호가 포착됐다고 밝혔다. 이번 신호에 따르면 해당 종목은 MK시그널 기준 수익률 27.42%를 달성했다. MK시그널은 미국 주식 시장에서 관심이 높은 종목을 분석해 매매 신호와 관련 성과를 전달하는 방식으로 해당 소식을 전했다. 이번 내용은 차트 인더스트리즈에 대한 기존 분석 결과에서 매도 시점이 확인됐다는 점과 수익률 수치가 함께 제시됐다는 점이 핵심이다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Chart Industries Sell Signal Detected as MK Signal Reports 27.42% Return",
+        "excerpt": "MK Signal said on the 14th that a sell signal was detected for U.S. hot-issue stock Chart Industries (GTLS), with the strategy recording a 27.42% return.",
+        "body": "AI reporter “MK Signal” said on the 14th that a sell signal was detected for Chart Industries (GTLS), a U.S. stock it had analyzed as a hot-issue name. According to the signal, the position achieved a 27.42% return under MK Signal’s criteria. MK Signal presents analysis of high-interest U.S. stocks along with trading signals and related performance figures. The key points in this report are that a sell point was identified for Chart Industries and that the return figure was reported together with the signal. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "チャート・インダストリーズに売りシグナル、MKシグナルが27.42%収益率",
+        "excerpt": "MKシグナルは14日、米国株の注目銘柄チャート・インダストリーズ（GTLS）で売りシグナルを確認し、収益率27.42%を達成したと伝えた。",
+        "body": "AI記者「MKシグナル」は14日、米国株の注目銘柄として分析していたチャート・インダストリーズ（GTLS）で売りシグナルが確認されたと明らかにした。今回のシグナルによると、同銘柄はMKシグナル基準で収益率27.42%を達成した。MKシグナルは米国株市場で関心の高い銘柄を分析し、売買シグナルと関連する成果を伝える形で今回の情報を報じた。今回の内容は、チャート・インダストリーズについて売却時点が確認され、収益率の数値もあわせて示された点が中心だ。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "Chart Industries出现卖出信号，MK Signal收益率达27.42%",
+        "excerpt": "MK Signal称，14日其在美国热门股票Chart Industries（GTLS）中捕捉到卖出信号，并实现了27.42%的收益率。",
+        "body": "AI记者“MK Signal”表示，14日其在此前分析的美国热门股票Chart Industries（GTLS）中捕捉到卖出信号。根据该信号，该股票按MK Signal 기준取得了27.42%的收益率。MK Signal以分析美国股市中关注度较高的个股，并提供买卖信号及相关成果的方式发布了这一消息。本次内容的核心在于，Chart Industries的卖出时点已被确认，同时公布了27.42%的收益率数据。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Chart Industries activa señal de venta y MK Signal reporta retorno del 27,42%",
+        "excerpt": "MK Signal informó que el día 14 detectó una señal de venta en Chart Industries (GTLS), acción destacada de EE. UU., con un rendimiento del 27,42%.",
+        "body": "El reportero de IA “MK Signal” informó el día 14 que detectó una señal de venta en Chart Industries (GTLS), una acción estadounidense que había analizado como valor de alto interés. Según la señal, el título alcanzó un rendimiento del 27,42% bajo los criterios de MK Signal. MK Signal comunica análisis de acciones estadounidenses con alta atención del mercado, junto con señales de compraventa y cifras de desempeño relacionadas. El punto central del reporte es que se identificó un momento de venta para Chart Industries y que se presentó junto con el dato de rendimiento. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Chart Industries tem sinal de venda e MK Signal registra retorno de 27,42%",
+        "excerpt": "A MK Signal informou que, no dia 14, detectou um sinal de venda em Chart Industries (GTLS), ação em destaque nos EUA, com retorno de 27,42%.",
+        "body": "O repórter de IA “MK Signal” informou no dia 14 que detectou um sinal de venda em Chart Industries (GTLS), ação dos EUA analisada como um nome de grande interesse. Segundo o sinal, o papel alcançou retorno de 27,42% pelos critérios da MK Signal. A MK Signal divulga análises de ações norte-americanas com alta atenção do mercado, acompanhadas de sinais de compra e venda e números de desempenho relacionados. O ponto principal da notícia é que um momento de venda foi identificado para Chart Industries e que o percentual de retorno foi apresentado junto ao sinal. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Chart Industries mit Verkaufssignal, MK Signal meldet 27,42% Rendite",
+        "excerpt": "MK Signal teilte mit, dass am 14. bei der US-Aktie Chart Industries (GTLS) ein Verkaufssignal erkannt wurde und eine Rendite von 27,42% erzielt wurde.",
+        "body": "Der KI-Reporter „MK Signal“ teilte am 14. mit, dass bei Chart Industries (GTLS), einer als Hot-Issue-Wert analysierten US-Aktie, ein Verkaufssignal erkannt wurde. Nach den Angaben des Signals erzielte der Titel nach MK-Signal-Kriterien eine Rendite von 27,42%. MK Signal berichtet über stark beachtete Aktien am US-Markt und verbindet die Analyse mit Handelssignalen sowie zugehörigen Leistungsdaten. Im Mittelpunkt dieser Meldung stehen der bestätigte Verkaufszeitpunkt bei Chart Industries und die zugleich genannte Renditekennzahl. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Chart Industries déclenche un signal de vente, rendement MK Signal de 27,42%",
+        "excerpt": "MK Signal a indiqué que le 14, un signal de vente avait été détecté sur Chart Industries (GTLS), action américaine suivie, avec un rendement de 27,42%.",
+        "body": "Le reporter IA « MK Signal » a indiqué le 14 qu’un signal de vente avait été détecté sur Chart Industries (GTLS), une action américaine analysée comme valeur très suivie. Selon ce signal, le titre a atteint un rendement de 27,42% selon les critères de MK Signal. MK Signal diffuse des analyses d’actions américaines attirant l’attention du marché, avec des signaux d’achat ou de vente et les chiffres de performance associés. L’élément central de cette information est l’identification d’un point de vente sur Chart Industries, accompagnée du rendement communiqué. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "إشارة بيع على Chart Industries وMK Signal تسجل عائدا 27.42%",
+        "excerpt": "قالت MK Signal في 14 إن إشارة بيع ظهرت على سهم Chart Industries (GTLS)، أحد الأسهم الأميركية محل الاهتمام، مع تحقيق عائد قدره 27.42%.",
+        "body": "قال المراسل المعتمد على الذكاء الاصطناعي “MK Signal” في 14 إن إشارة بيع رُصدت على سهم Chart Industries (GTLS)، الذي جرى تحليله ضمن الأسهم الأميركية ذات الاهتمام المرتفع. ووفقا لهذه الإشارة، حقق السهم عائدا قدره 27.42% وفق معايير MK Signal. وتعرض MK Signal تحليلات لأسهم أميركية تحظى بمتابعة السوق، إلى جانب إشارات التداول وأرقام الأداء المرتبطة بها. وتتمثل النقطة الأساسية في هذا الخبر في تأكيد توقيت البيع على Chart Industries مع عرض نسبة العائد المسجلة. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "Chart Industries में बिक्री संकेत, MK Signal ने 27.42% रिटर्न बताया",
+        "excerpt": "MK Signal ने कहा कि 14 तारीख को अमेरिकी हॉट इश्यू स्टॉक Chart Industries (GTLS) में बिक्री संकेत मिला और 27.42% रिटर्न दर्ज किया गया।",
+        "body": "एआई रिपोर्टर “MK Signal” ने 14 तारीख को बताया कि अमेरिकी शेयरों के हॉट इश्यू नाम के रूप में विश्लेषित Chart Industries (GTLS) में बिक्री संकेत पकड़ा गया। इस संकेत के अनुसार, शेयर ने MK Signal के मानदंडों पर 27.42% रिटर्न हासिल किया। MK Signal अमेरिकी शेयर बाजार में अधिक रुचि पाने वाले शेयरों का विश्लेषण कर खरीद-बिक्री संकेत और उनसे जुड़े प्रदर्शन आंकड़े प्रस्तुत करता है। इस खबर का मुख्य बिंदु यह है कि Chart Industries के लिए बिक्री का समय पहचाना गया और उसके साथ रिटर्न का आंकड़ा भी बताया गया। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Chart Industries Terkena Sinyal Jual, MK Signal Catat Imbal Hasil 27,42%",
+        "excerpt": "MK Signal menyatakan pada tanggal 14 bahwa sinyal jual terdeteksi pada saham AS Chart Industries (GTLS), dengan imbal hasil mencapai 27,42%.",
+        "body": "Reporter AI “MK Signal” menyatakan pada tanggal 14 bahwa sinyal jual terdeteksi pada Chart Industries (GTLS), saham AS yang dianalisis sebagai salah satu nama dengan isu panas. Berdasarkan sinyal tersebut, saham ini mencatat imbal hasil 27,42% menurut kriteria MK Signal. MK Signal menyampaikan analisis atas saham-saham AS yang menarik perhatian pasar, disertai sinyal perdagangan dan angka kinerja terkait. Inti laporan ini adalah teridentifikasinya titik jual pada Chart Industries serta penyajian angka imbal hasil bersama sinyal tersebut. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
     "id": "647d7f296295",
     "slug": "코스피-8000시대etf투자-3대-키워드는-945035",
     "channelId": "ETF",
@@ -4271,231 +4496,6 @@
         "title": "Bitplanet Terbitkan Obligasi Konversi 7 Miliar Won untuk Danai Penambangan Bitcoin",
         "excerpt": "Bitplanet pada 14 hari ini menyatakan telah memutuskan menerbitkan obligasi konversi senilai total 7 miliar won untuk mendanai awal bisnis penambangan Bitcoin.",
         "body": "Bitplanet pada 14 hari ini menyatakan telah memutuskan menerbitkan obligasi konversi atau CB senilai total 7 miliar won. Perusahaan menjelaskan bahwa pendanaan tersebut bertujuan menyediakan dana untuk memulai bisnis penambangan Bitcoin. Obligasi konversi adalah surat utang yang dapat dikonversi menjadi saham dengan syarat tertentu dan kerap digunakan perusahaan untuk memperoleh modal bagi bisnis baru. Setelah langkah bisnis melalui pembelian Bitcoin, Bitplanet kini menyiapkan basis keuangan untuk mendorong bisnis penambangan. Dengan nilai dan tujuan penerbitan CB ini telah diumumkan, pasar diperkirakan akan mencermati perkembangan bisnis Bitplanet yang terkait Bitcoin. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "3d98b909abbb",
-    "slug": "한화솔루션-18조-유증-규모-고수금감원-제동에-충실히-작성-706666",
-    "channelId": "ETF",
-    "category": "etf",
-    "publishedAt": "2026-05-14T11:51:11.953Z",
-    "updatedAt": "2026-05-14T11:51:11.953Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/business/12048098",
-    "canonicalUrl": "https://www.mk.co.kr/news/business/12048098",
-    "titleFingerprint": "96ef8affd7cec794f9e33390e22988fbdfa3bc62",
-    "dedupKeys": [
-      "3d98b909abbb36dc823a0906d364233016be0058",
-      "96ef8affd7cec794f9e33390e22988fbdfa3bc62",
-      "872722a13758ebfedb236dca7021a5bfdf977b68"
-    ],
-    "imageUrl": "/images/articles/3d98b909abbb.jpg",
-    "i18n": {
-      "ko": {
-        "title": "한화솔루션 1.8조 유상증자 재추진, 금감원 제동에도 규모 유지",
-        "excerpt": "한화솔루션은 금융감독원의 두 차례 정정 요구로 잠정 연기됐던 1조8000억원대 유상증자를 다시 추진하며, 투자와 재무 목적을 반영해 규모를 유지하기로 했다.",
-        "body": "한화솔루션이 금융감독원의 두 차례 제동으로 잠정 연기됐던 1조8000억원대 유상증자를 다시 추진한다. 회사는 일각에서 제기된 유증 규모 축소 전망과 달리 기존 규모를 고수하기로 했다. 배경에는 미래 성장 기술 투자와 재무 관련 필요가 포함된 것으로 전해졌다. 금융감독원의 정정 요구 이후 한화솔루션은 관련 내용을 충실히 작성하겠다는 입장을 밝혔다. 이번 재추진은 대규모 자금 조달 계획의 지속 여부와 투자 재원 확보 방향을 확인하는 계기가 될 전망이다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Hanwha Solutions Revives KRW 1.8 Trillion Rights Issue, Keeping Scale",
-        "excerpt": "Hanwha Solutions is moving again with a KRW 1.8 trillion rights issue that had been temporarily delayed after two requests from Korea’s financial regulator.",
-        "body": "Hanwha Solutions is resuming its plan for a rights issue worth about KRW 1.8 trillion, which had been temporarily delayed after two interventions by the Financial Supervisory Service. Although some had expected the company to reduce the size of the offering, Hanwha Solutions is maintaining the original scale. The move is tied to investment in future growth technologies and financial needs. After the regulator’s requests for revisions, the company said it would prepare the filing faithfully. The renewed push is expected to clarify whether the large fundraising plan will continue and how the company intends to secure investment resources. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "ハンファソリューション、1.8兆ウォン増資を再推進し規模維持",
-        "excerpt": "ハンファソリューションは、金融監督院の二度の指摘で一時延期されていた1兆8000億ウォン規模の有償増資を再び進める。",
-        "body": "ハンファソリューションは、金融監督院の二度にわたる指摘で一時延期されていた1兆8000億ウォン規模の有償増資を再推進する。一部では増資規模を縮小するとの見方も出ていたが、同社は従来の規模を維持する方針だ。背景には、将来の成長技術への投資と財務面での必要性があるとされる。金融監督院の訂正要求を受け、ハンファソリューションは関連内容を忠実に作成するとの立場を示した。今回の再推進は、大規模な資金調達計画の継続と投資財源の確保方針を確認する材料となる見通しだ。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "韩华思路信重启1.8万亿韩元增发，监管要求后仍维持规模",
-        "excerpt": "韩华思路信在韩国金融监督院两次要求修正后，重新推进一度暂缓的1.8万亿韩元规模有偿增资计划。",
-        "body": "韩华思路信将重新推进规模约1.8万亿韩元的有偿增资计划。该计划此前因韩国金融监督院两次提出要求而被暂时推迟。尽管外界一度预计公司可能缩小增资规模，但韩华思路信决定维持原有规模。相关背景包括未来成长技术投资以及财务方面的需要。在金融监督院要求修正后，公司表示将忠实撰写相关内容。此次重启预计将成为观察其大规模融资计划能否延续，以及如何确保投资资金的重要节点。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Hanwha Solutions retoma ampliación de KRW 1,8 billones y mantiene monto",
-        "excerpt": "Hanwha Solutions volverá a impulsar una ampliación de capital de KRW 1,8 billones, aplazada tras dos observaciones del regulador financiero coreano.",
-        "body": "Hanwha Solutions retomará su plan de ampliación de capital por unos KRW 1,8 billones, que había sido aplazado temporalmente tras dos intervenciones del Servicio de Supervisión Financiera. Aunque algunos esperaban que la empresa redujera el tamaño de la operación, la compañía mantendrá el monto previsto. El contexto incluye inversión en tecnologías de crecimiento futuro y necesidades financieras. Tras las solicitudes de corrección del regulador, Hanwha Solutions afirmó que preparará la documentación de forma fiel y completa. La nueva presentación permitirá observar la continuidad del plan de financiación y la dirección para asegurar recursos de inversión. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Hanwha Solutions retoma aumento de KRW 1,8 tri e mantém tamanho",
-        "excerpt": "A Hanwha Solutions voltará a buscar um aumento de capital de KRW 1,8 trilhão, adiado após duas exigências do regulador financeiro sul-coreano.",
-        "body": "A Hanwha Solutions vai retomar seu plano de aumento de capital de cerca de KRW 1,8 trilhão, que havia sido temporariamente adiado após duas intervenções do Serviço de Supervisão Financeira. Embora parte do mercado esperasse uma redução no tamanho da emissão, a empresa manterá a escala original. O contexto envolve investimentos em tecnologias de crescimento futuro e necessidades financeiras. Depois das exigências de correção do regulador, a Hanwha Solutions afirmou que preparará os documentos de forma fiel. A retomada deve indicar a continuidade do grande plano de captação e a forma de garantir recursos para investimento. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Hanwha Solutions treibt Kapitalerhöhung über 1,8 Bio. Won erneut voran",
-        "excerpt": "Hanwha Solutions nimmt eine zuvor nach zwei Eingriffen der Finanzaufsicht verschobene Kapitalerhöhung über rund 1,8 Billionen Won wieder auf.",
-        "body": "Hanwha Solutions nimmt seinen Plan für eine Kapitalerhöhung im Umfang von rund 1,8 Billionen Won wieder auf. Das Vorhaben war nach zwei Eingriffen der Finanzaufsicht vorübergehend verschoben worden. Obwohl teils erwartet wurde, dass das Unternehmen das Volumen reduziert, hält Hanwha Solutions am bisherigen Umfang fest. Als Hintergrund werden Investitionen in künftige Wachstumstechnologien und finanzielle Erfordernisse genannt. Nach den Korrekturanforderungen der Aufsicht erklärte das Unternehmen, die Unterlagen sorgfältig und vollständig zu erstellen. Der neue Anlauf dürfte zeigen, ob der groß angelegte Finanzierungsplan fortgeführt wird und wie Investitionsmittel gesichert werden sollen. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Hanwha Solutions relance son augmentation de capital de 1 800 Mds de wons",
-        "excerpt": "Hanwha Solutions relance une augmentation de capital d’environ 1 800 milliards de wons, reportée après deux demandes du régulateur financier coréen.",
-        "body": "Hanwha Solutions relance son projet d’augmentation de capital d’environ 1 800 milliards de wons, qui avait été temporairement reporté après deux interventions du Service de supervision financière. Certains anticipaient une réduction du montant, mais l’entreprise maintient l’envergure initiale de l’opération. Le contexte comprend des investissements dans des technologies de croissance future et des besoins financiers. Après les demandes de correction du régulateur, Hanwha Solutions a indiqué qu’elle préparerait les documents de manière fidèle et complète. Cette relance devrait permettre d’évaluer la poursuite du plan de financement et l’orientation retenue pour sécuriser les ressources d’investissement. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "هانوا سوليوشنز تعيد طرح زيادة رأسمال بـ1.8 تريليون وون دون خفض",
-        "excerpt": "تستأنف هانوا سوليوشنز زيادة رأسمال بنحو 1.8 تريليون وون كانت قد تأجلت مؤقتا بعد تدخلين من هيئة الرقابة المالية في كوريا.",
-        "body": "تستعد هانوا سوليوشنز لاستئناف خطة زيادة رأسمال بقيمة تقارب 1.8 تريليون وون، بعدما تأجلت مؤقتا إثر تدخلين من هيئة الرقابة المالية. ورغم توقعات في بعض الأوساط بأن تخفض الشركة حجم الإصدار، فإنها قررت الإبقاء على الحجم الأصلي. وترتبط الخلفية بالاستثمار في تقنيات النمو المستقبلية وباحتياجات مالية. وبعد طلبات التصحيح من الجهة الرقابية، قالت هانوا سوليوشنز إنها ستعد المحتوى المطلوب بصورة وافية وأمينة. ومن المتوقع أن يوضح هذا التحرك مدى استمرار خطة التمويل الكبيرة واتجاه الشركة في تأمين موارد الاستثمار. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "Hanwha Solutions 1.8 ट्रिलियन वॉन राइट्स इश्यू फिर बढ़ाएगी, आकार कायम",
-        "excerpt": "Hanwha Solutions वित्तीय पर्यवेक्षण सेवा की दो आपत्तियों से टले 1.8 ट्रिलियन वॉन के राइट्स इश्यू को फिर आगे बढ़ा रही है।",
-        "body": "Hanwha Solutions करीब 1.8 ट्रिलियन वॉन के राइट्स इश्यू की योजना फिर आगे बढ़ा रही है, जिसे वित्तीय पर्यवेक्षण सेवा की दो बार की रोक के बाद अस्थायी रूप से टाल दिया गया था। कुछ पक्षों ने अनुमान लगाया था कि कंपनी इश्यू का आकार घटा सकती है, लेकिन Hanwha Solutions मूल आकार बनाए रखेगी। इसका संदर्भ भविष्य की वृद्धि तकनीकों में निवेश और वित्तीय जरूरतों से जुड़ा है। नियामक की संशोधन मांगों के बाद कंपनी ने कहा कि वह संबंधित दस्तावेजों को पूरी निष्ठा से तैयार करेगी। यह कदम बड़े धन जुटाने की योजना की निरंतरता और निवेश संसाधन सुरक्षित करने की दिशा को स्पष्ट करेगा। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Hanwha Solutions lanjutkan rights issue KRW 1,8 triliun, skala tetap",
-        "excerpt": "Hanwha Solutions kembali mendorong rights issue senilai sekitar KRW 1,8 triliun yang sempat tertunda setelah dua permintaan regulator keuangan Korea.",
-        "body": "Hanwha Solutions akan kembali menjalankan rencana rights issue senilai sekitar KRW 1,8 triliun, yang sempat ditunda sementara setelah dua kali mendapat perhatian dari Financial Supervisory Service. Meski sebagian pihak memperkirakan perusahaan akan memangkas ukuran aksi korporasi tersebut, Hanwha Solutions memilih mempertahankan skala awal. Latar belakangnya mencakup investasi pada teknologi pertumbuhan masa depan dan kebutuhan keuangan. Setelah permintaan koreksi dari regulator, perusahaan menyatakan akan menyusun dokumen terkait secara lengkap dan setia pada ketentuan. Langkah ini akan menjadi penanda kelanjutan rencana pendanaan besar dan arah pengamanan dana investasi. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "ce52d979f4ac",
-    "slug": "삼일pwc-보험-금융상품-넘어-리스크-관리-플랫폼으로-진화해야-880907",
-    "channelId": "ETF",
-    "category": "etf",
-    "publishedAt": "2026-05-14T11:50:14.976Z",
-    "updatedAt": "2026-05-14T11:50:14.976Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/stock/12048139",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12048139",
-    "titleFingerprint": "00425aff3b08cd199a5d47a0cb9dd972d40f1c34",
-    "dedupKeys": [
-      "ce52d979f4ac32b5258f567cdc19ff60bbc486cf",
-      "00425aff3b08cd199a5d47a0cb9dd972d40f1c34",
-      "4ee8f09c895e2027b860b4691d0328f48caf3522"
-    ],
-    "imageUrl": "/images/articles/ce52d979f4ac.jpg",
-    "i18n": {
-      "ko": {
-        "title": "삼일PwC, 보험산업 ‘리스크 관리 플랫폼’ 전환 필요성 제시",
-        "excerpt": "삼일PwC는 ‘보험의 미래 2030’ 보고서에서 보험산업이 사후 보상 중심 금융상품을 넘어 사전 예방형 리스크 관리 플랫폼으로 진화해야 한다고 밝혔다.",
-        "body": "삼일PwC는 ‘보험의 미래 2030’ 보고서를 통해 보험산업이 단순 금융상품 제공을 넘어 고객 위험을 미리 관리하는 ‘리스크 관리 플랫폼’으로 진화해야 한다고 제시했다. 보고서는 보험산업의 중심이 사고 이후 보상하는 방식에서 위험을 사전에 예방하고 관리하는 방향으로 빠르게 재편되고 있다고 설명했다. 이는 보험사가 고객의 위험을 사후에 처리하는 역할에 머물지 않고, 위험 발생 가능성을 줄이는 서비스와 체계로 확장해야 한다는 의미다. 향후 보험사는 보상 중심 모델을 넘어 예방 중심의 고객 위험 관리 역량을 강화하는 방향을 모색해야 할 것으로 보인다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Samil PwC Says Insurance Must Become a Risk Management Platform",
-        "excerpt": "In its Future of Insurance 2030 report, Samil PwC said insurers must move beyond financial products and evolve into preventive risk management platforms.",
-        "body": "Samil PwC said in its Future of Insurance 2030 report that the insurance industry should evolve beyond simply providing financial products and become a “risk management platform” that helps customers manage risks in advance. The report said the industry is rapidly shifting from a model centered on compensation after an incident to one focused on prevention before risks occur. This means insurers should not remain limited to handling losses after the fact, but should expand into services and systems that reduce the likelihood of risks. Going forward, insurers are expected to explore ways to strengthen customer risk management capabilities centered on prevention rather than compensation. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "三逸PwC、保険はリスク管理プラットフォームへ進化すべきと提言",
-        "excerpt": "三逸PwCは「保険の未来2030」報告書で、保険産業は金融商品の提供を超え、事前予防型のリスク管理プラットフォームへ進化すべきだと示した。",
-        "body": "三逸PwCは「保険の未来2030」報告書を通じ、保険産業は単なる金融商品の提供を超え、顧客のリスクを事前に管理する「リスク管理プラットフォーム」へ進化すべきだと提言した。報告書は、保険産業の軸が事故後に補償する方式から、リスクを事前に予防し管理する方向へ急速に再編されていると説明した。これは、保険会社が顧客のリスクを事後処理する役割にとどまらず、リスク発生の可能性を減らすサービスと仕組みへ拡張する必要があることを意味する。今後、保険会社は補償中心モデルを超え、予防中心の顧客リスク管理能力を強化する方向を模索する必要があるとみられる。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "三逸PwC：保险业应转向“风险管理平台”",
-        "excerpt": "三逸PwC在《保险的未来2030》报告中表示，保险业应超越金融产品提供，向事前预防型风险管理平台演进。",
-        "body": "三逸PwC在《保险的未来2030》报告中提出，保险业应超越单纯提供金融产品的模式，发展成为帮助客户提前管理风险的“风险管理平台”。报告指出，保险产业的重心正从事故发生后的赔付，快速转向风险发生前的预防和管理。这意味着保险公司不应只停留在事后处理客户风险的角色，而需要扩展到降低风险发生可能性的服务和体系。未来，保险公司有必要摆脱以赔付为中心的模式，探索强化以预防为核心的客户风险管理能力。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Samil PwC: seguros deben evolucionar a plataformas de gestión de riesgos",
-        "excerpt": "En el informe El futuro del seguro 2030, Samil PwC afirmó que el sector debe superar los productos financieros y pasar a gestionar riesgos de forma preventiva.",
-        "body": "Samil PwC señaló en su informe El futuro del seguro 2030 que la industria aseguradora debe ir más allá de la simple oferta de productos financieros y evolucionar hacia una “plataforma de gestión de riesgos” que administre con anticipación los riesgos de los clientes. El informe explica que el eje del sector se está reorganizando rápidamente desde la compensación posterior a los siniestros hacia la prevención y gestión previa de los riesgos. Esto implica que las aseguradoras no deben limitarse a atender los riesgos después de que ocurran, sino ampliar sus servicios y sistemas para reducir la probabilidad de que se materialicen. En adelante, deberán buscar fortalecer capacidades preventivas de gestión del riesgo del cliente. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Samil PwC: seguros devem virar plataformas de gestão de risco",
-        "excerpt": "No relatório Futuro dos Seguros 2030, a Samil PwC afirmou que o setor deve ir além de produtos financeiros e adotar gestão preventiva de riscos.",
-        "body": "A Samil PwC afirmou no relatório Futuro dos Seguros 2030 que a indústria de seguros deve ir além da simples oferta de produtos financeiros e evoluir para uma “plataforma de gestão de riscos” capaz de administrar previamente os riscos dos clientes. O relatório explica que o centro do setor está sendo rapidamente reorganizado, saindo de um modelo baseado em indenização após eventos para outro focado na prevenção e gestão antecipada dos riscos. Isso significa que as seguradoras não devem permanecer apenas no papel de tratar riscos depois que eles ocorrem, mas expandir serviços e sistemas que reduzam sua probabilidade. Daqui em diante, o setor deve buscar fortalecer capacidades preventivas de gestão de risco do cliente. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Samil PwC: Versicherer sollen zu Risikomanagement-Plattformen werden",
-        "excerpt": "Im Bericht Future of Insurance 2030 erklärte Samil PwC, Versicherer müssten über Finanzprodukte hinausgehen und präventive Risikomanagement-Plattformen werden.",
-        "body": "Samil PwC erklärte im Bericht Future of Insurance 2030, die Versicherungsbranche müsse über die reine Bereitstellung von Finanzprodukten hinausgehen und sich zu einer „Risikomanagement-Plattform“ entwickeln, die Kundenrisiken im Voraus steuert. Der Bericht beschreibt, dass sich der Schwerpunkt der Branche rasch von der Entschädigung nach einem Schaden hin zur vorherigen Prävention und Steuerung von Risiken verlagert. Das bedeutet, dass Versicherer nicht auf die nachträgliche Bearbeitung von Kundenrisiken beschränkt bleiben sollten, sondern Dienstleistungen und Systeme ausbauen müssen, die die Wahrscheinlichkeit von Risiken verringern. Künftig dürfte die Branche Wege suchen, präventive Fähigkeiten im Kundenrisikomanagement zu stärken. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Samil PwC: l’assurance doit devenir une plateforme de gestion des risques",
-        "excerpt": "Dans son rapport Future of Insurance 2030, Samil PwC estime que l’assurance doit dépasser les produits financiers et gérer les risques de façon préventive.",
-        "body": "Samil PwC indique dans son rapport Future of Insurance 2030 que le secteur de l’assurance doit dépasser la simple fourniture de produits financiers et évoluer vers une « plateforme de gestion des risques » capable d’aider les clients à gérer leurs risques en amont. Le rapport explique que le centre de gravité du secteur se déplace rapidement d’un modèle fondé sur l’indemnisation après sinistre vers une approche axée sur la prévention et la gestion préalable des risques. Cela signifie que les assureurs ne doivent pas se limiter au traitement des risques après coup, mais étendre leurs services et systèmes pour réduire la probabilité de leur survenue. À l’avenir, ils devraient chercher à renforcer leurs capacités préventives de gestion des risques clients. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "ساميل PwC: التأمين يجب أن يتحول إلى منصة لإدارة المخاطر",
-        "excerpt": "قالت ساميل PwC في تقرير مستقبل التأمين 2030 إن القطاع يجب أن يتجاوز المنتجات المالية ويتطور إلى منصة وقائية لإدارة مخاطر العملاء مسبقا.",
-        "body": "قالت ساميل PwC في تقريرها «مستقبل التأمين 2030» إن صناعة التأمين يجب أن تتجاوز مجرد تقديم المنتجات المالية وأن تتطور إلى «منصة لإدارة المخاطر» تساعد العملاء على إدارة المخاطر مسبقا. وأوضح التقرير أن محور الصناعة يعاد تشكيله بسرعة من نموذج يركز على التعويض بعد وقوع الحوادث إلى نموذج يركز على الوقاية وإدارة المخاطر قبل حدوثها. ويعني ذلك أن شركات التأمين لا ينبغي أن تبقى محصورة في معالجة مخاطر العملاء بعد وقوعها، بل عليها توسيع الخدمات والأنظمة التي تخفض احتمال تحقق تلك المخاطر. ومن المتوقع أن تبحث الشركات مستقبلا عن تعزيز قدراتها في إدارة مخاطر العملاء على أساس الوقاية لا التعويض فقط. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "Samil PwC: बीमा को जोखिम प्रबंधन प्लेटफॉर्म बनना होगा",
-        "excerpt": "Samil PwC ने Future of Insurance 2030 रिपोर्ट में कहा कि बीमा उद्योग को वित्तीय उत्पादों से आगे बढ़कर निवारक जोखिम प्रबंधन प्लेटफॉर्म बनना चाहिए।",
-        "body": "Samil PwC ने Future of Insurance 2030 रिपोर्ट में कहा कि बीमा उद्योग को केवल वित्तीय उत्पाद उपलब्ध कराने से आगे बढ़कर ग्राहकों के जोखिमों को पहले से संभालने वाले “जोखिम प्रबंधन प्लेटफॉर्म” के रूप में विकसित होना चाहिए। रिपोर्ट के अनुसार, बीमा उद्योग का केंद्र घटना के बाद मुआवजा देने वाले मॉडल से तेजी से हटकर जोखिमों की पहले से रोकथाम और प्रबंधन पर आधारित दिशा में पुनर्गठित हो रहा है। इसका अर्थ है कि बीमा कंपनियों को ग्राहक जोखिमों को बाद में निपटाने तक सीमित नहीं रहना चाहिए, बल्कि ऐसी सेवाओं और प्रणालियों तक विस्तार करना चाहिए जो जोखिम होने की संभावना कम करें। आगे कंपनियों को मुआवजा-केंद्रित मॉडल से आगे बढ़कर निवारक ग्राहक जोखिम प्रबंधन क्षमता मजबूत करनी होगी। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Samil PwC: Asuransi Perlu Menjadi Platform Manajemen Risiko",
-        "excerpt": "Dalam laporan Future of Insurance 2030, Samil PwC menyebut industri asuransi harus melampaui produk keuangan dan beralih ke manajemen risiko preventif.",
-        "body": "Samil PwC menyatakan dalam laporan Future of Insurance 2030 bahwa industri asuransi perlu berkembang melampaui sekadar penyediaan produk keuangan dan menjadi “platform manajemen risiko” yang membantu pelanggan mengelola risiko sejak awal. Laporan itu menjelaskan bahwa pusat industri asuransi sedang cepat bergeser dari model kompensasi setelah kejadian menuju pencegahan dan pengelolaan risiko sebelum terjadi. Artinya, perusahaan asuransi tidak cukup hanya menangani risiko pelanggan setelah peristiwa terjadi, tetapi perlu memperluas layanan dan sistem yang menurunkan kemungkinan munculnya risiko. Ke depan, perusahaan asuransi diperkirakan perlu mencari cara memperkuat kemampuan manajemen risiko pelanggan yang berfokus pada pencegahan. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "33714578e9fb",
-    "slug": "ey한영-청소년-도박-근절-캠페인-동참-468765",
-    "channelId": "ETF",
-    "category": "etf",
-    "publishedAt": "2026-05-14T11:49:16.328Z",
-    "updatedAt": "2026-05-14T11:49:16.328Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/stock/12048140",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12048140",
-    "titleFingerprint": "74a04d1602549a010d46aaf430ae558471c67b1c",
-    "dedupKeys": [
-      "33714578e9fbac8df66e6ca6d60a886d2b3e3d14",
-      "74a04d1602549a010d46aaf430ae558471c67b1c",
-      "7a79efb1f5d40fa5b34f66c3a16e8a3b6be8c19c"
-    ],
-    "imageUrl": "/images/articles/33714578e9fb.jpg",
-    "i18n": {
-      "ko": {
-        "title": "EY한영, 청소년 도박 근절 캠페인 동참…불법 사이버도박 위험 알린다",
-        "excerpt": "글로벌 회계·컨설팅 법인 EY한영은 박용근 대표이사가 청소년 도박 근절 캠페인에 동참해 청소년 대상 불법 사이버도박의 위험성을 알리고 확산 차단에 힘을 보탰다고 밝혔다.",
-        "body": "글로벌 회계·컨설팅 법인 EY한영은 박용근 대표이사가 ‘청소년 도박 근절 캠페인’에 동참했다고 밝혔다. 이번 캠페인은 청소년을 대상으로 한 불법 사이버도박의 위험성을 알리고, 관련 행위의 확산을 차단하기 위해 진행되는 활동이다. EY한영의 참여는 청소년 보호와 건전한 사회 인식 확산에 기업 리더가 힘을 보탠 사례로 볼 수 있다. 청소년 도박 문제가 온라인 환경을 통해 확산될 수 있다는 점에서, 이번 캠페인은 위험성에 대한 경각심을 높이는 데 초점을 맞춘다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "EY Korea joins youth gambling prevention campaign to warn of illegal cyber gambling risks",
-        "excerpt": "EY Korea said CEO Yong-geun Park joined a youth gambling prevention campaign to raise awareness of illegal cyber gambling targeting teenagers and help curb its spread.",
-        "body": "EY Korea, a global accounting and consulting firm, said CEO Yong-geun Park has joined the “Youth Gambling Prevention Campaign.” The campaign is designed to inform young people and the wider public about the dangers of illegal cyber gambling targeting teenagers and to help stop its spread. EY Korea’s participation highlights a corporate leader’s support for protecting adolescents and promoting healthier social awareness. As youth gambling can spread through online environments, the campaign focuses on raising awareness of the risks and reinforcing attention to prevention. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "EY韓英、青少年ギャンブル根絶キャンペーン参加…違法サイバー賭博の危険を発信",
-        "excerpt": "グローバル会計・コンサルティング法人EY韓英は、朴容根代表理事が青少年ギャンブル根絶キャンペーンに参加し、違法サイバー賭博の危険性を知らせたと明らかにした。",
-        "body": "グローバル会計・コンサルティング法人のEY韓英は、朴容根代表理事が「青少年ギャンブル根絶キャンペーン」に参加したと明らかにした。このキャンペーンは、青少年を対象にした違法サイバー賭博の危険性を知らせ、関連行為の拡散を防ぐために行われている活動だ。EY韓英の参加は、青少年保護と健全な社会的認識の拡大に企業リーダーが力を添えた事例といえる。青少年ギャンブル問題がオンライン環境を通じて広がり得る点から、今回のキャンペーンは危険性への警戒心を高めることに重点を置く。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "EY韩永加入青少年赌博根除活动，提示非法网络赌博风险",
-        "excerpt": "全球会计与咨询机构EY韩永表示，代表理事朴容根参加了青少年赌博根除活动，旨在提醒青少年非法网络赌博的危险，并协助阻止其扩散。",
-        "body": "全球会计与咨询机构EY韩永表示，代表理事朴容根已参加“青少年赌博根除活动”。该活动旨在告知公众和青少年，针对青少年的非法网络赌博具有危险性，并帮助阻止相关行为扩散。EY韩永的参与可视为企业领导者支持青少年保护、推动健康社会认知扩散的案例。考虑到青少年赌博问题可能通过网络环境蔓延，本次活动重点在于提高对相关风险的警觉。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "EY Korea se suma a campaña contra el juego juvenil y alerta sobre apuestas ilegales en línea",
-        "excerpt": "EY Korea, firma global de contabilidad y consultoría, informó que su CEO Yong-geun Park se unió a una campaña para prevenir el juego juvenil y advertir sobre el cibergambling ilegal dirigido a menores.",
-        "body": "EY Korea, firma global de contabilidad y consultoría, informó que su CEO Yong-geun Park se sumó a la “Campaña para erradicar el juego juvenil”. La iniciativa busca dar a conocer los riesgos del juego cibernético ilegal dirigido a adolescentes y ayudar a frenar su expansión. La participación de EY Korea muestra el respaldo de un líder empresarial a la protección de los jóvenes y a la difusión de una conciencia social saludable. Dado que el problema del juego juvenil puede extenderse a través de entornos en línea, la campaña se centra en aumentar la atención sobre sus peligros. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "EY Korea adere a campanha contra jogos de azar juvenis e alerta para riscos online ilegais",
-        "excerpt": "A EY Korea, empresa global de contabilidade e consultoria, informou que o CEO Yong-geun Park aderiu à campanha contra jogos de azar entre jovens para alertar sobre apostas cibernéticas ilegais voltadas a adolescentes.",
-        "body": "A EY Korea, empresa global de contabilidade e consultoria, informou que seu CEO, Yong-geun Park, aderiu à “Campanha para erradicar os jogos de azar juvenis”. A iniciativa tem como objetivo informar sobre os perigos dos jogos de azar cibernéticos ilegais direcionados a adolescentes e ajudar a conter sua disseminação. A participação da EY Korea representa o apoio de um líder empresarial à proteção dos jovens e à ampliação de uma consciência social saudável. Como esse problema pode se espalhar em ambientes online, a campanha se concentra em aumentar o alerta sobre seus riscos. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "EY Korea unterstützt Kampagne gegen Jugendglücksspiel und warnt vor illegalem Cyber-Glücksspiel",
-        "excerpt": "EY Korea, ein globales Wirtschaftsprüfungs- und Beratungsunternehmen, teilte mit, dass CEO Yong-geun Park an einer Kampagne gegen Jugendglücksspiel teilnimmt, um vor illegalem Cyber-Glücksspiel zu warnen.",
-        "body": "EY Korea, ein globales Wirtschaftsprüfungs- und Beratungsunternehmen, teilte mit, dass CEO Yong-geun Park an der „Kampagne zur Eindämmung von Jugendglücksspiel“ teilgenommen hat. Die Kampagne soll über die Gefahren illegalen Cyber-Glücksspiels aufklären, das sich an Jugendliche richtet, und dessen Ausbreitung verhindern helfen. Die Beteiligung von EY Korea zeigt die Unterstützung eines Unternehmensleiters für den Schutz Jugendlicher und die Förderung eines gesunden gesellschaftlichen Bewusstseins. Da sich Jugendglücksspiel über Online-Umgebungen verbreiten kann, legt die Kampagne den Schwerpunkt auf mehr Aufmerksamkeit für diese Risiken. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "EY Korea rejoint une campagne contre le jeu des jeunes et alerte sur les risques en ligne illégaux",
-        "excerpt": "EY Korea, cabinet mondial d’audit et de conseil, a annoncé que son CEO Yong-geun Park participe à une campagne contre le jeu des jeunes afin de signaler les dangers du cyberjeu illégal visant les adolescents.",
-        "body": "EY Korea, cabinet mondial d’audit et de conseil, a annoncé que son CEO Yong-geun Park avait rejoint la « campagne pour éradiquer le jeu chez les jeunes ». Cette initiative vise à faire connaître les dangers du cyberjeu illégal visant les adolescents et à contribuer à freiner sa propagation. La participation d’EY Korea illustre le soutien d’un dirigeant d’entreprise à la protection des jeunes et à la diffusion d’une conscience sociale plus saine. Comme le jeu des jeunes peut se propager dans les environnements en ligne, la campagne met l’accent sur la sensibilisation aux risques. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "إي واي كوريا تنضم إلى حملة للحد من قمار المراهقين والتحذير من المقامرة الإلكترونية غير القانونية",
-        "excerpt": "أعلنت إي واي كوريا، شركة المحاسبة والاستشارات العالمية، أن الرئيس التنفيذي يونغ-غون بارك شارك في حملة للحد من قمار المراهقين والتوعية بمخاطر المقامرة الإلكترونية غير القانونية الموجهة للشباب.",
-        "body": "أعلنت إي واي كوريا، شركة المحاسبة والاستشارات العالمية، أن الرئيس التنفيذي يونغ-غون بارك شارك في «حملة القضاء على قمار المراهقين». وتهدف الحملة إلى التعريف بمخاطر المقامرة الإلكترونية غير القانونية التي تستهدف المراهقين، والمساعدة في منع انتشارها. وتبرز مشاركة إي واي كوريا دعم قائد من قطاع الأعمال لحماية الشباب ونشر وعي اجتماعي صحي. وبالنظر إلى أن مشكلة قمار المراهقين يمكن أن تنتشر عبر البيئات الإلكترونية، تركز الحملة على رفع مستوى الانتباه إلى هذه المخاطر. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "EY Korea युवा जुआ रोकथाम अभियान में शामिल, अवैध साइबर जुए के जोखिमों पर चेतावनी",
-        "excerpt": "वैश्विक लेखा और परामर्श कंपनी EY Korea ने कहा कि CEO Yong-geun Park युवा जुआ रोकथाम अभियान में शामिल हुए, जिसका उद्देश्य किशोरों को निशाना बनाने वाले अवैध साइबर जुए के खतरों को बताना है।",
-        "body": "वैश्विक लेखा और परामर्श कंपनी EY Korea ने कहा कि CEO Yong-geun Park “युवा जुआ उन्मूलन अभियान” में शामिल हुए हैं। यह अभियान किशोरों को निशाना बनाने वाले अवैध साइबर जुए के खतरों के बारे में जागरूक करने और इसके प्रसार को रोकने में मदद करने के लिए चलाया जा रहा है। EY Korea की भागीदारी को किशोरों की सुरक्षा और स्वस्थ सामाजिक जागरूकता बढ़ाने में एक कॉरपोरेट नेता के समर्थन के रूप में देखा जा सकता है। चूंकि युवा जुए की समस्या ऑनलाइन वातावरण के माध्यम से फैल सकती है, इसलिए अभियान का जोर जोखिमों के प्रति सतर्कता बढ़ाने पर है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "EY Korea ikut kampanye pemberantasan judi remaja, soroti risiko judi siber ilegal",
-        "excerpt": "EY Korea, firma akuntansi dan konsultasi global, menyatakan CEO Yong-geun Park ikut dalam kampanye pemberantasan judi remaja untuk mengingatkan bahaya judi siber ilegal yang menyasar anak muda.",
-        "body": "EY Korea, firma akuntansi dan konsultasi global, menyatakan bahwa CEO Yong-geun Park telah ikut dalam “Kampanye Pemberantasan Judi Remaja”. Kampanye ini bertujuan memberi tahu bahaya judi siber ilegal yang menyasar remaja dan membantu mencegah penyebarannya. Keterlibatan EY Korea dapat dilihat sebagai dukungan pemimpin perusahaan terhadap perlindungan remaja dan perluasan kesadaran sosial yang sehat. Karena masalah judi remaja dapat menyebar melalui lingkungan online, kampanye ini berfokus pada peningkatan kewaspadaan terhadap risikonya. Sumber: mk.co.kr"
       }
     }
   }
