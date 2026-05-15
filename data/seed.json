@@ -1,5 +1,230 @@
 [
   {
+    "id": "5722cd3e5688",
+    "slug": "인프라부터-모델까지ai-풀스택으로-기업-혁신kiw-2026-341295",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-05-15T21:15:30.386Z",
+    "updatedAt": "2026-05-15T21:15:30.386Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/202605159340i",
+    "canonicalUrl": "https://www.hankyung.com/article/202605159340i",
+    "titleFingerprint": "aad2970efecb891d2baee47e3a3b3550cbe7ad93",
+    "dedupKeys": [
+      "5722cd3e56887742d1b14911686d830d35a9937b",
+      "aad2970efecb891d2baee47e3a3b3550cbe7ad93",
+      "df688a8404acb313b10820c3778f0a095424a24c"
+    ],
+    "imageUrl": "/images/articles/5722cd3e5688.jpg",
+    "i18n": {
+      "ko": {
+        "title": "AI 풀스택 기업 혁신, 인프라부터 모델까지 연결한 KIW 2026 핵심 의제",
+        "excerpt": "한국경제는 KIW 2026에서 인프라부터 모델까지 아우르는 ‘AI 풀스택’이 기업 혁신의 핵심 주제로 다뤄졌다고 보도했다.",
+        "body": "KIW 2026에서 ‘AI 풀스택’이 기업 혁신을 이끄는 핵심 키워드로 제시됐다. 한국경제 보도에 따르면 이번 논의는 인프라부터 모델까지 AI 도입에 필요한 전 과정을 연결해 기업의 변화와 혁신을 뒷받침하는 방향에 초점을 맞췄다. 원문은 구체적인 수치나 개별 기업 사례를 별도로 제시하지 않았지만, AI 경쟁력이 단일 기술이 아니라 기반 인프라와 모델 역량을 함께 갖춘 체계에서 나온다는 점을 강조했다. 이에 따라 기업들은 AI 활용 전략을 부분 도입이 아닌 풀스택 관점에서 검토할 필요가 커질 전망이다. 출처: hankyung.com"
+      },
+      "en": {
+        "title": "AI Full-Stack Enterprise Innovation Takes Center Stage at KIW 2026",
+        "excerpt": "Hankyung reported that KIW 2026 highlighted “AI full stack,” spanning infrastructure to models, as a key theme for enterprise innovation.",
+        "body": "At KIW 2026, “AI full stack” was presented as a core keyword for driving enterprise innovation. According to Hankyung, the discussion focused on connecting the full process required for AI adoption, from infrastructure to models, to support corporate change and innovation. The source article did not provide specific figures or individual company cases, but it emphasized that AI competitiveness comes not from a single technology, but from a system that combines foundational infrastructure with model capabilities. As a result, companies are expected to increasingly review AI strategies from a full-stack perspective rather than through partial adoption. Source: hankyung.com"
+      },
+      "ja": {
+        "title": "AIフルスタック企業革新、インフラからモデルまでKIW 2026で焦点に",
+        "excerpt": "韓国経済は、KIW 2026でインフラからモデルまでを含む「AIフルスタック」が企業革新の主要テーマとして扱われたと報じた。",
+        "body": "KIW 2026で「AIフルスタック」が企業革新を促す中核キーワードとして示された。韓国経済の報道によると、今回の議論はインフラからモデルまで、AI導入に必要な全過程をつなぎ、企業の変化と革新を支える方向に焦点を当てた。原文は具体的な数値や個別企業の事例を別途示していないが、AI競争力は単一技術ではなく、基盤インフラとモデル能力を合わせ持つ体系から生まれる点を強調した。これにより企業は、AI活用戦略を部分導入ではなくフルスタックの観点から検討する必要性が高まりそうだ。出典: hankyung.com"
+      },
+      "zh": {
+        "title": "AI全栈企业创新成KIW 2026焦点，从基础设施到模型全面连接",
+        "excerpt": "韩国经济报道称，KIW 2026将覆盖基础设施到模型的“AI全栈”作为企业创新的核心议题加以讨论。",
+        "body": "在KIW 2026上，“AI全栈”被提出为推动企业创新的核心关键词。据韩国经济报道，此次讨论聚焦于把AI导入所需的全过程连接起来，从基础设施到模型，支撑企业变化与创新。原文未另行提供具体数据或个别企业案例，但强调AI竞争力并非来自单一技术，而是来自同时具备基础设施与模型能力的体系。因此，企业未来有必要从全栈视角审视AI应用战略，而不是仅进行局部导入。来源: hankyung.com"
+      },
+      "es": {
+        "title": "Innovación empresarial con AI full stack, eje de KIW 2026 de infraestructura a modelos",
+        "excerpt": "Hankyung informó que KIW 2026 abordó el “AI full stack”, desde infraestructura hasta modelos, como tema clave de innovación empresarial.",
+        "body": "En KIW 2026, el “AI full stack” se presentó como una palabra clave central para impulsar la innovación empresarial. Según Hankyung, el debate se centró en conectar todo el proceso necesario para adoptar IA, desde la infraestructura hasta los modelos, con el fin de respaldar el cambio y la innovación en las empresas. El artículo original no incluyó cifras concretas ni casos de compañías individuales, pero subrayó que la competitividad en IA no proviene de una sola tecnología, sino de un sistema que combina infraestructura de base y capacidades de modelos. Por ello, las empresas deberán evaluar sus estrategias de IA desde una perspectiva full stack, no solo mediante adopciones parciales. Fuente: hankyung.com"
+      },
+      "pt": {
+        "title": "Inovação empresarial com AI full stack é destaque no KIW 2026",
+        "excerpt": "O Hankyung informou que o KIW 2026 tratou o “AI full stack”, da infraestrutura aos modelos, como tema central da inovação empresarial.",
+        "body": "No KIW 2026, o “AI full stack” foi apresentado como uma palavra-chave central para impulsionar a inovação empresarial. Segundo o Hankyung, a discussão se concentrou em conectar todo o processo necessário para a adoção de IA, da infraestrutura aos modelos, para apoiar mudanças e inovação nas empresas. O texto original não trouxe números específicos nem casos de empresas individuais, mas enfatizou que a competitividade em IA não vem de uma tecnologia isolada, e sim de um sistema que combina infraestrutura de base e capacidade de modelos. Assim, as empresas devem avaliar estratégias de uso de IA sob uma perspectiva full stack, em vez de apenas adoções parciais. Fonte: hankyung.com"
+      },
+      "de": {
+        "title": "AI-Full-Stack für Unternehmensinnovation steht bei KIW 2026 im Fokus",
+        "excerpt": "Hankyung berichtete, dass KIW 2026 den „AI Full Stack“ von Infrastruktur bis Modellen als zentrales Thema der Unternehmensinnovation behandelte.",
+        "body": "Auf der KIW 2026 wurde der „AI Full Stack“ als zentrales Stichwort für Unternehmensinnovation vorgestellt. Laut Hankyung konzentrierte sich die Diskussion darauf, den gesamten für die KI-Einführung nötigen Prozess von der Infrastruktur bis zu den Modellen zu verbinden und so Wandel und Innovation in Unternehmen zu unterstützen. Der Originalartikel nannte keine konkreten Zahlen oder einzelnen Unternehmensbeispiele, betonte aber, dass KI-Wettbewerbsfähigkeit nicht aus einer einzelnen Technologie entsteht, sondern aus einem System, das Basisinfrastruktur und Modellfähigkeiten zusammenführt. Unternehmen dürften ihre KI-Strategien daher stärker aus einer Full-Stack-Perspektive prüfen müssen. Quelle: hankyung.com"
+      },
+      "fr": {
+        "title": "L’AI full stack, de l’infrastructure aux modèles, au cœur de KIW 2026",
+        "excerpt": "Hankyung a rapporté que KIW 2026 a mis en avant l’« AI full stack », de l’infrastructure aux modèles, comme thème clé de l’innovation d’entreprise.",
+        "body": "Lors de KIW 2026, l’« AI full stack » a été présenté comme un mot-clé central pour stimuler l’innovation des entreprises. Selon Hankyung, les discussions ont porté sur la connexion de l’ensemble du processus nécessaire à l’adoption de l’IA, de l’infrastructure aux modèles, afin de soutenir le changement et l’innovation en entreprise. L’article source n’a pas fourni de chiffres précis ni de cas d’entreprises individuelles, mais il a souligné que la compétitivité en IA ne vient pas d’une technologie unique; elle repose sur un système combinant infrastructure de base et capacités de modèles. Les entreprises devraient donc examiner leurs stratégies d’IA dans une perspective full stack plutôt que par une adoption partielle. Source: hankyung.com"
+      },
+      "ar": {
+        "title": "الذكاء الاصطناعي كامل المكدس يقود ابتكار الشركات في KIW 2026",
+        "excerpt": "ذكرت هانكيونغ أن KIW 2026 تناول مفهوم «الذكاء الاصطناعي كامل المكدس»، من البنية التحتية إلى النماذج، كموضوع رئيسي لابتكار الشركات.",
+        "body": "في KIW 2026، طُرح مفهوم «الذكاء الاصطناعي كامل المكدس» بوصفه كلمة محورية لدفع ابتكار الشركات. ووفق تقرير هانكيونغ، ركز النقاش على ربط العملية الكاملة اللازمة لتبني الذكاء الاصطناعي، من البنية التحتية إلى النماذج، بما يدعم التغيير والابتكار داخل الشركات. ولم يقدم النص الأصلي أرقاما محددة أو أمثلة لشركات بعينها، لكنه شدد على أن القدرة التنافسية في الذكاء الاصطناعي لا تأتي من تقنية واحدة، بل من منظومة تجمع بين البنية التحتية الأساسية وقدرات النماذج. لذلك ستحتاج الشركات إلى مراجعة استراتيجياتها للذكاء الاصطناعي من منظور كامل المكدس لا من خلال تبن جزئي فقط. المصدر: hankyung.com"
+      },
+      "hi": {
+        "title": "AI फुल स्टैक से उद्यम नवाचार, KIW 2026 में मुख्य एजेंडा बना",
+        "excerpt": "हैंक्युंग ने बताया कि KIW 2026 में इंफ्रास्ट्रक्चर से मॉडल तक फैले “AI फुल स्टैक” को उद्यम नवाचार के प्रमुख विषय के रूप में उठाया गया।",
+        "body": "KIW 2026 में “AI फुल स्टैक” को उद्यम नवाचार को आगे बढ़ाने वाला मुख्य कीवर्ड बताया गया। हैंक्युंग की रिपोर्ट के अनुसार, चर्चा AI अपनाने के लिए जरूरी पूरी प्रक्रिया को जोड़ने पर केंद्रित रही, जिसमें इंफ्रास्ट्रक्चर से लेकर मॉडल तक शामिल हैं, ताकि कंपनियों में बदलाव और नवाचार को सहारा मिल सके। मूल लेख में कोई विशिष्ट आंकड़ा या अलग-अलग कंपनियों के उदाहरण नहीं दिए गए, लेकिन यह रेखांकित किया गया कि AI प्रतिस्पर्धात्मकता किसी एक तकनीक से नहीं, बल्कि आधारभूत इंफ्रास्ट्रक्चर और मॉडल क्षमता को साथ रखने वाली प्रणाली से आती है। इसलिए कंपनियों को AI रणनीति को आंशिक अपनाने के बजाय फुल स्टैक दृष्टिकोण से देखना होगा। स्रोत: hankyung.com"
+      },
+      "id": {
+        "title": "Inovasi Perusahaan AI Full Stack Jadi Sorotan Utama di KIW 2026",
+        "excerpt": "Hankyung melaporkan bahwa KIW 2026 membahas “AI full stack”, dari infrastruktur hingga model, sebagai tema utama inovasi perusahaan.",
+        "body": "Di KIW 2026, “AI full stack” diperkenalkan sebagai kata kunci utama untuk mendorong inovasi perusahaan. Menurut laporan Hankyung, pembahasan berfokus pada penghubungan seluruh proses yang dibutuhkan untuk adopsi AI, dari infrastruktur hingga model, guna mendukung perubahan dan inovasi perusahaan. Artikel sumber tidak menyajikan angka spesifik atau contoh perusahaan tertentu, tetapi menekankan bahwa daya saing AI tidak berasal dari satu teknologi saja, melainkan dari sistem yang menggabungkan infrastruktur dasar dan kemampuan model. Karena itu, perusahaan diperkirakan perlu meninjau strategi pemanfaatan AI dari perspektif full stack, bukan hanya melalui adopsi sebagian. Sumber: hankyung.com"
+      }
+    }
+  },
+  {
+    "id": "df668ea8ea6a",
+    "slug": "반도체우주-넘나드는-초정밀-모션-제어져스텍-k-부품-선봉kiw-2026-660231",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-05-15T21:14:36.843Z",
+    "updatedAt": "2026-05-15T21:14:36.843Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/202605159289i",
+    "canonicalUrl": "https://www.hankyung.com/article/202605159289i",
+    "titleFingerprint": "4d9bca43bdfd0b8cd466a82fa9cc7d409e2d1d62",
+    "dedupKeys": [
+      "df668ea8ea6a6f8dfe011eff815172639c470591",
+      "4d9bca43bdfd0b8cd466a82fa9cc7d409e2d1d62",
+      "b9b007dece9bc441a2fb0d7d29df9e797fdec510"
+    ],
+    "imageUrl": "/images/articles/df668ea8ea6a.jpg",
+    "i18n": {
+      "ko": {
+        "title": "초정밀 모션 제어 져스텍, 반도체·우주 K-부품 선봉 주목",
+        "excerpt": "져스텍은 KIW 2026에서 반도체와 우주 분야를 넘나드는 초정밀 모션 제어 기술로 ‘K-부품’ 선봉 기업으로 소개됐다.",
+        "body": "져스텍이 KIW 2026에서 반도체와 우주 분야를 아우르는 ‘초정밀 모션 제어’ 기업으로 조명됐다. 한국경제 보도에 따르면 회사는 정밀한 움직임을 제어하는 기술을 바탕으로 국내 부품 경쟁력을 보여주는 사례로 소개됐다. 이번 보도는 반도체 장비와 우주 관련 산업처럼 높은 정확도가 요구되는 영역에서 모션 제어 기술의 중요성이 커지고 있음을 짚었다. 져스텍은 ‘K-부품’ 선봉이라는 표현과 함께 핵심 부품 기업으로 부각됐다. 출처: hankyung.com"
+      },
+      "en": {
+        "title": "Justek’s Ultra-Precision Motion Control Draws Notice in K-Parts Push",
+        "excerpt": "At KIW 2026, Justek was introduced as a leading K-parts company with ultra-precision motion control technology spanning semiconductors and space.",
+        "body": "Justek was highlighted at KIW 2026 as a company focused on ultra-precision motion control across the semiconductor and space sectors. According to Hankyung, the company was presented as an example of Korea’s parts competitiveness through technology that precisely controls movement. The report noted the growing importance of motion control in fields requiring high accuracy, including semiconductor equipment and space-related industries. Justek was described as standing at the forefront of “K-parts” as a key components company. Source: hankyung.com"
+      },
+      "ja": {
+        "title": "超精密モーション制御のジャステック、半導体・宇宙のK部品で注目",
+        "excerpt": "ジャステックはKIW 2026で、半導体と宇宙分野にまたがる超精密モーション制御技術を持つ「K部品」の先導企業として紹介された。",
+        "body": "ジャステックはKIW 2026で、半導体と宇宙分野をまたぐ「超精密モーション制御」企業として取り上げられた。韓国経済の報道によると、同社は精密な動きを制御する技術を基盤に、韓国の部品競争力を示す事例として紹介された。今回の報道は、半導体装置や宇宙関連産業のように高い正確性が求められる領域で、モーション制御技術の重要性が高まっている点を指摘した。ジャステックは「K部品」の先鋒という表現とともに、主要部品企業として浮上した。出典: hankyung.com"
+      },
+      "zh": {
+        "title": "Justek超精密运动控制受关注，领跑半导体与航天K零部件",
+        "excerpt": "在KIW 2026上，Justek凭借横跨半导体和航天领域的超精密运动控制技术，被介绍为“K零部件”前沿企业。",
+        "body": "Justek在KIW 2026上被关注为一家覆盖半导体与航天领域的“超精密运动控制”企业。据韩国经济报道，该公司凭借精确控制运动的技术，被介绍为展现韩国零部件竞争力的案例。报道指出，在半导体设备和航天相关产业等要求高精度的领域，运动控制技术的重要性正在提升。Justek也以“K零部件”先锋的表述，作为核心零部件企业受到关注。来源: hankyung.com"
+      },
+      "es": {
+        "title": "Justek destaca en control de movimiento ultrapreciso para semiconductores y espacio",
+        "excerpt": "En KIW 2026, Justek fue presentada como empresa líder de K-parts por su control de movimiento ultrapreciso aplicado a semiconductores y espacio.",
+        "body": "Justek fue destacada en KIW 2026 como una empresa de control de movimiento ultrapreciso que abarca los sectores de semiconductores y espacio. Según Hankyung, la compañía fue presentada como un ejemplo de la competitividad coreana en componentes gracias a su tecnología para controlar movimientos con precisión. El reporte señaló la creciente importancia del control de movimiento en áreas que requieren alta exactitud, como equipos de semiconductores e industrias relacionadas con el espacio. Justek fue descrita como una empresa clave al frente de los “K-parts”. Fuente: hankyung.com"
+      },
+      "pt": {
+        "title": "Justek ganha destaque em controle de movimento ultrapreciso para chips e espaço",
+        "excerpt": "Na KIW 2026, a Justek foi apresentada como líder de K-parts por sua tecnologia de controle de movimento ultrapreciso em semicondutores e espaço.",
+        "body": "A Justek foi destacada na KIW 2026 como uma empresa de controle de movimento ultrapreciso que atua nos setores de semicondutores e espaço. Segundo o Hankyung, a companhia foi apresentada como um exemplo da competitividade coreana em componentes, com base em sua tecnologia de controle preciso de movimentos. A reportagem apontou a importância crescente do controle de movimento em áreas que exigem alta exatidão, como equipamentos para semicondutores e indústrias relacionadas ao espaço. A Justek foi citada como uma empresa central na linha de frente dos “K-parts”. Fonte: hankyung.com"
+      },
+      "de": {
+        "title": "Justek rückt mit ultrapräziser Motion-Control für Chips und Raumfahrt in den Fokus",
+        "excerpt": "Auf der KIW 2026 wurde Justek mit ultrapräziser Motion-Control für Halbleiter und Raumfahrt als führendes K-Parts-Unternehmen vorgestellt.",
+        "body": "Justek wurde auf der KIW 2026 als Unternehmen für ultrapräzise Motion-Control in den Bereichen Halbleiter und Raumfahrt hervorgehoben. Laut Hankyung wurde das Unternehmen als Beispiel für die Wettbewerbsfähigkeit koreanischer Komponenten vorgestellt, gestützt auf Technologie zur präzisen Steuerung von Bewegungen. Der Bericht verwies darauf, dass Motion-Control in Feldern mit hohen Genauigkeitsanforderungen, darunter Halbleiterausrüstung und raumfahrtbezogene Industrien, wichtiger wird. Justek wurde dabei als Schlüsselunternehmen an der Spitze der “K-parts” beschrieben. Quelle: hankyung.com"
+      },
+      "fr": {
+        "title": "Justek mise en avant pour son contrôle de mouvement ultrapréçis dans les puces et l’espace",
+        "excerpt": "Lors de KIW 2026, Justek a été présentée comme un acteur de premier plan des K-parts grâce à son contrôle de mouvement ultrapréçis pour les semi-conducteurs et l’espace.",
+        "body": "Justek a été mise en lumière lors de KIW 2026 comme une entreprise de contrôle de mouvement ultrapréçis couvrant les secteurs des semi-conducteurs et de l’espace. Selon Hankyung, la société a été présentée comme un exemple de la compétitivité coréenne dans les composants, grâce à sa technologie de contrôle précis des mouvements. Le reportage a souligné l’importance croissante de cette technologie dans les domaines exigeant une grande exactitude, comme les équipements pour semi-conducteurs et les industries liées à l’espace. Justek a été décrite comme un acteur clé à l’avant-garde des “K-parts”. Source: hankyung.com"
+      },
+      "ar": {
+        "title": "جستك تبرز في التحكم الحركي فائق الدقة لأشباه الموصلات والفضاء",
+        "excerpt": "في KIW 2026، قُدمت جستك كشركة رائدة في مكونات K بفضل تقنية التحكم الحركي فائق الدقة الممتدة بين أشباه الموصلات والفضاء.",
+        "body": "سُلّط الضوء على جستك في KIW 2026 كشركة تعمل في التحكم الحركي فائق الدقة عبر قطاعي أشباه الموصلات والفضاء. ووفقًا لتقرير Hankyung، قُدمت الشركة كمثال على تنافسية المكونات الكورية من خلال تقنية تتحكم بالحركة بدقة. أشار التقرير إلى تزايد أهمية التحكم الحركي في المجالات التي تتطلب دقة عالية، مثل معدات أشباه الموصلات والصناعات المرتبطة بالفضاء. ووُصفت جستك بأنها في طليعة “مكونات K” كشركة مكونات رئيسية. المصدر: hankyung.com"
+      },
+      "hi": {
+        "title": "Justek का अल्ट्रा-प्रिसिजन मोशन कंट्रोल सेमीकंडक्टर और स्पेस K-पार्ट्स में चर्चित",
+        "excerpt": "KIW 2026 में Justek को सेमीकंडक्टर और स्पेस क्षेत्रों में अल्ट्रा-प्रिसिजन मोशन कंट्रोल तकनीक वाली अग्रणी K-पार्ट्स कंपनी के रूप में पेश किया गया।",
+        "body": "KIW 2026 में Justek को सेमीकंडक्टर और स्पेस क्षेत्रों को जोड़ने वाली अल्ट्रा-प्रिसिजन मोशन कंट्रोल कंपनी के रूप में रेखांकित किया गया। Hankyung के अनुसार, कंपनी को सटीक गति नियंत्रण तकनीक के आधार पर कोरियाई पार्ट्स प्रतिस्पर्धा दिखाने वाले उदाहरण के रूप में पेश किया गया। रिपोर्ट ने बताया कि सेमीकंडक्टर उपकरण और स्पेस से जुड़े उद्योगों जैसे उच्च सटीकता वाले क्षेत्रों में मोशन कंट्रोल तकनीक का महत्व बढ़ रहा है। Justek को “K-parts” की अग्रिम पंक्ति में खड़ी एक प्रमुख कंपोनेंट कंपनी के रूप में प्रस्तुत किया गया। स्रोत: hankyung.com"
+      },
+      "id": {
+        "title": "Justek Disorot Lewat Kontrol Gerak Ultra-Presisi untuk Semikonduktor dan Antariksa",
+        "excerpt": "Di KIW 2026, Justek diperkenalkan sebagai pemimpin K-parts berkat teknologi kontrol gerak ultra-presisi untuk semikonduktor dan antariksa.",
+        "body": "Justek disorot di KIW 2026 sebagai perusahaan kontrol gerak ultra-presisi yang mencakup sektor semikonduktor dan antariksa. Menurut Hankyung, perusahaan ini diperkenalkan sebagai contoh daya saing komponen Korea melalui teknologi yang mengendalikan gerakan secara presisi. Laporan tersebut menyoroti meningkatnya pentingnya kontrol gerak di bidang yang menuntut akurasi tinggi, seperti peralatan semikonduktor dan industri terkait antariksa. Justek disebut sebagai perusahaan komponen utama di garis depan “K-parts”. Sumber: hankyung.com"
+      }
+    }
+  },
+  {
+    "id": "dce70d4c9936",
+    "slug": "3시간1초ai가-금융-중개-시장-패러다임-바꿀-것-kiw-2026-879324",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-05-15T21:13:40.761Z",
+    "updatedAt": "2026-05-15T21:13:40.762Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/202605159376i",
+    "canonicalUrl": "https://www.hankyung.com/article/202605159376i",
+    "titleFingerprint": "19a69b7f36379eb797c4f3da74f1394992e17196",
+    "dedupKeys": [
+      "dce70d4c993602fecc655046387f599d4fbce5ca",
+      "19a69b7f36379eb797c4f3da74f1394992e17196",
+      "ecad8c8bec5286da2ba026f8ef90064fbcfc1706"
+    ],
+    "imageUrl": "/images/articles/dce70d4c9936.jpg",
+    "i18n": {
+      "ko": {
+        "title": "AI 금융 중개 혁신, 3시간 업무를 1초로 단축할까 [KIW 2026]",
+        "excerpt": "KIW 2026에서 AI가 금융 중개 시장의 업무 시간을 3시간에서 1초로 줄이며 시장 패러다임을 바꿀 수 있다는 전망이 제기됐다.",
+        "body": "KIW 2026에서 인공지능(AI)이 금융 중개 시장의 패러다임을 바꿀 것이라는 메시지가 나왔다. 핵심은 금융 중개 과정에서 걸리던 업무 시간을 기존 3시간에서 1초 수준으로 줄일 수 있다는 점이다. 금융 중개 시장은 정보 확인, 판단, 연결 과정에서 시간이 많이 드는 구조였지만 AI 적용으로 처리 속도와 효율성이 크게 달라질 수 있다는 설명이다. 이번 발언은 AI가 단순 보조 도구를 넘어 금융 서비스의 작동 방식 자체에 영향을 줄 수 있음을 보여준다. 다만 기사에서 제시된 내용은 KIW 2026 현장에서 나온 전망에 기반한다. 출처: hankyung.com"
+      },
+      "en": {
+        "title": "AI in Financial Intermediation Could Cut 3 Hours to 1 Second [KIW 2026]",
+        "excerpt": "At KIW 2026, speakers said AI could reduce financial intermediation work from three hours to one second and reshape the market paradigm.",
+        "body": "At KIW 2026, a message emerged that artificial intelligence could change the paradigm of the financial intermediation market. The key point was that tasks in the intermediation process that once took three hours could be reduced to about one second. Financial intermediation has traditionally required time for information checks, judgment and matching, but AI could significantly alter processing speed and efficiency. The remarks suggest that AI may influence not just support functions but the way financial services operate. The report is based on comments made at KIW 2026. Source: hankyung.com"
+      },
+      "ja": {
+        "title": "AI金融仲介革新、3時間の業務を1秒に短縮か [KIW 2026]",
+        "excerpt": "KIW 2026で、AIが金融仲介市場の業務時間を3時間から1秒へ短縮し、市場のパラダイムを変える可能性が示された。",
+        "body": "KIW 2026で、人工知能（AI）が金融仲介市場のパラダイムを変えるとのメッセージが示された。焦点は、金融仲介の過程で従来3時間かかっていた業務を1秒程度に短縮できる可能性だ。金融仲介市場は情報確認、判断、接続の過程に時間がかかる構造だったが、AIの適用により処理速度と効率が大きく変わり得るという説明だ。今回の発言は、AIが単なる補助ツールを超え、金融サービスの作動方式そのものに影響を与え得ることを示している。ただし内容はKIW 2026で示された見通しに基づく。出典: hankyung.com"
+      },
+      "zh": {
+        "title": "AI金融中介变革：3小时业务或缩至1秒 [KIW 2026]",
+        "excerpt": "KIW 2026上提出，AI可能把金融中介市场中耗时3小时的业务缩短至1秒，并改变市场运行范式。",
+        "body": "在KIW 2026上，有观点指出人工智能（AI）将改变金融中介市场的范式。核心在于，金融中介流程中原本需要3小时的业务，有望缩短至约1秒。金融中介市场过去在信息确认、判断和连接环节耗时较多，而AI的应用可能显著改变处理速度和效率。相关发言显示，AI不只是辅助工具，还可能影响金融服务本身的运行方式。不过，报道内容基于KIW 2026现场提出的展望。来源: hankyung.com"
+      },
+      "es": {
+        "title": "IA en intermediación financiera: de 3 horas a 1 segundo [KIW 2026]",
+        "excerpt": "En KIW 2026 se planteó que la IA puede reducir tareas de intermediación financiera de tres horas a un segundo y cambiar el paradigma del mercado.",
+        "body": "En KIW 2026 se afirmó que la inteligencia artificial puede cambiar el paradigma del mercado de intermediación financiera. El punto central es que procesos que antes tomaban tres horas podrían reducirse a cerca de un segundo. La intermediación financiera suele requerir tiempo para verificar información, tomar decisiones y conectar partes, pero la aplicación de IA podría modificar de forma significativa la velocidad y la eficiencia del procesamiento. El mensaje muestra que la IA puede ir más allá de una herramienta de apoyo e influir en el funcionamiento de los servicios financieros. El contenido se basa en lo expuesto en KIW 2026. Fuente: hankyung.com"
+      },
+      "pt": {
+        "title": "IA na intermediação financeira pode cortar 3 horas para 1 segundo [KIW 2026]",
+        "excerpt": "No KIW 2026, foi apontado que a IA pode reduzir tarefas de intermediação financeira de três horas para um segundo e mudar o paradigma do mercado.",
+        "body": "No KIW 2026, foi apresentada a mensagem de que a inteligência artificial pode mudar o paradigma do mercado de intermediação financeira. O ponto central é que tarefas do processo de intermediação, antes realizadas em três horas, poderiam ser reduzidas a cerca de um segundo. Esse mercado tradicionalmente exige tempo para checagem de informações, avaliação e conexão entre partes, mas a aplicação de IA pode alterar de forma relevante a velocidade e a eficiência. A fala indica que a IA pode ir além de uma ferramenta auxiliar e afetar o próprio funcionamento dos serviços financeiros. O conteúdo se baseia nas declarações feitas no KIW 2026. Fonte: hankyung.com"
+      },
+      "de": {
+        "title": "KIW 2026: KI könnte Finanzvermittlung von 3 Stunden auf 1 Sekunde verkürzen",
+        "excerpt": "Auf der KIW 2026 hieß es, KI könne Aufgaben in der Finanzvermittlung von drei Stunden auf eine Sekunde verkürzen und den Markt verändern.",
+        "body": "Auf der KIW 2026 wurde die Botschaft formuliert, dass künstliche Intelligenz das Paradigma des Finanzvermittlungsmarkts verändern kann. Im Mittelpunkt steht die Möglichkeit, Arbeitsschritte, die bisher drei Stunden dauerten, auf etwa eine Sekunde zu verkürzen. Finanzvermittlung braucht traditionell Zeit für Informationsprüfung, Bewertung und Verbindung von Parteien, doch der Einsatz von KI könnte Geschwindigkeit und Effizienz deutlich verändern. Die Aussage zeigt, dass KI nicht nur als Hilfswerkzeug, sondern auch als Einflussfaktor auf die Funktionsweise von Finanzdienstleistungen gesehen wird. Der Bericht stützt sich auf Aussagen von der KIW 2026. Quelle: hankyung.com"
+      },
+      "fr": {
+        "title": "IA et intermédiation financière : de 3 heures à 1 seconde [KIW 2026]",
+        "excerpt": "Lors du KIW 2026, il a été avancé que l’IA pourrait réduire des tâches d’intermédiation financière de trois heures à une seconde.",
+        "body": "Lors du KIW 2026, l’idée que l’intelligence artificielle pourrait changer le paradigme du marché de l’intermédiation financière a été mise en avant. Le point clé est la possibilité de réduire à environ une seconde des tâches qui prenaient auparavant trois heures. L’intermédiation financière demande du temps pour vérifier les informations, juger les situations et connecter les parties, mais l’application de l’IA pourrait modifier fortement la vitesse et l’efficacité du traitement. Ces propos montrent que l’IA peut dépasser le rôle d’outil d’assistance et influencer le fonctionnement même des services financiers. Le contenu repose sur les propos tenus au KIW 2026. Source: hankyung.com"
+      },
+      "ar": {
+        "title": "الذكاء الاصطناعي في الوساطة المالية: من 3 ساعات إلى ثانية [KIW 2026]",
+        "excerpt": "في KIW 2026 طُرح أن الذكاء الاصطناعي قد يقلص أعمال الوساطة المالية من ثلاث ساعات إلى ثانية واحدة ويغير نموذج السوق.",
+        "body": "في KIW 2026 برزت رسالة تفيد بأن الذكاء الاصطناعي قد يغير نموذج سوق الوساطة المالية. تتمثل النقطة الأساسية في أن أعمالا ضمن عملية الوساطة كانت تستغرق ثلاث ساعات يمكن تقليصها إلى نحو ثانية واحدة. يعتمد سوق الوساطة المالية عادة على وقت طويل للتحقق من المعلومات واتخاذ الحكم وربط الأطراف، لكن تطبيق الذكاء الاصطناعي قد يغير سرعة المعالجة وكفاءتها بشكل كبير. وتوضح هذه التصريحات أن الذكاء الاصطناعي قد يتجاوز دور الأداة المساعدة ليؤثر في طريقة عمل الخدمات المالية نفسها. يستند المحتوى إلى ما طُرح في KIW 2026. المصدر: hankyung.com"
+      },
+      "hi": {
+        "title": "वित्तीय मध्यस्थता में AI: 3 घंटे का काम 1 सेकंड में? [KIW 2026]",
+        "excerpt": "KIW 2026 में कहा गया कि AI वित्तीय मध्यस्थता के काम को तीन घंटे से घटाकर एक सेकंड कर सकता है और बाजार का प्रतिमान बदल सकता है।",
+        "body": "KIW 2026 में यह संदेश सामने आया कि कृत्रिम बुद्धिमत्ता वित्तीय मध्यस्थता बाजार का प्रतिमान बदल सकती है। मुख्य बात यह है कि मध्यस्थता प्रक्रिया में पहले तीन घंटे लगने वाले काम को करीब एक सेकंड तक घटाया जा सकता है। वित्तीय मध्यस्थता बाजार में सूचना की जांच, निर्णय और पक्षों को जोड़ने की प्रक्रिया में समय लगता रहा है, लेकिन AI के उपयोग से प्रसंस्करण की गति और दक्षता काफी बदल सकती है। यह बयान दिखाता है कि AI केवल सहायक उपकरण नहीं, बल्कि वित्तीय सेवाओं के संचालन के तरीके को भी प्रभावित कर सकता है। यह सामग्री KIW 2026 में दिए गए दृष्टिकोण पर आधारित है। स्रोत: hankyung.com"
+      },
+      "id": {
+        "title": "AI di Intermediasi Keuangan Bisa Pangkas 3 Jam Jadi 1 Detik [KIW 2026]",
+        "excerpt": "Di KIW 2026, AI disebut dapat memangkas pekerjaan intermediasi keuangan dari tiga jam menjadi satu detik dan mengubah paradigma pasar.",
+        "body": "Di KIW 2026, muncul pesan bahwa kecerdasan buatan dapat mengubah paradigma pasar intermediasi keuangan. Poin utamanya adalah proses intermediasi yang sebelumnya memerlukan tiga jam dapat dipangkas menjadi sekitar satu detik. Pasar intermediasi keuangan selama ini membutuhkan waktu untuk memeriksa informasi, mengambil penilaian, dan menghubungkan pihak terkait, tetapi penerapan AI dapat mengubah kecepatan serta efisiensi pemrosesan secara signifikan. Pernyataan ini menunjukkan bahwa AI dapat melampaui peran sebagai alat bantu dan memengaruhi cara kerja layanan keuangan itu sendiri. Isi laporan didasarkan pada pandangan yang disampaikan di KIW 2026. Sumber: hankyung.com"
+      }
+    }
+  },
+  {
     "id": "dab227dff05e",
     "slug": "전쟁-때만큼-치솟은-코스피-변동성급등한만큼-조정도-크게-온다-267728",
     "channelId": "ETF",
@@ -4271,231 +4496,6 @@
         "title": "Laba Bersih Kuartal I DB Financial Investment Naik 47,6%",
         "excerpt": "DB Financial Investment menyatakan dalam keterbukaan pada 15 Mei bahwa pendapatan kuartal I mencapai KRW 1,0751 triliun, laba operasi KRW 30,2 miliar, dan laba bersih KRW 30,4 miliar.",
         "body": "DB Financial Investment menyatakan dalam keterbukaan pada 15 Mei bahwa pada kuartal pertama perusahaan mencatat pendapatan KRW 1,0751 triliun, laba operasi KRW 30,2 miliar, dan laba bersih KRW 30,4 miliar. Laba bersih naik 47,6% dibanding periode yang sama tahun sebelumnya. Pendapatan meningkat 145,9% secara tahunan, sementara aset nasabah tumbuh 37,4% dari tahun lalu. Kinerja ini menarik perhatian karena profitabilitas dan skala aset nasabah sama-sama meningkat. Namun, laporan asli tidak memuat rincian kontribusi per segmen bisnis di luar angka yang diumumkan. Investor diperkirakan akan mencermati pertumbuhan aset nasabah dan tren laba operasi. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "6cae60349f6a",
-    "slug": "바이낸스-cso-코인-프로젝트-지속적-보안감사-필요-매일코인-670418",
-    "channelId": "ETF",
-    "category": "etf",
-    "publishedAt": "2026-05-15T05:01:55.765Z",
-    "updatedAt": "2026-05-15T05:01:55.765Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/stock/12048997",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12048997",
-    "titleFingerprint": "37cd1b143a10bf76dca4af44a1411464874e0c98",
-    "dedupKeys": [
-      "6cae60349f6a61f159ad42701c924e425e989ea4",
-      "37cd1b143a10bf76dca4af44a1411464874e0c98",
-      "47b53b8068b6a233a40978660e1ecc6074980342"
-    ],
-    "imageUrl": "/images/articles/6cae60349f6a.png",
-    "i18n": {
-      "ko": {
-        "title": "바이낸스 CSO, 코인 프로젝트에 지속적 보안감사 필요성 강조",
-        "excerpt": "지미 수 바이낸스 최고 보안 책임자는 5월 5~7일 미국에서 코인 프로젝트가 단발성 점검이 아닌 지속적 보안감사와 업데이트로 위험에 대응해야 한다고 밝혔다.",
-        "body": "지미 수(Jimmy Su) 바이낸스 최고 보안 책임자(CSO)는 5월 5~7일 미국에서 코인 프로젝트의 보안은 한 번의 점검으로 끝나지 않으며 지속적인 보안감사와 업데이트가 필요하다고 강조했다. 그는 “보안은 문을 한 번 잠그는 것이 아니라 지속적으로 감시하고 업데이트해야 지킬 수 있다”는 취지로 설명했다. 이번 발언은 코인 프로젝트가 운영 과정에서 보안 상태를 반복적으로 확인해야 한다는 메시지에 초점이 맞춰졌다. 시장 참여자에게는 프로젝트의 기술적 안정성과 관리 체계를 살피는 기준이 될 수 있다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Binance CSO says crypto projects need continuous security audits",
-        "excerpt": "Binance CSO Jimmy Su said during a May 5-7 U.S. event that crypto projects should address risks through ongoing security audits and updates, not one-time checks.",
-        "body": "Jimmy Su, chief security officer at Binance, said during a May 5-7 event in the United States that security for crypto projects does not end with a single review and requires continuous audits and updates. He explained that security is not like locking a door once; it must be protected through constant monitoring and updating. His remarks centered on the need for crypto projects to repeatedly check their security posture during operations. For market participants, this can serve as a reference point when reviewing a project’s technical stability and management system. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "バイナンスCSO、暗号資産プロジェクトに継続的監査を強調",
-        "excerpt": "バイナンスのジミー・スーCSOは5月5〜7日に米国で、暗号資産プロジェクトは一度きりの点検ではなく継続的な監査と更新でリスクに対応すべきだと述べた。",
-        "body": "バイナンスの最高セキュリティ責任者（CSO）であるジミー・スー氏は、5月5〜7日に米国で、暗号資産プロジェクトのセキュリティは一度の点検で終わるものではなく、継続的なセキュリティ監査と更新が必要だと強調した。同氏は、セキュリティはドアを一度施錠するようなものではなく、常に監視し更新してこそ守れるという趣旨で説明した。今回の発言は、プロジェクトが運営過程でセキュリティ状態を繰り返し確認すべきだというメッセージに焦点を当てたものだ。市場参加者にとっては、技術的安定性と管理体制を見る基準になり得る。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "币安CSO强调币圈项目需要持续安全审计与更新",
-        "excerpt": "币安首席安全官Jimmy Su在5月5日至7日于美国表示，币圈项目不应只做一次性检查，而应通过持续安全审计和更新应对风险。",
-        "body": "币安首席安全官（CSO）Jimmy Su于5月5日至7日在美国表示，币圈项目的安全不能止于一次检查，而需要持续进行安全审计和更新。他解释称，安全并不是把门锁上一次就结束，而是必须持续监控并更新才能守住。此次发言聚焦于币圈项目在运营过程中需要反复确认自身安全状态这一信息。对市场参与者而言，这也可成为观察项目技术稳定性和管理体系的一个参考。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "CSO de Binance subraya auditorías de seguridad continuas en cripto",
-        "excerpt": "Jimmy Su, CSO de Binance, dijo del 5 al 7 de mayo en EE. UU. que los proyectos cripto deben afrontar riesgos con auditorías y actualizaciones continuas, no revisiones únicas.",
-        "body": "Jimmy Su, director de seguridad de Binance, afirmó durante un evento celebrado del 5 al 7 de mayo en Estados Unidos que la seguridad de los proyectos cripto no termina con una sola revisión y requiere auditorías de seguridad y actualizaciones continuas. Explicó que la seguridad no consiste en cerrar una puerta una vez, sino en protegerla mediante vigilancia y actualización constantes. Sus declaraciones se centraron en la necesidad de que los proyectos cripto comprueben repetidamente su estado de seguridad durante la operación. Para los participantes del mercado, puede servir como criterio al evaluar la estabilidad técnica y el sistema de gestión de un proyecto. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "CSO da Binance destaca auditorias contínuas em projetos cripto",
-        "excerpt": "Jimmy Su, CSO da Binance, disse entre 5 e 7 de maio nos EUA que projetos cripto devem lidar com riscos por meio de auditorias e atualizações contínuas, não checagens pontuais.",
-        "body": "Jimmy Su, diretor de segurança da Binance, afirmou entre 5 e 7 de maio nos Estados Unidos que a segurança de projetos cripto não termina com uma única verificação e exige auditorias de segurança e atualizações contínuas. Ele explicou que segurança não é trancar a porta uma vez, mas protegê-la com monitoramento e atualização constantes. A declaração destacou a necessidade de projetos cripto verificarem repetidamente sua condição de segurança durante a operação. Para participantes do mercado, isso pode servir como referência ao avaliar a estabilidade técnica e o sistema de gestão de um projeto. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Binance-CSO fordert laufende Sicherheitsaudits für Krypto-Projekte",
-        "excerpt": "Binance-CSO Jimmy Su sagte vom 5. bis 7. Mai in den USA, Krypto-Projekte sollten Risiken nicht mit einmaligen Prüfungen, sondern mit laufenden Audits und Updates begegnen.",
-        "body": "Jimmy Su, Chief Security Officer von Binance, sagte bei einer Veranstaltung vom 5. bis 7. Mai in den USA, dass die Sicherheit von Krypto-Projekten nicht mit einer einmaligen Prüfung endet, sondern fortlaufende Sicherheitsaudits und Updates erfordert. Er erklärte sinngemäß, Sicherheit bedeute nicht, eine Tür einmal abzuschließen, sondern sie durch ständige Überwachung und Aktualisierung zu schützen. Seine Aussage stellte die Notwendigkeit in den Mittelpunkt, den Sicherheitszustand von Krypto-Projekten im laufenden Betrieb wiederholt zu überprüfen. Für Marktteilnehmer kann dies ein Maßstab sein, um technische Stabilität und Managementstrukturen eines Projekts zu bewerten. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Le CSO de Binance appelle à des audits continus pour les projets crypto",
-        "excerpt": "Jimmy Su, CSO de Binance, a déclaré du 5 au 7 mai aux États-Unis que les projets crypto doivent répondre aux risques par des audits et mises à jour continus, non ponctuels.",
-        "body": "Jimmy Su, directeur de la sécurité de Binance, a déclaré lors d’un événement tenu du 5 au 7 mai aux États-Unis que la sécurité des projets crypto ne s’arrête pas à une seule vérification et nécessite des audits de sécurité ainsi que des mises à jour continus. Il a expliqué que la sécurité ne consiste pas à verrouiller une porte une seule fois, mais à la protéger par une surveillance et des mises à jour constantes. Ses propos ont mis l’accent sur la nécessité pour les projets crypto de vérifier régulièrement leur état de sécurité pendant leurs opérations. Pour les acteurs du marché, cela peut servir de repère pour évaluer la stabilité technique et le système de gestion d’un projet. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "مسؤول أمن بينانس يؤكد حاجة مشاريع العملات لتدقيق أمني مستمر",
-        "excerpt": "قال جيمي سو، كبير مسؤولي الأمن في بينانس، خلال 5-7 مايو في الولايات المتحدة إن مشاريع العملات تحتاج إلى تدقيقات وتحديثات أمنية مستمرة لا فحوصات لمرة واحدة.",
-        "body": "قال جيمي سو، كبير مسؤولي الأمن في بينانس، خلال فعالية عُقدت بين 5 و7 مايو في الولايات المتحدة إن أمن مشاريع العملات لا ينتهي بفحص واحد، بل يتطلب تدقيقات أمنية وتحديثات مستمرة. وشرح أن الأمن لا يشبه إغلاق الباب مرة واحدة، بل لا يمكن الحفاظ عليه إلا عبر المراقبة والتحديث بشكل متواصل. وتركزت تصريحاته على ضرورة أن تتحقق مشاريع العملات مرارا من وضعها الأمني أثناء التشغيل. وبالنسبة للمشاركين في السوق، يمكن أن يكون ذلك معيارا عند تقييم الاستقرار التقني ونظام الإدارة في المشروع. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "Binance CSO ने क्रिप्टो परियोजनाओं में निरंतर सुरक्षा ऑडिट पर जोर दिया",
-        "excerpt": "Binance के CSO Jimmy Su ने 5-7 मई को अमेरिका में कहा कि क्रिप्टो परियोजनाओं को एक बार की जांच नहीं, बल्कि लगातार सुरक्षा ऑडिट और अपडेट से जोखिमों का सामना करना चाहिए।",
-        "body": "Binance के मुख्य सुरक्षा अधिकारी Jimmy Su ने 5 से 7 मई के बीच अमेरिका में कहा कि क्रिप्टो परियोजनाओं की सुरक्षा एक बार की जांच से पूरी नहीं होती और इसके लिए लगातार सुरक्षा ऑडिट और अपडेट जरूरी हैं। उन्होंने समझाया कि सुरक्षा दरवाजे को एक बार बंद करने जैसी नहीं है; इसे निरंतर निगरानी और अपडेट के जरिए ही बनाए रखा जा सकता है। उनका बयान इस बात पर केंद्रित था कि क्रिप्टो परियोजनाओं को संचालन के दौरान अपनी सुरक्षा स्थिति बार-बार जांचनी चाहिए। बाजार प्रतिभागियों के लिए यह किसी परियोजना की तकनीकी स्थिरता और प्रबंधन व्यवस्था को देखने का मानक बन सकता है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "CSO Binance tekankan audit keamanan berkelanjutan untuk proyek kripto",
-        "excerpt": "CSO Binance Jimmy Su mengatakan pada 5-7 Mei di AS bahwa proyek kripto harus menghadapi risiko lewat audit keamanan dan pembaruan berkelanjutan, bukan pemeriksaan sekali saja.",
-        "body": "Jimmy Su, chief security officer Binance, mengatakan pada 5-7 Mei di Amerika Serikat bahwa keamanan proyek kripto tidak selesai dengan satu kali pemeriksaan dan membutuhkan audit keamanan serta pembaruan berkelanjutan. Ia menjelaskan bahwa keamanan bukan sekadar mengunci pintu sekali, melainkan harus dijaga melalui pemantauan dan pembaruan terus-menerus. Pernyataan ini berfokus pada pesan bahwa proyek kripto perlu berulang kali memeriksa kondisi keamanannya selama beroperasi. Bagi pelaku pasar, hal itu dapat menjadi acuan saat menilai stabilitas teknis dan sistem pengelolaan sebuah proyek. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "dbf224c77c9e",
-    "slug": "속보-하락전환-코스피-급락에-매도-사이드카-발동-223524",
-    "channelId": "ETF",
-    "category": "etf",
-    "publishedAt": "2026-05-15T05:01:05.990Z",
-    "updatedAt": "2026-05-15T05:01:05.990Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/stock/12049036",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12049036",
-    "titleFingerprint": "e8b3d39994ed302fa43a8682b0923006f866c114",
-    "dedupKeys": [
-      "dbf224c77c9e9644dc3c1d3b6597d2b1213a2015",
-      "e8b3d39994ed302fa43a8682b0923006f866c114",
-      "ec5173ef030caa305fe187e23e82a82186fe53aa"
-    ],
-    "imageUrl": "/images/articles/dbf224c77c9e.jpg",
-    "i18n": {
-      "ko": {
-        "title": "코스피 급락에 매도 사이드카 발동, 하락 전환 충격 확대",
-        "excerpt": "15일 코스피가 장중 하락 전환 뒤 급락하면서 한국거래소가 오후 1시 28분 49초 프로그램매도호가 일시효력정지, 이른바 매도 사이드카를 한 달 만에 다시 발동했다.",
-        "body": "코스피가 15일 장중 하락 전환한 뒤 급락하면서 한국거래소가 프로그램매도호가 일시효력정지, 이른바 매도 사이드카를 발동했다. 한국거래소에 따르면 이날 오후 1시 28분 49초 매도 사이드카가 적용됐다. 원문은 지수가 8000포인트를 찍었지만 이후 7600선으로 급락했다고 전했다. 매도 사이드카는 프로그램 매도 호가의 효력을 일시적으로 멈추는 조치로, 이번 발동은 한 달 만에 다시 이뤄진 것이다. 시장에서는 급격한 낙폭 확대와 프로그램 매도 압력이 단기 변동성을 키운 상황으로 받아들여진다. 관련 내용은 mk.co.kr 보도를 인용했다."
-      },
-      "en": {
-        "title": "KOSPI Sell Sidecar Triggered as Sharp Drop Follows Downturn",
-        "excerpt": "On the 15th, the KOSPI turned lower and plunged, prompting the Korea Exchange to activate a temporary suspension of program sell orders, known as a sell sidecar, at 1:28:49 p.m.",
-        "body": "The KOSPI turned lower during trading on the 15th and fell sharply, leading the Korea Exchange to trigger a temporary suspension of program sell quotations, commonly called a sell sidecar. According to the Korea Exchange, the sell sidecar took effect at 1:28:49 p.m. The original report said the index had touched 8,000 points but then dropped rapidly toward the 7,600 level. A sell sidecar is a measure that temporarily halts the effect of program sell orders. This was the first such activation in about a month. The move highlighted a session in which a steep decline and program selling pressure increased short-term market volatility. This report cites mk.co.kr."
-      },
-      "ja": {
-        "title": "KOSPI急落で売りサイドカー発動、下落転換後に変動性拡大",
-        "excerpt": "15日、KOSPIが取引時間中に下落へ転じて急落し、韓国取引所は午後1時28分49秒、プログラム売り呼値の一時停止措置である売りサイドカーを約1カ月ぶりに発動した。",
-        "body": "KOSPIは15日の取引時間中に下落へ転じた後、急落し、韓国取引所がプログラム売り呼値の一時効力停止、いわゆる売りサイドカーを発動した。韓国取引所によると、同日午後1時28分49秒に売りサイドカーが適用された。原文は、指数が8000ポイントを付けたものの、その後7600台へ急落したと伝えた。売りサイドカーはプログラム売り注文の効力を一時的に止める措置で、今回の発動は約1カ月ぶりとなる。市場では急激な下げ幅拡大とプログラム売り圧力が短期的な変動性を高めた局面と受け止められる。内容はmk.co.krの報道を引用した。"
-      },
-      "zh": {
-        "title": "KOSPI急跌触发卖出Sidecar，下行转换后冲击扩大",
-        "excerpt": "15日，KOSPI盘中转跌并急速下挫，韩国交易所于下午1时28分49秒启动程序化卖出报价临时暂停措施，即卖出Sidecar，这是一个月来再次触发。",
-        "body": "KOSPI在15日盘中转为下跌后急速下挫，韩国交易所启动了程序化卖出报价临时效力停止措施，也就是卖出Sidecar。韩国交易所表示，当天下午1时28分49秒，卖出Sidecar正式适用。原文称，指数曾触及8000点，但随后快速跌至7600一线。卖出Sidecar是暂时停止程序化卖出报价效力的措施，本次触发距离上次约一个月。市场将这一情况视为急剧扩大跌幅和程序化卖压推高短期波动性的表现。相关内容引用自mk.co.kr报道。"
-      },
-      "es": {
-        "title": "KOSPI activa sidecar de venta tras brusca caída y giro bajista",
-        "excerpt": "El día 15, el KOSPI pasó a terreno negativo y se desplomó, por lo que la Bolsa de Corea activó a la 1:28:49 p.m. la suspensión temporal de órdenes de venta programadas, o sidecar de venta.",
-        "body": "El KOSPI giró a la baja durante la sesión del día 15 y cayó con fuerza, lo que llevó a la Bolsa de Corea a activar la suspensión temporal de cotizaciones de venta programada, conocida como sidecar de venta. Según la Bolsa de Corea, la medida se aplicó a la 1:28:49 p.m. El informe original señaló que el índice había tocado los 8.000 puntos, pero luego descendió rápidamente hacia la zona de 7.600. El sidecar de venta detiene temporalmente la eficacia de las órdenes de venta programadas. Esta activación se produjo de nuevo después de un mes. El episodio refleja una sesión en la que la ampliación repentina de las pérdidas y la presión de ventas programadas elevaron la volatilidad de corto plazo. La información cita a mk.co.kr."
-      },
-      "pt": {
-        "title": "KOSPI aciona sidecar de venda após queda forte e virada negativa",
-        "excerpt": "No dia 15, o KOSPI virou para queda e despencou, levando a Bolsa da Coreia a acionar às 13h28min49s a suspensão temporária de ofertas de venda programada, chamada sidecar de venda.",
-        "body": "O KOSPI virou para queda durante o pregão do dia 15 e recuou fortemente, levando a Bolsa da Coreia a acionar a suspensão temporária da eficácia de ofertas de venda programada, conhecida como sidecar de venda. Segundo a Bolsa da Coreia, a medida entrou em vigor às 13h28min49s. A reportagem original afirmou que o índice chegou a tocar 8.000 pontos, mas depois caiu rapidamente para a faixa de 7.600. O sidecar de venda é uma medida que interrompe temporariamente a validade das ordens de venda programadas. Esta foi a primeira ativação em cerca de um mês. O episódio mostra uma sessão em que a ampliação brusca das perdas e a pressão de vendas programadas elevaram a volatilidade de curto prazo. O conteúdo cita reportagem do mk.co.kr."
-      },
-      "de": {
-        "title": "KOSPI löst Verkaufs-Sidecar aus, starker Rückgang nach Dreh ins Minus",
-        "excerpt": "Am 15. drehte der KOSPI im Handel ins Minus und fiel stark, worauf die Korea Exchange um 13:28:49 Uhr eine vorübergehende Aussetzung programmierter Verkaufsorders, den Verkaufs-Sidecar, aktivierte.",
-        "body": "Der KOSPI drehte am 15. während des Handels ins Minus und fiel anschließend stark. Daraufhin aktivierte die Korea Exchange eine vorübergehende Aussetzung der Wirksamkeit programmierter Verkaufsquotierungen, den sogenannten Verkaufs-Sidecar. Nach Angaben der Korea Exchange trat die Maßnahme um 13:28:49 Uhr in Kraft. Der ursprüngliche Bericht meldete, dass der Index zunächst 8.000 Punkte erreicht hatte, danach aber rasch in Richtung 7.600 fiel. Ein Verkaufs-Sidecar stoppt vorübergehend die Wirkung programmierter Verkaufsorders. Es war die erste Aktivierung dieser Art seit rund einem Monat. Die Entwicklung zeigt eine Sitzung, in der ein abrupter Kursrückgang und programmierter Verkaufsdruck die kurzfristige Volatilität erhöhten. Die Angaben zitieren mk.co.kr."
-      },
-      "fr": {
-        "title": "KOSPI: sidecar de vente déclenché après un brusque retournement baissier",
-        "excerpt": "Le 15, le KOSPI est passé en baisse avant de chuter fortement, poussant la Bourse de Corée à activer à 13 h 28 min 49 s la suspension temporaire des ordres de vente programmés, dite sidecar de vente.",
-        "body": "Le KOSPI est passé en territoire négatif pendant la séance du 15, puis a fortement chuté, amenant la Bourse de Corée à déclencher la suspension temporaire de l’effet des cotations de vente programmée, appelée sidecar de vente. Selon la Bourse de Corée, la mesure a été appliquée à 13 h 28 min 49 s. Le texte d’origine indique que l’indice avait atteint 8.000 points avant de retomber rapidement vers 7.600. Le sidecar de vente est une mesure qui suspend temporairement l’efficacité des ordres de vente programmés. Son déclenchement intervient de nouveau après un mois. L’épisode traduit une séance marquée par l’élargissement rapide des pertes et la pression des ventes programmées, qui ont accru la volatilité à court terme. Ces informations citent mk.co.kr."
-      },
-      "ar": {
-        "title": "كوسبي يفعّل سايدكار البيع بعد هبوط حاد وتحول إلى التراجع",
-        "excerpt": "في 15 من الشهر، تحول مؤشر كوسبي إلى الهبوط ثم تراجع بقوة، ما دفع بورصة كوريا إلى تفعيل وقف مؤقت لأوامر البيع المبرمجة، المعروف بسايدكار البيع، عند الساعة 1:28:49 ظهرا.",
-        "body": "تحول مؤشر كوسبي خلال تداولات يوم 15 إلى التراجع ثم هبط بقوة، ما دفع بورصة كوريا إلى تفعيل إجراء الوقف المؤقت لفعالية عروض البيع المبرمجة، المعروف باسم سايدكار البيع. ووفقا لبورصة كوريا، بدأ تطبيق الإجراء عند الساعة 1:28:49 ظهرا. وذكر التقرير الأصلي أن المؤشر لامس مستوى 8000 نقطة، لكنه تراجع بعد ذلك بسرعة إلى منطقة 7600. ويعد سايدكار البيع إجراء يوقف مؤقتا أثر أوامر البيع المبرمجة. وجاء هذا التفعيل مجددا بعد نحو شهر. ويعكس الحدث جلسة زادت فيها حدة الهبوط وضغوط البيع المبرمج من التقلبات قصيرة الأجل. يستند المحتوى إلى تقرير mk.co.kr."
-      },
-      "hi": {
-        "title": "KOSPI में तेज गिरावट, बिकवाली साइडकार फिर सक्रिय",
-        "excerpt": "15 तारीख को KOSPI कारोबार के दौरान गिरावट में बदलकर तेजी से फिसला, जिसके बाद Korea Exchange ने दोपहर 1:28:49 बजे प्रोग्राम सेल ऑर्डर पर अस्थायी रोक, यानी सेल साइडकार, लागू किया।",
-        "body": "15 तारीख को KOSPI कारोबार के दौरान गिरावट में बदलने के बाद तेजी से नीचे आया, जिसके चलते Korea Exchange ने प्रोग्राम सेल कोटेशन की अस्थायी प्रभाव-निलंबन व्यवस्था, जिसे सेल साइडकार कहा जाता है, सक्रिय की। Korea Exchange के अनुसार, यह उपाय दोपहर 1:28:49 बजे लागू हुआ। मूल रिपोर्ट में कहा गया कि सूचकांक ने 8,000 अंक छुए थे, लेकिन उसके बाद तेजी से 7,600 के स्तर तक गिर गया। सेल साइडकार प्रोग्राम आधारित बिक्री आदेशों के प्रभाव को अस्थायी रूप से रोकने वाला कदम है। यह सक्रियता करीब एक महीने बाद फिर हुई है। बाजार ने इसे तीव्र गिरावट और प्रोग्राम बिकवाली दबाव से अल्पकालिक उतार-चढ़ाव बढ़ने की स्थिति के रूप में देखा। यह जानकारी mk.co.kr की रिपोर्ट पर आधारित है।"
-      },
-      "id": {
-        "title": "KOSPI Anjlok, Sidecar Jual Dipicu Setelah Berbalik Turun",
-        "excerpt": "Pada tanggal 15, KOSPI berbalik turun dan jatuh tajam, membuat Bursa Korea mengaktifkan penghentian sementara kuotasi jual program, atau sidecar jual, pada pukul 13:28:49.",
-        "body": "KOSPI berbalik turun dalam perdagangan tanggal 15 dan kemudian jatuh tajam, sehingga Bursa Korea mengaktifkan penghentian sementara efektivitas kuotasi jual program, yang disebut sidecar jual. Menurut Bursa Korea, sidecar jual diterapkan pada pukul 13:28:49. Laporan asli menyebut indeks sempat menyentuh 8.000 poin, tetapi kemudian merosot cepat ke area 7.600. Sidecar jual adalah langkah yang sementara menghentikan efektivitas order jual program. Pemicu kali ini terjadi lagi setelah sekitar satu bulan. Peristiwa tersebut menunjukkan sesi ketika pelebaran penurunan yang cepat dan tekanan jual program meningkatkan volatilitas jangka pendek. Informasi ini mengutip laporan mk.co.kr."
-      }
-    }
-  },
-  {
-    "id": "ed0b81089137",
-    "slug": "단독-롯데그룹-뉴욕팰리스호텔-부지-인수자금-3억달러-증권사-자금으로-전액-조달-376737",
-    "channelId": "ETF",
-    "category": "etf",
-    "publishedAt": "2026-05-15T05:00:04.516Z",
-    "updatedAt": "2026-05-15T05:00:04.516Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/stock/12048758",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12048758",
-    "titleFingerprint": "fa119d5f8dbf5de9df698c0caa030469ea2b1154",
-    "dedupKeys": [
-      "ed0b810891376ecf22158ef3dd69356064707650",
-      "fa119d5f8dbf5de9df698c0caa030469ea2b1154",
-      "6cfd83c22e88662494ea0ae8cbee5df0fb54523e"
-    ],
-    "imageUrl": "/images/articles/ed0b81089137.jpg",
-    "i18n": {
-      "ko": {
-        "title": "롯데호텔 뉴욕팰리스 부지 인수금 3억달러, 증권사 자금으로 전액 조달 완료",
-        "excerpt": "롯데호텔앤리조트가 5월 15일 보도 기준 롯데뉴욕팰리스 호텔 부지 인수에 필요한 3억달러 자금 조달을 마무리했으며, 해당 자금은 증권사 자금으로 전액 마련됐다.",
-        "body": "롯데호텔앤리조트가 롯데뉴욕팰리스 호텔 부지 인수에 필요한 3억달러 자금 조달을 마무리했다. 5월 15일 오전 8시58분 매일경제 자본시장 전문 유료매체 레이더M 보도에 따르면, 이번 인수 자금은 증권사 자금으로 전액 조달됐다. 대상은 뉴욕팰리스호텔 부지이며, 보도는 롯데그룹의 호텔 관련 자산 거래에서 자금 조달 방식이 증권사 자금 중심으로 확정됐다는 점을 전했다. 이번 조달 완료로 롯데호텔앤리조트의 해당 부지 인수 절차는 자금 측면에서 마무리된 것으로 정리된다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Lotte Hotel Secures Full $300 Million Funding for New York Palace Site via Securities Firms",
-        "excerpt": "As reported on May 15, Lotte Hotel & Resorts completed financing for the Lotte New York Palace hotel site acquisition, raising the full $300 million through securities-firm funds.",
-        "body": "Lotte Hotel & Resorts has completed financing for the acquisition of the Lotte New York Palace hotel site. According to Radar M, Maeil Business Newspaper’s paid capital-markets outlet, in a report published at 08:58 on May 15, the full $300 million acquisition funding was raised with money from securities firms. The asset involved is the New York Palace Hotel site. The report said the financing method for this Lotte Group hotel-related asset transaction was finalized around securities-firm funds. With the financing completed, the site acquisition by Lotte Hotel & Resorts is now settled from a funding perspective. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "ロッテホテル、ニューヨークパレス用地取得資金3億ドルを証券会社資金で全額調達",
-        "excerpt": "5月15日の報道によると、ロッテホテル＆リゾートはロッテ・ニューヨークパレスホテル用地取得に必要な3億ドルの資金調達を終え、全額を証券会社資金で賄った。",
-        "body": "ロッテホテル＆リゾートは、ロッテ・ニューヨークパレスホテル用地の取得に必要な3億ドルの資金調達を完了した。5月15日午前8時58分に報じた毎日経済の資本市場専門有料媒体レーダーMによると、今回の取得資金は証券会社の資金で全額調達された。対象はニューヨークパレスホテルの用地で、報道はロッテグループのホテル関連資産取引において、資金調達方式が証券会社資金を中心に確定した点を伝えた。今回の調達完了により、同用地取得は資金面で整理された。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "乐天酒店纽约皇宫酒店地块3亿美元收购资金由券商资金全额筹措",
-        "excerpt": "据5月15日报道，乐天酒店及度假村已完成乐天纽约皇宫酒店地块收购所需3亿美元融资，相关资金全部通过证券公司资金筹措。",
-        "body": "乐天酒店及度假村已完成收购乐天纽约皇宫酒店地块所需的3亿美元资金筹措。每日经济资本市场专业付费媒体Radar M于5月15日08:58报道称，此次收购资金全部由证券公司资金提供。交易标的为纽约皇宫酒店地块。报道指出，在乐天集团这项酒店相关资产交易中，融资方式已确定为以证券公司资金为核心。随着融资完成，乐天酒店及度假村此次地块收购在资金层面已告一段落。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Lotte Hotel financia con firmas de valores los 300 millones de dólares del sitio New York Palace",
-        "excerpt": "Según un reporte del 15 de mayo, Lotte Hotel & Resorts completó la financiación de 300 millones de dólares para adquirir el terreno del Lotte New York Palace con fondos de sociedades de valores.",
-        "body": "Lotte Hotel & Resorts completó la financiación necesaria para adquirir el terreno del hotel Lotte New York Palace por 300 millones de dólares. Según Radar M, el medio pago especializado en mercados de capitales de Maeil Business Newspaper, en una nota publicada a las 08:58 del 15 de mayo, la totalidad del monto fue obtenida con fondos de sociedades de valores. El activo objeto de la operación es el terreno del New York Palace Hotel. El reporte indicó que, en esta transacción de activos hoteleros del Grupo Lotte, el método de financiación quedó definido en torno a recursos de firmas de valores. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Lotte Hotel capta US$ 300 milhões para terreno do New York Palace com corretoras de valores",
-        "excerpt": "Segundo reportagem de 15 de maio, a Lotte Hotel & Resorts concluiu o financiamento de US$ 300 milhões para adquirir o terreno do Lotte New York Palace, todo com recursos de corretoras de valores.",
-        "body": "A Lotte Hotel & Resorts concluiu a captação dos recursos necessários para adquirir o terreno do hotel Lotte New York Palace, no valor de US$ 300 milhões. De acordo com o Radar M, veículo pago especializado em mercado de capitais do Maeil Business Newspaper, em reportagem publicada às 08h58 de 15 de maio, todo o financiamento foi obtido com recursos de corretoras de valores. O ativo envolvido é o terreno do New York Palace Hotel. A reportagem destacou que, nessa transação de ativos hoteleiros do Grupo Lotte, a forma de financiamento foi definida com base em recursos de corretoras. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Lotte Hotel finanziert 300-Millionen-Dollar-Kauf des New-York-Palace-Grundstücks über Wertpapierhäuser",
-        "excerpt": "Lotte Hotel & Resorts hat laut Bericht vom 15. Mai die Finanzierung für den Erwerb des Lotte-New-York-Palace-Grundstücks abgeschlossen; die gesamten 300 Millionen Dollar stammen von Wertpapierfirmen.",
-        "body": "Lotte Hotel & Resorts hat die Finanzierung für den Erwerb des Grundstücks des Lotte New York Palace Hotel abgeschlossen. Wie Radar M, das kostenpflichtige Kapitalmarktmedium der Maeil Business Newspaper, am 15. Mai um 08:58 Uhr berichtete, wurden die gesamten 300 Millionen Dollar Erwerbsfinanzierung mit Mitteln von Wertpapierfirmen aufgebracht. Gegenstand ist das Grundstück des New York Palace Hotel. Der Bericht stellte heraus, dass bei dieser hotelbezogenen Vermögenstransaktion der Lotte Group die Finanzierungsstruktur auf Mittel von Wertpapierhäusern festgelegt wurde. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Lotte Hotel finance les 300 millions de dollars du site New York Palace par des sociétés de titres",
-        "excerpt": "Selon un article du 15 mai, Lotte Hotel & Resorts a finalisé le financement de 300 millions de dollars pour acquérir le site du Lotte New York Palace, entièrement via des fonds de sociétés de titres.",
-        "body": "Lotte Hotel & Resorts a finalisé le financement nécessaire à l’acquisition du site de l’hôtel Lotte New York Palace, pour un montant de 300 millions de dollars. Selon Radar M, le média payant de Maeil Business Newspaper spécialisé dans les marchés de capitaux, dans un article publié le 15 mai à 08h58, la totalité du financement a été obtenue grâce à des fonds de sociétés de titres. L’actif concerné est le site du New York Palace Hotel. L’article indique que, pour cette transaction d’actif hôtelier du groupe Lotte, le mode de financement a été arrêté autour de ces fonds. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "لوتيه هوتيل تمول كامل 300 مليون دولار لموقع نيويورك بالاس عبر شركات أوراق مالية",
-        "excerpt": "بحسب تقرير في 15 مايو، أنهت لوتيه هوتيل آند ريزورتس تمويل الاستحواذ على موقع فندق لوتيه نيويورك بالاس بقيمة 300 مليون دولار، وجاء التمويل بالكامل من شركات أوراق مالية.",
-        "body": "أنهت لوتيه هوتيل آند ريزورتس تمويل الاستحواذ على موقع فندق لوتيه نيويورك بالاس بقيمة 300 مليون دولار. ووفق ما نشرته Radar M، الوسيلة المدفوعة المتخصصة في أسواق رأس المال التابعة لصحيفة Maeil Business Newspaper، عند الساعة 08:58 في 15 مايو، فقد جرى توفير كامل مبلغ الاستحواذ من أموال شركات أوراق مالية. الأصل المعني هو موقع فندق نيويورك بالاس. وأوضح التقرير أن طريقة التمويل في صفقة الأصول الفندقية هذه التابعة لمجموعة لوتيه حُسمت على أساس أموال شركات الأوراق المالية. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "लोट्टे होटल ने न्यूयॉर्क पैलेस साइट के लिए 30 करोड़ डॉलर पूरी तरह सिक्योरिटीज फर्मों से जुटाए",
-        "excerpt": "15 मई की रिपोर्ट के अनुसार, Lotte Hotel & Resorts ने Lotte New York Palace होटल साइट अधिग्रहण के लिए 30 करोड़ डॉलर की फंडिंग पूरी कर ली, और पूरी रकम सिक्योरिटीज फर्मों के धन से जुटाई गई।",
-        "body": "Lotte Hotel & Resorts ने Lotte New York Palace होटल साइट के अधिग्रहण के लिए आवश्यक 30 करोड़ डॉलर की फंडिंग पूरी कर ली है। Maeil Business Newspaper के कैपिटल मार्केट पर केंद्रित पेड मीडिया Radar M ने 15 मई सुबह 08:58 पर बताया कि यह पूरी अधिग्रहण राशि सिक्योरिटीज फर्मों के धन से जुटाई गई। संबंधित परिसंपत्ति New York Palace Hotel की साइट है। रिपोर्ट के अनुसार, Lotte Group के इस होटल-संबंधित एसेट लेनदेन में फंडिंग का तरीका सिक्योरिटीज फर्मों के धन पर आधारित तय हुआ। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Lotte Hotel Danai Akuisisi Lahan New York Palace US$300 Juta Sepenuhnya dari Sekuritas",
-        "excerpt": "Menurut laporan 15 Mei, Lotte Hotel & Resorts telah menyelesaikan pendanaan akuisisi lahan Lotte New York Palace senilai US$300 juta, seluruhnya dari dana perusahaan sekuritas.",
-        "body": "Lotte Hotel & Resorts telah menyelesaikan pendanaan untuk akuisisi lahan hotel Lotte New York Palace senilai US$300 juta. Menurut Radar M, media berbayar khusus pasar modal milik Maeil Business Newspaper, dalam laporan yang terbit pukul 08:58 pada 15 Mei, seluruh dana akuisisi tersebut diperoleh dari perusahaan sekuritas. Aset yang menjadi objek adalah lahan New York Palace Hotel. Laporan itu menyebutkan bahwa dalam transaksi aset terkait hotel milik Lotte Group ini, metode pendanaan telah ditetapkan dengan menggunakan dana perusahaan sekuritas. Sumber: mk.co.kr"
       }
     }
   }
