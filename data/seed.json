@@ -1,5 +1,230 @@
 [
   {
+    "id": "9d0bd0d7f760",
+    "slug": "금융위-조각투자증권-묶음-발행-허용한다-855445",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-05-15T06:23:03.256Z",
+    "updatedAt": "2026-05-15T06:23:03.256Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/stock/12049138",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12049138",
+    "titleFingerprint": "a0e11218e58cb28b0e3821449fef352abf7e940b",
+    "dedupKeys": [
+      "9d0bd0d7f760cc906e388d324e45392d4ca423ce",
+      "a0e11218e58cb28b0e3821449fef352abf7e940b",
+      "012306c471b134c96af6c4e3eff31f9a3b57ec89"
+    ],
+    "imageUrl": "/images/articles/9d0bd0d7f760.jpg",
+    "i18n": {
+      "ko": {
+        "title": "금융위, 조각투자증권 묶음 발행 허용 추진…7월 가이드라인 예고",
+        "excerpt": "금융위원회가 토큰증권 제도화에 맞춰 동일종류 기초자산 조각투자증권의 묶음 발행을 허용하고, 장외거래소 거래한도 기준을 7월 중 제시한다.",
+        "body": "금융위원회는 민관합동 토큰증권협의 2차 회의에서 토큰증권 제도화에 맞춰 동일종류 기초자산을 일정 요건 아래 묶어 조각투자증권으로 발행할 수 있도록 허용하는 방안을 밝혔다. 권대영 금융위 관계자는 장외거래소 거래한도와 관련해 시장 유동성을 확충할 수 있도록 설정하겠다고 설명했다. 금융위는 관련 가이드라인을 7월 중 발표할 계획이다. 이번 방안은 조각투자증권 발행 구조와 장외 유통시장 운영 기준을 구체화하는 데 초점이 맞춰졌다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "FSC to allow bundled issuance of fractional investment securities in token securities push",
+        "excerpt": "South Korea’s Financial Services Commission will permit bundled issuance of fractional investment securities backed by the same type of assets and release OTC trading-limit guidelines in July.",
+        "body": "South Korea’s Financial Services Commission said at the second public-private Token Securities Council meeting that it plans to allow fractional investment securities backed by the same type of underlying assets to be issued in bundles under certain conditions, in line with token securities institutionalization. FSC official Kwon Dae-young said OTC exchange trading limits will be set to help expand market liquidity. The commission plans to announce related guidelines in July. The measure focuses on clarifying issuance structures for fractional investment securities and operating standards for the OTC trading market. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "金融委、投資持分証券の一括発行を容認へ…7月に指針公表",
+        "excerpt": "韓国金融委員会はトークン証券制度化に合わせ、同種の基礎資産を裏付ける投資持分証券の一括発行を認め、7月に店頭取引限度の指針を示す。",
+        "body": "韓国金融委員会は、官民合同トークン証券協議の第2回会議で、トークン証券の制度化に合わせ、同一種類の基礎資産を一定の要件の下でまとめて投資持分証券として発行できるようにする方針を明らかにした。金融委のクォン・デヨン氏は、店頭取引所の取引限度について、市場流動性を拡充できるよう設定すると説明した。金融委は関連ガイドラインを7月中に公表する予定だ。今回の方針は、投資持分証券の発行構造と店頭流通市場の運営基準を具体化することに重点を置く。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "韩国金融委拟允许零碎投资证券打包发行，7月发布指引",
+        "excerpt": "韩国金融委员会将配合代币证券制度化，允许同类基础资产零碎投资证券打包发行，并于7月提出场外交易所交易限额指引。",
+        "body": "韩国金融委员会在公私联合代币证券协议第二次会议上表示，将配合代币证券制度化，允许在一定条件下把同一类型基础资产打包发行成零碎投资证券。金融委相关人士权大永说明，场外交易所交易限额将以扩大市场流动性为方向进行设定。金融委计划在7月内发布相关指引。此举重点在于细化零碎投资证券的发行结构，以及场外流通市场的运营标准。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Corea permitirá emisiones agrupadas de valores de inversión fraccionada",
+        "excerpt": "La Comisión de Servicios Financieros de Corea permitirá emitir en paquete valores de inversión fraccionada con activos subyacentes del mismo tipo y publicará directrices en julio.",
+        "body": "La Comisión de Servicios Financieros de Corea del Sur informó en la segunda reunión del Consejo público-privado de Valores Tokenizados que, en línea con la institucionalización de estos instrumentos, permitirá emitir en paquetes valores de inversión fraccionada respaldados por activos subyacentes del mismo tipo bajo ciertos requisitos. Kwon Dae-young, de la FSC, explicó que los límites de negociación en el mercado extrabursátil se fijarán de modo que ayuden a ampliar la liquidez del mercado. La comisión prevé anunciar las directrices relacionadas en julio. La medida busca concretar la estructura de emisión y las normas operativas del mercado OTC. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Coreia permitirá emissão em bloco de títulos de investimento fracionado",
+        "excerpt": "A Comissão de Serviços Financeiros da Coreia permitirá emissões agrupadas de títulos de investimento fracionado lastreados no mesmo tipo de ativo e divulgará diretrizes em julho.",
+        "body": "A Comissão de Serviços Financeiros da Coreia do Sul informou, na segunda reunião do Conselho público-privado de Títulos Tokenizados, que pretende permitir a emissão em bloco de títulos de investimento fracionado lastreados em ativos subjacentes do mesmo tipo, sob certas condições, em linha com a institucionalização dos títulos tokenizados. Kwon Dae-young, da FSC, disse que os limites de negociação em bolsa de balcão serão definidos para ampliar a liquidez do mercado. A comissão planeja divulgar as diretrizes relacionadas em julho. A medida detalha a estrutura de emissão e os padrões do mercado OTC. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Südkorea will gebündelte Ausgabe fraktionierter Investmentpapiere erlauben",
+        "excerpt": "Südkoreas Finanzaufsicht will gebündelte Emissionen fraktionierter Investmentpapiere mit gleichartigen Basiswerten zulassen und im Juli Leitlinien zu OTC-Handelslimits veröffentlichen.",
+        "body": "Die südkoreanische Finanzdienstleistungskommission erklärte auf der zweiten Sitzung des öffentlich-privaten Token-Securities-Rats, sie wolle im Zuge der Institutionalisierung von Token-Wertpapieren die gebündelte Ausgabe fraktionierter Investmentpapiere auf Basis gleichartiger Basiswerte unter bestimmten Voraussetzungen erlauben. FSC-Vertreter Kwon Dae-young sagte, die Handelslimits für außerbörsliche Handelsplätze würden so festgelegt, dass sie zur Ausweitung der Marktliquidität beitragen. Die Behörde will die entsprechenden Leitlinien im Juli veröffentlichen. Im Mittelpunkt stehen Emissionsstruktur und Betriebsstandards des OTC-Markts. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "La Corée autorisera l’émission groupée de titres d’investissement fractionné",
+        "excerpt": "La Commission sud-coréenne des services financiers permettra l’émission groupée de titres d’investissement fractionné adossés à des actifs de même type et publiera des lignes directrices en juillet.",
+        "body": "La Commission sud-coréenne des services financiers a indiqué, lors de la deuxième réunion du Conseil public-privé sur les titres tokenisés, qu’elle entend autoriser, sous certaines conditions, l’émission groupée de titres d’investissement fractionné adossés au même type d’actifs sous-jacents, dans le cadre de l’institutionnalisation des titres tokenisés. Kwon Dae-young, responsable de la FSC, a expliqué que les limites de négociation sur les plateformes de gré à gré seraient fixées de manière à renforcer la liquidité du marché. Les lignes directrices seront publiées en juillet. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "كوريا تسمح بإصدار مجمع لأوراق الاستثمار المجزأ ضمن تنظيم الأوراق المرمزة",
+        "excerpt": "تعتزم لجنة الخدمات المالية الكورية السماح بإصدار مجمع لأوراق الاستثمار المجزأ المدعومة بأصول أساسية من النوع نفسه، مع إعلان إرشادات حدود التداول خارج البورصة في يوليو.",
+        "body": "قالت لجنة الخدمات المالية في كوريا الجنوبية، خلال الاجتماع الثاني للمجلس المشترك بين القطاعين العام والخاص للأوراق المالية المرمزة، إنها ستسمح بإصدار أوراق الاستثمار المجزأ في حزم عندما تكون مدعومة بالنوع نفسه من الأصول الأساسية وتستوفي شروطا محددة، وذلك بالتوازي مع مأسسة الأوراق المرمزة. وأوضح كوون داي يونغ من اللجنة أن حدود التداول في السوق خارج البورصة ستحدد بطريقة تساعد على توسيع سيولة السوق. وتخطط اللجنة لإعلان الإرشادات ذات الصلة في يوليو. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "कोरिया में फ्रैक्शनल निवेश प्रतिभूतियों के बंडल इश्यू को अनुमति मिलेगी",
+        "excerpt": "दक्षिण कोरिया का वित्तीय सेवा आयोग समान प्रकार की आधारभूत परिसंपत्तियों वाली फ्रैक्शनल निवेश प्रतिभूतियों के बंडल इश्यू की अनुमति देगा और जुलाई में OTC सीमा दिशानिर्देश जारी करेगा।",
+        "body": "दक्षिण कोरिया के वित्तीय सेवा आयोग ने सार्वजनिक-निजी टोकन सिक्योरिटीज काउंसिल की दूसरी बैठक में कहा कि टोकन प्रतिभूतियों के संस्थानीकरण के अनुरूप, समान प्रकार की आधारभूत परिसंपत्तियों को कुछ शर्तों के तहत बंडल कर फ्रैक्शनल निवेश प्रतिभूतियों के रूप में जारी करने की अनुमति दी जाएगी। आयोग के अधिकारी क्वोन डे-यंग ने कहा कि OTC एक्सचेंज की ट्रेडिंग सीमाएं बाजार की तरलता बढ़ाने में सहायक तरीके से तय की जाएंगी। आयोग जुलाई में संबंधित दिशानिर्देश जारी करने की योजना रखता है। यह कदम जारी ढांचे और OTC बाजार संचालन मानकों को स्पष्ट करेगा। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Korea izinkan penerbitan paket sekuritas investasi fraksional mulai diarahkan",
+        "excerpt": "Komisi Jasa Keuangan Korea akan mengizinkan penerbitan paket sekuritas investasi fraksional berbasis aset sejenis dan merilis pedoman batas transaksi bursa OTC pada Juli.",
+        "body": "Komisi Jasa Keuangan Korea Selatan menyampaikan dalam rapat kedua Dewan Sekuritas Token publik-swasta bahwa, sejalan dengan pelembagaan sekuritas token, pihaknya akan mengizinkan aset dasar dengan jenis yang sama diterbitkan secara paket sebagai sekuritas investasi fraksional dengan syarat tertentu. Pejabat FSC Kwon Dae-young menjelaskan bahwa batas transaksi bursa luar bursa akan ditetapkan agar dapat memperluas likuiditas pasar. Komisi berencana mengumumkan pedoman terkait pada Juli. Kebijakan ini berfokus pada perincian struktur penerbitan dan standar operasi pasar OTC. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "43f81ea87a07",
+    "slug": "원화값-한-달여-만에-장중-1500원선-넘어코스피-7넘게-급락-135901",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-05-15T06:22:01.688Z",
+    "updatedAt": "2026-05-15T06:22:01.688Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/stock/12049140",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12049140",
+    "titleFingerprint": "19c2000e08fb8e01168caa88cb82c9af193b5982",
+    "dedupKeys": [
+      "43f81ea87a079bcb7124f98c92db5cd411d025c1",
+      "19c2000e08fb8e01168caa88cb82c9af193b5982",
+      "b82c3892593e3d92b5147a4aca8d82e20d9d993c"
+    ],
+    "imageUrl": "/images/articles/43f81ea87a07.jpg",
+    "i18n": {
+      "ko": {
+        "title": "원화값 장중 1500원선 돌파, 코스피 7%대 급락에 시장 긴장",
+        "excerpt": "15일 오후 서울 외환시장에서 달러당 원화값이 한 달여 만에 장중 1500원선을 넘었고, 코스피는 7% 넘게 급락하며 금융시장 변동성이 커졌다.",
+        "body": "15일 오후 서울 외환시장에서 달러당 원화값이 한 달여 만에 장중 1500원선을 넘어섰다. 같은 시간 코스피는 7%대 급락세를 보이며 국내 금융시장의 불안이 커졌다. 오후 2시 13분 기준 달러당 원화값은 전 거래일 주간 거래 종가보다 크게 움직이며 1500원선을 웃돌았다. 원화값의 장중 1500원선 돌파는 최근 한 달여 만의 일이다. 환율 급등과 주가 급락이 동시에 나타나면서 투자자들은 외환시장과 주식시장의 변동성을 주시하고 있다. 이번 흐름은 원화 약세와 코스피 급락이 맞물린 장중 상황으로, 향후 거래 마감가와 시장 대응이 관심사다. 출처: mk.co.kr."
+      },
+      "en": {
+        "title": "Won Crosses 1,500 Intraday as Kospi Plunges More Than 7%",
+        "excerpt": "On the afternoon of the 15th, the won crossed the 1,500-per-dollar level intraday for the first time in over a month, while the Kospi fell more than 7%.",
+        "body": "On the afternoon of the 15th, the Korean won crossed the 1,500 level against the U.S. dollar intraday in Seoul’s foreign exchange market for the first time in over a month. At the same time, the Kospi was plunging by more than 7%, heightening volatility in domestic financial markets. As of 2:13 p.m., the won-dollar rate was above 1,500, moving sharply from the previous daytime trading close. The simultaneous jump in the exchange rate and steep decline in equities drew investor attention to both currency and stock market swings. The intraday move highlights a session marked by won weakness and a sharp Kospi selloff. Source: mk.co.kr."
+      },
+      "ja": {
+        "title": "ウォン相場が一時1500ウォン台、コスピは7％超急落",
+        "excerpt": "15日午後、ソウル外国為替市場でウォン相場は1カ月余りぶりに一時1ドル＝1500ウォン台を突破し、コスピは7％超下落した。",
+        "body": "15日午後、ソウル外国為替市場でウォン相場は1カ月余りぶりに取引時間中に1ドル＝1500ウォン台を超えた。同じ時間帯にコスピは7％台の急落となり、韓国金融市場の変動性が高まった。午後2時13分時点で、ドルに対するウォン相場は前営業日の昼間取引終値から大きく動き、1500ウォン台を上回った。ウォン相場が取引時間中に1500ウォン台を突破したのは最近1カ月余りで初めて。為替の急変と株価急落が同時に進み、投資家は外為市場と株式市場の動きを注視している。出典: mk.co.kr."
+      },
+      "zh": {
+        "title": "韩元盘中跌破1500关口，Kospi指数暴跌逾7%",
+        "excerpt": "15日下午，首尔外汇市场韩元对美元汇率一个多月来盘中首次越过1500韩元关口，Kospi指数同时下跌超过7%。",
+        "body": "15日下午，首尔外汇市场韩元对美元汇率一个多月来盘中首次越过1500韩元关口。与此同时，Kospi指数跌幅超过7%，韩国金融市场波动加剧。截至下午2时13分，韩元对美元汇率较前一交易日日间交易收盘价大幅变动，并处于1500韩元线上方。韩元盘中越过1500关口是近一个多月来的首次。汇率快速上行与股市急跌同时出现，使投资者关注外汇市场和股票市场的波动。此次走势反映出盘中韩元走弱与Kospi急跌并行的局面，后续收盘价和市场反应受到关注。来源: mk.co.kr."
+      },
+      "es": {
+        "title": "El won supera los 1.500 por dólar intradía y el Kospi cae más del 7%",
+        "excerpt": "El día 15 por la tarde, el won superó intradía los 1.500 por dólar por primera vez en más de un mes, mientras el Kospi retrocedía más del 7%.",
+        "body": "El día 15 por la tarde, en el mercado cambiario de Seúl, el won surcoreano superó intradía el nivel de 1.500 por dólar por primera vez en más de un mes. Al mismo tiempo, el Kospi registraba una caída superior al 7%, aumentando la volatilidad en los mercados financieros locales. A las 14:13, el tipo de cambio won-dólar se situaba por encima de 1.500, con un movimiento marcado frente al cierre de la sesión diurna anterior. El cruce intradía de ese nivel no se veía desde hacía más de un mes. La subida del tipo de cambio y la fuerte caída bursátil llevaron a los inversores a vigilar de cerca ambos mercados. Fuente: mk.co.kr."
+      },
+      "pt": {
+        "title": "Won passa de 1.500 por dólar no intradia e Kospi cai mais de 7%",
+        "excerpt": "Na tarde do dia 15, o won superou no intradia a marca de 1.500 por dólar pela primeira vez em mais de um mês, enquanto o Kospi caía mais de 7%.",
+        "body": "Na tarde do dia 15, no mercado de câmbio de Seul, o won sul-coreano ultrapassou no intradia a marca de 1.500 por dólar pela primeira vez em mais de um mês. No mesmo período, o Kospi caía mais de 7%, ampliando a volatilidade nos mercados financeiros locais. Às 14h13, a cotação won-dólar estava acima de 1.500, com forte movimento em relação ao fechamento da negociação diurna anterior. A passagem intradiária por esse nível ocorre após mais de um mês. A alta do câmbio e a queda acentuada das ações fizeram investidores acompanharem de perto os mercados de moeda e bolsa. Fonte: mk.co.kr."
+      },
+      "de": {
+        "title": "Won überschreitet intraday 1.500 je Dollar, Kospi fällt über 7%",
+        "excerpt": "Am Nachmittag des 15. überschritt der Won in Seoul erstmals seit über einem Monat intraday die Marke von 1.500 je Dollar, während der Kospi über 7% verlor.",
+        "body": "Am Nachmittag des 15. überschritt der südkoreanische Won am Devisenmarkt in Seoul erstmals seit mehr als einem Monat intraday die Marke von 1.500 je US-Dollar. Gleichzeitig brach der Kospi um mehr als 7% ein, wodurch die Volatilität an den heimischen Finanzmärkten zunahm. Um 14:13 Uhr lag der Won-Dollar-Kurs über 1.500 und bewegte sich deutlich gegenüber dem Schlussstand des vorherigen Tageshandels. Der intraday erreichte 1.500er-Bereich ist der erste seit gut einem Monat. Der gleichzeitige Anstieg des Wechselkurses und der starke Aktienrückgang lenkten den Blick der Anleger auf Devisen- und Aktienmarkt. Quelle: mk.co.kr."
+      },
+      "fr": {
+        "title": "Le won franchit 1 500 par dollar en séance, le Kospi chute de plus de 7%",
+        "excerpt": "Dans l’après-midi du 15, le won a franchi en séance le seuil de 1 500 pour un dollar pour la première fois en plus d’un mois, tandis que le Kospi reculait de plus de 7%.",
+        "body": "Dans l’après-midi du 15, sur le marché des changes de Séoul, le won sud-coréen a franchi en séance le seuil de 1 500 pour un dollar pour la première fois en plus d’un mois. Au même moment, le Kospi chutait de plus de 7%, renforçant la volatilité des marchés financiers coréens. À 14h13, le taux won-dollar évoluait au-dessus de 1 500, avec un mouvement marqué par rapport à la clôture de la séance de jour précédente. Le franchissement intrajournalier de ce niveau n’avait pas été observé depuis plus d’un mois. La hausse du change et la forte baisse des actions ont attiré l’attention des investisseurs. Source: mk.co.kr."
+      },
+      "ar": {
+        "title": "الوون يتجاوز 1500 للدولار خلال الجلسة وكوسبي يهبط بأكثر من 7%",
+        "excerpt": "بعد ظهر يوم 15، تجاوز الوون الكوري مستوى 1500 مقابل الدولار خلال التعاملات لأول مرة منذ أكثر من شهر، بينما هبط مؤشر كوسبي بأكثر من 7%.",
+        "body": "بعد ظهر يوم 15، تجاوز الوون الكوري في سوق الصرف في سول مستوى 1500 مقابل الدولار خلال التعاملات لأول مرة منذ أكثر من شهر. وفي الوقت نفسه، كان مؤشر كوسبي يهبط بأكثر من 7%، ما زاد تقلبات الأسواق المالية المحلية. وبحلول الساعة 2:13 بعد الظهر، كان سعر صرف الوون مقابل الدولار فوق مستوى 1500، متحركا بشكل واضح مقارنة بإغلاق التداول النهاري السابق. ويعد تجاوز هذا المستوى خلال الجلسة الأول في أكثر من شهر. تزامن ارتفاع سعر الصرف مع الهبوط الحاد للأسهم دفع المستثمرين إلى متابعة تحركات سوقي العملات والأسهم. المصدر: mk.co.kr."
+      },
+      "hi": {
+        "title": "वॉन इंट्राडे 1,500 प्रति डॉलर के पार, Kospi 7% से अधिक टूटा",
+        "excerpt": "15 तारीख की दोपहर सियोल विदेशी मुद्रा बाजार में वॉन एक महीने से अधिक समय बाद इंट्राडे 1,500 प्रति डॉलर के पार गया, जबकि Kospi 7% से अधिक गिरा।",
+        "body": "15 तारीख की दोपहर सियोल के विदेशी मुद्रा बाजार में कोरियाई वॉन एक महीने से अधिक समय बाद इंट्राडे 1,500 प्रति डॉलर के स्तर से ऊपर चला गया। इसी समय Kospi 7% से अधिक की गिरावट दिखा रहा था, जिससे घरेलू वित्तीय बाजारों में अस्थिरता बढ़ी। दोपहर 2:13 बजे तक वॉन-डॉलर दर 1,500 से ऊपर थी और पिछले कारोबारी दिन के दिन के कारोबार के बंद स्तर से तेज बदलाव दिखा रही थी। वॉन का इंट्राडे 1,500 स्तर पार करना हाल के एक महीने से अधिक समय में पहली बार है। विनिमय दर में उछाल और शेयर बाजार की तेज गिरावट ने निवेशकों का ध्यान दोनों बाजारों पर केंद्रित किया। स्रोत: mk.co.kr."
+      },
+      "id": {
+        "title": "Won Tembus 1.500 per Dolar Intraday, Kospi Anjlok Lebih dari 7%",
+        "excerpt": "Pada siang hari tanggal 15, won menembus level 1.500 per dolar secara intraday untuk pertama kalinya dalam lebih dari sebulan, sementara Kospi turun lebih dari 7%.",
+        "body": "Pada siang hari tanggal 15, di pasar valuta asing Seoul, won Korea Selatan menembus level 1.500 per dolar AS secara intraday untuk pertama kalinya dalam lebih dari sebulan. Pada saat yang sama, Kospi anjlok lebih dari 7%, meningkatkan volatilitas pasar keuangan domestik. Hingga pukul 14.13, nilai tukar won-dolar berada di atas 1.500 dan bergerak tajam dibandingkan penutupan perdagangan siang hari sebelumnya. Penembusan level 1.500 secara intraday ini menjadi yang pertama dalam lebih dari sebulan terakhir. Kenaikan nilai tukar dan penurunan tajam saham membuat investor mencermati pasar valas dan saham. Sumber: mk.co.kr."
+      }
+    }
+  },
+  {
+    "id": "354c7b590c49",
+    "slug": "db증권-1분기-당기순이익-304억원-전년比-476-900054",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-05-15T06:21:05.565Z",
+    "updatedAt": "2026-05-15T06:21:05.565Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/stock/12049142",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12049142",
+    "titleFingerprint": "153e83586e282408a3fba090aeb2ec529583f992",
+    "dedupKeys": [
+      "354c7b590c4978eeb0b0d480598741b958f05b85",
+      "153e83586e282408a3fba090aeb2ec529583f992",
+      "98cc5b526cf068b3b9630ffbe3984c7aeace2ed7"
+    ],
+    "imageUrl": "/images/articles/354c7b590c49.png",
+    "i18n": {
+      "ko": {
+        "title": "DB증권 1분기 순이익 304억원, 전년 대비 47.6% 증가",
+        "excerpt": "DB증권은 15일 공시를 통해 올해 1분기 매출 1조751억원, 영업이익 302억원, 당기순이익 304억원을 기록했다고 밝혔다.",
+        "body": "DB증권은 15일 공시에서 올해 1분기 매출 1조751억원, 영업이익 302억원, 당기순이익 304억원을 기록했다고 밝혔다. 당기순이익은 전년 동기 대비 47.6% 증가했다. 매출은 전년 동기보다 145.9% 늘었고, 고객자산도 전년 대비 37.4% 증가한 것으로 집계됐다. 이번 실적은 수익성과 고객자산 규모가 함께 확대됐다는 점에서 주목된다. 다만 회사가 공시한 수치 외의 세부 사업 부문별 기여도는 원문에 제시되지 않았다. 향후 투자자들은 고객자산 증가 흐름과 영업이익 추이를 함께 살필 것으로 보인다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "DB Financial Investment Q1 Net Profit Rises 47.6% to KRW 30.4 Billion",
+        "excerpt": "DB Financial Investment said in a May 15 filing that Q1 revenue reached KRW 1.0751 trillion, with operating profit of KRW 30.2 billion and net profit of KRW 30.4 billion.",
+        "body": "DB Financial Investment said in a May 15 regulatory filing that it recorded first-quarter revenue of KRW 1.0751 trillion, operating profit of KRW 30.2 billion and net profit of KRW 30.4 billion. Net profit increased 47.6% from the same period a year earlier. Revenue rose 145.9% year on year, while customer assets grew 37.4% from a year earlier. The results draw attention because profitability and customer asset scale both expanded. However, the original report did not provide detailed contributions by business segment beyond the disclosed figures. Investors are expected to watch customer asset growth and operating profit trends together. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "DB証券、1四半期純利益304億ウォン 前年比47.6%増",
+        "excerpt": "DB証券は15日の公示で、今年第1四半期の売上高が1兆751億ウォン、営業利益が302億ウォン、純利益が304億ウォンだったと発表した。",
+        "body": "DB証券は15日の公示で、今年第1四半期に売上高1兆751億ウォン、営業利益302億ウォン、純利益304億ウォンを記録したと明らかにした。純利益は前年同期比47.6%増加した。売上高は前年同期より145.9%増え、顧客資産も前年に比べ37.4%増加したと集計された。今回の業績は、収益性と顧客資産規模がともに拡大した点で注目される。ただし、公示された数値以外の事業部門別の寄与度は原文では示されていない。今後、投資家は顧客資産の増加傾向と営業利益の推移をあわせて確認するとみられる。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "DB证券一季度净利润304亿韩元 同比增长47.6%",
+        "excerpt": "DB证券15日公告称，今年一季度实现营收1.0751万亿韩元，营业利润302亿韩元，净利润304亿韩元。",
+        "body": "DB证券15日在公告中表示，今年第一季度实现营收1.0751万亿韩元、营业利润302亿韩元、净利润304亿韩元。净利润较去年同期增长47.6%。营收同比增长145.9%，客户资产也较去年增加37.4%。此次业绩因盈利能力和客户资产规模同步扩大而受到关注。不过，除已公告数据外，原文未列出各业务部门的具体贡献。未来投资者预计将同时关注客户资产增长趋势和营业利润变化。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "DB Financial Investment eleva su beneficio neto trimestral un 47,6%",
+        "excerpt": "DB Financial Investment informó el 15 de mayo que en el primer trimestre registró ingresos de 1,0751 billones de wones, beneficio operativo de 30.200 millones y beneficio neto de 30.400 millones.",
+        "body": "DB Financial Investment informó en una comunicación del 15 de mayo que en el primer trimestre registró ingresos de 1,0751 billones de wones, beneficio operativo de 30.200 millones de wones y beneficio neto de 30.400 millones de wones. El beneficio neto aumentó un 47,6% frente al mismo periodo del año anterior. Los ingresos crecieron un 145,9% interanual y los activos de clientes subieron un 37,4%. El resultado destaca porque aumentaron tanto la rentabilidad como la escala de activos de clientes. Sin embargo, el texto original no ofrece detalles por segmento de negocio más allá de las cifras publicadas. Los inversores seguirán la evolución de los activos de clientes y del beneficio operativo. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "DB Financial Investment tem lucro líquido trimestral de KRW 30,4 bi",
+        "excerpt": "A DB Financial Investment informou em 15 de maio que registrou no 1º trimestre receita de KRW 1,0751 trilhão, lucro operacional de KRW 30,2 bilhões e lucro líquido de KRW 30,4 bilhões.",
+        "body": "A DB Financial Investment informou em comunicado de 15 de maio que registrou no primeiro trimestre receita de KRW 1,0751 trilhão, lucro operacional de KRW 30,2 bilhões e lucro líquido de KRW 30,4 bilhões. O lucro líquido aumentou 47,6% em relação ao mesmo período do ano anterior. A receita cresceu 145,9% na comparação anual, enquanto os ativos de clientes avançaram 37,4%. O desempenho chama atenção porque a rentabilidade e a escala dos ativos de clientes cresceram ao mesmo tempo. No entanto, o texto original não apresentou a contribuição detalhada por área de negócios além dos números divulgados. Investidores devem acompanhar a evolução dos ativos de clientes e do lucro operacional. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "DB Financial Investment steigert Q1-Nettogewinn um 47,6%",
+        "excerpt": "DB Financial Investment teilte am 15. Mai mit, dass der Umsatz im ersten Quartal 1,0751 Billionen Won, der Betriebsgewinn 30,2 Milliarden Won und der Nettogewinn 30,4 Milliarden Won erreichten.",
+        "body": "DB Financial Investment erklärte in einer Mitteilung vom 15. Mai, dass das Unternehmen im ersten Quartal einen Umsatz von 1,0751 Billionen Won, einen Betriebsgewinn von 30,2 Milliarden Won und einen Nettogewinn von 30,4 Milliarden Won erzielt hat. Der Nettogewinn stieg gegenüber dem Vorjahreszeitraum um 47,6%. Der Umsatz legte im Jahresvergleich um 145,9% zu, während die Kundenvermögen um 37,4% wuchsen. Die Zahlen sind bemerkenswert, weil sich sowohl Profitabilität als auch Kundenvermögen erhöhten. Der Originalbericht enthält jedoch keine detaillierten Beiträge einzelner Geschäftsbereiche über die veröffentlichten Zahlen hinaus. Anleger dürften künftig Kundenvermögen und Betriebsgewinn gemeinsam beobachten. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "DB Financial Investment voit son bénéfice net du T1 grimper de 47,6%",
+        "excerpt": "DB Financial Investment a indiqué le 15 mai avoir réalisé au premier trimestre un chiffre d’affaires de 1.075,1 milliards de wons, un résultat opérationnel de 30,2 milliards et un bénéfice net de 30,4 milliards.",
+        "body": "DB Financial Investment a annoncé dans une déclaration du 15 mai avoir enregistré au premier trimestre un chiffre d’affaires de 1.075,1 milliards de wons, un résultat opérationnel de 30,2 milliards de wons et un bénéfice net de 30,4 milliards de wons. Le bénéfice net a progressé de 47,6% par rapport à la même période de l’an dernier. Le chiffre d’affaires a augmenté de 145,9% sur un an, tandis que les actifs des clients ont gagné 37,4%. Ces résultats retiennent l’attention car la rentabilité et le volume des actifs clients ont progressé ensemble. Le texte original ne détaille toutefois pas la contribution de chaque segment d’activité au-delà des chiffres publiés. Les investisseurs devraient suivre l’évolution des actifs clients et du résultat opérationnel. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "DB Financial Investment ترفع صافي ربح الربع الأول 47.6%",
+        "excerpt": "أعلنت DB Financial Investment في إفصاح بتاريخ 15 مايو أن إيرادات الربع الأول بلغت 1.0751 تريليون وون، مع ربح تشغيلي 30.2 مليار وون وصافي ربح 30.4 مليار وون.",
+        "body": "أعلنت DB Financial Investment في إفصاح بتاريخ 15 مايو أنها سجلت في الربع الأول إيرادات قدرها 1.0751 تريليون وون، وربحا تشغيليا قدره 30.2 مليار وون، وصافي ربح قدره 30.4 مليار وون. وارتفع صافي الربح بنسبة 47.6% مقارنة بالفترة نفسها من العام السابق. كما زادت الإيرادات بنسبة 145.9% على أساس سنوي، وارتفعت أصول العملاء بنسبة 37.4%. وتلفت هذه النتائج الانتباه لأنها تظهر توسعا في الربحية وحجم أصول العملاء معا. لكن التقرير الأصلي لم يقدم تفاصيل عن مساهمة قطاعات الأعمال بخلاف الأرقام المعلنة. ومن المتوقع أن يتابع المستثمرون اتجاه نمو أصول العملاء ومسار الربح التشغيلي. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "DB Financial Investment का Q1 शुद्ध लाभ 47.6% बढ़कर 30.4 अरब वॉन",
+        "excerpt": "DB Financial Investment ने 15 मई की फाइलिंग में बताया कि पहली तिमाही में राजस्व 1.0751 ट्रिलियन वॉन, परिचालन लाभ 30.2 अरब वॉन और शुद्ध लाभ 30.4 अरब वॉन रहा।",
+        "body": "DB Financial Investment ने 15 मई की नियामकीय फाइलिंग में बताया कि इस वर्ष पहली तिमाही में उसका राजस्व 1.0751 ट्रिलियन वॉन, परिचालन लाभ 30.2 अरब वॉन और शुद्ध लाभ 30.4 अरब वॉन रहा। शुद्ध लाभ पिछले वर्ष की समान अवधि की तुलना में 47.6% बढ़ा। राजस्व सालाना आधार पर 145.9% बढ़ा, जबकि ग्राहक परिसंपत्तियां पिछले वर्ष से 37.4% बढ़ीं। यह प्रदर्शन इसलिए उल्लेखनीय है क्योंकि लाभप्रदता और ग्राहक परिसंपत्तियों का आकार दोनों बढ़े। हालांकि, मूल रिपोर्ट में घोषित आंकड़ों के अलावा कारोबार खंडों के योगदान का विवरण नहीं दिया गया। निवेशक आगे ग्राहक परिसंपत्ति वृद्धि और परिचालन लाभ की दिशा पर नजर रख सकते हैं। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Laba Bersih Kuartal I DB Financial Investment Naik 47,6%",
+        "excerpt": "DB Financial Investment menyatakan dalam keterbukaan pada 15 Mei bahwa pendapatan kuartal I mencapai KRW 1,0751 triliun, laba operasi KRW 30,2 miliar, dan laba bersih KRW 30,4 miliar.",
+        "body": "DB Financial Investment menyatakan dalam keterbukaan pada 15 Mei bahwa pada kuartal pertama perusahaan mencatat pendapatan KRW 1,0751 triliun, laba operasi KRW 30,2 miliar, dan laba bersih KRW 30,4 miliar. Laba bersih naik 47,6% dibanding periode yang sama tahun sebelumnya. Pendapatan meningkat 145,9% secara tahunan, sementara aset nasabah tumbuh 37,4% dari tahun lalu. Kinerja ini menarik perhatian karena profitabilitas dan skala aset nasabah sama-sama meningkat. Namun, laporan asli tidak memuat rincian kontribusi per segmen bisnis di luar angka yang diumumkan. Investor diperkirakan akan mencermati pertumbuhan aset nasabah dan tren laba operasi. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
     "id": "6cae60349f6a",
     "slug": "바이낸스-cso-코인-프로젝트-지속적-보안감사-필요-매일코인-670418",
     "channelId": "ETF",
@@ -4271,231 +4496,6 @@
         "title": "Binance Investasi US$200 Juta untuk Kepatuhan, RWA dan Stablecoin Jadi Fokus",
         "excerpt": "Binance menyebut telah memperoleh lisensi FSRA UEA dan menginvestasikan US$200 juta untuk kepatuhan, seiring pergeseran ke institusi serta pertumbuhan RWA dan stablecoin.",
         "body": "Binance, bursa aset kripto terbesar di dunia, mengatakan telah memperoleh lisensi FSRA di Uni Emirat Arab dan menginvestasikan US$200 juta untuk kepatuhan regulasi. Catherine Chen menjelaskan bahwa kepemimpinan pasar aset digital sedang bergeser dari individu ke institusi. Latar belakangnya adalah pertumbuhan ETF bitcoin yang mencapai US$60 miliar dalam dua tahun setelah diluncurkan. Binance menilai aset tokenisasi, atau RWA, dan stablecoin akan tumbuh cepat seiring meningkatnya partisipasi institusional. Daya saing industri berikutnya diperkirakan bergantung pada respons regulasi, permintaan institusi, dan perluasan produk berbasis aset nyata. Sumber: mk.co.kr."
-      }
-    }
-  },
-  {
-    "id": "24926e5aff8e",
-    "slug": "또-신고가삼성전자-주가-30만원-눈앞-매경-자이앤트-959658",
-    "channelId": "ETF",
-    "category": "etf",
-    "publishedAt": "2026-05-14T15:01:29.518Z",
-    "updatedAt": "2026-05-14T15:01:29.518Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/stock/12047333",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12047333",
-    "titleFingerprint": "57e0413db4ded9bf8fd469d75c0807cf525f2ef1",
-    "dedupKeys": [
-      "24926e5aff8e46d5605108a4ebaff19bfb8d53f2",
-      "57e0413db4ded9bf8fd469d75c0807cf525f2ef1",
-      "7d2e7772c35282a056befc10888fd9c110617196"
-    ],
-    "imageUrl": "/images/articles/24926e5aff8e.jpg",
-    "i18n": {
-      "ko": {
-        "title": "삼성전자 신고가 경신, 주가 30만원 눈앞…국내 증시 견인",
-        "excerpt": "14일 오전 삼성전자가 전 거래일보다 5.02% 오른 29만8250원에 거래되며 역사적 신고가를 다시 넘어서 국내 주식시장 상승을 이끌고 있다.",
-        "body": "삼성전자가 14일 오전 다시 역사적 신고가를 돌파하며 국내 주식시장을 끌어올리고 있다. mk.co.kr에 따르면 이날 오전 9시56분 삼성전자는 전 거래일보다 1만4250원, 5.02% 오른 29만8250원에 거래됐다. 주가는 30만원에 바짝 다가서며 시장의 관심을 모았다. 이번 상승은 삼성전자가 또 한 번 신고가를 경신했다는 점에서 국내 증시 전반의 흐름에도 영향을 주는 움직임으로 해석된다. 출처: mk.co.kr."
-      },
-      "en": {
-        "title": "Samsung Electronics Hits New Record High as Shares Near 300,000 Won",
-        "excerpt": "On the morning of the 14th, Samsung Electronics traded at 298,250 won, up 5.02% from the previous session, setting another historic high and lifting South Korea’s stock market.",
-        "body": "Samsung Electronics broke through another historic record high on the morning of the 14th, helping lift South Korea’s stock market. According to mk.co.kr, at 9:56 a.m. that day, Samsung Electronics was trading at 298,250 won, up 14,250 won, or 5.02%, from the previous session. The share price moved close to the 300,000 won mark, drawing market attention. The rise is notable because Samsung Electronics once again renewed its record high, a move seen as influencing the broader domestic equity market. Source: mk.co.kr."
-      },
-      "ja": {
-        "title": "サムスン電子が最高値更新、株価30万ウォン目前で韓国市場けん引",
-        "excerpt": "14日午前、サムスン電子は前営業日比5.02%高の29万8250ウォンで取引され、歴史的高値を再び更新し韓国株式市場を押し上げている。",
-        "body": "サムスン電子が14日午前、再び歴史的な最高値を突破し、韓国株式市場を押し上げている。mk.co.krによると、同日午前9時56分時点でサムスン電子は前営業日比1万4250ウォン、5.02%高の29万8250ウォンで取引された。株価は30万ウォンに迫り、市場の注目を集めた。今回の上昇は、サムスン電子がまた最高値を更新した点で、韓国株式市場全体の流れにも影響を与える動きと受け止められている。出典: mk.co.kr."
-      },
-      "zh": {
-        "title": "三星电子再创新高，股价逼近30万韩元并带动韩国股市",
-        "excerpt": "14日上午，三星电子较前一交易日上涨5.02%，报298250韩元，再次突破历史新高，正在带动韩国国内股票市场上行。",
-        "body": "三星电子14日上午再次突破历史新高，带动韩国国内股票市场上涨。据mk.co.kr报道，当天上午9时56分，三星电子较前一交易日上涨14250韩元，涨幅5.02%，报298250韩元。其股价已逼近30万韩元关口，引发市场关注。此次上涨的意义在于三星电子再次刷新历史高点，这一走势也被视为对韩国整体股市行情产生影响。来源: mk.co.kr."
-      },
-      "es": {
-        "title": "Samsung Electronics marca nuevo récord y roza los 300.000 wones",
-        "excerpt": "La mañana del día 14, Samsung Electronics cotizó a 298.250 wones, un 5,02% más que en la sesión previa, al renovar su máximo histórico y empujar la bolsa surcoreana.",
-        "body": "Samsung Electronics volvió a superar un máximo histórico la mañana del día 14 y está impulsando el mercado bursátil de Corea del Sur. Según mk.co.kr, a las 9:56 a.m. de ese día, la acción cotizaba a 298.250 wones, 14.250 wones más que en la sesión anterior, con un alza del 5,02%. El precio se acercó al nivel de 300.000 wones y atrajo la atención del mercado. La subida destaca porque Samsung Electronics renovó otra vez su récord, un movimiento visto como influyente para el mercado accionario local. Fuente: mk.co.kr."
-      },
-      "pt": {
-        "title": "Samsung Electronics renova máxima e se aproxima de 300 mil wones",
-        "excerpt": "Na manhã do dia 14, a Samsung Electronics era negociada a 298.250 wones, alta de 5,02% ante o pregão anterior, renovando máxima histórica e impulsionando a bolsa sul-coreana.",
-        "body": "A Samsung Electronics voltou a romper sua máxima histórica na manhã do dia 14, ajudando a elevar o mercado acionário da Coreia do Sul. Segundo o mk.co.kr, às 9h56 daquele dia, a ação era negociada a 298.250 wones, avanço de 14.250 wones, ou 5,02%, em relação ao pregão anterior. O preço se aproximou da marca de 300.000 wones e chamou a atenção do mercado. A alta é relevante porque a Samsung Electronics renovou novamente seu recorde, movimento interpretado como influente para o mercado local. Fonte: mk.co.kr."
-      },
-      "de": {
-        "title": "Samsung Electronics erreicht Rekordhoch und nähert sich 300.000 Won",
-        "excerpt": "Am Morgen des 14. notierte Samsung Electronics bei 298.250 Won, 5,02% über dem Vortag, erreichte erneut ein historisches Hoch und stützte den südkoreanischen Aktienmarkt.",
-        "body": "Samsung Electronics hat am Morgen des 14. erneut ein historisches Rekordhoch überschritten und damit den südkoreanischen Aktienmarkt gestützt. Laut mk.co.kr wurde die Aktie um 9:56 Uhr bei 298.250 Won gehandelt, 14.250 Won oder 5,02% höher als am vorherigen Handelstag. Der Kurs rückte nahe an die Marke von 300.000 Won und zog Marktaufmerksamkeit auf sich. Der Anstieg ist bemerkenswert, weil Samsung Electronics abermals ein Rekordhoch markierte, was als Einflussfaktor für den breiteren heimischen Aktienmarkt gesehen wird. Quelle: mk.co.kr."
-      },
-      "fr": {
-        "title": "Samsung Electronics bat un record et approche les 300 000 wons",
-        "excerpt": "Le matin du 14, Samsung Electronics s’échangeait à 298 250 wons, en hausse de 5,02% sur la séance précédente, renouvelant son record historique et soutenant la Bourse sud-coréenne.",
-        "body": "Samsung Electronics a de nouveau franchi un record historique le matin du 14, contribuant à tirer vers le haut le marché boursier sud-coréen. Selon mk.co.kr, à 9h56 ce jour-là, le titre se négociait à 298 250 wons, soit 14 250 wons de plus que la séance précédente, en hausse de 5,02%. Le cours s’est rapproché du seuil de 300 000 wons et a attiré l’attention du marché. Cette progression est notable car Samsung Electronics a une nouvelle fois inscrit un plus haut, un mouvement perçu comme influent pour l’ensemble du marché local. Source: mk.co.kr."
-      },
-      "ar": {
-        "title": "سهم سامسونغ إلكترونيكس يسجل قمة جديدة ويقترب من 300 ألف وون",
-        "excerpt": "صباح يوم 14، تم تداول سهم سامسونغ إلكترونيكس عند 298250 وون، مرتفعا 5.02% عن الجلسة السابقة، ليسجل مستوى تاريخيا جديدا ويدعم سوق الأسهم الكورية.",
-        "body": "سجلت سامسونغ إلكترونيكس صباح يوم 14 مستوى تاريخيا جديدا مرة أخرى، ما ساعد على رفع سوق الأسهم المحلية في كوريا الجنوبية. وبحسب mk.co.kr، جرى تداول السهم عند الساعة 9:56 صباحا عند 298250 وون، بزيادة قدرها 14250 وون، أو 5.02%، مقارنة بالجلسة السابقة. واقترب السعر من مستوى 300 ألف وون، مما جذب اهتمام السوق. وتبرز هذه الزيادة لأن سامسونغ إلكترونيكس جددت قمتها القياسية مرة أخرى، وهي حركة ينظر إليها على أنها مؤثرة في اتجاه السوق المحلية الأوسع. المصدر: mk.co.kr."
-      },
-      "hi": {
-        "title": "Samsung Electronics का शेयर नए रिकॉर्ड पर, 300,000 वॉन के करीब",
-        "excerpt": "14 तारीख की सुबह Samsung Electronics 298,250 वॉन पर कारोबार कर रहा था, जो पिछले सत्र से 5.02% ऊपर है, और नए ऐतिहासिक उच्च स्तर के साथ कोरियाई बाजार को सहारा दे रहा है।",
-        "body": "Samsung Electronics ने 14 तारीख की सुबह फिर से ऐतिहासिक उच्च स्तर पार किया और दक्षिण कोरिया के शेयर बाजार को ऊपर ले जाने में मदद की। mk.co.kr के अनुसार, उस दिन सुबह 9:56 बजे Samsung Electronics का शेयर पिछले कारोबारी सत्र से 14,250 वॉन, यानी 5.02%, बढ़कर 298,250 वॉन पर कारोबार कर रहा था। शेयर मूल्य 300,000 वॉन के स्तर के करीब पहुंच गया और बाजार का ध्यान खींचा। यह तेजी इसलिए महत्वपूर्ण है क्योंकि Samsung Electronics ने एक बार फिर रिकॉर्ड उच्च स्तर बनाया, जिसे घरेलू शेयर बाजार की व्यापक दिशा पर असर डालने वाली चाल माना जा रहा है। स्रोत: mk.co.kr."
-      },
-      "id": {
-        "title": "Samsung Electronics Cetak Rekor Baru, Saham Dekati 300.000 Won",
-        "excerpt": "Pada pagi tanggal 14, saham Samsung Electronics diperdagangkan di 298.250 won, naik 5,02% dari sesi sebelumnya, kembali mencetak rekor tertinggi dan mengangkat pasar saham Korea Selatan.",
-        "body": "Samsung Electronics kembali menembus rekor tertinggi historis pada pagi tanggal 14 dan ikut mengangkat pasar saham Korea Selatan. Menurut mk.co.kr, pada pukul 09.56 hari itu, saham Samsung Electronics diperdagangkan di 298.250 won, naik 14.250 won atau 5,02% dari sesi sebelumnya. Harga saham mendekati level 300.000 won dan menarik perhatian pasar. Kenaikan ini penting karena Samsung Electronics sekali lagi memperbarui rekor tertingginya, sebuah pergerakan yang dipandang memengaruhi arah pasar saham domestik secara lebih luas. Sumber: mk.co.kr."
-      }
-    }
-  },
-  {
-    "id": "175122150fd5",
-    "slug": "역대급-국장-수익률-국민연금-주식운용실장에-김수연-팀장-승진-임명-368995",
-    "channelId": "ETF",
-    "category": "etf",
-    "publishedAt": "2026-05-14T15:00:29.951Z",
-    "updatedAt": "2026-05-14T15:00:29.951Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/stock/12047706",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12047706",
-    "titleFingerprint": "8e1cb8046b71287e6b8990ea1c7364c478c0e622",
-    "dedupKeys": [
-      "175122150fd5b5a87d352de390881ebd58f43212",
-      "8e1cb8046b71287e6b8990ea1c7364c478c0e622",
-      "ab1f79ed308bc6640309392279a3083f6722da65"
-    ],
-    "imageUrl": "/images/articles/175122150fd5.jpg",
-    "i18n": {
-      "ko": {
-        "title": "국민연금 주식운용실장에 김수연 팀장 승진…국내주식 수익률 주목",
-        "excerpt": "국민연금은 5월 14일 보도 기준 공석이던 주식운용실장에 김수연 팀장을 승진 임명했다. 국내주식 투자가 기금수익률을 견인하는 가운데 나온 인사다.",
-        "body": "국민연금이 5월 14일 보도 기준 그동안 공석이었던 주식운용실장에 김수연 팀장을 승진 임명했다. 이번 인사는 국민연금의 국내주식 투자가 기금수익률을 견인하는 상황에서 이뤄졌다. 원문은 ‘역대급 국장 수익률’이라는 표현으로 국내주식 성과가 주목받는 흐름을 전했다. 주식운용실장 자리가 채워지면서 국민연금의 주식 운용 조직은 공석 상태를 해소하게 됐다. 향후 운용 방향이나 세부 성과 수치는 원문에 추가로 제시되지 않았다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "National Pension Service Promotes Kim Soo-yeon to Head of Stock Management",
-        "excerpt": "As reported on May 14, the National Pension Service promoted team leader Kim Soo-yeon to the previously vacant head of stock management role amid strong domestic equity returns.",
-        "body": "The National Pension Service promoted team leader Kim Soo-yeon to head of its stock management office, according to a May 14 report. The appointment fills a position that had remained vacant. It comes as the fund’s domestic stock investment has been helping drive overall fund returns. The original report highlighted the attention around what it described as record-level domestic stock returns. With the role now filled, the NPS stock management organization has resolved the vacancy. The source article did not provide further figures or details on future investment direction. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "国民年金、株式運用室長に金秀娟チーム長を昇進任命",
-        "excerpt": "5月14日の報道によると、国民年金は空席だった株式運用室長に金秀娟チーム長を昇進任命した。国内株式投資が基金収益率を支える中での人事だ。",
-        "body": "国民年金は5月14日の報道時点で、これまで空席だった株式運用室長に金秀娟チーム長を昇進任命した。今回の人事は、国民年金の国内株式投資が基金収益率をけん引している状況で行われた。原文は「過去最高級の国内株式収益率」という表現で、国内株式の成果に注目が集まっている流れを伝えた。株式運用室長のポストが埋まったことで、国民年金の株式運用組織は空席状態を解消した。今後の運用方針や詳細な成果数値は原文で追加提示されていない。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "韩国国民年金任命金秀妍为股票运用室长，国内股票收益受关注",
-        "excerpt": "据5月14日报道，韩国国民年金将团队负责人金秀妍晋升任命为此前空缺的股票运用室长。此举发生在国内股票投资带动基金收益率之际。",
-        "body": "据5月14日报道，韩国国民年金将团队负责人金秀妍晋升任命为股票运用室长，填补了此前一直空缺的职位。此次人事安排发生在国民年金国内股票投资正在带动基金收益率的背景下。原文以“创纪录级别的国内股市收益率”表述，说明国内股票表现受到关注。随着股票运用室长职位得到补位，国民年金股票运用组织结束了空缺状态。原文未进一步提供未来运用方向或具体业绩数据。出处: mk.co.kr"
-      },
-      "es": {
-        "title": "El NPS promueve a Kim Soo-yeon como jefa de gestión de acciones",
-        "excerpt": "Según un reporte del 14 de mayo, el Servicio Nacional de Pensiones promovió a Kim Soo-yeon al cargo vacante de jefa de gestión de acciones, en medio del impulso de la renta variable local.",
-        "body": "El Servicio Nacional de Pensiones de Corea promovió a la líder de equipo Kim Soo-yeon como jefa de la oficina de gestión de acciones, según un reporte del 14 de mayo. El nombramiento cubre un puesto que había permanecido vacante. La decisión llega mientras la inversión del fondo en acciones nacionales impulsa la rentabilidad del fondo. El informe original destacó la atención sobre lo que describió como una rentabilidad histórica en el mercado bursátil local. Con el cargo cubierto, la organización de gestión de acciones del NPS resuelve la vacante. El texto fuente no ofreció cifras adicionales ni detalles sobre la futura dirección de inversión. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "NPS promove Kim Soo-yeon a chefe de gestão de ações após vaga aberta",
-        "excerpt": "Segundo reportagem de 14 de maio, o Serviço Nacional de Pensões promoveu Kim Soo-yeon ao cargo vago de chefe de gestão de ações, em meio ao avanço das ações domésticas.",
-        "body": "O Serviço Nacional de Pensões da Coreia promoveu a líder de equipe Kim Soo-yeon a chefe do escritório de gestão de ações, segundo reportagem de 14 de maio. A nomeação preenche um cargo que estava vago. A decisão ocorre enquanto os investimentos do fundo em ações domésticas ajudam a impulsionar a rentabilidade do fundo. A reportagem original destacou a atenção em torno do que chamou de retorno histórico no mercado acionário local. Com a função preenchida, a estrutura de gestão de ações do NPS deixa de ter essa vacância. O texto de origem não apresentou números adicionais nem detalhes sobre a direção futura da gestão. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "NPS befördert Kim Soo-yeon zur Leiterin des Aktienmanagements",
-        "excerpt": "Laut Bericht vom 14. Mai hat der National Pension Service Kim Soo-yeon zur Leiterin des zuvor vakanten Aktienmanagements befördert, während heimische Aktien die Fondsrendite stützen.",
-        "body": "Der koreanische National Pension Service hat Teamleiterin Kim Soo-yeon zur Leiterin des Aktienmanagements befördert, wie am 14. Mai berichtet wurde. Damit wird eine Position besetzt, die zuvor vakant war. Die Personalentscheidung fällt in eine Phase, in der die heimischen Aktienanlagen des Fonds die Fondsrendite antreiben. Der Originalbericht verwies auf die Aufmerksamkeit für eine als rekordnah beschriebene Rendite am heimischen Aktienmarkt. Mit der Besetzung der Stelle beendet die Aktienmanagement-Organisation des NPS den Leerstand. Weitere Zahlen oder Angaben zur künftigen Anlagestrategie wurden im Ausgangstext nicht genannt. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Le NPS promeut Kim Soo-yeon à la tête de la gestion actions",
-        "excerpt": "Selon un article du 14 mai, le National Pension Service a promu Kim Soo-yeon au poste vacant de responsable de la gestion actions, alors que les actions locales soutiennent le rendement du fonds.",
-        "body": "Le National Pension Service coréen a promu la cheffe d’équipe Kim Soo-yeon au poste de responsable du bureau de gestion des actions, selon un article publié le 14 mai. Cette nomination pourvoit un poste resté vacant. Elle intervient alors que les investissements du fonds en actions domestiques contribuent à tirer le rendement global du fonds. L’article original mettait en avant l’attention portée à un rendement des actions locales présenté comme d’un niveau record. Avec cette nomination, l’organisation de gestion actions du NPS met fin à cette vacance. Le texte source ne fournit pas d’autres chiffres ni de détails sur l’orientation future de la gestion. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "هيئة التقاعد الكورية ترقّي كيم سو-يون لرئاسة إدارة الأسهم",
-        "excerpt": "بحسب تقرير في 14 مايو، رقّت هيئة التقاعد الوطنية الكورية قائدة الفريق كيم سو-يون إلى منصب رئيسة إدارة الأسهم الذي كان شاغرا، وسط دعم استثمارات الأسهم المحلية لعائد الصندوق.",
-        "body": "رقّت هيئة التقاعد الوطنية الكورية قائدة الفريق كيم سو-يون إلى منصب رئيسة مكتب إدارة الأسهم، وفق تقرير صدر في 14 مايو. ويملأ هذا التعيين منصبا ظل شاغرا في الفترة الماضية. وتأتي الخطوة بينما تسهم استثمارات الهيئة في الأسهم المحلية في دفع عائد الصندوق. وأبرز التقرير الأصلي الاهتمام بما وصفه بعائد تاريخي في سوق الأسهم المحلية. ومع شغل المنصب، تنهي منظمة إدارة الأسهم في الهيئة حالة الشغور. ولم يورد النص الأصلي أرقاما إضافية أو تفاصيل عن اتجاهات الإدارة الاستثمارية المقبلة. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "नेशनल पेंशन सर्विस ने किम सू-योन को स्टॉक मैनेजमेंट प्रमुख बनाया",
-        "excerpt": "14 मई की रिपोर्ट के अनुसार, नेशनल पेंशन सर्विस ने खाली पड़े स्टॉक मैनेजमेंट प्रमुख पद पर टीम लीडर किम सू-योन को पदोन्नत किया, जब घरेलू शेयर निवेश फंड रिटर्न को सहारा दे रहा है।",
-        "body": "कोरिया की नेशनल पेंशन सर्विस ने 14 मई की रिपोर्ट के अनुसार टीम लीडर किम सू-योन को स्टॉक मैनेजमेंट ऑफिस का प्रमुख पदोन्नत कर नियुक्त किया। यह पद अब तक खाली था। यह नियुक्ति ऐसे समय हुई है जब फंड का घरेलू शेयर निवेश कुल फंड रिटर्न को आगे बढ़ा रहा है। मूल रिपोर्ट ने घरेलू शेयरों के प्रदर्शन को रिकॉर्ड स्तर के रिटर्न के रूप में रेखांकित करते हुए उस पर बढ़ते ध्यान का उल्लेख किया। पद भरने के साथ NPS की स्टॉक मैनेजमेंट संरचना ने रिक्ति की स्थिति समाप्त कर दी। स्रोत पाठ में भविष्य की निवेश दिशा या विस्तृत प्रदर्शन आंकड़े नहीं दिए गए। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "NPS Promosikan Kim Soo-yeon Jadi Kepala Manajemen Saham",
-        "excerpt": "Menurut laporan 14 Mei, National Pension Service mempromosikan Kim Soo-yeon ke posisi kepala manajemen saham yang sebelumnya kosong, saat investasi saham domestik mendorong imbal hasil dana.",
-        "body": "National Pension Service Korea mempromosikan pemimpin tim Kim Soo-yeon sebagai kepala kantor manajemen saham, menurut laporan pada 14 Mei. Penunjukan ini mengisi posisi yang sebelumnya kosong. Keputusan tersebut muncul ketika investasi saham domestik NPS membantu mendorong imbal hasil dana. Laporan asli menyoroti perhatian terhadap kinerja saham domestik yang disebut berada pada tingkat historis. Dengan terisinya jabatan itu, organisasi manajemen saham NPS menyelesaikan kondisi kekosongan posisi. Teks sumber tidak memberikan angka tambahan atau rincian mengenai arah pengelolaan investasi ke depan. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "637f41005ded",
-    "slug": "네이버-배민-인수설에-기대감-커지며-6-급등-870659",
-    "channelId": "ETF",
-    "category": "etf",
-    "publishedAt": "2026-05-14T14:59:26.239Z",
-    "updatedAt": "2026-05-14T14:59:26.240Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/stock/12047820",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12047820",
-    "titleFingerprint": "2914ec2cc7176ea61b92c866f185a011ccd6f23b",
-    "dedupKeys": [
-      "637f41005ded946a0bd9423f1f98f713a334e47f",
-      "2914ec2cc7176ea61b92c866f185a011ccd6f23b",
-      "9a6dbcff54a92c4e19d7ce927dd8d7b1dea87490"
-    ],
-    "imageUrl": "/images/articles/637f41005ded.jpg",
-    "i18n": {
-      "ko": {
-        "title": "네이버 주가 6% 급등, 배달의민족 운영사 우아한형제들 인수설에 투자 기대감 확대",
-        "excerpt": "네이버 주가가 배달의민족 운영사 우아한형제들 인수 가능성에 대한 기대감으로 간만에 강세를 보이며 6% 급등했다. 업계에서는 실제 인수 가능성에 신중한 시각도 나온다.",
-        "body": "네이버 주가가 배달의민족 운영사 우아한형제들을 인수할 수 있다는 기대감이 커지며 간만에 강세를 보였다. mk.co.kr에 따르면 네이버 주가는 관련 인수설이 시장에 확산되면서 6% 급등했다. 이번 상승은 배달 플랫폼 사업자인 우아한형제들과 네이버의 결합 가능성에 투자자들이 반응한 결과로 풀이된다. 다만 원문은 업계에서 네이버의 우아한형제들 인수 가능성을 신중하게 보는 시각도 있다고 전했다. 향후 주가 흐름은 인수설의 사실 여부와 관련 기업들의 공식 입장에 따라 영향을 받을 수 있다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Naver Shares Jump 6% as Baemin Operator Acquisition Rumor Lifts Investor Expectations",
-        "excerpt": "Naver shares rose sharply for the first time in a while, jumping 6% on expectations that the company could acquire Woowa Brothers, operator of Baedal Minjok, though industry views remain cautious.",
-        "body": "Naver shares gained strong momentum after expectations grew that the company could acquire Woowa Brothers, the operator of Baedal Minjok. According to mk.co.kr, Naver’s stock jumped 6% as the acquisition rumor spread through the market. The rally was interpreted as a response from investors to the possible combination of Naver and Woowa Brothers, a major food delivery platform operator. However, the original report noted that some in the industry take a cautious view of the likelihood of Naver actually acquiring Woowa Brothers. Future share movement may depend on whether the rumor is confirmed and on any official positions from the companies involved. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "ネイバー株が6％急騰、配達の民族運営会社ウアハン兄弟買収説で期待拡大",
-        "excerpt": "ネイバー株は、配達の民族を運営するウアハン兄弟を買収する可能性への期待から久々に強い動きを見せ、6％急騰した。一方、業界では慎重な見方もある。",
-        "body": "ネイバー株は、配達の民族を運営するウアハン兄弟を買収する可能性への期待が高まり、久々に強い動きを見せた。mk.co.krによると、関連する買収説が市場に広がったことで、ネイバー株は6％急騰した。今回の上昇は、フードデリバリープラットフォーム事業者であるウアハン兄弟とネイバーの結合可能性に投資家が反応した結果とみられる。ただし原文は、業界内ではネイバーによるウアハン兄弟買収の可能性について慎重に見る向きもあると伝えた。今後の株価は、買収説の事実関係や関係企業の公式見解に左右される可能性がある。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "Naver股价大涨6%，外卖民族运营商Woowa Brothers收购传闻推高期待",
-        "excerpt": "受可能收购“外卖民族”运营商Woowa Brothers的期待影响，Naver股价久违走强并大涨6%。不过，业内对实际收购可能性仍有谨慎看法。",
-        "body": "Naver股价因市场期待其可能收购“外卖民族”运营商Woowa Brothers而久违走强。mk.co.kr报道称，随着相关收购传闻在市场扩散，Naver股价大涨6%。此次上涨被解读为投资者对Naver与外卖平台企业Woowa Brothers潜在结合的反应。不过，原文也提到，业内对于Naver实际收购Woowa Brothers的可能性仍存在谨慎看法。未来股价走势可能取决于该收购传闻是否属实，以及相关企业是否发布正式立场。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Acciones de Naver suben 6% por expectativas ante rumor de compra de Woowa Brothers",
-        "excerpt": "Las acciones de Naver repuntaron con fuerza y subieron 6% ante expectativas de que podría adquirir Woowa Brothers, operador de Baedal Minjok, aunque el sector mantiene una visión cautelosa.",
-        "body": "Las acciones de Naver mostraron fortaleza después de que crecieran las expectativas sobre una posible adquisición de Woowa Brothers, operador de Baedal Minjok. Según mk.co.kr, el título de Naver subió 6% a medida que el rumor de adquisición se extendió en el mercado. El avance se interpreta como una reacción de los inversores ante la posible combinación entre Naver y Woowa Brothers, empresa de plataforma de reparto de comida. Sin embargo, el reporte original señaló que en la industria también hay posturas cautelosas sobre la posibilidad real de que Naver adquiera Woowa Brothers. La evolución futura de la acción podría depender de si el rumor se confirma y de las posiciones oficiales de las compañías relacionadas. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Ações da Naver sobem 6% com expectativa sobre possível compra da Woowa Brothers",
-        "excerpt": "As ações da Naver avançaram com força e subiram 6% diante da expectativa de possível aquisição da Woowa Brothers, operadora do Baedal Minjok, embora o setor mantenha cautela.",
-        "body": "As ações da Naver ganharam força após crescer a expectativa de que a empresa possa adquirir a Woowa Brothers, operadora do Baedal Minjok. Segundo o mk.co.kr, os papéis da Naver saltaram 6% com a disseminação do rumor de aquisição no mercado. A alta foi interpretada como reação dos investidores à possível combinação entre a Naver e a Woowa Brothers, empresa de plataforma de entrega de comida. Ainda assim, a reportagem original informou que há visões cautelosas no setor sobre a real possibilidade de a Naver adquirir a Woowa Brothers. O movimento futuro das ações pode depender da confirmação do rumor e de posicionamentos oficiais das empresas envolvidas. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Naver-Aktie steigt 6%: Übernahmegerücht um Baemin-Betreiber Woowa Brothers weckt Erwartungen",
-        "excerpt": "Die Naver-Aktie legte nach längerer Zeit wieder kräftig zu und stieg um 6%, nachdem Erwartungen an eine mögliche Übernahme von Woowa Brothers, Betreiber von Baedal Minjok, zunahmen.",
-        "body": "Die Naver-Aktie zeigte wieder Stärke, nachdem die Erwartung wuchs, dass das Unternehmen Woowa Brothers, den Betreiber von Baedal Minjok, übernehmen könnte. Laut mk.co.kr sprang die Aktie von Naver um 6%, als sich das entsprechende Übernahmegerücht am Markt verbreitete. Der Anstieg wird als Reaktion der Anleger auf eine mögliche Verbindung zwischen Naver und Woowa Brothers, einem Betreiber einer Essenslieferplattform, interpretiert. Der Originalbericht wies jedoch darauf hin, dass es in der Branche auch vorsichtige Einschätzungen zur tatsächlichen Wahrscheinlichkeit einer Übernahme von Woowa Brothers durch Naver gibt. Die weitere Kursentwicklung könnte davon abhängen, ob sich das Gerücht bestätigt und welche offiziellen Stellungnahmen die beteiligten Unternehmen abgeben. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "L’action Naver bondit de 6% sur une rumeur d’acquisition de Woowa Brothers",
-        "excerpt": "L’action Naver a nettement rebondi, gagnant 6% sur les attentes liées à une possible acquisition de Woowa Brothers, opérateur de Baedal Minjok, même si le secteur reste prudent.",
-        "body": "L’action Naver a retrouvé de la vigueur alors que les attentes ont augmenté autour d’une possible acquisition de Woowa Brothers, l’opérateur de Baedal Minjok. Selon mk.co.kr, le titre Naver a bondi de 6% après la diffusion de cette rumeur d’acquisition sur le marché. Cette hausse est interprétée comme une réaction des investisseurs à la possibilité d’un rapprochement entre Naver et Woowa Brothers, opérateur d’une plateforme de livraison de repas. Le rapport original indique toutefois que certains acteurs du secteur restent prudents quant à la probabilité réelle d’une acquisition de Woowa Brothers par Naver. L’évolution future du cours pourrait dépendre de la confirmation de la rumeur et des positions officielles des entreprises concernées. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "سهم نافير يقفز 6% مع تزايد التوقعات حول الاستحواذ على مشغل Baemin",
-        "excerpt": "ارتفع سهم نافير بقوة وقفز 6% مع تزايد التوقعات بإمكان استحواذها على Woowa Brothers، مشغل خدمة Baedal Minjok، فيما تبقى بعض آراء القطاع حذرة تجاه الاحتمال الفعلي.",
-        "body": "أظهر سهم نافير قوة ملحوظة بعد تزايد التوقعات بأن الشركة قد تستحوذ على Woowa Brothers، مشغل خدمة Baedal Minjok. ووفقاً لـ mk.co.kr، قفز سهم نافير 6% مع انتشار شائعة الاستحواذ في السوق. وفسرت هذه الزيادة على أنها استجابة من المستثمرين لاحتمال الجمع بين نافير وWoowa Brothers، وهي شركة تدير منصة لتوصيل الطعام. لكن التقرير الأصلي أشار أيضاً إلى أن بعض الأطراف في القطاع تنظر بحذر إلى احتمال تنفيذ نافير هذا الاستحواذ فعلياً. وقد يتأثر مسار السهم لاحقاً بما إذا كانت الشائعة ستتأكد وبأي مواقف رسمية تصدر عن الشركات المعنية. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "Baemin ऑपरेटर Woowa Brothers अधिग्रहण की अटकलों से Naver शेयर 6% उछला",
-        "excerpt": "Naver का शेयर लंबे समय बाद मजबूती दिखाते हुए 6% उछला, क्योंकि Baedal Minjok की ऑपरेटर Woowa Brothers के संभावित अधिग्रहण की उम्मीद बढ़ी; हालांकि उद्योग में सतर्क राय भी है।",
-        "body": "Naver के शेयर में मजबूती आई क्योंकि उम्मीद बढ़ी कि कंपनी Baedal Minjok की ऑपरेटर Woowa Brothers का अधिग्रहण कर सकती है। mk.co.kr के अनुसार, संबंधित अधिग्रहण अटकलें बाजार में फैलने के बाद Naver का शेयर 6% उछल गया। इस तेजी को निवेशकों की उस प्रतिक्रिया के रूप में देखा गया जिसमें उन्होंने Naver और फूड डिलीवरी प्लेटफॉर्म कंपनी Woowa Brothers के संभावित संयोजन पर ध्यान दिया। हालांकि मूल रिपोर्ट ने बताया कि उद्योग में कुछ लोग Naver द्वारा Woowa Brothers के वास्तविक अधिग्रहण की संभावना को लेकर सतर्क रुख रखते हैं। आगे शेयर की चाल इस बात पर निर्भर कर सकती है कि अटकलें सच साबित होती हैं या नहीं और संबंधित कंपनियां क्या आधिकारिक रुख अपनाती हैं। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Saham Naver Melonjak 6% karena Rumor Akuisisi Operator Baemin Woowa Brothers",
-        "excerpt": "Saham Naver menguat tajam dan naik 6% setelah ekspektasi terkait kemungkinan akuisisi Woowa Brothers, operator Baedal Minjok, meningkat, meski pelaku industri tetap berhati-hati.",
-        "body": "Saham Naver menguat setelah ekspektasi meningkat bahwa perusahaan dapat mengakuisisi Woowa Brothers, operator Baedal Minjok. Menurut mk.co.kr, saham Naver melonjak 6% saat rumor akuisisi tersebut menyebar di pasar. Kenaikan ini ditafsirkan sebagai respons investor terhadap kemungkinan penggabungan antara Naver dan Woowa Brothers, perusahaan platform pengantaran makanan. Namun, laporan asli menyebutkan bahwa sebagian kalangan industri juga memandang hati-hati kemungkinan Naver benar-benar mengakuisisi Woowa Brothers. Pergerakan saham ke depan dapat dipengaruhi oleh apakah rumor tersebut terbukti benar dan oleh sikap resmi perusahaan-perusahaan terkait. Sumber: mk.co.kr"
       }
     }
   }
