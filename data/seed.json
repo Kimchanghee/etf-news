@@ -1,5 +1,230 @@
 [
   {
+    "id": "e761300a54cd",
+    "slug": "코스콤-체크-엑스퍼트-플러스-개편-시각화채권-데이터-강화-270562",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-05-15T22:12:02.592Z",
+    "updatedAt": "2026-05-15T22:12:02.593Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/2026051593396",
+    "canonicalUrl": "https://www.hankyung.com/article/2026051593396",
+    "titleFingerprint": "e545f8b3b8ddc8f2125467ecc24e3bf7f5e2d151",
+    "dedupKeys": [
+      "e761300a54cd54afee36890b903e977ada643a7c",
+      "e545f8b3b8ddc8f2125467ecc24e3bf7f5e2d151",
+      "be05d7ed50626d60601a271d4158a04ce7944437"
+    ],
+    "imageUrl": "/images/articles/e761300a54cd.jpg",
+    "i18n": {
+      "ko": {
+        "title": "코스콤 투자정보 단말기 ‘체크 엑스퍼트 플러스’ 개편, 시각화·채권 데이터 강화",
+        "excerpt": "코스콤은 투자정보 단말기 ‘체크 엑스퍼트 플러스’를 개편해 시각화 기능과 채권 데이터를 강화했다. 한국경제 보도에 따르면 이번 개편은 시장 정보 확인 편의성을 높이는 데 초점이 맞춰졌다.",
+        "body": "코스콤이 투자정보 단말기 ‘체크 엑스퍼트 플러스(CHECK Expert+)’를 개편하고 시각화 기능과 채권 데이터 제공을 강화했다. 한국경제 보도에 따르면 이번 개편은 이용자가 시장 정보를 더 직관적으로 확인할 수 있도록 서비스 화면과 데이터 접근성을 보완한 것이 핵심이다. 체크 엑스퍼트 플러스는 금융투자업계에서 시세와 투자정보를 확인하는 단말기 서비스로, 개편 방향은 정보 탐색 과정의 편의성 확대에 맞춰졌다. 특히 시각화 기능 강화는 복잡한 시장 데이터를 한눈에 파악하는 데 도움을 주고, 채권 데이터 보강은 채권 투자정보 수요에 대응하는 변화로 풀이된다. 다만 기사에서 구체적인 출시 일정이나 수치 정보는 별도로 제시되지 않았다. 출처: hankyung.com"
+      },
+      "en": {
+        "title": "Koscom Revamps CHECK Expert+ With Stronger Visualization and Bond Data",
+        "excerpt": "Koscom has revamped its investment information terminal CHECK Expert+, strengthening visualization features and bond data, according to Hankyung, with a focus on making market information easier to review.",
+        "body": "Koscom has revamped its investment information terminal CHECK Expert+, strengthening visualization functions and bond data services. According to Hankyung, the update focuses on improving service screens and data accessibility so users can review market information more intuitively. CHECK Expert+ is a terminal service used in the financial investment industry to check prices and investment data, and the revamp is aimed at making information searches more convenient. Stronger visualization tools may help users grasp complex market data at a glance, while expanded bond data responds to demand for fixed-income investment information. The article did not provide separate details on a specific launch schedule or numerical figures. Source: hankyung.com"
+      },
+      "ja": {
+        "title": "コスコム、CHECK Expert+を改編　可視化機能と債券データを強化",
+        "excerpt": "コスコムは投資情報端末「CHECK Expert+」を改編し、可視化機能と債券データを強化した。韓国経済新聞によると、市場情報を確認しやすくすることに重点を置いた。",
+        "body": "コスコムは投資情報端末「CHECK Expert+」を改編し、可視化機能と債券データの提供を強化した。韓国経済新聞によると、今回の改編は利用者が市場情報をより直感的に確認できるよう、サービス画面とデータへのアクセス性を補完したことが柱だ。CHECK Expert+は金融投資業界で相場や投資情報を確認する端末サービスで、改編の方向性は情報検索の利便性向上に置かれている。特に可視化機能の強化は複雑な市場データを一目で把握する助けとなり、債券データの拡充は債券投資情報への需要に対応する動きとみられる。ただし記事では、具体的な提供開始日や数値情報は別途示されていない。出典: hankyung.com"
+      },
+      "zh": {
+        "title": "Koscom改版CHECK Expert+，强化可视化功能与债券数据服务",
+        "excerpt": "Koscom改版投资信息终端CHECK Expert+，强化可视化功能和债券数据。据韩国经济新闻报道，此次改版重点在于提升市场信息查看的便利性。",
+        "body": "Koscom改版了投资信息终端“CHECK Expert+”，并强化可视化功能和债券数据提供。据韩国经济新闻报道，此次改版的核心，是通过优化服务界面和数据访问方式，让用户能够更直观地查看市场信息。CHECK Expert+是金融投资行业用于查询行情和投资信息的终端服务，此次调整方向集中在提升信息检索便利性。尤其是可视化功能的增强，有助于用户一目了然地把握复杂市场数据；债券数据的补强，则回应了对债券投资信息的需求。不过，报道未另行披露具体上线时间或相关数值。来源: hankyung.com"
+      },
+      "es": {
+        "title": "Koscom renueva CHECK Expert+ y refuerza visualización y datos de bonos",
+        "excerpt": "Koscom renovó su terminal de información de inversión CHECK Expert+ y reforzó la visualización y los datos de bonos, según Hankyung, con el objetivo de facilitar la consulta de información de mercado.",
+        "body": "Koscom renovó su terminal de información de inversión CHECK Expert+ y reforzó las funciones de visualización y la oferta de datos de bonos. Según Hankyung, la actualización se centra en mejorar las pantallas del servicio y el acceso a los datos para que los usuarios puedan consultar la información de mercado de forma más intuitiva. CHECK Expert+ es un servicio de terminal utilizado en la industria de inversión financiera para revisar cotizaciones e información de inversión, y la renovación busca hacer más cómodo el proceso de búsqueda de información. El refuerzo de la visualización ayuda a captar datos de mercado complejos de un vistazo, mientras que la ampliación de datos de bonos responde a la demanda de información sobre inversión en renta fija. El artículo no presentó una fecha concreta de lanzamiento ni cifras específicas. Fuente: hankyung.com"
+      },
+      "pt": {
+        "title": "Koscom reformula CHECK Expert+ e reforça visualização e dados de títulos",
+        "excerpt": "A Koscom reformulou o terminal de informações de investimento CHECK Expert+ e reforçou recursos de visualização e dados de títulos, segundo o Hankyung, para facilitar a consulta de informações de mercado.",
+        "body": "A Koscom reformulou o terminal de informações de investimento CHECK Expert+ e reforçou as funções de visualização e a oferta de dados de títulos. Segundo o Hankyung, a mudança tem como foco aprimorar as telas do serviço e o acesso aos dados para que os usuários consultem informações de mercado de forma mais intuitiva. O CHECK Expert+ é um serviço de terminal usado no setor de investimentos financeiros para acompanhar cotações e informações de investimento, e a reformulação busca ampliar a conveniência na pesquisa de informações. O reforço da visualização ajuda a compreender dados de mercado complexos de uma só vez, enquanto a ampliação dos dados de títulos responde à demanda por informações de investimento em renda fixa. A reportagem não informou cronograma específico de lançamento nem números detalhados. Fonte: hankyung.com"
+      },
+      "de": {
+        "title": "Koscom überarbeitet CHECK Expert+ und stärkt Visualisierung sowie Anleihedaten",
+        "excerpt": "Koscom hat das Investment-Informationsterminal CHECK Expert+ überarbeitet und Visualisierungsfunktionen sowie Anleihedaten ausgebaut, berichtet Hankyung. Ziel ist eine einfachere Prüfung von Marktdaten.",
+        "body": "Koscom hat sein Investment-Informationsterminal CHECK Expert+ überarbeitet und die Visualisierungsfunktionen sowie die Bereitstellung von Anleihedaten gestärkt. Laut Hankyung zielt die Überarbeitung darauf ab, Serviceoberflächen und Datenzugriff so zu verbessern, dass Nutzer Marktinformationen intuitiver prüfen können. CHECK Expert+ ist ein Terminaldienst, der in der Finanzinvestmentbranche zur Abfrage von Kursen und Investmentinformationen genutzt wird. Die neue Ausrichtung soll die Informationssuche komfortabler machen. Besonders die stärkere Visualisierung kann helfen, komplexe Marktdaten auf einen Blick zu erfassen, während der Ausbau der Anleihedaten auf die Nachfrage nach Informationen zu festverzinslichen Anlagen reagiert. Der Artikel nannte keinen konkreten Starttermin und keine gesonderten Zahlen. Quelle: hankyung.com"
+      },
+      "fr": {
+        "title": "Koscom remanie CHECK Expert+ et renforce visualisation et données obligataires",
+        "excerpt": "Koscom a remanié son terminal d’information d’investissement CHECK Expert+ en renforçant la visualisation et les données obligataires, selon Hankyung, afin de faciliter la consultation des marchés.",
+        "body": "Koscom a remanié son terminal d’information d’investissement CHECK Expert+ et renforcé les fonctions de visualisation ainsi que la fourniture de données obligataires. Selon Hankyung, cette refonte vise surtout à améliorer les écrans du service et l’accès aux données afin que les utilisateurs consultent les informations de marché de manière plus intuitive. CHECK Expert+ est un service de terminal utilisé dans le secteur de l’investissement financier pour vérifier les cours et les informations d’investissement, et la refonte cherche à rendre la recherche d’informations plus pratique. Le renforcement de la visualisation peut aider à saisir d’un coup d’œil des données de marché complexes, tandis que l’ajout de données obligataires répond à la demande d’informations sur l’investissement obligataire. L’article ne précise pas de calendrier de lancement ni de chiffres détaillés. Source: hankyung.com"
+      },
+      "ar": {
+        "title": "كوسكوم تحدث CHECK Expert+ وتعزز التصور البياني وبيانات السندات",
+        "excerpt": "حدثت كوسكوم محطة معلومات الاستثمار CHECK Expert+ وعززت وظائف التصور البياني وبيانات السندات، وفق هانكيونغ، بهدف تسهيل مراجعة معلومات السوق للمستخدمين.",
+        "body": "حدثت كوسكوم محطة معلومات الاستثمار CHECK Expert+ وعززت وظائف التصور البياني وخدمات بيانات السندات. ووفق تقرير هانكيونغ، يركز هذا التحديث على تحسين شاشات الخدمة وإتاحة الوصول إلى البيانات حتى يتمكن المستخدمون من مراجعة معلومات السوق بصورة أكثر مباشرة. وتعد CHECK Expert+ خدمة طرفية تستخدم في قطاع الاستثمار المالي لمتابعة الأسعار ومعلومات الاستثمار، ويستهدف التحديث جعل عملية البحث عن المعلومات أكثر سهولة. ويساعد تعزيز التصور البياني في فهم بيانات السوق المعقدة بنظرة واحدة، بينما يعكس توسيع بيانات السندات استجابة للطلب على معلومات الاستثمار في أدوات الدخل الثابت. ولم يورد التقرير موعد إطلاق محددا أو أرقاما منفصلة. المصدر: hankyung.com"
+      },
+      "hi": {
+        "title": "Koscom ने CHECK Expert+ को बदला, विजुअलाइजेशन और बॉन्ड डेटा मजबूत",
+        "excerpt": "Koscom ने निवेश सूचना टर्मिनल CHECK Expert+ को नया रूप देकर विजुअलाइजेशन सुविधाएं और बॉन्ड डेटा मजबूत किया। Hankyung के अनुसार, इसका उद्देश्य बाजार जानकारी देखना आसान बनाना है।",
+        "body": "Koscom ने अपने निवेश सूचना टर्मिनल CHECK Expert+ को नया रूप दिया है और विजुअलाइजेशन सुविधाओं के साथ बॉन्ड डेटा उपलब्धता को मजबूत किया है। Hankyung के अनुसार, इस बदलाव का मुख्य उद्देश्य सेवा स्क्रीन और डेटा पहुंच को बेहतर बनाना है, ताकि उपयोगकर्ता बाजार जानकारी को अधिक सहज तरीके से देख सकें। CHECK Expert+ वित्तीय निवेश उद्योग में कीमतों और निवेश जानकारी की जांच के लिए इस्तेमाल होने वाली टर्मिनल सेवा है, और यह बदलाव सूचना खोज की सुविधा बढ़ाने पर केंद्रित है। विजुअलाइजेशन सुविधा मजबूत होने से जटिल बाजार डेटा को एक नजर में समझने में मदद मिल सकती है, जबकि बॉन्ड डेटा का विस्तार निश्चित आय निवेश जानकारी की मांग का जवाब है। लेख में अलग से कोई लॉन्च समय-सारिणी या संख्यात्मक विवरण नहीं दिया गया। स्रोत: hankyung.com"
+      },
+      "id": {
+        "title": "Koscom Perbarui CHECK Expert+ dengan Visualisasi dan Data Obligasi Lebih Kuat",
+        "excerpt": "Koscom memperbarui terminal informasi investasi CHECK Expert+ dengan memperkuat fitur visualisasi dan data obligasi, menurut Hankyung, agar informasi pasar lebih mudah ditinjau pengguna.",
+        "body": "Koscom memperbarui terminal informasi investasi CHECK Expert+ serta memperkuat fungsi visualisasi dan penyediaan data obligasi. Menurut Hankyung, pembaruan ini berfokus pada penyempurnaan layar layanan dan akses data agar pengguna dapat meninjau informasi pasar secara lebih intuitif. CHECK Expert+ adalah layanan terminal yang digunakan di industri investasi keuangan untuk memeriksa harga dan informasi investasi, dan arah pembaruannya ditujukan untuk memperluas kenyamanan dalam pencarian informasi. Penguatan visualisasi membantu pengguna memahami data pasar yang kompleks secara sekilas, sementara penambahan data obligasi merespons kebutuhan atas informasi investasi obligasi. Artikel tersebut tidak menyajikan jadwal peluncuran tertentu atau angka terperinci. Sumber: hankyung.com"
+      }
+    }
+  },
+  {
+    "id": "63e078bb7582",
+    "slug": "비에이치아이-1분기-영업이익-353억원분기-기준-사상-최대-937426",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-05-15T22:10:53.318Z",
+    "updatedAt": "2026-05-15T22:10:53.318Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/2026051593616",
+    "canonicalUrl": "https://www.hankyung.com/article/2026051593616",
+    "titleFingerprint": "ec8723dbca53ac225b4e16db18c9b89df3a28368",
+    "dedupKeys": [
+      "63e078bb7582b73eedf3476b158f759d5d0aaa8b",
+      "ec8723dbca53ac225b4e16db18c9b89df3a28368",
+      "5f70f21eda9882cfe7c00921d0cc43bd6b37ed01"
+    ],
+    "imageUrl": "/images/articles/63e078bb7582.png",
+    "i18n": {
+      "ko": {
+        "title": "비에이치아이 1분기 영업이익 353억원, 분기 기준 사상 최대 기록",
+        "excerpt": "비에이치아이는 1분기 영업이익이 353억원을 기록했다고 밝혔다. 이는 분기 기준 사상 최대 실적으로, 회사의 최근 분기 수익성이 원문 보도에서 핵심 지표로 제시됐다.",
+        "body": "비에이치아이가 1분기 영업이익 353억원을 기록하며 분기 기준 사상 최대 실적을 냈다고 hankyung.com이 보도했다. 이번 발표의 핵심은 1분기 영업이익 규모와 그 수치가 회사의 분기 실적 기준으로 역대 최고라는 점이다. 원문에서 제시된 수치는 영업이익 353억원이며, 별도 요약이나 추가 재무지표는 제공되지 않았다. 이에 따라 이번 실적 보도는 비에이치아이의 분기 수익성 개선 여부를 확인하는 기준 지표로 해석된다. 향후 투자자와 시장은 후속 공시나 추가 실적 자료를 통해 매출, 순이익 등 다른 항목과의 연관성을 확인할 필요가 있다. 출처: hankyung.com."
+      },
+      "en": {
+        "title": "BHI Posts Q1 Operating Profit of 35.3 Billion Won, Its Highest Quarterly Result",
+        "excerpt": "BHI reported first-quarter operating profit of 35.3 billion won. According to the original report, the figure marks the company’s highest quarterly operating profit on record.",
+        "body": "BHI recorded first-quarter operating profit of 35.3 billion won, marking its highest quarterly result on an operating-profit basis, according to hankyung.com. The central point of the report is the Q1 operating profit amount and the fact that it represents a quarterly record for the company. The original information provided only the operating profit figure of 35.3 billion won, with no separate summary or additional financial metrics. As a result, the report serves as a key reference point for assessing BHI’s quarterly profitability. Investors and the market may need to review later disclosures or detailed earnings data to compare this figure with sales, net profit and other items. Source: hankyung.com."
+      },
+      "ja": {
+        "title": "BHI、1四半期営業利益353億ウォンで四半期ベース過去最高を記録",
+        "excerpt": "BHIは第1四半期の営業利益が353億ウォンになったと発表した。原文報道によると、この数値は同社の四半期ベースで過去最高の営業利益に当たる。",
+        "body": "BHIが第1四半期に営業利益353億ウォンを記録し、四半期ベースで過去最高の実績となったとhankyung.comが報じた。今回の発表で中心となる情報は、第1四半期の営業利益額と、その数値が同社の四半期実績として過去最高である点だ。原文で示された数値は営業利益353億ウォンであり、別途の要約や追加の財務指標は提示されていない。そのため、今回の報道はBHIの四半期収益性を確認するための基準情報として受け止められる。今後、投資家や市場は後続の開示や詳細な決算資料を通じて、売上高や純利益など他項目との関係を確認する必要がある。出典: hankyung.com."
+      },
+      "zh": {
+        "title": "BHI一季度营业利润达353亿韩元，创季度业绩历史新高",
+        "excerpt": "BHI公布第一季度营业利润为353亿韩元。原文报道称，该数值创下公司按季度计算的营业利润历史最高纪录，是本次业绩消息的核心指标。",
+        "body": "据hankyung.com报道，BHI第一季度营业利润达到353亿韩元，按季度营业利润计算创下公司历史最高纪录。此次报道的核心信息是第一季度营业利润规模，以及该数值为公司季度业绩中的最高水平。原文提供的具体数据为营业利润353亿韩元，未给出单独摘要或其他追加财务指标。因此，该消息可作为观察BHI季度盈利能力的重要参考。后续投资者和市场仍需结合公司进一步披露或更详细的业绩资料，确认该数据与销售额、净利润等其他项目之间的关系。来源：hankyung.com。"
+      },
+      "es": {
+        "title": "BHI logra 35.300 millones de wones de beneficio operativo en el 1T, récord trimestral",
+        "excerpt": "BHI informó un beneficio operativo de 35.300 millones de wones en el primer trimestre. Según el reporte original, la cifra marca su mayor resultado trimestral registrado.",
+        "body": "BHI registró un beneficio operativo de 35.300 millones de wones en el primer trimestre, alcanzando su mayor resultado trimestral en términos de beneficio operativo, según hankyung.com. El punto central del reporte es el importe del beneficio operativo del 1T y que esa cifra representa un récord trimestral para la compañía. La información original solo incluye el dato de 35.300 millones de wones, sin resumen separado ni métricas financieras adicionales. Por ello, la noticia funciona como referencia para evaluar la rentabilidad trimestral de BHI. Inversores y mercado deberán revisar futuras divulgaciones o datos detallados de resultados para relacionarlo con ventas, beneficio neto y otros rubros. Fuente: hankyung.com."
+      },
+      "pt": {
+        "title": "BHI registra lucro operacional de 35,3 bilhões de wons no 1º tri, recorde trimestral",
+        "excerpt": "A BHI informou lucro operacional de 35,3 bilhões de wons no primeiro trimestre. Segundo a reportagem original, o valor é o maior resultado trimestral já registrado pela empresa.",
+        "body": "A BHI registrou lucro operacional de 35,3 bilhões de wons no primeiro trimestre, alcançando seu maior resultado trimestral com base no lucro operacional, segundo o hankyung.com. O ponto central da notícia é o valor do lucro operacional do 1º trimestre e o fato de ele representar um recorde trimestral para a companhia. A informação original apresenta apenas o número de 35,3 bilhões de wons, sem resumo separado ou indicadores financeiros adicionais. Assim, a reportagem serve como referência para avaliar a rentabilidade trimestral da BHI. Investidores e o mercado deverão acompanhar divulgações futuras ou dados detalhados de resultados para comparar esse valor com receita, lucro líquido e outros itens. Fonte: hankyung.com."
+      },
+      "de": {
+        "title": "BHI erzielt im ersten Quartal 35,3 Mrd. Won operativen Gewinn und Quartalsrekord",
+        "excerpt": "BHI meldete für das erste Quartal einen operativen Gewinn von 35,3 Milliarden Won. Laut Originalbericht ist dies der höchste Quartalswert in der Unternehmensgeschichte.",
+        "body": "BHI hat im ersten Quartal einen operativen Gewinn von 35,3 Milliarden Won erzielt und damit auf Quartalsbasis den höchsten operativen Gewinn der Unternehmensgeschichte erreicht, berichtet hankyung.com. Im Mittelpunkt der Meldung stehen die Höhe des operativen Gewinns im ersten Quartal und die Einordnung als Quartalsrekord. Die ursprüngliche Information nennt nur den operativen Gewinn von 35,3 Milliarden Won; eine separate Zusammenfassung oder weitere Finanzkennzahlen wurden nicht bereitgestellt. Damit dient die Nachricht als Referenzpunkt zur Einschätzung der vierteljährlichen Profitabilität von BHI. Anleger und Marktteilnehmer sollten spätere Veröffentlichungen oder detaillierte Ergebnisdaten prüfen, um den Zusammenhang mit Umsatz, Nettogewinn und anderen Positionen zu bewerten. Quelle: hankyung.com."
+      },
+      "fr": {
+        "title": "BHI affiche 35,3 milliards de wons de bénéfice opérationnel au T1, record trimestriel",
+        "excerpt": "BHI a annoncé un bénéfice opérationnel de 35,3 milliards de wons au premier trimestre. Selon le reportage original, ce montant constitue son plus haut niveau trimestriel.",
+        "body": "BHI a enregistré un bénéfice opérationnel de 35,3 milliards de wons au premier trimestre, soit son plus haut niveau trimestriel sur cet indicateur, selon hankyung.com. L’information centrale du reportage porte sur le montant du bénéfice opérationnel du T1 et sur le fait qu’il s’agit d’un record trimestriel pour l’entreprise. Les données originales ne mentionnent que ce chiffre de 35,3 milliards de wons, sans résumé séparé ni autres indicateurs financiers. Cette annonce constitue donc un repère pour évaluer la rentabilité trimestrielle de BHI. Les investisseurs et le marché devront consulter les publications ultérieures ou des résultats détaillés afin de comparer ce chiffre avec le chiffre d’affaires, le bénéfice net et d’autres postes. Source : hankyung.com."
+      },
+      "ar": {
+        "title": "بي إتش آي تسجل 35.3 مليار وون أرباحا تشغيلية في الربع الأول، رقم فصلي قياسي",
+        "excerpt": "أعلنت بي إتش آي أن أرباحها التشغيلية في الربع الأول بلغت 35.3 مليار وون. ووفق التقرير الأصلي، يمثل هذا الرقم أعلى مستوى فصلي في تاريخ الشركة.",
+        "body": "سجلت بي إتش آي أرباحا تشغيلية قدرها 35.3 مليار وون في الربع الأول، محققة أعلى نتيجة فصلية لها على أساس الأرباح التشغيلية، بحسب hankyung.com. تتركز المعلومة الأساسية في التقرير على حجم الأرباح التشغيلية للربع الأول وعلى كون هذا الرقم يمثل رقما قياسيا فصليا للشركة. ولم تتضمن المعلومات الأصلية سوى رقم الأرباح التشغيلية البالغ 35.3 مليار وون، من دون ملخص منفصل أو مؤشرات مالية إضافية. لذلك يشكل الخبر مرجعا لتقييم ربحية بي إتش آي الفصلية. وسيحتاج المستثمرون والسوق إلى مراجعة الإفصاحات اللاحقة أو بيانات النتائج التفصيلية لربط هذا الرقم بالمبيعات وصافي الربح وبنود أخرى. المصدر: hankyung.com."
+      },
+      "hi": {
+        "title": "BHI का पहली तिमाही परिचालन लाभ 35.3 अरब वॉन, तिमाही आधार पर रिकॉर्ड",
+        "excerpt": "BHI ने पहली तिमाही में 35.3 अरब वॉन का परिचालन लाभ दर्ज किया। मूल रिपोर्ट के अनुसार, यह कंपनी के लिए तिमाही आधार पर अब तक का सबसे बड़ा परिचालन लाभ है।",
+        "body": "BHI ने पहली तिमाही में 35.3 अरब वॉन का परिचालन लाभ दर्ज किया, जो परिचालन लाभ के आधार पर कंपनी का अब तक का सबसे बड़ा तिमाही परिणाम है, hankyung.com ने यह रिपोर्ट किया। इस खबर का मुख्य बिंदु पहली तिमाही के परिचालन लाभ की राशि और उसका कंपनी के तिमाही इतिहास में रिकॉर्ड स्तर होना है। मूल जानकारी में केवल 35.3 अरब वॉन का परिचालन लाभ दिया गया है; अलग सारांश या अन्य वित्तीय संकेतक उपलब्ध नहीं कराए गए। इसलिए यह रिपोर्ट BHI की तिमाही लाभप्रदता को समझने के लिए एक प्रमुख संदर्भ बनती है। निवेशकों और बाजार को आगे की घोषणाओं या विस्तृत नतीजों से बिक्री, शुद्ध लाभ और अन्य मदों से इसका संबंध देखना होगा। स्रोत: hankyung.com."
+      },
+      "id": {
+        "title": "BHI Catat Laba Operasi Kuartal I 35,3 Miliar Won, Rekor Tertinggi Kuartalan",
+        "excerpt": "BHI melaporkan laba operasi kuartal pertama sebesar 35,3 miliar won. Menurut laporan asli, angka tersebut menjadi laba operasi kuartalan tertinggi dalam sejarah perusahaan.",
+        "body": "BHI mencatat laba operasi kuartal pertama sebesar 35,3 miliar won, menjadi hasil kuartalan tertinggi berdasarkan laba operasi, menurut hankyung.com. Inti laporan ini adalah besaran laba operasi kuartal I dan fakta bahwa angka tersebut merupakan rekor kuartalan bagi perusahaan. Informasi asli hanya memuat angka laba operasi 35,3 miliar won, tanpa ringkasan terpisah atau metrik keuangan tambahan. Karena itu, berita ini menjadi acuan untuk menilai profitabilitas kuartalan BHI. Investor dan pasar perlu melihat pengungkapan lanjutan atau data kinerja yang lebih rinci untuk membandingkan angka ini dengan penjualan, laba bersih, dan pos lainnya. Sumber: hankyung.com."
+      }
+    }
+  },
+  {
+    "id": "5fd6a5f20ad2",
+    "slug": "팔천피-찍고-와르르코스피-롤러코스터에-개미들-패닉-725573",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-05-15T22:09:50.873Z",
+    "updatedAt": "2026-05-15T22:09:50.873Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/2026051593326",
+    "canonicalUrl": "https://www.hankyung.com/article/2026051593326",
+    "titleFingerprint": "917e620e7592e5d3271900ce7ad05ca8de34a660",
+    "dedupKeys": [
+      "5fd6a5f20ad2c063be2e2f33b53b5432b85d69fd",
+      "917e620e7592e5d3271900ce7ad05ca8de34a660",
+      "2d1b3c12d657b7d2fa21bbd0682f56f1e23b9904"
+    ],
+    "imageUrl": "/images/articles/5fd6a5f20ad2.jpg",
+    "i18n": {
+      "ko": {
+        "title": "코스피 8000 돌파 후 6% 급락, 외국인 5조 순매도에 개인 패닉",
+        "excerpt": "5월 15일 코스피가 장중 8046선까지 오른 뒤 차익실현 매물과 위험자산 회피 심리로 6.12% 급락하며 7493.18에 마감했다.",
+        "body": "5월 15일 코스피지수는 장중 8046선까지 오르며 ‘팔천피’를 확인했지만 차익실현 매물이 쏟아지며 전일 대비 488.23포인트, 6.12% 내린 7493.18로 마감했다. 장중에는 7370선까지 밀렸고 오후 1시28분께 코스피 매도 사이드카도 발동됐다. 한국경제에 따르면 일본 물가 상승 우려에 따른 금리인상 가능성, 국제유가 상승에 따른 미국 금리인하 사이클 종료 관측이 위험자산 회피 심리를 자극했다. 외국인은 유가증권시장에서 5조6040억원, 기관은 1조7340억원 순매도했고 개인은 7조2300억원 순매수했다. 원·달러 환율은 한 달여 만에 1500원을 넘었으며 삼성전자와 SK하이닉스도 각각 8%대, 7%대 하락했다. 출처: hankyung.com"
+      },
+      "en": {
+        "title": "KOSPI Slumps 6% After Topping 8,000 as Foreign Selling Hits Retail Mood",
+        "excerpt": "On May 15, the KOSPI climbed as high as 8,046 intraday before profit-taking and risk-off sentiment drove a 6.12% fall to 7,493.18 at the close.",
+        "body": "On May 15, the KOSPI briefly confirmed the “8,000 point” milestone by rising to the 8,046 range, but heavy profit-taking sent the index down 488.23 points, or 6.12%, to close at 7,493.18. It fell as low as the 7,370 range intraday, and a KOSPI sell-side sidecar was triggered around 1:28 p.m. According to Hankyung.com, concerns that Japan’s inflation could lead to rate hikes and that higher oil prices could end the U.S. rate-cut cycle fueled risk-asset avoidance. Foreign investors net sold 5.604 trillion won on the main board, institutions sold 1.734 trillion won, while individuals bought 7.23 trillion won. The won-dollar exchange rate topped 1,500 for the first time in about a month, and Samsung Electronics and SK Hynix fell by around 8% and 7%, respectively. Source: hankyung.com"
+      },
+      "ja": {
+        "title": "KOSPI、8000突破後に6%急落　外国人売りで個人投資家に動揺",
+        "excerpt": "5月15日、KOSPIは取引時間中に8046台まで上昇した後、利益確定売りとリスク資産回避心理で6.12%下落し7493.18で終えた。",
+        "body": "5月15日、KOSPI指数は取引時間中に8046台まで上昇し「8000台」を確認したが、利益確定売りが一気に出て、前日比488.23ポイント、6.12%安の7493.18で取引を終えた。場中には7370台まで下げ、午後1時28分ごろにはKOSPIの売りサイドカーも発動された。韓国経済によると、日本の物価上昇懸念に伴う利上げ可能性や、国際原油価格上昇による米利下げサイクル終了観測が、リスク資産回避心理を刺激した。外国人は有価証券市場で5兆6040億ウォン、機関は1兆7340億ウォンを売り越し、個人は7兆2300億ウォンを買い越した。ウォン・ドル相場は約1カ月ぶりに1500ウォンを上回り、サムスン電子とSKハイニックスもそれぞれ8%台、7%台下落した。出典: hankyung.com"
+      },
+      "zh": {
+        "title": "KOSPI突破8000点后急跌6%，外资5万亿韩元抛售冲击散户情绪",
+        "excerpt": "5月15日，KOSPI盘中升至8046点区间后，因获利了结卖盘和避险情绪升温下跌6.12%，收于7493.18点。",
+        "body": "5月15日，KOSPI指数盘中升至8046点区间，一度确认“8000点”关口，但随后获利了结卖盘涌出，最终较前一交易日下跌488.23点，跌幅6.12%，收于7493.18点。盘中指数一度跌至7370点区间，下午1时28分左右还触发了KOSPI卖出sidecar机制。据韩国经济新闻报道，日本通胀上升引发加息可能性、国际油价上涨带来美国降息周期结束的相关分析，刺激了市场对风险资产的回避心理。外资在主板市场净卖出5.604万亿韩元，机构净卖出1.734万亿韩元，个人投资者则净买入7.23万亿韩元。韩元兑美元汇率约一个月来首次升破1500韩元，三星电子和SK海力士分别下跌8%区间和7%区间。来源: hankyung.com"
+      },
+      "es": {
+        "title": "El KOSPI cae 6% tras superar 8.000 puntos por ventas extranjeras y toma de ganancias",
+        "excerpt": "El 15 de mayo, el KOSPI llegó intradía a la zona de 8.046 puntos, pero la toma de ganancias y la aversión al riesgo lo hicieron caer 6,12% hasta 7.493,18.",
+        "body": "El 15 de mayo, el índice KOSPI llegó intradía a la zona de 8.046 puntos y confirmó el umbral de los 8.000, pero una ola de toma de ganancias lo llevó a cerrar en 7.493,18, 488,23 puntos o 6,12% menos que la sesión anterior. Durante la jornada cayó hasta la zona de 7.370 y hacia la 1:28 p.m. se activó un sidecar de venta en el KOSPI. Según Hankyung.com, las preocupaciones por una posible subida de tasas en Japón ante la inflación y por el fin del ciclo de recortes de tasas en EE. UU. debido al alza del petróleo estimularon la aversión a los activos de riesgo. Los extranjeros vendieron neto 5,604 billones de wones y las instituciones 1,734 billones, mientras los particulares compraron neto 7,23 billones. El won-dólar superó 1.500 por primera vez en cerca de un mes, y Samsung Electronics y SK Hynix cayeron cerca de 8% y 7%. Fuente: hankyung.com"
+      },
+      "pt": {
+        "title": "KOSPI cai 6% após superar 8.000 pontos com venda estrangeira e realização de lucros",
+        "excerpt": "Em 15 de maio, o KOSPI chegou à faixa de 8.046 pontos no intradia, mas realização de lucros e aversão ao risco levaram a queda de 6,12%, para 7.493,18.",
+        "body": "Em 15 de maio, o índice KOSPI chegou no intradia à faixa de 8.046 pontos, confirmando o patamar de 8.000, mas uma onda de realização de lucros levou o fechamento a 7.493,18, queda de 488,23 pontos, ou 6,12%, ante o dia anterior. Durante a sessão, o índice recuou até a faixa de 7.370 e, por volta de 13h28, foi acionado um sidecar de venda no KOSPI. Segundo o Hankyung.com, preocupações de que a inflação no Japão possa levar a altas de juros e de que a alta do petróleo possa encerrar o ciclo de cortes de juros nos EUA estimularam a aversão a ativos de risco. Estrangeiros venderam líquido 5,604 trilhões de won, instituições venderam 1,734 trilhão, enquanto pessoas físicas compraram líquido 7,23 trilhões. O câmbio won-dólar superou 1.500 pela primeira vez em cerca de um mês, e Samsung Electronics e SK Hynix caíram na faixa de 8% e 7%. Fonte: hankyung.com"
+      },
+      "de": {
+        "title": "KOSPI fällt nach Sprung über 8.000 Punkte um 6% wegen Auslandsverkäufen",
+        "excerpt": "Am 15. Mai stieg der KOSPI intraday bis in den Bereich von 8.046 Punkten, fiel dann durch Gewinnmitnahmen und Risikoaversion um 6,12% auf 7.493,18.",
+        "body": "Am 15. Mai stieg der KOSPI-Index intraday bis in den Bereich von 8.046 Punkten und erreichte damit kurz die Marke von 8.000, schloss nach massiven Gewinnmitnahmen aber 488,23 Punkte oder 6,12% tiefer bei 7.493,18. Im Tagesverlauf fiel er bis in den Bereich von 7.370, und gegen 13:28 Uhr wurde ein Verkaufs-Sidecar für den KOSPI ausgelöst. Laut Hankyung.com belasteten Sorgen, dass Japans Inflation Zinserhöhungen auslösen könnte, sowie Einschätzungen, dass steigende Ölpreise den US-Zinssenkungszyklus beenden könnten, die Nachfrage nach Risikoanlagen. Ausländische Investoren verkauften am Hauptmarkt netto 5,604 Billionen Won, Institutionen 1,734 Billionen Won, während Privatanleger netto 7,23 Billionen Won kauften. Der Won-Dollar-Kurs überschritt erstmals seit rund einem Monat 1.500, und Samsung Electronics sowie SK Hynix fielen um rund 8% beziehungsweise 7%. Quelle: hankyung.com"
+      },
+      "fr": {
+        "title": "Le KOSPI chute de 6% après 8.000 points, sous pression des ventes étrangères",
+        "excerpt": "Le 15 mai, le KOSPI a atteint la zone de 8.046 points en séance, avant de reculer de 6,12% à 7.493,18 sous l’effet des prises de bénéfices et de l’aversion au risque.",
+        "body": "Le 15 mai, l’indice KOSPI a brièvement atteint la zone de 8.046 points, confirmant le seuil des 8.000, mais des prises de bénéfices massives l’ont fait clôturer à 7.493,18, en baisse de 488,23 points, soit 6,12%. En séance, il est descendu jusqu’à la zone de 7.370 et un sidecar de vente sur le KOSPI a été déclenché vers 13h28. Selon Hankyung.com, les inquiétudes liées à une possible hausse des taux au Japon en raison de l’inflation, ainsi que l’idée que la hausse du pétrole pourrait mettre fin au cycle de baisse des taux aux États-Unis, ont alimenté l’évitement des actifs risqués. Les investisseurs étrangers ont vendu net 5.604 milliards de wons sur le marché principal, les institutions 1.734 milliards, tandis que les particuliers ont acheté net 7.230 milliards. Le taux won-dollar a dépassé 1.500 pour la première fois en environ un mois, et Samsung Electronics et SK Hynix ont perdu environ 8% et 7%. Source: hankyung.com"
+      },
+      "ar": {
+        "title": "كوسبي يهبط 6% بعد تجاوز 8000 نقطة مع بيع أجنبي وضغط جني الأرباح",
+        "excerpt": "في 15 مايو، صعد مؤشر كوسبي خلال الجلسة إلى نطاق 8046 نقطة، ثم تراجع 6.12% إلى 7493.18 بفعل جني الأرباح وتزايد تجنب المخاطر.",
+        "body": "في 15 مايو، ارتفع مؤشر كوسبي خلال التعاملات إلى نطاق 8046 نقطة، مؤكدا مستوى 8000 نقطة، لكن موجة جني أرباح دفعته للإغلاق عند 7493.18 نقطة، منخفضا 488.23 نقطة أو 6.12% عن الجلسة السابقة. وهبط المؤشر خلال اليوم إلى نطاق 7370 نقطة، كما تم تفعيل آلية البيع الجانبية لكوسبي قرابة الساعة 1:28 بعد الظهر. ووفقا لموقع Hankyung.com، فإن القلق من احتمال رفع الفائدة في اليابان بسبب التضخم، وتحليلات تشير إلى أن ارتفاع أسعار النفط قد ينهي دورة خفض الفائدة الأميركية، حفزا الابتعاد عن الأصول عالية المخاطر. وسجل الأجانب صافي بيع قدره 5.604 تريليون وون في السوق الرئيسية، وباعت المؤسسات 1.734 تريليون وون، بينما اشترى الأفراد صافيا بقيمة 7.23 تريليون وون. وتجاوز سعر صرف الوون مقابل الدولار مستوى 1500 لأول مرة في نحو شهر، وتراجعت سامسونغ إلكترونيكس وSK Hynix بنحو 8% و7% على التوالي. المصدر: hankyung.com"
+      },
+      "hi": {
+        "title": "KOSPI 8,000 पार करने के बाद 6% टूटा, विदेशी बिकवाली से खुदरा निवेशक दबाव में",
+        "excerpt": "15 मई को KOSPI इंट्राडे में 8,046 के दायरे तक चढ़ा, लेकिन मुनाफावसूली और जोखिम से बचने की धारणा के कारण 6.12% गिरकर 7,493.18 पर बंद हुआ।",
+        "body": "15 मई को KOSPI सूचकांक इंट्राडे में 8,046 के दायरे तक पहुंचकर 8,000 अंक का स्तर छूता दिखा, लेकिन तेज मुनाफावसूली के बाद यह पिछले दिन से 488.23 अंक, यानी 6.12% गिरकर 7,493.18 पर बंद हुआ। कारोबार के दौरान सूचकांक 7,370 के दायरे तक फिसला और दोपहर करीब 1:28 बजे KOSPI में सेल साइडकार भी सक्रिय हुआ। Hankyung.com के अनुसार, जापान में महंगाई बढ़ने से दर वृद्धि की संभावना और अंतरराष्ट्रीय तेल कीमतों में तेजी से अमेरिकी दर कटौती चक्र समाप्त होने की आशंका ने जोखिम वाली परिसंपत्तियों से बचने की धारणा को बढ़ाया। विदेशी निवेशकों ने मुख्य बाजार में 5.604 ट्रिलियन वोन और संस्थानों ने 1.734 ट्रिलियन वोन की शुद्ध बिकवाली की, जबकि व्यक्तिगत निवेशकों ने 7.23 ट्रिलियन वोन की शुद्ध खरीदारी की। वोन-डॉलर विनिमय दर करीब एक महीने बाद 1,500 से ऊपर गई, और Samsung Electronics तथा SK Hynix क्रमशः करीब 8% और 7% गिरे। स्रोत: hankyung.com"
+      },
+      "id": {
+        "title": "KOSPI Anjlok 6% Setelah Tembus 8.000, Aksi Jual Asing Tekan Investor Ritel",
+        "excerpt": "Pada 15 Mei, KOSPI sempat naik ke kisaran 8.046 intrahari, lalu jatuh 6,12% ke 7.493,18 akibat aksi ambil untung dan meningkatnya penghindaran risiko.",
+        "body": "Pada 15 Mei, indeks KOSPI sempat naik intrahari ke kisaran 8.046 dan mengonfirmasi level 8.000, tetapi tekanan ambil untung membuatnya ditutup turun 488,23 poin, atau 6,12%, ke 7.493,18. Sepanjang sesi, indeks sempat merosot ke kisaran 7.370, dan sekitar pukul 13.28 sidecar jual KOSPI diaktifkan. Menurut Hankyung.com, kekhawatiran bahwa inflasi Jepang dapat memicu kenaikan suku bunga, serta analisis bahwa kenaikan harga minyak dapat mengakhiri siklus pemangkasan suku bunga AS, mendorong penghindaran aset berisiko. Investor asing mencatat jual bersih 5,604 triliun won di pasar utama, institusi menjual bersih 1,734 triliun won, sementara individu membeli bersih 7,23 triliun won. Kurs won-dolar menembus 1.500 untuk pertama kalinya dalam sekitar sebulan, dan Samsung Electronics serta SK Hynix masing-masing turun sekitar 8% dan 7%. Sumber: hankyung.com"
+      }
+    }
+  },
+  {
     "id": "dd8e39c532dd",
     "slug": "한미반도체-1분기-영업익-84억전년비-879-감소-508103",
     "channelId": "ETF",
@@ -4271,231 +4496,6 @@
         "title": "OKX Kaji Akuisisi Saham Coinone dengan Korea Investment, Bidik Pasar Korea",
         "excerpt": "Bursa aset kripto global OKX meninjau akuisisi saham Coinone bersama Korea Investment & Securities sebagai langkah masuk ke pasar Korea Selatan.",
         "body": "Bursa aset kripto global besar OKX sedang meninjau akuisisi bersama saham Coinone, bursa aset virtual terbesar ketiga di Korea Selatan, bersama Korea Investment & Securities. Menurut teks asli, CEO Coinone Cha Myung-hun disebut mendorong penjualan saham melalui penjualan saham lama dan penerbitan saham baru. OKX dan Korea Investment & Securities masing-masing mempertimbangkan akuisisi sekitar 20%. Nilai perusahaan Coinone diperkirakan sedikitnya lebih dari 140 miliar won. Jika kajian ini terealisasi, hal itu dapat menjadi contoh masuknya bursa global dan perusahaan sekuritas domestik secara bersama ke pasar aset virtual Korea. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "1e363e218bff",
-    "slug": "부동산펀드-시동-거는-한앤코-운용-전문가-영입나서-132789",
-    "channelId": "ETF",
-    "category": "etf",
-    "publishedAt": "2026-05-15T07:36:44.471Z",
-    "updatedAt": "2026-05-15T07:36:44.471Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/stock/12049113",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12049113",
-    "titleFingerprint": "abcae414e1e4360eb0cbc6bbe9c2cf5f4d59569d",
-    "dedupKeys": [
-      "1e363e218bffed753b8045e1f79665ea07368bd1",
-      "abcae414e1e4360eb0cbc6bbe9c2cf5f4d59569d",
-      "06d2c3900cedc1bf8898ede5cd786caf87257bbb"
-    ],
-    "imageUrl": "/images/articles/1e363e218bff.jpg",
-    "i18n": {
-      "ko": {
-        "title": "부동산펀드 시동 거는 한앤컴퍼니, 신설 운용사 에이치캠 전문가 영입 추진",
-        "excerpt": "사모펀드 운용사 한앤컴퍼니가 5월 15일 신설 자산운용 법인 에이치캠을 통해 부동산펀드 사업에 나서며 운용 전문가 영입을 추진하고 있다.",
-        "body": "사모펀드(PEF) 운용사 한앤컴퍼니가 신설 자산운용 법인 에이치캠(HC)을 통해 부동산펀드 사업에 시동을 걸고 운용 전문가 영입에 나섰다. 매일경제 자본시장 전문 유료매체 레이더M은 해당 소식을 5월 15일 14시 18분 보도했다. 이번 움직임은 한앤컴퍼니가 새 운용 법인을 기반으로 부동산펀드 운용 역량을 갖추려는 단계로 해석된다. 구체적인 펀드 규모나 투자 대상은 원문에 공개되지 않았다. 향후 전문가 영입 결과가 에이치캠의 운용 체계 구축과 부동산펀드 출범 속도에 영향을 줄 전망이다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Hahn & Company Moves to Launch Real Estate Fund via New Hcam Platform",
-        "excerpt": "Private equity firm Hahn & Company is preparing a real estate fund push through its newly established asset management unit Hcam, while seeking fund management specialists.",
-        "body": "Private equity fund manager Hahn & Company has begun preparing for a real estate fund business through its newly established asset management entity, Hcam (HC), and is moving to recruit investment management professionals. Maeil Business Newspaper’s capital markets paid outlet RadarM reported the development at 14:18 on May 15. The move indicates that Hahn & Company is working to build real estate fund management capacity around the new platform. The original report did not disclose the specific fund size or investment targets. The outcome of the expert recruitment process is expected to affect how quickly Hcam can establish its operating structure and launch the real estate fund. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "不動産ファンド始動へ、ハンアンドカンパニーが新運用会社Hcamで専門人材採用へ",
-        "excerpt": "PEF運用会社ハンアンドカンパニーは5月15日、新設の資産運用会社Hcamを通じて不動産ファンド事業を進め、運用専門家の採用に乗り出している。",
-        "body": "プライベートエクイティファンド（PEF）運用会社のハンアンドカンパニーは、新設した資産運用法人Hcam（HC）を通じて不動産ファンド事業を始動し、運用専門家の採用に乗り出した。毎日経済新聞の資本市場専門有料媒体「レーダーM」は、この内容を5月15日14時18分に報じた。今回の動きは、ハンアンドカンパニーが新たな運用法人を基盤に不動産ファンドの運用能力を整えようとする段階と受け止められる。具体的なファンド規模や投資対象は原文では明らかにされていない。今後の人材採用の結果は、Hcamの運用体制構築と不動産ファンド開始の速度に影響するとみられる。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "韩安公司启动房地产基金布局，借新设资管平台Hcam招募运营专家",
-        "excerpt": "私募股权基金管理公司韩安公司5月15日通过新设资产管理法人Hcam推进房地产基金业务，并开始招募基金运营专业人才。",
-        "body": "私募股权基金（PEF）管理公司韩安公司正通过新设资产管理法人Hcam（HC）启动房地产基金业务，并着手招募运营专业人才。每日经济新闻资本市场专业付费媒体RadarM于5月15日14时18分报道了这一消息。此举显示，韩安公司正以新资产管理法人为基础，准备建立房地产基金运营能力。原文未披露具体基金规模或投资标的。未来专业人才招募结果，将影响Hcam运营体系建设以及房地产基金推出的进度。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Hahn & Company activa su fondo inmobiliario con Hcam y busca expertos de gestión",
-        "excerpt": "La gestora de capital privado Hahn & Company avanza el 15 de mayo en su negocio de fondos inmobiliarios mediante la nueva firma Hcam y busca especialistas en gestión.",
-        "body": "La gestora de fondos de capital privado (PEF) Hahn & Company comenzó a poner en marcha un negocio de fondos inmobiliarios a través de su nueva sociedad de gestión de activos, Hcam (HC), y está buscando incorporar profesionales de gestión. El medio de pago especializado en mercados de capitales RadarM, de Maeil Business Newspaper, informó la noticia el 15 de mayo a las 14:18. El movimiento muestra que Hahn & Company intenta dotar a la nueva plataforma de capacidad para gestionar fondos inmobiliarios. El reporte original no reveló el tamaño del fondo ni los activos objetivo. El resultado de la contratación influirá en la construcción del sistema operativo de Hcam y en el ritmo de lanzamiento del fondo inmobiliario. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Hahn & Company prepara fundo imobiliário via Hcam e busca especialistas de gestão",
-        "excerpt": "A gestora de private equity Hahn & Company avança em 15 de maio com um fundo imobiliário por meio da nova Hcam e procura profissionais de gestão de ativos.",
-        "body": "A gestora de fundos de private equity (PEF) Hahn & Company iniciou os preparativos para um negócio de fundos imobiliários por meio de sua nova empresa de gestão de ativos, Hcam (HC), e passou a buscar profissionais especializados em gestão. O RadarM, veículo pago da Maeil Business Newspaper dedicado ao mercado de capitais, publicou a notícia em 15 de maio, às 14h18. O movimento indica que a Hahn & Company pretende construir capacidade de gestão de fundos imobiliários com base na nova plataforma. O texto original não informou o tamanho do fundo nem os ativos de investimento. O resultado da contratação deve influenciar a estrutura operacional da Hcam e a velocidade de lançamento do fundo imobiliário. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Hahn & Company startet Immobilienfonds-Pläne mit Hcam und sucht Managementprofis",
-        "excerpt": "Der Private-Equity-Manager Hahn & Company treibt am 15. Mai über die neue Asset-Management-Gesellschaft Hcam ein Immobilienfondsprojekt voran und sucht Fachkräfte.",
-        "body": "Der Private-Equity-Fondsmanager Hahn & Company bereitet über seine neu gegründete Asset-Management-Gesellschaft Hcam (HC) ein Immobilienfondsgeschäft vor und hat mit der Suche nach Managementexperten begonnen. RadarM, das kostenpflichtige Kapitalmarktmedium der Maeil Business Newspaper, berichtete darüber am 15. Mai um 14:18 Uhr. Der Schritt deutet darauf hin, dass Hahn & Company über die neue Plattform Kompetenzen für die Verwaltung von Immobilienfonds aufbauen will. Der ursprüngliche Bericht nannte keine konkrete Fondsgröße und keine Anlageziele. Das Ergebnis der Expertensuche dürfte beeinflussen, wie schnell Hcam seine Verwaltungsstruktur aufbaut und den Immobilienfonds startet. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Hahn & Company lance son projet de fonds immobilier via Hcam et recrute des experts",
-        "excerpt": "La société de private equity Hahn & Company avance le 15 mai sur un fonds immobilier via sa nouvelle entité Hcam et cherche des spécialistes de la gestion.",
-        "body": "La société de gestion de fonds de private equity (PEF) Hahn & Company commence à préparer une activité de fonds immobiliers via sa nouvelle entité de gestion d’actifs, Hcam (HC), et cherche à recruter des professionnels de la gestion. RadarM, média payant de Maeil Business Newspaper spécialisé dans les marchés de capitaux, a rapporté l’information le 15 mai à 14h18. Cette initiative montre que Hahn & Company veut bâtir des capacités de gestion de fonds immobiliers autour de cette nouvelle plateforme. Le rapport original ne précise ni la taille du fonds ni les cibles d’investissement. Le résultat du recrutement devrait peser sur la mise en place du dispositif opérationnel de Hcam et sur le calendrier de lancement du fonds immobilier. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "هان آند كومباني تمهد لصندوق عقاري عبر Hcam وتبدأ استقطاب خبراء إدارة",
-        "excerpt": "تتحرك شركة هان آند كومباني لإدارة صناديق الملكية الخاصة في 15 مايو نحو نشاط الصناديق العقارية عبر كيان Hcam الجديد، مع السعي لتوظيف خبراء إدارة.",
-        "body": "بدأت شركة هان آند كومباني، وهي مدير لصناديق الملكية الخاصة، التحرك لإطلاق نشاط في الصناديق العقارية عبر كيان إدارة الأصول الجديد Hcam (HC)، وشرعت في البحث عن متخصصين في الإدارة. ونقلت RadarM، وهي وسيلة مدفوعة متخصصة في أسواق رأس المال تابعة لصحيفة Maeil Business Newspaper، الخبر في 15 مايو الساعة 14:18. تعكس الخطوة سعي هان آند كومباني إلى بناء قدرات لإدارة الصناديق العقارية من خلال المنصة الجديدة. ولم يكشف النص الأصلي عن حجم الصندوق أو أهداف الاستثمار المحددة. ومن المتوقع أن تؤثر نتائج استقطاب الخبراء في بناء هيكل إدارة Hcam وسرعة إطلاق الصندوق العقاري. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "Hcam के जरिए रियल एस्टेट फंड की तैयारी में Hahn & Company, विशेषज्ञों की भर्ती शुरू",
-        "excerpt": "प्राइवेट इक्विटी फंड मैनेजर Hahn & Company ने 15 मई को नई एसेट मैनेजमेंट इकाई Hcam के जरिए रियल एस्टेट फंड कारोबार की तैयारी और विशेषज्ञ भर्ती शुरू की।",
-        "body": "प्राइवेट इक्विटी फंड (PEF) मैनेजर Hahn & Company ने अपनी नई एसेट मैनेजमेंट इकाई Hcam (HC) के जरिए रियल एस्टेट फंड कारोबार शुरू करने की दिशा में कदम बढ़ाया है और प्रबंधन विशेषज्ञों की भर्ती पर काम शुरू किया है। Maeil Business Newspaper के पूंजी बाजार केंद्रित पेड मीडिया RadarM ने यह खबर 15 मई को 14:18 बजे प्रकाशित की। यह कदम बताता है कि Hahn & Company नई इकाई के आधार पर रियल एस्टेट फंड प्रबंधन क्षमता बनाना चाहती है। मूल रिपोर्ट में फंड का आकार या निवेश लक्ष्य नहीं बताया गया। विशेषज्ञ भर्ती का परिणाम Hcam की परिचालन संरचना और रियल एस्टेट फंड लॉन्च की गति को प्रभावित कर सकता है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Hahn & Company Siapkan Dana Properti Lewat Hcam dan Rekrut Ahli Manajemen",
-        "excerpt": "Manajer private equity Hahn & Company pada 15 Mei menyiapkan bisnis dana properti melalui entitas manajemen aset baru Hcam sambil mencari tenaga ahli pengelolaan.",
-        "body": "Manajer dana private equity (PEF) Hahn & Company mulai menyiapkan bisnis dana properti melalui perusahaan manajemen aset baru, Hcam (HC), dan bergerak merekrut profesional pengelolaan. RadarM, media berbayar khusus pasar modal milik Maeil Business Newspaper, melaporkan kabar tersebut pada 15 Mei pukul 14:18. Langkah ini menunjukkan Hahn & Company sedang membangun kemampuan pengelolaan dana properti berbasis platform baru tersebut. Laporan asli tidak mengungkap ukuran dana maupun target investasi. Hasil rekrutmen ahli diperkirakan akan memengaruhi pembentukan sistem operasional Hcam dan kecepatan peluncuran dana properti. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "7bb311ce50c8",
-    "slug": "속보-코스피-8천피-찍고-급변침61-급락한-7493-마감-567259",
-    "channelId": "ETF",
-    "category": "etf",
-    "publishedAt": "2026-05-15T07:35:46.992Z",
-    "updatedAt": "2026-05-15T07:35:46.992Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/stock/12049176",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12049176",
-    "titleFingerprint": "ca87df193d11e05af3e51b0158f2fb0a3514b28e",
-    "dedupKeys": [
-      "7bb311ce50c89d89284421e7cb2576bf4e89d4eb",
-      "ca87df193d11e05af3e51b0158f2fb0a3514b28e",
-      "6acb4174445516b735a1856c22c1a6f2d8a40c5c"
-    ],
-    "imageUrl": "/images/articles/7bb311ce50c8.jpg",
-    "i18n": {
-      "ko": {
-        "title": "코스피 8000선 돌파 후 급락, 6.12% 내린 7493 마감",
-        "excerpt": "코스피가 15일 장 초반 8000선을 넘으며 ‘꿈의 8000피’를 기록했지만 이후 급락해 전일 대비 488.23포인트, 6.12% 하락한 7493선에서 마감했다.",
-        "body": "코스피가 15일 장 초반 8000선을 넘어서며 ‘꿈의 8000피’를 돌파했지만, 이후 급격히 하락 전환해 7400선에서 거래를 마쳤다. 이날 코스피는 전일 대비 488.23포인트, 6.12% 내린 7493에 마감했다. 장 초반에는 8000선 돌파로 시장의 이목이 집중됐으나, 이후 낙폭이 커지며 상승분을 모두 반납했다. 하루 변동 폭이 크게 확대되면서 투자자들은 지수 흐름과 단기 변동성에 주목하게 됐다. 이번 움직임은 8000선 돌파 이후 급락 마감이라는 점에서 국내 증시의 변동성을 부각했다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "KOSPI Falls 6.12% to 7,493 After Briefly Breaking 8,000",
-        "excerpt": "The KOSPI topped the 8,000 mark early on the 15th, reaching the so-called dream level, but then plunged to close down 488.23 points, or 6.12%, at 7,493.",
-        "body": "The KOSPI briefly climbed above 8,000 in early trading on the 15th, breaking the so-called dream 8,000 level, but then reversed sharply and ended in the 7,400 range. The index closed at 7,493, down 488.23 points, or 6.12%, from the previous session. The early move above 8,000 drew market attention, but the index later widened its losses and gave back the gains. With the day’s trading range expanding sharply, investors focused on the index’s direction and short-term volatility. The move highlighted volatility in South Korea’s stock market after the brief 8,000-point breakout. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "KOSPI、8000突破後に急落 6.12%安の7493で終了",
-        "excerpt": "KOSPIは15日序盤に8000を超え「夢の8000」を記録したが、その後急落し、前日比488.23ポイント、6.12%安の7493で取引を終えた。",
-        "body": "KOSPIは15日の取引序盤に8000を上回り、「夢の8000」を突破したものの、その後急激に下落へ転じ、7400台で取引を終えた。この日のKOSPIは前日比488.23ポイント、6.12%安の7493で引けた。序盤の8000突破で市場の注目を集めたが、その後は下げ幅が拡大し、上昇分をすべて失った。一日の変動幅が大きく広がったことで、投資家は指数の流れと短期的な変動性に注目した。今回の動きは、8000突破後に急落して終了した点で韓国株式市場の変動性を浮き彫りにした。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "KOSPI突破8000点后急跌，收于7493点下挫6.12%",
-        "excerpt": "KOSPI在15日早盘一度突破8000点，触及所谓“梦想8000点”，但随后急跌，较前一交易日下跌488.23点、跌幅6.12%，收于7493点。",
-        "body": "KOSPI在15日早盘突破8000点，站上所谓“梦想8000点”，但随后迅速转为下跌，并在7400点区间收盘。当天KOSPI较前一交易日下跌488.23点，跌幅6.12%，收于7493点。早盘突破8000点曾吸引市场关注，但之后跌幅扩大，回吐全部涨幅。随着单日波动幅度明显放大，投资者开始关注指数走势和短期波动性。此次走势的特点在于突破8000点后急跌收盘，凸显了韩国股市的波动性。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "KOSPI cae 6,12% y cierra en 7.493 tras superar los 8.000",
-        "excerpt": "El KOSPI superó al inicio del día 15 la marca de 8.000 puntos, el llamado nivel soñado, pero luego se desplomó y cerró en 7.493, con una caída de 488,23 puntos o 6,12%.",
-        "body": "El KOSPI superó los 8.000 puntos en las primeras operaciones del día 15, alcanzando el llamado nivel soñado de 8.000, pero después giró bruscamente a la baja y terminó en la zona de 7.400. El índice cerró en 7.493, con una caída de 488,23 puntos, o 6,12%, frente a la sesión anterior. La ruptura inicial de los 8.000 puntos atrajo la atención del mercado, pero luego las pérdidas se ampliaron y el avance se evaporó. Con una fuerte ampliación del rango diario, los inversores siguieron de cerca la dirección del índice y la volatilidad de corto plazo. El movimiento subrayó la volatilidad del mercado bursátil surcoreano tras superar brevemente los 8.000 puntos. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "KOSPI cai 6,12% e fecha em 7.493 após romper 8.000 pontos",
-        "excerpt": "O KOSPI superou os 8.000 pontos no início do pregão do dia 15, atingindo o chamado nível dos sonhos, mas depois despencou e fechou em 7.493, queda de 488,23 pontos ou 6,12%.",
-        "body": "O KOSPI passou dos 8.000 pontos no início das negociações do dia 15, rompendo o chamado patamar dos sonhos de 8.000, mas depois virou bruscamente para queda e encerrou na faixa dos 7.400. O índice fechou em 7.493, baixa de 488,23 pontos, ou 6,12%, em relação ao pregão anterior. A superação inicial dos 8.000 pontos chamou a atenção do mercado, mas as perdas aumentaram em seguida e os ganhos foram totalmente devolvidos. Com a forte ampliação da oscilação diária, investidores passaram a observar o rumo do índice e a volatilidade de curto prazo. O movimento destacou a volatilidade da bolsa sul-coreana após o breve rompimento dos 8.000 pontos. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "KOSPI fällt nach Sprung über 8.000 um 6,12% auf 7.493",
-        "excerpt": "Der KOSPI überschritt am 15. zu Handelsbeginn die Marke von 8.000 Punkten, fiel danach jedoch stark und schloss 488,23 Punkte beziehungsweise 6,12% tiefer bei 7.493.",
-        "body": "Der KOSPI stieg am 15. im frühen Handel über 8.000 Punkte und erreichte damit die sogenannte Traum-Marke von 8.000, drehte danach jedoch abrupt nach unten und beendete den Handel im Bereich von 7.400 Punkten. Der Index schloss bei 7.493, ein Minus von 488,23 Punkten oder 6,12% gegenüber dem Vortag. Der frühe Sprung über 8.000 zog die Aufmerksamkeit des Marktes auf sich, doch anschließend weiteten sich die Verluste aus und die Gewinne wurden vollständig abgegeben. Da die Tagesschwankung deutlich zunahm, richteten Anleger den Blick auf die Indexentwicklung und die kurzfristige Volatilität. Die Bewegung verdeutlichte die Volatilität des südkoreanischen Aktienmarkts nach dem kurzen Ausbruch über 8.000 Punkte. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Le KOSPI chute de 6,12% à 7 493 après avoir dépassé 8 000",
-        "excerpt": "Le KOSPI a franchi les 8 000 points en début de séance le 15, atteignant le niveau dit rêvé, avant de plonger et de clôturer à 7 493, en baisse de 488,23 points ou 6,12%.",
-        "body": "Le KOSPI a dépassé les 8 000 points au début de la séance du 15, franchissant le seuil dit rêvé des 8 000, mais il s’est ensuite retourné brusquement à la baisse pour terminer dans la zone des 7 400 points. L’indice a clôturé à 7 493, en recul de 488,23 points, soit 6,12%, par rapport à la veille. Le franchissement initial des 8 000 points a attiré l’attention du marché, mais les pertes se sont ensuite creusées et les gains ont été entièrement effacés. Avec l’élargissement marqué de l’amplitude quotidienne, les investisseurs ont suivi de près la trajectoire de l’indice et la volatilité à court terme. Ce mouvement a mis en évidence la volatilité du marché actions sud-coréen après le bref passage au-dessus de 8 000 points. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "كوسبي يهبط 6.12% إلى 7493 بعد اختراقه مستوى 8000",
-        "excerpt": "تجاوز مؤشر كوسبي في بداية تداولات يوم 15 مستوى 8000 نقطة، المعروف بالمستوى الحلم، لكنه تراجع لاحقا بقوة ليغلق عند 7493 منخفضا 488.23 نقطة أو 6.12%.",
-        "body": "تجاوز مؤشر كوسبي في التعاملات المبكرة يوم 15 مستوى 8000 نقطة، مخترقا ما يعرف بمستوى 8000 الحلم، لكنه تحول لاحقا إلى هبوط حاد وأنهى التداول في نطاق 7400 نقطة. وأغلق المؤشر عند 7493 نقطة، منخفضا 488.23 نقطة، أو 6.12%، مقارنة بالجلسة السابقة. وجذب اختراق مستوى 8000 في بداية الجلسة انتباه السوق، لكن الخسائر اتسعت لاحقا وتلاشت المكاسب بالكامل. ومع اتساع نطاق التذبذب اليومي بشكل كبير، ركز المستثمرون على اتجاه المؤشر والتقلبات قصيرة الأجل. وأبرزت هذه الحركة تقلبات سوق الأسهم الكورية الجنوبية بعد الاختراق القصير لمستوى 8000 نقطة. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "KOSPI 8000 पार करने के बाद 6.12% गिरकर 7493 पर बंद",
-        "excerpt": "KOSPI ने 15 तारीख को शुरुआती कारोबार में 8000 का तथाकथित सपनों वाला स्तर पार किया, लेकिन बाद में तेज गिरावट के साथ 488.23 अंक या 6.12% टूटकर 7493 पर बंद हुआ।",
-        "body": "KOSPI ने 15 तारीख को शुरुआती कारोबार में 8000 अंक का स्तर पार किया और तथाकथित सपनों के 8000 स्तर को छुआ, लेकिन इसके बाद सूचकांक तेजी से गिरावट की ओर मुड़ गया और 7400 के दायरे में बंद हुआ। 이날 सूचकांक पिछले सत्र की तुलना में 488.23 अंक, यानी 6.12%, गिरकर 7493 पर बंद हुआ। शुरुआती कारोबार में 8000 के पार जाने से बाजार का ध्यान इस पर केंद्रित हुआ, लेकिन बाद में गिरावट बढ़ी और सारी बढ़त मिट गई। एक दिन की चाल में बड़ा उतार-चढ़ाव दिखने से निवेशकों का ध्यान सूचकांक की दिशा और अल्पकालिक अस्थिरता पर गया। यह चाल 8000 पार करने के बाद तेज गिरावट के साथ बंद होने के कारण दक्षिण कोरियाई शेयर बाजार की अस्थिरता को रेखांकित करती है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "KOSPI Anjlok 6,12% ke 7.493 Usai Sempat Tembus 8.000",
-        "excerpt": "KOSPI pada awal perdagangan tanggal 15 sempat menembus level 8.000 yang disebut level impian, tetapi kemudian anjlok dan ditutup di 7.493, turun 488,23 poin atau 6,12%.",
-        "body": "KOSPI pada awal perdagangan tanggal 15 sempat naik melewati 8.000, menembus level yang disebut sebagai 8.000 impian, tetapi kemudian berbalik turun tajam dan mengakhiri perdagangan di kisaran 7.400. Indeks ditutup di 7.493, melemah 488,23 poin, atau 6,12%, dibandingkan sesi sebelumnya. Tembusnya level 8.000 pada awal sesi menarik perhatian pasar, namun setelah itu penurunan melebar dan seluruh kenaikan terhapus. Dengan rentang pergerakan harian yang membesar, investor mencermati arah indeks dan volatilitas jangka pendek. Pergerakan ini menonjolkan volatilitas pasar saham Korea Selatan setelah indeks sempat menembus 8.000. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "673ab0234993",
-    "slug": "동인기연-1분기-매출-620억원영업이익-104-691009",
-    "channelId": "ETF",
-    "category": "etf",
-    "publishedAt": "2026-05-15T07:34:47.908Z",
-    "updatedAt": "2026-05-15T07:34:47.908Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/economy/12049244",
-    "canonicalUrl": "https://www.mk.co.kr/news/economy/12049244",
-    "titleFingerprint": "659a7cad9d9408f88e4351baffe5f0125567079a",
-    "dedupKeys": [
-      "673ab0234993d4b5781cebf5904a5f525a9784ac",
-      "659a7cad9d9408f88e4351baffe5f0125567079a",
-      "4f5cc8887fb3ce2a7967274a39349ba72c2bbf91"
-    ],
-    "imageUrl": "/images/articles/673ab0234993.jpg",
-    "i18n": {
-      "ko": {
-        "title": "동인기연 1분기 매출 620억원, 역대 최대 매출과 영업이익률 10.4% 기록",
-        "excerpt": "아웃도어 장비 제조기업 동인기연은 15일 올해 1분기 매출 620억원을 기록해 1분기 기준 역대 최대 실적을 냈고, 중국 시장 회복으로 영업이익이 54% 증가했다고 밝혔다.",
-        "body": "아웃도어 장비 제조 전문기업 동인기연이 올해 1분기 매출액 620억원을 기록하며 1분기 기준 역대 최대 매출을 달성했다. 동인기연은 15일 이 같은 실적을 공개하고, 영업이익률은 10.4%를 기록했다고 밝혔다. 원문에 따르면 이번 실적은 중국 시장 회복이 반영된 결과로, 영업이익은 전년 대비 54% 증가했다. 1분기 매출액 기준으로 최고치를 새로 쓴 점은 동인기연의 수익성 개선 흐름을 보여주는 지표로 해석된다. 다만 향후 실적 전망이나 추가 사업 계획에 대한 구체적 내용은 원문에 제시되지 않았다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Dong In Entech posts Q1 revenue of 62 billion won, operating margin at 10.4%",
-        "excerpt": "Outdoor equipment maker Dong In Entech said on the 15th that first-quarter revenue reached 62 billion won, a record for any Q1, as operating profit rose 54% on China market recovery.",
-        "body": "Dong In Entech, a company specializing in outdoor equipment manufacturing, recorded first-quarter revenue of 62 billion won this year, marking its highest-ever revenue for a first quarter. The company disclosed the results on the 15th and said its operating profit margin reached 10.4%. According to the original report, the results reflected a recovery in the Chinese market, with operating profit increasing 54% from a year earlier. The record first-quarter revenue indicates an improvement in Dong In Entech’s profitability. The original article did not provide specific details on future earnings guidance or additional business plans. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "東仁技研、第1四半期売上高620億ウォンで過去最高 営業利益率10.4%",
-        "excerpt": "アウトドア装備メーカーの東仁技研は15日、今年第1四半期の売上高が620億ウォンとなり、第1四半期として過去最高を記録し、中国市場の回復で営業利益が54%増加したと明らかにした。",
-        "body": "アウトドア装備製造を専門とする東仁技研は、今年第1四半期の売上高が620億ウォンとなり、第1四半期として過去最高の売上を達成した。東仁技研は15日、この業績を公表し、営業利益率は10.4%を記録したと明らかにした。原文によると、今回の業績には中国市場の回復が反映され、営業利益は前年同期比で54%増加した。第1四半期の売上高として最高値を更新したことは、同社の収益性改善の流れを示す指標と受け止められる。ただし、今後の業績見通しや追加の事業計画に関する具体的な内容は原文では示されていない。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "东仁技研一季度营收620亿韩元创新高，营业利润率达10.4%",
-        "excerpt": "户外装备制造企业东仁技研15日表示，今年一季度营收达到620亿韩元，创一季度历史新高，并因中国市场复苏推动营业利润增长54%。",
-        "body": "专注于户外装备制造的东仁技研今年第一季度实现营收620亿韩元，创下公司一季度营收历史新高。东仁技研于15日公布上述业绩，并表示营业利润率为10.4%。据原文报道，此次业绩反映了中国市场的复苏，营业利润同比增长54%。一季度营收刷新最高纪录，显示出东仁技研盈利能力改善的趋势。不过，原文未披露关于未来业绩展望或新增业务计划的具体内容。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Dong In Entech logra ingresos récord de 62.000 millones de wones en el primer trimestre",
-        "excerpt": "El fabricante de equipos outdoor Dong In Entech informó el día 15 que sus ingresos del primer trimestre fueron de 62.000 millones de wones, récord para ese periodo, con un alza del 54% en beneficio operativo por la recuperación en China.",
-        "body": "Dong In Entech, empresa especializada en la fabricación de equipos para actividades al aire libre, registró en el primer trimestre de este año ingresos de 62.000 millones de wones, la cifra más alta de su historia para un primer trimestre. La compañía informó estos resultados el día 15 y señaló que el margen de beneficio operativo fue del 10,4%. Según el texto original, el desempeño reflejó la recuperación del mercado chino, mientras que el beneficio operativo aumentó un 54% interanual. El nuevo máximo de ingresos trimestrales muestra una mejora en la rentabilidad de Dong In Entech. El artículo original no incluyó detalles concretos sobre previsiones futuras ni nuevos planes de negocio. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Dong In Entech atinge receita recorde de 62 bilhões de won no 1º trimestre",
-        "excerpt": "A fabricante de equipamentos outdoor Dong In Entech informou no dia 15 que registrou receita de 62 bilhões de won no primeiro trimestre, recorde para o período, com lucro operacional 54% maior graças à recuperação na China.",
-        "body": "A Dong In Entech, empresa especializada na fabricação de equipamentos para atividades ao ar livre, registrou receita de 62 bilhões de won no primeiro trimestre deste ano, o maior valor já alcançado pela companhia em um primeiro trimestre. A empresa divulgou os resultados no dia 15 e informou que a margem de lucro operacional foi de 10,4%. Segundo o texto original, o desempenho refletiu a recuperação do mercado chinês, com aumento de 54% no lucro operacional em relação ao ano anterior. O recorde de receita no primeiro trimestre indica melhora na rentabilidade da Dong In Entech. O artigo original não apresentou detalhes específicos sobre projeções futuras ou novos planos de negócios. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Dong In Entech erzielt im ersten Quartal Rekordumsatz von 62 Mrd. Won",
-        "excerpt": "Der Outdoor-Ausrüster Dong In Entech teilte am 15. mit, dass der Umsatz im ersten Quartal 62 Mrd. Won erreichte, ein Rekord für diesen Zeitraum, während der Betriebsgewinn dank der Erholung in China um 54% stieg.",
-        "body": "Dong In Entech, ein auf die Herstellung von Outdoor-Ausrüstung spezialisiertes Unternehmen, erzielte im ersten Quartal dieses Jahres einen Umsatz von 62 Mrd. Won und damit den höchsten jemals in einem ersten Quartal erreichten Wert. Das Unternehmen veröffentlichte die Zahlen am 15. und erklärte, die operative Marge habe 10,4% betragen. Laut dem Originalbericht spiegelte das Ergebnis die Erholung des chinesischen Marktes wider; der Betriebsgewinn stieg im Jahresvergleich um 54%. Der neue Umsatzrekord im ersten Quartal deutet auf eine verbesserte Profitabilität von Dong In Entech hin. Konkrete Angaben zu künftigen Ergebnisprognosen oder zusätzlichen Geschäftsplänen wurden im Original nicht genannt. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Dong In Entech signe un chiffre d’affaires record de 62 milliards de wons au T1",
-        "excerpt": "Le fabricant d’équipements outdoor Dong In Entech a annoncé le 15 que son chiffre d’affaires du premier trimestre avait atteint 62 milliards de wons, un record pour cette période, avec un bénéfice d’exploitation en hausse de 54% grâce à la reprise en Chine.",
-        "body": "Dong In Entech, spécialiste de la fabrication d’équipements outdoor, a enregistré au premier trimestre de cette année un chiffre d’affaires de 62 milliards de wons, son plus haut niveau jamais atteint pour un premier trimestre. L’entreprise a publié ces résultats le 15 et indiqué que sa marge d’exploitation s’établissait à 10,4%. Selon le texte original, cette performance reflète la reprise du marché chinois, tandis que le bénéfice d’exploitation a progressé de 54% sur un an. Ce record de chiffre d’affaires au premier trimestre montre une amélioration de la rentabilité de Dong In Entech. L’article original ne donne pas de précisions sur les perspectives de résultats ou de nouveaux projets commerciaux. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "دونغ إن إنتك تسجل إيرادات قياسية بـ62 مليار وون في الربع الأول وهامش 10.4%",
-        "excerpt": "قالت شركة دونغ إن إنتك المصنعة لمعدات الهواء الطلق في 15 من الشهر إن إيرادات الربع الأول بلغت 62 مليار وون، وهو رقم قياسي للفترة، مع ارتفاع الأرباح التشغيلية 54% بدعم تعافي السوق الصينية.",
-        "body": "سجلت شركة دونغ إن إنتك، المتخصصة في تصنيع معدات الأنشطة الخارجية، إيرادات بلغت 62 مليار وون في الربع الأول من هذا العام، محققة أعلى إيرادات لها على الإطلاق خلال ربع أول. وأعلنت الشركة هذه النتائج في 15 من الشهر، موضحة أن هامش الربح التشغيلي بلغ 10.4%. ووفق النص الأصلي، عكست هذه النتائج تعافي السوق الصينية، إذ ارتفع الربح التشغيلي بنسبة 54% مقارنة بالعام السابق. ويشير تسجيل مستوى قياسي لإيرادات الربع الأول إلى تحسن ربحية دونغ إن إنتك. ولم يتضمن النص الأصلي تفاصيل محددة بشأن توقعات الأداء المقبلة أو خطط أعمال إضافية. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "Dong In Entech की पहली तिमाही आय 62 अरब वॉन, ऑपरेटिंग मार्जिन 10.4%",
-        "excerpt": "आउटडोर उपकरण निर्माता Dong In Entech ने 15 तारीख को बताया कि पहली तिमाही की आय 62 अरब वॉन रही, जो इस अवधि का रिकॉर्ड है, जबकि चीन बाजार की रिकवरी से ऑपरेटिंग प्रॉफिट 54% बढ़ा।",
-        "body": "आउटडोर उपकरण निर्माण में विशेषज्ञ Dong In Entech ने इस वर्ष पहली तिमाही में 62 अरब वॉन की आय दर्ज की, जो किसी भी पहली तिमाही के लिए कंपनी का अब तक का सबसे बड़ा आंकड़ा है। कंपनी ने 15 तारीख को ये नतीजे जारी किए और बताया कि ऑपरेटिंग प्रॉफिट मार्जिन 10.4% रहा। मूल रिपोर्ट के अनुसार, इस प्रदर्शन में चीन बाजार की रिकवरी का असर दिखा और ऑपरेटिंग प्रॉफिट पिछले वर्ष की तुलना में 54% बढ़ा। पहली तिमाही की आय का नया रिकॉर्ड Dong In Entech की लाभप्रदता में सुधार का संकेत देता है। हालांकि मूल लेख में भविष्य की आय संबंधी अनुमान या अतिरिक्त व्यावसायिक योजनाओं का विशिष्ट विवरण नहीं दिया गया। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Dong In Entech catat pendapatan kuartal I 62 miliar won, margin operasi 10,4%",
-        "excerpt": "Produsen perlengkapan outdoor Dong In Entech pada tanggal 15 menyatakan pendapatan kuartal I mencapai 62 miliar won, rekor untuk periode tersebut, dengan laba operasi naik 54% berkat pemulihan pasar China.",
-        "body": "Dong In Entech, perusahaan yang bergerak dalam manufaktur perlengkapan outdoor, mencatat pendapatan kuartal pertama tahun ini sebesar 62 miliar won, menjadi pendapatan tertinggi perusahaan untuk periode kuartal pertama. Perusahaan mengumumkan kinerja tersebut pada tanggal 15 dan menyebut margin laba operasi mencapai 10,4%. Menurut teks asli, hasil ini mencerminkan pemulihan pasar China, dengan laba operasi meningkat 54% dibanding tahun sebelumnya. Rekor pendapatan kuartal pertama tersebut menunjukkan perbaikan profitabilitas Dong In Entech. Artikel asli tidak memuat rincian khusus mengenai prospek kinerja ke depan atau rencana bisnis tambahan. Sumber: mk.co.kr"
       }
     }
   }
