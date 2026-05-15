@@ -1,0 +1,75 @@
+{
+  "id": "6cae60349f6a",
+  "slug": "바이낸스-cso-코인-프로젝트-지속적-보안감사-필요-매일코인-670418",
+  "channelId": "ETF",
+  "category": "etf",
+  "publishedAt": "2026-05-15T05:01:55.765Z",
+  "updatedAt": "2026-05-15T05:01:55.765Z",
+  "sourceName": "mk.co.kr",
+  "sourceUrl": "https://www.mk.co.kr/news/stock/12048997",
+  "canonicalUrl": "https://www.mk.co.kr/news/stock/12048997",
+  "titleFingerprint": "37cd1b143a10bf76dca4af44a1411464874e0c98",
+  "dedupKeys": [
+    "6cae60349f6a61f159ad42701c924e425e989ea4",
+    "37cd1b143a10bf76dca4af44a1411464874e0c98",
+    "47b53b8068b6a233a40978660e1ecc6074980342"
+  ],
+  "imageUrl": "/images/articles/6cae60349f6a.png",
+  "i18n": {
+    "ko": {
+      "title": "바이낸스 CSO, 코인 프로젝트에 지속적 보안감사 필요성 강조",
+      "excerpt": "지미 수 바이낸스 최고 보안 책임자는 5월 5~7일 미국에서 코인 프로젝트가 단발성 점검이 아닌 지속적 보안감사와 업데이트로 위험에 대응해야 한다고 밝혔다.",
+      "body": "지미 수(Jimmy Su) 바이낸스 최고 보안 책임자(CSO)는 5월 5~7일 미국에서 코인 프로젝트의 보안은 한 번의 점검으로 끝나지 않으며 지속적인 보안감사와 업데이트가 필요하다고 강조했다. 그는 “보안은 문을 한 번 잠그는 것이 아니라 지속적으로 감시하고 업데이트해야 지킬 수 있다”는 취지로 설명했다. 이번 발언은 코인 프로젝트가 운영 과정에서 보안 상태를 반복적으로 확인해야 한다는 메시지에 초점이 맞춰졌다. 시장 참여자에게는 프로젝트의 기술적 안정성과 관리 체계를 살피는 기준이 될 수 있다. 출처: mk.co.kr"
+    },
+    "en": {
+      "title": "Binance CSO says crypto projects need continuous security audits",
+      "excerpt": "Binance CSO Jimmy Su said during a May 5-7 U.S. event that crypto projects should address risks through ongoing security audits and updates, not one-time checks.",
+      "body": "Jimmy Su, chief security officer at Binance, said during a May 5-7 event in the United States that security for crypto projects does not end with a single review and requires continuous audits and updates. He explained that security is not like locking a door once; it must be protected through constant monitoring and updating. His remarks centered on the need for crypto projects to repeatedly check their security posture during operations. For market participants, this can serve as a reference point when reviewing a project’s technical stability and management system. Source: mk.co.kr"
+    },
+    "ja": {
+      "title": "バイナンスCSO、暗号資産プロジェクトに継続的監査を強調",
+      "excerpt": "バイナンスのジミー・スーCSOは5月5〜7日に米国で、暗号資産プロジェクトは一度きりの点検ではなく継続的な監査と更新でリスクに対応すべきだと述べた。",
+      "body": "バイナンスの最高セキュリティ責任者（CSO）であるジミー・スー氏は、5月5〜7日に米国で、暗号資産プロジェクトのセキュリティは一度の点検で終わるものではなく、継続的なセキュリティ監査と更新が必要だと強調した。同氏は、セキュリティはドアを一度施錠するようなものではなく、常に監視し更新してこそ守れるという趣旨で説明した。今回の発言は、プロジェクトが運営過程でセキュリティ状態を繰り返し確認すべきだというメッセージに焦点を当てたものだ。市場参加者にとっては、技術的安定性と管理体制を見る基準になり得る。出典: mk.co.kr"
+    },
+    "zh": {
+      "title": "币安CSO强调币圈项目需要持续安全审计与更新",
+      "excerpt": "币安首席安全官Jimmy Su在5月5日至7日于美国表示，币圈项目不应只做一次性检查，而应通过持续安全审计和更新应对风险。",
+      "body": "币安首席安全官（CSO）Jimmy Su于5月5日至7日在美国表示，币圈项目的安全不能止于一次检查，而需要持续进行安全审计和更新。他解释称，安全并不是把门锁上一次就结束，而是必须持续监控并更新才能守住。此次发言聚焦于币圈项目在运营过程中需要反复确认自身安全状态这一信息。对市场参与者而言，这也可成为观察项目技术稳定性和管理体系的一个参考。来源: mk.co.kr"
+    },
+    "es": {
+      "title": "CSO de Binance subraya auditorías de seguridad continuas en cripto",
+      "excerpt": "Jimmy Su, CSO de Binance, dijo del 5 al 7 de mayo en EE. UU. que los proyectos cripto deben afrontar riesgos con auditorías y actualizaciones continuas, no revisiones únicas.",
+      "body": "Jimmy Su, director de seguridad de Binance, afirmó durante un evento celebrado del 5 al 7 de mayo en Estados Unidos que la seguridad de los proyectos cripto no termina con una sola revisión y requiere auditorías de seguridad y actualizaciones continuas. Explicó que la seguridad no consiste en cerrar una puerta una vez, sino en protegerla mediante vigilancia y actualización constantes. Sus declaraciones se centraron en la necesidad de que los proyectos cripto comprueben repetidamente su estado de seguridad durante la operación. Para los participantes del mercado, puede servir como criterio al evaluar la estabilidad técnica y el sistema de gestión de un proyecto. Fuente: mk.co.kr"
+    },
+    "pt": {
+      "title": "CSO da Binance destaca auditorias contínuas em projetos cripto",
+      "excerpt": "Jimmy Su, CSO da Binance, disse entre 5 e 7 de maio nos EUA que projetos cripto devem lidar com riscos por meio de auditorias e atualizações contínuas, não checagens pontuais.",
+      "body": "Jimmy Su, diretor de segurança da Binance, afirmou entre 5 e 7 de maio nos Estados Unidos que a segurança de projetos cripto não termina com uma única verificação e exige auditorias de segurança e atualizações contínuas. Ele explicou que segurança não é trancar a porta uma vez, mas protegê-la com monitoramento e atualização constantes. A declaração destacou a necessidade de projetos cripto verificarem repetidamente sua condição de segurança durante a operação. Para participantes do mercado, isso pode servir como referência ao avaliar a estabilidade técnica e o sistema de gestão de um projeto. Fonte: mk.co.kr"
+    },
+    "de": {
+      "title": "Binance-CSO fordert laufende Sicherheitsaudits für Krypto-Projekte",
+      "excerpt": "Binance-CSO Jimmy Su sagte vom 5. bis 7. Mai in den USA, Krypto-Projekte sollten Risiken nicht mit einmaligen Prüfungen, sondern mit laufenden Audits und Updates begegnen.",
+      "body": "Jimmy Su, Chief Security Officer von Binance, sagte bei einer Veranstaltung vom 5. bis 7. Mai in den USA, dass die Sicherheit von Krypto-Projekten nicht mit einer einmaligen Prüfung endet, sondern fortlaufende Sicherheitsaudits und Updates erfordert. Er erklärte sinngemäß, Sicherheit bedeute nicht, eine Tür einmal abzuschließen, sondern sie durch ständige Überwachung und Aktualisierung zu schützen. Seine Aussage stellte die Notwendigkeit in den Mittelpunkt, den Sicherheitszustand von Krypto-Projekten im laufenden Betrieb wiederholt zu überprüfen. Für Marktteilnehmer kann dies ein Maßstab sein, um technische Stabilität und Managementstrukturen eines Projekts zu bewerten. Quelle: mk.co.kr"
+    },
+    "fr": {
+      "title": "Le CSO de Binance appelle à des audits continus pour les projets crypto",
+      "excerpt": "Jimmy Su, CSO de Binance, a déclaré du 5 au 7 mai aux États-Unis que les projets crypto doivent répondre aux risques par des audits et mises à jour continus, non ponctuels.",
+      "body": "Jimmy Su, directeur de la sécurité de Binance, a déclaré lors d’un événement tenu du 5 au 7 mai aux États-Unis que la sécurité des projets crypto ne s’arrête pas à une seule vérification et nécessite des audits de sécurité ainsi que des mises à jour continus. Il a expliqué que la sécurité ne consiste pas à verrouiller une porte une seule fois, mais à la protéger par une surveillance et des mises à jour constantes. Ses propos ont mis l’accent sur la nécessité pour les projets crypto de vérifier régulièrement leur état de sécurité pendant leurs opérations. Pour les acteurs du marché, cela peut servir de repère pour évaluer la stabilité technique et le système de gestion d’un projet. Source: mk.co.kr"
+    },
+    "ar": {
+      "title": "مسؤول أمن بينانس يؤكد حاجة مشاريع العملات لتدقيق أمني مستمر",
+      "excerpt": "قال جيمي سو، كبير مسؤولي الأمن في بينانس، خلال 5-7 مايو في الولايات المتحدة إن مشاريع العملات تحتاج إلى تدقيقات وتحديثات أمنية مستمرة لا فحوصات لمرة واحدة.",
+      "body": "قال جيمي سو، كبير مسؤولي الأمن في بينانس، خلال فعالية عُقدت بين 5 و7 مايو في الولايات المتحدة إن أمن مشاريع العملات لا ينتهي بفحص واحد، بل يتطلب تدقيقات أمنية وتحديثات مستمرة. وشرح أن الأمن لا يشبه إغلاق الباب مرة واحدة، بل لا يمكن الحفاظ عليه إلا عبر المراقبة والتحديث بشكل متواصل. وتركزت تصريحاته على ضرورة أن تتحقق مشاريع العملات مرارا من وضعها الأمني أثناء التشغيل. وبالنسبة للمشاركين في السوق، يمكن أن يكون ذلك معيارا عند تقييم الاستقرار التقني ونظام الإدارة في المشروع. المصدر: mk.co.kr"
+    },
+    "hi": {
+      "title": "Binance CSO ने क्रिप्टो परियोजनाओं में निरंतर सुरक्षा ऑडिट पर जोर दिया",
+      "excerpt": "Binance के CSO Jimmy Su ने 5-7 मई को अमेरिका में कहा कि क्रिप्टो परियोजनाओं को एक बार की जांच नहीं, बल्कि लगातार सुरक्षा ऑडिट और अपडेट से जोखिमों का सामना करना चाहिए।",
+      "body": "Binance के मुख्य सुरक्षा अधिकारी Jimmy Su ने 5 से 7 मई के बीच अमेरिका में कहा कि क्रिप्टो परियोजनाओं की सुरक्षा एक बार की जांच से पूरी नहीं होती और इसके लिए लगातार सुरक्षा ऑडिट और अपडेट जरूरी हैं। उन्होंने समझाया कि सुरक्षा दरवाजे को एक बार बंद करने जैसी नहीं है; इसे निरंतर निगरानी और अपडेट के जरिए ही बनाए रखा जा सकता है। उनका बयान इस बात पर केंद्रित था कि क्रिप्टो परियोजनाओं को संचालन के दौरान अपनी सुरक्षा स्थिति बार-बार जांचनी चाहिए। बाजार प्रतिभागियों के लिए यह किसी परियोजना की तकनीकी स्थिरता और प्रबंधन व्यवस्था को देखने का मानक बन सकता है। स्रोत: mk.co.kr"
+    },
+    "id": {
+      "title": "CSO Binance tekankan audit keamanan berkelanjutan untuk proyek kripto",
+      "excerpt": "CSO Binance Jimmy Su mengatakan pada 5-7 Mei di AS bahwa proyek kripto harus menghadapi risiko lewat audit keamanan dan pembaruan berkelanjutan, bukan pemeriksaan sekali saja.",
+      "body": "Jimmy Su, chief security officer Binance, mengatakan pada 5-7 Mei di Amerika Serikat bahwa keamanan proyek kripto tidak selesai dengan satu kali pemeriksaan dan membutuhkan audit keamanan serta pembaruan berkelanjutan. Ia menjelaskan bahwa keamanan bukan sekadar mengunci pintu sekali, melainkan harus dijaga melalui pemantauan dan pembaruan terus-menerus. Pernyataan ini berfokus pada pesan bahwa proyek kripto perlu berulang kali memeriksa kondisi keamanannya selama beroperasi. Bagi pelaku pasar, hal itu dapat menjadi acuan saat menilai stabilitas teknis dan sistem pengelolaan sebuah proyek. Sumber: mk.co.kr"
+    }
+  }
+}
