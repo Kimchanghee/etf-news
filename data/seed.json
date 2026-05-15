@@ -1,5 +1,230 @@
 [
   {
+    "id": "59c7c230c345",
+    "slug": "속보-원달러-환율-한-달여-만에-장중-1500원-위로-111152",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-05-15T23:04:26.157Z",
+    "updatedAt": "2026-05-15T23:04:26.157Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/2026051591156",
+    "canonicalUrl": "https://www.hankyung.com/article/2026051591156",
+    "titleFingerprint": "8e5fdedbbaabfc92b13f18aed31af94ece39d850",
+    "dedupKeys": [
+      "59c7c230c345ad03ceda2f91b820c13504ca8120",
+      "8e5fdedbbaabfc92b13f18aed31af94ece39d850",
+      "916f60d61304a0bbfe256b34829a8aa326d2fabd"
+    ],
+    "imageUrl": "/images/articles/59c7c230c345.jpg",
+    "i18n": {
+      "ko": {
+        "title": "원·달러 환율 장중 1500원 돌파, 한 달여 만에 다시 1500원대 진입",
+        "excerpt": "한국경제 보도에 따르면 원·달러 환율이 이날 장중 한 달여 만에 1500원을 넘어섰다. 외환시장에서는 1500원대 재진입 여부가 핵심 지표로 부각됐다.",
+        "body": "원·달러 환율이 이날 장중 1500원 위로 올라섰다고 한국경제가 보도했다. 장중 기준으로 환율이 1500원을 넘어선 것은 한 달여 만이다. 원문에 제시된 핵심 사실은 원·달러 환율의 장중 1500원 상회와 그 시점이 약 한 달 만이라는 점이다. 구체적인 종가, 상승 폭, 거래 시간, 배경 요인은 원문 제목과 제공 정보에는 포함되지 않았다. 이에 따라 시장 영향은 장중 1500원대 재진입이라는 환율 레벨 자체에 초점이 맞춰진다. 추가 수치가 확인되기 전까지는 확대 해석보다 확인된 사실 중심의 접근이 필요하다. 출처: hankyung.com."
+      },
+      "en": {
+        "title": "Won-Dollar Exchange Rate Tops 1,500 Intraday for First Time in About a Month",
+        "excerpt": "According to Hankyung, the won-dollar exchange rate moved above 1,500 won intraday for the first time in about a month, putting the 1,500 level back in market focus.",
+        "body": "The won-dollar exchange rate rose above 1,500 won during intraday trading, Hankyung reported. On an intraday basis, this was the first move above 1,500 won in about a month. The confirmed facts provided are limited to the exchange rate crossing the 1,500 won mark during the session and the timing of the move after roughly one month. The closing rate, size of the move, trading time, and detailed background were not included in the supplied source text. For markets, the key point is the return of the exchange rate to the 1,500 won area during trading. Until additional figures are confirmed, interpretation should remain focused on the reported facts. Source: hankyung.com."
+      },
+      "ja": {
+        "title": "ウォン・ドル相場が取引時間中に1500ウォン突破、約1カ月ぶり",
+        "excerpt": "韓国経済の報道によると、ウォン・ドル相場はこの日の取引時間中に約1カ月ぶりに1500ウォンを上回り、1500ウォン台再進入が注目された。",
+        "body": "韓国経済は、ウォン・ドル相場がこの日の取引時間中に1500ウォンを上回ったと報じた。取引時間中の基準で1500ウォンを超えたのは約1カ月ぶりとなる。提供された情報で確認できる中心事実は、ウォン・ドル相場が場中に1500ウォンを上回ったこと、そしてその時期が約1カ月ぶりであることに限られる。終値、上昇幅、具体的な取引時刻、背景要因は提示情報には含まれていない。そのため市場面では、1500ウォン台への場中再進入という水準そのものが焦点となる。追加数値が確認されるまでは、報じられた事実に基づく整理が必要だ。出典: hankyung.com."
+      },
+      "zh": {
+        "title": "韩元兑美元汇率盘中升破1500韩元，约一个月来首次",
+        "excerpt": "据韩国经济报道，韩元兑美元汇率当日盘中约一个月来首次升破1500韩元，外汇市场对1500韩元关口的再度出现保持关注。",
+        "body": "韩国经济报道称，韩元兑美元汇率当日盘中升至1500韩元上方。按盘中走势计算，这是约一个月来首次突破1500韩元。已提供信息所能确认的核心事实，是韩元兑美元汇率在交易过程中超过1500韩元，以及这一情况距离上次出现已有约一个月。收盘价、涨幅、具体交易时间和详细背景因素并未包含在所给原文信息中。因此，市场影响的关注点主要在于汇率盘中重新进入1500韩元区间这一水平本身。在更多数据得到确认前，解读应以已报道事实为准，避免扩大推断。来源: hankyung.com."
+      },
+      "es": {
+        "title": "El won-dólar supera los 1.500 won intradía por primera vez en cerca de un mes",
+        "excerpt": "Según Hankyung, el tipo de cambio won-dólar superó intradía los 1.500 won por primera vez en cerca de un mes, devolviendo ese umbral al foco del mercado cambiario.",
+        "body": "El tipo de cambio won-dólar subió por encima de 1.500 won durante la sesión, informó Hankyung. En términos intradía, fue la primera vez en cerca de un mes que la cotización superó ese nivel. Los hechos confirmados en la información proporcionada se limitan a que el won-dólar rebasó los 1.500 won durante la negociación y a que ocurrió tras aproximadamente un mes. No se incluyeron el cierre, la magnitud del movimiento, la hora exacta de la operación ni factores de contexto detallados. Para el mercado, el punto central es el retorno intradía a la zona de 1.500 won. Hasta que se confirmen más datos, la lectura debe mantenerse en los hechos reportados. Fuente: hankyung.com."
+      },
+      "pt": {
+        "title": "Câmbio won-dólar passa de 1.500 won no intradia após cerca de um mês",
+        "excerpt": "Segundo o Hankyung, a taxa de câmbio won-dólar ultrapassou 1.500 won no intradia pela primeira vez em cerca de um mês, recolocando esse nível no foco do mercado.",
+        "body": "A taxa de câmbio won-dólar subiu acima de 1.500 won durante o pregão, informou o Hankyung. Em base intradiária, foi a primeira vez em cerca de um mês que a cotação superou esse patamar. Os fatos confirmados nas informações fornecidas são o avanço da taxa acima de 1.500 won durante a sessão e o fato de isso ocorrer após aproximadamente um mês. Não foram informados fechamento, tamanho da variação, horário específico da negociação nem fatores de contexto detalhados. Para o mercado, o ponto principal é a volta intradiária à faixa de 1.500 won. Até a confirmação de dados adicionais, a leitura deve permanecer centrada nos fatos reportados. Fonte: hankyung.com."
+      },
+      "de": {
+        "title": "Won-Dollar-Kurs steigt intraday über 1.500 Won, erstmals seit rund einem Monat",
+        "excerpt": "Laut Hankyung stieg der Won-Dollar-Wechselkurs im Tagesverlauf erstmals seit rund einem Monat über 1.500 Won und rückte die Marke wieder in den Fokus des Devisenmarkts.",
+        "body": "Der Won-Dollar-Wechselkurs ist im Tagesverlauf über 1.500 Won gestiegen, berichtete Hankyung. Auf Intraday-Basis war es das erste Überschreiten dieser Marke seit rund einem Monat. Die bestätigten Angaben beschränken sich auf den Anstieg des Kurses über 1.500 Won während des Handels und darauf, dass dies nach etwa einem Monat geschah. Schlusskurs, Umfang der Bewegung, genaue Handelszeit und detaillierte Hintergründe wurden in den bereitgestellten Informationen nicht genannt. Für den Markt steht damit vor allem die Rückkehr in den Bereich von 1.500 Won während des Handels im Mittelpunkt. Bis weitere Zahlen bestätigt sind, sollte die Einordnung auf den gemeldeten Fakten beruhen. Quelle: hankyung.com."
+      },
+      "fr": {
+        "title": "Le taux won-dollar dépasse 1 500 wons en séance, une première depuis environ un mois",
+        "excerpt": "Selon Hankyung, le taux de change won-dollar a dépassé 1 500 wons en séance pour la première fois depuis environ un mois, remettant ce seuil au centre de l’attention.",
+        "body": "Le taux de change won-dollar est passé au-dessus de 1 500 wons au cours de la séance, a rapporté Hankyung. En données intrajournalières, il s’agit du premier dépassement de ce seuil depuis environ un mois. Les faits confirmés dans les informations fournies se limitent au passage du taux au-dessus de 1 500 wons pendant les échanges et au fait que cela survient après près d’un mois. Le cours de clôture, l’ampleur du mouvement, l’heure précise et les facteurs de contexte détaillés ne figurent pas dans le texte fourni. Pour le marché, l’élément central est donc le retour intrajournalier dans la zone des 1 500 wons. Jusqu’à confirmation de données supplémentaires, l’analyse doit rester centrée sur les faits rapportés. Source: hankyung.com."
+      },
+      "ar": {
+        "title": "سعر صرف الوون مقابل الدولار يتجاوز 1500 وون خلال الجلسة بعد نحو شهر",
+        "excerpt": "بحسب هانكيونغ، تجاوز سعر صرف الوون مقابل الدولار مستوى 1500 وون خلال تداولات اليوم للمرة الأولى منذ نحو شهر، ليعود هذا المستوى إلى دائرة اهتمام سوق الصرف.",
+        "body": "أفادت هانكيونغ بأن سعر صرف الوون مقابل الدولار ارتفع فوق مستوى 1500 وون خلال تداولات اليوم. وعلى أساس التداولات داخل الجلسة، تعد هذه أول مرة يتجاوز فيها السعر مستوى 1500 وون منذ نحو شهر. الحقائق المؤكدة في المعلومات المقدمة تقتصر على تجاوز سعر الصرف هذا المستوى أثناء التداول، وأن ذلك حدث بعد نحو شهر. لم تتضمن المعلومات سعر الإغلاق أو حجم التحرك أو توقيت التداول المحدد أو عوامل الخلفية التفصيلية. لذلك يتركز الاهتمام في السوق على عودة السعر خلال الجلسة إلى نطاق 1500 وون. وإلى أن تتأكد أرقام إضافية، ينبغي أن يبقى التفسير مرتبطا بالوقائع المنشورة فقط. المصدر: hankyung.com."
+      },
+      "hi": {
+        "title": "वॉन-डॉलर विनिमय दर इंट्राडे में 1,500 वॉन के ऊपर, करीब एक महीने बाद",
+        "excerpt": "Hankyung के अनुसार, वॉन-डॉलर विनिमय दर आज इंट्राडे कारोबार में करीब एक महीने बाद 1,500 वॉन से ऊपर चली गई, जिससे यह स्तर फिर बाजार के ध्यान में आया।",
+        "body": "Hankyung ने बताया कि वॉन-डॉलर विनिमय दर आज इंट्राडे कारोबार के दौरान 1,500 वॉन से ऊपर चली गई। इंट्राडे आधार पर यह करीब एक महीने में पहली बार है जब दर ने 1,500 वॉन का स्तर पार किया। उपलब्ध जानकारी में पुष्टि योग्य तथ्य केवल यह हैं कि विनिमय दर सत्र के दौरान 1,500 वॉन से ऊपर गई और यह घटना लगभग एक महीने बाद हुई। बंद भाव, बदलाव का आकार, सटीक कारोबार समय और विस्तृत पृष्ठभूमि कारण दिए गए स्रोत पाठ में शामिल नहीं हैं। इसलिए बाजार के लिए मुख्य बिंदु इंट्राडे आधार पर 1,500 वॉन क्षेत्र में वापसी है। अतिरिक्त आंकड़े मिलने तक विश्लेषण को प्रकाशित तथ्यों तक सीमित रखना आवश्यक है। स्रोत: hankyung.com."
+      },
+      "id": {
+        "title": "Kurs Won-Dolar Tembus 1.500 Won Intraday untuk Pertama Kali dalam Sebulan",
+        "excerpt": "Menurut Hankyung, kurs won-dolar menembus 1.500 won dalam perdagangan intraday untuk pertama kali dalam sekitar sebulan, membuat level itu kembali menjadi perhatian pasar.",
+        "body": "Kurs won-dolar naik ke atas 1.500 won dalam perdagangan intraday, demikian laporan Hankyung. Berdasarkan pergerakan intraday, ini merupakan pertama kalinya kurs melampaui level 1.500 won dalam sekitar sebulan. Fakta yang terkonfirmasi dari informasi yang diberikan terbatas pada kurs won-dolar yang melewati 1.500 won selama sesi dan waktu terjadinya setelah kira-kira satu bulan. Kurs penutupan, besar pergerakan, waktu transaksi yang spesifik, serta faktor latar belakang rinci tidak tercantum dalam teks sumber yang diberikan. Bagi pasar, fokus utama adalah kembalinya kurs ke area 1.500 won secara intraday. Hingga data tambahan dikonfirmasi, pembacaan sebaiknya tetap berpusat pada fakta yang dilaporkan. Sumber: hankyung.com."
+      }
+    }
+  },
+  {
+    "id": "a697ce248fc9",
+    "slug": "포인투테크놀로지-록히드-마틴과-우주데이터-협업-논의-중-kiw-2026-198050",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-05-15T23:03:19.137Z",
+    "updatedAt": "2026-05-15T23:03:19.137Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/202605158993i",
+    "canonicalUrl": "https://www.hankyung.com/article/202605158993i",
+    "titleFingerprint": "eaba053f00102d72a821f2c520732c4de2a05b51",
+    "dedupKeys": [
+      "a697ce248fc99c439ecfc3e0dc01b17d17487245",
+      "eaba053f00102d72a821f2c520732c4de2a05b51",
+      "39366d36f5ba82ed8630011cc37118da3010e3c0"
+    ],
+    "imageUrl": "/images/articles/a697ce248fc9.jpg",
+    "i18n": {
+      "ko": {
+        "title": "포인투테크놀로지, 록히드 마틴과 우주데이터 협업 논의",
+        "excerpt": "포인투테크놀로지는 KIW 2026에서 록히드 마틴과 우주데이터 분야 협업을 논의 중이라고 밝혔다. 구체적 조건은 원문에 공개되지 않았다.",
+        "body": "포인투테크놀로지는 KIW 2026에서 록히드 마틴과 우주데이터 분야 협업을 논의하고 있다고 밝혔다. 이번 소식의 핵심은 국내 기술 기업인 포인투테크놀로지가 글로벌 방산·우주 기업 록히드 마틴과 데이터 협력 가능성을 검토하고 있다는 점이다. 원문에서 협업의 구체적 범위, 일정, 계약 여부, 투자 규모 등 세부 조건은 공개되지 않았다. 향후 논의가 실제 사업 협력으로 이어질지 여부가 관전 포인트다. 출처: hankyung.com"
+      },
+      "en": {
+        "title": "Point2 Technology Discusses Space Data Cooperation With Lockheed Martin",
+        "excerpt": "Point2 Technology said at KIW 2026 that it is discussing cooperation in space data with Lockheed Martin. Specific terms were not disclosed in the source article.",
+        "body": "Point2 Technology said at KIW 2026 that it is in discussions with Lockheed Martin over cooperation in the space data field. The key point is that the Korean technology company is reviewing a possible data collaboration with Lockheed Martin, a global defense and space company. The source article did not disclose details such as the scope of cooperation, timeline, contract status, or investment size. Whether the discussions lead to an actual business partnership will be the point to watch. Source: hankyung.com"
+      },
+      "ja": {
+        "title": "Point2 Technology、ロッキード・マーティンと宇宙データ協業を協議",
+        "excerpt": "Point2 TechnologyはKIW 2026で、ロッキード・マーティンと宇宙データ分野の協業を協議中だと明らかにした。具体的条件は原文で公開されていない。",
+        "body": "Point2 TechnologyはKIW 2026で、ロッキード・マーティンと宇宙データ分野の協業を協議していると明らかにした。今回の要点は、韓国の技術企業であるPoint2 Technologyが、世界的な防衛・宇宙企業ロッキード・マーティンとのデータ協力の可能性を検討している点にある。原文では協業の具体的な範囲、日程、契約の有無、投資規模などの詳細条件は公開されていない。今後、協議が実際の事業協力につながるかが注目点となる。出典: hankyung.com"
+      },
+      "zh": {
+        "title": "Point2 Technology正与洛克希德·马丁讨论太空数据合作",
+        "excerpt": "Point2 Technology在KIW 2026表示，正与洛克希德·马丁讨论太空数据领域合作。原文未披露具体条件。",
+        "body": "Point2 Technology在KIW 2026表示，正与洛克希德·马丁就太空数据领域合作进行讨论。此次消息的核心在于，这家韩国技术企业正在评估与全球防务和航天企业洛克希德·马丁开展数据合作的可能性。原文未披露合作的具体范围、时间表、是否签约以及投资规模等细节。未来相关讨论能否发展为实际业务合作，将成为关注重点。来源: hankyung.com"
+      },
+      "es": {
+        "title": "Point2 Technology negocia cooperación en datos espaciales con Lockheed Martin",
+        "excerpt": "Point2 Technology dijo en KIW 2026 que conversa con Lockheed Martin sobre cooperación en datos espaciales. El artículo original no reveló condiciones específicas.",
+        "body": "Point2 Technology afirmó en KIW 2026 que mantiene conversaciones con Lockheed Martin sobre cooperación en el campo de los datos espaciales. El punto central es que la empresa tecnológica coreana está evaluando una posible colaboración de datos con Lockheed Martin, compañía global de defensa y espacio. El artículo original no reveló detalles como el alcance de la cooperación, el calendario, si existe contrato o el tamaño de la inversión. La cuestión a seguir será si las conversaciones derivan en una cooperación empresarial real. Fuente: hankyung.com"
+      },
+      "pt": {
+        "title": "Point2 Technology discute dados espaciais com a Lockheed Martin",
+        "excerpt": "A Point2 Technology disse na KIW 2026 que discute cooperação em dados espaciais com a Lockheed Martin. O texto original não divulgou condições específicas.",
+        "body": "A Point2 Technology informou na KIW 2026 que está em discussões com a Lockheed Martin sobre cooperação no campo de dados espaciais. O ponto principal é que a empresa coreana de tecnologia avalia uma possível colaboração de dados com a Lockheed Martin, companhia global de defesa e espaço. O texto original não divulgou detalhes como escopo da cooperação, cronograma, existência de contrato ou valor de investimento. O foco agora é saber se as conversas resultarão em uma parceria empresarial concreta. Fonte: hankyung.com"
+      },
+      "de": {
+        "title": "Point2 Technology spricht mit Lockheed Martin über Weltraumdaten",
+        "excerpt": "Point2 Technology sagte auf der KIW 2026, dass Gespräche mit Lockheed Martin über eine Zusammenarbeit bei Weltraumdaten laufen. Konkrete Bedingungen wurden nicht genannt.",
+        "body": "Point2 Technology teilte auf der KIW 2026 mit, dass das Unternehmen mit Lockheed Martin über eine Zusammenarbeit im Bereich Weltraumdaten spricht. Kern der Nachricht ist, dass das koreanische Technologieunternehmen eine mögliche Datenkooperation mit Lockheed Martin, einem globalen Verteidigungs- und Raumfahrtunternehmen, prüft. Der Originalartikel nannte keine Details zu Umfang, Zeitplan, Vertragsstatus oder Investitionsvolumen. Entscheidend wird sein, ob die Gespräche zu einer tatsächlichen geschäftlichen Kooperation führen. Quelle: hankyung.com"
+      },
+      "fr": {
+        "title": "Point2 Technology discute de données spatiales avec Lockheed Martin",
+        "excerpt": "Point2 Technology a indiqué lors de KIW 2026 discuter avec Lockheed Martin d’une coopération dans les données spatiales. Les conditions précises n’ont pas été publiées.",
+        "body": "Point2 Technology a déclaré lors de KIW 2026 être en discussion avec Lockheed Martin au sujet d’une coopération dans le domaine des données spatiales. L’information principale est que l’entreprise technologique coréenne étudie une possible collaboration de données avec Lockheed Martin, groupe mondial de défense et d’espace. L’article d’origine ne précise pas le périmètre de la coopération, le calendrier, l’existence d’un contrat ni le montant d’un éventuel investissement. La suite dépendra de la capacité de ces discussions à devenir un partenariat commercial réel. Source: hankyung.com"
+      },
+      "ar": {
+        "title": "بوينت2 تكنولوجي تبحث تعاون بيانات الفضاء مع لوكهيد مارتن",
+        "excerpt": "قالت بوينت2 تكنولوجي في KIW 2026 إنها تناقش مع لوكهيد مارتن تعاونا في بيانات الفضاء. ولم يكشف النص الأصلي شروطا محددة.",
+        "body": "قالت بوينت2 تكنولوجي في KIW 2026 إنها تجري مناقشات مع لوكهيد مارتن بشأن التعاون في مجال بيانات الفضاء. جوهر الخبر أن شركة التكنولوجيا الكورية تدرس إمكانية تعاون في البيانات مع لوكهيد مارتن، وهي شركة عالمية في الدفاع والفضاء. ولم يكشف النص الأصلي تفاصيل مثل نطاق التعاون أو الجدول الزمني أو ما إذا كان هناك عقد أو حجم الاستثمار. وستكون النقطة الأهم لاحقا هي ما إذا كانت هذه المناقشات ستتحول إلى شراكة تجارية فعلية. المصدر: hankyung.com"
+      },
+      "hi": {
+        "title": "Point2 Technology और Lockheed Martin में अंतरिक्ष डेटा सहयोग पर चर्चा",
+        "excerpt": "Point2 Technology ने KIW 2026 में कहा कि वह Lockheed Martin के साथ अंतरिक्ष डेटा सहयोग पर चर्चा कर रही है। मूल लेख में शर्तें नहीं बताई गईं।",
+        "body": "Point2 Technology ने KIW 2026 में बताया कि वह Lockheed Martin के साथ अंतरिक्ष डेटा क्षेत्र में सहयोग पर चर्चा कर रही है। इस खबर का मुख्य बिंदु यह है कि कोरियाई तकनीकी कंपनी वैश्विक रक्षा और अंतरिक्ष कंपनी Lockheed Martin के साथ डेटा सहयोग की संभावना देख रही है। मूल लेख में सहयोग का दायरा, समयसीमा, अनुबंध की स्थिति या निवेश राशि जैसी जानकारी साझा नहीं की गई। आगे यह देखना अहम होगा कि ये चर्चाएं वास्तविक कारोबारी साझेदारी में बदलती हैं या नहीं। स्रोत: hankyung.com"
+      },
+      "id": {
+        "title": "Point2 Technology Bahas Kolaborasi Data Antariksa dengan Lockheed Martin",
+        "excerpt": "Point2 Technology menyatakan di KIW 2026 bahwa pihaknya membahas kerja sama data antariksa dengan Lockheed Martin. Syarat khusus tidak diungkap dalam sumber asli.",
+        "body": "Point2 Technology menyatakan di KIW 2026 bahwa pihaknya sedang berdiskusi dengan Lockheed Martin mengenai kerja sama di bidang data antariksa. Inti beritanya adalah perusahaan teknologi Korea tersebut meninjau kemungkinan kolaborasi data dengan Lockheed Martin, perusahaan global di sektor pertahanan dan antariksa. Artikel sumber tidak mengungkap rincian seperti cakupan kerja sama, jadwal, status kontrak, atau nilai investasi. Hal yang perlu dicermati berikutnya adalah apakah pembahasan ini berkembang menjadi kerja sama bisnis nyata. Sumber: hankyung.com"
+      }
+    }
+  },
+  {
+    "id": "84868efc14f8",
+    "slug": "알리바바-4년-만에-영업손실ai-투자-배달시장-경쟁-격화-918335",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-05-15T23:02:34.209Z",
+    "updatedAt": "2026-05-15T23:02:34.210Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/202605158857i",
+    "canonicalUrl": "https://www.hankyung.com/article/202605158857i",
+    "titleFingerprint": "61560f5fecc1581164560af5770ed2ff347e2804",
+    "dedupKeys": [
+      "84868efc14f8d9efaba0cd00942fa45009541df0",
+      "61560f5fecc1581164560af5770ed2ff347e2804",
+      "d631a77f7e116dd91d266ce5bbc03874ae22c5d5"
+    ],
+    "imageUrl": "/images/articles/84868efc14f8.jpg",
+    "i18n": {
+      "ko": {
+        "title": "알리바바 4년 만에 영업손실, AI 투자와 배달 경쟁 부담 커졌다",
+        "excerpt": "알리바바가 4년 만에 영업손실을 기록했다. 인공지능 투자 확대와 배달시장 경쟁 격화가 수익성에 부담으로 작용한 것으로 전해졌다.",
+        "body": "알리바바가 4년 만에 영업손실을 기록했다. 중국 전자상거래와 플랫폼 사업을 이끄는 알리바바는 인공지능(AI) 투자 확대와 배달시장 경쟁 심화가 맞물리며 영업 실적에 부담을 받은 것으로 전해졌다. 이번 손실은 성장 분야에 대한 투자가 커지는 가운데 기존 소비자 서비스 영역에서도 경쟁 비용이 높아지고 있음을 보여준다. 시장은 AI 관련 지출과 배달 서비스 경쟁이 향후 수익성에 어떤 영향을 줄지 주목하고 있다. 출처: hankyung.com"
+      },
+      "en": {
+        "title": "Alibaba Posts First Operating Loss in Four Years as AI Spending and Delivery Competition Weigh",
+        "excerpt": "Alibaba recorded an operating loss for the first time in four years, with expanded AI investment and intensifying competition in the delivery market weighing on profitability.",
+        "body": "Alibaba has posted an operating loss for the first time in four years. The Chinese e-commerce and platform company was reportedly pressured by expanding artificial intelligence investment and intensifying competition in the delivery market. The loss highlights how spending on growth areas is rising while competition costs in existing consumer services are also increasing. Investors are watching how AI-related expenditures and delivery-service rivalry may affect Alibaba’s profitability going forward. Source: hankyung.com"
+      },
+      "ja": {
+        "title": "アリババが4年ぶり営業赤字、AI投資と宅配市場の競争激化が重荷に",
+        "excerpt": "アリババが4年ぶりに営業損失を計上した。AI投資の拡大と宅配市場の競争激化が収益性の負担になったと伝えられている。",
+        "body": "アリババが4年ぶりに営業損失を記録した。中国の電子商取引とプラットフォーム事業を担う同社は、人工知能（AI）投資の拡大と宅配市場での競争激化が重なり、営業実績に負担を受けたと伝えられている。今回の損失は、成長分野への投資が増える一方、既存の消費者サービス領域でも競争コストが高まっていることを示す。市場は、AI関連支出と宅配サービス競争が今後の収益性にどう影響するか注目している。出所: hankyung.com"
+      },
+      "zh": {
+        "title": "阿里巴巴四年来首次营业亏损，AI投资与外卖竞争压力加大",
+        "excerpt": "阿里巴巴四年来首次录得营业亏损。人工智能投资扩大以及外卖市场竞争加剧，被认为对盈利能力形成压力。",
+        "body": "阿里巴巴四年来首次录得营业亏损。作为中国电商和平台业务的重要企业，阿里巴巴据称受到人工智能（AI）投资扩大以及外卖市场竞争加剧的双重压力，经营业绩承压。此次亏损显示，在加大成长领域投入的同时，现有消费者服务领域的竞争成本也在上升。市场正关注AI相关支出和外卖服务竞争将如何影响阿里巴巴未来的盈利能力。来源: hankyung.com"
+      },
+      "es": {
+        "title": "Alibaba registra pérdida operativa tras cuatro años por inversión en IA y mayor competencia en entregas",
+        "excerpt": "Alibaba registró una pérdida operativa por primera vez en cuatro años, presionada por la expansión de la inversión en IA y la competencia más intensa en el mercado de entregas.",
+        "body": "Alibaba registró una pérdida operativa por primera vez en cuatro años. La compañía china de comercio electrónico y plataformas habría visto presionados sus resultados operativos por la ampliación de la inversión en inteligencia artificial (IA) y la intensificación de la competencia en el mercado de entregas. La pérdida muestra que, mientras aumentan las inversiones en áreas de crecimiento, también suben los costos competitivos en servicios de consumo existentes. El mercado observa cómo el gasto en IA y la rivalidad en entregas afectarán su rentabilidad futura. Fuente: hankyung.com"
+      },
+      "pt": {
+        "title": "Alibaba tem prejuízo operacional após quatro anos com IA e competição em entregas pesando",
+        "excerpt": "A Alibaba registrou prejuízo operacional pela primeira vez em quatro anos, pressionada pelo aumento dos investimentos em IA e pela competição mais intensa no mercado de entregas.",
+        "body": "A Alibaba registrou prejuízo operacional pela primeira vez em quatro anos. A empresa chinesa de comércio eletrônico e plataformas teria sido pressionada pela ampliação dos investimentos em inteligência artificial (IA) e pela intensificação da concorrência no mercado de entregas. O prejuízo mostra que os gastos em áreas de crescimento aumentam enquanto os custos de competição em serviços ao consumidor já existentes também sobem. O mercado acompanha como as despesas ligadas à IA e a rivalidade em entregas afetarão a rentabilidade futura. Fonte: hankyung.com"
+      },
+      "de": {
+        "title": "Alibaba schreibt nach vier Jahren operativen Verlust: KI-Ausgaben und Lieferwettbewerb belasten",
+        "excerpt": "Alibaba hat erstmals seit vier Jahren einen operativen Verlust verbucht. Höhere KI-Investitionen und verschärfter Wettbewerb im Liefermarkt belasteten die Profitabilität.",
+        "body": "Alibaba hat erstmals seit vier Jahren einen operativen Verlust verbucht. Der chinesische E-Commerce- und Plattformkonzern wurde Berichten zufolge durch höhere Investitionen in künstliche Intelligenz (KI) und den intensiveren Wettbewerb im Liefermarkt belastet. Der Verlust zeigt, dass die Ausgaben für Wachstumsfelder steigen, während zugleich die Wettbewerbskosten in bestehenden Verbraucherdiensten zunehmen. Der Markt beobachtet, wie sich KI-bezogene Ausgaben und die Rivalität im Liefergeschäft künftig auf die Profitabilität auswirken. Quelle: hankyung.com"
+      },
+      "fr": {
+        "title": "Alibaba en perte opérationnelle après quatre ans, sous le poids de l’IA et de la livraison",
+        "excerpt": "Alibaba a enregistré une perte opérationnelle pour la première fois en quatre ans, pénalisé par l’essor des investissements en IA et la concurrence accrue dans la livraison.",
+        "body": "Alibaba a enregistré une perte opérationnelle pour la première fois en quatre ans. Le groupe chinois de commerce en ligne et de plateformes aurait vu ses résultats affectés par l’augmentation des investissements dans l’intelligence artificielle (IA) et par l’intensification de la concurrence sur le marché de la livraison. Cette perte montre que les dépenses dans les domaines de croissance progressent alors que les coûts concurrentiels des services aux consommateurs existants augmentent aussi. Le marché surveille l’effet futur des dépenses liées à l’IA et de la rivalité dans la livraison sur la rentabilité. Source: hankyung.com"
+      },
+      "ar": {
+        "title": "علي بابا تسجل خسارة تشغيلية بعد أربع سنوات مع ضغط استثمارات الذكاء الاصطناعي والتوصيل",
+        "excerpt": "سجلت علي بابا خسارة تشغيلية للمرة الأولى منذ أربع سنوات، مع ضغط توسع استثمارات الذكاء الاصطناعي واحتدام المنافسة في سوق التوصيل على الربحية.",
+        "body": "سجلت علي بابا خسارة تشغيلية للمرة الأولى منذ أربع سنوات. وتعرضت شركة التجارة الإلكترونية والمنصات الصينية لضغوط على أدائها التشغيلي مع توسع الاستثمار في الذكاء الاصطناعي واشتداد المنافسة في سوق التوصيل. وتظهر هذه الخسارة أن الإنفاق على مجالات النمو يتزايد، بينما ترتفع أيضا تكاليف المنافسة في خدمات المستهلك القائمة. ويراقب السوق كيف ستؤثر النفقات المرتبطة بالذكاء الاصطناعي والمنافسة في خدمات التوصيل على ربحية علي بابا في الفترة المقبلة. المصدر: hankyung.com"
+      },
+      "hi": {
+        "title": "अलीबाबा को चार साल बाद परिचालन घाटा, AI निवेश और डिलीवरी प्रतिस्पर्धा का दबाव",
+        "excerpt": "अलीबाबा ने चार साल में पहली बार परिचालन घाटा दर्ज किया। AI निवेश में वृद्धि और डिलीवरी बाजार में तेज प्रतिस्पर्धा ने लाभप्रदता पर दबाव डाला।",
+        "body": "अलीबाबा ने चार साल में पहली बार परिचालन घाटा दर्ज किया। चीन की ई-कॉमर्स और प्लेटफॉर्म कंपनी पर कृत्रिम बुद्धिमत्ता (AI) में बढ़ते निवेश और डिलीवरी बाजार में कड़ी होती प्रतिस्पर्धा का दबाव पड़ा बताया गया है। यह घाटा दिखाता है कि विकास क्षेत्रों पर खर्च बढ़ रहा है, जबकि मौजूदा उपभोक्ता सेवाओं में प्रतिस्पर्धी लागत भी ऊंची हो रही है। बाजार इस बात पर नजर रख रहा है कि AI से जुड़े खर्च और डिलीवरी सेवाओं की प्रतिस्पर्धा आगे अलीबाबा की लाभप्रदता को कैसे प्रभावित करेगी। स्रोत: hankyung.com"
+      },
+      "id": {
+        "title": "Alibaba Rugi Operasional Setelah Empat Tahun, Tertekan Investasi AI dan Persaingan Pengiriman",
+        "excerpt": "Alibaba mencatat rugi operasional untuk pertama kalinya dalam empat tahun, terbebani perluasan investasi AI dan persaingan yang makin ketat di pasar pengiriman.",
+        "body": "Alibaba mencatat rugi operasional untuk pertama kalinya dalam empat tahun. Perusahaan e-commerce dan platform asal China itu disebut mendapat tekanan pada kinerja operasional karena perluasan investasi kecerdasan buatan (AI) dan meningkatnya persaingan di pasar pengiriman. Kerugian ini menunjukkan bahwa belanja untuk area pertumbuhan bertambah, sementara biaya kompetisi di layanan konsumen yang sudah ada juga meningkat. Pasar mencermati bagaimana pengeluaran terkait AI dan persaingan layanan pengiriman akan memengaruhi profitabilitas Alibaba ke depan. Sumber: hankyung.com"
+      }
+    }
+  },
+  {
     "id": "f546243584ff",
     "slug": "미래에셋생명-1분기-순익-533억전년비-115-증가-833863",
     "channelId": "ETF",
@@ -4271,231 +4496,6 @@
         "title": "Blue House Protes Bloomberg, Minta Maaf Resmi atas Tafsir ‘Dividen Rakyat’",
         "excerpt": "Blue House pada tanggal 15 mengirim surat protes kepada Bloomberg dan menuntut permintaan maaf resmi karena laporan yang menafsirkan usulan ‘dividen rakyat’ Kim Yong-beom sebagai pembagian ‘laba berlebih’ perusahaan AI.",
         "body": "Blue House pada tanggal 15 mengirim surat protes kepada kantor berita Amerika Serikat Bloomberg dan menuntut permintaan maaf resmi. Langkah itu diambil karena Bloomberg melaporkan usulan ‘dividen rakyat’ dari kepala kebijakan Kim Yong-beom dengan menafsirkannya sebagai pembagian ‘laba berlebih’ perusahaan kecerdasan buatan (AI). Blue House diketahui menilai laporan tersebut mendistorsi tujuan kebijakan dan dapat menimbulkan kebingungan di pasar. Kasus ini menjadi perhatian karena pernyataan kebijakan, bila disampaikan media asing dengan makna berbeda, dapat memengaruhi pasar keuangan dan industri terkait. Respons Bloomberg atas protes resmi dan tuntutan permintaan maaf itu kini dinantikan. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "6eef390836f0",
-    "slug": "美-클래리티법-입법-진전에-디지털자산株-환호-246940",
-    "channelId": "ETF",
-    "category": "etf",
-    "publishedAt": "2026-05-15T09:40:21.797Z",
-    "updatedAt": "2026-05-15T09:40:21.797Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/stock/12049390",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12049390",
-    "titleFingerprint": "b6a2830cd3dce2acb053bbf57f094459c98dfb78",
-    "dedupKeys": [
-      "6eef390836f0c4ba1c20983cd2c8d38dd9d5af83",
-      "b6a2830cd3dce2acb053bbf57f094459c98dfb78",
-      "77b28dd33fd12c7309bd71ec769d780492f9c2e1"
-    ],
-    "imageUrl": "/images/articles/6eef390836f0.jpg",
-    "i18n": {
-      "ko": {
-        "title": "클래리티법 상원 은행위 통과, 디지털자산주 규제 기대에 강세",
-        "excerpt": "미국 디지털 자산 규제의 기본 틀이 될 클래리티법이 상원 은행위원회를 통과하며 상원 본회의 상정 가능성이 커지자 뉴욕 증시에서 관련주가 환호했다.",
-        "body": "미국에서 디지털 자산 규제의 뼈대가 될 클래리티법(CLARITY Act)이 상원 은행위원회를 통과했다. 입법 절차가 진전되면서 법안은 조만간 상원 본회의에 오를 것으로 보인다. 클래리티법은 디지털 자산 시장의 규제 틀을 마련하는 법안으로 소개됐으며, 관련 업계와 투자자들은 제도화 가능성에 주목하고 있다. 뉴욕 증시에서는 이 같은 소식에 디지털자산 관련주가 환호했다. 다만 향후 본회의 논의와 최종 입법 여부가 남아 있어 시장은 후속 절차를 지켜볼 전망이다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "CLARITY Act clears Senate Banking panel, digital asset stocks rise",
-        "excerpt": "The CLARITY Act, expected to form the core framework for U.S. digital asset regulation, passed the Senate Banking Committee, lifting related stocks in New York trading.",
-        "body": "The CLARITY Act, a bill expected to become the backbone of U.S. digital asset regulation, has passed the Senate Banking Committee. With the legislative process advancing, the bill is now seen as likely to reach the full Senate soon. The act has been described as a measure to establish a regulatory framework for the digital asset market, drawing attention from the industry and investors. In New York trading, digital asset-related stocks welcomed the news. Still, the market is expected to watch the next steps, including full Senate debate and whether the bill ultimately becomes law. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "CLARITY法案が上院銀行委通過、デジタル資産株に規制期待",
-        "excerpt": "米国のデジタル資産規制の骨格となるCLARITY法案が上院銀行委員会を通過し、本会議上程の可能性が高まる中、関連株が反応した。",
-        "body": "米国でデジタル資産規制の骨格となるCLARITY法案が、上院銀行委員会を通過した。立法手続きが進展したことで、同法案は近く上院本会議に上程されるとみられている。CLARITY法案はデジタル資産市場の規制枠組みを整備する法案として紹介され、関連業界と投資家の関心を集めている。ニューヨーク株式市場では、このニュースを受けてデジタル資産関連株が好感された。ただし、本会議での議論と最終的な成立 여부が残っており、市場は今後の手続きを見守る見通しだ。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "CLARITY法案通过参议院银行委员会，数字资产股受提振",
-        "excerpt": "作为美国数字资产监管框架基础的CLARITY法案通过参议院银行委员会，随着进入参议院全院审议的可能性升高，相关股票受到关注。",
-        "body": "美国数字资产监管框架的基础性法案CLARITY Act已通过参议院银行委员会。随着立法程序取得进展，该法案预计不久后将提交参议院全院审议。CLARITY法案被介绍为旨在建立数字资产市场监管框架的法案，相关行业和投资者正关注其制度化可能性。在纽约股市，数字资产相关股票对这一消息作出积极反应。不过，后续仍需经过全院讨论以及最终立法程序，市场预计将继续关注下一步进展。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "La ley CLARITY avanza en el Senado y anima a acciones cripto",
-        "excerpt": "La ley CLARITY, llamada a definir el marco regulatorio de activos digitales en EE. UU., superó el Comité Bancario del Senado y elevó el ánimo en Wall Street.",
-        "body": "La ley CLARITY, considerada una pieza central para el marco regulatorio de los activos digitales en Estados Unidos, superó el Comité Bancario del Senado. Con este avance legislativo, se prevé que el proyecto llegue pronto al pleno del Senado. La iniciativa ha sido presentada como una norma para establecer reglas para el mercado de activos digitales, por lo que atrae la atención de la industria y de los inversores. En la Bolsa de Nueva York, las acciones vinculadas a activos digitales recibieron la noticia con optimismo. Aun así, quedan pendientes el debate en el pleno y la aprobación final, por lo que el mercado seguirá atento al proceso. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Lei CLARITY avança no Senado dos EUA e impulsiona ações digitais",
-        "excerpt": "A Lei CLARITY, vista como base da regulação de ativos digitais nos EUA, passou pelo Comitê Bancário do Senado e animou ações ligadas ao setor em Nova York.",
-        "body": "A Lei CLARITY, considerada a espinha dorsal da futura regulação de ativos digitais nos Estados Unidos, foi aprovada pelo Comitê Bancário do Senado. Com o avanço do processo legislativo, o projeto deve chegar em breve ao plenário do Senado. A proposta é apresentada como uma medida para criar uma estrutura regulatória para o mercado de ativos digitais, atraindo a atenção do setor e dos investidores. Na bolsa de Nova York, ações relacionadas a ativos digitais reagiram positivamente à notícia. Ainda assim, restam o debate no plenário e a definição sobre a aprovação final, etapas que o mercado deve acompanhar. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "CLARITY Act passiert Senatsausschuss und stützt Digital-Asset-Aktien",
-        "excerpt": "Der CLARITY Act, der den Rahmen für die US-Regulierung digitaler Vermögenswerte bilden soll, passierte den Bankenausschuss des Senats und beflügelte Branchenwerte.",
-        "body": "Der CLARITY Act, der als Grundgerüst für die Regulierung digitaler Vermögenswerte in den USA gelten soll, hat den Bankenausschuss des Senats passiert. Mit dem Fortschritt im Gesetzgebungsverfahren dürfte der Entwurf bald dem gesamten Senat vorgelegt werden. Das Gesetz wird als Vorhaben beschrieben, einen Regulierungsrahmen für den Markt digitaler Vermögenswerte zu schaffen, was Branche und Anleger aufmerksam verfolgen. An der New Yorker Börse wurden Aktien mit Bezug zu digitalen Vermögenswerten durch die Nachricht gestützt. Offen bleiben jedoch die Beratungen im Plenum und die endgültige Verabschiedung, weshalb der Markt die nächsten Schritte beobachten dürfte. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Le CLARITY Act franchit une étape au Sénat, les actions crypto montent",
-        "excerpt": "Le CLARITY Act, appelé à structurer la régulation américaine des actifs numériques, a passé la commission bancaire du Sénat et soutenu les valeurs liées au secteur.",
-        "body": "Le CLARITY Act, présenté comme la base de la future régulation des actifs numériques aux États-Unis, a été adopté par la commission bancaire du Sénat. Avec cette avancée législative, le texte devrait bientôt être soumis à l’ensemble du Sénat. Le projet vise à établir un cadre réglementaire pour le marché des actifs numériques, attirant l’attention du secteur et des investisseurs. À la Bourse de New York, les actions liées aux actifs numériques ont accueilli favorablement la nouvelle. Toutefois, le débat en séance plénière et l’adoption finale restent à venir, et le marché devrait suivre les prochaines étapes. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "قانون CLARITY يتقدم في مجلس الشيوخ وأسهم الأصول الرقمية تنتعش",
-        "excerpt": "اجتاز قانون CLARITY لجنة البنوك في مجلس الشيوخ الأميركي، وهو مشروع يُنتظر أن يشكل إطار تنظيم الأصول الرقمية، ما دعم الأسهم المرتبطة بالقطاع في نيويورك.",
-        "body": "اجتاز قانون CLARITY، الذي يُتوقع أن يشكل الإطار الأساسي لتنظيم الأصول الرقمية في الولايات المتحدة، لجنة البنوك في مجلس الشيوخ. ومع تقدم المسار التشريعي، يبدو أن المشروع قد يُعرض قريبا على الجلسة العامة لمجلس الشيوخ. ويُطرح القانون بوصفه إجراء يهدف إلى وضع إطار تنظيمي لسوق الأصول الرقمية، لذلك يحظى بمتابعة القطاع والمستثمرين. وفي بورصة نيويورك، رحبت الأسهم المرتبطة بالأصول الرقمية بهذا الخبر. ومع ذلك، لا تزال مناقشة الجلسة العامة واحتمال الإقرار النهائي قائمين، لذا من المتوقع أن تتابع السوق الخطوات التالية. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "CLARITY Act सीनेट बैंकिंग समिति से पारित, डिजिटल एसेट शेयरों में उत्साह",
-        "excerpt": "अमेरिका में डिजिटल एसेट नियमन की रूपरेखा माने जा रहे CLARITY Act के सीनेट बैंकिंग समिति से पारित होने के बाद न्यूयॉर्क बाजार में संबंधित शेयरों ने सकारात्मक प्रतिक्रिया दी।",
-        "body": "अमेरिका में डिजिटल एसेट नियमन की आधारभूत रूपरेखा बनने वाले CLARITY Act को सीनेट बैंकिंग समिति ने पारित कर दिया है। विधायी प्रक्रिया में इस प्रगति के बाद विधेयक जल्द ही सीनेट के पूर्ण सत्र में आ सकता है। CLARITY Act को डिजिटल एसेट बाजार के लिए नियामकीय ढांचा तैयार करने वाला विधेयक बताया गया है, इसलिए उद्योग और निवेशक इसकी संस्थागत संभावना पर ध्यान दे रहे हैं। न्यूयॉर्क शेयर बाजार में इस खबर पर डिजिटल एसेट से जुड़े शेयरों ने उत्साह दिखाया। हालांकि पूर्ण सत्र की चर्चा और अंतिम कानून बनने की प्रक्रिया अभी बाकी है, इसलिए बाजार आगे की कार्यवाही पर नजर रखेगा। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "CLARITY Act lolos komite Senat, saham aset digital menguat",
-        "excerpt": "CLARITY Act, yang akan menjadi kerangka regulasi aset digital AS, lolos dari Komite Perbankan Senat dan mendorong respons positif saham terkait di New York.",
-        "body": "CLARITY Act, yang dipandang sebagai dasar regulasi aset digital di Amerika Serikat, telah lolos dari Komite Perbankan Senat. Dengan kemajuan proses legislasi ini, rancangan tersebut diperkirakan segera dibawa ke sidang pleno Senat. CLARITY Act diperkenalkan sebagai aturan untuk membangun kerangka regulasi pasar aset digital, sehingga menarik perhatian industri dan investor. Di bursa New York, saham-saham terkait aset digital menyambut kabar ini dengan positif. Namun, pembahasan pleno dan kepastian pengesahan akhir masih tersisa, sehingga pasar diperkirakan akan terus memantau langkah berikutnya. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "4e3a49279ed7",
-    "slug": "올-1분기-가상자산-한파에-빗썸-적자전환두나무도-매출-반토막-593250",
-    "channelId": "ETF",
-    "category": "etf",
-    "publishedAt": "2026-05-15T09:39:20.296Z",
-    "updatedAt": "2026-05-15T09:39:20.296Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/stock/12049439",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12049439",
-    "titleFingerprint": "51898efaedf8415623b5dc3c52ba944d08546a5a",
-    "dedupKeys": [
-      "4e3a49279ed7cda7c5f0163502e4d853e68b37a2",
-      "51898efaedf8415623b5dc3c52ba944d08546a5a",
-      "75c2def58ace1411c408029caaafcb4178b9f19c"
-    ],
-    "imageUrl": "/images/articles/4e3a49279ed7.png",
-    "i18n": {
-      "ko": {
-        "title": "가상자산 한파에 빗썸 1분기 적자전환, 두나무 매출도 급감",
-        "excerpt": "올 1분기 가상자산 시장 침체로 국내 거래소 빗썸은 적자 전환했고 두나무는 매출이 반토막 나며 영업이익이 78% 감소했다.",
-        "body": "올해 1분기 가상자산 시장 침체가 길어지면서 국내 가상자산 거래소 양대 산맥인 빗썸과 두나무의 실적이 크게 악화됐다. 빗썸은 적자 전환했고, 두나무는 매출이 반토막 수준으로 줄어든 가운데 영업이익이 78% 감소했다. 거래대금 급감이 수수료 수익에 직접적인 타격을 준 것이 핵심 배경이다. 이른바 ‘크립토 윈터’가 이어지며 거래소들은 외형 성장보다 비용 관리와 수익 구조 점검 등 내실 다지기 경쟁에 들어간 모습이다. 시장 침체가 지속될 경우 거래대금 회복 여부가 향후 실적 개선의 관건이 될 전망이다. 출처: mk.co.kr."
-      },
-      "en": {
-        "title": "Crypto winter hits Bithumb in Q1 loss as Dunamu revenue plunges",
-        "excerpt": "In the first quarter, South Korea’s crypto market slowdown pushed Bithumb into a loss, while Dunamu’s revenue nearly halved and operating profit fell 78%.",
-        "body": "South Korea’s two leading virtual asset exchanges saw their earnings deteriorate sharply in the first quarter as the downturn in the crypto market continued. Bithumb swung to a loss, while Dunamu’s revenue fell to roughly half its previous level and operating profit dropped 78%. The main factor was a steep decline in trading value, which directly hit fee income. As the so-called “crypto winter” persists, exchanges appear to be shifting from external growth to strengthening fundamentals, including cost control and reviews of revenue structures. If the market slump continues, whether trading value recovers will likely be key to future earnings improvement. Source: mk.co.kr."
-      },
-      "ja": {
-        "title": "暗号資産冬の時代でビッサムが1Q赤字転落、ドゥナムも急減収",
-        "excerpt": "今年第1四半期の暗号資産市場低迷で、韓国のビッサムは赤字転落し、ドゥナムは売上が半減、営業利益も78%減少した。",
-        "body": "今年第1四半期、暗号資産市場の低迷が長引いたことで、韓国の主要暗号資産取引所であるビッサムとドゥナムの業績が大きく悪化した。ビッサムは赤字に転落し、ドゥナムは売上がほぼ半減したうえ、営業利益が78%減少した。背景には取引代金の急減があり、手数料収入を直撃した。いわゆる「クリプトウィンター」が続くなか、取引所各社は外形的な成長よりも、費用管理や収益構造の点検など内実を固める競争に入った形だ。市場低迷が続く場合、取引代金が回復するかどうかが今後の業績改善の鍵になる見通しだ。出典: mk.co.kr."
-      },
-      "zh": {
-        "title": "加密资产寒冬冲击一季度业绩，Bithumb转亏、Dunamu营收骤降",
-        "excerpt": "今年一季度，韩国加密资产市场低迷导致Bithumb转为亏损，Dunamu营收近乎腰斩，营业利润下降78%。",
-        "body": "今年第一季度，随着加密资产市场低迷持续，韩国两大加密资产交易所Bithumb和Dunamu的业绩明显恶化。Bithumb转为亏损，Dunamu营收降至近乎一半，营业利润减少78%。核心背景是交易金额大幅下滑，直接冲击手续费收入。在所谓“加密寒冬”延续之下，交易所的竞争重点正从外延增长转向夯实基本面，包括费用管理和收益结构检查。若市场低迷持续，交易金额能否恢复将成为未来业绩改善的关键。来源: mk.co.kr."
-      },
-      "es": {
-        "title": "Invierno cripto golpea a Bithumb en el 1T y hunde ingresos de Dunamu",
-        "excerpt": "En el primer trimestre, la debilidad del mercado cripto en Corea del Sur llevó a Bithumb a pérdidas y redujo a la mitad los ingresos de Dunamu.",
-        "body": "En el primer trimestre de este año, la prolongada debilidad del mercado de activos virtuales deterioró con fuerza los resultados de Bithumb y Dunamu, los dos grandes exchanges de Corea del Sur. Bithumb pasó a pérdidas, mientras que Dunamu vio sus ingresos caer a cerca de la mitad y su beneficio operativo retroceder un 78%. La causa principal fue la fuerte caída del volumen negociado, que golpeó directamente los ingresos por comisiones. En medio del llamado “invierno cripto”, los exchanges parecen entrar en una competencia centrada en reforzar fundamentos, con control de costes y revisión de estructuras de ingresos. Si la debilidad del mercado continúa, la recuperación del volumen negociado será clave para mejorar resultados. Fuente: mk.co.kr."
-      },
-      "pt": {
-        "title": "Inverno cripto leva Bithumb a prejuízo no 1º tri e derruba Dunamu",
-        "excerpt": "No primeiro trimestre, a queda do mercado cripto na Coreia do Sul levou a Bithumb ao prejuízo e reduziu quase pela metade a receita da Dunamu.",
-        "body": "No primeiro trimestre deste ano, a desaceleração prolongada do mercado de ativos virtuais piorou fortemente os resultados da Bithumb e da Dunamu, as duas principais exchanges da Coreia do Sul. A Bithumb passou a registrar prejuízo, enquanto a receita da Dunamu caiu para quase metade e o lucro operacional recuou 78%. O principal fator foi a forte queda no volume negociado, que atingiu diretamente a receita de comissões. Com a continuidade do chamado “inverno cripto”, as exchanges parecem priorizar o fortalecimento interno, incluindo controle de custos e revisão das estruturas de receita, em vez de crescimento externo. Se a fraqueza do mercado persistir, a recuperação do volume negociado será decisiva para a melhora dos resultados. Fonte: mk.co.kr."
-      },
-      "de": {
-        "title": "Krypto-Winter drückt Bithumb im 1. Quartal ins Minus, Dunamu bricht ein",
-        "excerpt": "Im ersten Quartal belastete die Schwäche am Kryptomarkt Südkoreas Bithumb mit einem Verlust, während Dunamus Umsatz etwa halbiert wurde.",
-        "body": "Im ersten Quartal dieses Jahres haben sich die Ergebnisse der beiden großen südkoreanischen Handelsplätze für virtuelle Vermögenswerte, Bithumb und Dunamu, deutlich verschlechtert. Bithumb rutschte in die Verlustzone, während Dunamus Umsatz auf etwa die Hälfte sank und der operative Gewinn um 78% zurückging. Hauptgrund war der starke Rückgang des Handelsvolumens, der die Gebühreneinnahmen direkt traf. Während der sogenannte „Krypto-Winter“ anhält, verlagert sich der Wettbewerb der Börsen offenbar von äußerem Wachstum auf die Stärkung der eigenen Grundlagen, etwa Kostenkontrolle und Prüfung der Erlösstruktur. Sollte die Marktschwäche anhalten, wird die Erholung des Handelsvolumens entscheidend für eine Ergebnisverbesserung sein. Quelle: mk.co.kr."
-      },
-      "fr": {
-        "title": "L’hiver crypto fait basculer Bithumb en perte au T1 et pèse sur Dunamu",
-        "excerpt": "Au premier trimestre, le ralentissement du marché crypto sud-coréen a fait passer Bithumb en perte et réduit de moitié le chiffre d’affaires de Dunamu.",
-        "body": "Au premier trimestre de cette année, la faiblesse prolongée du marché des actifs virtuels a fortement détérioré les résultats de Bithumb et Dunamu, les deux grands exchanges sud-coréens. Bithumb est passé en perte, tandis que le chiffre d’affaires de Dunamu a été réduit à environ la moitié et que son bénéfice d’exploitation a chuté de 78%. Le principal facteur est la forte baisse des montants échangés, qui a directement touché les revenus de commissions. Alors que le prétendu « hiver crypto » se poursuit, les plateformes semblent privilégier le renforcement interne, notamment la maîtrise des coûts et l’examen des structures de revenus, plutôt que la seule croissance externe. Si la faiblesse du marché persiste, la reprise des volumes sera déterminante pour l’amélioration des résultats. Source: mk.co.kr."
-      },
-      "ar": {
-        "title": "شتاء العملات المشفرة يدفع Bithumb للخسارة في الربع الأول ويضغط على Dunamu",
-        "excerpt": "في الربع الأول، أدى ركود سوق الأصول الافتراضية في كوريا الجنوبية إلى تحول Bithumb للخسارة وتراجع إيرادات Dunamu إلى النصف تقريباً.",
-        "body": "في الربع الأول من هذا العام، أدى استمرار ركود سوق الأصول الافتراضية إلى تدهور واضح في أداء منصتي التداول الكوريتين الجنوبيتين Bithumb وDunamu. فقد تحولت Bithumb إلى الخسارة، بينما تراجعت إيرادات Dunamu إلى نحو النصف وانخفض الربح التشغيلي بنسبة 78%. وكان العامل الأساسي هو الانخفاض الحاد في قيمة التداولات، ما أصاب إيرادات الرسوم مباشرة. ومع استمرار ما يعرف باسم “شتاء العملات المشفرة”، تبدو المنصات في مرحلة تركيز على تعزيز الأسس الداخلية، مثل إدارة التكاليف ومراجعة هيكل الإيرادات، بدلاً من التوسع الخارجي. وإذا استمر ضعف السوق، فسيكون تعافي قيمة التداولات عاملاً حاسماً في تحسن النتائج المقبلة. المصدر: mk.co.kr."
-      },
-      "hi": {
-        "title": "क्रिप्टो ठंड से Bithumb पहली तिमाही में घाटे में, Dunamu की आय भी घटी",
-        "excerpt": "पहली तिमाही में दक्षिण कोरिया के वर्चुअल एसेट बाजार की सुस्ती से Bithumb घाटे में गया, जबकि Dunamu की आय लगभग आधी और परिचालन लाभ 78% घटा।",
-        "body": "इस वर्ष की पहली तिमाही में वर्चुअल एसेट बाजार की लंबी सुस्ती से दक्षिण कोरिया के दो प्रमुख क्रिप्टो एक्सचेंज Bithumb और Dunamu के नतीजे काफी कमजोर हुए। Bithumb घाटे में चला गया, जबकि Dunamu की आय लगभग आधी रह गई और परिचालन लाभ 78% घटा। इसका मुख्य कारण ट्रेडिंग वैल्यू में तेज गिरावट रही, जिसने शुल्क आय पर सीधे असर डाला। तथाकथित “क्रिप्टो विंटर” जारी रहने के बीच एक्सचेंज अब बाहरी विस्तार के बजाय लागत नियंत्रण और आय संरचना की समीक्षा जैसे आंतरिक मजबूती पर ध्यान देते दिख रहे हैं। यदि बाजार की सुस्ती बनी रहती है, तो ट्रेडिंग वैल्यू की रिकवरी भविष्य के नतीजों में सुधार की कुंजी होगी। स्रोत: mk.co.kr."
-      },
-      "id": {
-        "title": "Musim dingin kripto tekan Bithumb rugi kuartal I, pendapatan Dunamu anjlok",
-        "excerpt": "Pada kuartal I, lesunya pasar aset virtual Korea Selatan membuat Bithumb berbalik rugi, sementara pendapatan Dunamu hampir separuh dan laba operasi turun 78%.",
-        "body": "Pada kuartal pertama tahun ini, pelemahan pasar aset virtual yang berkepanjangan membuat kinerja dua bursa kripto utama Korea Selatan, Bithumb dan Dunamu, memburuk tajam. Bithumb berbalik mencatat rugi, sementara pendapatan Dunamu turun hingga sekitar setengahnya dan laba operasi merosot 78%. Faktor utamanya adalah penurunan tajam nilai transaksi, yang langsung menekan pendapatan komisi. Di tengah berlanjutnya apa yang disebut “crypto winter”, bursa-bursa tampak mulai berfokus pada penguatan fundamental, termasuk pengendalian biaya dan peninjauan struktur pendapatan, bukan sekadar pertumbuhan skala. Jika pelemahan pasar berlanjut, pemulihan nilai transaksi akan menjadi kunci perbaikan kinerja ke depan. Sumber: mk.co.kr."
-      }
-    }
-  },
-  {
-    "id": "5eadbd3b5713",
-    "slug": "1800만원-샤넬백-그돈이면-sk하이닉스나-담자확-바뀐-예물-공식-스드메의-문단속⑤-199663",
-    "channelId": "ETF",
-    "category": "etf",
-    "publishedAt": "2026-05-15T09:38:16.401Z",
-    "updatedAt": "2026-05-15T09:38:16.401Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/economy/12049440",
-    "canonicalUrl": "https://www.mk.co.kr/news/economy/12049440",
-    "titleFingerprint": "55647b6deefb6e5366bc8b2625b4d20b1e5345a3",
-    "dedupKeys": [
-      "5eadbd3b571359bd7888ed8254cd1fd8ccc82569",
-      "55647b6deefb6e5366bc8b2625b4d20b1e5345a3",
-      "4c5167221c3658b6d87f14ce933ef29da982c247"
-    ],
-    "imageUrl": "/images/articles/5eadbd3b5713.png",
-    "i18n": {
-      "ko": {
-        "title": "예물 공식 바꾼 스마트 웨딩, 샤넬백 대신 SK하이닉스 투자로 눈길",
-        "excerpt": "부동산 부담이 커진 청년층 사이에서 결혼 예물 문화가 명품백·주얼리 중심에서 금융 투자로 옮겨가며 ‘스마트 웨딩’ 흐름이 확산되고 있다.",
-        "body": "청년층의 결혼 준비 방식이 고가 예물을 줄이고 금융 투자로 실속을 찾는 방향으로 바뀌고 있다. mk.co.kr 보도에 따르면 일부 예비부부는 1800만원대 샤넬백이나 일상적으로 착용하기 어려운 주얼리 대신 SK하이닉스 같은 주식 투자를 예물 대안으로 고려하고 있다. 변화는 단순한 ‘예물 생략’을 넘어 결혼 비용을 자산 형성에 연결하려는 흐름으로 해석된다. 특히 부동산 부담이 커지면서 결혼 준비 전반에서 비용 효율을 중시하는 ‘스마트 웨딩’이 청년층 사이에 자리 잡고 있다. 전통적 예물 공식이 약해지며 결혼 소비의 우선순위도 실물 과시보다 장기적 재무 판단으로 이동하는 모습이다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Smart weddings reshape gifts as couples weigh SK hynix over Chanel bags",
-        "excerpt": "As housing costs weigh on young Koreans, wedding gift culture is shifting from luxury bags and jewelry toward financial investments in a smart wedding trend.",
-        "body": "Young Koreans are changing how they prepare for marriage, cutting back on costly ceremonial gifts and looking for practical value through financial investment. According to mk.co.kr, some engaged couples are considering stocks such as SK hynix instead of an 18 million won Chanel bag or jewelry that is difficult to wear in daily life. The shift goes beyond simply skipping traditional gifts. It reflects an effort to connect wedding spending with asset building. With the burden of real estate rising, a cost-efficient “smart wedding” approach is taking hold among younger couples. As the old wedding gift formula weakens, priorities in marriage spending are moving from visible luxury toward longer-term financial judgment. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "スマート婚礼が変える結婚記念品、シャネルバッグよりSKハイニックス投資",
-        "excerpt": "不動産負担が重い若年層の間で、結婚記念品は高級バッグや宝飾品中心から金融投資へ移り、スマートウェディングが広がっている。",
-        "body": "韓国の若年層の結婚準備は、高額な結婚記念品を減らし、金融投資で実利を求める方向へ変わっている。mk.co.krによると、一部の婚約カップルは1800万ウォン台のシャネルバッグや日常的に身に着けにくいジュエリーの代わりに、SKハイニックスのような株式投資を記念品の代案として検討している。この変化は単なる「記念品省略」を超え、結婚費用を資産形成につなげようとする流れと受け止められる。特に不動産負担が高まる中、費用効率を重視する「スマートウェディング」が若年層に広がっている。従来の公式が弱まり、結婚消費の優先順位は見せるための実物から長期的な財務判断へ移っている。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "智能婚礼改写彩礼公式：年轻人用SK海力士投资替代香奈儿包",
-        "excerpt": "在房地产负担加重的韩国年轻人中，婚礼礼物文化正从奢侈包和珠宝转向金融投资，“智能婚礼”趋势正在扩散。",
-        "body": "韩国年轻人的结婚准备方式正在改变，他们减少高价婚礼礼物，转而通过金融投资追求实际价值。据mk.co.kr报道，部分准新人不再选择约1800万韩元的香奈儿包，或日常难以佩戴的珠宝，而是把SK海力士等股票投资视为婚礼礼物的替代方案。这一变化并非单纯“省略礼物”，而是把结婚支出与资产形成相连接的趋势。尤其在房地产负担加重的背景下，重视成本效率的“智能婚礼”正在年轻人中扎根。随着传统婚礼礼物公式减弱，婚礼消费的优先顺序也从实物炫耀转向长期财务判断。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Bodas inteligentes cambian los regalos: invertir en SK hynix antes que un Chanel",
-        "excerpt": "Entre jóvenes coreanos presionados por la vivienda, los regalos de boda pasan de bolsos de lujo y joyas a inversión financiera bajo la tendencia smart wedding.",
-        "body": "La forma en que los jóvenes coreanos preparan su boda está cambiando: reducen los regalos ceremoniales costosos y buscan valor práctico mediante inversión financiera. Según mk.co.kr, algunas parejas comprometidas consideran acciones como SK hynix en lugar de un bolso Chanel de 18 millones de wones o joyas difíciles de usar a diario. El giro va más allá de simplemente omitir los regalos tradicionales. Refleja el intento de vincular el gasto de la boda con la formación de activos. Con una mayor carga inmobiliaria, el enfoque de “boda inteligente”, centrado en la eficiencia de costos, gana terreno entre los jóvenes. Al debilitarse la fórmula tradicional, las prioridades del consumo matrimonial se desplazan del lujo visible al juicio financiero de largo plazo. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Casamento inteligente troca Chanel por investimento em SK hynix entre jovens",
-        "excerpt": "Com o peso do mercado imobiliário, jovens coreanos mudam presentes de casamento de bolsas e joias de luxo para investimento financeiro no modelo smart wedding.",
-        "body": "A forma como jovens coreanos se preparam para o casamento está mudando, com menos presentes caros e mais busca por valor prático por meio de investimento financeiro. Segundo o mk.co.kr, alguns noivos consideram ações como SK hynix no lugar de uma bolsa Chanel de cerca de 18 milhões de wons ou joias difíceis de usar no dia a dia. A mudança vai além de simplesmente eliminar presentes tradicionais. Ela mostra uma tentativa de ligar os gastos do casamento à formação de patrimônio. Com a pressão imobiliária maior, o “casamento inteligente”, focado em eficiência de custos, ganha espaço entre os jovens. À medida que a antiga fórmula enfraquece, as prioridades do consumo matrimonial passam do luxo visível para decisões financeiras de longo prazo. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Smart Wedding verändert Geschenke: SK-hynix-Aktien statt Chanel-Tasche",
-        "excerpt": "Wegen hoher Immobilienlasten verschiebt sich bei jungen Koreanern die Hochzeitskultur von Luxus-Taschen und Schmuck hin zu Finanzanlagen als Smart-Wedding-Trend.",
-        "body": "Junge Koreaner verändern ihre Hochzeitsvorbereitungen: Teure traditionelle Geschenke werden reduziert, stattdessen rückt praktischer Nutzen durch Finanzanlagen in den Vordergrund. Laut mk.co.kr erwägen einige verlobte Paare Aktien wie SK hynix anstelle einer Chanel-Tasche für rund 18 Millionen Won oder Schmuck, der im Alltag schwer zu tragen ist. Der Wandel geht über das bloße Weglassen von Geschenken hinaus. Er zeigt den Versuch, Hochzeitsausgaben mit Vermögensbildung zu verbinden. Vor allem die Belastung durch Immobilienkosten stärkt unter jungen Menschen den kostenbewussten Ansatz des „Smart Wedding“. Während die alte Formel schwächer wird, verschieben sich die Prioritäten beim Heiratskonsum von sichtbarem Luxus zu langfristigen finanziellen Entscheidungen. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Le mariage intelligent remplace le sac Chanel par des actions SK hynix",
-        "excerpt": "Sous la pression immobilière, de jeunes Coréens délaissent sacs de luxe et bijoux de mariage au profit d’investissements financiers dans une tendance smart wedding.",
-        "body": "La préparation au mariage change chez les jeunes Coréens, qui réduisent les cadeaux coûteux et recherchent une valeur plus pratique par l’investissement financier. Selon mk.co.kr, certains futurs mariés envisagent des actions comme SK hynix au lieu d’un sac Chanel d’environ 18 millions de wons ou de bijoux difficiles à porter au quotidien. Cette évolution dépasse la simple suppression des cadeaux traditionnels. Elle traduit la volonté de relier les dépenses de mariage à la constitution d’un patrimoine. Avec le poids croissant de l’immobilier, l’approche du « mariage intelligent », axée sur l’efficacité des coûts, s’installe chez les jeunes. À mesure que l’ancienne formule s’affaiblit, les priorités de consommation du mariage passent du luxe visible au jugement financier de long terme. Source : mk.co.kr"
-      },
-      "ar": {
-        "title": "الزفاف الذكي يغيّر هدايا الزواج: أسهم SK hynix بدل حقيبة شانيل",
-        "excerpt": "مع تزايد عبء العقارات على الشباب في كوريا، تتحول هدايا الزواج من الحقائب الفاخرة والمجوهرات إلى الاستثمار المالي ضمن اتجاه الزفاف الذكي.",
-        "body": "تتغير طريقة استعداد الشباب في كوريا للزواج، إذ يقللون الهدايا الباهظة ويبحثون عن قيمة عملية عبر الاستثمار المالي. ووفق mk.co.kr، يفكر بعض المخطوبين في أسهم مثل SK hynix بدلا من حقيبة شانيل بسعر يقارب 18 مليون وون أو مجوهرات يصعب ارتداؤها يوميا. هذا التحول لا يقتصر على مجرد الاستغناء عن هدايا الزواج التقليدية، بل يعكس محاولة ربط نفقات الزواج بتكوين الأصول. ومع ازدياد عبء العقارات، يترسخ بين الشباب نهج “الزفاف الذكي” الذي يركز على كفاءة التكلفة. ومع تراجع الصيغة التقليدية للهدايا، تنتقل أولويات الإنفاق على الزواج من الرفاهية الظاهرة إلى القرار المالي طويل الأجل. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "स्मार्ट वेडिंग ने बदला उपहार चलन: Chanel बैग की जगह SK hynix निवेश",
-        "excerpt": "रियल एस्टेट बोझ बढ़ने पर कोरियाई युवाओं में शादी के उपहार लग्जरी बैग और गहनों से हटकर वित्तीय निवेश की ओर जा रहे हैं।",
-        "body": "कोरिया में युवा वर्ग की शादी की तैयारी का तरीका बदल रहा है। महंगे पारंपरिक उपहार घटाकर वे वित्तीय निवेश के जरिए व्यावहारिक मूल्य तलाश रहे हैं। mk.co.kr के अनुसार, कुछ सगाईशुदा जोड़े करीब 1.8 करोड़ वॉन के Chanel बैग या रोजमर्रा में पहनना कठिन गहनों के बजाय SK hynix जैसे शेयरों में निवेश को विवाह उपहार का विकल्प मान रहे हैं। यह बदलाव केवल ‘उपहार छोड़ने’ तक सीमित नहीं है। यह शादी के खर्च को संपत्ति निर्माण से जोड़ने की प्रवृत्ति दिखाता है। खासकर रियल एस्टेट का बोझ बढ़ने से लागत दक्षता पर केंद्रित ‘स्मार्ट वेडिंग’ युवा वर्ग में जगह बना रही है। पारंपरिक उपहार सूत्र कमजोर पड़ने के साथ शादी खर्च की प्राथमिकता दिखावटी वस्तुओं से दीर्घकालिक वित्तीय निर्णय की ओर बढ़ रही है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Smart wedding ubah seserahan: investasi SK hynix gantikan tas Chanel",
-        "excerpt": "Di tengah beban properti, anak muda Korea mulai menggeser hadiah pernikahan dari tas mewah dan perhiasan ke investasi finansial dalam tren smart wedding.",
-        "body": "Cara anak muda Korea menyiapkan pernikahan sedang berubah, dengan mengurangi hadiah mahal dan mencari nilai praktis melalui investasi finansial. Menurut mk.co.kr, sebagian calon pasangan mempertimbangkan saham seperti SK hynix sebagai alternatif hadiah pernikahan, menggantikan tas Chanel sekitar 18 juta won atau perhiasan yang sulit dipakai sehari-hari. Perubahan ini melampaui sekadar menghapus hadiah tradisional. Tren tersebut mencerminkan upaya menghubungkan biaya pernikahan dengan pembentukan aset. Terutama karena beban properti meningkat, pendekatan “smart wedding” yang menekankan efisiensi biaya mulai mengakar di kalangan muda. Saat formula lama melemah, prioritas konsumsi pernikahan bergeser dari kemewahan yang terlihat menuju keputusan finansial jangka panjang. Sumber: mk.co.kr"
       }
     }
   }
