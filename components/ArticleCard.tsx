@@ -1,4 +1,3 @@
-import Link from 'next/link';
 import type { GeneratedArticle } from '@/lib/types';
 import { defaultLocale, type Locale } from '@/i18n';
 import { useTranslations } from 'next-intl';
@@ -36,7 +35,7 @@ export function ArticleCard({ article, locale, large = false }: { article: Gener
   const img = article.imageUrl || `/images/category-${cat}.svg`;
 
   return (
-    <Link href={`/${locale}/article/${article.slug}`} className="card" style={{ display: 'block', textDecoration: 'none', color: 'var(--ink)', padding: 0, overflow: 'hidden' }}>
+    <a href={`/${locale}/article/${article.slug}`} className="card" style={{ display: 'block', textDecoration: 'none', color: 'var(--ink)', padding: 0, overflow: 'hidden' }}>
       <div style={{ position: 'relative', width: '100%', aspectRatio: large ? '16/9' : '3/2', overflow: 'hidden', background: 'var(--soft)' }}>
         <img src={img} alt={i.title || ''} loading="lazy" decoding="async" style={{ width: '100%', height: '100%', objectFit: 'cover', display: 'block' }} />
       </div>
@@ -49,6 +48,6 @@ export function ArticleCard({ article, locale, large = false }: { article: Gener
         {summary && <p style={{ fontSize: 14, color: '#444', lineHeight: 1.55 }}>{summary}</p>}
         <div style={{ marginTop: 10, fontSize: 11, color: 'var(--muted)' }}>{article.sourceName}</div>
       </div>
-    </Link>
+    </a>
   );
 }
