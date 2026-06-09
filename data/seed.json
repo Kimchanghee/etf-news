@@ -1,5 +1,111 @@
 [
   {
+    "id": "5246f8065591",
+    "slug": "susa-hig-bny-cmi-large-outflows-detected-at-etf-306276",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-06-09T18:42:17.056Z",
+    "updatedAt": "2026-06-09T18:42:17.056Z",
+    "sourceName": "",
+    "sourceUrl": "",
+    "canonicalUrl": "https://www.nasdaq.com/articles/susa-hig-bny-cmi-large-outflows-detected-etf",
+    "titleFingerprint": "70f347d958d5b18318354655fed7561cded7bd52",
+    "dedupKeys": [
+      "5246f80655915e0a61f5e7a494ace092be339fde",
+      "70f347d958d5b18318354655fed7561cded7bd52",
+      "da4222f51666d40fd00944514a0ffb24603f7411"
+    ],
+    "imageUrl": "/images/articles/5246f8065591.jpg",
+    "i18n": {
+      "ko": {
+        "title": "SUSA ETF서 2억8000만달러 순유출, HIG·BNY·CMI 편입 종목 주목",
+        "excerpt": "iShares MSCI USA ESG Select ETF(SUSA)에서 주간 기준 약 2억8000만달러 규모 자금 유출이 확인됐다. 발행 주식 수는 전주 대비 6.6% 감소해 ESG 미국주 ETF 수급 변화가 부각됐다.",
+        "metaDescription": "SUSA ETF에서 약 2억8000만달러 자금 유출과 6.6% 발행 주식 수 감소가 나타났다. HIG, BNY, CMI 등 편입 종목과 한국 투자자 영향 분석.",
+        "summary": "SUSA ETF에서 전주 대비 약 2억8000만달러의 대규모 자금 유출이 발생했다. 발행 주식 수 감소율은 6.6%로, 미국 ESG 주식형 ETF 내 수급 조정 신호가 뚜렷하다. HIG, BNY, CMI 등 편입 종목에 대한 단기 수급 부담과 한국 투자자의 환율·섹터 노출 점검 필요성이 커졌다.",
+        "body": "SUSA ETF에서 전주 대비 약 2억8000만달러 규모의 자금 유출이 확인됐다. iShares MSCI USA ESG Select ETF인 SUSA는 미국 대형주 중심의 ESG 선별 전략을 따르는 상장지수펀드로, 이번 유출은 단순한 일중 매매가 아니라 발행 주식 수 감소로 드러난 실질적인 설정·환매 흐름이다. 발행 주식 수는 한 주 사이 6.6% 줄었다. 이는 투자자가 ETF 지분을 매도하는 수준을 넘어, 운용사가 기초자산을 정리해야 하는 환매 압력이 발생했음을 뜻한다.\n\n## SUSA 대규모 유출의 핵심 수치\n이번 SUSA 자금 유출 규모는 달러 기준 약 2억8000만달러다. 원화로는 달러당 1,300원대 환율을 적용할 때 3,000억원대 후반에 해당한다. 국내 투자자 기준으로도 무시하기 어려운 규모다. 특히 SUSA는 ESG 기준을 반영해 미국 주식에 분산 투자하는 상품이기 때문에, 자금 유출은 특정 종목 하나보다 ESG 미국주 ETF 전반의 선호 변화로 읽힌다. 발행 주식 수 6.6% 감소는 ETF 시장에서 비교적 큰 폭이다. 주간 단위로 이 정도 환매가 발생하면 포트폴리오 내 비중이 큰 종목에는 단기 매도 압력이 생길 수 있다.\n\n## HIG·BNY·CMI 등 편입 종목 수급 영향\n투자자 관심은 SUSA 포트폴리오에 포함된 HIG, BNY, CMI 같은 미국 상장 종목으로 옮겨간다. HIG는 보험업, BNY는 금융 서비스와 수탁은행, CMI는 산업재·엔진 제조 영역에 속한다. ETF 환매가 실제 기초자산 매도로 이어질 경우 이런 편입 종목은 개별 실적과 별개로 수급 영향을 받을 수 있다. 다만 2억8000만달러 유출이 각 종목 가격을 단독으로 흔드는 수준이라고 단정하기는 어렵다. 관건은 같은 기간 다른 ESG ETF와 미국 대형주 ETF에서도 유사한 환매가 이어지는지다. 동반 유출이 확대되면 금융주와 산업재 일부 종목의 체감 압력은 커질 수 있다.\n\n## 한국 투자자가 확인할 점\n한국 투자자에게 SUSA ETF 유출은 세 가지 점검 신호다. 첫째, 미국 ESG ETF가 장기 테마라는 이유만으로 안정적 자금 유입을 전제하기 어렵다. 둘째, 원·달러 환율 변동이 수익률을 좌우한다. SUSA 가격이 보합이어도 환율이 하락하면 원화 기준 수익률은 약해질 수 있다. 셋째, 국내 상장 해외형 ETF와 해외 직접투자 계좌 모두에서 미국 대형주·ESG·금융주·산업재 노출이 중복될 수 있다. 국내 규제 환경에서는 해외 ETF 직접투자와 국내 상장 해외 ETF의 과세 방식이 다르므로 매매 전 계좌 유형과 세금 부담도 함께 확인해야 한다.\n\n향후 SUSA의 흐름은 추가 환매 여부가 결정한다. 이번 유출이 일회성 리밸런싱이라면 가격 영향은 제한될 전망이다. 그러나 발행 주식 수 감소가 이어지면 ESG 미국주 ETF에 대한 기관 자금의 선호 약화로 해석될 수 있다. 단기 투자자는 거래량과 괴리율, 환율을 함께 봐야 한다. 장기 투자자는 SUSA의 ESG 선별 기준, 보유 종목, 섹터 비중이 자신의 투자 목적과 맞는지 재점검할 필요가 있다.",
+        "keywords": [
+          "SUSA ETF",
+          "iShares MSCI USA ESG Select ETF",
+          "ETF 자금 유출",
+          "ESG ETF",
+          "HIG",
+          "BNY",
+          "CMI",
+          "미국 ETF",
+          "한국 투자자",
+          "원화 환산"
+        ],
+        "faq": [
+          {
+            "q": "SUSA ETF에서 얼마나 많은 자금이 빠져나갔나?",
+            "a": "전주 대비 약 2억8000만달러 규모의 자금 유출이 확인됐다. 발행 주식 수는 같은 기간 6.6% 감소했다."
+          },
+          {
+            "q": "SUSA 유출이 HIG, BNY, CMI에 어떤 영향을 줄 수 있나?",
+            "a": "이들 종목이 ETF 편입 종목으로 포함돼 있다면 환매 과정에서 단기 수급 부담을 받을 수 있다. 다만 개별 주가 영향은 각 종목 비중과 시장 전체 거래량에 따라 달라진다."
+          },
+          {
+            "q": "한국 투자자는 SUSA ETF를 볼 때 무엇을 확인해야 하나?",
+            "a": "달러 기준 가격뿐 아니라 원·달러 환율, ESG 미국주 노출, 금융주·산업재 중복 보유, 해외 ETF 과세 방식을 함께 확인해야 한다."
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "bfa2554042b1",
+    "slug": "dram-avaz-big-etf-inflows-952873",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-06-09T18:41:33.276Z",
+    "updatedAt": "2026-06-09T18:41:33.276Z",
+    "sourceName": "",
+    "sourceUrl": "",
+    "canonicalUrl": "https://www.nasdaq.com/articles/dram-avaz-big-etf-inflows",
+    "titleFingerprint": "9caa51282b0362836a5fa19001d1c28ee01c1c5d",
+    "dedupKeys": [
+      "bfa2554042b1d1a876d4d8b26ff6466fbb918cfb",
+      "9caa51282b0362836a5fa19001d1c28ee01c1c5d",
+      "b88fd543f93213fa213e04a5ddf955d7c95a2d2d"
+    ],
+    "imageUrl": "/images/articles/bfa2554042b1.jpg",
+    "i18n": {
+      "ko": {
+        "title": "DRAM ETF 주간 유닛 22.3% 급증, AVAZ도 대규모 자금 유입 부각",
+        "excerpt": "DRAM ETF가 최근 1주일 사이 발행 유닛을 4,716만 개 늘리며 22.3% 증가했다. AVAZ도 증가율 기준 대형 유입 종목으로 부각되며 ETF 수급 변화가 주목된다.",
+        "metaDescription": "DRAM ETF 발행 유닛이 1주일 새 4,716만 개 증가해 22.3% 늘었다. AVAZ도 ETF 자금 유입 흐름에서 두드러졌다.",
+        "summary": "DRAM ETF가 최근 1주일 동안 4,716만 유닛을 추가하며 ETF 자금 유입 상위권에 올랐다. 증가율은 전주 대비 22.3%로, 단기간 수급 변화가 뚜렷했다. AVAZ 역시 비율 기준 증가 종목으로 부각됐다. 한국 투자자는 유닛 증가와 실제 수익률을 구분해 해석할 필요가 있다.",
+        "body": "DRAM ETF가 최근 1주일 ETF 시장에서 가장 두드러진 자금 유입 흐름을 보였다. 발행 유닛은 전주 대비 4,716만 개 증가했고, 이는 22.3%의 주간 증가율에 해당한다. 단기간에 유통 물량이 이 정도로 늘었다는 것은 신규 설정 수요가 강하게 발생했음을 뜻한다. AVAZ도 증가율 기준에서 주목받는 ETF로 부각되며, 특정 테마와 전략형 ETF를 향한 자금 이동이 확대되는 모습이다.\n\n## DRAM ETF 유입의 핵심 수치\nDRAM ETF의 이번 변화는 단순한 가격 등락이 아니라 발행 유닛 증가라는 점에서 의미가 크다. ETF는 투자 수요가 늘면 신규 유닛이 설정되고, 반대로 수요가 줄면 환매가 발생한다. DRAM ETF는 1주일 전과 비교해 4,716만 유닛이 추가됐고, 전체 유닛 수는 22.3% 늘었다. 이는 단기 매수세가 가격 변동을 넘어 실제 ETF 구조 안으로 유입됐다는 신호다.\n\n다만 유닛 증가가 곧바로 투자 성과를 보장하지는 않는다. ETF의 실제 수익률은 편입 자산 가격, 추적 지수, 보수, 스프레드, 환율에 따라 달라진다. 특히 DRAM이라는 이름이 반도체 메모리 업황을 직접 떠올리게 하더라도, 투자자는 해당 ETF가 어떤 지수나 자산을 추종하는지, 레버리지나 파생 구조가 포함돼 있는지 확인해야 한다.\n\n## AVAZ와 증가율 기준 수급 변화\nAVAZ는 비율 기준 자금 유입 흐름에서 눈에 띄는 ETF로 분류됐다. 절대 유닛 증가 규모가 큰 ETF와 증가율이 큰 ETF는 투자 해석이 다르다. 규모가 큰 ETF의 유닛 증가는 기관성 수요나 대형 자금 이동을 반영할 수 있고, 증가율이 큰 ETF는 기존 유통 물량이 상대적으로 작을 때 더 민감하게 나타날 수 있다.\n\n따라서 AVAZ의 부각은 해당 ETF에 대한 관심이 커졌다는 신호로 볼 수 있지만, 유동성·스프레드·기초자산 변동성까지 함께 점검해야 한다. 증가율 상위 ETF는 단기적으로 거래가 몰릴 수 있으나, 시장 상황이 바뀌면 환매 압력도 빠르게 나타날 수 있다.\n\n## 한국 투자자에게 주는 의미\n한국 투자자에게 이번 ETF 유입 데이터는 해외 ETF 수급을 읽는 참고 지표다. 발행 유닛 증가는 원화 기준 투자금액과 동일하지 않다. 원화 환산 규모를 판단하려면 각 ETF의 순자산가치, 거래 가격, 달러·원 환율을 함께 계산해야 한다. 또 국내 투자자는 해외 상장 ETF 매매 시 양도소득세, 배당소득 과세, 환전 비용, 해외 주식 거래 수수료를 고려해야 한다.\n\n국내 반도체 투자 심리에도 간접 영향이 예상된다. DRAM 관련 ETF로 자금이 들어오는 흐름은 메모리 업황, 인공지능 서버 투자, 데이터센터 수요에 대한 시장의 관심과 맞물려 해석될 수 있다. 삼성전자와 SK하이닉스 등 국내 대형 반도체주를 보는 투자자도 해외 ETF 수급을 보조 지표로 활용할 수 있다.\n\n전망은 신중하다. DRAM ETF의 22.3% 유닛 증가는 분명 강한 단기 수요를 보여준다. 그러나 ETF 유입은 출발점일 뿐이다. 향후 흐름은 반도체 가격 사이클, 글로벌 금리, 기술주 밸류에이션, 달러·원 환율에 따라 달라질 전망이다. 투자자는 유입 규모보다 기초자산과 구조를 먼저 확인해야 한다.",
+        "keywords": [
+          "DRAM ETF",
+          "AVAZ",
+          "ETF 자금 유입",
+          "ETF 유닛 증가",
+          "반도체 ETF",
+          "해외 ETF",
+          "ETF 수급",
+          "한국 투자자",
+          "달러 원 환율",
+          "DRAM ETF 주간 유닛 22.3%"
+        ],
+        "faq": [
+          {
+            "q": "DRAM ETF의 이번 주간 유입 규모는 얼마인가요?",
+            "a": "DRAM ETF는 최근 1주일 동안 발행 유닛이 4,716만 개 증가했다. 전주 대비 증가율은 22.3%다."
+          },
+          {
+            "q": "ETF 유닛 증가가 가격 상승을 의미하나요?",
+            "a": "반드시 그렇지는 않다. 유닛 증가는 신규 설정 수요를 뜻하지만, ETF 가격과 수익률은 기초자산 가격, 보수, 환율, 시장 스프레드에 따라 달라진다."
+          },
+          {
+            "q": "한국 투자자가 DRAM ETF와 AVAZ를 볼 때 주의할 점은 무엇인가요?",
+            "a": "원화 환산 규모, 달러·원 환율, 해외 ETF 과세, 거래 수수료, 유동성, 추적 지수와 편입 자산을 함께 확인해야 한다."
+          }
+        ]
+      }
+    }
+  },
+  {
     "id": "50987093a8a4",
     "slug": "tuesdays-etf-movers-xhb-xsd-157552",
     "channelId": "ETF",
@@ -3859,156 +3965,6 @@
         "title": "PLUS KOSPI50 ETF Cetak Imbal Hasil 261% Setahun, Pimpin ETF Pelacak KOSPI",
         "excerpt": "Hanwha Asset Management menyatakan ETF PLUS KOSPI50, yang mengikuti indeks KOSPI50, mencatat imbal hasil 261% dalam satu tahun terakhir dan menempati posisi pertama di antara ETF pelacak KOSPI.",
         "body": "Hanwha Asset Management menyatakan bahwa reksa dana bursa ‘PLUS KOSPI50’, yang mengikuti indeks KOSPI50, mencatat imbal hasil tahunan 261% dalam satu tahun terakhir. Menurut perusahaan, ETF tersebut menempati posisi pertama berdasarkan imbal hasil di antara ETF yang melacak KOSPI pada periode yang sama. PLUS KOSPI50 adalah produk yang mengikuti indeks KOSPI50 dan dikelola oleh Hanwha Asset Management. Kinerja yang diumumkan berfokus pada imbal hasil satu tahun dan perbandingan dengan ETF pelacak KOSPI. Investor perlu meninjau peringkat imbal hasil produk ini bersama karakteristik indeks acuannya. Sumber: yna.co.kr"
-      }
-    }
-  },
-  {
-    "id": "cf3ad5a5d995",
-    "slug": "ai반도체기술주-코스닥-바이오-등-etf-8종-12일-상장-146376",
-    "channelId": "ETF",
-    "category": "etf",
-    "publishedAt": "2026-05-09T08:26:54.714Z",
-    "updatedAt": "2026-05-09T08:26:54.714Z",
-    "sourceName": "yna.co.kr",
-    "sourceUrl": "https://www.yna.co.kr/view/AKR20260508149700008",
-    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260508149700008",
-    "titleFingerprint": "fc8b1b5fcf0582b2c541085235b1867273e4fdc6",
-    "dedupKeys": [
-      "cf3ad5a5d9958c8e871dd307ab280dc93a0250bd",
-      "fc8b1b5fcf0582b2c541085235b1867273e4fdc6",
-      "878c784be7cd407f5b279ba7be444999aeb7d9e7"
-    ],
-    "imageUrl": "/images/articles/cf3ad5a5d995.jpg",
-    "i18n": {
-      "ko": {
-        "title": "AI·반도체·코스닥 바이오 ETF 8종, 12일 신규 상장",
-        "excerpt": "한국거래소는 KB·현대·삼성·한화·미래에셋·키움·NH아문디 자산운용이 운용하는 AI·반도체 기술주, 코스닥 바이오 관련 ETF 8종을 오는 12일 상장한다고 밝혔다.",
-        "body": "한국거래소는 오는 12일 KB자산운용, 현대자산운용, 삼성자산운용, 한화자산운용, 미래에셋자산운용, 키움자산운용, NH아문디자산운용의 상장지수펀드(ETF) 8개 종목이 신규 상장된다고 밝혔다. 이번 상장 ETF에는 AI와 반도체 기술주, 코스닥 바이오 등 투자자 관심이 높은 테마형 상품이 포함됐다. 거래소 발표에 따르면 여러 운용사가 동시에 다양한 테마 ETF를 선보이며 국내 ETF 시장의 선택지가 확대될 전망이다. 투자자는 각 상품의 기초지수와 운용 전략, 위험 요인을 확인할 필요가 있다. 출처: yna.co.kr"
-      },
-      "en": {
-        "title": "Eight AI, Semiconductor and KOSDAQ Bio ETFs to List on May 12",
-        "excerpt": "The Korea Exchange said eight ETFs from KB, Hyundai, Samsung, Hanwha, Mirae Asset, Kiwoom and NH-Amundi Asset Management will be listed on May 12, including AI, semiconductor tech and KOSDAQ bio themes.",
-        "body": "The Korea Exchange said eight exchange-traded funds from KB Asset Management, Hyundai Asset Management, Samsung Asset Management, Hanwha Asset Management, Mirae Asset Global Investments, Kiwoom Asset Management and NH-Amundi Asset Management will be newly listed on May 12. The lineup includes thematic products linked to AI, semiconductor technology stocks and KOSDAQ bio, areas drawing investor attention. According to the exchange, multiple managers are introducing a range of ETF themes at the same time, expanding choices in Korea’s ETF market. Investors should review each product’s underlying index, strategy and risk factors. Source: yna.co.kr"
-      },
-      "ja": {
-        "title": "AI・半導体・KOSDAQバイオETF8本、12日に新規上場",
-        "excerpt": "韓国取引所は、KB・現代・サムスン・ハンファ・未来アセット・キウム・NHアムンディ資産運用のAI、半導体技術株、KOSDAQバイオ関連ETF8本を12日に上場すると発表した。",
-        "body": "韓国取引所は、KB資産運用、現代資産運用、サムスン資産運用、ハンファ資産運用、未来アセット資産運用、キウム資産運用、NHアムンディ資産運用の上場投資信託（ETF）8銘柄が12日に新規上場されると明らかにした。今回のETFには、AI、半導体技術株、KOSDAQバイオなど、投資家の関心が高いテーマ型商品が含まれる。取引所の発表によると、複数の運用会社が同時に多様なテーマETFを投入し、韓国ETF市場の選択肢が広がる見通しだ。投資家は各商品の基礎指数、運用戦略、リスク要因を確認する必要がある。出典: yna.co.kr"
-      },
-      "zh": {
-        "title": "AI、半导体与KOSDAQ生物ETF八只将于12日上市",
-        "excerpt": "韩国交易所表示，KB、现代、三星、韩华、未来资产、Kiwoom、NH-Amundi资管旗下八只ETF将于12日上市，涵盖AI、半导体科技股和KOSDAQ生物等主题。",
-        "body": "韩国交易所表示，KB资产管理、现代资产管理、三星资产管理、韩华资产管理、未来资产管理、Kiwoom资产管理和NH-Amundi资产管理旗下八只交易所交易基金（ETF）将于12日新上市。本次上市的ETF包括与AI、半导体科技股、KOSDAQ生物等相关的主题型产品，这些领域受到投资者关注。根据交易所发布的信息，多家资管公司将同时推出不同主题ETF，韩国ETF市场的产品选择有望扩大。投资者需查看各产品的基础指数、投资策略和风险因素。来源: yna.co.kr"
-      },
-      "es": {
-        "title": "Ocho ETF de IA, semiconductores y bio KOSDAQ cotizarán el día 12",
-        "excerpt": "La Bolsa de Corea dijo que ocho ETF de KB, Hyundai, Samsung, Hanwha, Mirae Asset, Kiwoom y NH-Amundi Asset Management se listarán el día 12, con temas de IA, semiconductores tecnológicos y bio KOSDAQ.",
-        "body": "La Bolsa de Corea anunció que el día 12 se listarán ocho fondos cotizados (ETF) de KB Asset Management, Hyundai Asset Management, Samsung Asset Management, Hanwha Asset Management, Mirae Asset Global Investments, Kiwoom Asset Management y NH-Amundi Asset Management. La nueva oferta incluye productos temáticos vinculados con IA, acciones tecnológicas de semiconductores y bio KOSDAQ, áreas que atraen la atención de los inversores. Según la bolsa, varias gestoras presentarán al mismo tiempo ETF de diversos temas, lo que ampliará las opciones del mercado coreano de ETF. Los inversores deben revisar el índice subyacente, la estrategia y los riesgos de cada producto. Fuente: yna.co.kr"
-      },
-      "pt": {
-        "title": "Oito ETFs de IA, semicondutores e bio KOSDAQ estreiam no dia 12",
-        "excerpt": "A Bolsa da Coreia informou que oito ETFs de KB, Hyundai, Samsung, Hanwha, Mirae Asset, Kiwoom e NH-Amundi Asset Management serão listados no dia 12, incluindo temas de IA, semicondutores e bio KOSDAQ.",
-        "body": "A Bolsa da Coreia informou que oito fundos negociados em bolsa (ETFs) da KB Asset Management, Hyundai Asset Management, Samsung Asset Management, Hanwha Asset Management, Mirae Asset Global Investments, Kiwoom Asset Management e NH-Amundi Asset Management serão listados no dia 12. A leva inclui produtos temáticos ligados a IA, ações de tecnologia de semicondutores e bio KOSDAQ, áreas que concentram interesse dos investidores. Segundo a bolsa, várias gestoras lançarão simultaneamente ETFs com diferentes temas, ampliando as opções no mercado coreano de ETFs. Os investidores devem verificar o índice de referência, a estratégia e os riscos de cada produto. Fonte: yna.co.kr"
-      },
-      "de": {
-        "title": "Acht KI-, Halbleiter- und KOSDAQ-Bio-ETFs starten am 12.",
-        "excerpt": "Die Korea Exchange teilte mit, dass acht ETFs von KB, Hyundai, Samsung, Hanwha, Mirae Asset, Kiwoom und NH-Amundi Asset Management am 12. gelistet werden, darunter KI-, Halbleitertech- und KOSDAQ-Bio-Themen.",
-        "body": "Die Korea Exchange gab bekannt, dass am 12. acht börsengehandelte Fonds von KB Asset Management, Hyundai Asset Management, Samsung Asset Management, Hanwha Asset Management, Mirae Asset Global Investments, Kiwoom Asset Management und NH-Amundi Asset Management neu gelistet werden. Die Produkte umfassen Themen wie KI, Halbleitertechnologieaktien und KOSDAQ-Bio, die bei Anlegern auf Interesse stoßen. Laut Börse bringen mehrere Vermögensverwalter gleichzeitig unterschiedliche Themen-ETFs auf den Markt, wodurch sich die Auswahl im koreanischen ETF-Markt erweitert. Anleger sollten den jeweiligen Basisindex, die Strategie und die Risiken prüfen. Quelle: yna.co.kr"
-      },
-      "fr": {
-        "title": "Huit ETF IA, semi-conducteurs et bio KOSDAQ cotés le 12",
-        "excerpt": "La Bourse de Corée a annoncé que huit ETF de KB, Hyundai, Samsung, Hanwha, Mirae Asset, Kiwoom et NH-Amundi Asset Management seront cotés le 12, avec des thèmes IA, semi-conducteurs et bio KOSDAQ.",
-        "body": "La Bourse de Corée a annoncé que huit fonds indiciels cotés (ETF) de KB Asset Management, Hyundai Asset Management, Samsung Asset Management, Hanwha Asset Management, Mirae Asset Global Investments, Kiwoom Asset Management et NH-Amundi Asset Management seront nouvellement cotés le 12. Cette série comprend des produits thématiques liés à l’IA, aux valeurs technologiques des semi-conducteurs et à la bio KOSDAQ, des domaines suivis par les investisseurs. Selon la Bourse, plusieurs sociétés de gestion lancent simultanément des ETF sur divers thèmes, ce qui devrait élargir le choix sur le marché coréen des ETF. Les investisseurs doivent vérifier l’indice sous-jacent, la stratégie et les risques de chaque produit. Source: yna.co.kr"
-      },
-      "ar": {
-        "title": "إدراج 8 صناديق ETF للذكاء الاصطناعي والرقائق وكوسداك الحيوي يوم 12",
-        "excerpt": "قالت بورصة كوريا إن ثمانية صناديق ETF من KB وهيونداي وسامسونغ وهانهوا وميراي أسيت وكيوم وNH-Amundi ستدرج يوم 12، وتشمل موضوعات الذكاء الاصطناعي والرقائق والتقنية الحيوية في كوسداك.",
-        "body": "أعلنت بورصة كوريا أن ثمانية صناديق متداولة في البورصة من KB Asset Management وHyundai Asset Management وSamsung Asset Management وHanwha Asset Management وMirae Asset Global Investments وKiwoom Asset Management وNH-Amundi Asset Management ستدرج حديثا يوم 12. وتشمل الصناديق منتجات موضوعية مرتبطة بالذكاء الاصطناعي وأسهم تكنولوجيا أشباه الموصلات وقطاع التقنية الحيوية في كوسداك، وهي مجالات تحظى باهتمام المستثمرين. ووفقا للبورصة، تطرح عدة شركات إدارة أصول صناديق ETF بموضوعات متنوعة في الوقت نفسه، ما يوسع خيارات سوق ETF الكورية. وينبغي للمستثمرين مراجعة المؤشر الأساسي واستراتيجية الإدارة وعوامل المخاطر لكل منتج. المصدر: yna.co.kr"
-      },
-      "hi": {
-        "title": "AI, सेमीकंडक्टर और KOSDAQ बायो के 8 ETF 12 तारीख को सूचीबद्ध होंगे",
-        "excerpt": "कोरिया एक्सचेंज ने कहा कि KB, Hyundai, Samsung, Hanwha, Mirae Asset, Kiwoom और NH-Amundi Asset Management के आठ ETF 12 तारीख को सूचीबद्ध होंगे, जिनमें AI, सेमीकंडक्टर टेक और KOSDAQ बायो थीम शामिल हैं।",
-        "body": "कोरिया एक्सचेंज ने बताया कि KB Asset Management, Hyundai Asset Management, Samsung Asset Management, Hanwha Asset Management, Mirae Asset Global Investments, Kiwoom Asset Management और NH-Amundi Asset Management के आठ एक्सचेंज-ट्रेडेड फंड 12 तारीख को नए सिरे से सूचीबद्ध होंगे। इनमें AI, सेमीकंडक्टर तकनीकी शेयरों और KOSDAQ बायो से जुड़े थीमैटिक उत्पाद शामिल हैं, जिन पर निवेशकों की नजर है। एक्सचेंज के अनुसार, कई एसेट मैनेजर एक साथ अलग-अलग थीम वाले ETF पेश कर रहे हैं, जिससे कोरियाई ETF बाजार में विकल्प बढ़ेंगे। निवेशकों को हर उत्पाद के आधार सूचकांक, निवेश रणनीति और जोखिम कारकों की जांच करनी चाहिए। स्रोत: yna.co.kr"
-      },
-      "id": {
-        "title": "Delapan ETF AI, Semikonduktor dan Bio KOSDAQ Melantai pada 12",
-        "excerpt": "Bursa Korea menyatakan delapan ETF dari KB, Hyundai, Samsung, Hanwha, Mirae Asset, Kiwoom dan NH-Amundi Asset Management akan tercatat pada 12, mencakup tema AI, saham teknologi semikonduktor dan bio KOSDAQ.",
-        "body": "Bursa Korea menyatakan delapan reksa dana yang diperdagangkan di bursa (ETF) dari KB Asset Management, Hyundai Asset Management, Samsung Asset Management, Hanwha Asset Management, Mirae Asset Global Investments, Kiwoom Asset Management dan NH-Amundi Asset Management akan tercatat baru pada 12. ETF tersebut mencakup produk tematik terkait AI, saham teknologi semikonduktor dan bio KOSDAQ, area yang menarik perhatian investor. Menurut bursa, beberapa manajer aset akan sekaligus memperkenalkan ETF dengan beragam tema, sehingga pilihan di pasar ETF Korea bertambah. Investor perlu memeriksa indeks acuan, strategi pengelolaan dan faktor risiko tiap produk. Sumber: yna.co.kr"
-      }
-    }
-  },
-  {
-    "id": "df57ca4ac369",
-    "slug": "미이란-교전-소식에건설株-동반-약세-408601",
-    "channelId": "ETF",
-    "category": "etf",
-    "publishedAt": "2026-05-08T21:42:04.257Z",
-    "updatedAt": "2026-05-08T21:42:04.257Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/2026050833806",
-    "canonicalUrl": "https://www.hankyung.com/article/2026050833806",
-    "titleFingerprint": "000287cb83caabc84c883049344d556729980fab",
-    "dedupKeys": [
-      "df57ca4ac369320a2a91002f91eca6e19dc48aa3",
-      "000287cb83caabc84c883049344d556729980fab",
-      "ae76f9a1a01881f84ecd6255301cb19f175dfbc8"
-    ],
-    "imageUrl": "/images/articles/df57ca4ac369.jpg",
-    "i18n": {
-      "ko": {
-        "title": "미·이란 교전 소식에 건설주 동반 약세…중동 리스크 속 ETF 시장도 주목",
-        "excerpt": "미국과 이란의 교전 소식이 전해지며 국내 증시에서 건설주가 동반 약세를 보였다. 중동 정세 불안이 투자심리에 부담으로 작용한 흐름이다.",
-        "body": "미국과 이란의 교전 소식이 전해지면서 국내 증시에서 건설주가 동반 약세를 보였다. 누가 매도에 나섰는지, 어떤 종목이 얼마나 하락했는지에 대한 구체적 수치는 원문에 제시되지 않았지만, 제목상 핵심은 미·이란 충돌 관련 뉴스가 건설주 전반의 투자심리를 위축시켰다는 점이다. 건설주는 해외 수주, 중동 사업, 원자재와 물류 여건 등 대외 변수에 민감하게 반응할 수 있는 업종으로 분류된다. 이번 약세는 지정학적 긴장이 시장 심리에 반영된 사례로 볼 수 있다. 관련 ETF 투자자도 건설·인프라 업종 비중과 중동 리스크 노출 여부를 함께 점검할 필요가 있다. 출처는 hankyung.com이다."
-      },
-      "en": {
-        "title": "Construction Stocks Weaken on U.S.-Iran Clash News as ETF Investors Watch Risk",
-        "excerpt": "Construction stocks in South Korea moved lower after news of a U.S.-Iran clash, showing how Middle East tensions weighed on market sentiment.",
-        "body": "Construction stocks in the South Korean market weakened together after news of a clash between the United States and Iran. The original item did not provide specific figures on which investors sold, which companies fell, or by how much. Its key point is that reports tied to the U.S.-Iran conflict pressured sentiment across the construction sector. Construction shares can be sensitive to external variables such as overseas orders, Middle East projects, raw materials, and logistics conditions. The decline therefore reflects how geopolitical tension can be transmitted into market psychology. ETF investors may need to review exposure to construction and infrastructure sectors as well as any Middle East-related risk. Source: hankyung.com."
-      },
-      "ja": {
-        "title": "米・イラン交戦報道で建設株がそろって軟調、ETF投資家も中東リスクを注視",
-        "excerpt": "米国とイランの交戦報道を受け、韓国市場で建設株がそろって弱含んだ。中東情勢の不安が投資心理の重荷となった流れだ。",
-        "body": "米国とイランの交戦に関する報道が伝わり、韓国株式市場では建設株がそろって軟調となった。原文では、誰が売りに回ったのか、どの銘柄がどの程度下落したのかといった具体的な数値は示されていない。中心となる事実は、米・イランの衝突に関連するニュースが建設株全般の投資心理を冷やしたという点だ。建設株は海外受注、中東事業、原材料、物流環境など外部要因に反応しやすい業種とされる。今回の弱含みは、地政学的緊張が市場心理に反映された例といえる。ETF投資家も建設・インフラ関連比率と中東リスクへの露出を確認する必要がある。出典はhankyung.com。"
-      },
-      "zh": {
-        "title": "美伊交战消息拖累建筑股集体走弱，ETF投资者关注中东风险",
-        "excerpt": "美国与伊朗交战消息传出后，韩国股市建筑股同步走弱。中东局势不安对投资情绪形成压力。",
-        "body": "美国与伊朗交战的消息传出后，韩国股市中的建筑股集体走弱。原文未提供具体是谁在卖出、哪些个股下跌以及跌幅多少等数据，核心信息是与美伊冲突相关的消息削弱了建筑板块整体投资情绪。建筑股通常会受到海外订单、中东项目、原材料和物流条件等外部变量影响。此次走弱可被视为地缘政治紧张反映到市场心理中的一个案例。对于ETF投资者而言，也需要关注产品中建筑和基础设施行业的权重，以及是否暴露于中东相关风险。来源：hankyung.com。"
-      },
-      "es": {
-        "title": "Constructoras caen por noticias de choque entre EE. UU. e Irán; ETF vigilan riesgo",
-        "excerpt": "Las acciones de construcción en Corea del Sur bajaron tras noticias de enfrentamiento entre EE. UU. e Irán, presionadas por la incertidumbre en Oriente Medio.",
-        "body": "Las acciones de construcción del mercado surcoreano mostraron debilidad conjunta después de conocerse noticias sobre un enfrentamiento entre Estados Unidos e Irán. El texto original no ofrece cifras concretas sobre qué inversores vendieron, qué valores cayeron o cuánto retrocedieron. El punto central es que la noticia vinculada al conflicto EE. UU.-Irán deterioró el sentimiento hacia el sector constructor. Estas compañías suelen ser sensibles a variables externas como pedidos en el extranjero, proyectos en Oriente Medio, materias primas y logística. La caída refleja cómo la tensión geopolítica puede trasladarse a la psicología del mercado. Los inversores en ETF deberían revisar su exposición a construcción, infraestructura y riesgos relacionados con Oriente Medio. Fuente: hankyung.com."
-      },
-      "pt": {
-        "title": "Ações de construção recuam com notícia de confronto EUA-Irã; ETFs monitoram risco",
-        "excerpt": "As ações de construção na Coreia do Sul caíram em conjunto após notícias de confronto entre EUA e Irã, com a tensão no Oriente Médio pesando no sentimento.",
-        "body": "As ações de construção no mercado sul-coreano recuaram em conjunto depois da notícia de um confronto entre Estados Unidos e Irã. O texto original não apresentou números específicos sobre quem vendeu, quais empresas caíram ou qual foi a dimensão das perdas. O ponto principal é que a notícia ligada ao conflito EUA-Irã pressionou o sentimento em todo o setor de construção. Essas ações podem reagir a variáveis externas como contratos no exterior, projetos no Oriente Médio, matérias-primas e condições logísticas. A fraqueza mostra como a tensão geopolítica pode afetar a psicologia do mercado. Investidores em ETF devem observar a exposição a construção, infraestrutura e riscos relacionados ao Oriente Médio. Fonte: hankyung.com."
-      },
-      "de": {
-        "title": "Bauaktien schwächer nach Meldung zu US-Iran-Gefecht; ETF-Anleger achten auf Risiko",
-        "excerpt": "Südkoreanische Bauaktien gaben nach Meldungen über ein Gefecht zwischen den USA und Iran gemeinsam nach. Nahost-Risiken belasteten die Marktstimmung.",
-        "body": "Südkoreanische Bauaktien zeigten gemeinsam Schwäche, nachdem Meldungen über ein Gefecht zwischen den USA und Iran bekannt wurden. Der ursprüngliche Text nennt keine konkreten Zahlen dazu, wer verkaufte, welche Einzeltitel fielen oder wie stark die Rückgänge waren. Die zentrale Aussage ist, dass Nachrichten zum US-Iran-Konflikt die Stimmung im Bausektor belasteten. Bauwerte können empfindlich auf externe Faktoren wie Auslandsaufträge, Projekte im Nahen Osten, Rohstoffe und Logistikbedingungen reagieren. Der Rückgang zeigt, wie geopolitische Spannungen in die Marktpsychologie einfließen können. ETF-Anleger sollten daher ihre Gewichtung in Bau- und Infrastrukturwerten sowie mögliche Nahost-Risiken prüfen. Quelle: hankyung.com."
-      },
-      "fr": {
-        "title": "Les valeurs de construction reculent avec le choc États-Unis-Iran; les ETF surveillent",
-        "excerpt": "Les valeurs sud-coréennes de la construction ont baissé après des nouvelles de confrontation entre les États-Unis et l’Iran, sous pression du risque moyen-oriental.",
-        "body": "Les valeurs de la construction sur le marché sud-coréen ont reculé ensemble après la diffusion d’informations sur une confrontation entre les États-Unis et l’Iran. Le texte original ne donne pas de chiffres précis sur les vendeurs, les titres concernés ou l’ampleur des baisses. Le fait central est que les nouvelles liées au conflit américano-iranien ont pesé sur le sentiment envers le secteur de la construction. Ces actions peuvent être sensibles aux commandes à l’étranger, aux projets au Moyen-Orient, aux matières premières et aux conditions logistiques. Ce repli illustre la transmission des tensions géopolitiques à la psychologie de marché. Les investisseurs en ETF devraient vérifier leur exposition à la construction, aux infrastructures et aux risques liés au Moyen-Orient. Source : hankyung.com."
-      },
-      "ar": {
-        "title": "أسهم البناء تضعف مع أنباء اشتباك أميركي إيراني ومستثمرو ETF يراقبون المخاطر",
-        "excerpt": "تراجعت أسهم البناء في كوريا الجنوبية جماعيا بعد أنباء عن اشتباك بين الولايات المتحدة وإيران، مع ضغط توترات الشرق الأوسط على شهية المستثمرين.",
-        "body": "تراجعت أسهم البناء في السوق الكورية الجنوبية بصورة جماعية بعد ورود أنباء عن اشتباك بين الولايات المتحدة وإيران. لم يقدّم النص الأصلي أرقاما محددة حول من قام بالبيع، أو أي الشركات هبطت، أو حجم التراجع. النقطة الأساسية هي أن الأخبار المرتبطة بالصراع الأميركي الإيراني أثرت سلبا في معنويات المستثمرين تجاه قطاع البناء. ويمكن لأسهم البناء أن تتأثر بعوامل خارجية مثل الطلبيات الخارجية، ومشروعات الشرق الأوسط، والمواد الخام، وظروف النقل والإمداد. ويعكس هذا الضعف انتقال التوتر الجيوسياسي إلى نفسية السوق. وعلى مستثمري صناديق ETF مراجعة الانكشاف على قطاعات البناء والبنية التحتية والمخاطر المرتبطة بالشرق الأوسط. المصدر: hankyung.com."
-      },
-      "hi": {
-        "title": "अमेरिका-ईरान झड़प की खबर से निर्माण शेयर कमजोर, ETF निवेशक जोखिम पर नजर रखें",
-        "excerpt": "अमेरिका और ईरान के बीच झड़प की खबर के बाद दक्षिण कोरिया में निर्माण शेयर सामूहिक रूप से कमजोर हुए, क्योंकि मध्य पूर्व तनाव ने निवेश भावना पर दबाव डाला।",
-        "body": "अमेरिका और ईरान के बीच झड़प की खबर सामने आने के बाद दक्षिण कोरियाई बाजार में निर्माण क्षेत्र के शेयर सामूहिक रूप से कमजोर हुए। मूल समाचार में यह नहीं बताया गया कि किसने बिकवाली की, कौन से शेयर कितने गिरे, या गिरावट का सटीक आकार क्या था। मुख्य तथ्य यह है कि अमेरिका-ईरान संघर्ष से जुड़ी खबर ने निर्माण क्षेत्र के प्रति निवेश भावना को दबाव में डाला। निर्माण शेयर विदेशी ऑर्डर, मध्य पूर्व परियोजनाओं, कच्चे माल और लॉजिस्टिक्स जैसी बाहरी स्थितियों से प्रभावित हो सकते हैं। यह कमजोरी दिखाती है कि भू-राजनीतिक तनाव बाजार मनोविज्ञान में कैसे उतरता है। ETF निवेशकों को निर्माण और अवसंरचना क्षेत्र की हिस्सेदारी तथा मध्य पूर्व जोखिम की जांच करनी चाहिए। स्रोत: hankyung.com."
-      },
-      "id": {
-        "title": "Saham konstruksi melemah karena kabar bentrokan AS-Iran; investor ETF cermati risiko",
-        "excerpt": "Saham konstruksi Korea Selatan melemah bersamaan setelah kabar bentrokan AS-Iran, menunjukkan tekanan risiko Timur Tengah terhadap sentimen pasar.",
-        "body": "Saham konstruksi di pasar Korea Selatan melemah bersamaan setelah muncul kabar bentrokan antara Amerika Serikat dan Iran. Teks asli tidak memuat angka spesifik mengenai siapa yang menjual, saham mana yang turun, atau seberapa besar penurunannya. Inti beritanya adalah kabar terkait konflik AS-Iran menekan sentimen terhadap sektor konstruksi secara luas. Saham konstruksi dapat sensitif terhadap faktor eksternal seperti pesanan luar negeri, proyek Timur Tengah, bahan baku, dan kondisi logistik. Pelemahan ini menunjukkan bagaimana ketegangan geopolitik dapat tercermin dalam psikologi pasar. Investor ETF perlu meninjau eksposur pada sektor konstruksi dan infrastruktur serta risiko yang berkaitan dengan Timur Tengah. Sumber: hankyung.com."
       }
     }
   }
