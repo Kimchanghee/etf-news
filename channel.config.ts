@@ -15,7 +15,9 @@ export const channel = {
     { url: 'https://www.hankyung.com/feed/finance', category: 'breaking' },
     { url: 'https://rss.mt.co.kr/mt_securities.xml', category: 'policy' },
     { url: 'https://www.yna.co.kr/rss/economy.xml', category: 'analysis' },
-    { url: 'https://www.mk.co.kr/rss/50100032/', category: 'analysis' }
+    { url: 'https://www.mk.co.kr/rss/50100032/', category: 'analysis' },
+    { url: 'https://www.etftrends.com/feed/', category: 'market' },
+    { url: 'https://www.nasdaq.com/feed/rssoutbound?category=ETFs', category: 'analysis' }
   ] as RSSSource[],
   categories: [
     { slug: 'breaking', name: { ko: '속보', en: 'Breaking', ja: '速報', zh: '快讯', es: 'Última hora', pt: 'Última hora', de: 'Eilmeldung', fr: 'Dernières', ar: 'عاجل', hi: 'ब्रेकिंग', id: 'Terbaru' } },
