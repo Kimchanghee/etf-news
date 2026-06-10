@@ -9,6 +9,7 @@ type Props = {
 function pickAdsterraKey(explicit?: string) {
   return (
     explicit ||
+    'c89da132477904779b869c1249c1b6d2' ||
     process.env.NEXT_PUBLIC_ADSTERRA_BANNER_300_KEY ||
     process.env.NEXT_PUBLIC_ADSTERRA_BANNER_KEY ||
     process.env.NEXT_PUBLIC_ADSTERRA_NATIVE_KEY ||
