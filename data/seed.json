@@ -1,5 +1,164 @@
 [
   {
+    "id": "5140f9a5dc03",
+    "slug": "레버리지-etf發-극한-변동장공포지수-사상-최고치-찍었다-701871",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-06-11T09:25:38.614Z",
+    "updatedAt": "2026-06-11T09:25:38.614Z",
+    "sourceName": "",
+    "sourceUrl": "",
+    "canonicalUrl": "https://www.hankyung.com/article/2026061114161",
+    "titleFingerprint": "dc75695cfacece6218a08c203ab3eccb6e7159c2",
+    "dedupKeys": [
+      "5140f9a5dc031670cb5d730dcb3aab0fa90f1146",
+      "dc75695cfacece6218a08c203ab3eccb6e7159c2",
+      "c50995ab46b9610554ab5d32e3e85f63f0aac8ce"
+    ],
+    "imageUrl": "/images/articles/5140f9a5dc03.jpg",
+    "i18n": {
+      "ko": {
+        "title": "레버리지 ETF발 극한 변동장, 공포지수 사상 최고치가 경고한 위험",
+        "excerpt": "레버리지 ETF가 촉발한 급격한 포지션 조정으로 변동성이 확대되며 공포지수가 사상 최고 수준까지 치솟았다. 단기 수익을 노린 자금이 되레 시장 충격을 키우는 구조가 확인됐다.",
+        "metaDescription": "레버리지 ETF발 변동성 확대와 공포지수 사상 최고치의 배경, 국내 투자자 영향, 원화 환산 리스크와 향후 시장 전망을 정리했다.",
+        "summary": "레버리지 ETF 중심의 단기 매매가 시장 변동성을 키우며 공포지수를 사상 최고 수준으로 끌어올렸다. 가격 하락과 강제 리밸런싱이 맞물리면서 매도 압력이 증폭됐다. 국내 투자자는 환율, 괴리율, 복리효과, 규제 리스크를 함께 점검해야 한다.",
+        "body": "레버리지 ETF가 만든 극한 변동장이 글로벌 증시의 핵심 위험 요인으로 부상했다. 지수의 하루 등락을 2배, 3배로 추종하는 상품에 자금이 몰린 뒤 기초자산 가격이 급변하자, ETF 운용 구조상 필요한 리밸런싱 매매가 시장 충격을 다시 키웠다. 그 결과 투자자 불안을 반영하는 공포지수는 사상 최고 수준까지 치솟았고, 단기 수익을 노린 파생형 ETF가 변동성의 증폭 장치로 작동했다는 평가가 확산됐다.\n\n## 레버리지 ETF가 변동성을 키운 구조\n레버리지 ETF는 장기 보유 상품이 아니라 하루 수익률을 기준으로 배율을 맞추는 고위험 상품이다. 예를 들어 기초지수가 하루 5% 하락하면 2배 레버리지 ETF는 이론적으로 10%, 3배 상품은 15% 안팎의 손실을 낸다. 다음 거래일에는 다시 목표 배율을 맞추기 위해 선물, 스와프 등 파생 포지션을 조정해야 한다. 시장이 한 방향으로 급하게 움직일수록 이 리밸런싱 수요는 커진다.\n\n문제는 하락장에서 매도 수요가 한꺼번에 몰린다는 점이다. 가격이 떨어지면 레버리지 비율을 낮추기 위한 기계적 매도가 발생하고, 이 매도가 다시 지수 하락을 압박한다. 변동성이 커질수록 옵션시장에서는 헤지 수요가 늘고, 공포지수는 급등한다. 이번 장세에서 공포지수의 사상 최고치 경신은 단순한 심리 악화가 아니라 파생상품, ETF, 알고리즘 매매가 동시에 맞물린 결과다.\n\n## 국내 투자자가 봐야 할 숫자와 위험\n국내 투자자에게도 충격은 직접적이다. 해외 상장 레버리지 ETF를 매수한 투자자는 지수 손실뿐 아니라 원·달러 환율 변동까지 떠안는다. 1만달러 투자금은 환율 1,350원 기준 약 1,350만원이다. 해당 ETF가 20% 하락하면 달러 기준 손실은 2,000달러이며, 원화로는 환율 변화에 따라 손실액이 더 커지거나 작아질 수 있다. 환헤지가 없는 상품은 주가와 환율이 동시에 투자 성과를 흔든다.\n\n국내 상장 레버리지 ETF도 예외가 아니다. 금융당국은 파생형 ETF와 ETN에 대해 기본예탁금, 투자자 교육, 레버리지 한도 등 장치를 두고 있다. 그러나 제도적 장치가 손실을 막아주지는 않는다. 특히 변동성이 큰 구간에서는 순자산가치와 시장가격 사이의 괴리율이 벌어질 수 있고, 반복적인 등락장에서는 복리효과 때문에 기초지수가 제자리로 돌아와도 레버리지 ETF 가격은 회복하지 못할 수 있다.\n\n## 시장 영향과 전망\n공포지수의 급등은 위험자산 전반의 가격 재평가를 부른다. 주식형 ETF에서는 환매와 차익실현 매물이 늘고, 채권·달러·금 등 방어자산 선호가 강해질 가능성이 크다. 국내 증시에서는 외국인 선물 매매, 원·달러 환율, 반도체 대형주 수급이 함께 흔들릴 수 있다. 코스피와 코스닥의 레버리지·인버스 ETF 거래대금이 늘어날수록 장중 변동성도 커질 수 있다.\n\n향후 관건은 레버리지 ETF의 리밸런싱 매물이 얼마나 빨리 소화되느냐다. 변동성이 낮아지고 거래대금이 정상화되면 공포지수도 안정될 수 있다. 다만 가격 급등락이 이어질 경우 레버리지 ETF는 수익 확대 수단이 아니라 손실 확대 통로가 된다. 개인투자자는 투자 기간을 하루 단위로 관리하고, 손실 한도와 환율 노출을 사전에 정해야 한다. 이번 공포지수 사상 최고치 경신은 레버리지 ETF가 고수익 상품이기 전에 고위험 파생형 상품이라는 점을 다시 확인시켰다.",
+        "keywords": [
+          "레버리지 ETF",
+          "공포지수",
+          "VIX",
+          "극한 변동장",
+          "파생형 ETF",
+          "ETF 리밸런싱",
+          "원달러 환율",
+          "국내 ETF",
+          "변동성 장세",
+          "레버리지 ETF발 극한 변동장, 공포"
+        ],
+        "faq": [
+          {
+            "q": "레버리지 ETF가 왜 변동성을 키우나요?",
+            "a": "레버리지 ETF는 매일 목표 배율을 맞추기 위해 파생 포지션을 조정한다. 급락장에서는 기계적 매도 수요가 커져 지수 하락과 변동성을 증폭시킬 수 있다."
+          },
+          {
+            "q": "공포지수 사상 최고치는 무엇을 의미하나요?",
+            "a": "투자자들이 향후 시장 변동성을 매우 높게 보고 있다는 뜻이다. 주식, 옵션, ETF 시장의 헤지 수요가 동시에 커질 때 공포지수는 급등한다."
+          },
+          {
+            "q": "국내 투자자는 무엇을 주의해야 하나요?",
+            "a": "해외 레버리지 ETF는 지수 변동뿐 아니라 원·달러 환율 영향을 받는다. 국내 상장 상품도 괴리율, 복리효과, 기본예탁금과 투자자 교육 등 규제 조건을 확인해야 한다."
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "6f378d7ac478",
+    "slug": "etf에-엇갈린-퇴직연금-수익률-db형-제자리-dc는-20-넘어-200181",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-06-11T09:24:51.118Z",
+    "updatedAt": "2026-06-11T09:24:51.118Z",
+    "sourceName": "",
+    "sourceUrl": "",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12071871",
+    "titleFingerprint": "71b4440aafc1147988201aac2374c1c686cf8973",
+    "dedupKeys": [
+      "6f378d7ac4788953cf8dce11929a60e34699b1a5",
+      "71b4440aafc1147988201aac2374c1c686cf8973",
+      "1ef081ac8672d6317db3882962120a3c9c95d267"
+    ],
+    "imageUrl": "/images/articles/6f378d7ac478.jpg",
+    "i18n": {
+      "ko": {
+        "title": "ETF 퇴직연금 수익률 격차 확대, DB형 제자리·DC형 20%대 돌파",
+        "excerpt": "국내 증시 호황이 이어지면서 ETF 편입 비중이 높은 확정기여형 퇴직연금 수익률은 20%를 넘어섰지만, 예·적금 중심의 확정급여형은 작년 4분기 대비 제자리걸음을 보였다.",
+        "metaDescription": "ETF 투자 확대와 국내 증시 호황으로 DC형 퇴직연금 수익률은 20%대를 넘어선 반면 DB형은 보수적 운용 탓에 정체됐다.",
+        "summary": "퇴직연금 시장에서 ETF 활용 여부가 수익률 격차를 키우고 있다. 국내 증시 호황이 이어지며 DC형 퇴직연금은 20%를 웃도는 성과를 냈다. 반면 DB형은 예·적금, 회사채 중심의 보수적 운용으로 수익률이 크게 움직이지 않았다. 가입자의 투자 선택권과 운용 역량이 노후자산 성과를 가르는 핵심 변수로 부상했다.",
+        "body": "국내 증시 상승장이 퇴직연금 수익률을 뚜렷하게 갈랐다. ETF를 활용해 주식시장 상승분을 흡수한 확정기여형(DC) 퇴직연금은 수익률이 20%를 넘어섰지만, 예·적금과 회사채 등 원리금 보장성 자산에 무게를 둔 확정급여형(DB)은 작년 4분기 이후 큰 폭의 개선 없이 제자리 흐름을 보였다. 같은 퇴직연금이라도 운용 방식과 위험자산 편입 여부에 따라 노후자산의 성과가 달라진 셈이다.\n\n## ETF 편입이 만든 퇴직연금 수익률 차이\n지난해부터 이어진 이례적인 국내 증시 호황은 퇴직연금 계좌 안에서도 직접적인 성과 차이를 만들었다. DC형은 가입자가 직접 상품을 고르고 운용 성과를 가져가는 구조다. 이 때문에 국내 주식형 ETF, 지수형 ETF, 산업 테마 ETF 등 시장 상승을 따라가는 상품을 담은 계좌는 증시 반등의 혜택을 빠르게 반영했다. 그 결과 DC형 퇴직연금 수익률은 20%를 웃도는 수준까지 올라섰다.\n\n반면 DB형은 회사가 근로자에게 약속한 퇴직급여를 지급해야 하는 구조라 운용 안정성이 우선된다. 운용 손익이 근로자 개인에게 직접 귀속되는 DC형과 달리 DB형은 기업의 부담과 회계 안정성이 중요하다. 이 때문에 예금, 적금, 우량 회사채, 단기 채권형 상품 비중이 높고 주식형 ETF 편입은 제한적으로 이뤄진다. 금리형 자산 중심의 포트폴리오는 손실 위험을 낮추지만 강한 증시 상승장에서는 수익률 개선 속도가 느릴 수밖에 없다.\n\n## 원화 자산 배분과 국내 규제가 핵심 변수\n한국 퇴직연금 시장에서 ETF는 DC형과 개인형퇴직연금(IRP)을 중심으로 영향력을 넓히고 있다. 원화로 매매되는 국내 상장 ETF는 환전 부담이 낮고, 코스피200·코스닥150 같은 대표지수부터 반도체, 2차전지, 배당, 채권혼합형까지 선택지가 다양하다. 가입자는 연금계좌 안에서 세제 혜택을 유지하면서 분산투자에 접근할 수 있다.\n\n다만 퇴직연금은 일반 주식계좌와 다르다. 국내 규제상 연금자산은 안정성과 장기 운용 원칙이 강하게 적용되며, 위험자산 편입 한도와 상품 적격성 기준도 고려해야 한다. DC형 가입자가 ETF로 높은 수익을 냈더라도 모든 자금을 주식형 ETF에 집중하는 방식은 적절하지 않다. 원화 기준 평가액은 국내 증시 변동, 금리, 환율, 업종별 쏠림에 따라 빠르게 흔들릴 수 있다.\n\n## 노후자산 전략, 수익률보다 구조가 중요\n이번 수익률 격차는 퇴직연금 가입자에게 분명한 메시지를 준다. DB형은 안정성이 장점이지만 시장 상승을 적극적으로 따라가기 어렵고, DC형은 성과 기회가 크지만 손실 책임도 가입자에게 있다. 특히 ETF는 낮은 비용과 투명한 포트폴리오, 실시간 가격 확인이라는 장점이 있지만 단기 테마형 상품에 쏠리면 연금자산의 변동성이 커진다.\n\n앞으로 퇴직연금 시장에서는 ETF를 활용한 자산배분형 전략이 더 중요해질 전망이다. 주식형 ETF만이 아니라 채권형, 단기금리형, 배당형, 글로벌 분산형 ETF를 조합해 위험을 관리하는 방식이 확산될 가능성이 크다. 국내 증시 호황이 이어질 경우 DC형과 IRP의 성과 우위가 유지될 수 있지만, 시장 조정이 나타나면 계좌별 운용 실력 차이도 더 선명해질 전망이다. 퇴직연금의 핵심은 단기 고수익이 아니라 장기 복리와 손실 관리다. ETF는 그 도구가 될 수 있지만, 결과는 어떤 자산을 어떤 비중으로 담느냐에 달려 있다.",
+        "keywords": [
+          "ETF",
+          "퇴직연금",
+          "DC형 퇴직연금",
+          "DB형 퇴직연금",
+          "퇴직연금 수익률",
+          "국내 증시",
+          "연금 ETF",
+          "IRP",
+          "자산배분",
+          "ETF 퇴직연금 수익률 격차 확대,"
+        ],
+        "faq": [
+          {
+            "q": "왜 DC형 퇴직연금 수익률이 DB형보다 높았나?",
+            "a": "DC형은 가입자가 ETF 등 위험자산을 직접 선택할 수 있어 국내 증시 상승분을 더 크게 반영했다. 반면 DB형은 예·적금과 회사채 중심으로 운용돼 수익률 변동이 작았다."
+          },
+          {
+            "q": "DB형 퇴직연금은 수익률이 낮으면 불리한가?",
+            "a": "DB형은 회사가 정해진 퇴직급여를 지급하는 구조라 개인이 직접 운용 손실을 부담하지 않는다. 수익률은 낮을 수 있지만 안정성이 상대적으로 높다."
+          },
+          {
+            "q": "퇴직연금에서 ETF 투자는 어떤 점을 주의해야 하나?",
+            "a": "ETF는 분산투자와 낮은 비용이 장점이지만 주식형·테마형 상품은 변동성이 크다. 연금계좌에서는 주식형, 채권형, 금리형 ETF를 함께 활용해 장기 자산배분을 고려해야 한다."
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "62fafbf7fa4d",
+    "slug": "분할도-병합도-안돼-황제동전etf-넘칠판-346918",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-06-11T09:24:09.242Z",
+    "updatedAt": "2026-06-11T09:24:09.242Z",
+    "sourceName": "",
+    "sourceUrl": "",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12071894",
+    "titleFingerprint": "3f94857aec2ffd78e3a4018117792af458621461",
+    "dedupKeys": [
+      "62fafbf7fa4d54bc3be7b7aca5263ca2fdead046",
+      "3f94857aec2ffd78e3a4018117792af458621461",
+      "9dbc85da1aee53dc9515bd7196b1454d0b997e3b"
+    ],
+    "imageUrl": "/images/articles/62fafbf7fa4d.jpg",
+    "i18n": {
+      "ko": {
+        "title": "황제 ETF·동전 ETF 동시 확산, 국내 ETF 가격 양극화가 커진다",
+        "excerpt": "올해 국내외 증시 상승세가 이어지면서 ETF 시장에서 1좌당 가격 격차가 빠르게 벌어지고 있다. 일부 레버리지 ETF는 100만원에 근접하고 저가 ETF는 동전주처럼 거래된다.",
+        "metaDescription": "국내외 증시 강세로 ETF 가격 양극화가 심화되고 있다. 레버리지 ETF는 황제 ETF 수준에 다가서고 저가 ETF는 동전 ETF로 남는 구조가 굳어진다.",
+        "summary": "ETF 시장에서 고가 ETF와 저가 ETF의 격차가 커지고 있다. 증시 상승세와 레버리지 구조가 맞물리며 일부 상품은 1좌당 100만원에 근접했다. 반면 가격이 낮은 ETF는 거래 접근성은 높지만 변동성 체감과 호가 부담이 커질 수 있다. 분할과 병합 제도 개선 논의가 시장 과제로 떠오른다.",
+        "body": "국내 상장지수펀드(ETF) 시장에서 ‘황제 ETF’와 ‘동전 ETF’가 동시에 늘어나는 가격 양극화가 뚜렷해지고 있다. 올해 국내외 증시가 상승 흐름을 이어가면서 지수 상승폭을 배로 추종하는 레버리지 ETF의 가격이 빠르게 뛰었다. 일부 상품은 1좌당 가격이 100만원에 근접해 고가 주식의 상징으로 쓰이는 황제주 기준선에 다가섰다. 반대로 장기간 가격이 낮게 머문 ETF는 투자자가 보기에는 싸 보이지만 호가 단위, 괴리율, 거래량 측면에서 별도 점검이 필요한 상품으로 남고 있다.\n\n## ETF 가격 양극화의 배경\nETF 가격은 기초지수 움직임, 환율, 운용 방식, 분배금 처리, 레버리지 배율에 따라 달라진다. 올해처럼 국내외 주식시장이 동반 강세를 보이면 상승 지수를 추종하는 ETF 가격은 자연스럽게 오른다. 특히 레버리지 ETF는 하루 수익률을 2배 안팎으로 추종하는 구조라 상승장이 길어질수록 가격 상승 속도가 더 가파르게 나타난다. 해외 주식형 ETF의 경우 원·달러 환율 움직임까지 더해져 원화 기준 가격이 더 높아질 수 있다.\n\n문제는 ETF가 주식처럼 액면분할이나 병합을 자유롭게 활용하기 어렵다는 점이다. 개별 주식은 가격이 지나치게 높아지면 분할로 투자 접근성을 조정하고, 가격이 지나치게 낮아지면 병합으로 시장 이미지를 관리할 수 있다. ETF는 기초자산과 순자산가치, 설정·환매 구조가 맞물려 있어 가격 조정이 단순하지 않다. 이 때문에 상승장에서 고가 ETF가 계속 비싸지고, 약세를 오래 겪은 상품은 낮은 가격대에 머무르는 현상이 누적된다.\n\n## 100만원 ETF가 만드는 투자자 부담\n1좌당 가격이 100만원에 가까운 ETF는 개인투자자의 주문 단위를 크게 만든다. 예를 들어 1좌 가격이 100만원이면 10좌만 사도 매수 금액은 1000만원이다. 분산투자를 하려는 투자자에게는 포트폴리오 비중 조절이 어려워지고, 소액 적립식 투자자는 원하는 만큼 세밀하게 매수하기 힘들다. 국내 투자자는 원화로 매매하기 때문에 가격 단위가 커질수록 체감 부담이 더 커진다.\n\n저가 ETF도 마냥 유리하지 않다. 가격이 낮으면 적은 돈으로 접근할 수 있지만, 호가 한 칸의 비율이 상대적으로 커질 수 있다. 거래량이 충분하지 않은 상품은 매수·매도 호가 차이가 체감 비용으로 작용한다. 가격이 낮다는 이유만으로 저평가됐다고 판단하면 기초지수 부진, 상품 구조, 운용 규모, 상장 유지 가능성 같은 핵심 변수를 놓칠 수 있다. ETF 투자자는 절대 가격보다 순자산가치와 괴리율, 총보수, 추적오차, 거래대금을 함께 확인해야 한다.\n\n## 제도 개선과 시장 전망\n가격 양극화는 ETF 시장 성장의 부산물이다. 상품 수가 늘고 레버리지·인버스·해외형·테마형 ETF가 다양해질수록 가격대도 넓어진다. 다만 투자자 보호와 거래 편의성을 고려하면 ETF의 분할·병합 절차를 보다 명확하게 정비할 필요가 커진다. 고가 ETF는 소액 투자자의 접근성을 떨어뜨리고, 저가 ETF는 상품 신뢰도와 유동성 관리 부담을 키울 수 있기 때문이다.\n\n앞으로 국내 ETF 시장에서는 단순히 상장 종목 수를 늘리는 경쟁보다 상품 가격 관리와 유동성 공급 역량이 더 중요해질 전망이다. 운용사는 가격대가 과도하게 높거나 낮아질 때 투자자가 겪는 불편을 줄일 방안을 마련해야 한다. 투자자는 황제 ETF와 동전 ETF라는 이름보다 기초자산, 운용 방식, 거래비용을 먼저 봐야 한다. ETF 가격 양극화는 단기 현상이 아니라 증시 흐름과 제도 설계가 함께 만든 구조적 이슈로 굳어지고 있다.",
+        "keywords": [
+          "ETF",
+          "황제 ETF",
+          "동전 ETF",
+          "레버리지 ETF",
+          "ETF 가격 양극화",
+          "국내 ETF 시장",
+          "상장지수펀드",
+          "ETF 분할",
+          "ETF 병합",
+          "개인투자자"
+        ],
+        "faq": [
+          {
+            "q": "황제 ETF란 무엇인가?",
+            "a": "1좌당 가격이 매우 높아 개인투자자가 소액으로 접근하기 어려운 ETF를 뜻한다. 최근 일부 레버리지 ETF는 100만원 수준에 근접하며 이런 표현이 쓰이고 있다."
+          },
+          {
+            "q": "ETF 가격이 낮으면 무조건 투자하기 좋은가?",
+            "a": "아니다. 낮은 가격은 접근성을 높이지만 거래량, 호가 차이, 괴리율, 추적오차를 함께 봐야 한다. 절대 가격만으로 저평가 여부를 판단하기 어렵다."
+          },
+          {
+            "q": "ETF 분할이나 병합이 필요한 이유는 무엇인가?",
+            "a": "가격이 너무 높으면 소액 투자자의 비중 조절이 어렵고, 너무 낮으면 거래 품질과 상품 이미지가 나빠질 수 있다. 가격 조정 제도가 정비되면 투자 편의성이 개선될 수 있다."
+          }
+        ]
+      }
+    }
+  },
+  {
     "id": "70a4471ebae7",
     "slug": "경남도-참여-원전산업-투자펀드-범한메카텍에-첫-투자-587162",
     "channelId": "ETF",
@@ -3187,231 +3346,6 @@
         "title": "Superkaya Hong Kong Cari Peluang KOSPI, Rekening Omnibus dan ETF Korea Jadi Sorotan",
         "excerpt": "Sekitar 40 klien VIP Futu Securities dari Hong Kong mengunjungi Hana Securities di Seoul pada 14 Mei untuk menilai peluang KOSPI, di tengah minat pada rekening omnibus asing dan ETF Korea.",
         "body": "Sekitar 40 klien “superkaya” Hong Kong yang mengelola aset senilai US$1 miliar, atau sekitar 1,48 triliun won, mengunjungi kantor pusat Hana Securities di Yeouido, Seoul, pada 14 Mei. Futu Securities Hong Kong dan CSOP Asset Management menggelar sesi “Korea Research” untuk klien VIP Futu, yang selama dua hari akan meninjau peluang KOSPI melalui rangkaian pertemuan IR dengan emiten besar Korea. Latar belakangnya adalah perluasan rekening omnibus asing, yang memungkinkan investor asing membeli, menjual, dan menyelesaikan transaksi saham Korea melalui perusahaan investasi keuangan luar negeri. Hana memulai layanan ini dengan Emperor Securities tahun lalu dan berencana meluncurkannya bersama Futu pada Juni. ETF CSOP SK Hynix Daily 2x Leveraged yang tercatat di Hong Kong memiliki AUM hampir 8 triliun won tahun lalu. Sumber: hankyung.com"
-      }
-    }
-  },
-  {
-    "id": "5a72da71a500",
-    "slug": "삼전닉스-단일종목-레버리지-etf-14개-27일-출격-796063",
-    "channelId": "ETF",
-    "category": "etf",
-    "publishedAt": "2026-05-14T20:59:45.497Z",
-    "updatedAt": "2026-05-14T20:59:45.497Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/2026051469726",
-    "canonicalUrl": "https://www.hankyung.com/article/2026051469726",
-    "titleFingerprint": "b47b78ff59956d02b1d03aa6bd01808aa6a4345d",
-    "dedupKeys": [
-      "5a72da71a50066a926935e5f487b575201cbaba8",
-      "b47b78ff59956d02b1d03aa6bd01808aa6a4345d",
-      "78e3f9f8005a9e367d9793a6b22ae54ba7006b41"
-    ],
-    "imageUrl": "/images/articles/5a72da71a500.jpg",
-    "i18n": {
-      "ko": {
-        "title": "삼성전자·SK하이닉스 단일종목 레버리지 ETF 14개, 27일 출시 예정",
-        "excerpt": "삼성전자와 SK하이닉스를 기초로 한 단일종목 레버리지 ETF 14개가 27일 시장에 나온다. 대형 반도체 종목을 활용한 ETF 라인업 확대가 핵심이다.",
-        "body": "삼성전자와 SK하이닉스를 기초로 한 단일종목 레버리지 ETF 14개가 27일 출시될 예정이다. 이번 상품은 국내 대표 반도체 종목으로 꼽히는 두 기업을 각각 활용한 레버리지형 ETF라는 점이 핵심이다. 원문 제목에 따르면 출시 대상은 총 14개이며, 일정은 27일로 제시됐다. 단일종목 레버리지 ETF는 특정 종목의 주가 흐름을 바탕으로 설계되는 상품인 만큼, 투자자는 기초 종목과 레버리지 구조를 함께 확인할 필요가 있다. 관련 내용은 hankyung.com 보도를 인용했다."
-      },
-      "en": {
-        "title": "Samsung Electronics and SK Hynix Single-Stock Leveraged ETFs Set for 27th Launch",
-        "excerpt": "Fourteen single-stock leveraged ETFs based on Samsung Electronics and SK Hynix are set to enter the market on the 27th, expanding ETF lineups tied to major semiconductor names.",
-        "body": "Fourteen single-stock leveraged ETFs based on Samsung Electronics and SK Hynix are scheduled to launch on the 27th. The key point is that the products use two of Korea’s leading semiconductor stocks as their underlying names in leveraged ETF structures. According to the original headline, a total of 14 products are included, with the launch date stated as the 27th. Because single-stock leveraged ETFs are designed around the price movement of a specific stock, investors need to review both the underlying stock and the leverage structure. This article cites reporting from hankyung.com."
-      },
-      "ja": {
-        "title": "サムスン電子・SKハイニックス単一銘柄レバレッジETF14本、27日投入へ",
-        "excerpt": "サムスン電子とSKハイニックスを対象とする単一銘柄レバレッジETF14本が27日に市場投入される。大型半導体銘柄を活用したETF拡充が焦点だ。",
-        "body": "サムスン電子とSKハイニックスを対象とする単一銘柄レバレッジETF14本が、27日に投入される予定だ。今回の商品は、韓国を代表する半導体銘柄とされる2社をそれぞれ活用したレバレッジ型ETFである点が核心となる。原文の見出しによると、対象商品は計14本で、日程は27日と示されている。単一銘柄レバレッジETFは特定銘柄の株価変動を基に設計されるため、投資家は対象銘柄とレバレッジ構造をあわせて確認する必要がある。内容はhankyung.comの報道を引用した。"
-      },
-      "zh": {
-        "title": "三星电子与SK海力士单一股票杠杆ETF共14只将于27日推出",
-        "excerpt": "以三星电子和SK海力士为基础的14只单一股票杠杆ETF将于27日进入市场，重点在于围绕大型半导体个股扩充ETF产品线。",
-        "body": "以三星电子和SK海力士为基础的14只单一股票杠杆ETF预计将于27日推出。此次产品的核心在于，分别利用韩国代表性半导体股票设计成杠杆型ETF。根据原文标题，推出对象共14只，时间为27日。单一股票杠杆ETF是以特定股票价格走势为基础设计的产品，因此投资者需要同时确认基础股票和杠杆结构。本文引用hankyung.com报道。"
-      },
-      "es": {
-        "title": "ETF apalancados de una sola acción sobre Samsung Electronics y SK Hynix debutan el día 27",
-        "excerpt": "Catorce ETF apalancados de una sola acción basados en Samsung Electronics y SK Hynix llegarán al mercado el día 27, ampliando la oferta ligada a grandes valores de semiconductores.",
-        "body": "Catorce ETF apalancados de una sola acción basados en Samsung Electronics y SK Hynix tienen previsto lanzarse el día 27. El punto central es que estos productos usan como subyacentes a dos de las principales compañías coreanas de semiconductores dentro de estructuras de ETF apalancados. Según el título original, el número total de productos es 14 y la fecha indicada es el día 27. Como los ETF apalancados de una sola acción se diseñan en torno al movimiento de precio de un valor específico, los inversores deben revisar tanto la acción subyacente como la estructura de apalancamiento. Este artículo cita a hankyung.com."
-      },
-      "pt": {
-        "title": "ETFs alavancados de ação única de Samsung Electronics e SK Hynix chegam no dia 27",
-        "excerpt": "Quatorze ETFs alavancados de ação única baseados em Samsung Electronics e SK Hynix chegarão ao mercado no dia 27, ampliando a linha ligada a grandes nomes de semicondutores.",
-        "body": "Quatorze ETFs alavancados de ação única baseados em Samsung Electronics e SK Hynix estão previstos para lançamento no dia 27. O ponto central é que os produtos usam duas das principais ações coreanas de semicondutores como ativos subjacentes em estruturas de ETF alavancado. Segundo o título original, o total de produtos é 14 e a data indicada é o dia 27. Como ETFs alavancados de ação única são desenhados com base no movimento de preço de uma ação específica, investidores devem verificar tanto o ativo subjacente quanto a estrutura de alavancagem. Este texto cita reportagem do hankyung.com."
-      },
-      "de": {
-        "title": "Einzeltitel-Hebel-ETFs auf Samsung Electronics und SK Hynix starten am 27.",
-        "excerpt": "Vierzehn Einzeltitel-Hebel-ETFs auf Samsung Electronics und SK Hynix sollen am 27. an den Markt kommen und die ETF-Palette rund um große Halbleiterwerte erweitern.",
-        "body": "Vierzehn Einzeltitel-Hebel-ETFs auf Samsung Electronics und SK Hynix sollen am 27. starten. Entscheidend ist, dass die Produkte zwei führende koreanische Halbleiteraktien jeweils als Basiswert in einer gehebelten ETF-Struktur nutzen. Laut der ursprünglichen Überschrift umfasst die Einführung insgesamt 14 Produkte, der Termin wird mit dem 27. angegeben. Da Einzeltitel-Hebel-ETFs auf der Kursentwicklung einer bestimmten Aktie beruhen, sollten Anleger sowohl den Basiswert als auch die Hebelstruktur prüfen. Dieser Artikel zitiert einen Bericht von hankyung.com."
-      },
-      "fr": {
-        "title": "ETF à levier sur action unique Samsung Electronics et SK Hynix attendus le 27",
-        "excerpt": "Quatorze ETF à levier sur action unique liés à Samsung Electronics et SK Hynix doivent arriver sur le marché le 27, élargissant l’offre centrée sur de grands titres des semi-conducteurs.",
-        "body": "Quatorze ETF à levier sur action unique fondés sur Samsung Electronics et SK Hynix doivent être lancés le 27. L’élément central est que ces produits utilisent deux grandes valeurs coréennes des semi-conducteurs comme sous-jacents dans des structures d’ETF à levier. Selon le titre original, le lancement concerne 14 produits au total et la date indiquée est le 27. Comme les ETF à levier sur action unique sont conçus autour de l’évolution du cours d’une action précise, les investisseurs doivent examiner à la fois le titre sous-jacent et la structure de levier. Cet article cite hankyung.com."
-      },
-      "ar": {
-        "title": "إطلاق 14 صندوق ETF برافعة لسهم واحد على سامسونغ إلكترونيكس وSK هاينكس في 27",
-        "excerpt": "من المقرر طرح 14 صندوق ETF برافعة مالية لسهم واحد تستند إلى سامسونغ إلكترونيكس وSK هاينكس في السوق يوم 27، مع توسيع المنتجات المرتبطة بأسهم أشباه الموصلات الكبرى.",
-        "body": "من المقرر إطلاق 14 صندوق ETF برافعة مالية لسهم واحد تستند إلى سامسونغ إلكترونيكس وSK هاينكس يوم 27. وتكمن النقطة الأساسية في أن هذه المنتجات تستخدم شركتين من أبرز أسهم أشباه الموصلات الكورية كأصول أساسية ضمن هياكل صناديق متداولة برافعة مالية. ووفق العنوان الأصلي، يبلغ عدد المنتجات المطروحة 14 منتجا، وتم تحديد الموعد في يوم 27. وبما أن صناديق ETF برافعة لسهم واحد تصمم بناء على حركة سعر سهم محدد، يحتاج المستثمرون إلى مراجعة السهم الأساسي وهيكل الرافعة معا. يستند هذا النص إلى تقرير من hankyung.com."
-      },
-      "hi": {
-        "title": "Samsung Electronics और SK Hynix पर 14 सिंगल-स्टॉक लेवरेज्ड ETF 27 को लॉन्च",
-        "excerpt": "Samsung Electronics और SK Hynix पर आधारित 14 सिंगल-स्टॉक लेवरेज्ड ETF 27 तारीख को बाजार में आने वाले हैं, जिससे बड़े सेमीकंडक्टर शेयरों से जुड़ी ETF श्रृंखला बढ़ेगी।",
-        "body": "Samsung Electronics और SK Hynix पर आधारित 14 सिंगल-स्टॉक लेवरेज्ड ETF 27 तारीख को लॉन्च होने वाले हैं। मुख्य बात यह है कि ये उत्पाद कोरिया के प्रमुख सेमीकंडक्टर शेयरों में गिने जाने वाले इन दो नामों को आधार बनाकर लेवरेज्ड ETF संरचना में तैयार किए गए हैं। मूल शीर्षक के अनुसार, कुल 14 उत्पाद शामिल हैं और समय 27 तारीख बताया गया है। सिंगल-स्टॉक लेवरेज्ड ETF किसी खास शेयर की कीमत की चाल पर आधारित होते हैं, इसलिए निवेशकों को आधार शेयर और लेवरेज संरचना दोनों की जांच करनी चाहिए। यह लेख hankyung.com की रिपोर्ट का हवाला देता है।"
-      },
-      "id": {
-        "title": "ETF leverage saham tunggal Samsung Electronics dan SK Hynix diluncurkan pada 27",
-        "excerpt": "Sebanyak 14 ETF leverage saham tunggal berbasis Samsung Electronics dan SK Hynix akan masuk pasar pada 27, memperluas lini ETF yang terkait saham semikonduktor besar.",
-        "body": "Sebanyak 14 ETF leverage saham tunggal berbasis Samsung Electronics dan SK Hynix dijadwalkan diluncurkan pada 27. Intinya, produk ini menggunakan dua saham semikonduktor utama Korea sebagai aset dasar dalam struktur ETF leverage. Menurut judul asli, total produk yang akan diluncurkan berjumlah 14 dan jadwalnya disebut pada 27. Karena ETF leverage saham tunggal dirancang berdasarkan pergerakan harga saham tertentu, investor perlu memeriksa saham dasar dan struktur leverage secara bersamaan. Artikel ini mengutip laporan hankyung.com."
-      }
-    }
-  },
-  {
-    "id": "65fcabed55c1",
-    "slug": "삼전닉스-없인-못해美도-열풍-불더니-한국-주식에-꽂혔다-분석-861004",
-    "channelId": "ETF",
-    "category": "etf",
-    "publishedAt": "2026-05-14T16:54:13.418Z",
-    "updatedAt": "2026-05-14T16:54:13.418Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/2026051467266",
-    "canonicalUrl": "https://www.hankyung.com/article/2026051467266",
-    "titleFingerprint": "158008a4dbc51b4723726e2bce5d10d3fe89e03c",
-    "dedupKeys": [
-      "65fcabed55c16ed5709df8b974f659f89513dbc3",
-      "158008a4dbc51b4723726e2bce5d10d3fe89e03c",
-      "425b6306b7db127605409519353eda7ac025bf8a"
-    ],
-    "imageUrl": "/images/articles/65fcabed55c1.jpg",
-    "i18n": {
-      "ko": {
-        "title": "삼성전자·SK하이닉스 ETF에 美 자금 몰린다…월가가 본 한국 반도체",
-        "excerpt": "14일 한국경제에 따르면 코스피가 8000선에 근접한 가운데 미국 헤지펀드와 개인투자자 자금이 삼성전자·SK하이닉스 중심의 한국 주식과 ETF로 유입되고 있다.",
-        "body": "14일 한국경제는 일본 니혼게이자이신문 보도를 인용해 코스피가 8000선에 육박하는 상승세 속에서 뉴욕 헤지펀드와 미국 개인투자자 자금이 한국 주식시장으로 들어오고 있다고 전했다. 핵심은 HBM을 앞세운 삼성전자와 SK하이닉스다. AI 산업 확대와 메모리 가격 상승으로 두 종목 주가는 최근 1년 사이 3배 가까이 올랐지만 예상 PER은 약 6배로, 미국 마이크론의 약 9배보다 낮다고 분석됐다. 미국 라운드힐의 메모리 반도체 ETF에는 출시 한 달 만에 60억달러 이상이 유입됐고, 국내 ETF 1107개 중 삼성전자를 담은 상품은 218개, SK하이닉스 편입 상품은 203개로 집계됐다. 반도체 중심의 ETF 재편은 당분간 시장의 주요 변수로 꼽힌다. 출처: hankyung.com 인용."
-      },
-      "en": {
-        "title": "Samsung and SK Hynix ETFs Draw U.S. Cash as Wall Street Reassesses Korea Chips",
-        "excerpt": "According to Hankyung on May 14, as the KOSPI nears 8,000, U.S. hedge funds and retail investors are directing capital into Korean stocks and ETFs centered on Samsung Electronics and SK Hynix.",
-        "body": "Hankyung reported on May 14, citing Nikkei, that New York hedge funds and U.S. retail investors are moving money into Korea’s stock market as the KOSPI approaches the 8,000 level. The focus is Samsung Electronics and SK Hynix, backed by HBM demand. Nikkei said AI expansion and higher memory prices have helped both shares nearly triple over the past year, yet their expected PER is about 6 times, below Micron’s roughly 9 times. Roundhill’s U.S.-listed memory semiconductor ETF attracted more than $6 billion within a month of launch. In Korea, 218 of 1,107 listed ETFs hold Samsung Electronics, while 203 hold SK Hynix. The semiconductor-led reshaping of ETF demand remains a key market issue. Source: hankyung.com."
-      },
-      "ja": {
-        "title": "サムスン電子・SKハイニックスETFに米資金、ウォール街が韓国半導体を再評価",
-        "excerpt": "韓国経済新聞が14日に伝えたところによると、KOSPIが8000に迫るなか、米ヘッジファンドと個人投資家の資金がサムスン電子・SKハイニックス中心の韓国株とETFに流入している。",
-        "body": "韓国経済新聞は14日、日本経済新聞の報道を引用し、KOSPIが8000に迫る上昇局面で、ニューヨークのヘッジファンドや米個人投資家の資金が韓国株式市場に流入していると伝えた。焦点はHBMを強みとするサムスン電子とSKハイニックスだ。AI産業の拡大とメモリー価格上昇により、両社株は直近1年で約3倍に上昇したが、予想PERは約6倍で、米マイクロンの約9倍を下回ると分析された。米ラウンドヒルのメモリー半導体ETFには設定から1カ月で60億ドル超が流入。韓国上場ETF1107本のうち、サムスン電子を組み入れる商品は218本、SKハイニックスは203本だった。半導体主導のETF再編が市場の焦点になっている。出典: hankyung.com."
-      },
-      "zh": {
-        "title": "三星电子、SK海力士ETF吸引美国资金，华尔街重新关注韩国半导体",
-        "excerpt": "据韩国经济新闻14日报道，在KOSPI逼近8000点之际，美国对冲基金和散户资金正流入以三星电子、SK海力士为核心的韩国股票和ETF。",
-        "body": "韩国经济新闻14日援引日本经济新闻报道称，随着KOSPI逼近8000点，纽约对冲基金和美国个人投资者资金正在流入韩国股市。焦点是依托HBM的三星电子和SK海力士。报道称，AI产业扩张和存储芯片价格上涨推动两家公司股价在近一年内上涨近3倍，但预期市盈率约为6倍，仍低于美国美光约9倍的水平。美国Roundhill推出的存储半导体ETF在上市一个月内吸引超过60亿美元资金。韩国上市的1107只ETF中，持有三星电子的有218只，持有SK海力士的有203只。以半导体为中心的ETF市场重组仍是重要变量。来源: hankyung.com."
-      },
-      "es": {
-        "title": "ETF de Samsung y SK Hynix captan dinero de EE. UU. mientras Wall Street mira a Corea",
-        "excerpt": "Según Hankyung el 14 de mayo, con el KOSPI cerca de 8.000 puntos, fondos de cobertura y minoristas de EE. UU. están entrando en acciones y ETF coreanos centrados en Samsung Electronics y SK Hynix.",
-        "body": "Hankyung informó el 14 de mayo, citando a Nikkei, que fondos de cobertura de Nueva York e inversores minoristas estadounidenses están dirigiendo capital al mercado bursátil coreano mientras el KOSPI se acerca a 8.000 puntos. El foco está en Samsung Electronics y SK Hynix, impulsadas por HBM. La expansión de la IA y el alza de precios de memoria han llevado sus acciones a casi triplicarse en un año, aunque su PER esperado ronda 6 veces, por debajo de Micron, cerca de 9 veces. El ETF de semiconductores de memoria de Roundhill captó más de 6.000 millones de dólares en un mes. En Corea, 218 de 1.107 ETF incluyen Samsung y 203 incluyen SK Hynix. La reorganización de ETF hacia semiconductores sigue siendo clave. Fuente: hankyung.com."
-      },
-      "pt": {
-        "title": "ETFs de Samsung e SK Hynix atraem capital dos EUA com Wall Street de olho na Coreia",
-        "excerpt": "Segundo o Hankyung em 14 de maio, com o KOSPI perto de 8.000 pontos, hedge funds e investidores individuais dos EUA estão aplicando em ações e ETFs coreanos ligados a Samsung Electronics e SK Hynix.",
-        "body": "O Hankyung informou em 14 de maio, citando o Nikkei, que hedge funds de Nova York e investidores individuais dos EUA estão levando capital ao mercado acionário coreano enquanto o KOSPI se aproxima de 8.000 pontos. O foco são Samsung Electronics e SK Hynix, apoiadas por HBM. A expansão da IA e a alta dos preços de memória fizeram as ações das duas empresas quase triplicarem em um ano, mas o PER esperado é de cerca de 6 vezes, abaixo das cerca de 9 vezes da Micron. O ETF de semicondutores de memória da Roundhill recebeu mais de US$ 6 bilhões em um mês. Na Coreia, 218 dos 1.107 ETFs listados têm Samsung e 203 têm SK Hynix. A migração dos ETFs para semicondutores segue como ponto central. Fonte: hankyung.com."
-      },
-      "de": {
-        "title": "Samsung- und SK-Hynix-ETFs ziehen US-Geld an, Wall Street entdeckt Koreas Chips neu",
-        "excerpt": "Laut Hankyung vom 14. Mai fließt bei einem KOSPI nahe 8.000 Kapital von US-Hedgefonds und Privatanlegern in koreanische Aktien und ETFs rund um Samsung Electronics und SK Hynix.",
-        "body": "Hankyung berichtete am 14. Mai unter Berufung auf Nikkei, dass New Yorker Hedgefonds und US-Privatanleger Geld in den koreanischen Aktienmarkt lenken, während sich der KOSPI der Marke von 8.000 nähert. Im Mittelpunkt stehen Samsung Electronics und SK Hynix mit HBM. Die Ausweitung der KI-Industrie und steigende Speicherpreise ließen beide Aktien binnen eines Jahres fast auf das Dreifache steigen. Dennoch liegt das erwartete KGV bei etwa 6 und damit unter Micron mit rund 9. Der Speicherhalbleiter-ETF von Roundhill zog innerhalb eines Monats mehr als 6 Mrd. Dollar an. In Korea halten 218 von 1.107 gelisteten ETFs Samsung Electronics, 203 halten SK Hynix. Die Halbleiterorientierung der ETF-Nachfrage bleibt ein wichtiger Marktfaktor. Quelle: hankyung.com."
-      },
-      "fr": {
-        "title": "Les ETF Samsung et SK Hynix attirent l’argent américain, Wall Street revient sur les puces coréennes",
-        "excerpt": "Selon Hankyung le 14 mai, alors que le KOSPI approche 8 000 points, les hedge funds et particuliers américains investissent dans les actions et ETF coréens centrés sur Samsung Electronics et SK Hynix.",
-        "body": "Hankyung a rapporté le 14 mai, citant Nikkei, que des hedge funds new-yorkais et des investisseurs particuliers américains dirigent des capitaux vers la Bourse coréenne alors que le KOSPI approche 8 000 points. L’attention porte sur Samsung Electronics et SK Hynix, portés par le HBM. L’expansion de l’IA et la hausse des prix de la mémoire ont presque triplé leurs actions en un an, mais leur PER attendu reste d’environ 6 fois, contre près de 9 fois pour Micron. L’ETF américain de semi-conducteurs mémoire de Roundhill a collecté plus de 6 milliards de dollars en un mois. En Corée, 218 des 1 107 ETF cotés détiennent Samsung Electronics et 203 détiennent SK Hynix. La réorientation des ETF vers les semi-conducteurs demeure un enjeu majeur. Source: hankyung.com."
-      },
-      "ar": {
-        "title": "صناديق سامسونغ وSK هاينكس تجذب أموالاً أميركية مع عودة وول ستريت لأسهم كوريا",
-        "excerpt": "بحسب هانكيونغ في 14 مايو، ومع اقتراب مؤشر كوسبي من 8000 نقطة، تتجه أموال صناديق التحوط والمستثمرين الأفراد في الولايات المتحدة إلى أسهم وصناديق ETF كورية تركز على سامسونغ وSK هاينكس.",
-        "body": "ذكرت هانكيونغ في 14 مايو، نقلاً عن نيكاي، أن صناديق تحوط في نيويورك ومستثمرين أفراداً أميركيين يضخون أموالاً في سوق الأسهم الكورية مع اقتراب كوسبي من مستوى 8000 نقطة. محور الاهتمام هو سامسونغ إلكترونيكس وSK هاينكس بفضل ذاكرة HBM. وأدى توسع صناعة الذكاء الاصطناعي وارتفاع أسعار الذاكرة إلى صعود سهمي الشركتين بنحو ثلاثة أضعاف خلال عام، لكن مكرر الربحية المتوقع لهما يقارب 6 مرات، مقابل نحو 9 مرات لمايكرون. وجذب صندوق Roundhill الأميركي لأشباه موصلات الذاكرة أكثر من 6 مليارات دولار خلال شهر. وفي كوريا، تضم 218 من أصل 1107 صناديق ETF سامسونغ، و203 تضم SK هاينكس. إعادة تمركز صناديق ETF حول الرقائق تبقى عاملاً رئيسياً. المصدر: hankyung.com."
-      },
-      "hi": {
-        "title": "Samsung और SK Hynix ETF में अमेरिकी पैसा, वॉल स्ट्रीट की नजर कोरियाई चिप्स पर",
-        "excerpt": "Hankyung के अनुसार 14 मई को KOSPI के 8,000 के करीब पहुंचने के बीच अमेरिकी हेज फंड और खुदरा निवेशकों का धन Samsung Electronics और SK Hynix केंद्रित कोरियाई शेयरों और ETF में आ रहा है।",
-        "body": "Hankyung ने 14 मई को Nikkei के हवाले से बताया कि KOSPI के 8,000 के करीब पहुंचने के बीच न्यूयॉर्क के हेज फंड और अमेरिकी खुदरा निवेशक कोरियाई शेयर बाजार में पैसा लगा रहे हैं। मुख्य ध्यान HBM से जुड़ी Samsung Electronics और SK Hynix पर है। AI उद्योग के विस्तार और मेमोरी कीमतों में वृद्धि से दोनों शेयर पिछले एक साल में लगभग तीन गुना चढ़े, लेकिन उनका अनुमानित PER करीब 6 गुना है, जो Micron के लगभग 9 गुना से कम है। Roundhill के अमेरिकी मेमोरी सेमीकंडक्टर ETF में लॉन्च के एक महीने में 6 अरब डॉलर से अधिक आया। कोरिया में सूचीबद्ध 1,107 ETF में 218 Samsung Electronics और 203 SK Hynix रखते हैं। सेमीकंडक्टर आधारित ETF पुनर्गठन बाजार का अहम मुद्दा बना है। स्रोत: hankyung.com."
-      },
-      "id": {
-        "title": "ETF Samsung dan SK Hynix Dilirik Dana AS saat Wall Street Kembali Menilai Chip Korea",
-        "excerpt": "Menurut Hankyung pada 14 Mei, saat KOSPI mendekati 8.000, dana hedge fund dan investor ritel AS mengalir ke saham serta ETF Korea yang berfokus pada Samsung Electronics dan SK Hynix.",
-        "body": "Hankyung melaporkan pada 14 Mei, mengutip Nikkei, bahwa hedge fund New York dan investor ritel AS mengalirkan dana ke pasar saham Korea saat KOSPI mendekati level 8.000. Fokusnya adalah Samsung Electronics dan SK Hynix yang didukung HBM. Ekspansi industri AI dan kenaikan harga memori membuat saham keduanya hampir naik tiga kali lipat dalam setahun, tetapi PER perkiraan sekitar 6 kali, lebih rendah dari Micron sekitar 9 kali. ETF semikonduktor memori Roundhill di AS menarik lebih dari US$6 miliar dalam sebulan sejak diluncurkan. Di Korea, 218 dari 1.107 ETF tercatat memegang Samsung Electronics, sementara 203 memegang SK Hynix. Pergeseran ETF ke sektor semikonduktor tetap menjadi faktor pasar utama. Sumber: hankyung.com."
-      }
-    }
-  },
-  {
-    "id": "5d6c077a0e6e",
-    "slug": "삼전하닉-따블이요단일종목-레버리지-etf-14개-출격-준비-700404",
-    "channelId": "ETF",
-    "category": "etf",
-    "publishedAt": "2026-05-14T08:20:32.000Z",
-    "updatedAt": "2026-05-14T08:20:32.000Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/stock/12047713",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12047713",
-    "titleFingerprint": "39f7f42b256566ae926cb7519e4d186f00ca0348",
-    "dedupKeys": [
-      "5d6c077a0e6e071fe1f781f3aadb58b223334d01",
-      "39f7f42b256566ae926cb7519e4d186f00ca0348",
-      "84024c8165361fe17d9e16baf64918351a1d31fa"
-    ],
-    "imageUrl": "/images/articles/5d6c077a0e6e.jpg",
-    "i18n": {
-      "ko": {
-        "title": "삼성전자·SK하이닉스 단일종목 레버리지 ETF 14개, 27일 상장 준비",
-        "excerpt": "삼성전자와 SK하이닉스를 기초자산으로 한 단일종목 레버리지 ETF 14개와 인버스 ETF 2개가 공시를 마무리하고 이달 27일 상장을 준비한다. 수수료 경쟁도 치열해지고 있다.",
-        "body": "삼성전자와 SK하이닉스를 기초자산으로 한 단일종목 레버리지 ETF 14개가 이달 27일 상장을 앞두고 출격을 준비하고 있다. 원문에 따르면 관련 인버스 ETF 2개도 공시 절차를 마무리했다. 이번 상품들은 국내 대표 반도체 종목인 삼성전자와 SK하이닉스의 주가 움직임을 기초로 설계된 단일종목형 ETF다. 레버리지 상품은 기초자산 변동폭을 확대해 추종하고, 인버스 상품은 반대 방향의 성과를 노린다. 복수 운용사가 같은 기초자산을 두고 상품을 내놓으면서 수수료 경쟁도 치열해지는 분위기다. 상장 이후 투자자는 개별 종목 대신 ETF 형태로 관련 전략에 접근할 수 있게 된다. 출처: mk.co.kr."
-      },
-      "en": {
-        "title": "Samsung Electronics and SK hynix Single-Stock Leveraged ETFs Set for May 27 Listing",
-        "excerpt": "Fourteen single-stock leveraged ETFs based on Samsung Electronics and SK hynix, along with two inverse ETFs, have completed disclosures and are preparing to list on the 27th of this month amid fee competition.",
-        "body": "Fourteen single-stock leveraged ETFs using Samsung Electronics and SK hynix as underlying assets are preparing to list on the 27th of this month. According to the original report, two related inverse ETFs have also completed their disclosure process. The products are single-stock ETFs designed around the share-price movements of South Korea’s major semiconductor names, Samsung Electronics and SK hynix. Leveraged ETFs seek to magnify moves in the underlying asset, while inverse ETFs target performance in the opposite direction. As multiple asset managers launch products tied to the same underlying stocks, fee competition is becoming intense. After listing, investors will be able to access these strategies through ETFs rather than individual shares. Source: mk.co.kr."
-      },
-      "ja": {
-        "title": "サムスン電子・SKハイニックス単一銘柄レバレッジETF14本、27日上場へ",
-        "excerpt": "サムスン電子とSKハイニックスを原資産とする単一銘柄レバレッジETF14本とインバースETF2本が開示を終え、今月27日の上場を準備している。手数料競争も激しくなっている。",
-        "body": "サムスン電子とSKハイニックスを原資産とする単一銘柄レバレッジETF14本が、今月27日の上場を控えて準備を進めている。原文によると、関連するインバースETF2本も開示手続きを終えた。これらの商品は、韓国を代表する半導体銘柄であるサムスン電子とSKハイニックスの株価変動を基に設計された単一銘柄型ETFだ。レバレッジ商品は原資産の変動幅を拡大して追随し、インバース商品は反対方向の成果を狙う。複数の運用会社が同じ原資産を巡って商品を投入するため、手数料競争も激しさを増している。上場後、投資家は個別株ではなくETF形式で関連戦略にアクセスできる。出典: mk.co.kr."
-      },
-      "zh": {
-        "title": "三星电子、SK海力士单一股票杠杆ETF 14只拟于27日上市",
-        "excerpt": "以三星电子和SK海力士为基础资产的14只单一股票杠杆ETF，以及2只反向ETF已完成公告程序，准备于本月27日上市，相关费率竞争也趋于激烈。",
-        "body": "以三星电子和SK海力士为基础资产的14只单一股票杠杆ETF，正准备于本月27日上市。原文称，相关2只反向ETF也已完成公告程序。这些产品是围绕韩国代表性半导体股票三星电子和SK海力士股价走势设计的单一股票型ETF。杠杆产品旨在放大跟踪基础资产的波动，反向产品则追求与基础资产相反方向的表现。随着多家资产管理公司围绕相同基础资产推出产品，费率竞争也在加剧。上市后，投资者可通过ETF形式而非直接买卖个股来接触相关策略。来源: mk.co.kr."
-      },
-      "es": {
-        "title": "ETF apalancados de Samsung Electronics y SK hynix preparan salida el día 27",
-        "excerpt": "Catorce ETF apalancados de acción única basados en Samsung Electronics y SK hynix, junto con dos ETF inversos, completaron sus comunicados y se preparan para cotizar el día 27 de este mes.",
-        "body": "Catorce ETF apalancados de acción única que usan Samsung Electronics y SK hynix como activos subyacentes se preparan para cotizar el día 27 de este mes. Según el texto original, dos ETF inversos relacionados también completaron el proceso de comunicación. Estos productos son ETF de acción única diseñados sobre los movimientos bursátiles de dos valores representativos del sector de semiconductores en Corea del Sur: Samsung Electronics y SK hynix. Los productos apalancados buscan ampliar la variación del activo subyacente, mientras que los inversos apuntan a un rendimiento en la dirección contraria. Con varias gestoras lanzando productos sobre los mismos activos, la competencia en comisiones se intensifica. Tras la cotización, los inversores podrán acceder a estas estrategias mediante ETF en lugar de acciones individuales. Fuente: mk.co.kr."
-      },
-      "pt": {
-        "title": "ETFs alavancados de Samsung Electronics e SK hynix miram listagem no dia 27",
-        "excerpt": "Quatorze ETFs alavancados de ação única baseados em Samsung Electronics e SK hynix, além de dois ETFs inversos, concluíram divulgações e se preparam para listar no dia 27 deste mês.",
-        "body": "Quatorze ETFs alavancados de ação única que têm Samsung Electronics e SK hynix como ativos subjacentes se preparam para listar no dia 27 deste mês. Segundo o texto original, dois ETFs inversos relacionados também concluíram o processo de divulgação. Os produtos são ETFs de ação única desenhados com base nos movimentos das ações de Samsung Electronics e SK hynix, nomes representativos do setor de semicondutores da Coreia do Sul. Os produtos alavancados buscam ampliar a variação do ativo subjacente, enquanto os inversos miram desempenho na direção oposta. Com várias gestoras lançando produtos sobre os mesmos ativos, a competição por taxas fica mais acirrada. Após a listagem, investidores poderão acessar essas estratégias por meio de ETFs, em vez de ações individuais. Fonte: mk.co.kr."
-      },
-      "de": {
-        "title": "Samsung-Electronics- und SK-hynix-Einzelaktien-Hebel-ETFs vor Listing am 27.",
-        "excerpt": "Vierzehn Einzelaktien-Hebel-ETFs auf Samsung Electronics und SK hynix sowie zwei inverse ETFs haben die Offenlegung abgeschlossen und bereiten ihre Notierung am 27. dieses Monats vor.",
-        "body": "Vierzehn Einzelaktien-Hebel-ETFs mit Samsung Electronics und SK hynix als Basiswerten bereiten sich auf eine Notierung am 27. dieses Monats vor. Dem Originalbericht zufolge haben auch zwei entsprechende inverse ETFs das Offenlegungsverfahren abgeschlossen. Die Produkte sind Einzelaktien-ETFs, die auf den Kursbewegungen der südkoreanischen Halbleiterwerte Samsung Electronics und SK hynix basieren. Hebelprodukte zielen darauf ab, Bewegungen des Basiswerts verstärkt abzubilden, während inverse Produkte eine Wertentwicklung in die Gegenrichtung anstreben. Da mehrere Vermögensverwalter Produkte auf dieselben Basiswerte auflegen, verschärft sich der Gebührenwettbewerb. Nach der Notierung können Anleger diese Strategien über ETFs statt über einzelne Aktien nutzen. Quelle: mk.co.kr."
-      },
-      "fr": {
-        "title": "ETF à effet de levier sur Samsung Electronics et SK hynix prêts pour le 27",
-        "excerpt": "Quatorze ETF à effet de levier sur action unique adossés à Samsung Electronics et SK hynix, ainsi que deux ETF inverses, ont finalisé leurs déclarations avant une cotation prévue le 27 de ce mois.",
-        "body": "Quatorze ETF à effet de levier sur action unique ayant Samsung Electronics et SK hynix comme actifs sous-jacents se préparent à une cotation le 27 de ce mois. Selon le texte original, deux ETF inverses liés ont également achevé leurs procédures de déclaration. Ces produits sont des ETF sur action unique conçus autour des mouvements de cours de Samsung Electronics et SK hynix, deux valeurs sud-coréennes majeures des semi-conducteurs. Les produits à effet de levier cherchent à amplifier les variations de l’actif sous-jacent, tandis que les produits inverses visent une performance en sens opposé. Comme plusieurs sociétés de gestion lancent des produits liés aux mêmes sous-jacents, la concurrence sur les frais s’intensifie. Après la cotation, les investisseurs pourront accéder à ces stratégies via des ETF plutôt qu’au moyen d’actions individuelles. Source: mk.co.kr."
-      },
-      "ar": {
-        "title": "صناديق رافعة على سهمي سامسونغ إلكترونيكس وSK هاينكس تستعد للإدراج في 27",
-        "excerpt": "أكملت 14 صندوق ETF رافعا على سهم واحد يستند إلى سامسونغ إلكترونيكس وSK هاينكس، إلى جانب صندوقين عكسيين، إجراءات الإفصاح استعدادا للإدراج في 27 من هذا الشهر وسط منافسة على الرسوم.",
-        "body": "تستعد 14 صندوق ETF رافعا على سهم واحد، تتخذ من سامسونغ إلكترونيكس وSK هاينكس أصلين أساسيين، للإدراج في 27 من هذا الشهر. ووفقا للنص الأصلي، أكمل صندوقا ETF عكسيان مرتبطان أيضا إجراءات الإفصاح. هذه المنتجات هي صناديق ETF لسهم واحد مصممة على أساس تحركات أسعار سهمي سامسونغ إلكترونيكس وSK هاينكس، وهما من أبرز أسهم أشباه الموصلات في كوريا الجنوبية. تسعى المنتجات الرافعة إلى تضخيم حركة الأصل الأساسي، بينما تستهدف المنتجات العكسية أداء في الاتجاه المقابل. ومع طرح عدة شركات إدارة أصول منتجات على الأصول نفسها، تشتد المنافسة على الرسوم. بعد الإدراج، سيتمكن المستثمرون من الوصول إلى هذه الاستراتيجيات عبر ETF بدلا من الأسهم الفردية. المصدر: mk.co.kr."
-      },
-      "hi": {
-        "title": "Samsung Electronics और SK hynix पर 14 सिंगल-स्टॉक लीवरेज ETF 27 को सूचीबद्ध होने की तैयारी में",
-        "excerpt": "Samsung Electronics और SK hynix को आधार परिसंपत्ति बनाने वाले 14 सिंगल-स्टॉक लीवरेज ETF और 2 इनवर्स ETF ने खुलासा प्रक्रिया पूरी कर ली है और इस महीने की 27 तारीख को सूचीबद्ध होने की तैयारी कर रहे हैं।",
-        "body": "Samsung Electronics और SK hynix को आधार परिसंपत्ति बनाने वाले 14 सिंगल-स्टॉक लीवरेज ETF इस महीने की 27 तारीख को सूचीबद्ध होने की तैयारी में हैं। मूल रिपोर्ट के अनुसार, संबंधित 2 इनवर्स ETF ने भी खुलासा प्रक्रिया पूरी कर ली है। ये उत्पाद दक्षिण कोरिया के प्रमुख सेमीकंडक्टर शेयरों Samsung Electronics और SK hynix की कीमतों की चाल पर आधारित सिंगल-स्टॉक ETF हैं। लीवरेज उत्पाद आधार परिसंपत्ति की चाल को बढ़ाकर ट्रैक करने का लक्ष्य रखते हैं, जबकि इनवर्स उत्पाद विपरीत दिशा में प्रदर्शन का लक्ष्य रखते हैं। एक ही आधार परिसंपत्तियों पर कई एसेट मैनेजर उत्पाद ला रहे हैं, इसलिए शुल्क प्रतिस्पर्धा तेज हो रही है। सूचीबद्ध होने के बाद निवेशक व्यक्तिगत शेयरों के बजाय ETF के माध्यम से इन रणनीतियों तक पहुंच सकेंगे। स्रोत: mk.co.kr."
-      },
-      "id": {
-        "title": "ETF Leveraged Saham Tunggal Samsung Electronics dan SK hynix Siap Listing 27 Ini",
-        "excerpt": "Empat belas ETF leveraged saham tunggal berbasis Samsung Electronics dan SK hynix, bersama dua ETF inverse, telah menyelesaikan pengungkapan dan bersiap listing pada tanggal 27 bulan ini.",
-        "body": "Empat belas ETF leveraged saham tunggal yang menggunakan Samsung Electronics dan SK hynix sebagai aset dasar bersiap listing pada tanggal 27 bulan ini. Menurut teks asli, dua ETF inverse terkait juga telah menyelesaikan proses pengungkapan. Produk ini adalah ETF saham tunggal yang dirancang berdasarkan pergerakan harga saham Samsung Electronics dan SK hynix, dua nama semikonduktor utama Korea Selatan. Produk leveraged berupaya memperbesar pergerakan aset dasar, sedangkan produk inverse menargetkan kinerja ke arah berlawanan. Karena beberapa manajer aset meluncurkan produk dengan aset dasar yang sama, persaingan biaya menjadi semakin ketat. Setelah listing, investor dapat mengakses strategi terkait melalui ETF, bukan langsung melalui saham individual. Sumber: mk.co.kr."
       }
     }
   }
