@@ -1,5 +1,760 @@
 [
   {
+    "id": "16ecc1263dce",
+    "slug": "단일종목-2배-etf-증권사만-배불려-863590",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-06-22T13:00:34.952Z",
+    "updatedAt": "2026-06-22T13:00:34.952Z",
+    "sourceName": "",
+    "sourceUrl": "",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12080212",
+    "titleFingerprint": "084f7621225e044aed88f0175de972eb7b19050f",
+    "dedupKeys": [
+      "16ecc1263dce7ebadeb66ef203a5faeace5f2055",
+      "084f7621225e044aed88f0175de972eb7b19050f",
+      "60829c7af66ed8950c985f0ff8d3be536df96130"
+    ],
+    "imageUrl": "/images/articles/16ecc1263dce.jpg",
+    "i18n": {
+      "ko": {
+        "title": "단일종목 2배 ETF 논란 확산, 삼성전자·SK하이닉스 레버리지에 금감원 경고",
+        "excerpt": "이찬진 금융감독원장이 삼성전자와 SK하이닉스 단일종목 2배 레버리지 ETF를 두고 투자자 손실 위험보다 증권사 수익이 커지는 구조라며 강한 우려를 제기했다.",
+        "metaDescription": "삼성전자·SK하이닉스 단일종목 2배 ETF에 대해 금융감독원이 증권사 수익 편중과 개인투자자 손실 위험을 경고했다.",
+        "summary": "삼성전자·SK하이닉스 단일종목 2배 레버리지 ETF를 둘러싼 금융당국의 우려가 커지고 있다. 이찬진 금융감독원장은 해당 상품이 투자자 보호보다 증권사 수익 확대에 치우칠 수 있다고 지적했다. 기초주식의 하루 등락을 2배로 추종하는 구조상 손익 변동이 커 개인투자자에게 불리하게 작용할 수 있다.",
+        "body": "단일종목 2배 ETF를 둘러싼 논란이 금융투자업계의 핵심 쟁점으로 떠올랐다. 이찬진 금융감독원장은 삼성전자와 SK하이닉스를 기초자산으로 삼는 단일종목 레버리지 상장지수펀드가 결과적으로 증권사만 배불리는 상품 구조로 흐르고 있다며 강한 우려를 나타냈다. 국내 대표 반도체 주식에 2배 수익률을 내걸어 개인투자자의 관심을 끌지만, 실제 투자 과정에서는 손실 확대와 비용 부담이 투자자에게 집중될 수 있다는 판단이다.\n\n## 반도체 대형주에 2배 베팅하는 상품 구조\n단일종목 2배 ETF는 특정 주식의 하루 수익률을 약 2배로 추종하도록 설계된다. 삼성전자 주가가 하루 5% 오르면 ETF는 약 10% 상승을 목표로 하고, 반대로 5% 하락하면 약 10% 손실을 낼 수 있다. 1000만원을 넣은 투자자는 사실상 2000만원 규모의 삼성전자 또는 SK하이닉스 변동성에 노출되는 셈이다. 문제는 이 구조가 장기 보유에 단순히 2배 수익을 보장하지 않는다는 데 있다. 매일 재조정되는 레버리지 운용 방식 때문에 주가가 오르내림을 반복하면 누적 수익률은 기초주식의 2배와 달라질 수 있다.\n\n## 수익은 판매·운용사에, 위험은 개인에게 쏠린다\n금융당국이 주목하는 지점은 수수료와 거래비용이다. 레버리지 ETF는 일반 주식 투자보다 구조가 복잡하고, 빈번한 매매와 파생거래가 뒤따를 수 있다. 투자자가 단기 급등을 노리고 매수·매도를 반복하면 거래대금은 늘고, 증권사와 운용사에는 수수료 수익이 쌓인다. 반면 주가가 예상과 다르게 움직이면 손실은 투자자 계좌에 즉시 반영된다. 특히 삼성전자와 SK하이닉스는 국내 증시 시가총액 상위권 종목으로 개인투자자 접근성이 높다. 익숙한 대형주라는 이유만으로 위험이 낮다고 판단하기 쉽지만, 2배 레버리지가 붙는 순간 상품의 성격은 장기 투자용 주식형 ETF보다 고위험 단기 매매 상품에 가까워진다.\n\n## 국내 ETF 시장 영향과 규제 전망\n국내 ETF 시장은 원화 기반 상품을 통해 개인 자금이 빠르게 유입되는 구조다. 반도체 대표주를 앞세운 단일종목 레버리지 ETF가 확산되면 시장의 단기 쏠림과 변동성이 커질 수 있다. 금융감독원의 경고는 상품 출시 경쟁에 제동을 거는 신호로 읽힌다. 앞으로는 투자설명서의 위험 고지, 판매 과정의 적합성 확인, 레버리지 ETF 광고 문구에 대한 점검이 강화될 가능성이 크다. 투자자는 ‘삼성전자 2배’, ‘SK하이닉스 2배’라는 표현보다 하루 수익률 추종, 복리 효과, 비용 구조, 손실 확대 가능성을 먼저 확인해야 한다. 단일종목 2배 ETF는 방향을 맞히면 수익이 커질 수 있지만, 방향이 틀리거나 횡보장이 길어지면 손실도 빠르게 커지는 상품이다.",
+        "keywords": [
+          "단일종목 2배 ETF",
+          "레버리지 ETF",
+          "삼성전자 ETF",
+          "SK하이닉스 ETF",
+          "금융감독원",
+          "이찬진",
+          "개인투자자",
+          "ETF 규제",
+          "반도체 ETF",
+          "단일종목 2배 ETF 논란 확산, 삼"
+        ],
+        "faq": [
+          {
+            "q": "단일종목 2배 ETF란 무엇인가?",
+            "a": "삼성전자나 SK하이닉스처럼 특정 주식의 하루 수익률을 약 2배로 추종하도록 설계된 고위험 ETF다."
+          },
+          {
+            "q": "금융감독원이 우려하는 이유는 무엇인가?",
+            "a": "투자자 손실 위험은 커지는 반면 거래와 운용 과정에서 증권사와 운용사의 수익이 늘어날 수 있는 구조이기 때문이다."
+          },
+          {
+            "q": "개인투자자는 무엇을 확인해야 하나?",
+            "a": "하루 수익률 2배 추종 구조, 장기 보유 시 괴리 가능성, 수수료와 거래비용, 손실 확대 위험을 확인해야 한다."
+          }
+        ]
+      },
+      "en": {
+        "title": "Single-stock 2x ETFs draw regulator warning over Samsung and SK Hynix leverage risk",
+        "excerpt": "Financial Supervisory Service Governor Lee Chan-jin has raised sharp concerns that 2x single-stock ETFs tied to Samsung Electronics and SK Hynix may enrich brokerages while increasing investor risk.",
+        "metaDescription": "Korea’s regulator warned that Samsung Electronics and SK Hynix 2x single-stock ETFs may favor brokerage revenue while exposing retail investors to amplified losses.",
+        "summary": "Regulatory concern is growing over 2x leveraged single-stock ETFs linked to Samsung Electronics and SK Hynix. Lee Chan-jin warned that the products may prioritize brokerage profits over investor protection. Because they seek twice the daily move of a single stock, gains and losses can expand quickly for retail investors.",
+        "body": "The controversy over single-stock 2x ETFs has become a central issue in Korea’s fund market. Financial Supervisory Service Governor Lee Chan-jin expressed strong concern that leveraged ETFs tied to Samsung Electronics and SK Hynix are creating a structure that benefits securities firms more than investors. The products attract retail demand by offering double exposure to Korea’s best-known semiconductor stocks, but the burden of amplified losses and costs can fall heavily on investors.\n\n## Double exposure to semiconductor giants\nA single-stock 2x ETF is designed to track roughly twice the daily return of one underlying share. If Samsung Electronics rises 5% in one day, the ETF targets about a 10% gain; if the stock falls 5%, the ETF can lose about 10%. A 10 million won investment effectively gives exposure to about 20 million won of Samsung Electronics or SK Hynix price movement. The key risk is that this does not guarantee twice the return over a longer holding period. Daily rebalancing means returns can diverge from two times the stock’s cumulative move, especially when prices swing up and down.\n\n## Revenue to sellers, risk to retail investors\nThe regulator’s concern centers on fees, trading activity and product complexity. Leveraged ETFs can involve frequent rebalancing and derivative transactions. When investors trade repeatedly in pursuit of short-term moves, turnover rises and brokerage and management fee income increases. Losses, however, are reflected directly in investor accounts when the stock moves the wrong way. Samsung Electronics and SK Hynix are familiar blue-chip names in Korea, which can make the products appear safer than they are. Once 2x leverage is attached, the product behaves less like a long-term equity ETF and more like a high-risk short-term trading tool.\n\n## Market impact and regulatory outlook\nKorea’s ETF market has grown rapidly as retail money flows into won-denominated products. If single-stock leveraged ETFs tied to major semiconductor names spread further, short-term crowding and volatility could increase. The warning signals closer scrutiny of product launches, risk disclosures, suitability checks and advertising language. Investors should look beyond phrases such as “Samsung 2x” or “SK Hynix 2x” and examine daily return tracking, compounding effects, fees and loss amplification. These ETFs can magnify gains when the direction is right, but they can also magnify losses quickly when the market reverses or moves sideways.",
+        "keywords": [
+          "single-stock 2x ETF",
+          "leveraged ETF",
+          "Samsung Electronics ETF",
+          "SK Hynix ETF",
+          "Financial Supervisory Service",
+          "Lee Chan-jin",
+          "retail investors",
+          "ETF regulation",
+          "semiconductor ETF",
+          "Single-stock 2x ETFs"
+        ],
+        "faq": [
+          {
+            "q": "What is a single-stock 2x ETF?",
+            "a": "It is a high-risk ETF designed to track about twice the daily return of one stock, such as Samsung Electronics or SK Hynix."
+          },
+          {
+            "q": "Why is the regulator concerned?",
+            "a": "Investor losses can be amplified while trading and management fees may increase revenue for securities firms and asset managers."
+          },
+          {
+            "q": "What should retail investors check?",
+            "a": "They should check daily 2x tracking, possible divergence during longer holding periods, fees, trading costs and amplified loss risk."
+          }
+        ]
+      },
+      "ja": {
+        "title": "単一銘柄2倍ETFに警戒感、サムスン電子・SKハイニックス商品で規制当局が懸念",
+        "excerpt": "イ・チャンジン金融監督院長は、サムスン電子とSKハイニックスの単一銘柄2倍レバレッジETFについて、証券会社の収益を膨らませる構造だと強い懸念を示した。",
+        "metaDescription": "サムスン電子・SKハイニックスの単一銘柄2倍ETFに対し、韓国金融監督当局が証券会社収益偏重と個人投資家リスクを警告した。",
+        "summary": "サムスン電子とSKハイニックスを対象にした単一銘柄2倍レバレッジETFへの警戒感が強まっている。イ・チャンジン金融監督院長は、投資家保護より証券会社の収益拡大に傾きかねないと指摘した。1日の値動きを2倍で追うため、個人投資家の損益変動は大きくなりやすい。",
+        "body": "単一銘柄2倍ETFを巡る議論が、韓国のETF市場で大きな焦点になっている。イ・チャンジン金融監督院長は、サムスン電子とSKハイニックスを基礎資産とするレバレッジETFが、結果的に証券会社だけを潤す商品構造になりかねないとして強い懸念を示した。韓国を代表する半導体株に2倍の値動きを掲げることで個人投資家の関心を集める一方、損失拡大と費用負担は投資家側に集中しやすい。\n\n## 半導体大型株に2倍で投資する仕組み\n単一銘柄2倍ETFは、特定株式の1日当たりの収益率をおおむね2倍で追うよう設計される。サムスン電子が1日に5%上昇すればETFは約10%上昇を目指し、5%下落すれば約10%の損失が生じ得る。1000万ウォンの投資でも、実質的には2000万ウォン規模の価格変動にさらされる。重要なのは、長期保有で単純に2倍の成果が保証されない点だ。日々のリバランスにより、相場が上下を繰り返す局面では累積収益率が基礎株式の2倍からずれる可能性がある。\n\n## 収益は業者に、リスクは個人に偏る\n規制当局が注目するのは、手数料、売買回転、商品構造の複雑さだ。レバレッジETFでは頻繁な調整やデリバティブ取引が発生し得る。短期上昇を狙った売買が増えれば、証券会社と運用会社の手数料収入は積み上がる。一方、株価が想定と逆に動けば損失は投資家口座に直ちに反映される。サムスン電子とSKハイニックスは韓国市場で知名度の高い大型株だが、2倍レバレッジが付くと長期投資型ETFではなく高リスクの短期売買商品に近づく。\n\n## 韓国市場への影響と規制の方向\n韓国ETF市場にはウォン建て商品を通じて個人資金が急速に流入している。半導体代表株を前面に出した単一銘柄レバレッジETFが広がれば、短期資金の偏りと市場変動性が高まる可能性がある。今後は商品説明書のリスク表示、販売時の適合性確認、広告表現への点検が強まる見通しだ。投資家は「サムスン電子2倍」「SKハイニックス2倍」という表現だけでなく、日次追随、複利効果、費用、損失拡大リスクを確認する必要がある。",
+        "keywords": [
+          "単一銘柄2倍ETF",
+          "レバレッジETF",
+          "サムスン電子ETF",
+          "SKハイニックスETF",
+          "金融監督院",
+          "イ・チャンジン",
+          "個人投資家",
+          "ETF規制",
+          "半導体ETF",
+          "単一銘柄2倍ETFに警戒感、サムスン電子"
+        ],
+        "faq": [
+          {
+            "q": "単一銘柄2倍ETFとは何か。",
+            "a": "サムスン電子やSKハイニックスなど、1銘柄の1日収益率を約2倍で追う高リスクETFだ。"
+          },
+          {
+            "q": "規制当局が懸念する理由は何か。",
+            "a": "投資家の損失リスクが拡大する一方、売買や運用を通じて証券会社などの収益が増えやすい構造だからだ。"
+          },
+          {
+            "q": "個人投資家は何を確認すべきか。",
+            "a": "日次2倍追随、長期保有時の乖離、手数料、売買コスト、損失拡大リスクを確認すべきだ。"
+          }
+        ]
+      },
+      "zh": {
+        "title": "单一股票2倍ETF引发监管警示，三星电子与SK海力士杠杆产品受关注",
+        "excerpt": "金融监督院院长李灿珍对三星电子和SK海力士单一股票2倍杠杆ETF表达强烈担忧，认为相关结构可能让券商受益更多而加大投资者风险。",
+        "metaDescription": "韩国监管层警示三星电子、SK海力士单一股票2倍ETF，关注券商收益偏重和个人投资者亏损放大风险。",
+        "summary": "围绕三星电子和SK海力士单一股票2倍杠杆ETF的监管担忧正在升温。李灿珍指出，这类产品可能偏向扩大券商收益，而非优先保护投资者。由于产品追踪单一股票每日涨跌的约2倍，个人投资者的盈亏波动会明显放大。",
+        "body": "单一股票2倍ETF已成为韩国基金市场的重要争议点。金融监督院院长李灿珍对以三星电子和SK海力士为基础资产的杠杆ETF表达强烈担忧，认为这类产品可能形成让证券公司获利更多、投资者承担更高风险的结构。产品以韩国代表性半导体股票的2倍收益为卖点，容易吸引个人投资者，但损失放大和费用负担也可能集中到投资者身上。\n\n## 对半导体龙头进行2倍押注\n单一股票2倍ETF通常设计为追踪某一股票单日收益率的约2倍。若三星电子一天上涨5%，ETF目标涨幅约为10%；若下跌5%，ETF可能亏损约10%。投入1000万韩元，实际相当于暴露在约2000万韩元规模的三星电子或SK海力士价格波动中。关键风险在于，长期持有并不等于获得基础股票累计收益的2倍。由于每日再平衡，股价反复震荡时，累计收益可能偏离股票本身涨跌幅的两倍。\n\n## 收益流向机构，风险压向个人\n监管关注的核心是手续费、交易频率和产品复杂度。杠杆ETF可能伴随频繁调仓和衍生品交易。投资者若为了短线行情反复买卖，成交额上升，证券公司和资产管理公司的手续费收入也会增加。但当股价与预期相反时，亏损会直接反映在投资者账户中。三星电子和SK海力士是韩国股市中最熟悉的大型股票，投资者容易因品牌熟悉而低估风险。加入2倍杠杆后，产品性质已更接近高风险短线交易工具，而非普通长期股票ETF。\n\n## 韩国ETF市场影响与监管方向\n韩国ETF市场通过韩元计价产品吸引大量个人资金。若以半导体龙头为核心的单一股票杠杆ETF继续扩散，短线资金拥挤和市场波动可能加剧。监管警示意味着产品发行、风险揭示、销售适当性和广告表述都可能面临更严格检查。投资者不应只关注“三星电子2倍”或“SK海力士2倍”等表述，而要先确认每日追踪机制、复利影响、费用结构和亏损放大风险。方向判断正确时收益会扩大，判断错误或市场横盘时亏损也会迅速扩大。",
+        "keywords": [
+          "单一股票2倍ETF",
+          "杠杆ETF",
+          "三星电子ETF",
+          "SK海力士ETF",
+          "金融监督院",
+          "李灿珍",
+          "个人投资者",
+          "ETF监管",
+          "半导体ETF",
+          "单一股票2倍ETF引发监管警示，三星电子"
+        ],
+        "faq": [
+          {
+            "q": "什么是单一股票2倍ETF？",
+            "a": "它是追踪三星电子或SK海力士等单一股票每日收益率约2倍的高风险ETF。"
+          },
+          {
+            "q": "监管层为何担忧？",
+            "a": "因为投资者亏损可能被放大，而交易和管理费用可能增加证券公司及资管公司的收入。"
+          },
+          {
+            "q": "个人投资者应关注什么？",
+            "a": "应关注每日2倍追踪、长期持有偏离、手续费、交易成本和亏损放大风险。"
+          }
+        ]
+      },
+      "es": {
+        "title": "ETF 2x de una sola acción elevan alerta por productos sobre Samsung y SK Hynix",
+        "excerpt": "Lee Chan-jin, jefe del supervisor financiero surcoreano, advirtió que los ETF 2x de una sola acción ligados a Samsung Electronics y SK Hynix pueden beneficiar más a las corredoras que a los inversores.",
+        "metaDescription": "El regulador surcoreano alerta sobre ETF 2x de Samsung Electronics y SK Hynix por ingresos para corredoras y riesgo ampliado para minoristas.",
+        "summary": "Crece la preocupación regulatoria por los ETF apalancados 2x de una sola acción vinculados a Samsung Electronics y SK Hynix. Lee Chan-jin sostuvo que estos productos pueden favorecer los ingresos de las firmas de valores por encima de la protección al inversor. Al buscar el doble del movimiento diario de una acción, amplifican ganancias y pérdidas.",
+        "body": "La polémica por los ETF 2x de una sola acción se ha convertido en un tema central del mercado coreano. Lee Chan-jin, gobernador del Servicio de Supervisión Financiera, expresó una fuerte preocupación por los ETF apalancados basados en Samsung Electronics y SK Hynix, al considerar que su estructura puede terminar enriqueciendo a las firmas de valores. El atractivo es claro: exposición duplicada a las grandes acciones de semiconductores de Corea. El problema es que las pérdidas ampliadas y los costos pueden recaer principalmente en el inversor minorista.\n\n## Apuesta doble sobre gigantes de semiconductores\nUn ETF 2x de una sola acción busca replicar aproximadamente el doble del rendimiento diario de un título. Si Samsung Electronics sube 5% en una jornada, el ETF apunta a ganar cerca de 10%; si cae 5%, la pérdida puede rondar 10%. Una inversión de 10 millones de wones equivale, en la práctica, a exposición a unos 20 millones de wones en movimientos de Samsung Electronics o SK Hynix. El riesgo clave es que mantener el producto por más tiempo no garantiza el doble del retorno acumulado de la acción. El rebalanceo diario puede generar desviaciones, sobre todo en mercados volátiles o laterales.\n\n## Ingresos para intermediarios, riesgo para particulares\nLa preocupación regulatoria se concentra en las comisiones, la rotación y la complejidad. Los ETF apalancados pueden requerir ajustes frecuentes y operaciones con derivados. Si los inversores compran y venden buscando movimientos de corto plazo, aumenta el volumen negociado y también los ingresos por corretaje y gestión. Cuando la acción se mueve en contra, la pérdida aparece de inmediato en la cuenta del inversor. Samsung Electronics y SK Hynix son nombres familiares para los particulares coreanos, pero esa familiaridad no reduce el riesgo del apalancamiento. Con 2x, el producto se parece más a una herramienta de trading de alto riesgo que a un ETF de acciones para largo plazo.\n\n## Impacto en Corea y posible regulación\nEl mercado coreano de ETF ha crecido con fuerza gracias a productos en wones y a la entrada de dinero minorista. Si los ETF apalancados de una sola acción sobre semiconductores se expanden, pueden aumentar la concentración de flujos de corto plazo y la volatilidad. El aviso del supervisor apunta a un examen más estricto de lanzamientos, documentos de riesgo, controles de idoneidad y publicidad. El inversor debe mirar más allá de “Samsung 2x” o “SK Hynix 2x” y revisar seguimiento diario, efecto compuesto, comisiones y riesgo de pérdida ampliada.",
+        "keywords": [
+          "ETF 2x de una sola acción",
+          "ETF apalancado",
+          "ETF Samsung Electronics",
+          "ETF SK Hynix",
+          "regulador financiero coreano",
+          "Lee Chan-jin",
+          "inversores minoristas",
+          "regulación ETF",
+          "ETF semiconductores",
+          "ETF 2x de una sola a"
+        ],
+        "faq": [
+          {
+            "q": "¿Qué es un ETF 2x de una sola acción?",
+            "a": "Es un ETF de alto riesgo que busca replicar cerca del doble del rendimiento diario de una acción, como Samsung Electronics o SK Hynix."
+          },
+          {
+            "q": "¿Por qué preocupa al regulador?",
+            "a": "Porque puede amplificar pérdidas para el inversor mientras aumenta comisiones e ingresos para corredoras y gestoras."
+          },
+          {
+            "q": "¿Qué debe revisar un inversor minorista?",
+            "a": "Debe revisar el seguimiento diario 2x, las desviaciones por mantenerlo más tiempo, las comisiones, los costos y el riesgo de pérdidas ampliadas."
+          }
+        ]
+      },
+      "pt": {
+        "title": "ETFs 2x de ação única acendem alerta em produtos de Samsung Electronics e SK Hynix",
+        "excerpt": "Lee Chan-jin, chefe do supervisor financeiro da Coreia, afirmou que ETFs 2x de ação única ligados a Samsung Electronics e SK Hynix podem aumentar ganhos das corretoras e riscos aos investidores.",
+        "metaDescription": "Regulador coreano alerta sobre ETFs 2x de Samsung Electronics e SK Hynix por favorecer corretoras e ampliar perdas de investidores pessoas físicas.",
+        "summary": "A preocupação regulatória cresce em torno dos ETFs alavancados 2x de ação única ligados a Samsung Electronics e SK Hynix. Lee Chan-jin afirmou que esses produtos podem priorizar receitas das corretoras em vez da proteção ao investidor. Como buscam o dobro da variação diária de uma ação, ganhos e perdas podem se ampliar rapidamente.",
+        "body": "A controvérsia sobre ETFs 2x de ação única tornou-se um ponto central no mercado coreano. Lee Chan-jin, governador do Serviço de Supervisão Financeira, demonstrou forte preocupação com ETFs alavancados baseados em Samsung Electronics e SK Hynix, ao avaliar que a estrutura pode acabar beneficiando mais as corretoras do que os investidores. O apelo comercial é a exposição dobrada a grandes ações coreanas de semicondutores, mas perdas ampliadas e custos podem recair sobre o investidor de varejo.\n\n## Exposição dobrada a gigantes de chips\nUm ETF 2x de ação única busca acompanhar aproximadamente duas vezes o retorno diário de uma ação. Se Samsung Electronics sobe 5% em um dia, o ETF mira ganho de cerca de 10%; se cai 5%, a perda pode chegar perto de 10%. Um aporte de 10 milhões de wons equivale, na prática, a exposição a cerca de 20 milhões de wons em movimentos de Samsung Electronics ou SK Hynix. O risco principal é que manter o produto por vários dias não garante o dobro do retorno acumulado da ação. O rebalanceamento diário pode gerar diferença relevante em mercados voláteis ou laterais.\n\n## Receita para intermediários, risco para pessoas físicas\nO foco do supervisor está em taxas, giro e complexidade. ETFs alavancados podem envolver ajustes frequentes e operações com derivativos. Quando investidores negociam repetidamente em busca de ganhos rápidos, o volume cresce e as receitas de corretagem e gestão aumentam. Se a ação se move contra a posição, a perda aparece diretamente na conta do investidor. Samsung Electronics e SK Hynix são nomes conhecidos no mercado coreano, mas familiaridade não significa baixo risco. Com alavancagem 2x, o produto se aproxima de uma ferramenta de negociação de curto prazo e alto risco, não de um ETF acionário tradicional.\n\n## Efeito no mercado coreano e regulação\nO mercado coreano de ETFs cresceu com a entrada de recursos de pessoas físicas em produtos denominados em won. A expansão de ETFs alavancados de ação única sobre semicondutores pode aumentar concentração de curto prazo e volatilidade. O alerta aponta para maior escrutínio sobre lançamentos, divulgação de riscos, adequação na venda e linguagem publicitária. O investidor deve olhar além de “Samsung 2x” ou “SK Hynix 2x” e avaliar acompanhamento diário, efeito composto, custos e risco de perda ampliada.",
+        "keywords": [
+          "ETF 2x de ação única",
+          "ETF alavancado",
+          "ETF Samsung Electronics",
+          "ETF SK Hynix",
+          "supervisor financeiro coreano",
+          "Lee Chan-jin",
+          "investidor pessoa física",
+          "regulação de ETFs",
+          "ETF de semicondutores",
+          "ETFs 2x de ação únic"
+        ],
+        "faq": [
+          {
+            "q": "O que é um ETF 2x de ação única?",
+            "a": "É um ETF de alto risco que busca acompanhar cerca de duas vezes o retorno diário de uma única ação, como Samsung Electronics ou SK Hynix."
+          },
+          {
+            "q": "Por que há preocupação regulatória?",
+            "a": "Porque as perdas dos investidores podem ser ampliadas enquanto corretoras e gestoras aumentam receitas com negociação e taxas."
+          },
+          {
+            "q": "O que o investidor deve verificar?",
+            "a": "Deve verificar o acompanhamento diário 2x, possíveis desvios no longo prazo, taxas, custos de negociação e risco de perdas ampliadas."
+          }
+        ]
+      },
+      "de": {
+        "title": "2x-Einzelaktien-ETFs auf Samsung und SK Hynix rücken wegen Hebelrisiken in den Fokus",
+        "excerpt": "Lee Chan-jin, Chef der südkoreanischen Finanzaufsicht, warnt vor 2x-Einzelaktien-ETFs auf Samsung Electronics und SK Hynix, weil sie Broker stärker begünstigen könnten als Anleger.",
+        "metaDescription": "Südkoreas Finanzaufsicht warnt vor 2x-ETFs auf Samsung Electronics und SK Hynix: höhere Brokererlöse, verstärkte Verlustrisiken für Privatanleger.",
+        "summary": "Die regulatorische Sorge über 2x-gehebelte Einzelaktien-ETFs auf Samsung Electronics und SK Hynix nimmt zu. Lee Chan-jin sieht die Gefahr, dass diese Produkte eher Einnahmen der Wertpapierfirmen erhöhen als Anleger schützen. Da sie die tägliche Bewegung einer einzelnen Aktie verdoppeln sollen, können Gewinne und Verluste schnell wachsen.",
+        "body": "Die Debatte über 2x-Einzelaktien-ETFs ist zu einem zentralen Thema am koreanischen Fondsmarkt geworden. Lee Chan-jin, Gouverneur des Financial Supervisory Service, äußerte deutliche Bedenken gegenüber gehebelten ETFs auf Samsung Electronics und SK Hynix. Die Produktstruktur könne am Ende vor allem Wertpapierfirmen nützen. Der Verkaufsanreiz liegt in der doppelten Beteiligung an Koreas wichtigsten Halbleiteraktien. Gleichzeitig können vergrößerte Verluste und Kosten vor allem Privatanleger treffen.\n\n## Doppeltes Engagement in Halbleiter-Schwergewichten\nEin 2x-Einzelaktien-ETF soll ungefähr das Zweifache der Tagesrendite einer Aktie abbilden. Steigt Samsung Electronics an einem Tag um 5%, zielt der ETF auf etwa 10% Gewinn; fällt die Aktie um 5%, kann der Verlust etwa 10% betragen. Eine Anlage von 10 Millionen Won entspricht wirtschaftlich einer Schwankungsexposition von rund 20 Millionen Won in Samsung Electronics oder SK Hynix. Entscheidend ist, dass über längere Zeiträume keine einfache Verdopplung der Aktienrendite garantiert ist. Wegen täglicher Anpassungen können die kumulierten Ergebnisse bei schwankenden Kursen deutlich abweichen.\n\n## Erträge für Anbieter, Risiken für Anleger\nDie Aufsicht blickt besonders auf Gebühren, Handelsaktivität und Komplexität. Gehebelte ETFs können häufige Umschichtungen und Derivategeschäfte erfordern. Wenn Anleger kurzfristigen Bewegungen hinterherhandeln, steigen Umsatz und Gebühreneinnahmen von Brokern und Vermögensverwaltern. Bewegt sich die Aktie in die falsche Richtung, landet der Verlust direkt im Depot des Anlegers. Samsung Electronics und SK Hynix sind bekannte Großwerte in Korea. Diese Bekanntheit darf nicht mit niedrigem Risiko verwechselt werden. Mit 2x-Hebel wird das Produkt eher zu einem kurzfristigen, riskanten Handelsinstrument als zu einem klassischen Aktien-ETF.\n\n## Folgen für den koreanischen ETF-Markt\nDer koreanische ETF-Markt wächst stark durch wonbasierte Produkte und Privatanlegerzuflüsse. Breiten sich Einzelaktien-Hebel-ETFs auf große Halbleiterwerte weiter aus, können kurzfristige Konzentration und Volatilität zunehmen. Das Warnsignal der Aufsicht deutet auf strengere Prüfungen von Produkteinführungen, Risikohinweisen, Eignungskontrollen und Werbung hin. Anleger sollten nicht nur auf Begriffe wie “Samsung 2x” oder “SK Hynix 2x” achten, sondern tägliches Tracking, Zinseszinseffekt, Kosten und Verlustverstärkung prüfen.",
+        "keywords": [
+          "2x-Einzelaktien-ETF",
+          "gehebelter ETF",
+          "Samsung Electronics ETF",
+          "SK Hynix ETF",
+          "koreanische Finanzaufsicht",
+          "Lee Chan-jin",
+          "Privatanleger",
+          "ETF-Regulierung",
+          "Halbleiter-ETF",
+          "2x-Einzelaktien-ETFs"
+        ],
+        "faq": [
+          {
+            "q": "Was ist ein 2x-Einzelaktien-ETF?",
+            "a": "Es ist ein risikoreicher ETF, der etwa das Zweifache der Tagesrendite einer einzelnen Aktie wie Samsung Electronics oder SK Hynix abbilden soll."
+          },
+          {
+            "q": "Warum ist die Aufsicht besorgt?",
+            "a": "Weil Anlegerverluste verstärkt werden können, während Broker und Anbieter durch Handel und Gebühren zusätzliche Einnahmen erzielen."
+          },
+          {
+            "q": "Was sollten Privatanleger prüfen?",
+            "a": "Sie sollten tägliches 2x-Tracking, mögliche Abweichungen bei längerer Haltedauer, Gebühren, Handelskosten und Verlustverstärkung prüfen."
+          }
+        ]
+      },
+      "fr": {
+        "title": "Les ETF 2x sur action unique liés à Samsung et SK Hynix sous surveillance en Corée",
+        "excerpt": "Lee Chan-jin, responsable du superviseur financier coréen, a mis en garde contre les ETF 2x sur Samsung Electronics et SK Hynix, susceptibles d’enrichir les courtiers au détriment des investisseurs.",
+        "metaDescription": "Le régulateur coréen alerte sur les ETF 2x Samsung Electronics et SK Hynix, avec revenus accrus pour les courtiers et pertes amplifiées pour les particuliers.",
+        "summary": "Les ETF à effet de levier 2x sur action unique liés à Samsung Electronics et SK Hynix suscitent une inquiétude croissante. Lee Chan-jin estime que ces produits peuvent privilégier les revenus des intermédiaires plutôt que la protection des investisseurs. En visant deux fois la variation quotidienne d’une action, ils amplifient gains et pertes.",
+        "body": "La controverse sur les ETF 2x sur action unique est devenue un sujet majeur du marché coréen. Lee Chan-jin, gouverneur du Service de supervision financière, a exprimé une vive inquiétude au sujet des ETF à effet de levier fondés sur Samsung Electronics et SK Hynix. Leur structure peut finir par avantager surtout les sociétés de courtage. Ces produits attirent les particuliers avec une exposition doublée aux grandes valeurs coréennes des semi-conducteurs, mais les pertes amplifiées et les coûts peuvent se concentrer sur les investisseurs.\n\n## Une exposition doublée aux géants des puces\nUn ETF 2x sur action unique cherche à reproduire environ deux fois la performance quotidienne d’un titre. Si Samsung Electronics gagne 5% en une séance, l’ETF vise environ 10%; si l’action perd 5%, la perte peut atteindre environ 10%. Un placement de 10 millions de wons revient en pratique à une exposition d’environ 20 millions de wons aux mouvements de Samsung Electronics ou de SK Hynix. Le risque essentiel est qu’une détention prolongée ne garantit pas deux fois la performance cumulée de l’action. Le rééquilibrage quotidien peut créer un écart, surtout lorsque le marché alterne hausses et baisses.\n\n## Revenus pour les intermédiaires, risque pour les particuliers\nL’attention du régulateur porte sur les frais, la rotation et la complexité. Les ETF à effet de levier peuvent nécessiter des ajustements fréquents et des dérivés. Lorsque les investisseurs multiplient les transactions pour capter des mouvements de court terme, les volumes augmentent et les revenus de courtage et de gestion progressent. Si l’action évolue à l’inverse des attentes, la perte touche directement le compte de l’investisseur. Samsung Electronics et SK Hynix sont des noms familiers en Corée, mais cette familiarité ne réduit pas le risque. Avec un levier 2x, le produit devient proche d’un instrument de trading risqué plutôt que d’un ETF actions de long terme.\n\n## Effet sur le marché coréen et réglementation\nLe marché coréen des ETF s’est développé rapidement grâce aux produits libellés en wons et aux flux de particuliers. Si les ETF à effet de levier sur grandes valeurs de semi-conducteurs se multiplient, la concentration de court terme et la volatilité peuvent augmenter. L’avertissement annonce probablement un contrôle plus strict des lancements, des documents de risque, de l’adéquation commerciale et de la publicité. Les investisseurs doivent regarder au-delà de “Samsung 2x” ou “SK Hynix 2x” et examiner le suivi quotidien, l’effet composé, les frais et le risque de perte amplifiée.",
+        "keywords": [
+          "ETF 2x sur action unique",
+          "ETF à effet de levier",
+          "ETF Samsung Electronics",
+          "ETF SK Hynix",
+          "superviseur financier coréen",
+          "Lee Chan-jin",
+          "investisseurs particuliers",
+          "régulation ETF",
+          "ETF semi-conducteurs",
+          "Les ETF 2x sur actio"
+        ],
+        "faq": [
+          {
+            "q": "Qu’est-ce qu’un ETF 2x sur action unique ?",
+            "a": "C’est un ETF risqué qui vise environ deux fois la performance quotidienne d’une seule action, comme Samsung Electronics ou SK Hynix."
+          },
+          {
+            "q": "Pourquoi le régulateur s’inquiète-t-il ?",
+            "a": "Parce que les pertes des investisseurs peuvent être amplifiées tandis que les courtiers et gestionnaires augmentent leurs revenus de frais."
+          },
+          {
+            "q": "Que doivent vérifier les particuliers ?",
+            "a": "Ils doivent vérifier le suivi quotidien 2x, les écarts possibles sur la durée, les frais, les coûts de transaction et le risque de perte amplifiée."
+          }
+        ]
+      },
+      "ar": {
+        "title": "صناديق ETF أحادية السهم برافعة 2x تثير تحذيرا بشأن سامسونغ وSK هاينكس",
+        "excerpt": "أبدى لي تشان جين، رئيس جهاز الرقابة المالية في كوريا، قلقا حادا من صناديق ETF برافعة 2x المرتبطة بسامسونغ إلكترونيكس وSK هاينكس لأنها قد تزيد أرباح شركات الوساطة ومخاطر المستثمرين.",
+        "metaDescription": "الرقابة المالية الكورية تحذر من صناديق ETF برافعة 2x على سامسونغ وSK هاينكس بسبب أرباح الوسطاء ومخاطر الخسائر المضاعفة للأفراد.",
+        "summary": "تتصاعد المخاوف التنظيمية من صناديق ETF أحادية السهم برافعة 2x المرتبطة بسامسونغ إلكترونيكس وSK هاينكس. يرى لي تشان جين أن هذه المنتجات قد تميل إلى تعظيم إيرادات شركات الأوراق المالية بدلا من حماية المستثمرين. فهي تستهدف ضعفي الحركة اليومية لسهم واحد، ما يضخم المكاسب والخسائر.",
+        "body": "أصبحت صناديق ETF أحادية السهم برافعة 2x قضية بارزة في سوق الصناديق الكورية. أبدى لي تشان جين، محافظ جهاز الرقابة المالية، قلقا قويا من الصناديق ذات الرافعة القائمة على سامسونغ إلكترونيكس وSK هاينكس، معتبرا أن هيكلها قد ينتهي إلى إفادة شركات الوساطة أكثر من المستثمرين. تجذب هذه المنتجات الأفراد بإتاحة تعرض مضاعف لأسهم أشباه الموصلات الكورية الكبرى، لكن الخسائر المضاعفة والتكاليف قد تقع أساسا على المستثمر الفردي.\n\n## تعرض مضاعف لأسهم الرقائق الكبرى\nيسعى ETF أحادي السهم برافعة 2x إلى تتبع نحو ضعفي العائد اليومي لسهم واحد. إذا ارتفع سهم سامسونغ إلكترونيكس 5% في يوم واحد، يستهدف الصندوق مكسبا يقارب 10%؛ وإذا هبط 5% فقد تبلغ الخسارة نحو 10%. استثمار 10 ملايين وون يعني عمليا تعرضا لحركة تقارب 20 مليون وون في سامسونغ أو SK هاينكس. الخطر الأساسي أن الاحتفاظ لفترة أطول لا يضمن ضعفي العائد التراكمي للسهم. فإعادة الموازنة اليومية قد تجعل النتيجة تختلف كثيرا عندما تتذبذب الأسعار صعودا وهبوطا.\n\n## إيرادات للوسطاء ومخاطر للأفراد\nتركز الرقابة على الرسوم وكثافة التداول وتعقيد المنتج. قد تتطلب صناديق الرافعة تعديلات متكررة وتعاملات مشتقة. عندما يكرر المستثمرون البيع والشراء سعيا لمكاسب قصيرة الأجل، ترتفع أحجام التداول وتزيد إيرادات الوساطة والإدارة. أما إذا تحرك السهم عكس التوقع، فتظهر الخسارة مباشرة في حساب المستثمر. سامسونغ إلكترونيكس وSK هاينكس اسمان مألوفان في السوق الكورية، لكن الألفة لا تعني انخفاض المخاطر. مع رافعة 2x يصبح المنتج أقرب إلى أداة تداول قصيرة الأجل عالية المخاطر لا إلى ETF أسهم طويل الأجل.\n\n## أثر السوق الكورية واتجاه الرقابة\nنما سوق ETF الكوري بسرعة عبر منتجات مقومة بالوون وتدفقات من المستثمرين الأفراد. إذا توسعت صناديق الرافعة أحادية السهم على شركات الرقائق الكبرى، فقد تزيد التركزات قصيرة الأجل والتقلبات. يشير التحذير إلى تشديد محتمل في فحص الإصدارات، وإفصاحات المخاطر، وملاءمة البيع، والعبارات الإعلانية. على المستثمر ألا يكتفي بعبارات مثل “سامسونغ 2x” أو “SK هاينكس 2x”، بل عليه فهم التتبع اليومي، وأثر التراكم، والرسوم، واحتمال تضخم الخسائر.",
+        "keywords": [
+          "ETF أحادي السهم 2x",
+          "ETF برافعة مالية",
+          "ETF سامسونغ إلكترونيكس",
+          "ETF SK هاينكس",
+          "الرقابة المالية الكورية",
+          "لي تشان جين",
+          "المستثمرون الأفراد",
+          "تنظيم ETF",
+          "ETF أشباه الموصلات",
+          "صناديق ETF أحادية ال"
+        ],
+        "faq": [
+          {
+            "q": "ما هو ETF أحادي السهم برافعة 2x؟",
+            "a": "هو صندوق عالي المخاطر يستهدف نحو ضعفي العائد اليومي لسهم واحد مثل سامسونغ إلكترونيكس أو SK هاينكس."
+          },
+          {
+            "q": "لماذا تقلق الرقابة المالية؟",
+            "a": "لأن خسائر المستثمرين قد تتضاعف بينما ترتفع إيرادات الوسطاء ومديري الأصول من التداول والرسوم."
+          },
+          {
+            "q": "ما الذي يجب على المستثمر الفردي فحصه؟",
+            "a": "يجب فحص آلية التتبع اليومي 2x، والانحراف عند الاحتفاظ لفترة أطول، والرسوم، وتكاليف التداول، ومخاطر الخسارة المضاعفة."
+          }
+        ]
+      },
+      "hi": {
+        "title": "Samsung और SK Hynix पर 2x सिंगल-स्टॉक ETF को लेकर नियामकीय चेतावनी तेज",
+        "excerpt": "कोरिया के वित्तीय पर्यवेक्षण प्रमुख ली चान-जिन ने Samsung Electronics और SK Hynix से जुड़े 2x सिंगल-स्टॉक ETF पर चिंता जताई, क्योंकि इससे ब्रोकरेज की कमाई बढ़ सकती है और निवेशक जोखिम बढ़ सकता है।",
+        "metaDescription": "कोरियाई नियामक ने Samsung Electronics और SK Hynix 2x ETF पर चेतावनी दी: ब्रोकरेज आय बढ़ने और खुदरा निवेशकों के नुकसान बढ़ने का जोखिम।",
+        "summary": "Samsung Electronics और SK Hynix से जुड़े 2x लीवरेज्ड सिंगल-स्टॉक ETF पर नियामकीय चिंता बढ़ रही है। ली चान-जिन ने कहा कि ऐसे उत्पाद निवेशक संरक्षण की बजाय प्रतिभूति कंपनियों की कमाई को बढ़ा सकते हैं। एक शेयर की दैनिक चाल को दोगुना ट्रैक करने के कारण लाभ और नुकसान तेजी से बढ़ सकते हैं।",
+        "body": "2x सिंगल-स्टॉक ETF को लेकर विवाद कोरियाई फंड बाजार का प्रमुख मुद्दा बन गया है। वित्तीय पर्यवेक्षण सेवा के गवर्नर ली चान-जिन ने Samsung Electronics और SK Hynix पर आधारित लीवरेज्ड ETF पर कड़ी चिंता जताई है। उनका आकलन है कि ऐसे उत्पादों की संरचना अंततः प्रतिभूति कंपनियों को अधिक लाभ दे सकती है। ये ETF कोरिया की प्रमुख सेमीकंडक्टर कंपनियों में दोगुना एक्सपोजर देकर खुदरा निवेशकों को आकर्षित करते हैं, लेकिन बढ़े हुए नुकसान और लागत का बोझ निवेशकों पर आ सकता है।\n\n## सेमीकंडक्टर दिग्गजों पर दोगुना दांव\nसिंगल-स्टॉक 2x ETF किसी एक शेयर के दैनिक रिटर्न का लगभग दो गुना ट्रैक करने के लिए बनाया जाता है। यदि Samsung Electronics एक दिन में 5% चढ़ता है, तो ETF लगभग 10% लाभ का लक्ष्य रखता है; यदि शेयर 5% गिरता है, तो नुकसान लगभग 10% हो सकता है। 1 करोड़ वॉन का निवेश व्यवहार में करीब 2 करोड़ वॉन के Samsung Electronics या SK Hynix मूल्य उतार-चढ़ाव जैसा एक्सपोजर देता है। मुख्य जोखिम यह है कि लंबे समय तक रखने पर शेयर के कुल रिटर्न का ठीक दोगुना मिलना तय नहीं है। दैनिक रीबैलेंसिंग के कारण उतार-चढ़ाव वाले बाजार में नतीजा मूल शेयर के दो गुना से अलग हो सकता है।\n\n## कमाई बिचौलियों को, जोखिम खुदरा निवेशकों को\nनियामक की चिंता शुल्क, ट्रेडिंग टर्नओवर और उत्पाद की जटिलता पर केंद्रित है। लीवरेज्ड ETF में बार-बार समायोजन और डेरिवेटिव लेनदेन शामिल हो सकते हैं। जब निवेशक अल्पकालिक तेजी पकड़ने के लिए बार-बार खरीद-बिक्री करते हैं, तो ट्रेडिंग वॉल्यूम और ब्रोकरेज व प्रबंधन शुल्क बढ़ते हैं। लेकिन शेयर उलटी दिशा में चला तो नुकसान सीधे निवेशक के खाते में दिखता है। Samsung Electronics और SK Hynix कोरियाई बाजार में परिचित बड़े नाम हैं, पर परिचित नाम कम जोखिम की गारंटी नहीं है। 2x लीवरेज जुड़ते ही यह उत्पाद दीर्घकालिक इक्विटी ETF से ज्यादा उच्च जोखिम वाला ट्रेडिंग साधन बन जाता है।\n\n## कोरियाई बाजार और आगे की निगरानी\nकोरिया का ETF बाजार वॉन-आधारित उत्पादों और खुदरा धन प्रवाह से तेजी से बढ़ा है। यदि प्रमुख सेमीकंडक्टर शेयरों पर सिंगल-स्टॉक लीवरेज्ड ETF फैलते हैं, तो अल्पकालिक भीड़ और अस्थिरता बढ़ सकती है। चेतावनी से उत्पाद लॉन्च, जोखिम खुलासा, बिक्री उपयुक्तता और विज्ञापन भाषा पर कड़ी जांच की संभावना बनती है। निवेशक को “Samsung 2x” या “SK Hynix 2x” से आगे देखकर दैनिक ट्रैकिंग, कंपाउंडिंग प्रभाव, शुल्क और नुकसान बढ़ने की संभावना समझनी चाहिए।",
+        "keywords": [
+          "सिंगल-स्टॉक 2x ETF",
+          "लीवरेज्ड ETF",
+          "Samsung Electronics ETF",
+          "SK Hynix ETF",
+          "कोरियाई वित्तीय नियामक",
+          "Lee Chan-jin",
+          "खुदरा निवेशक",
+          "ETF नियमन",
+          "सेमीकंडक्टर ETF",
+          "Samsung और SK Hynix"
+        ],
+        "faq": [
+          {
+            "q": "सिंगल-स्टॉक 2x ETF क्या है?",
+            "a": "यह उच्च जोखिम वाला ETF है जो Samsung Electronics या SK Hynix जैसे एक शेयर के दैनिक रिटर्न का लगभग दो गुना ट्रैक करता है।"
+          },
+          {
+            "q": "नियामक क्यों चिंतित है?",
+            "a": "क्योंकि निवेशकों का नुकसान बढ़ सकता है, जबकि ट्रेडिंग और शुल्क से ब्रोकरेज और एसेट मैनेजर की आय बढ़ सकती है।"
+          },
+          {
+            "q": "खुदरा निवेशक को क्या देखना चाहिए?",
+            "a": "दैनिक 2x ट्रैकिंग, लंबी होल्डिंग में विचलन, शुल्क, ट्रेडिंग लागत और नुकसान बढ़ने के जोखिम की जांच करनी चाहिए।"
+          }
+        ]
+      },
+      "id": {
+        "title": "ETF 2x saham tunggal Samsung dan SK Hynix disorot karena risiko leverage",
+        "excerpt": "Lee Chan-jin, kepala pengawas keuangan Korea, memperingatkan bahwa ETF 2x saham tunggal berbasis Samsung Electronics dan SK Hynix dapat lebih menguntungkan sekuritas daripada investor.",
+        "metaDescription": "Regulator Korea memperingatkan ETF 2x Samsung Electronics dan SK Hynix karena potensi keuntungan sekuritas dan risiko kerugian besar bagi investor ritel.",
+        "summary": "Kekhawatiran regulator meningkat terhadap ETF leverage 2x saham tunggal yang terkait Samsung Electronics dan SK Hynix. Lee Chan-jin menilai produk ini dapat lebih mendorong pendapatan perusahaan sekuritas daripada perlindungan investor. Karena mengejar dua kali pergerakan harian satu saham, untung dan rugi bisa membesar cepat.",
+        "body": "Kontroversi ETF 2x saham tunggal menjadi isu penting di pasar dana Korea. Lee Chan-jin, Gubernur Financial Supervisory Service, menyampaikan kekhawatiran kuat terhadap ETF leverage berbasis Samsung Electronics dan SK Hynix. Struktur produk ini dinilai dapat berujung lebih menguntungkan perusahaan sekuritas. Daya tariknya adalah eksposur dua kali lipat pada saham semikonduktor besar Korea, tetapi kerugian yang membesar dan biaya dapat lebih banyak ditanggung investor ritel.\n\n## Taruhan dua kali pada saham chip besar\nETF 2x saham tunggal dirancang untuk mengikuti sekitar dua kali imbal hasil harian satu saham. Jika Samsung Electronics naik 5% dalam sehari, ETF menargetkan kenaikan sekitar 10%; jika saham turun 5%, kerugian dapat sekitar 10%. Investasi 10 juta won secara praktis memberi eksposur pada pergerakan sekitar 20 juta won di Samsung Electronics atau SK Hynix. Risiko utamanya adalah kepemilikan lebih lama tidak menjamin dua kali imbal hasil kumulatif saham. Rebalancing harian dapat membuat hasil menyimpang, terutama saat harga naik turun bergantian.\n\n## Pendapatan ke perantara, risiko ke investor\nFokus regulator ada pada biaya, frekuensi transaksi, dan kompleksitas. ETF leverage dapat melibatkan penyesuaian sering dan transaksi derivatif. Saat investor berulang kali membeli dan menjual untuk mengejar pergerakan jangka pendek, nilai transaksi naik dan pendapatan broker serta manajer investasi ikut bertambah. Namun ketika saham bergerak berlawanan, kerugian langsung masuk ke rekening investor. Samsung Electronics dan SK Hynix adalah nama besar yang akrab di Korea, tetapi keakraban tidak berarti risikonya rendah. Dengan leverage 2x, produk ini lebih dekat ke alat trading jangka pendek berisiko tinggi daripada ETF saham jangka panjang.\n\n## Dampak pasar Korea dan arah pengawasan\nPasar ETF Korea tumbuh cepat lewat produk berbasis won dan aliran dana ritel. Jika ETF leverage saham tunggal pada emiten semikonduktor besar terus meluas, konsentrasi jangka pendek dan volatilitas dapat meningkat. Peringatan ini mengarah pada pemeriksaan lebih ketat atas peluncuran produk, pengungkapan risiko, kesesuaian penjualan, dan bahasa iklan. Investor perlu melihat lebih dari istilah “Samsung 2x” atau “SK Hynix 2x” dengan memahami pelacakan harian, efek compounding, biaya, dan risiko kerugian yang membesar.",
+        "keywords": [
+          "ETF 2x saham tunggal",
+          "ETF leverage",
+          "ETF Samsung Electronics",
+          "ETF SK Hynix",
+          "pengawas keuangan Korea",
+          "Lee Chan-jin",
+          "investor ritel",
+          "regulasi ETF",
+          "ETF semikonduktor"
+        ],
+        "faq": [
+          {
+            "q": "Apa itu ETF 2x saham tunggal?",
+            "a": "Itu adalah ETF berisiko tinggi yang dirancang mengikuti sekitar dua kali imbal hasil harian satu saham seperti Samsung Electronics atau SK Hynix."
+          },
+          {
+            "q": "Mengapa regulator khawatir?",
+            "a": "Karena kerugian investor dapat membesar, sementara pendapatan sekuritas dan manajer investasi dari transaksi dan biaya dapat meningkat."
+          },
+          {
+            "q": "Apa yang harus diperiksa investor ritel?",
+            "a": "Investor perlu memeriksa pelacakan harian 2x, potensi penyimpangan saat ditahan lebih lama, biaya, biaya transaksi, dan risiko kerugian berlipat."
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "a151b9c1dfa9",
+    "slug": "이-불장에-운용사가-적자10곳중-4곳은-고개-못든다는데-343016",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-06-22T12:56:07.685Z",
+    "updatedAt": "2026-06-22T12:56:07.686Z",
+    "sourceName": "",
+    "sourceUrl": "",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12080268",
+    "titleFingerprint": "32570b49d09fefe26d8f4e6e09674fcc9147a654",
+    "dedupKeys": [
+      "a151b9c1dfa9e0726c52637174daf86cdde4d1d7",
+      "32570b49d09fefe26d8f4e6e09674fcc9147a654",
+      "d7604deacd84a201ce8b704b16cffc0f508a8289"
+    ],
+    "imageUrl": "/images/articles/a151b9c1dfa9.jpg",
+    "i18n": {
+      "ko": {
+        "title": "자산운용사 1분기 최대 영업이익에도 10곳 중 4곳 적자, ETF 성장 뒤 양극화 심화",
+        "excerpt": "국내 증시 상승과 ETF 시장 확대가 맞물린 올해 1분기 자산운용업계는 분기 기준 최대 영업이익을 냈지만, 10곳 중 4곳은 적자를 기록하며 대형사 쏠림이 뚜렷해졌다.",
+        "metaDescription": "자산운용업계가 올해 1분기 최대 영업이익을 냈지만 10곳 중 4곳은 적자였다. ETF 성장 속 대형사 중심 양극화와 투자자 영향을 짚었다.",
+        "summary": "올해 1분기 자산운용업계는 국내 증시 반등과 ETF 시장 확대에 힘입어 분기 기준 최대 영업이익을 기록했다. 그러나 운용사 10곳 중 4곳은 적자를 내며 업계 내부 격차가 커졌다. 수수료 인하 경쟁, 판매 채널 집중, 브랜드 파워 차이가 중소형사의 수익성을 압박하고 있다.",
+        "body": "자산운용업계가 올해 1분기 분기 기준 최대 영업이익을 거뒀지만, 그 성과는 고르게 퍼지지 않았다. 국내 증시 상승과 상장지수펀드(ETF) 시장 확대가 운용 보수와 평가이익을 밀어 올렸지만, 운용사 10곳 중 4곳은 여전히 적자를 냈다. 불장 속에서도 돈을 버는 회사와 버티는 회사가 갈리는 구조가 더 선명해졌다.\n\n## ETF 성장의 과실은 대형사에 집중\n\n올해 1분기 국내 자산운용업계의 실적 개선은 증시 반등과 ETF 순자산 증가가 핵심 동력이었다. 개인투자자의 장기 적립식 투자, 퇴직연금 계좌의 ETF 편입, 테마형 상품 수요가 동시에 늘며 운용자산 확대가 빠르게 진행됐다. 그러나 실제 이익은 브랜드와 판매망을 장악한 대형 운용사에 집중됐다. ETF 시장에서는 규모가 곧 경쟁력이다. 순자산이 큰 상품은 거래량과 유동성이 높아지고, 다시 투자자 유입을 부르는 선순환을 만든다. 반면 후발 운용사는 낮은 보수, 마케팅 비용, 상장 유지 비용을 감당해야 해 자산이 늘어도 손익분기점에 도달하기 어렵다.\n\n## 10곳 중 4곳 적자, 수수료 경쟁이 수익성 압박\n\n분기 최대 영업이익이라는 headline 뒤에는 약 40% 운용사가 적자라는 숫자가 놓여 있다. 주식형·채권형·혼합형 펀드보다 ETF로 자금이 이동하면서 상품 구조는 빠르게 바뀌었지만, 수익 모델은 더 빡빡해졌다. 투자자에게 유리한 낮은 총보수 경쟁은 운용사 입장에서는 마진 축소로 이어진다. 특히 중소형사는 대표지수 ETF나 인기 테마 ETF에서 대형사와 직접 경쟁해야 하고, 판매 채널 확보 비용도 부담스럽다. 국내 금융투자 규제상 공시, 리스크 관리, 유동성 공급, 내부통제 비용도 계속 발생한다. 원화 기준 운용보수가 얇아질수록 규모를 확보하지 못한 회사의 적자 가능성은 커진다.\n\n## 투자자는 비용과 지속 가능성을 함께 봐야\n\n이번 실적은 투자자에게도 중요한 신호다. ETF 시장 확대는 선택지를 넓히고 비용을 낮추는 긍정적 효과가 있지만, 운용사 간 체력 차이는 상품 유지와 유동성 품질에 영향을 줄 수 있다. 투자자는 단순히 최저 보수만 볼 것이 아니라 순자산 규모, 거래량, 추적오차, 운용사의 상품 관리 능력을 함께 확인해야 한다. 업계는 당분간 대형사 중심 재편이 이어질 가능성이 높다. 증시가 상승세를 유지하면 전체 이익은 견조하겠지만, 자금 유입이 상위 ETF에 몰리는 흐름이 계속되면 중소형 운용사의 적자 해소는 쉽지 않다.",
+        "keywords": [
+          "자산운용사",
+          "ETF",
+          "운용사 적자",
+          "1분기 영업이익",
+          "ETF 시장",
+          "자산운용업계",
+          "대형 운용사",
+          "수수료 경쟁",
+          "국내 증시",
+          "자산운용사 1분기 최대 영업이익에도"
+        ],
+        "faq": [
+          {
+            "q": "자산운용업계는 왜 최대 영업이익을 냈나?",
+            "a": "국내 증시 상승과 ETF 시장 확대가 운용자산 증가로 이어지며 올해 1분기 업계 전체 영업이익을 끌어올렸다."
+          },
+          {
+            "q": "왜 운용사 10곳 중 4곳은 적자를 냈나?",
+            "a": "ETF 수수료 경쟁, 판매 채널 비용, 브랜드 격차, 상장 유지와 내부통제 비용이 중소형 운용사의 수익성을 압박했다."
+          },
+          {
+            "q": "투자자는 ETF를 고를 때 무엇을 봐야 하나?",
+            "a": "총보수뿐 아니라 순자산 규모, 거래량, 추적오차, 운용사의 상품 관리 능력과 유동성을 함께 확인해야 한다."
+          }
+        ]
+      },
+      "en": {
+        "title": "Asset managers post record Q1 operating profit, yet 4 in 10 stay in the red as ETF divide widens",
+        "excerpt": "Korea’s asset management industry delivered record quarterly operating profit in Q1 on rising stocks and ETF growth, but four in ten firms remained loss-making.",
+        "metaDescription": "Korean asset managers hit record Q1 operating profit, yet 40% stayed in the red as ETF growth increasingly favored large firms.",
+        "summary": "Korea’s asset management industry posted its highest quarterly operating profit in Q1, helped by a stronger equity market and rapid ETF expansion. The gains were uneven. Roughly four in ten managers still reported losses as scale, brand power and distribution access concentrated profits among larger firms.",
+        "body": "Korea’s asset management industry reached record quarterly operating profit in the first quarter, but the headline number hid a sharper split. Rising domestic equities and the expansion of exchange-traded funds lifted assets under management, yet four in ten managers remained in deficit.\n\n## ETF Growth Favors Scale\n\nETF inflows from retail investors, retirement accounts and thematic strategies strengthened fee income across the market. But most of the benefit accrued to large managers with established brands, deep product lineups and stronger distribution. In ETFs, size reinforces liquidity, trading volume and investor confidence.\n\n## Why Losses Persist\n\nAbout 40% of managers stayed unprofitable despite the bull market. Low-fee competition, marketing costs, listing expenses, liquidity support and compliance burdens weigh more heavily on smaller firms. As money moves from traditional funds into ETFs, managers without scale struggle to reach break-even.\n\n## What Investors Should Watch\n\nLower fees are positive for investors, but they are not the only metric. ETF buyers should compare assets, trading volume, tracking error, liquidity and the manager’s ability to maintain products. Industry consolidation around large firms is likely to continue if flows keep concentrating in top ETFs.",
+        "keywords": [
+          "asset managers",
+          "ETF",
+          "Korea ETF market",
+          "operating profit",
+          "fund managers",
+          "ETF fees",
+          "asset management industry",
+          "Q1 earnings",
+          "Asset managers post"
+        ],
+        "faq": [
+          {
+            "q": "Why did Korean asset managers post record Q1 profit?",
+            "a": "Higher domestic stock prices and ETF asset growth increased fee income and lifted industrywide operating profit."
+          },
+          {
+            "q": "Why were four in ten firms still loss-making?",
+            "a": "Fee pressure, distribution costs, listing expenses and limited scale kept many smaller managers below break-even."
+          },
+          {
+            "q": "What should ETF investors check?",
+            "a": "They should review fees, assets, trading volume, tracking error, liquidity and the manager’s product maintenance record."
+          }
+        ]
+      },
+      "ja": {
+        "title": "韓国運用会社、1-3月期に最高営業益でも4割が赤字 ETF拡大で格差鮮明",
+        "excerpt": "韓国株高とETF市場拡大を追い風に、資産運用業界は1-3月期として最高の営業利益を記録したが、運用会社の4割は赤字にとどまった。",
+        "metaDescription": "韓国の資産運用会社は1-3月期に最高営業益を記録した一方、4割が赤字。ETF成長が大手集中と収益格差を広げている。",
+        "summary": "韓国の資産運用業界は今年1-3月期、株式市場の上昇とETF残高拡大で過去最高水準の営業利益を出した。ただし利益は大手に集中し、約4割の会社は赤字だった。低コスト競争と販売網の差が中小運用会社を圧迫している。",
+        "body": "韓国の資産運用業界は今年1-3月期、四半期ベースで過去最高の営業利益を記録した。しかし好決算の裏側で、運用会社の10社に4社は赤字だった。株高と上場投資信託（ETF）の拡大が市場全体を押し上げる一方、収益は大手に偏っている。\n\n## ETF成長の恩恵は大手へ\n\n個人投資家の積立投資、退職年金口座でのETF活用、テーマ型商品の需要が重なり、運用資産は拡大した。だがETFでは規模が流動性と売買代金を生み、それが新たな資金流入を呼ぶ。ブランド力と販売網を持つ大手ほど有利だ。\n\n## 4割赤字の背景\n\n約40%の運用会社が赤字にとどまった主因は、低い信託報酬をめぐる競争だ。後発や中小の会社はマーケティング、上場維持、流動性供給、内部管理の費用を負担しながら大手と競う。ウォン建ての報酬率が薄くなるほど、規模を持たない会社の採算は悪化する。\n\n## 投資家への示唆\n\nETF投資では最安コストだけでなく、純資産、売買高、トラッキングエラー、流動性、運用会社の商品管理力を見る必要がある。資金流入が上位ETFに集中する限り、大手中心の再編は続く見通しだ。",
+        "keywords": [
+          "韓国ETF",
+          "資産運用会社",
+          "営業利益",
+          "ETF市場",
+          "運用会社赤字",
+          "信託報酬",
+          "大手運用会社",
+          "韓国株",
+          "韓国運用会社、1-3月期に最高営業益でも"
+        ],
+        "faq": [
+          {
+            "q": "なぜ運用業界は最高営業益を出したのか。",
+            "a": "韓国株の上昇とETF残高の拡大が運用資産と報酬収入を押し上げたためだ。"
+          },
+          {
+            "q": "なぜ4割の会社が赤字なのか。",
+            "a": "低コスト競争、販売費用、上場維持費、規模不足が中小運用会社の収益性を圧迫している。"
+          },
+          {
+            "q": "ETF投資家は何を確認すべきか。",
+            "a": "信託報酬だけでなく、純資産、売買高、流動性、トラッキングエラー、運用管理力を確認すべきだ。"
+          }
+        ]
+      },
+      "zh": {
+        "title": "韩国资管一季度营业利润创新高，仍有四成公司亏损，ETF扩张加剧分化",
+        "excerpt": "韩国股市上涨与ETF市场扩张推动资管行业一季度营业利润创季度新高，但十家公司中约四家仍亏损，大型机构优势扩大。",
+        "metaDescription": "韩国资管行业一季度营业利润创纪录，但约40%公司亏损。ETF增长正在强化大型机构集中和行业盈利分化。",
+        "summary": "今年一季度，韩国资管行业受股市反弹和ETF资产扩张带动，营业利润创季度新高。但利润并未平均分布，约四成资管公司仍处亏损。低费率竞争、销售渠道差距和规模不足成为中小机构压力来源。",
+        "body": "韩国资产管理行业今年一季度取得季度营业利润新高，但行业内部的盈利差距进一步扩大。国内股市上涨和交易型开放式指数基金（ETF）市场扩张提升了管理资产规模，可十家公司中约四家仍处于亏损状态。\n\n## ETF红利集中在大型机构\n\n个人投资者定投、养老金账户配置ETF以及主题产品需求增加，共同推高了ETF资金流入。大型资管公司凭借品牌、产品线和销售渠道获得更多资金。ETF市场中，规模带来流动性和成交量，进而吸引更多投资者，形成正循环。\n\n## 四成亏损的原因\n\n约40%的资管公司仍亏损，核心压力来自低费率竞争。中小机构需要承担营销、上市维护、流动性支持、合规和内部控制成本，却难以迅速扩大资产规模。资金从传统基金流向ETF后，规模不足的公司更难达到盈亏平衡。\n\n## 投资者应关注什么\n\nETF费用下降有利于投资者，但不能只看最低费率。投资者还应比较基金规模、成交量、跟踪误差、流动性和管理人的产品维护能力。若资金继续集中流向头部ETF，韩国资管行业的大型机构集中趋势预计延续。",
+        "keywords": [
+          "韩国ETF",
+          "资产管理公司",
+          "营业利润",
+          "ETF市场",
+          "资管亏损",
+          "低费率竞争",
+          "韩国股市",
+          "大型资管",
+          "韩国资管一季度营业利润创新高，仍有四成公"
+        ],
+        "faq": [
+          {
+            "q": "韩国资管行业为何一季度利润创新高？",
+            "a": "韩国股市上涨和ETF资产扩张提升了管理资产规模和费率收入。"
+          },
+          {
+            "q": "为什么仍有四成公司亏损？",
+            "a": "低费率竞争、渠道成本、上市维护费用和规模不足压缩了中小资管公司的利润。"
+          },
+          {
+            "q": "投资ETF应看哪些指标？",
+            "a": "除总费率外，还应关注资产规模、成交量、跟踪误差、流动性和管理人能力。"
+          }
+        ]
+      },
+      "es": {
+        "title": "Gestoras coreanas logran récord operativo en el primer trimestre, pero 4 de cada 10 pierden dinero",
+        "excerpt": "El alza bursátil en Corea y la expansión de los ETF impulsaron un récord de beneficio operativo trimestral, aunque cuatro de cada diez gestoras siguieron en pérdidas.",
+        "metaDescription": "Las gestoras coreanas marcaron récord operativo en el primer trimestre, pero el 40% perdió dinero por la concentración del crecimiento ETF en grandes firmas.",
+        "summary": "La industria coreana de gestión de activos registró en el primer trimestre su mayor beneficio operativo trimestral. El avance de la bolsa local y el crecimiento de los ETF fueron los motores. Sin embargo, cerca del 40% de las gestoras siguió en números rojos por presión de comisiones y falta de escala.",
+        "body": "La industria coreana de gestión de activos cerró el primer trimestre con un récord de beneficio operativo, pero la mejora no alcanzó a todos. La subida de la bolsa local y la expansión de los ETF elevaron los activos bajo gestión, mientras cuatro de cada diez gestoras continuaron en pérdidas.\n\n## El ETF premia el tamaño\n\nLos flujos de inversores minoristas, cuentas de jubilación y productos temáticos reforzaron el mercado ETF. Las grandes gestoras captaron la mayor parte gracias a marca, distribución y liquidez. En ETF, más tamaño suele generar más volumen y más confianza de los inversores.\n\n## Por qué persisten las pérdidas\n\nAlrededor del 40% de las firmas no logró beneficios. La competencia por comisiones bajas reduce márgenes, y las gestoras pequeñas deben asumir costes de marketing, cotización, liquidez, cumplimiento y control interno. Sin escala, incluso un mercado alcista no garantiza rentabilidad.\n\n## Impacto para el inversor\n\nLas comisiones bajas son positivas, pero no bastan. Al elegir un ETF conviene revisar patrimonio, volumen negociado, error de seguimiento, liquidez y capacidad operativa de la gestora. Si los flujos siguen concentrándose en los principales ETF, la brecha entre grandes y pequeñas gestoras continuará.",
+        "keywords": [
+          "ETF Corea",
+          "gestoras de activos",
+          "beneficio operativo",
+          "mercado ETF",
+          "comisiones ETF",
+          "gestoras en pérdidas",
+          "bolsa coreana",
+          "gestión de activos",
+          "Gestoras coreanas lo"
+        ],
+        "faq": [
+          {
+            "q": "¿Por qué subieron los beneficios de las gestoras coreanas?",
+            "a": "El avance de la bolsa coreana y el crecimiento de los ETF aumentaron activos gestionados e ingresos por comisiones."
+          },
+          {
+            "q": "¿Por qué cuatro de cada diez gestoras perdieron dinero?",
+            "a": "La presión de comisiones, los costes de distribución y la falta de escala afectaron sobre todo a firmas pequeñas."
+          },
+          {
+            "q": "¿Qué debe mirar un inversor en un ETF?",
+            "a": "Debe revisar comisiones, patrimonio, volumen, error de seguimiento, liquidez y solidez de la gestora."
+          }
+        ]
+      },
+      "pt": {
+        "title": "Gestoras coreanas batem recorde operacional no 1º trimestre, mas 4 em cada 10 ficam no prejuízo",
+        "excerpt": "A alta da bolsa coreana e a expansão dos ETFs levaram o setor a lucro operacional trimestral recorde, mas quatro em cada dez gestoras seguiram no vermelho.",
+        "metaDescription": "Gestoras da Coreia registraram lucro operacional recorde no 1º trimestre, mas 40% tiveram prejuízo com concentração do crescimento dos ETFs.",
+        "summary": "O setor coreano de gestão de ativos alcançou no primeiro trimestre seu maior lucro operacional trimestral. A valorização das ações locais e o crescimento dos ETFs impulsionaram o resultado. Ainda assim, cerca de 40% das gestoras continuaram deficitárias, pressionadas por tarifas baixas e falta de escala.",
+        "body": "A indústria coreana de gestão de ativos registrou lucro operacional recorde no primeiro trimestre, mas o resultado agregado esconde uma divisão mais profunda. A alta do mercado acionário doméstico e a expansão dos ETFs elevaram os ativos sob gestão, enquanto quatro em cada dez gestoras permaneceram no prejuízo.\n\n## Crescimento dos ETFs favorece escala\n\nA entrada de investidores pessoas físicas, contas de previdência e produtos temáticos impulsionou os ETFs. Grandes gestoras capturaram a maior parte dos fluxos por terem marca, distribuição e liquidez. No mercado de ETF, tamanho gera volume, e volume atrai novos recursos.\n\n## Por que o prejuízo continua\n\nCerca de 40% das empresas não atingiram lucro. A disputa por taxas menores comprime margens, e gestoras menores enfrentam custos de marketing, listagem, liquidez, compliance e controles internos. Sem escala suficiente, o aumento do mercado não se converte automaticamente em rentabilidade.\n\n## O que muda para o investidor\n\nTaxas baixas ajudam, mas não devem ser o único critério. O investidor deve observar patrimônio, volume negociado, erro de aderência, liquidez e capacidade da gestora de manter o produto. Se os fluxos continuarem concentrados nos maiores ETFs, a polarização do setor deve persistir.",
+        "keywords": [
+          "ETF Coreia",
+          "gestoras de ativos",
+          "lucro operacional",
+          "mercado de ETFs",
+          "taxas de ETF",
+          "prejuízo em gestoras",
+          "bolsa coreana",
+          "gestão de ativos",
+          "Gestoras coreanas ba"
+        ],
+        "faq": [
+          {
+            "q": "Por que o setor teve lucro recorde?",
+            "a": "A valorização das ações coreanas e a expansão dos ETFs aumentaram ativos sob gestão e receitas de taxas."
+          },
+          {
+            "q": "Por que 4 em cada 10 gestoras tiveram prejuízo?",
+            "a": "Taxas baixas, custos de distribuição, manutenção de produtos e falta de escala reduziram a rentabilidade."
+          },
+          {
+            "q": "Como escolher um ETF?",
+            "a": "Além da taxa, é importante avaliar patrimônio, volume, erro de aderência, liquidez e qualidade da gestora."
+          }
+        ]
+      },
+      "de": {
+        "title": "Koreas Vermögensverwalter erzielen Rekordgewinn im ersten Quartal, doch 40 Prozent bleiben defizitär",
+        "excerpt": "Steigende Aktienkurse und der ETF-Boom brachten Koreas Asset-Managern im ersten Quartal einen operativen Rekordgewinn, doch vier von zehn Firmen schrieben Verluste.",
+        "metaDescription": "Koreas Asset-Manager melden Rekordgewinn im ersten Quartal, aber 40% bleiben verlustreich. ETF-Wachstum verschärft die Spaltung zugunsten großer Anbieter.",
+        "summary": "Koreas Vermögensverwaltungsbranche erzielte im ersten Quartal den höchsten operativen Quartalsgewinn. Rückenwind kam vom Aktienmarkt und vom ETF-Wachstum. Dennoch blieben rund 40% der Anbieter defizitär, weil Gebührenwettbewerb, Vertriebskosten und fehlende Skaleneffekte kleinere Häuser belasten.",
+        "body": "Koreas Vermögensverwalter haben im ersten Quartal einen operativen Rekordgewinn erzielt. Der starke Gesamtwert verdeckt jedoch eine wachsende Kluft. Höhere Aktienkurse und ein expandierender ETF-Markt erhöhten die verwalteten Vermögen, während vier von zehn Gesellschaften weiter Verluste machten.\n\n## ETF-Wachstum konzentriert sich\n\nPrivatanleger, Altersvorsorgekonten und Themenprodukte sorgten für Zuflüsse in ETFs. Große Anbieter profitierten überproportional, weil sie Markenstärke, breite Produktpaletten und bessere Vertriebskanäle besitzen. Im ETF-Geschäft führen Größe und Liquidität oft zu weiterem Wachstum.\n\n## Warum viele Anbieter Verluste schreiben\n\nEtwa 40% der Gesellschaften blieben defizitär. Niedrige Gebühren drücken die Margen, während kleinere Häuser Marketing, Börsennotierung, Liquiditätssicherung, Compliance und interne Kontrollen finanzieren müssen. Ohne ausreichendes Volumen ist der Weg zur Gewinnschwelle schwierig.\n\n## Bedeutung für Anleger\n\nNiedrige Kosten sind wichtig, reichen aber nicht aus. ETF-Anleger sollten Fondsvolumen, Handelsumsatz, Tracking Error, Liquidität und Produktpflege des Anbieters prüfen. Wenn Mittel weiter in große ETFs fließen, dürfte die Konzentration der koreanischen Branche anhalten.",
+        "keywords": [
+          "Korea ETF",
+          "Vermögensverwalter",
+          "operativer Gewinn",
+          "ETF-Markt",
+          "ETF-Gebühren",
+          "Asset Management",
+          "Verluste",
+          "koreanischer Aktienmarkt",
+          "Koreas Vermögensverw"
+        ],
+        "faq": [
+          {
+            "q": "Warum stieg der Gewinn der Branche?",
+            "a": "Steigende koreanische Aktienkurse und mehr ETF-Vermögen erhöhten Gebühreneinnahmen und operative Ergebnisse."
+          },
+          {
+            "q": "Warum bleiben 40% der Anbieter defizitär?",
+            "a": "Gebührendruck, Vertriebskosten, Produktpflege und fehlende Skaleneffekte belasten vor allem kleinere Anbieter."
+          },
+          {
+            "q": "Worauf sollten ETF-Anleger achten?",
+            "a": "Neben Gebühren zählen Fondsvolumen, Handelsvolumen, Tracking Error, Liquidität und Qualität des Anbieters."
+          }
+        ]
+      },
+      "fr": {
+        "title": "Les gestionnaires coréens signent un bénéfice record au T1, mais 4 sur 10 restent déficitaires",
+        "excerpt": "La hausse de la Bourse coréenne et l’essor des ETF ont porté le secteur à un bénéfice opérationnel trimestriel record, mais quatre gestionnaires sur dix restent déficitaires.",
+        "metaDescription": "Les gestionnaires d’actifs coréens ont atteint un bénéfice opérationnel record au T1, mais 40% restent en perte sous l’effet de la concentration des ETF.",
+        "summary": "Le secteur coréen de la gestion d’actifs a enregistré au premier trimestre son plus haut bénéfice opérationnel trimestriel. La progression des actions locales et des ETF a soutenu les revenus. Pourtant, près de 40% des sociétés restent déficitaires, pénalisées par la guerre des frais et le manque d’échelle.",
+        "body": "La gestion d’actifs coréenne a atteint au premier trimestre un bénéfice opérationnel trimestriel record. Ce résultat masque toutefois une forte polarisation. La hausse du marché actions et l’expansion des ETF ont accru les encours, mais quatre sociétés sur dix sont restées dans le rouge.\n\n## Les ETF favorisent les grands acteurs\n\nLes investisseurs particuliers, les comptes de retraite et les produits thématiques ont alimenté les flux vers les ETF. Les grands gestionnaires ont capté l’essentiel grâce à leur marque, leurs réseaux de distribution et leur liquidité. Dans les ETF, la taille attire les volumes, puis les volumes attirent de nouveaux capitaux.\n\n## Pourquoi les pertes persistent\n\nEnviron 40% des sociétés n’ont pas dégagé de bénéfice. La baisse des frais comprime les marges, tandis que les petites maisons supportent marketing, cotation, apport de liquidité, conformité et contrôle interne. Sans taille critique, la croissance du marché ne suffit pas.\n\n## Ce que les investisseurs doivent vérifier\n\nLes frais faibles sont utiles, mais ils ne sont pas le seul critère. Il faut regarder les encours, le volume échangé, l’écart de suivi, la liquidité et la capacité du gestionnaire à maintenir le produit. La concentration autour des grands ETF devrait se poursuivre.",
+        "keywords": [
+          "ETF Corée",
+          "gestion d’actifs",
+          "bénéfice opérationnel",
+          "marché ETF",
+          "frais ETF",
+          "sociétés déficitaires",
+          "Bourse coréenne",
+          "grands gestionnaires",
+          "Les gestionnaires co"
+        ],
+        "faq": [
+          {
+            "q": "Pourquoi le secteur a-t-il réalisé un bénéfice record?",
+            "a": "La hausse des actions coréennes et la progression des ETF ont augmenté les encours et les revenus de frais."
+          },
+          {
+            "q": "Pourquoi quatre sociétés sur dix perdent-elles de l’argent?",
+            "a": "La pression sur les frais, les coûts de distribution et le manque d’échelle pèsent sur les petits gestionnaires."
+          },
+          {
+            "q": "Comment choisir un ETF?",
+            "a": "Il faut examiner les frais, les encours, le volume, l’écart de suivi, la liquidité et la solidité du gestionnaire."
+          }
+        ]
+      },
+      "ar": {
+        "title": "مديرو الأصول في كوريا يحققون ربحا قياسيا في الربع الأول لكن 4 من كل 10 ما زالوا خاسرين",
+        "excerpt": "صعود الأسهم الكورية وتوسع سوق صناديق ETF رفعا أرباح التشغيل إلى مستوى فصلي قياسي، لكن أربع شركات إدارة أصول من كل عشر بقيت في الخسارة.",
+        "metaDescription": "قطاع إدارة الأصول الكوري سجل ربح تشغيل قياسيا في الربع الأول، لكن 40% من الشركات خسرت مع تركز نمو صناديق ETF لدى الكبار.",
+        "summary": "حقق قطاع إدارة الأصول في كوريا أعلى ربح تشغيل فصلي في الربع الأول بفضل ارتفاع الأسهم المحلية ونمو صناديق ETF. لكن المكاسب لم تتوزع بالتساوي. نحو 40% من الشركات بقيت خاسرة بسبب ضغط الرسوم وتكاليف التوزيع وضعف الحجم.",
+        "body": "سجل قطاع إدارة الأصول في كوريا في الربع الأول ربح تشغيل قياسيا على أساس فصلي، لكن الرقم الإجمالي أخفى انقساما واضحا. ارتفاع سوق الأسهم المحلية وتوسع صناديق المؤشرات المتداولة ETF زادا الأصول المدارة، فيما بقيت أربع شركات من كل عشر في الخسارة.\n\n## نمو ETF يميل إلى الكبار\n\nتدفقت أموال المستثمرين الأفراد وحسابات التقاعد والمنتجات الموضوعية إلى صناديق ETF. الشركات الكبرى استفادت أكثر بفضل العلامة التجارية وقنوات البيع والسيولة. في سوق ETF، الحجم يجلب التداول والسيولة، ثم يجذب مزيدا من المستثمرين.\n\n## لماذا تستمر الخسائر\n\nنحو 40% من شركات الإدارة لم تحقق أرباحا. المنافسة على الرسوم المنخفضة تضغط الهوامش، بينما تتحمل الشركات الصغيرة تكاليف التسويق والإدراج وتوفير السيولة والامتثال والرقابة الداخلية. من دون حجم كاف، يصعب بلوغ نقطة التعادل حتى في سوق صاعدة.\n\n## ما الذي يهم المستثمر\n\nانخفاض الرسوم مفيد، لكنه لا يكفي وحده. على مستثمر ETF فحص حجم الصندوق، التداول، خطأ التتبع، السيولة وقدرة مدير الأصول على الحفاظ على المنتج. استمرار تركز التدفقات في الصناديق الكبرى يعني بقاء الفجوة داخل القطاع.",
+        "keywords": [
+          "ETF كوريا",
+          "إدارة الأصول",
+          "ربح التشغيل",
+          "سوق ETF",
+          "رسوم ETF",
+          "خسائر شركات الإدارة",
+          "الأسهم الكورية",
+          "مديرو الأصول",
+          "مديرو الأصول في كوري"
+        ],
+        "faq": [
+          {
+            "q": "لماذا حقق القطاع ربحا قياسيا؟",
+            "a": "ارتفاع الأسهم الكورية ونمو أصول صناديق ETF رفعا الأصول المدارة وإيرادات الرسوم."
+          },
+          {
+            "q": "لماذا بقيت 4 من كل 10 شركات خاسرة؟",
+            "a": "ضغط الرسوم وتكاليف التوزيع والإدراج وضعف الحجم أثرت خصوصا في الشركات الصغيرة."
+          },
+          {
+            "q": "ما الذي يجب فحصه عند شراء ETF؟",
+            "a": "يجب النظر إلى الرسوم وحجم الأصول وحجم التداول وخطأ التتبع والسيولة وقوة المدير."
+          }
+        ]
+      },
+      "hi": {
+        "title": "कोरियाई एसेट मैनेजरों का पहली तिमाही परिचालन लाभ रिकॉर्ड, फिर भी 10 में 4 घाटे में",
+        "excerpt": "कोरियाई शेयर बाजार की तेजी और ETF बाजार विस्तार से पहली तिमाही में उद्योग का परिचालन लाभ रिकॉर्ड स्तर पर पहुंचा, लेकिन दस में चार कंपनियां घाटे में रहीं।",
+        "metaDescription": "कोरिया के एसेट मैनेजरों ने पहली तिमाही में रिकॉर्ड परिचालन लाभ कमाया, फिर भी 40% घाटे में रहे। ETF वृद्धि बड़े खिलाड़ियों में केंद्रित है।",
+        "summary": "कोरिया के एसेट मैनेजमेंट उद्योग ने पहली तिमाही में रिकॉर्ड तिमाही परिचालन लाभ दर्ज किया। घरेलू शेयर बाजार की तेजी और ETF परिसंपत्तियों की बढ़त ने मदद की। फिर भी करीब 40% कंपनियां घाटे में रहीं, क्योंकि कम शुल्क, वितरण लागत और पैमाने की कमी ने दबाव बनाया।",
+        "body": "कोरिया के एसेट मैनेजमेंट उद्योग ने पहली तिमाही में रिकॉर्ड परिचालन लाभ दर्ज किया, लेकिन पूरी तस्वीर संतुलित नहीं है। घरेलू शेयरों की तेजी और एक्सचेंज ट्रेडेड फंड यानी ETF बाजार के विस्तार से प्रबंधित परिसंपत्तियां बढ़ीं, फिर भी दस में चार एसेट मैनेजर घाटे में रहे।\n\n## ETF वृद्धि बड़े खिलाड़ियों को लाभ देती है\n\nरिटेल निवेशकों, रिटायरमेंट खातों और थीमैटिक उत्पादों से ETF में धन आया। मजबूत ब्रांड, बड़े उत्पाद समूह और वितरण नेटवर्क रखने वाली बड़ी कंपनियों ने अधिक लाभ उठाया। ETF बाजार में आकार से तरलता और कारोबार बढ़ता है, जो आगे और निवेश आकर्षित करता है।\n\n## घाटा क्यों जारी है\n\nकरीब 40% कंपनियां लाभ में नहीं आ सकीं। कम शुल्क की प्रतिस्पर्धा मार्जिन घटाती है। छोटी कंपनियों को मार्केटिंग, लिस्टिंग, तरलता, अनुपालन और आंतरिक नियंत्रण लागत उठानी पड़ती है। पर्याप्त पैमाना न हो तो तेजी वाला बाजार भी लाभ की गारंटी नहीं देता।\n\n## निवेशकों के लिए संकेत\n\nकम खर्च अच्छा है, पर वही एकमात्र कसौटी नहीं है। ETF चुनते समय परिसंपत्ति आकार, कारोबार, ट्रैकिंग एरर, तरलता और प्रबंधक की उत्पाद संभालने की क्षमता देखनी चाहिए। धन यदि शीर्ष ETF में केंद्रित रहा तो उद्योग में बड़े खिलाड़ियों की पकड़ और मजबूत होगी।",
+        "keywords": [
+          "कोरिया ETF",
+          "एसेट मैनेजर",
+          "परिचालन लाभ",
+          "ETF बाजार",
+          "ETF शुल्क",
+          "घाटे वाली कंपनियां",
+          "कोरियाई शेयर बाजार",
+          "एसेट मैनेजमेंट",
+          "कोरियाई एसेट मैनेजरो"
+        ],
+        "faq": [
+          {
+            "q": "उद्योग का लाभ रिकॉर्ड क्यों हुआ?",
+            "a": "कोरियाई शेयरों की तेजी और ETF परिसंपत्तियों की वृद्धि ने शुल्क आय और परिचालन लाभ बढ़ाया।"
+          },
+          {
+            "q": "दस में चार कंपनियां घाटे में क्यों रहीं?",
+            "a": "कम शुल्क, वितरण खर्च, उत्पाद लागत और पैमाने की कमी ने खासकर छोटी कंपनियों पर दबाव डाला।"
+          },
+          {
+            "q": "ETF चुनते समय क्या देखना चाहिए?",
+            "a": "शुल्क के साथ परिसंपत्ति आकार, कारोबार, ट्रैकिंग एरर, तरलता और प्रबंधक की क्षमता देखनी चाहिए।"
+          }
+        ]
+      },
+      "id": {
+        "title": "Manajer aset Korea cetak laba operasi rekor kuartal I, tetapi 4 dari 10 masih rugi",
+        "excerpt": "Kenaikan saham domestik dan ekspansi pasar ETF mendorong laba operasi kuartalan industri ke rekor baru, namun empat dari sepuluh manajer aset tetap merugi.",
+        "metaDescription": "Industri manajemen aset Korea mencetak laba operasi rekor pada kuartal I, tetapi 40% perusahaan merugi karena pertumbuhan ETF terkonsentrasi pada pemain besar.",
+        "summary": "Industri manajemen aset Korea membukukan laba operasi kuartalan tertinggi pada kuartal I. Kenaikan bursa domestik dan pertumbuhan ETF menjadi pendorong utama. Namun sekitar 40% perusahaan tetap merugi akibat perang biaya rendah, biaya distribusi dan kurangnya skala.",
+        "body": "Industri manajemen aset Korea mencatat laba operasi kuartalan tertinggi pada kuartal I, tetapi kinerja itu tidak merata. Kenaikan pasar saham domestik dan ekspansi exchange traded fund atau ETF meningkatkan aset kelolaan, sementara empat dari sepuluh manajer aset masih mencatat rugi.\n\n## Pertumbuhan ETF condong ke pemain besar\n\nDana dari investor ritel, rekening pensiun dan produk tematik mengalir ke ETF. Perusahaan besar menangkap porsi terbesar karena memiliki merek, jaringan distribusi dan likuiditas yang lebih kuat. Di pasar ETF, skala meningkatkan volume transaksi dan menarik arus dana baru.\n\n## Mengapa kerugian tetap terjadi\n\nSekitar 40% manajer aset belum mencetak laba. Persaingan biaya rendah menekan margin, sedangkan perusahaan kecil harus menanggung biaya pemasaran, pencatatan, penyediaan likuiditas, kepatuhan dan kontrol internal. Tanpa skala cukup, pasar bullish tidak otomatis menghasilkan profit.\n\n## Dampak bagi investor\n\nBiaya rendah menguntungkan, tetapi bukan satu-satunya ukuran. Investor ETF perlu memeriksa nilai aset, volume perdagangan, tracking error, likuiditas dan kemampuan manajer menjaga produk. Jika arus dana terus terkonsentrasi pada ETF besar, polarisasi industri kemungkinan berlanjut.",
+        "keywords": [
+          "ETF Korea",
+          "manajer aset",
+          "laba operasi",
+          "pasar ETF",
+          "biaya ETF",
+          "perusahaan rugi",
+          "bursa Korea",
+          "manajemen aset",
+          "Manajer aset Korea c"
+        ],
+        "faq": [
+          {
+            "q": "Mengapa laba industri mencetak rekor?",
+            "a": "Kenaikan saham Korea dan pertumbuhan aset ETF menaikkan aset kelolaan serta pendapatan biaya."
+          },
+          {
+            "q": "Mengapa 4 dari 10 perusahaan masih rugi?",
+            "a": "Tekanan biaya rendah, biaya distribusi, pemeliharaan produk dan kurangnya skala menekan profitabilitas."
+          },
+          {
+            "q": "Apa yang perlu dicek sebelum membeli ETF?",
+            "a": "Investor perlu melihat biaya, aset kelolaan, volume transaksi, tracking error, likuiditas dan kualitas manajer."
+          }
+        ]
+      }
+    }
+  },
+  {
     "id": "2f651b9061dd",
     "slug": "이찬진-삼전닉스-레버리지-etf-드러누워서라도-막았어야-623925",
     "channelId": "ETF",
@@ -5982,112 +6737,6 @@
           {
             "q": "국내 투자자에게 어떤 의미가 있나?",
             "a": "ETF와 RWA 토큰화가 결합하면 해외 실물자산 접근성, 결제 효율, 자산 기록 투명성이 높아질 수 있다. 다만 환율, 세금, 규제, 상품 구조 위험을 함께 확인해야 한다."
-          }
-        ]
-      }
-    }
-  },
-  {
-    "id": "0b7712529e26",
-    "slug": "삼성운용-kodex-ai반도체top2플러스-etf에-sk스퀘어-편입-450241",
-    "channelId": "ETF",
-    "category": "etf",
-    "publishedAt": "2026-06-16T00:33:29.641Z",
-    "updatedAt": "2026-06-16T00:33:29.641Z",
-    "sourceName": "",
-    "sourceUrl": "",
-    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260616035900008",
-    "titleFingerprint": "a3730eb6b3fd37adf59fd76e9b2b43a5d3270523",
-    "dedupKeys": [
-      "0b7712529e26bb5039d1538e3f8b675a34fc0f68",
-      "a3730eb6b3fd37adf59fd76e9b2b43a5d3270523",
-      "277e52c6d9ddf901be8e87addf42484de8c55167"
-    ],
-    "imageUrl": "/images/articles/0b7712529e26.jpg",
-    "i18n": {
-      "ko": {
-        "title": "KODEX AI반도체TOP2플러스 ETF, SK스퀘어 신규 편입으로 AI 반도체 밸류체인 확대",
-        "excerpt": "삼성자산운용은 16일 KODEX AI반도체TOP2플러스 ETF에 SK스퀘어를 새로 편입했다. AI 반도체 핵심 기업과 지주·투자 축을 함께 담아 국내 반도체 밸류체인 노출을 넓히려는 조치다.",
-        "metaDescription": "삼성자산운용이 KODEX AI반도체TOP2플러스 ETF에 SK스퀘어를 신규 편입했다. AI 반도체 ETF 구성 변화와 국내 투자자 영향, 시장 전망을 정리했다.",
-        "summary": "삼성자산운용이 KODEX AI반도체TOP2플러스 ETF에 SK스퀘어를 새로 편입했다. 이번 조정은 AI 반도체 핵심주 중심의 포트폴리오에 투자·지주 성격의 반도체 관련 기업을 더한 변화다. 국내 투자자는 단일 종목 직접 투자보다 ETF를 통해 AI 반도체 밸류체인에 분산 접근할 수 있다.",
-        "body": "삼성자산운용이 16일 KODEX AI반도체TOP2플러스 상장지수펀드(ETF)에 SK스퀘어[402340]를 신규 편입했다. 이번 편입은 국내 AI 반도체 투자 수요가 메모리, 고대역폭메모리(HBM), 반도체 장비·소재뿐 아니라 관련 지배구조와 투자회사까지 확장되는 흐름을 반영한다. KODEX AI반도체TOP2플러스 ETF는 국내 증시에 상장된 AI 반도체 관련 종목을 한 바구니에 담는 상품으로, 투자자는 개별 종목 선별 부담을 줄이면서 AI 반도체 업종의 주가 흐름에 참여할 수 있다.\n\n## SK스퀘어 편입 의미\nSK스퀘어는 종목코드 402340으로 거래되는 국내 상장사다. 이번 ETF 편입의 핵심은 AI 반도체 산업을 단순 제조 기업 중심으로만 보지 않고, 반도체 관련 자산과 투자 구조를 함께 반영한다는 점이다. AI 서버와 데이터센터 확산으로 고성능 반도체 수요가 커지면서 국내 증시에서는 반도체 대형주뿐 아니라 관련 지주·투자회사에 대한 관심도 높아졌다. ETF 구성 종목에 SK스퀘어가 추가되면 펀드는 기존 AI 반도체 핵심주 노출에 더해 반도체 생태계 전반의 주가 변화를 반영하는 폭을 넓히게 된다.\n\n## 국내 ETF 투자자에게 달라지는 점\nETF 투자자는 이번 편입으로 KODEX AI반도체TOP2플러스의 구성 방향을 다시 확인할 필요가 있다. 국내 상장 ETF는 원화로 사고팔 수 있어 해외 반도체 ETF에 비해 환전 절차가 단순하고, 국내 주식시장 거래 시간 안에서 매매가 가능하다. 다만 ETF도 주식처럼 가격 변동성이 있으며, AI 반도체 테마가 강하게 움직일수록 수익률과 손실 폭이 함께 커질 수 있다. SK스퀘어 편입은 특정 종목 하나의 단기 호재라기보다 ETF가 추종하는 반도체 테마의 범위를 넓히는 포트폴리오 조정으로 보는 것이 타당하다.\n\n구체적으로 확인해야 할 지표는 편입 이후 SK스퀘어의 실제 편입 비중, ETF 순자산 규모, 거래대금, 추적오차, 총보수다. 투자자는 상품명에 포함된 ‘AI반도체’와 ‘TOP2플러스’라는 키워드만 보고 접근하기보다 구성 종목과 비중 변화를 함께 점검해야 한다. 국내 ETF는 분산투자 장점이 있지만, 테마형 상품은 특정 산업의 실적 사이클과 투자심리에 민감하다.\n\n## AI 반도체 ETF 시장 전망\n국내 AI 반도체 ETF 시장은 당분간 반도체 업황, HBM 수요, 글로벌 빅테크의 AI 인프라 투자, 국내 대형 반도체 기업 실적 전망에 따라 변동성이 이어질 전망이다. SK스퀘어 편입은 AI 반도체 투자가 개별 제조사 중심에서 밸류체인과 자본 배분 구조까지 넓어지고 있음을 보여준다. 장기 투자자는 ETF의 리밸런싱 방향이 실제 산업 변화와 맞물리는지 확인해야 한다. 단기 투자자는 거래량과 괴리율을 점검해 매수·매도 가격이 순자산가치와 크게 벌어지지 않는지 살펴야 한다. 이번 편입으로 KODEX AI반도체TOP2플러스는 국내 AI 반도체 테마 ETF 경쟁에서 차별화된 구성 변화를 내세우게 됐다.",
-        "keywords": [
-          "KODEX AI반도체TOP2플러스",
-          "SK스퀘어",
-          "삼성자산운용",
-          "AI반도체 ETF",
-          "반도체 ETF",
-          "국내 ETF",
-          "SK스퀘어 402340",
-          "ETF 편입",
-          "AI 반도체 투자",
-          "KODEX AI반도체TOP2플러스 E"
-        ],
-        "faq": [
-          {
-            "q": "KODEX AI반도체TOP2플러스 ETF에 어떤 종목이 새로 편입됐나?",
-            "a": "삼성자산운용은 KODEX AI반도체TOP2플러스 ETF에 SK스퀘어[402340]를 신규 편입했다."
-          },
-          {
-            "q": "SK스퀘어 편입은 투자자에게 어떤 의미가 있나?",
-            "a": "AI 반도체 관련 노출이 반도체 제조 중심에서 관련 투자·지주 성격의 기업까지 확대됐다는 의미가 있다. 다만 ETF 수익률은 편입 비중과 시장 상황에 따라 달라진다."
-          },
-          {
-            "q": "KODEX AI반도체TOP2플러스 ETF 투자 시 무엇을 확인해야 하나?",
-            "a": "구성 종목, SK스퀘어 편입 비중, 순자산 규모, 거래대금, 총보수, 괴리율과 추적오차를 함께 확인해야 한다."
-          }
-        ]
-      }
-    }
-  },
-  {
-    "id": "415110fbc474",
-    "slug": "국내-우주항공기업-투자-sol-우주항공밸류체인-etf-상장-852077",
-    "channelId": "ETF",
-    "category": "etf",
-    "publishedAt": "2026-06-16T00:32:54.626Z",
-    "updatedAt": "2026-06-16T00:32:54.626Z",
-    "sourceName": "",
-    "sourceUrl": "",
-    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260616037000008",
-    "titleFingerprint": "71e1f713d38679bacd4fbccd1f6ef2a361ab2ee7",
-    "dedupKeys": [
-      "415110fbc474ec2aadadffbf420891e3be4cb6eb",
-      "71e1f713d38679bacd4fbccd1f6ef2a361ab2ee7",
-      "fd7c17e82d4904e8290f0e439f50b15c2cc2b583"
-    ],
-    "imageUrl": "/images/articles/415110fbc474.jpg",
-    "i18n": {
-      "ko": {
-        "title": "SOL 우주항공밸류체인 ETF 상장, 국내 우주항공 핵심 기업에 집중 투자",
-        "excerpt": "신한자산운용이 국내 우주항공 밸류체인 핵심 기업에 투자하는 SOL 우주항공밸류체인 ETF를 상장하며 위성, 발사체, 방산, 항공 부품 등 성장 산업에 대한 분산 투자 선택지를 넓혔다.",
-        "metaDescription": "SOL 우주항공밸류체인 ETF가 상장됐다. 국내 우주항공 핵심 기업에 투자하며 위성, 발사체, 방산, 항공 부품 밸류체인 성장에 대응한다.",
-        "summary": "신한자산운용의 SOL 우주항공밸류체인 ETF가 국내 증시에 상장됐다. 이 상품은 국내 우주항공 밸류체인 핵심 기업을 편입해 산업 성장에 투자하는 구조다. 우주항공은 위성, 발사체, 방산, 항공 부품이 맞물린 전략 산업으로 분류된다. 개인투자자는 개별 종목 위험을 줄이면서 관련 테마에 접근할 수 있다.",
-        "body": "SOL 우주항공밸류체인 ETF가 국내 증시에 상장되며 우주항공 산업에 투자하려는 개인투자자의 선택지가 넓어졌다. 이 상장지수펀드는 국내 우주항공 밸류체인 핵심 기업을 담아 위성, 발사체, 항공 부품, 방산 기술로 이어지는 산업 성장에 참여하는 상품이다. 개별 기업을 직접 고르기 어려운 투자자에게는 국내 우주항공 테마를 한 번에 담는 분산 투자 수단이 된다.\n\n## 국내 우주항공 밸류체인에 초점\n우주항공 산업은 단일 업종이 아니라 부품, 소재, 엔진, 통신, 관측, 방산, 발사체 기술이 결합된 복합 산업이다. 국내에서는 정부의 우주산업 육성 정책과 민간 기업의 기술 투자 확대가 맞물리며 관련 기업의 사업 기회가 커지고 있다. 특히 위성 제작과 운용, 항공기 부품, 방위산업 전자장비, 정밀 제조 역량을 가진 기업들이 밸류체인의 중심에 놓인다.\n\nSOL 우주항공밸류체인 ETF는 이런 구조적 변화에 맞춰 국내 핵심 기업군에 투자한다. 우주항공 기업은 기술 개발 기간이 길고 수주 변동성이 큰 편이지만, 산업이 성장 국면에 들어서면 장기 공급 계약과 정부 프로젝트를 통해 매출 기반을 확대할 수 있다. ETF 방식은 특정 기업의 실적 부진이나 주가 변동이 전체 투자 성과에 미치는 영향을 낮추는 장점이 있다.\n\n## 투자자가 봐야 할 수치와 구조\n국내 ETF 시장은 테마형 상품을 중심으로 빠르게 세분화되고 있다. 반도체, 2차전지, 인공지능에 이어 우주항공도 전략 산업형 ETF의 주요 축으로 부상했다. 투자자는 원화로 거래되는 국내 상장 ETF를 통해 환전 절차 없이 관련 기업에 투자할 수 있고, 일반 주식처럼 장중 매매가 가능하다. 국내 상장 상품인 만큼 거래세, 보수, 분배금 과세 등은 국내 ETF 세제와 계좌 유형에 따라 적용된다.\n\n우주항공 테마의 핵심 변수는 정부 예산, 민간 우주 프로젝트, 방산 수출, 위성 서비스 상용화 속도다. 발사체와 위성 제조는 초기 투자비가 크지만, 통신·관측·국방 데이터 수요가 늘수록 관련 부품과 장비 기업의 수혜 가능성이 커진다. 다만 테마형 ETF는 특정 산업에 집중하는 만큼 시장 금리, 정책 일정, 수주 지연, 기술 검증 결과에 따라 변동성이 확대될 수 있다.\n\n## 국내 투자자 영향과 전망\n이번 ETF 상장은 한국 우주항공 산업을 별도 투자 테마로 바라보는 흐름을 강화한다. 그동안 국내 투자자는 방산주나 항공 부품주를 개별적으로 매수하는 방식이 많았지만, ETF 상장으로 산업 밸류체인 전반에 분산 투자하는 접근이 쉬워졌다. 연금계좌나 중장기 투자 계좌에서 활용할 경우 특정 종목 편중을 줄이는 데도 도움이 된다.\n\n향후 성과는 국내 우주항공 기업의 실적 가시성과 정책 집행 속도에 좌우될 전망이다. 우주항공청을 중심으로 한 산업 육성, 위성 인프라 확대, 방산 수출 증가가 이어질 경우 관련 ETF에 대한 관심은 높아질 수 있다. 반대로 단기 주가 급등 뒤 실적 확인이 늦어지면 조정 압력도 나타날 수 있다. 투자자는 우주항공 성장성뿐 아니라 ETF의 구성 종목, 보수, 거래대금, 추적 지수 특성을 함께 확인해야 한다.",
-        "keywords": [
-          "SOL 우주항공밸류체인 ETF",
-          "우주항공 ETF",
-          "신한자산운용",
-          "국내 ETF",
-          "우주항공 밸류체인",
-          "위성 산업",
-          "발사체",
-          "방산 ETF",
-          "테마형 ETF",
-          "SOL 우주항공밸류체인 ETF 상장,"
-        ],
-        "faq": [
-          {
-            "q": "SOL 우주항공밸류체인 ETF는 어떤 상품인가요?",
-            "a": "국내 우주항공 밸류체인 핵심 기업에 투자하는 상장지수펀드입니다. 위성, 발사체, 항공 부품, 방산 관련 기업을 중심으로 산업 성장에 접근하는 구조입니다."
-          },
-          {
-            "q": "개별 우주항공주 투자와 무엇이 다른가요?",
-            "a": "개별 종목을 직접 고르는 방식보다 여러 관련 기업에 분산 투자할 수 있다는 점이 다릅니다. 다만 특정 산업에 집중하는 테마형 ETF이므로 산업 변동성은 존재합니다."
-          },
-          {
-            "q": "국내 투자자에게 어떤 의미가 있나요?",
-            "a": "원화로 국내 증시에서 거래할 수 있어 접근성이 높습니다. 우주항공 산업에 관심 있는 투자자는 개별 종목 편중을 줄이면서 관련 밸류체인에 투자할 수 있습니다."
           }
         ]
       }
