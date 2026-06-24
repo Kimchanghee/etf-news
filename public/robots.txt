@@ -19,9 +19,6 @@ Allow: /
 User-agent: Google-Extended
 Allow: /
 
-User-agent: Amazonbot
-Allow: /
-
 Sitemap: https://etfnewsdaily.online/sitemap.xml
 Host: etfnewsdaily.online
 IndexNow-Key: e6869881e904facf035a1ad4f88c0c4a
