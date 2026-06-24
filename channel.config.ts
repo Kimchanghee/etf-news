@@ -23,7 +23,7 @@ export const channel = {
     { slug: 'breaking', name: { ko: '속보', en: 'Breaking', ja: '速報', zh: '快讯', es: 'Última hora', pt: 'Última hora', de: 'Eilmeldung', fr: 'Dernières', ar: 'عاجل', hi: 'ब्रेकिंग', id: 'Terbaru' } },
     { slug: 'market',   name: { ko: '자금흐름', en: 'Flows', ja: '資金フロー', zh: '资金流', es: 'Flujos', pt: 'Fluxos', de: 'Mittelflüsse', fr: 'Flux', ar: 'التدفقات', hi: 'फ्लो', id: 'Aliran Dana' } },
     { slug: 'analysis', name: { ko: '분석', en: 'Analysis', ja: '分析', zh: '分析', es: 'Análisis', pt: 'Análise', de: 'Analyse', fr: 'Analyse', ar: 'تحليل', hi: 'विश्लेषण', id: 'Analisis' } },
-    { slug: 'launches', name: { ko: '신규샃품', en: 'New Launches', ja: '新規上場', zh: '新发行', es: 'Lanzamientos', pt: 'Lançamentos', de: 'Neue Produkte', fr: 'Lancements', ar: 'إطلاقات جديدة', hi: 'नई लॉन्च', id: 'Peluncuran Baru' } }
+    { slug: 'launches', name: { ko: '신규상품', en: 'New Launches', ja: '新規上場', zh: '新发行', es: 'Lanzamientos', pt: 'Lançamentos', de: 'Neue Produkte', fr: 'Lancements', ar: 'إطلاقات جديدة', hi: 'नई लॉन्च', id: 'Peluncuran Baru' } }
   ] as Category[]
 };
 export type ChannelConfig = typeof channel;
