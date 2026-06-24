@@ -6,7 +6,7 @@ export const channel = {
   name: 'ETF와이어',
   tagline: 'ETF·펀드·패시브 투자, 매일 5분으로',
   description: '국내외 ETF, 액티브/패시브 펀드, 인덱스 투자, 자금 흐름을 초등생도 이해할 수 있게 정리합니다.',
-  domain: 'etf-news.vercel.app',
+  domain: 'etfnewsdaily.online',
   accent: 'blue',
   keywords: ['ETF', '펀드', '패시브', '인덱스', '자금흐름', '자산배분'],
   geo: { country: 'KR', region: 'Asia', primaryCity: 'Seoul' },
