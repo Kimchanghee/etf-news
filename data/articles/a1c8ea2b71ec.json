@@ -1,0 +1,383 @@
+{
+  "id": "a1c8ea2b71ec",
+  "slug": "레버리지-etf-손보나금감원-운용사-소집-935088",
+  "channelId": "ETF",
+  "category": "etf",
+  "publishedAt": "2026-07-02T09:07:18.745Z",
+  "updatedAt": "2026-07-02T09:07:18.745Z",
+  "sourceName": "",
+  "sourceUrl": "",
+  "canonicalUrl": "https://www.hankyung.com/article/2026070227651",
+  "titleFingerprint": "3c23a938e14f79d2f9f576a9c77ffdcc9fbb65d5",
+  "dedupKeys": [
+    "a1c8ea2b71ec6b23f0872b67614c04d8e13dfbb2",
+    "3c23a938e14f79d2f9f576a9c77ffdcc9fbb65d5",
+    "33e0c1ddc21970e9dd8011a717369e2da31b4b46"
+  ],
+  "imageUrl": "/images/articles/a1c8ea2b71ec.png",
+  "i18n": {
+    "ko": {
+      "title": "레버리지 ETF 관리 강화 신호, 금감원 운용사 소집에 국내 개인투자자 보호와 시장 안정 논의 본격화",
+      "excerpt": "금융감독원이 최근 국내 자산운용사들을 불러 레버리지 ETF의 운용·판매 관리 체계를 점검하기 시작했다. 단기 고위험 상품으로 개인 자금이 빠르게 이동하면서 투자자 보호, 위험 고지, 유동성 관리, 시장 안정 장치가 핵심 의제로 떠올랐다. 국내 ETF 시장의 상품 출시 속도에도 영향이 예상된다.",
+      "metaDescription": "금감원이 운용사를 소집해 레버리지 ETF 관리 체계 점검에 들어갔다. 하루 2배 손익 구조, 장기 보유 위험, 개인투자자 보호 장치와 국내 ETF 시장 영향을 정리했다. 상승장 추격 매수와 변동성 확대 국면의 손실 가능성, 판매 설명 의무와 유동성 관리 쟁점도 함께 짚었다.",
+      "summary": "금융감독원이 국내 자산운용사들을 소집하면서 레버리지 ETF 관리 강화 논의가 본격화됐다. 하루 수익률의 2배를 추구하는 구조는 상승장에서는 매력적이지만 변동성이 커질수록 손실도 빠르게 확대된다. 점검의 초점은 상품 설계, 위험 고지, 유동성 관리, 개인투자자 보호 장치다. 국내 ETF 시장의 단기 매매 쏠림과 운용사의 파생상품 관리 역량도 함께 살펴볼 대목이다. 향후 신규 상품 심사와 판매 관행은 더 보수적으로 움직일 전망이다.",
+      "body": "금융감독원이 국내 자산운용사들을 소집하면서 레버리지 ETF에 대한 관리 강화가 현실적인 규제 의제로 올라섰다. 이번 점검의 결론은 명확하다. 레버리지 ETF를 곧바로 퇴출하기보다 상품 설계, 위험 고지, 유동성 관리, 판매 절차를 촘촘히 들여다보는 방향으로 논의가 움직이고 있다. 투자자 입장에서는 신규 상품 출시 속도와 거래 안내 문구, 증권사 매매 절차가 달라질 수 있는 사안이다.\n\n## 점검의 초점은 투자자 보호\n레버리지 ETF는 기초지수의 하루 수익률을 일정 배수로 추종하는 파생형 ETF다. 국내 상장 상품은 대체로 2배형과 인버스 2배형이 중심이며, 목표 수익률은 하루 단위로 계산된다. 기초지수가 하루 1% 오르면 2배형은 약 2% 상승을, 하루 1% 내리면 약 2% 하락을 목표로 한다. 반대로 인버스 2배형은 같은 폭을 반대 방향으로 반영한다. 이 구조는 시장 방향을 짧게 판단할 때는 효율적이지만 보유 기간이 길어지고 등락이 반복되면 누적 수익률이 기초지수의 단순 2배와 달라진다.\n\n## 왜 지금 레버리지 ETF인가\n최근 ETF 시장에서는 지수형, 테마형, 해외형 상품이 빠르게 늘었고 개인투자자의 단기 매매도 커졌다. 레버리지 ETF는 이름이 단순해 보이지만 실제 운용에는 선물 등 파생상품, 현금성 자산, 일일 리밸런싱이 결합된다. 1억원을 2배형 ETF에 넣은 투자자가 기초지수 하루 -10%를 맞으면 보수와 괴리율 변수를 제외해도 평가손실은 약 2000만원까지 커질 수 있다. 기초지수가 다음 날 10% 반등해도 ETF 손익은 원래 가격으로 자동 복구되지 않는다. 원화로 생활자금을 굴리는 국내 개인에게는 이 차이가 곧 계좌 변동성이다.\n\n## 시장 영향과 다음 단계\n운용사들은 레버리지 배율, 파생상품 증거금, 장 마감 리밸런싱, 유동성 공급자 운영, 괴리율 관리에 대한 설명 책임을 더 크게 안게 된다. 증권사 판매 화면에서는 장기 보유 부적합성, 일간 수익률 목표, 손실 확대 가능성을 더 분명히 드러내는 방식이 거론된다. 감독 방향은 일괄 금지보다 사전 심사와 사후 점검을 강화하는 쪽으로 좁혀질 전망이다. 투자자는 ETF 이름의 2배라는 숫자보다 기초지수, 환헤지 여부, 총보수, 괴리율, 거래량, 본인의 보유 기간을 먼저 확인해야 한다.",
+      "keywords": [
+        "레버리지 ETF",
+        "금감원",
+        "자산운용사",
+        "ETF 규제",
+        "개인투자자 보호",
+        "인버스 ETF",
+        "파생형 ETF",
+        "ETF 위험",
+        "국내 ETF 시장",
+        "레버리지 ETF 관리 강화 신호, 금"
+      ],
+      "faq": [
+        {
+          "q": "금감원이 왜 운용사를 소집했나요?",
+          "a": "레버리지 ETF의 상품 설계, 위험 고지, 유동성 관리, 개인투자자 보호 체계를 점검하기 위해서다."
+        },
+        {
+          "q": "레버리지 ETF가 일반 ETF와 다른 점은 무엇인가요?",
+          "a": "기초지수의 하루 수익률을 2배 또는 반대 방향 2배 등 배수로 추종한다. 장기 누적 수익률은 단순 배수와 달라질 수 있다."
+        },
+        {
+          "q": "투자자는 무엇을 확인해야 하나요?",
+          "a": "기초지수, 일간 목표 수익률, 환헤지 여부, 총보수, 괴리율, 거래량, 보유 기간을 확인해야 한다."
+        }
+      ]
+    },
+    "en": {
+      "title": "Leveraged ETF oversight tightens as Korea’s FSS summons asset managers",
+      "excerpt": "South Korea’s Financial Supervisory Service has recently called in domestic asset managers to review leveraged ETF operations, sales controls, liquidity management and investor protection as short-term speculative trading grows.",
+      "metaDescription": "Korea’s FSS is reviewing leveraged ETF controls with asset managers, focusing on 2x daily exposure, long-holding risk, disclosure, liquidity and retail investor protection.",
+      "summary": "Korea’s FSS has summoned domestic asset managers, putting leveraged ETF oversight on the regulatory agenda. These funds target multiples of daily index moves, often 2x, but losses can accelerate when volatility rises. The review centers on product design, risk disclosure, liquidity controls and safeguards for retail investors.",
+      "body": "The Financial Supervisory Service has called domestic asset managers together, making leveraged ETF controls a live regulatory issue in Korea. The immediate direction is not a blanket removal of products. The focus is tighter scrutiny of fund design, risk notices, liquidity management and sales procedures.\n\n## Investor Protection\nLeveraged ETFs are derivative-based funds that seek a multiple of a benchmark’s daily return. Korea-listed products are mostly 2x or inverse 2x structures. If the benchmark rises 1% in a day, a 2x ETF targets about 2%; if it falls 1%, the product targets about -2%. The inverse version moves in the opposite direction. That daily target matters because longer holding periods and repeated swings can make cumulative returns differ from a simple two-times calculation.\n\n## Market Impact\nThe review comes as ETF choices and short-term retail trading expand. A won 100 million position in a 2x ETF can lose roughly won 20 million when the underlying index falls 10% in one day, before fees and tracking gaps. A rebound the next day does not automatically restore the account. Asset managers now face closer questions on derivatives margins, daily rebalancing, market-maker support and premium-discount control. The likely path is stronger pre-review and post-listing checks rather than an outright ban.",
+      "keywords": [
+        "leveraged ETF",
+        "Korea FSS",
+        "asset managers",
+        "ETF regulation",
+        "retail investor protection",
+        "inverse ETF",
+        "derivative ETF",
+        "ETF risk",
+        "Korea ETF market",
+        "Leveraged ETF oversi"
+      ],
+      "faq": [
+        {
+          "q": "Why did the FSS summon asset managers?",
+          "a": "To examine leveraged ETF design, risk disclosure, liquidity controls and retail investor protection systems."
+        },
+        {
+          "q": "How is a leveraged ETF different from a regular ETF?",
+          "a": "It targets a multiple of the benchmark’s daily return, such as 2x or inverse 2x, so long-term results can diverge from a simple multiple."
+        },
+        {
+          "q": "What should investors check first?",
+          "a": "They should review the benchmark, daily target return, currency hedge, total fee, premium-discount level, trading volume and intended holding period."
+        }
+      ]
+    },
+    "ja": {
+      "title": "レバレッジETF管理強化へ、韓国金融監督院が運用会社を招集",
+      "excerpt": "韓国の金融監督院は国内運用会社を招集し、レバレッジETFの運用、販売、流動性管理、投資家保護体制の点検に入った。短期売買の拡大が背景にある。",
+      "metaDescription": "韓国金融監督院がレバレッジETF管理を点検。2倍の日次損益構造、長期保有リスク、販売説明、流動性管理、個人投資家保護を整理する。",
+      "summary": "韓国金融監督院が国内運用会社を招集し、レバレッジETFの管理強化が規制課題として浮上した。日次収益率の2倍を狙う構造は上昇局面で魅力がある一方、変動性が高まると損失も急拡大する。焦点は商品設計、リスク表示、流動性管理、個人投資家保護だ。",
+      "body": "韓国金融監督院が国内運用会社を招集し、レバレッジETFの管理強化が現実的な規制テーマとなった。直ちに商品を排除する流れではなく、商品設計、リスク告知、流動性管理、販売手続きの点検を強める方向だ。\n\n## 投資家保護が焦点\nレバレッジETFは基準指数の日次収益率を一定倍率で追随するデリバティブ型ETFだ。韓国上場商品は主に2倍型とインバース2倍型で、目標収益率は1日単位で計算される。指数が1日で1%上がれば2倍型は約2%上昇、1%下がれば約2%下落を目標にする。インバース2倍型は反対方向に動く。\n\n## 市場への影響\nETF商品が増え、個人の短期売買も拡大している。1億ウォンを2倍型ETFに投じた投資家は、基準指数が1日で10%下落すれば手数料や乖離を除いても約2000万ウォンの評価損を抱え得る。翌日に指数が反発しても損益は自動的に元へ戻らない。今後は日次リバランス、デリバティブ証拠金、マーケットメイク、乖離率管理への説明責任が重くなる見通しだ。",
+      "keywords": [
+        "レバレッジETF",
+        "韓国金融監督院",
+        "運用会社",
+        "ETF規制",
+        "個人投資家保護",
+        "インバースETF",
+        "デリバティブETF",
+        "ETFリスク",
+        "韓国ETF市場",
+        "レバレッジETF管理強化へ、韓国金融監督"
+      ],
+      "faq": [
+        {
+          "q": "なぜ運用会社が招集されたのですか?",
+          "a": "レバレッジETFの商品設計、リスク告知、流動性管理、個人投資家保護体制を点検するためだ。"
+        },
+        {
+          "q": "レバレッジETFは通常のETFと何が違いますか?",
+          "a": "基準指数の日次収益率を2倍または反対方向2倍などで追随するため、長期の累積収益率は単純な倍率と異なり得る。"
+        },
+        {
+          "q": "投資家は何を確認すべきですか?",
+          "a": "基準指数、日次目標収益率、為替ヘッジ、総費用、乖離率、売買代金、保有期間を確認すべきだ。"
+        }
+      ]
+    },
+    "zh": {
+      "title": "杠杆ETF监管升温，韩国金融监督院召集资管公司讨论投资者保护",
+      "excerpt": "韩国金融监督院近期召集国内资产管理公司，检查杠杆ETF的运作、销售、流动性管理和投资者保护体系。短线高风险交易升温成为核心背景。",
+      "metaDescription": "韩国金融监督院检查杠杆ETF管理体系，重点包括每日2倍收益结构、长期持有风险、销售说明、流动性管理与个人投资者保护。",
+      "summary": "韩国金融监督院召集国内资产管理公司后，杠杆ETF管理强化成为监管议题。此类产品通常追踪标的指数每日涨跌的2倍，市场上涨时吸引力较强，但波动加大时损失也会迅速扩大。检查重点是产品设计、风险揭示、流动性管理和个人投资者保护。",
+      "body": "韩国金融监督院召集国内资产管理公司，使杠杆ETF管理强化进入实际监管议程。当前方向并非立即清退产品，而是更细致地检查产品设计、风险提示、流动性管理和销售流程。\n\n## 投资者保护成为重点\n杠杆ETF是以衍生品为基础、追踪标的指数每日收益率倍数的ETF。韩国上市产品多为2倍型和反向2倍型，目标收益按日计算。若标的指数单日上涨1%，2倍型产品目标上涨约2%；若下跌1%，目标下跌约2%。反向2倍型则朝相反方向变动。由于目标是每日收益，长期持有且市场反复震荡时，累计收益可能偏离指数简单2倍。\n\n## 对市场的影响\n随着ETF品种增加，个人投资者短线交易也在扩大。若投资者以1亿韩元买入2倍型ETF，标的指数单日下跌10%，不计费用和折溢价，账面亏损也可能接近2000万韩元。次日指数反弹并不代表账户自动恢复。资管公司将面临更严格的衍生品保证金、日内再平衡、流动性供给和折溢价管理要求。",
+      "keywords": [
+        "杠杆ETF",
+        "韩国金融监督院",
+        "资产管理公司",
+        "ETF监管",
+        "个人投资者保护",
+        "反向ETF",
+        "衍生品ETF",
+        "ETF风险",
+        "韩国ETF市场",
+        "杠杆ETF监管升温，韩国金融监督院召集资"
+      ],
+      "faq": [
+        {
+          "q": "韩国金融监督院为何召集资管公司?",
+          "a": "为检查杠杆ETF的产品设计、风险揭示、流动性管理和个人投资者保护体系。"
+        },
+        {
+          "q": "杠杆ETF与普通ETF有何不同?",
+          "a": "杠杆ETF追踪标的指数每日收益率的倍数，例如2倍或反向2倍，长期累计收益可能不同于简单倍数。"
+        },
+        {
+          "q": "投资者应先看哪些指标?",
+          "a": "应查看标的指数、每日目标收益率、汇率对冲、总费用、折溢价、成交量和计划持有期限。"
+        }
+      ]
+    },
+    "es": {
+      "title": "Corea endurece la revisión de ETF apalancados tras convocar a gestoras",
+      "excerpt": "El supervisor financiero de Corea del Sur llamó recientemente a gestoras locales para revisar la operación, venta, liquidez y protección al inversor en ETF apalancados ante el aumento del trading de corto plazo.",
+      "metaDescription": "Corea revisa los controles de ETF apalancados: exposición diaria 2x, riesgo de mantenerlos por más tiempo, información de venta, liquidez y protección minorista.",
+      "summary": "El supervisor financiero surcoreano convocó a gestoras locales y puso los ETF apalancados en el centro de la agenda regulatoria. Estos productos buscan múltiplos del movimiento diario de un índice, a menudo 2x, pero las pérdidas pueden crecer rápido con la volatilidad. La revisión apunta a diseño, advertencias de riesgo, liquidez y protección del inversor mi",
+      "body": "El supervisor financiero de Corea del Sur convocó a gestoras locales, elevando el control de los ETF apalancados a un asunto regulatorio inmediato. La dirección no apunta a retirar todos los productos, sino a revisar con más detalle el diseño, las advertencias de riesgo, la liquidez y los procesos de venta.\n\n## Protección al inversor\nUn ETF apalancado busca replicar un múltiplo del rendimiento diario de un índice. En Corea predominan estructuras 2x e inversas 2x. Si el índice sube 1% en un día, un producto 2x apunta a subir cerca de 2%; si cae 1%, apunta a bajar cerca de 2%. La versión inversa se mueve en sentido contrario. Como el objetivo es diario, el retorno acumulado puede alejarse de un simple doble cuando hay oscilaciones repetidas.\n\n## Impacto local\nCon más ETF listados y mayor negociación minorista de corto plazo, el riesgo en cuentas en won es directo. Una posición de 100 millones de won en un ETF 2x puede perder cerca de 20 millones de won si el índice cae 10% en una sesión, antes de comisiones y brechas de seguimiento. Las gestoras deberán explicar mejor márgenes de derivados, rebalanceo diario, liquidez y control de desviaciones.",
+      "keywords": [
+        "ETF apalancado",
+        "supervisor financiero Corea",
+        "gestoras de activos",
+        "regulación ETF",
+        "protección minorista",
+        "ETF inverso",
+        "ETF de derivados",
+        "riesgo ETF",
+        "mercado ETF coreano",
+        "Corea endurece la re"
+      ],
+      "faq": [
+        {
+          "q": "¿Por qué fueron convocadas las gestoras?",
+          "a": "Para revisar diseño de productos, advertencias de riesgo, liquidez y sistemas de protección para inversores minoristas."
+        },
+        {
+          "q": "¿Qué diferencia a un ETF apalancado?",
+          "a": "Busca un múltiplo del rendimiento diario del índice, como 2x o inverso 2x, por lo que el resultado de largo plazo puede desviarse."
+        },
+        {
+          "q": "¿Qué debe revisar el inversor?",
+          "a": "Índice subyacente, objetivo diario, cobertura cambiaria, costo total, desviación de precio, volumen y plazo de tenencia."
+        }
+      ]
+    },
+    "pt": {
+      "title": "Coreia amplia controle de ETFs alavancados após convocar gestoras locais",
+      "excerpt": "O supervisor financeiro da Coreia do Sul convocou gestoras locais para revisar operação, venda, liquidez e proteção ao investidor em ETFs alavancados, em meio ao avanço das negociações de curto prazo.",
+      "metaDescription": "Coreia revisa controles de ETFs alavancados: exposição diária 2x, risco de longo prazo, divulgação de venda, liquidez e proteção ao investidor pessoa física.",
+      "summary": "O supervisor financeiro sul-coreano convocou gestoras locais e colocou os ETFs alavancados na agenda regulatória. Esses produtos buscam múltiplos do retorno diário de um índice, normalmente 2x, mas perdas podem acelerar em períodos voláteis. A revisão mira desenho do produto, alerta de risco, liquidez e proteção ao investidor de varejo.",
+      "body": "O supervisor financeiro da Coreia do Sul convocou gestoras domésticas, transformando o controle de ETFs alavancados em tema regulatório imediato. A direção não indica retirada ampla de produtos, mas uma análise mais rígida de desenho, avisos de risco, liquidez e procedimentos de venda.\n\n## Proteção ao investidor\nETFs alavancados buscam um múltiplo do retorno diário de um índice. Na Coreia, predominam estruturas 2x e inversas 2x. Se o índice sobe 1% no dia, o ETF 2x mira cerca de 2%; se cai 1%, mira cerca de -2%. A versão inversa se move na direção oposta. Como a meta é diária, o retorno acumulado pode se afastar do dobro simples quando há oscilações sucessivas.\n\n## Efeito no mercado\nCom mais ETFs e mais operações curtas de pessoas físicas, o risco aparece diretamente nas contas em won. Uma aplicação de 100 milhões de won em um ETF 2x pode perder perto de 20 milhões de won se o índice cair 10% em uma sessão, antes de taxas e desvios. Gestoras terão de explicar melhor margem de derivativos, rebalanceamento diário, liquidez e controle de ágio ou deságio.",
+      "keywords": [
+        "ETF alavancado",
+        "supervisor financeiro Coreia",
+        "gestoras de ativos",
+        "regulação de ETF",
+        "proteção ao investidor",
+        "ETF inverso",
+        "ETF de derivativos",
+        "risco de ETF",
+        "mercado coreano de ETFs",
+        "Coreia amplia contro"
+      ],
+      "faq": [
+        {
+          "q": "Por que as gestoras foram convocadas?",
+          "a": "Para revisar desenho de produto, divulgação de riscos, liquidez e proteção ao investidor de varejo em ETFs alavancados."
+        },
+        {
+          "q": "Qual é a diferença de um ETF alavancado?",
+          "a": "Ele busca um múltiplo do retorno diário do índice, como 2x ou inverso 2x, e o retorno acumulado pode divergir."
+        },
+        {
+          "q": "O que o investidor deve verificar?",
+          "a": "Índice de referência, meta diária, hedge cambial, custo total, ágio ou deságio, volume negociado e prazo de manutenção."
+        }
+      ]
+    },
+    "de": {
+      "title": "Korea verschärft Blick auf gehebelte ETFs und ruft Asset Manager zusammen",
+      "excerpt": "Die südkoreanische Finanzaufsicht hat heimische Asset Manager einbestellt, um Betrieb, Vertrieb, Liquidität und Anlegerschutz bei gehebelten ETFs zu prüfen. Hintergrund ist wachsender Kurzfristhandel.",
+      "metaDescription": "Korea prüft gehebelte ETFs strenger: tägliche 2x-Struktur, Halterisiken, Vertriebsinformationen, Liquidität und Schutz privater Anleger stehen im Fokus.",
+      "summary": "Die südkoreanische Finanzaufsicht hat heimische Asset Manager zusammengerufen und gehebelte ETFs auf die Regulierungsagenda gesetzt. Produkte mit täglichem 2x-Ziel können in steigenden Märkten attraktiv wirken, vergrößern Verluste aber bei hoher Volatilität schnell. Geprüft werden Produktdesign, Risikohinweise, Liquidität und Privatanlegerschutz.",
+      "body": "Die südkoreanische Finanzaufsicht hat inländische Asset Manager zusammengerufen. Damit wird die Kontrolle gehebelter ETFs zu einem konkreten Regulierungsthema. Es geht nicht um ein sofortiges pauschales Verbot, sondern um strengere Prüfungen von Produktdesign, Risikohinweisen, Liquidität und Vertriebsprozessen.\n\n## Schutz der Anleger\nGehebelte ETFs verfolgen ein Vielfaches der täglichen Indexrendite. In Korea dominieren 2x- und inverse 2x-Strukturen. Steigt der Index an einem Tag um 1%, zielt ein 2x-ETF auf etwa 2%; fällt er um 1%, liegt das Ziel bei etwa -2%. Die inverse Variante bewegt sich entgegengesetzt. Weil das Ziel täglich gilt, kann die kumulierte Rendite bei längerer Haltedauer und Schwankungen deutlich vom einfachen Doppelten abweichen.\n\n## Folgen für den Markt\nMit mehr ETF-Produkten wächst auch der kurzfristige Handel privater Anleger. Bei 100 Mio. Won Einsatz in einem 2x-ETF kann ein Tagesverlust des Index von 10% rund 20 Mio. Won Buchverlust bedeuten, Gebühren und Abweichungen ausgenommen. Asset Manager müssen Derivatemargen, tägliches Rebalancing, Liquidität und Preisabweichungen künftig klarer erklären.",
+      "keywords": [
+        "gehebelte ETFs",
+        "koreanische Finanzaufsicht",
+        "Asset Manager",
+        "ETF Regulierung",
+        "Privatanlegerschutz",
+        "inverse ETFs",
+        "Derivate ETF",
+        "ETF Risiko",
+        "ETF Markt Korea",
+        "Korea verschärft Bli"
+      ],
+      "faq": [
+        {
+          "q": "Warum wurden Asset Manager einbestellt?",
+          "a": "Zur Prüfung von Produktdesign, Risikohinweisen, Liquiditätssteuerung und Schutz privater Anleger bei gehebelten ETFs."
+        },
+        {
+          "q": "Was unterscheidet gehebelte ETFs von normalen ETFs?",
+          "a": "Sie zielen auf ein Vielfaches der täglichen Indexrendite, etwa 2x oder invers 2x; langfristige Ergebnisse können abweichen."
+        },
+        {
+          "q": "Was sollten Anleger prüfen?",
+          "a": "Index, tägliches Renditeziel, Währungsabsicherung, Gesamtkosten, Preisabweichung, Handelsvolumen und Haltedauer."
+        }
+      ]
+    },
+    "fr": {
+      "title": "La Corée resserre l’examen des ETF à effet de levier après avoir convoqué les gérants",
+      "excerpt": "Le superviseur financier sud-coréen a convoqué des sociétés de gestion locales pour examiner fonctionnement, vente, liquidité et protection des investisseurs dans les ETF à effet de levier.",
+      "metaDescription": "La Corée examine les ETF à effet de levier: exposition quotidienne 2x, risque de détention longue, information de vente, liquidité et protection des particuliers.",
+      "summary": "Le superviseur financier sud-coréen a réuni des gérants locaux, plaçant les ETF à effet de levier au cœur de l’agenda réglementaire. Ces fonds visent souvent deux fois la performance quotidienne d’un indice, mais les pertes peuvent s’accélérer en période volatile. L’examen porte sur la conception, l’information sur les risques, la liquidité et la protection ",
+      "body": "Le superviseur financier sud-coréen a convoqué des sociétés de gestion nationales, faisant du contrôle des ETF à effet de levier un sujet réglementaire immédiat. La ligne retenue n’est pas un retrait généralisé des produits, mais un examen plus strict de leur conception, des avertissements de risque, de la liquidité et des procédures de vente.\n\n## Protection des investisseurs\nUn ETF à effet de levier cherche à reproduire un multiple de la performance quotidienne d’un indice. En Corée, les produits 2x et inverses 2x dominent. Si l’indice gagne 1% en une séance, un ETF 2x vise environ 2%; s’il perd 1%, il vise environ -2%. La version inverse évolue dans le sens opposé. Comme l’objectif est quotidien, la performance cumulée peut s’écarter d’un simple double en cas de détention prolongée et de marchés agités.\n\n## Impact de marché\nLa multiplication des ETF et le trading court des particuliers augmentent l’enjeu. Un placement de 100 millions de wons dans un ETF 2x peut perdre près de 20 millions de wons si l’indice recule de 10% en une journée, hors frais et écarts de suivi. Les gérants devront mieux expliquer marges sur dérivés, rééquilibrage quotidien, liquidité et contrôle des écarts de prix.",
+      "keywords": [
+        "ETF à effet de levier",
+        "superviseur financier coréen",
+        "sociétés de gestion",
+        "réglementation ETF",
+        "protection des particuliers",
+        "ETF inverse",
+        "ETF dérivés",
+        "risque ETF",
+        "marché ETF coréen",
+        "La Corée resserre l’"
+      ],
+      "faq": [
+        {
+          "q": "Pourquoi les gérants ont-ils été convoqués?",
+          "a": "Pour examiner la conception des ETF à effet de levier, les avertissements de risque, la liquidité et la protection des particuliers."
+        },
+        {
+          "q": "En quoi un ETF à effet de levier diffère-t-il?",
+          "a": "Il vise un multiple de la performance quotidienne de l’indice, comme 2x ou inverse 2x, avec un résultat cumulé parfois différent."
+        },
+        {
+          "q": "Que doit vérifier un investisseur?",
+          "a": "L’indice, l’objectif quotidien, la couverture de change, les frais totaux, l’écart de prix, le volume et la durée de détention."
+        }
+      ]
+    },
+    "ar": {
+      "title": "كوريا تشدد مراجعة صناديق ETF ذات الرافعة بعد استدعاء مديري الأصول",
+      "excerpt": "استدعت الرقابة المالية في كوريا الجنوبية مديري أصول محليين لمراجعة تشغيل وبيع وسيولة صناديق ETF ذات الرافعة وآليات حماية المستثمرين مع نمو التداول قصير الأجل.",
+      "metaDescription": "كوريا تراجع صناديق ETF ذات الرافعة: تعرض يومي 2x، مخاطر الاحتفاظ الطويل، إفصاح البيع، السيولة وحماية المستثمر الفردي.",
+      "summary": "وضعت الرقابة المالية في كوريا الجنوبية صناديق ETF ذات الرافعة على جدول التنظيم بعد جمع مديري الأصول المحليين. هذه الصناديق تستهدف غالبا ضعفي حركة المؤشر اليومية، لكنها تضخم الخسائر عند ارتفاع التقلب. محور المراجعة هو تصميم المنتج، الإفصاح عن المخاطر، إدارة السيولة وحماية المستثمرين الأفراد.",
+      "body": "استدعت الرقابة المالية في كوريا الجنوبية مديري الأصول المحليين، ما جعل ضبط صناديق ETF ذات الرافعة ملفا تنظيميا مباشرا. الاتجاه الحالي ليس حظرا شاملا، بل فحصا أدق لتصميم المنتج، تحذيرات المخاطر، إدارة السيولة وإجراءات البيع.\n\n## حماية المستثمر\nصندوق ETF ذو الرافعة يتتبع مضاعفا للعائد اليومي لمؤشر مرجعي. في السوق الكورية تتركز المنتجات في هياكل 2x وعكسية 2x. إذا ارتفع المؤشر 1% في يوم واحد يستهدف صندوق 2x صعودا يقارب 2%، وإذا هبط 1% يستهدف هبوطا يقارب 2%. أما المنتج العكسي فيتحرك بالاتجاه المقابل. لأن الهدف يومي، قد تختلف النتيجة المتراكمة عن ضعف المؤشر عند الاحتفاظ لفترة أطول ومع تكرار التقلبات.\n\n## الأثر في السوق\nتوسع عدد صناديق ETF وزاد تداول الأفراد قصير الأجل. استثمار 100 مليون وون في صندوق 2x قد يخسر نحو 20 مليون وون إذا هبط المؤشر 10% في جلسة واحدة، قبل الرسوم وفجوات التتبع. لذلك ستزداد مسؤولية المديرين في شرح هوامش المشتقات، إعادة التوازن اليومية، توفير السيولة وفروق السعر عن صافي القيمة.",
+      "keywords": [
+        "ETF ذات الرافعة",
+        "الرقابة المالية الكورية",
+        "مديرو الأصول",
+        "تنظيم ETF",
+        "حماية المستثمر الفردي",
+        "ETF عكسي",
+        "ETF مشتقات",
+        "مخاطر ETF",
+        "سوق ETF الكوري",
+        "كوريا تشدد مراجعة صن"
+      ],
+      "faq": [
+        {
+          "q": "لماذا تم استدعاء مديري الأصول؟",
+          "a": "لفحص تصميم صناديق ETF ذات الرافعة، إفصاح المخاطر، ضوابط السيولة ونظام حماية المستثمرين الأفراد."
+        },
+        {
+          "q": "ما الفرق بين ETF ذي الرافعة وETF العادي؟",
+          "a": "يتتبع مضاعفا للعائد اليومي للمؤشر مثل 2x أو عكسي 2x، لذلك قد تختلف النتيجة الطويلة عن المضاعف البسيط."
+        },
+        {
+          "q": "ما الذي يجب أن يراجعه المستثمر؟",
+          "a": "المؤشر المرجعي، الهدف اليومي، التحوط من العملة، الرسوم الكلية، فرق السعر، حجم التداول وفترة الاحتفاظ."
+        }
+      ]
+    },
+    "hi": {
+      "title": "दक्षिण कोरिया में लीवरेज ETF जांच तेज, नियामक ने एसेट मैनेजरों को बुलाया",
+      "excerpt": "दक्षिण कोरिया के वित्तीय पर्यवेक्षक ने घरेलू एसेट मैनेजरों को बुलाकर लीवरेज ETF के संचालन, बिक्री, तरलता और निवेशक सुरक्षा ढांचे की समीक्षा शुरू की है।",
+      "metaDescription": "कोरिया में लीवरेज ETF नियंत्रण की समीक्षा तेज: दैनिक 2x जोखिम, लंबी अवधि होल्डिंग खतरा, बिक्री खुलासा, तरलता और रिटेल निवेशक सुरक्षा।",
+      "summary": "दक्षिण कोरिया के वित्तीय पर्यवेक्षक ने घरेलू एसेट मैनेजरों को बुलाकर लीवरेज ETF को नियामकीय एजेंडा बना दिया है। ये उत्पाद अक्सर सूचकांक की दैनिक चाल का 2 गुना लक्ष्य रखते हैं, लेकिन अस्थिरता बढ़ने पर नुकसान तेजी से बढ़ सकता है। जांच का केंद्र उत्पाद डिजाइन, जोखिम खुलासा, तरलता प्रबंधन और रिटेल निवेशक सुरक्षा है।",
+      "body": "दक्षिण कोरिया के वित्तीय पर्यवेक्षक ने घरेलू एसेट मैनेजरों को बुलाया है, जिससे लीवरेज ETF नियंत्रण एक सक्रिय नियामकीय मुद्दा बन गया है। दिशा अभी व्यापक प्रतिबंध की नहीं, बल्कि उत्पाद डिजाइन, जोखिम चेतावनी, तरलता और बिक्री प्रक्रिया की सख्त समीक्षा की है।\n\n## निवेशक सुरक्षा\nलीवरेज ETF किसी सूचकांक के दैनिक रिटर्न के गुणक को लक्ष्य करता है। कोरिया में अधिकतर उत्पाद 2x या इनवर्स 2x संरचना वाले हैं। सूचकांक एक दिन में 1% बढ़े तो 2x ETF लगभग 2% बढ़ने का लक्ष्य रखता है; 1% गिरावट पर लगभग 2% गिरावट का लक्ष्य होता है। इनवर्स 2x विपरीत दिशा में चलता है। लक्ष्य दैनिक होने के कारण लंबी होल्डिंग और बार-बार उतार-चढ़ाव में कुल रिटर्न साधारण दोगुने से अलग हो सकता है।\n\n## बाजार असर\nETF की संख्या और रिटेल शॉर्ट-टर्म ट्रेडिंग बढ़ी है। 2x ETF में 10 करोड़ वोन की पोजिशन पर यदि सूचकांक एक दिन में 10% गिरता है तो शुल्क और ट्रैकिंग अंतर से पहले भी करीब 2 करोड़ वोन का नुकसान हो सकता है। एसेट मैनेजरों को डेरिवेटिव मार्जिन, दैनिक रीबैलेंसिंग, तरलता और प्रीमियम-डिस्काउंट नियंत्रण को अधिक स्पष्ट करना होगा।",
+      "keywords": [
+        "लीवरेज ETF",
+        "कोरिया वित्तीय पर्यवेक्षक",
+        "एसेट मैनेजर",
+        "ETF नियमन",
+        "रिटेल निवेशक सुरक्षा",
+        "इनवर्स ETF",
+        "डेरिवेटिव ETF",
+        "ETF जोखिम",
+        "कोरिया ETF बाजार",
+        "दक्षिण कोरिया में ली"
+      ],
+      "faq": [
+        {
+          "q": "एसेट मैनेजरों को क्यों बुलाया गया?",
+          "a": "लीवरेज ETF के उत्पाद डिजाइन, जोखिम खुलासे, तरलता नियंत्रण और रिटेल निवेशक सुरक्षा की समीक्षा के लिए।"
+        },
+        {
+          "q": "लीवरेज ETF सामान्य ETF से कैसे अलग है?",
+          "a": "यह सूचकांक के दैनिक रिटर्न का गुणक, जैसे 2x या इनवर्स 2x, लक्ष्य करता है; लंबी अवधि का नतीजा अलग हो सकता है।"
+        },
+        {
+          "q": "निवेशक को क्या देखना चाहिए?",
+          "a": "आधार सूचकांक, दैनिक लक्ष्य, मुद्रा हेज, कुल शुल्क, प्रीमियम-डिस्काउंट, ट्रेडिंग वॉल्यूम और होल्डिंग अवधि।"
+        }
+      ]
+    },
+    "id": {
+      "title": "Korea Perketat Pengawasan ETF Leveraged Setelah Memanggil Manajer Aset",
+      "excerpt": "Otoritas pengawas keuangan Korea Selatan memanggil manajer aset domestik untuk meninjau operasi, penjualan, likuiditas dan perlindungan investor pada ETF leveraged di tengah naiknya perdagangan jangka pendek.",
+      "metaDescription": "Korea meninjau kontrol ETF leveraged: eksposur harian 2x, risiko memegang lama, informasi penjualan, likuiditas dan perlindungan investor ritel.",
+      "summary": "Otoritas pengawas keuangan Korea Selatan memanggil manajer aset domestik dan menempatkan ETF leveraged dalam agenda regulasi. Produk ini mengejar kelipatan pergerakan harian indeks, sering kali 2x, tetapi kerugian dapat membesar saat volatilitas naik. Fokusnya adalah desain produk, peringatan risiko, likuiditas dan perlindungan investor ritel.",
+      "body": "Otoritas pengawas keuangan Korea Selatan memanggil manajer aset domestik, membuat pengendalian ETF leveraged menjadi isu regulasi langsung. Arah kebijakan bukan penghapusan menyeluruh, melainkan pemeriksaan lebih ketat atas desain produk, peringatan risiko, pengelolaan likuiditas dan proses penjualan.\n\n## Perlindungan Investor\nETF leveraged menargetkan kelipatan imbal hasil harian suatu indeks. Di Korea, produk yang dominan adalah struktur 2x dan inverse 2x. Jika indeks naik 1% dalam sehari, ETF 2x menargetkan kenaikan sekitar 2%; jika turun 1%, targetnya sekitar -2%. Produk inverse bergerak berlawanan. Karena targetnya harian, hasil kumulatif dapat berbeda dari dua kali indeks saat periode simpan lebih panjang dan pasar berayun.\n\n## Dampak Pasar\nJumlah ETF meningkat dan perdagangan jangka pendek investor ritel makin besar. Posisi 100 juta won pada ETF 2x dapat kehilangan sekitar 20 juta won jika indeks dasar turun 10% dalam satu sesi, sebelum biaya dan selisih pelacakan. Manajer aset akan menghadapi tuntutan penjelasan lebih kuat soal margin derivatif, rebalancing harian, dukungan likuiditas dan kontrol premium-diskon.",
+      "keywords": [
+        "ETF leveraged",
+        "otoritas keuangan Korea",
+        "manajer aset",
+        "regulasi ETF",
+        "perlindungan investor ritel",
+        "ETF inverse",
+        "ETF derivatif",
+        "risiko ETF",
+        "pasar ETF Korea",
+        "Korea Perketat Penga"
+      ],
+      "faq": [
+        {
+          "q": "Mengapa manajer aset dipanggil?",
+          "a": "Untuk meninjau desain ETF leveraged, pengungkapan risiko, kontrol likuiditas dan sistem perlindungan investor ritel."
+        },
+        {
+          "q": "Apa beda ETF leveraged dengan ETF biasa?",
+          "a": "ETF leveraged menargetkan kelipatan imbal hasil harian indeks, seperti 2x atau inverse 2x, sehingga hasil jangka panjang bisa berbeda."
+        },
+        {
+          "q": "Apa yang perlu diperiksa investor?",
+          "a": "Indeks acuan, target harian, lindung nilai mata uang, total biaya, premium-diskon, volume perdagangan dan rencana periode simpan."
+        }
+      ]
+    }
+  }
+}
