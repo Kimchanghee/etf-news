@@ -1,5 +1,749 @@
 [
   {
+    "id": "51d0ed748c7f",
+    "slug": "하이닉스-adr-2배-etf-출시-미뤄라美sec-뜬금요구-이유가-753999",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-07-13T08:43:17.841Z",
+    "updatedAt": "2026-07-13T08:43:17.841Z",
+    "sourceName": "",
+    "sourceUrl": "",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12096849",
+    "titleFingerprint": "c9987572f603201acaf832fb8932f908c93f3caa",
+    "dedupKeys": [
+      "51d0ed748c7f780f152070d763b23789e4193056",
+      "c9987572f603201acaf832fb8932f908c93f3caa",
+      "dac4c8ab45c0469ded28101b2e9adafcf103ea14"
+    ],
+    "imageUrl": "/images/articles/51d0ed748c7f.png",
+    "i18n": {
+      "ko": {
+        "title": "SK하이닉스 ADR 2배 ETF 출시 하루 연기, SEC가 본 변동성 리스크",
+        "excerpt": "미국 SEC 요구로 SK하이닉스 ADR을 기초자산으로 삼는 2배 레버리지 ETF 출시가 13일에서 14일로 하루 밀렸다. 신규 상장 종목의 단기 변동성 확대 우려가 핵심 배경이다.",
+        "metaDescription": "SK하이닉스 ADR 2배 ETF 출시가 SEC 요구로 하루 연기됐다. 레버리지 ETF, 신규 상장주 변동성, 국내 투자자 영향과 전망을 정리했다.",
+        "summary": "SK하이닉스 ADR 2배 ETF 출시 일정이 13일에서 14일로 조정됐다. 미국 SEC는 신규 상장 종목을 기초자산으로 한 레버리지 상품이 초기 거래 변동성을 키울 수 있다고 판단했다. 스페이스X 관련 2배 ETF 사례에서도 유사한 출시 지연이 있었다. 국내 투자자는 환율, 괴리율, 레버리지 손실 구조를 함께 봐야 한다.",
+        "body": "SK하이닉스 ADR을 기초자산으로 하는 미국 2배 레버리지 ETF 출시가 하루 늦춰졌다. 당초 자산운용사는 13일 상장을 준비했으나 미국 증권거래위원회(SEC)의 요구가 들어오면서 출시일을 14일로 조정했다. 핵심은 상품 자체의 적격성보다 상장 초기 가격 형성 과정에서 레버리지 ETF가 변동성을 증폭할 수 있다는 우려다. 반도체와 인공지능(AI) 메모리 투자 열기가 강한 상황에서 SK하이닉스 ADR 2배 ETF는 국내외 개인투자자의 관심을 동시에 받을 수 있는 상품이다.\n\n## SEC가 제동 건 이유\n2배 ETF는 하루 수익률을 기초자산의 두 배로 추종하도록 설계된다. SK하이닉스 ADR이 하루 5% 오르면 ETF는 비용과 추적 오차를 제외하고 약 10% 상승을 목표로 한다. 반대로 ADR이 5% 하락하면 ETF 손실 목표도 약 10%가 된다. 문제는 신규 상장 또는 거래 초기 종목의 호가 공백, 높은 거래대금 집중, 장중 급등락이 레버리지 구조와 결합할 때 가격 발견 기능이 흔들릴 수 있다는 점이다. SEC가 출시일을 13일에서 14일로 미룬 것은 초기 수급을 한 차례 더 확인하려는 관리 조치로 해석된다. 스페이스X 관련 2배 ETF 출시 과정에서도 비슷한 연기 사례가 있었다.\n\n## 한국 투자자에게 중요한 숫자\n국내 투자자 입장에서는 ‘2배’라는 단순한 문구보다 환율과 복리 효과가 중요하다. 예를 들어 원·달러 환율을 1달러 1,380원으로 놓고 1,000달러를 매수하면 원화 기준 투자금은 약 138만원이다. ADR 가격이 하루 3% 하락하고 환율도 1% 불리하게 움직이면 2배 ETF의 원화 손실은 단순 주가 하락률보다 커질 수 있다. 레버리지 ETF는 장기 보유보다 단기 방향성 투자에 맞춰 설계됐고, 횡보장에서는 매일 재조정 때문에 기초자산과 누적 수익률이 벌어질 수 있다. 국내 상장 ETF와 달리 미국 상장 상품은 거래 시간, 세금, 환전 비용, 양도소득세 기준도 함께 계산해야 한다.\n\n## 시장 영향과 전망\n이번 연기는 SK하이닉스 펀더멘털에 대한 부정적 판단이라기보다 레버리지 상품 상장 관리에 가깝다. 다만 SK하이닉스 ADR 2배 ETF가 거래를 시작하면 미국 장에서 하이닉스 관련 단기 매매 수요가 커질 가능성이 있다. 이는 한국 유가증권시장 본주에도 심리적 영향을 줄 수 있다. 특히 AI 반도체, HBM, 메모리 업황 뉴스가 나오는 날에는 ADR과 국내 주가의 방향성이 더 촘촘히 연결될 전망이다. 투자자는 출시 직후 거래량, 스프레드, 순자산 규모, 괴리율을 확인한 뒤 접근하는 편이 합리적이다.",
+        "keywords": [
+          "SK하이닉스 ADR",
+          "2배 ETF",
+          "레버리지 ETF",
+          "SEC",
+          "미국 ETF",
+          "반도체 ETF",
+          "AI 반도체",
+          "국내 투자자",
+          "환율 리스크",
+          "SK하이닉스 ADR 2배 ETF 출시"
+        ],
+        "faq": [
+          {
+            "q": "SK하이닉스 ADR 2배 ETF 출시일은 언제로 바뀌었나?",
+            "a": "당초 13일 출시 예정이었으나 SEC 요구로 14일로 하루 연기됐다."
+          },
+          {
+            "q": "SEC가 출시를 미룬 이유는 무엇인가?",
+            "a": "신규 상장 또는 초기 거래 종목을 기초자산으로 한 2배 레버리지 ETF가 단기 변동성을 키울 수 있다는 우려가 반영됐다."
+          },
+          {
+            "q": "국내 투자자는 무엇을 확인해야 하나?",
+            "a": "ADR 가격뿐 아니라 원·달러 환율, 거래 스프레드, 괴리율, 세금, 레버리지 ETF의 일간 재조정 구조를 함께 확인해야 한다."
+          }
+        ]
+      },
+      "en": {
+        "title": "SK Hynix ADR 2x ETF Delayed as SEC Flags Early Volatility Risk",
+        "excerpt": "The launch of a 2x leveraged ETF tied to SK Hynix ADRs was moved from July 13 to July 14 after an SEC request, with early trading volatility the central concern.",
+        "metaDescription": "SK Hynix ADR 2x ETF launch delayed by one day after SEC scrutiny. Key issues include leverage, new-listing volatility, FX risk and investor impact.",
+        "summary": "The SK Hynix ADR 2x ETF launch has been pushed from July 13 to July 14. The SEC is focusing on whether leveraged exposure could amplify early trading volatility. A similar delay occurred in a 2x ETF linked to SpaceX listing demand. Korean investors should weigh FX moves, spreads and compounding risk.",
+        "body": "The U.S. launch of a 2x leveraged ETF tied to SK Hynix ADRs has been delayed by one day. The issuer had prepared for a July 13 debut, but the schedule was moved to July 14 after an SEC request. The issue is not a direct judgment on SK Hynix fundamentals. It centers on whether a leveraged ETF can magnify price swings during the first stage of trading.\n\n## Why the SEC Intervened\nA 2x ETF is designed to deliver twice the daily move of its underlying asset. If SK Hynix ADRs rise 5% in a session, the ETF targets roughly 10%, before fees and tracking error. The same mechanism works in reverse. When a newly listed or thinly established security faces order imbalances, leverage can intensify volatility and weaken price discovery. A similar delay was seen in a 2x ETF tied to SpaceX listing interest.\n\n## Investor Impact\nFor Korean investors, the dollar exposure matters as much as the 2x label. A $1,000 position equals about 1.38 million won at 1,380 won per dollar. If the ADR falls while the exchange rate moves against the investor, won-based losses can exceed the stock move. The ETF is built for short-term directional trading, not passive long-term holding.\n\n## Outlook\nOnce trading begins, U.S. demand for leveraged SK Hynix exposure could rise quickly, especially around AI memory and HBM headlines. The Korean common shares may also feel sentiment spillover. Investors should check volume, bid-ask spreads, assets and premium or discount before entering.",
+        "keywords": [
+          "SK Hynix ADR",
+          "2x ETF",
+          "leveraged ETF",
+          "SEC",
+          "US ETF",
+          "semiconductor ETF",
+          "AI memory",
+          "FX risk",
+          "SK Hynix ADR 2x ETF"
+        ],
+        "faq": [
+          {
+            "q": "When is the SK Hynix ADR 2x ETF now set to launch?",
+            "a": "The launch was moved from July 13 to July 14."
+          },
+          {
+            "q": "Why did the SEC ask for a delay?",
+            "a": "The concern is that leveraged exposure could amplify early trading volatility in a newly active underlying security."
+          },
+          {
+            "q": "What should Korean investors watch?",
+            "a": "They should monitor the ADR price, won-dollar exchange rate, spreads, premium or discount, taxes and daily reset risk."
+          }
+        ]
+      },
+      "ja": {
+        "title": "SKハイニックスADRの2倍ETF、SEC要請で上場を1日延期",
+        "excerpt": "SKハイニックスADRを対象とする2倍レバレッジETFの上場日は13日から14日に変更された。SECは初期取引での変動性拡大を警戒した。",
+        "metaDescription": "SKハイニックスADRの2倍ETF上場がSEC要請で1日延期。レバレッジETF、新規上場時の変動性、韓国投資家への影響を整理。",
+        "summary": "SKハイニックスADRの2倍ETFは13日から14日に上場が延期された。SECは初期取引でレバレッジ商品が価格変動を増幅する可能性を重視した。スペースX関連の2倍ETFでも同様の遅れがあった。投資家は為替、スプレッド、複利効果を確認する必要がある。",
+        "body": "SKハイニックスADRを基礎資産とする米国の2倍レバレッジETFは、上場日が1日後ろ倒しになった。運用会社は13日の取引開始を準備していたが、SECの要請を受けて14日に変更した。焦点はSKハイニックスの業績判断ではなく、初期取引でレバレッジETFが値動きを増幅するリスクにある。\n\n## SECが警戒した点\n2倍ETFは基礎資産の日次騰落率の2倍を目指す。ADRが1日で5%上昇すれば、費用や誤差を除きETFは約10%上昇を狙う。下落時も同じ構造だ。新規上場または取引初期の銘柄では注文が偏りやすく、レバレッジが加わると価格発見が不安定になる。スペースX関連の2倍ETFでも似た延期があった。\n\n## 韓国市場への影響\n韓国投資家には為替も重要だ。1ドル1,380ウォンなら1,000ドルの投資は約138万ウォンになる。ADR下落とウォン安・ウォン高の不利な動きが重なると、損失は単純な株価変動を上回り得る。米国上場商品は税金、取引時間、換金コストも考慮すべきだ。\n\n## 見通し\n取引開始後はAIメモリーやHBM関連ニュースに合わせ、米国市場でSKハイニックスへの短期資金が増える可能性がある。韓国本株にも心理的影響が及ぶ見通しだ。投資家は出来高、スプレッド、純資産、乖離率を確認してから判断すべきだ。",
+        "keywords": [
+          "SKハイニックスADR",
+          "2倍ETF",
+          "レバレッジETF",
+          "SEC",
+          "米国ETF",
+          "半導体ETF",
+          "AIメモリー",
+          "為替リスク",
+          "SKハイニックスADRの2倍ETF、SE"
+        ],
+        "faq": [
+          {
+            "q": "SKハイニックスADRの2倍ETFはいつ上場するのか。",
+            "a": "当初の13日から14日に1日延期された。"
+          },
+          {
+            "q": "SECが延期を求めた理由は何か。",
+            "a": "初期取引で2倍レバレッジETFが変動性を高める可能性を懸念したためだ。"
+          },
+          {
+            "q": "投資家は何を確認すべきか。",
+            "a": "ADR価格、為替、スプレッド、乖離率、税金、日次リセットの影響を確認すべきだ。"
+          }
+        ]
+      },
+      "zh": {
+        "title": "SK海力士ADR两倍ETF推迟上市，SEC聚焦初期波动风险",
+        "excerpt": "以SK海力士ADR为标的的两倍杠杆ETF上市日期由13日推迟至14日。SEC关注新近交易标的在杠杆产品带动下的短期波动放大。",
+        "metaDescription": "SK海力士ADR两倍ETF因SEC要求推迟一天上市。本文梳理杠杆ETF、初期波动、汇率风险及韩国投资者影响。",
+        "summary": "SK海力士ADR两倍ETF上市从13日调整至14日。SEC的关注点是杠杆ETF可能放大初期交易波动，而非否定公司基本面。SpaceX相关两倍ETF也曾出现类似延后。韩国投资者需同时关注汇率、价差和日内重置风险。",
+        "body": "以SK海力士ADR为基础资产的美国两倍杠杆ETF上市时间推迟一天。资产管理公司原计划13日推出该产品，但在SEC要求后将日期改为14日。此次调整的重点不是SK海力士基本面，而是杠杆ETF在初期交易阶段可能放大价格波动。\n\n## SEC关注什么\n两倍ETF通常追踪基础资产单日涨跌幅的两倍。若SK海力士ADR单日上涨5%，ETF在扣除费用和跟踪误差前目标涨幅约为10%；若ADR下跌，损失也会被放大。新近上市或交易历史较短的标的容易出现订单失衡，杠杆结构会进一步影响价格发现。SpaceX相关两倍ETF上市过程中也出现过类似延后。\n\n## 对韩国投资者的意义\n韩国投资者还要计算汇率。若按1美元兑1,380韩元估算，1,000美元投资约为138万韩元。若ADR下跌且汇率同时不利，韩元计价损失可能高于单纯股价波动。美国上市ETF还涉及交易时间、换汇成本、税务和折溢价。\n\n## 后续展望\n产品开始交易后，美国市场对SK海力士的短线杠杆需求可能增加，尤其在AI存储和HBM消息密集时更明显。韩国本股也可能受到情绪传导。投资者应先观察成交量、买卖价差、净资产规模和折溢价，再决定是否参与。",
+        "keywords": [
+          "SK海力士ADR",
+          "两倍ETF",
+          "杠杆ETF",
+          "SEC",
+          "美国ETF",
+          "半导体ETF",
+          "AI存储",
+          "汇率风险",
+          "SK海力士ADR两倍ETF推迟上市，SE"
+        ],
+        "faq": [
+          {
+            "q": "SK海力士ADR两倍ETF何时上市？",
+            "a": "上市日期由13日推迟至14日。"
+          },
+          {
+            "q": "SEC为什么要求推迟？",
+            "a": "主要担心两倍杠杆ETF会放大初期交易阶段的短期波动。"
+          },
+          {
+            "q": "韩国投资者应关注哪些风险？",
+            "a": "应关注ADR价格、韩元兑美元汇率、买卖价差、折溢价、税务和每日重置机制。"
+          }
+        ]
+      },
+      "es": {
+        "title": "ETF 2x sobre ADR de SK Hynix se retrasa por riesgo de volatilidad",
+        "excerpt": "El ETF apalancado 2x ligado a los ADR de SK Hynix pasó del 13 al 14 de julio tras una solicitud de la SEC por riesgos de volatilidad inicial.",
+        "metaDescription": "El ETF 2x sobre ADR de SK Hynix se retrasa un día por revisión de la SEC. Claves: apalancamiento, volatilidad inicial, divisa e impacto para Corea.",
+        "summary": "El lanzamiento del ETF 2x sobre ADR de SK Hynix se movió del 13 al 14 de julio. La SEC se centra en el riesgo de que el apalancamiento amplifique la volatilidad inicial. Hubo un precedente similar en un ETF 2x vinculado al interés por SpaceX. Para inversores coreanos, el tipo de cambio y el reajuste diario son decisivos.",
+        "body": "El lanzamiento en Estados Unidos de un ETF apalancado 2x sobre los ADR de SK Hynix quedó aplazado un día. La gestora preparaba el estreno para el 13 de julio, pero lo movió al 14 tras una solicitud de la SEC. El punto central no es la calidad de SK Hynix, sino el efecto de un producto apalancado en la formación inicial de precios.\n\n## Motivo del freno\nUn ETF 2x busca duplicar el movimiento diario del activo subyacente. Si el ADR de SK Hynix sube 5% en una sesión, el ETF apunta a cerca de 10%, antes de comisiones y errores de seguimiento. Si cae, la pérdida también se amplifica. En valores nuevos o con historial inicial limitado, los desequilibrios de órdenes pueden ser fuertes. El apalancamiento puede aumentar esa volatilidad. Un caso similar ocurrió con un ETF 2x ligado a SpaceX.\n\n## Impacto para inversores\nPara un inversor coreano, el dólar pesa tanto como la acción. Con un tipo de 1.380 wones por dólar, una posición de 1.000 dólares equivale a unos 1,38 millones de wones. Si el ADR baja y la divisa se mueve en contra, la pérdida en wones puede superar la caída del subyacente.\n\n## Perspectiva\nAl comenzar a cotizar, la demanda estadounidense por exposición táctica a SK Hynix podría crecer, sobre todo con noticias de memoria AI y HBM. También puede influir en la acción ordinaria en Corea. Conviene revisar volumen, horquilla, patrimonio y prima o descuento antes de entrar.",
+        "keywords": [
+          "SK Hynix ADR",
+          "ETF 2x",
+          "ETF apalancado",
+          "SEC",
+          "ETF estadounidense",
+          "semiconductores",
+          "memoria AI",
+          "riesgo cambiario",
+          "ETF 2x sobre ADR de"
+        ],
+        "faq": [
+          {
+            "q": "¿Cuándo se lanzará el ETF 2x sobre ADR de SK Hynix?",
+            "a": "La fecha pasó del 13 al 14 de julio."
+          },
+          {
+            "q": "¿Por qué intervino la SEC?",
+            "a": "Por el riesgo de que el apalancamiento amplifique la volatilidad durante la etapa inicial de negociación."
+          },
+          {
+            "q": "¿Qué debe vigilar un inversor coreano?",
+            "a": "Precio del ADR, tipo de cambio won-dólar, horquilla, prima o descuento, impuestos y reajuste diario."
+          }
+        ]
+      },
+      "pt": {
+        "title": "ETF 2x de ADR da SK Hynix é adiado após alerta de volatilidade da SEC",
+        "excerpt": "O ETF alavancado 2x ligado aos ADRs da SK Hynix teve lançamento alterado de 13 para 14 de julho após pedido da SEC, com foco na volatilidade inicial.",
+        "metaDescription": "ETF 2x de ADR da SK Hynix é adiado por exigência da SEC. Veja riscos de alavancagem, volatilidade inicial, câmbio e impacto para investidores coreanos.",
+        "summary": "O lançamento do ETF 2x sobre ADR da SK Hynix passou de 13 para 14 de julho. A SEC mira o risco de produtos alavancados ampliarem oscilações no início da negociação. Um atraso parecido ocorreu em ETF 2x ligado à demanda por SpaceX. Câmbio, spreads e rebalanceamento diário exigem atenção.",
+        "body": "O ETF alavancado 2x baseado nos ADRs da SK Hynix nos Estados Unidos foi adiado em um dia. A gestora preparava a estreia para 13 de julho, mas mudou a data para 14 de julho após pedido da SEC. A questão não é uma avaliação negativa da SK Hynix. O foco é o risco de o ETF alavancado ampliar oscilações no começo da negociação.\n\n## Por que houve intervenção\nUm ETF 2x busca entregar duas vezes a variação diária do ativo base. Se o ADR da SK Hynix sobe 5%, o ETF mira cerca de 10%, antes de custos e erro de acompanhamento. Na queda, a perda também é ampliada. Em ativos recém-negociados ou ainda sem histórico profundo, desequilíbrios de ordens podem ser fortes. A alavancagem tende a intensificar esse quadro. Um ETF 2x ligado à SpaceX também teve atraso semelhante.\n\n## Efeito para investidores coreanos\nO câmbio é decisivo. Com dólar a 1.380 wones, uma aplicação de US$ 1.000 equivale a cerca de 1,38 milhão de wones. Se o ADR cair e o câmbio andar contra o investidor, a perda em wones pode superar a variação da ação. Custos de conversão, impostos e horário de negociação também entram na conta.\n\n## Perspectiva\nApós o início da negociação, a procura por exposição tática à SK Hynix pode aumentar nos EUA, principalmente com notícias de memória para IA e HBM. As ações na Coreia podem sentir o reflexo de sentimento. Volume, spread, patrimônio e ágio ou desconto devem ser verificados antes da entrada.",
+        "keywords": [
+          "SK Hynix ADR",
+          "ETF 2x",
+          "ETF alavancado",
+          "SEC",
+          "ETF dos EUA",
+          "semicondutores",
+          "memória IA",
+          "risco cambial",
+          "ETF 2x de ADR da SK"
+        ],
+        "faq": [
+          {
+            "q": "Quando o ETF 2x da SK Hynix ADR será lançado?",
+            "a": "A data foi alterada de 13 para 14 de julho."
+          },
+          {
+            "q": "Qual foi o motivo do adiamento?",
+            "a": "A SEC buscou reduzir o risco de ampliação da volatilidade no início da negociação."
+          },
+          {
+            "q": "O que o investidor deve observar?",
+            "a": "Preço do ADR, câmbio won-dólar, spread, ágio ou desconto, impostos e rebalanceamento diário."
+          }
+        ]
+      },
+      "de": {
+        "title": "SK-Hynix-ADR-2x-ETF startet später, SEC prüft Volatilitätsrisiko",
+        "excerpt": "Der 2x gehebelte ETF auf SK-Hynix-ADRs startet statt am 13. Juli erst am 14. Juli. Die SEC sieht Risiken durch erhöhte Anfangsvolatilität.",
+        "metaDescription": "Der SK-Hynix-ADR-2x-ETF wird nach SEC-Anforderung um einen Tag verschoben. Wichtig sind Hebelwirkung, frühe Volatilität, Währung und Korea-Effekt.",
+        "summary": "Der Start des 2x-ETF auf SK-Hynix-ADRs wurde vom 13. auf den 14. Juli verschoben. Die SEC konzentriert sich auf das Risiko, dass Hebelprodukte frühe Kursschwankungen verstärken. Einen ähnlichen Aufschub gab es bei einem 2x-ETF mit SpaceX-Bezug. Anleger sollten Wechselkurs, Spreads und tägliche Anpassung beachten.",
+        "body": "Der US-Start eines 2x gehebelten ETF auf SK-Hynix-ADRs verzögert sich um einen Tag. Der Emittent hatte den Handelsbeginn für den 13. Juli vorbereitet, verlegte ihn nach einer SEC-Anforderung jedoch auf den 14. Juli. Im Kern geht es nicht um eine negative Einschätzung von SK Hynix. Entscheidend ist das Risiko, dass ein Hebel-ETF die Preisbewegungen in der frühen Handelsphase verstärkt.\n\n## Warum die SEC eingriff\nEin 2x-ETF soll die tägliche Bewegung des Basiswerts doppelt abbilden. Steigt der SK-Hynix-ADR um 5%, zielt der ETF vor Kosten und Tracking-Abweichung auf etwa 10%. Bei fallenden Kursen wirkt der Hebel ebenso. Bei neuen oder noch wenig etablierten Handelswerten können Orderungleichgewichte groß sein. Hebelprodukte können dann die Preisfindung erschweren. Ein ähnlicher Aufschub trat bei einem 2x-ETF mit SpaceX-Bezug auf.\n\n## Bedeutung für Korea-Anleger\nFür koreanische Anleger zählt auch der Wechselkurs. Bei 1.380 Won je Dollar entsprechen 1.000 Dollar rund 1,38 Mio. Won. Fallen ADR und Währung gleichzeitig ungünstig aus, kann der Verlust in Won höher sein als die reine Kursbewegung. Hinzu kommen Steuern, Handelszeiten und Umtauschkosten.\n\n## Ausblick\nNach Handelsstart könnte die Nachfrage nach taktischer SK-Hynix-Exponierung in den USA steigen, besonders bei Nachrichten zu KI-Speicher und HBM. Auch die Stammaktie in Korea kann Stimmungsimpulse spüren. Vor einem Einstieg sollten Volumen, Spread, Fondsvermögen und Auf- oder Abschlag geprüft werden.",
+        "keywords": [
+          "SK Hynix ADR",
+          "2x ETF",
+          "gehebelter ETF",
+          "SEC",
+          "US ETF",
+          "Halbleiter ETF",
+          "KI Speicher",
+          "Währungsrisiko",
+          "SK-Hynix-ADR-2x-ETF"
+        ],
+        "faq": [
+          {
+            "q": "Wann startet der SK-Hynix-ADR-2x-ETF?",
+            "a": "Der Start wurde vom 13. auf den 14. Juli verschoben."
+          },
+          {
+            "q": "Warum verlangte die SEC eine Verzögerung?",
+            "a": "Sie sieht das Risiko, dass ein 2x-Hebelprodukt frühe Handelsvolatilität verstärkt."
+          },
+          {
+            "q": "Was sollten Anleger prüfen?",
+            "a": "ADR-Kurs, Won-Dollar-Kurs, Spread, Auf- oder Abschlag, Steuern und tägliche Neugewichtung."
+          }
+        ]
+      },
+      "fr": {
+        "title": "L’ETF 2x sur l’ADR SK Hynix reporté, la SEC cible la volatilité",
+        "excerpt": "Le lancement de l’ETF à levier 2x adossé à l’ADR SK Hynix est décalé du 13 au 14 juillet après une demande de la SEC liée à la volatilité initiale.",
+        "metaDescription": "L’ETF 2x sur l’ADR SK Hynix est reporté d’un jour après demande de la SEC. Enjeux: levier, volatilité initiale, change et impact coréen.",
+        "summary": "Le lancement de l’ETF 2x sur l’ADR SK Hynix passe du 13 au 14 juillet. La SEC surveille le risque qu’un produit à levier amplifie les mouvements au début de la cotation. Un retard similaire a touché un ETF 2x lié à SpaceX. Les investisseurs coréens doivent intégrer change, spreads et rééquilibrage quotidien.",
+        "body": "Le lancement américain d’un ETF à levier 2x fondé sur les ADR de SK Hynix est reporté d’un jour. La société de gestion préparait une cotation le 13 juillet, mais la date a été déplacée au 14 juillet après une demande de la SEC. Le sujet n’est pas une remise en cause des fondamentaux de SK Hynix. Il porte sur le risque qu’un ETF à levier accentue les variations de prix au démarrage des échanges.\n\n## Ce que surveille la SEC\nUn ETF 2x vise deux fois la performance quotidienne de l’actif sous-jacent. Si l’ADR SK Hynix gagne 5% dans la séance, l’ETF vise environ 10%, hors frais et écart de suivi. En baisse, l’effet est identique. Sur un titre récent ou encore peu stabilisé, les déséquilibres d’ordres peuvent être marqués. Le levier peut compliquer la formation du prix. Un ETF 2x lié à SpaceX a connu un retard comparable.\n\n## Effet pour les investisseurs coréens\nLe change est crucial. À 1.380 wons pour un dollar, 1.000 dollars représentent environ 1,38 million de wons. Si l’ADR baisse et que le taux de change évolue défavorablement, la perte en wons peut dépasser la seule variation du titre. Frais de change, fiscalité et horaires américains comptent aussi.\n\n## Perspectives\nAprès le lancement, la demande américaine d’exposition tactique à SK Hynix pourrait augmenter, surtout lors d’actualités sur la mémoire IA et HBM. L’action coréenne peut aussi subir un effet de sentiment. Volume, spread, actif net et prime ou décote doivent être vérifiés avant toute entrée.",
+        "keywords": [
+          "SK Hynix ADR",
+          "ETF 2x",
+          "ETF à levier",
+          "SEC",
+          "ETF américain",
+          "semi-conducteurs",
+          "mémoire IA",
+          "risque de change",
+          "L’ETF 2x sur l’ADR S"
+        ],
+        "faq": [
+          {
+            "q": "Quand l’ETF 2x sur l’ADR SK Hynix doit-il être lancé ?",
+            "a": "La date a été déplacée du 13 au 14 juillet."
+          },
+          {
+            "q": "Pourquoi la SEC a-t-elle demandé un report ?",
+            "a": "Elle veut limiter le risque d’amplification de la volatilité au début des échanges."
+          },
+          {
+            "q": "Que doivent surveiller les investisseurs ?",
+            "a": "Le prix de l’ADR, le change won-dollar, les spreads, la prime ou décote, la fiscalité et le reset quotidien."
+          }
+        ]
+      },
+      "ar": {
+        "title": "تأجيل ETF مضاعف على إيصالات SK Hynix بعد تحذير SEC من التقلب",
+        "excerpt": "تأجل إطلاق ETF برافعة 2x على إيصالات SK Hynix من 13 إلى 14 يوليو بعد طلب من SEC، بسبب مخاوف من تضخيم التقلب في بداية التداول.",
+        "metaDescription": "تأجيل ETF مضاعف على ADR الخاصة بـ SK Hynix يوما واحدا بطلب من SEC. أبرز المخاطر: الرافعة، التقلب المبكر، سعر الصرف وتأثير كوريا.",
+        "summary": "تغير موعد إطلاق ETF برافعة 2x على إيصالات SK Hynix من 13 إلى 14 يوليو. تركيز SEC ينصب على احتمال تضخيم الرافعة لتقلبات التداول المبكر. ظهرت حالة مشابهة في ETF برافعة 2x مرتبط باهتمام SpaceX. على المستثمر الكوري متابعة الصرف والفروق وإعادة الضبط اليومية.",
+        "body": "تأجل إطلاق صندوق ETF أمريكي برافعة 2x يستند إلى إيصالات الإيداع الأمريكية لشركة SK Hynix يوما واحدا. كان مدير الأصول يستعد للإطلاق في 13 يوليو، ثم نقل الموعد إلى 14 يوليو بعد طلب من SEC. المسألة لا تعني حكما سلبيا على أساسيات SK Hynix، بل ترتبط بخطر تضخيم التقلب في مرحلة التداول الأولى.\n\n## سبب تدخل SEC\nصندوق 2x يستهدف ضعف الحركة اليومية للأصل الأساسي. إذا ارتفعت إيصالات SK Hynix بنسبة 5% في يوم واحد، يستهدف الصندوق نحو 10% قبل الرسوم وأخطاء التتبع. وفي الهبوط يتضاعف الأثر نفسه. في الأوراق الجديدة أو محدودة التاريخ، قد تظهر فجوات أوامر كبيرة، وتزيد الرافعة صعوبة اكتشاف السعر. حدث تأجيل مشابه في ETF برافعة 2x مرتبط بـ SpaceX.\n\n## أثر ذلك على المستثمر الكوري\nسعر الصرف مهم بقدر حركة السهم. عند 1,380 وون للدولار، يساوي استثمار 1,000 دولار نحو 1.38 مليون وون. إذا هبطت الإيصالات وتحرك الصرف ضد المستثمر، فقد تتجاوز الخسارة بالوون حركة السهم وحدها. يجب حساب الضرائب وتكاليف التحويل وساعات التداول الأمريكية.\n\n## التوقعات\nبعد بدء التداول قد ترتفع شهية المستثمرين الأمريكيين للتعرض قصير الأجل لـ SK Hynix، خصوصا مع أخبار ذاكرة الذكاء الاصطناعي وHBM. وقد يمتد الأثر النفسي إلى السهم في كوريا. قبل الدخول، يجب فحص حجم التداول، فرق السعر، صافي الأصول، والعلاوة أو الخصم.",
+        "keywords": [
+          "SK Hynix ADR",
+          "ETF 2x",
+          "ETF برافعة",
+          "SEC",
+          "ETF أمريكي",
+          "أشباه الموصلات",
+          "ذاكرة الذكاء الاصطناعي",
+          "مخاطر الصرف",
+          "تأجيل ETF مضاعف على"
+        ],
+        "faq": [
+          {
+            "q": "متى سيطلق ETF 2x على إيصالات SK Hynix؟",
+            "a": "تم تغيير الموعد من 13 إلى 14 يوليو."
+          },
+          {
+            "q": "لماذا طلبت SEC التأجيل؟",
+            "a": "بسبب خطر أن تضخم الرافعة 2x التقلب في بداية التداول."
+          },
+          {
+            "q": "ما الذي يجب أن يراقبه المستثمر؟",
+            "a": "سعر ADR، سعر صرف الوون مقابل الدولار، فرق العرض والطلب، العلاوة أو الخصم، الضرائب وإعادة الضبط اليومية."
+          }
+        ]
+      },
+      "hi": {
+        "title": "SK Hynix ADR 2x ETF एक दिन टला, SEC ने शुरुआती उतार-चढ़ाव देखा",
+        "excerpt": "SK Hynix ADR पर आधारित 2x leveraged ETF का लॉन्च 13 जुलाई से 14 जुलाई किया गया। SEC की चिंता शुरुआती कारोबार में volatility बढ़ने की है।",
+        "metaDescription": "SK Hynix ADR 2x ETF का लॉन्च SEC मांग के बाद एक दिन टला। जानें leverage, नई listing volatility, currency risk और Korean investors पर असर।",
+        "summary": "SK Hynix ADR 2x ETF का लॉन्च 13 जुलाई से 14 जुलाई कर दिया गया। SEC का ध्यान इस बात पर है कि leveraged product शुरुआती ट्रेडिंग volatility को बढ़ा सकता है। SpaceX से जुड़े 2x ETF में भी ऐसा विलंब हुआ था। Korean investors को exchange rate, spreads और daily reset risk देखना होगा.",
+        "body": "SK Hynix ADR पर आधारित अमेरिकी 2x leveraged ETF का लॉन्च एक दिन आगे बढ़ गया है। Asset manager ने 13 जुलाई की तैयारी की थी, लेकिन SEC की मांग के बाद तारीख 14 जुलाई कर दी गई। यह SK Hynix के fundamentals पर नकारात्मक फैसला नहीं है। मुख्य चिंता यह है कि leveraged ETF शुरुआती कारोबार में price swings को बढ़ा सकता है।\n\n## SEC की चिंता\n2x ETF underlying asset की daily move का दोगुना लक्ष्य रखता है। अगर SK Hynix ADR एक दिन में 5% चढ़ता है, तो ETF fees और tracking error से पहले करीब 10% gain का लक्ष्य रखेगा। गिरावट में नुकसान भी इसी तरह बढ़ता है। नई या शुरुआती trading वाली security में order imbalance बड़ा हो सकता है। leverage price discovery को और अस्थिर बना सकता है। SpaceX से जुड़े 2x ETF में भी ऐसा delay देखा गया था।\n\n## Korean investors पर असर\nKorean investors के लिए dollar exposure भी अहम है। अगर 1 डॉलर 1,380 won है, तो 1,000 डॉलर की position करीब 13.8 लाख won के बराबर होगी। ADR गिरने और exchange rate के उल्टा चलने पर won में नुकसान stock move से ज्यादा हो सकता है। US-listed ETF में trading hours, tax, currency conversion cost और premium-discount भी जोड़ना चाहिए।\n\n## आगे की स्थिति\nTrading शुरू होने के बाद AI memory और HBM news के समय SK Hynix पर short-term leveraged demand बढ़ सकती है। इसका sentiment असर Korean shares पर भी दिख सकता है। Entry से पहले volume, bid-ask spread, fund assets और discount या premium जांचना बेहतर है।",
+        "keywords": [
+          "SK Hynix ADR",
+          "2x ETF",
+          "leveraged ETF",
+          "SEC",
+          "US ETF",
+          "semiconductor ETF",
+          "AI memory",
+          "currency risk",
+          "SK Hynix ADR 2x ETF"
+        ],
+        "faq": [
+          {
+            "q": "SK Hynix ADR 2x ETF कब लॉन्च होगा?",
+            "a": "लॉन्च तारीख 13 जुलाई से 14 जुलाई कर दी गई है।"
+          },
+          {
+            "q": "SEC ने delay क्यों मांगा?",
+            "a": "SEC को चिंता है कि 2x leverage शुरुआती trading volatility को बढ़ा सकता है।"
+          },
+          {
+            "q": "Investors को क्या देखना चाहिए?",
+            "a": "ADR price, won-dollar exchange rate, spread, premium या discount, tax और daily reset structure देखना चाहिए।"
+          }
+        ]
+      },
+      "id": {
+        "title": "ETF 2x ADR SK Hynix Ditunda, SEC Soroti Risiko Volatilitas Awal",
+        "excerpt": "Peluncuran ETF leverage 2x berbasis ADR SK Hynix digeser dari 13 Juli ke 14 Juli setelah permintaan SEC terkait risiko volatilitas awal perdagangan.",
+        "metaDescription": "ETF 2x ADR SK Hynix ditunda satu hari oleh permintaan SEC. Simak risiko leverage, volatilitas awal, kurs won-dolar dan dampak bagi investor Korea.",
+        "summary": "ETF 2x berbasis ADR SK Hynix dijadwalkan ulang dari 13 Juli menjadi 14 Juli. SEC menyoroti potensi produk leverage memperbesar volatilitas pada fase awal perdagangan. Kasus serupa terjadi pada ETF 2x terkait minat terhadap SpaceX. Investor Korea perlu memperhatikan kurs, spread dan reset harian.",
+        "body": "Peluncuran ETF leverage 2x berbasis ADR SK Hynix di Amerika Serikat ditunda satu hari. Manajer aset semula menyiapkan debut pada 13 Juli, lalu menggesernya ke 14 Juli setelah permintaan SEC. Isunya bukan penilaian negatif terhadap fundamental SK Hynix. Fokusnya adalah potensi ETF leverage memperbesar pergerakan harga pada awal perdagangan.\n\n## Alasan SEC Bertindak\nETF 2x dirancang mengikuti dua kali pergerakan harian aset dasar. Jika ADR SK Hynix naik 5% dalam sehari, ETF menargetkan sekitar 10% sebelum biaya dan tracking error. Saat turun, kerugian juga diperbesar. Pada saham baru atau instrumen dengan riwayat perdagangan awal, ketidakseimbangan order dapat besar. Leverage bisa membuat price discovery lebih tidak stabil. ETF 2x terkait SpaceX juga pernah mengalami penundaan serupa.\n\n## Dampak untuk Investor Korea\nKurs sama pentingnya dengan harga ADR. Dengan asumsi 1 dolar AS setara 1.380 won, investasi 1.000 dolar bernilai sekitar 1,38 juta won. Jika ADR turun dan kurs bergerak merugikan, kerugian dalam won bisa lebih besar dari penurunan saham. Biaya konversi, pajak, jam perdagangan AS, serta premium atau diskon juga perlu dihitung.\n\n## Prospek\nSetelah diperdagangkan, permintaan AS untuk eksposur taktis ke SK Hynix dapat meningkat, terutama saat ada berita AI memory dan HBM. Saham utama di Korea juga bisa terkena dampak sentimen. Investor sebaiknya memeriksa volume, spread, aset bersih, dan premium atau diskon sebelum masuk.",
+        "keywords": [
+          "SK Hynix ADR",
+          "ETF 2x",
+          "ETF leverage",
+          "SEC",
+          "ETF AS",
+          "semikonduktor",
+          "AI memory",
+          "risiko kurs",
+          "ETF 2x ADR SK Hynix"
+        ],
+        "faq": [
+          {
+            "q": "Kapan ETF 2x ADR SK Hynix diluncurkan?",
+            "a": "Tanggal peluncuran digeser dari 13 Juli menjadi 14 Juli."
+          },
+          {
+            "q": "Mengapa SEC meminta penundaan?",
+            "a": "SEC mengkhawatirkan produk leverage 2x dapat memperbesar volatilitas pada awal perdagangan."
+          },
+          {
+            "q": "Apa yang perlu diperhatikan investor?",
+            "a": "Harga ADR, kurs won-dolar, spread, premium atau diskon, pajak, dan mekanisme reset harian."
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "11ee25f987eb",
+    "slug": "우리투자증권-반도체-불을-켜주세요-이벤트삼성전자etf-1주-증정-229231",
+    "channelId": "ETF",
+    "category": "etf",
+    "publishedAt": "2026-07-13T08:39:55.610Z",
+    "updatedAt": "2026-07-13T08:39:55.616Z",
+    "sourceName": "",
+    "sourceUrl": "",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12097305",
+    "titleFingerprint": "d2621ab520eaee6a446c725c95007e74df74ecc3",
+    "dedupKeys": [
+      "11ee25f987eb17e0072e04c82a632ee5d8f427df",
+      "d2621ab520eaee6a446c725c95007e74df74ecc3",
+      "3484212ff67c9a391a8cf7cfbefd50d66bcd0170"
+    ],
+    "imageUrl": "/images/articles/11ee25f987eb.png",
+    "i18n": {
+      "ko": {
+        "title": "우리투자증권 반도체 이벤트, 삼성전자·ETF 1주 증정으로 국내 AI 투자 기회 넓힌다",
+        "excerpt": "우리투자증권이 2026년 8월 10일까지 반도체·AI 미래 성장산업 투자 접점을 넓히는 반도체 불을 켜주세요 이벤트를 진행한다. 삼성전자 주식과 ETF 1주 증정 혜택을 앞세워 국내 개인투자자가 대표 반도체주와 분산형 ETF를 함께 살펴보도록 유도한다.",
+        "metaDescription": "우리투자증권 반도체 불을 켜주세요 이벤트가 2026년 8월 10일까지 진행된다. 삼성전자 주식·ETF 1주 증정 혜택, AI 반도체 투자 포인트, 국내 ETF 시장 영향과 계좌·거래 조건 확인 사항, 원화 가치 변동과 원금손실 가능성을 정리했다.",
+        "summary": "우리투자증권은 2026년 8월 10일까지 반도체와 AI 등 미래 성장산업에 초점을 맞춘 반도체 불을 켜주세요 이벤트를 진행한다. 핵심 혜택은 삼성전자 주식과 ETF 1주 증정이다. 이번 이벤트는 국내 개인투자자에게 대표 반도체주와 분산형 ETF를 함께 비교할 계기를 제공한다. 다만 주식과 ETF는 시장가격에 따라 손익이 달라져 조건 확인이 필요하다.",
+        "body": "우리투자증권의 반도체 불을 켜주세요 이벤트는 반도체와 인공지능(AI)을 국내 개인투자자의 실제 포트폴리오 선택지로 끌어올리는 마케팅이다. 이벤트는 2026년 8월 10일까지 진행되며, 참여 고객에게 삼성전자 주식과 ETF 1주 증정 혜택을 제시한다. 단순 경품형 프로모션을 넘어, 한국 증시에서 관심도가 높은 반도체 밸류체인과 상장지수펀드(ETF)를 동시에 경험하도록 설계된 점이 핵심이다.\n\n## 반도체·AI 투자 수요를 겨냥한 이벤트\n삼성전자는 국내 주식시장에서 개인투자자 저변이 넓은 대표 반도체 종목이다. AI 서버, 고대역폭메모리(HBM), 파운드리, 온디바이스 AI 확산은 반도체 업황을 가르는 주요 변수로 자리 잡았다. 우리투자증권은 이 흐름을 투자 접점으로 바꾸기 위해 이벤트 명칭부터 반도체를 전면에 배치했다. ETF를 함께 내건 점도 중요하다. ETF는 특정 종목보다 분산투자 구조를 갖추기 쉬워, 반도체·AI처럼 변동성이 큰 테마에 접근할 때 초보 투자자가 상품 구조를 비교하는 계기가 될 수 있다.\n\n## 8월 10일까지, 1주 혜택이 핵심 수치\n이번 이벤트의 확인 가능한 핵심 수치는 마감일 2026년 8월 10일과 1주 증정 혜택이다. 7월 13일 기준으로 마감까지 약 4주가 남아 있어 여름 실적 시즌과 하반기 반도체 전망에 관심이 몰리는 시기와 맞물린다. 삼성전자 1주와 ETF 1주의 원화 가치는 지급 또는 매매 시점의 시장가격에 따라 달라진다. 투자자는 이벤트 혜택의 금액보다 계좌 개설 조건, 거래 요건, 제세공과금 부담 여부, 경품 지급 시점 같은 세부 조건을 먼저 확인할 필요가 있다. 국내 금융투자상품은 예금자보호 대상이 아니며, ETF 역시 기초지수와 편입자산 가격 변동에 따라 손실이 발생할 수 있다.\n\n## 국내 ETF 시장에 미칠 영향\n이번 프로모션은 증권사가 반도체 대표주와 ETF를 묶어 신규·휴면 고객의 투자 행동을 유도하는 사례다. 개인투자자 입장에서는 단일 종목인 삼성전자와 바스켓형 상품인 ETF의 차이를 같은 이벤트 안에서 비교할 수 있다. 한국 증시에서는 반도체 업종이 코스피 이익 전망과 외국인 수급에 미치는 영향이 커, 관련 이벤트가 단기 거래 유입뿐 아니라 ETF 검색량과 관심 종목 편입에도 영향을 줄 수 있다. 다만 혜택이 투자 성과를 보장하지는 않는다. 이벤트 종료 이후에도 AI 반도체 수요, 메모리 가격, 환율, 미국 기술주 흐름이 국내 반도체 ETF의 성과를 좌우할 전망이다.",
+        "keywords": [
+          "우리투자증권",
+          "반도체 불을 켜주세요",
+          "삼성전자",
+          "ETF 1주",
+          "반도체 ETF",
+          "AI 투자",
+          "국내 ETF",
+          "개인투자자",
+          "우리투자증권 반도체 이벤트, 삼성전자"
+        ],
+        "faq": [
+          {
+            "q": "우리투자증권 반도체 이벤트 기간은 언제까지인가?",
+            "a": "이벤트는 2026년 8월 10일까지 진행된다."
+          },
+          {
+            "q": "이벤트의 핵심 혜택은 무엇인가?",
+            "a": "삼성전자 주식과 ETF 1주 증정 혜택이 핵심이다. 실제 지급은 이벤트 조건에 따라 달라질 수 있다."
+          },
+          {
+            "q": "투자자가 확인해야 할 점은 무엇인가?",
+            "a": "주식과 ETF는 가격 변동에 따라 손실이 날 수 있어 계좌 조건, 거래 요건, 세금 부담, 지급 시점을 확인해야 한다."
+          }
+        ]
+      },
+      "en": {
+        "title": "Woori Investment & Securities Semiconductor Event Offers Samsung and ETF Shares for AI Investing",
+        "excerpt": "Woori Investment & Securities is running its Semiconductor Light On event through August 10, 2026, giving Korean retail investors a route into semiconductor and AI themes through Samsung Electronics and ETF share benefits.",
+        "metaDescription": "Woori Investment & Securities runs a semiconductor and AI investment event through August 10, 2026, featuring Samsung Electronics and ETF share benefits for Korean investors.",
+        "summary": "Woori Investment & Securities is running the Semiconductor Light On event through August 10, 2026. The core benefit is a giveaway tied to Samsung Electronics shares and one ETF share. The campaign helps retail investors compare a leading chip stock with diversified ETF exposure, while market-price risk remains central.",
+        "body": "Woori Investment & Securities is running the Semiconductor Light On event through August 10, 2026, linking Korea’s best-known chip stock with ETF investing. The campaign presents a giveaway benefit involving Samsung Electronics shares and one ETF share, turning the AI and semiconductor theme into an account-level entry point for retail investors.\n\n## Why Semiconductors\nSamsung Electronics remains the domestic market’s bellwether for memory, foundry and AI-server demand. Pairing it with an ETF broadens the discussion beyond a single stock, because ETFs can spread exposure across a basket of chip, AI or technology holdings.\n\n## Investor Impact\nThe key figures are the August 10, 2026 deadline and the one-share benefit. The won value will move with market prices at the time of grant or trading. Investors should still check account rules, trading requirements, taxes and payment timing. The promotion may lift searches for semiconductor ETFs, but returns will depend on chip demand, memory prices, exchange rates and global technology shares.",
+        "keywords": [
+          "Woori Investment & Securities",
+          "semiconductor event",
+          "Samsung Electronics",
+          "ETF share",
+          "AI investing",
+          "Korea ETF market",
+          "semiconductor ETF",
+          "retail investors",
+          "Woori Investment & S"
+        ],
+        "faq": [
+          {
+            "q": "When does the Woori semiconductor event end?",
+            "a": "The event runs through August 10, 2026."
+          },
+          {
+            "q": "What is the main benefit?",
+            "a": "The campaign centers on a benefit involving Samsung Electronics shares and one ETF share, subject to event conditions."
+          },
+          {
+            "q": "What should investors check first?",
+            "a": "They should review account rules, trading requirements, taxes, payment timing and the price risk of stocks and ETFs."
+          }
+        ]
+      },
+      "ja": {
+        "title": "ウリ投資証券の半導体イベント、サムスン電子・ETF1株でAI投資機会を拡大",
+        "excerpt": "ウリ投資証券は2026年8月10日まで、半導体とAIなど成長産業への投資接点を広げる半導体不を灯してくださいイベントを実施する。サムスン電子株とETF1株の特典で個人投資家の関心を狙う。",
+        "metaDescription": "ウリ投資証券の半導体イベントは2026年8月10日まで。サムスン電子株とETF1株の特典、AI半導体投資、韓国ETF市場への影響を整理する。",
+        "summary": "ウリ投資証券は2026年8月10日まで、半導体とAIをテーマにした半導体不を灯してくださいイベントを進める。中心となる特典はサムスン電子株とETF1株だ。韓国の個人投資家は代表的な半導体株と分散型ETFを同時に比較できる。ただし価格変動リスクの確認が必要だ。",
+        "body": "ウリ投資証券の半導体不を灯してくださいイベントは、半導体と人工知能を個人投資家のポートフォリオ選択肢に引き上げる施策だ。期間は2026年8月10日までで、サムスン電子株とETF1株の贈呈特典を前面に出す。\n\n## 半導体とAI需要\nサムスン電子は韓国株式市場を代表する半導体銘柄で、メモリー、ファウンドリー、AIサーバー需要と結び付く。ETFを組み合わせることで、単一銘柄だけでなく半導体・AI関連資産を分散して見る入口ができる。\n\n## 投資家への意味\n確認できる主要数値は2026年8月10日の期限と1株特典だ。ウォン建て価値は付与時や売買時の市場価格で変わる。投資家は口座条件、取引要件、税負担、支給時期を確認する必要がある。イベントは半導体ETF検索を押し上げる可能性があるが、成果はAI半導体需要、メモリー価格、為替、米国テック株の流れに左右される。",
+        "keywords": [
+          "ウリ投資証券",
+          "半導体イベント",
+          "サムスン電子",
+          "ETF1株",
+          "AI投資",
+          "韓国ETF",
+          "半導体ETF",
+          "個人投資家",
+          "ウリ投資証券の半導体イベント、サムスン電"
+        ],
+        "faq": [
+          {
+            "q": "イベントはいつまでですか。",
+            "a": "2026年8月10日まで実施される。"
+          },
+          {
+            "q": "主な特典は何ですか。",
+            "a": "サムスン電子株とETF1株の贈呈特典が中心で、実際の支給はイベント条件に従う。"
+          },
+          {
+            "q": "投資家が注意すべき点は何ですか。",
+            "a": "株式とETFは価格変動で損失が出る可能性があり、口座条件、取引要件、税負担、支給時期の確認が必要だ。"
+          }
+        ]
+      },
+      "zh": {
+        "title": "Woori投资证券半导体活动：三星电子股票与ETF 1股权益扩大AI投资入口",
+        "excerpt": "Woori投资证券将半导体不を켜주세요活动推进至2026年8月10日，面向关注半导体和AI成长产业的韩国个人投资者，设置三星电子股票与ETF 1股相关权益。",
+        "metaDescription": "Woori投资证券半导体活动持续至2026年8月10日，涵盖三星电子股票、ETF 1股权益、AI半导体投资要点及韩国ETF市场影响。",
+        "summary": "Woori投资证券的半导体不を켜주세요活动持续至2026年8月10日。核心权益围绕三星电子股票和ETF 1股展开。该活动让韩国个人投资者同时观察代表性半导体个股和分散型ETF。股票和ETF价格会随市场波动，参与前仍需确认具体条件。",
+        "body": "Woori投资证券的半导体不を켜주세요活动，把半导体和人工智能主题直接放到韩国个人投资者面前。活动截至2026年8月10日，核心设计是围绕三星电子股票与ETF 1股的赠送权益，帮助投资者接触未来成长产业。\n\n## 半导体与AI需求\n三星电子是韩国股市最具代表性的半导体股票之一，受存储芯片、晶圆代工和AI服务器需求影响明显。ETF的加入让投资者不只关注单一股票，也能比较一篮子半导体、AI和科技资产的分散投资方式。\n\n## 对投资者的影响\n关键数字是2026年8月10日的截止日和1股权益。相关韩元价值取决于 지급或交易时的市场价格。投资者应确认开户条件、交易要求、税费承担和 지급时间。该活动可能提高半导体ETF搜索热度，但实际收益仍取决于AI芯片需求、存储价格、汇率和全球科技股走势。",
+        "keywords": [
+          "Woori投资证券",
+          "半导体活动",
+          "三星电子",
+          "ETF 1股",
+          "AI投资",
+          "韩国ETF",
+          "半导体ETF",
+          "个人投资者",
+          "Woori投资证券半导体活动：三星电子股"
+        ],
+        "faq": [
+          {
+            "q": "活动什么时候结束？",
+            "a": "活动截至2026年8月10日。"
+          },
+          {
+            "q": "主要权益是什么？",
+            "a": "核心权益围绕三星电子股票和ETF 1股展开，实际 지급按活动条件执行。"
+          },
+          {
+            "q": "投资者需要注意什么？",
+            "a": "股票和ETF存在价格波动风险，应确认账户、交易、税费和 지급时间等条件。"
+          }
+        ]
+      },
+      "es": {
+        "title": "Woori impulsa evento de semiconductores con Samsung, ETF y foco en inversión en IA",
+        "excerpt": "Woori Investment & Securities realizará hasta el 10 de agosto de 2026 el evento Semiconductor Light On, orientado a semiconductores e IA, con beneficios ligados a acciones de Samsung Electronics y una participación de ETF.",
+        "metaDescription": "Woori Investment & Securities mantiene hasta el 10 de agosto de 2026 un evento de semiconductores con beneficios de Samsung Electronics y ETF para inversores coreanos.",
+        "summary": "Woori Investment & Securities desarrolla el evento Semiconductor Light On hasta el 10 de agosto de 2026. El beneficio central combina acciones de Samsung Electronics y una participación de ETF. La campaña acerca a los inversores minoristas coreanos a una acción líder de chips y a una alternativa diversificada. El riesgo de mercado sigue siendo decisivo.",
+        "body": "Woori Investment & Securities desarrolla el evento Semiconductor Light On hasta el 10 de agosto de 2026. La campaña conecta la inversión en semiconductores e inteligencia artificial con beneficios ligados a acciones de Samsung Electronics y una participación de ETF, dos puertas de entrada relevantes para el inversor minorista coreano.\n\n## Demanda de chips e IA\nSamsung Electronics es una referencia del mercado surcoreano por su exposición a memoria, fundición y servidores de IA. El ETF añade una vía más diversificada, útil para comparar una acción individual con una cesta de activos tecnológicos o de semiconductores.\n\n## Impacto para el inversor\nLas cifras clave son la fecha límite del 10 de agosto de 2026 y el beneficio de una participación. Su valor en wones dependerá del precio de mercado al momento de entrega o negociación. Los inversores deben revisar condiciones de cuenta, requisitos de operación, impuestos y calendario de pago. El interés en ETF de semiconductores puede subir, pero el rendimiento dependerá de demanda de chips, precios de memoria, divisas y tecnológicas globales.",
+        "keywords": [
+          "Woori Investment & Securities",
+          "evento de semiconductores",
+          "Samsung Electronics",
+          "ETF",
+          "inversión en IA",
+          "ETF coreano",
+          "ETF de semiconductores",
+          "inversores minoristas",
+          "Woori impulsa evento"
+        ],
+        "faq": [
+          {
+            "q": "¿Hasta cuándo dura el evento?",
+            "a": "El evento estará vigente hasta el 10 de agosto de 2026."
+          },
+          {
+            "q": "¿Cuál es el beneficio principal?",
+            "a": "El beneficio se centra en acciones de Samsung Electronics y una participación de ETF, sujeto a condiciones del evento."
+          },
+          {
+            "q": "¿Qué debe revisar un inversor?",
+            "a": "Debe revisar reglas de cuenta, requisitos de negociación, impuestos, fecha de pago y riesgo de precio de acciones y ETF."
+          }
+        ]
+      },
+      "pt": {
+        "title": "Woori lança evento de semicondutores com Samsung, ETF e foco em investimento em IA",
+        "excerpt": "A Woori Investment & Securities realiza até 10 de agosto de 2026 o evento Semiconductor Light On, voltado a semicondutores e IA, com benefícios ligados a ações da Samsung Electronics e a uma cota de ETF.",
+        "metaDescription": "Woori Investment & Securities promove até 10 de agosto de 2026 evento de semicondutores com benefícios de Samsung Electronics e ETF para investidores coreanos.",
+        "summary": "A Woori Investment & Securities realiza o evento Semiconductor Light On até 10 de agosto de 2026. O benefício principal envolve ações da Samsung Electronics e uma cota de ETF. A ação ajuda investidores pessoa física na Coreia a comparar uma líder de chips com exposição diversificada via ETF. O risco de preço permanece relevante.",
+        "body": "A Woori Investment & Securities realiza o evento Semiconductor Light On até 10 de agosto de 2026. A campanha aproxima semicondutores e inteligência artificial do investidor de varejo coreano, usando benefícios ligados a ações da Samsung Electronics e a uma cota de ETF.\n\n## Semicondutores e IA\nA Samsung Electronics é referência no mercado acionário coreano por sua exposição a memória, fundição e demanda por servidores de IA. O ETF amplia o foco, pois permite comparar uma ação individual com uma cesta de ativos de chips, tecnologia ou IA.\n\n## Impacto ao investidor\nOs números centrais são o prazo de 10 de agosto de 2026 e o benefício de uma cota. O valor em won varia conforme o preço de mercado no momento de entrega ou negociação. O investidor deve verificar regras de conta, exigências de negociação, impostos e data de pagamento. A promoção pode elevar buscas por ETFs de semicondutores, mas retornos dependerão da demanda por chips, preços de memória, câmbio e ações globais de tecnologia.",
+        "keywords": [
+          "Woori Investment & Securities",
+          "evento de semicondutores",
+          "Samsung Electronics",
+          "cota de ETF",
+          "investimento em IA",
+          "ETF coreano",
+          "ETF de semicondutores",
+          "investidor pessoa física",
+          "Woori lança evento d"
+        ],
+        "faq": [
+          {
+            "q": "Quando termina o evento?",
+            "a": "O evento segue até 10 de agosto de 2026."
+          },
+          {
+            "q": "Qual é o principal benefício?",
+            "a": "O benefício envolve ações da Samsung Electronics e uma cota de ETF, conforme as condições do evento."
+          },
+          {
+            "q": "O que o investidor deve conferir?",
+            "a": "Regras de conta, requisitos de negociação, impostos, prazo de pagamento e risco de preço de ações e ETFs."
+          }
+        ]
+      },
+      "de": {
+        "title": "Woori-Halbleiteraktion verbindet Samsung-Aktie, ETF-Anteil und KI-Investments",
+        "excerpt": "Woori Investment & Securities führt die Aktion Semiconductor Light On bis zum 10. August 2026 durch. Sie richtet sich an koreanische Privatanleger, die Halbleiter und KI über Samsung Electronics und ETF-Vorteile prüfen wollen.",
+        "metaDescription": "Woori Investment & Securities bietet bis 10. August 2026 eine Halbleiter- und KI-Aktion mit Vorteilen rund um Samsung Electronics und einen ETF-Anteil.",
+        "summary": "Woori Investment & Securities führt die Aktion Semiconductor Light On bis zum 10. August 2026. Im Mittelpunkt stehen Vorteile rund um Samsung Electronics und einen ETF-Anteil. Die Aktion gibt koreanischen Privatanlegern einen Vergleich zwischen einer führenden Chipaktie und diversifiziertem ETF-Zugang. Kursrisiken bleiben wesentlich.",
+        "body": "Woori Investment & Securities führt die Aktion Semiconductor Light On bis zum 10. August 2026 durch. Sie verbindet das Interesse an Halbleitern und künstlicher Intelligenz mit Vorteilen rund um Samsung Electronics und einen ETF-Anteil.\n\n## Halbleiter und KI\nSamsung Electronics gilt in Korea als zentrale Chipaktie mit Bezug zu Speicher, Foundry-Geschäft und KI-Servern. Der ETF-Aspekt erweitert den Blick über eine Einzelaktie hinaus, weil ein ETF Zugang zu einem Korb aus Halbleiter-, KI- oder Technologiewerten bieten kann.\n\n## Bedeutung für Anleger\nDie wichtigsten Zahlen sind der 10. August 2026 und der Ein-Anteil-Vorteil. Der Wert in Won hängt vom Marktpreis zum Zeitpunkt der Zuteilung oder des Handels ab. Anleger sollten Kontoregeln, Handelsbedingungen, Steuern und Zahlungszeitpunkt prüfen. Die Aktion kann die Suche nach Halbleiter-ETFs erhöhen, doch die Rendite hängt von Chipnachfrage, Speicherpreisen, Wechselkursen und globalen Technologiewerten ab.",
+        "keywords": [
+          "Woori Investment & Securities",
+          "Halbleiteraktion",
+          "Samsung Electronics",
+          "ETF-Anteil",
+          "KI-Investment",
+          "Korea ETF",
+          "Halbleiter ETF",
+          "Privatanleger",
+          "Woori-Halbleiterakti"
+        ],
+        "faq": [
+          {
+            "q": "Bis wann läuft die Aktion?",
+            "a": "Die Aktion läuft bis zum 10. August 2026."
+          },
+          {
+            "q": "Was ist der zentrale Vorteil?",
+            "a": "Im Mittelpunkt stehen Vorteile rund um Samsung Electronics und einen ETF-Anteil, abhängig von den Aktionsbedingungen."
+          },
+          {
+            "q": "Was sollten Anleger prüfen?",
+            "a": "Kontoregeln, Handelsanforderungen, Steuern, Zahlungszeitpunkt und das Kursrisiko von Aktien und ETFs."
+          }
+        ]
+      },
+      "fr": {
+        "title": "Woori cible les semi-conducteurs avec Samsung, un ETF et l’investissement IA",
+        "excerpt": "Woori Investment & Securities organise jusqu’au 10 août 2026 l’événement Semiconductor Light On, axé sur les semi-conducteurs et l’IA, avec des avantages liés à Samsung Electronics et à une part d’ETF.",
+        "metaDescription": "Woori Investment & Securities mène jusqu’au 10 août 2026 un événement semi-conducteurs et IA avec avantages Samsung Electronics et ETF pour investisseurs coréens.",
+        "summary": "Woori Investment & Securities organise l’événement Semiconductor Light On jusqu’au 10 août 2026. L’avantage central porte sur Samsung Electronics et une part d’ETF. L’opération permet aux investisseurs particuliers coréens de comparer une grande valeur des puces avec une exposition diversifiée. Le risque de marché reste déterminant.",
+        "body": "Woori Investment & Securities organise l’événement Semiconductor Light On jusqu’au 10 août 2026. L’opération transforme le thème des semi-conducteurs et de l’intelligence artificielle en point d’entrée concret pour les particuliers coréens, avec des avantages liés à Samsung Electronics et à une part d’ETF.\n\n## Semi-conducteurs et IA\nSamsung Electronics demeure une référence du marché coréen grâce à la mémoire, à la fonderie et à la demande des serveurs IA. L’ETF élargit l’approche, car il permet de comparer une action unique avec un panier d’actifs liés aux puces, à l’IA ou à la technologie.\n\n## Effet pour les investisseurs\nLes chiffres clés sont l’échéance du 10 août 2026 et l’avantage d’une part. La valeur en wons dépendra du prix de marché au moment de l’attribution ou de la transaction. Les investisseurs doivent vérifier les conditions de compte, les exigences de trading, la fiscalité et le calendrier de versement. L’intérêt pour les ETF semi-conducteurs peut augmenter, mais les performances dépendront de la demande en puces, des prix mémoire, du change et des valeurs technologiques mondiales.",
+        "keywords": [
+          "Woori Investment & Securities",
+          "événement semi-conducteurs",
+          "Samsung Electronics",
+          "part ETF",
+          "investissement IA",
+          "ETF coréen",
+          "ETF semi-conducteurs",
+          "investisseurs particuliers",
+          "Woori cible les semi"
+        ],
+        "faq": [
+          {
+            "q": "Quand l’événement prend-il fin ?",
+            "a": "Il se termine le 10 août 2026."
+          },
+          {
+            "q": "Quel est l’avantage principal ?",
+            "a": "L’avantage porte sur Samsung Electronics et une part d’ETF, selon les conditions de l’événement."
+          },
+          {
+            "q": "Que doivent vérifier les investisseurs ?",
+            "a": "Les règles de compte, les conditions de trading, les taxes, le calendrier de versement et le risque de prix des actions et ETF."
+          }
+        ]
+      },
+      "ar": {
+        "title": "فعالية ووري لأشباه الموصلات تربط سهم سامسونغ وصندوق ETF بفرص الاستثمار في الذكاء الاصطناعي",
+        "excerpt": "تواصل Woori Investment & Securities فعالية Semiconductor Light On حتى 10 أغسطس 2026، مستهدفة المستثمرين الأفراد في كوريا بفرص مرتبطة بأشباه الموصلات والذكاء الاصطناعي عبر سامسونغ إلكترونيكس وETF.",
+        "metaDescription": "فعالية Woori Investment & Securities لأشباه الموصلات مستمرة حتى 10 أغسطس 2026 مع مزايا مرتبطة بسهم سامسونغ إلكترونيكس وحصة ETF للمستثمرين في كوريا.",
+        "summary": "تنفذ Woori Investment & Securities فعالية Semiconductor Light On حتى 10 أغسطس 2026. تتمحور الميزة الأساسية حول سهم سامسونغ إلكترونيكس وحصة واحدة من ETF. تتيح الحملة للمستثمرين الأفراد في كوريا مقارنة سهم رائد في الرقائق بتعرض متنوع عبر ETF. تبقى مخاطر الأسعار قائمة.",
+        "body": "تنفذ Woori Investment & Securities فعالية Semiconductor Light On حتى 10 أغسطس 2026. تربط الحملة موضوع أشباه الموصلات والذكاء الاصطناعي بمزايا مرتبطة بسهم سامسونغ إلكترونيكس وحصة واحدة من ETF، لتوفير مدخل عملي للمستثمرين الأفراد في كوريا.\n\n## أشباه الموصلات والذكاء الاصطناعي\nتعد سامسونغ إلكترونيكس سهما محوريا في السوق الكورية بفضل الذاكرة وأعمال التصنيع والطلب على خوادم الذكاء الاصطناعي. وجود ETF يوسع المقارنة من سهم منفرد إلى سلة أصول قد تشمل الرقائق أو الذكاء الاصطناعي أو التكنولوجيا.\n\n## أثرها على المستثمر\nالأرقام الأساسية هي موعد 10 أغسطس 2026 وميزة الحصة الواحدة. القيمة بالوون ستتغير حسب سعر السوق عند المنح أو التداول. على المستثمر مراجعة شروط الحساب، متطلبات التداول، الضرائب وموعد الدفع. قد تزيد الحملة الاهتمام بصناديق ETF لأشباه الموصلات، لكن العائدات ستتأثر بطلب الرقائق وأسعار الذاكرة وسعر الصرف وأسهم التكنولوجيا العالمية.",
+        "keywords": [
+          "Woori Investment & Securities",
+          "فعالية أشباه الموصلات",
+          "سامسونغ إلكترونيكس",
+          "حصة ETF",
+          "استثمار الذكاء الاصطناعي",
+          "ETF كوريا",
+          "ETF أشباه الموصلات",
+          "المستثمرون الأفراد",
+          "فعالية ووري لأشباه ا"
+        ],
+        "faq": [
+          {
+            "q": "متى تنتهي الفعالية؟",
+            "a": "تنتهي في 10 أغسطس 2026."
+          },
+          {
+            "q": "ما الميزة الرئيسية؟",
+            "a": "تتمحور حول سهم سامسونغ إلكترونيكس وحصة واحدة من ETF، وفقا لشروط الفعالية."
+          },
+          {
+            "q": "ما الذي يجب على المستثمر مراجعته؟",
+            "a": "شروط الحساب، متطلبات التداول، الضرائب، موعد الدفع ومخاطر أسعار الأسهم وصناديق ETF."
+          }
+        ]
+      },
+      "hi": {
+        "title": "Woori का सेमीकंडक्टर इवेंट Samsung और ETF शेयर के साथ AI निवेश अवसर बढ़ाता है",
+        "excerpt": "Woori Investment & Securities 10 अगस्त 2026 तक Semiconductor Light On इवेंट चला रही है। यह कोरियाई रिटेल निवेशकों को Samsung Electronics और ETF शेयर लाभ के जरिए सेमीकंडक्टर और AI थीम से जोड़ता है।",
+        "metaDescription": "Woori Investment & Securities का सेमीकंडक्टर और AI निवेश इवेंट 10 अगस्त 2026 तक चलेगा, जिसमें Samsung Electronics और ETF शेयर से जुड़े लाभ शामिल हैं।",
+        "summary": "Woori Investment & Securities 10 अगस्त 2026 तक Semiconductor Light On इवेंट चला रही है। मुख्य लाभ Samsung Electronics शेयर और एक ETF शेयर से जुड़ा है। यह कोरियाई रिटेल निवेशकों को प्रमुख चिप शेयर और विविध ETF एक्सपोजर की तुलना करने का मौका देता है। बाजार मूल्य जोखिम फिर भी महत्वपूर्ण है।",
+        "body": "Woori Investment & Securities 10 अगस्त 2026 तक Semiconductor Light On इवेंट चला रही है। यह अभियान सेमीकंडक्टर और कृत्रिम बुद्धिमत्ता को कोरियाई रिटेल निवेशकों के लिए व्यावहारिक निवेश प्रवेश बिंदु बनाता है, जिसमें Samsung Electronics शेयर और एक ETF शेयर से जुड़े लाभ शामिल हैं।\n\n## सेमीकंडक्टर और AI\nSamsung Electronics कोरियाई बाजार का प्रमुख चिप शेयर है, जिसका संबंध मेमोरी, फाउंड्री और AI सर्वर मांग से है। ETF जोड़ने से निवेशक केवल एक शेयर तक सीमित नहीं रहते, बल्कि चिप, AI या टेक्नोलॉजी परिसंपत्तियों की टोकरी पर भी विचार कर सकते हैं।\n\n## निवेशक प्रभाव\nमुख्य आंकड़े 10 अगस्त 2026 की समयसीमा और एक शेयर लाभ हैं। वॉन में मूल्य 지급 या ट्रेडिंग के समय बाजार भाव पर निर्भर करेगा। निवेशकों को खाता नियम, ट्रेडिंग शर्तें, कर और भुगतान समय देखना चाहिए। इवेंट से सेमीकंडक्टर ETF में खोज रुचि बढ़ सकती है, लेकिन रिटर्न चिप मांग, मेमोरी कीमत, विनिमय दर और वैश्विक टेक शेयरों पर निर्भर रहेगा।",
+        "keywords": [
+          "Woori Investment & Securities",
+          "सेमीकंडक्टर इवेंट",
+          "Samsung Electronics",
+          "ETF शेयर",
+          "AI निवेश",
+          "कोरिया ETF",
+          "सेमीकंडक्टर ETF",
+          "रिटेल निवेशक",
+          "Woori का सेमीकंडक्टर"
+        ],
+        "faq": [
+          {
+            "q": "इवेंट कब तक चलेगा?",
+            "a": "इवेंट 10 अगस्त 2026 तक चलेगा।"
+          },
+          {
+            "q": "मुख्य लाभ क्या है?",
+            "a": "लाभ Samsung Electronics शेयर और एक ETF शेयर से जुड़ा है, जो इवेंट शर्तों के अधीन है।"
+          },
+          {
+            "q": "निवेशक को क्या जांचना चाहिए?",
+            "a": "खाता नियम, ट्रेडिंग शर्तें, कर, भुगतान समय और शेयर व ETF के मूल्य जोखिम की जांच जरूरी है।"
+          }
+        ]
+      },
+      "id": {
+        "title": "Event Semikonduktor Woori Tawarkan Saham Samsung dan ETF untuk Peluang Investasi AI",
+        "excerpt": "Woori Investment & Securities menggelar event Semiconductor Light On hingga 10 Agustus 2026. Program ini membuka akses investor ritel Korea ke tema semikonduktor dan AI melalui manfaat saham Samsung Electronics dan satu unit ETF.",
+        "metaDescription": "Woori Investment & Securities mengadakan event semikonduktor dan AI hingga 10 Agustus 2026 dengan manfaat saham Samsung Electronics dan satu unit ETF bagi investor Korea.",
+        "summary": "Woori Investment & Securities menggelar event Semiconductor Light On hingga 10 Agustus 2026. Manfaat utamanya terkait saham Samsung Electronics dan satu unit ETF. Program ini membantu investor ritel Korea membandingkan saham chip utama dengan eksposur ETF yang lebih terdiversifikasi. Risiko harga pasar tetap perlu diperhatikan.",
+        "body": "Woori Investment & Securities menggelar event Semiconductor Light On hingga 10 Agustus 2026. Program ini membawa tema semikonduktor dan kecerdasan buatan lebih dekat ke investor ritel Korea melalui manfaat yang terkait saham Samsung Electronics dan satu unit ETF.\n\n## Semikonduktor dan AI\nSamsung Electronics menjadi acuan utama pasar saham Korea untuk memori, foundry, dan permintaan server AI. Kehadiran ETF memperluas pilihan, karena investor dapat membandingkan satu saham dengan keranjang aset semikonduktor, AI, atau teknologi.\n\n## Dampak bagi investor\nAngka kuncinya adalah tenggat 10 Agustus 2026 dan manfaat satu unit. Nilai dalam won akan berubah sesuai harga pasar saat pemberian atau transaksi. Investor perlu memeriksa aturan rekening, syarat transaksi, pajak, dan jadwal pembayaran. Program ini dapat meningkatkan pencarian ETF semikonduktor, tetapi imbal hasil tetap bergantung pada permintaan chip, harga memori, kurs, dan saham teknologi global.",
+        "keywords": [
+          "Woori Investment & Securities",
+          "event semikonduktor",
+          "Samsung Electronics",
+          "unit ETF",
+          "investasi AI",
+          "ETF Korea",
+          "ETF semikonduktor",
+          "investor ritel"
+        ],
+        "faq": [
+          {
+            "q": "Kapan event ini berakhir?",
+            "a": "Event berlangsung hingga 10 Agustus 2026."
+          },
+          {
+            "q": "Apa manfaat utamanya?",
+            "a": "Manfaatnya terkait saham Samsung Electronics dan satu unit ETF, sesuai syarat event."
+          },
+          {
+            "q": "Apa yang harus diperiksa investor?",
+            "a": "Aturan rekening, syarat transaksi, pajak, jadwal pembayaran, serta risiko harga saham dan ETF."
+          }
+        ]
+      }
+    }
+  },
+  {
     "id": "20b7eba2e34f",
     "slug": "해외주식형-etf-올해는-반도체-천하-139843",
     "channelId": "ETF",
@@ -21482,112 +22226,6 @@
           {
             "q": "ETF 투자 전 반드시 확인할 점은 무엇인가?",
             "a": "총보수, 추적오차, 거래량, 환헤지 여부, 분배금 정책, 세금, 레버리지 구조를 확인해야 한다. 연금저축·IRP·ISA에서는 계좌별 편입 가능 상품과 과세 방식도 함께 따져야 한다."
-          }
-        ]
-      }
-    }
-  },
-  {
-    "id": "c7b9e75d40ca",
-    "slug": "한투운용-글로벌반도체top4plus-첫-10만원-돌파국내-반도체-etf-중-최단기-557183",
-    "channelId": "ETF",
-    "category": "etf",
-    "publishedAt": "2026-06-20T11:59:46.517Z",
-    "updatedAt": "2026-06-20T11:59:46.517Z",
-    "sourceName": "",
-    "sourceUrl": "",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12078248",
-    "titleFingerprint": "0709c97d73c263803eaa5f6767447f7213501376",
-    "dedupKeys": [
-      "c7b9e75d40ca83a52d4d58fc88547783ae0b3417",
-      "0709c97d73c263803eaa5f6767447f7213501376",
-      "8c46bd4d0ce25019505ad36d67007fa6ab2fa57f"
-    ],
-    "imageUrl": "/images/articles/c7b9e75d40ca.jpg",
-    "i18n": {
-      "ko": {
-        "title": "한투운용 글로벌반도체TOP4Plus 10만원 돌파, 국내 반도체 ETF 최단 기록",
-        "excerpt": "한국투자신탁운용의 ACE 글로벌반도체TOP4 Plus ETF가 상장 이후 처음으로 주당 10만원을 넘어섰다. 글로벌 반도체 핵심 종목 집중 전략이 성과를 내며 국내 반도체 ETF 시장의 최단 기록을 새로 썼다.",
-        "metaDescription": "ACE 글로벌반도체TOP4 Plus ETF가 첫 10만원을 돌파했다. 국내 반도체 ETF 중 최단 기록으로, 글로벌 AI·반도체 투자 수요가 반영됐다.",
-        "summary": "한국투자신탁운용의 ACE 글로벌반도체TOP4 Plus ETF가 상장 후 처음으로 주당 10만원 이상에 올라섰다. 국내 상장 반도체 ETF 가운데 가장 빠른 10만원 돌파 기록이다. 글로벌 반도체 대표 종목에 집중하는 구조가 AI 투자 확대와 맞물리며 성과를 키웠다. 국내 투자자에게는 원화로 글로벌 반도체 성장주에 접근하는 대표 상품으로 부각된다.",
-        "body": "한국투자신탁운용의 ACE 글로벌반도체TOP4 Plus 상장지수펀드(ETF)가 상장 이후 처음으로 주당 10만원선을 넘어섰다. 국내 반도체 ETF 가운데 최단 기간 10만원 돌파라는 기록도 함께 세웠다. 글로벌 인공지능(AI) 투자 확대, 고대역폭메모리(HBM) 수요, 첨단 파운드리 경쟁이 동시에 커지면서 반도체 핵심 기업을 선별해 담는 상품 구조가 빠르게 평가받은 결과다.\n\n## 글로벌 반도체 핵심주 집중 효과\nACE 글로벌반도체TOP4 Plus ETF는 글로벌 반도체 산업의 대표 기업에 투자하는 테마형 ETF다. 상품명 그대로 반도체 공급망에서 영향력이 큰 상위 기업군을 중심으로 포트폴리오를 구성한다. 국내 투자자는 해외 주식을 직접 매수하지 않아도 원화로 글로벌 반도체 성장주에 분산 투자할 수 있다. 특히 AI 서버, 그래픽처리장치(GPU), 메모리, 장비, 파운드리로 이어지는 산업 사이클이 강해지면서 반도체 ETF 전반에 자금 관심이 높아졌다.\n\n## 10만원 돌파가 갖는 의미\nETF의 주당 가격이 10만원을 넘었다는 점은 단순한 숫자 이상의 의미를 갖는다. 상장 이후 기초자산 상승분과 환율 영향, 글로벌 기술주 선호가 누적되며 순자산가치와 시장가격이 함께 높아졌다는 뜻이다. 국내 반도체 ETF 중 최단 기록이라는 점은 투자자들이 국내 반도체주뿐 아니라 미국과 대만 등 글로벌 반도체 밸류체인까지 투자 범위를 넓히고 있음을 보여준다. 원·달러 환율 변동은 수익률에 영향을 줄 수 있지만, 해외 반도체 대표주에 원화 계좌로 접근할 수 있다는 편의성은 개인 투자자에게 중요한 장점이다.\n\n## 국내 ETF 시장 영향과 전망\n이번 기록은 국내 ETF 시장에서 반도체 테마가 여전히 핵심 성장 축이라는 점을 확인시켰다. 국내 투자자는 개별 종목 리스크를 줄이면서 AI 반도체 성장에 참여할 수 있고, 운용사는 세분화된 글로벌 테마 상품 경쟁을 더 강화할 가능성이 크다. 다만 반도체 업종은 실적 기대, 금리, 환율, 미국 기술주 밸류에이션에 민감하다. 주당 가격 10만원 돌파가 장기 성과를 보장하지는 않는다. 앞으로는 AI 투자 지속성, 메모리 가격 회복, 주요 반도체 기업의 실적 발표가 ETF 흐름을 좌우할 전망이다.",
-        "keywords": [
-          "ACE 글로벌반도체TOP4 Plus",
-          "글로벌반도체TOP4Plus",
-          "한국투자신탁운용",
-          "한투운용 ETF",
-          "반도체 ETF",
-          "국내 반도체 ETF",
-          "AI 반도체",
-          "글로벌 반도체 투자",
-          "ETF 10만원 돌파",
-          "한투운용 글로벌반도체TOP4Plus"
-        ],
-        "faq": [
-          {
-            "q": "ACE 글로벌반도체TOP4 Plus ETF는 무엇인가?",
-            "a": "한국투자신탁운용이 운용하는 글로벌 반도체 테마 ETF로, 반도체 산업의 주요 글로벌 기업에 투자하는 상품이다."
-          },
-          {
-            "q": "이번 10만원 돌파가 중요한 이유는 무엇인가?",
-            "a": "상장 이후 처음으로 주당 가격 10만원 이상을 기록했고, 국내 반도체 ETF 가운데 최단 기간 10만원 돌파 기록을 세웠기 때문이다."
-          },
-          {
-            "q": "국내 투자자에게 어떤 의미가 있나?",
-            "a": "해외 반도체 대표주를 직접 매수하지 않고도 국내 계좌와 원화 기반으로 글로벌 반도체 성장에 접근할 수 있다는 점에서 투자 선택지가 넓어진다."
-          }
-        ]
-      }
-    }
-  },
-  {
-    "id": "a0e494297eaf",
-    "slug": "신한운용-반도체etf-석달만에-자산-7조-653337",
-    "channelId": "ETF",
-    "category": "etf",
-    "publishedAt": "2026-06-20T11:59:10.087Z",
-    "updatedAt": "2026-06-20T11:59:10.088Z",
-    "sourceName": "",
-    "sourceUrl": "",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12078693",
-    "titleFingerprint": "2dcfffe61b6cc9f0a4b6da1cc4cd8cb4c0b23e66",
-    "dedupKeys": [
-      "a0e494297eaf7d24fc9bda1cd5f64257a6373787",
-      "2dcfffe61b6cc9f0a4b6da1cc4cd8cb4c0b23e66",
-      "3831026daeda93768fb971387d60f55812291013"
-    ],
-    "imageUrl": "/images/articles/a0e494297eaf.jpg",
-    "i18n": {
-      "ko": {
-        "title": "신한운용 반도체 ETF, 상장 석 달 만에 순자산 7조원 돌파",
-        "excerpt": "신한자산운용의 SOL AI반도체TOP2플러스 ETF가 19일 기준 순자산 7조원을 넘어섰다. AI 반도체 투자 수요가 삼성전자·SK하이닉스 등 국내 대형주 중심 ETF로 빠르게 몰린 결과다.",
-        "metaDescription": "신한운용 SOL AI반도체TOP2플러스 ETF가 석 달 만에 순자산 7조원을 돌파했다. AI 반도체 투자 열기와 국내 ETF 시장 영향을 짚었다.",
-        "summary": "신한자산운용의 SOL AI반도체TOP2플러스 ETF가 상장 석 달 만에 순자산 7조원을 넘어섰다. AI 반도체 수요 확대와 국내 대표 반도체주 선호가 자금 유입을 이끌었다. 국내 반도체 ETF 시장에서는 대형주 집중형 상품의 영향력이 커지는 흐름이 뚜렷하다.",
-        "body": "핵심 결론은 분명하다. 신한자산운용의 SOL AI반도체TOP2플러스 상장지수펀드(ETF)가 19일 기준 순자산 7조원을 돌파했다. 상장 이후 석 달 만의 성과로, 국내 ETF 시장에서 AI 반도체 테마가 단기 유행을 넘어 핵심 투자 축으로 자리 잡고 있음을 보여준다.\n\n## AI 반도체 ETF로 몰린 자금\nSOL AI반도체TOP2플러스는 국내 대표 반도체 대형주와 AI 반도체 밸류체인에 투자하는 상품이다. 투자자들은 개별 종목을 직접 고르기보다 ETF를 통해 반도체 업황 회복과 인공지능 인프라 확장에 동시에 대응하는 방식을 선택하고 있다. 특히 국내 투자자에게 반도체는 삼성전자, SK하이닉스 등 익숙한 대형주와 연결돼 접근성이 높다. 원화로 거래되고 국내 증시에 상장돼 있어 해외 AI 반도체주 투자보다 환전, 세금, 거래 시간 부담이 낮다는 점도 자금 유입을 뒷받침했다.\n\n## 순자산 7조원이 갖는 의미\n순자산 7조원은 국내 테마형 ETF 가운데서도 눈에 띄는 규모다. ETF 순자산은 투자자 자금 유입과 편입 자산 가격 상승이 함께 반영되는 지표다. 이번 돌파는 AI 서버, 고대역폭메모리, 파운드리, 데이터센터 투자 확대가 국내 반도체주에 대한 기대를 높였다는 의미를 갖는다. 국내 반도체 ETF 시장에서는 순자산 상위권 상품 간 경쟁도 더 치열해졌다. 투자자 입장에서는 거래량, 추적오차, 총보수, 편입 종목 비중을 함께 확인해야 한다. 순자산이 크면 유동성 측면에서 유리하지만, 특정 대형주 비중이 높을 경우 해당 종목 주가 변동에 수익률이 크게 흔들릴 수 있다.\n\n## 투자자 영향과 전망\n이번 자금 유입은 국내 ETF 산업에도 파급력이 크다. 자산운용사들은 AI, 반도체, 전력 인프라, 데이터센터 등 관련 테마를 세분화한 상품을 더 적극적으로 내놓을 가능성이 높다. 다만 반도체 ETF는 경기 민감도가 높고 업황 사이클, 미국 기술주 흐름, 원·달러 환율, 수출 지표에 영향을 받는다. 금융당국의 ETF 공시·투자자 보호 기준 아래에서 상품 구조와 위험 등급을 확인하는 과정도 중요하다. SOL AI반도체TOP2플러스의 7조원 돌파는 AI 반도체 투자 수요가 국내 자본시장 안에서 얼마나 빠르게 제도권 상품으로 흡수되고 있는지를 보여주는 사례다. 향후 관건은 반도체 실적 개선이 실제 이익 증가로 이어지고, ETF 자금 유입이 단기 쏠림을 넘어 장기 투자 기반으로 유지되는지에 달려 있다.",
-        "keywords": [
-          "신한운용 반도체 ETF",
-          "SOL AI반도체TOP2플러스",
-          "AI 반도체 ETF",
-          "반도체 ETF",
-          "신한자산운용",
-          "ETF 순자산",
-          "국내 ETF 시장",
-          "삼성전자 ETF",
-          "SK하이닉스 ETF",
-          "신한운용 반도체 ETF, 상장 석 달"
-        ],
-        "faq": [
-          {
-            "q": "SOL AI반도체TOP2플러스 ETF 순자산은 얼마인가요?",
-            "a": "19일 기준 순자산 7조원을 돌파했다. 상장 석 달 만에 달성한 규모다."
-          },
-          {
-            "q": "왜 AI 반도체 ETF에 자금이 몰리나요?",
-            "a": "AI 서버, 고대역폭메모리, 데이터센터 투자 확대 기대가 커지면서 국내 대표 반도체주와 관련 밸류체인에 분산 투자하려는 수요가 늘었다."
-          },
-          {
-            "q": "반도체 ETF 투자 시 무엇을 확인해야 하나요?",
-            "a": "순자산 규모뿐 아니라 거래량, 총보수, 추적오차, 편입 종목 비중, 특정 대형주 쏠림 여부를 함께 확인해야 한다."
           }
         ]
       }
