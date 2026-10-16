@@ -1,5 +1,5 @@
 import {test} from 'node:test';import assert from 'node:assert/strict';import fs from 'node:fs';
-const ids=['expense-ratio','tracking-difference-error','spread-liquidity','premium-discount-nav'];
+const ids=['expense-ratio','tracking-difference-error','spread-liquidity','premium-discount-nav','index-vs-active-etfs','etf-vs-mutual-fund-trading','bond-etf-duration-risk','leveraged-inverse-daily-reset','etf-distributions-tax-basics','reading-prospectus-holdings'];
 for(const id of ids)test('guide contract: '+id,()=>{
  const raw=fs.readFileSync('src/content/guides/'+id+'.md','utf8');const body=raw.split('---')[2];const words=body.trim().split(/\s+/).length;assert.ok(words>=800&&words<=1500,`body words ${words}`);
  const h=fs.readFileSync('dist/guides/'+id+'/index.html','utf8');const json=[...h.matchAll(/<script type="application\/ld\+json">(.*?)<\/script>/gs)].flatMap(m=>JSON.parse(m[1])['@graph']||[]);
@@ -9,5 +9,7 @@ for(const id of ids)test('guide contract: '+id,()=>{
  const title=h.match(/<title>(.*?)<\/title>/s)[1],desc=h.match(/name="description" content="([^"]*)"/)[1];assert.ok(title.length>=50&&title.length<=60);assert.ok(desc.length>=150&&desc.length<=160);
  assert.ok(fs.readFileSync('dist/sitemap.xml','utf8').includes('/guides/'+id+'/'));
 });
-test('RSS exactly covers four guides with stable identities',()=>{const rss=fs.readFileSync('dist/rss.xml','utf8');assert.equal((rss.match(/<item>/g)||[]).length,4);for(const id of ids)assert.ok(rss.includes('<guid isPermaLink="true">https://etfnewsdaily.online/guides/'+id+'/</guid>'));assert.ok(rss.includes('Fri, 16 Oct 2026 00:00:00 GMT'));});
+test('RSS exactly covers ten guides with stable identities',()=>{const rss=fs.readFileSync('dist/rss.xml','utf8');assert.equal((rss.match(/<item>/g)||[]).length,10);for(const id of ids)assert.ok(rss.includes('<guid isPermaLink="true">https://etfnewsdaily.online/guides/'+id+'/</guid>'));assert.ok(rss.includes('Fri, 16 Oct 2026 00:00:00 GMT'));});
 test('worked examples use the stated formulas',()=>{assert.ok(Math.abs(10000*Math.pow(0.998,10)-9801.790433519494)<0.001);assert.ok(Math.abs(10000*Math.pow(0.995,10)-9511.101304657719)<0.001);assert.ok(Math.abs((100/101-1)*100+0.9900990099)<1e-8);assert.ok(Math.abs((100/99-1)*100-1.0101010101)<1e-8);assert.ok(Math.abs((100.1-99.9)*100-20)<1e-8);});
+
+test("new guide worked scenarios",()=>{assert.ok(Math.abs(100*1.2*0.8-96)<1e-9);assert.ok(Math.abs(100*1.1*0.9-99)<1e-9);assert.ok(Math.abs(100*1.1*1.1-121)<1e-9);assert.equal(-6*0.005,-0.03);assert.equal(900-(1000-120),20);});
