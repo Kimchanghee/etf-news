@@ -1,0 +1,1 @@
+import fs from 'node:fs';import crypto from 'node:crypto';export function distHash(){const walk=d=>fs.readdirSync(d,{withFileTypes:true}).flatMap(e=>e.isDirectory()?walk(d+'/'+e.name):[d+'/'+e.name]);const h=crypto.createHash('sha256');for(const p of walk('dist').sort()){h.update(p);h.update(fs.readFileSync(p));}return h.digest('hex');}
