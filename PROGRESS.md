@@ -17,3 +17,6 @@ Concept: "The Fee Meter" — ETF cost calculators + new-ETF filings tracker (cos
 
 ## Log
 - 2026-10-15: M0 done.
+
+## 2026-10-16 checkpoint A
+Preserved 195d2b1 calculator source and dirty pnpm lock. Added static Fee Meter layout, four calculator routes, home/tools hub, real SEC snapshot (partial first batch, primary documents only), refresh with retain-on-failure. Existing node tests: 10/10 pass. Remaining: trust/content/SEO scripts and local QA. No deployment.

@@ -1,0 +1,4 @@
+---
+import Layout from '../../layouts/Layout.astro';import tools from '../../data/tools.json';
+---
+<Layout title="ETF Cost Tools: Fees, Spreads and Dividend Tax Models" description="Choose a transparent ETF cost model for annual fees, trading spreads, fund comparisons or dividend withholding. Review the assumptions before comparing any results."><h1>Four ways to read the bill.</h1><p class="lead">Use the model that matches your question. Each calculator uses your inputs, not live market prices or assumed personal tax treatment.</p><div class="tools">{tools.map(([s,n,q])=><section class="tool"><h2><a href={'/tools/'+s+'/'}>{n}</a></h2><p>{q}</p></section>)}</div><a href="/methodology/">Read every model convention</a></Layout>

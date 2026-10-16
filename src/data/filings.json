@@ -1,0 +1,218 @@
+{
+  "asOf": "2026-10-16T13:55:37.579Z",
+  "source": "SEC EDGAR full-text search",
+  "sourceUrl": "https://efts.sec.gov/LATEST/search-index?q=ETF&dateRange=custom&startdt=2026-10-01&enddt=2026-10-16&forms=485APOS%2C485BPOS%2CN-1A%2CS-1",
+  "totalDocuments": 292,
+  "rows": [
+    {
+      "filer": "Tidal Trust II  (CIK 0001924868)",
+      "date": "2026-10-02",
+      "form": "485APOS",
+      "name": "POST-EFFECTIVE AMENDMENT",
+      "url": "https://www.sec.gov/Archives/edgar/data/1924868/000199937126021956/0001999371-26-021956-index.html"
+    },
+    {
+      "filer": "Tidal Trust II  (CIK 0001924868)",
+      "date": "2026-10-05",
+      "form": "485APOS",
+      "name": "POST-EFFECTIVE AMENDMENT",
+      "url": "https://www.sec.gov/Archives/edgar/data/1924868/000199937126022093/0001999371-26-022093-index.html"
+    },
+    {
+      "filer": "Tidal Trust II  (CIK 0001924868)",
+      "date": "2026-10-02",
+      "form": "485APOS",
+      "name": "POST-EFFECTIVE AMENDMENT",
+      "url": "https://www.sec.gov/Archives/edgar/data/1924868/000199937126022009/0001999371-26-022009-index.html"
+    },
+    {
+      "filer": "Tidal Trust II  (CIK 0001924868)",
+      "date": "2026-10-08",
+      "form": "485BPOS",
+      "name": "POST-EFFECTIVE AMENDMENT",
+      "url": "https://www.sec.gov/Archives/edgar/data/1924868/000199937126022446/0001999371-26-022446-index.html"
+    },
+    {
+      "filer": "Tidal Trust IV  (CIK 0002043390)",
+      "date": "2026-10-02",
+      "form": "485APOS",
+      "name": "POST-EFFECTIVE AMENDMENT",
+      "url": "https://www.sec.gov/Archives/edgar/data/2043390/000199937126021925/0001999371-26-021925-index.html"
+    },
+    {
+      "filer": "ETF Opportunities Trust  (CIK 0001771146)",
+      "date": "2026-10-01",
+      "form": "485APOS",
+      "name": "485APOS",
+      "url": "https://www.sec.gov/Archives/edgar/data/1771146/000177114626001921/0001771146-26-001921-index.html"
+    },
+    {
+      "filer": "ETF Opportunities Trust  (CIK 0001771146)",
+      "date": "2026-10-07",
+      "form": "485APOS",
+      "name": "485APOS",
+      "url": "https://www.sec.gov/Archives/edgar/data/1771146/000177114626001947/0001771146-26-001947-index.html"
+    },
+    {
+      "filer": "Tidal Trust III  (CIK 0001722388)",
+      "date": "2026-10-01",
+      "form": "485APOS",
+      "name": "POST-EFFECTIVE AMENDMENT",
+      "url": "https://www.sec.gov/Archives/edgar/data/1722388/000199937126021798/0001999371-26-021798-index.html"
+    },
+    {
+      "filer": "Tidal Trust I  (CIK 0001742912)",
+      "date": "2026-10-05",
+      "form": "485APOS",
+      "name": "POST-EFFECTIVE AMENDMENT",
+      "url": "https://www.sec.gov/Archives/edgar/data/1742912/000199937126022143/0001999371-26-022143-index.html"
+    },
+    {
+      "filer": "Tidal Trust I  (CIK 0001742912)",
+      "date": "2026-10-15",
+      "form": "485APOS",
+      "name": "POST-EFFECTIVE AMENDMENT",
+      "url": "https://www.sec.gov/Archives/edgar/data/1742912/000199937126022809/0001999371-26-022809-index.html"
+    },
+    {
+      "filer": "RBB Fund Trust  (CIK 0001618627)",
+      "date": "2026-10-14",
+      "form": "485BPOS",
+      "name": "POST-EFFECTIVE AMENDMENT TO RULE 485(B)",
+      "url": "https://www.sec.gov/Archives/edgar/data/1618627/000199937126022742/0001999371-26-022742-index.html"
+    },
+    {
+      "filer": "Tidal Trust V  (CIK 0002081107)",
+      "date": "2026-10-09",
+      "form": "485BPOS",
+      "name": "POST-EFFECTIVE AMENDMENT",
+      "url": "https://www.sec.gov/Archives/edgar/data/2081107/000199937126022531/0001999371-26-022531-index.html"
+    },
+    {
+      "filer": "Tidal Trust V  (CIK 0002081107)",
+      "date": "2026-10-09",
+      "form": "485BPOS",
+      "name": "POST-EFFECTIVE AMENDMENT",
+      "url": "https://www.sec.gov/Archives/edgar/data/2081107/000199937126022534/0001999371-26-022534-index.html"
+    },
+    {
+      "filer": "ETF Opportunities Trust  (CIK 0001771146)",
+      "date": "2026-10-14",
+      "form": "485APOS",
+      "name": "485APOS",
+      "url": "https://www.sec.gov/Archives/edgar/data/1771146/000177114626001996/0001771146-26-001996-index.html"
+    },
+    {
+      "filer": "Tidal Trust V  (CIK 0002081107)",
+      "date": "2026-10-02",
+      "form": "485BPOS",
+      "name": "POST-EFFECTIVE AMENDMENT",
+      "url": "https://www.sec.gov/Archives/edgar/data/2081107/000199937126022020/0001999371-26-022020-index.html"
+    },
+    {
+      "filer": "Tidal Trust V  (CIK 0002081107)",
+      "date": "2026-10-01",
+      "form": "485BPOS",
+      "name": "POST-EFFECTIVE AMENDMENT",
+      "url": "https://www.sec.gov/Archives/edgar/data/2081107/000199937126021839/0001999371-26-021839-index.html"
+    },
+    {
+      "filer": "RBB FUND, INC.  (CIK 0000831114)",
+      "date": "2026-10-08",
+      "form": "485APOS",
+      "name": "485APOS",
+      "url": "https://www.sec.gov/Archives/edgar/data/831114/000139834426018044/0001398344-26-018044-index.html"
+    },
+    {
+      "filer": "NORTHERN LIGHTS FUND TRUST II  (CIK 0001518042)",
+      "date": "2026-10-09",
+      "form": "485BPOS",
+      "name": "485BPOS",
+      "url": "https://www.sec.gov/Archives/edgar/data/1518042/000158064226006835/0001580642-26-006835-index.html"
+    },
+    {
+      "filer": "EA Series Trust  (CIK 0001592900)",
+      "date": "2026-10-01",
+      "form": "485APOS",
+      "name": "485APOS",
+      "url": "https://www.sec.gov/Archives/edgar/data/1592900/000159290026004601/0001592900-26-004601-index.html"
+    },
+    {
+      "filer": "SP Funds Trust  (CIK 0001989916)",
+      "date": "2026-10-09",
+      "form": "485APOS",
+      "name": "POST-EFFECTIVE AMENDMENT",
+      "url": "https://www.sec.gov/Archives/edgar/data/1989916/000199937126022562/0001999371-26-022562-index.html"
+    },
+    {
+      "filer": "Tidal Trust V  (CIK 0002081107)",
+      "date": "2026-10-13",
+      "form": "485BPOS",
+      "name": "POST-EFFECTIVE AMENDMENT",
+      "url": "https://www.sec.gov/Archives/edgar/data/2081107/000199937126022635/0001999371-26-022635-index.html"
+    },
+    {
+      "filer": "EA Series Trust  (CIK 0001592900)",
+      "date": "2026-10-13",
+      "form": "485APOS",
+      "name": "485APOS",
+      "url": "https://www.sec.gov/Archives/edgar/data/1592900/000159290026004746/0001592900-26-004746-index.html"
+    },
+    {
+      "filer": "FIRST TRUST EXCHANGE-TRADED FUND VIII  (CIK 0001667919)",
+      "date": "2026-10-14",
+      "form": "485BPOS",
+      "name": "POST-EFFECTIVE AMENDMENT",
+      "url": "https://www.sec.gov/Archives/edgar/data/1667919/000144554626007606/0001445546-26-007606-index.html"
+    },
+    {
+      "filer": "Tidal Trust V  (CIK 0002081107)",
+      "date": "2026-10-02",
+      "form": "485BPOS",
+      "name": "POST-EFFECTIVE AMENDMENT",
+      "url": "https://www.sec.gov/Archives/edgar/data/2081107/000199937126021938/0001999371-26-021938-index.html"
+    },
+    {
+      "filer": "Advisor Managed Portfolios  (CIK 0001970751)",
+      "date": "2026-10-01",
+      "form": "485APOS",
+      "name": "485APOS",
+      "url": "https://www.sec.gov/Archives/edgar/data/1970751/000089418926029174/0000894189-26-029174-index.html"
+    },
+    {
+      "filer": "EA Series Trust  (CIK 0001592900)",
+      "date": "2026-10-09",
+      "form": "485APOS",
+      "name": "485APOS",
+      "url": "https://www.sec.gov/Archives/edgar/data/1592900/000159290026004744/0001592900-26-004744-index.html"
+    },
+    {
+      "filer": "Simplify Exchange Traded Funds  (CIK 0001810747)",
+      "date": "2026-10-14",
+      "form": "485APOS",
+      "name": "485APOS",
+      "url": "https://www.sec.gov/Archives/edgar/data/1810747/000182912626011114/0001829126-26-011114-index.html"
+    },
+    {
+      "filer": "LINCOLN NATIONAL LIFE INSURANCE CO /IN/  (CIK 0000726865)",
+      "date": "2026-10-07",
+      "form": "485APOS",
+      "name": "SUPPLEMENT",
+      "url": "https://www.sec.gov/Archives/edgar/data/726865/000072686526000993/0000726865-26-000993-index.html"
+    },
+    {
+      "filer": "REX ETF Trust  (CIK 0002043954)",
+      "date": "2026-10-09",
+      "form": "485BPOS",
+      "name": "POST-EFFECTIVE AMENDMENT",
+      "url": "https://www.sec.gov/Archives/edgar/data/2043954/000199937126022560/0001999371-26-022560-index.html"
+    },
+    {
+      "filer": "Harbor ETF Trust  (CIK 0001860434)",
+      "date": "2026-10-05",
+      "form": "485BPOS",
+      "name": "HARBOR ETF TRUST",
+      "url": "https://www.sec.gov/Archives/edgar/data/1860434/000119312526413968/0001193125-26-413968-index.html"
+    }
+  ]
+}
