@@ -11,7 +11,7 @@ export async function GET() {
   const snapshot = String(filings.asOf).slice(0, 10);
   const rows = (filings.rows as Row[]) ?? [];
   const text = [
-    `# ${site.name} (The Fee Meter): full text`,
+    `# ${site.name} (etfnewsdaily.online): full text`,
     '',
     `> ${site.description} Educational content, not investment or tax advice. No fund recommendations. No affiliate links.`,
     '',

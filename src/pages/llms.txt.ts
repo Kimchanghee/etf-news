@@ -8,7 +8,7 @@ export async function GET() {
   const guides = (await getCollection('guides')).sort((a, b) => a.id.localeCompare(b.id));
   const snapshot = String(filings.asOf).slice(0, 10);
   const lines = [
-    `# ${site.name} (The Fee Meter)`,
+    `# ${site.name} (etfnewsdaily.online)`,
     '',
     `> ${site.description} Educational cost models and a frozen historical SEC filings snapshot. Not investment or tax advice; no fund recommendations; no affiliate links.`,
     '',
